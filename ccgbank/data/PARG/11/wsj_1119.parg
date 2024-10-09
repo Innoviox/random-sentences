@@ -1,0 +1,47 @@
+<s id="wsj_1119.1"> 21
+2 	 0 	 N/N 	 1 	 Parrott Roy
+2 	 1 	 N/N 	 1 	 Parrott E.
+2 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Parrott was
+2 	 17 	 (S[pss]\NP)/PP 	 1 	 Parrott named <XB>
+5 	 4 	 NP[nb]/N 	 1 	 company the
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 company 's
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 president 's
+7 	 12 	 (NP\NP)/NP 	 1 	 president since
+7 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 president was
+7 	 17 	 (S[pss]\NP)/PP 	 1 	 president named <XB>
+11 	 6 	 (NP[nb]/N)\NP 	 1 	 officer 's
+11 	 9 	 N/N 	 1 	 officer chief
+11 	 10 	 N/N 	 1 	 officer operating
+11 	 12 	 (NP\NP)/NP 	 1 	 officer since
+11 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 officer was
+11 	 17 	 (S[pss]\NP)/PP 	 1 	 officer named <XB>
+13 	 12 	 (NP\NP)/NP 	 2 	 Sept. since
+14 	 13 	 N/N[num] 	 1 	 1 Sept.
+17 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+18 	 17 	 (S[pss]\NP)/PP 	 2 	 to named
+20 	 18 	 PP/NP 	 1 	 board to
+20 	 19 	 NP[nb]/N 	 1 	 board its
+<\s>
+<s id="wsj_1119.2"> 16
+1 	 0 	 NP[nb]/N 	 1 	 appointment The
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 appointment increased
+4 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 number increased
+4 	 3 	 NP[nb]/N 	 1 	 number the
+4 	 5 	 (NP\NP)/NP 	 1 	 number of
+6 	 5 	 (NP\NP)/NP 	 2 	 directors of
+7 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to increased
+8 	 7 	 PP/NP 	 1 	 10 to
+8 	 12 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 1 	 10 whom
+10 	 11 	 (NP\NP)/NP 	 1 	 three of
+10 	 12 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 3 	 three whom
+13 	 12 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 2 	 are whom
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 employees are
+15 	 14 	 N/N 	 1 	 employees company
+<\s>
+<s id="wsj_1119.3"> 6
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Simpson is
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 maker is
+5 	 2 	 NP[nb]/N 	 1 	 maker an
+5 	 3 	 N/N 	 1 	 maker auto
+5 	 4 	 N/N 	 1 	 maker parts
+<\s>

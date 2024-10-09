@@ -1,0 +1,237 @@
+<s id="wsj_1678.1"> 15
+3 	 0 	 N/N 	 1 	 Inc. Dean
+3 	 1 	 N/N 	 1 	 Inc. Witter
+3 	 2 	 N/N 	 1 	 Inc. Reynolds
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Inc. lost
+9 	 4 	 (S[dcl]\NP)/NP 	 2 	 case lost
+9 	 5 	 NP[nb]/N 	 1 	 case its
+9 	 6 	 N/N 	 1 	 case second
+9 	 7 	 N/N 	 1 	 case recent
+9 	 8 	 N/N 	 1 	 case arbitration
+9 	 10 	 (S[ng]\NP)/NP 	 1 	 case involving <XB>
+14 	 10 	 (S[ng]\NP)/NP 	 2 	 executive involving
+14 	 11 	 NP[nb]/N 	 1 	 executive a
+14 	 12 	 N/N 	 1 	 executive former
+14 	 13 	 N/N 	 1 	 executive bond-trading
+<\s>
+<s id="wsj_1678.2"> 34
+6 	 0 	 NP[nb]/N 	 1 	 panel A
+6 	 1 	 N/N 	 1 	 panel New
+6 	 2 	 N/N 	 1 	 panel York
+6 	 3 	 N/N 	 1 	 panel Stock
+6 	 4 	 N/N 	 1 	 panel Exchange
+6 	 5 	 N/N 	 1 	 panel arbitration
+6 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 panel ordered
+9 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Witter ordered
+9 	 8 	 N/N 	 1 	 Witter Dean
+9 	 11 	 ((S[b]\NP)/PP)/NP 	 1 	 Witter pay <XB>
+10 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to ordered
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+12 	 11 	 ((S[b]\NP)/PP)/NP 	 3 	 $ pay
+12 	 14 	 (NP\NP)/NP 	 1 	 $ in
+13 	 12 	 N/N[num] 	 1 	 404,294 $
+16 	 14 	 (NP\NP)/NP 	 2 	 bonuses in
+16 	 15 	 N/N 	 1 	 bonuses back
+17 	 11 	 ((S[b]\NP)/PP)/NP 	 2 	 to pay
+19 	 17 	 PP/NP 	 1 	 Kelly to
+19 	 18 	 N/N 	 1 	 Kelly William
+22 	 21 	 NP[nb]/N 	 1 	 company the
+22 	 23 	 (NP[nb]/N)\NP 	 2 	 company 's
+25 	 17 	 PP/NP 	 1 	 head to
+25 	 23 	 (NP[nb]/N)\NP 	 1 	 head 's
+25 	 24 	 N/N 	 1 	 head former
+25 	 26 	 (NP\NP)/NP 	 1 	 head of
+27 	 26 	 (NP\NP)/NP 	 2 	 high-yield of
+31 	 26 	 (NP\NP)/NP 	 2 	 trading of
+31 	 29 	 N/N 	 1 	 trading high-risk
+31 	 30 	 N/N 	 1 	 trading junk-bond
+33 	 26 	 (NP\NP)/NP 	 2 	 sales of
+33 	 29 	 N/N 	 1 	 sales high-risk
+33 	 30 	 N/N 	 1 	 sales junk-bond
+<\s>
+<s id="wsj_1678.3"> 24
+0 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 It awarded
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 awarded also
+3 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 $ awarded
+3 	 5 	 (NP\NP)/NP 	 1 	 $ in
+4 	 3 	 N/N[num] 	 1 	 196,785 $
+7 	 5 	 (NP\NP)/NP 	 2 	 bonuses in
+7 	 6 	 N/N 	 1 	 bonuses back
+8 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to awarded
+12 	 8 	 PP/NP 	 1 	 Newcomb to
+12 	 9 	 N/N 	 1 	 Newcomb former
+12 	 10 	 N/N 	 1 	 Newcomb trader
+12 	 11 	 N/N 	 1 	 Newcomb Michael
+14 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 $ awarded
+14 	 16 	 (NP\NP)/NP 	 1 	 $ in
+15 	 14 	 N/N[num] 	 1 	 69,105 $
+17 	 16 	 (NP\NP)/NP 	 2 	 fees in
+18 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to awarded
+21 	 19 	 NP[nb]/N 	 1 	 men the
+21 	 20 	 N/N 	 1 	 men two
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 men 's
+23 	 18 	 PP/NP 	 1 	 attorneys to
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 attorneys 's
+<\s>
+<s id="wsj_1678.4"> 36
+1 	 0 	 NP[nb]/N 	 1 	 sums The
+1 	 2 	 (S[pss]\NP)/PP 	 1 	 sums awarded <XB>
+1 	 8 	 (S[dcl]\NP)/NP 	 1 	 sums represent
+3 	 2 	 (S[pss]\NP)/PP 	 2 	 to awarded
+5 	 3 	 PP/NP 	 1 	 Kelly to
+5 	 4 	 N/N 	 1 	 Kelly Messrs.
+7 	 3 	 PP/NP 	 1 	 Newcomb to
+7 	 4 	 N/N 	 1 	 Newcomb Messrs.
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 bonuses represent
+9 	 15 	 (S[dcl]\NP)/NP 	 2 	 bonuses deserved <XU>
+9 	 24 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bonuses which <XU>
+9 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 bonuses were <XU>
+9 	 27 	 S[pss]\NP 	 1 	 bonuses paid <XU>
+12 	 10 	 NP[nb]/N 	 1 	 men the
+12 	 11 	 N/N 	 1 	 men two
+12 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 men said
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 they deserved
+15 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 deserved said
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 deserved from
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 half from
+19 	 17 	 NP[nb]/N 	 1 	 half the
+19 	 18 	 N/N 	 1 	 half first
+19 	 20 	 (NP\NP)/NP 	 1 	 half of
+21 	 20 	 (NP\NP)/NP 	 2 	 1988 of
+25 	 24 	 (NP\NP)/(S[dcl]\NP) 	 2 	 were which
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 were n't
+27 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 paid were
+27 	 28 	 ((S\NP)\(S\NP))/PP 	 2 	 paid because
+29 	 28 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+31 	 29 	 PP/NP 	 1 	 dispute of
+31 	 30 	 NP[nb]/N 	 1 	 dispute a
+31 	 32 	 (NP\NP)/NP 	 1 	 dispute over
+35 	 32 	 (NP\NP)/NP 	 2 	 contract over
+35 	 33 	 NP[nb]/N 	 1 	 contract an
+35 	 34 	 N/N 	 1 	 contract incentive
+<\s>
+<s id="wsj_1678.5"> 28
+2 	 0 	 N/N 	 1 	 Liddle Jeffrey
+2 	 1 	 N/N 	 1 	 Liddle L.
+2 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 Liddle said
+6 	 4 	 NP[nb]/N 	 1 	 men the
+6 	 5 	 N/N 	 1 	 men two
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 men 's
+8 	 7 	 (NP[nb]/N)\NP 	 1 	 attorney 's
+8 	 9 	 (NP\NP)/NP 	 1 	 attorney at
+8 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 attorney said
+16 	 9 	 (NP\NP)/NP 	 2 	 Robinson at
+16 	 10 	 N/N 	 1 	 Robinson Liddle
+16 	 12 	 N/N 	 1 	 Robinson O'Connor
+16 	 14 	 N/N 	 1 	 Robinson Finkelstein
+16 	 15 	 N/N 	 1 	 Robinson &
+20 	 19 	 N/N 	 1 	 Kelly Mr.
+20 	 21 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Kelly began
+20 	 22 	 S[ng]\NP 	 1 	 Kelly working <XB>
+21 	 18 	 (S[dcl]\NP)/S[dcl] 	 2 	 began said
+22 	 21 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 working began
+22 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 working at
+22 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 working in
+25 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 Witter at
+25 	 24 	 N/N 	 1 	 Witter Dean
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 1987 in
+<\s>
+<s id="wsj_1678.6"> 20
+1 	 0 	 N/N 	 1 	 Kelly Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Kelly built
+4 	 3 	 NP[nb]/N 	 1 	 company the
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 company 's
+8 	 2 	 (S[dcl]\NP)/NP 	 2 	 group built
+8 	 5 	 (NP[nb]/N)\NP 	 1 	 group 's
+8 	 6 	 N/N 	 1 	 group high-yield
+8 	 7 	 N/N 	 1 	 group bond
+8 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 group which
+8 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 group has <XB>
+8 	 12 	 (S[pt]\NP)/NP 	 1 	 group been <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+12 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+15 	 12 	 (S[pt]\NP)/NP 	 2 	 player been
+15 	 13 	 NP[nb]/N 	 1 	 player a
+15 	 14 	 N/N 	 1 	 player minor
+15 	 16 	 (NP\NP)/NP 	 1 	 player in
+19 	 16 	 (NP\NP)/NP 	 2 	 arena in
+19 	 17 	 NP[nb]/N 	 1 	 arena the
+19 	 18 	 N/N 	 1 	 arena junk-bond
+<\s>
+<s id="wsj_1678.7"> 36
+1 	 0 	 N/N 	 1 	 Witter Dean
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Witter lost
+2 	 12 	 ((S\NP)\(S\NP))/N 	 2 	 lost this
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 case lost
+5 	 3 	 NP[nb]/N 	 1 	 case a
+5 	 4 	 N/N 	 1 	 case separate
+5 	 6 	 (S[ng]\NP)/NP 	 1 	 case involving <XB>
+10 	 6 	 (S[ng]\NP)/NP 	 2 	 executive involving
+10 	 7 	 NP[nb]/N 	 1 	 executive a
+10 	 8 	 N/N 	 1 	 executive former
+10 	 9 	 N/N 	 1 	 executive bond
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 this earlier
+13 	 12 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+16 	 15 	 (S/S)/NP 	 2 	 August in
+17 	 18 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it paid
+18 	 15 	 (S/S)/NP 	 1 	 paid in
+19 	 18 	 ((S[dcl]\NP)/PP)/NP 	 3 	 $ paid
+19 	 21 	 (NP\NP)/NP 	 1 	 $ in
+20 	 19 	 N/N[num] 	 1 	 666,666 $
+23 	 21 	 (NP\NP)/NP 	 2 	 pay in
+23 	 22 	 N/N 	 1 	 pay back
+26 	 21 	 (NP\NP)/NP 	 2 	 bonus in
+26 	 25 	 NP[nb]/N 	 1 	 bonus a
+27 	 18 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to paid
+32 	 27 	 PP/NP 	 1 	 chief to
+32 	 28 	 NP[nb]/N 	 1 	 chief a
+32 	 29 	 N/N 	 1 	 chief former
+32 	 30 	 N/N 	 1 	 chief corporate-bond
+32 	 31 	 N/N 	 1 	 chief trading
+35 	 27 	 PP/NP 	 1 	 Bachman to
+35 	 34 	 N/N 	 1 	 Bachman Harold
+<\s>
+<s id="wsj_1678.8"> 27
+1 	 0 	 NP[nb]/N 	 1 	 award That
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 award ended
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 dispute ended
+4 	 3 	 NP[nb]/N 	 1 	 dispute a
+4 	 5 	 (NP\NP)/NP 	 1 	 dispute between
+4 	 11 	 (NP\NP)/S[qem] 	 1 	 dispute over
+7 	 5 	 (NP\NP)/NP 	 2 	 Witter between
+7 	 6 	 N/N 	 1 	 Witter Dean
+10 	 5 	 (NP\NP)/NP 	 2 	 Bachman between
+10 	 9 	 N/N 	 1 	 Bachman Mr.
+12 	 11 	 (NP\NP)/S[qem] 	 2 	 who over
+13 	 12 	 S[qem]/(S[dcl]\NP) 	 1 	 was who
+14 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 responsible was
+15 	 14 	 (S[adj]\NP)/PP 	 2 	 for responsible
+18 	 15 	 PP/NP 	 1 	 losses for
+18 	 16 	 N/N 	 1 	 losses certain
+18 	 17 	 N/N 	 1 	 losses bond-trading
+18 	 19 	 (NP\NP)/NP 	 1 	 losses around
+21 	 19 	 (NP\NP)/NP 	 2 	 time around
+21 	 20 	 NP[nb]/N 	 1 	 time the
+21 	 22 	 (NP\NP)/NP 	 1 	 time of
+26 	 22 	 (NP\NP)/NP 	 2 	 crash of
+26 	 23 	 NP[nb]/N 	 1 	 crash the
+26 	 24 	 N/N 	 1 	 crash 1987
+26 	 25 	 N/N 	 1 	 crash stock-market
+<\s>
+<s id="wsj_1678.9"> 18
+1 	 0 	 NP[nb]/N 	 1 	 spokesman A
+1 	 2 	 (NP\NP)/NP 	 1 	 spokesman for
+1 	 15 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 spokesman declined
+1 	 17 	 S[b]\NP 	 1 	 spokesman comment <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 Witter for
+4 	 3 	 N/N 	 1 	 Witter Dean
+7 	 2 	 (NP\NP)/NP 	 2 	 unit for
+7 	 6 	 NP[nb]/N 	 1 	 unit a
+7 	 8 	 (NP\NP)/NP 	 1 	 unit of
+13 	 8 	 (NP\NP)/NP 	 2 	 Co. of
+13 	 9 	 N/N 	 1 	 Co. Sears
+13 	 11 	 N/N 	 1 	 Co. Roebuck
+13 	 12 	 N/N 	 1 	 Co. &
+16 	 15 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+<\s>

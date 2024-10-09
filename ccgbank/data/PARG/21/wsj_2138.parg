@@ -1,0 +1,64 @@
+<s id="wsj_2138.1"> 16
+3 	 0 	 N/N 	 1 	 Corp. American
+3 	 1 	 N/N 	 1 	 Corp. Business
+3 	 2 	 N/N 	 1 	 Corp. Computer
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+5 	 7 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it placed
+7 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 placed said
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 placed privately
+10 	 7 	 ((S[dcl]\NP)/PP)/NP 	 3 	 shares placed
+10 	 8 	 N/N 	 1 	 shares 1,035,000
+10 	 9 	 N/N 	 1 	 shares common
+11 	 7 	 ((S[dcl]\NP)/PP)/NP 	 2 	 at placed
+12 	 11 	 PP/NP 	 1 	 $ at
+12 	 14 	 (NP\NP)/N 	 1 	 $ a
+13 	 12 	 N/N[num] 	 1 	 2.50 $
+15 	 14 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_2138.2"> 15
+1 	 0 	 NP[nb]/N 	 1 	 placement The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 placement was
+1 	 3 	 S[pss]\NP 	 1 	 placement made <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 made was
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 made through
+3 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 made to
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Securities through
+7 	 5 	 N/N 	 1 	 Securities Gray
+7 	 6 	 N/N 	 1 	 Securities Seifert
+7 	 10 	 NP\NP 	 1 	 Securities York
+10 	 9 	 (NP\NP)/(NP\NP) 	 2 	 York New
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 investors to
+14 	 13 	 N/N 	 1 	 investors institutional
+<\s>
+<s id="wsj_2138.3"> 16
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Proceeds will
+0 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Proceeds used <XB>
+0 	 5 	 (S[b]\NP)/NP 	 1 	 Proceeds commercialize <XB>
+0 	 10 	 (S[b]\NP)/NP 	 1 	 Proceeds support <XU>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+3 	 2 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+4 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 commercialize to
+7 	 6 	 (N/N)/(N/N) 	 2 	 patented recently
+8 	 5 	 (S[b]\NP)/NP 	 2 	 technology commercialize
+8 	 7 	 N/N 	 1 	 technology patented
+10 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 support to
+12 	 11 	 NP[nb]/N 	 1 	 company the
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 company 's
+15 	 10 	 (S[b]\NP)/NP 	 2 	 expansion support
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 expansion 's
+15 	 14 	 N/N 	 1 	 expansion international
+<\s>
+<s id="wsj_2138.4"> 11
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 company develops
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 company markets <XU>
+2 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 develops for
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 markets for
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 products develops <XU>
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 products markets
+10 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 industry for
+10 	 7 	 NP[nb]/N 	 1 	 industry the
+10 	 8 	 N/N 	 1 	 industry food
+10 	 9 	 N/N 	 1 	 industry service
+<\s>

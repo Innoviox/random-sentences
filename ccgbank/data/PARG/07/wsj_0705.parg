@@ -1,0 +1,73 @@
+<s id="wsj_0705.1"> 28
+3 	 0 	 N/N 	 1 	 Inc. Bausch
+3 	 1 	 N/N 	 1 	 Inc. &
+3 	 2 	 N/N 	 1 	 Inc. Lomb
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it plans
+5 	 8 	 (S[b]\NP)/NP 	 1 	 it introduce <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 plans said
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 introduce to
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 introduce year
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+13 	 8 	 (S[b]\NP)/NP 	 2 	 line introduce
+13 	 11 	 NP[nb]/N 	 1 	 line a
+13 	 12 	 N/N 	 1 	 line new
+13 	 14 	 (NP\NP)/NP 	 1 	 line of
+15 	 14 	 (NP\NP)/NP 	 2 	 sunglasses of
+15 	 16 	 (S[ng]\NP)/NP 	 1 	 sunglasses containing <XB>
+17 	 16 	 (S[ng]\NP)/NP 	 2 	 melanin containing
+20 	 16 	 (S[ng]\NP)/NP 	 2 	 pigment containing
+20 	 19 	 NP[nb]/N 	 1 	 pigment the
+20 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 pigment that
+20 	 22 	 (S[dcl]\NP)/PP 	 1 	 pigment protects <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 protects that
+23 	 22 	 (S[dcl]\NP)/PP 	 2 	 against protects
+24 	 23 	 PP/NP 	 1 	 damage against
+24 	 25 	 (NP\NP)/NP 	 1 	 damage from
+27 	 25 	 (NP\NP)/NP 	 2 	 rays from
+27 	 26 	 N/N 	 1 	 rays ultraviolet
+<\s>
+<s id="wsj_0705.2"> 37
+3 	 0 	 NP[nb]/N 	 1 	 company The
+3 	 1 	 N/N 	 1 	 company optical
+3 	 2 	 N/N 	 1 	 company products
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company has
+3 	 5 	 ((S[pt]\NP)/PP)/NP 	 1 	 company signed <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 signed has
+8 	 5 	 ((S[pt]\NP)/PP)/NP 	 3 	 agreement signed
+8 	 6 	 NP[nb]/N 	 1 	 agreement a
+8 	 7 	 N/N 	 1 	 agreement licensing
+9 	 5 	 ((S[pt]\NP)/PP)/NP 	 2 	 with signed
+12 	 9 	 PP/NP 	 1 	 Inc. with
+12 	 10 	 N/N 	 1 	 Inc. Photoprotective
+12 	 11 	 N/N 	 1 	 Inc. Technologies
+16 	 15 	 (N/N)/(N/N) 	 2 	 held closely
+17 	 9 	 PP/NP 	 1 	 firm with
+17 	 14 	 NP[nb]/N 	 1 	 firm a
+17 	 16 	 N/N 	 1 	 firm held
+17 	 18 	 (NP\NP)/NP 	 1 	 firm in
+17 	 24 	 (NP\NP)/(S[dcl]\NP) 	 1 	 firm which
+17 	 25 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 firm has <XB>
+17 	 26 	 (S[pt]\NP)/NP 	 1 	 firm developed <XB>
+20 	 18 	 (NP\NP)/NP 	 2 	 Antonio in
+20 	 19 	 N/N 	 1 	 Antonio San
+22 	 18 	 (NP\NP)/NP 	 2 	 Texas in
+25 	 24 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+26 	 25 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 developed has
+28 	 26 	 (S[pt]\NP)/NP 	 2 	 method developed
+28 	 27 	 NP[nb]/N 	 1 	 method a
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 incorporate to
+33 	 30 	 ((S[b]\NP)/PP)/NP 	 3 	 melanin incorporate
+33 	 31 	 NP[nb]/N 	 1 	 melanin the
+33 	 32 	 N/N 	 1 	 melanin synthetic
+34 	 30 	 ((S[b]\NP)/PP)/NP 	 2 	 into incorporate
+36 	 34 	 PP/NP 	 1 	 lenses into
+36 	 35 	 N/N 	 1 	 lenses plastic
+<\s>
+<s id="wsj_0705.3"> 4
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Terms were
+0 	 3 	 S[pss]\NP 	 1 	 Terms disclosed <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 were n't
+3 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 disclosed were
+<\s>

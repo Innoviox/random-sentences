@@ -1,0 +1,644 @@
+<s id="wsj_1246.1"> 22
+2 	 0 	 N/N 	 1 	 scientists Two
+2 	 1 	 N/N 	 1 	 scientists Japanese
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 scientists said
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 they discovered
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 discovered said
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 antibody discovered
+7 	 6 	 NP[nb]/N 	 1 	 antibody an
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 antibody that
+7 	 15 	 (S[dcl]\NP)/NP 	 1 	 antibody kills <XB>
+7 	 19 	 (S[ng]\NP)/NP 	 1 	 antibody preserving <XB>
+13 	 10 	 ((S\NP)/(S\NP))/NP 	 3 	 experiments in
+13 	 11 	 N/N 	 1 	 experiments laboratory
+13 	 12 	 N/N 	 1 	 experiments test-tube
+15 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 kills that
+15 	 10 	 ((S\NP)/(S\NP))/NP 	 2 	 kills in
+15 	 18 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 kills while
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 cells kills
+17 	 16 	 N/N 	 1 	 cells AIDS-infected
+19 	 18 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 preserving while
+21 	 19 	 (S[ng]\NP)/NP 	 2 	 cells preserving
+21 	 20 	 N/N 	 1 	 cells healthy
+<\s>
+<s id="wsj_1246.2"> 20
+2 	 1 	 N/N 	 1 	 experiments further
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 experiments are
+2 	 4 	 S[adj]\NP 	 1 	 experiments successful <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 are If
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 successful are
+7 	 6 	 NP[nb]/N 	 1 	 work the
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 work would
+7 	 9 	 (S[b]\NP)/NP 	 1 	 work represent <XB>
+8 	 0 	 (S/S)/S[dcl] 	 1 	 would If
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 represent would
+12 	 9 	 (S[b]\NP)/NP 	 2 	 advance represent
+12 	 10 	 NP[nb]/N 	 1 	 advance a
+12 	 11 	 N/N 	 1 	 advance major
+12 	 13 	 (NP\NP)/NP 	 1 	 advance in
+14 	 13 	 (NP\NP)/NP 	 2 	 research in
+14 	 15 	 (NP\NP)/NP 	 1 	 research on
+19 	 15 	 (NP\NP)/NP 	 2 	 syndrome on
+19 	 16 	 N/N 	 1 	 syndrome acquired
+19 	 17 	 N/N 	 1 	 syndrome immune
+19 	 18 	 N/N 	 1 	 syndrome deficiency
+<\s>
+<s id="wsj_1246.3"> 26
+2 	 0 	 NP[nb]/N 	 1 	 AZT The
+2 	 1 	 N/N 	 1 	 AZT drug
+2 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 AZT claims
+2 	 15 	 (S[b]\NP)/(S[b]\NP) 	 1 	 AZT help <XB>
+2 	 16 	 (S[b]\NP)/NP 	 1 	 AZT stop <XB>
+2 	 24 	 (S[b]\NP)/NP 	 1 	 AZT cure <XU>
+6 	 4 	 NP[nb]/N 	 1 	 treatment the
+6 	 5 	 N/N 	 1 	 treatment only
+6 	 8 	 (NP\NP)/NP 	 1 	 treatment on
+6 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 treatment claims
+6 	 15 	 (S[b]\NP)/(S[b]\NP) 	 1 	 treatment help <XB>
+6 	 16 	 (S[b]\NP)/NP 	 1 	 treatment stop <XB>
+6 	 24 	 (S[b]\NP)/NP 	 1 	 treatment cure <XU>
+8 	 7 	 (NP\NP)/(NP\NP) 	 2 	 on currently
+10 	 8 	 (NP\NP)/NP 	 2 	 market on
+10 	 9 	 NP[nb]/N 	 1 	 market the
+14 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to claims
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 to only
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 help to
+16 	 15 	 (S[b]\NP)/(S[b]\NP) 	 2 	 stop help
+18 	 16 	 (S[b]\NP)/NP 	 2 	 spread stop
+18 	 17 	 NP[nb]/N 	 1 	 spread the
+18 	 19 	 (NP\NP)/NP 	 1 	 spread of
+20 	 19 	 (NP\NP)/NP 	 2 	 AIDS of
+23 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to claims
+23 	 22 	 (S\NP)/(S\NP) 	 2 	 to not
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cure to
+25 	 24 	 (S[b]\NP)/NP 	 2 	 it cure
+<\s>
+<s id="wsj_1246.4"> 29
+2 	 1 	 N/N 	 1 	 analysts several
+2 	 6 	 S[adj]\NP 	 1 	 analysts familiar <XB>
+2 	 21 	 ((S[dcl]\NP)/PP)/NP 	 1 	 analysts expressed
+5 	 4 	 N/N 	 1 	 scientists Japanese
+5 	 6 	 S[adj]\NP 	 1 	 scientists familiar <XB>
+5 	 21 	 ((S[dcl]\NP)/PP)/NP 	 1 	 scientists expressed
+6 	 7 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 familiar with
+9 	 7 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 study with
+9 	 8 	 NP[nb]/N 	 1 	 study the
+9 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 study which
+9 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 study was <XB>
+9 	 13 	 S[pss]\NP 	 1 	 study announced <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was which
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 announced was
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 announced at
+13 	 19 	 (S\NP)\(S\NP) 	 2 	 announced yesterday
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 conference at
+16 	 15 	 NP[nb]/N 	 1 	 conference a
+16 	 17 	 (NP\NP)/NP 	 1 	 conference in
+18 	 17 	 (NP\NP)/NP 	 2 	 Nagoya in
+21 	 0 	 S/S 	 1 	 expressed But
+22 	 21 	 ((S[dcl]\NP)/PP)/NP 	 3 	 skepticism expressed
+23 	 21 	 ((S[dcl]\NP)/PP)/NP 	 2 	 over expressed
+25 	 23 	 PP/NP 	 1 	 significance over
+25 	 24 	 NP[nb]/N 	 1 	 significance the
+25 	 26 	 (NP\NP)/NP 	 1 	 significance of
+28 	 26 	 (NP\NP)/NP 	 2 	 results of
+28 	 27 	 NP[nb]/N 	 1 	 results the
+<\s>
+<s id="wsj_1246.5"> 23
+2 	 1 	 NP[nb]/N 	 1 	 researchers the
+2 	 3 	 NP\NP 	 1 	 researchers themselves
+2 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 researchers acknowledged
+4 	 0 	 S/S 	 1 	 acknowledged And
+5 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they must
+5 	 8 	 (S[b]\NP)/NP 	 1 	 they do <XB>
+7 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 must acknowledged
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 must still
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 do must
+8 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 do before
+10 	 9 	 (N/N)/(N/N) 	 2 	 more much
+11 	 8 	 (S[b]\NP)/NP 	 2 	 work do
+11 	 10 	 N/N 	 1 	 work more
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they can
+13 	 15 	 (S[b]\NP)/S[qem] 	 1 	 they say <XB>
+14 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 can before
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 say can
+16 	 15 	 (S[b]\NP)/S[qem] 	 2 	 whether say
+18 	 17 	 NP[nb]/N 	 1 	 treatment the
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 treatment would
+18 	 21 	 (S[b]\NP)/NP 	 1 	 treatment cure <XB>
+19 	 16 	 S[qem]/S[dcl] 	 1 	 would whether
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 would actually
+21 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cure would
+22 	 21 	 (S[b]\NP)/NP 	 2 	 humans cure
+<\s>
+<s id="wsj_1246.6"> 36
+1 	 0 	 N/N 	 1 	 Yonehara Shin
+1 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 Yonehara said
+5 	 3 	 NP[nb]/N 	 1 	 scientist a
+5 	 4 	 N/N 	 1 	 scientist research
+5 	 6 	 (NP\NP)/NP 	 1 	 scientist at
+5 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 scientist said
+10 	 6 	 (NP\NP)/NP 	 2 	 Institute at
+10 	 7 	 NP[nb]/N 	 1 	 Institute the
+10 	 8 	 N/N 	 1 	 Institute Tokyo
+10 	 9 	 N/N 	 1 	 Institute Metropolitan
+10 	 11 	 (NP\NP)/NP 	 1 	 Institute of
+13 	 11 	 (NP\NP)/NP 	 2 	 Science of
+13 	 12 	 N/N 	 1 	 Science Medical
+17 	 16 	 NP[nb]/N 	 1 	 antibody the
+17 	 19 	 (S[dcl]\NP)/NP 	 2 	 antibody discovered <XU>
+17 	 20 	 S[dcl]\NP 	 1 	 antibody works
+17 	 22 	 (S[ng]\NP)/NP 	 1 	 antibody recognizing <XB>
+18 	 19 	 (S[dcl]\NP)/NP 	 1 	 he discovered
+20 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 works said
+20 	 21 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 works by
+22 	 21 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 recognizing by
+24 	 22 	 (S[ng]\NP)/NP 	 2 	 antigen recognizing
+24 	 23 	 NP[nb]/N 	 1 	 antigen an
+24 	 25 	 (S[pss]\NP)/NP 	 1 	 antigen called <XB>
+24 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 antigen which
+24 	 30 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 antigen is <XB>
+24 	 31 	 (S[adj]\NP)/PP 	 1 	 antigen characteristic <XB>
+27 	 25 	 (S[pss]\NP)/NP 	 2 	 Fas-antigen called
+27 	 26 	 NP[nb]/N 	 1 	 Fas-antigen a
+30 	 29 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+31 	 30 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 characteristic is
+32 	 31 	 (S[adj]\NP)/PP 	 2 	 of characteristic
+35 	 32 	 PP/NP 	 1 	 cell of
+35 	 33 	 NP[nb]/N 	 1 	 cell an
+35 	 34 	 N/N 	 1 	 cell infected
+<\s>
+<s id="wsj_1246.7"> 6
+1 	 0 	 NP[nb]/N 	 1 	 antibody The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 antibody kills
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 kills then
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 cell kills
+5 	 4 	 NP[nb]/N 	 1 	 cell the
+<\s>
+<s id="wsj_1246.8"> 32
+1 	 0 	 N/N 	 1 	 Yonehara Dr.
+1 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 Yonehara said
+4 	 3 	 NP[nb]/N 	 1 	 partner his
+4 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 partner said
+7 	 6 	 N/N 	 1 	 Kobayashi Nobuyuki
+7 	 8 	 (NP\NP)/NP 	 1 	 Kobayashi of
+7 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 Kobayashi said
+10 	 8 	 (NP\NP)/NP 	 2 	 University of
+10 	 9 	 N/N 	 1 	 University Yamaguchi
+14 	 13 	 NP[nb]/N 	 1 	 experiments their
+14 	 15 	 (S[dcl]\NP)/S[em] 	 1 	 experiments showed
+15 	 12 	 (S[dcl]\NP)/S[dcl] 	 2 	 showed said
+16 	 15 	 (S[dcl]\NP)/S[em] 	 2 	 that showed
+18 	 17 	 NP[nb]/N 	 1 	 antibody the
+18 	 19 	 (S[dcl]\NP)/NP 	 1 	 antibody wiped
+19 	 16 	 S[em]/S[dcl] 	 1 	 wiped that
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 wiped out
+19 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 wiped within
+22 	 19 	 (S[dcl]\NP)/NP 	 2 	 average wiped
+22 	 21 	 NP[nb]/N 	 1 	 average an
+22 	 23 	 (NP\NP)/NP 	 1 	 average of
+25 	 23 	 (NP\NP)/NP 	 2 	 % of
+25 	 24 	 N/N 	 1 	 % 60
+25 	 26 	 (NP\NP)/NP 	 1 	 % of
+28 	 26 	 (NP\NP)/NP 	 2 	 cells of
+28 	 27 	 N/N 	 1 	 cells AIDS-infected
+31 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 days within
+31 	 30 	 N/N 	 1 	 days three
+<\s>
+<s id="wsj_1246.9"> 17
+1 	 0 	 (S/S)/NP 	 2 	 some In
+1 	 2 	 (NP\NP)/NP 	 1 	 some of
+4 	 2 	 (NP\NP)/NP 	 2 	 experiments of
+4 	 3 	 NP[nb]/N 	 1 	 experiments the
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 it killed
+7 	 0 	 (S/S)/NP 	 1 	 killed In
+7 	 16 	 (S[dcl]\S[dcl])\NP 	 1 	 killed said
+9 	 8 	 (NP/NP)/(NP/NP) 	 2 	 all almost
+12 	 7 	 (S[dcl]\NP)/NP 	 2 	 cells killed
+12 	 9 	 NP/NP 	 1 	 cells all
+12 	 10 	 NP[nb]/N 	 1 	 cells the
+12 	 11 	 N/N 	 1 	 cells infected
+15 	 14 	 NP[nb]/N 	 1 	 researchers the
+15 	 16 	 (S[dcl]\S[dcl])\NP 	 2 	 researchers said
+<\s>
+<s id="wsj_1246.10"> 12
+2 	 3 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 fewer than
+4 	 3 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 10 than
+5 	 4 	 N/N 	 1 	 % 10
+5 	 6 	 (NP\NP)/NP 	 1 	 % of
+5 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 % were
+5 	 11 	 S[pss]\NP 	 1 	 % killed <XB>
+9 	 6 	 (NP\NP)/NP 	 2 	 cells of
+9 	 7 	 NP[nb]/N 	 1 	 cells the
+9 	 8 	 N/N 	 1 	 cells healthy
+10 	 0 	 S/S 	 1 	 were Meanwhile
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 killed were
+<\s>
+<s id="wsj_1246.11"> 15
+1 	 0 	 NP[nb]/N 	 1 	 two The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 two said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they must
+3 	 6 	 (S[b]\NP)/NP 	 1 	 they do <XB>
+3 	 12 	 (S[b]\NP)/PP 	 1 	 they experiment <XU>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 must said
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 do must
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 do still
+9 	 6 	 (S[b]\NP)/NP 	 2 	 tests do
+9 	 7 	 N/N 	 1 	 tests more
+9 	 8 	 N/N 	 1 	 tests laboratory
+12 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 experiment must
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 experiment then
+13 	 12 	 (S[b]\NP)/PP 	 2 	 on experiment
+14 	 13 	 PP/NP 	 1 	 animals on
+<\s>
+<s id="wsj_1246.12"> 17
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 They said
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 they hoped
+2 	 5 	 ((S[b]\NP)/PP)/NP 	 1 	 they conduct <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 hoped said
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to hoped
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 conduct to
+5 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 conduct by
+6 	 5 	 ((S[b]\NP)/PP)/NP 	 3 	 tests conduct
+7 	 5 	 ((S[b]\NP)/PP)/NP 	 2 	 on conduct
+9 	 7 	 PP/NP 	 1 	 patients on
+9 	 8 	 N/N 	 1 	 patients human
+9 	 10 	 (NP\NP)/NP 	 1 	 patients in
+12 	 10 	 (NP\NP)/NP 	 2 	 U.S. in
+12 	 11 	 NP[nb]/N 	 1 	 U.S. the
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 year by
+16 	 14 	 N/N 	 1 	 year late
+16 	 15 	 N/N 	 1 	 year next
+<\s>
+<s id="wsj_1246.13"> 17
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Japan does
+0 	 3 	 (S[b]\NP)/NP 	 1 	 Japan have <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 does n't
+1 	 16 	 (S[dcl]\S[dcl])\NP 	 1 	 does said
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have does
+6 	 3 	 (S[b]\NP)/NP 	 2 	 patients have
+6 	 4 	 N/N 	 1 	 patients enough
+6 	 5 	 N/N 	 1 	 patients AIDS
+6 	 8 	 (S[b]\NP)/NP 	 1 	 patients do <XB>
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 do in
+10 	 8 	 (S[b]\NP)/NP 	 2 	 experimentation do
+10 	 9 	 N/N 	 1 	 experimentation significant
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 country in
+13 	 12 	 NP[nb]/N 	 1 	 country that
+15 	 16 	 (S[dcl]\S[dcl])\NP 	 2 	 they said
+<\s>
+<s id="wsj_1246.14"> 17
+1 	 0 	 NP[nb]/N 	 1 	 announcement The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 announcement got
+1 	 12 	 (S[dcl]\NP)/NP 	 1 	 announcement moved <XU>
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 got in
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 exposure got
+4 	 3 	 N/N 	 1 	 exposure wide
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 media in
+8 	 6 	 NP[nb]/N 	 1 	 media the
+8 	 7 	 N/N 	 1 	 media Japanese
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 moved even
+12 	 16 	 (S\NP)\(S\NP) 	 2 	 moved yesterday
+15 	 12 	 (S[dcl]\NP)/NP 	 2 	 stocks moved
+15 	 13 	 NP[nb]/N 	 1 	 stocks some
+15 	 14 	 N/N 	 1 	 stocks pharmaceutical
+<\s>
+<s id="wsj_1246.15"> 39
+2 	 1 	 N/N 	 1 	 Kitamura Takashi
+2 	 25 	 (S[dcl]\NP)/S[dcl] 	 1 	 Kitamura said
+4 	 5 	 (NP\NP)/NP 	 1 	 director of
+4 	 25 	 (S[dcl]\NP)/S[dcl] 	 1 	 director said
+8 	 5 	 (NP\NP)/NP 	 2 	 department of
+8 	 6 	 NP[nb]/N 	 1 	 department the
+8 	 7 	 N/N 	 1 	 department biology
+8 	 9 	 (NP\NP)/NP 	 1 	 department at
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Japan 's
+13 	 9 	 (NP\NP)/NP 	 2 	 Institute at
+13 	 11 	 (NP[nb]/N)\NP 	 1 	 Institute 's
+13 	 12 	 N/N 	 1 	 Institute National
+13 	 14 	 (NP\NP)/NP 	 1 	 Institute of
+15 	 14 	 (NP\NP)/NP 	 2 	 Health of
+17 	 18 	 (NP\NP)/NP 	 1 	 secretary of
+17 	 25 	 (S[dcl]\NP)/S[dcl] 	 1 	 secretary said
+20 	 19 	 NP[nb]/N 	 1 	 government the
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 government 's
+23 	 18 	 (NP\NP)/NP 	 2 	 center of
+23 	 21 	 (NP[nb]/N)\NP 	 1 	 center 's
+23 	 22 	 N/N 	 1 	 center AIDS-research
+25 	 0 	 S/S 	 1 	 said But
+27 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 I 'm
+27 	 31 	 (S[adj]\NP)/PP 	 1 	 I optimistic <XB>
+28 	 25 	 (S[dcl]\NP)/S[dcl] 	 2 	 'm said
+28 	 29 	 (S\NP)\(S\NP) 	 2 	 'm not
+31 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 optimistic 'm
+31 	 30 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 optimistic so
+32 	 31 	 (S[adj]\NP)/PP 	 2 	 of optimistic
+35 	 32 	 PP/NP 	 1 	 use of
+35 	 33 	 NP[nb]/N 	 1 	 use its
+35 	 34 	 N/N 	 1 	 use future
+35 	 36 	 (NP\NP)/NP 	 1 	 use in
+38 	 36 	 (NP\NP)/NP 	 2 	 methods in
+38 	 37 	 N/N 	 1 	 methods therapeutic
+<\s>
+<s id="wsj_1246.16"> 23
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+4 	 2 	 NP[nb]/N 	 1 	 cells some
+4 	 3 	 N/N 	 1 	 cells infected
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 cells may
+4 	 7 	 (S[b]\NP)/NP 	 1 	 cells have <XB>
+4 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 cells would <XU>
+4 	 16 	 S[pss]\NP 	 1 	 cells killed <XU>
+5 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 may said
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 may not
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have may
+10 	 7 	 (S[b]\NP)/NP 	 2 	 antigen have
+10 	 8 	 NP[nb]/N 	 1 	 antigen the
+10 	 9 	 N/N 	 1 	 antigen relevant
+13 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+13 	 12 	 (S\NP)/(S\NP) 	 2 	 would so
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 would n't
+15 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+16 	 15 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 killed be
+16 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 killed after
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 after even
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 exposure after
+19 	 20 	 (NP\NP)/NP 	 1 	 exposure to
+22 	 20 	 (NP\NP)/NP 	 2 	 antibody to
+22 	 21 	 NP[nb]/N 	 1 	 antibody the
+<\s>
+<s id="wsj_1246.17"> 22
+1 	 0 	 NP[nb]/N 	 1 	 results The
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 results seem
+1 	 6 	 S[adj]\NP 	 1 	 results premature <XB>
+2 	 8 	 (S[dcl]\S[dcl])/NP 	 1 	 seem said
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to seem
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+6 	 4 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 premature be
+6 	 5 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 premature very
+10 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 Miyata said
+10 	 9 	 N/N 	 1 	 Miyata Mitsuru
+12 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 editor said
+12 	 13 	 (NP\NP)/NP 	 1 	 editor of
+15 	 13 	 (NP\NP)/NP 	 2 	 Biotechnology of
+15 	 14 	 N/N 	 1 	 Biotechnology Nikkei
+21 	 13 	 (NP\NP)/NP 	 2 	 newsletter of
+21 	 17 	 NP[nb]/N 	 1 	 newsletter a
+21 	 18 	 N/N 	 1 	 newsletter leading
+21 	 19 	 N/N 	 1 	 newsletter Japanese
+21 	 20 	 N/N 	 1 	 newsletter industry
+<\s>
+<s id="wsj_1246.18"> 14
+1 	 0 	 N/N 	 1 	 Kobayashi Dr.
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Kobayashi responded
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that responded
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 he thought
+5 	 3 	 S[em]/S[dcl] 	 1 	 thought that
+7 	 6 	 NP[nb]/N 	 1 	 antibody the
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 antibody could
+7 	 10 	 (S[b]\NP)/NP 	 1 	 antibody kill <XB>
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 could thought
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 could potentially
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 kill could
+13 	 10 	 (S[b]\NP)/NP 	 2 	 cells kill
+13 	 11 	 NP[nb]/N 	 1 	 cells all
+13 	 12 	 N/N 	 1 	 cells infected
+<\s>
+<s id="wsj_1246.19"> 17
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 he said
+4 	 3 	 N/N 	 1 	 Yonehara Dr.
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Yonehara said
+5 	 0 	 S/S 	 1 	 said But
+6 	 7 	 (S[dcl]\NP[thr])/NP 	 1 	 there were
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 were still
+10 	 7 	 (S[dcl]\NP[thr])/NP 	 2 	 uncertainties were
+10 	 9 	 N/N 	 1 	 uncertainties several
+10 	 13 	 (NP\NP)/NP 	 1 	 uncertainties regarding
+13 	 12 	 (NP\NP)/(NP\NP) 	 2 	 regarding particularly
+16 	 13 	 (NP\NP)/NP 	 2 	 effects regarding
+16 	 14 	 N/N 	 1 	 effects possible
+16 	 15 	 N/N 	 1 	 effects side
+<\s>
+<s id="wsj_1246.20"> 23
+1 	 0 	 NP[nb]/N 	 1 	 antibody Our
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 antibody killed
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 killed specifically
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 killed at
+3 	 20 	 (S[dcl]\S[dcl])/NP 	 1 	 killed said
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 cells killed
+5 	 4 	 N/N 	 1 	 cells infected
+9 	 8 	 (N/N)/(N/N) 	 2 	 low very
+10 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 dose at
+10 	 7 	 NP[nb]/N 	 1 	 dose a
+10 	 9 	 N/N 	 1 	 dose low
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it can
+13 	 16 	 (S[b]\NP)/NP 	 1 	 it kill <XB>
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 can also
+14 	 20 	 (S[dcl]\S[dcl])/NP 	 1 	 can said
+16 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 kill can
+18 	 16 	 (S[b]\NP)/NP 	 2 	 cells kill
+18 	 17 	 N/N 	 1 	 cells other
+22 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 Yonehara said
+22 	 21 	 N/N 	 1 	 Yonehara Dr.
+<\s>
+<s id="wsj_1246.21"> 13
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 We do
+0 	 3 	 (S[b]\NP)/NP 	 1 	 We know <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 do n't
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 know do
+5 	 3 	 (S[b]\NP)/NP 	 2 	 effect know
+5 	 4 	 NP[nb]/N 	 1 	 effect the
+5 	 6 	 (NP\NP)/NP 	 1 	 effect of
+5 	 9 	 (NP\NP)/NP 	 1 	 effect on
+8 	 6 	 (NP\NP)/NP 	 2 	 antibody of
+8 	 7 	 NP[nb]/N 	 1 	 antibody our
+12 	 9 	 (NP\NP)/NP 	 2 	 body on
+12 	 10 	 NP[nb]/N 	 1 	 body the
+12 	 11 	 N/N 	 1 	 body human
+<\s>
+<s id="wsj_1246.22"> 42
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 AIDS is
+0 	 3 	 (S[pss]\NP)/NP 	 1 	 AIDS considered <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is n't
+1 	 9 	 (S\S)/S[dcl] 	 1 	 is --
+3 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 considered is
+6 	 3 	 (S[pss]\NP)/NP 	 2 	 problem considered
+6 	 4 	 NP[nb]/N 	 1 	 problem a
+6 	 5 	 N/N 	 1 	 problem widespread
+6 	 7 	 (NP\NP)/NP 	 1 	 problem in
+8 	 7 	 (NP\NP)/NP 	 2 	 Japan in
+11 	 10 	 NP[nb]/N 	 1 	 government the
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 government reports
+12 	 9 	 (S\S)/S[dcl] 	 2 	 reports --
+14 	 13 	 (N/N)/(N/N) 	 2 	 1,000 about
+16 	 12 	 (S[dcl]\NP)/NP 	 2 	 carriers reports
+16 	 14 	 N/N 	 1 	 carriers 1,000
+16 	 15 	 N/N 	 1 	 carriers known
+16 	 17 	 (NP\NP)/NP 	 1 	 carriers of
+19 	 17 	 (NP\NP)/NP 	 2 	 virus of
+19 	 18 	 NP[nb]/N 	 1 	 virus the
+23 	 22 	 N/N 	 1 	 companies many
+23 	 24 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 companies have
+23 	 25 	 ((S[pt]\NP)/PP)/NP 	 1 	 companies poured <XB>
+23 	 34 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 companies hoping <XB>
+23 	 36 	 (S[b]\NP)/PP 	 1 	 companies cash <XB>
+25 	 24 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 poured have
+25 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 poured in
+27 	 25 	 ((S[pt]\NP)/PP)/NP 	 3 	 resources poured
+27 	 26 	 N/N 	 1 	 resources substantial
+28 	 25 	 ((S[pt]\NP)/PP)/NP 	 2 	 into poured
+29 	 28 	 PP/NP 	 1 	 research into
+32 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 years in
+32 	 31 	 N/N 	 1 	 years recent
+35 	 34 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to hoping
+36 	 35 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cash to
+36 	 37 	 (S\NP)\(S\NP) 	 2 	 cash in
+38 	 36 	 (S[b]\NP)/PP 	 2 	 on cash
+41 	 38 	 PP/NP 	 1 	 cure on
+41 	 39 	 NP[nb]/N 	 1 	 cure a
+41 	 40 	 N/N 	 1 	 cure possible
+<\s>
+<s id="wsj_1246.23"> 33
+1 	 0 	 N/N 	 1 	 Kitamura Dr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Kitamura said
+4 	 3 	 (N/N)/(N/N) 	 2 	 35 about
+5 	 4 	 N/N 	 1 	 projects 35
+5 	 6 	 (S[dcl]\NP)/PP 	 1 	 projects are
+6 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 are currently
+6 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 are in
+8 	 6 	 (S[dcl]\NP)/PP 	 2 	 under are
+9 	 8 	 PP/NP 	 1 	 way under
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 Japan in
+14 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 that said
+16 	 15 	 N/N 	 1 	 researchers Japanese
+16 	 17 	 (NP\NP)/NP 	 1 	 researchers in
+16 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 researchers have
+16 	 22 	 (S[pt]\NP)/S[adj] 	 1 	 researchers made <XB>
+20 	 17 	 (NP\NP)/NP 	 2 	 year in
+20 	 18 	 NP[nb]/N 	 1 	 year the
+20 	 19 	 N/N 	 1 	 year past
+21 	 14 	 S[em]/S[dcl] 	 1 	 have that
+22 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 made have
+23 	 22 	 (S[pt]\NP)/S[adj] 	 2 	 available made
+23 	 27 	 (S[adj]\S[adj])/NP 	 1 	 available to
+23 	 30 	 (S[adj]\S[adj])/NP 	 1 	 available for
+26 	 23 	 S[adj]/NP 	 1 	 cures available
+26 	 24 	 N/N 	 1 	 cures three
+26 	 25 	 N/N 	 1 	 cures possible
+29 	 27 	 (S[adj]\S[adj])/NP 	 2 	 researchers to
+29 	 28 	 N/N 	 1 	 researchers American
+32 	 30 	 (S[adj]\S[adj])/NP 	 2 	 tests for
+32 	 31 	 N/N 	 1 	 tests clinical
+<\s>
+<s id="wsj_1246.24"> 29
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 He said
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+4 	 5 	 (NP\NP)/NP 	 1 	 scientists from
+4 	 9 	 S[dcl]\NP 	 1 	 scientists meet
+8 	 5 	 (NP\NP)/NP 	 2 	 countries from
+8 	 6 	 NP[nb]/N 	 1 	 countries the
+8 	 7 	 N/N 	 1 	 countries two
+9 	 3 	 (S/S)/S[dcl] 	 2 	 meet when
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 meet again
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 meet in
+9 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 meet in
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 January in
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Orleans in
+15 	 14 	 N/N 	 1 	 Orleans New
+18 	 17 	 NP[nb]/N 	 1 	 Japanese the
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Japanese will
+18 	 20 	 ((S[b]\NP)/PP)/NP 	 1 	 Japanese present <XB>
+19 	 2 	 S[em]/S[dcl] 	 1 	 will that
+19 	 3 	 (S/S)/S[dcl] 	 1 	 will when
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 present will
+22 	 21 	 (((N/N)/(N/N))/((N/N)/(N/N)))/(S[asup]\NP) 	 4 	 least at
+23 	 21 	 (((N/N)/(N/N))/((N/N)/(N/N)))/(S[asup]\NP) 	 3 	 three at
+24 	 23 	 (N/N)/(N/N) 	 2 	 more three
+25 	 20 	 ((S[b]\NP)/PP)/NP 	 3 	 drugs present
+25 	 24 	 N/N 	 1 	 drugs more
+26 	 20 	 ((S[b]\NP)/PP)/NP 	 2 	 for present
+28 	 26 	 PP/NP 	 1 	 testing for
+28 	 27 	 N/N 	 1 	 testing human
+<\s>
+<s id="wsj_1246.25"> 13
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 AZT is
+3 	 2 	 NP[nb]/N 	 1 	 world the
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 world 's
+7 	 1 	 (S[dcl]\NP)/NP 	 2 	 medicine is
+7 	 4 	 (NP[nb]/N)\NP 	 1 	 medicine 's
+7 	 5 	 N/N 	 1 	 medicine only
+7 	 6 	 N/N 	 1 	 medicine prescription
+7 	 8 	 (S[pss]\NP)/PP 	 1 	 medicine approved <XB>
+9 	 8 	 (S[pss]\NP)/PP 	 2 	 for approved
+10 	 9 	 PP/(S[ng]\NP) 	 1 	 treating for
+12 	 10 	 (S[ng]\NP)/NP 	 2 	 disease treating
+12 	 11 	 NP[nb]/N 	 1 	 disease the
+<\s>
+<s id="wsj_1246.26"> 16
+1 	 0 	 N/N 	 1 	 PLC Wellcome
+1 	 9 	 (S[dcl]\NP)/NP 	 1 	 PLC sells
+7 	 3 	 NP[nb]/N 	 1 	 maker a
+7 	 4 	 N/N 	 1 	 maker major
+7 	 5 	 N/N 	 1 	 maker British
+7 	 6 	 N/N 	 1 	 maker pharmaceutical
+7 	 9 	 (S[dcl]\NP)/NP 	 1 	 maker sells
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 sells under
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 drug sells
+11 	 10 	 NP[nb]/N 	 1 	 drug the
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 Retrovir under
+15 	 13 	 NP[nb]/N 	 1 	 Retrovir the
+15 	 14 	 N/N 	 1 	 Retrovir name
+<\s>
+<s id="wsj_1246.27"> 14
+2 	 0 	 NP[nb]/N 	 1 	 spokesman A
+2 	 1 	 N/N 	 1 	 spokesman Wellcome
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 spokesman declined
+2 	 5 	 (S[b]\NP)/PP 	 1 	 spokesman comment <XB>
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+6 	 5 	 (S[b]\NP)/PP 	 2 	 on comment
+8 	 6 	 PP/NP 	 1 	 discovery on
+8 	 7 	 NP[nb]/N 	 1 	 discovery the
+8 	 9 	 (NP\NP)/NP 	 1 	 discovery of
+8 	 12 	 (NP\NP)/NP 	 1 	 discovery in
+11 	 9 	 (NP\NP)/NP 	 2 	 antibody of
+11 	 10 	 NP[nb]/N 	 1 	 antibody the
+13 	 12 	 (NP\NP)/NP 	 2 	 Japan in
+<\s>
+<s id="wsj_1246.28"> 35
+2 	 1 	 N/N 	 1 	 Porter Andrew
+2 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 Porter said
+6 	 4 	 NP[nb]/N 	 1 	 analyst a
+6 	 5 	 N/N 	 1 	 analyst drug-industry
+6 	 7 	 (NP\NP)/NP 	 1 	 analyst at
+6 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 analyst said
+10 	 7 	 (NP\NP)/NP 	 2 	 Co. at
+10 	 8 	 N/N 	 1 	 Co. Nikko
+10 	 9 	 N/N 	 1 	 Co. Securities
+10 	 11 	 (NP\NP)/NP 	 1 	 Co. in
+12 	 11 	 (NP\NP)/NP 	 2 	 London in
+14 	 0 	 S/S 	 1 	 said But
+17 	 16 	 NP[nb]/N 	 1 	 product the
+17 	 18 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 product were
+17 	 22 	 S[pss]\NP 	 1 	 product developed <XB>
+18 	 15 	 (S/S)/S[dcl] 	 2 	 were if
+19 	 18 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to were
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+22 	 20 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 developed be
+22 	 21 	 (S\NP)/(S\NP) 	 2 	 developed successfully
+23 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+23 	 25 	 (S[b]\NP)/NP 	 1 	 it represent <XB>
+24 	 14 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+24 	 15 	 (S/S)/S[dcl] 	 1 	 would if
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 represent would
+28 	 25 	 (S[b]\NP)/NP 	 2 	 threat represent
+28 	 26 	 NP[nb]/N 	 1 	 threat a
+28 	 27 	 N/N 	 1 	 threat potential
+28 	 29 	 (NP\NP)/NP 	 1 	 threat to
+32 	 29 	 (NP\NP)/NP 	 2 	 viability to
+32 	 30 	 NP[nb]/N 	 1 	 viability the
+32 	 31 	 N/N 	 1 	 viability long-term
+32 	 33 	 (NP\NP)/NP 	 1 	 viability of
+34 	 33 	 (NP\NP)/NP 	 2 	 Retrovir of
+<\s>

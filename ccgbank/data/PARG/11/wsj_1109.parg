@@ -1,0 +1,315 @@
+<s id="wsj_1109.1"> 22
+1 	 0 	 N/N 	 1 	 Corp. Xerox
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+5 	 2 	 (NP[nb]/N)\NP 	 1 	 income 's
+5 	 3 	 N/N 	 1 	 income third-quarter
+5 	 4 	 N/N 	 1 	 income net
+5 	 6 	 S[dcl]\NP 	 1 	 income grew
+5 	 15 	 (S[ng]\NP)/NP 	 1 	 income earning <XB>
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 grew %
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 grew on
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 6.2
+11 	 10 	 N/N 	 1 	 % 7.3
+11 	 12 	 (N/N)\NP 	 2 	 % higher
+13 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 revenue on
+13 	 12 	 (N/N)\NP 	 1 	 revenue higher
+15 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 earning from
+17 	 15 	 (S[ng]\NP)/NP 	 2 	 reviews earning
+17 	 16 	 N/N 	 1 	 reviews mixed
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 analysts from
+21 	 19 	 N/N 	 1 	 analysts Wall
+21 	 20 	 N/N 	 1 	 analysts Street
+<\s>
+<s id="wsj_1109.2"> 35
+1 	 0 	 N/N 	 1 	 net Quarter
+1 	 2 	 (NP\NP)/NP 	 1 	 net for
+1 	 8 	 S[dcl]\NP 	 1 	 net rose
+7 	 2 	 (NP\NP)/NP 	 2 	 company for
+7 	 3 	 NP[nb]/N 	 1 	 company the
+7 	 4 	 N/N 	 1 	 company business-machines
+7 	 6 	 N/N 	 1 	 company financial-services
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+8 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+8 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 rose in
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 155
+15 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+15 	 17 	 (NP\NP)/N 	 1 	 $ a
+16 	 15 	 N/N[num] 	 1 	 1.41 $
+18 	 17 	 (NP\NP)/N 	 2 	 share a
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 146
+26 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+26 	 28 	 (NP\NP)/N 	 1 	 $ a
+27 	 26 	 N/N[num] 	 1 	 1.37 $
+29 	 28 	 (NP\NP)/N 	 2 	 share a
+34 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 period in
+34 	 32 	 NP[nb]/N 	 1 	 period the
+34 	 33 	 N/N 	 1 	 period year-earlier
+<\s>
+<s id="wsj_1109.3"> 10
+0 	 1 	 S[dcl]\NP 	 1 	 Revenue rose
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+5 	 3 	 N/N[num] 	 1 	 billion $
+5 	 4 	 N/N 	 1 	 billion 4.45
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+9 	 7 	 N/N[num] 	 1 	 billion $
+9 	 8 	 N/N 	 1 	 billion 4.15
+<\s>
+<s id="wsj_1109.4"> 19
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+8 	 9 	 (S[dcl]\NP)/PP 	 1 	 Xerox closed
+9 	 0 	 (S/S)/NP 	 1 	 closed In
+9 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+10 	 9 	 (S[dcl]\NP)/PP 	 2 	 at closed
+11 	 10 	 PP/NP 	 1 	 $ at
+11 	 13 	 (NP\NP)/N 	 1 	 $ a
+12 	 11 	 N/N[num] 	 1 	 62.75 $
+14 	 13 	 (NP\NP)/N 	 2 	 share a
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ up
+18 	 17 	 N/N[num] 	 1 	 1 $
+<\s>
+<s id="wsj_1109.5"> 31
+1 	 0 	 N/N 	 1 	 growth Sales
+1 	 4 	 (NP\NP)/NP 	 1 	 growth in
+1 	 15 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 growth were
+1 	 16 	 S[adj]\NP 	 1 	 growth disappointing <XB>
+3 	 0 	 N/N 	 1 	 profit Sales
+3 	 4 	 (NP\NP)/NP 	 1 	 profit in
+3 	 15 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 profit were
+3 	 16 	 S[adj]\NP 	 1 	 profit disappointing <XB>
+6 	 4 	 (NP\NP)/NP 	 2 	 products in
+6 	 5 	 N/N 	 1 	 products business
+6 	 9 	 (NP\NP)/NP 	 1 	 products --
+8 	 4 	 (NP\NP)/NP 	 2 	 systems in
+8 	 5 	 N/N 	 1 	 systems business
+8 	 9 	 (NP\NP)/NP 	 1 	 systems --
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Xerox 's
+13 	 9 	 (NP\NP)/NP 	 2 	 business --
+13 	 11 	 (NP[nb]/N)\NP 	 1 	 business 's
+13 	 12 	 N/N 	 1 	 business main
+15 	 18 	 (S[dcl]\S[dcl])/NP 	 1 	 were said
+16 	 15 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 disappointing were
+21 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 Henderson said
+21 	 19 	 N/N 	 1 	 Henderson B.
+21 	 20 	 N/N 	 1 	 Henderson Alex
+21 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Henderson who
+21 	 24 	 (S[dcl]\NP)/NP 	 1 	 Henderson follows <XB>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 follows who
+24 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 follows for
+26 	 24 	 (S[dcl]\NP)/NP 	 2 	 company follows
+26 	 25 	 NP[nb]/N 	 1 	 company the
+30 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 Inc for
+30 	 28 	 N/N 	 1 	 Inc Prudential-Bache
+30 	 29 	 N/N 	 1 	 Inc Securities
+<\s>
+<s id="wsj_1109.6"> 25
+0 	 1 	 (NP\NP)/NP 	 1 	 Sales of
+0 	 8 	 S[dcl]\NP 	 1 	 Sales grew
+3 	 1 	 (NP\NP)/NP 	 2 	 copiers of
+3 	 2 	 N/N 	 1 	 copiers Xerox
+7 	 1 	 (NP\NP)/NP 	 2 	 products of
+7 	 5 	 N/N 	 1 	 products other
+7 	 6 	 N/N 	 1 	 products office
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 grew %
+8 	 24 	 (S[dcl]\S[dcl])\NP 	 1 	 grew said
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 1.6
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 we expected
+13 	 24 	 (S[dcl]\S[dcl])\NP 	 1 	 expected said
+14 	 13 	 (S[dcl]\NP)/NP 	 2 	 growth expected
+14 	 15 	 (NP\NP)/NP 	 1 	 growth of
+17 	 15 	 (NP\NP)/NP 	 2 	 % of
+17 	 16 	 N/N 	 1 	 % 6
+17 	 18 	 (N\N)/N 	 1 	 % to
+20 	 18 	 (N\N)/N 	 2 	 % to
+20 	 19 	 N/N 	 1 	 % 7
+23 	 22 	 N/N 	 1 	 Henderson Mr.
+23 	 24 	 (S[dcl]\S[dcl])\NP 	 2 	 Henderson said
+<\s>
+<s id="wsj_1109.7"> 16
+1 	 0 	 N/N 	 1 	 margins Operating-profit
+1 	 2 	 S[dcl]\NP 	 1 	 margins slipped
+2 	 5 	 (S\NP)\(S\NP) 	 2 	 slipped %
+2 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 slipped to
+2 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 slipped noted
+4 	 3 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))) 	 4 	 18 almost
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 18
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+9 	 8 	 N/N 	 1 	 % 4.3
+9 	 10 	 (NP\NP)/NP 	 1 	 % of
+11 	 10 	 (NP\NP)/NP 	 2 	 sales of
+14 	 13 	 NP[nb]/N 	 1 	 analyst the
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 analyst noted
+<\s>
+<s id="wsj_1109.8"> 29
+3 	 2 	 ((S/S)/(S[ng]\NP))/NP 	 3 	 competitors with
+3 	 5 	 (NP\NP)/NP 	 1 	 competitors as
+3 	 9 	 S[ng]\NP 	 1 	 competitors faltering <XB>
+5 	 4 	 (NP\NP)/(NP\NP) 	 2 	 as such
+8 	 5 	 (NP\NP)/NP 	 2 	 Co. as
+8 	 6 	 N/N 	 1 	 Co. Eastman
+8 	 7 	 N/N 	 1 	 Co. Kodak
+9 	 2 	 ((S/S)/(S[ng]\NP))/NP 	 2 	 faltering with
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 faltering in
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 sales in
+12 	 11 	 N/N 	 1 	 sales copier
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 Xerox 's
+17 	 15 	 (NP[nb]/N)\NP 	 1 	 increases 's
+17 	 16 	 N/N 	 1 	 increases sales
+17 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 increases were
+17 	 19 	 S[adj]\NP 	 1 	 increases encouraging <XB>
+18 	 0 	 S/S 	 1 	 were Still
+18 	 2 	 ((S/S)/(S[ng]\NP))/NP 	 1 	 were with
+18 	 21 	 (S[dcl]\S[dcl])/NP 	 1 	 were says
+19 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 encouraging were
+23 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 Glazer says
+23 	 22 	 N/N 	 1 	 Glazer Eugene
+23 	 24 	 (NP\NP)/NP 	 1 	 Glazer of
+28 	 24 	 (NP\NP)/NP 	 2 	 Inc of
+28 	 25 	 N/N 	 1 	 Inc Dean
+28 	 26 	 N/N 	 1 	 Inc Witter
+28 	 27 	 N/N 	 1 	 Inc Reynolds
+<\s>
+<s id="wsj_1109.9"> 18
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 They are
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 They holding <XB>
+1 	 17 	 (S[dcl]\S[dcl])\NP 	 1 	 are says
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 holding are
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 holding in
+4 	 2 	 (S[ng]\NP)/NP 	 2 	 own holding
+4 	 3 	 NP[nb]/N 	 1 	 own their
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 market in
+8 	 6 	 NP[nb]/N 	 1 	 market a
+8 	 7 	 N/N 	 1 	 market weak
+12 	 11 	 NP[nb]/N 	 1 	 restructuring the
+12 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 restructuring is
+12 	 14 	 S[ng]\NP 	 1 	 restructuring working <XB>
+13 	 17 	 (S[dcl]\S[dcl])\NP 	 1 	 is says
+14 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 working is
+16 	 17 	 (S[dcl]\S[dcl])\NP 	 2 	 he says
+<\s>
+<s id="wsj_1109.10"> 31
+2 	 0 	 N/N 	 1 	 Kearns David
+2 	 1 	 N/N 	 1 	 Kearns T.
+2 	 11 	 (S[dcl]\NP)/NP 	 1 	 Kearns cited
+5 	 4 	 N/N 	 1 	 chairman Xerox
+5 	 11 	 (S[dcl]\NP)/NP 	 1 	 chairman cited
+9 	 4 	 N/N 	 1 	 officer Xerox
+9 	 7 	 N/N 	 1 	 officer chief
+9 	 8 	 N/N 	 1 	 officer executive
+9 	 11 	 (S[dcl]\NP)/NP 	 1 	 officer cited
+11 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 cited for
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 restructuring cited
+13 	 12 	 NP[nb]/N 	 1 	 restructuring the
+17 	 11 	 (S[dcl]\NP)/NP 	 2 	 controls cited
+17 	 15 	 N/N 	 1 	 controls strong
+17 	 16 	 N/N 	 1 	 controls cost
+21 	 20 	 (N/N)/(N/N) 	 2 	 % 13
+22 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 growth for
+22 	 19 	 NP[nb]/N 	 1 	 growth the
+22 	 21 	 N/N 	 1 	 growth %
+22 	 23 	 (NP\NP)/NP 	 1 	 growth in
+24 	 23 	 (NP\NP)/NP 	 2 	 profit in
+24 	 25 	 (NP\NP)/NP 	 1 	 profit from
+27 	 25 	 (NP\NP)/NP 	 2 	 products from
+27 	 26 	 N/N 	 1 	 products business
+30 	 25 	 (NP\NP)/NP 	 2 	 operations from
+30 	 26 	 N/N 	 1 	 operations business
+30 	 29 	 N/N 	 1 	 operations systems
+<\s>
+<s id="wsj_1109.11"> 26
+1 	 0 	 N/N 	 1 	 Glazer Mr.
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Glazer expects
+3 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Xerox expects
+3 	 5 	 (S[b]\NP)/NP 	 1 	 Xerox experience <XB>
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 experience to
+5 	 14 	 ((S\NP)\(S\NP))/PP 	 2 	 experience because
+7 	 5 	 (S[b]\NP)/NP 	 2 	 sledding experience
+7 	 6 	 N/N 	 1 	 sledding tough
+7 	 9 	 NP\NP 	 1 	 sledding though
+7 	 11 	 (NP\NP)/NP 	 1 	 sledding in
+13 	 11 	 (NP\NP)/NP 	 2 	 services in
+13 	 12 	 N/N 	 1 	 services financial
+15 	 14 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+17 	 15 	 PP/NP 	 1 	 pressures of
+17 	 16 	 N/N 	 1 	 pressures rate
+19 	 15 	 PP/NP 	 1 	 uncertainty of
+19 	 20 	 (S[ng]\NP)/NP 	 1 	 uncertainty surrounding <XB>
+22 	 20 	 (S[ng]\NP)/NP 	 2 	 treatment surrounding
+22 	 21 	 N/N 	 1 	 treatment tax
+22 	 23 	 (NP\NP)/NP 	 1 	 treatment of
+25 	 23 	 (NP\NP)/NP 	 2 	 gains of
+25 	 24 	 N/N 	 1 	 gains capital
+<\s>
+<s id="wsj_1109.12"> 24
+2 	 0 	 (S/S)/NP 	 2 	 quarter In
+2 	 1 	 NP[nb]/N 	 1 	 quarter the
+9 	 4 	 NP[nb]/N 	 1 	 unit the
+9 	 5 	 N/N 	 1 	 unit Crum
+9 	 6 	 N/N 	 1 	 unit &
+9 	 7 	 N/N 	 1 	 unit Forster
+9 	 8 	 N/N 	 1 	 unit insurance
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 unit reported
+10 	 0 	 (S/S)/NP 	 1 	 reported In
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 $ reported
+11 	 14 	 (NP\NP)/NP 	 1 	 $ before
+11 	 16 	 (NP\NP)/NP 	 1 	 $ of
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 200
+15 	 14 	 (NP\NP)/NP 	 2 	 tax before
+18 	 16 	 (NP\NP)/NP 	 2 	 gains of
+18 	 17 	 N/N 	 1 	 gains capital
+18 	 19 	 (NP\NP)/NP 	 1 	 gains from
+23 	 19 	 (NP\NP)/NP 	 2 	 operations from
+23 	 20 	 N/N 	 1 	 operations property
+23 	 22 	 N/N 	 1 	 operations casualty
+<\s>
+<s id="wsj_1109.14"> 30
+3 	 0 	 (S/S)/NP 	 2 	 months For
+3 	 1 	 NP[nb]/N 	 1 	 months the
+3 	 2 	 N/N 	 1 	 months nine
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Xerox earned
+6 	 0 	 (S/S)/NP 	 1 	 earned For
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+7 	 17 	 ((NP\NP)/PP)/NP 	 1 	 $ up
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 492
+12 	 6 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+12 	 14 	 (NP\NP)/N 	 1 	 $ a
+12 	 17 	 ((NP\NP)/PP)/NP 	 1 	 $ up
+13 	 12 	 N/N[num] 	 1 	 4.55 $
+15 	 14 	 (NP\NP)/N 	 2 	 share a
+19 	 17 	 ((NP\NP)/PP)/NP 	 3 	 % up
+19 	 18 	 N/N 	 1 	 % 5.8
+20 	 17 	 ((NP\NP)/PP)/NP 	 2 	 from up
+21 	 20 	 PP/NP 	 1 	 $ from
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 465
+26 	 20 	 PP/NP 	 1 	 $ from
+26 	 28 	 (NP\NP)/N 	 1 	 $ a
+27 	 26 	 N/N[num] 	 1 	 4.32 $
+29 	 28 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_1109.15"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Revenue rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 7.6
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 12.97
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 12.05
+<\s>

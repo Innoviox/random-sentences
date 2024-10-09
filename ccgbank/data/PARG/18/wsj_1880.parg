@@ -1,0 +1,269 @@
+<s id="wsj_1880.1"> 33
+2 	 0 	 N/N 	 1 	 Group Equitec
+2 	 1 	 N/N 	 1 	 Group Financial
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Group said
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+4 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 it ask <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 ask will
+7 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 as ask
+7 	 12 	 (NP\NP)/NP 	 1 	 as in
+7 	 21 	 ((S[b]\NP)/PP)/NP 	 1 	 as give <XB>
+8 	 7 	 (N/PP)/(S[adj]\NP) 	 2 	 many as
+9 	 7 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+11 	 9 	 PP/NP 	 1 	 investors as
+11 	 10 	 N/N 	 1 	 investors 100,000
+13 	 12 	 (NP\NP)/NP 	 2 	 12 in
+13 	 14 	 (NP\NP)/NP 	 1 	 12 of
+19 	 14 	 (NP\NP)/NP 	 2 	 partnerships of
+19 	 15 	 NP[nb]/N 	 1 	 partnerships its
+19 	 16 	 N/N 	 1 	 partnerships public
+19 	 17 	 N/N 	 1 	 partnerships real-estate
+19 	 18 	 N/N 	 1 	 partnerships limited
+20 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to ask
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give to
+22 	 21 	 ((S[b]\NP)/PP)/NP 	 3 	 approval give
+23 	 21 	 ((S[b]\NP)/PP)/NP 	 2 	 to give
+24 	 23 	 PP/(S[ng]\NP) 	 1 	 rolling to
+24 	 26 	 (S\NP)\(S\NP) 	 2 	 rolling up
+25 	 24 	 ((S[ng]\NP)/PP)/NP 	 3 	 them rolling
+27 	 24 	 ((S[ng]\NP)/PP)/NP 	 2 	 into rolling
+32 	 27 	 PP/NP 	 1 	 partnership into
+32 	 28 	 NP[nb]/N 	 1 	 partnership a
+32 	 29 	 N/N 	 1 	 partnership new
+32 	 30 	 N/N 	 1 	 partnership master
+32 	 31 	 N/N 	 1 	 partnership limited
+<\s>
+<s id="wsj_1880.2"> 32
+2 	 0 	 (S/S)/NP 	 2 	 proposal Under
+2 	 1 	 NP[nb]/N 	 1 	 proposal the
+2 	 3 	 (NP\NP)/NP 	 1 	 proposal by
+4 	 3 	 (NP\NP)/NP 	 2 	 Equitec by
+8 	 7 	 (N/N)/(N/N) 	 2 	 troubled financially
+10 	 3 	 (NP\NP)/NP 	 2 	 syndicator by
+10 	 6 	 NP[nb]/N 	 1 	 syndicator a
+10 	 8 	 N/N 	 1 	 syndicator troubled
+10 	 9 	 N/N 	 1 	 syndicator real-estate
+13 	 12 	 (N/N)/(N/N) 	 2 	 York-based New
+16 	 13 	 N/N 	 1 	 Inc. York-based
+16 	 14 	 N/N 	 1 	 Inc. Hallwood
+16 	 15 	 N/N 	 1 	 Inc. Group
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Inc. would
+16 	 18 	 ((S[b]\NP)/PP)/NP 	 1 	 Inc. replace <XB>
+17 	 0 	 (S/S)/NP 	 1 	 would Under
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 replace would
+19 	 18 	 ((S[b]\NP)/PP)/NP 	 3 	 Equitec replace
+20 	 18 	 ((S[b]\NP)/PP)/NP 	 2 	 as replace
+23 	 22 	 (N/N)/(N/N) 	 2 	 formed newly
+26 	 21 	 NP[nb]/N 	 1 	 partnership the
+26 	 23 	 N/N 	 1 	 partnership formed
+26 	 24 	 N/N 	 1 	 partnership master
+26 	 25 	 N/N 	 1 	 partnership limited
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 partnership 's
+29 	 20 	 PP/NP 	 1 	 partner as
+29 	 27 	 (NP[nb]/N)\NP 	 1 	 partner 's
+29 	 28 	 N/N 	 1 	 partner general
+31 	 20 	 PP/NP 	 1 	 manager as
+31 	 27 	 (NP[nb]/N)\NP 	 1 	 manager 's
+<\s>
+<s id="wsj_1880.3"> 13
+0 	 1 	 (NP\NP)/NP 	 1 	 Shares of
+0 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Shares would
+0 	 6 	 S[b]\NP 	 1 	 Shares trade <XB>
+4 	 1 	 (NP\NP)/NP 	 2 	 partnership of
+4 	 2 	 NP[nb]/N 	 1 	 partnership the
+4 	 3 	 N/N 	 1 	 partnership new
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 trade would
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 trade on
+6 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 trade like
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 exchange on
+9 	 8 	 NP[nb]/N 	 1 	 exchange an
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 stock like
+12 	 11 	 NP[nb]/N 	 1 	 stock a
+<\s>
+<s id="wsj_1880.4"> 27
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Hallwood is
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 bank is
+4 	 2 	 NP[nb]/N 	 1 	 bank a
+4 	 3 	 N/N 	 1 	 bank merchant
+4 	 5 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 bank whose
+6 	 5 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 activities whose
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 activities include <XB>
+7 	 5 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 include whose
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 ownership include
+9 	 8 	 NP[nb]/N 	 1 	 ownership the
+9 	 15 	 (NP\NP)/NP 	 1 	 ownership of
+11 	 7 	 (S[dcl]\NP)/NP 	 2 	 management include
+11 	 8 	 NP[nb]/N 	 1 	 management the
+11 	 15 	 (NP\NP)/NP 	 1 	 management of
+14 	 7 	 (S[dcl]\NP)/NP 	 2 	 restructuring include
+14 	 8 	 NP[nb]/N 	 1 	 restructuring the
+14 	 13 	 N/N 	 1 	 restructuring financial
+14 	 15 	 (NP\NP)/NP 	 1 	 restructuring of
+17 	 15 	 (NP\NP)/NP 	 2 	 centers of
+17 	 16 	 N/N 	 1 	 centers shopping
+20 	 15 	 (NP\NP)/NP 	 2 	 buildings of
+20 	 19 	 N/N 	 1 	 buildings office
+22 	 15 	 (NP\NP)/NP 	 2 	 apartments of
+26 	 15 	 (NP\NP)/NP 	 2 	 estate of
+26 	 24 	 N/N 	 1 	 estate other
+26 	 25 	 N/N 	 1 	 estate real
+<\s>
+<s id="wsj_1880.5"> 29
+2 	 0 	 (S/S)/NP 	 2 	 statement In
+2 	 1 	 NP[nb]/N 	 1 	 statement a
+8 	 4 	 N/N 	 1 	 Saalfeld Equitec
+8 	 5 	 N/N 	 1 	 Saalfeld Chairman
+8 	 6 	 N/N 	 1 	 Saalfeld Richard
+8 	 7 	 N/N 	 1 	 Saalfeld L.
+8 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Saalfeld said
+9 	 0 	 (S/S)/NP 	 1 	 said In
+11 	 10 	 NP[nb]/N 	 1 	 transfer the
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 transfer will
+11 	 13 	 (S[b]\NP)/NP 	 1 	 transfer benefit <XB>
+12 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 benefit will
+16 	 13 	 (S[b]\NP)/NP 	 2 	 company benefit
+16 	 14 	 NP/NP 	 1 	 company both
+16 	 15 	 NP[nb]/N 	 1 	 company the
+18 	 13 	 (S[b]\NP)/NP 	 2 	 investors benefit
+18 	 14 	 NP/NP 	 1 	 investors both
+18 	 19 	 (NP\NP)/NP 	 1 	 investors in
+23 	 19 	 (NP\NP)/NP 	 2 	 partnerships in
+23 	 20 	 NP[nb]/N 	 1 	 partnerships the
+23 	 21 	 N/N 	 1 	 partnerships 12
+23 	 22 	 N/N 	 1 	 partnerships limited
+23 	 24 	 S[pss]\NP 	 1 	 partnerships included <XB>
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 included in
+28 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 rollup in
+28 	 26 	 NP[nb]/N 	 1 	 rollup the
+28 	 27 	 N/N 	 1 	 rollup proposed
+<\s>
+<s id="wsj_1880.6"> 22
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he did
+1 	 4 	 (S[b]\NP)/NP 	 1 	 he describe <XB>
+2 	 0 	 (S/S)/S[dcl] 	 2 	 did While
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 did n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 describe did
+6 	 5 	 NP[nb]/N 	 1 	 partnerships the
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 partnerships '
+9 	 4 	 (S[b]\NP)/NP 	 2 	 condition describe
+9 	 7 	 (NP[nb]/N)\NP 	 1 	 condition '
+9 	 8 	 N/N 	 1 	 condition financial
+11 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 he said
+12 	 0 	 (S/S)/S[dcl] 	 1 	 said While
+14 	 13 	 NP[nb]/N 	 1 	 operations their
+14 	 15 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 operations continue
+14 	 17 	 (S[b]\NP)/NP 	 1 	 operations drain <XB>
+15 	 12 	 (S[dcl]\NP)/S[dcl] 	 2 	 continue said
+16 	 15 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continue
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 drain to
+19 	 17 	 (S[b]\NP)/NP 	 2 	 resources drain
+19 	 18 	 NP[nb]/N 	 1 	 resources the
+19 	 20 	 (NP\NP)/NP 	 1 	 resources of
+21 	 20 	 (NP\NP)/NP 	 2 	 Equitec of
+<\s>
+<s id="wsj_1880.7"> 38
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Equitec posted
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 posted in
+1 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 posted on
+1 	 19 	 ((S\NP)\(S\NP))/PP 	 2 	 posted compared
+5 	 3 	 (N/N)/N[num] 	 2 	 million $
+5 	 4 	 N/N 	 1 	 million 3.3
+7 	 1 	 (S[dcl]\NP)/NP 	 2 	 loss posted
+7 	 2 	 NP[nb]/N 	 1 	 loss a
+7 	 3 	 (N/N)/N[num] 	 1 	 loss $
+7 	 6 	 N/N 	 1 	 loss net
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+11 	 9 	 NP[nb]/N 	 1 	 quarter the
+11 	 10 	 N/N 	 1 	 quarter second
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 $ on
+13 	 16 	 (NP\NP)/NP 	 1 	 $ of
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 11.8
+17 	 16 	 (NP\NP)/NP 	 2 	 revenue of
+20 	 19 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+23 	 20 	 PP/NP 	 1 	 loss with
+23 	 21 	 NP[nb]/N 	 1 	 loss a
+23 	 22 	 N/N 	 1 	 loss net
+23 	 24 	 (NP\NP)/NP 	 1 	 loss of
+23 	 28 	 (NP\NP)/NP 	 1 	 loss in
+23 	 32 	 (NP\NP)/NP 	 1 	 loss on
+25 	 24 	 (NP\NP)/NP 	 2 	 $ of
+27 	 25 	 N/N[num] 	 1 	 million $
+27 	 26 	 N/N 	 1 	 million 12.9
+31 	 28 	 (NP\NP)/NP 	 2 	 period in
+31 	 29 	 NP[nb]/N 	 1 	 period the
+31 	 30 	 N/N 	 1 	 period year-earlier
+33 	 32 	 (NP\NP)/NP 	 2 	 revenue on
+33 	 34 	 (NP\NP)/NP 	 1 	 revenue of
+35 	 34 	 (NP\NP)/NP 	 2 	 $ of
+37 	 35 	 N/N[num] 	 1 	 million $
+37 	 36 	 N/N 	 1 	 million 9.1
+<\s>
+<s id="wsj_1880.8"> 17
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+8 	 9 	 (S[dcl]\NP)/PP 	 1 	 Equitec closed
+8 	 16 	 S[adj]\NP 	 1 	 Equitec unchanged <XB>
+9 	 0 	 (S/S)/NP 	 1 	 closed In
+10 	 9 	 (S[dcl]\NP)/PP 	 2 	 at closed
+11 	 10 	 PP/NP 	 1 	 $ at
+11 	 13 	 (NP\NP)/N 	 1 	 $ a
+12 	 11 	 N/N[num] 	 1 	 2.625 $
+14 	 13 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_1880.9"> 19
+1 	 0 	 (S/S)/PP 	 2 	 of Because
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Tuesday 's
+4 	 1 	 PP/NP 	 1 	 earthquake of
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 earthquake 's
+4 	 5 	 (NP\NP)/NP 	 1 	 earthquake in
+7 	 5 	 (NP\NP)/NP 	 2 	 California in
+7 	 6 	 N/N 	 1 	 California Northern
+10 	 9 	 N/N 	 1 	 officials company
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 officials could
+10 	 15 	 S[pss]\NP 	 1 	 officials reached <XB>
+11 	 0 	 (S/S)/PP 	 1 	 could Because
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 could n't
+11 	 13 	 (S\NP)\(S\NP) 	 2 	 could immediately
+14 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+15 	 14 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reached be
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 reached for
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 comment for
+18 	 17 	 N/N 	 1 	 comment additional
+<\s>
+<s id="wsj_1880.10"> 31
+1 	 0 	 NP[nb]/N 	 1 	 spokesman A
+1 	 2 	 (NP\NP)/NP 	 1 	 spokesman for
+1 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+3 	 2 	 (NP\NP)/NP 	 2 	 Hallwood for
+8 	 5 	 NP[nb]/N 	 1 	 partnerships the
+8 	 6 	 N/N 	 1 	 partnerships 12
+8 	 7 	 N/N 	 1 	 partnerships limited
+8 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 partnerships which
+8 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 partnerships were <XB>
+8 	 12 	 S[pss]\NP 	 1 	 partnerships marketed <XB>
+8 	 24 	 ((S[dcl]\NP)/PP)/NP 	 1 	 partnerships raised
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 were which
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 marketed were
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 marketed by
+12 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 marketed between
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 firms by
+15 	 14 	 N/N 	 1 	 firms brokerage
+18 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 planners by
+18 	 17 	 N/N 	 1 	 planners financial
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 1979 between
+22 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 1984 between
+24 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 raised said
+27 	 25 	 (N/N)/(N/N) 	 2 	 million several
+27 	 26 	 (N/N)/(N/N) 	 2 	 million hundred
+28 	 24 	 ((S[dcl]\NP)/PP)/NP 	 3 	 dollars raised
+28 	 27 	 N/N 	 1 	 dollars million
+29 	 24 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from raised
+30 	 29 	 PP/NP 	 1 	 investors from
+<\s>

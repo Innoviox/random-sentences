@@ -1,0 +1,109 @@
+<s id="wsj_1754.2"> 4
+1 	 0 	 NP[nb]/N 	 1 	 transactions The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 transactions are
+1 	 3 	 S[adj]\NP 	 1 	 transactions unrelated <XB>
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unrelated are
+<\s>
+<s id="wsj_1754.3"> 35
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 company agreed
+1 	 4 	 ((S[b]\NP)/PP)/NP 	 1 	 company sell <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+7 	 4 	 ((S[b]\NP)/PP)/NP 	 3 	 investments sell
+7 	 5 	 NP[nb]/N 	 1 	 investments its
+7 	 6 	 N/N 	 1 	 investments minority
+7 	 8 	 (NP\NP)/NP 	 1 	 investments in
+9 	 8 	 (NP\NP)/NP 	 2 	 makers in
+9 	 10 	 (NP\NP)/NP 	 1 	 makers of
+14 	 10 	 (NP\NP)/NP 	 2 	 equipment of
+14 	 11 	 N/N 	 1 	 equipment steam-generating <XU>
+14 	 13 	 N/N 	 1 	 equipment related
+17 	 8 	 (NP\NP)/NP 	 2 	 Industrie in
+17 	 16 	 N/N 	 1 	 Industrie Stein
+21 	 8 	 (NP\NP)/NP 	 2 	 Verfahrenstechnik in
+21 	 19 	 N/N 	 1 	 Verfahrenstechnik Energie
+21 	 20 	 N/N 	 1 	 Verfahrenstechnik &
+23 	 4 	 ((S[b]\NP)/PP)/NP 	 2 	 to sell
+26 	 23 	 PP/NP 	 1 	 shareholder to
+26 	 24 	 NP[nb]/N 	 1 	 shareholder the
+26 	 25 	 N/N 	 1 	 shareholder major
+26 	 27 	 (NP\NP)/NP 	 1 	 shareholder in
+29 	 27 	 (NP\NP)/NP 	 2 	 companies in
+29 	 28 	 NP[nb]/N 	 1 	 companies the
+34 	 23 	 PP/NP 	 1 	 N.V to
+34 	 31 	 N/N 	 1 	 N.V Dutch-based
+34 	 32 	 N/N 	 1 	 N.V GEC
+34 	 33 	 N/N 	 1 	 N.V Alsthom
+<\s>
+<s id="wsj_1754.4"> 26
+1 	 0 	 N/N 	 1 	 Engineering Combustion
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Engineering which
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 Engineering provides <XB>
+1 	 16 	 (S[dcl]\NP)/NP 	 1 	 Engineering sold
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 provides which
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 products provides
+6 	 5 	 N/N 	 1 	 products engineered
+6 	 11 	 (NP\NP)/NP 	 1 	 products for
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 systems provides
+8 	 11 	 (NP\NP)/NP 	 1 	 systems for
+10 	 4 	 (S[dcl]\NP)/NP 	 2 	 services provides
+10 	 11 	 (NP\NP)/NP 	 1 	 services for
+13 	 11 	 (NP\NP)/NP 	 2 	 generation for
+13 	 12 	 N/N 	 1 	 generation power
+16 	 15 	 (S\NP)/(S\NP) 	 2 	 sold also
+19 	 16 	 (S[dcl]\NP)/NP 	 2 	 Co. sold
+19 	 17 	 N/N 	 1 	 Co. Illinois
+19 	 18 	 N/N 	 1 	 Co. Minerals
+19 	 21 	 S[pss]\NP 	 1 	 Co. based <XB>
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 Cairo in
+25 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 Ill in
+<\s>
+<s id="wsj_1754.5"> 16
+1 	 0 	 NP[nb]/N 	 1 	 unit That
+1 	 2 	 (NP\NP)/NP 	 1 	 unit of
+1 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 unit was
+1 	 9 	 (S[pss]\NP)/PP 	 1 	 unit sold <XB>
+7 	 2 	 (NP\NP)/NP 	 2 	 subsidiary of
+7 	 3 	 NP[nb]/N 	 1 	 subsidiary its
+7 	 4 	 N/N 	 1 	 subsidiary Georgia
+7 	 5 	 N/N 	 1 	 subsidiary Kaolin
+7 	 6 	 N/N 	 1 	 subsidiary Co.
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sold was
+10 	 9 	 (S[pss]\NP)/PP 	 2 	 to sold
+12 	 10 	 PP/NP 	 1 	 unit to
+12 	 11 	 NP[nb]/N 	 1 	 unit a
+12 	 13 	 (NP\NP)/NP 	 1 	 unit of
+15 	 13 	 (NP\NP)/NP 	 2 	 Corp of
+15 	 14 	 N/N 	 1 	 Corp Unimin
+<\s>
+<s id="wsj_1754.6"> 34
+0 	 1 	 (NP\NP)/NP 	 1 	 Assets of
+0 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Assets were
+0 	 9 	 (S[pss]\NP)/PP 	 1 	 Assets sold <XB>
+4 	 1 	 (NP\NP)/NP 	 2 	 International of
+4 	 2 	 N/N 	 1 	 International Construction
+4 	 3 	 N/N 	 1 	 International Equipment
+4 	 6 	 NP\NP 	 1 	 International Houston
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sold were
+10 	 9 	 (S[pss]\NP)/PP 	 2 	 to sold
+13 	 10 	 PP/NP 	 1 	 Inc. to
+13 	 11 	 N/N 	 1 	 Inc. Essex
+13 	 12 	 N/N 	 1 	 Inc. Crane
+17 	 16 	 NP[nb]/N 	 1 	 assets the
+17 	 18 	 (NP\NP)/NP 	 1 	 assets of
+17 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 assets were
+17 	 27 	 (S[pss]\NP)/PP 	 1 	 assets sold <XB>
+20 	 18 	 (NP\NP)/NP 	 2 	 Electronics of
+20 	 19 	 N/N 	 1 	 Electronics Elgin
+20 	 22 	 NP\NP 	 1 	 Electronics Erie
+20 	 24 	 NP\NP 	 1 	 Electronics Pa. <XU>
+27 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sold were
+28 	 27 	 (S[pss]\NP)/PP 	 2 	 to sold
+30 	 29 	 (N/N)/(N/N) 	 2 	 held closely
+33 	 28 	 PP/NP 	 1 	 Inc to
+33 	 30 	 N/N 	 1 	 Inc held
+33 	 31 	 N/N 	 1 	 Inc Charter
+33 	 32 	 N/N 	 1 	 Inc Technologies
+<\s>

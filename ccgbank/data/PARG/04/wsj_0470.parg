@@ -1,0 +1,544 @@
+<s id="wsj_0470.1"> 34
+2 	 0 	 N/N 	 1 	 Inc. Warner
+2 	 1 	 N/N 	 1 	 Inc. Communications
+2 	 6 	 (S[dcl]\NP)/NP 	 1 	 Inc. resumed
+2 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Inc. continued <XU>
+2 	 25 	 ((S[b]\NP)/PP)/NP 	 1 	 Inc. level <XU>
+5 	 4 	 N/N 	 1 	 Corp. Sony
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Corp. resumed
+5 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Corp. continued <XU>
+5 	 25 	 ((S[b]\NP)/PP)/NP 	 1 	 Corp. level <XU>
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 talks resumed
+8 	 7 	 N/N 	 1 	 talks settlement
+8 	 9 	 (NP\NP)/NP 	 1 	 talks on
+12 	 9 	 (NP\NP)/NP 	 2 	 battle on
+12 	 10 	 NP[nb]/N 	 1 	 battle their
+12 	 11 	 N/N 	 1 	 battle legal
+12 	 13 	 (NP\NP)/NP 	 1 	 battle over
+17 	 13 	 (NP\NP)/NP 	 2 	 Guber over
+17 	 14 	 N/N 	 1 	 Guber Hollywood
+17 	 15 	 N/N 	 1 	 Guber producers
+17 	 16 	 N/N 	 1 	 Guber Peter
+20 	 13 	 (NP\NP)/NP 	 2 	 Peters over
+20 	 14 	 N/N 	 1 	 Peters Hollywood
+20 	 15 	 N/N 	 1 	 Peters producers
+20 	 19 	 N/N 	 1 	 Peters Jon
+24 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continued
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 level to
+25 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 level in
+27 	 25 	 ((S[b]\NP)/PP)/NP 	 3 	 accusations level
+27 	 26 	 N/N 	 1 	 accusations strong
+28 	 25 	 ((S[b]\NP)/PP)/NP 	 2 	 at level
+30 	 28 	 PP/NP 	 1 	 other at
+30 	 29 	 NP[nb]/N 	 1 	 other each
+33 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 documents in
+33 	 32 	 N/N 	 1 	 documents legal
+<\s>
+<s id="wsj_0470.2"> 56
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Warner has
+0 	 2 	 (S[pt]\NP)/NP 	 1 	 Warner filed <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 filed has
+2 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 filed in
+2 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 filed against
+6 	 4 	 (N/N)/N[num] 	 2 	 billion $
+6 	 5 	 N/N 	 1 	 billion 1
+7 	 8 	 ((N/N)\(N/N))/NP 	 2 	 breach of
+9 	 8 	 ((N/N)\(N/N))/NP 	 3 	 contract of
+10 	 2 	 (S[pt]\NP)/NP 	 2 	 suit filed
+10 	 3 	 NP[nb]/N 	 1 	 suit a
+10 	 4 	 (N/N)/N[num] 	 1 	 suit $
+10 	 7 	 N/N 	 1 	 suit breach
+15 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Court in
+15 	 12 	 N/N 	 1 	 Court Los
+15 	 13 	 N/N 	 1 	 Court Angeles
+15 	 14 	 N/N 	 1 	 Court Superior
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 Sony against
+17 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Sony who
+17 	 26 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Sony are <XB>
+17 	 27 	 ((S[ng]\NP)/PP)/NP 	 1 	 Sony countersuing <XB>
+21 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 duo against
+21 	 19 	 NP[nb]/N 	 1 	 duo the
+21 	 20 	 N/N 	 1 	 duo Guber-Peters
+21 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 duo who
+21 	 26 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 duo are <XB>
+21 	 27 	 ((S[ng]\NP)/PP)/NP 	 1 	 duo countersuing <XB>
+25 	 24 	 ((S\NP)/(S\NP))/NP 	 3 	 turn in
+26 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are who
+26 	 24 	 ((S\NP)/(S\NP))/NP 	 2 	 are in
+27 	 26 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 countersuing are
+28 	 27 	 ((S[ng]\NP)/PP)/NP 	 3 	 Warner countersuing
+29 	 27 	 ((S[ng]\NP)/PP)/NP 	 2 	 for countersuing
+30 	 29 	 PP/(S[ng]\NP) 	 1 	 trying for
+31 	 30 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 interfere to
+33 	 32 	 (S[b]\NP)/PP 	 2 	 in interfere
+34 	 35 	 (NP[nb]/N)\NP 	 2 	 Sony 's
+36 	 33 	 PP/NP 	 1 	 acquisition in
+36 	 35 	 (NP[nb]/N)\NP 	 1 	 acquisition 's
+36 	 37 	 (NP\NP)/NP 	 1 	 acquisition of
+36 	 47 	 (NP\NP)/NP 	 1 	 acquisition in
+41 	 37 	 (NP\NP)/NP 	 2 	 Inc. of
+41 	 38 	 N/N 	 1 	 Inc. Columbia
+41 	 39 	 N/N 	 1 	 Inc. Pictures
+41 	 40 	 N/N 	 1 	 Inc. Entertainment
+46 	 37 	 (NP\NP)/NP 	 2 	 Co. of
+46 	 43 	 N/N 	 1 	 Co. Guber
+46 	 44 	 N/N 	 1 	 Co. Peters
+46 	 45 	 N/N 	 1 	 Co. Entertainment
+49 	 47 	 (NP\NP)/NP 	 2 	 transactions in
+49 	 48 	 N/N 	 1 	 transactions two
+49 	 50 	 (S[pss]\NP)/PP 	 1 	 transactions valued <XB>
+51 	 50 	 (S[pss]\NP)/PP 	 2 	 at valued
+53 	 51 	 PP/NP 	 1 	 $ at
+53 	 52 	 N/N 	 1 	 $ over
+55 	 53 	 N/N[num] 	 1 	 billion $
+55 	 54 	 N/N 	 1 	 billion 5
+<\s>
+<s id="wsj_0470.3"> 54
+2 	 1 	 N/N 	 1 	 talks settlement
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 talks had
+2 	 5 	 S[pss]\NP 	 1 	 talks dropped <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 had Although
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+5 	 4 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 dropped been
+7 	 8 	 (NP\NP)/NP 	 1 	 attorneys for
+7 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 attorneys began
+7 	 14 	 S[ng]\NP 	 1 	 attorneys talking <XB>
+11 	 8 	 (NP\NP)/NP 	 2 	 sides for
+11 	 9 	 NP[nb]/N 	 1 	 sides the
+11 	 10 	 N/N 	 1 	 sides two
+13 	 0 	 (S/S)/S[dcl] 	 1 	 began Although
+13 	 12 	 (S\NP)/(S\NP) 	 2 	 began apparently
+13 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 began in
+14 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 talking began
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 talking again
+14 	 16 	 (S\NP)\(S\NP) 	 2 	 talking yesterday
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 attempt in
+19 	 18 	 NP[nb]/N 	 1 	 attempt an
+19 	 21 	 (S[b]\NP)/NP 	 1 	 attempt settle <XB>
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 settle to
+21 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 settle before
+23 	 21 	 (S[b]\NP)/NP 	 2 	 matter settle
+23 	 22 	 NP[nb]/N 	 1 	 matter the
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Thursday before
+25 	 27 	 (NP\NP)/S[dcl] 	 1 	 Thursday when
+29 	 28 	 NP[nb]/N 	 1 	 judge a
+29 	 30 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 judge is
+29 	 31 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 judge expected <XB>
+29 	 33 	 (S[b]\NP)/PP 	 1 	 judge rule <XB>
+30 	 27 	 (NP\NP)/S[dcl] 	 2 	 is when
+31 	 30 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+32 	 31 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+33 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rule to
+34 	 33 	 (S[b]\NP)/PP 	 2 	 on rule
+35 	 36 	 (NP[nb]/N)\NP 	 2 	 Warner 's
+37 	 34 	 PP/NP 	 1 	 request on
+37 	 36 	 (NP[nb]/N)\NP 	 1 	 request 's
+37 	 38 	 (NP\NP)/NP 	 1 	 request for
+40 	 38 	 (NP\NP)/NP 	 2 	 injunction for
+40 	 39 	 NP[nb]/N 	 1 	 injunction an
+40 	 41 	 (NP\NP)/(S[dcl]\NP) 	 1 	 injunction that
+40 	 42 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 injunction would <XB>
+40 	 43 	 ((S[b]\NP)/PP)/NP 	 1 	 injunction block <XB>
+42 	 41 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+43 	 42 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 block would
+46 	 43 	 ((S[b]\NP)/PP)/NP 	 3 	 producers block
+46 	 44 	 NP[nb]/N 	 1 	 producers the
+46 	 45 	 N/N 	 1 	 producers two
+47 	 43 	 ((S[b]\NP)/PP)/NP 	 2 	 from block
+48 	 47 	 PP/(S[ng]\NP) 	 1 	 taking from
+48 	 49 	 (S\NP)\(S\NP) 	 2 	 taking over
+51 	 48 	 (S[ng]\NP)/NP 	 2 	 management taking
+51 	 50 	 NP[nb]/N 	 1 	 management the
+51 	 52 	 (NP\NP)/NP 	 1 	 management of
+53 	 52 	 (NP\NP)/NP 	 2 	 Columbia of
+<\s>
+<s id="wsj_0470.4"> 49
+3 	 2 	 (S/S)/NP 	 2 	 documents in
+3 	 4 	 (S[pss]\NP)/PP 	 1 	 documents filed <XB>
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 in filed
+6 	 5 	 PP/NP 	 1 	 connection in
+6 	 7 	 (NP\NP)/NP 	 1 	 connection with
+9 	 7 	 (NP\NP)/NP 	 2 	 case with
+9 	 8 	 NP[nb]/N 	 1 	 case that
+11 	 12 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Warner accused
+11 	 36 	 (S[ng]\NP)/NP 	 1 	 Warner citing <XB>
+12 	 0 	 S/S 	 1 	 accused Yesterday
+12 	 2 	 (S/S)/NP 	 1 	 accused in
+14 	 12 	 ((S[dcl]\NP)/PP)/NP 	 3 	 officials accused
+14 	 13 	 N/N 	 1 	 officials Sony
+15 	 12 	 ((S[dcl]\NP)/PP)/NP 	 2 	 of accused
+17 	 15 	 PP/(S[ng]\NP) 	 1 	 claiming of
+17 	 16 	 (S\NP)/(S\NP) 	 2 	 claiming falsely
+18 	 17 	 (S[ng]\NP)/S[em] 	 2 	 that claiming
+19 	 21 	 (S[dcl]\NP)/NP 	 1 	 they read
+21 	 18 	 S[em]/S[dcl] 	 1 	 read that
+21 	 20 	 (S\NP)/(S\NP) 	 2 	 read never
+24 	 21 	 (S[dcl]\NP)/NP 	 2 	 contract read
+24 	 22 	 NP[nb]/N 	 1 	 contract the
+24 	 23 	 N/N 	 1 	 contract five-year
+24 	 25 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 1 	 contract requiring <XB>
+28 	 25 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 producers requiring
+28 	 26 	 NP[nb]/N 	 1 	 producers the
+28 	 27 	 N/N 	 1 	 producers two
+28 	 30 	 (S[b]\NP)/NP 	 1 	 producers make <XB>
+29 	 25 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to requiring
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+30 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 make for
+31 	 30 	 (S[b]\NP)/NP 	 2 	 movies make
+33 	 32 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 for exclusively
+34 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 Columbia for
+41 	 36 	 (S[ng]\NP)/NP 	 2 	 filings citing
+41 	 37 	 N/N 	 1 	 filings Securities
+41 	 39 	 N/N 	 1 	 filings Exchange
+41 	 40 	 N/N 	 1 	 filings Commission
+41 	 42 	 S[pss]\NP 	 1 	 filings made <XB>
+41 	 45 	 (NP\NP)/(S[dcl]\NP) 	 1 	 filings that
+41 	 46 	 (S[dcl]\NP)/NP 	 1 	 filings described <XB>
+42 	 43 	 ((S\NP)\(S\NP))/NP 	 2 	 made by
+44 	 43 	 ((S\NP)\(S\NP))/NP 	 3 	 Sony by
+46 	 45 	 (NP\NP)/(S[dcl]\NP) 	 2 	 described that
+48 	 46 	 (S[dcl]\NP)/NP 	 2 	 contracts described
+48 	 47 	 NP[nb]/N 	 1 	 contracts the
+<\s>
+<s id="wsj_0470.5"> 62
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Warner was
+0 	 2 	 (S[ng]\NP)/PP 	 1 	 Warner referring <XB>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 referring was
+3 	 2 	 (S[ng]\NP)/PP 	 2 	 to referring
+4 	 3 	 PP/NP 	 1 	 documents to
+4 	 5 	 S[pss]\NP 	 1 	 documents filed <XB>
+4 	 9 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 documents which
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 filed week
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week last
+8 	 9 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+11 	 10 	 (N/N)/(N/N) 	 2 	 Corp. Sony
+11 	 12 	 ((N/N)\(N/N))/NP 	 2 	 Corp. of
+13 	 12 	 ((N/N)\(N/N))/NP 	 3 	 America of
+17 	 11 	 N/N 	 1 	 Schulof Corp.
+17 	 14 	 N/N 	 1 	 Schulof Vice
+17 	 15 	 N/N 	 1 	 Schulof Chairman
+17 	 16 	 N/N 	 1 	 Schulof Michael
+17 	 29 	 (S[dcl]\NP)/S[dcl] 	 1 	 Schulof said
+20 	 19 	 N/N 	 1 	 Yetnikoff Walter
+20 	 29 	 (S[dcl]\NP)/S[dcl] 	 1 	 Yetnikoff said
+22 	 23 	 (NP\NP)/NP 	 1 	 president of
+22 	 29 	 (S[dcl]\NP)/S[dcl] 	 1 	 president said
+27 	 23 	 (NP\NP)/NP 	 2 	 unit of
+27 	 24 	 NP[nb]/N 	 1 	 unit its
+27 	 25 	 N/N 	 1 	 unit CBS
+27 	 26 	 N/N 	 1 	 unit Records
+29 	 9 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 said which
+30 	 31 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 they had
+30 	 32 	 ((S[pt]\NP)/PP)/NP 	 1 	 they taken <XB>
+31 	 29 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+32 	 31 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 taken had
+32 	 41 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 taken when
+34 	 32 	 ((S[pt]\NP)/PP)/NP 	 3 	 Guber taken
+34 	 33 	 N/N 	 1 	 Guber Mr.
+37 	 32 	 ((S[pt]\NP)/PP)/NP 	 3 	 Peters taken
+37 	 36 	 N/N 	 1 	 Peters Mr.
+38 	 32 	 ((S[pt]\NP)/PP)/NP 	 2 	 at taken
+40 	 38 	 PP/NP 	 1 	 word at
+40 	 39 	 NP[nb]/N 	 1 	 word their
+43 	 42 	 NP[nb]/N 	 1 	 producers the
+43 	 44 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 producers told
+44 	 41 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 told when
+45 	 44 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 them told
+46 	 44 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that told
+47 	 52 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 getting would
+47 	 53 	 (S[b]\NP)/NP 	 1 	 getting be <XB>
+49 	 47 	 (S[ng]\NP)/PP 	 2 	 of getting
+49 	 48 	 PP/PP 	 1 	 of out
+51 	 49 	 PP/NP 	 1 	 contract of
+51 	 50 	 NP[nb]/N 	 1 	 contract the
+52 	 46 	 S[em]/S[dcl] 	 1 	 would that
+53 	 52 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+53 	 56 	 ((S\NP)\(S\NP))/PP 	 2 	 be because
+55 	 53 	 (S[b]\NP)/NP 	 2 	 problem be
+55 	 54 	 NP[nb]/N 	 1 	 problem no
+57 	 56 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+61 	 57 	 PP/NP 	 1 	 agreement of
+61 	 58 	 NP[nb]/N 	 1 	 agreement a
+61 	 59 	 N/N 	 1 	 agreement previous
+61 	 60 	 N/N 	 1 	 agreement oral
+<\s>
+<s id="wsj_0470.6"> 46
+1 	 0 	 N/N 	 1 	 Smith Wayne
+1 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 Smith said
+4 	 3 	 NP[nb]/N 	 1 	 attorney an
+4 	 5 	 (NP\NP)/NP 	 1 	 attorney at
+4 	 14 	 (S[ng]\NP)/NP 	 1 	 attorney representing <XB>
+4 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 attorney said
+10 	 5 	 (NP\NP)/NP 	 2 	 Crutcher at
+10 	 6 	 N/N 	 1 	 Crutcher Gibson
+10 	 8 	 N/N 	 1 	 Crutcher Dunn
+10 	 9 	 N/N 	 1 	 Crutcher &
+10 	 11 	 (NP\NP)/NP 	 1 	 Crutcher in
+13 	 11 	 (NP\NP)/NP 	 2 	 Angeles in
+13 	 12 	 N/N 	 1 	 Angeles Los
+15 	 14 	 (S[ng]\NP)/NP 	 2 	 Sony representing
+20 	 18 	 NP[nb]/N 	 1 	 executives the
+20 	 19 	 N/N 	 1 	 executives Sony
+20 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 executives had
+20 	 23 	 (S[pt]\NP)/NP 	 1 	 executives seen <XB>
+21 	 17 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 had n't
+23 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 seen had
+23 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 seen because
+25 	 23 	 (S[pt]\NP)/NP 	 2 	 contract seen
+25 	 24 	 NP[nb]/N 	 1 	 contract the
+27 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it was
+27 	 30 	 S[adj]\NP 	 1 	 it relevant <XB>
+28 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was because
+28 	 29 	 (S\NP)\(S\NP) 	 2 	 was n't
+28 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 was once
+30 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 relevant was
+32 	 35 	 ((S[dcl]\NP)/S[dcl])/NP 	 1 	 Guber told
+34 	 35 	 ((S[dcl]\NP)/S[dcl])/NP 	 1 	 Peters told
+35 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 told once
+36 	 35 	 ((S[dcl]\NP)/S[dcl])/NP 	 3 	 them told
+37 	 38 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Warner would
+37 	 39 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 Warner let <XB>
+38 	 35 	 ((S[dcl]\NP)/S[dcl])/NP 	 2 	 would told
+39 	 38 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 let would
+40 	 39 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 them let
+40 	 41 	 (S[b]\NP)/NP 	 1 	 them terminate <XB>
+41 	 39 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 terminate let
+41 	 43 	 ((S\NP)\(S\NP))/NP 	 2 	 terminate at
+42 	 41 	 (S[b]\NP)/NP 	 2 	 it terminate
+45 	 43 	 ((S\NP)\(S\NP))/NP 	 3 	 time at
+45 	 44 	 NP[nb]/N 	 1 	 time any
+<\s>
+<s id="wsj_0470.7"> 35
+1 	 0 	 N/N 	 1 	 Smith Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Smith said
+3 	 4 	 (NP\NP)/NP 	 1 	 statements about
+3 	 7 	 S[pss]\NP 	 1 	 statements made <XB>
+3 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 statements were
+3 	 12 	 S[pss]\NP 	 1 	 statements made <XB>
+6 	 4 	 (NP\NP)/NP 	 2 	 contract about
+6 	 5 	 NP[nb]/N 	 1 	 contract the
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 made in
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 filings in
+10 	 9 	 N/N 	 1 	 filings SEC
+11 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 made were
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 made by
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 attorneys by
+14 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 attorneys who
+14 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 attorneys did <XB>
+14 	 17 	 (S[b]\NP)/NP 	 1 	 attorneys have <XB>
+14 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 attorneys who <XU>
+14 	 24 	 (S[dcl]\NP)/NP 	 1 	 attorneys were <XU>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 did who
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have did
+18 	 17 	 (S[b]\NP)/NP 	 2 	 access have
+18 	 19 	 (NP\NP)/NP 	 1 	 access to
+21 	 19 	 (NP\NP)/NP 	 2 	 contracts to
+21 	 20 	 NP[nb]/N 	 1 	 contracts the
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 were who
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 were n't
+26 	 24 	 (S[dcl]\NP)/NP 	 2 	 part were
+26 	 27 	 (NP\NP)/NP 	 1 	 part of
+29 	 27 	 (NP\NP)/NP 	 2 	 negotiations of
+29 	 28 	 NP[nb]/N 	 1 	 negotiations the
+29 	 30 	 (NP\NP)/NP 	 1 	 negotiations between
+31 	 30 	 (NP\NP)/NP 	 2 	 Sony between
+34 	 30 	 (NP\NP)/NP 	 2 	 duo between
+34 	 33 	 NP[nb]/N 	 1 	 duo the
+<\s>
+<s id="wsj_0470.8"> 42
+1 	 0 	 N/N 	 1 	 executives Warner
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 executives filed
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 filed also
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 affidavits filed
+6 	 4 	 N/N 	 1 	 affidavits new
+6 	 5 	 N/N 	 1 	 affidavits sworn
+6 	 7 	 (S[ng]\NP)/NP 	 1 	 affidavits denying <XB>
+8 	 7 	 (S[ng]\NP)/NP 	 2 	 claims denying
+8 	 9 	 (NP\NP)/NP 	 1 	 claims by
+8 	 14 	 (NP\NP)/S[dcl] 	 1 	 claims that
+11 	 9 	 (NP\NP)/NP 	 2 	 Guber by
+11 	 10 	 N/N 	 1 	 Guber Messrs.
+13 	 9 	 (NP\NP)/NP 	 2 	 Peters by
+13 	 10 	 N/N 	 1 	 Peters Messrs.
+17 	 15 	 NP[nb]/N 	 1 	 sides the
+17 	 16 	 N/N 	 1 	 sides two
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 sides had
+18 	 14 	 (NP\NP)/S[dcl] 	 2 	 had that
+21 	 18 	 (S[dcl]\NP)/NP 	 2 	 agreement had
+21 	 19 	 NP[nb]/N 	 1 	 agreement an
+21 	 20 	 N/N 	 1 	 agreement oral
+21 	 22 	 (NP\NP)/(S[dcl]\NP) 	 1 	 agreement that
+21 	 23 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 agreement enabled <XB>
+23 	 22 	 (NP\NP)/(S[dcl]\NP) 	 2 	 enabled that
+23 	 32 	 (((S\NP)\(S\NP))/(S[pt]\NP))/NP 	 2 	 enabled should
+25 	 23 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 producers enabled
+25 	 24 	 NP[nb]/N 	 1 	 producers the
+25 	 27 	 (S[b]\NP)/NP 	 1 	 producers terminate <XB>
+26 	 23 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to enabled
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 terminate to
+29 	 27 	 (S[b]\NP)/NP 	 2 	 contract terminate
+29 	 28 	 NP[nb]/N 	 1 	 contract their
+29 	 30 	 (NP\NP)/NP 	 1 	 contract with
+31 	 30 	 (NP\NP)/NP 	 2 	 Warner with
+34 	 32 	 (((S\NP)\(S\NP))/(S[pt]\NP))/NP 	 4 	 opportunity should
+34 	 33 	 NP[nb]/N 	 1 	 opportunity the
+34 	 36 	 (S[b]\NP)/NP 	 1 	 opportunity run <XB>
+34 	 40 	 S[pt]\NP 	 1 	 opportunity come <XB>
+36 	 35 	 (S[to]\NP)/(S[b]\NP) 	 2 	 run to
+39 	 36 	 (S[b]\NP)/NP 	 2 	 studio run
+39 	 37 	 NP[nb]/N 	 1 	 studio a
+39 	 38 	 N/N 	 1 	 studio major
+40 	 32 	 (((S\NP)\(S\NP))/(S[pt]\NP))/NP 	 3 	 come should
+40 	 41 	 (S\NP)\(S\NP) 	 2 	 come up
+<\s>
+<s id="wsj_0470.9"> 36
+2 	 1 	 N/N 	 1 	 Smith Mr.
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Smith said
+3 	 0 	 S/S 	 1 	 said But
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Sony intends
+4 	 7 	 (S[b]\NP)/S[em] 	 1 	 Sony prove <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 intends said
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to intends
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 prove to
+8 	 7 	 (S[b]\NP)/S[em] 	 2 	 that prove
+11 	 9 	 NP[nb]/N 	 1 	 agreement the
+11 	 10 	 N/N 	 1 	 agreement oral
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 agreement did
+11 	 15 	 S[b]\NP 	 1 	 agreement exist <XB>
+12 	 8 	 S[em]/S[dcl] 	 1 	 did that
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 did in
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 fact in
+15 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 exist did
+18 	 7 	 (S[b]\NP)/S[em] 	 2 	 that prove
+23 	 19 	 NP/NP 	 1 	 contract even
+23 	 20 	 NP[nb]/N 	 1 	 contract the
+23 	 21 	 N/N 	 1 	 contract existing
+23 	 22 	 N/N 	 1 	 contract written
+23 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 contract does
+23 	 26 	 ((S[b]\NP)/PP)/NP 	 1 	 contract preclude <XB>
+24 	 18 	 S[em]/S[dcl] 	 1 	 does that
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 does n't
+26 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 preclude does
+28 	 26 	 ((S[b]\NP)/PP)/NP 	 3 	 producers preclude
+28 	 27 	 NP[nb]/N 	 1 	 producers the
+29 	 26 	 ((S[b]\NP)/PP)/NP 	 2 	 from preclude
+30 	 29 	 PP/(S[ng]\NP) 	 1 	 taking from
+32 	 30 	 (S[ng]\NP)/NP 	 2 	 posts taking
+32 	 31 	 N/N 	 1 	 posts executive
+32 	 33 	 (NP\NP)/NP 	 1 	 posts at
+35 	 33 	 (NP\NP)/NP 	 2 	 studio at
+35 	 34 	 NP[nb]/N 	 1 	 studio another
+<\s>
+<s id="wsj_0470.10"> 33
+0 	 1 	 ((S[dcl]\NP)/NP)/PP 	 1 	 Warner described
+1 	 4 	 (S\NP)\(S\NP) 	 2 	 described yesterday
+2 	 1 	 ((S[dcl]\NP)/NP)/PP 	 3 	 as described
+3 	 2 	 PP/NP 	 1 	 nonsense as
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Sony 's
+7 	 1 	 ((S[dcl]\NP)/NP)/PP 	 2 	 assertions described
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 assertions 's
+7 	 8 	 (NP\NP)/NP 	 1 	 assertions in
+7 	 12 	 (NP\NP)/S[dcl] 	 1 	 assertions that
+11 	 8 	 (NP\NP)/NP 	 2 	 filings in
+11 	 9 	 N/N 	 1 	 filings prior
+11 	 10 	 N/N 	 1 	 filings court
+14 	 13 	 N/N 	 1 	 Guber Mr.
+14 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Guber could
+14 	 21 	 (S[pt]\NP)/NP 	 1 	 Guber run <XB>
+14 	 25 	 (S[ng]\NP)/NP 	 1 	 Guber fulfilling <XB>
+17 	 16 	 N/N 	 1 	 Peters Mr.
+17 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Peters could
+17 	 21 	 (S[pt]\NP)/NP 	 1 	 Peters run <XB>
+17 	 25 	 (S[ng]\NP)/NP 	 1 	 Peters fulfilling <XB>
+18 	 12 	 (NP\NP)/S[dcl] 	 2 	 could that
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 could in
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 theory in
+21 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 run could
+21 	 23 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 run while
+22 	 21 	 (S[pt]\NP)/NP 	 2 	 Columbia run
+25 	 23 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 fulfilling while
+25 	 24 	 (S\NP)/(S\NP) 	 2 	 fulfilling still
+27 	 25 	 (S[ng]\NP)/NP 	 2 	 contract fulfilling
+27 	 26 	 NP[nb]/N 	 1 	 contract their
+27 	 29 	 (S[b]\NP)/NP 	 1 	 contract produce <XB>
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 produce to
+29 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 produce for
+30 	 29 	 (S[b]\NP)/NP 	 2 	 movies produce
+32 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 Warner for
+<\s>
+<s id="wsj_0470.11"> 41
+3 	 0 	 NP/NP 	 1 	 role Such
+3 	 1 	 NP[nb]/N 	 1 	 role a
+3 	 2 	 N/N 	 1 	 role dual
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 role would
+3 	 6 	 S[adj]\NP 	 1 	 role impractical <XB>
+3 	 8 	 S[adj]\NP 	 1 	 role unethical <XU>
+4 	 11 	 (S[dcl]\S[dcl])\NP 	 1 	 would said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+6 	 5 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 impractical be
+8 	 5 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 unethical be
+10 	 11 	 (S[dcl]\S[dcl])\NP 	 2 	 Warner said
+16 	 15 	 NP[nb]/N 	 1 	 concept that
+16 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 concept is
+16 	 19 	 (S[adj]\NP)/PP 	 1 	 concept silly <XB>
+17 	 13 	 (S[ng]\NP)/S[dcl] 	 2 	 is adding
+19 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 silly is
+19 	 18 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 silly as
+20 	 19 	 (S[adj]\NP)/PP 	 2 	 as silly
+21 	 20 	 PP/(S[ng]\NP) 	 1 	 suggesting as
+22 	 21 	 (S[ng]\NP)/S[em] 	 2 	 that suggesting
+25 	 23 	 NP[nb]/N 	 1 	 coach the
+25 	 24 	 N/N 	 1 	 coach head
+25 	 26 	 (NP\NP)/NP 	 1 	 coach of
+25 	 31 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 coach could
+25 	 33 	 (S[b]\NP)/NP 	 1 	 coach be <XB>
+30 	 26 	 (NP\NP)/NP 	 2 	 Dodgers of
+30 	 27 	 NP[nb]/N 	 1 	 Dodgers the
+30 	 28 	 N/N 	 1 	 Dodgers Los
+30 	 29 	 N/N 	 1 	 Dodgers Angeles
+31 	 22 	 S[em]/S[dcl] 	 1 	 could that
+31 	 32 	 (S\NP)\(S\NP) 	 2 	 could simultaneously
+33 	 31 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+35 	 33 	 (S[b]\NP)/NP 	 2 	 manager be
+35 	 34 	 N/N 	 1 	 manager general
+35 	 36 	 (NP\NP)/NP 	 1 	 manager of
+40 	 36 	 (NP\NP)/NP 	 2 	 Giants of
+40 	 37 	 NP[nb]/N 	 1 	 Giants the
+40 	 38 	 N/N 	 1 	 Giants San
+40 	 39 	 N/N 	 1 	 Giants Francisco
+<\s>
+<s id="wsj_0470.12"> 32
+0 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Warner which
+0 	 3 	 (S[dcl]\NP)/PP 	 1 	 Warner is <XB>
+0 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 Warner said
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 in is
+6 	 4 	 PP/NP 	 1 	 process in
+6 	 5 	 NP[nb]/N 	 1 	 process the
+6 	 7 	 (NP\NP)/(S[ng]\NP) 	 1 	 process of
+8 	 7 	 (NP\NP)/(S[ng]\NP) 	 2 	 being of
+9 	 8 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 acquired being
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 acquired by
+12 	 11 	 (N/N)/(N/N) 	 2 	 York-based New
+15 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 Inc. by
+15 	 12 	 N/N 	 1 	 Inc. York-based
+15 	 13 	 N/N 	 1 	 Inc. Time
+15 	 14 	 N/N 	 1 	 Inc. Warner
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 said also
+19 	 20 	 ((S[dcl]\NP)/NP)/NP 	 1 	 it paid
+20 	 18 	 (S[dcl]\NP)/S[dcl] 	 2 	 paid said
+23 	 20 	 ((S[dcl]\NP)/NP)/NP 	 3 	 producers paid
+23 	 21 	 NP[nb]/N 	 1 	 producers the
+23 	 22 	 N/N 	 1 	 producers two
+27 	 20 	 ((S[dcl]\NP)/NP)/NP 	 2 	 salary paid
+27 	 24 	 NP[nb]/N 	 1 	 salary a
+27 	 25 	 N/N 	 1 	 salary fixed
+27 	 26 	 N/N 	 1 	 salary annual
+27 	 28 	 (NP\NP)/NP 	 1 	 salary of
+29 	 28 	 (NP\NP)/NP 	 2 	 $ of
+31 	 29 	 N/N[num] 	 1 	 million $
+31 	 30 	 N/N 	 1 	 million 3
+<\s>

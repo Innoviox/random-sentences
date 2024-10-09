@@ -1,0 +1,85 @@
+<s id="wsj_2324.1"> 22
+1 	 0 	 N/N 	 1 	 Corp. Syms
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Corp. completed
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 sale completed
+4 	 3 	 NP[nb]/N 	 1 	 sale the
+4 	 5 	 (NP\NP)/NP 	 1 	 sale of
+4 	 19 	 (NP\NP)/NP 	 1 	 sale to
+11 	 5 	 (NP\NP)/NP 	 2 	 subsidiary of
+11 	 6 	 NP[nb]/N 	 1 	 subsidiary its
+11 	 7 	 N/N 	 1 	 subsidiary A.
+11 	 8 	 N/N 	 1 	 subsidiary Sulka
+11 	 9 	 N/N 	 1 	 subsidiary &
+11 	 10 	 N/N 	 1 	 subsidiary Co.
+14 	 13 	 NP[nb]/N 	 1 	 men a
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 men 's
+17 	 5 	 (NP\NP)/NP 	 2 	 haberdashery of
+17 	 15 	 (NP[nb]/N)\NP 	 1 	 haberdashery 's
+17 	 16 	 N/N 	 1 	 haberdashery luxury
+21 	 19 	 (NP\NP)/NP 	 2 	 Investments to
+21 	 20 	 N/N 	 1 	 Investments Luxco
+<\s>
+<s id="wsj_2324.2"> 4
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Terms were
+0 	 3 	 S[pss]\NP 	 1 	 Terms disclosed <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 were n't
+3 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 disclosed were
+<\s>
+<s id="wsj_2324.3"> 34
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Syms 's
+4 	 2 	 (NP[nb]/N)\NP 	 1 	 business 's
+4 	 3 	 N/N 	 1 	 business core
+4 	 5 	 (NP\NP)/NP 	 1 	 business of
+4 	 8 	 S[dcl]\NP 	 1 	 business grows
+7 	 5 	 (NP\NP)/NP 	 2 	 retailing of
+7 	 6 	 N/N 	 1 	 retailing off-price
+8 	 0 	 (S/S)/S[dcl] 	 2 	 grows As
+12 	 10 	 NP[nb]/N 	 1 	 subsidiary a
+12 	 11 	 N/N 	 1 	 subsidiary small
+12 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 subsidiary that
+12 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 subsidiary is <XB>
+12 	 16 	 S[adj]\NP 	 1 	 subsidiary unrelated <XB>
+12 	 17 	 (S[dcl]\NP)/NP 	 1 	 subsidiary becomes
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is that
+16 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unrelated is
+16 	 15 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 unrelated operationally
+17 	 0 	 (S/S)/S[dcl] 	 1 	 becomes As
+17 	 22 	 (S[dcl]\S[dcl])/NP 	 1 	 becomes said
+20 	 17 	 (S[dcl]\NP)/NP 	 2 	 distraction becomes
+20 	 18 	 NP[nb]/N 	 1 	 distraction a
+20 	 19 	 N/N 	 1 	 distraction difficult
+22 	 31 	 (S\S)/NP 	 1 	 said in
+24 	 22 	 (S[dcl]\S[dcl])/NP 	 2 	 Syms said
+24 	 23 	 N/N 	 1 	 Syms Marcy
+26 	 22 	 (S[dcl]\S[dcl])/NP 	 2 	 president said
+26 	 27 	 (NP\NP)/NP 	 1 	 president of
+29 	 27 	 (NP\NP)/NP 	 2 	 parent of
+29 	 28 	 NP[nb]/N 	 1 	 parent the
+33 	 31 	 (S\S)/NP 	 2 	 statement in
+33 	 32 	 NP[nb]/N 	 1 	 statement a
+<\s>
+<s id="wsj_2324.4"> 15
+1 	 0 	 NP[nb]/N 	 1 	 spokeswoman A
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokeswoman said
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Sulka operates
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 operates said
+4 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 operates in
+4 	 14 	 (S\NP)\(S\NP) 	 2 	 operates overseas <XU>
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 total operates
+6 	 5 	 NP[nb]/N 	 1 	 total a
+6 	 7 	 (NP\NP)/NP 	 1 	 total of
+9 	 7 	 (NP\NP)/NP 	 2 	 stores of
+9 	 8 	 N/N 	 1 	 stores seven
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. in
+12 	 11 	 NP[nb]/N 	 1 	 U.S. the
+<\s>
+<s id="wsj_2324.5"> 9
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Syms operates
+1 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 operates in
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 stores operates
+5 	 2 	 N/N 	 1 	 stores 25
+5 	 3 	 N/N 	 1 	 stores off-price
+5 	 4 	 N/N 	 1 	 stores apparel
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. in
+8 	 7 	 NP[nb]/N 	 1 	 U.S. the
+<\s>

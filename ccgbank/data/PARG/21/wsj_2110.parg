@@ -1,0 +1,664 @@
+<s id="wsj_2110.1"> 24
+4 	 0 	 NP[nb]/N 	 1 	 Commission The
+4 	 1 	 N/N 	 1 	 Commission Commodity
+4 	 2 	 N/N 	 1 	 Commission Futures
+4 	 3 	 N/N 	 1 	 Commission Trading
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Commission plans
+4 	 7 	 (S[b]\NP)/NP 	 1 	 Commission restrict <XB>
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 restrict to
+9 	 7 	 (S[b]\NP)/NP 	 2 	 trading restrict
+9 	 8 	 N/N 	 1 	 trading dual
+9 	 10 	 (NP\NP)/NP 	 1 	 trading on
+12 	 10 	 (NP\NP)/NP 	 2 	 exchanges on
+12 	 11 	 N/N 	 1 	 exchanges commodity
+15 	 14 	 NP[nb]/N 	 1 	 move a
+15 	 17 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 move certain <XB>
+17 	 16 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 certain almost
+18 	 17 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to certain
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 infuriate to
+21 	 19 	 (S[b]\NP)/NP 	 2 	 officials infuriate
+21 	 20 	 N/N 	 1 	 officials exchange
+23 	 19 	 (S[b]\NP)/NP 	 2 	 traders infuriate
+<\s>
+<s id="wsj_2110.2"> 30
+1 	 0 	 NP[nb]/N 	 1 	 CFTC The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 CFTC said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+3 	 5 	 (S[b]\NP)/NP 	 1 	 it propose <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 propose will
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 propose after
+7 	 5 	 (S[b]\NP)/NP 	 2 	 restrictions propose
+7 	 6 	 NP[nb]/N 	 1 	 restrictions the
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 release after
+10 	 9 	 NP[nb]/N 	 1 	 release the
+10 	 11 	 (NP\NP)/NP 	 1 	 release of
+13 	 11 	 (NP\NP)/NP 	 2 	 study of
+13 	 12 	 NP[nb]/N 	 1 	 study a
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 study that
+13 	 15 	 (S[dcl]\NP)/NP 	 1 	 study shows <XB>
+13 	 24 	 (S[dcl]\NP)/NP 	 1 	 study cites <XU>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 shows that
+18 	 15 	 (S[dcl]\NP)/NP 	 2 	 benefit shows
+18 	 16 	 N/N 	 1 	 benefit little
+18 	 17 	 N/N 	 1 	 benefit economic
+18 	 19 	 (S[ng]\NP)/PP 	 1 	 benefit resulting <XB>
+20 	 19 	 (S[ng]\NP)/PP 	 2 	 from resulting
+22 	 20 	 PP/NP 	 1 	 trading from
+22 	 21 	 N/N 	 1 	 trading dual
+24 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 cites that
+25 	 24 	 (S[dcl]\NP)/NP 	 2 	 problems cites
+25 	 26 	 (S[pss]\NP)/PP 	 1 	 problems associated <XB>
+27 	 26 	 (S[pss]\NP)/PP 	 2 	 with associated
+29 	 27 	 PP/NP 	 1 	 practice with
+29 	 28 	 NP[nb]/N 	 1 	 practice the
+<\s>
+<s id="wsj_2110.3"> 18
+1 	 0 	 N/N 	 1 	 trading Dual
+1 	 2 	 ((S[dcl]\NP)/NP)/NP 	 1 	 trading gives
+5 	 2 	 ((S[dcl]\NP)/NP)/NP 	 3 	 trader gives
+5 	 3 	 NP[nb]/N 	 1 	 trader an
+5 	 4 	 N/N 	 1 	 trader exchange
+7 	 2 	 ((S[dcl]\NP)/NP)/NP 	 2 	 right gives
+7 	 6 	 NP[nb]/N 	 1 	 right the
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 trade to
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 trade for
+9 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 trade for <XU>
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 for both
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 account for
+14 	 12 	 NP[nb]/N 	 1 	 account his
+14 	 13 	 N/N 	 1 	 account own
+16 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 for both
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 customers for
+<\s>
+<s id="wsj_2110.4"> 29
+1 	 0 	 NP[nb]/N 	 1 	 issue The
+1 	 2 	 S[dcl]\NP 	 1 	 issue exploded
+2 	 3 	 ((S\NP)\(S\NP))/N 	 2 	 exploded this
+2 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 exploded after
+4 	 3 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+8 	 7 	 (N/N)/(N/N) 	 2 	 Bureau Federal
+8 	 9 	 ((N/N)\(N/N))/NP 	 2 	 Bureau of
+10 	 9 	 ((N/N)\(N/N))/NP 	 3 	 Investigation of
+11 	 6 	 NP[nb]/N 	 1 	 operation a
+11 	 8 	 N/N 	 1 	 operation Bureau
+11 	 12 	 (S[dcl]\NP)/PP 	 1 	 operation led
+12 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 led after
+13 	 12 	 (S[dcl]\NP)/PP 	 2 	 to led
+14 	 13 	 PP/NP 	 1 	 charges to
+14 	 15 	 (NP\NP)/NP 	 1 	 charges of
+14 	 19 	 (NP\NP)/NP 	 1 	 charges at
+18 	 15 	 (NP\NP)/NP 	 2 	 abuses of
+18 	 16 	 N/N 	 1 	 abuses widespread
+18 	 17 	 N/N 	 1 	 abuses trading
+22 	 19 	 (NP\NP)/NP 	 2 	 Board at
+22 	 20 	 NP[nb]/N 	 1 	 Board the
+22 	 21 	 N/N 	 1 	 Board Chicago
+22 	 23 	 (NP\NP)/NP 	 1 	 Board of
+24 	 23 	 (NP\NP)/NP 	 2 	 Trade of
+28 	 19 	 (NP\NP)/NP 	 2 	 Exchange at
+28 	 26 	 N/N 	 1 	 Exchange Chicago
+28 	 27 	 N/N 	 1 	 Exchange Mercantile
+<\s>
+<s id="wsj_2110.5"> 20
+3 	 0 	 (S/S)/(S[pss]\NP) 	 2 	 mentioned While
+3 	 1 	 (S\NP)/(S\NP) 	 2 	 mentioned not
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 mentioned specifically
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 mentioned in
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 charges in
+7 	 5 	 NP[nb]/N 	 1 	 charges the
+7 	 6 	 N/N 	 1 	 charges FBI
+10 	 9 	 N/N 	 1 	 trading dual
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 trading became
+11 	 0 	 (S/S)/(S[pss]\NP) 	 1 	 became While
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 focus became
+13 	 12 	 NP[nb]/N 	 1 	 focus a
+13 	 14 	 (NP\NP)/NP 	 1 	 focus of
+15 	 14 	 (NP\NP)/NP 	 2 	 attempts of
+15 	 17 	 (S[b]\NP)/NP 	 1 	 attempts tighten <XB>
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 tighten to
+19 	 17 	 (S[b]\NP)/NP 	 2 	 regulations tighten
+19 	 18 	 N/N 	 1 	 regulations industry
+<\s>
+<s id="wsj_2110.6"> 20
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Critics contend
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that contend
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 traders were
+3 	 5 	 (S[ng]\NP)/NP 	 1 	 traders putting <XB>
+4 	 2 	 S[em]/S[dcl] 	 1 	 were that
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 putting were
+5 	 13 	 ((S\NP)\(S\NP))/PP 	 2 	 putting ahead
+6 	 5 	 (S[ng]\NP)/NP 	 2 	 buying putting
+6 	 9 	 (NP\NP)/NP 	 1 	 buying for
+8 	 5 	 (S[ng]\NP)/NP 	 2 	 selling putting
+8 	 9 	 (NP\NP)/NP 	 1 	 selling for
+12 	 9 	 (NP\NP)/NP 	 2 	 accounts for
+12 	 10 	 NP[nb]/N 	 1 	 accounts their
+12 	 11 	 N/N 	 1 	 accounts own
+14 	 13 	 ((S\NP)\(S\NP))/PP 	 3 	 of ahead
+16 	 15 	 N/N 	 1 	 traders other
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 traders '
+19 	 14 	 PP/NP 	 1 	 orders of
+19 	 17 	 (NP[nb]/N)\NP 	 1 	 orders '
+19 	 18 	 N/N 	 1 	 orders customer
+<\s>
+<s id="wsj_2110.7"> 27
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Traders are
+0 	 2 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Traders likely <XB>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely are
+3 	 2 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 oppose to
+4 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 oppose because
+6 	 4 	 (S[b]\NP)/NP 	 2 	 restrictions oppose
+6 	 5 	 NP/NP 	 1 	 restrictions such
+9 	 8 	 N/N 	 1 	 trading dual
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 trading provides
+10 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 provides because
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 way provides
+12 	 11 	 NP[nb]/N 	 1 	 way a
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+14 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 make in
+15 	 14 	 (S[b]\NP)/NP 	 2 	 money make
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 markets in
+18 	 17 	 N/N 	 1 	 markets slower
+18 	 19 	 (NP\NP)/S[dcl] 	 1 	 markets where
+20 	 21 	 (S[dcl]\NP[thr])/NP 	 1 	 there is
+21 	 19 	 (NP\NP)/S[dcl] 	 2 	 is where
+23 	 21 	 (S[dcl]\NP[thr])/NP 	 2 	 shortage is
+23 	 22 	 NP[nb]/N 	 1 	 shortage a
+23 	 24 	 (NP\NP)/NP 	 1 	 shortage of
+26 	 24 	 (NP\NP)/NP 	 2 	 orders of
+26 	 25 	 N/N 	 1 	 orders customer
+<\s>
+<s id="wsj_2110.8"> 28
+1 	 0 	 NP[nb]/N 	 1 	 exchanges The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 exchanges contend
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that contend
+5 	 4 	 N/N 	 1 	 trading dual
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 trading improves
+6 	 3 	 S[em]/S[dcl] 	 1 	 improves that
+6 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 improves because
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 liquidity improves
+7 	 8 	 (NP\NP)/NP 	 1 	 liquidity in
+10 	 8 	 (NP\NP)/NP 	 2 	 markets in
+10 	 9 	 NP[nb]/N 	 1 	 markets the
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 traders can
+12 	 14 	 S[b]\NP 	 1 	 traders buy <XB>
+12 	 16 	 S[b]\NP 	 1 	 traders sell <XU>
+13 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 can because
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 buy can
+14 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 buy when
+16 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 sell can
+16 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 sell when
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 when even
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they do
+19 	 22 	 (S[b]\NP)/NP 	 1 	 they have <XB>
+20 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 do when
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 do n't
+22 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have do
+25 	 22 	 (S[b]\NP)/NP 	 2 	 order have
+25 	 23 	 NP[nb]/N 	 1 	 order a
+25 	 24 	 N/N 	 1 	 order customer
+25 	 26 	 (NP\NP)/NP 	 1 	 order in
+27 	 26 	 (NP\NP)/NP 	 2 	 hand in
+<\s>
+<s id="wsj_2110.9"> 22
+1 	 0 	 NP[nb]/N 	 1 	 exchanges The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 exchanges say
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 liquidity becomes
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 becomes say
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 problem becomes
+7 	 5 	 NP[nb]/N 	 1 	 problem a
+7 	 6 	 N/N 	 1 	 problem severe
+7 	 8 	 (NP\NP)/NP 	 1 	 problem for
+11 	 8 	 (NP\NP)/NP 	 2 	 contracts for
+11 	 9 	 N/N 	 1 	 contracts thinly
+11 	 10 	 N/N 	 1 	 contracts traded
+11 	 13 	 (NP\NP)/NP 	 1 	 contracts as
+13 	 12 	 (NP\NP)/(NP\NP) 	 2 	 as such
+14 	 13 	 (NP\NP)/NP 	 2 	 those as
+14 	 15 	 (NP\NP)/NP 	 1 	 those with
+18 	 15 	 (NP\NP)/NP 	 2 	 time with
+18 	 16 	 NP[nb]/N 	 1 	 time a
+18 	 17 	 N/N 	 1 	 time long
+18 	 19 	 S[ng]\NP 	 1 	 time remaining <XB>
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 remaining before
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 expiration before
+<\s>
+<s id="wsj_2110.10"> 14
+1 	 0 	 NP[nb]/N 	 1 	 CFTC The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 CFTC may
+1 	 3 	 ((S[b]\NP)/PP)/NP 	 1 	 CFTC take <XB>
+1 	 9 	 (S[ng]\NP)/NP 	 1 	 CFTC allowing <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take may
+3 	 8 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 take by
+5 	 3 	 ((S[b]\NP)/PP)/NP 	 3 	 arguments take
+5 	 4 	 NP[nb]/N 	 1 	 arguments those
+6 	 3 	 ((S[b]\NP)/PP)/NP 	 2 	 into take
+7 	 6 	 PP/NP 	 1 	 account into
+9 	 8 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 allowing by
+10 	 9 	 (S[ng]\NP)/NP 	 2 	 exceptions allowing
+10 	 11 	 (NP\NP)/NP 	 1 	 exceptions to
+13 	 11 	 (NP\NP)/NP 	 2 	 restrictions to
+13 	 12 	 NP[nb]/N 	 1 	 restrictions its
+<\s>
+<s id="wsj_2110.11"> 29
+1 	 0 	 NP[nb]/N 	 1 	 agency The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 agency did
+1 	 4 	 (S[b]\NP)/NP 	 1 	 agency cite <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 did n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cite did
+6 	 4 	 (S[b]\NP)/NP 	 2 	 situations cite
+6 	 5 	 N/N 	 1 	 situations specific
+6 	 7 	 (NP\NP)/S[dcl] 	 1 	 situations where
+9 	 8 	 N/N 	 1 	 trading dual
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 trading might
+9 	 12 	 S[pss]\NP 	 1 	 trading allowed <XB>
+10 	 7 	 (NP\NP)/S[dcl] 	 2 	 might where
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be might
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 allowed be
+16 	 15 	 N/N 	 1 	 exchanges smaller
+16 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 exchanges that
+16 	 20 	 (S[dcl]\NP)/NP 	 1 	 exchanges need <XB>
+16 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 exchanges are
+16 	 24 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 exchanges expected <XB>
+16 	 26 	 (S[b]\NP)/PP 	 1 	 exchanges be <XB>
+18 	 15 	 N/N 	 1 	 contracts smaller
+18 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 contracts that
+18 	 20 	 (S[dcl]\NP)/NP 	 1 	 contracts need <XB>
+18 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 contracts are
+18 	 24 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 contracts expected <XB>
+18 	 26 	 (S[b]\NP)/PP 	 1 	 contracts be <XB>
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 need that
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 liquidity need
+22 	 21 	 N/N 	 1 	 liquidity additional
+24 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+25 	 24 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+27 	 26 	 (S[b]\NP)/PP 	 2 	 among be
+28 	 27 	 PP/NP 	 1 	 them among
+<\s>
+<s id="wsj_2110.12"> 33
+1 	 0 	 N/N 	 1 	 Gramm Wendy
+1 	 8 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 Gramm told
+4 	 3 	 NP[nb]/N 	 1 	 agency the
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 agency 's
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 chairman 's
+6 	 8 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 chairman told
+12 	 8 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 Committee told
+12 	 9 	 NP[nb]/N 	 1 	 Committee the
+12 	 10 	 N/N 	 1 	 Committee Senate
+12 	 11 	 N/N 	 1 	 Committee Agriculture
+13 	 8 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that told
+14 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 she expects
+15 	 13 	 S[em]/S[dcl] 	 1 	 expects that
+17 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 study expects
+17 	 16 	 NP[nb]/N 	 1 	 study the
+18 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+20 	 19 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 released be
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 released within
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 weeks within
+23 	 22 	 N/N 	 1 	 weeks two
+27 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 changes expects
+27 	 25 	 NP[nb]/N 	 1 	 changes the
+27 	 26 	 N/N 	 1 	 changes rule
+28 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+30 	 29 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 completed be
+30 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 completed by
+32 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 Thanksgiving by
+<\s>
+<s id="wsj_2110.13"> 27
+1 	 0 	 NP[nb]/N 	 1 	 study The
+1 	 3 	 (NP\NP)/NP 	 1 	 study by
+1 	 12 	 (S[dcl]\NP)/S[em] 	 1 	 study shows
+5 	 4 	 NP[nb]/N 	 1 	 CFTC the
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 CFTC 's
+7 	 3 	 (NP\NP)/NP 	 2 	 division by
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 division 's
+7 	 8 	 (NP\NP)/NP 	 1 	 division of
+10 	 8 	 (NP\NP)/NP 	 2 	 analysis of
+10 	 9 	 N/N 	 1 	 analysis economic
+12 	 26 	 (S[dcl]\S[dcl])\NP 	 1 	 shows said
+13 	 12 	 (S[dcl]\NP)/S[em] 	 2 	 that shows
+15 	 14 	 NP[nb]/N 	 1 	 trade a
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 trade is
+16 	 13 	 S[em]/S[dcl] 	 1 	 is that
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 trade is
+18 	 17 	 NP[nb]/N 	 1 	 trade a
+21 	 20 	 NP[nb]/N 	 1 	 member a
+21 	 22 	 (NP\NP)/NP 	 1 	 member of
+21 	 26 	 (S[dcl]\S[dcl])\NP 	 2 	 member said
+25 	 22 	 (NP\NP)/NP 	 2 	 team of
+25 	 23 	 NP[nb]/N 	 1 	 team the
+25 	 24 	 N/N 	 1 	 team study
+<\s>
+<s id="wsj_2110.14"> 24
+0 	 16 	 (S[dcl]\S[qem])/(S[b]\NP) 	 1 	 Whether does
+2 	 1 	 NP[nb]/N 	 1 	 trade a
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 trade is
+2 	 4 	 S[pss]\NP 	 1 	 trade done <XB>
+3 	 0 	 S[qem]/S[dcl] 	 1 	 is Whether
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 done is
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 done on
+10 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 basis on
+10 	 6 	 NP[nb]/N 	 1 	 basis a
+10 	 7 	 N/N 	 1 	 basis dual
+10 	 9 	 N/N 	 1 	 basis non-dual
+13 	 12 	 NP[nb]/N 	 1 	 member the
+13 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 member said
+16 	 14 	 (S[dcl]\NP)/S[dcl] 	 2 	 does said <XU>
+16 	 17 	 S\S 	 1 	 does n't
+18 	 16 	 (S[dcl]\S[qem])/(S[b]\NP) 	 2 	 seem does
+19 	 18 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to seem
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+23 	 20 	 (S[b]\NP)/NP 	 2 	 impact have
+23 	 21 	 N/N 	 1 	 impact much
+23 	 22 	 N/N 	 1 	 impact economic
+<\s>
+<s id="wsj_2110.15"> 28
+3 	 2 	 N/N 	 1 	 traders most
+3 	 4 	 (NP\NP)/NP 	 1 	 traders on
+3 	 7 	 (S[dcl]\NP)/PP 	 1 	 traders specialize
+6 	 4 	 (NP\NP)/NP 	 2 	 exchanges on
+6 	 5 	 N/N 	 1 	 exchanges commodity
+7 	 0 	 S/S 	 1 	 specialize Currently
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 in specialize
+9 	 8 	 PP/NP 	 1 	 trading in
+9 	 11 	 (NP\NP)/NP 	 1 	 trading for
+9 	 21 	 (NP\NP)/NP 	 1 	 trading for <XU>
+11 	 10 	 (NP\NP)/(NP\NP) 	 2 	 for either
+11 	 15 	 ((NP\NP)\(NP\NP))/(S[dcl]\NP) 	 2 	 for which
+13 	 11 	 (NP\NP)/NP 	 2 	 accounts for
+13 	 12 	 N/N 	 1 	 accounts customer
+16 	 15 	 ((NP\NP)\(NP\NP))/(S[dcl]\NP) 	 3 	 makes which
+17 	 16 	 ((S[dcl]\NP)/NP)/NP 	 3 	 them makes
+18 	 16 	 ((S[dcl]\NP)/NP)/NP 	 2 	 brokers makes
+21 	 10 	 (NP\NP)/(NP\NP) 	 2 	 for either
+21 	 25 	 ((NP\NP)\(NP\NP))/NP 	 2 	 for as
+24 	 21 	 (NP\NP)/NP 	 2 	 accounts for
+24 	 22 	 NP[nb]/N 	 1 	 accounts their
+24 	 23 	 N/N 	 1 	 accounts own
+27 	 25 	 ((NP\NP)\(NP\NP))/NP 	 3 	 locals as
+27 	 26 	 N/N 	 1 	 locals socalled
+<\s>
+<s id="wsj_2110.16"> 30
+1 	 0 	 NP[nb]/N 	 1 	 tests The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 tests indicate
+2 	 26 	 ((S[dcl]\S[dcl])\NP)/NP 	 1 	 indicate told
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that indicate
+7 	 4 	 N/N 	 1 	 traders dual
+7 	 6 	 N/N 	 1 	 traders non-dual
+7 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 traders are
+7 	 9 	 S[adj]\NP 	 1 	 traders similar <XB>
+8 	 3 	 S[em]/S[dcl] 	 1 	 are that
+8 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 are in
+9 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 similar are
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 terms in
+11 	 12 	 (NP\NP)/NP 	 1 	 terms of
+15 	 12 	 (NP\NP)/NP 	 2 	 executions of
+15 	 13 	 NP[nb]/N 	 1 	 executions the
+15 	 14 	 N/N 	 1 	 executions trade
+15 	 19 	 ((S[dcl]\NP)/PP)/NP 	 3 	 executions provide <XU>
+17 	 12 	 (NP\NP)/NP 	 2 	 liquidity of
+17 	 19 	 ((S[dcl]\NP)/PP)/NP 	 3 	 liquidity provide <XU>
+18 	 19 	 ((S[dcl]\NP)/PP)/NP 	 1 	 they provide
+20 	 19 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to provide
+22 	 20 	 PP/NP 	 1 	 market to
+22 	 21 	 NP[nb]/N 	 1 	 market the
+25 	 24 	 N/N 	 1 	 Gramm Mrs.
+25 	 26 	 ((S[dcl]\S[dcl])\NP)/NP 	 2 	 Gramm told
+29 	 26 	 ((S[dcl]\S[dcl])\NP)/NP 	 3 	 panel told
+29 	 27 	 NP[nb]/N 	 1 	 panel the
+29 	 28 	 N/N 	 1 	 panel Senate
+<\s>
+<s id="wsj_2110.17"> 14
+0 	 1 	 (NP\NP)/NP 	 1 	 Members of
+0 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Members have
+0 	 4 	 (S[pt]\NP)/(S[ng]\NP) 	 1 	 Members proposed <XB>
+0 	 5 	 (S[ng]\NP)/NP 	 1 	 Members restricting <XB>
+2 	 1 	 (NP\NP)/NP 	 2 	 Congress of
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 proposed have
+4 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 proposed in
+5 	 4 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 restricting proposed
+7 	 5 	 (S[ng]\NP)/NP 	 2 	 trading restricting
+7 	 6 	 N/N 	 1 	 trading dual
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 bills in
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reauthorize to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 operations reauthorize
+13 	 12 	 N/N 	 1 	 operations CFTC
+<\s>
+<s id="wsj_2110.18"> 32
+1 	 0 	 NP[nb]/N 	 1 	 House The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 House 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 bill 's
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bill would
+3 	 5 	 (S[b]\NP)/NP 	 1 	 bill prohibit <XB>
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 prohibit would
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 prohibit in
+7 	 5 	 (S[b]\NP)/NP 	 2 	 trading prohibit
+7 	 6 	 N/N 	 1 	 trading dual
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 markets in
+9 	 10 	 (NP\NP)/NP 	 1 	 markets with
+9 	 20 	 (S[ng]\NP)/NP 	 1 	 markets comprising <XB>
+13 	 10 	 (NP\NP)/NP 	 2 	 volume with
+13 	 11 	 N/N 	 1 	 volume daily
+13 	 12 	 N/N 	 1 	 volume average
+13 	 14 	 (NP\NP)/NP 	 1 	 volume of
+16 	 14 	 (NP\NP)/NP 	 2 	 contracts of
+16 	 15 	 N/N 	 1 	 contracts 7,000
+16 	 18 	 NP\NP 	 1 	 contracts more
+18 	 17 	 (NP\NP)/(NP\NP) 	 2 	 more or
+21 	 20 	 (S[ng]\NP)/NP 	 2 	 those comprising
+21 	 22 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 those considered <XB>
+21 	 23 	 ((S[adj]\NP)/((S[to]\NP)/NP))/(S[adj]\NP) 	 1 	 those too <XB>
+23 	 22 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 too considered
+24 	 23 	 ((S[adj]\NP)/((S[to]\NP)/NP))/(S[adj]\NP) 	 3 	 difficult too
+25 	 23 	 ((S[adj]\NP)/((S[to]\NP)/NP))/(S[adj]\NP) 	 2 	 to too
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 track to
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 track without
+31 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 system without
+31 	 28 	 NP[nb]/N 	 1 	 system a
+31 	 29 	 N/N 	 1 	 system sophisticated
+31 	 30 	 N/N 	 1 	 system computer
+<\s>
+<s id="wsj_2110.19"> 25
+2 	 0 	 NP[nb]/N 	 1 	 bill The
+2 	 1 	 N/N 	 1 	 bill Senate
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bill would
+2 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 bill force <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 force would
+6 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 CFTC force
+6 	 5 	 NP[nb]/N 	 1 	 CFTC the
+6 	 8 	 (S[b]\NP)/NP 	 1 	 CFTC suspend <XB>
+7 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to force
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 suspend to
+8 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 suspend if
+10 	 8 	 (S[b]\NP)/NP 	 2 	 trading suspend
+10 	 9 	 N/N 	 1 	 trading dual
+13 	 12 	 NP[nb]/N 	 1 	 exchange an
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 exchange ca
+13 	 16 	 (S[b]\NP)/S[em] 	 1 	 exchange show <XB>
+14 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 ca if
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 ca n't
+16 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 show ca
+17 	 16 	 (S[b]\NP)/S[em] 	 2 	 that show
+20 	 18 	 NP[nb]/N 	 1 	 system its
+20 	 19 	 N/N 	 1 	 system oversight
+20 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 system can
+20 	 22 	 (S[b]\NP)/NP 	 1 	 system detect <XB>
+21 	 17 	 S[em]/S[dcl] 	 1 	 can that
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 detect can
+24 	 22 	 (S[b]\NP)/NP 	 2 	 abuses detect
+24 	 23 	 N/N 	 1 	 abuses dual-trading
+<\s>
+<s id="wsj_2110.20"> 12
+1 	 0 	 (S/S)/(S/S) 	 2 	 far So
+4 	 3 	 N/N 	 1 	 test one
+4 	 5 	 (NP\NP)/(S[ng]\NP) 	 1 	 test of
+4 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 test has
+4 	 10 	 S[pt]\NP 	 1 	 test worked <XB>
+6 	 5 	 (NP\NP)/(S[ng]\NP) 	 2 	 restricting of
+8 	 6 	 (S[ng]\NP)/NP 	 2 	 trading restricting
+8 	 7 	 N/N 	 1 	 trading dual
+9 	 1 	 S/S 	 1 	 has far
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 worked has
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 worked well
+<\s>
+<s id="wsj_2110.21"> 18
+2 	 0 	 NP[nb]/N 	 1 	 Merc The
+2 	 1 	 N/N 	 1 	 Merc Chicago
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Merc banned
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 banned in
+3 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 banned in
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 trading banned
+5 	 4 	 N/N 	 1 	 trading dual
+10 	 7 	 NP[nb]/N 	 1 	 Poor its
+10 	 8 	 N/N 	 1 	 Poor Standard
+10 	 9 	 N/N 	 1 	 Poor &
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Poor 's
+15 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 pit in
+15 	 11 	 (NP[nb]/N)\NP 	 1 	 pit 's
+15 	 12 	 N/N 	 1 	 pit 500-stock
+15 	 13 	 N/N 	 1 	 pit index
+15 	 14 	 N/N 	 1 	 pit futures
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 1987 in
+<\s>
+<s id="wsj_2110.22"> 21
+2 	 0 	 (S/S)/NP 	 2 	 rules Under
+2 	 1 	 NP[nb]/N 	 1 	 rules the
+4 	 5 	 (S[dcl]\NP)/S[qem] 	 1 	 traders decide
+5 	 0 	 (S/S)/NP 	 1 	 decide Under
+5 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 decide before
+8 	 7 	 NP[nb]/N 	 1 	 session a
+8 	 9 	 S[dcl]\NP 	 1 	 session begins
+9 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 begins before
+10 	 5 	 (S[dcl]\NP)/S[qem] 	 2 	 whether decide
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they will
+11 	 13 	 S[b]\NP 	 1 	 they trade <XB>
+12 	 10 	 S[qem]/S[dcl] 	 1 	 will whether
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 trade will
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 trade for
+13 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 trade for <XU>
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 account for
+17 	 15 	 NP[nb]/N 	 1 	 account their
+17 	 16 	 N/N 	 1 	 account own
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 customers for
+<\s>
+<s id="wsj_2110.23"> 22
+0 	 1 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Traders who
+0 	 2 	 S[dcl]\NP 	 1 	 Traders stand <XB>
+0 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Traders ca
+0 	 19 	 S[b]\NP 	 1 	 Traders trade <XB>
+2 	 1 	 (NP\NP)/(S[dcl]\NP) 	 2 	 stand who
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 stand on
+5 	 4 	 NP[nb]/N 	 1 	 pit the
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 pit 's
+8 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 step on
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 step 's
+8 	 7 	 N/N 	 1 	 step top
+8 	 10 	 (NP\NP)/S[dcl] 	 1 	 step where
+13 	 11 	 N/N 	 1 	 orders most
+13 	 12 	 N/N 	 1 	 orders customer
+13 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 orders are
+13 	 15 	 S[pss]\NP 	 1 	 orders executed <XB>
+14 	 10 	 (NP\NP)/S[dcl] 	 2 	 are where
+15 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 executed are
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 ca n't
+19 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 trade ca
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 trade for
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 themselves for
+<\s>
+<s id="wsj_2110.24"> 16
+2 	 0 	 NP[nb]/N 	 1 	 spokesman A
+2 	 1 	 N/N 	 1 	 spokesman Merc
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+5 	 4 	 NP[nb]/N 	 1 	 plan the
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 plan has
+5 	 8 	 (S[pt]\NP)/NP 	 1 	 plan made <XB>
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 has n't
+8 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 made has
+8 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 made in
+10 	 8 	 (S[pt]\NP)/NP 	 2 	 difference made
+10 	 9 	 N/N 	 1 	 difference much
+10 	 11 	 (NP\NP)/NP 	 1 	 difference in
+12 	 11 	 (NP\NP)/NP 	 2 	 liquidity in
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 pit in
+15 	 14 	 NP[nb]/N 	 1 	 pit the
+<\s>
+<s id="wsj_2110.25"> 20
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 It 's
+0 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 It soon <XB>
+1 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 's said
+3 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 soon 's
+3 	 2 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 soon too
+4 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to soon
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 tell to
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 people do
+8 	 11 	 (S[b]\NP)/(S[to]\NP) 	 1 	 people seem <XB>
+8 	 14 	 (S[adj]\NP)/PP 	 1 	 people unhappy <XB>
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 do n't
+9 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 do said
+11 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seem do
+12 	 11 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to seem
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+14 	 13 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 unhappy be
+15 	 14 	 (S[adj]\NP)/PP 	 2 	 with unhappy
+16 	 15 	 PP/NP 	 1 	 it with
+18 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_2110.26"> 18
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he would
+2 	 5 	 (S[b]\NP)/PP 	 1 	 he comment <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 would n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 comment would
+5 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 comment until
+6 	 5 	 (S[b]\NP)/PP 	 2 	 on comment
+9 	 6 	 PP/NP 	 1 	 plan on
+9 	 7 	 NP[nb]/N 	 1 	 plan the
+9 	 8 	 N/N 	 1 	 plan CFTC
+12 	 11 	 NP[nb]/N 	 1 	 exchange the
+12 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 exchange has
+12 	 14 	 (S[pt]\NP)/NP 	 1 	 exchange seen <XB>
+13 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has until
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 seen has
+17 	 14 	 (S[pt]\NP)/NP 	 2 	 proposal seen
+17 	 15 	 NP[nb]/N 	 1 	 proposal the
+17 	 16 	 N/N 	 1 	 proposal full
+<\s>
+<s id="wsj_2110.27"> 27
+3 	 1 	 (S/S)/NP 	 2 	 meeting at
+3 	 2 	 NP[nb]/N 	 1 	 meeting a
+3 	 5 	 NP\NP 	 1 	 meeting week
+5 	 4 	 (NP\NP)/(NP\NP) 	 2 	 week last
+8 	 7 	 N/N 	 1 	 Donovan Tom
+8 	 17 	 ((S[dcl]\NP)/S[dcl])/NP 	 1 	 Donovan told
+11 	 10 	 NP[nb]/N 	 1 	 Board the
+11 	 12 	 (NP\NP)/NP 	 1 	 Board of
+11 	 14 	 (NP[nb]/N)\NP 	 2 	 Board 's
+13 	 12 	 (NP\NP)/NP 	 2 	 Trade of
+15 	 14 	 (NP[nb]/N)\NP 	 1 	 president 's
+15 	 17 	 ((S[dcl]\NP)/S[dcl])/NP 	 1 	 president told
+17 	 0 	 S/S 	 1 	 told But
+17 	 1 	 (S/S)/NP 	 1 	 told at
+19 	 17 	 ((S[dcl]\NP)/S[dcl])/NP 	 3 	 lawyers told
+19 	 18 	 N/N 	 1 	 lawyers commodity
+22 	 21 	 N/N 	 1 	 trading Dual
+22 	 23 	 (S[dcl]\NP)/PP 	 1 	 trading is
+23 	 17 	 ((S[dcl]\NP)/S[dcl])/NP 	 2 	 is told
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 is definitely
+25 	 23 	 (S[dcl]\NP)/PP 	 2 	 worth is
+26 	 25 	 PP/(S[ng]\NP) 	 1 	 saving worth
+<\s>
+<s id="wsj_2110.28"> 6
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 It adds
+2 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 something adds
+3 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to adds
+5 	 3 	 PP/NP 	 1 	 market to
+5 	 4 	 NP[nb]/N 	 1 	 market the
+<\s>

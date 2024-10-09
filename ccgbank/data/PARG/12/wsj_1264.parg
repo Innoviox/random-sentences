@@ -1,0 +1,724 @@
+<s id="wsj_1264.1"> 12
+1 	 0 	 N/N 	 1 	 publishers Magazine
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 publishers are
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 publishers facing <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 facing are
+5 	 3 	 (S[ng]\NP)/NP 	 2 	 costs facing
+5 	 4 	 N/N 	 1 	 costs spiraling
+8 	 3 	 (S[ng]\NP)/NP 	 2 	 glut facing
+8 	 7 	 NP[nb]/N 	 1 	 glut a
+8 	 9 	 (NP\NP)/NP 	 1 	 glut of
+11 	 9 	 (NP\NP)/NP 	 2 	 titles of
+11 	 10 	 N/N 	 1 	 titles new
+<\s>
+<s id="wsj_1264.2"> 15
+3 	 1 	 NP/NP 	 1 	 raft even
+3 	 2 	 NP[nb]/N 	 1 	 raft a
+3 	 4 	 (NP\NP)/NP 	 1 	 raft of
+3 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 raft is
+3 	 9 	 (S[ng]\NP)/NP 	 1 	 raft stopping <XB>
+3 	 12 	 (S[ng]\NP)/NP 	 1 	 raft launching <XB>
+6 	 4 	 (NP\NP)/NP 	 2 	 failures of
+6 	 5 	 N/N 	 1 	 failures recent
+7 	 0 	 S/S 	 1 	 is But
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 is n't
+9 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 stopping is
+9 	 11 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 stopping from
+10 	 9 	 (S[ng]\NP)/NP 	 2 	 them stopping
+12 	 11 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 launching from
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 publications launching
+14 	 13 	 N/N 	 1 	 publications new
+<\s>
+<s id="wsj_1264.3"> 16
+4 	 0 	 (S/S)/NP 	 2 	 Conference At
+4 	 1 	 NP[nb]/N 	 1 	 Conference the
+4 	 2 	 N/N 	 1 	 Conference American
+4 	 3 	 N/N 	 1 	 Conference Magazine
+4 	 5 	 NP\NP 	 1 	 Conference here
+7 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 publishers are
+7 	 10 	 (S[pss]\NP)/PP 	 1 	 publishers worried <XB>
+8 	 0 	 (S/S)/NP 	 1 	 are At
+10 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 worried are
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 worried plenty
+11 	 10 	 (S[pss]\NP)/PP 	 2 	 about worried
+13 	 12 	 NP[nb]/N 	 1 	 industry the
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 industry 's
+15 	 11 	 PP/NP 	 1 	 woes about
+15 	 14 	 (NP[nb]/N)\NP 	 1 	 woes 's
+<\s>
+<s id="wsj_1264.4"> 8
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they are
+1 	 4 	 (S[ng]\NP)/PP 	 1 	 they talking <XB>
+2 	 0 	 S/S 	 1 	 are But
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 are also
+4 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 talking are
+5 	 4 	 (S[ng]\NP)/PP 	 2 	 about talking
+7 	 5 	 PP/NP 	 1 	 magazines about
+7 	 6 	 N/N 	 1 	 magazines new
+<\s>
+<s id="wsj_1264.5"> 21
+1 	 0 	 (S/S)/NP 	 2 	 example For
+5 	 3 	 N/N 	 1 	 Inc. Toronto-based
+5 	 4 	 N/N 	 1 	 Inc. Telemedia
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Inc. will
+5 	 7 	 (S[b]\NP)/NP 	 1 	 Inc. publish <XB>
+6 	 0 	 (S/S)/NP 	 1 	 will For
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 publish will
+9 	 7 	 (S[b]\NP)/NP 	 2 	 Well publish
+9 	 8 	 N/N 	 1 	 Well Eating
+13 	 7 	 (S[b]\NP)/NP 	 2 	 food publish
+13 	 11 	 NP[nb]/N 	 1 	 food a
+13 	 12 	 N/N 	 1 	 food new
+13 	 17 	 (S[adj]\NP)/NP 	 1 	 food due <XB>
+16 	 7 	 (S[b]\NP)/NP 	 2 	 magazine publish
+16 	 11 	 NP[nb]/N 	 1 	 magazine a
+16 	 12 	 N/N 	 1 	 magazine new
+16 	 15 	 N/N 	 1 	 magazine health
+16 	 17 	 (S[adj]\NP)/NP 	 1 	 magazine due <XB>
+17 	 18 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 due out
+20 	 17 	 (S[adj]\NP)/NP 	 2 	 summer due
+20 	 19 	 N/N 	 1 	 summer next
+<\s>
+<s id="wsj_1264.6"> 28
+1 	 0 	 (N/N)/(N/N) 	 2 	 York-based New
+3 	 1 	 N/N 	 1 	 Corp. York-based
+3 	 2 	 N/N 	 1 	 Corp. Hearst
+3 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Corp. plans
+3 	 8 	 (S[b]\NP)/NP 	 1 	 Corp. publish <XB>
+3 	 23 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Corp. has <XU>
+3 	 25 	 (S[pt]\NP)/NP 	 1 	 Corp. launched <XU>
+5 	 4 	 ((S\NP)/(S\NP))/N 	 3 	 fall this
+6 	 4 	 ((S\NP)/(S\NP))/N 	 2 	 plans this
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 publish to
+11 	 8 	 (S[b]\NP)/NP 	 2 	 issue publish
+11 	 9 	 NP[nb]/N 	 1 	 issue its
+11 	 10 	 N/N 	 1 	 issue first
+11 	 12 	 (NP\NP)/NP 	 1 	 issue of
+14 	 12 	 (NP\NP)/NP 	 2 	 Months of
+14 	 13 	 N/N 	 1 	 Months 9
+17 	 12 	 (NP\NP)/NP 	 2 	 magazine of
+17 	 16 	 NP[nb]/N 	 1 	 magazine a
+17 	 18 	 (NP\NP)/NP 	 1 	 magazine for
+20 	 18 	 (NP\NP)/NP 	 2 	 mothers for
+20 	 19 	 N/N 	 1 	 mothers expectant
+23 	 4 	 ((S\NP)/(S\NP))/N 	 2 	 has this
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 has already
+25 	 23 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 launched has
+27 	 25 	 (S[pt]\NP)/NP 	 2 	 Home launched
+27 	 26 	 N/N 	 1 	 Home American
+<\s>
+<s id="wsj_1264.7"> 25
+3 	 1 	 N/N 	 1 	 Inc. Time
+3 	 2 	 N/N 	 1 	 Inc. Warner
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Inc. is
+3 	 5 	 (S[ng]\NP)/NP 	 1 	 Inc. developing <XB>
+4 	 0 	 S/S 	 1 	 is And
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 developing is
+5 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 developing on
+7 	 5 	 (S[ng]\NP)/NP 	 2 	 spinoff developing
+7 	 6 	 NP[nb]/N 	 1 	 spinoff a
+7 	 8 	 (NP\NP)/NP 	 1 	 spinoff of
+7 	 11 	 (S[pss]\NP)/PP 	 1 	 spinoff aimed <XB>
+10 	 8 	 (NP\NP)/NP 	 2 	 magazine of
+10 	 9 	 N/N 	 1 	 magazine Time
+12 	 11 	 (S[pss]\NP)/PP 	 2 	 at aimed
+13 	 12 	 PP/NP 	 1 	 kids at
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 heels on
+17 	 16 	 NP[nb]/N 	 1 	 heels the
+17 	 18 	 (NP\NP)/NP 	 1 	 heels of
+20 	 18 	 (NP\NP)/NP 	 2 	 successful of
+20 	 19 	 NP[nb]/N 	 1 	 successful its
+20 	 22 	 N\N 	 1 	 successful Illustrated
+22 	 21 	 (N\N)/(N\N) 	 2 	 Illustrated Sports
+22 	 23 	 ((N\N)\(N\N))/NP 	 2 	 Illustrated for
+24 	 23 	 ((N\N)\(N\N))/NP 	 3 	 Kids for
+<\s>
+<s id="wsj_1264.8"> 33
+4 	 0 	 (S/S)/NP 	 2 	 years Over
+4 	 1 	 NP[nb]/N 	 1 	 years the
+4 	 2 	 N/N 	 1 	 years past
+4 	 3 	 N/N 	 1 	 years four
+7 	 6 	 NP[nb]/N 	 1 	 number the
+7 	 8 	 (NP\NP)/NP 	 1 	 number of
+7 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 number has
+7 	 12 	 S[pt]\NP 	 1 	 number increased <XB>
+10 	 8 	 (NP\NP)/NP 	 2 	 magazines of
+10 	 9 	 N/N 	 1 	 magazines consumer
+11 	 0 	 (S/S)/NP 	 1 	 has Over
+12 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 increased has
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 increased by
+12 	 21 	 ((S\NP)\(S\NP))/PP 	 2 	 increased according
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 average by
+15 	 14 	 NP[nb]/N 	 1 	 average an
+15 	 16 	 (NP\NP)/NP 	 1 	 average of
+18 	 16 	 (NP\NP)/NP 	 2 	 magazines of
+18 	 17 	 N/N 	 1 	 magazines 80
+18 	 19 	 NP\NP 	 1 	 magazines annually
+22 	 21 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+24 	 22 	 PP/NP 	 1 	 Kummerfeld to
+24 	 23 	 N/N 	 1 	 Kummerfeld Donald
+26 	 22 	 PP/NP 	 1 	 president to
+26 	 27 	 (NP\NP)/NP 	 1 	 president of
+30 	 27 	 (NP\NP)/NP 	 2 	 Publishers of
+30 	 28 	 NP[nb]/N 	 1 	 Publishers the
+30 	 29 	 N/N 	 1 	 Publishers Magazine
+30 	 31 	 (NP\NP)/NP 	 1 	 Publishers of
+32 	 31 	 (NP\NP)/NP 	 2 	 America of
+<\s>
+<s id="wsj_1264.9"> 18
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 This is
+1 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 is said
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 show is
+4 	 2 	 NP[nb]/N 	 1 	 show an
+4 	 3 	 N/N 	 1 	 show impressive
+4 	 5 	 (NP\NP)/NP 	 1 	 show of
+6 	 5 	 (NP\NP)/NP 	 2 	 faith of
+6 	 7 	 (NP\NP)/NP 	 1 	 faith in
+9 	 7 	 (NP\NP)/NP 	 2 	 future in
+9 	 8 	 NP[nb]/N 	 1 	 future the
+9 	 10 	 (NP\NP)/NP 	 1 	 future of
+13 	 10 	 (NP\NP)/NP 	 2 	 industry of
+13 	 11 	 NP[nb]/N 	 1 	 industry the
+13 	 12 	 N/N 	 1 	 industry magazine
+17 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 Kummerfeld said
+17 	 16 	 N/N 	 1 	 Kummerfeld Mr.
+<\s>
+<s id="wsj_1264.10"> 12
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Entrepreneurs do
+0 	 3 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Entrepreneurs rush <XB>
+0 	 5 	 (S[b]\NP)/PP 	 1 	 Entrepreneurs get <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 do n't
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 rush do
+4 	 3 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to rush
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+6 	 5 	 (S[b]\NP)/PP 	 2 	 into get
+11 	 6 	 PP/NP 	 1 	 industry into
+11 	 7 	 NP[nb]/N 	 1 	 industry a
+11 	 8 	 N/N 	 1 	 industry stagnant <XU>
+11 	 10 	 N/N 	 1 	 industry declining
+<\s>
+<s id="wsj_1264.11"> 21
+6 	 1 	 (S/S)/NP 	 2 	 climate despite
+6 	 2 	 NP[nb]/N 	 1 	 climate the
+6 	 3 	 N/N 	 1 	 climate recent
+6 	 4 	 N/N 	 1 	 climate tough
+6 	 5 	 N/N 	 1 	 climate advertising
+9 	 8 	 N/N 	 1 	 figures industry
+9 	 10 	 S[pss]\NP 	 1 	 figures released <XB>
+9 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 figures indicate
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 released at
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 meeting at
+13 	 12 	 NP[nb]/N 	 1 	 meeting the
+13 	 14 	 NP\NP 	 1 	 meeting here
+15 	 0 	 S/S 	 1 	 indicate And
+15 	 1 	 (S/S)/NP 	 1 	 indicate despite
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 things may
+16 	 19 	 S[ng]\NP 	 1 	 things turning <XB>
+17 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 may indicate
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+19 	 18 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 turning be
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 turning around
+<\s>
+<s id="wsj_1264.12"> 30
+4 	 0 	 (S/S)/NP 	 2 	 months For
+4 	 1 	 NP[nb]/N 	 1 	 months the
+4 	 2 	 N/N 	 1 	 months first
+4 	 3 	 N/N 	 1 	 months nine
+7 	 6 	 N/N 	 1 	 pages advertising
+7 	 8 	 (NP\NP)/NP 	 1 	 pages in
+7 	 17 	 S[dcl]\NP 	 1 	 pages increased
+10 	 8 	 (NP\NP)/NP 	 2 	 magazines in
+10 	 9 	 N/N 	 1 	 magazines consumer
+10 	 11 	 S[pss]\NP 	 1 	 magazines tracked <XB>
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 tracked by
+16 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 Bureau by
+16 	 13 	 NP[nb]/N 	 1 	 Bureau the
+16 	 14 	 N/N 	 1 	 Bureau Publishers
+16 	 15 	 N/N 	 1 	 Bureau Information
+17 	 0 	 (S/S)/NP 	 1 	 increased For
+17 	 19 	 (S\NP)\(S\NP) 	 2 	 increased %
+17 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 increased from
+17 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+19 	 18 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 4
+20 	 25 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 from year
+23 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 period from
+23 	 21 	 NP[nb]/N 	 1 	 period the
+23 	 22 	 N/N 	 1 	 period same
+25 	 24 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/(((S\NP)\(S\NP))\((S\NP)\(S\NP))) 	 4 	 year last
+29 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 pages to
+29 	 28 	 N/N 	 1 	 pages 125,849
+<\s>
+<s id="wsj_1264.13"> 15
+3 	 0 	 N/N 	 1 	 revenue Total
+3 	 1 	 N/N 	 1 	 revenue magazine
+3 	 2 	 N/N 	 1 	 revenue ad
+3 	 4 	 (NP\NP)/NP 	 1 	 revenue for
+3 	 8 	 S[dcl]\NP 	 1 	 revenue increased
+7 	 4 	 (NP\NP)/NP 	 2 	 period for
+7 	 5 	 NP[nb]/N 	 1 	 period the
+7 	 6 	 N/N 	 1 	 period same
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 increased %
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 12
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+14 	 12 	 N/N[num] 	 1 	 billion $
+14 	 13 	 N/N 	 1 	 billion 4.6
+<\s>
+<s id="wsj_1264.14"> 23
+4 	 1 	 (S/S)/NP 	 2 	 categories for
+4 	 2 	 NP[nb]/N 	 1 	 categories some
+4 	 3 	 N/N 	 1 	 categories magazines
+8 	 5 	 NP[nb]/N 	 1 	 climate a
+8 	 6 	 N/N 	 1 	 climate tough
+8 	 7 	 N/N 	 1 	 climate advertising
+8 	 9 	 S[dcl]\NP 	 1 	 climate persists
+9 	 0 	 (S/S)/S[dcl] 	 2 	 persists Though
+9 	 1 	 (S/S)/NP 	 1 	 persists for
+12 	 11 	 NP[nb]/N 	 1 	 industry the
+12 	 14 	 S[adj]\NP 	 1 	 industry general <XB>
+12 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 industry is
+12 	 16 	 S[ng]\NP 	 1 	 industry doing <XB>
+14 	 13 	 ((S\NP)/(S\NP))/(S[adj]\NP) 	 3 	 general in
+15 	 0 	 (S/S)/S[dcl] 	 1 	 is Though
+15 	 13 	 ((S\NP)/(S\NP))/(S[adj]\NP) 	 2 	 is in
+16 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 doing is
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 doing well
+16 	 18 	 ((S\NP)\(S\NP))/PP 	 2 	 doing compared
+19 	 18 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+22 	 19 	 PP/NP 	 1 	 industry with
+22 	 20 	 NP[nb]/N 	 1 	 industry the
+22 	 21 	 N/N 	 1 	 industry newspaper
+<\s>
+<s id="wsj_1264.15"> 14
+2 	 1 	 NP[nb]/N 	 1 	 magazines some
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 magazines are
+2 	 4 	 S[ng]\NP 	 1 	 magazines thriving <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 are Though
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 thriving are
+9 	 6 	 NP[nb]/N 	 1 	 industry the
+9 	 7 	 N/N 	 1 	 industry magazine
+9 	 8 	 N/N 	 1 	 industry publishing
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 industry remains
+10 	 0 	 (S/S)/S[dcl] 	 1 	 remains Though
+13 	 10 	 (S[dcl]\NP)/NP 	 2 	 business remains
+13 	 11 	 NP[nb]/N 	 1 	 business a
+13 	 12 	 N/N 	 1 	 business risky
+<\s>
+<s id="wsj_1264.16"> 51
+4 	 0 	 (S/S)/NP 	 2 	 months Within
+4 	 1 	 NP[nb]/N 	 1 	 months the
+4 	 2 	 N/N 	 1 	 months same
+4 	 3 	 N/N 	 1 	 months nine
+7 	 6 	 N/N 	 1 	 Corp. News
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 Corp. closed
+8 	 0 	 (S/S)/NP 	 1 	 closed Within
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 closed down
+11 	 10 	 (NP/NP)/NP 	 2 	 Fashion In
+17 	 15 	 (N/N)/(N/N) 	 2 	 's young
+17 	 16 	 (N/N)/(N/N) 	 2 	 's woman
+19 	 8 	 (S[dcl]\NP)/NP 	 2 	 magazine closed
+19 	 10 	 (NP/NP)/NP 	 1 	 magazine In
+19 	 13 	 NP[nb]/N 	 1 	 magazine a
+19 	 14 	 N/N 	 1 	 magazine once-promising
+19 	 17 	 N/N 	 1 	 magazine 's
+19 	 18 	 N/N 	 1 	 magazine fashion
+23 	 21 	 N/N 	 1 	 Inc. Drake
+23 	 22 	 N/N 	 1 	 Inc. Publications
+23 	 24 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Inc. has
+23 	 25 	 (S[pt]\NP)/NP 	 1 	 Inc. folded <XB>
+24 	 0 	 (S/S)/NP 	 1 	 has Within
+25 	 24 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 folded has
+29 	 25 	 (S[pt]\NP)/NP 	 2 	 magazine folded
+29 	 26 	 NP[nb]/N 	 1 	 magazine the
+29 	 27 	 N/N 	 1 	 magazine long-troubled
+29 	 28 	 N/N 	 1 	 magazine Venture
+33 	 32 	 N/N 	 1 	 Communications Lang
+33 	 34 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Communications has
+33 	 35 	 (S[pt]\NP)/S[dcl] 	 1 	 Communications announced <XB>
+34 	 0 	 (S/S)/NP 	 1 	 has Within
+35 	 34 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 announced has
+37 	 36 	 N/N 	 1 	 magazine Ms.
+37 	 43 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 magazine will
+37 	 46 	 (S[b]\NP)/NP 	 1 	 magazine carry <XB>
+41 	 39 	 ((S\NP)/(S\NP))/NP 	 3 	 years after
+41 	 40 	 N/N 	 1 	 years 17
+43 	 35 	 (S[pt]\NP)/S[dcl] 	 2 	 will announced
+43 	 39 	 ((S\NP)/(S\NP))/NP 	 2 	 will after
+43 	 45 	 (S\NP)\(S\NP) 	 2 	 will longer
+45 	 44 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 longer no
+46 	 43 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 carry will
+46 	 48 	 ((S\NP)\(S\NP))/PP 	 2 	 carry as
+47 	 46 	 (S[b]\NP)/NP 	 2 	 advertising carry
+49 	 48 	 ((S\NP)\(S\NP))/PP 	 3 	 of as
+50 	 49 	 PP/NP 	 1 	 January of
+<\s>
+<s id="wsj_1264.17"> 15
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Lang is
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 Lang cutting <XB>
+0 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Lang will <XU>
+0 	 6 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Lang attempt <XU>
+0 	 8 	 (S[b]\NP)/NP 	 1 	 Lang operate <XU>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 cutting is
+3 	 2 	 (S[ng]\NP)/NP 	 2 	 costs cutting
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 attempt will
+7 	 6 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to attempt
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 operate to
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 operate with
+10 	 8 	 (S[b]\NP)/NP 	 2 	 magazine operate
+10 	 9 	 NP[nb]/N 	 1 	 magazine the
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 revenue with
+14 	 12 	 N/N 	 1 	 revenue only
+14 	 13 	 N/N 	 1 	 revenue subscription
+<\s>
+<s id="wsj_1264.18"> 39
+4 	 2 	 N/N 	 1 	 Partners American
+4 	 3 	 N/N 	 1 	 Partners Health
+4 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Partners is
+4 	 13 	 S[adj]\NP 	 1 	 Partners deep <XB>
+6 	 7 	 (NP\NP)/NP 	 1 	 publisher of
+6 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 publisher is
+6 	 13 	 S[adj]\NP 	 1 	 publisher deep <XB>
+10 	 7 	 (NP\NP)/NP 	 2 	 magazine of
+10 	 8 	 N/N 	 1 	 magazine American
+10 	 9 	 N/N 	 1 	 magazine Health
+12 	 0 	 S/S 	 1 	 is Meanwhile
+13 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 deep is
+13 	 14 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 deep in
+15 	 14 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 debt in
+19 	 18 	 N/N 	 1 	 Lipstein Owen
+19 	 26 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Lipstein is
+19 	 27 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 Lipstein being <XB>
+19 	 28 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Lipstein forced <XB>
+19 	 30 	 ((S[b]\NP)/PP)/NP 	 1 	 Lipstein sell <XB>
+21 	 26 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 founder is
+21 	 27 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 founder being <XB>
+21 	 28 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 founder forced <XB>
+21 	 30 	 ((S[b]\NP)/PP)/NP 	 1 	 founder sell <XB>
+24 	 23 	 N/N 	 1 	 partner managing
+24 	 26 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 partner is
+24 	 27 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 partner being <XB>
+24 	 28 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 partner forced <XB>
+24 	 30 	 ((S[b]\NP)/PP)/NP 	 1 	 partner sell <XB>
+26 	 0 	 S/S 	 1 	 is Meanwhile
+27 	 26 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being is
+28 	 27 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 forced being
+29 	 28 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to forced
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+32 	 30 	 ((S[b]\NP)/PP)/NP 	 3 	 magazine sell
+32 	 31 	 NP[nb]/N 	 1 	 magazine the
+33 	 30 	 ((S[b]\NP)/PP)/NP 	 2 	 to sell
+34 	 35 	 (NP[nb]/N)\NP 	 2 	 Reader 's
+38 	 33 	 PP/NP 	 1 	 Inc to
+38 	 35 	 (NP[nb]/N)\NP 	 1 	 Inc 's
+38 	 36 	 N/N 	 1 	 Inc Digest
+38 	 37 	 N/N 	 1 	 Inc Association
+<\s>
+<s id="wsj_1264.19"> 16
+1 	 0 	 N/N 	 1 	 Lipstein Mr.
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Lipstein 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 absence 's
+3 	 4 	 (NP\NP)/NP 	 1 	 absence from
+3 	 8 	 (S[dcl]\NP)/NP 	 1 	 absence raised
+6 	 4 	 (NP\NP)/NP 	 2 	 meeting from
+6 	 5 	 NP[nb]/N 	 1 	 meeting the
+6 	 7 	 NP\NP 	 1 	 meeting here
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 speculation raised
+10 	 9 	 N/S[em] 	 1 	 that speculation
+12 	 11 	 NP[nb]/N 	 1 	 sale the
+12 	 13 	 (S[dcl]\NP)/PP 	 1 	 sale is
+13 	 10 	 S[em]/S[dcl] 	 1 	 is that
+14 	 13 	 (S[dcl]\NP)/PP 	 2 	 in is
+15 	 14 	 PP/NP 	 1 	 trouble in
+<\s>
+<s id="wsj_1264.20"> 17
+1 	 0 	 N/N 	 1 	 Lipstein Mr.
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Lipstein said
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 said in
+6 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 interview in
+6 	 4 	 NP[nb]/N 	 1 	 interview a
+6 	 5 	 N/N 	 1 	 interview telephone
+6 	 7 	 (NP\NP)/NP 	 1 	 interview from
+9 	 7 	 (NP\NP)/NP 	 2 	 York from
+9 	 8 	 N/N 	 1 	 York New
+10 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+12 	 11 	 NP[nb]/N 	 1 	 sale the
+12 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 sale was
+12 	 14 	 S[ng]\NP 	 1 	 sale proceeding <XB>
+12 	 16 	 S[pss]\NP 	 1 	 sale planned <XB>
+13 	 10 	 S[em]/S[dcl] 	 1 	 was that
+14 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 proceeding was
+14 	 15 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 2 	 proceeding as
+16 	 15 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 3 	 planned as
+<\s>
+<s id="wsj_1264.21"> 4
+1 	 0 	 NP[nb]/N 	 1 	 magazine The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 magazine is
+1 	 3 	 S[adj]\NP 	 1 	 magazine strong <XB>
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 strong is
+<\s>
+<s id="wsj_1264.22"> 16
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 's simply
+1 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 's said
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 time 's
+5 	 3 	 NP[nb]/N 	 1 	 time the
+5 	 4 	 N/N 	 1 	 time right
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+8 	 7 	 (S[b]\NP)/NP 	 2 	 what do
+8 	 11 	 (S[ng]\NP)/NP 	 2 	 what doing <XU>
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 we are
+9 	 11 	 (S[ng]\NP)/NP 	 1 	 we doing <XB>
+10 	 8 	 NP/(S[dcl]/NP) 	 1 	 are what
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 doing are
+14 	 13 	 N/N 	 1 	 Lipstein Mr.
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 Lipstein said
+<\s>
+<s id="wsj_1264.23"> 19
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Magazines can
+0 	 5 	 (S[pss]\NP)/NP 	 1 	 Magazines considered <XB>
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 can longer
+1 	 8 	 (S[dcl]\S[dcl])/NP 	 1 	 can said
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 longer no
+4 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 considered be
+6 	 5 	 (S[pss]\NP)/NP 	 2 	 institutions considered
+10 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 Autry said
+10 	 9 	 N/N 	 1 	 Autry James
+12 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 president said
+12 	 13 	 (NP\NP)/NP 	 1 	 president of
+15 	 14 	 N/N 	 1 	 Corp. Meredith
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+18 	 13 	 (NP\NP)/NP 	 2 	 group of
+18 	 16 	 (NP[nb]/N)\NP 	 1 	 group 's
+18 	 17 	 N/N 	 1 	 group magazine
+<\s>
+<s id="wsj_1264.24"> 16
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Publishers will
+0 	 2 	 (S[b]\NP)/S[em] 	 1 	 Publishers find <XB>
+1 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 will added
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 find will
+3 	 2 	 (S[b]\NP)/S[em] 	 2 	 that find
+5 	 4 	 NP[nb]/N 	 1 	 magazines some
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 magazines have
+5 	 7 	 (S[pt]\NP)/NP 	 1 	 magazines served <XB>
+5 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 magazines should <XU>
+5 	 12 	 S[b]\NP 	 1 	 magazines die <XU>
+6 	 3 	 S[em]/S[dcl] 	 1 	 have that
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 served have
+9 	 7 	 (S[pt]\NP)/NP 	 2 	 purpose served
+9 	 8 	 NP[nb]/N 	 1 	 purpose their
+11 	 3 	 S[em]/S[dcl] 	 1 	 should that
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 die should
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 he added
+<\s>
+<s id="wsj_1264.25"> 15
+0 	 1 	 (S[dcl]\NP)/(S[dcl]\NP) 	 1 	 Magazines could
+0 	 7 	 (S[dcl]\NP)/S[em] 	 1 	 Magazines find <XB>
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 could like
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 brands like
+5 	 4 	 N/N 	 1 	 brands other
+7 	 1 	 (S[dcl]\NP)/(S[dcl]\NP) 	 2 	 find could
+8 	 7 	 (S[dcl]\NP)/S[em] 	 2 	 that find
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 they have
+10 	 8 	 S[em]/S[dcl] 	 1 	 have that
+14 	 10 	 (S[dcl]\NP)/NP 	 2 	 life have
+14 	 11 	 NP/NP 	 1 	 life only
+14 	 12 	 NP[nb]/N 	 1 	 life a
+14 	 13 	 N/N 	 1 	 life limited
+<\s>
+<s id="wsj_1264.26"> 25
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There are
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 are also
+3 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 indications are
+4 	 3 	 N/S[em] 	 1 	 that indications
+6 	 5 	 NP[nb]/N 	 1 	 number the
+6 	 7 	 (NP\NP)/NP 	 1 	 number of
+6 	 23 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 number are
+6 	 24 	 S[ng]\NP 	 1 	 number dwindling <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 entrepreneurs of
+9 	 8 	 N/N 	 1 	 entrepreneurs magazine
+9 	 12 	 (S[pss]\NP)/(PP/NP) 	 1 	 entrepreneurs depended <XB>
+9 	 15 	 (S[b]\NP)/NP 	 1 	 entrepreneurs break <XB>
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 depended traditionally
+13 	 12 	 (S[pss]\NP)/(PP/NP) 	 2 	 upon depended
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 break to
+15 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 break with
+17 	 15 	 (S[b]\NP)/NP 	 2 	 ground break
+17 	 16 	 N/N 	 1 	 ground new
+20 	 19 	 (N/N)/(N/N) 	 2 	 risky potentially
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 start-ups with
+21 	 20 	 N/N 	 1 	 start-ups risky
+23 	 4 	 S[em]/S[dcl] 	 1 	 are that
+24 	 23 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 dwindling are
+<\s>
+<s id="wsj_1264.27"> 56
+0 	 1 	 ((S/S)\(S[adj]\NP))/(S[adj]\NP) 	 2 	 More than
+2 	 1 	 ((S/S)\(S[adj]\NP))/(S[adj]\NP) 	 3 	 ever than
+5 	 4 	 N/N 	 1 	 magazines independent
+5 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 magazines are
+5 	 11 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 magazines being <XB>
+5 	 12 	 S[pss]\NP 	 1 	 magazines gobbled <XB>
+9 	 7 	 N/N 	 1 	 groups small
+9 	 8 	 N/N 	 1 	 groups publishing
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 groups are
+9 	 11 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 groups being <XB>
+9 	 12 	 S[pss]\NP 	 1 	 groups gobbled <XB>
+10 	 1 	 ((S/S)\(S[adj]\NP))/(S[adj]\NP) 	 1 	 are than
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being are
+12 	 11 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 gobbled being
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 gobbled up
+12 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 gobbled by
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 groups by
+17 	 15 	 N/N 	 1 	 groups larger
+17 	 16 	 N/N 	 1 	 groups publishing
+17 	 20 	 (NP\NP)/NP 	 1 	 groups as
+17 	 46 	 (NP\NP)/(S[dcl]\NP) 	 1 	 groups which
+17 	 47 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 groups are <XB>
+17 	 48 	 S[ng]\NP 	 1 	 groups consolidating <XB>
+20 	 19 	 (NP\NP)/(NP\NP) 	 2 	 as such
+24 	 20 	 (NP\NP)/NP 	 2 	 Corp. as
+24 	 21 	 N/N 	 1 	 Corp. American
+24 	 22 	 N/N 	 1 	 Corp. Express
+24 	 23 	 N/N 	 1 	 Corp. Publishing
+27 	 20 	 (NP\NP)/NP 	 2 	 unit as
+27 	 26 	 NP[nb]/N 	 1 	 unit a
+27 	 28 	 (NP\NP)/NP 	 1 	 unit of
+31 	 28 	 (NP\NP)/NP 	 2 	 Co. of
+31 	 29 	 N/N 	 1 	 Co. American
+31 	 30 	 N/N 	 1 	 Co. Express
+37 	 20 	 (NP\NP)/NP 	 2 	 Inc. as
+37 	 34 	 N/N 	 1 	 Inc. Conde
+37 	 35 	 N/N 	 1 	 Inc. Nast
+37 	 36 	 N/N 	 1 	 Inc. Publications
+40 	 20 	 (NP\NP)/NP 	 2 	 unit as
+40 	 39 	 NP[nb]/N 	 1 	 unit a
+40 	 41 	 (NP\NP)/NP 	 1 	 unit of
+44 	 41 	 (NP\NP)/NP 	 2 	 Inc. of
+44 	 42 	 N/N 	 1 	 Inc. Advance
+44 	 43 	 N/N 	 1 	 Inc. Publications
+47 	 46 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are which
+48 	 47 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 consolidating are
+48 	 49 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 2 	 consolidating in
+50 	 49 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 4 	 order in
+51 	 49 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 3 	 to in
+52 	 51 	 (S[to]\NP)/(S[b]\NP) 	 2 	 gain to
+53 	 52 	 (S[b]\NP)/NP 	 2 	 leverage gain
+53 	 54 	 (NP\NP)/NP 	 1 	 leverage with
+55 	 54 	 (NP\NP)/NP 	 2 	 advertisers with
+<\s>
+<s id="wsj_1264.28"> 7
+1 	 0 	 NP[nb]/N 	 1 	 entrepreneurs Some
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 entrepreneurs are
+1 	 4 	 S[adj]\NP 	 1 	 entrepreneurs active <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 are still
+2 	 6 	 (S\NP)\(S\NP) 	 2 	 are though
+4 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 active are
+<\s>
+<s id="wsj_1264.29"> 26
+1 	 0 	 N/N 	 1 	 Ritterman Gerry
+1 	 14 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Ritterman sold
+3 	 4 	 (NP\NP)/NP 	 1 	 president of
+3 	 14 	 ((S[dcl]\NP)/PP)/NP 	 1 	 president sold
+6 	 5 	 (N/N)/(N/N) 	 2 	 York-based New
+9 	 4 	 (NP\NP)/NP 	 2 	 Corp. of
+9 	 6 	 N/N 	 1 	 Corp. York-based
+9 	 7 	 N/N 	 1 	 Corp. Network
+9 	 8 	 N/N 	 1 	 Corp. Publishing
+13 	 11 	 ((S\NP)/(S\NP))/NP 	 3 	 year earlier
+13 	 12 	 NP[nb]/N 	 1 	 year this
+14 	 11 	 ((S\NP)/(S\NP))/NP 	 2 	 sold earlier
+19 	 14 	 ((S[dcl]\NP)/PP)/NP 	 3 	 magazine sold
+19 	 15 	 NP[nb]/N 	 1 	 magazine his
+19 	 16 	 N/N 	 1 	 magazine Soap
+19 	 17 	 N/N 	 1 	 magazine Opera
+19 	 18 	 N/N 	 1 	 magazine Digest
+20 	 14 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to sold
+22 	 21 	 N/N 	 1 	 Murdoch Rupert
+22 	 23 	 (NP[nb]/N)\NP 	 2 	 Murdoch 's
+25 	 20 	 PP/NP 	 1 	 Corp to
+25 	 23 	 (NP[nb]/N)\NP 	 1 	 Corp 's
+25 	 24 	 N/N 	 1 	 Corp News
+<\s>
+<s id="wsj_1264.30"> 25
+1 	 0 	 N/N 	 1 	 Ritterman Mr.
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Ritterman said
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+8 	 4 	 (S/S)/NP 	 2 	 months in
+8 	 5 	 NP[nb]/N 	 1 	 months the
+8 	 6 	 N/N 	 1 	 months next
+8 	 7 	 N/N 	 1 	 months six
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he will
+9 	 11 	 ((S[b]\NP)/PP)/NP 	 1 	 he take <XB>
+9 	 22 	 (S[b]\NP)/NP 	 1 	 he acquire <XB>
+10 	 3 	 S[em]/S[dcl] 	 1 	 will that
+10 	 4 	 (S/S)/NP 	 1 	 will in
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take will
+12 	 11 	 ((S[b]\NP)/PP)/NP 	 3 	 $ take
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 50
+15 	 11 	 ((S[b]\NP)/PP)/NP 	 2 	 from take
+20 	 15 	 PP/NP 	 1 	 sale from
+20 	 16 	 NP[nb]/N 	 1 	 sale the
+20 	 17 	 N/N 	 1 	 sale Soap
+20 	 18 	 N/N 	 1 	 sale Opera
+20 	 19 	 N/N 	 1 	 sale Digest
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+24 	 22 	 (S[b]\NP)/NP 	 2 	 magazines acquire
+24 	 23 	 N/N 	 1 	 magazines new
+<\s>
+<s id="wsj_1264.31"> 9
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 He would
+0 	 3 	 (S[b]\NP)/S[qem] 	 1 	 He reveal <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 would not
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reveal would
+4 	 3 	 (S[b]\NP)/S[qem] 	 2 	 which reveal
+5 	 4 	 (S[qem]/(S[dcl]/NP))/N 	 2 	 magazines which
+5 	 8 	 (S[ng]\NP)/NP 	 2 	 magazines considering <XU>
+6 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 he is
+6 	 8 	 (S[ng]\NP)/NP 	 1 	 he considering <XB>
+7 	 4 	 (S[qem]/(S[dcl]/NP))/N 	 1 	 is which
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 considering is
+<\s>
+<s id="wsj_1264.32"> 12
+1 	 0 	 NP[nb]/N 	 1 	 magazines The
+1 	 5 	 PP/NP 	 1 	 magazines for <XU>
+1 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 magazines are
+1 	 7 	 S[adj]\NP 	 1 	 magazines underdeveloped <XB>
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 I am
+2 	 4 	 (S[ng]\NP)/PP 	 1 	 I looking <XB>
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 looking am
+5 	 4 	 (S[ng]\NP)/PP 	 2 	 for looking
+6 	 9 	 (S[dcl]\S[dcl])/NP 	 1 	 are said
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 underdeveloped are
+11 	 9 	 (S[dcl]\S[dcl])/NP 	 2 	 Ritterman said
+11 	 10 	 N/N 	 1 	 Ritterman Mr.
+<\s>
+<s id="wsj_1264.33"> 18
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 They could
+0 	 3 	 S[adj]\NP 	 1 	 They old <XB>
+0 	 5 	 S[adj]\NP 	 1 	 They new <XU>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+3 	 2 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 old be
+5 	 2 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 new be
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 they are
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 magazines are
+10 	 11 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 magazines whose
+13 	 11 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 quality whose
+13 	 12 	 N/N 	 1 	 quality editorial
+13 	 14 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 quality needs <XB>
+13 	 17 	 S[pss]\NP 	 1 	 quality improved <XB>
+14 	 11 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 needs whose
+15 	 14 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to needs
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+17 	 16 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 improved be
+<\s>
+<s id="wsj_1264.34"> 7
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 They will
+0 	 2 	 (S[b]\NP)/NP 	 1 	 They be <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+6 	 2 	 (S[b]\NP)/NP 	 2 	 magazines be
+6 	 3 	 NP[nb]/N 	 1 	 magazines the
+6 	 4 	 N/N 	 1 	 magazines next
+6 	 5 	 N/N 	 1 	 magazines hot
+<\s>

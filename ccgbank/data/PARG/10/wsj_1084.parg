@@ -1,0 +1,114 @@
+<s id="wsj_1084.1"> 20
+2 	 0 	 N/N 	 1 	 prices French
+2 	 1 	 N/N 	 1 	 prices consumer
+2 	 3 	 S[dcl]\NP 	 1 	 prices rose
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 rose %
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 rose in
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 11 	 ((S\NP)\(S\NP))/PP 	 2 	 rose according
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 0.2
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 August from
+12 	 11 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+14 	 12 	 PP/NP 	 1 	 estimates to
+14 	 13 	 N/N 	 1 	 estimates provisional
+14 	 15 	 (NP\NP)/NP 	 1 	 estimates by
+19 	 15 	 (NP\NP)/NP 	 2 	 Institute by
+19 	 16 	 NP[nb]/N 	 1 	 Institute the
+19 	 17 	 N/N 	 1 	 Institute National
+19 	 18 	 N/N 	 1 	 Institute Statistics
+<\s>
+<s id="wsj_1084.2"> 26
+1 	 0 	 NP[nb]/N 	 1 	 agency The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 agency noted
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that noted
+5 	 4 	 (S/S)/PP 	 2 	 of because
+7 	 5 	 PP/NP 	 1 	 strike of
+7 	 6 	 NP[nb]/N 	 1 	 strike a
+7 	 8 	 (NP\NP)/NP 	 1 	 strike by
+11 	 8 	 (NP\NP)/NP 	 2 	 personnel by
+11 	 9 	 N/N 	 1 	 personnel Finance
+11 	 10 	 N/N 	 1 	 personnel Ministry
+14 	 12 	 NP[nb]/N 	 1 	 estimate the
+14 	 13 	 N/N 	 1 	 estimate provisional
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 estimate does
+14 	 17 	 (S[b]\NP)/PP 	 1 	 estimate correspond <XB>
+15 	 3 	 S[em]/S[dcl] 	 1 	 does that
+15 	 4 	 (S/S)/PP 	 1 	 does because
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 does n't
+17 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 correspond does
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 correspond exactly
+19 	 17 	 (S[b]\NP)/PP 	 2 	 to correspond
+23 	 19 	 PP/NP 	 1 	 index to
+23 	 20 	 NP[nb]/N 	 1 	 index the
+23 	 21 	 N/N 	 1 	 index consumer
+23 	 22 	 N/N 	 1 	 index price
+23 	 24 	 NP\NP 	 1 	 index usually
+23 	 25 	 S[pss]\NP 	 1 	 index published <XB>
+<\s>
+<s id="wsj_1084.3"> 12
+1 	 0 	 NP[nb]/N 	 1 	 agency The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 agency noted
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 noted however
+7 	 6 	 NP[nb]/N 	 1 	 estimate the
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 estimate will
+7 	 11 	 S[pss]\NP 	 1 	 estimate confirmed <XB>
+8 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will noted
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 will likely
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+11 	 10 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 confirmed be
+<\s>
+<s id="wsj_1084.4"> 42
+1 	 0 	 NP[nb]/N 	 1 	 institute The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 institute did
+1 	 4 	 (S[b]\NP)/NP 	 1 	 institute estimate <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 did n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 estimate did
+4 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 estimate in
+7 	 4 	 (S[b]\NP)/NP 	 2 	 growth estimate
+7 	 5 	 N/N 	 1 	 growth annual
+7 	 6 	 N/N 	 1 	 growth price
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+14 	 13 	 (N/N)/(N/N) 	 2 	 % 0.2
+15 	 12 	 NP[nb]/N 	 1 	 rise a
+15 	 14 	 N/N 	 1 	 rise %
+15 	 16 	 (NP\NP)/NP 	 1 	 rise by
+15 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rise would
+15 	 22 	 ((S[b]\NP)/PP)/NP 	 1 	 rise put <XB>
+20 	 16 	 (NP\NP)/NP 	 2 	 index by
+20 	 17 	 NP[nb]/N 	 1 	 index the
+20 	 18 	 N/N 	 1 	 index consumer
+20 	 19 	 N/N 	 1 	 index price
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 put would
+23 	 22 	 ((S[b]\NP)/PP)/NP 	 3 	 growth put
+24 	 22 	 ((S[b]\NP)/PP)/NP 	 2 	 at put
+26 	 24 	 PP/NP 	 1 	 178.8 at
+26 	 30 	 NP\NP 	 1 	 178.8 up
+28 	 24 	 PP/NP 	 1 	 178.9 at
+28 	 30 	 NP\NP 	 1 	 178.9 up
+30 	 32 	 (NP\NP)\(NP\NP) 	 2 	 up %
+30 	 35 	 (NP\NP)\(NP\NP) 	 2 	 up % <XU>
+30 	 36 	 ((NP\NP)\(NP\NP))/NP 	 2 	 up from
+32 	 31 	 ((NP\NP)\(NP\NP))/((NP\NP)\(NP\NP)) 	 3 	 % 3.3
+35 	 34 	 ((NP\NP)\(NP\NP))/((NP\NP)\(NP\NP)) 	 3 	 % 3.4
+39 	 36 	 ((NP\NP)\(NP\NP))/NP 	 3 	 level from
+39 	 37 	 NP[nb]/N 	 1 	 level the
+39 	 38 	 N/N 	 1 	 level year-earlier
+39 	 40 	 (NP\NP)/NP 	 1 	 level of
+41 	 40 	 (NP\NP)/NP 	 2 	 173.1 of
+<\s>
+<s id="wsj_1084.5"> 13
+1 	 0 	 NP[nb]/N 	 1 	 index The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 index was
+1 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 index is <XU>
+1 	 8 	 (S[pss]\NP)/PP 	 1 	 index based <XU>
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 was in
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 178.5 was
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 August in
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 based is
+9 	 8 	 (S[pss]\NP)/PP 	 2 	 on based
+10 	 9 	 (PP/(S[ng]\NP))/NP 	 2 	 1980 on
+10 	 11 	 (S[ng]\NP)/NP 	 1 	 1980 equaling <XB>
+11 	 9 	 (PP/(S[ng]\NP))/NP 	 1 	 equaling on
+12 	 11 	 (S[ng]\NP)/NP 	 2 	 100 equaling
+<\s>

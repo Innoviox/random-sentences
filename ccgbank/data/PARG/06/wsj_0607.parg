@@ -1,0 +1,145 @@
+<s id="wsj_0607.1"> 24
+2 	 0 	 N/N 	 1 	 issues Three
+2 	 1 	 N/N 	 1 	 issues new
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 issues begin
+2 	 4 	 S[ng]\NP 	 1 	 issues trading <XB>
+3 	 11 	 (S\NP)\(S\NP) 	 2 	 begin today
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trading begin
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 trading on
+10 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Exchange on
+10 	 6 	 NP[nb]/N 	 1 	 Exchange the
+10 	 7 	 N/N 	 1 	 Exchange New
+10 	 8 	 N/N 	 1 	 Exchange York
+10 	 9 	 N/N 	 1 	 Exchange Stock
+14 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 one began
+14 	 16 	 S[ng]\NP 	 1 	 one trading <XB>
+15 	 23 	 (S\NP)\(S\NP) 	 2 	 began week
+16 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trading began
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 trading on
+21 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 System on
+21 	 18 	 NP[nb]/N 	 1 	 System the
+21 	 19 	 N/N 	 1 	 System Nasdaq\/National
+21 	 20 	 N/N 	 1 	 System Market
+23 	 22 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week last
+<\s>
+<s id="wsj_0607.2"> 17
+3 	 0 	 (S/S)/NP 	 2 	 Board On
+3 	 1 	 NP[nb]/N 	 1 	 Board the
+3 	 2 	 N/N 	 1 	 Board Big
+7 	 5 	 N/N 	 1 	 Co. Crawford
+7 	 6 	 N/N 	 1 	 Co. &
+7 	 9 	 NP\NP 	 1 	 Co. Atlanta
+7 	 11 	 (NP\NP)/NP 	 1 	 Co. -LRB-
+7 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Co. begins
+7 	 15 	 S[ng]\NP 	 1 	 Co. trading <XB>
+12 	 11 	 (NP\NP)/NP 	 2 	 CFD -LRB-
+14 	 0 	 (S/S)/NP 	 1 	 begins On
+14 	 16 	 (S\NP)\(S\NP) 	 2 	 begins today
+15 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trading begins
+<\s>
+<s id="wsj_0607.3"> 25
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Crawford evaluates
+0 	 6 	 (S[dcl]\NP)/NP 	 1 	 Crawford manages <XU>
+0 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Crawford is <XU>
+0 	 18 	 (S[pss]\NP)/PP 	 1 	 Crawford involved <XU>
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 plans evaluates
+4 	 2 	 N/N 	 1 	 plans health
+4 	 3 	 N/N 	 1 	 plans care
+10 	 6 	 (S[dcl]\NP)/NP 	 2 	 aspects manages
+10 	 7 	 N/N 	 1 	 aspects medical <XU>
+10 	 9 	 N/N 	 1 	 aspects disability
+10 	 11 	 (NP\NP)/NP 	 1 	 aspects of
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 worker 's
+15 	 11 	 (NP\NP)/NP 	 2 	 injuries of
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 injuries 's
+15 	 14 	 N/N 	 1 	 injuries compensation
+18 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 involved is
+19 	 18 	 (S[pss]\NP)/PP 	 2 	 in involved
+21 	 19 	 PP/NP 	 1 	 adjustments in
+21 	 20 	 N/N 	 1 	 adjustments claims
+21 	 22 	 (NP\NP)/NP 	 1 	 adjustments for
+24 	 22 	 (NP\NP)/NP 	 2 	 companies for
+24 	 23 	 N/N 	 1 	 companies insurance
+<\s>
+<s id="wsj_0607.4"> 36
+1 	 0 	 (S\NP)/(S\NP) 	 2 	 beginning Also
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 beginning today
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 beginning on
+1 	 8 	 (S[dcl]\(S[ng]\NP))/NP 	 1 	 beginning are
+2 	 1 	 (S[ng]\NP)/(S[ng]\NP) 	 2 	 trading beginning
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Board on
+7 	 5 	 NP[nb]/N 	 1 	 Board the
+7 	 6 	 N/N 	 1 	 Board Big
+13 	 8 	 (S[dcl]\(S[ng]\NP))/NP 	 2 	 Partnership are
+13 	 9 	 N/N 	 1 	 Partnership El
+13 	 10 	 N/N 	 1 	 Partnership Paso
+13 	 11 	 N/N 	 1 	 Partnership Refinery
+13 	 12 	 N/N 	 1 	 Partnership Limited
+13 	 16 	 NP\NP 	 1 	 Partnership Paso
+13 	 18 	 NP\NP 	 1 	 Partnership Texas <XU>
+13 	 20 	 (NP\NP)/NP 	 1 	 Partnership -LRB-
+16 	 15 	 (NP\NP)/(NP\NP) 	 2 	 Paso El
+21 	 20 	 (NP\NP)/NP 	 2 	 ELP -LRB-
+26 	 8 	 (S[dcl]\(S[ng]\NP))/NP 	 2 	 Trust are
+26 	 24 	 N/N 	 1 	 Trust Franklin
+26 	 25 	 N/N 	 1 	 Trust Multi-Income
+26 	 29 	 NP\NP 	 1 	 Trust Mateo
+26 	 31 	 NP\NP 	 1 	 Trust Calif. <XU>
+26 	 33 	 (NP\NP)/NP 	 1 	 Trust -LRB-
+29 	 28 	 (NP\NP)/(NP\NP) 	 2 	 Mateo San
+34 	 33 	 (NP\NP)/NP 	 2 	 FMI -LRB-
+<\s>
+<s id="wsj_0607.5"> 8
+1 	 0 	 N/N 	 1 	 Paso El
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Paso owns
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 Paso operates <XU>
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 refinery owns <XU>
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 refinery operates
+7 	 5 	 NP[nb]/N 	 1 	 refinery a
+7 	 6 	 N/N 	 1 	 refinery petroleum
+<\s>
+<s id="wsj_0607.6"> 7
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Franklin is
+6 	 1 	 (S[dcl]\NP)/NP 	 2 	 company is
+6 	 2 	 NP[nb]/N 	 1 	 company a
+6 	 3 	 N/N 	 1 	 company closed-end
+6 	 4 	 N/N 	 1 	 company management
+6 	 5 	 N/N 	 1 	 company investment
+<\s>
+<s id="wsj_0607.7"> 21
+4 	 0 	 (S/S)/NP 	 2 	 system On
+4 	 1 	 NP[nb]/N 	 1 	 system the
+4 	 2 	 N/N 	 1 	 system Nasdaq
+4 	 3 	 N/N 	 1 	 system over-the-counter
+8 	 6 	 N/N 	 1 	 Corp. Allied
+8 	 7 	 N/N 	 1 	 Corp. Capital
+8 	 10 	 NP\NP 	 1 	 Corp. Washington
+8 	 12 	 NP\NP 	 1 	 Corp. D.C. <XU>
+8 	 14 	 (NP\NP)/NP 	 1 	 Corp. -LRB-
+8 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Corp. began
+8 	 18 	 S[ng]\NP 	 1 	 Corp. trading <XB>
+15 	 14 	 (NP\NP)/NP 	 2 	 ALII -LRB-
+17 	 0 	 (S/S)/NP 	 1 	 began On
+17 	 20 	 (S\NP)\(S\NP) 	 2 	 began Thursday
+18 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trading began
+20 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 Thursday last
+<\s>
+<s id="wsj_0607.8"> 16
+1 	 0 	 N/N 	 1 	 Capital Allied
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Capital is
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 company is
+7 	 3 	 NP[nb]/N 	 1 	 company a
+7 	 4 	 N/N 	 1 	 company closed-end
+7 	 5 	 N/N 	 1 	 company management
+7 	 6 	 N/N 	 1 	 company investment
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 company that
+7 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 company will <XB>
+7 	 10 	 (S[b]\NP)/PP 	 1 	 company operate <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 operate will
+11 	 10 	 (S[b]\NP)/PP 	 2 	 as operate
+15 	 11 	 PP/NP 	 1 	 concern as
+15 	 12 	 NP[nb]/N 	 1 	 concern a
+15 	 13 	 N/N 	 1 	 concern business
+15 	 14 	 N/N 	 1 	 concern development
+<\s>

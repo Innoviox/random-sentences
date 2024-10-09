@@ -1,0 +1,260 @@
+<s id="wsj_1985.1"> 25
+4 	 0 	 NP[nb]/N 	 1 	 Association The
+4 	 1 	 N/N 	 1 	 Association Federal
+4 	 2 	 N/N 	 1 	 Association National
+4 	 3 	 N/N 	 1 	 Association Mortgage
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Association set
+4 	 14 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Association elected <XU>
+4 	 22 	 (S[adj]\NP)/NP 	 1 	 Association effective <XU>
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 set up
+9 	 5 	 (S[dcl]\NP)/NP 	 2 	 office set
+9 	 7 	 NP[nb]/N 	 1 	 office a
+9 	 8 	 N/N 	 1 	 office three-member
+9 	 10 	 (NP\NP)/NP 	 1 	 office of
+12 	 10 	 (NP\NP)/NP 	 2 	 chairman of
+12 	 11 	 NP[nb]/N 	 1 	 chairman the
+17 	 14 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Johnson elected
+17 	 15 	 N/N 	 1 	 Johnson James
+17 	 16 	 N/N 	 1 	 Johnson A.
+18 	 14 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as elected
+20 	 18 	 PP/NP 	 1 	 chairman as
+20 	 19 	 N/N 	 1 	 chairman vice
+23 	 22 	 (S[adj]\NP)/NP 	 2 	 Jan. effective
+24 	 23 	 N/N[num] 	 1 	 1 Jan.
+<\s>
+<s id="wsj_1985.2"> 27
+1 	 0 	 N/N 	 1 	 Johnson Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Johnson has
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 Johnson been <XB>
+1 	 17 	 (S[dcl]\NP)/NP 	 1 	 Johnson was <XU>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+3 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 been since
+6 	 3 	 (S[pt]\NP)/NP 	 2 	 director been
+6 	 4 	 NP[nb]/N 	 1 	 director a
+6 	 5 	 N/N 	 1 	 director managing
+6 	 7 	 (NP\NP)/NP 	 1 	 director at
+10 	 7 	 (NP\NP)/NP 	 2 	 Hutton at
+10 	 8 	 N/N 	 1 	 Hutton Shearson
+10 	 9 	 N/N 	 1 	 Hutton Lehman
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 1985 since
+16 	 15 	 ((S\NP)/(S\NP))/NP 	 3 	 that before
+17 	 15 	 ((S\NP)/(S\NP))/NP 	 2 	 was before
+18 	 17 	 (S[dcl]\NP)/NP 	 2 	 president was
+18 	 19 	 (NP\NP)/NP 	 1 	 president of
+21 	 19 	 (NP\NP)/NP 	 2 	 Strategies of
+21 	 20 	 N/N 	 1 	 Strategies Public
+26 	 19 	 (NP\NP)/NP 	 2 	 firm of
+26 	 23 	 NP[nb]/N 	 1 	 firm a
+26 	 24 	 N/N 	 1 	 firm Washington
+26 	 25 	 N/N 	 1 	 firm consulting
+<\s>
+<s id="wsj_1985.3"> 25
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 He is
+0 	 2 	 S[adj]\NP 	 1 	 He well-known <XB>
+0 	 7 	 (S[ng]\NP)/(S[pt]\NP) 	 1 	 He having <XB>
+0 	 8 	 (S[pt]\NP)/NP 	 1 	 He been <XB>
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 is in
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 well-known is
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 circles in
+5 	 4 	 N/N 	 1 	 circles Democratic
+8 	 7 	 (S[ng]\NP)/(S[pt]\NP) 	 2 	 been having
+10 	 8 	 (S[pt]\NP)/NP 	 2 	 assistant been
+10 	 9 	 N/N 	 1 	 assistant executive
+10 	 11 	 (NP\NP)/NP 	 1 	 assistant to
+15 	 11 	 (NP\NP)/NP 	 2 	 Mondale to
+15 	 12 	 N/N 	 1 	 Mondale Vice
+15 	 13 	 N/N 	 1 	 Mondale President
+15 	 14 	 N/N 	 1 	 Mondale Walter
+17 	 8 	 (S[pt]\NP)/NP 	 2 	 chairman been
+17 	 18 	 (NP\NP)/NP 	 1 	 chairman of
+20 	 19 	 N/N 	 1 	 Mondale Mr.
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 Mondale 's
+24 	 18 	 (NP\NP)/NP 	 2 	 campaign of
+24 	 21 	 (NP[nb]/N)\NP 	 1 	 campaign 's
+24 	 22 	 N/N 	 1 	 campaign 1984
+24 	 23 	 N/N 	 1 	 campaign presidential
+<\s>
+<s id="wsj_1985.4"> 42
+2 	 0 	 (S/S)/NP 	 2 	 Mae At
+2 	 1 	 N/N 	 1 	 Mae Fannie
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he will
+4 	 6 	 ((S[b]\NP)/PP)/NP 	 1 	 he take <XB>
+4 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he will <XU>
+4 	 18 	 (S[b]\NP)/PP 	 1 	 he work <XU>
+5 	 0 	 (S/S)/NP 	 1 	 will At
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take will
+7 	 6 	 ((S[b]\NP)/PP)/NP 	 3 	 responsibility take
+8 	 6 	 ((S[b]\NP)/PP)/NP 	 2 	 for take
+10 	 9 	 NP[nb]/N 	 1 	 corporation the
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 corporation 's
+15 	 8 	 PP/NP 	 1 	 areas for
+15 	 11 	 (NP[nb]/N)\NP 	 1 	 areas 's
+15 	 12 	 N/N 	 1 	 areas financial <XU>
+15 	 14 	 N/N 	 1 	 areas legal
+17 	 0 	 (S/S)/NP 	 1 	 will At
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 work will
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 work with
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 Maxwell with
+21 	 20 	 N/N 	 1 	 Maxwell David
+23 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 chairman with
+27 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 officer with
+27 	 25 	 N/N 	 1 	 officer chief
+27 	 26 	 N/N 	 1 	 officer executive
+31 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 Birk with
+31 	 30 	 N/N 	 1 	 Birk Roger
+33 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 president with
+37 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 officer with
+37 	 35 	 N/N 	 1 	 officer chief
+37 	 36 	 N/N 	 1 	 officer operating
+39 	 18 	 (S[b]\NP)/PP 	 2 	 on work
+41 	 39 	 PP/NP 	 1 	 planning on
+41 	 40 	 N/N 	 1 	 planning strategic
+<\s>
+<s id="wsj_1985.5"> 22
+1 	 0 	 N/N 	 1 	 Johnson Mr.
+1 	 5 	 (S[adj]\NP)\NP 	 1 	 Johnson old <XB>
+1 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Johnson has
+1 	 8 	 (S[pt]\NP)/NP 	 1 	 Johnson been <XB>
+4 	 3 	 N/N 	 1 	 years 45
+4 	 5 	 (S[adj]\NP)\NP 	 2 	 years old
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+8 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 been for
+10 	 8 	 (S[pt]\NP)/NP 	 2 	 consultant been
+10 	 9 	 NP[nb]/N 	 1 	 consultant a
+10 	 11 	 (NP\NP)/NP 	 1 	 consultant on
+10 	 13 	 (NP\NP)/NP 	 1 	 consultant to
+12 	 11 	 (NP\NP)/NP 	 2 	 strategy on
+15 	 13 	 (NP\NP)/NP 	 2 	 Mae to
+15 	 14 	 N/N 	 1 	 Mae Fannie
+20 	 19 	 (N/N)/(N/N) 	 2 	 1\/2 3
+21 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+21 	 17 	 NP[nb]/N 	 1 	 years the
+21 	 18 	 N/N 	 1 	 years past
+21 	 20 	 N/N 	 1 	 years 1\/2
+<\s>
+<s id="wsj_1985.6"> 28
+2 	 0 	 (S/S)/NP 	 2 	 interview In
+2 	 1 	 NP[nb]/N 	 1 	 interview an
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 he said
+5 	 0 	 (S/S)/NP 	 1 	 said In
+7 	 6 	 N/N 	 1 	 Mae Fannie
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 Mae faces
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 faces said
+8 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 faces with
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 number faces
+10 	 9 	 NP[nb]/N 	 1 	 number a
+10 	 11 	 (NP\NP)/NP 	 1 	 number of
+12 	 11 	 (NP\NP)/NP 	 2 	 challenges of
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 restructuring with
+15 	 14 	 NP[nb]/N 	 1 	 restructuring the
+15 	 16 	 (NP\NP)/NP 	 1 	 restructuring of
+19 	 16 	 (NP\NP)/NP 	 2 	 industry of
+19 	 17 	 NP[nb]/N 	 1 	 industry the
+19 	 18 	 N/N 	 1 	 industry thrift
+22 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 push with
+22 	 21 	 NP[nb]/N 	 1 	 push the
+22 	 24 	 (S[b]\NP)/NP 	 1 	 push broaden <XB>
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 broaden to
+26 	 24 	 (S[b]\NP)/NP 	 2 	 activities broaden
+26 	 25 	 NP[nb]/N 	 1 	 activities its
+26 	 27 	 N\N 	 1 	 activities overseas
+<\s>
+<s id="wsj_1985.7"> 12
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There 's
+1 	 11 	 (S[dcl]\S[dcl])\NP 	 1 	 's said
+3 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 shortage 's
+3 	 2 	 NP[nb]/N 	 1 	 shortage no
+3 	 4 	 (NP\NP)/NP 	 1 	 shortage of
+6 	 4 	 (NP\NP)/NP 	 2 	 things of
+6 	 5 	 N/N 	 1 	 things major
+6 	 8 	 (S[b]\NP)/NP 	 2 	 things do <XU>
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+10 	 11 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_1985.8"> 39
+1 	 0 	 N/N 	 1 	 Mae Fannie
+1 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Mae said
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 said also
+6 	 4 	 N/N 	 1 	 Aliber James
+6 	 5 	 N/N 	 1 	 Aliber A.
+6 	 20 	 (S[dcl]\NP)/NP 	 1 	 Aliber moved
+6 	 31 	 (S[b]\NP)/NP 	 1 	 Aliber accommodate <XB>
+8 	 9 	 (NP\NP)/NP 	 1 	 chairman of
+8 	 20 	 (S[dcl]\NP)/NP 	 1 	 chairman moved
+8 	 31 	 (S[b]\NP)/NP 	 1 	 chairman accommodate <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 Federal of
+11 	 10 	 N/N 	 1 	 Federal First
+11 	 12 	 (NP\NP)/NP 	 1 	 Federal of
+13 	 12 	 (NP\NP)/NP 	 2 	 Michigan of
+16 	 15 	 NP[nb]/N 	 1 	 director a
+16 	 17 	 (NP\NP)/NP 	 1 	 director since
+16 	 20 	 (S[dcl]\NP)/NP 	 1 	 director moved
+16 	 31 	 (S[b]\NP)/NP 	 1 	 director accommodate <XB>
+18 	 17 	 (NP\NP)/NP 	 2 	 1985 since
+20 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 moved said
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 moved up
+23 	 20 	 (S[dcl]\NP)/NP 	 2 	 date moved
+23 	 22 	 NP[nb]/N 	 1 	 date the
+23 	 24 	 (NP\NP)/NP 	 1 	 date of
+26 	 24 	 (NP\NP)/NP 	 2 	 retirement of
+26 	 25 	 NP[nb]/N 	 1 	 retirement his
+26 	 27 	 (NP\NP)/NP 	 1 	 retirement from
+29 	 27 	 (NP\NP)/NP 	 2 	 board from
+29 	 28 	 NP[nb]/N 	 1 	 board the
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 accommodate to
+33 	 32 	 N/N 	 1 	 Johnson Mr.
+33 	 34 	 (NP[nb]/N)\NP 	 2 	 Johnson 's
+35 	 31 	 (S[b]\NP)/NP 	 2 	 election accommodate
+35 	 34 	 (NP[nb]/N)\NP 	 1 	 election 's
+35 	 36 	 (NP\NP)/NP 	 1 	 election as
+38 	 36 	 (NP\NP)/NP 	 2 	 director as
+38 	 37 	 NP[nb]/N 	 1 	 director a
+<\s>
+<s id="wsj_1985.9"> 12
+1 	 0 	 NP[nb]/N 	 1 	 board The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 board has
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 members has
+4 	 3 	 N/N 	 1 	 members 13
+4 	 5 	 S[pss]\NP 	 1 	 members elected <XB>
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 elected by
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 holders by
+11 	 2 	 (S[dcl]\NP)/NP 	 2 	 appointees has
+11 	 9 	 N/N 	 1 	 appointees five
+11 	 10 	 N/N 	 1 	 appointees presidential
+<\s>
+<s id="wsj_1985.10"> 38
+1 	 0 	 N/N 	 1 	 Mae Fannie
+1 	 10 	 (S[dcl]\NP)/NP 	 1 	 Mae operates
+1 	 18 	 ((S[ng]\NP)/PP)/NP 	 1 	 Mae buying <XB>
+1 	 23 	 ((S[ng]\NP)/PP)/NP 	 1 	 Mae packaging <XU>
+1 	 32 	 (S[ng]\NP)/NP 	 1 	 Mae keeping <XU>
+5 	 4 	 (N/N)/(N/N) 	 2 	 chartered federally
+8 	 3 	 NP[nb]/N 	 1 	 corporation a
+8 	 5 	 N/N 	 1 	 corporation chartered
+8 	 7 	 N/N 	 1 	 corporation shareholder-owned
+8 	 10 	 (S[dcl]\NP)/NP 	 1 	 corporation operates
+8 	 18 	 ((S[ng]\NP)/PP)/NP 	 1 	 corporation buying <XB>
+8 	 23 	 ((S[ng]\NP)/PP)/NP 	 1 	 corporation packaging <XU>
+8 	 32 	 (S[ng]\NP)/NP 	 1 	 corporation keeping <XU>
+13 	 10 	 (S[dcl]\NP)/NP 	 2 	 market operates
+13 	 11 	 NP[nb]/N 	 1 	 market a
+13 	 12 	 N/N 	 1 	 market secondary
+13 	 14 	 (NP\NP)/NP 	 1 	 market for
+16 	 14 	 (NP\NP)/NP 	 2 	 loans for
+16 	 15 	 N/N 	 1 	 loans mortgage
+19 	 18 	 ((S[ng]\NP)/PP)/NP 	 3 	 loans buying
+20 	 18 	 ((S[ng]\NP)/PP)/NP 	 2 	 from buying
+21 	 20 	 PP/NP 	 1 	 lenders from
+23 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 packaging for
+24 	 23 	 ((S[ng]\NP)/PP)/NP 	 3 	 some packaging
+25 	 23 	 ((S[ng]\NP)/PP)/NP 	 2 	 into packaging
+26 	 25 	 PP/NP 	 1 	 securities into
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 sale for
+28 	 29 	 (NP\NP)/NP 	 1 	 sale to
+30 	 29 	 (NP\NP)/NP 	 2 	 investors to
+32 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 keeping in
+34 	 32 	 (S[ng]\NP)/NP 	 2 	 rest keeping
+34 	 33 	 NP[nb]/N 	 1 	 rest the
+37 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 portfolio in
+37 	 36 	 NP[nb]/N 	 1 	 portfolio its
+<\s>

@@ -1,0 +1,65 @@
+<s id="wsj_1991.1"> 21
+2 	 0 	 N/N 	 1 	 Inc. Apogee
+2 	 1 	 N/N 	 1 	 Inc. Robotics
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+5 	 4 	 NP[nb]/N 	 1 	 board its
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 board extended
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 extended said
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 extended until
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Feb. until
+9 	 8 	 N/N[num] 	 1 	 1 Feb.
+12 	 6 	 (S[dcl]\NP)/NP 	 2 	 period extended
+12 	 10 	 NP[nb]/N 	 1 	 period the
+12 	 11 	 N/N 	 1 	 period exercise
+12 	 13 	 (NP\NP)/NP 	 1 	 period of
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 Apogee 's
+19 	 13 	 (NP\NP)/NP 	 2 	 warrants of
+19 	 15 	 (NP[nb]/N)\NP 	 1 	 warrants 's
+19 	 16 	 N/N 	 1 	 warrants existing
+19 	 17 	 N/N 	 1 	 warrants stock
+19 	 18 	 N/N 	 1 	 warrants purchase
+19 	 20 	 S[adj]\NP 	 1 	 warrants outstanding <XB>
+<\s>
+<s id="wsj_1991.2"> 7
+2 	 0 	 NP[nb]/N 	 1 	 date The
+2 	 1 	 N/N 	 1 	 date expiration
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 date had
+2 	 4 	 (S[pt]\NP)/NP 	 1 	 date been <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+5 	 4 	 (S[pt]\NP)/NP 	 2 	 Nov. been
+6 	 5 	 N/N[num] 	 1 	 3 Nov.
+<\s>
+<s id="wsj_1991.3"> 19
+0 	 1 	 (NP\NP)/NP 	 1 	 Each of
+0 	 5 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Each entitle
+4 	 1 	 (NP\NP)/NP 	 2 	 warrants of
+4 	 2 	 NP[nb]/N 	 1 	 warrants the
+4 	 3 	 N/N 	 1 	 warrants 1,075,000
+7 	 5 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 holders entitle
+7 	 6 	 NP[nb]/N 	 1 	 holders the
+7 	 9 	 ((S[b]\NP)/PP)/NP 	 1 	 holders purchase <XB>
+8 	 5 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to entitle
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 purchase to
+11 	 9 	 ((S[b]\NP)/PP)/NP 	 3 	 share purchase
+11 	 10 	 N/N 	 1 	 share one
+11 	 12 	 (NP\NP)/NP 	 1 	 share of
+15 	 12 	 (NP\NP)/NP 	 2 	 stock of
+15 	 13 	 N/N 	 1 	 stock Apogee
+15 	 14 	 N/N 	 1 	 stock common
+16 	 9 	 ((S[b]\NP)/PP)/NP 	 2 	 for purchase
+17 	 16 	 PP/NP 	 1 	 $ for
+18 	 17 	 N/N[num] 	 1 	 2.25 $
+<\s>
+<s id="wsj_1991.4"> 12
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Apogee was
+0 	 2 	 (S[pss]\NP)/PP 	 1 	 Apogee quoted <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 quoted was
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 quoted in
+2 	 7 	 (S\NP)\(S\NP) 	 2 	 quoted yesterday
+6 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 market in
+6 	 4 	 NP[nb]/N 	 1 	 market the
+6 	 5 	 N/N 	 1 	 market over-the-counter
+8 	 2 	 (S[pss]\NP)/PP 	 2 	 at quoted
+9 	 8 	 PP/NP 	 1 	 $ at
+10 	 9 	 N/N[num] 	 1 	 2 $
+<\s>

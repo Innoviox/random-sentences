@@ -1,0 +1,380 @@
+<s id="wsj_0448.1"> 34
+1 	 0 	 NP[nb]/N 	 1 	 collapse The
+1 	 2 	 (NP\NP)/NP 	 1 	 collapse of
+1 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 collapse may
+1 	 17 	 ((S[b]\NP)/PP)/NP 	 1 	 collapse stop <XB>
+6 	 4 	 (N/N)/N[num] 	 2 	 billion $
+6 	 5 	 N/N 	 1 	 billion 6.79
+8 	 2 	 (NP\NP)/NP 	 2 	 buy-out of
+8 	 3 	 NP[nb]/N 	 1 	 buy-out a
+8 	 4 	 (N/N)/N[num] 	 1 	 buy-out $
+8 	 7 	 N/N 	 1 	 buy-out labor-management
+8 	 9 	 (NP\NP)/NP 	 1 	 buy-out of
+14 	 9 	 (NP\NP)/NP 	 2 	 Corp. of
+14 	 10 	 N/N 	 1 	 Corp. United
+14 	 11 	 N/N 	 1 	 Corp. Airlines
+14 	 12 	 N/N 	 1 	 Corp. parent
+14 	 13 	 N/N 	 1 	 Corp. UAL
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 may not
+17 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 stop may
+18 	 17 	 ((S[b]\NP)/PP)/NP 	 3 	 some stop
+18 	 19 	 (NP\NP)/NP 	 1 	 some of
+21 	 20 	 N/N 	 1 	 Street Wall
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 Street 's
+24 	 19 	 (NP\NP)/NP 	 2 	 talent of
+24 	 22 	 (NP[nb]/N)\NP 	 1 	 talent 's
+24 	 23 	 N/N 	 1 	 talent top
+25 	 17 	 ((S[b]\NP)/PP)/NP 	 2 	 from stop
+26 	 25 	 PP/(S[ng]\NP) 	 1 	 collecting from
+29 	 26 	 (S[ng]\NP)/NP 	 2 	 $ collecting
+29 	 27 	 N/N 	 1 	 $ up
+29 	 28 	 N/N 	 1 	 $ to
+29 	 32 	 (NP\NP)/NP 	 1 	 $ in
+31 	 29 	 N/N[num] 	 1 	 million $
+31 	 30 	 N/N 	 1 	 million 53.7
+33 	 32 	 (NP\NP)/NP 	 2 	 fees in
+<\s>
+<s id="wsj_0448.2"> 43
+1 	 0 	 (S/S)/PP 	 2 	 to According
+3 	 1 	 PP/NP 	 1 	 person to
+3 	 2 	 N/N 	 1 	 person one
+3 	 4 	 S[adj]\NP 	 1 	 person familiar <XB>
+4 	 5 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 familiar with
+7 	 5 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 airline with
+7 	 6 	 NP[nb]/N 	 1 	 airline the
+11 	 9 	 NP[nb]/N 	 1 	 group the
+11 	 10 	 N/N 	 1 	 group buy-out
+11 	 12 	 (NP\NP)/(S[pss]\NP) 	 1 	 group --
+11 	 13 	 S[pss]\NP 	 1 	 group led <XB>
+11 	 25 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 group has
+11 	 26 	 (S[pt]\NP)/(S[ng]\NP) 	 1 	 group begun <XB>
+11 	 27 	 ((S[ng]\NP)/PP)/NP 	 1 	 group billing <XB>
+13 	 12 	 (NP\NP)/(S[pss]\NP) 	 2 	 led --
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 led by
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 United 's
+18 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 union by
+18 	 16 	 (NP[nb]/N)\NP 	 1 	 union 's
+18 	 17 	 N/N 	 1 	 union pilots
+23 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 Wolf by
+23 	 20 	 N/N 	 1 	 Wolf UAL
+23 	 21 	 N/N 	 1 	 Wolf Chairman
+23 	 22 	 N/N 	 1 	 Wolf Stephen
+25 	 0 	 (S/S)/PP 	 1 	 has According
+26 	 25 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 begun has
+27 	 26 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 billing begun
+28 	 27 	 ((S[ng]\NP)/PP)/NP 	 3 	 UAL billing
+29 	 27 	 ((S[ng]\NP)/PP)/NP 	 2 	 for billing
+30 	 29 	 PP/NP 	 1 	 fees for
+30 	 34 	 ((S[dcl]\NP)/PP)/NP 	 3 	 fees owes <XU>
+32 	 29 	 PP/NP 	 1 	 expenses for
+32 	 34 	 ((S[dcl]\NP)/PP)/NP 	 3 	 expenses owes <XU>
+33 	 34 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it owes
+35 	 34 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to owes
+37 	 35 	 PP/NP 	 1 	 bankers to
+37 	 36 	 N/N 	 1 	 bankers investment
+40 	 35 	 PP/NP 	 1 	 firms to
+40 	 39 	 N/N 	 1 	 firms law
+42 	 35 	 PP/NP 	 1 	 banks to
+<\s>
+<s id="wsj_0448.3"> 40
+1 	 0 	 NP[nb]/N 	 1 	 tab The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 tab covers
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 covers even
+3 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 covers though
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 $ covers
+4 	 7 	 (NP\NP)/NP 	 1 	 $ in
+4 	 10 	 (S[pss]\NP)/PP 	 1 	 $ owed <XB>
+6 	 4 	 N/N[num] 	 1 	 million $
+6 	 5 	 N/N 	 1 	 million 8
+9 	 7 	 (NP\NP)/NP 	 2 	 fees in
+9 	 8 	 N/N 	 1 	 fees commitment
+11 	 10 	 (S[pss]\NP)/PP 	 2 	 to owed
+12 	 11 	 PP/NP 	 1 	 Citicorp to
+16 	 11 	 PP/NP 	 1 	 Corp. to
+16 	 14 	 N/N 	 1 	 Corp. Chase
+16 	 15 	 N/N 	 1 	 Corp. Manhattan
+19 	 18 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 though even
+21 	 20 	 NP[nb]/N 	 1 	 failure their
+21 	 23 	 (S[b]\NP)/NP 	 1 	 failure obtain <XB>
+21 	 33 	 (S[dcl]\NP)/NP 	 1 	 failure was
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 obtain to
+24 	 23 	 (S[b]\NP)/NP 	 2 	 $ obtain
+24 	 27 	 (NP\NP)/NP 	 1 	 $ in
+24 	 30 	 (NP\NP)/NP 	 1 	 $ for
+26 	 24 	 N/N[num] 	 1 	 billion $
+26 	 25 	 N/N 	 1 	 billion 7.2
+29 	 27 	 (NP\NP)/NP 	 2 	 loans in
+29 	 28 	 N/N 	 1 	 loans bank
+32 	 30 	 (NP\NP)/NP 	 2 	 buy-out for
+32 	 31 	 NP[nb]/N 	 1 	 buy-out the
+33 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was though
+36 	 33 	 (S[dcl]\NP)/NP 	 2 	 reason was
+36 	 34 	 NP[nb]/N 	 1 	 reason the
+36 	 35 	 N/N 	 1 	 reason main
+36 	 37 	 (NP\NP)/NP 	 1 	 reason for
+39 	 37 	 (NP\NP)/NP 	 2 	 collapse for
+39 	 38 	 NP[nb]/N 	 1 	 collapse its
+<\s>
+<s id="wsj_0448.4"> 41
+3 	 0 	 (S/S)/NP 	 2 	 agreement Under
+3 	 1 	 NP[nb]/N 	 1 	 agreement a
+3 	 2 	 N/N 	 1 	 agreement merger
+3 	 4 	 S[pss]\NP 	 1 	 agreement reached <XB>
+4 	 5 	 ((S\NP)\(S\NP))/N[num] 	 2 	 reached Sept.
+6 	 5 	 ((S\NP)\(S\NP))/N[num] 	 3 	 14 Sept.
+10 	 8 	 NP[nb]/N 	 1 	 board the
+10 	 9 	 N/N 	 1 	 board UAL
+10 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 board agreed
+10 	 13 	 (S[b]\NP)/NP 	 1 	 board reimburse <XB>
+11 	 0 	 (S/S)/NP 	 1 	 agreed Under
+11 	 33 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 agreed provided
+12 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reimburse to
+13 	 21 	 ((S\NP)\(S\NP))/PP 	 2 	 reimburse out
+13 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 reimburse if
+14 	 13 	 (S[b]\NP)/NP 	 2 	 certain reimburse
+14 	 15 	 (NP\NP)/NP 	 1 	 certain of
+18 	 16 	 NP[nb]/N 	 1 	 group the
+18 	 17 	 N/N 	 1 	 group buy-out
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 group 's
+20 	 15 	 (NP\NP)/NP 	 2 	 expenses of
+20 	 19 	 (NP[nb]/N)\NP 	 1 	 expenses 's
+22 	 21 	 ((S\NP)\(S\NP))/PP 	 3 	 of out
+24 	 22 	 PP/NP 	 1 	 funds of
+24 	 23 	 N/N 	 1 	 funds company
+26 	 25 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 if even
+28 	 27 	 NP[nb]/N 	 1 	 transaction the
+28 	 29 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 transaction was
+28 	 31 	 S[pss]\NP 	 1 	 transaction completed <XB>
+29 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was if
+29 	 30 	 (S\NP)\(S\NP) 	 2 	 was n't
+31 	 29 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 completed was
+35 	 34 	 NP[nb]/N 	 1 	 group the
+35 	 36 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 group did
+35 	 38 	 (S[b]\NP)/NP 	 1 	 group breach <XB>
+36 	 33 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 did provided
+36 	 37 	 (S\NP)\(S\NP) 	 2 	 did n't
+38 	 36 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 breach did
+40 	 38 	 (S[b]\NP)/NP 	 2 	 agreement breach
+40 	 39 	 NP[nb]/N 	 1 	 agreement the
+<\s>
+<s id="wsj_0448.5"> 12
+1 	 0 	 NP[nb]/N 	 1 	 failure The
+1 	 3 	 (S[b]\NP)/NP 	 1 	 failure obtain <XB>
+1 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 failure does
+1 	 9 	 (S[b]\NP)/NP 	 1 	 failure constitute <XB>
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 obtain to
+4 	 3 	 (S[b]\NP)/NP 	 2 	 financing obtain
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 does n't
+5 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 does by
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 itself by
+9 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 constitute does
+11 	 9 	 (S[b]\NP)/NP 	 2 	 breach constitute
+11 	 10 	 NP[nb]/N 	 1 	 breach a
+<\s>
+<s id="wsj_0448.6"> 42
+2 	 0 	 NP[nb]/N 	 1 	 agreement The
+2 	 1 	 N/N 	 1 	 agreement merger
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 agreement says
+6 	 4 	 NP[nb]/N 	 1 	 group the
+6 	 5 	 N/N 	 1 	 group buy-out
+6 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 group is
+6 	 8 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 group entitled <XB>
+6 	 11 	 (S[pss]\NP)/NP 	 1 	 group repaid <XB>
+7 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 is says
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 entitled is
+9 	 8 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to entitled
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+11 	 10 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 repaid be
+11 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 repaid for
+12 	 11 	 (S[pss]\NP)/NP 	 2 	 $ repaid
+12 	 15 	 (NP\NP)/NP 	 1 	 $ in
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 26.7
+16 	 15 	 (NP\NP)/NP 	 2 	 fees in
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 bankers for
+20 	 18 	 NP[nb]/N 	 1 	 bankers its
+20 	 19 	 N/N 	 1 	 bankers investment
+25 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 Co. for
+25 	 22 	 N/N 	 1 	 Co. Lazard
+25 	 23 	 N/N 	 1 	 Co. Freres
+25 	 24 	 N/N 	 1 	 Co. &
+29 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 Inc. for
+29 	 27 	 N/N 	 1 	 Inc. Salomon
+29 	 28 	 N/N 	 1 	 Inc. Brothers
+34 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 firm for
+34 	 32 	 NP[nb]/N 	 1 	 firm its
+34 	 33 	 N/N 	 1 	 firm law
+41 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 Garrison for
+41 	 36 	 N/N 	 1 	 Garrison Paul
+41 	 37 	 N/N 	 1 	 Garrison Weiss
+41 	 38 	 N/N 	 1 	 Garrison Rifkind
+41 	 39 	 N/N 	 1 	 Garrison Wharton
+41 	 40 	 N/N 	 1 	 Garrison &
+<\s>
+<s id="wsj_0448.7"> 25
+2 	 0 	 NP[nb]/N 	 1 	 group The
+2 	 1 	 N/N 	 1 	 group buy-out
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 group is
+2 	 5 	 (S[adj]\NP)/PP 	 1 	 group entitled <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 is also
+5 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 entitled is
+6 	 5 	 (S[adj]\NP)/PP 	 2 	 to entitled
+7 	 6 	 PP/NP 	 1 	 $ to
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 16
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 repay to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 fund repay
+13 	 12 	 NP[nb]/N 	 1 	 fund a
+13 	 14 	 S[pss]\NP 	 1 	 fund created <XB>
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 created by
+14 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 created for
+18 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 union by
+18 	 16 	 NP[nb]/N 	 1 	 union the
+18 	 17 	 N/N 	 1 	 union pilots
+24 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 plan for
+24 	 20 	 NP[nb]/N 	 1 	 plan an
+24 	 21 	 N/N 	 1 	 plan employee
+24 	 22 	 N/N 	 1 	 plan stock
+24 	 23 	 N/N 	 1 	 plan ownership
+<\s>
+<s id="wsj_0448.8"> 30
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+1 	 2 	 (NP\NP)/NP 	 1 	 addition to
+4 	 2 	 (NP\NP)/NP 	 2 	 $ to
+4 	 3 	 NP[nb]/N 	 1 	 $ the
+4 	 7 	 (NP\NP)/NP 	 1 	 $ for
+6 	 4 	 N/N[num] 	 1 	 million $
+6 	 5 	 N/N 	 1 	 million 8
+8 	 7 	 (NP\NP)/NP 	 2 	 Citicorp for
+10 	 7 	 (NP\NP)/NP 	 2 	 Chase for
+13 	 12 	 N/N 	 1 	 Brothers Salomon
+13 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Brothers is
+13 	 16 	 (S[pss]\NP)/NP 	 1 	 Brothers owed <XB>
+13 	 21 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Brothers promising <XB>
+13 	 23 	 (S[b]\NP)/NP 	 1 	 Brothers make <XB>
+14 	 0 	 (S/S)/NP 	 1 	 is In
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 is also
+16 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 owed is
+16 	 20 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 owed for
+17 	 16 	 (S[pss]\NP)/NP 	 2 	 $ owed
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 3
+21 	 20 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 promising for
+22 	 21 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to promising
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+27 	 25 	 (N/N)/N[num] 	 2 	 million $
+27 	 26 	 N/N 	 1 	 million 200
+29 	 23 	 (S[b]\NP)/NP 	 2 	 loan make
+29 	 24 	 NP[nb]/N 	 1 	 loan a
+29 	 25 	 (N/N)/N[num] 	 1 	 loan $
+29 	 28 	 N/N 	 1 	 loan bridge
+<\s>
+<s id="wsj_0448.9"> 12
+1 	 0 	 NP[nb]/N 	 1 	 spokesman A
+1 	 2 	 (NP\NP)/NP 	 1 	 spokesman for
+1 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 spokesman was
+1 	 9 	 (S[adj]\NP)/PP 	 1 	 spokesman available <XB>
+5 	 2 	 (NP\NP)/NP 	 2 	 group for
+5 	 3 	 NP[nb]/N 	 1 	 group the
+5 	 4 	 N/N 	 1 	 group buy-out
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 was n't
+9 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 available was
+9 	 8 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 available immediately
+10 	 9 	 (S[adj]\NP)/PP 	 2 	 for available
+11 	 10 	 PP/NP 	 1 	 comment for
+<\s>
+<s id="wsj_0448.10"> 49
+3 	 2 	 N/N 	 1 	 stock UAL
+3 	 4 	 S[dcl]\NP 	 1 	 stock rose
+4 	 0 	 S/S 	 1 	 rose Separately
+4 	 5 	 ((S\NP)\(S\NP))/N[num] 	 2 	 rose $
+4 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+4 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 rose in
+4 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 rose on
+5 	 7 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 3 	 $ a
+6 	 5 	 ((S\NP)\(S\NP))/N[num] 	 3 	 4 $
+8 	 7 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 4 	 share a
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+11 	 10 	 N/N[num] 	 1 	 175 $
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+14 	 13 	 N/N 	 1 	 trading composite
+14 	 15 	 (NP\NP)/NP 	 1 	 trading on
+20 	 15 	 (NP\NP)/NP 	 2 	 Exchange on
+20 	 16 	 NP[nb]/N 	 1 	 Exchange the
+20 	 17 	 N/N 	 1 	 Exchange New
+20 	 18 	 N/N 	 1 	 Exchange York
+20 	 19 	 N/N 	 1 	 Exchange Stock
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 reports on
+23 	 22 	 N/S[em] 	 1 	 that reports
+28 	 24 	 N/N 	 1 	 Davis Los
+28 	 25 	 N/N 	 1 	 Davis Angeles
+28 	 26 	 N/N 	 1 	 Davis investor
+28 	 27 	 N/N 	 1 	 Davis Marvin
+28 	 29 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Davis has
+28 	 30 	 ((S[pt]\NP)/S[qem])/NP 	 1 	 Davis asked <XB>
+29 	 23 	 S[em]/S[dcl] 	 1 	 has that
+30 	 29 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 asked has
+33 	 30 	 ((S[pt]\NP)/S[qem])/NP 	 3 	 unions asked
+33 	 31 	 N/N 	 1 	 unions United
+33 	 32 	 N/N 	 1 	 unions Airlines
+34 	 30 	 ((S[pt]\NP)/S[qem])/NP 	 2 	 if asked
+35 	 36 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they 're
+35 	 37 	 (S[adj]\NP)/PP 	 1 	 they interested <XB>
+36 	 34 	 S[qem]/S[dcl] 	 1 	 're if
+37 	 36 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 interested 're
+38 	 37 	 (S[adj]\NP)/PP 	 2 	 in interested
+39 	 38 	 PP/(S[ng]\NP) 	 1 	 cooperating in
+39 	 40 	 ((S\NP)\(S\NP))/NP 	 2 	 cooperating with
+39 	 43 	 ((S\NP)\(S\NP))/NP 	 2 	 cooperating in
+42 	 40 	 ((S\NP)\(S\NP))/NP 	 3 	 Davis with
+42 	 41 	 N/N 	 1 	 Davis Mr.
+46 	 43 	 ((S\NP)\(S\NP))/NP 	 3 	 bid in
+46 	 44 	 NP[nb]/N 	 1 	 bid a
+46 	 45 	 N/N 	 1 	 bid new
+46 	 47 	 (NP\NP)/NP 	 1 	 bid for
+48 	 47 	 (NP\NP)/NP 	 2 	 UAL for
+<\s>
+<s id="wsj_0448.11"> 41
+3 	 1 	 NP/NP 	 1 	 pilots neither
+3 	 2 	 NP[nb]/N 	 1 	 pilots the
+3 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 pilots appear
+3 	 8 	 S[adj]\NP 	 1 	 pilots interested <XB>
+6 	 1 	 NP/NP 	 1 	 machinists neither
+6 	 5 	 NP[nb]/N 	 1 	 machinists the
+6 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 machinists appear
+6 	 8 	 S[adj]\NP 	 1 	 machinists interested <XB>
+7 	 0 	 S/S 	 1 	 appear But
+8 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 interested appear
+12 	 11 	 N/N 	 1 	 Davis Mr.
+12 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Davis is
+12 	 14 	 (S[pss]\NP)/PP 	 1 	 Davis barred <XB>
+13 	 0 	 S/S 	 1 	 is But
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 barred is
+14 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 barred under
+14 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 barred unless
+15 	 14 	 (S[pss]\NP)/PP 	 2 	 from barred
+16 	 15 	 PP/(S[ng]\NP) 	 1 	 making from
+19 	 16 	 (S[ng]\NP)/NP 	 2 	 bid making
+19 	 17 	 NP[nb]/N 	 1 	 bid a
+19 	 18 	 N/N 	 1 	 bid new
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 terms under
+21 	 22 	 (NP\NP)/NP 	 1 	 terms of
+24 	 22 	 (NP\NP)/NP 	 2 	 agreement of
+24 	 23 	 NP[nb]/N 	 1 	 agreement an
+24 	 26 	 (S[dcl]\NP)/NP 	 2 	 agreement made <XU>
+25 	 26 	 (S[dcl]\NP)/NP 	 1 	 he made
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 made with
+26 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 made in
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 UAL with
+30 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+32 	 33 	 (S[dcl]\NP)/NP 	 1 	 UAL accepts
+33 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 accepts unless
+35 	 33 	 (S[dcl]\NP)/NP 	 2 	 offer accepts
+35 	 34 	 NP[nb]/N 	 1 	 offer an
+35 	 36 	 (NP\NP)/NP 	 1 	 offer below
+37 	 36 	 (NP\NP)/NP 	 2 	 $ below
+37 	 39 	 (NP\NP)/N 	 1 	 $ a
+38 	 37 	 N/N[num] 	 1 	 300 $
+40 	 39 	 (NP\NP)/N 	 2 	 share a
+<\s>

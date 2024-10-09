@@ -1,0 +1,296 @@
+<s id="wsj_0775.1"> 24
+2 	 0 	 N/N 	 1 	 Corp. General
+2 	 1 	 N/N 	 1 	 Corp. Motors
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+4 	 7 	 (S[b]\NP)/NP 	 1 	 it idle <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 will temporarily
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 idle will
+7 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 idle for
+7 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 idle beginning
+7 	 20 	 ((S\NP)\(S\NP))/PP 	 2 	 idle because
+9 	 7 	 (S[b]\NP)/NP 	 2 	 Arlington idle
+9 	 8 	 NP/NP 	 1 	 Arlington its
+9 	 13 	 NP\NP 	 1 	 Arlington assembly
+9 	 14 	 NP\NP 	 1 	 Arlington plant
+11 	 7 	 (S[b]\NP)/NP 	 2 	 Texas idle
+11 	 8 	 NP/NP 	 1 	 Texas its
+11 	 13 	 NP\NP 	 1 	 Texas assembly
+11 	 14 	 NP\NP 	 1 	 Texas plant
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 week for
+17 	 16 	 N/N 	 1 	 week one
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 Monday beginning
+21 	 20 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+23 	 21 	 PP/NP 	 1 	 sales of
+23 	 22 	 N/N 	 1 	 sales slow
+<\s>
+<s id="wsj_0775.2"> 13
+1 	 0 	 NP[nb]/N 	 1 	 closing The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 closing will
+1 	 3 	 (S[b]\NP)/NP 	 1 	 closing affect <XB>
+1 	 8 	 (S[b]\NP)/NP 	 1 	 closing eliminate <XU>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 affect will
+5 	 4 	 (N/N)/(N/N) 	 2 	 3,000 about
+6 	 3 	 (S[b]\NP)/NP 	 2 	 workers affect
+6 	 5 	 N/N 	 1 	 workers 3,000
+8 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 eliminate will
+9 	 8 	 (S[b]\NP)/NP 	 2 	 production eliminate
+9 	 10 	 (NP\NP)/NP 	 1 	 production of
+12 	 10 	 (NP\NP)/NP 	 2 	 cars of
+12 	 11 	 N/N 	 1 	 cars 700
+<\s>
+<s id="wsj_0775.3"> 15
+2 	 0 	 NP[nb]/N 	 1 	 plant The
+2 	 1 	 N/N 	 1 	 plant assembly
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 plant builds
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 DeVille builds
+6 	 4 	 NP[nb]/N 	 1 	 DeVille the
+6 	 5 	 N/N 	 1 	 DeVille Cadillac
+9 	 3 	 (S[dcl]\NP)/NP 	 2 	 Caprice builds
+9 	 4 	 NP[nb]/N 	 1 	 Caprice the
+9 	 8 	 N/N 	 1 	 Caprice Chevrolet
+14 	 3 	 (S[dcl]\NP)/NP 	 2 	 Wagon builds
+14 	 4 	 NP[nb]/N 	 1 	 Wagon the
+14 	 11 	 N/N 	 1 	 Wagon Oldsmobile
+14 	 12 	 N/N 	 1 	 Wagon Cutlass
+14 	 13 	 N/N 	 1 	 Wagon Ciera
+<\s>
+<s id="wsj_0775.4"> 25
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 GM 's
+8 	 4 	 (NP[nb]/N)\NP 	 1 	 Group 's
+8 	 5 	 N/N 	 1 	 Group Truck
+8 	 6 	 N/N 	 1 	 Group &
+8 	 7 	 N/N 	 1 	 Group Bus
+8 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Group said
+9 	 0 	 (S/S)/NP 	 1 	 said In
+11 	 10 	 N/N 	 1 	 sales slow
+11 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 sales are
+11 	 13 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 1 	 sales forcing <XB>
+12 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+13 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 forcing are
+14 	 13 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 it forcing
+14 	 16 	 (S[b]\NP)/NP 	 1 	 it close <XB>
+15 	 13 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to forcing
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 close to
+16 	 21 	 ((S\NP)\(S\NP))/N 	 2 	 close the
+20 	 16 	 (S[b]\NP)/NP 	 2 	 plant close
+20 	 17 	 NP[nb]/N 	 1 	 plant its
+20 	 18 	 N/N 	 1 	 plant Detroit
+20 	 19 	 N/N 	 1 	 plant assembly
+21 	 23 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 the beginning
+22 	 21 	 ((S\NP)\(S\NP))/N 	 3 	 week the
+24 	 23 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 Monday beginning
+<\s>
+<s id="wsj_0775.5"> 17
+1 	 0 	 NP[nb]/N 	 1 	 plant The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 plant builds
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 chassis builds
+3 	 4 	 (NP\NP)/NP 	 1 	 chassis for
+6 	 4 	 (NP\NP)/NP 	 2 	 vehicles for
+6 	 5 	 N/N 	 1 	 vehicles recreational
+9 	 8 	 (N/N)/(N/N) 	 2 	 450 about
+10 	 9 	 N/N 	 1 	 workers 450
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 workers will
+10 	 13 	 S[pss]\NP 	 1 	 workers affected <XB>
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+13 	 12 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 affected be
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 affected by
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 closing by
+16 	 15 	 NP[nb]/N 	 1 	 closing the
+<\s>
+<s id="wsj_0775.6"> 23
+1 	 2 	 (N/N)\(N/N) 	 2 	 No. 1
+4 	 0 	 NP[nb]/N 	 1 	 maker The
+4 	 1 	 N/N 	 1 	 maker No.
+4 	 3 	 N/N 	 1 	 maker auto
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 maker scheduled
+5 	 7 	 ((S\NP)\(S\NP))/N 	 2 	 scheduled this
+5 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 scheduled at
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 overtime scheduled
+8 	 7 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Janesville at
+11 	 10 	 NP/NP 	 1 	 Janesville its
+11 	 15 	 NP\NP 	 1 	 Janesville assembly
+11 	 16 	 NP\NP 	 1 	 Janesville plant
+13 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Wis. at
+13 	 10 	 NP/NP 	 1 	 Wis. its
+13 	 15 	 NP\NP 	 1 	 Wis. assembly
+13 	 16 	 NP\NP 	 1 	 Wis. plant
+18 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 manufacturer at
+18 	 19 	 (NP\NP)/NP 	 1 	 manufacturer of
+22 	 19 	 (NP\NP)/NP 	 2 	 Cavalier of
+22 	 20 	 NP[nb]/N 	 1 	 Cavalier the
+22 	 21 	 N/N 	 1 	 Cavalier Chevrolet
+<\s>
+<s id="wsj_0775.7"> 33
+5 	 0 	 NP[nb]/N 	 1 	 makers The
+5 	 1 	 N/N 	 1 	 makers nine
+5 	 2 	 N/N 	 1 	 makers major
+5 	 3 	 N/N 	 1 	 makers U.S.
+5 	 4 	 N/N 	 1 	 makers auto
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 makers plan
+5 	 8 	 (S[b]\NP)/NP 	 1 	 makers build <XB>
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plan
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+8 	 11 	 ((S\NP)\(S\NP))/N 	 2 	 build this
+8 	 14 	 (((S\NP)\(S\NP))/PP)/NP 	 2 	 build down
+8 	 27 	 ((S\NP)\(S\NP))\NP 	 2 	 build higher <XU>
+10 	 8 	 (S[b]\NP)/NP 	 2 	 vehicles build
+10 	 9 	 N/N 	 1 	 vehicles 147,121
+12 	 11 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+16 	 14 	 (((S\NP)\(S\NP))/PP)/NP 	 4 	 % down
+16 	 15 	 N/N 	 1 	 % 9.6
+17 	 14 	 (((S\NP)\(S\NP))/PP)/NP 	 3 	 from down
+17 	 22 	 (PP\PP)\NP 	 1 	 from ago
+19 	 17 	 PP/NP 	 1 	 162,767 from
+19 	 18 	 NP[nb]/N 	 1 	 162,767 the
+21 	 20 	 NP[nb]/N 	 1 	 year a
+21 	 22 	 (PP\PP)\NP 	 2 	 year ago
+26 	 25 	 N/N 	 1 	 % 2.5
+26 	 27 	 ((S\NP)\(S\NP))\NP 	 3 	 % higher
+27 	 28 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 higher than
+30 	 29 	 N/N 	 1 	 week last
+30 	 31 	 (NP[nb]/N)\NP 	 2 	 week 's
+32 	 28 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 143,534 than
+32 	 31 	 (NP[nb]/N)\NP 	 1 	 143,534 's
+<\s>
+<s id="wsj_0775.8"> 30
+2 	 0 	 N/N 	 1 	 Co. Ford
+2 	 1 	 N/N 	 1 	 Co. Motor
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Co. slated
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 slated again
+3 	 6 	 ((S\NP)\(S\NP))/N 	 2 	 slated this
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 slated at
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 overtime slated
+7 	 6 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Wixom at
+10 	 9 	 NP/NP 	 1 	 Wixom its
+10 	 28 	 NP\NP 	 1 	 Wixom assembly
+10 	 29 	 NP\NP 	 1 	 Wixom plants
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Mich. at
+12 	 9 	 NP/NP 	 1 	 Mich. its
+12 	 28 	 NP\NP 	 1 	 Mich. assembly
+12 	 29 	 NP\NP 	 1 	 Mich. plants
+14 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Wayne at
+14 	 9 	 NP/NP 	 1 	 Wayne its
+14 	 28 	 NP\NP 	 1 	 Wayne assembly
+14 	 29 	 NP\NP 	 1 	 Wayne plants
+16 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Mich. at
+16 	 9 	 NP/NP 	 1 	 Mich. its
+16 	 28 	 NP\NP 	 1 	 Mich. assembly
+16 	 29 	 NP\NP 	 1 	 Mich. plants
+19 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 City at
+19 	 9 	 NP/NP 	 1 	 City its
+19 	 18 	 N/N 	 1 	 City Kansas
+19 	 28 	 NP\NP 	 1 	 City assembly
+19 	 29 	 NP\NP 	 1 	 City plants
+21 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Mo. at
+21 	 9 	 NP/NP 	 1 	 Mo. its
+21 	 28 	 NP\NP 	 1 	 Mo. assembly
+21 	 29 	 NP\NP 	 1 	 Mo. plants
+24 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Norfolk at
+24 	 9 	 NP/NP 	 1 	 Norfolk its
+24 	 28 	 NP\NP 	 1 	 Norfolk assembly
+24 	 29 	 NP\NP 	 1 	 Norfolk plants
+26 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Va. at
+26 	 9 	 NP/NP 	 1 	 Va. its
+26 	 28 	 NP\NP 	 1 	 Va. assembly
+26 	 29 	 NP\NP 	 1 	 Va. plants
+<\s>
+<s id="wsj_0775.9"> 19
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 They build
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 Car build
+5 	 2 	 NP[nb]/N 	 1 	 Car the
+5 	 3 	 N/N 	 1 	 Car Lincoln
+5 	 4 	 N/N 	 1 	 Car Town
+7 	 1 	 (S[dcl]\NP)/NP 	 2 	 Continental build
+7 	 2 	 NP[nb]/N 	 1 	 Continental the
+10 	 1 	 (S[dcl]\NP)/NP 	 2 	 VII build
+10 	 2 	 NP[nb]/N 	 1 	 VII the
+10 	 9 	 N/N 	 1 	 VII Mark
+14 	 1 	 (S[dcl]\NP)/NP 	 2 	 Escort build
+14 	 12 	 NP[nb]/N 	 1 	 Escort the
+14 	 13 	 N/N 	 1 	 Escort Ford
+18 	 1 	 (S[dcl]\NP)/NP 	 2 	 trucks build
+18 	 16 	 N/N 	 1 	 trucks full-sized
+18 	 17 	 N/N 	 1 	 trucks pickup
+<\s>
+<s id="wsj_0775.10"> 27
+1 	 0 	 N/N 	 1 	 Corp. Chrysler
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Corp. scheduled
+2 	 4 	 ((S\NP)\(S\NP))/N 	 2 	 scheduled this
+2 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 scheduled at
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 overtime scheduled
+5 	 4 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+12 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 No. at
+12 	 7 	 NP/NP 	 1 	 No. its
+12 	 8 	 N/N 	 1 	 No. St.
+12 	 9 	 N/N 	 1 	 No. Louis
+12 	 10 	 N/N 	 1 	 No. Assembly
+12 	 11 	 N/N 	 1 	 No. Plant
+12 	 13 	 N\N 	 1 	 No. 2
+12 	 15 	 NP\NP 	 1 	 No. Newark
+12 	 17 	 NP\NP 	 1 	 No. Del. <XU>
+12 	 21 	 NP\NP 	 1 	 No. Heights <XU>
+12 	 23 	 NP\NP 	 1 	 No. Mich. <XU>
+15 	 25 	 (NP\NP)\(NP\NP) 	 2 	 Newark assembly
+15 	 26 	 (NP\NP)\(NP\NP) 	 2 	 Newark plants
+17 	 25 	 (NP\NP)\(NP\NP) 	 2 	 Del. assembly
+17 	 26 	 (NP\NP)\(NP\NP) 	 2 	 Del. plants
+21 	 20 	 (NP\NP)/(NP\NP) 	 2 	 Heights Sterling
+21 	 25 	 (NP\NP)\(NP\NP) 	 2 	 Heights assembly
+21 	 26 	 (NP\NP)\(NP\NP) 	 2 	 Heights plants
+23 	 25 	 (NP\NP)\(NP\NP) 	 2 	 Mich. assembly
+23 	 26 	 (NP\NP)\(NP\NP) 	 2 	 Mich. plants
+<\s>
+<s id="wsj_0775.11"> 14
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 They build
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 minivans build
+3 	 2 	 N/N 	 1 	 minivans extended
+7 	 1 	 (S[dcl]\NP)/NP 	 2 	 Spirit build
+7 	 5 	 NP[nb]/N 	 1 	 Spirit the
+7 	 6 	 N/N 	 1 	 Spirit Dodge
+9 	 1 	 (S[dcl]\NP)/NP 	 2 	 Acclaim build
+9 	 5 	 NP[nb]/N 	 1 	 Acclaim the
+11 	 1 	 (S[dcl]\NP)/NP 	 2 	 Shadow build
+11 	 5 	 NP[nb]/N 	 1 	 Shadow the
+13 	 1 	 (S[dcl]\NP)/NP 	 2 	 Sundance build
+13 	 5 	 NP[nb]/N 	 1 	 Sundance the
+<\s>
+<s id="wsj_0775.12"> 9
+3 	 2 	 N/N 	 1 	 change Percentage
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 change is
+3 	 5 	 S[adj]\NP 	 1 	 change greater <XB>
+4 	 0 	 S/S 	 1 	 is d
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 greater is
+5 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 greater than
+8 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 % than
+8 	 7 	 N/N 	 1 	 % 999
+<\s>
+<s id="wsj_0775.13"> 3
+0 	 1 	 (N\N)/NP 	 1 	 e -
+2 	 1 	 (N\N)/NP 	 2 	 Estimated -
+<\s>
+<s id="wsj_0775.14"> 8
+2 	 0 	 (S\NP)/(S\NP) 	 2 	 Includes f
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 Prizm Includes
+4 	 3 	 N/N 	 1 	 Prizm Chevrolet
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 Corolla Includes
+7 	 6 	 N/N 	 1 	 Corolla Toyota
+<\s>
+<s id="wsj_0775.15"> 3
+0 	 1 	 (N\N)/NP 	 1 	 r -
+2 	 1 	 (N\N)/NP 	 2 	 Revised -
+<\s>
+<s id="wsj_0775.16"> 10
+4 	 2 	 N/N 	 1 	 figure Year-to-date
+4 	 3 	 N/N 	 1 	 figure 1988
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 figure includes
+5 	 0 	 S/S 	 1 	 includes x
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 domestic-production includes
+7 	 6 	 N/N 	 1 	 domestic-production Volkswagen
+7 	 8 	 (NP\NP)/NP 	 1 	 domestic-production through
+9 	 8 	 (NP\NP)/NP 	 2 	 July through
+<\s>

@@ -1,0 +1,110 @@
+<s id="wsj_2080.1"> 33
+3 	 0 	 NP[nb]/N 	 1 	 rate The
+3 	 1 	 N/N 	 1 	 rate average
+3 	 2 	 N/N 	 1 	 rate interest
+3 	 4 	 S[dcl]\NP 	 1 	 rate fell
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+4 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+5 	 8 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 to at
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+7 	 6 	 N/N 	 1 	 % 8.292
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Citicorp 's
+13 	 11 	 (N/N)/N[num] 	 2 	 million $
+13 	 12 	 N/N 	 1 	 million 50
+15 	 8 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 auction at
+15 	 10 	 (NP[nb]/N)\NP 	 1 	 auction 's
+15 	 11 	 (N/N)/N[num] 	 1 	 auction $
+15 	 14 	 N/N 	 1 	 auction weekly
+15 	 16 	 (N\N)/NP 	 1 	 auction of
+19 	 16 	 (N\N)/NP 	 2 	 paper of
+19 	 17 	 N/N 	 1 	 paper 91-day
+19 	 18 	 N/N 	 1 	 paper commercial
+23 	 8 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 IOUs at
+23 	 10 	 (NP[nb]/N)\NP 	 1 	 IOUs 's
+23 	 22 	 N/N 	 1 	 IOUs corporate
+25 	 28 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 from at
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 % from
+27 	 26 	 N/N 	 1 	 % 8.483
+30 	 29 	 N/N 	 1 	 week last
+30 	 31 	 (NP[nb]/N)\NP 	 2 	 week 's
+32 	 28 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 sale at
+32 	 31 	 (NP[nb]/N)\NP 	 1 	 sale 's
+<\s>
+<s id="wsj_2080.2"> 15
+0 	 1 	 (S[ng]\NP)/NP 	 1 	 Bids totaling <XB>
+0 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Bids were
+0 	 6 	 S[pss]\NP 	 1 	 Bids submitted <XB>
+2 	 1 	 (S[ng]\NP)/NP 	 2 	 $ totaling
+4 	 2 	 N/N[num] 	 1 	 million $
+4 	 3 	 N/N 	 1 	 million 465
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 submitted were
+10 	 9 	 N/N 	 1 	 bids accepted
+10 	 11 	 (S[dcl]\NP)/PP 	 1 	 bids were
+12 	 11 	 (S[dcl]\NP)/PP 	 2 	 at were
+14 	 12 	 PP/NP 	 1 	 % at
+14 	 13 	 N/N 	 1 	 % 8.292
+<\s>
+<s id="wsj_2080.3"> 29
+0 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Citicorp said
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 said also
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+6 	 4 	 NP[nb]/N 	 1 	 rate the
+6 	 5 	 N/N 	 1 	 rate average
+6 	 7 	 S[dcl]\NP 	 1 	 rate fell
+7 	 3 	 S[em]/S[dcl] 	 1 	 fell that
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+7 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+8 	 11 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 to at
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+10 	 9 	 N/N 	 1 	 % 7.986
+15 	 13 	 (N/N)/N[num] 	 2 	 million $
+15 	 14 	 N/N 	 1 	 million 50
+16 	 11 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 auction at
+16 	 12 	 NP[nb]/N 	 1 	 auction its
+16 	 13 	 (N/N)/N[num] 	 1 	 auction $
+16 	 17 	 (NP\NP)/NP 	 1 	 auction of
+20 	 17 	 (NP\NP)/NP 	 2 	 paper of
+20 	 18 	 N/N 	 1 	 paper 182-day
+20 	 19 	 N/N 	 1 	 paper commercial
+21 	 24 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 from at
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 % from
+23 	 22 	 N/N 	 1 	 % 8.1255
+26 	 25 	 N/N 	 1 	 week last
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 week 's
+28 	 24 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 sale at
+28 	 27 	 (NP[nb]/N)\NP 	 1 	 sale 's
+<\s>
+<s id="wsj_2080.4"> 15
+0 	 1 	 (S[ng]\NP)/NP 	 1 	 Bids totaling <XB>
+0 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Bids were
+0 	 6 	 S[pss]\NP 	 1 	 Bids submitted <XB>
+2 	 1 	 (S[ng]\NP)/NP 	 2 	 $ totaling
+4 	 2 	 N/N[num] 	 1 	 million $
+4 	 3 	 N/N 	 1 	 million 415
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 submitted were
+10 	 9 	 N/N 	 1 	 bids accepted
+10 	 11 	 (S[dcl]\NP)/PP 	 1 	 bids were
+12 	 11 	 (S[dcl]\NP)/PP 	 2 	 at were
+14 	 12 	 PP/NP 	 1 	 % at
+14 	 13 	 N/N 	 1 	 % 7.986
+<\s>
+<s id="wsj_2080.5"> 18
+3 	 0 	 NP[nb]/N 	 1 	 company The
+3 	 1 	 N/N 	 1 	 company bank
+3 	 2 	 N/N 	 1 	 company holding
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 company will
+3 	 5 	 (S[b]\NP)/NP 	 1 	 company auction <XB>
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 auction will
+5 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 auction next
+7 	 5 	 (S[b]\NP)/NP 	 2 	 $ auction
+7 	 6 	 NP[nb]/N 	 1 	 $ another
+7 	 10 	 (NP\NP)/NP 	 1 	 $ of
+7 	 13 	 (NP\NP)/NP 	 1 	 $ in
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 50
+12 	 10 	 (NP\NP)/NP 	 2 	 paper of
+12 	 11 	 N/N 	 1 	 paper commercial
+15 	 13 	 (NP\NP)/NP 	 2 	 maturity in
+15 	 14 	 NP[nb]/N 	 1 	 maturity each
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 Tuesday next
+<\s>

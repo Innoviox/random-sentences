@@ -1,0 +1,109 @@
+<s id="wsj_1040.1"> 18
+1 	 0 	 N/N 	 1 	 Ltd. ONEIDA
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Ltd. declared
+5 	 4 	 (N/N)/(N/N) 	 2 	 % 10
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 dividend declared
+7 	 3 	 NP[nb]/N 	 1 	 dividend a
+7 	 5 	 N/N 	 1 	 dividend %
+7 	 6 	 N/N 	 1 	 dividend stock
+7 	 9 	 (S[adj]\NP)/NP 	 1 	 dividend payable <XB>
+9 	 12 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 payable to
+10 	 9 	 (S[adj]\NP)/NP 	 2 	 Dec. payable
+11 	 10 	 N/N[num] 	 1 	 15 Dec.
+13 	 12 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 stock to
+13 	 14 	 (NP\NP)/NP 	 1 	 stock of
+15 	 14 	 (NP\NP)/NP 	 2 	 record of
+15 	 16 	 (NP\NP)/N[num] 	 1 	 record Nov.
+17 	 16 	 (NP\NP)/N[num] 	 2 	 17 Nov.
+<\s>
+<s id="wsj_1040.2"> 32
+3 	 1 	 (N/N)/(N/N) 	 2 	 N.Y. Oneida
+5 	 0 	 NP[nb]/N 	 1 	 maker The
+5 	 3 	 N/N 	 1 	 maker N.Y.
+5 	 6 	 (NP\NP)/NP 	 1 	 maker of
+5 	 14 	 (S[dcl]\NP)/NP 	 1 	 maker declared
+9 	 7 	 (N/N)/(N/N) 	 2 	 food-service consumer
+11 	 7 	 (N/N)/(N/N) 	 2 	 industrial consumer
+12 	 6 	 (NP\NP)/NP 	 2 	 products of
+12 	 9 	 N/N 	 1 	 products food-service <XU>
+12 	 11 	 N/N 	 1 	 products industrial
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 declared also
+18 	 14 	 (S[dcl]\NP)/NP 	 2 	 dividend declared
+18 	 15 	 NP[nb]/N 	 1 	 dividend a
+18 	 16 	 N/N 	 1 	 dividend quarterly
+18 	 17 	 N/N 	 1 	 dividend cash
+18 	 19 	 (NP\NP)/NP 	 1 	 dividend of
+18 	 25 	 (NP\NP)/NP 	 1 	 dividend with
+21 	 19 	 (NP\NP)/NP 	 2 	 cents of
+21 	 20 	 N/N 	 1 	 cents 12
+21 	 22 	 (NP\NP)/N 	 1 	 cents a
+23 	 22 	 (NP\NP)/N 	 2 	 share a
+31 	 25 	 (NP\NP)/NP 	 2 	 dates with
+31 	 26 	 NP[nb]/N 	 1 	 dates the
+31 	 27 	 N/N 	 1 	 dates same
+31 	 28 	 N/N 	 1 	 dates payable <XU>
+31 	 30 	 N/N 	 1 	 dates record
+<\s>
+<s id="wsj_1040.3"> 19
+2 	 0 	 NP[nb]/N 	 1 	 dividend The
+2 	 1 	 N/N 	 1 	 dividend cash
+2 	 3 	 (S[pss]\NP)/PP 	 1 	 dividend paid <XB>
+2 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 dividend will
+2 	 10 	 (S[b]\NP)/PP 	 1 	 dividend apply <XB>
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 on paid
+7 	 4 	 PP/NP 	 1 	 stock on
+7 	 5 	 NP[nb]/N 	 1 	 stock the
+7 	 6 	 N/N 	 1 	 stock common
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 will also
+9 	 18 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 apply will
+11 	 10 	 (S[b]\NP)/PP 	 2 	 to apply
+14 	 11 	 PP/NP 	 1 	 shares to
+14 	 12 	 NP[nb]/N 	 1 	 shares the
+14 	 13 	 N/N 	 1 	 shares new
+17 	 16 	 NP[nb]/N 	 1 	 company the
+17 	 18 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>
+<s id="wsj_1040.4"> 14
+1 	 0 	 NP[nb]/N 	 1 	 move The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 move rewards
+1 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 move should <XU>
+1 	 6 	 (S[b]\NP)/NP 	 1 	 move improve <XU>
+2 	 13 	 (S[dcl]\S[dcl])\NP 	 1 	 rewards said
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 shareholders rewards
+5 	 13 	 (S[dcl]\S[dcl])\NP 	 1 	 should said
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 improve should
+8 	 7 	 NP[nb]/N 	 1 	 stock the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 stock 's
+10 	 6 	 (S[b]\NP)/NP 	 2 	 liquidity improve
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 liquidity 's
+12 	 13 	 (S[dcl]\S[dcl])\NP 	 2 	 Oneida said
+<\s>
+<s id="wsj_1040.5"> 8
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 company has
+5 	 3 	 (N/N)/(N/N) 	 2 	 million about
+5 	 4 	 (N/N)/(N/N) 	 2 	 million 8.8
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 shares has
+6 	 5 	 N/N 	 1 	 shares million
+6 	 7 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>
+<s id="wsj_1040.6"> 20
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Oneida 's
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 shares 's
+11 	 12 	 (S[dcl]\NP)/PP 	 1 	 shares closed
+12 	 0 	 (S/S)/NP 	 1 	 closed In
+12 	 7 	 S/S 	 1 	 closed yesterday
+12 	 19 	 (S\NP)\(S\NP) 	 2 	 closed unchanged
+13 	 12 	 (S[dcl]\NP)/PP 	 2 	 at closed
+14 	 13 	 PP/NP 	 1 	 $ at
+14 	 16 	 (NP\NP)/N 	 1 	 $ a
+15 	 14 	 N/N[num] 	 1 	 18.375 $
+17 	 16 	 (NP\NP)/N 	 2 	 share a
+<\s>

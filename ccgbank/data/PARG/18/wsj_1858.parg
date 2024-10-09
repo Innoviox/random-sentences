@@ -1,0 +1,76 @@
+<s id="wsj_1858.1"> 33
+2 	 0 	 N/N 	 1 	 Inc. Silicon
+2 	 1 	 N/N 	 1 	 Inc. Graphics
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Inc. 's
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 profit 's
+5 	 4 	 N/N 	 1 	 profit first-quarter
+5 	 6 	 S[dcl]\NP 	 1 	 profit rose
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 rose sharply
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+6 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 5.2
+15 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+15 	 14 	 N/N 	 1 	 cents 28
+15 	 16 	 (NP\NP)/N 	 1 	 cents a
+17 	 16 	 (NP\NP)/N 	 2 	 share a
+19 	 32 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 3 	 from ago
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+22 	 20 	 N/N[num] 	 1 	 million $
+22 	 21 	 N/N 	 1 	 million 1
+26 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+26 	 25 	 N/N 	 1 	 cents six
+26 	 27 	 (NP\NP)/N 	 1 	 cents a
+28 	 27 	 (NP\NP)/N 	 2 	 share a
+31 	 30 	 NP[nb]/N 	 1 	 year a
+31 	 32 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 4 	 year ago
+<\s>
+<s id="wsj_1858.2"> 15
+1 	 0 	 NP[nb]/N 	 1 	 maker The
+1 	 2 	 (NP\NP)/NP 	 1 	 maker of
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 maker said
+4 	 2 	 (NP\NP)/NP 	 2 	 workstations of
+4 	 3 	 N/N 	 1 	 workstations computer
+7 	 6 	 NP[nb]/N 	 1 	 surge a
+7 	 8 	 (NP\NP)/NP 	 1 	 surge of
+7 	 11 	 (S[dcl]\NP)/PP 	 1 	 surge contributed
+10 	 8 	 (NP\NP)/NP 	 2 	 orders of
+10 	 9 	 N/N 	 1 	 orders government
+11 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 contributed said
+12 	 11 	 (S[dcl]\NP)/PP 	 2 	 to contributed
+14 	 12 	 PP/NP 	 1 	 increase to
+14 	 13 	 NP[nb]/N 	 1 	 increase the
+<\s>
+<s id="wsj_1858.3"> 15
+0 	 1 	 S[dcl]\NP 	 1 	 Revenue rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 95
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 86.4
+8 	 12 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 3 	 from the
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 44.3
+13 	 12 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 4 	 year the
+<\s>
+<s id="wsj_1858.4"> 18
+3 	 0 	 (S/S)/NP 	 2 	 trading In
+3 	 1 	 N/N 	 1 	 trading national
+3 	 2 	 N/N 	 1 	 trading over-the-counter
+6 	 5 	 NP[nb]/N 	 1 	 company the
+6 	 7 	 (S[dcl]\NP)/PP 	 1 	 company closed
+7 	 0 	 (S/S)/NP 	 1 	 closed In
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 closed yesterday
+7 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+9 	 7 	 (S[dcl]\NP)/PP 	 2 	 at closed
+10 	 9 	 PP/NP 	 1 	 $ at
+10 	 12 	 (NP\NP)/N 	 1 	 $ a
+11 	 10 	 N/N[num] 	 1 	 23.25 $
+13 	 12 	 (NP\NP)/N 	 2 	 share a
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 cents down
+17 	 16 	 N/N 	 1 	 cents 25
+<\s>

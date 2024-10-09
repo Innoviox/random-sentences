@@ -1,0 +1,358 @@
+<s id="wsj_1111.1"> 32
+3 	 0 	 N/N 	 1 	 directors Norfolk
+3 	 1 	 N/N 	 1 	 directors Southern
+3 	 2 	 N/N 	 1 	 directors Corp.
+3 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 directors authorized
+7 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 company authorized
+7 	 5 	 NP[nb]/N 	 1 	 company the
+7 	 6 	 N/N 	 1 	 company railroad
+7 	 9 	 (S[b]\NP)/NP 	 1 	 company buy <XB>
+8 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to authorized
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 buy back
+11 	 9 	 (S[b]\NP)/NP 	 2 	 as buy
+11 	 16 	 (NP\NP)/NP 	 1 	 as of
+11 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 as which
+11 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 as would <XB>
+11 	 22 	 (S[b]\NP)/NP 	 1 	 as have <XB>
+12 	 11 	 (N/PP)/(S[adj]\NP) 	 2 	 many as
+13 	 11 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+15 	 13 	 PP/NP 	 1 	 million as
+15 	 14 	 N/N 	 1 	 million 45
+18 	 16 	 (NP\NP)/NP 	 2 	 shares of
+18 	 17 	 NP[nb]/N 	 1 	 shares its
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would which
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+25 	 22 	 (S[b]\NP)/NP 	 2 	 value have
+25 	 23 	 NP[nb]/N 	 1 	 value a
+25 	 24 	 N/N 	 1 	 value current
+25 	 26 	 (NP\NP)/NP 	 1 	 value of
+27 	 28 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+29 	 26 	 (NP\NP)/NP 	 2 	 $ of
+29 	 28 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+31 	 29 	 N/N[num] 	 1 	 billion $
+31 	 30 	 N/N 	 1 	 billion 1.7
+<\s>
+<s id="wsj_1111.2"> 24
+1 	 0 	 NP[nb]/N 	 1 	 buy-back The
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 buy-back coupled <XB>
+1 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 buy-back would
+1 	 16 	 (S[b]\NP)/NP 	 1 	 buy-back reduce <XB>
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 with coupled
+7 	 6 	 (N/N)/(N/N) 	 2 	 completed nearly
+9 	 4 	 PP/NP 	 1 	 purchase with
+9 	 5 	 NP[nb]/N 	 1 	 purchase a
+9 	 7 	 N/N 	 1 	 purchase completed
+9 	 8 	 N/N 	 1 	 purchase earlier
+9 	 10 	 (NP\NP)/NP 	 1 	 purchase of
+12 	 11 	 (N/N)/(N/N) 	 2 	 million 20
+13 	 10 	 (NP\NP)/NP 	 2 	 shares of
+13 	 12 	 N/N 	 1 	 shares million
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reduce would
+16 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 reduce by
+17 	 16 	 (S[b]\NP)/NP 	 2 	 shares reduce
+17 	 18 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+20 	 21 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+22 	 21 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 26 than
+23 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 % by
+23 	 22 	 N/N 	 1 	 % 26
+<\s>
+<s id="wsj_1111.3"> 11
+3 	 1 	 (N/N)/(N/N) 	 2 	 Va. Norfolk
+5 	 0 	 NP[nb]/N 	 1 	 company The
+5 	 3 	 N/N 	 1 	 company Va.
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 company has
+8 	 7 	 (N/N)/(N/N) 	 2 	 million 172.2
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 shares has
+9 	 8 	 N/N 	 1 	 shares million
+9 	 10 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>
+<s id="wsj_1111.4"> 26
+2 	 0 	 (S/S)/NP 	 2 	 statement In
+2 	 1 	 NP[nb]/N 	 1 	 statement a
+6 	 4 	 N/N 	 1 	 McKinnon Arnold
+6 	 5 	 N/N 	 1 	 McKinnon B.
+6 	 14 	 (S[dcl]\NP)/S[em] 	 1 	 McKinnon noted
+8 	 14 	 (S[dcl]\NP)/S[em] 	 1 	 chairman noted
+12 	 10 	 N/N 	 1 	 officer chief
+12 	 11 	 N/N 	 1 	 officer executive
+12 	 14 	 (S[dcl]\NP)/S[em] 	 1 	 officer noted
+14 	 0 	 (S/S)/NP 	 1 	 noted In
+15 	 14 	 (S[dcl]\NP)/S[em] 	 2 	 that noted
+19 	 16 	 NP[nb]/N 	 1 	 program the
+19 	 17 	 N/N 	 1 	 program new
+19 	 18 	 N/N 	 1 	 program repurchase
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 program should
+19 	 21 	 (S[b]\NP)/(S[to]\NP) 	 1 	 program serve <XB>
+19 	 23 	 (S[b]\NP)/NP 	 1 	 program enhance <XB>
+20 	 15 	 S[em]/S[dcl] 	 1 	 should that
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 serve should
+22 	 21 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to serve
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 enhance to
+25 	 23 	 (S[b]\NP)/NP 	 2 	 value enhance
+25 	 24 	 N/N 	 1 	 value shareholder
+<\s>
+<s id="wsj_1111.5"> 21
+1 	 0 	 NP[nb]/N 	 1 	 spokeswoman A
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokeswoman said
+4 	 3 	 NP[nb]/N 	 1 	 company the
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 company will
+4 	 6 	 (S[b]\NP)/NP 	 1 	 company finance <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 finance will
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 finance with
+8 	 6 	 (S[b]\NP)/NP 	 2 	 buy-back finance
+8 	 7 	 NP[nb]/N 	 1 	 buy-back the
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 cash with
+10 	 11 	 (NP\NP)/NP 	 1 	 cash on
+12 	 11 	 (NP\NP)/NP 	 2 	 hand on
+14 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 borrowing with
+16 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 cash with
+16 	 20 	 (S[b]\NP)/NP 	 2 	 cash generate <XU>
+17 	 18 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Norfolk expects
+17 	 20 	 (S[b]\NP)/NP 	 1 	 Norfolk generate <XB>
+19 	 18 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 generate to
+<\s>
+<s id="wsj_1111.6"> 12
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Analysts said
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 they expected
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 expected said
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 action expected
+5 	 4 	 NP[nb]/N 	 1 	 action the
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 investors applauded
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 move applauded
+11 	 10 	 NP[nb]/N 	 1 	 move the
+<\s>
+<s id="wsj_1111.7"> 21
+2 	 0 	 (S/S)/NP 	 2 	 trading In
+2 	 1 	 N/N 	 1 	 trading composite
+8 	 3 	 (S/S)/NP 	 2 	 Exchange on
+8 	 4 	 NP[nb]/N 	 1 	 Exchange the
+8 	 5 	 N/N 	 1 	 Exchange New
+8 	 6 	 N/N 	 1 	 Exchange York
+8 	 7 	 N/N 	 1 	 Exchange Stock
+12 	 10 	 N/N 	 1 	 shares Norfolk
+12 	 11 	 N/N 	 1 	 shares Southern
+12 	 13 	 (S[dcl]\NP)/PP 	 1 	 shares closed
+13 	 0 	 (S/S)/NP 	 1 	 closed In
+13 	 3 	 (S/S)/NP 	 1 	 closed on
+13 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+14 	 13 	 (S[dcl]\NP)/PP 	 2 	 at closed
+15 	 14 	 PP/NP 	 1 	 $ at
+16 	 15 	 N/N[num] 	 1 	 37.875 $
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 $ up
+20 	 19 	 N/N[num] 	 1 	 1.125 $
+<\s>
+<s id="wsj_1111.8"> 17
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 analysts do
+2 	 5 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 analysts expect <XB>
+3 	 0 	 S/S 	 1 	 do Still
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 do n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 expect do
+7 	 5 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 buy-back expect
+7 	 6 	 NP[nb]/N 	 1 	 buy-back the
+7 	 10 	 (S[b]\NP)/NP 	 1 	 buy-back affect <XB>
+8 	 5 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+10 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 affect to
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 affect significantly
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 affect in
+12 	 10 	 (S[b]\NP)/NP 	 2 	 earnings affect
+12 	 11 	 N/N 	 1 	 earnings per-share
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 term in
+16 	 14 	 NP[nb]/N 	 1 	 term the
+16 	 15 	 N/N 	 1 	 term short
+<\s>
+<s id="wsj_1111.9"> 15
+1 	 0 	 NP[nb]/N 	 1 	 impact The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 impact wo
+1 	 6 	 S[adj]\NP 	 1 	 impact great <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 wo n't
+2 	 8 	 (S[dcl]\S[dcl])/NP 	 1 	 wo said
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be wo
+6 	 4 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 great be
+6 	 5 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 great that
+10 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 Lidgerwood said
+10 	 9 	 N/N 	 1 	 Lidgerwood Graeme
+10 	 11 	 (NP\NP)/NP 	 1 	 Lidgerwood of
+14 	 11 	 (NP\NP)/NP 	 2 	 Corp of
+14 	 12 	 N/N 	 1 	 Corp First
+14 	 13 	 N/N 	 1 	 Corp Boston
+<\s>
+<s id="wsj_1111.10"> 20
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 That is
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 is in
+1 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+3 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 part in
+5 	 1 	 (S[dcl]\NP)/PP 	 2 	 of is
+5 	 4 	 PP/PP 	 1 	 of because
+7 	 5 	 PP/NP 	 1 	 effect of
+7 	 6 	 NP[nb]/N 	 1 	 effect the
+7 	 8 	 (NP\NP)/(S[ng]\NP) 	 1 	 effect of
+9 	 8 	 (NP\NP)/(S[ng]\NP) 	 2 	 having of
+10 	 9 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to having
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 average to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 number average
+13 	 12 	 NP[nb]/N 	 1 	 number the
+13 	 14 	 (NP\NP)/NP 	 1 	 number of
+15 	 14 	 (NP\NP)/NP 	 2 	 shares of
+15 	 16 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+18 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 she said
+<\s>
+<s id="wsj_1111.11"> 26
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+4 	 3 	 N/N 	 1 	 Lidgerwood Mrs.
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Lidgerwood said
+7 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Norfolk is
+7 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Norfolk likely <XB>
+8 	 0 	 (S/S)/NP 	 1 	 is In
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said <XU>
+9 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely is
+10 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 draw to
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 draw down
+11 	 15 	 (S\NP)\(S\NP) 	 2 	 draw initially
+14 	 11 	 (S[b]\NP)/NP 	 2 	 cash draw
+14 	 13 	 NP[nb]/N 	 1 	 cash its
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 finance to
+19 	 17 	 (S[b]\NP)/NP 	 2 	 purchases finance
+19 	 18 	 NP[nb]/N 	 1 	 purchases the
+22 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 forfeit to
+22 	 21 	 (S\NP)/(S\NP) 	 2 	 forfeit thus
+25 	 22 	 (S[b]\NP)/NP 	 2 	 income forfeit
+25 	 23 	 NP[nb]/N 	 1 	 income some
+25 	 24 	 N/N 	 1 	 income interest
+<\s>
+<s id="wsj_1111.12"> 20
+1 	 0 	 (S/S)/(S/S) 	 2 	 term Longer
+6 	 5 	 NP[nb]/N 	 1 	 buy-back the
+6 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 buy-back is
+6 	 8 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 buy-back expected <XB>
+6 	 10 	 (S[b]\NP)/NP 	 1 	 buy-back increase <XB>
+7 	 1 	 S/S 	 1 	 is term
+7 	 3 	 S/S 	 1 	 is however
+7 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+9 	 8 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 increase to
+10 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 increase after
+11 	 10 	 (S[b]\NP)/NP 	 2 	 earnings increase
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 after especially
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 1990 after
+18 	 17 	 N/N 	 1 	 Lidgerwood Mrs.
+18 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 Lidgerwood said
+<\s>
+<s id="wsj_1111.13"> 26
+4 	 2 	 NP[nb]/N 	 1 	 program the
+4 	 3 	 N/N 	 1 	 program extensive
+4 	 7 	 (S[dcl]\NP)/NP 	 1 	 program establishes
+6 	 5 	 ((S\NP)/(S\NP))/NP 	 3 	 effect in
+7 	 0 	 S/S 	 1 	 establishes Moreover
+7 	 5 	 ((S\NP)/(S\NP))/NP 	 2 	 establishes in
+7 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 establishes said
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 floor establishes
+9 	 8 	 NP[nb]/N 	 1 	 floor a
+9 	 10 	 (NP\NP)/NP 	 1 	 floor for
+13 	 10 	 (NP\NP)/NP 	 2 	 price for
+13 	 11 	 NP[nb]/N 	 1 	 price the
+13 	 12 	 N/N 	 1 	 price stock
+17 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 Price said
+17 	 16 	 N/N 	 1 	 Price Joel
+19 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst said
+19 	 20 	 (NP\NP)/NP 	 1 	 analyst for
+25 	 20 	 (NP\NP)/NP 	 2 	 Jenrette for
+25 	 21 	 N/N 	 1 	 Jenrette Donaldson
+25 	 23 	 N/N 	 1 	 Jenrette Lufkin
+25 	 24 	 N/N 	 1 	 Jenrette &
+<\s>
+<s id="wsj_1111.14"> 25
+1 	 0 	 NP[nb]/N 	 1 	 buy-back The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 buy-back is
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 is really
+2 	 24 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 comfort is
+5 	 4 	 NP[nb]/N 	 1 	 comfort a
+5 	 6 	 (NP\NP)/NP 	 1 	 comfort to
+5 	 14 	 (NP\NP)/S[dcl] 	 1 	 comfort that
+7 	 6 	 (NP\NP)/NP 	 2 	 those to
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 those who
+7 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 those want <XB>
+7 	 11 	 (S[b]\NP)/NP 	 1 	 those buy <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 want who
+10 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to want
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 stock buy
+13 	 12 	 NP[nb]/N 	 1 	 stock the
+15 	 16 	 (S[dcl]\NP[thr])/NP 	 1 	 there is
+16 	 14 	 (NP\NP)/S[dcl] 	 2 	 is that
+19 	 18 	 (N/N)/N 	 2 	 price -LCB-
+21 	 16 	 (S[dcl]\NP[thr])/NP 	 2 	 floor is
+21 	 17 	 NP[nb]/N 	 1 	 floor a
+21 	 18 	 (N/N)/N 	 1 	 floor -LCB-
+23 	 24 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_1111.15"> 23
+3 	 0 	 (S/S)/NP 	 2 	 price At
+3 	 1 	 NP[nb]/N 	 1 	 price a
+3 	 2 	 N/N 	 1 	 price certain
+7 	 6 	 NP[nb]/N 	 1 	 management the
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 management thinks
+8 	 5 	 (S/S)/S[dcl] 	 2 	 thinks if
+11 	 10 	 NP[nb]/N 	 1 	 stock the
+11 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 stock is
+11 	 14 	 S[adj]\NP 	 1 	 stock cheap <XB>
+13 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 is thinks
+14 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 cheap is
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they can
+16 	 18 	 S[b]\NP 	 1 	 they go <XB>
+16 	 21 	 (S[b]\NP)/NP 	 1 	 they buy <XU>
+17 	 0 	 (S/S)/NP 	 1 	 can At
+17 	 5 	 (S/S)/S[dcl] 	 1 	 can if
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go can
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 go in
+21 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 buy can
+22 	 21 	 (S[b]\NP)/NP 	 2 	 it buy
+<\s>
+<s id="wsj_1111.16"> 13
+2 	 0 	 (S/S)/NP 	 2 	 program Under
+2 	 1 	 NP[nb]/N 	 1 	 program the
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Norfolk plans
+4 	 7 	 (S[b]\NP)/NP 	 1 	 Norfolk acquire <XB>
+5 	 0 	 (S/S)/NP 	 1 	 plans Under
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+7 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 acquire in
+8 	 7 	 (S[b]\NP)/NP 	 2 	 shares acquire
+12 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 market in
+12 	 10 	 NP[nb]/N 	 1 	 market the
+12 	 11 	 N/N 	 1 	 market open
+<\s>
+<s id="wsj_1111.17"> 17
+3 	 0 	 (S/S)/NP 	 2 	 plan Under
+3 	 1 	 NP[nb]/N 	 1 	 plan the
+3 	 2 	 N/N 	 1 	 plan earlier
+5 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Norfolk was
+5 	 7 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Norfolk authorized <XB>
+5 	 11 	 (S[b]\NP)/NP 	 1 	 Norfolk buy <XB>
+6 	 0 	 (S/S)/NP 	 1 	 was Under
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 authorized was
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 authorized in
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 1987 in
+10 	 7 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to authorized
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+15 	 12 	 (N/N)/(N/N) 	 2 	 million up
+15 	 13 	 (N/N)/(N/N) 	 2 	 million to
+15 	 14 	 (N/N)/(N/N) 	 2 	 million 20
+16 	 11 	 (S[b]\NP)/NP 	 2 	 shares buy
+16 	 15 	 N/N 	 1 	 shares million
+<\s>
+<s id="wsj_1111.18"> 8
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 It has
+0 	 2 	 (S[pt]\NP)/NP 	 1 	 It purchased <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 purchased has
+5 	 2 	 (S[pt]\NP)/NP 	 2 	 million purchased
+5 	 3 	 N/N 	 1 	 million about
+5 	 4 	 N/N 	 1 	 million 19
+5 	 6 	 (NP\NP)/NP 	 1 	 million of
+7 	 6 	 (NP\NP)/NP 	 2 	 them of
+<\s>

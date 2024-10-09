@@ -1,0 +1,54 @@
+<s id="wsj_1276.1"> 28
+1 	 0 	 (S/S)/NP 	 2 	 part As
+1 	 2 	 (NP\NP)/NP 	 1 	 part of
+5 	 4 	 (N/N)/(N/N) 	 2 	 announced previously
+6 	 2 	 (NP\NP)/NP 	 2 	 transaction of
+6 	 3 	 NP[nb]/N 	 1 	 transaction a
+6 	 5 	 N/N 	 1 	 transaction announced
+10 	 8 	 N/N 	 1 	 Corp. Federal
+10 	 9 	 N/N 	 1 	 Corp. Mogul
+10 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Corp. has
+10 	 12 	 (((S[pt]\NP)/PP)/PP)/NP 	 1 	 Corp. bought <XB>
+11 	 0 	 (S/S)/NP 	 1 	 has As
+12 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 bought has
+14 	 13 	 (N/N)/(N/N) 	 2 	 565,000 approximately
+15 	 12 	 (((S[pt]\NP)/PP)/PP)/NP 	 4 	 shares bought
+15 	 14 	 N/N 	 1 	 shares 565,000
+15 	 16 	 (NP\NP)/NP 	 1 	 shares of
+19 	 16 	 (NP\NP)/NP 	 2 	 stock of
+19 	 17 	 NP[nb]/N 	 1 	 stock its
+19 	 18 	 N/N 	 1 	 stock common
+20 	 12 	 (((S[pt]\NP)/PP)/PP)/NP 	 3 	 from bought
+22 	 20 	 PP/NP 	 1 	 Inc. from
+22 	 21 	 N/N 	 1 	 Inc. Nortek
+23 	 12 	 (((S[pt]\NP)/PP)/PP)/NP 	 2 	 at bought
+24 	 23 	 PP/NP 	 1 	 $ at
+24 	 26 	 (NP\NP)/N 	 1 	 $ a
+25 	 24 	 N/N[num] 	 1 	 23.50 $
+27 	 26 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_1276.2"> 22
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Nortek has
+0 	 2 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Nortek agreed <XB>
+0 	 5 	 (S[b]\NP)/NP 	 1 	 Nortek acquire <XB>
+0 	 16 	 (S[b]\NP)/NP 	 1 	 Nortek influence <XU>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 agreed has
+4 	 2 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to agreed
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 to not
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 acquire for
+7 	 5 	 (S[b]\NP)/NP 	 2 	 securities acquire
+7 	 6 	 NP[nb]/N 	 1 	 securities any
+7 	 8 	 (NP\NP)/NP 	 1 	 securities of
+9 	 8 	 (NP\NP)/NP 	 2 	 Federal-Mogul of
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+12 	 11 	 N/N 	 1 	 years 10
+15 	 2 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to agreed
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 to not
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 influence to
+16 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 influence during
+18 	 16 	 (S[b]\NP)/NP 	 2 	 affairs influence
+18 	 17 	 N/N 	 1 	 affairs company
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 period during
+21 	 20 	 NP[nb]/N 	 1 	 period that
+<\s>

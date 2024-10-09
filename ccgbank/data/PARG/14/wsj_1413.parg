@@ -1,0 +1,344 @@
+<s id="wsj_1413.1"> 21
+1 	 0 	 N/N 	 1 	 Bush President
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Bush wants
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Pentagon wants
+4 	 3 	 NP[nb]/N 	 1 	 Pentagon the
+4 	 6 	 (S[b]\NP)/NP 	 1 	 Pentagon get <XB>
+5 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to wants
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 treatment get
+8 	 7 	 N/N 	 1 	 treatment special
+8 	 9 	 (NP\NP)/(S[ng]\NP) 	 1 	 treatment in
+10 	 9 	 (NP\NP)/(S[ng]\NP) 	 2 	 coping in
+11 	 10 	 (S[ng]\NP)/PP 	 2 	 with coping
+15 	 11 	 PP/NP 	 1 	 cuts with
+15 	 12 	 NP[nb]/N 	 1 	 cuts the
+15 	 13 	 N/N 	 1 	 cuts across-the-board
+15 	 14 	 N/N 	 1 	 cuts spending
+15 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 cuts that
+15 	 17 	 (S[dcl]\NP)/NP 	 1 	 cuts took <XB>
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 took that
+17 	 20 	 (S\NP)\(S\NP) 	 2 	 took week
+18 	 17 	 (S[dcl]\NP)/NP 	 2 	 effect took
+20 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week last
+<\s>
+<s id="wsj_1413.2"> 50
+1 	 0 	 N/N 	 1 	 Bush Mr.
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Bush asked
+3 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Congress asked
+3 	 5 	 (S[b]\NP)/NP 	 1 	 Congress raise <XB>
+3 	 35 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 1 	 Congress allowing <XB>
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to asked
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 raise to
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 raise to
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 raise from
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+9 	 7 	 N/N[num] 	 1 	 billion $
+9 	 8 	 N/N 	 1 	 billion 6
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+13 	 11 	 N/N[num] 	 1 	 billion $
+13 	 12 	 N/N 	 1 	 billion 3
+15 	 5 	 (S[b]\NP)/NP 	 2 	 amount raise
+15 	 14 	 NP[nb]/N 	 1 	 amount the
+15 	 16 	 (NP\NP)/NP 	 1 	 amount of
+15 	 23 	 (S[b]\NP)/NP 	 2 	 amount shift <XU>
+17 	 16 	 (NP\NP)/NP 	 2 	 money of
+21 	 18 	 N/N 	 1 	 Cheney Defense
+21 	 19 	 N/N 	 1 	 Cheney Secretary
+21 	 20 	 N/N 	 1 	 Cheney Dick
+21 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Cheney may
+21 	 23 	 (S[b]\NP)/NP 	 1 	 Cheney shift <XB>
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 shift may
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 shift among
+26 	 25 	 NP[nb]/N 	 1 	 Pentagon the
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 Pentagon 's
+31 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 projects among
+31 	 27 	 (NP[nb]/N)\NP 	 1 	 projects 's
+31 	 28 	 N/N 	 1 	 projects individual
+31 	 29 	 N/N 	 1 	 projects programs
+33 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 activities among
+33 	 27 	 (NP[nb]/N)\NP 	 1 	 activities 's
+33 	 28 	 N/N 	 1 	 activities individual
+33 	 29 	 N/N 	 1 	 activities programs
+36 	 35 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 him allowing
+36 	 38 	 (S[b]\NP)/NP 	 1 	 him ease <XB>
+37 	 35 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to allowing
+38 	 37 	 (S[to]\NP)/(S[b]\NP) 	 2 	 ease to
+40 	 38 	 (S[b]\NP)/NP 	 2 	 pain ease
+40 	 39 	 NP[nb]/N 	 1 	 pain the
+40 	 41 	 (NP\NP)/(S[dcl]/NP) 	 1 	 pain that
+40 	 49 	 (S[b]\NP)/NP 	 2 	 pain inflict <XU>
+45 	 42 	 NP[nb]/N 	 1 	 law the
+45 	 43 	 N/N 	 1 	 law Gramm-Rudman
+45 	 44 	 N/N 	 1 	 law budget
+45 	 46 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 law was
+45 	 47 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 law intended <XB>
+45 	 49 	 (S[b]\NP)/NP 	 1 	 law inflict <XB>
+46 	 41 	 (NP\NP)/(S[dcl]/NP) 	 2 	 was that
+47 	 46 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 intended was
+48 	 47 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to intended
+49 	 48 	 (S[to]\NP)/(S[b]\NP) 	 2 	 inflict to
+<\s>
+<s id="wsj_1413.3"> 37
+2 	 1 	 NP[nb]/N 	 1 	 request the
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 request is
+2 	 4 	 S[pss]\NP 	 1 	 request approved <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 is If
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 approved is
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 approved by
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 House by
+8 	 6 	 NP/NP 	 1 	 House both
+8 	 7 	 NP[nb]/N 	 1 	 House the
+10 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Senate by
+10 	 6 	 NP/NP 	 1 	 Senate both
+13 	 12 	 N/N 	 1 	 Cheney Mr.
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Cheney would
+13 	 15 	 (S[b]\NP)/NP 	 1 	 Cheney need <XB>
+13 	 28 	 (S[b]\NP)/NP 	 1 	 Cheney move <XB>
+14 	 0 	 (S/S)/S[dcl] 	 1 	 would If
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 need would
+15 	 32 	 ((S\NP)\(S\NP))/PP 	 2 	 need according
+17 	 15 	 (S[b]\NP)/NP 	 2 	 permission need
+17 	 16 	 N/N 	 1 	 permission only
+17 	 18 	 (NP\NP)/NP 	 1 	 permission from
+22 	 18 	 (NP\NP)/NP 	 2 	 Office from
+22 	 19 	 NP[nb]/N 	 1 	 Office the
+22 	 20 	 N/N 	 1 	 Office White
+22 	 21 	 N/N 	 1 	 Office House
+22 	 23 	 (NP\NP)/NP 	 1 	 Office of
+24 	 23 	 (NP\NP)/NP 	 2 	 Management of
+26 	 23 	 (NP\NP)/NP 	 2 	 Budget of
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 move to
+30 	 28 	 (S[b]\NP)/NP 	 2 	 money move
+30 	 29 	 NP[nb]/N 	 1 	 money the
+33 	 32 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+36 	 33 	 PP/NP 	 1 	 analysts to
+36 	 34 	 N/N 	 1 	 analysts Senate
+36 	 35 	 N/N 	 1 	 analysts budget
+<\s>
+<s id="wsj_1413.4"> 12
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 That would
+0 	 2 	 ((S[b]\NP)/NP)/NP 	 1 	 That give <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give would
+4 	 2 	 ((S[b]\NP)/NP)/NP 	 3 	 Pentagon give
+4 	 3 	 NP[nb]/N 	 1 	 Pentagon the
+5 	 2 	 ((S[b]\NP)/NP)/NP 	 2 	 flexibility give
+5 	 6 	 (NP\NP)/(S[dcl]/NP) 	 1 	 flexibility that
+5 	 11 	 (S[dcl]\NP)/NP 	 2 	 flexibility has <XU>
+10 	 7 	 NP[nb]/N 	 1 	 agency no
+10 	 8 	 N/N 	 1 	 agency other
+10 	 9 	 N/N 	 1 	 agency federal
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 agency has
+11 	 6 	 (NP\NP)/(S[dcl]/NP) 	 2 	 has that
+<\s>
+<s id="wsj_1413.5"> 43
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+1 	 20 	 (S[dcl]\S[dcl])/NP 	 1 	 's said
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 way 's
+4 	 2 	 NP/NP 	 1 	 way simply
+4 	 3 	 NP[nb]/N 	 1 	 way a
+4 	 5 	 (NP\NP)/(S[ng]\NP) 	 1 	 way of
+6 	 5 	 (NP\NP)/(S[ng]\NP) 	 2 	 making of
+8 	 6 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 3 	 cuts making
+8 	 7 	 NP[nb]/N 	 1 	 cuts the
+8 	 10 	 (S[adj]\NP)/PP 	 1 	 cuts onerous <XB>
+10 	 6 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 2 	 onerous making
+10 	 9 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 onerous less
+10 	 13 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 2 	 onerous than
+11 	 10 	 (S[adj]\NP)/PP 	 2 	 for onerous
+12 	 11 	 PP/NP 	 1 	 defense for
+14 	 15 	 (S[dcl]\NP)/PP 	 1 	 they are
+15 	 13 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 3 	 are than
+16 	 15 	 (S[dcl]\NP)/PP 	 2 	 for are
+18 	 16 	 PP/NP 	 1 	 programs for
+18 	 17 	 N/N 	 1 	 programs domestic
+23 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 Sasser said
+23 	 21 	 N/N 	 1 	 Sasser Chairman
+23 	 22 	 N/N 	 1 	 Sasser James
+23 	 24 	 (NP\NP)/NP 	 1 	 Sasser -LRB-
+23 	 30 	 (NP\NP)/NP 	 1 	 Sasser of
+23 	 36 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Sasser who
+23 	 37 	 (S[dcl]\NP)/S[dcl] 	 1 	 Sasser said <XB>
+25 	 24 	 (NP\NP)/NP 	 2 	 D. -LRB-
+27 	 24 	 (NP\NP)/NP 	 2 	 Tenn -LRB-
+34 	 30 	 (NP\NP)/NP 	 2 	 Committee of
+34 	 31 	 NP[nb]/N 	 1 	 Committee the
+34 	 32 	 N/N 	 1 	 Committee Senate
+34 	 33 	 N/N 	 1 	 Committee Budget
+37 	 36 	 (NP\NP)/(S[dcl]\NP) 	 2 	 said who
+38 	 39 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he would
+38 	 40 	 (S[b]\NP)/NP 	 1 	 he oppose <XB>
+39 	 37 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+40 	 39 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 oppose would
+42 	 40 	 (S[b]\NP)/NP 	 2 	 request oppose
+42 	 41 	 NP[nb]/N 	 1 	 request the
+<\s>
+<s id="wsj_1413.6"> 18
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 That is
+0 	 3 	 (S[adj]\NP)/PP 	 1 	 That consistent <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is n't
+1 	 17 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+3 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 consistent is
+4 	 3 	 (S[adj]\NP)/PP 	 2 	 with consistent
+6 	 4 	 PP/NP 	 1 	 kind with
+6 	 5 	 NP[nb]/N 	 1 	 kind the
+6 	 7 	 (NP\NP)/NP 	 1 	 kind of
+8 	 7 	 (NP\NP)/NP 	 2 	 discipline of
+8 	 9 	 (NP\NP)/(S[dcl]/NP) 	 1 	 discipline that
+8 	 14 	 (S[b]\NP)/NP 	 2 	 discipline impose <XU>
+10 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Gramm-Rudman is
+10 	 12 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Gramm-Rudman supposed <XB>
+10 	 14 	 (S[b]\NP)/NP 	 1 	 Gramm-Rudman impose <XB>
+11 	 9 	 (NP\NP)/(S[dcl]/NP) 	 2 	 is that
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 supposed is
+13 	 12 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to supposed
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 impose to
+16 	 17 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_1413.7"> 14
+1 	 0 	 NP[nb]/N 	 1 	 president The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 president 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 request 's
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 request did
+3 	 6 	 (S[b]\NP)/S[qem] 	 1 	 request indicate <XB>
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 did n't
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 indicate did
+7 	 6 	 (S[b]\NP)/S[qem] 	 2 	 how indicate
+9 	 8 	 N/N 	 1 	 Cheney Mr.
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Cheney would
+9 	 11 	 (S[b]\NP)/NP 	 1 	 Cheney shift <XB>
+10 	 7 	 S[qem]/S[dcl] 	 1 	 would how
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 shift would
+13 	 11 	 (S[b]\NP)/NP 	 2 	 money shift
+13 	 12 	 NP[nb]/N 	 1 	 money the
+<\s>
+<s id="wsj_1413.8"> 19
+2 	 0 	 NP[nb]/N 	 1 	 official A
+2 	 1 	 N/N 	 1 	 official Pentagon
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 official said
+5 	 4 	 NP[nb]/N 	 1 	 request the
+5 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 request was
+5 	 7 	 S[pss]\NP 	 1 	 request made <XB>
+5 	 9 	 ((S[b]\NP)/NP)/NP 	 1 	 request give <XB>
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 made was
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give to
+11 	 9 	 ((S[b]\NP)/NP)/NP 	 3 	 department give
+11 	 10 	 NP[nb]/N 	 1 	 department the
+13 	 9 	 ((S[b]\NP)/NP)/NP 	 2 	 flexibility give
+13 	 12 	 N/N 	 1 	 flexibility maximum
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 deal to
+16 	 15 	 (S[b]\NP)/PP 	 2 	 with deal
+18 	 16 	 PP/NP 	 1 	 cuts with
+18 	 17 	 NP[nb]/N 	 1 	 cuts the
+<\s>
+<s id="wsj_1413.9"> 44
+1 	 0 	 (S/S)/(S/S) 	 2 	 week Last
+6 	 3 	 N/N 	 1 	 Darman Budget
+6 	 4 	 N/N 	 1 	 Darman Director
+6 	 5 	 N/N 	 1 	 Darman Richard
+6 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Darman structured
+7 	 1 	 S/S 	 1 	 structured week
+11 	 9 	 (N/N)/N[num] 	 2 	 billion $
+11 	 10 	 N/N 	 1 	 billion 16.1
+13 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 reduction structured
+13 	 8 	 NP[nb]/N 	 1 	 reduction the
+13 	 9 	 (N/N)/N[num] 	 1 	 reduction $
+13 	 12 	 N/N 	 1 	 reduction spending
+13 	 17 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 1 	 reduction which
+13 	 24 	 (S[b]\NP)/NP 	 1 	 reduction impose <XB>
+13 	 31 	 ((S[ng]\NP)/PP)/NP 	 1 	 reduction applying <XB>
+15 	 16 	 (NP\NP)/NP 	 1 	 half of
+15 	 17 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 3 	 half which
+18 	 17 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 2 	 must which
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 come must
+20 	 19 	 (S[b]\NP)/PP 	 2 	 from come
+21 	 20 	 PP/NP 	 1 	 defense from
+23 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to structured
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 impose to
+24 	 30 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 impose by
+29 	 24 	 (S[b]\NP)/NP 	 2 	 discipline impose
+29 	 25 	 NP/NP 	 1 	 discipline a
+29 	 26 	 NP/NP 	 1 	 discipline little
+29 	 27 	 NP[nb]/N 	 1 	 discipline bit
+29 	 28 	 NP\NP 	 1 	 discipline more
+31 	 30 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 applying by
+32 	 31 	 ((S[ng]\NP)/PP)/NP 	 3 	 cuts applying
+33 	 31 	 ((S[ng]\NP)/PP)/NP 	 2 	 to applying
+38 	 33 	 PP/NP 	 1 	 project to
+38 	 34 	 NP[nb]/N 	 1 	 project each
+38 	 35 	 N/N 	 1 	 project individual
+38 	 36 	 N/N 	 1 	 project program
+38 	 41 	 (NP\NP)/NP 	 1 	 project in
+40 	 33 	 PP/NP 	 1 	 activity to
+40 	 34 	 NP[nb]/N 	 1 	 activity each
+40 	 35 	 N/N 	 1 	 activity individual
+40 	 36 	 N/N 	 1 	 activity program
+40 	 41 	 (NP\NP)/NP 	 1 	 activity in
+43 	 41 	 (NP\NP)/NP 	 2 	 budget in
+43 	 42 	 NP[nb]/N 	 1 	 budget the
+<\s>
+<s id="wsj_1413.10"> 15
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 That would
+0 	 2 	 ((S[b]\NP)/NP)/NP 	 1 	 That give <XB>
+1 	 13 	 ((S[dcl]\S[dcl])\NP)/NP 	 1 	 would told
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give would
+3 	 2 	 ((S[b]\NP)/NP)/NP 	 3 	 agencies give
+5 	 2 	 ((S[b]\NP)/NP)/NP 	 2 	 ability give
+5 	 4 	 N/N 	 1 	 ability less
+5 	 8 	 (S[b]\NP)/NP 	 1 	 ability fudge <XB>
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 fudge to
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 fudge over
+10 	 8 	 (S[b]\NP)/NP 	 2 	 things fudge
+12 	 13 	 ((S[dcl]\S[dcl])\NP)/NP 	 2 	 he told
+14 	 13 	 ((S[dcl]\S[dcl])\NP)/NP 	 3 	 reporters told
+<\s>
+<s id="wsj_1413.11"> 23
+3 	 0 	 (S/S)/NP 	 2 	 law Under
+3 	 1 	 NP[nb]/N 	 1 	 law the
+3 	 2 	 N/N 	 1 	 law deficit-reduction
+6 	 5 	 N/N 	 1 	 % 4.3
+6 	 7 	 (NP\NP)/NP 	 1 	 % of
+6 	 20 	 S[dcl]\NP 	 1 	 % has
+6 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 % been <XB>
+6 	 22 	 S[pss]\NP 	 1 	 % canceled <XB>
+9 	 8 	 NP[nb]/N 	 1 	 Pentagon the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Pentagon 's
+11 	 7 	 (NP\NP)/NP 	 2 	 money of
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 money 's
+14 	 13 	 N/N 	 1 	 % 5.3
+14 	 15 	 (NP\NP)/NP 	 1 	 % of
+14 	 20 	 S[dcl]\NP 	 1 	 % has
+14 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 % been <XB>
+14 	 22 	 S[pss]\NP 	 1 	 % canceled <XB>
+17 	 16 	 N/N 	 1 	 agencies other
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 agencies '
+19 	 15 	 (NP\NP)/NP 	 2 	 money of
+19 	 18 	 (NP[nb]/N)\NP 	 1 	 money '
+20 	 0 	 (S/S)/NP 	 1 	 has Under
+22 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 canceled been
+<\s>
+<s id="wsj_1413.12"> 19
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Lawmakers are
+0 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Lawmakers expected <XB>
+0 	 4 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Lawmakers try <XB>
+0 	 6 	 (S[b]\NP)/NP 	 1 	 Lawmakers restore <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+2 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 expected once
+3 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 try to
+5 	 4 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to try
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 restore to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 funds restore
+8 	 7 	 NP[nb]/N 	 1 	 funds the
+13 	 10 	 NP[nb]/N 	 1 	 measure a
+13 	 11 	 N/N 	 1 	 measure pending
+13 	 12 	 N/N 	 1 	 measure deficit-cutting
+13 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 measure has
+13 	 16 	 (S[pss]\NP)/PP 	 1 	 measure signed <XB>
+14 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has once
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+16 	 15 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 signed been
+17 	 16 	 (S[pss]\NP)/PP 	 2 	 into signed
+18 	 17 	 PP/NP 	 1 	 law into
+<\s>

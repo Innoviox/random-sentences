@@ -1,0 +1,442 @@
+<s id="wsj_0435.1"> 32
+5 	 0 	 N/N 	 1 	 Iacocca Chrysler
+5 	 1 	 N/N 	 1 	 Iacocca Corp.
+5 	 2 	 N/N 	 1 	 Iacocca Chairman
+5 	 3 	 N/N 	 1 	 Iacocca Lee
+5 	 4 	 N/N 	 1 	 Iacocca A.
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Iacocca said
+8 	 7 	 NP[nb]/N 	 1 	 nation the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 nation 's
+13 	 9 	 (NP[nb]/N)\NP 	 1 	 maker 's
+13 	 10 	 N/N 	 1 	 maker No.
+13 	 11 	 N/N 	 1 	 maker 3
+13 	 12 	 N/N 	 1 	 maker auto
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 maker will
+13 	 15 	 (S[b]\NP)/(S[to]\NP) 	 1 	 maker need <XB>
+13 	 17 	 (S[b]\NP)/NP 	 1 	 maker close <XB>
+14 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 need will
+15 	 25 	 ((S\NP)\(S\NP))/PP 	 2 	 need because
+16 	 15 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to need
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 close to
+18 	 17 	 (S[b]\NP)/NP 	 2 	 one close
+18 	 21 	 (NP\NP)/NP 	 1 	 one of
+20 	 17 	 (S[b]\NP)/NP 	 2 	 two close
+20 	 21 	 (NP\NP)/NP 	 1 	 two of
+24 	 21 	 (NP\NP)/NP 	 2 	 plants of
+24 	 22 	 NP[nb]/N 	 1 	 plants its
+24 	 23 	 N/N 	 1 	 plants assembly
+26 	 25 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+28 	 26 	 PP/NP 	 1 	 slowdown of
+28 	 27 	 NP[nb]/N 	 1 	 slowdown the
+28 	 29 	 (S[ng]\NP)/NP 	 1 	 slowdown hitting <XB>
+31 	 29 	 (S[ng]\NP)/NP 	 2 	 industry hitting
+31 	 30 	 NP[nb]/N 	 1 	 industry the
+<\s>
+<s id="wsj_0435.2"> 26
+2 	 0 	 (S/S)/NP 	 2 	 interview In
+2 	 1 	 NP[nb]/N 	 1 	 interview an
+2 	 3 	 (NP\NP)/NP 	 1 	 interview with
+8 	 3 	 (NP\NP)/NP 	 2 	 News with
+8 	 4 	 NP[nb]/N 	 1 	 News the
+8 	 5 	 N/N 	 1 	 News trade
+8 	 6 	 N/N 	 1 	 News journal
+8 	 7 	 N/N 	 1 	 News Automotive
+11 	 10 	 N/N 	 1 	 Iacocca Mr.
+11 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Iacocca declined
+11 	 14 	 (S[b]\NP)/S[qem] 	 1 	 Iacocca say <XB>
+12 	 0 	 (S/S)/NP 	 1 	 declined In
+13 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 say to
+15 	 14 	 (S[b]\NP)/S[qem] 	 2 	 which say
+16 	 15 	 (S[qem]/(S[dcl]\NP))/N 	 2 	 plants which
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plants will <XB>
+16 	 18 	 S[b]\NP 	 1 	 plants close <XB>
+17 	 15 	 (S[qem]/(S[dcl]\NP))/N 	 1 	 will which
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 close will
+20 	 14 	 (S[b]\NP)/S[qem] 	 2 	 when say
+21 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Chrysler will
+21 	 23 	 (S[b]\NP)/NP 	 1 	 Chrysler make <XB>
+22 	 20 	 S[qem]/S[dcl] 	 1 	 will when
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make will
+25 	 23 	 (S[b]\NP)/NP 	 2 	 moves make
+25 	 24 	 NP[nb]/N 	 1 	 moves the
+<\s>
+<s id="wsj_0435.3"> 12
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 he said
+2 	 0 	 S/S 	 1 	 said But
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 we have
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 have said
+5 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 have in
+7 	 6 	 (N/N)/(N/N) 	 2 	 many too
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 plants have
+8 	 7 	 N/N 	 1 	 plants many
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 system in
+11 	 10 	 NP[nb]/N 	 1 	 system our
+<\s>
+<s id="wsj_0435.4"> 11
+5 	 4 	 (N/N)/(N/N) 	 2 	 inefficient most
+6 	 1 	 NP[nb]/N 	 1 	 capacity the
+6 	 2 	 N/N 	 1 	 capacity older <XU>
+6 	 5 	 N/N 	 1 	 capacity inefficient
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 capacity has
+6 	 8 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 capacity got <XB>
+6 	 10 	 S[b]\NP 	 1 	 capacity go <XB>
+7 	 0 	 S/S 	 1 	 has So
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 got has
+9 	 8 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to got
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 go to
+<\s>
+<s id="wsj_0435.5"> 58
+1 	 0 	 (S/S)/PP 	 2 	 to According
+3 	 1 	 PP/NP 	 1 	 analysts to
+3 	 2 	 N/N 	 1 	 analysts industry
+6 	 5 	 N/N 	 1 	 plants Chrysler
+6 	 8 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 plants likely <XB>
+6 	 11 	 (S[dcl]\NP)/NP 	 1 	 plants are
+8 	 7 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 likely most
+9 	 8 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 close to
+11 	 0 	 (S/S)/PP 	 1 	 are According
+17 	 11 	 (S[dcl]\NP)/NP 	 2 	 facility are
+17 	 12 	 NP[nb]/N 	 1 	 facility the
+17 	 13 	 N/N 	 1 	 facility St.
+17 	 14 	 N/N 	 1 	 facility Louis
+17 	 15 	 N/N 	 1 	 facility No.
+17 	 16 	 N/N 	 1 	 facility 1
+17 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 facility which
+17 	 20 	 (S[dcl]\NP)/NP 	 1 	 facility builds <XB>
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 builds which
+26 	 20 	 (S[dcl]\NP)/NP 	 2 	 models builds
+26 	 21 	 N/N 	 1 	 models Chrysler
+26 	 22 	 N/N 	 1 	 models LeBaron
+26 	 24 	 N/N 	 1 	 models Dodge
+26 	 25 	 N/N 	 1 	 models Daytona
+31 	 29 	 (N/N)/(N/N) 	 2 	 Ohio Toledo
+34 	 11 	 (S[dcl]\NP)/NP 	 2 	 plant are
+34 	 28 	 NP[nb]/N 	 1 	 plant the
+34 	 31 	 N/N 	 1 	 plant Ohio
+34 	 33 	 N/N 	 1 	 plant Jeep
+34 	 36 	 (NP\NP)/(S[dcl]\NP) 	 1 	 plant which
+34 	 37 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 plant dates <XB>
+34 	 38 	 (S[adj]\NP)/PP 	 1 	 plant back <XB>
+37 	 36 	 (NP\NP)/(S[dcl]\NP) 	 2 	 dates which
+38 	 37 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 back dates
+39 	 38 	 (S[adj]\NP)/PP 	 2 	 to back
+42 	 39 	 PP/NP 	 1 	 1900s to
+42 	 40 	 NP[nb]/N 	 1 	 1900s the
+42 	 41 	 N/N 	 1 	 1900s early
+47 	 11 	 (S[dcl]\NP)/NP 	 2 	 plants are
+47 	 45 	 N/N 	 1 	 plants two
+47 	 46 	 N/N 	 1 	 plants Canadian
+47 	 48 	 (NP\NP)/(S[dcl]\NP) 	 1 	 plants that
+47 	 49 	 (S[dcl]\NP)/NP 	 1 	 plants build <XB>
+49 	 48 	 (NP\NP)/(S[dcl]\NP) 	 2 	 build that
+52 	 49 	 (S[dcl]\NP)/NP 	 2 	 Wrangler build
+52 	 50 	 NP[nb]/N 	 1 	 Wrangler the
+52 	 51 	 N/N 	 1 	 Wrangler Jeep
+54 	 55 	 (NP[nb]/N)\NP 	 2 	 Chrysler 's
+57 	 49 	 (S[dcl]\NP)/NP 	 2 	 vans build
+57 	 55 	 (NP[nb]/N)\NP 	 1 	 vans 's
+57 	 56 	 N/N 	 1 	 vans full-sized
+<\s>
+<s id="wsj_0435.6"> 21
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Chrysler has
+0 	 2 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Chrysler had <XB>
+0 	 5 	 (S[b]\NP)/NP 	 1 	 Chrysler close <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 had has
+2 	 12 	 (S\NP)\(S\NP) 	 2 	 had recently
+2 	 13 	 ((S\NP)\(S\NP))/PP 	 2 	 had because
+3 	 2 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to had
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 to temporarily
+5 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 close to
+11 	 5 	 (S[b]\NP)/NP 	 2 	 plants close
+11 	 6 	 NP[nb]/N 	 1 	 plants the
+11 	 7 	 N/N 	 1 	 plants St.
+11 	 8 	 N/N 	 1 	 plants Louis
+11 	 10 	 N/N 	 1 	 plants Toledo
+14 	 13 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+16 	 14 	 PP/NP 	 1 	 inventories of
+16 	 15 	 N/N 	 1 	 inventories excess
+16 	 17 	 (NP\NP)/NP 	 1 	 inventories of
+18 	 17 	 (NP\NP)/NP 	 2 	 vehicles of
+18 	 19 	 S[pss]\NP 	 1 	 vehicles built <XB>
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 built there
+<\s>
+<s id="wsj_0435.7"> 41
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Chrysler 's
+5 	 0 	 (S/S)/NP 	 2 	 preview At
+5 	 2 	 (NP[nb]/N)\NP 	 1 	 preview 's
+5 	 3 	 N/N 	 1 	 preview 1990
+5 	 4 	 N/N 	 1 	 preview model
+7 	 6 	 (S/S)/(S/S) 	 2 	 month last
+14 	 9 	 N/N 	 1 	 Lutz Chrysler
+14 	 10 	 N/N 	 1 	 Lutz Motors
+14 	 11 	 N/N 	 1 	 Lutz President
+14 	 12 	 N/N 	 1 	 Lutz Robert
+14 	 13 	 N/N 	 1 	 Lutz A.
+14 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 Lutz said
+15 	 0 	 (S/S)/NP 	 1 	 said At
+15 	 7 	 S/S 	 1 	 said month
+20 	 16 	 NP[nb]/N 	 1 	 maker the
+20 	 17 	 N/N 	 1 	 maker No.
+20 	 18 	 N/N 	 1 	 maker 3
+20 	 19 	 N/N 	 1 	 maker auto
+20 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 maker might
+20 	 30 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 maker forced <XB>
+20 	 32 	 (S[b]\NP)/NP 	 1 	 maker realign <XB>
+23 	 22 	 ((S\NP)/(S\NP))/PP 	 3 	 with along
+26 	 23 	 PP/NP 	 1 	 manufacturers with
+26 	 24 	 N/N 	 1 	 manufacturers other
+26 	 25 	 N/N 	 1 	 manufacturers U.S.
+28 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 might said
+28 	 22 	 ((S\NP)/(S\NP))/PP 	 2 	 might along
+29 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be might
+30 	 29 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 forced be
+30 	 35 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 forced if
+31 	 30 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to forced
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 realign to
+34 	 32 	 (S[b]\NP)/NP 	 2 	 capacity realign
+37 	 36 	 N/N 	 1 	 demand market
+37 	 38 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 demand does
+37 	 40 	 S[b]\NP 	 1 	 demand improve <XB>
+38 	 35 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 does if
+38 	 39 	 (S\NP)\(S\NP) 	 2 	 does n't
+40 	 38 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 improve does
+<\s>
+<s id="wsj_0435.8"> 20
+2 	 1 	 N/N 	 1 	 Iacocca Mr.
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Iacocca 's
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 remarks 's
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 remarks are
+5 	 0 	 S/S 	 1 	 are But
+8 	 7 	 (N/N)/(N/N) 	 2 	 specific most
+9 	 5 	 (S[dcl]\NP)/NP 	 2 	 indication are
+9 	 6 	 NP[nb]/N 	 1 	 indication the
+9 	 8 	 N/N 	 1 	 indication specific
+9 	 10 	 (NP\NP)/NP 	 1 	 indication to
+9 	 12 	 (NP\NP)/S[qem] 	 1 	 indication of
+11 	 10 	 (NP\NP)/NP 	 2 	 date to
+13 	 12 	 (NP\NP)/S[qem] 	 2 	 how of
+14 	 13 	 ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP) 	 3 	 many how
+15 	 13 	 ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP) 	 2 	 plants how
+16 	 13 	 ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP) 	 1 	 could how
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+18 	 17 	 (S[b]\NP)/PP 	 2 	 in be
+19 	 18 	 PP/NP 	 1 	 jeopardy in
+<\s>
+<s id="wsj_0435.9"> 30
+2 	 0 	 N/N 	 1 	 Corp. General
+2 	 1 	 N/N 	 1 	 Corp. Motors
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Corp. has
+2 	 4 	 (S[pt]\NP)/S[em] 	 1 	 Corp. signaled <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 signaled has
+5 	 4 	 (S[pt]\NP)/S[em] 	 2 	 that signaled
+6 	 10 	 (NP\NP)/NP 	 1 	 as of
+6 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 as may
+6 	 18 	 (S[b]\NP)/NP 	 1 	 as survive <XB>
+7 	 6 	 (N/PP)/(S[adj]\NP) 	 2 	 many as
+8 	 6 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+9 	 8 	 PP/NP 	 1 	 five as
+15 	 10 	 (NP\NP)/NP 	 2 	 plants of
+15 	 11 	 NP[nb]/N 	 1 	 plants its
+15 	 12 	 N/N 	 1 	 plants U.S. <XU>
+15 	 14 	 N/N 	 1 	 plants Canadian
+16 	 5 	 S[em]/S[dcl] 	 1 	 may that
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 may not
+18 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 survive may
+18 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 survive as
+20 	 18 	 (S[b]\NP)/NP 	 2 	 mid-1990s survive
+20 	 19 	 NP[nb]/N 	 1 	 mid-1990s the
+22 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it struggles
+22 	 25 	 (S[b]\NP)/NP 	 1 	 it trim <XB>
+23 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 struggles as
+24 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to struggles
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 trim to
+29 	 25 	 (S[b]\NP)/NP 	 2 	 capacity trim
+29 	 26 	 NP[nb]/N 	 1 	 capacity its
+29 	 27 	 N/N 	 1 	 capacity excess
+29 	 28 	 N/N 	 1 	 capacity vehicle-production
+<\s>
+<s id="wsj_0435.10"> 21
+2 	 0 	 NP[nb]/N 	 1 	 problem The
+2 	 1 	 N/N 	 1 	 problem overcapacity
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 problem has
+2 	 4 	 S[pt]\NP 	 1 	 problem intensified <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 intensified has
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 intensified in
+4 	 9 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 2 	 intensified with
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 years in
+7 	 6 	 N/N 	 1 	 years recent
+12 	 9 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 makers with
+12 	 10 	 N/N 	 1 	 makers foreign
+12 	 11 	 N/N 	 1 	 makers auto
+12 	 13 	 (S[ng]\NP)/NP 	 1 	 makers beginning <XB>
+13 	 9 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 3 	 beginning with
+13 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 beginning in
+14 	 13 	 (S[ng]\NP)/NP 	 2 	 car beginning
+17 	 13 	 (S[ng]\NP)/NP 	 2 	 production beginning
+17 	 16 	 N/N 	 1 	 production truck
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. in
+20 	 19 	 NP[nb]/N 	 1 	 U.S. the
+<\s>
+<s id="wsj_0435.11"> 34
+1 	 0 	 ((S/S)/(S[ng]\NP))/NP 	 3 	 companies With
+1 	 3 	 (NP\NP)/NP 	 1 	 companies as
+1 	 15 	 (S[ng]\NP)/NP 	 1 	 companies running <XB>
+3 	 2 	 (NP\NP)/(NP\NP) 	 2 	 as such
+6 	 3 	 (NP\NP)/NP 	 2 	 Co. as
+6 	 4 	 N/N 	 1 	 Co. Honda
+6 	 5 	 N/N 	 1 	 Co. Motor
+10 	 3 	 (NP\NP)/NP 	 2 	 Corp. as
+10 	 8 	 N/N 	 1 	 Corp. Toyota
+10 	 9 	 N/N 	 1 	 Corp. Motor
+14 	 3 	 (NP\NP)/NP 	 2 	 Co. as
+14 	 12 	 N/N 	 1 	 Co. Nissan
+14 	 13 	 N/N 	 1 	 Co. Motor
+15 	 0 	 ((S/S)/(S[ng]\NP))/NP 	 2 	 running With
+19 	 15 	 (S[ng]\NP)/NP 	 2 	 operations running
+19 	 16 	 N/N 	 1 	 operations so-called
+19 	 17 	 N/N 	 1 	 operations transplant
+19 	 18 	 N/N 	 1 	 operations auto
+23 	 21 	 N/N 	 1 	 production Japanese
+23 	 22 	 N/N 	 1 	 production auto
+23 	 24 	 (NP\NP)/NP 	 1 	 production in
+23 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 production will
+23 	 28 	 (S[b]\NP)/NP 	 1 	 production reach <XB>
+26 	 24 	 (NP\NP)/NP 	 2 	 U.S. in
+26 	 25 	 NP[nb]/N 	 1 	 U.S. the
+27 	 0 	 ((S/S)/(S[ng]\NP))/NP 	 1 	 will With
+28 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reach will
+28 	 32 	 ((S\NP)\(S\NP))/N 	 2 	 reach this
+30 	 29 	 (N/N)/(N/N) 	 2 	 million one
+31 	 28 	 (S[b]\NP)/NP 	 2 	 vehicles reach
+31 	 30 	 N/N 	 1 	 vehicles million
+33 	 32 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+<\s>
+<s id="wsj_0435.12"> 37
+2 	 1 	 NP[nb]/N 	 1 	 market the
+2 	 3 	 S[dcl]\NP 	 1 	 market goes
+3 	 0 	 (S/S)/S[dcl] 	 2 	 goes Unless
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 goes to
+3 	 9 	 ((S\NP)\(S\NP))/(S[dcl]/NP) 	 2 	 goes which
+6 	 5 	 (N/N)/(N/N) 	 2 	 million 19
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 units to
+7 	 6 	 N/N 	 1 	 units million
+10 	 11 	 NP\NP 	 1 	 we all
+10 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 we know
+12 	 9 	 ((S\NP)\(S\NP))/(S[dcl]/NP) 	 3 	 know which
+13 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it 's
+13 	 18 	 (S[b]\NP)/NP 	 1 	 it do <XB>
+14 	 12 	 (S[dcl]\NP)/S[dcl] 	 2 	 's know
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 's not
+16 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going 's
+17 	 16 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 we have
+21 	 0 	 (S/S)/S[dcl] 	 1 	 have Unless
+21 	 34 	 (S[dcl]\S[dcl])\NP 	 1 	 have said
+24 	 21 	 (S[dcl]\NP)/NP 	 2 	 fact have
+24 	 22 	 NP[nb]/N 	 1 	 fact the
+24 	 23 	 N/N 	 1 	 fact inescapable
+25 	 24 	 N/S[em] 	 1 	 that fact
+27 	 26 	 NP[nb]/N 	 1 	 transplants the
+27 	 28 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 transplants are
+27 	 29 	 (S[ng]\NP)/NP 	 1 	 transplants adding <XB>
+28 	 25 	 S[em]/S[dcl] 	 1 	 are that
+29 	 28 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 adding are
+30 	 29 	 (S[ng]\NP)/NP 	 2 	 capacity adding
+33 	 32 	 N/N 	 1 	 Lutz Mr.
+33 	 34 	 (S[dcl]\S[dcl])\NP 	 2 	 Lutz said
+34 	 36 	 S\S 	 1 	 said month
+36 	 35 	 (S\S)/(S\S) 	 2 	 month last
+<\s>
+<s id="wsj_0435.13"> 37
+2 	 0 	 NP[nb]/N 	 1 	 plants The
+2 	 1 	 N/N 	 1 	 plants Japanese-managed
+2 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plants will
+2 	 5 	 (S[b]\NP)/NP 	 1 	 plants have <XB>
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 will eventually
+4 	 36 	 (S[dcl]\S[dcl])\NP 	 1 	 will added
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+7 	 5 	 (S[b]\NP)/NP 	 2 	 capacity have
+7 	 6 	 NP[nb]/N 	 1 	 capacity the
+7 	 9 	 (S[b]\NP)/NP 	 1 	 capacity build <XB>
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+9 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 build in
+12 	 10 	 (N/N)/(N/N) 	 2 	 million some
+12 	 11 	 (N/N)/(N/N) 	 2 	 million 2.5
+13 	 9 	 (S[b]\NP)/NP 	 2 	 vehicles build
+13 	 12 	 N/N 	 1 	 vehicles million
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. in
+16 	 15 	 NP[nb]/N 	 1 	 U.S. the
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 that will
+18 	 20 	 (S[b]\NP)/PP 	 1 	 that translate <XB>
+19 	 36 	 (S[dcl]\S[dcl])\NP 	 1 	 will added
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 translate will
+21 	 20 	 (S[b]\NP)/PP 	 2 	 into translate
+23 	 21 	 PP/NP 	 1 	 share into
+23 	 22 	 N/N 	 1 	 share market
+23 	 24 	 (NP\NP)/(S[dcl]\NP) 	 1 	 share that
+23 	 25 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 share is <XB>
+23 	 30 	 S[b]\NP 	 1 	 share come <XB>
+25 	 24 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is that
+26 	 25 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going is
+27 	 26 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+29 	 28 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 come to
+30 	 31 	 ((S\NP)\(S\NP))/PP 	 2 	 come out
+32 	 31 	 ((S\NP)\(S\NP))/PP 	 3 	 of out
+33 	 32 	 PP/NP 	 1 	 somebody of
+35 	 36 	 (S[dcl]\S[dcl])\NP 	 2 	 he added
+<\s>
+<s id="wsj_0435.14"> 20
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Chrysler has
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 Chrysler closed <XB>
+2 	 0 	 S/S 	 1 	 has Already
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 closed has
+7 	 5 	 (N/N)/(N/N) 	 2 	 Wis. Kenosha
+9 	 3 	 (S[pt]\NP)/NP 	 2 	 plant closed
+9 	 4 	 NP[nb]/N 	 1 	 plant the
+9 	 7 	 N/N 	 1 	 plant Wis.
+9 	 11 	 (S[dcl]\NP)/NP 	 2 	 plant acquired <XU>
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 it acquired
+11 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 acquired when
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 it bought
+14 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 bought when
+14 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 bought in
+17 	 14 	 (S[dcl]\NP)/NP 	 2 	 Corp. bought
+17 	 15 	 N/N 	 1 	 Corp. American
+17 	 16 	 N/N 	 1 	 Corp. Motors
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 1987 in
+<\s>
+<s id="wsj_0435.15"> 25
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Chrysler has
+0 	 3 	 (S[pt]\NP)/NP 	 1 	 Chrysler launched <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 has also
+3 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 launched has
+7 	 5 	 (N/N)/N[num] 	 2 	 billion $
+7 	 6 	 N/N 	 1 	 billion 1
+9 	 3 	 (S[pt]\NP)/NP 	 2 	 program launched
+9 	 4 	 NP[nb]/N 	 1 	 program a
+9 	 5 	 (N/N)/N[num] 	 1 	 program $
+9 	 8 	 N/N 	 1 	 program cost-cutting
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 program that
+9 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 program will <XB>
+9 	 12 	 (S[b]\NP)/NP 	 1 	 program cut <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cut will
+12 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 cut from
+12 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 cut in
+14 	 13 	 (N/N)/(N/N) 	 2 	 2,300 about
+16 	 12 	 (S[b]\NP)/NP 	 2 	 workers cut
+16 	 14 	 N/N 	 1 	 workers 2,300
+16 	 15 	 N/N 	 1 	 workers white-collar
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 payroll from
+19 	 18 	 NP[nb]/N 	 1 	 payroll the
+24 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 months in
+24 	 21 	 NP[nb]/N 	 1 	 months the
+24 	 22 	 N/N 	 1 	 months next
+24 	 23 	 N/N 	 1 	 months few
+<\s>

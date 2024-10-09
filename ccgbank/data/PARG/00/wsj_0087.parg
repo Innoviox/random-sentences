@@ -1,0 +1,369 @@
+<s id="wsj_0087.1"> 10
+1 	 0 	 N/N 	 1 	 things Five
+1 	 4 	 ((S[b]\NP)/PP)/NP 	 3 	 things do <XU>
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you can
+2 	 4 	 ((S[b]\NP)/PP)/NP 	 1 	 you do <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 do can
+5 	 4 	 ((S[b]\NP)/PP)/NP 	 2 	 for do
+6 	 5 	 PP/NP 	 1 	 $ for
+6 	 9 	 NP\NP 	 1 	 $ less
+7 	 6 	 N/N[num] 	 1 	 15,000 $
+9 	 8 	 (NP\NP)/(NP\NP) 	 2 	 less or
+<\s>
+<s id="wsj_0087.2"> 6
+2 	 0 	 (S\NP)/(S\NP) 	 2 	 Buy 1
+5 	 2 	 (S[b]\NP)/NP 	 2 	 Chevrolet Buy
+5 	 3 	 NP[nb]/N 	 1 	 Chevrolet a
+5 	 4 	 N/N 	 1 	 Chevrolet new
+<\s>
+<s id="wsj_0087.3"> 6
+2 	 0 	 (S\NP)/(S\NP) 	 2 	 Take 2
+5 	 2 	 (S[b]\NP)/NP 	 2 	 vacation Take
+5 	 3 	 NP[nb]/N 	 1 	 vacation a
+5 	 4 	 N/N 	 1 	 vacation Hawaiian
+<\s>
+<s id="wsj_0087.4"> 8
+2 	 0 	 (S\NP)/(S\NP) 	 2 	 Send 3
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 Send to
+4 	 2 	 (S[b]\NP)/NP 	 2 	 child Send
+4 	 3 	 NP[nb]/N 	 1 	 child your
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 university to
+7 	 6 	 NP[nb]/N 	 1 	 university a
+<\s>
+<s id="wsj_0087.5"> 6
+2 	 0 	 (S\NP)/(S\NP) 	 2 	 Buy 4
+5 	 2 	 (S[b]\NP)/NP 	 2 	 necklace Buy
+5 	 3 	 NP[nb]/N 	 1 	 necklace a
+5 	 4 	 N/N 	 1 	 necklace diamond
+<\s>
+<s id="wsj_0087.6"> 21
+2 	 0 	 (S\NP)/(S\NP) 	 2 	 Make 5
+2 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 Make through
+5 	 2 	 (S[b]\NP)/NP 	 2 	 difference Make
+5 	 3 	 NP[nb]/N 	 1 	 difference a
+5 	 4 	 N/N 	 1 	 difference lasting
+5 	 6 	 (NP\NP)/NP 	 1 	 difference in
+9 	 6 	 (NP\NP)/NP 	 2 	 life in
+9 	 7 	 NP[nb]/N 	 1 	 life the
+9 	 8 	 N/N 	 1 	 life regulatory
+9 	 10 	 (NP\NP)/NP 	 1 	 life of
+14 	 10 	 (NP\NP)/NP 	 2 	 association of
+14 	 11 	 NP[nb]/N 	 1 	 association an
+14 	 12 	 N/N 	 1 	 association American
+14 	 13 	 N/N 	 1 	 association savings-and-loan
+20 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 Plan through
+20 	 16 	 NP[nb]/N 	 1 	 Plan the
+20 	 17 	 N/N 	 1 	 Plan Foster
+20 	 18 	 N/N 	 1 	 Plan Corporate
+20 	 19 	 N/N 	 1 	 Plan Parents
+<\s>
+<s id="wsj_0087.7"> 16
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 Americans spend
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 spend today
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 spend like
+2 	 8 	 (S\S)/S[dcl] 	 1 	 spend --
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 $ spend
+4 	 3 	 N/N[num] 	 1 	 15,000 $
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 change like
+7 	 6 	 N/N 	 1 	 change pocket
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they do
+9 	 12 	 ((S[b]\NP)/PP)/NP 	 1 	 they think <XB>
+10 	 8 	 (S\S)/S[dcl] 	 2 	 do --
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 do n't
+12 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 think do
+13 	 12 	 ((S[b]\NP)/PP)/NP 	 3 	 much think
+14 	 12 	 ((S[b]\NP)/PP)/NP 	 2 	 about think
+15 	 14 	 PP/NP 	 1 	 it about
+<\s>
+<s id="wsj_0087.8"> 26
+5 	 1 	 (S/S)/NP 	 2 	 association for
+5 	 2 	 NP[nb]/N 	 1 	 association an
+5 	 3 	 N/N 	 1 	 association ailing
+5 	 4 	 N/N 	 1 	 association savings-and-loan
+5 	 6 	 (NP\NP)/(S[ng]\NP) 	 1 	 association --
+7 	 6 	 (NP\NP)/(S[ng]\NP) 	 2 	 teetering --
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 teetering on
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 insolvency on
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it can
+11 	 13 	 S[b]\NP 	 1 	 it lead <XB>
+12 	 0 	 S/S 	 1 	 can But
+12 	 1 	 (S/S)/NP 	 1 	 can for
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 lead can
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 lead to
+13 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 lead to <XU>
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 safety to
+15 	 16 	 (NP\NP)/NP 	 1 	 safety from
+18 	 16 	 (NP\NP)/NP 	 2 	 demise from
+18 	 17 	 N/N 	 1 	 demise imminent
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 future to
+22 	 21 	 NP[nb]/N 	 1 	 future a
+22 	 23 	 S[adj]\NP 	 1 	 future full <XB>
+23 	 24 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 full of
+25 	 24 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 promise of
+<\s>
+<s id="wsj_0087.9"> 20
+1 	 0 	 NP[nb]/N 	 1 	 $ Your
+1 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 $ will
+1 	 4 	 (S[b]\NP)/(S[b]\NP) 	 1 	 $ help <XB>
+1 	 5 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 $ keep <XB>
+2 	 1 	 N/N[num] 	 1 	 15,000 $
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 help will
+5 	 4 	 (S[b]\NP)/(S[b]\NP) 	 2 	 keep help
+8 	 5 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 savings keep
+8 	 6 	 NP[nb]/N 	 1 	 savings a
+8 	 7 	 N/N 	 1 	 savings needy
+8 	 11 	 S[adj]\NP 	 1 	 savings solvent <XB>
+10 	 5 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 loan keep
+10 	 6 	 NP[nb]/N 	 1 	 loan a
+10 	 7 	 N/N 	 1 	 loan needy
+10 	 11 	 S[adj]\NP 	 1 	 loan solvent <XB>
+11 	 5 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 solvent keep
+15 	 5 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 of keep
+15 	 14 	 PP/PP 	 1 	 of out
+19 	 15 	 PP/NP 	 1 	 deficit of
+19 	 16 	 NP[nb]/N 	 1 	 deficit the
+19 	 17 	 N/N 	 1 	 deficit federal
+19 	 18 	 N/N 	 1 	 deficit budget
+<\s>
+<s id="wsj_0087.10"> 19
+4 	 0 	 (S/S)/NP 	 2 	 Parent As
+4 	 1 	 NP[nb]/N 	 1 	 Parent a
+4 	 2 	 N/N 	 1 	 Parent Foster
+4 	 3 	 N/N 	 1 	 Parent Corporate
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you 'll
+6 	 9 	 (S[ng]\NP)/NP 	 1 	 you helping <XB>
+7 	 0 	 (S/S)/NP 	 1 	 'll As
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be 'll
+9 	 8 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 helping be
+9 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 helping in
+12 	 9 	 (S[ng]\NP)/NP 	 2 	 S&L helping
+12 	 10 	 NP[nb]/N 	 1 	 S&L a
+12 	 11 	 N/N 	 1 	 S&L neighborhood
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 areas in
+14 	 15 	 S[adj]\NP 	 1 	 areas crucial <XB>
+15 	 16 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 crucial to
+18 	 16 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 survival to
+18 	 17 	 NP[nb]/N 	 1 	 survival its
+<\s>
+<s id="wsj_0087.11"> 4
+3 	 0 	 PP/NP 	 1 	 capital Like
+3 	 1 	 N/N 	 1 	 capital healthy
+3 	 2 	 N/N 	 1 	 capital regulatory
+<\s>
+<s id="wsj_0087.12"> 4
+3 	 0 	 NP[nb]/N 	 1 	 base A
+3 	 1 	 N/N 	 1 	 base steady
+3 	 2 	 N/N 	 1 	 base deposit
+<\s>
+<s id="wsj_0087.13"> 2
+1 	 0 	 N/N 	 1 	 loans Performing
+<\s>
+<s id="wsj_0087.14"> 31
+3 	 0 	 (S/S)/NP 	 2 	 time At
+3 	 1 	 NP[nb]/N 	 1 	 time the
+3 	 2 	 N/N 	 1 	 time same
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you 'll
+5 	 7 	 ((S[b]\NP)/NP)/NP 	 1 	 you give <XB>
+6 	 0 	 (S/S)/NP 	 1 	 'll At
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give 'll
+11 	 7 	 ((S[b]\NP)/NP)/NP 	 3 	 Institution give
+11 	 8 	 NP[nb]/N 	 1 	 Institution your
+11 	 9 	 N/N 	 1 	 Institution Foster
+11 	 10 	 N/N 	 1 	 Institution Savings
+13 	 7 	 ((S[b]\NP)/NP)/NP 	 2 	 gift give
+13 	 12 	 NP[nb]/N 	 1 	 gift the
+13 	 14 	 (NP\NP)/NP 	 1 	 gift of
+15 	 14 	 (NP\NP)/NP 	 2 	 hope of
+17 	 7 	 ((S[b]\NP)/NP)/NP 	 2 	 freedom give
+17 	 18 	 (NP\NP)/NP 	 1 	 freedom from
+21 	 18 	 (NP\NP)/NP 	 2 	 regulators from
+21 	 19 	 NP[nb]/N 	 1 	 regulators the
+21 	 20 	 N/N 	 1 	 regulators federal
+21 	 22 	 (NP\NP)/(S[dcl]\NP) 	 1 	 regulators who
+21 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 regulators want <XB>
+21 	 25 	 (S[b]\NP)/NP 	 1 	 regulators close <XB>
+23 	 22 	 (NP\NP)/(S[dcl]\NP) 	 2 	 want who
+24 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to want
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 close to
+25 	 28 	 ((S\NP)\(S\NP))/PP 	 2 	 close --
+27 	 25 	 (S[b]\NP)/NP 	 2 	 doors close
+27 	 26 	 NP[nb]/N 	 1 	 doors its
+29 	 28 	 ((S\NP)\(S\NP))/PP 	 3 	 for --
+30 	 29 	 PP/NP 	 1 	 good for
+<\s>
+<s id="wsj_0087.15"> 38
+4 	 0 	 (S/S)/NP 	 2 	 Parent As
+4 	 1 	 NP[nb]/N 	 1 	 Parent a
+4 	 2 	 N/N 	 1 	 Parent Foster
+4 	 3 	 N/N 	 1 	 Parent Corporate
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you will
+6 	 8 	 (S[b]\NP)/NP 	 1 	 you experience <XB>
+7 	 0 	 (S/S)/NP 	 1 	 will As
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 experience will
+11 	 8 	 (S[b]\NP)/NP 	 2 	 joy experience
+11 	 9 	 NP[nb]/N 	 1 	 joy the
+11 	 10 	 N/N 	 1 	 joy same
+11 	 12 	 S[pss]\NP 	 1 	 joy felt <XB>
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 felt by
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Bass by
+15 	 14 	 N/N 	 1 	 Bass Robert
+15 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Bass who
+15 	 26 	 (S[dcl]\NP)/NP 	 1 	 Bass find <XB>
+18 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Ranieri by
+18 	 17 	 N/N 	 1 	 Ranieri Lewis
+18 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Ranieri who
+18 	 26 	 (S[dcl]\NP)/NP 	 1 	 Ranieri find <XB>
+21 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Simon by
+21 	 20 	 N/N 	 1 	 Simon William
+21 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Simon who
+21 	 26 	 (S[dcl]\NP)/NP 	 1 	 Simon find <XB>
+23 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 others by
+23 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 others who
+23 	 26 	 (S[dcl]\NP)/NP 	 1 	 others find <XB>
+26 	 25 	 (NP\NP)/(S[dcl]\NP) 	 2 	 find who
+27 	 26 	 (S[dcl]\NP)/NP 	 2 	 ways find
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 help to
+32 	 29 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 institutions help
+32 	 30 	 N/N 	 1 	 institutions troubled
+32 	 31 	 N/N 	 1 	 institutions savings
+32 	 36 	 (S[b]\NP)/NP 	 1 	 institutions help <XB>
+35 	 29 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 employees help
+35 	 34 	 NP[nb]/N 	 1 	 employees their
+35 	 36 	 (S[b]\NP)/NP 	 1 	 employees help <XB>
+36 	 29 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 help help
+37 	 36 	 (S[b]\NP)/NP 	 2 	 themselves help
+<\s>
+<s id="wsj_0087.16"> 14
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That builds
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 confidence builds
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 sufficiency builds
+5 	 4 	 N/N 	 1 	 sufficiency self
+7 	 8 	 conj\conj 	 1 	 not to
+7 	 9 	 conj\conj 	 1 	 not mention
+13 	 1 	 (S[dcl]\NP)/NP 	 2 	 worth builds
+13 	 10 	 N/N 	 1 	 worth critical
+13 	 11 	 N/N 	 1 	 worth regulatory
+13 	 12 	 N/N 	 1 	 worth net
+<\s>
+<s id="wsj_0087.17"> 11
+0 	 1 	 (S\NP)\(S\NP) 	 2 	 Do n't
+0 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 Do --
+2 	 0 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 wait Do
+6 	 4 	 NP[nb]/N 	 1 	 institution a
+6 	 5 	 N/N 	 1 	 institution savings
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 institution needs
+7 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 needs --
+7 	 10 	 (S\NP)\(S\NP) 	 2 	 needs now
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 help needs
+9 	 8 	 NP[nb]/N 	 1 	 help your
+<\s>
+<s id="wsj_0087.18"> 19
+1 	 0 	 (S/S)/N 	 2 	 day Every
+2 	 3 	 S[dcl]\NP 	 1 	 you delay
+7 	 5 	 NP[nb]/N 	 1 	 institution a
+7 	 6 	 N/N 	 1 	 institution savings
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 institution 's
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 health 's
+9 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 health grows
+9 	 18 	 S[adj]\NP 	 1 	 health worse <XB>
+15 	 12 	 NP[nb]/N 	 1 	 deficit the
+15 	 13 	 N/N 	 1 	 deficit federal
+15 	 14 	 N/N 	 1 	 deficit budget
+15 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 deficit grows
+15 	 18 	 S[adj]\NP 	 1 	 deficit worse <XB>
+17 	 0 	 (S/S)/N 	 1 	 grows Every
+18 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 worse grows
+<\s>
+<s id="wsj_0087.19"> 28
+1 	 0 	 (S[b]\NP)/PP 	 2 	 about Think
+3 	 1 	 PP/NP 	 1 	 good about
+3 	 2 	 NP[nb]/N 	 1 	 good the
+3 	 6 	 ((S[b]\NP)/PP)/NP 	 3 	 good do <XU>
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you can
+4 	 6 	 ((S[b]\NP)/PP)/NP 	 1 	 you do <XB>
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 do can
+7 	 6 	 ((S[b]\NP)/PP)/NP 	 2 	 for do
+9 	 7 	 PP/NP 	 1 	 $ for
+9 	 8 	 N/N 	 1 	 $ just
+9 	 11 	 (NP\NP)/N 	 1 	 $ a
+10 	 9 	 N/N[num] 	 1 	 15,000 $
+12 	 11 	 (NP\NP)/N 	 2 	 month a
+16 	 7 	 PP/NP 	 1 	 cost for
+16 	 14 	 NP/NP 	 1 	 cost about
+16 	 15 	 NP[nb]/N 	 1 	 cost the
+16 	 17 	 (NP\NP)/NP 	 1 	 cost of
+20 	 17 	 (NP\NP)/NP 	 2 	 Chevrolet of
+20 	 18 	 NP[nb]/N 	 1 	 Chevrolet a
+20 	 19 	 N/N 	 1 	 Chevrolet mid-size
+23 	 17 	 (NP\NP)/NP 	 2 	 semesters of
+23 	 22 	 N/N 	 1 	 semesters two
+23 	 24 	 (NP\NP)/NP 	 1 	 semesters at
+27 	 24 	 (NP\NP)/NP 	 2 	 university at
+27 	 25 	 NP[nb]/N 	 1 	 university a
+27 	 26 	 N/N 	 1 	 university state
+<\s>
+<s id="wsj_0087.20"> 22
+1 	 0 	 (S\NP)/(S\NP) 	 2 	 send Then
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 send to
+3 	 1 	 (S[b]\NP)/NP 	 2 	 support send
+3 	 2 	 NP[nb]/N 	 1 	 support your
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 institution to
+7 	 5 	 NP[nb]/N 	 1 	 institution a
+7 	 6 	 N/N 	 1 	 institution savings
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 institution that
+7 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 institution has <XB>
+7 	 10 	 (S[pt]\NP)/NP 	 1 	 institution taken <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has that
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 taken has
+10 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 taken in
+10 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 taken on <XU>
+13 	 10 	 (S[pt]\NP)/NP 	 2 	 rap taken
+13 	 11 	 NP[nb]/N 	 1 	 rap a
+13 	 12 	 N/N 	 1 	 rap bad
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 press in
+16 	 15 	 NP[nb]/N 	 1 	 press the
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 line on
+21 	 19 	 NP[nb]/N 	 1 	 line its
+21 	 20 	 N/N 	 1 	 line bottom
+<\s>
+<s id="wsj_0087.21"> 30
+1 	 0 	 NP[nb]/N 	 1 	 $ Every
+1 	 4 	 (S[dcl]\NP)/NP 	 2 	 $ send <XU>
+1 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 $ will
+1 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 $ go <XB>
+2 	 1 	 N/N[num] 	 1 	 15,000 $
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 you send
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go will
+9 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 way go
+9 	 7 	 NP[nb]/N 	 1 	 way a
+9 	 8 	 N/N 	 1 	 way long
+9 	 11 	 (S[b]\NP)/NP 	 1 	 way boost <XB>
+9 	 20 	 (S[b]\NP)/NP 	 1 	 way keep <XU>
+10 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to go
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 boost to
+14 	 11 	 (S[b]\NP)/NP 	 2 	 worth boost
+14 	 12 	 N/N 	 1 	 worth sagging
+14 	 13 	 N/N 	 1 	 worth net
+17 	 11 	 (S[b]\NP)/NP 	 2 	 morale boost
+17 	 12 	 N/N 	 1 	 morale sagging
+17 	 16 	 N/N 	 1 	 morale employee
+20 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 keep to
+20 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 keep off
+24 	 20 	 (S[b]\NP)/NP 	 2 	 Institution keep
+24 	 21 	 NP[nb]/N 	 1 	 Institution your
+24 	 22 	 N/N 	 1 	 Institution Foster
+24 	 23 	 N/N 	 1 	 Institution Savings
+29 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 deficit off
+29 	 26 	 NP[nb]/N 	 1 	 deficit the
+29 	 27 	 N/N 	 1 	 deficit federal
+29 	 28 	 N/N 	 1 	 deficit budget
+<\s>
+<s id="wsj_0087.22"> 8
+1 	 0 	 N/N 	 1 	 Baris Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Baris is
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 lawyer is
+4 	 3 	 NP[nb]/N 	 1 	 lawyer a
+4 	 5 	 (NP\NP)/NP 	 1 	 lawyer in
+7 	 5 	 (NP\NP)/NP 	 2 	 York in
+7 	 6 	 N/N 	 1 	 York New
+<\s>

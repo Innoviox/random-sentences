@@ -1,0 +1,558 @@
+<s id="wsj_1217.1"> 24
+1 	 0 	 N/N 	 1 	 PRICES STOCK
+1 	 2 	 S[dcl]\NP 	 1 	 PRICES SWUNG
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 SWUNG wildly
+2 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 SWUNG as
+6 	 5 	 NP[nb]/N 	 1 	 market the
+6 	 7 	 (S[dcl]\NP)/PP 	 1 	 market reacted
+7 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 reacted as
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 to reacted
+11 	 8 	 PP/NP 	 1 	 plunge to
+11 	 9 	 NP[nb]/N 	 1 	 plunge an
+11 	 10 	 N/N 	 1 	 plunge initial
+11 	 12 	 (NP\NP)/NP 	 1 	 plunge by
+11 	 16 	 S[pss]\NP 	 1 	 plunge followed <XB>
+14 	 12 	 (NP\NP)/NP 	 2 	 shares by
+14 	 13 	 N/N 	 1 	 shares UAL
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 followed by
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 rebound by
+20 	 18 	 NP[nb]/N 	 1 	 rebound a
+20 	 19 	 N/N 	 1 	 rebound sharp
+20 	 21 	 (NP\NP)/NP 	 1 	 rebound in
+23 	 21 	 (NP\NP)/NP 	 2 	 afternoon in
+23 	 22 	 NP[nb]/N 	 1 	 afternoon the
+<\s>
+<s id="wsj_1217.2"> 19
+3 	 0 	 NP[nb]/N 	 1 	 industrials The
+3 	 1 	 N/N 	 1 	 industrials Dow
+3 	 2 	 N/N 	 1 	 industrials Jones
+3 	 5 	 (NP\NP)/NP 	 1 	 industrials down
+3 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 industrials closed
+3 	 14 	 (S[adj]\NP)/NP 	 1 	 industrials off <XB>
+5 	 9 	 ((NP\NP)\(NP\NP))/NP 	 2 	 down in
+7 	 6 	 (N/N)/(N/N) 	 2 	 80 over
+8 	 5 	 (NP\NP)/NP 	 2 	 points down
+8 	 7 	 N/N 	 1 	 points 80
+11 	 9 	 ((NP\NP)\(NP\NP))/NP 	 3 	 morning in
+11 	 10 	 NP[nb]/N 	 1 	 morning the
+13 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 closed at
+14 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 off closed
+15 	 14 	 (S[adj]\NP)/NP 	 2 	 3.69 off
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 2659.22 at
+<\s>
+<s id="wsj_1217.3"> 18
+1 	 0 	 N/N 	 1 	 prices Bond
+1 	 2 	 S[dcl]\NP 	 1 	 prices surged
+1 	 12 	 S[dcl]\NP 	 1 	 prices eased <XU>
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 surged in
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 reaction in
+4 	 5 	 (NP\NP)/NP 	 1 	 reaction to
+7 	 5 	 (NP\NP)/NP 	 2 	 sell-off to
+7 	 6 	 NP[nb]/N 	 1 	 sell-off the
+7 	 8 	 (NP\NP)/NP 	 1 	 sell-off in
+9 	 8 	 (NP\NP)/NP 	 2 	 stocks in
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 eased then
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 eased slightly
+12 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 eased during
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 recovery during
+17 	 15 	 NP[nb]/N 	 1 	 recovery the
+17 	 16 	 N/N 	 1 	 recovery afternoon
+<\s>
+<s id="wsj_1217.4"> 4
+1 	 0 	 NP[nb]/N 	 1 	 dollar The
+1 	 2 	 S[dcl]\NP 	 1 	 dollar finished
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 finished lower
+<\s>
+<s id="wsj_1217.5"> 24
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 UAL 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 stock 's
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 stock regained
+3 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 regained amid
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 most regained
+4 	 5 	 (NP\NP)/NP 	 1 	 most of
+8 	 5 	 (NP\NP)/NP 	 2 	 loss of
+8 	 6 	 NP[nb]/N 	 1 	 loss an
+8 	 7 	 N/N 	 1 	 loss early
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 speculation amid
+14 	 11 	 N/N 	 1 	 investors one
+14 	 13 	 N/N 	 1 	 investors more
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 investors may
+14 	 16 	 (S[b]\NP)/NP 	 1 	 investors challenge <XB>
+15 	 10 	 N/S[dcl] 	 1 	 may speculation
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 challenge may
+18 	 17 	 NP[nb]/N 	 1 	 airline the
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 airline 's
+20 	 16 	 (S[b]\NP)/NP 	 2 	 decision challenge
+20 	 19 	 (NP[nb]/N)\NP 	 1 	 decision 's
+20 	 22 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 decision stay <XB>
+20 	 23 	 S[adj]\NP 	 1 	 decision independent <XB>
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stay to
+23 	 22 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 independent stay
+<\s>
+<s id="wsj_1217.6"> 19
+1 	 0 	 NP[nb]/N 	 1 	 stock The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 stock closed
+1 	 3 	 (S[adj]\NP)/NP 	 1 	 stock down <XB>
+1 	 12 	 S[ng]\NP 	 1 	 stock plunging <XB>
+2 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 closed at
+2 	 11 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 closed after
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 down closed
+4 	 3 	 (S[adj]\NP)/NP 	 2 	 $ down
+5 	 4 	 N/N[num] 	 1 	 8.375 $
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 $ at
+9 	 8 	 N/N[num] 	 1 	 170 $
+12 	 11 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 plunging after
+12 	 13 	 ((S\NP)\(S\NP))/N[num] 	 2 	 plunging $
+12 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 plunging to
+14 	 13 	 ((S\NP)\(S\NP))/N[num] 	 3 	 33 $
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+18 	 17 	 N/N[num] 	 1 	 145 $
+<\s>
+<s id="wsj_1217.7"> 17
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Ford may
+0 	 2 	 (S[b]\NP)/NP 	 1 	 Ford seek <XB>
+0 	 7 	 (S[ng]\NP)/NP 	 1 	 Ford setting <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seek may
+3 	 2 	 (S[b]\NP)/NP 	 2 	 all seek
+3 	 4 	 (NP\NP)/NP 	 1 	 all of
+5 	 4 	 (NP\NP)/NP 	 2 	 Jaguar of
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 setting for
+9 	 7 	 (S[ng]\NP)/NP 	 2 	 stage setting
+9 	 8 	 NP[nb]/N 	 1 	 stage the
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 war for
+14 	 11 	 NP[nb]/N 	 1 	 war a
+14 	 12 	 N/N 	 1 	 war possible
+14 	 13 	 N/N 	 1 	 war bidding
+14 	 15 	 (NP\NP)/NP 	 1 	 war with
+16 	 15 	 (NP\NP)/NP 	 2 	 GM with
+<\s>
+<s id="wsj_1217.8"> 17
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Jaguar has
+0 	 3 	 (S[ng]\NP)/NP 	 1 	 Jaguar discussing <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+3 	 2 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 discussing been
+5 	 3 	 (S[ng]\NP)/NP 	 2 	 alliance discussing
+5 	 4 	 NP[nb]/N 	 1 	 alliance an
+5 	 6 	 (NP\NP)/NP 	 1 	 alliance with
+7 	 6 	 (NP\NP)/NP 	 2 	 GM with
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Ford 's
+12 	 11 	 (NP[nb]/N)\NP 	 1 	 move 's
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 move may
+12 	 14 	 (S[b]\NP)/NP 	 1 	 move derail <XB>
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 derail may
+16 	 14 	 (S[b]\NP)/NP 	 2 	 talks derail
+16 	 15 	 NP[nb]/N 	 1 	 talks the
+<\s>
+<s id="wsj_1217.9"> 22
+3 	 0 	 N/N 	 1 	 sales Car
+3 	 2 	 N/N 	 1 	 sales truck
+3 	 4 	 S[dcl]\NP 	 1 	 sales slid
+4 	 6 	 (S\NP)\(S\NP) 	 2 	 slid %
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 slid in
+4 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 slid as
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 20.5
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 mid-October in
+11 	 10 	 N/N 	 1 	 manufacturers U.S.
+11 	 12 	 ((S[dcl]\NP)/PP)/NP 	 1 	 manufacturers paid
+12 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 paid as
+14 	 12 	 ((S[dcl]\NP)/PP)/NP 	 3 	 price paid
+14 	 13 	 NP[nb]/N 	 1 	 price the
+15 	 12 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for paid
+17 	 15 	 PP/NP 	 1 	 incentives for
+17 	 16 	 N/N 	 1 	 incentives heavy
+17 	 18 	 (NP\NP)/PP 	 1 	 incentives earlier
+19 	 18 	 (NP\NP)/PP 	 2 	 in earlier
+21 	 19 	 PP/NP 	 1 	 year in
+21 	 20 	 NP[nb]/N 	 1 	 year the
+<\s>
+<s id="wsj_1217.10"> 7
+1 	 0 	 N/N 	 1 	 Motors General
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Motors continued
+1 	 6 	 S[adj]\NP 	 1 	 Motors hit <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continued
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+6 	 4 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 hit be
+6 	 5 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 hit hardest
+<\s>
+<s id="wsj_1217.11"> 22
+2 	 0 	 N/N 	 1 	 orders Durable
+2 	 1 	 N/N 	 1 	 orders goods
+2 	 3 	 S[dcl]\NP 	 1 	 orders slipped
+2 	 9 	 (S[ng]\NP)/NP 	 1 	 orders reflecting <XB>
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 slipped %
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 slipped in
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 0.1
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+9 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 reflecting after
+12 	 9 	 (S[ng]\NP)/NP 	 2 	 demand reflecting
+12 	 10 	 N/N 	 1 	 demand weakening
+12 	 11 	 N/N 	 1 	 demand auto
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 spurt after
+15 	 14 	 NP[nb]/N 	 1 	 spurt a
+15 	 16 	 (NP\NP)/NP 	 1 	 spurt of
+17 	 16 	 (NP\NP)/NP 	 2 	 orders of
+17 	 18 	 (NP\NP)/NP 	 1 	 orders for
+21 	 18 	 (NP\NP)/NP 	 2 	 models for
+21 	 19 	 N/N 	 1 	 models new
+21 	 20 	 N/N 	 1 	 models 1990
+<\s>
+<s id="wsj_1217.12"> 8
+2 	 0 	 (S/S)/NP 	 2 	 items Excluding
+2 	 1 	 N/N 	 1 	 items transportation
+4 	 5 	 S[dcl]\NP 	 1 	 orders rose
+5 	 0 	 (S/S)/NP 	 1 	 rose Excluding
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 rose %
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 1.8
+<\s>
+<s id="wsj_1217.13"> 20
+1 	 0 	 N/N 	 1 	 Southern Norfolk
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Southern 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 board 's
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 board approved
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 buy-back approved
+6 	 5 	 NP[nb]/N 	 1 	 buy-back a
+6 	 7 	 (NP\NP)/NP 	 1 	 buy-back of
+11 	 8 	 (N/N)/(N/N) 	 2 	 million up
+11 	 9 	 (N/N)/(N/N) 	 2 	 million to
+11 	 10 	 (N/N)/(N/N) 	 2 	 million 45
+12 	 7 	 (NP\NP)/NP 	 2 	 shares of
+12 	 11 	 N/N 	 1 	 shares million
+12 	 14 	 (S[pss]\NP)/PP 	 1 	 shares valued <XB>
+15 	 14 	 (S[pss]\NP)/PP 	 2 	 at valued
+17 	 15 	 PP/NP 	 1 	 $ at
+17 	 16 	 N/N 	 1 	 $ over
+19 	 17 	 N/N[num] 	 1 	 billion $
+19 	 18 	 N/N 	 1 	 billion 1.7
+<\s>
+<s id="wsj_1217.14"> 20
+1 	 0 	 NP[nb]/N 	 1 	 repurchase The
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 repurchase coupled <XB>
+1 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 repurchase will
+1 	 10 	 (S[b]\NP)/NP 	 1 	 repurchase reduce <XB>
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 with coupled
+7 	 4 	 PP/NP 	 1 	 buyback with
+7 	 5 	 NP[nb]/N 	 1 	 buyback an
+7 	 6 	 N/N 	 1 	 buyback earlier
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reduce will
+10 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 reduce by
+12 	 11 	 NP[nb]/N 	 1 	 firm the
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 firm 's
+14 	 10 	 (S[b]\NP)/NP 	 2 	 shares reduce
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 shares 's
+14 	 15 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 % by
+19 	 17 	 N/N 	 1 	 % over
+19 	 18 	 N/N 	 1 	 % 26
+<\s>
+<s id="wsj_1217.15"> 24
+2 	 0 	 N/N 	 1 	 Hampshire PS
+2 	 1 	 N/N 	 1 	 Hampshire New
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Hampshire received
+2 	 15 	 (S[ng]\NP)/NP 	 1 	 Hampshire spurring <XB>
+8 	 6 	 (N/N)/N[num] 	 2 	 billion $
+8 	 7 	 N/N 	 1 	 billion 2.25
+9 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 offer received
+9 	 4 	 NP[nb]/N 	 1 	 offer a
+9 	 5 	 N/N 	 1 	 offer sweetened
+9 	 6 	 (N/N)/N[num] 	 1 	 offer $
+10 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from received
+12 	 10 	 PP/NP 	 1 	 Utilities from
+12 	 11 	 N/N 	 1 	 Utilities Northeast
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 spurring likely
+18 	 15 	 (S[ng]\NP)/NP 	 2 	 round spurring
+18 	 16 	 NP[nb]/N 	 1 	 round a
+18 	 17 	 N/N 	 1 	 round new
+18 	 19 	 (NP\NP)/NP 	 1 	 round of
+20 	 19 	 (NP\NP)/NP 	 2 	 bidding of
+20 	 21 	 (NP\NP)/NP 	 1 	 bidding for
+23 	 21 	 (NP\NP)/NP 	 2 	 utility for
+23 	 22 	 NP[nb]/N 	 1 	 utility the
+<\s>
+<s id="wsj_1217.16"> 25
+1 	 0 	 N/N 	 1 	 executives GE
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 executives were
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 executives accused <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 accused were
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 accused by
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 prosecutors by
+6 	 5 	 N/N 	 1 	 prosecutors U.S.
+7 	 3 	 (S[pss]\NP)/PP 	 2 	 of accused
+8 	 7 	 PP/(S[ng]\NP) 	 1 	 providing of
+8 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 providing in
+12 	 8 	 ((S[ng]\NP)/PP)/NP 	 3 	 data providing
+12 	 9 	 N/N 	 1 	 data misleading
+12 	 11 	 N/N 	 1 	 data false
+13 	 8 	 ((S[ng]\NP)/PP)/NP 	 2 	 to providing
+15 	 13 	 PP/NP 	 1 	 Pentagon to
+15 	 14 	 NP[nb]/N 	 1 	 Pentagon the
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 1985 in
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cover to
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 cover up
+24 	 19 	 (S[b]\NP)/NP 	 2 	 practices cover
+24 	 21 	 N/N 	 1 	 practices longstanding
+24 	 22 	 N/N 	 1 	 practices fraudulent
+24 	 23 	 N/N 	 1 	 practices billing
+<\s>
+<s id="wsj_1217.17"> 16
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Texaco said
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 profit rose
+2 	 11 	 (S[adj]\NP)/PP 	 1 	 profit due <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 rose said
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 rose %
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 rose in
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 11
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+8 	 7 	 NP[nb]/N 	 1 	 quarter the
+11 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 due rose
+11 	 10 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 due partly
+12 	 11 	 (S[adj]\NP)/PP 	 2 	 to due
+15 	 12 	 PP/NP 	 1 	 restructuring to
+15 	 13 	 NP[nb]/N 	 1 	 restructuring a
+15 	 14 	 N/N 	 1 	 restructuring massive
+<\s>
+<s id="wsj_1217.18"> 4
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Sun posted
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 gain posted
+3 	 2 	 NP[nb]/N 	 1 	 gain a
+<\s>
+<s id="wsj_1217.19"> 7
+0 	 5 	 (S[dcl]\NP)/NP 	 1 	 Mobil had
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 Shell had
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Chevron had
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 declines had
+<\s>
+<s id="wsj_1217.20"> 21
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Mobil is
+0 	 2 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Mobil preparing <XB>
+0 	 4 	 (S[b]\NP)/NP 	 1 	 Mobil slash <XB>
+0 	 13 	 S[adj]\NP 	 1 	 Mobil as <XB>
+1 	 20 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 preparing is
+3 	 2 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to preparing
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 slash to
+4 	 12 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 slash possibly
+7 	 4 	 (S[b]\NP)/NP 	 2 	 force slash
+7 	 5 	 NP[nb]/N 	 1 	 force its
+7 	 6 	 N/N 	 1 	 force work
+7 	 8 	 (NP\NP)/NP 	 1 	 force in
+10 	 8 	 (NP\NP)/NP 	 2 	 U.S. in
+10 	 9 	 NP[nb]/N 	 1 	 U.S. the
+12 	 14 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/PP 	 3 	 possibly soon
+13 	 12 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 as possibly
+15 	 14 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/PP 	 4 	 as soon
+17 	 15 	 PP/NP 	 1 	 month as
+17 	 16 	 N/N 	 1 	 month next
+19 	 20 	 (S[dcl]\S[dcl])\NP 	 2 	 sources said
+<\s>
+<s id="wsj_1217.21"> 21
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Sears posted
+1 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 posted as
+4 	 3 	 (N/N)/(N/N) 	 2 	 % 16
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 drop posted
+5 	 2 	 NP[nb]/N 	 1 	 drop a
+5 	 4 	 N/N 	 1 	 drop %
+5 	 6 	 (NP\NP)/NP 	 1 	 drop in
+8 	 6 	 (NP\NP)/NP 	 2 	 profit in
+8 	 7 	 N/N 	 1 	 profit third-quarter
+12 	 10 	 N/N 	 1 	 operations U.S.
+12 	 11 	 N/N 	 1 	 operations retail
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 operations recorded
+13 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 recorded as
+16 	 13 	 (S[dcl]\NP)/NP 	 2 	 loss recorded
+16 	 14 	 NP[nb]/N 	 1 	 loss the
+16 	 15 	 N/N 	 1 	 loss first
+16 	 17 	 (NP\NP)/NP 	 1 	 loss in
+19 	 18 	 (N/N)/(N/N) 	 2 	 five over
+20 	 17 	 (NP\NP)/NP 	 2 	 years in
+20 	 19 	 N/N 	 1 	 years five
+<\s>
+<s id="wsj_1217.22"> 9
+1 	 0 	 NP[nb]/N 	 1 	 results The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 results show
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Sears is
+3 	 5 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Sears struggling <XB>
+3 	 7 	 (S[b]\NP)/NP 	 1 	 Sears attract <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 is show
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 struggling is
+6 	 5 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to struggling
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 attract to
+8 	 7 	 (S[b]\NP)/NP 	 2 	 shoppers attract
+<\s>
+<s id="wsj_1217.23"> 21
+1 	 0 	 N/N 	 1 	 Equipment Digital
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Equipment announced
+1 	 8 	 (S[ng]\NP)/NP 	 1 	 Equipment targeting <XB>
+1 	 14 	 (S[ng]\NP)/NP 	 1 	 Equipment heating <XU>
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 computers announced
+6 	 3 	 NP[nb]/N 	 1 	 computers its
+6 	 4 	 N/N 	 1 	 computers first
+6 	 5 	 N/N 	 1 	 computers mainframe
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 IBM 's
+12 	 8 	 (S[ng]\NP)/NP 	 2 	 market targeting
+12 	 10 	 (NP[nb]/N)\NP 	 1 	 market 's
+12 	 11 	 N/N 	 1 	 market largest
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 heating up
+17 	 16 	 NP[nb]/N 	 1 	 industry the
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 industry 's
+20 	 14 	 (S[ng]\NP)/NP 	 2 	 rivalry heating
+20 	 18 	 (NP[nb]/N)\NP 	 1 	 rivalry 's
+20 	 19 	 N/N 	 1 	 rivalry biggest
+<\s>
+<s id="wsj_1217.24"> 22
+1 	 0 	 N/N 	 1 	 Research Cray
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Research expects
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 sales expects
+4 	 3 	 N/N 	 1 	 sales supercomputer
+4 	 7 	 S[adj]\NP 	 1 	 sales flat <XB>
+5 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+6 	 9 	 (S\NP)\(S\NP) 	 2 	 be year
+7 	 6 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 flat be
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+12 	 11 	 NP[nb]/N 	 1 	 latest the
+12 	 13 	 (NP\NP)/NP 	 1 	 latest in
+15 	 13 	 (NP\NP)/NP 	 2 	 series in
+15 	 14 	 NP[nb]/N 	 1 	 series a
+15 	 16 	 (NP\NP)/NP 	 1 	 series of
+18 	 16 	 (NP\NP)/NP 	 2 	 announcements of
+18 	 17 	 N/N 	 1 	 announcements negative
+18 	 19 	 (NP\NP)/NP 	 1 	 announcements by
+21 	 19 	 (NP\NP)/NP 	 2 	 company by
+21 	 20 	 NP[nb]/N 	 1 	 company the
+<\s>
+<s id="wsj_1217.25"> 16
+1 	 0 	 N/N 	 1 	 interest Short
+1 	 2 	 S[dcl]\NP 	 1 	 interest increased
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 increased %
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 increased in
+2 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 increased for
+4 	 3 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 6
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 market in
+9 	 6 	 NP[nb]/N 	 1 	 market the
+9 	 7 	 N/N 	 1 	 market Nasdaq
+9 	 8 	 N/N 	 1 	 market over-the-counter
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 month for
+12 	 11 	 NP[nb]/N 	 1 	 month the
+12 	 13 	 S[pss]\NP 	 1 	 month ended <XB>
+13 	 14 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended Oct.
+15 	 14 	 ((S\NP)\(S\NP))/N[num] 	 3 	 13 Oct.
+<\s>
+<s id="wsj_1217.26"> 19
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Salomon posted
+0 	 10 	 S[pss]\NP 	 1 	 Salomon aided <XB>
+4 	 3 	 (N/N)/(N/N) 	 2 	 big unexpectedly
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 gain posted
+5 	 2 	 NP[nb]/N 	 1 	 gain an
+5 	 4 	 N/N 	 1 	 gain big
+5 	 6 	 (NP\NP)/NP 	 1 	 gain in
+8 	 6 	 (NP\NP)/NP 	 2 	 earnings in
+8 	 7 	 N/N 	 1 	 earnings quarterly
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 aided by
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 trading by
+14 	 12 	 NP[nb]/N 	 1 	 trading its
+14 	 13 	 N/N 	 1 	 trading securities
+18 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 activities by
+18 	 12 	 NP[nb]/N 	 1 	 activities its
+18 	 16 	 N/N 	 1 	 activities investment
+18 	 17 	 N/N 	 1 	 activities banking
+<\s>
+<s id="wsj_1217.27"> 26
+2 	 0 	 N/N 	 1 	 Gamble Procter
+2 	 1 	 N/N 	 1 	 Gamble &
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Gamble 's
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 profit 's
+4 	 5 	 S[dcl]\NP 	 1 	 profit surged
+4 	 14 	 S[pss]\NP 	 1 	 profit aided <XB>
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 surged %
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 surged in
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 38
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+12 	 9 	 NP[nb]/N 	 1 	 quarter its
+12 	 10 	 N/N 	 1 	 quarter latest
+12 	 11 	 N/N 	 1 	 quarter fiscal
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 aided by
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 gain by
+17 	 16 	 NP[nb]/N 	 1 	 gain a
+17 	 18 	 (NP\NP)/NP 	 1 	 gain from
+21 	 18 	 (NP\NP)/NP 	 2 	 settlement from
+21 	 19 	 NP[nb]/N 	 1 	 settlement a
+21 	 20 	 N/N 	 1 	 settlement legal
+24 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 growth by
+24 	 23 	 N/N 	 1 	 growth continued
+24 	 25 	 N\N 	 1 	 growth overseas
+<\s>
+<s id="wsj_1217.28"> 19
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Goodyear 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 profit 's
+2 	 3 	 S[dcl]\NP 	 1 	 profit rose
+2 	 10 	 S[pss]\NP 	 1 	 profit buoyed <XB>
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 rose %
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 rose in
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 11
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+8 	 7 	 NP[nb]/N 	 1 	 quarter the
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 buoyed by
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 results by
+14 	 12 	 N/N 	 1 	 results improved
+14 	 13 	 N/N 	 1 	 results operating
+14 	 15 	 (NP\NP)/NP 	 1 	 results in
+18 	 15 	 (NP\NP)/NP 	 2 	 business in
+18 	 16 	 NP[nb]/N 	 1 	 business its
+18 	 17 	 N/N 	 1 	 business tire
+<\s>
+<s id="wsj_1217.29"> 1
+<\s>
+<s id="wsj_1217.30"> 5
+0 	 1 	 (NP\NP)/NP 	 1 	 Stocks :
+2 	 1 	 (NP\NP)/NP 	 2 	 Volume :
+2 	 4 	 NP\NP 	 1 	 Volume shares
+4 	 3 	 (NP\NP)/(NP\NP) 	 2 	 shares 237,960,000
+<\s>
+<s id="wsj_1217.31"> 19
+2 	 0 	 N/N 	 1 	 industrials Dow
+2 	 1 	 N/N 	 1 	 industrials Jones
+2 	 3 	 NP\NP 	 1 	 industrials 2659.22
+2 	 5 	 (NP\NP)/NP 	 1 	 industrials off
+6 	 5 	 (NP\NP)/NP 	 2 	 3.69 off
+8 	 9 	 NP\NP 	 1 	 transportation 1210.70
+8 	 11 	 (NP\NP)/NP 	 1 	 transportation off
+12 	 11 	 (NP\NP)/NP 	 2 	 25.96 off
+14 	 15 	 NP\NP 	 1 	 utilities 215.04
+14 	 17 	 (NP\NP)/NP 	 1 	 utilities off
+18 	 17 	 (NP\NP)/NP 	 2 	 0.31 off
+<\s>
+<s id="wsj_1217.32"> 9
+0 	 1 	 (NP\NP)/NP 	 1 	 Bonds :
+6 	 1 	 (NP\NP)/NP 	 2 	 index :
+6 	 2 	 N/N 	 1 	 index Shearson
+6 	 3 	 N/N 	 1 	 index Lehman
+6 	 4 	 N/N 	 1 	 index Hutton
+6 	 5 	 N/N 	 1 	 index Treasury
+6 	 7 	 NP\NP 	 1 	 index 3425.22
+<\s>
+<s id="wsj_1217.33"> 17
+0 	 1 	 (NP\NP)/NP 	 1 	 Commodities :
+5 	 1 	 (NP\NP)/NP 	 2 	 index :
+5 	 2 	 N/N 	 1 	 index Dow
+5 	 3 	 N/N 	 1 	 index Jones
+5 	 4 	 N/N 	 1 	 index futures
+5 	 6 	 NP\NP 	 1 	 index 129.24
+5 	 8 	 (NP\NP)/NP 	 1 	 index off
+9 	 8 	 (NP\NP)/NP 	 2 	 0.25 off
+12 	 1 	 (NP\NP)/NP 	 2 	 index :
+12 	 11 	 N/N 	 1 	 index spot
+12 	 13 	 NP\NP 	 1 	 index 130.76
+12 	 15 	 (NP\NP)/NP 	 1 	 index off
+16 	 15 	 (NP\NP)/NP 	 2 	 0.88 off
+<\s>
+<s id="wsj_1217.34"> 13
+0 	 1 	 (NP\NP)/NP 	 1 	 Dollar :
+3 	 1 	 (NP\NP)/NP 	 2 	 yen :
+3 	 2 	 N/N 	 1 	 yen 141.45
+3 	 5 	 (NP\NP)/NP 	 1 	 yen off
+6 	 5 	 (NP\NP)/NP 	 2 	 0.45 off
+9 	 1 	 (NP\NP)/NP 	 2 	 marks :
+9 	 8 	 N/N 	 1 	 marks 1.8355
+9 	 11 	 (NP\NP)/NP 	 1 	 marks off
+12 	 11 	 (NP\NP)/NP 	 2 	 0.0115 off
+<\s>

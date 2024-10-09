@@ -1,0 +1,87 @@
+<s id="wsj_1714.1"> 35
+2 	 0 	 N/N 	 1 	 S.A. Aussedat
+2 	 1 	 N/N 	 1 	 S.A. Rey
+2 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 S.A. said
+7 	 4 	 NP[nb]/N 	 1 	 producer a
+7 	 5 	 N/N 	 1 	 producer French
+7 	 6 	 N/N 	 1 	 producer paper
+7 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 producer said
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 it concluded
+11 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 concluded said
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 agreement concluded
+13 	 12 	 NP[nb]/N 	 1 	 agreement an
+13 	 14 	 (NP\NP)/NP 	 1 	 agreement with
+13 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 agreement that
+13 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 agreement will <XB>
+13 	 23 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 agreement allow <XB>
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Japan 's
+20 	 14 	 (NP\NP)/NP 	 2 	 Co. with
+20 	 16 	 (NP[nb]/N)\NP 	 1 	 Co. 's
+20 	 17 	 N/N 	 1 	 Co. Fuji
+20 	 18 	 N/N 	 1 	 Co. Photo
+20 	 19 	 N/N 	 1 	 Co. Film
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 allow will
+25 	 23 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 Rey allow
+25 	 24 	 N/N 	 1 	 Rey Aussedat
+25 	 27 	 (S[b]\NP)/NP 	 1 	 Rey manufacture <XB>
+25 	 29 	 (S[b]\NP)/NP 	 1 	 Rey sell <XU>
+25 	 32 	 (S[ng]\NP)/NP 	 1 	 Rey using <XB>
+26 	 23 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 manufacture to
+29 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+31 	 27 	 (S[b]\NP)/NP 	 2 	 paper manufacture <XU>
+31 	 29 	 (S[b]\NP)/NP 	 2 	 paper sell
+31 	 30 	 N/N 	 1 	 paper thermal
+34 	 32 	 (S[ng]\NP)/NP 	 2 	 technology using
+34 	 33 	 N/N 	 1 	 technology Fuji
+<\s>
+<s id="wsj_1714.2"> 13
+1 	 0 	 N/N 	 1 	 Rey Aussedat
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Rey is
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 maker is
+6 	 3 	 NP[nb]/N 	 1 	 maker a
+6 	 4 	 N/N 	 1 	 maker leading
+6 	 5 	 N/N 	 1 	 maker French
+6 	 7 	 (NP\NP)/NP 	 1 	 maker of
+12 	 7 	 (NP\NP)/NP 	 2 	 paper of
+12 	 8 	 N/N 	 1 	 paper copying
+12 	 10 	 N/N 	 1 	 paper electronic
+12 	 11 	 N/N 	 1 	 paper printing
+<\s>
+<s id="wsj_1714.3"> 7
+1 	 0 	 N/N 	 1 	 paper Thermal
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 paper is
+1 	 3 	 S[pss]\NP 	 1 	 paper used <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 used is
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 used in
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 machines in
+6 	 5 	 N/N 	 1 	 machines facsimile
+<\s>
+<s id="wsj_1714.4"> 7
+0 	 1 	 (NP\NP)/NP 	 1 	 Terms of
+0 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Terms were
+0 	 6 	 S[pss]\NP 	 1 	 Terms disclosed <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 agreement of
+3 	 2 	 NP[nb]/N 	 1 	 agreement the
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 were n't
+6 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 disclosed were
+<\s>
+<s id="wsj_1714.5"> 18
+1 	 0 	 N/N 	 1 	 Rey Aussedat
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Rey 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 move 's
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 move follows
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 agreements follows
+7 	 5 	 N/N 	 1 	 agreements similar
+7 	 6 	 N/N 	 1 	 agreements technology-licensing
+7 	 8 	 (NP\NP)/NP 	 1 	 agreements between
+10 	 8 	 (NP\NP)/NP 	 2 	 producers between
+10 	 9 	 N/N 	 1 	 producers Japanese
+10 	 11 	 (NP\NP)/NP 	 1 	 producers of
+13 	 11 	 (NP\NP)/NP 	 2 	 paper of
+13 	 12 	 N/N 	 1 	 paper thermal
+17 	 8 	 (NP\NP)/NP 	 2 	 groups between
+17 	 15 	 N/N 	 1 	 groups European
+17 	 16 	 N/N 	 1 	 groups paper
+<\s>

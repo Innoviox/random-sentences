@@ -1,0 +1,952 @@
+<s id="wsj_2136.1"> 23
+3 	 0 	 N/N 	 1 	 Corp. Dun
+3 	 1 	 N/N 	 1 	 Corp. &
+3 	 2 	 N/N 	 1 	 Corp. Bradstreet
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+8 	 4 	 (NP[nb]/N)\NP 	 1 	 unit 's
+8 	 5 	 N/N 	 1 	 unit Market
+8 	 6 	 N/N 	 1 	 unit Data
+8 	 7 	 N/N 	 1 	 unit Retrieval
+8 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 unit said
+10 	 11 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it acquired
+11 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 acquired said
+17 	 11 	 ((S[dcl]\NP)/PP)/NP 	 3 	 service acquired
+17 	 12 	 N/N 	 1 	 service School
+17 	 14 	 N/N 	 1 	 service College
+17 	 15 	 N/N 	 1 	 service Construction
+17 	 16 	 N/N 	 1 	 service Reports
+18 	 11 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from acquired
+19 	 20 	 ((N/N)\(N/N))/NP 	 2 	 Intelligence for
+21 	 20 	 ((N/N)\(N/N))/NP 	 3 	 Education for
+22 	 18 	 PP/NP 	 1 	 Inc from
+22 	 19 	 N/N 	 1 	 Inc Intelligence
+<\s>
+<s id="wsj_2136.2"> 4
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Terms were
+0 	 3 	 S[pss]\NP 	 1 	 Terms disclosed <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 were n't
+3 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 disclosed were
+<\s>
+<s id="wsj_2136.3"> 11
+1 	 0 	 NP[nb]/N 	 1 	 service The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 service supplies
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 reports supplies
+4 	 3 	 N/N 	 1 	 reports weekly
+4 	 5 	 (NP\NP)/NP 	 1 	 reports on
+10 	 5 	 (NP\NP)/NP 	 2 	 plans on
+10 	 6 	 N/N 	 1 	 plans school
+10 	 8 	 N/N 	 1 	 plans college
+10 	 9 	 N/N 	 1 	 plans construction
+<\s>
+<s id="wsj_2136.4"> 13
+2 	 0 	 N/N 	 1 	 Retrieval Market
+2 	 1 	 N/N 	 1 	 Retrieval Data
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Retrieval is
+2 	 10 	 (S[dcl]\NP)/NP 	 1 	 Retrieval provides <XU>
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 compiler is
+5 	 4 	 NP[nb]/N 	 1 	 compiler a
+5 	 6 	 (NP\NP)/NP 	 1 	 compiler of
+8 	 6 	 (NP\NP)/NP 	 2 	 information of
+8 	 7 	 N/N 	 1 	 information educational
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 services provides
+12 	 11 	 N/N 	 1 	 services related
+<\s>
+<s id="wsj_2136.5"> 17
+1 	 0 	 (N/N)/(N/N) 	 2 	 held Closely
+2 	 1 	 N/N 	 1 	 Intelligence held
+2 	 3 	 (NP\NP)/NP 	 1 	 Intelligence in
+2 	 6 	 (NP\NP)/NP 	 1 	 Intelligence of
+2 	 11 	 (S[dcl]\NP)/NP 	 1 	 Intelligence is
+4 	 3 	 (NP\NP)/NP 	 2 	 Education in
+7 	 6 	 (NP\NP)/NP 	 2 	 Larchmont of
+9 	 6 	 (NP\NP)/NP 	 2 	 N.Y. of
+14 	 11 	 (S[dcl]\NP)/NP 	 2 	 publisher is
+14 	 12 	 NP[nb]/N 	 1 	 publisher an
+14 	 13 	 N/N 	 1 	 publisher educational
+16 	 11 	 (S[dcl]\NP)/NP 	 2 	 consultant is
+16 	 12 	 NP[nb]/N 	 1 	 consultant an
+16 	 13 	 N/N 	 1 	 consultant educational
+<\s>
+<s id="wsj_2136.6"> 23
+1 	 0 	 NP[nb]/N 	 1 	 battle A
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 battle is
+1 	 3 	 S[ng]\NP 	 1 	 battle raging <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 raging is
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 raging in
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 raging over
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Venice in
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 plans over
+7 	 9 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 plans have <XB>
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+13 	 9 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 city have
+13 	 10 	 NP[nb]/N 	 1 	 city the
+13 	 11 	 N/N 	 1 	 city 1,200-year-old
+13 	 12 	 N/N 	 1 	 city Italian
+13 	 14 	 (S[b]\NP)/NP 	 1 	 city be <XB>
+14 	 9 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 be have
+14 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 be in
+16 	 14 	 (S[b]\NP)/NP 	 2 	 site be
+16 	 15 	 NP[nb]/N 	 1 	 site the
+16 	 17 	 (NP\NP)/NP 	 1 	 site for
+20 	 17 	 (NP\NP)/NP 	 2 	 exposition for
+20 	 18 	 NP[nb]/N 	 1 	 exposition a
+20 	 19 	 N/N 	 1 	 exposition universal
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 2000 in
+<\s>
+<s id="wsj_2136.7"> 26
+1 	 0 	 NP[nb]/N 	 1 	 plans The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 plans include
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 system include
+5 	 3 	 NP[nb]/N 	 1 	 system a
+5 	 4 	 N/N 	 1 	 system subway
+9 	 2 	 (S[dcl]\NP)/NP 	 2 	 center include
+9 	 7 	 NP[nb]/N 	 1 	 center a
+9 	 8 	 N/N 	 1 	 center congress
+12 	 2 	 (S[dcl]\NP)/NP 	 2 	 trees include
+12 	 11 	 N/N 	 1 	 trees floating
+15 	 2 	 (S[dcl]\NP)/NP 	 2 	 fountains include
+15 	 14 	 N/N 	 1 	 fountains fanciful
+18 	 2 	 (S[dcl]\NP)/NP 	 2 	 as include
+18 	 24 	 (NP\NP)/N 	 1 	 as a
+19 	 18 	 ((NP[nb]/N)/PP)/(S[adj]\NP) 	 3 	 many as
+20 	 18 	 ((NP[nb]/N)/PP)/(S[adj]\NP) 	 2 	 as as
+21 	 20 	 PP/NP 	 1 	 60,000 as
+23 	 18 	 ((NP[nb]/N)/PP)/(S[adj]\NP) 	 1 	 tourists as
+23 	 22 	 N/N 	 1 	 tourists additional
+25 	 24 	 (NP\NP)/N 	 2 	 day a
+<\s>
+<s id="wsj_2136.8"> 20
+1 	 0 	 N/N 	 1 	 enthusiasts Expo
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 enthusiasts argue
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that argue
+4 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 holding would
+4 	 8 	 (S[b]\NP)/NP 	 1 	 holding attract <XB>
+4 	 11 	 (S[b]\NP)/NP 	 1 	 holding create <XU>
+4 	 14 	 (S[b]\NP)/(S[b]\NP) 	 1 	 holding help <XU>
+4 	 15 	 (S[b]\NP)/NP 	 1 	 holding renovate <XU>
+6 	 4 	 (S[ng]\NP)/NP 	 2 	 fair holding
+6 	 5 	 NP[nb]/N 	 1 	 fair the
+7 	 3 	 S[em]/S[dcl] 	 1 	 would that
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 attract would
+9 	 8 	 (S[b]\NP)/NP 	 2 	 businesses attract
+11 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 create would
+12 	 11 	 (S[b]\NP)/NP 	 2 	 jobs create
+14 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 help would
+15 	 14 	 (S[b]\NP)/(S[b]\NP) 	 2 	 renovate help
+17 	 15 	 (S[b]\NP)/NP 	 2 	 sections renovate
+17 	 16 	 N/N 	 1 	 sections abandoned
+17 	 18 	 (NP\NP)/NP 	 1 	 sections of
+19 	 18 	 (NP\NP)/NP 	 2 	 town of
+<\s>
+<s id="wsj_2136.9"> 4
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 opponents fear
+2 	 0 	 S/S 	 1 	 fear But
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 overcrowding fear
+<\s>
+<s id="wsj_2136.10"> 27
+1 	 0 	 NP[nb]/N 	 1 	 city This
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 city has
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 has already
+3 	 16 	 (S[dcl]\S[dcl])/NP 	 1 	 has says
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 tourists has
+6 	 4 	 N/N 	 1 	 tourists too
+6 	 5 	 N/N 	 1 	 tourists many
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it ca
+9 	 12 	 (S[b]\NP)/NP 	 1 	 it hold <XB>
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 ca n't
+10 	 16 	 (S[dcl]\S[dcl])/NP 	 1 	 ca says
+12 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 hold ca
+13 	 12 	 (S[b]\NP)/NP 	 2 	 them hold
+13 	 14 	 NP\NP 	 1 	 them all
+18 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 Beggiato says
+18 	 17 	 N/N 	 1 	 Beggiato Pierluigi
+21 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+21 	 20 	 NP[nb]/N 	 1 	 president the
+21 	 22 	 (NP\NP)/NP 	 1 	 president of
+26 	 22 	 (NP\NP)/NP 	 2 	 association of
+26 	 23 	 NP[nb]/N 	 1 	 association the
+26 	 24 	 N/N 	 1 	 association Venice
+26 	 25 	 N/N 	 1 	 association hoteliers
+<\s>
+<s id="wsj_2136.11"> 30
+1 	 0 	 (N/N)/(N/N) 	 2 	 40 About
+3 	 1 	 N/N 	 1 	 businesses 40
+3 	 2 	 N/N 	 1 	 businesses Italian
+3 	 5 	 (NP\NP)/NP 	 1 	 businesses including
+3 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 businesses have
+3 	 19 	 (S[pt]\NP)/NP 	 1 	 businesses formed <XB>
+9 	 5 	 (NP\NP)/NP 	 2 	 A. including
+9 	 6 	 N/N 	 1 	 A. Fiat
+9 	 7 	 N/N 	 1 	 A. S.p
+16 	 5 	 (NP\NP)/NP 	 2 	 Co. including
+16 	 11 	 N/N 	 1 	 Co. Ing
+16 	 13 	 N/N 	 1 	 Co. C.
+16 	 14 	 N/N 	 1 	 Co. Olivetti
+16 	 15 	 N/N 	 1 	 Co. &
+19 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 formed have
+21 	 19 	 (S[pt]\NP)/NP 	 2 	 consortium formed
+21 	 20 	 NP[nb]/N 	 1 	 consortium a
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lobby to
+24 	 23 	 (S[b]\NP)/PP 	 2 	 for lobby
+25 	 24 	 PP/(S[ng]\NP) 	 1 	 holding for
+25 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 holding in
+27 	 25 	 (S[ng]\NP)/NP 	 2 	 expo holding
+27 	 26 	 NP[nb]/N 	 1 	 expo the
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 Venice in
+<\s>
+<s id="wsj_2136.12"> 7
+2 	 0 	 N/N 	 1 	 casinos Three
+2 	 1 	 N/N 	 1 	 casinos gambling
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 casinos have
+2 	 4 	 S[pt]\NP 	 1 	 casinos opened <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 opened have
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 opened in
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Poland in
+<\s>
+<s id="wsj_2136.13"> 26
+2 	 0 	 NP[nb]/N 	 1 	 establishments The
+2 	 1 	 N/N 	 1 	 establishments three
+2 	 3 	 (NP\NP)/NP 	 1 	 establishments --
+2 	 12 	 (S[b]\NP)/NP 	 1 	 establishments accept
+2 	 17 	 (S[b]\NP)/NP 	 1 	 establishments are <XU>
+4 	 3 	 (NP\NP)/NP 	 2 	 two --
+4 	 5 	 (NP\NP)/NP 	 1 	 two in
+6 	 5 	 (NP\NP)/NP 	 2 	 Warsaw in
+8 	 3 	 (NP\NP)/NP 	 2 	 one --
+8 	 9 	 (NP\NP)/NP 	 1 	 one in
+10 	 9 	 (NP\NP)/NP 	 2 	 Krakow in
+15 	 12 	 (S[b]\NP)/NP 	 2 	 currency accept
+15 	 13 	 N/N 	 1 	 currency only
+15 	 14 	 N/N 	 1 	 currency foreign
+19 	 17 	 (S[b]\NP)/NP 	 2 	 ventures are
+19 	 18 	 N/N 	 1 	 ventures joint
+19 	 20 	 (NP\NP)/NP 	 1 	 ventures between
+22 	 20 	 (NP\NP)/NP 	 2 	 firms between
+22 	 21 	 N/N 	 1 	 firms Polish
+25 	 20 	 (NP\NP)/NP 	 2 	 companies between
+25 	 24 	 N/N 	 1 	 companies Western
+<\s>
+<s id="wsj_2136.14"> 5
+2 	 0 	 NP/NP 	 1 	 Poles Not
+2 	 1 	 NP[nb]/N 	 1 	 Poles all
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Poles are
+2 	 4 	 S[adj]\NP 	 1 	 Poles pleased <XB>
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 pleased are
+<\s>
+<s id="wsj_2136.15"> 19
+0 	 18 	 (S[dcl]\S[wq])\NP 	 1 	 What asked
+1 	 0 	 S[wq]/(S[q]/NP) 	 1 	 do What
+2 	 1 	 (S[q]/(S[b]\NP))/NP 	 2 	 we do
+2 	 3 	 ((S[b]\NP)/PP)/NP 	 1 	 we want <XB>
+3 	 1 	 (S[q]/(S[b]\NP))/NP 	 1 	 want do
+3 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 want when
+4 	 3 	 ((S[b]\NP)/PP)/NP 	 3 	 casinos want
+5 	 3 	 ((S[b]\NP)/PP)/NP 	 2 	 for want
+7 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 we have
+7 	 10 	 (S[pt]\NP)/NP 	 1 	 we got <XB>
+8 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 have when
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 have n't
+10 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 got have
+10 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 got in
+11 	 10 	 (S[pt]\NP)/NP 	 2 	 anything got
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 shops in
+14 	 13 	 NP[nb]/N 	 1 	 shops the
+17 	 16 	 N/N 	 1 	 housewife one
+17 	 18 	 (S[dcl]\S[wq])\NP 	 2 	 housewife asked
+<\s>
+<s id="wsj_2136.16"> 46
+2 	 1 	 N/N 	 1 	 Gumkowski Bogdan
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Gumkowski who
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 Gumkowski runs <XB>
+2 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 Gumkowski said
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 runs who
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 casino runs
+7 	 6 	 NP[nb]/N 	 1 	 casino the
+7 	 8 	 (NP\NP)/NP 	 1 	 casino at
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Warsaw 's
+12 	 8 	 (NP\NP)/NP 	 2 	 Hotel at
+12 	 10 	 (NP[nb]/N)\NP 	 1 	 Hotel 's
+12 	 11 	 N/N 	 1 	 Hotel Marriott
+14 	 0 	 S/S 	 1 	 said But
+16 	 15 	 NP[nb]/N 	 1 	 ventures the
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 ventures would
+16 	 18 	 (S[b]\NP)/S[dcl] 	 1 	 ventures help <XB>
+17 	 14 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 help would
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 Poland service
+19 	 28 	 ((S[ng]\NP)/PP)/NP 	 1 	 Poland pouring <XB>
+20 	 18 	 (S[b]\NP)/S[dcl] 	 2 	 service help
+20 	 27 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 service by
+24 	 22 	 (N/N)/N[num] 	 2 	 billion $
+24 	 23 	 N/N 	 1 	 billion 39
+26 	 20 	 (S[dcl]\NP)/NP 	 2 	 debt service
+26 	 21 	 NP[nb]/N 	 1 	 debt its
+26 	 22 	 (N/N)/N[num] 	 1 	 debt $
+26 	 25 	 N/N 	 1 	 debt foreign
+28 	 27 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 pouring by
+29 	 28 	 ((S[ng]\NP)/PP)/NP 	 3 	 dollars pouring
+30 	 28 	 ((S[ng]\NP)/PP)/NP 	 2 	 into pouring
+33 	 30 	 PP/NP 	 1 	 firms into
+33 	 31 	 NP[nb]/N 	 1 	 firms the
+33 	 32 	 N/N 	 1 	 firms state
+33 	 34 	 (NP\NP)/NP 	 1 	 firms in
+33 	 38 	 (NP\NP)/NP 	 1 	 firms --
+37 	 34 	 (NP\NP)/NP 	 2 	 ventures in
+37 	 35 	 NP[nb]/N 	 1 	 ventures the
+37 	 36 	 N/N 	 1 	 ventures joint
+41 	 38 	 (NP\NP)/NP 	 2 	 airline --
+41 	 39 	 NP[nb]/N 	 1 	 airline the
+41 	 40 	 N/N 	 1 	 airline LOT
+45 	 38 	 (NP\NP)/NP 	 2 	 organization --
+45 	 43 	 N/N 	 1 	 organization Orbis
+45 	 44 	 N/N 	 1 	 organization tourist
+<\s>
+<s id="wsj_2136.17"> 11
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Algeria plans
+0 	 3 	 (S[b]\NP)/NP 	 1 	 Algeria increase <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 increase to
+5 	 3 	 (S[b]\NP)/NP 	 2 	 sales increase
+5 	 4 	 N/N 	 1 	 sales natural-gas
+5 	 6 	 (NP\NP)/NP 	 1 	 sales to
+7 	 6 	 (NP\NP)/NP 	 2 	 Europe to
+10 	 6 	 (NP\NP)/NP 	 2 	 U.S. to
+10 	 9 	 NP[nb]/N 	 1 	 U.S. the
+<\s>
+<s id="wsj_2136.18"> 44
+1 	 0 	 (S/S)/PP 	 2 	 to According
+6 	 1 	 PP/NP 	 1 	 Survey to
+6 	 2 	 NP[nb]/N 	 1 	 Survey the
+6 	 3 	 N/N 	 1 	 Survey Middle
+6 	 4 	 N/N 	 1 	 Survey East
+6 	 5 	 N/N 	 1 	 Survey Economic
+10 	 9 	 (N/N)/(N/N) 	 2 	 African North
+11 	 8 	 NP[nb]/N 	 1 	 nation the
+11 	 10 	 N/N 	 1 	 nation African
+11 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 nation is
+11 	 13 	 (S[ng]\NP)/NP 	 1 	 nation holding <XB>
+12 	 0 	 (S/S)/PP 	 1 	 is According
+13 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 holding is
+14 	 13 	 (S[ng]\NP)/NP 	 2 	 talks holding
+14 	 15 	 (NP\NP)/NP 	 1 	 talks with
+14 	 17 	 (NP\NP)/(S[ng]\NP) 	 1 	 talks for
+16 	 15 	 (NP\NP)/NP 	 2 	 Italy with
+18 	 17 	 (NP\NP)/(S[ng]\NP) 	 2 	 adding for
+21 	 18 	 ((S[ng]\NP)/PP)/NP 	 3 	 pipe adding
+21 	 19 	 NP[nb]/N 	 1 	 pipe a
+21 	 20 	 N/N 	 1 	 pipe fourth
+22 	 18 	 ((S[ng]\NP)/PP)/NP 	 2 	 to adding
+24 	 22 	 PP/NP 	 1 	 section to
+24 	 23 	 NP[nb]/N 	 1 	 section a
+24 	 25 	 (NP\NP)/NP 	 1 	 section of
+28 	 25 	 (NP\NP)/NP 	 2 	 pipeline of
+28 	 26 	 NP[nb]/N 	 1 	 pipeline the
+28 	 27 	 N/N 	 1 	 pipeline Trans-Mediterranean
+30 	 41 	 ((S\NP)\(S\NP))/NP 	 2 	 expanding from
+31 	 30 	 ((S[ng]\NP)/PP)/NP 	 3 	 capacity expanding
+32 	 30 	 ((S[ng]\NP)/PP)/NP 	 2 	 by expanding
+36 	 33 	 (N/N)/(N/N) 	 2 	 billion up
+36 	 34 	 (N/N)/(N/N) 	 2 	 billion to
+36 	 35 	 (N/N)/(N/N) 	 2 	 billion six
+38 	 32 	 PP/NP 	 1 	 meters by
+38 	 36 	 N/N 	 1 	 meters billion
+38 	 37 	 N/N 	 1 	 meters cubic
+38 	 39 	 (NP\NP)/N 	 1 	 meters a
+40 	 39 	 (NP\NP)/N 	 2 	 year a
+43 	 41 	 ((S\NP)\(S\NP))/NP 	 3 	 billion from
+43 	 42 	 N/N 	 1 	 billion 12.5
+<\s>
+<s id="wsj_2136.19"> 36
+0 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Algeria wants
+0 	 4 	 (S[b]\NP)/NP 	 1 	 Algeria build <XB>
+0 	 16 	 ((S[b]\NP)/PP)/NP 	 1 	 Algeria supply <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 wants also
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wants
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 build through
+4 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 build across <XU>
+6 	 4 	 (S[b]\NP)/NP 	 2 	 pipeline build
+6 	 5 	 NP[nb]/N 	 1 	 pipeline a
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Morocco through
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 Strait across
+12 	 11 	 NP[nb]/N 	 1 	 Strait the
+12 	 13 	 (NP\NP)/NP 	 1 	 Strait of
+14 	 13 	 (NP\NP)/NP 	 2 	 Gibraltar of
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 supply to
+16 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 supply by
+17 	 16 	 ((S[b]\NP)/PP)/NP 	 3 	 Spain supply
+19 	 16 	 ((S[b]\NP)/PP)/NP 	 3 	 France supply
+22 	 16 	 ((S[b]\NP)/PP)/NP 	 3 	 Germany supply
+22 	 21 	 N/N 	 1 	 Germany West
+23 	 16 	 ((S[b]\NP)/PP)/NP 	 2 	 with supply
+27 	 24 	 (N/N)/(N/N) 	 2 	 billion up
+27 	 25 	 (N/N)/(N/N) 	 2 	 billion to
+27 	 26 	 (N/N)/(N/N) 	 2 	 billion 15
+29 	 23 	 PP/NP 	 1 	 meters with
+29 	 27 	 N/N 	 1 	 meters billion
+29 	 28 	 N/N 	 1 	 meters cubic
+29 	 30 	 (NP\NP)/N 	 1 	 meters a
+31 	 30 	 (NP\NP)/N 	 2 	 year a
+35 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 1990s by
+35 	 33 	 NP[nb]/N 	 1 	 1990s the
+35 	 34 	 N/N 	 1 	 1990s late
+<\s>
+<s id="wsj_2136.20"> 32
+1 	 0 	 N/N 	 1 	 Africa South
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Africa 's
+4 	 2 	 (NP[nb]/N)\NP 	 1 	 Union 's
+4 	 3 	 N/N 	 1 	 Union National
+4 	 5 	 (NP\NP)/NP 	 1 	 Union of
+4 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Union agreed
+4 	 9 	 (S[b]\NP)/NP 	 1 	 Union suspend <XB>
+4 	 16 	 (S[b]\NP)/NP 	 1 	 Union resume <XU>
+6 	 5 	 (NP\NP)/NP 	 2 	 Mineworkers of
+7 	 31 	 (S[dcl]\S[dcl])\NP 	 1 	 agreed said
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 suspend to
+11 	 9 	 (S[b]\NP)/NP 	 2 	 strike suspend
+11 	 10 	 NP[nb]/N 	 1 	 strike the
+11 	 12 	 (NP\NP)/NP 	 1 	 strike by
+14 	 12 	 (NP\NP)/NP 	 2 	 workers by
+14 	 13 	 N/N 	 1 	 workers diamond
+16 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 resume to
+17 	 16 	 (S[b]\NP)/NP 	 2 	 negotiations resume
+17 	 18 	 (NP\NP)/NP 	 1 	 negotiations with
+17 	 24 	 (NP\NP)/NP 	 1 	 negotiations over
+23 	 18 	 (NP\NP)/NP 	 2 	 Ltd. with
+23 	 19 	 N/N 	 1 	 Ltd. De
+23 	 20 	 N/N 	 1 	 Ltd. Beers
+23 	 21 	 N/N 	 1 	 Ltd. Consolidated
+23 	 22 	 N/N 	 1 	 Ltd. Mines
+27 	 24 	 (NP\NP)/NP 	 2 	 dispute over
+27 	 25 	 NP[nb]/N 	 1 	 dispute their
+27 	 26 	 N/N 	 1 	 dispute wage
+30 	 29 	 N/N 	 1 	 Beers De
+30 	 31 	 (S[dcl]\S[dcl])\NP 	 2 	 Beers said
+<\s>
+<s id="wsj_2136.21"> 15
+0 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 It said
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 said also
+4 	 3 	 NP[nb]/N 	 1 	 union the
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 union had
+4 	 6 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 union agreed <XB>
+4 	 8 	 (S[b]\NP)/NP 	 1 	 union meet <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 agreed had
+7 	 6 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to agreed
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 meet for
+8 	 14 	 (S\NP)\(S\NP) 	 2 	 meet tomorrow
+10 	 8 	 (S[b]\NP)/NP 	 2 	 company meet
+10 	 9 	 NP[nb]/N 	 1 	 company the
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 talks for
+13 	 12 	 N/N 	 1 	 talks further
+<\s>
+<s id="wsj_2136.22"> 40
+1 	 0 	 NP[nb]/N 	 1 	 strike The
+1 	 2 	 (NP\NP)/NP 	 1 	 strike at
+1 	 7 	 S[dcl]\NP 	 1 	 strike began
+6 	 2 	 (NP\NP)/NP 	 2 	 mines at
+6 	 3 	 N/N 	 1 	 mines five
+6 	 4 	 N/N 	 1 	 mines De
+6 	 5 	 N/N 	 1 	 mines Beers
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 began Thursday
+7 	 11 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 2 	 began with
+7 	 27 	 ((S\NP)\(S\NP))/PP 	 2 	 began according
+7 	 32 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 began while
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 Thursday last
+12 	 11 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 9,500 with
+12 	 13 	 (NP\NP)/PP 	 1 	 9,500 out
+12 	 25 	 S[ng]\NP 	 1 	 9,500 participating <XB>
+14 	 13 	 (NP\NP)/PP 	 2 	 of out
+19 	 14 	 PP/NP 	 1 	 members of
+19 	 15 	 NP[nb]/N 	 1 	 members a
+19 	 16 	 N/N 	 1 	 members total
+19 	 17 	 N/N 	 1 	 members 10,000
+19 	 18 	 N/N 	 1 	 members NUM
+19 	 20 	 S[pss]\NP 	 1 	 members employed <XB>
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 employed on
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 mines on
+24 	 22 	 N/N 	 1 	 mines De
+24 	 23 	 N/N 	 1 	 mines Beers
+25 	 11 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 3 	 participating with
+28 	 27 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+30 	 28 	 PP/NP 	 1 	 union to
+30 	 29 	 NP[nb]/N 	 1 	 union the
+34 	 33 	 N/N 	 1 	 Beers De
+34 	 35 	 (S[dcl]\NP)/S[dcl] 	 1 	 Beers said
+35 	 32 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 said while
+36 	 37 	 (S[dcl]\NP[thr])/NP 	 1 	 there were
+37 	 35 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+39 	 37 	 (S[dcl]\NP[thr])/NP 	 2 	 participants were
+39 	 38 	 N/N 	 1 	 participants 7,800
+<\s>
+<s id="wsj_2136.23"> 24
+1 	 0 	 NP[nb]/N 	 1 	 union The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 union has
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 union demanded <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 demanded has
+3 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 demanded while
+6 	 5 	 (N/N)/(N/N) 	 2 	 % 37.6
+7 	 3 	 (S[pt]\NP)/NP 	 2 	 increase demanded
+7 	 4 	 NP[nb]/N 	 1 	 increase a
+7 	 6 	 N/N 	 1 	 increase %
+7 	 8 	 (NP\NP)/NP 	 1 	 increase in
+11 	 8 	 (NP\NP)/NP 	 2 	 wage in
+11 	 9 	 NP[nb]/N 	 1 	 wage the
+11 	 10 	 N/N 	 1 	 wage minimum
+14 	 13 	 N/N 	 1 	 Beers De
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 Beers 's
+17 	 15 	 (NP[nb]/N)\NP 	 1 	 offer 's
+17 	 16 	 N/N 	 1 	 offer final
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 offer was
+18 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was while
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 increase was
+20 	 19 	 NP[nb]/N 	 1 	 increase an
+20 	 21 	 (NP\NP)/NP 	 1 	 increase of
+23 	 21 	 (NP\NP)/NP 	 2 	 % of
+23 	 22 	 N/N 	 1 	 % 17
+<\s>
+<s id="wsj_2136.24"> 9
+3 	 0 	 NP[nb]/N 	 1 	 conference A
+3 	 1 	 N/N 	 1 	 conference 35-nation
+3 	 2 	 N/N 	 1 	 conference environmental
+3 	 4 	 S[dcl]\NP 	 1 	 conference opened
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 opened in
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Sofia in
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Bulgaria in
+<\s>
+<s id="wsj_2136.25"> 27
+1 	 0 	 NP[nb]/N 	 1 	 gathering The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 gathering is
+1 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 gathering expected <XB>
+1 	 5 	 (S[b]\NP)/PP 	 1 	 gathering focus <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+4 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 focus to
+6 	 5 	 (S[b]\NP)/PP 	 2 	 on focus
+7 	 6 	 PP/(S[ng]\NP) 	 1 	 curbing on
+9 	 7 	 (S[ng]\NP)/NP 	 2 	 fouling curbing
+9 	 8 	 NP[nb]/N 	 1 	 fouling the
+9 	 10 	 (NP\NP)/NP 	 1 	 fouling of
+11 	 10 	 (NP\NP)/NP 	 2 	 rivers of
+13 	 10 	 (NP\NP)/NP 	 2 	 lakes of
+15 	 6 	 PP/(S[ng]\NP) 	 1 	 limiting on
+16 	 15 	 (S[ng]\NP)/NP 	 2 	 damage limiting
+16 	 17 	 (NP\NP)/NP 	 1 	 damage from
+19 	 17 	 (NP\NP)/NP 	 2 	 accidents from
+19 	 18 	 N/N 	 1 	 accidents industrial
+21 	 6 	 PP/(S[ng]\NP) 	 1 	 improving on
+23 	 21 	 (S[ng]\NP)/NP 	 2 	 handling improving
+23 	 22 	 NP[nb]/N 	 1 	 handling the
+23 	 24 	 (NP\NP)/NP 	 1 	 handling of
+26 	 24 	 (NP\NP)/NP 	 2 	 chemicals of
+26 	 25 	 N/N 	 1 	 chemicals harmful
+<\s>
+<s id="wsj_2136.26"> 37
+1 	 0 	 (N/N)/(N/N) 	 2 	 German West
+5 	 1 	 N/N 	 1 	 Toepfer German
+5 	 2 	 N/N 	 1 	 Toepfer Environment
+5 	 3 	 N/N 	 1 	 Toepfer Minister
+5 	 4 	 N/N 	 1 	 Toepfer Klaus
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Toepfer said
+7 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Bonn is
+7 	 9 	 (S[pss]\NP)/PP 	 1 	 Bonn convinced <XB>
+8 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 convinced is
+9 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 convinced because
+10 	 9 	 (S[pss]\NP)/PP 	 2 	 of convinced
+12 	 10 	 PP/NP 	 1 	 need of
+12 	 11 	 NP[nb]/N 	 1 	 need the
+12 	 13 	 (NP\NP)/NP 	 1 	 need for
+14 	 13 	 (NP\NP)/NP 	 2 	 cooperation for
+14 	 17 	 (NP\NP)/NP 	 1 	 cooperation with
+17 	 16 	 (NP\NP)/(NP\NP) 	 2 	 with especially
+19 	 17 	 (NP\NP)/NP 	 2 	 neighbors with
+19 	 18 	 NP[nb]/N 	 1 	 neighbors our
+19 	 20 	 (NP\NP)/NP 	 1 	 neighbors in
+22 	 20 	 (NP\NP)/NP 	 2 	 East in
+22 	 21 	 NP[nb]/N 	 1 	 East the
+25 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 we are
+25 	 28 	 S[pss]\NP 	 1 	 we affected <XB>
+26 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are because
+28 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 affected are
+28 	 27 	 (S\NP)/(S\NP) 	 2 	 affected directly
+28 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 affected by
+32 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 progress by
+32 	 30 	 NP[nb]/N 	 1 	 progress their
+32 	 31 	 N/N 	 1 	 progress ecological
+34 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 lack by
+34 	 35 	 (NP\NP)/NP 	 1 	 lack of
+36 	 35 	 (NP\NP)/NP 	 2 	 it of
+<\s>
+<s id="wsj_2136.27"> 13
+1 	 0 	 NP[nb]/N 	 1 	 U.S. The
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 U.S. joined
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Canada joined
+4 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 joined at
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 country joined
+7 	 5 	 NP[nb]/N 	 1 	 country every
+7 	 6 	 N/N 	 1 	 country European
+7 	 8 	 (NP\NP)/NP 	 1 	 country except
+9 	 8 	 (NP\NP)/NP 	 2 	 Albania except
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 meeting at
+12 	 11 	 NP[nb]/N 	 1 	 meeting the
+<\s>
+<s id="wsj_2136.28"> 27
+2 	 0 	 NP[nb]/N 	 1 	 publishers The
+2 	 1 	 N/N 	 1 	 publishers Swedish
+2 	 3 	 (NP\NP)/NP 	 1 	 publishers of
+2 	 8 	 (S[dcl]\NP)/NP 	 1 	 publishers rushed
+7 	 3 	 (NP\NP)/NP 	 2 	 newspaper of
+7 	 4 	 NP[nb]/N 	 1 	 newspaper a
+7 	 5 	 N/N 	 1 	 newspaper new
+7 	 6 	 N/N 	 1 	 newspaper Estonian-language
+8 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 rushed across
+8 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 rushed on
+8 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 rushed after
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 edition rushed
+11 	 9 	 NP[nb]/N 	 1 	 edition an
+11 	 10 	 N/N 	 1 	 edition extra
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 Baltic across
+14 	 13 	 NP[nb]/N 	 1 	 Baltic the
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 Oct. on
+17 	 16 	 N/N[num] 	 1 	 10 Oct.
+21 	 19 	 NP[nb]/N 	 1 	 run the
+21 	 20 	 N/N 	 1 	 run first
+21 	 22 	 S[dcl]\NP 	 1 	 run sold
+22 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 sold after
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 sold out
+22 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 sold in
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 day in
+26 	 25 	 N/N 	 1 	 day one
+<\s>
+<s id="wsj_2136.29"> 36
+2 	 0 	 N/N 	 1 	 Olsson Editor
+2 	 1 	 N/N 	 1 	 Olsson Hasse
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Olsson said
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 plans had
+4 	 6 	 (S[pt]\NP)/S 	 1 	 plans called <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 called had
+7 	 6 	 (S[pt]\NP)/S 	 2 	 for called
+9 	 7 	 (S/(S[to]\NP))/NP 	 2 	 copies for
+9 	 8 	 N/N 	 1 	 copies 7,000
+9 	 10 	 (NP\NP)/NP 	 1 	 copies of
+14 	 10 	 (NP\NP)/NP 	 2 	 Paev of
+14 	 11 	 NP[nb]/N 	 1 	 Paev the
+14 	 12 	 N/N 	 1 	 Paev monthly
+14 	 13 	 N/N 	 1 	 Paev Are
+14 	 15 	 (N\N)/N 	 1 	 Paev -LRB-
+17 	 15 	 (N\N)/N 	 2 	 Paper -LRB-
+17 	 16 	 N/N 	 1 	 Paper Business
+19 	 7 	 (S/(S[to]\NP))/NP 	 1 	 to for
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+21 	 20 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 sold be
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 sold at
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 newsstands at
+27 	 26 	 (N/N)/(N/N) 	 2 	 3,000 additional
+29 	 7 	 (S/(S[to]\NP))/NP 	 2 	 issues for
+29 	 25 	 NP[nb]/N 	 1 	 issues an
+29 	 27 	 N/N 	 1 	 issues 3,000
+29 	 28 	 N/N 	 1 	 issues promotion
+30 	 7 	 (S/(S[to]\NP))/NP 	 1 	 to for
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+32 	 31 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 sent be
+32 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 sent by
+35 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 mail by
+35 	 34 	 N/N 	 1 	 mail direct
+<\s>
+<s id="wsj_2136.30"> 13
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+2 	 3 	 (N/N)\(N/N) 	 2 	 13,000 more
+4 	 2 	 N/N 	 1 	 copies 13,000
+4 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 copies were
+4 	 6 	 S[pss]\NP 	 1 	 copies sent <XB>
+5 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sent were
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 sent to
+6 	 9 	 ((S\NP)\(S\NP))/PP 	 2 	 sent because
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Estonia to
+10 	 9 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+12 	 10 	 PP/NP 	 1 	 sales of
+12 	 11 	 N/N 	 1 	 sales strong
+<\s>
+<s id="wsj_2136.31"> 21
+4 	 0 	 NP[nb]/N 	 1 	 Bonniers The
+4 	 1 	 N/N 	 1 	 Bonniers Swedish
+4 	 2 	 N/N 	 1 	 Bonniers publishing
+4 	 3 	 N/N 	 1 	 Bonniers company
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Bonniers owns
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 % owns
+7 	 6 	 N/N 	 1 	 % 51
+7 	 8 	 (NP\NP)/NP 	 1 	 % of
+10 	 8 	 (NP\NP)/NP 	 2 	 Paev of
+10 	 9 	 N/N 	 1 	 Paev Are
+17 	 13 	 NP[nb]/N 	 1 	 Minor the
+17 	 14 	 N/N 	 1 	 Minor Estonian
+17 	 15 	 N/N 	 1 	 Minor management
+17 	 16 	 N/N 	 1 	 Minor company
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 Minor owns
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 % owns
+20 	 19 	 N/N 	 1 	 % 49
+<\s>
+<s id="wsj_2136.32"> 23
+1 	 0 	 N/N 	 1 	 Gurria Angel
+1 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Gurria said
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Mexico 's
+7 	 4 	 (NP[nb]/N)\NP 	 1 	 negotiator 's
+7 	 5 	 N/N 	 1 	 negotiator top
+7 	 6 	 N/N 	 1 	 negotiator debt
+7 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 negotiator said
+11 	 10 	 NP[nb]/N 	 1 	 country the
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 country 's
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 banks 's
+14 	 13 	 N/N 	 1 	 banks creditor
+14 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 banks are
+14 	 16 	 (S[ng]\NP)/PP 	 1 	 banks responding <XB>
+15 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+16 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 responding are
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 responding positively
+18 	 16 	 (S[ng]\NP)/PP 	 2 	 to responding
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 Mexico 's
+22 	 18 	 PP/NP 	 1 	 package to
+22 	 20 	 (NP[nb]/N)\NP 	 1 	 package 's
+22 	 21 	 N/N 	 1 	 package debt-reduction
+<\s>
+<s id="wsj_2136.33"> 28
+1 	 0 	 N/N 	 1 	 Gurria Mr.
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Gurria 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 optimism 's
+3 	 4 	 (S[dcl]\NP)/PP 	 1 	 optimism contrasts
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 with contrasts
+7 	 6 	 NP[nb]/N 	 1 	 bankers some
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 bankers '
+9 	 5 	 PP/NP 	 1 	 views with
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 views '
+10 	 9 	 N/S[em] 	 1 	 that views
+12 	 11 	 NP[nb]/N 	 1 	 deal the
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 deal may
+12 	 14 	 (S[b]\NP)/NP 	 1 	 deal require <XB>
+13 	 10 	 S[em]/S[dcl] 	 1 	 may that
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 require may
+14 	 24 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 2 	 require in
+16 	 14 	 (S[b]\NP)/NP 	 2 	 lot require
+16 	 15 	 NP[nb]/N 	 1 	 lot a
+16 	 17 	 (NP\NP)/NP 	 1 	 lot of
+16 	 20 	 (NP\NP)/NP 	 1 	 lot by
+19 	 17 	 (NP\NP)/NP 	 2 	 twisting of
+19 	 18 	 N/N 	 1 	 twisting arm
+23 	 20 	 (NP\NP)/NP 	 2 	 Treasury by
+23 	 21 	 NP[nb]/N 	 1 	 Treasury the
+23 	 22 	 N/N 	 1 	 Treasury U.S.
+25 	 24 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 4 	 order in
+26 	 24 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 3 	 to in
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 succeed to
+<\s>
+<s id="wsj_2136.34"> 36
+1 	 0 	 N/N 	 1 	 Gurria Mr.
+1 	 12 	 (S[dcl]\NP)/PP 	 1 	 Gurria met
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Mexico 's
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 under-secretary 's
+5 	 6 	 (NP\NP)/NP 	 1 	 under-secretary of
+5 	 12 	 (S[dcl]\NP)/PP 	 1 	 under-secretary met
+8 	 6 	 (NP\NP)/NP 	 2 	 ministry of
+8 	 7 	 NP[nb]/N 	 1 	 ministry the
+8 	 9 	 (NP\NP)/NP 	 1 	 ministry of
+10 	 9 	 (NP\NP)/NP 	 2 	 finance of
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 met yesterday
+12 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 met in
+12 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 met at
+14 	 12 	 (S[dcl]\NP)/PP 	 2 	 with met
+16 	 14 	 PP/NP 	 1 	 bankers with
+16 	 15 	 N/N 	 1 	 bankers European
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 London in
+23 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 point at
+23 	 21 	 NP[nb]/N 	 1 	 point the
+23 	 22 	 N/N 	 1 	 point half-way
+23 	 24 	 (NP\NP)/NP 	 1 	 point on
+28 	 24 	 (NP\NP)/NP 	 2 	 show on
+28 	 25 	 NP[nb]/N 	 1 	 show a
+28 	 26 	 N/N 	 1 	 show so-called
+28 	 27 	 N/N 	 1 	 show road
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 market to
+30 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 market around
+32 	 30 	 (S[b]\NP)/NP 	 2 	 package market
+32 	 31 	 NP[nb]/N 	 1 	 package the
+35 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 world around
+35 	 34 	 NP[nb]/N 	 1 	 world the
+<\s>
+<s id="wsj_2136.35"> 36
+2 	 0 	 NP[nb]/N 	 1 	 number An
+2 	 1 	 N/N 	 1 	 number increasing
+2 	 3 	 (NP\NP)/NP 	 1 	 number of
+2 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 number appear
+2 	 8 	 (S[ng]\NP)/NP 	 1 	 number considering <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 banks of
+5 	 35 	 (S[dcl]\S[dcl])\NP 	 1 	 appear said
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to appear
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 7 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 considering be
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 option considering
+10 	 9 	 NP[nb]/N 	 1 	 option the
+10 	 11 	 (NP\NP)/NP 	 1 	 option under
+10 	 14 	 (NP\NP)/S[dcl] 	 1 	 option whereby
+13 	 11 	 (NP\NP)/NP 	 2 	 deal under
+13 	 12 	 NP[nb]/N 	 1 	 deal the
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they can
+15 	 17 	 ((S[b]\NP)/PP)/NP 	 1 	 they swap <XB>
+16 	 14 	 (NP\NP)/S[dcl] 	 2 	 can whereby
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 swap can
+20 	 17 	 ((S[b]\NP)/PP)/NP 	 3 	 loans swap
+20 	 18 	 NP[nb]/N 	 1 	 loans their
+20 	 19 	 N/N 	 1 	 loans Mexican
+21 	 17 	 ((S[b]\NP)/PP)/NP 	 2 	 for swap
+23 	 21 	 PP/NP 	 1 	 bonds for
+23 	 22 	 N/N 	 1 	 bonds 30-year
+23 	 24 	 (NP\NP)/NP 	 1 	 bonds with
+27 	 24 	 (NP\NP)/NP 	 2 	 value with
+27 	 25 	 NP[nb]/N 	 1 	 value a
+27 	 26 	 N/N 	 1 	 value face
+27 	 28 	 S[pss]\NP 	 1 	 value discounted <XB>
+28 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 discounted by
+31 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 % by
+31 	 30 	 N/N 	 1 	 % 35
+34 	 33 	 N/N 	 1 	 Gurria Mr.
+34 	 35 	 (S[dcl]\S[dcl])\NP 	 2 	 Gurria said
+<\s>
+<s id="wsj_2136.36"> 20
+3 	 0 	 NP[nb]/N 	 1 	 options The
+3 	 1 	 N/N 	 1 	 options other
+3 	 2 	 N/N 	 1 	 options two
+3 	 4 	 (S[dcl]\NP)/PP 	 1 	 options consist
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 of consist
+6 	 5 	 PP/(S[ng]\NP) 	 1 	 swapping of
+7 	 6 	 ((S[ng]\NP)/PP)/NP 	 3 	 loans swapping
+8 	 6 	 ((S[ng]\NP)/PP)/NP 	 2 	 for swapping
+9 	 8 	 PP/NP 	 1 	 bonds for
+9 	 10 	 (NP\NP)/NP 	 1 	 bonds with
+12 	 11 	 (N/N)/(N/N) 	 2 	 % 6.25
+14 	 10 	 (NP\NP)/NP 	 2 	 rates with
+14 	 12 	 N/N 	 1 	 rates %
+14 	 13 	 N/N 	 1 	 rates interest
+17 	 5 	 PP/(S[ng]\NP) 	 1 	 providing of
+19 	 17 	 (S[ng]\NP)/NP 	 2 	 loans providing
+19 	 18 	 N/N 	 1 	 loans fresh
+<\s>
+<s id="wsj_2136.37"> 24
+1 	 0 	 NP[nb]/N 	 1 	 accord The
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 accord which
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 accord covers <XB>
+1 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 accord is
+1 	 18 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 accord expected <XB>
+1 	 20 	 (S[b]\NP)/PP 	 1 	 accord go <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 covers which
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 $ covers
+5 	 8 	 (NP\NP)/NP 	 1 	 $ of
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 52.7
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Mexico 's
+15 	 8 	 (NP\NP)/NP 	 2 	 debt of
+15 	 10 	 (NP[nb]/N)\NP 	 1 	 debt 's
+15 	 11 	 N/N 	 1 	 debt medium <XU>
+15 	 14 	 N/N 	 1 	 debt long-term
+18 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+19 	 18 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 go to
+20 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 go in
+21 	 20 	 (S[b]\NP)/PP 	 2 	 into go
+22 	 21 	 PP/NP 	 1 	 effect into
+24 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 early in
+<\s>
+<s id="wsj_2136.38"> 26
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 China 's
+4 	 1 	 (NP[nb]/N)\NP 	 1 	 actress 's
+4 	 2 	 N/N 	 1 	 actress top
+4 	 3 	 N/N 	 1 	 actress film
+4 	 9 	 (S[dcl]\NP)/NP 	 1 	 actress paid
+7 	 6 	 N/N 	 1 	 Xiaoqing Liu
+7 	 9 	 (S[dcl]\NP)/NP 	 1 	 Xiaoqing paid
+9 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 paid in
+9 	 25 	 (S[dcl]\S[dcl])\NP 	 1 	 paid reported
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 $ paid
+10 	 12 	 (NP\NP)/NP 	 1 	 $ in
+11 	 10 	 N/N[num] 	 1 	 4,555 $
+14 	 12 	 (NP\NP)/NP 	 2 	 taxes in
+14 	 13 	 N/N 	 1 	 taxes back
+16 	 12 	 (NP\NP)/NP 	 2 	 fines in
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 province in
+19 	 18 	 N/N 	 1 	 province Shandong
+22 	 21 	 NP[nb]/N 	 1 	 People the
+22 	 23 	 (NP[nb]/N)\NP 	 2 	 People 's
+24 	 23 	 (NP[nb]/N)\NP 	 1 	 Daily 's
+24 	 25 	 (S[dcl]\S[dcl])\NP 	 2 	 Daily reported
+<\s>
+<s id="wsj_2136.39"> 21
+1 	 0 	 NP[nb]/N 	 1 	 amount The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 amount is
+1 	 3 	 (S[adj]\NP)/PP 	 1 	 amount equal <XB>
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 equal is
+4 	 3 	 (S[adj]\NP)/PP 	 2 	 to equal
+6 	 5 	 (N/N)/(N/N) 	 2 	 30 about
+8 	 4 	 PP/NP 	 1 	 earnings to
+8 	 6 	 N/N 	 1 	 earnings 30
+8 	 7 	 N/N 	 1 	 earnings years
+8 	 9 	 (NP\NP)/NP 	 1 	 earnings for
+12 	 9 	 (NP\NP)/NP 	 2 	 peasant for
+12 	 10 	 NP[nb]/N 	 1 	 peasant the
+12 	 11 	 N/N 	 1 	 peasant average
+12 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 peasant who
+12 	 15 	 (S[dcl]\NP)/NP 	 1 	 peasant makes <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 makes who
+16 	 15 	 (S[dcl]\NP)/NP 	 2 	 $ makes
+16 	 18 	 (NP\NP)/N 	 1 	 $ a
+17 	 16 	 N/N[num] 	 1 	 145 $
+19 	 18 	 (NP\NP)/N 	 2 	 year a
+<\s>
+<s id="wsj_2136.40"> 27
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 China will
+0 	 2 	 ((S[b]\NP)/PP)/NP 	 1 	 China spend <XB>
+1 	 26 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 spend will
+3 	 2 	 ((S[b]\NP)/PP)/NP 	 3 	 $ spend
+5 	 3 	 N/N[num] 	 1 	 million $
+5 	 4 	 N/N 	 1 	 million 9.45
+6 	 2 	 ((S[b]\NP)/PP)/NP 	 2 	 for spend
+8 	 6 	 PP/NP 	 1 	 maintenance for
+8 	 7 	 N/N 	 1 	 maintenance urgent
+8 	 9 	 (NP\NP)/NP 	 1 	 maintenance on
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Tibet 's
+13 	 9 	 (NP\NP)/NP 	 2 	 Palace on
+13 	 11 	 (NP[nb]/N)\NP 	 1 	 Palace 's
+13 	 12 	 N/N 	 1 	 Palace Potala
+16 	 9 	 (NP\NP)/NP 	 2 	 home on
+16 	 15 	 N/N 	 1 	 home former
+16 	 17 	 (NP\NP)/NP 	 1 	 home of
+20 	 17 	 (NP\NP)/NP 	 2 	 Lama of
+20 	 18 	 NP[nb]/N 	 1 	 Lama the
+20 	 19 	 N/N 	 1 	 Lama Dalai
+25 	 22 	 NP[nb]/N 	 1 	 Service the
+25 	 23 	 N/N 	 1 	 Service China
+25 	 24 	 N/N 	 1 	 Service News
+25 	 26 	 (S[dcl]\S[dcl])\NP 	 2 	 Service said
+<\s>
+<s id="wsj_2136.41"> 18
+2 	 0 	 NP[nb]/N 	 1 	 Lama The
+2 	 1 	 N/N 	 1 	 Lama Dalai
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Lama who
+2 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Lama was <XB>
+2 	 7 	 (S[pss]\NP)/NP 	 1 	 Lama awarded <XB>
+2 	 13 	 S[dcl]\NP 	 1 	 Lama lives
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was who
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 was just
+7 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 awarded was
+11 	 7 	 (S[pss]\NP)/NP 	 2 	 Prize awarded
+11 	 8 	 NP[nb]/N 	 1 	 Prize the
+11 	 9 	 N/N 	 1 	 Prize Nobel
+11 	 10 	 N/N 	 1 	 Prize Peace
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 lives in
+13 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 lives in
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 exile in
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 India in
+<\s>

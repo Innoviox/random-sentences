@@ -1,0 +1,593 @@
+<s id="wsj_1869.1"> 17
+1 	 0 	 N/N 	 1 	 Republicans Senate
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Republicans have
+1 	 3 	 (S[pt]\NP)/PP 	 1 	 Republicans settled <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 settled have
+4 	 3 	 (S[pt]\NP)/PP 	 2 	 on settled
+6 	 4 	 PP/NP 	 1 	 proposal on
+6 	 5 	 NP[nb]/N 	 1 	 proposal a
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 proposal that
+6 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 proposal would <XB>
+6 	 9 	 (S[b]\NP)/NP 	 1 	 proposal cut <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cut would
+12 	 9 	 (S[b]\NP)/NP 	 2 	 tax cut
+12 	 10 	 NP[nb]/N 	 1 	 tax the
+12 	 11 	 N/N 	 1 	 tax capital-gains
+12 	 13 	 (NP\NP)/NP 	 1 	 tax for
+14 	 13 	 (NP\NP)/NP 	 2 	 individuals for
+16 	 13 	 (NP\NP)/NP 	 2 	 corporations for
+<\s>
+<s id="wsj_1869.2"> 22
+3 	 0 	 (S/S)/NP 	 2 	 time At
+3 	 1 	 NP[nb]/N 	 1 	 time the
+3 	 2 	 N/N 	 1 	 time same
+7 	 5 	 NP[nb]/N 	 1 	 group a
+7 	 6 	 N/N 	 1 	 group small
+7 	 8 	 (NP\NP)/NP 	 1 	 group of
+7 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 group are
+7 	 12 	 (S[ng]\NP)/PP 	 1 	 group working <XB>
+7 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 group may <XU>
+7 	 19 	 (S[b]\NP)/NP 	 1 	 group introduce <XU>
+10 	 8 	 (NP\NP)/NP 	 2 	 Democrats of
+10 	 9 	 N/N 	 1 	 Democrats Senate
+11 	 0 	 (S/S)/NP 	 1 	 are At
+12 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 working are
+13 	 12 	 (S[ng]\NP)/PP 	 2 	 on working
+16 	 13 	 PP/NP 	 1 	 plan on
+16 	 14 	 NP[nb]/N 	 1 	 plan a
+16 	 15 	 N/N 	 1 	 plan similar
+18 	 0 	 (S/S)/NP 	 1 	 may At
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 introduce may
+19 	 21 	 (S\NP)\(S\NP) 	 2 	 introduce soon
+20 	 19 	 (S[b]\NP)/NP 	 2 	 it introduce
+<\s>
+<s id="wsj_1869.3"> 49
+2 	 0 	 N/N 	 1 	 Packwood Sen.
+2 	 1 	 N/N 	 1 	 Packwood Bob
+2 	 3 	 (NP\NP)/NP 	 1 	 Packwood -LRB-
+2 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 Packwood said
+4 	 3 	 (NP\NP)/NP 	 2 	 R. -LRB-
+6 	 3 	 (NP\NP)/NP 	 2 	 Ore. -LRB-
+11 	 9 	 NP[nb]/N 	 1 	 sponsor the
+11 	 10 	 N/N 	 1 	 sponsor lead
+11 	 12 	 (NP\NP)/NP 	 1 	 sponsor of
+11 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 sponsor said
+15 	 12 	 (NP\NP)/NP 	 2 	 proposal of
+15 	 13 	 NP[nb]/N 	 1 	 proposal the
+15 	 14 	 N/N 	 1 	 proposal GOP
+18 	 19 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 he intends
+18 	 21 	 (S[b]\NP)/NP 	 1 	 he unveil <XB>
+18 	 27 	 ((S[b]\NP)/PP)/NP 	 1 	 he offer <XU>
+19 	 17 	 (S[dcl]\NP)/S[dcl] 	 2 	 intends said
+20 	 19 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to intends
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 unveil to
+21 	 24 	 (S\NP)\(S\NP) 	 2 	 unveil today
+23 	 21 	 (S[b]\NP)/NP 	 2 	 plan unveil
+23 	 22 	 NP[nb]/N 	 1 	 plan the
+26 	 19 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to intends
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 offer to
+28 	 27 	 ((S[b]\NP)/PP)/NP 	 3 	 it offer
+29 	 27 	 ((S[b]\NP)/PP)/NP 	 2 	 as offer
+31 	 29 	 PP/NP 	 1 	 amendment as
+31 	 30 	 NP[nb]/N 	 1 	 amendment an
+31 	 32 	 (NP\NP)/NP 	 1 	 amendment to
+33 	 32 	 (NP\NP)/NP 	 2 	 whatever to
+34 	 33 	 (NP/(S[dcl]\NP))/N 	 2 	 legislation whatever
+34 	 35 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 legislation comes <XB>
+34 	 36 	 S[adj]\NP 	 1 	 legislation along <XB>
+35 	 33 	 (NP/(S[dcl]\NP))/N 	 1 	 comes whatever
+36 	 35 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 along comes
+40 	 39 	 NP[nb]/N 	 1 	 month this
+40 	 41 	 (NP[nb]/N)\NP 	 2 	 month 's
+42 	 32 	 (NP\NP)/NP 	 2 	 bill to
+42 	 38 	 NP/NP 	 1 	 bill particularly
+42 	 41 	 (NP[nb]/N)\NP 	 1 	 bill 's
+44 	 43 	 (S[to]\NP)/(S[b]\NP) 	 2 	 raise to
+48 	 44 	 (S[b]\NP)/NP 	 2 	 limit raise
+48 	 45 	 NP[nb]/N 	 1 	 limit the
+48 	 46 	 N/N 	 1 	 limit federal
+48 	 47 	 N/N 	 1 	 limit borrowing
+<\s>
+<s id="wsj_1869.4"> 30
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 He gave
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 odds gave
+3 	 2 	 N/N 	 1 	 odds 10-to-1
+4 	 3 	 N/S[em] 	 1 	 that odds
+8 	 5 	 NP[nb]/N 	 1 	 cut a
+8 	 6 	 N/N 	 1 	 cut capital-gains
+8 	 7 	 N/N 	 1 	 cut tax
+8 	 9 	 (NP\NP)/NP 	 1 	 cut of
+8 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 cut would
+8 	 14 	 S[pss]\NP 	 1 	 cut approved <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 sort of
+11 	 10 	 NP[nb]/N 	 1 	 sort some
+12 	 4 	 S[em]/S[dcl] 	 1 	 would that
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+14 	 13 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 approved be
+14 	 15 	 ((S\NP)\(S\NP))/N 	 2 	 approved this
+14 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 approved though
+16 	 15 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+19 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it wo
+19 	 24 	 S[pss]\NP 	 1 	 it included <XB>
+21 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 wo though
+21 	 20 	 (S\NP)/(S\NP) 	 2 	 wo probably
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 wo n't
+23 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be wo
+24 	 23 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 included be
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 included in
+29 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 bill in
+29 	 26 	 NP[nb]/N 	 1 	 bill the
+29 	 27 	 N/N 	 1 	 bill pending
+29 	 28 	 N/N 	 1 	 bill deficit-reduction
+<\s>
+<s id="wsj_1869.5"> 23
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 He added
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that added
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 he expects
+3 	 6 	 (S[b]\NP)/PP 	 1 	 he talk <XB>
+3 	 19 	 (S[ng]\NP)/NP 	 1 	 he drafting <XB>
+4 	 2 	 S[em]/S[dcl] 	 1 	 expects that
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 talk to
+6 	 18 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 talk about
+7 	 6 	 (S[b]\NP)/PP 	 2 	 to talk
+9 	 7 	 PP/NP 	 1 	 Democrats to
+9 	 8 	 NP[nb]/N 	 1 	 Democrats the
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Democrats who
+9 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Democrats wanted <XB>
+9 	 14 	 (S[b]\NP)/NP 	 1 	 Democrats cut <XB>
+12 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 wanted who
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 wanted also
+13 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wanted
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cut to
+17 	 14 	 (S[b]\NP)/NP 	 2 	 tax cut
+17 	 15 	 NP[nb]/N 	 1 	 tax the
+17 	 16 	 N/N 	 1 	 tax gains
+19 	 18 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 drafting about
+22 	 19 	 (S[ng]\NP)/NP 	 2 	 proposal drafting
+22 	 20 	 NP[nb]/N 	 1 	 proposal a
+22 	 21 	 N/N 	 1 	 proposal joint
+<\s>
+<s id="wsj_1869.6"> 28
+1 	 0 	 (S/S)/NP 	 2 	 individuals For
+5 	 3 	 NP[nb]/N 	 1 	 plan the
+5 	 4 	 N/N 	 1 	 plan Packwood
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plan would
+5 	 7 	 ((S[b]\NP)/NP)/PP 	 1 	 plan exclude <XB>
+6 	 0 	 (S/S)/NP 	 1 	 would For
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 exclude would
+8 	 7 	 ((S[b]\NP)/NP)/PP 	 3 	 from exclude
+9 	 8 	 PP/NP 	 1 	 income from
+11 	 7 	 ((S[b]\NP)/NP)/PP 	 2 	 % exclude
+11 	 10 	 N/N 	 1 	 % 5
+11 	 12 	 (NP\NP)/NP 	 1 	 % of
+14 	 12 	 (NP\NP)/NP 	 2 	 gain of
+14 	 13 	 NP[nb]/N 	 1 	 gain the
+14 	 15 	 (NP\NP)/NP 	 1 	 gain from
+17 	 15 	 (NP\NP)/NP 	 2 	 sale from
+17 	 16 	 NP[nb]/N 	 1 	 sale the
+17 	 18 	 (NP\NP)/NP 	 1 	 sale of
+21 	 18 	 (NP\NP)/NP 	 2 	 asset of
+21 	 19 	 NP[nb]/N 	 1 	 asset a
+21 	 20 	 N/N 	 1 	 asset capital
+21 	 22 	 S[pss]\NP 	 1 	 asset held <XB>
+22 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 held for
+24 	 25 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+26 	 25 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 one than
+27 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 year for
+27 	 26 	 N/N 	 1 	 year one
+<\s>
+<s id="wsj_1869.7"> 22
+1 	 0 	 NP[nb]/N 	 1 	 exclusion The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 exclusion would
+1 	 3 	 S[b]\NP 	 1 	 exclusion rise <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 rise would
+3 	 6 	 (S\NP)\(S\NP) 	 2 	 rise points
+3 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 rise for
+3 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 rise until
+6 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 points five
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 points percentage
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 year for
+9 	 8 	 NP[nb]/N 	 1 	 year each
+11 	 10 	 NP[nb]/N 	 1 	 asset the
+11 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 asset was
+11 	 13 	 S[pss]\NP 	 1 	 asset held <XB>
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 held was
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 it reached
+16 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 reached until
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 maximum reached
+18 	 17 	 NP[nb]/N 	 1 	 maximum a
+18 	 19 	 (NP\NP)/NP 	 1 	 maximum of
+21 	 19 	 (NP\NP)/NP 	 2 	 % of
+21 	 20 	 N/N 	 1 	 % 35
+<\s>
+<s id="wsj_1869.8"> 12
+1 	 0 	 NP[nb]/N 	 1 	 exclusion The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 exclusion would
+1 	 3 	 (S[b]\NP)/PP 	 1 	 exclusion apply <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 apply would
+4 	 3 	 (S[b]\NP)/PP 	 2 	 to apply
+5 	 4 	 PP/NP 	 1 	 assets to
+5 	 6 	 S[pss]\NP 	 1 	 assets sold <XB>
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 sold after
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Oct. after
+8 	 11 	 N\N 	 1 	 Oct. 1989
+9 	 8 	 N/N[num] 	 1 	 1 Oct.
+<\s>
+<s id="wsj_1869.9"> 18
+2 	 0 	 (S/S)/NP 	 2 	 alternative As
+2 	 1 	 NP[nb]/N 	 1 	 alternative an
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 he said
+7 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 taxpayers could
+7 	 9 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 taxpayers chose <XB>
+7 	 11 	 (S[b]\NP)/NP 	 1 	 taxpayers reduce <XB>
+8 	 0 	 (S/S)/NP 	 1 	 could As
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 could said <XU>
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 chose could
+10 	 9 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to chose
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reduce to
+11 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 reduce by
+13 	 11 	 (S[b]\NP)/NP 	 2 	 gains reduce
+13 	 12 	 NP[nb]/N 	 1 	 gains their
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 index by
+17 	 15 	 NP[nb]/N 	 1 	 index an
+17 	 16 	 N/N 	 1 	 index inflation
+<\s>
+<s id="wsj_1869.10"> 32
+1 	 0 	 (S/S)/NP 	 2 	 corporations For
+6 	 3 	 NP[nb]/N 	 1 	 rate the
+6 	 4 	 N/N 	 1 	 rate top
+6 	 5 	 N/N 	 1 	 rate tax
+6 	 7 	 (NP\NP)/NP 	 1 	 rate on
+6 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rate would
+6 	 20 	 S[pss]\NP 	 1 	 rate cut <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 sale on
+9 	 8 	 NP[nb]/N 	 1 	 sale the
+9 	 10 	 (NP\NP)/NP 	 1 	 sale of
+11 	 10 	 (NP\NP)/NP 	 2 	 assets of
+11 	 12 	 S[pss]\NP 	 1 	 assets held <XB>
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 held for
+14 	 15 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+16 	 15 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 three than
+17 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+17 	 16 	 N/N 	 1 	 years three
+18 	 0 	 (S/S)/NP 	 1 	 would For
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+20 	 19 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 cut be
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 cut to
+20 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 cut from
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+23 	 22 	 N/N 	 1 	 % 33
+28 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 rate from
+28 	 25 	 NP[nb]/N 	 1 	 rate the
+28 	 26 	 N/N 	 1 	 rate current
+28 	 27 	 N/N 	 1 	 rate top
+28 	 29 	 (NP\NP)/NP 	 1 	 rate of
+31 	 29 	 (NP\NP)/NP 	 2 	 % of
+31 	 30 	 N/N 	 1 	 % 34
+<\s>
+<s id="wsj_1869.11"> 18
+1 	 0 	 NP[nb]/N 	 1 	 rate That
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rate would
+1 	 4 	 S[b]\NP 	 1 	 rate decline <XB>
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 decline would
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 decline gradually
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 decline to
+4 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 decline for
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 as to
+7 	 6 	 (N/PP)/(S[adj]\NP) 	 2 	 little as
+8 	 6 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+10 	 8 	 PP/NP 	 1 	 % as
+10 	 9 	 N/N 	 1 	 % 29
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 assets for
+13 	 12 	 N/N 	 1 	 assets corporate
+13 	 14 	 S[pss]\NP 	 1 	 assets held <XB>
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 held for
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+17 	 16 	 N/N 	 1 	 years 15
+<\s>
+<s id="wsj_1869.12"> 31
+2 	 0 	 NP[nb]/N 	 1 	 plan The
+2 	 1 	 N/N 	 1 	 plan Packwood
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plan would
+2 	 5 	 (S[b]\NP)/NP 	 1 	 plan include <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 would also
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 include would
+7 	 5 	 (S[b]\NP)/NP 	 2 	 proposal include
+7 	 6 	 NP[nb]/N 	 1 	 proposal a
+7 	 9 	 S[pss]\NP 	 1 	 proposal designed <XB>
+7 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 proposal that
+7 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 proposal would <XB>
+7 	 22 	 (S[b]\NP)/NP 	 1 	 proposal expand <XB>
+7 	 24 	 (S[b]\NP)/NP 	 1 	 proposal alter <XU>
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 designed by
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 Roth by
+13 	 11 	 N/N 	 1 	 Roth Sen.
+13 	 12 	 N/N 	 1 	 Roth William
+13 	 14 	 (NP\NP)/NP 	 1 	 Roth -LRB-
+15 	 14 	 (NP\NP)/NP 	 2 	 R. -LRB-
+17 	 14 	 (NP\NP)/NP 	 2 	 Del. -LRB-
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 expand would
+24 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 alter would
+26 	 22 	 (S[b]\NP)/NP 	 2 	 deduction expand <XU>
+26 	 24 	 (S[b]\NP)/NP 	 2 	 deduction alter
+26 	 25 	 NP[nb]/N 	 1 	 deduction the
+26 	 27 	 (NP\NP)/NP 	 1 	 deduction for
+30 	 27 	 (NP\NP)/NP 	 2 	 accounts for
+30 	 28 	 N/N 	 1 	 accounts individual
+30 	 29 	 N/N 	 1 	 accounts retirement
+<\s>
+<s id="wsj_1869.13"> 38
+2 	 0 	 NP[nb]/N 	 1 	 plan The
+2 	 1 	 N/N 	 1 	 plan Roth
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plan would
+2 	 4 	 (S[b]\NP)/NP 	 1 	 plan create <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 create would
+9 	 4 	 (S[b]\NP)/NP 	 2 	 IRA create
+9 	 5 	 NP[nb]/N 	 1 	 IRA a
+9 	 6 	 N/N 	 1 	 IRA new
+9 	 8 	 N/N 	 1 	 IRA non-deductible
+9 	 11 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 IRA which
+10 	 11 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 from which
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 money could
+12 	 15 	 S[pss]\NP 	 1 	 money withdrawn <XB>
+12 	 33 	 (S[b]\NP)/NP 	 1 	 money pay <XB>
+13 	 11 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 could which
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+15 	 14 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 withdrawn be
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 withdrawn tax-free
+15 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 withdrawn for
+15 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 withdrawn for <XU>
+18 	 17 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))) 	 4 	 only not
+19 	 18 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 for only
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 retirement for
+22 	 23 	 conj\conj 	 1 	 but also
+24 	 18 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 for only
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 purchase for
+26 	 25 	 NP[nb]/N 	 1 	 purchase the
+26 	 27 	 (NP\NP)/NP 	 1 	 purchase of
+30 	 27 	 (NP\NP)/NP 	 2 	 home of
+30 	 28 	 NP[nb]/N 	 1 	 home a
+30 	 29 	 N/N 	 1 	 home first
+33 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+37 	 33 	 (S[b]\NP)/NP 	 2 	 expenses pay
+37 	 34 	 N/N 	 1 	 expenses education <XU>
+37 	 36 	 N/N 	 1 	 expenses medical
+<\s>
+<s id="wsj_1869.14"> 16
+1 	 0 	 N/N 	 1 	 IRAs Current
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 IRAs could
+1 	 4 	 ((S[pss]\NP)/PP)/(S[adj]\NP) 	 1 	 IRAs rolled <XB>
+1 	 5 	 S[adj]\NP 	 1 	 IRAs over <XB>
+1 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 IRAs would <XU>
+1 	 13 	 (S[adj]\NP)/PP 	 1 	 IRAs subject <XU>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 rolled be
+5 	 4 	 ((S[pss]\NP)/PP)/(S[adj]\NP) 	 3 	 over rolled
+6 	 4 	 ((S[pss]\NP)/PP)/(S[adj]\NP) 	 2 	 into rolled
+9 	 6 	 PP/NP 	 1 	 IRAs into
+9 	 7 	 NP[nb]/N 	 1 	 IRAs the
+9 	 8 	 N/N 	 1 	 IRAs new
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+13 	 12 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 subject be
+14 	 13 	 (S[adj]\NP)/PP 	 2 	 to subject
+15 	 14 	 PP/NP 	 1 	 tax to
+<\s>
+<s id="wsj_1869.15"> 35
+2 	 0 	 (S/S)/NP 	 2 	 part For
+2 	 1 	 NP[nb]/N 	 1 	 part their
+5 	 4 	 NP[nb]/N 	 1 	 group the
+5 	 6 	 (NP\NP)/NP 	 1 	 group of
+5 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 group are
+5 	 9 	 (S[ng]\NP)/PP 	 1 	 group working <XB>
+7 	 6 	 (NP\NP)/NP 	 2 	 Democrats of
+8 	 0 	 (S/S)/NP 	 1 	 are For
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 working are
+10 	 9 	 (S[ng]\NP)/PP 	 2 	 on working
+12 	 10 	 PP/NP 	 1 	 plan on
+12 	 11 	 NP[nb]/N 	 1 	 plan a
+12 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 plan that
+12 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plan would <XB>
+12 	 21 	 ((S[b]\NP)/PP)/NP 	 1 	 plan grant <XB>
+18 	 15 	 ((S\NP)/(S\NP))/NP 	 3 	 proposal like
+18 	 16 	 NP[nb]/N 	 1 	 proposal the
+18 	 17 	 N/N 	 1 	 proposal Packwood
+20 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+20 	 15 	 ((S\NP)/(S\NP))/NP 	 2 	 would like
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 grant would
+21 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 grant longer
+23 	 21 	 ((S[b]\NP)/PP)/NP 	 3 	 exclusions grant
+23 	 22 	 N/N 	 1 	 exclusions larger
+24 	 21 	 ((S[b]\NP)/PP)/NP 	 2 	 to grant
+25 	 24 	 PP/NP 	 1 	 assets to
+27 	 26 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 longer the
+28 	 29 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 they were
+28 	 30 	 S[pss]\NP 	 1 	 they held <XB>
+29 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 were longer
+30 	 29 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 held were
+30 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 held by
+32 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 individuals by
+34 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 companies by
+<\s>
+<s id="wsj_1869.16"> 12
+1 	 0 	 (N/N)/(N/N) 	 2 	 acquired Newly
+2 	 1 	 N/N 	 1 	 assets acquired
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 assets would
+2 	 4 	 (S[b]\NP)/NP 	 1 	 assets get <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 get would
+7 	 4 	 (S[b]\NP)/NP 	 2 	 break get
+7 	 5 	 NP[nb]/N 	 1 	 break a
+7 	 6 	 N/N 	 1 	 break bigger
+7 	 8 	 (NP\NP)/NP 	 1 	 break than
+9 	 8 	 (NP\NP)/NP 	 2 	 those than
+9 	 11 	 S[pss]\NP 	 1 	 those held <XB>
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 held currently
+<\s>
+<s id="wsj_1869.17"> 17
+2 	 0 	 NP[nb]/N 	 1 	 exclusion An
+2 	 1 	 N/N 	 1 	 exclusion extra
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 exclusion would
+2 	 5 	 (S[pss]\NP)/PP 	 1 	 exclusion given <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 given be
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 to given
+8 	 6 	 PP/NP 	 1 	 stock to
+8 	 7 	 N/N 	 1 	 stock long-held
+8 	 9 	 (NP\NP)/NP 	 1 	 stock in
+13 	 9 	 (NP\NP)/NP 	 2 	 corporations in
+13 	 10 	 N/N 	 1 	 corporations small <XU>
+13 	 12 	 N/N 	 1 	 corporations medium-size
+13 	 15 	 S[ng]\NP 	 1 	 corporations starting <XB>
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 starting just
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 starting up
+<\s>
+<s id="wsj_1869.18"> 14
+1 	 0 	 NP[nb]/N 	 1 	 one No
+1 	 2 	 (NP\NP)/NP 	 1 	 one in
+1 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 one is
+1 	 6 	 (S[ng]\NP)/NP 	 1 	 one considering <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 Senate in
+4 	 3 	 NP[nb]/N 	 1 	 Senate the
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 considering is
+9 	 6 	 (S[ng]\NP)/NP 	 2 	 plan considering
+9 	 7 	 NP[nb]/N 	 1 	 plan the
+9 	 8 	 N/N 	 1 	 plan capital-gains
+9 	 10 	 S[pss]\NP 	 1 	 plan passed <XB>
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 passed by
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 House by
+13 	 12 	 NP[nb]/N 	 1 	 House the
+<\s>
+<s id="wsj_1869.19"> 21
+1 	 0 	 NP[nb]/N 	 1 	 plan That
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plan would
+1 	 3 	 ((S[b]\NP)/PP)/NP 	 1 	 plan provide <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 provide would
+6 	 5 	 (N/N)/(N/N) 	 2 	 % 30
+7 	 3 	 ((S[b]\NP)/PP)/NP 	 3 	 exclusion provide
+7 	 4 	 NP[nb]/N 	 1 	 exclusion a
+7 	 6 	 N/N 	 1 	 exclusion %
+8 	 3 	 ((S[b]\NP)/PP)/NP 	 2 	 to provide
+9 	 8 	 PP/NP 	 1 	 assets to
+9 	 10 	 S[pss]\NP 	 1 	 assets sold <XB>
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 sold over
+14 	 13 	 (N/N)/(N/N) 	 2 	 1\/2-year 2
+15 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 period over
+15 	 12 	 NP[nb]/N 	 1 	 period a
+15 	 14 	 N/N 	 1 	 period 1\/2-year
+15 	 16 	 (S[ng]\NP)/NP 	 1 	 period ending <XB>
+17 	 16 	 (S[ng]\NP)/NP 	 2 	 Dec. ending
+17 	 20 	 N\N 	 1 	 Dec. 1991
+18 	 17 	 N/N[num] 	 1 	 31 Dec.
+<\s>
+<s id="wsj_1869.20"> 23
+1 	 0 	 (S/S)/NP 	 2 	 then After
+5 	 3 	 NP[nb]/N 	 1 	 measure the
+5 	 4 	 N/N 	 1 	 measure House
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 measure would
+5 	 7 	 (S[b]\NP)/NP 	 1 	 measure boost <XB>
+5 	 15 	 ((S[b]\NP)/NP)/PP 	 1 	 measure exclude <XU>
+6 	 0 	 (S/S)/NP 	 1 	 would After
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 boost would
+7 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 boost to
+10 	 7 	 (S[b]\NP)/NP 	 2 	 rate boost
+10 	 8 	 NP[nb]/N 	 1 	 rate the
+10 	 9 	 N/N 	 1 	 rate tax
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+13 	 12 	 N/N 	 1 	 % 28
+15 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 exclude would
+16 	 15 	 ((S[b]\NP)/NP)/PP 	 3 	 from exclude
+17 	 16 	 PP/NP 	 1 	 tax from
+19 	 15 	 ((S[b]\NP)/NP)/PP 	 2 	 gain exclude
+19 	 18 	 NP[nb]/N 	 1 	 gain the
+19 	 20 	 S[adj]\NP 	 1 	 gain attributable <XB>
+20 	 21 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 attributable to
+22 	 21 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 inflation to
+<\s>
+<s id="wsj_1869.21"> 9
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Senators are
+0 	 2 	 (S[ng]\NP)/PP 	 1 	 Senators focusing <XB>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 focusing are
+3 	 2 	 (S[ng]\NP)/PP 	 2 	 on focusing
+4 	 3 	 PP/(S[ng]\NP) 	 1 	 making on
+7 	 4 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 3 	 differential making
+7 	 5 	 NP[nb]/N 	 1 	 differential a
+7 	 6 	 N/N 	 1 	 differential capital-gains
+7 	 8 	 S[adj]\NP 	 1 	 differential permanent <XB>
+8 	 4 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 2 	 permanent making
+<\s>
+<s id="wsj_1869.22"> 41
+4 	 2 	 N/N 	 1 	 Rostenkowski Chairman
+4 	 3 	 N/N 	 1 	 Rostenkowski Dan
+4 	 5 	 (NP\NP)/NP 	 1 	 Rostenkowski -LRB-
+4 	 11 	 (NP\NP)/NP 	 1 	 Rostenkowski of
+4 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 Rostenkowski said
+6 	 5 	 (NP\NP)/NP 	 2 	 D. -LRB-
+8 	 5 	 (NP\NP)/NP 	 2 	 Ill -LRB-
+17 	 11 	 (NP\NP)/NP 	 2 	 Committee of
+17 	 12 	 NP[nb]/N 	 1 	 Committee the
+17 	 13 	 N/N 	 1 	 Committee House
+17 	 14 	 N/N 	 1 	 Committee Ways
+17 	 16 	 N/N 	 1 	 Committee Means
+18 	 0 	 S/S 	 1 	 said Separately
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he did
+19 	 22 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 1 	 he want <XB>
+20 	 18 	 (S[dcl]\NP)/S[dcl] 	 2 	 did said
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 did n't
+22 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 want did
+26 	 22 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 3 	 cut want
+26 	 23 	 NP[nb]/N 	 1 	 cut the
+26 	 24 	 N/N 	 1 	 cut capital-gains
+26 	 25 	 N/N 	 1 	 cut tax
+26 	 36 	 (S[ng]\NP)/NP 	 1 	 cut raising <XB>
+30 	 22 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 3 	 amendments want
+30 	 28 	 NP[nb]/N 	 1 	 amendments any
+30 	 29 	 N/N 	 1 	 amendments other
+30 	 31 	 (S[pss]\NP)/PP 	 1 	 amendments attached <XB>
+30 	 36 	 (S[ng]\NP)/NP 	 1 	 amendments raising <XB>
+32 	 31 	 (S[pss]\NP)/PP 	 2 	 to attached
+35 	 32 	 PP/NP 	 1 	 bill to
+35 	 33 	 NP[nb]/N 	 1 	 bill the
+35 	 34 	 N/N 	 1 	 bill pending
+36 	 22 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 2 	 raising want
+40 	 36 	 (S[ng]\NP)/NP 	 2 	 limit raising
+40 	 37 	 NP[nb]/N 	 1 	 limit the
+40 	 38 	 N/N 	 1 	 limit federal
+40 	 39 	 N/N 	 1 	 limit borrowing
+<\s>
+<s id="wsj_1869.23"> 7
+3 	 0 	 NP[nb]/N 	 1 	 limit The
+3 	 1 	 N/N 	 1 	 limit current
+3 	 2 	 N/N 	 1 	 limit debt
+3 	 4 	 S[dcl]\NP 	 1 	 limit expires
+4 	 5 	 ((S\NP)\(S\NP))/N[num] 	 2 	 expires Oct.
+6 	 5 	 ((S\NP)\(S\NP))/N[num] 	 3 	 31 Oct.
+<\s>
+<s id="wsj_1869.24"> 26
+0 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 He urged
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 urged also
+6 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 negotiators urged
+6 	 3 	 N/N 	 1 	 negotiators House
+6 	 5 	 N/N 	 1 	 negotiators Senate
+6 	 8 	 ((S[b]\NP)/PP)/NP 	 1 	 negotiators rid <XB>
+7 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to urged
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rid to
+11 	 8 	 ((S[b]\NP)/PP)/NP 	 3 	 bill rid
+11 	 9 	 NP[nb]/N 	 1 	 bill the
+11 	 10 	 N/N 	 1 	 bill deficit-reduction
+12 	 8 	 ((S[b]\NP)/PP)/NP 	 2 	 of rid
+14 	 12 	 PP/NP 	 1 	 provisions of
+14 	 13 	 NP[nb]/N 	 1 	 provisions all
+14 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 provisions that
+14 	 16 	 (S[dcl]\NP)/NP 	 1 	 provisions increase <XB>
+14 	 21 	 (NP\NP)/NP 	 1 	 provisions including
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 increase that
+19 	 16 	 (S[dcl]\NP)/NP 	 2 	 deficit increase
+19 	 17 	 NP[nb]/N 	 1 	 deficit the
+19 	 18 	 N/N 	 1 	 deficit budget
+25 	 21 	 (NP\NP)/NP 	 2 	 provision including
+25 	 22 	 NP[nb]/N 	 1 	 provision the
+25 	 23 	 N/N 	 1 	 provision House-passed
+25 	 24 	 N/N 	 1 	 provision capital-gains
+<\s>

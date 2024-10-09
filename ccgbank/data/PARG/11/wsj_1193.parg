@@ -1,0 +1,780 @@
+<s id="wsj_1193.1"> 2
+0 	 1 	 S\S 	 1 	 Good grief
+<\s>
+<s id="wsj_1193.2"> 5
+1 	 0 	 N/N 	 1 	 Brown Charlie
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Brown is
+1 	 3 	 S[ng]\NP 	 1 	 Brown selling <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 selling is
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 selling out
+<\s>
+<s id="wsj_1193.3"> 7
+3 	 0 	 NP[nb]/N 	 1 	 ads Those
+3 	 1 	 N/N 	 1 	 ads Metropolitan
+3 	 2 	 N/N 	 1 	 ads Life
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 ads were
+3 	 5 	 S[adj]\NP 	 1 	 ads bad <XB>
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 bad were
+5 	 6 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 bad enough
+<\s>
+<s id="wsj_1193.4"> 18
+1 	 0 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 now But
+4 	 3 	 N/N 	 1 	 Brown Charlie
+4 	 5 	 ((S[dcl]\NP)\NP)/(S[to]\NP) 	 2 	 Brown is
+4 	 8 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 Brown start <XB>
+4 	 9 	 (S[ng]\NP)/NP 	 1 	 Brown pitching <XB>
+5 	 1 	 (S\NP)/(S\NP) 	 2 	 is now
+7 	 5 	 ((S[dcl]\NP)\NP)/(S[to]\NP) 	 3 	 to is
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 to about
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 start to
+9 	 8 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 pitching start
+10 	 9 	 (S[ng]\NP)/NP 	 2 	 everything pitching
+10 	 15 	 (NP\NP)/NP 	 1 	 everything to
+14 	 11 	 ((NP\NP)/(NP\NP))/NP 	 3 	 Mix from
+14 	 12 	 N/N 	 1 	 Mix Chex
+14 	 13 	 N/N 	 1 	 Mix Party
+15 	 11 	 ((NP\NP)/(NP\NP))/NP 	 2 	 to from
+17 	 15 	 (NP\NP)/NP 	 2 	 bulbs to
+17 	 16 	 N/N 	 1 	 bulbs light
+<\s>
+<s id="wsj_1193.5"> 6
+1 	 0 	 S[wq]/S[q] 	 1 	 is Why
+2 	 1 	 (S[q]/(S[ng]\NP))/NP 	 2 	 he is
+2 	 3 	 S[ng]\NP 	 1 	 he cashing <XB>
+3 	 1 	 (S[q]/(S[ng]\NP))/NP 	 1 	 cashing is
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 cashing in
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 cashing now
+<\s>
+<s id="wsj_1193.6"> 55
+0 	 1 	 ((S\NP)\(S\NP))/S[em] 	 2 	 Turns out
+2 	 1 	 ((S\NP)\(S\NP))/S[em] 	 3 	 that out
+4 	 3 	 (S/S)/(S/S) 	 2 	 year next
+7 	 6 	 N/N 	 1 	 Brown Charlie
+7 	 13 	 (S[dcl]\NP)/NP 	 1 	 Brown turn
+9 	 13 	 (S[dcl]\NP)/NP 	 1 	 Snoopy turn
+12 	 11 	 NP[nb]/N 	 1 	 gang the
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 gang turn
+13 	 2 	 S[em]/S[dcl] 	 1 	 turn that
+13 	 4 	 S/S 	 1 	 turn year
+14 	 13 	 (S[dcl]\NP)/NP 	 2 	 40 turn
+18 	 17 	 N/N 	 1 	 Howard Scripps
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 Howard 's
+22 	 19 	 (NP[nb]/N)\NP 	 1 	 unit 's
+22 	 20 	 N/N 	 1 	 unit United
+22 	 21 	 N/N 	 1 	 unit Media
+22 	 36 	 ((S[dcl]\NP)/PP)/NP 	 1 	 unit sees
+25 	 24 	 NP[nb]/N 	 1 	 syndicator the
+25 	 29 	 (NP\NP)/NP 	 1 	 syndicator for
+25 	 36 	 ((S[dcl]\NP)/PP)/NP 	 1 	 syndicator sees
+28 	 24 	 NP[nb]/N 	 1 	 agent the
+28 	 27 	 N/N 	 1 	 agent licensing
+28 	 29 	 (NP\NP)/NP 	 1 	 agent for
+28 	 36 	 ((S[dcl]\NP)/PP)/NP 	 1 	 agent sees
+31 	 30 	 N/N 	 1 	 Schulz Charles
+31 	 32 	 (NP[nb]/N)\NP 	 2 	 Schulz 's
+34 	 29 	 (NP\NP)/NP 	 2 	 strip for
+34 	 32 	 (NP[nb]/N)\NP 	 1 	 strip 's
+34 	 33 	 N/N 	 1 	 strip comic
+36 	 2 	 S[em]/S[dcl] 	 1 	 sees that
+38 	 36 	 ((S[dcl]\NP)/PP)/NP 	 3 	 bonanza sees
+38 	 37 	 NP[nb]/N 	 1 	 bonanza a
+39 	 36 	 ((S[dcl]\NP)/PP)/NP 	 2 	 in sees
+40 	 39 	 PP/(S[ng]\NP) 	 1 	 licensing in
+40 	 49 	 ((S\NP)\(S\NP))/NP 	 2 	 licensing for
+43 	 40 	 ((S[ng]\NP)/PP)/NP 	 3 	 characters licensing
+43 	 41 	 NP[nb]/N 	 1 	 characters the
+43 	 42 	 N/N 	 1 	 characters cartoon
+44 	 40 	 ((S[ng]\NP)/PP)/NP 	 2 	 to licensing
+46 	 44 	 PP/NP 	 1 	 bevy to
+46 	 45 	 NP[nb]/N 	 1 	 bevy a
+46 	 47 	 (NP\NP)/NP 	 1 	 bevy of
+48 	 47 	 (NP\NP)/NP 	 2 	 advertisers of
+50 	 49 	 ((S\NP)\(S\NP))/NP 	 3 	 ads for
+52 	 49 	 ((S\NP)\(S\NP))/NP 	 3 	 tie-ins for
+54 	 49 	 ((S\NP)\(S\NP))/NP 	 3 	 promotions for
+<\s>
+<s id="wsj_1193.7"> 23
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Peanuts has
+0 	 2 	 (S[pt]\NP)/NP 	 1 	 Peanuts become <XB>
+1 	 10 	 (S[dcl]\S[dcl])/NP 	 1 	 has says
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 become has
+5 	 2 	 (S[pt]\NP)/NP 	 2 	 part become
+5 	 3 	 NP[nb]/N 	 1 	 part a
+5 	 4 	 N/N 	 1 	 part major
+5 	 6 	 (NP\NP)/NP 	 1 	 part of
+8 	 6 	 (NP\NP)/NP 	 2 	 culture of
+8 	 7 	 N/N 	 1 	 culture American
+12 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 Shore says
+12 	 11 	 N/N 	 1 	 Shore Peter
+15 	 14 	 N/N 	 1 	 Media United
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Media 's
+18 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+18 	 16 	 (NP[nb]/N)\NP 	 1 	 president 's
+18 	 17 	 N/N 	 1 	 president vice
+18 	 19 	 (NP\NP)/NP 	 1 	 president of
+20 	 19 	 (NP\NP)/NP 	 2 	 marketing of
+22 	 19 	 (NP\NP)/NP 	 2 	 licensing of
+<\s>
+<s id="wsj_1193.8"> 11
+2 	 0 	 NP[nb]/N 	 1 	 strip The
+2 	 1 	 N/N 	 1 	 strip comic
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 strip has
+8 	 3 	 (S[dcl]\NP)/NP 	 2 	 quality has
+8 	 4 	 NP[nb]/N 	 1 	 quality a
+8 	 5 	 N/N 	 1 	 quality magical
+8 	 7 	 N/N 	 1 	 quality everlasting
+8 	 9 	 (NP\NP)/NP 	 1 	 quality about
+10 	 9 	 (NP\NP)/NP 	 2 	 it about
+<\s>
+<s id="wsj_1193.9"> 13
+1 	 0 	 NP[nb]/N 	 1 	 plan Our
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 plan is
+1 	 4 	 (S[b]\NP)/NP 	 1 	 plan honor <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 honor to
+4 	 12 	 ((S\NP)\(S\NP))\NP 	 2 	 honor long
+6 	 4 	 (S[b]\NP)/NP 	 2 	 Schulz honor
+6 	 5 	 N/N 	 1 	 Schulz Charles
+9 	 4 	 (S[b]\NP)/NP 	 2 	 strip honor
+9 	 8 	 NP[nb]/N 	 1 	 strip the
+11 	 10 	 NP[nb]/N 	 1 	 year all
+11 	 12 	 ((S\NP)\(S\NP))\NP 	 3 	 year long
+<\s>
+<s id="wsj_1193.10"> 12
+1 	 0 	 NP[nb]/N 	 1 	 effort The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 effort will
+1 	 3 	 ((S[b]\NP)/NP)/NP 	 1 	 effort make <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make will
+3 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 make in
+6 	 3 	 ((S[b]\NP)/NP)/NP 	 3 	 gang make
+6 	 4 	 NP[nb]/N 	 1 	 gang the
+6 	 5 	 N/N 	 1 	 gang Peanuts
+8 	 7 	 (N/N)/(N/N) 	 2 	 familiar very
+9 	 3 	 ((S[b]\NP)/NP)/NP 	 2 	 pitchmen make
+9 	 8 	 N/N 	 1 	 pitchmen familiar
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 1990 in
+<\s>
+<s id="wsj_1193.11"> 13
+1 	 0 	 N/N 	 1 	 Electric General
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Electric plans
+1 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 Electric use <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 use to
+6 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 characters use
+6 	 5 	 NP[nb]/N 	 1 	 characters the
+6 	 8 	 (S[b]\NP)/NP 	 1 	 characters plug <XB>
+7 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to use
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 plug to
+12 	 8 	 (S[b]\NP)/NP 	 2 	 bulb plug
+12 	 9 	 NP[nb]/N 	 1 	 bulb its
+12 	 10 	 N/N 	 1 	 bulb Miser
+12 	 11 	 N/N 	 1 	 bulb light
+<\s>
+<s id="wsj_1193.12"> 15
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Teleflora will
+0 	 2 	 (S[b]\NP)/NP 	 1 	 Teleflora run <XB>
+0 	 9 	 (S[ng]\NP)/NP 	 1 	 Teleflora promoting <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 run will
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 run at
+4 	 2 	 (S[b]\NP)/NP 	 2 	 ads run
+4 	 3 	 N/N 	 1 	 ads TV
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Valentine 's
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Day at
+8 	 7 	 (NP[nb]/N)\NP 	 1 	 Day 's
+11 	 12 	 (N/N)\NP 	 2 	 Snoopy 's
+14 	 9 	 (S[ng]\NP)/NP 	 2 	 Bouquet promoting
+14 	 10 	 NP[nb]/N 	 1 	 Bouquet its
+14 	 12 	 (N/N)\NP 	 1 	 Bouquet 's
+14 	 13 	 N/N 	 1 	 Bouquet Love
+<\s>
+<s id="wsj_1193.13"> 21
+1 	 0 	 N/N 	 1 	 Purina Ralston
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Purina will
+1 	 3 	 (S[b]\NP)/NP 	 1 	 Purina promote <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 promote will
+7 	 4 	 NP[nb]/N 	 1 	 Mix its
+7 	 5 	 N/N 	 1 	 Mix Chex
+7 	 6 	 N/N 	 1 	 Mix Party
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 Mix 's
+12 	 3 	 (S[b]\NP)/NP 	 2 	 packets promote
+12 	 8 	 (NP[nb]/N)\NP 	 1 	 packets 's
+12 	 9 	 N/N 	 1 	 packets three
+12 	 10 	 N/N 	 1 	 packets new
+12 	 11 	 N/N 	 1 	 packets flavor
+12 	 13 	 (S[pss]\NP)/PP 	 1 	 packets named <XB>
+14 	 13 	 (S[pss]\NP)/PP 	 2 	 for named
+16 	 14 	 PP/NP 	 1 	 Brown for
+16 	 15 	 N/N 	 1 	 Brown Charlie
+18 	 14 	 PP/NP 	 1 	 Lucy for
+20 	 14 	 PP/NP 	 1 	 Linus for
+<\s>
+<s id="wsj_1193.14"> 16
+1 	 0 	 NP[nb]/N 	 1 	 characters The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 characters will
+1 	 5 	 S[pss]\NP 	 1 	 characters featured <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 will also
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 featured be
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 featured in
+11 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 effort in
+11 	 7 	 NP[nb]/N 	 1 	 effort a
+11 	 8 	 N/N 	 1 	 effort new
+11 	 9 	 N/N 	 1 	 effort public
+11 	 10 	 N/N 	 1 	 effort service
+11 	 12 	 (NP\NP)/NP 	 1 	 effort for
+15 	 12 	 (NP\NP)/NP 	 2 	 Way for
+15 	 13 	 NP[nb]/N 	 1 	 Way the
+15 	 14 	 N/N 	 1 	 Way United
+<\s>
+<s id="wsj_1193.15"> 26
+2 	 0 	 (S/S)/NP 	 2 	 advertisements Beyond
+2 	 1 	 NP[nb]/N 	 1 	 advertisements the
+5 	 4 	 NP[nb]/N 	 1 	 syndicator the
+5 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 syndicator is
+5 	 7 	 (S[ng]\NP)/NP 	 1 	 syndicator planning <XB>
+6 	 0 	 (S/S)/NP 	 1 	 is Beyond
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 planning is
+11 	 7 	 (S[ng]\NP)/NP 	 2 	 show planning
+11 	 8 	 NP[nb]/N 	 1 	 show a
+11 	 9 	 N/N 	 1 	 show traveling
+11 	 10 	 N/N 	 1 	 show arena
+15 	 7 	 (S[ng]\NP)/NP 	 2 	 specials planning
+15 	 13 	 N/N 	 1 	 specials new
+15 	 14 	 N/N 	 1 	 specials TV
+15 	 16 	 (NP\NP)/NP 	 1 	 specials for
+17 	 16 	 (NP\NP)/NP 	 2 	 CBS for
+21 	 7 	 (S[ng]\NP)/NP 	 2 	 exhibit planning
+21 	 19 	 NP/NP 	 1 	 exhibit even
+21 	 20 	 NP[nb]/N 	 1 	 exhibit an
+21 	 22 	 (NP\NP)/NP 	 1 	 exhibit at
+25 	 22 	 (NP\NP)/NP 	 2 	 Institute at
+25 	 23 	 NP[nb]/N 	 1 	 Institute the
+25 	 24 	 N/N 	 1 	 Institute Smithsonian
+<\s>
+<s id="wsj_1193.16"> 24
+2 	 0 	 NP[nb]/N 	 1 	 schedule The
+2 	 1 	 N/N 	 1 	 schedule yearlong
+2 	 3 	 (NP\NP)/NP 	 1 	 schedule of
+2 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 schedule will
+2 	 7 	 S[pss]\NP 	 1 	 schedule kicked <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 festivities of
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+7 	 6 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 kicked be
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 kicked off
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 kicked officially
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 kicked with
+7 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 kicked at
+7 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 kicked in
+17 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 special with
+17 	 11 	 NP[nb]/N 	 1 	 special a
+17 	 12 	 N/N 	 1 	 special combination
+17 	 13 	 N/N 	 1 	 special live <XU>
+17 	 15 	 N/N 	 1 	 special animation
+17 	 16 	 N/N 	 1 	 special half-time
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 Bowl at
+21 	 19 	 NP[nb]/N 	 1 	 Bowl the
+21 	 20 	 N/N 	 1 	 Bowl Super
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 January in
+<\s>
+<s id="wsj_1193.17"> 18
+2 	 0 	 NP/NP 	 1 	 tie-ins All
+2 	 1 	 NP[nb]/N 	 1 	 tie-ins the
+2 	 6 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 1 	 tie-ins have
+6 	 4 	 (S\NP)/(S\NP) 	 2 	 have though
+9 	 6 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 3 	 experts have
+9 	 7 	 NP[nb]/N 	 1 	 experts some
+9 	 8 	 N/N 	 1 	 experts marketing
+9 	 10 	 (S[ng]\NP)/S[qem] 	 1 	 experts questioning <XB>
+10 	 6 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 2 	 questioning have
+11 	 10 	 (S[ng]\NP)/S[qem] 	 2 	 whether questioning
+13 	 12 	 NP[nb]/N 	 1 	 party the
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 party may
+13 	 15 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 party go <XB>
+13 	 17 	 S[adj]\NP 	 1 	 party far <XB>
+14 	 11 	 S[qem]/S[dcl] 	 1 	 may whether
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go may
+17 	 15 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 far go
+17 	 16 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 far too
+<\s>
+<s id="wsj_1193.18"> 24
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There are
+1 	 7 	 (S[dcl]\S[dcl])/NP 	 1 	 are says
+3 	 2 	 (N/N)/(N/N) 	 2 	 many too
+4 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 people are
+4 	 3 	 N/N 	 1 	 people many
+4 	 5 	 S[ng]\NP 	 1 	 people participating <XB>
+9 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 Ries says
+9 	 8 	 N/N 	 1 	 Ries Al
+9 	 11 	 (NP\NP)/NP 	 1 	 Ries of
+14 	 11 	 (NP\NP)/NP 	 2 	 Ries of
+14 	 12 	 N/N 	 1 	 Ries Trout
+14 	 13 	 N/N 	 1 	 Ries &
+23 	 11 	 (NP\NP)/NP 	 2 	 firm of
+23 	 16 	 NP[nb]/N 	 1 	 firm a
+23 	 17 	 N/N 	 1 	 firm Greenwich <XU>
+23 	 19 	 N/N 	 1 	 firm Conn.
+23 	 21 	 N/N 	 1 	 firm marketing
+23 	 22 	 N/N 	 1 	 firm consulting
+<\s>
+<s id="wsj_1193.19"> 23
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 you want
+1 	 4 	 (S[b]\NP)/PP 	 1 	 you cut <XB>
+2 	 0 	 (S/S)/S[dcl] 	 2 	 want If
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to want
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cut to
+5 	 4 	 (S[b]\NP)/PP 	 2 	 through cut
+7 	 5 	 PP/NP 	 1 	 clutter through
+7 	 6 	 NP[nb]/N 	 1 	 clutter the
+9 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 you have
+9 	 12 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 you make <XB>
+10 	 0 	 (S/S)/S[dcl] 	 1 	 have If
+11 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to have
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+14 	 12 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 message make
+14 	 13 	 NP[nb]/N 	 1 	 message your
+14 	 16 	 (S[adj]\NP)/PP 	 1 	 message distinct <XB>
+14 	 18 	 (S[adj]\NP)/PP 	 1 	 message sharp <XU>
+14 	 20 	 (S[adj]\NP)/PP 	 1 	 message individual <XU>
+16 	 12 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 distinct make
+16 	 15 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 distinct as
+18 	 12 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 sharp make
+18 	 15 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 sharp as
+20 	 12 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 individual make
+20 	 15 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 individual as
+21 	 16 	 (S[adj]\NP)/PP 	 2 	 as distinct <XU>
+21 	 18 	 (S[adj]\NP)/PP 	 2 	 as sharp <XU>
+21 	 20 	 (S[adj]\NP)/PP 	 2 	 as individual
+22 	 21 	 PP/(S[adj]\NP) 	 1 	 possible as
+<\s>
+<s id="wsj_1193.20"> 13
+0 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 Sharing with
+0 	 6 	 (S[dcl]\NP)/NP 	 1 	 Sharing is
+2 	 0 	 (S[ng]\NP)/NP 	 2 	 character Sharing
+2 	 1 	 NP[nb]/N 	 1 	 character a
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 advertisers with
+5 	 4 	 N/N 	 1 	 advertisers other
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 is n't
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 way is
+9 	 8 	 NP[nb]/N 	 1 	 way a
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+12 	 11 	 (S[b]\NP)/NP 	 2 	 that do
+<\s>
+<s id="wsj_1193.21"> 14
+2 	 1 	 N/N 	 1 	 Media United
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Media says
+3 	 0 	 S/S 	 1 	 says But
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it 's
+4 	 7 	 S[adj]\NP 	 1 	 it scrupulous <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 's says
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 's with
+7 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 scrupulous 's
+7 	 6 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 scrupulous very
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 contracts with
+10 	 9 	 NP[nb]/N 	 1 	 contracts the
+10 	 12 	 (S[dcl]\NP)/NP 	 2 	 contracts hands <XU>
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 it hands
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 hands out
+<\s>
+<s id="wsj_1193.22"> 16
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 We 're
+0 	 3 	 (S[adj]\NP)/PP 	 1 	 We interested <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 're not
+1 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 're says
+3 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 interested 're
+4 	 3 	 (S[adj]\NP)/PP 	 2 	 in interested
+5 	 4 	 PP/(S[ng]\NP) 	 1 	 promoting in
+8 	 5 	 (S[ng]\NP)/NP 	 2 	 product promoting
+8 	 6 	 NP[nb]/N 	 1 	 product every
+8 	 7 	 N/N 	 1 	 product single
+8 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 product that
+8 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 product comes <XB>
+8 	 11 	 S[adj]\NP 	 1 	 product along <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 comes that
+11 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 along comes
+14 	 13 	 N/N 	 1 	 Shore Mr.
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 Shore says
+<\s>
+<s id="wsj_1193.23"> 17
+3 	 0 	 N/N 	 1 	 executives Metropolitan
+3 	 1 	 N/N 	 1 	 executives Life
+3 	 2 	 N/N 	 1 	 executives ad
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 executives could
+3 	 7 	 S[pss]\NP 	 1 	 executives reached <XB>
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 could n't
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+7 	 6 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reached be
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 reached about
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 use about
+10 	 9 	 NP[nb]/N 	 1 	 use the
+10 	 11 	 (NP\NP)/NP 	 1 	 use of
+10 	 15 	 (NP\NP)/NP 	 1 	 use by
+14 	 11 	 (NP\NP)/NP 	 2 	 characters of
+14 	 12 	 NP[nb]/N 	 1 	 characters the
+14 	 13 	 N/N 	 1 	 characters Peanuts
+16 	 15 	 (NP\NP)/NP 	 2 	 others by
+<\s>
+<s id="wsj_1193.24"> 19
+2 	 1 	 N/N 	 1 	 Shore Mr.
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Shore says
+3 	 0 	 S/S 	 1 	 says But
+5 	 4 	 NP[nb]/N 	 1 	 company that
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 company 's
+9 	 6 	 (NP[nb]/N)\NP 	 1 	 rights 's
+9 	 7 	 N/N 	 1 	 rights exclusive
+9 	 8 	 N/N 	 1 	 rights advertising
+9 	 10 	 S[dcl]\NP 	 1 	 rights extend
+10 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 extend says
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 extend only
+10 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 extend to
+18 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 category to
+18 	 13 	 NP[nb]/N 	 1 	 category the
+18 	 14 	 N/N 	 1 	 category insurance
+18 	 16 	 N/N 	 1 	 category financial
+18 	 17 	 N/N 	 1 	 category services
+<\s>
+<s id="wsj_1193.25"> 3
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Berry Rejoins
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 Group Rejoins
+3 	 2 	 N/N 	 1 	 Group WPP
+<\s>
+<s id="wsj_1193.26"> 29
+1 	 0 	 N/N 	 1 	 Berry Norman
+1 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Berry is
+1 	 19 	 S[ng]\NP 	 1 	 Berry returning <XB>
+5 	 3 	 NP[nb]/N 	 1 	 executive the
+5 	 4 	 N/N 	 1 	 executive creative
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 executive who
+5 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 executive was <XB>
+5 	 9 	 (S[pss]\NP)/PP 	 1 	 executive squeezed <XB>
+5 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 executive is
+5 	 19 	 S[ng]\NP 	 1 	 executive returning <XB>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was who
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 was apparently
+9 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 squeezed was
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 squeezed out
+9 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 squeezed in
+11 	 9 	 (S[pss]\NP)/PP 	 2 	 of squeezed
+14 	 11 	 PP/NP 	 1 	 Mather of
+14 	 12 	 N/N 	 1 	 Mather Ogilvy
+14 	 13 	 N/N 	 1 	 Mather &
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 June in
+19 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 returning is
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 returning to
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 Ogilvy 's
+24 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 company to
+24 	 22 	 (NP[nb]/N)\NP 	 1 	 company 's
+24 	 23 	 N/N 	 1 	 company parent
+28 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 PLC to
+28 	 26 	 N/N 	 1 	 PLC WPP
+28 	 27 	 N/N 	 1 	 PLC Group
+<\s>
+<s id="wsj_1193.27"> 42
+1 	 0 	 N/N 	 1 	 Berry Mr.
+1 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Berry had
+1 	 6 	 S[pt]\NP 	 1 	 Berry resigned <XB>
+1 	 8 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 Berry being <XB>
+1 	 9 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Berry asked <XB>
+1 	 23 	 (S[b]\NP)/NP 	 1 	 Berry give <XB>
+1 	 37 	 (S[b]\NP)/NP 	 1 	 Berry take <XU>
+3 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 58 had
+3 	 6 	 S[pt]\NP 	 1 	 58 resigned <XB>
+3 	 8 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 58 being <XB>
+3 	 9 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 58 asked <XB>
+3 	 23 	 (S[b]\NP)/NP 	 1 	 58 give <XB>
+3 	 37 	 (S[b]\NP)/NP 	 1 	 58 take <XU>
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 resigned had
+6 	 7 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 resigned after
+8 	 7 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 being after
+9 	 8 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 asked being
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 asked by
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Ogilvy 's
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 chairman by
+13 	 12 	 (NP[nb]/N)\NP 	 1 	 chairman 's
+17 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 officer by
+17 	 12 	 (NP[nb]/N)\NP 	 1 	 officer 's
+17 	 15 	 N/N 	 1 	 officer chief
+17 	 16 	 N/N 	 1 	 officer executive
+20 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 Roman by
+20 	 19 	 N/N 	 1 	 Roman Kenneth
+22 	 9 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to asked
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give to
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 give up
+26 	 23 	 (S[b]\NP)/NP 	 2 	 title give
+26 	 25 	 NP[nb]/N 	 1 	 title his
+26 	 27 	 (NP\NP)/NP 	 1 	 title as
+29 	 27 	 (NP\NP)/NP 	 2 	 head as
+29 	 28 	 N/N 	 1 	 head creative
+29 	 30 	 (NP\NP)/NP 	 1 	 head of
+34 	 30 	 (NP\NP)/NP 	 2 	 office of
+34 	 31 	 NP[nb]/N 	 1 	 office the
+34 	 32 	 N/N 	 1 	 office New
+34 	 33 	 N/N 	 1 	 office York
+36 	 9 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to asked
+37 	 36 	 (S[to]\NP)/(S[b]\NP) 	 2 	 take to
+41 	 37 	 (S[b]\NP)/NP 	 2 	 role take
+41 	 38 	 NP[nb]/N 	 1 	 role a
+41 	 39 	 N/N 	 1 	 role fuzzier
+41 	 40 	 N/N 	 1 	 role international
+<\s>
+<s id="wsj_1193.28"> 36
+4 	 2 	 NP/NP 	 1 	 day just
+4 	 3 	 NP[nb]/N 	 1 	 day a
+4 	 5 	 ((S/S)\NP)/S[dcl] 	 2 	 day after
+7 	 6 	 N/N 	 1 	 Roman Mr.
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Roman announced
+8 	 5 	 ((S/S)\NP)/S[dcl] 	 3 	 announced after
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he would
+9 	 11 	 S[b]\NP 	 1 	 he leave <XB>
+9 	 13 	 (S[b]\NP)/NP 	 1 	 he take <XB>
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 would announced
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 leave would
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 take to
+16 	 13 	 (S[b]\NP)/NP 	 2 	 post take
+16 	 14 	 NP[nb]/N 	 1 	 post a
+16 	 15 	 N/N 	 1 	 post top
+16 	 17 	 (NP\NP)/NP 	 1 	 post at
+19 	 17 	 (NP\NP)/NP 	 2 	 Express at
+19 	 18 	 N/N 	 1 	 Express American
+21 	 22 	 (S[dcl]\NP)/S[dcl] 	 1 	 WPP said
+22 	 0 	 S/S 	 1 	 said Yesterday
+22 	 5 	 ((S/S)\NP)/S[dcl] 	 1 	 said after
+24 	 23 	 N/N 	 1 	 Berry Mr.
+24 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Berry would
+24 	 26 	 S[b]\NP 	 1 	 Berry return <XB>
+24 	 28 	 (S[b]\NP)/NP 	 1 	 Berry take <XB>
+25 	 22 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 return would
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 take to
+31 	 28 	 (S[b]\NP)/NP 	 2 	 role take
+31 	 29 	 NP[nb]/N 	 1 	 role an
+31 	 30 	 N/N 	 1 	 role international
+31 	 32 	 (NP\NP)/NP 	 1 	 role at
+35 	 32 	 (NP\NP)/NP 	 2 	 company at
+35 	 33 	 NP[nb]/N 	 1 	 company the
+35 	 34 	 N/N 	 1 	 company parent
+<\s>
+<s id="wsj_1193.29"> 19
+1 	 0 	 N/N 	 1 	 Berry Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Berry said
+4 	 3 	 NP[nb]/N 	 1 	 timing the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 timing was
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 coincidence was
+7 	 6 	 NP[nb]/N 	 1 	 coincidence a
+9 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 that said
+11 	 10 	 NP[nb]/N 	 1 	 decision his
+11 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 decision was
+11 	 13 	 (S[adj]\NP)/PP 	 1 	 decision unrelated <XB>
+12 	 9 	 S[em]/S[dcl] 	 1 	 was that
+13 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unrelated was
+14 	 13 	 (S[adj]\NP)/PP 	 2 	 to unrelated
+16 	 15 	 N/N 	 1 	 Roman Mr.
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 Roman 's
+18 	 14 	 PP/NP 	 1 	 departure to
+18 	 17 	 (NP[nb]/N)\NP 	 1 	 departure 's
+<\s>
+<s id="wsj_1193.30"> 2
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 RJR Taps
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 FCB\/Leber Taps
+<\s>
+<s id="wsj_1193.31"> 25
+2 	 0 	 N/N 	 1 	 Inc. RJR
+2 	 1 	 N/N 	 1 	 Inc. Nabisco
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Inc. awarded
+8 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 assignment awarded
+8 	 4 	 NP[nb]/N 	 1 	 assignment its
+8 	 5 	 N/N 	 1 	 assignment national
+8 	 6 	 N/N 	 1 	 assignment broadcast
+8 	 7 	 N/N 	 1 	 assignment media-buying
+9 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to awarded
+12 	 9 	 PP/NP 	 1 	 Partners to
+12 	 10 	 N/N 	 1 	 Partners FCB\/Leber
+12 	 11 	 N/N 	 1 	 Partners Katz
+17 	 9 	 PP/NP 	 1 	 outpost to
+17 	 14 	 NP[nb]/N 	 1 	 outpost the
+17 	 15 	 N/N 	 1 	 outpost New
+17 	 16 	 N/N 	 1 	 outpost York
+17 	 18 	 (NP\NP)/NP 	 1 	 outpost of
+24 	 18 	 (NP\NP)/NP 	 2 	 Belding of
+24 	 19 	 N/N 	 1 	 Belding Chicago-based
+24 	 20 	 N/N 	 1 	 Belding Foote
+24 	 22 	 N/N 	 1 	 Belding Cone
+24 	 23 	 N/N 	 1 	 Belding &
+<\s>
+<s id="wsj_1193.32"> 44
+1 	 0 	 NP[nb]/N 	 1 	 naming The
+1 	 2 	 (NP\NP)/NP 	 1 	 naming of
+1 	 6 	 (NP\NP)/NP 	 1 	 naming as
+1 	 18 	 (S[dcl]\NP)/NP 	 1 	 naming follows
+5 	 2 	 (NP\NP)/NP 	 2 	 Partners of
+5 	 3 	 N/N 	 1 	 Partners FCB\/Leber
+5 	 4 	 N/N 	 1 	 Partners Katz
+7 	 6 	 (NP\NP)/NP 	 2 	 agency as
+7 	 8 	 (NP\NP)/NP 	 1 	 agency of
+7 	 10 	 (NP\NP)/NP 	 1 	 agency for
+9 	 8 	 (NP\NP)/NP 	 2 	 record of
+13 	 10 	 (NP\NP)/NP 	 2 	 Inc. for
+13 	 11 	 N/N 	 1 	 Inc. Nabisco
+13 	 12 	 N/N 	 1 	 Inc. Brands
+17 	 10 	 (NP\NP)/NP 	 2 	 Co. for
+17 	 15 	 N/N 	 1 	 Co. Planters
+17 	 16 	 N/N 	 1 	 Co. LifeSavers
+20 	 19 	 N/N 	 1 	 Nabisco RJR
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 Nabisco 's
+22 	 18 	 (S[dcl]\NP)/NP 	 2 	 announcement follows
+22 	 21 	 (NP[nb]/N)\NP 	 1 	 announcement 's
+22 	 24 	 NP\NP 	 1 	 announcement week
+22 	 25 	 (NP\NP)/S[dcl] 	 1 	 announcement that
+24 	 23 	 (NP\NP)/(NP\NP) 	 2 	 week last
+26 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+26 	 28 	 (S[b]\NP)/NP 	 1 	 it disband <XB>
+26 	 35 	 (S[b]\NP)/NP 	 1 	 it dismiss <XU>
+26 	 42 	 (S[b]\NP)/NP 	 1 	 it cut <XB>
+27 	 25 	 (NP\NP)/S[dcl] 	 2 	 will that
+28 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 disband will
+28 	 39 	 ((S\NP)\(S\NP))/N[num] 	 2 	 disband Dec.
+33 	 28 	 (S[b]\NP)/NP 	 2 	 division disband
+33 	 29 	 NP[nb]/N 	 1 	 division its
+33 	 30 	 N/N 	 1 	 division RJR
+33 	 31 	 N/N 	 1 	 division Nabisco
+33 	 32 	 N/N 	 1 	 division Broadcast
+35 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 dismiss will
+35 	 39 	 ((S\NP)\(S\NP))/N[num] 	 2 	 dismiss Dec.
+38 	 35 	 (S[b]\NP)/NP 	 2 	 employees dismiss
+38 	 36 	 NP[nb]/N 	 1 	 employees its
+38 	 37 	 N/N 	 1 	 employees 14
+40 	 39 	 ((S\NP)\(S\NP))/N[num] 	 3 	 1. Dec.
+42 	 41 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cut to
+43 	 42 	 (S[b]\NP)/NP 	 2 	 costs cut
+<\s>
+<s id="wsj_1193.33"> 35
+1 	 0 	 (NP/NP)/(NP/NP) 	 2 	 York-based New
+3 	 1 	 NP/NP 	 1 	 Nabisco York-based
+3 	 2 	 N/N 	 1 	 Nabisco RJR
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Nabisco would
+3 	 6 	 (S[b]\NP)/NP 	 1 	 Nabisco say <XB>
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 would n't
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 say would
+7 	 6 	 (S[b]\NP)/NP 	 2 	 what say
+7 	 9 	 (S[dcl]\NP)/NP 	 2 	 what spends <XU>
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 it spends
+9 	 7 	 NP/(S[dcl]/NP) 	 1 	 spends what
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 spends annually
+14 	 13 	 N/N 	 1 	 executives industry
+14 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 executives say
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+16 	 18 	 (S[b]\NP)/NP 	 1 	 it spend <XB>
+17 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 will say
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 spend will
+18 	 24 	 ((S\NP)\(S\NP))/N 	 2 	 spend this
+18 	 27 	 ((S\NP)\(S\NP))/PP 	 2 	 spend down
+19 	 20 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+21 	 18 	 (S[b]\NP)/NP 	 2 	 $ spend
+21 	 20 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 140
+25 	 24 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+28 	 27 	 ((S\NP)\(S\NP))/PP 	 3 	 from down
+30 	 28 	 PP/NP 	 1 	 $ from
+30 	 29 	 N/N 	 1 	 $ about
+30 	 34 	 NP\NP 	 1 	 $ year
+32 	 30 	 N/N[num] 	 1 	 million $
+32 	 31 	 N/N 	 1 	 million 200
+34 	 33 	 (NP\NP)/(NP\NP) 	 2 	 year last
+<\s>
+<s id="wsj_1193.34"> 3
+1 	 0 	 N/N 	 1 	 Notes Ad
+<\s>
+<s id="wsj_1193.35"> 1
+<\s>
+<s id="wsj_1193.36"> 36
+1 	 0 	 N/N 	 1 	 Group Interpublic
+1 	 2 	 (NP\NP)/NP 	 1 	 Group of
+1 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Group said
+3 	 2 	 (NP\NP)/NP 	 2 	 Cos. of
+6 	 5 	 N/N 	 1 	 net third-quarter
+6 	 7 	 S[dcl]\NP 	 1 	 net rose
+7 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 rose said
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 rose %
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+7 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+7 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 rose in
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 15
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 6.9
+17 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+17 	 16 	 N/N 	 1 	 cents 21
+17 	 18 	 (NP\NP)/N 	 1 	 cents a
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+24 	 22 	 N/N[num] 	 1 	 million $
+24 	 23 	 N/N 	 1 	 million 6
+28 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+28 	 27 	 N/N 	 1 	 cents 18
+28 	 29 	 (NP\NP)/N 	 1 	 cents a
+30 	 29 	 (NP\NP)/N 	 2 	 share a
+35 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 period in
+35 	 33 	 NP[nb]/N 	 1 	 period the
+35 	 34 	 N/N 	 1 	 period year-earlier
+<\s>
+<s id="wsj_1193.37"> 14
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Revenue increased
+1 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+1 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 increased from
+2 	 3 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+4 	 3 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 5 than
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 % increased
+5 	 4 	 N/N 	 1 	 % 5
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 283.2
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 268.6
+<\s>
+<s id="wsj_1193.38"> 2
+1 	 0 	 N/N 	 1 	 PROMOTION HOLIDAY
+<\s>
+<s id="wsj_1193.39"> 26
+1 	 0 	 N/N 	 1 	 Inc. PepsiCo
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Inc. will
+1 	 3 	 (S[b]\NP)/NP 	 1 	 Inc. give <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give will
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 give away
+3 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 give in
+6 	 3 	 (S[b]\NP)/NP 	 2 	 sets give
+6 	 5 	 N/N 	 1 	 sets 4,000
+6 	 7 	 (NP\NP)/NP 	 1 	 sets of
+9 	 7 	 (NP\NP)/NP 	 2 	 Boy of
+9 	 8 	 N/N 	 1 	 Boy Game
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Nintendo 's
+16 	 7 	 (NP\NP)/NP 	 2 	 game of
+16 	 12 	 (NP[nb]/N)\NP 	 1 	 game 's
+16 	 13 	 N/N 	 1 	 game new
+16 	 14 	 N/N 	 1 	 game hand-held
+16 	 15 	 N/N 	 1 	 game video
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 promotion in
+20 	 18 	 NP[nb]/N 	 1 	 promotion a
+20 	 19 	 N/N 	 1 	 promotion two-month
+20 	 21 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 promotion scheduled <XB>
+20 	 23 	 S[b]\NP 	 1 	 promotion begin <XB>
+22 	 21 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to scheduled
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 begin to
+23 	 24 	 ((S\NP)\(S\NP))/N[num] 	 2 	 begin Nov.
+25 	 24 	 ((S\NP)\(S\NP))/N[num] 	 3 	 1 Nov.
+<\s>
+<s id="wsj_1193.40"> 11
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Pepsi said
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+2 	 4 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 1 	 it spend <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 spend will
+5 	 4 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 3 	 $ spend
+5 	 8 	 (S[ng]\NP)/NP 	 1 	 $ advertising <XB>
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 10
+8 	 4 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 2 	 advertising spend
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 promotion advertising
+10 	 9 	 NP[nb]/N 	 1 	 promotion the
+<\s>

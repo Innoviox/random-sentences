@@ -1,0 +1,64 @@
+<s id="wsj_2401.1"> 1
+1 	 0 	 N/N 	 1 	 Street Two-Way
+<\s>
+<s id="wsj_2401.2"> 27
+4 	 1 	 NP[nb]/N 	 1 	 law the
+4 	 2 	 N/N 	 1 	 law sixty-day
+4 	 3 	 N/N 	 1 	 law plant-closing
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 law 's
+4 	 6 	 S[adj]\NP 	 1 	 law fair <XB>
+5 	 0 	 (S/S)/S[dcl] 	 2 	 's If
+6 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 fair 's
+8 	 0 	 (S/S)/S[dcl] 	 1 	 Why If
+9 	 8 	 S[wq]/S[q] 	 1 	 should Why
+9 	 11 	 S\S 	 1 	 should not
+9 	 12 	 S\S 	 1 	 should then
+10 	 9 	 (S[q]/(S[b]\NP))/NP 	 2 	 we should
+10 	 13 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 we amend <XB>
+13 	 9 	 (S[q]/(S[b]\NP))/NP 	 1 	 amend should
+15 	 13 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 writ amend
+15 	 14 	 NP[nb]/N 	 1 	 writ the
+15 	 17 	 (S[b]\NP)/S[em] 	 1 	 writ require <XB>
+16 	 13 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 To amend
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 require To
+18 	 17 	 (S[b]\NP)/S[em] 	 2 	 that require
+20 	 19 	 NP[nb]/N 	 1 	 employees all
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 employees give
+21 	 18 	 S[em]/S[dcl] 	 1 	 give that
+21 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 give before
+23 	 21 	 (S[dcl]\NP)/NP 	 2 	 notice give
+23 	 22 	 N/N 	 1 	 notice Similar
+25 	 26 	 S[dcl]\NP 	 1 	 they quit
+26 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 quit before
+<\s>
+<s id="wsj_2401.3"> 4
+3 	 1 	 N/N 	 1 	 Trexler Rollin
+3 	 2 	 N/N 	 1 	 Trexler S.
+<\s>
+<s id="wsj_2401.4"> 1
+1 	 0 	 N/N 	 1 	 Comment Candid
+<\s>
+<s id="wsj_2401.5"> 18
+2 	 1 	 N/N 	 1 	 projects research
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 projects are
+2 	 4 	 S[pss]\NP 	 1 	 projects curtailed <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 are When
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 curtailed are
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 curtailed to
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 to due
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 cuts to
+9 	 7 	 N/N 	 1 	 cuts government
+9 	 8 	 N/N 	 1 	 cuts funding
+11 	 0 	 (S/S)/S[dcl] 	 1 	 are When
+12 	 11 	 (S[q]/(S[pss]\NP))/NP 	 2 	 we are
+12 	 13 	 S[pss]\NP 	 1 	 we caught <XB>
+13 	 11 	 (S[q]/(S[pss]\NP))/NP 	 1 	 caught are
+13 	 14 	 (((S\NP)\(S\NP))/(S[adj]\NP))/NP 	 2 	 caught with
+16 	 14 	 (((S\NP)\(S\NP))/(S[adj]\NP))/NP 	 4 	 grants with
+16 	 15 	 NP[nb]/N 	 1 	 grants our
+16 	 17 	 S[adj]\NP 	 1 	 grants down <XB>
+17 	 14 	 (((S\NP)\(S\NP))/(S[adj]\NP))/NP 	 3 	 down with
+<\s>
+<s id="wsj_2401.6"> 3
+2 	 1 	 N/N 	 1 	 Friedman C.E.
+<\s>

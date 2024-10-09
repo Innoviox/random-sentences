@@ -1,0 +1,220 @@
+<s id="wsj_1725.1"> 25
+5 	 0 	 N/N 	 1 	 Semel Gold
+5 	 2 	 N/N 	 1 	 Semel silver
+5 	 3 	 N/N 	 1 	 Semel broker
+5 	 4 	 N/N 	 1 	 Semel Preston
+5 	 6 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Semel asked
+9 	 6 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 court asked
+9 	 7 	 NP[nb]/N 	 1 	 court a
+9 	 8 	 N/N 	 1 	 court federal
+9 	 11 	 ((S[b]\NP)/PP)/NP 	 1 	 court halt <XB>
+10 	 6 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to asked
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 halt to
+14 	 11 	 ((S[b]\NP)/PP)/NP 	 3 	 Exchange halt
+14 	 12 	 NP[nb]/N 	 1 	 Exchange the
+14 	 13 	 N/N 	 1 	 Exchange Commodity
+15 	 11 	 ((S[b]\NP)/PP)/NP 	 2 	 from halt
+16 	 15 	 PP/(S[ng]\NP) 	 1 	 imposing from
+20 	 19 	 (N/N)/N[num] 	 2 	 550,000 $
+21 	 16 	 ((S[ng]\NP)/PP)/NP 	 3 	 fine imposing
+21 	 17 	 NP[nb]/N 	 1 	 fine a
+21 	 18 	 N/N 	 1 	 fine record
+21 	 19 	 (N/N)/N[num] 	 1 	 fine $
+22 	 16 	 ((S[ng]\NP)/PP)/NP 	 2 	 on imposing
+24 	 22 	 PP/NP 	 1 	 firm on
+24 	 23 	 NP[nb]/N 	 1 	 firm his
+<\s>
+<s id="wsj_1725.2"> 33
+1 	 0 	 NP[nb]/N 	 1 	 suit The
+1 	 3 	 S[pss]\NP 	 1 	 suit filed <XB>
+1 	 11 	 (S[dcl]\NP)/S[bem] 	 1 	 suit asks
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 filed in
+3 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 filed in
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 court in
+6 	 5 	 N/N 	 1 	 court federal
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Manhattan in
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 asks also
+12 	 11 	 (S[dcl]\NP)/S[bem] 	 2 	 that asks
+14 	 13 	 NP[nb]/N 	 1 	 Comex the
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 Comex 's
+17 	 15 	 (NP[nb]/N)\NP 	 1 	 suspension 's
+17 	 16 	 N/N 	 1 	 suspension nine-month
+17 	 18 	 (NP\NP)/NP 	 1 	 suspension of
+17 	 22 	 S[pss]\NP 	 1 	 suspension lifted <XB>
+20 	 18 	 (NP\NP)/NP 	 2 	 Semel of
+20 	 19 	 N/N 	 1 	 Semel Mr.
+21 	 12 	 S[bem]/S[b] 	 1 	 be that
+22 	 21 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 lifted be
+22 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 lifted pending
+26 	 25 	 NP[nb]/N 	 1 	 broker the
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 broker 's
+28 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 appeal pending
+28 	 27 	 (NP[nb]/N)\NP 	 1 	 appeal 's
+28 	 29 	 (NP\NP)/NP 	 1 	 appeal of
+32 	 29 	 (NP\NP)/NP 	 2 	 measures of
+32 	 30 	 NP[nb]/N 	 1 	 measures the
+32 	 31 	 N/N 	 1 	 measures disciplinary
+<\s>
+<s id="wsj_1725.3"> 23
+1 	 0 	 NP[nb]/N 	 1 	 fine The
+1 	 5 	 S[pss]\NP 	 1 	 fine announced <XB>
+1 	 9 	 (S[dcl]\NP)/NP 	 1 	 fine are
+3 	 0 	 NP[nb]/N 	 1 	 suspension The
+3 	 5 	 S[pss]\NP 	 1 	 suspension announced <XB>
+3 	 9 	 (S[dcl]\NP)/NP 	 1 	 suspension are
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 announced in
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 August in
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 sanctions are
+12 	 10 	 NP[nb]/N 	 1 	 sanctions the
+12 	 11 	 N/N 	 1 	 sanctions stiffest
+12 	 17 	 ((S[pt]\NP)/PP)/NP 	 3 	 sanctions ordered <XU>
+14 	 13 	 NP[nb]/N 	 1 	 Comex the
+14 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Comex has
+14 	 17 	 ((S[pt]\NP)/PP)/NP 	 1 	 Comex ordered <XB>
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 has ever
+17 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 ordered has
+18 	 17 	 ((S[pt]\NP)/PP)/NP 	 2 	 against ordered
+19 	 18 	 PP/NP 	 1 	 one against
+19 	 20 	 (NP\NP)/NP 	 1 	 one of
+22 	 20 	 (NP\NP)/NP 	 2 	 members of
+22 	 21 	 NP[nb]/N 	 1 	 members its
+<\s>
+<s id="wsj_1725.4"> 13
+1 	 0 	 NP[nb]/N 	 1 	 Comex The
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Comex accused
+6 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Semel accused
+6 	 3 	 NP[nb]/N 	 1 	 Semel the
+6 	 4 	 N/N 	 1 	 Semel 39-year-old
+6 	 5 	 N/N 	 1 	 Semel Mr.
+7 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 of accused
+9 	 7 	 PP/NP 	 1 	 conduct of
+9 	 8 	 N/N 	 1 	 conduct fraudulent
+12 	 7 	 PP/NP 	 1 	 trading of
+12 	 11 	 N/N 	 1 	 trading improper
+<\s>
+<s id="wsj_1725.5"> 9
+2 	 0 	 NP[nb]/N 	 1 	 proceedings The
+2 	 1 	 N/N 	 1 	 proceedings disciplinary
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 proceedings stem
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 from stem
+5 	 4 	 PP/NP 	 1 	 trading from
+5 	 6 	 (NP\NP)/NP 	 1 	 trading in
+7 	 6 	 (NP\NP)/NP 	 2 	 April in
+7 	 8 	 N\N 	 1 	 April 1987
+<\s>
+<s id="wsj_1725.6"> 24
+1 	 0 	 N/N 	 1 	 Semel Mr.
+1 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Semel have
+1 	 11 	 ((S[pt]\NP)/PP)/NP 	 1 	 Semel appealed <XB>
+4 	 3 	 NP[nb]/N 	 1 	 firm his
+4 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 firm have
+4 	 11 	 ((S[pt]\NP)/PP)/NP 	 1 	 firm appealed <XB>
+8 	 6 	 N/N 	 1 	 Co. Semel
+8 	 7 	 N/N 	 1 	 Co. &
+8 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Co. have
+8 	 11 	 ((S[pt]\NP)/PP)/NP 	 1 	 Co. appealed <XB>
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 appealed have
+14 	 11 	 ((S[pt]\NP)/PP)/NP 	 3 	 decision appealed
+14 	 12 	 NP[nb]/N 	 1 	 decision the
+14 	 13 	 N/N 	 1 	 decision Comex
+17 	 11 	 ((S[pt]\NP)/PP)/NP 	 3 	 sanctions appealed
+17 	 16 	 NP[nb]/N 	 1 	 sanctions the
+18 	 11 	 ((S[pt]\NP)/PP)/NP 	 2 	 to appealed
+23 	 18 	 PP/NP 	 1 	 Commission to
+23 	 19 	 NP[nb]/N 	 1 	 Commission the
+23 	 20 	 N/N 	 1 	 Commission Commodity
+23 	 21 	 N/N 	 1 	 Commission Futures
+23 	 22 	 N/N 	 1 	 Commission Trading
+<\s>
+<s id="wsj_1725.7"> 17
+1 	 0 	 NP[nb]/N 	 1 	 commission The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 commission denied
+4 	 3 	 N/N 	 1 	 Semel Mr.
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Semel 's
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 request denied
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 request 's
+7 	 6 	 N/S[bem] 	 1 	 that request
+9 	 8 	 NP[nb]/N 	 1 	 fine the
+9 	 13 	 S[pss]\NP 	 1 	 fine delayed <XB>
+11 	 8 	 NP[nb]/N 	 1 	 suspension the
+11 	 13 	 S[pss]\NP 	 1 	 suspension delayed <XB>
+12 	 7 	 S[bem]/S[b] 	 1 	 be that
+13 	 12 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 delayed be
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 delayed pending
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 appeal pending
+16 	 15 	 NP[nb]/N 	 1 	 appeal the
+<\s>
+<s id="wsj_1725.8"> 31
+1 	 0 	 NP[nb]/N 	 1 	 lawsuit The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 lawsuit states
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that states
+6 	 5 	 NP[nb]/N 	 1 	 sanctions the
+6 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 sanctions are
+6 	 8 	 S[pss]\NP 	 1 	 sanctions halted <XB>
+7 	 4 	 (S/S)/S[dcl] 	 2 	 are unless
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 halted are
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 halted pending
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 appeal pending
+11 	 10 	 NP[nb]/N 	 1 	 appeal an
+14 	 13 	 NP[nb]/N 	 1 	 broker the
+14 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 broker will
+14 	 21 	 S[pss]\NP 	 1 	 broker injured <XB>
+17 	 16 	 NP[nb]/N 	 1 	 firm his
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 firm will
+17 	 21 	 S[pss]\NP 	 1 	 firm injured <XB>
+18 	 3 	 S[em]/S[dcl] 	 1 	 will that
+18 	 4 	 (S/S)/S[dcl] 	 1 	 will unless
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+21 	 19 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 injured be
+21 	 20 	 (S\NP)/(S\NP) 	 2 	 injured irreparably
+24 	 23 	 NP[nb]/N 	 1 	 business their
+24 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 business will
+24 	 30 	 S[pss]\NP 	 1 	 business destroyed <XB>
+25 	 3 	 S[em]/S[dcl] 	 1 	 will that
+25 	 4 	 (S/S)/S[dcl] 	 1 	 will unless
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+30 	 26 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 destroyed be
+30 	 27 	 (S\NP)/(S\NP) 	 2 	 destroyed totally <XU>
+30 	 29 	 (S\NP)/(S\NP) 	 2 	 destroyed permanently
+<\s>
+<s id="wsj_1725.9"> 29
+2 	 1 	 NP[nb]/N 	 1 	 firm the
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 firm has
+2 	 4 	 (S[pt]\NP)/NP 	 1 	 firm paid <XB>
+3 	 0 	 S/S 	 1 	 has Already
+3 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said <XU>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 paid has
+5 	 4 	 (S[pt]\NP)/NP 	 2 	 $ paid
+5 	 7 	 (NP\NP)/NP 	 1 	 $ of
+6 	 5 	 N/N[num] 	 1 	 211,666 $
+9 	 7 	 (NP\NP)/NP 	 2 	 fine of
+9 	 8 	 NP[nb]/N 	 1 	 fine the
+12 	 11 	 NP[nb]/N 	 1 	 suit the
+12 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 suit said
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+16 	 20 	 (S[b]\NP)/NP 	 1 	 it liquidate <XB>
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+19 	 18 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 liquidate to
+20 	 23 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 2 	 liquidate in
+22 	 20 	 (S[b]\NP)/NP 	 2 	 assets liquidate
+22 	 21 	 N/N 	 1 	 assets additional
+24 	 23 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 4 	 order in
+25 	 23 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 3 	 to in
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+28 	 26 	 (S[b]\NP)/NP 	 2 	 rest pay
+28 	 27 	 NP[nb]/N 	 1 	 rest the
+<\s>
+<s id="wsj_1725.10"> 11
+1 	 0 	 NP[nb]/N 	 1 	 spokesman A
+1 	 2 	 (NP\NP)/NP 	 1 	 spokesman for
+1 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 spokesman could
+1 	 8 	 S[pss]\NP 	 1 	 spokesman reached <XB>
+1 	 10 	 S[b]\NP 	 1 	 spokesman comment <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 Comex for
+4 	 3 	 NP[nb]/N 	 1 	 Comex the
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 could n't
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+8 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reached be
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+<\s>

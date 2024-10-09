@@ -1,0 +1,486 @@
+<s id="wsj_1155.1"> 15
+2 	 0 	 N/N 	 1 	 Inc. Cray
+2 	 1 	 N/N 	 1 	 Inc. Research
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 Inc. forecast
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that forecast
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 1990 will
+5 	 7 	 (S[b]\NP)/NP 	 1 	 1990 be <XB>
+6 	 4 	 S[em]/S[dcl] 	 1 	 will that
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+7 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 be for
+10 	 7 	 (S[b]\NP)/NP 	 2 	 year be
+10 	 8 	 NP[nb]/N 	 1 	 year a
+10 	 9 	 N/N 	 1 	 year no-growth
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 line for
+14 	 12 	 NP[nb]/N 	 1 	 line its
+14 	 13 	 N/N 	 1 	 line supercomputer
+<\s>
+<s id="wsj_1155.2"> 45
+1 	 0 	 (S/S)/NP 	 2 	 what In
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 what has <XB>
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 what become <XB>
+2 	 1 	 NP/(S[dcl]\NP) 	 1 	 has what
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 become has
+5 	 3 	 (S[pt]\NP)/NP 	 2 	 series become
+5 	 4 	 NP[nb]/N 	 1 	 series a
+5 	 6 	 (NP\NP)/NP 	 1 	 series of
+8 	 6 	 (NP\NP)/NP 	 2 	 announcements of
+8 	 7 	 N/N 	 1 	 announcements bad-news
+11 	 10 	 NP[nb]/N 	 1 	 world the
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 world 's
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 maker 's
+14 	 13 	 N/N 	 1 	 maker largest
+14 	 15 	 (NP\NP)/NP 	 1 	 maker of
+14 	 17 	 (S[dcl]\NP)/S[em] 	 1 	 maker said
+16 	 15 	 (NP\NP)/NP 	 2 	 supercomputers of
+17 	 0 	 (S/S)/NP 	 1 	 said In
+18 	 17 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+20 	 19 	 (S/S)/(S[ng]\NP) 	 2 	 reviewing after
+23 	 20 	 (S[ng]\NP)/NP 	 2 	 prospects reviewing
+23 	 21 	 NP[nb]/N 	 1 	 prospects its
+23 	 22 	 N/N 	 1 	 prospects order
+25 	 26 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 we have
+25 	 27 	 (S[pt]\NP)/S[dcl] 	 1 	 we concluded <XB>
+26 	 18 	 S[em]/S[dcl] 	 1 	 have that
+26 	 19 	 (S/S)/(S[ng]\NP) 	 1 	 have after
+27 	 26 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 concluded have
+28 	 29 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 1 	 it is
+29 	 27 	 (S[pt]\NP)/S[dcl] 	 2 	 is concluded
+30 	 29 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 3 	 prudent is
+31 	 29 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 2 	 to is
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 plan to
+32 	 36 	 ((S\NP)\(S\NP))/NP 	 2 	 plan on
+33 	 32 	 (S[b]\NP)/PP 	 2 	 for plan
+35 	 33 	 PP/NP 	 1 	 year for
+35 	 34 	 N/N 	 1 	 year next
+38 	 36 	 ((S\NP)\(S\NP))/NP 	 3 	 assumption on
+38 	 37 	 NP[nb]/N 	 1 	 assumption the
+40 	 39 	 NP[nb]/N 	 1 	 revenue that
+40 	 42 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 revenue will
+40 	 44 	 S[adj]\NP 	 1 	 revenue flat <XB>
+42 	 38 	 N/S[dcl] 	 1 	 will assumption
+42 	 41 	 (S\NP)/(S\NP) 	 2 	 will again
+43 	 42 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+44 	 43 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 flat be
+<\s>
+<s id="wsj_1155.3"> 32
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Cray jolted
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 jolted in
+1 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 jolted when
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 market jolted
+3 	 2 	 NP[nb]/N 	 1 	 market the
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 July in
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 it slashed
+7 	 17 	 (S[ng]\NP)/NP 	 1 	 it citing <XB>
+8 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 slashed when
+12 	 8 	 (S[dcl]\NP)/NP 	 2 	 projections slashed
+12 	 9 	 N/N 	 1 	 projections revenue
+12 	 11 	 N/N 	 1 	 projections earnings
+12 	 13 	 (NP\NP)/NP 	 1 	 projections for
+15 	 13 	 (NP\NP)/NP 	 2 	 year for
+15 	 14 	 NP[nb]/N 	 1 	 year this
+20 	 17 	 (S[ng]\NP)/NP 	 2 	 economy citing
+20 	 18 	 NP[nb]/N 	 1 	 economy a
+20 	 19 	 N/N 	 1 	 economy slowing
+20 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 economy that
+20 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 economy has <XB>
+20 	 23 	 (S[pt]\NP)/NP 	 1 	 economy delayed <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has that
+23 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 delayed has
+24 	 23 	 (S[pt]\NP)/NP 	 2 	 orders delayed
+24 	 25 	 (NP\NP)/NP 	 1 	 orders from
+26 	 27 	 (N/N)\(N/N) 	 2 	 government as
+26 	 28 	 (N/N)\(N/N) 	 2 	 government well
+26 	 29 	 (N/N)\(N/N) 	 2 	 government as
+26 	 30 	 (N/N)\(N/N) 	 2 	 government commercial
+31 	 25 	 (NP\NP)/NP 	 2 	 customers from
+31 	 26 	 N/N 	 1 	 customers government
+<\s>
+<s id="wsj_1155.4"> 22
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 company made
+1 	 14 	 (S[ng]\NP)/NP 	 1 	 company announcing <XB>
+2 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 made in
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 projection made
+5 	 3 	 NP[nb]/N 	 1 	 projection its
+5 	 4 	 N/N 	 1 	 projection 1990
+5 	 6 	 (NP\NP)/NP 	 1 	 projection --
+9 	 6 	 (NP\NP)/NP 	 2 	 event --
+9 	 7 	 NP[nb]/N 	 1 	 event an
+9 	 8 	 N/N 	 1 	 event unusual
+9 	 10 	 (NP\NP)/NP 	 1 	 event for
+11 	 10 	 (NP\NP)/NP 	 2 	 Cray for
+14 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 announcing in
+17 	 14 	 (S[ng]\NP)/NP 	 2 	 income announcing
+17 	 15 	 N/N 	 1 	 income improved
+17 	 16 	 N/N 	 1 	 income net
+17 	 18 	 (NP\NP)/NP 	 1 	 income for
+21 	 18 	 (NP\NP)/NP 	 2 	 quarter for
+21 	 19 	 NP[nb]/N 	 1 	 quarter the
+21 	 20 	 N/N 	 1 	 quarter third
+<\s>
+<s id="wsj_1155.5"> 31
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Cray said
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 it earned
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 earned said
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+4 	 14 	 ((NP\NP)/PP)/NP 	 1 	 $ up
+6 	 4 	 N/N[num] 	 1 	 million $
+6 	 5 	 N/N 	 1 	 million 30.6
+9 	 3 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+9 	 11 	 (NP\NP)/N 	 1 	 $ a
+9 	 14 	 ((NP\NP)/PP)/NP 	 1 	 $ up
+10 	 9 	 N/N[num] 	 1 	 1.04 $
+12 	 11 	 (NP\NP)/N 	 2 	 share a
+16 	 14 	 ((NP\NP)/PP)/NP 	 3 	 % up
+16 	 15 	 N/N 	 1 	 % 35
+17 	 14 	 ((NP\NP)/PP)/NP 	 2 	 from up
+18 	 17 	 PP/NP 	 1 	 $ from
+18 	 30 	 (NP\NP)\NP 	 1 	 $ ago
+20 	 18 	 N/N[num] 	 1 	 million $
+20 	 19 	 N/N 	 1 	 million 22.6
+24 	 17 	 PP/NP 	 1 	 cents from
+24 	 23 	 N/N 	 1 	 cents 73
+24 	 25 	 (NP\NP)/N 	 1 	 cents a
+24 	 30 	 (NP\NP)\NP 	 1 	 cents ago
+26 	 25 	 (NP\NP)/N 	 2 	 share a
+29 	 28 	 NP[nb]/N 	 1 	 year a
+29 	 30 	 (NP\NP)\NP 	 2 	 year ago
+<\s>
+<s id="wsj_1155.6"> 12
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Revenue gained
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 gained to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 gained from
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 % gained
+3 	 2 	 N/N 	 1 	 % 45
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 210.2
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 145.2
+<\s>
+<s id="wsj_1155.7"> 34
+3 	 0 	 (S/S)/NP 	 2 	 months For
+3 	 1 	 NP[nb]/N 	 1 	 months the
+3 	 2 	 N/N 	 1 	 months nine
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 earnings totaled
+6 	 0 	 (S/S)/NP 	 1 	 totaled For
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 $ totaled
+7 	 17 	 ((NP\NP)/PP)/NP 	 1 	 $ down
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 36.6
+12 	 6 	 (S[dcl]\NP)/NP 	 2 	 $ totaled
+12 	 14 	 (NP\NP)/N 	 1 	 $ a
+12 	 17 	 ((NP\NP)/PP)/NP 	 1 	 $ down
+13 	 12 	 N/N[num] 	 1 	 1.24 $
+15 	 14 	 (NP\NP)/N 	 2 	 share a
+19 	 17 	 ((NP\NP)/PP)/NP 	 3 	 % down
+19 	 18 	 N/N 	 1 	 % 46
+20 	 17 	 ((NP\NP)/PP)/NP 	 2 	 from down
+21 	 20 	 PP/NP 	 1 	 $ from
+21 	 33 	 (NP\NP)\NP 	 1 	 $ earlier
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 68.1
+26 	 20 	 PP/NP 	 1 	 $ from
+26 	 28 	 (NP\NP)/N 	 1 	 $ a
+26 	 33 	 (NP\NP)\NP 	 1 	 $ earlier
+27 	 26 	 N/N[num] 	 1 	 2.19 $
+29 	 28 	 (NP\NP)/N 	 2 	 share a
+32 	 31 	 NP[nb]/N 	 1 	 year a
+32 	 33 	 (NP\NP)\NP 	 2 	 year earlier
+<\s>
+<s id="wsj_1155.8"> 14
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Revenue was
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 $ was
+4 	 2 	 N/N[num] 	 1 	 million $
+4 	 3 	 N/N 	 1 	 million 454.6
+8 	 7 	 (N/N)/(N/N) 	 2 	 % 6.9
+9 	 1 	 (S[dcl]\NP)/NP 	 2 	 gain was
+9 	 6 	 NP[nb]/N 	 1 	 gain a
+9 	 8 	 N/N 	 1 	 gain %
+9 	 10 	 (NP\NP)/NP 	 1 	 gain from
+11 	 10 	 (NP\NP)/NP 	 2 	 $ from
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 425.4
+<\s>
+<s id="wsj_1155.9"> 9
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Cray made
+1 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 made after
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 announcement made
+3 	 2 	 NP[nb]/N 	 1 	 announcement its
+7 	 5 	 NP[nb]/N 	 1 	 market the
+7 	 6 	 N/N 	 1 	 market stock
+7 	 8 	 S[dcl]\NP 	 1 	 market closed
+8 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 closed after
+<\s>
+<s id="wsj_1155.10"> 17
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+9 	 10 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 1 	 Cray closed
+9 	 11 	 (S[adj]\NP)/NP 	 1 	 Cray down <XB>
+10 	 0 	 (S/S)/NP 	 1 	 closed In
+10 	 7 	 S/S 	 1 	 closed yesterday
+11 	 10 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 3 	 down closed
+12 	 11 	 (S[adj]\NP)/NP 	 2 	 $ down
+13 	 12 	 N/N[num] 	 1 	 1.125 $
+14 	 10 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 2 	 at closed
+15 	 14 	 PP/NP 	 1 	 $ at
+16 	 15 	 N/N[num] 	 1 	 34.25 $
+<\s>
+<s id="wsj_1155.11"> 20
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Cray said
+4 	 2 	 NP[nb]/N 	 1 	 backlog its
+4 	 3 	 N/N 	 1 	 backlog order
+4 	 8 	 (S[dcl]\NP)/NP 	 1 	 backlog was
+6 	 5 	 ((S\NP)/(S\NP))/NP 	 3 	 Sept. at
+7 	 6 	 N/N[num] 	 1 	 30 Sept.
+8 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+8 	 5 	 ((S\NP)/(S\NP))/NP 	 2 	 was at
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 $ was
+9 	 13 	 ((NP\NP)/PP)/NP 	 1 	 $ down
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 315
+14 	 13 	 ((NP\NP)/PP)/NP 	 3 	 $ down
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 25
+17 	 13 	 ((NP\NP)/PP)/NP 	 2 	 from down
+18 	 17 	 PP/NP 	 1 	 June from
+19 	 18 	 N/N[num] 	 1 	 30 June
+<\s>
+<s id="wsj_1155.12"> 32
+1 	 0 	 N/N 	 1 	 Gumucio Marcello
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Gumucio said
+3 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 president said
+7 	 6 	 NP[nb]/N 	 1 	 company the
+7 	 8 	 S[dcl]\NP 	 1 	 company did
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 did said
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 did well
+8 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 did in
+8 	 14 	 (S\NP)\(S\NP) 	 2 	 did far
+8 	 26 	 (S\NP)\(S\NP) 	 2 	 did well <XU>
+8 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 did in <XU>
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+12 	 11 	 NP[nb]/N 	 1 	 quarter the
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 far as
+14 	 15 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 3 	 far as
+16 	 19 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 revenues are
+16 	 20 	 S[pss]\NP 	 1 	 revenues concerned <XB>
+18 	 19 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 earnings are
+18 	 20 	 S[pss]\NP 	 1 	 earnings concerned <XB>
+19 	 15 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 4 	 are as
+20 	 19 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 concerned are
+26 	 23 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 well not
+26 	 24 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 well quite
+26 	 25 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 well as
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 terms in
+28 	 29 	 (NP\NP)/NP 	 1 	 terms of
+31 	 29 	 (NP\NP)/NP 	 2 	 orders of
+31 	 30 	 N/N 	 1 	 orders signing
+<\s>
+<s id="wsj_1155.13"> 54
+1 	 0 	 (S/S)/PP 	 2 	 for As
+4 	 1 	 PP/NP 	 1 	 period for
+4 	 2 	 NP[nb]/N 	 1 	 period the
+4 	 3 	 N/N 	 1 	 period current
+7 	 6 	 N/N 	 1 	 Gumucio Mr.
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Gumucio said
+10 	 11 	 (S[dcl]\NP)/S[em] 	 1 	 We anticipate
+11 	 0 	 (S/S)/PP 	 1 	 anticipate As
+11 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 anticipate said <XU>
+12 	 11 	 (S[dcl]\NP)/S[em] 	 2 	 that anticipate
+14 	 13 	 N/N 	 1 	 revenue fourth-quarter
+14 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 revenue will
+14 	 20 	 S[adj]\NP 	 1 	 revenue greater <XB>
+14 	 30 	 S[adj]\NP 	 1 	 revenue not <XU>
+16 	 13 	 N/N 	 1 	 earnings fourth-quarter
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 earnings will
+16 	 20 	 S[adj]\NP 	 1 	 earnings greater <XB>
+16 	 30 	 S[adj]\NP 	 1 	 earnings not <XU>
+17 	 12 	 S[em]/S[dcl] 	 1 	 will that
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+20 	 18 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 greater be
+20 	 19 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 greater substantially
+20 	 21 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 greater than
+22 	 21 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 any than
+22 	 23 	 (NP\NP)/NP 	 1 	 any of
+27 	 23 	 (NP\NP)/NP 	 2 	 quarters of
+27 	 24 	 NP[nb]/N 	 1 	 quarters the
+27 	 25 	 N/N 	 1 	 quarters preceding
+27 	 26 	 N/N 	 1 	 quarters three
+30 	 18 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 not be
+30 	 31 	 ((S[adj]\NP)\(S[adj]\NP))/PP 	 2 	 not up
+32 	 31 	 ((S[adj]\NP)\(S[adj]\NP))/PP 	 3 	 to up
+35 	 32 	 PP/NP 	 1 	 levels to
+35 	 33 	 NP[nb]/N 	 1 	 levels the
+35 	 34 	 N/N 	 1 	 levels record
+35 	 36 	 (NP\NP)/NP 	 1 	 levels of
+38 	 37 	 N/N 	 1 	 year last
+38 	 39 	 (NP[nb]/N)\NP 	 2 	 year 's
+41 	 36 	 (NP\NP)/NP 	 2 	 quarter of
+41 	 39 	 (NP[nb]/N)\NP 	 1 	 quarter 's
+41 	 40 	 N/N 	 1 	 quarter fourth
+41 	 42 	 (NP\NP)/S[dcl] 	 1 	 quarter when
+43 	 44 	 (S[dcl]\NP)/NP 	 1 	 Cray earned
+44 	 42 	 (NP\NP)/S[dcl] 	 2 	 earned when
+45 	 44 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+47 	 45 	 N/N[num] 	 1 	 million $
+47 	 46 	 N/N 	 1 	 million 88.5
+50 	 44 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+50 	 52 	 (NP\NP)/N 	 1 	 $ a
+51 	 50 	 N/N[num] 	 1 	 2.80 $
+53 	 52 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_1155.14"> 22
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 He added
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that added
+4 	 3 	 NP[nb]/N 	 1 	 company the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 company expects
+5 	 2 	 S[em]/S[dcl] 	 1 	 expects that
+5 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 expects for
+5 	 13 	 ((S\NP)\(S\NP))/PP 	 2 	 expects but
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 profit expects
+8 	 6 	 N/N 	 1 	 profit strong
+8 	 7 	 N/N 	 1 	 profit operating
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 year for
+11 	 10 	 NP[nb]/N 	 1 	 year the
+14 	 13 	 ((S\NP)\(S\NP))/PP 	 3 	 at but
+16 	 14 	 PP/NP 	 1 	 level at
+16 	 15 	 NP[nb]/N 	 1 	 level a
+16 	 18 	 S[adj]\NP 	 1 	 level lower <XB>
+18 	 17 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 lower significantly
+18 	 19 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 lower than
+21 	 19 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 year than
+21 	 20 	 N/N 	 1 	 year last
+<\s>
+<s id="wsj_1155.15"> 33
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 1989 's
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 income 's
+5 	 4 	 N/N 	 1 	 income net
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 income could
+5 	 7 	 (S[b]\NP)/NP 	 1 	 income be <XB>
+6 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 could said
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+9 	 7 	 (S[b]\NP)/NP 	 2 	 % be
+9 	 8 	 N/N 	 1 	 % 11
+9 	 10 	 (N\N)/N 	 1 	 % to
+9 	 13 	 (NP\NP)/NP 	 1 	 % of
+9 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 % which
+9 	 18 	 (S[ng]\NP)/NP 	 1 	 % assuming <XB>
+9 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 % would <XB>
+9 	 23 	 (S[b]\NP)/PP 	 1 	 % be <XB>
+12 	 10 	 (N\N)/N 	 2 	 % to
+12 	 11 	 N/N 	 1 	 % 13
+14 	 13 	 (NP\NP)/NP 	 2 	 revenue of
+20 	 18 	 (S[ng]\NP)/NP 	 2 	 expectations assuming
+20 	 19 	 N/N 	 1 	 expectations current
+22 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would which
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+25 	 24 	 N/N 	 1 	 % 40
+25 	 26 	 (N\N)/N 	 1 	 % to
+25 	 29 	 (PP\NP)/NP 	 1 	 % below
+28 	 26 	 (N\N)/N 	 2 	 % to
+28 	 27 	 N/N 	 1 	 % 45
+29 	 23 	 (S[b]\NP)/PP 	 2 	 below be
+30 	 31 	 (NP[nb]/N)\NP 	 2 	 1988 's
+32 	 29 	 (PP\NP)/NP 	 2 	 level below
+32 	 31 	 (NP[nb]/N)\NP 	 1 	 level 's
+<\s>
+<s id="wsj_1155.16"> 21
+1 	 0 	 (S/S)/(S/S) 	 2 	 year Last
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Cray earned
+4 	 1 	 S/S 	 1 	 earned year
+4 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 earned on
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 156.6
+10 	 4 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+10 	 12 	 (NP\NP)/N 	 1 	 $ a
+11 	 10 	 N/N[num] 	 1 	 4.99 $
+13 	 12 	 (NP\NP)/N 	 2 	 share a
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 revenue on
+16 	 17 	 (NP\NP)/NP 	 1 	 revenue of
+18 	 17 	 (NP\NP)/NP 	 2 	 $ of
+20 	 18 	 N/N[num] 	 1 	 million $
+20 	 19 	 N/N 	 1 	 million 756.3
+<\s>
+<s id="wsj_1155.17"> 16
+1 	 0 	 N/N 	 1 	 year Next
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 year looks
+1 	 3 	 S[adj]\NP 	 1 	 year dismal <XB>
+2 	 5 	 (S[dcl]\S[dcl])/NP 	 1 	 looks said
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 dismal looks
+8 	 5 	 (S[dcl]\S[dcl])/NP 	 2 	 Luber said
+8 	 6 	 N/N 	 1 	 Luber analyst
+8 	 7 	 N/N 	 1 	 Luber Paul
+8 	 9 	 (NP\NP)/NP 	 1 	 Luber of
+13 	 9 	 (NP\NP)/NP 	 2 	 Co. of
+13 	 10 	 N/N 	 1 	 Co. Robert
+13 	 11 	 N/N 	 1 	 Co. Baird
+13 	 12 	 N/N 	 1 	 Co. &
+13 	 15 	 NP\NP 	 1 	 Co. Milwaukee
+<\s>
+<s id="wsj_1155.18"> 40
+1 	 0 	 (S[ng]\NP)/S[em] 	 2 	 that Noting
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Cray does
+2 	 5 	 (S[b]\NP)/NP 	 1 	 Cray have <XB>
+3 	 1 	 S[em]/S[dcl] 	 1 	 does that
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 does n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have does
+8 	 5 	 (S[b]\NP)/NP 	 2 	 supercomputer have
+8 	 6 	 NP[nb]/N 	 1 	 supercomputer a
+8 	 7 	 N/N 	 1 	 supercomputer low-end
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 compete to
+11 	 10 	 (S[b]\NP)/PP 	 2 	 with compete
+13 	 11 	 PP/NP 	 1 	 likes with
+13 	 12 	 NP[nb]/N 	 1 	 likes the
+13 	 14 	 (NP\NP)/NP 	 1 	 likes of
+17 	 14 	 (NP\NP)/NP 	 2 	 Corp. of
+17 	 15 	 N/N 	 1 	 Corp. Convex
+17 	 16 	 N/N 	 1 	 Corp. Computer
+22 	 14 	 (NP\NP)/NP 	 2 	 Corp. of
+22 	 19 	 N/N 	 1 	 Corp. International
+22 	 20 	 N/N 	 1 	 Corp. Business
+22 	 21 	 N/N 	 1 	 Corp. Machines
+25 	 24 	 N/N 	 1 	 Luber Mr.
+25 	 26 	 (S[dcl]\NP)/S[dcl] 	 1 	 Luber said
+29 	 27 	 NP/NP 	 1 	 machine such
+29 	 28 	 NP[nb]/N 	 1 	 machine a
+29 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 machine would
+29 	 32 	 S[adj]\NP 	 1 	 machine necessary <XB>
+29 	 34 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 machine get <XB>
+30 	 26 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+31 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+32 	 31 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 necessary be
+34 	 33 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+34 	 39 	 (S\NP)\(S\NP) 	 2 	 get here
+35 	 34 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 things get
+35 	 36 	 (S[adj]\NP)/PP 	 1 	 things back <XB>
+36 	 34 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 back get
+37 	 36 	 (S[adj]\NP)/PP 	 2 	 on back
+38 	 37 	 PP/NP 	 1 	 line on
+<\s>
+<s id="wsj_1155.19"> 16
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Cray has
+0 	 2 	 (S[pt]\NP)/S[dcl] 	 1 	 Cray indicated <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 indicated has
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+3 	 5 	 (S[b]\NP)/PP 	 1 	 it decide <XB>
+4 	 2 	 (S[pt]\NP)/S[dcl] 	 2 	 will indicated
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 decide will
+5 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 decide before
+6 	 5 	 (S[b]\NP)/PP 	 2 	 on decide
+7 	 6 	 PP/S[qem] 	 1 	 whether on
+8 	 7 	 S[qem]/(S[to]\NP) 	 1 	 to whether
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+12 	 9 	 (S[b]\NP)/NP 	 2 	 machine build
+12 	 10 	 NP/NP 	 1 	 machine such
+12 	 11 	 NP[nb]/N 	 1 	 machine a
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 end before
+15 	 14 	 N/N 	 1 	 end year
+<\s>

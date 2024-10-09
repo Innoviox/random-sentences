@@ -1,0 +1,147 @@
+<s id="wsj_0924.1"> 12
+3 	 0 	 N/N 	 1 	 holders Dominion
+3 	 1 	 N/N 	 1 	 holders Textile
+3 	 2 	 N/N 	 1 	 holders Inc.
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 holders adopted
+4 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 adopted at
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 plan adopted
+7 	 5 	 NP[nb]/N 	 1 	 plan a
+7 	 6 	 N/N 	 1 	 plan shareholder-rights
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 meeting at
+11 	 9 	 NP[nb]/N 	 1 	 meeting the
+11 	 10 	 N/N 	 1 	 meeting annual
+<\s>
+<s id="wsj_0924.2"> 12
+3 	 0 	 NP[nb]/N 	 1 	 pill The
+3 	 1 	 N/N 	 1 	 pill so-called
+3 	 2 	 N/N 	 1 	 pill poison
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 pill took
+4 	 6 	 ((S\NP)\(S\NP))/N[num] 	 2 	 took Aug.
+4 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 took pending
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 effect took
+7 	 6 	 ((S\NP)\(S\NP))/N[num] 	 3 	 9 Aug.
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 ratification pending
+9 	 10 	 (NP\NP)/NP 	 1 	 ratification by
+11 	 10 	 (NP\NP)/NP 	 2 	 holders by
+<\s>
+<s id="wsj_0924.3"> 26
+0 	 1 	 (S[pss]\NP)/PP 	 1 	 Rights attached <XB>
+0 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Rights were
+0 	 9 	 S[pss]\NP 	 1 	 Rights issued <XB>
+0 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Rights are <XB>
+0 	 12 	 S[pss]\NP 	 1 	 Rights triggered <XB>
+2 	 1 	 (S[pss]\NP)/PP 	 2 	 to attached
+4 	 3 	 NP[nb]/N 	 1 	 company the
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 company 's
+7 	 2 	 PP/NP 	 1 	 shares to
+7 	 5 	 (NP[nb]/N)\NP 	 1 	 shares 's
+7 	 6 	 N/N 	 1 	 shares common
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 issued were
+9 	 10 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 issued that
+11 	 10 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 are that
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 triggered are
+12 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 triggered if
+16 	 14 	 NP[nb]/N 	 1 	 bidder a
+16 	 15 	 N/N 	 1 	 bidder hostile
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 bidder acquires
+17 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 acquires if
+18 	 19 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+20 	 19 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 20 than
+21 	 17 	 (S[dcl]\NP)/NP 	 2 	 % acquires
+21 	 20 	 N/N 	 1 	 % 20
+21 	 22 	 (NP\NP)/NP 	 1 	 % of
+24 	 22 	 (NP\NP)/NP 	 2 	 shares of
+24 	 23 	 NP[nb]/N 	 1 	 shares the
+24 	 25 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>
+<s id="wsj_0924.4"> 33
+1 	 0 	 (S/S)/(S[pss]\NP) 	 2 	 triggered Once
+4 	 3 	 NP[nb]/N 	 1 	 rights the
+4 	 5 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 rights allow
+5 	 0 	 (S/S)/(S[pss]\NP) 	 1 	 allow Once
+6 	 5 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 holders allow
+6 	 8 	 ((S[b]\NP)/PP)/NP 	 1 	 holders buy <XB>
+6 	 29 	 (S[b]\NP)/NP 	 1 	 holders receive <XU>
+7 	 5 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+10 	 8 	 ((S[b]\NP)/PP)/NP 	 3 	 shares buy
+10 	 9 	 N/N 	 1 	 shares additional
+11 	 8 	 ((S[b]\NP)/PP)/NP 	 2 	 at buy
+13 	 11 	 PP/NP 	 1 	 % at
+13 	 12 	 N/N 	 1 	 % 50
+13 	 14 	 (NP\NP)/NP 	 1 	 % of
+17 	 16 	 (N/N)/(N/N) 	 2 	 current then
+19 	 14 	 (NP\NP)/NP 	 2 	 price of
+19 	 15 	 NP[nb]/N 	 1 	 price the
+19 	 17 	 N/N 	 1 	 price current
+19 	 18 	 N/N 	 1 	 price market
+24 	 23 	 NP[nb]/N 	 1 	 board the
+24 	 25 	 (NP[nb]/N)\NP 	 2 	 board 's
+26 	 22 	 ((S\NP)/(S\NP))/NP 	 3 	 discretion at
+26 	 25 	 (NP[nb]/N)\NP 	 1 	 discretion 's
+28 	 5 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+28 	 22 	 ((S\NP)/(S\NP))/NP 	 2 	 to at
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 receive to
+30 	 29 	 (S[b]\NP)/NP 	 2 	 securities receive
+32 	 29 	 (S[b]\NP)/NP 	 2 	 assets receive
+<\s>
+<s id="wsj_0924.5"> 32
+3 	 2 	 N/N 	 1 	 Textile Dominion
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Textile posted
+4 	 0 	 S/S 	 1 	 posted Separately
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 income posted
+6 	 5 	 N/N 	 1 	 income net
+6 	 7 	 (NP\NP)/NP 	 1 	 income of
+6 	 25 	 (NP\NP)/NP 	 1 	 income for
+9 	 8 	 (N/N)/(N/N) 	 2 	 million 4.7
+11 	 7 	 (NP\NP)/NP 	 2 	 dollars of
+11 	 9 	 N/N 	 1 	 dollars million
+11 	 10 	 N/N 	 1 	 dollars Canadian
+11 	 12 	 (NP\NP)/NP 	 1 	 dollars -LRB-
+13 	 12 	 (NP\NP)/NP 	 2 	 $ -LRB-
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 4
+21 	 7 	 (NP\NP)/NP 	 2 	 cents of
+21 	 19 	 N/N 	 1 	 cents 12
+21 	 20 	 N/N 	 1 	 cents Canadian
+21 	 22 	 (NP\NP)/N 	 1 	 cents a
+23 	 22 	 (NP\NP)/N 	 2 	 share a
+28 	 25 	 (NP\NP)/NP 	 2 	 quarter for
+28 	 26 	 NP[nb]/N 	 1 	 quarter the
+28 	 27 	 N/N 	 1 	 quarter fiscal-first
+28 	 29 	 S[pss]\NP 	 1 	 quarter ended <XB>
+29 	 30 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended Sept.
+31 	 30 	 ((S\NP)\(S\NP))/N[num] 	 3 	 30 Sept.
+<\s>
+<s id="wsj_0924.6"> 21
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 company had
+2 	 20 	 ((S\NP)\(S\NP))\NP 	 2 	 had ago
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 loss had
+5 	 3 	 NP[nb]/N 	 1 	 loss a
+5 	 4 	 N/N 	 1 	 loss net
+5 	 6 	 (NP\NP)/NP 	 1 	 loss of
+7 	 6 	 (NP\NP)/NP 	 2 	 C$ of
+9 	 7 	 N/N[num] 	 1 	 million C$
+9 	 8 	 N/N 	 1 	 million 2.3
+14 	 6 	 (NP\NP)/NP 	 2 	 cents of
+14 	 12 	 N/N 	 1 	 cents 14
+14 	 13 	 N/N 	 1 	 cents Canadian
+14 	 15 	 (NP\NP)/N 	 1 	 cents a
+16 	 15 	 (NP\NP)/N 	 2 	 share a
+19 	 18 	 NP[nb]/N 	 1 	 year a
+19 	 20 	 ((S\NP)\(S\NP))\NP 	 3 	 year ago
+<\s>
+<s id="wsj_0924.7"> 12
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Sales were
+1 	 5 	 ((S\NP)\(S\NP))/PP 	 2 	 were compared
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 C$ were
+4 	 2 	 N/N[num] 	 1 	 million C$
+4 	 3 	 N/N 	 1 	 million 348.2
+6 	 5 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+7 	 6 	 PP/NP 	 1 	 C$ with
+7 	 11 	 (NP\NP)\NP 	 1 	 C$ earlier
+8 	 7 	 N/N[num] 	 1 	 307.2 C$
+10 	 9 	 NP[nb]/N 	 1 	 year a
+10 	 11 	 (NP\NP)\NP 	 2 	 year earlier
+<\s>

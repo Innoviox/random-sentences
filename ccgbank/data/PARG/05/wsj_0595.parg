@@ -1,0 +1,930 @@
+<s id="wsj_0595.1"> 7
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Wives May
+0 	 3 	 S[b]\NP 	 1 	 Wives Benefit <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 May Not
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 Benefit May
+3 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 Benefit When
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Men Do
+6 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 Do When
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 Chores Do
+<\s>
+<s id="wsj_0595.2"> 22
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 HUSBANDS take
+2 	 0 	 (S/S)/S[dcl] 	 2 	 take WHEN
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 take on
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 housework take
+5 	 4 	 N/N 	 1 	 housework more
+7 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 they tend
+7 	 10 	 (S[b]\NP)/PP 	 1 	 they substitute <XB>
+8 	 0 	 (S/S)/S[dcl] 	 1 	 tend WHEN
+9 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to tend
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 substitute to
+11 	 10 	 (S[b]\NP)/PP 	 2 	 for substitute
+12 	 11 	 PP/NP 	 1 	 chores for
+12 	 13 	 S[pss]\NP 	 1 	 chores done <XB>
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 done by
+13 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 done by <XU>
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 kids by
+16 	 15 	 NP[nb]/N 	 1 	 kids the
+18 	 17 	 conj/conj 	 1 	 than rather
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 wife by
+21 	 20 	 NP[nb]/N 	 1 	 wife the
+<\s>
+<s id="wsj_0595.3"> 29
+4 	 0 	 N/N 	 1 	 Waite Rand
+4 	 1 	 N/N 	 1 	 Waite Corp.
+4 	 2 	 N/N 	 1 	 Waite researchers
+4 	 3 	 N/N 	 1 	 Waite Linda
+4 	 8 	 (S[dcl]\NP)/NP 	 1 	 Waite analyzed
+7 	 0 	 N/N 	 1 	 Goldscheider Rand
+7 	 1 	 N/N 	 1 	 Goldscheider Corp.
+7 	 2 	 N/N 	 1 	 Goldscheider researchers
+7 	 3 	 N/N 	 1 	 Goldscheider Linda
+7 	 6 	 N/N 	 1 	 Goldscheider Frances
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 Goldscheider analyzed
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 sample analyzed
+11 	 9 	 NP[nb]/N 	 1 	 sample a
+11 	 10 	 N/N 	 1 	 sample large
+11 	 12 	 (NP\NP)/NP 	 1 	 sample of
+14 	 12 	 (NP\NP)/NP 	 2 	 women of
+14 	 13 	 N/N 	 1 	 women married
+14 	 15 	 (NP\NP)/NP 	 1 	 women with
+17 	 16 	 ((N/N)/(N/N))/(S[asup]\NP) 	 3 	 least at
+18 	 16 	 ((N/N)/(N/N))/(S[asup]\NP) 	 2 	 one at
+19 	 15 	 (NP\NP)/NP 	 2 	 child with
+19 	 18 	 N/N 	 1 	 child one
+19 	 20 	 (NP\NP)/NP 	 1 	 child at
+19 	 22 	 (NP\NP)/NP 	 1 	 child between
+21 	 20 	 (NP\NP)/NP 	 2 	 home at
+24 	 22 	 (NP\NP)/NP 	 2 	 ages between
+24 	 23 	 NP[nb]/N 	 1 	 ages the
+24 	 25 	 (NP\NP)/NP 	 1 	 ages of
+26 	 25 	 (NP\NP)/NP 	 2 	 six of
+28 	 25 	 (NP\NP)/NP 	 2 	 18 of
+<\s>
+<s id="wsj_0595.4"> 17
+1 	 0 	 NP[nb]/N 	 1 	 women The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 women indicated
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 which indicated
+5 	 3 	 (NP/(S[dcl]\NP))/N 	 2 	 member which
+5 	 4 	 N/N 	 1 	 member family
+5 	 7 	 (S[dcl]\NP)/NP 	 1 	 member did <XB>
+7 	 3 	 (NP/(S[dcl]\NP))/N 	 1 	 did which
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 did usually
+10 	 7 	 (S[dcl]\NP)/NP 	 2 	 chores did
+10 	 8 	 N/N 	 1 	 chores various
+10 	 9 	 N/N 	 1 	 chores household
+14 	 2 	 (S[dcl]\NP)/NP 	 2 	 share indicated
+14 	 12 	 NP[nb]/N 	 1 	 share the
+14 	 13 	 N/N 	 1 	 share approximate
+14 	 16 	 (S[dcl]\NP)/NP 	 2 	 share did <XU>
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 each did
+<\s>
+<s id="wsj_0595.5"> 42
+1 	 0 	 (S/S)/(S/S) 	 2 	 unexpectedly Not
+3 	 6 	 S[adj]\NP 	 1 	 wives working <XB>
+3 	 8 	 S[adj]\NP 	 1 	 wives non-working <XU>
+3 	 10 	 (S[dcl]\NP)/NP 	 1 	 wives did
+6 	 5 	 ((S\NP)/(S\NP))/(S[adj]\NP) 	 3 	 working whether
+8 	 5 	 ((S\NP)/(S\NP))/(S[adj]\NP) 	 3 	 non-working whether
+10 	 1 	 S/S 	 1 	 did unexpectedly
+10 	 5 	 ((S\NP)/(S\NP))/(S[adj]\NP) 	 2 	 did whether
+12 	 11 	 (NP/NP)/(NP/NP) 	 2 	 far by
+14 	 10 	 (S[dcl]\NP)/NP 	 2 	 most did
+14 	 12 	 NP/NP 	 1 	 most far
+14 	 13 	 NP[nb]/N 	 1 	 most the
+14 	 15 	 (NP\NP)/NP 	 1 	 most --
+17 	 16 	 (N/N)/(N/N) 	 2 	 80 about
+18 	 15 	 (NP\NP)/NP 	 2 	 % --
+18 	 17 	 N/N 	 1 	 % 80
+18 	 19 	 (NP\NP)/NP 	 1 	 % of
+21 	 19 	 (NP\NP)/NP 	 2 	 shopping of
+21 	 20 	 NP[nb]/N 	 1 	 shopping the
+23 	 19 	 (NP\NP)/NP 	 2 	 laundry of
+23 	 20 	 NP[nb]/N 	 1 	 laundry the
+25 	 19 	 (NP\NP)/NP 	 2 	 cooking of
+25 	 20 	 NP[nb]/N 	 1 	 cooking the
+29 	 15 	 (NP\NP)/NP 	 2 	 two-thirds --
+29 	 28 	 N/N 	 1 	 two-thirds about
+29 	 30 	 (NP\NP)/NP 	 1 	 two-thirds of
+31 	 30 	 (NP\NP)/NP 	 2 	 housecleaning of
+33 	 30 	 (NP\NP)/NP 	 2 	 washing of
+34 	 33 	 (S[ng]\NP)/NP 	 2 	 dishes washing
+37 	 30 	 (NP\NP)/NP 	 2 	 care of
+37 	 36 	 N/N 	 1 	 care child
+41 	 30 	 (NP\NP)/NP 	 2 	 work of
+41 	 39 	 N/N 	 1 	 work family
+41 	 40 	 N/N 	 1 	 work paper
+<\s>
+<s id="wsj_0595.6"> 12
+1 	 0 	 (S/S)/(S/S) 	 2 	 for Only
+2 	 1 	 (S/S)/NP 	 2 	 yardwork for
+5 	 1 	 (S/S)/NP 	 2 	 maintenance for
+5 	 4 	 N/N 	 1 	 maintenance home
+6 	 1 	 (S/S)/NP 	 1 	 did for
+7 	 6 	 (S[dcl]/(S[b]\NP))/NP 	 2 	 women did
+8 	 6 	 (S[dcl]/(S[b]\NP))/NP 	 1 	 do did
+9 	 8 	 (S[b]\NP)/NP 	 2 	 less do
+9 	 10 	 (NP\NP)/NP 	 1 	 less than
+11 	 10 	 (NP\NP)/NP 	 2 	 half than
+<\s>
+<s id="wsj_0595.7"> 43
+2 	 1 	 NP[nb]/N 	 1 	 researchers the
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 researchers found
+3 	 0 	 S/S 	 1 	 found But
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that found
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 children 's
+9 	 7 	 (NP[nb]/N)\NP 	 1 	 tasks 's
+9 	 8 	 N/N 	 1 	 tasks household
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 tasks eased
+10 	 5 	 (S/S)/S[dcl] 	 2 	 eased while
+10 	 15 	 (S\NP)\(S\NP) 	 2 	 eased appreciably
+12 	 11 	 NP[nb]/N 	 1 	 mother the
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 mother 's
+14 	 10 	 (S[dcl]\NP)/NP 	 2 	 burden eased
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 burden 's
+18 	 17 	 NP[nb]/N 	 1 	 husband the
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 husband 's
+21 	 19 	 (NP[nb]/N)\NP 	 1 	 hand 's
+21 	 20 	 N/N 	 1 	 hand helping
+21 	 22 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 hand appears
+21 	 24 	 (S[b]\NP)/NP 	 1 	 hand lighten <XB>
+21 	 36 	 (S[b]\NP)/NP 	 1 	 hand reduce <XU>
+22 	 4 	 S[em]/S[dcl] 	 1 	 appears that
+22 	 5 	 (S/S)/S[dcl] 	 1 	 appears while
+23 	 22 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to appears
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lighten to
+24 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 lighten on
+26 	 25 	 NP[nb]/N 	 1 	 children the
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 children 's
+28 	 24 	 (S[b]\NP)/NP 	 2 	 load lighten
+28 	 27 	 (NP[nb]/N)\NP 	 1 	 load 's
+30 	 29 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 on almost
+33 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 basis on
+33 	 31 	 NP[nb]/N 	 1 	 basis a
+33 	 32 	 N/N 	 1 	 basis one-for-one
+35 	 22 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to appears
+36 	 35 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reduce to
+36 	 42 	 (S\NP)\(S\NP) 	 2 	 reduce modestly
+38 	 37 	 NP[nb]/N 	 1 	 wife the
+38 	 39 	 (NP[nb]/N)\NP 	 2 	 wife 's
+40 	 36 	 (S[b]\NP)/NP 	 2 	 responsibility reduce
+40 	 39 	 (NP[nb]/N)\NP 	 1 	 responsibility 's
+42 	 41 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 modestly only
+<\s>
+<s id="wsj_0595.8"> 10
+1 	 0 	 NP[nb]/N 	 1 	 pattern This
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 pattern was
+1 	 4 	 S[adj]\NP 	 1 	 pattern evident <XB>
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 was among
+4 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 evident was
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 evident particularly
+8 	 6 	 (N/N)/(N/N) 	 2 	 educated more
+8 	 7 	 (N/N)/(N/N) 	 2 	 educated highly
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 couples among
+9 	 8 	 N/N 	 1 	 couples educated
+<\s>
+<s id="wsj_0595.9"> 19
+2 	 0 	 (S/S)/NP 	 2 	 families In
+2 	 1 	 NP[nb]/N 	 1 	 families these
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 husbands took
+5 	 0 	 (S/S)/NP 	 1 	 took In
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 took on
+8 	 7 	 ((N/N)/(N/N))/((N/N)/(N/N)) 	 3 	 % 80
+9 	 8 	 (N/N)/(N/N) 	 2 	 more %
+10 	 5 	 (S[dcl]\NP)/NP 	 2 	 chores took
+10 	 9 	 N/N 	 1 	 chores more
+10 	 11 	 (NP\NP)/PP 	 1 	 chores than
+12 	 11 	 (NP\NP)/PP 	 2 	 in than
+13 	 12 	 PP/NP 	 1 	 couples in
+13 	 14 	 (NP\NP)/NP 	 1 	 couples with
+18 	 14 	 (NP\NP)/NP 	 2 	 education with
+18 	 15 	 N/N 	 1 	 education only
+18 	 16 	 N/N 	 1 	 education grammar
+18 	 17 	 N/N 	 1 	 education school
+<\s>
+<s id="wsj_0595.10"> 17
+2 	 1 	 NP[nb]/N 	 1 	 kids the
+2 	 3 	 (NP\NP)/NP 	 1 	 kids with
+2 	 7 	 (S[dcl]\NP)/NP 	 1 	 kids did
+5 	 4 	 (N/N)/(N/N) 	 2 	 educated highly
+6 	 3 	 (NP\NP)/NP 	 2 	 parents with
+6 	 5 	 N/N 	 1 	 parents educated
+7 	 0 	 S/S 	 1 	 did But
+9 	 8 	 ((N/N)/(N/N))/((N/N)/(N/N)) 	 3 	 % 68
+10 	 9 	 (N/N)/(N/N) 	 2 	 less %
+11 	 7 	 (S[dcl]\NP)/NP 	 2 	 housework did
+11 	 10 	 N/N 	 1 	 housework less
+11 	 12 	 (NP\NP)/NP 	 1 	 housework than
+13 	 12 	 (NP\NP)/NP 	 2 	 those than
+13 	 14 	 (NP\NP)/NP 	 1 	 those in
+16 	 14 	 (NP\NP)/NP 	 2 	 families in
+16 	 15 	 N/N 	 1 	 families less-educated
+<\s>
+<s id="wsj_0595.11"> 25
+0 	 1 	 ((S[dcl]\NP[expl])/S[em])/(S[adj]\NP) 	 1 	 It is
+2 	 1 	 ((S[dcl]\NP[expl])/S[em])/(S[adj]\NP) 	 3 	 clear is
+5 	 4 	 N/N 	 1 	 Waite Ms.
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Waite says
+8 	 1 	 ((S[dcl]\NP[expl])/S[em])/(S[adj]\NP) 	 2 	 that is
+9 	 10 	 (NP\NP)/NP 	 1 	 most of
+9 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 most has
+9 	 19 	 S[b]\NP 	 1 	 most shift <XB>
+9 	 21 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 most is <XB>
+9 	 22 	 (S[ng]\NP)/NP 	 1 	 most helping <XB>
+12 	 10 	 (NP\NP)/NP 	 2 	 effect of
+12 	 11 	 NP[nb]/N 	 1 	 effect the
+12 	 13 	 (NP\NP)/NP 	 1 	 effect of
+15 	 13 	 (NP\NP)/NP 	 2 	 education of
+15 	 14 	 N/N 	 1 	 education increasing
+16 	 8 	 S[em]/S[dcl] 	 1 	 has that
+17 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+18 	 17 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to been
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 shift to
+19 	 20 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 shift who
+21 	 20 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 is who
+22 	 21 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 helping is
+24 	 22 	 (S[ng]\NP)/NP 	 2 	 wife\/mother helping
+24 	 23 	 NP[nb]/N 	 1 	 wife\/mother the
+<\s>
+<s id="wsj_0595.13"> 7
+2 	 0 	 N/N 	 1 	 Patients Nursing
+2 	 1 	 N/N 	 1 	 Patients Home
+2 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Patients Apt
+4 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to Apt
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 Be to
+7 	 5 	 (S[b]\NP)/NP 	 2 	 Payers Be
+7 	 6 	 N/N 	 1 	 Payers Private
+<\s>
+<s id="wsj_0595.14"> 17
+1 	 0 	 (N/N)/(N/N) 	 2 	 FEWER FAR
+5 	 1 	 N/N 	 1 	 residents FEWER
+5 	 2 	 N/N 	 1 	 residents elderly
+5 	 3 	 N/N 	 1 	 residents nursing
+5 	 4 	 N/N 	 1 	 residents home
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 residents bankrupt
+5 	 9 	 (S[pss]\NP)/(S[pss]\NP) 	 1 	 residents was <XB>
+5 	 11 	 S[pss]\NP 	 1 	 residents believed <XB>
+6 	 8 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 2 	 bankrupt than
+6 	 16 	 (S[dcl]\S[dcl])\NP 	 1 	 bankrupt declare
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 themselves bankrupt
+9 	 8 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 3 	 was than
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 was previously
+11 	 9 	 (S[pss]\NP)/(S[pss]\NP) 	 2 	 believed was
+15 	 13 	 N/N 	 1 	 studies two
+15 	 14 	 N/N 	 1 	 studies recent
+15 	 16 	 (S[dcl]\S[dcl])\NP 	 2 	 studies declare
+<\s>
+<s id="wsj_0595.15"> 28
+1 	 0 	 N/N 	 1 	 governments State
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 governments place
+4 	 3 	 (N/N)/(N/N) 	 2 	 low very
+5 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 ceilings place
+5 	 4 	 N/N 	 1 	 ceilings low
+6 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 on place
+7 	 6 	 PP/S[qem] 	 1 	 how on
+7 	 9 	 S\S 	 1 	 how property
+7 	 20 	 (S\S)/S[dcl] 	 1 	 how if
+8 	 7 	 (S[qem]/(S[dcl]/NP))/(S[adj]\NP) 	 2 	 much how
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 people may
+11 	 7 	 (S[qem]/(S[dcl]/NP))/(S[adj]\NP) 	 1 	 may how
+14 	 6 	 PP/S[qem] 	 1 	 how on
+14 	 16 	 S\S 	 1 	 how income
+14 	 20 	 (S\S)/S[dcl] 	 1 	 how if
+15 	 14 	 (S[qem]/(S[dcl]/NP))/(S[adj]\NP) 	 2 	 much how
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they may
+18 	 14 	 (S[qem]/(S[dcl]/NP))/(S[adj]\NP) 	 1 	 may how
+21 	 22 	 (S[dcl]\NP)/NP 	 1 	 they want
+22 	 20 	 (S\S)/S[dcl] 	 2 	 want if
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 help want
+24 	 23 	 N/N 	 1 	 help welfare
+24 	 25 	 (NP\NP)/NP 	 1 	 help on
+27 	 25 	 (NP\NP)/NP 	 2 	 bills on
+27 	 26 	 N/N 	 1 	 bills medical
+<\s>
+<s id="wsj_0595.16"> 29
+1 	 0 	 N/N 	 1 	 wisdom Conventional
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 wisdom has
+1 	 4 	 (S[pt]\NP)/S[em] 	 1 	 wisdom held <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 has long
+4 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 held has
+5 	 4 	 (S[pt]\NP)/S[em] 	 2 	 that held
+8 	 6 	 N/N 	 1 	 one-fourth anywhere
+8 	 7 	 N/N 	 1 	 one-fourth from
+8 	 9 	 (N\N)/N 	 1 	 one-fourth to
+8 	 11 	 (NP\NP)/NP 	 1 	 one-fourth of
+8 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 one-fourth are
+8 	 18 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 one-fourth obliged <XB>
+8 	 20 	 ((S[b]\NP)/PP)/NP 	 1 	 one-fourth spend <XB>
+8 	 25 	 (S[ng]\NP)/PP 	 1 	 one-fourth qualifying <XB>
+10 	 9 	 (N\N)/N 	 2 	 one-half to
+16 	 11 	 (NP\NP)/NP 	 2 	 patients of
+16 	 12 	 NP[nb]/N 	 1 	 patients all
+16 	 13 	 N/N 	 1 	 patients elderly
+16 	 14 	 N/N 	 1 	 patients long-term
+16 	 15 	 N/N 	 1 	 patients care
+17 	 5 	 S[em]/S[dcl] 	 1 	 are that
+18 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 obliged are
+19 	 18 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to obliged
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 spend to
+20 	 24 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 spend before
+21 	 20 	 ((S[b]\NP)/PP)/NP 	 3 	 themselves spend
+22 	 20 	 ((S[b]\NP)/PP)/NP 	 2 	 into spend
+23 	 22 	 PP/NP 	 1 	 poverty into
+25 	 24 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 qualifying before
+26 	 25 	 (S[ng]\NP)/PP 	 2 	 for qualifying
+28 	 26 	 PP/NP 	 1 	 assistance for
+28 	 27 	 N/N 	 1 	 assistance Medicaid
+<\s>
+<s id="wsj_0595.17"> 57
+2 	 1 	 N/N 	 1 	 reports separate
+2 	 3 	 (NP\NP)/NP 	 1 	 reports from
+2 	 20 	 (S[dcl]\NP)/S[em] 	 1 	 reports find
+5 	 3 	 (NP\NP)/NP 	 2 	 Weiner from
+5 	 4 	 N/N 	 1 	 Weiner Joshua
+5 	 9 	 (NP\NP)/NP 	 1 	 Weiner of
+8 	 3 	 (NP\NP)/NP 	 2 	 Spence from
+8 	 4 	 N/N 	 1 	 Spence Joshua
+8 	 7 	 N/N 	 1 	 Spence Denise
+8 	 9 	 (NP\NP)/NP 	 1 	 Spence of
+12 	 9 	 (NP\NP)/NP 	 2 	 Institution of
+12 	 10 	 NP[nb]/N 	 1 	 Institution the
+12 	 11 	 N/N 	 1 	 Institution Brookings
+15 	 3 	 (NP\NP)/NP 	 2 	 Liu from
+15 	 14 	 N/N 	 1 	 Liu Korbin
+15 	 16 	 (NP\NP)/NP 	 1 	 Liu of
+19 	 16 	 (NP\NP)/NP 	 2 	 Institute of
+19 	 17 	 NP[nb]/N 	 1 	 Institute the
+19 	 18 	 N/N 	 1 	 Institute Urban
+20 	 0 	 S/S 	 1 	 find But
+21 	 20 	 (S[dcl]\NP)/S[em] 	 2 	 that find
+24 	 23 	 (N/N)/(N/N) 	 2 	 small surprisingly
+25 	 22 	 NP[nb]/N 	 1 	 proportion a
+25 	 24 	 N/N 	 1 	 proportion small
+25 	 26 	 (NP\NP)/NP 	 1 	 proportion --
+25 	 32 	 (NP\NP)/NP 	 1 	 proportion of
+25 	 34 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 1 	 proportion start
+25 	 35 	 S[adj]\NP 	 1 	 proportion out <XB>
+25 	 40 	 (S[dcl]\NP)/PP 	 1 	 proportion spend <XU>
+28 	 27 	 ((N/N)/(N/N))/((N/N)/(N/N)) 	 3 	 about only
+29 	 28 	 (N/N)/(N/N) 	 2 	 10 about
+30 	 26 	 (NP\NP)/NP 	 2 	 % --
+30 	 29 	 N/N 	 1 	 % 10
+33 	 32 	 (NP\NP)/NP 	 2 	 residents of
+34 	 21 	 S[em]/S[dcl] 	 1 	 start that
+35 	 34 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 3 	 out start
+36 	 34 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 2 	 as start
+38 	 36 	 PP/NP 	 1 	 payers as
+38 	 37 	 N/N 	 1 	 payers private
+40 	 21 	 S[em]/S[dcl] 	 1 	 spend that
+40 	 41 	 (S\NP)\(S\NP) 	 2 	 spend down
+40 	 45 	 ((S\NP)\(S\NP))/NP 	 2 	 spend in
+40 	 51 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 spend before
+42 	 40 	 (S[dcl]\NP)/PP 	 2 	 to spend
+44 	 42 	 PP/NP 	 1 	 levels to
+44 	 43 	 N/N 	 1 	 levels Medicaid
+50 	 45 	 ((S\NP)\(S\NP))/NP 	 3 	 stay in
+50 	 46 	 NP[nb]/N 	 1 	 stay a
+50 	 47 	 N/N 	 1 	 stay single
+50 	 48 	 N/N 	 1 	 stay nursing
+50 	 49 	 N/N 	 1 	 stay home
+52 	 53 	 S[dcl]\NP 	 1 	 they die
+52 	 55 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 they are <XU>
+52 	 56 	 S[pss]\NP 	 1 	 they discharged <XU>
+53 	 51 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 die before
+55 	 51 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are before
+56 	 55 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 discharged are
+<\s>
+<s id="wsj_0595.18"> 23
+2 	 1 	 NP[nb]/N 	 1 	 one-third Another
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 one-third are
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 are already
+3 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 are when
+5 	 3 	 (S[dcl]\NP)/PP 	 2 	 on are
+6 	 5 	 PP/NP 	 1 	 Medicaid on
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 they enter
+9 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 enter when
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 homes enter
+12 	 10 	 NP[nb]/N 	 1 	 homes the
+12 	 11 	 N/N 	 1 	 homes nursing
+16 	 15 	 (N/N)/(N/N) 	 2 	 higher considerably
+17 	 14 	 NP[nb]/N 	 1 	 proportion a
+17 	 16 	 N/N 	 1 	 proportion higher
+17 	 18 	 (NP\NP)/S[pss] 	 1 	 proportion than
+20 	 19 	 NP[nb]/N 	 1 	 analysts the
+20 	 21 	 S[pss]\NP 	 1 	 analysts anticipated
+21 	 18 	 (NP\NP)/S[pss] 	 2 	 anticipated than
+<\s>
+<s id="wsj_0595.19"> 21
+3 	 2 	 (N/N)/(N/N) 	 2 	 high remarkably
+4 	 1 	 NP[nb]/N 	 1 	 percentage a
+4 	 3 	 N/N 	 1 	 percentage high
+4 	 5 	 (NP\NP)/NP 	 1 	 percentage --
+4 	 9 	 (S[dcl]\NP)/NP 	 1 	 percentage are
+7 	 5 	 (NP\NP)/NP 	 2 	 half --
+7 	 6 	 N/N 	 1 	 half over
+9 	 0 	 S/S 	 1 	 are But
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 are throughout
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 payers are
+11 	 10 	 N/N 	 1 	 payers private
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 stay throughout
+14 	 13 	 NP[nb]/N 	 1 	 stay their
+19 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 lengthy throughout
+19 	 16 	 NP/NP 	 1 	 lengthy even
+19 	 17 	 NP[nb]/N 	 1 	 lengthy a
+19 	 18 	 N/N 	 1 	 lengthy fairly
+19 	 20 	 N\N 	 1 	 lengthy one
+<\s>
+<s id="wsj_0595.20"> 24
+1 	 0 	 N/N 	 1 	 one-third About
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 one-third pay
+2 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 pay while
+4 	 2 	 (S[dcl]\NP)/PP 	 2 	 of pay
+4 	 3 	 PP/PP 	 1 	 of out
+7 	 4 	 PP/NP 	 1 	 pockets of
+7 	 5 	 NP[nb]/N 	 1 	 pockets their
+7 	 6 	 N/N 	 1 	 pockets own
+11 	 10 	 NP[nb]/N 	 1 	 rest the
+11 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 rest are
+11 	 13 	 S[pss]\NP 	 1 	 rest covered <XB>
+12 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are while
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 covered are
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 covered throughout
+13 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 covered by
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 Medicare by
+19 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 insurers by
+19 	 18 	 N/N 	 1 	 insurers private
+23 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 Administration by
+23 	 21 	 NP[nb]/N 	 1 	 Administration the
+23 	 22 	 N/N 	 1 	 Administration Veterans
+<\s>
+<s id="wsj_0595.21"> 15
+1 	 0 	 NP[nb]/N 	 1 	 reports Both
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 reports are
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 reports based <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 based are
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 on based
+6 	 5 	 (N/N)/(N/N) 	 2 	 thousand several
+7 	 4 	 PP/NP 	 1 	 patients on
+7 	 6 	 N/N 	 1 	 patients thousand
+7 	 8 	 S[pss]\NP 	 1 	 patients sampled <XB>
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 sampled in
+14 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 survey in
+14 	 10 	 NP[nb]/N 	 1 	 survey a
+14 	 11 	 N/N 	 1 	 survey 1985
+14 	 12 	 N/N 	 1 	 survey nationwide
+14 	 13 	 N/N 	 1 	 survey government
+<\s>
+<s id="wsj_0595.22"> 37
+5 	 0 	 NP[nb]/N 	 1 	 authors The
+5 	 1 	 N/N 	 1 	 authors Brookings
+5 	 3 	 N/N 	 1 	 authors Urban
+5 	 4 	 N/N 	 1 	 authors Institute
+5 	 6 	 (S[dcl]\NP)/S[em] 	 1 	 authors caution
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 caution however
+10 	 6 	 (S[dcl]\NP)/S[em] 	 2 	 that caution
+14 	 11 	 N/N 	 1 	 stays most
+14 	 12 	 N/N 	 1 	 stays nursing
+14 	 13 	 N/N 	 1 	 stays home
+14 	 15 	 (S[dcl]\NP)/PP 	 1 	 stays are
+15 	 10 	 S[em]/S[dcl] 	 1 	 are that
+16 	 15 	 (S[dcl]\NP)/PP 	 2 	 of are
+18 	 17 	 (N/N)/(N/N) 	 2 	 short comparatively
+19 	 16 	 PP/NP 	 1 	 duration of
+19 	 18 	 N/N 	 1 	 duration short
+22 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 reaching is
+22 	 28 	 S[adj]\NP 	 1 	 reaching likely <XB>
+25 	 22 	 (S[ng]\NP)/NP 	 2 	 level reaching
+25 	 23 	 NP[nb]/N 	 1 	 level the
+25 	 24 	 N/N 	 1 	 level Medicaid
+26 	 10 	 S[em]/S[dcl] 	 1 	 is that
+26 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 is with
+28 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely is
+28 	 27 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 likely more
+32 	 31 	 (N/N)/(N/N) 	 2 	 long unusually
+33 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 stay with
+33 	 30 	 NP[nb]/N 	 1 	 stay an
+33 	 32 	 N/N 	 1 	 stay long
+36 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 stays with
+36 	 35 	 N/N 	 1 	 stays repeated
+<\s>
+<s id="wsj_0595.23"> 34
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 they note
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 those who
+5 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 those manage <XB>
+5 	 9 	 (S[b]\NP)/NP 	 1 	 those pay <XB>
+5 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 those do
+5 	 15 	 S[adj]\NP 	 1 	 those so <XB>
+5 	 18 	 (S[ng]\NP)/NP 	 1 	 those selling <XB>
+5 	 22 	 (S[ng]\NP)/NP 	 1 	 those using <XU>
+5 	 27 	 (S[ng]\NP)/PP 	 1 	 those drawing <XU>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 manage who
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to manage
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+12 	 9 	 (S[b]\NP)/NP 	 2 	 way pay
+12 	 10 	 NP[nb]/N 	 1 	 way their
+12 	 11 	 N/N 	 1 	 way own
+14 	 0 	 S/S 	 1 	 do Moreover
+14 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 do note <XU>
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 do often
+14 	 17 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 do by
+15 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 so do
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 by only
+18 	 17 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 selling by
+20 	 18 	 (S[ng]\NP)/NP 	 2 	 homes selling
+20 	 19 	 NP[nb]/N 	 1 	 homes their
+22 	 17 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 using by
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 using up
+25 	 22 	 (S[ng]\NP)/NP 	 2 	 savings using
+25 	 24 	 N/N 	 1 	 savings life
+27 	 17 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 drawing by
+27 	 28 	 (S\NP)\(S\NP) 	 2 	 drawing heavily
+29 	 27 	 (S[ng]\NP)/PP 	 2 	 on drawing
+30 	 29 	 PP/NP 	 1 	 children on
+33 	 29 	 PP/NP 	 1 	 relatives on
+33 	 32 	 N/N 	 1 	 relatives other
+<\s>
+<s id="wsj_0595.24"> 5
+2 	 0 	 N/N 	 1 	 Young Reagan
+2 	 1 	 N/N 	 1 	 Young Era
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Young Hold
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 Views Hold
+5 	 4 	 N/N 	 1 	 Views Liberal
+<\s>
+<s id="wsj_0595.25"> 38
+0 	 15 	 (S\S)/(S[dcl]\NP) 	 1 	 THE --
+4 	 0 	 S/N 	 1 	 men THE
+4 	 1 	 N/N 	 1 	 men REAGAN
+4 	 2 	 N/N 	 1 	 men generation
+4 	 3 	 N/N 	 1 	 men young
+6 	 0 	 S/N 	 1 	 women THE
+6 	 1 	 N/N 	 1 	 women REAGAN
+6 	 2 	 N/N 	 1 	 women generation
+6 	 3 	 N/N 	 1 	 women young
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 reaching during
+9 	 7 	 (S[ng]\NP)/NP 	 2 	 maturity reaching
+9 	 8 	 N/N 	 1 	 maturity political
+12 	 11 	 N/N 	 1 	 Reagan Ronald
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Reagan 's
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 presidency during
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 presidency 's
+16 	 15 	 (S\S)/(S[dcl]\NP) 	 2 	 are --
+16 	 24 	 ((S\NP)\(S\NP))/PP 	 2 	 are according
+18 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 liberal are
+18 	 17 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 liberal firmly
+19 	 18 	 (S[adj]\NP)/PP 	 2 	 on liberal
+20 	 19 	 PP/NP 	 1 	 race on
+22 	 19 	 PP/NP 	 1 	 gender on
+25 	 24 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+26 	 25 	 PP/NP 	 1 	 NORC to
+32 	 25 	 PP/NP 	 1 	 center to
+32 	 28 	 NP[nb]/N 	 1 	 center the
+32 	 29 	 N/N 	 1 	 center social
+32 	 30 	 N/N 	 1 	 center science
+32 	 31 	 N/N 	 1 	 center research
+32 	 33 	 (NP\NP)/NP 	 1 	 center at
+35 	 33 	 (NP\NP)/NP 	 2 	 University at
+35 	 34 	 NP[nb]/N 	 1 	 University the
+35 	 36 	 (NP\NP)/NP 	 1 	 University of
+37 	 36 	 (NP\NP)/NP 	 2 	 Chicago of
+<\s>
+<s id="wsj_0595.26"> 16
+2 	 0 	 N/N 	 1 	 analysts Many
+2 	 1 	 N/N 	 1 	 analysts political
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 analysts have
+2 	 4 	 (S[pt]\NP)/S[em] 	 1 	 analysts speculated <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 speculated have
+5 	 4 	 (S[pt]\NP)/S[em] 	 2 	 that speculated
+8 	 6 	 NP[nb]/N 	 1 	 years the
+8 	 7 	 N/N 	 1 	 years Reagan
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 years would
+8 	 10 	 (S[b]\NP)/NP 	 1 	 years produce <XB>
+9 	 5 	 S[em]/S[dcl] 	 1 	 would that
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 produce would
+13 	 12 	 (N/N)/(N/N) 	 2 	 conservative staunchly
+15 	 10 	 (S[b]\NP)/NP 	 2 	 generation produce
+15 	 11 	 NP[nb]/N 	 1 	 generation a
+15 	 13 	 N/N 	 1 	 generation conservative
+15 	 14 	 N/N 	 1 	 generation younger
+<\s>
+<s id="wsj_0595.27"> 19
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 NORC 's
+3 	 2 	 (N/N)/(N/N) 	 2 	 recent most
+5 	 1 	 (NP[nb]/N)\NP 	 1 	 surveys 's
+5 	 3 	 N/N 	 1 	 surveys recent
+5 	 4 	 N/N 	 1 	 surveys opinion
+5 	 6 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 surveys find
+6 	 10 	 (S\NP)\(S\NP) 	 2 	 find indeed
+9 	 6 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 adults find
+9 	 7 	 NP[nb]/N 	 1 	 adults the
+9 	 8 	 N/N 	 1 	 adults youngest
+9 	 13 	 S[adj]\NP 	 1 	 adults pro-Reagan <XB>
+9 	 15 	 S[adj]\NP 	 1 	 adults pro-Republican <XU>
+12 	 11 	 ((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)) 	 3 	 more somewhat
+13 	 6 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 pro-Reagan find
+13 	 12 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 pro-Reagan more
+13 	 16 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 pro-Reagan than
+15 	 6 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 pro-Republican find
+15 	 12 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 pro-Republican more
+15 	 16 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 pro-Republican than
+18 	 16 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 adults than
+18 	 17 	 N/N 	 1 	 adults other
+<\s>
+<s id="wsj_0595.28"> 28
+6 	 2 	 (S/S)/NP 	 2 	 Smith says
+6 	 3 	 N/N 	 1 	 Smith chief
+6 	 4 	 N/N 	 1 	 Smith investigator
+6 	 5 	 N/N 	 1 	 Smith Tom
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 this does
+8 	 11 	 (S[b]\NP)/PP 	 1 	 this translate <XB>
+9 	 0 	 S/S 	 1 	 does But
+9 	 2 	 (S/S)/NP 	 1 	 does says
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 does not
+11 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 translate does
+12 	 11 	 (S[b]\NP)/PP 	 2 	 into translate
+13 	 12 	 PP/NP 	 1 	 support into
+13 	 14 	 (NP\NP)/NP 	 1 	 support for
+13 	 16 	 (NP\NP)/(S[adj]\NP) 	 1 	 support in
+15 	 14 	 (NP\NP)/NP 	 2 	 conservatism for
+17 	 16 	 (NP\NP)/(S[adj]\NP) 	 2 	 general in
+19 	 11 	 (S[b]\NP)/PP 	 2 	 into translate
+21 	 19 	 PP/NP 	 1 	 positions into
+21 	 20 	 N/N 	 1 	 positions conservative
+21 	 22 	 (NP\NP)/NP 	 1 	 positions on
+26 	 25 	 (N/N)/(N/N) 	 2 	 rights civil
+27 	 22 	 (NP\NP)/NP 	 2 	 issues on
+27 	 23 	 N/N 	 1 	 issues feminist <XU>
+27 	 26 	 N/N 	 1 	 issues rights
+<\s>
+<s id="wsj_0595.29"> 55
+0 	 1 	 (NP\NP)/NP 	 1 	 Answers to
+0 	 16 	 (S[dcl]\NP)/S[em] 	 1 	 Answers reveal
+4 	 1 	 (NP\NP)/NP 	 2 	 questions to
+4 	 2 	 NP[nb]/N 	 1 	 questions a
+4 	 3 	 N/N 	 1 	 questions dozen
+4 	 5 	 (NP\NP)/NP 	 1 	 questions in
+15 	 5 	 (NP\NP)/NP 	 2 	 surveys in
+15 	 6 	 NP[nb]/N 	 1 	 surveys the
+15 	 7 	 N/N 	 1 	 surveys 1986
+15 	 9 	 N/N 	 1 	 surveys 1987
+15 	 11 	 N/N 	 1 	 surveys 1988
+15 	 13 	 N/N 	 1 	 surveys 1989
+15 	 14 	 N/N 	 1 	 surveys national
+17 	 16 	 (S[dcl]\NP)/S[em] 	 2 	 that reveal
+18 	 21 	 (NP\NP)/NP 	 1 	 men in
+18 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 men are
+18 	 31 	 (S[adj]\NP)/PP 	 1 	 men liberal <XB>
+20 	 21 	 (NP\NP)/NP 	 1 	 women in
+20 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 women are
+20 	 31 	 (S[adj]\NP)/PP 	 1 	 women liberal <XB>
+23 	 24 	 ((N/N)\(N/N))/(N/N) 	 2 	 18 to
+25 	 24 	 ((N/N)\(N/N))/(N/N) 	 3 	 24 to
+27 	 21 	 (NP\NP)/NP 	 2 	 bracket in
+27 	 22 	 NP[nb]/N 	 1 	 bracket the
+27 	 23 	 N/N 	 1 	 bracket 18
+27 	 26 	 N/N 	 1 	 bracket age
+28 	 17 	 S[em]/S[dcl] 	 1 	 are that
+30 	 29 	 ((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)) 	 3 	 more considerably
+31 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 liberal are
+31 	 30 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 liberal more
+31 	 36 	 ((S[adj]\NP)\(S[adj]\NP))/S[inv] 	 2 	 liberal than
+32 	 31 	 (S[adj]\NP)/PP 	 2 	 on liberal
+33 	 32 	 PP/NP 	 1 	 race on
+35 	 32 	 PP/NP 	 1 	 gender on
+37 	 36 	 ((S[adj]\NP)\(S[adj]\NP))/S[inv] 	 3 	 were than
+39 	 40 	 ((N/N)\(N/N))/(N/N) 	 2 	 18 to
+41 	 40 	 ((N/N)\(N/N))/(N/N) 	 3 	 24 to
+43 	 37 	 S[inv]/NP 	 1 	 olds were
+43 	 38 	 NP[nb]/N 	 1 	 olds the
+43 	 39 	 N/N 	 1 	 olds 18
+43 	 42 	 N/N 	 1 	 olds year
+43 	 44 	 (NP\NP)/NP 	 1 	 olds in
+43 	 48 	 (NP\NP)/NP 	 1 	 olds in
+45 	 46 	 (NP[nb]/N)\NP 	 2 	 NORC 's
+47 	 44 	 (NP\NP)/NP 	 2 	 polling in
+47 	 46 	 (NP[nb]/N)\NP 	 1 	 polling 's
+51 	 48 	 (NP\NP)/NP 	 2 	 1970s in
+51 	 49 	 NP[nb]/N 	 1 	 1970s the
+51 	 50 	 N/N 	 1 	 1970s early
+54 	 48 	 (NP\NP)/NP 	 2 	 1980s in
+54 	 49 	 NP[nb]/N 	 1 	 1980s the
+54 	 53 	 N/N 	 1 	 1980s early
+<\s>
+<s id="wsj_0595.30"> 19
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 They were
+0 	 4 	 (S[adj]\NP)/PP 	 1 	 They liberal <XB>
+0 	 7 	 (S[adj]\NP)/PP 	 1 	 They liberal <XU>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 were also
+4 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 liberal were
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 liberal as
+7 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 liberal were
+7 	 6 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 liberal more
+8 	 4 	 (S[adj]\NP)/PP 	 2 	 than liberal <XU>
+8 	 7 	 (S[adj]\NP)/PP 	 2 	 than liberal
+12 	 8 	 PP/NP 	 1 	 group than
+12 	 9 	 NP[nb]/N 	 1 	 group any
+12 	 10 	 N/N 	 1 	 group other
+12 	 11 	 N/N 	 1 	 group age
+12 	 13 	 (NP\NP)/NP 	 1 	 group in
+18 	 13 	 (NP\NP)/NP 	 2 	 surveys in
+18 	 14 	 NP[nb]/N 	 1 	 surveys the
+18 	 15 	 N/N 	 1 	 surveys 1986
+18 	 16 	 N/N 	 1 	 surveys through
+18 	 17 	 N/N 	 1 	 surveys 1989
+<\s>
+<s id="wsj_0595.31"> 34
+1 	 0 	 (S/S)/NP 	 2 	 example For
+4 	 3 	 N/N 	 1 	 % 66
+4 	 5 	 (NP\NP)/NP 	 1 	 % of
+4 	 17 	 (S[dcl]\NP)/NP 	 1 	 % favored
+7 	 8 	 ((N/N)\(N/N))/(N/N) 	 2 	 18 to
+9 	 8 	 ((N/N)\(N/N))/(N/N) 	 3 	 24 to
+11 	 5 	 (NP\NP)/NP 	 2 	 olds of
+11 	 6 	 NP[nb]/N 	 1 	 olds the
+11 	 7 	 N/N 	 1 	 olds 18
+11 	 10 	 N/N 	 1 	 olds year
+11 	 12 	 (NP\NP)/NP 	 1 	 olds in
+16 	 12 	 (NP\NP)/NP 	 2 	 surveys in
+16 	 13 	 NP[nb]/N 	 1 	 surveys the
+16 	 14 	 N/N 	 1 	 surveys four
+16 	 15 	 N/N 	 1 	 surveys latest
+17 	 0 	 (S/S)/NP 	 1 	 favored For
+21 	 17 	 (S[dcl]\NP)/NP 	 2 	 law favored
+21 	 18 	 NP[nb]/N 	 1 	 law an
+21 	 19 	 N/N 	 1 	 law open
+21 	 20 	 N/N 	 1 	 law housing
+21 	 22 	 ((S[ng]\NP)/PP)/NP 	 1 	 law prohibiting <XB>
+23 	 22 	 ((S[ng]\NP)/PP)/NP 	 3 	 homeowners prohibiting
+24 	 22 	 ((S[ng]\NP)/PP)/NP 	 2 	 from prohibiting
+25 	 24 	 PP/(S[ng]\NP) 	 1 	 refusing from
+25 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 refusing on
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 grounds on
+28 	 27 	 N/N 	 1 	 grounds racial
+29 	 25 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to refusing
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+31 	 30 	 (S[b]\NP)/PP 	 2 	 to sell
+33 	 31 	 PP/NP 	 1 	 buyers to
+33 	 32 	 N/N 	 1 	 buyers prospective
+<\s>
+<s id="wsj_0595.32"> 25
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 That compares
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 with compares
+4 	 2 	 PP/NP 	 1 	 % with
+4 	 3 	 N/N 	 1 	 % 58
+4 	 5 	 (NP\NP)/NP 	 1 	 % of
+4 	 10 	 (NP\NP)/NP 	 1 	 % in
+9 	 5 	 (NP\NP)/NP 	 2 	 group of
+9 	 6 	 NP[nb]/N 	 1 	 group the
+9 	 7 	 N/N 	 1 	 group similar
+9 	 8 	 N/N 	 1 	 group age
+15 	 10 	 (NP\NP)/NP 	 2 	 surveys in
+15 	 11 	 NP[nb]/N 	 1 	 surveys the
+15 	 12 	 N/N 	 1 	 surveys 1980
+15 	 13 	 N/N 	 1 	 surveys through
+15 	 14 	 N/N 	 1 	 surveys 1982
+18 	 2 	 PP/NP 	 1 	 % with
+18 	 17 	 N/N 	 1 	 % 55
+18 	 19 	 (NP\NP)/NP 	 1 	 % in
+24 	 19 	 (NP\NP)/NP 	 2 	 surveys in
+24 	 20 	 NP[nb]/N 	 1 	 surveys the
+24 	 21 	 N/N 	 1 	 surveys 1972
+24 	 22 	 N/N 	 1 	 surveys through
+24 	 23 	 N/N 	 1 	 surveys 1975
+<\s>
+<s id="wsj_0595.33"> 42
+1 	 0 	 (S[pss]\NP)/S[qem] 	 2 	 whether Asked
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 they agreed
+2 	 5 	 (S[dcl]\NP)/PP 	 1 	 they disagreed <XU>
+3 	 1 	 S[qem]/S[dcl] 	 1 	 agreed whether
+5 	 1 	 S[qem]/S[dcl] 	 1 	 disagreed whether
+6 	 3 	 (S[dcl]\NP)/PP 	 2 	 with agreed <XU>
+6 	 5 	 (S[dcl]\NP)/PP 	 2 	 with disagreed
+8 	 6 	 PP/NP 	 1 	 claim with
+8 	 7 	 NP[nb]/N 	 1 	 claim the
+9 	 8 	 N/S[em] 	 1 	 that claim
+10 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 men are
+10 	 14 	 (S[pss]\NP)/PP 	 1 	 men suited <XB>
+11 	 9 	 S[em]/S[dcl] 	 1 	 are that
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 are emotionally
+14 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 suited are
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 suited better
+14 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 suited than
+15 	 14 	 (S[pss]\NP)/PP 	 2 	 to suited
+16 	 15 	 PP/NP 	 1 	 politics to
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 women than
+21 	 20 	 N/N 	 1 	 % 70
+21 	 22 	 (NP\NP)/NP 	 1 	 % of
+21 	 26 	 S[dcl]\NP 	 1 	 % disagreed
+25 	 22 	 (NP\NP)/NP 	 2 	 generation of
+25 	 23 	 NP[nb]/N 	 1 	 generation the
+25 	 24 	 N/N 	 1 	 generation Reagan
+26 	 28 	 ((S\NP)\(S\NP))/PP 	 2 	 disagreed compared
+29 	 28 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+31 	 30 	 (N/N)/(N/N) 	 2 	 60 under
+32 	 29 	 PP/NP 	 1 	 % with
+32 	 31 	 N/N 	 1 	 % 60
+32 	 33 	 (NP\NP)/NP 	 1 	 % of
+32 	 38 	 (NP\NP)/NP 	 1 	 % in
+35 	 33 	 (NP\NP)/NP 	 2 	 men of
+35 	 34 	 N/N 	 1 	 men younger
+37 	 33 	 (NP\NP)/NP 	 2 	 women of
+37 	 34 	 N/N 	 1 	 women younger
+41 	 38 	 (NP\NP)/NP 	 2 	 years in
+41 	 39 	 NP[nb]/N 	 1 	 years the
+41 	 40 	 N/N 	 1 	 years earlier
+<\s>
+<s id="wsj_0595.34"> 2
+<\s>
+<s id="wsj_0595.35"> 24
+3 	 0 	 N/N 	 1 	 men SEPARATED <XU>
+3 	 2 	 N/N 	 1 	 men divorced
+3 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 men are
+3 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 men likely <XB>
+5 	 0 	 N/N 	 1 	 women SEPARATED <XU>
+5 	 2 	 N/N 	 1 	 women divorced
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 women are
+5 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 women likely <XB>
+6 	 22 	 (S[dcl]\S[dcl])\NP 	 1 	 are discovers
+8 	 7 	 ((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)) 	 3 	 more far
+9 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely are
+9 	 8 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 likely more
+9 	 13 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 likely than
+10 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+12 	 11 	 (S[b]\NP)/NP 	 2 	 smokers be
+15 	 13 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 persons than
+15 	 14 	 N/N 	 1 	 persons married
+18 	 17 	 NP[nb]/N 	 1 	 Centers the
+18 	 19 	 (NP\NP)/NP 	 1 	 Centers for
+18 	 22 	 (S[dcl]\S[dcl])\NP 	 2 	 Centers discovers
+21 	 19 	 (NP\NP)/NP 	 2 	 Control for
+21 	 20 	 N/N 	 1 	 Control Disease
+<\s>
+<s id="wsj_0595.36"> 20
+1 	 0 	 N/N 	 1 	 students Graduate
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 students are
+1 	 3 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 students taking <XB>
+1 	 6 	 S[adj]\NP 	 1 	 students ever <XB>
+1 	 8 	 (S[b]\NP)/NP 	 1 	 students get <XB>
+2 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 are says
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 taking are
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 taking longer
+4 	 5 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/(S[adj]\NP) 	 3 	 longer than
+6 	 5 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/(S[adj]\NP) 	 4 	 ever than
+7 	 3 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to taking
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+10 	 8 	 (S[b]\NP)/NP 	 2 	 doctor get
+10 	 9 	 NP[nb]/N 	 1 	 doctor their
+10 	 11 	 (NP\NP)/NP 	 1 	 doctor of
+13 	 11 	 (NP\NP)/NP 	 2 	 degrees of
+13 	 12 	 N/N 	 1 	 degrees philosophy
+18 	 15 	 NP[nb]/N 	 1 	 Council the
+18 	 16 	 N/N 	 1 	 Council National
+18 	 17 	 N/N 	 1 	 Council Research
+18 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 Council says
+<\s>
+<s id="wsj_0595.37"> 44
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 It estimates
+3 	 2 	 NP[nb]/N 	 1 	 time the
+3 	 4 	 (NP\NP)/NP 	 1 	 time between
+3 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 time has
+3 	 15 	 S[pt]\NP 	 1 	 time lengthened <XB>
+6 	 4 	 (NP\NP)/NP 	 2 	 graduation between
+6 	 5 	 N/N 	 1 	 graduation college
+9 	 4 	 (NP\NP)/NP 	 2 	 awarding between
+9 	 8 	 NP[nb]/N 	 1 	 awarding the
+9 	 10 	 (NP\NP)/NP 	 1 	 awarding of
+13 	 10 	 (NP\NP)/NP 	 2 	 D. of
+13 	 11 	 NP[nb]/N 	 1 	 D. a
+13 	 12 	 N/N 	 1 	 D. Ph.
+14 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 has estimates
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 lengthened has
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 lengthened by
+15 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 lengthened over
+15 	 25 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 2 	 lengthened with
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 % by
+18 	 17 	 N/N 	 1 	 % 30
+23 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 years over
+23 	 20 	 NP[nb]/N 	 1 	 years the
+23 	 21 	 N/N 	 1 	 years past
+23 	 22 	 N/N 	 1 	 years 20
+28 	 25 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 gap with
+28 	 26 	 NP[nb]/N 	 1 	 gap the
+28 	 27 	 N/N 	 1 	 gap average
+28 	 30 	 (S[ng]\NP)/PP 	 1 	 gap ranging <XB>
+30 	 25 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 3 	 ranging with
+30 	 29 	 (S\NP)/(S\NP) 	 2 	 ranging now
+33 	 32 	 (N/N)/(N/N) 	 2 	 7.4 about
+34 	 31 	 (PP/PP)/NP 	 2 	 years from
+34 	 33 	 N/N 	 1 	 years 7.4
+34 	 35 	 (NP\NP)/NP 	 1 	 years in
+38 	 35 	 (NP\NP)/NP 	 2 	 sciences in
+38 	 36 	 NP[nb]/N 	 1 	 sciences the
+38 	 37 	 N/N 	 1 	 sciences physical
+39 	 30 	 (S[ng]\NP)/PP 	 2 	 to ranging
+39 	 31 	 (PP/PP)/NP 	 1 	 to from
+41 	 39 	 PP/NP 	 1 	 years to
+41 	 40 	 N/N 	 1 	 years 16.2
+41 	 42 	 (NP\NP)/NP 	 1 	 years in
+43 	 42 	 (NP\NP)/NP 	 2 	 education in
+<\s>

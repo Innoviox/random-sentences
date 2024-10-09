@@ -1,0 +1,892 @@
+<s id="wsj_0018.1"> 34
+1 	 0 	 NP[nb]/N 	 1 	 survival The
+1 	 2 	 (NP\NP)/NP 	 1 	 survival of
+1 	 7 	 (NP\NP)/NP 	 1 	 survival as
+1 	 14 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 survival appears
+1 	 16 	 (S[b]\NP)/PP 	 1 	 survival depend <XB>
+6 	 2 	 (NP\NP)/NP 	 2 	 Corp. of
+6 	 3 	 N/N 	 1 	 Corp. spinoff
+6 	 4 	 N/N 	 1 	 Corp. Cray
+6 	 5 	 N/N 	 1 	 Corp. Computer
+9 	 7 	 (NP\NP)/NP 	 2 	 fledgling as
+9 	 8 	 NP[nb]/N 	 1 	 fledgling a
+9 	 10 	 (NP\NP)/NP 	 1 	 fledgling in
+13 	 10 	 (NP\NP)/NP 	 2 	 business in
+13 	 11 	 NP[nb]/N 	 1 	 business the
+13 	 12 	 N/N 	 1 	 business supercomputer
+15 	 14 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to appears
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 depend to
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 depend heavily
+18 	 16 	 (S[b]\NP)/PP 	 2 	 on depend
+20 	 18 	 PP/NP 	 1 	 creativity on
+20 	 19 	 NP[nb]/N 	 1 	 creativity the
+20 	 25 	 (NP\NP)/NP 	 1 	 creativity of
+23 	 18 	 PP/NP 	 1 	 longevity on
+23 	 19 	 NP[nb]/N 	 1 	 longevity the
+23 	 25 	 (NP\NP)/NP 	 1 	 longevity of
+27 	 25 	 (NP\NP)/NP 	 2 	 chairman of
+27 	 26 	 NP[nb]/N 	 1 	 chairman its
+30 	 25 	 (NP\NP)/NP 	 2 	 designer of
+30 	 26 	 NP[nb]/N 	 1 	 designer its
+30 	 29 	 N/N 	 1 	 designer chief
+33 	 25 	 (NP\NP)/NP 	 2 	 Cray of
+33 	 32 	 N/N 	 1 	 Cray Seymour
+<\s>
+<s id="wsj_0018.2"> 22
+1 	 0 	 (S/S)/(S/S) 	 2 	 only Not
+2 	 1 	 S/S 	 1 	 is only
+3 	 2 	 (S[dcl]/(S[pss]\NP))/NP 	 2 	 development is
+3 	 4 	 (NP\NP)/NP 	 1 	 development of
+7 	 5 	 NP[nb]/N 	 1 	 company the
+7 	 6 	 N/N 	 1 	 company new
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 company 's
+10 	 4 	 (NP\NP)/NP 	 2 	 machine of
+10 	 8 	 (NP[nb]/N)\NP 	 1 	 machine 's
+10 	 9 	 N/N 	 1 	 machine initial
+11 	 2 	 (S[dcl]/(S[pss]\NP))/NP 	 1 	 tied is
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 tied directly
+11 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 tied to
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Cray to
+15 	 14 	 N/N 	 1 	 Cray Mr.
+17 	 18 	 (S[dcl]\(S[adj]\NP))/NP 	 1 	 so is
+18 	 1 	 S/S 	 1 	 is only
+21 	 18 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 sheet is
+21 	 19 	 NP[nb]/N 	 1 	 sheet its
+21 	 20 	 N/N 	 1 	 sheet balance
+<\s>
+<s id="wsj_0018.3"> 45
+0 	 1 	 (S[pss]\NP)/PP 	 1 	 Documents filed <XB>
+0 	 8 	 (NP\NP)/NP 	 1 	 Documents on
+0 	 12 	 (S[dcl]\NP)/S[em] 	 1 	 Documents disclosed
+2 	 1 	 (S[pss]\NP)/PP 	 2 	 with filed
+7 	 2 	 PP/NP 	 1 	 Commission with
+7 	 3 	 NP[nb]/N 	 1 	 Commission the
+7 	 4 	 N/N 	 1 	 Commission Securities
+7 	 6 	 N/N 	 1 	 Commission Exchange
+11 	 8 	 (NP\NP)/NP 	 2 	 spinoff on
+11 	 9 	 NP[nb]/N 	 1 	 spinoff the
+11 	 10 	 N/N 	 1 	 spinoff pending
+13 	 12 	 (S[dcl]\NP)/S[em] 	 2 	 that disclosed
+16 	 14 	 N/N 	 1 	 Inc. Cray
+16 	 15 	 N/N 	 1 	 Inc. Research
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Inc. will
+16 	 18 	 (S[b]\NP)/NP 	 1 	 Inc. withdraw <XB>
+17 	 13 	 S[em]/S[dcl] 	 1 	 will that
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 withdraw will
+18 	 32 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 withdraw if
+18 	 37 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 withdraw if <XU>
+21 	 18 	 (S[b]\NP)/NP 	 2 	 $ withdraw
+21 	 19 	 NP[nb]/N 	 1 	 $ the
+21 	 20 	 N/N 	 1 	 $ almost
+21 	 24 	 (NP\NP)/NP 	 1 	 $ in
+21 	 28 	 ((S[ng]\NP)/NP)/NP 	 2 	 $ providing <XU>
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 100
+25 	 24 	 (NP\NP)/NP 	 2 	 financing in
+26 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+26 	 28 	 ((S[ng]\NP)/NP)/NP 	 1 	 it providing <XB>
+28 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 providing is
+31 	 28 	 ((S[ng]\NP)/NP)/NP 	 3 	 firm providing
+31 	 29 	 NP[nb]/N 	 1 	 firm the
+31 	 30 	 N/N 	 1 	 firm new
+34 	 33 	 N/N 	 1 	 Cray Mr.
+34 	 35 	 S[dcl]\NP 	 1 	 Cray leaves
+35 	 32 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 leaves if
+40 	 38 	 NP[nb]/N 	 1 	 project the
+40 	 39 	 N/N 	 1 	 project product-design
+40 	 42 	 (S[dcl]\NP)/NP 	 2 	 project heads <XU>
+40 	 43 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 project is
+40 	 44 	 S[pss]\NP 	 1 	 project scrapped <XB>
+41 	 42 	 (S[dcl]\NP)/NP 	 1 	 he heads
+43 	 37 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is if
+44 	 43 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 scrapped is
+<\s>
+<s id="wsj_0018.4"> 36
+1 	 0 	 NP[nb]/N 	 1 	 documents The
+1 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 documents said
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 said also
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+9 	 6 	 NP[nb]/N 	 1 	 Cray the
+9 	 7 	 N/N 	 1 	 Cray 64-year-old
+9 	 8 	 N/N 	 1 	 Cray Mr.
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Cray has
+9 	 12 	 (S[ng]\NP)/PP 	 1 	 Cray working <XB>
+10 	 5 	 (S/S)/S[dcl] 	 2 	 has although
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+12 	 11 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 working been
+12 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 working for
+13 	 12 	 (S[ng]\NP)/PP 	 2 	 on working
+15 	 13 	 PP/NP 	 1 	 project on
+15 	 14 	 NP[nb]/N 	 1 	 project the
+17 	 18 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+19 	 18 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 six than
+20 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+20 	 19 	 N/N 	 1 	 years six
+24 	 22 	 NP[nb]/N 	 1 	 machine the
+24 	 23 	 N/N 	 1 	 machine Cray-3
+24 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 machine is
+24 	 30 	 S[adj]\NP 	 1 	 machine away <XB>
+25 	 4 	 S[em]/S[dcl] 	 1 	 is that
+25 	 5 	 (S/S)/S[dcl] 	 1 	 is although
+27 	 26 	 (((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)))/(S[asup]\NP) 	 4 	 least at
+28 	 26 	 (((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)))/(S[asup]\NP) 	 3 	 another at
+29 	 28 	 ((S[adj]\NP)/(S[adj]\NP))/N 	 3 	 year another
+30 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 away is
+30 	 28 	 ((S[adj]\NP)/(S[adj]\NP))/N 	 2 	 away another
+30 	 31 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 away from
+34 	 33 	 (N/N)/(N/N) 	 2 	 operational fully
+35 	 31 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 prototype from
+35 	 32 	 NP[nb]/N 	 1 	 prototype a
+35 	 34 	 N/N 	 1 	 prototype operational
+<\s>
+<s id="wsj_0018.5"> 23
+2 	 3 	 (S[dcl]\NP[thr])/(S[pt]\NP) 	 1 	 there have
+3 	 0 	 S/S 	 1 	 have Moreover
+4 	 3 	 (S[dcl]\NP[thr])/(S[pt]\NP) 	 2 	 been have
+4 	 11 	 (S\NP)\(S\NP) 	 2 	 been far
+4 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 been though
+6 	 4 	 (S[pt]\NP)/NP 	 2 	 orders been
+6 	 5 	 NP[nb]/N 	 1 	 orders no
+6 	 7 	 (NP\NP)/NP 	 1 	 orders for
+9 	 7 	 (NP\NP)/NP 	 2 	 Cray-3 for
+9 	 8 	 NP[nb]/N 	 1 	 Cray-3 the
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 far so
+15 	 14 	 NP[nb]/N 	 1 	 company the
+15 	 16 	 (S[dcl]\NP)/S[dcl] 	 1 	 company says
+16 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 says though
+17 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+17 	 19 	 (S[ng]\NP)/PP 	 1 	 it talking <XB>
+18 	 16 	 (S[dcl]\NP)/S[dcl] 	 2 	 is says
+19 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 talking is
+20 	 19 	 (S[ng]\NP)/PP 	 2 	 with talking
+22 	 20 	 PP/NP 	 1 	 prospects with
+22 	 21 	 N/N 	 1 	 prospects several
+<\s>
+<s id="wsj_0018.6"> 32
+1 	 2 	 (NP\NP)/NP 	 1 	 many of
+1 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 many were
+1 	 6 	 S[pss]\NP 	 1 	 many anticipated <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 risks of
+4 	 3 	 NP[nb]/N 	 1 	 risks the
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 anticipated were
+6 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 anticipated when
+10 	 8 	 N/N 	 1 	 Research Minneapolis-based
+10 	 9 	 N/N 	 1 	 Research Cray
+10 	 12 	 (S[dcl]\NP)/NP 	 1 	 Research announced
+12 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 announced when
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 announced first
+12 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 announced in
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 spinoff announced
+14 	 13 	 NP[nb]/N 	 1 	 spinoff the
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 May in
+19 	 18 	 NP[nb]/N 	 1 	 strings the
+19 	 21 	 ((S[dcl]\NP)/PP)/NP 	 3 	 strings attached <XU>
+19 	 25 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 strings had
+19 	 28 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 strings made <XB>
+19 	 29 	 S[adj]\NP 	 1 	 strings public <XB>
+20 	 21 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it attached
+22 	 21 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to attached
+24 	 22 	 PP/NP 	 1 	 financing to
+24 	 23 	 NP[nb]/N 	 1 	 financing the
+25 	 0 	 S/S 	 1 	 had While
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 had n't
+27 	 25 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+28 	 27 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 made been
+28 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 made until
+29 	 28 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 public made
+31 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 yesterday until
+<\s>
+<s id="wsj_0018.7"> 23
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 We did
+0 	 3 	 (S[b]\NP)/NP 	 1 	 We have <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 did n't
+1 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 did said
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have did
+4 	 3 	 (S[b]\NP)/NP 	 2 	 much have
+4 	 5 	 (NP\NP)/NP 	 1 	 much of
+7 	 5 	 (NP\NP)/NP 	 2 	 choice of
+7 	 6 	 NP[nb]/N 	 1 	 choice a
+10 	 9 	 N/N 	 1 	 Computer Cray
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Computer 's
+14 	 11 	 (NP[nb]/N)\NP 	 1 	 officer 's
+14 	 12 	 N/N 	 1 	 officer chief
+14 	 13 	 N/N 	 1 	 officer financial
+14 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 officer said
+17 	 16 	 N/N 	 1 	 Barnum Gregory
+17 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 Barnum said
+19 	 20 	 (S\S)/NP 	 1 	 said in
+22 	 20 	 (S\S)/NP 	 2 	 interview in
+22 	 21 	 NP[nb]/N 	 1 	 interview an
+<\s>
+<s id="wsj_0018.8"> 21
+1 	 0 	 NP[nb]/N 	 1 	 theory The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 theory is
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Seymour is
+5 	 3 	 S[em]/S[dcl] 	 1 	 is that
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 designer is
+8 	 6 	 NP[nb]/N 	 1 	 designer the
+8 	 7 	 N/N 	 1 	 designer chief
+8 	 9 	 (NP\NP)/NP 	 1 	 designer of
+11 	 9 	 (NP\NP)/NP 	 2 	 Cray-3 of
+11 	 10 	 NP[nb]/N 	 1 	 Cray-3 the
+15 	 14 	 (S/S)/NP 	 2 	 him without
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it could
+16 	 20 	 S[pss]\NP 	 1 	 it completed <XB>
+17 	 3 	 S[em]/S[dcl] 	 1 	 could that
+17 	 14 	 (S/S)/NP 	 1 	 could without
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 could not
+19 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+20 	 19 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 completed be
+<\s>
+<s id="wsj_0018.9"> 14
+1 	 0 	 N/N 	 1 	 Research Cray
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Research did
+1 	 4 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Research want <XB>
+1 	 6 	 (S[b]\NP)/NP 	 1 	 Research fund <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 did not
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 want did
+5 	 4 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to want
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 fund to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 project fund
+8 	 7 	 NP[nb]/N 	 1 	 project a
+8 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 project that
+8 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 project did <XB>
+8 	 12 	 (S[b]\NP)/NP 	 1 	 project include <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 did that
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 did not
+12 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 include did
+13 	 12 	 (S[b]\NP)/NP 	 2 	 Seymour include
+<\s>
+<s id="wsj_0018.10"> 19
+1 	 0 	 NP[nb]/N 	 1 	 documents The
+1 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 documents said
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 said also
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+6 	 5 	 N/N 	 1 	 Computer Cray
+6 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Computer anticipates
+6 	 8 	 (S[ng]\NP)/NP 	 1 	 Computer needing <XB>
+7 	 4 	 S[em]/S[dcl] 	 1 	 anticipates that
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 needing anticipates
+8 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 needing beginning
+11 	 8 	 (S[ng]\NP)/NP 	 2 	 $ needing
+11 	 9 	 NP/NP 	 1 	 $ perhaps
+11 	 10 	 NP[nb]/N 	 1 	 $ another
+11 	 14 	 (NP\NP)/NP 	 1 	 $ in
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 120
+15 	 14 	 (NP\NP)/NP 	 2 	 financing in
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 September beginning
+18 	 17 	 N/N 	 1 	 September next
+<\s>
+<s id="wsj_0018.11"> 8
+2 	 1 	 N/N 	 1 	 Barnum Mr.
+2 	 3 	 ((S[dcl]\NP)/NP)/NP 	 1 	 Barnum called
+3 	 0 	 S/S 	 1 	 called But
+4 	 3 	 ((S[dcl]\NP)/NP)/NP 	 3 	 that called
+7 	 3 	 ((S[dcl]\NP)/NP)/NP 	 2 	 scenario called
+7 	 5 	 NP[nb]/N 	 1 	 scenario a
+7 	 6 	 N/N 	 1 	 scenario worst-case
+<\s>
+<s id="wsj_0018.12"> 29
+1 	 0 	 NP[nb]/N 	 1 	 filing The
+1 	 2 	 (NP\NP)/NP 	 1 	 filing on
+1 	 8 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 filing caused
+4 	 2 	 (NP\NP)/NP 	 2 	 details on
+4 	 3 	 NP[nb]/N 	 1 	 details the
+4 	 5 	 (NP\NP)/NP 	 1 	 details of
+7 	 5 	 (NP\NP)/NP 	 2 	 spinoff of
+7 	 6 	 NP[nb]/N 	 1 	 spinoff the
+11 	 8 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 stock caused
+11 	 9 	 N/N 	 1 	 stock Cray
+11 	 10 	 N/N 	 1 	 stock Research
+11 	 13 	 (S[b]\NP)/(S[to]\NP) 	 1 	 stock jump <XB>
+11 	 18 	 S[b]\NP 	 1 	 stock close <XB>
+12 	 8 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to caused
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 jump to
+13 	 14 	 ((S\NP)\(S\NP))/N[num] 	 2 	 jump $
+13 	 16 	 (S\NP)\(S\NP) 	 2 	 jump yesterday
+15 	 14 	 ((S\NP)\(S\NP))/N[num] 	 3 	 2.875 $
+17 	 13 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to jump
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 close to
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 close at
+18 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 close in
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 $ at
+21 	 20 	 N/N[num] 	 1 	 38 $
+28 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+28 	 23 	 N/N 	 1 	 trading New
+28 	 24 	 N/N 	 1 	 trading York
+28 	 25 	 N/N 	 1 	 trading Stock
+28 	 26 	 N/N 	 1 	 trading Exchange
+28 	 27 	 N/N 	 1 	 trading composite
+<\s>
+<s id="wsj_0018.13"> 29
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Analysts noted
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 noted yesterday
+3 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that noted
+5 	 4 	 N/N 	 1 	 Research Cray
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Research 's
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 decision 's
+7 	 9 	 ((S[b]\NP)/PP)/NP 	 1 	 decision link <XB>
+7 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 decision will
+7 	 22 	 (S[b]\NP)/NP 	 1 	 decision complicate <XB>
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 link to
+13 	 11 	 (N/N)/N[num] 	 2 	 million $
+13 	 12 	 N/N 	 1 	 million 98.3
+15 	 9 	 ((S[b]\NP)/PP)/NP 	 3 	 note link
+15 	 10 	 NP[nb]/N 	 1 	 note its
+15 	 11 	 (N/N)/N[num] 	 1 	 note $
+15 	 14 	 N/N 	 1 	 note promissory
+16 	 9 	 ((S[b]\NP)/PP)/NP 	 2 	 to link
+18 	 17 	 N/N 	 1 	 Cray Mr.
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 Cray 's
+20 	 16 	 PP/NP 	 1 	 presence to
+20 	 19 	 (NP[nb]/N)\NP 	 1 	 presence 's
+21 	 3 	 S[em]/S[dcl] 	 1 	 will that
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 complicate will
+24 	 22 	 (S[b]\NP)/NP 	 2 	 valuation complicate
+24 	 23 	 NP[nb]/N 	 1 	 valuation a
+24 	 25 	 (NP\NP)/NP 	 1 	 valuation of
+28 	 25 	 (NP\NP)/NP 	 2 	 company of
+28 	 26 	 NP[nb]/N 	 1 	 company the
+28 	 27 	 N/N 	 1 	 company new
+<\s>
+<s id="wsj_0018.14"> 23
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 It has
+0 	 4 	 (S[pss]\NP)/PP 	 1 	 It considered <XB>
+1 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 has said
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to has
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 considered be
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 as considered
+8 	 5 	 PP/NP 	 1 	 risk as
+8 	 6 	 NP[nb]/N 	 1 	 risk an
+8 	 7 	 N/N 	 1 	 risk additional
+8 	 9 	 (NP\NP)/NP 	 1 	 risk for
+11 	 9 	 (NP\NP)/NP 	 2 	 investor for
+11 	 10 	 NP[nb]/N 	 1 	 investor the
+16 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 Smaby said
+16 	 14 	 N/N 	 1 	 Smaby Gary
+16 	 15 	 N/N 	 1 	 Smaby P.
+16 	 17 	 (NP\NP)/NP 	 1 	 Smaby of
+20 	 17 	 (NP\NP)/NP 	 2 	 Inc. of
+20 	 18 	 N/N 	 1 	 Inc. Smaby
+20 	 19 	 N/N 	 1 	 Inc. Group
+20 	 22 	 NP\NP 	 1 	 Inc. Minneapolis
+<\s>
+<s id="wsj_0018.15"> 10
+1 	 0 	 N/N 	 1 	 Computer Cray
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Computer will
+1 	 3 	 (S[b]\NP)/NP 	 1 	 Computer be <XB>
+2 	 9 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+6 	 3 	 (S[b]\NP)/NP 	 2 	 stock be
+6 	 4 	 NP[nb]/N 	 1 	 stock a
+6 	 5 	 N/N 	 1 	 stock concept
+8 	 9 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_0018.16"> 12
+0 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 You believe
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 believe either
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Seymour can
+3 	 5 	 (S[b]\NP)/NP 	 1 	 Seymour do <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 can believe
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 do can
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 do again
+6 	 5 	 (S[b]\NP)/NP 	 2 	 it do
+9 	 10 	 S[dcl]\NP 	 1 	 you do
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 do n't
+<\s>
+<s id="wsj_0018.17"> 24
+2 	 1 	 NP[nb]/N 	 1 	 designer the
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 designer 's
+4 	 0 	 (S/S)/NP 	 2 	 age Besides
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 age 's
+8 	 6 	 N/N 	 1 	 factors other
+8 	 7 	 N/N 	 1 	 factors risk
+8 	 9 	 (NP\NP)/NP 	 1 	 factors for
+8 	 15 	 (S[dcl]\NP)/NP 	 1 	 factors include
+11 	 10 	 N/N 	 1 	 Cray Mr.
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Cray 's
+14 	 9 	 (NP\NP)/NP 	 2 	 company for
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 company 's
+14 	 13 	 N/N 	 1 	 company new
+15 	 0 	 (S/S)/NP 	 1 	 include Besides
+17 	 16 	 NP[nb]/N 	 1 	 Cray-3 the
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 Cray-3 's
+23 	 15 	 (S[dcl]\NP)/NP 	 2 	 technology include
+23 	 18 	 (NP[nb]/N)\NP 	 1 	 technology 's
+23 	 19 	 N/N 	 1 	 technology tricky
+23 	 21 	 N/N 	 1 	 technology unproven
+23 	 22 	 N/N 	 1 	 technology chip
+<\s>
+<s id="wsj_0018.18"> 27
+2 	 0 	 NP[nb]/N 	 1 	 documents The
+2 	 1 	 N/N 	 1 	 documents SEC
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 documents describe
+5 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 chips describe
+5 	 4 	 NP[nb]/N 	 1 	 chips those
+5 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 chips which
+5 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 chips are <XB>
+5 	 9 	 (S[pss]\NP)/PP 	 1 	 chips made <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are which
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 made are
+10 	 9 	 (S[pss]\NP)/PP 	 2 	 of made
+12 	 10 	 PP/NP 	 1 	 arsenide of
+12 	 11 	 N/N 	 1 	 arsenide gallium
+14 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as describe
+15 	 14 	 PP/(S[ng]\NP) 	 1 	 being as
+16 	 15 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 so being
+17 	 16 	 ((S[adj]\NP)/S[dcl])/(S[adj]\NP) 	 3 	 fragile so
+19 	 16 	 ((S[adj]\NP)/S[dcl])/(S[adj]\NP) 	 3 	 minute so
+20 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they will
+20 	 22 	 (S[b]\NP)/NP 	 1 	 they require <XB>
+21 	 16 	 ((S[adj]\NP)/S[dcl])/(S[adj]\NP) 	 2 	 will so
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 require will
+26 	 22 	 (S[b]\NP)/NP 	 2 	 equipment require
+26 	 23 	 N/N 	 1 	 equipment special
+26 	 24 	 N/N 	 1 	 equipment robotic
+26 	 25 	 N/N 	 1 	 equipment handling
+<\s>
+<s id="wsj_0018.19"> 18
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+4 	 3 	 NP[nb]/N 	 1 	 Cray-3 the
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Cray-3 will
+4 	 6 	 (S[b]\NP)/NP 	 1 	 Cray-3 contain <XB>
+5 	 0 	 (S/S)/NP 	 1 	 will In
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 contain will
+8 	 6 	 (S[b]\NP)/NP 	 2 	 processors contain
+8 	 7 	 N/N 	 1 	 processors 16
+8 	 9 	 (NP\NP)/(S[adj]\NP) 	 1 	 processors --
+12 	 9 	 (NP\NP)/(S[adj]\NP) 	 2 	 many --
+12 	 10 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 many twice
+12 	 11 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 many as
+13 	 12 	 (S[adj]\NP)/PP 	 2 	 as many
+17 	 13 	 PP/NP 	 1 	 supercomputer as
+17 	 14 	 NP[nb]/N 	 1 	 supercomputer the
+17 	 15 	 N/N 	 1 	 supercomputer largest
+17 	 16 	 N/N 	 1 	 supercomputer current
+<\s>
+<s id="wsj_0018.20"> 44
+1 	 0 	 N/N 	 1 	 Computer Cray
+1 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Computer will
+1 	 4 	 (S[b]\NP)/NP 	 1 	 Computer face <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 will also
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 face will
+6 	 4 	 (S[b]\NP)/NP 	 2 	 competition face
+6 	 5 	 N/N 	 1 	 competition intense
+6 	 10 	 (NP\NP)/NP 	 1 	 competition from
+9 	 8 	 ((NP\NP)/(NP\NP))/((NP\NP)/(NP\NP)) 	 3 	 only not
+10 	 9 	 (NP\NP)/(NP\NP) 	 2 	 from only
+12 	 10 	 (NP\NP)/NP 	 2 	 Research from
+12 	 11 	 N/N 	 1 	 Research Cray
+12 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Research which
+12 	 15 	 (S[dcl]\NP)/NP 	 1 	 Research has <XB>
+12 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Research which <XU>
+12 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Research is <XU>
+12 	 27 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Research expected <XU>
+12 	 29 	 (S[b]\NP)/NP 	 1 	 Research roll <XU>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+17 	 16 	 (N/N)/(N/N) 	 2 	 60 about
+18 	 15 	 (S[dcl]\NP)/NP 	 2 	 % has
+18 	 17 	 N/N 	 1 	 % 60
+18 	 19 	 (NP\NP)/NP 	 1 	 % of
+23 	 19 	 (NP\NP)/NP 	 2 	 market of
+23 	 20 	 NP[nb]/N 	 1 	 market the
+23 	 21 	 N/N 	 1 	 market world-wide
+23 	 22 	 N/N 	 1 	 market supercomputer
+26 	 25 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+27 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+28 	 27 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 roll to
+29 	 30 	 (S\NP)\(S\NP) 	 2 	 roll out
+29 	 42 	 ((S\NP)\(S\NP))/NP 	 2 	 roll in
+33 	 29 	 (S[b]\NP)/NP 	 2 	 machine roll
+33 	 31 	 NP[nb]/N 	 1 	 machine the
+33 	 32 	 N/N 	 1 	 machine C-90
+37 	 29 	 (S[b]\NP)/NP 	 2 	 competitor roll
+37 	 35 	 NP[nb]/N 	 1 	 competitor a
+37 	 36 	 N/N 	 1 	 competitor direct
+37 	 38 	 (NP\NP)/NP 	 1 	 competitor with
+40 	 38 	 (NP\NP)/NP 	 2 	 Cray-3 with
+40 	 39 	 NP[nb]/N 	 1 	 Cray-3 the
+43 	 42 	 ((S\NP)\(S\NP))/NP 	 3 	 1991 in
+<\s>
+<s id="wsj_0018.21"> 24
+1 	 0 	 NP[nb]/N 	 1 	 spinoff The
+1 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 spinoff will
+1 	 4 	 (S[b]\NP)/PP 	 1 	 spinoff compete <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 will also
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 compete will
+5 	 4 	 (S[b]\NP)/PP 	 2 	 with compete
+9 	 5 	 PP/NP 	 1 	 Corp. with
+9 	 6 	 N/N 	 1 	 Corp. International
+9 	 7 	 N/N 	 1 	 Corp. Business
+9 	 8 	 N/N 	 1 	 Corp. Machines
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Japan 's
+14 	 5 	 PP/NP 	 1 	 Three with
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 Three 's
+14 	 13 	 N/N 	 1 	 Three Big
+14 	 15 	 (NP\NP)/NP 	 1 	 Three --
+17 	 15 	 (NP\NP)/NP 	 2 	 Ltd. --
+17 	 16 	 N/N 	 1 	 Ltd. Hitachi
+20 	 15 	 (NP\NP)/NP 	 2 	 Corp. --
+20 	 19 	 N/N 	 1 	 Corp. NEC
+23 	 15 	 (NP\NP)/NP 	 2 	 Ltd --
+23 	 22 	 N/N 	 1 	 Ltd Fujitsu
+<\s>
+<s id="wsj_0018.22"> 30
+2 	 0 	 NP[nb]/N 	 1 	 company The
+2 	 1 	 N/N 	 1 	 company new
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 it believes
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 believes said
+6 	 7 	 (S[dcl]\NP[thr])/NP 	 1 	 there are
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 are believes
+8 	 9 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 fewer than
+10 	 9 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 100 than
+12 	 7 	 (S[dcl]\NP[thr])/NP 	 2 	 customers are
+12 	 10 	 N/N 	 1 	 customers 100
+12 	 11 	 N/N 	 1 	 customers potential
+12 	 13 	 (NP\NP)/NP 	 1 	 customers for
+14 	 13 	 (NP\NP)/NP 	 2 	 supercomputers for
+14 	 15 	 S[pss]\NP 	 1 	 supercomputers priced <XB>
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 priced between
+15 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 priced --
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ between
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 15
+21 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ between
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 30
+29 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 range --
+29 	 25 	 NP/NP 	 1 	 range presumably
+29 	 26 	 NP[nb]/N 	 1 	 range the
+29 	 27 	 N/N 	 1 	 range Cray-3
+29 	 28 	 N/N 	 1 	 range price
+<\s>
+<s id="wsj_0018.23"> 34
+1 	 0 	 (S/S)/NP 	 2 	 terms Under
+1 	 2 	 (NP\NP)/NP 	 1 	 terms of
+4 	 2 	 (NP\NP)/NP 	 2 	 spinoff of
+4 	 3 	 NP[nb]/N 	 1 	 spinoff the
+8 	 6 	 N/N 	 1 	 stockholders Cray
+8 	 7 	 N/N 	 1 	 stockholders Research
+8 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 stockholders are
+8 	 11 	 (S[b]\NP)/NP 	 1 	 stockholders receive <XB>
+9 	 0 	 (S/S)/NP 	 1 	 are Under
+10 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to are
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 receive to
+11 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 receive for
+11 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 receive in
+15 	 11 	 (S[b]\NP)/NP 	 2 	 share receive
+15 	 12 	 N/N 	 1 	 share one
+15 	 13 	 N/N 	 1 	 share Cray
+15 	 14 	 N/N 	 1 	 share Computer
+18 	 17 	 (N/N)/(N/N) 	 2 	 two every
+21 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 shares for
+21 	 18 	 N/N 	 1 	 shares two
+21 	 19 	 N/N 	 1 	 shares Cray
+21 	 20 	 N/N 	 1 	 shares Research
+21 	 23 	 (S[dcl]\NP)/NP 	 2 	 shares own <XU>
+22 	 23 	 (S[dcl]\NP)/NP 	 1 	 they own
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 distribution in
+26 	 25 	 NP[nb]/N 	 1 	 distribution a
+26 	 27 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 distribution expected <XB>
+26 	 29 	 S[b]\NP 	 1 	 distribution occur <XB>
+28 	 27 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 occur to
+29 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 occur in
+32 	 31 	 (N/N)/(N/N) 	 2 	 two about
+33 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 weeks in
+33 	 32 	 N/N 	 1 	 weeks two
+<\s>
+<s id="wsj_0018.24"> 9
+1 	 0 	 NP[nb]/N 	 1 	 price No
+1 	 2 	 (NP\NP)/NP 	 1 	 price for
+1 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 price has
+1 	 8 	 S[pss]\NP 	 1 	 price set <XB>
+5 	 2 	 (NP\NP)/NP 	 2 	 shares for
+5 	 3 	 NP[nb]/N 	 1 	 shares the
+5 	 4 	 N/N 	 1 	 shares new
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+8 	 7 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 set been
+<\s>
+<s id="wsj_0018.25"> 13
+3 	 2 	 NP[nb]/N 	 1 	 companies the
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 companies will
+3 	 5 	 (((S[b]\NP)/(S[to]\NP))/PP)/NP 	 1 	 companies leave <XB>
+4 	 0 	 S/S 	 1 	 will Instead
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 leave will
+6 	 5 	 (((S[b]\NP)/(S[to]\NP))/PP)/NP 	 4 	 it leave
+6 	 12 	 S[b]\NP 	 1 	 it decide <XB>
+8 	 5 	 (((S[b]\NP)/(S[to]\NP))/PP)/NP 	 3 	 to leave
+8 	 7 	 PP/PP 	 1 	 to up
+10 	 8 	 PP/NP 	 1 	 marketplace to
+10 	 9 	 NP[nb]/N 	 1 	 marketplace the
+11 	 5 	 (((S[b]\NP)/(S[to]\NP))/PP)/NP 	 2 	 to leave
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 decide to
+<\s>
+<s id="wsj_0018.26"> 8
+1 	 0 	 N/N 	 1 	 Computer Cray
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Computer has
+1 	 3 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Computer applied <XB>
+1 	 5 	 S[b]\NP 	 1 	 Computer trade <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 applied has
+4 	 3 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to applied
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 trade to
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 trade on
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Nasdaq on
+<\s>
+<s id="wsj_0018.27"> 14
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Analysts calculate
+3 	 2 	 N/N 	 1 	 Computer Cray
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Computer 's
+7 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 value calculate
+7 	 4 	 (NP[nb]/N)\NP 	 1 	 value 's
+7 	 5 	 N/N 	 1 	 value initial
+7 	 6 	 N/N 	 1 	 value book
+8 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 at calculate
+10 	 8 	 PP/NP 	 1 	 $ at
+10 	 9 	 N/N 	 1 	 $ about
+10 	 12 	 (NP\NP)/N 	 1 	 $ a
+11 	 10 	 N/N[num] 	 1 	 4.75 $
+13 	 12 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0018.28"> 34
+1 	 0 	 (S/S)/PP 	 2 	 with Along
+3 	 1 	 PP/NP 	 1 	 note with
+3 	 2 	 NP[nb]/N 	 1 	 note the
+6 	 5 	 N/N 	 1 	 Research Cray
+6 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Research is
+6 	 8 	 (S[ng]\NP)/NP 	 1 	 Research transferring <XB>
+7 	 0 	 (S/S)/PP 	 1 	 is Along
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 transferring is
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 $ transferring
+10 	 9 	 N/N 	 1 	 $ about
+10 	 13 	 (NP\NP)/NP 	 1 	 $ in
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 53
+14 	 13 	 (NP\NP)/NP 	 2 	 assets in
+17 	 13 	 (NP\NP)/NP 	 2 	 those in
+17 	 16 	 N/N 	 1 	 those primarily
+17 	 18 	 S[adj]\NP 	 1 	 those related <XB>
+18 	 19 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 related to
+22 	 19 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 development to
+22 	 20 	 NP[nb]/N 	 1 	 development the
+22 	 21 	 N/N 	 1 	 development Cray-3
+22 	 24 	 (NP\NP)/(S[dcl]\NP) 	 1 	 development which
+22 	 25 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 development has <XB>
+22 	 26 	 (S[pt]\NP)/NP 	 1 	 development been <XB>
+25 	 24 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+26 	 25 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+28 	 26 	 (S[pt]\NP)/NP 	 2 	 drain been
+28 	 27 	 NP[nb]/N 	 1 	 drain a
+28 	 29 	 (NP\NP)/NP 	 1 	 drain on
+31 	 30 	 N/N 	 1 	 Research Cray
+31 	 32 	 (NP[nb]/N)\NP 	 2 	 Research 's
+33 	 29 	 (NP\NP)/NP 	 2 	 earnings on
+33 	 32 	 (NP[nb]/N)\NP 	 1 	 earnings 's
+<\s>
+<s id="wsj_0018.29"> 11
+2 	 0 	 N/N 	 1 	 sheets Pro-forma
+2 	 1 	 N/N 	 1 	 sheets balance
+2 	 4 	 (S[dcl]\NP)/S[qem] 	 1 	 sheets show
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 show clearly
+5 	 4 	 (S[dcl]\NP)/S[qem] 	 2 	 why show
+7 	 6 	 N/N 	 1 	 Research Cray
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 Research favored
+8 	 5 	 S[qem]/S[dcl] 	 1 	 favored why
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 spinoff favored
+10 	 9 	 NP[nb]/N 	 1 	 spinoff the
+<\s>
+<s id="wsj_0018.30"> 36
+6 	 0 	 (S/S)/NP 	 2 	 expenses Without
+6 	 1 	 NP[nb]/N 	 1 	 expenses the
+6 	 2 	 N/N 	 1 	 expenses Cray-3
+6 	 3 	 N/N 	 1 	 expenses research
+6 	 5 	 N/N 	 1 	 expenses development
+9 	 8 	 NP[nb]/N 	 1 	 company the
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 company would
+9 	 13 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 company able <XB>
+10 	 0 	 (S/S)/NP 	 1 	 would Without
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+12 	 11 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 been have
+13 	 12 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 able been
+14 	 13 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+17 	 15 	 (S[b]\NP)/NP 	 2 	 profit report
+17 	 16 	 NP[nb]/N 	 1 	 profit a
+17 	 18 	 (NP\NP)/NP 	 1 	 profit of
+17 	 22 	 (NP\NP)/NP 	 1 	 profit for
+17 	 29 	 (NP\NP)/NP 	 1 	 profit than
+19 	 18 	 (NP\NP)/NP 	 2 	 $ of
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 19.3
+25 	 22 	 (NP\NP)/NP 	 2 	 half for
+25 	 23 	 NP[nb]/N 	 1 	 half the
+25 	 24 	 N/N 	 1 	 half first
+25 	 26 	 (NP\NP)/NP 	 1 	 half of
+27 	 26 	 (NP\NP)/NP 	 2 	 1989 of
+29 	 28 	 (NP\NP)/(NP\NP) 	 2 	 than rather
+31 	 29 	 (NP\NP)/NP 	 2 	 $ than
+31 	 30 	 NP[nb]/N 	 1 	 $ the
+31 	 35 	 (S[dcl]\NP)/NP 	 2 	 $ posted <XU>
+33 	 31 	 N/N[num] 	 1 	 million $
+33 	 32 	 N/N 	 1 	 million 5.9
+34 	 35 	 (S[dcl]\NP)/NP 	 1 	 it posted
+<\s>
+<s id="wsj_0018.31"> 20
+3 	 0 	 (S/S)/NP 	 2 	 hand On
+3 	 1 	 NP[nb]/N 	 1 	 hand the
+3 	 2 	 N/N 	 1 	 hand other
+6 	 5 	 ((S/S)/(S[pt]\NP))/NP 	 3 	 it had
+6 	 7 	 S[pt]\NP 	 1 	 it existed <XB>
+7 	 5 	 ((S/S)/(S[pt]\NP))/NP 	 2 	 existed had
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 existed then
+11 	 10 	 N/N 	 1 	 Computer Cray
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Computer would
+11 	 14 	 (S[pt]\NP)/NP 	 1 	 Computer incurred <XB>
+12 	 0 	 (S/S)/NP 	 1 	 would On
+12 	 5 	 ((S/S)/(S[pt]\NP))/NP 	 1 	 would had
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+14 	 13 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 incurred have
+18 	 16 	 (N/N)/N[num] 	 2 	 million $
+18 	 17 	 N/N 	 1 	 million 20.5
+19 	 14 	 (S[pt]\NP)/NP 	 2 	 loss incurred
+19 	 15 	 NP[nb]/N 	 1 	 loss a
+19 	 16 	 (N/N)/N[num] 	 1 	 loss $
+<\s>
+<s id="wsj_0018.32"> 34
+1 	 0 	 N/N 	 1 	 Cray Mr.
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Cray who
+1 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Cray could <XB>
+1 	 7 	 S[pss]\NP 	 1 	 Cray reached <XB>
+1 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Cray will
+1 	 12 	 (S[b]\NP)/PP 	 1 	 Cray work <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 could who
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 could n't
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+7 	 6 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reached be
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 reached for
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 comment for
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 work will
+12 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 work as
+12 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 work --
+13 	 12 	 (S[b]\NP)/PP 	 2 	 for work
+19 	 16 	 (N/N)/(N/N) 	 2 	 Colo. Colorado
+19 	 17 	 (N/N)/(N/N) 	 2 	 Colo. Springs
+21 	 13 	 PP/NP 	 1 	 company for
+21 	 14 	 NP[nb]/N 	 1 	 company the
+21 	 15 	 N/N 	 1 	 company new
+21 	 19 	 N/N 	 1 	 company Colo.
+25 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 contractor as
+25 	 23 	 NP[nb]/N 	 1 	 contractor an
+25 	 24 	 N/N 	 1 	 contractor independent
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 arrangement --
+28 	 27 	 NP[nb]/N 	 1 	 arrangement the
+28 	 30 	 (S[dcl]\NP)/NP 	 2 	 arrangement had <XU>
+28 	 31 	 (NP\NP)/NP 	 1 	 arrangement with
+29 	 30 	 (S[dcl]\NP)/NP 	 1 	 he had
+33 	 31 	 (NP\NP)/NP 	 2 	 Research with
+33 	 32 	 N/N 	 1 	 Research Cray
+<\s>
+<s id="wsj_0018.33"> 19
+1 	 0 	 (S[pss]\NP)/PP 	 2 	 as Regarded
+3 	 1 	 PP/NP 	 1 	 father as
+3 	 2 	 NP[nb]/N 	 1 	 father the
+3 	 4 	 (NP\NP)/NP 	 1 	 father of
+6 	 4 	 (NP\NP)/NP 	 2 	 supercomputer of
+6 	 5 	 NP[nb]/N 	 1 	 supercomputer the
+9 	 8 	 N/N 	 1 	 Cray Mr.
+9 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Cray was
+9 	 11 	 (S[pss]\NP)/NP 	 1 	 Cray paid <XB>
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 paid was
+11 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 paid at
+11 	 18 	 (S\NP)\(S\NP) 	 2 	 paid year
+12 	 11 	 (S[pss]\NP)/NP 	 2 	 $ paid
+13 	 12 	 N/N[num] 	 1 	 600,000 $
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 Research at
+16 	 15 	 N/N 	 1 	 Research Cray
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year last
+<\s>
+<s id="wsj_0018.34"> 10
+2 	 0 	 (S/S)/NP 	 2 	 Computer At
+2 	 1 	 N/N 	 1 	 Computer Cray
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he will
+4 	 7 	 (S[pss]\NP)/NP 	 1 	 he paid <XB>
+5 	 0 	 (S/S)/NP 	 1 	 will At
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+7 	 6 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 paid be
+8 	 7 	 (S[pss]\NP)/NP 	 2 	 $ paid
+9 	 8 	 N/N[num] 	 1 	 240,000 $
+<\s>
+<s id="wsj_0018.35"> 57
+2 	 0 	 (S/S)/NP 	 2 	 Cray Besides
+2 	 1 	 N/N 	 1 	 Cray Messrs.
+4 	 0 	 (S/S)/NP 	 2 	 Barnum Besides
+4 	 1 	 N/N 	 1 	 Barnum Messrs.
+8 	 6 	 N/N 	 1 	 management other
+8 	 7 	 N/N 	 1 	 management senior
+8 	 9 	 (NP\NP)/NP 	 1 	 management at
+8 	 12 	 (S[dcl]\NP)/NP 	 1 	 management includes
+11 	 9 	 (NP\NP)/NP 	 2 	 company at
+11 	 10 	 NP[nb]/N 	 1 	 company the
+12 	 0 	 (S/S)/NP 	 1 	 includes Besides
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 Davenport includes
+14 	 13 	 N/N 	 1 	 Davenport Neil
+16 	 12 	 (S[dcl]\NP)/NP 	 2 	 47 includes
+18 	 12 	 (S[dcl]\NP)/NP 	 2 	 president includes
+22 	 12 	 (S[dcl]\NP)/NP 	 2 	 officer includes
+22 	 20 	 N/N 	 1 	 officer chief
+22 	 21 	 N/N 	 1 	 officer executive
+26 	 12 	 (S[dcl]\NP)/NP 	 2 	 Blanchard includes
+26 	 24 	 N/N 	 1 	 Blanchard Joseph
+26 	 25 	 N/N 	 1 	 Blanchard M.
+28 	 12 	 (S[dcl]\NP)/NP 	 2 	 37 includes
+31 	 12 	 (S[dcl]\NP)/NP 	 2 	 president includes
+31 	 30 	 N/N 	 1 	 president vice
+33 	 12 	 (S[dcl]\NP)/NP 	 2 	 engineering includes
+37 	 12 	 (S[dcl]\NP)/NP 	 2 	 Hammerton includes
+37 	 35 	 N/N 	 1 	 Hammerton Malcolm
+37 	 36 	 N/N 	 1 	 Hammerton A.
+39 	 12 	 (S[dcl]\NP)/NP 	 2 	 40 includes
+42 	 12 	 (S[dcl]\NP)/NP 	 2 	 president includes
+42 	 41 	 N/N 	 1 	 president vice
+44 	 12 	 (S[dcl]\NP)/NP 	 2 	 software includes
+49 	 12 	 (S[dcl]\NP)/NP 	 2 	 Wheeland includes
+49 	 47 	 N/N 	 1 	 Wheeland Douglas
+49 	 48 	 N/N 	 1 	 Wheeland R.
+51 	 12 	 (S[dcl]\NP)/NP 	 2 	 45 includes
+54 	 12 	 (S[dcl]\NP)/NP 	 2 	 president includes
+54 	 53 	 N/N 	 1 	 president vice
+56 	 12 	 (S[dcl]\NP)/NP 	 2 	 hardware includes
+<\s>
+<s id="wsj_0018.36"> 5
+0 	 1 	 S[dcl]\NP 	 1 	 All came
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 came from
+4 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 Research from
+4 	 3 	 N/N 	 1 	 Research Cray
+<\s>
+<s id="wsj_0018.37"> 22
+1 	 0 	 N/N 	 1 	 Computer Cray
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Computer which
+1 	 5 	 (S[dcl]\NP)/NP 	 1 	 Computer employs <XB>
+1 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Computer said
+5 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 employs which
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 employs currently
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 people employs
+7 	 6 	 N/N 	 1 	 people 241
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 it expects
+11 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+11 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 expects by
+14 	 11 	 (S[dcl]\NP)/NP 	 2 	 force expects
+14 	 12 	 NP[nb]/N 	 1 	 force a
+14 	 13 	 N/N 	 1 	 force work
+14 	 15 	 (NP\NP)/NP 	 1 	 force of
+16 	 15 	 (NP\NP)/NP 	 2 	 450 of
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 end by
+19 	 18 	 NP[nb]/N 	 1 	 end the
+19 	 20 	 (NP\NP)/NP 	 1 	 end of
+21 	 20 	 (NP\NP)/NP 	 2 	 1990 of
+<\s>

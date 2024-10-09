@@ -1,0 +1,900 @@
+<s id="wsj_0274.1"> 13
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Japan has
+0 	 2 	 (S[pt]\NP)/NP 	 1 	 Japan found <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 found has
+5 	 2 	 (S[pt]\NP)/NP 	 2 	 outlet found
+5 	 3 	 NP[nb]/N 	 1 	 outlet another
+5 	 4 	 N/N 	 1 	 outlet safe
+5 	 6 	 (NP\NP)/NP 	 1 	 outlet for
+5 	 9 	 (NP\NP)/NP 	 1 	 outlet :
+8 	 6 	 (NP\NP)/NP 	 2 	 money for
+8 	 7 	 NP[nb]/N 	 1 	 money its
+12 	 9 	 (NP\NP)/NP 	 2 	 mortgages :
+12 	 10 	 N/N 	 1 	 mortgages U.S.
+12 	 11 	 N/N 	 1 	 mortgages home
+<\s>
+<s id="wsj_0274.2"> 28
+2 	 0 	 NP[nb]/N 	 1 	 number An
+2 	 1 	 N/N 	 1 	 number increasing
+2 	 3 	 (NP\NP)/NP 	 1 	 number of
+2 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 number are
+2 	 8 	 (S[ng]\NP)/NP 	 1 	 number buying <XB>
+6 	 3 	 (NP\NP)/NP 	 2 	 investors of
+6 	 4 	 N/N 	 1 	 investors big
+6 	 5 	 N/N 	 1 	 investors Japanese
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 buying are
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 buying up
+12 	 8 	 (S[ng]\NP)/NP 	 2 	 mortgages buying
+12 	 10 	 N/N 	 1 	 mortgages U.S.
+12 	 11 	 N/N 	 1 	 mortgages home
+12 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 mortgages that
+12 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 mortgages have <XB>
+12 	 16 	 S[pss]\NP 	 1 	 mortgages pooled <XB>
+12 	 18 	 (S[pss]\NP)/PP 	 1 	 mortgages packaged <XU>
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have that
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+16 	 15 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 pooled been
+18 	 15 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 packaged been
+19 	 18 	 (S[pss]\NP)/PP 	 2 	 for packaged
+20 	 19 	 PP/NP 	 1 	 sale for
+20 	 21 	 (NP\NP)/NP 	 1 	 sale as
+23 	 21 	 (NP\NP)/NP 	 2 	 instruments as
+23 	 22 	 N/N 	 1 	 instruments interest-bearing
+23 	 24 	 (S[pss]\NP)/PP 	 1 	 instruments known <XB>
+25 	 24 	 (S[pss]\NP)/PP 	 2 	 as known
+27 	 25 	 PP/NP 	 1 	 securities as
+27 	 26 	 N/N 	 1 	 securities mortgage-backed
+<\s>
+<s id="wsj_0274.3"> 38
+0 	 5 	 (NP\NP)/NP 	 1 	 As of
+0 	 34 	 S[dcl]\NP 	 1 	 As flow
+1 	 0 	 (N/PP)/(S[adj]\NP) 	 2 	 much As
+2 	 0 	 (N/PP)/(S[adj]\NP) 	 1 	 as As
+4 	 2 	 PP/NP 	 1 	 % as
+4 	 3 	 N/N 	 1 	 % 10
+9 	 5 	 (NP\NP)/NP 	 2 	 securities of
+9 	 6 	 N/N 	 1 	 securities new
+9 	 7 	 N/N 	 1 	 securities U.S.
+9 	 8 	 N/N 	 1 	 securities mortgage
+9 	 10 	 S[pss]\NP 	 1 	 securities issued <XB>
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 issued by
+16 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Association by
+16 	 12 	 NP[nb]/N 	 1 	 Association the
+16 	 13 	 N/N 	 1 	 Association Federal
+16 	 14 	 N/N 	 1 	 Association National
+16 	 15 	 N/N 	 1 	 Association Mortgage
+20 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Mae by
+20 	 19 	 N/N 	 1 	 Mae Fannie
+27 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp. by
+27 	 23 	 N/N 	 1 	 Corp. Federal
+27 	 24 	 N/N 	 1 	 Corp. Home
+27 	 25 	 N/N 	 1 	 Corp. Loan
+27 	 26 	 N/N 	 1 	 Corp. Mortgage
+31 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Mac by
+31 	 30 	 N/N 	 1 	 Mac Freddie
+34 	 33 	 (S\NP)/(S\NP) 	 2 	 flow now
+34 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 flow into
+37 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 hands into
+37 	 36 	 N/N 	 1 	 hands Japanese
+<\s>
+<s id="wsj_0274.4"> 29
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 That may
+0 	 3 	 (S[b]\NP)/PP 	 1 	 That come <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 may not
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 come may
+4 	 3 	 (S[b]\NP)/PP 	 2 	 as come
+6 	 4 	 PP/NP 	 1 	 surprise as
+6 	 5 	 NP[nb]/N 	 1 	 surprise a
+6 	 7 	 (NP\NP)/NP 	 1 	 surprise to
+8 	 7 	 (NP\NP)/NP 	 2 	 Americans to
+8 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Americans who
+8 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Americans have <XB>
+8 	 11 	 (S[pt]\NP)/S[dcl] 	 1 	 Americans watched <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have who
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 watched have
+13 	 12 	 NP[nb]/N 	 1 	 Japanese the
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 Japanese snap
+14 	 11 	 (S[pt]\NP)/S[dcl] 	 2 	 snap watched
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 snap up
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 properties snap
+16 	 17 	 (NP\NP)/NP 	 1 	 properties in
+16 	 23 	 (NP\NP)/NP 	 1 	 properties to
+19 	 17 	 (NP\NP)/NP 	 2 	 U.S. in
+19 	 18 	 NP[nb]/N 	 1 	 U.S. the
+22 	 20 	 ((NP\NP)/(NP\NP))/NP 	 3 	 courses from
+22 	 21 	 N/N 	 1 	 courses golf
+23 	 20 	 ((NP\NP)/(NP\NP))/NP 	 2 	 to from
+25 	 23 	 (NP\NP)/NP 	 2 	 stake to
+25 	 24 	 NP[nb]/N 	 1 	 stake a
+25 	 26 	 (NP\NP)/NP 	 1 	 stake in
+28 	 26 	 (NP\NP)/NP 	 2 	 Center in
+28 	 27 	 N/N 	 1 	 Center Rockefeller
+<\s>
+<s id="wsj_0274.5"> 28
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 it marks
+2 	 0 	 S/S 	 1 	 marks But
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 change marks
+5 	 3 	 NP[nb]/N 	 1 	 change a
+5 	 4 	 N/N 	 1 	 change big
+5 	 6 	 (NP\NP)/NP 	 1 	 change for
+8 	 6 	 (NP\NP)/NP 	 2 	 Japanese for
+8 	 7 	 NP[nb]/N 	 1 	 Japanese the
+8 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Japanese who
+8 	 11 	 (S[dcl]\NP)/NP 	 1 	 Japanese shunned <XB>
+8 	 15 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 Japanese getting <XB>
+8 	 16 	 S[pss]\NP 	 1 	 Japanese burned <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 shunned who
+11 	 14 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 shunned after
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 securities shunned
+13 	 12 	 N/N 	 1 	 securities mortgage
+15 	 14 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 getting after
+16 	 15 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 burned getting
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 burned by
+16 	 27 	 ((S\NP)\(S\NP))\NP 	 2 	 burned back
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 downturn by
+20 	 18 	 NP[nb]/N 	 1 	 downturn a
+20 	 19 	 N/N 	 1 	 downturn big
+20 	 21 	 (NP\NP)/NP 	 1 	 downturn in
+23 	 21 	 (NP\NP)/NP 	 2 	 rates in
+23 	 22 	 N/N 	 1 	 rates interest
+26 	 24 	 NP[nb]/N 	 1 	 years a
+26 	 25 	 N/N 	 1 	 years few
+26 	 27 	 ((S\NP)\(S\NP))\NP 	 3 	 years back
+<\s>
+<s id="wsj_0274.6"> 48
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 You ca
+0 	 3 	 (S[b]\NP)/S[dcl] 	 1 	 You say <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 ca n't
+1 	 20 	 (S[dcl]\S[dcl])/NP 	 1 	 ca says
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 say ca
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 it 's
+5 	 3 	 (S[b]\NP)/S[dcl] 	 2 	 's say
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 tsunami 's
+7 	 6 	 NP[nb]/N 	 1 	 tsunami a
+7 	 8 	 (NP\NP)/NP 	 1 	 tsunami -LRB-
+10 	 8 	 (NP\NP)/NP 	 2 	 wave -LRB-
+10 	 9 	 N/N 	 1 	 wave tidal
+14 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 we 're
+14 	 16 	 (S[ng]\NP)/NP 	 1 	 we making <XB>
+15 	 20 	 (S[dcl]\S[dcl])/NP 	 1 	 're says
+16 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 making 're
+18 	 16 	 (S[ng]\NP)/NP 	 2 	 headway making
+18 	 17 	 NP[nb]/N 	 1 	 headway some
+22 	 21 	 N/N 	 1 	 Mae Fannie
+22 	 23 	 (NP[nb]/N)\NP 	 2 	 Mae 's
+24 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 chairman says
+24 	 23 	 (NP[nb]/N)\NP 	 1 	 chairman 's
+24 	 30 	 (NP\NP)/(S[dcl]\NP) 	 1 	 chairman who
+24 	 31 	 (S[dcl]\NP)/NP 	 1 	 chairman visits <XB>
+24 	 39 	 (S[b]\NP)/NP 	 1 	 chairman explain <XB>
+24 	 41 	 (S[b]\NP)/NP 	 1 	 chairman drum <XU>
+28 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 Maxwell says
+28 	 26 	 N/N 	 1 	 Maxwell David
+28 	 27 	 N/N 	 1 	 Maxwell O.
+28 	 30 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Maxwell who
+28 	 31 	 (S[dcl]\NP)/NP 	 1 	 Maxwell visits <XB>
+28 	 39 	 (S[b]\NP)/NP 	 1 	 Maxwell explain <XB>
+28 	 41 	 (S[b]\NP)/NP 	 1 	 Maxwell drum <XU>
+31 	 30 	 (NP\NP)/(S[dcl]\NP) 	 2 	 visits who
+31 	 35 	 (S\NP)\(S\NP) 	 2 	 visits once
+32 	 31 	 (S[dcl]\NP)/NP 	 2 	 Tokyo visits
+34 	 33 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(S[asup]\NP) 	 4 	 least at
+35 	 33 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(S[asup]\NP) 	 3 	 once at
+35 	 36 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 3 	 once a
+37 	 36 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 4 	 year a
+39 	 38 	 (S[to]\NP)/(S[b]\NP) 	 2 	 explain to
+41 	 38 	 (S[to]\NP)/(S[b]\NP) 	 2 	 drum to
+41 	 42 	 (S\NP)\(S\NP) 	 2 	 drum up
+44 	 41 	 (S[b]\NP)/NP 	 2 	 interest drum
+44 	 43 	 N/N 	 1 	 interest investor
+44 	 45 	 (NP\NP)/NP 	 1 	 interest in
+47 	 39 	 (S[b]\NP)/NP 	 2 	 securities explain <XU>
+47 	 45 	 (NP\NP)/NP 	 2 	 securities in
+47 	 46 	 N/N 	 1 	 securities mortgage
+<\s>
+<s id="wsj_0274.7"> 12
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Interest is
+0 	 5 	 S[adj]\NP 	 1 	 Interest higher <XB>
+4 	 2 	 ((S[adj]\NP)/(S[adj]\NP))/N 	 3 	 deal a
+4 	 3 	 N/N 	 1 	 deal great
+5 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 higher is
+5 	 2 	 ((S[adj]\NP)/(S[adj]\NP))/N 	 2 	 higher a
+5 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 2 	 higher than
+7 	 8 	 S[dcl]\NP 	 1 	 it was
+8 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 3 	 was than
+8 	 11 	 ((S\NP)\(S\NP))\NP 	 2 	 was ago
+10 	 9 	 NP[nb]/N 	 1 	 year a
+10 	 11 	 ((S\NP)\(S\NP))\NP 	 3 	 year ago
+<\s>
+<s id="wsj_0274.8"> 22
+2 	 0 	 NP[nb]/N 	 1 	 growth The
+2 	 1 	 N/N 	 1 	 growth steady
+2 	 3 	 (NP\NP)/NP 	 1 	 growth of
+2 	 8 	 (NP\NP)/NP 	 1 	 growth in
+2 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 growth has
+2 	 13 	 (S[pt]\NP)/NP 	 1 	 growth triggered <XB>
+7 	 3 	 (NP\NP)/NP 	 2 	 market of
+7 	 4 	 NP[nb]/N 	 1 	 market the
+7 	 5 	 N/N 	 1 	 market mortgage
+7 	 6 	 N/N 	 1 	 market securities
+10 	 8 	 (NP\NP)/NP 	 2 	 U.S. in
+10 	 9 	 NP[nb]/N 	 1 	 U.S. the
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 has even
+13 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 triggered has
+14 	 13 	 (S[pt]\NP)/NP 	 2 	 talk triggered
+14 	 15 	 (NP\NP)/(S[ng]\NP) 	 1 	 talk of
+16 	 15 	 (NP\NP)/(S[ng]\NP) 	 2 	 building of
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 building up
+16 	 21 	 (S\NP)\(S\NP) 	 2 	 building here
+20 	 16 	 (S[ng]\NP)/NP 	 2 	 market building
+20 	 18 	 NP[nb]/N 	 1 	 market a
+20 	 19 	 N/N 	 1 	 market similar
+<\s>
+<s id="wsj_0274.9"> 10
+0 	 1 	 (NP\NP)/NP 	 1 	 Evidence of
+0 	 9 	 S[dcl]\NP 	 1 	 Evidence abounds
+5 	 1 	 (NP\NP)/NP 	 2 	 demand of
+5 	 2 	 NP[nb]/N 	 1 	 demand the
+5 	 3 	 N/N 	 1 	 demand growing
+5 	 4 	 N/N 	 1 	 demand Japanese
+5 	 6 	 (NP\NP)/NP 	 1 	 demand for
+8 	 6 	 (NP\NP)/NP 	 2 	 securities for
+8 	 7 	 N/N 	 1 	 securities mortgage
+<\s>
+<s id="wsj_0274.10"> 30
+1 	 0 	 (S/S)/(S/S) 	 2 	 this Earlier
+2 	 1 	 (S/S)/N 	 2 	 year this
+5 	 4 	 N/N 	 1 	 Group Blackstone
+5 	 13 	 (S[dcl]\NP)/NP 	 1 	 Group had
+11 	 7 	 NP[nb]/N 	 1 	 bank a
+11 	 8 	 N/N 	 1 	 bank New
+11 	 9 	 N/N 	 1 	 bank York
+11 	 10 	 N/N 	 1 	 bank investment
+11 	 13 	 (S[dcl]\NP)/NP 	 1 	 bank had
+13 	 1 	 (S/S)/N 	 1 	 had this
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 trouble had
+15 	 14 	 NP[nb]/N 	 1 	 trouble no
+15 	 16 	 (S[ng]\NP)/NP 	 1 	 trouble selling <XB>
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 selling out
+22 	 20 	 (N/N)/N[num] 	 2 	 million $
+22 	 21 	 N/N 	 1 	 million 570
+24 	 16 	 (S[ng]\NP)/NP 	 2 	 trust selling
+24 	 18 	 NP[nb]/N 	 1 	 trust a
+24 	 19 	 N/N 	 1 	 trust special
+24 	 20 	 (N/N)/N[num] 	 1 	 trust $
+24 	 23 	 N/N 	 1 	 trust mortgage-securities
+24 	 26 	 (S[dcl]\NP)/NP 	 2 	 trust created <XU>
+25 	 26 	 (S[dcl]\NP)/NP 	 1 	 it created
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 created for
+29 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 investors for
+29 	 28 	 N/N 	 1 	 investors Japanese
+<\s>
+<s id="wsj_0274.11"> 39
+1 	 0 	 N/N 	 1 	 Bank Industrial
+1 	 2 	 (NP\NP)/NP 	 1 	 Bank of
+1 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Bank which
+1 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Bank claims <XB>
+1 	 8 	 (S[b]\NP)/NP 	 1 	 Bank be <XB>
+1 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 Bank says
+3 	 2 	 (NP\NP)/NP 	 2 	 Japan of
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 claims which
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to claims
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+12 	 8 	 (S[b]\NP)/NP 	 2 	 buyer be
+12 	 9 	 NP[nb]/N 	 1 	 buyer the
+12 	 10 	 N/N 	 1 	 buyer biggest
+12 	 11 	 N/N 	 1 	 buyer Japanese
+12 	 13 	 (NP\NP)/NP 	 1 	 buyer of
+16 	 13 	 (NP\NP)/NP 	 2 	 securities of
+16 	 14 	 N/N 	 1 	 securities U.S.
+16 	 15 	 N/N 	 1 	 securities mortgage
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+19 	 21 	 S[adj]\NP 	 1 	 it more <XB>
+19 	 23 	 (S[b]\NP)/NP 	 1 	 it double <XB>
+20 	 18 	 (S[dcl]\NP)/S[dcl] 	 2 	 will says
+20 	 22 	 ((S\NP)\(S\NP))\(S[adj]\NP) 	 2 	 will than
+21 	 22 	 ((S\NP)\(S\NP))\(S[adj]\NP) 	 3 	 more than
+23 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 double will
+23 	 26 	 ((S\NP)\(S\NP))/N 	 2 	 double this
+23 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 double to
+25 	 23 	 (S[b]\NP)/NP 	 2 	 purchases double
+25 	 24 	 NP[nb]/N 	 1 	 purchases its
+27 	 26 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+31 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 amount to
+31 	 30 	 NP[nb]/N 	 1 	 amount an
+31 	 34 	 ((S[dcl]\NP)/PP)/NP 	 3 	 amount puts <XU>
+33 	 32 	 N/N 	 1 	 official one
+33 	 34 	 ((S[dcl]\NP)/PP)/NP 	 1 	 official puts
+35 	 34 	 ((S[dcl]\NP)/PP)/NP 	 2 	 at puts
+37 	 36 	 (N/N)/(N/N) 	 2 	 billion several
+38 	 35 	 PP/NP 	 1 	 dollars at
+38 	 37 	 N/N 	 1 	 dollars billion
+<\s>
+<s id="wsj_0274.12"> 34
+4 	 1 	 NP[nb]/N 	 1 	 seminar a
+4 	 2 	 N/N 	 1 	 seminar Fannie
+4 	 3 	 N/N 	 1 	 seminar Mae
+4 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 seminar promises
+4 	 9 	 (S[b]\NP)/NP 	 1 	 seminar draw <XB>
+6 	 5 	 ((S\NP)/(S\NP))/N 	 3 	 week this
+7 	 0 	 S/S 	 1 	 promises And
+7 	 5 	 ((S\NP)/(S\NP))/N 	 2 	 promises this
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to promises
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 draw to
+10 	 9 	 (S[b]\NP)/NP 	 2 	 hundreds draw
+10 	 11 	 (NP\NP)/NP 	 1 	 hundreds of
+10 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 hundreds who
+10 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 hundreds can <XB>
+10 	 18 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 hundreds expected <XB>
+10 	 20 	 (S[b]\NP)/NP 	 1 	 hundreds channel <XB>
+13 	 11 	 (NP\NP)/NP 	 2 	 investors of
+13 	 12 	 N/N 	 1 	 investors prospective
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 can who
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+18 	 17 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 expected be
+19 	 18 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 channel to
+20 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 channel into
+20 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 channel in
+21 	 20 	 (S[b]\NP)/NP 	 2 	 tens channel
+21 	 22 	 (NP\NP)/NP 	 1 	 tens of
+21 	 24 	 (NP\NP)/NP 	 1 	 tens of
+23 	 22 	 (NP\NP)/NP 	 2 	 billions of
+25 	 24 	 (NP\NP)/NP 	 2 	 dollars of
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 market into
+28 	 27 	 NP[nb]/N 	 1 	 market the
+33 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 years in
+33 	 30 	 NP[nb]/N 	 1 	 years the
+33 	 31 	 N/N 	 1 	 years next
+33 	 32 	 N/N 	 1 	 years few
+<\s>
+<s id="wsj_0274.13"> 28
+1 	 0 	 (S/S)/(S/S) 	 2 	 year Last
+3 	 4 	 (S[dcl]\NP[thr])/NP 	 1 	 there were
+4 	 1 	 S/S 	 1 	 were year
+4 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 were says
+8 	 4 	 (S[dcl]\NP[thr])/NP 	 2 	 investors were
+8 	 5 	 N/N 	 1 	 investors only
+8 	 6 	 N/N 	 1 	 investors several
+8 	 7 	 N/N 	 1 	 investors big
+8 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 investors who
+8 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 investors were <XB>
+8 	 11 	 S[adj]\NP 	 1 	 investors interested <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 were who
+11 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 interested were
+15 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 Kato says
+15 	 14 	 N/N 	 1 	 Kato Kinji
+19 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+19 	 17 	 NP[nb]/N 	 1 	 president a
+19 	 18 	 N/N 	 1 	 president vice
+19 	 20 	 (NP\NP)/NP 	 1 	 president at
+23 	 20 	 (NP\NP)/NP 	 2 	 arm at
+23 	 21 	 NP[nb]/N 	 1 	 arm the
+23 	 22 	 N/N 	 1 	 arm international
+23 	 24 	 (NP\NP)/NP 	 1 	 arm of
+27 	 24 	 (NP\NP)/NP 	 2 	 Co of
+27 	 25 	 N/N 	 1 	 Co Nomura
+27 	 26 	 N/N 	 1 	 Co Securities
+<\s>
+<s id="wsj_0274.14"> 13
+1 	 0 	 (S/S)/N 	 2 	 year This
+4 	 3 	 NP[nb]/N 	 1 	 investors some
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 investors are
+4 	 6 	 (S[ng]\NP)/NP 	 1 	 investors changing <XB>
+4 	 10 	 (S[ng]\NP)/NP 	 1 	 investors investing <XU>
+5 	 0 	 (S/S)/N 	 1 	 are This
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 changing are
+8 	 6 	 (S[ng]\NP)/NP 	 2 	 policies changing
+8 	 7 	 NP[nb]/N 	 1 	 policies their
+10 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 investing are
+12 	 10 	 (S[ng]\NP)/NP 	 2 	 lot investing
+12 	 11 	 NP[nb]/N 	 1 	 lot a
+<\s>
+<s id="wsj_0274.15"> 17
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 he says
+6 	 5 	 N/N 	 1 	 demand strong
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 demand could
+6 	 8 	 (S[b]\NP)/(S[to]\NP) 	 1 	 demand help <XB>
+6 	 10 	 (S[b]\NP)/NP 	 1 	 demand drive <XB>
+7 	 0 	 S/S 	 1 	 could Ultimately
+7 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 could says <XU>
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 help could
+9 	 8 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to help
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 drive to
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 drive down
+13 	 10 	 (S[b]\NP)/NP 	 2 	 rates drive
+13 	 12 	 N/N 	 1 	 rates interest
+13 	 14 	 (NP\NP)/NP 	 1 	 rates on
+16 	 14 	 (NP\NP)/NP 	 2 	 securities on
+16 	 15 	 N/N 	 1 	 securities mortgage
+<\s>
+<s id="wsj_0274.16"> 21
+2 	 0 	 (S/S)/NP 	 2 	 moment At
+2 	 1 	 NP[nb]/N 	 1 	 moment the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Nomura is
+5 	 0 	 (S/S)/NP 	 1 	 is At
+9 	 5 	 (S[dcl]\NP)/NP 	 2 	 institution is
+9 	 6 	 NP[nb]/N 	 1 	 institution the
+9 	 7 	 N/N 	 1 	 institution only
+9 	 8 	 N/N 	 1 	 institution Japanese
+9 	 10 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 institution authorized <XB>
+9 	 12 	 (S[b]\NP)/PP 	 1 	 institution act <XB>
+11 	 10 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to authorized
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 act to
+13 	 12 	 (S[b]\NP)/PP 	 2 	 as act
+16 	 13 	 PP/NP 	 1 	 seller as
+16 	 14 	 NP[nb]/N 	 1 	 seller a
+16 	 15 	 N/N 	 1 	 seller primary
+16 	 17 	 (NP\NP)/NP 	 1 	 seller of
+20 	 17 	 (NP\NP)/NP 	 2 	 instruments of
+20 	 18 	 N/N 	 1 	 instruments Fannie
+20 	 19 	 N/N 	 1 	 instruments Mae
+<\s>
+<s id="wsj_0274.17"> 17
+3 	 1 	 N/N 	 1 	 institutions other
+3 	 2 	 N/N 	 1 	 institutions Japanese
+3 	 4 	 (S[dcl]\NP)/S[em] 	 1 	 institutions say
+4 	 0 	 S/S 	 1 	 say But
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 say privately
+6 	 4 	 (S[dcl]\NP)/S[em] 	 2 	 that say
+7 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they are
+7 	 9 	 (S[ng]\NP)/(S[ng]\NP) 	 1 	 they considering <XB>
+7 	 10 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 they asking <XB>
+7 	 12 	 (S[b]\NP)/NP 	 1 	 they join <XB>
+8 	 6 	 S[em]/S[dcl] 	 1 	 are that
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 considering are
+10 	 9 	 (S[ng]\NP)/(S[ng]\NP) 	 2 	 asking considering
+11 	 10 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to asking
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 join to
+16 	 12 	 (S[b]\NP)/NP 	 2 	 group join
+16 	 13 	 NP[nb]/N 	 1 	 group the
+16 	 14 	 N/N 	 1 	 group 59-dealer
+16 	 15 	 N/N 	 1 	 group selling
+<\s>
+<s id="wsj_0274.18"> 10
+1 	 0 	 NP[nb]/N 	 1 	 securities These
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 securities are
+1 	 3 	 (S[adj]\NP)/PP 	 1 	 securities attractive <XB>
+2 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 are for
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 attractive are
+4 	 3 	 (S[adj]\NP)/PP 	 2 	 to attractive
+6 	 4 	 PP/NP 	 1 	 investors to
+6 	 5 	 N/N 	 1 	 investors Japanese
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 reasons for
+9 	 8 	 N/N 	 1 	 reasons three
+<\s>
+<s id="wsj_0274.19"> 5
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they are
+2 	 4 	 S[adj]\NP 	 1 	 they safe <XB>
+3 	 0 	 S/S 	 1 	 are First
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 safe are
+<\s>
+<s id="wsj_0274.20"> 33
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 they are
+1 	 4 	 S[pss]\NP 	 1 	 they backed <XB>
+2 	 0 	 (S/S)/S[dcl] 	 2 	 are While
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 are n't
+4 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 backed are
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 backed by
+4 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 backed as
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 faith by
+8 	 6 	 NP[nb]/N 	 1 	 faith the
+8 	 7 	 N/N 	 1 	 faith full
+8 	 11 	 (NP\NP)/NP 	 1 	 faith of
+10 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 credit by
+10 	 6 	 NP[nb]/N 	 1 	 credit the
+10 	 7 	 N/N 	 1 	 credit full
+10 	 11 	 (NP\NP)/NP 	 1 	 credit of
+14 	 11 	 (NP\NP)/NP 	 2 	 government of
+14 	 12 	 NP[nb]/N 	 1 	 government the
+14 	 13 	 N/N 	 1 	 government U.S.
+18 	 17 	 N/N 	 1 	 bonds Treasury
+18 	 19 	 S[dcl]\NP 	 1 	 bonds are
+19 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are as
+21 	 22 	 (S[dcl]\NP[expl])/(S[pss]\NP) 	 1 	 it is
+22 	 0 	 (S/S)/S[dcl] 	 1 	 is While
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 is widely
+24 	 22 	 (S[dcl]\NP[expl])/(S[pss]\NP) 	 2 	 assumed is
+25 	 24 	 (S[pss]\NP)/S[em] 	 2 	 that assumed
+27 	 26 	 NP[nb]/N 	 1 	 government the
+27 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 government would
+27 	 29 	 (S[b]\NP)/NP 	 1 	 government support <XB>
+27 	 32 	 S[adj]\NP 	 1 	 government necessary <XB>
+28 	 25 	 S[em]/S[dcl] 	 1 	 would that
+29 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 support would
+29 	 31 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 support if
+30 	 29 	 (S[b]\NP)/NP 	 2 	 them support
+32 	 31 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 necessary if
+<\s>
+<s id="wsj_0274.21"> 16
+3 	 1 	 N/N 	 1 	 bonds U.S.
+3 	 2 	 N/N 	 1 	 bonds Treasury
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 bonds are
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 are still
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 investment are
+8 	 6 	 NP[nb]/N 	 1 	 investment the
+8 	 7 	 N/N 	 1 	 investment dollar-denominated
+8 	 9 	 (NP\NP)/NP 	 1 	 investment of
+8 	 11 	 (NP\NP)/NP 	 1 	 investment for
+10 	 9 	 (NP\NP)/NP 	 2 	 choice of
+14 	 11 	 (NP\NP)/NP 	 2 	 investors for
+14 	 12 	 N/N 	 1 	 investors long-term
+14 	 13 	 N/N 	 1 	 investors Japanese
+<\s>
+<s id="wsj_0274.22"> 5
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they are
+2 	 4 	 S[adj]\NP 	 1 	 they liquid <XB>
+3 	 0 	 S/S 	 1 	 are Second
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 liquid are
+<\s>
+<s id="wsj_0274.23"> 27
+2 	 0 	 NP[nb]/N 	 1 	 market The
+2 	 1 	 N/N 	 1 	 market secondary
+2 	 3 	 (NP\NP)/NP 	 1 	 market in
+2 	 9 	 (S[dcl]\NP)/NP 	 1 	 market exceeds
+7 	 3 	 (NP\NP)/NP 	 2 	 securities in
+7 	 4 	 N/N 	 1 	 securities federally
+7 	 5 	 N/N 	 1 	 securities backed
+7 	 6 	 N/N 	 1 	 securities mortgage
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 exceeds now
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 $ exceeds
+12 	 10 	 N/N[num] 	 1 	 billion $
+12 	 11 	 N/N 	 1 	 billion 900
+16 	 9 	 (S[dcl]\NP)/NP 	 2 	 half exceeds
+16 	 15 	 N/N 	 1 	 half nearly
+16 	 17 	 (NP\NP)/NP 	 1 	 half of
+19 	 17 	 (NP\NP)/NP 	 2 	 $ of
+19 	 18 	 NP[nb]/N 	 1 	 $ the
+19 	 22 	 (NP\NP)/NP 	 1 	 $ in
+21 	 19 	 N/N[num] 	 1 	 trillion $
+21 	 20 	 N/N 	 1 	 trillion 2.2
+25 	 22 	 (NP\NP)/NP 	 2 	 mortgages in
+25 	 23 	 N/N 	 1 	 mortgages U.S.
+25 	 24 	 N/N 	 1 	 mortgages residential
+25 	 26 	 S[pss]\NP 	 1 	 mortgages issued <XB>
+<\s>
+<s id="wsj_0274.24"> 6
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 they offer
+3 	 0 	 S/S 	 1 	 offer Third
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 yields offer
+5 	 4 	 N/N 	 1 	 yields high
+<\s>
+<s id="wsj_0274.25"> 20
+2 	 0 	 (S/S)/NP 	 2 	 moment At
+2 	 1 	 NP[nb]/N 	 1 	 moment the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 some offer
+5 	 0 	 (S/S)/NP 	 1 	 offer At
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 much offer
+7 	 6 	 N/N 	 1 	 much as
+7 	 8 	 (NP\NP)/NP 	 1 	 much as
+7 	 14 	 (NP\NP)/NP 	 1 	 much over
+9 	 10 	 ((N/N)\(N/N))/(N/N) 	 2 	 1.6 to
+11 	 10 	 ((N/N)\(N/N))/(N/N) 	 3 	 1.8 to
+13 	 8 	 (NP\NP)/NP 	 2 	 points as
+13 	 9 	 N/N 	 1 	 points 1.6
+13 	 12 	 N/N 	 1 	 points percentage
+16 	 14 	 (NP\NP)/NP 	 2 	 securities over
+16 	 15 	 N/N 	 1 	 securities Treasury
+16 	 17 	 (NP\NP)/NP 	 1 	 securities of
+19 	 17 	 (NP\NP)/NP 	 2 	 maturities of
+19 	 18 	 N/N 	 1 	 maturities similar
+<\s>
+<s id="wsj_0274.26"> 23
+1 	 2 	 (S[dcl]\NP[thr])/NP 	 1 	 there is
+2 	 0 	 S/S 	 1 	 is But
+4 	 2 	 (S[dcl]\NP[thr])/NP 	 2 	 risk is
+4 	 3 	 NP[nb]/N 	 1 	 risk a
+4 	 6 	 (NP\NP)/(S[dcl]/NP) 	 1 	 risk which
+4 	 9 	 (S[dcl]\NP)/NP 	 2 	 risk discovered <XU>
+8 	 7 	 NP[nb]/N 	 1 	 Japanese the
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 Japanese discovered
+9 	 6 	 (NP\NP)/(S[dcl]/NP) 	 2 	 discovered which
+9 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 discovered when
+11 	 13 	 (S[dcl]\NP)/NP 	 1 	 they dipped
+13 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 dipped when
+13 	 12 	 (S\NP)/(S\NP) 	 2 	 dipped first
+13 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 dipped into
+13 	 22 	 ((S\NP)\(S\NP))\NP 	 2 	 dipped ago
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 toes dipped
+15 	 14 	 NP[nb]/N 	 1 	 toes their
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 market into
+18 	 17 	 NP[nb]/N 	 1 	 market the
+20 	 19 	 (N/N)/(N/N) 	 2 	 five nearly
+21 	 20 	 N/N 	 1 	 years five
+21 	 22 	 ((S\NP)\(S\NP))\NP 	 3 	 years ago
+<\s>
+<s id="wsj_0274.27"> 26
+2 	 1 	 N/N 	 1 	 mortgages most
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 mortgages can
+2 	 5 	 S[pss]\NP 	 1 	 mortgages prepaid <XB>
+2 	 7 	 S[pss]\NP 	 1 	 mortgages refinanced <XU>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 can Since
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 prepaid be
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 prepaid at
+7 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 refinanced be
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 refinanced at
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 time at
+10 	 9 	 NP[nb]/N 	 1 	 time any
+12 	 13 	 (NP\NP)/NP 	 1 	 issuers of
+12 	 16 	 (S[dcl]\NP)/NP 	 1 	 issuers retain
+15 	 13 	 (NP\NP)/NP 	 2 	 securities of
+15 	 14 	 N/N 	 1 	 securities mortgage
+16 	 0 	 (S/S)/S[dcl] 	 1 	 retain Since
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 right retain
+18 	 17 	 NP[nb]/N 	 1 	 right the
+18 	 20 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 1 	 right buy <XB>
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+20 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 buy before
+21 	 20 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 3 	 back buy
+23 	 20 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 2 	 bonds buy
+23 	 21 	 S[adj]\NP 	 1 	 bonds back <XB>
+23 	 22 	 NP[nb]/N 	 1 	 bonds their
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 maturity before
+<\s>
+<s id="wsj_0274.28"> 27
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That 's
+1 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 's since
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 headache 's
+3 	 2 	 NP[nb]/N 	 1 	 headache a
+3 	 4 	 (NP\NP)/NP 	 1 	 headache for
+6 	 4 	 (NP\NP)/NP 	 2 	 investors for
+6 	 5 	 N/N 	 1 	 investors long-term
+9 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it forces
+10 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 forces since
+11 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 them forces
+11 	 13 	 (S[b]\NP)/NP 	 1 	 them reinvest <XB>
+12 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to forces
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reinvest to
+13 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 reinvest at
+15 	 13 	 (S[b]\NP)/NP 	 2 	 money reinvest
+15 	 14 	 NP[nb]/N 	 1 	 money their
+18 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 at --
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 at usually
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 rates at
+20 	 19 	 N/N 	 1 	 rates lower
+20 	 21 	 (NP\NP)/S[dcl] 	 1 	 rates than
+25 	 22 	 NP[nb]/N 	 1 	 securities the
+25 	 23 	 N/N 	 1 	 securities original
+25 	 24 	 N/N 	 1 	 securities mortgage
+25 	 26 	 S[dcl]\NP 	 1 	 securities carried
+26 	 21 	 (NP\NP)/S[dcl] 	 2 	 carried than
+<\s>
+<s id="wsj_0274.29"> 23
+3 	 0 	 N/N 	 1 	 years Two <XU>
+3 	 2 	 N/N 	 1 	 years three
+3 	 4 	 (S/S)\NP 	 2 	 years ago
+7 	 6 	 NP[nb]/N 	 1 	 problem the
+7 	 8 	 (S[dcl]\NP)/S[em] 	 1 	 problem was
+8 	 4 	 (S/S)\NP 	 1 	 was ago
+8 	 18 	 (S[dcl]\S[dcl])/NP 	 1 	 was says
+9 	 8 	 (S[dcl]\NP)/S[em] 	 2 	 that was
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 people did
+10 	 13 	 (S[b]\NP)/NP 	 1 	 people understand <XB>
+11 	 9 	 S[em]/S[dcl] 	 1 	 did that
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 did n't
+13 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 understand did
+16 	 13 	 (S[b]\NP)/NP 	 2 	 risk understand
+16 	 14 	 NP[nb]/N 	 1 	 risk the
+16 	 15 	 N/N 	 1 	 risk prepayment
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 Nomura 's
+22 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 Kato says
+22 	 20 	 (NP[nb]/N)\NP 	 1 	 Kato 's
+22 	 21 	 N/N 	 1 	 Kato Mr.
+<\s>
+<s id="wsj_0274.30"> 9
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they were
+1 	 3 	 (S[adj]\NP)/PP 	 1 	 they surprised <XB>
+1 	 6 	 (S[adj]\NP)/PP 	 1 	 they disappointed <XU>
+2 	 0 	 S/S 	 1 	 were So
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 surprised were
+6 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 disappointed were
+6 	 5 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 disappointed very
+7 	 3 	 (S[adj]\NP)/PP 	 2 	 by surprised <XU>
+7 	 6 	 (S[adj]\NP)/PP 	 2 	 by disappointed
+8 	 7 	 PP/NP 	 1 	 prepayment by
+<\s>
+<s id="wsj_0274.31"> 22
+2 	 0 	 (S[ng]\NP)/NP 	 2 	 trouble Compounding
+2 	 1 	 NP[nb]/N 	 1 	 trouble the
+2 	 3 	 (NP\NP)/NP 	 1 	 trouble to
+5 	 3 	 (NP\NP)/NP 	 2 	 investors to
+5 	 4 	 N/N 	 1 	 investors Japanese
+8 	 7 	 N/N 	 1 	 securities mortgage
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 securities pay
+9 	 11 	 (S\NP)\(S\NP) 	 2 	 pay monthly
+9 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 pay since
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 interest pay
+15 	 14 	 N/N 	 1 	 mortgages most
+15 	 16 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 mortgages require
+16 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 require since
+17 	 16 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 homeowners require
+17 	 19 	 (S[b]\NP)/NP 	 1 	 homeowners make <XB>
+18 	 16 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to require
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+21 	 19 	 (S[b]\NP)/NP 	 2 	 payments make
+21 	 20 	 N/N 	 1 	 payments monthly
+<\s>
+<s id="wsj_0274.32"> 23
+3 	 1 	 N/N 	 1 	 investors Japanese
+3 	 2 	 N/N 	 1 	 investors institutional
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 investors are
+3 	 5 	 (S[pss]\NP)/PP 	 1 	 investors used <XB>
+4 	 0 	 S/S 	 1 	 are But
+4 	 15 	 (S\S)/S[dcl] 	 1 	 are so
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 used are
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 to used
+10 	 6 	 PP/NP 	 1 	 payments to
+10 	 7 	 N/N 	 1 	 payments quarterly <XU>
+10 	 9 	 N/N 	 1 	 payments semiannual
+10 	 11 	 (NP\NP)/NP 	 1 	 payments on
+13 	 11 	 (NP\NP)/NP 	 2 	 investments on
+13 	 12 	 NP[nb]/N 	 1 	 investments their
+19 	 16 	 NP[nb]/N 	 1 	 flow the
+19 	 17 	 N/N 	 1 	 flow monthly
+19 	 18 	 N/N 	 1 	 flow cash
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 flow posed
+20 	 15 	 (S\S)/S[dcl] 	 2 	 posed so
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 problems posed
+22 	 21 	 N/N 	 1 	 problems administrative
+<\s>
+<s id="wsj_0274.33"> 12
+2 	 0 	 (S/S)/NP 	 2 	 result As
+2 	 1 	 NP[nb]/N 	 1 	 result a
+5 	 4 	 N/N 	 1 	 investors Japanese
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 investors steered
+5 	 7 	 (S[adj]\NP)/PP 	 1 	 investors clear <XB>
+6 	 0 	 (S/S)/NP 	 1 	 steered As
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 clear steered
+8 	 7 	 (S[adj]\NP)/PP 	 2 	 of clear
+11 	 8 	 PP/NP 	 1 	 securities of
+11 	 9 	 NP[nb]/N 	 1 	 securities the
+11 	 10 	 N/N 	 1 	 securities mortgage
+<\s>
+<s id="wsj_0274.34"> 10
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they did
+1 	 4 	 ((S[b]\NP)/PP)/NP 	 1 	 they lose <XB>
+2 	 0 	 S/S 	 1 	 did But
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 did n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 lose did
+5 	 4 	 ((S[b]\NP)/PP)/NP 	 3 	 touch lose
+6 	 4 	 ((S[b]\NP)/PP)/NP 	 2 	 with lose
+9 	 6 	 PP/NP 	 1 	 issuers with
+9 	 7 	 NP[nb]/N 	 1 	 issuers the
+9 	 8 	 N/N 	 1 	 issuers U.S.
+<\s>
+<s id="wsj_0274.35"> 34
+1 	 0 	 (S/S)/NP 	 2 	 1985 Since
+4 	 3 	 N/N 	 1 	 investors Japanese
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 investors have
+4 	 6 	 (S[pt]\NP)/NP 	 1 	 investors bought <XB>
+5 	 0 	 (S/S)/NP 	 1 	 have Since
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 bought have
+8 	 7 	 (N/N)/(N/N) 	 2 	 80 nearly
+9 	 6 	 (S[pt]\NP)/NP 	 2 	 % bought
+9 	 8 	 N/N 	 1 	 % 80
+9 	 10 	 (NP\NP)/NP 	 1 	 % of
+9 	 14 	 (NP\NP)/NP 	 1 	 % in
+11 	 10 	 (NP\NP)/NP 	 2 	 $ of
+13 	 11 	 N/N[num] 	 1 	 billion $
+13 	 12 	 N/N 	 1 	 billion 10
+18 	 14 	 (NP\NP)/NP 	 2 	 debt in
+18 	 15 	 N/N 	 1 	 debt Fannie
+18 	 16 	 N/N 	 1 	 debt Mae
+18 	 17 	 N/N 	 1 	 debt corporate
+18 	 19 	 (S[pss]\NP)/PP 	 1 	 debt issued <XB>
+20 	 19 	 (S[pss]\NP)/PP 	 2 	 to issued
+21 	 20 	 PP/NP 	 1 	 foreigners to
+23 	 6 	 (S[pt]\NP)/NP 	 2 	 money bought
+23 	 24 	 (NP\NP)/(S[dcl]/NP) 	 1 	 money that <XU>
+23 	 27 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 money uses <XU>
+23 	 29 	 ((S[b]\NP)/PP)/NP 	 1 	 money buy <XU>
+26 	 25 	 N/N 	 1 	 Mae Fannie
+26 	 27 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Mae uses
+27 	 24 	 (NP\NP)/(S[dcl]/NP) 	 2 	 uses that
+28 	 27 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to uses
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+30 	 29 	 ((S[b]\NP)/PP)/NP 	 3 	 mortgages buy
+31 	 29 	 ((S[b]\NP)/PP)/NP 	 2 	 from buy
+33 	 31 	 PP/NP 	 1 	 banks from
+33 	 32 	 N/N 	 1 	 banks U.S.
+<\s>
+<s id="wsj_0274.36"> 32
+2 	 1 	 N/N 	 1 	 investors Japanese
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 investors took
+3 	 0 	 S/S 	 1 	 took And
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 took up
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 all took
+6 	 5 	 N/N 	 1 	 all nearly
+6 	 7 	 (NP\NP)/NP 	 1 	 all of
+11 	 9 	 (N/N)/N[num] 	 2 	 million $
+11 	 10 	 N/N 	 1 	 million 200
+16 	 7 	 (NP\NP)/NP 	 2 	 Conduits of
+16 	 8 	 N/N 	 1 	 Conduits two
+16 	 9 	 (N/N)/N[num] 	 1 	 Conduits $
+16 	 12 	 N/N 	 1 	 Conduits Real
+16 	 13 	 N/N 	 1 	 Conduits Estate
+16 	 14 	 N/N 	 1 	 Conduits Mortgage
+16 	 15 	 N/N 	 1 	 Conduits Investment
+16 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Conduits that
+16 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Conduits were <XB>
+16 	 27 	 (S[pss]\NP)/PP 	 1 	 Conduits offered <XB>
+19 	 7 	 (NP\NP)/NP 	 2 	 kind of
+19 	 18 	 NP[nb]/N 	 1 	 kind a
+19 	 20 	 (NP\NP)/NP 	 1 	 kind of
+19 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 kind that
+19 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 kind were <XB>
+19 	 27 	 (S[pss]\NP)/PP 	 1 	 kind offered <XB>
+23 	 20 	 (NP\NP)/NP 	 2 	 obligation of
+23 	 21 	 N/N 	 1 	 obligation collateralized
+23 	 22 	 N/N 	 1 	 obligation mortgage
+26 	 25 	 (NP\NP)/(S[dcl]\NP) 	 2 	 were that
+27 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 offered were
+27 	 30 	 ((S\NP)\(S\NP))/N 	 2 	 offered this
+28 	 27 	 (S[pss]\NP)/PP 	 2 	 to offered
+29 	 28 	 PP/NP 	 1 	 foreigners to
+31 	 30 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+<\s>
+<s id="wsj_0274.37"> 33
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+4 	 3 	 N/N 	 1 	 packaging further
+4 	 5 	 (NP\NP)/NP 	 1 	 packaging of
+4 	 16 	 (S[pt]\NP)/NP 	 1 	 packaging reduced <XB>
+4 	 24 	 (S[b]\NP)/NP 	 1 	 packaging reinvest <XU>
+7 	 5 	 (NP\NP)/NP 	 2 	 securities of
+7 	 6 	 N/N 	 1 	 securities mortgage-backed
+7 	 10 	 (NP\NP)/NP 	 1 	 securities as
+10 	 9 	 (NP\NP)/(NP\NP) 	 2 	 as such
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Blackstone 's
+13 	 10 	 (NP\NP)/NP 	 2 	 fund as
+13 	 12 	 (NP[nb]/N)\NP 	 1 	 fund 's
+15 	 0 	 (S/S)/NP 	 1 	 have In
+16 	 15 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 reduced have
+18 	 16 	 (S[pt]\NP)/NP 	 2 	 effects reduced
+18 	 17 	 NP[nb]/N 	 1 	 effects the
+18 	 19 	 (NP\NP)/NP 	 1 	 effects of
+21 	 19 	 (NP\NP)/NP 	 2 	 risk of
+21 	 20 	 N/N 	 1 	 risk prepayment
+24 	 0 	 (S/S)/NP 	 1 	 reinvest In
+24 	 23 	 (S\NP)/(S\NP) 	 2 	 reinvest automatically
+24 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 reinvest so
+26 	 24 	 (S[b]\NP)/NP 	 2 	 payments reinvest
+26 	 25 	 N/N 	 1 	 payments monthly
+28 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 institutions do
+28 	 32 	 S[to]\NP 	 1 	 institutions to <XB>
+29 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 do so
+29 	 30 	 (S\NP)\(S\NP) 	 2 	 do n't
+31 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have do
+32 	 31 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+<\s>
+<s id="wsj_0274.38"> 27
+1 	 0 	 N/N 	 1 	 Mac Freddie
+1 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Mac has
+1 	 5 	 (S[pt]\NP)/NP 	 1 	 Mac offered <XB>
+3 	 2 	 ((S\NP)/(S\NP))/NP 	 3 	 years for
+4 	 2 	 ((S\NP)/(S\NP))/NP 	 2 	 has for
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 offered has
+9 	 5 	 (S[pt]\NP)/NP 	 2 	 certificate offered
+9 	 6 	 NP[nb]/N 	 1 	 certificate a
+9 	 7 	 N/N 	 1 	 certificate so-called
+9 	 8 	 N/N 	 1 	 certificate participation
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 certificate that
+9 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 certificate guarantees <XB>
+9 	 24 	 (S[dcl]\NP)/NP 	 1 	 certificate offers <XU>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 guarantees that
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it wo
+12 	 16 	 S[pss]\NP 	 1 	 it prepaid <XB>
+13 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 wo guarantees
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 wo n't
+15 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be wo
+16 	 15 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 prepaid be
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 prepaid for
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 number for
+20 	 18 	 NP[nb]/N 	 1 	 number a
+20 	 19 	 N/N 	 1 	 number set
+20 	 21 	 (NP\NP)/NP 	 1 	 number of
+22 	 21 	 (NP\NP)/NP 	 2 	 years of
+24 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 offers that
+26 	 24 	 (S[dcl]\NP)/NP 	 2 	 payments offers
+26 	 25 	 N/N 	 1 	 payments semiannual
+<\s>

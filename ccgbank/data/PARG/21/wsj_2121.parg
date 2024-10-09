@@ -1,0 +1,78 @@
+<s id="wsj_2121.1"> 22
+2 	 0 	 N/N 	 1 	 Lung David
+2 	 1 	 N/N 	 1 	 Lung D.
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Lung was
+2 	 4 	 (S[pss]\NP)/NP 	 1 	 Lung appointed <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 appointed was
+5 	 4 	 (S[pss]\NP)/NP 	 2 	 president appointed
+5 	 10 	 (NP\NP)/NP 	 1 	 president of
+9 	 4 	 (S[pss]\NP)/NP 	 2 	 officer appointed
+9 	 7 	 N/N 	 1 	 officer chief
+9 	 8 	 N/N 	 1 	 officer operating
+9 	 10 	 (NP\NP)/NP 	 1 	 officer of
+12 	 10 	 (NP\NP)/NP 	 2 	 maker of
+12 	 11 	 NP[nb]/N 	 1 	 maker this
+12 	 13 	 (NP\NP)/NP 	 1 	 maker of
+15 	 13 	 (NP\NP)/NP 	 2 	 materials of
+15 	 14 	 N/N 	 1 	 materials building
+15 	 16 	 (NP\NP)/NP 	 1 	 materials for
+18 	 16 	 (NP\NP)/NP 	 2 	 homes for
+18 	 17 	 N/N 	 1 	 homes manufactured
+21 	 16 	 (NP\NP)/NP 	 2 	 vehicles for
+21 	 20 	 N/N 	 1 	 vehicles recreational
+<\s>
+<s id="wsj_2121.2"> 26
+1 	 0 	 (S/S)/NP 	 2 	 president As
+4 	 3 	 N/N 	 1 	 Lung Mr.
+4 	 8 	 (S[adj]\NP)\NP 	 1 	 Lung old <XB>
+4 	 10 	 (S[dcl]\NP)/NP 	 1 	 Lung succeeds
+7 	 6 	 N/N 	 1 	 years 42
+7 	 8 	 (S[adj]\NP)\NP 	 2 	 years old
+10 	 0 	 (S/S)/NP 	 1 	 succeeds As
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 father succeeds
+12 	 11 	 NP[nb]/N 	 1 	 father his
+12 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 father who
+12 	 21 	 (S[dcl]\NP)/NP 	 1 	 father founded <XB>
+16 	 10 	 (S[dcl]\NP)/NP 	 2 	 Lung succeeds
+16 	 14 	 N/N 	 1 	 Lung Mervin
+16 	 15 	 N/N 	 1 	 Lung D.
+16 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Lung who
+16 	 21 	 (S[dcl]\NP)/NP 	 1 	 Lung founded <XB>
+18 	 10 	 (S[dcl]\NP)/NP 	 2 	 66 succeeds
+18 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 66 who
+18 	 21 	 (S[dcl]\NP)/NP 	 1 	 66 founded <XB>
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 founded who
+21 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 founded in
+23 	 21 	 (S[dcl]\NP)/NP 	 2 	 company founded
+23 	 22 	 NP[nb]/N 	 1 	 company the
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 1959 in
+<\s>
+<s id="wsj_2121.3"> 8
+1 	 0 	 N/N 	 1 	 Lung Mervin
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Lung remains
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 officer remains
+7 	 3 	 N/N 	 1 	 officer chairman
+7 	 5 	 N/N 	 1 	 officer chief
+7 	 6 	 N/N 	 1 	 officer executive
+<\s>
+<s id="wsj_2121.4"> 21
+1 	 0 	 N/N 	 1 	 Lung David
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Lung has
+1 	 3 	 (S[pt]\NP)/PP 	 1 	 Lung been <XB>
+1 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Lung has <XU>
+1 	 11 	 (S[pt]\NP)/PP 	 1 	 Lung served <XU>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 been since
+4 	 3 	 (S[pt]\NP)/PP 	 2 	 with been
+5 	 4 	 PP/NP 	 1 	 Patrick with
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 1970 since
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 served has
+11 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 served since
+12 	 11 	 (S[pt]\NP)/PP 	 2 	 as served
+14 	 12 	 PP/NP 	 1 	 president as
+14 	 13 	 N/N 	 1 	 president vice
+14 	 15 	 (NP\NP)/NP 	 1 	 president for
+16 	 15 	 (NP\NP)/NP 	 2 	 administration for
+18 	 15 	 (NP\NP)/NP 	 2 	 purchasing for
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 1987 since
+<\s>

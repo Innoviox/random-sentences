@@ -1,0 +1,60 @@
+<s id="wsj_1954.1"> 22
+2 	 0 	 NP[nb]/N 	 1 	 government The
+2 	 1 	 N/N 	 1 	 government Canadian
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 government auctioned
+5 	 4 	 (N/N)/(N/N) 	 2 	 million 750
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 dollars auctioned
+7 	 5 	 N/N 	 1 	 dollars million
+7 	 6 	 N/N 	 1 	 dollars Canadian
+7 	 8 	 (NP\NP)/NP 	 1 	 dollars -LRB-
+7 	 13 	 (NP\NP)/NP 	 1 	 dollars of
+9 	 8 	 (NP\NP)/NP 	 2 	 US$ -LRB-
+11 	 9 	 N/N[num] 	 1 	 million US$
+11 	 10 	 N/N 	 1 	 million 637.5
+15 	 14 	 (N/N)/(N/N) 	 2 	 % 9.25
+16 	 13 	 (NP\NP)/NP 	 2 	 bonds of
+16 	 15 	 N/N 	 1 	 bonds %
+16 	 17 	 (S[adj]\NP)/NP 	 1 	 bonds due <XB>
+18 	 17 	 (S[adj]\NP)/NP 	 2 	 Dec. due
+18 	 21 	 N\N 	 1 	 Dec. 1994
+19 	 18 	 N/N[num] 	 1 	 15 Dec.
+<\s>
+<s id="wsj_1954.2"> 14
+3 	 0 	 NP[nb]/N 	 1 	 yield The
+3 	 1 	 N/N 	 1 	 yield average
+3 	 2 	 N/N 	 1 	 yield accepted
+3 	 5 	 (S[dcl]\NP)/NP 	 1 	 yield was
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 was for
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 % was
+7 	 6 	 N/N 	 1 	 % 9.617
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 equivalent for
+11 	 9 	 NP[nb]/N 	 1 	 equivalent a
+11 	 10 	 N/N 	 1 	 equivalent price
+11 	 12 	 (NP\NP)/NP 	 1 	 equivalent of
+13 	 12 	 (NP\NP)/NP 	 2 	 98.523 of
+<\s>
+<s id="wsj_1954.3"> 23
+0 	 1 	 (NP\NP)/NP 	 1 	 Proceeds of
+0 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Proceeds will
+0 	 6 	 (S[pss]\NP)/S[to] 	 1 	 Proceeds used <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 sale of
+3 	 2 	 NP[nb]/N 	 1 	 sale the
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+6 	 5 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+7 	 18 	 S[to]\(S[to]\NP) 	 1 	 to and
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 redeem to
+9 	 8 	 (S[b]\NP)/NP 	 2 	 C$ redeem
+9 	 12 	 (NP\NP)/NP 	 1 	 C$ of
+11 	 9 	 N/N[num] 	 1 	 million C$
+11 	 10 	 N/N 	 1 	 million 675
+14 	 12 	 (NP\NP)/NP 	 2 	 bonds of
+14 	 13 	 N/N 	 1 	 bonds government
+14 	 15 	 S[ng]\NP 	 1 	 bonds maturing <XB>
+15 	 16 	 ((S\NP)\(S\NP))/N[num] 	 2 	 maturing Nov.
+17 	 16 	 ((S\NP)\(S\NP))/N[num] 	 3 	 1 Nov.
+18 	 6 	 (S[pss]\NP)/S[to] 	 2 	 and used
+18 	 19 	 ((S\(S\NP))\(S\(S\NP)))/NP 	 2 	 and for
+22 	 19 	 ((S\(S\NP))\(S\(S\NP)))/NP 	 3 	 purposes for
+22 	 20 	 N/N 	 1 	 purposes general
+22 	 21 	 N/N 	 1 	 purposes government
+<\s>

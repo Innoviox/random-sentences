@@ -1,0 +1,235 @@
+<s id="wsj_0353.1"> 29
+2 	 0 	 NP[nb]/N 	 1 	 body A
+2 	 1 	 N/N 	 1 	 body governing
+2 	 3 	 (NP\NP)/NP 	 1 	 body of
+2 	 16 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 body voted
+2 	 18 	 ((S[b]\NP)/NP)/NP 	 1 	 body give <XB>
+9 	 3 	 (NP\NP)/NP 	 2 	 Board of
+9 	 4 	 NP/NP 	 1 	 Board both
+9 	 5 	 NP[nb]/N 	 1 	 Board the
+9 	 6 	 N/N 	 1 	 Board Financial
+9 	 7 	 N/N 	 1 	 Board Accounting
+9 	 8 	 N/N 	 1 	 Board Standards
+15 	 3 	 (NP\NP)/NP 	 2 	 Board of
+15 	 4 	 NP/NP 	 1 	 Board both
+15 	 11 	 NP[nb]/N 	 1 	 Board the
+15 	 12 	 N/N 	 1 	 Board Governmental
+15 	 13 	 N/N 	 1 	 Board Accounting
+15 	 14 	 N/N 	 1 	 Board Standards
+17 	 16 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to voted
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give to
+20 	 18 	 ((S[b]\NP)/NP)/NP 	 3 	 FASB give
+20 	 19 	 NP[nb]/N 	 1 	 FASB the
+21 	 18 	 ((S[b]\NP)/NP)/NP 	 2 	 jurisdiction give
+21 	 22 	 (NP\NP)/NP 	 1 	 jurisdiction over
+24 	 22 	 (NP\NP)/NP 	 2 	 standards over
+24 	 23 	 N/N 	 1 	 standards accounting
+24 	 25 	 (NP\NP)/NP 	 1 	 standards for
+28 	 25 	 (NP\NP)/NP 	 2 	 entities for
+28 	 26 	 N/N 	 1 	 entities certain
+28 	 27 	 N/N 	 1 	 entities government-owned
+<\s>
+<s id="wsj_0353.2"> 28
+3 	 0 	 NP[nb]/N 	 1 	 Foundation The
+3 	 1 	 N/N 	 1 	 Foundation Financial
+3 	 2 	 N/N 	 1 	 Foundation Accounting
+3 	 4 	 ((S[dcl]\NP)/S[em])/(S[adj]\NP) 	 1 	 Foundation voted
+3 	 5 	 S[adj]\NP 	 1 	 Foundation 12-2 <XB>
+5 	 4 	 ((S[dcl]\NP)/S[em])/(S[adj]\NP) 	 3 	 12-2 voted
+6 	 4 	 ((S[dcl]\NP)/S[em])/(S[adj]\NP) 	 2 	 that voted
+9 	 7 	 N/N 	 1 	 rules FASB
+9 	 8 	 N/N 	 1 	 rules accounting
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 rules supercede
+10 	 6 	 S[em]/S[dcl] 	 1 	 supercede that
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 supercede in
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 rules supercede
+12 	 11 	 N/N 	 1 	 rules GASB
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 regard in
+14 	 15 	 (NP\NP)/NP 	 1 	 regard to
+16 	 15 	 (NP\NP)/NP 	 2 	 utilities to
+16 	 24 	 S[pss]\NP 	 1 	 utilities owned <XB>
+18 	 15 	 (NP\NP)/NP 	 2 	 hospitals to
+18 	 24 	 S[pss]\NP 	 1 	 hospitals owned <XB>
+21 	 15 	 (NP\NP)/NP 	 2 	 colleges to
+21 	 24 	 S[pss]\NP 	 1 	 colleges owned <XB>
+23 	 15 	 (NP\NP)/NP 	 2 	 universities to
+23 	 24 	 S[pss]\NP 	 1 	 universities owned <XB>
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 owned by
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 government by
+27 	 26 	 NP[nb]/N 	 1 	 government the
+<\s>
+<s id="wsj_0353.3"> 8
+1 	 0 	 N/N 	 1 	 rules GASB
+1 	 3 	 (S[dcl]\NP)/PP 	 1 	 rules apply
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 apply still
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 for apply
+7 	 4 	 PP/NP 	 1 	 units for
+7 	 5 	 N/N 	 1 	 units other
+7 	 6 	 N/N 	 1 	 units government
+<\s>
+<s id="wsj_0353.4"> 28
+2 	 1 	 NP[nb]/N 	 1 	 GASB the
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 GASB was
+2 	 4 	 S[pss]\NP 	 1 	 GASB founded <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 was After
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 founded was
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 founded in
+4 	 10 	 (((S\NP)\(S\NP))\NP)/NP 	 2 	 founded after <XU>
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 1984 in
+9 	 8 	 N/N 	 1 	 years 11
+9 	 10 	 (((S\NP)\(S\NP))\NP)/NP 	 3 	 years after
+12 	 10 	 (((S\NP)\(S\NP))\NP)/NP 	 4 	 FASB after
+12 	 11 	 NP[nb]/N 	 1 	 FASB the
+16 	 14 	 NP[nb]/N 	 1 	 entities the
+16 	 15 	 N/N 	 1 	 entities government-owned
+16 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 entities were
+16 	 18 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 entities supposed <XB>
+16 	 20 	 (S[b]\NP)/NP 	 1 	 entities follow <XB>
+17 	 0 	 (S/S)/S[dcl] 	 1 	 were After
+18 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 supposed were
+19 	 18 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to supposed
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 follow to
+20 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 follow unless
+22 	 20 	 (S[b]\NP)/NP 	 2 	 rules follow
+22 	 21 	 N/N 	 1 	 rules FASB
+25 	 24 	 NP[nb]/N 	 1 	 GASB the
+25 	 26 	 (S[dcl]\NP)/NP 	 1 	 GASB superceded
+26 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 superceded unless
+27 	 26 	 (S[dcl]\NP)/NP 	 2 	 them superceded
+<\s>
+<s id="wsj_0353.5"> 36
+1 	 0 	 NP[nb]/N 	 1 	 GASB The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 GASB had
+1 	 3 	 ((S[pt]\NP)/S[dcl])/NP 	 1 	 GASB told <XB>
+1 	 16 	 (((S[ng]\NP)/S[for])/(S[adj]\NP))/NP[expl] 	 1 	 GASB making <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 told had
+4 	 3 	 ((S[pt]\NP)/S[dcl])/NP 	 3 	 governments told
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they did
+5 	 10 	 (S[b]\NP)/NP 	 1 	 they follow <XB>
+6 	 3 	 ((S[pt]\NP)/S[dcl])/NP 	 2 	 did told
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 did n't
+8 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have did
+9 	 8 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 follow to
+12 	 10 	 (S[b]\NP)/NP 	 2 	 rules follow
+12 	 11 	 N/N 	 1 	 rules FASB
+12 	 13 	 (NP\NP)/NP 	 1 	 rules on
+14 	 13 	 (NP\NP)/NP 	 2 	 depreciation on
+17 	 16 	 (((S[ng]\NP)/S[for])/(S[adj]\NP))/NP[expl] 	 4 	 it making
+18 	 16 	 (((S[ng]\NP)/S[for])/(S[adj]\NP))/NP[expl] 	 3 	 difficult making
+19 	 16 	 (((S[ng]\NP)/S[for])/(S[adj]\NP))/NP[expl] 	 2 	 for making
+21 	 19 	 (S[for]/(S[to]\NP))/NP 	 2 	 agencies for
+21 	 20 	 N/N 	 1 	 agencies bond-rating
+21 	 23 	 (S[b]\NP)/NP 	 1 	 agencies compare <XB>
+22 	 19 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 compare to
+27 	 23 	 (S[b]\NP)/NP 	 2 	 schools compare
+27 	 24 	 N/N 	 1 	 schools private <XU>
+27 	 26 	 N/N 	 1 	 schools state-owned
+27 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 schools which
+27 	 30 	 S[dcl]\NP 	 1 	 schools compete <XB>
+30 	 29 	 (NP\NP)/(S[dcl]\NP) 	 2 	 compete which
+30 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 compete in
+35 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 market in
+35 	 32 	 NP[nb]/N 	 1 	 market the
+35 	 33 	 N/N 	 1 	 market public
+35 	 34 	 N/N 	 1 	 market bond
+<\s>
+<s id="wsj_0353.6"> 37
+2 	 0 	 NP[nb]/N 	 1 	 vote The
+2 	 1 	 N/N 	 1 	 vote foundation
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 vote is
+2 	 4 	 (S[adj]\NP)/PP 	 1 	 vote effective <XB>
+2 	 20 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 vote makes <XU>
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 effective is
+5 	 4 	 (S[adj]\NP)/PP 	 2 	 for effective
+9 	 5 	 PP/NP 	 1 	 entities for
+9 	 6 	 NP[nb]/N 	 1 	 entities the
+9 	 7 	 N/N 	 1 	 entities affected
+9 	 8 	 N/N 	 1 	 entities government
+9 	 10 	 (NP\NP)/NP 	 1 	 entities with
+12 	 10 	 (NP\NP)/NP 	 2 	 years with
+12 	 11 	 N/N 	 1 	 years fiscal
+12 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 years that
+12 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 years begin <XB>
+12 	 15 	 S[ng]\NP 	 1 	 years starting <XB>
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 begin that
+15 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 starting begin
+15 	 17 	 ((S\NP)\(S\NP))/N[num] 	 2 	 starting Jan.
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 Jan. next
+18 	 17 	 ((S\NP)\(S\NP))/N[num] 	 3 	 1 Jan.
+23 	 20 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 results makes
+23 	 21 	 NP[nb]/N 	 1 	 results the
+23 	 22 	 N/N 	 1 	 results financial
+23 	 24 	 (NP\NP)/NP 	 1 	 results of
+23 	 31 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 results easier <XB>
+26 	 24 	 (NP\NP)/NP 	 2 	 hospitals of
+26 	 25 	 NP[nb]/N 	 1 	 hospitals the
+28 	 24 	 (NP\NP)/NP 	 2 	 colleges of
+28 	 25 	 NP[nb]/N 	 1 	 colleges the
+30 	 24 	 (NP\NP)/NP 	 2 	 schools of
+30 	 25 	 NP[nb]/N 	 1 	 schools the
+31 	 20 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 easier makes
+32 	 31 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to easier
+33 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 compare to
+34 	 33 	 (S[b]\NP)/PP 	 2 	 with compare
+36 	 34 	 PP/NP 	 1 	 businesses with
+36 	 35 	 N/N 	 1 	 businesses for-profit
+<\s>
+<s id="wsj_0353.7"> 25
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it may
+1 	 3 	 (S[b]\NP)/PP 	 1 	 it lead <XB>
+2 	 0 	 S/S 	 1 	 may But
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 lead may
+4 	 3 	 (S[b]\NP)/PP 	 2 	 to lead
+7 	 4 	 PP/NP 	 1 	 reports to
+7 	 5 	 N/N 	 1 	 reports separate
+7 	 6 	 N/N 	 1 	 reports financial
+7 	 8 	 (S[pss]\NP)/PP 	 1 	 reports based <XB>
+9 	 8 	 (S[pss]\NP)/PP 	 2 	 on based
+11 	 9 	 PP/NP 	 1 	 rules on
+11 	 10 	 N/N 	 1 	 rules different
+11 	 12 	 (NP\NP)/NP 	 1 	 rules for
+15 	 12 	 (NP\NP)/NP 	 2 	 entities for
+15 	 13 	 NP[nb]/N 	 1 	 entities the
+15 	 14 	 N/N 	 1 	 entities government
+15 	 16 	 (NP\NP)/NP 	 1 	 entities under
+18 	 16 	 (NP\NP)/NP 	 2 	 rules under
+18 	 17 	 N/N 	 1 	 rules FASB
+22 	 12 	 (NP\NP)/NP 	 2 	 under for
+22 	 20 	 NP[nb]/N 	 1 	 under those
+22 	 21 	 N/N 	 1 	 under still
+24 	 22 	 N/NP 	 1 	 rules under
+24 	 23 	 N/N 	 1 	 rules GASB
+<\s>
+<s id="wsj_0353.8"> 32
+0 	 1 	 (NP\NP)/NP 	 1 	 Managers of
+0 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Managers are
+0 	 7 	 (S[adj]\NP)/PP 	 1 	 Managers concerned <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 entities of
+3 	 2 	 N/N 	 1 	 entities government
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 are often
+4 	 31 	 (S[dcl]\S[dcl])\NP 	 1 	 are said
+7 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 concerned are
+7 	 6 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 concerned more
+8 	 7 	 (S[adj]\NP)/PP 	 2 	 with concerned
+13 	 8 	 PP/NP 	 1 	 structure with
+13 	 9 	 NP[nb]/N 	 1 	 structure the
+13 	 10 	 N/N 	 1 	 structure political <XU>
+13 	 12 	 N/N 	 1 	 structure legal
+16 	 15 	 N/N 	 1 	 comparability financial-report
+16 	 17 	 (NP\NP)/NP 	 1 	 comparability with
+16 	 20 	 (S[dcl]\NP)/NP 	 1 	 comparability is
+19 	 17 	 (NP\NP)/NP 	 2 	 businesses with
+19 	 18 	 N/N 	 1 	 businesses profit-making
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 is n't
+20 	 22 	 (S\NP)\(S\NP) 	 2 	 is always
+20 	 31 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+24 	 23 	 (NP/NP)/(NP/NP) 	 2 	 high as
+26 	 20 	 (S[dcl]\NP)/NP 	 2 	 priority is
+26 	 24 	 NP/NP 	 1 	 priority high
+26 	 25 	 NP[nb]/N 	 1 	 priority a
+30 	 28 	 NP[nb]/N 	 1 	 spokesman a
+30 	 29 	 N/N 	 1 	 spokesman foundation
+30 	 31 	 (S[dcl]\S[dcl])\NP 	 2 	 spokesman said
+<\s>

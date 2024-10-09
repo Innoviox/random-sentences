@@ -1,0 +1,68 @@
+<s id="wsj_2120.1"> 34
+3 	 0 	 NP[nb]/N 	 1 	 company This
+3 	 1 	 N/N 	 1 	 company Los
+3 	 2 	 N/N 	 1 	 company Angeles
+3 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+10 	 5 	 NP[nb]/N 	 1 	 subsidiary its
+10 	 6 	 N/N 	 1 	 subsidiary Union
+10 	 7 	 N/N 	 1 	 subsidiary Federal
+10 	 8 	 N/N 	 1 	 subsidiary Savings
+10 	 9 	 N/N 	 1 	 subsidiary Bank
+10 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 subsidiary said
+12 	 13 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+14 	 13 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 99 than
+15 	 14 	 N/N 	 1 	 % 99
+15 	 16 	 (NP\NP)/NP 	 1 	 % of
+15 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 % were
+15 	 27 	 S[pss]\NP 	 1 	 % tendered <XB>
+19 	 18 	 ((N/N)/(N/N))/((N/N)/(N/N)) 	 3 	 1\/4 7
+20 	 19 	 (N/N)/(N/N) 	 2 	 % 1\/4
+23 	 16 	 (NP\NP)/NP 	 2 	 debentures of
+23 	 17 	 NP[nb]/N 	 1 	 debentures their
+23 	 20 	 N/N 	 1 	 debentures %
+23 	 21 	 N/N 	 1 	 debentures convertible
+23 	 22 	 N/N 	 1 	 debentures subordinated
+23 	 24 	 (S[adj]\NP)/NP 	 1 	 debentures due <XB>
+25 	 24 	 (S[adj]\NP)/NP 	 2 	 2011 due
+26 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+27 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 tendered were
+27 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 tendered for
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 conversion for
+29 	 30 	 (NP\NP)/NP 	 1 	 conversion into
+33 	 30 	 (NP\NP)/NP 	 2 	 stock into
+33 	 31 	 N/N 	 1 	 stock UnionFed
+33 	 32 	 N/N 	 1 	 stock common
+<\s>
+<s id="wsj_2120.2"> 18
+1 	 0 	 NP[nb]/N 	 1 	 conversion The
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 conversion increased
+2 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 increased by
+5 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 capital increased
+5 	 3 	 N/N 	 1 	 capital total
+5 	 4 	 N/N 	 1 	 capital equity
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 $ by
+8 	 7 	 N/N 	 1 	 $ about
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 38.5
+11 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to increased
+13 	 11 	 PP/NP 	 1 	 total to
+13 	 12 	 NP[nb]/N 	 1 	 total a
+13 	 14 	 (NP\NP)/NP 	 1 	 total of
+15 	 14 	 (NP\NP)/NP 	 2 	 $ of
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 156.8
+<\s>
+<s id="wsj_2120.3"> 15
+1 	 0 	 N/N 	 1 	 Federal Union
+1 	 9 	 (S[dcl]\NP)/NP 	 1 	 Federal has
+5 	 4 	 (N/N)/(N/N) 	 2 	 insured federally
+7 	 3 	 NP[nb]/N 	 1 	 bank a
+7 	 5 	 N/N 	 1 	 bank insured
+7 	 6 	 N/N 	 1 	 bank savings
+7 	 9 	 (S[dcl]\NP)/NP 	 1 	 bank has
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 $ has
+10 	 13 	 (NP\NP)/NP 	 1 	 $ in
+12 	 10 	 N/N[num] 	 1 	 billion $
+12 	 11 	 N/N 	 1 	 billion 2.4
+14 	 13 	 (NP\NP)/NP 	 2 	 assets in
+<\s>

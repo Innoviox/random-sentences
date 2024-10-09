@@ -1,0 +1,115 @@
+<s id="wsj_1343.1"> 26
+4 	 0 	 N/N 	 1 	 Co. American
+4 	 1 	 N/N 	 1 	 Co. Telephone
+4 	 2 	 N/N 	 1 	 Co. &
+4 	 3 	 N/N 	 1 	 Co. Telegraph
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+6 	 8 	 (S[b]\NP)/NP 	 1 	 it spend <XB>
+6 	 13 	 (S[b]\NP)/NP 	 1 	 it build <XB>
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 spend will
+9 	 8 	 (S[b]\NP)/NP 	 2 	 $ spend
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 20
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+15 	 13 	 (S[b]\NP)/NP 	 2 	 factory build
+15 	 14 	 NP[nb]/N 	 1 	 factory a
+15 	 16 	 (NP\NP)/NP 	 1 	 factory in
+17 	 16 	 (NP\NP)/NP 	 2 	 Guadalajara in
+19 	 16 	 (NP\NP)/NP 	 2 	 Mexico in
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+25 	 22 	 (S[b]\NP)/NP 	 2 	 machines make
+25 	 23 	 N/N 	 1 	 machines telephone
+25 	 24 	 N/N 	 1 	 machines answering
+<\s>
+<s id="wsj_1343.2"> 18
+0 	 1 	 (NP\NP)/NP 	 1 	 Construction of
+0 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Construction will
+0 	 6 	 S[b]\NP 	 1 	 Construction begin <XB>
+4 	 1 	 (NP\NP)/NP 	 2 	 facility of
+4 	 2 	 NP[nb]/N 	 1 	 facility the
+4 	 3 	 N/N 	 1 	 facility 265,000-square-foot
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 begin will
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 begin year
+6 	 10 	 (((S\NP)\(S\NP))/(S[pt]\NP))/NP 	 2 	 begin with
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+11 	 10 	 (((S\NP)\(S\NP))/(S[pt]\NP))/NP 	 4 	 production with
+11 	 12 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 production expected <XB>
+11 	 14 	 S[b]\NP 	 1 	 production start <XB>
+12 	 10 	 (((S\NP)\(S\NP))/(S[pt]\NP))/NP 	 3 	 expected with
+13 	 12 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to expected
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 start to
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 start in
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 1991 in
+17 	 16 	 N/N 	 1 	 1991 late
+<\s>
+<s id="wsj_1343.3"> 25
+2 	 0 	 (S/S)/(S[adj]\NP) 	 2 	 operational When
+2 	 1 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operational fully
+6 	 4 	 NP[nb]/N 	 1 	 factory the
+6 	 5 	 N/N 	 1 	 factory Guadalajara
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 factory will
+6 	 8 	 (S[b]\NP)/NP 	 1 	 factory employ <XB>
+6 	 13 	 (S[b]\NP)/NP 	 1 	 factory have <XU>
+7 	 0 	 (S/S)/(S[adj]\NP) 	 1 	 will When
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 employ will
+10 	 9 	 (N/N)/(N/N) 	 2 	 1,500 about
+11 	 8 	 (S[b]\NP)/NP 	 2 	 workers employ
+11 	 10 	 N/N 	 1 	 workers 1,500
+13 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+16 	 13 	 (S[b]\NP)/NP 	 2 	 expenses have
+16 	 14 	 N/N 	 1 	 expenses annual
+16 	 15 	 N/N 	 1 	 expenses operating
+16 	 17 	 (NP\NP)/NP 	 1 	 expenses of
+18 	 17 	 (NP\NP)/NP 	 2 	 $ of
+18 	 21 	 (N\N)/N 	 1 	 $ to
+20 	 18 	 N/N[num] 	 1 	 million $
+20 	 19 	 N/N 	 1 	 million 5
+22 	 21 	 (N\N)/N 	 2 	 $ to
+24 	 22 	 N/N[num] 	 1 	 million $
+24 	 23 	 N/N 	 1 	 million 6
+<\s>
+<s id="wsj_1343.4"> 16
+2 	 0 	 NP[nb]/N 	 1 	 representative An
+2 	 1 	 N/N 	 1 	 representative AT&T
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 representative said
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+7 	 5 	 NP[nb]/N 	 1 	 factory the
+7 	 6 	 N/N 	 1 	 factory Guadalajara
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 factory will
+7 	 9 	 (S[b]\NP)/NP 	 1 	 factory make <XB>
+8 	 4 	 S[em]/S[dcl] 	 1 	 will that
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make will
+12 	 9 	 (S[b]\NP)/NP 	 2 	 line make
+12 	 10 	 NP[nb]/N 	 1 	 line a
+12 	 11 	 N/N 	 1 	 line full
+12 	 13 	 (NP\NP)/NP 	 1 	 line of
+15 	 13 	 (NP\NP)/NP 	 2 	 machines of
+15 	 14 	 N/N 	 1 	 machines answering
+<\s>
+<s id="wsj_1343.5"> 14
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 AT&T has
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 has already
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 factory has
+4 	 3 	 NP[nb]/N 	 1 	 factory a
+4 	 5 	 (NP\NP)/NP 	 1 	 factory in
+6 	 5 	 (NP\NP)/NP 	 2 	 Matamoros in
+8 	 5 	 (NP\NP)/NP 	 2 	 Mexico in
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 devices make
+13 	 12 	 N/N 	 1 	 devices electrical
+<\s>
+<s id="wsj_1343.6"> 12
+0 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 It purchases
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 purchases also
+5 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 products purchases
+5 	 3 	 N/N 	 1 	 products data
+5 	 4 	 N/N 	 1 	 products systems
+6 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from purchases
+8 	 6 	 PP/NP 	 1 	 manufacturer from
+8 	 7 	 NP[nb]/N 	 1 	 manufacturer a
+8 	 9 	 S[pss]\NP 	 1 	 manufacturer based <XB>
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 Monterrey in
+<\s>

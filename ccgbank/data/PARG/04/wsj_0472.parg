@@ -1,0 +1,976 @@
+<s id="wsj_0472.1"> 25
+1 	 0 	 N/N 	 1 	 Co. Boeing
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Co. 's
+4 	 2 	 (NP[nb]/N)\NP 	 1 	 profit 's
+4 	 3 	 N/N 	 1 	 profit third-quarter
+4 	 5 	 S[dcl]\NP 	 1 	 profit leaped
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 leaped %
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 68
+11 	 10 	 N/N 	 1 	 Street Wall
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Street 's
+13 	 12 	 (NP[nb]/N)\NP 	 1 	 attention 's
+13 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 attention was
+13 	 15 	 (S[pss]\NP)/PP 	 1 	 attention focused <XB>
+15 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 focused was
+16 	 15 	 (S[pss]\NP)/PP 	 2 	 on focused
+19 	 16 	 PP/NP 	 1 	 line on
+19 	 17 	 NP[nb]/N 	 1 	 line the
+19 	 18 	 N/N 	 1 	 line picket
+24 	 16 	 PP/NP 	 1 	 line on
+24 	 21 	 NP/NP 	 1 	 line not
+24 	 22 	 NP[nb]/N 	 1 	 line the
+24 	 23 	 N/N 	 1 	 line bottom
+<\s>
+<s id="wsj_0472.2"> 35
+1 	 0 	 (S/S)/NP 	 2 	 fact In
+5 	 3 	 NP[nb]/N 	 1 	 report the
+5 	 4 	 N/N 	 1 	 report earnings
+5 	 6 	 S[dcl]\NP 	 1 	 report unfolded
+6 	 0 	 (S/S)/NP 	 1 	 unfolded In
+6 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 unfolded as
+8 	 9 	 (NP\NP)/NP 	 1 	 representatives of
+8 	 22 	 S[dcl]\NP 	 1 	 representatives came
+11 	 10 	 NP[nb]/N 	 1 	 world the
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 world 's
+16 	 9 	 (NP\NP)/NP 	 2 	 maker of
+16 	 12 	 (NP[nb]/N)\NP 	 1 	 maker 's
+16 	 13 	 N/N 	 1 	 maker No.
+16 	 14 	 N/N 	 1 	 maker 1
+16 	 15 	 N/N 	 1 	 maker jet
+21 	 9 	 (NP\NP)/NP 	 2 	 union of
+21 	 18 	 NP[nb]/N 	 1 	 union the
+21 	 19 	 N/N 	 1 	 union striking
+21 	 20 	 N/N 	 1 	 union Machinists
+22 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 came as
+22 	 23 	 ((S\NP)\(S\NP))/PP 	 2 	 came back
+22 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 came for
+24 	 23 	 ((S\NP)\(S\NP))/PP 	 3 	 to back
+27 	 24 	 PP/NP 	 1 	 table to
+27 	 25 	 NP[nb]/N 	 1 	 table the
+27 	 26 	 N/N 	 1 	 table negotiating
+31 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 meeting for
+31 	 29 	 NP[nb]/N 	 1 	 meeting their
+31 	 30 	 N/N 	 1 	 meeting first
+31 	 32 	 (NP\NP)/NP 	 1 	 meeting in
+34 	 32 	 (NP\NP)/NP 	 2 	 weeks in
+34 	 33 	 N/N 	 1 	 weeks two
+<\s>
+<s id="wsj_0472.3"> 35
+1 	 0 	 N/N 	 1 	 Hammond Doug
+1 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 Hammond said
+5 	 3 	 NP[nb]/N 	 1 	 mediator the
+5 	 4 	 N/N 	 1 	 mediator federal
+5 	 6 	 (NP\NP)/NP 	 1 	 mediator in
+5 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 mediator said
+7 	 6 	 (NP\NP)/NP 	 2 	 Seattle in
+7 	 9 	 (NP\NP)/S[dcl] 	 1 	 Seattle where
+10 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Boeing is
+10 	 12 	 S[pss]\NP 	 1 	 Boeing based <XB>
+11 	 9 	 (NP\NP)/S[dcl] 	 2 	 is where
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 based is
+16 	 15 	 NP[nb]/N 	 1 	 parties the
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 parties will
+16 	 18 	 (S[b]\NP)/(S[to]\NP) 	 1 	 parties continue <XB>
+16 	 20 	 S[b]\NP 	 1 	 parties sit <XB>
+17 	 14 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue will
+19 	 18 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to continue
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sit to
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 sit down
+20 	 22 	 (S\NP)\(S\NP) 	 2 	 sit daily
+20 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 sit until
+27 	 24 	 NP[nb]/N 	 1 	 proposal a
+27 	 25 	 N/N 	 1 	 proposal new
+27 	 26 	 N/N 	 1 	 proposal settlement
+27 	 28 	 S[dcl]\NP 	 1 	 proposal emerges
+28 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 emerges until
+31 	 30 	 NP[nb]/N 	 1 	 talks the
+31 	 32 	 S[dcl]\NP 	 1 	 talks break
+32 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 break until
+32 	 33 	 (S\NP)\(S\NP) 	 2 	 break off
+32 	 34 	 (S\NP)\(S\NP) 	 2 	 break again
+<\s>
+<s id="wsj_0472.4"> 27
+2 	 0 	 (S/S)/NP 	 2 	 progress Despite
+2 	 1 	 NP[nb]/N 	 1 	 progress the
+4 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 Boeing indicated
+5 	 0 	 (S/S)/NP 	 1 	 indicated Despite
+6 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that indicated
+9 	 7 	 NP[nb]/N 	 1 	 stoppage the
+9 	 8 	 N/N 	 1 	 stoppage work
+9 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 stoppage will
+9 	 18 	 (S[b]\NP)/NP 	 1 	 stoppage have <XB>
+12 	 11 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 in now
+15 	 12 	 ((S\NP)/(S\NP))/NP 	 3 	 day in
+15 	 13 	 NP[nb]/N 	 1 	 day its
+15 	 14 	 N/N 	 1 	 day 27th
+17 	 6 	 S[em]/S[dcl] 	 1 	 will that
+17 	 12 	 ((S\NP)/(S\NP))/NP 	 2 	 will in
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+22 	 18 	 (S[b]\NP)/NP 	 2 	 impact have
+22 	 19 	 NP[nb]/N 	 1 	 impact a
+22 	 20 	 N/N 	 1 	 impact serious
+22 	 21 	 N/N 	 1 	 impact adverse
+22 	 23 	 (NP\NP)/NP 	 1 	 impact on
+26 	 23 	 (NP\NP)/NP 	 2 	 quarter on
+26 	 24 	 NP[nb]/N 	 1 	 quarter the
+26 	 25 	 N/N 	 1 	 quarter current
+<\s>
+<s id="wsj_0472.5"> 28
+3 	 0 	 (S/S)/NP 	 2 	 quarter For
+3 	 1 	 NP[nb]/N 	 1 	 quarter the
+3 	 2 	 N/N 	 1 	 quarter third
+5 	 6 	 S[dcl]\NP 	 1 	 net rose
+6 	 0 	 (S/S)/NP 	 1 	 rose For
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+6 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 242
+13 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+13 	 15 	 (NP\NP)/N 	 1 	 $ a
+14 	 13 	 N/N[num] 	 1 	 1.05 $
+16 	 15 	 (NP\NP)/N 	 2 	 share a
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 144
+25 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+25 	 24 	 N/N 	 1 	 cents 63
+25 	 26 	 (NP\NP)/N 	 1 	 cents a
+27 	 26 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0472.6"> 24
+0 	 1 	 S[dcl]\NP 	 1 	 Sales climbed
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 climbed %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 climbed to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 climbed from
+1 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 climbed as
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 71
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 6.36
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 3.72
+14 	 13 	 NP[nb]/N 	 1 	 company the
+14 	 15 	 (S[dcl]\NP)/PP 	 1 	 company capitalized
+15 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 capitalized as
+16 	 15 	 (S[dcl]\NP)/PP 	 2 	 on capitalized
+20 	 16 	 PP/NP 	 1 	 demand on
+20 	 17 	 NP[nb]/N 	 1 	 demand the
+20 	 18 	 N/N 	 1 	 demand ravenous
+20 	 19 	 N/N 	 1 	 demand global
+20 	 21 	 (NP\NP)/NP 	 1 	 demand for
+23 	 21 	 (NP\NP)/NP 	 2 	 airliners for
+23 	 22 	 N/N 	 1 	 airliners commercial
+<\s>
+<s id="wsj_0472.7"> 39
+1 	 2 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 1 	 it 's
+2 	 0 	 (S/S)/S[dcl] 	 2 	 's Because
+3 	 2 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 3 	 impossible 's
+4 	 2 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 2 	 to 's
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 gauge to
+6 	 5 	 (S[b]\NP)/S[qem] 	 2 	 how gauge
+7 	 6 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 2 	 long how
+9 	 8 	 NP[nb]/N 	 1 	 walkout the
+9 	 10 	 (NP\NP)/NP 	 1 	 walkout by
+9 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 walkout will
+9 	 17 	 S[b]\NP 	 1 	 walkout last <XB>
+13 	 10 	 (NP\NP)/NP 	 2 	 rank by
+13 	 11 	 N/N 	 1 	 rank 55,000
+13 	 12 	 N/N 	 1 	 rank Machinists
+15 	 10 	 (NP\NP)/NP 	 2 	 file by
+15 	 11 	 N/N 	 1 	 file 55,000
+15 	 12 	 N/N 	 1 	 file Machinists
+16 	 6 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 1 	 will how
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 last will
+21 	 19 	 NP[nb]/N 	 1 	 impact the
+21 	 20 	 N/N 	 1 	 impact precise
+21 	 22 	 (NP\NP)/NP 	 1 	 impact on
+21 	 35 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 impact could
+21 	 38 	 S[pss]\NP 	 1 	 impact determined <XB>
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 Boeing 's
+25 	 22 	 (NP\NP)/NP 	 2 	 sales on
+25 	 24 	 (NP[nb]/N)\NP 	 1 	 sales 's
+27 	 22 	 (NP\NP)/NP 	 2 	 earnings on
+27 	 24 	 (NP[nb]/N)\NP 	 1 	 earnings 's
+30 	 22 	 (NP\NP)/NP 	 2 	 flow on
+30 	 24 	 (NP[nb]/N)\NP 	 1 	 flow 's
+30 	 29 	 N/N 	 1 	 flow cash
+34 	 22 	 (NP\NP)/NP 	 2 	 position on
+34 	 24 	 (NP[nb]/N)\NP 	 1 	 position 's
+34 	 32 	 N/N 	 1 	 position short-term
+34 	 33 	 N/N 	 1 	 position investment
+35 	 0 	 (S/S)/S[dcl] 	 1 	 could Because
+35 	 36 	 (S\NP)\(S\NP) 	 2 	 could n't
+37 	 35 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+38 	 37 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 determined be
+<\s>
+<s id="wsj_0472.8"> 27
+2 	 0 	 NP[nb]/N 	 1 	 community The
+2 	 1 	 N/N 	 1 	 community investment
+2 	 7 	 (S[dcl]\NP)/S[em] 	 1 	 community believes
+7 	 4 	 (S\NP)/(S\NP) 	 2 	 believes however
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 believes strongly
+8 	 7 	 (S[dcl]\NP)/S[em] 	 2 	 that believes
+10 	 9 	 NP[nb]/N 	 1 	 strike the
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 strike will
+10 	 13 	 S[pss]\NP 	 1 	 strike settled <XB>
+11 	 8 	 S[em]/S[dcl] 	 1 	 will that
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+13 	 12 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 settled be
+13 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 settled before
+15 	 16 	 (S[dcl]\NP[thr])/NP 	 1 	 there is
+16 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is before
+19 	 16 	 (S[dcl]\NP[thr])/NP 	 2 	 effect is
+19 	 17 	 NP[nb]/N 	 1 	 effect any
+19 	 18 	 N/N 	 1 	 effect lasting
+19 	 20 	 (NP\NP)/NP 	 1 	 effect on
+22 	 20 	 (NP\NP)/NP 	 2 	 Boeing on
+22 	 21 	 NP/NP 	 1 	 Boeing either
+26 	 20 	 (NP\NP)/NP 	 2 	 force on
+26 	 21 	 NP/NP 	 1 	 force either
+26 	 24 	 NP[nb]/N 	 1 	 force its
+26 	 25 	 N/N 	 1 	 force work
+<\s>
+<s id="wsj_0472.9"> 28
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 company 's
+5 	 2 	 (NP[nb]/N)\NP 	 1 	 backlog 's
+5 	 3 	 N/N 	 1 	 backlog total
+5 	 4 	 N/N 	 1 	 backlog firm
+5 	 6 	 (NP\NP)/NP 	 1 	 backlog of
+5 	 9 	 (NP\NP)/NP 	 1 	 backlog at
+5 	 12 	 (S[dcl]\NP)/PP 	 1 	 backlog stood
+8 	 6 	 (NP\NP)/NP 	 2 	 orders of
+8 	 7 	 N/N 	 1 	 orders unfilled
+10 	 9 	 (NP\NP)/NP 	 2 	 Sept. at
+11 	 10 	 N/N[num] 	 1 	 30 Sept.
+12 	 20 	 ((S\NP)\(S\NP))/PP 	 2 	 stood compared
+13 	 12 	 (S[dcl]\NP)/PP 	 2 	 at stood
+16 	 13 	 PP/NP 	 1 	 $ at
+16 	 14 	 NP[nb]/N 	 1 	 $ a
+16 	 15 	 N/N 	 1 	 $ mighty
+18 	 16 	 N/N[num] 	 1 	 billion $
+18 	 17 	 N/N 	 1 	 billion 69.1
+21 	 20 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+22 	 21 	 PP/NP 	 1 	 $ with
+22 	 25 	 (NP\NP)/NP 	 1 	 $ at
+24 	 22 	 N/N[num] 	 1 	 billion $
+24 	 23 	 N/N 	 1 	 billion 53.6
+27 	 25 	 (NP\NP)/NP 	 2 	 end at
+27 	 26 	 NP[nb]/N 	 1 	 end the
+<\s>
+<s id="wsj_0472.10"> 35
+2 	 1 	 NP[nb]/N 	 1 	 company the
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 company could
+2 	 4 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 company see <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 could Although
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 see could
+4 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 see if
+6 	 4 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 revenue see
+6 	 5 	 N/N 	 1 	 revenue fourth-quarter
+6 	 7 	 S[b]\NP 	 1 	 revenue shrink <XB>
+7 	 4 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 shrink see
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 shrink by
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ by
+10 	 9 	 N/N 	 1 	 $ nearly
+12 	 10 	 N/N[num] 	 1 	 billion $
+12 	 11 	 N/N 	 1 	 billion 5
+14 	 15 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it is
+14 	 17 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 it able <XB>
+15 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is if
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 is n't
+17 	 15 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 able is
+18 	 17 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 deliver to
+19 	 23 	 ((S\NP)\(S\NP))/N 	 2 	 deliver this
+21 	 20 	 (N/N)/(N/N) 	 2 	 more any
+22 	 19 	 (S[b]\NP)/NP 	 2 	 planes deliver
+22 	 21 	 N/N 	 1 	 planes more
+24 	 23 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+27 	 26 	 NP[nb]/N 	 1 	 dollars those
+27 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 dollars would
+27 	 32 	 S[pss]\NP 	 1 	 dollars deferred <XB>
+29 	 0 	 (S/S)/S[dcl] 	 1 	 would Although
+29 	 28 	 (S\NP)/(S\NP) 	 2 	 would actually
+29 	 30 	 (S\NP)\(S\NP) 	 2 	 would just
+31 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+32 	 31 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 deferred be
+32 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 deferred until
+34 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 1990 until
+<\s>
+<s id="wsj_0472.11"> 19
+2 	 1 	 NP[nb]/N 	 1 	 company the
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 company is
+2 	 4 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 company certain <XB>
+3 	 0 	 S/S 	 1 	 is And
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 certain is
+5 	 4 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to certain
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 get out
+6 	 10 	 ((S\NP)\(S\NP))/S 	 2 	 get with
+9 	 6 	 (S[b]\NP)/NP 	 2 	 aircraft get
+9 	 8 	 NP[nb]/N 	 1 	 aircraft some
+12 	 17 	 (S\NP)/NP 	 1 	 supervisors on
+16 	 14 	 N/N 	 1 	 employees other
+16 	 15 	 N/N 	 1 	 employees non-striking
+16 	 17 	 (S\NP)/NP 	 1 	 employees on
+17 	 10 	 ((S\NP)\(S\NP))/S 	 3 	 on with
+17 	 11 	 S/S 	 1 	 on just
+18 	 17 	 (S\NP)/NP 	 2 	 hand on
+<\s>
+<s id="wsj_0472.12"> 36
+2 	 1 	 NP[nb]/N 	 1 	 union the
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 union rejected
+3 	 0 	 (S/S)/S[dcl] 	 2 	 rejected Before
+5 	 4 	 NP[nb]/N 	 1 	 company the
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 company 's
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 offer rejected
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 offer 's
+10 	 9 	 NP[nb]/N 	 1 	 strike the
+10 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 strike was
+10 	 12 	 S[pss]\NP 	 1 	 strike launched <XB>
+11 	 0 	 (S/S)/S[dcl] 	 2 	 was Before
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 launched was
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 launched with
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 shift with
+16 	 14 	 NP[nb]/N 	 1 	 shift the
+16 	 15 	 N/N 	 1 	 shift graveyard
+16 	 17 	 (NP\NP)/NP 	 1 	 shift of
+18 	 17 	 (NP\NP)/NP 	 2 	 Oct. of
+19 	 18 	 N/N[num] 	 1 	 4 Oct.
+21 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Boeing had
+21 	 24 	 (S[ng]\NP)/PP 	 1 	 Boeing counting <XB>
+22 	 0 	 (S/S)/S[dcl] 	 1 	 had Before
+23 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+24 	 23 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 counting been
+25 	 24 	 (S[ng]\NP)/PP 	 2 	 on counting
+26 	 25 	 PP/(S[ng]\NP) 	 1 	 turning on
+26 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 turning out
+26 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 turning in
+28 	 26 	 (S[ng]\NP)/NP 	 2 	 aircraft turning
+28 	 27 	 N/N 	 1 	 aircraft 96
+31 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 door out
+31 	 30 	 NP[nb]/N 	 1 	 door the
+35 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 period in
+35 	 33 	 NP[nb]/N 	 1 	 period the
+35 	 34 	 N/N 	 1 	 period present
+<\s>
+<s id="wsj_0472.13"> 15
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That included
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 21 included
+2 	 3 	 (NP\NP)/NP 	 1 	 21 of
+5 	 4 	 NP[nb]/N 	 1 	 company the
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 company 's
+9 	 3 	 (NP\NP)/NP 	 2 	 jets of
+9 	 6 	 (NP[nb]/N)\NP 	 1 	 jets 's
+9 	 7 	 N/N 	 1 	 jets 747-400
+9 	 8 	 N/N 	 1 	 jets jumbo
+13 	 12 	 (N/N)/(N/N) 	 2 	 successful most
+14 	 3 	 (NP\NP)/NP 	 2 	 product of
+14 	 11 	 NP[nb]/N 	 1 	 product its
+14 	 13 	 N/N 	 1 	 product successful
+<\s>
+<s id="wsj_0472.14"> 18
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 's not
+1 	 7 	 (S[dcl]\S[dcl])/NP 	 1 	 's said
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 picture 's
+5 	 3 	 NP[nb]/N 	 1 	 picture a
+5 	 4 	 N/N 	 1 	 picture pretty
+9 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 Smith said
+9 	 8 	 N/N 	 1 	 Smith David
+12 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst said
+12 	 11 	 NP[nb]/N 	 1 	 analyst an
+12 	 13 	 (NP\NP)/NP 	 1 	 analyst with
+17 	 13 	 (NP\NP)/NP 	 2 	 Associates with
+17 	 14 	 N/N 	 1 	 Associates Raymond
+17 	 15 	 N/N 	 1 	 Associates James
+17 	 16 	 N/N 	 1 	 Associates &
+<\s>
+<s id="wsj_0472.15"> 13
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+1 	 4 	 (S[b]\NP)/NP 	 1 	 it mean <XB>
+2 	 0 	 S/S 	 1 	 would But
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 would just
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 mean would
+4 	 12 	 (S\NP)\(S\NP) 	 2 	 mean year
+10 	 4 	 (S[b]\NP)/NP 	 2 	 quarter mean
+10 	 5 	 NP[nb]/N 	 1 	 quarter a
+10 	 6 	 N/N 	 1 	 quarter great
+10 	 7 	 N/N 	 1 	 quarter first <XU>
+10 	 9 	 N/N 	 1 	 quarter second
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+<\s>
+<s id="wsj_0472.16"> 23
+1 	 0 	 N/N 	 1 	 Brannon Phillip
+1 	 2 	 (NP\NP)/NP 	 1 	 Brannon of
+1 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Brannon added
+6 	 2 	 (NP\NP)/NP 	 2 	 Markets of
+6 	 3 	 N/N 	 1 	 Markets Merrill
+6 	 4 	 N/N 	 1 	 Markets Lynch
+6 	 5 	 N/N 	 1 	 Markets Capital
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 You do
+9 	 12 	 (S[b]\NP)/(S[to]\NP) 	 1 	 You want <XB>
+9 	 14 	 (S[b]\NP)/NP 	 1 	 You minimize <XB>
+9 	 17 	 (S[b]\NP)/S[dcl] 	 1 	 You say <XU>
+10 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 do added
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 do n't
+12 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 want do
+13 	 12 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to want
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 minimize to
+15 	 14 	 (S[b]\NP)/NP 	 2 	 this minimize
+17 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 say to
+18 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 nobody is
+18 	 20 	 (S[ng]\NP)/PP 	 1 	 nobody looking <XB>
+19 	 17 	 (S[b]\NP)/S[dcl] 	 2 	 is say
+20 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 looking is
+21 	 20 	 (S[ng]\NP)/PP 	 2 	 at looking
+22 	 21 	 PP/NP 	 1 	 it at
+<\s>
+<s id="wsj_0472.17"> 18
+2 	 1 	 NP[nb]/N 	 1 	 strike the
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 strike has
+2 	 5 	 S[pt]\NP 	 1 	 strike gone <XB>
+3 	 0 	 S/S 	 1 	 has But
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 has n't
+5 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 gone has
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 gone on
+5 	 8 	 ((S\NP)\(S\NP))/S[for] 	 2 	 gone enough
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 enough long
+9 	 8 	 ((S\NP)\(S\NP))/S[for] 	 3 	 for enough
+10 	 9 	 (S[for]/(S[to]\NP))/NP 	 2 	 Boeing for
+10 	 12 	 (S[b]\NP)/NP 	 1 	 Boeing lose <XB>
+11 	 9 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lose to
+12 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 lose in
+13 	 12 	 (S[b]\NP)/NP 	 2 	 business lose
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 sense in
+17 	 15 	 NP[nb]/N 	 1 	 sense any
+17 	 16 	 N/N 	 1 	 sense real
+<\s>
+<s id="wsj_0472.18"> 30
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That 's
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 reason 's
+4 	 2 	 NP[nb]/N 	 1 	 reason the
+4 	 3 	 N/N 	 1 	 reason primary
+6 	 5 	 NP[nb]/N 	 1 	 company the
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 company 's
+9 	 7 	 (NP[nb]/N)\NP 	 1 	 price 's
+9 	 8 	 N/N 	 1 	 price share
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 price has
+9 	 11 	 S[pt]\NP 	 1 	 price held <XB>
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 held has
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 held up
+11 	 14 	 (S\NP)\(S\NP) 	 2 	 held well
+11 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 held when
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 well so
+15 	 17 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 when in
+19 	 18 	 N/N 	 1 	 Smith Mr.
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 Smith 's
+21 	 17 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 words in
+21 	 20 	 (NP[nb]/N)\NP 	 1 	 words 's
+24 	 23 	 N/N 	 1 	 companies most
+24 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 companies would
+24 	 27 	 S[pt]\NP 	 1 	 companies unraveled <XB>
+24 	 29 	 S[adj]\NP 	 1 	 companies now <XB>
+25 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 would when
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+27 	 26 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 unraveled have
+27 	 28 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 unraveled by
+29 	 28 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 now by
+<\s>
+<s id="wsj_0472.19"> 22
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+8 	 9 	 (S[dcl]\NP)/PP 	 1 	 Boeing closed
+9 	 0 	 (S/S)/NP 	 1 	 closed In
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 closed yesterday
+9 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 closed off
+11 	 9 	 (S[dcl]\NP)/PP 	 2 	 at closed
+12 	 11 	 PP/NP 	 1 	 $ at
+12 	 14 	 (NP\NP)/N 	 1 	 $ a
+13 	 12 	 N/N[num] 	 1 	 54.50 $
+15 	 14 	 (NP\NP)/N 	 2 	 share a
+21 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 cents off
+21 	 18 	 NP[nb]/N 	 1 	 cents a
+21 	 19 	 N/N 	 1 	 cents scant
+21 	 20 	 N/N 	 1 	 cents 12.5
+<\s>
+<s id="wsj_0472.20"> 14
+2 	 3 	 S[dcl]\NP 	 1 	 Boeing went
+2 	 10 	 (S[dcl]\NP)/NP 	 1 	 Boeing played <XU>
+3 	 0 	 S/S 	 1 	 went Still
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 went through
+8 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 gymnastics through
+8 	 5 	 NP[nb]/N 	 1 	 gymnastics its
+8 	 6 	 N/N 	 1 	 gymnastics normal
+8 	 7 	 N/N 	 1 	 gymnastics verbal
+10 	 0 	 S/S 	 1 	 played Still
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 played up
+13 	 10 	 (S[dcl]\NP)/NP 	 2 	 downside played
+13 	 12 	 NP[nb]/N 	 1 	 downside the
+<\s>
+<s id="wsj_0472.21"> 24
+2 	 0 	 (S/S)/NP 	 2 	 statement In
+2 	 1 	 NP[nb]/N 	 1 	 statement a
+6 	 4 	 N/N 	 1 	 Shrontz Chairman
+6 	 5 	 N/N 	 1 	 Shrontz Frank
+6 	 7 	 (S[dcl]\NP)/S[em] 	 1 	 Shrontz asserted
+7 	 0 	 (S/S)/NP 	 1 	 asserted In
+8 	 7 	 (S[dcl]\NP)/S[em] 	 2 	 that asserted
+10 	 9 	 NP[nb]/N 	 1 	 company the
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 company faces
+11 	 8 	 S[em]/S[dcl] 	 1 	 faces that
+11 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 faces on
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 challenges faces
+13 	 12 	 N/N 	 1 	 challenges significant
+15 	 11 	 (S[dcl]\NP)/NP 	 2 	 risks faces
+15 	 12 	 N/N 	 1 	 risks significant
+23 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 contracts on
+23 	 18 	 NP[nb]/N 	 1 	 contracts both
+23 	 19 	 NP\NP 	 1 	 contracts its
+23 	 20 	 N/N 	 1 	 contracts commercial <XU>
+23 	 22 	 N/N 	 1 	 contracts government
+<\s>
+<s id="wsj_0472.22"> 49
+1 	 0 	 (S/S)/NP 	 2 	 instance For
+3 	 4 	 (S[dcl]\NP)/S[em] 	 1 	 he noted
+4 	 0 	 (S/S)/NP 	 1 	 noted For
+5 	 4 	 (S[dcl]\NP)/S[em] 	 2 	 that noted
+6 	 7 	 (NP\NP)/NP 	 1 	 spending on
+6 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 spending is
+6 	 11 	 S[ng]\NP 	 1 	 spending shrinking <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 programs on
+9 	 8 	 N/N 	 1 	 programs Pentagon
+10 	 5 	 S[em]/S[dcl] 	 1 	 is that
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 shrinking is
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 Boeing is
+15 	 5 	 S[em]/S[dcl] 	 1 	 is that
+19 	 15 	 (S[dcl]\NP)/NP 	 2 	 contractor is
+19 	 16 	 NP/NP 	 1 	 contractor either
+19 	 17 	 NP[nb]/N 	 1 	 contractor the
+19 	 18 	 N/N 	 1 	 contractor prime
+19 	 24 	 (NP\NP)/NP 	 1 	 contractor on
+23 	 15 	 (S[dcl]\NP)/NP 	 2 	 supplier is
+23 	 16 	 NP/NP 	 1 	 supplier either
+23 	 21 	 NP[nb]/N 	 1 	 supplier a
+23 	 22 	 N/N 	 1 	 supplier major
+23 	 24 	 (NP\NP)/NP 	 1 	 supplier on
+28 	 24 	 (NP\NP)/NP 	 2 	 projects on
+28 	 25 	 N/N 	 1 	 projects many
+28 	 26 	 N/N 	 1 	 projects important
+28 	 27 	 N/N 	 1 	 projects military
+28 	 30 	 (NP\NP)/NP 	 1 	 projects including
+34 	 30 	 (NP\NP)/NP 	 2 	 bomber including
+34 	 31 	 NP[nb]/N 	 1 	 bomber the
+34 	 32 	 N/N 	 1 	 bomber B-2
+34 	 33 	 N/N 	 1 	 bomber Stealth
+40 	 30 	 (NP\NP)/NP 	 2 	 aircraft including
+40 	 36 	 NP[nb]/N 	 1 	 aircraft the
+40 	 37 	 N/N 	 1 	 aircraft V-22
+40 	 38 	 N/N 	 1 	 aircraft Osprey
+40 	 39 	 N/N 	 1 	 aircraft tilt-rotor
+44 	 42 	 NP[nb]/N 	 1 	 Force the
+44 	 43 	 N/N 	 1 	 Force Air
+44 	 45 	 (NP[nb]/N)\NP 	 2 	 Force 's
+48 	 30 	 (NP\NP)/NP 	 2 	 fighter including
+48 	 45 	 (NP[nb]/N)\NP 	 1 	 fighter 's
+48 	 46 	 N/N 	 1 	 fighter next-generation
+48 	 47 	 N/N 	 1 	 fighter tactical
+<\s>
+<s id="wsj_0472.23"> 25
+1 	 0 	 (S/S)/PP 	 2 	 of Because
+3 	 1 	 PP/NP 	 1 	 overruns of
+3 	 2 	 N/N 	 1 	 overruns cost
+3 	 4 	 (NP\NP)/NP 	 1 	 overruns on
+7 	 4 	 (NP\NP)/NP 	 2 	 work on
+7 	 5 	 N/N 	 1 	 work fixed-price
+7 	 6 	 N/N 	 1 	 work military
+10 	 9 	 N/N 	 1 	 Shrontz Mr.
+10 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 Shrontz said
+14 	 13 	 NP[nb]/N 	 1 	 company the
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 company 's
+17 	 15 	 (NP[nb]/N)\NP 	 1 	 business 's
+17 	 16 	 N/N 	 1 	 business defense
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 business will
+17 	 19 	 (S[b]\NP)/NP 	 1 	 business record <XB>
+18 	 0 	 (S/S)/PP 	 1 	 will Because
+18 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said <XU>
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 record will
+19 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 record in
+22 	 19 	 (S[b]\NP)/NP 	 2 	 loss record
+22 	 20 	 NP[nb]/N 	 1 	 loss a
+22 	 21 	 N/N 	 1 	 loss significant
+24 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 1989 in
+<\s>
+<s id="wsj_0472.24"> 30
+3 	 2 	 N/N 	 1 	 Shrontz Mr.
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Shrontz added
+7 	 6 	 N/N 	 1 	 increases production-rate
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 increases that
+7 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 increases have <XB>
+7 	 11 	 S[pss]\NP 	 1 	 increases implemented <XB>
+7 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 increases have
+7 	 23 	 (S[pt]\NP)/PP 	 1 	 increases resulted <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have that
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+11 	 10 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 implemented been
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 implemented on
+21 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 programs on
+21 	 13 	 NP[nb]/N 	 1 	 programs the
+21 	 14 	 N/N 	 1 	 programs 737
+21 	 16 	 N/N 	 1 	 programs 747
+21 	 18 	 N/N 	 1 	 programs 757
+21 	 20 	 N/N 	 1 	 programs 767
+22 	 0 	 S/S 	 1 	 have Moreover
+22 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 have added <XU>
+23 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 resulted have
+24 	 23 	 (S[pt]\NP)/PP 	 2 	 in resulted
+29 	 24 	 PP/NP 	 1 	 problems in
+29 	 25 	 N/N 	 1 	 problems serious
+29 	 26 	 N/N 	 1 	 problems work
+29 	 27 	 N/N 	 1 	 problems force
+29 	 28 	 N/N 	 1 	 problems skill-dilution
+<\s>
+<s id="wsj_0472.25"> 11
+0 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Suppliers are
+0 	 4 	 (S[ng]\NP)/NP 	 1 	 Suppliers experiencing <XB>
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 subcontractors are
+2 	 4 	 (S[ng]\NP)/NP 	 1 	 subcontractors experiencing <XB>
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 experiencing are
+6 	 4 	 (S[ng]\NP)/NP 	 2 	 pressure experiencing
+6 	 5 	 N/N 	 1 	 pressure heightened
+6 	 8 	 (S[b]\NP)/NP 	 1 	 pressure support <XB>
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 support to
+10 	 8 	 (S[b]\NP)/NP 	 2 	 schedules support
+10 	 9 	 N/N 	 1 	 schedules delivery
+<\s>
+<s id="wsj_0472.26"> 11
+3 	 2 	 (S/S)/NP 	 2 	 course of
+5 	 6 	 (S[dcl]\NP[thr])/NP 	 1 	 there 's
+6 	 0 	 S/S 	 1 	 's And
+6 	 2 	 (S/S)/NP 	 1 	 's of
+10 	 6 	 (S[dcl]\NP[thr])/NP 	 2 	 situation 's
+10 	 7 	 NP[nb]/N 	 1 	 situation the
+10 	 8 	 N/N 	 1 	 situation unsteady
+10 	 9 	 N/N 	 1 	 situation labor
+<\s>
+<s id="wsj_0472.27"> 30
+3 	 0 	 (S/S)/NP 	 2 	 pact Besides
+3 	 1 	 NP[nb]/N 	 1 	 pact the
+3 	 2 	 N/N 	 1 	 pact Machinists
+5 	 6 	 (S[ng]\NP)/NP 	 1 	 accords representing <XB>
+5 	 26 	 S[dcl]\NP 	 1 	 accords expire
+7 	 6 	 (S[ng]\NP)/NP 	 2 	 30,000 representing
+7 	 8 	 (NP\NP)/NP 	 1 	 30,000 of
+7 	 16 	 (NP\NP)/NP 	 1 	 30,000 in
+10 	 9 	 NP[nb]/N 	 1 	 company the
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 company 's
+15 	 8 	 (NP\NP)/NP 	 2 	 employees of
+15 	 11 	 (NP[nb]/N)\NP 	 1 	 employees 's
+15 	 12 	 N/N 	 1 	 employees engineering <XU>
+15 	 14 	 N/N 	 1 	 employees technical
+23 	 21 	 (N/N)/(N/N) 	 2 	 Kan. Wichita
+25 	 16 	 (NP\NP)/NP 	 2 	 areas in
+25 	 17 	 NP[nb]/N 	 1 	 areas the
+25 	 18 	 N/N 	 1 	 areas Puget
+25 	 19 	 N/N 	 1 	 areas Sound
+25 	 23 	 N/N 	 1 	 areas Kan.
+26 	 0 	 (S/S)/NP 	 1 	 expire Besides
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 expire in
+29 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 December in
+29 	 28 	 N/N 	 1 	 December early
+<\s>
+<s id="wsj_0472.28"> 20
+3 	 2 	 NP[nb]/N 	 1 	 contract a
+3 	 4 	 (NP\NP)/NP 	 1 	 contract with
+3 	 9 	 (NP\NP)/NP 	 1 	 contract at
+3 	 17 	 S[dcl]\NP 	 1 	 contract expired
+8 	 4 	 (NP\NP)/NP 	 2 	 Workers with
+8 	 5 	 NP[nb]/N 	 1 	 Workers the
+8 	 6 	 N/N 	 1 	 Workers United
+8 	 7 	 N/N 	 1 	 Workers Auto
+11 	 10 	 NP[nb]/N 	 1 	 company the
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 company 's
+14 	 9 	 (NP\NP)/NP 	 2 	 plant at
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 plant 's
+14 	 13 	 N/N 	 1 	 plant helicopter
+14 	 15 	 (NP\NP)/NP 	 1 	 plant in
+16 	 15 	 (NP\NP)/NP 	 2 	 Philadelphia in
+17 	 0 	 S/S 	 1 	 expired Also
+17 	 18 	 ((S\NP)\(S\NP))/N[num] 	 2 	 expired Oct.
+19 	 18 	 ((S\NP)\(S\NP))/N[num] 	 3 	 15 Oct.
+<\s>
+<s id="wsj_0472.29"> 19
+1 	 0 	 NP[nb]/N 	 1 	 contract This
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 contract covering <XB>
+1 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 contract is
+1 	 13 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 contract being <XB>
+1 	 14 	 S[pss]\NP 	 1 	 contract extended <XB>
+5 	 4 	 (N/N)/(N/N) 	 2 	 3,000 about
+10 	 3 	 (S[ng]\NP)/NP 	 2 	 workers covering
+10 	 5 	 N/N 	 1 	 workers 3,000
+10 	 6 	 N/N 	 1 	 workers hourly
+10 	 7 	 N/N 	 1 	 workers production
+10 	 9 	 N/N 	 1 	 workers maintenance
+13 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being is
+14 	 13 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 extended being
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 extended on
+18 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 basis on
+18 	 16 	 NP[nb]/N 	 1 	 basis a
+18 	 17 	 N/N 	 1 	 basis day-to-day
+<\s>
+<s id="wsj_0472.30"> 33
+1 	 0 	 NP[nb]/N 	 1 	 Machinists The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Machinists rejected
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 proposal rejected
+4 	 3 	 NP[nb]/N 	 1 	 proposal a
+4 	 5 	 (S[ng]\NP)/NP 	 1 	 proposal featuring <XB>
+8 	 7 	 (N/N)/(N/N) 	 2 	 % 10
+11 	 5 	 (S[ng]\NP)/NP 	 2 	 increase featuring
+11 	 6 	 NP[nb]/N 	 1 	 increase a
+11 	 8 	 N/N 	 1 	 increase %
+11 	 9 	 N/N 	 1 	 increase base
+11 	 10 	 N/N 	 1 	 increase wage
+11 	 12 	 (NP\NP)/NP 	 1 	 increase over
+14 	 12 	 (NP\NP)/NP 	 2 	 life over
+14 	 13 	 NP[nb]/N 	 1 	 life the
+14 	 15 	 (NP\NP)/NP 	 1 	 life of
+18 	 15 	 (NP\NP)/NP 	 2 	 contract of
+18 	 16 	 NP[nb]/N 	 1 	 contract the
+18 	 17 	 N/N 	 1 	 contract three-year
+21 	 5 	 (S[ng]\NP)/NP 	 2 	 bonuses featuring
+21 	 22 	 (NP\NP)/NP 	 1 	 bonuses of
+24 	 22 	 (NP\NP)/NP 	 2 	 % of
+24 	 23 	 N/N 	 1 	 % 8
+24 	 25 	 (NP\NP)/N 	 1 	 % the
+27 	 25 	 (NP\NP)/N 	 2 	 year the
+27 	 26 	 N/N 	 1 	 year first
+30 	 22 	 (NP\NP)/NP 	 2 	 % of
+30 	 29 	 N/N 	 1 	 % 3
+30 	 31 	 (NP\NP)/N 	 1 	 % the
+32 	 31 	 (NP\NP)/N 	 2 	 second the
+<\s>
+<s id="wsj_0472.31"> 21
+1 	 0 	 (S/S)/NP 	 2 	 top On
+1 	 2 	 (NP\NP)/NP 	 1 	 top of
+3 	 2 	 (NP\NP)/NP 	 2 	 that of
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Boeing would
+5 	 7 	 (S[b]\NP)/NP 	 1 	 Boeing make <XB>
+6 	 0 	 (S/S)/NP 	 1 	 would On
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make would
+9 	 7 	 (S[b]\NP)/NP 	 2 	 adjustments make
+9 	 8 	 N/N 	 1 	 adjustments cost-of-living
+9 	 10 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 adjustments projected <XB>
+9 	 12 	 (S[b]\NP)/NP 	 1 	 adjustments be <XB>
+11 	 10 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to projected
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+14 	 12 	 (S[b]\NP)/NP 	 2 	 % be
+14 	 13 	 N/N 	 1 	 % 5
+14 	 15 	 (NP\NP)/NP 	 1 	 % for
+17 	 15 	 (NP\NP)/NP 	 2 	 year for
+17 	 16 	 NP[nb]/N 	 1 	 year each
+17 	 18 	 (NP\NP)/NP 	 1 	 year of
+20 	 18 	 (NP\NP)/NP 	 2 	 contract of
+20 	 19 	 NP[nb]/N 	 1 	 contract the
+<\s>
+<s id="wsj_0472.32"> 10
+1 	 0 	 NP[nb]/N 	 1 	 union The
+1 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 union has
+1 	 6 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 1 	 union called <XB>
+5 	 3 	 (S\NP)/(S\NP) 	 2 	 has though
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 called has
+8 	 6 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 3 	 offer called
+8 	 7 	 NP[nb]/N 	 1 	 offer the
+8 	 9 	 S[adj]\NP 	 1 	 offer insulting <XB>
+9 	 6 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 2 	 insulting called
+<\s>
+<s id="wsj_0472.33"> 21
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 company reiterated
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 reiterated yesterday
+4 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that reiterated
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it 's
+5 	 7 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 it willing <XB>
+6 	 4 	 S[em]/S[dcl] 	 1 	 's that
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 willing 's
+8 	 7 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to willing
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reconfigure to
+11 	 9 	 (S[b]\NP)/NP 	 2 	 package reconfigure
+11 	 10 	 NP[nb]/N 	 1 	 package the
+15 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 add to
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 add not
+16 	 15 	 (S[b]\NP)/PP 	 2 	 to add
+18 	 16 	 PP/NP 	 1 	 substance to
+18 	 17 	 NP[nb]/N 	 1 	 substance the
+18 	 19 	 (NP\NP)/NP 	 1 	 substance of
+20 	 19 	 (NP\NP)/NP 	 2 	 it of
+<\s>
+<s id="wsj_0472.34"> 32
+3 	 0 	 (S/S)/NP 	 2 	 months For
+3 	 1 	 NP[nb]/N 	 1 	 months the
+3 	 2 	 N/N 	 1 	 months nine
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Boeing 's
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 net 's
+7 	 8 	 S[dcl]\NP 	 1 	 net increased
+8 	 0 	 (S/S)/NP 	 1 	 increased For
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 increased %
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+8 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 increased from
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 36
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 598
+17 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+17 	 19 	 (NP\NP)/N 	 1 	 $ a
+18 	 17 	 N/N[num] 	 1 	 2.60 $
+20 	 19 	 (NP\NP)/N 	 2 	 share a
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+25 	 23 	 N/N[num] 	 1 	 million $
+25 	 24 	 N/N 	 1 	 million 440
+28 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+28 	 30 	 (NP\NP)/N 	 1 	 $ a
+29 	 28 	 N/N[num] 	 1 	 1.92 $
+31 	 30 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0472.35"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Sales soared
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 soared %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 soared to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 soared from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 28
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 15.43
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 12.09
+<\s>
+<s id="wsj_0472.36"> 46
+3 	 0 	 (S/S)/NP 	 2 	 matter In
+3 	 1 	 NP[nb]/N 	 1 	 matter a
+3 	 2 	 N/N 	 1 	 matter separate
+7 	 5 	 NP[nb]/N 	 1 	 Department the
+7 	 6 	 N/N 	 1 	 Department Justice
+7 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Department said
+9 	 0 	 (S/S)/NP 	 1 	 said In
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 said yesterday
+10 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Boeing agreed
+10 	 13 	 ((S[b]\NP)/NP)/NP 	 1 	 Boeing pay <XB>
+10 	 20 	 (S[b]\NP)/NP 	 1 	 Boeing settle <XB>
+11 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 agreed said
+12 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+15 	 13 	 ((S[b]\NP)/NP)/NP 	 3 	 government pay
+15 	 14 	 NP[nb]/N 	 1 	 government the
+16 	 13 	 ((S[b]\NP)/NP)/NP 	 2 	 $ pay
+18 	 16 	 N/N[num] 	 1 	 million $
+18 	 17 	 N/N 	 1 	 million 11
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 settle to
+21 	 20 	 (S[b]\NP)/NP 	 2 	 claims settle
+22 	 21 	 N/S[em] 	 1 	 that claims
+24 	 23 	 NP[nb]/N 	 1 	 company the
+24 	 25 	 ((S[dcl]\NP)/PP)/NP 	 1 	 company provided
+24 	 34 	 (S[ng]\NP)/NP 	 1 	 company negotiating <XB>
+25 	 22 	 S[em]/S[dcl] 	 1 	 provided that
+25 	 33 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 provided while
+28 	 25 	 ((S[dcl]\NP)/PP)/NP 	 3 	 information provided
+28 	 26 	 N/N 	 1 	 information inaccurate
+28 	 27 	 N/N 	 1 	 information cost
+29 	 25 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to provided
+32 	 29 	 PP/NP 	 1 	 Force to
+32 	 30 	 NP[nb]/N 	 1 	 Force the
+32 	 31 	 N/N 	 1 	 Force Air
+34 	 33 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 negotiating while
+35 	 34 	 (S[ng]\NP)/NP 	 2 	 contracts negotiating
+35 	 37 	 (S[b]\NP)/NP 	 1 	 contracts replace <XB>
+37 	 36 	 (S[to]\NP)/(S[b]\NP) 	 2 	 replace to
+40 	 37 	 (S[b]\NP)/NP 	 2 	 skins replace
+40 	 38 	 NP[nb]/N 	 1 	 skins the
+40 	 39 	 N/N 	 1 	 skins aluminum
+40 	 41 	 (NP\NP)/NP 	 1 	 skins on
+45 	 41 	 (NP\NP)/NP 	 2 	 aircraft on
+45 	 42 	 NP[nb]/N 	 1 	 aircraft the
+45 	 43 	 N/N 	 1 	 aircraft KC-135
+45 	 44 	 N/N 	 1 	 aircraft tanker
+<\s>
+<s id="wsj_0472.37"> 14
+1 	 0 	 NP[nb]/N 	 1 	 settlement The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 settlement relates
+2 	 13 	 (S[dcl]\S[dcl])\NP 	 1 	 relates said
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 to relates
+5 	 3 	 PP/NP 	 1 	 contracts to
+5 	 4 	 N/N 	 1 	 contracts four
+5 	 6 	 S[pss]\NP 	 1 	 contracts negotiated <XB>
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 negotiated to
+8 	 7 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 1982 from
+9 	 7 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 to from
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 1985 to
+12 	 13 	 (S[dcl]\S[dcl])\NP 	 2 	 prosecutors said
+<\s>
+<s id="wsj_0472.38"> 24
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 They added
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that added
+4 	 3 	 NP[nb]/N 	 1 	 settlement the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 settlement is
+5 	 2 	 S[em]/S[dcl] 	 1 	 is that
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 culmination is
+7 	 6 	 NP[nb]/N 	 1 	 culmination the
+7 	 8 	 (NP\NP)/NP 	 1 	 culmination of
+11 	 10 	 (N/N)/(N/N) 	 2 	 1\/2-year 2
+12 	 8 	 (NP\NP)/NP 	 2 	 investigation of
+12 	 9 	 NP[nb]/N 	 1 	 investigation a
+12 	 11 	 N/N 	 1 	 investigation 1\/2-year
+12 	 13 	 (NP\NP)/NP 	 1 	 investigation into
+12 	 20 	 (NP\NP)/NP 	 1 	 investigation in
+15 	 14 	 NP[nb]/N 	 1 	 company the
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 company 's
+19 	 13 	 (NP\NP)/NP 	 2 	 practices into
+19 	 16 	 (NP[nb]/N)\NP 	 1 	 practices 's
+19 	 17 	 N/N 	 1 	 practices aluminum
+19 	 18 	 N/N 	 1 	 practices pricing
+21 	 20 	 (NP\NP)/NP 	 2 	 connection in
+21 	 22 	 (NP\NP)/NP 	 1 	 connection with
+23 	 22 	 (NP\NP)/NP 	 2 	 KC-135s with
+<\s>
+<s id="wsj_0472.39"> 18
+2 	 0 	 NP[nb]/N 	 1 	 spokesman A
+2 	 1 	 N/N 	 1 	 spokesman Boeing
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman responded
+6 	 5 	 (S/S)/(S/S) 	 2 	 along All
+8 	 7 	 NP[nb]/N 	 1 	 company the
+8 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company has
+8 	 10 	 (S[pt]\NP)/S[dcl] 	 1 	 company said <XB>
+9 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 has responded
+9 	 6 	 S/S 	 1 	 has along
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said has
+11 	 12 	 (S[dcl]\NP[thr])/NP 	 1 	 there was
+12 	 10 	 (S[pt]\NP)/S[dcl] 	 2 	 was said
+14 	 12 	 (S[dcl]\NP[thr])/NP 	 2 	 grounds was
+14 	 13 	 NP[nb]/N 	 1 	 grounds no
+14 	 15 	 (NP\NP)/NP 	 1 	 grounds for
+17 	 15 	 (NP\NP)/NP 	 2 	 prosecution for
+17 	 16 	 N/N 	 1 	 prosecution criminal
+<\s>
+<s id="wsj_0472.40"> 14
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 That was
+0 	 2 	 S[pss]\NP 	 1 	 That borne <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 borne was
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 borne out
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 borne by
+7 	 5 	 NP[nb]/N 	 1 	 Department the
+7 	 6 	 N/N 	 1 	 Department Justice
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 Department 's
+9 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 decision by
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 decision 's
+9 	 11 	 (S[b]\NP)/NP 	 1 	 decision settle <XB>
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 settle to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 case settle
+13 	 12 	 NP[nb]/N 	 1 	 case the
+<\s>

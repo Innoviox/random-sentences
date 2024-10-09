@@ -1,0 +1,940 @@
+<s id="wsj_2398.1"> 25
+2 	 0 	 NP[nb]/N 	 1 	 industry The
+2 	 1 	 N/N 	 1 	 industry chemical
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 industry is
+2 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 industry expected <XB>
+2 	 6 	 (S[b]\NP)/S[em] 	 1 	 industry report <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+5 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+7 	 6 	 (S[b]\NP)/S[em] 	 2 	 that report
+8 	 9 	 S[dcl]\NP 	 1 	 profits eroded
+9 	 7 	 S[em]/S[dcl] 	 1 	 eroded that
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 eroded in
+9 	 14 	 ((S\NP)\(S\NP))/PP 	 2 	 eroded because
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+13 	 11 	 NP[nb]/N 	 1 	 quarter the
+13 	 12 	 N/N 	 1 	 quarter third
+15 	 14 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+17 	 15 	 PP/NP 	 1 	 prices of
+17 	 16 	 N/N 	 1 	 prices skidding
+17 	 18 	 (NP\NP)/NP 	 1 	 prices in
+21 	 18 	 (NP\NP)/NP 	 2 	 end in
+21 	 19 	 NP[nb]/N 	 1 	 end the
+21 	 20 	 N/N 	 1 	 end commodity
+21 	 22 	 (NP\NP)/NP 	 1 	 end of
+24 	 22 	 (NP\NP)/NP 	 2 	 business of
+24 	 23 	 NP[nb]/N 	 1 	 business the
+<\s>
+<s id="wsj_2398.2"> 23
+0 	 1 	 (NP\NP)/NP 	 1 	 Producers of
+0 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Producers have
+0 	 17 	 (S[pt]\NP)/NP 	 1 	 Producers seen <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 chemicals of
+3 	 2 	 N/N 	 1 	 chemicals commodity
+7 	 1 	 (NP\NP)/NP 	 2 	 chemicals of
+7 	 5 	 NP[nb]/N 	 1 	 chemicals the
+7 	 6 	 N/N 	 1 	 chemicals basic
+7 	 8 	 S[pss]\NP 	 1 	 chemicals produced <XB>
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 produced in
+8 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 produced for
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 volumes in
+11 	 10 	 N/N 	 1 	 volumes huge
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 manufacturers for
+14 	 13 	 N/N 	 1 	 manufacturers other
+17 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 seen have
+20 	 17 	 (S[pt]\NP)/NP 	 2 	 cutting seen
+20 	 18 	 N/N 	 1 	 cutting sharp
+20 	 19 	 N/N 	 1 	 cutting inventory
+20 	 21 	 (NP\NP)/NP 	 1 	 cutting by
+22 	 21 	 (NP\NP)/NP 	 2 	 buyers by
+<\s>
+<s id="wsj_2398.3"> 27
+3 	 0 	 NP/NP 	 1 	 beneficiaries Once
+3 	 1 	 NP[nb]/N 	 1 	 beneficiaries the
+3 	 2 	 N/N 	 1 	 beneficiaries chief
+3 	 4 	 (NP\NP)/NP 	 1 	 beneficiaries of
+6 	 5 	 NP[nb]/N 	 1 	 industry the
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 industry 's
+9 	 8 	 (N/N)/(N/N) 	 2 	 fading now
+10 	 4 	 (NP\NP)/NP 	 2 	 boom of
+10 	 7 	 (NP[nb]/N)\NP 	 1 	 boom 's
+10 	 9 	 N/N 	 1 	 boom fading
+13 	 12 	 NP[nb]/N 	 1 	 producers these
+13 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 producers will
+13 	 17 	 S[ng]\NP 	 1 	 producers reporting <XB>
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 will also
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+17 	 16 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 reporting be
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 reporting against
+20 	 19 	 (N/N)/(N/N) 	 2 	 strong exceptionally
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 performances against
+21 	 20 	 N/N 	 1 	 performances strong
+21 	 22 	 (NP\NP)/NP 	 1 	 performances in
+26 	 22 	 (NP\NP)/NP 	 2 	 quarter in
+26 	 23 	 NP[nb]/N 	 1 	 quarter the
+26 	 24 	 N/N 	 1 	 quarter 1988
+26 	 25 	 N/N 	 1 	 quarter third
+<\s>
+<s id="wsj_2398.4"> 29
+1 	 0 	 (S/S)/NP 	 2 	 some For
+1 	 2 	 (NP\NP)/NP 	 1 	 some of
+4 	 2 	 (NP\NP)/NP 	 2 	 companies of
+4 	 3 	 NP[nb]/N 	 1 	 companies these
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 this will
+6 	 8 	 (S[b]\NP)/NP 	 1 	 this be <XB>
+7 	 0 	 (S/S)/NP 	 1 	 will For
+7 	 17 	 (S[dcl]\S[dcl])/NP 	 1 	 will says
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+11 	 8 	 (S[b]\NP)/NP 	 2 	 quarter be
+11 	 9 	 NP[nb]/N 	 1 	 quarter the
+11 	 10 	 N/N 	 1 	 quarter first
+11 	 12 	 (NP\NP)/NP 	 1 	 quarter with
+15 	 12 	 (NP\NP)/NP 	 2 	 comparisons with
+15 	 13 	 N/N 	 1 	 comparisons year-to-year
+15 	 14 	 N/N 	 1 	 comparisons negative
+19 	 17 	 (S[dcl]\S[dcl])/NP 	 2 	 Bogner says
+19 	 18 	 N/N 	 1 	 Bogner Leonard
+24 	 17 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst says
+24 	 21 	 NP[nb]/N 	 1 	 analyst a
+24 	 22 	 N/N 	 1 	 analyst chemical
+24 	 23 	 N/N 	 1 	 analyst industry
+24 	 25 	 (NP\NP)/NP 	 1 	 analyst at
+28 	 25 	 (NP\NP)/NP 	 2 	 Research at
+28 	 26 	 N/N 	 1 	 Research Prudential
+28 	 27 	 N/N 	 1 	 Research Bache
+<\s>
+<s id="wsj_2398.5"> 11
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 This could
+0 	 2 	 (S[b]\NP)/NP 	 1 	 This be <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+4 	 2 	 (S[b]\NP)/NP 	 2 	 first be
+4 	 3 	 NP[nb]/N 	 1 	 first the
+4 	 5 	 (NP\NP)/NP 	 1 	 first of
+10 	 5 	 (NP\NP)/NP 	 2 	 quarters of
+10 	 6 	 N/N 	 1 	 quarters five <XU>
+10 	 8 	 N/N 	 1 	 quarters six
+10 	 9 	 N/N 	 1 	 quarters down
+<\s>
+<s id="wsj_2398.6"> 41
+2 	 0 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 prominent Perhaps
+2 	 1 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 prominent most
+6 	 4 	 N/N 	 1 	 Co. Dow
+6 	 5 	 N/N 	 1 	 Co. Chemical
+6 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Co. which
+6 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Co. had <XB>
+6 	 13 	 (S[pt]\NP)/NP 	 1 	 Co. racked <XB>
+6 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Co. is
+6 	 21 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Co. expected <XB>
+6 	 23 	 (S[b]\NP)/S[em] 	 1 	 Co. report <XB>
+10 	 9 	 ((S\NP)/(S\NP))/PP 	 3 	 of as
+11 	 10 	 PP/NP 	 1 	 midyear of
+12 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had which
+12 	 9 	 ((S\NP)/(S\NP))/PP 	 2 	 had as
+13 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 racked had
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 racked up
+18 	 13 	 (S[pt]\NP)/NP 	 2 	 quarters racked
+18 	 15 	 N/N 	 1 	 quarters eight
+18 	 16 	 N/N 	 1 	 quarters consecutive
+18 	 17 	 N/N 	 1 	 quarters record
+21 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+22 	 21 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+24 	 23 	 (S[b]\NP)/S[em] 	 2 	 that report
+25 	 26 	 S[dcl]\NP 	 1 	 profit decreased
+25 	 34 	 (S[adj]\NP)\NP 	 1 	 profit earlier <XB>
+26 	 24 	 S[em]/S[dcl] 	 1 	 decreased that
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 decreased in
+26 	 31 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 decreased from
+26 	 36 	 ((S\NP)\(S\NP))/PP 	 2 	 decreased if
+30 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+30 	 28 	 NP[nb]/N 	 1 	 quarter the
+30 	 29 	 N/N 	 1 	 quarter latest
+33 	 32 	 NP[nb]/N 	 1 	 year a
+33 	 34 	 (S[adj]\NP)\NP 	 2 	 year earlier
+34 	 31 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 earlier from
+36 	 37 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 if only
+38 	 36 	 ((S\NP)\(S\NP))/PP 	 3 	 by if
+40 	 38 	 PP/NP 	 1 	 shade by
+40 	 39 	 NP[nb]/N 	 1 	 shade a
+<\s>
+<s id="wsj_2398.7"> 28
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Dow has
+1 	 4 	 S[pt]\NP 	 1 	 Dow diversified <XB>
+2 	 0 	 (S/S)/S[dcl] 	 2 	 has Though
+4 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 diversified has
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 diversified aggressively
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 diversified into
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 chemicals into
+7 	 6 	 N/N 	 1 	 chemicals specialty
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 pharmaceuticals into
+12 	 11 	 NP[nb]/N 	 1 	 company the
+12 	 14 	 (S[dcl]\NP)/NP 	 1 	 company has
+14 	 0 	 (S/S)/S[dcl] 	 1 	 has Though
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 has still
+17 	 14 	 (S[dcl]\NP)/NP 	 2 	 stake has
+17 	 15 	 NP[nb]/N 	 1 	 stake a
+17 	 16 	 N/N 	 1 	 stake big
+17 	 18 	 (NP\NP)/NP 	 1 	 stake in
+19 	 18 	 (NP\NP)/NP 	 2 	 polyethylene in
+19 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 polyethylene which
+19 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 polyethylene is <XB>
+19 	 23 	 S[pss]\NP 	 1 	 polyethylene used <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+23 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 used is
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 used in
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 packaging in
+27 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 housewares in
+<\s>
+<s id="wsj_2398.8"> 43
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Analysts '
+3 	 1 	 (NP[nb]/N)\NP 	 1 	 estimates '
+3 	 2 	 N/N 	 1 	 estimates third-quarter
+3 	 4 	 (NP\NP)/NP 	 1 	 estimates for
+3 	 11 	 (S[dcl]\NP)/PP 	 1 	 estimates are
+8 	 6 	 (N/N)/(N/N) 	 2 	 Mich. Midland
+10 	 4 	 (NP\NP)/NP 	 2 	 company for
+10 	 5 	 NP[nb]/N 	 1 	 company the
+10 	 8 	 N/N 	 1 	 company Mich.
+11 	 23 	 ((S\NP)\(S\NP))/PP 	 2 	 are compared
+12 	 11 	 (S[dcl]\NP)/PP 	 2 	 between are
+13 	 12 	 PP/NP 	 1 	 $ between
+13 	 15 	 (NP\NP)/N 	 1 	 $ a
+14 	 13 	 N/N[num] 	 1 	 3.20 $
+16 	 15 	 (NP\NP)/N 	 2 	 share a
+18 	 12 	 PP/NP 	 1 	 $ between
+18 	 20 	 (NP\NP)/N 	 1 	 $ a
+19 	 18 	 N/N[num] 	 1 	 3.30 $
+21 	 20 	 (NP\NP)/N 	 2 	 share a
+24 	 23 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+25 	 24 	 PP/NP 	 1 	 $ with
+25 	 29 	 (NP\NP)\NP 	 1 	 $ ago
+26 	 25 	 N/N[num] 	 1 	 3.36 $
+28 	 27 	 NP[nb]/N 	 1 	 year a
+28 	 29 	 (NP\NP)\NP 	 2 	 year ago
+29 	 31 	 ((NP\NP)\(NP\NP))/S[dcl] 	 2 	 ago when
+32 	 33 	 (S[dcl]\NP)/NP 	 1 	 profit was
+33 	 31 	 ((NP\NP)\(NP\NP))/S[dcl] 	 3 	 was when
+33 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 was on
+34 	 33 	 (S[dcl]\NP)/NP 	 2 	 $ was
+36 	 34 	 N/N[num] 	 1 	 million $
+36 	 35 	 N/N 	 1 	 million 632
+38 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 sales on
+38 	 39 	 (NP\NP)/NP 	 1 	 sales of
+40 	 39 	 (NP\NP)/NP 	 2 	 $ of
+42 	 40 	 N/N[num] 	 1 	 billion $
+42 	 41 	 N/N 	 1 	 billion 4.15
+<\s>
+<s id="wsj_2398.9"> 9
+2 	 0 	 NP[nb]/N 	 1 	 spokeswoman A
+2 	 1 	 N/N 	 1 	 spokeswoman Dow
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 spokeswoman declined
+2 	 5 	 (S[b]\NP)/PP 	 1 	 spokeswoman comment <XB>
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+6 	 5 	 (S[b]\NP)/PP 	 2 	 on comment
+8 	 6 	 PP/NP 	 1 	 estimates on
+8 	 7 	 NP[nb]/N 	 1 	 estimates the
+<\s>
+<s id="wsj_2398.10"> 36
+3 	 0 	 (S/S)/NP 	 2 	 firm At
+3 	 1 	 NP[nb]/N 	 1 	 firm the
+3 	 2 	 N/N 	 1 	 firm investment
+3 	 4 	 (NP\NP)/NP 	 1 	 firm of
+11 	 4 	 (NP\NP)/NP 	 2 	 Co. of
+11 	 5 	 N/N 	 1 	 Co. Smith
+11 	 6 	 N/N 	 1 	 Co. Barney
+11 	 8 	 N/N 	 1 	 Co. Harris
+11 	 9 	 N/N 	 1 	 Co. Upham
+11 	 10 	 N/N 	 1 	 Co. &
+15 	 13 	 NP[nb]/N 	 1 	 segment the
+15 	 14 	 N/N 	 1 	 segment commodity-chemical
+15 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 segment is
+15 	 17 	 (S[pss]\NP)/(S[ng]\NP) 	 1 	 segment seen <XB>
+15 	 18 	 (S[ng]\NP)/NP 	 1 	 segment pulling <XB>
+16 	 0 	 (S/S)/NP 	 1 	 is At
+17 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 seen is
+18 	 17 	 (S[pss]\NP)/(S[ng]\NP) 	 2 	 pulling seen
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 pulling down
+18 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 pulling by
+21 	 18 	 (S[ng]\NP)/NP 	 2 	 profit pulling
+21 	 20 	 N/N 	 1 	 profit overall
+21 	 22 	 (NP\NP)/NP 	 1 	 profit for
+24 	 22 	 (NP\NP)/NP 	 2 	 companies for
+24 	 23 	 N/N 	 1 	 companies 20
+24 	 25 	 S[adj]\NP 	 1 	 companies representative <XB>
+25 	 26 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 representative of
+29 	 26 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 industry of
+29 	 27 	 NP[nb]/N 	 1 	 industry the
+29 	 28 	 N/N 	 1 	 industry whole
+32 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 % by
+32 	 31 	 N/N 	 1 	 % 8
+32 	 33 	 (N\N)/N 	 1 	 % to
+35 	 33 	 (N\N)/N 	 2 	 % to
+35 	 34 	 N/N 	 1 	 % 10
+<\s>
+<s id="wsj_2398.11"> 28
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 You will
+0 	 2 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 You find <XB>
+1 	 20 	 (S[dcl]\S[dcl])/NP 	 1 	 will says
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 find will
+4 	 2 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 commodities find
+4 	 3 	 NP[nb]/N 	 1 	 commodities the
+5 	 2 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 off find
+5 	 6 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 off more
+6 	 7 	 (((S[adj]\NP)\(S[adj]\NP))\((S[adj]\NP)\(S[adj]\NP)))/NP 	 3 	 more than
+9 	 7 	 (((S[adj]\NP)\(S[adj]\NP))\((S[adj]\NP)\(S[adj]\NP)))/NP 	 4 	 others than
+9 	 8 	 NP[nb]/N 	 1 	 others the
+13 	 2 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 companies find
+13 	 11 	 NP[nb]/N 	 1 	 companies the
+13 	 12 	 N/N 	 1 	 companies diversified
+15 	 2 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 even find
+15 	 14 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 even about
+18 	 2 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 better find
+18 	 17 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 better slightly
+22 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 Wilbur says
+22 	 21 	 N/N 	 1 	 Wilbur James
+27 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst says
+27 	 24 	 NP[nb]/N 	 1 	 analyst a
+27 	 25 	 N/N 	 1 	 analyst Smith
+27 	 26 	 N/N 	 1 	 analyst Barney
+<\s>
+<s id="wsj_2398.12"> 16
+2 	 0 	 N/N 	 1 	 Corp. First
+2 	 1 	 N/N 	 1 	 Corp. Boston
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 Corp. projects
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that projects
+5 	 6 	 (NP\NP)/NP 	 1 	 10 of
+5 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 10 will
+5 	 13 	 (S[b]\NP)/NP 	 1 	 10 report <XB>
+9 	 6 	 (NP\NP)/NP 	 2 	 companies of
+9 	 7 	 NP[nb]/N 	 1 	 companies the
+9 	 8 	 N/N 	 1 	 companies 15
+9 	 11 	 (S[dcl]\NP)/NP 	 2 	 companies follows <XU>
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 it follows
+12 	 4 	 S[em]/S[dcl] 	 1 	 will that
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 report will
+15 	 13 	 (S[b]\NP)/NP 	 2 	 profit report
+15 	 14 	 N/N 	 1 	 profit lower
+<\s>
+<s id="wsj_2398.13"> 8
+0 	 1 	 (NP\NP)/NP 	 1 	 Most of
+0 	 4 	 (S[dcl]\NP)/NP 	 1 	 Most have
+3 	 1 	 (NP\NP)/NP 	 2 	 10 of
+3 	 2 	 NP[nb]/N 	 1 	 10 the
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 operations have
+7 	 5 	 N/N 	 1 	 operations big
+7 	 6 	 N/N 	 1 	 operations commodity-chemical
+<\s>
+<s id="wsj_2398.14"> 23
+4 	 2 	 NP[nb]/N 	 1 	 giants some
+4 	 3 	 N/N 	 1 	 giants industry
+4 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 giants are
+4 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 giants expected <XB>
+4 	 8 	 (S[b]\NP)/NP 	 1 	 giants report <XB>
+5 	 0 	 S/S 	 1 	 are Still
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+6 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 expected because
+7 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+10 	 8 	 (S[b]\NP)/NP 	 2 	 gains report
+10 	 9 	 N/N 	 1 	 gains continuing
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 because largely
+15 	 14 	 N/N 	 1 	 much so
+15 	 16 	 (NP\NP)/NP 	 1 	 much of
+15 	 19 	 (S[dcl]\NP)/PP 	 1 	 much is
+18 	 16 	 (NP\NP)/NP 	 2 	 business of
+18 	 17 	 NP[nb]/N 	 1 	 business their
+19 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is because
+20 	 19 	 (S[dcl]\NP)/PP 	 2 	 outside is
+22 	 20 	 PP/NP 	 1 	 chemicals outside
+22 	 21 	 N/N 	 1 	 chemicals commodity
+<\s>
+<s id="wsj_2398.15"> 18
+2 	 0 	 N/N 	 1 	 Co. Du
+2 	 1 	 N/N 	 1 	 Co. Pont
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Co. is
+2 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Co. thought <XB>
+2 	 7 	 (S[pt]\NP)/NP 	 1 	 Co. had <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 thought is
+5 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to thought
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+7 	 6 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 had have
+10 	 7 	 (S[pt]\NP)/NP 	 2 	 growth had
+10 	 8 	 N/N 	 1 	 growth steady
+10 	 9 	 N/N 	 1 	 growth profit
+10 	 11 	 (NP\NP)/NP 	 1 	 growth in
+13 	 11 	 (NP\NP)/NP 	 2 	 pigments in
+13 	 12 	 N/N 	 1 	 pigments white
+15 	 11 	 (NP\NP)/NP 	 2 	 fibers in
+17 	 11 	 (NP\NP)/NP 	 2 	 polymers in
+<\s>
+<s id="wsj_2398.16"> 28
+5 	 3 	 (N/N)/(N/N) 	 2 	 Del. Wilmington
+7 	 2 	 NP[nb]/N 	 1 	 company the
+7 	 5 	 N/N 	 1 	 company Del.
+7 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 company is
+7 	 9 	 S[pss]\NP 	 1 	 company helped <XB>
+8 	 0 	 S/S 	 1 	 is Moreover
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 helped is
+9 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 helped when
+11 	 12 	 S[dcl]\NP 	 1 	 prices weaken
+12 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 weaken when
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 weaken on
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 chemicals on
+16 	 14 	 NP[nb]/N 	 1 	 chemicals the
+16 	 15 	 N/N 	 1 	 chemicals commodity
+16 	 18 	 (S[dcl]\NP)/NP 	 2 	 chemicals buys <XU>
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 it buys
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 buys for
+23 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 needs for
+23 	 20 	 NP[nb]/N 	 1 	 needs its
+23 	 21 	 N/N 	 1 	 needs own
+23 	 22 	 N/N 	 1 	 needs production
+23 	 26 	 (NP\NP)/NP 	 1 	 needs as
+26 	 25 	 (NP\NP)/(NP\NP) 	 2 	 as such
+27 	 26 	 (NP\NP)/NP 	 2 	 ethylene as
+<\s>
+<s id="wsj_2398.17"> 23
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Analysts are
+0 	 2 	 S[pss]\NP 	 1 	 Analysts divided <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 divided are
+2 	 3 	 ((S\NP)\(S\NP))/S[qem] 	 2 	 divided over
+4 	 3 	 ((S\NP)\(S\NP))/S[qem] 	 3 	 whether over
+6 	 5 	 N/N 	 1 	 Pont Du
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Pont will
+6 	 8 	 (S[b]\NP)/NP 	 1 	 Pont report <XB>
+7 	 4 	 S[qem]/S[dcl] 	 1 	 will whether
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 report will
+9 	 8 	 (S[b]\NP)/NP 	 2 	 much report
+9 	 10 	 (NP\NP)/NP 	 1 	 much of
+9 	 13 	 (NP\NP)/NP 	 1 	 much in
+9 	 17 	 (NP\NP)/NP 	 1 	 much from
+12 	 10 	 (NP\NP)/NP 	 2 	 gain of
+12 	 11 	 NP[nb]/N 	 1 	 gain a
+16 	 13 	 (NP\NP)/NP 	 2 	 quarter in
+16 	 14 	 NP[nb]/N 	 1 	 quarter the
+16 	 15 	 N/N 	 1 	 quarter latest
+22 	 17 	 (NP\NP)/NP 	 2 	 company from
+22 	 18 	 NP[nb]/N 	 1 	 company its
+22 	 19 	 N/N 	 1 	 company Conoco
+22 	 20 	 N/N 	 1 	 company Inc.
+22 	 21 	 N/N 	 1 	 company oil
+<\s>
+<s id="wsj_2398.18"> 14
+1 	 0 	 NP[nb]/N 	 1 	 estimates The
+1 	 2 	 (NP\NP)/NP 	 1 	 estimates for
+1 	 5 	 S[dcl]\NP 	 1 	 estimates range
+4 	 2 	 (NP\NP)/NP 	 2 	 Pont for
+4 	 3 	 N/N 	 1 	 Pont Du
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 range from
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+7 	 9 	 (N\N)/N 	 1 	 $ to
+7 	 12 	 (NP\NP)/N 	 1 	 $ a
+8 	 7 	 N/N[num] 	 1 	 2.25 $
+10 	 9 	 (N\N)/N 	 2 	 $ to
+11 	 10 	 N/N[num] 	 1 	 2.45 $
+13 	 12 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_2398.19"> 25
+4 	 0 	 (S/S)/NP 	 2 	 quarter In
+4 	 1 	 NP[nb]/N 	 1 	 quarter the
+4 	 2 	 N/N 	 1 	 quarter 1988
+4 	 3 	 N/N 	 1 	 quarter third
+7 	 6 	 NP[nb]/N 	 1 	 company the
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 company earned
+8 	 0 	 (S/S)/NP 	 1 	 earned In
+8 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 earned on
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 461
+14 	 8 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+14 	 16 	 (NP\NP)/N 	 1 	 $ a
+15 	 14 	 N/N[num] 	 1 	 1.91 $
+17 	 16 	 (NP\NP)/N 	 2 	 share a
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 sales on
+20 	 21 	 (NP\NP)/NP 	 1 	 sales of
+22 	 21 	 (NP\NP)/NP 	 2 	 $ of
+24 	 22 	 N/N[num] 	 1 	 billion $
+24 	 23 	 N/N 	 1 	 billion 7.99
+<\s>
+<s id="wsj_2398.20"> 5
+1 	 0 	 N/N 	 1 	 Pont Du
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Pont declined
+1 	 4 	 S[b]\NP 	 1 	 Pont comment <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+<\s>
+<s id="wsj_2398.21"> 35
+1 	 0 	 N/N 	 1 	 Co. Monsanto
+1 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Co. is
+1 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Co. expected <XB>
+1 	 8 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 Co. continue <XB>
+1 	 9 	 (S[ng]\NP)/NP 	 1 	 Co. reporting <XB>
+5 	 3 	 (S\NP)/(S\NP) 	 2 	 is too
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+6 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 expected though
+7 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 continue to
+9 	 8 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 reporting continue
+11 	 9 	 (S[ng]\NP)/NP 	 2 	 profit reporting
+11 	 10 	 N/N 	 1 	 profit higher
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 though even
+16 	 15 	 NP[nb]/N 	 1 	 sales its
+16 	 17 	 (NP\NP)/NP 	 1 	 sales of
+16 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 sales were
+16 	 21 	 S[pss]\NP 	 1 	 sales hurt <XB>
+19 	 17 	 (NP\NP)/NP 	 2 	 chemicals of
+19 	 18 	 N/N 	 1 	 chemicals crop
+20 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 were though
+21 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 hurt were
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 hurt in
+21 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 hurt by
+25 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+25 	 23 	 NP[nb]/N 	 1 	 quarter the
+25 	 24 	 N/N 	 1 	 quarter latest
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 drought by
+27 	 28 	 (NP\NP)/NP 	 1 	 drought in
+30 	 28 	 (NP\NP)/NP 	 2 	 Europe in
+30 	 29 	 N/N 	 1 	 Europe northern
+34 	 28 	 (NP\NP)/NP 	 2 	 U.S. in
+34 	 32 	 NP[nb]/N 	 1 	 U.S. the
+34 	 33 	 N/N 	 1 	 U.S. western
+<\s>
+<s id="wsj_2398.22"> 21
+2 	 1 	 (N/N)/(N/N) 	 2 	 Louis-based St.
+3 	 0 	 NP[nb]/N 	 1 	 company The
+3 	 2 	 N/N 	 1 	 company Louis-based
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 company is
+3 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 company expected <XB>
+3 	 7 	 (S[b]\NP)/S[em] 	 1 	 company report <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+6 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 report again
+9 	 7 	 (S[b]\NP)/S[em] 	 2 	 that report
+10 	 11 	 (NP\NP)/NP 	 1 	 losses in
+10 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 losses are
+10 	 20 	 S[ng]\NP 	 1 	 losses narrowing <XB>
+18 	 11 	 (NP\NP)/NP 	 2 	 business in
+18 	 12 	 NP/NP 	 1 	 business its
+18 	 13 	 N/N 	 1 	 business G.D.
+18 	 14 	 N/N 	 1 	 business Searle
+18 	 15 	 N/N 	 1 	 business &
+18 	 16 	 N/N 	 1 	 business Co.
+18 	 17 	 N/N 	 1 	 business pharmaceutical
+19 	 9 	 S[em]/S[dcl] 	 1 	 are that
+20 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 narrowing are
+<\s>
+<s id="wsj_2398.23"> 30
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Searle continued
+0 	 3 	 S[b]\NP 	 1 	 Searle operate <XB>
+1 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 continued through
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continued
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 operate to
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 operate in
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 red in
+6 	 5 	 NP[nb]/N 	 1 	 red the
+10 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 half through
+10 	 8 	 NP[nb]/N 	 1 	 half the
+10 	 9 	 N/N 	 1 	 half first
+10 	 11 	 (NP\NP)/NP 	 1 	 half of
+13 	 11 	 (NP\NP)/NP 	 2 	 year of
+13 	 12 	 NP[nb]/N 	 1 	 year the
+16 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Monsanto has
+16 	 18 	 (S[pt]\NP)/S[dcl] 	 1 	 Monsanto said <XB>
+18 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said has
+19 	 20 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it expects
+20 	 18 	 (S[pt]\NP)/S[dcl] 	 2 	 expects said
+21 	 20 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Searle expects
+21 	 23 	 (S[b]\NP)/NP 	 1 	 Searle post <XB>
+22 	 20 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 post to
+25 	 23 	 (S[b]\NP)/NP 	 2 	 profit post
+25 	 24 	 NP[nb]/N 	 1 	 profit a
+25 	 26 	 (NP\NP)/NP 	 1 	 profit for
+27 	 26 	 (NP\NP)/NP 	 2 	 all for
+27 	 28 	 (NP\NP)/NP 	 1 	 all of
+29 	 28 	 (NP\NP)/NP 	 2 	 1989 of
+<\s>
+<s id="wsj_2398.24"> 13
+1 	 0 	 N/N 	 1 	 estimates Most
+1 	 2 	 (NP\NP)/NP 	 1 	 estimates for
+1 	 4 	 S[dcl]\NP 	 1 	 estimates run
+3 	 2 	 (NP\NP)/NP 	 2 	 Monsanto for
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 run between
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 $ between
+6 	 11 	 (NP\NP)/N 	 1 	 $ a
+7 	 6 	 N/N[num] 	 1 	 1.70 $
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 $ between
+9 	 11 	 (NP\NP)/N 	 1 	 $ a
+10 	 9 	 N/N[num] 	 1 	 2 $
+12 	 11 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_2398.25"> 26
+1 	 0 	 NP[nb]/N 	 1 	 year A
+1 	 2 	 (S/S)\NP 	 2 	 year ago
+5 	 4 	 NP[nb]/N 	 1 	 company the
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 company posted
+6 	 2 	 (S/S)\NP 	 1 	 posted ago
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 profit posted
+8 	 7 	 N/N 	 1 	 profit third-quarter
+8 	 9 	 (NP\NP)/NP 	 1 	 profit of
+8 	 20 	 (NP\NP)/NP 	 1 	 profit on
+10 	 9 	 (NP\NP)/NP 	 2 	 $ of
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 116
+15 	 9 	 (NP\NP)/NP 	 2 	 $ of
+15 	 17 	 (NP\NP)/N 	 1 	 $ a
+16 	 15 	 N/N[num] 	 1 	 1.67 $
+18 	 17 	 (NP\NP)/N 	 2 	 share a
+21 	 20 	 (NP\NP)/NP 	 2 	 sales on
+21 	 22 	 (NP\NP)/NP 	 1 	 sales of
+23 	 22 	 (NP\NP)/NP 	 2 	 $ of
+25 	 23 	 N/N[num] 	 1 	 billion $
+25 	 24 	 N/N 	 1 	 billion 2.02
+<\s>
+<s id="wsj_2398.26"> 4
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Monsanto declined
+0 	 3 	 S[b]\NP 	 1 	 Monsanto comment <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+<\s>
+<s id="wsj_2398.27"> 13
+3 	 1 	 NP[nb]/N 	 1 	 producers the
+3 	 2 	 N/N 	 1 	 producers commodity-chemical
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 producers are
+3 	 5 	 S[pss]\NP 	 1 	 producers caught <XB>
+4 	 0 	 S/S 	 1 	 are But
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 caught are
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 caught on
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 downside on
+8 	 7 	 NP[nb]/N 	 1 	 downside the
+8 	 9 	 (NP\NP)/NP 	 1 	 downside of
+12 	 9 	 (NP\NP)/NP 	 2 	 cycle of
+12 	 10 	 NP[nb]/N 	 1 	 cycle a
+12 	 11 	 N/N 	 1 	 cycle pricing
+<\s>
+<s id="wsj_2398.28"> 24
+2 	 0 	 (S/S)/NP 	 2 	 accounts By
+2 	 1 	 NP[nb]/N 	 1 	 accounts some
+2 	 3 	 (NP\NP)/NP 	 1 	 accounts on
+2 	 7 	 (NP\NP)/NP 	 1 	 accounts in <XU>
+5 	 3 	 (NP\NP)/NP 	 2 	 Street on
+5 	 4 	 N/N 	 1 	 Street Wall
+9 	 7 	 (NP\NP)/NP 	 2 	 industry in
+9 	 8 	 NP[nb]/N 	 1 	 industry the
+13 	 11 	 NP[nb]/N 	 1 	 reductions the
+13 	 12 	 N/N 	 1 	 reductions inventory
+13 	 14 	 (S[dcl]\NP)/PP 	 1 	 reductions are
+13 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 reductions may <XB>
+13 	 21 	 (S[b]\NP)/NP 	 1 	 reductions presage <XB>
+14 	 0 	 (S/S)/NP 	 1 	 are By
+14 	 19 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 are which
+15 	 14 	 (S[dcl]\NP)/PP 	 2 	 near are
+17 	 15 	 PP/NP 	 1 	 end near
+17 	 16 	 NP[nb]/N 	 1 	 end an
+20 	 19 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 may which
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 presage may
+23 	 21 	 (S[b]\NP)/NP 	 2 	 demand presage
+23 	 22 	 N/N 	 1 	 demand firmer
+<\s>
+<s id="wsj_2398.29"> 15
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 doubters say
+2 	 0 	 S/S 	 1 	 say But
+5 	 3 	 N/N 	 1 	 capacity growing
+5 	 4 	 N/N 	 1 	 capacity production
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 capacity could
+5 	 7 	 (S[b]\NP)/NP 	 1 	 capacity keep <XB>
+6 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 could say
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 keep could
+7 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 keep on
+7 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 keep into
+8 	 7 	 (S[b]\NP)/NP 	 2 	 pressure keep
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 prices on
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 1990s into
+14 	 12 	 NP[nb]/N 	 1 	 1990s the
+14 	 13 	 N/N 	 1 	 1990s early
+<\s>
+<s id="wsj_2398.30"> 14
+3 	 0 	 (S/S)/NP 	 2 	 quarter In
+3 	 1 	 NP[nb]/N 	 1 	 quarter the
+3 	 2 	 N/N 	 1 	 quarter latest
+6 	 5 	 (S/S)/(S[asup]\NP) 	 2 	 least at
+8 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 profit is
+8 	 10 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 profit expected <XB>
+8 	 12 	 S[b]\NP 	 1 	 profit fall <XB>
+9 	 0 	 (S/S)/NP 	 1 	 is In
+9 	 5 	 (S/S)/(S[asup]\NP) 	 1 	 is at
+10 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+11 	 10 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 fall to
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 fall sharply
+<\s>
+<s id="wsj_2398.31"> 21
+2 	 0 	 (S/S)/NP 	 2 	 Inc. For
+2 	 1 	 N/N 	 1 	 Inc. Himont
+4 	 6 	 S\S 	 1 	 how down
+4 	 11 	 ((S[dcl]\S[qem])\NP)/(S[b]\NP) 	 1 	 how do
+5 	 4 	 (S[qem]/(S[dcl]/(S[adj]\NP)))/(S[adj]\NP) 	 2 	 far how
+7 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it is
+8 	 4 	 (S[qem]/(S[dcl]/(S[adj]\NP)))/(S[adj]\NP) 	 1 	 is how
+10 	 11 	 ((S[dcl]\S[qem])\NP)/(S[b]\NP) 	 2 	 we do
+11 	 12 	 S\S 	 1 	 do n't
+11 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 do says
+13 	 11 	 ((S[dcl]\S[qem])\NP)/(S[b]\NP) 	 3 	 know do
+15 	 0 	 (S/S)/NP 	 1 	 says For
+17 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 Ravitz says
+17 	 16 	 N/N 	 1 	 Ravitz Leslie
+17 	 18 	 (NP\NP)/NP 	 1 	 Ravitz at
+20 	 18 	 (NP\NP)/NP 	 2 	 Brothers at
+20 	 19 	 N/N 	 1 	 Brothers Salomon
+<\s>
+<s id="wsj_2398.32"> 39
+1 	 0 	 NP[nb]/N 	 1 	 projections The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 projections are
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 in are
+5 	 3 	 PP/NP 	 1 	 neighborhood in
+5 	 4 	 NP[nb]/N 	 1 	 neighborhood the
+5 	 6 	 (NP\NP)/NP 	 1 	 neighborhood of
+8 	 6 	 (NP\NP)/NP 	 2 	 cents of
+8 	 7 	 N/N 	 1 	 cents 50
+8 	 9 	 (NP\NP)/N 	 1 	 cents a
+8 	 13 	 NP\NP 	 1 	 cents cents
+8 	 15 	 (NP\NP)/PP 	 1 	 cents compared
+10 	 9 	 (NP\NP)/N 	 2 	 share a
+13 	 11 	 (NP\NP)/(NP\NP) 	 2 	 cents to
+13 	 12 	 (NP\NP)/(NP\NP) 	 2 	 cents 75
+16 	 15 	 (NP\NP)/PP 	 2 	 with compared
+19 	 16 	 PP/NP 	 1 	 $ with
+19 	 17 	 NP[nb]/N 	 1 	 $ a
+19 	 18 	 N/N 	 1 	 $ restated
+19 	 21 	 (NP\NP)/N 	 1 	 $ a
+19 	 25 	 (NP\NP)\NP 	 1 	 $ earlier
+20 	 19 	 N/N[num] 	 1 	 1.65 $
+22 	 21 	 (NP\NP)/N 	 2 	 share a
+24 	 23 	 NP[nb]/N 	 1 	 year a
+24 	 25 	 (NP\NP)\NP 	 2 	 year earlier
+25 	 27 	 ((NP\NP)\(NP\NP))/S[dcl] 	 2 	 earlier when
+28 	 29 	 (S[dcl]\NP)/NP 	 1 	 profit was
+29 	 27 	 ((NP\NP)\(NP\NP))/S[dcl] 	 3 	 was when
+29 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 was on
+30 	 29 	 (S[dcl]\NP)/NP 	 2 	 $ was
+32 	 30 	 N/N[num] 	 1 	 million $
+32 	 31 	 N/N 	 1 	 million 107.8
+34 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 sales on
+34 	 35 	 (NP\NP)/NP 	 1 	 sales of
+36 	 35 	 (NP\NP)/NP 	 2 	 $ of
+38 	 36 	 N/N[num] 	 1 	 million $
+38 	 37 	 N/N 	 1 	 million 435.5
+<\s>
+<s id="wsj_2398.33"> 42
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Himont faces
+1 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 faces while
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 prices faces
+3 	 2 	 N/N 	 1 	 prices lower
+3 	 4 	 (NP\NP)/NP 	 1 	 prices for
+7 	 4 	 (NP\NP)/NP 	 2 	 product for
+7 	 5 	 NP[nb]/N 	 1 	 product its
+7 	 6 	 N/N 	 1 	 product mainstay
+9 	 4 	 (NP\NP)/NP 	 2 	 polypropylene for
+12 	 13 	 (S[dcl]\NP)/PP 	 1 	 it goes
+13 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 goes while
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 goes forward
+15 	 13 	 (S[dcl]\NP)/PP 	 2 	 with goes
+20 	 15 	 PP/NP 	 1 	 program with
+20 	 16 	 NP[nb]/N 	 1 	 program a
+20 	 17 	 N/N 	 1 	 program heavy
+20 	 18 	 N/N 	 1 	 program capital
+20 	 19 	 N/N 	 1 	 program investment
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 bolster to
+26 	 22 	 (S[b]\NP)/NP 	 2 	 supply bolster
+26 	 23 	 NP[nb]/N 	 1 	 supply its
+26 	 24 	 N/N 	 1 	 supply raw
+26 	 25 	 N/N 	 1 	 supply material
+28 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 develop to
+30 	 28 	 (S[b]\NP)/NP 	 2 	 uses develop
+30 	 29 	 N/N 	 1 	 uses new
+30 	 31 	 (NP\NP)/NP 	 1 	 uses for
+32 	 31 	 (NP\NP)/NP 	 2 	 polypropylene for
+32 	 34 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 polypropylene whose
+35 	 34 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 markets whose
+35 	 36 	 (S[dcl]\NP)/NP 	 1 	 markets include <XB>
+36 	 34 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 include whose
+41 	 36 	 (S[dcl]\NP)/NP 	 2 	 industries include
+41 	 37 	 NP[nb]/N 	 1 	 industries the
+41 	 38 	 N/N 	 1 	 industries packaging
+41 	 40 	 N/N 	 1 	 industries automobile
+<\s>
+<s id="wsj_2398.34"> 33
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 3 	 S[pss]\NP 	 1 	 company based <XB>
+1 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 company is
+1 	 10 	 (S[adj]\NP)/PP 	 1 	 company 81%-owned <XB>
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Wilmington in
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Del. in
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 81%-owned is
+11 	 10 	 (S[adj]\NP)/PP 	 2 	 by 81%-owned
+15 	 11 	 PP/NP 	 1 	 A. by
+15 	 12 	 N/N 	 1 	 A. Montedison
+15 	 13 	 N/N 	 1 	 A. S.p
+15 	 17 	 NP\NP 	 1 	 A. Milan
+15 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 A. which
+15 	 20 	 (S[dcl]\NP)/NP 	 1 	 A. has <XB>
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 offer has
+22 	 21 	 NP[nb]/N 	 1 	 offer an
+22 	 23 	 S[adj]\NP 	 1 	 offer outstanding <XB>
+22 	 24 	 (NP\NP)/NP 	 1 	 offer for
+27 	 24 	 (NP\NP)/NP 	 2 	 shares for
+27 	 25 	 NP[nb]/N 	 1 	 shares the
+27 	 26 	 N/N 	 1 	 shares Himont
+27 	 32 	 (S[b]\NP)/NP 	 2 	 shares own <XU>
+28 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it does
+28 	 32 	 (S[b]\NP)/NP 	 1 	 it own <XB>
+29 	 30 	 (S\NP)\(S\NP) 	 2 	 does n't
+29 	 31 	 (S\NP)\(S\NP) 	 2 	 does already
+32 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 own does
+<\s>
+<s id="wsj_2398.35"> 30
+3 	 0 	 (S/S)/NP 	 2 	 Corp. At
+3 	 1 	 N/N 	 1 	 Corp. Quantum
+3 	 2 	 N/N 	 1 	 Corp. Chemical
+3 	 6 	 NP\NP 	 1 	 Corp. York
+6 	 5 	 (NP\NP)/(NP\NP) 	 2 	 York New
+9 	 8 	 NP[nb]/N 	 1 	 trouble the
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 trouble is
+10 	 0 	 (S/S)/NP 	 1 	 is At
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 prices is
+12 	 11 	 N/N 	 1 	 prices lower
+12 	 13 	 (NP\NP)/NP 	 1 	 prices for
+14 	 13 	 (NP\NP)/NP 	 2 	 polyethylene for
+18 	 10 	 (S[dcl]\NP)/NP 	 2 	 costs is
+18 	 16 	 N/N 	 1 	 costs higher
+18 	 17 	 N/N 	 1 	 costs debt
+21 	 10 	 (S[dcl]\NP)/NP 	 2 	 idling is
+21 	 20 	 NP[nb]/N 	 1 	 idling the
+21 	 22 	 (NP\NP)/NP 	 1 	 idling of
+21 	 26 	 (NP\NP)/PP 	 1 	 idling due
+25 	 22 	 (NP\NP)/NP 	 2 	 plant of
+25 	 23 	 NP[nb]/N 	 1 	 plant an
+25 	 24 	 N/N 	 1 	 plant important
+27 	 26 	 (NP\NP)/PP 	 2 	 to due
+29 	 27 	 PP/NP 	 1 	 explosion to
+29 	 28 	 NP[nb]/N 	 1 	 explosion an
+<\s>
+<s id="wsj_2398.36"> 21
+1 	 0 	 NP[nb]/N 	 1 	 analysts Some
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 analysts hedge
+2 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 hedge because
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 estimates hedge
+4 	 3 	 NP[nb]/N 	 1 	 estimates their
+4 	 5 	 (NP\NP)/NP 	 1 	 estimates for
+6 	 5 	 (NP\NP)/NP 	 2 	 Quantum for
+9 	 10 	 (S[dcl]\NP[expl])/(S[pss]\NP) 	 1 	 it is
+10 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is because
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 is n't
+12 	 10 	 (S[dcl]\NP[expl])/(S[pss]\NP) 	 2 	 known is
+13 	 12 	 (S[pss]\NP)/S[qem] 	 2 	 when known
+15 	 14 	 NP[nb]/N 	 1 	 company the
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 company will
+15 	 17 	 (S[b]\NP)/NP 	 1 	 company book <XB>
+16 	 13 	 S[qem]/S[dcl] 	 1 	 will when
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 book will
+20 	 17 	 (S[b]\NP)/NP 	 2 	 charges book
+20 	 18 	 N/N 	 1 	 charges certain
+20 	 19 	 N/N 	 1 	 charges one-time
+<\s>
+<s id="wsj_2398.37"> 11
+2 	 1 	 NP[nb]/N 	 1 	 estimates the
+2 	 3 	 S[dcl]\NP 	 1 	 estimates range
+3 	 0 	 S/S 	 1 	 range But
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 range to
+5 	 4 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 break-even from
+6 	 4 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 to from
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+8 	 7 	 N/N 	 1 	 cents 35
+8 	 9 	 (NP\NP)/N 	 1 	 cents a
+10 	 9 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_2398.38"> 24
+4 	 0 	 (S/S)/NP 	 2 	 quarter In
+4 	 1 	 NP[nb]/N 	 1 	 quarter the
+4 	 2 	 N/N 	 1 	 quarter 1988
+4 	 3 	 N/N 	 1 	 quarter third
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 Quantum earned
+7 	 0 	 (S/S)/NP 	 1 	 earned In
+7 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 earned on
+8 	 7 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 99.8
+13 	 7 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+13 	 15 	 (NP\NP)/N 	 1 	 $ a
+14 	 13 	 N/N[num] 	 1 	 3.92 $
+16 	 15 	 (NP\NP)/N 	 2 	 share a
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 sales on
+19 	 20 	 (NP\NP)/NP 	 1 	 sales of
+21 	 20 	 (NP\NP)/NP 	 2 	 $ of
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 724.4
+<\s>
+<s id="wsj_2398.39"> 47
+3 	 0 	 NP[nb]/N 	 1 	 producer Another
+3 	 1 	 N/N 	 1 	 producer big
+3 	 2 	 N/N 	 1 	 producer polyethylene
+3 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 producer is
+3 	 10 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 producer expected <XB>
+3 	 12 	 (S[b]\NP)/NP 	 1 	 producer post <XB>
+7 	 5 	 N/N 	 1 	 Corp. Union
+7 	 6 	 N/N 	 1 	 Corp. Carbide
+7 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Corp. is
+7 	 10 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Corp. expected <XB>
+7 	 12 	 (S[b]\NP)/NP 	 1 	 Corp. post <XB>
+10 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+11 	 10 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 post to
+13 	 12 	 (S[b]\NP)/NP 	 2 	 profit post
+13 	 14 	 (NP\NP)/PP 	 1 	 profit of
+13 	 24 	 (NP\NP)/PP 	 1 	 profit compared
+15 	 14 	 (NP\NP)/PP 	 2 	 between of
+16 	 15 	 PP/NP 	 1 	 $ between
+16 	 18 	 (NP\NP)/N 	 1 	 $ a
+17 	 16 	 N/N[num] 	 1 	 1 $
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+21 	 15 	 PP/NP 	 1 	 $ between
+22 	 21 	 N/N[num] 	 1 	 1.25 $
+25 	 24 	 (NP\NP)/PP 	 2 	 with compared
+26 	 25 	 PP/NP 	 1 	 $ with
+26 	 28 	 (NP\NP)/N 	 1 	 $ a
+26 	 32 	 (NP\NP)\NP 	 1 	 $ earlier
+27 	 26 	 N/N[num] 	 1 	 1.56 $
+29 	 28 	 (NP\NP)/N 	 2 	 share a
+31 	 30 	 NP[nb]/N 	 1 	 year a
+31 	 32 	 (NP\NP)\NP 	 2 	 year earlier
+32 	 34 	 ((NP\NP)\(NP\NP))/S[dcl] 	 2 	 earlier when
+36 	 35 	 NP[nb]/N 	 1 	 company the
+36 	 37 	 (S[dcl]\NP)/NP 	 1 	 company earned
+37 	 34 	 ((NP\NP)\(NP\NP))/S[dcl] 	 3 	 earned when
+37 	 41 	 ((S\NP)\(S\NP))/NP 	 2 	 earned on
+38 	 37 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+40 	 38 	 N/N[num] 	 1 	 million $
+40 	 39 	 N/N 	 1 	 million 213
+42 	 41 	 ((S\NP)\(S\NP))/NP 	 3 	 sales on
+42 	 43 	 (NP\NP)/NP 	 1 	 sales of
+44 	 43 	 (NP\NP)/NP 	 2 	 $ of
+46 	 44 	 N/N[num] 	 1 	 billion $
+46 	 45 	 N/N 	 1 	 billion 2.11
+<\s>
+<s id="wsj_2398.40"> 10
+0 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Himont declined
+0 	 9 	 S[b]\NP 	 1 	 Himont comment <XB>
+2 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Quantum declined
+2 	 9 	 S[b]\NP 	 1 	 Quantum comment <XB>
+5 	 4 	 N/N 	 1 	 Carbide Union
+5 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Carbide declined
+5 	 9 	 S[b]\NP 	 1 	 Carbide comment <XB>
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 declined all
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+<\s>

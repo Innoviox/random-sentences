@@ -1,0 +1,515 @@
+<s id="wsj_1415.1"> 38
+1 	 0 	 NP[nb]/N 	 1 	 bill A
+1 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bill that
+1 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bill would <XB>
+1 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 bill permit <XB>
+1 	 21 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 bill is
+1 	 22 	 (S[ng]\NP)/NP 	 1 	 bill facing <XB>
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 permit would
+9 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 Commission permit
+9 	 5 	 NP[nb]/N 	 1 	 Commission the
+9 	 6 	 N/N 	 1 	 Commission Securities
+9 	 8 	 N/N 	 1 	 Commission Exchange
+9 	 11 	 (S[b]\NP)/NP 	 1 	 Commission monitor <XB>
+10 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to permit
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 monitor to
+14 	 11 	 (S[b]\NP)/NP 	 2 	 condition monitor
+14 	 12 	 NP[nb]/N 	 1 	 condition the
+14 	 13 	 N/N 	 1 	 condition financial
+14 	 15 	 (NP\NP)/NP 	 1 	 condition of
+17 	 16 	 N/N 	 1 	 firms securities
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 firms '
+20 	 15 	 (NP\NP)/NP 	 2 	 companies of
+20 	 18 	 (NP[nb]/N)\NP 	 1 	 companies '
+20 	 19 	 N/N 	 1 	 companies holding
+22 	 21 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 facing is
+24 	 22 	 (S[ng]\NP)/NP 	 2 	 opposition facing
+24 	 23 	 N/N 	 1 	 opposition tough
+24 	 25 	 (NP\NP)/NP 	 1 	 opposition from
+29 	 25 	 (NP\NP)/NP 	 2 	 firms from
+29 	 26 	 NP[nb]/N 	 1 	 firms some
+29 	 27 	 N/N 	 1 	 firms Wall
+29 	 28 	 N/N 	 1 	 firms Street
+29 	 31 	 (NP\NP)/(S[dcl]\NP) 	 1 	 firms which
+29 	 32 	 (S[dcl]\NP)/S[em] 	 1 	 firms argue <XB>
+32 	 31 	 (NP\NP)/(S[dcl]\NP) 	 2 	 argue which
+33 	 32 	 (S[dcl]\NP)/S[em] 	 2 	 that argue
+35 	 34 	 NP[nb]/N 	 1 	 legislation the
+35 	 36 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 legislation is
+35 	 37 	 S[adj]\NP 	 1 	 legislation unnecessary <XB>
+36 	 33 	 S[em]/S[dcl] 	 1 	 is that
+37 	 36 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unnecessary is
+<\s>
+<s id="wsj_1415.2"> 30
+1 	 0 	 NP[nb]/N 	 1 	 legislation The
+1 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 legislation will
+1 	 11 	 (S[b]\NP)/NP 	 1 	 legislation be <XB>
+4 	 3 	 N/N 	 1 	 issues other
+4 	 5 	 (S[pss]\NP)/PP 	 1 	 issues related <XB>
+4 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 issues will
+4 	 11 	 (S[b]\NP)/NP 	 1 	 issues be <XB>
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 to related
+9 	 6 	 PP/NP 	 1 	 market to
+9 	 7 	 NP[nb]/N 	 1 	 market the
+9 	 8 	 N/N 	 1 	 market stock
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+13 	 11 	 (S[b]\NP)/NP 	 2 	 focus be
+13 	 12 	 NP[nb]/N 	 1 	 focus the
+13 	 14 	 (NP\NP)/NP 	 1 	 focus of
+15 	 14 	 (NP\NP)/NP 	 2 	 hearings of
+15 	 16 	 (NP\NP)/N 	 1 	 hearings this
+15 	 18 	 (NP\NP)/NP 	 1 	 hearings by
+17 	 16 	 (NP\NP)/N 	 2 	 week this
+24 	 18 	 (NP\NP)/NP 	 2 	 Subcommittee by
+24 	 19 	 NP[nb]/N 	 1 	 Subcommittee the
+24 	 20 	 N/N 	 1 	 Subcommittee House
+24 	 21 	 N/N 	 1 	 Subcommittee Telecommunications
+24 	 23 	 N/N 	 1 	 Subcommittee Finance
+29 	 18 	 (NP\NP)/NP 	 2 	 Subcommittee by
+29 	 26 	 NP[nb]/N 	 1 	 Subcommittee the
+29 	 27 	 N/N 	 1 	 Subcommittee Senate
+29 	 28 	 N/N 	 1 	 Subcommittee Securities
+<\s>
+<s id="wsj_1415.3"> 38
+1 	 0 	 N/N 	 1 	 Breeden Richard
+1 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Breeden has
+1 	 12 	 (S[pt]\NP)/NP 	 1 	 Breeden taken <XB>
+5 	 3 	 NP[nb]/N 	 1 	 chairman the
+5 	 4 	 N/N 	 1 	 chairman new
+5 	 6 	 (NP\NP)/NP 	 1 	 chairman of
+5 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 chairman has
+5 	 12 	 (S[pt]\NP)/NP 	 1 	 chairman taken <XB>
+8 	 6 	 (NP\NP)/NP 	 2 	 SEC of
+8 	 7 	 NP[nb]/N 	 1 	 SEC the
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 has n't
+12 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 taken has
+15 	 12 	 (S[pt]\NP)/NP 	 2 	 position taken
+15 	 13 	 NP[nb]/N 	 1 	 position a
+15 	 14 	 N/N 	 1 	 position formal
+15 	 16 	 (NP\NP)/NP 	 1 	 position on
+15 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 position which
+15 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 position would <XB>
+15 	 23 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 position require <XB>
+15 	 30 	 ((S[b]\NP)/NP)/NP 	 1 	 position give <XU>
+18 	 16 	 (NP\NP)/NP 	 2 	 bill on
+18 	 17 	 NP[nb]/N 	 1 	 bill the
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would which
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 would also
+23 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 require would
+24 	 23 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 investors require
+24 	 26 	 (S[b]\NP)/NP 	 1 	 investors disclose <XB>
+25 	 23 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to require
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 disclose to
+28 	 26 	 (S[b]\NP)/NP 	 2 	 trades disclose
+28 	 27 	 N/N 	 1 	 trades large
+30 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give would
+30 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 give during
+32 	 30 	 ((S[b]\NP)/NP)/NP 	 3 	 SEC give
+32 	 31 	 NP[nb]/N 	 1 	 SEC the
+34 	 30 	 ((S[b]\NP)/NP)/NP 	 2 	 authority give
+34 	 33 	 N/N 	 1 	 authority additional
+37 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 emergencies during
+37 	 36 	 N/N 	 1 	 emergencies market
+<\s>
+<s id="wsj_1415.4"> 38
+2 	 4 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 he told
+4 	 0 	 S/S 	 1 	 told However
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 told recently
+8 	 4 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 Committee told
+8 	 5 	 NP[nb]/N 	 1 	 Committee the
+8 	 6 	 N/N 	 1 	 Committee Senate
+8 	 7 	 N/N 	 1 	 Committee Banking
+9 	 4 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that told
+10 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 he believes
+11 	 9 	 S[em]/S[dcl] 	 1 	 believes that
+13 	 12 	 NP[nb]/N 	 1 	 agency the
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 agency should
+13 	 15 	 (S[b]\NP)/NP 	 1 	 agency have <XB>
+14 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 should believes
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have should
+17 	 15 	 (S[b]\NP)/NP 	 2 	 authority have
+17 	 16 	 N/N 	 1 	 authority explicit
+17 	 19 	 (S[b]\NP)/NP 	 1 	 authority monitor <XB>
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 monitor to
+19 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 monitor at
+21 	 19 	 (S[b]\NP)/NP 	 2 	 levels monitor
+21 	 20 	 N/N 	 1 	 levels debt
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 companies at
+24 	 23 	 N/N 	 1 	 companies holding
+24 	 30 	 (NP\NP)/(S[dcl]\NP) 	 1 	 companies which
+24 	 31 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 companies are <XB>
+24 	 33 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 companies used <XB>
+24 	 35 	 (S[b]\NP)/NP 	 1 	 companies issue <XB>
+26 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 affiliates at
+26 	 27 	 (NP\NP)/NP 	 1 	 affiliates of
+26 	 30 	 (NP\NP)/(S[dcl]\NP) 	 1 	 affiliates which
+26 	 31 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 affiliates are <XB>
+26 	 33 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 affiliates used <XB>
+26 	 35 	 (S[b]\NP)/NP 	 1 	 affiliates issue <XB>
+28 	 27 	 (NP\NP)/NP 	 2 	 broker-dealers of
+31 	 30 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are which
+31 	 32 	 (S\NP)\(S\NP) 	 2 	 are frequently
+33 	 31 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 used are
+34 	 33 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+35 	 34 	 (S[to]\NP)/(S[b]\NP) 	 2 	 issue to
+37 	 35 	 (S[b]\NP)/NP 	 2 	 loans issue
+37 	 36 	 N/N 	 1 	 loans bridge
+<\s>
+<s id="wsj_1415.5"> 11
+2 	 0 	 NP[nb]/N 	 1 	 loans The
+2 	 1 	 N/N 	 1 	 loans bridge
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 loans are
+2 	 4 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 loans intended <XB>
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 intended are
+5 	 4 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to intended
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provide to
+8 	 6 	 ((S[b]\NP)/PP)/NP 	 3 	 financing provide
+8 	 7 	 N/N 	 1 	 financing temporary
+9 	 6 	 ((S[b]\NP)/PP)/NP 	 2 	 for provide
+10 	 9 	 PP/NP 	 1 	 acquisitions for
+<\s>
+<s id="wsj_1415.6"> 39
+2 	 1 	 NP/NP 	 1 	 loans such
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 loans are
+2 	 5 	 S[pss]\NP 	 1 	 loans refinanced <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 are Since
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 are often
+5 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 refinanced are
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 refinanced through
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 sale through
+8 	 7 	 NP[nb]/N 	 1 	 sale the
+8 	 9 	 (NP\NP)/NP 	 1 	 sale of
+12 	 10 	 (N/N)/(N/N) 	 2 	 high-yield high-risk
+14 	 9 	 (NP\NP)/NP 	 2 	 bonds of
+14 	 12 	 N/N 	 1 	 bonds high-yield
+14 	 13 	 N/N 	 1 	 bonds junk
+18 	 16 	 NP[nb]/N 	 1 	 woes the
+18 	 17 	 N/N 	 1 	 woes recent
+18 	 19 	 (NP\NP)/NP 	 1 	 woes of
+18 	 23 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 woes have
+18 	 24 	 (S[pt]\NP)/NP 	 1 	 woes renewed <XB>
+22 	 19 	 (NP\NP)/NP 	 2 	 market of
+22 	 20 	 NP[nb]/N 	 1 	 market the
+22 	 21 	 N/N 	 1 	 market junk-bond
+23 	 0 	 (S/S)/S[dcl] 	 1 	 have Since
+24 	 23 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 renewed have
+25 	 24 	 (S[pt]\NP)/NP 	 2 	 concerns renewed
+25 	 26 	 (NP\NP)/NP 	 1 	 concerns among
+25 	 28 	 (NP\NP)/NP 	 1 	 concerns about
+27 	 26 	 (NP\NP)/NP 	 2 	 regulators among
+30 	 28 	 (NP\NP)/NP 	 2 	 risks about
+30 	 29 	 NP[nb]/N 	 1 	 risks the
+30 	 31 	 (S[pss]\NP)/PP 	 1 	 risks associated <XB>
+32 	 31 	 (S[pss]\NP)/PP 	 2 	 with associated
+35 	 32 	 PP/NP 	 1 	 firms with
+35 	 33 	 N/N 	 1 	 firms Wall
+35 	 34 	 N/N 	 1 	 firms Street
+35 	 36 	 (S[ng]\NP)/NP 	 1 	 firms issuing <XB>
+38 	 36 	 (S[ng]\NP)/NP 	 2 	 loans issuing
+38 	 37 	 N/N 	 1 	 loans bridge
+<\s>
+<s id="wsj_1415.7"> 11
+4 	 1 	 NP[nb]/N 	 1 	 executives some
+4 	 2 	 N/N 	 1 	 executives Wall
+4 	 3 	 N/N 	 1 	 executives Street
+4 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 executives argue
+5 	 0 	 S/S 	 1 	 argue But
+6 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that argue
+8 	 7 	 NP/NP 	 1 	 fears such
+8 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 fears are
+8 	 10 	 S[adj]\NP 	 1 	 fears unwarranted <XB>
+9 	 6 	 S[em]/S[dcl] 	 1 	 are that
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unwarranted are
+<\s>
+<s id="wsj_1415.8"> 35
+4 	 0 	 (S/S)/NP 	 2 	 letter In
+4 	 1 	 NP[nb]/N 	 1 	 letter a
+4 	 2 	 N/N 	 1 	 letter July
+4 	 3 	 N/N 	 1 	 letter 6
+4 	 5 	 (NP\NP)/NP 	 1 	 letter to
+9 	 5 	 (NP\NP)/NP 	 2 	 Subcommittee to
+9 	 6 	 NP[nb]/N 	 1 	 Subcommittee the
+9 	 7 	 N/N 	 1 	 Subcommittee Senate
+9 	 8 	 N/N 	 1 	 Subcommittee Securities
+13 	 11 	 N/N 	 1 	 Corp. First
+13 	 12 	 N/N 	 1 	 Corp. Boston
+13 	 14 	 (S[dcl]\NP)/S[em] 	 1 	 Corp. argued
+14 	 0 	 (S/S)/NP 	 1 	 argued In
+15 	 14 	 (S[dcl]\NP)/S[em] 	 2 	 that argued
+17 	 16 	 NP[nb]/N 	 1 	 fact the
+17 	 29 	 (S[dcl]\NP)/S[em] 	 1 	 fact demonstrates
+18 	 17 	 N/S[em] 	 1 	 that fact
+22 	 19 	 NP[nb]/N 	 1 	 firm no
+22 	 20 	 N/N 	 1 	 firm retail
+22 	 21 	 N/N 	 1 	 firm brokerage
+22 	 23 	 S[dcl]\NP 	 1 	 firm failed
+23 	 18 	 S[em]/S[dcl] 	 1 	 failed that
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 failed during
+28 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 crash during
+28 	 25 	 NP[nb]/N 	 1 	 crash the
+28 	 26 	 N/N 	 1 	 crash 1987
+28 	 27 	 N/N 	 1 	 crash market
+29 	 15 	 S[em]/S[dcl] 	 1 	 demonstrates that
+30 	 29 	 (S[dcl]\NP)/S[em] 	 2 	 that demonstrates
+32 	 31 	 N/N 	 1 	 rules current
+32 	 33 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 rules are
+32 	 34 	 S[adj]\NP 	 1 	 rules adequate <XB>
+33 	 30 	 S[em]/S[dcl] 	 1 	 are that
+34 	 33 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 adequate are
+<\s>
+<s id="wsj_1415.9"> 49
+1 	 0 	 N/N 	 1 	 Boston First
+1 	 3 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 Boston whose
+1 	 25 	 (S[dcl]\NP)/S[dcl] 	 1 	 Boston said
+3 	 10 	 (NP\NP)\(NP\NP) 	 2 	 whose Group
+5 	 3 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 company whose
+5 	 4 	 N/N 	 1 	 company holding
+5 	 12 	 (S[dcl]\NP)/NP 	 1 	 company is <XB>
+10 	 7 	 ((NP\NP)\(NP\NP))/((NP\NP)\(NP\NP)) 	 3 	 Group CS
+10 	 8 	 ((NP\NP)\(NP\NP))/((NP\NP)\(NP\NP)) 	 3 	 Group First
+10 	 9 	 ((NP\NP)\(NP\NP))/((NP\NP)\(NP\NP)) 	 3 	 Group Boston
+12 	 3 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 is whose
+13 	 12 	 (S[dcl]\NP)/NP 	 2 	 one is
+13 	 14 	 (NP\NP)/NP 	 1 	 one of
+17 	 14 	 (NP\NP)/NP 	 2 	 issuers of
+17 	 15 	 NP[nb]/N 	 1 	 issuers the
+17 	 16 	 N/N 	 1 	 issuers larger
+17 	 18 	 (NP\NP)/NP 	 1 	 issuers of
+17 	 21 	 (NP\NP)/NP 	 1 	 issuers on
+20 	 18 	 (NP\NP)/NP 	 2 	 loans of
+20 	 19 	 N/N 	 1 	 loans bridge
+23 	 21 	 (NP\NP)/NP 	 2 	 Street on
+23 	 22 	 N/N 	 1 	 Street Wall
+26 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it is
+26 	 29 	 (S[adj]\NP)/S[em] 	 1 	 it concerned <XB>
+27 	 25 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+27 	 28 	 (S\NP)\(S\NP) 	 2 	 is also
+29 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 concerned is
+30 	 29 	 (S[adj]\NP)/S[em] 	 2 	 that concerned
+33 	 32 	 NP[nb]/N 	 1 	 SEC the
+33 	 34 	 (S[dcl]\NP)/NP 	 1 	 SEC has
+34 	 31 	 (S/S)/S[dcl] 	 2 	 has once
+36 	 34 	 (S[dcl]\NP)/NP 	 2 	 power has
+36 	 35 	 NP[nb]/N 	 1 	 power the
+36 	 38 	 (S[b]\NP)/NP 	 1 	 power monitor <XB>
+38 	 37 	 (S[to]\NP)/(S[b]\NP) 	 2 	 monitor to
+40 	 38 	 (S[b]\NP)/NP 	 2 	 companies monitor
+40 	 39 	 N/N 	 1 	 companies holding
+42 	 43 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+42 	 44 	 (S[b]\NP)/(S[to]\NP) 	 1 	 it try <XB>
+42 	 46 	 (S[b]\NP)/NP 	 1 	 it regulate <XB>
+43 	 30 	 S[em]/S[dcl] 	 1 	 will that
+43 	 31 	 (S/S)/S[dcl] 	 1 	 will once
+44 	 43 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 try will
+45 	 44 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to try
+46 	 45 	 (S[to]\NP)/(S[b]\NP) 	 2 	 regulate to
+48 	 46 	 (S[b]\NP)/NP 	 2 	 activities regulate
+48 	 47 	 NP[nb]/N 	 1 	 activities their
+<\s>
+<s id="wsj_1415.10"> 55
+1 	 0 	 NP[nb]/N 	 1 	 proposal The
+1 	 3 	 (NP\NP)/(S[adj]\NP) 	 1 	 proposal while
+1 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 proposal can
+1 	 11 	 S[adj]\NP 	 1 	 proposal misleading <XB>
+4 	 3 	 (NP\NP)/(S[adj]\NP) 	 2 	 well-intended while
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 I think
+8 	 51 	 (S[dcl]\S[dcl])\NP 	 1 	 can said
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+9 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 be because
+11 	 9 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 misleading be
+11 	 10 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 misleading dangerously
+15 	 13 	 NP[nb]/N 	 1 	 consequence the
+15 	 14 	 N/N 	 1 	 consequence likely
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 consequence would
+15 	 19 	 (S[b]\NP)/NP 	 1 	 consequence weaken <XB>
+15 	 23 	 (S[b]\NP)/NP 	 1 	 consequence strengthen <XU>
+16 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 would because
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+18 	 17 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to be
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 weaken to
+22 	 21 	 conj/conj 	 1 	 than rather
+23 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 strengthen to
+25 	 19 	 (S[b]\NP)/NP 	 2 	 control weaken <XU>
+25 	 23 	 (S[b]\NP)/NP 	 2 	 control strengthen
+25 	 24 	 NP[nb]/N 	 1 	 control the
+25 	 29 	 ((S[pt]\NP)/PP)/NP 	 3 	 control exercised <XU>
+27 	 26 	 NP[nb]/N 	 1 	 SEC the
+27 	 28 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 SEC has
+27 	 29 	 ((S[pt]\NP)/PP)/NP 	 1 	 SEC exercised <XB>
+29 	 28 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 exercised has
+29 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 exercised for
+32 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+32 	 31 	 N/N 	 1 	 years 50
+33 	 29 	 ((S[pt]\NP)/PP)/NP 	 2 	 over exercised
+36 	 33 	 PP/NP 	 1 	 adequacy over
+36 	 34 	 NP[nb]/N 	 1 	 adequacy the
+36 	 35 	 N/N 	 1 	 adequacy financial
+36 	 39 	 (NP\NP)/NP 	 1 	 adequacy of
+38 	 33 	 PP/NP 	 1 	 viability over
+38 	 34 	 NP[nb]/N 	 1 	 viability the
+38 	 35 	 N/N 	 1 	 viability financial
+38 	 39 	 (NP\NP)/NP 	 1 	 viability of
+40 	 39 	 (NP\NP)/NP 	 2 	 broker-dealers of
+43 	 42 	 N/N 	 1 	 Raoul-Duval Michael
+43 	 51 	 (S[dcl]\S[dcl])\NP 	 2 	 Raoul-Duval said
+46 	 45 	 N/N 	 1 	 director managing
+46 	 47 	 (NP\NP)/NP 	 1 	 director of
+46 	 51 	 (S[dcl]\S[dcl])\NP 	 2 	 director said
+49 	 47 	 (NP\NP)/NP 	 2 	 Boston of
+49 	 48 	 N/N 	 1 	 Boston First
+51 	 52 	 (S\S)/NP 	 1 	 said in
+54 	 52 	 (S\S)/NP 	 2 	 interview in
+54 	 53 	 NP[nb]/N 	 1 	 interview an
+<\s>
+<s id="wsj_1415.11"> 26
+1 	 0 	 NP[nb]/N 	 1 	 bill The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bill would
+1 	 3 	 (((S[b]\NP)/PP)/(S[adj]\NP))/NP 	 1 	 bill divert <XB>
+2 	 25 	 (S[dcl]\S[dcl])\NP 	 1 	 would said
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 divert would
+5 	 3 	 (((S[b]\NP)/PP)/(S[adj]\NP))/NP 	 4 	 resources divert
+5 	 4 	 N/N 	 1 	 resources scarce
+5 	 6 	 (NP\NP)/NP 	 1 	 resources of
+5 	 9 	 (S[adj]\NP)/PP 	 1 	 resources away <XB>
+8 	 6 	 (NP\NP)/NP 	 2 	 commission of
+8 	 7 	 NP[nb]/N 	 1 	 commission the
+9 	 3 	 (((S[b]\NP)/PP)/(S[adj]\NP))/NP 	 3 	 away divert
+10 	 9 	 (S[adj]\NP)/PP 	 2 	 from away
+11 	 10 	 PP/NP 	 1 	 broker-dealers from
+12 	 3 	 (((S[b]\NP)/PP)/(S[adj]\NP))/NP 	 2 	 into divert
+13 	 12 	 PP/NP 	 1 	 areas into
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 areas which
+13 	 16 	 (S[dcl]\NP)/NP 	 1 	 areas have <XB>
+16 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have which
+16 	 15 	 (S\NP)/(S\NP) 	 2 	 have simply
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 way have
+18 	 17 	 NP[nb]/N 	 1 	 way no
+18 	 19 	 (NP\NP)/(S[ng]\NP) 	 1 	 way of
+20 	 19 	 (NP\NP)/(S[ng]\NP) 	 2 	 affecting of
+21 	 20 	 (S[ng]\NP)/NP 	 2 	 broker-dealers affecting
+24 	 23 	 N/N 	 1 	 Raoul-Duval Mr.
+24 	 25 	 (S[dcl]\S[dcl])\NP 	 2 	 Raoul-Duval said
+<\s>
+<s id="wsj_1415.12"> 25
+0 	 1 	 (NP\NP)/NP 	 1 	 Sources in
+0 	 5 	 (NP\NP)/NP 	 1 	 Sources on <XU>
+0 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Sources say
+3 	 1 	 (NP\NP)/NP 	 2 	 industry in
+3 	 2 	 NP[nb]/N 	 1 	 industry the
+7 	 5 	 (NP\NP)/NP 	 2 	 Hill on
+7 	 6 	 N/N 	 1 	 Hill Capitol
+10 	 9 	 NP[nb]/N 	 1 	 compromise a
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 compromise that
+10 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 compromise would <XB>
+10 	 13 	 (S[b]\NP)/NP 	 1 	 compromise placate <XB>
+10 	 17 	 (S[ng]\NP)/NP 	 1 	 compromise addressing <XB>
+10 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 compromise may
+10 	 24 	 S[adj]\NP 	 1 	 compromise possible <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 placate would
+13 	 16 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 placate while
+15 	 13 	 (S[b]\NP)/NP 	 2 	 industry placate
+15 	 14 	 NP[nb]/N 	 1 	 industry the
+17 	 16 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 addressing while
+19 	 18 	 NP[nb]/N 	 1 	 SEC the
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 SEC 's
+21 	 17 	 (S[ng]\NP)/NP 	 2 	 concerns addressing
+21 	 20 	 (NP[nb]/N)\NP 	 1 	 concerns 's
+22 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 may say
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+24 	 23 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 possible be
+<\s>
+<s id="wsj_1415.13"> 29
+1 	 0 	 NP[nb]/N 	 1 	 aide An
+1 	 2 	 (NP\NP)/NP 	 1 	 aide to
+1 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 aide says
+1 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 aide adds <XU>
+6 	 2 	 (NP\NP)/NP 	 2 	 Subcommittee to
+6 	 3 	 NP[nb]/N 	 1 	 Subcommittee the
+6 	 4 	 N/N 	 1 	 Subcommittee Senate
+6 	 5 	 N/N 	 1 	 Subcommittee Securities
+9 	 8 	 NP[nb]/N 	 1 	 legislators some
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 legislators support
+10 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 support says
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 concept support
+12 	 11 	 NP[nb]/N 	 1 	 concept the
+12 	 13 	 (NP\NP)/NP 	 1 	 concept of
+15 	 13 	 (NP\NP)/NP 	 2 	 disclosure of
+15 	 14 	 N/N 	 1 	 disclosure risk
+20 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 nobody is
+20 	 22 	 (S[pss]\NP)/PP 	 1 	 nobody wedded <XB>
+21 	 18 	 (S[dcl]\NP)/S[dcl] 	 2 	 is adds
+22 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 wedded is
+23 	 22 	 (S[pss]\NP)/PP 	 2 	 to wedded
+25 	 23 	 PP/NP 	 1 	 language to
+25 	 24 	 NP[nb]/N 	 1 	 language the
+25 	 26 	 (NP\NP)/NP 	 1 	 language in
+28 	 26 	 (NP\NP)/NP 	 2 	 bill in
+28 	 27 	 NP[nb]/N 	 1 	 bill the
+<\s>
+<s id="wsj_1415.14"> 39
+1 	 0 	 N/N 	 1 	 O'Brien Edward
+1 	 10 	 (S[dcl]\NP)/S[em] 	 1 	 O'Brien said
+3 	 4 	 (NP\NP)/NP 	 1 	 president of
+3 	 10 	 (S[dcl]\NP)/S[em] 	 1 	 president said
+8 	 4 	 (NP\NP)/NP 	 2 	 Association of
+8 	 5 	 NP[nb]/N 	 1 	 Association the
+8 	 6 	 N/N 	 1 	 Association Securities
+8 	 7 	 N/N 	 1 	 Association Industry
+11 	 10 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+15 	 12 	 NP[nb]/N 	 1 	 group the
+15 	 13 	 N/N 	 1 	 group securities-industry
+15 	 14 	 N/N 	 1 	 group trade
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 group opposes
+16 	 11 	 S[em]/S[dcl] 	 1 	 opposes that
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 bill opposes
+18 	 17 	 NP[nb]/N 	 1 	 bill the
+18 	 19 	 (NP\NP)/S[dcl] 	 1 	 bill as
+20 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 it is
+20 	 22 	 S[pss]\NP 	 1 	 it written <XB>
+21 	 19 	 (NP\NP)/S[dcl] 	 2 	 is as
+22 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 written is
+24 	 10 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+25 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it is
+25 	 27 	 (S[adj]\NP)/S[dcl] 	 1 	 it hopeful <XB>
+26 	 24 	 S[em]/S[dcl] 	 1 	 is that
+27 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 hopeful is
+29 	 28 	 NP[nb]/N 	 1 	 compromise a
+29 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 compromise can
+29 	 32 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 compromise reached <XB>
+29 	 34 	 (S[b]\NP)/NP 	 1 	 compromise achieve <XB>
+30 	 27 	 (S[adj]\NP)/S[dcl] 	 2 	 can hopeful
+31 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+32 	 31 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reached be
+33 	 32 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to reached
+34 	 33 	 (S[to]\NP)/(S[b]\NP) 	 2 	 achieve to
+36 	 35 	 NP[nb]/N 	 1 	 SEC the
+36 	 37 	 (NP[nb]/N)\NP 	 2 	 SEC 's
+38 	 34 	 (S[b]\NP)/NP 	 2 	 goals achieve
+38 	 37 	 (NP[nb]/N)\NP 	 1 	 goals 's
+<\s>
+<s id="wsj_1415.15"> 24
+1 	 0 	 N/N 	 1 	 O'Brien Mr.
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 O'Brien will
+1 	 3 	 (S[b]\NP)/PP 	 1 	 O'Brien elaborate <XB>
+2 	 23 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 elaborate will
+3 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 elaborate in
+3 	 18 	 ((S\NP)\(S\NP))/N 	 2 	 elaborate this
+4 	 3 	 (S[b]\NP)/PP 	 2 	 on elaborate
+6 	 5 	 NP[nb]/N 	 1 	 SIA the
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 SIA 's
+8 	 4 	 PP/NP 	 1 	 position on
+8 	 7 	 (NP[nb]/N)\NP 	 1 	 position 's
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 testimony in
+10 	 11 	 (NP\NP)/NP 	 1 	 testimony before
+17 	 11 	 (NP\NP)/NP 	 2 	 Subcommittee before
+17 	 12 	 NP[nb]/N 	 1 	 Subcommittee the
+17 	 13 	 N/N 	 1 	 Subcommittee House
+17 	 14 	 N/N 	 1 	 Subcommittee Telecommunications
+17 	 16 	 N/N 	 1 	 Subcommittee Finance
+19 	 18 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+22 	 21 	 NP[nb]/N 	 1 	 spokesman a
+22 	 23 	 (S[dcl]\S[dcl])\NP 	 2 	 spokesman said
+<\s>

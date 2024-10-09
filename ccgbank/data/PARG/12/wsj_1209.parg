@@ -1,0 +1,99 @@
+<s id="wsj_1209.1"> 31
+1 	 0 	 N/N 	 1 	 Co. GANNETT
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Co. raised
+1 	 17 	 ((S[adj]\NP)/PP)/NP 	 1 	 Co. payable <XB>
+2 	 7 	 (S\NP)\(S\NP) 	 2 	 raised %
+2 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 raised to
+2 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 raised from
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 dividend raised
+5 	 3 	 NP[nb]/N 	 1 	 dividend its
+5 	 4 	 N/N 	 1 	 dividend quarterly
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 11
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+10 	 9 	 N/N 	 1 	 cents 30
+10 	 11 	 (NP\NP)/N 	 1 	 cents a
+12 	 11 	 (NP\NP)/N 	 2 	 share a
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+15 	 14 	 N/N 	 1 	 cents 27
+18 	 17 	 ((S[adj]\NP)/PP)/NP 	 3 	 Jan. payable
+18 	 21 	 N\N 	 1 	 Jan. 1990
+19 	 18 	 N/N[num] 	 1 	 2 Jan.
+23 	 17 	 ((S[adj]\NP)/PP)/NP 	 2 	 to payable
+24 	 23 	 PP/NP 	 1 	 shares to
+24 	 25 	 (NP\NP)/NP 	 1 	 shares of
+24 	 27 	 (NP\NP)/N[num] 	 1 	 shares Dec.
+26 	 25 	 (NP\NP)/NP 	 2 	 record of
+27 	 30 	 (NP\NP)\(NP\NP) 	 2 	 Dec. 1989
+28 	 27 	 (NP\NP)/N[num] 	 2 	 8 Dec.
+<\s>
+<s id="wsj_1209.2"> 14
+1 	 0 	 NP[nb]/N 	 1 	 action The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 action increases
+2 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 increases to
+2 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 increases from
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 dividend increases
+5 	 3 	 NP[nb]/N 	 1 	 dividend the
+5 	 4 	 N/N 	 1 	 dividend annual
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 9 	 (NP\NP)/N 	 1 	 $ a
+8 	 7 	 N/N[num] 	 1 	 1.20 $
+10 	 9 	 (NP\NP)/N 	 2 	 share a
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+13 	 12 	 N/N[num] 	 1 	 1.08 $
+<\s>
+<s id="wsj_1209.3"> 14
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 This is
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 year is
+4 	 2 	 NP[nb]/N 	 1 	 year the
+4 	 3 	 N/N 	 1 	 year 22nd
+4 	 6 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 year which
+5 	 6 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+10 	 7 	 NP[nb]/N 	 1 	 company the
+10 	 8 	 N/N 	 1 	 company Washington
+10 	 9 	 N/N 	 1 	 company media
+10 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company has
+10 	 12 	 (S[pt]\NP)/NP 	 1 	 company increased <XB>
+11 	 6 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 has which
+12 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 increased has
+13 	 12 	 (S[pt]\NP)/NP 	 2 	 dividends increased
+<\s>
+<s id="wsj_1209.4"> 19
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Gannett 's
+3 	 1 	 (NP[nb]/N)\NP 	 1 	 earnings 's
+3 	 2 	 N/N 	 1 	 earnings third-quarter
+3 	 4 	 S[dcl]\NP 	 1 	 earnings rose
+4 	 6 	 (S\NP)\(S\NP) 	 2 	 rose %
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+4 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 11
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+9 	 8 	 N/N 	 1 	 cents 52
+9 	 10 	 (NP\NP)/N 	 1 	 cents a
+11 	 10 	 (NP\NP)/N 	 2 	 share a
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+14 	 13 	 N/N 	 1 	 cents 47
+14 	 15 	 (NP\NP)/NP 	 1 	 cents in
+18 	 15 	 (NP\NP)/NP 	 2 	 period in
+18 	 16 	 NP[nb]/N 	 1 	 period the
+18 	 17 	 N/N 	 1 	 period year-ago
+<\s>
+<s id="wsj_1209.5"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Sales rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 2.9
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 827.9
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 804.3
+<\s>
+<s id="wsj_1209.6"> 6
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Gannett has
+3 	 2 	 (N/N)/(N/N) 	 2 	 million 161
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 shares has
+4 	 3 	 N/N 	 1 	 shares million
+4 	 5 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>

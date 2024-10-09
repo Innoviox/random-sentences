@@ -1,0 +1,473 @@
+<s id="wsj_0253.1"> 16
+3 	 0 	 N/N 	 1 	 Inc. Armstrong
+3 	 1 	 N/N 	 1 	 Inc. World
+3 	 2 	 N/N 	 1 	 Inc. Industries
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Inc. agreed
+3 	 8 	 ((S[b]\NP)/PP)/NP 	 1 	 Inc. sell <XB>
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 agreed in
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 principle in
+7 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+11 	 8 	 ((S[b]\NP)/PP)/NP 	 3 	 operations sell
+11 	 9 	 NP[nb]/N 	 1 	 operations its
+11 	 10 	 N/N 	 1 	 operations carpet
+12 	 8 	 ((S[b]\NP)/PP)/NP 	 2 	 to sell
+15 	 12 	 PP/NP 	 1 	 Inc to
+15 	 13 	 N/N 	 1 	 Inc Shaw
+15 	 14 	 N/N 	 1 	 Inc Industries
+<\s>
+<s id="wsj_0253.2"> 15
+1 	 0 	 NP[nb]/N 	 1 	 price The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 price was
+1 	 4 	 S[pss]\NP 	 1 	 price disclosed <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 was n't
+2 	 5 	 (S\S)/S[dcl] 	 1 	 was but
+4 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 disclosed was
+7 	 6 	 N/N 	 1 	 analyst one
+7 	 8 	 (S[dcl]\NP)/S[em] 	 1 	 analyst estimated
+8 	 5 	 (S\S)/S[dcl] 	 2 	 estimated but
+9 	 8 	 (S[dcl]\NP)/S[em] 	 2 	 that estimated
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 it was
+11 	 9 	 S[em]/S[dcl] 	 1 	 was that
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 $ was
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 150
+<\s>
+<s id="wsj_0253.3"> 29
+0 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Armstrong which
+0 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Armstrong has <XB>
+0 	 4 	 (S[pt]\NP)/NP 	 1 	 Armstrong faced <XB>
+0 	 17 	 (S[dcl]\NP)/S[em] 	 1 	 Armstrong said
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 faced has
+4 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 faced since
+7 	 4 	 (S[pt]\NP)/NP 	 2 	 threat faced
+7 	 5 	 NP[nb]/N 	 1 	 threat a
+7 	 6 	 N/N 	 1 	 threat takeover
+7 	 8 	 (NP\NP)/NP 	 1 	 threat from
+11 	 8 	 (NP\NP)/NP 	 2 	 family from
+11 	 9 	 NP[nb]/N 	 1 	 family the
+11 	 10 	 N/N 	 1 	 family Belzberg
+11 	 12 	 (NP\NP)/NP 	 1 	 family of
+13 	 12 	 (NP\NP)/NP 	 2 	 Canada of
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 July since
+18 	 17 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+19 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 disposing would
+19 	 25 	 (S[b]\NP)/NP 	 1 	 disposing improve <XB>
+20 	 19 	 (S[ng]\NP)/PP 	 2 	 of disposing
+23 	 20 	 PP/NP 	 1 	 business of
+23 	 21 	 NP[nb]/N 	 1 	 business the
+23 	 22 	 N/N 	 1 	 business carpet
+24 	 18 	 S[em]/S[dcl] 	 1 	 would that
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 improve would
+28 	 25 	 (S[b]\NP)/NP 	 2 	 performance improve
+28 	 26 	 N/N 	 1 	 performance total
+28 	 27 	 N/N 	 1 	 performance financial
+<\s>
+<s id="wsj_0253.4"> 22
+1 	 0 	 NP[nb]/N 	 1 	 move The
+1 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 move would
+1 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 move allow <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 would also
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 allow would
+6 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 company allow
+6 	 5 	 NP[nb]/N 	 1 	 company the
+6 	 8 	 (S[b]\NP)/PP 	 1 	 company concentrate <XB>
+7 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 concentrate to
+9 	 8 	 (S[b]\NP)/PP 	 2 	 on concentrate
+11 	 9 	 PP/NP 	 1 	 businesses on
+11 	 10 	 N/N 	 1 	 businesses core
+11 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 businesses which
+11 	 14 	 (S[dcl]\NP)/NP 	 1 	 businesses include <XB>
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 include which
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 tile include
+16 	 15 	 N/N 	 1 	 tile ceramic
+19 	 14 	 (S[dcl]\NP)/NP 	 2 	 coverings include
+19 	 18 	 N/N 	 1 	 coverings floor
+21 	 14 	 (S[dcl]\NP)/NP 	 2 	 furniture include
+<\s>
+<s id="wsj_0253.5"> 29
+4 	 2 	 NP/NP 	 1 	 sale such
+4 	 3 	 NP[nb]/N 	 1 	 sale a
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 sale could
+4 	 6 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 sale help <XB>
+5 	 0 	 S/S 	 1 	 could Moreover
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 help could
+7 	 6 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 Armstrong help
+7 	 8 	 (S[b]\NP)/NP 	 1 	 Armstrong reassure <XB>
+7 	 12 	 (S[b]\NP)/NP 	 1 	 Armstrong deter <XU>
+8 	 6 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 reassure help
+10 	 8 	 (S[b]\NP)/NP 	 2 	 investors reassure
+10 	 9 	 NP[nb]/N 	 1 	 investors its
+12 	 6 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 deter help
+14 	 12 	 (S[b]\NP)/NP 	 2 	 Belzbergs deter
+14 	 13 	 NP[nb]/N 	 1 	 Belzbergs the
+14 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Belzbergs who
+14 	 17 	 (S[dcl]\NP)/NP 	 1 	 Belzbergs own <XB>
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 own who
+20 	 19 	 (N/N)/(N/N) 	 2 	 % 9.85
+21 	 17 	 (S[dcl]\NP)/NP 	 2 	 stake own
+21 	 18 	 NP[nb]/N 	 1 	 stake a
+21 	 20 	 N/N 	 1 	 stake %
+21 	 22 	 (NP\NP)/NP 	 1 	 stake in
+26 	 24 	 (N/N)/(N/N) 	 2 	 Pa. Lancaster
+28 	 22 	 (NP\NP)/NP 	 2 	 company in
+28 	 23 	 NP[nb]/N 	 1 	 company the
+28 	 26 	 N/N 	 1 	 company Pa.
+<\s>
+<s id="wsj_0253.6"> 21
+0 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Analysts expect
+2 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Armstrong expect
+2 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 Armstrong use <XB>
+3 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 use to
+5 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 proceeds use
+5 	 6 	 (NP\NP)/NP 	 1 	 proceeds of
+5 	 10 	 (S[b]\NP)/NP 	 1 	 proceeds reduce <XB>
+5 	 13 	 (S[b]\NP)/NP 	 1 	 proceeds buy <XU>
+5 	 18 	 (S[b]\NP)/NP 	 1 	 proceeds finance <XU>
+8 	 6 	 (NP\NP)/NP 	 2 	 sale of
+8 	 7 	 NP[nb]/N 	 1 	 sale the
+9 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to use
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reduce to
+11 	 10 	 (S[b]\NP)/NP 	 2 	 debt reduce
+13 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 buy back
+15 	 13 	 (S[b]\NP)/NP 	 2 	 stock buy
+18 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 finance to
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 finance perhaps
+20 	 18 	 (S[b]\NP)/NP 	 2 	 acquisition finance
+20 	 19 	 NP[nb]/N 	 1 	 acquisition an
+<\s>
+<s id="wsj_0253.7"> 23
+2 	 0 	 NP[nb]/N 	 1 	 division The
+2 	 1 	 N/N 	 1 	 division carpet
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 division had
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 sales had
+5 	 4 	 N/N 	 1 	 sales 1988
+5 	 6 	 (NP\NP)/NP 	 1 	 sales of
+7 	 6 	 (NP\NP)/NP 	 2 	 $ of
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 368.3
+13 	 12 	 (N/N)/(N/N) 	 2 	 14 almost
+14 	 6 	 (NP\NP)/NP 	 2 	 % of
+14 	 13 	 N/N 	 1 	 % 14
+14 	 15 	 (NP\NP)/NP 	 1 	 % of
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 Armstrong 's
+20 	 18 	 (N/N)/N[num] 	 2 	 billion $
+20 	 19 	 N/N 	 1 	 billion 2.68
+22 	 15 	 (NP\NP)/NP 	 2 	 revenue of
+22 	 17 	 (NP[nb]/N)\NP 	 1 	 revenue 's
+22 	 18 	 (N/N)/N[num] 	 1 	 revenue $
+22 	 21 	 N/N 	 1 	 revenue total
+<\s>
+<s id="wsj_0253.8"> 8
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company has
+1 	 4 	 (S[ng]\NP)/NP 	 1 	 company manufacturing <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+4 	 3 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 manufacturing been
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 manufacturing since
+5 	 4 	 (S[ng]\NP)/NP 	 2 	 carpet manufacturing
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 1967 since
+<\s>
+<s id="wsj_0253.9"> 16
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 it upgraded
+2 	 0 	 S/S 	 1 	 upgraded Recently
+2 	 5 	 ((S\NP)\(S\NP))/S[em] 	 2 	 upgraded so
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 plants upgraded
+4 	 3 	 NP[nb]/N 	 1 	 plants its
+6 	 5 	 ((S\NP)\(S\NP))/S[em] 	 3 	 that so
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it could
+7 	 9 	 (S[b]\NP)/NP 	 1 	 it make <XB>
+8 	 6 	 S[em]/S[dcl] 	 1 	 could that
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make could
+11 	 9 	 (S[b]\NP)/NP 	 2 	 products make
+11 	 10 	 N/N 	 1 	 products stain-resistant
+11 	 12 	 (NP\NP)/NP 	 1 	 products with
+14 	 13 	 (N/N)/(N/N) 	 2 	 quality higher
+15 	 12 	 (NP\NP)/NP 	 2 	 dyes with
+15 	 14 	 N/N 	 1 	 dyes quality
+<\s>
+<s id="wsj_0253.10"> 48
+3 	 0 	 (S/S)/NP 	 2 	 year For
+3 	 1 	 NP[nb]/N 	 1 	 year the
+3 	 2 	 N/N 	 1 	 year past
+3 	 5 	 NP\NP 	 1 	 year two
+5 	 4 	 (NP\NP)/(NP\NP) 	 2 	 two or
+9 	 7 	 NP[nb]/N 	 1 	 division the
+9 	 8 	 N/N 	 1 	 division carpet
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 division 's
+13 	 10 	 (NP[nb]/N)\NP 	 1 	 margins 's
+13 	 11 	 N/N 	 1 	 margins operating
+13 	 12 	 N/N 	 1 	 margins profit
+13 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 margins have
+13 	 15 	 S[pt]\NP 	 1 	 margins hovered <XB>
+14 	 0 	 (S/S)/NP 	 1 	 have For
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 hovered have
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 hovered around
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 % around
+18 	 17 	 N/N 	 1 	 % 5
+18 	 20 	 (S[adj]\NP)/PP 	 1 	 % high <XB>
+18 	 26 	 (S[adj]\NP)/PP 	 1 	 % disappointing <XU>
+21 	 20 	 (S[adj]\NP)/PP 	 2 	 by high
+23 	 21 	 PP/NP 	 1 	 standards by
+23 	 22 	 N/N 	 1 	 standards industry
+28 	 26 	 (S[adj]\NP)/PP 	 2 	 with disappointing
+28 	 27 	 PP/PP 	 1 	 with compared
+31 	 30 	 (N/N)/(N/N) 	 2 	 % 13
+31 	 32 	 ((N/N)\(N/N))/(N/N) 	 2 	 % to
+34 	 32 	 ((N/N)\(N/N))/(N/N) 	 3 	 % to
+34 	 33 	 (N/N)/(N/N) 	 2 	 % 19
+35 	 28 	 PP/NP 	 1 	 margins with
+35 	 29 	 NP[nb]/N 	 1 	 margins the
+35 	 31 	 N/N 	 1 	 margins %
+35 	 36 	 (NP\NP)/NP 	 1 	 margins for
+37 	 36 	 (NP\NP)/NP 	 2 	 two for
+37 	 38 	 (NP\NP)/NP 	 1 	 two of
+39 	 40 	 (NP[nb]/N)\NP 	 2 	 Armstrong 's
+42 	 38 	 (NP\NP)/NP 	 2 	 businesses of
+42 	 40 	 (NP[nb]/N)\NP 	 1 	 businesses 's
+42 	 41 	 N/N 	 1 	 businesses chief
+47 	 36 	 (NP\NP)/NP 	 2 	 products for
+47 	 44 	 N/N 	 1 	 products flooring
+47 	 46 	 N/N 	 1 	 products building
+<\s>
+<s id="wsj_0253.11"> 31
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Analysts hailed
+4 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 transaction hailed
+4 	 2 	 NP[nb]/N 	 1 	 transaction the
+4 	 3 	 N/N 	 1 	 transaction planned
+5 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as hailed
+6 	 5 	 PP/(S[ng]\NP) 	 1 	 being as
+7 	 6 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 beneficial being
+8 	 7 	 (S[adj]\NP)/PP 	 2 	 to beneficial
+9 	 8 	 PP/NP 	 1 	 Armstrong to
+11 	 8 	 PP/NP 	 1 	 Shaw to
+11 	 22 	 (NP\NP)/NP 	 1 	 Shaw with
+15 	 8 	 PP/NP 	 1 	 leader to
+15 	 13 	 NP[nb]/N 	 1 	 leader the
+15 	 14 	 N/N 	 1 	 leader market
+15 	 16 	 (NP\NP)/NP 	 1 	 leader in
+15 	 22 	 (NP\NP)/NP 	 1 	 leader with
+20 	 16 	 (NP\NP)/NP 	 2 	 industry in
+20 	 17 	 NP[nb]/N 	 1 	 industry the
+20 	 18 	 N/N 	 1 	 industry U.S.
+20 	 19 	 N/N 	 1 	 industry carpet
+26 	 25 	 (N/N)/(N/N) 	 2 	 % 17
+26 	 27 	 ((N/N)\(N/N))/(N/N) 	 2 	 % to
+29 	 27 	 ((N/N)\(N/N))/(N/N) 	 3 	 % to
+29 	 28 	 (N/N)/(N/N) 	 2 	 % 20
+30 	 22 	 (NP\NP)/NP 	 2 	 share with
+30 	 23 	 NP[nb]/N 	 1 	 share an
+30 	 24 	 N/N 	 1 	 share estimated
+30 	 26 	 N/N 	 1 	 share %
+<\s>
+<s id="wsj_0253.12"> 45
+0 	 2 	 S[pss]\NP 	 1 	 Shaw based <XB>
+0 	 8 	 (S[dcl]\NP)/NP 	 1 	 Shaw has
+0 	 18 	 (S[dcl]\NP)/NP 	 1 	 Shaw has <XU>
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Dalton in
+6 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Ga. in
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 sales has
+10 	 9 	 N/N 	 1 	 sales annual
+10 	 11 	 (NP\NP)/NP 	 1 	 sales of
+13 	 11 	 (NP\NP)/NP 	 2 	 $ of
+13 	 12 	 N/N 	 1 	 $ about
+15 	 13 	 N/N[num] 	 1 	 billion $
+15 	 14 	 N/N 	 1 	 billion 1.18
+19 	 18 	 (S[dcl]\NP)/NP 	 2 	 economies has
+19 	 20 	 (NP\NP)/NP 	 1 	 economies of
+21 	 20 	 (NP\NP)/NP 	 2 	 scale of
+25 	 18 	 (S[dcl]\NP)/NP 	 2 	 costs has
+25 	 23 	 N/N 	 1 	 costs lower
+25 	 24 	 N/N 	 1 	 costs raw-material
+25 	 26 	 (NP\NP)/(S[dcl]\NP) 	 1 	 costs that
+25 	 27 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 costs are <XB>
+25 	 28 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 costs expected <XB>
+25 	 30 	 (S[b]\NP)/NP 	 1 	 costs boost <XB>
+27 	 26 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+28 	 27 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+29 	 28 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 boost to
+32 	 30 	 (S[b]\NP)/NP 	 2 	 profitability boost
+32 	 31 	 NP[nb]/N 	 1 	 profitability the
+32 	 33 	 (NP\NP)/NP 	 1 	 profitability of
+34 	 35 	 (NP[nb]/N)\NP 	 2 	 Armstrong 's
+36 	 33 	 (NP\NP)/NP 	 2 	 brands of
+36 	 35 	 (NP[nb]/N)\NP 	 1 	 brands 's
+36 	 38 	 S[pss]\NP 	 1 	 brands sold <XB>
+38 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 sold under
+44 	 39 	 ((S\NP)\(S\NP))/NP 	 3 	 names under
+44 	 40 	 NP[nb]/N 	 1 	 names the
+44 	 41 	 N/N 	 1 	 names Armstrong
+44 	 43 	 N/N 	 1 	 names Evans-Black
+<\s>
+<s id="wsj_0253.13"> 24
+4 	 2 	 (S/S)/NP 	 2 	 trading in
+4 	 3 	 N/N 	 1 	 trading composite
+10 	 5 	 (S/S)/NP 	 2 	 Exchange on
+10 	 6 	 NP[nb]/N 	 1 	 Exchange the
+10 	 7 	 N/N 	 1 	 Exchange New
+10 	 8 	 N/N 	 1 	 Exchange York
+10 	 9 	 N/N 	 1 	 Exchange Stock
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Shaw 's
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 shares 's
+14 	 15 	 (S[dcl]\NP)/PP 	 1 	 shares closed
+15 	 0 	 S/S 	 1 	 closed Yesterday
+15 	 2 	 (S/S)/NP 	 1 	 closed in
+15 	 5 	 (S/S)/NP 	 1 	 closed on
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 closed ex-dividend
+15 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+17 	 15 	 (S[dcl]\NP)/PP 	 2 	 at closed
+18 	 17 	 PP/NP 	 1 	 $ at
+19 	 18 	 N/N[num] 	 1 	 26.125 $
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 $ up
+23 	 22 	 N/N[num] 	 1 	 2.25 $
+<\s>
+<s id="wsj_0253.14"> 19
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Armstrong 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 shares 's
+2 	 5 	 S[pss]\NP 	 1 	 shares listed <XB>
+2 	 11 	 (S[dcl]\NP)/PP 	 1 	 shares closed
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 listed also
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 listed on
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Board on
+9 	 7 	 NP[nb]/N 	 1 	 Board the
+9 	 8 	 N/N 	 1 	 Board Big
+11 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+12 	 11 	 (S[dcl]\NP)/PP 	 2 	 at closed
+13 	 12 	 PP/NP 	 1 	 $ at
+14 	 13 	 N/N[num] 	 1 	 39.125 $
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 cents up
+18 	 17 	 N/N 	 1 	 cents 12.5
+<\s>
+<s id="wsj_0253.15"> 29
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Armstrong reported
+3 	 0 	 S/S 	 1 	 reported Yesterday
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 earnings reported
+5 	 4 	 N/N 	 1 	 earnings flat
+5 	 6 	 (NP\NP)/NP 	 1 	 earnings for
+5 	 14 	 S[pss]\NP 	 1 	 earnings worsened <XB>
+9 	 6 	 (NP\NP)/NP 	 2 	 quarter for
+9 	 7 	 NP[nb]/N 	 1 	 quarter the
+9 	 8 	 N/N 	 1 	 quarter third
+12 	 6 	 (NP\NP)/NP 	 2 	 months for
+12 	 11 	 N/N 	 1 	 months nine
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 worsened by
+18 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 dilution by
+18 	 16 	 NP[nb]/N 	 1 	 dilution the
+18 	 17 	 N/N 	 1 	 dilution stock
+18 	 19 	 (NP\NP)/NP 	 1 	 dilution of
+24 	 19 	 (NP\NP)/NP 	 2 	 plan of
+24 	 20 	 NP[nb]/N 	 1 	 plan an
+24 	 21 	 N/N 	 1 	 plan employee
+24 	 22 	 N/N 	 1 	 plan stock
+24 	 23 	 N/N 	 1 	 plan ownership
+24 	 25 	 S[pss]\NP 	 1 	 plan adopted <XB>
+25 	 27 	 ((S\NP)\(S\NP))/N 	 2 	 adopted this
+27 	 26 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 this earlier
+28 	 27 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+<\s>
+<s id="wsj_0253.16"> 24
+2 	 0 	 (S/S)/NP 	 2 	 quarter For
+2 	 1 	 NP[nb]/N 	 1 	 quarter the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 earnings were
+5 	 0 	 (S/S)/NP 	 1 	 were For
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 $ were
+6 	 16 	 (NP\NP)/NP 	 1 	 $ including
+8 	 6 	 N/N[num] 	 1 	 million $
+8 	 7 	 N/N 	 1 	 million 47
+12 	 5 	 (S[dcl]\NP)/NP 	 2 	 cents were
+12 	 11 	 N/N 	 1 	 cents 92
+12 	 13 	 (NP\NP)/N 	 1 	 cents a
+12 	 16 	 (NP\NP)/NP 	 1 	 cents including
+14 	 13 	 (NP\NP)/N 	 2 	 share a
+19 	 16 	 (NP\NP)/NP 	 2 	 gain including
+19 	 17 	 NP[nb]/N 	 1 	 gain a
+19 	 18 	 N/N 	 1 	 gain one-time
+19 	 20 	 (NP\NP)/NP 	 1 	 gain of
+21 	 20 	 (NP\NP)/NP 	 2 	 $ of
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 5.9
+<\s>
+<s id="wsj_0253.17"> 16
+3 	 0 	 (S/S)/NP 	 2 	 quarter In
+3 	 1 	 NP[nb]/N 	 1 	 quarter the
+3 	 2 	 N/N 	 1 	 quarter year-ago
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 earnings were
+6 	 0 	 (S/S)/NP 	 1 	 were In
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 $ were
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 42.9
+13 	 6 	 (S[dcl]\NP)/NP 	 2 	 cents were
+13 	 12 	 N/N 	 1 	 cents 93
+13 	 14 	 (NP\NP)/N 	 1 	 cents a
+15 	 14 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0253.18"> 25
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Armstrong announced
+3 	 0 	 S/S 	 1 	 announced Yesterday
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 agreement announced
+5 	 4 	 NP[nb]/N 	 1 	 agreement an
+5 	 7 	 ((S[b]\NP)/PP)/NP 	 1 	 agreement sell <XB>
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+13 	 7 	 ((S[b]\NP)/PP)/NP 	 3 	 unit sell
+13 	 8 	 NP[nb]/N 	 1 	 unit its
+13 	 9 	 N/N 	 1 	 unit small
+13 	 10 	 N/N 	 1 	 unit Applied
+13 	 11 	 N/N 	 1 	 unit Color
+13 	 12 	 N/N 	 1 	 unit Systems
+14 	 7 	 ((S[b]\NP)/PP)/NP 	 2 	 to sell
+16 	 14 	 PP/NP 	 1 	 subsidiary to
+16 	 15 	 NP[nb]/N 	 1 	 subsidiary a
+16 	 17 	 (NP\NP)/NP 	 1 	 subsidiary of
+20 	 17 	 (NP\NP)/NP 	 2 	 company of
+20 	 18 	 NP[nb]/N 	 1 	 company the
+20 	 19 	 N/N 	 1 	 company Swiss
+24 	 17 	 (NP\NP)/NP 	 2 	 Ltd of
+24 	 22 	 N/N 	 1 	 Ltd Brauerei
+24 	 23 	 N/N 	 1 	 Ltd Eichof
+<\s>
+<s id="wsj_0253.19"> 5
+1 	 0 	 NP[nb]/N 	 1 	 price The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 price was
+1 	 4 	 S[pss]\NP 	 1 	 price disclosed <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 was n't
+4 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 disclosed was
+<\s>
+<s id="wsj_0253.20"> 32
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Armstrong expects
+0 	 3 	 (S[b]\NP)/NP 	 1 	 Armstrong close <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 close to
+3 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 close in
+3 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 close in
+3 	 20 	 (((S\NP)\(S\NP))/(S[to]\NP))/NP 	 2 	 close with
+5 	 3 	 (S[b]\NP)/NP 	 2 	 sale close
+5 	 4 	 NP[nb]/N 	 1 	 sale the
+5 	 6 	 (NP\NP)/NP 	 1 	 sale of
+9 	 6 	 (NP\NP)/NP 	 2 	 unit of
+9 	 7 	 NP[nb]/N 	 1 	 unit the
+9 	 8 	 N/N 	 1 	 unit color
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 November in
+12 	 11 	 N/N 	 1 	 November late
+16 	 3 	 (S[b]\NP)/NP 	 2 	 sale close
+16 	 14 	 NP[nb]/N 	 1 	 sale the
+16 	 15 	 N/N 	 1 	 sale carpet
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 December in
+22 	 20 	 (((S\NP)\(S\NP))/(S[to]\NP))/NP 	 4 	 gains with
+22 	 21 	 NP[nb]/N 	 1 	 gains the
+22 	 25 	 (S[pss]\NP)/PP 	 1 	 gains applied <XB>
+23 	 20 	 (((S\NP)\(S\NP))/(S[to]\NP))/NP 	 3 	 to with
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+25 	 24 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 applied be
+26 	 25 	 (S[pss]\NP)/PP 	 2 	 to applied
+28 	 27 	 (N/N)/(N/N) 	 2 	 quarter fourth
+30 	 27 	 (N/N)/(N/N) 	 2 	 first-quarter fourth
+31 	 26 	 PP/NP 	 1 	 results to
+31 	 28 	 N/N 	 1 	 results quarter <XU>
+31 	 30 	 N/N 	 1 	 results first-quarter
+<\s>

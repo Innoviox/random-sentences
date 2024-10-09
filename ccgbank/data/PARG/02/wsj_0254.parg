@@ -1,0 +1,632 @@
+<s id="wsj_0254.1"> 33
+1 	 0 	 NP[nb]/N 	 1 	 government The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 government 's
+5 	 2 	 (NP[nb]/N)\NP 	 1 	 gauge 's
+5 	 3 	 N/N 	 1 	 gauge primary
+5 	 4 	 N/N 	 1 	 gauge economic-forecasting
+5 	 6 	 S[dcl]\NP 	 1 	 gauge rose
+6 	 7 	 ((S\NP)\(S\NP))/N 	 2 	 rose a
+6 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 rose in
+10 	 7 	 ((S\NP)\(S\NP))/N 	 3 	 % a
+10 	 8 	 N/N 	 1 	 % slight
+10 	 9 	 N/N 	 1 	 % 0.2
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+15 	 16 	 (S[dcl]\NP)/S[dcl] 	 1 	 economists said
+18 	 17 	 NP[nb]/N 	 1 	 report the
+18 	 19 	 (S[dcl]\NP)/NP 	 1 	 report offered
+19 	 16 	 (S[dcl]\NP)/S[dcl] 	 2 	 offered said
+22 	 19 	 (S[dcl]\NP)/NP 	 2 	 information offered
+22 	 20 	 N/N 	 1 	 information little
+22 	 21 	 N/N 	 1 	 information new
+22 	 23 	 (NP\NP)/NP 	 1 	 information on
+25 	 23 	 (NP\NP)/NP 	 2 	 degree on
+25 	 24 	 NP[nb]/N 	 1 	 degree the
+25 	 27 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 degree which
+26 	 27 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 to which
+30 	 28 	 NP[nb]/N 	 1 	 economy the
+30 	 29 	 N/N 	 1 	 economy U.S.
+30 	 31 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 economy is
+30 	 32 	 S[ng]\NP 	 1 	 economy slowing <XB>
+31 	 27 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 is which
+32 	 31 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 slowing is
+<\s>
+<s id="wsj_0254.2"> 35
+2 	 0 	 NP[nb]/N 	 1 	 increase The
+2 	 1 	 N/N 	 1 	 increase small
+2 	 3 	 (NP\NP)/NP 	 1 	 increase in
+2 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 increase does
+2 	 24 	 ((S[b]\NP)/PP)/NP 	 1 	 increase lend <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 index in
+5 	 4 	 NP[nb]/N 	 1 	 index the
+5 	 6 	 (NP\NP)/NP 	 1 	 index of
+5 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 index which
+5 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 index had <XB>
+5 	 12 	 S[pt]\NP 	 1 	 index climbed <XB>
+5 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 index was <XU>
+5 	 19 	 S[adj]\NP 	 1 	 index unchanged <XU>
+8 	 6 	 (NP\NP)/NP 	 2 	 indicators of
+8 	 7 	 N/N 	 1 	 indicators leading
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had which
+12 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 climbed had
+12 	 14 	 (S\NP)\(S\NP) 	 2 	 climbed %
+12 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 climbed in
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 0.5
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 August in
+18 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was which
+18 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 was in
+19 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unchanged was
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 July in
+24 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 lend does
+25 	 24 	 ((S[b]\NP)/PP)/NP 	 3 	 support lend
+26 	 24 	 ((S[b]\NP)/PP)/NP 	 2 	 to lend
+28 	 26 	 PP/NP 	 1 	 view to
+28 	 27 	 NP[nb]/N 	 1 	 view the
+29 	 28 	 N/S[em] 	 1 	 that view
+31 	 30 	 NP[nb]/N 	 1 	 economy the
+31 	 32 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 economy has
+31 	 33 	 S[pt]\NP 	 1 	 economy slowed <XB>
+32 	 29 	 S[em]/S[dcl] 	 1 	 has that
+33 	 32 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 slowed has
+33 	 34 	 (S\NP)\(S\NP) 	 2 	 slowed noticeably
+<\s>
+<s id="wsj_0254.3"> 19
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it does
+2 	 5 	 (S[b]\NP)/NP 	 1 	 it give <XB>
+3 	 0 	 S/S 	 1 	 does However
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 does n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give does
+6 	 5 	 (S[b]\NP)/NP 	 2 	 much give
+6 	 7 	 (NP\NP)/NP 	 1 	 much of
+9 	 7 	 (NP\NP)/NP 	 2 	 clue of
+9 	 8 	 NP[nb]/N 	 1 	 clue a
+9 	 10 	 (NP\NP)/PP 	 1 	 clue as
+11 	 10 	 (NP\NP)/PP 	 2 	 to as
+12 	 11 	 PP/S[qem] 	 1 	 whether to
+14 	 13 	 NP[nb]/N 	 1 	 recession a
+14 	 15 	 (S[dcl]\NP)/PP 	 1 	 recession is
+15 	 12 	 S[qem]/S[dcl] 	 1 	 is whether
+16 	 15 	 (S[dcl]\NP)/PP 	 2 	 on is
+18 	 16 	 PP/NP 	 1 	 horizon on
+18 	 17 	 NP[nb]/N 	 1 	 horizon the
+<\s>
+<s id="wsj_0254.4"> 23
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 I do
+0 	 3 	 (S[b]\NP)/S[dcl] 	 1 	 I think <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 do n't
+1 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 do said
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 think do
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 it provides
+5 	 3 	 (S[b]\NP)/S[dcl] 	 2 	 provides think
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 information provides
+8 	 6 	 N/N 	 1 	 information much
+8 	 7 	 N/N 	 1 	 information new
+8 	 9 	 (NP\NP)/NP 	 1 	 information on
+11 	 9 	 (NP\NP)/NP 	 2 	 economy on
+11 	 10 	 NP[nb]/N 	 1 	 economy the
+15 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 Rippe said
+15 	 14 	 N/N 	 1 	 Rippe Richard
+17 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 economist said
+17 	 18 	 (NP\NP)/NP 	 1 	 economist at
+22 	 18 	 (NP\NP)/NP 	 2 	 Inc at
+22 	 19 	 N/N 	 1 	 Inc Dean
+22 	 20 	 N/N 	 1 	 Inc Witter
+22 	 21 	 N/N 	 1 	 Inc Reynolds
+<\s>
+<s id="wsj_0254.5"> 27
+1 	 0 	 (S/S)/(S/S) 	 2 	 far So
+3 	 2 	 (S/S)/N 	 2 	 year this
+6 	 5 	 NP[nb]/N 	 1 	 index the
+6 	 7 	 (NP\NP)/NP 	 1 	 index of
+6 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 index has
+6 	 11 	 S[pt]\NP 	 1 	 index risen <XB>
+6 	 16 	 S[pt]\NP 	 1 	 index fallen <XU>
+6 	 21 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 index remained <XU>
+6 	 22 	 S[adj]\NP 	 1 	 index unchanged <XU>
+9 	 7 	 (NP\NP)/NP 	 2 	 indicators of
+9 	 8 	 N/N 	 1 	 indicators leading
+10 	 1 	 S/S 	 1 	 has far
+10 	 2 	 (S/S)/N 	 1 	 has this
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 risen has
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 risen in
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 months in
+14 	 13 	 N/N 	 1 	 months four
+16 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 fallen has
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 fallen in
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 months in
+19 	 18 	 N/N 	 1 	 months four
+21 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 remained has
+21 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 remained in
+22 	 21 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 unchanged remained
+26 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 month in
+26 	 24 	 NP[nb]/N 	 1 	 month the
+26 	 25 	 N/N 	 1 	 month other
+<\s>
+<s id="wsj_0254.6"> 29
+2 	 0 	 (S/S)/NP 	 2 	 report In
+2 	 1 	 NP[nb]/N 	 1 	 report another
+7 	 5 	 NP[nb]/N 	 1 	 Department the
+7 	 6 	 N/N 	 1 	 Department Commerce
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Department said
+8 	 0 	 (S/S)/NP 	 1 	 said In
+8 	 3 	 S/S 	 1 	 said yesterday
+9 	 10 	 (NP\NP)/NP 	 1 	 sales of
+9 	 14 	 S[dcl]\NP 	 1 	 sales plunged
+13 	 10 	 (NP\NP)/NP 	 2 	 houses of
+13 	 11 	 N/N 	 1 	 houses new
+13 	 12 	 N/N 	 1 	 houses single-family
+14 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 plunged said
+14 	 16 	 (S\NP)\(S\NP) 	 2 	 plunged %
+14 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 plunged in
+14 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 plunged to
+14 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 plunged from
+16 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 14
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+22 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 rate to
+22 	 20 	 NP[nb]/N 	 1 	 rate an
+22 	 21 	 N/N 	 1 	 rate annual
+22 	 23 	 (NP\NP)/NP 	 1 	 rate of
+24 	 23 	 (NP\NP)/NP 	 2 	 618,000 of
+25 	 27 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 from in
+26 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 719,000 from
+28 	 27 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 August in
+<\s>
+<s id="wsj_0254.7"> 19
+1 	 0 	 NP[nb]/N 	 1 	 declines The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 declines were
+1 	 4 	 S[pss]\NP 	 1 	 declines pronounced <XB>
+4 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 pronounced were
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 pronounced particularly
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 pronounced in
+4 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 pronounced in <XU>
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Northeast in
+7 	 6 	 NP[nb]/N 	 1 	 Northeast the
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 South in
+11 	 10 	 NP[nb]/N 	 1 	 South the
+11 	 13 	 (NP\NP)/S[dcl] 	 1 	 South where
+15 	 14 	 N/N 	 1 	 Hugo Hurricane
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 Hugo was
+16 	 13 	 (NP\NP)/S[dcl] 	 2 	 was where
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 factor was
+18 	 17 	 NP[nb]/N 	 1 	 factor a
+<\s>
+<s id="wsj_0254.8"> 37
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 September 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 weakness 's
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 weakness followed
+4 	 0 	 (S/S)/S[dcl] 	 2 	 followed Although
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 months followed
+7 	 5 	 N/N 	 1 	 months two
+7 	 6 	 N/N 	 1 	 months strong
+7 	 8 	 (NP\NP)/NP 	 1 	 months for
+10 	 8 	 (NP\NP)/NP 	 2 	 sales for
+10 	 9 	 N/N 	 1 	 sales home
+13 	 12 	 NP[nb]/N 	 1 	 decline the
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 decline supports
+14 	 0 	 (S/S)/S[dcl] 	 1 	 supports Although
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 indications supports
+16 	 15 	 N/N 	 1 	 indications other
+17 	 16 	 N/S[em] 	 1 	 that indications
+19 	 18 	 NP[nb]/N 	 1 	 drop the
+19 	 20 	 (NP\NP)/NP 	 1 	 drop in
+19 	 24 	 (NP\NP)/N 	 1 	 drop this
+19 	 26 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 drop has
+19 	 27 	 (S[pt]\NP)/NP 	 1 	 drop had <XB>
+22 	 20 	 (NP\NP)/NP 	 2 	 rates in
+22 	 21 	 N/N 	 1 	 rates mortgage
+24 	 23 	 (NP\NP)/(NP\NP) 	 2 	 this earlier
+25 	 24 	 (NP\NP)/N 	 2 	 year this
+26 	 17 	 S[em]/S[dcl] 	 1 	 has that
+27 	 26 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 had has
+32 	 27 	 (S[pt]\NP)/NP 	 2 	 effect had
+32 	 28 	 NP/NP 	 1 	 effect only
+32 	 29 	 NP[nb]/N 	 1 	 effect a
+32 	 30 	 N/N 	 1 	 effect limited
+32 	 31 	 N/N 	 1 	 effect beneficial
+32 	 33 	 (NP\NP)/NP 	 1 	 effect on
+36 	 33 	 (NP\NP)/NP 	 2 	 market on
+36 	 34 	 NP[nb]/N 	 1 	 market the
+36 	 35 	 N/N 	 1 	 market housing
+<\s>
+<s id="wsj_0254.9"> 31
+2 	 0 	 NP[nb]/N 	 1 	 drop The
+2 	 1 	 N/N 	 1 	 drop September
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 drop was
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 was since
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 largest was
+5 	 4 	 NP[nb]/N 	 1 	 largest the
+9 	 8 	 (N/N)/(N/N) 	 2 	 % 19
+10 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 drop since
+10 	 7 	 NP[nb]/N 	 1 	 drop a
+10 	 9 	 N/N 	 1 	 drop %
+10 	 11 	 (NP\NP)/NP 	 1 	 drop in
+12 	 11 	 (NP\NP)/NP 	 2 	 January in
+12 	 13 	 N\N 	 1 	 January 1982
+17 	 16 	 N/N 	 1 	 changes monthly
+17 	 18 	 (NP\NP)/NP 	 1 	 changes in
+17 	 21 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 changes are
+17 	 24 	 S[adj]\NP 	 1 	 changes reliable <XB>
+20 	 18 	 (NP\NP)/NP 	 2 	 measure in
+20 	 19 	 NP[nb]/N 	 1 	 measure this
+23 	 22 	 ((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)) 	 3 	 less even
+24 	 21 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 reliable are
+24 	 23 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 reliable less
+24 	 25 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 reliable than
+26 	 25 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 those than
+26 	 27 	 (NP\NP)/NP 	 1 	 those in
+30 	 27 	 (NP\NP)/NP 	 2 	 indicators in
+30 	 28 	 N/N 	 1 	 indicators other
+30 	 29 	 N/N 	 1 	 indicators economic
+<\s>
+<s id="wsj_0254.10"> 33
+2 	 1 	 NP[nb]/N 	 1 	 figures the
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 figures are
+2 	 4 	 S[pss]\NP 	 1 	 figures based <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 are Because
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 based are
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 based on
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 sample on
+8 	 6 	 NP[nb]/N 	 1 	 sample a
+8 	 7 	 N/N 	 1 	 sample small
+11 	 10 	 NP[nb]/N 	 1 	 department the
+11 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 department said
+12 	 0 	 (S/S)/S[dcl] 	 1 	 said Because
+13 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it is
+13 	 17 	 ((S[adj]\NP)\NP)/S[em] 	 1 	 it confident <XB>
+14 	 12 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+16 	 15 	 N/N 	 1 	 % 90
+16 	 17 	 ((S[adj]\NP)\NP)/S[em] 	 2 	 % confident
+17 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 confident is
+19 	 17 	 ((S[adj]\NP)\NP)/S[em] 	 3 	 that confident
+19 	 18 	 S/S 	 1 	 that only
+21 	 20 	 N/N 	 1 	 sales new-home
+21 	 22 	 S[dcl]\NP 	 1 	 sales fell
+22 	 19 	 S[em]/S[dcl] 	 1 	 fell that
+22 	 23 	 ((S\NP)\(S\NP))/PP 	 2 	 fell somewhere
+22 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 fell during
+24 	 23 	 ((S\NP)\(S\NP))/PP 	 3 	 between somewhere
+26 	 24 	 PP/NP 	 1 	 % between
+26 	 25 	 N/N 	 1 	 % 5
+29 	 24 	 PP/NP 	 1 	 % between
+29 	 28 	 N/N 	 1 	 % 23
+32 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 month during
+32 	 31 	 NP[nb]/N 	 1 	 month the
+<\s>
+<s id="wsj_0254.11"> 12
+1 	 0 	 NP[nb]/N 	 1 	 department The
+1 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 department said
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 said also
+4 	 5 	 ((S[dcl]\NP[expl])/(S[to]\NP))/NP 	 1 	 it takes
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 takes said
+7 	 5 	 ((S[dcl]\NP[expl])/(S[to]\NP))/NP 	 3 	 months takes
+7 	 6 	 N/N 	 1 	 months four
+8 	 5 	 ((S[dcl]\NP[expl])/(S[to]\NP))/NP 	 2 	 to takes
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 establish to
+11 	 9 	 (S[b]\NP)/NP 	 2 	 trend establish
+11 	 10 	 NP[nb]/N 	 1 	 trend a
+<\s>
+<s id="wsj_0254.12"> 22
+1 	 0 	 (S/S)/(S/S) 	 2 	 far So
+3 	 2 	 (S/S)/N 	 2 	 year this
+7 	 6 	 (N/N)/(N/N) 	 2 	 built newly
+8 	 5 	 N/N 	 1 	 homes 534,000
+8 	 7 	 N/N 	 1 	 homes built
+8 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 homes have
+8 	 11 	 S[pss]\NP 	 1 	 homes sold <XB>
+9 	 1 	 S/S 	 1 	 have far
+9 	 2 	 (S/S)/N 	 1 	 have this
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+11 	 10 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 sold been
+11 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 sold down
+13 	 16 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 down from
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 % down
+15 	 14 	 N/N 	 1 	 % 4.5
+19 	 16 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 months from
+19 	 17 	 NP[nb]/N 	 1 	 months the
+19 	 18 	 N/N 	 1 	 months like
+19 	 20 	 (NP\NP)/NP 	 1 	 months of
+21 	 20 	 (NP\NP)/NP 	 2 	 1988 of
+<\s>
+<s id="wsj_0254.13"> 24
+1 	 0 	 NP[nb]/N 	 1 	 index The
+1 	 2 	 (NP\NP)/NP 	 1 	 index of
+1 	 5 	 ((S[dcl]\NP)/PP)/NP 	 1 	 index got
+1 	 18 	 S[pss]\NP 	 1 	 index measured <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 indicators of
+4 	 3 	 N/N 	 1 	 indicators leading
+5 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 got in
+5 	 17 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 2 	 got as
+8 	 5 	 ((S[dcl]\NP)/PP)/NP 	 3 	 boost got
+8 	 6 	 NP[nb]/N 	 1 	 boost a
+8 	 7 	 N/N 	 1 	 boost major
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+11 	 5 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from got
+13 	 11 	 PP/NP 	 1 	 surge from
+13 	 12 	 NP[nb]/N 	 1 	 surge a
+13 	 14 	 (NP\NP)/NP 	 1 	 surge in
+16 	 14 	 (NP\NP)/NP 	 2 	 expectations in
+16 	 15 	 N/N 	 1 	 expectations consumer
+18 	 17 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 3 	 measured as
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 measured by
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 University by
+21 	 20 	 NP[nb]/N 	 1 	 University the
+21 	 22 	 (NP\NP)/NP 	 1 	 University of
+23 	 22 	 (NP\NP)/NP 	 2 	 Michigan of
+<\s>
+<s id="wsj_0254.14"> 7
+1 	 0 	 NP[nb]/N 	 1 	 measure This
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 measure had
+1 	 3 	 S[pt]\NP 	 1 	 measure dropped <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 dropped had
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 dropped sharply
+3 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped in
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 August in
+<\s>
+<s id="wsj_0254.15"> 29
+2 	 0 	 NP[nb]/N 	 1 	 Department The
+2 	 1 	 N/N 	 1 	 Department Commerce
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 Department said
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+7 	 5 	 (S/S)/NP 	 2 	 result as
+7 	 6 	 NP[nb]/N 	 1 	 result a
+7 	 8 	 (NP\NP)/NP 	 1 	 result of
+11 	 8 	 (NP\NP)/NP 	 2 	 adjustment of
+11 	 9 	 NP[nb]/N 	 1 	 adjustment a
+11 	 10 	 N/N 	 1 	 adjustment new
+11 	 12 	 (NP\NP)/NP 	 1 	 adjustment to
+14 	 12 	 (NP\NP)/NP 	 2 	 formula to
+14 	 13 	 NP[nb]/N 	 1 	 formula the
+14 	 15 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 formula used <XB>
+14 	 17 	 (S[b]\NP)/NP 	 1 	 formula calculate <XB>
+16 	 15 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 calculate to
+19 	 17 	 (S[b]\NP)/NP 	 2 	 index calculate
+19 	 18 	 NP[nb]/N 	 1 	 index the
+22 	 21 	 NP[nb]/N 	 1 	 influence the
+22 	 23 	 (NP\NP)/NP 	 1 	 influence of
+22 	 26 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 influence has
+22 	 28 	 S[pss]\NP 	 1 	 influence reduced <XB>
+25 	 23 	 (NP\NP)/NP 	 2 	 component of
+25 	 24 	 NP[nb]/N 	 1 	 component this
+26 	 4 	 S[em]/S[dcl] 	 1 	 has that
+26 	 5 	 (S/S)/NP 	 1 	 has as
+27 	 26 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+28 	 27 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 reduced been
+<\s>
+<s id="wsj_0254.16"> 29
+3 	 0 	 (S/S)/NP 	 2 	 components Of
+3 	 1 	 NP[nb]/N 	 1 	 components the
+3 	 2 	 N/N 	 1 	 components 11
+3 	 4 	 (NP\NP)/NP 	 1 	 components to
+6 	 4 	 (NP\NP)/NP 	 2 	 index to
+6 	 5 	 NP[nb]/N 	 1 	 index the
+9 	 8 	 (N/N)/(N/N) 	 2 	 three only
+10 	 9 	 N/N 	 1 	 others three
+10 	 11 	 S[dcl]\NP 	 1 	 others rose
+11 	 0 	 (S/S)/NP 	 1 	 rose Of
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 rose in
+11 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 rose :
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 supply :
+17 	 15 	 NP[nb]/N 	 1 	 supply the
+17 	 16 	 N/N 	 1 	 supply money
+20 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 length :
+20 	 19 	 NP[nb]/N 	 1 	 length the
+20 	 21 	 (NP\NP)/NP 	 1 	 length of
+25 	 21 	 (NP\NP)/NP 	 2 	 week of
+25 	 22 	 NP[nb]/N 	 1 	 week the
+25 	 23 	 N/N 	 1 	 week average
+25 	 24 	 N/N 	 1 	 week work
+28 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 prices :
+28 	 27 	 N/N 	 1 	 prices stock
+<\s>
+<s id="wsj_0254.17"> 17
+1 	 0 	 N/N 	 1 	 components Several
+1 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 components that
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 components track <XB>
+1 	 13 	 S[dcl]\NP 	 1 	 components turned
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 track that
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 health track
+5 	 4 	 NP[nb]/N 	 1 	 health the
+5 	 6 	 (NP\NP)/NP 	 1 	 health of
+9 	 6 	 (NP\NP)/NP 	 2 	 sector of
+9 	 7 	 NP[nb]/N 	 1 	 sector the
+9 	 8 	 N/N 	 1 	 sector manufacturing
+9 	 10 	 (NP\NP)/NP 	 1 	 sector of
+12 	 10 	 (NP\NP)/NP 	 2 	 economy of
+12 	 11 	 NP[nb]/N 	 1 	 economy the
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 turned down
+13 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 turned in
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+<\s>
+<s id="wsj_0254.18"> 29
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 These include
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 orders include
+3 	 2 	 N/N 	 1 	 orders new
+3 	 4 	 (NP\NP)/NP 	 1 	 orders for
+7 	 4 	 (NP\NP)/NP 	 2 	 goods for
+7 	 5 	 N/N 	 1 	 goods manufactured
+7 	 6 	 N/N 	 1 	 goods consumer
+10 	 1 	 (S[dcl]\NP)/NP 	 2 	 times include
+10 	 9 	 N/N 	 1 	 times lead
+10 	 11 	 (NP\NP)/NP 	 1 	 times on
+13 	 11 	 (NP\NP)/NP 	 2 	 deliveries on
+13 	 12 	 N/N 	 1 	 deliveries vendor
+15 	 1 	 (S[dcl]\NP)/NP 	 2 	 orders include
+15 	 16 	 (NP\NP)/NP 	 1 	 orders for
+18 	 16 	 (NP\NP)/NP 	 2 	 plant for
+18 	 17 	 N/N 	 1 	 plant new
+20 	 16 	 (NP\NP)/NP 	 2 	 equipment for
+20 	 17 	 N/N 	 1 	 equipment new
+23 	 1 	 (S[dcl]\NP)/NP 	 2 	 backlogs include
+23 	 24 	 (NP\NP)/NP 	 1 	 backlogs of
+25 	 24 	 (NP\NP)/NP 	 2 	 orders of
+25 	 26 	 (NP\NP)/NP 	 1 	 orders for
+28 	 26 	 (NP\NP)/NP 	 2 	 goods for
+28 	 27 	 N/N 	 1 	 goods durable
+<\s>
+<s id="wsj_0254.19"> 33
+4 	 2 	 NP[nb]/N 	 1 	 Association the
+4 	 3 	 N/N 	 1 	 Association National
+4 	 5 	 (NP\NP)/NP 	 1 	 Association of
+4 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Association said
+6 	 5 	 (NP\NP)/NP 	 2 	 Manufacturers of
+7 	 0 	 S/S 	 1 	 said Meanwhile
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 said yesterday
+11 	 9 	 NP[nb]/N 	 1 	 poll a
+11 	 10 	 N/N 	 1 	 poll recent
+11 	 12 	 (NP\NP)/NP 	 1 	 poll of
+11 	 18 	 (S[dcl]\NP)/S[em] 	 1 	 poll found
+14 	 12 	 (NP\NP)/NP 	 2 	 executives of
+14 	 13 	 N/N 	 1 	 executives 53
+14 	 15 	 (NP\NP)/NP 	 1 	 executives on
+17 	 15 	 (NP\NP)/NP 	 2 	 board on
+17 	 16 	 NP[nb]/N 	 1 	 board its
+18 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 found said
+19 	 18 	 (S[dcl]\NP)/S[em] 	 2 	 that found
+21 	 20 	 N/N 	 1 	 % 61
+21 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 % do
+21 	 24 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 % expect <XB>
+22 	 19 	 S[em]/S[dcl] 	 1 	 do that
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 do n't
+24 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 expect do
+26 	 24 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 recession expect
+26 	 25 	 NP[nb]/N 	 1 	 recession a
+26 	 28 	 S[b]\NP 	 1 	 recession occur <XB>
+27 	 24 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 occur to
+28 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 occur until
+30 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 1991 until
+32 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 later until
+<\s>
+<s id="wsj_0254.20"> 8
+1 	 0 	 NP[nb]/N 	 1 	 remainder The
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 remainder expect
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 downturn expect
+4 	 3 	 NP[nb]/N 	 1 	 downturn a
+4 	 6 	 S[b]\NP 	 1 	 downturn begin <XB>
+5 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 begin to
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 in sometime
+<\s>
+<s id="wsj_0254.21"> 36
+1 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 manufacturers are
+1 	 4 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 manufacturers quick <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 are Although
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 are often
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 quick are
+5 	 4 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to quick
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 call to
+7 	 6 	 (S[b]\NP)/PP 	 2 	 for call
+10 	 7 	 PP/NP 	 1 	 rates for
+10 	 8 	 N/N 	 1 	 rates lower
+10 	 9 	 N/N 	 1 	 rates interest
+13 	 12 	 N/N 	 1 	 % 60
+13 	 14 	 (NP\NP)/NP 	 1 	 % of
+13 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 % said
+16 	 14 	 (NP\NP)/NP 	 2 	 executives of
+16 	 15 	 NP[nb]/N 	 1 	 executives the
+17 	 0 	 (S/S)/S[dcl] 	 1 	 said Although
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they would
+18 	 20 	 (S[b]\NP)/S[em] 	 1 	 they prefer <XB>
+19 	 17 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 prefer would
+21 	 20 	 (S[b]\NP)/S[em] 	 2 	 that prefer
+23 	 22 	 NP[nb]/N 	 1 	 Fed the
+23 	 24 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Fed keep
+24 	 21 	 S[em]/S[dcl] 	 1 	 keep that
+24 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 keep if
+25 	 24 	 ((S[dcl]\NP)/PP)/NP 	 3 	 inflation-fighting keep
+26 	 24 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as keep
+29 	 26 	 PP/NP 	 1 	 priority as
+29 	 27 	 NP[nb]/N 	 1 	 priority its
+29 	 28 	 N/N 	 1 	 priority top
+31 	 30 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 if even
+32 	 33 	 (S[dcl]\NP)/NP 	 1 	 that means
+33 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 means if
+35 	 33 	 (S[dcl]\NP)/NP 	 2 	 rates means
+35 	 34 	 N/N 	 1 	 rates higher
+<\s>
+<s id="wsj_0254.22"> 18
+3 	 0 	 NP[nb]/N 	 1 	 % The
+3 	 1 	 N/N 	 1 	 % other
+3 	 2 	 N/N 	 1 	 % 40
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 % said
+6 	 5 	 NP[nb]/N 	 1 	 Fed the
+6 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Fed ought
+6 	 9 	 (S[b]\NP)/PP 	 1 	 Fed worry <XB>
+6 	 14 	 (S[b]\NP)/NP 	 1 	 Fed bring <XU>
+7 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 ought said
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to ought
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 worry to
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 worry less
+11 	 9 	 (S[b]\NP)/PP 	 2 	 about worry
+12 	 11 	 PP/NP 	 1 	 inflation about
+14 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 bring to
+14 	 17 	 (S\NP)\(S\NP) 	 2 	 bring down
+16 	 14 	 (S[b]\NP)/NP 	 2 	 rates bring
+16 	 15 	 N/N 	 1 	 rates interest
+<\s>
+<s id="wsj_0254.23"> 10
+2 	 0 	 NP/NP 	 1 	 figures All
+2 	 1 	 NP[nb]/N 	 1 	 figures the
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 figures are
+2 	 4 	 S[pss]\NP 	 1 	 figures adjusted <XB>
+2 	 6 	 (S[b]\NP)/NP 	 1 	 figures remove <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 adjusted are
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 remove to
+9 	 6 	 (S[b]\NP)/NP 	 2 	 patterns remove
+9 	 7 	 N/N 	 1 	 patterns usual
+9 	 8 	 N/N 	 1 	 patterns seasonal
+<\s>
+<s id="wsj_0254.24"> 17
+0 	 1 	 (S[dcl]\(S[adj]\NP))/NP 	 1 	 Here are
+4 	 1 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 contributions are
+4 	 2 	 NP[nb]/N 	 1 	 contributions the
+4 	 3 	 N/N 	 1 	 contributions net
+4 	 5 	 (NP\NP)/NP 	 1 	 contributions of
+7 	 5 	 (NP\NP)/NP 	 2 	 components of
+7 	 6 	 NP[nb]/N 	 1 	 components the
+7 	 8 	 (NP\NP)/NP 	 1 	 components of
+11 	 9 	 NP[nb]/N 	 1 	 Department the
+11 	 10 	 N/N 	 1 	 Department Commerce
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Department 's
+13 	 8 	 (NP\NP)/NP 	 2 	 index of
+13 	 12 	 (NP[nb]/N)\NP 	 1 	 index 's
+13 	 14 	 (NP\NP)/NP 	 1 	 index of
+16 	 14 	 (NP\NP)/NP 	 2 	 indicators of
+16 	 15 	 N/N 	 1 	 indicators leading
+<\s>
+<s id="wsj_0254.25"> 22
+2 	 0 	 (S/S)/NP 	 2 	 adjustments After
+2 	 1 	 N/N 	 1 	 adjustments various
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 they produced
+5 	 0 	 (S/S)/NP 	 1 	 produced After
+8 	 7 	 (N/N)/(N/N) 	 2 	 % 0.5
+9 	 5 	 (S[dcl]\NP)/NP 	 2 	 rise produced
+9 	 6 	 NP[nb]/N 	 1 	 rise a
+9 	 8 	 N/N 	 1 	 rise %
+9 	 10 	 (NP\NP)/NP 	 1 	 rise in
+9 	 13 	 (NP\NP)/NP 	 1 	 rise for
+12 	 10 	 (NP\NP)/NP 	 2 	 index in
+12 	 11 	 NP[nb]/N 	 1 	 index the
+14 	 13 	 (NP\NP)/NP 	 2 	 August for
+18 	 17 	 (N/N)/(N/N) 	 2 	 % 0.2
+19 	 5 	 (S[dcl]\NP)/NP 	 2 	 rise produced
+19 	 16 	 NP[nb]/N 	 1 	 rise a
+19 	 18 	 N/N 	 1 	 rise %
+19 	 20 	 (NP\NP)/NP 	 1 	 rise for
+21 	 20 	 (NP\NP)/NP 	 2 	 September for
+<\s>
+<s id="wsj_0254.26"> 16
+0 	 8 	 (S[dcl]\NP)/PP 	 1 	 September are
+4 	 3 	 NP[nb]/N 	 1 	 change the
+4 	 5 	 (NP\NP)/NP 	 1 	 change from
+4 	 8 	 (S[dcl]\NP)/PP 	 1 	 change are
+6 	 5 	 (NP\NP)/NP 	 2 	 August from
+10 	 8 	 (S[dcl]\NP)/PP 	 2 	 from are
+11 	 10 	 PP/NP 	 1 	 1.11 from
+11 	 12 	 (NP\NP)/NP 	 1 	 1.11 in
+15 	 12 	 (NP\NP)/NP 	 2 	 month in
+15 	 13 	 NP[nb]/N 	 1 	 month the
+15 	 14 	 N/N 	 1 	 month previous
+<\s>

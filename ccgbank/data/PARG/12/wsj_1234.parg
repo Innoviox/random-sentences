@@ -1,0 +1,159 @@
+<s id="wsj_1234.1"> 27
+2 	 0 	 N/N 	 1 	 Koenig Ronald
+2 	 1 	 N/N 	 1 	 Koenig B.
+2 	 6 	 (S[adj]\NP)\NP 	 1 	 Koenig old <XB>
+2 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Koenig was
+2 	 9 	 (S[pss]\NP)/NP 	 1 	 Koenig named <XB>
+5 	 4 	 N/N 	 1 	 years 55
+5 	 6 	 (S[adj]\NP)\NP 	 2 	 years old
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+13 	 9 	 (S[pss]\NP)/NP 	 2 	 director named
+13 	 10 	 NP[nb]/N 	 1 	 director a
+13 	 11 	 N/N 	 1 	 director senior
+13 	 12 	 N/N 	 1 	 director managing
+13 	 14 	 (NP\NP)/NP 	 1 	 director of
+20 	 14 	 (NP\NP)/NP 	 2 	 subsidiary of
+20 	 15 	 NP[nb]/N 	 1 	 subsidiary the
+20 	 16 	 N/N 	 1 	 subsidiary Gruntal
+20 	 17 	 N/N 	 1 	 subsidiary &
+20 	 18 	 N/N 	 1 	 subsidiary Co.
+20 	 19 	 N/N 	 1 	 subsidiary brokerage
+20 	 21 	 (NP\NP)/NP 	 1 	 subsidiary of
+26 	 21 	 (NP\NP)/NP 	 2 	 firm of
+26 	 22 	 NP[nb]/N 	 1 	 firm this
+26 	 23 	 N/N 	 1 	 firm insurance
+26 	 25 	 N/N 	 1 	 firm financial-services
+<\s>
+<s id="wsj_1234.2"> 19
+1 	 0 	 N/N 	 1 	 Koenig Mr.
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Koenig will
+1 	 3 	 (S[b]\NP)/NP 	 1 	 Koenig build <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 build will
+8 	 3 	 (S[b]\NP)/NP 	 2 	 business build
+8 	 4 	 NP[nb]/N 	 1 	 business the
+8 	 5 	 N/N 	 1 	 business corporate-finance
+8 	 7 	 N/N 	 1 	 business investment-banking
+8 	 9 	 (NP\NP)/NP 	 1 	 business of
+10 	 9 	 (NP\NP)/NP 	 2 	 Gruntal of
+10 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Gruntal which
+10 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Gruntal has <XB>
+10 	 15 	 (S[pt]\NP)/NP 	 1 	 Gruntal been <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 has primarily
+15 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+18 	 15 	 (S[pt]\NP)/NP 	 2 	 firm been
+18 	 16 	 NP[nb]/N 	 1 	 firm a
+18 	 17 	 N/N 	 1 	 firm retail-based
+<\s>
+<s id="wsj_1234.3"> 39
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 He was
+1 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 was until
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 chairman was
+2 	 7 	 (NP\NP)/NP 	 1 	 chairman of
+6 	 1 	 (S[dcl]\NP)/NP 	 2 	 officer was
+6 	 4 	 N/N 	 1 	 officer co-chief
+6 	 5 	 N/N 	 1 	 officer executive
+6 	 7 	 (NP\NP)/NP 	 1 	 officer of
+12 	 7 	 (NP\NP)/NP 	 2 	 Co. of
+12 	 8 	 N/N 	 1 	 Co. Ladenburg
+12 	 10 	 N/N 	 1 	 Co. Thalmann
+12 	 11 	 N/N 	 1 	 Co. &
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 July until
+14 	 16 	 (NP\NP)/S[dcl] 	 1 	 July when
+17 	 18 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 he was
+17 	 19 	 (S[pss]\NP)/NP 	 1 	 he named <XB>
+18 	 16 	 (NP\NP)/S[dcl] 	 2 	 was when
+19 	 18 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+19 	 25 	 ((S\NP)\(S\NP))/PP 	 2 	 named along
+20 	 19 	 (S[pss]\NP)/NP 	 2 	 co-chairman named
+20 	 21 	 (NP\NP)/NP 	 1 	 co-chairman of
+24 	 21 	 (NP\NP)/NP 	 2 	 firm of
+24 	 22 	 NP[nb]/N 	 1 	 firm the
+24 	 23 	 N/N 	 1 	 firm investment-banking
+26 	 25 	 ((S\NP)\(S\NP))/PP 	 3 	 with along
+30 	 26 	 PP/NP 	 1 	 Jr. with
+30 	 27 	 N/N 	 1 	 Jr. Howard
+30 	 28 	 N/N 	 1 	 Jr. L.
+30 	 29 	 N/N 	 1 	 Jr. Blum
+30 	 32 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Jr. who
+30 	 34 	 (S[dcl]\NP)/NP 	 1 	 Jr. became <XB>
+34 	 32 	 (NP\NP)/(S[dcl]\NP) 	 2 	 became who
+34 	 33 	 (S\NP)/(S\NP) 	 2 	 became then
+38 	 34 	 (S[dcl]\NP)/NP 	 2 	 executive became
+38 	 35 	 NP[nb]/N 	 1 	 executive the
+38 	 36 	 N/N 	 1 	 executive sole
+38 	 37 	 N/N 	 1 	 executive chief
+<\s>
+<s id="wsj_1234.4"> 37
+3 	 2 	 N/N 	 1 	 Blum Mr.
+3 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Blum said
+3 	 25 	 (S[dcl]\NP)/S[dcl] 	 1 	 Blum said <XU>
+5 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 41 said
+5 	 25 	 (S[dcl]\NP)/S[dcl] 	 1 	 41 said <XU>
+7 	 0 	 S/S 	 1 	 said Yesterday
+8 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 he was
+8 	 11 	 (S[adj]\NP)/PP 	 1 	 he aware <XB>
+9 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 was n't
+11 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 aware was
+12 	 11 	 (S[adj]\NP)/PP 	 2 	 of aware
+13 	 12 	 PP/NP 	 1 	 plans of
+13 	 14 	 (NP\NP)/NP 	 1 	 plans at
+15 	 14 	 (NP\NP)/NP 	 2 	 Ladenburg at
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 name to
+19 	 17 	 (S[b]\NP)/NP 	 2 	 co-chairman name
+19 	 18 	 NP[nb]/N 	 1 	 co-chairman a
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 succeed to
+23 	 21 	 (S[b]\NP)/NP 	 2 	 Koenig succeed
+23 	 22 	 N/N 	 1 	 Koenig Mr.
+25 	 0 	 S/S 	 1 	 said Yesterday
+27 	 26 	 NP[nb]/N 	 1 	 board the
+27 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 board would
+27 	 29 	 (S[b]\NP)/(S[to]\NP) 	 1 	 board need <XB>
+27 	 31 	 (S[b]\NP)/NP 	 1 	 board approve <XB>
+28 	 25 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+29 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 need would
+30 	 29 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to need
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 approve to
+33 	 31 	 (S[b]\NP)/NP 	 2 	 appointments approve
+33 	 32 	 NP[nb]/N 	 1 	 appointments any
+36 	 31 	 (S[b]\NP)/NP 	 2 	 changes approve
+36 	 32 	 NP[nb]/N 	 1 	 changes any
+36 	 35 	 N/N 	 1 	 changes title
+<\s>
+<s id="wsj_1234.5"> 22
+1 	 0 	 N/N 	 1 	 Blum Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Blum added
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 he was
+3 	 6 	 (S[adj]\NP)/S[dcl] 	 1 	 he surprised <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 was added
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 was n't
+6 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 surprised was
+8 	 7 	 N/N 	 1 	 Koenig Mr.
+8 	 9 	 S[dcl]\NP 	 1 	 Koenig resigned
+9 	 6 	 (S[adj]\NP)/S[dcl] 	 2 	 resigned surprised
+13 	 12 	 NP[nb]/N 	 1 	 departure his
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 departure was
+14 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 was added
+15 	 14 	 (S[dcl]\NP)/NP 	 2 	 nothing was
+15 	 16 	 (NP\NP)/(S[dcl]/NP) 	 1 	 nothing that
+15 	 18 	 (S[dcl]\NP)/NP 	 2 	 nothing desired <XU>
+15 	 21 	 PP/NP 	 1 	 nothing for <XU>
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 we desired
+17 	 20 	 (S[dcl]\NP)/PP 	 1 	 we worked <XU>
+18 	 16 	 (NP\NP)/(S[dcl]/NP) 	 2 	 desired that
+20 	 16 	 (NP\NP)/(S[dcl]/NP) 	 2 	 worked that
+21 	 20 	 (S[dcl]\NP)/PP 	 2 	 for worked
+<\s>
+<s id="wsj_1234.6"> 12
+1 	 0 	 N/N 	 1 	 Koenig Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Koenig said
+4 	 6 	 (S[dcl]\NP)/NP 	 1 	 I got
+6 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 got said
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 got just
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 offer got
+9 	 7 	 NP[nb]/N 	 1 	 offer a
+9 	 8 	 N/N 	 1 	 offer tremendous
+9 	 10 	 (NP\NP)/NP 	 1 	 offer from
+11 	 10 	 (NP\NP)/NP 	 2 	 Gruntal from
+<\s>

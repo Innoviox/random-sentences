@@ -1,0 +1,931 @@
+<s id="wsj_2102.1"> 11
+1 	 0 	 NP[nb]/N 	 1 	 EARTHQUAKE AN
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 EARTHQUAKE STRUCK
+1 	 6 	 (S[ng]\NP)/NP 	 1 	 EARTHQUAKE killing <XB>
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 California STRUCK
+4 	 3 	 N/N 	 1 	 California Northern
+7 	 8 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+9 	 8 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 50 than
+10 	 6 	 (S[ng]\NP)/NP 	 2 	 people killing
+10 	 9 	 N/N 	 1 	 people 50
+<\s>
+<s id="wsj_2102.2"> 35
+2 	 0 	 NP[nb]/N 	 1 	 temblor The
+2 	 1 	 N/N 	 1 	 temblor violent
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 temblor which
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 temblor lasted <XB>
+2 	 10 	 ((S[dcl]\NP)/PP)/NP 	 1 	 temblor registered <XU>
+2 	 18 	 (S[dcl]\NP)/NP 	 1 	 temblor caused
+2 	 32 	 (S[dcl]\NP)/NP 	 1 	 temblor shook <XU>
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 lasted which
+7 	 6 	 (N/N)/(N/N) 	 2 	 15 about
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 seconds lasted
+8 	 7 	 N/N 	 1 	 seconds 15
+10 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 registered which
+11 	 10 	 ((S[dcl]\NP)/PP)/NP 	 3 	 6.9 registered
+12 	 10 	 ((S[dcl]\NP)/PP)/NP 	 2 	 on registered
+15 	 12 	 PP/NP 	 1 	 scale on
+15 	 13 	 NP[nb]/N 	 1 	 scale the
+15 	 14 	 N/N 	 1 	 scale Richter
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 caused also
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 collapse caused
+20 	 19 	 NP[nb]/N 	 1 	 collapse the
+20 	 21 	 (NP\NP)/NP 	 1 	 collapse of
+24 	 21 	 (NP\NP)/NP 	 2 	 section of
+24 	 22 	 NP[nb]/N 	 1 	 section a
+24 	 23 	 N/N 	 1 	 section 30-foot
+24 	 25 	 (NP\NP)/NP 	 1 	 section of
+30 	 25 	 (NP\NP)/NP 	 2 	 Bridge of
+30 	 26 	 NP[nb]/N 	 1 	 Bridge the
+30 	 27 	 N/N 	 1 	 Bridge San
+30 	 28 	 N/N 	 1 	 Bridge Francisco-Oakland
+30 	 29 	 N/N 	 1 	 Bridge Bay
+32 	 17 	 (S\NP)/(S\NP) 	 2 	 shook also
+34 	 32 	 (S[dcl]\NP)/NP 	 2 	 Park shook
+34 	 33 	 N/N 	 1 	 Park Candlestick
+<\s>
+<s id="wsj_2102.3"> 21
+1 	 0 	 NP[nb]/N 	 1 	 tremor The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 tremor was
+1 	 3 	 S[adj]\NP 	 1 	 tremor centered <XB>
+1 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 tremor was <XU>
+1 	 14 	 S[pss]\NP 	 1 	 tremor felt <XU>
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 centered was
+3 	 4 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 centered near
+5 	 4 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 Hollister near
+5 	 7 	 NP\NP 	 1 	 Hollister southeast
+7 	 8 	 ((NP\NP)\(NP\NP))/NP 	 2 	 southeast of
+10 	 8 	 ((NP\NP)\(NP\NP))/NP 	 3 	 Francisco of
+10 	 9 	 N/N 	 1 	 Francisco San
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 felt was
+14 	 20 	 (S\NP)\(S\NP) 	 2 	 felt away
+19 	 17 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 miles as
+19 	 18 	 N/N 	 1 	 miles 200
+20 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 away as
+20 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 away far
+20 	 17 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 away as
+<\s>
+<s id="wsj_2102.4"> 4
+1 	 0 	 N/N 	 1 	 injuries Numerous
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 injuries were
+1 	 3 	 S[pss]\NP 	 1 	 injuries reported <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 reported were
+<\s>
+<s id="wsj_2102.5"> 12
+1 	 0 	 NP[nb]/N 	 1 	 buildings Some
+1 	 2 	 S[dcl]\NP 	 1 	 buildings collapsed
+7 	 4 	 N/N 	 1 	 lines gas
+7 	 6 	 N/N 	 1 	 lines water
+7 	 8 	 S[dcl]\NP 	 1 	 lines ruptured
+10 	 11 	 S[dcl]\NP 	 1 	 fires raged
+<\s>
+<s id="wsj_2102.6"> 29
+1 	 0 	 NP[nb]/N 	 1 	 quake The
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 quake which
+1 	 5 	 (S[dcl]\NP)/NP 	 1 	 quake caused <XB>
+1 	 13 	 (S[dcl]\NP)/NP 	 1 	 quake knocked
+1 	 19 	 (S[dcl]\NP)/NP 	 1 	 quake cracked <XU>
+1 	 22 	 (S[dcl]\NP)/NP 	 1 	 quake disrupted <XU>
+5 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 caused which
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 caused also
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 damage caused
+6 	 7 	 (NP\NP)/NP 	 1 	 damage in
+9 	 7 	 (NP\NP)/NP 	 2 	 Jose in
+9 	 8 	 N/N 	 1 	 Jose San
+11 	 7 	 (NP\NP)/NP 	 2 	 Berkeley in
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 knocked out
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 electricity knocked
+17 	 13 	 (S[dcl]\NP)/NP 	 2 	 telephones knocked
+20 	 19 	 (S[dcl]\NP)/NP 	 2 	 roadways cracked
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 service disrupted
+24 	 23 	 N/N 	 1 	 service subway
+24 	 25 	 (NP\NP)/NP 	 1 	 service in
+28 	 25 	 (NP\NP)/NP 	 2 	 Area in
+28 	 26 	 NP[nb]/N 	 1 	 Area the
+28 	 27 	 N/N 	 1 	 Area Bay
+<\s>
+<s id="wsj_2102.8"> 37
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Bush vowed
+0 	 3 	 (S[b]\NP)/NP 	 1 	 Bush veto <XB>
+0 	 18 	 (S[ng]\NP)/S[dcl] 	 1 	 Bush saying <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to vowed
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 veto to
+5 	 3 	 (S[b]\NP)/NP 	 2 	 bill veto
+5 	 4 	 NP[nb]/N 	 1 	 bill a
+5 	 6 	 (S[ng]\NP)/NP 	 1 	 bill allowing <XB>
+8 	 6 	 (S[ng]\NP)/NP 	 2 	 financing allowing
+8 	 7 	 N/N 	 1 	 financing federal
+8 	 9 	 (NP\NP)/NP 	 1 	 financing for
+10 	 9 	 (NP\NP)/NP 	 2 	 abortions for
+10 	 11 	 (NP\NP)/NP 	 1 	 abortions in
+12 	 11 	 (NP\NP)/NP 	 2 	 cases in
+12 	 13 	 (NP\NP)/NP 	 1 	 cases of
+14 	 13 	 (NP\NP)/NP 	 2 	 rape of
+16 	 13 	 (NP\NP)/NP 	 2 	 incest of
+20 	 19 	 N/N 	 1 	 dollars tax
+20 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 dollars should
+20 	 24 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 dollars used <XB>
+20 	 26 	 (S[b]\NP)/NP 	 1 	 dollars compound <XB>
+21 	 18 	 (S[ng]\NP)/S[dcl] 	 2 	 should saying
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 should n't
+23 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be should
+24 	 23 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+25 	 24 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 compound to
+26 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 compound with
+29 	 26 	 (S[b]\NP)/NP 	 2 	 act compound
+29 	 27 	 NP[nb]/N 	 1 	 act a
+29 	 28 	 N/N 	 1 	 act violent
+32 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 taking with
+32 	 31 	 NP[nb]/N 	 1 	 taking the
+32 	 33 	 (NP\NP)/NP 	 1 	 taking of
+36 	 33 	 (NP\NP)/NP 	 2 	 life of
+36 	 34 	 NP[nb]/N 	 1 	 life an
+36 	 35 	 N/N 	 1 	 life unborn
+<\s>
+<s id="wsj_2102.9"> 24
+1 	 0 	 NP[nb]/N 	 1 	 pledge His
+1 	 3 	 (NP\NP)/NP 	 1 	 pledge in
+1 	 11 	 S[dcl]\NP 	 1 	 pledge came
+5 	 3 	 (NP\NP)/NP 	 2 	 letter in
+5 	 4 	 NP[nb]/N 	 1 	 letter a
+5 	 6 	 (NP\NP)/NP 	 1 	 letter to
+9 	 6 	 (NP\NP)/NP 	 2 	 Byrd to
+9 	 7 	 N/N 	 1 	 Byrd Democratic
+9 	 8 	 N/N 	 1 	 Byrd Sen.
+11 	 12 	 ((S\NP)\(S\NP))/PP 	 2 	 came ahead
+13 	 12 	 ((S\NP)\(S\NP))/PP 	 3 	 of ahead
+17 	 13 	 PP/NP 	 1 	 vote of
+17 	 14 	 NP[nb]/N 	 1 	 vote an
+17 	 15 	 N/N 	 1 	 vote expected
+17 	 16 	 N/N 	 1 	 vote Senate
+17 	 18 	 (NP\NP)/NP 	 1 	 vote on
+20 	 18 	 (NP\NP)/NP 	 2 	 legislation on
+20 	 19 	 N/N 	 1 	 legislation spending
+20 	 21 	 (S[ng]\NP)/NP 	 1 	 legislation containing <XB>
+23 	 21 	 (S[ng]\NP)/NP 	 2 	 provision containing
+23 	 22 	 NP[nb]/N 	 1 	 provision the
+<\s>
+<s id="wsj_2102.10"> 30
+1 	 0 	 N/N 	 1 	 Germany East
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Germany 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 Politburo 's
+3 	 4 	 S[dcl]\NP 	 1 	 Politburo met
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 met amid
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 speculation amid
+7 	 6 	 N/S[em] 	 1 	 that speculation
+10 	 8 	 NP[nb]/N 	 1 	 body the
+10 	 9 	 N/N 	 1 	 body ruling
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 body would
+10 	 12 	 (S[b]\NP)/NP 	 1 	 body oust <XB>
+11 	 7 	 S[em]/S[dcl] 	 1 	 would that
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 oust would
+15 	 12 	 (S[b]\NP)/NP 	 2 	 Honecker oust
+15 	 13 	 N/N 	 1 	 Honecker hard-line
+15 	 14 	 N/N 	 1 	 Honecker leader
+15 	 17 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 Honecker whose
+18 	 17 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 rule whose
+18 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 rule has <XB>
+18 	 21 	 S[pss]\NP 	 1 	 rule challenged <XB>
+19 	 17 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 has whose
+20 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+21 	 20 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 challenged been
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 challenged by
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 emigration by
+24 	 23 	 N/N 	 1 	 emigration mass
+26 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 calls by
+26 	 27 	 (NP\NP)/NP 	 1 	 calls for
+29 	 27 	 (NP\NP)/NP 	 2 	 freedoms for
+29 	 28 	 N/N 	 1 	 freedoms democratic
+<\s>
+<s id="wsj_2102.11"> 24
+3 	 2 	 (N/N)/(N/N) 	 2 	 125 about
+4 	 3 	 N/N 	 1 	 refugees 125
+4 	 5 	 S[dcl]\NP 	 1 	 refugees flew
+5 	 0 	 S/S 	 1 	 flew Meanwhile
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 flew to
+5 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 flew from
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Duesseldorf to
+10 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Germany to
+10 	 9 	 N/N 	 1 	 Germany West
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 Warsaw from
+17 	 15 	 NP[nb]/N 	 1 	 airlift the
+17 	 16 	 N/N 	 1 	 airlift first
+17 	 18 	 (NP\NP)/NP 	 1 	 airlift in
+20 	 19 	 N/N 	 1 	 Germany East
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 Germany 's
+23 	 18 	 (NP\NP)/NP 	 2 	 exodus in
+23 	 21 	 (NP[nb]/N)\NP 	 1 	 exodus 's
+23 	 22 	 N/N 	 1 	 exodus refugee
+<\s>
+<s id="wsj_2102.12"> 15
+3 	 0 	 NP[nb]/N 	 1 	 Association The
+3 	 1 	 N/N 	 1 	 Association World
+3 	 2 	 N/N 	 1 	 Association Psychiatric
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Association voted
+3 	 11 	 (S[b]\NP)/NP 	 1 	 Association readmit <XB>
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 voted at
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 parley at
+8 	 6 	 NP[nb]/N 	 1 	 parley an
+8 	 7 	 N/N 	 1 	 parley Athens
+9 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to voted
+11 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 readmit to
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 readmit conditionally
+14 	 11 	 (S[b]\NP)/NP 	 2 	 Union readmit
+14 	 12 	 NP[nb]/N 	 1 	 Union the
+14 	 13 	 N/N 	 1 	 Union Soviet
+<\s>
+<s id="wsj_2102.13"> 40
+0 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Moscow which
+0 	 3 	 (S[dcl]\NP)/NP 	 1 	 Moscow left <XB>
+0 	 9 	 (S[b]\NP)/NP 	 1 	 Moscow avoid <XB>
+0 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Moscow could
+0 	 24 	 S[pss]\NP 	 1 	 Moscow suspended <XB>
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 left which
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 left in
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 group left
+5 	 4 	 NP[nb]/N 	 1 	 group the
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 1983 in
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 avoid to
+10 	 9 	 (S[b]\NP)/NP 	 2 	 explusion avoid
+10 	 11 	 (NP\NP)/NP 	 1 	 explusion over
+12 	 11 	 (NP\NP)/NP 	 2 	 allegations over
+13 	 12 	 N/S[em] 	 1 	 that allegations
+15 	 14 	 N/N 	 1 	 dissidents political
+15 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 dissidents were
+15 	 17 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 dissidents being <XB>
+15 	 18 	 (S[pss]\NP)/PP 	 1 	 dissidents certified <XB>
+16 	 13 	 S[em]/S[dcl] 	 1 	 were that
+17 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being were
+18 	 17 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 certified being
+19 	 18 	 (S[pss]\NP)/PP 	 2 	 as certified
+20 	 19 	 PP/(S[adj]\NP) 	 1 	 insane as
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+24 	 23 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 suspended be
+24 	 25 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 suspended if
+27 	 26 	 NP[nb]/N 	 1 	 misuse the
+27 	 28 	 (NP\NP)/NP 	 1 	 misuse of
+27 	 30 	 (NP\NP)/NP 	 1 	 misuse against
+27 	 32 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 misuse is
+27 	 33 	 S[pss]\NP 	 1 	 misuse discovered <XB>
+29 	 28 	 (NP\NP)/NP 	 2 	 psychiatry of
+31 	 30 	 (NP\NP)/NP 	 2 	 dissenters against
+32 	 25 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is if
+33 	 32 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 discovered is
+33 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 discovered during
+36 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 review during
+36 	 35 	 NP[nb]/N 	 1 	 review a
+36 	 37 	 (NP\NP)/NP 	 1 	 review within
+39 	 37 	 (NP\NP)/NP 	 2 	 year within
+39 	 38 	 NP[nb]/N 	 1 	 year a
+<\s>
+<s id="wsj_2102.14"> 24
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 NASA postponed
+1 	 9 	 ((S\NP)\(S\NP))/PP 	 2 	 postponed because
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 liftoff postponed
+3 	 2 	 NP[nb]/N 	 1 	 liftoff the
+3 	 4 	 (NP\NP)/NP 	 1 	 liftoff of
+8 	 4 	 (NP\NP)/NP 	 2 	 Atlantis of
+8 	 5 	 NP[nb]/N 	 1 	 Atlantis the
+8 	 6 	 N/N 	 1 	 Atlantis space
+8 	 7 	 N/N 	 1 	 Atlantis shuttle
+10 	 9 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+11 	 10 	 PP/NP 	 1 	 rain of
+11 	 12 	 (NP\NP)/NP 	 1 	 rain near
+14 	 12 	 (NP\NP)/NP 	 2 	 site near
+14 	 13 	 NP[nb]/N 	 1 	 site the
+14 	 15 	 (NP\NP)/NP 	 1 	 site of
+14 	 19 	 (NP\NP)/NP 	 1 	 site in
+18 	 15 	 (NP\NP)/NP 	 2 	 pad of
+18 	 16 	 NP[nb]/N 	 1 	 pad the
+18 	 17 	 N/N 	 1 	 pad launch
+21 	 19 	 (NP\NP)/NP 	 2 	 Canaveral in
+21 	 20 	 N/N 	 1 	 Canaveral Cape
+23 	 19 	 (NP\NP)/NP 	 2 	 Fla in
+<\s>
+<s id="wsj_2102.15"> 6
+1 	 0 	 NP[nb]/N 	 1 	 flight The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 flight was
+1 	 3 	 S[pss]\NP 	 1 	 flight rescheduled <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 rescheduled was
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rescheduled for
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 today for
+<\s>
+<s id="wsj_2102.16"> 19
+1 	 0 	 NP[nb]/N 	 1 	 spacecraft The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 spacecraft 's
+4 	 2 	 (NP[nb]/N)\NP 	 1 	 astronauts 's
+4 	 3 	 N/N 	 1 	 astronauts five
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 astronauts are
+4 	 7 	 (S[b]\NP)/NP 	 1 	 astronauts dispatch <XB>
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to are
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 dispatch to
+7 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 dispatch on
+12 	 7 	 (S[b]\NP)/NP 	 2 	 probe dispatch
+12 	 8 	 NP[nb]/N 	 1 	 probe the
+12 	 9 	 N/N 	 1 	 probe nuclear-powered
+12 	 10 	 N/N 	 1 	 probe Galileo
+12 	 11 	 N/N 	 1 	 probe space
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 mission on
+16 	 14 	 NP[nb]/N 	 1 	 mission an
+16 	 15 	 N/N 	 1 	 mission exploratory
+16 	 17 	 (NP\NP)/NP 	 1 	 mission to
+18 	 17 	 (NP\NP)/NP 	 2 	 Jupiter to
+<\s>
+<s id="wsj_2102.17"> 18
+2 	 0 	 N/N 	 1 	 leaders Senate
+2 	 1 	 N/N 	 1 	 leaders Democratic
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 leaders said
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 they had
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 votes had
+7 	 6 	 N/N 	 1 	 votes enough
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 defeat to
+13 	 9 	 (S[b]\NP)/NP 	 2 	 amendment defeat
+13 	 10 	 NP[nb]/N 	 1 	 amendment a
+13 	 11 	 N/N 	 1 	 amendment proposed
+13 	 12 	 N/N 	 1 	 amendment constitutional
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 ban to
+17 	 15 	 (S[b]\NP)/NP 	 2 	 burning ban
+17 	 16 	 N/N 	 1 	 burning flag
+<\s>
+<s id="wsj_2102.18"> 28
+1 	 0 	 NP[nb]/N 	 1 	 amendment The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 amendment is
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 amendment aimed <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 aimed is
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 at aimed
+5 	 4 	 PP/(S[ng]\NP) 	 1 	 skirting at
+9 	 5 	 (S[ng]\NP)/NP 	 2 	 ruling skirting
+9 	 6 	 NP[nb]/N 	 1 	 ruling a
+9 	 7 	 N/N 	 1 	 ruling Supreme
+9 	 8 	 N/N 	 1 	 ruling Court
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 ruling that
+9 	 11 	 (S[dcl]\NP)/NP 	 1 	 ruling threw <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 threw that
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 threw out
+11 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 threw on
+14 	 11 	 (S[dcl]\NP)/NP 	 2 	 conviction threw
+14 	 13 	 NP[nb]/N 	 1 	 conviction the
+14 	 15 	 (NP\NP)/NP 	 1 	 conviction of
+18 	 15 	 (NP\NP)/NP 	 2 	 flag-burner of
+18 	 16 	 NP[nb]/N 	 1 	 flag-burner a
+18 	 17 	 N/N 	 1 	 flag-burner Texas
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 grounds on
+21 	 20 	 N/S[em] 	 1 	 that grounds
+23 	 22 	 NP[nb]/N 	 1 	 freedom his
+23 	 24 	 (NP\NP)/NP 	 1 	 freedom of
+23 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 freedom was
+23 	 27 	 S[pss]\NP 	 1 	 freedom violated <XB>
+25 	 24 	 (NP\NP)/NP 	 2 	 speech of
+26 	 21 	 S[em]/S[dcl] 	 1 	 was that
+27 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 violated was
+<\s>
+<s id="wsj_2102.19"> 22
+1 	 0 	 N/N 	 1 	 researchers Federal
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 researchers said
+5 	 3 	 N/N 	 1 	 rates lung-cancer
+5 	 4 	 N/N 	 1 	 rates mortality
+5 	 6 	 (NP\NP)/NP 	 1 	 rates for
+5 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 rates have
+5 	 14 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 rates begun <XB>
+5 	 16 	 S[b]\NP 	 1 	 rates decline <XB>
+7 	 6 	 (NP\NP)/NP 	 2 	 people for
+7 	 8 	 (NP\NP)/NP 	 1 	 people under
+10 	 8 	 (NP\NP)/NP 	 2 	 years under
+10 	 9 	 N/N 	 1 	 years 45
+10 	 11 	 (NP\NP)/NP 	 1 	 years of
+12 	 11 	 (NP\NP)/NP 	 2 	 age of
+13 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 have said
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 begun have
+15 	 14 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to begun
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 decline to
+16 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 decline for
+19 	 18 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 for particularly
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 males for
+21 	 20 	 N/N 	 1 	 males white
+<\s>
+<s id="wsj_2102.20"> 27
+3 	 0 	 NP[nb]/N 	 1 	 Institute The
+3 	 1 	 N/N 	 1 	 Institute National
+3 	 2 	 N/N 	 1 	 Institute Cancer
+3 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 Institute projected
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 projected also
+6 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that projected
+10 	 7 	 N/N 	 1 	 rates overall
+10 	 8 	 N/N 	 1 	 rates U.S.
+10 	 9 	 N/N 	 1 	 rates mortality
+10 	 11 	 (NP\NP)/NP 	 1 	 rates from
+10 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rates should
+10 	 15 	 (S[b]\NP)/(S[to]\NP) 	 1 	 rates begin <XB>
+10 	 17 	 S[b]\NP 	 1 	 rates drop <XB>
+13 	 11 	 (NP\NP)/NP 	 2 	 cancer from
+13 	 12 	 N/N 	 1 	 cancer lung
+14 	 6 	 S[em]/S[dcl] 	 1 	 should that
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 begin should
+16 	 15 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to begin
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 drop to
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 drop in
+17 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 drop if
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 years in
+20 	 19 	 N/N 	 1 	 years several
+23 	 22 	 N/N 	 1 	 smoking cigarette
+23 	 24 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 smoking continues
+23 	 26 	 S[b]\NP 	 1 	 smoking abate <XB>
+24 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 continues if
+25 	 24 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continues
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 abate to
+<\s>
+<s id="wsj_2102.21"> 34
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 Bush met
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 with met
+4 	 3 	 (N/N)/(N/N) 	 2 	 Korean South
+6 	 2 	 PP/NP 	 1 	 Roh with
+6 	 4 	 N/N 	 1 	 Roh Korean
+6 	 5 	 N/N 	 1 	 Roh President
+6 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Roh who
+6 	 9 	 (S[dcl]\NP)/S[em] 	 1 	 Roh indicated <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 indicated who
+10 	 9 	 (S[dcl]\NP)/S[em] 	 2 	 that indicated
+11 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Seoul plans
+11 	 15 	 (S[b]\NP)/NP 	 1 	 Seoul ease <XB>
+11 	 19 	 (S[b]\NP)/S[em] 	 1 	 Seoul ensure <XB>
+12 	 10 	 S[em]/S[dcl] 	 1 	 plans that
+13 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 to further
+15 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 ease to
+17 	 15 	 (S[b]\NP)/NP 	 2 	 rules ease
+17 	 16 	 N/N 	 1 	 rules trade
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 ensure to
+20 	 19 	 (S[b]\NP)/S[em] 	 2 	 that ensure
+22 	 21 	 NP[nb]/N 	 1 	 economy its
+22 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 economy becomes
+22 	 25 	 (S[adj]\NP)/PP 	 1 	 economy open <XB>
+23 	 20 	 S[em]/S[dcl] 	 1 	 becomes that
+23 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 becomes by
+25 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 open becomes
+25 	 24 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 open as
+26 	 25 	 (S[adj]\NP)/PP 	 2 	 as open
+30 	 26 	 PP/NP 	 1 	 nations as
+30 	 27 	 NP[nb]/N 	 1 	 nations the
+30 	 28 	 N/N 	 1 	 nations other
+30 	 29 	 N/N 	 1 	 nations industrialized
+33 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 mid-1990s by
+33 	 32 	 NP[nb]/N 	 1 	 mid-1990s the
+<\s>
+<s id="wsj_2102.22"> 23
+0 	 1 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 Bush assured
+2 	 1 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 Roh assured
+3 	 1 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that assured
+5 	 4 	 NP[nb]/N 	 1 	 U.S. the
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 U.S. would
+5 	 7 	 (S[b]\NP)/PP 	 1 	 U.S. stand <XB>
+6 	 3 	 S[em]/S[dcl] 	 1 	 would that
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 stand would
+7 	 13 	 (S\NP)\(S\NP) 	 2 	 stand long
+8 	 7 	 (S[b]\NP)/PP 	 2 	 by stand
+11 	 8 	 PP/NP 	 1 	 commitments by
+11 	 9 	 NP[nb]/N 	 1 	 commitments its
+11 	 10 	 N/N 	 1 	 commitments security
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 long as
+13 	 14 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 3 	 long as
+15 	 16 	 (S[dcl]\NP[thr])/NP 	 1 	 there is
+16 	 14 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 4 	 is as
+18 	 16 	 (S[dcl]\NP[thr])/NP 	 2 	 threat is
+18 	 17 	 NP[nb]/N 	 1 	 threat a
+18 	 19 	 (NP\NP)/NP 	 1 	 threat from
+22 	 19 	 (NP\NP)/NP 	 2 	 Korea from
+22 	 20 	 N/N 	 1 	 Korea Communist
+22 	 21 	 N/N 	 1 	 Korea North
+<\s>
+<s id="wsj_2102.23"> 29
+2 	 0 	 NP[nb]/N 	 1 	 administration The
+2 	 1 	 N/N 	 1 	 administration Bush
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 administration is
+2 	 4 	 (S[ng]\NP)/NP 	 1 	 administration seeking <XB>
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 seeking is
+6 	 4 	 (S[ng]\NP)/NP 	 2 	 understanding seeking
+6 	 5 	 NP[nb]/N 	 1 	 understanding an
+6 	 7 	 (NP\NP)/NP 	 1 	 understanding with
+8 	 7 	 (NP\NP)/NP 	 2 	 Congress with
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 ease to
+11 	 10 	 (S[b]\NP)/NP 	 2 	 restrictions ease
+11 	 12 	 (NP\NP)/NP 	 1 	 restrictions on
+14 	 12 	 (NP\NP)/NP 	 2 	 involvement on
+14 	 13 	 N/N 	 1 	 involvement U.S.
+14 	 15 	 (NP\NP)/NP 	 1 	 involvement in
+17 	 15 	 (NP\NP)/NP 	 2 	 coups in
+17 	 16 	 N/N 	 1 	 coups foreign
+17 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 coups that
+17 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 coups might <XB>
+17 	 20 	 (S[b]\NP)/PP 	 1 	 coups result <XB>
+19 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 might that
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 result might
+21 	 20 	 (S[b]\NP)/PP 	 2 	 in result
+23 	 21 	 PP/NP 	 1 	 death in
+23 	 22 	 NP[nb]/N 	 1 	 death the
+23 	 24 	 (NP\NP)/NP 	 1 	 death of
+26 	 25 	 NP[nb]/N 	 1 	 country a
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 country 's
+28 	 24 	 (NP\NP)/NP 	 2 	 leader of
+28 	 27 	 (NP[nb]/N)\NP 	 1 	 leader 's
+<\s>
+<s id="wsj_2102.24"> 26
+3 	 0 	 NP[nb]/N 	 1 	 spokesman A
+3 	 1 	 N/N 	 1 	 spokesman White
+3 	 2 	 N/N 	 1 	 spokesman House
+3 	 4 	 (S[dcl]\NP)/S[em] 	 1 	 spokesman said
+5 	 4 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Bush would
+7 	 10 	 (S[b]\NP)/NP 	 1 	 Bush alter <XB>
+8 	 6 	 (S/S)/S[dcl] 	 2 	 would while
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 would n't
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 alter would
+13 	 10 	 (S[b]\NP)/NP 	 2 	 ban alter
+13 	 11 	 NP[nb]/N 	 1 	 ban a
+13 	 12 	 N/N 	 1 	 ban longstanding
+13 	 14 	 (NP\NP)/NP 	 1 	 ban on
+16 	 14 	 (NP\NP)/NP 	 2 	 involvement on
+16 	 15 	 NP/NP 	 1 	 involvement such
+18 	 19 	 (S[dcl]\NP[thr])/NP 	 1 	 there 's
+19 	 5 	 S[em]/S[dcl] 	 1 	 's that
+19 	 6 	 (S/S)/S[dcl] 	 1 	 's while
+21 	 19 	 (S[dcl]\NP[thr])/NP 	 2 	 clarification 's
+21 	 20 	 NP[nb]/N 	 1 	 clarification a
+21 	 22 	 S[pss]\NP 	 1 	 clarification needed <XB>
+21 	 23 	 (NP\NP)/NP 	 1 	 clarification on
+25 	 23 	 (NP\NP)/NP 	 2 	 interpretation on
+25 	 24 	 NP[nb]/N 	 1 	 interpretation its
+<\s>
+<s id="wsj_2102.25"> 9
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 India 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 Gandhi 's
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 Gandhi called
+3 	 8 	 (S\NP)\(S\NP) 	 2 	 called month
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 for called
+6 	 4 	 PP/NP 	 1 	 elections for
+6 	 5 	 N/N 	 1 	 elections parliamentary
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month next
+<\s>
+<s id="wsj_2102.26"> 28
+1 	 0 	 NP[nb]/N 	 1 	 balloting The
+1 	 3 	 (S[pss]\NP)/NP 	 1 	 balloting considered <XB>
+1 	 19 	 S[dcl]\NP 	 1 	 balloting comes
+5 	 3 	 (S[pss]\NP)/NP 	 2 	 test considered
+5 	 4 	 NP[nb]/N 	 1 	 test a
+5 	 6 	 (NP\NP)/NP 	 1 	 test for
+9 	 6 	 (NP\NP)/NP 	 2 	 minister for
+9 	 7 	 NP[nb]/N 	 1 	 minister the
+9 	 8 	 N/N 	 1 	 minister prime
+15 	 14 	 (N/N)/N 	 2 	 I -LRB-
+17 	 6 	 (NP\NP)/NP 	 2 	 Party for
+17 	 11 	 NP[nb]/N 	 1 	 Party the
+17 	 12 	 N/N 	 1 	 Party ruling
+17 	 13 	 N/N 	 1 	 Party Congress
+17 	 14 	 (N/N)/N 	 1 	 Party -LRB-
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 comes amid
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 charges amid
+21 	 22 	 (NP\NP)/NP 	 1 	 charges of
+24 	 22 	 (NP\NP)/NP 	 2 	 leadership of
+24 	 23 	 N/N 	 1 	 leadership inept
+27 	 22 	 (NP\NP)/NP 	 2 	 corruption of
+27 	 26 	 N/N 	 1 	 corruption government
+<\s>
+<s id="wsj_2102.27"> 16
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Gandhi 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 family 's
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 family has
+2 	 4 	 (S[pt]\NP)/NP 	 1 	 family ruled <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 ruled has
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 ruled for
+6 	 4 	 (S[pt]\NP)/NP 	 2 	 India ruled
+6 	 5 	 N/N 	 1 	 India independent
+11 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+11 	 8 	 NP[nb]/N 	 1 	 years all <XU>
+11 	 10 	 NP[nb]/N 	 1 	 years five
+11 	 12 	 (NP\NP)/NP 	 1 	 years of
+15 	 12 	 (NP\NP)/NP 	 2 	 history of
+15 	 13 	 NP[nb]/N 	 1 	 history its
+15 	 14 	 N/N 	 1 	 history 42-year
+<\s>
+<s id="wsj_2102.28"> 15
+2 	 0 	 NP[nb]/N 	 1 	 Union The
+2 	 1 	 N/N 	 1 	 Union Soviet
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 Union abstained
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 from abstained
+9 	 4 	 PP/NP 	 1 	 vote from
+9 	 5 	 NP[nb]/N 	 1 	 vote a
+9 	 6 	 N/N 	 1 	 vote U.N.
+9 	 7 	 N/N 	 1 	 vote General
+9 	 8 	 N/N 	 1 	 vote Assembly
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reject to
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Israel 's
+14 	 11 	 (S[b]\NP)/NP 	 2 	 credentials reject
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 credentials 's
+<\s>
+<s id="wsj_2102.29"> 38
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It was
+0 	 29 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 It was <XU>
+0 	 30 	 (S[pss]\NP)/PP 	 1 	 It viewed <XU>
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 time was
+4 	 2 	 NP[nb]/N 	 1 	 time the
+4 	 3 	 N/N 	 1 	 time first
+4 	 5 	 (NP\NP)/NP 	 1 	 time in
+4 	 8 	 (NP\NP)/S[dcl] 	 1 	 time that
+7 	 5 	 (NP\NP)/NP 	 2 	 years in
+7 	 6 	 N/N 	 1 	 years seven
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Moscow has
+9 	 12 	 (S[pt]\NP)/NP 	 1 	 Moscow joined <XB>
+10 	 8 	 (NP\NP)/S[dcl] 	 2 	 has that
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 has n't
+12 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 joined has
+13 	 12 	 (S[pt]\NP)/NP 	 2 	 efforts joined
+13 	 15 	 S[pss]\NP 	 1 	 efforts led <XB>
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 led by
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 nations by
+18 	 17 	 N/N 	 1 	 nations Moslem
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 expel to
+22 	 21 	 ((S[b]\NP)/PP)/NP 	 3 	 Israel expel
+23 	 21 	 ((S[b]\NP)/PP)/NP 	 2 	 from expel
+26 	 23 	 PP/NP 	 1 	 body from
+26 	 24 	 NP[nb]/N 	 1 	 body the
+26 	 25 	 N/N 	 1 	 body world
+30 	 29 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 viewed was
+31 	 30 	 (S[pss]\NP)/PP 	 2 	 as viewed
+33 	 31 	 PP/NP 	 1 	 sign as
+33 	 32 	 NP[nb]/N 	 1 	 sign a
+33 	 34 	 (NP\NP)/NP 	 1 	 sign of
+37 	 34 	 (NP\NP)/NP 	 2 	 ties of
+37 	 35 	 N/N 	 1 	 ties improving
+37 	 36 	 N/N 	 1 	 ties Soviet-Israeli
+<\s>
+<s id="wsj_2102.30"> 12
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Israel was
+0 	 2 	 S[pss]\NP 	 1 	 Israel seated <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 seated was
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 seated by
+2 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 seated with
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 vote by
+5 	 4 	 NP[nb]/N 	 1 	 vote a
+5 	 6 	 (NP\NP)/NP 	 1 	 vote of
+7 	 6 	 (NP\NP)/NP 	 2 	 95-37 of
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 abstentions with
+11 	 10 	 N/N 	 1 	 abstentions 15
+<\s>
+<s id="wsj_2102.31"> 31
+3 	 0 	 N/N 	 1 	 Sisulu Black
+3 	 1 	 N/N 	 1 	 Sisulu activist
+3 	 2 	 N/N 	 1 	 Sisulu Walter
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Sisulu said
+8 	 5 	 NP[nb]/N 	 1 	 Congress the
+8 	 6 	 N/N 	 1 	 Congress African
+8 	 7 	 N/N 	 1 	 Congress National
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Congress would
+8 	 11 	 ((S[b]\NP)/PP)/NP 	 1 	 Congress reject <XB>
+9 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 would n't
+11 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reject would
+12 	 11 	 ((S[b]\NP)/PP)/NP 	 3 	 violence reject
+13 	 11 	 ((S[b]\NP)/PP)/NP 	 2 	 as reject
+15 	 13 	 PP/NP 	 1 	 way as
+15 	 14 	 NP[nb]/N 	 1 	 way a
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pressure to
+20 	 19 	 (N/N)/(N/N) 	 2 	 African South
+21 	 17 	 ((S[b]\NP)/PP)/NP 	 3 	 government pressure
+21 	 18 	 NP[nb]/N 	 1 	 government the
+21 	 20 	 N/N 	 1 	 government African
+22 	 17 	 ((S[b]\NP)/PP)/NP 	 2 	 into pressure
+23 	 22 	 PP/NP 	 1 	 concessions into
+23 	 24 	 (NP\NP)/(S[dcl]\NP) 	 1 	 concessions that
+23 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 concessions might <XB>
+23 	 26 	 (S[b]\NP)/PP 	 1 	 concessions lead <XB>
+25 	 24 	 (NP\NP)/(S[dcl]\NP) 	 2 	 might that
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 lead might
+27 	 26 	 (S[b]\NP)/PP 	 2 	 to lead
+28 	 27 	 PP/NP 	 1 	 negotiations to
+28 	 29 	 (NP\NP)/NP 	 1 	 negotiations over
+30 	 29 	 (NP\NP)/NP 	 2 	 apartheid over
+<\s>
+<s id="wsj_2102.32"> 13
+2 	 0 	 NP[nb]/N 	 1 	 Sisulu The
+2 	 1 	 N/N 	 1 	 Sisulu 77-year-old
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 Sisulu was
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 among was
+8 	 4 	 PP/NP 	 1 	 activists among
+8 	 5 	 N/N 	 1 	 activists eight
+8 	 6 	 N/N 	 1 	 activists black
+8 	 7 	 N/N 	 1 	 activists political
+8 	 9 	 (S[pss]\NP)/PP 	 1 	 activists freed <XB>
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 freed Sunday
+11 	 9 	 (S[pss]\NP)/PP 	 2 	 from freed
+12 	 11 	 PP/NP 	 1 	 prison from
+<\s>
+<s id="wsj_2102.33"> 30
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 London has
+0 	 2 	 (S[pt]\NP)/S[em] 	 1 	 London concluded <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 concluded has
+3 	 2 	 (S[pt]\NP)/S[em] 	 2 	 that concluded
+6 	 4 	 N/N 	 1 	 Waldheim Austrian
+6 	 5 	 N/N 	 1 	 Waldheim President
+6 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Waldheim was
+6 	 9 	 (S[adj]\NP)/PP 	 1 	 Waldheim responsible <XB>
+7 	 3 	 S[em]/S[dcl] 	 1 	 was that
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 was n't
+7 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 was although
+9 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 responsible was
+10 	 9 	 (S[adj]\NP)/PP 	 2 	 for responsible
+12 	 10 	 PP/NP 	 1 	 execution for
+12 	 11 	 NP[nb]/N 	 1 	 execution the
+12 	 13 	 (NP\NP)/NP 	 1 	 execution of
+12 	 17 	 (NP\NP)/NP 	 1 	 execution in
+16 	 13 	 (NP\NP)/NP 	 2 	 commandos of
+16 	 14 	 N/N 	 1 	 commandos six
+16 	 15 	 N/N 	 1 	 commandos British
+20 	 17 	 (NP\NP)/NP 	 2 	 II in
+20 	 18 	 N/N 	 1 	 II World
+20 	 19 	 N/N 	 1 	 II War
+23 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 he was
+23 	 26 	 (S[adj]\NP)/PP 	 1 	 he aware <XB>
+25 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was although
+25 	 24 	 (S\NP)/(S\NP) 	 2 	 was probably
+26 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 aware was
+27 	 26 	 (S[adj]\NP)/PP 	 2 	 of aware
+29 	 27 	 PP/NP 	 1 	 slayings of
+29 	 28 	 NP[nb]/N 	 1 	 slayings the
+<\s>
+<s id="wsj_2102.34"> 23
+1 	 0 	 NP[nb]/N 	 1 	 report The
+1 	 2 	 (NP\NP)/NP 	 1 	 report by
+1 	 7 	 (S[dcl]\NP)/NP 	 1 	 report rejected
+5 	 2 	 (NP\NP)/NP 	 2 	 Ministry by
+5 	 3 	 NP[nb]/N 	 1 	 Ministry the
+5 	 4 	 N/N 	 1 	 Ministry Defense
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 rejected also
+8 	 7 	 (S[dcl]\NP)/NP 	 2 	 allegations rejected
+9 	 8 	 N/S[em] 	 1 	 that allegations
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 Britain covered
+11 	 9 	 S[em]/S[dcl] 	 1 	 covered that
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 covered up
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 evidence covered
+13 	 14 	 (NP\NP)/NP 	 1 	 evidence of
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Waldheim 's
+17 	 14 	 (NP\NP)/NP 	 2 	 activities of
+17 	 16 	 (NP[nb]/N)\NP 	 1 	 activities 's
+17 	 18 	 (NP\NP)/NP 	 1 	 activities as
+22 	 18 	 (NP\NP)/NP 	 2 	 officer as
+22 	 19 	 NP[nb]/N 	 1 	 officer a
+22 	 20 	 N/N 	 1 	 officer German
+22 	 21 	 N/N 	 1 	 officer army
+<\s>
+<s id="wsj_2102.35"> 27
+2 	 0 	 NP[nb]/N 	 1 	 group An
+2 	 1 	 N/N 	 1 	 group international
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 group approved
+3 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 approved despite
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 ban approved
+6 	 4 	 NP[nb]/N 	 1 	 ban a
+6 	 5 	 N/N 	 1 	 ban formal
+6 	 7 	 (NP\NP)/NP 	 1 	 ban on
+9 	 7 	 (NP\NP)/NP 	 2 	 trade on
+9 	 8 	 N/N 	 1 	 trade ivory
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 objections despite
+11 	 12 	 (NP\NP)/NP 	 1 	 objections from
+14 	 13 	 (N/N)/(N/N) 	 2 	 African southern
+15 	 12 	 (NP\NP)/NP 	 2 	 governments from
+15 	 14 	 N/N 	 1 	 governments African
+15 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 governments which
+15 	 18 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 governments threatened <XB>
+15 	 20 	 (S[b]\NP)/NP 	 1 	 governments find <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 threatened which
+19 	 18 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to threatened
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 find to
+22 	 20 	 (S[b]\NP)/NP 	 2 	 channels find
+22 	 21 	 N/N 	 1 	 channels alternative
+22 	 23 	 (NP\NP)/(S[ng]\NP) 	 1 	 channels for
+24 	 23 	 (NP\NP)/(S[ng]\NP) 	 2 	 selling for
+26 	 24 	 (S[ng]\NP)/NP 	 2 	 tusks selling
+26 	 25 	 N/N 	 1 	 tusks elephant
+<\s>
+<s id="wsj_2102.36"> 22
+1 	 0 	 NP[nb]/N 	 1 	 move The
+1 	 2 	 (NP\NP)/NP 	 1 	 move by
+1 	 15 	 (S[dcl]\NP)/NP 	 1 	 move places
+4 	 2 	 (NP\NP)/NP 	 2 	 Convention by
+4 	 3 	 NP[nb]/N 	 1 	 Convention the
+4 	 5 	 (NP\NP)/NP 	 1 	 Convention on
+4 	 11 	 S[ng]\NP 	 1 	 Convention meeting <XB>
+6 	 5 	 (NP\NP)/NP 	 2 	 Trade on
+6 	 7 	 (NP\NP)/NP 	 1 	 Trade in
+9 	 7 	 (NP\NP)/NP 	 2 	 Species in
+9 	 8 	 N/N 	 1 	 Species Endangered
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 meeting in
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 Switzerland in
+15 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 places on
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 elephant places
+17 	 16 	 NP[nb]/N 	 1 	 elephant the
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 list on
+21 	 19 	 NP[nb]/N 	 1 	 list the
+21 	 20 	 N/N 	 1 	 list endangered-species
+<\s>
+<s id="wsj_2102.37"> 12
+1 	 0 	 NP[nb]/N 	 1 	 assassin An
+1 	 2 	 (NP\NP)/NP 	 1 	 assassin in
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 assassin killed
+3 	 2 	 (NP\NP)/NP 	 2 	 Colombia in
+4 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 killed on
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 judge killed
+7 	 5 	 NP[nb]/N 	 1 	 judge a
+7 	 6 	 N/N 	 1 	 judge federal
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 street on
+11 	 9 	 NP[nb]/N 	 1 	 street a
+11 	 10 	 N/N 	 1 	 street Medellin
+<\s>
+<s id="wsj_2102.38"> 29
+2 	 0 	 NP[nb]/N 	 1 	 caller An
+2 	 1 	 N/N 	 1 	 caller anonymous
+2 	 3 	 (NP\NP)/NP 	 1 	 caller to
+2 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 caller said
+7 	 3 	 (NP\NP)/NP 	 2 	 station to
+7 	 4 	 NP[nb]/N 	 1 	 station a
+7 	 5 	 N/N 	 1 	 station local
+7 	 6 	 N/N 	 1 	 station radio
+10 	 9 	 N/N 	 1 	 traffickers cocaine
+10 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 traffickers had
+10 	 12 	 (S[pt]\NP)/NP 	 1 	 traffickers slain <XB>
+11 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+12 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 slain had
+12 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 slain in
+14 	 12 	 (S[pt]\NP)/NP 	 2 	 magistrate slain
+14 	 13 	 NP[nb]/N 	 1 	 magistrate the
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 retaliation in
+16 	 17 	 (NP\NP)/NP 	 1 	 retaliation for
+19 	 17 	 (NP\NP)/NP 	 2 	 extraditions for
+19 	 18 	 NP[nb]/N 	 1 	 extraditions the
+19 	 20 	 (NP\NP)/NP 	 1 	 extraditions of
+21 	 20 	 (NP\NP)/NP 	 2 	 Colombians of
+21 	 22 	 (S[pss]\NP)/PP 	 1 	 Colombians wanted <XB>
+22 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 wanted in
+23 	 22 	 (S[pss]\NP)/PP 	 2 	 on wanted
+25 	 23 	 PP/NP 	 1 	 charges on
+25 	 24 	 N/N 	 1 	 charges drug
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. in
+28 	 27 	 NP[nb]/N 	 1 	 U.S. the
+<\s>
+<s id="wsj_2102.39"> 25
+2 	 0 	 N/N 	 1 	 Gadhafi Libyan
+2 	 1 	 N/N 	 1 	 Gadhafi leader
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 Gadhafi met
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 with met
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Egypt 's
+8 	 4 	 PP/NP 	 1 	 Mubarak with
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 Mubarak 's
+8 	 7 	 N/N 	 1 	 Mubarak President
+13 	 11 	 NP[nb]/N 	 1 	 officials the
+13 	 12 	 N/N 	 1 	 officials two
+13 	 14 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 officials pledged
+13 	 16 	 (S[b]\NP)/NP 	 1 	 officials respect <XB>
+15 	 14 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to pledged
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 respect to
+18 	 17 	 NP[nb]/N 	 1 	 other each
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 other 's
+20 	 16 	 (S[b]\NP)/NP 	 2 	 laws respect
+20 	 19 	 (NP[nb]/N)\NP 	 1 	 laws 's
+22 	 16 	 (S[b]\NP)/NP 	 2 	 security respect
+22 	 19 	 (NP[nb]/N)\NP 	 1 	 security 's
+24 	 16 	 (S[b]\NP)/NP 	 2 	 stability respect
+24 	 19 	 (NP[nb]/N)\NP 	 1 	 stability 's
+<\s>
+<s id="wsj_2102.40"> 11
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 They stopped
+0 	 2 	 (S[adj]\NP)/PP 	 1 	 They short <XB>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 short stopped
+3 	 2 	 (S[adj]\NP)/PP 	 2 	 of short
+4 	 3 	 PP/(S[ng]\NP) 	 1 	 resuming of
+6 	 4 	 (S[ng]\NP)/NP 	 2 	 ties resuming
+6 	 5 	 N/N 	 1 	 ties diplomatic
+6 	 8 	 S[pss]\NP 	 1 	 ties severed <XB>
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 severed in
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 1979 in
+<\s>
+<s id="wsj_2102.41"> 21
+2 	 0 	 NP[nb]/N 	 1 	 talks The
+2 	 1 	 N/N 	 1 	 talks reconciliation
+2 	 3 	 (NP\NP)/NP 	 1 	 talks in
+2 	 10 	 (S[dcl]\NP)/NP 	 1 	 talks followed
+7 	 3 	 (NP\NP)/NP 	 2 	 town in
+7 	 4 	 NP[nb]/N 	 1 	 town the
+7 	 5 	 N/N 	 1 	 town Libyan
+7 	 6 	 N/N 	 1 	 town desert
+7 	 8 	 (NP\NP)/NP 	 1 	 town of
+9 	 8 	 (NP\NP)/NP 	 2 	 Tobruk of
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 meeting followed
+12 	 11 	 NP[nb]/N 	 1 	 meeting a
+12 	 13 	 NP\NP 	 1 	 meeting Monday
+12 	 14 	 (NP\NP)/NP 	 1 	 meeting in
+17 	 14 	 (NP\NP)/NP 	 2 	 resort in
+17 	 15 	 NP[nb]/N 	 1 	 resort the
+17 	 16 	 N/N 	 1 	 resort Egyptian
+17 	 18 	 (NP\NP)/NP 	 1 	 resort of
+20 	 18 	 (NP\NP)/NP 	 2 	 Metruh of
+20 	 19 	 N/N 	 1 	 Metruh Mersa
+<\s>

@@ -1,0 +1,1456 @@
+<s id="wsj_0609.1"> 22
+1 	 0 	 N/N 	 1 	 Bush President
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Bush insists
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+3 	 5 	 (S[b]\NP)/NP 	 1 	 it be <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 would insists
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+8 	 5 	 (S[b]\NP)/NP 	 2 	 tool be
+8 	 6 	 NP[nb]/N 	 1 	 tool a
+8 	 7 	 N/N 	 1 	 tool great
+8 	 9 	 (NP\NP)/(S[ng]\NP) 	 1 	 tool for
+10 	 9 	 (NP\NP)/(S[ng]\NP) 	 2 	 curbing for
+13 	 10 	 (S[ng]\NP)/NP 	 2 	 deficit curbing
+13 	 11 	 NP[nb]/N 	 1 	 deficit the
+13 	 12 	 N/N 	 1 	 deficit budget
+15 	 9 	 (NP\NP)/(S[ng]\NP) 	 2 	 slicing for
+17 	 15 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 3 	 lard slicing
+17 	 16 	 NP[nb]/N 	 1 	 lard the
+17 	 18 	 (S[adj]\NP)/PP 	 1 	 lard out <XB>
+18 	 15 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 2 	 out slicing
+19 	 18 	 (S[adj]\NP)/PP 	 2 	 of out
+21 	 19 	 PP/NP 	 1 	 programs of
+21 	 20 	 N/N 	 1 	 programs government
+<\s>
+<s id="wsj_0609.2"> 4
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 He wants
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 wants now
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 it wants
+<\s>
+<s id="wsj_0609.3"> 14
+2 	 0 	 (S/S)/(S/S) 	 2 	 fast Not
+2 	 1 	 (S/S)/(S/S) 	 2 	 fast so
+4 	 2 	 S/S 	 1 	 says fast
+7 	 4 	 S[dcl]/NP 	 1 	 Edwards says
+7 	 5 	 N/N 	 1 	 Edwards Rep.
+7 	 6 	 N/N 	 1 	 Edwards Mickey
+7 	 8 	 (NP\NP)/NP 	 1 	 Edwards of
+9 	 8 	 (NP\NP)/NP 	 2 	 Oklahoma of
+13 	 4 	 S[dcl]/NP 	 1 	 Republican says
+13 	 11 	 NP[nb]/N 	 1 	 Republican a
+13 	 12 	 N/N 	 1 	 Republican fellow
+<\s>
+<s id="wsj_0609.4"> 15
+0 	 1 	 ((S[dcl]\NP)/NP)/NP 	 1 	 I consider
+1 	 14 	 (S[dcl]\S[dcl])\NP 	 1 	 consider says
+2 	 1 	 ((S[dcl]\NP)/NP)/NP 	 3 	 it consider
+3 	 1 	 ((S[dcl]\NP)/NP)/NP 	 2 	 one consider
+3 	 4 	 (NP\NP)/NP 	 1 	 one of
+7 	 4 	 (NP\NP)/NP 	 2 	 ideas of
+7 	 5 	 NP[nb]/N 	 1 	 ideas the
+7 	 6 	 N/N 	 1 	 ideas stupidest
+7 	 8 	 (NP\NP)/NP 	 1 	 ideas of
+11 	 8 	 (NP\NP)/NP 	 2 	 century of
+11 	 9 	 NP[nb]/N 	 1 	 century the
+11 	 10 	 N/N 	 1 	 century 20th
+13 	 14 	 (S[dcl]\S[dcl])\NP 	 2 	 he says
+<\s>
+<s id="wsj_0609.5"> 30
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 veto 's
+4 	 2 	 NP[nb]/N 	 1 	 veto the
+4 	 3 	 N/N 	 1 	 veto line-item
+7 	 1 	 (S[dcl]\NP)/NP 	 2 	 procedure 's
+7 	 6 	 NP[nb]/N 	 1 	 procedure a
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 procedure that
+7 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 procedure would <XB>
+7 	 10 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 procedure allow <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 allow would
+12 	 10 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 president allow
+12 	 11 	 NP[nb]/N 	 1 	 president the
+12 	 14 	 (S[b]\NP)/NP 	 1 	 president kill <XB>
+12 	 26 	 (S[ng]\NP)/NP 	 1 	 president vetoing <XB>
+13 	 10 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 kill to
+14 	 25 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 kill without
+16 	 14 	 (S[b]\NP)/NP 	 2 	 items kill
+16 	 15 	 N/N 	 1 	 items individual
+16 	 17 	 (NP\NP)/NP 	 1 	 items in
+21 	 17 	 (NP\NP)/NP 	 2 	 bill in
+21 	 18 	 NP[nb]/N 	 1 	 bill a
+21 	 19 	 N/N 	 1 	 bill big
+21 	 20 	 N/N 	 1 	 bill spending
+21 	 22 	 S[pss]\NP 	 1 	 bill passed <XB>
+22 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 passed by
+24 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 Congress by
+26 	 25 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 vetoing without
+29 	 26 	 (S[ng]\NP)/NP 	 2 	 bill vetoing
+29 	 27 	 NP[nb]/N 	 1 	 bill the
+29 	 28 	 N/N 	 1 	 bill entire
+<\s>
+<s id="wsj_0609.6"> 21
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 one thinks
+2 	 0 	 (S/S)/(S[dcl]/NP) 	 2 	 thinks Whatever
+3 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 of thinks
+5 	 3 	 PP/NP 	 1 	 idea of
+5 	 4 	 NP[nb]/N 	 1 	 idea the
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 it 's
+8 	 0 	 (S/S)/(S[dcl]/NP) 	 1 	 's Whatever
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 more 's
+10 	 9 	 N/N 	 1 	 more far
+10 	 11 	 (NP\NP)/NP 	 1 	 more than
+14 	 11 	 (NP\NP)/NP 	 2 	 gimmick than
+14 	 12 	 NP[nb]/N 	 1 	 gimmick the
+14 	 13 	 N/N 	 1 	 gimmick budgetary
+14 	 17 	 (S[b]\NP)/NP 	 2 	 gimmick seem <XU>
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it may
+15 	 17 	 (S[b]\NP)/NP 	 1 	 it seem <XB>
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seem may
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 seem at
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 glance at
+20 	 19 	 N/N 	 1 	 glance first
+<\s>
+<s id="wsj_0609.7"> 41
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 it 's
+3 	 0 	 S/S 	 1 	 's Rather
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 device 's
+5 	 4 	 NP[nb]/N 	 1 	 device a
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 device that
+5 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 device could <XB>
+5 	 8 	 ((S[b]\NP)/PP)/NP 	 1 	 device send <XB>
+5 	 26 	 (S[b]\NP)/NP 	 1 	 device enhance <XU>
+5 	 33 	 (S[b]\NP)/NP 	 1 	 device transform <XU>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 could that
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 send could
+10 	 8 	 ((S[b]\NP)/PP)/NP 	 3 	 waves send
+10 	 9 	 N/N 	 1 	 waves shock
+11 	 8 	 ((S[b]\NP)/PP)/NP 	 2 	 through send
+13 	 12 	 NP[nb]/N 	 1 	 president the
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 president 's
+16 	 11 	 PP/NP 	 1 	 relationship through
+16 	 14 	 (NP[nb]/N)\NP 	 1 	 relationship 's
+16 	 15 	 N/N 	 1 	 relationship entire
+16 	 17 	 (NP\NP)/NP 	 1 	 relationship with
+18 	 17 	 (NP\NP)/NP 	 2 	 Democrats with
+18 	 21 	 NP\NP 	 1 	 Democrats alike
+18 	 22 	 (NP\NP)/NP 	 1 	 Democrats in
+20 	 17 	 (NP\NP)/NP 	 2 	 Republicans with
+20 	 21 	 NP\NP 	 1 	 Republicans alike
+20 	 22 	 (NP\NP)/NP 	 1 	 Republicans in
+23 	 22 	 (NP\NP)/NP 	 2 	 Congress in
+26 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 enhance could
+26 	 25 	 (S\NP)/(S\NP) 	 2 	 enhance fundamentally
+28 	 26 	 (S[b]\NP)/NP 	 2 	 power enhance
+28 	 27 	 NP[nb]/N 	 1 	 power the
+28 	 29 	 (NP\NP)/NP 	 1 	 power of
+31 	 29 	 (NP\NP)/NP 	 2 	 presidency of
+31 	 30 	 NP[nb]/N 	 1 	 presidency the
+33 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 transform could
+35 	 33 	 (S[b]\NP)/NP 	 2 	 way transform
+35 	 34 	 NP[nb]/N 	 1 	 way the
+37 	 36 	 NP[nb]/N 	 1 	 government the
+37 	 38 	 (S[dcl]\NP)/NP 	 1 	 government does
+40 	 38 	 (S[dcl]\NP)/NP 	 2 	 business does
+40 	 39 	 NP[nb]/N 	 1 	 business its
+<\s>
+<s id="wsj_0609.8"> 19
+1 	 0 	 N/N 	 1 	 Bush President
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 Bush wants
+1 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Bush has <XU>
+1 	 10 	 (S[pt]\NP)/PP 	 1 	 Bush called <XU>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 wants badly
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 veto wants
+6 	 4 	 NP[nb]/N 	 1 	 veto a
+6 	 5 	 N/N 	 1 	 veto line-item
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 has long
+10 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 called has
+11 	 10 	 (S[pt]\NP)/PP 	 2 	 for called
+13 	 11 	 PP/NP 	 1 	 law for
+13 	 12 	 NP[nb]/N 	 1 	 law a
+13 	 14 	 ((S[ng]\NP)/PP)/NP 	 1 	 law giving <XB>
+15 	 14 	 ((S[ng]\NP)/PP)/NP 	 3 	 it giving
+16 	 14 	 ((S[ng]\NP)/PP)/NP 	 2 	 to giving
+18 	 16 	 PP/NP 	 1 	 president to
+18 	 17 	 NP[nb]/N 	 1 	 president the
+<\s>
+<s id="wsj_0609.9"> 33
+3 	 1 	 NP[nb]/N 	 1 	 House the
+3 	 2 	 N/N 	 1 	 House White
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 House is
+3 	 5 	 (S[ng]\NP)/S[em] 	 1 	 House declaring <XB>
+4 	 0 	 S/S 	 1 	 is Now
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 declaring is
+6 	 5 	 (S[ng]\NP)/S[em] 	 2 	 that declaring
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he might
+7 	 10 	 ((S[b]\NP)/(S[to]\NP))/PP 	 1 	 he rely <XB>
+7 	 26 	 (S[b]\NP)/NP 	 1 	 he pass <XB>
+8 	 6 	 S[em]/S[dcl] 	 1 	 might that
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 might not
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 rely might
+11 	 10 	 ((S[b]\NP)/(S[to]\NP))/PP 	 3 	 on rely
+12 	 11 	 PP/NP 	 1 	 Congress on
+12 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Congress which
+12 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Congress has <XB>
+12 	 17 	 (S[pt]\NP)/NP 	 1 	 Congress shown <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 has n't
+17 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 shown has
+19 	 17 	 (S[pt]\NP)/NP 	 2 	 willingness shown
+19 	 18 	 NP[nb]/N 	 1 	 willingness any
+19 	 21 	 (S[b]\NP)/NP 	 1 	 willingness surrender <XB>
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 surrender to
+23 	 21 	 (S[b]\NP)/NP 	 2 	 authority surrender
+23 	 22 	 NP/NP 	 1 	 authority such
+25 	 10 	 ((S[b]\NP)/(S[to]\NP))/PP 	 2 	 to rely
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pass to
+30 	 26 	 (S[b]\NP)/NP 	 2 	 law pass
+30 	 27 	 NP[nb]/N 	 1 	 law the
+30 	 28 	 N/N 	 1 	 law line-item
+30 	 29 	 N/N 	 1 	 law veto
+30 	 32 	 (S[dcl]\NP)/NP 	 2 	 law seeks <XU>
+31 	 32 	 (S[dcl]\NP)/NP 	 1 	 he seeks
+<\s>
+<s id="wsj_0609.10"> 36
+2 	 0 	 N/N 	 1 	 spokesmen White
+2 	 1 	 N/N 	 1 	 spokesmen House
+2 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesmen said
+4 	 3 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 week last
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 said week
+7 	 6 	 N/N 	 1 	 Bush Mr.
+7 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Bush is
+7 	 9 	 (S[ng]\NP)/(S[ng]\NP) 	 1 	 Bush considering <XB>
+7 	 11 	 (S[ng]\NP)/S[em] 	 1 	 Bush declaring <XB>
+7 	 20 	 (S[ng]\NP)/NP 	 1 	 Bush exercising <XU>
+7 	 25 	 (S[ng]\NP)/NP 	 1 	 Bush inviting <XU>
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 considering is
+11 	 9 	 (S[ng]\NP)/(S[ng]\NP) 	 2 	 declaring considering
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 declaring simply
+12 	 11 	 (S[ng]\NP)/S[em] 	 2 	 that declaring
+14 	 13 	 NP[nb]/N 	 1 	 Constitution the
+14 	 15 	 ((S[dcl]\NP)/NP)/NP 	 1 	 Constitution gives
+15 	 12 	 S[em]/S[dcl] 	 1 	 gives that
+16 	 15 	 ((S[dcl]\NP)/NP)/NP 	 3 	 him gives
+18 	 15 	 ((S[dcl]\NP)/NP)/NP 	 2 	 power gives
+18 	 17 	 NP[nb]/N 	 1 	 power the
+20 	 9 	 (S[ng]\NP)/(S[ng]\NP) 	 2 	 exercising considering
+23 	 20 	 (S[ng]\NP)/NP 	 2 	 veto exercising
+23 	 21 	 NP[nb]/N 	 1 	 veto a
+23 	 22 	 N/N 	 1 	 veto line-item
+25 	 9 	 (S[ng]\NP)/(S[ng]\NP) 	 2 	 inviting considering
+28 	 25 	 (S[ng]\NP)/NP 	 2 	 challenge inviting
+28 	 26 	 NP[nb]/N 	 1 	 challenge a
+28 	 27 	 N/N 	 1 	 challenge court
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 decide to
+31 	 30 	 (S[b]\NP)/S[qem] 	 2 	 whether decide
+32 	 33 	 (S[dcl]\NP)/NP 	 1 	 he has
+33 	 31 	 S[qem]/S[dcl] 	 1 	 has whether
+35 	 33 	 (S[dcl]\NP)/NP 	 2 	 right has
+35 	 34 	 NP[nb]/N 	 1 	 right the
+<\s>
+<s id="wsj_0609.11"> 21
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 that may
+1 	 3 	 (S[b]\NP)/PP 	 1 	 that sound <XB>
+2 	 0 	 (S/S)/S[dcl] 	 2 	 may Although
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 sound may
+4 	 3 	 (S[b]\NP)/PP 	 2 	 like sound
+7 	 4 	 PP/NP 	 1 	 maneuver like
+7 	 5 	 NP[nb]/N 	 1 	 maneuver an
+7 	 6 	 N/N 	 1 	 maneuver arcane
+7 	 8 	 (NP\NP)/NP 	 1 	 maneuver of
+7 	 11 	 (NP\NP)/NP 	 1 	 maneuver outside
+10 	 8 	 (NP\NP)/NP 	 2 	 interest of
+10 	 9 	 N/N 	 1 	 interest little
+12 	 11 	 (NP\NP)/NP 	 2 	 Washington outside
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+14 	 16 	 (S[b]\NP)/NP 	 1 	 it set <XB>
+15 	 0 	 (S/S)/S[dcl] 	 1 	 would Although
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 set would
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 set off
+20 	 16 	 (S[b]\NP)/NP 	 2 	 earthquake set
+20 	 18 	 NP[nb]/N 	 1 	 earthquake a
+20 	 19 	 N/N 	 1 	 earthquake political
+<\s>
+<s id="wsj_0609.12"> 23
+1 	 0 	 NP[nb]/N 	 1 	 ramifications The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 ramifications are
+1 	 3 	 S[adj]\NP 	 1 	 ramifications enormous <XB>
+2 	 5 	 (S[dcl]\S[dcl])/NP 	 1 	 are says
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 enormous are
+8 	 5 	 (S[dcl]\S[dcl])/NP 	 2 	 Edwards says
+8 	 6 	 N/N 	 1 	 Edwards Rep.
+8 	 7 	 N/N 	 1 	 Edwards Don
+12 	 5 	 (S[dcl]\S[dcl])/NP 	 2 	 Democrat says
+12 	 10 	 NP[nb]/N 	 1 	 Democrat a
+12 	 11 	 N/N 	 1 	 Democrat California
+12 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Democrat who
+12 	 14 	 (S[dcl]\NP)/NP 	 1 	 Democrat is <XB>
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is who
+17 	 14 	 (S[dcl]\NP)/NP 	 2 	 member is
+17 	 15 	 NP[nb]/N 	 1 	 member a
+17 	 16 	 N/N 	 1 	 member senior
+17 	 18 	 (NP\NP)/NP 	 1 	 member of
+22 	 18 	 (NP\NP)/NP 	 2 	 Committee of
+22 	 19 	 NP[nb]/N 	 1 	 Committee the
+22 	 20 	 N/N 	 1 	 Committee House
+22 	 21 	 N/N 	 1 	 Committee Judiciary
+<\s>
+<s id="wsj_0609.13"> 10
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+7 	 1 	 (S[dcl]\NP)/NP 	 2 	 challenge 's
+7 	 2 	 NP[nb]/N 	 1 	 challenge a
+7 	 3 	 N/N 	 1 	 challenge real
+7 	 4 	 N/N 	 1 	 challenge face-to-face
+7 	 5 	 N/N 	 1 	 challenge arm
+7 	 6 	 N/N 	 1 	 challenge wrestling
+7 	 8 	 (NP\NP)/NP 	 1 	 challenge to
+9 	 8 	 (NP\NP)/NP 	 2 	 Congress to
+<\s>
+<s id="wsj_0609.14"> 32
+2 	 0 	 N/N 	 1 	 aides White
+2 	 1 	 N/N 	 1 	 aides House
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 aides know
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 it 's
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 's know
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 step 's
+7 	 6 	 NP[nb]/N 	 1 	 step a
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 step that
+7 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 step ca <XB>
+7 	 12 	 S[pss]\NP 	 1 	 step taken <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 ca that
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 ca n't
+11 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be ca
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 taken be
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 taken lightly
+18 	 16 	 (S/S)/NP 	 2 	 reason for
+18 	 17 	 NP[nb]/N 	 1 	 reason that
+21 	 20 	 NP[nb]/N 	 1 	 president the
+21 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 president may
+21 	 23 	 (S[b]\NP)/PP 	 1 	 president back <XB>
+22 	 16 	 (S/S)/NP 	 1 	 may for
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 back may
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 back down
+25 	 23 	 (S[b]\NP)/PP 	 2 	 from back
+26 	 25 	 PP/(S[ng]\NP) 	 1 	 launching from
+26 	 30 	 ((S\NP)\(S\NP))/N 	 2 	 launching this
+29 	 26 	 (S[ng]\NP)/NP 	 2 	 case launching
+29 	 27 	 NP[nb]/N 	 1 	 case a
+29 	 28 	 N/N 	 1 	 case test
+31 	 30 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+<\s>
+<s id="wsj_0609.15"> 28
+2 	 0 	 NP[nb]/N 	 1 	 advisers Some
+2 	 1 	 N/N 	 1 	 advisers senior
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 advisers argue
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that argue
+7 	 5 	 ((S/S)/(S[ng]\NP))/NP 	 3 	 fights with
+7 	 6 	 N/N 	 1 	 fights further
+7 	 8 	 (NP\NP)/NP 	 1 	 fights over
+7 	 17 	 S[ng]\NP 	 1 	 fights looming <XB>
+12 	 8 	 (NP\NP)/NP 	 2 	 cut over
+12 	 9 	 NP[nb]/N 	 1 	 cut a
+12 	 10 	 N/N 	 1 	 cut capital-gains
+12 	 11 	 N/N 	 1 	 cut tax
+16 	 8 	 (NP\NP)/NP 	 2 	 bill over
+16 	 14 	 NP[nb]/N 	 1 	 bill a
+16 	 15 	 N/N 	 1 	 bill budget-reduction
+17 	 5 	 ((S/S)/(S[ng]\NP))/NP 	 2 	 looming with
+20 	 19 	 N/N 	 1 	 Bush Mr.
+20 	 22 	 (S[dcl]\NP)/NP 	 1 	 Bush has
+22 	 4 	 S[em]/S[dcl] 	 1 	 has that
+22 	 5 	 ((S/S)/(S[ng]\NP))/NP 	 1 	 has with
+22 	 21 	 (S\NP)/(S\NP) 	 2 	 has already
+25 	 22 	 (S[dcl]\NP)/NP 	 2 	 confrontations has
+25 	 23 	 N/N 	 1 	 confrontations enough
+25 	 24 	 N/N 	 1 	 confrontations pending
+25 	 26 	 (NP\NP)/NP 	 1 	 confrontations with
+27 	 26 	 (NP\NP)/NP 	 2 	 Congress with
+<\s>
+<s id="wsj_0609.16"> 13
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 They prefer
+0 	 3 	 (S[b]\NP)/NP 	 1 	 They put <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to prefer
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 put to
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 put off
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 put until
+7 	 3 	 (S[b]\NP)/NP 	 2 	 veto put
+7 	 5 	 NP[nb]/N 	 1 	 veto the
+7 	 6 	 N/N 	 1 	 veto line-item
+10 	 9 	 (N/N)/(S[asup]\NP) 	 2 	 least at
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 year until
+12 	 9 	 (N/N)/(S[asup]\NP) 	 1 	 year at
+12 	 11 	 N/N 	 1 	 year next
+<\s>
+<s id="wsj_0609.17"> 20
+3 	 2 	 N/N 	 1 	 Bush Mr.
+3 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Bush are
+3 	 10 	 S[pss]\NP 	 1 	 Bush drawn <XB>
+7 	 5 	 NP[nb]/N 	 1 	 aides some
+7 	 6 	 N/N 	 1 	 aides other
+7 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 aides are
+7 	 10 	 S[pss]\NP 	 1 	 aides drawn <XB>
+8 	 0 	 S/S 	 1 	 are Still
+10 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 drawn are
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 drawn strongly
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 drawn to
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 idea to
+13 	 12 	 NP[nb]/N 	 1 	 idea the
+13 	 14 	 (NP\NP)/(S[ng]\NP) 	 1 	 idea of
+15 	 14 	 (NP\NP)/(S[ng]\NP) 	 2 	 trying of
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 trying out
+19 	 15 	 (S[ng]\NP)/NP 	 2 	 veto trying
+19 	 17 	 NP[nb]/N 	 1 	 veto a
+19 	 18 	 N/N 	 1 	 veto line-item
+<\s>
+<s id="wsj_0609.18"> 24
+1 	 0 	 NP[nb]/N 	 1 	 issue The
+1 	 2 	 S[dcl]\NP 	 1 	 issue arose
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 arose week
+2 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 arose when
+4 	 3 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week last
+9 	 6 	 N/N 	 1 	 Quayle Vice
+9 	 7 	 N/N 	 1 	 Quayle President
+9 	 8 	 N/N 	 1 	 Quayle Dan
+9 	 10 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 Quayle told
+10 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 told when
+12 	 10 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 audience told
+12 	 11 	 NP[nb]/N 	 1 	 audience an
+12 	 13 	 (NP\NP)/NP 	 1 	 audience in
+14 	 13 	 (NP\NP)/NP 	 2 	 Chicago in
+15 	 10 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that told
+17 	 16 	 N/N 	 1 	 Bush Mr.
+17 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Bush was
+17 	 19 	 (S[ng]\NP)/PP 	 1 	 Bush looking <XB>
+18 	 15 	 S[em]/S[dcl] 	 1 	 was that
+19 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 looking was
+20 	 19 	 (S[ng]\NP)/PP 	 2 	 for looking
+23 	 20 	 PP/NP 	 1 	 case for
+23 	 21 	 NP[nb]/N 	 1 	 case a
+23 	 22 	 N/N 	 1 	 case test
+<\s>
+<s id="wsj_0609.19"> 28
+5 	 0 	 N/N 	 1 	 Fitzwater White
+5 	 1 	 N/N 	 1 	 Fitzwater House
+5 	 2 	 N/N 	 1 	 Fitzwater Press
+5 	 3 	 N/N 	 1 	 Fitzwater Secretary
+5 	 4 	 N/N 	 1 	 Fitzwater Marlin
+5 	 6 	 (S[dcl]\NP)/S[em] 	 1 	 Fitzwater confirmed
+5 	 17 	 (S[dcl]\NP)/S[em] 	 1 	 Fitzwater cautioned <XU>
+7 	 6 	 (S[dcl]\NP)/S[em] 	 2 	 that confirmed
+9 	 8 	 N/N 	 1 	 Bush Mr.
+9 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Bush was
+9 	 11 	 (S[adj]\NP)/PP 	 1 	 Bush interested <XB>
+10 	 7 	 S[em]/S[dcl] 	 1 	 was that
+11 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 interested was
+12 	 11 	 (S[adj]\NP)/PP 	 2 	 in interested
+14 	 12 	 PP/NP 	 1 	 idea in
+14 	 13 	 NP[nb]/N 	 1 	 idea the
+18 	 17 	 (S[dcl]\NP)/S[em] 	 2 	 that cautioned
+19 	 20 	 (S[dcl]\NP[thr])/NP 	 1 	 there was
+20 	 18 	 S[em]/S[dcl] 	 1 	 was that
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 was n't
+24 	 20 	 (S[dcl]\NP[thr])/NP 	 2 	 decision was
+24 	 22 	 NP[nb]/N 	 1 	 decision a
+24 	 23 	 N/N 	 1 	 decision firm
+24 	 26 	 (S[b]\NP)/NP 	 1 	 decision try <XB>
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 try to
+27 	 26 	 (S[b]\NP)/NP 	 2 	 it try
+<\s>
+<s id="wsj_0609.20"> 31
+1 	 0 	 N/N 	 1 	 Bush Mr.
+1 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Bush have
+1 	 14 	 (S[ng]\NP)/S[em] 	 1 	 Bush arguing <XB>
+5 	 3 	 N/N 	 1 	 Reagan former
+5 	 4 	 N/N 	 1 	 Reagan President
+5 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Reagan have
+5 	 14 	 (S[ng]\NP)/S[em] 	 1 	 Reagan arguing <XB>
+8 	 7 	 NP[nb]/N 	 1 	 host a
+8 	 9 	 (NP\NP)/NP 	 1 	 host of
+8 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 host have
+8 	 14 	 (S[ng]\NP)/S[em] 	 1 	 host arguing <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 activists of
+11 	 10 	 N/N 	 1 	 activists conservative
+13 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+14 	 13 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 arguing been
+15 	 14 	 (S[ng]\NP)/S[em] 	 2 	 that arguing
+18 	 16 	 NP[nb]/N 	 1 	 veto a
+18 	 17 	 N/N 	 1 	 veto line-item
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 veto would
+18 	 20 	 (S[b]\NP)/NP 	 1 	 veto go <XB>
+18 	 25 	 ((S[ng]\NP)/PP)/NP 	 1 	 veto restoring <XB>
+19 	 15 	 S[em]/S[dcl] 	 1 	 would that
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go would
+20 	 24 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 go in
+23 	 20 	 (S[b]\NP)/NP 	 2 	 way go
+23 	 21 	 NP[nb]/N 	 1 	 way a
+23 	 22 	 N/N 	 1 	 way long
+25 	 24 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 restoring in
+26 	 25 	 ((S[ng]\NP)/PP)/NP 	 3 	 discipline restoring
+27 	 25 	 ((S[ng]\NP)/PP)/NP 	 2 	 to restoring
+30 	 27 	 PP/NP 	 1 	 process to
+30 	 28 	 NP[nb]/N 	 1 	 process the
+30 	 29 	 N/N 	 1 	 process budget
+<\s>
+<s id="wsj_0609.21"> 22
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 They maintain
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that maintain
+4 	 3 	 NP[nb]/N 	 1 	 president a
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 president needs
+5 	 2 	 S[em]/S[dcl] 	 1 	 needs that
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 ability needs
+7 	 6 	 NP[nb]/N 	 1 	 ability the
+7 	 10 	 (S[b]\NP)/NP 	 1 	 ability remove <XB>
+10 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 remove to
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 remove surgically
+13 	 10 	 (S[b]\NP)/NP 	 2 	 projects remove
+13 	 11 	 N/N 	 1 	 projects pork-barrel
+13 	 12 	 N/N 	 1 	 projects spending
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 projects that
+13 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 projects are <XB>
+13 	 16 	 (S[pss]\NP)/PP 	 1 	 projects attached <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+16 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 attached are
+17 	 16 	 (S[pss]\NP)/PP 	 2 	 to attached
+21 	 17 	 PP/NP 	 1 	 bills to
+21 	 18 	 N/N 	 1 	 bills big
+21 	 19 	 N/N 	 1 	 bills omnibus
+21 	 20 	 N/N 	 1 	 bills spending
+<\s>
+<s id="wsj_0609.22"> 20
+1 	 0 	 NP[nb]/N 	 1 	 bills Those
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bills ca
+1 	 6 	 (S[pss]\NP)/PP 	 1 	 bills vetoed <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 ca n't
+5 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be ca
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 be easily
+6 	 5 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 vetoed be
+6 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 vetoed because
+7 	 6 	 (S[pss]\NP)/PP 	 2 	 in vetoed
+9 	 7 	 PP/NP 	 1 	 entirety in
+9 	 8 	 NP[nb]/N 	 1 	 entirety their
+11 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 they are
+11 	 14 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 they needed <XB>
+11 	 16 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 1 	 they keep <XB>
+13 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are because
+13 	 12 	 (S\NP)/(S\NP) 	 2 	 are often
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 needed are
+15 	 14 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to needed
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 keep to
+18 	 16 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 3 	 government keep
+18 	 17 	 NP[nb]/N 	 1 	 government the
+18 	 19 	 S[ng]\NP 	 1 	 government operating <XB>
+19 	 16 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 2 	 operating keep
+<\s>
+<s id="wsj_0609.23"> 14
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Conservatives note
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that note
+4 	 3 	 N/N 	 1 	 governors 43
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 governors have
+5 	 2 	 S[em]/S[dcl] 	 1 	 have that
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 veto have
+8 	 6 	 NP[nb]/N 	 1 	 veto the
+8 	 7 	 N/N 	 1 	 veto line-item
+8 	 10 	 ((S[b]\NP)/PP)/NP 	 3 	 veto use <XU>
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 use to
+11 	 10 	 ((S[b]\NP)/PP)/NP 	 2 	 on use
+13 	 11 	 PP/NP 	 1 	 budgets on
+13 	 12 	 N/N 	 1 	 budgets state
+<\s>
+<s id="wsj_0609.24"> 34
+1 	 0 	 (S/S)/(S/S) 	 2 	 provocatively More
+6 	 3 	 NP[nb]/N 	 1 	 theorists some
+6 	 4 	 N/N 	 1 	 theorists conservative
+6 	 5 	 N/N 	 1 	 theorists legal
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 theorists have
+6 	 8 	 (S[pt]\NP)/(S[ng]\NP) 	 1 	 theorists begun <XB>
+6 	 9 	 (S[ng]\NP)/S[em] 	 1 	 theorists arguing <XB>
+7 	 1 	 S/S 	 1 	 have provocatively
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 begun have
+9 	 8 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 arguing begun
+10 	 9 	 (S[ng]\NP)/S[em] 	 2 	 that arguing
+12 	 11 	 N/N 	 1 	 Bush Mr.
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Bush does
+12 	 15 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Bush need <XB>
+12 	 17 	 (S[b]\NP)/PP 	 1 	 Bush wait <XB>
+13 	 10 	 S[em]/S[dcl] 	 1 	 does that
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 does n't
+15 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 need does
+15 	 25 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 need because
+16 	 15 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to need
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 wait to
+18 	 17 	 (S[b]\NP)/PP 	 2 	 for wait
+20 	 18 	 PP/NP 	 1 	 law for
+20 	 19 	 NP[nb]/N 	 1 	 law a
+20 	 21 	 ((S[ng]\NP)/NP)/NP 	 1 	 law giving <XB>
+22 	 21 	 ((S[ng]\NP)/NP)/NP 	 3 	 him giving
+24 	 21 	 ((S[ng]\NP)/NP)/NP 	 2 	 veto giving
+24 	 23 	 NP[nb]/N 	 1 	 veto the
+27 	 26 	 NP[nb]/N 	 1 	 power the
+27 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 power is
+27 	 30 	 S[adj]\NP 	 1 	 power implicit <XB>
+29 	 25 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is because
+29 	 28 	 (S\NP)/(S\NP) 	 2 	 is already
+30 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 implicit is
+30 	 31 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 implicit in
+33 	 31 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 Constitution in
+33 	 32 	 NP[nb]/N 	 1 	 Constitution the
+<\s>
+<s id="wsj_0609.25"> 80
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 They base
+3 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 argument base
+3 	 2 	 NP[nb]/N 	 1 	 argument their
+4 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 on base
+6 	 4 	 PP/NP 	 1 	 clause on
+6 	 5 	 NP[nb]/N 	 1 	 clause a
+6 	 7 	 S[pss]\NP 	 1 	 clause buried <XB>
+6 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 clause that
+6 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 clause states <XB>
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 buried in
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Section in
+12 	 9 	 N/N 	 1 	 Section Article
+12 	 10 	 N/N 	 1 	 Section I
+12 	 13 	 N\N 	 1 	 Section 7
+12 	 15 	 (NP\NP)/NP 	 1 	 Section of
+17 	 15 	 (NP\NP)/NP 	 2 	 Constitution of
+17 	 16 	 NP[nb]/N 	 1 	 Constitution the
+19 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 states that
+22 	 21 	 NP[nb]/N 	 1 	 order Every
+22 	 29 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 order which
+22 	 50 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 order shall
+22 	 52 	 (S[pss]\NP)/PP 	 1 	 order presented <XB>
+22 	 69 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 order shall <XU>
+22 	 71 	 S[pss]\NP 	 1 	 order approved <XU>
+22 	 76 	 S[pss]\NP 	 1 	 order disapproved <XU>
+24 	 21 	 NP[nb]/N 	 1 	 resolution Every
+24 	 29 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 resolution which
+24 	 50 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 resolution shall
+24 	 52 	 (S[pss]\NP)/PP 	 1 	 resolution presented <XB>
+24 	 69 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 resolution shall <XU>
+24 	 71 	 S[pss]\NP 	 1 	 resolution approved <XU>
+24 	 76 	 S[pss]\NP 	 1 	 resolution disapproved <XU>
+27 	 21 	 NP[nb]/N 	 1 	 vote Every
+27 	 29 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 vote which
+27 	 50 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 vote shall
+27 	 52 	 (S[pss]\NP)/PP 	 1 	 vote presented <XB>
+27 	 69 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 vote shall <XU>
+27 	 71 	 S[pss]\NP 	 1 	 vote approved <XU>
+27 	 76 	 S[pss]\NP 	 1 	 vote disapproved <XU>
+28 	 29 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 to which
+31 	 30 	 NP[nb]/N 	 1 	 concurrence the
+31 	 32 	 (NP\NP)/NP 	 1 	 concurrence of
+31 	 39 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 concurrence may
+31 	 41 	 S[adj]\NP 	 1 	 concurrence necessary <XB>
+34 	 32 	 (NP\NP)/NP 	 2 	 Senate of
+34 	 33 	 NP[nb]/N 	 1 	 Senate the
+36 	 32 	 (NP\NP)/NP 	 2 	 House of
+36 	 33 	 NP[nb]/N 	 1 	 House the
+36 	 37 	 (N\N)/NP 	 1 	 House of
+38 	 37 	 (N\N)/NP 	 2 	 Representatives of
+39 	 29 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 may which
+40 	 39 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+40 	 43 	 ((S\NP)\(S\NP))/PP 	 2 	 be except
+41 	 40 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 necessary be
+44 	 43 	 ((S\NP)\(S\NP))/PP 	 3 	 on except
+46 	 44 	 PP/NP 	 1 	 question on
+46 	 45 	 NP[nb]/N 	 1 	 question a
+46 	 47 	 (NP\NP)/NP 	 1 	 question of
+48 	 47 	 (NP\NP)/NP 	 2 	 adjournment of
+50 	 19 	 (S[dcl]\NP)/S[dcl] 	 2 	 shall states
+51 	 50 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be shall
+52 	 51 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 presented be
+53 	 52 	 (S[pss]\NP)/PP 	 2 	 to presented
+55 	 53 	 PP/NP 	 1 	 President to
+55 	 54 	 NP[nb]/N 	 1 	 President the
+55 	 56 	 (NP\NP)/NP 	 1 	 President of
+59 	 56 	 (NP\NP)/NP 	 2 	 States of
+59 	 57 	 NP[nb]/N 	 1 	 States the
+59 	 58 	 N/N 	 1 	 States United
+64 	 63 	 NP[nb]/N 	 1 	 same the
+64 	 65 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 same shall
+64 	 66 	 (S[b]\NP)/NP 	 1 	 same take <XB>
+65 	 62 	 ((S\NP)/(S\NP))/S[dcl] 	 3 	 shall before
+66 	 65 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take shall
+67 	 66 	 (S[b]\NP)/NP 	 2 	 effect take
+69 	 19 	 (S[dcl]\NP)/S[dcl] 	 2 	 shall states
+69 	 62 	 ((S\NP)/(S\NP))/S[dcl] 	 2 	 shall before
+70 	 69 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be shall
+71 	 70 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 approved be
+71 	 72 	 ((S\NP)\(S\NP))/NP 	 2 	 approved by
+73 	 72 	 ((S\NP)\(S\NP))/NP 	 3 	 him by
+76 	 70 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 disapproved be
+76 	 77 	 ((S\NP)\(S\NP))/NP 	 2 	 disapproved by
+78 	 77 	 ((S\NP)\(S\NP))/NP 	 3 	 him by
+<\s>
+<s id="wsj_0609.26"> 38
+1 	 0 	 NP[nb]/N 	 1 	 clause This
+1 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 clause is
+1 	 7 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 clause designed <XB>
+1 	 9 	 S[b]\NP 	 1 	 clause go <XB>
+1 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 clause is <XU>
+1 	 25 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 clause broad <XU>
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 they argue
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 designed is
+8 	 7 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to designed
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 go to
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 go beyond
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 clause beyond
+13 	 11 	 NP[nb]/N 	 1 	 clause an
+13 	 12 	 N/N 	 1 	 clause earlier
+13 	 14 	 (S[ng]\NP)/S[em] 	 1 	 clause specifying <XB>
+15 	 14 	 (S[ng]\NP)/S[em] 	 2 	 that specifying
+17 	 16 	 NP[nb]/N 	 1 	 president the
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 president can
+17 	 19 	 (S[b]\NP)/NP 	 1 	 president veto <XB>
+18 	 15 	 S[em]/S[dcl] 	 1 	 can that
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 veto can
+21 	 19 	 (S[b]\NP)/NP 	 2 	 bill veto
+21 	 20 	 NP[nb]/N 	 1 	 bill a
+25 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 broad is
+25 	 26 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 broad enough
+27 	 25 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to broad
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 allow to
+29 	 28 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 him allow
+29 	 31 	 (S[b]\NP)/NP 	 1 	 him strike <XB>
+30 	 28 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 strike to
+31 	 32 	 (S\NP)\(S\NP) 	 2 	 strike out
+33 	 31 	 (S[b]\NP)/NP 	 2 	 items strike
+33 	 36 	 (NP\NP)/NP 	 1 	 items within
+35 	 31 	 (S[b]\NP)/NP 	 2 	 riders strike
+35 	 36 	 (NP\NP)/NP 	 1 	 riders within
+37 	 36 	 (NP\NP)/NP 	 2 	 bills within
+<\s>
+<s id="wsj_0609.27"> 42
+4 	 0 	 N/N 	 1 	 Dole Senate
+4 	 1 	 N/N 	 1 	 Dole Minority
+4 	 2 	 N/N 	 1 	 Dole Leader
+4 	 3 	 N/N 	 1 	 Dole Robert
+4 	 5 	 (NP\NP)/NP 	 1 	 Dole -LRB-
+4 	 14 	 (S[dcl]\NP)/NP 	 1 	 Dole accepts
+4 	 22 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Dole urged <XU>
+6 	 5 	 (NP\NP)/NP 	 2 	 R. -LRB-
+8 	 5 	 (NP\NP)/NP 	 2 	 Kan. -LRB-
+12 	 11 	 ((S\NP)/(S\NP))/NP 	 3 	 one for
+14 	 11 	 ((S\NP)/(S\NP))/NP 	 2 	 accepts for
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 argument accepts
+16 	 15 	 NP[nb]/N 	 1 	 argument this
+19 	 18 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 this earlier
+20 	 19 	 ((S\NP)/(S\NP))/N 	 3 	 year this
+22 	 11 	 ((S\NP)/(S\NP))/NP 	 2 	 urged for
+22 	 19 	 ((S\NP)/(S\NP))/N 	 2 	 urged this
+22 	 21 	 (S\NP)/(S\NP) 	 2 	 urged publicly
+24 	 22 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Bush urged
+24 	 23 	 N/N 	 1 	 Bush Mr.
+24 	 26 	 (S[b]\NP)/NP 	 1 	 Bush use <XB>
+24 	 31 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 Bush allow <XU>
+25 	 22 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to urged
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 use to
+29 	 26 	 (S[b]\NP)/NP 	 2 	 veto use
+29 	 27 	 NP[nb]/N 	 1 	 veto the
+29 	 28 	 N/N 	 1 	 veto line-item
+31 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 allow to
+33 	 31 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 courts allow
+33 	 32 	 NP[nb]/N 	 1 	 courts the
+33 	 35 	 (S[b]\NP)/S[qem] 	 1 	 courts decide <XB>
+34 	 31 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+35 	 34 	 (S[to]\NP)/(S[b]\NP) 	 2 	 decide to
+36 	 35 	 (S[b]\NP)/S[qem] 	 2 	 whether decide
+36 	 38 	 S\S 	 1 	 whether not
+39 	 40 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it is
+39 	 41 	 S[adj]\NP 	 1 	 it constitutional <XB>
+40 	 36 	 S[qem]/S[dcl] 	 1 	 is whether
+41 	 40 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 constitutional is
+<\s>
+<s id="wsj_0609.28"> 31
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There 's
+3 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 doubt 's
+3 	 2 	 N/N 	 1 	 doubt little
+4 	 3 	 N/S[em] 	 1 	 that doubt
+7 	 5 	 NP/NP 	 1 	 move such
+7 	 6 	 NP[nb]/N 	 1 	 move a
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 move would
+7 	 11 	 S[pss]\NP 	 1 	 move challenged <XB>
+8 	 4 	 S[em]/S[dcl] 	 1 	 would that
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 be immediately
+11 	 9 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 challenged be
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 challenged in
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 court in
+16 	 3 	 N/S[em] 	 1 	 that doubt
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+17 	 20 	 (((S[b]\NP)/(S[to]\NP))/PP)/NP 	 1 	 it make <XB>
+18 	 16 	 S[em]/S[dcl] 	 1 	 would that
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 would quickly
+20 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make would
+22 	 20 	 (((S[b]\NP)/(S[to]\NP))/PP)/NP 	 4 	 way make
+22 	 21 	 NP[nb]/N 	 1 	 way its
+22 	 30 	 S[pss]\NP 	 1 	 way resolved <XB>
+23 	 20 	 (((S[b]\NP)/(S[to]\NP))/PP)/NP 	 3 	 to make
+26 	 23 	 PP/NP 	 1 	 Court to
+26 	 24 	 NP[nb]/N 	 1 	 Court the
+26 	 25 	 N/N 	 1 	 Court Supreme
+27 	 20 	 (((S[b]\NP)/(S[to]\NP))/PP)/NP 	 2 	 to make
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+28 	 29 	 (S\NP)\(S\NP) 	 2 	 be ultimately
+30 	 28 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 resolved be
+<\s>
+<s id="wsj_0609.29"> 44
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+1 	 19 	 (S[dcl]\S[dcl])/NP 	 1 	 's says
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 issue 's
+4 	 2 	 NP[nb]/N 	 1 	 issue a
+4 	 3 	 N/N 	 1 	 issue major
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they would
+7 	 10 	 (S[b]\NP)/(S[to]\NP) 	 1 	 they want <XB>
+7 	 12 	 ((S[b]\NP)/PP)/NP 	 1 	 they leave <XB>
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 would n't
+8 	 19 	 (S[dcl]\S[dcl])/NP 	 1 	 would says
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 want would
+11 	 10 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to want
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 leave to
+13 	 12 	 ((S[b]\NP)/PP)/NP 	 3 	 it leave
+14 	 12 	 ((S[b]\NP)/PP)/NP 	 2 	 at leave
+17 	 14 	 PP/NP 	 1 	 level at
+17 	 15 	 NP[nb]/N 	 1 	 level a
+17 	 16 	 N/N 	 1 	 level lower
+21 	 19 	 (S[dcl]\S[dcl])/NP 	 2 	 Glazier says
+21 	 20 	 N/N 	 1 	 Glazier Stephen
+26 	 19 	 (S[dcl]\S[dcl])/NP 	 2 	 attorney says
+26 	 23 	 NP[nb]/N 	 1 	 attorney a
+26 	 24 	 N/N 	 1 	 attorney New
+26 	 25 	 N/N 	 1 	 attorney York
+26 	 27 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 attorney whose
+28 	 27 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 writings whose
+28 	 29 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 writings have <XB>
+28 	 31 	 (S[adj]\NP)/PP 	 1 	 writings instrumental <XB>
+29 	 27 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 have whose
+30 	 29 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+31 	 30 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 instrumental been
+32 	 31 	 (S[adj]\NP)/PP 	 2 	 in instrumental
+33 	 32 	 PP/(S[ng]\NP) 	 1 	 pushing in
+35 	 33 	 (S[ng]\NP)/NP 	 2 	 idea pushing
+35 	 34 	 NP[nb]/N 	 1 	 idea the
+36 	 35 	 N/S[em] 	 1 	 that idea
+38 	 37 	 NP[nb]/N 	 1 	 president a
+38 	 40 	 (S[dcl]\NP)/NP 	 1 	 president has
+40 	 36 	 S[em]/S[dcl] 	 1 	 has that
+40 	 39 	 (S\NP)/(S\NP) 	 2 	 has already
+43 	 40 	 (S[dcl]\NP)/NP 	 2 	 veto has
+43 	 41 	 NP[nb]/N 	 1 	 veto a
+43 	 42 	 N/N 	 1 	 veto line-item
+<\s>
+<s id="wsj_0609.30"> 43
+1 	 0 	 N/N 	 1 	 Edwards Rep.
+1 	 7 	 (S[dcl]\NP)/NP 	 1 	 Edwards is
+5 	 3 	 NP[nb]/N 	 1 	 Democrat the
+5 	 4 	 N/N 	 1 	 Democrat California
+5 	 7 	 (S[dcl]\NP)/NP 	 1 	 Democrat is
+8 	 7 	 (S[dcl]\NP)/NP 	 2 	 one is
+8 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 one who
+8 	 10 	 (S[dcl]\NP)/S[em] 	 1 	 one pledges <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 pledges who
+11 	 10 	 (S[dcl]\NP)/S[em] 	 2 	 that pledges
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he would
+12 	 15 	 (S[b]\NP)/NP 	 1 	 he challenge <XB>
+12 	 22 	 (S[ng]\NP)/S[dcl] 	 1 	 he arguing <XB>
+13 	 11 	 S[em]/S[dcl] 	 1 	 would that
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 would immediately
+15 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 challenge would
+15 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 challenge in
+17 	 15 	 (S[b]\NP)/NP 	 2 	 Bush challenge
+17 	 16 	 N/N 	 1 	 Bush Mr.
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 courts in
+20 	 19 	 NP[nb]/N 	 1 	 courts the
+25 	 23 	 NP[nb]/N 	 1 	 veto a
+25 	 24 	 N/N 	 1 	 veto line-item
+25 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 veto would
+25 	 27 	 ((S[b]\NP)/PP)/NP 	 1 	 veto expand <XB>
+26 	 22 	 (S[ng]\NP)/S[dcl] 	 2 	 would arguing
+27 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 expand would
+29 	 28 	 NP[nb]/N 	 1 	 president a
+29 	 30 	 (NP[nb]/N)\NP 	 2 	 president 's
+31 	 27 	 ((S[b]\NP)/PP)/NP 	 3 	 powers expand
+31 	 30 	 (NP[nb]/N)\NP 	 1 	 powers 's
+33 	 27 	 ((S[b]\NP)/PP)/NP 	 2 	 beyond expand
+33 	 32 	 PP/PP 	 1 	 beyond far
+34 	 33 	 PP/NP 	 1 	 anything beyond
+34 	 40 	 ((S[dcl]\NP)/PP)/NP 	 3 	 anything had <XU>
+36 	 35 	 NP[nb]/N 	 1 	 framers the
+36 	 37 	 (NP\NP)/NP 	 1 	 framers of
+36 	 40 	 ((S[dcl]\NP)/PP)/NP 	 1 	 framers had
+39 	 37 	 (NP\NP)/NP 	 2 	 Constitution of
+39 	 38 	 NP[nb]/N 	 1 	 Constitution the
+41 	 40 	 ((S[dcl]\NP)/PP)/NP 	 2 	 in had
+42 	 41 	 PP/NP 	 1 	 mind in
+<\s>
+<s id="wsj_0609.31"> 11
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 It puts
+1 	 10 	 (S[dcl]\S[dcl])\NP 	 1 	 puts declares
+3 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 president puts
+3 	 2 	 NP[nb]/N 	 1 	 president this
+4 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 in puts
+7 	 4 	 PP/NP 	 1 	 business in
+7 	 5 	 NP[nb]/N 	 1 	 business the
+7 	 6 	 N/N 	 1 	 business legislative
+9 	 10 	 (S[dcl]\S[dcl])\NP 	 2 	 he declares
+<\s>
+<s id="wsj_0609.32"> 9
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That 's
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 's not
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 what 's
+3 	 6 	 ((S[dcl]\NP)/PP)/NP 	 3 	 what had <XU>
+5 	 4 	 NP[nb]/N 	 1 	 fathers our
+5 	 6 	 ((S[dcl]\NP)/PP)/NP 	 1 	 fathers had
+6 	 3 	 NP/(S[dcl]/NP) 	 1 	 had what
+7 	 6 	 ((S[dcl]\NP)/PP)/NP 	 2 	 in had
+8 	 7 	 PP/NP 	 1 	 mind in
+<\s>
+<s id="wsj_0609.33"> 33
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+1 	 2 	 (NP\NP)/(S[ng]\NP) 	 1 	 addition to
+3 	 2 	 (NP\NP)/(S[ng]\NP) 	 2 	 giving to
+5 	 3 	 ((S[ng]\NP)/NP)/NP 	 3 	 president giving
+5 	 4 	 NP[nb]/N 	 1 	 president a
+6 	 3 	 ((S[ng]\NP)/NP)/NP 	 2 	 powers giving
+6 	 8 	 (S[b]\NP)/NP 	 1 	 powers rewrite <XB>
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rewrite to
+10 	 8 	 (S[b]\NP)/NP 	 2 	 bills rewrite
+10 	 9 	 N/N 	 1 	 bills spending
+10 	 11 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 bills meant <XB>
+10 	 14 	 S[pss]\NP 	 1 	 bills written <XB>
+12 	 11 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to meant
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+14 	 13 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 written be
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 written in
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 Congress in
+19 	 18 	 N/N 	 1 	 Edwards Rep.
+19 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 Edwards argues
+24 	 22 	 NP[nb]/N 	 1 	 veto a
+24 	 23 	 N/N 	 1 	 veto line-item
+24 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 veto would
+24 	 26 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 veto allow <XB>
+25 	 0 	 (S/S)/NP 	 1 	 would In
+25 	 20 	 (S[dcl]\NP)/S[dcl] 	 2 	 would argues <XU>
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 allow would
+29 	 26 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 executive allow
+29 	 27 	 NP[nb]/N 	 1 	 executive the
+29 	 28 	 N/N 	 1 	 executive chief
+29 	 31 	 (S[b]\NP)/NP 	 1 	 executive blackmail <XB>
+30 	 26 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 blackmail to
+32 	 31 	 (S[b]\NP)/NP 	 2 	 lawmakers blackmail
+<\s>
+<s id="wsj_0609.34"> 28
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 He notes
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that notes
+6 	 4 	 (S/S)/NP 	 2 	 lawmaker as
+6 	 5 	 NP[nb]/N 	 1 	 lawmaker a
+6 	 7 	 (NP\NP)/NP 	 1 	 lawmaker from
+11 	 7 	 (NP\NP)/NP 	 2 	 area from
+11 	 8 	 NP[nb]/N 	 1 	 area the
+11 	 9 	 N/N 	 1 	 area San
+11 	 10 	 N/N 	 1 	 area Francisco
+13 	 14 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 he fights
+13 	 18 	 (S[b]\NP)/NP 	 1 	 he preserve <XB>
+14 	 2 	 S[em]/S[dcl] 	 1 	 fights that
+14 	 4 	 (S/S)/NP 	 1 	 fights as
+14 	 15 	 ((S\NP)\(S\NP))/N 	 2 	 fights each
+16 	 15 	 ((S\NP)\(S\NP))/N 	 3 	 year each
+17 	 14 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to fights
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 preserve to
+20 	 18 	 (S[b]\NP)/NP 	 2 	 funds preserve
+20 	 19 	 N/N 	 1 	 funds federal
+20 	 21 	 (NP\NP)/NP 	 1 	 funds for
+27 	 21 	 (NP\NP)/NP 	 2 	 system for
+27 	 22 	 NP[nb]/N 	 1 	 system the
+27 	 23 	 N/N 	 1 	 system Bay
+27 	 24 	 N/N 	 1 	 system Area
+27 	 25 	 N/N 	 1 	 system Rapid
+27 	 26 	 N/N 	 1 	 system Transit
+<\s>
+<s id="wsj_0609.35"> 46
+2 	 1 	 NP[nb]/N 	 1 	 president a
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 president had
+2 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 president wanted <XU>
+2 	 10 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 president force <XU>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 had If
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 veto had
+6 	 4 	 NP[nb]/N 	 1 	 veto a
+6 	 5 	 N/N 	 1 	 veto line-item
+8 	 0 	 (S/S)/S[dcl] 	 2 	 wanted If
+9 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wanted
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 force to
+11 	 10 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 him force
+11 	 13 	 (S[b]\NP)/NP 	 1 	 him support <XB>
+12 	 10 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to force
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 support to
+17 	 13 	 (S[b]\NP)/NP 	 2 	 initiative support
+17 	 14 	 NP[nb]/N 	 1 	 initiative a
+17 	 15 	 N/N 	 1 	 initiative controversial
+17 	 16 	 N/N 	 1 	 initiative foreign-policy
+20 	 19 	 N/N 	 1 	 Edwards Rep.
+20 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 Edwards says
+24 	 23 	 NP[nb]/N 	 1 	 president the
+24 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 president could
+24 	 26 	 S[b]\NP 	 1 	 president call <XB>
+24 	 28 	 (S[b]\NP)/S[em] 	 1 	 president declare <XU>
+25 	 0 	 (S/S)/S[dcl] 	 1 	 could If
+25 	 21 	 (S[dcl]\NP)/S[dcl] 	 2 	 could says <XU>
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 call could
+28 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 declare could
+29 	 28 	 (S[b]\NP)/S[em] 	 2 	 that declare
+30 	 31 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he would
+30 	 33 	 (S[b]\NP)/NP 	 1 	 he kill <XB>
+31 	 29 	 S[em]/S[dcl] 	 1 	 would that
+33 	 31 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 kill would
+33 	 32 	 (S\NP)/(S\NP) 	 2 	 kill single-handedly
+33 	 37 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 kill unless
+36 	 33 	 (S[b]\NP)/NP 	 2 	 funds kill
+36 	 34 	 NP[nb]/N 	 1 	 funds the
+36 	 35 	 N/N 	 1 	 funds BART
+39 	 38 	 NP[nb]/N 	 1 	 congressman the
+39 	 40 	 S[dcl]\NP 	 1 	 congressman shapes
+40 	 37 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 shapes unless
+40 	 41 	 (S\NP)\(S\NP) 	 2 	 shapes up
+40 	 42 	 ((S\NP)\(S\NP))/NP 	 2 	 shapes on
+45 	 42 	 ((S\NP)\(S\NP))/NP 	 3 	 issue on
+45 	 43 	 NP[nb]/N 	 1 	 issue the
+45 	 44 	 N/N 	 1 	 issue foreign-policy
+<\s>
+<s id="wsj_0609.36"> 16
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Proponents maintain
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that maintain
+4 	 3 	 NP[nb]/N 	 1 	 president a
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 president would
+4 	 6 	 (S[b]\NP)/(S[to]\NP) 	 1 	 president choose <XB>
+4 	 8 	 (S[b]\NP)/NP 	 1 	 president use <XB>
+5 	 2 	 S[em]/S[dcl] 	 1 	 would that
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 choose would
+7 	 6 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to choose
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 use to
+8 	 13 	 (S\NP)\(S\NP) 	 2 	 use judiciously
+11 	 8 	 (S[b]\NP)/NP 	 2 	 veto use
+11 	 9 	 NP[nb]/N 	 1 	 veto a
+11 	 10 	 N/N 	 1 	 veto line-item
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 judiciously more
+13 	 14 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 judiciously than
+15 	 14 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 that than
+<\s>
+<s id="wsj_0609.37"> 28
+1 	 2 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 1 	 there may
+2 	 0 	 S/S 	 1 	 may But
+3 	 2 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 2 	 be may
+5 	 3 	 (S[b]\NP)/NP 	 2 	 problem be
+5 	 4 	 NP[nb]/N 	 1 	 problem another
+5 	 6 	 (NP\NP)/NP 	 1 	 problem with
+5 	 9 	 (NP\NP)/S[dcl] 	 1 	 problem :
+8 	 6 	 (NP\NP)/NP 	 2 	 device with
+8 	 7 	 NP[nb]/N 	 1 	 device the
+14 	 10 	 (S/S)/NP 	 2 	 angst Despite
+14 	 11 	 NP/NP 	 1 	 angst all
+14 	 12 	 NP[nb]/N 	 1 	 angst the
+14 	 13 	 N/N 	 1 	 angst political
+14 	 17 	 (S[b]\NP)/NP 	 2 	 angst cause <XU>
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+15 	 17 	 (S[b]\NP)/NP 	 1 	 it cause <XB>
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cause would
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it might
+19 	 23 	 (S[adj]\NP)/PP 	 1 	 it effective <XB>
+20 	 9 	 (NP\NP)/S[dcl] 	 2 	 might :
+20 	 10 	 (S/S)/NP 	 1 	 might Despite
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 might n't
+22 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be might
+23 	 22 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 effective be
+24 	 23 	 (S[adj]\NP)/PP 	 2 	 in effective
+25 	 24 	 PP/(S[ng]\NP) 	 1 	 cutting in
+27 	 25 	 (S[ng]\NP)/NP 	 2 	 deficit cutting
+27 	 26 	 NP[nb]/N 	 1 	 deficit the
+<\s>
+<s id="wsj_0609.38"> 21
+1 	 0 	 N/N 	 1 	 chunks Big
+1 	 2 	 (NP\NP)/NP 	 1 	 chunks of
+1 	 7 	 (NP\NP)/NP 	 1 	 chunks like
+1 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 chunks would
+1 	 20 	 S[pss]\NP 	 1 	 chunks affected <XB>
+5 	 2 	 (NP\NP)/NP 	 2 	 budget of
+5 	 3 	 NP[nb]/N 	 1 	 budget the
+5 	 4 	 N/N 	 1 	 budget government
+10 	 7 	 (NP\NP)/NP 	 2 	 programs like
+10 	 8 	 NP[nb]/N 	 1 	 programs the
+10 	 9 	 N/N 	 1 	 programs entitlement
+10 	 11 	 (NP\NP)/NP 	 1 	 programs of
+13 	 11 	 (NP\NP)/NP 	 2 	 Security of
+13 	 12 	 N/N 	 1 	 Security Social
+15 	 11 	 (NP\NP)/NP 	 2 	 Medicare of
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 would n't
+19 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+20 	 19 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 affected be
+<\s>
+<s id="wsj_0609.39"> 15
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Governors have
+0 	 2 	 (S[pt]\NP)/S[em] 	 1 	 Governors found <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 found have
+3 	 2 	 (S[pt]\NP)/S[em] 	 2 	 that found
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 they have
+4 	 7 	 (S[b]\NP)/NP 	 1 	 they use <XB>
+4 	 12 	 (S[b]\NP)/NP 	 1 	 they maintain <XB>
+5 	 3 	 S[em]/S[dcl] 	 1 	 have that
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to have
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 use to
+7 	 10 	 (S\NP)\(S\NP) 	 2 	 use sparingly
+9 	 7 	 (S[b]\NP)/NP 	 2 	 device use
+9 	 8 	 NP[nb]/N 	 1 	 device the
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 maintain to
+14 	 12 	 (S[b]\NP)/NP 	 2 	 comity maintain
+14 	 13 	 N/N 	 1 	 comity political
+<\s>
+<s id="wsj_0609.40"> 37
+1 	 2 	 ((S[dcl]\NP[expl])/S[em])/(S[adj]\NP) 	 1 	 it is
+2 	 0 	 S/S 	 1 	 is And
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 is n't
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 is even
+2 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 is because
+5 	 2 	 ((S[dcl]\NP[expl])/S[em])/(S[adj]\NP) 	 3 	 clear is
+6 	 2 	 ((S[dcl]\NP[expl])/S[em])/(S[adj]\NP) 	 2 	 that is
+9 	 7 	 NP[nb]/N 	 1 	 projects some
+9 	 8 	 N/N 	 1 	 projects pork-barrel
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 projects can
+9 	 12 	 (S[pss]\NP)/PP 	 1 	 projects hit <XB>
+10 	 6 	 S[em]/S[dcl] 	 1 	 can that
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 hit be
+13 	 12 	 (S[pss]\NP)/PP 	 2 	 with hit
+16 	 13 	 PP/NP 	 1 	 veto with
+16 	 14 	 NP[nb]/N 	 1 	 veto a
+16 	 15 	 N/N 	 1 	 veto line-item
+18 	 19 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 they tend
+18 	 22 	 S[pss]\NP 	 1 	 they listed <XB>
+19 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 tend because
+20 	 19 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to tend
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+22 	 21 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 listed be
+22 	 31 	 ((S\NP)\(S\NP))/PP 	 2 	 listed than
+26 	 23 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 reports in
+26 	 24 	 N/N 	 1 	 reports informal
+26 	 25 	 N/N 	 1 	 reports conference
+26 	 27 	 (S[ng]\NP)/NP 	 1 	 reports accompanying <XB>
+29 	 27 	 (S[ng]\NP)/NP 	 2 	 bills accompanying
+29 	 28 	 N/N 	 1 	 bills spending
+31 	 23 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 than in
+31 	 30 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 than rather
+32 	 31 	 ((S\NP)\(S\NP))/PP 	 3 	 in than
+35 	 32 	 PP/NP 	 1 	 bills in
+35 	 33 	 NP[nb]/N 	 1 	 bills the
+35 	 34 	 N/N 	 1 	 bills official
+35 	 36 	 NP\NP 	 1 	 bills themselves
+<\s>
+<s id="wsj_0609.41"> 23
+2 	 3 	 (S[b]\NP)/S[em] 	 1 	 proponents contend
+3 	 0 	 S/S 	 1 	 contend Still
+4 	 3 	 (S[b]\NP)/S[em] 	 2 	 that contend
+6 	 5 	 NP[nb]/N 	 1 	 veto the
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 veto would
+6 	 8 	 (S[b]\NP)/NP 	 1 	 veto have <XB>
+7 	 4 	 S[em]/S[dcl] 	 1 	 would that
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+9 	 8 	 (S[b]\NP)/NP 	 2 	 what have
+9 	 12 	 ((S[dcl]\NP)/NP)/NP 	 3 	 what calls <XU>
+11 	 10 	 N/N 	 1 	 Glazier Mr.
+11 	 12 	 ((S[dcl]\NP)/NP)/NP 	 1 	 Glazier calls
+12 	 9 	 NP/(S[dcl]/NP) 	 1 	 calls what
+16 	 12 	 ((S[dcl]\NP)/NP)/NP 	 2 	 effect calls
+16 	 13 	 NP[nb]/N 	 1 	 effect an
+16 	 14 	 N/N 	 1 	 effect important
+16 	 15 	 N/N 	 1 	 effect chilling
+16 	 17 	 (NP\NP)/NP 	 1 	 effect on
+19 	 17 	 (NP\NP)/NP 	 2 	 manner on
+19 	 18 	 NP[nb]/N 	 1 	 manner all
+19 	 20 	 (NP\NP)/NP 	 1 	 manner of
+22 	 20 	 (NP\NP)/NP 	 2 	 bills of
+22 	 21 	 N/N 	 1 	 bills appropriations
+<\s>
+<s id="wsj_0609.42"> 32
+0 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Lawmakers would
+0 	 6 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 Lawmakers avoid <XB>
+0 	 7 	 ((S[ng]\NP)/PP)/NP 	 1 	 Lawmakers putting <XB>
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 they say
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 avoid would
+6 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 avoid for
+7 	 6 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 putting avoid
+7 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 putting in
+10 	 7 	 ((S[ng]\NP)/PP)/NP 	 3 	 projects putting
+10 	 8 	 N/N 	 1 	 projects many
+10 	 9 	 N/N 	 1 	 projects spending
+11 	 7 	 ((S[ng]\NP)/PP)/NP 	 2 	 into putting
+12 	 11 	 PP/NP 	 1 	 legislation into
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 place in
+16 	 14 	 NP[nb]/N 	 1 	 place the
+16 	 15 	 N/N 	 1 	 place first
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 fear for
+18 	 19 	 (NP\NP)/NP 	 1 	 fear of
+21 	 19 	 (NP\NP)/NP 	 2 	 embarrassment of
+21 	 20 	 NP[nb]/N 	 1 	 embarrassment the
+21 	 22 	 (NP\NP)/(S[ng]\NP) 	 1 	 embarrassment of
+23 	 22 	 (NP\NP)/(S[ng]\NP) 	 2 	 having of
+24 	 23 	 ((S[ng]\NP)/(S[pss]\NP))/NP 	 3 	 them having
+24 	 25 	 (S[pss]\NP)/PP 	 1 	 them singled <XB>
+25 	 23 	 ((S[ng]\NP)/(S[pss]\NP))/NP 	 2 	 singled having
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 singled out
+25 	 31 	 (S\NP)\(S\NP) 	 2 	 singled later
+27 	 25 	 (S[pss]\NP)/PP 	 2 	 for singled
+30 	 27 	 PP/NP 	 1 	 veto for
+30 	 28 	 NP[nb]/N 	 1 	 veto a
+30 	 29 	 N/N 	 1 	 veto line-item
+<\s>
+<s id="wsj_0609.43"> 43
+2 	 0 	 (S/S)/NP 	 2 	 outcome Whatever
+2 	 1 	 NP[nb]/N 	 1 	 outcome the
+2 	 3 	 (NP\NP)/NP 	 1 	 outcome of
+6 	 3 	 (NP\NP)/NP 	 2 	 case of
+6 	 4 	 NP[nb]/N 	 1 	 case a
+6 	 5 	 N/N 	 1 	 case test
+9 	 8 	 N/N 	 1 	 Bush President
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Bush would
+9 	 13 	 S[b]\NP 	 1 	 Bush move <XB>
+10 	 0 	 (S/S)/NP 	 1 	 would Whatever
+10 	 27 	 (S[dcl]\S[dcl])/NP 	 1 	 would says
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+11 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 have becase
+12 	 11 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 move to
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 move cautiously
+18 	 16 	 NP[nb]/N 	 1 	 attempt the
+18 	 17 	 N/N 	 1 	 attempt very
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 attempt would
+18 	 20 	 (S[b]\NP)/NP 	 1 	 attempt antagonize <XB>
+19 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 would becase
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 antagonize would
+23 	 20 	 (S[b]\NP)/NP 	 2 	 Democrats antagonize
+23 	 21 	 N/N 	 1 	 Democrats not
+23 	 22 	 N/N 	 1 	 Democrats just
+25 	 20 	 (S[b]\NP)/NP 	 2 	 Republicans antagonize
+29 	 27 	 (S[dcl]\S[dcl])/NP 	 2 	 Fisher says
+29 	 28 	 N/N 	 1 	 Fisher Louis
+32 	 27 	 (S[dcl]\S[dcl])/NP 	 2 	 scholar says
+32 	 31 	 NP[nb]/N 	 1 	 scholar a
+32 	 33 	 (NP\NP)/NP 	 1 	 scholar at
+32 	 38 	 (NP\NP)/(S[dcl]\NP) 	 1 	 scholar who
+32 	 39 	 (S[dcl]\NP)/PP 	 1 	 scholar specializes <XB>
+37 	 33 	 (NP\NP)/NP 	 2 	 Service at
+37 	 34 	 NP[nb]/N 	 1 	 Service the
+37 	 35 	 N/N 	 1 	 Service Congressional
+37 	 36 	 N/N 	 1 	 Service Research
+39 	 38 	 (NP\NP)/(S[dcl]\NP) 	 2 	 specializes who
+40 	 39 	 (S[dcl]\NP)/PP 	 2 	 in specializes
+42 	 40 	 PP/NP 	 1 	 relations in
+42 	 41 	 N/N 	 1 	 relations executive-legislative
+<\s>
+<s id="wsj_0609.44"> 16
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Republicans have
+1 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 have notes
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 interest have
+4 	 2 	 N/N 	 1 	 interest as
+4 	 3 	 N/N 	 1 	 interest much
+4 	 5 	 (NP\NP)/NP 	 1 	 interest as
+4 	 7 	 (NP\NP)/NP 	 1 	 interest in
+6 	 5 	 (NP\NP)/NP 	 2 	 Democrats as
+9 	 7 	 (NP\NP)/NP 	 2 	 way in
+9 	 8 	 NP[nb]/N 	 1 	 way the
+11 	 10 	 NP[nb]/N 	 1 	 system the
+11 	 12 	 S[dcl]\NP 	 1 	 system works
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 he notes
+<\s>
+<s id="wsj_0609.45"> 28
+4 	 3 	 NP[nb]/N 	 1 	 majority a
+4 	 5 	 (NP\NP)/NP 	 1 	 majority of
+4 	 8 	 (S[dcl]\NP)/NP 	 1 	 majority favor
+7 	 5 	 (NP\NP)/NP 	 2 	 lawmakers of
+7 	 6 	 N/N 	 1 	 lawmakers Republican
+8 	 2 	 (S/S)/S[dcl] 	 2 	 favor although
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 veto favor
+11 	 9 	 NP[nb]/N 	 1 	 veto a
+11 	 10 	 N/N 	 1 	 veto line-item
+13 	 15 	 S[ng]\NP 	 1 	 some ranging <XB>
+13 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 some are
+13 	 27 	 S[adj]\NP 	 1 	 some opposed <XB>
+15 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 ranging to
+21 	 16 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 Hatfield from
+21 	 17 	 N/N 	 1 	 Hatfield liberal
+21 	 18 	 N/N 	 1 	 Hatfield Oregon
+21 	 19 	 N/N 	 1 	 Hatfield Sen.
+21 	 20 	 N/N 	 1 	 Hatfield Mark
+22 	 16 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 to from
+25 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 Edwards to
+25 	 23 	 N/N 	 1 	 Edwards conservative
+25 	 24 	 N/N 	 1 	 Edwards Rep.
+26 	 0 	 S/S 	 1 	 are Indeed
+26 	 2 	 (S/S)/S[dcl] 	 1 	 are although
+27 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 opposed are
+<\s>
+<s id="wsj_0609.46"> 24
+1 	 0 	 N/N 	 1 	 Edwards Rep.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Edwards voices
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 view voices
+6 	 3 	 NP[nb]/N 	 1 	 view the
+6 	 4 	 N/N 	 1 	 view traditional
+6 	 5 	 N/N 	 1 	 view conservative
+7 	 6 	 N/S[em] 	 1 	 that view
+8 	 9 	 ((S[dcl]\NP[expl])/(S[to]\NP))/NP 	 1 	 it 's
+9 	 7 	 S[em]/S[dcl] 	 1 	 's that
+11 	 9 	 ((S[dcl]\NP[expl])/(S[to]\NP))/NP 	 3 	 mistake 's
+11 	 10 	 NP[nb]/N 	 1 	 mistake a
+12 	 9 	 ((S[dcl]\NP[expl])/(S[to]\NP))/NP 	 2 	 to 's
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 put to
+16 	 13 	 ((S[b]\NP)/PP)/NP 	 3 	 power put
+16 	 14 	 NP/NP 	 1 	 power too
+16 	 15 	 NP/NP 	 1 	 power much
+17 	 13 	 ((S[b]\NP)/PP)/NP 	 2 	 in put
+19 	 17 	 PP/NP 	 1 	 hands in
+19 	 18 	 NP[nb]/N 	 1 	 hands the
+19 	 20 	 (NP\NP)/NP 	 1 	 hands of
+23 	 20 	 (NP\NP)/NP 	 2 	 person of
+23 	 21 	 NP[nb]/N 	 1 	 person a
+23 	 22 	 N/N 	 1 	 person single
+<\s>
+<s id="wsj_0609.47"> 38
+0 	 1 	 (S[ng]\NP)/PP 	 1 	 Conservatives pushing <XB>
+0 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Conservatives may
+0 	 12 	 (S[b]\NP)/NP 	 1 	 Conservatives regret <XB>
+1 	 6 	 (S\NP)\(S\NP) 	 2 	 pushing now
+2 	 1 	 (S[ng]\NP)/PP 	 2 	 for pushing
+5 	 2 	 PP/NP 	 1 	 veto for
+5 	 3 	 NP[nb]/N 	 1 	 veto a
+5 	 4 	 N/N 	 1 	 veto line-item
+8 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 he notes
+11 	 15 	 (S\S)/S[dcl] 	 1 	 may :
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 regret may
+12 	 14 	 (S\NP)\(S\NP) 	 2 	 regret later
+13 	 12 	 (S[b]\NP)/NP 	 2 	 it regret
+18 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 you 're
+18 	 22 	 (S[b]\NP)/NP 	 1 	 you have <XB>
+18 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you 'll <XB>
+18 	 29 	 ((S[b]\NP)/PP)/NP 	 1 	 you use <XB>
+19 	 15 	 (S\S)/S[dcl] 	 2 	 're :
+19 	 16 	 S/S 	 1 	 're Sometime
+20 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going 're
+21 	 20 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+22 	 26 	 (S\NP)\(S\NP) 	 2 	 have again
+22 	 27 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 have who
+25 	 22 	 (S[b]\NP)/NP 	 2 	 president have
+25 	 23 	 NP[nb]/N 	 1 	 president a
+25 	 24 	 N/N 	 1 	 president Democratic
+28 	 27 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 'll who
+29 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 use 'll
+32 	 29 	 ((S[b]\NP)/PP)/NP 	 3 	 powers use
+32 	 30 	 NP[nb]/N 	 1 	 powers his
+32 	 31 	 N/N 	 1 	 powers expanded
+33 	 29 	 ((S[b]\NP)/PP)/NP 	 2 	 against use
+36 	 35 	 (N/N)/(N/N) 	 2 	 same very
+37 	 33 	 PP/NP 	 1 	 conservatives against
+37 	 34 	 NP[nb]/N 	 1 	 conservatives those
+37 	 36 	 N/N 	 1 	 conservatives same
+<\s>
+<s id="wsj_0609.48"> 86
+1 	 0 	 NP[nb]/N 	 1 	 order Every
+1 	 8 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 order which
+1 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 order shall
+1 	 31 	 (S[pss]\NP)/PP 	 1 	 order presented <XB>
+1 	 48 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 order shall <XU>
+1 	 50 	 S[pss]\NP 	 1 	 order approved <XU>
+1 	 55 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 order being <XU>
+1 	 56 	 S[pss]\NP 	 1 	 order disapproved <XU>
+1 	 60 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 order shall <XU>
+1 	 62 	 S[pss]\NP 	 1 	 order repassed <XU>
+3 	 0 	 NP[nb]/N 	 1 	 resolution Every
+3 	 8 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 resolution which
+3 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 resolution shall
+3 	 31 	 (S[pss]\NP)/PP 	 1 	 resolution presented <XB>
+3 	 48 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 resolution shall <XU>
+3 	 50 	 S[pss]\NP 	 1 	 resolution approved <XU>
+3 	 55 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 resolution being <XU>
+3 	 56 	 S[pss]\NP 	 1 	 resolution disapproved <XU>
+3 	 60 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 resolution shall <XU>
+3 	 62 	 S[pss]\NP 	 1 	 resolution repassed <XU>
+6 	 0 	 NP[nb]/N 	 1 	 vote Every
+6 	 8 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 vote which
+6 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 vote shall
+6 	 31 	 (S[pss]\NP)/PP 	 1 	 vote presented <XB>
+6 	 48 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 vote shall <XU>
+6 	 50 	 S[pss]\NP 	 1 	 vote approved <XU>
+6 	 55 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 vote being <XU>
+6 	 56 	 S[pss]\NP 	 1 	 vote disapproved <XU>
+6 	 60 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 vote shall <XU>
+6 	 62 	 S[pss]\NP 	 1 	 vote repassed <XU>
+7 	 8 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 to which
+10 	 9 	 NP[nb]/N 	 1 	 concurrence the
+10 	 11 	 (NP\NP)/NP 	 1 	 concurrence of
+10 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 concurrence may
+10 	 20 	 S[adj]\NP 	 1 	 concurrence necessary <XB>
+13 	 11 	 (NP\NP)/NP 	 2 	 Senate of
+13 	 12 	 NP[nb]/N 	 1 	 Senate the
+15 	 11 	 (NP\NP)/NP 	 2 	 House of
+15 	 12 	 NP[nb]/N 	 1 	 House the
+15 	 16 	 (N\N)/NP 	 1 	 House of
+17 	 16 	 (N\N)/NP 	 2 	 Representatives of
+18 	 8 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 may which
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+19 	 22 	 ((S\NP)\(S\NP))/PP 	 2 	 be except
+20 	 19 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 necessary be
+23 	 22 	 ((S\NP)\(S\NP))/PP 	 3 	 on except
+25 	 23 	 PP/NP 	 1 	 question on
+25 	 24 	 NP[nb]/N 	 1 	 question a
+25 	 26 	 (NP\NP)/NP 	 1 	 question of
+27 	 26 	 (NP\NP)/NP 	 2 	 adjournment of
+29 	 73 	 ((S\NP)\(S\NP))/PP 	 2 	 shall according
+30 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be shall
+31 	 30 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 presented be
+32 	 31 	 (S[pss]\NP)/PP 	 2 	 to presented
+34 	 32 	 PP/NP 	 1 	 President to
+34 	 33 	 NP[nb]/N 	 1 	 President the
+34 	 35 	 (NP\NP)/NP 	 1 	 President of
+38 	 35 	 (NP\NP)/NP 	 2 	 States of
+38 	 36 	 NP[nb]/N 	 1 	 States the
+38 	 37 	 N/N 	 1 	 States United
+43 	 42 	 NP[nb]/N 	 1 	 same the
+43 	 44 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 same shall
+43 	 45 	 (S[b]\NP)/NP 	 1 	 same take <XB>
+44 	 41 	 ((S\NP)/(S\NP))/S[dcl] 	 3 	 shall before
+45 	 44 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take shall
+46 	 45 	 (S[b]\NP)/NP 	 2 	 effect take
+48 	 41 	 ((S\NP)/(S\NP))/S[dcl] 	 2 	 shall before
+48 	 73 	 ((S\NP)\(S\NP))/PP 	 2 	 shall according
+49 	 48 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be shall
+50 	 49 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 approved be
+50 	 51 	 ((S\NP)\(S\NP))/NP 	 2 	 approved by
+52 	 51 	 ((S\NP)\(S\NP))/NP 	 3 	 him by
+56 	 55 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 disapproved being
+56 	 57 	 ((S\NP)\(S\NP))/NP 	 2 	 disapproved by
+58 	 57 	 ((S\NP)\(S\NP))/NP 	 3 	 him by
+60 	 73 	 ((S\NP)\(S\NP))/PP 	 2 	 shall according
+61 	 60 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be shall
+62 	 61 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 repassed be
+62 	 63 	 ((S\NP)\(S\NP))/NP 	 2 	 repassed by
+64 	 63 	 ((S\NP)\(S\NP))/NP 	 3 	 two-thirds by
+64 	 65 	 (NP\NP)/NP 	 1 	 two-thirds of
+67 	 65 	 (NP\NP)/NP 	 2 	 Senate of
+67 	 66 	 NP[nb]/N 	 1 	 Senate the
+69 	 65 	 (NP\NP)/NP 	 2 	 House of
+69 	 66 	 NP[nb]/N 	 1 	 House the
+69 	 70 	 (N\N)/NP 	 1 	 House of
+71 	 70 	 (N\N)/NP 	 2 	 Representatives of
+74 	 73 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+76 	 74 	 PP/NP 	 1 	 rules to
+76 	 75 	 NP[nb]/N 	 1 	 rules the
+76 	 79 	 S[pss]\NP 	 1 	 rules prescribed <XB>
+78 	 74 	 PP/NP 	 1 	 limitations to
+78 	 75 	 NP[nb]/N 	 1 	 limitations the
+78 	 79 	 S[pss]\NP 	 1 	 limitations prescribed <XB>
+79 	 80 	 ((S\NP)\(S\NP))/NP 	 2 	 prescribed in
+82 	 80 	 ((S\NP)\(S\NP))/NP 	 3 	 case in
+82 	 81 	 NP[nb]/N 	 1 	 case the
+82 	 83 	 (NP\NP)/NP 	 1 	 case of
+85 	 83 	 (NP\NP)/NP 	 2 	 bill of
+85 	 84 	 NP[nb]/N 	 1 	 bill a
+<\s>

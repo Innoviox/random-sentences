@@ -1,0 +1,200 @@
+<s id="wsj_1221.1"> 28
+3 	 0 	 N/N 	 1 	 Inc. Computer
+3 	 1 	 N/N 	 1 	 Inc. Associates
+3 	 2 	 N/N 	 1 	 Inc. International
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. reported
+5 	 6 	 (NP\NP)/NP 	 1 	 earnings for
+5 	 15 	 S[dcl]\NP 	 1 	 earnings plummeted
+9 	 6 	 (NP\NP)/NP 	 2 	 quarter for
+9 	 7 	 NP[nb]/N 	 1 	 quarter the
+9 	 8 	 N/N 	 1 	 quarter second
+9 	 11 	 S[pss]\NP 	 1 	 quarter ended <XB>
+11 	 12 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended Sept.
+13 	 12 	 ((S\NP)\(S\NP))/N[num] 	 3 	 30 Sept.
+15 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 plummeted reported
+15 	 17 	 (S\NP)\(S\NP) 	 2 	 plummeted %
+15 	 20 	 ((S\NP)\(S\NP))/PP 	 2 	 plummeted because
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 66
+20 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 because primarily
+21 	 20 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+23 	 21 	 PP/NP 	 1 	 acquisition of
+23 	 22 	 NP[nb]/N 	 1 	 acquisition the
+23 	 24 	 (NP\NP)/NP 	 1 	 acquisition of
+27 	 24 	 (NP\NP)/NP 	 2 	 Inc of
+27 	 25 	 N/N 	 1 	 Inc Cullinet
+27 	 26 	 N/N 	 1 	 Inc Software
+<\s>
+<s id="wsj_1221.2"> 32
+1 	 0 	 NP[nb]/N 	 1 	 nation The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 nation 's
+5 	 2 	 (NP[nb]/N)\NP 	 1 	 company 's
+5 	 3 	 N/N 	 1 	 company largest
+5 	 4 	 N/N 	 1 	 company software
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 company earned
+6 	 17 	 ((S\NP)\(S\NP))/PP 	 2 	 earned compared
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 9.6
+13 	 6 	 (S[dcl]\NP)/NP 	 2 	 cents earned
+13 	 12 	 N/N 	 1 	 cents five
+13 	 14 	 (NP\NP)/N 	 1 	 cents a
+15 	 14 	 (NP\NP)/N 	 2 	 share a
+18 	 17 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+19 	 18 	 PP/NP 	 1 	 $ with
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 28
+25 	 18 	 PP/NP 	 1 	 cents with
+25 	 24 	 N/N 	 1 	 cents 16
+25 	 26 	 (NP\NP)/N 	 1 	 cents a
+25 	 31 	 (NP\NP)\NP 	 1 	 cents earlier
+27 	 26 	 (NP\NP)/N 	 2 	 share a
+30 	 29 	 NP[nb]/N 	 1 	 year a
+30 	 31 	 (NP\NP)\NP 	 2 	 year earlier
+<\s>
+<s id="wsj_1221.3"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Revenue rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 5
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 282
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 268.3
+<\s>
+<s id="wsj_1221.4"> 22
+1 	 0 	 NP[nb]/N 	 1 	 drop The
+1 	 2 	 (NP\NP)/NP 	 1 	 drop in
+1 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 drop had
+1 	 6 	 S[pss]\NP 	 1 	 drop anticipated <XB>
+3 	 2 	 (NP\NP)/NP 	 2 	 earnings in
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+6 	 5 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 anticipated been
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 anticipated by
+11 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 analysts by
+11 	 8 	 N/N 	 1 	 analysts most
+11 	 9 	 N/N 	 1 	 analysts Wall
+11 	 10 	 N/N 	 1 	 analysts Street
+15 	 14 	 NP[nb]/N 	 1 	 results the
+15 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 results were
+15 	 17 	 S[pss]\NP 	 1 	 results reported <XB>
+17 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 reported were
+17 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 reported after
+20 	 19 	 NP[nb]/N 	 1 	 market the
+20 	 21 	 S[dcl]\NP 	 1 	 market closed
+21 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 closed after
+<\s>
+<s id="wsj_1221.5"> 20
+1 	 0 	 N/N 	 1 	 Associates Computer
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 Associates closed
+2 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+2 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 closed in
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 at closed
+4 	 3 	 PP/NP 	 1 	 $ at
+5 	 4 	 N/N[num] 	 1 	 13.625 $
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 cents down
+9 	 8 	 N/N 	 1 	 cents 25
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+13 	 12 	 N/N 	 1 	 trading composite
+13 	 14 	 (NP\NP)/NP 	 1 	 trading on
+19 	 14 	 (NP\NP)/NP 	 2 	 Exchange on
+19 	 15 	 NP[nb]/N 	 1 	 Exchange the
+19 	 16 	 N/N 	 1 	 Exchange New
+19 	 17 	 N/N 	 1 	 Exchange York
+19 	 18 	 N/N 	 1 	 Exchange Stock
+<\s>
+<s id="wsj_1221.6"> 24
+1 	 0 	 N/N 	 1 	 Wang Anthony
+1 	 5 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Wang attributed
+3 	 5 	 ((S[dcl]\NP)/PP)/NP 	 1 	 president attributed
+7 	 5 	 ((S[dcl]\NP)/PP)/NP 	 3 	 drop attributed
+7 	 6 	 NP[nb]/N 	 1 	 drop the
+8 	 5 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to attributed
+10 	 8 	 PP/NP 	 1 	 disruption to
+10 	 9 	 NP[nb]/N 	 1 	 disruption the
+10 	 11 	 (NP\NP)/NP 	 1 	 disruption of
+10 	 16 	 (S[ng]\NP)/PP 	 1 	 disruption resulting <XB>
+13 	 12 	 NP[nb]/N 	 1 	 company the
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 company 's
+15 	 11 	 (NP\NP)/NP 	 2 	 business of
+15 	 14 	 (NP[nb]/N)\NP 	 1 	 business 's
+17 	 16 	 (S[ng]\NP)/PP 	 2 	 from resulting
+20 	 17 	 PP/NP 	 1 	 process from
+20 	 18 	 NP[nb]/N 	 1 	 process the
+20 	 19 	 N/N 	 1 	 process prolonged
+20 	 21 	 (NP\NP)/(S[ng]\NP) 	 1 	 process of
+22 	 21 	 (NP\NP)/(S[ng]\NP) 	 2 	 acquiring of
+23 	 22 	 (S[ng]\NP)/NP 	 2 	 Cullinet acquiring
+<\s>
+<s id="wsj_1221.7"> 6
+1 	 0 	 NP[nb]/N 	 1 	 acquisition The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 acquisition was
+1 	 3 	 S[pss]\NP 	 1 	 acquisition completed <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 completed was
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 completed in
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+<\s>
+<s id="wsj_1221.8"> 28
+1 	 0 	 (S/S)/NP 	 2 	 August In
+4 	 3 	 NP[nb]/N 	 1 	 company the
+4 	 5 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 company warned
+5 	 0 	 (S/S)/NP 	 1 	 warned In
+6 	 5 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 investors warned
+7 	 5 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that warned
+9 	 8 	 NP[nb]/N 	 1 	 acquisition the
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 acquisition was
+9 	 11 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 acquisition being <XB>
+9 	 12 	 S[pss]\NP 	 1 	 acquisition delayed <XB>
+10 	 7 	 S[em]/S[dcl] 	 1 	 was that
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being was
+12 	 11 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 delayed being
+16 	 15 	 N/N 	 1 	 customers many
+16 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 customers were
+16 	 18 	 (S[ng]\NP)/PP 	 1 	 customers holding <XB>
+17 	 0 	 (S/S)/NP 	 1 	 were In
+18 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 holding were
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 holding off
+18 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 holding until
+20 	 18 	 (S[ng]\NP)/PP 	 2 	 on holding
+22 	 20 	 PP/NP 	 1 	 decisions on
+22 	 21 	 N/N 	 1 	 decisions purchase
+25 	 24 	 NP[nb]/N 	 1 	 takeover the
+25 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 takeover was
+25 	 27 	 S[pss]\NP 	 1 	 takeover completed <XB>
+26 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was until
+27 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 completed was
+<\s>
+<s id="wsj_1221.9"> 33
+1 	 0 	 NP[nb]/N 	 1 	 delays The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 delays affected
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 affected mainly
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 sales affected
+4 	 5 	 (NP\NP)/NP 	 1 	 sales of
+4 	 22 	 (NP\NP)/PP 	 1 	 sales well
+9 	 5 	 (NP\NP)/NP 	 2 	 products of
+9 	 6 	 N/N 	 1 	 products data
+9 	 7 	 N/N 	 1 	 products base
+9 	 8 	 N/N 	 1 	 products management
+13 	 5 	 (NP\NP)/NP 	 2 	 area of
+13 	 11 	 NP[nb]/N 	 1 	 area a
+13 	 12 	 N/N 	 1 	 area core
+13 	 14 	 (NP\NP)/NP 	 1 	 area for
+17 	 14 	 (NP\NP)/NP 	 2 	 Associates for
+17 	 15 	 NP/NP 	 1 	 Associates both
+17 	 16 	 N/N 	 1 	 Associates Computer
+19 	 14 	 (NP\NP)/NP 	 2 	 Cullinet for
+19 	 15 	 NP/NP 	 1 	 Cullinet both
+22 	 21 	 (NP\NP)/(NP\NP) 	 2 	 well as
+23 	 22 	 (NP\NP)/PP 	 2 	 as well
+24 	 23 	 PP/NP 	 1 	 sales as
+24 	 25 	 (NP\NP)/NP 	 1 	 sales of
+24 	 28 	 (NP\NP)/NP 	 1 	 sales as
+27 	 25 	 (NP\NP)/NP 	 2 	 products of
+27 	 26 	 N/N 	 1 	 products other
+29 	 28 	 (NP\NP)/NP 	 2 	 part as
+29 	 30 	 (NP\NP)/NP 	 1 	 part of
+32 	 30 	 (NP\NP)/NP 	 2 	 sales of
+32 	 31 	 N/N 	 1 	 sales package
+<\s>

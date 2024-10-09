@@ -1,0 +1,456 @@
+<s id="wsj_1561.1"> 34
+1 	 0 	 N/N 	 1 	 Corp. USX
+1 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Corp. agreed
+1 	 13 	 (S[b]\NP)/NP 	 1 	 Corp. form <XB>
+1 	 18 	 (S[b]\NP)/NP 	 1 	 Corp. build <XB>
+5 	 3 	 NP[nb]/N 	 1 	 partner its
+5 	 4 	 N/N 	 1 	 partner Japanese
+5 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 partner agreed
+5 	 13 	 (S[b]\NP)/NP 	 1 	 partner form <XB>
+5 	 18 	 (S[b]\NP)/NP 	 1 	 partner build <XB>
+9 	 7 	 N/N 	 1 	 Ltd. Kobe
+9 	 8 	 N/N 	 1 	 Ltd. Steel
+9 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Ltd. agreed
+9 	 13 	 (S[b]\NP)/NP 	 1 	 Ltd. form <XB>
+9 	 18 	 (S[b]\NP)/NP 	 1 	 Ltd. build <XB>
+12 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 form to
+16 	 13 	 (S[b]\NP)/NP 	 2 	 venture form
+16 	 14 	 NP[nb]/N 	 1 	 venture a
+16 	 15 	 N/N 	 1 	 venture joint
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+21 	 18 	 (S[b]\NP)/NP 	 2 	 plant build
+21 	 19 	 NP[nb]/N 	 1 	 plant a
+21 	 20 	 N/N 	 1 	 plant new
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 produce to
+23 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 produce for
+27 	 23 	 (S[b]\NP)/NP 	 2 	 products produce
+27 	 24 	 N/N 	 1 	 products hot-dipped
+27 	 25 	 N/N 	 1 	 products galvanized
+27 	 26 	 N/N 	 1 	 products sheet
+30 	 29 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 for mainly
+33 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 market for
+33 	 31 	 NP[nb]/N 	 1 	 market the
+33 	 32 	 N/N 	 1 	 market automotive
+<\s>
+<s id="wsj_1561.2"> 16
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Terms were
+0 	 3 	 S[pss]\NP 	 1 	 Terms disclosed <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 were n't
+3 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 disclosed were
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 disclosed for
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 plant for
+6 	 5 	 NP[nb]/N 	 1 	 plant the
+6 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 plant which
+6 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plant will <XB>
+6 	 10 	 (S[b]\NP)/NP 	 1 	 plant have <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will which
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+12 	 10 	 (S[b]\NP)/NP 	 2 	 capacity have
+12 	 11 	 N/N 	 1 	 capacity annual
+12 	 13 	 (NP\NP)/NP 	 1 	 capacity of
+15 	 13 	 (NP\NP)/NP 	 2 	 tons of
+15 	 14 	 N/N 	 1 	 tons 600,000
+<\s>
+<s id="wsj_1561.3"> 19
+1 	 0 	 NP[nb]/N 	 1 	 move The
+1 	 2 	 (NP\NP)/NP 	 1 	 move by
+1 	 8 	 (S[dcl]\NP)/NP 	 1 	 move follows
+4 	 3 	 NP[nb]/N 	 1 	 nation the
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 nation 's
+7 	 2 	 (NP\NP)/NP 	 2 	 steelmaker by
+7 	 5 	 (NP[nb]/N)\NP 	 1 	 steelmaker 's
+7 	 6 	 N/N 	 1 	 steelmaker largest
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 string follows
+10 	 9 	 NP[nb]/N 	 1 	 string a
+10 	 11 	 (NP\NP)/NP 	 1 	 string of
+13 	 11 	 (NP\NP)/NP 	 2 	 announcements of
+13 	 12 	 N/N 	 1 	 announcements earlier
+13 	 14 	 (NP\NP)/NP 	 1 	 announcements by
+18 	 14 	 (NP\NP)/NP 	 2 	 companies by
+18 	 15 	 N/N 	 1 	 companies other
+18 	 16 	 N/N 	 1 	 companies major
+18 	 17 	 N/N 	 1 	 companies steel
+<\s>
+<s id="wsj_1561.4"> 21
+2 	 0 	 N/N 	 1 	 Corp. Bethlehem
+2 	 1 	 N/N 	 1 	 Corp. Steel
+2 	 10 	 (S[b]\NP)/NP 	 1 	 Corp. have
+5 	 4 	 N/N 	 1 	 Corp. LTV
+5 	 10 	 (S[b]\NP)/NP 	 1 	 Corp. have
+8 	 7 	 N/N 	 1 	 Inc. Armco
+8 	 10 	 (S[b]\NP)/NP 	 1 	 Inc. have
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 have all
+11 	 10 	 (S[b]\NP)/NP 	 2 	 plans have
+11 	 13 	 (S[b]\NP)/NP 	 1 	 plans build <XB>
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+15 	 13 	 (S[b]\NP)/NP 	 2 	 lines build
+15 	 14 	 N/N 	 1 	 lines additional
+15 	 16 	 (NP\NP)/NP 	 1 	 lines for
+20 	 16 	 (NP\NP)/NP 	 2 	 steel for
+20 	 17 	 NP/NP 	 1 	 steel such
+20 	 18 	 N/N 	 1 	 steel coated
+20 	 19 	 N/N 	 1 	 steel corrosion-resistant
+<\s>
+<s id="wsj_1561.5"> 14
+1 	 0 	 NP[nb]/N 	 1 	 surge The
+1 	 2 	 (NP\NP)/NP 	 1 	 surge in
+1 	 8 	 (S[dcl]\NP)/NP 	 1 	 surge raises
+3 	 2 	 (NP\NP)/NP 	 2 	 production in
+5 	 6 	 (S[b]\NP)/S[dcl] 	 1 	 analysts say
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 questions raises
+9 	 10 	 ((NP\NP)/(S[ng]\NP))/NP 	 1 	 questions about
+11 	 10 	 ((NP\NP)/(S[ng]\NP))/NP 	 3 	 capacity about
+11 	 12 	 (S[ng]\NP)/NP 	 1 	 capacity outpacing <XB>
+12 	 10 	 ((NP\NP)/(S[ng]\NP))/NP 	 2 	 outpacing about
+13 	 12 	 (S[ng]\NP)/NP 	 2 	 demand outpacing
+<\s>
+<s id="wsj_1561.6"> 30
+0 	 1 	 (S[b]\NP)/S[em] 	 1 	 They note
+2 	 1 	 (S[b]\NP)/S[em] 	 2 	 that note
+3 	 4 	 (NP\NP)/NP 	 1 	 most of
+3 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 most will
+3 	 9 	 (S[b]\NP)/PP 	 1 	 most come <XB>
+3 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 most could <XB>
+3 	 26 	 (S[b]\NP)/PP 	 1 	 most result <XB>
+7 	 4 	 (NP\NP)/NP 	 2 	 plants of
+7 	 5 	 NP[nb]/N 	 1 	 plants the
+7 	 6 	 N/N 	 1 	 plants new
+8 	 2 	 S[em]/S[dcl] 	 1 	 will that
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 come will
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 come in
+9 	 24 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 come which
+10 	 9 	 (S[b]\NP)/PP 	 2 	 on come
+11 	 10 	 PP/NP 	 1 	 line on
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 1992 in
+13 	 15 	 (NP\NP)/S[dcl] 	 1 	 1992 when
+21 	 16 	 NP[nb]/N 	 1 	 program the
+21 	 17 	 N/N 	 1 	 program current
+21 	 18 	 N/N 	 1 	 program import
+21 	 19 	 N/N 	 1 	 program trade
+21 	 20 	 N/N 	 1 	 program restraint
+21 	 22 	 S[dcl]\NP 	 1 	 program ends
+22 	 15 	 (NP\NP)/S[dcl] 	 2 	 ends when
+25 	 24 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 could which
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 result could
+27 	 26 	 (S[b]\NP)/PP 	 2 	 in result
+29 	 27 	 PP/NP 	 1 	 imports in
+29 	 28 	 N/N 	 1 	 imports more
+<\s>
+<s id="wsj_1561.7"> 17
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There 's
+1 	 6 	 (S[dcl]\S[dcl])/NP 	 1 	 's contended
+3 	 2 	 (N/N)/(N/N) 	 2 	 much too
+4 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 capacity 's
+4 	 3 	 N/N 	 1 	 capacity much
+8 	 6 	 (S[dcl]\S[dcl])/NP 	 2 	 Bradford contended
+8 	 7 	 N/N 	 1 	 Bradford Charles
+11 	 6 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst contended
+11 	 10 	 NP[nb]/N 	 1 	 analyst an
+11 	 12 	 (NP\NP)/NP 	 1 	 analyst with
+16 	 12 	 (NP\NP)/NP 	 2 	 Markets with
+16 	 13 	 N/N 	 1 	 Markets Merrill
+16 	 14 	 N/N 	 1 	 Markets Lynch
+16 	 15 	 N/N 	 1 	 Markets Capital
+<\s>
+<s id="wsj_1561.8"> 10
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 I do
+0 	 3 	 (S[b]\NP)/S[dcl] 	 1 	 I think <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 do n't
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 think do
+4 	 5 	 (S[dcl]\NP[thr])/NP 	 1 	 there 's
+5 	 3 	 (S[b]\NP)/S[dcl] 	 2 	 's think
+6 	 5 	 (S[dcl]\NP[thr])/NP 	 2 	 anyone 's
+6 	 8 	 (S[ng]\NP)/NP 	 1 	 anyone building <XB>
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 building not
+9 	 8 	 (S[ng]\NP)/NP 	 2 	 one building
+<\s>
+<s id="wsj_1561.9"> 29
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 He does
+0 	 2 	 (S[b]\NP)/S[em] 	 1 	 He add <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 add does
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 add however
+6 	 2 	 (S[b]\NP)/S[em] 	 2 	 that add
+10 	 7 	 N/N 	 1 	 makers transplanted
+10 	 8 	 N/N 	 1 	 makers Japanese
+10 	 9 	 N/N 	 1 	 makers car
+10 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 makers are
+10 	 12 	 (S[ng]\NP)/NP 	 1 	 makers boosting <XB>
+11 	 6 	 S[em]/S[dcl] 	 1 	 are that
+12 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 boosting are
+12 	 22 	 ((S\NP)\(S\NP))/PP 	 2 	 boosting instead
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 levels boosting
+14 	 13 	 NP[nb]/N 	 1 	 levels the
+14 	 15 	 (NP\NP)/NP 	 1 	 levels of
+14 	 18 	 (NP\NP)/NP 	 1 	 levels in
+17 	 15 	 (NP\NP)/NP 	 2 	 steel of
+17 	 16 	 N/N 	 1 	 steel U.S.-made
+20 	 18 	 (NP\NP)/NP 	 2 	 autos in
+20 	 19 	 NP[nb]/N 	 1 	 autos their
+23 	 22 	 ((S\NP)\(S\NP))/PP 	 3 	 of instead
+24 	 23 	 PP/(S[ng]\NP) 	 1 	 relying of
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 relying heavily
+26 	 24 	 (S[ng]\NP)/PP 	 2 	 on relying
+28 	 26 	 PP/NP 	 1 	 steel on
+28 	 27 	 N/N 	 1 	 steel imported
+<\s>
+<s id="wsj_1561.10"> 9
+1 	 0 	 NP[nb]/N 	 1 	 trend That
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 trend could
+1 	 3 	 (S[b]\NP)/NP 	 1 	 trend increase <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 increase could
+4 	 3 	 (S[b]\NP)/NP 	 2 	 demand increase
+4 	 5 	 (NP\NP)/NP 	 1 	 demand for
+8 	 5 	 (NP\NP)/NP 	 2 	 sheet for
+8 	 6 	 N/N 	 1 	 sheet hot-dipped
+8 	 7 	 N/N 	 1 	 sheet galvanized
+<\s>
+<s id="wsj_1561.11"> 41
+3 	 0 	 NP[nb]/N 	 1 	 segment The
+3 	 1 	 N/N 	 1 	 segment hot-dipped
+3 	 2 	 N/N 	 1 	 segment galvanized
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 segment is
+3 	 18 	 S[pss]\NP 	 1 	 segment coveted <XB>
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 one is
+5 	 6 	 (NP\NP)/NP 	 1 	 one of
+11 	 10 	 (N/N)/(N/N) 	 2 	 profitable most
+12 	 6 	 (NP\NP)/NP 	 2 	 segments of
+12 	 7 	 NP[nb]/N 	 1 	 segments the
+12 	 8 	 N/N 	 1 	 segments fastest-growing <XU>
+12 	 11 	 N/N 	 1 	 segments profitable
+12 	 13 	 (NP\NP)/NP 	 1 	 segments of
+16 	 13 	 (NP\NP)/NP 	 2 	 market of
+16 	 14 	 NP[nb]/N 	 1 	 market the
+16 	 15 	 N/N 	 1 	 market steel
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 coveted by
+23 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 steelmakers by
+23 	 20 	 NP[nb]/N 	 1 	 steelmakers all
+23 	 21 	 N/N 	 1 	 steelmakers major
+23 	 22 	 N/N 	 1 	 steelmakers integrated
+23 	 24 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 steelmakers wanting <XB>
+23 	 26 	 (S[b]\NP)/NP 	 1 	 steelmakers maintain <XB>
+25 	 24 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to wanting
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 maintain to
+28 	 26 	 (S[b]\NP)/NP 	 2 	 edge maintain
+28 	 27 	 NP[nb]/N 	 1 	 edge an
+28 	 29 	 (NP\NP)/NP 	 1 	 edge over
+31 	 29 	 (NP\NP)/NP 	 2 	 minimills over
+31 	 30 	 N/N 	 1 	 minimills smaller
+31 	 35 	 (NP\NP)/NP 	 1 	 minimills --
+34 	 29 	 (NP\NP)/NP 	 2 	 mills over
+34 	 33 	 N/N 	 1 	 mills reconstructed
+34 	 35 	 (NP\NP)/NP 	 1 	 mills --
+36 	 35 	 (NP\NP)/NP 	 2 	 those --
+36 	 37 	 (S[pss]\NP)/PP 	 1 	 those spun <XB>
+37 	 38 	 (S\NP)\(S\NP) 	 2 	 spun off
+39 	 37 	 (S[pss]\NP)/PP 	 2 	 to spun
+40 	 39 	 PP/NP 	 1 	 employees to
+<\s>
+<s id="wsj_1561.12"> 29
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 USX said
+3 	 0 	 S/S 	 1 	 said Indeed
+4 	 5 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it expects
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+7 	 5 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 market expects
+7 	 6 	 NP[nb]/N 	 1 	 market the
+7 	 8 	 (NP\NP)/NP 	 1 	 market for
+7 	 13 	 (S[b]\NP)/NP 	 1 	 market reach <XB>
+11 	 8 	 (NP\NP)/NP 	 2 	 steel for
+11 	 9 	 N/N 	 1 	 steel coated
+11 	 10 	 N/N 	 1 	 steel sheet
+12 	 5 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+12 	 21 	 ((S\NP)\(S\NP))/PP 	 2 	 to compared
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reach to
+13 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 reach by
+15 	 14 	 (N/N)/(N/N) 	 2 	 million 12
+16 	 13 	 (S[b]\NP)/NP 	 2 	 tons reach
+16 	 15 	 N/N 	 1 	 tons million
+16 	 17 	 NP\NP 	 1 	 tons annually
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 1992 by
+22 	 21 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+24 	 23 	 (N/N)/(N/N) 	 2 	 million 10.2
+25 	 22 	 PP/NP 	 1 	 tons with
+25 	 24 	 N/N 	 1 	 tons million
+25 	 26 	 S[pss]\NP 	 1 	 tons shipped <XB>
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 shipped in
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 1988 in
+<\s>
+<s id="wsj_1561.13"> 33
+4 	 0 	 (S/S)/NP 	 2 	 months For
+4 	 1 	 NP[nb]/N 	 1 	 months the
+4 	 2 	 N/N 	 1 	 months first
+4 	 3 	 N/N 	 1 	 months eight
+4 	 5 	 (NP\NP)/NP 	 1 	 months of
+6 	 5 	 (NP\NP)/NP 	 2 	 1989 of
+8 	 9 	 (S[b]\NP)/S[dcl] 	 1 	 analysts say
+9 	 0 	 (S/S)/NP 	 1 	 say For
+10 	 11 	 (NP\NP)/NP 	 1 	 shipments of
+10 	 15 	 S[dcl]\NP 	 1 	 shipments increased
+10 	 22 	 (S[adj]\NP)\NP 	 1 	 shipments earlier <XB>
+14 	 11 	 (NP\NP)/NP 	 2 	 steel of
+14 	 12 	 N/N 	 1 	 steel hot-dipped
+14 	 13 	 N/N 	 1 	 steel galvanized
+15 	 9 	 (S[b]\NP)/S[dcl] 	 2 	 increased say
+15 	 18 	 (S\NP)\(S\NP) 	 2 	 increased %
+15 	 19 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 increased from
+15 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 increased while
+17 	 16 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))) 	 4 	 8 about
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 8
+21 	 20 	 NP[nb]/N 	 1 	 year a
+21 	 22 	 (S[adj]\NP)\NP 	 2 	 year earlier
+22 	 19 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 earlier from
+27 	 25 	 N/N 	 1 	 shipments overall
+27 	 26 	 N/N 	 1 	 shipments steel
+27 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 shipments were
+27 	 29 	 (S[adj]\NP)/NP 	 1 	 shipments up <XB>
+28 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 were while
+29 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 up were
+31 	 30 	 (N/N)/(N/N) 	 2 	 2.4 only
+32 	 29 	 (S[adj]\NP)/NP 	 2 	 % up
+32 	 31 	 N/N 	 1 	 % 2.4
+<\s>
+<s id="wsj_1561.14"> 34
+0 	 4 	 (S[b]\NP)/(S[to]\NP) 	 1 	 USX hope
+0 	 6 	 (S[b]\NP)/NP 	 1 	 USX reach <XB>
+3 	 2 	 N/N 	 1 	 Steel Kobe
+3 	 4 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Steel hope
+3 	 6 	 (S[b]\NP)/NP 	 1 	 Steel reach <XB>
+4 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 hope with
+5 	 4 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to hope
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reach to
+6 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 reach by
+9 	 6 	 (S[b]\NP)/NP 	 2 	 agreement reach
+9 	 7 	 NP[nb]/N 	 1 	 agreement a
+9 	 8 	 N/N 	 1 	 agreement definitive
+9 	 10 	 (S[ng]\NP)/NP 	 1 	 agreement establishing <XB>
+13 	 10 	 (S[ng]\NP)/NP 	 2 	 partnership establishing
+13 	 11 	 NP[nb]/N 	 1 	 partnership the
+13 	 12 	 N/N 	 1 	 partnership 50-50
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 end by
+16 	 15 	 NP[nb]/N 	 1 	 end the
+16 	 17 	 (NP\NP)/NP 	 1 	 end of
+19 	 17 	 (NP\NP)/NP 	 2 	 year of
+19 	 18 	 NP[nb]/N 	 1 	 year the
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 construction with
+22 	 24 	 (S[pss]\NP)/PP 	 1 	 construction slated <XB>
+24 	 23 	 (S\NP)/(S\NP) 	 2 	 slated tentatively
+25 	 24 	 (S[pss]\NP)/PP 	 2 	 for slated
+27 	 25 	 PP/NP 	 1 	 spring for
+27 	 26 	 NP[nb]/N 	 1 	 spring the
+27 	 28 	 (NP\NP)/NP 	 1 	 spring of
+29 	 28 	 (NP\NP)/NP 	 2 	 1990 of
+31 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 production with
+31 	 32 	 (NP\NP)/NP 	 1 	 production by
+33 	 32 	 (NP\NP)/NP 	 2 	 1992 by
+<\s>
+<s id="wsj_1561.15"> 24
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 USX has
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 has already
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 lines has
+4 	 3 	 N/N 	 1 	 lines six
+4 	 5 	 (NP\NP)/NP 	 1 	 lines in
+4 	 8 	 (S[ng]\NP)/NP 	 1 	 lines producing <XB>
+7 	 5 	 (NP\NP)/NP 	 2 	 plants in
+7 	 6 	 N/N 	 1 	 plants existing
+11 	 8 	 (S[ng]\NP)/NP 	 2 	 steel producing
+11 	 9 	 N/N 	 1 	 steel hot-dipped
+11 	 10 	 N/N 	 1 	 steel galvanized
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 this marks
+20 	 15 	 (S[dcl]\NP)/NP 	 2 	 plant marks
+20 	 16 	 NP[nb]/N 	 1 	 plant the
+20 	 17 	 N/N 	 1 	 plant first
+20 	 18 	 N/N 	 1 	 plant so-called
+20 	 19 	 N/N 	 1 	 plant greenfield
+20 	 21 	 (NP\NP)/NP 	 1 	 plant for
+23 	 21 	 (NP\NP)/NP 	 2 	 production for
+23 	 22 	 NP/NP 	 1 	 production such
+<\s>
+<s id="wsj_1561.16"> 16
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+2 	 4 	 (S[b]\NP)/NP 	 1 	 it boost <XB>
+3 	 0 	 S/S 	 1 	 will Moreover
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 boost will
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 boost by
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 % by
+7 	 6 	 N/N 	 1 	 % 50
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 USX 's
+12 	 4 	 (S[b]\NP)/NP 	 2 	 capacity boost
+12 	 9 	 (NP[nb]/N)\NP 	 1 	 capacity 's
+12 	 10 	 N/N 	 1 	 capacity current
+12 	 11 	 N/N 	 1 	 capacity hot-dipped
+12 	 13 	 (NP\NP)/NP 	 1 	 capacity of
+15 	 13 	 (NP\NP)/NP 	 2 	 tons of
+15 	 14 	 N/N 	 1 	 tons 1,275,000
+<\s>
+<s id="wsj_1561.17"> 22
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it does
+3 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 it expect <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 does said
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 does n't
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 expect does
+9 	 7 	 NP[nb]/N 	 1 	 line the
+9 	 8 	 N/N 	 1 	 line new
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 line 's
+11 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 capacity expect
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 capacity 's
+11 	 14 	 (S[b]\NP)/NP 	 1 	 capacity affect <XB>
+12 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+14 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 affect to
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 affect adversely
+16 	 15 	 NP[nb]/N 	 1 	 company the
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 company 's
+21 	 14 	 (S[b]\NP)/NP 	 2 	 lines affect
+21 	 17 	 (NP[nb]/N)\NP 	 1 	 lines 's
+21 	 18 	 N/N 	 1 	 lines existing
+21 	 19 	 N/N 	 1 	 lines hot-dipped
+21 	 20 	 N/N 	 1 	 lines galvanizing
+<\s>
+<s id="wsj_1561.18"> 20
+0 	 4 	 (S[ng]\NP)/NP 	 1 	 Steelmakers adding <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 have also
+3 	 1 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 been have
+4 	 3 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 adding been
+5 	 4 	 (S[ng]\NP)/NP 	 2 	 capacity adding
+5 	 6 	 (NP\NP)/NP 	 1 	 capacity of
+9 	 6 	 (NP\NP)/NP 	 2 	 steel of
+9 	 7 	 N/N 	 1 	 steel so-called
+9 	 8 	 N/N 	 1 	 steel electrogalvanized
+9 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 steel which
+9 	 12 	 (S[dcl]\NP)/NP 	 1 	 steel is <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 way is
+14 	 13 	 NP[nb]/N 	 1 	 way another
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+19 	 16 	 (S[b]\NP)/NP 	 2 	 steel make
+19 	 17 	 N/N 	 1 	 steel coated
+19 	 18 	 N/N 	 1 	 steel corrosion-resistant
+<\s>
+<s id="wsj_1561.19"> 25
+0 	 1 	 (NP\NP)/NP 	 1 	 One of
+0 	 8 	 (S[dcl]\NP)/S[em] 	 1 	 One is
+3 	 1 	 (NP\NP)/NP 	 2 	 advantages of
+3 	 2 	 NP[nb]/N 	 1 	 advantages the
+3 	 4 	 (NP\NP)/NP 	 1 	 advantages of
+7 	 4 	 (NP\NP)/NP 	 2 	 process of
+7 	 5 	 NP[nb]/N 	 1 	 process the
+7 	 6 	 N/N 	 1 	 process hot-dipped
+9 	 8 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+10 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it allows
+11 	 9 	 S[em]/S[dcl] 	 1 	 allows that
+13 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 steel allows
+13 	 12 	 NP[nb]/N 	 1 	 steel the
+13 	 16 	 (S[pss]\NP)/PP 	 1 	 steel covered <XB>
+14 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to allows
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+16 	 15 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 covered be
+16 	 24 	 (S\NP)\(S\NP) 	 2 	 covered quickly
+17 	 16 	 (S[pss]\NP)/PP 	 2 	 with covered
+20 	 17 	 PP/NP 	 1 	 coat with
+20 	 18 	 NP[nb]/N 	 1 	 coat a
+20 	 19 	 N/N 	 1 	 coat thicker
+20 	 21 	 (NP\NP)/NP 	 1 	 coat of
+22 	 21 	 (NP\NP)/NP 	 2 	 zinc of
+24 	 23 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 quickly more
+<\s>

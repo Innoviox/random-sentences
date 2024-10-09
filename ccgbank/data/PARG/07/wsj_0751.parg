@@ -1,0 +1,81 @@
+<s id="wsj_0751.1"> 27
+2 	 0 	 N/N 	 1 	 Bank Dime
+2 	 1 	 N/N 	 1 	 Bank Savings
+2 	 3 	 (NP\NP)/NP 	 1 	 Bank of
+2 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Bank was
+2 	 7 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Bank cleared <XB>
+2 	 15 	 (S[b]\NP)/NP 	 1 	 Bank acquire <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 York of
+5 	 4 	 N/N 	 1 	 York New
+6 	 26 	 (S[dcl]\S[dcl])\NP 	 1 	 was said
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 cleared was
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 cleared by
+13 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp. by
+13 	 9 	 NP[nb]/N 	 1 	 Corp. the
+13 	 10 	 N/N 	 1 	 Corp. Federal
+13 	 11 	 N/N 	 1 	 Corp. Deposit
+13 	 12 	 N/N 	 1 	 Corp. Insurance
+14 	 7 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to cleared
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+18 	 15 	 (S[b]\NP)/NP 	 2 	 Bank acquire
+18 	 16 	 N/N 	 1 	 Bank Starpointe
+18 	 17 	 N/N 	 1 	 Bank Savings
+18 	 19 	 (NP\NP)/NP 	 1 	 Bank of
+20 	 19 	 (NP\NP)/NP 	 2 	 Somerset of
+22 	 19 	 (NP\NP)/NP 	 2 	 N.J. of
+25 	 24 	 NP[nb]/N 	 1 	 banks the
+25 	 26 	 (S[dcl]\S[dcl])\NP 	 2 	 banks said
+<\s>
+<s id="wsj_0751.2"> 25
+1 	 0 	 N/N 	 1 	 holders Starpointe
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 holders who
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 holders approved <XB>
+1 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 holders will
+1 	 11 	 (S[b]\NP)/NP 	 1 	 holders receive <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 approved who
+4 	 8 	 (S\NP)\(S\NP) 	 2 	 approved April
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 plan approved
+6 	 5 	 NP[nb]/N 	 1 	 plan the
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 April last
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 receive will
+12 	 11 	 (S[b]\NP)/NP 	 2 	 $ receive
+12 	 14 	 (NP\NP)/NP 	 1 	 $ in
+12 	 16 	 (NP\NP)/N 	 1 	 $ a
+13 	 12 	 N/N[num] 	 1 	 21 $
+15 	 14 	 (NP\NP)/NP 	 2 	 cash in
+17 	 16 	 (NP\NP)/N 	 2 	 share a
+22 	 11 	 (S[b]\NP)/NP 	 2 	 $ receive
+22 	 20 	 NP[nb]/N 	 1 	 $ a
+22 	 21 	 N/N 	 1 	 $ total
+24 	 22 	 N/N[num] 	 1 	 million $
+24 	 23 	 N/N 	 1 	 million 63
+<\s>
+<s id="wsj_0751.3"> 20
+1 	 0 	 NP[nb]/N 	 1 	 FDIC The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 FDIC cleared
+2 	 5 	 (S\NP)\(S\NP) 	 2 	 cleared yesterday
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 move cleared
+4 	 3 	 NP[nb]/N 	 1 	 move the
+9 	 8 	 NP[nb]/N 	 1 	 banks the
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 banks must
+9 	 11 	 S[b]\NP 	 1 	 banks wait <XB>
+9 	 17 	 (S[ng]\NP)/NP 	 1 	 banks closing <XB>
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 wait must
+11 	 15 	 (S\NP)\(S\NP) 	 2 	 wait days
+11 	 16 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 wait before
+13 	 12 	 ((((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))))/(S[asup]\NP) 	 5 	 least at
+14 	 12 	 ((((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))))/(S[asup]\NP) 	 4 	 30 at
+15 	 14 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 days 30
+17 	 16 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 closing before
+19 	 17 	 (S[ng]\NP)/NP 	 2 	 purchase closing
+19 	 18 	 NP[nb]/N 	 1 	 purchase the
+<\s>
+<s id="wsj_0751.4"> 7
+2 	 0 	 NP[nb]/N 	 1 	 date A
+2 	 1 	 N/N 	 1 	 date closing
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 date has
+2 	 6 	 S[pss]\NP 	 1 	 date set <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 has n't
+5 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+6 	 5 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 set been
+<\s>

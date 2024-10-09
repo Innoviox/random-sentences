@@ -1,0 +1,82 @@
+<s id="wsj_2127.1"> 24
+4 	 0 	 N/N 	 1 	 TRUST CONTINENTAL
+4 	 1 	 N/N 	 1 	 TRUST MORTGAGE
+4 	 2 	 N/N 	 1 	 TRUST &
+4 	 3 	 N/N 	 1 	 TRUST EQUITY
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 TRUST said
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+6 	 8 	 (S[b]\NP)/NP 	 1 	 it resume <XB>
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 resume will
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 resume with
+10 	 8 	 (S[b]\NP)/NP 	 2 	 payments resume
+10 	 9 	 N/N 	 1 	 payments dividend
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 payout with
+14 	 12 	 NP[nb]/N 	 1 	 payout a
+14 	 13 	 N/N 	 1 	 payout 10-cent-a-share
+14 	 15 	 (NP\NP)/NP 	 1 	 payout on
+14 	 18 	 (NP\NP)/NP 	 1 	 payout to
+16 	 15 	 (NP\NP)/NP 	 2 	 Nov. on
+17 	 16 	 N/N[num] 	 1 	 6 Nov.
+19 	 18 	 (NP\NP)/NP 	 2 	 shares to
+19 	 20 	 (NP\NP)/NP 	 1 	 shares of
+19 	 22 	 (NP\NP)/N[num] 	 1 	 shares Oct.
+21 	 20 	 (NP\NP)/NP 	 2 	 record of
+23 	 22 	 (NP\NP)/N[num] 	 2 	 25 Oct.
+<\s>
+<s id="wsj_2127.2"> 23
+5 	 0 	 NP[nb]/N 	 1 	 trust The
+5 	 1 	 N/N 	 1 	 trust Dallas
+5 	 2 	 N/N 	 1 	 trust real
+5 	 3 	 N/N 	 1 	 trust estate
+5 	 4 	 N/N 	 1 	 trust investment
+5 	 7 	 (S[dcl]\NP)/NP 	 1 	 trust paid
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 paid last
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 paid on
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 dividend paid
+9 	 8 	 NP[nb]/N 	 1 	 dividend a
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 Dec. on
+11 	 16 	 (NP\NP)/S[dcl] 	 1 	 Dec. when
+12 	 11 	 N/N[num] 	 1 	 31 Dec.
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 1987 on
+14 	 16 	 (NP\NP)/S[dcl] 	 1 	 1987 when
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 shareholders received
+18 	 16 	 (NP\NP)/S[dcl] 	 2 	 received when
+19 	 18 	 (S[dcl]\NP)/NP 	 2 	 $ received
+19 	 21 	 (NP\NP)/N 	 1 	 $ a
+20 	 19 	 N/N[num] 	 1 	 1 $
+22 	 21 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_2127.3"> 32
+2 	 0 	 (S/S)/NP 	 2 	 troubles Despite
+2 	 1 	 N/N 	 1 	 troubles continuing
+2 	 3 	 (NP\NP)/NP 	 1 	 troubles with
+5 	 3 	 (NP\NP)/NP 	 2 	 assets with
+5 	 4 	 N/N 	 1 	 assets problem
+8 	 3 	 (NP\NP)/NP 	 2 	 loans with
+8 	 7 	 N/N 	 1 	 loans nonperforming
+11 	 10 	 NP[nb]/N 	 1 	 trust the
+11 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 trust said
+12 	 0 	 (S/S)/NP 	 1 	 said Despite
+13 	 14 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it expects
+13 	 17 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 it able <XB>
+14 	 12 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+15 	 14 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+17 	 16 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 able be
+18 	 17 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 maintain to
+19 	 26 	 ((S\NP)\(S\NP))/PP 	 2 	 maintain because
+21 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 increase to
+21 	 26 	 ((S\NP)\(S\NP))/PP 	 2 	 increase because
+23 	 19 	 (S[b]\NP)/NP 	 2 	 rate maintain <XU>
+23 	 21 	 (S[b]\NP)/NP 	 2 	 rate increase
+23 	 22 	 NP[nb]/N 	 1 	 rate the
+23 	 24 	 (NP\NP)/NP 	 1 	 rate of
+25 	 24 	 (NP\NP)/NP 	 2 	 distributions of
+27 	 26 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+28 	 27 	 PP/NP 	 1 	 operations of
+28 	 29 	 (NP\NP)/NP 	 1 	 operations of
+31 	 29 	 (NP\NP)/NP 	 2 	 properties of
+31 	 30 	 N/N 	 1 	 properties joint-venture
+<\s>

@@ -1,0 +1,119 @@
+<s id="wsj_1488.1"> 22
+3 	 0 	 NP[nb]/N 	 1 	 fund This
+3 	 1 	 N/N 	 1 	 fund Toronto
+3 	 2 	 N/N 	 1 	 fund closed-end
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 fund cut
+4 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 cut to
+4 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 cut from
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 dividend cut
+7 	 5 	 NP[nb]/N 	 1 	 dividend the
+7 	 6 	 N/N 	 1 	 dividend annual
+7 	 8 	 (NP\NP)/NP 	 1 	 dividend on
+13 	 8 	 (NP\NP)/NP 	 2 	 shares on
+13 	 9 	 NP[nb]/N 	 1 	 shares its
+13 	 10 	 N/N 	 1 	 shares Class
+13 	 11 	 N/N 	 1 	 shares A
+13 	 12 	 N/N 	 1 	 shares common
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 cent to
+17 	 15 	 N/N 	 1 	 cent one
+17 	 16 	 N/N 	 1 	 cent Canadian
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+21 	 19 	 N/N 	 1 	 cents 10
+21 	 20 	 N/N 	 1 	 cents Canadian
+<\s>
+<s id="wsj_1488.2"> 9
+1 	 0 	 NP[nb]/N 	 1 	 fund The
+1 	 2 	 S[dcl]\NP 	 1 	 fund invests
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 invests mainly
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 invests in
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 gold in
+8 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 bullion in
+8 	 7 	 N/N 	 1 	 bullion silver
+<\s>
+<s id="wsj_1488.3"> 12
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 It said
+4 	 2 	 NP[nb]/N 	 1 	 dividend the
+4 	 3 	 N/N 	 1 	 dividend reduced
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 dividend reflects
+5 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 reflects said
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 price reflects
+8 	 6 	 NP[nb]/N 	 1 	 price the
+8 	 7 	 N/N 	 1 	 price low
+8 	 9 	 (NP\NP)/NP 	 1 	 price for
+11 	 9 	 (NP\NP)/NP 	 2 	 metals for
+11 	 10 	 N/N 	 1 	 metals precious
+<\s>
+<s id="wsj_1488.4"> 33
+1 	 0 	 N/N 	 1 	 Davies Greg
+1 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 Davies said
+4 	 3 	 N/N 	 1 	 Fund Central
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Fund 's
+7 	 5 	 (NP[nb]/N)\NP 	 1 	 president 's
+7 	 6 	 N/N 	 1 	 president vice
+7 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 president said
+9 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 finance said
+12 	 13 	 (NP\NP)/NP 	 1 	 losses for
+12 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 losses could
+12 	 23 	 (S[adj]\NP)/PP 	 1 	 losses high <XB>
+16 	 13 	 (NP\NP)/NP 	 2 	 year for
+16 	 14 	 NP[nb]/N 	 1 	 year the
+16 	 15 	 N/N 	 1 	 year fiscal
+16 	 17 	 S[ng]\NP 	 1 	 year ending <XB>
+17 	 18 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ending Oct.
+19 	 18 	 ((S\NP)\(S\NP))/N[num] 	 3 	 31 Oct.
+20 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 could said
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+23 	 21 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 high be
+23 	 22 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 high as
+24 	 23 	 (S[adj]\NP)/PP 	 2 	 as high
+26 	 25 	 (N/N)/(N/N) 	 2 	 million one
+28 	 24 	 PP/NP 	 1 	 dollars as
+28 	 26 	 N/N 	 1 	 dollars million
+28 	 27 	 N/N 	 1 	 dollars Canadian
+28 	 29 	 (NP\NP)/NP 	 1 	 dollars -LRB-
+30 	 29 	 (NP\NP)/NP 	 2 	 US$ -LRB-
+31 	 30 	 N/N[num] 	 1 	 852,000 US$
+<\s>
+<s id="wsj_1488.5"> 8
+1 	 0 	 NP[nb]/N 	 1 	 fund The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 fund had
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 had last
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 had in
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 profit had
+5 	 4 	 NP[nb]/N 	 1 	 profit a
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 1985 in
+<\s>
+<s id="wsj_1488.6"> 14
+3 	 0 	 NP[nb]/N 	 1 	 rate The
+3 	 1 	 N/N 	 1 	 rate new
+3 	 2 	 N/N 	 1 	 rate dividend
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 rate is
+3 	 5 	 ((S[adj]\NP)/PP)/NP 	 1 	 rate payable <XB>
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 payable is
+6 	 5 	 ((S[adj]\NP)/PP)/NP 	 3 	 Nov. payable
+7 	 6 	 N/N[num] 	 1 	 15 Nov.
+8 	 5 	 ((S[adj]\NP)/PP)/NP 	 2 	 to payable
+9 	 8 	 PP/NP 	 1 	 holders to
+9 	 10 	 (NP\NP)/NP 	 1 	 holders of
+11 	 10 	 (NP\NP)/NP 	 2 	 record of
+11 	 12 	 (NP\NP)/N[num] 	 1 	 record Oct.
+13 	 12 	 (NP\NP)/N[num] 	 2 	 31 Oct.
+<\s>
+<s id="wsj_1488.7"> 17
+5 	 0 	 (S/S)/NP 	 2 	 trading In
+5 	 1 	 N/N 	 1 	 trading American
+5 	 2 	 N/N 	 1 	 trading Stock
+5 	 3 	 N/N 	 1 	 trading Exchange
+5 	 4 	 N/N 	 1 	 trading composite
+9 	 8 	 N/N 	 1 	 Fund Central
+9 	 10 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 1 	 Fund was
+9 	 11 	 S[adj]\NP 	 1 	 Fund unchanged <XB>
+10 	 0 	 (S/S)/NP 	 1 	 was In
+10 	 6 	 S/S 	 1 	 was Friday
+11 	 10 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 3 	 unchanged was
+12 	 10 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 2 	 at was
+13 	 12 	 PP/NP 	 1 	 $ at
+13 	 15 	 (NP\NP)/N 	 1 	 $ a
+14 	 13 	 N/N[num] 	 1 	 4.6875 $
+16 	 15 	 (NP\NP)/N 	 2 	 share a
+<\s>

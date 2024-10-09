@@ -1,0 +1,206 @@
+<s id="wsj_0980.1"> 27
+5 	 0 	 NP[nb]/N 	 1 	 column The
+5 	 1 	 N/N 	 1 	 column Sept.
+5 	 2 	 N/N 	 1 	 column 25
+5 	 3 	 N/N 	 1 	 column Tracking
+5 	 4 	 N/N 	 1 	 column Travel
+5 	 6 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 column advises
+6 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 advises because
+7 	 6 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 readers advises
+7 	 9 	 S[b]\NP 	 1 	 readers Charge <XB>
+7 	 13 	 S[ng]\NP 	 1 	 readers Traveling <XB>
+8 	 6 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to advises
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 Charge to
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 Charge With
+9 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 Charge When
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 Caution With
+13 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 Traveling When
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 Traveling Abroad
+17 	 16 	 N/N 	 1 	 companies credit-card
+17 	 18 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 companies charge
+18 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 charge because
+20 	 18 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 % charge
+20 	 19 	 N/N 	 1 	 % 1
+20 	 22 	 ((S[b]\NP)/PP)/NP 	 1 	 % convert <XB>
+21 	 18 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to charge
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 convert to
+24 	 22 	 ((S[b]\NP)/PP)/NP 	 3 	 expenditures convert
+24 	 23 	 N/N 	 1 	 expenditures foreign-currency
+25 	 22 	 ((S[b]\NP)/PP)/NP 	 2 	 into convert
+26 	 25 	 PP/NP 	 1 	 dollars into
+<\s>
+<s id="wsj_0980.2"> 13
+1 	 0 	 (S/S)/NP 	 2 	 fact In
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 this is
+4 	 0 	 (S/S)/NP 	 1 	 is In
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 bargain is
+7 	 5 	 NP[nb]/N 	 1 	 bargain the
+7 	 6 	 N/N 	 1 	 bargain best
+7 	 8 	 S[adj]\NP 	 1 	 bargain available <XB>
+8 	 9 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 available to
+10 	 9 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 someone to
+10 	 11 	 S[ng]\NP 	 1 	 someone traveling <XB>
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 traveling abroad
+<\s>
+<s id="wsj_0980.3"> 27
+1 	 0 	 (S/S)/NP 	 2 	 contrast In
+1 	 2 	 (NP\NP)/NP 	 1 	 contrast to
+5 	 4 	 (N/N)/(N/N) 	 2 	 % 1
+7 	 2 	 (NP\NP)/NP 	 2 	 fee to
+7 	 3 	 NP[nb]/N 	 1 	 fee the
+7 	 5 	 N/N 	 1 	 fee %
+7 	 6 	 N/N 	 1 	 fee conversion
+7 	 8 	 S[pss]\NP 	 1 	 fee charged <XB>
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 charged by
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Visa by
+13 	 12 	 N/N 	 1 	 dealers foreign-currency
+13 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 dealers charge
+15 	 0 	 (S/S)/NP 	 1 	 charge In
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 charge routinely
+17 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 % charge
+17 	 16 	 N/N 	 1 	 % 7
+17 	 21 	 ((S[b]\NP)/PP)/NP 	 1 	 % convert <XB>
+19 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 more charge
+19 	 21 	 ((S[b]\NP)/PP)/NP 	 1 	 more convert <XB>
+20 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to charge
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 convert to
+23 	 21 	 ((S[b]\NP)/PP)/NP 	 3 	 dollars convert
+23 	 22 	 N/N 	 1 	 dollars U.S.
+24 	 21 	 ((S[b]\NP)/PP)/NP 	 2 	 into convert
+26 	 24 	 PP/NP 	 1 	 currency into
+26 	 25 	 N/N 	 1 	 currency foreign
+<\s>
+<s id="wsj_0980.4"> 26
+1 	 0 	 (S/S)/NP 	 2 	 top On
+1 	 2 	 (NP\NP)/NP 	 1 	 top of
+3 	 2 	 (NP\NP)/NP 	 2 	 this of
+6 	 5 	 NP[nb]/N 	 1 	 traveler the
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 traveler who
+6 	 8 	 ((S[dcl]\NP)/PP)/NP 	 1 	 traveler converts <XB>
+6 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 traveler will
+6 	 19 	 (S[b]\NP)/NP 	 1 	 traveler lose <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 converts who
+8 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 converts before
+10 	 8 	 ((S[dcl]\NP)/PP)/NP 	 3 	 dollars converts
+10 	 9 	 NP[nb]/N 	 1 	 dollars his
+11 	 8 	 ((S[dcl]\NP)/PP)/NP 	 2 	 into converts
+13 	 11 	 PP/NP 	 1 	 currency into
+13 	 12 	 N/N 	 1 	 currency foreign
+16 	 15 	 NP[nb]/N 	 1 	 trip the
+16 	 17 	 S[dcl]\NP 	 1 	 trip starts
+17 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 starts before
+18 	 0 	 (S/S)/NP 	 1 	 will On
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 lose will
+19 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 lose from
+20 	 19 	 (S[b]\NP)/NP 	 2 	 interest lose
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 day from
+23 	 22 	 NP[nb]/N 	 1 	 day the
+23 	 24 	 (NP\NP)/NP 	 1 	 day of
+25 	 24 	 (NP\NP)/NP 	 2 	 conversion of
+<\s>
+<s id="wsj_0980.5"> 24
+2 	 0 	 (S/S)/NP 	 2 	 end At
+2 	 1 	 NP[nb]/N 	 1 	 end the
+2 	 3 	 (NP\NP)/NP 	 1 	 end of
+5 	 3 	 (NP\NP)/NP 	 2 	 trip of
+5 	 4 	 NP[nb]/N 	 1 	 trip the
+10 	 7 	 NP[nb]/N 	 1 	 exchange any
+10 	 8 	 N/N 	 1 	 exchange unspent
+10 	 9 	 N/N 	 1 	 exchange foreign
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 exchange will
+10 	 15 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 exchange converted <XB>
+10 	 16 	 (S[adj]\NP)/PP 	 1 	 exchange back <XB>
+11 	 0 	 (S/S)/NP 	 1 	 will At
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+13 	 12 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+15 	 14 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 converted be
+15 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 converted with
+16 	 15 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 back converted
+17 	 16 	 (S[adj]\NP)/PP 	 2 	 into back
+18 	 17 	 PP/NP 	 1 	 dollars into
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 commission with
+22 	 21 	 NP[nb]/N 	 1 	 commission another
+22 	 23 	 S[adj]\NP 	 1 	 commission due <XB>
+<\s>
+<s id="wsj_0980.6"> 16
+2 	 0 	 NP[nb]/N 	 1 	 holder The
+2 	 1 	 N/N 	 1 	 holder card
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 holder will
+2 	 4 	 ((S[b]\NP)/PP)/NP 	 1 	 holder pay <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 pay will
+8 	 7 	 (N/N)/(N/N) 	 2 	 % 1
+9 	 4 	 ((S[b]\NP)/PP)/NP 	 3 	 fee pay
+9 	 5 	 NP[nb]/N 	 1 	 fee the
+9 	 6 	 N/N 	 1 	 fee modest
+9 	 8 	 N/N 	 1 	 fee %
+11 	 4 	 ((S[b]\NP)/PP)/NP 	 2 	 on pay
+11 	 10 	 PP/PP 	 1 	 on only
+13 	 11 	 PP/NP 	 1 	 amounts on
+13 	 12 	 NP[nb]/N 	 1 	 amounts the
+13 	 15 	 S[pss]\NP 	 1 	 amounts needed <XB>
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 needed actually
+<\s>
+<s id="wsj_0980.7"> 27
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he will
+2 	 5 	 S[pss]\NP 	 1 	 he billed <XB>
+2 	 15 	 (S[dcl]\NP)/NP 	 1 	 he has <XU>
+3 	 0 	 S/S 	 1 	 will Typically
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 billed be
+5 	 9 	 (((S\NP)\(S\NP))\NP)/NP 	 2 	 billed after
+8 	 6 	 NP/NP 	 1 	 weeks only
+8 	 7 	 NP[nb]/N 	 1 	 weeks several
+8 	 9 	 (((S\NP)\(S\NP))\NP)/NP 	 3 	 weeks after
+11 	 9 	 (((S\NP)\(S\NP))\NP)/NP 	 4 	 expenditure after
+11 	 10 	 NP[nb]/N 	 1 	 expenditure the
+15 	 0 	 S/S 	 1 	 has Typically
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 has then
+15 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 has before
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 couple has
+17 	 16 	 NP[nb]/N 	 1 	 couple another
+17 	 18 	 (NP\NP)/NP 	 1 	 couple of
+19 	 18 	 (NP\NP)/NP 	 2 	 weeks of
+21 	 22 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 he has
+21 	 24 	 (S[b]\NP)/NP 	 1 	 he pay <XB>
+22 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has before
+23 	 22 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to has
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+26 	 24 	 (S[b]\NP)/NP 	 2 	 bill pay
+26 	 25 	 NP[nb]/N 	 1 	 bill the
+<\s>
+<s id="wsj_0980.8"> 26
+2 	 0 	 (S/S)/NP 	 2 	 meantime In
+2 	 1 	 NP[nb]/N 	 1 	 meantime the
+5 	 4 	 NP[nb]/N 	 1 	 money the
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 money can
+5 	 7 	 (S[b]\NP)/(S[to]\NP) 	 1 	 money continue <XB>
+5 	 9 	 (S[b]\NP)/NP 	 1 	 money earn <XB>
+6 	 0 	 (S/S)/NP 	 1 	 can In
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue can
+8 	 7 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to continue
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 earn to
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 earn for
+9 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 earn --
+10 	 9 	 (S[b]\NP)/NP 	 2 	 interest earn
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 holder for
+14 	 12 	 NP[nb]/N 	 1 	 holder the
+14 	 13 	 N/N 	 1 	 holder card
+17 	 18 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+19 	 18 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 1 than
+20 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 % --
+20 	 16 	 NP/NP 	 1 	 % often
+20 	 19 	 N/N 	 1 	 % 1
+20 	 21 	 (NP\NP)/NP 	 1 	 % during
+24 	 21 	 (NP\NP)/NP 	 2 	 period during
+24 	 22 	 NP[nb]/N 	 1 	 period that
+24 	 23 	 N/N 	 1 	 period float
+24 	 25 	 NP\NP 	 1 	 period alone
+<\s>
+<s id="wsj_0980.9"> 1
+1 	 0 	 N/N 	 1 	 Brigham Daniel
+<\s>
+<s id="wsj_0980.10"> 3
+2 	 0 	 N/N 	 1 	 Inc Visa
+2 	 1 	 N/N 	 1 	 Inc U.S.A.
+<\s>

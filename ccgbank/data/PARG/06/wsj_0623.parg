@@ -1,0 +1,265 @@
+<s id="wsj_0623.1"> 9
+5 	 0 	 NP[nb]/N 	 1 	 figure The
+5 	 1 	 N/N 	 1 	 figure fiscal
+5 	 2 	 N/N 	 1 	 figure 1989
+5 	 3 	 N/N 	 1 	 figure budget
+5 	 4 	 N/N 	 1 	 figure deficit
+5 	 6 	 S[dcl]\NP 	 1 	 figure came
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 came out
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 came Friday
+<\s>
+<s id="wsj_0623.2"> 5
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 It was
+0 	 2 	 (S[adj]\NP)/NP 	 1 	 It down <XB>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 down was
+4 	 2 	 (S[adj]\NP)/NP 	 2 	 little down
+4 	 3 	 NP[nb]/N 	 1 	 little a
+<\s>
+<s id="wsj_0623.3"> 19
+2 	 0 	 ((S\NP)/(S\NP))/N 	 3 	 time The
+2 	 1 	 N/N 	 1 	 time next
+3 	 4 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 1 	 you hear
+6 	 4 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 3 	 Member hear
+6 	 5 	 NP[nb]/N 	 1 	 Member a
+6 	 7 	 (NP\NP)/NP 	 1 	 Member of
+6 	 9 	 (S[b]\NP)/PP 	 1 	 Member moan <XB>
+8 	 7 	 (NP\NP)/NP 	 2 	 Congress of
+9 	 4 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 2 	 moan hear
+10 	 9 	 (S[b]\NP)/PP 	 2 	 about moan
+12 	 10 	 PP/NP 	 1 	 deficit about
+12 	 11 	 NP[nb]/N 	 1 	 deficit the
+14 	 0 	 ((S\NP)/(S\NP))/N 	 2 	 consider The
+15 	 14 	 (S[b]\NP)/NP 	 2 	 what consider
+15 	 17 	 (S[dcl]\NP)/NP 	 2 	 what did <XU>
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 Congress did
+17 	 15 	 NP/(S[dcl]/NP) 	 1 	 did what
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 did Friday
+<\s>
+<s id="wsj_0623.4"> 30
+1 	 0 	 NP[nb]/N 	 1 	 Senate The
+1 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Senate voted
+1 	 7 	 (S[b]\NP)/NP 	 1 	 Senate increase <XB>
+5 	 3 	 (S\NP)/(S\NP) 	 2 	 voted 84-6
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to voted
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 increase to
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 increase to
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+10 	 9 	 N/N[num] 	 1 	 124,000 $
+12 	 7 	 (S[b]\NP)/NP 	 2 	 ceiling increase
+12 	 11 	 NP[nb]/N 	 1 	 ceiling the
+12 	 13 	 (NP\NP)/NP 	 1 	 ceiling on
+15 	 13 	 (NP\NP)/NP 	 2 	 mortgages on
+15 	 14 	 N/N 	 1 	 mortgages insured
+15 	 16 	 (NP\NP)/NP 	 1 	 mortgages from
+18 	 16 	 (NP\NP)/NP 	 2 	 FHA from
+18 	 17 	 NP[nb]/N 	 1 	 FHA the
+18 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 FHA which
+18 	 21 	 (S[dcl]\NP)/NP 	 1 	 FHA lost <XB>
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 lost which
+21 	 29 	 (S\NP)\(S\NP) 	 2 	 lost year
+22 	 21 	 (S[dcl]\NP)/NP 	 2 	 $ lost
+22 	 25 	 (NP\NP)/NP 	 1 	 $ in
+24 	 22 	 N/N[num] 	 1 	 billion $
+24 	 23 	 N/N 	 1 	 billion 4.2
+27 	 25 	 (NP\NP)/NP 	 2 	 defaults in
+27 	 26 	 N/N 	 1 	 defaults loan
+29 	 28 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year last
+<\s>
+<s id="wsj_0623.5"> 23
+4 	 2 	 (S/S)/NP 	 2 	 vote by
+4 	 3 	 N/N 	 1 	 vote voice
+7 	 6 	 NP[nb]/N 	 1 	 Senate the
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 Senate voted
+8 	 0 	 S/S 	 1 	 voted Then
+8 	 2 	 (S/S)/NP 	 1 	 voted by
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 bill voted
+11 	 9 	 NP[nb]/N 	 1 	 bill a
+11 	 10 	 N/N 	 1 	 bill pork-barrel
+11 	 13 	 S[pss]\NP 	 1 	 bill approved <XB>
+11 	 19 	 (NP\NP)/NP 	 1 	 bill for
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 approved Thursday
+13 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 approved by
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 House by
+17 	 16 	 NP[nb]/N 	 1 	 House the
+22 	 19 	 (NP\NP)/NP 	 2 	 construction for
+22 	 20 	 N/N 	 1 	 construction domestic
+22 	 21 	 N/N 	 1 	 construction military
+<\s>
+<s id="wsj_0623.6"> 10
+3 	 0 	 ((S[b]\NP)/PP)/NP 	 3 	 request Compare
+3 	 1 	 NP[nb]/N 	 1 	 request the
+3 	 2 	 N/N 	 1 	 request Bush
+4 	 0 	 ((S[b]\NP)/PP)/NP 	 2 	 to Compare
+5 	 4 	 PP/NP 	 1 	 what to
+5 	 8 	 ((S[dcl]\NP)/NP)/NP 	 2 	 what gave <XU>
+7 	 6 	 NP[nb]/N 	 1 	 Senators the
+7 	 8 	 ((S[dcl]\NP)/NP)/NP 	 1 	 Senators gave
+8 	 5 	 NP/(S[dcl]/NP) 	 1 	 gave what
+9 	 8 	 ((S[dcl]\NP)/NP)/NP 	 3 	 themselves gave
+<\s>
+<s id="wsj_0623.7"> 22
+1 	 0 	 (S/S)/NP 	 2 	 construction For
+1 	 2 	 (NP\NP)/NP 	 1 	 construction in
+4 	 2 	 (NP\NP)/NP 	 2 	 Virginia in
+4 	 3 	 N/N 	 1 	 Virginia West
+7 	 6 	 N/N 	 1 	 Bush Mr.
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 Bush requested
+8 	 0 	 (S/S)/NP 	 1 	 requested For
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 $ requested
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 4.5
+13 	 14 	 ((S[dcl]\NP)/NP)/NP 	 1 	 Congress gave
+16 	 15 	 N/N 	 1 	 Byrd Senator
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 Byrd 's
+18 	 14 	 ((S[dcl]\NP)/NP)/NP 	 3 	 state gave
+18 	 17 	 (NP[nb]/N)\NP 	 1 	 state 's
+19 	 14 	 ((S[dcl]\NP)/NP)/NP 	 2 	 $ gave
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 21.5
+<\s>
+<s id="wsj_0623.8"> 8
+1 	 0 	 N/N 	 1 	 Byrd Senator
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Byrd is
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 chairman is
+3 	 4 	 (NP\NP)/NP 	 1 	 chairman of
+7 	 4 	 (NP\NP)/NP 	 2 	 Committee of
+7 	 5 	 NP[nb]/N 	 1 	 Committee the
+7 	 6 	 N/N 	 1 	 Committee Appropriations
+<\s>
+<s id="wsj_0623.9"> 24
+1 	 0 	 (S/S)/NP 	 2 	 Iowa For
+6 	 4 	 (N/N)/N[num] 	 2 	 million $
+6 	 5 	 N/N 	 1 	 million 1.8
+7 	 3 	 NP[nb]/N 	 1 	 request a
+7 	 4 	 (N/N)/N[num] 	 1 	 request $
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 request became
+8 	 0 	 (S/S)/NP 	 1 	 became For
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 $ became
+9 	 12 	 (NP\NP)/NP 	 1 	 $ for
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 12
+14 	 12 	 (NP\NP)/NP 	 2 	 Grassley for
+14 	 13 	 N/N 	 1 	 Grassley Senator
+18 	 12 	 (NP\NP)/NP 	 2 	 member for
+18 	 16 	 N/N 	 1 	 member ranking
+18 	 17 	 N/N 	 1 	 member minority
+18 	 19 	 (NP\NP)/NP 	 1 	 member of
+23 	 19 	 (NP\NP)/NP 	 2 	 subcommittee of
+23 	 20 	 NP[nb]/N 	 1 	 subcommittee a
+23 	 21 	 N/N 	 1 	 subcommittee military
+23 	 22 	 N/N 	 1 	 subcommittee construction
+<\s>
+<s id="wsj_0623.10"> 26
+2 	 0 	 N/N 	 1 	 Whitten Rep.
+2 	 1 	 N/N 	 1 	 Whitten Jamie
+2 	 3 	 (NP\NP)/NP 	 1 	 Whitten of
+2 	 6 	 NP\NP 	 1 	 Whitten chairman <XU>
+2 	 10 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Whitten turned
+4 	 3 	 (NP\NP)/NP 	 2 	 Mississippi of
+6 	 7 	 ((NP\NP)\(NP\NP))/NP 	 2 	 chairman of
+9 	 7 	 ((NP\NP)\(NP\NP))/NP 	 3 	 Appropriations of
+9 	 8 	 N/N 	 1 	 Appropriations House
+14 	 12 	 (N/N)/N[num] 	 2 	 million $
+14 	 13 	 N/N 	 1 	 million 20
+16 	 10 	 ((S[dcl]\NP)/PP)/NP 	 3 	 request turned
+16 	 11 	 NP[nb]/N 	 1 	 request a
+16 	 12 	 (N/N)/N[num] 	 1 	 request $
+16 	 15 	 N/N 	 1 	 request Bush
+16 	 17 	 (NP\NP)/NP 	 1 	 request for
+19 	 17 	 (NP\NP)/NP 	 2 	 state for
+19 	 18 	 NP[nb]/N 	 1 	 state his
+20 	 10 	 ((S[dcl]\NP)/PP)/NP 	 2 	 into turned
+24 	 22 	 (N/N)/N[num] 	 2 	 million $
+24 	 23 	 N/N 	 1 	 million 49.7
+25 	 20 	 PP/NP 	 1 	 bequest into
+25 	 21 	 NP[nb]/N 	 1 	 bequest a
+25 	 22 	 (N/N)/N[num] 	 1 	 bequest $
+<\s>
+<s id="wsj_0623.11"> 28
+1 	 0 	 N/N 	 1 	 Sasser Senator
+1 	 2 	 (NP\NP)/NP 	 1 	 Sasser of
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 Sasser is
+3 	 2 	 (NP\NP)/NP 	 2 	 Tennessee of
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 chairman is
+5 	 6 	 (NP\NP)/NP 	 1 	 chairman of
+9 	 6 	 (NP\NP)/NP 	 2 	 subcommittee of
+9 	 7 	 NP[nb]/N 	 1 	 subcommittee the
+9 	 8 	 N/N 	 1 	 subcommittee Appropriations
+9 	 10 	 (NP\NP)/NP 	 1 	 subcommittee on
+12 	 10 	 (NP\NP)/NP 	 2 	 construction on
+12 	 11 	 N/N 	 1 	 construction military
+15 	 14 	 N/N 	 1 	 Bush Mr.
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Bush 's
+19 	 17 	 (N/N)/N[num] 	 2 	 million $
+19 	 18 	 N/N 	 1 	 million 87
+20 	 16 	 (NP[nb]/N)\NP 	 1 	 request 's
+20 	 17 	 (N/N)/N[num] 	 1 	 request $
+20 	 21 	 (NP\NP)/NP 	 1 	 request for
+20 	 23 	 S[dcl]\NP 	 1 	 request increased
+22 	 21 	 (NP\NP)/NP 	 2 	 Tennessee for
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+27 	 25 	 N/N[num] 	 1 	 million $
+27 	 26 	 N/N 	 1 	 million 109
+<\s>
+<s id="wsj_0623.12"> 31
+2 	 0 	 (S/S)/NP 	 2 	 remark In
+2 	 1 	 NP[nb]/N 	 1 	 remark a
+2 	 5 	 (S[b]\NP)/NP 	 2 	 remark remember <XU>
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 someone should
+3 	 5 	 (S[b]\NP)/NP 	 1 	 someone remember <XB>
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 remember should
+5 	 6 	 ((S\NP)\(S\NP))/N 	 2 	 remember this
+6 	 9 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 this year
+7 	 6 	 ((S\NP)\(S\NP))/N 	 3 	 time this
+9 	 8 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/(((S\NP)\(S\NP))\((S\NP)\(S\NP))) 	 4 	 year next
+12 	 11 	 N/N 	 1 	 Sasser Senator
+12 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 Sasser said
+13 	 0 	 (S/S)/NP 	 1 	 said In
+15 	 16 	 (S[dcl]\NP)/S[dcl] 	 1 	 I think
+16 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 think said
+17 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 we 've
+17 	 19 	 (S[pt]\NP)/NP 	 1 	 we seen <XB>
+18 	 16 	 (S[dcl]\NP)/S[dcl] 	 2 	 've think
+19 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 seen 've
+21 	 19 	 (S[pt]\NP)/NP 	 2 	 peak seen
+21 	 20 	 NP[nb]/N 	 1 	 peak the
+21 	 22 	 (NP\NP)/NP 	 1 	 peak of
+21 	 26 	 (NP\NP)/NP 	 1 	 peak for
+25 	 22 	 (NP\NP)/NP 	 2 	 spending of
+25 	 23 	 N/N 	 1 	 spending military
+25 	 24 	 N/N 	 1 	 spending construction
+28 	 26 	 (NP\NP)/NP 	 2 	 years for
+28 	 27 	 N/N 	 1 	 years many
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 come to
+<\s>
+<s id="wsj_0623.13"> 5
+1 	 0 	 ((S[b]\NP)/PP)/NP 	 3 	 us Tell
+2 	 0 	 ((S[b]\NP)/PP)/NP 	 2 	 about Tell
+4 	 2 	 PP/NP 	 1 	 restraint about
+4 	 3 	 N/N 	 1 	 restraint spending
+<\s>
+<s id="wsj_0623.14"> 6
+1 	 0 	 ((S[b]\NP)/PP)/NP 	 3 	 us Tell
+2 	 0 	 ((S[b]\NP)/PP)/NP 	 2 	 about Tell
+5 	 2 	 PP/NP 	 1 	 scandals about
+5 	 3 	 NP[nb]/N 	 1 	 scandals the
+5 	 4 	 N/N 	 1 	 scandals HUD
+<\s>
+<s id="wsj_0623.15"> 16
+1 	 0 	 ((S[b]\NP)/S[qem])/NP 	 3 	 us Tell
+2 	 0 	 ((S[b]\NP)/S[qem])/NP 	 2 	 what Tell
+3 	 2 	 (S[qem]/(S[dcl]\NP))/N 	 2 	 measure what
+3 	 5 	 (S[adj]\NP)/PP 	 1 	 measure short <XB>
+3 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 measure will <XB>
+3 	 11 	 ((S[b]\NP)/PP)/NP 	 1 	 measure get <XB>
+6 	 5 	 (S[adj]\NP)/PP 	 2 	 of short
+8 	 6 	 PP/NP 	 1 	 arrest of
+8 	 7 	 N/N 	 1 	 arrest house
+10 	 2 	 (S[qem]/(S[dcl]\NP))/N 	 1 	 will what
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 get will
+13 	 11 	 ((S[b]\NP)/PP)/NP 	 3 	 Congress get
+13 	 12 	 NP[nb]/N 	 1 	 Congress this
+14 	 11 	 ((S[b]\NP)/PP)/NP 	 2 	 under get
+15 	 14 	 PP/NP 	 1 	 control under
+<\s>

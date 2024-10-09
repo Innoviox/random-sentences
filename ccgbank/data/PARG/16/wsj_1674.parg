@@ -1,0 +1,72 @@
+<s id="wsj_1674.1"> 33
+2 	 0 	 N/N 	 1 	 INC. MARK
+2 	 1 	 N/N 	 1 	 INC. RESOURCES
+2 	 4 	 NP\NP 	 1 	 INC. Calgary
+2 	 6 	 NP\NP 	 1 	 INC. Alberta <XU>
+2 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 INC. said
+9 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it agreed
+9 	 12 	 ((S[b]\NP)/PP)/NP 	 1 	 it sell <XB>
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 agreed said
+11 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+14 	 13 	 (N/N)/(N/N) 	 2 	 million 75
+16 	 12 	 ((S[b]\NP)/PP)/NP 	 3 	 dollars sell
+16 	 14 	 N/N 	 1 	 dollars million
+16 	 15 	 N/N 	 1 	 dollars Canadian
+16 	 17 	 (NP\NP)/NP 	 1 	 dollars -LRB-
+16 	 22 	 (NP\NP)/NP 	 1 	 dollars of
+18 	 17 	 (NP\NP)/NP 	 2 	 US$ -LRB-
+20 	 18 	 N/N[num] 	 1 	 million US$
+20 	 19 	 N/N 	 1 	 million 63.9
+24 	 23 	 (N/N)/(N/N) 	 2 	 % 8
+26 	 22 	 (NP\NP)/NP 	 2 	 debentures of
+26 	 24 	 N/N 	 1 	 debentures %
+26 	 25 	 N/N 	 1 	 debentures convertible
+27 	 12 	 ((S[b]\NP)/PP)/NP 	 2 	 to sell
+29 	 27 	 PP/NP 	 1 	 group to
+29 	 28 	 NP[nb]/N 	 1 	 group a
+29 	 30 	 (NP\NP)/NP 	 1 	 group of
+32 	 30 	 (NP\NP)/NP 	 2 	 dealers of
+32 	 31 	 N/N 	 1 	 dealers securities
+<\s>
+<s id="wsj_1674.2"> 44
+0 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Mark said
+3 	 2 	 NP[nb]/N 	 1 	 oil an
+3 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 oil said
+6 	 2 	 NP[nb]/N 	 1 	 concern an
+6 	 5 	 N/N 	 1 	 concern gas
+6 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 concern said
+11 	 9 	 NP[nb]/N 	 1 	 debentures the
+11 	 10 	 N/N 	 1 	 debentures 15-year
+11 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 debentures are
+11 	 13 	 (S[adj]\NP)/PP 	 1 	 debentures convertible <XB>
+11 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 debentures can <XU>
+11 	 28 	 S[pss]\NP 	 1 	 debentures redeemed <XU>
+12 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+13 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 convertible are
+13 	 14 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 convertible before
+15 	 14 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 maturity before
+16 	 13 	 (S[adj]\NP)/PP 	 2 	 at convertible
+17 	 16 	 PP/NP 	 1 	 C$ at
+17 	 19 	 (NP\NP)/NP 	 1 	 C$ for
+18 	 17 	 N/N[num] 	 1 	 12.50 C$
+23 	 19 	 (NP\NP)/NP 	 2 	 share for
+23 	 20 	 NP[nb]/N 	 1 	 share each
+23 	 21 	 N/N 	 1 	 share Mark
+23 	 22 	 N/N 	 1 	 share common
+26 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 can said
+27 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+28 	 27 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 redeemed be
+28 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 redeemed at
+28 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 redeemed under
+28 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 redeemed after
+31 	 30 	 NP[nb]/N 	 1 	 company the
+31 	 32 	 (NP[nb]/N)\NP 	 2 	 company 's
+33 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 option at
+33 	 32 	 (NP[nb]/N)\NP 	 1 	 option 's
+37 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 conditions under
+37 	 36 	 N/N 	 1 	 conditions certain
+40 	 39 	 ((S\NP)\(S\NP))/NP 	 3 	 Nov. after
+40 	 43 	 N\N 	 1 	 Nov. 1992
+41 	 40 	 N/N[num] 	 1 	 30 Nov.
+<\s>

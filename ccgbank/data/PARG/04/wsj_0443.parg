@@ -1,0 +1,576 @@
+<s id="wsj_0443.1"> 35
+2 	 0 	 NP[nb]/N 	 1 	 Athletics The
+2 	 1 	 N/N 	 1 	 Athletics Oakland
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Athletics '
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 sweep '
+5 	 4 	 N/N 	 1 	 sweep four-game
+5 	 6 	 (NP\NP)/NP 	 1 	 sweep over
+5 	 11 	 (NP\NP)/NP 	 1 	 sweep in
+5 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 sweep may
+5 	 16 	 (S[b]\NP)/NP 	 1 	 sweep widen <XB>
+10 	 6 	 (NP\NP)/NP 	 2 	 Giants over
+10 	 7 	 NP[nb]/N 	 1 	 Giants the
+10 	 8 	 N/N 	 1 	 Giants San
+10 	 9 	 N/N 	 1 	 Giants Francisco
+14 	 11 	 (NP\NP)/NP 	 2 	 Series in
+14 	 12 	 NP[nb]/N 	 1 	 Series the
+14 	 13 	 N/N 	 1 	 Series World
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 widen may
+18 	 16 	 (S[b]\NP)/NP 	 2 	 losses widen
+18 	 17 	 N/N 	 1 	 losses already-sizable
+18 	 19 	 (NP\NP)/(S[dcl]/NP) 	 1 	 losses that
+18 	 24 	 (S[b]\NP)/NP 	 2 	 losses incur <XU>
+22 	 20 	 NP[nb]/N 	 1 	 network the
+22 	 21 	 N/N 	 1 	 network ABC
+22 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 network will
+22 	 24 	 (S[b]\NP)/NP 	 1 	 network incur <XB>
+23 	 19 	 (NP\NP)/(S[dcl]/NP) 	 2 	 will that
+24 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 incur will
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 incur on
+30 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 year on
+30 	 26 	 NP[nb]/N 	 1 	 year the
+30 	 27 	 N/N 	 1 	 year current
+30 	 29 	 N/N 	 1 	 year final
+30 	 31 	 (NP\NP)/NP 	 1 	 year of
+34 	 31 	 (NP\NP)/NP 	 2 	 contract of
+34 	 32 	 NP[nb]/N 	 1 	 contract its
+34 	 33 	 N/N 	 1 	 contract baseball
+<\s>
+<s id="wsj_0443.2"> 45
+2 	 0 	 NP[nb]/N 	 1 	 Series The
+2 	 1 	 N/N 	 1 	 Series 1989
+2 	 4 	 S[pss]\NP 	 1 	 Series disrupted <XB>
+2 	 10 	 S[pss]\NP 	 1 	 Series diminished <XU>
+2 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Series is
+2 	 26 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Series likely <XB>
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 disrupted by
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 earthquake by
+8 	 6 	 NP[nb]/N 	 1 	 earthquake a
+8 	 7 	 N/N 	 1 	 earthquake devastating
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 diminished in
+10 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 diminished because
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 interest in
+13 	 12 	 N/N 	 1 	 interest national
+16 	 15 	 NP[nb]/N 	 1 	 teams both
+16 	 17 	 S[dcl]\NP 	 1 	 teams came
+17 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 came because
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 came from
+23 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 area from
+23 	 19 	 NP[nb]/N 	 1 	 area the
+23 	 20 	 N/N 	 1 	 area San
+23 	 21 	 N/N 	 1 	 area Francisco
+23 	 22 	 N/N 	 1 	 area Bay
+26 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely is
+27 	 26 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 end to
+28 	 29 	 (S\NP)\(S\NP) 	 2 	 end up
+30 	 28 	 (S[b]\NP)/PP 	 2 	 as end
+33 	 30 	 PP/NP 	 1 	 Series as
+33 	 31 	 NP[nb]/N 	 1 	 Series the
+33 	 32 	 N/N 	 1 	 Series lowest-rated
+33 	 34 	 (NP\NP)/NP 	 1 	 Series of
+33 	 38 	 NP\NP 	 1 	 Series probably <XU>
+36 	 34 	 (NP\NP)/NP 	 2 	 decade of
+36 	 35 	 NP[nb]/N 	 1 	 decade this
+38 	 39 	 ((NP\NP)\(NP\NP))/S[dcl] 	 2 	 probably since
+41 	 40 	 NP[nb]/N 	 1 	 event the
+41 	 42 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 event has
+41 	 44 	 S[pss]\NP 	 1 	 event broadcast <XB>
+42 	 39 	 ((NP\NP)\(NP\NP))/S[dcl] 	 3 	 has since
+43 	 42 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+44 	 43 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 broadcast been
+<\s>
+<s id="wsj_0443.3"> 30
+3 	 0 	 NP[nb]/N 	 1 	 games The
+3 	 1 	 N/N 	 1 	 games first
+3 	 2 	 N/N 	 1 	 games three
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 games were
+3 	 5 	 S[pss]\NP 	 1 	 games seen <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 seen were
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 seen by
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 average by
+8 	 7 	 NP[nb]/N 	 1 	 average an
+8 	 9 	 (NP\NP)/NP 	 1 	 average of
+11 	 10 	 (N/N)/(N/N) 	 2 	 17 only
+12 	 9 	 (NP\NP)/NP 	 2 	 % of
+12 	 11 	 N/N 	 1 	 % 17
+12 	 13 	 (NP\NP)/NP 	 1 	 % of
+15 	 13 	 (NP\NP)/NP 	 2 	 homes of
+15 	 14 	 N/N 	 1 	 homes U.S.
+19 	 9 	 (NP\NP)/NP 	 2 	 decline of
+19 	 17 	 NP[nb]/N 	 1 	 decline a
+19 	 18 	 N/N 	 1 	 decline sharp
+19 	 20 	 (NP\NP)/NP 	 1 	 decline from
+23 	 22 	 (N/N)/(N/N) 	 2 	 % 23.7
+24 	 20 	 (NP\NP)/NP 	 2 	 rating from
+24 	 21 	 NP[nb]/N 	 1 	 rating the
+24 	 23 	 N/N 	 1 	 rating %
+24 	 25 	 (NP\NP)/NP 	 1 	 rating for
+27 	 26 	 N/N 	 1 	 year last
+27 	 28 	 (NP[nb]/N)\NP 	 2 	 year 's
+29 	 25 	 (NP\NP)/NP 	 2 	 Series for
+29 	 28 	 (NP[nb]/N)\NP 	 1 	 Series 's
+<\s>
+<s id="wsj_0443.4"> 11
+3 	 0 	 NP[nb]/N 	 1 	 tally A
+3 	 1 	 N/N 	 1 	 tally final
+3 	 2 	 N/N 	 1 	 tally ratings
+3 	 4 	 (NP\NP)/NP 	 1 	 tally from
+3 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 tally is
+3 	 9 	 (S[adj]\NP)/NP 	 1 	 tally due <XB>
+7 	 4 	 (NP\NP)/NP 	 2 	 Co. from
+7 	 5 	 N/N 	 1 	 Co. A.C.
+7 	 6 	 N/N 	 1 	 Co. Nielsen
+9 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 due is
+10 	 9 	 (S[adj]\NP)/NP 	 2 	 today due
+<\s>
+<s id="wsj_0443.5"> 29
+1 	 0 	 NP[nb]/N 	 1 	 sweep The
+1 	 2 	 (NP\NP)/NP 	 1 	 sweep by
+1 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 sweep will
+1 	 18 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 sweep make <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 A's by
+4 	 3 	 NP[nb]/N 	 1 	 A's the
+4 	 6 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 A's whose
+10 	 6 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 hitters whose
+10 	 7 	 N/N 	 1 	 hitters pitchers
+10 	 9 	 N/N 	 1 	 hitters home-run
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 hitters dominated <XB>
+11 	 6 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 dominated whose
+14 	 11 	 (S[dcl]\NP)/NP 	 2 	 Giants dominated
+14 	 12 	 NP[nb]/N 	 1 	 Giants the
+14 	 13 	 N/N 	 1 	 Giants injury-prone
+18 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make will
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 make only
+19 	 18 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 things make
+19 	 20 	 (S[adj]\NP)/PP 	 1 	 things worse <XB>
+20 	 18 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 worse make
+21 	 20 	 (S[adj]\NP)/PP 	 2 	 for worse
+22 	 21 	 PP/NP 	 1 	 ABC for
+22 	 24 	 S[pss]\NP 	 1 	 ABC owned <XB>
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 owned by
+28 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 Inc by
+28 	 26 	 N/N 	 1 	 Inc Capital
+28 	 27 	 N/N 	 1 	 Inc Cities\/ABC
+<\s>
+<s id="wsj_0443.6"> 19
+1 	 0 	 NP[nb]/N 	 1 	 network The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 network had
+1 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 network expected <XB>
+1 	 6 	 (S[b]\NP)/NP 	 1 	 network have <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+4 	 3 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 expected been
+5 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+6 	 17 	 ((S\NP)\(S\NP))/N 	 2 	 have this
+7 	 6 	 (S[b]\NP)/NP 	 2 	 losses have
+7 	 8 	 (NP\NP)/NP 	 1 	 losses of
+7 	 15 	 (NP\NP)/NP 	 1 	 losses on
+9 	 8 	 (NP\NP)/NP 	 2 	 as of
+10 	 9 	 (N/PP)/(S[adj]\NP) 	 2 	 much as
+11 	 9 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+12 	 11 	 PP/NP 	 1 	 $ as
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 20
+16 	 15 	 (NP\NP)/NP 	 2 	 baseball on
+18 	 17 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+<\s>
+<s id="wsj_0443.7"> 15
+0 	 1 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 1 	 It is
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is n't
+3 	 1 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 3 	 clear is
+4 	 1 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 2 	 how is
+5 	 4 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 2 	 much how
+7 	 6 	 NP[nb]/N 	 1 	 losses those
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 losses may
+7 	 9 	 S[b]\NP 	 1 	 losses widen <XB>
+8 	 4 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 1 	 may how
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 widen may
+9 	 10 	 ((S\NP)\(S\NP))/PP 	 2 	 widen because
+11 	 10 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+14 	 11 	 PP/NP 	 1 	 Series of
+14 	 12 	 NP[nb]/N 	 1 	 Series the
+14 	 13 	 N/N 	 1 	 Series short
+<\s>
+<s id="wsj_0443.8"> 40
+2 	 0 	 ((S/S)/(S[pt]\NP))/NP 	 3 	 contest Had
+2 	 1 	 NP[nb]/N 	 1 	 contest the
+2 	 3 	 (S[pt]\NP)/NP 	 1 	 contest gone <XB>
+3 	 0 	 ((S/S)/(S[pt]\NP))/NP 	 2 	 gone Had
+7 	 3 	 (S[pt]\NP)/NP 	 2 	 games gone
+7 	 4 	 NP[nb]/N 	 1 	 games a
+7 	 5 	 N/N 	 1 	 games full
+7 	 6 	 N/N 	 1 	 games seven
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 ABC could
+9 	 12 	 ((S[pt]\NP)/PP)/NP 	 1 	 ABC reaped <XB>
+10 	 0 	 ((S/S)/(S[pt]\NP))/NP 	 1 	 could Had
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have could
+12 	 11 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 reaped have
+12 	 27 	 ((S\NP)\(S\NP))/PP 	 2 	 reaped compared
+15 	 12 	 ((S[pt]\NP)/PP)/NP 	 3 	 $ reaped
+15 	 13 	 NP[nb]/N 	 1 	 $ an
+15 	 14 	 N/N 	 1 	 $ extra
+15 	 18 	 (NP\NP)/NP 	 1 	 $ in
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 10
+20 	 18 	 (NP\NP)/NP 	 2 	 sales in
+20 	 19 	 N/N 	 1 	 sales ad
+21 	 12 	 ((S[pt]\NP)/PP)/NP 	 2 	 on reaped
+24 	 21 	 PP/NP 	 1 	 game on
+24 	 22 	 NP[nb]/N 	 1 	 game the
+24 	 23 	 N/N 	 1 	 game seventh
+24 	 25 	 NP\NP 	 1 	 game alone
+28 	 27 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+31 	 28 	 PP/NP 	 1 	 take with
+31 	 29 	 NP[nb]/N 	 1 	 take the
+31 	 30 	 N/N 	 1 	 take ad
+31 	 35 	 ((S[pt]\NP)/PP)/NP 	 3 	 take received <XU>
+32 	 33 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+32 	 35 	 ((S[pt]\NP)/PP)/NP 	 1 	 it received <XB>
+34 	 33 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+35 	 34 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 received have
+36 	 35 	 ((S[pt]\NP)/PP)/NP 	 2 	 for received
+39 	 36 	 PP/NP 	 1 	 shows for
+39 	 37 	 N/N 	 1 	 shows regular
+39 	 38 	 N/N 	 1 	 shows prime-time
+<\s>
+<s id="wsj_0443.9"> 11
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 ABC had
+0 	 2 	 ((S[pt]\NP)/PP)/NP 	 1 	 ABC based <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 based had
+4 	 2 	 ((S[pt]\NP)/PP)/NP 	 3 	 budget based
+4 	 3 	 NP[nb]/N 	 1 	 budget its
+4 	 5 	 (NP\NP)/NP 	 1 	 budget for
+6 	 5 	 (NP\NP)/NP 	 2 	 baseball for
+7 	 2 	 ((S[pt]\NP)/PP)/NP 	 2 	 on based
+10 	 7 	 PP/NP 	 1 	 Series on
+10 	 8 	 NP[nb]/N 	 1 	 Series a
+10 	 9 	 N/N 	 1 	 Series six-game
+<\s>
+<s id="wsj_0443.10"> 15
+2 	 0 	 NP[nb]/N 	 1 	 spokesman A
+2 	 1 	 N/N 	 1 	 spokesman network
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 spokesman would
+2 	 5 	 S[b]\NP 	 1 	 spokesman comment <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 would n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 comment would
+10 	 8 	 N/N 	 1 	 officials ABC
+10 	 9 	 N/N 	 1 	 officials Sports
+10 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 officials declined
+10 	 14 	 S[pss]\NP 	 1 	 officials interviewed <XB>
+12 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+14 	 13 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 interviewed be
+<\s>
+<s id="wsj_0443.11"> 32
+3 	 1 	 NP[nb]/N 	 1 	 executives some
+3 	 2 	 N/N 	 1 	 executives industry
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 executives said
+4 	 0 	 S/S 	 1 	 said But
+5 	 14 	 (S[dcl]\NP)/NP 	 1 	 ABC limited
+5 	 18 	 (S[ng]\NP)/NP 	 1 	 ABC jacking <XB>
+8 	 7 	 ((S\NP)/(S\NP))/NP 	 3 	 anticipation in
+8 	 9 	 (NP\NP)/NP 	 1 	 anticipation of
+12 	 9 	 (NP\NP)/NP 	 2 	 sweep of
+12 	 10 	 NP[nb]/N 	 1 	 sweep a
+12 	 11 	 N/N 	 1 	 sweep four-game
+14 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 limited said
+14 	 7 	 ((S\NP)/(S\NP))/NP 	 2 	 limited in
+14 	 17 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 limited by
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 losses limited
+16 	 15 	 NP[nb]/N 	 1 	 losses its
+18 	 17 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 jacking by
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 jacking up
+21 	 18 	 (S[ng]\NP)/NP 	 2 	 number jacking
+21 	 20 	 NP[nb]/N 	 1 	 number the
+21 	 22 	 (NP\NP)/NP 	 1 	 number of
+21 	 25 	 (S[dcl]\NP)/NP 	 2 	 number aired <XU>
+23 	 22 	 (NP\NP)/NP 	 2 	 commercials of
+24 	 25 	 (S[dcl]\NP)/NP 	 1 	 it aired
+25 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 aired in
+31 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 games in
+31 	 27 	 NP[nb]/N 	 1 	 games the
+31 	 28 	 N/N 	 1 	 games third <XU>
+31 	 30 	 N/N 	 1 	 games fourth
+<\s>
+<s id="wsj_0443.12"> 27
+3 	 0 	 NP[nb]/N 	 1 	 telecast A
+3 	 1 	 N/N 	 1 	 telecast World
+3 	 2 	 N/N 	 1 	 telecast Series
+3 	 5 	 (S[dcl]\NP)/NP 	 1 	 telecast carries
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 carries typically
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 commercials carries
+8 	 6 	 N/N 	 1 	 commercials 56
+8 	 7 	 N/N 	 1 	 commercials 30-second
+14 	 11 	 (S/S)/NP 	 2 	 game by
+14 	 12 	 NP[nb]/N 	 1 	 game the
+14 	 13 	 N/N 	 1 	 game fourth
+15 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 ABC was
+15 	 17 	 (S[ng]\NP)/NP 	 1 	 ABC cramming <XB>
+15 	 24 	 (S[b]\NP)/NP 	 1 	 ABC generate <XB>
+16 	 11 	 (S/S)/NP 	 1 	 was by
+17 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 cramming was
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 cramming in
+19 	 20 	 ((N/N)\(N/N))/(N/N) 	 2 	 60 to
+21 	 20 	 ((N/N)\(N/N))/(N/N) 	 3 	 62 to
+22 	 17 	 (S[ng]\NP)/NP 	 2 	 ads cramming
+22 	 19 	 N/N 	 1 	 ads 60
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 generate to
+26 	 24 	 (S[b]\NP)/NP 	 2 	 revenue generate
+26 	 25 	 N/N 	 1 	 revenue extra
+<\s>
+<s id="wsj_0443.13"> 33
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 ABC 's
+3 	 1 	 (NP[nb]/N)\NP 	 1 	 experience 's
+3 	 2 	 N/N 	 1 	 experience baseball
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 experience may
+3 	 5 	 (S[b]\NP)/PP 	 1 	 experience be <XB>
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+6 	 5 	 (S[b]\NP)/PP 	 2 	 of be
+7 	 6 	 PP/NP 	 1 	 interest of
+7 	 8 	 (NP\NP)/NP 	 1 	 interest to
+10 	 8 	 (NP\NP)/NP 	 2 	 Inc. to
+10 	 9 	 N/N 	 1 	 Inc. CBS
+10 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Inc. which
+10 	 15 	 (S[dcl]\NP)/NP 	 1 	 Inc. takes <XB>
+14 	 13 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 season next
+15 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 takes which
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 takes season
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 takes over
+15 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 takes in
+18 	 15 	 (S[dcl]\NP)/NP 	 2 	 broadcasting takes
+18 	 17 	 NP[nb]/N 	 1 	 broadcasting the
+18 	 19 	 (NP\NP)/NP 	 1 	 broadcasting of
+22 	 19 	 (NP\NP)/NP 	 2 	 playoffs of
+22 	 20 	 NP[nb]/N 	 1 	 playoffs all
+22 	 21 	 N/N 	 1 	 playoffs baseball
+27 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 contract in
+27 	 24 	 NP[nb]/N 	 1 	 contract a
+27 	 25 	 N/N 	 1 	 contract four-year
+27 	 26 	 N/N 	 1 	 contract television
+27 	 28 	 (S[pss]\NP)/PP 	 1 	 contract priced <XB>
+29 	 28 	 (S[pss]\NP)/PP 	 2 	 at priced
+30 	 29 	 PP/NP 	 1 	 $ at
+32 	 30 	 N/N[num] 	 1 	 billion $
+32 	 31 	 N/N 	 1 	 billion 1.06
+<\s>
+<s id="wsj_0443.14"> 18
+4 	 0 	 N/N 	 1 	 Pilson CBS
+4 	 1 	 N/N 	 1 	 Pilson Sports
+4 	 2 	 N/N 	 1 	 Pilson President
+4 	 3 	 N/N 	 1 	 Pilson Neal
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Pilson has
+4 	 6 	 (S[pt]\NP)/S[em] 	 1 	 Pilson conceded <XB>
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 conceded has
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 conceded only
+8 	 6 	 (S[pt]\NP)/S[em] 	 2 	 that conceded
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 CBS will
+9 	 11 	 (S[b]\NP)/NP 	 1 	 CBS have <XB>
+10 	 8 	 S[em]/S[dcl] 	 1 	 will that
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+11 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 have in
+13 	 11 	 (S[b]\NP)/NP 	 2 	 loss have
+13 	 12 	 NP[nb]/N 	 1 	 loss a
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 year in
+17 	 15 	 NP[nb]/N 	 1 	 year the
+17 	 16 	 N/N 	 1 	 year first
+<\s>
+<s id="wsj_0443.15"> 28
+3 	 1 	 N/N 	 1 	 executives other
+3 	 2 	 N/N 	 1 	 executives industry
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 executives contend
+4 	 0 	 S/S 	 1 	 contend But
+6 	 5 	 NP[nb]/N 	 1 	 losses the
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 losses could
+6 	 8 	 (S[b]\NP)/NP 	 1 	 losses reach <XB>
+6 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 losses could <XU>
+6 	 17 	 S[b]\NP 	 1 	 losses go <XU>
+7 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 could contend
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reach could
+9 	 8 	 (S[b]\NP)/NP 	 2 	 $ reach
+9 	 12 	 (NP\NP)/NP 	 1 	 $ over
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 250
+14 	 12 	 (NP\NP)/NP 	 2 	 years over
+14 	 13 	 N/N 	 1 	 years four
+16 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 could contend
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go could
+17 	 19 	 (S\NP)\(S\NP) 	 2 	 go higher
+17 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 go if
+19 	 18 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 higher even
+23 	 21 	 NP[nb]/N 	 1 	 Series the
+23 	 22 	 N/N 	 1 	 Series World
+23 	 24 	 S[dcl]\NP 	 1 	 Series end
+24 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 end if
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 end in
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 romps in
+27 	 26 	 N/N 	 1 	 romps four-game
+<\s>
+<s id="wsj_0443.16"> 11
+1 	 0 	 NP[nb]/N 	 1 	 Series The
+1 	 3 	 (S[dcl]\NP)/PP 	 1 	 Series is
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 is typically
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 among is
+8 	 4 	 PP/NP 	 1 	 events among
+8 	 5 	 NP[nb]/N 	 1 	 events the
+8 	 6 	 N/N 	 1 	 events highest-rated
+8 	 7 	 N/N 	 1 	 events sports
+8 	 9 	 (NP\NP)/NP 	 1 	 events on
+10 	 9 	 (NP\NP)/NP 	 2 	 television on
+<\s>
+<s id="wsj_0443.17"> 46
+1 	 0 	 N/N 	 1 	 year Last
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 year 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 series 's
+3 	 5 	 S[pss]\NP 	 1 	 series broadcast <XB>
+3 	 13 	 (S[dcl]\NP)/NP 	 1 	 series was
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 broadcast by
+9 	 7 	 N/N 	 1 	 Co. General
+9 	 8 	 N/N 	 1 	 Co. Electric
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Co. 's
+11 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 NBC by
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 NBC 's
+16 	 13 	 (S[dcl]\NP)/NP 	 2 	 Series was
+16 	 14 	 NP[nb]/N 	 1 	 Series the
+16 	 15 	 N/N 	 1 	 Series lowest-rated
+16 	 17 	 (NP\NP)/NP 	 1 	 Series in
+19 	 17 	 (NP\NP)/NP 	 2 	 years in
+19 	 18 	 N/N 	 1 	 years four
+22 	 21 	 (S/S)/PP 	 2 	 of instead
+23 	 22 	 PP/(S[ng]\NP) 	 1 	 featuring of
+28 	 23 	 (S[ng]\NP)/NP 	 2 	 team featuring
+28 	 24 	 NP[nb]/N 	 1 	 team a
+28 	 25 	 N/N 	 1 	 team major
+28 	 26 	 N/N 	 1 	 team East
+28 	 27 	 N/N 	 1 	 team Coast
+28 	 29 	 (NP\NP)/NP 	 1 	 team against
+33 	 29 	 (NP\NP)/NP 	 2 	 team against
+33 	 30 	 NP[nb]/N 	 1 	 team a
+33 	 31 	 N/N 	 1 	 team West
+33 	 32 	 N/N 	 1 	 team Coast
+35 	 36 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it pitted
+36 	 21 	 (S/S)/PP 	 1 	 pitted instead
+40 	 36 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Dodgers pitted
+40 	 37 	 NP[nb]/N 	 1 	 Dodgers the
+40 	 38 	 N/N 	 1 	 Dodgers Los
+40 	 39 	 N/N 	 1 	 Dodgers Angeles
+41 	 36 	 ((S[dcl]\NP)/PP)/NP 	 2 	 against pitted
+45 	 41 	 PP/NP 	 1 	 A's against
+45 	 42 	 NP[nb]/N 	 1 	 A's the
+45 	 43 	 N/N 	 1 	 A's losing
+45 	 44 	 N/N 	 1 	 A's Oakland
+<\s>
+<s id="wsj_0443.18"> 15
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 ABC 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 hurdle 's
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 hurdle was
+2 	 5 	 S[adj]\NP 	 1 	 hurdle higher <XB>
+3 	 6 	 ((S\NP)\(S\NP))/N 	 2 	 was this
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 was with
+5 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 higher was
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 higher even
+7 	 6 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 teams with
+10 	 9 	 N/N 	 1 	 teams two
+10 	 11 	 (NP\NP)/NP 	 1 	 teams from
+14 	 11 	 (NP\NP)/NP 	 2 	 area from
+14 	 12 	 NP[nb]/N 	 1 	 area the
+14 	 13 	 N/N 	 1 	 area same
+<\s>
+<s id="wsj_0443.19"> 25
+1 	 0 	 NP[nb]/N 	 1 	 Series The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 Series got
+2 	 8 	 ((S\NP)\(S\NP))/N[num] 	 2 	 got Oct.
+2 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 got with
+4 	 2 	 (S[dcl]\NP)/PP 	 2 	 to got
+4 	 3 	 PP/PP 	 1 	 to off
+7 	 4 	 PP/NP 	 1 	 start to
+7 	 5 	 NP[nb]/N 	 1 	 start a
+7 	 6 	 N/N 	 1 	 start lukewarm
+9 	 8 	 ((S\NP)\(S\NP))/N[num] 	 3 	 14 Oct.
+13 	 12 	 (N/N)/(N/N) 	 2 	 % 16.2
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 rating with
+14 	 11 	 NP[nb]/N 	 1 	 rating a
+14 	 13 	 N/N 	 1 	 rating %
+18 	 16 	 (S/S)/N 	 2 	 night the
+18 	 17 	 N/N 	 1 	 night next
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 it drew
+20 	 16 	 (S/S)/N 	 1 	 drew the
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 % drew
+22 	 21 	 N/N 	 1 	 % 17.4
+22 	 23 	 (NP\NP)/NP 	 1 	 % of
+24 	 23 	 (NP\NP)/NP 	 2 	 homes of
+<\s>
+<s id="wsj_0443.20"> 11
+1 	 0 	 S/S 	 1 	 came Then
+3 	 1 	 S[dcl]/NP 	 1 	 earthquake came
+3 	 2 	 NP[nb]/N 	 1 	 earthquake the
+7 	 1 	 S[dcl]/NP 	 1 	 delay came
+7 	 5 	 NP[nb]/N 	 1 	 delay a
+7 	 6 	 N/N 	 1 	 delay damaging
+7 	 8 	 (NP\NP)/NP 	 1 	 delay of
+10 	 8 	 (NP\NP)/NP 	 2 	 days of
+10 	 9 	 N/N 	 1 	 days 11
+<\s>
+<s id="wsj_0443.21"> 24
+1 	 0 	 NP[nb]/N 	 1 	 people Some
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 people had
+1 	 3 	 (S[pt]\NP)/S[dcl] 	 1 	 people hoped <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 hoped had
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 ABC 's
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 ratings 's
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 ratings would
+6 	 8 	 S[b]\NP 	 1 	 ratings go <XB>
+7 	 3 	 (S[pt]\NP)/S[dcl] 	 2 	 would hoped
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go would
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 go up
+8 	 10 	 ((S\NP)\(S\NP))/PP 	 2 	 go because
+11 	 10 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+14 	 11 	 PP/NP 	 1 	 focus of
+14 	 12 	 NP[nb]/N 	 1 	 focus the
+14 	 13 	 N/N 	 1 	 focus intense
+14 	 15 	 (NP\NP)/NP 	 1 	 focus on
+14 	 18 	 (NP\NP)/NP 	 1 	 focus in
+17 	 15 	 (NP\NP)/NP 	 2 	 event on
+17 	 16 	 NP[nb]/N 	 1 	 event the
+20 	 18 	 (NP\NP)/NP 	 2 	 aftermath in
+20 	 19 	 NP[nb]/N 	 1 	 aftermath the
+20 	 21 	 (NP\NP)/NP 	 1 	 aftermath of
+23 	 21 	 (NP\NP)/NP 	 2 	 earthquake of
+23 	 22 	 NP[nb]/N 	 1 	 earthquake the
+<\s>
+<s id="wsj_0443.22"> 16
+1 	 0 	 NP[nb]/N 	 1 	 analyst An
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 analyst 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 opinion 's
+3 	 4 	 (NP\NP)/NP 	 1 	 opinion to
+3 	 8 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 1 	 opinion sent
+6 	 4 	 (NP\NP)/NP 	 2 	 effect to
+6 	 5 	 NP[nb]/N 	 1 	 effect that
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 sent even
+8 	 15 	 ((S\NP)\(S\NP))\NP 	 2 	 sent ago
+11 	 8 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 3 	 shares sent
+11 	 9 	 N/N 	 1 	 shares Capital
+11 	 10 	 N/N 	 1 	 shares Cities\/ABC
+11 	 12 	 S[ng]\NP 	 1 	 shares soaring <XB>
+12 	 8 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 2 	 soaring sent
+14 	 13 	 N/N 	 1 	 weeks two
+14 	 15 	 ((S\NP)\(S\NP))\NP 	 3 	 weeks ago
+<\s>
+<s id="wsj_0443.23"> 4
+1 	 3 	 S[dcl]\NP 	 1 	 interest decreased
+3 	 0 	 S/S 	 1 	 decreased But
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 decreased instead
+<\s>
+<s id="wsj_0443.24"> 13
+2 	 0 	 NP[nb]/N 	 1 	 game The
+2 	 1 	 N/N 	 1 	 game third
+2 	 6 	 NP\NP 	 1 	 game night
+2 	 8 	 (S[dcl]\NP)/NP 	 1 	 game drew
+6 	 4 	 (NP\NP)/(NP\NP) 	 2 	 night last
+6 	 5 	 (NP\NP)/(NP\NP) 	 2 	 night Friday
+12 	 8 	 (S[dcl]\NP)/NP 	 2 	 rating drew
+12 	 9 	 NP[nb]/N 	 1 	 rating a
+12 	 10 	 N/N 	 1 	 rating disappointing
+12 	 11 	 N/N 	 1 	 rating 17.5
+<\s>

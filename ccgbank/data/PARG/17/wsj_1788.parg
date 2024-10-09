@@ -1,0 +1,95 @@
+<s id="wsj_1788.1"> 36
+3 	 0 	 NP[nb]/N 	 1 	 Bank The
+3 	 1 	 N/N 	 1 	 Bank U.S.
+3 	 2 	 N/N 	 1 	 Bank Export-Import
+3 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Bank decided
+3 	 7 	 (S[b]\NP)/NP 	 1 	 Bank guarantee <XB>
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 decided tentatively
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to decided
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 guarantee to
+10 	 7 	 (S[b]\NP)/NP 	 2 	 financing guarantee
+10 	 8 	 N/N 	 1 	 financing commercial
+10 	 9 	 N/N 	 1 	 financing bank
+10 	 11 	 (NP\NP)/NP 	 1 	 financing for
+13 	 11 	 (NP\NP)/NP 	 2 	 purchase for
+13 	 12 	 NP[nb]/N 	 1 	 purchase the
+13 	 14 	 (NP\NP)/NP 	 1 	 purchase of
+13 	 20 	 (NP\NP)/NP 	 1 	 purchase by
+13 	 28 	 (NP\NP)/NP 	 1 	 purchase at
+19 	 14 	 (NP\NP)/NP 	 2 	 airliners of
+19 	 15 	 N/N 	 1 	 airliners two
+19 	 16 	 N/N 	 1 	 airliners Boeing
+19 	 17 	 N/N 	 1 	 airliners Co.
+19 	 18 	 N/N 	 1 	 airliners 767
+21 	 20 	 (NP\NP)/NP 	 2 	 Avianca by
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 Colombia 's
+26 	 20 	 (NP\NP)/NP 	 2 	 airline by
+26 	 24 	 (NP[nb]/N)\NP 	 1 	 airline 's
+26 	 25 	 N/N 	 1 	 airline international
+30 	 28 	 (NP\NP)/NP 	 2 	 cost at
+30 	 29 	 NP[nb]/N 	 1 	 cost a
+30 	 31 	 (NP\NP)/NP 	 1 	 cost of
+33 	 31 	 (NP\NP)/NP 	 2 	 $ of
+33 	 32 	 N/N 	 1 	 $ about
+35 	 33 	 N/N[num] 	 1 	 million $
+35 	 34 	 N/N 	 1 	 million 150
+<\s>
+<s id="wsj_1788.2"> 20
+2 	 0 	 NP[nb]/N 	 1 	 guarantee The
+2 	 1 	 N/N 	 1 	 guarantee loan
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 guarantee would
+2 	 4 	 (S[b]\NP)/PP 	 1 	 guarantee amount <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 amount would
+5 	 4 	 (S[b]\NP)/PP 	 2 	 to amount
+7 	 5 	 PP/NP 	 1 	 $ to
+7 	 6 	 N/N 	 1 	 $ about
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 127.5
+13 	 5 	 PP/NP 	 1 	 % to
+13 	 12 	 N/N 	 1 	 % 85
+13 	 14 	 (NP\NP)/NP 	 1 	 % of
+16 	 14 	 (NP\NP)/NP 	 2 	 cost of
+16 	 15 	 NP[nb]/N 	 1 	 cost the
+16 	 17 	 (NP\NP)/NP 	 1 	 cost of
+19 	 17 	 (NP\NP)/NP 	 2 	 aircraft of
+19 	 18 	 NP[nb]/N 	 1 	 aircraft the
+<\s>
+<s id="wsj_1788.3"> 27
+1 	 0 	 (S/S)/PP 	 2 	 of Because
+3 	 1 	 PP/NP 	 1 	 size of
+3 	 2 	 NP[nb]/N 	 1 	 size the
+3 	 4 	 (NP\NP)/NP 	 1 	 size of
+8 	 4 	 (NP\NP)/NP 	 2 	 guarantee of
+8 	 5 	 NP[nb]/N 	 1 	 guarantee the
+8 	 6 	 N/N 	 1 	 guarantee proposed
+8 	 7 	 N/N 	 1 	 guarantee loan
+12 	 10 	 NP[nb]/N 	 1 	 Bank the
+12 	 11 	 N/N 	 1 	 Bank Ex-Im
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Bank 's
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 commitment 's
+15 	 14 	 N/N 	 1 	 commitment preliminary
+15 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 commitment is
+15 	 17 	 (S[adj]\NP)/PP 	 1 	 commitment subject <XB>
+16 	 0 	 (S/S)/PP 	 1 	 is Because
+17 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 subject is
+18 	 17 	 (S[adj]\NP)/PP 	 2 	 to subject
+19 	 18 	 PP/(S[b]\NP) 	 1 	 review to
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 review by
+26 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 committees by
+26 	 21 	 NP[nb]/N 	 1 	 committees the
+26 	 22 	 N/N 	 1 	 committees House
+26 	 24 	 N/N 	 1 	 committees Senate
+26 	 25 	 N/N 	 1 	 committees Banking
+<\s>
+<s id="wsj_1788.4"> 11
+2 	 0 	 N/N 	 1 	 officials Ex-Im
+2 	 1 	 N/N 	 1 	 officials Bank
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 officials said
+6 	 4 	 NP[nb]/N 	 1 	 process this
+6 	 5 	 N/N 	 1 	 process review
+6 	 8 	 (S[dcl]\NP)/PP 	 1 	 process is
+8 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 is currently
+9 	 8 	 (S[dcl]\NP)/PP 	 2 	 under is
+10 	 9 	 PP/NP 	 1 	 way under
+<\s>

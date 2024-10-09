@@ -1,0 +1,527 @@
+<s id="wsj_2023.1"> 27
+2 	 0 	 N/N 	 1 	 Corp. L.J.
+2 	 1 	 N/N 	 1 	 Corp. Hooker
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Corp. is
+2 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Corp. expected <XB>
+2 	 6 	 (S[b]\NP)/NP 	 1 	 Corp. reach <XB>
+3 	 21 	 (S[dcl]\S[dcl])/NP 	 1 	 is say
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+5 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reach to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 agreement reach
+8 	 7 	 NP[nb]/N 	 1 	 agreement an
+8 	 9 	 (NP\NP)/NP 	 1 	 agreement in
+8 	 11 	 (NP\NP)/N 	 1 	 agreement this
+10 	 9 	 (NP\NP)/NP 	 2 	 principle in
+12 	 11 	 (NP\NP)/N 	 2 	 week this
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+17 	 14 	 ((S[b]\NP)/PP)/NP 	 3 	 Inc. sell
+17 	 15 	 N/N 	 1 	 Inc. Merksamer
+17 	 16 	 N/N 	 1 	 Inc. Jewelers
+18 	 14 	 ((S[b]\NP)/PP)/NP 	 2 	 to sell
+19 	 18 	 PP/NP 	 1 	 management to
+22 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 executives say
+22 	 23 	 S[adj]\NP 	 1 	 executives familiar <XB>
+23 	 24 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 familiar with
+26 	 24 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 talks with
+26 	 25 	 NP[nb]/N 	 1 	 talks the
+<\s>
+<s id="wsj_2023.2"> 16
+1 	 0 	 N/N 	 1 	 Hooker L.J.
+1 	 3 	 S[pss]\NP 	 1 	 Hooker based <XB>
+1 	 7 	 (S[dcl]\NP)/PP 	 1 	 Hooker filed
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Atlanta in
+7 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 filed earlier
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 for filed
+12 	 8 	 PP/NP 	 1 	 protection for
+12 	 9 	 N/N 	 1 	 protection Chapter
+12 	 10 	 N/N 	 1 	 protection 11
+12 	 11 	 N/N 	 1 	 protection bankruptcy
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 year earlier
+15 	 14 	 NP[nb]/N 	 1 	 year this
+<\s>
+<s id="wsj_2023.3"> 20
+4 	 2 	 NP[nb]/N 	 1 	 company its
+4 	 3 	 N/N 	 1 	 company parent
+4 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 company is
+4 	 14 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 company being <XB>
+4 	 15 	 S[pss]\NP 	 1 	 company managed <XB>
+7 	 6 	 N/N 	 1 	 Corp. Hooker
+7 	 8 	 (NP\NP)/NP 	 1 	 Corp. of
+7 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Corp. is
+7 	 14 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 Corp. being <XB>
+7 	 15 	 S[pss]\NP 	 1 	 Corp. managed <XB>
+9 	 8 	 (NP\NP)/NP 	 2 	 Sydney of
+11 	 8 	 (NP\NP)/NP 	 2 	 Australia of
+13 	 0 	 S/S 	 1 	 is Currently
+14 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being is
+15 	 14 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 managed being
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 managed by
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 liquidator by
+19 	 17 	 NP[nb]/N 	 1 	 liquidator a
+19 	 18 	 N/N 	 1 	 liquidator court-appointed
+<\s>
+<s id="wsj_2023.4"> 35
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 It is
+0 	 2 	 (S[pss]\NP)/S[em] 	 1 	 It expected <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+3 	 2 	 (S[pss]\NP)/S[em] 	 2 	 that expected
+6 	 4 	 N/N 	 1 	 Corp. GE
+6 	 5 	 N/N 	 1 	 Corp. Capital
+6 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Corp. will
+6 	 17 	 (S[b]\NP)/NP 	 1 	 Corp. provide <XB>
+10 	 8 	 NP[nb]/N 	 1 	 subsidiary a
+10 	 9 	 N/N 	 1 	 subsidiary financial-services
+10 	 11 	 (NP\NP)/NP 	 1 	 subsidiary of
+10 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 subsidiary will
+10 	 17 	 (S[b]\NP)/NP 	 1 	 subsidiary provide <XB>
+14 	 11 	 (NP\NP)/NP 	 2 	 Co. of
+14 	 12 	 N/N 	 1 	 Co. General
+14 	 13 	 N/N 	 1 	 Co. Electric
+16 	 3 	 S[em]/S[dcl] 	 1 	 will that
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 provide will
+19 	 18 	 (NP/NP)/(NP/NP) 	 2 	 of much
+21 	 17 	 (S[b]\NP)/NP 	 2 	 funding provide
+21 	 19 	 NP/NP 	 1 	 funding of
+21 	 20 	 NP[nb]/N 	 1 	 funding the
+21 	 22 	 (NP\NP)/NP 	 1 	 funding for
+26 	 22 	 (NP\NP)/NP 	 2 	 buy-out for
+26 	 23 	 NP[nb]/N 	 1 	 buy-out the
+26 	 24 	 N/N 	 1 	 buy-out proposed
+26 	 25 	 N/N 	 1 	 buy-out leveraged
+26 	 27 	 (NP\NP)/NP 	 1 	 buy-out of
+28 	 27 	 (NP\NP)/NP 	 2 	 Merksamer of
+28 	 30 	 S[pss]\NP 	 1 	 Merksamer based <XB>
+30 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+32 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 Sacramento in
+34 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 Calif in
+<\s>
+<s id="wsj_2023.5"> 8
+1 	 0 	 NP[nb]/N 	 1 	 spokesman A
+1 	 2 	 (NP\NP)/NP 	 1 	 spokesman for
+1 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 spokesman declined
+1 	 7 	 S[b]\NP 	 1 	 spokesman comment <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 Capital for
+4 	 3 	 N/N 	 1 	 Capital GE
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+<\s>
+<s id="wsj_2023.6"> 9
+1 	 0 	 N/N 	 1 	 Capital GE
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Capital has
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 relationship has
+5 	 3 	 NP[nb]/N 	 1 	 relationship a
+5 	 4 	 N/N 	 1 	 relationship working
+5 	 6 	 (NP\NP)/NP 	 1 	 relationship with
+8 	 6 	 (NP\NP)/NP 	 2 	 Hooker with
+8 	 7 	 N/N 	 1 	 Hooker L.J.
+<\s>
+<s id="wsj_2023.7"> 42
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 It is
+0 	 2 	 ((S[ng]\NP)/PP)/NP 	 1 	 It providing <XB>
+0 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 It has <XU>
+0 	 14 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 It agreed <XU>
+0 	 16 	 ((S[b]\NP)/PP)/NP 	 1 	 It buy <XU>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 providing is
+3 	 2 	 ((S[ng]\NP)/PP)/NP 	 3 	 $ providing
+3 	 6 	 (NP\NP)/NP 	 1 	 $ in
+5 	 3 	 N/N[num] 	 1 	 million $
+5 	 4 	 N/N 	 1 	 million 50
+8 	 6 	 (NP\NP)/NP 	 2 	 financing in
+8 	 7 	 N/N 	 1 	 financing emergency
+9 	 2 	 ((S[ng]\NP)/PP)/NP 	 2 	 to providing
+11 	 9 	 PP/NP 	 1 	 company to
+11 	 10 	 NP[nb]/N 	 1 	 company the
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 agreed has
+15 	 14 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to agreed
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+18 	 16 	 ((S[b]\NP)/PP)/NP 	 3 	 much buy
+18 	 17 	 N/N 	 1 	 much as
+18 	 19 	 (NP\NP)/NP 	 1 	 much as
+20 	 19 	 (NP\NP)/NP 	 2 	 $ as
+20 	 23 	 (NP\NP)/NP 	 1 	 $ in
+22 	 20 	 N/N[num] 	 1 	 million $
+22 	 21 	 N/N 	 1 	 million 75
+24 	 23 	 (NP\NP)/NP 	 2 	 receivables in
+25 	 16 	 ((S[b]\NP)/PP)/NP 	 2 	 from buy
+29 	 25 	 PP/NP 	 1 	 Co. from
+29 	 26 	 N/N 	 1 	 Co. B.
+29 	 27 	 N/N 	 1 	 Co. Altman
+29 	 28 	 N/N 	 1 	 Co. &
+32 	 25 	 PP/NP 	 1 	 Teller from
+32 	 31 	 N/N 	 1 	 Teller Bonwit
+35 	 34 	 N/N 	 1 	 Hooker L.J.
+35 	 36 	 (NP[nb]/N)\NP 	 2 	 Hooker 's
+39 	 38 	 (N/N)/(N/N) 	 2 	 owned fully
+41 	 25 	 PP/NP 	 1 	 chains from
+41 	 36 	 (NP[nb]/N)\NP 	 1 	 chains 's
+41 	 37 	 N/N 	 1 	 chains two
+41 	 39 	 N/N 	 1 	 chains owned
+41 	 40 	 N/N 	 1 	 chains department-store
+<\s>
+<s id="wsj_2023.8"> 27
+1 	 0 	 N/N 	 1 	 Merksamer Sam
+1 	 24 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Merksamer declined
+1 	 26 	 S[b]\NP 	 1 	 Merksamer comment <XB>
+5 	 3 	 N/N 	 1 	 officer chief
+5 	 4 	 N/N 	 1 	 officer executive
+5 	 6 	 (NP\NP)/NP 	 1 	 officer of
+5 	 24 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 officer declined
+5 	 26 	 S[b]\NP 	 1 	 officer comment <XB>
+10 	 6 	 (NP\NP)/NP 	 2 	 chain of
+10 	 7 	 NP[nb]/N 	 1 	 chain the
+10 	 8 	 N/N 	 1 	 chain nationwide
+10 	 9 	 N/N 	 1 	 chain jewelry
+14 	 13 	 N/N 	 1 	 Sigoloff Sanford
+14 	 24 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Sigoloff declined
+14 	 26 	 S[b]\NP 	 1 	 Sigoloff comment <XB>
+17 	 16 	 N/N 	 1 	 executive chief
+17 	 18 	 (NP\NP)/NP 	 1 	 executive of
+17 	 24 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 executive declined
+17 	 26 	 S[b]\NP 	 1 	 executive comment <XB>
+21 	 18 	 (NP\NP)/NP 	 2 	 Corp. of
+21 	 19 	 N/N 	 1 	 Corp. L.J.
+21 	 20 	 N/N 	 1 	 Corp. Hooker
+24 	 23 	 (S\NP)/(S\NP) 	 2 	 declined both
+25 	 24 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+<\s>
+<s id="wsj_2023.9"> 24
+3 	 2 	 N/N 	 1 	 Merksamer Mr.
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Merksamer owns
+4 	 0 	 S/S 	 1 	 owns Currently
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 % owns
+6 	 5 	 N/N 	 1 	 % 20
+6 	 7 	 (NP\NP)/NP 	 1 	 % of
+9 	 7 	 (NP\NP)/NP 	 2 	 company of
+9 	 8 	 NP[nb]/N 	 1 	 company the
+12 	 11 	 N/N 	 1 	 Hooker L.J.
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 Hooker acquired
+13 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 acquired in
+17 	 13 	 (S[dcl]\NP)/NP 	 2 	 interest acquired
+17 	 14 	 NP[nb]/N 	 1 	 interest its
+17 	 15 	 N/N 	 1 	 interest 80
+17 	 16 	 N/N 	 1 	 interest %
+17 	 18 	 (NP\NP)/NP 	 1 	 interest in
+20 	 18 	 (NP\NP)/NP 	 2 	 firm in
+20 	 19 	 NP[nb]/N 	 1 	 firm the
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 May in
+22 	 23 	 N\N 	 1 	 May 1986
+<\s>
+<s id="wsj_2023.10"> 12
+2 	 0 	 (S/S)/NP 	 2 	 time At
+2 	 1 	 NP[nb]/N 	 1 	 time the
+6 	 4 	 NP[nb]/N 	 1 	 chain the
+6 	 5 	 N/N 	 1 	 chain Merksamer
+6 	 7 	 ((S[dcl]\NP)/PP)/NP 	 1 	 chain had
+7 	 0 	 (S/S)/NP 	 1 	 had At
+9 	 7 	 ((S[dcl]\NP)/PP)/NP 	 3 	 stores had
+9 	 8 	 N/N 	 1 	 stores 11
+10 	 7 	 ((S[dcl]\NP)/PP)/NP 	 2 	 in had
+11 	 10 	 PP/NP 	 1 	 operation in
+<\s>
+<s id="wsj_2023.11"> 12
+2 	 3 	 (S[dcl]\NP[thr])/NP 	 1 	 there are
+3 	 0 	 S/S 	 1 	 are Today
+5 	 3 	 (S[dcl]\NP[thr])/NP 	 2 	 units are
+5 	 4 	 N/N 	 1 	 units 77
+5 	 8 	 (S[adj]\NP)\NP 	 1 	 units located <XB>
+7 	 8 	 (S[adj]\NP)\NP 	 2 	 all located
+8 	 9 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 located in
+11 	 9 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 malls in
+11 	 10 	 N/N 	 1 	 malls shopping
+<\s>
+<s id="wsj_2023.12"> 39
+2 	 0 	 (S/S)/NP 	 2 	 weeks In
+2 	 1 	 N/N 	 1 	 weeks recent
+4 	 3 	 N/N 	 1 	 Merksamer Mr.
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Merksamer has
+4 	 6 	 (S[pt]\NP)/NP 	 1 	 Merksamer approached <XB>
+4 	 13 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 1 	 Merksamer asked <XU>
+5 	 0 	 (S/S)/NP 	 1 	 has In
+5 	 33 	 (S[dcl]\S[dcl])/NP 	 1 	 has say
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 approached has
+8 	 6 	 (S[pt]\NP)/NP 	 2 	 number approached
+8 	 7 	 NP[nb]/N 	 1 	 number a
+8 	 9 	 (NP\NP)/NP 	 1 	 number of
+11 	 9 	 (NP\NP)/NP 	 2 	 suppliers of
+11 	 10 	 NP[nb]/N 	 1 	 suppliers his
+13 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 asked has
+14 	 13 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 3 	 them asked
+14 	 16 	 (S[b]\NP)/NP 	 1 	 them provide <XB>
+15 	 13 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 2 	 to asked
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provide to
+17 	 16 	 (S[b]\NP)/NP 	 2 	 letters provide
+17 	 18 	 (NP\NP)/NP 	 1 	 letters of
+17 	 20 	 (S[ng]\NP)/S[dcl] 	 1 	 letters saying <XB>
+19 	 18 	 (NP\NP)/NP 	 2 	 intent of
+21 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they will
+21 	 23 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 they continue <XB>
+21 	 24 	 ((S[ng]\NP)/PP)/NP 	 1 	 they shipping <XB>
+22 	 20 	 (S[ng]\NP)/S[dcl] 	 2 	 will saying
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue will
+23 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 continue following
+24 	 23 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 shipping continue
+25 	 24 	 ((S[ng]\NP)/PP)/NP 	 3 	 merchandise shipping
+26 	 24 	 ((S[ng]\NP)/PP)/NP 	 2 	 to shipping
+28 	 26 	 PP/NP 	 1 	 chain to
+28 	 27 	 NP[nb]/N 	 1 	 chain the
+31 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 buy-out following
+31 	 30 	 NP[nb]/N 	 1 	 buy-out the
+34 	 33 	 (S[dcl]\S[dcl])/NP 	 2 	 those say
+34 	 35 	 S[adj]\NP 	 1 	 those familiar <XB>
+35 	 36 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 familiar with
+38 	 36 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 situation with
+38 	 37 	 NP[nb]/N 	 1 	 situation the
+<\s>
+<s id="wsj_2023.13"> 30
+1 	 0 	 (S/S)/N 	 2 	 year This
+4 	 3 	 NP[nb]/N 	 1 	 number a
+4 	 5 	 (NP\NP)/NP 	 1 	 number of
+4 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 number have
+4 	 10 	 S[pt]\NP 	 1 	 number failed <XB>
+4 	 12 	 (S[ng]\NP)/NP 	 1 	 number causing <XB>
+8 	 5 	 (NP\NP)/NP 	 2 	 buyouts of
+8 	 6 	 N/N 	 1 	 buyouts retail
+8 	 7 	 N/N 	 1 	 buyouts leveraged
+9 	 0 	 (S/S)/N 	 1 	 have This
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 failed have
+12 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 causing among
+13 	 12 	 (S[ng]\NP)/NP 	 2 	 jitters causing
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 suppliers among
+19 	 18 	 N/N 	 1 	 Merksamer Mr.
+19 	 21 	 (S[dcl]\NP)/NP 	 1 	 Merksamer wanted
+21 	 20 	 (S\NP)/(S\NP) 	 2 	 wanted apparently
+22 	 21 	 (S[dcl]\NP)/NP 	 2 	 assurances wanted
+23 	 22 	 N/S[em] 	 1 	 that assurances
+24 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he wo
+24 	 27 	 (S[b]\NP)/NP 	 1 	 he have <XB>
+25 	 23 	 S[em]/S[dcl] 	 1 	 wo that
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 wo n't
+27 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have wo
+29 	 27 	 (S[b]\NP)/NP 	 2 	 problems have
+29 	 28 	 N/N 	 1 	 problems delivery
+<\s>
+<s id="wsj_2023.14"> 24
+2 	 0 	 (S/S)/NP 	 2 	 year For
+2 	 1 	 NP[nb]/N 	 1 	 year the
+2 	 3 	 S[pss]\NP 	 1 	 year ended <XB>
+3 	 4 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended June
+4 	 7 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 June 1989
+5 	 4 	 ((S\NP)\(S\NP))/N[num] 	 3 	 30 June
+10 	 9 	 N/N 	 1 	 Jewelers Merksamer
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 Jewelers had
+11 	 0 	 (S/S)/NP 	 1 	 had For
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 $ had
+12 	 15 	 (NP\NP)/NP 	 1 	 $ of
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 62
+16 	 15 	 (NP\NP)/NP 	 2 	 revenue of
+19 	 11 	 (S[dcl]\NP)/NP 	 2 	 profit had
+19 	 18 	 N/N 	 1 	 profit operating
+19 	 20 	 (NP\NP)/NP 	 1 	 profit of
+21 	 20 	 (NP\NP)/NP 	 2 	 $ of
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 2.5
+<\s>
+<s id="wsj_2023.15"> 10
+2 	 0 	 NP[nb]/N 	 1 	 chain The
+2 	 1 	 N/N 	 1 	 chain jewelery
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 chain was
+2 	 4 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 chain put <XB>
+2 	 5 	 S[adj]\NP 	 1 	 chain up <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 put was
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 put for
+4 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 put in
+5 	 4 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 up put
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 sale for
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 June in
+<\s>
+<s id="wsj_2023.16"> 20
+1 	 0 	 (S/S)/PP 	 2 	 to According
+2 	 1 	 PP/NP 	 1 	 those to
+2 	 3 	 S[adj]\NP 	 1 	 those familiar <XB>
+3 	 4 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 familiar with
+6 	 4 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 situation with
+6 	 5 	 NP[nb]/N 	 1 	 situation the
+9 	 8 	 N/N 	 1 	 bidders other
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 bidders included
+10 	 0 	 (S/S)/PP 	 1 	 included According
+13 	 10 	 (S[dcl]\NP)/NP 	 2 	 PLC included
+13 	 11 	 N/N 	 1 	 PLC Ratners
+13 	 12 	 N/N 	 1 	 PLC Group
+13 	 14 	 (NP\NP)/NP 	 1 	 PLC of
+15 	 14 	 (NP\NP)/NP 	 2 	 London of
+19 	 10 	 (S[dcl]\NP)/NP 	 2 	 Inc included
+19 	 17 	 N/N 	 1 	 Inc Kay
+19 	 18 	 N/N 	 1 	 Inc Jewelers
+<\s>
+<s id="wsj_2023.17"> 14
+2 	 0 	 N/N 	 1 	 Corp. First
+2 	 1 	 N/N 	 1 	 Corp. Boston
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Corp. is
+2 	 4 	 ((S[ng]\NP)/PP)/NP 	 1 	 Corp. advising <XB>
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 advising is
+6 	 4 	 ((S[ng]\NP)/PP)/NP 	 3 	 Hooker advising
+6 	 5 	 N/N 	 1 	 Hooker L.J.
+7 	 4 	 ((S[ng]\NP)/PP)/NP 	 2 	 on advising
+9 	 7 	 PP/NP 	 1 	 sale on
+9 	 8 	 NP[nb]/N 	 1 	 sale the
+9 	 10 	 (NP\NP)/NP 	 1 	 sale of
+13 	 10 	 (NP\NP)/NP 	 2 	 business of
+13 	 11 	 NP[nb]/N 	 1 	 business the
+13 	 12 	 N/N 	 1 	 business Merksamer
+<\s>
+<s id="wsj_2023.18"> 14
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Merksamer was
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 was in
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 first was
+3 	 2 	 NP[nb]/N 	 1 	 first the
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 series in
+6 	 5 	 NP[nb]/N 	 1 	 series a
+6 	 7 	 (NP\NP)/NP 	 1 	 series of
+9 	 7 	 (NP\NP)/NP 	 2 	 acquisitions of
+9 	 8 	 N/N 	 1 	 acquisitions retail
+9 	 10 	 S[pss]\NP 	 1 	 acquisitions made <XB>
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 made by
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Hooker by
+13 	 12 	 N/N 	 1 	 Hooker L.J.
+<\s>
+<s id="wsj_2023.19"> 23
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 company was
+1 	 3 	 S[pss]\NP 	 1 	 company founded <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 founded was
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 founded in
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 founded in
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 founded by
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Sacramento in
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 1929 in
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 brothers by
+10 	 9 	 N/N 	 1 	 brothers two
+10 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 brothers who
+10 	 18 	 (S[dcl]\NP)/PP 	 1 	 brothers operated <XB>
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Ralph by
+12 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Ralph who
+12 	 18 	 (S[dcl]\NP)/PP 	 1 	 Ralph operated <XB>
+15 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Merksamer by
+15 	 14 	 N/N 	 1 	 Merksamer Walter
+15 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Merksamer who
+15 	 18 	 (S[dcl]\NP)/PP 	 1 	 Merksamer operated <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 operated who
+19 	 18 	 (S[dcl]\NP)/PP 	 2 	 as operated
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 DeVon 's
+22 	 19 	 PP/NP 	 1 	 Jewelers as
+22 	 21 	 (NP[nb]/N)\NP 	 1 	 Jewelers 's
+<\s>
+<s id="wsj_2023.20"> 27
+1 	 0 	 (S/S)/NP 	 2 	 1979 In
+4 	 3 	 NP[nb]/N 	 1 	 pair the
+4 	 5 	 ((S[dcl]\NP)/PP)/NP 	 1 	 pair split
+5 	 0 	 (S/S)/NP 	 1 	 split In
+5 	 11 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 2 	 split with
+7 	 5 	 ((S[dcl]\NP)/PP)/NP 	 3 	 company split
+7 	 6 	 NP[nb]/N 	 1 	 company the
+8 	 5 	 ((S[dcl]\NP)/PP)/NP 	 2 	 in split
+9 	 8 	 PP/NP 	 1 	 half in
+12 	 11 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 Walter with
+12 	 19 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Walter agreeing <XB>
+12 	 21 	 S[b]\NP 	 1 	 Walter operate <XB>
+15 	 11 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 son with
+15 	 14 	 NP[nb]/N 	 1 	 son his
+15 	 19 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 son agreeing <XB>
+15 	 21 	 S[b]\NP 	 1 	 son operate <XB>
+17 	 11 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 Sam with
+17 	 19 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Sam agreeing <XB>
+17 	 21 	 S[b]\NP 	 1 	 Sam operate <XB>
+19 	 11 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 3 	 agreeing with
+20 	 19 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to agreeing
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 operate to
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 operate under
+26 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 name under
+26 	 23 	 NP[nb]/N 	 1 	 name the
+26 	 24 	 N/N 	 1 	 name Merksamer
+26 	 25 	 N/N 	 1 	 name Jewelery
+<\s>
+<s id="wsj_2023.21"> 17
+1 	 0 	 NP[nb]/N 	 1 	 sale The
+1 	 2 	 (NP\NP)/NP 	 1 	 sale of
+1 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 sale is
+1 	 6 	 (S[adj]\NP)/PP 	 1 	 sale subject <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 Jewelers of
+4 	 3 	 N/N 	 1 	 Jewelers Merksamer
+6 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 subject is
+7 	 6 	 (S[adj]\NP)/PP 	 2 	 to subject
+8 	 7 	 PP/NP 	 1 	 approval to
+8 	 9 	 (NP\NP)/NP 	 1 	 approval by
+12 	 9 	 (NP\NP)/NP 	 2 	 Brozman by
+12 	 10 	 N/N 	 1 	 Brozman Judge
+12 	 11 	 N/N 	 1 	 Brozman Tina
+12 	 13 	 (NP\NP)/NP 	 1 	 Brozman of
+16 	 13 	 (NP\NP)/NP 	 2 	 Court of
+16 	 14 	 N/N 	 1 	 Court U.S.
+16 	 15 	 N/N 	 1 	 Court Bankruptcy
+<\s>
+<s id="wsj_2023.22"> 47
+2 	 0 	 (S/S)/(S[pss]\NP) 	 2 	 reported As
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 reported earlier
+5 	 4 	 N/N 	 1 	 Hooker L.J.
+5 	 8 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Hooker received
+7 	 6 	 ((S\NP)/(S\NP))/N 	 3 	 week this
+8 	 0 	 (S/S)/(S[pss]\NP) 	 1 	 received As
+8 	 6 	 ((S\NP)/(S\NP))/N 	 2 	 received this
+12 	 10 	 (N/N)/N[num] 	 2 	 million $
+12 	 11 	 N/N 	 1 	 million 409
+13 	 8 	 ((S[dcl]\NP)/PP)/NP 	 3 	 bid received
+13 	 9 	 NP[nb]/N 	 1 	 bid a
+13 	 10 	 (N/N)/N[num] 	 1 	 bid $
+13 	 14 	 (NP\NP)/NP 	 1 	 bid for
+18 	 14 	 (NP\NP)/NP 	 2 	 malls for
+18 	 15 	 NP[nb]/N 	 1 	 malls its
+18 	 16 	 N/N 	 1 	 malls three
+18 	 17 	 N/N 	 1 	 malls shopping
+22 	 14 	 (NP\NP)/NP 	 2 	 properties for
+22 	 21 	 N/N 	 1 	 properties other
+23 	 8 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from received
+25 	 23 	 PP/NP 	 1 	 consortium from
+25 	 24 	 NP[nb]/N 	 1 	 consortium a
+25 	 26 	 S[pss]\NP 	 1 	 consortium led <XB>
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 led by
+32 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 Shidler by
+32 	 28 	 N/N 	 1 	 Shidler Honolulu
+32 	 29 	 N/N 	 1 	 Shidler real-estate
+32 	 30 	 N/N 	 1 	 Shidler investor
+32 	 31 	 N/N 	 1 	 Shidler Jay
+36 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 Simpson by
+36 	 34 	 N/N 	 1 	 Simpson A.
+36 	 35 	 N/N 	 1 	 Simpson Boyd
+40 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 developer by
+40 	 38 	 NP[nb]/N 	 1 	 developer an
+40 	 39 	 N/N 	 1 	 developer Atlanta
+46 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 executive by
+46 	 42 	 N/N 	 1 	 executive former
+46 	 43 	 N/N 	 1 	 executive L.J.
+46 	 44 	 N/N 	 1 	 executive Hooker
+46 	 45 	 N/N 	 1 	 executive senior
+<\s>
+<s id="wsj_2023.23"> 17
+1 	 0 	 NP[nb]/N 	 1 	 offer The
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 offer which
+1 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 offer did <XB>
+1 	 6 	 (S[b]\NP)/NP 	 1 	 offer include <XB>
+1 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 offer is
+1 	 12 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 offer being <XB>
+1 	 13 	 S[pss]\NP 	 1 	 offer reviewed <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 did which
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 did n't
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 include did
+9 	 6 	 (S[b]\NP)/NP 	 2 	 chain include
+9 	 7 	 NP[nb]/N 	 1 	 chain the
+9 	 8 	 N/N 	 1 	 chain Merksamer
+12 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being is
+13 	 12 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 reviewed being
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 reviewed by
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 Sigoloff by
+16 	 15 	 N/N 	 1 	 Sigoloff Mr.
+<\s>

@@ -1,0 +1,26 @@
+<s id="wsj_2311.1"> 13
+2 	 0 	 N/N 	 1 	 flights CONCORDE
+2 	 1 	 N/N 	 1 	 flights trans-Atlantic
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 flights are
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 $ are
+4 	 6 	 (NP\NP)/NP 	 1 	 $ to
+5 	 4 	 N/N[num] 	 1 	 2,400 $
+7 	 6 	 (NP\NP)/NP 	 2 	 Paris to
+9 	 3 	 (S[dcl]\NP)/NP 	 2 	 $ are
+9 	 11 	 (NP\NP)/NP 	 1 	 $ to
+10 	 9 	 N/N[num] 	 1 	 3,200 $
+12 	 11 	 (NP\NP)/NP 	 2 	 London to
+<\s>
+<s id="wsj_2311.2"> 12
+4 	 0 	 (S/S)/NP 	 2 	 article In
+4 	 1 	 NP[nb]/N 	 1 	 article a
+4 	 2 	 N/N 	 1 	 article Centennial
+4 	 3 	 N/N 	 1 	 article Journal
+6 	 5 	 (S/S)/N[num] 	 2 	 5 Oct.
+9 	 8 	 NP[nb]/N 	 1 	 fares the
+9 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 fares were
+9 	 11 	 S[pss]\NP 	 1 	 fares reversed <XB>
+10 	 0 	 (S/S)/NP 	 1 	 were In
+10 	 5 	 (S/S)/N[num] 	 1 	 were Oct.
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 reversed were
+<\s>

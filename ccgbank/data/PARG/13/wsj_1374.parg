@@ -1,0 +1,447 @@
+<s id="wsj_1374.1"> 23
+1 	 0 	 N/N 	 1 	 Corp. Tandy
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 Corp. citing <XB>
+1 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+5 	 3 	 (S[ng]\NP)/NP 	 2 	 sales citing
+5 	 4 	 N/N 	 1 	 sales sluggish
+5 	 6 	 (NP\NP)/NP 	 1 	 sales of
+8 	 6 	 (NP\NP)/NP 	 2 	 goods of
+8 	 7 	 N/N 	 1 	 goods consumer-electronics
+12 	 11 	 N/N 	 1 	 income net
+12 	 13 	 S[dcl]\NP 	 1 	 income dropped
+13 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 dropped said
+13 	 15 	 (S\NP)\(S\NP) 	 2 	 dropped %
+13 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped for
+15 	 14 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 3.3
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter for
+19 	 17 	 NP[nb]/N 	 1 	 quarter the
+19 	 18 	 N/N 	 1 	 quarter first
+19 	 20 	 S[pss]\NP 	 1 	 quarter ended <XB>
+20 	 21 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended Sept.
+22 	 21 	 ((S\NP)\(S\NP))/N[num] 	 3 	 30 Sept.
+<\s>
+<s id="wsj_1374.2"> 22
+1 	 0 	 NP[nb]/N 	 1 	 results The
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 results which
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 results represented <XB>
+1 	 18 	 (S[dcl]\NP)/NP 	 1 	 results disappointed
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 represented which
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 quarter represented
+8 	 5 	 NP[nb]/N 	 1 	 quarter the
+8 	 6 	 N/N 	 1 	 quarter fifth
+8 	 7 	 N/N 	 1 	 quarter consecutive
+8 	 9 	 (NP\NP)/NP 	 1 	 quarter of
+8 	 12 	 (NP\NP)/NP 	 1 	 quarter for
+11 	 9 	 (NP\NP)/NP 	 2 	 earnings of
+11 	 10 	 N/N 	 1 	 earnings flat-to-lower
+16 	 12 	 (NP\NP)/NP 	 2 	 retailer for
+16 	 13 	 NP[nb]/N 	 1 	 retailer the
+16 	 14 	 N/N 	 1 	 retailer big
+16 	 15 	 N/N 	 1 	 retailer electronics
+19 	 18 	 (S[dcl]\NP)/NP 	 2 	 analysts disappointed
+21 	 18 	 (S[dcl]\NP)/NP 	 2 	 traders disappointed
+<\s>
+<s id="wsj_1374.3"> 20
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Tandy 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 stock 's
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 stock fell
+2 	 9 	 (S[b]\NP)/PP 	 1 	 stock close <XB>
+3 	 4 	 ((S\NP)\(S\NP))/N[num] 	 2 	 fell $
+3 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 fell in
+4 	 6 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 3 	 $ a
+5 	 4 	 ((S\NP)\(S\NP))/N[num] 	 3 	 1.375 $
+7 	 6 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 4 	 share a
+8 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to fell
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 close to
+10 	 9 	 (S[b]\NP)/PP 	 2 	 at close
+11 	 10 	 PP/NP 	 1 	 $ at
+12 	 11 	 N/N[num] 	 1 	 44 $
+19 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+19 	 14 	 N/N 	 1 	 trading New
+19 	 15 	 N/N 	 1 	 trading York
+19 	 16 	 N/N 	 1 	 trading Stock
+19 	 17 	 N/N 	 1 	 trading Exchange
+19 	 18 	 N/N 	 1 	 trading composite
+<\s>
+<s id="wsj_1374.4"> 30
+0 	 1 	 (NP\NP)/NP 	 1 	 Net for
+0 	 4 	 (S[dcl]\NP)/NP 	 1 	 Net was
+3 	 1 	 (NP\NP)/NP 	 2 	 quarter for
+3 	 2 	 NP[nb]/N 	 1 	 quarter the
+4 	 15 	 ((S\NP)\(S\NP))/PP 	 2 	 was down
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 $ was
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 62.8
+11 	 4 	 (S[dcl]\NP)/NP 	 2 	 cents was
+11 	 10 	 N/N 	 1 	 cents 73
+11 	 12 	 (NP\NP)/N 	 1 	 cents a
+13 	 12 	 (NP\NP)/N 	 2 	 share a
+16 	 15 	 ((S\NP)\(S\NP))/PP 	 3 	 from down
+16 	 29 	 (PP\PP)\NP 	 1 	 from earlier
+17 	 16 	 PP/NP 	 1 	 $ from
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 64.9
+23 	 16 	 PP/NP 	 1 	 cents from
+23 	 22 	 N/N 	 1 	 cents 72
+23 	 24 	 (NP\NP)/N 	 1 	 cents a
+25 	 24 	 (NP\NP)/N 	 2 	 share a
+28 	 27 	 NP[nb]/N 	 1 	 year a
+28 	 29 	 (PP\PP)\NP 	 2 	 year earlier
+<\s>
+<s id="wsj_1374.5"> 27
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 earnings would
+3 	 6 	 S[pt]\NP 	 1 	 earnings increased <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+6 	 5 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 increased have
+6 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 increased if
+8 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it had
+8 	 13 	 (S[ng]\NP)/NP 	 1 	 it repurchasing <XB>
+8 	 18 	 (S[ng]\NP)/NP 	 1 	 it increasing <XU>
+8 	 23 	 (S[ng]\NP)/NP 	 1 	 it reducing <XU>
+9 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 had if
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 had n't
+11 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+13 	 11 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 repurchasing been
+13 	 12 	 (S\NP)/(S\NP) 	 2 	 repurchasing actively
+15 	 13 	 (S[ng]\NP)/NP 	 2 	 shares repurchasing
+15 	 14 	 NP[nb]/N 	 1 	 shares its
+18 	 11 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 increasing been
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 increasing thus
+21 	 18 	 (S[ng]\NP)/NP 	 2 	 expense increasing
+21 	 19 	 NP[nb]/N 	 1 	 expense its
+21 	 20 	 N/N 	 1 	 expense interest
+23 	 11 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 reducing been
+23 	 17 	 (S\NP)/(S\NP) 	 2 	 reducing thus
+26 	 23 	 (S[ng]\NP)/NP 	 2 	 income reducing
+26 	 24 	 NP[nb]/N 	 1 	 income its
+26 	 25 	 N/N 	 1 	 income interest
+<\s>
+<s id="wsj_1374.6"> 17
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Tandy had
+1 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 had at
+1 	 10 	 ((S\NP)\(S\NP))/PP 	 2 	 had down
+3 	 2 	 (N/N)/(N/N) 	 2 	 million 86.3
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 shares had
+4 	 3 	 N/N 	 1 	 shares million
+4 	 5 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Sept. at
+8 	 7 	 N/N[num] 	 1 	 30 Sept.
+11 	 10 	 ((S\NP)\(S\NP))/PP 	 3 	 from down
+11 	 16 	 (PP\PP)\NP 	 1 	 from earlier
+13 	 11 	 PP/NP 	 1 	 million from
+13 	 12 	 N/N 	 1 	 million 90
+15 	 14 	 NP[nb]/N 	 1 	 year a
+15 	 16 	 (PP\PP)\NP 	 2 	 year earlier
+<\s>
+<s id="wsj_1374.7"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Revenue rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 5
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 986
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 937
+<\s>
+<s id="wsj_1374.8"> 24
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Tandy said
+4 	 2 	 N/N 	 1 	 sales consumer
+4 	 3 	 N/N 	 1 	 sales electronics
+4 	 5 	 (NP\NP)/NP 	 1 	 sales at
+4 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 sales have
+4 	 12 	 S[adj]\NP 	 1 	 sales slow <XB>
+9 	 5 	 (NP\NP)/NP 	 2 	 stores at
+9 	 6 	 NP[nb]/N 	 1 	 stores its
+9 	 7 	 N/N 	 1 	 stores Radio
+9 	 8 	 N/N 	 1 	 stores Shack
+10 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 have said
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+11 	 15 	 ((S\NP)\(S\NP))/PP 	 2 	 been because
+12 	 11 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 slow been
+15 	 14 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 because partly
+16 	 15 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+18 	 16 	 PP/NP 	 1 	 lack of
+18 	 17 	 NP[nb]/N 	 1 	 lack a
+18 	 19 	 (NP\NP)/NP 	 1 	 lack of
+23 	 19 	 (NP\NP)/NP 	 2 	 products of
+23 	 20 	 N/N 	 1 	 products hot
+23 	 22 	 N/N 	 1 	 products new
+<\s>
+<s id="wsj_1374.9"> 20
+1 	 0 	 N/N 	 1 	 Shack Radio
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Shack continues
+1 	 5 	 S[adj]\NP 	 1 	 Shack lackluster <XB>
+2 	 7 	 (S[dcl]\S[dcl])/NP 	 1 	 continues said
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continues
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+5 	 4 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 lackluster be
+9 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 Telzrow said
+9 	 8 	 N/N 	 1 	 Telzrow Dennis
+11 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst said
+11 	 12 	 (NP\NP)/NP 	 1 	 analyst with
+17 	 12 	 (NP\NP)/NP 	 2 	 Turner with
+17 	 13 	 N/N 	 1 	 Turner Eppler
+17 	 15 	 N/N 	 1 	 Turner Guerin
+17 	 16 	 N/N 	 1 	 Turner &
+17 	 18 	 (NP\NP)/NP 	 1 	 Turner in
+19 	 18 	 (NP\NP)/NP 	 2 	 Dallas in
+<\s>
+<s id="wsj_1374.10"> 44
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Tandy has
+2 	 4 	 ((S[pt]\NP)/(S[ng]\NP))/NP 	 1 	 Tandy done <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 done has
+7 	 4 	 ((S[pt]\NP)/(S[ng]\NP))/NP 	 3 	 job done
+7 	 5 	 NP[nb]/N 	 1 	 job a
+7 	 6 	 N/N 	 1 	 job decent
+7 	 8 	 (S[ng]\NP)/NP 	 1 	 job increasing <XB>
+7 	 11 	 (S[ng]\NP)/NP 	 1 	 job manufacturing <XB>
+7 	 16 	 (S[ng]\NP)/NP 	 1 	 job expanding <XU>
+8 	 4 	 ((S[pt]\NP)/(S[ng]\NP))/NP 	 2 	 increasing done
+8 	 10 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 increasing by
+9 	 8 	 (S[ng]\NP)/NP 	 2 	 sales increasing
+11 	 10 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 manufacturing by
+11 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 manufacturing for
+12 	 11 	 (S[ng]\NP)/NP 	 2 	 computers manufacturing
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 others for
+16 	 10 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 expanding by
+17 	 16 	 (S[ng]\NP)/NP 	 2 	 sales expanding
+17 	 18 	 (NP\NP)/NP 	 1 	 sales of
+23 	 18 	 (NP\NP)/NP 	 2 	 subsidiary of
+23 	 19 	 NP[nb]/N 	 1 	 subsidiary its
+23 	 20 	 N/N 	 1 	 subsidiary Grid
+23 	 21 	 N/N 	 1 	 subsidiary Systems
+23 	 22 	 N/N 	 1 	 subsidiary Corp.
+23 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 subsidiary which
+23 	 26 	 ((S[dcl]\NP)/PP)/NP 	 1 	 subsidiary sells <XB>
+26 	 25 	 (NP\NP)/(S[dcl]\NP) 	 2 	 sells which
+27 	 26 	 ((S[dcl]\NP)/PP)/NP 	 3 	 computers sells
+28 	 26 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to sells
+30 	 28 	 PP/NP 	 1 	 businesses to
+30 	 29 	 N/N 	 1 	 businesses bigger
+33 	 34 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it 's
+33 	 36 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 it enough <XB>
+34 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 's said
+34 	 35 	 (S\NP)\(S\NP) 	 2 	 's not
+36 	 34 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 enough 's
+37 	 36 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to enough
+38 	 37 	 (S[to]\NP)/(S[b]\NP) 	 2 	 offset to
+40 	 38 	 (S[b]\NP)/NP 	 2 	 problems offset
+40 	 39 	 NP[nb]/N 	 1 	 problems the
+40 	 41 	 (NP\NP)/NP 	 1 	 problems at
+43 	 41 	 (NP\NP)/NP 	 2 	 Shack at
+43 	 42 	 N/N 	 1 	 Shack Radio
+<\s>
+<s id="wsj_1374.11"> 24
+0 	 1 	 (NP\NP)/NP 	 1 	 Sales at
+0 	 10 	 (S[dcl]\NP)/NP 	 1 	 Sales grew
+4 	 1 	 (NP\NP)/NP 	 2 	 stores at
+4 	 2 	 N/N 	 1 	 stores Radio
+4 	 3 	 N/N 	 1 	 stores Shack
+4 	 5 	 (S[adj]\NP)/NP 	 1 	 stores open <XB>
+6 	 7 	 (NP/NP)\(S[adj]\NP) 	 2 	 more than
+9 	 5 	 (S[adj]\NP)/NP 	 2 	 year open
+9 	 7 	 (NP/NP)\(S[adj]\NP) 	 1 	 year than
+9 	 8 	 NP[nb]/N 	 1 	 year a
+10 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 grew in
+10 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 grew from
+10 	 23 	 (S[dcl]\S[dcl])\NP 	 1 	 grew said
+12 	 11 	 (N/N)/(N/N) 	 2 	 2 only
+13 	 10 	 (S[dcl]\NP)/NP 	 2 	 % grew
+13 	 12 	 N/N 	 1 	 % 2
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+16 	 15 	 NP[nb]/N 	 1 	 quarter the
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 year from
+19 	 18 	 NP[nb]/N 	 1 	 year a
+19 	 20 	 N\N 	 1 	 year earlier
+22 	 23 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_1374.12"> 23
+2 	 0 	 (S/S)/NP 	 2 	 result As
+2 	 1 	 NP[nb]/N 	 1 	 result a
+5 	 4 	 N/N 	 1 	 Telzrow Mr.
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Telzrow said
+6 	 0 	 (S/S)/NP 	 1 	 said As
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 he cut
+8 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 cut said
+8 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 cut to
+8 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 cut from
+14 	 8 	 (S[dcl]\NP)/NP 	 2 	 estimate cut
+14 	 9 	 NP[nb]/N 	 1 	 estimate his
+14 	 10 	 N/N 	 1 	 estimate fiscal
+14 	 11 	 N/N 	 1 	 estimate 1990
+14 	 12 	 N/N 	 1 	 estimate per-share
+14 	 13 	 N/N 	 1 	 estimate earnings
+14 	 15 	 (NP\NP)/NP 	 1 	 estimate for
+16 	 15 	 (NP\NP)/NP 	 2 	 Tandy for
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+19 	 18 	 N/N[num] 	 1 	 4.05 $
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+22 	 21 	 N/N[num] 	 1 	 4.20 $
+<\s>
+<s id="wsj_1374.13"> 18
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Tandy earned
+1 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 earned in
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+4 	 2 	 N/N[num] 	 1 	 million $
+4 	 3 	 N/N 	 1 	 million 88.8
+7 	 1 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+7 	 9 	 (NP\NP)/N 	 1 	 $ a
+8 	 7 	 N/N[num] 	 1 	 3.64 $
+10 	 9 	 (NP\NP)/N 	 2 	 share a
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 year in
+14 	 13 	 NP[nb]/N 	 1 	 year the
+14 	 15 	 S[pss]\NP 	 1 	 year ended <XB>
+15 	 16 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended June
+17 	 16 	 ((S\NP)\(S\NP))/N[num] 	 3 	 30 June
+<\s>
+<s id="wsj_1374.14"> 42
+1 	 0 	 N/N 	 1 	 Bryant Barry
+1 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 Bryant said
+4 	 3 	 NP[nb]/N 	 1 	 analyst an
+4 	 5 	 (NP\NP)/NP 	 1 	 analyst with
+4 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 analyst said
+9 	 5 	 (NP\NP)/NP 	 2 	 Inc. with
+9 	 6 	 N/N 	 1 	 Inc. Drexel
+9 	 7 	 N/N 	 1 	 Inc. Burnham
+9 	 8 	 N/N 	 1 	 Inc. Lambert
+12 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Tandy has
+12 	 15 	 (S[pt]\NP)/PP 	 1 	 Tandy suffered <XB>
+14 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 has also
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 suffered has
+16 	 15 	 (S[pt]\NP)/PP 	 2 	 from suffered
+18 	 16 	 PP/NP 	 1 	 sales from
+18 	 17 	 N/N 	 1 	 sales lethargic
+18 	 19 	 (NP\NP)/NP 	 1 	 sales of
+21 	 19 	 (NP\NP)/NP 	 2 	 computers of
+21 	 20 	 NP[nb]/N 	 1 	 computers its
+21 	 22 	 S[pss]\NP 	 1 	 computers aimed <XB>
+21 	 30 	 (NP\NP)/(S[dcl]\NP) 	 1 	 computers which
+21 	 31 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 computers are <XB>
+21 	 32 	 S[adj]\NP 	 1 	 computers less-advanced <XB>
+21 	 34 	 S[adj]\NP 	 1 	 computers cheaper <XU>
+22 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 aimed at
+28 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 market at
+28 	 24 	 NP[nb]/N 	 1 	 market the
+28 	 25 	 N/N 	 1 	 market home <XU>
+28 	 27 	 N/N 	 1 	 market small-office
+31 	 30 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are which
+32 	 31 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 less-advanced are
+32 	 35 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 less-advanced than
+34 	 31 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 cheaper are
+34 	 35 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 cheaper than
+36 	 35 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 computers than
+36 	 37 	 S[pss]\NP 	 1 	 computers aimed <XB>
+37 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 aimed at
+41 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 market at
+41 	 39 	 NP[nb]/N 	 1 	 market the
+41 	 40 	 N/N 	 1 	 market corporate
+<\s>
+<s id="wsj_1374.15"> 34
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Tandy has
+0 	 2 	 ((S[pt]\NP)/PP)/NP 	 1 	 Tandy added <XB>
+0 	 20 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Tandy is <XU>
+0 	 21 	 ((S[ng]\NP)/PP)/NP 	 1 	 Tandy focusing <XU>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 added has
+2 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 added including
+5 	 2 	 ((S[pt]\NP)/PP)/NP 	 3 	 products added
+5 	 3 	 N/N 	 1 	 products several
+5 	 4 	 N/N 	 1 	 products new
+6 	 2 	 ((S[pt]\NP)/PP)/NP 	 2 	 to added
+8 	 6 	 PP/NP 	 1 	 line to
+8 	 7 	 NP[nb]/N 	 1 	 line that
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 computer including
+13 	 11 	 NP[nb]/N 	 1 	 computer a
+13 	 12 	 N/N 	 1 	 computer laptop
+13 	 14 	 (S[pss]\NP)/PP 	 1 	 computer priced <XB>
+15 	 14 	 (S[pss]\NP)/PP 	 2 	 around priced
+16 	 15 	 PP/NP 	 1 	 $ around
+17 	 16 	 N/N[num] 	 1 	 1,000 $
+21 	 20 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 focusing is
+23 	 21 	 ((S[ng]\NP)/PP)/NP 	 3 	 advertising focusing
+23 	 22 	 NP[nb]/N 	 1 	 advertising its
+24 	 21 	 ((S[ng]\NP)/PP)/NP 	 2 	 on focusing
+27 	 24 	 PP/NP 	 1 	 software on
+27 	 25 	 NP[nb]/N 	 1 	 software the
+27 	 26 	 N/N 	 1 	 software easy-to-use
+27 	 28 	 (NP\NP)/(S[dcl]\NP) 	 1 	 software that
+27 	 29 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 software is <XB>
+27 	 30 	 (S[pss]\NP)/PP 	 1 	 software packaged <XB>
+29 	 28 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is that
+30 	 29 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 packaged is
+31 	 30 	 (S[pss]\NP)/PP 	 2 	 with packaged
+33 	 31 	 PP/NP 	 1 	 machines with
+33 	 32 	 NP[nb]/N 	 1 	 machines its
+<\s>
+<s id="wsj_1374.16"> 22
+1 	 0 	 N/N 	 1 	 Bryant Mr.
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Bryant hope
+4 	 3 	 N/N 	 1 	 analysts other
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 analysts hope
+8 	 6 	 NP/NP 	 1 	 moves all
+8 	 7 	 NP[nb]/N 	 1 	 moves those
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 moves will
+8 	 10 	 (S[b]\NP)/(S[to]\NP) 	 1 	 moves combine <XB>
+8 	 12 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 moves help <XB>
+9 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 will hope
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 combine will
+11 	 10 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to combine
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 help to
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 Tandy 's
+15 	 12 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 results help
+15 	 14 	 (NP[nb]/N)\NP 	 1 	 results 's
+15 	 16 	 S[b]\NP 	 1 	 results improve <XB>
+16 	 12 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 improve help
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 improve in
+21 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+21 	 18 	 NP[nb]/N 	 1 	 quarter the
+21 	 19 	 N/N 	 1 	 quarter important
+21 	 20 	 N/N 	 1 	 quarter Christmas
+<\s>
+<s id="wsj_1374.17"> 21
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 They 've
+0 	 3 	 (S[ng]\NP)/NP 	 1 	 They promising <XB>
+1 	 20 	 (S[dcl]\S[dcl])\NP 	 1 	 've said
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been 've
+3 	 2 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 promising been
+5 	 4 	 (N/N)/(N/N) 	 2 	 % 13
+5 	 6 	 ((N/N)\(N/N))/(N/N) 	 2 	 % to
+8 	 6 	 ((N/N)\(N/N))/(N/N) 	 3 	 % to
+8 	 7 	 (N/N)/(N/N) 	 2 	 % 15
+9 	 3 	 (S[ng]\NP)/NP 	 2 	 growth promising
+9 	 5 	 N/N 	 1 	 growth %
+9 	 10 	 (S[pss]\NP)/PP 	 1 	 growth based <XB>
+11 	 10 	 (S[pss]\NP)/PP 	 2 	 on based
+14 	 11 	 PP/NP 	 1 	 moves on
+14 	 12 	 NP[nb]/N 	 1 	 moves the
+14 	 13 	 N/N 	 1 	 moves strategic
+14 	 17 	 (S[pt]\NP)/NP 	 2 	 moves made <XU>
+15 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 they 've
+15 	 17 	 (S[pt]\NP)/NP 	 1 	 they made <XB>
+17 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 made 've
+19 	 20 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_1374.18"> 14
+3 	 1 	 NP[nb]/N 	 1 	 acceleration the
+3 	 2 	 N/N 	 1 	 acceleration earnings
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 acceleration is
+3 	 6 	 (S[b]\NP)/NP 	 1 	 acceleration take <XB>
+4 	 0 	 (S/S)/S[dcl] 	 2 	 is If
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 take to
+7 	 6 	 (S[b]\NP)/NP 	 2 	 place take
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 that should
+9 	 11 	 (S[b]\NP)/NP 	 1 	 that be <XB>
+10 	 0 	 (S/S)/S[dcl] 	 1 	 should If
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be should
+13 	 11 	 (S[b]\NP)/NP 	 2 	 quarter be
+13 	 12 	 NP[nb]/N 	 1 	 quarter the
+<\s>

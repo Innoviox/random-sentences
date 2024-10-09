@@ -1,0 +1,407 @@
+<s id="wsj_0444.1"> 18
+1 	 0 	 N/N 	 1 	 hunters Bargain
+1 	 2 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 1 	 hunters helped
+2 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 helped while
+4 	 2 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 3 	 prices helped
+4 	 3 	 N/N 	 1 	 prices stock
+4 	 5 	 (S[b]\NP)/NP 	 1 	 prices break <XB>
+5 	 2 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 2 	 break helped
+9 	 5 	 (S[b]\NP)/NP 	 2 	 streak break
+9 	 6 	 NP[nb]/N 	 1 	 streak a
+9 	 7 	 N/N 	 1 	 streak weeklong
+9 	 8 	 N/N 	 1 	 streak losing
+12 	 11 	 N/N 	 1 	 prices bond
+12 	 16 	 S[dcl]\NP 	 1 	 prices inched
+15 	 14 	 NP[nb]/N 	 1 	 dollar the
+15 	 16 	 S[dcl]\NP 	 1 	 dollar inched
+16 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 inched while
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 inched higher
+<\s>
+<s id="wsj_0444.2"> 21
+4 	 0 	 NP[nb]/N 	 1 	 Average The
+4 	 1 	 N/N 	 1 	 Average Dow
+4 	 2 	 N/N 	 1 	 Average Jones
+4 	 3 	 N/N 	 1 	 Average Industrial
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Average gained
+4 	 14 	 (S[ng]\NP)/NP 	 1 	 Average losing <XB>
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 gained to
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 gained in
+5 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 gained after
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 points gained
+7 	 6 	 N/N 	 1 	 points 6.76
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 2603.48 to
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+12 	 11 	 N/N 	 1 	 trading light
+14 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 losing after
+14 	 20 	 (S\NP)\(S\NP) 	 2 	 losing week
+15 	 16 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+17 	 16 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 92 than
+18 	 14 	 (S[ng]\NP)/NP 	 2 	 points losing
+18 	 17 	 N/N 	 1 	 points 92
+20 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week last
+<\s>
+<s id="wsj_0444.3"> 15
+1 	 0 	 N/N 	 1 	 prices Bond
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 prices continued
+1 	 4 	 S[b]\NP 	 1 	 prices edge <XB>
+2 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 continued in
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continued
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 edge to
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 edge higher
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 anticipation in
+7 	 8 	 (NP\NP)/NP 	 1 	 anticipation of
+10 	 8 	 (NP\NP)/NP 	 2 	 news of
+10 	 9 	 N/N 	 1 	 news more
+10 	 11 	 (S[ng]\NP)/NP 	 1 	 news showing <XB>
+14 	 11 	 (S[ng]\NP)/NP 	 2 	 economy showing
+14 	 12 	 NP[nb]/N 	 1 	 economy a
+14 	 13 	 N/N 	 1 	 economy slower
+<\s>
+<s id="wsj_0444.4"> 28
+2 	 1 	 NP[nb]/N 	 1 	 dollar the
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 dollar rose
+3 	 0 	 (S/S)/S[dcl] 	 2 	 rose Although
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 rose slightly
+5 	 3 	 (S[dcl]\NP)/PP 	 2 	 against rose
+8 	 5 	 PP/NP 	 1 	 currencies against
+8 	 6 	 N/N 	 1 	 currencies most
+8 	 7 	 N/N 	 1 	 currencies major
+11 	 10 	 NP[nb]/N 	 1 	 focus the
+11 	 12 	 (NP\NP)/NP 	 1 	 focus in
+11 	 15 	 (S[dcl]\NP)/PP 	 1 	 focus was
+14 	 12 	 (NP\NP)/NP 	 2 	 markets in
+14 	 13 	 N/N 	 1 	 markets currency
+15 	 0 	 (S/S)/S[dcl] 	 1 	 was Although
+16 	 15 	 (S[dcl]\NP)/PP 	 2 	 on was
+20 	 16 	 PP/NP 	 1 	 pound on
+20 	 17 	 NP[nb]/N 	 1 	 pound the
+20 	 18 	 N/N 	 1 	 pound beleaguered
+20 	 19 	 N/N 	 1 	 pound British
+20 	 22 	 (NP\NP)/(S[dcl]\NP) 	 1 	 pound which
+20 	 23 	 (S[dcl]\NP)/PP 	 1 	 pound gained <XB>
+23 	 22 	 (NP\NP)/(S[dcl]\NP) 	 2 	 gained which
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 gained slightly
+25 	 23 	 (S[dcl]\NP)/PP 	 2 	 against gained
+27 	 25 	 PP/NP 	 1 	 dollar against
+27 	 26 	 NP[nb]/N 	 1 	 dollar the
+<\s>
+<s id="wsj_0444.5"> 28
+1 	 0 	 N/N 	 1 	 volume Trading
+1 	 2 	 (NP\NP)/NP 	 1 	 volume on
+1 	 8 	 S[dcl]\NP 	 1 	 volume dwindled
+7 	 2 	 (NP\NP)/NP 	 2 	 Exchange on
+7 	 3 	 NP[nb]/N 	 1 	 Exchange the
+7 	 4 	 N/N 	 1 	 Exchange New
+7 	 5 	 N/N 	 1 	 Exchange York
+7 	 6 	 N/N 	 1 	 Exchange Stock
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 dwindled to
+8 	 14 	 (S\NP)\(S\NP) 	 2 	 dwindled yesterday
+8 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 dwindled as
+12 	 10 	 (N/N)/(N/N) 	 2 	 million only
+12 	 11 	 (N/N)/(N/N) 	 2 	 million 126.6
+13 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 shares to
+13 	 12 	 N/N 	 1 	 shares million
+18 	 16 	 N/N 	 1 	 firms major
+18 	 17 	 N/N 	 1 	 firms brokerage
+18 	 19 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 firms continued
+18 	 21 	 ((S[b]\NP)/PP)/NP 	 1 	 firms throw <XB>
+19 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 continued as
+20 	 19 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continued
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 throw to
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 throw in
+24 	 21 	 ((S[b]\NP)/PP)/NP 	 3 	 towel throw
+24 	 23 	 NP[nb]/N 	 1 	 towel the
+25 	 21 	 ((S[b]\NP)/PP)/NP 	 2 	 on throw
+27 	 25 	 PP/NP 	 1 	 trading on
+27 	 26 	 N/N 	 1 	 trading program
+<\s>
+<s id="wsj_0444.6"> 36
+1 	 0 	 N/N 	 1 	 Peabody Kidder
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Peabody became
+5 	 4 	 (N/N)/(N/N) 	 2 	 recent most
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 firm became
+6 	 3 	 NP[nb]/N 	 1 	 firm the
+6 	 5 	 N/N 	 1 	 firm recent
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 swear to
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 swear off
+12 	 8 	 (S[b]\NP)/NP 	 2 	 trading swear
+12 	 10 	 N/N 	 1 	 trading stock-index
+12 	 11 	 N/N 	 1 	 trading arbitrage
+12 	 13 	 (NP\NP)/NP 	 1 	 trading for
+16 	 13 	 (NP\NP)/NP 	 2 	 account for
+16 	 14 	 NP[nb]/N 	 1 	 account its
+16 	 15 	 N/N 	 1 	 account own
+20 	 19 	 N/N 	 1 	 Lynch Merrill
+20 	 23 	 (S[dcl]\NP)/NP 	 1 	 Lynch took
+22 	 21 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 yesterday late
+23 	 22 	 (S\NP)/(S\NP) 	 2 	 took yesterday
+26 	 23 	 (S[dcl]\NP)/NP 	 2 	 step took
+26 	 24 	 NP[nb]/N 	 1 	 step the
+26 	 25 	 N/N 	 1 	 step major
+26 	 27 	 (NP\NP)/(S[ng]\NP) 	 1 	 step of
+28 	 27 	 (NP\NP)/(S[ng]\NP) 	 2 	 renouncing of
+28 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 renouncing for
+31 	 28 	 (S[ng]\NP)/NP 	 2 	 strategy renouncing
+31 	 29 	 NP[nb]/N 	 1 	 strategy the
+31 	 30 	 N/N 	 1 	 strategy trading
+33 	 32 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 for even
+35 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 clients for
+35 	 34 	 NP[nb]/N 	 1 	 clients its
+<\s>
+<s id="wsj_0444.7"> 10
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 that did
+1 	 4 	 ((S[b]\NP)/PP)/NP 	 1 	 that eliminate <XB>
+2 	 0 	 S/S 	 1 	 did Yet
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 did n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 eliminate did
+6 	 4 	 ((S[b]\NP)/PP)/NP 	 3 	 trading eliminate
+6 	 5 	 N/N 	 1 	 trading program
+7 	 4 	 ((S[b]\NP)/PP)/NP 	 2 	 from eliminate
+9 	 7 	 PP/NP 	 1 	 market from
+9 	 8 	 NP[nb]/N 	 1 	 market the
+<\s>
+<s id="wsj_0444.8"> 33
+2 	 0 	 NP[nb]/N 	 1 	 industrials The
+2 	 1 	 N/N 	 1 	 industrials Dow
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 industrials shot
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 shot up
+3 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 shot in
+3 	 16 	 ((S\NP)\(S\NP))/PP 	 2 	 shot because
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 points shot
+6 	 5 	 N/N 	 1 	 points 23
+10 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 hour in
+10 	 8 	 NP[nb]/N 	 1 	 hour the
+10 	 9 	 N/N 	 1 	 hour opening
+13 	 12 	 ((((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))))/(S[asup]\NP) 	 5 	 least at
+14 	 12 	 ((((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))))/(S[asup]\NP) 	 4 	 in at
+15 	 14 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 part in
+16 	 14 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 because in
+17 	 16 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+19 	 17 	 PP/NP 	 1 	 programs of
+19 	 18 	 N/N 	 1 	 programs buy
+19 	 20 	 S[pss]\NP 	 1 	 programs generated <XB>
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 generated by
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 arbitrage by
+23 	 22 	 N/N 	 1 	 arbitrage stock-index
+26 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 form by
+26 	 25 	 NP[nb]/N 	 1 	 form a
+26 	 27 	 (NP\NP)/NP 	 1 	 form of
+26 	 30 	 (NP\NP)/NP 	 1 	 form involving
+29 	 27 	 (NP\NP)/NP 	 2 	 trading of
+29 	 28 	 N/N 	 1 	 trading program
+32 	 30 	 (NP\NP)/NP 	 2 	 contracts involving
+32 	 31 	 N/N 	 1 	 contracts futures
+<\s>
+<s id="wsj_0444.9"> 23
+1 	 2 	 S[dcl]\NP 	 1 	 interest waned
+2 	 0 	 S/S 	 1 	 waned But
+2 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 waned as
+5 	 4 	 NP[nb]/N 	 1 	 day the
+5 	 6 	 S[dcl]\NP 	 1 	 day wore
+6 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 wore as
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 wore on
+9 	 10 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 1 	 investors looked
+9 	 11 	 S[adj]\NP 	 1 	 investors ahead <XB>
+10 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 looked as
+11 	 10 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 3 	 ahead looked
+12 	 10 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 2 	 to looked
+14 	 12 	 PP/NP 	 1 	 release to
+14 	 13 	 NP[nb]/N 	 1 	 release the
+14 	 16 	 (NP\NP)/N 	 1 	 release this
+14 	 18 	 (NP\NP)/NP 	 1 	 release of
+16 	 15 	 (NP\NP)/(NP\NP) 	 2 	 this later
+17 	 16 	 (NP\NP)/N 	 2 	 week this
+22 	 18 	 (NP\NP)/NP 	 2 	 reports of
+22 	 19 	 N/N 	 1 	 reports two
+22 	 20 	 N/N 	 1 	 reports important
+22 	 21 	 N/N 	 1 	 reports economic
+<\s>
+<s id="wsj_0444.10"> 24
+1 	 0 	 NP[nb]/N 	 1 	 first The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 first is
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Wednesday 's
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 survey is
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 survey 's
+5 	 6 	 (NP\NP)/NP 	 1 	 survey of
+5 	 10 	 (S[pss]\NP)/NP 	 1 	 survey considered <XB>
+8 	 6 	 (NP\NP)/NP 	 2 	 managers of
+8 	 7 	 N/N 	 1 	 managers purchasing
+13 	 10 	 (S[pss]\NP)/NP 	 2 	 indicator considered
+13 	 11 	 NP[nb]/N 	 1 	 indicator a
+13 	 12 	 N/N 	 1 	 indicator good
+13 	 14 	 (NP\NP)/S[qem] 	 1 	 indicator of
+15 	 14 	 (NP\NP)/S[qem] 	 2 	 how of
+17 	 16 	 NP[nb]/N 	 1 	 nation the
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 nation 's
+20 	 18 	 (NP[nb]/N)\NP 	 1 	 sector 's
+20 	 19 	 N/N 	 1 	 sector manufacturing
+20 	 21 	 S[dcl]\NP 	 1 	 sector fared
+21 	 15 	 S[qem]/S[dcl] 	 1 	 fared how
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 fared in
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 October in
+<\s>
+<s id="wsj_0444.11"> 18
+1 	 0 	 NP[nb]/N 	 1 	 other The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 other is
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Friday 's
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 measure is
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 measure 's
+5 	 6 	 (NP\NP)/NP 	 1 	 measure of
+8 	 6 	 (NP\NP)/NP 	 2 	 employment of
+8 	 7 	 N/N 	 1 	 employment October
+11 	 2 	 (S[dcl]\NP)/NP 	 2 	 indicator is
+11 	 10 	 NP[nb]/N 	 1 	 indicator an
+11 	 12 	 (NP\NP)/NP 	 1 	 indicator of
+15 	 13 	 NP[nb]/N 	 1 	 economy the
+15 	 14 	 N/N 	 1 	 economy broader
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 economy 's
+17 	 12 	 (NP\NP)/NP 	 2 	 health of
+17 	 16 	 (NP[nb]/N)\NP 	 1 	 health 's
+<\s>
+<s id="wsj_0444.12"> 18
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Both are
+0 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Both expected <XB>
+0 	 4 	 (S[b]\NP)/NP 	 1 	 Both show <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+3 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 show to
+6 	 4 	 (S[b]\NP)/NP 	 2 	 sluggishness show
+6 	 5 	 N/N 	 1 	 sluggishness continued
+6 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 sluggishness which
+6 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 sluggishness would <XB>
+6 	 11 	 (S[adj]\NP)/PP 	 1 	 sluggishness good <XB>
+6 	 15 	 (S[adj]\NP)/PP 	 1 	 sluggishness bad <XU>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would which
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+11 	 10 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 good be
+12 	 11 	 (S[adj]\NP)/PP 	 2 	 for good
+13 	 12 	 PP/NP 	 1 	 bonds for
+15 	 10 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 bad be
+16 	 15 	 (S[adj]\NP)/PP 	 2 	 for bad
+17 	 16 	 PP/NP 	 1 	 stocks for
+<\s>
+<s id="wsj_0444.13"> 11
+3 	 0 	 (S/S)/NP 	 2 	 activity In
+3 	 1 	 N/N 	 1 	 activity major
+3 	 2 	 N/N 	 1 	 activity market
+6 	 5 	 N/N 	 1 	 prices Stock
+6 	 7 	 S[dcl]\NP 	 1 	 prices rose
+7 	 0 	 (S/S)/NP 	 1 	 rose In
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose in
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+10 	 9 	 N/N 	 1 	 trading light
+<\s>
+<s id="wsj_0444.14"> 22
+2 	 1 	 N/N 	 1 	 issues declining
+2 	 3 	 (NP\NP)/NP 	 1 	 issues on
+2 	 9 	 (S[dcl]\NP)/NP 	 1 	 issues outnumbered
+8 	 3 	 (NP\NP)/NP 	 2 	 Exchange on
+8 	 4 	 NP[nb]/N 	 1 	 Exchange the
+8 	 5 	 N/N 	 1 	 Exchange New
+8 	 6 	 N/N 	 1 	 Exchange York
+8 	 7 	 N/N 	 1 	 Exchange Stock
+9 	 0 	 S/S 	 1 	 outnumbered But
+9 	 11 	 (S\NP)\(S\NP) 	 2 	 outnumbered 774
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 gainers outnumbered
+11 	 12 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 774 to
+13 	 12 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 684 to
+18 	 16 	 N/N 	 1 	 indexes broader
+18 	 17 	 N/N 	 1 	 indexes market
+18 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 indexes were
+18 	 21 	 S[adj]\NP 	 1 	 indexes unchanged <XB>
+19 	 0 	 S/S 	 1 	 were But
+21 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unchanged were
+21 	 20 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 unchanged virtually
+<\s>
+<s id="wsj_0444.15"> 4
+1 	 0 	 N/N 	 1 	 prices Bond
+1 	 2 	 S[dcl]\NP 	 1 	 prices crept
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 crept higher
+<\s>
+<s id="wsj_0444.16"> 24
+1 	 0 	 NP[nb]/N 	 1 	 Treasury The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Treasury 's
+5 	 2 	 (NP[nb]/N)\NP 	 1 	 bond 's
+5 	 3 	 N/N 	 1 	 bond benchmark
+5 	 4 	 N/N 	 1 	 bond 30-year
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 bond gained
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 eighth gained
+9 	 7 	 NP/NP 	 1 	 eighth about
+9 	 8 	 NP[nb]/N 	 1 	 eighth an
+9 	 10 	 (NP\NP)/NP 	 1 	 eighth of
+12 	 10 	 (NP\NP)/NP 	 2 	 point of
+12 	 11 	 NP[nb]/N 	 1 	 point a
+16 	 6 	 (S[dcl]\NP)/NP 	 2 	 $ gained
+16 	 15 	 N/N 	 1 	 $ about
+16 	 18 	 (NP\NP)/NP 	 1 	 $ for
+17 	 16 	 N/N[num] 	 1 	 1.25 $
+21 	 20 	 (N/N)/N[num] 	 2 	 1,000 $
+23 	 18 	 (NP\NP)/NP 	 2 	 amount for
+23 	 19 	 NP[nb]/N 	 1 	 amount each
+23 	 20 	 (N/N)/N[num] 	 1 	 amount $
+23 	 22 	 N/N 	 1 	 amount face
+<\s>
+<s id="wsj_0444.17"> 9
+1 	 0 	 NP[nb]/N 	 1 	 yield The
+1 	 2 	 (NP\NP)/NP 	 1 	 yield on
+1 	 5 	 S[dcl]\NP 	 1 	 yield slipped
+4 	 2 	 (NP\NP)/NP 	 2 	 issue on
+4 	 3 	 NP[nb]/N 	 1 	 issue the
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 slipped to
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+8 	 7 	 N/N 	 1 	 % 7.92
+<\s>
+<s id="wsj_0444.18"> 3
+1 	 0 	 NP[nb]/N 	 1 	 dollar The
+1 	 2 	 S[dcl]\NP 	 1 	 dollar gained
+<\s>
+<s id="wsj_0444.19"> 24
+4 	 0 	 (S/S)/NP 	 2 	 trading In
+4 	 1 	 N/N 	 1 	 trading late
+4 	 2 	 N/N 	 1 	 trading New
+4 	 3 	 N/N 	 1 	 trading York
+6 	 5 	 NP[nb]/N 	 1 	 dollar the
+6 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 dollar was
+6 	 8 	 (S[pss]\NP)/PP 	 1 	 dollar quoted <XB>
+7 	 0 	 (S/S)/NP 	 1 	 was In
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 quoted was
+8 	 16 	 ((S\NP)\(S\NP))/PP 	 2 	 quoted compared
+9 	 8 	 (S[pss]\NP)/PP 	 2 	 at quoted
+11 	 9 	 PP/NP 	 1 	 marks at
+11 	 10 	 N/N 	 1 	 marks 1.8340
+14 	 9 	 PP/NP 	 1 	 yen at
+14 	 13 	 N/N 	 1 	 yen 141.90
+17 	 16 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+19 	 17 	 PP/NP 	 1 	 marks with
+19 	 18 	 N/N 	 1 	 marks 1.8300
+19 	 23 	 NP\NP 	 1 	 marks Friday
+22 	 17 	 PP/NP 	 1 	 yen with
+22 	 21 	 N/N 	 1 	 yen 141.65
+22 	 23 	 NP\NP 	 1 	 yen Friday
+<\s>
+<s id="wsj_0444.20"> 27
+2 	 0 	 NP[nb]/N 	 1 	 pound The
+2 	 1 	 N/N 	 1 	 pound British
+2 	 4 	 S[pss]\NP 	 1 	 pound pressured <XB>
+2 	 17 	 S[dcl]\NP 	 1 	 pound rose
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 pressured by
+7 	 6 	 N/N 	 1 	 week last
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 week 's
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 resignations by
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 resignations 's
+9 	 10 	 (NP\NP)/NP 	 1 	 resignations of
+14 	 10 	 (NP\NP)/NP 	 2 	 officials of
+14 	 11 	 N/N 	 1 	 officials key
+14 	 12 	 N/N 	 1 	 officials Thatcher
+14 	 13 	 N/N 	 1 	 officials administration
+17 	 16 	 (S\NP)/(S\NP) 	 2 	 rose nevertheless
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 rose Monday
+17 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+17 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+21 	 20 	 N/N[num] 	 1 	 1.5820 $
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 's from
+24 	 23 	 N/N 	 1 	 's Friday
+24 	 25 	 (NP\NP)/N[num] 	 1 	 's $
+26 	 25 	 (NP\NP)/N[num] 	 2 	 1.5795 $
+<\s>

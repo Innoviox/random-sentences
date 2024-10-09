@@ -1,0 +1,995 @@
+<s id="wsj_0280.1"> 6
+2 	 0 	 N/N 	 1 	 Offer Frequent
+2 	 1 	 N/N 	 1 	 Offer Drinker
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Offer Stirs
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 Stirs Up
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 Debate Stirs
+6 	 5 	 N/N 	 1 	 Debate Spirited
+<\s>
+<s id="wsj_0280.2"> 25
+1 	 0 	 (S[to]\NP)/(S[b]\NP) 	 2 	 GRAB TO
+4 	 1 	 (S[b]\NP)/NP 	 2 	 piece GRAB
+4 	 2 	 NP[nb]/N 	 1 	 piece a
+4 	 3 	 N/N 	 1 	 piece bigger
+4 	 5 	 (NP\NP)/NP 	 1 	 piece of
+9 	 5 	 (NP\NP)/NP 	 2 	 market of
+9 	 6 	 NP[nb]/N 	 1 	 market the
+9 	 7 	 N/N 	 1 	 market declining
+9 	 8 	 N/N 	 1 	 market scotch
+12 	 11 	 N/N 	 1 	 Co. Seagram
+12 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Co. has
+12 	 14 	 (S[pt]\NP)/NP 	 1 	 Co. launched <XB>
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 launched has
+19 	 14 	 (S[pt]\NP)/NP 	 2 	 promotion launched
+19 	 15 	 NP[nb]/N 	 1 	 promotion a
+19 	 16 	 N/N 	 1 	 promotion controversial
+19 	 17 	 N/N 	 1 	 promotion frequent
+19 	 18 	 N/N 	 1 	 promotion drinker
+19 	 20 	 (NP\NP)/NP 	 1 	 promotion for
+24 	 20 	 (NP\NP)/NP 	 2 	 brand for
+24 	 21 	 NP[nb]/N 	 1 	 brand its
+24 	 22 	 N/N 	 1 	 brand Chivas
+24 	 23 	 N/N 	 1 	 brand Regal
+<\s>
+<s id="wsj_0280.3"> 30
+2 	 0 	 (S/S)/NP 	 2 	 program Under
+2 	 1 	 NP[nb]/N 	 1 	 program the
+2 	 4 	 (S[pss]\NP)/NP 	 1 	 program dubbed <XB>
+6 	 4 	 (S[pss]\NP)/NP 	 2 	 Class dubbed
+6 	 5 	 N/N 	 1 	 Class Chivas
+8 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 customers who
+8 	 10 	 (S[dcl]\NP)/NP 	 1 	 customers send <XB>
+8 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 customers will
+8 	 18 	 (S[b]\NP)/NP 	 1 	 customers receive <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 send who
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 send in
+13 	 10 	 (S[dcl]\NP)/NP 	 2 	 labels send
+13 	 12 	 N/N 	 1 	 labels two
+13 	 14 	 (NP\NP)/NP 	 1 	 labels from
+16 	 14 	 (NP\NP)/NP 	 2 	 bottles from
+16 	 15 	 N/N 	 1 	 bottles Chivas
+17 	 0 	 (S/S)/NP 	 1 	 will Under
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 receive will
+20 	 18 	 (S[b]\NP)/NP 	 2 	 upgrade receive
+20 	 19 	 NP[nb]/N 	 1 	 upgrade an
+20 	 21 	 (NP\NP)/NP 	 1 	 upgrade in
+20 	 24 	 (NP\NP)/NP 	 1 	 upgrade on
+23 	 21 	 (NP\NP)/NP 	 2 	 class in
+23 	 22 	 N/N 	 1 	 class seating
+29 	 24 	 (NP\NP)/NP 	 2 	 flights on
+29 	 25 	 NP[nb]/N 	 1 	 flights some
+29 	 26 	 N/N 	 1 	 flights Trans
+29 	 27 	 N/N 	 1 	 flights World
+29 	 28 	 N/N 	 1 	 flights Airlines
+<\s>
+<s id="wsj_0280.4"> 10
+1 	 0 	 N/N 	 1 	 customers Repeat
+1 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 customers can
+1 	 4 	 ((S[b]\NP)/PP)/NP 	 1 	 customers purchase <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 can also
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 purchase can
+6 	 4 	 ((S[b]\NP)/PP)/NP 	 3 	 items purchase
+6 	 5 	 N/N 	 1 	 items luxury
+7 	 4 	 ((S[b]\NP)/PP)/NP 	 2 	 at purchase
+9 	 7 	 PP/NP 	 1 	 prices at
+9 	 8 	 N/N 	 1 	 prices reduced
+<\s>
+<s id="wsj_0280.5"> 21
+3 	 1 	 (S/S)/NP 	 2 	 time at
+3 	 2 	 NP[nb]/N 	 1 	 time a
+3 	 4 	 (NP\NP)/NP 	 1 	 time of
+6 	 4 	 (NP\NP)/NP 	 2 	 concern of
+6 	 5 	 N/N 	 1 	 concern mounting
+6 	 7 	 (NP\NP)/NP 	 1 	 concern over
+9 	 7 	 (NP\NP)/NP 	 2 	 abuse over
+9 	 8 	 N/N 	 1 	 abuse alcohol
+13 	 11 	 NP[nb]/N 	 1 	 marketers some
+13 	 12 	 N/N 	 1 	 marketers liquor
+13 	 14 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 marketers consider
+14 	 0 	 S/S 	 1 	 consider But
+14 	 1 	 (S/S)/NP 	 1 	 consider at
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Seagram 's
+19 	 14 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 promotion consider
+19 	 16 	 (NP[nb]/N)\NP 	 1 	 promotion 's
+19 	 17 	 N/N 	 1 	 promotion frequent
+19 	 18 	 N/N 	 1 	 promotion buyer
+19 	 20 	 S[adj]\NP 	 1 	 promotion risky <XB>
+20 	 14 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 risky consider
+<\s>
+<s id="wsj_0280.6"> 24
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 I 'm
+0 	 2 	 (S[adj]\NP)/S[dcl] 	 1 	 I surprised <XB>
+1 	 8 	 (S[dcl]\S[dcl])/NP 	 1 	 'm says
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 surprised 'm
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they 're
+3 	 5 	 (S[ng]\NP)/NP 	 1 	 they doing <XB>
+4 	 2 	 (S[adj]\NP)/S[dcl] 	 2 	 're surprised
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 doing 're
+6 	 5 	 (S[ng]\NP)/NP 	 2 	 this doing
+10 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 Kavanagh says
+10 	 9 	 N/N 	 1 	 Kavanagh Penn
+12 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+12 	 13 	 (NP\NP)/NP 	 1 	 president of
+17 	 13 	 (NP\NP)/NP 	 2 	 Co. of
+17 	 14 	 N/N 	 1 	 Co. Schieffelin
+17 	 15 	 N/N 	 1 	 Co. &
+17 	 16 	 N/N 	 1 	 Co. Somerset
+17 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Co. which
+17 	 20 	 (S[dcl]\NP)/NP 	 1 	 Co. markets <XB>
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 markets which
+23 	 20 	 (S[dcl]\NP)/NP 	 2 	 scotches markets
+23 	 21 	 N/N 	 1 	 scotches Johnnie
+23 	 22 	 N/N 	 1 	 scotches Walker
+<\s>
+<s id="wsj_0280.7"> 17
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 I would
+0 	 4 	 (S[adj]\NP)/PP 	 1 	 I leery <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+4 	 2 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 leery be
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 leery very
+5 	 4 	 (S[adj]\NP)/PP 	 2 	 of leery
+6 	 5 	 PP/NP 	 1 	 anything of
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 anything that
+6 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 anything says <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 says that
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 you drink
+11 	 9 	 (S/S)/S[dcl] 	 2 	 drink if
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 more drink
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 you get
+15 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 get says
+15 	 9 	 (S/S)/S[dcl] 	 1 	 get if
+16 	 15 	 (S[dcl]\NP)/NP 	 2 	 more get
+<\s>
+<s id="wsj_0280.8"> 18
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Others question
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 impact question
+3 	 2 	 NP[nb]/N 	 1 	 impact the
+3 	 4 	 (NP\NP)/NP 	 1 	 impact on
+3 	 9 	 (NP\NP)/NP 	 1 	 impact of
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Chivas 's
+8 	 4 	 (NP\NP)/NP 	 2 	 image on
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 image 's
+8 	 7 	 N/N 	 1 	 image upscale
+11 	 9 	 (NP\NP)/NP 	 2 	 promotion of
+11 	 10 	 NP[nb]/N 	 1 	 promotion a
+11 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 promotion that
+11 	 13 	 (S[dcl]\NP)/NP 	 1 	 promotion has <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has that
+14 	 13 	 (S[dcl]\NP)/NP 	 2 	 customers has
+14 	 15 	 (S[ng]\NP)/NP 	 1 	 customers soaking <XB>
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 soaking off
+17 	 15 	 (S[ng]\NP)/NP 	 2 	 labels soaking
+<\s>
+<s id="wsj_0280.9"> 18
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 It 's
+0 	 3 	 S[adj]\NP 	 1 	 It bizarre <XB>
+1 	 5 	 (S[dcl]\S[dcl])/NP 	 1 	 's says
+3 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 bizarre 's
+3 	 2 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 bizarre really
+7 	 5 	 (S[dcl]\S[dcl])/NP 	 2 	 Lerman says
+7 	 6 	 N/N 	 1 	 Lerman Albert
+10 	 5 	 (S[dcl]\S[dcl])/NP 	 2 	 director says
+10 	 9 	 N/N 	 1 	 director creative
+10 	 11 	 (NP\NP)/NP 	 1 	 director at
+17 	 11 	 (NP\NP)/NP 	 2 	 agency at
+17 	 12 	 NP[nb]/N 	 1 	 agency the
+17 	 13 	 N/N 	 1 	 agency Wells
+17 	 14 	 N/N 	 1 	 agency Rich
+17 	 15 	 N/N 	 1 	 agency Greene
+17 	 16 	 N/N 	 1 	 agency ad
+<\s>
+<s id="wsj_0280.10"> 13
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Chivas has
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 image has
+3 	 2 	 NP[nb]/N 	 1 	 image an
+3 	 4 	 (NP\NP)/NP 	 1 	 image of
+5 	 4 	 (NP\NP)/NP 	 2 	 something of
+5 	 8 	 (S[b]\NP)/NP 	 2 	 something savor <XU>
+5 	 12 	 (S[b]\NP)/NP 	 2 	 something guzzle <XU>
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you would
+6 	 8 	 (S[b]\NP)/NP 	 1 	 you savor <XB>
+6 	 12 	 (S[b]\NP)/NP 	 1 	 you guzzle <XU>
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 savor would
+11 	 10 	 conj/conj 	 1 	 than rather
+12 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 guzzle would
+<\s>
+<s id="wsj_0280.11"> 8
+1 	 0 	 N/N 	 1 	 Class Chivas
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Class is
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 is n't
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 promotion is
+7 	 4 	 NP[nb]/N 	 1 	 promotion the
+7 	 5 	 N/N 	 1 	 promotion first
+7 	 6 	 N/N 	 1 	 promotion such
+<\s>
+<s id="wsj_0280.12"> 16
+1 	 0 	 (S/S)/(S/S) 	 2 	 year Last
+4 	 3 	 N/N 	 1 	 Scotch J&B
+4 	 5 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Scotch offered
+5 	 1 	 S/S 	 1 	 offered year
+10 	 5 	 ((S[dcl]\NP)/PP)/NP 	 3 	 miles offered
+10 	 6 	 N/N 	 1 	 miles 500
+10 	 7 	 N/N 	 1 	 miles TWA
+10 	 8 	 N/N 	 1 	 miles frequent
+10 	 9 	 N/N 	 1 	 miles flier
+11 	 5 	 ((S[dcl]\NP)/PP)/NP 	 2 	 in offered
+12 	 11 	 PP/NP 	 1 	 exchange in
+12 	 13 	 (NP\NP)/NP 	 1 	 exchange for
+15 	 13 	 (NP\NP)/NP 	 2 	 label for
+15 	 14 	 NP[nb]/N 	 1 	 label a
+<\s>
+<s id="wsj_0280.13"> 15
+2 	 1 	 N/N 	 1 	 's Dewar
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 's gave
+3 	 0 	 S/S 	 1 	 gave And
+4 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 discounts gave
+4 	 5 	 (NP\NP)/NP 	 1 	 discounts on
+7 	 5 	 (NP\NP)/NP 	 2 	 merchandise on
+7 	 6 	 N/N 	 1 	 merchandise Scottish
+8 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to gave
+9 	 8 	 PP/NP 	 1 	 people to
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 people who
+9 	 11 	 (S[dcl]\NP)/NP 	 1 	 people sent <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 sent who
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 sent in
+14 	 11 	 (S[dcl]\NP)/NP 	 2 	 labels sent
+14 	 13 	 N/N 	 1 	 labels bottle
+<\s>
+<s id="wsj_0280.14"> 11
+2 	 1 	 NP[nb]/N 	 1 	 scope the
+2 	 3 	 (NP\NP)/NP 	 1 	 scope of
+2 	 8 	 (S[dcl]\NP)/NP 	 1 	 scope sets
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Seagram 's
+7 	 3 	 (NP\NP)/NP 	 2 	 promotion of
+7 	 5 	 (NP[nb]/N)\NP 	 1 	 promotion 's
+7 	 6 	 N/N 	 1 	 promotion Chivas
+8 	 0 	 S/S 	 1 	 sets But
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 sets apart
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 it sets
+<\s>
+<s id="wsj_0280.15"> 15
+2 	 0 	 NP[nb]/N 	 1 	 campaign The
+2 	 1 	 N/N 	 1 	 campaign current
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 campaign is
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 leg is
+7 	 4 	 NP/NP 	 1 	 leg just
+7 	 5 	 NP[nb]/N 	 1 	 leg the
+7 	 6 	 N/N 	 1 	 leg first
+7 	 8 	 (NP\NP)/NP 	 1 	 leg of
+14 	 8 	 (NP\NP)/NP 	 2 	 plan of
+14 	 9 	 NP[nb]/N 	 1 	 plan an
+14 	 10 	 N/N 	 1 	 plan aggressive
+14 	 11 	 N/N 	 1 	 plan three-to-five-year
+14 	 12 	 N/N 	 1 	 plan direct
+14 	 13 	 N/N 	 1 	 plan marketing
+<\s>
+<s id="wsj_0280.16"> 15
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Seagram says
+3 	 2 	 NP[nb]/N 	 1 	 promotion the
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 promotion is
+3 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 promotion designed <XB>
+3 	 7 	 (S[b]\NP)/NP 	 1 	 promotion build <XB>
+3 	 12 	 (S[b]\NP)/NP 	 1 	 promotion promote <XU>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 is says
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 designed is
+6 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to designed
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+9 	 7 	 (S[b]\NP)/NP 	 2 	 loyalty build
+9 	 8 	 N/N 	 1 	 loyalty brand
+11 	 10 	 conj/conj 	 1 	 than rather
+12 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 promote to
+14 	 12 	 (S[b]\NP)/NP 	 2 	 drinking promote
+14 	 13 	 N/N 	 1 	 drinking heavy
+<\s>
+<s id="wsj_0280.17"> 25
+0 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Seagram asks
+1 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 asks says
+2 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 customers asks
+2 	 4 	 (S[b]\NP)/NP 	 1 	 customers buy <XB>
+3 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to asks
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+4 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 buy over
+6 	 5 	 (N/N)/(N/N) 	 2 	 two only
+9 	 4 	 (S[b]\NP)/NP 	 2 	 bottles buy
+9 	 6 	 N/N 	 1 	 bottles two <XU>
+9 	 8 	 N/N 	 1 	 bottles three
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 period over
+13 	 11 	 NP[nb]/N 	 1 	 period a
+13 	 12 	 N/N 	 1 	 period 12-month
+17 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 Shaw says
+17 	 16 	 N/N 	 1 	 Shaw Richard
+20 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+20 	 19 	 N/N 	 1 	 president vice
+20 	 21 	 (NP\NP)/NP 	 1 	 president of
+24 	 21 	 (NP\NP)/NP 	 2 	 marketing of
+24 	 22 	 N/N 	 1 	 marketing U.S.
+24 	 23 	 N/N 	 1 	 marketing direct
+<\s>
+<s id="wsj_0280.18"> 10
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 We 're
+0 	 3 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 1 	 We asking <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 're not
+3 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 asking 're
+4 	 3 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 them asking
+4 	 6 	 (S[b]\NP)/NP 	 1 	 them save <XB>
+5 	 3 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to asking
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 save to
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 save up
+9 	 6 	 (S[b]\NP)/NP 	 2 	 proof-of-purchases save
+9 	 8 	 N/N 	 1 	 proof-of-purchases 50
+<\s>
+<s id="wsj_0280.19"> 12
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 We 're
+0 	 3 	 (S[ng]\NP)/(S[b]\NP) 	 1 	 We saying <XB>
+0 	 4 	 (S[b]\NP)/NP 	 1 	 We drink <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 're not
+3 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 saying 're
+4 	 3 	 (S[ng]\NP)/(S[b]\NP) 	 2 	 drink saying
+5 	 4 	 (S[b]\NP)/NP 	 2 	 more drink
+7 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 we 're
+7 	 9 	 (S[ng]\NP)/(S[dcl]\NP) 	 1 	 we saying <XB>
+7 	 10 	 S[dcl]\NP 	 1 	 we trade <XB>
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 saying 're
+10 	 9 	 (S[ng]\NP)/(S[dcl]\NP) 	 2 	 trade saying
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 trade up
+<\s>
+<s id="wsj_0280.20"> 6
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Goya Concocts
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 Milk Concocts
+3 	 2 	 NP[nb]/N 	 1 	 Milk a
+3 	 4 	 (NP\NP)/NP 	 1 	 Milk For
+6 	 4 	 (NP\NP)/NP 	 2 	 Tastes For
+6 	 5 	 N/N 	 1 	 Tastes Hispanic
+<\s>
+<s id="wsj_0280.21"> 20
+2 	 0 	 N/N 	 1 	 companies MOST
+2 	 1 	 N/N 	 1 	 companies FOOD
+2 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 companies are
+2 	 6 	 (S[ng]\NP)/NP 	 1 	 companies trimming <XB>
+2 	 16 	 (S[b]\NP)/PP 	 1 	 companies appeal <XB>
+4 	 3 	 ((S\NP)/(S\NP))/N 	 3 	 days these
+5 	 3 	 ((S\NP)/(S\NP))/N 	 2 	 are these
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trimming are
+8 	 6 	 (S[ng]\NP)/NP 	 2 	 fat trimming
+8 	 7 	 NP[nb]/N 	 1 	 fat the
+8 	 12 	 (NP\NP)/NP 	 1 	 fat of
+11 	 6 	 (S[ng]\NP)/NP 	 2 	 content trimming
+11 	 7 	 NP[nb]/N 	 1 	 content the
+11 	 10 	 N/N 	 1 	 content cholesterol
+11 	 12 	 (NP\NP)/NP 	 1 	 content of
+14 	 12 	 (NP\NP)/NP 	 2 	 products of
+14 	 13 	 NP[nb]/N 	 1 	 products their
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 appeal to
+17 	 16 	 (S[b]\NP)/PP 	 2 	 to appeal
+19 	 17 	 PP/NP 	 1 	 consumers to
+19 	 18 	 N/N 	 1 	 consumers health-conscious
+<\s>
+<s id="wsj_0280.22"> 14
+3 	 1 	 N/N 	 1 	 Inc. Goya
+3 	 2 	 N/N 	 1 	 Inc. Foods
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. believes
+4 	 0 	 S/S 	 1 	 believes But
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it can
+5 	 7 	 (S[b]\NP)/NP 	 1 	 it milk <XB>
+5 	 11 	 (S[ng]\NP)/NP 	 1 	 it bucking <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 can believes
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 milk can
+7 	 10 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 milk by
+9 	 7 	 (S[b]\NP)/NP 	 2 	 sales milk
+9 	 8 	 NP[nb]/N 	 1 	 sales some
+11 	 10 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 bucking by
+13 	 11 	 (S[ng]\NP)/NP 	 2 	 trend bucking
+13 	 12 	 NP[nb]/N 	 1 	 trend the
+<\s>
+<s id="wsj_0280.23"> 26
+3 	 1 	 (N/N)/(N/N) 	 2 	 N.J. Secaucus
+5 	 0 	 NP[nb]/N 	 1 	 company The
+5 	 3 	 N/N 	 1 	 company N.J.
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company has
+5 	 7 	 (S[pt]\NP)/NP 	 1 	 company formed <XB>
+5 	 18 	 (S[b]\NP)/NP 	 1 	 company market <XB>
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 formed has
+7 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 formed with
+10 	 7 	 (S[pt]\NP)/NP 	 2 	 venture formed
+10 	 8 	 NP[nb]/N 	 1 	 venture a
+10 	 9 	 N/N 	 1 	 venture joint
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 distributor with
+13 	 12 	 NP[nb]/N 	 1 	 distributor a
+13 	 14 	 (S[pss]\NP)/NP 	 1 	 distributor called <XB>
+16 	 14 	 (S[pss]\NP)/NP 	 2 	 Lecheria called
+16 	 15 	 N/N 	 1 	 Lecheria La
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 market to
+21 	 18 	 (S[b]\NP)/NP 	 2 	 milk market
+21 	 19 	 NP[nb]/N 	 1 	 milk a
+21 	 20 	 N/N 	 1 	 milk higher-fat
+21 	 22 	 (S[pss]\NP)/PP 	 1 	 milk targeted <XB>
+23 	 22 	 (S[pss]\NP)/PP 	 2 	 at targeted
+25 	 23 	 PP/NP 	 1 	 consumers at
+25 	 24 	 N/N 	 1 	 consumers Hispanic
+<\s>
+<s id="wsj_0280.24"> 22
+1 	 0 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give To
+3 	 1 	 ((S[b]\NP)/NP)/NP 	 3 	 Fresca give
+3 	 2 	 N/N 	 1 	 Fresca Leche
+6 	 1 	 ((S[b]\NP)/NP)/NP 	 2 	 taste give
+6 	 4 	 NP[nb]/N 	 1 	 taste the
+6 	 5 	 N/N 	 1 	 taste creamier
+6 	 10 	 (S[dcl]\NP)/NP 	 2 	 taste prefer <XU>
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Goya says
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 Hispanics prefer
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 prefer says
+14 	 12 	 NP[nb]/N 	 1 	 brand the
+14 	 13 	 N/N 	 1 	 brand new
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 brand has
+18 	 15 	 (S[dcl]\NP)/NP 	 2 	 content has
+18 	 16 	 NP[nb]/N 	 1 	 content a
+18 	 17 	 N/N 	 1 	 content butterfat
+18 	 19 	 (NP\NP)/NP 	 1 	 content of
+21 	 19 	 (NP\NP)/NP 	 2 	 % of
+21 	 20 	 N/N 	 1 	 % 3.8
+<\s>
+<s id="wsj_0280.25"> 9
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 That compares
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 with compares
+4 	 3 	 (N/N)/(N/N) 	 2 	 % 3.5
+5 	 2 	 PP/NP 	 1 	 butterfat with
+5 	 4 	 N/N 	 1 	 butterfat %
+5 	 6 	 (NP\NP)/NP 	 1 	 butterfat for
+8 	 6 	 (NP\NP)/NP 	 2 	 milk for
+8 	 7 	 N/N 	 1 	 milk whole
+<\s>
+<s id="wsj_0280.26"> 20
+1 	 0 	 NP[nb]/N 	 1 	 spokesman A
+1 	 2 	 (NP\NP)/NP 	 1 	 spokesman for
+1 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman concedes
+4 	 2 	 (NP\NP)/NP 	 2 	 Inc. for
+4 	 3 	 N/N 	 1 	 Inc. Borden
+7 	 6 	 NP[nb]/N 	 1 	 nation the
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 nation 's
+11 	 8 	 (NP[nb]/N)\NP 	 1 	 producer 's
+11 	 9 	 N/N 	 1 	 producer largest
+11 	 10 	 N/N 	 1 	 producer milk
+11 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 producer concedes
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Goya may
+14 	 16 	 (S[b]\NP)/PP 	 1 	 Goya be <XB>
+15 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 may concedes
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+18 	 16 	 (S[b]\NP)/PP 	 2 	 to be
+18 	 17 	 PP/PP 	 1 	 to on
+19 	 18 	 PP/NP 	 1 	 something to
+<\s>
+<s id="wsj_0280.27"> 17
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Borden sells
+1 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 sells in
+1 	 16 	 (S[dcl]\S[dcl])\NP 	 1 	 sells says
+3 	 2 	 (N/N)/(N/N) 	 2 	 more considerably
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 milk sells
+5 	 3 	 N/N 	 1 	 milk more
+5 	 4 	 N/N 	 1 	 milk whole
+5 	 6 	 (NP\NP)/NP 	 1 	 milk than
+8 	 6 	 (NP\NP)/NP 	 2 	 milks than
+8 	 7 	 N/N 	 1 	 milks reduced-fat
+13 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 markets in
+13 	 10 	 N/N 	 1 	 markets southern <XU>
+13 	 12 	 N/N 	 1 	 markets Hispanic
+15 	 16 	 (S[dcl]\S[dcl])\NP 	 2 	 he says
+<\s>
+<s id="wsj_0280.28"> 20
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 Borden tested
+0 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 Borden decided <XU>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 tested even
+2 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 tested in
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 milk tested
+4 	 3 	 NP[nb]/N 	 1 	 milk a
+4 	 5 	 (NP\NP)/NP 	 1 	 milk with
+7 	 6 	 (N/N)/(N/N) 	 2 	 % 4
+8 	 5 	 (NP\NP)/NP 	 2 	 butterfat with
+8 	 7 	 N/N 	 1 	 butterfat %
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 South in
+11 	 10 	 NP[nb]/N 	 1 	 South the
+14 	 1 	 (S\NP)/(S\NP) 	 2 	 decided even
+16 	 15 	 NP[nb]/N 	 1 	 market the
+16 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 market was
+16 	 19 	 S[adj]\NP 	 1 	 market small <XB>
+17 	 14 	 (S[dcl]\NP)/S[dcl] 	 2 	 was decided
+19 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 small was
+19 	 18 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 small too
+<\s>
+<s id="wsj_0280.29"> 20
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Goya is
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 Goya selling <XB>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 selling is
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 selling in
+4 	 2 	 (S[ng]\NP)/NP 	 2 	 Fresca selling
+4 	 3 	 N/N 	 1 	 Fresca Leche
+7 	 6 	 (N/N)/(N/N) 	 2 	 500 nearly
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 stores in
+9 	 7 	 N/N 	 1 	 stores 500
+9 	 8 	 N/N 	 1 	 stores grocery
+9 	 12 	 (NP\NP)/NP 	 1 	 stores in
+11 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 bodegas in
+11 	 7 	 N/N 	 1 	 bodegas 500
+11 	 8 	 N/N 	 1 	 bodegas grocery
+11 	 12 	 (NP\NP)/NP 	 1 	 bodegas in
+14 	 12 	 (NP\NP)/NP 	 2 	 York in
+14 	 13 	 N/N 	 1 	 York New
+16 	 12 	 (NP\NP)/NP 	 2 	 parts in
+16 	 17 	 (NP\NP)/NP 	 1 	 parts of
+19 	 17 	 (NP\NP)/NP 	 2 	 Jersey of
+19 	 18 	 N/N 	 1 	 Jersey New
+<\s>
+<s id="wsj_0280.30"> 21
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it 's
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 it adding <XB>
+2 	 0 	 S/S 	 1 	 's And
+2 	 12 	 (S[dcl]\S[dcl])/NP 	 1 	 's says
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 adding 's
+4 	 5 	 ((N/N)\(N/N))/(N/N) 	 2 	 15 to
+6 	 5 	 ((N/N)\(N/N))/(N/N) 	 3 	 20 to
+8 	 3 	 (S[ng]\NP)/NP 	 2 	 outlets adding
+8 	 4 	 N/N 	 1 	 outlets 15
+8 	 7 	 N/N 	 1 	 outlets new
+8 	 9 	 (NP\NP)/N 	 1 	 outlets a
+10 	 9 	 (NP\NP)/N 	 2 	 day a
+14 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 Ricca says
+14 	 13 	 N/N 	 1 	 Ricca Greg
+17 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 director says
+17 	 16 	 N/N 	 1 	 director sales
+17 	 18 	 (NP\NP)/NP 	 1 	 director at
+20 	 18 	 (NP\NP)/NP 	 2 	 Lecheria at
+20 	 19 	 N/N 	 1 	 Lecheria La
+<\s>
+<s id="wsj_0280.31"> 22
+1 	 0 	 (S/S)/PP 	 2 	 of Because
+3 	 2 	 N/N 	 1 	 Fresca Leche
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Fresca 's
+5 	 1 	 PP/NP 	 1 	 success of
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 success 's
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 he says
+12 	 10 	 NP[nb]/N 	 1 	 venture the
+12 	 11 	 N/N 	 1 	 venture joint
+12 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 venture is
+12 	 14 	 (S[ng]\NP)/NP 	 1 	 venture developing <XB>
+13 	 0 	 (S/S)/PP 	 1 	 is Because
+13 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 is says <XU>
+14 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 developing is
+17 	 14 	 (S[ng]\NP)/NP 	 2 	 products developing
+17 	 15 	 N/N 	 1 	 products other
+17 	 16 	 N/N 	 1 	 products dairy
+17 	 18 	 (S[pss]\NP)/PP 	 1 	 products tailored <XB>
+19 	 18 	 (S[pss]\NP)/PP 	 2 	 to tailored
+21 	 19 	 PP/NP 	 1 	 tastes to
+21 	 20 	 N/N 	 1 	 tastes Hispanic
+<\s>
+<s id="wsj_0280.32"> 5
+1 	 0 	 N/N 	 1 	 Makers Jewelry
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Makers Copy
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 Ploys Copy
+5 	 3 	 N/N 	 1 	 Ploys Cosmetics
+5 	 4 	 N/N 	 1 	 Ploys Sales
+<\s>
+<s id="wsj_0280.33"> 10
+1 	 0 	 (S/S)/NP 	 2 	 YEARS FOR
+5 	 3 	 N/N 	 1 	 makers costume
+5 	 4 	 N/N 	 1 	 makers jewelry
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 makers fought
+6 	 0 	 (S/S)/NP 	 1 	 fought FOR
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 battle fought
+9 	 7 	 NP[nb]/N 	 1 	 battle a
+9 	 8 	 N/N 	 1 	 battle losing
+<\s>
+<s id="wsj_0280.34"> 10
+1 	 0 	 N/N 	 1 	 displays Jewelry
+1 	 2 	 (NP\NP)/NP 	 1 	 displays in
+1 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 displays were
+1 	 7 	 S[adj]\NP 	 1 	 displays cluttered <XB>
+1 	 9 	 S[adj]\NP 	 1 	 displays uninspired <XU>
+4 	 2 	 (NP\NP)/NP 	 2 	 stores in
+4 	 3 	 N/N 	 1 	 stores department
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 were often
+7 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 cluttered were
+9 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 uninspired were
+<\s>
+<s id="wsj_0280.35"> 8
+2 	 1 	 NP[nb]/N 	 1 	 merchandise the
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 merchandise was
+2 	 7 	 S[adj]\NP 	 1 	 merchandise fake <XB>
+3 	 0 	 S/S 	 1 	 was And
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 was well
+7 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 fake was
+<\s>
+<s id="wsj_0280.36"> 21
+2 	 0 	 (S/S)/NP 	 2 	 result As
+2 	 1 	 NP[nb]/N 	 1 	 result a
+4 	 5 	 (NP\NP)/NP 	 1 	 marketers of
+4 	 9 	 ((S[dcl]\NP)/PP)/NP 	 1 	 marketers lost
+7 	 5 	 (NP\NP)/NP 	 2 	 gems of
+7 	 6 	 N/N 	 1 	 gems faux
+9 	 0 	 (S/S)/NP 	 1 	 lost As
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 lost steadily
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 lost in
+10 	 9 	 ((S[dcl]\NP)/PP)/NP 	 3 	 space lost
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 stores in
+13 	 12 	 N/N 	 1 	 stores department
+14 	 9 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to lost
+16 	 15 	 (N/N)/(N/N) 	 2 	 fashionable more
+17 	 14 	 PP/NP 	 1 	 rivals to
+17 	 16 	 N/N 	 1 	 rivals fashionable
+17 	 18 	 (NP\NP)/NP 	 1 	 rivals --
+20 	 18 	 (NP\NP)/NP 	 2 	 makers --
+20 	 19 	 N/N 	 1 	 makers cosmetics
+<\s>
+<s id="wsj_0280.37"> 11
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 retailers say
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 fake has
+6 	 8 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 fake become <XB>
+6 	 10 	 S[adj]\NP 	 1 	 fake fashionable <XB>
+7 	 0 	 S/S 	 1 	 has But
+7 	 1 	 S/S 	 1 	 has lately
+7 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 has say <XU>
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 become has
+10 	 8 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 fashionable become
+10 	 9 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 fashionable more
+<\s>
+<s id="wsj_0280.38"> 20
+2 	 1 	 N/N 	 1 	 makers jewelry
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 makers are
+2 	 4 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 makers beginning <XB>
+2 	 6 	 (S[b]\NP)/NP 	 1 	 makers use <XB>
+3 	 0 	 S/S 	 1 	 are And
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 beginning are
+5 	 4 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to beginning
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 use to
+7 	 6 	 (S[b]\NP)/NP 	 2 	 many use
+7 	 8 	 (NP\NP)/NP 	 1 	 many of
+12 	 8 	 (NP\NP)/NP 	 2 	 tricks of
+12 	 9 	 NP[nb]/N 	 1 	 tricks the
+12 	 10 	 N/N 	 1 	 tricks same
+12 	 11 	 N/N 	 1 	 tricks marketing
+12 	 13 	 S[pss]\NP 	 1 	 tricks honed <XB>
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 honed in
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 world in
+17 	 15 	 NP[nb]/N 	 1 	 world the
+17 	 16 	 N/N 	 1 	 world aggressive
+17 	 18 	 (NP\NP)/NP 	 1 	 world of
+19 	 18 	 (NP\NP)/NP 	 2 	 cosmetics of
+<\s>
+<s id="wsj_0280.39"> 23
+1 	 0 	 (S/S)/(S/S) 	 2 	 year Last
+5 	 3 	 NP[nb]/N 	 1 	 women the
+5 	 4 	 N/N 	 1 	 women total
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 women 's
+9 	 6 	 (NP[nb]/N)\NP 	 1 	 business 's
+9 	 7 	 N/N 	 1 	 business fashion
+9 	 8 	 N/N 	 1 	 business jewelry
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 business topped
+10 	 1 	 S/S 	 1 	 topped year
+10 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 topped says
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 $ topped
+13 	 11 	 N/N[num] 	 1 	 billion $
+13 	 12 	 N/N 	 1 	 billion 4.9
+17 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 Alberg says
+17 	 16 	 N/N 	 1 	 Alberg Karen
+19 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 editor says
+19 	 20 	 (NP\NP)/NP 	 1 	 editor of
+22 	 20 	 (NP\NP)/NP 	 2 	 magazine of
+22 	 21 	 N/N 	 1 	 magazine Accessories
+<\s>
+<s id="wsj_0280.40"> 15
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it 's
+1 	 3 	 S[ng]\NP 	 1 	 it growing <XB>
+2 	 0 	 S/S 	 1 	 's And
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 growing 's
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 growing fast
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 growing with
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 gains with
+9 	 7 	 N/N 	 1 	 gains annual
+9 	 8 	 N/N 	 1 	 gains sales
+9 	 10 	 (NP\NP)/NP 	 1 	 gains of
+11 	 12 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+13 	 12 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 10 than
+14 	 10 	 (NP\NP)/NP 	 2 	 % of
+14 	 13 	 N/N 	 1 	 % 10
+<\s>
+<s id="wsj_0280.41"> 42
+1 	 0 	 (S[to]\NP)/(S[b]\NP) 	 2 	 increase To
+3 	 1 	 (S[b]\NP)/NP 	 2 	 share increase
+3 	 2 	 NP[nb]/N 	 1 	 share their
+3 	 4 	 (NP\NP)/NP 	 1 	 share of
+6 	 4 	 (NP\NP)/NP 	 2 	 business of
+6 	 5 	 NP[nb]/N 	 1 	 business that
+9 	 8 	 N/N 	 1 	 makers jewelry
+9 	 11 	 (NP\NP)/NP 	 1 	 makers as
+9 	 30 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 makers are
+9 	 31 	 (S[ng]\NP)/NP 	 1 	 makers launching <XB>
+11 	 10 	 (NP\NP)/(NP\NP) 	 2 	 as such
+14 	 12 	 N/N 	 1 	 Inc. Crystal
+14 	 13 	 N/N 	 1 	 Inc. Brands
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 Inc. 's
+19 	 11 	 (NP\NP)/NP 	 2 	 units as
+19 	 15 	 (NP[nb]/N)\NP 	 1 	 units 's
+19 	 16 	 N/N 	 1 	 units Trifari
+19 	 18 	 N/N 	 1 	 units Monet
+22 	 11 	 (NP\NP)/NP 	 2 	 Inc. as
+22 	 21 	 N/N 	 1 	 Inc. Swank
+24 	 11 	 (NP\NP)/NP 	 2 	 maker as
+24 	 25 	 (NP\NP)/NP 	 1 	 maker of
+28 	 25 	 (NP\NP)/NP 	 2 	 jewelry of
+28 	 26 	 N/N 	 1 	 jewelry Anne
+28 	 27 	 N/N 	 1 	 jewelry Klein
+31 	 30 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 launching are
+31 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 launching with
+33 	 31 	 (S[ng]\NP)/NP 	 2 	 lines launching
+33 	 32 	 N/N 	 1 	 lines new
+36 	 35 	 (N/N)/(N/N) 	 2 	 much as
+37 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 fanfare with
+37 	 36 	 N/N 	 1 	 fanfare much
+37 	 38 	 (NP\NP)/NP 	 1 	 fanfare as
+41 	 38 	 (NP\NP)/NP 	 2 	 companies as
+41 	 39 	 NP[nb]/N 	 1 	 companies the
+41 	 40 	 N/N 	 1 	 companies fragrance
+<\s>
+<s id="wsj_0280.42"> 35
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 They 're
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 They hiring <XB>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 hiring 're
+3 	 2 	 (S[ng]\NP)/NP 	 2 	 models hiring
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stroll to
+7 	 5 	 (S[b]\NP)/NP 	 2 	 aisles stroll
+7 	 6 	 NP[nb]/N 	 1 	 aisles the
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 jewels sporting
+10 	 9 	 NP[nb]/N 	 1 	 jewels their
+13 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they 're
+13 	 16 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 they beginning <XB>
+13 	 18 	 (S[b]\NP)/NP 	 1 	 they borrow <XB>
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 're even
+16 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 beginning 're
+17 	 16 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to beginning
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 borrow to
+21 	 18 	 (S[b]\NP)/NP 	 2 	 favorite borrow
+21 	 19 	 NP[nb]/N 	 1 	 favorite a
+21 	 20 	 N/N 	 1 	 favorite perennial
+21 	 22 	 (NP\NP)/NP 	 1 	 favorite of
+21 	 26 	 (NP\NP)/(S[ng]\NP) 	 1 	 favorite --
+25 	 22 	 (NP\NP)/NP 	 2 	 business of
+25 	 23 	 NP[nb]/N 	 1 	 business the
+25 	 24 	 N/N 	 1 	 business beauty
+27 	 26 	 (NP\NP)/(S[ng]\NP) 	 2 	 offering --
+27 	 30 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 offering when
+29 	 27 	 (S[ng]\NP)/NP 	 2 	 gift offering
+29 	 28 	 NP[nb]/N 	 1 	 gift a
+31 	 32 	 (S[dcl]\NP)/NP 	 1 	 consumers make
+32 	 30 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 make when
+34 	 32 	 (S[dcl]\NP)/NP 	 2 	 purchase make
+34 	 33 	 NP[nb]/N 	 1 	 purchase a
+<\s>
+<s id="wsj_0280.43"> 23
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 We 've
+0 	 2 	 (S[pt]\NP)/(S[ng]\NP) 	 1 	 We started <XB>
+0 	 3 	 (S[ng]\NP)/NP 	 1 	 We trying <XB>
+0 	 8 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 1 	 We keep <XB>
+1 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 've says
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 started 've
+3 	 2 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 trying started
+6 	 3 	 (S[ng]\NP)/NP 	 2 	 anything trying
+6 	 4 	 NP/NP 	 1 	 anything just
+6 	 5 	 NP/NP 	 1 	 anything about
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 keep to
+9 	 8 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 3 	 sales keep
+9 	 10 	 S[ng]\NP 	 1 	 sales moving <XB>
+10 	 8 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 2 	 moving keep
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 moving in
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 stores in
+13 	 12 	 NP[nb]/N 	 1 	 stores the
+17 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 Renk says
+17 	 16 	 N/N 	 1 	 Renk Kim
+22 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+22 	 19 	 NP[nb]/N 	 1 	 president a
+22 	 20 	 N/N 	 1 	 president Swank
+22 	 21 	 N/N 	 1 	 president vice
+<\s>
+<s id="wsj_0280.44"> 4
+1 	 2 	 (S[dcl]\NP[thr])/NP 	 1 	 there are
+2 	 0 	 S/S 	 1 	 are But
+3 	 2 	 (S[dcl]\NP[thr])/NP 	 2 	 limits are
+<\s>
+<s id="wsj_0280.45"> 12
+1 	 0 	 N/N 	 1 	 Renk Ms.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Renk says
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 retailers nixed
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 nixed says
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 promotion nixed
+6 	 5 	 NP[nb]/N 	 1 	 promotion a
+6 	 7 	 (NP\NP)/NP 	 1 	 promotion for
+8 	 7 	 (NP\NP)/NP 	 2 	 pins for
+8 	 9 	 (NP\NP)/NP 	 1 	 pins with
+11 	 9 	 (NP\NP)/NP 	 2 	 motifs with
+11 	 10 	 N/N 	 1 	 motifs animal
+<\s>
+<s id="wsj_0280.46"> 8
+1 	 0 	 NP[nb]/N 	 1 	 idea Her
+1 	 2 	 (NP\NP)/(S[b]\NP) 	 1 	 idea :
+1 	 3 	 (S[b]\NP)/NP 	 1 	 idea bring <XB>
+3 	 2 	 (NP\NP)/(S[b]\NP) 	 2 	 bring :
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 bring in
+7 	 3 	 (S[b]\NP)/NP 	 2 	 animals bring
+7 	 5 	 N/N 	 1 	 animals live
+7 	 6 	 N/N 	 1 	 animals zoo
+<\s>
+<s id="wsj_0280.47"> 20
+0 	 2 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 Trifari whose
+0 	 16 	 (S[dcl]\NP)/NP 	 1 	 Trifari takes
+4 	 2 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 ads whose
+4 	 3 	 N/N 	 1 	 ads national
+4 	 8 	 (S[dcl]\NP)/NP 	 1 	 ads included <XB>
+6 	 5 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 this earlier
+7 	 6 	 ((S\NP)/(S\NP))/N 	 3 	 year this
+8 	 2 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 included whose
+8 	 6 	 ((S\NP)/(S\NP))/N 	 2 	 included this
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 cutouts included
+10 	 9 	 N/N 	 1 	 cutouts paper
+10 	 11 	 (NP\NP)/NP 	 1 	 cutouts of
+14 	 11 	 (NP\NP)/NP 	 2 	 finery of
+14 	 12 	 NP[nb]/N 	 1 	 finery its
+14 	 13 	 N/N 	 1 	 finery costume
+19 	 16 	 (S[dcl]\NP)/NP 	 2 	 approach takes
+19 	 17 	 NP[nb]/N 	 1 	 approach a
+19 	 18 	 N/N 	 1 	 approach tamer
+<\s>
+<s id="wsj_0280.48"> 14
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 company focuses
+2 	 8 	 (S[dcl]\S[dcl])/NP 	 1 	 focuses says
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 on focuses
+6 	 3 	 PP/NP 	 1 	 aspects on
+6 	 4 	 NP[nb]/N 	 1 	 aspects the
+6 	 5 	 N/N 	 1 	 aspects how-to
+11 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 Philip says
+11 	 9 	 N/N 	 1 	 Philip Andrew
+11 	 10 	 N/N 	 1 	 Philip E.
+13 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+<\s>
+<s id="wsj_0280.49"> 13
+0 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Trifari trains
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 trains now
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 help trains
+4 	 3 	 N/N 	 1 	 help sales
+4 	 6 	 ((S[b]\NP)/PP)/NP 	 1 	 help advise <XB>
+5 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to trains
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 advise to
+7 	 6 	 ((S[b]\NP)/PP)/NP 	 3 	 customers advise
+8 	 6 	 ((S[b]\NP)/PP)/NP 	 2 	 on advise
+12 	 8 	 PP/NP 	 1 	 styles on
+12 	 9 	 NP[nb]/N 	 1 	 styles the
+12 	 10 	 N/N 	 1 	 styles best
+12 	 11 	 N/N 	 1 	 styles earring
+<\s>
+<s id="wsj_0280.50"> 16
+2 	 1 	 N/N 	 1 	 firms cosmetics
+2 	 4 	 (S[dcl]\NP)/NP 	 1 	 firms have
+4 	 0 	 S/S 	 1 	 have But
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 have still
+4 	 9 	 (S\S)/S[dcl] 	 1 	 have :
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 edge have
+8 	 5 	 N/N 	 1 	 edge one
+8 	 6 	 N/N 	 1 	 edge big
+8 	 7 	 N/N 	 1 	 edge marketing
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 They motivate
+11 	 9 	 (S\S)/S[dcl] 	 2 	 motivate :
+11 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 motivate with
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 people motivate
+13 	 12 	 N/N 	 1 	 people sales
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 commissions with
+<\s>
+<s id="wsj_0280.51"> 12
+1 	 0 	 N/N 	 1 	 makers Jewelry
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 makers pay
+1 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 makers are <XU>
+1 	 8 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 makers expected <XU>
+1 	 9 	 S[to]\NP 	 1 	 makers to <XU>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 pay rarely
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 commissions pay
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 are n't
+8 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+8 	 11 	 (S\NP)\(S\NP) 	 2 	 expected soon
+9 	 8 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 soon anytime
+<\s>
+<s id="wsj_0280.52"> 2
+<\s>
+<s id="wsj_0280.53"> 20
+2 	 0 	 (S/S)/NP 	 2 	 interest DESPITE
+2 	 1 	 N/N 	 1 	 interest GROWING
+2 	 3 	 (NP\NP)/NP 	 1 	 interest in
+5 	 3 	 (NP\NP)/NP 	 2 	 environment in
+5 	 4 	 NP[nb]/N 	 1 	 environment the
+8 	 7 	 N/N 	 1 	 consumers U.S.
+8 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 consumers have
+8 	 11 	 (S[pt]\NP)/NP 	 1 	 consumers shown <XB>
+9 	 0 	 (S/S)/NP 	 1 	 have DESPITE
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 have n't
+11 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 shown have
+13 	 11 	 (S[pt]\NP)/NP 	 2 	 interest shown
+13 	 12 	 N/N 	 1 	 interest much
+13 	 14 	 (NP\NP)/NP 	 1 	 interest in
+16 	 14 	 (NP\NP)/NP 	 2 	 packages in
+16 	 15 	 N/N 	 1 	 packages refillable
+16 	 17 	 (NP\NP)/NP 	 1 	 packages for
+19 	 17 	 (NP\NP)/NP 	 2 	 products for
+19 	 18 	 N/N 	 1 	 products household
+<\s>
+<s id="wsj_0280.54"> 31
+3 	 0 	 N/N 	 1 	 Co. Procter
+3 	 1 	 N/N 	 1 	 Co. &
+3 	 2 	 N/N 	 1 	 Co. Gamble
+3 	 5 	 (S[dcl]\NP)/NP 	 1 	 Co. introduced
+3 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Co. does <XU>
+3 	 24 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Co. plan <XU>
+3 	 26 	 (S[b]\NP)/NP 	 1 	 Co. bring <XU>
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 introduced recently
+5 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 introduced in
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 versions introduced
+7 	 6 	 N/N 	 1 	 versions refillable
+7 	 8 	 (NP\NP)/NP 	 1 	 versions of
+10 	 8 	 (NP\NP)/NP 	 2 	 products of
+10 	 9 	 N/N 	 1 	 products four
+10 	 12 	 (NP\NP)/NP 	 1 	 products including
+13 	 12 	 (NP\NP)/NP 	 2 	 Tide including
+16 	 12 	 (NP\NP)/NP 	 2 	 Clean including
+16 	 15 	 N/N 	 1 	 Clean Mr.
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 Canada in
+22 	 4 	 (S\NP)/(S\NP) 	 2 	 does recently
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 does n't
+24 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 plan does
+25 	 24 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to plan
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 bring to
+26 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 bring to
+27 	 26 	 (S[b]\NP)/NP 	 2 	 them bring
+30 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. to
+30 	 29 	 NP[nb]/N 	 1 	 U.S. the
+<\s>
+<s id="wsj_0280.55"> 11
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Marketers believe
+3 	 2 	 N/N 	 1 	 Americans most
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Americans wo
+3 	 6 	 (S[b]\NP)/NP 	 1 	 Americans make <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 wo believe
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 wo n't
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make wo
+9 	 6 	 (S[b]\NP)/NP 	 2 	 trade-off make
+9 	 7 	 NP[nb]/N 	 1 	 trade-off the
+9 	 8 	 N/N 	 1 	 trade-off convenience
+<\s>
+<s id="wsj_0280.56"> 15
+1 	 0 	 N/N 	 1 	 Ltd. Braumeisters
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Ltd. tests
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 beer tests
+4 	 3 	 NP[nb]/N 	 1 	 beer a
+4 	 5 	 (S[pss]\NP)/PP 	 1 	 beer brewed <XB>
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 with brewed
+8 	 6 	 PP/NP 	 1 	 bran with
+8 	 7 	 N/N 	 1 	 bran oat
+11 	 10 	 conj/conj 	 1 	 than rather
+12 	 6 	 PP/NP 	 1 	 rice with
+14 	 6 	 PP/NP 	 1 	 corn with
+<\s>
+<s id="wsj_0280.57"> 16
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Otto 's
+6 	 0 	 (S[pss]\NP)/NP 	 2 	 Beer Called
+6 	 2 	 (NP[nb]/N)\NP 	 1 	 Beer 's
+6 	 3 	 N/N 	 1 	 Beer Original
+6 	 4 	 N/N 	 1 	 Beer Oat
+6 	 5 	 N/N 	 1 	 Beer Bran
+9 	 8 	 NP[nb]/N 	 1 	 brew the
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 brew costs
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 $ costs
+12 	 11 	 N/N 	 1 	 $ about
+12 	 14 	 (NP\NP)/N 	 1 	 $ a
+13 	 12 	 N/N[num] 	 1 	 12.75 $
+15 	 14 	 (NP\NP)/N 	 2 	 case a
+<\s>
+<s id="wsj_0280.58"> 5
+1 	 0 	 NP[nb]/N 	 1 	 cholesterol No
+1 	 3 	 (NP\NP)/NP 	 1 	 cholesterol of
+4 	 3 	 (NP\NP)/NP 	 2 	 course of
+<\s>

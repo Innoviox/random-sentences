@@ -1,0 +1,89 @@
+<s id="wsj_0740.1"> 28
+2 	 0 	 N/N 	 1 	 Pissocra Carl
+2 	 1 	 N/N 	 1 	 Pissocra E.
+2 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Pissocra has
+2 	 17 	 (S[pss]\NP)/NP 	 1 	 Pissocra named <XB>
+4 	 9 	 (NP\NP)/NP 	 1 	 president of
+4 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 president has
+4 	 17 	 (S[pss]\NP)/NP 	 1 	 president named <XB>
+8 	 6 	 N/N 	 1 	 officer chief
+8 	 7 	 N/N 	 1 	 officer executive
+8 	 9 	 (NP\NP)/NP 	 1 	 officer of
+8 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 officer has
+8 	 17 	 (S[pss]\NP)/NP 	 1 	 officer named <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 One of
+11 	 10 	 N/N 	 1 	 One Bank
+11 	 13 	 NP\NP 	 1 	 One Dover
+16 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+17 	 16 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 named been
+19 	 17 	 (S[pss]\NP)/NP 	 2 	 president named
+19 	 18 	 N/N 	 1 	 president regional
+23 	 17 	 (S[pss]\NP)/NP 	 2 	 post named
+23 	 21 	 NP[nb]/N 	 1 	 post a
+23 	 22 	 N/N 	 1 	 post new
+23 	 24 	 (NP\NP)/NP 	 1 	 post at
+27 	 24 	 (NP\NP)/NP 	 2 	 company at
+27 	 25 	 NP[nb]/N 	 1 	 company the
+27 	 26 	 N/N 	 1 	 company bank-holding
+<\s>
+<s id="wsj_0740.2"> 20
+1 	 0 	 N/N 	 1 	 Pissocra Mr.
+1 	 5 	 (S[adj]\NP)\NP 	 1 	 Pissocra old <XB>
+1 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Pissocra will
+1 	 9 	 (S[adj]\NP)/PP 	 1 	 Pissocra responsible <XB>
+4 	 3 	 N/N 	 1 	 years 56
+4 	 5 	 (S[adj]\NP)\NP 	 2 	 years old
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+9 	 8 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 responsible be
+10 	 9 	 (S[adj]\NP)/PP 	 2 	 for responsible
+12 	 11 	 NP[nb]/N 	 1 	 company the
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 company 's
+15 	 10 	 PP/NP 	 1 	 banks for
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 banks 's
+15 	 14 	 N/N 	 1 	 banks 10
+15 	 16 	 (NP\NP)/NP 	 1 	 banks in
+19 	 16 	 (NP\NP)/NP 	 2 	 region in
+19 	 17 	 NP[nb]/N 	 1 	 region the
+19 	 18 	 N/N 	 1 	 region Eastern
+<\s>
+<s id="wsj_0740.3"> 29
+2 	 0 	 N/N 	 1 	 Hartwell Dan
+2 	 1 	 N/N 	 1 	 Hartwell J.
+2 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Hartwell was
+2 	 16 	 (S[pss]\NP)/NP 	 1 	 Hartwell named <XB>
+2 	 26 	 (S[ng]\NP)/NP 	 1 	 Hartwell succeeding <XB>
+4 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 41 was
+4 	 16 	 (S[pss]\NP)/NP 	 1 	 41 named <XB>
+4 	 26 	 (S[ng]\NP)/NP 	 1 	 41 succeeding <XB>
+8 	 6 	 N/N 	 1 	 president executive
+8 	 7 	 N/N 	 1 	 president vice
+8 	 9 	 (NP\NP)/NP 	 1 	 president of
+8 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 president was
+8 	 16 	 (S[pss]\NP)/NP 	 1 	 president named <XB>
+8 	 26 	 (S[ng]\NP)/NP 	 1 	 president succeeding <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 One of
+11 	 10 	 N/N 	 1 	 One Bank
+11 	 13 	 NP\NP 	 1 	 One Dover
+16 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+17 	 16 	 (S[pss]\NP)/NP 	 2 	 president named
+17 	 21 	 (NP\NP)/NP 	 1 	 president of
+20 	 16 	 (S[pss]\NP)/NP 	 2 	 executive named
+20 	 19 	 N/N 	 1 	 executive chief
+20 	 21 	 (NP\NP)/NP 	 1 	 executive of
+24 	 21 	 (NP\NP)/NP 	 2 	 bank of
+24 	 22 	 NP[nb]/N 	 1 	 bank the
+24 	 23 	 N/N 	 1 	 bank Dover
+28 	 26 	 (S[ng]\NP)/NP 	 2 	 Pissocra succeeding
+28 	 27 	 N/N 	 1 	 Pissocra Mr.
+<\s>
+<s id="wsj_0740.4"> 8
+1 	 0 	 NP[nb]/N 	 1 	 one No
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 one was
+1 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 one named <XB>
+1 	 5 	 (S[b]\NP)/NP 	 1 	 one succeed <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+4 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to named
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 succeed to
+7 	 5 	 (S[b]\NP)/NP 	 2 	 Hartwell succeed
+7 	 6 	 N/N 	 1 	 Hartwell Mr.
+<\s>

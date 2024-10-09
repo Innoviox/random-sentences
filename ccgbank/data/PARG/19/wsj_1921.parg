@@ -1,0 +1,107 @@
+<s id="wsj_1921.1"> 37
+1 	 0 	 N/N 	 1 	 PLC Beazer
+1 	 12 	 (S[dcl]\NP)/NP 	 1 	 PLC reported
+1 	 26 	 S[pss]\NP 	 1 	 PLC helped <XB>
+10 	 3 	 NP[nb]/N 	 1 	 concern a
+10 	 4 	 N/N 	 1 	 concern major
+10 	 5 	 N/N 	 1 	 concern British
+10 	 6 	 N/N 	 1 	 concern building
+10 	 7 	 N/N 	 1 	 concern materials
+10 	 9 	 N/N 	 1 	 concern construction
+10 	 12 	 (S[dcl]\NP)/NP 	 1 	 concern reported
+10 	 26 	 S[pss]\NP 	 1 	 concern helped <XB>
+15 	 14 	 (N/N)/(N/N) 	 2 	 % 24
+16 	 12 	 (S[dcl]\NP)/NP 	 2 	 jump reported
+16 	 13 	 NP[nb]/N 	 1 	 jump a
+16 	 15 	 N/N 	 1 	 jump %
+16 	 17 	 (NP\NP)/NP 	 1 	 jump in
+16 	 20 	 (NP\NP)/NP 	 1 	 jump for
+19 	 17 	 (NP\NP)/NP 	 2 	 profit in
+19 	 18 	 N/N 	 1 	 profit pretax
+24 	 20 	 (NP\NP)/NP 	 2 	 year for
+24 	 21 	 NP[nb]/N 	 1 	 year its
+24 	 22 	 N/N 	 1 	 year latest
+24 	 23 	 N/N 	 1 	 year financial
+26 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 helped by
+28 	 27 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 by largely
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 contributions by
+29 	 30 	 (NP\NP)/NP 	 1 	 contributions from
+33 	 30 	 (NP\NP)/NP 	 2 	 unit from
+33 	 31 	 NP[nb]/N 	 1 	 unit its
+33 	 32 	 N/N 	 1 	 unit U.S.
+36 	 30 	 (NP\NP)/NP 	 2 	 Co from
+36 	 35 	 N/N 	 1 	 Co Koppers
+<\s>
+<s id="wsj_1921.2"> 33
+1 	 0 	 N/N 	 1 	 profit Pretax
+1 	 2 	 (NP\NP)/NP 	 1 	 profit for
+1 	 8 	 S[dcl]\NP 	 1 	 profit rose
+1 	 29 	 (S[ng]\NP)/NP 	 1 	 profit matching <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 year for
+4 	 3 	 NP[nb]/N 	 1 	 year the
+4 	 5 	 (NP\NP)/NP 	 1 	 year to
+6 	 5 	 (NP\NP)/NP 	 2 	 June to
+7 	 6 	 N/N[num] 	 1 	 30 June
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+8 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 # to
+10 	 13 	 (NP\NP)/NP 	 1 	 # -LRB-
+12 	 10 	 N/N[num] 	 1 	 million #
+12 	 11 	 N/N 	 1 	 million 142.5
+14 	 13 	 (NP\NP)/NP 	 2 	 $ -LRB-
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 224.5
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 # from
+19 	 22 	 (NP\NP)/NP 	 1 	 # -LRB-
+21 	 19 	 N/N[num] 	 1 	 million #
+21 	 20 	 N/N 	 1 	 million 114.7
+23 	 22 	 (NP\NP)/NP 	 2 	 $ -LRB-
+25 	 23 	 N/N[num] 	 1 	 million $
+25 	 24 	 N/N 	 1 	 million 180.7
+29 	 28 	 (S\NP)/(S\NP) 	 2 	 matching broadly
+30 	 31 	 (NP[nb]/N)\NP 	 2 	 analysts '
+32 	 29 	 (S[ng]\NP)/NP 	 2 	 expectations matching
+32 	 31 	 (NP[nb]/N)\NP 	 1 	 expectations '
+<\s>
+<s id="wsj_1921.3"> 46
+0 	 1 	 (NP\NP)/NP 	 1 	 Profit after
+0 	 7 	 (NP\NP)/NP 	 1 	 Profit before <XU>
+0 	 10 	 S[dcl]\NP 	 1 	 Profit increased
+2 	 1 	 (NP\NP)/NP 	 2 	 taxes after
+5 	 1 	 (NP\NP)/NP 	 2 	 interests after
+5 	 4 	 N/N 	 1 	 interests minority
+9 	 7 	 (NP\NP)/NP 	 2 	 items before
+9 	 8 	 N/N 	 1 	 items extraordinary
+10 	 12 	 (S\NP)\(S\NP) 	 2 	 increased %
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+10 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 increased from
+10 	 25 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 increased while
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 22
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 # to
+16 	 14 	 N/N[num] 	 1 	 million #
+16 	 15 	 N/N 	 1 	 million 92.6
+17 	 23 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 3 	 from earlier
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 # from
+20 	 18 	 N/N[num] 	 1 	 million #
+20 	 19 	 N/N 	 1 	 million 75.6
+22 	 21 	 NP[nb]/N 	 1 	 year a
+22 	 23 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 4 	 year earlier
+27 	 26 	 (N/N)/(N/N) 	 2 	 diluted fully
+28 	 27 	 N/N 	 1 	 earnings diluted
+28 	 29 	 (NP\NP)/NP 	 1 	 earnings per
+28 	 31 	 S[dcl]\NP 	 1 	 earnings rose
+30 	 29 	 (NP\NP)/NP 	 2 	 share per
+31 	 25 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 rose while
+31 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+31 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+34 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 pence to
+34 	 33 	 N/N 	 1 	 pence 29.90
+34 	 35 	 (NP\NP)/NP 	 1 	 pence -LRB-
+37 	 35 	 (NP\NP)/NP 	 2 	 cents -LRB-
+37 	 36 	 N/N 	 1 	 cents 47
+41 	 39 	 ((S\NP)\(S\NP))/NP 	 3 	 pence from
+41 	 40 	 N/N 	 1 	 pence 24.68
+41 	 42 	 (NP\NP)/NP 	 1 	 pence -LRB-
+44 	 42 	 (NP\NP)/NP 	 2 	 cents -LRB-
+44 	 43 	 N/N 	 1 	 cents 39
+<\s>

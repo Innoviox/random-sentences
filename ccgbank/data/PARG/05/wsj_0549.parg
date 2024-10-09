@@ -1,0 +1,36 @@
+<s id="wsj_0549.1"> 20
+3 	 0 	 NP[nb]/N 	 1 	 Exchange The
+3 	 1 	 N/N 	 1 	 Exchange American
+3 	 2 	 N/N 	 1 	 Exchange Stock
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Exchange said
+6 	 5 	 NP[nb]/N 	 1 	 seat a
+6 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 seat was
+6 	 8 	 (S[pss]\NP)/PP 	 1 	 seat sold <XB>
+7 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sold was
+9 	 8 	 (S[pss]\NP)/PP 	 2 	 for sold
+10 	 9 	 PP/NP 	 1 	 $ for
+10 	 13 	 (NP\NP)/PP 	 1 	 $ unchanged
+11 	 10 	 N/N[num] 	 1 	 165,000 $
+14 	 13 	 (NP\NP)/PP 	 2 	 from unchanged
+17 	 14 	 PP/NP 	 1 	 sale from
+17 	 15 	 NP[nb]/N 	 1 	 sale the
+17 	 16 	 N/N 	 1 	 sale previous
+17 	 18 	 (NP\NP)/N[num] 	 1 	 sale Oct.
+19 	 18 	 (NP\NP)/N[num] 	 2 	 13 Oct.
+<\s>
+<s id="wsj_0549.2"> 15
+0 	 1 	 (NP\NP)/NP 	 1 	 Seats on
+0 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Seats are
+0 	 6 	 (S[pss]\NP)/PP 	 1 	 Seats quoted <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 Amex on
+3 	 2 	 NP[nb]/N 	 1 	 Amex the
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 are currently
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 quoted are
+7 	 6 	 (S[pss]\NP)/PP 	 2 	 at quoted
+8 	 7 	 PP/NP 	 1 	 $ at
+9 	 8 	 N/N[num] 	 1 	 151,000 $
+12 	 7 	 PP/NP 	 1 	 $ at
+12 	 14 	 S[pss]\NP 	 1 	 $ asked <XB>
+13 	 12 	 N/N[num] 	 1 	 200,000 $
+<\s>

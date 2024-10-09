@@ -1,0 +1,134 @@
+<s id="wsj_0541.1"> 25
+3 	 0 	 N/N 	 1 	 Inc. Automatic
+3 	 1 	 N/N 	 1 	 Inc. Data
+3 	 2 	 N/N 	 1 	 Inc. Processing
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Inc. plans
+3 	 6 	 (S[b]\NP)/NP 	 1 	 Inc. redeem <XB>
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 redeem to
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 redeem on
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Nov. on
+9 	 8 	 N/N[num] 	 1 	 16 Nov.
+11 	 6 	 (S[b]\NP)/NP 	 2 	 $ redeem
+11 	 10 	 NP[nb]/N 	 1 	 $ its
+11 	 14 	 (NP\NP)/NP 	 1 	 $ of
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 150
+16 	 15 	 (N/N)/(N/N) 	 2 	 % 6.5
+19 	 14 	 (NP\NP)/NP 	 2 	 debentures of
+19 	 16 	 N/N 	 1 	 debentures %
+19 	 17 	 N/N 	 1 	 debentures convertible
+19 	 18 	 N/N 	 1 	 debentures subordinated
+19 	 20 	 (S[adj]\NP)/NP 	 1 	 debentures due <XB>
+21 	 20 	 (S[adj]\NP)/NP 	 2 	 March due
+21 	 24 	 N\N 	 1 	 March 2011
+22 	 21 	 N/N[num] 	 1 	 1 March
+<\s>
+<s id="wsj_0541.2"> 15
+2 	 0 	 NP[nb]/N 	 1 	 concern The
+2 	 1 	 N/N 	 1 	 concern computing-services
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 concern will
+2 	 4 	 (S[b]\NP)/NP 	 1 	 concern pay <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 pay will
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 pay for
+5 	 4 	 (S[b]\NP)/NP 	 2 	 $ pay
+6 	 5 	 N/N[num] 	 1 	 1,059.04 $
+10 	 9 	 (N/N)/N[num] 	 2 	 1,000 $
+12 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 amount for
+12 	 8 	 NP[nb]/N 	 1 	 amount each
+12 	 9 	 (N/N)/N[num] 	 1 	 amount $
+12 	 11 	 N/N 	 1 	 amount face
+12 	 13 	 (NP\NP)/NP 	 1 	 amount of
+14 	 13 	 (NP\NP)/NP 	 2 	 debt of
+<\s>
+<s id="wsj_0541.3"> 11
+2 	 0 	 NP[nb]/N 	 1 	 price The
+2 	 1 	 N/N 	 1 	 price conversion
+2 	 3 	 (NP\NP)/NP 	 1 	 price for
+2 	 6 	 (S[dcl]\NP)/NP 	 1 	 price is
+5 	 3 	 (NP\NP)/NP 	 2 	 debentures for
+5 	 4 	 NP[nb]/N 	 1 	 debentures the
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 $ is
+7 	 9 	 (NP\NP)/N 	 1 	 $ a
+8 	 7 	 N/N[num] 	 1 	 41.725 $
+10 	 9 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0541.4"> 21
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+10 	 9 	 N/N 	 1 	 Data Automatic
+10 	 11 	 S[dcl]\NP 	 1 	 Data closed
+11 	 0 	 (S/S)/NP 	 1 	 closed In
+11 	 7 	 S/S 	 1 	 closed Friday
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 closed at
+11 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 $ at
+13 	 15 	 (NP\NP)/N 	 1 	 $ a
+14 	 13 	 N/N[num] 	 1 	 46.50 $
+16 	 15 	 (NP\NP)/N 	 2 	 share a
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 $ down
+20 	 19 	 N/N[num] 	 1 	 2.25 $
+<\s>
+<s id="wsj_0541.5"> 29
+3 	 1 	 NP/NP 	 1 	 debt all
+3 	 2 	 NP[nb]/N 	 1 	 debt the
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 debt is
+3 	 5 	 (S[pss]\NP)/PP 	 1 	 debt converted <XB>
+4 	 0 	 (S/S)/S[dcl] 	 2 	 is If
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 converted is
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 to converted
+7 	 6 	 PP/NP 	 1 	 common to
+10 	 9 	 N/N 	 1 	 Data Automatic
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Data will
+10 	 12 	 (S[b]\NP)/NP 	 1 	 Data issue <XB>
+11 	 0 	 (S/S)/S[dcl] 	 1 	 will If
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 issue will
+15 	 13 	 (N/N)/(N/N) 	 2 	 million about
+15 	 14 	 (N/N)/(N/N) 	 2 	 million 3.6
+16 	 12 	 (S[b]\NP)/NP 	 2 	 shares issue
+16 	 15 	 N/N 	 1 	 shares million
+19 	 18 	 (S/S)/(S/S) 	 2 	 Monday last
+22 	 21 	 NP[nb]/N 	 1 	 company the
+22 	 23 	 (S[dcl]\NP)/NP 	 1 	 company had
+23 	 19 	 S/S 	 1 	 had Monday
+26 	 24 	 (N/N)/(N/N) 	 2 	 million nearly
+26 	 25 	 (N/N)/(N/N) 	 2 	 million 73
+27 	 23 	 (S[dcl]\NP)/NP 	 2 	 shares had
+27 	 26 	 N/N 	 1 	 shares million
+27 	 28 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>
+<s id="wsj_0541.6"> 29
+1 	 0 	 N/N 	 1 	 Data Automatic
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Data is
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 Data redeeming <XB>
+2 	 28 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 redeeming is
+3 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 redeeming because
+5 	 3 	 (S[ng]\NP)/NP 	 2 	 bonds redeeming
+5 	 4 	 NP[nb]/N 	 1 	 bonds the
+9 	 7 	 NP[nb]/N 	 1 	 cost the
+9 	 8 	 N/N 	 1 	 cost after-tax
+9 	 10 	 (NP\NP)/NP 	 1 	 cost of
+9 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 cost is
+9 	 17 	 S[adj]\NP 	 1 	 cost higher <XB>
+12 	 10 	 (NP\NP)/NP 	 2 	 interest of
+12 	 11 	 NP[nb]/N 	 1 	 interest the
+12 	 13 	 (NP\NP)/NP 	 1 	 interest on
+15 	 13 	 (NP\NP)/NP 	 2 	 bonds on
+15 	 14 	 NP[nb]/N 	 1 	 bonds the
+16 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is because
+17 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 higher is
+17 	 18 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 higher than
+21 	 18 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 yield than
+21 	 19 	 NP[nb]/N 	 1 	 yield the
+21 	 20 	 N/N 	 1 	 yield dividend
+21 	 22 	 (NP\NP)/NP 	 1 	 yield on
+24 	 22 	 (NP\NP)/NP 	 2 	 common on
+24 	 23 	 NP[nb]/N 	 1 	 common the
+27 	 26 	 NP[nb]/N 	 1 	 spokesman a
+27 	 28 	 (S[dcl]\S[dcl])\NP 	 2 	 spokesman said
+<\s>

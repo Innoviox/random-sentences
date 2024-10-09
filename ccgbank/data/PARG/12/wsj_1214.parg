@@ -1,0 +1,91 @@
+<s id="wsj_1214.1"> 26
+2 	 0 	 N/N 	 1 	 Inc. BSB
+2 	 1 	 N/N 	 1 	 Inc. BANCORP
+2 	 4 	 NP\NP 	 1 	 Inc. Binghamton
+2 	 6 	 NP\NP 	 1 	 Inc. N.Y. <XU>
+2 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 it increased
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 increased said
+10 	 16 	 (S\NP)\(S\NP) 	 2 	 increased %
+10 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+10 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 increased from
+14 	 10 	 (S[dcl]\NP)/NP 	 2 	 dividend increased
+14 	 11 	 NP[nb]/N 	 1 	 dividend its
+14 	 12 	 N/N 	 1 	 dividend regular
+14 	 13 	 N/N 	 1 	 dividend quarterly
+16 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 50
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+20 	 19 	 N/N 	 1 	 cents 15
+20 	 21 	 (NP\NP)/N 	 1 	 cents a
+22 	 21 	 (NP\NP)/N 	 2 	 share a
+25 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+25 	 24 	 N/N 	 1 	 cents 10
+<\s>
+<s id="wsj_1214.2"> 11
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 It is
+0 	 2 	 ((S[adj]\NP)/PP)/NP 	 1 	 It payable <XB>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 payable is
+3 	 2 	 ((S[adj]\NP)/PP)/NP 	 3 	 Dec. payable
+4 	 3 	 N/N[num] 	 1 	 10 Dec.
+5 	 2 	 ((S[adj]\NP)/PP)/NP 	 2 	 to payable
+6 	 5 	 PP/NP 	 1 	 stock to
+6 	 7 	 (NP\NP)/NP 	 1 	 stock of
+6 	 9 	 (NP\NP)/N[num] 	 1 	 stock Nov.
+8 	 7 	 (NP\NP)/NP 	 2 	 record of
+10 	 9 	 (NP\NP)/N[num] 	 2 	 24 Nov.
+<\s>
+<s id="wsj_1214.3"> 15
+1 	 0 	 NP[nb]/N 	 1 	 move The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 move was
+1 	 3 	 S[pss]\NP 	 1 	 move made <XB>
+2 	 14 	 (S[dcl]\S[dcl])\NP 	 1 	 was said
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 made was
+3 	 4 	 ((S\NP)\(S\NP))/PP 	 2 	 made because
+5 	 4 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+8 	 6 	 NP[nb]/N 	 1 	 company the
+8 	 7 	 N/N 	 1 	 company bank-holding
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 company 's
+11 	 5 	 PP/NP 	 1 	 profitability of
+11 	 9 	 (NP[nb]/N)\NP 	 1 	 profitability 's
+11 	 10 	 N/N 	 1 	 profitability increased
+13 	 14 	 (S[dcl]\S[dcl])\NP 	 2 	 officials said
+<\s>
+<s id="wsj_1214.4"> 19
+3 	 0 	 (S/S)/NP 	 2 	 quarter In
+3 	 1 	 NP[nb]/N 	 1 	 quarter the
+3 	 2 	 N/N 	 1 	 quarter third
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 BSB earned
+6 	 0 	 (S/S)/NP 	 1 	 earned In
+6 	 11 	 ((S\NP)\(S\NP))/PP 	 2 	 earned up
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 2
+12 	 11 	 ((S\NP)\(S\NP))/PP 	 3 	 from up
+12 	 18 	 (PP\PP)\NP 	 1 	 from earlier
+13 	 12 	 PP/NP 	 1 	 $ from
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 1.8
+17 	 16 	 NP[nb]/N 	 1 	 year a
+17 	 18 	 (PP\PP)\NP 	 2 	 year earlier
+<\s>
+<s id="wsj_1214.5"> 15
+3 	 0 	 (S/S)/NP 	 2 	 trading In
+3 	 1 	 N/N 	 1 	 trading national
+3 	 2 	 N/N 	 1 	 trading over-the-counter
+6 	 7 	 (S[dcl]\NP)/PP 	 1 	 BSB closed
+7 	 0 	 (S/S)/NP 	 1 	 closed In
+7 	 4 	 S/S 	 1 	 closed yesterday
+7 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 at closed
+9 	 8 	 PP/NP 	 1 	 $ at
+10 	 9 	 N/N[num] 	 1 	 17.50 $
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 cents up
+14 	 13 	 N/N 	 1 	 cents 12.5
+<\s>
+<s id="wsj_1214.6"> 6
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 BSB has
+3 	 2 	 (N/N)/(N/N) 	 2 	 million 3.1
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 shares has
+4 	 3 	 N/N 	 1 	 shares million
+4 	 5 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>

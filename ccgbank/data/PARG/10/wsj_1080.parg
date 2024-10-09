@@ -1,0 +1,99 @@
+<s id="wsj_1080.1"> 34
+1 	 0 	 N/N 	 1 	 Corp. Amoco
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it plans
+3 	 6 	 (S[b]\NP)/NP 	 1 	 it install <XB>
+3 	 10 	 (S[b]\NP)/NP 	 1 	 it drill <XU>
+3 	 17 	 (S[b]\NP)/NP 	 1 	 it develop <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 plans said
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 install to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 platforms install
+8 	 7 	 N/N 	 1 	 platforms two
+10 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 drill to
+11 	 10 	 (S[b]\NP)/NP 	 2 	 as drill
+12 	 11 	 (N/PP)/(S[adj]\NP) 	 2 	 many as
+13 	 11 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+15 	 13 	 PP/NP 	 1 	 wells as
+15 	 14 	 N/N 	 1 	 wells 22
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 develop to
+19 	 17 	 (S[b]\NP)/NP 	 2 	 reserves develop
+19 	 18 	 N/N 	 1 	 reserves oil
+19 	 21 	 (S[dcl]\NP)/NP 	 2 	 reserves discovered <XU>
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 it discovered
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 discovered in
+21 	 29 	 (((S\NP)\(S\NP))\NP)/NP 	 2 	 discovered off
+25 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 Ocean in
+25 	 23 	 NP[nb]/N 	 1 	 Ocean the
+25 	 24 	 N/N 	 1 	 Ocean Atlantic
+28 	 26 	 N/N 	 1 	 miles about
+28 	 27 	 N/N 	 1 	 miles 25
+28 	 29 	 (((S\NP)\(S\NP))\NP)/NP 	 3 	 miles off
+31 	 29 	 (((S\NP)\(S\NP))\NP)/NP 	 4 	 coast off
+31 	 30 	 NP[nb]/N 	 1 	 coast the
+31 	 32 	 (NP\NP)/NP 	 1 	 coast of
+33 	 32 	 (NP\NP)/NP 	 2 	 Congo of
+<\s>
+<s id="wsj_1080.2"> 49
+0 	 6 	 (S[dcl]\NP)/NP 	 1 	 Amoco is
+4 	 2 	 NP[nb]/N 	 1 	 concern an
+4 	 3 	 N/N 	 1 	 concern energy
+4 	 6 	 (S[dcl]\NP)/NP 	 1 	 concern is
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 operator is
+8 	 7 	 NP[nb]/N 	 1 	 operator the
+8 	 9 	 (NP\NP)/NP 	 1 	 operator of
+8 	 12 	 (NP\NP)/NP 	 1 	 operator with
+11 	 9 	 (NP\NP)/NP 	 2 	 project of
+11 	 10 	 NP[nb]/N 	 1 	 project the
+15 	 14 	 (N/N)/(N/N) 	 2 	 % 43.75
+17 	 12 	 (NP\NP)/NP 	 2 	 interest with
+17 	 13 	 NP[nb]/N 	 1 	 interest a
+17 	 15 	 N/N 	 1 	 interest %
+17 	 16 	 N/N 	 1 	 interest working
+21 	 20 	 N/N 	 1 	 partners other
+21 	 22 	 (S[dcl]\NP)/NP 	 1 	 partners include
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 Congo include
+24 	 23 	 N/N 	 1 	 Congo Hydro
+24 	 32 	 (NP\NP)/NP 	 1 	 Congo with
+30 	 22 	 (S[dcl]\NP)/NP 	 2 	 company include
+30 	 26 	 NP[nb]/N 	 1 	 company the
+30 	 27 	 N/N 	 1 	 company Congolese
+30 	 28 	 N/N 	 1 	 company state
+30 	 29 	 N/N 	 1 	 company oil
+30 	 32 	 (NP\NP)/NP 	 1 	 company with
+35 	 34 	 (N/N)/(N/N) 	 2 	 % 50
+36 	 32 	 (NP\NP)/NP 	 2 	 interest with
+36 	 33 	 NP[nb]/N 	 1 	 interest a
+36 	 35 	 N/N 	 1 	 interest %
+43 	 22 	 (S[dcl]\NP)/NP 	 2 	 Co. include
+43 	 39 	 N/N 	 1 	 Co. Kuwait
+43 	 40 	 N/N 	 1 	 Co. Foreign
+43 	 41 	 N/N 	 1 	 Co. Petroleum
+43 	 42 	 N/N 	 1 	 Co. Exploration
+43 	 44 	 (NP\NP)/NP 	 1 	 Co. with
+47 	 46 	 (N/N)/(N/N) 	 2 	 % 6.25
+48 	 44 	 (NP\NP)/NP 	 2 	 stake with
+48 	 45 	 NP[nb]/N 	 1 	 stake a
+48 	 47 	 N/N 	 1 	 stake %
+<\s>
+<s id="wsj_1080.3"> 18
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Production is
+0 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Production expected <XB>
+0 	 4 	 (S[b]\NP)/NP 	 1 	 Production be <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+3 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+4 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 be after
+6 	 5 	 (N/N)/(N/N) 	 2 	 40,000 about
+7 	 4 	 (S[b]\NP)/NP 	 2 	 barrels be
+7 	 6 	 N/N 	 1 	 barrels 40,000
+7 	 8 	 (NP\NP)/NP 	 1 	 barrels of
+7 	 10 	 (NP\NP)/N 	 1 	 barrels a
+9 	 8 	 (NP\NP)/NP 	 2 	 oil of
+11 	 10 	 (NP\NP)/N 	 2 	 day a
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 completion after
+13 	 14 	 (NP\NP)/NP 	 1 	 completion of
+17 	 14 	 (NP\NP)/NP 	 2 	 program of
+17 	 15 	 NP[nb]/N 	 1 	 program the
+17 	 16 	 N/N 	 1 	 program drilling
+<\s>

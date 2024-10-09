@@ -1,0 +1,974 @@
+<s id="wsj_1163.1"> 23
+4 	 1 	 NP[nb]/N 	 1 	 Theater the
+4 	 2 	 N/N 	 1 	 Theater Trinity
+4 	 3 	 N/N 	 1 	 Theater Repertory
+4 	 5 	 ((S[dcl]\NP)/NP)/NP 	 1 	 Theater named
+5 	 0 	 (S/S)/S[dcl] 	 2 	 named When
+5 	 12 	 (S\NP)\(S\NP) 	 2 	 named spring
+7 	 5 	 ((S[dcl]\NP)/NP)/NP 	 3 	 Bogart named
+7 	 6 	 N/N 	 1 	 Bogart Anne
+10 	 5 	 ((S[dcl]\NP)/NP)/NP 	 2 	 director named
+10 	 8 	 NP[nb]/N 	 1 	 director its
+10 	 9 	 N/N 	 1 	 director artistic
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 spring last
+15 	 14 	 NP[nb]/N 	 1 	 nation the
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 nation 's
+18 	 16 	 (NP[nb]/N)\NP 	 1 	 cognoscenti 's
+18 	 17 	 N/N 	 1 	 cognoscenti theatrical
+18 	 19 	 (S[dcl]\NP)/NP 	 1 	 cognoscenti arched
+19 	 0 	 (S/S)/S[dcl] 	 1 	 arched When
+22 	 19 	 (S[dcl]\NP)/NP 	 2 	 eyebrow arched
+22 	 20 	 NP[nb]/N 	 1 	 eyebrow a
+22 	 21 	 N/N 	 1 	 eyebrow collective
+<\s>
+<s id="wsj_1163.2"> 27
+1 	 0 	 N/N 	 1 	 Bogart Ms.
+1 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Bogart is
+1 	 26 	 S[adj]\NP 	 1 	 Bogart downtown <XB>
+5 	 3 	 NP[nb]/N 	 1 	 creator an
+5 	 4 	 N/N 	 1 	 creator acclaimed
+5 	 6 	 (NP\NP)/NP 	 1 	 creator of
+5 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 creator is
+5 	 26 	 S[adj]\NP 	 1 	 creator downtown <XB>
+9 	 6 	 (NP\NP)/NP 	 2 	 collages of
+9 	 7 	 N/N 	 1 	 collages deconstructed
+9 	 8 	 N/N 	 1 	 collages dramatic
+9 	 10 	 (NP\NP)/(S[b]\NP) 	 1 	 collages that
+9 	 11 	 (S[b]\NP)/PP 	 1 	 collages tear <XB>
+11 	 10 	 (NP\NP)/(S[b]\NP) 	 2 	 tear that
+12 	 11 	 (S[b]\NP)/PP 	 2 	 into tear
+15 	 12 	 PP/NP 	 1 	 texts into
+15 	 13 	 NP/NP 	 1 	 texts such
+15 	 14 	 N/N 	 1 	 texts sacred
+15 	 16 	 (NP\NP)/NP 	 1 	 texts as
+17 	 20 	 (NP[nb]/N)\NP 	 2 	 Rodgers 's
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 Hammerstein 's
+22 	 16 	 (NP\NP)/NP 	 2 	 Pacific as
+22 	 20 	 (NP[nb]/N)\NP 	 1 	 Pacific 's
+22 	 21 	 N/N 	 1 	 Pacific South
+26 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 downtown is
+26 	 25 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 downtown decidedly
+<\s>
+<s id="wsj_1163.3"> 23
+1 	 0 	 N/N 	 1 	 Rep Trinity
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 Rep is
+1 	 17 	 (S[ng]\NP)/NP 	 1 	 Rep hosting <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 is meanwhile
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 one is
+4 	 5 	 (NP\NP)/NP 	 1 	 one of
+7 	 6 	 NP[nb]/N 	 1 	 nation the
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 nation 's
+12 	 11 	 (N/N)/(N/N) 	 2 	 respected most
+14 	 5 	 (NP\NP)/NP 	 2 	 theaters of
+14 	 8 	 (NP[nb]/N)\NP 	 1 	 theaters 's
+14 	 9 	 N/N 	 1 	 theaters oldest <XU>
+14 	 12 	 N/N 	 1 	 theaters respected
+14 	 13 	 N/N 	 1 	 theaters regional
+17 	 16 	 (S\NP)/(S\NP) 	 2 	 hosting still
+22 	 17 	 (S[ng]\NP)/NP 	 2 	 Carol hosting
+22 	 18 	 NP[nb]/N 	 1 	 Carol an
+22 	 19 	 N/N 	 1 	 Carol annual
+22 	 20 	 N/N 	 1 	 Carol A
+22 	 21 	 N/N 	 1 	 Carol Christmas
+<\s>
+<s id="wsj_1163.4"> 14
+1 	 0 	 S[wq]/S[q] 	 1 	 would How
+3 	 1 	 (S[q]/(S[b]\NP))/NP 	 2 	 bastion would
+3 	 2 	 NP[nb]/N 	 1 	 bastion this
+3 	 4 	 (NP\NP)/NP 	 1 	 bastion of
+3 	 7 	 S[b]\NP 	 1 	 bastion fare <XB>
+6 	 4 	 (NP\NP)/NP 	 2 	 values of
+6 	 5 	 N/N 	 1 	 values traditional
+7 	 1 	 (S[q]/(S[b]\NP))/NP 	 1 	 fare would
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 fare in
+10 	 9 	 N/N 	 1 	 Bogart Ms.
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Bogart 's
+13 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 hands in
+13 	 11 	 (NP[nb]/N)\NP 	 1 	 hands 's
+13 	 12 	 N/N 	 1 	 hands iconoclastic
+<\s>
+<s id="wsj_1163.5"> 14
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 She held
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 held with
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 fire held
+3 	 2 	 NP[nb]/N 	 1 	 fire her
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 production with
+7 	 5 	 NP[nb]/N 	 1 	 production her
+7 	 6 	 N/N 	 1 	 production first
+7 	 8 	 (NP\NP)/NP 	 1 	 production at
+7 	 12 	 (NP\NP)/N 	 1 	 production this
+10 	 8 	 (NP\NP)/NP 	 2 	 Trinity at
+10 	 9 	 NP[nb]/N 	 1 	 Trinity the
+12 	 11 	 (NP\NP)/(NP\NP) 	 2 	 this earlier
+13 	 12 	 (NP\NP)/N 	 2 	 season this
+<\s>
+<s id="wsj_1163.6"> 23
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It was
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 revival was
+4 	 2 	 NP[nb]/N 	 1 	 revival a
+4 	 3 	 N/N 	 1 	 revival predictable
+4 	 5 	 (NP\NP)/NP 	 1 	 revival of
+9 	 5 	 (NP\NP)/NP 	 2 	 anthology of
+9 	 6 	 NP[nb]/N 	 1 	 anthology her
+9 	 7 	 N/N 	 1 	 anthology prize-winning
+9 	 8 	 N/N 	 1 	 anthology off-Broadway
+9 	 10 	 (NP\NP)/NP 	 1 	 anthology of
+9 	 17 	 (S[pss]\NP)/NP 	 1 	 anthology called <XB>
+12 	 11 	 N/N 	 1 	 Brecht Bertolt
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Brecht 's
+15 	 10 	 (NP\NP)/NP 	 2 	 writings of
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 writings 's
+15 	 14 	 N/N 	 1 	 writings theoretical
+19 	 17 	 (S[pss]\NP)/NP 	 2 	 Plays called
+19 	 18 	 N/N 	 1 	 Plays No
+22 	 17 	 (S[pss]\NP)/NP 	 2 	 Poetry called
+22 	 21 	 N/N 	 1 	 Poetry No
+<\s>
+<s id="wsj_1163.7"> 21
+4 	 2 	 (S/S)/NP 	 2 	 opening with
+4 	 3 	 NP[nb]/N 	 1 	 opening the
+4 	 5 	 (NP\NP)/NP 	 1 	 opening of
+7 	 6 	 N/N 	 1 	 Gorky Maxim
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 Gorky 's
+10 	 5 	 (NP\NP)/NP 	 2 	 Summerfolk of
+10 	 8 	 (NP[nb]/N)\NP 	 1 	 Summerfolk 's
+10 	 9 	 N/N 	 1 	 Summerfolk bourgeois-bashing
+13 	 12 	 N/N 	 1 	 Bogart Ms.
+13 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Bogart has
+13 	 15 	 ((S[pt]\NP)/PP)/NP 	 1 	 Bogart laid <XB>
+14 	 0 	 S/S 	 1 	 has Now
+14 	 2 	 (S/S)/NP 	 1 	 has with
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 laid has
+17 	 15 	 ((S[pt]\NP)/PP)/NP 	 3 	 cards laid
+17 	 16 	 NP[nb]/N 	 1 	 cards her
+18 	 15 	 ((S[pt]\NP)/PP)/NP 	 2 	 on laid
+20 	 18 	 PP/NP 	 1 	 table on
+20 	 19 	 NP[nb]/N 	 1 	 table the
+<\s>
+<s id="wsj_1163.8"> 12
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Hers is
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 hand is
+3 	 2 	 NP[nb]/N 	 1 	 hand a
+3 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 hand that
+3 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 hand will <XB>
+3 	 6 	 (S[b]\NP)/NP 	 1 	 hand test <XB>
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 test will
+8 	 6 	 (S[b]\NP)/NP 	 2 	 mettle test
+8 	 7 	 NP[nb]/N 	 1 	 mettle the
+8 	 9 	 (NP\NP)/NP 	 1 	 mettle of
+11 	 9 	 (NP\NP)/NP 	 2 	 audiences of
+11 	 10 	 NP[nb]/N 	 1 	 audiences her
+<\s>
+<s id="wsj_1163.9"> 46
+2 	 1 	 N/N 	 1 	 Bogart Ms.
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Bogart who
+2 	 6 	 S[dcl]\NP 	 1 	 Bogart studied <XB>
+2 	 8 	 S[dcl]\NP 	 1 	 Bogart directed <XU>
+2 	 13 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Bogart cites <XU>
+2 	 29 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Bogart tends
+2 	 31 	 (S[b]\NP)/NP 	 1 	 Bogart stage <XB>
+6 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 studied who
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 studied initially
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 studied in
+8 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 directed who
+8 	 5 	 (S\NP)/(S\NP) 	 2 	 directed initially
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 directed in
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Germany in
+13 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 cites who
+16 	 13 	 ((S[dcl]\NP)/PP)/NP 	 3 	 directors cites
+16 	 14 	 NP/NP 	 1 	 directors such
+16 	 15 	 N/N 	 1 	 directors European
+16 	 17 	 (NP\NP)/NP 	 1 	 directors as
+19 	 17 	 (NP\NP)/NP 	 2 	 Stein as
+19 	 18 	 N/N 	 1 	 Stein Peter
+22 	 17 	 (NP\NP)/NP 	 2 	 Strehler as
+22 	 21 	 N/N 	 1 	 Strehler Giorgio
+25 	 17 	 (NP\NP)/NP 	 2 	 Mnouchkine as
+25 	 24 	 N/N 	 1 	 Mnouchkine Ariane
+26 	 13 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as cites
+27 	 26 	 PP/NP 	 1 	 influences as
+29 	 0 	 S/S 	 1 	 tends For
+30 	 29 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to tends
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stage to
+31 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 stage with
+31 	 38 	 ((S\NP)\(S\NP))/S 	 2 	 stage --
+33 	 31 	 (S[b]\NP)/NP 	 2 	 productions stage
+33 	 32 	 NP[nb]/N 	 1 	 productions her
+37 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 rigor with
+37 	 35 	 NP[nb]/N 	 1 	 rigor a
+37 	 36 	 N/N 	 1 	 rigor Brechtian
+39 	 38 	 ((S\NP)\(S\NP))/S 	 3 	 whether --
+39 	 45 	 S\S 	 1 	 whether not
+41 	 40 	 NP[nb]/N 	 1 	 text the
+41 	 42 	 (S[dcl]\NP)/NP 	 1 	 text demands
+42 	 39 	 S/S[dcl] 	 1 	 demands whether
+43 	 42 	 (S[dcl]\NP)/NP 	 2 	 it demands
+<\s>
+<s id="wsj_1163.10"> 24
+1 	 3 	 (S[pss]\NP)/NP 	 1 	 Gorky considered <XB>
+1 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Gorky did
+1 	 13 	 (S[b]\NP)/NP 	 1 	 Gorky write <XB>
+5 	 3 	 (S[pss]\NP)/NP 	 2 	 father considered
+5 	 4 	 NP[nb]/N 	 1 	 father the
+5 	 6 	 (NP\NP)/NP 	 1 	 father of
+9 	 6 	 (NP\NP)/NP 	 2 	 realism of
+9 	 7 	 N/N 	 1 	 realism Soviet
+9 	 8 	 N/N 	 1 	 realism socialist
+11 	 0 	 S/S 	 1 	 did And
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 did not
+13 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 write did
+14 	 13 	 (S[b]\NP)/NP 	 2 	 plays write
+14 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 plays that
+14 	 17 	 ((S[dcl]\NP)/PP)/NP 	 1 	 plays lend <XB>
+17 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 lend that
+17 	 16 	 (S\NP)/(S\NP) 	 2 	 lend easily
+18 	 17 	 ((S[dcl]\NP)/PP)/NP 	 3 	 themselves lend
+19 	 17 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to lend
+21 	 20 	 (N/N)/(N/N) 	 2 	 antirealistic deliberately
+23 	 19 	 PP/NP 	 1 	 techniques to
+23 	 21 	 N/N 	 1 	 techniques antirealistic
+23 	 22 	 N/N 	 1 	 techniques distancing
+<\s>
+<s id="wsj_1163.11"> 26
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Gorky was
+3 	 4 	 (N/N)\(N/N) 	 2 	 loyal if
+6 	 5 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 ambivalent occasionally
+8 	 1 	 (S[dcl]\NP)/NP 	 2 	 writer was
+8 	 2 	 NP[nb]/N 	 1 	 writer a
+8 	 3 	 N/N 	 1 	 writer loyal
+8 	 7 	 N/N 	 1 	 writer proletarian
+8 	 9 	 (S[pss]\NP)/PP 	 1 	 writer committed <XB>
+10 	 9 	 (S[pss]\NP)/PP 	 2 	 to committed
+11 	 10 	 PP/(S[ng]\NP) 	 1 	 enlightening to
+11 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 enlightening with
+13 	 11 	 (S[ng]\NP)/NP 	 2 	 masses enlightening
+13 	 12 	 NP[nb]/N 	 1 	 masses the
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 speaking with
+16 	 15 	 N/N 	 1 	 speaking plain
+16 	 17 	 (S[pss]\NP)/PP 	 1 	 speaking rooted <XB>
+18 	 17 	 (S[pss]\NP)/PP 	 2 	 in rooted
+22 	 18 	 PP/NP 	 1 	 version in
+22 	 19 	 NP[nb]/N 	 1 	 version a
+22 	 20 	 N/N 	 1 	 version slightly
+22 	 21 	 N/N 	 1 	 version sour
+22 	 23 	 (NP\NP)/NP 	 1 	 version of
+25 	 23 	 (NP\NP)/NP 	 2 	 humanism of
+25 	 24 	 N/N 	 1 	 humanism Chekhovian
+<\s>
+<s id="wsj_1163.12"> 39
+1 	 3 	 S[pss]\NP 	 1 	 Summerfolk penned <XB>
+1 	 17 	 (S[dcl]\NP)/NP 	 1 	 Summerfolk is
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 penned in
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 penned as
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 1904 in
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 kind as
+8 	 7 	 NP[nb]/N 	 1 	 kind a
+8 	 9 	 (NP\NP)/NP 	 1 	 kind of
+10 	 9 	 (NP\NP)/NP 	 2 	 sequel of
+10 	 11 	 (NP\NP)/NP 	 1 	 sequel to
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Chekhov 's
+15 	 11 	 (NP\NP)/NP 	 2 	 Orchard to
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 Orchard 's
+15 	 14 	 N/N 	 1 	 Orchard Cherry
+17 	 0 	 S/S 	 1 	 is And
+20 	 17 	 (S[dcl]\NP)/NP 	 2 	 party is
+20 	 18 	 NP[nb]/N 	 1 	 party a
+20 	 19 	 N/N 	 1 	 party lawn
+20 	 21 	 (NP\NP)/NP 	 1 	 party of
+23 	 21 	 (NP\NP)/NP 	 2 	 yuppies of
+23 	 22 	 N/N 	 1 	 yuppies Russian
+23 	 24 	 (S[pss]\NP)/PP 	 1 	 yuppies engaged <XB>
+25 	 24 	 (S[pss]\NP)/PP 	 2 	 in engaged
+29 	 25 	 PP/NP 	 1 	 fight in
+29 	 26 	 NP[nb]/N 	 1 	 fight an
+29 	 27 	 N/N 	 1 	 fight exhausting
+29 	 28 	 N/N 	 1 	 fight ideological
+29 	 30 	 (NP\NP)/NP 	 1 	 fight to
+29 	 33 	 (NP\NP)/NP 	 1 	 fight between
+32 	 30 	 (NP\NP)/NP 	 2 	 finish to
+32 	 31 	 NP[nb]/N 	 1 	 finish the
+35 	 33 	 (NP\NP)/NP 	 2 	 allrightniks between
+35 	 34 	 NP[nb]/N 	 1 	 allrightniks the
+38 	 33 	 (NP\NP)/NP 	 2 	 reformers between
+38 	 37 	 NP[nb]/N 	 1 	 reformers the
+<\s>
+<s id="wsj_1163.13"> 10
+2 	 0 	 (S/S)/NP 	 2 	 way Along
+2 	 1 	 NP[nb]/N 	 1 	 way the
+3 	 5 	 (S[dcl]\NP[thr])/NP 	 1 	 there are
+5 	 0 	 (S/S)/NP 	 1 	 are Along
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 are also
+6 	 5 	 (S[dcl]\NP[thr])/NP 	 2 	 lots are
+6 	 7 	 (NP\NP)/NP 	 1 	 lots of
+9 	 7 	 (NP\NP)/NP 	 2 	 dalliances of
+9 	 8 	 N/N 	 1 	 dalliances romantic
+<\s>
+<s id="wsj_1163.14"> 11
+2 	 1 	 N/N 	 1 	 Bogart Ms.
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Bogart has
+2 	 4 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 1 	 Bogart kept <XB>
+3 	 0 	 S/S 	 1 	 has Wisely
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 kept has
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Gorky 's
+7 	 4 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 3 	 time kept
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 time 's
+7 	 10 	 S[adj]\NP 	 1 	 time intact <XB>
+9 	 4 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 3 	 place kept
+9 	 6 	 (NP[nb]/N)\NP 	 1 	 place 's
+9 	 10 	 S[adj]\NP 	 1 	 place intact <XB>
+10 	 4 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 2 	 intact kept
+<\s>
+<s id="wsj_1163.15"> 41
+2 	 0 	 (S/S)/NP 	 2 	 absence Despite
+2 	 1 	 NP[nb]/N 	 1 	 absence the
+2 	 3 	 (NP\NP)/NP 	 1 	 absence of
+4 	 3 	 (NP\NP)/NP 	 2 	 samovars of
+8 	 0 	 (S/S)/NP 	 2 	 tendency Despite
+8 	 7 	 NP[nb]/N 	 1 	 tendency a
+8 	 10 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 tendency turn <XB>
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 turn to
+12 	 10 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 furniture turn
+12 	 11 	 NP[nb]/N 	 1 	 furniture the
+12 	 14 	 S[adj]\NP 	 1 	 furniture down <XB>
+14 	 10 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 down turn
+14 	 13 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 down upside
+18 	 17 	 NP[nb]/N 	 1 	 production the
+18 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 production is
+18 	 20 	 (S[adj]\NP)/PP 	 1 	 production rich <XB>
+19 	 0 	 (S/S)/NP 	 1 	 is Despite
+20 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 rich is
+21 	 20 	 (S[adj]\NP)/PP 	 2 	 in rich
+23 	 21 	 PP/NP 	 1 	 ennui in
+23 	 22 	 N/N 	 1 	 ennui Russian
+23 	 24 	 S[pss]\NP 	 1 	 ennui voiced <XB>
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 voiced by
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 folk by
+27 	 26 	 N/N 	 1 	 folk languorous
+27 	 28 	 (S[ng]\NP)/NP 	 1 	 folk sporting <XB>
+27 	 35 	 (NP\NP)/NP 	 1 	 folk with
+30 	 28 	 (S[ng]\NP)/NP 	 2 	 linen sporting
+30 	 29 	 N/N 	 1 	 linen beige
+33 	 28 	 (S[ng]\NP)/NP 	 2 	 cotton sporting
+33 	 32 	 N/N 	 1 	 cotton rumpled
+36 	 35 	 (NP\NP)/NP 	 2 	 boaters with
+36 	 40 	 NP\NP 	 1 	 boaters aplenty
+39 	 35 	 (NP\NP)/NP 	 2 	 poles with
+39 	 38 	 N/N 	 1 	 poles fishing
+39 	 40 	 NP\NP 	 1 	 poles aplenty
+<\s>
+<s id="wsj_1163.16"> 34
+4 	 1 	 (S/S)/NP 	 2 	 nod beyond
+4 	 2 	 NP[nb]/N 	 1 	 nod this
+4 	 3 	 N/N 	 1 	 nod decorative
+4 	 5 	 (NP\NP)/NP 	 1 	 nod to
+6 	 5 	 (NP\NP)/NP 	 2 	 tradition to
+9 	 8 	 N/N 	 1 	 Bogart Ms.
+9 	 12 	 (S[dcl]\NP)/PP 	 1 	 Bogart head
+11 	 8 	 N/N 	 1 	 company Ms.
+11 	 12 	 (S[dcl]\NP)/PP 	 1 	 company head
+12 	 0 	 S/S 	 1 	 head But
+12 	 1 	 (S/S)/NP 	 1 	 head beyond
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 head off
+14 	 12 	 (S[dcl]\NP)/PP 	 2 	 in head
+17 	 14 	 PP/NP 	 1 	 direction in
+17 	 15 	 NP[nb]/N 	 1 	 direction a
+17 	 16 	 N/N 	 1 	 direction stylistic
+17 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 direction that
+17 	 21 	 ((S[dcl]\NP)/PP)/NP 	 1 	 direction transforms <XB>
+20 	 19 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 but all
+21 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 transforms that
+21 	 20 	 (S\NP)/(S\NP) 	 2 	 transforms but
+22 	 23 	 (NP[nb]/N)\NP 	 2 	 Gorky 's
+25 	 21 	 ((S[dcl]\NP)/PP)/NP 	 3 	 drama transforms
+25 	 23 	 (NP[nb]/N)\NP 	 1 	 drama 's
+25 	 24 	 N/N 	 1 	 drama naturalistic
+26 	 21 	 ((S[dcl]\NP)/PP)/NP 	 2 	 into transforms
+27 	 26 	 PP/NP 	 1 	 something into
+27 	 28 	 S[adj]\NP 	 1 	 something akin <XB>
+28 	 29 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 akin to
+29 	 31 	 ((S[adj]\NP)\(S[adj]\NP))\((S[adj]\NP)\(S[adj]\NP)) 	 3 	 to well
+33 	 29 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 farce to
+<\s>
+<s id="wsj_1163.17"> 23
+1 	 0 	 NP[nb]/N 	 1 	 director The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 director 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 attempt 's
+3 	 5 	 ((S[b]\NP)/PP)/NP 	 1 	 attempt force <XB>
+3 	 16 	 S[dcl]\NP 	 1 	 attempt backfires
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 force to
+8 	 5 	 ((S[b]\NP)/PP)/NP 	 3 	 distance force
+8 	 6 	 NP[nb]/N 	 1 	 distance some
+8 	 7 	 N/N 	 1 	 distance Brechtian
+9 	 5 	 ((S[b]\NP)/PP)/NP 	 2 	 between force
+11 	 9 	 PP/NP 	 1 	 actors between
+11 	 10 	 NP[nb]/N 	 1 	 actors her
+14 	 9 	 PP/NP 	 1 	 characters between
+14 	 13 	 NP[nb]/N 	 1 	 characters their
+16 	 15 	 (S\NP)/(S\NP) 	 2 	 backfires frequently
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 backfires with
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 performances with
+18 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 performances that
+18 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 performances are <XB>
+18 	 22 	 S[adj]\NP 	 1 	 performances mannered <XB>
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+22 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 mannered are
+22 	 21 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 mannered unduly
+<\s>
+<s id="wsj_1163.18"> 28
+1 	 0 	 (S/S)/(S/S) 	 2 	 only Not
+2 	 1 	 (S/S)/S[inv] 	 2 	 do only
+4 	 2 	 (S[inv]/(S[b]\NP))/NP 	 2 	 actors do
+4 	 3 	 NP[nb]/N 	 1 	 actors the
+5 	 2 	 (S[inv]/(S[b]\NP))/NP 	 1 	 stand do
+6 	 5 	 (S[b]\NP)/PP 	 2 	 outside stand
+8 	 6 	 PP/NP 	 1 	 characters outside
+8 	 7 	 NP[nb]/N 	 1 	 characters their
+10 	 2 	 (S[inv]/(S[b]\NP))/NP 	 1 	 make do
+11 	 10 	 (((S[b]\NP)/S[dcl])/(S[adj]\NP))/NP 	 4 	 it make
+11 	 12 	 S[adj]\NP 	 1 	 it clear <XB>
+12 	 10 	 (((S[b]\NP)/S[dcl])/(S[adj]\NP))/NP 	 3 	 clear make
+13 	 14 	 (S[dcl]\NP)/PP 	 1 	 they are
+14 	 10 	 (((S[b]\NP)/S[dcl])/(S[adj]\NP))/NP 	 2 	 are make
+15 	 14 	 (S[dcl]\NP)/PP 	 2 	 at are
+16 	 15 	 PP/NP 	 1 	 odds at
+16 	 17 	 (NP\NP)/NP 	 1 	 odds with
+18 	 17 	 (NP\NP)/NP 	 2 	 them with
+21 	 24 	 (S[dcl]\NP)/PP 	 1 	 they stand
+24 	 1 	 (S/S)/S[inv] 	 1 	 stand only
+24 	 20 	 S/S 	 1 	 stand but
+24 	 22 	 (S\NP)/(S\NP) 	 2 	 stand often
+24 	 23 	 (S\NP)/(S\NP) 	 2 	 stand literally
+25 	 24 	 (S[dcl]\NP)/PP 	 2 	 on stand
+27 	 25 	 PP/NP 	 1 	 heads on
+27 	 26 	 NP[nb]/N 	 1 	 heads their
+<\s>
+<s id="wsj_1163.19"> 40
+2 	 0 	 (S/S)/NP 	 2 	 Sellars Like
+2 	 1 	 N/N 	 1 	 Sellars Peter
+5 	 4 	 N/N 	 1 	 Bogart Ms.
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Bogart manipulates
+5 	 16 	 ((S[ng]\NP)/PP)/NP 	 1 	 Bogart sprawling <XB>
+5 	 21 	 ((S[ng]\NP)/PP)/NP 	 1 	 Bogart dangling <XU>
+5 	 27 	 ((S[ng]\NP)/PP)/NP 	 1 	 Bogart hanging <XU>
+5 	 32 	 ((S[ng]\NP)/(S[b]\NP))/NP 	 1 	 Bogart having <XU>
+6 	 0 	 (S/S)/NP 	 1 	 manipulates Like
+6 	 9 	 ((S\NP)\(S\NP))/S[poss] 	 2 	 manipulates as
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 actors manipulates
+8 	 7 	 NP[nb]/N 	 1 	 actors her
+10 	 9 	 ((S\NP)\(S\NP))/S[poss] 	 3 	 if as
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 they were
+12 	 10 	 S[poss]/S[dcl] 	 1 	 were if
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 dolls were
+14 	 13 	 N/N 	 1 	 dolls rag
+17 	 16 	 ((S[ng]\NP)/PP)/NP 	 3 	 them sprawling
+18 	 16 	 ((S[ng]\NP)/PP)/NP 	 2 	 on sprawling
+19 	 18 	 PP/NP 	 1 	 staircases on
+22 	 21 	 ((S[ng]\NP)/PP)/NP 	 3 	 them dangling
+23 	 21 	 ((S[ng]\NP)/PP)/NP 	 2 	 off dangling
+24 	 23 	 PP/NP 	 1 	 tables off
+27 	 26 	 (S\NP)/(S\NP) 	 2 	 hanging even
+27 	 31 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 hanging while
+28 	 27 	 ((S[ng]\NP)/PP)/NP 	 3 	 them hanging
+29 	 27 	 ((S[ng]\NP)/PP)/NP 	 2 	 from hanging
+30 	 29 	 PP/NP 	 1 	 precipices from
+32 	 31 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 having while
+33 	 32 	 ((S[ng]\NP)/(S[b]\NP))/NP 	 3 	 them having
+33 	 34 	 (S[b]\NP)/NP 	 1 	 them perform <XB>
+34 	 32 	 ((S[ng]\NP)/(S[b]\NP))/NP 	 2 	 perform having
+37 	 34 	 (S[b]\NP)/NP 	 2 	 feats perform
+37 	 35 	 NP[nb]/N 	 1 	 feats some
+37 	 36 	 N/N 	 1 	 feats gymnastic
+37 	 38 	 (NP\NP)/NP 	 1 	 feats of
+39 	 38 	 (NP\NP)/NP 	 2 	 derring-do of
+<\s>
+<s id="wsj_1163.20"> 44
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There are
+2 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 moments are
+2 	 3 	 (NP\NP)/NP 	 1 	 moments in
+2 	 6 	 (NP\NP)/S[dcl] 	 1 	 moments when
+5 	 3 	 (NP\NP)/NP 	 2 	 Summerfolk in
+5 	 4 	 NP[nb]/N 	 1 	 Summerfolk this
+8 	 7 	 NP[nb]/N 	 1 	 characters the
+8 	 9 	 (S[ng]\NP)/NP 	 1 	 characters populating <XB>
+8 	 32 	 (S[dcl]\NP)/NP 	 1 	 characters spout
+14 	 9 	 (S[ng]\NP)/NP 	 2 	 house populating
+14 	 10 	 NP[nb]/N 	 1 	 house the
+14 	 11 	 N/N 	 1 	 house vast
+14 	 12 	 N/N 	 1 	 house multilevel
+14 	 13 	 N/N 	 1 	 house country
+14 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 house which
+14 	 17 	 (S[dcl]\NP)/PP 	 1 	 house looks <XB>
+14 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 house is <XU>
+14 	 27 	 S[pss]\NP 	 1 	 house designed <XU>
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 looks which
+18 	 17 	 (S[dcl]\NP)/PP 	 2 	 like looks
+20 	 18 	 PP/NP 	 1 	 parody like
+20 	 19 	 NP[nb]/N 	 1 	 parody a
+20 	 21 	 (NP\NP)/NP 	 1 	 parody of
+24 	 21 	 (NP\NP)/NP 	 2 	 Wright of
+24 	 22 	 N/N 	 1 	 Wright Frank
+24 	 23 	 N/N 	 1 	 Wright Lloyd
+26 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+27 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 designed is
+27 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 designed by
+30 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 Petrovich by
+30 	 29 	 N/N 	 1 	 Petrovich Victoria
+32 	 6 	 (NP\NP)/S[dcl] 	 2 	 spout when
+32 	 36 	 ((S\NP)\(S\NP))/NP 	 2 	 spout with
+33 	 32 	 (S[dcl]\NP)/NP 	 2 	 philosophic spout
+33 	 34 	 N\N 	 1 	 philosophic bon
+33 	 35 	 N\N 	 1 	 philosophic mots
+40 	 36 	 ((S\NP)\(S\NP))/NP 	 3 	 pacing with
+40 	 37 	 NP[nb]/N 	 1 	 pacing the
+40 	 38 	 N/N 	 1 	 pacing self-conscious
+40 	 39 	 N/N 	 1 	 pacing rat-a-tat-tat
+40 	 41 	 (NP\NP)/NP 	 1 	 pacing of
+43 	 41 	 (NP\NP)/NP 	 2 	 In of
+43 	 42 	 N/N 	 1 	 In Laugh
+<\s>
+<s id="wsj_1163.21"> 11
+0 	 1 	 S[dcl]\NP 	 1 	 Talk hurts
+1 	 2 	 ((S\NP)\(S\NP))/S[qem] 	 2 	 hurts from
+1 	 10 	 (S[dcl]\S[dcl])\NP 	 1 	 hurts says
+3 	 2 	 ((S\NP)\(S\NP))/S[qem] 	 3 	 where from
+4 	 5 	 S[dcl]\NP 	 1 	 it spurts
+5 	 3 	 S[qem]/S[dcl] 	 1 	 spurts where
+7 	 8 	 (NP\NP)/NP 	 1 	 one of
+7 	 10 	 (S[dcl]\S[dcl])\NP 	 2 	 one says
+9 	 8 	 (NP\NP)/NP 	 2 	 them of
+<\s>
+<s id="wsj_1163.22"> 23
+1 	 0 	 NP[nb]/N 	 1 	 clash The
+1 	 2 	 (NP\NP)/NP 	 1 	 clash of
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 clash survives
+3 	 2 	 (NP\NP)/NP 	 2 	 ideologies of
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 treatment survives
+6 	 5 	 NP[nb]/N 	 1 	 treatment this
+10 	 9 	 NP[nb]/N 	 1 	 nuance the
+10 	 13 	 (NP\NP)/NP 	 1 	 nuance of
+10 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 nuance have
+10 	 19 	 S[pt]\NP 	 1 	 nuance vanished <XB>
+12 	 9 	 NP[nb]/N 	 1 	 richness the
+12 	 13 	 (NP\NP)/NP 	 1 	 richness of
+12 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 richness have
+12 	 19 	 S[pt]\NP 	 1 	 richness vanished <XB>
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 Gorky 's
+17 	 13 	 (NP\NP)/NP 	 2 	 characters of
+17 	 15 	 (NP[nb]/N)\NP 	 1 	 characters 's
+17 	 16 	 N/N 	 1 	 characters individual
+19 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 vanished have
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 vanished in
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 scuffle in
+22 	 21 	 NP[nb]/N 	 1 	 scuffle the
+<\s>
+<s id="wsj_1163.23"> 31
+1 	 0 	 (S/S)/PP 	 2 	 for As
+3 	 1 	 PP/NP 	 1 	 humor for
+3 	 2 	 NP[nb]/N 	 1 	 humor the
+3 	 4 	 (NP\NP)/(S[dcl]/NP) 	 1 	 humor that
+3 	 8 	 (S[dcl]\NP)/NP 	 2 	 humor provides <XU>
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Gorky 's
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 text 's
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 text provides
+8 	 4 	 (NP\NP)/(S[dcl]/NP) 	 2 	 provides that
+11 	 10 	 (S/S)/(S[pss]\NP) 	 2 	 repainted when
+11 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 repainted by
+12 	 11 	 (S[pss]\NP)/PP 	 2 	 in repainted
+15 	 12 	 PP/NP 	 1 	 strokes in
+15 	 13 	 NP/NP 	 1 	 strokes such
+15 	 14 	 N/N 	 1 	 strokes broad
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 by particularly
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 members by
+21 	 19 	 NP[nb]/N 	 1 	 members the
+21 	 20 	 N/N 	 1 	 members lesser
+21 	 22 	 (NP\NP)/NP 	 1 	 members of
+24 	 22 	 (NP\NP)/NP 	 2 	 ensemble of
+24 	 23 	 NP[nb]/N 	 1 	 ensemble the
+26 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it looks
+26 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it sounds
+26 	 30 	 S[adj]\NP 	 1 	 it forced <XB>
+27 	 0 	 (S/S)/PP 	 1 	 looks As
+27 	 10 	 (S/S)/(S[pss]\NP) 	 1 	 looks when
+29 	 0 	 (S/S)/PP 	 1 	 sounds As
+29 	 10 	 (S/S)/(S[pss]\NP) 	 1 	 sounds when
+30 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 forced looks <XU>
+30 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 forced sounds
+<\s>
+<s id="wsj_1163.24"> 28
+1 	 0 	 N/N 	 1 	 Bogart Ms.
+1 	 2 	 S[dcl]\NP 	 1 	 Bogart does
+2 	 3 	 ((S\NP)\(S\NP))/PP 	 2 	 does better
+2 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 does when
+3 	 6 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/PP 	 3 	 better than
+4 	 3 	 ((S\NP)\(S\NP))/PP 	 3 	 with better
+5 	 4 	 PP/NP 	 1 	 music with
+7 	 6 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/PP 	 4 	 with than
+8 	 7 	 PP/NP 	 1 	 words with
+10 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 she wants
+10 	 21 	 (S[b]\NP)/NP 	 1 	 she express <XB>
+11 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 wants when
+11 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 wants as
+14 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 she does
+14 	 18 	 S[b]\NP 	 1 	 she want <XB>
+16 	 15 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 often so
+17 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 does as
+17 	 16 	 (S\NP)/(S\NP) 	 2 	 does often
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 want does
+20 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wants
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 express to
+21 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 express through
+22 	 21 	 (S[b]\NP)/NP 	 2 	 herself express
+24 	 25 	 (NP[nb]/N)\NP 	 2 	 Gorky 's
+27 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 play through
+27 	 25 	 (NP[nb]/N)\NP 	 1 	 play 's
+27 	 26 	 N/N 	 1 	 play helpless
+<\s>
+<s id="wsj_1163.25"> 35
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 she has
+2 	 0 	 S/S 	 1 	 has Here
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 aid has
+4 	 3 	 NP[nb]/N 	 1 	 aid the
+4 	 5 	 (NP\NP)/NP 	 1 	 aid of
+10 	 5 	 (NP\NP)/NP 	 2 	 Helpern of
+10 	 6 	 NP[nb]/N 	 1 	 Helpern her
+10 	 7 	 N/N 	 1 	 Helpern longtime
+10 	 8 	 N/N 	 1 	 Helpern associate
+10 	 9 	 N/N 	 1 	 Helpern Jeff
+10 	 12 	 (NP\NP)/(S[dcl]/NP) 	 1 	 Helpern whom
+10 	 14 	 ((S[dcl]\NP)/NP)/NP 	 3 	 Helpern appointed <XU>
+10 	 21 	 (NP\NP)/(S[dcl]/NP) 	 1 	 Helpern whom <XU>
+10 	 23 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Helpern equipped <XU>
+13 	 14 	 ((S[dcl]\NP)/NP)/NP 	 1 	 she appointed
+14 	 12 	 (NP\NP)/(S[dcl]/NP) 	 2 	 appointed whom
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Trinity 's
+19 	 14 	 ((S[dcl]\NP)/NP)/NP 	 2 	 director appointed
+19 	 16 	 (NP[nb]/N)\NP 	 1 	 director 's
+19 	 17 	 N/N 	 1 	 director first-ever
+19 	 18 	 N/N 	 1 	 director musical
+22 	 23 	 ((S[dcl]\NP)/PP)/NP 	 1 	 she equipped
+23 	 21 	 (NP\NP)/(S[dcl]/NP) 	 2 	 equipped whom
+24 	 23 	 ((S[dcl]\NP)/PP)/NP 	 2 	 with equipped
+27 	 26 	 (N/N)/(N/N) 	 2 	 new spanking
+29 	 28 	 (N/N)/N[num] 	 2 	 60,000 $
+31 	 24 	 PP/NP 	 1 	 system with
+31 	 25 	 NP[nb]/N 	 1 	 system a
+31 	 27 	 N/N 	 1 	 system new
+31 	 28 	 (N/N)/N[num] 	 1 	 system $
+31 	 30 	 N/N 	 1 	 system sound
+34 	 24 	 PP/NP 	 1 	 studio with
+34 	 25 	 NP[nb]/N 	 1 	 studio a
+34 	 27 	 N/N 	 1 	 studio new
+34 	 28 	 (N/N)/N[num] 	 1 	 studio $
+34 	 33 	 N/N 	 1 	 studio recording
+<\s>
+<s id="wsj_1163.26"> 29
+1 	 0 	 (S/S)/NP 	 2 	 Gorky For
+4 	 3 	 N/N 	 1 	 Helpern Mr.
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Helpern provided
+5 	 0 	 (S/S)/NP 	 1 	 provided For
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 collage provided
+8 	 6 	 NP[nb]/N 	 1 	 collage an
+8 	 7 	 N/N 	 1 	 collage aural
+8 	 9 	 (NP\NP)/NP 	 1 	 collage of
+8 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 collage which
+8 	 15 	 (S[dcl]\NP)/NP 	 1 	 collage is <XB>
+10 	 9 	 (NP\NP)/NP 	 2 	 Debussy of
+12 	 9 	 (NP\NP)/NP 	 2 	 Rachmaninoff of
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+18 	 15 	 (S[dcl]\NP)/NP 	 2 	 score is
+18 	 16 	 NP/NP 	 1 	 score less
+18 	 17 	 NP[nb]/N 	 1 	 score a
+18 	 19 	 (NP\NP)/NP 	 1 	 score than
+22 	 19 	 (NP\NP)/NP 	 2 	 character than
+22 	 20 	 NP[nb]/N 	 1 	 character a
+22 	 21 	 N/N 	 1 	 character separate
+22 	 23 	 (NP\NP)/NP 	 1 	 character with
+26 	 23 	 (NP\NP)/NP 	 2 	 point with
+26 	 24 	 NP[nb]/N 	 1 	 point a
+26 	 25 	 N/N 	 1 	 point distinct
+26 	 27 	 (NP\NP)/NP 	 1 	 point of
+28 	 27 	 (NP\NP)/NP 	 2 	 view of
+<\s>
+<s id="wsj_1163.27"> 30
+1 	 0 	 (S/S)/NP 	 2 	 Brecht Like
+6 	 0 	 (S/S)/NP 	 2 	 Pound Like
+6 	 4 	 NP/NP 	 1 	 Pound indeed
+6 	 5 	 N/N 	 1 	 Pound Ezra
+9 	 8 	 N/N 	 1 	 Bogart Ms.
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Bogart has
+9 	 11 	 (S[pt]\NP)/S[em] 	 1 	 Bogart said <XB>
+10 	 0 	 (S/S)/NP 	 1 	 has Like
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said has
+12 	 11 	 (S[pt]\NP)/S[em] 	 2 	 that said
+14 	 13 	 NP[nb]/N 	 1 	 intent her
+14 	 15 	 (NP\NP)/NP 	 1 	 intent in
+14 	 22 	 (S[dcl]\NP)/NP 	 1 	 intent is
+18 	 15 	 (NP\NP)/NP 	 2 	 staging in
+18 	 16 	 NP/NP 	 1 	 staging such
+18 	 17 	 N/N 	 1 	 staging manipulative
+18 	 19 	 (NP\NP)/NP 	 1 	 staging of
+21 	 19 	 (NP\NP)/NP 	 2 	 classics of
+21 	 20 	 NP[nb]/N 	 1 	 classics the
+22 	 12 	 S[em]/S[dcl] 	 1 	 is that
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 is simply
+25 	 22 	 (S[dcl]\NP)/NP 	 2 	 attempt is
+25 	 24 	 NP[nb]/N 	 1 	 attempt an
+25 	 27 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 attempt make <XB>
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+28 	 27 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 it make
+28 	 29 	 S[adj]\NP 	 1 	 it new <XB>
+29 	 27 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 new make
+<\s>
+<s id="wsj_1163.28"> 41
+7 	 2 	 (S/S)/NP 	 2 	 discussion during
+7 	 3 	 NP[nb]/N 	 1 	 discussion a
+7 	 4 	 N/N 	 1 	 discussion recent
+7 	 5 	 N/N 	 1 	 discussion post-production
+7 	 6 	 N/N 	 1 	 discussion audience
+10 	 9 	 NP[nb]/N 	 1 	 director the
+10 	 11 	 (S[dcl]\NP)/S[em] 	 1 	 director explained
+11 	 0 	 S/S 	 1 	 explained Indeed
+11 	 2 	 (S/S)/NP 	 1 	 explained during
+12 	 11 	 (S[dcl]\NP)/S[em] 	 2 	 that explained
+16 	 13 	 NP[nb]/N 	 1 	 wish her
+16 	 14 	 N/N 	 1 	 wish fondest
+16 	 15 	 N/N 	 1 	 wish artistic
+16 	 17 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 wish was
+16 	 19 	 (S[b]\NP)/NP 	 1 	 wish find <XB>
+17 	 12 	 S[em]/S[dcl] 	 1 	 was that
+18 	 17 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to was
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 find to
+21 	 19 	 (S[b]\NP)/NP 	 2 	 way find
+21 	 20 	 NP[nb]/N 	 1 	 way a
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 play to
+23 	 28 	 ((S\NP)\(S\NP))/S[em] 	 2 	 play so
+24 	 23 	 (S[b]\NP)/NP 	 2 	 Somewhere play
+24 	 25 	 (NP\NP)/NP 	 1 	 Somewhere Over
+27 	 25 	 (NP\NP)/NP 	 2 	 Rainbow Over
+27 	 26 	 N/N 	 1 	 Rainbow the
+29 	 28 	 ((S\NP)\(S\NP))/S[em] 	 3 	 that so
+31 	 30 	 NP[nb]/N 	 1 	 song the
+31 	 32 	 (NP[nb]/N)\NP 	 2 	 song 's
+34 	 32 	 (NP[nb]/N)\NP 	 1 	 beauty 's
+34 	 33 	 N/N 	 1 	 beauty original
+34 	 35 	 S[dcl]\NP 	 1 	 beauty comes
+34 	 38 	 (S[ng]\NP)/NP 	 1 	 beauty surmounting <XB>
+35 	 29 	 S[em]/S[dcl] 	 1 	 comes that
+35 	 36 	 (S\NP)\(S\NP) 	 2 	 comes through
+40 	 38 	 (S[ng]\NP)/NP 	 2 	 cliche surmounting
+40 	 39 	 NP[nb]/N 	 1 	 cliche the
+<\s>
+<s id="wsj_1163.29"> 41
+1 	 0 	 NP[nb]/N 	 1 	 danger The
+1 	 2 	 (NP\NP)/(S[dcl]/NP) 	 1 	 danger that
+1 	 8 	 (S[ng]\NP)/NP 	 2 	 danger courting <XU>
+1 	 10 	 (S[dcl]\NP)/NP 	 1 	 danger is
+4 	 3 	 N/N 	 1 	 Bogart Ms.
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Bogart seems
+4 	 8 	 (S[ng]\NP)/NP 	 1 	 Bogart courting <XB>
+5 	 2 	 (NP\NP)/(S[dcl]/NP) 	 2 	 seems that
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to seems
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 7 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 courting be
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 courting here
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 one is
+11 	 12 	 (NP\NP)/NP 	 1 	 one of
+13 	 12 	 (NP\NP)/NP 	 2 	 obfuscation of
+13 	 15 	 (NP\NP)/NP 	 1 	 obfuscation than
+15 	 14 	 (NP\NP)/(NP\NP) 	 2 	 than rather
+16 	 15 	 (NP\NP)/NP 	 2 	 rejuvenation than
+19 	 10 	 (S[dcl]\NP)/NP 	 2 	 vision is
+19 	 18 	 NP[nb]/N 	 1 	 vision a
+19 	 21 	 (NP\NP)/NP 	 1 	 vision at
+19 	 27 	 (NP\NP)/S[b] 	 1 	 vision that
+21 	 20 	 (NP\NP)/(NP\NP) 	 2 	 at so
+22 	 21 	 (NP\NP)/NP 	 2 	 odds at
+22 	 23 	 (NP\NP)/NP 	 1 	 odds with
+26 	 23 	 (NP\NP)/NP 	 2 	 's with
+26 	 24 	 NP[nb]/N 	 1 	 's the
+26 	 25 	 N/N 	 1 	 's playwright
+30 	 28 	 NP[nb]/N 	 1 	 points the
+30 	 29 	 N/N 	 1 	 points two
+30 	 31 	 (NP\NP)/NP 	 1 	 points of
+30 	 33 	 (S[b]\NP)/NP 	 1 	 points nullify
+30 	 37 	 (S[b]\NP)/NP 	 1 	 points illuminate <XU>
+32 	 31 	 (NP\NP)/NP 	 2 	 view of
+33 	 27 	 (NP\NP)/S[b] 	 2 	 nullify that
+36 	 35 	 conj/conj 	 1 	 than rather
+37 	 27 	 (NP\NP)/S[b] 	 2 	 illuminate that
+40 	 33 	 (S[b]\NP)/NP 	 2 	 other nullify <XU>
+40 	 37 	 (S[b]\NP)/NP 	 2 	 other illuminate
+40 	 39 	 NP[nb]/N 	 1 	 other each
+<\s>
+<s id="wsj_1163.30"> 11
+1 	 0 	 N/N 	 1 	 Bogart Ms.
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Bogart 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 cast 's
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 cast is
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 part is
+5 	 8 	 (NP\NP)/NP 	 1 	 part of
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 parcel is
+7 	 8 	 (NP\NP)/NP 	 1 	 parcel of
+10 	 8 	 (NP\NP)/NP 	 2 	 problem of
+10 	 9 	 NP[nb]/N 	 1 	 problem the
+<\s>
+<s id="wsj_1163.31"> 28
+1 	 0 	 N/N 	 1 	 Shea Ed
+1 	 6 	 (S[dcl]\NP)/NP 	 1 	 Shea find
+4 	 3 	 N/N 	 1 	 Orson Barbara
+4 	 6 	 (S[dcl]\NP)/NP 	 1 	 Orson find
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 find never
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 reason find
+9 	 7 	 NP[nb]/N 	 1 	 reason a
+9 	 8 	 N/N 	 1 	 reason real
+9 	 10 	 (NP\NP)/NP 	 1 	 reason for
+13 	 10 	 (NP\NP)/NP 	 2 	 affair for
+13 	 11 	 NP[nb]/N 	 1 	 affair their
+13 	 12 	 N/N 	 1 	 affair love
+13 	 14 	 (NP\NP)/NP 	 1 	 affair as
+20 	 14 	 (NP\NP)/NP 	 2 	 Vass as
+20 	 15 	 NP[nb]/N 	 1 	 Vass the
+20 	 16 	 N/N 	 1 	 Vass foolish
+20 	 18 	 N/N 	 1 	 Vass idealistic
+20 	 19 	 N/N 	 1 	 Vass young
+24 	 23 	 (N/N)/(N/N) 	 2 	 humanitarian tirelessly
+27 	 14 	 (NP\NP)/NP 	 2 	 Lvovna as
+27 	 22 	 NP[nb]/N 	 1 	 Lvovna the
+27 	 24 	 N/N 	 1 	 Lvovna humanitarian
+27 	 25 	 N/N 	 1 	 Lvovna doctor
+27 	 26 	 N/N 	 1 	 Lvovna Maria
+<\s>
+<s id="wsj_1163.32"> 17
+1 	 0 	 N/N 	 1 	 Strickland Cynthia
+1 	 2 	 (NP\NP)/NP 	 1 	 Strickland as
+1 	 6 	 (S[dcl]\NP)/NP 	 1 	 Strickland is
+5 	 2 	 (NP\NP)/NP 	 2 	 Varvara as
+5 	 3 	 NP[nb]/N 	 1 	 Varvara the
+5 	 4 	 N/N 	 1 	 Varvara long-suffering
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 whiner is
+9 	 7 	 NP[nb]/N 	 1 	 whiner a
+9 	 8 	 N/N 	 1 	 whiner tiresome
+14 	 6 	 (S[dcl]\NP)/NP 	 2 	 counterrevolutionary is
+14 	 11 	 NP/NP 	 1 	 counterrevolutionary not
+14 	 12 	 NP[nb]/N 	 1 	 counterrevolutionary the
+14 	 13 	 N/N 	 1 	 counterrevolutionary inspirational
+14 	 16 	 (S[dcl]\NP)/NP 	 2 	 counterrevolutionary intended <XU>
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 Gorky intended
+<\s>
+<s id="wsj_1163.33"> 12
+1 	 0 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to Better
+2 	 1 	 (S[to]\NP)/(S[b]\NP) 	 2 	 look to
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 look in
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 corners in
+5 	 4 	 NP[nb]/N 	 1 	 corners the
+6 	 2 	 (S[b]\NP)/PP 	 2 	 for look
+7 	 6 	 PP/NP 	 1 	 performances for
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 performances that
+7 	 9 	 S[dcl]\NP 	 1 	 performances inspire <XB>
+7 	 11 	 S[dcl]\NP 	 1 	 performances amuse <XU>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 inspire that
+11 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 amuse that
+<\s>
+<s id="wsj_1163.34"> 32
+1 	 0 	 N/N 	 1 	 Duclos Janice
+1 	 17 	 (S[dcl]\NP)/NP 	 1 	 Duclos brings
+4 	 3 	 ((S\NP)/(S\NP))/NP 	 3 	 addition in
+4 	 5 	 (NP\NP)/(S[ng]\NP) 	 1 	 addition to
+6 	 5 	 (NP\NP)/(S[ng]\NP) 	 2 	 possessing to
+7 	 6 	 (S[ng]\NP)/NP 	 2 	 one possessing
+7 	 8 	 (NP\NP)/NP 	 1 	 one of
+10 	 9 	 NP[nb]/N 	 1 	 evening the
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 evening 's
+13 	 12 	 (N/N)/(N/N) 	 2 	 impressive more
+15 	 8 	 (NP\NP)/NP 	 2 	 instruments of
+15 	 11 	 (NP[nb]/N)\NP 	 1 	 instruments 's
+15 	 13 	 N/N 	 1 	 instruments impressive
+15 	 14 	 N/N 	 1 	 instruments vocal
+17 	 3 	 ((S\NP)/(S\NP))/NP 	 2 	 brings in
+17 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 brings to
+21 	 17 	 (S[dcl]\NP)/NP 	 2 	 touch brings
+21 	 18 	 NP[nb]/N 	 1 	 touch an
+21 	 19 	 N/N 	 1 	 touch unsuspected
+21 	 20 	 N/N 	 1 	 touch comedic
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 role to
+24 	 23 	 NP[nb]/N 	 1 	 role her
+24 	 25 	 (NP\NP)/NP 	 1 	 role of
+26 	 25 	 (NP\NP)/NP 	 2 	 Olga of
+28 	 29 	 (NP[nb]/N)\NP 	 2 	 everybody 's
+31 	 25 	 (NP\NP)/NP 	 2 	 mom of
+31 	 29 	 (NP[nb]/N)\NP 	 1 	 mom 's
+31 	 30 	 N/N 	 1 	 mom favorite
+<\s>
+<s id="wsj_1163.35"> 15
+1 	 0 	 N/N 	 1 	 Rice Marni
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Rice plays
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 plays with
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 maid plays
+4 	 3 	 NP[nb]/N 	 1 	 maid the
+7 	 6 	 (N/N)/(N/N) 	 2 	 much so
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 edge with
+8 	 7 	 N/N 	 1 	 edge much
+8 	 9 	 (NP\NP)/(S[to]\NP) 	 1 	 edge as
+8 	 11 	 (S[b]\NP)/NP 	 1 	 edge steal <XB>
+10 	 9 	 (NP\NP)/(S[to]\NP) 	 2 	 to as
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 steal to
+14 	 11 	 (S[b]\NP)/NP 	 2 	 scenes steal
+14 	 12 	 N/N 	 1 	 scenes her
+14 	 13 	 N/N 	 1 	 scenes two
+<\s>
+<s id="wsj_1163.36"> 48
+1 	 2 	 ((S[dcl]\NP[expl])/(NP\NP))/NP 	 1 	 it is
+2 	 0 	 S/S 	 1 	 is But
+2 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 is whether
+6 	 2 	 ((S[dcl]\NP[expl])/(NP\NP))/NP 	 3 	 newcomer is
+6 	 3 	 NP[nb]/N 	 1 	 newcomer the
+6 	 4 	 N/N 	 1 	 newcomer Trinity
+6 	 5 	 N/N 	 1 	 newcomer Rep
+9 	 2 	 ((S[dcl]\NP[expl])/(NP\NP))/NP 	 3 	 Fried is
+9 	 8 	 N/N 	 1 	 Fried Jonathan
+9 	 10 	 (NP\NP)/NP 	 1 	 Fried -LRB-
+11 	 10 	 (NP\NP)/NP 	 2 	 Zamislov -LRB-
+14 	 10 	 (NP\NP)/NP 	 2 	 paralegal -LRB-
+14 	 13 	 NP[nb]/N 	 1 	 paralegal the
+16 	 2 	 ((S[dcl]\NP[expl])/(NP\NP))/NP 	 2 	 who is
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is who
+19 	 17 	 (S[dcl]\NP)/NP 	 2 	 actor is
+19 	 18 	 NP[nb]/N 	 1 	 actor the
+19 	 21 	 (S[b]\NP)/NP 	 2 	 actor watch <XU>
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 watch to
+24 	 25 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 he is
+24 	 26 	 (S[ng]\NP)/NP 	 1 	 he hamming <XB>
+24 	 30 	 (S[ng]\NP)/NP 	 1 	 he conducting <XB>
+24 	 35 	 (S[ng]\NP)/NP 	 1 	 he seducing <XU>
+24 	 45 	 (S[ng]\NP)/NP 	 1 	 he licking <XU>
+25 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is whether
+26 	 25 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 hamming is
+26 	 28 	 (S\NP)\(S\NP) 	 2 	 hamming up
+26 	 29 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 hamming while
+27 	 26 	 (S[ng]\NP)/NP 	 2 	 it hamming
+30 	 29 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 conducting while
+33 	 30 	 (S[ng]\NP)/NP 	 2 	 musicians conducting
+33 	 31 	 NP[nb]/N 	 1 	 musicians the
+33 	 32 	 N/N 	 1 	 musicians chamber
+35 	 25 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 seducing is
+35 	 44 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 seducing by
+37 	 36 	 NP[nb]/N 	 1 	 neighbor his
+37 	 38 	 (NP[nb]/N)\NP 	 2 	 neighbor 's
+39 	 35 	 (S[ng]\NP)/NP 	 2 	 wife seducing
+39 	 38 	 (NP[nb]/N)\NP 	 1 	 wife 's
+39 	 40 	 (NP\NP)/NP 	 1 	 wife -LRB-
+42 	 40 	 (NP\NP)/NP 	 2 	 Lish -LRB-
+42 	 41 	 N/N 	 1 	 Lish Becca
+45 	 44 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 licking by
+47 	 45 	 (S[ng]\NP)/NP 	 2 	 bosom licking
+47 	 46 	 NP[nb]/N 	 1 	 bosom her
+<\s>
+<s id="wsj_1163.37"> 7
+2 	 0 	 N/N 	 1 	 Vries Ms.
+2 	 1 	 N/N 	 1 	 Vries de
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 Vries writes
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 writes frequently
+5 	 3 	 (S[dcl]\NP)/PP 	 2 	 about writes
+6 	 5 	 PP/NP 	 1 	 theater about
+<\s>

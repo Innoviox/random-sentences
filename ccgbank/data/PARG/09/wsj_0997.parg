@@ -1,0 +1,535 @@
+<s id="wsj_0997.1"> 25
+3 	 0 	 N/N 	 1 	 Inc. Troubled
+3 	 1 	 N/N 	 1 	 Inc. SCI
+3 	 2 	 N/N 	 1 	 Inc. Television
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Inc. proposed
+3 	 6 	 (S[b]\NP)/NP 	 1 	 Inc. restructure <XB>
+3 	 16 	 (S[b]\NP)/NP 	 1 	 Inc. buy <XB>
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to proposed
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 restructure to
+7 	 6 	 (S[b]\NP)/NP 	 2 	 much restructure
+7 	 8 	 (NP\NP)/NP 	 1 	 much of
+10 	 8 	 (NP\NP)/NP 	 2 	 $ of
+10 	 9 	 NP[nb]/N 	 1 	 $ its
+10 	 13 	 (NP\NP)/NP 	 1 	 $ in
+12 	 10 	 N/N[num] 	 1 	 billion $
+12 	 11 	 N/N 	 1 	 billion 1.3
+14 	 13 	 (NP\NP)/NP 	 2 	 debt in
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+17 	 16 	 (S[b]\NP)/NP 	 2 	 time buy
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+20 	 19 	 (S[b]\NP)/NP 	 2 	 assets sell
+22 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+24 	 22 	 (S[b]\NP)/NP 	 2 	 obligations pay
+24 	 23 	 NP[nb]/N 	 1 	 obligations its
+<\s>
+<s id="wsj_0997.2"> 50
+3 	 0 	 NP[nb]/N 	 1 	 firm The
+3 	 1 	 N/N 	 1 	 firm leveraged
+3 	 2 	 N/N 	 1 	 firm buy-out
+3 	 4 	 (NP\NP)/NP 	 1 	 firm of
+3 	 23 	 (S[dcl]\NP)/S[em] 	 1 	 firm indicated
+9 	 4 	 (NP\NP)/NP 	 2 	 Co. of
+9 	 5 	 N/N 	 1 	 Co. Kohlberg
+9 	 6 	 N/N 	 1 	 Co. Kravis
+9 	 7 	 N/N 	 1 	 Co. Roberts
+9 	 8 	 N/N 	 1 	 Co. &
+9 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Co. which
+9 	 12 	 (S[dcl]\NP)/NP 	 1 	 Co. owns <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 owns which
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 % owns
+14 	 13 	 N/N 	 1 	 % 46
+14 	 15 	 (NP\NP)/NP 	 1 	 % of
+18 	 15 	 (NP\NP)/NP 	 2 	 equity of
+18 	 16 	 NP[nb]/N 	 1 	 equity the
+18 	 17 	 N/N 	 1 	 equity common
+18 	 19 	 (NP\NP)/NP 	 1 	 equity of
+21 	 19 	 (NP\NP)/NP 	 2 	 TV of
+21 	 20 	 N/N 	 1 	 TV SCI
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 indicated in
+27 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 plan in
+27 	 25 	 NP[nb]/N 	 1 	 plan the
+27 	 26 	 N/N 	 1 	 plan debt
+28 	 23 	 (S[dcl]\NP)/S[em] 	 2 	 that indicated
+29 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+29 	 31 	 ((S[b]\NP)/PP)/NP 	 1 	 it reduce <XB>
+29 	 39 	 ((S[ng]\NP)/PP)/NP 	 1 	 it giving <XB>
+30 	 28 	 S[em]/S[dcl] 	 1 	 would that
+31 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reduce would
+34 	 31 	 ((S[b]\NP)/PP)/NP 	 3 	 stake reduce
+34 	 32 	 NP[nb]/N 	 1 	 stake its
+34 	 33 	 N/N 	 1 	 stake equity
+35 	 31 	 ((S[b]\NP)/PP)/NP 	 2 	 to reduce
+37 	 35 	 PP/NP 	 1 	 % to
+37 	 36 	 N/N 	 1 	 % 15
+41 	 39 	 ((S[ng]\NP)/PP)/NP 	 3 	 rest giving
+41 	 40 	 NP[nb]/N 	 1 	 rest the
+41 	 42 	 (NP\NP)/NP 	 1 	 rest of
+44 	 42 	 (NP\NP)/NP 	 2 	 stake of
+44 	 43 	 NP[nb]/N 	 1 	 stake its
+45 	 39 	 ((S[ng]\NP)/PP)/NP 	 2 	 to giving
+46 	 45 	 PP/NP 	 1 	 bondholders to
+46 	 47 	 (NP\NP)/NP 	 1 	 bondholders in
+49 	 47 	 (NP\NP)/NP 	 2 	 restructuring in
+49 	 48 	 NP[nb]/N 	 1 	 restructuring the
+<\s>
+<s id="wsj_0997.3"> 33
+0 	 2 	 ((S[dcl]\NP)/S[em])/PP 	 1 	 KKR signaled
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 signaled also
+3 	 2 	 ((S[dcl]\NP)/S[em])/PP 	 3 	 to signaled
+5 	 4 	 NP[nb]/N 	 1 	 company the
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 company 's
+7 	 3 	 PP/NP 	 1 	 creditors to
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 creditors 's
+8 	 2 	 ((S[dcl]\NP)/S[em])/PP 	 2 	 that signaled
+10 	 9 	 N/N 	 1 	 Kravis Henry
+10 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Kravis would
+10 	 19 	 (S[b]\NP)/PP 	 1 	 Kravis resign <XB>
+10 	 29 	 (S[b]\NP)/NP 	 1 	 Kravis forgo <XU>
+14 	 12 	 N/N 	 1 	 directors other
+14 	 13 	 N/N 	 1 	 directors KKR
+14 	 15 	 (NP\NP)/NP 	 1 	 directors of
+14 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 directors would
+14 	 19 	 (S[b]\NP)/PP 	 1 	 directors resign <XB>
+14 	 29 	 (S[b]\NP)/NP 	 1 	 directors forgo <XU>
+17 	 15 	 (NP\NP)/NP 	 2 	 TV of
+17 	 16 	 N/N 	 1 	 TV SCI
+18 	 8 	 S[em]/S[dcl] 	 1 	 would that
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 resign would
+19 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 resign once
+20 	 19 	 (S[b]\NP)/PP 	 2 	 from resign
+22 	 20 	 PP/NP 	 1 	 board from
+22 	 21 	 NP[nb]/N 	 1 	 board the
+25 	 24 	 NP[nb]/N 	 1 	 restructuring the
+25 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 restructuring is
+25 	 27 	 S[pss]\NP 	 1 	 restructuring completed <XB>
+26 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is once
+27 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 completed is
+29 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 forgo would
+32 	 29 	 (S[b]\NP)/NP 	 2 	 rights forgo
+32 	 30 	 NP[nb]/N 	 1 	 rights their
+32 	 31 	 N/N 	 1 	 rights voting
+<\s>
+<s id="wsj_0997.4"> 33
+0 	 1 	 (NP\NP)/NP 	 1 	 Holders of
+0 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Holders are
+0 	 13 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 Holders being <XB>
+0 	 14 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Holders asked <XB>
+0 	 16 	 (S[b]\NP)/NP 	 1 	 Holders forgive <XB>
+3 	 2 	 N/N 	 1 	 TV SCI
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 TV 's
+5 	 1 	 (NP\NP)/NP 	 2 	 $ of
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 $ 's
+5 	 8 	 (NP\NP)/NP 	 1 	 $ of
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 507
+11 	 8 	 (NP\NP)/NP 	 2 	 bonds of
+11 	 9 	 N/N 	 1 	 bonds high-yield
+11 	 10 	 N/N 	 1 	 bonds junk
+13 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being are
+14 	 13 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 asked being
+15 	 14 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to asked
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 forgive to
+16 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 forgive in
+18 	 16 	 (S[b]\NP)/NP 	 2 	 lot forgive
+18 	 17 	 NP[nb]/N 	 1 	 lot a
+18 	 19 	 (NP\NP)/NP 	 1 	 lot of
+20 	 19 	 (NP\NP)/NP 	 2 	 debt of
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 exchange in
+22 	 23 	 (NP\NP)/(S[ng]\NP) 	 1 	 exchange for
+24 	 23 	 (NP\NP)/(S[ng]\NP) 	 2 	 taking for
+27 	 26 	 (N/N)/(N/N) 	 2 	 % 39
+29 	 24 	 (S[ng]\NP)/NP 	 2 	 stake taking
+29 	 25 	 NP[nb]/N 	 1 	 stake a
+29 	 27 	 N/N 	 1 	 stake %
+29 	 28 	 N/N 	 1 	 stake equity
+29 	 30 	 (NP\NP)/NP 	 1 	 stake in
+32 	 30 	 (NP\NP)/NP 	 2 	 TV in
+32 	 31 	 N/N 	 1 	 TV SCI
+<\s>
+<s id="wsj_0997.5"> 17
+0 	 2 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 They termed
+0 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 They said <XU>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 termed immediately
+4 	 2 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 proposal termed
+4 	 3 	 NP[nb]/N 	 1 	 proposal the
+4 	 5 	 S[adj]\NP 	 1 	 proposal inadequate <XB>
+5 	 2 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 inadequate termed
+9 	 8 	 NP[nb]/N 	 1 	 restructuring the
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 restructuring would
+9 	 12 	 (S[b]\NP)/NP 	 1 	 restructuring solve <XB>
+10 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 would not
+12 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 solve would
+14 	 13 	 NP[nb]/N 	 1 	 company the
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 company 's
+16 	 12 	 (S[b]\NP)/NP 	 2 	 problems solve
+16 	 15 	 (NP[nb]/N)\NP 	 1 	 problems 's
+<\s>
+<s id="wsj_0997.6"> 37
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 I think
+1 	 27 	 (S[dcl]\S[dcl])/NP 	 1 	 think says
+4 	 2 	 NP[nb]/N 	 1 	 plan the
+4 	 3 	 N/N 	 1 	 plan current
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 plan is
+4 	 7 	 ((S[adj]\NP)/S[em])/PP 	 1 	 plan flawed <XB>
+5 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 is think
+7 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 flawed is
+7 	 6 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 flawed sufficiently
+8 	 7 	 ((S[adj]\NP)/S[em])/PP 	 3 	 in flawed
+11 	 8 	 PP/NP 	 1 	 number in
+11 	 9 	 NP[nb]/N 	 1 	 number a
+11 	 10 	 N/N 	 1 	 number sufficient
+11 	 12 	 (NP\NP)/NP 	 1 	 number of
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 bondholders '
+15 	 12 	 (NP\NP)/NP 	 2 	 eyes of
+15 	 14 	 (NP[nb]/N)\NP 	 1 	 eyes '
+16 	 7 	 ((S[adj]\NP)/S[em])/PP 	 2 	 that flawed
+18 	 17 	 N/N 	 1 	 revisions substantial
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 revisions will
+18 	 21 	 S[pss]\NP 	 1 	 revisions required <XB>
+18 	 23 	 ((S[b]\NP)/(S[pt]\NP))/NP 	 1 	 revisions get <XB>
+19 	 16 	 S[em]/S[dcl] 	 1 	 will that
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+21 	 20 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 required be
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+24 	 23 	 ((S[b]\NP)/(S[pt]\NP))/NP 	 3 	 it get
+24 	 25 	 S[pt]\NP 	 1 	 it done <XB>
+25 	 23 	 ((S[b]\NP)/(S[pt]\NP))/NP 	 2 	 done get
+30 	 27 	 (S[dcl]\S[dcl])/NP 	 2 	 Davis says
+30 	 28 	 N/N 	 1 	 Davis analyst
+30 	 29 	 N/N 	 1 	 Davis Craig
+30 	 31 	 (NP\NP)/NP 	 1 	 Davis of
+35 	 31 	 (NP\NP)/NP 	 2 	 Co. of
+35 	 32 	 N/N 	 1 	 Co. R.D.
+35 	 33 	 N/N 	 1 	 Co. Smith
+35 	 34 	 N/N 	 1 	 Co. &
+35 	 36 	 NP\NP 	 1 	 Co. here
+<\s>
+<s id="wsj_0997.7"> 18
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Investors interpreted
+4 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 move interpreted
+4 	 2 	 NP[nb]/N 	 1 	 move the
+4 	 3 	 N/N 	 1 	 move KKR
+5 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as interpreted
+7 	 5 	 PP/NP 	 1 	 desire as
+7 	 6 	 NP[nb]/N 	 1 	 desire a
+7 	 8 	 (NP\NP)/NP 	 1 	 desire by
+10 	 8 	 (NP\NP)/NP 	 2 	 firm by
+10 	 9 	 NP[nb]/N 	 1 	 firm the
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 wash to
+14 	 12 	 ((S[b]\NP)/PP)/NP 	 3 	 hands wash
+14 	 13 	 NP[nb]/N 	 1 	 hands its
+15 	 12 	 ((S[b]\NP)/PP)/NP 	 2 	 of wash
+17 	 15 	 PP/NP 	 1 	 TV of
+17 	 16 	 N/N 	 1 	 TV SCI
+<\s>
+<s id="wsj_0997.8"> 26
+2 	 1 	 NP[nb]/N 	 1 	 spokesman a
+2 	 3 	 (NP\NP)/NP 	 1 	 spokesman for
+2 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 spokesman says
+4 	 3 	 (NP\NP)/NP 	 2 	 KKR for
+5 	 0 	 S/S 	 1 	 says But
+6 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that says
+11 	 10 	 (N/N)/(N/N) 	 2 	 % 15
+13 	 7 	 (S/S)/NP 	 2 	 stake with
+13 	 8 	 NP/NP 	 1 	 stake only
+13 	 9 	 NP[nb]/N 	 1 	 stake a
+13 	 11 	 N/N 	 1 	 stake %
+13 	 12 	 N/N 	 1 	 stake equity
+15 	 16 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 1 	 it would
+16 	 6 	 S[em]/S[dcl] 	 1 	 would that
+16 	 7 	 (S/S)/NP 	 1 	 would with
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 would n't
+18 	 16 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 2 	 be would
+19 	 18 	 ((S[b]\NP)/S[for])/(S[adj]\NP) 	 3 	 appropriate be
+20 	 18 	 ((S[b]\NP)/S[for])/(S[adj]\NP) 	 2 	 for be
+21 	 20 	 (S[for]/(S[to]\NP))/NP 	 2 	 KKR for
+21 	 23 	 (S[b]\NP)/NP 	 1 	 KKR keep <XB>
+22 	 20 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 keep to
+25 	 23 	 (S[b]\NP)/NP 	 2 	 representation keep
+25 	 24 	 N/N 	 1 	 representation board
+<\s>
+<s id="wsj_0997.9"> 28
+0 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 KKR has
+0 	 3 	 (S[pt]\NP)/NP 	 1 	 KKR made <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 has already
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 made has
+5 	 3 	 (S[pt]\NP)/NP 	 2 	 $ made
+5 	 4 	 N/N 	 1 	 $ about
+5 	 8 	 (NP\NP)/NP 	 1 	 $ of
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 1
+9 	 8 	 (NP\NP)/NP 	 2 	 gains of
+9 	 10 	 (NP\NP)/NP 	 1 	 gains from
+12 	 10 	 (NP\NP)/NP 	 2 	 transactions from
+12 	 11 	 N/N 	 1 	 transactions earlier
+12 	 13 	 (NP\NP)/NP 	 1 	 transactions with
+15 	 13 	 (NP\NP)/NP 	 2 	 TV with
+15 	 14 	 N/N 	 1 	 TV SCI
+18 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it is
+18 	 22 	 (S[adj]\NP)/PP 	 1 	 it affected <XB>
+19 	 17 	 S/S 	 1 	 is thus
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 is n't
+22 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 affected is
+22 	 21 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 affected significantly
+23 	 22 	 (S[adj]\NP)/PP 	 2 	 by affected
+25 	 24 	 NP[nb]/N 	 1 	 company the
+25 	 26 	 (NP[nb]/N)\NP 	 2 	 company 's
+27 	 23 	 PP/NP 	 1 	 troubles by
+27 	 26 	 (NP[nb]/N)\NP 	 1 	 troubles 's
+<\s>
+<s id="wsj_0997.10"> 25
+1 	 0 	 N/N 	 1 	 TV SCI
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 TV which
+1 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 TV is <XB>
+1 	 5 	 S[pss]\NP 	 1 	 TV controlled <XB>
+1 	 15 	 (S[dcl]\NP)/NP 	 1 	 TV owns
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 controlled is
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 controlled by
+9 	 7 	 (N/N)/(N/N) 	 2 	 Tenn. Nashville
+13 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Gillett by
+13 	 9 	 N/N 	 1 	 Gillett Tenn.
+13 	 11 	 N/N 	 1 	 Gillett entrepreneur
+13 	 12 	 N/N 	 1 	 Gillett George
+18 	 15 	 (S[dcl]\NP)/NP 	 2 	 stations owns
+18 	 16 	 N/N 	 1 	 stations six
+18 	 17 	 N/N 	 1 	 stations TV
+18 	 20 	 (NP\NP)/NP 	 1 	 stations including
+24 	 20 	 (NP\NP)/NP 	 2 	 affiliates including
+24 	 21 	 N/N 	 1 	 affiliates several
+24 	 22 	 N/N 	 1 	 affiliates CBS
+24 	 23 	 N/N 	 1 	 affiliates Inc.
+<\s>
+<s id="wsj_0997.11"> 18
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 It is
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 It having <XB>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 having is
+2 	 8 	 ((S\NP)\(S\NP))/PP 	 2 	 having because
+3 	 2 	 (S[ng]\NP)/NP 	 2 	 trouble having
+3 	 4 	 (S[ng]\NP)/NP 	 1 	 trouble meeting <XB>
+7 	 4 	 (S[ng]\NP)/NP 	 2 	 payments meeting
+7 	 5 	 NP[nb]/N 	 1 	 payments its
+7 	 6 	 N/N 	 1 	 payments debt
+9 	 8 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+11 	 9 	 PP/NP 	 1 	 borrowing of
+11 	 10 	 N/N 	 1 	 borrowing heavy
+11 	 12 	 (NP\NP)/NP 	 1 	 borrowing in
+11 	 14 	 (NP\NP)/NP 	 1 	 borrowing for
+13 	 12 	 (NP\NP)/NP 	 2 	 1987 in
+17 	 14 	 (NP\NP)/NP 	 2 	 buy-out for
+17 	 15 	 NP[nb]/N 	 1 	 buy-out a
+17 	 16 	 N/N 	 1 	 buy-out leveraged
+<\s>
+<s id="wsj_0997.12"> 40
+6 	 0 	 (S/S)/NP 	 2 	 Inc. Through
+6 	 1 	 N/N 	 1 	 Inc. investment
+6 	 2 	 N/N 	 1 	 Inc. banker
+6 	 3 	 N/N 	 1 	 Inc. Drexel
+6 	 4 	 N/N 	 1 	 Inc. Burnham
+6 	 5 	 N/N 	 1 	 Inc. Lambert
+9 	 8 	 N/N 	 1 	 TV SCI
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 TV is
+9 	 11 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 TV offering <XB>
+9 	 13 	 ((S[b]\NP)/PP)/NP 	 1 	 TV exchange <XB>
+10 	 0 	 (S/S)/NP 	 1 	 is Through
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 offering is
+12 	 11 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to offering
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 exchange to
+15 	 13 	 ((S[b]\NP)/PP)/NP 	 3 	 classes exchange
+15 	 14 	 N/N 	 1 	 classes three
+15 	 16 	 (NP\NP)/NP 	 1 	 classes of
+18 	 16 	 (NP\NP)/NP 	 2 	 bonds of
+18 	 17 	 N/N 	 1 	 bonds junk
+19 	 13 	 ((S[b]\NP)/PP)/NP 	 2 	 for exchange
+20 	 19 	 PP/NP 	 1 	 packages for
+20 	 21 	 (NP\NP)/NP 	 1 	 packages of
+20 	 26 	 (NP\NP)/(S[dcl]/NP) 	 1 	 packages that
+20 	 28 	 ((S[dcl]\NP)/PP)/NP 	 3 	 packages value <XU>
+23 	 21 	 (NP\NP)/NP 	 2 	 bonds of
+23 	 22 	 N/N 	 1 	 bonds new
+25 	 21 	 (NP\NP)/NP 	 2 	 equity of
+25 	 22 	 N/N 	 1 	 equity new
+27 	 28 	 ((S[dcl]\NP)/PP)/NP 	 1 	 investors value
+28 	 26 	 (NP\NP)/(S[dcl]/NP) 	 2 	 value that
+29 	 28 	 ((S[dcl]\NP)/PP)/NP 	 2 	 at value
+30 	 29 	 PP/NP 	 1 	 ranges at
+30 	 34 	 (NP\NP)/NP 	 1 	 ranges to
+33 	 31 	 ((NP\NP)/(NP\NP))/NP 	 3 	 cents from
+33 	 32 	 N/N 	 1 	 cents 20
+34 	 31 	 ((NP\NP)/(NP\NP))/NP 	 2 	 to from
+36 	 34 	 (NP\NP)/NP 	 2 	 cents to
+36 	 35 	 N/N 	 1 	 cents 70
+36 	 37 	 (NP\NP)/NP 	 1 	 cents on
+39 	 37 	 (NP\NP)/NP 	 2 	 dollar on
+39 	 38 	 NP[nb]/N 	 1 	 dollar the
+<\s>
+<s id="wsj_0997.13"> 21
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 KKR would
+0 	 2 	 ((S[b]\NP)/PP)/NP 	 1 	 KKR give <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give would
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 give up
+2 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 give while
+6 	 5 	 (N/N)/(N/N) 	 2 	 % 31
+8 	 2 	 ((S[b]\NP)/PP)/NP 	 3 	 stake give
+8 	 4 	 NP[nb]/N 	 1 	 stake a
+8 	 6 	 N/N 	 1 	 stake %
+8 	 7 	 N/N 	 1 	 stake equity
+9 	 2 	 ((S[b]\NP)/PP)/NP 	 2 	 to give
+10 	 9 	 PP/NP 	 1 	 bondholders to
+14 	 13 	 N/N 	 1 	 Gillett Mr.
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Gillett would
+14 	 16 	 (S[b]\NP)/NP 	 1 	 Gillett surrender <XB>
+15 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 would while
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 surrender would
+19 	 18 	 (N/N)/(N/N) 	 2 	 % 8
+20 	 16 	 (S[b]\NP)/NP 	 2 	 stake surrender
+20 	 17 	 NP[nb]/N 	 1 	 stake an
+20 	 19 	 N/N 	 1 	 stake %
+<\s>
+<s id="wsj_0997.14"> 29
+5 	 1 	 N/N 	 1 	 investor one
+5 	 2 	 N/N 	 1 	 investor big
+5 	 3 	 N/N 	 1 	 investor SCI
+5 	 4 	 N/N 	 1 	 investor TV
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 investor thinks
+6 	 0 	 (S/S)/S[dcl] 	 2 	 thinks While
+7 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 that 's
+7 	 10 	 S[adj]\NP 	 1 	 that generous <XB>
+8 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 's thinks
+10 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 generous 's
+10 	 9 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 generous pretty
+13 	 12 	 N/N 	 1 	 junkholders many
+13 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 junkholders had
+13 	 16 	 (S[ng]\NP)/S[em] 	 1 	 junkholders hoping <XB>
+14 	 0 	 (S/S)/S[dcl] 	 1 	 had While
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+16 	 15 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 hoping been
+17 	 16 	 (S[ng]\NP)/S[em] 	 2 	 that hoping
+18 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 KKR would
+18 	 23 	 ((S[b]\NP)/PP)/NP 	 1 	 KKR invest <XB>
+21 	 20 	 N/N 	 1 	 Gillett Mr.
+21 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Gillett would
+21 	 23 	 ((S[b]\NP)/PP)/NP 	 1 	 Gillett invest <XB>
+22 	 17 	 S[em]/S[dcl] 	 1 	 would that
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 invest would
+25 	 23 	 ((S[b]\NP)/PP)/NP 	 3 	 money invest
+25 	 24 	 N/N 	 1 	 money new
+26 	 23 	 ((S[b]\NP)/PP)/NP 	 2 	 in invest
+28 	 26 	 PP/NP 	 1 	 TV in
+28 	 27 	 N/N 	 1 	 TV SCI
+<\s>
+<s id="wsj_0997.15"> 10
+1 	 0 	 NP[nb]/N 	 1 	 investors Those
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 investors think
+4 	 3 	 N/N 	 1 	 TV SCI
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 TV needs
+4 	 9 	 S[b]\NP 	 1 	 TV survive <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 needs think
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 equity needs
+7 	 6 	 N/N 	 1 	 equity new
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 survive to
+<\s>
+<s id="wsj_0997.16"> 16
+1 	 0 	 N/N 	 1 	 TV SCI
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 TV 's
+5 	 2 	 (NP[nb]/N)\NP 	 1 	 plan 's
+5 	 3 	 N/N 	 1 	 plan debt
+5 	 4 	 N/N 	 1 	 plan restructuring
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plan would
+5 	 7 	 (S[b]\NP)/NP 	 1 	 plan defer <XB>
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 defer would
+8 	 7 	 (S[b]\NP)/NP 	 2 	 payment defer
+8 	 9 	 (NP\NP)/NP 	 1 	 payment of
+10 	 9 	 (NP\NP)/NP 	 2 	 $ of
+10 	 13 	 (NP\NP)/NP 	 1 	 $ of
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 153
+15 	 13 	 (NP\NP)/NP 	 2 	 debt of
+15 	 14 	 N/N 	 1 	 debt bank
+<\s>
+<s id="wsj_0997.17"> 25
+0 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 It would
+0 	 3 	 (S[b]\NP)/NP 	 1 	 It defer <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 would also
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 defer would
+4 	 3 	 (S[b]\NP)/NP 	 2 	 interest defer
+4 	 7 	 (NP\NP)/NP 	 1 	 interest on
+6 	 3 	 (S[b]\NP)/NP 	 2 	 principal defer
+6 	 7 	 (NP\NP)/NP 	 1 	 principal on
+9 	 7 	 (NP\NP)/NP 	 2 	 bonds on
+9 	 8 	 N/N 	 1 	 bonds junk
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bonds that
+9 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 bonds have <XB>
+9 	 12 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 bonds fallen <XB>
+9 	 13 	 S[adj]\NP 	 1 	 bonds due <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have that
+12 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 fallen have
+13 	 12 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 due fallen
+17 	 15 	 NP[nb]/N 	 1 	 period the
+17 	 16 	 N/N 	 1 	 period grace
+17 	 18 	 (NP\NP)/(S[ng]\NP) 	 1 	 period for
+17 	 22 	 S[dcl]\NP 	 1 	 period expires
+19 	 18 	 (NP\NP)/(S[ng]\NP) 	 2 	 paying for
+21 	 19 	 (S[ng]\NP)/NP 	 2 	 bill paying
+21 	 20 	 NP[nb]/N 	 1 	 bill the
+22 	 23 	 ((S\NP)\(S\NP))/N[num] 	 2 	 expires Nov.
+24 	 23 	 ((S\NP)\(S\NP))/N[num] 	 3 	 16 Nov.
+<\s>
+<s id="wsj_0997.18"> 27
+3 	 0 	 (S/S)/NP 	 2 	 time At
+3 	 1 	 NP[nb]/N 	 1 	 time the
+3 	 2 	 N/N 	 1 	 time same
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 investors estimate
+6 	 0 	 (S/S)/NP 	 1 	 estimate At
+8 	 7 	 NP[nb]/N 	 1 	 restructuring the
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 restructuring would
+8 	 10 	 (S[b]\NP)/NP 	 1 	 restructuring cut <XB>
+9 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 would estimate
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cut would
+10 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 cut from
+10 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 cut to
+12 	 11 	 NP[nb]/N 	 1 	 company the
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 company 's
+17 	 10 	 (S[b]\NP)/NP 	 2 	 bill cut
+17 	 13 	 (NP[nb]/N)\NP 	 1 	 bill 's
+17 	 14 	 N/N 	 1 	 bill annual
+17 	 15 	 N/N 	 1 	 bill cash
+17 	 16 	 N/N 	 1 	 bill interest
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+20 	 19 	 N/N 	 1 	 $ about
+22 	 20 	 N/N[num] 	 1 	 million $
+22 	 21 	 N/N 	 1 	 million 90
+24 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+26 	 24 	 N/N[num] 	 1 	 million $
+26 	 25 	 N/N 	 1 	 million 85
+<\s>
+<s id="wsj_0997.19"> 27
+2 	 1 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+5 	 2 	 (S[b]\NP)/NP 	 2 	 bill pay
+5 	 3 	 NP[nb]/N 	 1 	 bill that
+5 	 4 	 N/N 	 1 	 bill interest
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 analysts say
+8 	 0 	 S/S 	 1 	 say Yet
+10 	 9 	 N/N 	 1 	 TV SCI
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 TV will
+10 	 13 	 (S[b]\NP)/NP 	 1 	 TV produce <XB>
+11 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 will say
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 will only
+13 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 produce will
+15 	 13 	 (S[b]\NP)/NP 	 2 	 $ produce
+15 	 14 	 N/N 	 1 	 $ about
+15 	 18 	 (N\N)/N 	 1 	 $ to
+15 	 22 	 (NP\NP)/NP 	 1 	 $ of
+15 	 25 	 (NP\NP)/N 	 1 	 $ a
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 80
+19 	 18 	 (N\N)/N 	 2 	 $ to
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 90
+24 	 22 	 (NP\NP)/NP 	 2 	 flow of
+24 	 23 	 N/N 	 1 	 flow cash
+26 	 25 	 (NP\NP)/N 	 2 	 year a
+<\s>

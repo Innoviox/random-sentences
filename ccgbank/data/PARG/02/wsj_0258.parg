@@ -1,0 +1,594 @@
+<s id="wsj_0258.1"> 29
+3 	 0 	 N/N 	 1 	 Inc. Mips
+3 	 1 	 N/N 	 1 	 Inc. Computer
+3 	 2 	 N/N 	 1 	 Inc. Systems
+3 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Inc. will
+3 	 6 	 (S[b]\NP)/NP 	 1 	 Inc. unveil <XB>
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 will today
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 unveil will
+10 	 6 	 (S[b]\NP)/NP 	 2 	 computer unveil
+10 	 7 	 NP[nb]/N 	 1 	 computer a
+10 	 8 	 N/N 	 1 	 computer new
+10 	 9 	 N/N 	 1 	 computer general-purpose
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 computer that
+10 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 computer will <XB>
+10 	 13 	 (S[b]\NP)/PP 	 1 	 computer compete <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 compete will
+14 	 13 	 (S[b]\NP)/PP 	 2 	 with compete
+16 	 15 	 (N/N)/(N/N) 	 2 	 expensive more
+17 	 14 	 PP/NP 	 1 	 machines with
+17 	 16 	 N/N 	 1 	 machines expensive
+17 	 18 	 (NP\NP)/NP 	 1 	 machines from
+19 	 18 	 (NP\NP)/NP 	 2 	 companies from
+19 	 21 	 (NP\NP)/NP 	 1 	 companies as
+21 	 20 	 (NP\NP)/(NP\NP) 	 2 	 as such
+24 	 21 	 (NP\NP)/NP 	 2 	 Inc. as
+24 	 22 	 N/N 	 1 	 Inc. Sun
+24 	 23 	 N/N 	 1 	 Inc. Microsystems
+28 	 21 	 (NP\NP)/NP 	 2 	 Corp as
+28 	 26 	 N/N 	 1 	 Corp Digital
+28 	 27 	 N/N 	 1 	 Corp Equipment
+<\s>
+<s id="wsj_0258.2"> 30
+2 	 1 	 (N/N)/(N/N) 	 2 	 held closely
+5 	 3 	 (N/N)/(N/N) 	 2 	 Calif. Sunnyvale
+7 	 0 	 NP[nb]/N 	 1 	 company The
+7 	 2 	 N/N 	 1 	 company held
+7 	 5 	 N/N 	 1 	 company Calif.
+7 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 company will
+7 	 10 	 (S[b]\NP)/NP 	 1 	 company announce <XB>
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 will also
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 announce will
+12 	 10 	 (S[b]\NP)/NP 	 2 	 agreement announce
+12 	 11 	 NP[nb]/N 	 1 	 agreement an
+12 	 14 	 ((S[b]\NP)/PP)/NP 	 1 	 agreement supply <XB>
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 supply to
+15 	 14 	 ((S[b]\NP)/PP)/NP 	 3 	 computers supply
+16 	 14 	 ((S[b]\NP)/PP)/NP 	 2 	 to supply
+19 	 16 	 PP/NP 	 1 	 Corp. to
+19 	 17 	 N/N 	 1 	 Corp. Control
+19 	 18 	 N/N 	 1 	 Corp. Data
+19 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Corp. which
+19 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Corp. will <XB>
+19 	 23 	 (S[b]\NP)/NP 	 1 	 Corp. sell <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will which
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 sell will
+23 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 sell under
+25 	 23 	 (S[b]\NP)/NP 	 2 	 machines sell
+25 	 24 	 N/N 	 1 	 machines Mips
+29 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 label under
+29 	 27 	 NP[nb]/N 	 1 	 label its
+29 	 28 	 N/N 	 1 	 label own
+<\s>
+<s id="wsj_0258.3"> 17
+3 	 0 	 NP[nb]/N 	 1 	 machine The
+3 	 1 	 N/N 	 1 	 machine new
+3 	 2 	 N/N 	 1 	 machine Mips
+3 	 5 	 (S[pss]\NP)/NP 	 1 	 machine called <XB>
+3 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 machine will
+3 	 10 	 ((S[b]\NP)/PP)/NP 	 1 	 machine cost <XB>
+7 	 5 	 (S[pss]\NP)/NP 	 2 	 RC6280 called
+7 	 6 	 NP[nb]/N 	 1 	 RC6280 the
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cost will
+11 	 10 	 ((S[b]\NP)/PP)/NP 	 3 	 $ cost
+12 	 11 	 N/N[num] 	 1 	 150,000 $
+13 	 10 	 ((S[b]\NP)/PP)/NP 	 2 	 for cost
+16 	 13 	 PP/NP 	 1 	 system for
+16 	 14 	 NP[nb]/N 	 1 	 system a
+16 	 15 	 N/N 	 1 	 system basic
+<\s>
+<s id="wsj_0258.4"> 23
+1 	 0 	 NP[nb]/N 	 1 	 computer The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 computer processes
+1 	 9 	 (S[dcl]\NP)/NP 	 1 	 computer uses <XU>
+2 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 processes per
+4 	 3 	 (N/N)/(N/N) 	 2 	 million 55
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 instructions processes
+5 	 4 	 N/N 	 1 	 instructions million
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 second per
+9 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 uses unlike
+11 	 10 	 (N/N)/(N/N) 	 2 	 one only
+14 	 9 	 (S[dcl]\NP)/NP 	 2 	 chip uses
+14 	 11 	 N/N 	 1 	 chip one
+14 	 12 	 N/N 	 1 	 chip central
+14 	 13 	 N/N 	 1 	 chip processing
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 machines unlike
+19 	 17 	 N/N 	 1 	 machines many
+19 	 18 	 N/N 	 1 	 machines rival
+19 	 20 	 (S[ng]\NP)/NP 	 1 	 machines using <XB>
+22 	 20 	 (S[ng]\NP)/NP 	 2 	 processors using
+22 	 21 	 N/N 	 1 	 processors several
+<\s>
+<s id="wsj_0258.5"> 11
+1 	 0 	 NP[nb]/N 	 1 	 machine The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 machine employs
+8 	 7 	 (N/N)/(N/N) 	 2 	 RISC or
+10 	 2 	 (S[dcl]\NP)/NP 	 2 	 technology employs
+10 	 3 	 N/N 	 1 	 technology reduced
+10 	 4 	 N/N 	 1 	 technology instruction-set
+10 	 5 	 N/N 	 1 	 technology computing
+10 	 8 	 N/N 	 1 	 technology RISC
+<\s>
+<s id="wsj_0258.6"> 24
+2 	 0 	 (S/S)/NP 	 2 	 price At
+2 	 1 	 NP[nb]/N 	 1 	 price that
+5 	 4 	 NP[nb]/N 	 1 	 analyst an
+5 	 6 	 S[adj]\NP 	 1 	 analyst familiar <XB>
+5 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 analyst said
+6 	 7 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 familiar with
+9 	 7 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 machine with
+9 	 8 	 NP[nb]/N 	 1 	 machine the
+13 	 12 	 NP[nb]/N 	 1 	 computer the
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 computer offers
+14 	 0 	 (S/S)/NP 	 1 	 offers At
+14 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 offers said <XU>
+18 	 15 	 (NP/NP)/(NP/NP) 	 2 	 times up
+18 	 16 	 (NP/NP)/(NP/NP) 	 2 	 times to
+18 	 17 	 (NP/NP)/(NP/NP) 	 2 	 times 10
+20 	 14 	 (S[dcl]\NP)/NP 	 2 	 performance offers
+20 	 18 	 NP/NP 	 1 	 performance times
+20 	 19 	 NP[nb]/N 	 1 	 performance the
+20 	 21 	 (NP\NP)/NP 	 1 	 performance of
+23 	 21 	 (NP\NP)/NP 	 2 	 machines of
+23 	 22 	 N/N 	 1 	 machines similar
+<\s>
+<s id="wsj_0258.7"> 22
+3 	 0 	 (S/S)/NP 	 2 	 range In
+3 	 1 	 NP[nb]/N 	 1 	 range the
+3 	 2 	 N/N 	 1 	 range price
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 it 's
+5 	 0 	 (S/S)/NP 	 1 	 's In
+5 	 11 	 (S[dcl]\S[dcl])/NP 	 1 	 's said
+8 	 7 	 (N/N)/(N/N) 	 2 	 high-performing tremendously
+9 	 5 	 (S[dcl]\NP)/NP 	 2 	 product 's
+9 	 6 	 NP[nb]/N 	 1 	 product a
+9 	 8 	 N/N 	 1 	 product high-performing
+13 	 11 	 (S[dcl]\S[dcl])/NP 	 2 	 Gant said
+13 	 12 	 N/N 	 1 	 Gant Sandy
+16 	 11 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst said
+16 	 15 	 NP[nb]/N 	 1 	 analyst an
+16 	 17 	 (NP\NP)/NP 	 1 	 analyst at
+21 	 17 	 (NP\NP)/NP 	 2 	 InfoCorp at
+21 	 18 	 NP[nb]/N 	 1 	 InfoCorp the
+21 	 19 	 N/N 	 1 	 InfoCorp market-research
+21 	 20 	 N/N 	 1 	 InfoCorp firm
+<\s>
+<s id="wsj_0258.8"> 23
+1 	 0 	 NP[nb]/N 	 1 	 machine The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 machine is
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 part is
+3 	 4 	 (NP\NP)/NP 	 1 	 part of
+6 	 4 	 (NP\NP)/NP 	 2 	 effort of
+6 	 5 	 NP[nb]/N 	 1 	 effort an
+6 	 7 	 (NP\NP)/NP 	 1 	 effort by
+8 	 7 	 (NP\NP)/NP 	 2 	 Mips by
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 establish to
+11 	 10 	 ((S[b]\NP)/PP)/NP 	 3 	 itself establish
+12 	 10 	 ((S[b]\NP)/PP)/NP 	 2 	 as establish
+14 	 12 	 PP/NP 	 1 	 supplier as
+14 	 13 	 NP[nb]/N 	 1 	 supplier a
+14 	 20 	 (NP\NP)/NP 	 1 	 supplier of
+16 	 15 	 ((NP\NP)/(NP\NP))/NP 	 3 	 computers of
+20 	 15 	 ((NP\NP)/(NP\NP))/NP 	 2 	 of of
+20 	 18 	 (NP\NP)/(NP\NP) 	 2 	 of not
+20 	 19 	 (NP\NP)/(NP\NP) 	 2 	 of just
+22 	 20 	 (NP\NP)/NP 	 2 	 technology of
+22 	 21 	 N/N 	 1 	 technology integrated-circuit
+<\s>
+<s id="wsj_0258.9"> 30
+0 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Mips wants
+0 	 4 	 S[b]\NP 	 1 	 Mips wedge <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 wants also
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wants
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 wedge to
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 wedge into
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 markets into
+6 	 7 	 S[adj]\NP 	 1 	 markets other <XB>
+7 	 8 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 other than
+11 	 8 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 applications than
+11 	 9 	 N/N 	 1 	 applications traditional
+11 	 10 	 N/N 	 1 	 applications RISC
+11 	 13 	 (NP\NP)/NP 	 1 	 applications as
+13 	 12 	 (NP\NP)/(NP\NP) 	 2 	 as such
+14 	 13 	 (NP\NP)/NP 	 2 	 engineering as
+16 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 Mips said
+20 	 18 	 NP[nb]/N 	 1 	 machine the
+20 	 19 	 N/N 	 1 	 machine new
+20 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 machine will
+20 	 24 	 S[pss]\NP 	 1 	 machine used <XB>
+21 	 17 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 will also
+23 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+24 	 23 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 used by
+24 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 used for <XU>
+26 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 businesses by
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 communications for
+<\s>
+<s id="wsj_0258.10"> 22
+0 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 This demonstrates
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 demonstrates clearly
+2 	 16 	 (S[dcl]\S[dcl])/NP 	 1 	 demonstrates said
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that demonstrates
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Mips is
+5 	 3 	 S[em]/S[dcl] 	 1 	 is that
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 company is
+8 	 6 	 NP[nb]/N 	 1 	 company a
+8 	 7 	 N/N 	 1 	 company systems
+10 	 9 	 conj/conj 	 1 	 than rather
+14 	 5 	 (S[dcl]\NP)/NP 	 2 	 company is
+14 	 11 	 NP/NP 	 1 	 company just
+14 	 12 	 NP[nb]/N 	 1 	 company a
+14 	 13 	 N/N 	 1 	 company chip
+21 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 Hime said
+21 	 17 	 N/N 	 1 	 Hime Mips
+21 	 18 	 N/N 	 1 	 Hime Vice
+21 	 19 	 N/N 	 1 	 Hime President
+21 	 20 	 N/N 	 1 	 Hime John
+<\s>
+<s id="wsj_0258.11"> 45
+3 	 0 	 NP[nb]/N 	 1 	 deal The
+3 	 1 	 N/N 	 1 	 deal Control
+3 	 2 	 N/N 	 1 	 deal Data
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 deal is
+4 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 is because
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 boon is
+6 	 5 	 NP[nb]/N 	 1 	 boon a
+6 	 7 	 (NP\NP)/NP 	 1 	 boon for
+8 	 7 	 (NP\NP)/NP 	 2 	 Mips for
+10 	 11 	 ((S[dcl]\NP)/NP)/NP 	 1 	 it gives
+11 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 gives because
+11 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 gives as
+15 	 11 	 ((S[dcl]\NP)/NP)/NP 	 3 	 company gives
+15 	 12 	 NP/NP 	 1 	 company the
+15 	 13 	 NP[nb]/N 	 1 	 company the
+15 	 14 	 N/N 	 1 	 company five-year-old
+18 	 11 	 ((S[dcl]\NP)/NP)/NP 	 2 	 ally gives
+18 	 16 	 N/N 	 1 	 ally one
+18 	 17 	 N/N 	 1 	 ally more
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 it battles
+21 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 battles as
+21 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 battles for
+23 	 22 	 (N/N)/(N/N) 	 2 	 established more
+25 	 21 	 (S[dcl]\NP)/NP 	 2 	 concerns battles
+25 	 23 	 N/N 	 1 	 concerns established
+25 	 24 	 N/N 	 1 	 concerns electronic
+25 	 27 	 (NP\NP)/NP 	 1 	 concerns as
+27 	 26 	 (NP\NP)/(NP\NP) 	 2 	 as such
+28 	 27 	 (NP\NP)/NP 	 2 	 Sun as
+31 	 27 	 (NP\NP)/NP 	 2 	 Co. as
+31 	 30 	 N/N 	 1 	 Co. Hewlett-Packard
+34 	 27 	 (NP\NP)/NP 	 2 	 Inc. as
+34 	 33 	 N/N 	 1 	 Inc. Motorola
+37 	 27 	 (NP\NP)/NP 	 2 	 Corp. as
+37 	 36 	 N/N 	 1 	 Corp. Intel
+41 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 market for
+41 	 39 	 NP[nb]/N 	 1 	 market the
+41 	 40 	 N/N 	 1 	 market emerging
+41 	 42 	 (NP\NP)/NP 	 1 	 market for
+44 	 42 	 (NP\NP)/NP 	 2 	 machines for
+44 	 43 	 N/N 	 1 	 machines RISC
+<\s>
+<s id="wsj_0258.12"> 11
+1 	 0 	 N/N 	 1 	 technology RISC
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 technology speeds
+1 	 7 	 (S[ng]\NP)/NP 	 1 	 technology simplifying <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 speeds up
+2 	 6 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 speeds by
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 computer speeds
+5 	 4 	 NP[nb]/N 	 1 	 computer a
+7 	 6 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 simplifying by
+10 	 7 	 (S[ng]\NP)/NP 	 2 	 software simplifying
+10 	 8 	 NP[nb]/N 	 1 	 software the
+10 	 9 	 N/N 	 1 	 software internal
+<\s>
+<s id="wsj_0258.13"> 31
+1 	 0 	 (S/S)/NP 	 2 	 Mips For
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Mips which
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 Mips expects <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 expects which
+4 	 10 	 ((S\NP)\(S\NP))/N 	 2 	 expects this
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 revenue expects
+5 	 6 	 (NP\NP)/NP 	 1 	 revenue of
+7 	 6 	 (NP\NP)/NP 	 2 	 $ of
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 100
+11 	 10 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+14 	 13 	 N/N 	 1 	 allies big-name
+14 	 16 	 (NP\NP)/NP 	 1 	 allies as
+14 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 allies are
+14 	 20 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 allies essential <XB>
+16 	 15 	 (NP\NP)/(NP\NP) 	 2 	 as such
+18 	 16 	 (NP\NP)/NP 	 2 	 Data as
+18 	 17 	 N/N 	 1 	 Data Control
+19 	 0 	 (S/S)/NP 	 1 	 are For
+20 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 essential are
+21 	 20 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to essential
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 attract to
+24 	 22 	 ((S[b]\NP)/PP)/NP 	 3 	 developers attract
+24 	 23 	 N/N 	 1 	 developers software
+25 	 22 	 ((S[b]\NP)/PP)/NP 	 2 	 to attract
+27 	 26 	 NP[nb]/N 	 1 	 company the
+27 	 28 	 (NP[nb]/N)\NP 	 2 	 company 's
+30 	 25 	 PP/NP 	 1 	 architecture to
+30 	 28 	 (NP[nb]/N)\NP 	 1 	 architecture 's
+30 	 29 	 N/N 	 1 	 architecture RISC
+<\s>
+<s id="wsj_0258.14"> 21
+1 	 0 	 NP[nb]/N 	 1 	 thing The
+1 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 thing says <XU>
+1 	 6 	 (S[dcl]\NP)/S[em] 	 1 	 thing is
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it says
+4 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 about says
+5 	 4 	 PP/NP 	 1 	 Mips about
+6 	 16 	 (S[dcl]\S[dcl])/NP 	 1 	 is said
+7 	 6 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+8 	 9 	 (S[dcl]\NP)/PP 	 1 	 they 're
+9 	 7 	 S[em]/S[dcl] 	 1 	 're that
+9 	 14 	 (S\NP)\(S\NP) 	 2 	 're now
+10 	 9 	 (S[dcl]\NP)/PP 	 2 	 on 're
+12 	 10 	 PP/NP 	 1 	 roll on
+12 	 11 	 NP[nb]/N 	 1 	 roll a
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 now right
+18 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 Gant said
+18 	 17 	 N/N 	 1 	 Gant Ms.
+18 	 19 	 (NP\NP)/NP 	 1 	 Gant at
+20 	 19 	 (NP\NP)/NP 	 2 	 InfoCorp at
+<\s>
+<s id="wsj_0258.15"> 9
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 They 're
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 They getting <XB>
+1 	 8 	 (S[dcl]\S[dcl])\NP 	 1 	 're added
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 getting 're
+5 	 2 	 (S[ng]\NP)/NP 	 2 	 wins getting
+5 	 3 	 NP[nb]/N 	 1 	 wins some
+5 	 4 	 N/N 	 1 	 wins major
+7 	 8 	 (S[dcl]\S[dcl])\NP 	 2 	 she added
+<\s>
+<s id="wsj_0258.16"> 24
+1 	 0 	 (S/S)/(S/S) 	 2 	 month Last
+4 	 3 	 (S/S)/NP 	 2 	 example for
+6 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Mips agreed
+6 	 9 	 ((S[b]\NP)/PP)/NP 	 1 	 Mips supply <XB>
+7 	 1 	 S/S 	 1 	 agreed month
+7 	 3 	 (S/S)/NP 	 1 	 agreed for
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 supply to
+11 	 9 	 ((S[b]\NP)/PP)/NP 	 3 	 computers supply
+11 	 10 	 NP[nb]/N 	 1 	 computers its
+12 	 9 	 ((S[b]\NP)/PP)/NP 	 2 	 to supply
+15 	 12 	 PP/NP 	 1 	 AG to
+15 	 13 	 N/N 	 1 	 AG Nixdorf
+15 	 14 	 N/N 	 1 	 AG Computer
+15 	 16 	 (NP\NP)/NP 	 1 	 AG of
+18 	 16 	 (NP\NP)/NP 	 2 	 Germany of
+18 	 17 	 N/N 	 1 	 Germany West
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 France 's
+23 	 12 	 PP/NP 	 1 	 Bull to
+23 	 21 	 (NP[nb]/N)\NP 	 1 	 Bull 's
+23 	 22 	 N/N 	 1 	 Bull Groupe
+<\s>
+<s id="wsj_0258.17"> 37
+1 	 0 	 N/N 	 1 	 Corp. Sony
+1 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Corp. have
+1 	 10 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Corp. agreed <XB>
+1 	 12 	 (S[b]\NP)/NP 	 1 	 Corp. sell <XB>
+5 	 3 	 N/N 	 1 	 Inc. Tandem
+5 	 4 	 N/N 	 1 	 Inc. Computers
+5 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Inc. have
+5 	 10 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Inc. agreed <XB>
+5 	 12 	 (S[b]\NP)/NP 	 1 	 Inc. sell <XB>
+8 	 7 	 N/N 	 1 	 Equipment Digital
+8 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Equipment have
+8 	 10 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Equipment agreed <XB>
+8 	 12 	 (S[b]\NP)/NP 	 1 	 Equipment sell <XB>
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 agreed have
+11 	 10 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to agreed
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+14 	 12 	 (S[b]\NP)/NP 	 2 	 computers sell
+14 	 13 	 N/N 	 1 	 computers MIPS
+16 	 18 	 (NP\NP)/NP 	 1 	 companies as
+16 	 29 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 companies have
+16 	 30 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 companies agreed <XB>
+16 	 32 	 (S[b]\NP)/NP 	 1 	 companies make <XB>
+18 	 17 	 (NP\NP)/(NP\NP) 	 2 	 as such
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 Japan 's
+22 	 18 	 (NP\NP)/NP 	 2 	 Corp. as
+22 	 20 	 (NP[nb]/N)\NP 	 1 	 Corp. 's
+22 	 21 	 N/N 	 1 	 Corp. NEC
+25 	 24 	 N/N 	 1 	 Germany West
+25 	 26 	 (NP[nb]/N)\NP 	 2 	 Germany 's
+28 	 18 	 (NP\NP)/NP 	 2 	 A.G. as
+28 	 26 	 (NP[nb]/N)\NP 	 1 	 A.G. 's
+28 	 27 	 N/N 	 1 	 A.G. Siemens
+30 	 29 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 agreed have
+31 	 30 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to agreed
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+32 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 make under
+34 	 32 	 (S[b]\NP)/NP 	 2 	 chips make
+34 	 33 	 N/N 	 1 	 chips Mips
+36 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 license under
+<\s>
+<s id="wsj_0258.18"> 31
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Today 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 agreement 's
+2 	 3 	 ((S[dcl]\NP)/NP)/NP 	 1 	 agreement gives
+3 	 18 	 (S[dcl]\S[dcl])/NP 	 1 	 gives said
+5 	 3 	 ((S[dcl]\NP)/NP)/NP 	 3 	 Data gives
+5 	 4 	 N/N 	 1 	 Data Control
+7 	 3 	 ((S[dcl]\NP)/NP)/NP 	 2 	 machine gives
+7 	 6 	 NP[nb]/N 	 1 	 machine a
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 compete to
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 compete against
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 Digital against
+16 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 makers against
+16 	 13 	 N/N 	 1 	 makers other
+16 	 14 	 N/N 	 1 	 makers general-purpose
+16 	 15 	 N/N 	 1 	 makers computer
+20 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 Logan said
+20 	 19 	 N/N 	 1 	 Logan John
+24 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst said
+24 	 22 	 NP[nb]/N 	 1 	 analyst a
+24 	 23 	 N/N 	 1 	 analyst computer-market
+24 	 25 	 (NP\NP)/NP 	 1 	 analyst at
+28 	 25 	 (NP\NP)/NP 	 2 	 Inc. at
+28 	 26 	 N/N 	 1 	 Inc. Aberdeen
+28 	 27 	 N/N 	 1 	 Inc. Group
+28 	 29 	 (NP\NP)/NP 	 1 	 Inc. of
+30 	 29 	 (NP\NP)/NP 	 2 	 Boston of
+<\s>
+<s id="wsj_0258.19"> 10
+1 	 0 	 NP[nb]/N 	 1 	 machine The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 machine is
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 is essentially
+2 	 9 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 computer is
+6 	 4 	 NP[nb]/N 	 1 	 computer a
+6 	 5 	 N/N 	 1 	 computer mainframe
+8 	 9 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_0258.20"> 26
+1 	 2 	 (NP\NP)/NP 	 1 	 CDC -LRB-
+1 	 6 	 (S[dcl]\NP)/NP 	 1 	 CDC has
+4 	 2 	 (NP\NP)/NP 	 2 	 Data -LRB-
+4 	 3 	 N/N 	 1 	 Data Control
+6 	 0 	 S/S 	 1 	 has Suddenly
+6 	 25 	 (S[dcl]\S[dcl])\NP 	 1 	 has added
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 product has
+9 	 7 	 NP[nb]/N 	 1 	 product a
+9 	 8 	 N/N 	 1 	 product competitive
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 fight to
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 fight back
+13 	 11 	 (S[b]\NP)/PP 	 2 	 against fight
+15 	 13 	 PP/NP 	 1 	 VAX9000 against
+15 	 14 	 NP[nb]/N 	 1 	 VAX9000 the
+18 	 13 	 PP/NP 	 1 	 machine against
+18 	 17 	 NP[nb]/N 	 1 	 machine a
+18 	 20 	 (S[dcl]\NP)/NP 	 2 	 machine announced <XU>
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 Digital announced
+20 	 22 	 (S\NP)\(S\NP) 	 2 	 announced month
+22 	 21 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month last
+24 	 25 	 (S[dcl]\S[dcl])\NP 	 2 	 he added
+<\s>
+<s id="wsj_0258.21"> 37
+1 	 0 	 N/N 	 1 	 Data Control
+1 	 3 	 S[pss]\NP 	 1 	 Data based <XB>
+1 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Data expects
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Minneapolis in
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Minn. in
+9 	 36 	 (S[dcl]\S[dcl])\NP 	 1 	 expects said
+11 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 sales expects
+11 	 10 	 NP[nb]/N 	 1 	 sales its
+11 	 12 	 (NP\NP)/NP 	 1 	 sales of
+11 	 22 	 (S[b]\NP)/PP 	 1 	 sales amount <XB>
+14 	 12 	 (NP\NP)/NP 	 2 	 systems of
+14 	 13 	 N/N 	 1 	 systems Mips
+14 	 16 	 (NP\NP)/NP 	 1 	 systems including
+19 	 16 	 (NP\NP)/NP 	 2 	 RC6280 including
+19 	 17 	 NP[nb]/N 	 1 	 RC6280 the
+19 	 18 	 N/N 	 1 	 RC6280 new
+21 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 amount to
+22 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 amount by
+23 	 22 	 (S[b]\NP)/PP 	 2 	 to amount
+24 	 25 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+26 	 23 	 PP/NP 	 1 	 $ to
+26 	 25 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+28 	 26 	 N/N[num] 	 1 	 million $
+28 	 27 	 N/N 	 1 	 million 100
+31 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 end by
+31 	 30 	 NP[nb]/N 	 1 	 end the
+31 	 32 	 (NP\NP)/NP 	 1 	 end of
+33 	 32 	 (NP\NP)/NP 	 2 	 1991 of
+35 	 36 	 (S[dcl]\S[dcl])\NP 	 2 	 Mips said
+<\s>
+<s id="wsj_0258.22"> 18
+0 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Nixdorf will
+0 	 7 	 (S[b]\NP)/NP 	 1 	 Nixdorf sell <XB>
+2 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Bull will
+2 	 7 	 (S[b]\NP)/NP 	 1 	 Bull sell <XB>
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 others will
+4 	 7 	 (S[b]\NP)/NP 	 1 	 others sell <XB>
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 will also
+5 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 will said
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 sell will
+8 	 7 	 (S[b]\NP)/NP 	 2 	 versions sell
+8 	 9 	 (NP\NP)/NP 	 1 	 versions of
+11 	 9 	 (NP\NP)/NP 	 2 	 machine of
+11 	 10 	 NP[nb]/N 	 1 	 machine the
+17 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 Miller said
+17 	 14 	 N/N 	 1 	 Miller Mips
+17 	 15 	 N/N 	 1 	 Miller President
+17 	 16 	 N/N 	 1 	 Miller Robert
+<\s>
+<s id="wsj_0258.23"> 16
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Mips will
+0 	 2 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 Mips start <XB>
+0 	 3 	 (S[ng]\NP)/NP 	 1 	 Mips shipping <XB>
+1 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 start will
+2 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 start in
+3 	 2 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 shipping start
+6 	 3 	 (S[ng]\NP)/NP 	 2 	 machine shipping
+6 	 4 	 NP[nb]/N 	 1 	 machine its
+6 	 5 	 N/N 	 1 	 machine new
+10 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+10 	 8 	 NP[nb]/N 	 1 	 quarter the
+10 	 9 	 N/N 	 1 	 quarter first
+10 	 11 	 (NP\NP)/NP 	 1 	 quarter of
+12 	 11 	 (NP\NP)/NP 	 2 	 1990 of
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_0258.24"> 19
+1 	 0 	 NP[nb]/N 	 1 	 machine The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 machine uses
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 processor uses
+5 	 3 	 NP[nb]/N 	 1 	 processor a
+5 	 4 	 N/N 	 1 	 processor single
+5 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 processor which
+5 	 8 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 processor makes <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 makes which
+9 	 8 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 it makes
+9 	 10 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 1 	 it easier <XB>
+9 	 12 	 (S[b]\NP)/NP 	 2 	 it program <XU>
+10 	 8 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 easier makes
+10 	 13 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 easier than
+11 	 10 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 2 	 to easier
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 program to
+15 	 13 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 machines than
+15 	 14 	 N/N 	 1 	 machines competing
+15 	 16 	 (S[ng]\NP)/NP 	 1 	 machines using <XB>
+18 	 16 	 (S[ng]\NP)/NP 	 2 	 processors using
+18 	 17 	 N/N 	 1 	 processors several
+<\s>
+<s id="wsj_0258.25"> 12
+1 	 0 	 NP[nb]/N 	 1 	 computer The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 computer can
+1 	 3 	 (S[b]\NP)/NP 	 1 	 computer process <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 process can
+3 	 10 	 ((S\NP)\(S\NP))/N 	 2 	 process every
+5 	 4 	 (N/N)/(N/N) 	 2 	 million 13.3
+6 	 3 	 (S[b]\NP)/NP 	 2 	 calculations process
+6 	 5 	 N/N 	 1 	 calculations million
+6 	 7 	 (S[pss]\NP)/NP 	 1 	 calculations called <XB>
+9 	 7 	 (S[pss]\NP)/NP 	 2 	 operations called
+9 	 8 	 N/N 	 1 	 operations floating-point
+11 	 10 	 ((S\NP)\(S\NP))/N 	 3 	 second every
+<\s>
+<s id="wsj_0258.26"> 14
+1 	 0 	 NP[nb]/N 	 1 	 machine The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 machine can
+1 	 3 	 (S[b]\NP)/NP 	 1 	 machine run <XB>
+2 	 13 	 (S[dcl]\S[dcl])\NP 	 1 	 can said
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 run can
+4 	 3 	 (S[b]\NP)/NP 	 2 	 software run
+4 	 5 	 S[pss]\NP 	 1 	 software written <XB>
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 written for
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 computers for
+9 	 7 	 N/N 	 1 	 computers other
+9 	 8 	 N/N 	 1 	 computers Mips
+12 	 11 	 NP[nb]/N 	 1 	 company the
+12 	 13 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>

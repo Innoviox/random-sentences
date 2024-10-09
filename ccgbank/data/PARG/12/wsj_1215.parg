@@ -1,0 +1,162 @@
+<s id="wsj_1215.1"> 42
+2 	 0 	 N/N 	 1 	 Co. Staar
+2 	 1 	 N/N 	 1 	 Co. Surgical
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Co. 's
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 board 's
+4 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 board said
+6 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+7 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+7 	 9 	 ((S[pt]\NP)/PP)/NP 	 1 	 it removed <XB>
+8 	 6 	 S[em]/S[dcl] 	 1 	 has that
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 removed has
+12 	 9 	 ((S[pt]\NP)/PP)/NP 	 3 	 Waggoner removed
+12 	 10 	 N/N 	 1 	 Waggoner Thomas
+12 	 11 	 N/N 	 1 	 Waggoner R.
+13 	 9 	 ((S[pt]\NP)/PP)/NP 	 2 	 as removed
+14 	 13 	 PP/NP 	 1 	 president as
+18 	 13 	 PP/NP 	 1 	 officer as
+18 	 16 	 N/N 	 1 	 officer chief
+18 	 17 	 N/N 	 1 	 officer executive
+20 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+23 	 21 	 N/N 	 1 	 Wolf John
+23 	 22 	 N/N 	 1 	 Wolf R.
+23 	 34 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Wolf has
+23 	 36 	 (S[pss]\NP)/NP 	 1 	 Wolf named <XB>
+28 	 25 	 NP/NP 	 1 	 president formerly
+28 	 26 	 N/N 	 1 	 president executive
+28 	 27 	 N/N 	 1 	 president vice
+28 	 34 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 president has
+28 	 36 	 (S[pss]\NP)/NP 	 1 	 president named <XB>
+30 	 34 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 sales has
+30 	 36 	 (S[pss]\NP)/NP 	 1 	 sales named <XB>
+32 	 34 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 marketing has
+32 	 36 	 (S[pss]\NP)/NP 	 1 	 marketing named <XB>
+34 	 20 	 S[em]/S[dcl] 	 1 	 has that
+35 	 34 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+36 	 35 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 named been
+37 	 36 	 (S[pss]\NP)/NP 	 2 	 president named
+41 	 36 	 (S[pss]\NP)/NP 	 2 	 officer named
+41 	 39 	 N/N 	 1 	 officer chief
+41 	 40 	 N/N 	 1 	 officer executive
+<\s>
+<s id="wsj_1215.2"> 20
+1 	 0 	 N/N 	 1 	 Waggoner Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Waggoner has
+1 	 4 	 (S[adj]\NP)/PP 	 1 	 Waggoner involved <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+3 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 been since
+4 	 3 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 involved been
+5 	 4 	 (S[adj]\NP)/PP 	 2 	 in involved
+7 	 5 	 PP/NP 	 1 	 dispute in
+7 	 6 	 NP[nb]/N 	 1 	 dispute a
+7 	 8 	 (NP\NP)/NP 	 1 	 dispute with
+10 	 8 	 (NP\NP)/NP 	 2 	 board with
+10 	 9 	 NP[nb]/N 	 1 	 board the
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 August since
+12 	 14 	 (NP\NP)/S[dcl] 	 1 	 August when
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 he ousted
+16 	 14 	 (NP\NP)/S[dcl] 	 2 	 ousted when
+19 	 16 	 (S[dcl]\NP)/NP 	 2 	 directors ousted
+19 	 17 	 NP/NP 	 1 	 directors all
+19 	 18 	 NP[nb]/N 	 1 	 directors the
+<\s>
+<s id="wsj_1215.3"> 18
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 they said
+2 	 0 	 S/S 	 1 	 said Later
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 they fired
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 fired said
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 him fired
+9 	 8 	 N/N 	 1 	 directors two
+9 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 directors attempted
+9 	 12 	 (S[b]\NP)/NP 	 1 	 directors place <XB>
+10 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 attempted said
+11 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to attempted
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 place to
+12 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 place under
+14 	 12 	 (S[b]\NP)/NP 	 2 	 company place
+14 	 13 	 NP[nb]/N 	 1 	 company the
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 protection under
+17 	 16 	 N/N 	 1 	 protection bankruptcy-law
+<\s>
+<s id="wsj_1215.4"> 9
+2 	 0 	 NP[nb]/N 	 1 	 judge A
+2 	 1 	 N/N 	 1 	 judge federal
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 judge turned
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 turned down
+8 	 3 	 (S[dcl]\NP)/NP 	 2 	 petition turned
+8 	 5 	 NP[nb]/N 	 1 	 petition the
+8 	 6 	 N/N 	 1 	 petition Chapter
+8 	 7 	 N/N 	 1 	 petition 11
+<\s>
+<s id="wsj_1215.5"> 22
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 company 's
+4 	 2 	 (NP[nb]/N)\NP 	 1 	 announcement 's
+4 	 3 	 N/N 	 1 	 announcement latest
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 announcement said
+7 	 6 	 N/N 	 1 	 Waggoner Mr.
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Waggoner will
+7 	 9 	 (S[b]\NP)/NP 	 1 	 Waggoner remain <XB>
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 remain will
+11 	 9 	 (S[b]\NP)/NP 	 2 	 director remain
+11 	 10 	 NP[nb]/N 	 1 	 director a
+11 	 12 	 (NP\NP)/NP 	 1 	 director of
+13 	 12 	 (NP\NP)/NP 	 2 	 Staar of
+16 	 12 	 (NP\NP)/NP 	 2 	 maker of
+16 	 15 	 NP[nb]/N 	 1 	 maker a
+16 	 17 	 (NP\NP)/NP 	 1 	 maker of
+18 	 17 	 (NP\NP)/NP 	 2 	 products of
+18 	 19 	 (NP\NP)/NP 	 1 	 products for
+21 	 19 	 (NP\NP)/NP 	 2 	 surgery for
+21 	 20 	 N/N 	 1 	 surgery small-incision
+<\s>
+<s id="wsj_1215.6"> 14
+1 	 0 	 N/N 	 1 	 Wolf Mr.
+1 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Wolf declined
+1 	 10 	 (S[b]\NP)/PP 	 1 	 Wolf comment <XB>
+4 	 3 	 N/N 	 1 	 members other
+4 	 5 	 (NP\NP)/NP 	 1 	 members of
+4 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 members declined
+4 	 10 	 (S[b]\NP)/PP 	 1 	 members comment <XB>
+7 	 5 	 (NP\NP)/NP 	 2 	 board of
+7 	 6 	 NP[nb]/N 	 1 	 board the
+9 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+11 	 10 	 (S[b]\NP)/PP 	 2 	 on comment
+13 	 11 	 PP/NP 	 1 	 announcement on
+13 	 12 	 NP[nb]/N 	 1 	 announcement the
+<\s>
+<s id="wsj_1215.7"> 6
+1 	 0 	 N/N 	 1 	 Waggoner Mr.
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Waggoner could
+1 	 5 	 S[pss]\NP 	 1 	 Waggoner reached <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 could n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reached be
+<\s>
+<s id="wsj_1215.8"> 25
+2 	 0 	 NP[nb]/N 	 1 	 board The
+2 	 1 	 N/N 	 1 	 board Staar
+2 	 4 	 (S[dcl]\NP)/S[em] 	 1 	 board said
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 said also
+5 	 4 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+8 	 6 	 N/N 	 1 	 Ford John
+8 	 7 	 N/N 	 1 	 Ford R.
+8 	 9 	 (S[dcl]\NP)/PP 	 1 	 Ford resigned
+9 	 5 	 S[em]/S[dcl] 	 1 	 resigned that
+10 	 9 	 (S[dcl]\NP)/PP 	 2 	 as resigned
+12 	 10 	 PP/NP 	 1 	 director as
+12 	 11 	 NP[nb]/N 	 1 	 director a
+15 	 4 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+17 	 16 	 N/N 	 1 	 Wolf Mr.
+17 	 18 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Wolf was
+17 	 19 	 (S[pss]\NP)/NP 	 1 	 Wolf named <XB>
+18 	 15 	 S[em]/S[dcl] 	 1 	 was that
+19 	 18 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+21 	 19 	 (S[pss]\NP)/NP 	 2 	 member named
+21 	 20 	 NP[nb]/N 	 1 	 member a
+21 	 22 	 (NP\NP)/NP 	 1 	 member of
+24 	 22 	 (NP\NP)/NP 	 2 	 board of
+24 	 23 	 NP[nb]/N 	 1 	 board the
+<\s>

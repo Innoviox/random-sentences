@@ -1,0 +1,829 @@
+<s id="wsj_0423.1"> 41
+0 	 1 	 ((N/N)\(N/N))/NP 	 2 	 Secretary of
+2 	 1 	 ((N/N)\(N/N))/NP 	 3 	 State of
+3 	 0 	 N/N 	 1 	 Baker Secretary
+3 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Baker decided
+3 	 10 	 (S[b]\NP)/NP 	 1 	 Baker kill <XB>
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 we read
+9 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to decided
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 kill to
+12 	 10 	 (S[b]\NP)/NP 	 2 	 speech kill
+12 	 11 	 NP[nb]/N 	 1 	 speech a
+12 	 13 	 (NP\NP)/(S[dcl]/NP) 	 1 	 speech that
+12 	 30 	 ((S[b]\NP)/PP)/NP 	 3 	 speech give <XU>
+15 	 14 	 N/N 	 1 	 Gates Robert
+15 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Gates was
+15 	 30 	 ((S[b]\NP)/PP)/NP 	 1 	 Gates give <XB>
+20 	 17 	 N/N 	 1 	 adviser deputy
+20 	 18 	 N/N 	 1 	 adviser national
+20 	 19 	 N/N 	 1 	 adviser security
+20 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 adviser was
+20 	 30 	 ((S[b]\NP)/PP)/NP 	 1 	 adviser give <XB>
+25 	 22 	 NP[nb]/N 	 1 	 expert a
+25 	 23 	 N/N 	 1 	 expert career
+25 	 24 	 N/N 	 1 	 expert Soviet
+25 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 expert was
+25 	 30 	 ((S[b]\NP)/PP)/NP 	 1 	 expert give <XB>
+27 	 13 	 (NP\NP)/(S[dcl]/NP) 	 2 	 was that
+28 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going was
+29 	 28 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give to
+31 	 30 	 ((S[b]\NP)/PP)/NP 	 2 	 to give
+34 	 31 	 PP/NP 	 1 	 colloquium to
+34 	 32 	 NP[nb]/N 	 1 	 colloquium a
+34 	 33 	 N/N 	 1 	 colloquium student
+40 	 31 	 PP/NP 	 1 	 Conference to
+40 	 36 	 NP[nb]/N 	 1 	 Conference the
+40 	 37 	 N/N 	 1 	 Conference National
+40 	 38 	 N/N 	 1 	 Conference Collegiate
+40 	 39 	 N/N 	 1 	 Conference Security
+<\s>
+<s id="wsj_0423.2"> 9
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 We keep
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 We wondering <XB>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 wondering keep
+3 	 2 	 (S[ng]\NP)/NP 	 2 	 what wondering
+3 	 8 	 (S[b]\NP)/NP 	 2 	 what say <XU>
+5 	 4 	 N/N 	 1 	 Gates Mr.
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Gates wanted
+5 	 8 	 (S[b]\NP)/NP 	 1 	 Gates say <XB>
+6 	 3 	 NP/(S[dcl]/NP) 	 1 	 wanted what
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wanted
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 say to
+<\s>
+<s id="wsj_0423.3"> 28
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he might
+1 	 4 	 (S[pt]\NP)/NP 	 1 	 he cited <XB>
+2 	 0 	 S/S 	 1 	 might Perhaps
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have might
+4 	 3 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 cited have
+6 	 5 	 N/N 	 1 	 Gorbachev Mr.
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Gorbachev 's
+8 	 4 	 (S[pt]\NP)/NP 	 2 	 need cited
+8 	 7 	 (NP[nb]/N)\NP 	 1 	 need 's
+8 	 9 	 (NP\NP)/NP 	 1 	 need for
+12 	 9 	 (NP\NP)/NP 	 2 	 currency for
+12 	 10 	 NP[nb]/N 	 1 	 currency a
+12 	 11 	 N/N 	 1 	 currency stable
+17 	 9 	 (NP\NP)/NP 	 2 	 markets for
+17 	 14 	 N/N 	 1 	 markets free <XU>
+17 	 16 	 N/N 	 1 	 markets competitive
+20 	 9 	 (NP\NP)/NP 	 2 	 property for
+20 	 19 	 N/N 	 1 	 property private
+23 	 9 	 (NP\NP)/NP 	 2 	 prices for
+23 	 22 	 N/N 	 1 	 prices real
+27 	 9 	 (NP\NP)/NP 	 2 	 reforms for
+27 	 25 	 N/N 	 1 	 reforms other
+27 	 26 	 N/N 	 1 	 reforms pie-in-the-sky
+<\s>
+<s id="wsj_0423.4"> 17
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he 'd
+1 	 4 	 (S[pt]\NP)/PP 	 1 	 he called <XB>
+2 	 0 	 S/S 	 1 	 'd Perhaps
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have 'd
+4 	 3 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 called have
+5 	 4 	 (S[pt]\NP)/PP 	 2 	 for called
+11 	 5 	 PP/NP 	 1 	 system for
+11 	 6 	 NP[nb]/N 	 1 	 system a
+11 	 7 	 N/N 	 1 	 system decentralized
+11 	 8 	 N/N 	 1 	 system political <XU>
+11 	 10 	 N/N 	 1 	 system economic
+11 	 12 	 (NP\NP)/NP 	 1 	 system without
+16 	 12 	 (NP\NP)/NP 	 2 	 party without
+16 	 13 	 NP[nb]/N 	 1 	 party a
+16 	 14 	 N/N 	 1 	 party dominant
+16 	 15 	 N/N 	 1 	 party communist
+<\s>
+<s id="wsj_0423.5"> 15
+2 	 0 	 S[frg]/NP 	 1 	 arrangements Or
+2 	 1 	 N/N 	 1 	 arrangements political
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 alleviate to
+6 	 4 	 (S[b]\NP)/NP 	 2 	 grievances alleviate
+6 	 5 	 NP[nb]/N 	 1 	 grievances the
+6 	 9 	 (NP\NP)/NP 	 1 	 grievances of
+8 	 4 	 (S[b]\NP)/NP 	 2 	 demands alleviate
+8 	 5 	 NP[nb]/N 	 1 	 demands the
+8 	 9 	 (NP\NP)/NP 	 1 	 demands of
+12 	 9 	 (NP\NP)/NP 	 2 	 minorities of
+12 	 10 	 N/N 	 1 	 minorities Soviet
+12 	 11 	 N/N 	 1 	 minorities ethnic
+14 	 9 	 (NP\NP)/NP 	 2 	 republics of
+14 	 10 	 N/N 	 1 	 republics Soviet
+14 	 11 	 N/N 	 1 	 republics ethnic
+<\s>
+<s id="wsj_0423.6"> 23
+4 	 2 	 NP[nb]/N 	 1 	 Gates a
+4 	 3 	 N/N 	 1 	 Gates Bob
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Gates might
+4 	 8 	 S[pt]\NP 	 1 	 Gates said <XB>
+5 	 0 	 S/S 	 1 	 might Why
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 might even
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have might
+8 	 7 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 said have
+8 	 11 	 (((S\NP)\(S\NP))/(S[adj]\NP))/NP 	 2 	 said are
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 are Nor
+13 	 11 	 (((S\NP)\(S\NP))/(S[adj]\NP))/NP 	 4 	 problems are
+13 	 12 	 N/N 	 1 	 problems Soviet
+13 	 14 	 (S[adj]\NP)/PP 	 1 	 problems susceptible <XB>
+14 	 11 	 (((S\NP)\(S\NP))/(S[adj]\NP))/NP 	 3 	 susceptible are
+15 	 14 	 (S[adj]\NP)/PP 	 2 	 to susceptible
+16 	 15 	 PP/NP 	 1 	 rescue to
+16 	 17 	 (NP\NP)/(S[adj]\NP) 	 1 	 rescue from
+16 	 19 	 (NP\NP)/NP 	 1 	 rescue through
+18 	 17 	 (NP\NP)/(S[adj]\NP) 	 2 	 abroad from
+22 	 19 	 (NP\NP)/NP 	 2 	 credits through
+22 	 20 	 N/N 	 1 	 credits abundant
+22 	 21 	 N/N 	 1 	 credits Western
+<\s>
+<s id="wsj_0423.7"> 23
+2 	 1 	 N/N 	 1 	 Gates Mr.
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Gates had
+2 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Gates allowed <XB>
+2 	 7 	 (S[b]\NP)/NP 	 1 	 Gates say <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 had If
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+5 	 4 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 allowed been
+6 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to allowed
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 say to
+9 	 7 	 (S[b]\NP)/NP 	 2 	 things say
+9 	 8 	 NP[nb]/N 	 1 	 things these
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 we would
+11 	 15 	 (S[ng]\NP)/PP 	 1 	 we hearing <XB>
+12 	 0 	 (S/S)/S[dcl] 	 1 	 would If
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 would now
+14 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+15 	 14 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 hearing be
+16 	 15 	 (S[ng]\NP)/PP 	 2 	 about hearing
+17 	 16 	 PP/NP 	 1 	 discord about
+17 	 20 	 (NP\NP)/NP 	 1 	 discord on
+19 	 16 	 PP/NP 	 1 	 disarray about
+19 	 20 	 (NP\NP)/NP 	 1 	 disarray on
+22 	 20 	 (NP\NP)/NP 	 2 	 policy on
+22 	 21 	 N/N 	 1 	 policy foreign
+<\s>
+<s id="wsj_0423.8"> 27
+1 	 0 	 N/N 	 1 	 hints Dark
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 hints would
+1 	 4 	 S[pss]\NP 	 1 	 hints raised <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 raised be
+4 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 raised that
+4 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 raised as
+6 	 7 	 (NP\NP)/NP 	 1 	 parts of
+6 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 parts hope
+9 	 7 	 (NP\NP)/NP 	 2 	 administration of
+9 	 8 	 NP[nb]/N 	 1 	 administration the
+10 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 hope that
+12 	 11 	 N/N 	 1 	 Gorbachev Mr.
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Gorbachev would
+12 	 14 	 S[b]\NP 	 1 	 Gorbachev fail <XB>
+13 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 would hope
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 fail would
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 as just
+18 	 19 	 S[dcl]\NP 	 1 	 they were
+19 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 were as
+19 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 were when
+23 	 21 	 N/N 	 1 	 Quayle Vice
+23 	 22 	 N/N 	 1 	 Quayle President
+23 	 24 	 (S[dcl]\NP)/NP 	 1 	 Quayle voiced
+24 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 voiced when
+26 	 24 	 (S[dcl]\NP)/NP 	 2 	 sentiments voiced
+26 	 25 	 N/N 	 1 	 sentiments similar
+<\s>
+<s id="wsj_0423.9"> 17
+0 	 1 	 ((S[dcl]\NP[expl])/S[for])/(S[adj]\NP) 	 1 	 It 's
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 's somehow
+3 	 1 	 ((S[dcl]\NP[expl])/S[for])/(S[adj]\NP) 	 3 	 OK 's
+4 	 1 	 ((S[dcl]\NP[expl])/S[for])/(S[adj]\NP) 	 2 	 for 's
+6 	 4 	 (S[for]/(S[to]\NP))/NP 	 2 	 Baker for
+6 	 5 	 N/N 	 1 	 Baker Secretary
+6 	 7 	 NP\NP 	 1 	 Baker himself
+6 	 12 	 (S[b]\NP)/NP 	 1 	 Baker say <XB>
+11 	 4 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+11 	 9 	 (S\NP)/(S\NP) 	 2 	 to however
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 say to
+16 	 12 	 (S[b]\NP)/NP 	 2 	 things say
+16 	 13 	 NP/NP 	 1 	 things all
+16 	 14 	 NP[nb]/N 	 1 	 things the
+16 	 15 	 N/N 	 1 	 things same
+<\s>
+<s id="wsj_0423.10"> 19
+1 	 0 	 (S/S)/NP 	 2 	 fact In
+3 	 4 	 S[dcl]\NP 	 1 	 he did
+4 	 0 	 (S/S)/NP 	 1 	 did In
+7 	 6 	 NP[nb]/N 	 1 	 quotes the
+7 	 8 	 NP\NP 	 1 	 quotes above
+7 	 9 	 (S[dcl]\NP)/PP 	 1 	 quotes are
+10 	 9 	 (S[dcl]\NP)/PP 	 2 	 from are
+12 	 11 	 N/N 	 1 	 Baker Mr.
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Baker 's
+14 	 10 	 PP/NP 	 1 	 speech from
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 speech 's
+14 	 15 	 (NP\NP)/(S[adj]\NP) 	 1 	 speech of
+17 	 16 	 N/N 	 1 	 weeks two
+17 	 18 	 (S[adj]\NP)\NP 	 2 	 weeks ago
+18 	 15 	 (NP\NP)/(S[adj]\NP) 	 2 	 ago of
+<\s>
+<s id="wsj_0423.11"> 31
+1 	 0 	 (S/S)/(S/S) 	 2 	 far So
+1 	 2 	 ((S/S)\(S/S))/S[dcl] 	 2 	 far as
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 we can
+3 	 5 	 S[b]\NP 	 1 	 we see <XB>
+4 	 2 	 ((S/S)\(S/S))/S[dcl] 	 3 	 can as
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 see can
+7 	 8 	 (S[dcl]\NP[thr])/NP 	 1 	 there is
+8 	 1 	 S/S 	 1 	 is far
+10 	 8 	 (S[dcl]\NP[thr])/NP 	 2 	 disagreement is
+10 	 9 	 NP[nb]/N 	 1 	 disagreement no
+10 	 11 	 (NP\NP)/NP 	 1 	 disagreement among
+13 	 11 	 (NP\NP)/NP 	 2 	 Baker among
+13 	 12 	 N/N 	 1 	 Baker Mr.
+16 	 11 	 (NP\NP)/NP 	 2 	 Quayle among
+16 	 15 	 N/N 	 1 	 Quayle Mr.
+20 	 11 	 (NP\NP)/NP 	 2 	 Gates among
+20 	 18 	 NP[nb]/N 	 1 	 Gates the
+20 	 19 	 N/N 	 1 	 Gates Mr.
+20 	 23 	 (S[pt]\NP)/NP 	 2 	 Gates read <XU>
+21 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 we 've
+21 	 23 	 (S[pt]\NP)/NP 	 1 	 we read <XB>
+23 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 read 've
+28 	 26 	 (NP/NP)/NP 	 2 	 matter for
+28 	 27 	 NP[nb]/N 	 1 	 matter that
+30 	 11 	 (NP\NP)/NP 	 2 	 Bush among
+30 	 26 	 (NP/NP)/NP 	 1 	 Bush for
+30 	 29 	 N/N 	 1 	 Bush President
+<\s>
+<s id="wsj_0423.12"> 22
+0 	 1 	 NP\NP 	 1 	 They all
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 They understand
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 point understand
+3 	 4 	 N\N 	 1 	 point one
+3 	 5 	 (NP\NP)/S[dcl] 	 1 	 point :
+6 	 10 	 (S[b]\NP)/NP 	 2 	 Nothing do <XU>
+6 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Nothing will
+6 	 12 	 (S[b]\NP)/NP 	 1 	 Nothing make <XB>
+8 	 7 	 NP[nb]/N 	 1 	 U.S. the
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 U.S. can
+8 	 10 	 (S[b]\NP)/NP 	 1 	 U.S. do <XB>
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 do can
+11 	 5 	 (NP\NP)/S[dcl] 	 2 	 will :
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make will
+14 	 12 	 (S[b]\NP)/NP 	 2 	 difference make
+14 	 13 	 N/N 	 1 	 difference much
+14 	 15 	 (NP\NP)/S[qem] 	 1 	 difference in
+16 	 15 	 (NP\NP)/S[qem] 	 2 	 whether in
+18 	 17 	 N/N 	 1 	 Gorbachev Mr.
+18 	 19 	 (S[dcl]\NP)/PP 	 1 	 Gorbachev succeeds
+19 	 16 	 S[qem]/S[dcl] 	 1 	 succeeds whether
+20 	 19 	 (S[dcl]\NP)/PP 	 2 	 with succeeds
+21 	 20 	 PP/NP 	 1 	 perestroika with
+<\s>
+<s id="wsj_0423.13"> 23
+2 	 1 	 N/N 	 1 	 Gates Mr.
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Gates would
+2 	 4 	 (S[b]\NP)/NP 	 1 	 Gates emphasize <XB>
+3 	 0 	 S/S 	 1 	 would Perhaps
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 emphasize would
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 emphasize more
+5 	 6 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 more than
+8 	 6 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 Baker than
+8 	 7 	 N/N 	 1 	 Baker Mr.
+11 	 4 	 (S[b]\NP)/NP 	 2 	 hurdles emphasize
+11 	 9 	 NP[nb]/N 	 1 	 hurdles the
+11 	 10 	 N/N 	 1 	 hurdles many
+11 	 16 	 (S[b]\NP)/NP 	 2 	 hurdles leap <XU>
+14 	 12 	 NP[nb]/N 	 1 	 leader the
+14 	 13 	 N/N 	 1 	 leader Soviet
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 leader must
+14 	 16 	 (S[b]\NP)/NP 	 1 	 leader leap <XB>
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 leap must
+16 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 leap if
+18 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 he is
+18 	 22 	 S[b]\NP 	 1 	 he succeed <XB>
+19 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is if
+20 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going is
+21 	 20 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 succeed to
+<\s>
+<s id="wsj_0423.14"> 16
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 everyone agrees
+2 	 0 	 S/S 	 1 	 agrees But
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that agrees
+5 	 4 	 N/N 	 1 	 Gorbachev Mr.
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Gorbachev 's
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 problems 's
+7 	 8 	 (S[dcl]\NP)/PP 	 1 	 problems result
+8 	 3 	 S[em]/S[dcl] 	 1 	 result that
+9 	 8 	 (S[dcl]\NP)/PP 	 2 	 from result
+11 	 9 	 PP/NP 	 1 	 failure from
+11 	 10 	 NP[nb]/N 	 1 	 failure the
+11 	 12 	 (NP\NP)/NP 	 1 	 failure of
+15 	 12 	 (NP\NP)/NP 	 2 	 system of
+15 	 13 	 NP[nb]/N 	 1 	 system his
+15 	 14 	 N/N 	 1 	 system own
+<\s>
+<s id="wsj_0423.15"> 17
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 They can
+0 	 3 	 S[pss]\NP 	 1 	 They relieved <XB>
+0 	 6 	 (S[ng]\NP)/NP 	 1 	 They changing <XB>
+0 	 12 	 (S[ng]\NP)/NP 	 1 	 They pouring <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+3 	 2 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 relieved be
+3 	 11 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 relieved by
+6 	 5 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(S[ng]\NP) 	 4 	 changing by
+8 	 6 	 (S[ng]\NP)/NP 	 2 	 system changing
+8 	 7 	 NP[nb]/N 	 1 	 system that
+11 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 by only
+11 	 5 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(S[ng]\NP) 	 3 	 by by
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 by not
+12 	 11 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 pouring by
+12 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 pouring into
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 money pouring
+14 	 13 	 N/N 	 1 	 money Western
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 it into
+<\s>
+<s id="wsj_0423.16"> 24
+1 	 0 	 N/N 	 1 	 membership GATT
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 membership will
+1 	 4 	 S[b]\NP 	 1 	 membership matter <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 will not
+2 	 13 	 (S\S)/S[q] 	 1 	 will nor
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 matter will
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 matter to
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 miners to
+8 	 6 	 N/N 	 1 	 miners Donbas
+8 	 7 	 N/N 	 1 	 miners coal
+8 	 9 	 S[adj]\NP 	 1 	 miners short <XB>
+9 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 short of
+11 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 soap of
+14 	 13 	 (S\S)/S[q] 	 2 	 will nor
+17 	 14 	 (S[q]/(S[b]\NP))/NP 	 2 	 treaty will
+17 	 15 	 NP[nb]/N 	 1 	 treaty a
+17 	 16 	 N/N 	 1 	 treaty START
+17 	 18 	 (S[b]\NP)/NP 	 1 	 treaty make <XB>
+18 	 14 	 (S[q]/(S[b]\NP))/NP 	 1 	 make will
+18 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 make to
+20 	 18 	 (S[b]\NP)/NP 	 2 	 difference make
+20 	 19 	 NP[nb]/N 	 1 	 difference any
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 nationalists to
+23 	 22 	 N/N 	 1 	 nationalists Ukrainian
+<\s>
+<s id="wsj_0423.17"> 31
+3 	 0 	 (S/S)/NP 	 2 	 hand On
+3 	 1 	 NP[nb]/N 	 1 	 hand the
+3 	 2 	 N/N 	 1 	 hand other
+6 	 5 	 (S/S)/(S/S) 	 2 	 long so
+6 	 7 	 ((S/S)\(S/S))/S[dcl] 	 2 	 long as
+9 	 8 	 N/N 	 1 	 Gorbachev Mr.
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Gorbachev is
+9 	 11 	 (S[ng]\NP)/NP 	 1 	 Gorbachev easing <XB>
+10 	 7 	 ((S/S)\(S/S))/S[dcl] 	 3 	 is as
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 easing is
+13 	 11 	 (S[ng]\NP)/NP 	 2 	 grip easing
+13 	 12 	 NP[nb]/N 	 1 	 grip his
+13 	 14 	 (NP\NP)/NP 	 1 	 grip on
+16 	 14 	 (NP\NP)/NP 	 2 	 empire on
+16 	 15 	 NP[nb]/N 	 1 	 empire his
+18 	 21 	 (S[pt]\NP)/NP 	 2 	 everyone heard <XU>
+18 	 22 	 (S[dcl]\NP)/S[em] 	 1 	 everyone agrees
+19 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 we 've
+19 	 21 	 (S[pt]\NP)/NP 	 1 	 we heard <XB>
+21 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 heard 've
+22 	 0 	 (S/S)/NP 	 1 	 agrees On
+22 	 6 	 S/S 	 1 	 agrees long
+23 	 22 	 (S[dcl]\NP)/S[em] 	 2 	 that agrees
+25 	 24 	 NP[nb]/N 	 1 	 U.S. the
+25 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 U.S. can
+25 	 27 	 S[b]\NP 	 1 	 U.S. benefit <XB>
+25 	 29 	 (S[ng]\NP)/NP 	 1 	 U.S. engaging <XB>
+26 	 23 	 S[em]/S[dcl] 	 1 	 can that
+27 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 benefit can
+27 	 28 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 benefit by
+29 	 28 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 engaging by
+30 	 29 	 (S[ng]\NP)/NP 	 2 	 him engaging
+<\s>
+<s id="wsj_0423.18"> 18
+2 	 1 	 NP[nb]/N 	 1 	 deal a
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 deal can
+2 	 5 	 S[pss]\NP 	 1 	 deal made <XB>
+2 	 7 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 deal cut <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 can If
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 made be
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cut to
+9 	 8 	 NP[nb]/N 	 1 	 world the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 world 's
+11 	 7 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 Ortegas cut
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 Ortegas 's
+11 	 12 	 (S[adj]\NP)/PP 	 1 	 Ortegas loose <XB>
+12 	 7 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 loose cut
+13 	 12 	 (S[adj]\NP)/PP 	 2 	 from loose
+14 	 13 	 PP/NP 	 1 	 Moscow from
+16 	 0 	 (S/S)/S[dcl] 	 1 	 why If
+16 	 17 	 S\S 	 1 	 why not
+<\s>
+<s id="wsj_0423.19"> 17
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 We do
+0 	 3 	 (S[b]\NP)/NP 	 1 	 We expect <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 do n't
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 expect do
+5 	 3 	 (S[b]\NP)/NP 	 2 	 good expect
+5 	 4 	 N/N 	 1 	 good much
+5 	 6 	 (NP\NP)/NP 	 1 	 good from
+8 	 6 	 (NP\NP)/NP 	 2 	 control from
+8 	 7 	 N/N 	 1 	 control nuclear-arms
+12 	 11 	 N/N 	 1 	 talks conventional-arms
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 talks might
+12 	 14 	 (S[b]\NP)/NP 	 1 	 talks demilitarize <XB>
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 demilitarize might
+16 	 14 	 (S[b]\NP)/NP 	 2 	 Europe demilitarize
+16 	 15 	 N/N 	 1 	 Europe Eastern
+<\s>
+<s id="wsj_0423.20"> 28
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There 's
+1 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 's in
+2 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 nothing 's
+2 	 6 	 S[adj]\NP 	 1 	 nothing contradictory <XB>
+5 	 3 	 ((S[adj]\NP)/(S[adj]\NP))/NP 	 3 	 least in
+5 	 4 	 NP[nb]/N 	 1 	 least the
+6 	 3 	 ((S[adj]\NP)/(S[adj]\NP))/NP 	 2 	 contradictory in
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 this in
+9 	 8 	 NP[nb]/N 	 1 	 this all
+12 	 13 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 1 	 it would
+14 	 13 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 2 	 be would
+15 	 14 	 ((S[b]\NP)/(S[to]\NP))/(S[adj]\NP) 	 3 	 nice be
+16 	 14 	 ((S[b]\NP)/(S[to]\NP))/(S[adj]\NP) 	 2 	 to be
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 think to
+18 	 17 	 (S[b]\NP)/S[em] 	 2 	 that think
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Washington could
+19 	 21 	 (S[b]\NP)/NP 	 1 	 Washington tolerate <XB>
+20 	 18 	 S[em]/S[dcl] 	 1 	 could that
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 tolerate could
+24 	 23 	 (N/N)/(N/N) 	 2 	 sophisticated reasonably
+27 	 21 	 (S[b]\NP)/NP 	 2 	 view tolerate
+27 	 22 	 NP[nb]/N 	 1 	 view a
+27 	 24 	 N/N 	 1 	 view sophisticated
+27 	 26 	 N/N 	 1 	 view complex
+<\s>
+<s id="wsj_0423.21"> 18
+1 	 2 	 (NP\NP)/NP 	 1 	 much of
+1 	 6 	 (S[dcl]\NP)/NP 	 1 	 much seems
+5 	 2 	 (NP\NP)/NP 	 2 	 culture of
+5 	 3 	 NP[nb]/N 	 1 	 culture the
+5 	 4 	 N/N 	 1 	 culture political
+6 	 0 	 S/S 	 1 	 seems Yet
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 intent seems
+7 	 8 	 (NP\NP)/(S[ng]\NP) 	 1 	 intent on
+9 	 8 	 (NP\NP)/(S[ng]\NP) 	 2 	 castigating on
+9 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 castigating for
+12 	 9 	 (S[ng]\NP)/NP 	 2 	 administration castigating
+12 	 10 	 NP[nb]/N 	 1 	 administration the
+12 	 11 	 N/N 	 1 	 administration Bush
+15 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 helping for
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 helping not
+17 	 15 	 (S[ng]\NP)/NP 	 2 	 Gorbachev helping
+17 	 16 	 N/N 	 1 	 Gorbachev Mr.
+<\s>
+<s id="wsj_0423.22"> 39
+2 	 1 	 (S/S)/N 	 2 	 time every
+5 	 3 	 NP[nb]/N 	 1 	 official a
+5 	 4 	 N/N 	 1 	 official Bush
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 official raises
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 doubt raises
+8 	 7 	 NP[nb]/N 	 1 	 doubt a
+8 	 9 	 (NP\NP)/NP 	 1 	 doubt about
+11 	 9 	 (NP\NP)/NP 	 2 	 Gorbachev about
+11 	 10 	 N/N 	 1 	 Gorbachev Mr.
+15 	 13 	 NP[nb]/N 	 1 	 community the
+15 	 14 	 N/N 	 1 	 community Washington
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 community shouts
+16 	 0 	 S/S 	 1 	 shouts So
+16 	 1 	 (S/S)/N 	 1 	 shouts every
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 War shouts
+18 	 17 	 N/N 	 1 	 War Cold
+20 	 16 	 (S[dcl]\NP)/NP 	 2 	 timidity shouts
+25 	 23 	 NP[nb]/N 	 1 	 spokesman an
+25 	 24 	 N/N 	 1 	 spokesman administration
+25 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 spokesman is
+25 	 28 	 S[pss]\NP 	 1 	 spokesman trotted <XB>
+25 	 31 	 (S[b]\NP)/S[dcl] 	 1 	 spokesman reply <XB>
+26 	 0 	 S/S 	 1 	 is So
+26 	 1 	 (S/S)/N 	 1 	 is every
+28 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 trotted is
+28 	 27 	 (S\NP)/(S\NP) 	 2 	 trotted quickly
+28 	 29 	 (S\NP)\(S\NP) 	 2 	 trotted out
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reply to
+34 	 33 	 N/N 	 1 	 Bush Mr.
+34 	 35 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Bush wants
+35 	 31 	 (S[b]\NP)/S[dcl] 	 2 	 wants reply
+36 	 35 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 perestroika wants
+36 	 38 	 S[b]\NP 	 1 	 perestroika succeed <XB>
+37 	 35 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to wants
+38 	 37 	 (S[to]\NP)/(S[b]\NP) 	 2 	 succeed to
+<\s>
+<s id="wsj_0423.23"> 12
+1 	 0 	 N/N 	 1 	 Baker Mr.
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Baker seems
+1 	 4 	 (S[adj]\NP)/PP 	 1 	 Baker sensitive <XB>
+4 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 sensitive seems
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 sensitive especially
+5 	 4 	 (S[adj]\NP)/PP 	 2 	 to sensitive
+8 	 5 	 PP/NP 	 1 	 ailment to
+8 	 6 	 NP[nb]/N 	 1 	 ailment the
+8 	 7 	 N/N 	 1 	 ailment Washington
+8 	 9 	 (S[pss]\NP)/PP 	 1 	 ailment known <XB>
+10 	 9 	 (S[pss]\NP)/PP 	 2 	 as known
+11 	 10 	 PP/NP 	 1 	 Beltway-itis as
+<\s>
+<s id="wsj_0423.24"> 30
+1 	 0 	 NP[nb]/N 	 1 	 symptoms Its
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 symptoms include
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 sweat include
+5 	 3 	 NP[nb]/N 	 1 	 sweat a
+5 	 4 	 N/N 	 1 	 sweat cold
+5 	 6 	 (NP\NP)/NP 	 1 	 sweat at
+8 	 6 	 (NP\NP)/NP 	 2 	 sound at
+8 	 7 	 NP[nb]/N 	 1 	 sound the
+8 	 9 	 (NP\NP)/NP 	 1 	 sound of
+10 	 9 	 (NP\NP)/NP 	 2 	 debate of
+13 	 2 	 (S[dcl]\NP)/NP 	 2 	 hands include
+13 	 12 	 N/N 	 1 	 hands clammy
+13 	 14 	 (NP\NP)/NP 	 1 	 hands in
+16 	 14 	 (NP\NP)/NP 	 2 	 face in
+16 	 15 	 NP[nb]/N 	 1 	 face the
+16 	 17 	 (NP\NP)/NP 	 1 	 face of
+19 	 17 	 (NP\NP)/NP 	 2 	 criticism of
+19 	 18 	 N/N 	 1 	 criticism congressional
+23 	 2 	 (S[dcl]\NP)/NP 	 2 	 spells include
+23 	 22 	 N/N 	 1 	 spells fainting
+23 	 24 	 (NP\NP)/S[dcl] 	 1 	 spells when
+25 	 26 	 (S[dcl]\NP)/NP 	 1 	 someone writes
+26 	 24 	 (NP\NP)/S[dcl] 	 2 	 writes when
+28 	 26 	 (S[dcl]\NP)/NP 	 2 	 word writes
+28 	 27 	 NP[nb]/N 	 1 	 word the
+28 	 29 	 NP\NP 	 1 	 word controversy
+<\s>
+<s id="wsj_0423.25"> 36
+3 	 1 	 N/N 	 1 	 official one
+3 	 2 	 N/N 	 1 	 official unidentified
+3 	 5 	 (NP\NP)/NP 	 1 	 official in
+3 	 12 	 (S[dcl]\NP)/NP 	 1 	 official told
+5 	 4 	 (NP\NP)/(NP\NP) 	 2 	 in clearly
+8 	 5 	 (NP\NP)/NP 	 2 	 stages in
+8 	 6 	 NP[nb]/N 	 1 	 stages the
+8 	 7 	 N/N 	 1 	 stages late
+8 	 9 	 (NP\NP)/NP 	 1 	 stages of
+11 	 9 	 (NP\NP)/NP 	 2 	 disease of
+11 	 10 	 NP[nb]/N 	 1 	 disease the
+12 	 0 	 (S/S)/S[dcl] 	 2 	 told As
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 Times told
+14 	 13 	 NP[nb]/N 	 1 	 Times the
+16 	 18 	 (S[dcl]\NP)/S[em] 	 1 	 Baker felt
+18 	 0 	 (S/S)/S[dcl] 	 1 	 felt As
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 felt just
+19 	 18 	 (S[dcl]\NP)/S[em] 	 2 	 that felt
+20 	 21 	 (S[dcl]\NP[thr])/NP 	 1 	 there were
+21 	 19 	 S[em]/S[dcl] 	 1 	 were that
+23 	 21 	 (S[dcl]\NP[thr])/NP 	 2 	 lines were
+23 	 22 	 NP[nb]/N 	 1 	 lines some
+23 	 24 	 (NP\NP)/NP 	 1 	 lines in
+23 	 27 	 (NP\NP)/(S[dcl]\NP) 	 1 	 lines that
+23 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 lines could <XB>
+23 	 30 	 S[pss]\NP 	 1 	 lines misinterpreted <XB>
+23 	 32 	 S[pss]\NP 	 1 	 lines seized <XU>
+26 	 24 	 (NP\NP)/NP 	 2 	 speech in
+26 	 25 	 NP[nb]/N 	 1 	 speech the
+28 	 27 	 (NP\NP)/(S[dcl]\NP) 	 2 	 could that
+29 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+30 	 29 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 misinterpreted be
+30 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 misinterpreted by
+32 	 29 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 seized be
+32 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 seized by
+35 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 press by
+35 	 34 	 NP[nb]/N 	 1 	 press the
+<\s>
+<s id="wsj_0423.26"> 29
+1 	 0 	 (S/S)/(S[adj]\NP) 	 2 	 short In
+4 	 3 	 NP[nb]/N 	 1 	 problem the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 problem is
+5 	 0 	 (S/S)/(S[adj]\NP) 	 1 	 is In
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 disagreement is
+8 	 6 	 NP/NP 	 1 	 disagreement not
+8 	 7 	 N/N 	 1 	 disagreement intra-administration
+11 	 5 	 (S[dcl]\NP)/NP 	 2 	 preoccupation is
+11 	 12 	 (NP\NP)/NP 	 1 	 preoccupation with
+14 	 12 	 (NP\NP)/NP 	 2 	 prospect with
+14 	 13 	 NP[nb]/N 	 1 	 prospect the
+15 	 14 	 N/S[em] 	 1 	 that prospect
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 perestrokia might
+16 	 18 	 S[b]\NP 	 1 	 perestrokia fail <XB>
+17 	 15 	 S[em]/S[dcl] 	 1 	 might that
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 fail might
+23 	 21 	 NP[nb]/N 	 1 	 opponents its
+23 	 22 	 N/N 	 1 	 opponents political
+23 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 opponents will
+23 	 25 	 (S[b]\NP)/S[wq] 	 1 	 opponents ask <XB>
+24 	 15 	 S[em]/S[dcl] 	 1 	 will that
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 ask will
+26 	 25 	 (S[b]\NP)/S[wq] 	 2 	 Who ask
+27 	 26 	 S[wq]/(S[dcl]\NP) 	 1 	 lost Who
+28 	 27 	 (S[dcl]\NP)/NP 	 2 	 Gorbachev lost
+<\s>
+<s id="wsj_0423.27"> 30
+1 	 0 	 N/N 	 1 	 Baker Mr.
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Baker may
+1 	 3 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Baker want <XB>
+1 	 5 	 (S[b]\NP)/NP 	 1 	 Baker avoid <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 want may
+4 	 3 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to want
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 avoid to
+6 	 5 	 (S[b]\NP)/NP 	 2 	 criticism avoid
+6 	 7 	 (NP\NP)/NP 	 1 	 criticism from
+12 	 7 	 (NP\NP)/NP 	 2 	 Mitchell from
+12 	 8 	 N/N 	 1 	 Mitchell Senate
+12 	 9 	 N/N 	 1 	 Mitchell Majority
+12 	 10 	 N/N 	 1 	 Mitchell Leader
+12 	 11 	 N/N 	 1 	 Mitchell George
+16 	 15 	 (S/S)/NP 	 2 	 Secretary as
+16 	 17 	 (NP\NP)/NP 	 1 	 Secretary of
+18 	 17 	 (NP\NP)/NP 	 2 	 State of
+20 	 19 	 NP[nb]/N 	 1 	 audience his
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 audience is
+21 	 15 	 (S/S)/NP 	 1 	 is as
+25 	 21 	 (S[dcl]\NP)/NP 	 2 	 World is
+25 	 22 	 NP[nb]/N 	 1 	 World the
+25 	 23 	 N/N 	 1 	 World entire
+25 	 24 	 N/N 	 1 	 World Free
+25 	 27 	 NP\NP 	 1 	 World not
+25 	 29 	 NP\NP 	 1 	 World Congress
+29 	 28 	 (NP\NP)/(NP\NP) 	 2 	 Congress just
+<\s>
+<s id="wsj_0423.28"> 34
+2 	 0 	 (S/S)/NP 	 2 	 case In
+2 	 1 	 NP[nb]/N 	 1 	 case any
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 he 's
+4 	 6 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 he likely <XB>
+5 	 0 	 (S/S)/NP 	 1 	 's In
+6 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely 's
+7 	 6 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 find to
+9 	 8 	 (S[b]\NP)/S[em] 	 2 	 that find
+11 	 10 	 ((S/S)/S[dcl])/(S[adj]\NP) 	 3 	 more the
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 he muzzles
+13 	 10 	 ((S/S)/S[dcl])/(S[adj]\NP) 	 2 	 muzzles the
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 colleagues muzzles
+15 	 14 	 NP[nb]/N 	 1 	 colleagues his
+18 	 17 	 (S/S)/(S[adj]\NP) 	 2 	 more the
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 leaks will
+19 	 21 	 S[b]\NP 	 1 	 leaks pop <XB>
+20 	 9 	 S[em]/S[dcl] 	 1 	 will that
+20 	 10 	 ((S/S)/S[dcl])/(S[adj]\NP) 	 1 	 will the
+20 	 17 	 (S/S)/(S[adj]\NP) 	 1 	 will the
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 pop will
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 pop up
+21 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 pop around
+24 	 23 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 around all
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Washington around
+28 	 27 	 NP[nb]/N 	 1 	 lesson a
+28 	 30 	 S[pss]\NP 	 1 	 lesson learned <XB>
+30 	 29 	 (S\NP)/(S\NP) 	 2 	 learned once
+30 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 learned by
+33 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 Kissinger by
+33 	 32 	 N/N 	 1 	 Kissinger Henry
+<\s>
+<s id="wsj_0423.29"> 9
+0 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Letting can
+0 	 8 	 S[adj]\NP 	 1 	 Letting educational <XB>
+1 	 0 	 ((S[ng]\NP)/(S[b]\NP))/NP 	 3 	 officials Letting
+1 	 2 	 (S[b]\NP)/NP 	 1 	 officials express <XB>
+2 	 0 	 ((S[ng]\NP)/(S[b]\NP))/NP 	 2 	 express Letting
+5 	 2 	 (S[b]\NP)/NP 	 2 	 nuances express
+5 	 3 	 NP[nb]/N 	 1 	 nuances their
+5 	 4 	 N/N 	 1 	 nuances own
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+8 	 7 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 educational be
+<\s>
+<s id="wsj_0423.30"> 36
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 We note
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that note
+4 	 3 	 (S/S)/NP 	 2 	 Rome in
+8 	 6 	 N/N 	 1 	 Cheney Defense
+8 	 7 	 N/N 	 1 	 Cheney Secretary
+8 	 9 	 (S[dcl]\NP)/S[em] 	 1 	 Cheney said
+9 	 2 	 S[em]/S[dcl] 	 1 	 said that
+9 	 3 	 (S/S)/NP 	 1 	 said in
+9 	 5 	 S/S 	 1 	 said yesterday
+10 	 9 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+12 	 11 	 N/N 	 1 	 euphoria European
+12 	 13 	 (NP\NP)/NP 	 1 	 euphoria over
+12 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 euphoria is
+12 	 17 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 euphoria starting <XB>
+12 	 20 	 S[pss]\NP 	 1 	 euphoria tempered <XB>
+15 	 13 	 (NP\NP)/NP 	 2 	 Gorbachev over
+15 	 14 	 N/N 	 1 	 Gorbachev Mr.
+16 	 10 	 S[em]/S[dcl] 	 1 	 is that
+17 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 starting is
+18 	 17 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to starting
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+20 	 19 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 tempered be
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 tempered by
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 recognition by
+23 	 22 	 NP[nb]/N 	 1 	 recognition a
+23 	 24 	 (NP\NP)/NP 	 1 	 recognition of
+26 	 24 	 (NP\NP)/NP 	 2 	 magnitude of
+26 	 25 	 NP[nb]/N 	 1 	 magnitude the
+26 	 27 	 (NP\NP)/NP 	 1 	 magnitude of
+29 	 27 	 (NP\NP)/NP 	 2 	 problems of
+29 	 28 	 NP[nb]/N 	 1 	 problems the
+29 	 35 	 PP/NP 	 1 	 problems with <XU>
+30 	 31 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 he was
+30 	 32 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 he trying <XB>
+30 	 34 	 (S[b]\NP)/PP 	 1 	 he deal <XB>
+32 	 31 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trying was
+33 	 32 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+34 	 33 	 (S[to]\NP)/(S[b]\NP) 	 2 	 deal to
+35 	 34 	 (S[b]\NP)/PP 	 2 	 with deal
+<\s>
+<s id="wsj_0423.31"> 11
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 It is
+0 	 7 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 It see <XB>
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 in is
+5 	 2 	 PP/NP 	 1 	 interest in
+5 	 3 	 NP[nb]/N 	 1 	 interest the
+5 	 4 	 N/N 	 1 	 interest Western
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 see to
+9 	 7 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 Gorbachev see
+9 	 8 	 N/N 	 1 	 Gorbachev Mr.
+9 	 10 	 S[b]\NP 	 1 	 Gorbachev succeed <XB>
+10 	 7 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 succeed see
+<\s>
+<s id="wsj_0423.32"> 14
+1 	 0 	 NP[nb]/N 	 1 	 odds The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 odds are
+2 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 are as
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 against are
+4 	 3 	 PP/NP 	 1 	 him against
+7 	 8 	 NP\NP 	 1 	 he himself
+7 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he would
+7 	 12 	 (S[b]\NP)/NP 	 1 	 he tell <XB>
+9 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 would as
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 would no
+10 	 11 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 no doubt
+12 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 tell would
+13 	 12 	 (S[b]\NP)/NP 	 2 	 you tell
+<\s>
+<s id="wsj_0423.33"> 14
+2 	 0 	 NP[nb]/N 	 1 	 outcome The
+2 	 1 	 N/N 	 1 	 outcome ultimate
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 outcome depends
+5 	 4 	 (PP/PP)/NP 	 2 	 what on
+5 	 7 	 (S[dcl]\NP)/NP 	 2 	 what does <XU>
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 he does
+7 	 5 	 NP/(S[dcl]/NP) 	 1 	 does what
+10 	 3 	 (S[dcl]\NP)/PP 	 2 	 on depends
+10 	 4 	 (PP/PP)/NP 	 1 	 on on
+10 	 9 	 PP/PP 	 1 	 on not
+11 	 10 	 PP/NP 	 1 	 what on
+11 	 13 	 (S[dcl]\NP)/NP 	 2 	 what do <XU>
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 we do
+13 	 11 	 NP/(S[dcl]/NP) 	 1 	 do what
+<\s>
+<s id="wsj_0423.34"> 17
+1 	 0 	 (S/S)/(S/S) 	 2 	 if Even
+3 	 2 	 NP[nb]/N 	 1 	 press the
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 press is
+3 	 5 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 press ready <XB>
+4 	 1 	 (S/S)/S[dcl] 	 2 	 is if
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 ready is
+6 	 5 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to ready
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 seize to
+9 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 misinterpret to
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 these are
+12 	 1 	 (S/S)/S[dcl] 	 1 	 are if
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 are not
+15 	 14 	 (N/N)/(N/N) 	 2 	 complicated very
+16 	 12 	 (S[dcl]\NP)/NP 	 2 	 thoughts are
+16 	 15 	 N/N 	 1 	 thoughts complicated
+<\s>
+<s id="wsj_0423.35"> 23
+1 	 2 	 (S[dcl]\NP[thr])/NP 	 1 	 there is
+2 	 0 	 S/S 	 1 	 is Surely
+3 	 2 	 (S[dcl]\NP[thr])/NP 	 2 	 someone is
+3 	 4 	 (NP\NP)/NP 	 1 	 someone in
+3 	 10 	 NP\NP 	 1 	 someone Gates
+3 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 someone who
+3 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 someone could <XB>
+3 	 14 	 ((S[b]\NP)/PP)/NP 	 1 	 someone explain <XB>
+6 	 4 	 (NP\NP)/NP 	 2 	 administration in
+6 	 5 	 NP[nb]/N 	 1 	 administration the
+10 	 8 	 (NP\NP)/(NP\NP) 	 2 	 Gates maybe
+10 	 9 	 (NP\NP)/(NP\NP) 	 2 	 Gates Bob
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 could who
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 explain could
+15 	 14 	 ((S[b]\NP)/PP)/NP 	 3 	 them explain
+16 	 14 	 ((S[b]\NP)/PP)/NP 	 2 	 to explain
+18 	 16 	 PP/NP 	 1 	 students to
+18 	 17 	 N/N 	 1 	 students college
+22 	 16 	 PP/NP 	 1 	 schoolchildren to
+22 	 21 	 NP/NP 	 1 	 schoolchildren even
+<\s>

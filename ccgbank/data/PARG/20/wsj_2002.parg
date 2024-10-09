@@ -1,0 +1,110 @@
+<s id="wsj_2002.1"> 4
+3 	 0 	 N/N 	 1 	 Inc SHEARSON
+3 	 1 	 N/N 	 1 	 Inc LEHMAN
+3 	 2 	 N/N 	 1 	 Inc HUTTON
+<\s>
+<s id="wsj_2002.2"> 32
+2 	 0 	 N/N 	 1 	 Meador Thomas
+2 	 1 	 N/N 	 1 	 Meador E.
+2 	 6 	 (S[adj]\NP)\NP 	 1 	 Meador old <XB>
+2 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Meador was
+2 	 9 	 (S[pss]\NP)/NP 	 1 	 Meador named <XB>
+5 	 4 	 N/N 	 1 	 years 42
+5 	 6 	 (S[adj]\NP)\NP 	 2 	 years old
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+10 	 9 	 (S[pss]\NP)/NP 	 2 	 president named
+10 	 15 	 (NP\NP)/NP 	 1 	 president of
+14 	 9 	 (S[pss]\NP)/NP 	 2 	 officer named
+14 	 12 	 N/N 	 1 	 officer chief
+14 	 13 	 N/N 	 1 	 officer operating
+14 	 15 	 (NP\NP)/NP 	 1 	 officer of
+17 	 15 	 (NP\NP)/NP 	 2 	 Co. of
+17 	 16 	 N/N 	 1 	 Co. Balcor
+22 	 20 	 (N/N)/(N/N) 	 2 	 Ill. Skokie
+24 	 15 	 (NP\NP)/NP 	 2 	 subsidiary of
+24 	 19 	 NP[nb]/N 	 1 	 subsidiary a
+24 	 22 	 N/N 	 1 	 subsidiary Ill.
+24 	 25 	 (NP\NP)/NP 	 1 	 subsidiary of
+31 	 25 	 (NP\NP)/NP 	 2 	 firm of
+31 	 26 	 NP[nb]/N 	 1 	 firm this
+31 	 27 	 N/N 	 1 	 firm New
+31 	 28 	 N/N 	 1 	 firm York
+31 	 29 	 N/N 	 1 	 firm investment
+31 	 30 	 N/N 	 1 	 firm banking
+<\s>
+<s id="wsj_2002.3"> 15
+0 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Balcor which
+0 	 3 	 (S[dcl]\NP)/NP 	 1 	 Balcor has <XB>
+0 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Balcor said
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 interests has
+4 	 5 	 (NP\NP)/NP 	 1 	 interests in
+7 	 5 	 (NP\NP)/NP 	 2 	 estate in
+7 	 6 	 N/N 	 1 	 estate real
+11 	 10 	 NP[nb]/N 	 1 	 position the
+11 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 position is
+11 	 14 	 S[pss]\NP 	 1 	 position created <XB>
+12 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 is newly
+14 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 created is
+<\s>
+<s id="wsj_2002.4"> 9
+1 	 0 	 N/N 	 1 	 Meador Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Meador had
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 Meador been <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+6 	 3 	 (S[pt]\NP)/NP 	 2 	 president been
+6 	 4 	 N/N 	 1 	 president executive
+6 	 5 	 N/N 	 1 	 president vice
+6 	 7 	 (NP\NP)/NP 	 1 	 president of
+8 	 7 	 (NP\NP)/NP 	 2 	 Balcor of
+<\s>
+<s id="wsj_2002.5"> 20
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+1 	 2 	 (NP\NP)/NP 	 1 	 addition to
+9 	 2 	 (NP\NP)/NP 	 2 	 duties to
+9 	 3 	 NP[nb]/N 	 1 	 duties his
+9 	 4 	 N/N 	 1 	 duties previous
+9 	 5 	 N/N 	 1 	 duties real-estate
+9 	 6 	 N/N 	 1 	 duties investment
+9 	 8 	 N/N 	 1 	 duties asset-management
+12 	 11 	 N/N 	 1 	 Meador Mr.
+12 	 13 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Meador takes
+13 	 0 	 (S/S)/NP 	 1 	 takes In
+14 	 13 	 ((S[dcl]\NP)/PP)/NP 	 3 	 responsibility takes
+15 	 13 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for takes
+16 	 15 	 PP/NP 	 1 	 development for
+19 	 15 	 PP/NP 	 1 	 management for
+19 	 18 	 N/N 	 1 	 management property
+<\s>
+<s id="wsj_2002.6"> 18
+1 	 0 	 NP[nb]/N 	 1 	 duties Those
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 duties had
+1 	 4 	 S[pss]\NP 	 1 	 duties held <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+4 	 3 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 held been
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 held by
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Pell by
+7 	 6 	 N/N 	 1 	 Pell Van
+7 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Pell who
+7 	 12 	 (S[dcl]\NP)/PP 	 1 	 Pell resigned <XB>
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 44 by
+9 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 44 who
+9 	 12 	 (S[dcl]\NP)/PP 	 1 	 44 resigned <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 resigned who
+13 	 12 	 (S[dcl]\NP)/PP 	 2 	 as resigned
+17 	 13 	 PP/NP 	 1 	 president as
+17 	 14 	 NP[nb]/N 	 1 	 president an
+17 	 15 	 N/N 	 1 	 president executive
+17 	 16 	 N/N 	 1 	 president vice
+<\s>
+<s id="wsj_2002.7"> 8
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Shearson is
+0 	 3 	 (S[adj]\NP)/PP 	 1 	 Shearson 60%-held <XB>
+3 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 60%-held is
+3 	 2 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 60%-held about
+4 	 3 	 (S[adj]\NP)/PP 	 2 	 by 60%-held
+7 	 4 	 PP/NP 	 1 	 Co by
+7 	 5 	 N/N 	 1 	 Co American
+7 	 6 	 N/N 	 1 	 Co Express
+<\s>

@@ -1,0 +1,615 @@
+<s id="wsj_0148.1"> 14
+1 	 0 	 NP[nb]/N 	 1 	 nickname A
+1 	 2 	 (NP\NP)/NP 	 1 	 nickname for
+3 	 2 	 (NP\NP)/NP 	 2 	 measures for
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stop to
+7 	 5 	 ((S[b]\NP)/PP)/NP 	 3 	 market stop
+7 	 6 	 NP[nb]/N 	 1 	 market the
+8 	 5 	 ((S[b]\NP)/PP)/NP 	 2 	 from stop
+9 	 8 	 PP/(S[ng]\NP) 	 1 	 plunging from
+9 	 11 	 (S\NP)\(S\NP) 	 2 	 plunging far
+9 	 13 	 (S\NP)\(S\NP) 	 2 	 plunging fast
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 far too
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 fast too
+<\s>
+<s id="wsj_0148.2"> 27
+1 	 0 	 N/N 	 1 	 moves Several
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 moves were
+1 	 3 	 S[pss]\NP 	 1 	 moves taken <XB>
+1 	 10 	 (S[b]\NP)/NP 	 1 	 moves coordinate <XB>
+1 	 15 	 (S[b]\NP)/NP 	 1 	 moves disconnect <XU>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 taken were
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 taken following
+8 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 crash following
+8 	 5 	 NP[nb]/N 	 1 	 crash the
+8 	 6 	 N/N 	 1 	 crash October
+8 	 7 	 N/N 	 1 	 crash 1987
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 coordinate to
+10 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 coordinate in
+15 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 disconnect to
+15 	 13 	 (S\NP)/(S\NP) 	 2 	 disconnect sometimes
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 disconnect deliberately
+15 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 disconnect in
+21 	 10 	 (S[b]\NP)/NP 	 2 	 markets coordinate <XU>
+21 	 15 	 (S[b]\NP)/NP 	 2 	 markets disconnect
+21 	 17 	 NP[nb]/N 	 1 	 markets the
+21 	 18 	 N/N 	 1 	 markets stock
+21 	 20 	 N/N 	 1 	 markets futures
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 times in
+23 	 24 	 (NP\NP)/NP 	 1 	 times of
+26 	 24 	 (NP\NP)/NP 	 2 	 volatility of
+26 	 25 	 N/N 	 1 	 volatility heightened
+<\s>
+<s id="wsj_0148.3"> 21
+3 	 0 	 (S/S)/NP 	 2 	 Board On
+3 	 1 	 NP[nb]/N 	 1 	 Board the
+3 	 2 	 N/N 	 1 	 Board Big
+7 	 5 	 NP[nb]/N 	 1 	 car a
+7 	 6 	 N/N 	 1 	 car side
+7 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 car is
+7 	 9 	 (S[pss]\NP)/PP 	 1 	 car put <XB>
+8 	 0 	 (S/S)/NP 	 1 	 is On
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 put is
+9 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 put when
+10 	 9 	 (S[pss]\NP)/PP 	 2 	 into put
+11 	 10 	 PP/NP 	 1 	 effect into
+15 	 13 	 NP[nb]/N 	 1 	 futures the
+15 	 14 	 N/N 	 1 	 futures S&P
+15 	 16 	 S[dcl]\NP 	 1 	 futures rise
+15 	 18 	 S[dcl]\NP 	 1 	 futures fall <XU>
+16 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 rise when
+16 	 20 	 (S\NP)\(S\NP) 	 2 	 rise points
+18 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 fall when
+18 	 20 	 (S\NP)\(S\NP) 	 2 	 fall points
+20 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 points 12
+<\s>
+<s id="wsj_0148.4"> 20
+2 	 0 	 NP[nb]/N 	 1 	 car The
+2 	 1 	 N/N 	 1 	 car side
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 car routes
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 routes into
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 trades routes
+5 	 4 	 N/N 	 1 	 trades program
+10 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 file into
+10 	 7 	 NP[nb]/N 	 1 	 file a
+10 	 8 	 N/N 	 1 	 file special
+10 	 9 	 N/N 	 1 	 file computer
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 file that
+10 	 12 	 (S[dcl]\NP)/PP 	 1 	 file scans <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 scans that
+13 	 12 	 (S[dcl]\NP)/PP 	 2 	 for scans
+14 	 13 	 PP/NP 	 1 	 imbalances for
+14 	 15 	 (NP\NP)/NP 	 1 	 imbalances of
+19 	 15 	 (NP\NP)/NP 	 2 	 orders of
+19 	 16 	 N/N 	 1 	 orders buy
+19 	 18 	 N/N 	 1 	 orders sell
+<\s>
+<s id="wsj_0148.5"> 28
+4 	 0 	 (S/S)/NP 	 2 	 Exchange On
+4 	 1 	 NP[nb]/N 	 1 	 Exchange the
+4 	 2 	 N/N 	 1 	 Exchange Chicago
+4 	 3 	 N/N 	 1 	 Exchange Mercantile
+8 	 6 	 N/N 	 1 	 futures S&P
+8 	 7 	 N/N 	 1 	 futures 500
+8 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 futures are
+8 	 11 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 futures allowed <XB>
+8 	 13 	 S[b]\NP 	 1 	 futures fall <XB>
+9 	 0 	 (S/S)/NP 	 1 	 are On
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 are not
+11 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 allowed are
+12 	 11 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to allowed
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 fall to
+13 	 17 	 (S\NP)\(S\NP) 	 2 	 fall points
+13 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 fall from
+13 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 fall for
+14 	 15 	 ((((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))))\(S[adj]\NP) 	 5 	 further than
+16 	 15 	 ((((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))))\(S[adj]\NP) 	 4 	 12 than
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 points 12
+21 	 19 	 NP[nb]/N 	 1 	 day the
+21 	 20 	 N/N 	 1 	 day previous
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 day 's
+23 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 close from
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 close 's
+27 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 hour for
+27 	 25 	 NP/NP 	 1 	 hour half
+27 	 26 	 NP[nb]/N 	 1 	 hour an
+<\s>
+<s id="wsj_0148.6"> 25
+3 	 4 	 S[dcl]\NP 	 1 	 trading resumes
+4 	 2 	 (S/S)/S[dcl] 	 2 	 resumes when
+8 	 6 	 NP[nb]/N 	 1 	 futures the
+8 	 7 	 N/N 	 1 	 futures S&P
+8 	 9 	 S[dcl]\NP 	 1 	 futures fall
+9 	 0 	 (S/S)/S[dcl] 	 2 	 fall If
+9 	 2 	 (S/S)/S[dcl] 	 1 	 fall when
+9 	 11 	 (S\NP)\(S\NP) 	 2 	 fall points
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 fall from
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 points 30
+15 	 13 	 NP[nb]/N 	 1 	 day the
+15 	 14 	 N/N 	 1 	 day previous
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 day 's
+17 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 close from
+17 	 16 	 (NP[nb]/N)\NP 	 1 	 close 's
+22 	 19 	 NP[nb]/N 	 1 	 halt a
+22 	 20 	 N/N 	 1 	 halt one-hour
+22 	 21 	 N/N 	 1 	 halt trading
+22 	 23 	 (S[dcl]\NP)/NP 	 1 	 halt takes
+23 	 0 	 (S/S)/S[dcl] 	 1 	 takes If
+24 	 23 	 (S[dcl]\NP)/NP 	 2 	 effect takes
+<\s>
+<s id="wsj_0148.7"> 41
+3 	 2 	 NP[nb]/N 	 1 	 reforms the
+3 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 reforms allow
+4 	 0 	 S/S 	 1 	 allow Also
+7 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Board allow
+7 	 5 	 NP[nb]/N 	 1 	 Board the
+7 	 6 	 N/N 	 1 	 Board Big
+7 	 9 	 (S[b]\NP)/NP 	 1 	 Board halt <XB>
+8 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 halt to
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 halt for
+9 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 halt if
+9 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 halt for <XU>
+9 	 29 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 halt if <XU>
+10 	 9 	 (S[b]\NP)/NP 	 2 	 trading halt
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 hour for
+13 	 12 	 N/N 	 1 	 hour one
+19 	 15 	 NP[nb]/N 	 1 	 Average the
+19 	 16 	 N/N 	 1 	 Average Dow
+19 	 17 	 N/N 	 1 	 Average Jones
+19 	 18 	 N/N 	 1 	 Average Industrial
+19 	 20 	 S[dcl]\NP 	 1 	 Average falls
+20 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 falls if
+20 	 22 	 (S\NP)\(S\NP) 	 2 	 falls points
+22 	 21 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 points 250
+28 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 hours for
+28 	 26 	 N/N 	 1 	 hours two
+28 	 27 	 N/N 	 1 	 hours more
+31 	 30 	 NP[nb]/N 	 1 	 Dow the
+31 	 32 	 S[dcl]\NP 	 1 	 Dow slides
+32 	 29 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 slides if
+32 	 33 	 ((S\NP)\(S\NP))/N 	 2 	 slides an
+32 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 slides on
+36 	 33 	 ((S\NP)\(S\NP))/N 	 3 	 points an
+36 	 34 	 N/N 	 1 	 points additional
+36 	 35 	 N/N 	 1 	 points 150
+40 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 day on
+40 	 38 	 NP[nb]/N 	 1 	 day the
+40 	 39 	 N/N 	 1 	 day same
+<\s>
+<s id="wsj_0148.8"> 27
+1 	 0 	 N/N 	 1 	 System DOT
+1 	 2 	 (NP\NP)/S[dcl] 	 1 	 System --
+7 	 3 	 NP[nb]/N 	 1 	 System The
+7 	 4 	 N/N 	 1 	 System Designated
+7 	 5 	 N/N 	 1 	 System Order
+7 	 6 	 N/N 	 1 	 System Turnaround
+7 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 System was
+7 	 9 	 S[pss]\NP 	 1 	 System launched <XB>
+7 	 21 	 (S[b]\NP)/NP 	 1 	 System offer <XB>
+8 	 2 	 (NP\NP)/S[dcl] 	 2 	 was --
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 launched was
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 launched by
+9 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 launched in
+15 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 Exchange by
+15 	 11 	 NP[nb]/N 	 1 	 Exchange the
+15 	 12 	 N/N 	 1 	 Exchange New
+15 	 13 	 N/N 	 1 	 Exchange York
+15 	 14 	 N/N 	 1 	 Exchange Stock
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 March in
+17 	 18 	 N\N 	 1 	 March 1976
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 offer to
+26 	 21 	 (S[b]\NP)/NP 	 2 	 processing offer
+26 	 22 	 N/N 	 1 	 processing automatic
+26 	 24 	 N/N 	 1 	 processing high-speed
+26 	 25 	 N/N 	 1 	 processing order
+<\s>
+<s id="wsj_0148.9"> 11
+2 	 0 	 NP[nb]/N 	 1 	 version A
+2 	 1 	 N/N 	 1 	 version faster
+2 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 version was
+2 	 8 	 S[pss]\NP 	 1 	 version launched <XB>
+5 	 4 	 NP[nb]/N 	 1 	 SuperDot the
+5 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 SuperDot was
+5 	 8 	 S[pss]\NP 	 1 	 SuperDot launched <XB>
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 launched was
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 launched in
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 1984 in
+<\s>
+<s id="wsj_0148.10"> 25
+0 	 1 	 ((S\NP)\(S\NP))/NP 	 2 	 Used by
+3 	 1 	 ((S\NP)\(S\NP))/NP 	 3 	 traders by
+3 	 2 	 N/N 	 1 	 traders program
+5 	 1 	 ((S\NP)\(S\NP))/NP 	 3 	 others by
+5 	 2 	 N/N 	 1 	 others program
+6 	 0 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to Used
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 zip to
+7 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 zip into
+8 	 7 	 (S[b]\NP)/NP 	 2 	 orders zip
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 exchange into
+11 	 10 	 NP[nb]/N 	 1 	 exchange the
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 SuperDot handles
+17 	 14 	 (S[dcl]\NP)/NP 	 2 	 % handles
+17 	 15 	 N/N 	 1 	 % about
+17 	 16 	 N/N 	 1 	 % 80
+17 	 18 	 (NP\NP)/NP 	 1 	 % of
+20 	 18 	 (NP\NP)/NP 	 2 	 orders of
+20 	 19 	 NP[nb]/N 	 1 	 orders all
+20 	 21 	 S[pss]\NP 	 1 	 orders entered <XB>
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 entered at
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 exchange at
+24 	 23 	 NP[nb]/N 	 1 	 exchange the
+<\s>
+<s id="wsj_0148.12"> 13
+1 	 0 	 N/N 	 1 	 contracts Most
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 contracts are
+1 	 4 	 S[pss]\NP 	 1 	 contracts nullified <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 are simply
+4 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 nullified are
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 nullified by
+4 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 nullified before
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 trade by
+8 	 6 	 NP[nb]/N 	 1 	 trade an
+8 	 7 	 N/N 	 1 	 trade opposite
+10 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they come
+10 	 12 	 S[adj]\NP 	 1 	 they due <XB>
+11 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 come before
+12 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 due come
+<\s>
+<s id="wsj_0148.13"> 34
+0 	 1 	 (NP\NP)/S[dcl] 	 1 	 Indexing --
+3 	 2 	 N/N 	 1 	 investors Many
+3 	 8 	 (S[dcl]\NP)/NP 	 1 	 investors follow
+6 	 5 	 N/N 	 1 	 institutions mainly
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 institutions follow
+8 	 1 	 (NP\NP)/S[dcl] 	 2 	 follow --
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 strategy follow
+11 	 9 	 NP[nb]/N 	 1 	 strategy an
+11 	 10 	 N/N 	 1 	 strategy investment
+11 	 12 	 (NP\NP)/(S[ng]\NP) 	 1 	 strategy of
+13 	 12 	 (NP\NP)/(S[ng]\NP) 	 2 	 buying of
+15 	 12 	 (NP\NP)/(S[ng]\NP) 	 2 	 holding of
+17 	 13 	 (S[ng]\NP)/NP 	 2 	 mix buying <XU>
+17 	 15 	 (S[ng]\NP)/NP 	 2 	 mix holding
+17 	 16 	 NP[nb]/N 	 1 	 mix a
+17 	 18 	 (NP\NP)/NP 	 1 	 mix of
+19 	 18 	 (NP\NP)/NP 	 2 	 stocks of
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 match to
+23 	 21 	 (S[b]\NP)/NP 	 2 	 performance match
+23 	 22 	 NP[nb]/N 	 1 	 performance the
+23 	 24 	 (NP\NP)/NP 	 1 	 performance of
+28 	 24 	 (NP\NP)/NP 	 2 	 barometer of
+28 	 25 	 NP[nb]/N 	 1 	 barometer a
+28 	 26 	 N/N 	 1 	 barometer broad
+28 	 27 	 N/N 	 1 	 barometer stock-market
+28 	 29 	 NP\NP 	 1 	 barometer such
+28 	 30 	 NP\NP 	 1 	 barometer as
+28 	 31 	 (NP\NP)/N 	 1 	 barometer the
+32 	 31 	 (NP\NP)/N 	 2 	 S&P the
+32 	 33 	 N\N 	 1 	 S&P 500
+<\s>
+<s id="wsj_0148.14"> 19
+3 	 0 	 N/N 	 1 	 funds Many
+3 	 1 	 N/N 	 1 	 funds institutional
+3 	 2 	 N/N 	 1 	 funds index
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 funds are
+3 	 9 	 ((S[ng]\NP)/PP)/NP 	 1 	 funds swapping <XB>
+3 	 15 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 funds profitable <XB>
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 traders are
+7 	 5 	 N/N 	 1 	 traders active
+7 	 6 	 N/N 	 1 	 traders program
+9 	 14 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 swapping when
+11 	 9 	 ((S[ng]\NP)/PP)/NP 	 3 	 stocks swapping
+11 	 10 	 NP[nb]/N 	 1 	 stocks their
+12 	 9 	 ((S[ng]\NP)/PP)/NP 	 2 	 for swapping
+13 	 12 	 PP/NP 	 1 	 futures for
+15 	 14 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 profitable when
+16 	 15 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to profitable
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 do so
+<\s>
+<s id="wsj_0148.15"> 22
+1 	 0 	 N/N 	 1 	 trading Program
+1 	 2 	 (NP\NP)/NP 	 1 	 trading --
+5 	 2 	 (NP\NP)/NP 	 2 	 range --
+5 	 3 	 NP[nb]/N 	 1 	 range A
+5 	 4 	 N/N 	 1 	 range wide
+5 	 6 	 (NP\NP)/NP 	 1 	 range of
+10 	 6 	 (NP\NP)/NP 	 2 	 strategies of
+10 	 7 	 N/N 	 1 	 strategies computer-assisted
+10 	 8 	 N/N 	 1 	 strategies portfolio
+10 	 9 	 N/N 	 1 	 strategies trading
+10 	 11 	 (S[ng]\NP)/NP 	 1 	 strategies involving <XB>
+14 	 11 	 (S[ng]\NP)/NP 	 2 	 purchase involving
+14 	 12 	 NP[nb]/N 	 1 	 purchase the
+14 	 13 	 N/N 	 1 	 purchase simultaneous
+14 	 17 	 (NP\NP)/NP 	 1 	 purchase of
+16 	 11 	 (S[ng]\NP)/NP 	 2 	 sale involving
+16 	 12 	 NP[nb]/N 	 1 	 sale the
+16 	 13 	 N/N 	 1 	 sale simultaneous
+16 	 17 	 (NP\NP)/NP 	 1 	 sale of
+21 	 17 	 (NP\NP)/NP 	 2 	 stocks of
+21 	 18 	 N/N 	 1 	 stocks 15 <XU>
+21 	 20 	 N/N 	 1 	 stocks more
+<\s>
+<s id="wsj_0148.16"> 13
+0 	 2 	 NP\NP 	 1 	 Quant Generally
+0 	 4 	 (NP\NP)/N 	 1 	 Quant any
+4 	 8 	 ((NP\NP)\(NP\NP))/(S[dcl]\NP) 	 2 	 any who
+7 	 4 	 (NP\NP)/N 	 2 	 analyst any
+7 	 5 	 N/N 	 1 	 analyst Wall
+7 	 6 	 N/N 	 1 	 analyst Street
+9 	 8 	 ((NP\NP)\(NP\NP))/(S[dcl]\NP) 	 3 	 employs who
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 techniques employs
+12 	 10 	 N/N 	 1 	 techniques quantitive
+12 	 11 	 N/N 	 1 	 techniques research
+<\s>
+<s id="wsj_0148.17"> 31
+2 	 0 	 NP[nb]/N 	 1 	 breed The
+2 	 1 	 N/N 	 1 	 breed newest
+2 	 5 	 (S[pss]\NP)/NP 	 1 	 breed called <XB>
+2 	 17 	 (S[dcl]\NP)/NP 	 1 	 breed devise
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 called also
+5 	 8 	 ((S\NP)\(S\NP))/PP 	 2 	 called because
+7 	 5 	 (S[pss]\NP)/NP 	 2 	 scientists called
+7 	 6 	 N/N 	 1 	 scientists rocket
+9 	 8 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+11 	 9 	 PP/NP 	 1 	 backgrounds of
+11 	 10 	 NP[nb]/N 	 1 	 backgrounds their
+11 	 12 	 (NP\NP)/NP 	 1 	 backgrounds in
+13 	 12 	 (NP\NP)/NP 	 2 	 physics in
+15 	 12 	 (NP\NP)/NP 	 2 	 mathematics in
+23 	 17 	 (S[dcl]\NP)/NP 	 2 	 strategies devise
+23 	 18 	 NP[nb]/N 	 1 	 strategies the
+23 	 19 	 N/N 	 1 	 strategies complex
+23 	 20 	 N/N 	 1 	 strategies hedging
+23 	 22 	 N/N 	 1 	 strategies trading
+23 	 24 	 (NP\NP)/(S[dcl]\NP) 	 1 	 strategies that
+23 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 strategies are <XB>
+23 	 27 	 (S[pss]\NP)/PP 	 1 	 strategies known <XB>
+25 	 24 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 are popularly
+27 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 known are
+28 	 27 	 (S[pss]\NP)/PP 	 2 	 as known
+30 	 28 	 PP/NP 	 1 	 trading as
+30 	 29 	 N/N 	 1 	 trading program
+<\s>
+<s id="wsj_0148.18"> 22
+1 	 0 	 N/N 	 1 	 arbitrage Stock-index
+1 	 2 	 (NP\NP)/(S[ng]\NP) 	 1 	 arbitrage --
+3 	 2 	 (NP\NP)/(S[ng]\NP) 	 2 	 Buying --
+3 	 9 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 Buying while
+5 	 2 	 (NP\NP)/(S[ng]\NP) 	 2 	 selling --
+5 	 9 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 selling while
+6 	 3 	 (S[ng]\NP)/NP 	 2 	 baskets Buying <XU>
+6 	 5 	 (S[ng]\NP)/NP 	 2 	 baskets selling
+6 	 7 	 (NP\NP)/NP 	 1 	 baskets of
+8 	 7 	 (NP\NP)/NP 	 2 	 stocks of
+13 	 10 	 ((S\NP)/(S\NP))/NP 	 3 	 time at
+13 	 11 	 NP[nb]/N 	 1 	 time the
+13 	 12 	 N/N 	 1 	 time same
+14 	 9 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 executing while
+14 	 10 	 ((S\NP)/(S\NP))/NP 	 2 	 executing at
+16 	 14 	 (S[ng]\NP)/NP 	 2 	 trades executing
+16 	 15 	 N/N 	 1 	 trades offsetting
+16 	 17 	 (NP\NP)/NP 	 1 	 trades in
+19 	 17 	 (NP\NP)/NP 	 2 	 futures in
+19 	 18 	 N/N 	 1 	 futures stock-index
+21 	 17 	 (NP\NP)/NP 	 2 	 options in
+21 	 18 	 N/N 	 1 	 options stock-index
+<\s>
+<s id="wsj_0148.19"> 17
+0 	 1 	 S[dcl]\NP 	 1 	 Traders profit
+0 	 3 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Traders trying <XB>
+0 	 5 	 (S[b]\NP)/NP 	 1 	 Traders capture <XB>
+1 	 2 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 profit by
+3 	 2 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 trying by
+4 	 3 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 capture to
+8 	 5 	 (S[b]\NP)/NP 	 2 	 discrepancies capture
+8 	 6 	 N/N 	 1 	 discrepancies fleeting
+8 	 7 	 N/N 	 1 	 discrepancies price
+8 	 9 	 (NP\NP)/NP 	 1 	 discrepancies between
+10 	 9 	 (NP\NP)/NP 	 2 	 stocks between
+14 	 9 	 (NP\NP)/NP 	 2 	 futures between
+14 	 12 	 NP[nb]/N 	 1 	 futures the
+14 	 13 	 N/N 	 1 	 futures index
+16 	 9 	 (NP\NP)/NP 	 2 	 options between
+16 	 12 	 NP[nb]/N 	 1 	 options the
+16 	 13 	 N/N 	 1 	 options index
+<\s>
+<s id="wsj_0148.20"> 19
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 stocks are
+1 	 4 	 S[adj]\NP 	 1 	 stocks cheaper <XB>
+2 	 0 	 (S/S)/S[dcl] 	 2 	 are If
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 are temporarily
+4 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 cheaper are
+4 	 5 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 cheaper than
+6 	 5 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 futures than
+9 	 8 	 (S/S)/NP 	 2 	 example for
+12 	 11 	 NP[nb]/N 	 1 	 arbitrager an
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 arbitrager will
+12 	 14 	 (S[b]\NP)/NP 	 1 	 arbitrager buy <XB>
+12 	 17 	 (S[b]\NP)/NP 	 1 	 arbitrager sell <XU>
+13 	 0 	 (S/S)/S[dcl] 	 1 	 will If
+13 	 8 	 (S/S)/NP 	 1 	 will for
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 buy will
+15 	 14 	 (S[b]\NP)/NP 	 2 	 stocks buy
+17 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 sell will
+18 	 17 	 (S[b]\NP)/NP 	 2 	 futures sell
+<\s>
+<s id="wsj_0148.21"> 19
+1 	 0 	 N/N 	 1 	 futures Stock-index
+1 	 2 	 (NP\NP)/NP 	 1 	 futures --
+3 	 2 	 (NP\NP)/NP 	 2 	 Contracts --
+3 	 5 	 (S[b]\NP)/NP 	 1 	 Contracts buy <XB>
+3 	 7 	 (S[b]\NP)/NP 	 1 	 Contracts sell <XU>
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+5 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 buy by
+7 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+7 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 sell by
+10 	 5 	 (S[b]\NP)/NP 	 2 	 value buy <XU>
+10 	 7 	 (S[b]\NP)/NP 	 2 	 value sell
+10 	 8 	 NP[nb]/N 	 1 	 value the
+10 	 9 	 N/N 	 1 	 value cash
+10 	 11 	 (NP\NP)/NP 	 1 	 value of
+14 	 11 	 (NP\NP)/NP 	 2 	 index of
+14 	 12 	 NP[nb]/N 	 1 	 index a
+14 	 13 	 N/N 	 1 	 index stock
+18 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 date by
+18 	 16 	 NP[nb]/N 	 1 	 date a
+18 	 17 	 N/N 	 1 	 date certain
+<\s>
+<s id="wsj_0148.22"> 14
+2 	 0 	 NP[nb]/N 	 1 	 value The
+2 	 1 	 N/N 	 1 	 value cash
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 value is
+2 	 4 	 S[pss]\NP 	 1 	 value determined <XB>
+2 	 6 	 ((S[ng]\NP)/PP)/NP 	 1 	 value multiplying <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 determined is
+4 	 5 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 determined by
+6 	 5 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 multiplying by
+9 	 6 	 ((S[ng]\NP)/PP)/NP 	 3 	 number multiplying
+9 	 7 	 NP[nb]/N 	 1 	 number the
+9 	 8 	 N/N 	 1 	 number index
+10 	 6 	 ((S[ng]\NP)/PP)/NP 	 2 	 by multiplying
+13 	 10 	 PP/NP 	 1 	 amount by
+13 	 11 	 NP[nb]/N 	 1 	 amount a
+13 	 12 	 N/N 	 1 	 amount specified
+<\s>
+<s id="wsj_0148.23"> 74
+2 	 1 	 (N/N)/(N/N) 	 2 	 common most
+4 	 0 	 NP[nb]/N 	 1 	 vehicles The
+4 	 2 	 N/N 	 1 	 vehicles common
+4 	 3 	 N/N 	 1 	 vehicles program-trading
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 vehicles are
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 contracts are
+7 	 6 	 N/N 	 1 	 contracts futures
+7 	 8 	 (NP\NP)/NP 	 1 	 contracts on
+7 	 15 	 (NP\NP)/(S[pss]\NP) 	 1 	 contracts -LRB-
+7 	 16 	 S[pss]\NP 	 1 	 contracts traded <XB>
+11 	 9 	 N/N 	 1 	 poor Standard
+11 	 10 	 N/N 	 1 	 poor &
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 poor 's
+14 	 8 	 (NP\NP)/NP 	 2 	 index on
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 index 's
+14 	 13 	 N/N 	 1 	 index 500-stock
+16 	 15 	 (NP\NP)/(S[pss]\NP) 	 2 	 traded -LRB-
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 traded on
+21 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 Exchange on
+21 	 18 	 NP[nb]/N 	 1 	 Exchange the
+21 	 19 	 N/N 	 1 	 Exchange Chicago
+21 	 20 	 N/N 	 1 	 Exchange Mercantile
+27 	 5 	 (S[dcl]\NP)/NP 	 2 	 Index are
+27 	 24 	 NP[nb]/N 	 1 	 Index the
+27 	 25 	 N/N 	 1 	 Index Major
+27 	 26 	 N/N 	 1 	 Index Market
+27 	 39 	 (NP\NP)/(S[pss]\NP) 	 1 	 Index -LRB-
+27 	 40 	 S[pss]\NP 	 1 	 Index traded <XB>
+31 	 5 	 (S[dcl]\NP)/NP 	 2 	 index are
+31 	 29 	 NP[nb]/N 	 1 	 index a
+31 	 30 	 N/N 	 1 	 index 20-stock
+31 	 32 	 (NP\NP)/(S[dcl]\NP) 	 1 	 index that
+31 	 33 	 (S[dcl]\NP)/NP 	 1 	 index mimics <XB>
+31 	 39 	 (NP\NP)/(S[pss]\NP) 	 1 	 index -LRB-
+31 	 40 	 S[pss]\NP 	 1 	 index traded <XB>
+33 	 32 	 (NP\NP)/(S[dcl]\NP) 	 2 	 mimics that
+38 	 33 	 (S[dcl]\NP)/NP 	 2 	 Average mimics
+38 	 34 	 NP[nb]/N 	 1 	 Average the
+38 	 35 	 N/N 	 1 	 Average Dow
+38 	 36 	 N/N 	 1 	 Average Jones
+38 	 37 	 N/N 	 1 	 Average Industrial
+40 	 39 	 (NP\NP)/(S[pss]\NP) 	 2 	 traded -LRB-
+40 	 41 	 ((S\NP)\(S\NP))/NP 	 2 	 traded on
+44 	 41 	 ((S\NP)\(S\NP))/NP 	 3 	 Board on
+44 	 42 	 NP[nb]/N 	 1 	 Board the
+44 	 43 	 N/N 	 1 	 Board chicago
+44 	 45 	 (NP\NP)/NP 	 1 	 Board of
+46 	 45 	 (NP\NP)/NP 	 2 	 Trade of
+53 	 5 	 (S[dcl]\NP)/NP 	 2 	 options are
+53 	 50 	 NP[nb]/N 	 1 	 options the
+53 	 51 	 N/N 	 1 	 options S&P
+53 	 52 	 N/N 	 1 	 options 100
+53 	 54 	 (NP\NP)/(S[pss]\NP) 	 1 	 options -LRB-
+53 	 55 	 S[pss]\NP 	 1 	 options traded <XB>
+53 	 64 	 S[pss]\NP 	 1 	 options based <XU>
+55 	 54 	 (NP\NP)/(S[pss]\NP) 	 2 	 traded -LRB-
+55 	 56 	 ((S\NP)\(S\NP))/NP 	 2 	 traded on
+61 	 56 	 ((S\NP)\(S\NP))/NP 	 3 	 Exchange on
+61 	 57 	 NP[nb]/N 	 1 	 Exchange the
+61 	 58 	 N/N 	 1 	 Exchange Chicago
+61 	 59 	 N/N 	 1 	 Exchange Board
+61 	 60 	 N/N 	 1 	 Exchange Options
+64 	 54 	 (NP\NP)/(S[pss]\NP) 	 2 	 based -LRB-
+64 	 65 	 ((S\NP)\(S\NP))/NP 	 2 	 based on
+67 	 65 	 ((S\NP)\(S\NP))/NP 	 3 	 stocks on
+67 	 66 	 N/N 	 1 	 stocks 100
+67 	 68 	 S[pss]\NP 	 1 	 stocks selected <XB>
+68 	 69 	 ((S\NP)\(S\NP))/NP 	 2 	 selected from
+71 	 69 	 ((S\NP)\(S\NP))/NP 	 3 	 S&P from
+71 	 70 	 NP[nb]/N 	 1 	 S&P the
+71 	 72 	 N\N 	 1 	 S&P 500
+<\s>
+<s id="wsj_0148.25"> 21
+2 	 0 	 (S/S)/NP 	 2 	 indexes For
+2 	 1 	 N/N 	 1 	 indexes stock
+6 	 4 	 NP[nb]/N 	 1 	 investment the
+6 	 5 	 N/N 	 1 	 investment underlying
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 investment may
+6 	 8 	 (S[b]\NP)/NP 	 1 	 investment be <XB>
+7 	 0 	 (S/S)/NP 	 1 	 may For
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+12 	 8 	 (S[b]\NP)/NP 	 2 	 contract be
+12 	 9 	 NP[nb]/N 	 1 	 contract a
+12 	 10 	 N/N 	 1 	 contract stock-index
+12 	 11 	 N/N 	 1 	 contract futures
+16 	 8 	 (S[b]\NP)/NP 	 2 	 value be
+16 	 14 	 NP[nb]/N 	 1 	 value the
+16 	 15 	 N/N 	 1 	 value cash
+16 	 17 	 (NP\NP)/NP 	 1 	 value of
+20 	 17 	 (NP\NP)/NP 	 2 	 index of
+20 	 18 	 NP[nb]/N 	 1 	 index a
+20 	 19 	 N/N 	 1 	 index stock
+<\s>
+<s id="wsj_0148.26"> 18
+1 	 0 	 (S/S)/NP 	 2 	 example For
+3 	 4 	 (S[dcl]\NP[thr])/NP 	 1 	 there are
+4 	 0 	 (S/S)/NP 	 1 	 are For
+5 	 4 	 (S[dcl]\NP[thr])/NP 	 2 	 options are
+5 	 6 	 (NP\NP)/NP 	 1 	 options on
+5 	 13 	 (NP\NP)/NP 	 1 	 options on <XU>
+11 	 6 	 (NP\NP)/NP 	 2 	 contract on
+11 	 7 	 NP[nb]/N 	 1 	 contract the
+11 	 8 	 N/N 	 1 	 contract S&P
+11 	 9 	 N/N 	 1 	 contract 500
+11 	 10 	 N/N 	 1 	 contract futures
+17 	 13 	 (NP\NP)/NP 	 2 	 index on
+17 	 14 	 NP[nb]/N 	 1 	 index the
+17 	 15 	 N/N 	 1 	 index S&P
+17 	 16 	 N/N 	 1 	 index 100
+<\s>
+<s id="wsj_0148.27"> 24
+0 	 1 	 (NP\NP)/NP 	 1 	 Uptick --
+3 	 1 	 (NP\NP)/NP 	 2 	 expression --
+3 	 2 	 NP[nb]/N 	 1 	 expression An
+3 	 4 	 (S[ng]\NP)/S[em] 	 1 	 expression signifying <XB>
+5 	 4 	 (S[ng]\NP)/S[em] 	 2 	 that signifying
+7 	 6 	 NP[nb]/N 	 1 	 transaction a
+7 	 8 	 (NP\NP)/NP 	 1 	 transaction in
+7 	 12 	 (S[dcl]\NP)/PP 	 1 	 transaction occurred
+11 	 8 	 (NP\NP)/NP 	 2 	 security in
+11 	 9 	 NP[nb]/N 	 1 	 security a
+11 	 10 	 N/N 	 1 	 security listed
+12 	 5 	 S[em]/S[dcl] 	 1 	 occurred that
+13 	 12 	 (S[dcl]\NP)/PP 	 2 	 at occurred
+16 	 13 	 PP/NP 	 1 	 price at
+16 	 14 	 NP[nb]/N 	 1 	 price a
+16 	 15 	 N/N 	 1 	 price higher
+16 	 17 	 (NP\NP)/NP 	 1 	 price than
+20 	 17 	 (NP\NP)/NP 	 2 	 transaction than
+20 	 18 	 NP[nb]/N 	 1 	 transaction the
+20 	 19 	 N/N 	 1 	 transaction previous
+20 	 21 	 (NP\NP)/NP 	 1 	 transaction in
+23 	 21 	 (NP\NP)/NP 	 2 	 security in
+23 	 22 	 NP[nb]/N 	 1 	 security that
+<\s>

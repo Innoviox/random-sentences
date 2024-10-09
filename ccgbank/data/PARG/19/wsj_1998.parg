@@ -1,0 +1,235 @@
+<s id="wsj_1998.1"> 16
+1 	 0 	 N/N 	 1 	 Corp. Olin
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+5 	 3 	 N/N 	 1 	 income third-quarter
+5 	 4 	 N/N 	 1 	 income net
+5 	 6 	 S[dcl]\NP 	 1 	 income rose
+6 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 rose said
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 rose %
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 rose on
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 26
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 strength on
+11 	 10 	 NP[nb]/N 	 1 	 strength the
+11 	 12 	 (NP\NP)/NP 	 1 	 strength of
+15 	 12 	 (NP\NP)/NP 	 2 	 business of
+15 	 13 	 NP[nb]/N 	 1 	 business its
+15 	 14 	 N/N 	 1 	 business chemical
+<\s>
+<s id="wsj_1998.2"> 27
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Net was
+1 	 12 	 ((S\NP)\(S\NP))/PP 	 2 	 was up
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 $ was
+4 	 2 	 N/N[num] 	 1 	 million $
+4 	 3 	 N/N 	 1 	 million 24
+7 	 1 	 (S[dcl]\NP)/NP 	 2 	 $ was
+7 	 9 	 (NP\NP)/N 	 1 	 $ a
+8 	 7 	 N/N[num] 	 1 	 1.15 $
+10 	 9 	 (NP\NP)/N 	 2 	 share a
+13 	 12 	 ((S\NP)\(S\NP))/PP 	 3 	 from up
+13 	 26 	 (PP\PP)\NP 	 1 	 from earlier
+14 	 13 	 PP/NP 	 1 	 $ from
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 19
+20 	 13 	 PP/NP 	 1 	 cents from
+20 	 19 	 N/N 	 1 	 cents 90
+20 	 21 	 (NP\NP)/N 	 1 	 cents a
+22 	 21 	 (NP\NP)/N 	 2 	 share a
+25 	 24 	 NP[nb]/N 	 1 	 year a
+25 	 26 	 (PP\PP)\NP 	 2 	 year earlier
+<\s>
+<s id="wsj_1998.3"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Sales rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 7.4
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 580
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 540
+<\s>
+<s id="wsj_1998.4"> 31
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Olin said
+4 	 2 	 NP[nb]/N 	 1 	 segment its
+4 	 3 	 N/N 	 1 	 segment chemical
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 segment had
+5 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+5 	 12 	 ((S\NP)\(S\NP))/PP 	 2 	 had up
+5 	 22 	 ((S\NP)\(S\NP))/PP 	 2 	 had because
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 profit had
+6 	 7 	 (NP\NP)/NP 	 1 	 profit of
+8 	 7 	 (NP\NP)/NP 	 2 	 $ of
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 22
+13 	 12 	 ((S\NP)\(S\NP))/PP 	 3 	 from up
+13 	 19 	 (PP\PP)\NP 	 1 	 from ago
+14 	 13 	 PP/NP 	 1 	 $ from
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 15
+18 	 17 	 NP[nb]/N 	 1 	 year a
+18 	 19 	 (PP\PP)\NP 	 2 	 year ago
+22 	 21 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 because largely
+23 	 22 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+24 	 23 	 PP/NP 	 1 	 gains of
+24 	 25 	 (NP\NP)/NP 	 1 	 gains in
+26 	 25 	 (NP\NP)/NP 	 2 	 electrochemicals in
+26 	 28 	 (NP\NP)/NP 	 1 	 electrochemicals as
+28 	 27 	 (NP\NP)/(NP\NP) 	 2 	 as such
+30 	 28 	 (NP\NP)/NP 	 2 	 soda as
+30 	 29 	 N/N 	 1 	 soda caustic
+<\s>
+<s id="wsj_1998.5"> 13
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+4 	 3 	 NP[nb]/N 	 1 	 gains the
+4 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 gains were
+4 	 6 	 (S[pss]\NP)/PP 	 1 	 gains tied <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 tied were
+7 	 6 	 (S[pss]\NP)/PP 	 2 	 to tied
+9 	 7 	 PP/NP 	 1 	 increases to
+9 	 8 	 N/N 	 1 	 increases volume
+12 	 7 	 PP/NP 	 1 	 prices to
+12 	 11 	 N/N 	 1 	 prices higher
+<\s>
+<s id="wsj_1998.6"> 12
+1 	 0 	 NP[nb]/N 	 1 	 market The
+1 	 2 	 (NP\NP)/NP 	 1 	 market for
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 market include
+3 	 2 	 (NP\NP)/NP 	 2 	 electrochemicals for
+11 	 4 	 (S[dcl]\NP)/NP 	 2 	 industries include
+11 	 5 	 NP[nb]/N 	 1 	 industries the
+11 	 6 	 N/N 	 1 	 industries paper
+11 	 8 	 N/N 	 1 	 industries water-purification
+11 	 10 	 N/N 	 1 	 industries textile
+<\s>
+<s id="wsj_1998.7"> 31
+2 	 0 	 NP[nb]/N 	 1 	 segment The
+2 	 1 	 N/N 	 1 	 segment chemical
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 segment had
+7 	 5 	 (N/N)/N[num] 	 2 	 million $
+7 	 6 	 N/N 	 1 	 million 6
+8 	 3 	 (S[dcl]\NP)/NP 	 2 	 gain had
+8 	 4 	 NP[nb]/N 	 1 	 gain a
+8 	 5 	 (N/N)/N[num] 	 1 	 gain $
+8 	 9 	 (NP\NP)/NP 	 1 	 gain on
+8 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 gain which
+8 	 19 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 gain was <XB>
+8 	 20 	 S[pss]\NP 	 1 	 gain offset <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 sale on
+11 	 10 	 NP[nb]/N 	 1 	 sale the
+11 	 12 	 (NP\NP)/NP 	 1 	 sale of
+16 	 12 	 (NP\NP)/NP 	 2 	 businesses of
+16 	 13 	 N/N 	 1 	 businesses ammonia
+16 	 15 	 N/N 	 1 	 businesses urea
+19 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was which
+20 	 19 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 offset was
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 offset by
+25 	 23 	 (N/N)/N[num] 	 2 	 million $
+25 	 24 	 N/N 	 1 	 million 6
+26 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 charge by
+26 	 22 	 NP[nb]/N 	 1 	 charge a
+26 	 23 	 (N/N)/N[num] 	 1 	 charge $
+26 	 27 	 (NP\NP)/NP 	 1 	 charge for
+30 	 27 	 (NP\NP)/NP 	 2 	 expenditures for
+30 	 28 	 N/N 	 1 	 expenditures future
+30 	 29 	 N/N 	 1 	 expenditures environmental
+<\s>
+<s id="wsj_1998.8"> 17
+0 	 1 	 (NP\NP)/NP 	 1 	 Profit in
+0 	 8 	 S[dcl]\NP 	 1 	 Profit rose
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Olin 's
+4 	 1 	 (NP\NP)/NP 	 2 	 defense in
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 defense 's
+7 	 1 	 (NP\NP)/NP 	 2 	 segment in
+7 	 3 	 (NP[nb]/N)\NP 	 1 	 segment 's
+7 	 6 	 N/N 	 1 	 segment ammunition
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+8 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 8
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 7
+<\s>
+<s id="wsj_1998.9"> 20
+2 	 0 	 NP[nb]/N 	 1 	 segment The
+2 	 1 	 N/N 	 1 	 segment metals
+2 	 4 	 S[pss]\NP 	 1 	 segment hurt <XB>
+2 	 9 	 (S[dcl]\NP)/NP 	 1 	 segment had
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 hurt by
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 strike by
+7 	 6 	 NP[nb]/N 	 1 	 strike a
+9 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 had against
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 results had
+11 	 10 	 N/N 	 1 	 results break-even
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 $ against
+14 	 19 	 (NP\NP)\NP 	 1 	 $ ago
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 3
+18 	 17 	 NP[nb]/N 	 1 	 year a
+18 	 19 	 (NP\NP)\NP 	 2 	 year ago
+<\s>
+<s id="wsj_1998.10"> 34
+4 	 0 	 (S/S)/NP 	 2 	 months In
+4 	 1 	 NP[nb]/N 	 1 	 months the
+4 	 2 	 N/N 	 1 	 months first
+4 	 3 	 N/N 	 1 	 months nine
+6 	 7 	 S[dcl]\NP 	 1 	 net rose
+7 	 0 	 (S/S)/NP 	 1 	 rose In
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 rose %
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+7 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 21
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 93
+16 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+16 	 18 	 (NP\NP)/N 	 1 	 $ a
+17 	 16 	 N/N[num] 	 1 	 4.52 $
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+21 	 33 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 3 	 from ago
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+24 	 22 	 N/N[num] 	 1 	 million $
+24 	 23 	 N/N 	 1 	 million 77
+27 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+27 	 29 	 (NP\NP)/N 	 1 	 $ a
+28 	 27 	 N/N[num] 	 1 	 3.62 $
+30 	 29 	 (NP\NP)/N 	 2 	 share a
+32 	 31 	 NP[nb]/N 	 1 	 year a
+32 	 33 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 4 	 year ago
+<\s>
+<s id="wsj_1998.11"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Sales rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 13
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 1.91
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 1.69
+<\s>
+<s id="wsj_1998.12"> 19
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+8 	 9 	 (S[dcl]\NP)/PP 	 1 	 Olin closed
+9 	 0 	 (S/S)/NP 	 1 	 closed In
+9 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+10 	 9 	 (S[dcl]\NP)/PP 	 2 	 at closed
+11 	 10 	 PP/NP 	 1 	 $ at
+11 	 13 	 (NP\NP)/N 	 1 	 $ a
+12 	 11 	 N/N[num] 	 1 	 58.50 $
+14 	 13 	 (NP\NP)/N 	 2 	 share a
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 cents down
+18 	 17 	 N/N 	 1 	 cents 25
+<\s>

@@ -1,0 +1,58 @@
+<s id="wsj_0201.1"> 19
+3 	 0 	 N/N 	 1 	 Inc. Rolls-Royce
+3 	 1 	 N/N 	 1 	 Inc. Motor
+3 	 2 	 N/N 	 1 	 Inc. Cars
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+5 	 6 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it expects
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+9 	 6 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 sales expects
+9 	 7 	 NP[nb]/N 	 1 	 sales its
+9 	 8 	 N/N 	 1 	 sales U.S.
+9 	 11 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 sales remain <XB>
+9 	 12 	 S[adj]\NP 	 1 	 sales steady <XB>
+10 	 6 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 remain to
+11 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 remain at
+11 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 remain in
+12 	 11 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 steady remain
+15 	 14 	 (N/N)/(N/N) 	 2 	 1,200 about
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 cars at
+16 	 15 	 N/N 	 1 	 cars 1,200
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 1990 in
+<\s>
+<s id="wsj_0201.2"> 11
+3 	 0 	 NP[nb]/N 	 1 	 maker The
+3 	 1 	 N/N 	 1 	 maker luxury
+3 	 2 	 N/N 	 1 	 maker auto
+3 	 6 	 (S[dcl]\NP)/NP 	 1 	 maker sold
+5 	 4 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 year last
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 sold year
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 sold in
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 cars sold
+8 	 7 	 N/N 	 1 	 cars 1,214
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. in
+11 	 10 	 NP[nb]/N 	 1 	 U.S. the
+<\s>
+<s id="wsj_0201.3"> 28
+1 	 0 	 N/N 	 1 	 Mosher Howard
+1 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Mosher said
+3 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 president said
+7 	 5 	 N/N 	 1 	 officer chief
+7 	 6 	 N/N 	 1 	 officer executive
+7 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 officer said
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 he anticipates
+11 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 anticipates said
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 growth anticipates
+12 	 13 	 (NP\NP)/NP 	 1 	 growth for
+12 	 18 	 (NP\NP)/NP 	 1 	 growth in
+12 	 24 	 (NP\NP)/NP 	 1 	 growth in <XU>
+17 	 13 	 (NP\NP)/NP 	 2 	 maker for
+17 	 14 	 NP[nb]/N 	 1 	 maker the
+17 	 15 	 N/N 	 1 	 maker luxury
+17 	 16 	 N/N 	 1 	 maker auto
+19 	 18 	 (NP\NP)/NP 	 2 	 Britain in
+21 	 18 	 (NP\NP)/NP 	 2 	 Europe in
+26 	 25 	 (N/N)/(N/N) 	 2 	 Eastern Far
+27 	 24 	 (NP\NP)/NP 	 2 	 markets in
+27 	 26 	 N/N 	 1 	 markets Eastern
+<\s>

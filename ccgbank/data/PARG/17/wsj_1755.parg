@@ -1,0 +1,446 @@
+<s id="wsj_1755.1"> 6
+1 	 0 	 S[wq]/S[q] 	 1 	 do Where
+2 	 1 	 (S[q]/(S[b]\NP))/NP 	 2 	 Americans do
+2 	 3 	 (S[b]\NP)/NP 	 1 	 Americans put <XB>
+3 	 1 	 (S[q]/(S[b]\NP))/NP 	 1 	 put do
+5 	 3 	 (S[b]\NP)/NP 	 2 	 money put
+5 	 4 	 NP[nb]/N 	 1 	 money their
+<\s>
+<s id="wsj_1755.2"> 6
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 It depends
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 on depends
+3 	 2 	 PP/S[qem] 	 1 	 when on
+4 	 5 	 S[dcl]\NP 	 1 	 you look
+5 	 3 	 S[qem]/S[dcl] 	 1 	 look when
+<\s>
+<s id="wsj_1755.3"> 16
+1 	 0 	 (S/S)/NP 	 2 	 1900 In
+4 	 3 	 (S/S)/NP 	 2 	 instance for
+6 	 7 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 less than
+8 	 7 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 8 than
+9 	 8 	 N/N 	 1 	 % 8
+9 	 10 	 (NP\NP)/NP 	 1 	 % of
+9 	 12 	 S[dcl]\NP 	 1 	 % went
+11 	 10 	 (NP\NP)/NP 	 2 	 assets of
+12 	 0 	 (S/S)/NP 	 1 	 went In
+12 	 3 	 (S/S)/NP 	 1 	 went for
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 went into
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 deposits into
+15 	 14 	 N/N 	 1 	 deposits bank
+<\s>
+<s id="wsj_1755.4"> 16
+0 	 1 	 S[dcl]\NP 	 1 	 That rose
+0 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 That has <XU>
+0 	 13 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 That changed <XU>
+0 	 14 	 S[adj]\NP 	 1 	 That much <XU>
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 rose during
+4 	 3 	 (N/N)/(N/N) 	 2 	 18 nearly
+5 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+5 	 4 	 N/N 	 1 	 % 18
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Depression during
+8 	 7 	 NP[nb]/N 	 1 	 Depression the
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 has n't
+13 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 changed has
+13 	 15 	 (S\NP)\(S\NP) 	 2 	 changed since
+14 	 13 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 much changed
+<\s>
+<s id="wsj_1755.5"> 25
+1 	 0 	 N/N 	 1 	 reserves Pension
+1 	 8 	 (S[dcl]\NP)/NP 	 1 	 reserves made
+6 	 3 	 ((S\NP)/(S\NP))/NP 	 3 	 hand on
+6 	 4 	 NP[nb]/N 	 1 	 hand the
+6 	 5 	 N/N 	 1 	 hand other
+8 	 3 	 ((S\NP)/(S\NP))/NP 	 2 	 made on
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 made up
+8 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 made until
+12 	 11 	 (N/N)/(N/N) 	 2 	 small relatively
+13 	 8 	 (S[dcl]\NP)/NP 	 2 	 part made
+13 	 10 	 NP[nb]/N 	 1 	 part a
+13 	 12 	 N/N 	 1 	 part small
+13 	 14 	 (NP\NP)/NP 	 1 	 part of
+16 	 14 	 (NP\NP)/NP 	 2 	 assets of
+16 	 15 	 N/N 	 1 	 assets household
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 decade until
+20 	 18 	 NP[nb]/N 	 1 	 decade the
+20 	 19 	 N/N 	 1 	 decade last
+20 	 22 	 (NP\NP)/S[dcl] 	 1 	 decade when
+23 	 24 	 S[dcl]\NP 	 1 	 they skyrocketed
+24 	 22 	 (NP\NP)/S[dcl] 	 2 	 skyrocketed when
+<\s>
+<s id="wsj_1755.6"> 25
+1 	 2 	 (S[dcl]\NP[thr])/(S[pt]\NP) 	 1 	 there has
+2 	 0 	 S/S 	 1 	 has And
+2 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 has --
+3 	 2 	 (S[dcl]\NP[thr])/(S[pt]\NP) 	 2 	 been has
+6 	 3 	 (S[pt]\NP)/NP 	 2 	 decline been
+6 	 4 	 NP[nb]/N 	 1 	 decline a
+6 	 5 	 N/N 	 1 	 decline drastic
+6 	 7 	 (NP\NP)/NP 	 1 	 decline in
+9 	 7 	 (NP\NP)/NP 	 2 	 importance in
+9 	 8 	 NP[nb]/N 	 1 	 importance the
+9 	 10 	 (NP\NP)/NP 	 1 	 importance of
+13 	 10 	 (NP\NP)/NP 	 2 	 assets of
+13 	 11 	 N/N 	 1 	 assets unincorporated
+13 	 12 	 N/N 	 1 	 assets business
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 thanks --
+15 	 16 	 (NP\NP)/NP 	 1 	 thanks to
+18 	 16 	 (NP\NP)/NP 	 2 	 consolidation to
+18 	 17 	 N/N 	 1 	 consolidation industry
+21 	 16 	 (NP\NP)/NP 	 2 	 decline to
+21 	 20 	 NP[nb]/N 	 1 	 decline a
+21 	 22 	 (NP\NP)/NP 	 1 	 decline in
+24 	 22 	 (NP\NP)/NP 	 2 	 farms in
+24 	 23 	 N/N 	 1 	 farms family
+<\s>
+<s id="wsj_1755.7"> 25
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That 's
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 some 's
+2 	 3 	 (NP\NP)/NP 	 1 	 some of
+4 	 3 	 (NP\NP)/NP 	 2 	 what of
+4 	 5 	 S[dcl]\NP 	 1 	 what emerges <XB>
+5 	 4 	 NP/(S[dcl]\NP) 	 1 	 emerges what
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 emerges from
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 charts from
+9 	 7 	 NP[nb]/N 	 1 	 charts the
+9 	 8 	 N/N 	 1 	 charts following
+9 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 charts which
+9 	 12 	 (S[dcl]\NP)/S[qem] 	 1 	 charts show <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 show which
+13 	 12 	 (S[dcl]\NP)/S[qem] 	 2 	 how show
+14 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Americans have
+14 	 16 	 (S[pt]\NP)/NP 	 1 	 Americans changed <XB>
+15 	 13 	 S[qem]/S[dcl] 	 1 	 have how
+16 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 changed have
+16 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 changed over
+19 	 16 	 (S[pt]\NP)/NP 	 2 	 patterns changed
+19 	 17 	 NP[nb]/N 	 1 	 patterns their
+19 	 18 	 N/N 	 1 	 patterns investment
+24 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 years over
+24 	 21 	 NP[nb]/N 	 1 	 years the
+24 	 22 	 N/N 	 1 	 years past
+24 	 23 	 N/N 	 1 	 years 90
+<\s>
+<s id="wsj_1755.8"> 4
+1 	 0 	 NP[nb]/N 	 1 	 results Some
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 results are
+1 	 3 	 S[adj]\NP 	 1 	 results self-explanatory <XB>
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 self-explanatory are
+<\s>
+<s id="wsj_1755.9"> 5
+2 	 1 	 N/N 	 1 	 figures other
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 figures are
+2 	 4 	 S[adj]\NP 	 1 	 figures surprising <XB>
+3 	 0 	 S/S 	 1 	 are But
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 surprising are
+<\s>
+<s id="wsj_1755.10"> 27
+0 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Housing has
+0 	 6 	 (S[pt]\NP)/NP 	 1 	 Housing remained <XB>
+3 	 2 	 ((S\NP)/(S\NP))/NP 	 3 	 instance for
+5 	 2 	 ((S\NP)/(S\NP))/NP 	 2 	 has for
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 remained has
+6 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 remained over
+6 	 18 	 ((S\NP)\(S\NP))/S 	 2 	 remained --
+9 	 8 	 (N/N)/(N/N) 	 2 	 steady fairly
+10 	 6 	 (S[pt]\NP)/NP 	 2 	 component remained
+10 	 7 	 NP[nb]/N 	 1 	 component a
+10 	 9 	 N/N 	 1 	 component steady
+10 	 11 	 (NP\NP)/NP 	 1 	 component of
+13 	 11 	 (NP\NP)/NP 	 2 	 assets of
+13 	 12 	 N/N 	 1 	 assets household
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 decade over
+17 	 15 	 NP[nb]/N 	 1 	 decade the
+17 	 16 	 N/N 	 1 	 decade past
+19 	 18 	 ((S\NP)\(S\NP))/S 	 3 	 although --
+21 	 20 	 N/N 	 1 	 wisdom common
+21 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 wisdom would
+21 	 24 	 (S[pt]\NP)/NP 	 1 	 wisdom expected <XB>
+22 	 19 	 S/S[dcl] 	 1 	 would although
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+24 	 23 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 expected have
+26 	 24 	 (S[pt]\NP)/NP 	 2 	 increase expected
+26 	 25 	 NP[nb]/N 	 1 	 increase an
+<\s>
+<s id="wsj_1755.11"> 28
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There is
+1 	 16 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+3 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 lot is
+3 	 2 	 NP[nb]/N 	 1 	 lot a
+3 	 4 	 (NP\NP)/NP 	 1 	 lot of
+3 	 6 	 (S[pss]\NP)/PP 	 1 	 lot paid <XB>
+5 	 4 	 (NP\NP)/NP 	 2 	 attention of
+7 	 6 	 (S[pss]\NP)/PP 	 2 	 to paid
+8 	 7 	 PP/NP 	 1 	 housing to
+8 	 9 	 (NP\NP)/NP 	 1 	 housing as
+11 	 9 	 (NP\NP)/NP 	 2 	 form as
+11 	 10 	 NP[nb]/N 	 1 	 form a
+11 	 12 	 (NP\NP)/NP 	 1 	 form of
+14 	 12 	 (NP\NP)/NP 	 2 	 wealth of
+14 	 13 	 N/N 	 1 	 wealth household
+19 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 Wolff says
+19 	 17 	 N/N 	 1 	 Wolff Edward
+19 	 18 	 N/N 	 1 	 Wolff N.
+21 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 professor says
+21 	 22 	 (NP\NP)/NP 	 1 	 professor of
+21 	 24 	 (NP\NP)/NP 	 1 	 professor at
+23 	 22 	 (NP\NP)/NP 	 2 	 economics of
+27 	 24 	 (NP\NP)/NP 	 2 	 University at
+27 	 25 	 N/N 	 1 	 University New
+27 	 26 	 N/N 	 1 	 University York
+<\s>
+<s id="wsj_1755.12"> 10
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+1 	 4 	 S[pt]\NP 	 1 	 it increased <XB>
+2 	 0 	 S/S 	 1 	 has But
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 has n't
+4 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 increased has
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 increased much
+4 	 6 	 ((S\NP)\(S\NP))/PP 	 2 	 increased relative
+7 	 6 	 ((S\NP)\(S\NP))/PP 	 3 	 to relative
+9 	 7 	 PP/NP 	 1 	 assets to
+9 	 8 	 N/N 	 1 	 assets other
+<\s>
+<s id="wsj_1755.13"> 12
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 It suggests
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that suggests
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 households accumulate
+4 	 2 	 S[em]/S[dcl] 	 1 	 accumulate that
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 accumulate across
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 wealth accumulate
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 spectrum across
+9 	 7 	 NP[nb]/N 	 1 	 spectrum a
+9 	 8 	 N/N 	 1 	 spectrum broad
+9 	 10 	 (NP\NP)/NP 	 1 	 spectrum of
+11 	 10 	 (NP\NP)/NP 	 2 	 assets of
+<\s>
+<s id="wsj_1755.14"> 21
+1 	 19 	 S[dcl]\NP 	 1 	 housing is
+3 	 4 	 (S[dcl]\NP)/PP 	 1 	 it appears
+4 	 2 	 ((S\NP)/(S\NP))/S[dcl] 	 3 	 appears though
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 appears in
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 mind in
+8 	 6 	 NP[nb]/N 	 1 	 mind the
+8 	 7 	 N/N 	 1 	 mind popular
+9 	 4 	 (S[dcl]\NP)/PP 	 2 	 as appears
+10 	 9 	 PP/(S[ng]\NP) 	 1 	 being as
+14 	 13 	 (N/N)/(S\NP) 	 2 	 growing -LCB-
+17 	 10 	 (S[ng]\NP)/NP 	 2 	 asset being
+17 	 11 	 NP[nb]/N 	 1 	 asset the
+17 	 12 	 N/N 	 1 	 asset major
+17 	 13 	 (N/N)/(S\NP) 	 1 	 asset -LCB-
+17 	 16 	 N/N 	 1 	 asset household
+19 	 0 	 S/S 	 1 	 is And
+19 	 2 	 ((S\NP)/(S\NP))/S[dcl] 	 2 	 is though
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 is n't
+<\s>
+<s id="wsj_1755.15"> 44
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 investors '
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 desire '
+5 	 7 	 (S[b]\NP)/NP 	 1 	 desire hold <XB>
+5 	 10 	 S[adj]\NP 	 1 	 desire directly <XB>
+5 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 desire has
+5 	 17 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 desire held <XB>
+5 	 19 	 S[adj]\NP 	 1 	 desire steady <XB>
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 hold to
+7 	 9 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 hold --
+8 	 7 	 (S[b]\NP)/NP 	 2 	 stocks hold
+10 	 9 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 directly --
+12 	 9 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 through --
+14 	 12 	 PP/NP 	 1 	 funds through
+14 	 13 	 N/N 	 1 	 funds mutual
+16 	 0 	 (S/S)/NP 	 1 	 has In
+17 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 held has
+19 	 17 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 steady held
+19 	 18 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 steady surprisingly
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 stocks '
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 importance '
+23 	 24 	 (NP\NP)/NP 	 1 	 importance among
+23 	 27 	 (S[dcl]\NP)/NP 	 1 	 importance reflects
+25 	 24 	 (NP\NP)/NP 	 2 	 assets among
+27 	 26 	 (S\NP)/(S\NP) 	 2 	 reflects largely
+29 	 27 	 (S[dcl]\NP)/NP 	 2 	 ups reflects
+29 	 28 	 NP[nb]/N 	 1 	 ups the
+29 	 32 	 (NP\NP)/NP 	 1 	 ups of
+31 	 27 	 (S[dcl]\NP)/NP 	 2 	 downs reflects
+31 	 28 	 NP[nb]/N 	 1 	 downs the
+31 	 32 	 (NP\NP)/NP 	 1 	 downs of
+35 	 32 	 (NP\NP)/NP 	 2 	 market of
+35 	 33 	 NP[nb]/N 	 1 	 market the
+35 	 34 	 N/N 	 1 	 market stock
+40 	 27 	 (S[dcl]\NP)/NP 	 2 	 shift reflects
+40 	 38 	 NP/NP 	 1 	 shift not
+40 	 39 	 NP[nb]/N 	 1 	 shift a
+40 	 41 	 (NP\NP)/NP 	 1 	 shift in
+43 	 41 	 (NP\NP)/NP 	 2 	 preferences in
+43 	 42 	 N/N 	 1 	 preferences stock-holding
+<\s>
+<s id="wsj_1755.16"> 28
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Stocks have
+0 	 3 	 S[pt]\NP 	 1 	 Stocks spread <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 have not
+1 	 19 	 (S[dcl]\S[dcl])/NP 	 1 	 have concludes
+3 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 spread have
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 spread to
+3 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 spread despite
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 public to
+7 	 5 	 NP[nb]/N 	 1 	 public the
+7 	 6 	 N/N 	 1 	 public general
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 fact despite
+11 	 10 	 NP[nb]/N 	 1 	 fact the
+12 	 11 	 N/S[em] 	 1 	 that fact
+14 	 13 	 NP[nb]/N 	 1 	 environment the
+14 	 15 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 environment is
+14 	 17 	 S[adj]\NP 	 1 	 environment different <XB>
+15 	 12 	 S[em]/S[dcl] 	 1 	 is that
+17 	 15 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 different is
+17 	 16 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 different much
+21 	 19 	 (S[dcl]\S[dcl])/NP 	 2 	 Avery concludes
+21 	 20 	 N/N 	 1 	 Avery Robert
+24 	 19 	 (S[dcl]\S[dcl])/NP 	 2 	 economist concludes
+24 	 23 	 NP[nb]/N 	 1 	 economist an
+24 	 25 	 (NP\NP)/NP 	 1 	 economist at
+27 	 25 	 (NP\NP)/NP 	 2 	 University at
+27 	 26 	 N/N 	 1 	 University Cornell
+<\s>
+<s id="wsj_1755.17"> 32
+1 	 0 	 (S/S)/NP 	 2 	 me To
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 it says
+3 	 0 	 (S/S)/NP 	 1 	 says To
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that says
+8 	 5 	 (S/S)/NP 	 2 	 views despite
+8 	 6 	 NP/NP 	 1 	 views all
+8 	 7 	 NP[nb]/N 	 1 	 views the
+9 	 8 	 N/S[em] 	 1 	 that views
+10 	 11 	 ((S[dcl]\NP)/PP)/NP 	 1 	 we spend
+11 	 9 	 S[em]/S[dcl] 	 1 	 spend that
+13 	 11 	 ((S[dcl]\NP)/PP)/NP 	 3 	 much spend
+13 	 12 	 N/N 	 1 	 much too
+13 	 14 	 (NP\NP)/NP 	 1 	 much of
+16 	 14 	 (NP\NP)/NP 	 2 	 wealth of
+16 	 15 	 NP[nb]/N 	 1 	 wealth our
+17 	 11 	 ((S[dcl]\NP)/PP)/NP 	 2 	 on spend
+19 	 17 	 PP/NP 	 1 	 assets on
+19 	 18 	 N/N 	 1 	 assets paper
+21 	 22 	 (S[dcl]\NP)/NP 	 1 	 we have
+22 	 4 	 S[em]/S[dcl] 	 1 	 have that
+22 	 5 	 (S/S)/NP 	 1 	 have despite
+23 	 22 	 (S[dcl]\NP)/NP 	 2 	 ways have
+23 	 24 	 (NP\NP)/(S[ng]\NP) 	 1 	 ways of
+23 	 27 	 S[adj]\NP 	 1 	 ways similar <XB>
+25 	 24 	 (NP\NP)/(S[ng]\NP) 	 2 	 holding of
+26 	 25 	 (S[ng]\NP)/NP 	 2 	 wealth holding
+27 	 28 	 ((S[adj]\NP)\(S[adj]\NP))/(S[adj]\NP) 	 2 	 similar to
+30 	 29 	 N/N 	 1 	 years 100
+30 	 31 	 (S[adj]\NP)\NP 	 2 	 years ago
+31 	 28 	 ((S[adj]\NP)\(S[adj]\NP))/(S[adj]\NP) 	 3 	 ago to
+<\s>
+<s id="wsj_1755.18"> 12
+2 	 1 	 NP[nb]/N 	 1 	 charts The
+2 	 3 	 (S[dcl]\NP)/S[qem] 	 1 	 charts show
+4 	 3 	 (S[dcl]\NP)/S[qem] 	 2 	 how show
+6 	 5 	 N/N 	 1 	 assets househld
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 assets have
+6 	 9 	 S[pss]\NP 	 1 	 assets distributed <XB>
+7 	 4 	 S[qem]/S[dcl] 	 1 	 have how
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+9 	 8 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 distributed been
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 distributed over
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 time over
+<\s>
+<s id="wsj_1755.19"> 21
+2 	 0 	 NP[nb]/N 	 1 	 components The
+2 	 1 	 N/N 	 1 	 components main
+2 	 3 	 (NP\NP)/NP 	 1 	 components of
+2 	 8 	 (NP\NP)/NP 	 1 	 components :
+7 	 3 	 (NP\NP)/NP 	 2 	 categories of
+7 	 4 	 NP[nb]/N 	 1 	 categories the
+7 	 5 	 N/N 	 1 	 categories various
+7 	 6 	 N/N 	 1 	 categories asseet
+9 	 8 	 (NP\NP)/NP 	 2 	 Housing :
+9 	 10 	 (NP\NP)/NP 	 1 	 Housing :
+12 	 10 	 (NP\NP)/NP 	 2 	 home :
+12 	 11 	 N/N 	 1 	 home Primary
+17 	 10 	 (NP\NP)/NP 	 2 	 land :
+17 	 15 	 NP/NP 	 1 	 land not
+17 	 16 	 NP[nb]/N 	 1 	 land the
+17 	 20 	 PP/NP 	 1 	 land on <XU>
+18 	 19 	 (S[dcl]\NP)/PP 	 1 	 it 's
+20 	 19 	 (S[dcl]\NP)/PP 	 2 	 on 's
+<\s>
+<s id="wsj_1755.20"> 16
+0 	 5 	 (NP\NP)/NP 	 1 	 Land :
+4 	 2 	 N/N 	 1 	 Estate Other
+4 	 3 	 N/N 	 1 	 Estate Real
+4 	 5 	 (NP\NP)/NP 	 1 	 Estate :
+6 	 5 	 (NP\NP)/NP 	 2 	 Land :
+6 	 8 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 Land which
+7 	 8 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 on which
+10 	 9 	 N/N 	 1 	 home primary
+10 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 home is
+10 	 12 	 S[pss]\NP 	 1 	 home built <XB>
+11 	 8 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 is which
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 built is
+15 	 5 	 (NP\NP)/NP 	 2 	 property :
+15 	 14 	 N/N 	 1 	 property investment
+<\s>
+<s id="wsj_1755.21"> 8
+1 	 0 	 N/N 	 1 	 Durables Consumer
+1 	 2 	 (NP\NP)/NP 	 1 	 Durables :
+7 	 2 	 (NP\NP)/NP 	 2 	 furniture :
+7 	 3 	 N/N 	 1 	 furniture Automobiles
+7 	 5 	 N/N 	 1 	 furniture appliances
+<\s>
+<s id="wsj_1755.22"> 21
+1 	 0 	 N/N 	 1 	 Deposits Bank
+1 	 2 	 (NP\NP)/NP 	 1 	 Deposits :
+3 	 2 	 (NP\NP)/NP 	 2 	 Currency :
+6 	 2 	 (NP\NP)/NP 	 2 	 deposits :
+6 	 5 	 N/N 	 1 	 deposits checking-account
+12 	 2 	 (NP\NP)/NP 	 2 	 deposits :
+12 	 8 	 N/N 	 1 	 deposits small
+12 	 9 	 N/N 	 1 	 deposits savings
+12 	 11 	 N/N 	 1 	 deposits time
+14 	 2 	 (NP\NP)/NP 	 2 	 certificates :
+14 	 15 	 (NP\NP)/NP 	 1 	 certificates of
+16 	 15 	 (NP\NP)/NP 	 2 	 deposits of
+20 	 2 	 (NP\NP)/NP 	 2 	 shares :
+20 	 18 	 N/N 	 1 	 shares money-market
+20 	 19 	 N/N 	 1 	 shares fund
+<\s>
+<s id="wsj_1755.23"> 5
+0 	 1 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Bonds :
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 Bonds Excludes <XB>
+2 	 1 	 (NP\NP)/(S[dcl]\NP) 	 2 	 Excludes :
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 funds Excludes
+4 	 3 	 N/N 	 1 	 funds bond
+<\s>
+<s id="wsj_1755.24"> 11
+1 	 0 	 N/N 	 1 	 Funds Stocks\/Mutual
+1 	 2 	 (NP\NP)/NP 	 1 	 Funds :
+3 	 2 	 (NP\NP)/NP 	 2 	 Stocks :
+6 	 2 	 (NP\NP)/NP 	 2 	 funds :
+6 	 5 	 N/N 	 1 	 funds mutual
+6 	 7 	 S[adj]\NP 	 1 	 funds other <XB>
+7 	 8 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 other than
+10 	 8 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 funds than
+10 	 9 	 N/N 	 1 	 funds money-market
+<\s>
+<s id="wsj_1755.25"> 10
+1 	 0 	 N/N 	 1 	 Business Unincorporated
+1 	 2 	 (NP\NP)/NP 	 1 	 Business :
+3 	 2 	 (NP\NP)/NP 	 2 	 Partnerships :
+6 	 2 	 (NP\NP)/NP 	 2 	 proprietorships :
+6 	 5 	 N/N 	 1 	 proprietorships sole
+9 	 2 	 (NP\NP)/NP 	 2 	 corporations :
+9 	 8 	 N/N 	 1 	 corporations professional
+<\s>
+<s id="wsj_1755.26"> 7
+1 	 0 	 N/N 	 1 	 Reserves Pension
+1 	 2 	 (NP\NP)/NP 	 1 	 Reserves :
+3 	 2 	 (NP\NP)/NP 	 2 	 Holdings :
+3 	 4 	 (NP\NP)/NP 	 1 	 Holdings by
+6 	 4 	 (NP\NP)/NP 	 2 	 funds by
+6 	 5 	 N/N 	 1 	 funds pension
+<\s>

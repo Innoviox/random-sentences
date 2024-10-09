@@ -1,0 +1,540 @@
+<s id="wsj_1693.1"> 25
+3 	 0 	 N/N 	 1 	 Co. New
+3 	 1 	 N/N 	 1 	 Co. York
+3 	 2 	 N/N 	 1 	 Co. Times
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Co. 's
+7 	 4 	 (NP[nb]/N)\NP 	 1 	 report 's
+7 	 5 	 N/N 	 1 	 report third-quarter
+7 	 6 	 N/N 	 1 	 report earnings
+7 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 report is
+7 	 9 	 (S[ng]\NP)/NP 	 1 	 report reinforcing <XB>
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 reinforcing is
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 analysts '
+12 	 9 	 (S[ng]\NP)/NP 	 2 	 belief reinforcing
+12 	 11 	 (NP[nb]/N)\NP 	 1 	 belief '
+13 	 12 	 N/S[em] 	 1 	 that belief
+15 	 14 	 N/N 	 1 	 publishers newspaper
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 publishers will
+15 	 18 	 (S[ng]\NP)/NP 	 1 	 publishers facing <XB>
+16 	 13 	 S[em]/S[dcl] 	 1 	 will that
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+18 	 17 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 facing be
+18 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 facing through
+22 	 18 	 (S[ng]\NP)/NP 	 2 	 comparisons facing
+22 	 19 	 N/N 	 1 	 comparisons continued
+22 	 20 	 N/N 	 1 	 comparisons poor
+22 	 21 	 N/N 	 1 	 comparisons earnings
+24 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 1990 through
+<\s>
+<s id="wsj_1693.2"> 22
+1 	 0 	 NP[nb]/N 	 1 	 publisher The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 publisher was
+1 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 publisher able <XB>
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 able was
+4 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 register to
+5 	 10 	 ((S\NP)\(S\NP))/PP 	 2 	 register because
+9 	 5 	 (S[b]\NP)/NP 	 2 	 income register
+9 	 6 	 N/N 	 1 	 income soaring
+9 	 7 	 N/N 	 1 	 income quarter
+9 	 8 	 N/N 	 1 	 income net
+11 	 10 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+14 	 11 	 PP/NP 	 1 	 gain of
+14 	 12 	 NP[nb]/N 	 1 	 gain a
+14 	 13 	 N/N 	 1 	 gain onetime
+14 	 15 	 (NP\NP)/NP 	 1 	 gain on
+17 	 15 	 (NP\NP)/NP 	 2 	 sale on
+17 	 16 	 NP[nb]/N 	 1 	 sale the
+17 	 18 	 (NP\NP)/NP 	 1 	 sale of
+21 	 18 	 (NP\NP)/NP 	 2 	 system of
+21 	 19 	 NP[nb]/N 	 1 	 system its
+21 	 20 	 N/N 	 1 	 system cable-TV
+<\s>
+<s id="wsj_1693.3"> 11
+3 	 2 	 N/N 	 1 	 profit operating
+3 	 4 	 S[dcl]\NP 	 1 	 profit fell
+4 	 0 	 S/S 	 1 	 fell However
+4 	 6 	 (S\NP)\(S\NP) 	 2 	 fell %
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 35
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 16.4
+<\s>
+<s id="wsj_1693.4"> 45
+1 	 0 	 NP[nb]/N 	 1 	 decline The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 decline reflected
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 expense reflected
+4 	 3 	 NP[nb]/N 	 1 	 expense the
+4 	 5 	 (NP\NP)/(S[ng]\NP) 	 1 	 expense of
+6 	 5 	 (NP\NP)/(S[ng]\NP) 	 2 	 buying of
+8 	 6 	 (S[ng]\NP)/NP 	 2 	 magazines buying
+8 	 7 	 N/N 	 1 	 magazines three
+11 	 2 	 (S[dcl]\NP)/NP 	 2 	 earnings reflected
+11 	 10 	 N/N 	 1 	 earnings lower
+11 	 12 	 (NP\NP)/NP 	 1 	 earnings from
+15 	 12 	 (NP\NP)/NP 	 2 	 group from
+15 	 13 	 NP[nb]/N 	 1 	 group the
+15 	 14 	 N/N 	 1 	 group forest-products
+18 	 2 	 (S[dcl]\NP)/NP 	 2 	 what reflected
+18 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 what is <XB>
+18 	 20 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 what proving <XB>
+18 	 22 	 (S[b]\NP)/NP 	 1 	 what be <XB>
+19 	 18 	 NP/(S[dcl]\NP) 	 1 	 is what
+20 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 proving is
+21 	 20 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to proving
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+26 	 22 	 (S[b]\NP)/NP 	 2 	 problem be
+26 	 23 	 NP[nb]/N 	 1 	 problem a
+26 	 24 	 N/N 	 1 	 problem nagging
+26 	 25 	 N/N 	 1 	 problem major
+29 	 2 	 (S[dcl]\NP)/NP 	 2 	 declines reflected
+29 	 28 	 N/N 	 1 	 declines continued
+29 	 30 	 (NP\NP)/NP 	 1 	 declines in
+32 	 30 	 (NP\NP)/NP 	 2 	 linage in
+32 	 31 	 N/N 	 1 	 linage advertising
+32 	 33 	 (NP\NP)/NP 	 1 	 linage at
+37 	 33 	 (NP\NP)/NP 	 2 	 Times at
+37 	 34 	 NP[nb]/N 	 1 	 Times the
+37 	 35 	 N/N 	 1 	 Times New
+37 	 36 	 N/N 	 1 	 Times York
+40 	 39 	 NP[nb]/N 	 1 	 company the
+40 	 41 	 (NP[nb]/N)\NP 	 2 	 company 's
+44 	 33 	 (NP\NP)/NP 	 2 	 newspaper at
+44 	 41 	 (NP[nb]/N)\NP 	 1 	 newspaper 's
+44 	 42 	 N/N 	 1 	 newspaper flagship
+44 	 43 	 N/N 	 1 	 newspaper daily
+<\s>
+<s id="wsj_1693.5"> 22
+2 	 0 	 (S/S)/NP 	 2 	 trading In
+2 	 1 	 N/N 	 1 	 trading composite
+2 	 3 	 (NP\NP)/NP 	 1 	 trading on
+7 	 3 	 (NP\NP)/NP 	 2 	 Exchange on
+7 	 4 	 NP[nb]/N 	 1 	 Exchange the
+7 	 5 	 N/N 	 1 	 Exchange American
+7 	 6 	 N/N 	 1 	 Exchange Stock
+11 	 9 	 N/N 	 1 	 Times New
+11 	 10 	 N/N 	 1 	 Times York
+11 	 12 	 (S[dcl]\NP)/PP 	 1 	 Times closed
+12 	 0 	 (S/S)/NP 	 1 	 closed In
+12 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+13 	 12 	 (S[dcl]\NP)/PP 	 2 	 at closed
+14 	 13 	 PP/NP 	 1 	 $ at
+14 	 16 	 (NP\NP)/N 	 1 	 $ a
+15 	 14 	 N/N[num] 	 1 	 28.125 $
+17 	 16 	 (NP\NP)/N 	 2 	 share a
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 cents down
+21 	 20 	 N/N 	 1 	 cents 37.5
+<\s>
+<s id="wsj_1693.6"> 11
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Analysts said
+3 	 2 	 NP[nb]/N 	 1 	 company the
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 company 's
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 troubles 's
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 troubles mirror
+6 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 mirror said
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 those mirror
+7 	 8 	 (NP\NP)/NP 	 1 	 those of
+10 	 8 	 (NP\NP)/NP 	 2 	 industry of
+10 	 9 	 NP[nb]/N 	 1 	 industry the
+<\s>
+<s id="wsj_1693.7"> 29
+1 	 0 	 N/N 	 1 	 advertising Retail
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 advertising which
+1 	 5 	 (S[dcl]\NP)/NP 	 1 	 advertising represents <XB>
+1 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 advertising is
+1 	 19 	 S[ng]\NP 	 1 	 advertising rebounding <XB>
+1 	 28 	 S[pss]\NP 	 1 	 advertising expected <XB>
+5 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 represents which
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 represents often
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 half represents
+6 	 7 	 (NP\NP)/NP 	 1 	 half of
+10 	 7 	 (NP\NP)/NP 	 2 	 volume of
+10 	 8 	 NP[nb]/N 	 1 	 volume the
+10 	 9 	 N/N 	 1 	 volume advertising
+10 	 11 	 (NP\NP)/NP 	 1 	 volume at
+14 	 11 	 (NP\NP)/NP 	 2 	 newspapers at
+14 	 12 	 N/N 	 1 	 newspapers most
+14 	 13 	 N/N 	 1 	 newspapers daily
+17 	 16 	 (S\NP)/(S\NP) 	 2 	 is largely
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 is n't
+19 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 rebounding is
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 rebounding in
+19 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 rebounding from
+19 	 27 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 2 	 rebounding as
+23 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 half in
+23 	 21 	 NP[nb]/N 	 1 	 half the
+23 	 22 	 N/N 	 1 	 half second
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 doldrums from
+26 	 25 	 N/N 	 1 	 doldrums extended
+28 	 27 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 3 	 expected as
+<\s>
+<s id="wsj_1693.8"> 18
+3 	 0 	 (S/S)/NP 	 2 	 time At
+3 	 1 	 NP[nb]/N 	 1 	 time the
+3 	 2 	 N/N 	 1 	 time same
+5 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 newspapers are
+5 	 7 	 S[pss]\NP 	 1 	 newspapers bedeviled <XB>
+6 	 0 	 (S/S)/NP 	 1 	 are At
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 bedeviled are
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 bedeviled by
+7 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 bedeviled in
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 advertising by
+11 	 9 	 N/N 	 1 	 advertising lagging
+11 	 10 	 N/N 	 1 	 advertising national
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 in especially
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 component in
+17 	 15 	 NP[nb]/N 	 1 	 component its
+17 	 16 	 N/N 	 1 	 component financial
+<\s>
+<s id="wsj_1693.9"> 32
+3 	 0 	 N/N 	 1 	 Co. Dow
+3 	 1 	 N/N 	 1 	 Co. Jones
+3 	 2 	 N/N 	 1 	 Co. &
+3 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. reported
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 reported recently
+6 	 7 	 S[dcl]\NP 	 1 	 net fell
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 fell reported
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 fell %
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 9.9
+12 	 11 	 NP[nb]/N 	 1 	 reflection a
+12 	 14 	 (NP\NP)/NP 	 1 	 reflection in
+12 	 17 	 (NP\NP)/NP 	 1 	 reflection of
+15 	 14 	 (NP\NP)/NP 	 2 	 part in
+19 	 17 	 (NP\NP)/NP 	 2 	 softness of
+19 	 18 	 N/N 	 1 	 softness continued
+19 	 20 	 (NP\NP)/NP 	 1 	 softness in
+19 	 23 	 (NP\NP)/NP 	 1 	 softness at
+22 	 20 	 (NP\NP)/NP 	 2 	 advertising in
+22 	 21 	 N/N 	 1 	 advertising financial
+27 	 23 	 (NP\NP)/NP 	 2 	 Journal at
+27 	 24 	 NP[nb]/N 	 1 	 Journal The
+27 	 25 	 N/N 	 1 	 Journal Wall
+27 	 26 	 N/N 	 1 	 Journal Street
+29 	 30 	 (NP[nb]/N)\NP 	 2 	 Barron 's
+31 	 23 	 (NP\NP)/NP 	 2 	 magazine at
+31 	 30 	 (NP[nb]/N)\NP 	 1 	 magazine 's
+<\s>
+<s id="wsj_1693.10"> 26
+0 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 We expect
+1 	 14 	 (S[dcl]\S[dcl])/NP 	 1 	 expect said
+3 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 year expect
+3 	 2 	 N/N 	 1 	 year next
+3 	 5 	 (S[b]\NP)/NP 	 1 	 year be <XB>
+4 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 be in
+9 	 5 	 (S[b]\NP)/NP 	 2 	 year be
+9 	 6 	 NP[nb]/N 	 1 	 year a
+9 	 7 	 N/N 	 1 	 year fairly
+9 	 8 	 N/N 	 1 	 year soft
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 advertising in
+12 	 11 	 N/N 	 1 	 advertising newspaper-industry
+16 	 14 	 (S[dcl]\S[dcl])/NP 	 2 	 Morton said
+16 	 15 	 N/N 	 1 	 Morton John
+19 	 14 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst said
+19 	 18 	 NP[nb]/N 	 1 	 analyst an
+19 	 20 	 (NP\NP)/NP 	 1 	 analyst for
+25 	 20 	 (NP\NP)/NP 	 2 	 Ryan for
+25 	 21 	 N/N 	 1 	 Ryan Lynch
+25 	 23 	 N/N 	 1 	 Ryan Jones
+25 	 24 	 N/N 	 1 	 Ryan &
+<\s>
+<s id="wsj_1693.11"> 22
+1 	 0 	 (S/S)/(S/S) 	 2 	 year Next
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 earnings will
+3 	 5 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 earnings hold <XB>
+3 	 6 	 S[adj]\NP 	 1 	 earnings steady <XB>
+4 	 1 	 S/S 	 1 	 will year
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 hold will
+6 	 5 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 steady hold
+9 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 we do
+9 	 13 	 (S[b]\NP)/NP 	 1 	 we see <XB>
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 do just
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 do n't
+13 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 see do
+16 	 13 	 (S[b]\NP)/NP 	 2 	 turnaround see
+16 	 14 	 NP[nb]/N 	 1 	 turnaround a
+16 	 15 	 N/N 	 1 	 turnaround big
+16 	 17 	 (NP\NP)/NP 	 1 	 turnaround in
+19 	 17 	 (NP\NP)/NP 	 2 	 trend in
+19 	 18 	 NP[nb]/N 	 1 	 trend the
+19 	 20 	 (NP\NP)/NP 	 1 	 trend in
+21 	 20 	 (NP\NP)/NP 	 2 	 advertising in
+<\s>
+<s id="wsj_1693.12"> 27
+2 	 0 	 N/N 	 1 	 Reidy John
+2 	 1 	 N/N 	 1 	 Reidy S.
+2 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 Reidy said
+5 	 4 	 NP[nb]/N 	 1 	 analyst an
+5 	 6 	 (NP\NP)/NP 	 1 	 analyst for
+5 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 analyst said
+10 	 6 	 (NP\NP)/NP 	 2 	 Inc. for
+10 	 7 	 N/N 	 1 	 Inc. Drexel
+10 	 8 	 N/N 	 1 	 Inc. Burnham
+10 	 9 	 N/N 	 1 	 Inc. Lambert
+15 	 14 	 NP[nb]/N 	 1 	 Times The
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 Times faces
+16 	 12 	 (S[dcl]\NP)/S[dcl] 	 2 	 faces said
+16 	 23 	 (S\S)/S[dcl] 	 1 	 faces :
+19 	 16 	 (S[dcl]\NP)/NP 	 2 	 problem faces
+19 	 17 	 NP[nb]/N 	 1 	 problem the
+19 	 18 	 N/N 	 1 	 problem same
+19 	 20 	 (NP\NP)/NP 	 1 	 problem of
+22 	 20 	 (NP\NP)/NP 	 2 	 publishers of
+22 	 21 	 N/N 	 1 	 publishers other
+24 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 linage is
+24 	 26 	 S[adj]\NP 	 1 	 linage down <XB>
+25 	 23 	 (S\S)/S[dcl] 	 2 	 is :
+26 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 down is
+<\s>
+<s id="wsj_1693.13"> 14
+0 	 1 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 1 	 It will
+2 	 1 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 2 	 be will
+2 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 be until
+3 	 2 	 ((S[b]\NP)/(S[to]\NP))/(S[adj]\NP) 	 3 	 hard be
+4 	 2 	 ((S[b]\NP)/(S[to]\NP))/(S[adj]\NP) 	 2 	 to be
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+6 	 5 	 (S[b]\NP)/NP 	 2 	 handstands do
+9 	 8 	 N/N 	 1 	 linage real
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 linage starts
+9 	 11 	 S[ng]\NP 	 1 	 linage heading <XB>
+10 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 starts until
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 heading starts
+11 	 13 	 (S\NP)\(S\NP) 	 2 	 heading up
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 up back
+<\s>
+<s id="wsj_1693.14"> 27
+3 	 0 	 (S/S)/NP 	 2 	 report In
+3 	 1 	 NP[nb]/N 	 1 	 report the
+3 	 2 	 N/N 	 1 	 report quarterly
+7 	 5 	 N/N 	 1 	 Sulzberger Arthur
+7 	 6 	 N/N 	 1 	 Sulzberger Ochs
+7 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 Sulzberger said
+13 	 9 	 N/N 	 1 	 chairman New
+13 	 10 	 N/N 	 1 	 chairman York
+13 	 11 	 N/N 	 1 	 chairman Times
+13 	 12 	 N/N 	 1 	 chairman Co.
+13 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 chairman said
+17 	 9 	 N/N 	 1 	 officer New
+17 	 10 	 N/N 	 1 	 officer York
+17 	 11 	 N/N 	 1 	 officer Times
+17 	 12 	 N/N 	 1 	 officer Co.
+17 	 15 	 N/N 	 1 	 officer chief
+17 	 16 	 N/N 	 1 	 officer executive
+17 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 officer said
+19 	 0 	 (S/S)/NP 	 1 	 said In
+21 	 20 	 N/N 	 1 	 factors negative
+21 	 22 	 (S[ng]\NP)/NP 	 1 	 factors affecting <XB>
+21 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 factors will
+21 	 26 	 S[b]\NP 	 1 	 factors continue <XB>
+24 	 22 	 (S[ng]\NP)/NP 	 2 	 earnings affecting
+24 	 23 	 N/N 	 1 	 earnings third-quarter
+25 	 19 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue will
+<\s>
+<s id="wsj_1693.15"> 16
+0 	 1 	 ((S[dcl]\NP)/S[em])/PP 	 1 	 Analysts agreed
+2 	 1 	 ((S[dcl]\NP)/S[em])/PP 	 3 	 with agreed
+4 	 2 	 PP/NP 	 1 	 expectations with
+4 	 3 	 N/N 	 1 	 expectations company
+5 	 1 	 ((S[dcl]\NP)/S[em])/PP 	 2 	 that agreed
+7 	 6 	 N/N 	 1 	 profit operating
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 profit will
+7 	 9 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 1 	 profit be <XB>
+8 	 5 	 S[em]/S[dcl] 	 1 	 will that
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+10 	 9 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 3 	 down be
+12 	 9 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 2 	 year be
+12 	 10 	 S[adj]\NP 	 1 	 year down <XB>
+12 	 11 	 NP[nb]/N 	 1 	 year this
+14 	 9 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 2 	 in be
+14 	 10 	 S[adj]\NP 	 1 	 in down <XB>
+15 	 14 	 PP/NP 	 1 	 1990 in
+<\s>
+<s id="wsj_1693.16"> 25
+1 	 0 	 N/N 	 1 	 Sulzberger Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Sulzberger said
+5 	 3 	 NP[nb]/N 	 1 	 opening the
+5 	 4 	 N/N 	 1 	 opening scheduled
+5 	 6 	 (NP\NP)/NP 	 1 	 opening of
+5 	 16 	 (NP\NP)/NP 	 1 	 opening in
+5 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 opening would
+5 	 19 	 (S[b]\NP)/NP 	 1 	 opening involve <XB>
+10 	 6 	 (NP\NP)/NP 	 2 	 plant of
+10 	 7 	 NP[nb]/N 	 1 	 plant a
+10 	 8 	 N/N 	 1 	 plant new
+10 	 9 	 N/N 	 1 	 plant color-printing
+10 	 11 	 (NP\NP)/NP 	 1 	 plant in
+12 	 11 	 (NP\NP)/NP 	 2 	 Edison in
+14 	 11 	 (NP\NP)/NP 	 2 	 N.J. in
+17 	 16 	 (NP\NP)/NP 	 2 	 1990 in
+18 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 involve would
+24 	 19 	 (S[b]\NP)/NP 	 2 	 costs involve
+24 	 20 	 N/N 	 1 	 costs heavy
+24 	 21 	 N/N 	 1 	 costs startup
+24 	 23 	 N/N 	 1 	 costs depreciation
+<\s>
+<s id="wsj_1693.17"> 34
+3 	 0 	 ((S/S)/(S[ng]\NP))/NP 	 3 	 plant With
+3 	 1 	 NP[nb]/N 	 1 	 plant the
+3 	 2 	 N/N 	 1 	 plant Edison
+3 	 4 	 (S[ng]\NP)/PP 	 1 	 plant coming <XB>
+4 	 0 	 ((S/S)/(S[ng]\NP))/NP 	 2 	 coming With
+4 	 8 	 (S\NP)\(S\NP) 	 2 	 coming summer
+5 	 4 	 (S[ng]\NP)/PP 	 2 	 on coming
+6 	 5 	 PP/NP 	 1 	 line on
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 summer next
+11 	 10 	 NP[nb]/N 	 1 	 Times the
+11 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Times is
+11 	 13 	 (S[ng]\NP)/NP 	 1 	 Times facing <XB>
+12 	 0 	 ((S/S)/(S[ng]\NP))/NP 	 1 	 is With
+12 	 22 	 (S[dcl]\S[dcl])/NP 	 1 	 is said
+13 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 facing is
+17 	 13 	 (S[ng]\NP)/NP 	 2 	 comparison facing
+17 	 14 	 NP[nb]/N 	 1 	 comparison some
+17 	 15 	 N/N 	 1 	 comparison tough
+17 	 16 	 N/N 	 1 	 comparison earnings
+17 	 18 	 (NP\NP)/NP 	 1 	 comparison in
+20 	 18 	 (NP\NP)/NP 	 2 	 future in
+20 	 19 	 NP[nb]/N 	 1 	 future the
+24 	 22 	 (S[dcl]\S[dcl])/NP 	 2 	 Appert said
+24 	 23 	 N/N 	 1 	 Appert Peter
+27 	 22 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst said
+27 	 26 	 NP[nb]/N 	 1 	 analyst an
+27 	 28 	 (NP\NP)/NP 	 1 	 analyst with
+33 	 28 	 (NP\NP)/NP 	 2 	 Grenfell with
+33 	 29 	 N/N 	 1 	 Grenfell C.J.
+33 	 30 	 N/N 	 1 	 Grenfell Lawrence
+33 	 32 	 N/N 	 1 	 Grenfell Morgan
+<\s>
+<s id="wsj_1693.18"> 7
+2 	 1 	 N/N 	 1 	 newspapers many
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 newspapers are
+2 	 4 	 (S[ng]\NP)/NP 	 1 	 newspapers facing <XB>
+3 	 0 	 S/S 	 1 	 are But
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 facing are
+6 	 4 	 (S[ng]\NP)/NP 	 2 	 comparisons facing
+6 	 5 	 N/N 	 1 	 comparisons similar
+<\s>
+<s id="wsj_1693.19"> 26
+1 	 0 	 NP[nb]/N 	 1 	 sale The
+1 	 2 	 (NP\NP)/NP 	 1 	 sale of
+1 	 8 	 (S[dcl]\NP)/NP 	 1 	 sale brought
+4 	 3 	 NP[nb]/N 	 1 	 company the
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 company 's
+7 	 2 	 (NP\NP)/NP 	 2 	 franchise of
+7 	 5 	 (NP[nb]/N)\NP 	 1 	 franchise 's
+7 	 6 	 N/N 	 1 	 franchise cable
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 gain brought
+11 	 9 	 NP[nb]/N 	 1 	 gain an
+11 	 10 	 N/N 	 1 	 gain after-tax
+11 	 12 	 (NP\NP)/NP 	 1 	 gain of
+11 	 19 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 1 	 gain which
+13 	 12 	 (NP\NP)/NP 	 2 	 $ of
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 193.3
+17 	 18 	 (NP\NP)/NP 	 1 	 part of
+17 	 19 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 3 	 part which
+20 	 19 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 2 	 will which
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+22 	 21 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+23 	 22 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reduce to
+25 	 24 	 (S[b]\NP)/NP 	 2 	 debt reduce
+<\s>
+<s id="wsj_1693.20"> 7
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 company has
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 has also
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 plan has
+6 	 4 	 NP[nb]/N 	 1 	 plan a
+6 	 5 	 N/N 	 1 	 plan stock-repurchase
+<\s>
+<s id="wsj_1693.21"> 53
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Analysts said
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 they were
+2 	 4 	 S[pss]\NP 	 1 	 they impressed <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 impressed were
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 impressed by
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 performance by
+7 	 6 	 NP[nb]/N 	 1 	 performance the
+7 	 8 	 (NP\NP)/NP 	 1 	 performance of
+10 	 9 	 NP[nb]/N 	 1 	 company the
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 company 's
+13 	 8 	 (NP\NP)/NP 	 2 	 group of
+13 	 11 	 (NP[nb]/N)\NP 	 1 	 group 's
+13 	 12 	 N/N 	 1 	 group newspaper
+13 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 group which
+13 	 16 	 (S[dcl]\NP)/PP 	 1 	 group consists <XB>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 consists which
+17 	 16 	 (S[dcl]\NP)/PP 	 2 	 of consists
+19 	 17 	 PP/NP 	 1 	 Times of
+19 	 18 	 NP[nb]/N 	 1 	 Times the
+23 	 17 	 PP/NP 	 1 	 newspapers of
+23 	 21 	 N/N 	 1 	 newspapers 35
+23 	 22 	 N/N 	 1 	 newspapers regional
+27 	 17 	 PP/NP 	 1 	 interest of
+27 	 25 	 NP[nb]/N 	 1 	 interest a
+27 	 26 	 N/N 	 1 	 interest one-third
+27 	 28 	 (NP\NP)/NP 	 1 	 interest in
+32 	 28 	 (NP\NP)/NP 	 2 	 Tribune in
+32 	 29 	 NP[nb]/N 	 1 	 Tribune the
+32 	 30 	 N/N 	 1 	 Tribune International
+32 	 31 	 N/N 	 1 	 Tribune Herald
+36 	 34 	 N/N 	 1 	 profit group
+36 	 35 	 N/N 	 1 	 profit operating
+36 	 37 	 (NP\NP)/NP 	 1 	 profit for
+36 	 40 	 S[dcl]\NP 	 1 	 profit increased
+39 	 37 	 (NP\NP)/NP 	 2 	 quarter for
+39 	 38 	 NP[nb]/N 	 1 	 quarter the
+40 	 41 	 (S\NP)\(S\NP) 	 2 	 increased slightly
+40 	 42 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+40 	 46 	 ((S\NP)\(S\NP))/NP 	 2 	 increased from
+40 	 50 	 ((S\NP)\(S\NP))/NP 	 2 	 increased on
+43 	 42 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+45 	 43 	 N/N[num] 	 1 	 million $
+45 	 44 	 N/N 	 1 	 million 34.9
+47 	 46 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+49 	 47 	 N/N[num] 	 1 	 million $
+49 	 48 	 N/N 	 1 	 million 34.5
+52 	 50 	 ((S\NP)\(S\NP))/NP 	 3 	 revenue on
+52 	 51 	 N/N 	 1 	 revenue flat
+<\s>
+<s id="wsj_1693.22"> 16
+1 	 0 	 N/N 	 1 	 Burnham Drexel
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Burnham 's
+4 	 2 	 (NP[nb]/N)\NP 	 1 	 Reidy 's
+4 	 3 	 N/N 	 1 	 Reidy Mr.
+4 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 Reidy pointed
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 pointed out
+7 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that pointed
+8 	 9 	 S[dcl]\NP 	 1 	 profits held
+9 	 7 	 S[em]/S[dcl] 	 1 	 held that
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 held up
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 held in
+15 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 environment in
+15 	 12 	 NP[nb]/N 	 1 	 environment a
+15 	 13 	 N/N 	 1 	 environment tough
+15 	 14 	 N/N 	 1 	 environment revenue
+<\s>
+<s id="wsj_1693.23"> 17
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That 's
+1 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 's when
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 sign 's
+4 	 2 	 NP[nb]/N 	 1 	 sign a
+4 	 3 	 N/N 	 1 	 sign good
+6 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 profits are
+6 	 8 	 S[adj]\NP 	 1 	 profits stable <XB>
+7 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are when
+7 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 are during
+8 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 stable are
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 time during
+11 	 10 	 NP[nb]/N 	 1 	 time a
+12 	 13 	 (S[dcl]\NP)/PP 	 1 	 revenue is
+14 	 13 	 (S[dcl]\NP)/PP 	 2 	 in is
+16 	 14 	 PP/NP 	 1 	 trough in
+16 	 15 	 NP[nb]/N 	 1 	 trough the
+<\s>

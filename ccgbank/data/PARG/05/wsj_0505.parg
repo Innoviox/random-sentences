@@ -1,0 +1,187 @@
+<s id="wsj_0505.1"> 26
+2 	 0 	 N/N 	 1 	 PLC Ratners
+2 	 1 	 N/N 	 1 	 PLC Group
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 PLC 's
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 subsidiary 's
+5 	 4 	 N/N 	 1 	 subsidiary U.S.
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 subsidiary has
+5 	 7 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 subsidiary agreed <XB>
+5 	 9 	 ((S[b]\NP)/PP)/NP 	 1 	 subsidiary acquire <XB>
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 agreed has
+8 	 7 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to agreed
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+13 	 9 	 ((S[b]\NP)/PP)/NP 	 3 	 's acquire
+13 	 10 	 NP/NP 	 1 	 's jewelry
+13 	 11 	 NP/NP 	 1 	 's retailer
+13 	 12 	 N/N 	 1 	 's Weisfield
+13 	 14 	 NP\NP 	 1 	 's Inc.
+15 	 9 	 ((S[b]\NP)/PP)/NP 	 2 	 for acquire
+16 	 15 	 PP/NP 	 1 	 $ for
+16 	 18 	 (NP\NP)/N 	 1 	 $ a
+17 	 16 	 N/N[num] 	 1 	 50 $
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+23 	 15 	 PP/NP 	 1 	 $ for
+23 	 22 	 N/N 	 1 	 $ about
+25 	 23 	 N/N[num] 	 1 	 million $
+25 	 24 	 N/N 	 1 	 million 55
+<\s>
+<s id="wsj_0505.2"> 22
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Weisfield 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 shares 's
+2 	 3 	 S[dcl]\NP 	 1 	 shares soared
+2 	 9 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 shares closing <XB>
+2 	 14 	 (S[b]\NP)/PP 	 1 	 shares close <XB>
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 soared on
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 announcement on
+6 	 5 	 NP[nb]/N 	 1 	 announcement the
+6 	 7 	 NP\NP 	 1 	 announcement yesterday
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 closing up
+9 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 closing in
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 $ up
+12 	 11 	 N/N[num] 	 1 	 11 $
+13 	 9 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to closing
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 close to
+15 	 14 	 (S[b]\NP)/PP 	 2 	 at close
+16 	 15 	 PP/NP 	 1 	 $ at
+17 	 16 	 N/N[num] 	 1 	 50 $
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+21 	 19 	 N/N 	 1 	 trading national
+21 	 20 	 N/N 	 1 	 trading over-the-counter
+<\s>
+<s id="wsj_0505.3"> 20
+0 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Ratners said
+3 	 2 	 N/N 	 1 	 's Weisfield
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 's said
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 they reached
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 reached said
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 agreement reached
+8 	 7 	 NP[nb]/N 	 1 	 agreement an
+8 	 9 	 (NP\NP)/NP 	 1 	 agreement in
+8 	 11 	 (NP\NP)/NP 	 1 	 agreement for
+10 	 9 	 (NP\NP)/NP 	 2 	 principle in
+13 	 11 	 (NP\NP)/NP 	 2 	 acquisition for
+13 	 12 	 NP[nb]/N 	 1 	 acquisition the
+13 	 14 	 (NP\NP)/NP 	 1 	 acquisition of
+13 	 17 	 (NP\NP)/NP 	 1 	 acquisition by
+16 	 14 	 (NP\NP)/NP 	 2 	 's of
+16 	 15 	 N/N 	 1 	 's Weisfield
+19 	 17 	 (NP\NP)/NP 	 2 	 Inc by
+19 	 18 	 N/N 	 1 	 Inc Sterling
+<\s>
+<s id="wsj_0505.4"> 11
+1 	 0 	 NP[nb]/N 	 1 	 companies The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 companies said
+4 	 3 	 NP[nb]/N 	 1 	 acquisition the
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 acquisition is
+4 	 6 	 (S[adj]\NP)/PP 	 1 	 acquisition subject <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+6 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 subject is
+7 	 6 	 (S[adj]\NP)/PP 	 2 	 to subject
+10 	 7 	 PP/NP 	 1 	 agreement to
+10 	 8 	 NP[nb]/N 	 1 	 agreement a
+10 	 9 	 N/N 	 1 	 agreement definitive
+<\s>
+<s id="wsj_0505.5"> 12
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 They said
+2 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 they expect
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 expect said
+5 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 transaction expect
+5 	 4 	 NP[nb]/N 	 1 	 transaction the
+5 	 8 	 S[pss]\NP 	 1 	 transaction completed <XB>
+6 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 completed be
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 completed by
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Dec. by
+11 	 10 	 N/N[num] 	 1 	 15 Dec.
+<\s>
+<s id="wsj_0505.6"> 18
+1 	 0 	 N/N 	 1 	 's Weisfield
+1 	 3 	 S[pss]\NP 	 1 	 's based <XB>
+1 	 10 	 (S[dcl]\NP)/NP 	 1 	 's operates
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Seattle in
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Wash. in
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 operates currently
+14 	 10 	 (S[dcl]\NP)/NP 	 2 	 stores operates
+14 	 11 	 N/N 	 1 	 stores 87
+14 	 12 	 N/N 	 1 	 stores specialty
+14 	 13 	 N/N 	 1 	 stores jewelry
+14 	 15 	 (NP\NP)/NP 	 1 	 stores in
+17 	 15 	 (NP\NP)/NP 	 2 	 states in
+17 	 16 	 N/N 	 1 	 states nine
+<\s>
+<s id="wsj_0505.7"> 23
+3 	 0 	 (S/S)/NP 	 2 	 year In
+3 	 1 	 NP[nb]/N 	 1 	 year the
+3 	 2 	 N/N 	 1 	 year fiscal
+3 	 4 	 S[pss]\NP 	 1 	 year ended <XB>
+4 	 5 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended Jan.
+6 	 5 	 ((S\NP)\(S\NP))/N[num] 	 3 	 31 Jan.
+9 	 8 	 NP[nb]/N 	 1 	 company the
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 company reported
+10 	 0 	 (S/S)/NP 	 1 	 reported In
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 sales reported
+11 	 12 	 (NP\NP)/NP 	 1 	 sales of
+13 	 12 	 (NP\NP)/NP 	 2 	 $ of
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 59.5
+18 	 10 	 (S[dcl]\NP)/NP 	 2 	 profit reported
+18 	 17 	 N/N 	 1 	 profit pretax
+18 	 19 	 (NP\NP)/NP 	 1 	 profit of
+20 	 19 	 (NP\NP)/NP 	 2 	 $ of
+22 	 20 	 N/N[num] 	 1 	 million $
+22 	 21 	 N/N 	 1 	 million 2.9
+<\s>
+<s id="wsj_0505.8"> 26
+0 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Ratners which
+0 	 3 	 (S[dcl]\NP)/NP 	 1 	 Ratners controls <XB>
+0 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Ratners would
+0 	 13 	 (S[b]\NP)/NP 	 1 	 Ratners increase <XB>
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 controls which
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 % controls
+5 	 4 	 N/N 	 1 	 % 25
+5 	 6 	 (NP\NP)/NP 	 1 	 % of
+10 	 6 	 (NP\NP)/NP 	 2 	 market of
+10 	 7 	 NP[nb]/N 	 1 	 market the
+10 	 8 	 N/N 	 1 	 market British
+10 	 9 	 N/N 	 1 	 market jewelry
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 increase would
+13 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 increase to
+13 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 increase from
+15 	 13 	 (S[b]\NP)/NP 	 2 	 number increase
+15 	 14 	 NP[nb]/N 	 1 	 number the
+15 	 16 	 (NP\NP)/NP 	 1 	 number of
+19 	 16 	 (NP\NP)/NP 	 2 	 stores of
+19 	 17 	 NP[nb]/N 	 1 	 stores its
+19 	 18 	 N/N 	 1 	 stores U.S.
+22 	 21 	 (N/N)/(N/N) 	 2 	 450 about
+23 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 stores to
+23 	 22 	 N/N 	 1 	 stores 450
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 360 from
+<\s>
+<s id="wsj_0505.9"> 24
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 It has
+0 	 2 	 (S[pt]\NP)/S[dcl] 	 1 	 It said <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said has
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it hopes
+3 	 6 	 (S[b]\NP)/NP 	 1 	 it control <XB>
+4 	 2 	 (S[pt]\NP)/S[dcl] 	 2 	 hopes said
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to hopes
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 control to
+6 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 control by
+8 	 6 	 (S[b]\NP)/NP 	 2 	 % control
+8 	 7 	 N/N 	 1 	 % 5
+8 	 9 	 (NP\NP)/NP 	 1 	 % of
+11 	 9 	 (NP\NP)/NP 	 2 	 business of
+11 	 10 	 N/N 	 1 	 business jewelry
+11 	 12 	 (NP\NP)/NP 	 1 	 business in
+14 	 12 	 (NP\NP)/NP 	 2 	 U.S. in
+14 	 13 	 NP[nb]/N 	 1 	 U.S. the
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 1992 by
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 it controls
+20 	 18 	 S/S 	 1 	 controls currently
+22 	 21 	 (N/N)/(N/N) 	 2 	 2 about
+23 	 20 	 (S[dcl]\NP)/NP 	 2 	 % controls
+23 	 22 	 N/N 	 1 	 % 2
+<\s>

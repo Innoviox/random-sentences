@@ -1,0 +1,954 @@
+<s id="wsj_0416.1"> 4
+1 	 0 	 N/N 	 1 	 Regulation Hospital
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Regulation Sparks
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 Feud Sparks
+4 	 3 	 N/N 	 1 	 Feud Kentucky
+<\s>
+<s id="wsj_0416.2"> 13
+1 	 0 	 S[wq]/(S[dcl]\NP) 	 1 	 IS WHICH
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 medicine IS
+4 	 2 	 NP[nb]/N 	 1 	 medicine the
+4 	 3 	 N/N 	 1 	 medicine best
+4 	 5 	 (NP\NP)/NP 	 1 	 medicine for
+4 	 9 	 (NP\NP)/NP 	 1 	 medicine :
+8 	 5 	 (NP\NP)/NP 	 2 	 costs for
+8 	 6 	 N/N 	 1 	 costs runaway
+8 	 7 	 N/N 	 1 	 costs health
+10 	 9 	 (NP\NP)/NP 	 2 	 competition :
+12 	 9 	 (NP\NP)/NP 	 2 	 regulation :
+<\s>
+<s id="wsj_0416.3"> 31
+1 	 0 	 NP[nb]/N 	 1 	 question The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 question is
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 at is
+5 	 3 	 PP/NP 	 1 	 root at
+5 	 4 	 NP[nb]/N 	 1 	 root the
+5 	 6 	 (NP\NP)/NP 	 1 	 root of
+8 	 6 	 (NP\NP)/NP 	 2 	 brawl of
+8 	 7 	 NP[nb]/N 	 1 	 brawl a
+8 	 9 	 (NP\NP)/NP 	 1 	 brawl between
+11 	 9 	 (NP\NP)/NP 	 2 	 Inc. between
+11 	 10 	 N/N 	 1 	 Inc. Humana
+16 	 9 	 (NP\NP)/NP 	 2 	 hospital between
+16 	 13 	 NP[nb]/N 	 1 	 hospital the
+16 	 14 	 N/N 	 1 	 hospital big
+16 	 15 	 N/N 	 1 	 hospital for-profit
+19 	 9 	 (NP\NP)/NP 	 2 	 company between
+19 	 13 	 NP[nb]/N 	 1 	 company the
+19 	 14 	 N/N 	 1 	 company big
+19 	 15 	 N/N 	 1 	 company for-profit
+19 	 18 	 N/N 	 1 	 company insurance
+24 	 9 	 (NP\NP)/NP 	 2 	 brethren between
+24 	 22 	 NP[nb]/N 	 1 	 brethren its
+24 	 23 	 N/N 	 1 	 brethren not-for-profit
+24 	 25 	 (NP\NP)/NP 	 1 	 brethren in
+28 	 25 	 (NP\NP)/NP 	 2 	 state in
+28 	 26 	 NP[nb]/N 	 1 	 state its
+28 	 27 	 N/N 	 1 	 state home
+28 	 29 	 (NP\NP)/NP 	 1 	 state of
+30 	 29 	 (NP\NP)/NP 	 2 	 Kentucky of
+<\s>
+<s id="wsj_0416.4"> 17
+1 	 0 	 NP[nb]/N 	 1 	 battle The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 battle focuses
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 on focuses
+5 	 4 	 NP[nb]/N 	 1 	 state the
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 state 's
+8 	 3 	 PP/NP 	 1 	 law on
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 law 's
+8 	 7 	 N/N 	 1 	 law certificate-of-need
+8 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 law which
+8 	 11 	 (S[dcl]\NP)/NP 	 1 	 law regulates <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 regulates which
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 investment regulates
+12 	 13 	 (NP\NP)/NP 	 1 	 investment in
+16 	 13 	 (NP\NP)/NP 	 2 	 technology in
+16 	 14 	 N/N 	 1 	 technology new
+16 	 15 	 N/N 	 1 	 technology medical
+<\s>
+<s id="wsj_0416.5"> 25
+1 	 0 	 NP[nb]/N 	 1 	 law The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 law has
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 law prevented <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 prevented has
+3 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 prevented since
+3 	 13 	 ((S\NP)\(S\NP))/PP 	 2 	 prevented according
+4 	 3 	 (S[pt]\NP)/NP 	 2 	 $ prevented
+4 	 7 	 (NP\NP)/NP 	 1 	 $ of
+6 	 4 	 N/N[num] 	 1 	 million $
+6 	 5 	 N/N 	 1 	 million 216
+9 	 7 	 (NP\NP)/NP 	 2 	 expenditures of
+9 	 8 	 N/N 	 1 	 expenditures unnecessary
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 1986 since
+14 	 13 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+17 	 14 	 PP/NP 	 1 	 Conn to
+17 	 15 	 N/N 	 1 	 Conn William
+17 	 16 	 N/N 	 1 	 Conn S.
+19 	 14 	 PP/NP 	 1 	 president to
+19 	 20 	 (NP\NP)/NP 	 1 	 president of
+24 	 20 	 (NP\NP)/NP 	 2 	 Association of
+24 	 21 	 NP[nb]/N 	 1 	 Association the
+24 	 22 	 N/N 	 1 	 Association Kentucky
+24 	 23 	 N/N 	 1 	 Association Hospital
+<\s>
+<s id="wsj_0416.6"> 21
+2 	 1 	 (S/S)/PP 	 2 	 to according
+4 	 2 	 PP/NP 	 1 	 Jones to
+4 	 3 	 N/N 	 1 	 Jones David
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Humana 's
+9 	 2 	 PP/NP 	 1 	 executive to
+9 	 7 	 (NP[nb]/N)\NP 	 1 	 executive 's
+9 	 8 	 N/N 	 1 	 executive chief
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 it promotes
+11 	 16 	 (S[dcl]\NP)/NP 	 1 	 it stifles <XU>
+11 	 19 	 (S[dcl]\NP)/NP 	 1 	 it raises <XU>
+12 	 0 	 S/S 	 1 	 promotes But
+12 	 1 	 (S/S)/PP 	 1 	 promotes according
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 monopolies promotes
+14 	 13 	 N/N 	 1 	 monopolies technology
+16 	 0 	 S/S 	 1 	 stifles But
+16 	 1 	 (S/S)/PP 	 1 	 stifles according
+17 	 16 	 (S[dcl]\NP)/NP 	 2 	 innovation stifles
+19 	 0 	 S/S 	 1 	 raises But
+19 	 1 	 (S/S)/PP 	 1 	 raises according
+20 	 19 	 (S[dcl]\NP)/NP 	 2 	 prices raises
+<\s>
+<s id="wsj_0416.7"> 34
+2 	 1 	 NP[nb]/N 	 1 	 Legislature the
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Legislature does
+2 	 5 	 (S[b]\NP)/NP 	 1 	 Legislature repeal <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 does If
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 does n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 repeal does
+7 	 5 	 (S[b]\NP)/NP 	 2 	 law repeal
+7 	 6 	 NP[nb]/N 	 1 	 law the
+7 	 9 	 S[adj]\NP 	 1 	 law due <XB>
+9 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 due for
+9 	 12 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 due in
+11 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 revision for
+13 	 12 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 1990 in
+16 	 15 	 N/N 	 1 	 Jones Mr.
+16 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 Jones says
+17 	 0 	 (S/S)/S[dcl] 	 1 	 says If
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Humana may
+18 	 20 	 (S[b]\NP)/NP 	 1 	 Humana move <XB>
+19 	 17 	 (S[dcl]\NP)/S[dcl] 	 2 	 may says
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 move may
+20 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 move to
+23 	 20 	 (S[b]\NP)/NP 	 2 	 operations move
+23 	 21 	 NP[nb]/N 	 1 	 operations its
+23 	 22 	 N/N 	 1 	 operations insurance
+23 	 25 	 (NP\NP)/NP 	 1 	 operations including
+27 	 25 	 (NP\NP)/NP 	 2 	 jobs including
+27 	 26 	 N/N 	 1 	 jobs 3,000
+27 	 28 	 (NP\NP)/NP 	 1 	 jobs in
+29 	 28 	 (NP\NP)/NP 	 2 	 Louisville in
+33 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 state to
+33 	 32 	 NP[nb]/N 	 1 	 state another
+<\s>
+<s id="wsj_0416.8"> 25
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 company complains
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that complains
+4 	 5 	 (((S[dcl]\NP)/PP)/PP)/NP 	 1 	 it paid
+5 	 3 	 S[em]/S[dcl] 	 1 	 paid that
+5 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 paid in
+6 	 5 	 (((S[dcl]\NP)/PP)/PP)/NP 	 4 	 $ paid
+8 	 6 	 N/N[num] 	 1 	 million $
+8 	 7 	 N/N 	 1 	 million 10
+9 	 5 	 (((S[dcl]\NP)/PP)/PP)/NP 	 3 	 to paid
+11 	 9 	 PP/NP 	 1 	 hospitals to
+11 	 10 	 N/N 	 1 	 hospitals non-Humana
+16 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 year in
+16 	 13 	 NP[nb]/N 	 1 	 year its
+16 	 14 	 N/N 	 1 	 year latest
+16 	 15 	 N/N 	 1 	 year fiscal
+17 	 5 	 (((S[dcl]\NP)/PP)/PP)/NP 	 2 	 for paid
+18 	 17 	 PP/NP 	 1 	 services for
+18 	 19 	 (S[pss]\NP)/PP 	 1 	 services provided <XB>
+20 	 19 	 (S[pss]\NP)/PP 	 2 	 to provided
+24 	 20 	 PP/NP 	 1 	 members to
+24 	 21 	 NP[nb]/N 	 1 	 members its
+24 	 22 	 N/N 	 1 	 members insurance
+24 	 23 	 N/N 	 1 	 members plan
+<\s>
+<s id="wsj_0416.9"> 17
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Humana says
+2 	 0 	 S/S 	 1 	 says But
+5 	 3 	 NP[nb]/N 	 1 	 facilities its
+5 	 4 	 N/N 	 1 	 facilities own
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 facilities could
+5 	 7 	 ((S[b]\NP)/PP)/NP 	 1 	 facilities serve <XB>
+6 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 could says
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 serve could
+7 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 serve if
+9 	 7 	 ((S[b]\NP)/PP)/NP 	 3 	 insured serve
+9 	 8 	 NP[nb]/N 	 1 	 insured its
+10 	 7 	 ((S[b]\NP)/PP)/NP 	 2 	 for serve
+11 	 10 	 PP/NP 	 1 	 less for
+13 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they were
+13 	 16 	 S[adj]\NP 	 1 	 they equipped <XB>
+14 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 were if
+16 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 equipped were
+16 	 15 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 equipped properly
+<\s>
+<s id="wsj_0416.10"> 11
+1 	 0 	 N/N 	 1 	 Conn Mr.
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Conn charges
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that charges
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Humana 's
+7 	 5 	 (NP[nb]/N)\NP 	 1 	 actions 's
+7 	 6 	 N/N 	 1 	 actions own
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 actions undermine
+8 	 3 	 S[em]/S[dcl] 	 1 	 undermine that
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 argument undermine
+10 	 9 	 NP[nb]/N 	 1 	 argument its
+<\s>
+<s id="wsj_0416.11"> 27
+2 	 1 	 NP[nb]/N 	 1 	 hospital a
+2 	 3 	 (NP\NP)/NP 	 1 	 hospital in
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 hospital installed
+4 	 3 	 (NP\NP)/NP 	 2 	 Lexington in
+5 	 0 	 (S/S)/S[dcl] 	 2 	 installed When
+5 	 9 	 (S\NP)\(S\NP) 	 2 	 installed year
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 lithotripter installed
+7 	 6 	 NP[nb]/N 	 1 	 lithotripter a
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year last
+11 	 12 	 (NP\NP)/NP 	 1 	 demand for
+11 	 18 	 (NP\NP)/NP 	 1 	 demand at
+11 	 24 	 S[dcl]\NP 	 1 	 demand fell
+17 	 12 	 (NP\NP)/NP 	 2 	 machine for
+17 	 13 	 NP[nb]/N 	 1 	 machine a
+17 	 14 	 N/N 	 1 	 machine similar
+17 	 15 	 N/N 	 1 	 machine kidney-stone
+17 	 16 	 N/N 	 1 	 machine smashing
+21 	 18 	 (NP\NP)/NP 	 2 	 hospital at
+21 	 19 	 NP[nb]/N 	 1 	 hospital a
+21 	 20 	 N/N 	 1 	 hospital Humana
+21 	 22 	 (NP\NP)/NP 	 1 	 hospital in
+23 	 22 	 (NP\NP)/NP 	 2 	 Louisville in
+24 	 0 	 (S/S)/S[dcl] 	 1 	 fell When
+24 	 26 	 (S\NP)\(S\NP) 	 2 	 fell %
+26 	 25 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 34
+<\s>
+<s id="wsj_0416.12"> 39
+2 	 0 	 NP[nb]/N 	 1 	 hospital The
+2 	 1 	 N/N 	 1 	 hospital Humana
+2 	 3 	 S[dcl]\NP 	 1 	 hospital responded
+2 	 5 	 (S[ng]\NP)/NP 	 1 	 hospital jacking <XB>
+2 	 9 	 (S[b]\NP)/PP 	 1 	 hospital make <XB>
+2 	 21 	 ((S[dcl]\NP)/PP)/NP 	 1 	 hospital charges <XU>
+3 	 4 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 responded by
+5 	 4 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 jacking by
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 jacking up
+7 	 5 	 (S[ng]\NP)/NP 	 2 	 prices jacking
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 make up
+11 	 9 	 (S[b]\NP)/PP 	 2 	 for make
+13 	 11 	 PP/NP 	 1 	 revenue for
+13 	 12 	 N/N 	 1 	 revenue lost
+16 	 15 	 N/N 	 1 	 Conn Mr.
+16 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 Conn says
+21 	 20 	 (S\NP)/(S\NP) 	 2 	 charges now
+22 	 21 	 ((S[dcl]\NP)/PP)/NP 	 3 	 as charges
+23 	 22 	 (N/PP)/(S[adj]\NP) 	 2 	 much as
+24 	 22 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+25 	 24 	 PP/NP 	 1 	 $ as
+26 	 25 	 N/N[num] 	 1 	 8,000 $
+27 	 21 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for charges
+29 	 27 	 PP/NP 	 1 	 procedure for
+29 	 28 	 NP[nb]/N 	 1 	 procedure the
+29 	 31 	 (NP\NP)/(S[dcl]\NP) 	 1 	 procedure which
+29 	 32 	 (S[dcl]\NP)/NP 	 1 	 procedure costs <XB>
+32 	 31 	 (NP\NP)/(S[dcl]\NP) 	 2 	 costs which
+32 	 33 	 (S\NP)\(S\NP) 	 2 	 costs only
+32 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 costs in
+35 	 32 	 (S[dcl]\NP)/NP 	 2 	 $ costs
+35 	 34 	 N/N 	 1 	 $ about
+36 	 35 	 N/N[num] 	 1 	 3,500 $
+38 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 Lexington in
+<\s>
+<s id="wsj_0416.13"> 19
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Humana contends
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that contends
+3 	 5 	 (S[dcl]\NP)/NP 	 1 	 $ represents
+4 	 3 	 N/N[num] 	 1 	 8,000 $
+5 	 2 	 S[em]/S[dcl] 	 1 	 represents that
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 case represents
+8 	 6 	 NP[nb]/N 	 1 	 case an
+8 	 7 	 N/N 	 1 	 case extreme
+10 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that contends
+13 	 11 	 NP[nb]/N 	 1 	 charge its
+13 	 12 	 N/N 	 1 	 charge regular
+13 	 14 	 (NP\NP)/NP 	 1 	 charge for
+13 	 16 	 (S[dcl]\NP)/NP 	 1 	 charge is
+15 	 14 	 (NP\NP)/NP 	 2 	 lithotripsy for
+16 	 10 	 S[em]/S[dcl] 	 1 	 is that
+17 	 16 	 (S[dcl]\NP)/NP 	 2 	 $ is
+18 	 17 	 N/N[num] 	 1 	 4,900 $
+<\s>
+<s id="wsj_0416.14"> 20
+3 	 2 	 NP[nb]/N 	 1 	 hospital another
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 hospital 's
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 proposal 's
+5 	 6 	 (NP\NP)/NP 	 1 	 proposal for
+5 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 proposal is
+5 	 11 	 S[adj]\NP 	 1 	 proposal pending <XB>
+9 	 6 	 (NP\NP)/NP 	 2 	 lithotripter for
+9 	 7 	 NP[nb]/N 	 1 	 lithotripter a
+9 	 8 	 N/N 	 1 	 lithotripter new-generation
+10 	 0 	 S/S 	 1 	 is Meanwhile
+10 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 is before
+11 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 pending is
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 board before
+14 	 13 	 NP[nb]/N 	 1 	 board the
+14 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 board that
+14 	 16 	 (S[dcl]\NP)/NP 	 1 	 board administers <XB>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 administers that
+19 	 16 	 (S[dcl]\NP)/NP 	 2 	 law administers
+19 	 17 	 NP[nb]/N 	 1 	 law the
+19 	 18 	 N/N 	 1 	 law certificate-of-need
+<\s>
+<s id="wsj_0416.15"> 22
+0 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Humana which
+0 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Humana wants <XB>
+0 	 5 	 (S[b]\NP)/NP 	 1 	 Humana acquire <XB>
+0 	 13 	 (S[dcl]\NP)/PP 	 1 	 Humana is
+0 	 18 	 (S[adj]\NP)/PP 	 1 	 Humana opposed <XB>
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 wants which
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wants
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+5 	 11 	 (S\NP)\(S\NP) 	 2 	 acquire itself
+6 	 5 	 (S[b]\NP)/NP 	 2 	 one acquire
+6 	 7 	 (NP\NP)/NP 	 1 	 one of
+10 	 7 	 (NP\NP)/NP 	 2 	 machines of
+10 	 8 	 NP[nb]/N 	 1 	 machines the
+10 	 9 	 N/N 	 1 	 machines new
+13 	 17 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 is as
+14 	 13 	 (S[dcl]\NP)/PP 	 2 	 on is
+16 	 14 	 PP/NP 	 1 	 record on
+16 	 15 	 NP[nb]/N 	 1 	 record the
+18 	 17 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 opposed as
+19 	 18 	 (S[adj]\NP)/PP 	 2 	 to opposed
+21 	 19 	 PP/NP 	 1 	 proposal to
+21 	 20 	 NP[nb]/N 	 1 	 proposal the
+<\s>
+<s id="wsj_0416.16"> 4
+1 	 0 	 N/N 	 1 	 Doctors Debt-Burdened
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Doctors Seek
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 Security Seek
+4 	 3 	 N/N 	 1 	 Security Financial
+<\s>
+<s id="wsj_0416.17"> 34
+1 	 0 	 N/N 	 1 	 experts HEALTH-CARE
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 experts have
+1 	 4 	 (S[pt]\NP)/S[em] 	 1 	 experts worried <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 have long
+4 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 worried have
+5 	 4 	 (S[pt]\NP)/S[em] 	 2 	 that worried
+7 	 6 	 N/N 	 1 	 doctors young
+7 	 8 	 S[ng]\NP 	 1 	 doctors emerging <XB>
+7 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 doctors will
+7 	 18 	 (S[b]\NP)/NP 	 1 	 doctors choose <XB>
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 emerging from
+8 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 emerging with
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 school from
+11 	 10 	 N/N 	 1 	 school medical
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 mountain with
+14 	 13 	 NP[nb]/N 	 1 	 mountain a
+14 	 15 	 (NP\NP)/NP 	 1 	 mountain of
+16 	 15 	 (NP\NP)/NP 	 2 	 debt of
+17 	 5 	 S[em]/S[dcl] 	 1 	 will that
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 choose will
+19 	 18 	 (S[b]\NP)/NP 	 2 	 careers choose
+19 	 20 	 (NP\NP)/NP 	 1 	 careers in
+22 	 20 	 (NP\NP)/NP 	 2 	 specialties in
+22 	 21 	 N/N 	 1 	 specialties high-paying
+22 	 23 	 (NP\NP)/PP 	 1 	 specialties instead
+24 	 23 	 (NP\NP)/PP 	 2 	 of instead
+26 	 24 	 PP/NP 	 1 	 care of
+26 	 25 	 N/N 	 1 	 care primary
+26 	 28 	 (NP\NP)/S[dcl] 	 1 	 care where
+30 	 29 	 N/N 	 1 	 physicians more
+30 	 31 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 physicians are
+30 	 32 	 S[pss]\NP 	 1 	 physicians needed <XB>
+31 	 28 	 (NP\NP)/S[dcl] 	 2 	 are where
+32 	 31 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 needed are
+32 	 33 	 (S\NP)\(S\NP) 	 2 	 needed most
+<\s>
+<s id="wsj_0416.18"> 38
+1 	 2 	 (S[dcl]\NP[thr])/NP 	 1 	 there 's
+2 	 0 	 S/S 	 1 	 's Now
+2 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 's in
+5 	 2 	 (S[dcl]\NP[thr])/NP 	 2 	 wrinkle 's
+5 	 3 	 NP[nb]/N 	 1 	 wrinkle a
+5 	 4 	 N/N 	 1 	 wrinkle new
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 what in
+7 	 10 	 (S[dcl]\NP)/NP 	 2 	 what want <XU>
+9 	 8 	 N/N 	 1 	 doctors young
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 doctors want
+10 	 7 	 NP/(S[dcl]/NP) 	 1 	 want what
+12 	 13 	 (N/N)\(S[adj]\NP) 	 2 	 More than
+14 	 13 	 (N/N)\(S[adj]\NP) 	 1 	 half than
+14 	 15 	 (NP\NP)/NP 	 1 	 half of
+14 	 18 	 (S[ng]\NP)/PP 	 1 	 half responding <XB>
+14 	 22 	 (S[dcl]\NP)/S[dcl] 	 1 	 half said
+17 	 15 	 (NP\NP)/NP 	 2 	 residents of
+17 	 16 	 N/N 	 1 	 residents 300
+19 	 18 	 (S[ng]\NP)/PP 	 2 	 to responding
+21 	 19 	 PP/NP 	 1 	 survey to
+21 	 20 	 N/N 	 1 	 survey recent
+23 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they 'd
+23 	 25 	 ((S[b]\NP)/PP)/NP 	 1 	 they prefer <XB>
+24 	 22 	 (S[dcl]\NP)/S[dcl] 	 2 	 'd said
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 prefer 'd
+25 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 prefer in
+28 	 25 	 ((S[b]\NP)/PP)/NP 	 3 	 salary prefer
+28 	 26 	 NP[nb]/N 	 1 	 salary a
+28 	 27 	 N/N 	 1 	 salary guaranteed
+29 	 25 	 ((S[b]\NP)/PP)/NP 	 2 	 over prefer
+32 	 29 	 PP/NP 	 1 	 compensation over
+32 	 30 	 N/N 	 1 	 compensation traditional
+32 	 31 	 N/N 	 1 	 compensation fee-for-service
+37 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 position in
+37 	 34 	 NP[nb]/N 	 1 	 position their
+37 	 35 	 N/N 	 1 	 position first
+37 	 36 	 N/N 	 1 	 position professional
+<\s>
+<s id="wsj_0416.19"> 19
+2 	 1 	 N/N 	 1 	 % 81
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 % preferred
+3 	 0 	 S/S 	 1 	 preferred And
+3 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 preferred while
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 practice preferred
+6 	 4 	 NP[nb]/N 	 1 	 practice a
+6 	 5 	 N/N 	 1 	 practice group
+10 	 3 	 (S[dcl]\NP)/NP 	 2 	 organization preferred
+10 	 4 	 NP[nb]/N 	 1 	 organization a
+10 	 5 	 N/N 	 1 	 organization group
+10 	 8 	 N/N 	 1 	 organization health
+10 	 9 	 N/N 	 1 	 organization maintenance
+14 	 13 	 (N/N)/(N/N) 	 2 	 11 just
+15 	 14 	 N/N 	 1 	 % 11
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 % favored
+16 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 favored while
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 practice favored
+18 	 17 	 N/N 	 1 	 practice solo
+<\s>
+<s id="wsj_0416.20"> 46
+1 	 0 	 N/N 	 1 	 years Ten
+1 	 2 	 (S/S)\NP 	 2 	 years ago
+5 	 4 	 NP[nb]/N 	 1 	 physician a
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 physician would
+5 	 7 	 S[b]\NP 	 1 	 physician go <XB>
+5 	 12 	 (S[b]\NP)/NP 	 1 	 physician take <XU>
+5 	 18 	 (S[b]\NP)/NP 	 1 	 physician start <XU>
+6 	 2 	 (S/S)\NP 	 1 	 would ago
+6 	 23 	 (S[dcl]\S[dcl])/NP 	 1 	 would says
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go would
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 go to
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 town to
+10 	 9 	 NP[nb]/N 	 1 	 town a
+12 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take would
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 take out
+12 	 16 	 ((S\NP)\(S\NP))/(S[to]\NP) 	 2 	 take -LRB-
+15 	 12 	 (S[b]\NP)/NP 	 2 	 loan take
+15 	 14 	 NP[nb]/N 	 1 	 loan a
+17 	 16 	 ((S\NP)\(S\NP))/(S[to]\NP) 	 3 	 to -LRB-
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 start to
+20 	 18 	 (S[b]\NP)/NP 	 2 	 practice start
+20 	 19 	 NP[nb]/N 	 1 	 practice a
+25 	 23 	 (S[dcl]\S[dcl])/NP 	 2 	 Merritt says
+25 	 24 	 N/N 	 1 	 Merritt James
+27 	 23 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+27 	 28 	 (NP\NP)/NP 	 1 	 president of
+33 	 28 	 (NP\NP)/NP 	 2 	 Associates of
+33 	 29 	 N/N 	 1 	 Associates Merritt
+33 	 31 	 N/N 	 1 	 Associates Hawkins
+33 	 32 	 N/N 	 1 	 Associates &
+38 	 36 	 (N/N)/(N/N) 	 2 	 Calif. Irvine
+41 	 28 	 (NP\NP)/NP 	 2 	 recruiter of
+41 	 35 	 NP[nb]/N 	 1 	 recruiter an
+41 	 38 	 N/N 	 1 	 recruiter Calif.
+41 	 40 	 N/N 	 1 	 recruiter physician
+41 	 42 	 (NP\NP)/(S[dcl]\NP) 	 1 	 recruiter that
+41 	 43 	 (S[dcl]\NP)/NP 	 1 	 recruiter conducted <XB>
+43 	 42 	 (NP\NP)/(S[dcl]\NP) 	 2 	 conducted that
+45 	 43 	 (S[dcl]\NP)/NP 	 2 	 survey conducted
+45 	 44 	 NP[nb]/N 	 1 	 survey the
+<\s>
+<s id="wsj_0416.21"> 10
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 They wo
+0 	 3 	 (S[b]\NP)/NP 	 1 	 They do <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 wo n't
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 do wo
+3 	 6 	 (S\NP)\(S\NP) 	 2 	 do often
+3 	 7 	 (S\NP)\(S\NP) 	 2 	 do today
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 do at
+4 	 3 	 (S[b]\NP)/NP 	 2 	 that do
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 often very
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 all at
+<\s>
+<s id="wsj_0416.22"> 9
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 They 're
+0 	 2 	 (S[ng]\NP)/PP 	 1 	 They looking <XB>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 looking 're
+3 	 2 	 (S[ng]\NP)/PP 	 2 	 for looking
+4 	 3 	 PP/NP 	 1 	 something for
+4 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 something that
+4 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 something 's <XB>
+4 	 8 	 S[adj]\NP 	 1 	 something safe <XB>
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 's that
+8 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 safe 's
+8 	 7 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 safe very
+<\s>
+<s id="wsj_0416.23"> 41
+1 	 0 	 NP[nb]/N 	 1 	 numbers The
+1 	 2 	 (NP\NP)/NP 	 1 	 numbers behind
+1 	 34 	 ((NP\NP)\S[dcl])/NP 	 1 	 numbers says
+4 	 2 	 (NP\NP)/NP 	 2 	 fears behind
+4 	 3 	 NP/NP 	 1 	 fears such
+8 	 6 	 NP[nb]/N 	 1 	 debt The
+8 	 7 	 N/N 	 1 	 debt average
+8 	 9 	 (NP\NP)/NP 	 1 	 debt of
+8 	 20 	 S[dcl]\NP 	 1 	 debt jumped
+12 	 9 	 (NP\NP)/NP 	 2 	 graduates of
+12 	 10 	 N/N 	 1 	 graduates medical
+12 	 11 	 N/N 	 1 	 graduates school
+12 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 graduates who
+12 	 14 	 S[dcl]\NP 	 1 	 graduates borrowed <XB>
+12 	 16 	 (S[b]\NP)/PP 	 1 	 graduates pay <XB>
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 borrowed who
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+17 	 16 	 (S[b]\NP)/PP 	 2 	 for pay
+19 	 17 	 PP/NP 	 1 	 education for
+19 	 18 	 NP[nb]/N 	 1 	 education their
+20 	 22 	 (S\NP)\(S\NP) 	 2 	 jumped %
+20 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 jumped to
+20 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 jumped from
+20 	 34 	 ((NP\NP)\S[dcl])/NP 	 2 	 jumped says
+22 	 21 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 10
+23 	 26 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 3 	 to this
+24 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+25 	 24 	 N/N[num] 	 1 	 42,374 $
+27 	 26 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 4 	 year this
+28 	 31 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 from in
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+30 	 29 	 N/N[num] 	 1 	 38,489 $
+32 	 31 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 1988 in
+36 	 34 	 ((NP\NP)\S[dcl])/NP 	 3 	 Association says
+36 	 35 	 NP[nb]/N 	 1 	 Association the
+36 	 37 	 (NP\NP)/NP 	 1 	 Association of
+40 	 37 	 (NP\NP)/NP 	 2 	 Colleges of
+40 	 38 	 N/N 	 1 	 Colleges American
+40 	 39 	 N/N 	 1 	 Colleges Medical
+<\s>
+<s id="wsj_0416.24"> 8
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 That 's
+0 	 4 	 S[adj]\NP 	 1 	 That more <XB>
+3 	 2 	 ((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)) 	 3 	 % 115
+4 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 more 's
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 more %
+4 	 5 	 ((S[adj]\NP)\(S[adj]\NP))/PP 	 2 	 more than
+6 	 5 	 ((S[adj]\NP)\(S[adj]\NP))/PP 	 3 	 in than
+7 	 6 	 PP/NP 	 1 	 1981 in
+<\s>
+<s id="wsj_0416.25"> 12
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Money is
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is n't
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 reason is
+5 	 3 	 NP[nb]/N 	 1 	 reason the
+5 	 4 	 N/N 	 1 	 reason only
+5 	 6 	 (NP\NP)/NP 	 1 	 reason for
+8 	 6 	 (NP\NP)/NP 	 2 	 shift for
+8 	 7 	 NP[nb]/N 	 1 	 shift the
+8 	 9 	 (NP\NP)/NP 	 1 	 shift in
+11 	 9 	 (NP\NP)/NP 	 2 	 preferences in
+11 	 10 	 N/N 	 1 	 preferences practice
+<\s>
+<s id="wsj_0416.26"> 29
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It reflects
+1 	 16 	 (S[dcl]\S[dcl])/NP 	 1 	 reflects says
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 values reflects
+2 	 3 	 (NP\NP)/NP 	 1 	 values of
+5 	 3 	 (NP\NP)/NP 	 2 	 generation of
+5 	 4 	 NP[nb]/N 	 1 	 generation a
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 generation that
+5 	 7 	 (S[dcl]\NP)/NP 	 1 	 generation wants <XB>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 wants that
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 time wants
+9 	 8 	 N/N 	 1 	 time more
+9 	 10 	 (NP\NP)/NP 	 1 	 time for
+11 	 10 	 (NP\NP)/NP 	 2 	 families for
+14 	 10 	 (NP\NP)/NP 	 2 	 interests for
+14 	 13 	 N/N 	 1 	 interests personal
+20 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 III says
+20 	 17 	 N/N 	 1 	 III John
+20 	 18 	 N/N 	 1 	 III H.
+20 	 19 	 N/N 	 1 	 III Moxley
+20 	 22 	 (NP\NP)/(S[dcl]\NP) 	 1 	 III who
+20 	 23 	 (S[dcl]\NP)/NP 	 1 	 III directs <XB>
+23 	 22 	 (NP\NP)/(S[dcl]\NP) 	 2 	 directs who
+23 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 directs for
+25 	 23 	 (S[dcl]\NP)/NP 	 2 	 searches directs
+25 	 24 	 N/N 	 1 	 searches physician-executive
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 International for
+28 	 27 	 N/N 	 1 	 International Korn\/Ferry
+<\s>
+<s id="wsj_0416.27"> 13
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 This is
+1 	 12 	 (S[dcl]\S[dcl])\NP 	 1 	 is says
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 change is
+3 	 2 	 NP[nb]/N 	 1 	 change a
+3 	 4 	 (NP\NP)/NP 	 1 	 change in
+7 	 4 	 (NP\NP)/NP 	 2 	 fabric in
+7 	 5 	 NP[nb]/N 	 1 	 fabric the
+7 	 6 	 N/N 	 1 	 fabric social
+7 	 8 	 (NP\NP)/NP 	 1 	 fabric of
+9 	 8 	 (NP\NP)/NP 	 2 	 medicine of
+11 	 12 	 (S[dcl]\S[dcl])\NP 	 2 	 he says
+<\s>
+<s id="wsj_0416.28"> 4
+1 	 0 	 N/N 	 1 	 Roommates Related
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Roommates Trim
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 Bills Trim
+4 	 3 	 N/N 	 1 	 Bills Hospital
+<\s>
+<s id="wsj_0416.29"> 29
+2 	 1 	 N/N 	 1 	 Bobar Catherine
+2 	 3 	 S[dcl]\NP 	 1 	 Bobar spent
+3 	 0 	 (S/S)/S[dcl] 	 2 	 spent WHEN
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 spent weeks
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 spent at
+3 	 12 	 (S\NP)\(S\NP) 	 2 	 spent recently
+3 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 spent with
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 weeks several
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Center at
+9 	 7 	 NP[nb]/N 	 1 	 Center the
+9 	 8 	 N/N 	 1 	 Center Medical
+9 	 10 	 (NP\NP)/NP 	 1 	 Center of
+11 	 10 	 (NP\NP)/NP 	 2 	 Vermont of
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 infection with
+16 	 14 	 NP[nb]/N 	 1 	 infection a
+16 	 15 	 N/N 	 1 	 infection bone
+16 	 17 	 (NP\NP)/NP 	 1 	 infection in
+19 	 17 	 (NP\NP)/NP 	 2 	 toe in
+19 	 18 	 NP[nb]/N 	 1 	 toe her
+21 	 22 	 (S[dcl]\NP)/NP 	 1 	 she shared
+22 	 0 	 (S/S)/S[dcl] 	 1 	 shared WHEN
+22 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 shared like
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 room shared
+24 	 23 	 NP[nb]/N 	 1 	 room a
+26 	 25 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 like just
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 patients like
+28 	 27 	 N/N 	 1 	 patients most
+<\s>
+<s id="wsj_0416.30"> 10
+3 	 1 	 (S/S)/NP 	 2 	 patients unlike
+3 	 2 	 N/N 	 1 	 patients most
+6 	 5 	 NP[nb]/N 	 1 	 roommate her
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 roommate was
+7 	 0 	 S/S 	 1 	 was But
+7 	 1 	 (S/S)/NP 	 1 	 was unlike
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 husband was
+9 	 8 	 NP[nb]/N 	 1 	 husband her
+<\s>
+<s id="wsj_0416.31"> 12
+0 	 1 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 1 	 It was
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 was certainly
+1 	 11 	 (S[dcl]\S[dcl])\NP 	 1 	 was says
+3 	 1 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 3 	 good was
+4 	 1 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 2 	 to was
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+6 	 5 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 him have
+6 	 7 	 S[adj]\NP 	 1 	 him handy <XB>
+7 	 5 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 handy have
+10 	 9 	 N/N 	 1 	 Bobar Mrs.
+10 	 11 	 (S[dcl]\S[dcl])\NP 	 2 	 Bobar says
+<\s>
+<s id="wsj_0416.32"> 25
+4 	 0 	 NP[nb]/N 	 1 	 unit The
+4 	 1 	 N/N 	 1 	 unit 12-bed
+4 	 2 	 N/N 	 1 	 unit cooperative
+4 	 3 	 N/N 	 1 	 unit care
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 unit is
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 one is
+6 	 7 	 (NP\NP)/NP 	 1 	 one of
+9 	 7 	 (NP\NP)/NP 	 2 	 18 of
+9 	 8 	 N/N 	 1 	 18 about
+9 	 10 	 NP\NP 	 1 	 18 nationwide
+9 	 11 	 (NP\NP)/S[dcl] 	 1 	 18 where
+14 	 12 	 NP[nb]/N 	 1 	 member a
+14 	 13 	 N/N 	 1 	 member family
+14 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 member helps
+14 	 18 	 (S[b]\NP)/PP 	 1 	 member care <XB>
+16 	 12 	 NP[nb]/N 	 1 	 friend a
+16 	 13 	 N/N 	 1 	 friend family
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 friend helps
+16 	 18 	 (S[b]\NP)/PP 	 1 	 friend care <XB>
+17 	 11 	 (NP\NP)/S[dcl] 	 2 	 helps where
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 care helps
+19 	 18 	 (S[b]\NP)/PP 	 2 	 for care
+21 	 19 	 PP/NP 	 1 	 patient for
+21 	 20 	 NP[nb]/N 	 1 	 patient a
+21 	 22 	 (NP\NP)/NP 	 1 	 patient in
+24 	 22 	 (NP\NP)/NP 	 2 	 hospital in
+24 	 23 	 NP[nb]/N 	 1 	 hospital the
+<\s>
+<s id="wsj_0416.33"> 44
+1 	 0 	 NP[nb]/N 	 1 	 philosophy The
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 philosophy is
+1 	 4 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 philosophy make <XB>
+2 	 20 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+6 	 4 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 patient make
+6 	 5 	 NP[nb]/N 	 1 	 patient the
+6 	 11 	 (S[adj]\NP)/PP 	 1 	 patient responsible <XB>
+9 	 4 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 family make
+9 	 8 	 NP[nb]/N 	 1 	 family the
+9 	 11 	 (S[adj]\NP)/PP 	 1 	 family responsible <XB>
+11 	 4 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 responsible make
+11 	 10 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 responsible very
+12 	 11 	 (S[adj]\NP)/PP 	 2 	 for responsible
+14 	 12 	 PP/NP 	 1 	 portion for
+14 	 13 	 NP[nb]/N 	 1 	 portion a
+14 	 15 	 (NP\NP)/NP 	 1 	 portion of
+18 	 15 	 (NP\NP)/NP 	 2 	 care of
+18 	 16 	 NP[nb]/N 	 1 	 care their
+18 	 17 	 N/N 	 1 	 care own
+23 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 Grieco says
+23 	 21 	 N/N 	 1 	 Grieco Anthony
+23 	 22 	 N/N 	 1 	 Grieco J.
+26 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 director says
+26 	 25 	 N/N 	 1 	 director medical
+26 	 27 	 (NP\NP)/NP 	 1 	 director of
+26 	 30 	 (NP\NP)/NP 	 1 	 director at
+29 	 27 	 (NP\NP)/NP 	 2 	 care of
+29 	 28 	 N/N 	 1 	 care cooperative
+35 	 30 	 (NP\NP)/NP 	 2 	 Center at
+35 	 31 	 N/N 	 1 	 Center New
+35 	 32 	 N/N 	 1 	 Center York
+35 	 33 	 N/N 	 1 	 Center University
+35 	 34 	 N/N 	 1 	 Center Medical
+35 	 37 	 (NP\NP)/S[dcl] 	 1 	 Center where
+39 	 38 	 NP[nb]/N 	 1 	 concept the
+39 	 40 	 S[dcl]\NP 	 1 	 concept began
+40 	 37 	 (NP\NP)/S[dcl] 	 2 	 began where
+40 	 43 	 ((S\NP)\(S\NP))\NP 	 2 	 began ago
+42 	 41 	 N/N 	 1 	 years 10
+42 	 43 	 ((S\NP)\(S\NP))\NP 	 3 	 years ago
+<\s>
+<s id="wsj_0416.34"> 25
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It helps
+1 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 helps while
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 us helps
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 them helps
+8 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they 're
+8 	 10 	 S[adj]\NP 	 1 	 they here <XB>
+9 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 're while
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 here 're
+13 	 15 	 ((S[dcl]\NP)/NP)/NP 	 1 	 it makes
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 makes certainly
+15 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 makes when
+16 	 15 	 ((S[dcl]\NP)/NP)/NP 	 3 	 them makes
+20 	 15 	 ((S[dcl]\NP)/NP)/NP 	 2 	 team makes
+20 	 17 	 NP[nb]/N 	 1 	 team a
+20 	 18 	 N/N 	 1 	 team better
+20 	 19 	 N/N 	 1 	 team health-care
+22 	 23 	 S[dcl]\NP 	 1 	 they get
+23 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 get when
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 get home
+<\s>
+<s id="wsj_0416.35"> 4
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 It saves
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 saves also
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 money saves
+<\s>
+<s id="wsj_0416.36"> 30
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 patients require
+2 	 0 	 (S/S)/S[dcl] 	 2 	 require Because
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 attention require
+4 	 3 	 N/N 	 1 	 attention less
+4 	 5 	 (NP\NP)/NP 	 1 	 attention from
+6 	 5 	 (NP\NP)/NP 	 2 	 nurses from
+9 	 5 	 (NP\NP)/NP 	 2 	 staff from
+9 	 8 	 N/N 	 1 	 staff other
+12 	 11 	 N/N 	 1 	 charges room
+12 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 charges are
+12 	 14 	 S[adj]\NP 	 1 	 charges lower <XB>
+12 	 19 	 (S[adj]\NP)/PP 	 1 	 charges less <XU>
+13 	 0 	 (S/S)/S[dcl] 	 1 	 are Because
+14 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 lower are
+17 	 16 	 ((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)) 	 3 	 $ about
+18 	 17 	 ((S[adj]\NP)/(S[adj]\NP))/N[num] 	 3 	 100 $
+19 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 less are
+19 	 17 	 ((S[adj]\NP)/(S[adj]\NP))/N[num] 	 2 	 less $
+19 	 22 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 less than
+20 	 19 	 (S[adj]\NP)/PP 	 2 	 per less
+21 	 20 	 PP/NP 	 1 	 day per
+25 	 22 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 room than
+25 	 23 	 NP[nb]/N 	 1 	 room a
+25 	 24 	 N/N 	 1 	 room regular
+25 	 26 	 (NP\NP)/NP 	 1 	 room at
+29 	 26 	 (NP\NP)/NP 	 2 	 hospital at
+29 	 27 	 NP[nb]/N 	 1 	 hospital the
+29 	 28 	 N/N 	 1 	 hospital Vermont
+<\s>
+<s id="wsj_0416.37"> 29
+1 	 0 	 N/N 	 1 	 patients Cancer
+1 	 2 	 (S[ng]\NP)/NP 	 1 	 patients needing <XB>
+1 	 20 	 (S[dcl]\NP)/PP 	 1 	 patients are
+5 	 2 	 (S[ng]\NP)/NP 	 2 	 therapy needing
+5 	 3 	 N/N 	 1 	 therapy prolonged
+5 	 4 	 N/N 	 1 	 therapy radiation
+7 	 8 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 diabetics learning <XB>
+7 	 10 	 (S[b]\NP)/NP 	 1 	 diabetics manage <XB>
+7 	 20 	 (S[dcl]\NP)/PP 	 1 	 diabetics are
+9 	 8 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to learning
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 manage to
+14 	 10 	 (S[b]\NP)/NP 	 2 	 levels manage
+14 	 11 	 NP[nb]/N 	 1 	 levels their
+14 	 12 	 N/N 	 1 	 levels blood
+14 	 13 	 N/N 	 1 	 levels sugar
+19 	 17 	 N/N 	 1 	 patients cardiac
+19 	 18 	 N/N 	 1 	 patients bypass
+19 	 20 	 (S[dcl]\NP)/PP 	 1 	 patients are
+21 	 20 	 (S[dcl]\NP)/PP 	 2 	 among are
+22 	 21 	 PP/NP 	 1 	 those among
+22 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 those who
+22 	 24 	 ((S[dcl]\NP)/PP)/NP 	 1 	 those spend <XB>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 spend who
+25 	 24 	 ((S[dcl]\NP)/PP)/NP 	 3 	 time spend
+26 	 24 	 ((S[dcl]\NP)/PP)/NP 	 2 	 on spend
+28 	 26 	 PP/NP 	 1 	 units on
+28 	 27 	 N/N 	 1 	 units cooperative-care
+<\s>
+<s id="wsj_0416.38"> 20
+1 	 0 	 NP[nb]/N 	 1 	 approach The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 approach has
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 approach generated <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 generated has
+5 	 4 	 (N/N)/(N/N) 	 2 	 much so
+6 	 3 	 (S[pt]\NP)/NP 	 2 	 interest generated
+6 	 5 	 N/N 	 1 	 interest much
+6 	 7 	 (NP\NP)/S[dcl] 	 1 	 interest that
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 NYU is
+9 	 7 	 (NP\NP)/S[dcl] 	 2 	 is that
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 host is
+10 	 11 	 (NP\NP)/NP 	 1 	 host to
+14 	 11 	 (NP\NP)/NP 	 2 	 conference to
+14 	 12 	 NP[nb]/N 	 1 	 conference the
+14 	 13 	 N/N 	 1 	 conference first
+14 	 15 	 (NP\NP)/NP 	 1 	 conference on
+14 	 18 	 (NP\NP)/N[num] 	 1 	 conference Nov.
+17 	 15 	 (NP\NP)/NP 	 2 	 care on
+17 	 16 	 N/N 	 1 	 care cooperative
+19 	 18 	 (NP\NP)/N[num] 	 2 	 30 Nov.
+<\s>
+<s id="wsj_0416.39"> 15
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 's really
+1 	 14 	 (S[dcl]\S[dcl])\NP 	 1 	 's says
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 part 's
+3 	 4 	 (NP\NP)/NP 	 1 	 part of
+6 	 4 	 (NP\NP)/NP 	 2 	 hospital of
+6 	 5 	 NP[nb]/N 	 1 	 hospital the
+6 	 7 	 (NP\NP)/NP 	 1 	 hospital of
+10 	 7 	 (NP\NP)/NP 	 2 	 century of
+10 	 8 	 NP[nb]/N 	 1 	 century the
+10 	 9 	 N/N 	 1 	 century 21st
+13 	 12 	 N/N 	 1 	 Grieco Dr.
+13 	 14 	 (S[dcl]\S[dcl])\NP 	 2 	 Grieco says
+<\s>
+<s id="wsj_0416.40"> 2
+<\s>
+<s id="wsj_0416.41"> 35
+3 	 0 	 NP[nb]/N 	 1 	 officer THE
+3 	 1 	 N/N 	 1 	 officer CHIEF
+3 	 2 	 N/N 	 1 	 officer NURSING
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 officer can
+3 	 6 	 (S[adj]\NP)/PP 	 1 	 officer responsible <XB>
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+6 	 5 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 responsible be
+7 	 6 	 (S[adj]\NP)/PP 	 2 	 for responsible
+8 	 9 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+10 	 9 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 1,000 than
+11 	 7 	 PP/NP 	 1 	 employees for
+11 	 10 	 N/N 	 1 	 employees 1,000
+14 	 13 	 (N/N)/(S[asup]\NP) 	 2 	 least at
+15 	 7 	 PP/NP 	 1 	 one-third for
+15 	 13 	 (N/N)/(S[asup]\NP) 	 1 	 one-third at
+15 	 16 	 (NP\NP)/NP 	 1 	 one-third of
+18 	 17 	 NP[nb]/N 	 1 	 hospital a
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 hospital 's
+20 	 16 	 (NP\NP)/NP 	 2 	 budget of
+20 	 19 	 (NP[nb]/N)\NP 	 1 	 budget 's
+24 	 22 	 NP[nb]/N 	 1 	 nurse a
+24 	 23 	 N/N 	 1 	 nurse head
+24 	 26 	 (S[dcl]\NP)/NP 	 1 	 nurse oversees
+26 	 25 	 (S\NP)/(S\NP) 	 2 	 oversees typically
+29 	 27 	 (N/N)/(N/N) 	 2 	 80 up
+29 	 28 	 (N/N)/(N/N) 	 2 	 80 to
+30 	 26 	 (S[dcl]\NP)/NP 	 2 	 employees oversees
+30 	 29 	 N/N 	 1 	 employees 80
+32 	 26 	 (S[dcl]\NP)/NP 	 2 	 $ oversees
+34 	 32 	 N/N[num] 	 1 	 million $
+34 	 33 	 N/N 	 1 	 million 8
+<\s>
+<s id="wsj_0416.42"> 31
+1 	 0 	 S[dcl]/S[inv] 	 1 	 says So
+4 	 1 	 S[inv]/NP 	 1 	 Fund says
+4 	 2 	 NP[nb]/N 	 1 	 Fund the
+4 	 3 	 N/N 	 1 	 Fund Commonwealth
+9 	 1 	 S[inv]/NP 	 1 	 philanthropist says
+9 	 6 	 NP[nb]/N 	 1 	 philanthropist a
+9 	 7 	 N/N 	 1 	 philanthropist New
+9 	 8 	 N/N 	 1 	 philanthropist York
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 philanthropist that
+9 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 philanthropist 's <XB>
+9 	 12 	 (S[ng]\NP)/NP 	 1 	 philanthropist sponsoring <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 's that
+12 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 sponsoring 's
+16 	 14 	 (N/N)/N[num] 	 2 	 million $
+16 	 15 	 N/N 	 1 	 million 1
+17 	 12 	 (S[ng]\NP)/NP 	 2 	 project sponsoring
+17 	 13 	 NP[nb]/N 	 1 	 project a
+17 	 14 	 (N/N)/N[num] 	 1 	 project $
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 develop to
+19 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 develop at
+21 	 19 	 (S[b]\NP)/NP 	 2 	 masters develop
+21 	 20 	 N/N 	 1 	 masters joint
+21 	 22 	 (NP\NP)/NP 	 1 	 masters in
+26 	 22 	 (NP\NP)/NP 	 2 	 programs in
+26 	 23 	 N/N 	 1 	 programs business
+26 	 25 	 N/N 	 1 	 programs nursing
+29 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 universities at
+29 	 28 	 N/N 	 1 	 universities 10
+<\s>
+<s id="wsj_0416.43"> 27
+2 	 0 	 N/N 	 1 	 College Meharry
+2 	 1 	 N/N 	 1 	 College Medical
+2 	 3 	 (NP\NP)/NP 	 1 	 College in
+2 	 8 	 (S[dcl]\NP)/NP 	 1 	 College launches
+4 	 3 	 (NP\NP)/NP 	 2 	 Nashville in
+6 	 3 	 (NP\NP)/NP 	 2 	 Tenn. in
+8 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 launches in
+8 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 launches :
+12 	 8 	 (S[dcl]\NP)/NP 	 2 	 publication launches
+12 	 9 	 NP[nb]/N 	 1 	 publication a
+12 	 10 	 N/N 	 1 	 publication new
+12 	 11 	 N/N 	 1 	 publication research
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 spring in
+15 	 14 	 NP[nb]/N 	 1 	 spring the
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 Journal :
+18 	 17 	 NP[nb]/N 	 1 	 Journal the
+18 	 19 	 (NP\NP)/NP 	 1 	 Journal on
+21 	 19 	 (NP\NP)/NP 	 2 	 Care on
+21 	 20 	 N/N 	 1 	 Care Health
+21 	 22 	 (NP\NP)/NP 	 1 	 Care for
+24 	 22 	 (NP\NP)/NP 	 2 	 Poor for
+24 	 23 	 NP[nb]/N 	 1 	 Poor the
+26 	 22 	 (NP\NP)/NP 	 2 	 Underserved for
+26 	 23 	 NP[nb]/N 	 1 	 Underserved the
+<\s>

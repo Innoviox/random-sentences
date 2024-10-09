@@ -1,0 +1,39 @@
+<s id="wsj_1964.1"> 20
+1 	 0 	 N/N 	 1 	 VOLUME TRADING
+1 	 2 	 (NP\NP)/NP 	 1 	 VOLUME in
+1 	 11 	 (NP\NP)/NP 	 1 	 VOLUME on
+1 	 16 	 NP\NP 	 1 	 VOLUME Monday
+1 	 17 	 (S[dcl]\NP)/NP 	 1 	 VOLUME totaled
+5 	 3 	 N/N 	 1 	 Poor Standard
+5 	 4 	 N/N 	 1 	 Poor &
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Poor 's
+10 	 2 	 (NP\NP)/NP 	 2 	 contracts in
+10 	 6 	 (NP[nb]/N)\NP 	 1 	 contracts 's
+10 	 7 	 N/N 	 1 	 contracts 500
+10 	 8 	 N/N 	 1 	 contracts stock-index
+10 	 9 	 N/N 	 1 	 contracts futures
+15 	 11 	 (NP\NP)/NP 	 2 	 Exchange on
+15 	 12 	 NP[nb]/N 	 1 	 Exchange the
+15 	 13 	 N/N 	 1 	 Exchange Chicago
+15 	 14 	 N/N 	 1 	 Exchange Mercantile
+19 	 17 	 (S[dcl]\NP)/NP 	 2 	 contracts totaled
+19 	 18 	 N/N 	 1 	 contracts 73,803
+<\s>
+<s id="wsj_1964.2"> 17
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Yesterday 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 edition 's
+2 	 4 	 ((S[dcl]\NP)/PP)/NP 	 1 	 edition reported
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 reported incorrectly
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Monday 's
+8 	 4 	 ((S[dcl]\NP)/PP)/NP 	 3 	 volume reported
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 volume 's
+8 	 7 	 N/N 	 1 	 volume trading
+9 	 4 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as reported
+11 	 9 	 PP/NP 	 1 	 record as
+11 	 10 	 NP[nb]/N 	 1 	 record a
+11 	 12 	 (NP\NP)/NP 	 1 	 record for
+16 	 12 	 (NP\NP)/NP 	 2 	 contract for
+16 	 13 	 NP[nb]/N 	 1 	 contract the
+16 	 14 	 N/N 	 1 	 contract S&P
+16 	 15 	 N/N 	 1 	 contract 500
+<\s>

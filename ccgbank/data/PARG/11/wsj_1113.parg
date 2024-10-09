@@ -1,0 +1,94 @@
+<s id="wsj_1113.1"> 31
+3 	 0 	 N/N 	 1 	 Inc. Falcon
+3 	 1 	 N/N 	 1 	 Inc. Holding
+3 	 2 	 N/N 	 1 	 Inc. Group
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it agreed
+5 	 8 	 (((S[b]\NP)/PP)/PP)/NP 	 1 	 it acquire <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 agreed said
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+10 	 9 	 (N/N)/(N/N) 	 2 	 54,000 about
+11 	 8 	 (((S[b]\NP)/PP)/PP)/NP 	 4 	 subscribers acquire
+11 	 10 	 N/N 	 1 	 subscribers 54,000
+12 	 8 	 (((S[b]\NP)/PP)/PP)/NP 	 3 	 from acquire
+18 	 12 	 PP/NP 	 1 	 Partnership from
+18 	 13 	 N/N 	 1 	 Partnership First
+18 	 14 	 N/N 	 1 	 Partnership Carolina
+18 	 15 	 N/N 	 1 	 Partnership Cable
+18 	 16 	 N/N 	 1 	 Partnership TV
+18 	 17 	 N/N 	 1 	 Partnership Limited
+19 	 8 	 (((S[b]\NP)/PP)/PP)/NP 	 2 	 for acquire
+21 	 19 	 PP/NP 	 1 	 $ for
+21 	 20 	 N/N 	 1 	 $ about
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 100
+27 	 19 	 PP/NP 	 1 	 $ for
+27 	 26 	 N/N 	 1 	 $ roughly
+27 	 29 	 (NP\NP)/N 	 1 	 $ a
+28 	 27 	 N/N[num] 	 1 	 2,000 $
+30 	 29 	 (NP\NP)/N 	 2 	 subscriber a
+<\s>
+<s id="wsj_1113.2"> 13
+1 	 0 	 NP[nb]/N 	 1 	 subscribers The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 subscribers are
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 in are
+6 	 3 	 PP/NP 	 1 	 communities in
+6 	 4 	 N/N 	 1 	 communities 52
+6 	 5 	 N/N 	 1 	 communities different
+6 	 7 	 (NP\NP)/NP 	 1 	 communities in
+8 	 7 	 (NP\NP)/NP 	 2 	 Georgia in
+10 	 7 	 (NP\NP)/NP 	 2 	 Alabama in
+12 	 7 	 (NP\NP)/NP 	 2 	 Mississippi in
+<\s>
+<s id="wsj_1113.3"> 12
+0 	 1 	 (NP\NP)/NP 	 1 	 Completion of
+0 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Completion is
+0 	 5 	 S[pss]\NP 	 1 	 Completion expected <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 sale of
+3 	 2 	 NP[nb]/N 	 1 	 sale the
+4 	 11 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+5 	 8 	 (S\NP)\(S\NP) 	 2 	 expected year
+8 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year early
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+10 	 11 	 (S[dcl]\S[dcl])\NP 	 2 	 Falcon said
+<\s>
+<s id="wsj_1113.4"> 25
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Falcon has
+3 	 0 	 S/S 	 1 	 has Currently
+5 	 4 	 (N/N)/(N/N) 	 2 	 750,000 about
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 subscribers has
+7 	 5 	 N/N 	 1 	 subscribers 750,000
+7 	 6 	 N/N 	 1 	 subscribers cable-television
+7 	 8 	 (NP\NP)/NP 	 1 	 subscribers around
+10 	 8 	 (NP\NP)/NP 	 2 	 nation around
+10 	 9 	 NP[nb]/N 	 1 	 nation the
+13 	 12 	 NP[nb]/N 	 1 	 company the
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 company 's
+16 	 14 	 (NP[nb]/N)\NP 	 1 	 unit 's
+16 	 15 	 N/N 	 1 	 unit cable-television
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 unit reported
+19 	 17 	 (S[dcl]\NP)/NP 	 2 	 revenue reported
+19 	 18 	 N/N 	 1 	 revenue 1988
+19 	 20 	 (NP\NP)/NP 	 1 	 revenue of
+22 	 20 	 (NP\NP)/NP 	 2 	 $ of
+22 	 21 	 N/N 	 1 	 $ about
+24 	 22 	 N/N[num] 	 1 	 million $
+24 	 23 	 N/N 	 1 	 million 100
+<\s>
+<s id="wsj_1113.5"> 16
+2 	 0 	 (S/S)/NP 	 2 	 trading In
+2 	 1 	 N/N 	 1 	 trading composite
+7 	 3 	 (S/S)/NP 	 2 	 Exchange on
+7 	 4 	 NP[nb]/N 	 1 	 Exchange the
+7 	 5 	 N/N 	 1 	 Exchange American
+7 	 6 	 N/N 	 1 	 Exchange Stock
+9 	 10 	 (S[dcl]\NP)/PP 	 1 	 Falcon closed
+10 	 0 	 (S/S)/NP 	 1 	 closed In
+10 	 3 	 (S/S)/NP 	 1 	 closed on
+10 	 15 	 (S\NP)\(S\NP) 	 2 	 closed unchanged
+11 	 10 	 (S[dcl]\NP)/PP 	 2 	 at closed
+12 	 11 	 PP/NP 	 1 	 $ at
+13 	 12 	 N/N[num] 	 1 	 20 $
+<\s>

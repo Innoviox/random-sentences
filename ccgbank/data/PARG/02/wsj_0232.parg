@@ -1,0 +1,127 @@
+<s id="wsj_0232.1"> 31
+2 	 0 	 N/N 	 1 	 prices French
+2 	 1 	 N/N 	 1 	 prices consumer
+2 	 3 	 S[dcl]\NP 	 1 	 prices rose
+2 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 prices were <XU>
+2 	 14 	 ((S[adj]\NP)/PP)/NP 	 1 	 prices up <XU>
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 rose %
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 rose in
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 22 	 ((S\NP)\(S\NP))/PP 	 2 	 rose according
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 0.2
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 month from
+11 	 9 	 NP[nb]/N 	 1 	 month the
+11 	 10 	 N/N 	 1 	 month previous
+13 	 22 	 ((S\NP)\(S\NP))/PP 	 2 	 were according
+14 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 up were
+16 	 14 	 ((S[adj]\NP)/PP)/NP 	 3 	 % up
+16 	 15 	 N/N 	 1 	 % 3.4
+17 	 14 	 ((S[adj]\NP)/PP)/NP 	 2 	 from up
+19 	 18 	 NP[nb]/N 	 1 	 year a
+19 	 20 	 (S[adj]\NP)\NP 	 2 	 year earlier
+20 	 17 	 PP/(S[adj]\NP) 	 1 	 earlier from
+23 	 22 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+25 	 23 	 PP/NP 	 1 	 figures to
+25 	 24 	 N/N 	 1 	 figures definitive
+25 	 26 	 (NP\NP)/NP 	 1 	 figures from
+30 	 26 	 (NP\NP)/NP 	 2 	 Institute from
+30 	 27 	 NP[nb]/N 	 1 	 Institute the
+30 	 28 	 N/N 	 1 	 Institute National
+30 	 29 	 N/N 	 1 	 Institute Statistics
+<\s>
+<s id="wsj_0232.2"> 25
+2 	 0 	 NP[nb]/N 	 1 	 agency The
+2 	 1 	 N/N 	 1 	 agency state
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 agency 's
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 figures 's
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 figures confirm
+4 	 9 	 (S[dcl]\NP)/NP 	 1 	 figures leave <XU>
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 estimates confirm
+7 	 6 	 N/N 	 1 	 estimates previous
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 leave at
+9 	 15 	 ((S\NP)\(S\NP))/PP 	 2 	 leave up
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 index leave
+11 	 10 	 NP[nb]/N 	 1 	 index the
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 178.9 at
+16 	 15 	 ((S\NP)\(S\NP))/PP 	 3 	 from up
+17 	 16 	 PP/NP 	 1 	 178.5 from
+17 	 18 	 (NP\NP)/NP 	 1 	 178.5 in
+19 	 18 	 (NP\NP)/NP 	 2 	 August in
+21 	 16 	 PP/NP 	 1 	 173.1 from
+21 	 24 	 (NP\NP)\NP 	 1 	 173.1 earlier
+23 	 22 	 NP[nb]/N 	 1 	 year a
+23 	 24 	 (NP\NP)\NP 	 2 	 year earlier
+<\s>
+<s id="wsj_0232.3"> 8
+1 	 0 	 NP[nb]/N 	 1 	 index The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 index is
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 index based <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 based is
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 on based
+5 	 4 	 (PP/(S[ng]\NP))/NP 	 2 	 1980 on
+5 	 6 	 (S[ng]\NP)/NP 	 1 	 1980 equaling <XB>
+6 	 4 	 (PP/(S[ng]\NP))/NP 	 1 	 equaling on
+7 	 6 	 (S[ng]\NP)/NP 	 2 	 100 equaling
+<\s>
+<s id="wsj_0232.4"> 19
+1 	 0 	 NP[nb]/N 	 1 	 breakdown A
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 breakdown showed
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that showed
+5 	 4 	 N/N 	 1 	 prices food
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 prices were
+6 	 3 	 S[em]/S[dcl] 	 1 	 were that
+6 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 were with
+9 	 8 	 (N/N)/(N/N) 	 2 	 active most
+10 	 6 	 (S[dcl]\NP)/NP 	 2 	 part were
+10 	 7 	 NP[nb]/N 	 1 	 part the
+10 	 9 	 N/N 	 1 	 part active
+10 	 11 	 (NP\NP)/NP 	 1 	 part of
+12 	 11 	 (NP\NP)/NP 	 2 	 growth of
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 rise with
+15 	 14 	 NP[nb]/N 	 1 	 rise a
+15 	 16 	 (NP\NP)/NP 	 1 	 rise of
+18 	 16 	 (NP\NP)/NP 	 2 	 % of
+18 	 17 	 N/N 	 1 	 % 0.6
+<\s>
+<s id="wsj_0232.5"> 13
+1 	 0 	 NP[nb]/N 	 1 	 official An
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 official linked
+4 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 gain linked
+4 	 3 	 NP[nb]/N 	 1 	 gain the
+6 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to linked
+6 	 5 	 PP/PP 	 1 	 to essentially
+8 	 6 	 PP/NP 	 1 	 prices to
+8 	 7 	 N/N 	 1 	 prices higher
+8 	 9 	 (NP\NP)/NP 	 1 	 prices for
+10 	 9 	 (NP\NP)/NP 	 2 	 beef for
+12 	 9 	 (NP\NP)/NP 	 2 	 pork for
+<\s>
+<s id="wsj_0232.6"> 23
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+4 	 2 	 N/N 	 1 	 problems summer
+4 	 3 	 N/N 	 1 	 problems drought
+4 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 problems that
+4 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 problems had <XB>
+4 	 7 	 (S[pt]\NP)/NP 	 1 	 problems hit <XB>
+4 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 problems had
+4 	 13 	 (S[pt]\NP)/(S[ng]\NP) 	 1 	 problems stopped <XB>
+4 	 14 	 (S[ng]\NP)/NP 	 1 	 problems being <XB>
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had that
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 hit had
+11 	 7 	 (S[pt]\NP)/NP 	 2 	 regions hit
+11 	 8 	 N/N 	 1 	 regions several
+11 	 9 	 N/N 	 1 	 regions southern
+11 	 10 	 N/N 	 1 	 regions agricultural
+12 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+13 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 stopped had
+13 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 stopped in
+14 	 13 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 being stopped
+17 	 14 	 (S[ng]\NP)/NP 	 2 	 source being
+17 	 15 	 NP[nb]/N 	 1 	 source a
+17 	 16 	 N/N 	 1 	 source major
+17 	 18 	 (NP\NP)/NP 	 1 	 source of
+20 	 18 	 (NP\NP)/NP 	 2 	 pressure of
+20 	 19 	 N/N 	 1 	 pressure price
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+<\s>

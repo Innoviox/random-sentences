@@ -1,0 +1,45 @@
+<s id="wsj_0459.1"> 17
+2 	 0 	 N/N 	 1 	 rates Annualized
+2 	 1 	 N/N 	 1 	 rates interest
+2 	 3 	 (NP\NP)/NP 	 1 	 rates on
+2 	 6 	 (NP\NP)/(S[pss]\NP) 	 1 	 rates as
+2 	 7 	 S[pss]\NP 	 1 	 rates reported <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 investments on
+5 	 4 	 N/N 	 1 	 investments certain
+7 	 6 	 (NP\NP)/(S[pss]\NP) 	 2 	 reported as
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 reported by
+7 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 reported on
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Board by
+12 	 9 	 NP[nb]/N 	 1 	 Board the
+12 	 10 	 N/N 	 1 	 Board Federal
+12 	 11 	 N/N 	 1 	 Board Reserve
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 basis on
+16 	 14 	 NP[nb]/N 	 1 	 basis a
+16 	 15 	 N/N 	 1 	 basis weekly-average
+<\s>
+<s id="wsj_0459.2"> 4
+0 	 1 	 (NP\NP)/NP 	 1 	 a -
+3 	 1 	 (NP\NP)/NP 	 2 	 rate -
+3 	 2 	 N/N 	 1 	 rate Discounted
+<\s>
+<s id="wsj_0459.3"> 16
+0 	 1 	 (NP\NP)/NP 	 1 	 b -
+2 	 1 	 (NP\NP)/NP 	 2 	 Week -
+2 	 3 	 S[pss]\NP 	 1 	 Week ended <XB>
+3 	 6 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended October
+3 	 12 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended October <XU>
+6 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 October Wednesday
+6 	 9 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 October 1989
+7 	 6 	 ((S\NP)\(S\NP))/N[num] 	 3 	 25 October
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 October Wednesday
+12 	 15 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 October 1989
+13 	 12 	 ((S\NP)\(S\NP))/N[num] 	 3 	 18 October
+<\s>
+<s id="wsj_0459.4"> 8
+0 	 1 	 (NP\NP)/NP 	 1 	 c -
+2 	 1 	 (NP\NP)/NP 	 2 	 Yields -
+2 	 4 	 (S[pss]\NP)/PP 	 1 	 Yields adjusted <XB>
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 for adjusted
+7 	 5 	 PP/NP 	 1 	 maturity for
+7 	 6 	 N/N 	 1 	 maturity constant
+<\s>

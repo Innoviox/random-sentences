@@ -1,0 +1,43 @@
+<s id="wsj_1090.1"> 27
+2 	 0 	 N/N 	 1 	 Inc. Sun
+2 	 1 	 N/N 	 1 	 Inc. Microsystems
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+6 	 4 	 N/N 	 1 	 Inc. Prime
+6 	 5 	 N/N 	 1 	 Inc. Computer
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Inc. has
+6 	 8 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Inc. agreed <XB>
+6 	 10 	 (S[b]\NP)/NP 	 1 	 Inc. resell <XB>
+7 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 agreed has
+9 	 8 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to agreed
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 resell to
+10 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 resell over
+12 	 11 	 ((N/N)/PP)/(S[adj]\NP) 	 3 	 much as
+13 	 11 	 ((N/N)/PP)/(S[adj]\NP) 	 2 	 as as
+14 	 13 	 PP/NP 	 1 	 $ as
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 200
+17 	 10 	 (S[b]\NP)/NP 	 2 	 worth resell
+17 	 11 	 ((N/N)/PP)/(S[adj]\NP) 	 1 	 worth as
+17 	 18 	 (NP\NP)/NP 	 1 	 worth of
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 Sun 's
+21 	 18 	 (NP\NP)/NP 	 2 	 machines of
+21 	 20 	 (NP[nb]/N)\NP 	 1 	 machines 's
+26 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 years over
+26 	 23 	 NP[nb]/N 	 1 	 years the
+26 	 24 	 N/N 	 1 	 years next
+26 	 25 	 N/N 	 1 	 years two
+<\s>
+<s id="wsj_1090.2"> 13
+1 	 0 	 NP[nb]/N 	 1 	 computers The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 computers use
+2 	 12 	 (S[dcl]\S[dcl])\NP 	 1 	 use said
+4 	 3 	 NP[nb]/N 	 1 	 company the
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 company 's
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 microprocessor use
+7 	 5 	 (NP[nb]/N)\NP 	 1 	 microprocessor 's
+7 	 6 	 N/N 	 1 	 microprocessor own
+7 	 8 	 (S[pss]\NP)/NP 	 1 	 microprocessor called <XB>
+9 	 8 	 (S[pss]\NP)/NP 	 2 	 Sparc called
+11 	 12 	 (S[dcl]\S[dcl])\NP 	 2 	 Sun said
+<\s>

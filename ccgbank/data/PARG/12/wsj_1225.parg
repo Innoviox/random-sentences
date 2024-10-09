@@ -1,0 +1,813 @@
+<s id="wsj_1225.1"> 36
+2 	 0 	 N/N 	 1 	 Co. Ford
+2 	 1 	 N/N 	 1 	 Co. Motor
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Co. intensified
+2 	 14 	 (S[ng]\NP)/S[dcl] 	 1 	 Co. saying <XB>
+3 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 intensified by
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 battle intensified
+5 	 4 	 NP[nb]/N 	 1 	 battle its
+5 	 6 	 (NP\NP)/NP 	 1 	 battle with
+5 	 10 	 (NP\NP)/NP 	 1 	 battle over
+9 	 6 	 (NP\NP)/NP 	 2 	 Corp. with
+9 	 7 	 N/N 	 1 	 Corp. General
+9 	 8 	 N/N 	 1 	 Corp. Motors
+12 	 10 	 (NP\NP)/NP 	 2 	 PLC over
+12 	 11 	 N/N 	 1 	 PLC Jaguar
+14 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 saying by
+15 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 it is
+15 	 17 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 it prepared <XB>
+15 	 19 	 (S[b]\NP)/NP 	 1 	 it make <XB>
+16 	 14 	 (S[ng]\NP)/S[dcl] 	 2 	 is saying
+17 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 prepared is
+18 	 17 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to prepared
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+19 	 29 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 make when
+21 	 19 	 (S[b]\NP)/NP 	 2 	 bid make
+21 	 20 	 NP[nb]/N 	 1 	 bid a
+21 	 22 	 (NP\NP)/NP 	 1 	 bid for
+23 	 22 	 (NP\NP)/NP 	 2 	 all for
+23 	 24 	 (NP\NP)/NP 	 1 	 all of
+28 	 24 	 (NP\NP)/NP 	 2 	 maker of
+28 	 25 	 NP[nb]/N 	 1 	 maker the
+28 	 26 	 N/N 	 1 	 maker British
+28 	 27 	 N/N 	 1 	 maker auto
+30 	 31 	 (NP\NP)/NP 	 1 	 restrictions on
+30 	 34 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 restrictions are
+30 	 35 	 S[pss]\NP 	 1 	 restrictions lifted <XB>
+33 	 31 	 (NP\NP)/NP 	 2 	 shareholding on
+33 	 32 	 NP[nb]/N 	 1 	 shareholding its
+34 	 29 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are when
+35 	 34 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 lifted are
+<\s>
+<s id="wsj_1225.2"> 15
+1 	 0 	 NP[nb]/N 	 1 	 statement The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 statement was
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 part was
+3 	 4 	 (NP\NP)/NP 	 1 	 part of
+7 	 4 	 (NP\NP)/NP 	 2 	 filing of
+7 	 5 	 NP[nb]/N 	 1 	 filing a
+7 	 6 	 N/N 	 1 	 filing Ford
+7 	 8 	 (NP\NP)/NP 	 1 	 filing with
+14 	 8 	 (NP\NP)/NP 	 2 	 Commission with
+14 	 9 	 NP[nb]/N 	 1 	 Commission the
+14 	 10 	 N/N 	 1 	 Commission U.S.
+14 	 11 	 N/N 	 1 	 Commission Securities
+14 	 13 	 N/N 	 1 	 Commission Exchange
+<\s>
+<s id="wsj_1225.3"> 14
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Ford did
+0 	 3 	 (S[b]\NP)/S[qem] 	 1 	 Ford say <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 did n't
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 say did
+4 	 3 	 (S[b]\NP)/S[qem] 	 2 	 how say
+5 	 4 	 ((S[qem]/S[wq])/(S[dcl]/NP))/N 	 3 	 much how
+5 	 8 	 ((S[b]\NP)/PP)/NP 	 3 	 much offer <XU>
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it might
+6 	 8 	 ((S[b]\NP)/PP)/NP 	 1 	 it offer <XB>
+7 	 4 	 ((S[qem]/S[wq])/(S[dcl]/NP))/N 	 2 	 might how
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 offer might
+9 	 8 	 ((S[b]\NP)/PP)/NP 	 2 	 for offer
+10 	 9 	 PP/NP 	 1 	 Jaguar for
+13 	 4 	 ((S[qem]/S[wq])/(S[dcl]/NP))/N 	 1 	 when how
+<\s>
+<s id="wsj_1225.4"> 24
+2 	 0 	 NP[nb]/N 	 1 	 government The
+2 	 1 	 N/N 	 1 	 government British
+2 	 4 	 ((S[dcl]\NP)/PP)/NP 	 1 	 government forbids
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 forbids currently
+4 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 forbids until
+7 	 4 	 ((S[dcl]\NP)/PP)/NP 	 3 	 investor forbids
+7 	 5 	 NP[nb]/N 	 1 	 investor any
+7 	 6 	 N/N 	 1 	 investor outside
+8 	 4 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from forbids
+9 	 8 	 PP/(S[ng]\NP) 	 1 	 holding from
+9 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 holding without
+10 	 11 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+12 	 11 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 15 than
+13 	 9 	 (S[ng]\NP)/NP 	 2 	 % holding
+13 	 12 	 N/N 	 1 	 % 15
+13 	 14 	 (NP\NP)/NP 	 1 	 % of
+16 	 15 	 NP[nb]/N 	 1 	 company the
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 company 's
+18 	 14 	 (NP\NP)/NP 	 2 	 shares of
+18 	 17 	 (NP[nb]/N)\NP 	 1 	 shares 's
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 permission without
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 Dec. until
+23 	 22 	 N/N[num] 	 1 	 31 Dec.
+<\s>
+<s id="wsj_1225.5"> 34
+3 	 1 	 (S/S)/NP 	 2 	 stake with
+3 	 2 	 NP[nb]/N 	 1 	 stake its
+3 	 4 	 (NP\NP)/NP 	 1 	 stake in
+3 	 7 	 (NP\NP)/(S[dcl]/NP) 	 1 	 stake which
+3 	 9 	 (S[dcl]\NP)/NP 	 2 	 stake raised <XU>
+5 	 4 	 (NP\NP)/NP 	 2 	 Jaguar in
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 it raised
+9 	 7 	 (NP\NP)/(S[dcl]/NP) 	 2 	 raised which
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 raised yesterday
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 raised to
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+13 	 12 	 N/N 	 1 	 % 11.95
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Ford could
+15 	 17 	 (S[b]\NP)/NP 	 1 	 Ford convene <XB>
+15 	 25 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 Ford urge <XU>
+16 	 0 	 S/S 	 1 	 could But
+16 	 1 	 (S/S)/NP 	 1 	 could with
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 convene could
+23 	 17 	 (S[b]\NP)/NP 	 2 	 meeting convene
+23 	 18 	 NP[nb]/N 	 1 	 meeting a
+23 	 19 	 N/N 	 1 	 meeting special
+23 	 20 	 N/N 	 1 	 meeting Jaguar
+23 	 21 	 N/N 	 1 	 meeting shareholders
+23 	 22 	 N/N 	 1 	 meeting '
+25 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 urge could
+26 	 25 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 holders urge
+26 	 28 	 (S[b]\NP)/(S[to]\NP) 	 1 	 holders vote <XB>
+26 	 30 	 (S[b]\NP)/NP 	 1 	 holders drop <XB>
+27 	 25 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to urge
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 vote to
+29 	 28 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to vote
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 drop to
+30 	 33 	 (S\NP)\(S\NP) 	 2 	 drop sooner
+32 	 30 	 (S[b]\NP)/NP 	 2 	 restriction drop
+32 	 31 	 NP[nb]/N 	 1 	 restriction the
+<\s>
+<s id="wsj_1225.6"> 14
+2 	 0 	 NP[nb]/N 	 1 	 vote A
+2 	 1 	 N/N 	 1 	 vote successful
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 vote would
+2 	 4 	 ((S[b]\NP)/PP)/NP 	 1 	 vote put <XB>
+2 	 11 	 (S[b]\NP)/NP 	 1 	 vote lift <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 put would
+5 	 4 	 ((S[b]\NP)/PP)/NP 	 3 	 pressure put
+6 	 4 	 ((S[b]\NP)/PP)/NP 	 2 	 on put
+9 	 6 	 PP/NP 	 1 	 government on
+9 	 7 	 NP[nb]/N 	 1 	 government the
+9 	 8 	 N/N 	 1 	 government British
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lift to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 restriction lift
+13 	 12 	 NP[nb]/N 	 1 	 restriction the
+<\s>
+<s id="wsj_1225.7"> 24
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 We have
+0 	 3 	 (S[pt]\NP)/NP 	 1 	 We made <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 have not
+1 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 have said
+3 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 made have
+5 	 3 	 (S[pt]\NP)/NP 	 2 	 decision made
+5 	 4 	 NP[nb]/N 	 1 	 decision that
+5 	 7 	 (S[b]\NP)/NP 	 1 	 decision seek <XB>
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 seek to
+11 	 8 	 NP[nb]/N 	 1 	 shareholders a
+11 	 9 	 N/N 	 1 	 shareholders Jaguar
+11 	 10 	 N/N 	 1 	 shareholders special
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 shareholders '
+13 	 7 	 (S[b]\NP)/NP 	 2 	 meeting seek
+13 	 12 	 (NP[nb]/N)\NP 	 1 	 meeting '
+17 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 Watkins said
+17 	 16 	 N/N 	 1 	 Watkins Martyn
+21 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 spokesman said
+21 	 19 	 NP[nb]/N 	 1 	 spokesman a
+21 	 20 	 N/N 	 1 	 spokesman Ford
+21 	 22 	 (NP\NP)/NP 	 1 	 spokesman in
+23 	 22 	 (NP\NP)/NP 	 2 	 London in
+<\s>
+<s id="wsj_1225.8"> 30
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 He emphasized
+0 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said <XU>
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that emphasized
+5 	 3 	 NP[nb]/N 	 1 	 maker the
+5 	 4 	 N/N 	 1 	 maker car
+5 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 maker would
+5 	 8 	 (S[b]\NP)/PP 	 1 	 maker bid <XB>
+7 	 2 	 S[em]/S[dcl] 	 1 	 would that
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 would only
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 bid would
+8 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 bid under
+9 	 8 	 (S[b]\NP)/PP 	 2 	 for bid
+10 	 9 	 PP/NP 	 1 	 all for
+10 	 11 	 (NP\NP)/NP 	 1 	 all of
+12 	 11 	 (NP\NP)/NP 	 2 	 Jaguar of
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 circumstances under
+16 	 14 	 NP[nb]/N 	 1 	 circumstances the
+16 	 15 	 N/N 	 1 	 circumstances right
+21 	 20 	 NP[nb]/N 	 1 	 circumstances those
+21 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 circumstances are
+21 	 24 	 S[adj]\NP 	 1 	 circumstances right <XB>
+21 	 26 	 S[adj]\NP 	 1 	 circumstances possible <XU>
+22 	 19 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 are n't
+22 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 are at
+24 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 right are
+26 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 possible are
+29 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 moment at
+29 	 28 	 NP[nb]/N 	 1 	 moment the
+<\s>
+<s id="wsj_1225.9"> 15
+1 	 0 	 (S/S)/(S/S) 	 2 	 month Last
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Ford announced
+4 	 1 	 S/S 	 1 	 announced month
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 plans announced
+5 	 7 	 (S[b]\NP)/NP 	 1 	 plans acquire <XB>
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+8 	 7 	 (S[b]\NP)/NP 	 2 	 as acquire
+8 	 13 	 (NP\NP)/NP 	 1 	 as of
+9 	 8 	 (N/PP)/(S[adj]\NP) 	 2 	 much as
+10 	 8 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+12 	 10 	 PP/NP 	 1 	 % as
+12 	 11 	 N/N 	 1 	 % 15
+14 	 13 	 (NP\NP)/NP 	 2 	 Jaguar of
+<\s>
+<s id="wsj_1225.10"> 29
+1 	 0 	 (S/S)/NP 	 2 	 then Since
+4 	 3 	 N/N 	 1 	 officials Jaguar
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 officials have
+4 	 6 	 (S[pt]\NP)/S[em] 	 1 	 officials confirmed <XB>
+4 	 16 	 (S[dcl]\NP)/S[em] 	 1 	 officials said <XU>
+5 	 0 	 (S/S)/NP 	 1 	 have Since
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 confirmed have
+7 	 6 	 (S[pt]\NP)/S[em] 	 2 	 that confirmed
+8 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they are
+8 	 10 	 (S[ng]\NP)/NP 	 1 	 they discussing <XB>
+9 	 7 	 S[em]/S[dcl] 	 1 	 are that
+10 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 discussing are
+12 	 10 	 (S[ng]\NP)/NP 	 2 	 alliance discussing
+12 	 11 	 NP[nb]/N 	 1 	 alliance an
+12 	 13 	 (NP\NP)/NP 	 1 	 alliance with
+14 	 13 	 (NP\NP)/NP 	 2 	 GM with
+16 	 0 	 (S/S)/NP 	 1 	 said Since
+16 	 18 	 (S\NP)\(S\NP) 	 2 	 said week
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week last
+19 	 16 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+20 	 21 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 they hoped
+20 	 23 	 (S[b]\NP)/NP 	 1 	 they reach <XB>
+21 	 19 	 S[em]/S[dcl] 	 1 	 hoped that
+22 	 21 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to hoped
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reach to
+23 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 reach within
+25 	 23 	 (S[b]\NP)/NP 	 2 	 agreement reach
+25 	 24 	 NP[nb]/N 	 1 	 agreement an
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 month within
+28 	 27 	 NP[nb]/N 	 1 	 month a
+<\s>
+<s id="wsj_1225.11"> 35
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Analysts have
+0 	 3 	 (S[ng]\NP)/NP 	 1 	 Analysts expecting <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+3 	 2 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 expecting been
+6 	 3 	 (S[ng]\NP)/NP 	 2 	 pact expecting
+6 	 4 	 NP[nb]/N 	 1 	 pact a
+6 	 5 	 N/N 	 1 	 pact GM-Jaguar
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 pact that
+6 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 pact would <XB>
+6 	 9 	 ((S[b]\NP)/NP)/NP 	 1 	 pact give <XB>
+6 	 24 	 (S[b]\NP)/NP 	 1 	 pact create <XU>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give would
+13 	 9 	 ((S[b]\NP)/NP)/NP 	 3 	 maker give
+13 	 10 	 NP[nb]/N 	 1 	 maker the
+13 	 11 	 N/N 	 1 	 maker U.S.
+13 	 12 	 N/N 	 1 	 maker car
+17 	 16 	 (N/N)/(N/N) 	 2 	 % 30
+18 	 9 	 ((S[b]\NP)/NP)/NP 	 2 	 stake give
+18 	 14 	 NP[nb]/N 	 1 	 stake an
+18 	 15 	 N/N 	 1 	 stake eventual
+18 	 17 	 N/N 	 1 	 stake %
+18 	 19 	 (NP\NP)/NP 	 1 	 stake in
+22 	 19 	 (NP\NP)/NP 	 2 	 company in
+22 	 20 	 NP[nb]/N 	 1 	 company the
+22 	 21 	 N/N 	 1 	 company British
+24 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 create would
+26 	 24 	 (S[b]\NP)/NP 	 2 	 ventures create
+26 	 25 	 N/N 	 1 	 ventures joint
+26 	 27 	 (NP\NP)/(S[dcl]\NP) 	 1 	 ventures that
+26 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 ventures would <XB>
+26 	 29 	 (S[b]\NP)/NP 	 1 	 ventures produce <XB>
+28 	 27 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+29 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 produce would
+32 	 29 	 (S[b]\NP)/NP 	 2 	 range produce
+32 	 30 	 NP[nb]/N 	 1 	 range an
+32 	 31 	 N/N 	 1 	 range executive-model
+32 	 33 	 (NP\NP)/NP 	 1 	 range of
+34 	 33 	 (NP\NP)/NP 	 2 	 cars of
+<\s>
+<s id="wsj_1225.12"> 15
+2 	 1 	 NP[nb]/N 	 1 	 specter the
+2 	 3 	 ((NP\NP)/(S[ng]\NP))/NP 	 1 	 specter of
+2 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 specter could
+2 	 11 	 (S[b]\NP)/NP 	 1 	 specter unravel <XB>
+4 	 3 	 ((NP\NP)/(S[ng]\NP))/NP 	 3 	 Ford of
+4 	 6 	 (S[ng]\NP)/NP 	 1 	 Ford launching <XB>
+6 	 3 	 ((NP\NP)/(S[ng]\NP))/NP 	 2 	 launching of
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 launching eventually
+9 	 6 	 (S[ng]\NP)/NP 	 2 	 bid launching
+9 	 7 	 NP[nb]/N 	 1 	 bid a
+9 	 8 	 N/N 	 1 	 bid full-fledged
+10 	 0 	 S/S 	 1 	 could But
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 unravel could
+14 	 11 	 (S[b]\NP)/NP 	 2 	 talks unravel
+14 	 12 	 NP[nb]/N 	 1 	 talks the
+14 	 13 	 N/N 	 1 	 talks GM-Jaguar
+<\s>
+<s id="wsj_1225.13"> 49
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Jaguar seems
+0 	 4 	 ((S[ng]\NP)/PP)/NP 	 1 	 Jaguar losing <XB>
+1 	 13 	 ((S[dcl]\S[dcl])/(S[ng]\NP))/NP 	 1 	 seems said
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to seems
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+4 	 3 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 losing be
+5 	 4 	 ((S[ng]\NP)/PP)/NP 	 3 	 interest losing
+6 	 4 	 ((S[ng]\NP)/PP)/NP 	 2 	 in losing
+7 	 6 	 PP/(S[ng]\NP) 	 1 	 giving in
+8 	 7 	 ((S[ng]\NP)/NP)/NP 	 3 	 GM giving
+11 	 7 	 ((S[ng]\NP)/NP)/NP 	 2 	 stake giving
+11 	 9 	 NP[nb]/N 	 1 	 stake a
+11 	 10 	 N/N 	 1 	 stake minority
+15 	 13 	 ((S[dcl]\S[dcl])/(S[ng]\NP))/NP 	 3 	 individual said
+15 	 14 	 N/N 	 1 	 individual one
+15 	 16 	 S[adj]\NP 	 1 	 individual close <XB>
+15 	 21 	 (S[ng]\NP)/S[dcl] 	 1 	 individual adding <XB>
+16 	 17 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 close to
+19 	 17 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 talks to
+19 	 18 	 NP[nb]/N 	 1 	 talks the
+21 	 13 	 ((S[dcl]\S[dcl])/(S[ng]\NP))/NP 	 2 	 adding said
+23 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 It would
+23 	 26 	 (S[b]\NP)/NP 	 1 	 It surprise <XB>
+24 	 21 	 (S[ng]\NP)/S[dcl] 	 2 	 would adding
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 would n't
+26 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 surprise would
+26 	 28 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 surprise if
+27 	 26 	 (S[b]\NP)/NP 	 2 	 me surprise
+31 	 30 	 N/N 	 1 	 executives Jaguar
+31 	 33 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 executives want
+31 	 35 	 (S[b]\NP)/NP 	 1 	 executives wait <XB>
+31 	 37 	 (S[b]\NP)/NP 	 1 	 executives see <XU>
+33 	 28 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 want if
+34 	 33 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to want
+35 	 34 	 (S[to]\NP)/(S[b]\NP) 	 2 	 wait to
+35 	 48 	 (S\NP)\(S\NP) 	 2 	 wait first
+37 	 34 	 (S[to]\NP)/(S[b]\NP) 	 2 	 see to
+37 	 48 	 (S\NP)\(S\NP) 	 2 	 see first
+38 	 35 	 (S[b]\NP)/NP 	 2 	 what wait <XU>
+38 	 37 	 (S[b]\NP)/NP 	 2 	 what see
+38 	 47 	 (S[dcl]\NP)/NP 	 2 	 what is <XU>
+40 	 39 	 NP[nb]/N 	 1 	 color the
+40 	 41 	 (NP\NP)/NP 	 1 	 color of
+40 	 47 	 (S[dcl]\NP)/NP 	 1 	 color is
+45 	 41 	 (NP\NP)/NP 	 2 	 bid of
+45 	 42 	 N/N 	 1 	 bid that
+45 	 44 	 N/N 	 1 	 bid Ford
+47 	 38 	 NP/(S[dcl]/NP) 	 1 	 is what
+<\s>
+<s id="wsj_1225.14"> 18
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He predicted
+3 	 2 	 N/N 	 1 	 officials Ford
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 officials will
+3 	 5 	 (S[b]\NP)/PP 	 1 	 officials meet <XB>
+3 	 14 	 (S[b]\NP)/NP 	 1 	 officials outline <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 will predicted
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 meet will
+5 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 meet in
+6 	 5 	 (S[b]\NP)/PP 	 2 	 with meet
+8 	 6 	 PP/NP 	 1 	 executives with
+8 	 7 	 N/N 	 1 	 executives Jaguar
+12 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 week in
+12 	 10 	 NP[nb]/N 	 1 	 week the
+12 	 11 	 N/N 	 1 	 week next
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 outline to
+17 	 14 	 (S[b]\NP)/NP 	 2 	 offer outline
+17 	 15 	 NP[nb]/N 	 1 	 offer their
+17 	 16 	 N/N 	 1 	 offer proposed
+<\s>
+<s id="wsj_1225.15"> 31
+2 	 0 	 N/N 	 1 	 Egan Sir
+2 	 1 	 N/N 	 1 	 Egan John
+2 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Egan has
+2 	 11 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Egan refused <XB>
+2 	 13 	 (S[b]\NP)/PP 	 1 	 Egan meet <XB>
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Jaguar 's
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 chairman 's
+6 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 chairman has
+6 	 11 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 chairman refused <XB>
+6 	 13 	 (S[b]\NP)/PP 	 1 	 chairman meet <XB>
+9 	 8 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 far so
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 has far
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 refused has
+12 	 11 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to refused
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+14 	 13 	 (S[b]\NP)/PP 	 2 	 with meet
+16 	 14 	 PP/NP 	 1 	 officials with
+16 	 15 	 N/N 	 1 	 officials Ford
+19 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 he is
+19 	 21 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 he believed <XB>
+19 	 24 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 he willing <XB>
+21 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 believed is
+22 	 21 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to believed
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+24 	 23 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 willing be
+25 	 24 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to willing
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 consider to
+30 	 26 	 (S[b]\NP)/NP 	 2 	 proposal consider
+30 	 27 	 NP[nb]/N 	 1 	 proposal a
+30 	 28 	 N/N 	 1 	 proposal specific
+30 	 29 	 N/N 	 1 	 proposal bid
+<\s>
+<s id="wsj_1225.16"> 28
+1 	 0 	 (S/S)/PP 	 2 	 for As
+2 	 1 	 PP/NP 	 1 	 GM for
+6 	 4 	 NP[nb]/N 	 1 	 position its
+6 	 5 	 N/N 	 1 	 position fallback
+6 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 position has
+6 	 9 	 (S[b]\NP)/NP 	 1 	 position be <XB>
+7 	 0 	 (S/S)/PP 	 1 	 has As
+7 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 has said
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to has
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+12 	 9 	 (S[b]\NP)/NP 	 2 	 bid be
+12 	 10 	 NP[nb]/N 	 1 	 bid a
+12 	 11 	 N/N 	 1 	 bid full
+12 	 13 	 NP\NP 	 1 	 bid itself
+17 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 Reitman said
+17 	 16 	 N/N 	 1 	 Reitman Stephen
+21 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst said
+21 	 19 	 N/N 	 1 	 analyst European
+21 	 20 	 N/N 	 1 	 analyst auto-industry
+21 	 22 	 (NP\NP)/NP 	 1 	 analyst at
+27 	 22 	 (NP\NP)/NP 	 2 	 Drew at
+27 	 23 	 NP/NP 	 1 	 Drew London
+27 	 24 	 NP/NP 	 1 	 Drew brokers
+27 	 25 	 N/N 	 1 	 Drew UBS-Phillips
+27 	 26 	 N/N 	 1 	 Drew &
+<\s>
+<s id="wsj_1225.17"> 26
+2 	 0 	 NP[nb]/N 	 1 	 takeover A
+2 	 1 	 N/N 	 1 	 takeover Ford
+2 	 3 	 (NP\NP)/NP 	 1 	 takeover of
+2 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 takeover would
+2 	 6 	 (S[b]\NP)/NP 	 1 	 takeover have <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 Jaguar of
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+8 	 6 	 (S[b]\NP)/NP 	 2 	 implications have
+8 	 7 	 NP/NP 	 1 	 implications such
+8 	 9 	 (NP\NP)/NP 	 1 	 implications for
+8 	 17 	 (NP\NP)/S[dcl] 	 1 	 implications that
+11 	 9 	 (NP\NP)/NP 	 2 	 balance for
+11 	 10 	 NP[nb]/N 	 1 	 balance the
+11 	 12 	 (NP\NP)/NP 	 1 	 balance of
+11 	 14 	 (NP\NP)/NP 	 1 	 balance in
+13 	 12 	 (NP\NP)/NP 	 2 	 power of
+16 	 14 	 (NP\NP)/NP 	 2 	 1990s in
+16 	 15 	 NP[nb]/N 	 1 	 1990s the
+19 	 18 	 N/N 	 1 	 Motors General
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Motors ca
+19 	 22 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Motors afford <XB>
+19 	 24 	 S[b]\NP 	 1 	 Motors step <XB>
+20 	 17 	 (NP\NP)/S[dcl] 	 2 	 ca that
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 ca n't
+22 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 afford ca
+23 	 22 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to afford
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 step to
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 step aside
+<\s>
+<s id="wsj_1225.18"> 10
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 They will
+0 	 4 	 ((S[b]\NP)/PP)/NP 	 1 	 They throw <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+3 	 2 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 throw to
+6 	 4 	 ((S[b]\NP)/PP)/NP 	 3 	 hat throw
+6 	 5 	 NP[nb]/N 	 1 	 hat their
+7 	 4 	 ((S[b]\NP)/PP)/NP 	 2 	 in throw
+9 	 7 	 PP/NP 	 1 	 ring in
+9 	 8 	 NP[nb]/N 	 1 	 ring the
+<\s>
+<s id="wsj_1225.19"> 19
+2 	 0 	 NP[nb]/N 	 1 	 spokesman A
+2 	 1 	 N/N 	 1 	 spokesman GM
+2 	 4 	 (S[dcl]\NP)/NP 	 1 	 spokesman reiterated
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 reiterated yesterday
+6 	 5 	 NP[nb]/N 	 1 	 company the
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 company 's
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 interest reiterated
+8 	 7 	 (NP[nb]/N)\NP 	 1 	 interest 's
+8 	 9 	 (NP\NP)/(S[ng]\NP) 	 1 	 interest in
+10 	 9 	 (NP\NP)/(S[ng]\NP) 	 2 	 acquiring in
+13 	 10 	 (S[ng]\NP)/NP 	 2 	 stake acquiring
+13 	 11 	 NP[nb]/N 	 1 	 stake a
+13 	 12 	 N/N 	 1 	 stake minority
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 help to
+16 	 15 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 Jaguar help
+16 	 17 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 Jaguar remain <XB>
+16 	 18 	 S[adj]\NP 	 1 	 Jaguar independent <XB>
+17 	 15 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 remain help
+18 	 17 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 independent remain
+<\s>
+<s id="wsj_1225.20"> 31
+2 	 0 	 NP[nb]/N 	 1 	 battle A
+2 	 1 	 N/N 	 1 	 battle pitched
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 battle could
+2 	 4 	 (S[b]\NP)/S[dcl] 	 1 	 battle mean <XB>
+3 	 30 	 (S[dcl]\S[dcl])\NP 	 1 	 could believe
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 mean could
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Jaguar would
+5 	 7 	 (S[b]\NP)/NP 	 1 	 Jaguar fetch <XB>
+6 	 4 	 (S[b]\NP)/S[dcl] 	 2 	 would mean
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 fetch would
+8 	 7 	 (S[b]\NP)/NP 	 2 	 # fetch
+8 	 10 	 (NP\NP)/NP 	 1 	 # -LRB-
+8 	 14 	 (NP\NP)/N 	 1 	 # a
+9 	 8 	 N/N[num] 	 1 	 10 #
+11 	 10 	 (NP\NP)/NP 	 2 	 $ -LRB-
+12 	 11 	 N/N[num] 	 1 	 16.02 $
+15 	 14 	 (NP\NP)/N 	 2 	 share a
+19 	 7 	 (S[b]\NP)/NP 	 2 	 # fetch
+19 	 18 	 N/N 	 1 	 # about
+19 	 22 	 (NP\NP)/NP 	 1 	 # -LRB-
+21 	 19 	 N/N[num] 	 1 	 billion #
+21 	 20 	 N/N 	 1 	 billion 1.8
+23 	 22 	 (NP\NP)/NP 	 2 	 $ -LRB-
+25 	 23 	 N/N[num] 	 1 	 billion $
+25 	 24 	 N/N 	 1 	 billion 2.88
+29 	 28 	 N/N 	 1 	 analysts several
+29 	 30 	 (S[dcl]\S[dcl])\NP 	 2 	 analysts believe
+<\s>
+<s id="wsj_1225.21"> 15
+1 	 0 	 NP[nb]/N 	 1 	 prospect The
+1 	 2 	 (NP\NP)/NP 	 1 	 prospect of
+1 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 prospect has
+1 	 8 	 ((S[pt]\NP)/(S[ng]\NP))/NP 	 1 	 prospect sent <XB>
+6 	 2 	 (NP\NP)/NP 	 2 	 fight of
+6 	 3 	 NP/NP 	 1 	 fight such
+6 	 4 	 NP[nb]/N 	 1 	 fight a
+6 	 5 	 N/N 	 1 	 fight takeover
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 sent has
+8 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 sent in
+10 	 8 	 ((S[pt]\NP)/(S[ng]\NP))/NP 	 3 	 shares sent
+10 	 9 	 N/N 	 1 	 shares Jaguar
+10 	 11 	 S[ng]\NP 	 1 	 shares soaring <XB>
+11 	 8 	 ((S[pt]\NP)/(S[ng]\NP))/NP 	 2 	 soaring sent
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 weeks in
+14 	 13 	 N/N 	 1 	 weeks recent
+<\s>
+<s id="wsj_1225.22"> 12
+2 	 0 	 N/N 	 1 	 speculators U.S.
+2 	 1 	 N/N 	 1 	 speculators takeover-stock
+2 	 4 	 (S[dcl]\NP)/NP 	 1 	 speculators own
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 own now
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 % own
+8 	 5 	 NP[nb]/N 	 1 	 % an
+8 	 6 	 N/N 	 1 	 % estimated
+8 	 7 	 N/N 	 1 	 % 25
+8 	 9 	 (NP\NP)/NP 	 1 	 % of
+11 	 9 	 (NP\NP)/NP 	 2 	 shares of
+11 	 10 	 N/N 	 1 	 shares Jaguar
+<\s>
+<s id="wsj_1225.23"> 29
+5 	 0 	 (S/S)/NP 	 2 	 market In
+5 	 1 	 NP[nb]/N 	 1 	 market a
+5 	 2 	 N/N 	 1 	 market declining
+5 	 3 	 N/N 	 1 	 market London
+5 	 4 	 N/N 	 1 	 market stock
+9 	 8 	 N/N 	 1 	 shares Jaguar
+9 	 10 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 1 	 shares were
+9 	 11 	 (S[adj]\NP)/NP 	 1 	 shares down <XB>
+10 	 0 	 (S/S)/NP 	 1 	 were In
+10 	 6 	 S/S 	 1 	 were yesterday
+10 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 were in
+11 	 10 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 3 	 down were
+11 	 14 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 down from
+13 	 11 	 (S[adj]\NP)/NP 	 2 	 pence down
+13 	 12 	 N/N 	 1 	 pence four
+15 	 14 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 Monday from
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+18 	 17 	 N/N 	 1 	 trading late
+20 	 10 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 2 	 at were
+22 	 20 	 PP/NP 	 1 	 pence at
+22 	 21 	 N/N 	 1 	 pence 694
+22 	 23 	 (NP\NP)/NP 	 1 	 pence -LRB-
+22 	 27 	 (NP\NP)/N 	 1 	 pence a
+24 	 23 	 (NP\NP)/NP 	 2 	 $ -LRB-
+25 	 24 	 N/N[num] 	 1 	 11.11 $
+28 	 27 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_1225.24"> 19
+2 	 0 	 (S/S)/NP 	 2 	 U.S. In
+2 	 1 	 NP[nb]/N 	 1 	 U.S. the
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Jaguar 's
+8 	 5 	 (NP[nb]/N)\NP 	 1 	 receipts 's
+8 	 6 	 N/N 	 1 	 receipts American
+8 	 7 	 N/N 	 1 	 receipts depositary
+8 	 9 	 S[dcl]\NP 	 1 	 receipts rose
+9 	 0 	 (S/S)/NP 	 1 	 rose In
+9 	 11 	 (S\NP)\(S\NP) 	 2 	 rose cents
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 rose in
+9 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 cents 12.5
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+14 	 13 	 N/N 	 1 	 trading over-the-counter
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+18 	 17 	 N/N[num] 	 1 	 11.25 $
+<\s>
+<s id="wsj_1225.25"> 22
+1 	 0 	 NP[nb]/N 	 1 	 Ford Both
+1 	 5 	 (S[dcl]\NP)/NP 	 1 	 Ford need
+3 	 0 	 NP[nb]/N 	 1 	 GM Both
+3 	 5 	 (S[dcl]\NP)/NP 	 1 	 GM need
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 need badly
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 a need
+8 	 6 	 (NP/(S[to]\NP))/N 	 2 	 brand a
+8 	 7 	 N/N 	 1 	 brand luxury
+8 	 10 	 (S[b]\NP)/NP 	 1 	 brand combat <XB>
+9 	 6 	 (NP/(S[to]\NP))/N 	 1 	 to a
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 combat to
+10 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 combat in
+12 	 10 	 (S[b]\NP)/NP 	 2 	 competition combat
+12 	 11 	 N/N 	 1 	 competition new
+12 	 13 	 (NP\NP)/NP 	 1 	 competition from
+15 	 13 	 (NP\NP)/NP 	 2 	 Japanese from
+15 	 14 	 NP[nb]/N 	 1 	 Japanese the
+21 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 markets in
+21 	 17 	 NP[nb]/N 	 1 	 markets the
+21 	 18 	 N/N 	 1 	 markets European
+21 	 20 	 N/N 	 1 	 markets U.S.
+<\s>
+<s id="wsj_1225.26"> 20
+2 	 1 	 (N/N)/(N/N) 	 2 	 strapped financially
+3 	 2 	 N/N 	 1 	 Jaguar strapped
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Jaguar has
+3 	 5 	 ((S[pt]\NP)/(S[ng]\NP))/NP 	 1 	 Jaguar spent <XB>
+4 	 0 	 S/S 	 1 	 has And
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 spent has
+8 	 5 	 ((S[pt]\NP)/(S[ng]\NP))/NP 	 3 	 year spent
+8 	 6 	 NP/NP 	 1 	 year over
+8 	 7 	 NP[nb]/N 	 1 	 year a
+8 	 9 	 (S[ng]\NP)/PP 	 1 	 year looking <XB>
+9 	 5 	 ((S[pt]\NP)/(S[ng]\NP))/NP 	 2 	 looking spent
+10 	 9 	 (S[ng]\NP)/PP 	 2 	 for looking
+13 	 10 	 PP/NP 	 1 	 uncle for
+13 	 11 	 NP[nb]/N 	 1 	 uncle a
+13 	 12 	 N/N 	 1 	 uncle rich
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provide to
+16 	 15 	 (S[b]\NP)/NP 	 2 	 cash provide
+19 	 15 	 (S[b]\NP)/NP 	 2 	 know-how provide
+19 	 18 	 N/N 	 1 	 know-how technological
+<\s>
+<s id="wsj_1225.27"> 19
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company has
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 company expressed <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 expressed has
+3 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 expressed because
+5 	 3 	 (S[pt]\NP)/NP 	 2 	 preference expressed
+5 	 4 	 NP[nb]/N 	 1 	 preference a
+5 	 6 	 (NP\NP)/NP 	 1 	 preference for
+7 	 6 	 (NP\NP)/NP 	 2 	 GM for
+7 	 8 	 (NP\NP)/NP 	 1 	 GM over
+9 	 8 	 (NP\NP)/NP 	 2 	 Ford over
+11 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 GM has
+11 	 13 	 (S[pt]\NP)/S[dcl] 	 1 	 GM promised <XB>
+12 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has because
+13 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 promised has
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+14 	 16 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 it keep <XB>
+15 	 13 	 (S[pt]\NP)/S[dcl] 	 2 	 would promised
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 keep would
+17 	 16 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 Jaguar keep
+17 	 18 	 S[adj]\NP 	 1 	 Jaguar independent <XB>
+18 	 16 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 independent keep
+<\s>
+<s id="wsj_1225.28"> 36
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Ford 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 need 's
+2 	 4 	 (S[b]\NP)/NP 	 1 	 need acquire <XB>
+2 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 need became
+2 	 12 	 S[adj]\NP 	 1 	 need acute <XB>
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+5 	 4 	 (S[b]\NP)/NP 	 2 	 some acquire
+5 	 8 	 (NP\NP)/NP 	 1 	 some of
+7 	 4 	 (S[b]\NP)/NP 	 2 	 all acquire
+7 	 8 	 (NP\NP)/NP 	 1 	 all of
+9 	 8 	 (NP\NP)/NP 	 2 	 Jaguar of
+10 	 14 	 (S\NP)\(S\NP) 	 2 	 became week
+12 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 acute became
+12 	 11 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 acute more
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week last
+14 	 15 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 3 	 week when
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 it abandoned
+17 	 15 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 4 	 abandoned when
+20 	 17 	 (S[dcl]\NP)/NP 	 2 	 effort abandoned
+20 	 18 	 NP[nb]/N 	 1 	 effort a
+20 	 19 	 N/N 	 1 	 effort four-year
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 market to
+22 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 market in
+27 	 22 	 ((S[b]\NP)/PP)/NP 	 3 	 sedan market
+27 	 23 	 NP[nb]/N 	 1 	 sedan its
+27 	 24 	 N/N 	 1 	 sedan German-built
+27 	 25 	 N/N 	 1 	 sedan Merkur
+27 	 26 	 N/N 	 1 	 sedan Scorpio
+28 	 22 	 ((S[b]\NP)/PP)/NP 	 2 	 as market
+32 	 28 	 PP/NP 	 1 	 import as
+32 	 29 	 NP[nb]/N 	 1 	 import a
+32 	 30 	 N/N 	 1 	 import European
+32 	 31 	 N/N 	 1 	 import luxury
+35 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. in
+35 	 34 	 NP[nb]/N 	 1 	 U.S. the
+<\s>
+<s id="wsj_1225.29"> 18
+3 	 2 	 (S/S)/(S/S) 	 2 	 Friday last
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Ford 's
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 talks 's
+7 	 8 	 (NP\NP)/NP 	 1 	 talks about
+7 	 17 	 S[dcl]\NP 	 1 	 talks collapsed
+11 	 8 	 (NP\NP)/NP 	 2 	 alliance about
+11 	 9 	 NP[nb]/N 	 1 	 alliance a
+11 	 10 	 N/N 	 1 	 alliance possible
+11 	 12 	 (NP\NP)/NP 	 1 	 alliance with
+14 	 12 	 (NP\NP)/NP 	 2 	 AB with
+14 	 13 	 N/N 	 1 	 AB Saab-Scania
+14 	 15 	 (NP\NP)/NP 	 1 	 AB of
+16 	 15 	 (NP\NP)/NP 	 2 	 Sweden of
+17 	 0 	 S/S 	 1 	 collapsed Then
+17 	 3 	 S/S 	 1 	 collapsed Friday
+<\s>
+<s id="wsj_1225.30"> 24
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 GM 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 interest 's
+2 	 3 	 (NP\NP)/NP 	 1 	 interest in
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 interest reflects
+4 	 3 	 (NP\NP)/NP 	 2 	 Jaguar in
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 desire reflects
+7 	 6 	 NP[nb]/N 	 1 	 desire a
+7 	 9 	 (S[b]\NP)/(S[b]\NP) 	 1 	 desire help <XB>
+7 	 10 	 (S[b]\NP)/NP 	 1 	 desire diversify <XB>
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 help to
+10 	 9 	 (S[b]\NP)/(S[b]\NP) 	 2 	 diversify help
+13 	 11 	 NP[nb]/N 	 1 	 company the
+13 	 12 	 N/N 	 1 	 company U.S.
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 company 's
+15 	 10 	 (S[b]\NP)/NP 	 2 	 products diversify
+15 	 14 	 (NP[nb]/N)\NP 	 1 	 products 's
+15 	 16 	 (NP\NP)/NP 	 1 	 products in
+20 	 16 	 (NP\NP)/NP 	 2 	 segment in
+20 	 17 	 NP[nb]/N 	 1 	 segment the
+20 	 18 	 N/N 	 1 	 segment growing
+20 	 19 	 N/N 	 1 	 segment luxury-car
+20 	 21 	 (NP\NP)/NP 	 1 	 segment of
+23 	 21 	 (NP\NP)/NP 	 2 	 market of
+23 	 22 	 NP[nb]/N 	 1 	 market the
+<\s>
+<s id="wsj_1225.31"> 23
+2 	 0 	 NP[nb]/N 	 1 	 line Its
+2 	 1 	 N/N 	 1 	 line Opel
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 line has
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 image has
+6 	 4 	 NP[nb]/N 	 1 	 image a
+6 	 5 	 N/N 	 1 	 image solid
+10 	 3 	 (S[dcl]\NP)/NP 	 2 	 string has
+10 	 8 	 NP[nb]/N 	 1 	 string a
+10 	 9 	 N/N 	 1 	 string recent
+10 	 11 	 (NP\NP)/NP 	 1 	 string of
+13 	 12 	 (N/N)/(N/N) 	 2 	 successful highly
+15 	 11 	 (NP\NP)/NP 	 2 	 models of
+15 	 13 	 N/N 	 1 	 models successful
+15 	 14 	 N/N 	 1 	 models new
+18 	 19 	 (S[dcl]\NP)/NP 	 1 	 it lacks
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 Jaguar 's
+22 	 19 	 (S[dcl]\NP)/NP 	 2 	 cachet lacks
+22 	 21 	 (NP[nb]/N)\NP 	 1 	 cachet 's
+<\s>
+<s id="wsj_1225.32"> 33
+1 	 0 	 N/N 	 1 	 officials GM
+1 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 officials see
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 see also
+5 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 lot see
+5 	 4 	 NP[nb]/N 	 1 	 lot a
+5 	 6 	 (NP\NP)/NP 	 1 	 lot of
+7 	 6 	 (NP\NP)/NP 	 2 	 potential of
+8 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 in see
+9 	 8 	 PP/(S[ng]\NP) 	 1 	 marrying in
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Jaguar 's
+12 	 9 	 ((S[ng]\NP)/PP)/NP 	 3 	 cars marrying
+12 	 11 	 (NP[nb]/N)\NP 	 1 	 cars 's
+13 	 9 	 ((S[ng]\NP)/PP)/NP 	 2 	 to marrying
+16 	 13 	 PP/NP 	 1 	 know-how to
+16 	 14 	 NP[nb]/N 	 1 	 know-how the
+16 	 15 	 N/N 	 1 	 know-how technological
+16 	 17 	 (NP\NP)/NP 	 1 	 know-how of
+20 	 17 	 (NP\NP)/NP 	 2 	 PLC of
+20 	 18 	 N/N 	 1 	 PLC Group
+20 	 19 	 N/N 	 1 	 PLC Lotus
+24 	 17 	 (NP\NP)/NP 	 2 	 engineering of
+24 	 22 	 NP[nb]/N 	 1 	 engineering a
+24 	 23 	 N/N 	 1 	 engineering British
+24 	 30 	 (S[dcl]\NP)/NP 	 2 	 engineering bought <XU>
+28 	 17 	 (NP\NP)/NP 	 2 	 maker of
+28 	 22 	 NP[nb]/N 	 1 	 maker a
+28 	 23 	 N/N 	 1 	 maker British
+28 	 26 	 N/N 	 1 	 maker specialty
+28 	 27 	 N/N 	 1 	 maker car
+28 	 30 	 (S[dcl]\NP)/NP 	 2 	 maker bought <XU>
+29 	 30 	 (S[dcl]\NP)/NP 	 1 	 GM bought
+30 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 bought in
+32 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 1986 in
+<\s>

@@ -1,0 +1,84 @@
+<s id="wsj_0225.1"> 40
+2 	 0 	 N/N 	 1 	 Co. Dow
+2 	 1 	 N/N 	 1 	 Co. Chemical
+2 	 4 	 NP\NP 	 1 	 Co. Midland
+2 	 6 	 NP\NP 	 1 	 Co. Mich. <XU>
+2 	 16 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+12 	 9 	 N/N 	 1 	 Co. Eli
+12 	 10 	 N/N 	 1 	 Co. Lilly
+12 	 11 	 N/N 	 1 	 Co. &
+12 	 14 	 NP\NP 	 1 	 Co. Indianapolis
+12 	 16 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 they completed
+18 	 16 	 (S[dcl]\NP)/S[dcl] 	 2 	 completed said
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 formation completed
+20 	 19 	 NP[nb]/N 	 1 	 formation the
+20 	 21 	 (NP\NP)/NP 	 1 	 formation of
+23 	 21 	 (NP\NP)/NP 	 2 	 Elanco of
+23 	 22 	 N/N 	 1 	 Elanco Dow
+27 	 21 	 (NP\NP)/NP 	 2 	 venture of
+27 	 25 	 NP[nb]/N 	 1 	 venture a
+27 	 26 	 N/N 	 1 	 venture joint
+27 	 28 	 (S[ng]\NP)/NP 	 1 	 venture combining <XB>
+31 	 28 	 (S[ng]\NP)/NP 	 2 	 businesses combining
+31 	 29 	 NP[nb]/N 	 1 	 businesses their
+31 	 30 	 N/N 	 1 	 businesses plant-sciences
+34 	 32 	 conj/conj 	 1 	 as as
+34 	 33 	 conj/conj 	 1 	 as well
+35 	 36 	 (NP[nb]/N)\NP 	 2 	 Dow 's
+39 	 28 	 (S[ng]\NP)/NP 	 2 	 business combining
+39 	 36 	 (NP[nb]/N)\NP 	 1 	 business 's
+39 	 37 	 N/N 	 1 	 business industrial
+39 	 38 	 N/N 	 1 	 business pest-control
+<\s>
+<s id="wsj_0225.2"> 24
+1 	 0 	 NP[nb]/N 	 1 	 companies The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 companies said
+4 	 3 	 N/N 	 1 	 Elanco Dow
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Elanco will
+4 	 6 	 (S[b]\NP)/NP 	 1 	 Elanco be <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+6 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 be with
+11 	 6 	 (S[b]\NP)/NP 	 2 	 concern be
+11 	 7 	 NP[nb]/N 	 1 	 concern the
+11 	 8 	 N/N 	 1 	 concern largest
+11 	 9 	 N/N 	 1 	 concern research-based
+11 	 10 	 N/N 	 1 	 concern agricultural
+11 	 12 	 (NP\NP)/NP 	 1 	 concern in
+14 	 12 	 (NP\NP)/NP 	 2 	 America in
+14 	 13 	 N/N 	 1 	 America North
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 revenue with
+19 	 17 	 N/N 	 1 	 revenue projected
+19 	 18 	 N/N 	 1 	 revenue first-year
+19 	 20 	 (NP\NP)/NP 	 1 	 revenue of
+21 	 20 	 (NP\NP)/NP 	 2 	 $ of
+23 	 21 	 N/N[num] 	 1 	 billion $
+23 	 22 	 N/N 	 1 	 billion 1.5
+<\s>
+<s id="wsj_0225.3"> 15
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Dow will
+0 	 2 	 (S[b]\NP)/NP 	 1 	 Dow own <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 own will
+2 	 9 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 2 	 own with
+4 	 2 	 (S[b]\NP)/NP 	 2 	 % own
+4 	 3 	 N/N 	 1 	 % 60
+4 	 5 	 (NP\NP)/NP 	 1 	 % of
+7 	 5 	 (NP\NP)/NP 	 2 	 venture of
+7 	 6 	 NP[nb]/N 	 1 	 venture the
+11 	 9 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 Lilly with
+11 	 10 	 N/N 	 1 	 Lilly Eli
+11 	 12 	 (S[ng]\NP)/NP 	 1 	 Lilly holding <XB>
+12 	 9 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 3 	 holding with
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 rest holding
+14 	 13 	 NP[nb]/N 	 1 	 rest the
+<\s>
+<s id="wsj_0225.4"> 7
+1 	 0 	 NP[nb]/N 	 1 	 venture The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 venture will
+1 	 4 	 S[pss]\NP 	 1 	 venture based <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 based be
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Indianapolis in
+<\s>

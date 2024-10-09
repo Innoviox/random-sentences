@@ -1,0 +1,497 @@
+<s id="wsj_0509.1"> 16
+3 	 0 	 (S/S)/NP 	 2 	 time For
+3 	 1 	 NP[nb]/N 	 1 	 time the
+3 	 2 	 N/N 	 1 	 time sixth
+3 	 4 	 (NP\NP)/NP 	 1 	 time in
+6 	 5 	 (N/N)/(N/N) 	 2 	 many as
+7 	 4 	 (NP\NP)/NP 	 2 	 years in
+7 	 6 	 N/N 	 1 	 years many
+10 	 9 	 N/N 	 1 	 Airlines Continental
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 Airlines has
+11 	 0 	 (S/S)/NP 	 1 	 has For
+15 	 11 	 (S[dcl]\NP)/NP 	 2 	 executive has
+15 	 12 	 NP[nb]/N 	 1 	 executive a
+15 	 13 	 N/N 	 1 	 executive new
+15 	 14 	 N/N 	 1 	 executive senior
+<\s>
+<s id="wsj_0509.2"> 20
+0 	 1 	 (S[dcl]\(S[adj]\NP))/NP 	 1 	 Gone is
+4 	 1 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 Corr is
+4 	 2 	 N/N 	 1 	 Corr D.
+4 	 3 	 N/N 	 1 	 Corr Joseph
+4 	 16 	 S[pss]\NP 	 1 	 Corr appointed <XB>
+7 	 6 	 NP[nb]/N 	 1 	 airline the
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 airline 's
+9 	 1 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 chairman is
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 chairman 's
+9 	 16 	 S[pss]\NP 	 1 	 chairman appointed <XB>
+12 	 1 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 executive is
+12 	 8 	 (NP[nb]/N)\NP 	 1 	 executive 's
+12 	 11 	 N/N 	 1 	 executive chief
+12 	 16 	 S[pss]\NP 	 1 	 executive appointed <XB>
+14 	 1 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 president is
+14 	 8 	 (NP[nb]/N)\NP 	 1 	 president 's
+14 	 16 	 S[pss]\NP 	 1 	 president appointed <XB>
+16 	 19 	 (S\NP)\(S\NP) 	 2 	 appointed December
+19 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 December only
+19 	 18 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 December last
+<\s>
+<s id="wsj_0509.3"> 12
+1 	 0 	 N/N 	 1 	 Corr Mr.
+1 	 2 	 S[dcl]\NP 	 1 	 Corr resigned
+1 	 4 	 (S[b]\NP)/NP 	 1 	 Corr pursue <XB>
+2 	 11 	 (S[dcl]\S[dcl])\NP 	 1 	 resigned said
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pursue to
+7 	 4 	 (S[b]\NP)/NP 	 2 	 interests pursue
+7 	 5 	 N/N 	 1 	 interests other
+7 	 6 	 N/N 	 1 	 interests business
+10 	 9 	 NP[nb]/N 	 1 	 airline the
+10 	 11 	 (S[dcl]\S[dcl])\NP 	 2 	 airline said
+<\s>
+<s id="wsj_0509.4"> 7
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 He could
+0 	 4 	 (S[pss]\NP)/PP 	 1 	 He reached <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 could not
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reached be
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 for reached
+6 	 5 	 PP/NP 	 1 	 comment for
+<\s>
+<s id="wsj_0509.5"> 24
+0 	 7 	 (S[dcl]\(S[ng]\NP))/(S[b]\NP) 	 1 	 Succeeding will
+1 	 0 	 ((S[ng]\NP)/PP)/NP 	 3 	 him Succeeding
+2 	 0 	 ((S[ng]\NP)/PP)/NP 	 2 	 as Succeeding
+3 	 2 	 PP/NP 	 1 	 chairman as
+6 	 2 	 PP/NP 	 1 	 executive as
+6 	 5 	 N/N 	 1 	 executive chief
+8 	 7 	 (S[dcl]\(S[ng]\NP))/(S[b]\NP) 	 2 	 be will
+10 	 8 	 (S[b]\NP)/NP 	 2 	 Lorenzo be
+10 	 9 	 N/N 	 1 	 Lorenzo Frank
+12 	 8 	 (S[b]\NP)/NP 	 2 	 chairman be
+12 	 16 	 (NP\NP)/NP 	 1 	 chairman of
+15 	 8 	 (S[b]\NP)/NP 	 2 	 executive be
+15 	 14 	 N/N 	 1 	 executive chief
+15 	 16 	 (NP\NP)/NP 	 1 	 executive of
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 Continental 's
+19 	 16 	 (NP\NP)/NP 	 2 	 parent of
+19 	 18 	 (NP[nb]/N)\NP 	 1 	 parent 's
+23 	 16 	 (NP\NP)/NP 	 2 	 Corp of
+23 	 21 	 N/N 	 1 	 Corp Texas
+23 	 22 	 N/N 	 1 	 Corp Air
+<\s>
+<s id="wsj_0509.6"> 19
+1 	 0 	 N/N 	 1 	 Lorenzo Mr.
+1 	 5 	 (S[adj]\NP)\NP 	 1 	 Lorenzo old <XB>
+1 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Lorenzo is
+1 	 8 	 (S[ng]\NP)/NP 	 1 	 Lorenzo reclaiming <XB>
+4 	 3 	 N/N 	 1 	 years 49
+4 	 5 	 (S[adj]\NP)\NP 	 2 	 years old
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 reclaiming is
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 job reclaiming
+10 	 9 	 NP[nb]/N 	 1 	 job the
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 job that
+10 	 12 	 (S[dcl]\NP)/NP 	 1 	 job was <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was that
+12 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 was before
+13 	 12 	 (S[dcl]\NP)/NP 	 2 	 his was
+16 	 15 	 N/N 	 1 	 Corr Mr.
+16 	 17 	 S[dcl]\NP 	 1 	 Corr signed
+17 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 signed before
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 signed on
+<\s>
+<s id="wsj_0509.7"> 8
+1 	 0 	 NP[nb]/N 	 1 	 airline The
+1 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 airline named
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 named also
+5 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Foret named
+5 	 4 	 N/N 	 1 	 Foret Mickey
+6 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as named
+7 	 6 	 PP/NP 	 1 	 president as
+<\s>
+<s id="wsj_0509.8"> 19
+1 	 0 	 N/N 	 1 	 Foret Mr.
+1 	 5 	 (S[dcl]\NP)/NP 	 1 	 Foret is
+3 	 5 	 (S[dcl]\NP)/NP 	 1 	 44 is
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 veteran is
+8 	 6 	 NP[nb]/N 	 1 	 veteran a
+8 	 7 	 N/N 	 1 	 veteran 15-year
+8 	 9 	 (NP\NP)/NP 	 1 	 veteran of
+11 	 9 	 (NP\NP)/NP 	 2 	 Air of
+11 	 10 	 N/N 	 1 	 Air Texas
+15 	 9 	 (NP\NP)/NP 	 2 	 Airlines of
+15 	 13 	 N/N 	 1 	 Airlines Texas
+15 	 14 	 N/N 	 1 	 Airlines International
+18 	 9 	 (NP\NP)/NP 	 2 	 predecessor of
+18 	 17 	 NP[nb]/N 	 1 	 predecessor its
+<\s>
+<s id="wsj_0509.9"> 15
+1 	 0 	 (S/S)/(S/S) 	 2 	 recently Most
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he had
+2 	 4 	 (S[pt]\NP)/NP 	 1 	 he been <XB>
+3 	 1 	 S/S 	 1 	 had recently
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+7 	 4 	 (S[pt]\NP)/NP 	 2 	 president been
+7 	 5 	 N/N 	 1 	 president executive
+7 	 6 	 N/N 	 1 	 president vice
+7 	 8 	 (NP\NP)/NP 	 1 	 president for
+7 	 12 	 (NP\NP)/NP 	 1 	 president at
+9 	 8 	 (NP\NP)/NP 	 2 	 planning for
+11 	 8 	 (NP\NP)/NP 	 2 	 finance for
+14 	 12 	 (NP\NP)/NP 	 2 	 Air at
+14 	 13 	 N/N 	 1 	 Air Texas
+<\s>
+<s id="wsj_0509.10"> 14
+1 	 0 	 N/N 	 1 	 executives Top
+1 	 2 	 (NP\NP)/NP 	 1 	 executives at
+1 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 executives have
+1 	 6 	 S[pt]\NP 	 1 	 executives lasted <XB>
+3 	 2 	 (NP\NP)/NP 	 2 	 Continental at
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 have n't
+6 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 lasted have
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 lasted long
+10 	 9 	 N/N 	 1 	 those especially
+10 	 11 	 (S[pss]\NP)/PP 	 1 	 those recruited <XB>
+12 	 11 	 (S[pss]\NP)/PP 	 2 	 from recruited
+13 	 12 	 PP/NP 	 1 	 outside from
+<\s>
+<s id="wsj_0509.11"> 9
+2 	 1 	 N/N 	 1 	 Corr Mr.
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Corr 's
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 tenure 's
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 tenure was
+4 	 6 	 S[adj]\NP 	 1 	 tenure shorter <XB>
+5 	 0 	 S/S 	 1 	 was But
+6 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 shorter was
+6 	 7 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 shorter than
+8 	 7 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 most than
+<\s>
+<s id="wsj_0509.12"> 28
+3 	 0 	 NP[nb]/N 	 1 	 Corr The
+3 	 1 	 N/N 	 1 	 Corr 48-year-old
+3 	 2 	 N/N 	 1 	 Corr Mr.
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Corr was
+3 	 5 	 S[pss]\NP 	 1 	 Corr hired <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 hired was
+5 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 hired because
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 because largely
+8 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 he was
+8 	 10 	 (S[pss]\NP)/PP 	 1 	 he credited <XB>
+9 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was because
+10 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 credited was
+11 	 10 	 (S[pss]\NP)/PP 	 2 	 with credited
+12 	 11 	 PP/(S[ng]\NP) 	 1 	 returning with
+12 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 returning to
+12 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 returning while
+16 	 12 	 (S[ng]\NP)/NP 	 2 	 Inc. returning
+16 	 13 	 N/N 	 1 	 Inc. Trans
+16 	 14 	 N/N 	 1 	 Inc. World
+16 	 15 	 N/N 	 1 	 Inc. Airlines
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 profitability to
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 he was
+21 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was while
+21 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 was to
+23 	 21 	 (S[dcl]\NP)/NP 	 2 	 president was
+23 	 22 	 NP[nb]/N 	 1 	 president its
+25 	 24 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 1986 from
+26 	 24 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 to from
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 1988 to
+<\s>
+<s id="wsj_0509.13"> 11
+1 	 0 	 (S/S)/NP 	 2 	 that Before
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 he was
+4 	 0 	 (S/S)/NP 	 1 	 was Before
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 executive was
+6 	 5 	 NP[nb]/N 	 1 	 executive an
+6 	 7 	 (NP\NP)/NP 	 1 	 executive with
+10 	 7 	 (NP\NP)/NP 	 2 	 concern with
+10 	 8 	 NP[nb]/N 	 1 	 concern a
+10 	 9 	 N/N 	 1 	 concern manufacturing
+<\s>
+<s id="wsj_0509.14"> 19
+1 	 0 	 (S/S)/NP 	 2 	 Continental At
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 he cut
+2 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he helped <XB>
+2 	 9 	 (S[b]\NP)/NP 	 1 	 he produce <XB>
+3 	 0 	 (S/S)/NP 	 1 	 cut At
+3 	 7 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 cut which
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 operations cut
+5 	 4 	 N/N 	 1 	 operations money-losing
+8 	 7 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 helped which
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 produce helped
+9 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 produce in
+12 	 9 	 (S[b]\NP)/NP 	 2 	 profit produce
+12 	 10 	 NP[nb]/N 	 1 	 profit a
+12 	 11 	 N/N 	 1 	 profit modest
+15 	 14 	 NP[nb]/N 	 1 	 year this
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 year 's
+18 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+18 	 16 	 (NP[nb]/N)\NP 	 1 	 quarter 's
+18 	 17 	 N/N 	 1 	 quarter second
+<\s>
+<s id="wsj_0509.15"> 27
+2 	 1 	 N/N 	 1 	 Corr Mr.
+2 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Corr was
+2 	 13 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Corr understood <XB>
+2 	 16 	 S[pss]\NP 	 1 	 Corr frustrated <XB>
+6 	 4 	 NP[nb]/N 	 1 	 pilot a
+6 	 5 	 N/N 	 1 	 pilot stunt
+6 	 7 	 (NP\NP)/NP 	 1 	 pilot in
+6 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 pilot was
+6 	 13 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 pilot understood <XB>
+6 	 16 	 S[pss]\NP 	 1 	 pilot frustrated <XB>
+10 	 7 	 (NP\NP)/NP 	 2 	 time in
+10 	 8 	 NP[nb]/N 	 1 	 time his
+10 	 9 	 N/N 	 1 	 time spare
+12 	 0 	 S/S 	 1 	 was But
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 understood was
+14 	 13 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to understood
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+16 	 15 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 frustrated be
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 frustrated by
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 what by
+18 	 20 	 ((S[dcl]\NP)/PP)/NP 	 3 	 what regarded <XU>
+19 	 20 	 ((S[dcl]\NP)/PP)/NP 	 1 	 he regarded
+20 	 18 	 NP/(S[dcl]/NP) 	 1 	 regarded what
+21 	 20 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as regarded
+23 	 21 	 PP/NP 	 1 	 freedom as
+23 	 22 	 N/N 	 1 	 freedom limited
+23 	 24 	 (NP\NP)/NP 	 1 	 freedom under
+26 	 24 	 (NP\NP)/NP 	 2 	 Lorenzo under
+26 	 25 	 N/N 	 1 	 Lorenzo Mr.
+<\s>
+<s id="wsj_0509.16"> 27
+0 	 2 	 (S/S)\(S/S) 	 2 	 While officially
+0 	 7 	 ((S/S)\(S/S))/NP 	 2 	 While during
+2 	 1 	 ((S/S)\(S/S))/((S/S)\(S/S)) 	 3 	 officially not
+4 	 0 	 (S/S)/NP 	 2 	 executive While
+4 	 3 	 NP[nb]/N 	 1 	 executive an
+4 	 5 	 (NP\NP)/NP 	 1 	 executive at
+6 	 5 	 (NP\NP)/NP 	 2 	 Continental at
+9 	 8 	 N/N 	 1 	 Corr Mr.
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Corr 's
+11 	 7 	 ((S/S)\(S/S))/NP 	 3 	 tenure during
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 tenure 's
+14 	 13 	 N/N 	 1 	 Lorenzo Mr.
+14 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Lorenzo is
+14 	 16 	 (S[pss]\NP)/PP 	 1 	 Lorenzo known <XB>
+15 	 0 	 (S/S)/NP 	 1 	 is While
+16 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 known is
+17 	 16 	 (S[pss]\NP)/PP 	 2 	 for known
+18 	 17 	 PP/(S[ng]\NP) 	 1 	 keeping for
+20 	 18 	 (S[ng]\NP)/NP 	 2 	 tabs keeping
+20 	 19 	 N/N 	 1 	 tabs close
+20 	 21 	 (NP\NP)/NP 	 1 	 tabs on
+23 	 22 	 N/N 	 1 	 Air Texas
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 Air 's
+26 	 21 	 (NP\NP)/NP 	 2 	 units on
+26 	 24 	 (NP[nb]/N)\NP 	 1 	 units 's
+26 	 25 	 N/N 	 1 	 units operating
+<\s>
+<s id="wsj_0509.17"> 24
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Continental is
+0 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Continental was <XU>
+0 	 8 	 (S[pss]\NP)/PP 	 1 	 Continental built <XU>
+0 	 18 	 (S[ng]\NP)/PP 	 1 	 Continental emerging <XU>
+3 	 2 	 N/N 	 1 	 Air Texas
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Air 's
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 flagship is
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 flagship 's
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 built was
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 built painfully
+8 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 built under
+8 	 17 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 built after
+10 	 8 	 (S[pss]\NP)/PP 	 2 	 to built
+13 	 10 	 PP/NP 	 1 	 size to
+13 	 11 	 NP[nb]/N 	 1 	 size its
+13 	 12 	 N/N 	 1 	 size present
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 Lorenzo under
+16 	 15 	 N/N 	 1 	 Lorenzo Mr.
+18 	 17 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 emerging after
+18 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 emerging in
+19 	 18 	 (S[ng]\NP)/PP 	 2 	 from emerging
+21 	 19 	 PP/NP 	 1 	 proceedings from
+21 	 20 	 N/N 	 1 	 proceedings bankruptcy
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 1986 in
+<\s>
+<s id="wsj_0509.18"> 29
+0 	 1 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 1 	 It 's
+2 	 1 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 3 	 unclear 's
+3 	 1 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 2 	 what 's
+3 	 6 	 (S\S)/NP 	 1 	 what if
+4 	 3 	 (S[qem]/(S[dcl]/NP))/N 	 2 	 role what
+4 	 23 	 (S[dcl]\NP)/NP 	 2 	 role had <XU>
+7 	 6 	 (S\S)/NP 	 2 	 any if
+10 	 9 	 N/N 	 1 	 Lorenzo Mr.
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Lorenzo 's
+13 	 11 	 (NP[nb]/N)\NP 	 1 	 exploration 's
+13 	 12 	 N/N 	 1 	 exploration recent
+13 	 14 	 (NP\NP)/NP 	 1 	 exploration of
+13 	 23 	 (S[dcl]\NP)/NP 	 1 	 exploration had
+17 	 14 	 (NP\NP)/NP 	 2 	 sale of
+17 	 15 	 NP[nb]/N 	 1 	 sale a
+17 	 16 	 N/N 	 1 	 sale possible
+17 	 18 	 (NP\NP)/NP 	 1 	 sale of
+20 	 18 	 (NP\NP)/NP 	 2 	 stake of
+20 	 19 	 NP[nb]/N 	 1 	 stake a
+20 	 21 	 (NP\NP)/NP 	 1 	 stake in
+22 	 21 	 (NP\NP)/NP 	 2 	 Continental in
+23 	 3 	 (S[qem]/(S[dcl]/NP))/N 	 1 	 had what
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 had in
+26 	 25 	 N/N 	 1 	 Corr Mr.
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 Corr 's
+28 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 departure in
+28 	 27 	 (NP[nb]/N)\NP 	 1 	 departure 's
+<\s>
+<s id="wsj_0509.19"> 29
+1 	 0 	 N/N 	 1 	 source One
+1 	 2 	 S[adj]\NP 	 1 	 source familiar <XB>
+1 	 6 	 (S[dcl]\NP)/S[em] 	 1 	 source said
+2 	 3 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 familiar with
+5 	 3 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 airline with
+5 	 4 	 NP[nb]/N 	 1 	 airline the
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 said however
+10 	 6 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+12 	 11 	 N/N 	 1 	 Corr Mr.
+12 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Corr was
+12 	 15 	 S[pss]\NP 	 1 	 Corr informed <XB>
+13 	 10 	 S[em]/S[dcl] 	 1 	 was that
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 was n't
+15 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 informed was
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 informed in
+15 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 informed during
+15 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 informed when
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 advance in
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 summer during
+20 	 19 	 NP[nb]/N 	 1 	 summer the
+23 	 22 	 N/N 	 1 	 Lorenzo Mr.
+23 	 24 	 (S[dcl]\NP)/NP 	 1 	 Lorenzo began
+24 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 began when
+25 	 24 	 (S[dcl]\NP)/NP 	 2 	 discussions began
+25 	 26 	 (NP\NP)/NP 	 1 	 discussions with
+28 	 26 	 (NP\NP)/NP 	 2 	 buyers with
+28 	 27 	 N/N 	 1 	 buyers potential
+<\s>
+<s id="wsj_0509.20"> 41
+2 	 0 	 (S/S)/NP 	 2 	 tenure During
+2 	 1 	 NP[nb]/N 	 1 	 tenure his
+5 	 4 	 N/N 	 1 	 Corr Mr.
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Corr attempted
+5 	 13 	 ((S[b]\NP)/PP)/NP 	 1 	 Corr inform <XB>
+5 	 24 	 S[dcl]\NP 	 1 	 Corr traveled <XU>
+5 	 27 	 (S[b]\NP)/PP 	 1 	 Corr talk <XU>
+5 	 31 	 (S[dcl]\NP)/NP 	 1 	 Corr backed <XU>
+6 	 0 	 (S/S)/NP 	 1 	 attempted During
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 attempted through
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 series through
+9 	 8 	 NP[nb]/N 	 1 	 series a
+9 	 10 	 (NP\NP)/NP 	 1 	 series of
+11 	 10 	 (NP\NP)/NP 	 2 	 meetings of
+12 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to attempted
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 inform to
+14 	 13 	 ((S[b]\NP)/PP)/NP 	 3 	 managers inform
+15 	 13 	 ((S[b]\NP)/PP)/NP 	 2 	 of inform
+16 	 15 	 PP/NP 	 1 	 some of
+16 	 17 	 (NP\NP)/NP 	 1 	 some of
+19 	 18 	 NP[nb]/N 	 1 	 company the
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 company 's
+22 	 17 	 (NP\NP)/NP 	 2 	 plans of
+22 	 20 	 (NP[nb]/N)\NP 	 1 	 plans 's
+22 	 21 	 N/N 	 1 	 plans future
+24 	 0 	 (S/S)/NP 	 1 	 traveled During
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 traveled widely
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 talk to
+28 	 27 	 (S[b]\NP)/PP 	 2 	 to talk
+29 	 28 	 PP/NP 	 1 	 employees to
+31 	 0 	 (S/S)/NP 	 1 	 backed During
+33 	 31 	 (S[dcl]\NP)/NP 	 2 	 sessions backed
+33 	 32 	 N/N 	 1 	 sessions training
+33 	 34 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 sessions designed <XB>
+33 	 36 	 (S[b]\NP)/NP 	 1 	 sessions improve <XB>
+35 	 34 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to designed
+36 	 35 	 (S[to]\NP)/(S[b]\NP) 	 2 	 improve to
+38 	 37 	 NP[nb]/N 	 1 	 carrier the
+38 	 39 	 (NP[nb]/N)\NP 	 2 	 carrier 's
+40 	 36 	 (S[b]\NP)/NP 	 2 	 image improve
+40 	 39 	 (NP[nb]/N)\NP 	 1 	 image 's
+<\s>
+<s id="wsj_0509.21"> 17
+1 	 0 	 N/N 	 1 	 Foret Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Foret is
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 one is
+3 	 4 	 (NP\NP)/NP 	 1 	 one of
+6 	 4 	 (NP\NP)/NP 	 2 	 handful of
+6 	 5 	 NP[nb]/N 	 1 	 handful a
+6 	 7 	 (NP\NP)/NP 	 1 	 handful of
+8 	 7 	 (NP\NP)/NP 	 2 	 executives of
+8 	 12 	 (S[pt]\NP)/NP 	 2 	 executives relied <XU>
+10 	 9 	 N/N 	 1 	 Lorenzo Mr.
+10 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Lorenzo has
+10 	 12 	 (S[pt]\NP)/NP 	 1 	 Lorenzo relied <XB>
+12 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 relied has
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 relied on
+12 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 relied over
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 years over
+16 	 15 	 NP[nb]/N 	 1 	 years the
+<\s>
+<s id="wsj_0509.22"> 16
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he had
+2 	 4 	 S[pt]\NP 	 1 	 he served <XB>
+3 	 0 	 S/S 	 1 	 had Previously
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 served had
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 served in
+4 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 served at
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 positions in
+8 	 6 	 N/N 	 1 	 positions financial
+8 	 7 	 N/N 	 1 	 positions planning
+11 	 10 	 NP[nb]/N 	 1 	 company the
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 company 's
+15 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 unit at
+15 	 12 	 (NP[nb]/N)\NP 	 1 	 unit 's
+15 	 13 	 N/N 	 1 	 unit Eastern
+15 	 14 	 N/N 	 1 	 unit Airlines
+<\s>
+<s id="wsj_0509.23"> 17
+2 	 0 	 NP[nb]/N 	 1 	 ally Another
+2 	 1 	 N/N 	 1 	 ally longtime
+2 	 8 	 (S[dcl]\NP)/NP 	 1 	 ally heads
+5 	 4 	 N/N 	 1 	 Bakes Phil
+5 	 8 	 (S[dcl]\NP)/NP 	 1 	 Bakes heads
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 heads currently
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 Eastern heads
+9 	 12 	 (NP\NP)/NP 	 1 	 Eastern in
+12 	 11 	 (NP\NP)/(NP\NP) 	 2 	 in now
+16 	 12 	 (NP\NP)/NP 	 2 	 proceedings in
+16 	 13 	 N/N 	 1 	 proceedings Chapter
+16 	 14 	 N/N 	 1 	 proceedings 11
+16 	 15 	 N/N 	 1 	 proceedings bankruptcy
+<\s>
+<s id="wsj_0509.24"> 9
+1 	 0 	 N/N 	 1 	 Bakes Mr.
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 Bakes had
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 had previously
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 turn had
+5 	 4 	 NP[nb]/N 	 1 	 turn a
+5 	 6 	 (NP\NP)/(S[ng]\NP) 	 1 	 turn at
+7 	 6 	 (NP\NP)/(S[ng]\NP) 	 2 	 running at
+8 	 7 	 (S[ng]\NP)/NP 	 2 	 Continental running
+<\s>
+<s id="wsj_0509.25"> 23
+0 	 4 	 (S[dcl]\PP)/NP 	 1 	 Among are
+3 	 0 	 PP/NP 	 1 	 alumni Among
+3 	 1 	 NP[nb]/N 	 1 	 alumni the
+3 	 2 	 N/N 	 1 	 alumni other
+6 	 4 	 (S[dcl]\PP)/NP 	 2 	 Wolf are
+6 	 5 	 N/N 	 1 	 Wolf Stephen
+9 	 4 	 (S[dcl]\PP)/NP 	 2 	 chairman are
+9 	 8 	 N/N 	 1 	 chairman now
+9 	 10 	 (NP\NP)/NP 	 1 	 chairman of
+12 	 10 	 (NP\NP)/NP 	 2 	 Inc. of
+12 	 11 	 N/N 	 1 	 Inc. UAL
+16 	 4 	 (S[dcl]\PP)/NP 	 2 	 Plaskett are
+16 	 15 	 N/N 	 1 	 Plaskett Thomas
+18 	 4 	 (S[dcl]\PP)/NP 	 2 	 president are
+18 	 19 	 (NP\NP)/NP 	 1 	 president of
+22 	 19 	 (NP\NP)/NP 	 2 	 Corp of
+22 	 20 	 N/N 	 1 	 Corp Pan
+22 	 21 	 N/N 	 1 	 Corp Am
+<\s>

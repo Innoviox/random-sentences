@@ -1,0 +1,92 @@
+<s id="wsj_2409.1"> 26
+4 	 0 	 N/N 	 1 	 Inc. American
+4 	 1 	 N/N 	 1 	 Inc. Physicians
+4 	 2 	 N/N 	 1 	 Inc. Service
+4 	 3 	 N/N 	 1 	 Inc. Group
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+6 	 7 	 (((S[dcl]\NP)/PP)/PP)/NP 	 1 	 it purchased
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 purchased said
+9 	 8 	 (N/N)/(N/N) 	 2 	 42 about
+10 	 7 	 (((S[dcl]\NP)/PP)/PP)/NP 	 4 	 % purchased
+10 	 9 	 N/N 	 1 	 % 42
+10 	 11 	 (NP\NP)/NP 	 1 	 % of
+15 	 11 	 (NP\NP)/NP 	 2 	 Inc. of
+15 	 12 	 N/N 	 1 	 Inc. Prime
+15 	 13 	 N/N 	 1 	 Inc. Medical
+15 	 14 	 N/N 	 1 	 Inc. Services
+16 	 7 	 (((S[dcl]\NP)/PP)/PP)/NP 	 3 	 for purchased
+18 	 16 	 PP/NP 	 1 	 $ for
+18 	 17 	 N/N 	 1 	 $ about
+20 	 18 	 N/N[num] 	 1 	 million $
+20 	 19 	 N/N 	 1 	 million 5
+21 	 7 	 (((S[dcl]\NP)/PP)/PP)/NP 	 2 	 from purchased
+25 	 21 	 PP/NP 	 1 	 Corp from
+25 	 22 	 N/N 	 1 	 Corp Texas
+25 	 23 	 N/N 	 1 	 Corp American
+25 	 24 	 N/N 	 1 	 Corp Energy
+<\s>
+<s id="wsj_2409.2"> 15
+1 	 0 	 N/N 	 1 	 Physicians American
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Physicians said
+3 	 5 	 (S[dcl]\NP)/NP 	 1 	 it replaced
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 replaced said
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 replaced also
+9 	 5 	 (S[dcl]\NP)/NP 	 2 	 representatives replaced
+9 	 6 	 N/N 	 1 	 representatives four
+9 	 7 	 N/N 	 1 	 representatives Texas
+9 	 8 	 N/N 	 1 	 representatives American
+9 	 10 	 (NP\NP)/NP 	 1 	 representatives on
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Prime 's
+14 	 10 	 (NP\NP)/NP 	 2 	 board on
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 board 's
+14 	 13 	 N/N 	 1 	 board five-member
+<\s>
+<s id="wsj_2409.3"> 11
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 American provides
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 variety provides
+3 	 2 	 NP[nb]/N 	 1 	 variety a
+3 	 4 	 (NP\NP)/NP 	 1 	 variety of
+6 	 4 	 (NP\NP)/NP 	 2 	 services of
+6 	 5 	 N/N 	 1 	 services financial
+6 	 7 	 (NP\NP)/NP 	 1 	 services to
+8 	 7 	 (NP\NP)/NP 	 2 	 doctors to
+10 	 7 	 (NP\NP)/NP 	 2 	 hospitals to
+<\s>
+<s id="wsj_2409.4"> 19
+0 	 2 	 S[pss]\NP 	 1 	 Prime based <XB>
+0 	 8 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Prime provides
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Bedminster in
+6 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 N.J. in
+10 	 8 	 ((S[dcl]\NP)/PP)/NP 	 3 	 services provides
+10 	 9 	 N/N 	 1 	 services management
+11 	 8 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to provides
+14 	 11 	 PP/NP 	 1 	 clinics to
+14 	 12 	 N/N 	 1 	 clinics cardiac
+14 	 13 	 N/N 	 1 	 clinics rehabilitation
+18 	 11 	 PP/NP 	 1 	 centers to
+18 	 16 	 N/N 	 1 	 centers diagnostic
+18 	 17 	 N/N 	 1 	 centers imaging
+<\s>
+<s id="wsj_2409.5"> 22
+2 	 0 	 (S/S)/NP 	 2 	 year For
+2 	 1 	 NP[nb]/N 	 1 	 year the
+2 	 3 	 S[pss]\NP 	 1 	 year ended <XB>
+3 	 4 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended June
+5 	 4 	 ((S\NP)\(S\NP))/N[num] 	 3 	 30 June
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 Prime had
+8 	 0 	 (S/S)/NP 	 1 	 had For
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 loss had
+11 	 9 	 NP[nb]/N 	 1 	 loss a
+11 	 10 	 N/N 	 1 	 loss net
+11 	 12 	 (NP\NP)/NP 	 1 	 loss of
+11 	 16 	 (NP\NP)/NP 	 1 	 loss on
+13 	 12 	 (NP\NP)/NP 	 2 	 $ of
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 3
+17 	 16 	 (NP\NP)/NP 	 2 	 sales on
+17 	 18 	 (NP\NP)/NP 	 1 	 sales of
+19 	 18 	 (NP\NP)/NP 	 2 	 $ of
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 13.8
+<\s>

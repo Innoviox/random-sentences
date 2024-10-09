@@ -1,0 +1,225 @@
+<s id="wsj_2078.1"> 21
+2 	 0 	 NP[nb]/N 	 1 	 vaccine An
+2 	 1 	 N/N 	 1 	 vaccine experimental
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 vaccine can
+2 	 4 	 (S[b]\NP)/NP 	 1 	 vaccine alter <XB>
+3 	 20 	 (S[dcl]\S[dcl])\NP 	 1 	 can said
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 alter can
+7 	 4 	 (S[b]\NP)/NP 	 2 	 response alter
+7 	 5 	 NP[nb]/N 	 1 	 response the
+7 	 6 	 N/N 	 1 	 response immune
+7 	 8 	 (NP\NP)/NP 	 1 	 response of
+9 	 8 	 (NP\NP)/NP 	 2 	 people of
+9 	 10 	 (S[pss]\NP)/PP 	 1 	 people infected <XB>
+11 	 10 	 (S[pss]\NP)/PP 	 2 	 with infected
+14 	 11 	 PP/NP 	 1 	 virus with
+14 	 12 	 NP[nb]/N 	 1 	 virus the
+14 	 13 	 N/N 	 1 	 virus AIDS
+19 	 16 	 NP[nb]/N 	 1 	 scientist a
+19 	 17 	 N/N 	 1 	 scientist prominent
+19 	 18 	 N/N 	 1 	 scientist U.S.
+19 	 20 	 (S[dcl]\S[dcl])\NP 	 2 	 scientist said
+<\s>
+<s id="wsj_2078.2"> 12
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 that does
+2 	 5 	 (S[b]\NP)/S[dcl] 	 1 	 that mean <XB>
+3 	 0 	 S/S 	 1 	 does However
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 does n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 mean does
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they can
+6 	 8 	 (S[b]\NP)/PP 	 1 	 they benefit <XB>
+7 	 5 	 (S[b]\NP)/S[dcl] 	 2 	 can mean
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 benefit can
+9 	 8 	 (S[b]\NP)/PP 	 2 	 from benefit
+11 	 9 	 PP/NP 	 1 	 vaccine from
+11 	 10 	 NP[nb]/N 	 1 	 vaccine the
+<\s>
+<s id="wsj_2078.3"> 38
+1 	 0 	 NP[nb]/N 	 1 	 effectiveness Its
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 effectiveness ca
+1 	 5 	 S[pss]\NP 	 1 	 effectiveness determined <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 ca n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be ca
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 determined be
+5 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 determined until
+5 	 19 	 ((S\NP)\(S\NP))/PP 	 2 	 determined according
+10 	 7 	 NP[nb]/N 	 1 	 trial a
+10 	 8 	 N/N 	 1 	 trial large
+10 	 9 	 N/N 	 1 	 trial clinical
+10 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 trial is
+10 	 12 	 S[pss]\NP 	 1 	 trial undertaken <XB>
+11 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is until
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 undertaken is
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 undertaken by
+12 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 undertaken in
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Army by
+15 	 14 	 NP[nb]/N 	 1 	 Army the
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 January in
+20 	 19 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+22 	 20 	 PP/NP 	 1 	 Redfield to
+22 	 21 	 N/N 	 1 	 Redfield Robert
+24 	 20 	 PP/NP 	 1 	 chief to
+24 	 25 	 (NP\NP)/NP 	 1 	 chief of
+24 	 31 	 (NP\NP)/NP 	 1 	 chief at
+30 	 25 	 (NP\NP)/NP 	 2 	 research of
+30 	 26 	 N/N 	 1 	 research acquired
+30 	 27 	 N/N 	 1 	 research immune
+30 	 28 	 N/N 	 1 	 research deficiency
+30 	 29 	 N/N 	 1 	 research syndrome
+35 	 31 	 (NP\NP)/NP 	 2 	 Institute at
+35 	 32 	 N/N 	 1 	 Institute Walter
+35 	 33 	 N/N 	 1 	 Institute Reed
+35 	 34 	 N/N 	 1 	 Institute Army
+35 	 36 	 (NP\NP)/NP 	 1 	 Institute of
+37 	 36 	 (NP\NP)/NP 	 2 	 Research of
+<\s>
+<s id="wsj_2078.4"> 33
+1 	 0 	 N/N 	 1 	 Redfield Dr.
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Redfield 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 report 's
+3 	 4 	 (NP\NP)/NP 	 1 	 report on
+3 	 21 	 S[dcl]\NP 	 1 	 report came
+6 	 4 	 (NP\NP)/NP 	 2 	 experiments on
+6 	 5 	 N/N 	 1 	 experiments early
+6 	 7 	 (S[ng]\NP)/NP 	 1 	 experiments using <XB>
+10 	 7 	 (S[ng]\NP)/NP 	 2 	 vaccine using
+10 	 8 	 NP[nb]/N 	 1 	 vaccine an
+10 	 9 	 N/N 	 1 	 vaccine AIDS
+10 	 11 	 S[pss]\NP 	 1 	 vaccine made <XB>
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 made by
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 Inc. by
+14 	 13 	 N/N 	 1 	 Inc. MicroGeneSys
+14 	 15 	 (NP\NP)/NP 	 1 	 Inc. of
+17 	 15 	 (NP\NP)/NP 	 2 	 Haven of
+17 	 16 	 N/N 	 1 	 Haven West
+19 	 15 	 (NP\NP)/NP 	 2 	 Conn. of
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 came at
+21 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 came in
+21 	 32 	 (S\NP)\(S\NP) 	 2 	 came Monday
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 meeting at
+24 	 23 	 NP[nb]/N 	 1 	 meeting a
+24 	 25 	 (NP\NP)/NP 	 1 	 meeting of
+28 	 25 	 (NP\NP)/NP 	 2 	 researchers of
+28 	 26 	 N/N 	 1 	 researchers AIDS
+28 	 27 	 N/N 	 1 	 researchers vaccine
+30 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 Florida in
+32 	 31 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 Monday late
+<\s>
+<s id="wsj_2078.5"> 24
+1 	 0 	 NP[nb]/N 	 1 	 vaccine The
+1 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 vaccine has
+1 	 9 	 (S[pss]\NP)/PP 	 1 	 vaccine given <XB>
+4 	 3 	 N/N 	 1 	 HIV-1 VaxSyn
+4 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 HIV-1 has
+4 	 9 	 (S[pss]\NP)/PP 	 1 	 HIV-1 given <XB>
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+9 	 7 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 given been
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 given safely
+10 	 9 	 (S[pss]\NP)/PP 	 2 	 to given
+12 	 10 	 PP/NP 	 1 	 people to
+12 	 11 	 N/N 	 1 	 people 14
+12 	 16 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 1 	 people whom
+14 	 15 	 (NP\NP)/NP 	 1 	 some of
+14 	 16 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 3 	 some whom
+17 	 16 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 2 	 are whom
+18 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 experiencing are
+20 	 18 	 (S[ng]\NP)/NP 	 2 	 increases experiencing
+20 	 19 	 N/N 	 1 	 increases substantial
+20 	 21 	 (NP\NP)/NP 	 1 	 increases in
+23 	 21 	 (NP\NP)/NP 	 2 	 antibodies in
+23 	 22 	 N/N 	 1 	 antibodies certain
+<\s>
+<s id="wsj_2078.6"> 29
+2 	 0 	 NP[nb]/N 	 1 	 wisdom The
+2 	 1 	 N/N 	 1 	 wisdom conventional
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 wisdom used
+2 	 5 	 (S[b]\NP)/S[em] 	 1 	 wisdom be <XB>
+3 	 28 	 (S[dcl]\S[dcl])\NP 	 1 	 used said
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to used
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+6 	 5 	 (S[b]\NP)/S[em] 	 2 	 that be
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you could
+7 	 10 	 (S[b]\NP)/NP 	 1 	 you modify <XB>
+7 	 19 	 ((S[ng]\NP)/PP)/NP 	 1 	 you innoculating <XB>
+8 	 6 	 S[em]/S[dcl] 	 1 	 could that
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 could n't
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 modify could
+10 	 18 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 modify by
+13 	 10 	 (S[b]\NP)/NP 	 2 	 response modify
+13 	 11 	 NP[nb]/N 	 1 	 response the
+13 	 12 	 N/N 	 1 	 response immune
+13 	 14 	 (NP\NP)/NP 	 1 	 response of
+17 	 14 	 (NP\NP)/NP 	 2 	 individual of
+17 	 15 	 NP[nb]/N 	 1 	 individual an
+17 	 16 	 N/N 	 1 	 individual infected
+19 	 18 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 innoculating by
+20 	 19 	 ((S[ng]\NP)/PP)/NP 	 3 	 them innoculating
+21 	 19 	 ((S[ng]\NP)/PP)/NP 	 2 	 with innoculating
+24 	 21 	 PP/NP 	 1 	 proteins with
+24 	 22 	 N/N 	 1 	 proteins synthetic
+24 	 23 	 N/N 	 1 	 proteins viral
+27 	 26 	 N/N 	 1 	 Redfield Dr.
+27 	 28 	 (S[dcl]\S[dcl])\NP 	 2 	 Redfield said
+<\s>
+<s id="wsj_2078.7"> 6
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 We 've
+0 	 2 	 (S[pt]\NP)/S[em] 	 1 	 We demonstrated <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 demonstrated 've
+3 	 2 	 (S[pt]\NP)/S[em] 	 2 	 that demonstrated
+4 	 5 	 S[dcl]\NP 	 1 	 you can
+5 	 3 	 S[em]/S[dcl] 	 1 	 can that
+<\s>
+<s id="wsj_2078.8"> 12
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+3 	 2 	 N/N 	 1 	 volunteers certain
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 volunteers developed
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 developed said
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 kinds developed
+5 	 6 	 (NP\NP)/NP 	 1 	 kinds of
+5 	 8 	 (S[pss]\NP)/PP 	 1 	 kinds associated <XB>
+7 	 6 	 (NP\NP)/NP 	 2 	 antibodies of
+9 	 8 	 (S[pss]\NP)/PP 	 2 	 with associated
+11 	 9 	 PP/NP 	 1 	 AIDS with
+11 	 10 	 N/N 	 1 	 AIDS early
+<\s>
+<s id="wsj_2078.9"> 23
+1 	 0 	 N/N 	 1 	 antibodies Other
+1 	 2 	 S[pss]\NP 	 1 	 antibodies sparked <XB>
+1 	 6 	 (S[dcl]\NP)/PP 	 1 	 antibodies are
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 sparked by
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 preparation by
+5 	 4 	 NP[nb]/N 	 1 	 preparation the
+6 	 22 	 (S[dcl]\S[dcl])\NP 	 1 	 are added
+7 	 6 	 (S[dcl]\NP)/PP 	 2 	 of are
+9 	 7 	 PP/NP 	 1 	 sort of
+9 	 8 	 NP[nb]/N 	 1 	 sort a
+9 	 11 	 S[adj]\NP 	 1 	 sort present <XB>
+11 	 10 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 present rarely
+11 	 12 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 present in
+11 	 15 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 present in
+14 	 12 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 quantities in
+14 	 13 	 N/N 	 1 	 quantities large
+19 	 15 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 individuals in
+19 	 16 	 N/N 	 1 	 individuals infected <XU>
+19 	 18 	 N/N 	 1 	 individuals ill
+21 	 22 	 (S[dcl]\S[dcl])\NP 	 2 	 he added
+<\s>
+<s id="wsj_2078.10"> 19
+0 	 1 	 (NP\NP)/NP 	 1 	 One of
+0 	 6 	 (S[dcl]\NP)/S[qem] 	 1 	 One remains
+3 	 1 	 (NP\NP)/NP 	 2 	 mysteries of
+3 	 2 	 NP[nb]/N 	 1 	 mysteries the
+3 	 4 	 (NP\NP)/NP 	 1 	 mysteries of
+5 	 4 	 (NP\NP)/NP 	 2 	 AIDS of
+7 	 6 	 (S[dcl]\NP)/S[qem] 	 2 	 why remains
+9 	 8 	 N/N 	 1 	 people infected
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 people produce
+9 	 17 	 S[dcl]\NP 	 1 	 people deteriorate <XU>
+10 	 7 	 S[qem]/S[dcl] 	 1 	 produce why
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 quantities produce
+12 	 11 	 N/N 	 1 	 quantities large
+12 	 13 	 (NP\NP)/NP 	 1 	 quantities of
+14 	 13 	 (NP\NP)/NP 	 2 	 antibodies of
+17 	 7 	 S[qem]/S[dcl] 	 1 	 deteriorate why
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 deteriorate nonetheless
+<\s>

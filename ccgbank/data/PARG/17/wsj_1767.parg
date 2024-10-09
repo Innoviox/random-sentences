@@ -1,0 +1,718 @@
+<s id="wsj_1767.1"> 30
+2 	 0 	 N/N 	 1 	 Co. Ford
+2 	 1 	 N/N 	 1 	 Co. Motor
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Co. 's
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 Merkur 's
+4 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Merkur will
+4 	 26 	 (S[b]\NP)/NP 	 1 	 Merkur share <XB>
+7 	 6 	 NP[nb]/N 	 1 	 company the
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 company 's
+12 	 8 	 (NP[nb]/N)\NP 	 1 	 franchise 's
+12 	 9 	 N/N 	 1 	 franchise first
+12 	 10 	 N/N 	 1 	 franchise new
+12 	 11 	 N/N 	 1 	 franchise car
+12 	 13 	 (NP\NP)/NP 	 1 	 franchise in
+12 	 16 	 (NP\NP)/S[dcl] 	 1 	 franchise since
+12 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 franchise will
+12 	 26 	 (S[b]\NP)/NP 	 1 	 franchise share <XB>
+15 	 13 	 (NP\NP)/NP 	 2 	 U.S. in
+15 	 14 	 NP[nb]/N 	 1 	 U.S. the
+18 	 17 	 NP[nb]/N 	 1 	 Edsel the
+18 	 19 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Edsel was
+18 	 20 	 S[pss]\NP 	 1 	 Edsel unveiled <XB>
+19 	 16 	 (NP\NP)/S[dcl] 	 2 	 was since
+20 	 19 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 unveiled was
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 unveiled in
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 1957 in
+25 	 24 	 (S\NP)/(S\NP) 	 2 	 will now
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 share will
+27 	 28 	 (NP[nb]/N)\NP 	 2 	 Edsel 's
+29 	 26 	 (S[b]\NP)/NP 	 2 	 fate share
+29 	 28 	 (NP[nb]/N)\NP 	 1 	 fate 's
+<\s>
+<s id="wsj_1767.2"> 25
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Ford said
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 said yesterday
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+3 	 5 	 (S[b]\NP)/NP 	 1 	 it halt <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 halt will
+6 	 5 	 (S[b]\NP)/NP 	 2 	 imports halt
+6 	 7 	 (NP\NP)/NP 	 1 	 imports of
+10 	 7 	 (NP\NP)/NP 	 2 	 Scorpio of
+10 	 8 	 NP[nb]/N 	 1 	 Scorpio the
+10 	 9 	 N/N 	 1 	 Scorpio Merkur
+14 	 13 	 (N/N)/N[num] 	 2 	 28,000 $
+16 	 7 	 (NP\NP)/NP 	 2 	 sedan of
+16 	 12 	 NP[nb]/N 	 1 	 sedan a
+16 	 13 	 (N/N)/N[num] 	 1 	 sedan $
+16 	 15 	 N/N 	 1 	 sedan luxury
+16 	 17 	 S[pss]\NP 	 1 	 sedan built <XB>
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 built by
+17 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 built in
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 Ford by
+19 	 20 	 (NP\NP)/NP 	 1 	 Ford of
+21 	 20 	 (NP\NP)/NP 	 2 	 Europe of
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 Germany in
+24 	 23 	 N/N 	 1 	 Germany West
+<\s>
+<s id="wsj_1767.3"> 36
+1 	 0 	 NP[nb]/N 	 1 	 cars The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 cars are
+1 	 3 	 S[pss]\NP 	 1 	 cars sold <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sold are
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 sold under
+3 	 17 	 ((S\NP)\(S\NP))/S 	 2 	 sold --
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 franchise under
+7 	 5 	 NP[nb]/N 	 1 	 franchise a
+7 	 6 	 N/N 	 1 	 franchise separate
+7 	 8 	 (NP\NP)/NP 	 1 	 franchise with
+11 	 8 	 (NP\NP)/NP 	 2 	 sign with
+11 	 9 	 NP[nb]/N 	 1 	 sign its
+11 	 10 	 N/N 	 1 	 sign own
+11 	 12 	 (NP\NP)/NP 	 1 	 sign in
+13 	 12 	 (NP\NP)/NP 	 2 	 front in
+13 	 14 	 (NP\NP)/NP 	 1 	 front of
+16 	 14 	 (NP\NP)/NP 	 2 	 dealers of
+16 	 15 	 N/N 	 1 	 dealers Lincoln-Mercury
+18 	 17 	 ((S\NP)\(S\NP))/S 	 3 	 as --
+19 	 18 	 S/(S[pss]\NP) 	 1 	 opposed as
+20 	 19 	 (S[pss]\NP)/PP 	 2 	 to opposed
+22 	 20 	 PP/NP 	 1 	 models to
+22 	 21 	 N/N 	 1 	 models new
+22 	 24 	 (NP\NP)/NP 	 1 	 models as
+22 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 models which
+22 	 30 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 models are <XB>
+22 	 31 	 S[pss]\NP 	 1 	 models sold <XB>
+24 	 23 	 (NP\NP)/(NP\NP) 	 2 	 as such
+25 	 24 	 (NP\NP)/NP 	 2 	 Taurus as
+27 	 24 	 (NP\NP)/NP 	 2 	 Escort as
+30 	 29 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are which
+31 	 30 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sold are
+31 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 sold under
+35 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 divisions under
+35 	 33 	 N/N 	 1 	 divisions existing
+35 	 34 	 N/N 	 1 	 divisions Ford
+<\s>
+<s id="wsj_1767.4"> 41
+1 	 0 	 NP[nb]/N 	 1 	 move The
+1 	 3 	 (S[b]\NP)/NP 	 1 	 move halt <XB>
+1 	 5 	 (NP\NP)/(S[pss]\NP) 	 1 	 move --
+1 	 6 	 S[pss]\NP 	 1 	 move announced <XB>
+1 	 32 	 (S[dcl]\NP)/NP 	 1 	 move kills
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 halt to
+4 	 3 	 (S[b]\NP)/NP 	 2 	 imports halt
+6 	 5 	 (NP\NP)/(S[pss]\NP) 	 2 	 announced --
+6 	 15 	 (((S\NP)\(S\NP))\NP)/S[dcl] 	 2 	 announced after
+8 	 7 	 N/N 	 1 	 years 29
+8 	 12 	 (NP\NP)/NP 	 1 	 years to
+8 	 15 	 (((S\NP)\(S\NP))\NP)/S[dcl] 	 3 	 years after
+11 	 10 	 N/N 	 1 	 months 11
+11 	 12 	 (NP\NP)/NP 	 1 	 months to
+11 	 15 	 (((S\NP)\(S\NP))\NP)/S[dcl] 	 3 	 months after
+14 	 12 	 (NP\NP)/NP 	 2 	 day to
+14 	 13 	 NP[nb]/N 	 1 	 day the
+18 	 16 	 N/N 	 1 	 II Henry
+18 	 17 	 N/N 	 1 	 II Ford
+18 	 19 	 (S[dcl]\NP)/S[em] 	 1 	 II declared
+19 	 15 	 (((S\NP)\(S\NP))\NP)/S[dcl] 	 4 	 declared after
+20 	 19 	 (S[dcl]\NP)/S[em] 	 2 	 that declared
+23 	 21 	 NP[nb]/N 	 1 	 division the
+23 	 22 	 N/N 	 1 	 division Edsel
+23 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 division would
+23 	 30 	 S[pss]\NP 	 1 	 division scrapped <XB>
+27 	 25 	 NP[nb]/N 	 1 	 car its
+27 	 26 	 N/N 	 1 	 car gawky
+27 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 car would
+27 	 30 	 S[pss]\NP 	 1 	 car scrapped <XB>
+28 	 20 	 S[em]/S[dcl] 	 1 	 would that
+29 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+30 	 29 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 scrapped be
+32 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 kills in
+36 	 32 	 (S[dcl]\NP)/NP 	 2 	 brand kills
+36 	 33 	 NP[nb]/N 	 1 	 brand the
+36 	 34 	 N/N 	 1 	 brand four-year-old
+36 	 35 	 N/N 	 1 	 brand Merkur
+40 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 market in
+40 	 38 	 NP[nb]/N 	 1 	 market the
+40 	 39 	 N/N 	 1 	 market U.S.
+<\s>
+<s id="wsj_1767.5"> 10
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 It will
+0 	 2 	 (S[b]\NP)/(S[to]\NP) 	 1 	 It continue <XB>
+0 	 5 	 S[pss]\NP 	 1 	 It sold <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue will
+3 	 2 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to continue
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 sold be
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 sold in
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 market in
+9 	 7 	 NP[nb]/N 	 1 	 market the
+9 	 8 	 N/N 	 1 	 market European
+<\s>
+<s id="wsj_1767.6"> 27
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Merkur 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 death 's
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 death is
+2 	 7 	 (S[adj]\NP)/PP 	 1 	 death costly <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 is n't
+3 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 is because
+7 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 costly is
+7 	 5 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 costly nearly
+7 	 6 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 costly as
+7 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/S[inv] 	 2 	 costly as
+8 	 7 	 (S[adj]\NP)/PP 	 2 	 to costly
+9 	 8 	 PP/NP 	 1 	 Ford to
+11 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/S[inv] 	 3 	 was as
+14 	 11 	 S[inv]/NP 	 1 	 debacle was
+14 	 12 	 NP[nb]/N 	 1 	 debacle the
+14 	 13 	 N/N 	 1 	 debacle Edsel
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 Merkur was
+18 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was because
+21 	 20 	 (N/N)/(N/N) 	 2 	 low-budget relatively
+22 	 18 	 (S[dcl]\NP)/NP 	 2 	 project was
+22 	 19 	 NP[nb]/N 	 1 	 project a
+22 	 21 	 N/N 	 1 	 project low-budget
+22 	 23 	 (NP\NP)/NP 	 1 	 project with
+26 	 23 	 (NP\NP)/NP 	 2 	 goals with
+26 	 24 	 N/N 	 1 	 goals limited
+26 	 25 	 N/N 	 1 	 goals sales
+<\s>
+<s id="wsj_1767.7"> 32
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Merkur 's
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 demise 's
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 demise is
+5 	 0 	 S/S 	 1 	 is Still
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 is for
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 is at
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 setback is
+7 	 6 	 NP[nb]/N 	 1 	 setback a
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Ford for
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 time at
+12 	 11 	 NP[nb]/N 	 1 	 time a
+12 	 13 	 (NP\NP)/S[dcl] 	 1 	 time when
+15 	 14 	 NP[nb]/N 	 1 	 company the
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 company 's
+17 	 16 	 (NP[nb]/N)\NP 	 1 	 image 's
+17 	 18 	 (NP\NP)/NP 	 1 	 image as
+17 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 image is
+17 	 28 	 (S[ng]\NP)/NP 	 1 	 image showing <XB>
+22 	 18 	 (NP\NP)/NP 	 2 	 maker as
+22 	 19 	 NP[nb]/N 	 1 	 maker the
+22 	 20 	 N/N 	 1 	 maker U.S.
+22 	 21 	 N/N 	 1 	 maker auto
+22 	 23 	 (NP\NP)/NP 	 1 	 maker with
+26 	 23 	 (NP\NP)/NP 	 2 	 touch with
+26 	 24 	 NP[nb]/N 	 1 	 touch the
+26 	 25 	 N/N 	 1 	 touch golden
+27 	 13 	 (NP\NP)/S[dcl] 	 2 	 is when
+28 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 showing is
+29 	 28 	 (S[ng]\NP)/NP 	 2 	 signs showing
+29 	 30 	 (NP\NP)/NP 	 1 	 signs of
+31 	 30 	 (NP\NP)/NP 	 2 	 strain of
+<\s>
+<s id="wsj_1767.8"> 36
+4 	 0 	 NP[nb]/N 	 1 	 maker The
+4 	 1 	 N/N 	 1 	 maker No.
+4 	 2 	 N/N 	 1 	 maker 2
+4 	 3 	 N/N 	 1 	 maker auto
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 maker 's
+11 	 5 	 (NP[nb]/N)\NP 	 1 	 models 's
+11 	 6 	 N/N 	 1 	 models new
+11 	 7 	 N/N 	 1 	 models Thunderbird
+11 	 9 	 N/N 	 1 	 models Mercury
+11 	 10 	 N/N 	 1 	 models Cougar
+11 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 models have
+11 	 14 	 (S[pt]\NP)/NP 	 1 	 models met <XB>
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 have n't
+14 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 met have
+14 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 met in
+16 	 14 	 (S[pt]\NP)/NP 	 2 	 expectations met
+16 	 15 	 N/N 	 1 	 expectations sales
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 year in
+19 	 18 	 NP[nb]/N 	 1 	 year the
+19 	 20 	 (NP\NP)/S[dcl] 	 1 	 year since
+21 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 they were
+21 	 23 	 S[pss]\NP 	 1 	 they introduced <XB>
+22 	 20 	 (NP\NP)/S[dcl] 	 2 	 were since
+23 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 introduced were
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 Ford 's
+28 	 27 	 (NP[nb]/N)\NP 	 1 	 trucks 's
+28 	 29 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 trucks are
+28 	 30 	 (S[ng]\NP)/NP 	 1 	 trucks losing <XB>
+30 	 29 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 losing are
+30 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 losing to
+31 	 30 	 (S[ng]\NP)/NP 	 2 	 ground losing
+35 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 rivals to
+35 	 33 	 NP[nb]/N 	 1 	 rivals their
+35 	 34 	 N/N 	 1 	 rivals GM
+<\s>
+<s id="wsj_1767.9"> 21
+1 	 0 	 (S/S)/N 	 2 	 fall This
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Ford introduced
+4 	 0 	 (S/S)/N 	 1 	 introduced This
+6 	 5 	 (N/N)/(N/N) 	 2 	 one only
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 product introduced
+8 	 6 	 N/N 	 1 	 product one
+8 	 7 	 N/N 	 1 	 product new
+8 	 9 	 (NP\NP)/NP 	 1 	 product :
+12 	 9 	 (NP\NP)/NP 	 2 	 version :
+12 	 10 	 NP[nb]/N 	 1 	 version A
+12 	 11 	 N/N 	 1 	 version restyled
+12 	 13 	 (NP\NP)/NP 	 1 	 version of
+20 	 13 	 (NP\NP)/NP 	 2 	 model of
+20 	 14 	 NP[nb]/N 	 1 	 model its
+20 	 15 	 N/N 	 1 	 model hulking
+20 	 16 	 N/N 	 1 	 model Lincoln
+20 	 17 	 N/N 	 1 	 model Town
+20 	 18 	 N/N 	 1 	 model Car
+20 	 19 	 N/N 	 1 	 model luxury
+<\s>
+<s id="wsj_1767.10"> 23
+1 	 0 	 NP[nb]/N 	 1 	 demise The
+1 	 2 	 (NP\NP)/NP 	 1 	 demise of
+1 	 8 	 S[dcl]\NP 	 1 	 demise comes
+3 	 2 	 (NP\NP)/NP 	 2 	 Merkur of
+3 	 4 	 (NP\NP)/(S[pss]\NP) 	 1 	 Merkur -LRB-
+3 	 5 	 S[pss]\NP 	 1 	 Merkur pronounced <XB>
+5 	 4 	 (NP\NP)/(S[pss]\NP) 	 2 	 pronounced -LRB-
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 pronounced mare-COOR
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 comes after
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 September after
+11 	 10 	 NP[nb]/N 	 1 	 September a
+11 	 13 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 September which
+12 	 13 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+16 	 14 	 N/N 	 1 	 dealers 670
+16 	 15 	 N/N 	 1 	 dealers Merkur
+16 	 17 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 dealers managed
+16 	 19 	 (S[b]\NP)/NP 	 1 	 dealers sell <XB>
+17 	 13 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 managed which
+18 	 17 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to managed
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+21 	 20 	 (N/N)/(N/N) 	 2 	 93 only
+22 	 19 	 (S[b]\NP)/NP 	 2 	 Scorpios sell
+22 	 21 	 N/N 	 1 	 Scorpios 93
+<\s>
+<s id="wsj_1767.11"> 19
+2 	 0 	 N/N 	 1 	 sales Total
+2 	 1 	 N/N 	 1 	 sales Merkur
+2 	 3 	 (NP\NP)/NP 	 1 	 sales for
+2 	 8 	 S[dcl]\NP 	 1 	 sales dropped
+2 	 14 	 (S[adj]\NP)\NP 	 1 	 sales ago <XB>
+7 	 3 	 (NP\NP)/NP 	 2 	 months for
+7 	 4 	 NP[nb]/N 	 1 	 months the
+7 	 5 	 N/N 	 1 	 months first
+7 	 6 	 N/N 	 1 	 months nine
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 dropped %
+8 	 11 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 dropped from
+8 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped to
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 46
+13 	 12 	 NP[nb]/N 	 1 	 year a
+13 	 14 	 (S[adj]\NP)\NP 	 2 	 year ago
+14 	 11 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 ago from
+17 	 16 	 (N/N)/(N/N) 	 2 	 6,320 just
+18 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 cars to
+18 	 17 	 N/N 	 1 	 cars 6,320
+<\s>
+<s id="wsj_1767.12"> 13
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Merkur is
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is n't
+7 	 1 	 (S[dcl]\NP)/NP 	 2 	 brand is
+7 	 3 	 NP[nb]/N 	 1 	 brand the
+7 	 4 	 N/N 	 1 	 brand only
+7 	 5 	 N/N 	 1 	 brand European
+7 	 6 	 N/N 	 1 	 brand luxury
+7 	 8 	 (S[ng]\NP)/NP 	 1 	 brand having <XB>
+8 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 having in
+9 	 8 	 (S[ng]\NP)/NP 	 2 	 problems having
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. in
+12 	 11 	 NP[nb]/N 	 1 	 U.S. the
+<\s>
+<s id="wsj_1767.13"> 25
+2 	 0 	 NP[nb]/N 	 1 	 assault The
+2 	 1 	 N/N 	 1 	 assault Japanese
+2 	 3 	 (NP\NP)/NP 	 1 	 assault on
+2 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 assault is
+2 	 9 	 (S[ng]\NP)/NP 	 1 	 assault overshadowing <XB>
+6 	 3 	 (NP\NP)/NP 	 2 	 market on
+6 	 4 	 NP[nb]/N 	 1 	 market the
+6 	 5 	 N/N 	 1 	 market luxury
+9 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 overshadowing is
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 overshadowing rapidly
+12 	 9 	 (S[ng]\NP)/NP 	 2 	 makes overshadowing
+12 	 10 	 NP/NP 	 1 	 makes such
+12 	 11 	 N/N 	 1 	 makes European
+12 	 13 	 (NP\NP)/NP 	 1 	 makes as
+14 	 13 	 (NP\NP)/NP 	 2 	 Audi as
+14 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Audi which
+14 	 21 	 (S[dcl]\NP)/NP 	 1 	 Audi have <XB>
+16 	 13 	 (NP\NP)/NP 	 2 	 Saab as
+16 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Saab which
+16 	 21 	 (S[dcl]\NP)/NP 	 1 	 Saab have <XB>
+20 	 19 	 ((S\NP)/(S\NP))/(S[asup]\NP) 	 3 	 least at
+21 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have which
+21 	 19 	 ((S\NP)/(S\NP))/(S[asup]\NP) 	 2 	 have at
+24 	 21 	 (S[dcl]\NP)/NP 	 2 	 images have
+24 	 22 	 N/N 	 1 	 images clear
+24 	 23 	 N/N 	 1 	 images brand
+<\s>
+<s id="wsj_1767.14"> 31
+0 	 10 	 (S[dcl]\NP)/PP 	 1 	 Merkur suffered
+4 	 2 	 ((S\NP)/(S\NP))/NP 	 3 	 import as
+4 	 3 	 NP[nb]/N 	 1 	 import an
+4 	 5 	 (NP\NP)/NP 	 1 	 import on
+8 	 5 	 (NP\NP)/NP 	 2 	 lots on
+8 	 6 	 N/N 	 1 	 lots domestic
+8 	 7 	 N/N 	 1 	 lots car
+10 	 2 	 ((S\NP)/(S\NP))/NP 	 2 	 suffered as
+11 	 10 	 (S[dcl]\NP)/PP 	 2 	 from suffered
+14 	 11 	 PP/NP 	 1 	 sort from
+14 	 12 	 NP[nb]/N 	 1 	 sort the
+14 	 13 	 N/N 	 1 	 sort same
+14 	 15 	 (NP\NP)/NP 	 1 	 sort of
+17 	 15 	 (NP\NP)/NP 	 2 	 confusion of
+17 	 16 	 N/N 	 1 	 confusion image
+17 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 confusion that
+17 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 confusion is <XB>
+17 	 20 	 (S[ng]\NP)/NP 	 1 	 confusion hobbling <XB>
+19 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is that
+20 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 hobbling is
+20 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 hobbling at
+21 	 20 	 (S[ng]\NP)/NP 	 2 	 sales hobbling
+21 	 22 	 (NP\NP)/NP 	 1 	 sales of
+23 	 22 	 (NP\NP)/NP 	 2 	 imports of
+27 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp. at
+27 	 25 	 N/N 	 1 	 Corp. General
+27 	 26 	 N/N 	 1 	 Corp. Motors
+30 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp at
+30 	 29 	 N/N 	 1 	 Corp Chrysler
+<\s>
+<s id="wsj_1767.15"> 58
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Merkur was
+0 	 3 	 (S[pss]\NP)/PP 	 1 	 Merkur aimed <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 was originally
+3 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 aimed was
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 at aimed
+5 	 4 	 PP/(S[ng]\NP) 	 1 	 enticing at
+6 	 5 	 ((S[ng]\NP)/NP)/PP 	 3 	 into enticing
+8 	 6 	 PP/NP 	 1 	 dealerships into
+8 	 7 	 N/N 	 1 	 dealerships Lincoln-Mercury
+10 	 5 	 ((S[ng]\NP)/NP)/PP 	 2 	 kind enticing
+10 	 9 	 NP[nb]/N 	 1 	 kind the
+10 	 11 	 (NP\NP)/NP 	 1 	 kind of
+10 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 kind who
+10 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 kind would <XB>
+10 	 20 	 S[pss]\NP 	 1 	 kind caught <XB>
+10 	 21 	 S[adj]\NP 	 1 	 kind dead <XB>
+15 	 11 	 (NP\NP)/NP 	 2 	 buyers of
+15 	 12 	 N/N 	 1 	 buyers young
+15 	 14 	 N/N 	 1 	 buyers affluent
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would who
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 would n't
+19 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+20 	 19 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 caught be
+20 	 22 	 (((S\NP)\(S\NP))/NP)/NP 	 2 	 caught in
+25 	 22 	 (((S\NP)\(S\NP))/NP)/NP 	 4 	 Car in
+25 	 23 	 NP[nb]/N 	 1 	 Car a
+25 	 24 	 N/N 	 1 	 Car Town
+28 	 22 	 (((S\NP)\(S\NP))/NP)/NP 	 3 	 vehicle in
+28 	 27 	 NP[nb]/N 	 1 	 vehicle a
+28 	 29 	 ((S[adj]\NP)/S[em])/(S[adj]\NP) 	 1 	 vehicle so <XB>
+30 	 29 	 ((S[adj]\NP)/S[em])/(S[adj]\NP) 	 3 	 bargelike so
+31 	 29 	 ((S[adj]\NP)/S[em])/(S[adj]\NP) 	 2 	 that so
+32 	 33 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Ford is
+32 	 34 	 (S[ng]\NP)/NP 	 1 	 Ford staging <XB>
+32 	 40 	 ((S[ng]\NP)/PP)/NP 	 1 	 Ford linking <XB>
+33 	 31 	 S[em]/S[dcl] 	 1 	 is that
+34 	 33 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 staging is
+34 	 39 	 (S\NP)\(S\NP) 	 2 	 staging month
+37 	 34 	 (S[ng]\NP)/NP 	 2 	 event staging
+37 	 35 	 NP[nb]/N 	 1 	 event a
+37 	 36 	 N/N 	 1 	 event press
+39 	 38 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month next
+43 	 41 	 NP[nb]/N 	 1 	 Car the
+43 	 42 	 N/N 	 1 	 Car Town
+43 	 44 	 (NP[nb]/N)\NP 	 2 	 Car 's
+45 	 40 	 ((S[ng]\NP)/PP)/NP 	 3 	 launch linking
+45 	 44 	 (NP[nb]/N)\NP 	 1 	 launch 's
+46 	 40 	 ((S[ng]\NP)/PP)/NP 	 2 	 to linking
+48 	 46 	 PP/NP 	 1 	 commissioning to
+48 	 47 	 NP[nb]/N 	 1 	 commissioning the
+48 	 49 	 (NP\NP)/NP 	 1 	 commissioning of
+48 	 54 	 (NP\NP)/NP 	 1 	 commissioning in
+53 	 49 	 (NP\NP)/NP 	 2 	 carrier of
+53 	 50 	 NP[nb]/N 	 1 	 carrier a
+53 	 51 	 N/N 	 1 	 carrier new
+53 	 52 	 N/N 	 1 	 carrier aircraft
+55 	 54 	 (NP\NP)/NP 	 2 	 Norfolk in
+57 	 54 	 (NP\NP)/NP 	 2 	 Va in
+<\s>
+<s id="wsj_1767.16"> 8
+2 	 1 	 NP[nb]/N 	 1 	 brand the
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 brand had
+3 	 0 	 S/S 	 1 	 had But
+3 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 had from
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 trouble had
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 start from
+7 	 6 	 NP[nb]/N 	 1 	 start the
+<\s>
+<s id="wsj_1767.17"> 13
+2 	 0 	 NP[nb]/N 	 1 	 Merkur The
+2 	 1 	 N/N 	 1 	 Merkur first
+2 	 7 	 (S[dcl]\NP)/PP 	 1 	 Merkur went
+5 	 4 	 NP[nb]/N 	 1 	 XR4Ti the
+5 	 7 	 (S[dcl]\NP)/PP 	 1 	 XR4Ti went
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 went in
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 on went
+9 	 8 	 PP/NP 	 1 	 sale on
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 1985 in
+12 	 11 	 N/N 	 1 	 1985 early
+<\s>
+<s id="wsj_1767.18"> 20
+2 	 0 	 NP[nb]/N 	 1 	 coupe The
+2 	 1 	 N/N 	 1 	 coupe sporty
+2 	 3 	 S[dcl]\NP 	 1 	 coupe foundered
+3 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 foundered because
+5 	 4 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 part in
+6 	 4 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 because in
+8 	 7 	 N/N 	 1 	 buyers American
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 buyers did
+8 	 11 	 (S[b]\NP)/PP 	 1 	 buyers go <XB>
+9 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 did because
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 did n't
+11 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go did
+12 	 11 	 (S[b]\NP)/PP 	 2 	 for go
+14 	 13 	 NP[nb]/N 	 1 	 car the
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 car 's
+19 	 12 	 PP/NP 	 1 	 spoiler for
+19 	 15 	 (NP[nb]/N)\NP 	 1 	 spoiler 's
+19 	 16 	 N/N 	 1 	 spoiler unusual
+19 	 17 	 N/N 	 1 	 spoiler double-wing
+19 	 18 	 N/N 	 1 	 spoiler rear
+<\s>
+<s id="wsj_1767.19"> 22
+1 	 0 	 (S/S)/NP 	 2 	 May In
+1 	 2 	 N\N 	 1 	 May 1987
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Ford began
+4 	 6 	 (S[ng]\NP)/NP 	 1 	 Ford importing <XB>
+5 	 0 	 (S/S)/NP 	 1 	 began In
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 importing began
+6 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 importing from
+9 	 6 	 (S[ng]\NP)/NP 	 2 	 sedan importing
+9 	 7 	 NP[nb]/N 	 1 	 sedan the
+9 	 8 	 N/N 	 1 	 sedan Scorpio
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 Germany from
+12 	 11 	 N/N 	 1 	 Germany West
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+14 	 15 	 ((S\NP)\(S\NP))/PP 	 2 	 sell next
+14 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 sell in
+16 	 15 	 ((S\NP)\(S\NP))/PP 	 3 	 to next
+19 	 16 	 PP/NP 	 1 	 XR4Ti to
+19 	 17 	 NP[nb]/N 	 1 	 XR4Ti a
+19 	 18 	 N/N 	 1 	 XR4Ti redesigned
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 showrooms in
+<\s>
+<s id="wsj_1767.20"> 29
+1 	 0 	 N/N 	 1 	 officials Ford
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 officials said
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 they expected
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 expected said
+7 	 5 	 NP[nb]/N 	 1 	 Merkurs the
+7 	 6 	 N/N 	 1 	 Merkurs two
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Merkurs would
+7 	 9 	 (S[b]\NP)/NP 	 1 	 Merkurs sell <XB>
+8 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 would expected
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 sell would
+11 	 10 	 (N/N)/(N/N) 	 2 	 15,000 about
+12 	 9 	 (S[b]\NP)/NP 	 2 	 cars sell
+12 	 11 	 N/N 	 1 	 cars 15,000
+12 	 13 	 (NP\NP)/N 	 1 	 cars a
+14 	 13 	 (NP\NP)/N 	 2 	 year a
+18 	 17 	 (S/S)/NP 	 2 	 1988 in
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 they reached
+20 	 17 	 (S/S)/NP 	 1 	 reached in
+20 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 reached as
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 goal reached
+22 	 21 	 NP[nb]/N 	 1 	 goal that
+25 	 26 	 (S[dcl]\NP)/NP 	 1 	 sales hit
+26 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 hit as
+28 	 26 	 (S[dcl]\NP)/NP 	 2 	 cars hit
+28 	 27 	 N/N 	 1 	 cars 15,261
+<\s>
+<s id="wsj_1767.21"> 7
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 It was
+0 	 2 	 S[adj]\NP 	 1 	 It downhill <XB>
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 was from
+1 	 6 	 (S\NP)\(S\NP) 	 2 	 was however
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 downhill was
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 there from
+<\s>
+<s id="wsj_1767.22"> 24
+2 	 0 	 N/N 	 1 	 factor One
+2 	 1 	 N/N 	 1 	 factor major
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 factor was
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 decline was
+5 	 4 	 NP[nb]/N 	 1 	 decline the
+5 	 6 	 (NP\NP)/NP 	 1 	 decline of
+5 	 9 	 (NP\NP)/NP 	 1 	 decline against
+5 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 decline which
+5 	 14 	 S[dcl]\NP 	 1 	 decline began <XB>
+8 	 6 	 (NP\NP)/NP 	 2 	 dollar of
+8 	 7 	 NP[nb]/N 	 1 	 dollar the
+11 	 9 	 (NP\NP)/NP 	 2 	 mark against
+11 	 10 	 NP[nb]/N 	 1 	 mark the
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 began which
+14 	 19 	 (((S\NP)\(S\NP))\NP)/NP 	 2 	 began after
+15 	 16 	 (NP/NP)\(S[adj]\NP) 	 2 	 less than
+18 	 16 	 (NP/NP)\(S[adj]\NP) 	 1 	 year than
+18 	 17 	 NP[nb]/N 	 1 	 year a
+18 	 19 	 (((S\NP)\(S\NP))\NP)/NP 	 3 	 year after
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 Merkur 's
+23 	 19 	 (((S\NP)\(S\NP))\NP)/NP 	 4 	 launch after
+23 	 21 	 (NP[nb]/N)\NP 	 1 	 launch 's
+23 	 22 	 N/N 	 1 	 launch 1985
+<\s>
+<s id="wsj_1767.23"> 11
+4 	 1 	 NP[nb]/N 	 1 	 currency the
+4 	 2 	 N/N 	 1 	 currency West
+4 	 3 	 N/N 	 1 	 currency German
+4 	 5 	 S[dcl]\NP 	 1 	 currency rose
+5 	 0 	 (S/S)/S[dcl] 	 2 	 rose As
+7 	 8 	 (S[dcl]\(S[adj]\NP))/NP 	 1 	 so did
+8 	 0 	 (S/S)/S[dcl] 	 1 	 did As
+10 	 8 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 prices did
+10 	 9 	 N/N 	 1 	 prices Merkur
+<\s>
+<s id="wsj_1767.24"> 12
+2 	 0 	 NP[nb]/N 	 1 	 cars The
+2 	 1 	 N/N 	 1 	 cars Merkur
+2 	 4 	 (S[dcl]\NP)/PP 	 1 	 cars suffered
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 suffered also
+4 	 11 	 (S[dcl]\S[dcl])\NP 	 1 	 suffered say
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 from suffered
+7 	 5 	 PP/NP 	 1 	 quality from
+7 	 6 	 N/N 	 1 	 quality spotty
+10 	 9 	 NP[nb]/N 	 1 	 dealers some
+10 	 11 	 (S[dcl]\S[dcl])\NP 	 2 	 dealers say
+<\s>
+<s id="wsj_1767.25"> 34
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 It was
+1 	 8 	 (S[dcl]\S[dcl])/NP 	 1 	 was says
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 like was
+4 	 2 	 PP/NP 	 1 	 comedy like
+4 	 3 	 NP[nb]/N 	 1 	 comedy a
+4 	 5 	 (NP\NP)/NP 	 1 	 comedy of
+6 	 5 	 (NP\NP)/NP 	 2 	 errors of
+12 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 McInerney says
+12 	 9 	 N/N 	 1 	 McInerney Martin
+12 	 10 	 N/N 	 1 	 McInerney J.
+12 	 11 	 N/N 	 1 	 McInerney Hoot
+16 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 dealer says
+16 	 14 	 NP[nb]/N 	 1 	 dealer a
+16 	 15 	 N/N 	 1 	 dealer big
+16 	 17 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 dealer whose
+20 	 17 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 operation whose
+20 	 18 	 N/N 	 1 	 operation Star
+20 	 19 	 N/N 	 1 	 operation Lincoln-Mercury-Merkur
+20 	 21 	 (N\N)/NP 	 1 	 operation in
+20 	 26 	 (S[dcl]\NP)/NP 	 1 	 operation sold <XB>
+22 	 21 	 (N\N)/NP 	 2 	 Southfield in
+24 	 21 	 (N\N)/NP 	 2 	 Mich. in
+26 	 17 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 sold whose
+29 	 26 	 (S[dcl]\NP)/NP 	 2 	 's sold
+29 	 27 	 N/N 	 1 	 's more
+29 	 28 	 N/N 	 1 	 's XR4Ti
+29 	 30 	 (NP\NP)/NP 	 1 	 's than
+33 	 30 	 (NP\NP)/NP 	 2 	 dealership than
+33 	 31 	 NP[nb]/N 	 1 	 dealership any
+33 	 32 	 N/N 	 1 	 dealership other
+<\s>
+<s id="wsj_1767.26"> 22
+4 	 1 	 (S/S)/NP 	 2 	 quarter by
+4 	 2 	 NP[nb]/N 	 1 	 quarter the
+4 	 3 	 N/N 	 1 	 quarter third
+4 	 5 	 (NP\NP)/NP 	 1 	 quarter of
+6 	 5 	 (NP\NP)/NP 	 2 	 1988 of
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 Scorpios had
+9 	 0 	 S/S 	 1 	 had But
+9 	 1 	 (S/S)/NP 	 1 	 had by
+9 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 had in
+9 	 21 	 (S[dcl]\S[dcl])\NP 	 1 	 had said
+13 	 9 	 (S[dcl]\NP)/NP 	 2 	 rating had
+13 	 10 	 NP[nb]/N 	 1 	 rating a
+13 	 11 	 N/N 	 1 	 rating high
+13 	 12 	 N/N 	 1 	 rating satisfaction
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 studies in
+17 	 15 	 N/N 	 1 	 studies internal
+17 	 16 	 N/N 	 1 	 studies Ford
+20 	 19 	 NP[nb]/N 	 1 	 spokesman a
+20 	 21 	 (S[dcl]\S[dcl])\NP 	 2 	 spokesman said
+<\s>
+<s id="wsj_1767.27"> 9
+5 	 4 	 NP[nb]/N 	 1 	 improvement the
+5 	 6 	 S[dcl]\NP 	 1 	 improvement came
+6 	 0 	 S/S 	 1 	 came Apparently
+6 	 2 	 S/S 	 1 	 came however
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 came late
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 late too
+<\s>
+<s id="wsj_1767.28"> 21
+1 	 0 	 (S/S)/(S/S) 	 2 	 fall Last
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Ford announced
+4 	 1 	 S/S 	 1 	 announced fall
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+5 	 7 	 (S[b]\NP)/NP 	 1 	 it discontinue <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 would announced
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 discontinue would
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 discontinue in
+7 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 discontinue at
+9 	 7 	 (S[b]\NP)/NP 	 2 	 XR4Ti discontinue
+9 	 8 	 NP[nb]/N 	 1 	 XR4Ti the
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. in
+12 	 11 	 NP[nb]/N 	 1 	 U.S. the
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 end at
+15 	 14 	 NP[nb]/N 	 1 	 end the
+15 	 16 	 (NP\NP)/NP 	 1 	 end of
+20 	 16 	 (NP\NP)/NP 	 2 	 year of
+20 	 17 	 NP[nb]/N 	 1 	 year the
+20 	 18 	 N/N 	 1 	 year 1989
+20 	 19 	 N/N 	 1 	 year model
+<\s>
+<s id="wsj_1767.29"> 8
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Ford said
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 said then
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+3 	 5 	 (S[b]\NP)/NP 	 1 	 it keep <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 keep would
+7 	 5 	 (S[b]\NP)/NP 	 2 	 Scorpio keep
+7 	 6 	 NP[nb]/N 	 1 	 Scorpio the
+<\s>
+<s id="wsj_1767.30"> 30
+1 	 0 	 (S/S)/N 	 2 	 year This
+4 	 3 	 N/N 	 1 	 sales Scorpio
+4 	 5 	 S[dcl]\NP 	 1 	 sales plummeted
+5 	 0 	 (S/S)/N 	 1 	 plummeted This
+12 	 8 	 (S/S)/NP 	 2 	 pace at
+12 	 9 	 NP[nb]/N 	 1 	 pace the
+12 	 10 	 N/N 	 1 	 pace current
+12 	 11 	 N/N 	 1 	 pace sales
+13 	 14 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 1 	 it would
+14 	 8 	 (S/S)/NP 	 1 	 would at
+15 	 14 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 2 	 take would
+16 	 15 	 (((S[b]\NP)/(S[to]\NP))/NP)/NP 	 4 	 Ford take
+16 	 20 	 (S[b]\NP)/NP 	 1 	 Ford sell <XB>
+18 	 15 	 (((S[b]\NP)/(S[to]\NP))/NP)/NP 	 3 	 days take
+18 	 17 	 N/N 	 1 	 days 242
+19 	 15 	 (((S[b]\NP)/(S[to]\NP))/NP)/NP 	 2 	 to take
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 sell off
+25 	 20 	 (S[b]\NP)/NP 	 2 	 inventory sell
+25 	 22 	 NP[nb]/N 	 1 	 inventory the
+25 	 23 	 N/N 	 1 	 inventory current
+25 	 24 	 N/N 	 1 	 inventory Scorpio
+25 	 26 	 (NP\NP)/NP 	 1 	 inventory of
+28 	 27 	 (N/N)/(N/N) 	 2 	 4,600 about
+29 	 26 	 (NP\NP)/NP 	 2 	 cars of
+29 	 28 	 N/N 	 1 	 cars 4,600
+<\s>

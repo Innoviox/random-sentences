@@ -1,0 +1,431 @@
+<s id="wsj_0462.1"> 30
+2 	 0 	 N/N 	 1 	 Corp. Western
+2 	 1 	 N/N 	 1 	 Corp. Union
+2 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Corp. took
+2 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said <XU>
+4 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 steps took
+4 	 6 	 (S[b]\NP)/NP 	 1 	 steps withdraw <XB>
+5 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to took
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 withdraw to
+10 	 6 	 (S[b]\NP)/NP 	 2 	 swap withdraw
+10 	 7 	 NP[nb]/N 	 1 	 swap its
+10 	 8 	 N/N 	 1 	 swap proposed
+10 	 9 	 N/N 	 1 	 swap debt
+10 	 11 	 (NP\NP)/NP 	 1 	 swap for
+12 	 11 	 (NP\NP)/NP 	 2 	 $ for
+12 	 15 	 (NP\NP)/NP 	 1 	 $ in
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 500
+17 	 15 	 (NP\NP)/NP 	 2 	 notes in
+17 	 16 	 N/N 	 1 	 notes high-interest
+20 	 21 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+20 	 22 	 (S[ng]\NP)/PP 	 1 	 it looking <XB>
+21 	 19 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+22 	 21 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 looking is
+23 	 22 	 (S[ng]\NP)/PP 	 2 	 at looking
+25 	 23 	 PP/NP 	 1 	 alternatives at
+25 	 24 	 N/N 	 1 	 alternatives other
+25 	 26 	 (NP\NP)/(S[ng]\NP) 	 1 	 alternatives for
+27 	 26 	 (NP\NP)/(S[ng]\NP) 	 2 	 refinancing for
+29 	 27 	 (S[ng]\NP)/NP 	 2 	 debt refinancing
+29 	 28 	 NP[nb]/N 	 1 	 debt the
+<\s>
+<s id="wsj_0462.2"> 48
+1 	 0 	 N/N 	 1 	 Union Western
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Union had
+1 	 3 	 (S[pt]\NP)/S[em] 	 1 	 Union said <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said had
+3 	 6 	 ((S\NP)\(S\NP))\NP 	 2 	 said ago
+5 	 4 	 N/N 	 1 	 weeks two
+5 	 6 	 ((S\NP)\(S\NP))\NP 	 3 	 weeks ago
+7 	 3 	 (S[pt]\NP)/S[em] 	 2 	 that said
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it might
+8 	 10 	 (S[b]\NP)/NP 	 1 	 it withdraw <XB>
+9 	 7 	 S[em]/S[dcl] 	 1 	 might that
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 withdraw might
+13 	 10 	 (S[b]\NP)/NP 	 2 	 offer withdraw
+13 	 11 	 NP[nb]/N 	 1 	 offer the
+13 	 12 	 N/N 	 1 	 offer pending
+13 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 offer which
+13 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 offer would <XB>
+13 	 18 	 ((S[pt]\NP)/PP)/NP 	 1 	 offer replaced <XB>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would which
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+18 	 17 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 replaced have
+19 	 18 	 ((S[pt]\NP)/PP)/NP 	 3 	 $ replaced
+19 	 22 	 (NP\NP)/NP 	 1 	 $ in
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 500
+25 	 22 	 (NP\NP)/NP 	 2 	 notes in
+25 	 23 	 N/N 	 1 	 notes so-called
+25 	 24 	 N/N 	 1 	 notes reset
+25 	 28 	 (S[ng]\NP)/NP 	 1 	 notes paying <XB>
+25 	 34 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 notes set <XU>
+25 	 36 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 notes come <XU>
+25 	 37 	 S[adj]\NP 	 1 	 notes due <XU>
+28 	 27 	 (S\NP)/(S\NP) 	 2 	 paying now
+30 	 29 	 (N/N)/(N/N) 	 2 	 % 19.25
+32 	 28 	 (S[ng]\NP)/NP 	 2 	 interest paying
+32 	 30 	 N/N 	 1 	 interest %
+32 	 31 	 N/N 	 1 	 interest annual
+35 	 34 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to set
+36 	 35 	 (S[to]\NP)/(S[b]\NP) 	 2 	 come to
+36 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 come in
+37 	 36 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 due come
+39 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 1992 in
+41 	 18 	 ((S[pt]\NP)/PP)/NP 	 2 	 with replaced
+44 	 41 	 PP/NP 	 1 	 issues with
+44 	 42 	 N/N 	 1 	 issues two
+44 	 43 	 N/N 	 1 	 issues new
+44 	 45 	 (S[ng]\NP)/NP 	 1 	 issues paying <XB>
+47 	 45 	 (S[ng]\NP)/NP 	 2 	 interest paying
+47 	 46 	 N/N 	 1 	 interest lower
+<\s>
+<s id="wsj_0462.3"> 24
+2 	 1 	 NP[nb]/N 	 1 	 company the
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+3 	 0 	 S/S 	 1 	 said Yesterday
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it had
+4 	 6 	 ((S[pt]\NP)/PP)/NP 	 1 	 it filed <XB>
+4 	 16 	 (S[b]\NP)/NP 	 1 	 it withdraw <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 filed had
+8 	 6 	 ((S[pt]\NP)/PP)/NP 	 3 	 request filed
+8 	 7 	 NP[nb]/N 	 1 	 request a
+9 	 6 	 ((S[pt]\NP)/PP)/NP 	 2 	 with filed
+11 	 9 	 PP/NP 	 1 	 Securities with
+11 	 10 	 NP[nb]/N 	 1 	 Securities the
+14 	 9 	 PP/NP 	 1 	 Commission with
+14 	 10 	 NP[nb]/N 	 1 	 Commission the
+14 	 13 	 N/N 	 1 	 Commission Exchange
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 withdraw to
+19 	 16 	 (S[b]\NP)/NP 	 2 	 statement withdraw
+19 	 17 	 NP[nb]/N 	 1 	 statement the
+19 	 18 	 N/N 	 1 	 statement registration
+19 	 20 	 (S[ng]\NP)/NP 	 1 	 statement regarding <XB>
+23 	 20 	 (S[ng]\NP)/NP 	 2 	 swap regarding
+23 	 21 	 NP[nb]/N 	 1 	 swap the
+23 	 22 	 N/N 	 1 	 swap proposed
+<\s>
+<s id="wsj_0462.4"> 24
+3 	 0 	 NP[nb]/N 	 1 	 spokesman A
+3 	 1 	 N/N 	 1 	 spokesman Western
+3 	 2 	 N/N 	 1 	 spokesman Union
+3 	 5 	 (S[ng]\NP)/NP 	 1 	 spokesman citing <XB>
+3 	 16 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 spokesman declined
+3 	 18 	 (S[b]\NP)/NP 	 1 	 spokesman say <XB>
+7 	 5 	 (S[ng]\NP)/NP 	 2 	 developments citing
+7 	 6 	 N/N 	 1 	 developments adverse
+7 	 8 	 (NP\NP)/NP 	 1 	 developments in
+10 	 8 	 (NP\NP)/NP 	 2 	 market in
+10 	 9 	 NP[nb]/N 	 1 	 market the
+10 	 11 	 (NP\NP)/NP 	 1 	 market for
+14 	 11 	 (NP\NP)/NP 	 2 	 bonds for
+14 	 12 	 N/N 	 1 	 bonds high-yield
+14 	 13 	 N/N 	 1 	 bonds junk
+17 	 16 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 say to
+19 	 18 	 (S[b]\NP)/NP 	 2 	 what say
+20 	 19 	 (NP/(S[dcl]\NP))/N 	 2 	 alternatives what
+20 	 21 	 (S[dcl]\NP)/PP 	 1 	 alternatives are <XB>
+21 	 19 	 (NP/(S[dcl]\NP))/N 	 1 	 are what
+22 	 21 	 (S[dcl]\NP)/PP 	 2 	 under are
+23 	 22 	 PP/NP 	 1 	 consideration under
+<\s>
+<s id="wsj_0462.5"> 28
+2 	 1 	 NP[nb]/N 	 1 	 holders some
+2 	 3 	 (NP\NP)/NP 	 1 	 holders of
+2 	 8 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 holders expect
+7 	 3 	 (NP\NP)/NP 	 2 	 notes of
+7 	 4 	 NP[nb]/N 	 1 	 notes the
+7 	 5 	 N/N 	 1 	 notes Western
+7 	 6 	 N/N 	 1 	 notes Union
+8 	 0 	 S/S 	 1 	 expect But
+10 	 8 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 company expect
+10 	 9 	 NP[nb]/N 	 1 	 company the
+10 	 12 	 (S[b]\NP)/NP 	 1 	 company propose <XB>
+11 	 8 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 propose to
+16 	 12 	 (S[b]\NP)/NP 	 2 	 swap propose
+16 	 13 	 NP[nb]/N 	 1 	 swap a
+16 	 14 	 N/N 	 1 	 swap more-attractive
+16 	 15 	 N/N 	 1 	 swap debt
+16 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 swap that
+16 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 swap will <XB>
+16 	 19 	 ((S[b]\NP)/NP)/NP 	 1 	 swap give <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give will
+20 	 19 	 ((S[b]\NP)/NP)/NP 	 3 	 them give
+24 	 19 	 ((S[b]\NP)/NP)/NP 	 2 	 stake give
+24 	 21 	 NP[nb]/N 	 1 	 stake a
+24 	 22 	 N/N 	 1 	 stake substantial
+24 	 23 	 N/N 	 1 	 stake equity
+24 	 25 	 (NP\NP)/NP 	 1 	 stake in
+27 	 25 	 (NP\NP)/NP 	 2 	 company in
+27 	 26 	 NP[nb]/N 	 1 	 company the
+<\s>
+<s id="wsj_0462.6"> 31
+1 	 0 	 N/N 	 1 	 Union Western
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Union has
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 Union had <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 had has
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 had in
+3 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 had as
+3 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 had as <XU>
+5 	 3 	 (S[pt]\NP)/NP 	 2 	 losses had
+5 	 4 	 N/N 	 1 	 losses major
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 years in
+8 	 7 	 N/N 	 1 	 years recent
+12 	 10 	 NP[nb]/N 	 1 	 business its
+12 	 11 	 N/N 	 1 	 business telex
+12 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 business has
+12 	 14 	 S[pt]\NP 	 1 	 business faltered <XB>
+13 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has as
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 faltered has
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 faltered in
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 face in
+17 	 16 	 NP[nb]/N 	 1 	 face the
+17 	 18 	 (NP\NP)/NP 	 1 	 face of
+19 	 18 	 (NP\NP)/NP 	 2 	 competition of
+19 	 20 	 (NP\NP)/NP 	 1 	 competition from
+22 	 20 	 (NP\NP)/NP 	 2 	 machines from
+22 	 21 	 N/N 	 1 	 machines facsimile
+27 	 25 	 N/N 	 1 	 ventures other
+27 	 26 	 N/N 	 1 	 ventures business
+27 	 28 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 ventures have
+27 	 29 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 ventures gone <XB>
+27 	 30 	 S[adj]\NP 	 1 	 ventures awry <XB>
+28 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 have as
+29 	 28 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 gone have
+30 	 29 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 awry gone
+<\s>
+<s id="wsj_0462.7"> 48
+2 	 0 	 NP[nb]/N 	 1 	 question The
+2 	 1 	 N/N 	 1 	 question major
+2 	 14 	 (S[dcl]\NP)/S[qem] 	 1 	 question is
+6 	 4 	 (S[dcl]\S[dcl])/NP 	 2 	 holder said
+6 	 5 	 N/N 	 1 	 holder one
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 holder who
+6 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 holder asked <XB>
+6 	 12 	 S[pss]\NP 	 1 	 holder named <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 asked who
+10 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to asked
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 to not
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 named be
+15 	 14 	 (S[dcl]\NP)/S[qem] 	 2 	 whether is
+21 	 16 	 N/N 	 1 	 LeBow New
+21 	 17 	 N/N 	 1 	 LeBow York
+21 	 18 	 N/N 	 1 	 LeBow investor
+21 	 19 	 N/N 	 1 	 LeBow Bennett
+21 	 20 	 N/N 	 1 	 LeBow S.
+21 	 23 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 LeBow whose
+21 	 30 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 LeBow is
+21 	 31 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 LeBow willing <XB>
+25 	 23 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 Partners whose
+25 	 24 	 N/N 	 1 	 Partners Brooke
+25 	 26 	 (S[dcl]\NP)/NP 	 1 	 Partners controls <XB>
+26 	 23 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 controls whose
+28 	 26 	 (S[dcl]\NP)/NP 	 2 	 Union controls
+28 	 27 	 N/N 	 1 	 Union Western
+30 	 15 	 S[qem]/S[dcl] 	 1 	 is whether
+31 	 30 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 willing is
+32 	 31 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to willing
+33 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 offer to
+35 	 36 	 (N/N)\(N/N) 	 2 	 large enough
+38 	 33 	 (S[b]\NP)/NP 	 2 	 stake offer
+38 	 34 	 NP[nb]/N 	 1 	 stake a
+38 	 35 	 N/N 	 1 	 stake large
+38 	 37 	 N/N 	 1 	 stake equity
+38 	 40 	 (S[b]\NP)/NP 	 1 	 stake entice <XB>
+38 	 43 	 (S[ng]\NP)/PP 	 1 	 stake agreeing <XB>
+40 	 39 	 (S[to]\NP)/(S[b]\NP) 	 2 	 entice to
+40 	 42 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 entice into
+41 	 40 	 (S[b]\NP)/NP 	 2 	 bondholders entice
+43 	 42 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 agreeing into
+44 	 43 	 (S[ng]\NP)/PP 	 2 	 to agreeing
+47 	 44 	 PP/NP 	 1 	 swap to
+47 	 45 	 NP[nb]/N 	 1 	 swap a
+47 	 46 	 N/N 	 1 	 swap new
+<\s>
+<s id="wsj_0462.8"> 31
+1 	 0 	 NP[nb]/N 	 1 	 $ The
+1 	 4 	 (NP\NP)/NP 	 1 	 $ in
+1 	 21 	 (S[dcl]\NP)/PP 	 1 	 $ stems
+3 	 1 	 N/N[num] 	 1 	 million $
+3 	 2 	 N/N 	 1 	 million 500
+5 	 4 	 (NP\NP)/NP 	 2 	 notes in
+9 	 7 	 NP[nb]/N 	 1 	 chunk the
+9 	 8 	 N/N 	 1 	 chunk largest
+9 	 10 	 (NP\NP)/NP 	 1 	 chunk of
+9 	 21 	 (S[dcl]\NP)/PP 	 1 	 chunk stems
+12 	 11 	 N/N 	 1 	 Union Western
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Union 's
+14 	 10 	 (NP\NP)/NP 	 2 	 $ of
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 $ 's
+14 	 17 	 (NP\NP)/NP 	 1 	 $ in
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 640
+19 	 17 	 (NP\NP)/NP 	 2 	 debt in
+19 	 18 	 N/N 	 1 	 debt long-term
+22 	 21 	 (S[dcl]\NP)/PP 	 2 	 from stems
+24 	 23 	 NP[nb]/N 	 1 	 company the
+24 	 25 	 (NP[nb]/N)\NP 	 2 	 company 's
+27 	 22 	 PP/NP 	 1 	 restructuring from
+27 	 25 	 (NP[nb]/N)\NP 	 1 	 restructuring 's
+27 	 26 	 N/N 	 1 	 restructuring major
+27 	 28 	 (NP\NP)/NP 	 1 	 restructuring in
+29 	 28 	 (NP\NP)/NP 	 2 	 December in
+29 	 30 	 N\N 	 1 	 December 1987
+<\s>
+<s id="wsj_0462.9"> 19
+1 	 0 	 NP[nb]/N 	 1 	 notes The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 notes became
+1 	 3 	 S[adj]\NP 	 1 	 notes burdensome <XB>
+2 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 became when
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 burdensome became
+6 	 5 	 N/N 	 1 	 provisions reset
+6 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 provisions allowed
+7 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 allowed when
+10 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 rate allowed
+10 	 8 	 NP[nb]/N 	 1 	 rate their
+10 	 9 	 N/N 	 1 	 rate interest
+10 	 13 	 S[pss]\NP 	 1 	 rate raised <XB>
+11 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to allowed
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+13 	 12 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 raised be
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 raised to
+13 	 18 	 (S\NP)\(S\NP) 	 2 	 raised June
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+16 	 15 	 N/N 	 1 	 % 19.25
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 June last
+<\s>
+<s id="wsj_0462.10"> 82
+1 	 0 	 N/N 	 1 	 Union Western
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Union had
+1 	 3 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Union offered <XB>
+1 	 5 	 (S[b]\NP)/NP 	 1 	 Union swap <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 offered had
+4 	 3 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to offered
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 swap to
+5 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 swap for
+8 	 7 	 (N/N)/N[num] 	 2 	 1,000 $
+10 	 5 	 (S[b]\NP)/NP 	 2 	 amount swap
+10 	 6 	 NP[nb]/N 	 1 	 amount each
+10 	 7 	 (N/N)/N[num] 	 1 	 amount $
+10 	 9 	 N/N 	 1 	 amount face
+10 	 11 	 (NP\NP)/NP 	 1 	 amount of
+13 	 11 	 (NP\NP)/NP 	 2 	 notes of
+13 	 12 	 NP[nb]/N 	 1 	 notes the
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 shares for
+16 	 15 	 N/N 	 1 	 shares six
+16 	 17 	 (NP\NP)/NP 	 1 	 shares of
+19 	 17 	 (NP\NP)/NP 	 2 	 stock of
+19 	 18 	 N/N 	 1 	 stock common
+24 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 issues for
+24 	 21 	 N/N 	 1 	 issues two
+24 	 22 	 N/N 	 1 	 issues new
+24 	 23 	 N/N 	 1 	 issues debt
+24 	 25 	 (NP\NP)/NP 	 1 	 issues :
+28 	 27 	 (N/N)/N[num] 	 2 	 500 $
+29 	 25 	 (NP\NP)/NP 	 2 	 note :
+29 	 26 	 NP[nb]/N 	 1 	 note a
+29 	 27 	 (N/N)/N[num] 	 1 	 note $
+29 	 30 	 (S[ng]\NP)/NP 	 1 	 note paying <XB>
+29 	 45 	 S[adj]\NP 	 1 	 note due <XB>
+33 	 30 	 (S[ng]\NP)/NP 	 2 	 rate paying
+33 	 31 	 NP[nb]/N 	 1 	 rate an
+33 	 32 	 N/N 	 1 	 rate interest
+33 	 34 	 (S[ng]\NP)/PP 	 1 	 rate starting <XB>
+33 	 40 	 S[ng]\NP 	 1 	 rate rising <XU>
+35 	 34 	 (S[ng]\NP)/PP 	 2 	 at starting
+37 	 35 	 PP/NP 	 1 	 % at
+37 	 36 	 N/N 	 1 	 % 16.75
+37 	 38 	 NP\NP 	 1 	 % annually
+40 	 41 	 ((S\NP)\(S\NP))/NP 	 2 	 rising in
+43 	 41 	 ((S\NP)\(S\NP))/NP 	 3 	 years in
+43 	 42 	 N/N 	 1 	 years later
+45 	 46 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 due in
+47 	 46 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 1992 in
+52 	 51 	 (N/N)/N[num] 	 2 	 500 $
+53 	 25 	 (NP\NP)/NP 	 2 	 note :
+53 	 50 	 NP[nb]/N 	 1 	 note a
+53 	 51 	 (N/N)/N[num] 	 1 	 note $
+53 	 55 	 S[adj]\NP 	 1 	 note due <XB>
+53 	 59 	 (S[ng]\NP)/NP 	 1 	 note paying <XB>
+53 	 67 	 (S[ng]\NP)/NP 	 1 	 note including <XU>
+55 	 56 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 due in
+57 	 56 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 1997 in
+62 	 59 	 (S[ng]\NP)/NP 	 2 	 rate paying
+62 	 60 	 NP[nb]/N 	 1 	 rate a
+62 	 61 	 N/N 	 1 	 rate fixed
+62 	 63 	 (NP\NP)/NP 	 1 	 rate of
+65 	 63 	 (NP\NP)/NP 	 2 	 % of
+65 	 64 	 N/N 	 1 	 % 17
+68 	 67 	 (S[ng]\NP)/NP 	 2 	 rights including
+68 	 69 	 ((S[ng]\NP)/PP)/NP 	 1 	 rights protecting <XB>
+71 	 69 	 ((S[ng]\NP)/PP)/NP 	 3 	 holder protecting
+71 	 70 	 NP[nb]/N 	 1 	 holder a
+72 	 69 	 ((S[ng]\NP)/PP)/NP 	 2 	 against protecting
+74 	 72 	 PP/NP 	 1 	 decline against
+74 	 73 	 NP[nb]/N 	 1 	 decline a
+74 	 75 	 (NP\NP)/NP 	 1 	 decline in
+78 	 75 	 (NP\NP)/NP 	 2 	 price in
+78 	 76 	 NP[nb]/N 	 1 	 price the
+78 	 77 	 N/N 	 1 	 price trading
+78 	 79 	 (NP\NP)/NP 	 1 	 price of
+81 	 79 	 (NP\NP)/NP 	 2 	 bond of
+81 	 80 	 NP[nb]/N 	 1 	 bond the
+<\s>
+<s id="wsj_0462.11"> 30
+1 	 0 	 N/N 	 1 	 Union Western
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Union must
+1 	 3 	 (S[b]\NP)/NP 	 1 	 Union make <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make must
+3 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 make on
+4 	 3 	 (S[b]\NP)/NP 	 2 	 $ make
+4 	 7 	 (NP\NP)/NP 	 1 	 $ in
+6 	 4 	 N/N[num] 	 1 	 million $
+6 	 5 	 N/N 	 1 	 million 48
+9 	 7 	 (NP\NP)/NP 	 2 	 payments in
+9 	 8 	 N/N 	 1 	 payments interest
+9 	 10 	 (NP\NP)/NP 	 1 	 payments on
+13 	 10 	 (NP\NP)/NP 	 2 	 notes on
+13 	 11 	 NP[nb]/N 	 1 	 notes the
+13 	 12 	 N/N 	 1 	 notes reset
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 Dec. on
+16 	 15 	 N/N[num] 	 1 	 15 Dec.
+21 	 19 	 NP[nb]/N 	 1 	 spokesman a
+21 	 20 	 N/N 	 1 	 spokesman company
+21 	 22 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+23 	 25 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it intends
+23 	 27 	 (S[b]\NP)/NP 	 1 	 it meet <XB>
+25 	 22 	 (S[dcl]\NP)/S[dcl] 	 2 	 intends said
+25 	 24 	 (S\NP)/(S\NP) 	 2 	 intends fully
+26 	 25 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to intends
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+29 	 27 	 (S[b]\NP)/NP 	 2 	 payments meet
+29 	 28 	 NP[nb]/N 	 1 	 payments the
+<\s>
+<s id="wsj_0462.12"> 19
+2 	 1 	 N/N 	 1 	 Union Western
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Union has
+2 	 4 	 (S[pt]\NP)/S[dcl] 	 1 	 Union said <XB>
+3 	 0 	 S/S 	 1 	 has But
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said has
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it must
+5 	 7 	 (S[b]\NP)/NP 	 1 	 it lower <XB>
+5 	 15 	 (S[b]\NP)/NP 	 1 	 it regain <XB>
+6 	 4 	 (S[pt]\NP)/S[dcl] 	 2 	 must said
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 lower must
+10 	 7 	 (S[b]\NP)/NP 	 2 	 rate lower
+10 	 8 	 NP[nb]/N 	 1 	 rate the
+10 	 9 	 N/N 	 1 	 rate interest
+10 	 11 	 (NP\NP)/NP 	 1 	 rate on
+13 	 11 	 (NP\NP)/NP 	 2 	 debt on
+13 	 12 	 NP[nb]/N 	 1 	 debt its
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 regain to
+18 	 15 	 (S[b]\NP)/NP 	 2 	 health regain
+18 	 16 	 N/N 	 1 	 health full
+18 	 17 	 N/N 	 1 	 health financial
+<\s>

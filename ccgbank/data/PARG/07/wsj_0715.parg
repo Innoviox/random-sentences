@@ -1,0 +1,75 @@
+<s id="wsj_0715.1"> 31
+1 	 0 	 N/N 	 1 	 Germany West
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Germany 's
+4 	 2 	 (NP[nb]/N)\NP 	 1 	 index 's
+4 	 3 	 N/N 	 1 	 index cost-of-living
+4 	 5 	 S[dcl]\NP 	 1 	 index rose
+4 	 15 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 index was <XU>
+4 	 16 	 S[adj]\NP 	 1 	 index up <XU>
+4 	 22 	 (S[adj]\NP)\NP 	 1 	 index earlier <XU>
+5 	 6 	 ((S\NP)\(S\NP))/N 	 2 	 rose a
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 rose in
+5 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+5 	 30 	 (S[dcl]\S[dcl])\NP 	 1 	 rose said
+9 	 6 	 ((S\NP)\(S\NP))/N 	 3 	 % a
+9 	 7 	 N/N 	 1 	 % preliminary
+9 	 8 	 N/N 	 1 	 % 0.3
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 October in
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 September from
+15 	 19 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 was from
+15 	 30 	 (S[dcl]\S[dcl])\NP 	 1 	 was said
+16 	 15 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 up was
+16 	 18 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 up %
+18 	 17 	 ((S[adj]\NP)\(S[adj]\NP))/((S[adj]\NP)\(S[adj]\NP)) 	 3 	 % 3.3
+21 	 20 	 NP[nb]/N 	 1 	 year a
+21 	 22 	 (S[adj]\NP)\NP 	 2 	 year earlier
+22 	 19 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 earlier from
+27 	 24 	 NP[nb]/N 	 1 	 Office the
+27 	 25 	 N/N 	 1 	 Office Federal
+27 	 26 	 N/N 	 1 	 Office Statistics
+27 	 28 	 (NP\NP)/NP 	 1 	 Office in
+27 	 30 	 (S[dcl]\S[dcl])\NP 	 2 	 Office said
+29 	 28 	 (NP\NP)/NP 	 2 	 Wiesbaden in
+<\s>
+<s id="wsj_0715.2"> 13
+1 	 0 	 NP[nb]/N 	 1 	 increase The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 increase follows
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 rise follows
+5 	 3 	 NP[nb]/N 	 1 	 rise a
+5 	 4 	 N/N 	 1 	 rise monthly
+5 	 6 	 (NP\NP)/NP 	 1 	 rise of
+5 	 9 	 (NP\NP)/NP 	 1 	 rise in
+5 	 11 	 (NP\NP)/NP 	 1 	 rise from
+8 	 6 	 (NP\NP)/NP 	 2 	 % of
+8 	 7 	 N/N 	 1 	 % 0.2
+10 	 9 	 (NP\NP)/NP 	 2 	 September in
+12 	 11 	 (NP\NP)/NP 	 2 	 August from
+<\s>
+<s id="wsj_0715.3"> 29
+2 	 0 	 N/N 	 1 	 data Preliminary
+2 	 1 	 N/N 	 1 	 data cost-of-living
+2 	 3 	 (NP\NP)/NP 	 1 	 data for
+2 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 data are
+2 	 8 	 S[pss]\NP 	 1 	 data calculated <XB>
+6 	 3 	 (NP\NP)/NP 	 2 	 month for
+6 	 4 	 NP[nb]/N 	 1 	 month the
+6 	 5 	 N/N 	 1 	 month current
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 calculated are
+8 	 9 	 ((S\NP)\(S\NP))/PP 	 2 	 calculated based
+10 	 9 	 ((S\NP)\(S\NP))/PP 	 3 	 on based
+12 	 10 	 PP/NP 	 1 	 data on
+12 	 11 	 N/N 	 1 	 data inflation
+12 	 13 	 (NP\NP)/NP 	 1 	 data from
+19 	 13 	 (NP\NP)/NP 	 2 	 states from
+19 	 14 	 NP[nb]/N 	 1 	 states the
+19 	 15 	 N/N 	 1 	 states four
+19 	 16 	 N/N 	 1 	 states largest
+19 	 17 	 N/N 	 1 	 states West
+19 	 18 	 N/N 	 1 	 states German
+19 	 20 	 (NP\NP)/NP 	 1 	 states --
+21 	 20 	 (NP\NP)/NP 	 2 	 Baden-Wuerttemberg --
+24 	 20 	 (NP\NP)/NP 	 2 	 Rhine-Westphalia --
+24 	 23 	 N/N 	 1 	 Rhine-Westphalia North
+26 	 20 	 (NP\NP)/NP 	 2 	 Bavaria --
+28 	 20 	 (NP\NP)/NP 	 2 	 Hesse --
+<\s>

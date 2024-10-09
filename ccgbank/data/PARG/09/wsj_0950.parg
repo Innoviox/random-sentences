@@ -1,0 +1,575 @@
+<s id="wsj_0950.1"> 35
+2 	 0 	 N/N 	 1 	 Corp. General
+2 	 1 	 N/N 	 1 	 Corp. Motors
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+9 	 3 	 (NP[nb]/N)\NP 	 1 	 unit 's
+9 	 4 	 N/N 	 1 	 unit big
+9 	 5 	 N/N 	 1 	 unit defense
+9 	 7 	 N/N 	 1 	 unit automotive
+9 	 8 	 N/N 	 1 	 unit electronics
+9 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 unit said
+13 	 11 	 N/N 	 1 	 Electronics GM
+13 	 12 	 N/N 	 1 	 Electronics Hughes
+13 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 Electronics said
+17 	 16 	 N/N 	 1 	 income net
+17 	 18 	 S[dcl]\NP 	 1 	 income fell
+17 	 26 	 (S[ng]\NP)/NP 	 1 	 income reflecting <XB>
+18 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 fell said
+18 	 20 	 (S\NP)\(S\NP) 	 2 	 fell %
+18 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 fell in
+20 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 22
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+24 	 22 	 NP[nb]/N 	 1 	 quarter the
+24 	 23 	 N/N 	 1 	 quarter third
+29 	 26 	 (S[ng]\NP)/NP 	 2 	 spending reflecting
+29 	 27 	 N/N 	 1 	 spending declining
+29 	 28 	 N/N 	 1 	 spending military
+34 	 26 	 (S[ng]\NP)/NP 	 2 	 production reflecting
+34 	 31 	 N/N 	 1 	 production slumping
+34 	 32 	 N/N 	 1 	 production GM
+34 	 33 	 N/N 	 1 	 production vehicle
+<\s>
+<s id="wsj_0950.2"> 17
+2 	 3 	 (NP\NP)/NP 	 1 	 net at
+2 	 14 	 S[dcl]\NP 	 1 	 net fell
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 GM 's
+7 	 3 	 (NP\NP)/NP 	 2 	 arm at
+7 	 5 	 (NP[nb]/N)\NP 	 1 	 arm 's
+7 	 6 	 N/N 	 1 	 arm finance
+12 	 3 	 (NP\NP)/NP 	 2 	 Corp. at
+12 	 9 	 N/N 	 1 	 Corp. General
+12 	 10 	 N/N 	 1 	 Corp. Motors
+12 	 11 	 N/N 	 1 	 Corp. Acceptance
+14 	 0 	 S/S 	 1 	 fell Meanwhile
+14 	 16 	 (S\NP)\(S\NP) 	 2 	 fell %
+16 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 3.1
+<\s>
+<s id="wsj_0950.3"> 18
+1 	 0 	 (S/S)/NP 	 2 	 contrast By
+6 	 3 	 N/N 	 1 	 Corp. Electronic
+6 	 4 	 N/N 	 1 	 Corp. Data
+6 	 5 	 N/N 	 1 	 Corp. Systems
+6 	 14 	 (S[dcl]\NP)/NP 	 1 	 Corp. boosted
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 GM 's
+12 	 9 	 (NP[nb]/N)\NP 	 1 	 subsidiary 's
+12 	 10 	 N/N 	 1 	 subsidiary data
+12 	 11 	 N/N 	 1 	 subsidiary processing
+12 	 14 	 (S[dcl]\NP)/NP 	 1 	 subsidiary boosted
+14 	 0 	 (S/S)/NP 	 1 	 boosted By
+14 	 17 	 (S\NP)\(S\NP) 	 2 	 boosted %
+15 	 14 	 (S[dcl]\NP)/NP 	 2 	 net boosted
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 16
+<\s>
+<s id="wsj_0950.4"> 15
+0 	 1 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 1 	 GM closed
+0 	 2 	 (S[adj]\NP)/NP 	 1 	 GM down <XB>
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 closed in
+1 	 14 	 (S\NP)\(S\NP) 	 2 	 closed yesterday
+2 	 1 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 3 	 down closed
+3 	 2 	 (S[adj]\NP)/NP 	 2 	 $ down
+4 	 3 	 N/N[num] 	 1 	 1.875 $
+5 	 1 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 2 	 at closed
+6 	 5 	 PP/NP 	 1 	 $ at
+7 	 6 	 N/N[num] 	 1 	 44.875 $
+13 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+13 	 9 	 N/N 	 1 	 trading New
+13 	 10 	 N/N 	 1 	 trading York
+13 	 11 	 N/N 	 1 	 trading Stock
+13 	 12 	 N/N 	 1 	 trading Exchange
+<\s>
+<s id="wsj_0950.5"> 21
+0 	 1 	 (NP\NP)/NP 	 1 	 Earnings for
+0 	 6 	 (S[ng]\NP)/NP 	 1 	 Earnings reflecting <XB>
+0 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Earnings will
+0 	 18 	 S[pss]\NP 	 1 	 Earnings disclosed <XB>
+4 	 1 	 (NP\NP)/NP 	 2 	 stock for
+4 	 2 	 N/N 	 1 	 stock GM
+4 	 3 	 N/N 	 1 	 stock common
+8 	 6 	 (S[ng]\NP)/NP 	 2 	 performance reflecting
+8 	 7 	 NP[nb]/N 	 1 	 performance the
+8 	 9 	 (NP\NP)/NP 	 1 	 performance of
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 GM 's
+14 	 9 	 (NP\NP)/NP 	 2 	 operations of
+14 	 11 	 (NP[nb]/N)\NP 	 1 	 operations 's
+14 	 12 	 N/N 	 1 	 operations core
+14 	 13 	 N/N 	 1 	 operations automotive
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+18 	 17 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 disclosed be
+18 	 19 	 ((S\NP)\(S\NP))/N 	 2 	 disclosed this
+20 	 19 	 ((S\NP)\(S\NP))/N 	 3 	 morning this
+<\s>
+<s id="wsj_0950.6"> 26
+2 	 0 	 N/N 	 1 	 H GM
+2 	 1 	 N/N 	 1 	 H Class
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 H which
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 H represents <XB>
+2 	 13 	 (S[dcl]\NP)/PP 	 1 	 H closed
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 represents which
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 interest represents
+8 	 6 	 NP[nb]/N 	 1 	 interest a
+8 	 7 	 N/N 	 1 	 interest dividend
+8 	 9 	 (NP\NP)/NP 	 1 	 interest in
+11 	 9 	 (NP\NP)/NP 	 2 	 earnings in
+11 	 10 	 N/N 	 1 	 earnings Hughes
+13 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+13 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 closed in
+14 	 13 	 (S[dcl]\NP)/PP 	 2 	 at closed
+15 	 14 	 PP/NP 	 1 	 $ at
+16 	 15 	 N/N[num] 	 1 	 29 $
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 cents up
+20 	 19 	 N/N 	 1 	 cents 25
+25 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+25 	 22 	 N/N 	 1 	 trading Big
+25 	 23 	 N/N 	 1 	 trading Board
+25 	 24 	 N/N 	 1 	 trading composite
+<\s>
+<s id="wsj_0950.7"> 23
+2 	 0 	 N/N 	 1 	 E GM
+2 	 1 	 N/N 	 1 	 E Class
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 E which
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 E represents <XB>
+2 	 13 	 S[dcl]\NP 	 1 	 E fell
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 represents which
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 interest represents
+8 	 6 	 NP[nb]/N 	 1 	 interest a
+8 	 7 	 N/N 	 1 	 interest dividend
+8 	 9 	 (NP\NP)/NP 	 1 	 interest in
+11 	 9 	 (NP\NP)/NP 	 2 	 profit in
+11 	 10 	 N/N 	 1 	 profit EDS
+13 	 15 	 (S\NP)\(S\NP) 	 2 	 fell cents
+13 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+13 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 fell on
+15 	 14 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 cents 75
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+18 	 17 	 N/N[num] 	 1 	 52.25 $
+22 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 Board on
+22 	 20 	 NP[nb]/N 	 1 	 Board the
+22 	 21 	 N/N 	 1 	 Board Big
+<\s>
+<s id="wsj_0950.8"> 46
+2 	 0 	 NP[nb]/N 	 1 	 drop The
+2 	 1 	 N/N 	 1 	 drop earnings
+2 	 3 	 (NP\NP)/NP 	 1 	 drop at
+2 	 7 	 (S[dcl]\NP)/NP 	 1 	 drop is
+6 	 3 	 (NP\NP)/NP 	 2 	 Electronics at
+6 	 4 	 N/N 	 1 	 Electronics GM
+6 	 5 	 N/N 	 1 	 Electronics Hughes
+7 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 is at
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 sign is
+9 	 8 	 NP[nb]/N 	 1 	 sign a
+9 	 10 	 (NP\NP)/NP 	 1 	 sign of
+12 	 10 	 (NP\NP)/NP 	 2 	 times of
+12 	 11 	 N/N 	 1 	 times tough
+17 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 operations at
+17 	 14 	 NP/NP 	 1 	 operations both
+17 	 15 	 NP[nb]/N 	 1 	 operations the
+17 	 16 	 N/N 	 1 	 operations defense
+17 	 18 	 (NP\NP)/NP 	 1 	 operations of
+21 	 18 	 (NP\NP)/NP 	 2 	 Co. of
+21 	 19 	 N/N 	 1 	 Co. Hughes
+21 	 20 	 N/N 	 1 	 Co. Aircraft
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 GM 's
+28 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 operations at
+28 	 14 	 NP/NP 	 1 	 operations both
+28 	 24 	 (NP[nb]/N)\NP 	 1 	 operations 's
+28 	 25 	 N/N 	 1 	 operations North
+28 	 26 	 N/N 	 1 	 operations American
+28 	 27 	 N/N 	 1 	 operations automotive
+28 	 30 	 (NP\NP)/(S[dcl]\NP) 	 1 	 operations which
+28 	 31 	 (S[dcl]\NP)/NP 	 1 	 operations are <XB>
+31 	 30 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are which
+34 	 31 	 (S[dcl]\NP)/NP 	 2 	 customer are
+34 	 32 	 NP[nb]/N 	 1 	 customer a
+34 	 33 	 N/N 	 1 	 customer primary
+34 	 35 	 (NP\NP)/NP 	 1 	 customer for
+40 	 35 	 (NP\NP)/NP 	 2 	 side for
+40 	 36 	 NP[nb]/N 	 1 	 side the
+40 	 37 	 N/N 	 1 	 side Delco
+40 	 38 	 N/N 	 1 	 side Electronics
+40 	 39 	 N/N 	 1 	 side Corp.
+40 	 41 	 (NP\NP)/NP 	 1 	 side of
+45 	 41 	 (NP\NP)/NP 	 2 	 unit of
+45 	 42 	 NP[nb]/N 	 1 	 unit the
+45 	 43 	 N/N 	 1 	 unit GM
+45 	 44 	 N/N 	 1 	 unit Hughes
+<\s>
+<s id="wsj_0950.9"> 54
+0 	 1 	 (NP\NP)/NP 	 1 	 Profit at
+0 	 4 	 S[dcl]\NP 	 1 	 Profit fell
+3 	 1 	 (NP\NP)/NP 	 2 	 unit at
+3 	 2 	 NP[nb]/N 	 1 	 unit the
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+4 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+4 	 28 	 ((S\NP)\(S\NP))/PP 	 2 	 fell because
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+8 	 6 	 N/N[num] 	 1 	 million $
+8 	 7 	 N/N 	 1 	 million 110.6
+12 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+12 	 11 	 N/N 	 1 	 cents 37
+12 	 13 	 (NP\NP)/N 	 1 	 cents a
+14 	 13 	 (NP\NP)/N 	 2 	 share a
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 142.4
+23 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+23 	 22 	 N/N 	 1 	 cents 45
+23 	 24 	 (NP\NP)/N 	 1 	 cents a
+25 	 24 	 (NP\NP)/N 	 2 	 share a
+28 	 27 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 because largely
+29 	 28 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+33 	 31 	 (N/N)/N[num] 	 2 	 million $
+33 	 32 	 N/N 	 1 	 million 24
+35 	 29 	 PP/NP 	 1 	 charge of
+35 	 30 	 NP[nb]/N 	 1 	 charge a
+35 	 31 	 (N/N)/N[num] 	 1 	 charge $
+35 	 34 	 N/N 	 1 	 charge one-time
+35 	 36 	 (S[pss]\NP)/PP 	 1 	 charge associated <XB>
+37 	 36 	 (S[pss]\NP)/PP 	 2 	 with associated
+38 	 39 	 (NP[nb]/N)\NP 	 2 	 Hughes 's
+40 	 41 	 (N/N)\(N/N) 	 2 	 previously announced
+42 	 37 	 PP/NP 	 1 	 plan with
+42 	 39 	 (NP[nb]/N)\NP 	 1 	 plan 's
+42 	 40 	 N/N 	 1 	 plan previously
+42 	 44 	 (S[b]\NP)/NP 	 1 	 plan reduce <XB>
+44 	 43 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reduce to
+44 	 46 	 ((S\NP)\(S\NP))/NP 	 2 	 reduce by
+44 	 51 	 ((S\NP)\(S\NP))/NP 	 2 	 reduce by
+45 	 44 	 (S[b]\NP)/NP 	 2 	 employment reduce
+48 	 47 	 ((N/N)/(N/N))/(S[asup]\NP) 	 3 	 least at
+49 	 47 	 ((N/N)/(N/N))/(S[asup]\NP) 	 2 	 6,000 at
+50 	 46 	 ((S\NP)\(S\NP))/NP 	 3 	 people by
+50 	 49 	 N/N 	 1 	 people 6,000
+53 	 51 	 ((S\NP)\(S\NP))/NP 	 3 	 end by
+53 	 52 	 N/N 	 1 	 end year
+<\s>
+<s id="wsj_0950.10"> 11
+1 	 0 	 (S\NP)/(S\NP) 	 2 	 excluding Even
+3 	 1 	 (S[ng]\NP)/NP 	 2 	 charge excluding
+3 	 2 	 NP[nb]/N 	 1 	 charge the
+7 	 8 	 S[dcl]\NP 	 1 	 net fell
+8 	 5 	 S/S 	 1 	 fell however
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 fell %
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 5
+<\s>
+<s id="wsj_0950.11"> 28
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 GM 's
+6 	 5 	 (N/N)/(N/N) 	 2 	 American North
+8 	 4 	 (NP[nb]/N)\NP 	 1 	 production 's
+8 	 6 	 N/N 	 1 	 production American
+8 	 7 	 N/N 	 1 	 production vehicle
+8 	 9 	 S[dcl]\NP 	 1 	 production fell
+8 	 15 	 (S[adj]\NP)\NP 	 1 	 production ago <XB>
+8 	 18 	 (S[dcl]\NP)/NP 	 1 	 production hurt <XB>
+9 	 0 	 (S/S)/NP 	 1 	 fell In
+9 	 11 	 (S\NP)\(S\NP) 	 2 	 fell %
+9 	 12 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 fell from
+9 	 17 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 fell which
+9 	 27 	 (S[dcl]\S[dcl])\NP 	 1 	 fell said
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 8.4
+14 	 13 	 NP[nb]/N 	 1 	 year a
+14 	 15 	 (S[adj]\NP)\NP 	 2 	 year ago
+15 	 12 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 ago from
+18 	 17 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 hurt which
+20 	 19 	 N/N 	 1 	 Electronic Delco
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 Electronic 's
+22 	 18 	 (S[dcl]\NP)/NP 	 2 	 earnings hurt
+22 	 21 	 (NP[nb]/N)\NP 	 1 	 earnings 's
+26 	 24 	 NP[nb]/N 	 1 	 spokesman a
+26 	 25 	 N/N 	 1 	 spokesman company
+26 	 27 	 (S[dcl]\S[dcl])\NP 	 2 	 spokesman said
+<\s>
+<s id="wsj_0950.12"> 23
+1 	 0 	 NP[nb]/N 	 1 	 decline That
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 decline was
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 decline reflected <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 reflected was
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 in reflected
+5 	 4 	 PP/NP 	 1 	 revenue in
+5 	 6 	 (NP\NP)/NP 	 1 	 revenue for
+10 	 6 	 (NP\NP)/NP 	 2 	 unit for
+10 	 7 	 NP[nb]/N 	 1 	 unit the
+10 	 8 	 N/N 	 1 	 unit GM
+10 	 9 	 N/N 	 1 	 unit Hughes
+10 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 unit which
+10 	 13 	 S[dcl]\NP 	 1 	 unit edged <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 edged which
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 edged down
+13 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 edged to
+13 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 edged from
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+18 	 16 	 N/N[num] 	 1 	 billion $
+18 	 17 	 N/N 	 1 	 billion 2.58
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+22 	 20 	 N/N[num] 	 1 	 billion $
+22 	 21 	 N/N 	 1 	 billion 2.63
+<\s>
+<s id="wsj_0950.13"> 32
+3 	 0 	 (S/S)/NP 	 2 	 months In
+3 	 1 	 NP[nb]/N 	 1 	 months the
+3 	 2 	 N/N 	 1 	 months nine
+7 	 5 	 N/N 	 1 	 net GM
+7 	 6 	 N/N 	 1 	 net Hughes
+7 	 8 	 S[dcl]\NP 	 1 	 net fell
+8 	 0 	 (S/S)/NP 	 1 	 fell In
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 fell %
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+8 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 6.6
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 486.6
+17 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+17 	 19 	 (NP\NP)/N 	 1 	 $ a
+18 	 17 	 N/N[num] 	 1 	 1.48 $
+20 	 19 	 (NP\NP)/N 	 2 	 share a
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+25 	 23 	 N/N[num] 	 1 	 million $
+25 	 24 	 N/N 	 1 	 million 521
+28 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+28 	 30 	 (NP\NP)/N 	 1 	 $ a
+29 	 28 	 N/N[num] 	 1 	 1.58 $
+31 	 30 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0950.14"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Revenue rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 3.5
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 8.47
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 8.18
+<\s>
+<s id="wsj_0950.15"> 15
+1 	 0 	 (S/S)/NP 	 2 	 GMAC At
+3 	 4 	 S[dcl]\NP 	 1 	 net dropped
+4 	 0 	 (S/S)/NP 	 1 	 dropped At
+4 	 6 	 (S\NP)\(S\NP) 	 2 	 dropped %
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped to
+4 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped from
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 3.1
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 234.5
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 241.9
+<\s>
+<s id="wsj_0950.16"> 15
+2 	 0 	 NP[nb]/N 	 1 	 unit The
+2 	 1 	 N/N 	 1 	 unit finance
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 unit attributed
+5 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 decline attributed
+5 	 4 	 NP[nb]/N 	 1 	 decline the
+6 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to attributed
+9 	 6 	 PP/NP 	 1 	 costs to
+9 	 7 	 N/N 	 1 	 costs higher
+9 	 8 	 N/N 	 1 	 costs borrowing
+9 	 10 	 (NP\NP)/PP 	 1 	 costs compared
+11 	 10 	 (NP\NP)/PP 	 2 	 with compared
+13 	 12 	 NP[nb]/N 	 1 	 year a
+13 	 14 	 (S[adj]\NP)\NP 	 2 	 year earlier
+14 	 11 	 PP/(S[adj]\NP) 	 1 	 earlier with
+<\s>
+<s id="wsj_0950.17"> 26
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 GMAC said
+7 	 2 	 NP[nb]/N 	 1 	 business its
+7 	 3 	 N/N 	 1 	 business automotive
+7 	 4 	 N/N 	 1 	 business financing
+7 	 6 	 N/N 	 1 	 business leasing
+7 	 8 	 S[dcl]\NP 	 1 	 business rose
+8 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 rose said
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 rose %
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 rose in
+8 	 16 	 ((S\NP)\(S\NP))/PP 	 2 	 rose because
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 35
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. in
+13 	 12 	 NP[nb]/N 	 1 	 U.S. the
+16 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 because largely
+17 	 16 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+21 	 17 	 PP/NP 	 1 	 incentives of
+21 	 18 	 N/N 	 1 	 incentives dealer
+21 	 20 	 N/N 	 1 	 incentives customer
+21 	 22 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 incentives used <XB>
+21 	 24 	 (S[b]\NP)/NP 	 1 	 incentives boost <XB>
+23 	 22 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 boost to
+25 	 24 	 (S[b]\NP)/NP 	 2 	 sales boost
+<\s>
+<s id="wsj_0950.18"> 22
+1 	 0 	 N/N 	 1 	 profits GMAC
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 profits are
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 profits combined <XB>
+1 	 14 	 (S[pss]\NP)/PP 	 1 	 profits attributed <XU>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 combined are
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 with combined
+5 	 4 	 PP/NP 	 1 	 earnings with
+5 	 6 	 (NP\NP)/NP 	 1 	 earnings from
+8 	 6 	 (NP\NP)/NP 	 2 	 rest from
+8 	 7 	 NP[nb]/N 	 1 	 rest the
+8 	 9 	 (NP\NP)/NP 	 1 	 rest of
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 GM 's
+12 	 9 	 (NP\NP)/NP 	 2 	 operations of
+12 	 11 	 (NP[nb]/N)\NP 	 1 	 operations 's
+14 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 attributed are
+15 	 14 	 (S[pss]\NP)/PP 	 2 	 to attributed
+17 	 16 	 NP[nb]/N 	 1 	 company the
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 company 's
+21 	 15 	 PP/NP 	 1 	 stock to
+21 	 18 	 (NP[nb]/N)\NP 	 1 	 stock 's
+21 	 19 	 N/N 	 1 	 stock traditional
+21 	 20 	 N/N 	 1 	 stock common
+<\s>
+<s id="wsj_0950.19"> 20
+4 	 0 	 (S/S)/NP 	 2 	 months In
+4 	 1 	 NP[nb]/N 	 1 	 months the
+4 	 2 	 N/N 	 1 	 months first
+4 	 3 	 N/N 	 1 	 months nine
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 GMAC 's
+8 	 7 	 (NP[nb]/N)\NP 	 1 	 earnings 's
+8 	 9 	 S[dcl]\NP 	 1 	 earnings fell
+9 	 0 	 (S/S)/NP 	 1 	 fell In
+9 	 11 	 (S\NP)\(S\NP) 	 2 	 fell %
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+9 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 8
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 859.5
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 930.2
+<\s>
+<s id="wsj_0950.20"> 31
+1 	 0 	 (S/S)/NP 	 2 	 EDS At
+4 	 3 	 N/N 	 1 	 profit third-quarter
+4 	 5 	 S[dcl]\NP 	 1 	 profit jumped
+5 	 0 	 (S/S)/NP 	 1 	 jumped At
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 jumped %
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 jumped to
+5 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 jumped from
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 16
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+11 	 9 	 NP[nb]/N 	 1 	 $ a
+11 	 10 	 N/N 	 1 	 $ record
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 110.9
+17 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+17 	 16 	 N/N 	 1 	 cents 93
+17 	 18 	 (NP\NP)/N 	 1 	 cents a
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+24 	 22 	 N/N[num] 	 1 	 million $
+24 	 23 	 N/N 	 1 	 million 95.9
+28 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+28 	 27 	 N/N 	 1 	 cents 79
+28 	 29 	 (NP\NP)/N 	 1 	 cents a
+30 	 29 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0950.21"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Revenue rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 12
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 1.37
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 1.22
+<\s>
+<s id="wsj_0950.22"> 30
+3 	 0 	 (S/S)/NP 	 2 	 months In
+3 	 1 	 NP[nb]/N 	 1 	 months the
+3 	 2 	 N/N 	 1 	 months nine
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 EDS earned
+6 	 0 	 (S/S)/NP 	 1 	 earned In
+6 	 17 	 (((S\NP)\(S\NP))/PP)/NP 	 2 	 earned up
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 315.8
+12 	 6 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+12 	 14 	 (NP\NP)/N 	 1 	 $ a
+13 	 12 	 N/N[num] 	 1 	 2.62 $
+15 	 14 	 (NP\NP)/N 	 2 	 share a
+19 	 17 	 (((S\NP)\(S\NP))/PP)/NP 	 4 	 % up
+19 	 18 	 N/N 	 1 	 % 13
+20 	 17 	 (((S\NP)\(S\NP))/PP)/NP 	 3 	 from up
+21 	 20 	 PP/NP 	 1 	 $ from
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 280.7
+26 	 20 	 PP/NP 	 1 	 $ from
+26 	 28 	 (NP\NP)/N 	 1 	 $ a
+27 	 26 	 N/N[num] 	 1 	 2.30 $
+29 	 28 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0950.23"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Revenue rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 14
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 4.03
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 3.54
+<\s>
+<s id="wsj_0950.24"> 25
+0 	 1 	 (NP\NP)/NP 	 1 	 Revenue from
+0 	 4 	 (S[dcl]\NP)/NP 	 1 	 Revenue was
+3 	 1 	 (NP\NP)/NP 	 2 	 accounts from
+3 	 2 	 N/N 	 1 	 accounts non-GM
+4 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 was in
+4 	 18 	 ((S\NP)\(S\NP))/PP 	 2 	 was compared
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 % was
+6 	 5 	 N/N 	 1 	 % 45
+6 	 7 	 (NP\NP)/NP 	 1 	 % of
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 EDS 's
+11 	 7 	 (NP\NP)/NP 	 2 	 business of
+11 	 9 	 (NP[nb]/N)\NP 	 1 	 business 's
+11 	 10 	 N/N 	 1 	 business total
+16 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 months in
+16 	 13 	 NP[nb]/N 	 1 	 months the
+16 	 14 	 N/N 	 1 	 months latest
+16 	 15 	 N/N 	 1 	 months nine
+19 	 18 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+21 	 19 	 PP/NP 	 1 	 % with
+21 	 20 	 N/N 	 1 	 % 40
+21 	 24 	 (NP\NP)\NP 	 1 	 % earlier
+23 	 22 	 NP[nb]/N 	 1 	 year a
+23 	 24 	 (NP\NP)\NP 	 2 	 year earlier
+<\s>
+<s id="wsj_0950.25"> 24
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company has
+1 	 3 	 (S[pt]\NP)/S[dcl] 	 1 	 company said <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said has
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it wants
+4 	 7 	 (S[b]\NP)/NP 	 1 	 it boost <XB>
+5 	 3 	 (S[pt]\NP)/S[dcl] 	 2 	 wants said
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wants
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 boost to
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 boost to
+7 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 boost by
+9 	 7 	 (S[b]\NP)/NP 	 2 	 revenue boost
+9 	 8 	 N/N 	 1 	 revenue non-GM
+12 	 11 	 ((N/N)/(N/N))/(S[asup]\NP) 	 3 	 least at
+13 	 11 	 ((N/N)/(N/N))/(S[asup]\NP) 	 2 	 50 at
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+14 	 13 	 N/N 	 1 	 % 50
+14 	 15 	 (NP\NP)/NP 	 1 	 % of
+18 	 15 	 (NP\NP)/NP 	 2 	 business of
+18 	 16 	 NP[nb]/N 	 1 	 business its
+18 	 17 	 N/N 	 1 	 business total
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 end by
+21 	 20 	 NP[nb]/N 	 1 	 end the
+21 	 22 	 (NP\NP)/NP 	 1 	 end of
+23 	 22 	 (NP\NP)/NP 	 2 	 1990 of
+<\s>

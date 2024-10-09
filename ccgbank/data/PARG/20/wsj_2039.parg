@@ -1,0 +1,264 @@
+<s id="wsj_2039.1"> 37
+1 	 0 	 N/N 	 1 	 Co. Weyerhaeuser
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Co. reported
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 gain reported
+5 	 3 	 NP[nb]/N 	 1 	 gain a
+5 	 4 	 N/N 	 1 	 gain one-time
+5 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 gain that
+5 	 11 	 (S[dcl]\NP)/NP 	 1 	 gain offset <XB>
+5 	 18 	 (S[b]\NP)/NP 	 1 	 gain fuel <XB>
+9 	 2 	 (S[dcl]\NP)/NP 	 2 	 sales reported
+9 	 7 	 N/N 	 1 	 sales strong
+9 	 8 	 N/N 	 1 	 sales wood-product
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 sales that
+9 	 11 	 (S[dcl]\NP)/NP 	 1 	 sales offset <XB>
+9 	 18 	 (S[b]\NP)/NP 	 1 	 sales fuel <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 offset that
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 weakness offset
+12 	 13 	 (NP\NP)/NP 	 1 	 weakness in
+14 	 13 	 (NP\NP)/NP 	 2 	 pulp in
+16 	 13 	 (NP\NP)/NP 	 2 	 paper in
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 fuel to
+18 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 fuel to
+21 	 20 	 (N/N)/(N/N) 	 2 	 % 15
+22 	 18 	 (S[b]\NP)/NP 	 2 	 jump fuel
+22 	 19 	 NP[nb]/N 	 1 	 jump a
+22 	 21 	 N/N 	 1 	 jump %
+22 	 23 	 (NP\NP)/NP 	 1 	 jump in
+26 	 23 	 (NP\NP)/NP 	 2 	 income in
+26 	 24 	 N/N 	 1 	 income third-quarter
+26 	 25 	 N/N 	 1 	 income net
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+30 	 28 	 N/N[num] 	 1 	 million $
+30 	 29 	 N/N 	 1 	 million 166.8
+34 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+34 	 33 	 N/N 	 1 	 cents 78
+34 	 35 	 (NP\NP)/N 	 1 	 cents a
+36 	 35 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_2039.2"> 21
+4 	 0 	 (S/S)/NP 	 2 	 quarter In
+4 	 1 	 NP[nb]/N 	 1 	 quarter the
+4 	 2 	 N/N 	 1 	 quarter 1988
+4 	 3 	 N/N 	 1 	 quarter third
+8 	 6 	 NP[nb]/N 	 1 	 company the
+8 	 7 	 N/N 	 1 	 company forest-products
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 company reported
+9 	 0 	 (S/S)/NP 	 1 	 reported In
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 profit reported
+10 	 11 	 (NP\NP)/NP 	 1 	 profit of
+12 	 11 	 (NP\NP)/NP 	 2 	 $ of
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 144.9
+18 	 11 	 (NP\NP)/NP 	 2 	 cents of
+18 	 17 	 N/N 	 1 	 cents 69
+18 	 19 	 (NP\NP)/N 	 1 	 cents a
+20 	 19 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_2039.3"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Sales rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 9
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 2.57
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 2.36
+<\s>
+<s id="wsj_2039.4"> 35
+3 	 0 	 (S/S)/NP 	 2 	 months For
+3 	 1 	 NP[nb]/N 	 1 	 months the
+3 	 2 	 N/N 	 1 	 months nine
+6 	 5 	 NP[nb]/N 	 1 	 company the
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 company posted
+7 	 0 	 (S/S)/NP 	 1 	 posted For
+7 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 posted to
+7 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 posted from
+10 	 9 	 (N/N)/(N/N) 	 2 	 % 14
+11 	 7 	 (S[dcl]\NP)/NP 	 2 	 rise posted
+11 	 8 	 NP[nb]/N 	 1 	 rise a
+11 	 10 	 N/N 	 1 	 rise %
+11 	 12 	 (NP\NP)/NP 	 1 	 rise in
+13 	 12 	 (NP\NP)/NP 	 2 	 profit in
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 469.8
+20 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+20 	 22 	 (NP\NP)/N 	 1 	 $ a
+21 	 20 	 N/N[num] 	 1 	 2.21 $
+23 	 22 	 (NP\NP)/N 	 2 	 share a
+26 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+28 	 26 	 N/N[num] 	 1 	 million $
+28 	 27 	 N/N 	 1 	 million 410.3
+31 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+31 	 33 	 (NP\NP)/N 	 1 	 $ a
+32 	 31 	 N/N[num] 	 1 	 1.95 $
+34 	 33 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_2039.5"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Sales rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 9
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 7.54
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 6.95
+<\s>
+<s id="wsj_2039.6"> 43
+0 	 1 	 (NP\NP)/NP 	 1 	 Results for
+0 	 9 	 (S[dcl]\NP)/NP 	 1 	 Results include
+8 	 1 	 (NP\NP)/NP 	 2 	 months for
+8 	 2 	 NP[nb]/N 	 1 	 months the
+8 	 3 	 N/N 	 1 	 months 1989
+8 	 4 	 N/N 	 1 	 months third
+8 	 5 	 N/N 	 1 	 months quarter
+8 	 7 	 N/N 	 1 	 months nine
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 loss include
+12 	 10 	 NP[nb]/N 	 1 	 loss a
+12 	 11 	 N/N 	 1 	 loss pretax
+12 	 13 	 (NP\NP)/NP 	 1 	 loss of
+12 	 17 	 (NP\NP)/NP 	 1 	 loss from
+14 	 13 	 (NP\NP)/NP 	 2 	 $ of
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 33
+19 	 18 	 NP[nb]/N 	 1 	 company the
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 company 's
+22 	 17 	 (NP\NP)/NP 	 2 	 improvement from
+22 	 20 	 (NP[nb]/N)\NP 	 1 	 improvement 's
+22 	 21 	 N/N 	 1 	 improvement business
+25 	 17 	 (NP\NP)/NP 	 2 	 program from
+25 	 20 	 (NP[nb]/N)\NP 	 1 	 program 's
+25 	 21 	 N/N 	 1 	 program business
+25 	 24 	 N/N 	 1 	 program refocusing
+29 	 9 	 (S[dcl]\NP)/NP 	 2 	 gain include
+29 	 28 	 NP[nb]/N 	 1 	 gain a
+29 	 30 	 (NP\NP)/NP 	 1 	 gain of
+29 	 34 	 (NP\NP)/NP 	 1 	 gain on
+31 	 30 	 (NP\NP)/NP 	 2 	 $ of
+33 	 31 	 N/N[num] 	 1 	 million $
+33 	 32 	 N/N 	 1 	 million 49
+36 	 34 	 (NP\NP)/NP 	 2 	 sale on
+36 	 35 	 NP[nb]/N 	 1 	 sale the
+36 	 37 	 (NP\NP)/NP 	 1 	 sale of
+39 	 38 	 NP[nb]/N 	 1 	 subsidiary a
+39 	 40 	 (NP[nb]/N)\NP 	 2 	 subsidiary 's
+42 	 37 	 (NP\NP)/NP 	 2 	 stock of
+42 	 40 	 (NP[nb]/N)\NP 	 1 	 stock 's
+42 	 41 	 N/N 	 1 	 stock common
+<\s>
+<s id="wsj_2039.7"> 25
+1 	 0 	 N/N 	 1 	 operations Forest-products
+1 	 2 	 S[dcl]\NP 	 1 	 operations strengthened
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 strengthened in
+2 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 strengthened while
+6 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+6 	 4 	 NP[nb]/N 	 1 	 quarter the
+6 	 5 	 N/N 	 1 	 quarter third
+10 	 9 	 N/N 	 1 	 operations paper
+10 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 operations were
+10 	 12 	 S[pss]\NP 	 1 	 operations dogged <XB>
+11 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 were while
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 dogged were
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 dogged by
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 costs by
+15 	 14 	 N/N 	 1 	 costs higher
+19 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 exports by
+19 	 17 	 N/N 	 1 	 exports soft
+19 	 18 	 N/N 	 1 	 exports newsprint
+24 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 yen by
+24 	 21 	 NP[nb]/N 	 1 	 yen a
+24 	 22 	 N/N 	 1 	 yen strong
+24 	 23 	 N/N 	 1 	 yen Japanese
+<\s>
+<s id="wsj_2039.8"> 16
+3 	 0 	 NP[nb]/N 	 1 	 firms Some
+3 	 1 	 N/N 	 1 	 firms competing
+3 	 2 	 N/N 	 1 	 firms forest-products
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 firms have
+3 	 6 	 (S[pt]\NP)/NP 	 1 	 firms reported <XB>
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 have recently
+6 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 reported have
+8 	 6 	 (S[pt]\NP)/NP 	 2 	 results reported
+8 	 7 	 N/N 	 1 	 results improved
+8 	 9 	 S[adj]\NP 	 1 	 results due <XB>
+9 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 due to
+12 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 pulp to
+12 	 11 	 N/N 	 1 	 pulp strong
+15 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 business to
+15 	 11 	 N/N 	 1 	 business strong
+15 	 14 	 N/N 	 1 	 business paper
+<\s>
+<s id="wsj_2039.9"> 35
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Weyerhaeuser 's
+5 	 1 	 (NP[nb]/N)\NP 	 1 	 operations 's
+5 	 2 	 N/N 	 1 	 operations pulp
+5 	 4 	 N/N 	 1 	 operations paper
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 operations were
+5 	 7 	 S[adj]\NP 	 1 	 operations up <XB>
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 were for
+6 	 34 	 (S[dcl]\S[dcl])\NP 	 1 	 were said
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 up were
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 months for
+11 	 9 	 NP[nb]/N 	 1 	 months the
+11 	 10 	 N/N 	 1 	 months nine
+15 	 14 	 N/N 	 1 	 performance full-year
+15 	 16 	 (S[dcl]\NP)/PP 	 1 	 performance depends
+16 	 34 	 (S[dcl]\S[dcl])\NP 	 1 	 depends said
+17 	 16 	 (S[dcl]\NP)/PP 	 2 	 on depends
+19 	 17 	 PP/NP 	 1 	 balance on
+19 	 18 	 NP[nb]/N 	 1 	 balance the
+19 	 20 	 (NP\NP)/NP 	 1 	 balance of
+24 	 20 	 (NP\NP)/NP 	 2 	 costs of
+24 	 21 	 N/N 	 1 	 costs operating
+24 	 23 	 N/N 	 1 	 costs maintenance
+27 	 17 	 PP/NP 	 1 	 pricing on
+27 	 28 	 (NP\NP)/NP 	 1 	 pricing of
+30 	 28 	 (NP\NP)/NP 	 2 	 products of
+30 	 29 	 N/N 	 1 	 products certain
+33 	 32 	 NP[nb]/N 	 1 	 company the
+33 	 34 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>
+<s id="wsj_2039.10"> 27
+0 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 Looking to
+1 	 0 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 ahead Looking
+5 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter to
+5 	 3 	 NP[nb]/N 	 1 	 quarter the
+5 	 4 	 N/N 	 1 	 quarter fourth
+8 	 7 	 NP[nb]/N 	 1 	 company the
+8 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+14 	 10 	 N/N 	 1 	 markets export
+14 	 11 	 N/N 	 1 	 markets log
+14 	 13 	 N/N 	 1 	 markets lumber
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 markets will
+14 	 17 	 S[adj]\NP 	 1 	 markets weak <XB>
+15 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+16 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 be while
+17 	 16 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 weak be
+23 	 20 	 N/N 	 1 	 markets panel
+23 	 22 	 N/N 	 1 	 markets plywood
+23 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 markets will
+23 	 26 	 S[adj]\NP 	 1 	 markets stronger <XB>
+24 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 will while
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+26 	 25 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 stronger be
+<\s>
+<s id="wsj_2039.11"> 14
+0 	 4 	 (S[dcl]\NP)/PP 	 1 	 Pulp depends
+3 	 2 	 N/N 	 1 	 performance paper
+3 	 4 	 (S[dcl]\NP)/PP 	 1 	 performance depends
+4 	 13 	 (S[dcl]\S[dcl])\NP 	 1 	 depends said
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 on depends
+9 	 5 	 PP/NP 	 1 	 variables on
+9 	 6 	 N/N 	 1 	 variables cost
+9 	 8 	 N/N 	 1 	 variables price
+12 	 11 	 NP[nb]/N 	 1 	 company the
+12 	 13 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>

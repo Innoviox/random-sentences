@@ -1,0 +1,45 @@
+<s id="wsj_1807.1"> 15
+2 	 0 	 N/N 	 1 	 Corp. Mellon
+2 	 1 	 N/N 	 1 	 Corp. Bank
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 directors authorized
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 authorized said
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 buy-back authorized
+7 	 6 	 NP[nb]/N 	 1 	 buy-back the
+7 	 8 	 (NP\NP)/NP 	 1 	 buy-back of
+9 	 8 	 (NP\NP)/NP 	 2 	 as of
+10 	 9 	 ((NP[nb]/N)/PP)/(S[adj]\NP) 	 3 	 many as
+11 	 9 	 ((NP[nb]/N)/PP)/(S[adj]\NP) 	 2 	 as as
+12 	 11 	 PP/NP 	 1 	 250,000 as
+14 	 9 	 ((NP[nb]/N)/PP)/(S[adj]\NP) 	 1 	 shares as
+14 	 13 	 N/N 	 1 	 shares common
+<\s>
+<s id="wsj_1807.2"> 19
+3 	 0 	 NP[nb]/N 	 1 	 company The
+3 	 1 	 N/N 	 1 	 company bank
+3 	 2 	 N/N 	 1 	 company holding
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+5 	 6 	 S[pss]\NP 	 1 	 stock repurchased <XB>
+5 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 stock will
+5 	 9 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 stock used <XB>
+5 	 11 	 (S[b]\NP)/NP 	 1 	 stock meet <XB>
+7 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+9 	 8 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+10 	 9 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+12 	 11 	 (S[b]\NP)/NP 	 2 	 requirements meet
+12 	 13 	 (NP\NP)/NP 	 1 	 requirements for
+15 	 14 	 NP[nb]/N 	 1 	 company the
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 company 's
+18 	 13 	 (NP\NP)/NP 	 2 	 plans for
+18 	 16 	 (NP[nb]/N)\NP 	 1 	 plans 's
+18 	 17 	 N/N 	 1 	 plans benefit
+<\s>
+<s id="wsj_1807.3"> 6
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Mellon has
+3 	 2 	 (N/N)/(N/N) 	 2 	 million 36.6
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 shares has
+4 	 3 	 N/N 	 1 	 shares million
+4 	 5 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>

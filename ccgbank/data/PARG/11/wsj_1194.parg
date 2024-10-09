@@ -1,0 +1,163 @@
+<s id="wsj_1194.1"> 32
+3 	 0 	 N/N 	 1 	 Corp. International
+3 	 1 	 N/N 	 1 	 Corp. Business
+3 	 2 	 N/N 	 1 	 Corp. Machines
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Corp. agreed
+3 	 6 	 ((S[b]\NP)/PP)/NP 	 1 	 Corp. acquire <XB>
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+9 	 8 	 (N/N)/(N/N) 	 2 	 % 15
+10 	 6 	 ((S[b]\NP)/PP)/NP 	 3 	 stake acquire
+10 	 7 	 NP[nb]/N 	 1 	 stake a
+10 	 9 	 N/N 	 1 	 stake %
+10 	 11 	 (NP\NP)/NP 	 1 	 stake in
+13 	 11 	 (NP\NP)/NP 	 2 	 Corp. in
+13 	 12 	 N/N 	 1 	 Corp. Paxus
+20 	 11 	 (NP\NP)/NP 	 2 	 concern in
+20 	 15 	 NP[nb]/N 	 1 	 concern an
+20 	 16 	 N/N 	 1 	 concern Australian
+20 	 17 	 N/N 	 1 	 concern computer-software
+20 	 19 	 N/N 	 1 	 concern information-services
+22 	 6 	 ((S[b]\NP)/PP)/NP 	 2 	 for acquire
+24 	 23 	 (N/N)/(N/N) 	 2 	 million 20
+26 	 22 	 PP/NP 	 1 	 dollars for
+26 	 24 	 N/N 	 1 	 dollars million
+26 	 25 	 N/N 	 1 	 dollars Australian
+26 	 27 	 (NP\NP)/NP 	 1 	 dollars -LRB-
+28 	 27 	 (NP\NP)/NP 	 2 	 US$ -LRB-
+30 	 28 	 N/N[num] 	 1 	 million US$
+30 	 29 	 N/N 	 1 	 million 17
+<\s>
+<s id="wsj_1194.2"> 20
+1 	 0 	 NP[nb]/N 	 1 	 investment The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 investment will
+1 	 4 	 S[pss]\NP 	 1 	 investment made <XB>
+2 	 18 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 made be
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 made through
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Ltd. through
+8 	 6 	 N/N 	 1 	 Ltd. IBM
+8 	 7 	 N/N 	 1 	 Ltd. Australia
+11 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 unit through
+11 	 10 	 NP[nb]/N 	 1 	 unit a
+11 	 12 	 (NP\NP)/NP 	 1 	 unit of
+13 	 12 	 (NP\NP)/NP 	 2 	 IBM of
+17 	 15 	 NP[nb]/N 	 1 	 companies the
+17 	 16 	 N/N 	 1 	 companies two
+17 	 18 	 (S[dcl]\S[dcl])\NP 	 2 	 companies said
+18 	 19 	 S\S 	 1 	 said yesterday
+<\s>
+<s id="wsj_1194.3"> 25
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 IBM can
+0 	 2 	 (S[b]\NP)/NP 	 1 	 IBM raise <XB>
+0 	 15 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 IBM agreed <XU>
+0 	 18 	 S[b]\NP 	 1 	 IBM go <XU>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 raise can
+2 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 raise to
+2 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 raise over
+4 	 2 	 (S[b]\NP)/NP 	 2 	 stake raise
+4 	 3 	 NP[nb]/N 	 1 	 stake its
+4 	 5 	 (NP\NP)/NP 	 1 	 stake in
+6 	 5 	 (NP\NP)/NP 	 2 	 Paxus in
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+9 	 8 	 N/N 	 1 	 % 20
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 years over
+12 	 11 	 N/N 	 1 	 years three
+16 	 15 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 to not
+18 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 go to
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 go beyond
+18 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 go in
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 % beyond
+21 	 20 	 N/N 	 1 	 % 20
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 time in
+24 	 23 	 NP[nb]/N 	 1 	 time that
+<\s>
+<s id="wsj_1194.4"> 26
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Paxus said
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 said in
+4 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 statement in
+4 	 3 	 NP[nb]/N 	 1 	 statement a
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 it has
+5 	 21 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it plans <XU>
+5 	 23 	 (S[b]\NP)/NP 	 1 	 it expand <XU>
+6 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+9 	 8 	 (N/N)/(N/N) 	 2 	 developed well
+13 	 6 	 (S[dcl]\NP)/NP 	 2 	 relationships has
+13 	 7 	 N/N 	 1 	 relationships several
+13 	 9 	 N/N 	 1 	 relationships developed
+13 	 10 	 N/N 	 1 	 relationships product
+13 	 12 	 N/N 	 1 	 relationships services
+13 	 14 	 (NP\NP)/NP 	 1 	 relationships with
+18 	 14 	 (NP\NP)/NP 	 2 	 company with
+18 	 15 	 NP[nb]/N 	 1 	 company the
+18 	 16 	 N/N 	 1 	 company U.S.
+18 	 17 	 N/N 	 1 	 company computer
+21 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 plans said
+22 	 21 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 expand to
+25 	 23 	 (S[b]\NP)/NP 	 2 	 links expand
+25 	 24 	 NP[nb]/N 	 1 	 links these
+<\s>
+<s id="wsj_1194.5"> 12
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 company earns
+1 	 9 	 (S[dcl]\NP)/NP 	 1 	 company plans <XU>
+2 	 7 	 (S\NP)\(S\NP) 	 2 	 earns overseas
+4 	 3 	 (NP/NP)/(NP/NP) 	 2 	 half about
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 revenue earns
+6 	 4 	 NP/NP 	 1 	 revenue half
+6 	 5 	 NP[nb]/N 	 1 	 revenue its
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 expansion plans
+11 	 10 	 N/N 	 1 	 expansion further
+<\s>
+<s id="wsj_1194.6"> 24
+2 	 0 	 NP[nb]/N 	 1 	 stake A
+2 	 1 	 N/N 	 1 	 stake majority
+2 	 3 	 (NP\NP)/NP 	 1 	 stake in
+2 	 6 	 S[pss]\NP 	 1 	 stake held <XB>
+2 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 stake will
+2 	 12 	 (S[pss]\NP)/PP 	 1 	 stake diluted <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 Paxus in
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 held currently
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 held by
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp. by
+9 	 8 	 N/N 	 1 	 Corp. NZI
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 diluted be
+12 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 diluted after
+13 	 12 	 (S[pss]\NP)/PP 	 2 	 to diluted
+15 	 14 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 less slightly
+15 	 16 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 less than
+17 	 16 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 50 than
+18 	 13 	 PP/NP 	 1 	 % to
+18 	 17 	 N/N 	 1 	 % 50
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 IBM acquires
+21 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 acquires after
+23 	 21 	 (S[dcl]\NP)/NP 	 2 	 interest acquires
+23 	 22 	 NP[nb]/N 	 1 	 interest its
+<\s>
+<s id="wsj_1194.7"> 23
+1 	 0 	 NP[nb]/N 	 1 	 agreement The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 agreement requires
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 approval requires
+3 	 4 	 (NP\NP)/NP 	 1 	 approval from
+3 	 19 	 (NP\NP)/NP 	 1 	 approval from <XU>
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Australia 's
+10 	 4 	 (NP\NP)/NP 	 2 	 Board from
+10 	 6 	 (NP[nb]/N)\NP 	 1 	 Board 's
+10 	 7 	 N/N 	 1 	 Board Foreign
+10 	 8 	 N/N 	 1 	 Board Investment
+10 	 9 	 N/N 	 1 	 Board Review
+13 	 4 	 (NP\NP)/NP 	 2 	 Companies from
+13 	 6 	 (NP[nb]/N)\NP 	 1 	 Companies 's
+13 	 12 	 N/N 	 1 	 Companies National
+16 	 4 	 (NP\NP)/NP 	 2 	 Commission from
+16 	 6 	 (NP[nb]/N)\NP 	 1 	 Commission 's
+16 	 12 	 N/N 	 1 	 Commission National
+16 	 15 	 N/N 	 1 	 Commission Securities
+20 	 19 	 (NP\NP)/NP 	 2 	 shareholders from
+20 	 21 	 (NP\NP)/NP 	 1 	 shareholders of
+22 	 21 	 (NP\NP)/NP 	 2 	 Paxus of
+<\s>

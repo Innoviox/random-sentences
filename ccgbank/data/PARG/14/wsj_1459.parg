@@ -1,0 +1,78 @@
+<s id="wsj_1459.1"> 33
+3 	 0 	 NP[nb]/N 	 1 	 company This
+3 	 1 	 N/N 	 1 	 company business
+3 	 2 	 N/N 	 1 	 company trust
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+6 	 5 	 NP[nb]/N 	 1 	 board its
+6 	 7 	 ((S[dcl]\NP)/PP)/NP 	 1 	 board elected
+7 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 elected said
+10 	 7 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Burke elected
+10 	 8 	 N/N 	 1 	 Burke Kieran
+10 	 9 	 N/N 	 1 	 Burke E.
+13 	 7 	 ((S[dcl]\NP)/PP)/NP 	 3 	 consultant elected
+13 	 12 	 NP[nb]/N 	 1 	 consultant a
+13 	 14 	 (NP\NP)/NP 	 1 	 consultant to
+19 	 14 	 (NP\NP)/NP 	 2 	 Inc. to
+19 	 15 	 N/N 	 1 	 Inc. Drexel
+19 	 16 	 N/N 	 1 	 Inc. Burnham
+19 	 17 	 N/N 	 1 	 Inc. Lambert
+19 	 18 	 N/N 	 1 	 Inc. Group
+21 	 7 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as elected
+24 	 21 	 PP/NP 	 1 	 officer as
+24 	 22 	 N/N 	 1 	 officer chief
+24 	 23 	 N/N 	 1 	 officer executive
+28 	 21 	 PP/NP 	 1 	 post as
+28 	 26 	 NP[nb]/N 	 1 	 post a
+28 	 27 	 N/N 	 1 	 post new
+31 	 7 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as elected
+32 	 31 	 PP/NP 	 1 	 president as
+<\s>
+<s id="wsj_1459.2"> 16
+1 	 0 	 N/N 	 1 	 Burke Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Burke succeeds
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 Manley succeeds
+5 	 3 	 N/N 	 1 	 Manley Richard
+5 	 4 	 N/N 	 1 	 Manley D.
+5 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Manley who
+5 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Manley will <XB>
+5 	 9 	 (S[b]\NP)/PP 	 1 	 Manley remain <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will who
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 remain will
+10 	 9 	 (S[b]\NP)/PP 	 2 	 as remain
+12 	 10 	 PP/NP 	 1 	 consultant as
+12 	 11 	 NP[nb]/N 	 1 	 consultant a
+12 	 13 	 (NP\NP)/NP 	 1 	 consultant to
+15 	 13 	 (NP\NP)/NP 	 2 	 company to
+15 	 14 	 NP[nb]/N 	 1 	 company the
+<\s>
+<s id="wsj_1459.3"> 6
+1 	 0 	 NP[nb]/N 	 1 	 men Both
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 men were
+1 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 men unavailable <XB>
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unavailable were
+4 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to unavailable
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+<\s>
+<s id="wsj_1459.4"> 22
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 company named
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 named also
+6 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Gellert named
+6 	 4 	 N/N 	 1 	 Gellert Michael
+6 	 5 	 N/N 	 1 	 Gellert E.
+6 	 16 	 (S[b]\NP)/NP 	 1 	 Gellert fill <XB>
+9 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 director named
+9 	 8 	 NP[nb]/N 	 1 	 director a
+9 	 16 	 (S[b]\NP)/NP 	 1 	 director fill <XB>
+13 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 shareholder named
+13 	 11 	 NP[nb]/N 	 1 	 shareholder a
+13 	 12 	 N/N 	 1 	 shareholder major
+13 	 16 	 (S[b]\NP)/NP 	 1 	 shareholder fill <XB>
+15 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to named
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 fill to
+19 	 16 	 (S[b]\NP)/NP 	 2 	 seat fill
+19 	 17 	 NP[nb]/N 	 1 	 seat the
+19 	 18 	 N/N 	 1 	 seat vacant
+19 	 20 	 (NP\NP)/NP 	 1 	 seat of
+21 	 20 	 (NP\NP)/NP 	 2 	 chairman of
+<\s>

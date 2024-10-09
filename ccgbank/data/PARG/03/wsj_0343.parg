@@ -1,0 +1,489 @@
+<s id="wsj_0343.1"> 39
+1 	 0 	 N/N 	 1 	 leaders Senate
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 leaders traded
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 proposals traded
+3 	 4 	 (S[pss]\NP)/PP 	 1 	 proposals aimed <XB>
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 at aimed
+6 	 5 	 PP/(S[ng]\NP) 	 1 	 speeding at
+7 	 6 	 (S[ng]\NP)/NP 	 2 	 action speeding
+7 	 8 	 (NP\NP)/NP 	 1 	 action on
+9 	 8 	 (NP\NP)/NP 	 2 	 legislation on
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 narrow to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 deficit narrow
+13 	 12 	 NP[nb]/N 	 1 	 deficit the
+15 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 raise to
+18 	 16 	 NP[nb]/N 	 1 	 government the
+18 	 17 	 N/N 	 1 	 government federal
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 government 's
+21 	 15 	 (S[b]\NP)/NP 	 2 	 limit raise
+21 	 19 	 (NP[nb]/N)\NP 	 1 	 limit 's
+21 	 20 	 N/N 	 1 	 limit debt
+27 	 24 	 NP[nb]/N 	 1 	 block the
+27 	 25 	 N/N 	 1 	 block major
+27 	 26 	 N/N 	 1 	 block stumbling
+27 	 28 	 (S[dcl]\NP)/NP 	 1 	 block remains
+30 	 29 	 N/N 	 1 	 Bush President
+30 	 31 	 (NP[nb]/N)\NP 	 2 	 Bush 's
+32 	 28 	 (S[dcl]\NP)/NP 	 2 	 proposal remains
+32 	 31 	 (NP[nb]/N)\NP 	 1 	 proposal 's
+32 	 34 	 (S[b]\NP)/NP 	 1 	 proposal cut <XB>
+34 	 33 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cut to
+38 	 34 	 (S[b]\NP)/NP 	 2 	 rate cut
+38 	 35 	 NP[nb]/N 	 1 	 rate the
+38 	 36 	 N/N 	 1 	 rate capital-gains
+38 	 37 	 N/N 	 1 	 rate tax
+<\s>
+<s id="wsj_0343.2"> 17
+0 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Democrats want
+4 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 provision want
+4 	 2 	 NP[nb]/N 	 1 	 provision the
+4 	 3 	 N/N 	 1 	 provision tax
+4 	 6 	 (S[b]\NP)/NP 	 1 	 provision be <XB>
+5 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to want
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+9 	 6 	 (S[b]\NP)/NP 	 2 	 bill be
+9 	 7 	 NP[nb]/N 	 1 	 bill a
+9 	 8 	 N/N 	 1 	 bill separate
+9 	 11 	 S[adj]\NP 	 1 	 bill subject <XB>
+11 	 12 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 subject to
+16 	 12 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 obstacles to
+16 	 13 	 NP[nb]/N 	 1 	 obstacles the
+16 	 14 	 N/N 	 1 	 obstacles usual
+16 	 15 	 N/N 	 1 	 obstacles procedural
+<\s>
+<s id="wsj_0343.3"> 26
+0 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Republicans want
+0 	 6 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Republicans try <XB>
+0 	 8 	 (S[b]\NP)/NP 	 1 	 Republicans protect <XB>
+0 	 12 	 ((S[ng]\NP)/PP)/NP 	 1 	 Republicans combining <XB>
+4 	 2 	 (S\NP)/(S\NP) 	 2 	 want meanwhile
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to want
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 try to
+7 	 6 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to try
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 protect to
+8 	 11 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 protect by
+10 	 8 	 (S[b]\NP)/NP 	 2 	 measure protect
+10 	 9 	 NP[nb]/N 	 1 	 measure the
+12 	 11 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 combining by
+13 	 12 	 ((S[ng]\NP)/PP)/NP 	 3 	 it combining
+14 	 12 	 ((S[ng]\NP)/PP)/NP 	 2 	 with combining
+18 	 14 	 PP/NP 	 1 	 issues with <XB>
+18 	 15 	 N/N 	 1 	 issues two
+18 	 16 	 N/N 	 1 	 issues politically
+18 	 17 	 N/N 	 1 	 issues popular
+18 	 19 	 (NP\NP)/(S[dcl]/NP) 	 1 	 issues that <XU>
+18 	 22 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 issues find <XU>
+18 	 23 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 1 	 issues hard <XU>
+18 	 25 	 (S[b]\NP)/NP 	 2 	 issues block <XU>
+20 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Democrats could
+20 	 22 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 Democrats find <XB>
+21 	 19 	 (NP\NP)/(S[dcl]/NP) 	 2 	 could that
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 find could
+23 	 22 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 hard find
+24 	 23 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 2 	 to hard
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 block to
+<\s>
+<s id="wsj_0343.4"> 26
+1 	 0 	 NP[nb]/N 	 1 	 talks The
+1 	 2 	 (NP\NP)/NP 	 1 	 talks between
+1 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 talks are
+1 	 22 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 talks expected <XB>
+1 	 24 	 S[b]\NP 	 1 	 talks resume <XB>
+7 	 2 	 (NP\NP)/NP 	 2 	 Mitchell between
+7 	 3 	 N/N 	 1 	 Mitchell Senate
+7 	 4 	 N/N 	 1 	 Mitchell Majority
+7 	 5 	 N/N 	 1 	 Mitchell Leader
+7 	 6 	 N/N 	 1 	 Mitchell George
+7 	 8 	 (NP\NP)/NP 	 1 	 Mitchell of
+9 	 8 	 (NP\NP)/NP 	 2 	 Maine of
+13 	 2 	 (NP\NP)/NP 	 2 	 counterpart between
+13 	 11 	 NP[nb]/N 	 1 	 counterpart his
+13 	 12 	 N/N 	 1 	 counterpart GOP
+17 	 2 	 (NP\NP)/NP 	 2 	 Dole between
+17 	 15 	 N/N 	 1 	 Dole Sen.
+17 	 16 	 N/N 	 1 	 Dole Robert
+17 	 18 	 (NP\NP)/NP 	 1 	 Dole of
+19 	 18 	 (NP\NP)/NP 	 2 	 Kansas of
+22 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+23 	 22 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 resume to
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 resume today
+<\s>
+<s id="wsj_0343.5"> 48
+1 	 0 	 (S/S)/(S/S) 	 2 	 night Last
+4 	 3 	 (S/S)/(S[ng]\NP) 	 2 	 meeting after
+4 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 meeting at
+5 	 4 	 (S[ng]\NP)/PP 	 2 	 with meeting
+7 	 5 	 PP/NP 	 1 	 Bush with
+7 	 6 	 N/N 	 1 	 Bush Mr.
+10 	 5 	 PP/NP 	 1 	 officials with
+10 	 9 	 N/N 	 1 	 officials administration
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 House at
+14 	 12 	 NP[nb]/N 	 1 	 House the
+14 	 13 	 N/N 	 1 	 House White
+17 	 16 	 N/N 	 1 	 Dole Mr.
+17 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Dole proposed
+17 	 19 	 (S[ng]\NP)/NP 	 1 	 Dole streamlining <XB>
+17 	 35 	 (S[ng]\NP)/NP 	 1 	 Dole passing <XU>
+18 	 1 	 S/S 	 1 	 proposed night
+18 	 3 	 (S/S)/(S[ng]\NP) 	 1 	 proposed after
+19 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 streamlining proposed
+24 	 19 	 (S[ng]\NP)/NP 	 2 	 bill streamlining
+24 	 20 	 NP[nb]/N 	 1 	 bill the
+24 	 21 	 N/N 	 1 	 bill fiscal
+24 	 22 	 N/N 	 1 	 bill 1990
+24 	 23 	 N/N 	 1 	 bill deficit-reduction
+24 	 27 	 S[adj]\NP 	 1 	 bill stalled <XB>
+27 	 26 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 stalled now
+27 	 28 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 stalled in
+32 	 28 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 committee in
+32 	 29 	 NP[nb]/N 	 1 	 committee a
+32 	 30 	 N/N 	 1 	 committee House-Senate
+32 	 31 	 N/N 	 1 	 committee conference
+35 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 passing proposed
+35 	 44 	 ((S\NP)\(S\NP))/NP 	 2 	 passing without
+38 	 35 	 (S[ng]\NP)/NP 	 2 	 extension passing
+38 	 36 	 NP[nb]/N 	 1 	 extension a
+38 	 37 	 N/N 	 1 	 extension long-term
+38 	 39 	 (NP\NP)/NP 	 1 	 extension of
+43 	 39 	 (NP\NP)/NP 	 2 	 ceiling of
+43 	 40 	 NP[nb]/N 	 1 	 ceiling the
+43 	 41 	 N/N 	 1 	 ceiling federal
+43 	 42 	 N/N 	 1 	 ceiling debt
+47 	 44 	 ((S\NP)\(S\NP))/NP 	 3 	 amendments without
+47 	 45 	 NP[nb]/N 	 1 	 amendments any
+47 	 46 	 N/N 	 1 	 amendments accompanying
+<\s>
+<s id="wsj_0343.6"> 44
+2 	 0 	 (S/S)/NP 	 2 	 plan Under
+2 	 1 	 NP[nb]/N 	 1 	 plan this
+5 	 4 	 N/N 	 1 	 provisions two
+5 	 7 	 (NP\NP)/NP 	 1 	 provisions in
+5 	 15 	 (NP\NP)/NP 	 1 	 provisions --
+5 	 37 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 provisions would
+5 	 39 	 (S[pss]\NP)/PP 	 1 	 provisions made <XB>
+7 	 6 	 (NP\NP)/(NP\NP) 	 2 	 in currently
+10 	 7 	 (NP\NP)/NP 	 2 	 version in
+10 	 8 	 NP[nb]/N 	 1 	 version the
+10 	 9 	 N/N 	 1 	 version House
+10 	 11 	 (NP\NP)/NP 	 1 	 version of
+14 	 11 	 (NP\NP)/NP 	 2 	 bill of
+14 	 12 	 NP[nb]/N 	 1 	 bill the
+14 	 13 	 N/N 	 1 	 bill deficit-cutting
+16 	 15 	 (NP\NP)/NP 	 2 	 repeal --
+16 	 17 	 (NP\NP)/NP 	 1 	 repeal of
+22 	 17 	 (NP\NP)/NP 	 2 	 program of
+22 	 18 	 NP/NP 	 1 	 program both
+22 	 19 	 NP[nb]/N 	 1 	 program the
+22 	 20 	 N/N 	 1 	 program catastrophic-illness
+22 	 21 	 N/N 	 1 	 program insurance
+28 	 17 	 (NP\NP)/NP 	 2 	 provision of
+28 	 18 	 NP/NP 	 1 	 provision both
+28 	 24 	 NP[nb]/N 	 1 	 provision a
+28 	 25 	 N/N 	 1 	 provision controversial
+28 	 26 	 N/N 	 1 	 provision 1986
+28 	 27 	 N/N 	 1 	 provision tax
+28 	 29 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 provision intended <XB>
+28 	 31 	 (S[b]\NP)/NP 	 1 	 provision counter <XB>
+30 	 29 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to intended
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 counter to
+32 	 31 	 (S[b]\NP)/NP 	 2 	 discrimination counter
+32 	 33 	 (NP\NP)/NP 	 1 	 discrimination in
+35 	 33 	 (NP\NP)/NP 	 2 	 plans in
+35 	 34 	 N/N 	 1 	 plans employee-benefit
+37 	 0 	 (S/S)/NP 	 1 	 would Under
+38 	 37 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+39 	 38 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 made be
+40 	 39 	 (S[pss]\NP)/PP 	 2 	 into made
+43 	 40 	 PP/NP 	 1 	 bill into
+43 	 41 	 NP[nb]/N 	 1 	 bill a
+43 	 42 	 N/N 	 1 	 bill separate
+<\s>
+<s id="wsj_0343.7"> 27
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Republicans would
+0 	 2 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Republicans try <XB>
+0 	 4 	 ((S[b]\NP)/PP)/NP 	 1 	 Republicans attach <XB>
+0 	 12 	 (S[ng]\NP)/S[dcl] 	 1 	 Republicans hoping <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 try would
+3 	 2 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to try
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 attach to
+7 	 4 	 ((S[b]\NP)/PP)/NP 	 3 	 provision attach
+7 	 5 	 NP[nb]/N 	 1 	 provision a
+7 	 6 	 N/N 	 1 	 provision capital-gains
+8 	 4 	 ((S[b]\NP)/PP)/NP 	 2 	 to attach
+10 	 8 	 PP/NP 	 1 	 legislation to
+10 	 9 	 NP[nb]/N 	 1 	 legislation that
+15 	 13 	 NP[nb]/N 	 1 	 popularity the
+15 	 14 	 N/N 	 1 	 popularity political
+15 	 16 	 (NP\NP)/NP 	 1 	 popularity of
+15 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 popularity would
+15 	 22 	 ((S[b]\NP)/PP)/NP 	 1 	 popularity dissuade <XB>
+20 	 16 	 (NP\NP)/NP 	 2 	 parts of
+20 	 17 	 NP[nb]/N 	 1 	 parts its
+20 	 18 	 N/N 	 1 	 parts other
+20 	 19 	 N/N 	 1 	 parts two
+21 	 12 	 (S[ng]\NP)/S[dcl] 	 2 	 would hoping
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 dissuade would
+23 	 22 	 ((S[b]\NP)/PP)/NP 	 3 	 Democrats dissuade
+24 	 22 	 ((S[b]\NP)/PP)/NP 	 2 	 from dissuade
+25 	 24 	 PP/(S[ng]\NP) 	 1 	 blocking from
+26 	 25 	 (S[ng]\NP)/NP 	 2 	 it blocking
+<\s>
+<s id="wsj_0343.8"> 18
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Democrats want
+0 	 3 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 Democrats avoid <XB>
+0 	 4 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Democrats having <XB>
+0 	 6 	 (S[b]\NP)/NP 	 1 	 Democrats make <XB>
+0 	 10 	 ((S[ng]\NP)/NP)/NP 	 1 	 Democrats making <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to want
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 avoid to
+3 	 9 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 avoid by
+4 	 3 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 having avoid
+5 	 4 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to having
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 choice make
+8 	 7 	 NP[nb]/N 	 1 	 choice that
+10 	 9 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 making by
+14 	 10 	 ((S[ng]\NP)/NP)/NP 	 3 	 cut making
+14 	 11 	 NP[nb]/N 	 1 	 cut the
+14 	 12 	 N/N 	 1 	 cut capital-gains
+14 	 13 	 N/N 	 1 	 cut tax
+17 	 10 	 ((S[ng]\NP)/NP)/NP 	 2 	 bill making
+17 	 15 	 NP[nb]/N 	 1 	 bill an
+17 	 16 	 N/N 	 1 	 bill individual
+<\s>
+<s id="wsj_0343.9"> 16
+1 	 0 	 N/N 	 1 	 Mitchell Sen.
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Mitchell is
+1 	 3 	 (S[adj]\NP)/S[dcl] 	 1 	 Mitchell confident <XB>
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 confident is
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 he has
+5 	 3 	 (S[adj]\NP)/S[dcl] 	 2 	 has confident
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 votes has
+7 	 6 	 N/N 	 1 	 votes sufficient
+7 	 9 	 (S[b]\NP)/NP 	 1 	 votes block <XB>
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 block to
+9 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 block with
+12 	 9 	 (S[b]\NP)/NP 	 2 	 measure block
+12 	 10 	 NP/NP 	 1 	 measure such
+12 	 11 	 NP[nb]/N 	 1 	 measure a
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 actions with
+15 	 14 	 N/N 	 1 	 actions procedural
+<\s>
+<s id="wsj_0343.10"> 22
+1 	 0 	 NP[nb]/N 	 1 	 plans Both
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plans would
+1 	 3 	 ((S[b]\NP)/PP)/NP 	 1 	 plans drop <XB>
+1 	 15 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 plans let <XU>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 drop would
+5 	 3 	 ((S[b]\NP)/PP)/NP 	 3 	 provisions drop
+5 	 4 	 N/N 	 1 	 provisions child-care
+6 	 3 	 ((S[b]\NP)/PP)/NP 	 2 	 from drop
+9 	 6 	 PP/NP 	 1 	 version from
+9 	 7 	 NP[nb]/N 	 1 	 version the
+9 	 8 	 N/N 	 1 	 version House
+9 	 10 	 (NP\NP)/NP 	 1 	 version of
+13 	 10 	 (NP\NP)/NP 	 2 	 legislation of
+13 	 11 	 NP[nb]/N 	 1 	 legislation the
+13 	 12 	 N/N 	 1 	 legislation deficit-reduction
+15 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 let would
+16 	 15 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 it let
+16 	 17 	 S[b]\NP 	 1 	 it progress <XB>
+17 	 15 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 progress let
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 progress as
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 bill as
+21 	 19 	 NP[nb]/N 	 1 	 bill a
+21 	 20 	 N/N 	 1 	 bill separate
+<\s>
+<s id="wsj_0343.11"> 32
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 that could
+1 	 3 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 that make <XB>
+2 	 0 	 (S/S)/S[dcl] 	 2 	 could While
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make could
+4 	 3 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 it make
+4 	 5 	 (S[adj]\NP)/PP 	 1 	 it vulnerable <XB>
+5 	 3 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 vulnerable make
+6 	 5 	 (S[adj]\NP)/PP 	 2 	 to vulnerable
+8 	 6 	 PP/NP 	 1 	 veto to
+8 	 7 	 NP[nb]/N 	 1 	 veto a
+8 	 9 	 (NP\NP)/NP 	 1 	 veto by
+11 	 9 	 (NP\NP)/NP 	 2 	 Bush by
+11 	 10 	 N/N 	 1 	 Bush Mr.
+13 	 14 	 (S[dcl]\NP)/S[em] 	 1 	 Democrats argue
+14 	 0 	 (S/S)/S[dcl] 	 1 	 argue While
+15 	 14 	 (S[dcl]\NP)/S[em] 	 2 	 that argue
+18 	 16 	 NP[nb]/N 	 1 	 rejection a
+18 	 17 	 N/N 	 1 	 rejection presidential
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rejection would
+18 	 20 	 ((S[b]\NP)/NP)/NP 	 1 	 rejection give <XB>
+19 	 15 	 S[em]/S[dcl] 	 1 	 would that
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give would
+22 	 20 	 ((S[b]\NP)/NP)/NP 	 3 	 party give
+22 	 21 	 NP[nb]/N 	 1 	 party their
+25 	 20 	 ((S[b]\NP)/NP)/NP 	 2 	 issue give
+25 	 23 	 NP[nb]/N 	 1 	 issue a
+25 	 24 	 N/N 	 1 	 issue valuable
+25 	 26 	 (NP\NP)/NP 	 1 	 issue in
+28 	 27 	 N/N 	 1 	 year next
+28 	 29 	 (NP[nb]/N)\NP 	 2 	 year 's
+31 	 26 	 (NP\NP)/NP 	 2 	 elections in
+31 	 29 	 (NP[nb]/N)\NP 	 1 	 elections 's
+31 	 30 	 N/N 	 1 	 elections congressional
+<\s>
+<s id="wsj_0343.12"> 11
+1 	 0 	 N/N 	 1 	 Democrats Senate
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Democrats are
+1 	 4 	 S[b]\NP 	 1 	 Democrats meet <XB>
+1 	 7 	 (S[b]\NP)/NP 	 1 	 Democrats consider <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to are
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 meet today
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 consider to
+10 	 7 	 (S[b]\NP)/NP 	 2 	 proposal consider
+10 	 8 	 NP[nb]/N 	 1 	 proposal the
+10 	 9 	 N/N 	 1 	 proposal GOP
+<\s>
+<s id="wsj_0343.13"> 27
+3 	 2 	 N/N 	 1 	 Dole Mr.
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Dole seemed
+3 	 5 	 (S[adj]\NP)/PP 	 1 	 Dole weary <XB>
+4 	 0 	 S/S 	 1 	 seemed Yesterday
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 weary seemed
+6 	 5 	 (S[adj]\NP)/PP 	 2 	 of weary
+9 	 7 	 NP[nb]/N 	 1 	 administration the
+9 	 8 	 N/N 	 1 	 administration Bush
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 administration 's
+11 	 6 	 PP/NP 	 1 	 strategy of
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 strategy 's
+11 	 12 	 (NP\NP)/(S[ng]\NP) 	 1 	 strategy of
+13 	 12 	 (NP\NP)/(S[ng]\NP) 	 2 	 pushing of
+13 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 pushing at
+16 	 13 	 ((S[ng]\NP)/PP)/NP 	 3 	 measure pushing
+16 	 14 	 NP[nb]/N 	 1 	 measure the
+16 	 15 	 N/N 	 1 	 measure capital-gains
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 chance at
+19 	 18 	 NP[nb]/N 	 1 	 chance every
+20 	 13 	 ((S[ng]\NP)/PP)/NP 	 2 	 in pushing
+22 	 20 	 PP/NP 	 1 	 face in
+22 	 21 	 NP[nb]/N 	 1 	 face the
+22 	 23 	 (NP\NP)/NP 	 1 	 face of
+26 	 23 	 (NP\NP)/NP 	 2 	 hurdles of
+26 	 24 	 N/N 	 1 	 hurdles Democratic
+26 	 25 	 N/N 	 1 	 hurdles procedural
+<\s>
+<s id="wsj_0343.14"> 28
+0 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Pushing does
+0 	 20 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Pushing seem <XB>
+0 	 22 	 (S[b]\NP)/NP 	 1 	 Pushing be <XB>
+2 	 0 	 (S[ng]\NP)/NP 	 2 	 issue Pushing
+2 	 1 	 NP[nb]/N 	 1 	 issue the
+2 	 3 	 (NP\NP)/NP 	 1 	 issue on
+4 	 3 	 (NP\NP)/NP 	 2 	 legislation on
+4 	 5 	 S[pss]\NP 	 1 	 legislation needed <XB>
+4 	 7 	 (S[b]\NP)/NP 	 1 	 legislation avoid <XB>
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 avoid to
+8 	 7 	 (S[b]\NP)/NP 	 2 	 default avoid
+8 	 9 	 (NP\NP)/NP 	 1 	 default by
+12 	 9 	 (NP\NP)/NP 	 2 	 government by
+12 	 10 	 NP[nb]/N 	 1 	 government the
+12 	 11 	 N/N 	 1 	 government federal
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 he told
+16 	 15 	 (S[dcl]\NP)/NP 	 2 	 reporters told
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 does n't
+20 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seem does
+20 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 seem to
+21 	 20 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to seem
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+25 	 22 	 (S[b]\NP)/NP 	 2 	 strategy be
+25 	 23 	 N/N 	 1 	 strategy very
+25 	 24 	 N/N 	 1 	 strategy good
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 me to
+<\s>
+<s id="wsj_0343.15"> 17
+2 	 0 	 (S/S)/NP 	 2 	 a.m. At
+2 	 1 	 N/N 	 1 	 a.m. 12:01
+2 	 3 	 N\N 	 1 	 a.m. EST
+2 	 4 	 NP\NP 	 1 	 a.m. today
+8 	 6 	 NP[nb]/N 	 1 	 government the
+8 	 7 	 N/N 	 1 	 government federal
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 government 's
+13 	 11 	 (N/N)/N[num] 	 2 	 trillion $
+13 	 12 	 N/N 	 1 	 trillion 2.87
+15 	 9 	 (NP[nb]/N)\NP 	 1 	 limit 's
+15 	 10 	 N/N 	 1 	 limit temporary
+15 	 11 	 (N/N)/N[num] 	 1 	 limit $
+15 	 14 	 N/N 	 1 	 limit debt
+15 	 16 	 S[dcl]\NP 	 1 	 limit expired
+16 	 0 	 (S/S)/NP 	 1 	 expired At
+<\s>
+<s id="wsj_0343.16"> 27
+1 	 0 	 (S[to]\NP)/(S[b]\NP) 	 2 	 avoid To
+2 	 1 	 (S[b]\NP)/NP 	 2 	 default avoid
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 lawmakers must
+4 	 6 	 (S[b]\NP)/NP 	 1 	 lawmakers pass <XB>
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 pass must
+6 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 pass by
+6 	 23 	 ((S\NP)\(S\NP))/PP 	 2 	 pass according
+7 	 6 	 (S[b]\NP)/NP 	 2 	 legislation pass
+7 	 8 	 (S[ng]\NP)/NP 	 1 	 legislation raising <XB>
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 raising to
+8 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 raising from
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 limit raising
+10 	 9 	 NP[nb]/N 	 1 	 limit the
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+14 	 12 	 N/N[num] 	 1 	 trillion $
+14 	 13 	 N/N 	 1 	 trillion 3.12
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+18 	 16 	 N/N[num] 	 1 	 trillion $
+18 	 17 	 N/N 	 1 	 trillion 2.80
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 Wednesday by
+21 	 20 	 N/N 	 1 	 Wednesday next
+24 	 23 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+26 	 24 	 PP/NP 	 1 	 Treasury to
+26 	 25 	 NP[nb]/N 	 1 	 Treasury the
+<\s>
+<s id="wsj_0343.17"> 46
+0 	 1 	 ((S\NP)\(S\NP))/NP 	 2 	 Pressed by
+4 	 1 	 ((S\NP)\(S\NP))/NP 	 3 	 Rostenkowski by
+4 	 2 	 N/N 	 1 	 Rostenkowski Chairman
+4 	 3 	 N/N 	 1 	 Rostenkowski Dan
+4 	 5 	 (NP\NP)/NP 	 1 	 Rostenkowski -LRB-
+4 	 11 	 (NP\NP)/NP 	 1 	 Rostenkowski of
+6 	 5 	 (NP\NP)/NP 	 2 	 D. -LRB-
+8 	 5 	 (NP\NP)/NP 	 2 	 Ill -LRB-
+14 	 11 	 (NP\NP)/NP 	 2 	 Ways of
+14 	 12 	 NP[nb]/N 	 1 	 Ways the
+14 	 13 	 N/N 	 1 	 Ways House
+17 	 11 	 (NP\NP)/NP 	 2 	 Committee of
+17 	 12 	 NP[nb]/N 	 1 	 Committee the
+17 	 13 	 N/N 	 1 	 Committee House
+17 	 16 	 N/N 	 1 	 Committee Means
+22 	 19 	 N/N 	 1 	 Glauber Treasury
+22 	 20 	 N/N 	 1 	 Glauber Undersecretary
+22 	 21 	 N/N 	 1 	 Glauber Robert
+22 	 23 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 Glauber told
+26 	 23 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 hearing told
+26 	 24 	 NP[nb]/N 	 1 	 hearing a
+26 	 25 	 N/N 	 1 	 hearing congressional
+27 	 23 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that told
+29 	 28 	 NP[nb]/N 	 1 	 administration the
+29 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 administration would
+29 	 31 	 (S[b]\NP)/NP 	 1 	 administration give <XB>
+29 	 41 	 (S[pss]\NP)/PP 	 1 	 administration faced <XB>
+30 	 27 	 S[em]/S[dcl] 	 1 	 would that
+31 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give would
+31 	 32 	 (S\NP)\(S\NP) 	 2 	 give up
+31 	 40 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 2 	 give if
+34 	 31 	 (S[b]\NP)/NP 	 2 	 demand give
+34 	 33 	 NP[nb]/N 	 1 	 demand its
+34 	 35 	 (NP\NP)/NP 	 1 	 demand for
+39 	 35 	 (NP\NP)/NP 	 2 	 cut for
+39 	 36 	 NP[nb]/N 	 1 	 cut the
+39 	 37 	 N/N 	 1 	 cut capital-gains
+39 	 38 	 N/N 	 1 	 cut tax
+41 	 40 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 3 	 faced if
+42 	 41 	 (S[pss]\NP)/PP 	 2 	 with faced
+45 	 42 	 PP/NP 	 1 	 default with
+45 	 43 	 NP[nb]/N 	 1 	 default a
+45 	 44 	 N/N 	 1 	 default potential
+<\s>

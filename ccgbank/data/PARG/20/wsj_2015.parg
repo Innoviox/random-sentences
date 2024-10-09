@@ -1,0 +1,412 @@
+<s id="wsj_2015.1"> 19
+1 	 0 	 N/N 	 1 	 production Industrial
+1 	 2 	 S[dcl]\NP 	 1 	 production declined
+1 	 8 	 (S[ng]\NP)/NP 	 1 	 production reinforcing <XB>
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 declined %
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 declined in
+4 	 3 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 0.1
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 signs reinforcing
+10 	 9 	 N/N 	 1 	 signs other
+11 	 10 	 N/S[em] 	 1 	 that signs
+14 	 12 	 NP[nb]/N 	 1 	 sector the
+14 	 13 	 N/N 	 1 	 sector manufacturing
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 sector continues
+15 	 11 	 S[em]/S[dcl] 	 1 	 continues that
+18 	 15 	 (S[dcl]\NP)/NP 	 2 	 trend continues
+18 	 16 	 NP[nb]/N 	 1 	 trend its
+18 	 17 	 N/N 	 1 	 trend slowing
+<\s>
+<s id="wsj_2015.2"> 40
+3 	 0 	 NP[nb]/N 	 1 	 Board The
+3 	 1 	 N/N 	 1 	 Board Federal
+3 	 2 	 N/N 	 1 	 Board Reserve
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Board said
+5 	 6 	 (NP\NP)/NP 	 1 	 output of
+5 	 15 	 S[dcl]\NP 	 1 	 output expanded
+8 	 7 	 NP[nb]/N 	 1 	 nation the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 nation 's
+10 	 6 	 (NP\NP)/NP 	 2 	 factories of
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 factories 's
+12 	 6 	 (NP\NP)/NP 	 2 	 mines of
+12 	 9 	 (NP[nb]/N)\NP 	 1 	 mines 's
+14 	 6 	 (NP\NP)/NP 	 2 	 utilities of
+14 	 9 	 (NP[nb]/N)\NP 	 1 	 utilities 's
+15 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 expanded said
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 expanded at
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 rate at
+19 	 17 	 NP[nb]/N 	 1 	 rate an
+19 	 18 	 N/N 	 1 	 rate annual
+19 	 20 	 (NP\NP)/NP 	 1 	 rate of
+19 	 23 	 (NP\NP)/NP 	 1 	 rate in
+19 	 29 	 S[adj]\NP 	 1 	 rate slower <XB>
+22 	 20 	 (NP\NP)/NP 	 2 	 % of
+22 	 21 	 N/N 	 1 	 % 1.3
+26 	 23 	 (NP\NP)/NP 	 2 	 quarter in
+26 	 24 	 NP[nb]/N 	 1 	 quarter the
+26 	 25 	 N/N 	 1 	 quarter third
+29 	 28 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 slower substantially
+29 	 30 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 slower than
+33 	 32 	 (N/N)/(N/N) 	 2 	 % 3.3
+35 	 30 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 rate than
+35 	 31 	 NP[nb]/N 	 1 	 rate the
+35 	 33 	 N/N 	 1 	 rate %
+35 	 34 	 N/N 	 1 	 rate annual
+35 	 36 	 (NP\NP)/NP 	 1 	 rate in
+39 	 36 	 (NP\NP)/NP 	 2 	 quarter in
+39 	 37 	 NP[nb]/N 	 1 	 quarter the
+39 	 38 	 N/N 	 1 	 quarter second
+<\s>
+<s id="wsj_2015.3"> 39
+1 	 0 	 N/N 	 1 	 spending Capital
+1 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 spending which
+1 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 spending have <XB>
+1 	 7 	 (S[pt]\NP)/NP 	 1 	 spending been <XB>
+1 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 spending are
+1 	 16 	 (S[ng]\NP)/NP 	 1 	 spending showing <XB>
+3 	 0 	 N/N 	 1 	 exports Capital
+3 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 exports which
+3 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 exports have <XB>
+3 	 7 	 (S[pt]\NP)/NP 	 1 	 exports been <XB>
+3 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 exports are
+3 	 16 	 (S[ng]\NP)/NP 	 1 	 exports showing <XB>
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have which
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+10 	 7 	 (S[pt]\NP)/NP 	 2 	 force been
+10 	 8 	 NP[nb]/N 	 1 	 force the
+10 	 9 	 N/N 	 1 	 force driving
+10 	 11 	 (NP\NP)/NP 	 1 	 force in
+13 	 11 	 (NP\NP)/NP 	 2 	 expansion in
+13 	 12 	 NP[nb]/N 	 1 	 expansion this
+15 	 28 	 (S[dcl]\S[dcl])/NP 	 1 	 are said
+16 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 showing are
+18 	 16 	 (S[ng]\NP)/NP 	 2 	 signs showing
+18 	 17 	 N/N 	 1 	 signs clear
+18 	 19 	 (NP\NP)/(S[ng]\NP) 	 1 	 signs of
+20 	 19 	 (NP\NP)/(S[ng]\NP) 	 2 	 having of
+22 	 20 	 ((S[ng]\NP)/(S[pt]\NP))/NP 	 3 	 steam having
+22 	 21 	 NP[nb]/N 	 1 	 steam the
+22 	 23 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 steam taken <XB>
+22 	 24 	 (S[adj]\NP)/PP 	 1 	 steam out <XB>
+23 	 20 	 ((S[ng]\NP)/(S[pt]\NP))/NP 	 2 	 taken having
+24 	 23 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 out taken
+25 	 24 	 (S[adj]\NP)/PP 	 2 	 of out
+26 	 25 	 PP/NP 	 1 	 them of
+30 	 28 	 (S[dcl]\S[dcl])/NP 	 2 	 Dederick said
+30 	 29 	 N/N 	 1 	 Dederick Robert
+32 	 28 	 (S[dcl]\S[dcl])/NP 	 2 	 economist said
+32 	 33 	 (NP\NP)/NP 	 1 	 economist for
+36 	 33 	 (NP\NP)/NP 	 2 	 Co. for
+36 	 34 	 N/N 	 1 	 Co. Northern
+36 	 35 	 N/N 	 1 	 Co. Trust
+36 	 37 	 (NP\NP)/NP 	 1 	 Co. in
+38 	 37 	 (NP\NP)/NP 	 2 	 Chicago in
+<\s>
+<s id="wsj_2015.4"> 40
+2 	 0 	 NP[nb]/N 	 1 	 reports The
+2 	 1 	 N/N 	 1 	 reports new
+2 	 3 	 (NP\NP)/NP 	 1 	 reports of
+2 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 reports which
+2 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 reports were <XB>
+2 	 8 	 S[pss]\NP 	 1 	 reports foreshadowed <XB>
+2 	 24 	 ((S[dcl]\NP)/NP)/NP 	 1 	 reports give
+4 	 3 	 (NP\NP)/NP 	 2 	 sluggishness of
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 were which
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 foreshadowed were
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 foreshadowed by
+14 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 report by
+14 	 10 	 NP[nb]/N 	 1 	 report an
+14 	 11 	 N/N 	 1 	 report earlier
+14 	 12 	 N/N 	 1 	 report Labor
+14 	 13 	 N/N 	 1 	 report Department
+14 	 15 	 (NP\NP)/S[dcl] 	 1 	 report that
+17 	 16 	 N/N 	 1 	 payrolls manufacturing
+17 	 18 	 S[dcl]\NP 	 1 	 payrolls dropped
+18 	 15 	 (NP\NP)/S[dcl] 	 2 	 dropped that
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped by
+18 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped in
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 105,000 by
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+26 	 24 	 ((S[dcl]\NP)/NP)/NP 	 3 	 Fed give
+26 	 25 	 NP[nb]/N 	 1 	 Fed the
+28 	 24 	 ((S[dcl]\NP)/NP)/NP 	 2 	 reason give
+28 	 27 	 NP[nb]/N 	 1 	 reason another
+28 	 31 	 (S[b]\NP)/NP 	 1 	 reason ease <XB>
+28 	 37 	 (S[b]\NP)/NP 	 1 	 reason lower <XU>
+31 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 ease to
+31 	 30 	 (S\NP)/(S\NP) 	 2 	 ease further
+33 	 31 	 (S[b]\NP)/NP 	 2 	 grip ease
+33 	 32 	 NP[nb]/N 	 1 	 grip its
+33 	 34 	 (NP\NP)/NP 	 1 	 grip on
+35 	 34 	 (NP\NP)/NP 	 2 	 credit on
+37 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lower to
+37 	 30 	 (S\NP)/(S\NP) 	 2 	 lower further
+39 	 37 	 (S[b]\NP)/NP 	 2 	 rates lower
+39 	 38 	 N/N 	 1 	 rates interest
+<\s>
+<s id="wsj_2015.5"> 17
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 They need
+0 	 3 	 (S[b]\NP)/NP 	 1 	 They do <XB>
+1 	 8 	 (S[dcl]\S[dcl])/NP 	 1 	 need said
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to need
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+3 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 do about
+4 	 3 	 (S[b]\NP)/NP 	 2 	 something do
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 this about
+10 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 Harris said
+10 	 9 	 N/N 	 1 	 Harris Maury
+12 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 economist said
+12 	 13 	 (NP\NP)/NP 	 1 	 economist at
+16 	 13 	 (NP\NP)/NP 	 2 	 Inc at
+16 	 14 	 N/N 	 1 	 Inc PaineWebber
+16 	 15 	 N/N 	 1 	 Inc Group
+<\s>
+<s id="wsj_2015.6"> 21
+1 	 0 	 NP[nb]/N 	 1 	 Fed The
+1 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Fed said
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 said also
+5 	 4 	 N/N 	 1 	 industry U.S.
+5 	 6 	 (S[dcl]\NP)/PP 	 1 	 industry operated
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 operated said
+6 	 15 	 ((S\NP)\(S\NP))/PP 	 2 	 operated down
+7 	 6 	 (S[dcl]\NP)/PP 	 2 	 at operated
+7 	 10 	 (PP\PP)/NP 	 1 	 at of
+7 	 13 	 PP\PP 	 1 	 at month
+9 	 7 	 PP/NP 	 1 	 % at
+9 	 8 	 N/N 	 1 	 % 83.6
+11 	 10 	 (PP\PP)/NP 	 2 	 capacity of
+13 	 12 	 (PP\PP)/(PP\PP) 	 2 	 month last
+16 	 15 	 ((S\NP)\(S\NP))/PP 	 3 	 from down
+16 	 19 	 (PP\PP)/NP 	 1 	 from in
+18 	 16 	 PP/NP 	 1 	 % from
+18 	 17 	 N/N 	 1 	 % 83.8
+20 	 19 	 (PP\PP)/NP 	 2 	 August in
+<\s>
+<s id="wsj_2015.7"> 10
+0 	 1 	 (NP\NP)/NP 	 1 	 Measures of
+0 	 4 	 S[dcl]\NP 	 1 	 Measures fell
+3 	 1 	 (NP\NP)/NP 	 2 	 activity of
+3 	 2 	 N/N 	 1 	 activity manufacturing
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 fell more
+5 	 6 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 more than
+9 	 6 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 measures than
+9 	 7 	 NP[nb]/N 	 1 	 measures the
+9 	 8 	 N/N 	 1 	 measures overall
+<\s>
+<s id="wsj_2015.8"> 18
+1 	 0 	 N/N 	 1 	 output Factory
+1 	 2 	 S[dcl]\NP 	 1 	 output dropped
+1 	 13 	 (S[ng]\NP)/(S[pt]\NP) 	 1 	 output having <XB>
+1 	 15 	 S[adj]\NP 	 1 	 output unchanged <XB>
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 dropped %
+2 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 dropped after
+4 	 3 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 0.2
+8 	 6 	 NP[nb]/N 	 1 	 decline its
+8 	 7 	 N/N 	 1 	 decline first
+8 	 9 	 (NP\NP)/NP 	 1 	 decline since
+10 	 9 	 (NP\NP)/NP 	 2 	 February since
+13 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 having after
+14 	 13 	 (S[ng]\NP)/(S[pt]\NP) 	 2 	 been having
+14 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 been in
+15 	 14 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 unchanged been
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 October in
+<\s>
+<s id="wsj_2015.9"> 23
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 Factories operated
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 at operated
+4 	 2 	 PP/NP 	 1 	 % at
+4 	 3 	 N/N 	 1 	 % 83.7
+4 	 5 	 (NP\NP)/NP 	 1 	 % of
+4 	 8 	 (NP\NP)/N 	 1 	 % the
+4 	 17 	 (NP\NP)/PP 	 1 	 % down <XU>
+6 	 5 	 (NP\NP)/NP 	 2 	 capacity of
+8 	 11 	 ((NP\NP)\(NP\NP))/NP 	 2 	 the in
+10 	 8 	 (NP\NP)/N 	 2 	 rate the
+10 	 9 	 N/N 	 1 	 rate lowest
+12 	 13 	 (NP/NP)\(S[adj]\NP) 	 2 	 more than
+15 	 11 	 ((NP\NP)\(NP\NP))/NP 	 3 	 year in
+15 	 13 	 (NP/NP)\(S[adj]\NP) 	 1 	 year than
+15 	 14 	 NP[nb]/N 	 1 	 year a
+18 	 17 	 (NP\NP)/PP 	 2 	 from down
+18 	 21 	 (PP\PP)/NP 	 1 	 from in
+20 	 18 	 PP/NP 	 1 	 % from
+20 	 19 	 N/N 	 1 	 % 84.1
+22 	 21 	 (PP\PP)/NP 	 2 	 September in
+<\s>
+<s id="wsj_2015.10"> 18
+1 	 0 	 NP[nb]/N 	 1 	 declines The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 declines reflected
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 reflected mainly
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 weakness reflected
+5 	 4 	 N/N 	 1 	 weakness widespread
+5 	 6 	 (NP\NP)/NP 	 1 	 weakness in
+8 	 6 	 (NP\NP)/NP 	 2 	 goods in
+8 	 7 	 N/N 	 1 	 goods durable
+10 	 6 	 (NP\NP)/NP 	 2 	 those in
+10 	 11 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 those intended <XB>
+10 	 13 	 S[b]\NP 	 1 	 those last <XB>
+12 	 11 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to intended
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 last to
+13 	 17 	 (S\NP)\(S\NP) 	 2 	 last years
+14 	 15 	 ((((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))))\(S[adj]\NP) 	 5 	 more than
+16 	 15 	 ((((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))))\(S[adj]\NP) 	 4 	 three than
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 years three
+<\s>
+<s id="wsj_2015.11"> 17
+2 	 0 	 NP[nb]/N 	 1 	 drop The
+2 	 1 	 N/N 	 1 	 drop biggest
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 drop was
+2 	 4 	 S[pss]\NP 	 1 	 drop recorded <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 recorded was
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 recorded by
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 producers by
+8 	 6 	 N/N 	 1 	 producers primary
+8 	 7 	 N/N 	 1 	 producers metals
+11 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 category by
+11 	 10 	 NP[nb]/N 	 1 	 category a
+11 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 category that
+11 	 13 	 (S[dcl]\NP)/NP 	 1 	 category includes <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 includes that
+16 	 13 	 (S[dcl]\NP)/NP 	 2 	 industry includes
+16 	 14 	 NP[nb]/N 	 1 	 industry the
+16 	 15 	 N/N 	 1 	 industry steel
+<\s>
+<s id="wsj_2015.12"> 8
+0 	 1 	 (NP\NP)/NP 	 1 	 Output of
+0 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Output was
+0 	 5 	 S[adj]\NP 	 1 	 Output unchanged <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 equipment of
+3 	 2 	 N/N 	 1 	 equipment business
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 was in
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unchanged was
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+<\s>
+<s id="wsj_2015.13"> 19
+0 	 1 	 (NP\NP)/NP 	 1 	 Production of
+0 	 16 	 S[dcl]\NP 	 1 	 Production fell
+3 	 1 	 (NP\NP)/NP 	 2 	 equipment of
+3 	 2 	 N/N 	 1 	 equipment factory
+6 	 5 	 N/N 	 1 	 indication one
+6 	 7 	 (NP\NP)/NP 	 1 	 indication of
+6 	 16 	 S[dcl]\NP 	 1 	 indication fell
+9 	 7 	 (NP\NP)/NP 	 2 	 strength of
+9 	 8 	 NP[nb]/N 	 1 	 strength the
+9 	 10 	 (NP\NP)/NP 	 1 	 strength of
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 manufacturers '
+14 	 10 	 (NP\NP)/NP 	 2 	 spending of
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 spending '
+14 	 13 	 N/N 	 1 	 spending investment
+16 	 18 	 (S\NP)\(S\NP) 	 2 	 fell %
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 0.3
+<\s>
+<s id="wsj_2015.14"> 8
+1 	 0 	 NP[nb]/N 	 1 	 economists Some
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 economists expect
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 declines expect
+4 	 3 	 N/N 	 1 	 declines further
+4 	 5 	 (NP\NP)/NP 	 1 	 declines in
+7 	 5 	 (NP\NP)/NP 	 2 	 spending in
+7 	 6 	 N/N 	 1 	 spending investment
+<\s>
+<s id="wsj_2015.15"> 18
+2 	 1 	 N/N 	 1 	 profits corporate
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 profits are
+2 	 4 	 S[adj]\NP 	 1 	 profits weak <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 are Whenever
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 weak are
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 that means
+6 	 0 	 (S/S)/S[dcl] 	 1 	 means Whenever
+6 	 17 	 (S[dcl]\S[dcl])\NP 	 1 	 means said
+8 	 7 	 N/N 	 1 	 spending capital
+8 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 spending is
+8 	 12 	 S[b]\NP 	 1 	 spending soften <XB>
+9 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 is means
+10 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going is
+11 	 10 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 soften to
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 soften subsequently
+16 	 15 	 N/N 	 1 	 Harris Mr.
+16 	 17 	 (S[dcl]\S[dcl])\NP 	 2 	 Harris said
+<\s>
+<s id="wsj_2015.16"> 10
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 You have
+0 	 3 	 (S[pt]\NP)/NP 	 1 	 You seen <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 have n't
+3 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 seen have
+3 	 9 	 (S\NP)\(S\NP) 	 2 	 seen yet
+6 	 3 	 (S[pt]\NP)/NP 	 2 	 effect seen
+6 	 4 	 NP[nb]/N 	 1 	 effect the
+6 	 5 	 N/N 	 1 	 effect full
+6 	 7 	 (NP\NP)/NP 	 1 	 effect of
+8 	 7 	 (NP\NP)/NP 	 2 	 that of
+<\s>
+<s id="wsj_2015.17"> 18
+1 	 0 	 NP[nb]/N 	 1 	 decline A
+1 	 2 	 (NP\NP)/NP 	 1 	 decline in
+1 	 5 	 S[adj]\NP 	 1 	 decline more <XB>
+1 	 7 	 (S[b]\NP)/NP 	 1 	 decline offset
+4 	 2 	 (NP\NP)/NP 	 2 	 production in
+4 	 3 	 N/N 	 1 	 production truck
+5 	 6 	 ((S\NP)/(S\NP))\(S[adj]\NP) 	 3 	 more than
+7 	 6 	 ((S\NP)/(S\NP))\(S[adj]\NP) 	 2 	 offset than
+7 	 17 	 (S[dcl]\S[b])\NP 	 1 	 offset noted
+10 	 7 	 (S[b]\NP)/NP 	 2 	 rise offset
+10 	 8 	 NP[nb]/N 	 1 	 rise a
+10 	 9 	 N/N 	 1 	 rise sharp
+10 	 11 	 (NP\NP)/NP 	 1 	 rise in
+13 	 11 	 (NP\NP)/NP 	 2 	 assemblies in
+13 	 12 	 N/N 	 1 	 assemblies auto
+16 	 15 	 NP[nb]/N 	 1 	 Fed the
+16 	 17 	 (S[dcl]\S[b])\NP 	 2 	 Fed noted
+<\s>
+<s id="wsj_2015.18"> 17
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Analysts do
+0 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 Analysts expect <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 do n't
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 expect do
+6 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 surge expect
+6 	 4 	 NP[nb]/N 	 1 	 surge the
+6 	 5 	 N/N 	 1 	 surge September
+6 	 7 	 (NP\NP)/NP 	 1 	 surge in
+6 	 12 	 S[pss]\NP 	 1 	 surge repeated <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 production in
+9 	 8 	 N/N 	 1 	 production auto
+10 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 repeated be
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 repeated in
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 months in
+16 	 14 	 NP[nb]/N 	 1 	 months the
+16 	 15 	 N/N 	 1 	 months coming
+<\s>
+<s id="wsj_2015.19"> 16
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Here is
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 summary is
+3 	 2 	 NP[nb]/N 	 1 	 summary a
+3 	 4 	 (NP\NP)/NP 	 1 	 summary of
+8 	 5 	 NP[nb]/N 	 1 	 Board the
+8 	 6 	 N/N 	 1 	 Board Federal
+8 	 7 	 N/N 	 1 	 Board Reserve
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 Board 's
+10 	 4 	 (NP\NP)/NP 	 2 	 report of
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 report 's
+10 	 11 	 (NP\NP)/NP 	 1 	 report on
+13 	 11 	 (NP\NP)/NP 	 2 	 production on
+13 	 12 	 N/N 	 1 	 production industrial
+13 	 14 	 (NP\NP)/NP 	 1 	 production in
+15 	 14 	 (NP\NP)/NP 	 2 	 September in
+<\s>
+<s id="wsj_2015.20"> 5
+1 	 0 	 NP[nb]/N 	 1 	 figures The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 figures are
+1 	 4 	 S[pss]\NP 	 1 	 figures adjusted <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 are seasonally
+4 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 adjusted are
+<\s>
+<s id="wsj_2015.21"> 6
+1 	 0 	 N/N 	 1 	 % 142.3
+1 	 2 	 (NP\NP)/NP 	 1 	 % of
+5 	 2 	 (NP\NP)/NP 	 2 	 average of
+5 	 3 	 NP[nb]/N 	 1 	 average the
+5 	 4 	 N/N 	 1 	 average 1977
+<\s>

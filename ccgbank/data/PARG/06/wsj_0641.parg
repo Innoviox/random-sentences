@@ -1,0 +1,239 @@
+<s id="wsj_0641.1"> 29
+1 	 0 	 N/N 	 1 	 Corp. Kerr-McGee
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+3 	 5 	 (S[b]\NP)/NP 	 1 	 it spend <XB>
+3 	 10 	 (S[b]\NP)/NP 	 1 	 it purchase <XB>
+3 	 13 	 (((S[b]\NP)/PP)/PP)/NP 	 1 	 it relocate <XU>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 spend will
+6 	 5 	 (S[b]\NP)/NP 	 2 	 $ spend
+8 	 6 	 N/N[num] 	 1 	 million $
+8 	 7 	 N/N 	 1 	 million 42
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 purchase to
+11 	 10 	 (S[b]\NP)/NP 	 2 	 land purchase
+13 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 relocate to
+18 	 13 	 (((S[b]\NP)/PP)/PP)/NP 	 4 	 facility relocate
+18 	 14 	 NP[nb]/N 	 1 	 facility its
+18 	 15 	 N/N 	 1 	 facility ammonium
+18 	 16 	 N/N 	 1 	 facility perchlorate
+18 	 17 	 N/N 	 1 	 facility storage
+19 	 13 	 (((S[b]\NP)/PP)/PP)/NP 	 3 	 to relocate
+21 	 19 	 PP/NP 	 1 	 County to
+21 	 20 	 N/N 	 1 	 County Clark
+23 	 19 	 PP/NP 	 1 	 Nev. to
+25 	 13 	 (((S[b]\NP)/PP)/PP)/NP 	 2 	 from relocate
+26 	 25 	 PP/NP 	 1 	 Henderson from
+28 	 25 	 PP/NP 	 1 	 Nev from
+<\s>
+<s id="wsj_0641.2"> 27
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+3 	 5 	 ((S[b]\NP)/PP)/NP 	 1 	 it move <XB>
+3 	 21 	 ((S[b]\NP)/PP)/NP 	 1 	 it distance <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 move will
+7 	 5 	 ((S[b]\NP)/PP)/NP 	 3 	 storage move
+7 	 6 	 NP[nb]/N 	 1 	 storage the
+10 	 5 	 ((S[b]\NP)/PP)/NP 	 3 	 operations move
+10 	 9 	 N/N 	 1 	 operations cross-blending
+11 	 5 	 ((S[b]\NP)/PP)/NP 	 2 	 to move
+13 	 11 	 PP/NP 	 1 	 site to
+13 	 12 	 NP[nb]/N 	 1 	 site a
+13 	 16 	 (NP\NP)/PP 	 1 	 site northeast
+15 	 14 	 ((NP\NP)/(NP\NP))/((NP\NP)/(NP\NP)) 	 3 	 miles 23
+16 	 15 	 (NP\NP)/(NP\NP) 	 2 	 northeast miles
+17 	 16 	 (NP\NP)/PP 	 2 	 of northeast
+19 	 17 	 PP/NP 	 1 	 Vegas of
+19 	 18 	 N/N 	 1 	 Vegas Las
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 distance to
+23 	 21 	 ((S[b]\NP)/PP)/NP 	 3 	 operations distance
+23 	 22 	 NP[nb]/N 	 1 	 operations the
+24 	 21 	 ((S[b]\NP)/PP)/NP 	 2 	 from distance
+26 	 24 	 PP/NP 	 1 	 areas from
+26 	 25 	 N/N 	 1 	 areas residential
+<\s>
+<s id="wsj_0641.3"> 23
+1 	 0 	 N/N 	 1 	 perchlorate Ammonium
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 perchlorate is
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 oxidizer is
+4 	 3 	 NP[nb]/N 	 1 	 oxidizer an
+4 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 oxidizer that
+4 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 oxidizer is <XB>
+4 	 7 	 (S[pss]\NP)/PP 	 1 	 oxidizer mixed <XB>
+4 	 12 	 (S[b]\NP)/NP 	 1 	 oxidizer make <XB>
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is that
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 mixed is
+8 	 7 	 (S[pss]\NP)/PP 	 2 	 with mixed
+10 	 8 	 PP/NP 	 1 	 propellant with
+10 	 9 	 NP[nb]/N 	 1 	 propellant a
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+14 	 12 	 (S[b]\NP)/NP 	 2 	 fuel make
+14 	 13 	 N/N 	 1 	 fuel rocket
+14 	 15 	 S[pss]\NP 	 1 	 fuel used <XB>
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 used in
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 shuttle in
+19 	 17 	 NP[nb]/N 	 1 	 shuttle the
+19 	 18 	 N/N 	 1 	 shuttle space
+22 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 rockets in
+22 	 21 	 N/N 	 1 	 rockets military
+<\s>
+<s id="wsj_0641.4"> 24
+1 	 0 	 (S/S)/NP 	 2 	 May In
+1 	 2 	 N\N 	 1 	 May 1988
+7 	 4 	 NP[nb]/N 	 1 	 plant an
+7 	 5 	 N/N 	 1 	 plant ammonium
+7 	 6 	 N/N 	 1 	 plant perchlorate
+7 	 8 	 (NP\NP)/NP 	 1 	 plant in
+7 	 10 	 S[pss]\NP 	 1 	 plant owned <XB>
+7 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 plant was
+7 	 18 	 S[pss]\NP 	 1 	 plant leveled <XB>
+9 	 8 	 (NP\NP)/NP 	 2 	 Henderson in
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 owned by
+16 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 unit by
+16 	 12 	 NP[nb]/N 	 1 	 unit an
+16 	 13 	 N/N 	 1 	 unit American
+16 	 14 	 N/N 	 1 	 unit Pacific
+16 	 15 	 N/N 	 1 	 unit Corp.
+17 	 0 	 (S/S)/NP 	 1 	 was In
+18 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 leveled was
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 leveled by
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 series by
+21 	 20 	 NP[nb]/N 	 1 	 series a
+21 	 22 	 (NP\NP)/NP 	 1 	 series of
+23 	 22 	 (NP\NP)/NP 	 2 	 explosions of
+<\s>
+<s id="wsj_0641.5"> 19
+2 	 0 	 (S/S)/NP 	 2 	 explosion After
+2 	 1 	 NP[nb]/N 	 1 	 explosion the
+4 	 6 	 (S[dcl]\NP)/NP 	 1 	 Kerr-McGee shut
+6 	 0 	 (S/S)/NP 	 1 	 shut After
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 shut temporarily
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 shut down
+6 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 shut for
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 facility shut
+9 	 8 	 NP[nb]/N 	 1 	 facility its
+9 	 11 	 (NP\NP)/PP 	 1 	 facility south
+11 	 10 	 (NP\NP)/(NP\NP) 	 2 	 south just
+12 	 11 	 (NP\NP)/PP 	 2 	 of south
+14 	 12 	 PP/NP 	 1 	 Vegas of
+14 	 13 	 N/N 	 1 	 Vegas Las
+18 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 inspection for
+18 	 16 	 NP[nb]/N 	 1 	 inspection a
+18 	 17 	 N/N 	 1 	 inspection safety
+<\s>
+<s id="wsj_0641.6"> 13
+1 	 0 	 N/N 	 1 	 Pacific American
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 Pacific are
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Kerr-McGee are
+7 	 6 	 (N/N)/(N/N) 	 2 	 two only
+9 	 4 	 (S[dcl]\NP)/NP 	 2 	 manufacturers are
+9 	 5 	 NP[nb]/N 	 1 	 manufacturers the
+9 	 7 	 N/N 	 1 	 manufacturers two
+9 	 8 	 N/N 	 1 	 manufacturers U.S.
+9 	 10 	 (NP\NP)/NP 	 1 	 manufacturers of
+12 	 10 	 (NP\NP)/NP 	 2 	 perchlorate of
+12 	 11 	 N/N 	 1 	 perchlorate ammonium
+<\s>
+<s id="wsj_0641.7"> 25
+2 	 1 	 NP[nb]/N 	 1 	 plant the
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 plant was
+2 	 4 	 S[pss]\NP 	 1 	 plant destroyed <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 was When
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 destroyed was
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 I think
+7 	 0 	 (S/S)/S[dcl] 	 1 	 think When
+7 	 24 	 (S[dcl]\S[dcl])\NP 	 1 	 think said
+8 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 everyone got
+8 	 10 	 (S[adj]\NP)/S[em] 	 1 	 everyone concerned <XB>
+9 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 got think
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 concerned got
+11 	 10 	 (S[adj]\NP)/S[em] 	 2 	 that concerned
+14 	 12 	 NP[nb]/N 	 1 	 thing the
+14 	 13 	 N/N 	 1 	 thing same
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 thing would
+14 	 16 	 S[b]\NP 	 1 	 thing happen <XB>
+15 	 11 	 S[em]/S[dcl] 	 1 	 would that
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 happen would
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 happen at
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 plant at
+19 	 18 	 NP[nb]/N 	 1 	 plant our
+23 	 21 	 NP[nb]/N 	 1 	 spokeswoman a
+23 	 22 	 N/N 	 1 	 spokeswoman KerrMcGee
+23 	 24 	 (S[dcl]\S[dcl])\NP 	 2 	 spokeswoman said
+<\s>
+<s id="wsj_0641.8"> 17
+0 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 That prompted
+2 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Kerr-McGee prompted
+2 	 4 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 Kerr-McGee consider <XB>
+2 	 5 	 (S[ng]\NP)/NP 	 1 	 Kerr-McGee moving <XB>
+3 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to prompted
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 consider to
+5 	 4 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 moving consider
+5 	 14 	 ((S\NP)\(S\NP))/PP 	 2 	 moving away
+8 	 7 	 (N/N)/(N/N) 	 2 	 volatile potentially
+10 	 5 	 (S[ng]\NP)/NP 	 2 	 facilities moving
+10 	 6 	 NP[nb]/N 	 1 	 facilities the
+10 	 8 	 N/N 	 1 	 facilities volatile
+10 	 9 	 N/N 	 1 	 facilities storage
+13 	 5 	 (S[ng]\NP)/NP 	 2 	 operations moving
+13 	 6 	 NP[nb]/N 	 1 	 operations the
+13 	 8 	 N/N 	 1 	 operations volatile
+13 	 12 	 N/N 	 1 	 operations cross-blending
+15 	 14 	 ((S\NP)\(S\NP))/PP 	 3 	 from away
+16 	 15 	 PP/NP 	 1 	 town from
+<\s>
+<s id="wsj_0641.9"> 22
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Kerr-McGee said
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+2 	 4 	 ((S[pt]\NP)/PP)/NP 	 1 	 it purchased <XB>
+2 	 15 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it plans <XU>
+2 	 17 	 (S[b]\NP)/NP 	 1 	 it begin <XU>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 purchased has
+4 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 purchased in
+6 	 4 	 ((S[pt]\NP)/PP)/NP 	 3 	 acres purchased
+6 	 5 	 N/N 	 1 	 acres 3,350
+7 	 4 	 ((S[pt]\NP)/PP)/NP 	 2 	 from purchased
+10 	 7 	 PP/NP 	 1 	 government from
+10 	 8 	 NP[nb]/N 	 1 	 government the
+10 	 9 	 N/N 	 1 	 government federal
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 County in
+13 	 12 	 N/N 	 1 	 County Clark
+15 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 plans said
+16 	 15 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 begin to
+17 	 21 	 (S\NP)\(S\NP) 	 2 	 begin year
+18 	 17 	 (S[b]\NP)/NP 	 2 	 construction begin
+21 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year early
+21 	 20 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+<\s>
+<s id="wsj_0641.10"> 11
+2 	 0 	 NP[nb]/N 	 1 	 facility The
+2 	 1 	 N/N 	 1 	 facility new
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 facility is
+2 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 facility expected <XB>
+2 	 6 	 (S[b]\NP)/NP 	 1 	 facility begin <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+5 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 begin to
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 begin in
+7 	 6 	 (S[b]\NP)/NP 	 2 	 operations begin
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 1991 in
+10 	 9 	 N/N 	 1 	 1991 early
+<\s>
+<s id="wsj_0641.11"> 13
+2 	 0 	 NP[nb]/N 	 1 	 plant The
+2 	 1 	 N/N 	 1 	 plant Henderson
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plant will
+2 	 4 	 (S[b]\NP)/NP 	 1 	 plant continue <XB>
+3 	 12 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue will
+8 	 4 	 (S[b]\NP)/NP 	 2 	 operations continue
+8 	 5 	 NP[nb]/N 	 1 	 operations its
+8 	 6 	 N/N 	 1 	 operations other
+8 	 7 	 N/N 	 1 	 operations chemical
+11 	 10 	 NP[nb]/N 	 1 	 company the
+11 	 12 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>

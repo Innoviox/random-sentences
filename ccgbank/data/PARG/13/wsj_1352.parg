@@ -1,0 +1,74 @@
+<s id="wsj_1352.1"> 19
+1 	 0 	 N/N 	 1 	 Corp. LDI
+1 	 3 	 NP\NP 	 1 	 Corp. Cleveland
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+6 	 8 	 (S[b]\NP)/NP 	 1 	 it offer <XB>
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 offer will
+9 	 8 	 (S[b]\NP)/NP 	 2 	 $ offer
+9 	 12 	 (NP\NP)/NP 	 1 	 $ in
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 50
+14 	 12 	 (NP\NP)/NP 	 2 	 paper in
+14 	 13 	 N/N 	 1 	 paper commercial
+14 	 15 	 S[pss]\NP 	 1 	 paper backed <XB>
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 backed by
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 receivables by
+18 	 17 	 N/N 	 1 	 receivables lease-rental
+<\s>
+<s id="wsj_1352.2"> 17
+1 	 0 	 NP[nb]/N 	 1 	 program The
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 program matches
+3 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 funds matches
+3 	 4 	 S[pss]\NP 	 1 	 funds raised <XB>
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 raised from
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 sale from
+7 	 6 	 NP[nb]/N 	 1 	 sale the
+7 	 8 	 (NP\NP)/NP 	 1 	 sale of
+11 	 8 	 (NP\NP)/NP 	 2 	 paper of
+11 	 9 	 NP[nb]/N 	 1 	 paper the
+11 	 10 	 N/N 	 1 	 paper commercial
+12 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 with matches
+15 	 13 	 (N/N)/(N/N) 	 2 	 medium-sized small
+15 	 14 	 (N/N)/(N/N) 	 2 	 medium-sized to
+16 	 12 	 PP/NP 	 1 	 leases with
+16 	 15 	 N/N 	 1 	 leases medium-sized
+<\s>
+<s id="wsj_1352.3"> 24
+0 	 1 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 LDI termed
+0 	 7 	 (S[ng]\NP)/S[em] 	 1 	 LDI meaning <XB>
+3 	 1 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 paper termed
+3 	 2 	 NP[nb]/N 	 1 	 paper the
+3 	 4 	 S[adj]\NP 	 1 	 paper non-recourse <XB>
+4 	 1 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 non-recourse termed
+4 	 5 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 non-recourse financing
+8 	 7 	 (S[ng]\NP)/S[em] 	 2 	 that meaning
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 investors would
+9 	 12 	 (S[pss]\NP)/PP 	 1 	 investors repaid <XB>
+9 	 20 	 (S[adj]\NP)/PP 	 1 	 investors directly <XB>
+10 	 8 	 S[em]/S[dcl] 	 1 	 would that
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 repaid be
+12 	 19 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 repaid than
+13 	 12 	 (S[pss]\NP)/PP 	 2 	 from repaid
+16 	 13 	 PP/NP 	 1 	 receivables from
+16 	 14 	 NP[nb]/N 	 1 	 receivables the
+16 	 15 	 N/N 	 1 	 receivables lease
+19 	 18 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 than rather
+20 	 19 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 directly than
+21 	 20 	 (S[adj]\NP)/PP 	 2 	 by directly
+23 	 21 	 PP/NP 	 1 	 Corp by
+23 	 22 	 N/N 	 1 	 Corp LDI
+<\s>
+<s id="wsj_1352.4"> 11
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 LDI leases
+0 	 3 	 (S[dcl]\NP)/NP 	 1 	 LDI sells <XU>
+6 	 4 	 (N/N)/(N/N) 	 2 	 telecommunications data-processing
+9 	 4 	 (N/N)/(N/N) 	 2 	 high-tech data-processing
+9 	 8 	 (N/N)/(N/N) 	 2 	 high-tech other
+10 	 1 	 (S[dcl]\NP)/NP 	 2 	 equipment leases <XU>
+10 	 3 	 (S[dcl]\NP)/NP 	 2 	 equipment sells
+10 	 6 	 N/N 	 1 	 equipment telecommunications <XU>
+10 	 9 	 N/N 	 1 	 equipment high-tech
+<\s>

@@ -1,0 +1,73 @@
+<s id="wsj_1763.1"> 26
+2 	 0 	 N/N 	 1 	 Oswald Robert
+2 	 1 	 N/N 	 1 	 Oswald A.
+2 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Oswald was
+2 	 17 	 (S[pss]\NP)/PP 	 1 	 Oswald elected <XB>
+6 	 4 	 N/N 	 1 	 officer chief
+6 	 5 	 N/N 	 1 	 officer financial
+6 	 10 	 (NP\NP)/NP 	 1 	 officer of
+6 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 officer was
+6 	 17 	 (S[pss]\NP)/PP 	 1 	 officer elected <XB>
+9 	 8 	 NP[nb]/N 	 1 	 director a
+9 	 10 	 (NP\NP)/NP 	 1 	 director of
+9 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 director was
+9 	 17 	 (S[pss]\NP)/PP 	 1 	 director elected <XB>
+14 	 10 	 (NP\NP)/NP 	 2 	 company of
+14 	 11 	 NP[nb]/N 	 1 	 company this
+14 	 12 	 N/N 	 1 	 company natural-gas
+14 	 13 	 N/N 	 1 	 company pipeline
+17 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 elected was
+18 	 17 	 (S[pss]\NP)/PP 	 2 	 to elected
+21 	 18 	 PP/NP 	 1 	 position to
+21 	 19 	 NP[nb]/N 	 1 	 position the
+21 	 20 	 N/N 	 1 	 position additional
+21 	 22 	 (NP\NP)/NP 	 1 	 position of
+25 	 22 	 (NP\NP)/NP 	 2 	 president of
+25 	 23 	 N/N 	 1 	 president executive
+25 	 24 	 N/N 	 1 	 president vice
+<\s>
+<s id="wsj_1763.2"> 30
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+5 	 3 	 N/N 	 1 	 O'Donnell Michael
+5 	 4 	 N/N 	 1 	 O'Donnell W.
+5 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 O'Donnell was
+5 	 16 	 (S[pss]\NP)/NP 	 1 	 O'Donnell named <XB>
+9 	 7 	 N/N 	 1 	 president executive
+9 	 8 	 N/N 	 1 	 president vice
+9 	 10 	 (NP\NP)/NP 	 1 	 president of
+9 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 president was
+9 	 16 	 (S[pss]\NP)/NP 	 1 	 president named <XB>
+13 	 10 	 (NP\NP)/NP 	 2 	 unit of
+13 	 11 	 NP[nb]/N 	 1 	 unit a
+13 	 12 	 N/N 	 1 	 unit Columbia
+15 	 0 	 (S/S)/NP 	 1 	 was In
+16 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+20 	 16 	 (S[pss]\NP)/NP 	 2 	 officer named
+20 	 17 	 N/N 	 1 	 officer assistant
+20 	 18 	 N/N 	 1 	 officer chief
+20 	 19 	 N/N 	 1 	 officer financial
+20 	 26 	 (NP\NP)/NP 	 1 	 officer of
+25 	 16 	 (S[pss]\NP)/NP 	 2 	 president named
+25 	 22 	 NP[nb]/N 	 1 	 president a
+25 	 23 	 N/N 	 1 	 president senior
+25 	 24 	 N/N 	 1 	 president vice
+25 	 26 	 (NP\NP)/NP 	 1 	 president of
+29 	 26 	 (NP\NP)/NP 	 2 	 company of
+29 	 27 	 NP[nb]/N 	 1 	 company the
+29 	 28 	 N/N 	 1 	 company parent
+<\s>
+<s id="wsj_1763.3"> 6
+1 	 0 	 NP[nb]/N 	 1 	 appointments The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 appointments take
+2 	 4 	 ((S\NP)\(S\NP))/N[num] 	 2 	 take Nov.
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 effect take
+5 	 4 	 ((S\NP)\(S\NP))/N[num] 	 3 	 1 Nov.
+<\s>
+<s id="wsj_1763.4"> 6
+1 	 0 	 NP[nb]/N 	 1 	 men Both
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 men are
+1 	 5 	 (S[adj]\NP)\NP 	 1 	 men old <XB>
+4 	 3 	 N/N 	 1 	 years 44
+4 	 5 	 (S[adj]\NP)\NP 	 2 	 years old
+5 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 old are
+<\s>

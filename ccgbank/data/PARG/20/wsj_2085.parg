@@ -1,0 +1,87 @@
+<s id="wsj_2085.1"> 18
+1 	 0 	 N/N 	 1 	 Tanner Paul
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Tanner was
+1 	 3 	 (S[pss]\NP)/NP 	 1 	 Tanner named <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+4 	 3 	 (S[pss]\NP)/NP 	 2 	 president named
+4 	 11 	 (NP\NP)/NP 	 1 	 president of
+8 	 3 	 (S[pss]\NP)/NP 	 2 	 officer named
+8 	 6 	 N/N 	 1 	 officer chief
+8 	 7 	 N/N 	 1 	 officer executive
+8 	 11 	 (NP\NP)/NP 	 1 	 officer of
+10 	 3 	 (S[pss]\NP)/NP 	 2 	 chairman named
+10 	 11 	 (NP\NP)/NP 	 1 	 chairman of
+17 	 11 	 (NP\NP)/NP 	 2 	 company of
+17 	 12 	 NP[nb]/N 	 1 	 company this
+17 	 13 	 N/N 	 1 	 company oil
+17 	 15 	 N/N 	 1 	 company natural
+17 	 16 	 N/N 	 1 	 company gas
+<\s>
+<s id="wsj_2085.2"> 11
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 He succeeds
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 Boudreau succeeds
+4 	 2 	 N/N 	 1 	 Boudreau John
+4 	 3 	 N/N 	 1 	 Boudreau A.
+4 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Boudreau who
+4 	 7 	 S[dcl]\NP 	 1 	 Boudreau resigned <XB>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 resigned who
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 resigned for
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 reasons for
+10 	 9 	 N/N 	 1 	 reasons personal
+<\s>
+<s id="wsj_2085.3"> 14
+1 	 0 	 N/N 	 1 	 Tanner Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Tanner had
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 Tanner been <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+4 	 3 	 (S[pt]\NP)/NP 	 2 	 president been
+4 	 5 	 (NP\NP)/NP 	 1 	 president of
+7 	 6 	 N/N 	 1 	 Pacific Penn
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 Pacific 's
+13 	 5 	 (NP\NP)/NP 	 2 	 subsidiary of
+13 	 8 	 (NP[nb]/N)\NP 	 1 	 subsidiary 's
+13 	 9 	 N/N 	 1 	 subsidiary National
+13 	 10 	 N/N 	 1 	 subsidiary Southwest
+13 	 11 	 N/N 	 1 	 subsidiary Capital
+13 	 12 	 N/N 	 1 	 subsidiary Group
+<\s>
+<s id="wsj_2085.4"> 17
+1 	 0 	 N/N 	 1 	 Boudreau Mr.
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Boudreau will
+1 	 3 	 ((S[b]\NP)/PP)/PP 	 1 	 Boudreau remain <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 remain will
+4 	 3 	 ((S[b]\NP)/PP)/PP 	 3 	 with remain
+6 	 4 	 PP/NP 	 1 	 Pacific with
+6 	 5 	 N/N 	 1 	 Pacific Penn
+7 	 3 	 ((S[b]\NP)/PP)/PP 	 2 	 as remain
+9 	 7 	 PP/NP 	 1 	 director as
+9 	 8 	 NP[nb]/N 	 1 	 director a
+12 	 7 	 PP/NP 	 1 	 member as
+12 	 11 	 NP[nb]/N 	 1 	 member a
+12 	 13 	 (NP\NP)/NP 	 1 	 member of
+16 	 13 	 (NP\NP)/NP 	 2 	 committee of
+16 	 14 	 NP[nb]/N 	 1 	 committee the
+16 	 15 	 N/N 	 1 	 committee executive
+<\s>
+<s id="wsj_2085.5"> 22
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 He has
+0 	 3 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 He agreed <XB>
+0 	 5 	 (S[b]\NP)/NP 	 1 	 He become <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 has also
+1 	 21 	 (S[dcl]\S[dcl])\NP 	 1 	 has said
+3 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 agreed has
+4 	 3 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to agreed
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 become to
+6 	 5 	 (S[b]\NP)/NP 	 2 	 president become
+6 	 7 	 (NP\NP)/NP 	 1 	 president of
+10 	 7 	 (NP\NP)/NP 	 2 	 subsidiary of
+10 	 8 	 NP[nb]/N 	 1 	 subsidiary a
+10 	 9 	 N/N 	 1 	 subsidiary new
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+13 	 12 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 formed be
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+17 	 15 	 (S[b]\NP)/NP 	 2 	 acquisitions make
+17 	 16 	 N/N 	 1 	 acquisitions future
+20 	 19 	 NP[nb]/N 	 1 	 company the
+20 	 21 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>

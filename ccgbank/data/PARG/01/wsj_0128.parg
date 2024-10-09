@@ -1,0 +1,1127 @@
+<s id="wsj_0128.1"> 15
+1 	 0 	 N/N 	 1 	 Street Wall
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Street 's
+5 	 2 	 (NP[nb]/N)\NP 	 1 	 firms 's
+5 	 3 	 N/N 	 1 	 firms big
+5 	 4 	 N/N 	 1 	 firms securities
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 firms face
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 prospect face
+8 	 7 	 NP[nb]/N 	 1 	 prospect the
+8 	 9 	 (NP\NP)/(S[ng]\NP) 	 1 	 prospect of
+10 	 9 	 (NP\NP)/(S[ng]\NP) 	 2 	 having of
+13 	 10 	 ((S[ng]\NP)/(S[pt]\NP))/NP 	 3 	 ratings having
+13 	 11 	 NP[nb]/N 	 1 	 ratings their
+13 	 12 	 N/N 	 1 	 ratings credit
+13 	 14 	 S[pt]\NP 	 1 	 ratings lowered <XB>
+14 	 10 	 ((S[ng]\NP)/(S[pt]\NP))/NP 	 2 	 lowered having
+<\s>
+<s id="wsj_0128.2"> 23
+1 	 0 	 NP[nb]/N 	 1 	 reason The
+1 	 2 	 (NP\NP)/S[dcl] 	 1 	 reason :
+3 	 4 	 (NP\NP)/NP 	 1 	 Risks from
+3 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Risks are
+3 	 13 	 S[ng]\NP 	 1 	 Risks rising <XB>
+6 	 5 	 NP[nb]/N 	 1 	 firms the
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 firms '
+11 	 4 	 (NP\NP)/NP 	 2 	 activities from
+11 	 7 	 (NP[nb]/N)\NP 	 1 	 activities '
+11 	 8 	 N/N 	 1 	 activities new
+11 	 9 	 N/N 	 1 	 activities merchant
+11 	 10 	 N/N 	 1 	 activities banking
+12 	 2 	 (NP\NP)/S[dcl] 	 2 	 are :
+13 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 rising are
+13 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 rising as
+15 	 16 	 (NP\NP)/NP 	 1 	 revenue from
+15 	 22 	 S[dcl]\NP 	 1 	 revenue erodes
+18 	 17 	 NP[nb]/N 	 1 	 industry the
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 industry 's
+21 	 16 	 (NP\NP)/NP 	 2 	 business from
+21 	 19 	 (NP[nb]/N)\NP 	 1 	 business 's
+21 	 20 	 N/N 	 1 	 business traditional
+22 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 erodes as
+<\s>
+<s id="wsj_0128.3"> 52
+1 	 0 	 NP[nb]/N 	 1 	 downgrading The
+1 	 2 	 (NP\NP)/NP 	 1 	 downgrading of
+1 	 17 	 (NP\NP)/NP 	 1 	 downgrading by
+1 	 24 	 S[pss]\NP 	 1 	 downgrading coupled <XB>
+1 	 44 	 (S[dcl]\NP)/NP 	 1 	 downgrading sent
+3 	 2 	 (NP\NP)/NP 	 2 	 debt of
+3 	 4 	 S[pss]\NP 	 1 	 debt issued <XB>
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 issued by
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Inc. by
+9 	 6 	 N/N 	 1 	 Inc. CS
+9 	 7 	 N/N 	 1 	 Inc. First
+9 	 8 	 N/N 	 1 	 Inc. Boston
+11 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 parent by
+11 	 12 	 (NP\NP)/NP 	 1 	 parent of
+15 	 12 	 (NP\NP)/NP 	 2 	 Corp. of
+15 	 13 	 N/N 	 1 	 Corp. First
+15 	 14 	 N/N 	 1 	 Corp. Boston
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 Moody 's
+22 	 17 	 (NP\NP)/NP 	 2 	 Inc. by
+22 	 19 	 (NP[nb]/N)\NP 	 1 	 Inc. 's
+22 	 20 	 N/N 	 1 	 Inc. Investors
+22 	 21 	 N/N 	 1 	 Inc. Service
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 coupled with
+27 	 28 	 (NP[nb]/N)\NP 	 2 	 Moody 's
+29 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 announcement with
+29 	 26 	 NP/NP 	 1 	 announcement a
+29 	 28 	 (NP[nb]/N)\NP 	 1 	 announcement 's
+30 	 29 	 N/S[em] 	 1 	 that announcement
+35 	 31 	 N/N 	 1 	 Inc. Shearson
+35 	 32 	 N/N 	 1 	 Inc. Lehman
+35 	 33 	 N/N 	 1 	 Inc. Hutton
+35 	 34 	 N/N 	 1 	 Inc. Holdings
+35 	 36 	 (S[dcl]\NP)/PP 	 1 	 Inc. is
+36 	 30 	 S[em]/S[dcl] 	 1 	 is that
+37 	 36 	 (S[dcl]\NP)/PP 	 2 	 under is
+38 	 37 	 PP/NP 	 1 	 review under
+38 	 39 	 (NP\NP)/NP 	 1 	 review for
+42 	 39 	 (NP\NP)/NP 	 2 	 downgrade for
+42 	 40 	 NP[nb]/N 	 1 	 downgrade a
+42 	 41 	 N/N 	 1 	 downgrade possible
+44 	 46 	 ((S\NP)\(S\NP))/NP 	 2 	 sent through
+44 	 50 	 ((S\NP)\(S\NP))/N 	 2 	 sent this
+45 	 44 	 (S[dcl]\NP)/NP 	 2 	 shivers sent
+49 	 46 	 ((S\NP)\(S\NP))/NP 	 3 	 community through
+49 	 47 	 NP[nb]/N 	 1 	 community the
+49 	 48 	 N/N 	 1 	 community brokerage
+51 	 50 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+<\s>
+<s id="wsj_0128.4"> 28
+0 	 3 	 (S[dcl]\PP)/NP 	 1 	 With came
+2 	 0 	 PP/NP 	 1 	 shudders With
+2 	 1 	 NP[nb]/N 	 1 	 shudders the
+5 	 3 	 (S[dcl]\PP)/NP 	 2 	 realization came
+5 	 4 	 NP[nb]/N 	 1 	 realization the
+6 	 5 	 N/S[em] 	 1 	 that realization
+7 	 8 	 (NP\NP)/NP 	 1 	 some of
+7 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 some are
+7 	 15 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 some struggling <XB>
+7 	 17 	 (S[b]\NP)/NP 	 1 	 some maintain <XB>
+10 	 9 	 N/N 	 1 	 Street Wall
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Street 's
+13 	 8 	 (NP\NP)/NP 	 2 	 players of
+13 	 11 	 (NP[nb]/N)\NP 	 1 	 players 's
+13 	 12 	 N/N 	 1 	 players biggest
+14 	 6 	 S[em]/S[dcl] 	 1 	 are that
+15 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 struggling are
+16 	 15 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to struggling
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 maintain to
+21 	 17 	 (S[b]\NP)/NP 	 2 	 standing maintain
+21 	 18 	 NP[nb]/N 	 1 	 standing the
+21 	 19 	 N/N 	 1 	 standing stellar
+21 	 20 	 N/N 	 1 	 standing credit
+21 	 22 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 standing required <XB>
+21 	 24 	 (S[b]\NP)/NP 	 1 	 standing finance <XB>
+23 	 22 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to required
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 finance to
+24 	 27 	 (S\NP)\(S\NP) 	 2 	 finance profitably
+26 	 24 	 (S[b]\NP)/NP 	 2 	 activities finance
+26 	 25 	 NP[nb]/N 	 1 	 activities their
+<\s>
+<s id="wsj_0128.5"> 24
+1 	 0 	 N/N 	 1 	 firms Securities
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 firms are
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 among are
+6 	 3 	 PP/NP 	 1 	 issuers among
+6 	 4 	 NP[nb]/N 	 1 	 issuers the
+6 	 5 	 N/N 	 1 	 issuers biggest
+6 	 7 	 (NP\NP)/NP 	 1 	 issuers of
+9 	 7 	 (NP\NP)/NP 	 2 	 paper of
+9 	 8 	 N/N 	 1 	 paper commercial
+9 	 16 	 (NP\NP)/(S[dcl]/NP) 	 1 	 paper which
+9 	 18 	 (S[dcl]\NP)/NP 	 2 	 paper sell <XU>
+14 	 7 	 (NP\NP)/NP 	 2 	 IOUs of
+14 	 12 	 N/N 	 1 	 IOUs short-term
+14 	 13 	 N/N 	 1 	 IOUs corporate
+14 	 16 	 (NP\NP)/(S[dcl]/NP) 	 1 	 IOUs which
+14 	 18 	 (S[dcl]\NP)/NP 	 2 	 IOUs sell <XU>
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 they sell
+17 	 20 	 (S[b]\NP)/NP 	 1 	 they finance <XB>
+18 	 16 	 (NP\NP)/(S[dcl]/NP) 	 2 	 sell which
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 finance to
+23 	 20 	 (S[b]\NP)/NP 	 2 	 operations finance
+23 	 21 	 NP[nb]/N 	 1 	 operations their
+23 	 22 	 N/N 	 1 	 operations daily
+<\s>
+<s id="wsj_0128.6"> 12
+2 	 0 	 NP[nb]/N 	 1 	 firms The
+2 	 1 	 N/N 	 1 	 firms biggest
+2 	 4 	 (S[b]\NP)/NP 	 1 	 firms retain
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 retain still
+7 	 4 	 (S[b]\NP)/NP 	 2 	 ratings retain
+7 	 5 	 NP[nb]/N 	 1 	 ratings the
+7 	 6 	 N/N 	 1 	 ratings highest
+7 	 8 	 (NP\NP)/NP 	 1 	 ratings on
+11 	 8 	 (NP\NP)/NP 	 2 	 paper on
+11 	 9 	 NP[nb]/N 	 1 	 paper their
+11 	 10 	 N/N 	 1 	 paper commercial
+<\s>
+<s id="wsj_0128.7"> 34
+2 	 1 	 N/N 	 1 	 's Moody
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 's warned
+3 	 0 	 S/S 	 1 	 warned But
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that warned
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Shearson 's
+9 	 6 	 (NP[nb]/N)\NP 	 1 	 rating 's
+9 	 7 	 N/N 	 1 	 rating commercial
+9 	 8 	 N/N 	 1 	 rating paper
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rating could
+9 	 12 	 S[pss]\NP 	 1 	 rating lowered <XB>
+10 	 4 	 S[em]/S[dcl] 	 1 	 could that
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 lowered be
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 lowered soon
+16 	 15 	 NP[nb]/N 	 1 	 move a
+16 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 move that
+16 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 move would <XB>
+16 	 19 	 (S[b]\NP)/NP 	 1 	 move reduce <XB>
+16 	 28 	 (S[b]\NP)/NP 	 1 	 move signal <XU>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reduce would
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 Shearson 's
+23 	 19 	 (S[b]\NP)/NP 	 2 	 margins reduce
+23 	 21 	 (NP[nb]/N)\NP 	 1 	 margins 's
+23 	 22 	 N/N 	 1 	 margins profit
+23 	 24 	 (NP\NP)/NP 	 1 	 margins on
+26 	 24 	 (NP\NP)/NP 	 2 	 borrowings on
+26 	 25 	 NP[nb]/N 	 1 	 borrowings its
+28 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 signal would
+28 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 signal for
+29 	 28 	 (S[b]\NP)/NP 	 2 	 trouble signal
+29 	 30 	 NP\NP 	 1 	 trouble ahead
+33 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 firms for
+33 	 32 	 N/N 	 1 	 firms other
+<\s>
+<s id="wsj_0128.8"> 7
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Shearson is
+0 	 2 	 (S[adj]\NP)/PP 	 1 	 Shearson 62%-owned <XB>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 62%-owned is
+3 	 2 	 (S[adj]\NP)/PP 	 2 	 by 62%-owned
+6 	 3 	 PP/NP 	 1 	 Co by
+6 	 4 	 N/N 	 1 	 Co American
+6 	 5 	 N/N 	 1 	 Co Express
+<\s>
+<s id="wsj_0128.9"> 33
+1 	 0 	 (S/S)/(S/S) 	 2 	 as Just
+5 	 2 	 NP[nb]/N 	 1 	 market the
+5 	 3 	 N/N 	 1 	 market 1980s
+5 	 4 	 N/N 	 1 	 market bull
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 market transformed
+6 	 1 	 (S/S)/S[dcl] 	 2 	 transformed as
+10 	 6 	 (S[dcl]\NP)/NP 	 2 	 business transformed
+10 	 7 	 NP[nb]/N 	 1 	 business the
+10 	 8 	 N/N 	 1 	 business U.S.
+10 	 9 	 N/N 	 1 	 business securities
+13 	 12 	 (S/S)/(S/S) 	 2 	 too so
+14 	 1 	 (S/S)/S[dcl] 	 1 	 will as
+14 	 13 	 S/S 	 1 	 will too
+14 	 23 	 (S[dcl]\S[dcl])/NP 	 1 	 will says
+18 	 14 	 S[dcl]/NP 	 1 	 environment will
+18 	 15 	 NP[nb]/N 	 1 	 environment the
+18 	 16 	 N/N 	 1 	 environment more
+18 	 17 	 N/N 	 1 	 environment difficult
+18 	 19 	 (NP\NP)/NP 	 1 	 environment of
+21 	 19 	 (NP\NP)/NP 	 2 	 1990s of
+21 	 20 	 NP[nb]/N 	 1 	 1990s the
+26 	 23 	 (S[dcl]\S[dcl])/NP 	 2 	 Mahoney says
+26 	 24 	 N/N 	 1 	 Mahoney Christopher
+26 	 25 	 N/N 	 1 	 Mahoney T.
+29 	 28 	 NP[nb]/N 	 1 	 Moody a
+29 	 30 	 (NP[nb]/N)\NP 	 2 	 Moody 's
+32 	 23 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+32 	 30 	 (NP[nb]/N)\NP 	 1 	 president 's
+32 	 31 	 N/N 	 1 	 president vice
+<\s>
+<s id="wsj_0128.10"> 8
+2 	 0 	 NP[nb]/N 	 1 	 restructuring A
+2 	 1 	 N/N 	 1 	 restructuring sweeping
+2 	 3 	 (NP\NP)/NP 	 1 	 restructuring of
+2 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 restructuring is
+2 	 7 	 S[adj]\NP 	 1 	 restructuring possible <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 industry of
+5 	 4 	 NP[nb]/N 	 1 	 industry the
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 possible is
+<\s>
+<s id="wsj_0128.11"> 32
+2 	 0 	 N/N 	 1 	 Poor Standard
+2 	 1 	 N/N 	 1 	 Poor &
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Poor 's
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 Corp. 's
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. says
+7 	 6 	 N/N 	 1 	 Boston First
+7 	 17 	 S[adj]\NP 	 1 	 Boston particular <XB>
+7 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Boston are
+7 	 20 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Boston likely <XB>
+9 	 17 	 S[adj]\NP 	 1 	 Shearson particular <XB>
+9 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Shearson are
+9 	 20 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Shearson likely <XB>
+14 	 11 	 N/N 	 1 	 Inc. Drexel
+14 	 12 	 N/N 	 1 	 Inc. Burnham
+14 	 13 	 N/N 	 1 	 Inc. Lambert
+14 	 17 	 S[adj]\NP 	 1 	 Inc. particular <XB>
+14 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Inc. are
+14 	 20 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Inc. likely <XB>
+17 	 16 	 ((S\NP)/(S\NP))/(S[adj]\NP) 	 3 	 particular in
+19 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 are says
+19 	 16 	 ((S\NP)/(S\NP))/(S[adj]\NP) 	 2 	 are in
+20 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely are
+21 	 20 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+23 	 22 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 3 	 difficulty have
+23 	 24 	 (S[ng]\NP)/NP 	 1 	 difficulty shoring <XB>
+24 	 22 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 2 	 shoring have
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 shoring up
+24 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 shoring in
+28 	 24 	 (S[ng]\NP)/NP 	 2 	 standing shoring
+28 	 26 	 NP[nb]/N 	 1 	 standing their
+28 	 27 	 N/N 	 1 	 standing credit
+30 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 months in
+30 	 31 	 N\N 	 1 	 months ahead
+<\s>
+<s id="wsj_0128.12"> 26
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 What worries <XB>
+0 	 6 	 (S[dcl]\NP)/S[em] 	 1 	 What is
+1 	 0 	 NP/(S[dcl]\NP) 	 1 	 worries What
+1 	 4 	 ((S\NP)\(S\NP))/N 	 2 	 worries the
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 concerns worries
+3 	 2 	 N/N 	 1 	 concerns credit-rating
+5 	 4 	 ((S\NP)\(S\NP))/N 	 3 	 most the
+7 	 6 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+10 	 8 	 N/N 	 1 	 firms Wall
+10 	 9 	 N/N 	 1 	 firms Street
+10 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 firms are
+10 	 12 	 (S[ng]\NP)/NP 	 1 	 firms taking <XB>
+11 	 7 	 S[em]/S[dcl] 	 1 	 are that
+12 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 taking are
+12 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 taking with
+12 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 taking via
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 risks taking
+14 	 13 	 N/N 	 1 	 risks long-term
+18 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 capital with
+18 	 16 	 NP[nb]/N 	 1 	 capital their
+18 	 17 	 N/N 	 1 	 capital own
+25 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 financings via
+25 	 20 	 N/N 	 1 	 financings leveraged
+25 	 21 	 N/N 	 1 	 financings buy-out
+25 	 23 	 N/N 	 1 	 financings junk
+25 	 24 	 N/N 	 1 	 financings bond
+<\s>
+<s id="wsj_0128.13"> 16
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That 's
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 departure 's
+3 	 2 	 NP[nb]/N 	 1 	 departure a
+3 	 4 	 (NP\NP)/NP 	 1 	 departure from
+7 	 4 	 (NP\NP)/NP 	 2 	 practice from
+7 	 5 	 NP[nb]/N 	 1 	 practice their
+7 	 6 	 N/N 	 1 	 practice traditional
+7 	 8 	 (NP\NP)/(S[ng]\NP) 	 1 	 practice of
+9 	 8 	 (NP\NP)/(S[ng]\NP) 	 2 	 transferring of
+9 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 transferring to
+13 	 9 	 (S[ng]\NP)/NP 	 2 	 risks transferring
+13 	 10 	 NP/NP 	 1 	 risks almost
+13 	 11 	 NP[nb]/N 	 1 	 risks all
+13 	 12 	 N/N 	 1 	 risks financing
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 investors to
+<\s>
+<s id="wsj_0128.14"> 35
+3 	 1 	 N/N 	 1 	 financings conventional
+3 	 2 	 N/N 	 1 	 financings securities
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 financings are
+3 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 financings structured <XB>
+3 	 8 	 S[pss]\NP 	 1 	 financings sold <XB>
+4 	 0 	 (S/S)/S[dcl] 	 2 	 are Whereas
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 structured are
+6 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to structured
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 sold be
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 sold quickly
+12 	 11 	 N/N 	 1 	 Street Wall
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Street 's
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 penchant 's
+15 	 14 	 N/N 	 1 	 penchant new
+15 	 16 	 (NP\NP)/NP 	 1 	 penchant for
+15 	 22 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 penchant is
+15 	 23 	 (S[ng]\NP)/PP 	 1 	 penchant resulting <XB>
+18 	 16 	 (NP\NP)/NP 	 2 	 buy-outs for
+18 	 17 	 N/N 	 1 	 buy-outs leveraged
+21 	 16 	 (NP\NP)/NP 	 2 	 bonds for
+21 	 20 	 N/N 	 1 	 bonds junk
+22 	 0 	 (S/S)/S[dcl] 	 1 	 is Whereas
+23 	 22 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 resulting is
+24 	 23 	 (S[ng]\NP)/PP 	 2 	 in resulting
+27 	 24 	 PP/NP 	 1 	 commitments in
+27 	 25 	 N/N 	 1 	 commitments long-term
+27 	 26 	 N/N 	 1 	 commitments lending
+27 	 28 	 (NP\NP)/(S[dcl]\NP) 	 1 	 commitments that
+27 	 29 	 S[dcl]\NP 	 1 	 commitments stretch <XB>
+29 	 28 	 (NP\NP)/(S[dcl]\NP) 	 2 	 stretch that
+29 	 30 	 (S\NP)\(S\NP) 	 2 	 stretch out
+29 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 stretch for
+32 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 months for
+34 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+<\s>
+<s id="wsj_0128.15"> 55
+2 	 0 	 NP[nb]/N 	 1 	 disarray The
+2 	 1 	 N/N 	 1 	 disarray recent
+2 	 3 	 (NP\NP)/NP 	 1 	 disarray in
+2 	 8 	 (S[dcl]\NP)/S[em] 	 1 	 disarray suggests
+7 	 3 	 (NP\NP)/NP 	 2 	 market in
+7 	 4 	 NP[nb]/N 	 1 	 market the
+7 	 5 	 N/N 	 1 	 market junk
+7 	 6 	 N/N 	 1 	 market bond
+8 	 29 	 (S[dcl]\S[dcl])/NP 	 1 	 suggests says
+9 	 8 	 (S[dcl]\NP)/S[em] 	 2 	 that suggests
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 brokers may
+10 	 12 	 (S[b]\NP)/NP 	 1 	 brokers become <XB>
+10 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 brokers may <XU>
+10 	 20 	 (S[b]\NP)/NP 	 1 	 brokers face <XU>
+11 	 9 	 S[em]/S[dcl] 	 1 	 may that
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 become may
+14 	 12 	 (S[b]\NP)/NP 	 2 	 creditors become
+14 	 13 	 N/N 	 1 	 creditors longer-term
+14 	 15 	 (NP\NP)/S[dcl] 	 1 	 creditors than
+16 	 17 	 S[dcl]\NP 	 1 	 they anticipated
+17 	 15 	 (NP\NP)/S[dcl] 	 2 	 anticipated than
+19 	 9 	 S[em]/S[dcl] 	 1 	 may that
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 face may
+22 	 20 	 (S[b]\NP)/NP 	 2 	 delays face
+22 	 21 	 N/N 	 1 	 delays long
+22 	 23 	 (NP\NP)/(S[ng]\NP) 	 1 	 delays in
+24 	 23 	 (NP\NP)/(S[ng]\NP) 	 2 	 getting in
+26 	 24 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 3 	 money getting
+26 	 25 	 NP[nb]/N 	 1 	 money their
+26 	 27 	 S[adj]\NP 	 1 	 money back <XB>
+27 	 24 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 2 	 back getting
+31 	 29 	 (S[dcl]\S[dcl])/NP 	 2 	 Bowman says
+31 	 30 	 N/N 	 1 	 Bowman Jeffrey
+35 	 29 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+35 	 33 	 NP[nb]/N 	 1 	 president a
+35 	 34 	 N/N 	 1 	 president vice
+35 	 36 	 (NP\NP)/NP 	 1 	 president at
+37 	 36 	 (NP\NP)/NP 	 2 	 S&P at
+37 	 39 	 (NP\NP)/(S[dcl]\NP) 	 1 	 S&P which
+37 	 40 	 (S[dcl]\NP)/NP 	 1 	 S&P raised <XB>
+40 	 39 	 (NP\NP)/(S[dcl]\NP) 	 2 	 raised which
+40 	 44 	 ((S\NP)\(S\NP))/NP 	 2 	 raised for
+40 	 47 	 ((S\NP)\(S\NP))/NP 	 2 	 raised in
+43 	 40 	 (S[dcl]\NP)/NP 	 2 	 flag raised
+43 	 41 	 NP[nb]/N 	 1 	 flag a
+43 	 42 	 N/N 	 1 	 flag warning
+46 	 44 	 ((S\NP)\(S\NP))/NP 	 3 	 industry for
+46 	 45 	 NP[nb]/N 	 1 	 industry the
+48 	 47 	 ((S\NP)\(S\NP))/NP 	 3 	 April in
+48 	 49 	 (NP\NP)/S[dcl] 	 1 	 April when
+50 	 51 	 (S[dcl]\NP)/NP 	 1 	 it downgraded
+51 	 49 	 (NP\NP)/S[dcl] 	 2 	 downgraded when
+54 	 51 	 (S[dcl]\NP)/NP 	 2 	 Boston downgraded
+54 	 52 	 N/N 	 1 	 Boston CS
+54 	 53 	 N/N 	 1 	 Boston First
+<\s>
+<s id="wsj_0128.16"> 14
+1 	 0 	 N/N 	 1 	 Street Wall
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Street is
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 Street facing <XB>
+2 	 8 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 facing is
+6 	 3 	 (S[ng]\NP)/NP 	 2 	 situation facing
+6 	 4 	 NP[nb]/N 	 1 	 situation a
+6 	 5 	 N/N 	 1 	 situation Catch-22
+10 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 Mahoney says
+10 	 9 	 N/N 	 1 	 Mahoney Mr.
+10 	 11 	 (NP\NP)/NP 	 1 	 Mahoney of
+13 	 11 	 (NP\NP)/NP 	 2 	 's of
+13 	 12 	 N/N 	 1 	 's Moody
+<\s>
+<s id="wsj_0128.17"> 23
+1 	 0 	 N/N 	 1 	 banking Merchant
+1 	 3 	 (NP\NP)/S[dcl] 	 1 	 banking where
+1 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 banking is
+1 	 11 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 banking getting <XB>
+1 	 12 	 S[adj]\NP 	 1 	 banking riskier <XB>
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 firms commit
+5 	 3 	 (NP\NP)/S[dcl] 	 2 	 commit where
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 money commit
+8 	 6 	 NP[nb]/N 	 1 	 money their
+8 	 7 	 N/N 	 1 	 money own
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 getting is
+12 	 11 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 riskier getting
+15 	 16 	 (S[dcl]\NP[thr])/NP 	 1 	 there 's
+17 	 16 	 (S[dcl]\NP[thr])/NP 	 2 	 less 's
+17 	 18 	 (NP\NP)/NP 	 1 	 less of
+19 	 18 	 (NP\NP)/NP 	 2 	 it of
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 go to
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 go around
+<\s>
+<s id="wsj_0128.18"> 33
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 he says
+8 	 6 	 NP[nb]/N 	 1 	 business the
+8 	 7 	 N/N 	 1 	 business buy-out
+8 	 9 	 (S[dcl]\NP)/PP 	 1 	 business is
+8 	 19 	 (S[ng]\NP)/S[em] 	 1 	 business meaning <XB>
+9 	 0 	 (S/S)/NP 	 1 	 is In
+9 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 is says <XU>
+9 	 12 	 ((S\NP)\(S\NP))/PP 	 2 	 is because
+10 	 9 	 (S[dcl]\NP)/PP 	 2 	 under is
+11 	 10 	 PP/NP 	 1 	 pressure under
+13 	 12 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+17 	 13 	 PP/NP 	 1 	 collapse of
+17 	 14 	 NP[nb]/N 	 1 	 collapse the
+17 	 15 	 N/N 	 1 	 collapse junk
+17 	 16 	 N/N 	 1 	 collapse bond
+20 	 19 	 (S[ng]\NP)/S[em] 	 2 	 that meaning
+21 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 returns are
+21 	 23 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 returns likely <XB>
+22 	 20 	 S[em]/S[dcl] 	 1 	 are that
+23 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely are
+24 	 23 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 decline to
+25 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 decline as
+28 	 27 	 NP[nb]/N 	 1 	 volume the
+28 	 29 	 (NP\NP)/NP 	 1 	 volume of
+28 	 32 	 S[dcl]\NP 	 1 	 volume shrinks
+31 	 29 	 (NP\NP)/NP 	 2 	 financings of
+31 	 30 	 N/N 	 1 	 financings junk-bond
+32 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 shrinks as
+<\s>
+<s id="wsj_0128.19"> 44
+3 	 0 	 (S/S)/NP 	 2 	 buy-out In
+3 	 1 	 NP[nb]/N 	 1 	 buy-out a
+3 	 2 	 N/N 	 1 	 buy-out leveraged
+7 	 5 	 NP[nb]/N 	 1 	 group a
+7 	 6 	 N/N 	 1 	 group small
+7 	 8 	 (NP\NP)/NP 	 1 	 group of
+7 	 10 	 (S[dcl]\NP)/NP 	 1 	 group acquires
+9 	 8 	 (NP\NP)/NP 	 2 	 investors of
+10 	 0 	 (S/S)/NP 	 1 	 acquires In
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 acquires in
+10 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 acquires with
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 company acquires
+12 	 11 	 NP[nb]/N 	 1 	 company a
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 transaction in
+15 	 14 	 NP[nb]/N 	 1 	 transaction a
+15 	 16 	 S[pss]\NP 	 1 	 transaction financed <XB>
+16 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 financed by
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 by largely
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 borrowing by
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 expectation with
+23 	 22 	 NP[nb]/N 	 1 	 expectation the
+24 	 23 	 N/S[em] 	 1 	 that expectation
+26 	 25 	 NP[nb]/N 	 1 	 debt the
+26 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 debt will
+26 	 29 	 (S[pss]\NP)/PP 	 1 	 debt paid <XB>
+27 	 24 	 S[em]/S[dcl] 	 1 	 will that
+28 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+29 	 28 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 paid be
+30 	 29 	 (S[pss]\NP)/PP 	 2 	 with paid
+31 	 30 	 PP/NP 	 1 	 funds with
+31 	 32 	 S[pss]\NP 	 1 	 funds generated <XB>
+32 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 generated by
+36 	 34 	 NP[nb]/N 	 1 	 company the
+36 	 35 	 N/N 	 1 	 company acquired
+36 	 37 	 (NP[nb]/N)\NP 	 2 	 company 's
+38 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 operations by
+38 	 37 	 (NP[nb]/N)\NP 	 1 	 operations 's
+40 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 sales by
+40 	 41 	 (NP\NP)/NP 	 1 	 sales of
+43 	 41 	 (NP\NP)/NP 	 2 	 assets of
+43 	 42 	 NP[nb]/N 	 1 	 assets its
+<\s>
+<s id="wsj_0128.20"> 37
+3 	 0 	 (S/S)/NP 	 2 	 report In
+3 	 1 	 NP[nb]/N 	 1 	 report a
+3 	 2 	 N/N 	 1 	 report recent
+6 	 5 	 N/N 	 1 	 's Moody
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 's said
+7 	 0 	 (S/S)/NP 	 1 	 said In
+8 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it expects
+9 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+11 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 competition expects
+11 	 10 	 N/N 	 1 	 competition intense
+11 	 13 	 S[b]\NP 	 1 	 competition occur <XB>
+11 	 31 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 competition will <XB>
+11 	 32 	 (S[b]\NP)/NP 	 1 	 competition create <XB>
+12 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 occur to
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 occur through
+13 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 occur in
+13 	 25 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 occur which
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 rest through
+16 	 15 	 NP[nb]/N 	 1 	 rest the
+16 	 17 	 (NP\NP)/NP 	 1 	 rest of
+19 	 17 	 (NP\NP)/NP 	 2 	 century of
+19 	 18 	 NP[nb]/N 	 1 	 century the
+23 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 industry in
+23 	 21 	 NP[nb]/N 	 1 	 industry the
+23 	 22 	 N/N 	 1 	 industry securities
+28 	 27 	 ((S\NP)/(S\NP))/PP 	 3 	 with combined
+29 	 28 	 PP/NP 	 1 	 overcapacity with
+31 	 25 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 will which
+31 	 27 	 ((S\NP)/(S\NP))/PP 	 2 	 will combined
+32 	 31 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 create will
+34 	 32 	 (S[b]\NP)/NP 	 2 	 prospects create
+34 	 33 	 N/N 	 1 	 prospects poor
+34 	 35 	 (NP\NP)/NP 	 1 	 prospects for
+36 	 35 	 (NP\NP)/NP 	 2 	 profitability for
+<\s>
+<s id="wsj_0128.21"> 21
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 It said
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+4 	 3 	 NP[nb]/N 	 1 	 temptation the
+4 	 5 	 (NP\NP)/NP 	 1 	 temptation for
+4 	 16 	 (S[dcl]\NP)/NP 	 1 	 temptation is
+6 	 5 	 (NP\NP)/NP 	 2 	 managements for
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 ease to
+8 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 ease by
+11 	 8 	 (S[b]\NP)/NP 	 2 	 pressure ease
+11 	 9 	 NP[nb]/N 	 1 	 pressure this
+11 	 10 	 N/N 	 1 	 pressure profit
+13 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 taking by
+15 	 13 	 (S[ng]\NP)/NP 	 2 	 risks taking
+15 	 14 	 N/N 	 1 	 risks greater
+16 	 2 	 S[em]/S[dcl] 	 1 	 is that
+20 	 16 	 (S[dcl]\NP)/NP 	 2 	 factor is
+20 	 17 	 NP[nb]/N 	 1 	 factor an
+20 	 18 	 N/N 	 1 	 factor additional
+20 	 19 	 N/N 	 1 	 factor rating
+<\s>
+<s id="wsj_0128.22"> 32
+2 	 0 	 NP/NP 	 1 	 's Both
+2 	 1 	 N/N 	 1 	 's Moody
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 's cited
+4 	 0 	 NP/NP 	 1 	 S&P Both
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 S&P cited
+7 	 6 	 N/N 	 1 	 Boston First
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 Boston 's
+9 	 5 	 (S[dcl]\NP)/NP 	 2 	 reliance cited
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 reliance 's
+9 	 10 	 (NP\NP)/NP 	 1 	 reliance in
+9 	 13 	 (NP\NP)/NP 	 1 	 reliance on
+9 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 reliance which
+9 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 reliance has <XB>
+9 	 20 	 (S[adj]\NP)/PP 	 1 	 reliance responsible <XB>
+12 	 10 	 (NP\NP)/NP 	 2 	 years in
+12 	 11 	 N/N 	 1 	 years recent
+15 	 13 	 (NP\NP)/NP 	 2 	 banking on
+15 	 14 	 N/N 	 1 	 banking merchant
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+19 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+20 	 19 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 responsible been
+21 	 20 	 (S[adj]\NP)/PP 	 2 	 for responsible
+24 	 21 	 PP/NP 	 1 	 portion for
+24 	 22 	 NP[nb]/N 	 1 	 portion a
+24 	 23 	 N/N 	 1 	 portion significant
+24 	 25 	 (NP\NP)/NP 	 1 	 portion of
+28 	 27 	 (N/N)/(N/N) 	 2 	 held closely
+29 	 26 	 NP[nb]/N 	 1 	 firm the
+29 	 28 	 N/N 	 1 	 firm held
+29 	 30 	 (NP[nb]/N)\NP 	 2 	 firm 's
+31 	 25 	 (NP\NP)/NP 	 2 	 profit of
+31 	 30 	 (NP[nb]/N)\NP 	 1 	 profit 's
+<\s>
+<s id="wsj_0128.23"> 41
+3 	 0 	 NP[nb]/N 	 1 	 squeeze The
+3 	 1 	 N/N 	 1 	 squeeze recent
+3 	 2 	 N/N 	 1 	 squeeze cash
+3 	 4 	 (NP\NP)/NP 	 1 	 squeeze at
+3 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 squeeze is
+3 	 19 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 squeeze proving <XB>
+3 	 20 	 (S[adj]\NP)/PP 	 1 	 squeeze costly <XB>
+6 	 4 	 (NP\NP)/NP 	 2 	 Corp. at
+6 	 5 	 N/N 	 1 	 Corp. Campeau
+9 	 8 	 N/N 	 1 	 Boston First
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Boston 's
+12 	 11 	 (N/N)/(N/N) 	 2 	 lucrative most
+13 	 4 	 (NP\NP)/NP 	 2 	 client at
+13 	 10 	 (NP[nb]/N)\NP 	 1 	 client 's
+13 	 12 	 N/N 	 1 	 client lucrative
+13 	 14 	 (NP\NP)/NP 	 1 	 client of
+16 	 14 	 (NP\NP)/NP 	 2 	 decade of
+16 	 15 	 NP[nb]/N 	 1 	 decade the
+19 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 proving is
+19 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 proving because
+20 	 19 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 costly proving
+21 	 20 	 (S[adj]\NP)/PP 	 2 	 to costly
+23 	 21 	 PP/NP 	 1 	 Boston to
+23 	 22 	 N/N 	 1 	 Boston First
+25 	 26 	 (S[dcl]\NP)/NP 	 1 	 it arranged
+26 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 arranged because
+26 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 arranged for
+27 	 28 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+29 	 26 	 (S[dcl]\NP)/NP 	 2 	 $ arranged
+29 	 28 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+29 	 32 	 (NP\NP)/NP 	 1 	 $ of
+31 	 29 	 N/N[num] 	 1 	 billion $
+31 	 30 	 N/N 	 1 	 billion 3
+37 	 32 	 (NP\NP)/NP 	 2 	 financings of
+37 	 33 	 N/N 	 1 	 financings high-yield
+37 	 35 	 N/N 	 1 	 financings high-risk
+37 	 36 	 N/N 	 1 	 financings junk
+40 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 units for
+40 	 39 	 N/N 	 1 	 units Campeau
+<\s>
+<s id="wsj_0128.24"> 36
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+5 	 3 	 NP[nb]/N 	 1 	 loan a
+5 	 4 	 N/N 	 1 	 loan big
+5 	 6 	 (NP\NP)/(S[dcl]/NP) 	 1 	 loan that
+5 	 9 	 ((S[dcl]\NP)/PP)/NP 	 3 	 loan made <XU>
+5 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 loan was
+5 	 17 	 S[pss]\NP 	 1 	 loan repaid <XB>
+8 	 7 	 N/N 	 1 	 Boston First
+8 	 9 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Boston made
+9 	 6 	 (NP\NP)/(S[dcl]/NP) 	 2 	 made that
+10 	 9 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to made
+13 	 10 	 PP/NP 	 1 	 Co to
+13 	 11 	 N/N 	 1 	 Co Ohio
+13 	 12 	 N/N 	 1 	 Co Mattress
+15 	 0 	 (S/S)/NP 	 1 	 was In
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 was n't
+17 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 repaid was
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 repaid on
+17 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 repaid when
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 time on
+24 	 22 	 (N/N)/N[num] 	 2 	 million $
+24 	 23 	 N/N 	 1 	 million 450
+26 	 21 	 NP[nb]/N 	 1 	 financing its
+26 	 22 	 (N/N)/N[num] 	 1 	 financing $
+26 	 25 	 N/N 	 1 	 financing junk
+26 	 27 	 (NP\NP)/NP 	 1 	 financing for
+26 	 34 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 financing was
+26 	 35 	 S[pss]\NP 	 1 	 financing withdrawn <XB>
+29 	 27 	 (NP\NP)/NP 	 2 	 buy-out for
+29 	 28 	 NP[nb]/N 	 1 	 buy-out a
+29 	 30 	 (NP\NP)/NP 	 1 	 buy-out of
+33 	 30 	 (NP\NP)/NP 	 2 	 company of
+33 	 31 	 NP[nb]/N 	 1 	 company the
+33 	 32 	 N/N 	 1 	 company bedding
+34 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was when
+35 	 34 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 withdrawn was
+<\s>
+<s id="wsj_0128.25"> 19
+2 	 0 	 NP[nb]/N 	 1 	 exposures These
+2 	 1 	 N/N 	 1 	 exposures two
+2 	 3 	 N\N 	 1 	 exposures alone
+2 	 4 	 (S[dcl]\NP)/NP 	 1 	 exposures represent
+4 	 18 	 (S[dcl]\S[dcl])\NP 	 1 	 represent said
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 portion represent
+8 	 5 	 NP[nb]/N 	 1 	 portion a
+8 	 6 	 N/N 	 1 	 portion very
+8 	 7 	 N/N 	 1 	 portion substantial
+8 	 9 	 (NP\NP)/NP 	 1 	 portion of
+12 	 10 	 N/N 	 1 	 Boston CS
+12 	 11 	 N/N 	 1 	 Boston First
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Boston 's
+14 	 9 	 (NP\NP)/NP 	 2 	 equity of
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 equity 's
+17 	 16 	 N/N 	 1 	 's Moody
+17 	 18 	 (S[dcl]\S[dcl])\NP 	 2 	 's said
+<\s>
+<s id="wsj_0128.26"> 12
+3 	 0 	 N/N 	 1 	 exposures Total
+3 	 1 	 N/N 	 1 	 exposures merchant
+3 	 2 	 N/N 	 1 	 exposures banking
+3 	 4 	 (S[dcl]\NP)/PP 	 1 	 exposures are
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 in are
+6 	 5 	 PP/NP 	 1 	 excess in
+6 	 7 	 (NP\NP)/NP 	 1 	 excess of
+9 	 8 	 NP[nb]/N 	 1 	 firm the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 firm 's
+11 	 7 	 (NP\NP)/NP 	 2 	 equity of
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 equity 's
+<\s>
+<s id="wsj_0128.27"> 23
+2 	 0 	 N/N 	 1 	 Boston CS
+2 	 1 	 N/N 	 1 	 Boston First
+2 	 6 	 (S[dcl]\NP)/PP 	 1 	 Boston benefits
+6 	 4 	 (S\NP)/(S\NP) 	 2 	 benefits however
+7 	 6 	 (S[dcl]\NP)/PP 	 2 	 from benefits
+9 	 7 	 PP/NP 	 1 	 backing from
+9 	 8 	 NP[nb]/N 	 1 	 backing the
+9 	 10 	 (NP\NP)/NP 	 1 	 backing of
+13 	 10 	 (NP\NP)/NP 	 2 	 shareholder of
+13 	 11 	 NP[nb]/N 	 1 	 shareholder its
+13 	 12 	 N/N 	 1 	 shareholder largest
+16 	 10 	 (NP\NP)/NP 	 2 	 Suisse of
+16 	 15 	 N/N 	 1 	 Suisse Credit
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 Switzerland 's
+20 	 21 	 (N/N)\(N/N) 	 2 	 third largest
+22 	 10 	 (NP\NP)/NP 	 2 	 bank of
+22 	 19 	 (NP[nb]/N)\NP 	 1 	 bank 's
+22 	 20 	 N/N 	 1 	 bank third
+<\s>
+<s id="wsj_0128.28"> 12
+0 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Shearson has
+0 	 3 	 (S[pt]\NP)/NP 	 1 	 Shearson been <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 has also
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+6 	 3 	 (S[pt]\NP)/NP 	 2 	 participant been
+6 	 4 	 NP[nb]/N 	 1 	 participant an
+6 	 5 	 N/N 	 1 	 participant aggressive
+6 	 7 	 (NP\NP)/NP 	 1 	 participant in
+11 	 7 	 (NP\NP)/NP 	 2 	 business in
+11 	 8 	 NP[nb]/N 	 1 	 business the
+11 	 9 	 N/N 	 1 	 business leveraged
+11 	 10 	 N/N 	 1 	 business buy-out
+<\s>
+<s id="wsj_0128.29"> 33
+2 	 1 	 NP[nb]/N 	 1 	 earnings its
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 earnings became
+3 	 0 	 S/S 	 1 	 became But
+3 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 became as
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 disappointment became
+6 	 4 	 NP[nb]/N 	 1 	 disappointment a
+6 	 5 	 N/N 	 1 	 disappointment major
+14 	 12 	 (N/N)/(N/N) 	 2 	 investor or
+14 	 13 	 (N/N)/(N/N) 	 2 	 investor individual
+16 	 8 	 NP[nb]/N 	 1 	 business its
+16 	 9 	 N/N 	 1 	 business traditional
+16 	 10 	 N/N 	 1 	 business retail
+16 	 14 	 N/N 	 1 	 business investor
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 business showed
+17 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 showed as
+19 	 17 	 (S[dcl]\NP)/NP 	 2 	 signs showed
+19 	 18 	 NP[nb]/N 	 1 	 signs no
+19 	 20 	 (NP\NP)/(S[ng]\NP) 	 1 	 signs of
+21 	 20 	 (NP\NP)/(S[ng]\NP) 	 2 	 rebounding of
+22 	 21 	 (S[ng]\NP)/PP 	 2 	 from rebounding
+24 	 22 	 PP/NP 	 1 	 slump from
+24 	 23 	 NP[nb]/N 	 1 	 slump the
+24 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 slump that
+24 	 26 	 (S[dcl]\NP)/NP 	 1 	 slump followed <XB>
+26 	 25 	 (NP\NP)/(S[dcl]\NP) 	 2 	 followed that
+32 	 26 	 (S[dcl]\NP)/NP 	 2 	 crash followed
+32 	 27 	 NP[nb]/N 	 1 	 crash the
+32 	 28 	 N/N 	 1 	 crash October
+32 	 29 	 N/N 	 1 	 crash 1987
+32 	 30 	 N/N 	 1 	 crash stock
+32 	 31 	 N/N 	 1 	 crash market
+<\s>
+<s id="wsj_0128.30"> 28
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Shearson 's
+6 	 4 	 (NP[nb]/N)\NP 	 1 	 $ 's
+6 	 5 	 N/N 	 1 	 $ listed
+6 	 9 	 (NP\NP)/NP 	 1 	 $ of
+6 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 $ is
+6 	 12 	 S[pss]\NP 	 1 	 $ overstated <XB>
+8 	 6 	 N/N[num] 	 1 	 billion $
+8 	 7 	 N/N 	 1 	 billion 2
+10 	 9 	 (NP\NP)/NP 	 2 	 capital of
+11 	 0 	 (S/S)/NP 	 1 	 is In
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 overstated is
+12 	 14 	 ((S\NP)\(S\NP))/PP 	 2 	 overstated according
+12 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 overstated because
+15 	 14 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+18 	 15 	 PP/NP 	 1 	 concerns to
+18 	 16 	 NP[nb]/N 	 1 	 concerns the
+18 	 17 	 N/N 	 1 	 concerns rating
+21 	 22 	 (S[dcl]\NP)/NP 	 1 	 it includes
+22 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 includes because
+23 	 22 	 (S[dcl]\NP)/NP 	 2 	 $ includes
+23 	 26 	 (NP\NP)/NP 	 1 	 $ of
+25 	 23 	 N/N[num] 	 1 	 billion $
+25 	 24 	 N/N 	 1 	 billion 1.7
+27 	 26 	 (NP\NP)/NP 	 2 	 goodwill of
+<\s>
+<s id="wsj_0128.31"> 15
+0 	 3 	 (S[dcl]\NP)/NP 	 1 	 Shearson has
+3 	 1 	 (S\NP)/(S\NP) 	 2 	 has really
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 has only
+3 	 10 	 (S[dcl]\S[dcl])/NP 	 1 	 has says
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 $ has
+4 	 7 	 (NP\NP)/NP 	 1 	 $ of
+6 	 4 	 N/N[num] 	 1 	 million $
+6 	 5 	 N/N 	 1 	 million 300
+8 	 7 	 (NP\NP)/NP 	 2 	 capital of
+12 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 Bowman says
+12 	 11 	 N/N 	 1 	 Bowman Mr.
+12 	 13 	 (NP\NP)/NP 	 1 	 Bowman of
+14 	 13 	 (NP\NP)/NP 	 2 	 S&P of
+<\s>
+<s id="wsj_0128.32"> 9
+2 	 0 	 NP[nb]/N 	 1 	 spokesman A
+2 	 1 	 N/N 	 1 	 spokesman Shearson
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+5 	 4 	 NP[nb]/N 	 1 	 firm the
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 firm is
+5 	 8 	 S[adj]\NP 	 1 	 firm worried <XB>
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 is n't
+8 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 worried is
+<\s>
+<s id="wsj_0128.33"> 17
+1 	 0 	 NP[nb]/N 	 1 	 year A
+1 	 2 	 (S/S)\NP 	 2 	 year ago
+5 	 4 	 N/N 	 1 	 's Moody
+5 	 7 	 ((S[dcl]\NP)/PP)/NP 	 1 	 's had
+7 	 2 	 (S/S)\NP 	 1 	 had ago
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 had also
+7 	 16 	 (S[dcl]\S[dcl])\NP 	 1 	 had said
+8 	 7 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Shearson had
+9 	 7 	 ((S[dcl]\NP)/PP)/NP 	 2 	 under had
+10 	 9 	 PP/NP 	 1 	 review under
+10 	 11 	 (NP\NP)/NP 	 1 	 review for
+13 	 11 	 (NP\NP)/NP 	 2 	 downgrade for
+13 	 12 	 N/N 	 1 	 downgrade possible
+15 	 16 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_0128.34"> 10
+2 	 0 	 (S/S)/NP 	 2 	 months After
+2 	 1 	 N/N 	 1 	 months two
+2 	 3 	 (NP\NP)/NP 	 1 	 months of
+4 	 3 	 (NP\NP)/NP 	 2 	 talks of
+7 	 6 	 NP[nb]/N 	 1 	 rating our
+7 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 rating was
+7 	 9 	 S[pss]\NP 	 1 	 rating maintained <XB>
+8 	 0 	 (S/S)/NP 	 1 	 was After
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 maintained was
+<\s>
+<s id="wsj_0128.35"> 24
+0 	 5 	 S[dcl]\NP 	 1 	 Drexel competes
+5 	 2 	 (S\NP)/(S\NP) 	 2 	 competes meanwhile
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 competes already
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 competes at
+5 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 competes because
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 disadvantage at
+8 	 7 	 NP[nb]/N 	 1 	 disadvantage a
+8 	 9 	 (NP\NP)/NP 	 1 	 disadvantage to
+14 	 9 	 (NP\NP)/NP 	 2 	 rivals to
+14 	 10 	 NP[nb]/N 	 1 	 rivals its
+14 	 11 	 N/N 	 1 	 rivals big
+14 	 12 	 N/N 	 1 	 rivals Wall
+14 	 13 	 N/N 	 1 	 rivals Street
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 it has
+17 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has because
+20 	 19 	 (N/N)/(N/N) 	 2 	 lower slightly
+23 	 17 	 (S[dcl]\NP)/NP 	 2 	 rating has
+23 	 18 	 NP[nb]/N 	 1 	 rating a
+23 	 20 	 N/N 	 1 	 rating lower
+23 	 21 	 N/N 	 1 	 rating commercial
+23 	 22 	 N/N 	 1 	 rating paper
+<\s>
+<s id="wsj_0128.36"> 30
+1 	 0 	 NP[nb]/N 	 1 	 collapse The
+1 	 2 	 (NP\NP)/NP 	 1 	 collapse of
+1 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 collapse have
+1 	 16 	 ((S[pt]\NP)/PP)/NP 	 1 	 collapse taken <XB>
+5 	 2 	 (NP\NP)/NP 	 2 	 prices of
+5 	 3 	 N/N 	 1 	 prices junk
+5 	 4 	 N/N 	 1 	 prices bond
+8 	 7 	 NP[nb]/N 	 1 	 cancellation the
+8 	 9 	 (NP\NP)/NP 	 1 	 cancellation of
+8 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 cancellation have
+8 	 16 	 ((S[pt]\NP)/PP)/NP 	 1 	 cancellation taken <XB>
+13 	 9 	 (NP\NP)/NP 	 2 	 financings of
+13 	 10 	 N/N 	 1 	 financings many
+13 	 11 	 N/N 	 1 	 financings junk
+13 	 12 	 N/N 	 1 	 financings bond
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 have apparently
+16 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 taken have
+18 	 16 	 ((S[pt]\NP)/PP)/NP 	 3 	 toll taken
+18 	 17 	 NP[nb]/N 	 1 	 toll their
+19 	 16 	 ((S[pt]\NP)/PP)/NP 	 2 	 on taken
+21 	 20 	 (N/N)/(N/N) 	 2 	 held closely
+22 	 19 	 PP/NP 	 1 	 Drexel on
+22 	 21 	 N/N 	 1 	 Drexel held
+26 	 19 	 PP/NP 	 1 	 underwriter on
+26 	 24 	 NP[nb]/N 	 1 	 underwriter the
+26 	 25 	 N/N 	 1 	 underwriter leading
+26 	 27 	 (NP\NP)/NP 	 1 	 underwriter in
+29 	 27 	 (NP\NP)/NP 	 2 	 market in
+29 	 28 	 NP[nb]/N 	 1 	 market that
+<\s>
+<s id="wsj_0128.37"> 27
+1 	 0 	 NP[nb]/N 	 1 	 firm The
+1 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 firm has
+1 	 5 	 (S[pss]\NP)/PP 	 1 	 firm hit <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 has also
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+5 	 4 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 hit been
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 with hit
+9 	 6 	 PP/NP 	 1 	 settlements with
+9 	 7 	 N/N 	 1 	 settlements big
+9 	 8 	 N/N 	 1 	 settlements financial
+9 	 10 	 (NP\NP)/NP 	 1 	 settlements with
+9 	 13 	 (S[ng]\NP)/PP 	 1 	 settlements stemming <XB>
+12 	 10 	 (NP\NP)/NP 	 2 	 government with
+12 	 11 	 NP[nb]/N 	 1 	 government the
+14 	 13 	 (S[ng]\NP)/PP 	 2 	 from stemming
+17 	 14 	 PP/NP 	 1 	 plea from
+17 	 15 	 NP[nb]/N 	 1 	 plea its
+17 	 16 	 N/N 	 1 	 plea guilty
+17 	 18 	 (NP\NP)/NP 	 1 	 plea to
+20 	 18 	 (NP\NP)/NP 	 2 	 felonies to
+20 	 19 	 N/N 	 1 	 felonies six
+20 	 21 	 (S[pss]\NP)/PP 	 1 	 felonies related <XB>
+22 	 21 	 (S[pss]\NP)/PP 	 2 	 to related
+26 	 22 	 PP/NP 	 1 	 scandal to
+26 	 23 	 NP[nb]/N 	 1 	 scandal a
+26 	 24 	 N/N 	 1 	 scandal big
+26 	 25 	 N/N 	 1 	 scandal insider-trading
+<\s>
+<s id="wsj_0128.38"> 23
+0 	 3 	 (S[dcl]\NP)/NP 	 1 	 Drexel eliminated
+0 	 11 	 (((S[ng]\NP)/PP)/PP)/NP 	 1 	 Drexel cutting <XB>
+2 	 1 	 ((S\NP)/(S\NP))/N 	 3 	 year this
+3 	 1 	 ((S\NP)/(S\NP))/N 	 2 	 eliminated this
+9 	 3 	 (S[dcl]\NP)/NP 	 2 	 business eliminated
+9 	 4 	 NP[nb]/N 	 1 	 business its
+9 	 5 	 N/N 	 1 	 business retail
+9 	 7 	 N/N 	 1 	 business individual
+9 	 8 	 N/N 	 1 	 business customer
+13 	 12 	 NP[nb]/N 	 1 	 firm the
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 firm 's
+15 	 11 	 (((S[ng]\NP)/PP)/PP)/NP 	 4 	 workforce cutting
+15 	 14 	 (NP[nb]/N)\NP 	 1 	 workforce 's
+17 	 11 	 (((S[ng]\NP)/PP)/PP)/NP 	 3 	 in cutting
+17 	 16 	 PP/PP 	 1 	 in almost
+18 	 17 	 PP/NP 	 1 	 half in
+19 	 11 	 (((S[ng]\NP)/PP)/PP)/NP 	 2 	 to cutting
+20 	 21 	 (N/N)\(N/N) 	 2 	 just over
+22 	 19 	 PP/NP 	 1 	 5,000 to
+22 	 20 	 N/N 	 1 	 5,000 just
+<\s>
+<s id="wsj_0128.39"> 24
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Drexel circulated
+2 	 12 	 (S[ng]\NP)/S[em] 	 1 	 Drexel showing <XB>
+3 	 0 	 S/S 	 1 	 circulated Recently
+7 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 statement circulated
+7 	 4 	 NP[nb]/N 	 1 	 statement a
+7 	 5 	 N/N 	 1 	 statement private
+7 	 6 	 N/N 	 1 	 statement financial
+8 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 among circulated
+11 	 8 	 PP/NP 	 1 	 firms among
+11 	 9 	 N/N 	 1 	 firms several
+11 	 10 	 N/N 	 1 	 firms securities
+13 	 12 	 (S[ng]\NP)/S[em] 	 2 	 that showing
+16 	 14 	 NP[nb]/N 	 1 	 performance its
+16 	 15 	 N/N 	 1 	 performance earnings
+16 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 performance has
+16 	 18 	 S[pt]\NP 	 1 	 performance diminished <XB>
+17 	 13 	 S[em]/S[dcl] 	 1 	 has that
+18 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 diminished has
+18 	 19 	 ((S\NP)\(S\NP))/N 	 2 	 diminished this
+18 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 diminished from
+20 	 19 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 years from
+23 	 22 	 N/N 	 1 	 years previous
+<\s>
+<s id="wsj_0128.40"> 24
+1 	 0 	 NP[nb]/N 	 1 	 firm The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 firm 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 capital 's
+3 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 capital has
+3 	 9 	 S[pt]\NP 	 1 	 capital grown <XB>
+7 	 5 	 (S\NP)/(S\NP) 	 2 	 has moreover
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 has n't
+7 	 23 	 (S[dcl]\S[dcl])\NP 	 1 	 has say
+9 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 grown has
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 grown at
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 rate at
+13 	 11 	 NP[nb]/N 	 1 	 rate the
+13 	 12 	 N/N 	 1 	 rate same
+13 	 14 	 (NP\NP)/PP 	 1 	 rate as
+15 	 14 	 (NP\NP)/PP 	 2 	 in as
+17 	 15 	 PP/NP 	 1 	 past in
+17 	 16 	 NP[nb]/N 	 1 	 past the
+19 	 20 	 (NP\NP)/NP 	 1 	 officials at
+19 	 23 	 (S[dcl]\S[dcl])\NP 	 2 	 officials say
+22 	 20 	 (NP\NP)/NP 	 2 	 firms at
+22 	 21 	 NP[nb]/N 	 1 	 firms these
+<\s>
+<s id="wsj_0128.41"> 7
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Drexel remains
+0 	 2 	 (S[adj]\NP)/PP 	 1 	 Drexel confident <XB>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 confident remains
+3 	 2 	 (S[adj]\NP)/PP 	 2 	 of confident
+6 	 3 	 PP/NP 	 1 	 creditworthiness of
+6 	 4 	 NP[nb]/N 	 1 	 creditworthiness its
+6 	 5 	 N/N 	 1 	 creditworthiness future
+<\s>
+<s id="wsj_0128.42"> 15
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 We 're
+0 	 3 	 S[pss]\NP 	 1 	 We positioned <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 're well
+1 	 14 	 (S[dcl]\S[dcl])\NP 	 1 	 're said
+3 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 positioned 're
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 positioned with
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ with
+5 	 8 	 (NP\NP)/NP 	 1 	 $ of
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 1.7
+9 	 8 	 (NP\NP)/NP 	 2 	 capital of
+13 	 11 	 NP[nb]/N 	 1 	 spokesman a
+13 	 12 	 N/N 	 1 	 spokesman Drexel
+13 	 14 	 (S[dcl]\S[dcl])\NP 	 2 	 spokesman said
+<\s>
+<s id="wsj_0128.43"> 34
+4 	 1 	 (S/S)/NP 	 2 	 investment as
+4 	 2 	 NP[nb]/N 	 1 	 investment a
+4 	 3 	 N/N 	 1 	 investment leading
+8 	 1 	 (S/S)/NP 	 2 	 firm as
+8 	 2 	 NP[nb]/N 	 1 	 firm a
+8 	 3 	 N/N 	 1 	 firm leading
+8 	 6 	 N/N 	 1 	 firm merchant
+8 	 7 	 N/N 	 1 	 firm banking
+11 	 10 	 NP[nb]/N 	 1 	 fact the
+11 	 27 	 (S[dcl]\NP)/NP 	 1 	 fact is
+12 	 11 	 N/S[em] 	 1 	 that fact
+13 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 we are
+13 	 17 	 (S[adj]\NP)/PP 	 1 	 we subject <XB>
+14 	 12 	 S[em]/S[dcl] 	 1 	 are that
+14 	 16 	 (S\NP)\(S\NP) 	 2 	 are longer
+16 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 longer no
+17 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 subject are
+18 	 17 	 (S[adj]\NP)/PP 	 2 	 to subject
+20 	 18 	 PP/NP 	 1 	 uncertainties to
+20 	 19 	 NP[nb]/N 	 1 	 uncertainties the
+20 	 23 	 (NP\NP)/NP 	 1 	 uncertainties of
+22 	 18 	 PP/NP 	 1 	 vicissitudes to
+22 	 19 	 NP[nb]/N 	 1 	 vicissitudes the
+22 	 23 	 (NP\NP)/NP 	 1 	 vicissitudes of
+26 	 23 	 (NP\NP)/NP 	 2 	 business of
+26 	 24 	 NP[nb]/N 	 1 	 business the
+26 	 25 	 N/N 	 1 	 business retail
+27 	 0 	 S/S 	 1 	 is And
+27 	 1 	 (S/S)/NP 	 1 	 is as
+27 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 is in
+30 	 27 	 (S[dcl]\NP)/NP 	 2 	 plus is
+30 	 28 	 NP[nb]/N 	 1 	 plus a
+30 	 29 	 N/N 	 1 	 plus major
+33 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 view in
+33 	 32 	 NP[nb]/N 	 1 	 view our
+<\s>
+<s id="wsj_0128.44"> 28
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 we 've
+2 	 5 	 (S[pt]\NP)/NP 	 1 	 we been <XB>
+3 	 0 	 S/S 	 1 	 've Moreover
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 've probably
+5 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been 've
+8 	 7 	 (N/N)/(N/N) 	 2 	 aggressive most
+9 	 5 	 (S[pt]\NP)/NP 	 2 	 firm been
+9 	 6 	 NP[nb]/N 	 1 	 firm the
+9 	 8 	 N/N 	 1 	 firm aggressive
+9 	 10 	 (NP\NP)/NP 	 1 	 firm on
+9 	 13 	 (NP\NP)/(S[ng]\NP) 	 1 	 firm in
+12 	 10 	 (NP\NP)/NP 	 2 	 Street on
+12 	 11 	 NP[nb]/N 	 1 	 Street the
+14 	 13 	 (NP\NP)/(S[ng]\NP) 	 2 	 reducing in
+15 	 14 	 (S[ng]\NP)/NP 	 2 	 costs reducing
+15 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 costs which
+15 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 costs are <XB>
+15 	 19 	 (S[adj]\NP)/PP 	 1 	 costs down <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are which
+18 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 are over
+19 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 down are
+20 	 19 	 (S[adj]\NP)/PP 	 2 	 around down
+22 	 20 	 PP/NP 	 1 	 % around
+22 	 21 	 N/N 	 1 	 % 40
+27 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 months over
+27 	 24 	 NP[nb]/N 	 1 	 months the
+27 	 25 	 N/N 	 1 	 months last
+27 	 26 	 N/N 	 1 	 months six
+<\s>

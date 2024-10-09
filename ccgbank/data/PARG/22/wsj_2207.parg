@@ -1,0 +1,622 @@
+<s id="wsj_2207.1"> 24
+3 	 0 	 NP[nb]/N 	 1 	 Subcommittee The
+3 	 1 	 N/N 	 1 	 Subcommittee House
+3 	 2 	 N/N 	 1 	 Subcommittee Aviation
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Subcommittee approved
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 bill approved
+6 	 5 	 NP[nb]/N 	 1 	 bill a
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bill that
+6 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bill would <XB>
+6 	 9 	 ((S[b]\NP)/NP)/NP 	 1 	 bill give <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give would
+12 	 9 	 ((S[b]\NP)/NP)/NP 	 3 	 secretary give
+12 	 10 	 NP[nb]/N 	 1 	 secretary the
+12 	 11 	 N/N 	 1 	 secretary transportation
+13 	 9 	 ((S[b]\NP)/NP)/NP 	 2 	 authority give
+13 	 15 	 (S[b]\NP)/NP 	 1 	 authority review <XB>
+13 	 17 	 (S[b]\NP)/NP 	 1 	 authority approve <XU>
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 review to
+17 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 approve to
+19 	 15 	 (S[b]\NP)/NP 	 2 	 buy-outs review <XU>
+19 	 17 	 (S[b]\NP)/NP 	 2 	 buy-outs approve
+19 	 18 	 N/N 	 1 	 buy-outs leveraged
+19 	 20 	 (NP\NP)/NP 	 1 	 buy-outs of
+23 	 20 	 (NP\NP)/NP 	 2 	 airlines of
+23 	 21 	 N/N 	 1 	 airlines major
+23 	 22 	 N/N 	 1 	 airlines U.S.
+<\s>
+<s id="wsj_2207.2"> 32
+2 	 0 	 NP[nb]/N 	 1 	 plan The
+2 	 1 	 N/N 	 1 	 plan collapsed
+2 	 4 	 (S[b]\NP)/NP 	 1 	 plan acquire <XB>
+2 	 13 	 (S[dcl]\NP)/NP 	 1 	 plan spurred
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+6 	 4 	 (S[b]\NP)/NP 	 2 	 Corp. acquire
+6 	 5 	 N/N 	 1 	 Corp. UAL
+8 	 4 	 (S[b]\NP)/NP 	 2 	 parent acquire
+8 	 9 	 (NP\NP)/NP 	 1 	 parent of
+11 	 9 	 (NP\NP)/NP 	 2 	 Airlines of
+11 	 10 	 N/N 	 1 	 Airlines United
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 action spurred
+15 	 14 	 N/N 	 1 	 action quick
+15 	 16 	 (NP\NP)/NP 	 1 	 action on
+18 	 16 	 (NP\NP)/NP 	 2 	 legislation on
+18 	 17 	 NP[nb]/N 	 1 	 legislation the
+18 	 20 	 S[pss]\NP 	 1 	 legislation introduced <XB>
+18 	 23 	 S[pss]\NP 	 1 	 legislation approved <XU>
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 introduced Wednesday
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 approved by
+23 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 approved on
+23 	 31 	 (S\NP)\(S\NP) 	 2 	 approved yesterday
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 subcommittee by
+26 	 25 	 NP[nb]/N 	 1 	 subcommittee the
+30 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 vote on
+30 	 28 	 NP[nb]/N 	 1 	 vote a
+30 	 29 	 N/N 	 1 	 vote voice
+<\s>
+<s id="wsj_2207.3"> 27
+1 	 0 	 NP[nb]/N 	 1 	 bill The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 bill is
+1 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 bill expected <XB>
+1 	 6 	 S[pss]\NP 	 1 	 bill taken <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+4 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+6 	 5 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 taken be
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 taken up
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 taken by
+6 	 15 	 (S\NP)\(S\NP) 	 2 	 taken tomorrow
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Works by
+11 	 9 	 NP[nb]/N 	 1 	 Works the
+11 	 10 	 N/N 	 1 	 Works Public
+14 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Committee by
+14 	 9 	 NP[nb]/N 	 1 	 Committee the
+14 	 10 	 N/N 	 1 	 Committee Public
+14 	 13 	 N/N 	 1 	 Committee Transportation
+20 	 18 	 NP[nb]/N 	 1 	 vote a
+20 	 19 	 N/N 	 1 	 vote floor
+20 	 21 	 (NP\NP)/NP 	 1 	 vote by
+20 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 vote will
+20 	 26 	 S[pss]\NP 	 1 	 vote urged <XB>
+23 	 21 	 (NP\NP)/NP 	 2 	 week by
+23 	 22 	 N/N 	 1 	 week next
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+26 	 25 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 urged be
+<\s>
+<s id="wsj_2207.4"> 32
+1 	 0 	 NP[nb]/N 	 1 	 measure The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 measure drew
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 criticism drew
+3 	 4 	 (NP\NP)/NP 	 1 	 criticism from
+7 	 4 	 (NP\NP)/NP 	 2 	 administration from
+7 	 5 	 NP[nb]/N 	 1 	 administration the
+7 	 6 	 N/N 	 1 	 administration Bush
+11 	 2 	 (S[dcl]\NP)/NP 	 2 	 shot drew
+11 	 9 	 NP[nb]/N 	 1 	 shot a
+11 	 10 	 N/N 	 1 	 shot parting
+11 	 12 	 (NP\NP)/NP 	 1 	 shot from
+15 	 12 	 (NP\NP)/NP 	 2 	 Trump from
+15 	 13 	 N/N 	 1 	 Trump financier
+15 	 14 	 N/N 	 1 	 Trump Donald
+15 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Trump who
+15 	 19 	 (S[dcl]\NP)/NP 	 1 	 Trump withdrew <XB>
+19 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 withdrew who
+19 	 18 	 (S\NP)/(S\NP) 	 2 	 withdrew yesterday
+22 	 19 	 (S[dcl]\NP)/NP 	 2 	 bid withdrew
+22 	 20 	 NP[nb]/N 	 1 	 bid his
+22 	 21 	 N/N 	 1 	 bid takeover
+22 	 23 	 (NP\NP)/NP 	 1 	 bid for
+25 	 23 	 (NP\NP)/NP 	 2 	 Corp. for
+25 	 24 	 N/N 	 1 	 Corp. AMR
+28 	 23 	 (NP\NP)/NP 	 2 	 parent for
+28 	 27 	 NP[nb]/N 	 1 	 parent the
+28 	 29 	 (NP\NP)/NP 	 1 	 parent of
+31 	 29 	 (NP\NP)/NP 	 2 	 Airlines of
+31 	 30 	 N/N 	 1 	 Airlines American
+<\s>
+<s id="wsj_2207.5"> 40
+2 	 0 	 (S/S)/NP 	 2 	 letter In
+2 	 1 	 NP[nb]/N 	 1 	 letter a
+2 	 3 	 (NP\NP)/NP 	 1 	 letter to
+7 	 3 	 (NP\NP)/NP 	 2 	 Oberstar to
+7 	 4 	 N/N 	 1 	 Oberstar subcommittee
+7 	 5 	 N/N 	 1 	 Oberstar Chairman
+7 	 6 	 N/N 	 1 	 Oberstar James
+7 	 8 	 (NP\NP)/NP 	 1 	 Oberstar -LRB-
+9 	 8 	 (NP\NP)/NP 	 2 	 D. -LRB-
+11 	 8 	 (NP\NP)/NP 	 2 	 Minn. -LRB-
+15 	 14 	 N/N 	 1 	 Trump Mr.
+15 	 16 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Trump criticized
+15 	 31 	 (S[dcl]\NP)/S[dcl] 	 1 	 Trump said <XU>
+16 	 0 	 (S/S)/NP 	 1 	 criticized In
+18 	 16 	 ((S[dcl]\NP)/PP)/NP 	 3 	 bill criticized
+18 	 17 	 NP[nb]/N 	 1 	 bill the
+19 	 16 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as criticized
+22 	 19 	 PP/NP 	 1 	 effort as
+22 	 20 	 NP[nb]/N 	 1 	 effort an
+22 	 21 	 N/N 	 1 	 effort explicit
+22 	 24 	 (S[b]\NP)/NP 	 1 	 effort thwart <XB>
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 thwart to
+26 	 24 	 (S[b]\NP)/NP 	 2 	 bid thwart
+26 	 25 	 NP[nb]/N 	 1 	 bid his
+26 	 27 	 (NP\NP)/NP 	 1 	 bid for
+28 	 27 	 (NP\NP)/NP 	 2 	 AMR for
+31 	 0 	 (S/S)/NP 	 1 	 said In
+32 	 33 	 (S[dcl]\NP)/PP 	 1 	 it contributed
+33 	 31 	 (S[dcl]\NP)/S[dcl] 	 2 	 contributed said
+34 	 33 	 (S[dcl]\NP)/PP 	 2 	 to contributed
+36 	 34 	 PP/NP 	 1 	 collapse to
+36 	 35 	 NP[nb]/N 	 1 	 collapse the
+36 	 37 	 (NP\NP)/NP 	 1 	 collapse of
+39 	 37 	 (NP\NP)/NP 	 2 	 deal of
+39 	 38 	 NP[nb]/N 	 1 	 deal the
+<\s>
+<s id="wsj_2207.6"> 24
+1 	 0 	 N/N 	 1 	 Chao Elaine
+1 	 8 	 (S[dcl]\NP)/NP 	 1 	 Chao sent
+5 	 3 	 N/N 	 1 	 secretary deputy
+5 	 4 	 N/N 	 1 	 secretary transportation
+5 	 8 	 (S[dcl]\NP)/NP 	 1 	 secretary sent
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 sent also
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 letter sent
+10 	 9 	 NP[nb]/N 	 1 	 letter a
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 express to
+14 	 13 	 NP[nb]/N 	 1 	 administration the
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 administration 's
+16 	 12 	 (S[b]\NP)/NP 	 2 	 opposition express
+16 	 15 	 (NP[nb]/N)\NP 	 1 	 opposition 's
+16 	 17 	 (NP\NP)/NP 	 1 	 opposition to
+19 	 17 	 (NP\NP)/NP 	 2 	 bill to
+19 	 18 	 NP[nb]/N 	 1 	 bill the
+19 	 20 	 (NP\NP)/NP 	 1 	 bill in
+23 	 20 	 (NP\NP)/NP 	 2 	 form in
+23 	 21 	 NP[nb]/N 	 1 	 form its
+23 	 22 	 N/N 	 1 	 form present
+<\s>
+<s id="wsj_2207.7"> 16
+1 	 0 	 N/N 	 1 	 Oberstar Rep.
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Oberstar brushed
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 brushed off
+5 	 4 	 N/N 	 1 	 Trump Mr.
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Trump 's
+7 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 allegations brushed
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 allegations 's
+8 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as brushed
+10 	 8 	 PP/NP 	 1 	 excuse as
+10 	 9 	 NP[nb]/N 	 1 	 excuse an
+10 	 11 	 ((NP\NP)/(S[ng]\NP))/NP 	 1 	 excuse for
+14 	 11 	 ((NP\NP)/(S[ng]\NP))/NP 	 3 	 deal for
+14 	 12 	 NP[nb]/N 	 1 	 deal his
+14 	 13 	 N/N 	 1 	 deal own
+14 	 15 	 S[ng]\NP 	 1 	 deal failing <XB>
+15 	 11 	 ((NP\NP)/(S[ng]\NP))/NP 	 2 	 failing for
+<\s>
+<s id="wsj_2207.8"> 27
+0 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 said also
+4 	 3 	 NP[nb]/N 	 1 	 fact the
+4 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 fact indicated
+5 	 4 	 N/S[em] 	 1 	 that fact
+8 	 6 	 NP[nb]/N 	 1 	 letter the
+8 	 7 	 N/N 	 1 	 letter other
+8 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 letter had
+8 	 11 	 (S[pt]\NP)/PP 	 1 	 letter come <XB>
+9 	 5 	 S[em]/S[dcl] 	 1 	 had that
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 had n't
+11 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 come had
+12 	 11 	 (S[pt]\NP)/PP 	 2 	 from come
+16 	 12 	 PP/NP 	 1 	 Skinner from
+16 	 13 	 N/N 	 1 	 Skinner Transportation
+16 	 14 	 N/N 	 1 	 Skinner Secretary
+16 	 15 	 N/N 	 1 	 Skinner Samuel
+17 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 indicated said
+18 	 19 	 (S[dcl]\NP[thr])/NP 	 1 	 there is
+19 	 17 	 (S[dcl]\NP)/S[dcl] 	 2 	 is indicated
+19 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 is in
+21 	 19 	 (S[dcl]\NP[thr])/NP 	 2 	 room is
+21 	 20 	 N/N 	 1 	 room wiggle
+24 	 23 	 NP[nb]/N 	 1 	 administration the
+24 	 25 	 (NP[nb]/N)\NP 	 2 	 administration 's
+26 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 position in
+26 	 25 	 (NP[nb]/N)\NP 	 1 	 position 's
+<\s>
+<s id="wsj_2207.9"> 20
+1 	 0 	 N/N 	 1 	 Oberstar Mr.
+1 	 7 	 (S[dcl]\NP)/S[em] 	 1 	 Oberstar stressed
+5 	 3 	 N/N 	 1 	 members other
+5 	 4 	 N/N 	 1 	 members committee
+5 	 7 	 (S[dcl]\NP)/S[em] 	 1 	 members stressed
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 stressed repeatedly
+8 	 7 	 (S[dcl]\NP)/S[em] 	 2 	 that stressed
+10 	 9 	 NP[nb]/N 	 1 	 legislation the
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 legislation was
+11 	 8 	 S[em]/S[dcl] 	 1 	 was that
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 was n't
+14 	 11 	 (S[dcl]\NP)/NP 	 2 	 response was
+14 	 13 	 NP[nb]/N 	 1 	 response a
+14 	 15 	 (NP\NP)/NP 	 1 	 response to
+19 	 15 	 (NP\NP)/NP 	 2 	 situation to
+19 	 16 	 NP[nb]/N 	 1 	 situation any
+19 	 17 	 N/N 	 1 	 situation particular
+19 	 18 	 N/N 	 1 	 situation market
+<\s>
+<s id="wsj_2207.10"> 17
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 they cited
+2 	 0 	 S/S 	 1 	 cited But
+2 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 cited as
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 examples cited
+7 	 3 	 NP[nb]/N 	 1 	 examples the
+7 	 4 	 N/N 	 1 	 examples UAL
+7 	 6 	 N/N 	 1 	 examples AMR
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 reasons as
+9 	 11 	 S[b]\NP 	 1 	 reasons move <XB>
+9 	 14 	 (S[b]\NP)/NP 	 1 	 reasons enact <XB>
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 move to
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 move quickly
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 enact to
+16 	 14 	 (S[b]\NP)/NP 	 2 	 legislation enact
+16 	 15 	 NP[nb]/N 	 1 	 legislation this
+<\s>
+<s id="wsj_2207.11"> 26
+0 	 2 	 (NP\NP)/NP 	 1 	 Aides in
+0 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Aides said
+2 	 1 	 (NP\NP)/(NP\NP) 	 2 	 in both
+4 	 2 	 (NP\NP)/NP 	 2 	 House in
+4 	 3 	 NP[nb]/N 	 1 	 House the
+6 	 2 	 (NP\NP)/NP 	 2 	 Senate in
+6 	 3 	 NP[nb]/N 	 1 	 Senate the
+9 	 8 	 NP[nb]/N 	 1 	 withdrawal the
+9 	 10 	 (NP\NP)/NP 	 1 	 withdrawal of
+9 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 withdrawal is
+9 	 18 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 withdrawal likely <XB>
+13 	 10 	 (NP\NP)/NP 	 2 	 bid of
+13 	 11 	 NP[nb]/N 	 1 	 bid the
+13 	 12 	 N/N 	 1 	 bid Trump
+13 	 14 	 (NP\NP)/NP 	 1 	 bid for
+15 	 14 	 (NP\NP)/NP 	 2 	 AMR for
+16 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 is n't
+18 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely is
+19 	 18 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 deflate to
+21 	 20 	 (S[b]\NP)/NP 	 2 	 efforts deflate
+21 	 23 	 (S[b]\NP)/NP 	 1 	 efforts push <XB>
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 push to
+25 	 23 	 (S[b]\NP)/NP 	 2 	 legislation push
+25 	 24 	 NP[nb]/N 	 1 	 legislation the
+<\s>
+<s id="wsj_2207.12"> 19
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 It 's
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 's still
+1 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 's said
+3 	 1 	 (S[dcl]\NP)/PP 	 2 	 on 's
+6 	 3 	 PP/NP 	 1 	 track on
+6 	 4 	 NP[nb]/N 	 1 	 track the
+6 	 5 	 N/N 	 1 	 track fast
+8 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 we want
+8 	 12 	 (S[b]\NP)/NP 	 1 	 we do <XB>
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 want still
+10 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 want said
+11 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to want
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+13 	 12 	 (S[b]\NP)/NP 	 2 	 it do
+18 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 aide said
+18 	 16 	 N/N 	 1 	 aide one
+18 	 17 	 N/N 	 1 	 aide Senate
+<\s>
+<s id="wsj_2207.13"> 26
+1 	 0 	 NP[nb]/N 	 1 	 bill The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 bill is
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 bill aimed <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 aimed is
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 at aimed
+5 	 4 	 PP/(S[ng]\NP) 	 1 	 addressing at
+7 	 5 	 (S[ng]\NP)/NP 	 2 	 concern addressing
+7 	 6 	 NP[nb]/N 	 1 	 concern the
+8 	 7 	 N/S[em] 	 1 	 that concern
+10 	 9 	 NP[nb]/N 	 1 	 airline an
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 airline might
+10 	 12 	 (S[b]\NP)/NP 	 1 	 airline sacrifice <XB>
+10 	 17 	 (S[b]\NP)/NP 	 1 	 airline pay <XB>
+11 	 8 	 S[em]/S[dcl] 	 1 	 might that
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 sacrifice might
+15 	 12 	 (S[b]\NP)/NP 	 2 	 measures sacrifice
+15 	 13 	 N/N 	 1 	 measures costly
+15 	 14 	 N/N 	 1 	 measures safety
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 pay off
+20 	 17 	 (S[b]\NP)/NP 	 2 	 debt pay
+20 	 19 	 NP[nb]/N 	 1 	 debt the
+20 	 21 	 S[pss]\NP 	 1 	 debt incurred <XB>
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 incurred in
+25 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 buy-out in
+25 	 23 	 NP[nb]/N 	 1 	 buy-out a
+25 	 24 	 N/N 	 1 	 buy-out leveraged
+<\s>
+<s id="wsj_2207.14"> 33
+4 	 2 	 NP[nb]/N 	 1 	 secretary the
+4 	 3 	 N/N 	 1 	 secretary transportation
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 secretary does
+4 	 7 	 (S[b]\NP)/NP 	 1 	 secretary have <XB>
+4 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 secretary can <XU>
+4 	 17 	 (S[b]\NP)/NP 	 1 	 secretary take <XU>
+5 	 0 	 S/S 	 1 	 does Currently
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 does n't
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have does
+9 	 8 	 (N/N)/(N/N) 	 2 	 established clearly
+10 	 7 	 (S[b]\NP)/NP 	 2 	 authority have
+10 	 9 	 N/N 	 1 	 authority established
+10 	 11 	 (NP\NP)/NP 	 1 	 authority to
+13 	 11 	 (NP\NP)/NP 	 2 	 mergers to
+13 	 12 	 N/N 	 1 	 mergers block
+16 	 0 	 S/S 	 1 	 can Currently
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take can
+20 	 17 	 (S[b]\NP)/NP 	 2 	 step take
+20 	 18 	 NP[nb]/N 	 1 	 step the
+20 	 19 	 N/N 	 1 	 step drastic
+20 	 21 	 (NP\NP)/(S[ng]\NP) 	 1 	 step of
+22 	 21 	 (NP\NP)/(S[ng]\NP) 	 2 	 revoking of
+25 	 22 	 (S[ng]\NP)/NP 	 2 	 certificate revoking
+25 	 23 	 NP[nb]/N 	 1 	 certificate the
+25 	 24 	 N/N 	 1 	 certificate operating
+25 	 26 	 (NP\NP)/NP 	 1 	 certificate of
+28 	 26 	 (NP\NP)/NP 	 2 	 carrier of
+28 	 27 	 NP[nb]/N 	 1 	 carrier any
+28 	 31 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 carrier considers <XU>
+28 	 32 	 S[adj]\NP 	 1 	 carrier unfit <XU>
+30 	 29 	 NP[nb]/N 	 1 	 official the
+30 	 31 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 official considers
+32 	 31 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 unfit considers
+<\s>
+<s id="wsj_2207.15"> 30
+0 	 1 	 (NP\NP)/NP 	 1 	 Supporters of
+0 	 4 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Supporters view
+3 	 1 	 (NP\NP)/NP 	 2 	 legislation of
+3 	 2 	 NP[nb]/N 	 1 	 legislation the
+6 	 4 	 ((S[dcl]\NP)/PP)/NP 	 3 	 bill view
+6 	 5 	 NP[nb]/N 	 1 	 bill the
+7 	 4 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as view
+9 	 7 	 PP/NP 	 1 	 effort as
+9 	 8 	 NP[nb]/N 	 1 	 effort an
+9 	 11 	 ((S[b]\NP)/PP)/NP 	 1 	 effort add <XB>
+9 	 22 	 (S[b]\NP)/NP 	 1 	 effort preserve <XU>
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 add to
+12 	 11 	 ((S[b]\NP)/PP)/NP 	 3 	 stability add
+14 	 11 	 ((S[b]\NP)/PP)/NP 	 3 	 certainty add
+15 	 11 	 ((S[b]\NP)/PP)/NP 	 2 	 to add
+18 	 15 	 PP/NP 	 1 	 process to
+18 	 16 	 NP[nb]/N 	 1 	 process the
+18 	 17 	 N/N 	 1 	 process airline-acquisition
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 preserve to
+24 	 22 	 (S[b]\NP)/NP 	 2 	 safety preserve
+24 	 23 	 NP[nb]/N 	 1 	 safety the
+24 	 27 	 (NP\NP)/NP 	 1 	 safety of
+26 	 22 	 (S[b]\NP)/NP 	 2 	 fitness preserve
+26 	 23 	 NP[nb]/N 	 1 	 fitness the
+26 	 27 	 (NP\NP)/NP 	 1 	 fitness of
+29 	 27 	 (NP\NP)/NP 	 2 	 industry of
+29 	 28 	 NP[nb]/N 	 1 	 industry the
+<\s>
+<s id="wsj_2207.16"> 32
+1 	 0 	 (S/S)/(S[adj]\NP) 	 2 	 general In
+4 	 3 	 NP[nb]/N 	 1 	 bill the
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bill would
+4 	 6 	 ((S[b]\NP)/NP)/NP 	 1 	 bill give <XB>
+5 	 0 	 (S/S)/(S[adj]\NP) 	 1 	 would In
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give would
+6 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 give before
+9 	 6 	 ((S[b]\NP)/NP)/NP 	 3 	 Department give
+9 	 7 	 NP[nb]/N 	 1 	 Department the
+9 	 8 	 N/N 	 1 	 Department Transportation
+13 	 6 	 ((S[b]\NP)/NP)/NP 	 2 	 period give
+13 	 10 	 NP[nb]/N 	 1 	 period a
+13 	 11 	 N/N 	 1 	 period 30-day
+13 	 12 	 N/N 	 1 	 period review
+16 	 15 	 N/N 	 1 	 % 15
+16 	 18 	 NP\NP 	 1 	 % more
+16 	 19 	 (NP\NP)/NP 	 1 	 % of
+16 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 % could
+16 	 31 	 S[pss]\NP 	 1 	 % acquired <XB>
+18 	 17 	 (NP\NP)/(NP\NP) 	 2 	 more or
+22 	 19 	 (NP\NP)/NP 	 2 	 stock of
+22 	 20 	 NP[nb]/N 	 1 	 stock the
+22 	 21 	 N/N 	 1 	 stock voting
+22 	 23 	 (NP\NP)/NP 	 1 	 stock of
+28 	 23 	 (NP\NP)/NP 	 2 	 carrier of
+28 	 24 	 NP[nb]/N 	 1 	 carrier a
+28 	 25 	 N/N 	 1 	 carrier major
+28 	 26 	 N/N 	 1 	 carrier U.S.
+28 	 27 	 N/N 	 1 	 carrier air
+29 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 could before
+30 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+31 	 30 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 acquired be
+<\s>
+<s id="wsj_2207.17"> 25
+0 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 It would
+0 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 It require <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 would also
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 require would
+6 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 party require
+6 	 4 	 NP[nb]/N 	 1 	 party the
+6 	 5 	 N/N 	 1 	 party acquiring
+6 	 8 	 (S[b]\NP)/NP 	 1 	 party notify <XB>
+6 	 14 	 (S[b]\NP)/NP 	 1 	 party provide <XU>
+7 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to require
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 notify to
+11 	 8 	 (S[b]\NP)/NP 	 2 	 secretary notify
+11 	 9 	 NP[nb]/N 	 1 	 secretary the
+11 	 10 	 N/N 	 1 	 secretary transportation
+13 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to require
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provide to
+16 	 14 	 (S[b]\NP)/NP 	 2 	 information provide
+16 	 15 	 NP[nb]/N 	 1 	 information all
+16 	 17 	 S[adj]\NP 	 1 	 information relevant <XB>
+17 	 18 	 ((S[adj]\NP)\(S[adj]\NP))/(S[ng]\NP) 	 2 	 relevant to
+19 	 18 	 ((S[adj]\NP)\(S[adj]\NP))/(S[ng]\NP) 	 3 	 determining to
+21 	 19 	 (S[ng]\NP)/NP 	 2 	 intent determining
+21 	 20 	 NP[nb]/N 	 1 	 intent the
+21 	 22 	 (NP\NP)/NP 	 1 	 intent of
+24 	 22 	 (NP\NP)/NP 	 2 	 acquisition of
+24 	 23 	 NP[nb]/N 	 1 	 acquisition the
+<\s>
+<s id="wsj_2207.18"> 52
+1 	 0 	 NP[nb]/N 	 1 	 bill The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bill would
+1 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 bill allow <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 allow would
+5 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 secretary allow
+5 	 4 	 NP[nb]/N 	 1 	 secretary the
+5 	 7 	 (S[b]\NP)/NP 	 1 	 secretary reject <XB>
+6 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reject to
+7 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 reject if
+7 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 reject if <XU>
+9 	 7 	 (S[b]\NP)/NP 	 2 	 buy-out reject
+9 	 8 	 NP[nb]/N 	 1 	 buy-out a
+12 	 11 	 N/N 	 1 	 information sufficient
+12 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 information has
+12 	 16 	 S[pss]\NP 	 1 	 information provided <XB>
+13 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has if
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 has n't
+15 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+16 	 15 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 provided been
+21 	 20 	 NP[nb]/N 	 1 	 buy-out the
+21 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 buy-out is
+21 	 23 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 buy-out likely <XB>
+22 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is if
+23 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely is
+24 	 23 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 weaken to
+25 	 28 	 (S\NP)\(S\NP) 	 2 	 weaken financially
+27 	 25 	 (S[b]\NP)/NP 	 2 	 carrier weaken
+27 	 26 	 NP[nb]/N 	 1 	 carrier the
+30 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 result to
+30 	 40 	 ((S\NP)\(S\NP))/NP 	 2 	 result through
+31 	 30 	 (S[b]\NP)/PP 	 2 	 in result
+34 	 31 	 PP/NP 	 1 	 reduction in
+34 	 32 	 NP[nb]/N 	 1 	 reduction a
+34 	 33 	 N/N 	 1 	 reduction substantial
+34 	 35 	 (NP\NP)/NP 	 1 	 reduction in
+36 	 35 	 (NP\NP)/NP 	 2 	 size in
+36 	 37 	 (NP\NP)/NP 	 1 	 size of
+39 	 37 	 (NP\NP)/NP 	 2 	 airline of
+39 	 38 	 NP[nb]/N 	 1 	 airline the
+41 	 40 	 ((S\NP)\(S\NP))/NP 	 3 	 disposal through
+41 	 42 	 (NP\NP)/NP 	 1 	 disposal of
+43 	 42 	 (NP\NP)/NP 	 2 	 assets of
+46 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give to
+47 	 46 	 ((S[b]\NP)/PP)/NP 	 3 	 control give
+48 	 46 	 ((S[b]\NP)/PP)/NP 	 2 	 to give
+51 	 48 	 PP/NP 	 1 	 interest to
+51 	 49 	 NP[nb]/N 	 1 	 interest a
+51 	 50 	 N/N 	 1 	 interest foreign
+<\s>
+<s id="wsj_2207.19"> 18
+2 	 1 	 N/N 	 1 	 information more
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 information is
+2 	 4 	 S[pss]\NP 	 1 	 information needed <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 is If
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 needed is
+7 	 6 	 NP[nb]/N 	 1 	 secretary the
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 secretary would
+7 	 9 	 (S[b]\NP)/NP 	 1 	 secretary have <XB>
+8 	 0 	 (S/S)/S[dcl] 	 1 	 would If
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+10 	 9 	 (S[b]\NP)/NP 	 2 	 authority have
+10 	 12 	 (S[b]\NP)/NP 	 1 	 authority extend <XB>
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 extend to
+12 	 17 	 (S\NP)\(S\NP) 	 2 	 extend days
+15 	 12 	 (S[b]\NP)/NP 	 2 	 period extend
+15 	 13 	 NP[nb]/N 	 1 	 period the
+15 	 14 	 N/N 	 1 	 period review
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 days 20
+<\s>
+<s id="wsj_2207.20"> 34
+2 	 0 	 NP/NP 	 1 	 witnesses All
+2 	 1 	 NP[nb]/N 	 1 	 witnesses the
+2 	 10 	 (S[dcl]\NP)/NP 	 1 	 witnesses expressed
+5 	 0 	 NP/NP 	 1 	 congressmen All
+5 	 4 	 NP/NP 	 1 	 congressmen both
+5 	 10 	 (S[dcl]\NP)/NP 	 1 	 congressmen expressed
+8 	 0 	 NP/NP 	 1 	 experts All
+8 	 4 	 NP/NP 	 1 	 experts both
+8 	 7 	 N/N 	 1 	 experts industry
+8 	 10 	 (S[dcl]\NP)/NP 	 1 	 experts expressed
+10 	 15 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 2 	 expressed in
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 support expressed
+11 	 12 	 (NP\NP)/NP 	 1 	 support for
+14 	 12 	 (NP\NP)/NP 	 2 	 bill for
+14 	 13 	 NP[nb]/N 	 1 	 bill the
+16 	 15 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 4 	 order in
+17 	 15 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 3 	 to in
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 prevent to
+19 	 18 	 ((S[b]\NP)/PP)/NP 	 3 	 profiteers prevent
+20 	 18 	 ((S[b]\NP)/PP)/NP 	 2 	 from prevent
+21 	 20 	 PP/(S[ng]\NP) 	 1 	 cashing from
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 cashing in
+21 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 cashing at
+23 	 21 	 (S[ng]\NP)/PP 	 2 	 on cashing
+25 	 23 	 PP/NP 	 1 	 profits on
+25 	 24 	 N/N 	 1 	 profits airline
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 expense at
+28 	 27 	 NP[nb]/N 	 1 	 expense the
+28 	 29 	 (NP\NP)/NP 	 1 	 expense of
+33 	 29 	 (NP\NP)/NP 	 2 	 service of
+33 	 30 	 N/N 	 1 	 service safe
+33 	 32 	 N/N 	 1 	 service cost-effective
+<\s>
+<s id="wsj_2207.21"> 28
+3 	 1 	 N/N 	 1 	 members several
+3 	 2 	 N/N 	 1 	 members committee
+3 	 4 	 S[dcl]\NP 	 1 	 members disapproved
+4 	 0 	 S/S 	 1 	 disapproved But
+6 	 7 	 (S[ng]\NP)/NP 	 1 	 some backing
+9 	 8 	 N/N 	 1 	 Trump Mr.
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Trump 's
+11 	 7 	 (S[ng]\NP)/NP 	 2 	 claim backing
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 claim 's
+12 	 11 	 N/S[em] 	 1 	 that claim
+14 	 13 	 NP[nb]/N 	 1 	 threat the
+14 	 15 	 (NP\NP)/NP 	 1 	 threat of
+14 	 17 	 (S[dcl]\NP)/NP 	 1 	 threat caused
+16 	 15 	 (NP\NP)/NP 	 2 	 regulation of
+17 	 12 	 S[em]/S[dcl] 	 1 	 caused that
+19 	 17 	 (S[dcl]\NP)/NP 	 2 	 failure caused
+19 	 18 	 NP[nb]/N 	 1 	 failure the
+19 	 20 	 (NP\NP)/NP 	 1 	 failure of
+23 	 20 	 (NP\NP)/NP 	 2 	 deal of
+23 	 21 	 NP[nb]/N 	 1 	 deal the
+23 	 22 	 N/N 	 1 	 deal UAL
+27 	 17 	 (S[dcl]\NP)/NP 	 2 	 plunge caused
+27 	 25 	 NP[nb]/N 	 1 	 plunge the
+27 	 26 	 N/N 	 1 	 plunge stock-market
+<\s>
+<s id="wsj_2207.22"> 27
+0 	 1 	 (NP\NP)/NP 	 1 	 One of
+0 	 9 	 (S[dcl]\NP)/S[em] 	 1 	 One was
+4 	 1 	 (NP\NP)/NP 	 2 	 concerns of
+4 	 2 	 NP[nb]/N 	 1 	 concerns the
+4 	 3 	 N/N 	 1 	 concerns major
+4 	 5 	 S[pss]\NP 	 1 	 concerns expressed <XB>
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 expressed by
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 dissenters by
+8 	 7 	 NP[nb]/N 	 1 	 dissenters the
+10 	 9 	 (S[dcl]\NP)/S[em] 	 2 	 that was
+12 	 11 	 N/N 	 1 	 airlines large
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 airlines would
+12 	 15 	 (S[pss]\NP)/PP 	 1 	 airlines prohibited <XB>
+13 	 10 	 S[em]/S[dcl] 	 1 	 would that
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+15 	 14 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 prohibited be
+16 	 15 	 (S[pss]\NP)/PP 	 2 	 from prohibited
+17 	 16 	 PP/(S[ng]\NP) 	 1 	 divesting from
+18 	 17 	 ((S[ng]\NP)/PP)/NP 	 3 	 themselves divesting
+19 	 17 	 ((S[ng]\NP)/PP)/NP 	 2 	 of divesting
+21 	 19 	 PP/NP 	 1 	 entities of
+21 	 20 	 N/N 	 1 	 entities smaller
+23 	 16 	 PP/(S[ng]\NP) 	 1 	 producing from
+26 	 23 	 (S[ng]\NP)/NP 	 2 	 companies producing
+26 	 24 	 N/N 	 1 	 companies independent
+26 	 25 	 N/N 	 1 	 companies spin-off
+<\s>

@@ -1,0 +1,149 @@
+<s id="wsj_1739.1"> 25
+2 	 0 	 N/N 	 1 	 Co. Bristol-Myers
+2 	 1 	 N/N 	 1 	 Co. Squibb
+2 	 5 	 NP\NP 	 1 	 Co. York
+2 	 15 	 (S[dcl]\NP)/NP 	 1 	 Co. reported
+5 	 4 	 (NP\NP)/(NP\NP) 	 2 	 York New
+9 	 8 	 (N/N)/(N/N) 	 2 	 merged newly
+10 	 7 	 NP[nb]/N 	 1 	 drug the
+10 	 9 	 N/N 	 1 	 drug merged
+10 	 15 	 (S[dcl]\NP)/NP 	 1 	 drug reported
+13 	 7 	 NP[nb]/N 	 1 	 company the
+13 	 9 	 N/N 	 1 	 company merged
+13 	 12 	 N/N 	 1 	 company health-care-product
+13 	 15 	 (S[dcl]\NP)/NP 	 1 	 company reported
+18 	 15 	 (S[dcl]\NP)/NP 	 2 	 earnings reported
+18 	 16 	 N/N 	 1 	 earnings record
+18 	 17 	 N/N 	 1 	 earnings third-quarter
+18 	 19 	 (NP\NP)/NP 	 1 	 earnings for
+21 	 19 	 (NP\NP)/NP 	 2 	 companies for
+21 	 20 	 NP[nb]/N 	 1 	 companies both
+21 	 22 	 (NP\NP)/NP 	 1 	 companies in
+24 	 22 	 (NP\NP)/NP 	 2 	 merger in
+24 	 23 	 NP[nb]/N 	 1 	 merger the
+<\s>
+<s id="wsj_1739.2"> 24
+1 	 0 	 N/N 	 1 	 Co. Bristol-Myers
+1 	 10 	 S[dcl]\NP 	 1 	 Co. merged
+4 	 3 	 N/N 	 1 	 Corp. Squibb
+4 	 6 	 NP\NP 	 1 	 Corp. Princeton
+4 	 8 	 NP\NP 	 1 	 Corp. N.J. <XU>
+4 	 10 	 S[dcl]\NP 	 1 	 Corp. merged
+10 	 11 	 ((S\NP)\(S\NP))/N[num] 	 2 	 merged Oct.
+12 	 11 	 ((S\NP)\(S\NP))/N[num] 	 3 	 4 Oct.
+17 	 15 	 NP[nb]/N 	 1 	 company the
+17 	 16 	 N/N 	 1 	 company new
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 company reported
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 earnings reported
+20 	 19 	 N/N 	 1 	 earnings third-period
+20 	 21 	 (NP\NP)/NP 	 1 	 earnings for
+23 	 21 	 (NP\NP)/NP 	 2 	 companies for
+23 	 22 	 NP[nb]/N 	 1 	 companies both
+<\s>
+<s id="wsj_1739.3"> 13
+3 	 0 	 (S/S)/NP 	 2 	 quarter For
+3 	 1 	 NP[nb]/N 	 1 	 quarter the
+3 	 2 	 N/N 	 1 	 quarter fourth
+6 	 5 	 N/N 	 1 	 Squibb Bristol-Myers
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Squibb will
+6 	 8 	 (S[b]\NP)/NP 	 1 	 Squibb report <XB>
+7 	 0 	 (S/S)/NP 	 1 	 will For
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 report will
+10 	 8 	 (S[b]\NP)/NP 	 2 	 set report
+10 	 9 	 N/N 	 1 	 set one
+10 	 11 	 (NP\NP)/NP 	 1 	 set of
+12 	 11 	 (NP\NP)/NP 	 2 	 earnings of
+<\s>
+<s id="wsj_1739.4"> 32
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Bristol-Myers said
+3 	 2 	 N/N 	 1 	 income net
+3 	 4 	 S[dcl]\NP 	 1 	 income rose
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 rose said
+4 	 6 	 (S\NP)\(S\NP) 	 2 	 rose %
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+4 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 15
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 266.2
+14 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+14 	 13 	 N/N 	 1 	 cents 93
+14 	 15 	 (NP\NP)/N 	 1 	 cents a
+16 	 15 	 (NP\NP)/N 	 2 	 share a
+18 	 31 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 3 	 from earlier
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 232.3
+25 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+25 	 24 	 N/N 	 1 	 cents 81
+25 	 26 	 (NP\NP)/N 	 1 	 cents a
+27 	 26 	 (NP\NP)/N 	 2 	 share a
+30 	 29 	 NP[nb]/N 	 1 	 year a
+30 	 31 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 4 	 year earlier
+<\s>
+<s id="wsj_1739.5"> 12
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Sales gained
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 gained to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 gained from
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 % gained
+3 	 2 	 N/N 	 1 	 % 5
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 1.59
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 1.52
+<\s>
+<s id="wsj_1739.6"> 28
+1 	 0 	 N/N 	 1 	 Corp. Squibb
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+3 	 4 	 S[dcl]\NP 	 1 	 net rose
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 rose said
+4 	 6 	 (S\NP)\(S\NP) 	 2 	 rose %
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+4 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 17
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 144.5
+13 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+13 	 15 	 (NP\NP)/N 	 1 	 $ a
+14 	 13 	 N/N[num] 	 1 	 1.47 $
+16 	 15 	 (NP\NP)/N 	 2 	 share a
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 123
+24 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+24 	 26 	 (NP\NP)/N 	 1 	 $ a
+25 	 24 	 N/N[num] 	 1 	 1.25 $
+27 	 26 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_1739.7"> 13
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Sales were
+1 	 6 	 (((S\NP)\(S\NP))/PP)/NP 	 2 	 were up
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 $ were
+4 	 2 	 N/N[num] 	 1 	 million $
+4 	 3 	 N/N 	 1 	 million 730.1
+8 	 6 	 (((S\NP)\(S\NP))/PP)/NP 	 4 	 % up
+8 	 7 	 N/N 	 1 	 % 7
+9 	 6 	 (((S\NP)\(S\NP))/PP)/NP 	 3 	 from up
+10 	 9 	 PP/NP 	 1 	 $ from
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 679.5
+<\s>
+<s id="wsj_1739.8"> 16
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+9 	 8 	 N/N 	 1 	 Squibb Bristol-Myers
+9 	 10 	 S[dcl]\NP 	 1 	 Squibb rose
+10 	 0 	 (S/S)/NP 	 1 	 rose In
+10 	 11 	 ((S\NP)\(S\NP))/N[num] 	 2 	 rose $
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+12 	 11 	 ((S\NP)\(S\NP))/N[num] 	 3 	 1.75 $
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+15 	 14 	 N/N[num] 	 1 	 52.75 $
+<\s>

@@ -1,0 +1,189 @@
+<s id="wsj_1872.1"> 21
+2 	 0 	 N/N 	 1 	 Corp. Resolution
+2 	 1 	 N/N 	 1 	 Corp. Funding
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Corp. plans
+2 	 5 	 (S[b]\NP)/NP 	 1 	 Corp. sell <XB>
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+5 	 12 	 (S\NP)\(S\NP) 	 2 	 sell Wednesday
+5 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 sell in
+6 	 5 	 (S[b]\NP)/NP 	 2 	 $ sell
+6 	 9 	 (NP\NP)/NP 	 1 	 $ of
+8 	 6 	 N/N[num] 	 1 	 billion $
+8 	 7 	 N/N 	 1 	 billion 4.5
+11 	 9 	 (NP\NP)/NP 	 2 	 bonds of
+11 	 10 	 N/N 	 1 	 bonds 30-year
+15 	 14 	 NP[nb]/N 	 1 	 agency the
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 agency 's
+18 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 sale in
+18 	 16 	 (NP[nb]/N)\NP 	 1 	 sale 's
+18 	 17 	 N/N 	 1 	 sale first
+18 	 19 	 (NP\NP)/NP 	 1 	 sale of
+20 	 19 	 (NP\NP)/NP 	 2 	 securities of
+<\s>
+<s id="wsj_1872.2"> 14
+2 	 0 	 NP[nb]/N 	 1 	 bonds The
+2 	 1 	 N/N 	 1 	 bonds new
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bonds will
+2 	 5 	 (S[pss]\NP)/NP 	 1 	 bonds dated <XB>
+2 	 9 	 S[b]\NP 	 1 	 bonds mature <XU>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 dated be
+6 	 5 	 (S[pss]\NP)/NP 	 2 	 Oct. dated
+7 	 6 	 N/N[num] 	 1 	 30 Oct.
+9 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 mature will
+9 	 10 	 ((S\NP)\(S\NP))/N[num] 	 2 	 mature Oct.
+10 	 13 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 Oct. 2019
+11 	 10 	 ((S\NP)\(S\NP))/N[num] 	 3 	 15 Oct.
+<\s>
+<s id="wsj_1872.3"> 25
+0 	 1 	 (NP\NP)/NP 	 1 	 Tenders for
+0 	 5 	 S[adj]\NP 	 1 	 Tenders available <XB>
+0 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Tenders must
+0 	 15 	 S[pss]\NP 	 1 	 Tenders received <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 bonds for
+3 	 2 	 NP[nb]/N 	 1 	 bonds the
+5 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 available in
+8 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 denominations in
+8 	 7 	 N/N 	 1 	 denominations minimum
+8 	 9 	 (NP\NP)/NP 	 1 	 denominations of
+10 	 9 	 (NP\NP)/NP 	 2 	 $ of
+11 	 10 	 N/N[num] 	 1 	 1,000 $
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be must
+15 	 14 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 received be
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 received by
+15 	 20 	 (S\NP)\(S\NP) 	 2 	 received Wednesday
+15 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 received at
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 EDT by
+19 	 17 	 N/N 	 1 	 EDT 1
+19 	 18 	 N/N 	 1 	 EDT p.m.
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 banks at
+24 	 22 	 N/N 	 1 	 banks Federal
+24 	 23 	 N/N 	 1 	 banks Reserve
+<\s>
+<s id="wsj_1872.4"> 23
+0 	 2 	 S[pss]\NP 	 1 	 Refcorp created <XB>
+0 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Refcorp will
+0 	 12 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 Refcorp use <XB>
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 created by
+6 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 law by
+6 	 4 	 NP[nb]/N 	 1 	 law the
+6 	 5 	 N/N 	 1 	 law thrift-overhaul
+6 	 7 	 S[pss]\NP 	 1 	 law enacted <XB>
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 enacted in
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 August in
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 use will
+14 	 12 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 proceeds use
+14 	 13 	 NP[nb]/N 	 1 	 proceeds the
+14 	 16 	 (S[b]\NP)/NP 	 1 	 proceeds merge <XB>
+14 	 18 	 (S[b]\NP)/NP 	 1 	 proceeds sell <XU>
+15 	 12 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to use
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 merge to
+18 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 sell off
+22 	 16 	 (S[b]\NP)/NP 	 2 	 institutions merge <XU>
+22 	 18 	 (S[b]\NP)/NP 	 2 	 institutions sell
+22 	 20 	 N/N 	 1 	 institutions ailing
+22 	 21 	 N/N 	 1 	 institutions savings-and-loan
+<\s>
+<s id="wsj_1872.5"> 14
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Congress authorized
+0 	 9 	 (S[b]\NP)/PP 	 1 	 Congress pay <XB>
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 $ authorized
+4 	 2 	 N/N[num] 	 1 	 billion $
+4 	 3 	 N/N 	 1 	 billion 50
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+7 	 6 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 borrowed be
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+10 	 9 	 (S[b]\NP)/PP 	 2 	 for pay
+13 	 10 	 PP/NP 	 1 	 bailout for
+13 	 11 	 NP[nb]/N 	 1 	 bailout the
+13 	 12 	 N/N 	 1 	 bailout thrift
+<\s>
+<s id="wsj_1872.6"> 15
+2 	 0 	 (S/S)/NP 	 2 	 amount Of
+2 	 1 	 NP[nb]/N 	 1 	 amount that
+4 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 $ has
+4 	 10 	 S[pss]\NP 	 1 	 $ borrowed <XB>
+6 	 4 	 N/N[num] 	 1 	 billion $
+6 	 5 	 N/N 	 1 	 billion 20
+7 	 0 	 (S/S)/NP 	 1 	 has Of
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 has already
+9 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+10 	 9 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 borrowed been
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 borrowed by
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Department by
+14 	 12 	 NP[nb]/N 	 1 	 Department the
+14 	 13 	 N/N 	 1 	 Department Treasury
+<\s>
+<s id="wsj_1872.7"> 19
+2 	 0 	 (S/S)/(S[pss]\NP) 	 2 	 specified Unless
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 specified otherwise
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 specified in
+6 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 offer in
+6 	 4 	 NP[nb]/N 	 1 	 offer a
+6 	 5 	 N/N 	 1 	 offer particular
+9 	 8 	 NP[nb]/N 	 1 	 bonds the
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bonds wo
+9 	 13 	 (S[adj]\NP)/PP 	 1 	 bonds subject <XB>
+10 	 0 	 (S/S)/(S[pss]\NP) 	 1 	 wo Unless
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 wo n't
+12 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be wo
+12 	 16 	 ((S\NP)\(S\NP))/PP 	 2 	 be prior
+13 	 12 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 subject be
+14 	 13 	 (S[adj]\NP)/PP 	 2 	 to subject
+15 	 14 	 PP/NP 	 1 	 redemption to
+17 	 16 	 ((S\NP)\(S\NP))/PP 	 3 	 to prior
+18 	 17 	 PP/NP 	 1 	 maturity to
+<\s>
+<s id="wsj_1872.8"> 9
+1 	 0 	 N/N 	 1 	 payments Interest
+1 	 2 	 (NP\NP)/NP 	 1 	 payments on
+1 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 payments will
+1 	 7 	 S[adj]\NP 	 1 	 payments payable <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 bonds on
+4 	 3 	 NP[nb]/N 	 1 	 bonds the
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 be semiannually
+7 	 6 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 payable be
+<\s>
+<s id="wsj_1872.9"> 14
+1 	 0 	 NP[nb]/N 	 1 	 bonds The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 bonds are
+1 	 3 	 (S[adj]\NP)/PP 	 1 	 bonds subject <XB>
+2 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 are in
+2 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 are including
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 subject are
+4 	 3 	 (S[adj]\NP)/PP 	 2 	 to subject
+6 	 4 	 PP/NP 	 1 	 taxation to
+6 	 5 	 N/N 	 1 	 taxation federal
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. in
+9 	 8 	 NP[nb]/N 	 1 	 U.S. the
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 taxes including
+13 	 12 	 N/N 	 1 	 taxes income
+<\s>
+<s id="wsj_1872.10"> 30
+5 	 0 	 (S/S)/NP 	 2 	 level At
+5 	 1 	 NP[nb]/N 	 1 	 level the
+5 	 2 	 N/N 	 1 	 level state <XU>
+5 	 4 	 N/N 	 1 	 level local
+8 	 7 	 NP[nb]/N 	 1 	 bonds the
+8 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 bonds are
+8 	 10 	 (S[adj]\NP)/PP 	 1 	 bonds subject <XB>
+8 	 22 	 (S[adj]\NP)/PP 	 1 	 bonds exempt <XU>
+9 	 0 	 (S/S)/NP 	 1 	 are At
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 subject are
+11 	 10 	 (S[adj]\NP)/PP 	 2 	 to subject
+12 	 11 	 PP/NP 	 1 	 surtaxes to
+19 	 11 	 PP/NP 	 1 	 taxes to
+19 	 14 	 N/N 	 1 	 taxes estate
+19 	 16 	 N/N 	 1 	 taxes inheritance
+19 	 18 	 N/N 	 1 	 taxes gift
+22 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 exempt are
+23 	 22 	 (S[adj]\NP)/PP 	 2 	 from exempt
+24 	 23 	 PP/NP 	 1 	 taxation from
+24 	 25 	 (NP\NP)/PP 	 1 	 taxation as
+26 	 25 	 (NP\NP)/PP 	 2 	 to as
+27 	 26 	 PP/NP 	 1 	 principal to
+29 	 26 	 PP/NP 	 1 	 interest to
+<\s>

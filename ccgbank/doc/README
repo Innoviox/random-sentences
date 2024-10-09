@@ -1,0 +1,102 @@
+
+
+	CCGbank README 
+	==============
+	
+
+Publication title:	CCGbank 1.1
+
+Authors:		Julia Hockenmaier and Mark Steedman
+
+Addresses:		Julia Hockenmaier is currently at:
+			Institute for Research in Cognitive Science
+			University of Pennsylvania 
+			3401 Walnut Street, Suite 400A
+			Philadelphia, PA 19104-6228, USA
+
+			Mark Steedman
+			School of Informatics
+			University of Edinburgh
+			2 Buccleuch Place
+			Edinburgh, EH8 9LW
+			Scotland, United Kingdom
+
+Email:			juliahr@cis.upenn.edu, steedman@inf.ed.ac.uk
+
+
+Data type:		Text 
+
+
+Data sources:		The parsed Wall Street Journal subcorpus of the Penn Treebank II  
+
+
+Project:		Edinburgh Wide-Coverage CCG parsing project.
+			http://groups.inf.ed.ac.uk/ccg
+	
+			The purpose of this project is to develop wide-coverage statistical parsers for
+			Combinatory Categorial Grammar. 
+			CCGbank has been used to develop state-of-the-art wide-coverage statistical parsers
+			for Combinatory Categorial Grammar 
+			(Hockenmaier and Steedman (2002), Clark, Hockenmaier and Steedman (2002), 
+			Hockenmaier (2003a,b), Clark and Curran (2003,2004)), 
+			as well as CCG supertaggers (Clark and Curran, 2004). 
+			So far, these parsers have been used for semantic role labeling 
+			(Gildea and Hockenmaier, 2003), to create Discourse-Representation-Theory structure
+			(Bos et. al, 2004), as well as in question-answering systems 
+			(Clark, Steedman and Curran, 2004). 	
+
+
+Applications: 		Parsing, natural language processing
+
+Languages: 		American English
+
+	
+License:		
+
+
+Grant:			EPSRC grant GR/M96889 and an EPSRC studentship
+
+
+Copyright:		Julia Hockenmaier and Mark Steedman. 
+			Portions (c) Trustees of the University of Pennsylvania.
+
+
+Corpus structure and data attributes: 
+		
+  	Data type:	Text.
+	
+    	File format:	There are three different file formats: human-readable HTML files
+    			that contain the syntactic derivations and the predicate-argument
+    			structure, predicate-argument-structure files that contain the
+   			predicate-argument structure representation of each sentence (for
+    			evaluation), and derivation files that contain the syntactic
+    			derivations (to train parsers). 
+    			These file formats are described in detail in the appendix of the tech report. 
+
+	Number of files: 2,338 files in HTML version (including index.html files) 
+			 2,312 files in AUTO version 
+			 2,312 files in PARG version
+	
+	File format: 	ASCII, HTML
+
+	Size of the data: There are three versions of the same data (HTML, AUTO and PARG), 
+			  corresponding to 48,934 sentences or 1,148,426 tokens of annotated text. 
+			  The total size of the corpus is 340MB. 
+			  The HTML version is 220 MB, the PARG version is 46MB, and the AUTO version is 74 MB. 
+
+	Description of the contents of every directory:
+			  Each file format has its own directory tree (HTML, PARG, AUTO). 
+    			  In each of these directories, the file structure is parallel to
+    			  that of the original Penn Treebank II.
+
+			  The LEX directory contains two lexicons extracted from sections 00 and 02-21. 
+			  Each <word, category> pair is followed by its frequency, the probability of the word 
+			  given the category and the probability of the category given the word. 
+
+			  The RAW directory contains the raw text of sections 00 and 23 
+			  (only including those sentences for which CCGbank has a derivation). 
+     
+
+			  This updated version 1.1 corrects a misalignment of sentences between the PARG and AUTO files, 
+			  as well as a problem with some original POS tags in the AUTO files. 
+			  It also contains the ccgbank.00-24.t2c TGrep2 file which was not contained on the previous CD.

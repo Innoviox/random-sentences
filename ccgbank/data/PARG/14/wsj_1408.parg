@@ -1,0 +1,32 @@
+<s id="wsj_1408.1"> 19
+4 	 0 	 NP[nb]/N 	 1 	 Exchange The
+4 	 1 	 N/N 	 1 	 Exchange New
+4 	 2 	 N/N 	 1 	 Exchange York
+4 	 3 	 N/N 	 1 	 Exchange Stock
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Exchange said
+7 	 6 	 NP[nb]/N 	 1 	 seat a
+7 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 seat was
+7 	 9 	 ((S[pss]\NP)/(S[adj]\NP))/PP 	 1 	 seat sold <XB>
+7 	 14 	 (S[adj]\NP)/PP 	 1 	 seat unchanged <XB>
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sold was
+10 	 9 	 ((S[pss]\NP)/(S[adj]\NP))/PP 	 3 	 for sold
+11 	 10 	 PP/NP 	 1 	 $ for
+12 	 11 	 N/N[num] 	 1 	 500,000 $
+14 	 9 	 ((S[pss]\NP)/(S[adj]\NP))/PP 	 2 	 unchanged sold
+15 	 14 	 (S[adj]\NP)/PP 	 2 	 from unchanged
+18 	 15 	 PP/NP 	 1 	 Thursday from
+18 	 16 	 NP[nb]/N 	 1 	 Thursday the
+18 	 17 	 N/N 	 1 	 Thursday sale
+<\s>
+<s id="wsj_1408.2"> 11
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Seats are
+0 	 2 	 (S[pss]\NP)/PP 	 1 	 Seats quoted <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 quoted are
+3 	 2 	 (S[pss]\NP)/PP 	 2 	 at quoted
+4 	 3 	 PP/NP 	 1 	 $ at
+5 	 4 	 N/N[num] 	 1 	 430,000 $
+8 	 3 	 PP/NP 	 1 	 $ at
+8 	 10 	 S[pss]\NP 	 1 	 $ asked <XB>
+9 	 8 	 N/N[num] 	 1 	 525,000 $
+<\s>

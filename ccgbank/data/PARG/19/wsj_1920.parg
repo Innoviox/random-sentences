@@ -1,0 +1,281 @@
+<s id="wsj_1920.1"> 15
+2 	 0 	 NP[nb]/N 	 1 	 House The
+2 	 1 	 N/N 	 1 	 House White
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 House is
+2 	 4 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 House making <XB>
+2 	 5 	 (S[adj]\NP)/S[dcl] 	 1 	 House sure <XB>
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 making is
+5 	 4 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 sure making
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 nobody will
+6 	 8 	 ((S[b]\NP)/PP)/NP 	 1 	 nobody accuse <XB>
+7 	 5 	 (S[adj]\NP)/S[dcl] 	 2 	 will sure
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 accuse will
+9 	 8 	 ((S[b]\NP)/PP)/NP 	 3 	 it accuse
+10 	 8 	 ((S[b]\NP)/PP)/NP 	 2 	 of accuse
+11 	 10 	 PP/(S[ng]\NP) 	 1 	 taking of
+11 	 14 	 (S\NP)\(S\NP) 	 2 	 taking lightly
+13 	 11 	 (S[ng]\NP)/NP 	 2 	 crisis taking
+13 	 12 	 NP[nb]/N 	 1 	 crisis this
+<\s>
+<s id="wsj_1920.2"> 22
+2 	 0 	 (S/S)/NP 	 2 	 aftermath In
+2 	 1 	 NP[nb]/N 	 1 	 aftermath the
+2 	 3 	 (NP\NP)/NP 	 1 	 aftermath of
+6 	 3 	 (NP\NP)/NP 	 2 	 earthquake of
+6 	 4 	 NP[nb]/N 	 1 	 earthquake the
+6 	 5 	 N/N 	 1 	 earthquake California
+9 	 8 	 N/N 	 1 	 Bush President
+9 	 13 	 S[dcl]\NP 	 1 	 Bush flew
+12 	 11 	 NP[nb]/N 	 1 	 aides his
+12 	 13 	 S[dcl]\NP 	 1 	 aides flew
+13 	 0 	 (S/S)/NP 	 1 	 flew In
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 flew into
+13 	 21 	 (S\NP)\(S\NP) 	 2 	 flew morning
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 whirlwind into
+16 	 15 	 NP[nb]/N 	 1 	 whirlwind a
+16 	 17 	 (NP\NP)/NP 	 1 	 whirlwind of
+19 	 17 	 (NP\NP)/NP 	 2 	 activity of
+19 	 18 	 N/N 	 1 	 activity earthquake-related
+21 	 20 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 morning yesterday
+<\s>
+<s id="wsj_1920.3"> 28
+0 	 1 	 (NP\NP)/NP 	 1 	 Some of
+0 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Some was
+0 	 4 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Some necessary <XB>
+2 	 1 	 (NP\NP)/NP 	 2 	 it of
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 necessary was
+5 	 4 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to necessary
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+8 	 6 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 3 	 help get
+8 	 7 	 N/N 	 1 	 help federal
+8 	 9 	 S[ng]\NP 	 1 	 help flowing <XB>
+9 	 6 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 2 	 flowing get
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 flowing to
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 victims to
+14 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 some seemed
+14 	 16 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 some designed <XB>
+14 	 19 	 (S[b]\NP)/NP 	 1 	 some project <XB>
+16 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 designed seemed
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 designed mostly
+18 	 16 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to designed
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 project to
+21 	 19 	 (S[b]\NP)/NP 	 2 	 image project
+21 	 20 	 NP[nb]/N 	 1 	 image an
+21 	 22 	 (NP\NP)/NP 	 1 	 image of
+25 	 22 	 (NP\NP)/NP 	 2 	 House of
+25 	 23 	 NP[nb]/N 	 1 	 House a
+25 	 24 	 N/N 	 1 	 House White
+25 	 26 	 (NP\NP)/NP 	 1 	 House in
+27 	 26 	 (NP\NP)/NP 	 2 	 action in
+<\s>
+<s id="wsj_1920.4"> 42
+1 	 0 	 N/N 	 1 	 Bush Mr.
+1 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Bush were
+1 	 6 	 (S[pss]\NP)/PP 	 1 	 Bush accused <XB>
+4 	 3 	 NP[nb]/N 	 1 	 aides his
+4 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 aides were
+4 	 6 	 (S[pss]\NP)/PP 	 1 	 aides accused <XB>
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 accused were
+7 	 6 	 (S[pss]\NP)/PP 	 2 	 of accused
+8 	 7 	 PP/(S[ng]\NP) 	 1 	 responding of
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 responding slowly
+8 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 responding after
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 slowly too
+16 	 12 	 NP[nb]/N 	 1 	 tanker the
+16 	 13 	 N/N 	 1 	 tanker Exxon
+16 	 14 	 N/N 	 1 	 tanker Valdez
+16 	 15 	 N/N 	 1 	 tanker oil
+16 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 tanker split
+16 	 18 	 S[adj]\NP 	 1 	 tanker open <XB>
+17 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 split after
+17 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 split in
+18 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 open split
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 waters in
+21 	 20 	 N/N 	 1 	 waters Alaskan
+24 	 23 	 N/N 	 1 	 Hugo Hurricane
+24 	 25 	 (S[dcl]\NP)/NP 	 1 	 Hugo struck
+25 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 struck after
+28 	 25 	 (S[dcl]\NP)/NP 	 2 	 coast struck
+28 	 26 	 NP[nb]/N 	 1 	 coast the
+28 	 27 	 N/N 	 1 	 coast Carolina
+31 	 33 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they do
+31 	 35 	 (S[b]\NP)/NP 	 1 	 they want <XB>
+33 	 32 	 (S\NP)/(S\NP) 	 2 	 do clearly
+33 	 34 	 (S\NP)\(S\NP) 	 2 	 do n't
+35 	 33 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 want do
+35 	 41 	 (S\NP)\(S\NP) 	 2 	 want now
+37 	 35 	 (S[b]\NP)/NP 	 2 	 repeat want
+37 	 36 	 NP[nb]/N 	 1 	 repeat a
+37 	 38 	 (NP\NP)/NP 	 1 	 repeat of
+40 	 38 	 (NP\NP)/NP 	 2 	 charges of
+40 	 39 	 NP[nb]/N 	 1 	 charges those
+<\s>
+<s id="wsj_1920.5"> 25
+3 	 1 	 NP[nb]/N 	 1 	 House the
+3 	 2 	 N/N 	 1 	 House White
+3 	 4 	 (S[dcl]\NP)/S[em] 	 1 	 House announced
+4 	 0 	 S/S 	 1 	 announced So
+5 	 4 	 (S[dcl]\NP)/S[em] 	 2 	 that announced
+7 	 6 	 N/N 	 1 	 Bush Mr.
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 Bush got
+8 	 5 	 S[em]/S[dcl] 	 1 	 got that
+8 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 got at
+8 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 got from
+12 	 8 	 (S[dcl]\NP)/NP 	 2 	 briefing got
+12 	 9 	 NP[nb]/N 	 1 	 briefing his
+12 	 10 	 N/N 	 1 	 briefing first
+12 	 11 	 N/N 	 1 	 briefing earthquake
+12 	 13 	 (NP\NP)/NP 	 1 	 briefing of
+15 	 13 	 (NP\NP)/NP 	 2 	 day of
+15 	 14 	 NP[nb]/N 	 1 	 day the
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 a.m. at
+18 	 17 	 N/N 	 1 	 a.m. 6:30
+20 	 21 	 ((N/N)\(N/N))/NP 	 2 	 chief of
+22 	 21 	 ((N/N)\(N/N))/NP 	 3 	 staff of
+24 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 Sununu from
+24 	 20 	 N/N 	 1 	 Sununu chief
+24 	 23 	 N/N 	 1 	 Sununu John
+<\s>
+<s id="wsj_1920.6"> 48
+1 	 0 	 (S/S)/NP 	 2 	 noon By
+4 	 3 	 N/N 	 1 	 Bush Mr.
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Bush had
+4 	 6 	 (S[pt]\NP)/NP 	 1 	 Bush taken <XB>
+4 	 21 	 (S[pt]\NP)/NP 	 1 	 Bush made <XU>
+4 	 28 	 (S[pt]\NP)/NP 	 1 	 Bush signed <XU>
+4 	 33 	 (S[pt]\NP)/NP 	 1 	 Bush received <XU>
+4 	 45 	 (S[pt]\NP)/NP 	 1 	 Bush visited <XU>
+5 	 0 	 (S/S)/NP 	 1 	 had By
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 taken had
+9 	 6 	 (S[pt]\NP)/NP 	 2 	 calls taken
+9 	 7 	 N/N 	 1 	 calls two
+9 	 8 	 N/N 	 1 	 calls phone
+9 	 10 	 (NP\NP)/NP 	 1 	 calls from
+14 	 10 	 (NP\NP)/NP 	 2 	 Quayle from
+14 	 11 	 N/N 	 1 	 Quayle Vice
+14 	 12 	 N/N 	 1 	 Quayle President
+14 	 13 	 N/N 	 1 	 Quayle Dan
+14 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Quayle who
+14 	 17 	 (S[dcl]\NP)/PP 	 1 	 Quayle was <XB>
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was who
+18 	 17 	 (S[dcl]\NP)/PP 	 2 	 in was
+19 	 18 	 PP/NP 	 1 	 California in
+21 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 made had
+24 	 21 	 (S[pt]\NP)/NP 	 2 	 statement made
+24 	 22 	 NP[nb]/N 	 1 	 statement a
+24 	 23 	 N/N 	 1 	 statement televised
+24 	 25 	 (NP\NP)/NP 	 1 	 statement of
+26 	 25 	 (NP\NP)/NP 	 2 	 concern of
+28 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 signed had
+31 	 28 	 (S[pt]\NP)/NP 	 2 	 proclamation signed
+31 	 29 	 NP[nb]/N 	 1 	 proclamation a
+31 	 30 	 N/N 	 1 	 proclamation disaster
+33 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 received had
+33 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 received from
+36 	 33 	 (S[pt]\NP)/NP 	 2 	 report received
+36 	 34 	 NP[nb]/N 	 1 	 report a
+36 	 35 	 N/N 	 1 	 report written
+42 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 Agency from
+42 	 38 	 NP[nb]/N 	 1 	 Agency the
+42 	 39 	 N/N 	 1 	 Agency Federal
+42 	 40 	 N/N 	 1 	 Agency Emergency
+42 	 41 	 N/N 	 1 	 Agency Management
+45 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 visited had
+47 	 45 	 (S[pt]\NP)/NP 	 2 	 headquarters visited
+47 	 46 	 N/N 	 1 	 headquarters FEMA
+<\s>
+<s id="wsj_1920.7"> 16
+1 	 0 	 N/N 	 1 	 Bush Mr.
+1 	 2 	 NP\NP 	 1 	 Bush himself
+1 	 4 	 (S[dcl]\NP)/S[em] 	 1 	 Bush acknowledged
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 acknowledged essentially
+5 	 4 	 (S[dcl]\NP)/S[em] 	 2 	 that acknowledged
+6 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 he were
+6 	 11 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 he trying <XB>
+6 	 13 	 (S[b]\NP)/NP 	 1 	 he head <XB>
+9 	 8 	 NP[nb]/N 	 1 	 aides his
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 aides were
+9 	 11 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 aides trying <XB>
+9 	 13 	 (S[b]\NP)/NP 	 1 	 aides head <XB>
+10 	 5 	 S[em]/S[dcl] 	 1 	 were that
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trying were
+12 	 11 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 head to
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 head off
+15 	 13 	 (S[b]\NP)/NP 	 2 	 criticism head
+<\s>
+<s id="wsj_1920.8"> 38
+3 	 0 	 (S/S)/NP 	 2 	 visit On
+3 	 1 	 NP[nb]/N 	 1 	 visit his
+3 	 2 	 N/N 	 1 	 visit FEMA
+6 	 5 	 N/N 	 1 	 Bush Mr.
+6 	 7 	 (S[dcl]\NP)/S[em] 	 1 	 Bush said
+6 	 25 	 (S[ng]\NP)/S[em] 	 1 	 Bush adding <XB>
+7 	 0 	 (S/S)/NP 	 1 	 said On
+8 	 7 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+9 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 he hoped
+10 	 8 	 S[em]/S[dcl] 	 1 	 hoped that
+11 	 12 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 1 	 there would
+12 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 would hoped
+13 	 12 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 2 	 be would
+13 	 22 	 ((S\NP)\(S\NP))/N 	 2 	 be this
+15 	 13 	 (S[b]\NP)/NP 	 2 	 carping be
+15 	 14 	 N/N 	 1 	 carping less
+15 	 16 	 (NP\NP)/NP 	 1 	 carping about
+19 	 17 	 NP[nb]/N 	 1 	 office the
+19 	 18 	 N/N 	 1 	 office emergency
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 office 's
+21 	 16 	 (NP\NP)/NP 	 2 	 performance about
+21 	 20 	 (NP[nb]/N)\NP 	 1 	 performance 's
+23 	 22 	 ((S\NP)\(S\NP))/N 	 3 	 time this
+26 	 25 	 (S[ng]\NP)/S[em] 	 2 	 that adding
+28 	 27 	 NP[nb]/N 	 1 	 agency the
+28 	 29 	 (S[dcl]\NP)/NP 	 1 	 agency took
+29 	 26 	 S[em]/S[dcl] 	 1 	 took that
+29 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 took for
+31 	 29 	 (S[dcl]\NP)/NP 	 2 	 hit took
+31 	 30 	 NP[nb]/N 	 1 	 hit a
+34 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 reaction for
+34 	 33 	 NP[nb]/N 	 1 	 reaction its
+34 	 35 	 (NP\NP)/NP 	 1 	 reaction to
+37 	 35 	 (NP\NP)/NP 	 2 	 Hugo to
+37 	 36 	 N/N 	 1 	 Hugo Hurricane
+<\s>
+<s id="wsj_1920.9"> 16
+2 	 0 	 NP[nb]/N 	 1 	 House The
+2 	 1 	 N/N 	 1 	 House White
+2 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 House is
+2 	 5 	 (S[ng]\NP)/PP 	 1 	 House talking <XB>
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 is already
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 talking is
+6 	 5 	 (S[ng]\NP)/PP 	 2 	 of talking
+8 	 6 	 (PP/(S[ng]\NP))/NP 	 2 	 Bush of
+8 	 7 	 N/N 	 1 	 Bush Mr.
+8 	 9 	 (S[ng]\NP)/NP 	 1 	 Bush visiting <XB>
+9 	 6 	 (PP/(S[ng]\NP))/NP 	 1 	 visiting of
+9 	 14 	 ((S\NP)\(S\NP))/N 	 2 	 visiting this
+13 	 9 	 (S[ng]\NP)/NP 	 2 	 site visiting
+13 	 10 	 NP[nb]/N 	 1 	 site the
+13 	 11 	 N/N 	 1 	 site California
+13 	 12 	 N/N 	 1 	 site earthquake
+15 	 14 	 ((S\NP)\(S\NP))/N 	 3 	 weekend this
+<\s>
+<s id="wsj_1920.10"> 16
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 He visited
+1 	 5 	 (S\S)/S[frg] 	 1 	 visited but
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 devastation visited
+4 	 2 	 NP[nb]/N 	 1 	 devastation the
+4 	 3 	 N/N 	 1 	 devastation Hugo
+6 	 5 	 (S\S)/S[frg] 	 2 	 not but
+7 	 6 	 S[frg]/PP 	 1 	 until not
+8 	 7 	 PP/S 	 1 	 after until
+10 	 9 	 N/N 	 1 	 leaders local
+10 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 leaders urged
+11 	 8 	 S/S[dcl] 	 1 	 urged after
+12 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 him urged
+12 	 14 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 him do <XB>
+12 	 15 	 S[adj]\NP 	 1 	 him so <XB>
+13 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to urged
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+15 	 14 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 so do
+<\s>

@@ -1,0 +1,769 @@
+<s id="wsj_2234.1"> 30
+2 	 0 	 NP[nb]/N 	 1 	 conference A
+2 	 1 	 N/N 	 1 	 conference House-Senate
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 conference approved
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 ban approved
+7 	 4 	 NP[nb]/N 	 1 	 ban a
+7 	 5 	 N/N 	 1 	 ban permanent
+7 	 6 	 N/N 	 1 	 ban smoking
+7 	 8 	 (NP\NP)/NP 	 1 	 ban on
+7 	 18 	 (NP\NP)/NP 	 1 	 ban on <XU>
+12 	 8 	 (NP\NP)/NP 	 2 	 routes on
+12 	 9 	 NP[nb]/N 	 1 	 routes all
+12 	 10 	 N/N 	 1 	 routes domestic
+12 	 11 	 N/N 	 1 	 routes airline
+12 	 13 	 (NP\NP)/NP 	 1 	 routes within
+16 	 13 	 (NP\NP)/NP 	 2 	 U.S. within
+16 	 14 	 NP[nb]/N 	 1 	 U.S. the
+16 	 15 	 N/N 	 1 	 U.S. continental
+20 	 18 	 (NP\NP)/NP 	 2 	 flights on
+20 	 19 	 NP[nb]/N 	 1 	 flights all
+20 	 21 	 (NP\NP)/NP 	 1 	 flights of
+20 	 26 	 (NP\NP)/NP 	 1 	 flights to
+23 	 21 	 (NP\NP)/NP 	 2 	 hours of
+23 	 22 	 N/N 	 1 	 hours six
+23 	 25 	 NP\NP 	 1 	 hours less
+25 	 24 	 (NP\NP)/(NP\NP) 	 2 	 less or
+27 	 26 	 (NP\NP)/NP 	 2 	 Alaska to
+29 	 26 	 (NP\NP)/NP 	 2 	 Hawaii to
+<\s>
+<s id="wsj_2234.2"> 31
+1 	 0 	 NP[nb]/N 	 1 	 restrictions The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 restrictions would
+1 	 3 	 (S[b]\NP)/NP 	 1 	 restrictions cover <XB>
+1 	 15 	 (S[b]\NP)/NP 	 1 	 restrictions represent <XU>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cover would
+4 	 3 	 (S[b]\NP)/NP 	 2 	 all cover
+4 	 5 	 (NP\NP)/NP 	 1 	 all but
+4 	 9 	 (NP\NP)/NP 	 1 	 all of
+8 	 5 	 (NP\NP)/NP 	 2 	 percentage but
+8 	 6 	 NP[nb]/N 	 1 	 percentage a
+8 	 7 	 N/N 	 1 	 percentage small
+12 	 9 	 (NP\NP)/NP 	 2 	 traffic of
+12 	 10 	 N/N 	 1 	 traffic domestic
+12 	 11 	 N/N 	 1 	 traffic air
+15 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 represent would
+18 	 15 	 (S[b]\NP)/NP 	 2 	 expansion represent
+18 	 16 	 NP[nb]/N 	 1 	 expansion a
+18 	 17 	 N/N 	 1 	 expansion major
+18 	 19 	 (NP\NP)/NP 	 1 	 expansion of
+23 	 19 	 (NP\NP)/NP 	 2 	 ban of
+23 	 20 	 NP[nb]/N 	 1 	 ban the
+23 	 21 	 N/N 	 1 	 ban current
+23 	 22 	 N/N 	 1 	 ban smoking
+23 	 24 	 (NP\NP)/NP 	 1 	 ban on
+25 	 24 	 (NP\NP)/NP 	 2 	 flights on
+25 	 26 	 (NP\NP)/NP 	 1 	 flights of
+28 	 26 	 (NP\NP)/NP 	 2 	 hours of
+28 	 27 	 N/N 	 1 	 hours two
+28 	 30 	 NP\NP 	 1 	 hours less
+30 	 29 	 (NP\NP)/(NP\NP) 	 2 	 less or
+<\s>
+<s id="wsj_2234.3"> 39
+1 	 0 	 NP[nb]/N 	 1 	 exemption The
+1 	 2 	 S[pss]\NP 	 1 	 exemption allowed <XB>
+1 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 exemption appears
+1 	 12 	 (S[b]\NP)/NP 	 1 	 exemption be <XB>
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 allowed on
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 flights on
+5 	 4 	 N/N 	 1 	 flights longer
+5 	 6 	 (NP\NP)/NP 	 1 	 flights to
+7 	 6 	 (NP\NP)/NP 	 2 	 Alaska to
+9 	 6 	 (NP\NP)/NP 	 2 	 Hawaii to
+11 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to appears
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+16 	 12 	 (S[b]\NP)/NP 	 2 	 concession be
+16 	 13 	 NP/NP 	 1 	 concession largely
+16 	 14 	 NP[nb]/N 	 1 	 concession a
+16 	 15 	 N/N 	 1 	 concession face-saving
+16 	 17 	 (NP\NP)/NP 	 1 	 concession for
+20 	 19 	 (N/N)/(N/N) 	 2 	 powerful traditionally
+22 	 17 	 (NP\NP)/NP 	 2 	 industry for
+22 	 18 	 NP[nb]/N 	 1 	 industry the
+22 	 20 	 N/N 	 1 	 industry powerful
+22 	 21 	 N/N 	 1 	 industry tobacco
+22 	 24 	 (NP\NP)/(S[dcl]\NP) 	 1 	 industry which
+22 	 25 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 industry has <XB>
+22 	 26 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 1 	 industry found <XB>
+25 	 24 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+26 	 25 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 found has
+26 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 found in
+26 	 36 	 ((S\NP)\(S\NP))/NP 	 2 	 found in
+27 	 26 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 3 	 itself found
+27 	 29 	 S[adj]\NP 	 1 	 itself isolated <XB>
+29 	 26 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 2 	 isolated found
+29 	 28 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 isolated increasingly
+32 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 face in
+32 	 31 	 NP[nb]/N 	 1 	 face the
+32 	 33 	 (NP\NP)/NP 	 1 	 face of
+35 	 33 	 (NP\NP)/NP 	 2 	 pressure of
+35 	 34 	 N/N 	 1 	 pressure public
+38 	 36 	 ((S\NP)\(S\NP))/NP 	 3 	 years in
+38 	 37 	 N/N 	 1 	 years recent
+<\s>
+<s id="wsj_2234.4"> 18
+3 	 0 	 (S/S)/NP 	 2 	 margin By
+3 	 1 	 NP[nb]/N 	 1 	 margin a
+3 	 2 	 N/N 	 1 	 margin 6-4
+6 	 5 	 N/N 	 1 	 negotiators House
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 negotiators rejected
+8 	 0 	 (S/S)/NP 	 1 	 rejected By
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 rejected initially
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 rejected night
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 night last
+13 	 8 	 (S[dcl]\NP)/NP 	 2 	 provision rejected
+13 	 11 	 NP[nb]/N 	 1 	 provision a
+13 	 12 	 N/N 	 1 	 provision Senate
+13 	 14 	 (S[ng]\NP)/NP 	 1 	 provision covering <XB>
+17 	 14 	 (S[ng]\NP)/NP 	 2 	 flights covering
+17 	 15 	 NP[nb]/N 	 1 	 flights all
+17 	 16 	 N/N 	 1 	 flights domestic
+<\s>
+<s id="wsj_2234.5"> 11
+3 	 1 	 NP[nb]/N 	 1 	 compromise the
+3 	 2 	 N/N 	 1 	 compromise six-hour
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 compromise was
+3 	 6 	 (S[pss]\NP)/(PP/NP) 	 1 	 compromise agreed <XB>
+4 	 0 	 S/S 	 1 	 was But
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 was soon
+6 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 agreed was
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 agreed in
+7 	 6 	 (S[pss]\NP)/(PP/NP) 	 2 	 to agreed
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 discussions in
+10 	 9 	 N/N 	 1 	 discussions subsequent
+<\s>
+<s id="wsj_2234.6"> 42
+3 	 0 	 (S/S)/NP 	 2 	 matter As
+3 	 1 	 NP[nb]/N 	 1 	 matter a
+3 	 2 	 N/N 	 1 	 matter practical
+5 	 6 	 (NP\NP)/NP 	 1 	 flights from
+5 	 10 	 (NP\NP)/NP 	 1 	 flights to
+5 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 flights would
+5 	 14 	 S[pss]\NP 	 1 	 flights covered <XB>
+9 	 6 	 (NP\NP)/NP 	 2 	 Coast from
+9 	 7 	 NP[nb]/N 	 1 	 Coast the
+9 	 8 	 N/N 	 1 	 Coast West
+11 	 10 	 (NP\NP)/NP 	 2 	 Hawaii to
+12 	 0 	 (S/S)/NP 	 1 	 would As
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+14 	 13 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 covered be
+14 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 covered as
+16 	 17 	 (S[dcl]\NP)/PP 	 1 	 they are
+17 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are as
+18 	 17 	 (S[dcl]\NP)/PP 	 2 	 under are
+21 	 18 	 PP/NP 	 1 	 limit under
+21 	 19 	 NP[nb]/N 	 1 	 limit the
+21 	 20 	 N/N 	 1 	 limit time
+25 	 24 	 NP[nb]/N 	 1 	 language the
+25 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 language would
+25 	 27 	 (S[b]\NP)/NP 	 1 	 language exempt <XB>
+27 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 exempt would
+29 	 27 	 (S[b]\NP)/NP 	 2 	 routes exempt
+29 	 28 	 N/N 	 1 	 routes longer
+29 	 30 	 S[ng]\NP 	 1 	 routes beginning <XB>
+30 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 beginning for
+30 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 beginning in
+30 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 beginning on <XU>
+33 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 example for
+36 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 Chicago in
+41 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 Coast on
+41 	 39 	 NP[nb]/N 	 1 	 Coast the
+41 	 40 	 N/N 	 1 	 Coast East
+<\s>
+<s id="wsj_2234.7"> 37
+2 	 0 	 (S/S)/NP 	 2 	 Senate Within
+2 	 1 	 NP[nb]/N 	 1 	 Senate the
+5 	 4 	 NP[nb]/N 	 1 	 ban the
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 ban has
+5 	 7 	 (S[pt]\NP)/NP 	 1 	 ban had <XB>
+6 	 0 	 (S/S)/NP 	 1 	 has Within
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 had has
+9 	 7 	 (S[pt]\NP)/NP 	 2 	 support had
+9 	 8 	 N/N 	 1 	 support aggressive
+9 	 10 	 (NP\NP)/NP 	 1 	 support from
+13 	 10 	 (NP\NP)/NP 	 2 	 Lautenberg from
+13 	 11 	 N/N 	 1 	 Lautenberg Sen.
+13 	 12 	 N/N 	 1 	 Lautenberg Frank
+13 	 14 	 (NP\NP)/NP 	 1 	 Lautenberg -LRB-
+13 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Lautenberg who
+13 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Lautenberg has <XB>
+13 	 22 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 1 	 Lautenberg used <XB>
+15 	 14 	 (NP\NP)/NP 	 2 	 D. -LRB-
+17 	 14 	 (NP\NP)/NP 	 2 	 N.J. -LRB-
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has who
+22 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 used has
+24 	 22 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 3 	 position used
+24 	 23 	 NP[nb]/N 	 1 	 position his
+24 	 25 	 (NP\NP)/NP 	 1 	 position as
+24 	 32 	 (S[b]\NP)/NP 	 1 	 position garner <XB>
+30 	 25 	 (NP\NP)/NP 	 2 	 chairman as
+30 	 26 	 NP[nb]/N 	 1 	 chairman a
+30 	 27 	 N/N 	 1 	 chairman Senate
+30 	 28 	 N/N 	 1 	 chairman Appropriations
+30 	 29 	 N/N 	 1 	 chairman subcommittee
+31 	 22 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 2 	 to used
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 garner to
+33 	 32 	 (S[b]\NP)/NP 	 2 	 votes garner
+33 	 34 	 (NP\NP)/NP 	 1 	 votes for
+36 	 34 	 (NP\NP)/NP 	 2 	 initiative for
+36 	 35 	 NP[nb]/N 	 1 	 initiative the
+<\s>
+<s id="wsj_2234.8"> 50
+1 	 0 	 NP[nb]/N 	 1 	 measure The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 measure is
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 measure attached <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 attached is
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 to attached
+6 	 7 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+8 	 7 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 $ than
+10 	 8 	 (N/N)/N[num] 	 2 	 billion $
+10 	 9 	 N/N 	 1 	 billion 26
+14 	 4 	 PP/NP 	 1 	 bill to
+14 	 5 	 NP[nb]/N 	 1 	 bill the
+14 	 8 	 (N/N)/N[num] 	 1 	 bill $
+14 	 11 	 N/N 	 1 	 bill fiscal
+14 	 12 	 N/N 	 1 	 bill 1990
+14 	 13 	 N/N 	 1 	 bill transportation
+14 	 15 	 (NP\NP)/NP 	 1 	 bill within
+17 	 16 	 N/N 	 1 	 Lautenberg Mr.
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 Lautenberg 's
+19 	 15 	 (NP\NP)/NP 	 2 	 jurisdiction within
+19 	 18 	 (NP[nb]/N)\NP 	 1 	 jurisdiction 's
+24 	 22 	 NP[nb]/N 	 1 	 compromise the
+24 	 23 	 N/N 	 1 	 compromise final
+24 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 compromise is
+24 	 26 	 (S[pss]\NP)/PP 	 1 	 compromise laced <XB>
+26 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 laced is
+27 	 26 	 (S[pss]\NP)/PP 	 2 	 with laced
+28 	 29 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+30 	 27 	 PP/NP 	 1 	 $ with
+30 	 29 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+30 	 33 	 (NP\NP)/NP 	 1 	 $ in
+30 	 36 	 S[pss]\NP 	 1 	 $ earmarked <XB>
+32 	 30 	 N/N[num] 	 1 	 million $
+32 	 31 	 N/N 	 1 	 million 205
+35 	 33 	 (NP\NP)/NP 	 2 	 projects in
+35 	 34 	 N/N 	 1 	 projects road
+36 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 earmarked by
+38 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 members by
+41 	 39 	 conj/conj 	 1 	 as as
+41 	 40 	 conj/conj 	 1 	 as well
+42 	 27 	 PP/NP 	 1 	 funds with
+42 	 43 	 S[pss]\NP 	 1 	 funds sought <XB>
+43 	 44 	 ((S\NP)\(S\NP))/NP 	 2 	 sought by
+46 	 44 	 ((S\NP)\(S\NP))/NP 	 3 	 airports by
+46 	 45 	 N/N 	 1 	 airports major
+46 	 48 	 (NP\NP)/NP 	 1 	 airports including
+49 	 48 	 (NP\NP)/NP 	 2 	 Denver including
+<\s>
+<s id="wsj_2234.9"> 16
+2 	 0 	 (S/S)/NP 	 2 	 outset From
+2 	 1 	 NP[nb]/N 	 1 	 outset the
+6 	 4 	 NP[nb]/N 	 1 	 industry the
+6 	 5 	 N/N 	 1 	 industry tobacco
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 industry has
+6 	 9 	 (S[adj]\NP)/PP 	 1 	 industry uncertain <XB>
+7 	 0 	 (S/S)/NP 	 1 	 has From
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+9 	 8 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 uncertain been
+11 	 9 	 (S[adj]\NP)/PP 	 2 	 to uncertain
+11 	 10 	 PP/PP 	 1 	 to as
+12 	 11 	 PP/NP 	 1 	 what to
+13 	 12 	 (NP/((S[to]\NP)/NP))/N 	 2 	 strategy what
+14 	 12 	 (NP/((S[to]\NP)/NP))/N 	 1 	 to what
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 follow to
+<\s>
+<s id="wsj_2234.10"> 20
+2 	 1 	 NP[nb]/N 	 1 	 industry the
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 industry retains
+3 	 0 	 S/S 	 1 	 retains But
+3 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 retains in
+3 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 retains through
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 support retains
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 leadership in
+8 	 6 	 NP[nb]/N 	 1 	 leadership the
+8 	 7 	 N/N 	 1 	 leadership House
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 influence through
+11 	 10 	 NP[nb]/N 	 1 	 influence the
+11 	 12 	 (NP\NP)/NP 	 1 	 influence of
+14 	 12 	 (NP\NP)/NP 	 2 	 states of
+14 	 13 	 N/N 	 1 	 states grower
+14 	 17 	 (NP\NP)/NP 	 1 	 states as
+17 	 16 	 (NP\NP)/(NP\NP) 	 2 	 as such
+19 	 17 	 (NP\NP)/NP 	 2 	 Carolina as
+19 	 18 	 N/N 	 1 	 Carolina North
+<\s>
+<s id="wsj_2234.11"> 37
+3 	 0 	 N/N 	 1 	 Gray Majority
+3 	 1 	 N/N 	 1 	 Gray Whip
+3 	 2 	 N/N 	 1 	 Gray William
+3 	 4 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Gray owes
+4 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 owes for
+7 	 4 	 ((S[dcl]\NP)/PP)/NP 	 3 	 debt owes
+7 	 5 	 NP[nb]/N 	 1 	 debt a
+7 	 6 	 N/N 	 1 	 debt political
+8 	 4 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to owes
+11 	 8 	 PP/NP 	 1 	 lawmakers to
+11 	 9 	 N/N 	 1 	 lawmakers Southern
+11 	 10 	 N/N 	 1 	 lawmakers agriculture
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 rise for
+14 	 13 	 NP[nb]/N 	 1 	 rise his
+14 	 15 	 (NP\NP)/NP 	 1 	 rise in
+17 	 15 	 (NP\NP)/NP 	 2 	 House in
+17 	 16 	 NP[nb]/N 	 1 	 House the
+22 	 20 	 NP[nb]/N 	 1 	 Democrat the
+22 	 21 	 N/N 	 1 	 Democrat Philadelphia
+22 	 23 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Democrat used
+25 	 23 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 position used
+25 	 24 	 NP[nb]/N 	 1 	 position his
+25 	 26 	 (NP\NP)/NP 	 1 	 position in
+25 	 30 	 ((S[b]\NP)/PP)/NP 	 1 	 position salvage <XB>
+28 	 26 	 (NP\NP)/NP 	 2 	 conference in
+28 	 27 	 NP[nb]/N 	 1 	 conference the
+29 	 23 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to used
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 salvage to
+32 	 30 	 ((S[b]\NP)/PP)/NP 	 3 	 exemption salvage
+32 	 31 	 NP[nb]/N 	 1 	 exemption the
+33 	 30 	 ((S[b]\NP)/PP)/NP 	 2 	 from salvage
+36 	 33 	 PP/NP 	 1 	 ban from
+36 	 34 	 NP[nb]/N 	 1 	 ban a
+36 	 35 	 N/N 	 1 	 ban total
+<\s>
+<s id="wsj_2234.12"> 39
+3 	 1 	 NP[nb]/N 	 1 	 provision the
+3 	 2 	 N/N 	 1 	 provision smoking
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 provision has
+3 	 5 	 (S[pt]\NP)/NP 	 1 	 provision attracted <XB>
+4 	 0 	 (S/S)/S[dcl] 	 2 	 has Although
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 attracted has
+9 	 5 	 (S[pt]\NP)/NP 	 2 	 interest attracted
+9 	 6 	 NP[nb]/N 	 1 	 interest the
+9 	 7 	 N/N 	 1 	 interest most
+9 	 8 	 N/N 	 1 	 interest public
+13 	 11 	 NP[nb]/N 	 1 	 bill the
+13 	 12 	 N/N 	 1 	 bill underlying
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 bill was
+14 	 0 	 (S/S)/S[dcl] 	 1 	 was Although
+14 	 20 	 ((S\NP)\(S\NP))/PP 	 2 	 was because
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 subject was
+16 	 15 	 NP[nb]/N 	 1 	 subject the
+16 	 17 	 (NP\NP)/NP 	 1 	 subject of
+19 	 17 	 (NP\NP)/NP 	 2 	 lobbying of
+19 	 18 	 N/N 	 1 	 lobbying behind-the-scenes
+21 	 20 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+23 	 21 	 PP/NP 	 1 	 impact of
+23 	 22 	 NP[nb]/N 	 1 	 impact its
+23 	 24 	 (NP\NP)/NP 	 1 	 impact on
+26 	 24 	 (NP\NP)/NP 	 2 	 transportation on
+26 	 25 	 N/N 	 1 	 transportation air
+30 	 29 	 (N/N)/(N/N) 	 2 	 mundane more
+34 	 33 	 (N/N)/(N/N) 	 2 	 important politically
+36 	 24 	 (NP\NP)/NP 	 2 	 projects on
+36 	 28 	 NP[nb]/N 	 1 	 projects the
+36 	 30 	 N/N 	 1 	 projects mundane <XU>
+36 	 34 	 N/N 	 1 	 projects important
+36 	 37 	 (NP\NP)/NP 	 1 	 projects of
+38 	 37 	 (NP\NP)/NP 	 2 	 members of
+<\s>
+<s id="wsj_2234.13"> 40
+3 	 0 	 (S/S)/NP 	 2 	 lesson In
+3 	 1 	 NP[nb]/N 	 1 	 lesson a
+3 	 2 	 N/N 	 1 	 lesson stark
+3 	 4 	 (NP\NP)/NP 	 1 	 lesson in
+6 	 4 	 (NP\NP)/NP 	 2 	 power in
+6 	 5 	 NP[nb]/N 	 1 	 power the
+6 	 7 	 (NP\NP)/NP 	 1 	 power of
+10 	 7 	 (NP\NP)/NP 	 2 	 committees of
+10 	 8 	 NP[nb]/N 	 1 	 committees the
+10 	 9 	 N/N 	 1 	 committees appropriations
+13 	 12 	 NP[nb]/N 	 1 	 House the
+13 	 15 	 (S[dcl]\NP)/NP 	 1 	 House killed
+15 	 0 	 (S/S)/NP 	 1 	 killed In
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 killed deliberately
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 handful killed
+17 	 16 	 NP[nb]/N 	 1 	 handful a
+17 	 18 	 (NP\NP)/NP 	 1 	 handful of
+19 	 18 	 (NP\NP)/NP 	 2 	 projects of
+19 	 20 	 S[pss]\NP 	 1 	 projects backed <XB>
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 backed by
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 lawmakers by
+22 	 23 	 (NP\NP)/NP 	 1 	 lawmakers in
+22 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 lawmakers who
+22 	 30 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 lawmakers had <XB>
+22 	 31 	 (S[pt]\NP)/PP 	 1 	 lawmakers voted <XB>
+24 	 23 	 (NP\NP)/NP 	 2 	 Florida in
+26 	 23 	 (NP\NP)/NP 	 2 	 Illinois in
+28 	 23 	 (NP\NP)/NP 	 2 	 Pennsylvania in
+30 	 29 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had who
+31 	 30 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 voted had
+31 	 36 	 ((S\NP)\(S\NP))/NP 	 2 	 voted on
+32 	 31 	 (S[pt]\NP)/PP 	 2 	 against voted
+35 	 32 	 PP/NP 	 1 	 leadership against
+35 	 33 	 NP[nb]/N 	 1 	 leadership the
+35 	 34 	 N/N 	 1 	 leadership panel
+39 	 36 	 ((S\NP)\(S\NP))/NP 	 3 	 floor on
+39 	 37 	 NP[nb]/N 	 1 	 floor the
+39 	 38 	 N/N 	 1 	 floor House
+<\s>
+<s id="wsj_2234.14"> 22
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Anybody can
+0 	 2 	 S[b]\NP 	 1 	 Anybody vote <XB>
+1 	 7 	 (S[dcl]\S[dcl])/NP 	 1 	 can said
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 vote can
+2 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 vote as
+4 	 5 	 S[dcl]\NP 	 1 	 they want
+5 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 want as
+10 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 Lehman said
+10 	 8 	 N/N 	 1 	 Lehman Rep.
+10 	 9 	 N/N 	 1 	 Lehman William
+10 	 11 	 (NP\NP)/NP 	 1 	 Lehman -LRB-
+12 	 11 	 (NP\NP)/NP 	 2 	 D. -LRB-
+14 	 11 	 (NP\NP)/NP 	 2 	 Fla. -LRB-
+17 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 head said
+17 	 18 	 (NP\NP)/NP 	 1 	 head of
+21 	 18 	 (NP\NP)/NP 	 2 	 conferees of
+21 	 19 	 NP[nb]/N 	 1 	 conferees the
+21 	 20 	 N/N 	 1 	 conferees House
+<\s>
+<s id="wsj_2234.15"> 12
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 you make
+3 	 1 	 (S/S)/S[dcl] 	 2 	 make if
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 request make
+5 	 4 	 NP[nb]/N 	 1 	 request a
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you should
+7 	 9 	 (S[b]\NP)/NP 	 1 	 you support <XB>
+8 	 0 	 S/S 	 1 	 should But
+8 	 1 	 (S/S)/S[dcl] 	 1 	 should if
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 support should
+11 	 9 	 (S[b]\NP)/NP 	 2 	 committee support
+11 	 10 	 NP[nb]/N 	 1 	 committee the
+<\s>
+<s id="wsj_2234.16"> 40
+4 	 0 	 (S/S)/NP 	 2 	 Administration Within
+4 	 1 	 NP[nb]/N 	 1 	 Administration the
+4 	 2 	 N/N 	 1 	 Administration Federal
+4 	 3 	 N/N 	 1 	 Administration Aviation
+8 	 6 	 NP[nb]/N 	 1 	 bill the
+8 	 7 	 N/N 	 1 	 bill final
+8 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 bill promises
+8 	 11 	 (S[b]\NP)/NP 	 1 	 bill increase <XB>
+9 	 0 	 (S/S)/NP 	 1 	 promises Within
+10 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to promises
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 increase to
+11 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 increase by
+11 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 increase from
+12 	 11 	 (S[b]\NP)/NP 	 2 	 spending increase
+12 	 13 	 (NP\NP)/NP 	 1 	 spending for
+14 	 13 	 (NP\NP)/NP 	 2 	 facilities for
+16 	 13 	 (NP\NP)/NP 	 2 	 equipment for
+18 	 19 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+20 	 19 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 20 than
+21 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 % by
+21 	 20 	 N/N 	 1 	 % 20
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 year from
+24 	 23 	 N/N 	 1 	 year last
+28 	 27 	 N/N 	 1 	 operations total
+28 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 operations would
+28 	 30 	 S[b]\NP 	 1 	 operations rise <XB>
+29 	 0 	 (S/S)/NP 	 1 	 would Within
+30 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 rise would
+30 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 rise to
+32 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+32 	 35 	 (NP\NP)/NP 	 1 	 $ --
+34 	 32 	 N/N[num] 	 1 	 billion $
+34 	 33 	 N/N 	 1 	 billion 3.84
+38 	 37 	 (N/N)/(N/N) 	 2 	 % 12
+39 	 35 	 (NP\NP)/NP 	 2 	 boost --
+39 	 36 	 NP[nb]/N 	 1 	 boost a
+39 	 38 	 N/N 	 1 	 boost %
+<\s>
+<s id="wsj_2234.17"> 43
+2 	 0 	 NP[nb]/N 	 1 	 account The
+2 	 1 	 N/N 	 1 	 account facilities
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 account includes
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 $ includes
+4 	 7 	 (NP\NP)/NP 	 1 	 $ for
+6 	 4 	 N/N[num] 	 1 	 million $
+6 	 5 	 N/N 	 1 	 million 40
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 Denver 's
+12 	 7 	 (NP\NP)/NP 	 2 	 airport for
+12 	 9 	 (NP[nb]/N)\NP 	 1 	 airport 's
+12 	 10 	 N/N 	 1 	 airport ambitious
+12 	 11 	 N/N 	 1 	 airport new
+16 	 15 	 NP[nb]/N 	 1 	 competition the
+16 	 17 	 (NP\NP)/NP 	 1 	 competition for
+16 	 20 	 (S[dcl]\NP)/NP 	 1 	 competition created
+19 	 17 	 (NP\NP)/NP 	 2 	 funds for
+19 	 18 	 NP[nb]/N 	 1 	 funds these
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 alliances created
+22 	 21 	 N/N 	 1 	 alliances shifting
+22 	 23 	 (NP\NP)/NP 	 1 	 alliances between
+25 	 23 	 (NP\NP)/NP 	 2 	 lawmakers between
+25 	 24 	 N/N 	 1 	 lawmakers urban
+25 	 26 	 (S[ng]\NP)/NP 	 1 	 lawmakers representing <XB>
+28 	 26 	 (S[ng]\NP)/NP 	 2 	 airports representing
+28 	 27 	 N/N 	 1 	 airports established
+28 	 29 	 (NP\NP)/NP 	 1 	 airports in
+30 	 29 	 (NP\NP)/NP 	 2 	 Philadelphia in
+32 	 29 	 (NP\NP)/NP 	 2 	 Michigan in
+36 	 26 	 (S[ng]\NP)/NP 	 2 	 carriers representing
+36 	 34 	 NP[nb]/N 	 1 	 carriers the
+36 	 35 	 N/N 	 1 	 carriers major
+36 	 37 	 (NP\NP)/NP 	 1 	 carriers to
+38 	 37 	 (NP\NP)/NP 	 2 	 Denver to
+40 	 26 	 (S[ng]\NP)/NP 	 2 	 United representing
+42 	 26 	 (S[ng]\NP)/NP 	 2 	 Continental representing
+<\s>
+<s id="wsj_2234.18"> 24
+1 	 0 	 (S[adj]\NP)/PP 	 2 	 of Leery
+3 	 1 	 PP/NP 	 1 	 costs of
+3 	 2 	 NP[nb]/N 	 1 	 costs the
+7 	 8 	 S[dcl]\NP 	 1 	 critics say
+10 	 1 	 PP/NP 	 1 	 competition of
+13 	 12 	 NP[nb]/N 	 1 	 airlines the
+13 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 airlines have
+13 	 15 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 airlines sought <XB>
+13 	 17 	 (S[b]\NP)/NP 	 1 	 airlines gain <XB>
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 sought have
+16 	 15 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to sought
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 gain to
+18 	 17 	 (S[b]\NP)/NP 	 2 	 leverage gain
+18 	 19 	 (NP\NP)/NP 	 1 	 leverage over
+21 	 19 	 (NP\NP)/NP 	 2 	 city over
+21 	 20 	 NP[nb]/N 	 1 	 city the
+21 	 22 	 (NP\NP)/NP 	 1 	 city of
+23 	 22 	 (NP\NP)/NP 	 2 	 Denver of
+<\s>
+<s id="wsj_2234.19"> 18
+2 	 0 	 N/N 	 1 	 Corp. Texas
+2 	 1 	 N/N 	 1 	 Corp. Air
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Corp. which
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 Corp. owns <XB>
+2 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Corp. were
+2 	 14 	 (S[adj]\NP)/PP 	 1 	 Corp. prominent <XB>
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 owns which
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 Continental owns
+12 	 9 	 NP[nb]/N 	 1 	 Association the
+12 	 10 	 N/N 	 1 	 Association Air
+12 	 11 	 N/N 	 1 	 Association Transport
+12 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Association were
+12 	 14 	 (S[adj]\NP)/PP 	 1 	 Association prominent <XB>
+14 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 prominent were
+15 	 14 	 (S[adj]\NP)/PP 	 2 	 in prominent
+17 	 15 	 PP/NP 	 1 	 lobbying in
+17 	 16 	 NP[nb]/N 	 1 	 lobbying the
+<\s>
+<s id="wsj_2234.20"> 29
+1 	 0 	 NP[nb]/N 	 1 	 industry The
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 industry sought
+1 	 4 	 (S[b]\NP)/NP 	 1 	 industry impose <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to sought
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 impose to
+5 	 4 	 (S[b]\NP)/NP 	 2 	 conditions impose
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 conditions that
+5 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 conditions would <XB>
+5 	 9 	 (S[pt]\NP)/NP 	 1 	 conditions delayed <XB>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+9 	 8 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 delayed have
+9 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 delayed until
+10 	 9 	 (S[pt]\NP)/NP 	 2 	 funds delayed
+10 	 11 	 (NP\NP)/NP 	 1 	 funds for
+13 	 11 	 (NP\NP)/NP 	 2 	 project for
+13 	 12 	 NP[nb]/N 	 1 	 project the
+15 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Denver had
+15 	 20 	 (S[pt]\NP)/PP 	 1 	 Denver agreed <XB>
+18 	 17 	 NP[nb]/N 	 1 	 airlines the
+18 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 airlines had
+18 	 20 	 (S[pt]\NP)/PP 	 1 	 airlines agreed <XB>
+19 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 had until
+20 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 agreed had
+21 	 20 	 (S[pt]\NP)/PP 	 2 	 to agreed
+22 	 21 	 PP/NP 	 1 	 leases to
+22 	 23 	 (NP\NP)/NP 	 1 	 leases for
+25 	 23 	 (NP\NP)/NP 	 2 	 % for
+25 	 24 	 N/N 	 1 	 % 50
+25 	 26 	 (NP\NP)/NP 	 1 	 % of
+28 	 26 	 (NP\NP)/NP 	 2 	 gates of
+28 	 27 	 NP[nb]/N 	 1 	 gates the
+<\s>
+<s id="wsj_2234.21"> 30
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 this was
+1 	 3 	 S[pss]\NP 	 1 	 this rejected <XB>
+2 	 0 	 S/S 	 1 	 was But
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 rejected was
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rejected in
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 favor in
+5 	 6 	 (NP\NP)/NP 	 1 	 favor of
+8 	 7 	 (N/N)/(N/N) 	 2 	 looser much
+9 	 6 	 (NP\NP)/NP 	 2 	 language of
+9 	 8 	 N/N 	 1 	 language looser
+9 	 10 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 1 	 language directing <XB>
+13 	 10 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 Department directing
+13 	 11 	 NP[nb]/N 	 1 	 Department the
+13 	 12 	 N/N 	 1 	 Department Transportation
+13 	 15 	 (S[b]\NP)/NP 	 1 	 Department review <XB>
+14 	 10 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to directing
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 review to
+17 	 15 	 (S[b]\NP)/NP 	 2 	 costs review
+17 	 16 	 NP[nb]/N 	 1 	 costs the
+17 	 18 	 (NP\NP)/NP 	 1 	 costs of
+21 	 18 	 (NP\NP)/NP 	 2 	 phase of
+21 	 19 	 NP[nb]/N 	 1 	 phase the
+21 	 20 	 N/N 	 1 	 phase first
+21 	 23 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 phase expected <XB>
+21 	 25 	 (S[b]\NP)/NP 	 1 	 phase cost <XB>
+24 	 23 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cost to
+27 	 25 	 (S[b]\NP)/NP 	 2 	 $ cost
+27 	 26 	 N/N 	 1 	 $ about
+29 	 27 	 N/N[num] 	 1 	 billion $
+29 	 28 	 N/N 	 1 	 billion 2
+<\s>
+<s id="wsj_2234.22"> 26
+1 	 0 	 (S/S)/(S[adj]\NP) 	 2 	 smaller Though
+2 	 1 	 (S[adj]\NP)/PP 	 2 	 in smaller
+4 	 2 	 PP/NP 	 1 	 dollars in
+4 	 3 	 N/N 	 1 	 dollars total
+7 	 6 	 NP[nb]/N 	 1 	 conference the
+7 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 conference agreed
+7 	 10 	 (S[b]\NP)/NP 	 1 	 conference preserve <XB>
+8 	 0 	 (S/S)/(S[adj]\NP) 	 1 	 agreed Though
+9 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 preserve to
+13 	 10 	 (S[b]\NP)/NP 	 2 	 $ preserve
+13 	 11 	 NP[nb]/N 	 1 	 $ an
+13 	 12 	 N/N 	 1 	 $ estimated
+13 	 16 	 (NP\NP)/NP 	 1 	 $ in
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 30.6
+18 	 16 	 (NP\NP)/NP 	 2 	 subsidies in
+18 	 17 	 N/N 	 1 	 subsidies controversial
+18 	 19 	 (NP\NP)/NP 	 1 	 subsidies to
+20 	 19 	 (NP\NP)/NP 	 2 	 carriers to
+20 	 21 	 (S[ng]\NP)/NP 	 1 	 carriers serving <XB>
+25 	 21 	 (S[ng]\NP)/NP 	 2 	 airports serving
+25 	 22 	 N/N 	 1 	 airports rural
+25 	 24 	 N/N 	 1 	 airports isolated
+<\s>
+<s id="wsj_2234.23"> 37
+1 	 0 	 NP[nb]/N 	 1 	 sum The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 sum is
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 more is
+3 	 4 	 (NP\NP)/NP 	 1 	 more than
+5 	 4 	 (NP\NP)/NP 	 2 	 double than
+5 	 6 	 (NP\NP)/(S[dcl]/NP) 	 1 	 double what
+5 	 10 	 ((S[pt]\NP)/PP)/NP 	 3 	 double approved <XU>
+8 	 7 	 NP[nb]/N 	 1 	 House the
+8 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 House had
+8 	 10 	 ((S[pt]\NP)/PP)/NP 	 1 	 House approved <XB>
+9 	 6 	 (NP\NP)/(S[dcl]/NP) 	 2 	 had what
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 approved had
+11 	 10 	 ((S[pt]\NP)/PP)/NP 	 2 	 for approved
+13 	 11 	 PP/NP 	 1 	 program for
+13 	 12 	 NP[nb]/N 	 1 	 program the
+17 	 16 	 NP[nb]/N 	 1 	 list the
+17 	 18 	 (NP\NP)/NP 	 1 	 list of
+17 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 list would
+17 	 23 	 S[pss]\NP 	 1 	 list cut <XB>
+20 	 18 	 (NP\NP)/NP 	 2 	 airports of
+20 	 19 	 N/N 	 1 	 airports qualified
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+23 	 22 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 cut be
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 cut by
+23 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 cut under
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 22 by
+29 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 requirements under
+29 	 27 	 N/N 	 1 	 requirements new
+29 	 28 	 N/N 	 1 	 requirements distance
+31 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 limits under
+31 	 32 	 (NP\NP)/NP 	 1 	 limits on
+34 	 32 	 (NP\NP)/NP 	 2 	 level on
+34 	 33 	 NP[nb]/N 	 1 	 level the
+34 	 35 	 (NP\NP)/NP 	 1 	 level of
+36 	 35 	 (NP\NP)/NP 	 2 	 subsidy of
+<\s>
+<s id="wsj_2234.24"> 7
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 Congress cut
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 cut previously
+2 	 5 	 ((S\NP)\(S\NP))/N 	 2 	 cut this
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 airports cut
+4 	 3 	 N/N 	 1 	 airports six
+6 	 5 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+<\s>
+<s id="wsj_2234.25"> 29
+1 	 0 	 NP[nb]/N 	 1 	 impact The
+1 	 2 	 (NP\NP)/NP 	 1 	 impact of
+1 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 impact is
+1 	 7 	 (S[b]\NP)/NP 	 1 	 impact eliminate <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 changes of
+4 	 3 	 NP[nb]/N 	 1 	 changes the
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 eliminate to
+8 	 7 	 (S[b]\NP)/NP 	 2 	 many eliminate
+8 	 9 	 (NP\NP)/NP 	 1 	 many of
+13 	 9 	 (NP\NP)/NP 	 2 	 cases of
+13 	 10 	 NP[nb]/N 	 1 	 cases the
+13 	 11 	 N/N 	 1 	 cases most
+13 	 12 	 N/N 	 1 	 cases excessive
+13 	 14 	 (NP\NP)/S[dcl] 	 1 	 cases where
+16 	 15 	 NP[nb]/N 	 1 	 government the
+16 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 government has
+16 	 19 	 ((S[ng]\NP)/PP)/NP 	 1 	 government paying <XB>
+17 	 14 	 (NP\NP)/S[dcl] 	 2 	 has where
+18 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+19 	 18 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 paying been
+19 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 paying in
+20 	 21 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+22 	 19 	 ((S[ng]\NP)/PP)/NP 	 3 	 $ paying
+22 	 21 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+23 	 22 	 N/N[num] 	 1 	 200 $
+24 	 19 	 ((S[ng]\NP)/PP)/NP 	 2 	 for paying
+26 	 24 	 PP/NP 	 1 	 passenger for
+26 	 25 	 NP[nb]/N 	 1 	 passenger each
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 subsidies in
+<\s>
+<s id="wsj_2234.26"> 22
+4 	 0 	 (S/S)/NP 	 2 	 accounts Among
+4 	 1 	 N/N 	 1 	 accounts rail
+4 	 3 	 N/N 	 1 	 accounts highway
+7 	 6 	 NP[nb]/N 	 1 	 agreement the
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 agreement provides
+8 	 0 	 (S/S)/NP 	 1 	 provides Among
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 $ provides
+9 	 12 	 (NP\NP)/NP 	 1 	 $ for
+9 	 15 	 (NP\NP)/NP 	 1 	 $ including
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 615
+13 	 12 	 (NP\NP)/NP 	 2 	 Amtrak for
+15 	 19 	 ((NP\NP)\(NP\NP))/NP 	 2 	 including for
+16 	 15 	 (NP\NP)/NP 	 2 	 $ including
+18 	 16 	 N/N[num] 	 1 	 million $
+18 	 17 	 N/N 	 1 	 million 85
+21 	 19 	 ((NP\NP)\(NP\NP))/NP 	 3 	 improvements for
+21 	 20 	 N/N 	 1 	 improvements capital
+<\s>
+<s id="wsj_2234.27"> 24
+2 	 1 	 N/N 	 1 	 grants federal-formula
+2 	 3 	 (NP\NP)/NP 	 1 	 grants for
+2 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 grants would
+2 	 9 	 (S[pss]\NP)/PP 	 1 	 grants frozen <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 transit for
+5 	 4 	 N/N 	 1 	 transit mass
+6 	 0 	 S/S 	 1 	 would And
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+9 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 frozen be
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 frozen effectively
+10 	 9 	 (S[pss]\NP)/PP 	 2 	 at frozen
+11 	 10 	 PP/NP 	 1 	 $ at
+13 	 11 	 N/N[num] 	 1 	 billion $
+13 	 12 	 N/N 	 1 	 billion 1.625
+16 	 10 	 PP/NP 	 1 	 $ at
+16 	 19 	 N\N 	 1 	 $ more
+16 	 20 	 (NP\NP)/NP 	 1 	 $ than
+18 	 16 	 N/N[num] 	 1 	 million $
+18 	 17 	 N/N 	 1 	 million 20
+22 	 21 	 (N/N)/(N/N) 	 2 	 fiscal last
+23 	 20 	 (NP\NP)/NP 	 2 	 year than
+23 	 22 	 N/N 	 1 	 year fiscal
+<\s>

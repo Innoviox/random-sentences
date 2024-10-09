@@ -1,0 +1,52 @@
+<s id="wsj_1245.1"> 29
+2 	 0 	 N/N 	 1 	 Co. Consumers
+2 	 1 	 N/N 	 1 	 Co. Power
+2 	 3 	 ((S[dcl]\NP)/NP)/PP 	 1 	 Co. filed
+4 	 3 	 ((S[dcl]\NP)/NP)/PP 	 3 	 with filed
+9 	 4 	 PP/NP 	 1 	 Commission with
+9 	 5 	 NP[nb]/N 	 1 	 Commission the
+9 	 6 	 N/N 	 1 	 Commission Michigan
+9 	 7 	 N/N 	 1 	 Commission Public
+9 	 8 	 N/N 	 1 	 Commission Service
+11 	 3 	 ((S[dcl]\NP)/NP)/PP 	 2 	 contract filed
+11 	 10 	 NP[nb]/N 	 1 	 contract a
+11 	 13 	 ((S[b]\NP)/PP)/NP 	 1 	 contract buy <XB>
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+13 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 buy under
+14 	 13 	 ((S[b]\NP)/PP)/NP 	 3 	 power buy
+15 	 13 	 ((S[b]\NP)/PP)/NP 	 2 	 from buy
+19 	 15 	 PP/NP 	 1 	 plant from
+19 	 16 	 NP[nb]/N 	 1 	 plant the
+19 	 17 	 N/N 	 1 	 plant Palisades
+19 	 18 	 N/N 	 1 	 plant nuclear
+25 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 arrangement under
+25 	 21 	 NP[nb]/N 	 1 	 arrangement a
+25 	 22 	 N/N 	 1 	 arrangement proposed
+25 	 23 	 N/N 	 1 	 arrangement new
+25 	 24 	 N/N 	 1 	 arrangement ownership
+25 	 26 	 (NP\NP)/NP 	 1 	 arrangement for
+28 	 26 	 (NP\NP)/NP 	 2 	 plant for
+28 	 27 	 NP[nb]/N 	 1 	 plant the
+<\s>
+<s id="wsj_1245.2"> 23
+1 	 0 	 N/N 	 1 	 Power Consumers
+1 	 8 	 (S[dcl]\NP)/NP 	 1 	 Power announced
+5 	 3 	 N/N 	 1 	 Corp. Bechtel
+5 	 4 	 N/N 	 1 	 Corp. Power
+5 	 8 	 (S[dcl]\NP)/NP 	 1 	 Corp. announced
+7 	 6 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 year last
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 announced year
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 venture announced
+11 	 9 	 NP[nb]/N 	 1 	 venture a
+11 	 10 	 N/N 	 1 	 venture joint
+11 	 13 	 (S[b]\NP)/NP 	 1 	 venture buy <XB>
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+15 	 13 	 (S[b]\NP)/NP 	 2 	 plant buy
+15 	 14 	 NP[nb]/N 	 1 	 plant the
+15 	 18 	 S[pss]\NP 	 1 	 plant owned <XB>
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 owned currently
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 owned completely
+18 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 owned by
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 utility by
+22 	 21 	 NP[nb]/N 	 1 	 utility the
+<\s>

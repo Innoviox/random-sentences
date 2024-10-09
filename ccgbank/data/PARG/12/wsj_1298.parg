@@ -1,0 +1,147 @@
+<s id="wsj_1298.1"> 19
+2 	 0 	 N/N 	 1 	 Penn Robert
+2 	 1 	 N/N 	 1 	 Penn J.
+2 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Penn will
+2 	 11 	 (S[b]\NP)/NP 	 1 	 Penn take <XB>
+4 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 president will
+4 	 11 	 (S[b]\NP)/NP 	 1 	 president take <XB>
+8 	 6 	 N/N 	 1 	 officer chief
+8 	 7 	 N/N 	 1 	 officer executive
+8 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 officer will
+8 	 11 	 (S[b]\NP)/NP 	 1 	 officer take <XB>
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take will
+11 	 17 	 (S\NP)\(S\NP) 	 2 	 take Dec
+13 	 11 	 (S[b]\NP)/NP 	 2 	 retirement take
+13 	 12 	 N/N 	 1 	 retirement early
+13 	 14 	 (NP\NP)/NP 	 1 	 retirement from
+16 	 14 	 (NP\NP)/NP 	 2 	 steelmaker from
+16 	 15 	 NP[nb]/N 	 1 	 steelmaker this
+17 	 18 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 Dec 31
+<\s>
+<s id="wsj_1298.2"> 29
+2 	 0 	 N/N 	 1 	 Leavitt William
+2 	 1 	 N/N 	 1 	 Leavitt S.
+2 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Leavitt said
+4 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 chairman said
+8 	 7 	 N/N 	 1 	 Penn Mr.
+8 	 12 	 (S[adj]\NP)\NP 	 1 	 Penn old <XB>
+8 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Penn would
+8 	 15 	 (S[b]\NP)/PP 	 1 	 Penn continue <XB>
+8 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Penn would <XU>
+8 	 21 	 (S[b]\NP)/PP 	 1 	 Penn work <XU>
+8 	 26 	 (S[ng]\NP)/NP 	 1 	 Penn selecting <XU>
+11 	 10 	 N/N 	 1 	 years 58
+11 	 12 	 (S[adj]\NP)\NP 	 2 	 years old
+14 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue would
+16 	 15 	 (S[b]\NP)/PP 	 2 	 as continue
+18 	 16 	 PP/NP 	 1 	 consultant as
+18 	 17 	 NP[nb]/N 	 1 	 consultant a
+20 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 work would
+21 	 25 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 work in
+22 	 21 	 (S[b]\NP)/PP 	 2 	 with work
+24 	 22 	 PP/NP 	 1 	 board with
+24 	 23 	 NP[nb]/N 	 1 	 board the
+26 	 25 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 selecting in
+28 	 26 	 (S[ng]\NP)/NP 	 2 	 successor selecting
+28 	 27 	 NP[nb]/N 	 1 	 successor a
+<\s>
+<s id="wsj_1298.3"> 27
+0 	 2 	 (S[dcl]\NP)/PP 	 1 	 UNR emerged
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 emerged recently
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 from emerged
+5 	 3 	 PP/NP 	 1 	 proceedings from
+5 	 4 	 N/N 	 1 	 proceedings bankruptcy-law
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 proceedings that
+5 	 7 	 (S[dcl]\NP)/NP 	 1 	 proceedings left <XB>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 left that
+7 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 left in
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 % left
+9 	 8 	 N/N 	 1 	 % 64
+9 	 10 	 (NP\NP)/NP 	 1 	 % of
+13 	 11 	 NP[nb]/N 	 1 	 company the
+13 	 12 	 N/N 	 1 	 company reorganized
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 company 's
+16 	 10 	 (NP\NP)/NP 	 2 	 stock of
+16 	 14 	 (NP[nb]/N)\NP 	 1 	 stock 's
+16 	 15 	 N/N 	 1 	 stock common
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 hands in
+19 	 18 	 NP[nb]/N 	 1 	 hands the
+19 	 20 	 (NP\NP)/NP 	 1 	 hands of
+21 	 20 	 (NP\NP)/NP 	 2 	 trustees of
+21 	 22 	 (NP\NP)/NP 	 1 	 trustees of
+26 	 22 	 (NP\NP)/NP 	 2 	 trust of
+26 	 23 	 NP[nb]/N 	 1 	 trust an
+26 	 24 	 N/N 	 1 	 trust asbestos-disease
+26 	 25 	 N/N 	 1 	 trust claims
+<\s>
+<s id="wsj_1298.4"> 9
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+3 	 5 	 (S[b]\NP)/NP 	 1 	 it have <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+8 	 5 	 (S[b]\NP)/NP 	 2 	 comment have
+8 	 6 	 NP[nb]/N 	 1 	 comment no
+8 	 7 	 N/N 	 1 	 comment further
+<\s>
+<s id="wsj_1298.5"> 28
+1 	 0 	 N/N 	 1 	 Leavitt Mr.
+1 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Leavitt was
+1 	 6 	 (S[pss]\NP)/NP 	 1 	 Leavitt elected <XB>
+1 	 18 	 (S[ng]\NP)/(S[pt]\NP) 	 1 	 Leavitt having <XB>
+1 	 19 	 (S[pt]\NP)/PP 	 1 	 Leavitt served <XB>
+3 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 37 was
+3 	 6 	 (S[pss]\NP)/NP 	 1 	 37 elected <XB>
+3 	 18 	 (S[ng]\NP)/(S[pt]\NP) 	 1 	 37 having <XB>
+3 	 19 	 (S[pt]\NP)/PP 	 1 	 37 served <XB>
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 elected was
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 elected earlier
+6 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 elected by
+7 	 6 	 (S[pss]\NP)/NP 	 2 	 chairman elected
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 year earlier
+10 	 9 	 NP[nb]/N 	 1 	 year this
+13 	 12 	 NP[nb]/N 	 1 	 company the
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 company 's
+16 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 board by
+16 	 14 	 (NP[nb]/N)\NP 	 1 	 board 's
+16 	 15 	 N/N 	 1 	 board new
+19 	 18 	 (S[ng]\NP)/(S[pt]\NP) 	 2 	 served having
+20 	 19 	 (S[pt]\NP)/PP 	 2 	 as served
+22 	 20 	 PP/NP 	 1 	 president as
+22 	 21 	 N/N 	 1 	 president vice
+22 	 23 	 (NP\NP)/NP 	 1 	 president for
+27 	 23 	 (NP\NP)/NP 	 2 	 affairs for
+27 	 24 	 N/N 	 1 	 affairs legal
+27 	 26 	 N/N 	 1 	 affairs corporate
+<\s>
+<s id="wsj_1298.6"> 30
+1 	 0 	 NP[nb]/N 	 1 	 father His
+1 	 7 	 (S[dcl]\NP)/NP 	 1 	 father was
+5 	 3 	 N/N 	 1 	 Leavitt David
+5 	 4 	 N/N 	 1 	 Leavitt S.
+5 	 7 	 (S[dcl]\NP)/NP 	 1 	 Leavitt was
+7 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 was until
+8 	 7 	 (S[dcl]\NP)/NP 	 2 	 chairman was
+11 	 7 	 (S[dcl]\NP)/NP 	 2 	 executive was
+11 	 10 	 N/N 	 1 	 executive chief
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 death until
+14 	 13 	 NP[nb]/N 	 1 	 death his
+14 	 15 	 (NP\NP)/NP 	 1 	 death in
+14 	 20 	 (NP\NP)\NP 	 1 	 death ago
+17 	 15 	 (NP\NP)/NP 	 2 	 accident in
+17 	 16 	 NP[nb]/N 	 1 	 accident an
+19 	 18 	 N/N 	 1 	 years five
+19 	 20 	 (NP\NP)\NP 	 2 	 years ago
+20 	 23 	 ((((NP\NP)\(NP\NP))/S[dcl])\((NP\NP)/NP))/N 	 2 	 ago which
+22 	 23 	 ((((NP\NP)\(NP\NP))/S[dcl])\((NP\NP)/NP))/N 	 4 	 at which
+24 	 23 	 ((((NP\NP)\(NP\NP))/S[dcl])\((NP\NP)/NP))/N 	 5 	 time which
+26 	 25 	 N/N 	 1 	 Penn Mr.
+26 	 27 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Penn was
+26 	 28 	 (S[pss]\NP)/NP 	 1 	 Penn named <XB>
+27 	 23 	 ((((NP\NP)\(NP\NP))/S[dcl])\((NP\NP)/NP))/N 	 3 	 was which
+28 	 27 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+29 	 28 	 (S[pss]\NP)/NP 	 2 	 president named
+<\s>

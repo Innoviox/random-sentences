@@ -1,0 +1,1281 @@
+<s id="wsj_2351.1"> 24
+2 	 1 	 NP[nb]/N 	 1 	 news the
+2 	 3 	 S[dcl]\NP 	 1 	 news broke
+3 	 0 	 (S/S)/S[dcl] 	 2 	 broke When
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 broke of
+3 	 12 	 ((S\NP)\(S\NP))\NP 	 2 	 broke ago
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 coup of
+7 	 5 	 NP[nb]/N 	 1 	 coup an
+7 	 6 	 N/N 	 1 	 coup attempted
+7 	 8 	 (NP\NP)/NP 	 1 	 coup in
+9 	 8 	 (NP\NP)/NP 	 2 	 Panama in
+11 	 10 	 N/N 	 1 	 weeks two
+11 	 12 	 ((S\NP)\(S\NP))\NP 	 3 	 weeks ago
+16 	 14 	 N/N 	 1 	 Dodd Sen.
+16 	 15 	 N/N 	 1 	 Dodd Christopher
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 Dodd called
+17 	 0 	 (S/S)/S[dcl] 	 1 	 called When
+17 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 called for
+20 	 17 	 (S[dcl]\NP)/NP 	 2 	 Department called
+20 	 18 	 NP[nb]/N 	 1 	 Department the
+20 	 19 	 N/N 	 1 	 Department State
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 briefing for
+23 	 22 	 NP[nb]/N 	 1 	 briefing a
+<\s>
+<s id="wsj_2351.2"> 9
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 They said
+0 	 3 	 (S[b]\NP)/NP 	 1 	 They follow <XB>
+1 	 7 	 ((S[dcl]\S[dcl])\NP)/NP 	 1 	 said told
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 follow said
+4 	 3 	 (S[b]\NP)/NP 	 2 	 CNN follow
+6 	 7 	 ((S[dcl]\S[dcl])\NP)/NP 	 2 	 he told
+8 	 7 	 ((S[dcl]\S[dcl])\NP)/NP 	 3 	 reporters told
+<\s>
+<s id="wsj_2351.3"> 28
+0 	 1 	 (S[dcl]\NP)/S[qem] 	 1 	 That shows
+2 	 1 	 (S[dcl]\NP)/S[qem] 	 2 	 how shows
+3 	 2 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 2 	 far how
+5 	 4 	 N/N 	 1 	 Turner Ted
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Turner 's
+9 	 6 	 (NP[nb]/N)\NP 	 1 	 Network 's
+9 	 7 	 N/N 	 1 	 Network Cable
+9 	 8 	 N/N 	 1 	 Network News
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Network has
+9 	 11 	 S[pt]\NP 	 1 	 Network come <XB>
+10 	 2 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 1 	 has how
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 come has
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 come since
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 birth since
+14 	 13 	 NP[nb]/N 	 1 	 birth its
+14 	 17 	 (NP\NP)\NP 	 1 	 birth ago
+14 	 19 	 (NP\NP)/S[dcl] 	 1 	 birth when
+16 	 15 	 N/N 	 1 	 years nine
+16 	 17 	 (NP\NP)\NP 	 2 	 years ago
+20 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 it was
+20 	 22 	 (S[pss]\NP)/NP 	 1 	 it considered <XB>
+21 	 19 	 (NP\NP)/S[dcl] 	 2 	 was when
+22 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 considered was
+24 	 22 	 (S[pss]\NP)/NP 	 2 	 laughingstock considered
+24 	 23 	 NP[nb]/N 	 1 	 laughingstock the
+24 	 25 	 (NP\NP)/NP 	 1 	 laughingstock of
+27 	 25 	 (NP\NP)/NP 	 2 	 news of
+27 	 26 	 N/N 	 1 	 news television
+<\s>
+<s id="wsj_2351.4"> 20
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 It is
+0 	 2 	 S[adj]\NP 	 1 	 It bigger <XB>
+0 	 4 	 S[adj]\NP 	 1 	 It faster <XU>
+0 	 7 	 S[adj]\NP 	 1 	 It profitable <XU>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 bigger is
+2 	 8 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 bigger than
+4 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 faster is
+4 	 8 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 faster than
+7 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 profitable is
+7 	 6 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 profitable more
+7 	 8 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 profitable than
+11 	 8 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 divisions than
+11 	 9 	 NP[nb]/N 	 1 	 divisions the
+11 	 10 	 N/N 	 1 	 divisions news
+11 	 12 	 (NP\NP)/NP 	 1 	 divisions of
+13 	 12 	 (NP\NP)/NP 	 2 	 any of
+13 	 14 	 (NP\NP)/NP 	 1 	 any of
+19 	 14 	 (NP\NP)/NP 	 2 	 networks of
+19 	 15 	 NP[nb]/N 	 1 	 networks the
+19 	 16 	 N/N 	 1 	 networks three
+19 	 17 	 N/N 	 1 	 networks major
+19 	 18 	 N/N 	 1 	 networks broadcast
+<\s>
+<s id="wsj_2351.5"> 16
+1 	 0 	 NP[nb]/N 	 1 	 niche Its
+1 	 2 	 (NP\NP)/NP 	 1 	 niche as
+1 	 10 	 (S[dcl]\NP)/NP 	 1 	 niche draws
+4 	 2 	 (NP\NP)/NP 	 2 	 network as
+4 	 3 	 NP[nb]/N 	 1 	 network the
+4 	 5 	 (NP\NP)/NP 	 1 	 network of
+4 	 7 	 (NP\NP)/NP 	 1 	 network during
+6 	 5 	 (NP\NP)/NP 	 2 	 record of
+9 	 7 	 (NP\NP)/NP 	 2 	 crises during
+9 	 8 	 N/N 	 1 	 crises major
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 draws around
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 audiences draws
+12 	 11 	 N/N 	 1 	 audiences elite
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 world around
+15 	 14 	 NP[nb]/N 	 1 	 world the
+<\s>
+<s id="wsj_2351.6"> 11
+4 	 1 	 (S/S)/NP 	 2 	 success for
+4 	 2 	 NP/NP 	 1 	 success all
+4 	 3 	 NP[nb]/N 	 1 	 success its
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 CNN has
+6 	 8 	 (S[pt]\NP)/NP 	 1 	 CNN hit <XB>
+7 	 0 	 S/S 	 1 	 has But
+7 	 1 	 (S/S)/NP 	 1 	 has for
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 hit has
+10 	 8 	 (S[pt]\NP)/NP 	 2 	 plateau hit
+10 	 9 	 NP[nb]/N 	 1 	 plateau a
+<\s>
+<s id="wsj_2351.7"> 14
+1 	 2 	 S[dcl]\NP 	 1 	 viewership soars
+2 	 0 	 (S/S)/S[dcl] 	 2 	 soars Although
+2 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 soars when
+5 	 4 	 N/N 	 1 	 news big
+5 	 6 	 S[dcl]\NP 	 1 	 news breaks
+6 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 breaks when
+8 	 9 	 S[dcl]\NP 	 1 	 it ebbs
+9 	 0 	 (S/S)/S[dcl] 	 1 	 ebbs Although
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 ebbs during
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 periods during
+11 	 12 	 (NP\NP)/NP 	 1 	 periods of
+13 	 12 	 (NP\NP)/NP 	 2 	 calm of
+<\s>
+<s id="wsj_2351.8"> 33
+1 	 0 	 N/N 	 1 	 executives CNN
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 executives worry
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that worry
+5 	 4 	 NP[nb]/N 	 1 	 network the
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 network 's
+11 	 6 	 (NP[nb]/N)\NP 	 1 	 format 's
+11 	 7 	 N/N 	 1 	 format punchy <XU>
+11 	 9 	 N/N 	 1 	 format repetitive
+11 	 10 	 N/N 	 1 	 format news
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 format may
+11 	 14 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 format getting <XB>
+11 	 15 	 S[adj]\NP 	 1 	 format stale <XB>
+11 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 format wo <XU>
+11 	 19 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 1 	 format keep <XU>
+12 	 3 	 S[em]/S[dcl] 	 1 	 may that
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+14 	 13 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 getting be
+15 	 14 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 stale getting
+17 	 3 	 S[em]/S[dcl] 	 1 	 wo that
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 wo n't
+19 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 keep wo
+20 	 19 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 3 	 viewers keep
+20 	 21 	 S[ng]\NP 	 1 	 viewers coming <XB>
+21 	 19 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 2 	 coming keep
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 coming back
+21 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 coming as
+25 	 24 	 NP[nb]/N 	 1 	 alternatives the
+25 	 26 	 S[dcl]\NP 	 1 	 alternatives multiply
+26 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 multiply as
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 multiply for
+26 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 multiply on
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 news for
+30 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 information for
+32 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 cable-TV on
+<\s>
+<s id="wsj_2351.9"> 33
+2 	 0 	 NP/NP 	 1 	 fact Just
+2 	 1 	 NP[nb]/N 	 1 	 fact the
+2 	 8 	 (S[dcl]\NP)/NP 	 1 	 fact is
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 we 're
+3 	 5 	 S[adj]\NP 	 1 	 we on <XB>
+4 	 2 	 N/S[dcl] 	 1 	 're fact
+4 	 7 	 (S\NP)\(S\NP) 	 2 	 're hours
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 on 're
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 hours 24
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 is longer
+8 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 longer no
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 bulletin is
+15 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 Turner says
+15 	 14 	 N/N 	 1 	 Turner Ed
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 CNN 's
+21 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+21 	 18 	 (NP[nb]/N)\NP 	 1 	 president 's
+21 	 19 	 N/N 	 1 	 president executive
+21 	 20 	 N/N 	 1 	 president vice
+24 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 gathering says
+24 	 23 	 N/N 	 1 	 gathering news
+28 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 relation says
+28 	 27 	 NP[nb]/N 	 1 	 relation no
+28 	 29 	 (NP\NP)/NP 	 1 	 relation to
+31 	 29 	 (NP\NP)/NP 	 2 	 Turner to
+31 	 30 	 N/N 	 1 	 Turner Ted
+<\s>
+<s id="wsj_2351.10"> 6
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 You ca
+0 	 3 	 (S[b]\NP)/PP 	 1 	 You live <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 ca n't
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 live ca
+4 	 3 	 (S[b]\NP)/PP 	 2 	 on live
+5 	 4 	 PP/NP 	 1 	 that on
+<\s>
+<s id="wsj_2351.11"> 35
+1 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 CNN is
+1 	 13 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 CNN trying <XB>
+1 	 15 	 ((S[b]\NP)/PP)/NP 	 1 	 CNN reposition <XB>
+4 	 3 	 NP[nb]/N 	 1 	 unit a
+4 	 5 	 (NP\NP)/NP 	 1 	 unit of
+4 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 unit is
+4 	 13 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 unit trying <XB>
+4 	 15 	 ((S[b]\NP)/PP)/NP 	 1 	 unit reposition <XB>
+10 	 5 	 (NP\NP)/NP 	 2 	 Inc. of
+10 	 6 	 N/N 	 1 	 Inc. Atlanta-based
+10 	 7 	 N/N 	 1 	 Inc. Turner
+10 	 8 	 N/N 	 1 	 Inc. Broadcasting
+10 	 9 	 N/N 	 1 	 Inc. System
+12 	 0 	 S/S 	 1 	 is So
+13 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trying is
+14 	 13 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reposition to
+16 	 15 	 ((S[b]\NP)/PP)/NP 	 3 	 itself reposition
+17 	 15 	 ((S[b]\NP)/PP)/NP 	 2 	 as reposition
+20 	 17 	 PP/NP 	 1 	 channel as
+20 	 18 	 NP[nb]/N 	 1 	 channel a
+20 	 19 	 N/N 	 1 	 channel primary
+23 	 17 	 PP/NP 	 1 	 what as
+23 	 29 	 ((S[dcl]\NP)/NP)/NP 	 3 	 what call <XU>
+24 	 25 	 (NP\NP)/NP 	 1 	 people in
+24 	 29 	 ((S[dcl]\NP)/NP)/NP 	 1 	 people call
+28 	 25 	 (NP\NP)/NP 	 2 	 industry in
+28 	 26 	 NP[nb]/N 	 1 	 industry the
+28 	 27 	 N/N 	 1 	 industry television
+29 	 23 	 NP/(S[dcl]/NP) 	 1 	 call what
+31 	 32 	 ((N/N)\(N/N))/NP 	 2 	 top of
+33 	 32 	 ((N/N)\(N/N))/NP 	 3 	 mind of
+34 	 29 	 ((S[dcl]\NP)/NP)/NP 	 2 	 network call
+34 	 30 	 NP[nb]/N 	 1 	 network a
+34 	 31 	 N/N 	 1 	 network top
+<\s>
+<s id="wsj_2351.12"> 34
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 kick to
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 kick off
+6 	 3 	 (S[b]\NP)/NP 	 2 	 effort kick
+6 	 5 	 NP[nb]/N 	 1 	 effort the
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 CNN will
+8 	 10 	 (S[b]\NP)/NP 	 1 	 CNN premiere <XB>
+9 	 0 	 S/S 	 1 	 will Tonight
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 premiere will
+14 	 10 	 (S[b]\NP)/NP 	 2 	 newscast premiere
+14 	 11 	 NP[nb]/N 	 1 	 newscast its
+14 	 12 	 N/N 	 1 	 newscast first
+14 	 13 	 N/N 	 1 	 newscast prime-time
+14 	 15 	 (NP\NP)/NP 	 1 	 newscast in
+16 	 15 	 (NP\NP)/NP 	 2 	 years in
+20 	 10 	 (S[b]\NP)/NP 	 2 	 show premiere
+20 	 18 	 NP[nb]/N 	 1 	 show an
+20 	 19 	 N/N 	 1 	 show hourlong
+20 	 21 	 (NP\NP)/NP 	 1 	 show at
+26 	 21 	 (NP\NP)/NP 	 2 	 time at
+26 	 22 	 N/N 	 1 	 time 6
+26 	 23 	 N/N 	 1 	 time p.m
+26 	 25 	 N/N 	 1 	 time Eastern
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 air to
+28 	 29 	 (S\NP)\(S\NP) 	 2 	 air head-to-head
+28 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 air against
+33 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 newscasts against
+33 	 31 	 NP[nb]/N 	 1 	 newscasts the
+33 	 32 	 N/N 	 1 	 newscasts network
+<\s>
+<s id="wsj_2351.13"> 31
+1 	 0 	 NP[nb]/N 	 1 	 show The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 show will
+1 	 4 	 S[pss]\NP 	 1 	 show co-anchored <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 co-anchored be
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 co-anchored by
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Shaw by
+7 	 6 	 N/N 	 1 	 Shaw Bernard
+10 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Crier by
+10 	 9 	 N/N 	 1 	 Crier Catherine
+16 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 judge by
+16 	 12 	 NP[nb]/N 	 1 	 judge a
+16 	 13 	 N/N 	 1 	 judge 34-year-old
+16 	 14 	 N/N 	 1 	 judge former
+16 	 15 	 N/N 	 1 	 judge Texas
+16 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 judge who
+16 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 judge has <XB>
+16 	 24 	 (S[pt]\NP)/NP 	 1 	 judge held <XB>
+20 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 queen by
+20 	 12 	 NP[nb]/N 	 1 	 queen a
+20 	 13 	 N/N 	 1 	 queen 34-year-old
+20 	 14 	 N/N 	 1 	 queen former
+20 	 18 	 N/N 	 1 	 queen campus
+20 	 19 	 N/N 	 1 	 queen beauty
+20 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 queen who
+20 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 queen has <XB>
+20 	 24 	 (S[pt]\NP)/NP 	 1 	 queen held <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has who
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 has never
+24 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 held has
+26 	 24 	 (S[pt]\NP)/NP 	 2 	 job held
+26 	 25 	 NP[nb]/N 	 1 	 job a
+26 	 27 	 (NP\NP)/NP 	 1 	 job in
+28 	 27 	 (NP\NP)/NP 	 2 	 television in
+30 	 27 	 (NP\NP)/NP 	 2 	 journalism in
+<\s>
+<s id="wsj_2351.14"> 35
+2 	 0 	 NP[nb]/N 	 1 	 show The
+2 	 1 	 N/N 	 1 	 show new
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 show is
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 is perhaps
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 boldest is
+6 	 5 	 NP[nb]/N 	 1 	 boldest the
+6 	 7 	 (NP\NP)/NP 	 1 	 boldest in
+9 	 7 	 (NP\NP)/NP 	 2 	 number in
+9 	 8 	 NP[nb]/N 	 1 	 number a
+9 	 10 	 (NP\NP)/NP 	 1 	 number of
+11 	 10 	 (NP\NP)/NP 	 2 	 steps of
+11 	 15 	 (S[ng]\NP)/NP 	 2 	 steps taking <XU>
+13 	 12 	 NP[nb]/N 	 1 	 network the
+13 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 network is
+13 	 15 	 (S[ng]\NP)/NP 	 1 	 network taking <XB>
+13 	 17 	 (S[b]\NP)/NP 	 1 	 network build <XB>
+13 	 21 	 S[ng]\NP 	 1 	 network shifting <XB>
+15 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 taking is
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+17 	 20 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 build by
+19 	 17 	 (S[b]\NP)/NP 	 2 	 loyalty build
+19 	 18 	 N/N 	 1 	 loyalty audience
+21 	 20 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 shifting by
+21 	 22 	 ((S\NP)\(S\NP))/PP 	 2 	 shifting away
+21 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 shifting toward
+23 	 22 	 ((S\NP)\(S\NP))/PP 	 3 	 from away
+26 	 23 	 PP/NP 	 1 	 format from
+26 	 24 	 NP[nb]/N 	 1 	 format its
+26 	 25 	 N/N 	 1 	 format current
+31 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 programming toward
+31 	 28 	 N/N 	 1 	 programming more
+31 	 29 	 N/N 	 1 	 programming full-length
+31 	 30 	 N/N 	 1 	 programming signature
+31 	 32 	 (NP\NP)/NP 	 1 	 programming with
+34 	 32 	 (NP\NP)/NP 	 2 	 stars with
+34 	 33 	 N/N 	 1 	 stars recognizable
+<\s>
+<s id="wsj_2351.15"> 16
+1 	 0 	 (S[to]\NP)/(S[b]\NP) 	 2 	 distinguish To
+2 	 1 	 (S[b]\NP)/NP 	 2 	 itself distinguish
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 CNN is
+4 	 7 	 (S[ng]\NP)/NP 	 1 	 CNN expanding <XB>
+4 	 11 	 (S[ng]\NP)/NP 	 1 	 CNN adding <XU>
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 is also
+7 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 expanding is
+9 	 7 	 (S[ng]\NP)/NP 	 2 	 coverage expanding
+9 	 8 	 N/N 	 1 	 coverage international
+11 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 adding is
+15 	 11 	 (S[ng]\NP)/NP 	 2 	 program adding
+15 	 12 	 NP[nb]/N 	 1 	 program a
+15 	 13 	 N/N 	 1 	 program second
+15 	 14 	 N/N 	 1 	 program global-news
+<\s>
+<s id="wsj_2351.16"> 17
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 It is
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 It paying <XB>
+0 	 12 	 (S[b]\NP)/NP 	 1 	 It lure <XB>
+0 	 14 	 (S[b]\NP)/NP 	 1 	 It keep <XU>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 paying is
+2 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 paying after
+4 	 2 	 (S[ng]\NP)/NP 	 2 	 salaries paying
+4 	 3 	 N/N 	 1 	 salaries higher
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 years after
+7 	 8 	 (NP\NP)/NP 	 1 	 years of
+9 	 8 	 (NP\NP)/NP 	 2 	 scrimping of
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lure to
+14 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 keep to
+16 	 12 	 (S[b]\NP)/NP 	 2 	 staffers lure <XU>
+16 	 14 	 (S[b]\NP)/NP 	 2 	 staffers keep
+16 	 15 	 N/N 	 1 	 staffers experienced
+<\s>
+<s id="wsj_2351.17"> 17
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+1 	 3 	 (S[ng]\NP)/PP 	 1 	 it embarking <XB>
+2 	 0 	 S/S 	 1 	 is And
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 embarking is
+4 	 3 	 (S[ng]\NP)/PP 	 2 	 on embarking
+7 	 4 	 PP/NP 	 1 	 gamble on
+7 	 5 	 NP[nb]/N 	 1 	 gamble an
+7 	 6 	 N/N 	 1 	 gamble expensive
+7 	 9 	 (S[b]\NP)/NP 	 1 	 gamble break <XB>
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 break to
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 break with
+11 	 9 	 (S[b]\NP)/NP 	 2 	 stories break
+11 	 10 	 N/N 	 1 	 stories major
+16 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 team with
+16 	 13 	 NP[nb]/N 	 1 	 team a
+16 	 14 	 N/N 	 1 	 team large
+16 	 15 	 N/N 	 1 	 team investigative-reporting
+<\s>
+<s id="wsj_2351.18"> 44
+2 	 0 	 NP[nb]/N 	 1 	 stage The
+2 	 1 	 N/N 	 1 	 stage next
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 stage is
+2 	 5 	 S[b]\NP 	 1 	 stage get <XB>
+2 	 19 	 (S[b]\NP)/NP 	 1 	 stage become <XB>
+3 	 29 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 get beyond
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 leaders beyond
+9 	 7 	 NP[nb]/N 	 1 	 leaders the
+9 	 8 	 N/N 	 1 	 leaders opinion
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 leaders who
+9 	 11 	 ((S[dcl]\NP)/PP)/NP 	 1 	 leaders use <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 use who
+12 	 11 	 ((S[dcl]\NP)/PP)/NP 	 3 	 us use
+13 	 11 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as use
+15 	 13 	 PP/NP 	 1 	 point as
+15 	 14 	 NP[nb]/N 	 1 	 point a
+15 	 16 	 (NP\NP)/NP 	 1 	 point of
+17 	 16 	 (NP\NP)/NP 	 2 	 reference of
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 become to
+19 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 become at
+21 	 19 	 (S[b]\NP)/NP 	 2 	 point become
+21 	 20 	 NP[nb]/N 	 1 	 point a
+21 	 22 	 (NP\NP)/NP 	 1 	 point of
+23 	 22 	 (NP\NP)/NP 	 2 	 reference of
+27 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 tables at
+27 	 25 	 N/N 	 1 	 tables ordinary
+27 	 26 	 N/N 	 1 	 tables dinner
+31 	 29 	 (S[dcl]\S[dcl])/NP 	 2 	 Petrovich says
+31 	 30 	 N/N 	 1 	 Petrovich Jon
+35 	 29 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+35 	 33 	 N/N 	 1 	 president executive
+35 	 34 	 N/N 	 1 	 president vice
+35 	 36 	 (NP\NP)/NP 	 1 	 president of
+38 	 36 	 (NP\NP)/NP 	 2 	 News of
+38 	 37 	 N/N 	 1 	 News Headline
+40 	 41 	 (NP[nb]/N)\NP 	 2 	 CNN 's
+43 	 36 	 (NP\NP)/NP 	 2 	 network of
+43 	 41 	 (NP[nb]/N)\NP 	 1 	 network 's
+43 	 42 	 N/N 	 1 	 network sister
+<\s>
+<s id="wsj_2351.19"> 6
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 that wo
+1 	 5 	 S[adj]\NP 	 1 	 that easy <XB>
+2 	 0 	 S/S 	 1 	 wo But
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 wo n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be wo
+5 	 4 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 easy be
+<\s>
+<s id="wsj_2351.20"> 19
+0 	 7 	 (S[dcl]\NP)/NP 	 1 	 Networks develop
+5 	 2 	 ((S\NP)/(S\NP))/NP 	 3 	 products like
+5 	 3 	 N/N 	 1 	 products other
+5 	 4 	 N/N 	 1 	 products consumer
+7 	 2 	 ((S\NP)/(S\NP))/NP 	 2 	 develop like
+8 	 7 	 (S[dcl]\NP)/NP 	 2 	 images develop
+8 	 9 	 (NP\NP)/NP 	 1 	 images in
+8 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 images that
+8 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 images are <XB>
+8 	 16 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 1 	 images easy <XB>
+8 	 18 	 (S[b]\NP)/NP 	 2 	 images change <XU>
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 peoples '
+12 	 9 	 (NP\NP)/NP 	 2 	 minds in
+12 	 11 	 (NP[nb]/N)\NP 	 1 	 minds '
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 are n't
+16 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 easy are
+17 	 16 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 2 	 to easy
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 change to
+<\s>
+<s id="wsj_2351.22"> 19
+3 	 1 	 NP[nb]/N 	 1 	 operators the
+3 	 2 	 N/N 	 1 	 operators cable-TV
+3 	 4 	 (NP\NP)/NP 	 1 	 operators --
+3 	 12 	 ((S[dcl]\NP)/NP)/NP 	 1 	 operators like
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 CNN 's
+7 	 4 	 (NP\NP)/NP 	 2 	 distributors --
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 distributors 's
+10 	 4 	 (NP\NP)/NP 	 2 	 owners --
+10 	 6 	 (NP[nb]/N)\NP 	 1 	 owners 's
+10 	 9 	 N/N 	 1 	 owners part
+12 	 0 	 S/S 	 1 	 like And
+13 	 12 	 ((S[dcl]\NP)/NP)/NP 	 3 	 things like
+16 	 12 	 ((S[dcl]\NP)/NP)/NP 	 2 	 way like
+16 	 14 	 NP/NP 	 1 	 way just
+16 	 15 	 NP[nb]/N 	 1 	 way the
+16 	 18 	 (S[dcl]\NP)/NP 	 2 	 way are <XU>
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 they are
+<\s>
+<s id="wsj_2351.23"> 25
+2 	 0 	 NP[nb]/N 	 1 	 bid The
+2 	 1 	 N/N 	 1 	 bid repositioning
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 bid is
+2 	 4 	 (S[pss]\NP)/PP 	 1 	 bid aimed <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 aimed is
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 at aimed
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 CNN 's
+9 	 5 	 PP/NP 	 1 	 viewership at
+9 	 7 	 (NP[nb]/N)\NP 	 1 	 viewership 's
+9 	 8 	 N/N 	 1 	 viewership unsteady
+12 	 5 	 PP/NP 	 1 	 what at
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 what may <XB>
+12 	 14 	 (S[b]\NP)/PP 	 1 	 what happen <XB>
+13 	 12 	 NP/(S[dcl]\NP) 	 1 	 may what
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 happen may
+14 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 happen as
+15 	 14 	 (S[b]\NP)/PP 	 2 	 to happen
+16 	 15 	 PP/NP 	 1 	 it to
+21 	 18 	 NP[nb]/N 	 1 	 market the
+21 	 19 	 N/N 	 1 	 market cable-TV
+21 	 20 	 N/N 	 1 	 market news
+21 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 market grows
+21 	 24 	 S[adj]\NP 	 1 	 market competitive <XB>
+22 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 grows as
+24 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 competitive grows
+24 	 23 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 competitive more
+<\s>
+<s id="wsj_2351.24"> 36
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 CNN is
+2 	 4 	 (S[ng]\NP)/NP 	 1 	 CNN facing <XB>
+3 	 0 	 S/S 	 1 	 is Already
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 facing is
+6 	 4 	 (S[ng]\NP)/NP 	 2 	 competition facing
+6 	 5 	 N/N 	 1 	 competition stronger
+6 	 7 	 (NP\NP)/NP 	 1 	 competition from
+11 	 7 	 (NP\NP)/NP 	 2 	 Inc. from
+11 	 8 	 N/N 	 1 	 Inc. Financial
+11 	 9 	 N/N 	 1 	 Inc. News
+11 	 10 	 N/N 	 1 	 Inc. Network
+11 	 25 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 1 	 Inc. which
+15 	 13 	 N/N 	 1 	 Co. General
+15 	 14 	 N/N 	 1 	 Co. Electric
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Co. 's
+18 	 7 	 (NP\NP)/NP 	 2 	 News from
+18 	 16 	 (NP[nb]/N)\NP 	 1 	 News 's
+18 	 17 	 N/N 	 1 	 News Consumer
+18 	 25 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 1 	 News which
+21 	 7 	 (NP\NP)/NP 	 2 	 Channel from
+21 	 16 	 (NP[nb]/N)\NP 	 1 	 Channel 's
+21 	 17 	 N/N 	 1 	 Channel Consumer
+21 	 20 	 N/N 	 1 	 Channel Business
+21 	 25 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 1 	 Channel which
+23 	 24 	 (NP\NP)/NP 	 1 	 both of
+23 	 25 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 3 	 both which
+26 	 25 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 2 	 are which
+27 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely are
+28 	 27 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pursue to
+29 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 pursue in
+31 	 30 	 (N/N)/(N/N) 	 2 	 general more
+32 	 29 	 (S[b]\NP)/NP 	 2 	 news pursue
+32 	 31 	 N/N 	 1 	 news general
+35 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 future in
+35 	 34 	 NP[nb]/N 	 1 	 future the
+<\s>
+<s id="wsj_2351.25"> 20
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+5 	 3 	 N/N 	 1 	 systems many
+5 	 4 	 N/N 	 1 	 systems cable-TV
+5 	 6 	 NP\NP 	 1 	 systems themselves
+5 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 systems are
+5 	 8 	 (S[ng]\NP)/NP 	 1 	 systems airing <XB>
+7 	 0 	 (S/S)/NP 	 1 	 are In
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 airing are
+14 	 8 	 (S[ng]\NP)/NP 	 2 	 programs airing
+14 	 9 	 N/N 	 1 	 programs more
+14 	 10 	 N/N 	 1 	 programs local <XU>
+14 	 12 	 N/N 	 1 	 programs regional
+14 	 13 	 N/N 	 1 	 programs news
+14 	 15 	 S[pss]\NP 	 1 	 programs produced <XB>
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 produced by
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 stations by
+19 	 17 	 N/N 	 1 	 stations local
+19 	 18 	 N/N 	 1 	 stations broadcast
+<\s>
+<s id="wsj_2351.26"> 8
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 CNN wants
+0 	 3 	 (S[b]\NP)/NP 	 1 	 CNN change <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wants
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 change to
+5 	 4 	 NP[nb]/N 	 1 	 viewers its
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 viewers '
+7 	 3 	 (S[b]\NP)/NP 	 2 	 habits change
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 habits '
+<\s>
+<s id="wsj_2351.27"> 35
+1 	 0 	 NP[nb]/N 	 1 	 watchers Its
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 watchers are
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 are on
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 whole on
+6 	 5 	 NP[nb]/N 	 1 	 whole the
+10 	 2 	 (S[dcl]\NP)/NP 	 2 	 group are
+10 	 8 	 NP[nb]/N 	 1 	 group a
+10 	 9 	 N/N 	 1 	 group disloyal
+10 	 11 	 (NP\NP)/NP 	 1 	 group of
+10 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 group who
+10 	 19 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 1 	 group spend <XB>
+13 	 11 	 (NP\NP)/NP 	 2 	 grazers of
+13 	 12 	 N/N 	 1 	 grazers channel-zapping
+16 	 11 	 (NP\NP)/NP 	 2 	 junkies of
+16 	 15 	 N/N 	 1 	 junkies news
+19 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 spend who
+19 	 31 	 ((S\NP)\(S\NP))/PP 	 2 	 spend according
+21 	 19 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 3 	 average spend
+21 	 20 	 NP[nb]/N 	 1 	 average an
+21 	 22 	 (NP\NP)/NP 	 1 	 average of
+21 	 28 	 (S[ng]\NP)/NP 	 1 	 average watching <XB>
+24 	 23 	 (N/N)/(N/N) 	 2 	 26 just
+25 	 22 	 (NP\NP)/NP 	 2 	 minutes of
+25 	 24 	 N/N 	 1 	 minutes 26
+25 	 26 	 (NP\NP)/N 	 1 	 minutes a
+27 	 26 	 (NP\NP)/N 	 2 	 day a
+28 	 19 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 2 	 watching spend
+29 	 28 	 (S[ng]\NP)/NP 	 2 	 CNN watching
+32 	 31 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+34 	 32 	 PP/NP 	 1 	 research to
+34 	 33 	 N/N 	 1 	 research audience
+<\s>
+<s id="wsj_2351.28"> 14
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That 's
+2 	 3 	 ((NP/NP)/(NP/NP))\(S[adj]\NP) 	 3 	 less than
+4 	 3 	 ((NP/NP)/(NP/NP))\(S[adj]\NP) 	 2 	 one-third than
+6 	 1 	 (S[dcl]\NP)/NP 	 2 	 time 's
+6 	 4 	 NP/NP 	 1 	 time one-third
+6 	 5 	 NP[nb]/N 	 1 	 time the
+6 	 7 	 (NP\NP)/S[dcl] 	 1 	 time that
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 viewers watch
+9 	 7 	 (NP\NP)/S[dcl] 	 2 	 watch that
+13 	 9 	 (S[dcl]\NP)/NP 	 2 	 networks watch
+13 	 10 	 NP[nb]/N 	 1 	 networks the
+13 	 11 	 N/N 	 1 	 networks major
+13 	 12 	 N/N 	 1 	 networks broadcast
+<\s>
+<s id="wsj_2351.29"> 25
+2 	 0 	 NP[nb]/N 	 1 	 attention The
+2 	 1 	 N/N 	 1 	 attention brief
+2 	 4 	 ((S[dcl]\NP)/NP)/NP 	 2 	 attention give <XU>
+2 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 attention could
+2 	 7 	 ((S[b]\NP)/PP)/NP 	 1 	 attention put <XB>
+3 	 4 	 ((S[dcl]\NP)/NP)/NP 	 1 	 viewers give
+5 	 4 	 ((S[dcl]\NP)/NP)/NP 	 3 	 CNN give
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 put could
+7 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 put as
+8 	 7 	 ((S[b]\NP)/PP)/NP 	 3 	 it put
+9 	 7 	 ((S[b]\NP)/PP)/NP 	 2 	 at put
+11 	 9 	 PP/NP 	 1 	 disadvantage at
+11 	 10 	 NP[nb]/N 	 1 	 disadvantage a
+14 	 13 	 N/N 	 1 	 data ratings
+14 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 data become
+14 	 21 	 (S[adj]\NP)/PP 	 1 	 data important <XB>
+17 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 advertising become
+17 	 21 	 (S[adj]\NP)/PP 	 1 	 advertising important <XB>
+19 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 become as
+21 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 important become
+21 	 20 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 important more
+22 	 21 	 (S[adj]\NP)/PP 	 2 	 to important
+24 	 22 	 PP/NP 	 1 	 channels to
+24 	 23 	 N/N 	 1 	 channels cable-TV
+<\s>
+<s id="wsj_2351.30"> 10
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 CNN 's
+3 	 1 	 (NP[nb]/N)\NP 	 1 	 habits 's
+3 	 2 	 N/N 	 1 	 habits viewer
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 habits have
+3 	 6 	 S[pss]\NP 	 1 	 habits molded <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+6 	 5 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 molded been
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 molded by
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 format by
+9 	 8 	 NP[nb]/N 	 1 	 format its
+<\s>
+<s id="wsj_2351.31"> 14
+1 	 0 	 NP[nb]/N 	 1 	 strategy Its
+1 	 2 	 (NP\NP)/NP 	 1 	 strategy in
+1 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 strategy has
+1 	 8 	 (S[b]\NP)/PP 	 1 	 strategy serve <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 past in
+4 	 3 	 NP[nb]/N 	 1 	 past the
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+7 	 6 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to been
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 serve to
+9 	 8 	 (S[b]\NP)/PP 	 2 	 as serve
+13 	 9 	 PP/NP 	 1 	 service as
+13 	 10 	 NP[nb]/N 	 1 	 service a
+13 	 11 	 N/N 	 1 	 service TV
+13 	 12 	 N/N 	 1 	 service wire
+<\s>
+<s id="wsj_2351.32"> 27
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 It focused
+1 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 focused so
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 on focused
+3 	 2 	 PP/(S[ng]\NP) 	 1 	 building on
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 building up
+7 	 3 	 (S[ng]\NP)/NP 	 2 	 bureaus building
+7 	 5 	 NP[nb]/N 	 1 	 bureaus its
+7 	 6 	 N/N 	 1 	 bureaus news
+7 	 8 	 (NP\NP)/NP 	 1 	 bureaus around
+10 	 8 	 (NP\NP)/NP 	 2 	 world around
+10 	 9 	 NP[nb]/N 	 1 	 world the
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 events took
+15 	 13 	 (S/S)/S[dcl] 	 2 	 took as
+16 	 15 	 (S[dcl]\NP)/NP 	 2 	 place took
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it could
+17 	 19 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 it go <XB>
+17 	 20 	 S[adj]\NP 	 1 	 it live <XB>
+18 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 could so
+18 	 13 	 (S/S)/S[dcl] 	 1 	 could as
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go could
+19 	 21 	 (S\NP)\(S\NP) 	 2 	 go quicker
+19 	 23 	 (S\NP)\(S\NP) 	 2 	 go longer <XU>
+20 	 19 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 live go
+21 	 24 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 quicker than
+23 	 24 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 longer than
+26 	 24 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 networks than
+26 	 25 	 N/N 	 1 	 networks other
+<\s>
+<s id="wsj_2351.33"> 28
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 It filled
+4 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 schedule filled
+4 	 2 	 NP[nb]/N 	 1 	 schedule its
+4 	 3 	 N/N 	 1 	 schedule daily
+5 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 with filled
+6 	 5 	 PP/NP 	 1 	 newscasts with
+6 	 7 	 (S[pss]\NP)/NP 	 1 	 newscasts called <XB>
+8 	 7 	 (S[pss]\NP)/NP 	 2 	 Daybreak called
+10 	 7 	 (S[pss]\NP)/NP 	 2 	 Daywatch called
+12 	 7 	 (S[pss]\NP)/NP 	 2 	 Newsday called
+15 	 7 	 (S[pss]\NP)/NP 	 2 	 Newsnight called
+19 	 18 	 NP[nb]/N 	 1 	 shows the
+19 	 20 	 S[dcl]\NP 	 1 	 shows varied
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 varied little
+20 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 varied in
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 content in
+25 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 personality in
+27 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 look in
+<\s>
+<s id="wsj_2351.34"> 9
+3 	 2 	 NP[nb]/N 	 1 	 push the
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 push is
+3 	 5 	 S[adj]\NP 	 1 	 push on <XB>
+4 	 0 	 S/S 	 1 	 is Now
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 is for
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 on is
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 shows for
+8 	 7 	 N/N 	 1 	 shows more-distinctive
+<\s>
+<s id="wsj_2351.35"> 22
+1 	 0 	 NP[nb]/N 	 1 	 goal Our
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 goal is
+1 	 4 	 (S[b]\NP)/NP 	 1 	 goal create <XB>
+2 	 12 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 create to
+6 	 4 	 (S[b]\NP)/NP 	 2 	 programs create
+6 	 5 	 N/N 	 1 	 programs more
+6 	 7 	 (NP\NP)/NP 	 1 	 programs with
+10 	 7 	 (NP\NP)/NP 	 2 	 identity with
+10 	 8 	 NP[nb]/N 	 1 	 identity an
+10 	 9 	 N/N 	 1 	 identity individual
+14 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 Amos says
+14 	 13 	 N/N 	 1 	 Amos Paul
+19 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+19 	 16 	 N/N 	 1 	 president CNN
+19 	 17 	 N/N 	 1 	 president executive
+19 	 18 	 N/N 	 1 	 president vice
+19 	 20 	 (NP\NP)/NP 	 1 	 president for
+21 	 20 	 (NP\NP)/NP 	 2 	 programming for
+<\s>
+<s id="wsj_2351.36"> 34
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 CNN is
+2 	 4 	 (S[ng]\NP)/NP 	 1 	 CNN adding <XB>
+3 	 0 	 S/S 	 1 	 is Accordingly
+3 	 31 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 adding is
+4 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 adding because
+7 	 4 	 (S[ng]\NP)/NP 	 2 	 show adding
+7 	 5 	 NP[nb]/N 	 1 	 show a
+7 	 6 	 N/N 	 1 	 show world-affairs
+7 	 8 	 (NP\NP)/NP 	 1 	 show in
+10 	 8 	 (NP\NP)/NP 	 2 	 morning in
+10 	 9 	 NP[nb]/N 	 1 	 morning the
+12 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 surveys show
+13 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 show because
+16 	 14 	 NP[nb]/N 	 1 	 hour its
+16 	 15 	 N/N 	 1 	 hour global-news
+16 	 17 	 (NP\NP)/NP 	 1 	 hour in
+16 	 20 	 (S[dcl]\NP)/PP 	 1 	 hour is
+19 	 17 	 (NP\NP)/NP 	 2 	 afternoon in
+19 	 18 	 NP[nb]/N 	 1 	 afternoon the
+20 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 is show
+20 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 is in
+21 	 20 	 (S[dcl]\NP)/PP 	 2 	 among is
+24 	 23 	 (N/N)/(N/N) 	 2 	 differentiated most
+25 	 21 	 PP/NP 	 1 	 programs among
+25 	 22 	 NP[nb]/N 	 1 	 programs its
+25 	 24 	 N/N 	 1 	 programs differentiated
+27 	 28 	 (NP[nb]/N)\NP 	 2 	 viewers '
+29 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 minds in
+29 	 28 	 (NP[nb]/N)\NP 	 1 	 minds '
+33 	 31 	 (S[dcl]\S[dcl])/NP 	 2 	 Amos says
+33 	 32 	 N/N 	 1 	 Amos Mr.
+<\s>
+<s id="wsj_2351.37"> 27
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 it exploring <XB>
+2 	 0 	 S/S 	 1 	 is And
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 exploring is
+6 	 3 	 (S[ng]\NP)/NP 	 2 	 programs exploring
+6 	 4 	 N/N 	 1 	 programs other
+6 	 5 	 N/N 	 1 	 programs original
+6 	 8 	 S[adj]\NP 	 1 	 programs similar <XB>
+6 	 19 	 (NP\NP)/(S[dcl]/NP) 	 1 	 programs which
+6 	 21 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 2 	 programs hope <XU>
+6 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 programs will <XU>
+6 	 23 	 ((S[b]\NP)/(S[pss]\NP))/NP 	 1 	 programs keep <XU>
+8 	 9 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 similar to
+12 	 9 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 King to
+12 	 10 	 NP/NP 	 1 	 King its
+12 	 11 	 N/N 	 1 	 King Larry
+12 	 13 	 S[adj]\NP 	 1 	 King Live <XB>
+12 	 16 	 NP\NP 	 1 	 King talk
+12 	 17 	 NP\NP 	 1 	 King shows
+15 	 9 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 Crossfire to
+15 	 10 	 NP/NP 	 1 	 Crossfire its
+15 	 16 	 NP\NP 	 1 	 Crossfire talk
+15 	 17 	 NP\NP 	 1 	 Crossfire shows
+20 	 21 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 1 	 executives hope
+21 	 19 	 (NP\NP)/(S[dcl]/NP) 	 2 	 hope which
+22 	 21 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 3 	 will hope
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 keep will
+24 	 23 	 ((S[b]\NP)/(S[pss]\NP))/NP 	 3 	 people keep
+24 	 25 	 S[pss]\NP 	 1 	 people tuned <XB>
+25 	 23 	 ((S[b]\NP)/(S[pss]\NP))/NP 	 2 	 tuned keep
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 tuned in
+<\s>
+<s id="wsj_2351.38"> 16
+1 	 2 	 (S[dcl]\NP[thr])/NP 	 1 	 there 's
+2 	 0 	 S/S 	 1 	 's Then
+5 	 2 	 (S[dcl]\NP[thr])/NP 	 2 	 Today 's
+5 	 3 	 N/N 	 1 	 Today The
+5 	 4 	 N/N 	 1 	 Today World
+9 	 2 	 (S[dcl]\NP[thr])/NP 	 2 	 newscast 's
+9 	 7 	 NP[nb]/N 	 1 	 newscast the
+9 	 8 	 N/N 	 1 	 newscast prime-time
+9 	 10 	 (S[ng]\NP)/NP 	 1 	 newscast featuring <XB>
+12 	 10 	 (S[ng]\NP)/NP 	 2 	 Shaw featuring
+12 	 11 	 N/N 	 1 	 Shaw Mr.
+15 	 10 	 (S[ng]\NP)/NP 	 2 	 Crier featuring
+15 	 14 	 N/N 	 1 	 Crier Ms.
+<\s>
+<s id="wsj_2351.39"> 15
+1 	 0 	 (S/S)/NP 	 2 	 now Until
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 CNN has
+3 	 5 	 (S[pt]\NP)/NP 	 1 	 CNN featured <XB>
+4 	 0 	 (S/S)/NP 	 1 	 has Until
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 featured has
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 featured during
+9 	 5 	 (S[pt]\NP)/NP 	 2 	 show featured
+9 	 6 	 NP[nb]/N 	 1 	 show its
+9 	 7 	 N/N 	 1 	 show Hollywood
+9 	 8 	 N/N 	 1 	 show gossip
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 period during
+14 	 11 	 NP[nb]/N 	 1 	 period the
+14 	 12 	 N/N 	 1 	 period key
+14 	 13 	 N/N 	 1 	 period evening
+<\s>
+<s id="wsj_2351.40"> 27
+2 	 1 	 N/N 	 1 	 % 70
+2 	 3 	 (NP\NP)/NP 	 1 	 % of
+2 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 % do
+2 	 11 	 S[adj]\NP 	 1 	 % so <XB>
+6 	 3 	 (NP\NP)/NP 	 2 	 households of
+6 	 4 	 NP[nb]/N 	 1 	 households the
+6 	 5 	 N/N 	 1 	 households cable-television-equipped
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 households that
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 households watch <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 watch that
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 news watch
+10 	 0 	 S/S 	 1 	 do But
+10 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 do between
+10 	 21 	 (S[dcl]\S[dcl])\NP 	 1 	 do discovered
+11 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 so do
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 6:30 between
+13 	 14 	 N\N 	 1 	 6:30 p.m.
+16 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 7 between
+16 	 17 	 N\N 	 1 	 7 p.m.
+20 	 19 	 NP[nb]/N 	 1 	 network the
+20 	 21 	 (S[dcl]\S[dcl])\NP 	 2 	 network discovered
+21 	 23 	 (S\S)/S[dcl] 	 1 	 discovered so
+24 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 CNN wants
+24 	 26 	 S[adj]\NP 	 1 	 CNN in <XB>
+25 	 23 	 (S\S)/S[dcl] 	 2 	 wants so
+26 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 in wants
+<\s>
+<s id="wsj_2351.41"> 33
+1 	 0 	 N/N 	 1 	 Amos Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Amos says
+5 	 3 	 NP[nb]/N 	 1 	 team the
+5 	 4 	 N/N 	 1 	 team Shaw-Crier
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 team will
+5 	 8 	 (S[b]\NP)/NP 	 1 	 team do <XB>
+6 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will says
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 will probably
+8 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 do will
+8 	 15 	 ((S\NP)\(S\NP))/S[ng] 	 2 	 do with
+11 	 8 	 (S[b]\NP)/NP 	 2 	 interviews do
+11 	 9 	 N/N 	 1 	 interviews two
+11 	 10 	 N/N 	 1 	 interviews live
+11 	 12 	 (NP\NP)/N 	 1 	 interviews a
+13 	 12 	 (NP\NP)/N 	 2 	 day a
+16 	 17 	 (NP\NP)/NP 	 1 	 most of
+16 	 26 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 most appearing
+16 	 27 	 (S[adj]\NP)/PP 	 1 	 most similar <XB>
+19 	 17 	 (NP\NP)/NP 	 2 	 program of
+19 	 18 	 NP[nb]/N 	 1 	 program the
+22 	 21 	 (((S\NP)/(S\NP))/((S\NP)/(S\NP)))/(S[asup]\NP) 	 4 	 least at
+23 	 21 	 (((S\NP)/(S\NP))/((S\NP)/(S\NP)))/(S[asup]\NP) 	 3 	 for at
+24 	 23 	 ((S\NP)/(S\NP))/NP 	 3 	 now for
+26 	 15 	 ((S\NP)\(S\NP))/S[ng] 	 3 	 appearing with
+26 	 23 	 ((S\NP)/(S\NP))/NP 	 2 	 appearing for
+27 	 26 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 similar appearing
+28 	 27 	 (S[adj]\NP)/PP 	 2 	 to similar
+29 	 30 	 (NP[nb]/N)\NP 	 2 	 CNN 's
+32 	 28 	 PP/NP 	 1 	 newcasts to
+32 	 30 	 (NP[nb]/N)\NP 	 1 	 newcasts 's
+32 	 31 	 N/N 	 1 	 newcasts other
+<\s>
+<s id="wsj_2351.42"> 6
+0 	 1 	 (NP\NP)/NP 	 1 	 Some in
+0 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Some are
+0 	 5 	 S[adj]\NP 	 1 	 Some skeptical <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 industry in
+3 	 2 	 NP[nb]/N 	 1 	 industry the
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 skeptical are
+<\s>
+<s id="wsj_2351.43"> 45
+0 	 1 	 (((S[dcl]\NP)/(S[to]\NP))/(S[adj]\NP))/NP[expl] 	 1 	 I find
+1 	 28 	 (S[dcl]\S[dcl])/NP 	 1 	 find says
+2 	 1 	 (((S[dcl]\NP)/(S[to]\NP))/(S[adj]\NP))/NP[expl] 	 4 	 it find
+3 	 1 	 (((S[dcl]\NP)/(S[to]\NP))/(S[adj]\NP))/NP[expl] 	 3 	 hard find
+4 	 1 	 (((S[dcl]\NP)/(S[to]\NP))/(S[adj]\NP))/NP[expl] 	 2 	 to find
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 conceive to
+6 	 5 	 (S[b]\NP)/PP 	 2 	 of conceive
+7 	 6 	 (PP/(S[ng]\NP))/NP 	 2 	 people of
+7 	 8 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 people switching <XB>
+7 	 9 	 S[adj]\NP 	 1 	 people over <XB>
+8 	 6 	 (PP/(S[ng]\NP))/NP 	 1 	 switching of
+8 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 switching to
+8 	 12 	 ((S\NP)\(S\NP))/S[qem] 	 2 	 switching for
+9 	 8 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 over switching
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 CNN to
+13 	 12 	 ((S\NP)\(S\NP))/S[qem] 	 3 	 what for
+16 	 15 	 (((S\NP)/(S\NP))/((S\NP)/(S\NP)))/(S[asup]\NP) 	 4 	 least at
+17 	 15 	 (((S\NP)/(S\NP))/((S\NP)/(S\NP)))/(S[asup]\NP) 	 3 	 in at
+19 	 18 	 NP[nb]/N 	 1 	 public the
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 public 's
+21 	 17 	 ((S\NP)/(S\NP))/NP 	 3 	 mind in
+21 	 20 	 (NP[nb]/N)\NP 	 1 	 mind 's
+23 	 13 	 S[qem]/(S[dcl]\NP) 	 1 	 is what
+23 	 17 	 ((S\NP)/(S\NP))/NP 	 2 	 is in
+26 	 23 	 (S[dcl]\NP)/NP 	 2 	 news is
+26 	 24 	 NP[nb]/N 	 1 	 news the
+26 	 25 	 N/N 	 1 	 news same
+30 	 28 	 (S[dcl]\S[dcl])/NP 	 2 	 Frank says
+30 	 29 	 N/N 	 1 	 Frank Reuven
+35 	 28 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+35 	 32 	 NP[nb]/N 	 1 	 president the
+35 	 33 	 N/N 	 1 	 president former
+35 	 34 	 N/N 	 1 	 president two-time
+35 	 36 	 (NP\NP)/NP 	 1 	 president of
+38 	 36 	 (NP\NP)/NP 	 2 	 News of
+38 	 37 	 N/N 	 1 	 News NBC
+40 	 28 	 (S[dcl]\S[dcl])/NP 	 2 	 creator says
+40 	 41 	 (NP\NP)/NP 	 1 	 creator of
+44 	 41 	 (NP\NP)/NP 	 2 	 Report of
+44 	 42 	 NP[nb]/N 	 1 	 Report the
+44 	 43 	 N/N 	 1 	 Report Huntley-Brinkley
+<\s>
+<s id="wsj_2351.44"> 17
+2 	 0 	 NP[nb]/N 	 1 	 news The
+2 	 1 	 N/N 	 1 	 news evening
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 news is
+2 	 5 	 (S[pss]\NP)/PP 	 1 	 news slated <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 is also
+5 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 slated is
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 as slated
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 CNN 's
+9 	 6 	 PP/NP 	 1 	 stage as
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 stage 's
+9 	 10 	 (NP\NP)/NP 	 1 	 stage for
+13 	 10 	 (NP\NP)/NP 	 2 	 push for
+13 	 11 	 NP[nb]/N 	 1 	 push its
+13 	 12 	 N/N 	 1 	 push big
+13 	 14 	 (NP\NP)/NP 	 1 	 push into
+16 	 14 	 (NP\NP)/NP 	 2 	 journalism into
+16 	 15 	 N/N 	 1 	 journalism investigative
+<\s>
+<s id="wsj_2351.45"> 19
+1 	 0 	 (S/S)/NP 	 2 	 August In
+4 	 3 	 NP[nb]/N 	 1 	 network the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 network hired
+5 	 0 	 (S/S)/NP 	 1 	 hired In
+9 	 5 	 (S[dcl]\NP)/NP 	 2 	 Hill hired
+9 	 6 	 N/N 	 1 	 Hill award-winning
+9 	 7 	 N/N 	 1 	 Hill producer
+9 	 8 	 N/N 	 1 	 Hill Pamela
+13 	 5 	 (S[dcl]\NP)/NP 	 2 	 head hired
+13 	 11 	 NP[nb]/N 	 1 	 head the
+13 	 12 	 N/N 	 1 	 head former
+13 	 14 	 (NP\NP)/NP 	 1 	 head of
+13 	 17 	 (NP\NP)/NP 	 1 	 head at
+16 	 14 	 (NP\NP)/NP 	 2 	 specials of
+16 	 15 	 N/N 	 1 	 specials news
+18 	 17 	 (NP\NP)/NP 	 2 	 ABC at
+<\s>
+<s id="wsj_2351.46"> 25
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 She 's
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 She assembling <XB>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 assembling 's
+4 	 2 	 (S[ng]\NP)/NP 	 2 	 staff assembling
+4 	 3 	 NP[nb]/N 	 1 	 staff a
+4 	 5 	 (NP\NP)/NP 	 1 	 staff of
+4 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 staff who
+4 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 staff will <XB>
+4 	 12 	 (S[b]\NP)/NP 	 1 	 staff produce <XB>
+7 	 6 	 (N/N)/(N/N) 	 2 	 35 about
+9 	 5 	 (NP\NP)/NP 	 2 	 reporters of
+9 	 7 	 N/N 	 1 	 reporters 35
+9 	 8 	 N/N 	 1 	 reporters investigative
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will who
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 produce will
+12 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 produce with
+16 	 12 	 (S[b]\NP)/NP 	 2 	 segments produce
+16 	 13 	 N/N 	 1 	 segments weekly
+16 	 15 	 N/N 	 1 	 segments in-depth
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 eye with
+20 	 19 	 NP[nb]/N 	 1 	 eye an
+20 	 21 	 (NP\NP)/(S[ng]\NP) 	 1 	 eye toward
+22 	 21 	 (NP\NP)/(S[ng]\NP) 	 2 	 breaking toward
+24 	 22 	 (S[ng]\NP)/NP 	 2 	 stories breaking
+24 	 23 	 N/N 	 1 	 stories big
+<\s>
+<s id="wsj_2351.47"> 27
+1 	 0 	 N/N 	 1 	 executives CNN
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 executives hope
+4 	 3 	 NP[nb]/N 	 1 	 headlines the
+4 	 5 	 S[pss]\NP 	 1 	 headlines created <XB>
+4 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 headlines will
+4 	 10 	 (S[b]\NP)/NP 	 1 	 headlines generate <XB>
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 created by
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 scoops by
+8 	 7 	 NP/NP 	 1 	 scoops such
+9 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will hope
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 generate will
+10 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 generate for
+10 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 generate in
+11 	 10 	 (S[b]\NP)/NP 	 2 	 excitement generate
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 programs for
+15 	 13 	 NP[nb]/N 	 1 	 programs its
+15 	 14 	 N/N 	 1 	 programs branded
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 way in
+19 	 18 	 NP[nb]/N 	 1 	 way the
+21 	 20 	 N/N 	 1 	 Minutes 60
+21 	 22 	 S[dcl]\NP 	 1 	 Minutes did
+22 	 24 	 (S\NP)\(S\NP) 	 2 	 did well
+22 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 did for
+24 	 23 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 well so
+26 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 CBS for
+<\s>
+<s id="wsj_2351.48"> 34
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That 's
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 departure 's
+4 	 2 	 NP/NP 	 1 	 departure such
+4 	 3 	 NP[nb]/N 	 1 	 departure a
+4 	 5 	 (NP\NP)/NP 	 1 	 departure from
+4 	 8 	 (NP\NP)/S[dcl] 	 1 	 departure that
+7 	 5 	 (NP\NP)/NP 	 2 	 past from
+7 	 6 	 NP[nb]/N 	 1 	 past the
+9 	 10 	 (NP\NP)/NP 	 1 	 many in
+9 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 many are
+9 	 14 	 (S[adj]\NP)/S[dcl] 	 1 	 many skeptical <XB>
+12 	 10 	 (NP\NP)/NP 	 2 	 industry in
+12 	 11 	 NP[nb]/N 	 1 	 industry the
+13 	 8 	 (NP\NP)/S[dcl] 	 2 	 are that
+14 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 skeptical are
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 CNN will
+15 	 17 	 (S[b]\NP)/PP 	 1 	 CNN follow <XB>
+16 	 14 	 (S[adj]\NP)/S[dcl] 	 2 	 will skeptical
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 follow will
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 follow through
+17 	 25 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 follow after
+19 	 17 	 (S[b]\NP)/PP 	 2 	 with follow
+22 	 19 	 PP/NP 	 1 	 commitment with
+22 	 20 	 NP[nb]/N 	 1 	 commitment its
+22 	 21 	 N/N 	 1 	 commitment investigative
+25 	 24 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 after especially
+26 	 27 	 (S[dcl]\NP)/NP 	 1 	 it sees
+27 	 25 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 sees after
+29 	 27 	 (S[dcl]\NP)/NP 	 2 	 cost sees
+29 	 28 	 NP[nb]/N 	 1 	 cost the
+29 	 30 	 (NP\NP)/(S[ng]\NP) 	 1 	 cost of
+31 	 30 	 (NP\NP)/(S[ng]\NP) 	 2 	 producing of
+33 	 31 	 (S[ng]\NP)/NP 	 2 	 pieces producing
+33 	 32 	 N/N 	 1 	 pieces in-depth
+<\s>
+<s id="wsj_2351.49"> 32
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 They 've
+0 	 3 	 (S[pt]\NP)/NP 	 1 	 They shown <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 've never
+1 	 12 	 (S[dcl]\S[dcl])/NP 	 1 	 've says
+3 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 shown 've
+5 	 3 	 (S[pt]\NP)/NP 	 2 	 inclination shown
+5 	 4 	 NP[nb]/N 	 1 	 inclination any
+5 	 7 	 ((S[b]\NP)/PP)/NP 	 1 	 inclination spend <XB>
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 spend to
+8 	 7 	 ((S[b]\NP)/PP)/NP 	 3 	 money spend
+9 	 7 	 ((S[b]\NP)/PP)/NP 	 2 	 on spend
+10 	 9 	 PP/NP 	 1 	 production on
+14 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 Mosettig says
+14 	 13 	 N/N 	 1 	 Mosettig Michael
+14 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Mosettig who
+14 	 24 	 (S[dcl]\NP)/S[em] 	 1 	 Mosettig notes <XB>
+18 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 producer says
+18 	 16 	 NP[nb]/N 	 1 	 producer a
+18 	 17 	 N/N 	 1 	 producer senior
+18 	 19 	 (NP\NP)/NP 	 1 	 producer with
+18 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 producer who
+18 	 24 	 (S[dcl]\NP)/S[em] 	 1 	 producer notes <XB>
+21 	 19 	 (NP\NP)/NP 	 2 	 NewsHour with
+21 	 20 	 N/N 	 1 	 NewsHour MacNeil-Lehrer
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 notes who
+25 	 24 	 (S[dcl]\NP)/S[em] 	 2 	 that notes
+26 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 CNN is
+26 	 28 	 (S[adj]\NP)/PP 	 1 	 CNN indispensable <XB>
+27 	 25 	 S[em]/S[dcl] 	 1 	 is that
+28 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 indispensable is
+29 	 28 	 (S[adj]\NP)/PP 	 2 	 to indispensable
+31 	 29 	 PP/NP 	 1 	 job to
+31 	 30 	 NP[nb]/N 	 1 	 job his
+<\s>
+<s id="wsj_2351.50"> 18
+1 	 0 	 NP[nb]/N 	 1 	 network The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 network 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 salaries 's
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 salaries have
+3 	 6 	 S[pt]\NP 	 1 	 salaries ranged <XB>
+3 	 12 	 (S[ng]\NP)/PP 	 1 	 salaries resulting <XB>
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 have always
+6 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 ranged have
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 ranged below
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 below far
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 standards below
+10 	 9 	 N/N 	 1 	 standards industry
+13 	 12 	 (S[ng]\NP)/PP 	 2 	 in resulting
+17 	 13 	 PP/NP 	 1 	 force in
+17 	 14 	 NP[nb]/N 	 1 	 force a
+17 	 15 	 N/N 	 1 	 force less-experienced
+17 	 16 	 N/N 	 1 	 force work
+<\s>
+<s id="wsj_2351.51"> 23
+0 	 2 	 ((S[dcl]\NP)/NP)/NP 	 1 	 CNN gave
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 gave recently
+4 	 2 	 ((S[dcl]\NP)/NP)/NP 	 3 	 employees gave
+4 	 3 	 N/N 	 1 	 employees most
+5 	 2 	 ((S[dcl]\NP)/NP)/NP 	 2 	 raises gave
+5 	 6 	 (NP\NP)/NP 	 1 	 raises of
+7 	 6 	 (NP\NP)/NP 	 2 	 as of
+8 	 7 	 (N/PP)/(S[adj]\NP) 	 2 	 much as
+9 	 7 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+11 	 9 	 PP/NP 	 1 	 % as
+11 	 10 	 N/N 	 1 	 % 15
+14 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 they 're
+14 	 18 	 S[pss]\NP 	 1 	 they underpaid <XB>
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 're still
+18 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 underpaid 're
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 underpaid drastically
+18 	 19 	 ((S\NP)\(S\NP))/PP 	 2 	 underpaid compared
+20 	 19 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+22 	 20 	 PP/NP 	 1 	 networks with
+22 	 21 	 NP[nb]/N 	 1 	 networks the
+<\s>
+<s id="wsj_2351.52"> 16
+2 	 0 	 (S[dcl]/S[dcl])/NP 	 2 	 Mosettig Says
+2 	 1 	 N/N 	 1 	 Mosettig Mr.
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 CNN is
+5 	 0 	 (S[dcl]/S[dcl])/NP 	 1 	 is Says
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 service is
+8 	 6 	 NP[nb]/N 	 1 	 service my
+8 	 7 	 N/N 	 1 	 service wire
+10 	 11 	 (S[dcl]\NP)/PP 	 1 	 they 're
+11 	 0 	 (S[dcl]/S[dcl])/NP 	 1 	 're Says
+12 	 11 	 (S[dcl]\NP)/PP 	 2 	 on 're
+13 	 12 	 PP/NP 	 1 	 top on
+13 	 14 	 (NP\NP)/NP 	 1 	 top of
+15 	 14 	 (NP\NP)/NP 	 2 	 everything of
+<\s>
+<s id="wsj_2351.53"> 14
+2 	 1 	 (S[to]\NP)/(S[b]\NP) 	 2 	 improve to
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 they 've
+4 	 7 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 they got <XB>
+4 	 9 	 (S[b]\NP)/NP 	 1 	 they make <XB>
+5 	 0 	 S/S 	 1 	 've But
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 've really
+7 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 got 've
+8 	 7 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to got
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+11 	 9 	 (S[b]\NP)/NP 	 2 	 investment make
+11 	 10 	 NP[nb]/N 	 1 	 investment the
+11 	 12 	 (NP\NP)/NP 	 1 	 investment in
+13 	 12 	 (NP\NP)/NP 	 2 	 people in
+<\s>
+<s id="wsj_2351.54"> 16
+2 	 0 	 (S/S)/NP 	 2 	 case In
+2 	 1 	 NP[nb]/N 	 1 	 case any
+5 	 4 	 N/N 	 1 	 operators cable-TV-system
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 operators have
+6 	 0 	 (S/S)/NP 	 1 	 have In
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 reason have
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 fear to
+11 	 9 	 (S[b]\NP)/NP 	 2 	 tinkering fear
+11 	 10 	 NP[nb]/N 	 1 	 tinkering any
+11 	 12 	 (NP\NP)/NP 	 1 	 tinkering with
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 CNN 's
+15 	 12 	 (NP\NP)/NP 	 2 	 format with
+15 	 14 	 (NP[nb]/N)\NP 	 1 	 format 's
+<\s>
+<s id="wsj_2351.55"> 12
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 They market
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 market on
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 cable-TV market
+7 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 opportunities on
+7 	 4 	 NP[nb]/N 	 1 	 opportunities the
+7 	 5 	 N/N 	 1 	 opportunities very
+7 	 6 	 N/N 	 1 	 opportunities grazing
+7 	 11 	 (S[b]\NP)/NP 	 2 	 opportunities discourage <XU>
+8 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 CNN seeks
+8 	 11 	 (S[b]\NP)/NP 	 1 	 CNN discourage <XB>
+10 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to seeks
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 discourage to
+<\s>
+<s id="wsj_2351.56"> 42
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 We would
+0 	 4 	 S[adj]\NP 	 1 	 We upset <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 would obviously
+1 	 18 	 (S[dcl]\S[dcl])/NP 	 1 	 would says
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+3 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 be if
+4 	 3 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 upset be
+7 	 6 	 NP[nb]/N 	 1 	 kinds those
+7 	 8 	 (NP\NP)/NP 	 1 	 kinds of
+7 	 10 	 (S[dcl]\NP)/PP 	 1 	 kinds evolved
+9 	 8 	 (NP\NP)/NP 	 2 	 services of
+10 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 evolved if
+11 	 10 	 (S[dcl]\NP)/PP 	 2 	 into evolved
+13 	 12 	 (N/N)/(N/N) 	 2 	 general-interest more
+16 	 11 	 PP/NP 	 1 	 programming into
+16 	 13 	 N/N 	 1 	 programming general-interest
+16 	 15 	 N/N 	 1 	 programming long-format
+20 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 Stengel says
+20 	 19 	 N/N 	 1 	 Stengel Robert
+24 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+24 	 22 	 N/N 	 1 	 president senior
+24 	 23 	 N/N 	 1 	 president vice
+24 	 28 	 (NP\NP)/NP 	 1 	 president of
+26 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 programming says
+26 	 28 	 (NP\NP)/NP 	 1 	 programming of
+31 	 28 	 (NP\NP)/NP 	 2 	 Inc. of
+31 	 29 	 N/N 	 1 	 Inc. Continental
+31 	 30 	 N/N 	 1 	 Inc. Cablevision
+31 	 33 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Inc. which
+31 	 34 	 (S[dcl]\NP)/NP 	 1 	 Inc. holds <XB>
+34 	 33 	 (NP\NP)/(S[dcl]\NP) 	 2 	 holds which
+37 	 36 	 (N/N)/(N/N) 	 2 	 % 2
+38 	 34 	 (S[dcl]\NP)/NP 	 2 	 stake holds
+38 	 35 	 NP[nb]/N 	 1 	 stake a
+38 	 37 	 N/N 	 1 	 stake %
+38 	 39 	 (NP\NP)/NP 	 1 	 stake in
+41 	 39 	 (NP\NP)/NP 	 2 	 Broadcasting in
+41 	 40 	 N/N 	 1 	 Broadcasting Turner
+<\s>

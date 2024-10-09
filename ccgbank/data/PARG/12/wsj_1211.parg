@@ -1,0 +1,76 @@
+<s id="wsj_1211.1"> 39
+2 	 0 	 N/N 	 1 	 Corp. CONTROL
+2 	 1 	 N/N 	 1 	 Corp. DATA
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+4 	 6 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 it offering <XB>
+4 	 8 	 (S[b]\NP)/NP 	 1 	 it purchase <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 offering is
+7 	 6 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to offering
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 purchase to
+8 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 purchase at
+8 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 purchase plus
+12 	 10 	 (N/N)/N[num] 	 2 	 million $
+12 	 11 	 N/N 	 1 	 million 154.2
+13 	 8 	 (S[b]\NP)/NP 	 2 	 amount purchase
+13 	 9 	 NP[nb]/N 	 1 	 amount the
+13 	 10 	 (N/N)/N[num] 	 1 	 amount $
+13 	 14 	 (NP\NP)/NP 	 1 	 amount of
+17 	 16 	 ((N/N)/(N/N))/((N/N)/(N/N)) 	 3 	 3\/4 12
+18 	 17 	 (N/N)/(N/N) 	 2 	 % 3\/4
+20 	 14 	 (NP\NP)/NP 	 2 	 notes of
+20 	 15 	 NP[nb]/N 	 1 	 notes its
+20 	 18 	 N/N 	 1 	 notes %
+20 	 19 	 N/N 	 1 	 notes senior
+20 	 21 	 (S[adj]\NP)/NP 	 1 	 notes due <XB>
+22 	 21 	 (S[adj]\NP)/NP 	 2 	 June due
+22 	 25 	 N\N 	 1 	 June 1991
+23 	 22 	 N/N[num] 	 1 	 15 June
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 par at
+32 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 interest plus
+32 	 31 	 N/N 	 1 	 interest accrued
+32 	 33 	 (NP\NP)/NP 	 1 	 interest to
+38 	 33 	 (NP\NP)/NP 	 2 	 date to
+38 	 34 	 NP[nb]/N 	 1 	 date the
+38 	 35 	 N/N 	 1 	 date Dec.
+38 	 36 	 N/N 	 1 	 date 8
+38 	 37 	 N/N 	 1 	 date purchase
+<\s>
+<s id="wsj_1211.2"> 38
+6 	 0 	 NP[nb]/N 	 1 	 concern The
+6 	 1 	 N/N 	 1 	 concern Minneapolis
+6 	 2 	 N/N 	 1 	 concern computer
+6 	 3 	 N/N 	 1 	 concern systems
+6 	 5 	 N/N 	 1 	 concern services
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 concern said
+9 	 8 	 NP[nb]/N 	 1 	 offer the
+9 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 offer is
+9 	 11 	 S[pss]\NP 	 1 	 offer required <XB>
+10 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 required is
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 required under
+11 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 required as
+16 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 indenture under
+16 	 13 	 NP[nb]/N 	 1 	 indenture the
+16 	 14 	 N/N 	 1 	 indenture senior
+16 	 15 	 N/N 	 1 	 indenture note
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 result as
+19 	 18 	 NP[nb]/N 	 1 	 result a
+19 	 20 	 (NP\NP)/NP 	 1 	 result of
+22 	 21 	 N/N 	 1 	 Data Control
+22 	 23 	 (NP[nb]/N)\NP 	 2 	 Data 's
+25 	 20 	 (NP\NP)/NP 	 2 	 sale of
+25 	 23 	 (NP[nb]/N)\NP 	 1 	 sale 's
+25 	 24 	 N/N 	 1 	 sale recent
+25 	 26 	 (NP\NP)/NP 	 1 	 sale of
+25 	 34 	 (NP\NP)/NP 	 1 	 sale to
+30 	 26 	 (NP\NP)/NP 	 2 	 subsidiary of
+30 	 27 	 NP[nb]/N 	 1 	 subsidiary its
+30 	 28 	 N/N 	 1 	 subsidiary disk
+30 	 29 	 N/N 	 1 	 subsidiary drive
+32 	 26 	 (NP\NP)/NP 	 2 	 Imprimis of
+37 	 34 	 (NP\NP)/NP 	 2 	 Inc to
+37 	 35 	 N/N 	 1 	 Inc Seagate
+37 	 36 	 N/N 	 1 	 Inc Technology
+<\s>

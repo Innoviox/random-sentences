@@ -1,0 +1,468 @@
+<s id="wsj_1482.1"> 32
+8 	 0 	 NP[nb]/N 	 1 	 offerings The
+8 	 1 	 N/N 	 1 	 offerings following
+8 	 2 	 N/N 	 1 	 offerings U.S.
+8 	 3 	 N/N 	 1 	 offerings Treasury
+8 	 5 	 N/N 	 1 	 offerings corporate
+8 	 7 	 N/N 	 1 	 offerings municipal
+8 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 offerings are
+8 	 11 	 (S[pss]\NP)/PP 	 1 	 offerings scheduled <XB>
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 are tentatively
+11 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 scheduled are
+11 	 14 	 ((S\NP)\(S\NP))/N 	 2 	 scheduled this
+11 	 17 	 ((S\NP)\(S\NP))/PP 	 2 	 scheduled according
+11 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 scheduled :
+12 	 11 	 (S[pss]\NP)/PP 	 2 	 for scheduled
+13 	 12 	 PP/NP 	 1 	 sale for
+15 	 14 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+18 	 17 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+23 	 18 	 PP/NP 	 1 	 Report to
+23 	 19 	 N/N 	 1 	 Report Dow
+23 	 20 	 N/N 	 1 	 Report Jones
+23 	 21 	 N/N 	 1 	 Report Capital
+23 	 22 	 N/N 	 1 	 Report Markets
+27 	 25 	 (N/N)/N[num] 	 2 	 billion $
+27 	 26 	 N/N 	 1 	 billion 15.6
+31 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 bills :
+31 	 25 	 (N/N)/N[num] 	 1 	 bills $
+31 	 28 	 N/N 	 1 	 bills three-month
+31 	 30 	 N/N 	 1 	 bills six-month
+<\s>
+<s id="wsj_1482.2"> 6
+0 	 3 	 (NP\NP)/NP 	 1 	 $ of
+2 	 0 	 N/N[num] 	 1 	 billion $
+2 	 1 	 N/N 	 1 	 billion 10
+5 	 3 	 (NP\NP)/NP 	 2 	 notes of
+5 	 4 	 N/N 	 1 	 notes two-year
+<\s>
+<s id="wsj_1482.3"> 10
+2 	 0 	 N/N 	 1 	 Corp. Resolution
+2 	 1 	 N/N 	 1 	 Corp. Funding
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+7 	 5 	 (N/N)/N[num] 	 2 	 billion $
+7 	 6 	 N/N 	 1 	 billion 4.5
+9 	 4 	 (S[b]\NP)/NP 	 2 	 bonds sell
+9 	 5 	 (N/N)/N[num] 	 1 	 bonds $
+9 	 8 	 N/N 	 1 	 bonds 30-year
+<\s>
+<s id="wsj_1482.4"> 15
+5 	 0 	 N/N 	 1 	 Inc. Aim
+5 	 1 	 N/N 	 1 	 Inc. Prime
+5 	 2 	 N/N 	 1 	 Inc. Rate
+5 	 3 	 N/N 	 1 	 Inc. Plus
+5 	 4 	 N/N 	 1 	 Inc. Fund
+5 	 6 	 (NP\NP)/NP 	 1 	 Inc. --
+5 	 12 	 (NP\NP)/NP 	 1 	 Inc. via
+8 	 7 	 (N/N)/(N/N) 	 2 	 million 10
+8 	 9 	 (N/N)\(N/N) 	 2 	 million common
+10 	 6 	 (NP\NP)/NP 	 2 	 shares --
+10 	 8 	 N/N 	 1 	 shares million
+14 	 12 	 (NP\NP)/NP 	 2 	 Inc via
+14 	 13 	 N/N 	 1 	 Inc PaineWebber
+<\s>
+<s id="wsj_1482.5"> 14
+3 	 0 	 N/N 	 1 	 II Allied
+3 	 1 	 N/N 	 1 	 II Capital
+3 	 2 	 N/N 	 1 	 II Corp.
+3 	 4 	 (NP\NP)/NP 	 1 	 II --
+3 	 9 	 (NP\NP)/NP 	 1 	 II via
+7 	 4 	 (NP\NP)/NP 	 2 	 shares --
+7 	 5 	 N/N 	 1 	 shares 6,500,000
+7 	 6 	 N/N 	 1 	 shares common
+13 	 9 	 (NP\NP)/NP 	 2 	 Inc via
+13 	 10 	 N/N 	 1 	 Inc Shearson
+13 	 11 	 N/N 	 1 	 Inc Lehman
+13 	 12 	 N/N 	 1 	 Inc Hutton
+<\s>
+<s id="wsj_1482.6"> 13
+2 	 0 	 N/N 	 1 	 Co. American
+2 	 1 	 N/N 	 1 	 Co. Cyanamid
+2 	 3 	 (NP\NP)/NP 	 1 	 Co. --
+2 	 8 	 (NP\NP)/NP 	 1 	 Co. via
+6 	 3 	 (NP\NP)/NP 	 2 	 shares --
+6 	 4 	 N/N 	 1 	 shares 1,250,000
+6 	 5 	 N/N 	 1 	 shares common
+12 	 8 	 (NP\NP)/NP 	 2 	 Markets via
+12 	 9 	 N/N 	 1 	 Markets Merrill
+12 	 10 	 N/N 	 1 	 Markets Lynch
+12 	 11 	 N/N 	 1 	 Markets Capital
+<\s>
+<s id="wsj_1482.7"> 14
+3 	 0 	 N/N 	 1 	 Corp. Associated
+3 	 1 	 N/N 	 1 	 Corp. Natural
+3 	 2 	 N/N 	 1 	 Corp. Gas
+3 	 4 	 (NP\NP)/NP 	 1 	 Corp. --
+3 	 9 	 (NP\NP)/NP 	 1 	 Corp. via
+7 	 4 	 (NP\NP)/NP 	 2 	 shares --
+7 	 5 	 N/N 	 1 	 shares 1,400,000
+7 	 6 	 N/N 	 1 	 shares common
+13 	 9 	 (NP\NP)/NP 	 2 	 Co via
+13 	 10 	 N/N 	 1 	 Co Dillon
+13 	 11 	 N/N 	 1 	 Co Read
+13 	 12 	 N/N 	 1 	 Co &
+<\s>
+<s id="wsj_1482.8"> 16
+5 	 0 	 N/N 	 1 	 Ltd. B
+5 	 1 	 N/N 	 1 	 Ltd. &
+5 	 2 	 N/N 	 1 	 Ltd. H
+5 	 3 	 N/N 	 1 	 Ltd. Crude
+5 	 4 	 N/N 	 1 	 Ltd. Carriers
+5 	 6 	 (NP\NP)/NP 	 1 	 Ltd. --
+5 	 12 	 (NP\NP)/NP 	 1 	 Ltd. via
+8 	 7 	 (N/N)/(N/N) 	 2 	 million Four
+10 	 6 	 (NP\NP)/NP 	 2 	 shares --
+10 	 8 	 N/N 	 1 	 shares million
+10 	 9 	 N/N 	 1 	 shares common
+15 	 12 	 (NP\NP)/NP 	 2 	 Inc via
+15 	 13 	 N/N 	 1 	 Inc Salomon
+15 	 14 	 N/N 	 1 	 Inc Brothers
+<\s>
+<s id="wsj_1482.9"> 17
+2 	 0 	 N/N 	 1 	 Co. Baldwin
+2 	 1 	 N/N 	 1 	 Co. Technology
+2 	 3 	 (NP\NP)/NP 	 1 	 Co. --
+2 	 9 	 (NP\NP)/NP 	 1 	 Co. via
+7 	 3 	 (NP\NP)/NP 	 2 	 shares --
+7 	 4 	 N/N 	 1 	 shares 2,600,000
+7 	 5 	 N/N 	 1 	 shares Class
+7 	 6 	 N/N 	 1 	 shares A
+16 	 9 	 (NP\NP)/NP 	 2 	 Co via
+16 	 10 	 N/N 	 1 	 Co Smith
+16 	 11 	 N/N 	 1 	 Co Barney
+16 	 13 	 N/N 	 1 	 Co Harris
+16 	 14 	 N/N 	 1 	 Co Upham
+16 	 15 	 N/N 	 1 	 Co &
+<\s>
+<s id="wsj_1482.10"> 19
+2 	 0 	 N/N 	 1 	 Corp. Blockbuster
+2 	 1 	 N/N 	 1 	 Corp. Entertainment
+2 	 3 	 (NP\NP)/NP 	 1 	 Corp. --
+2 	 16 	 (NP\NP)/NP 	 1 	 Corp. via
+6 	 4 	 (N/N)/N[num] 	 2 	 million $
+6 	 5 	 N/N 	 1 	 million 250
+9 	 7 	 (N/N)/N 	 2 	 amount -LRB-
+9 	 8 	 N/N 	 1 	 amount face
+14 	 3 	 (NP\NP)/NP 	 2 	 Notes --
+14 	 4 	 (N/N)/N[num] 	 1 	 Notes $
+14 	 7 	 (N/N)/N 	 1 	 Notes -LRB-
+14 	 11 	 N/N 	 1 	 Notes Liquid
+14 	 12 	 N/N 	 1 	 Notes Yield
+14 	 13 	 N/N 	 1 	 Notes Option
+18 	 16 	 (NP\NP)/NP 	 2 	 Lynch via
+18 	 17 	 N/N 	 1 	 Lynch Merrill
+<\s>
+<s id="wsj_1482.11"> 9
+2 	 0 	 N/N 	 1 	 Inc. Chemex
+2 	 1 	 N/N 	 1 	 Inc. Pharmaceuticals
+2 	 3 	 (NP\NP)/NP 	 1 	 Inc. --
+2 	 7 	 (NP\NP)/NP 	 1 	 Inc. via
+5 	 3 	 (NP\NP)/NP 	 2 	 units --
+5 	 4 	 N/N 	 1 	 units 1,200,000
+8 	 7 	 (NP\NP)/NP 	 2 	 PaineWebber via
+<\s>
+<s id="wsj_1482.12"> 12
+2 	 0 	 N/N 	 1 	 Corp. Immune
+2 	 1 	 N/N 	 1 	 Corp. Response
+2 	 3 	 (NP\NP)/NP 	 1 	 Corp. --
+2 	 9 	 (NP\NP)/NP 	 1 	 Corp. via
+5 	 4 	 (N/N)/(N/N) 	 2 	 million Three
+7 	 3 	 (NP\NP)/NP 	 2 	 shares --
+7 	 5 	 N/N 	 1 	 shares million
+7 	 6 	 N/N 	 1 	 shares common
+11 	 9 	 (NP\NP)/NP 	 2 	 Lynch via
+11 	 10 	 N/N 	 1 	 Lynch Merrill
+<\s>
+<s id="wsj_1482.13"> 14
+2 	 0 	 N/N 	 1 	 Inc. Marsam
+2 	 1 	 N/N 	 1 	 Inc. Pharmaceuticals
+2 	 3 	 (NP\NP)/NP 	 1 	 Inc. --
+2 	 8 	 (NP\NP)/NP 	 1 	 Inc. via
+6 	 3 	 (NP\NP)/NP 	 2 	 shares --
+6 	 4 	 N/N 	 1 	 shares 1,300,000
+6 	 5 	 N/N 	 1 	 shares common
+13 	 8 	 (NP\NP)/NP 	 2 	 Upham via
+13 	 9 	 N/N 	 1 	 Upham Smith
+13 	 10 	 N/N 	 1 	 Upham Barney
+13 	 12 	 N/N 	 1 	 Upham Harris
+<\s>
+<s id="wsj_1482.14"> 13
+2 	 0 	 N/N 	 1 	 Co. RMI
+2 	 1 	 N/N 	 1 	 Co. Titanium
+2 	 3 	 (NP\NP)/NP 	 1 	 Co. --
+2 	 9 	 (NP\NP)/NP 	 1 	 Co. via
+5 	 4 	 (N/N)/(N/N) 	 2 	 million 15
+7 	 3 	 (NP\NP)/NP 	 2 	 shares --
+7 	 5 	 N/N 	 1 	 shares million
+7 	 6 	 N/N 	 1 	 shares common
+12 	 9 	 (NP\NP)/NP 	 2 	 Inc via
+12 	 10 	 N/N 	 1 	 Inc Salomon
+12 	 11 	 N/N 	 1 	 Inc Brothers
+<\s>
+<s id="wsj_1482.15"> 11
+1 	 0 	 N/N 	 1 	 Inc. Tidewater
+1 	 2 	 (NP\NP)/NP 	 1 	 Inc. --
+1 	 7 	 (NP\NP)/NP 	 1 	 Inc. via
+5 	 2 	 (NP\NP)/NP 	 2 	 shares --
+5 	 3 	 N/N 	 1 	 shares 4,631,400
+5 	 4 	 N/N 	 1 	 shares common
+10 	 7 	 (NP\NP)/NP 	 2 	 Inc via
+10 	 8 	 N/N 	 1 	 Inc Salomon
+10 	 9 	 N/N 	 1 	 Inc Brothers
+<\s>
+<s id="wsj_1482.16"> 21
+0 	 1 	 (NP\NP)/NP 	 1 	 Massachusetts --
+0 	 18 	 (NP\NP)/NP 	 1 	 Massachusetts via
+3 	 1 	 (NP\NP)/NP 	 2 	 $ --
+3 	 2 	 N/N 	 1 	 $ Approximately
+3 	 6 	 (NP\NP)/NP 	 1 	 $ of
+5 	 3 	 N/N[num] 	 1 	 million $
+5 	 4 	 N/N 	 1 	 million 230
+8 	 6 	 (NP\NP)/NP 	 2 	 bonds of
+8 	 7 	 N/N 	 1 	 bonds general
+11 	 6 	 (NP\NP)/NP 	 2 	 loan of
+11 	 10 	 N/N 	 1 	 loan consolidated
+11 	 12 	 (NP\NP)/NP 	 1 	 loan of
+13 	 12 	 (NP\NP)/NP 	 2 	 1989 of
+16 	 6 	 (NP\NP)/NP 	 2 	 D of
+16 	 15 	 N/N 	 1 	 D Series
+20 	 18 	 (NP\NP)/NP 	 2 	 bid via
+20 	 19 	 N/N 	 1 	 bid competitive
+<\s>
+<s id="wsj_1482.17"> 23
+1 	 0 	 N/N 	 1 	 County Montgomery
+1 	 4 	 (NP\NP)/NP 	 1 	 County --
+1 	 20 	 (NP\NP)/NP 	 1 	 County via
+3 	 4 	 (NP\NP)/NP 	 1 	 Maryland --
+3 	 20 	 (NP\NP)/NP 	 1 	 Maryland via
+5 	 4 	 (NP\NP)/NP 	 2 	 $ --
+5 	 8 	 (NP\NP)/NP 	 1 	 $ of
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 75
+13 	 8 	 (NP\NP)/NP 	 2 	 bonds of
+13 	 9 	 N/N 	 1 	 bonds general
+13 	 10 	 N/N 	 1 	 bonds consolidated
+13 	 11 	 N/N 	 1 	 bonds public
+13 	 12 	 N/N 	 1 	 bonds improvement
+13 	 14 	 (NP\NP)/NP 	 1 	 bonds of
+15 	 14 	 (NP\NP)/NP 	 2 	 1989 of
+18 	 8 	 (NP\NP)/NP 	 2 	 B of
+18 	 17 	 N/N 	 1 	 B Series
+22 	 20 	 (NP\NP)/NP 	 2 	 bid via
+22 	 21 	 N/N 	 1 	 bid competitive
+<\s>
+<s id="wsj_1482.18"> 22
+2 	 0 	 N/N 	 1 	 Authority Trinity
+2 	 1 	 N/N 	 1 	 Authority River
+2 	 5 	 (NP\NP)/NP 	 1 	 Authority --
+4 	 5 	 (NP\NP)/NP 	 1 	 Texas --
+6 	 5 	 (NP\NP)/NP 	 2 	 $ --
+6 	 8 	 (NP\NP)/NP 	 1 	 $ of
+6 	 19 	 (NP\NP)/NP 	 1 	 $ via
+7 	 6 	 N/N[num] 	 1 	 134,750,000 $
+14 	 8 	 (NP\NP)/NP 	 2 	 bonds of
+14 	 9 	 N/N 	 1 	 bonds regional
+14 	 10 	 N/N 	 1 	 bonds wastewater
+14 	 11 	 N/N 	 1 	 bonds system
+14 	 12 	 N/N 	 1 	 bonds improvement
+14 	 13 	 N/N 	 1 	 bonds revenue
+16 	 8 	 (NP\NP)/NP 	 2 	 Series of
+16 	 17 	 N\N 	 1 	 Series 1989
+21 	 19 	 (NP\NP)/NP 	 2 	 bid via
+21 	 20 	 N/N 	 1 	 bid competitive
+<\s>
+<s id="wsj_1482.19"> 25
+0 	 3 	 (NP\NP)/NP 	 1 	 City of
+0 	 7 	 (NP\NP)/NP 	 1 	 City --
+0 	 22 	 (NP\NP)/NP 	 1 	 City via
+2 	 3 	 (NP\NP)/NP 	 1 	 County of
+2 	 7 	 (NP\NP)/NP 	 1 	 County --
+2 	 22 	 (NP\NP)/NP 	 1 	 County via
+4 	 3 	 (NP\NP)/NP 	 2 	 Honolulu of
+6 	 3 	 (NP\NP)/NP 	 2 	 Hawaii of
+8 	 7 	 (NP\NP)/NP 	 2 	 $ --
+8 	 11 	 (NP\NP)/NP 	 1 	 $ of
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 75
+13 	 11 	 (NP\NP)/NP 	 2 	 bonds of
+13 	 12 	 N/N 	 1 	 bonds obligation
+13 	 19 	 (S[adj]\NP)/NP 	 1 	 bonds due <XB>
+17 	 11 	 (NP\NP)/NP 	 2 	 B of
+17 	 15 	 N/N 	 1 	 B 1989
+17 	 16 	 N/N 	 1 	 B Series
+17 	 19 	 (S[adj]\NP)/NP 	 1 	 B due <XB>
+20 	 19 	 (S[adj]\NP)/NP 	 2 	 1993-2009 due
+24 	 22 	 (NP\NP)/NP 	 2 	 bid via
+24 	 23 	 N/N 	 1 	 bid competitive
+<\s>
+<s id="wsj_1482.20"> 25
+1 	 0 	 N/N 	 1 	 Hills Beverly
+1 	 2 	 (NP\NP)/NP 	 1 	 Hills --
+3 	 2 	 (NP\NP)/NP 	 2 	 $ --
+3 	 6 	 (NP\NP)/NP 	 1 	 $ of
+3 	 17 	 (NP\NP)/NP 	 1 	 $ via
+5 	 3 	 N/N[num] 	 1 	 million $
+5 	 4 	 N/N 	 1 	 million 110
+10 	 6 	 (NP\NP)/NP 	 2 	 certificates of
+10 	 7 	 N/N 	 1 	 certificates civic
+10 	 8 	 N/N 	 1 	 certificates center
+10 	 9 	 N/N 	 1 	 certificates project
+10 	 11 	 (NP\NP)/NP 	 1 	 certificates of
+12 	 11 	 (NP\NP)/NP 	 2 	 participation of
+14 	 6 	 (NP\NP)/NP 	 2 	 Series of
+14 	 15 	 N\N 	 1 	 Series 1989
+24 	 17 	 (NP\NP)/NP 	 2 	 group via
+24 	 18 	 NP[nb]/N 	 1 	 group a
+24 	 19 	 N/N 	 1 	 group Goldman
+24 	 21 	 N/N 	 1 	 group Sachs
+24 	 22 	 N/N 	 1 	 group &
+24 	 23 	 N/N 	 1 	 group Co.
+<\s>
+<s id="wsj_1482.21"> 22
+3 	 0 	 N/N 	 1 	 District Broward
+3 	 1 	 N/N 	 1 	 District County
+3 	 2 	 N/N 	 1 	 District School
+3 	 6 	 (NP\NP)/NP 	 1 	 District --
+3 	 16 	 (NP\NP)/NP 	 1 	 District via
+5 	 6 	 (NP\NP)/NP 	 1 	 Florida --
+5 	 16 	 (NP\NP)/NP 	 1 	 Florida via
+7 	 6 	 (NP\NP)/NP 	 2 	 $ --
+7 	 10 	 (NP\NP)/NP 	 1 	 $ of
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 185
+14 	 10 	 (NP\NP)/NP 	 2 	 bonds of
+14 	 11 	 N/N 	 1 	 bonds school
+14 	 12 	 N/N 	 1 	 bonds district
+14 	 13 	 N/N 	 1 	 bonds general
+21 	 16 	 (NP\NP)/NP 	 2 	 group via
+21 	 17 	 NP[nb]/N 	 1 	 group a
+21 	 18 	 N/N 	 1 	 group First
+21 	 19 	 N/N 	 1 	 group Boston
+21 	 20 	 N/N 	 1 	 group Corp.
+<\s>
+<s id="wsj_1482.22"> 22
+3 	 0 	 N/N 	 1 	 Authority Connecticut
+3 	 1 	 N/N 	 1 	 Authority Housing
+3 	 2 	 N/N 	 1 	 Authority Finance
+3 	 4 	 (NP\NP)/NP 	 1 	 Authority --
+3 	 18 	 (NP\NP)/NP 	 1 	 Authority via
+5 	 4 	 (NP\NP)/NP 	 2 	 $ --
+5 	 7 	 (NP\NP)/NP 	 1 	 $ of
+6 	 5 	 N/N[num] 	 1 	 132,620,000 $
+16 	 7 	 (NP\NP)/NP 	 2 	 bonds of
+16 	 8 	 N/N 	 1 	 bonds housing
+16 	 9 	 N/N 	 1 	 bonds mortgage
+16 	 10 	 N/N 	 1 	 bonds revenue
+16 	 12 	 N/N 	 1 	 bonds AMT
+16 	 14 	 N/N 	 1 	 bonds non-AMT
+21 	 18 	 (NP\NP)/NP 	 2 	 group via
+21 	 19 	 NP[nb]/N 	 1 	 group a
+21 	 20 	 N/N 	 1 	 group PaineWebber
+<\s>
+<s id="wsj_1482.23"> 30
+2 	 0 	 N/N 	 1 	 Authority Maryland
+2 	 1 	 N/N 	 1 	 Authority Stadium
+2 	 3 	 (NP\NP)/NP 	 1 	 Authority --
+2 	 23 	 (NP\NP)/NP 	 1 	 Authority via
+4 	 3 	 (NP\NP)/NP 	 2 	 $ --
+4 	 6 	 (NP\NP)/NP 	 1 	 $ of
+5 	 4 	 N/N[num] 	 1 	 137,550,000 $
+15 	 14 	 (N/N)/N 	 2 	 AMT -LRB-
+17 	 6 	 (NP\NP)/NP 	 2 	 bonds of
+17 	 7 	 N/N 	 1 	 bonds sports
+17 	 8 	 N/N 	 1 	 bonds facilities
+17 	 9 	 N/N 	 1 	 bonds lease
+17 	 10 	 N/N 	 1 	 bonds revenue
+17 	 11 	 N/N 	 1 	 bonds Alternative
+17 	 12 	 N/N 	 1 	 bonds Minimum
+17 	 13 	 N/N 	 1 	 bonds Tax
+17 	 14 	 (N/N)/N 	 1 	 bonds -LRB-
+21 	 6 	 (NP\NP)/NP 	 2 	 D of
+21 	 19 	 N/N 	 1 	 D Series
+21 	 20 	 N/N 	 1 	 D 1989
+29 	 23 	 (NP\NP)/NP 	 2 	 group via
+29 	 24 	 NP[nb]/N 	 1 	 group a
+29 	 25 	 N/N 	 1 	 group Morgan
+29 	 26 	 N/N 	 1 	 group Stanley
+29 	 27 	 N/N 	 1 	 group &
+29 	 28 	 N/N 	 1 	 group Co.
+<\s>
+<s id="wsj_1482.24"> 35
+0 	 1 	 (NP\NP)/NP 	 1 	 Michigan --
+0 	 29 	 (NP\NP)/NP 	 1 	 Michigan via
+2 	 1 	 (NP\NP)/NP 	 2 	 $ --
+2 	 5 	 (NP\NP)/NP 	 1 	 $ of
+2 	 11 	 (NP\NP)/NP 	 1 	 $ including
+4 	 2 	 N/N[num] 	 1 	 million $
+4 	 3 	 N/N 	 1 	 million 80
+9 	 5 	 (NP\NP)/NP 	 2 	 bonds of
+9 	 6 	 N/N 	 1 	 bonds Michigan
+9 	 7 	 N/N 	 1 	 bonds First
+9 	 8 	 N/N 	 1 	 bonds general
+12 	 11 	 (NP\NP)/NP 	 2 	 $ including
+12 	 15 	 (NP\NP)/NP 	 1 	 $ of
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 70
+19 	 15 	 (NP\NP)/NP 	 2 	 bonds of
+19 	 16 	 N/N 	 1 	 bonds environmental
+19 	 17 	 N/N 	 1 	 bonds protection
+19 	 18 	 N/N 	 1 	 bonds project
+21 	 11 	 (NP\NP)/NP 	 2 	 $ including
+21 	 24 	 (NP\NP)/NP 	 1 	 $ of
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 10
+27 	 24 	 (NP\NP)/NP 	 2 	 bonds of
+27 	 25 	 N/N 	 1 	 bonds recreation
+27 	 26 	 N/N 	 1 	 bonds project
+34 	 29 	 (NP\NP)/NP 	 2 	 group via
+34 	 30 	 NP[nb]/N 	 1 	 group a
+34 	 31 	 N/N 	 1 	 group Shearson
+34 	 32 	 N/N 	 1 	 group Lehman
+34 	 33 	 N/N 	 1 	 group Hutton
+<\s>
+<s id="wsj_1482.25"> 24
+4 	 0 	 N/N 	 1 	 Development West
+4 	 1 	 N/N 	 1 	 Development Virginia
+4 	 2 	 N/N 	 1 	 Development Parkways
+4 	 3 	 N/N 	 1 	 Development Economic
+4 	 8 	 (NP\NP)/NP 	 1 	 Development --
+4 	 20 	 (NP\NP)/NP 	 1 	 Development via
+7 	 0 	 N/N 	 1 	 Authority West
+7 	 1 	 N/N 	 1 	 Authority Virginia
+7 	 2 	 N/N 	 1 	 Authority Parkways
+7 	 3 	 N/N 	 1 	 Authority Economic
+7 	 6 	 N/N 	 1 	 Authority Tourism
+7 	 8 	 (NP\NP)/NP 	 1 	 Authority --
+7 	 20 	 (NP\NP)/NP 	 1 	 Authority via
+9 	 8 	 (NP\NP)/NP 	 2 	 $ --
+9 	 12 	 (NP\NP)/NP 	 1 	 $ of
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 143
+15 	 12 	 (NP\NP)/NP 	 2 	 bonds of
+15 	 13 	 N/N 	 1 	 bonds parkway
+15 	 14 	 N/N 	 1 	 bonds revenue
+17 	 12 	 (NP\NP)/NP 	 2 	 Series of
+17 	 18 	 N\N 	 1 	 Series 1989
+23 	 20 	 (NP\NP)/NP 	 2 	 group via
+23 	 21 	 NP[nb]/N 	 1 	 group a
+23 	 22 	 N/N 	 1 	 group PaineWebber
+<\s>
+<s id="wsj_1482.26"> 21
+1 	 0 	 N/N 	 1 	 Antonio San
+1 	 4 	 (NP\NP)/NP 	 1 	 Antonio --
+1 	 16 	 (NP\NP)/NP 	 1 	 Antonio via
+3 	 4 	 (NP\NP)/NP 	 1 	 Texas --
+3 	 16 	 (NP\NP)/NP 	 1 	 Texas via
+5 	 4 	 (NP\NP)/NP 	 2 	 $ --
+5 	 8 	 (NP\NP)/NP 	 1 	 $ of
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 640
+14 	 8 	 (NP\NP)/NP 	 2 	 bonds of
+14 	 9 	 N/N 	 1 	 bonds gas
+14 	 11 	 N/N 	 1 	 bonds electric
+14 	 12 	 N/N 	 1 	 bonds revenue
+14 	 13 	 N/N 	 1 	 bonds refunding
+20 	 16 	 (NP\NP)/NP 	 2 	 group via
+20 	 17 	 NP[nb]/N 	 1 	 group a
+20 	 18 	 N/N 	 1 	 group First
+20 	 19 	 N/N 	 1 	 group Boston
+<\s>

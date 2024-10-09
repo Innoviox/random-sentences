@@ -1,0 +1,44 @@
+<s id="wsj_1401.1"> 24
+2 	 0 	 N/N 	 1 	 Inc. H&R
+2 	 1 	 N/N 	 1 	 Inc. BLOCK
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Inc. had
+3 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 had in
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 income had
+5 	 4 	 N/N 	 1 	 income net
+5 	 6 	 (NP\NP)/NP 	 1 	 income of
+7 	 6 	 (NP\NP)/NP 	 2 	 $ of
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 100.2
+12 	 6 	 (NP\NP)/NP 	 2 	 $ of
+12 	 14 	 (NP\NP)/N 	 1 	 $ a
+13 	 12 	 N/N[num] 	 1 	 1.90 $
+15 	 14 	 (NP\NP)/N 	 2 	 share a
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 year in
+20 	 18 	 NP[nb]/N 	 1 	 year the
+20 	 19 	 N/N 	 1 	 year fiscal
+20 	 21 	 S[pss]\NP 	 1 	 year ended <XB>
+21 	 22 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended April
+23 	 22 	 ((S\NP)\(S\NP))/N[num] 	 3 	 30 April
+<\s>
+<s id="wsj_1401.2"> 20
+1 	 0 	 NP[nb]/N 	 1 	 figure The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 figure was
+1 	 4 	 (S[pss]\NP)/PP 	 1 	 figure shown <XB>
+4 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 shown was
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 shown incorrectly
+4 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 shown in
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 as shown
+8 	 5 	 PP/NP 	 1 	 loss as
+8 	 6 	 NP[nb]/N 	 1 	 loss a
+8 	 7 	 N/N 	 1 	 loss net
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 chart in
+11 	 10 	 NP[nb]/N 	 1 	 chart a
+11 	 12 	 (S[ng]\NP)/NP 	 1 	 chart accompanying <XB>
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 Friday 's
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 Heard on
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 Street on
+18 	 17 	 NP[nb]/N 	 1 	 Street the
+19 	 12 	 (S[ng]\NP)/NP 	 2 	 column accompanying
+19 	 14 	 (NP[nb]/N)\NP 	 1 	 column 's
+19 	 15 	 S[pss]\NP 	 1 	 column Heard <XB>
+<\s>

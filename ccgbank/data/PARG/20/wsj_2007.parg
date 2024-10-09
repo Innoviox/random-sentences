@@ -1,0 +1,624 @@
+<s id="wsj_2007.1"> 24
+3 	 0 	 N/N 	 1 	 companies Three
+3 	 1 	 N/N 	 1 	 companies leading
+3 	 2 	 N/N 	 1 	 companies drug
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 companies reported
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 earnings reported
+7 	 5 	 N/N 	 1 	 earnings robust
+7 	 6 	 N/N 	 1 	 earnings third-quarter
+7 	 9 	 S[pss]\NP 	 1 	 earnings bolstered <XB>
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 bolstered by
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 sales by
+12 	 11 	 N/N 	 1 	 sales strong
+12 	 13 	 (NP\NP)/NP 	 1 	 sales of
+18 	 13 	 (NP\NP)/NP 	 2 	 drugs of
+18 	 14 	 N/N 	 1 	 drugs newer
+18 	 16 	 N/N 	 1 	 drugs big-selling
+18 	 17 	 N/N 	 1 	 drugs prescriptions
+18 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 drugs that
+18 	 20 	 (S[dcl]\NP)/NP 	 1 	 drugs provide <XB>
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 provide that
+23 	 20 	 (S[dcl]\NP)/NP 	 2 	 margins provide
+23 	 21 	 N/N 	 1 	 margins hefty
+23 	 22 	 N/N 	 1 	 margins profit
+<\s>
+<s id="wsj_2007.2"> 29
+2 	 0 	 N/N 	 1 	 Co. Merck
+2 	 1 	 N/N 	 1 	 Co. &
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Co. reported
+6 	 5 	 (N/N)/(N/N) 	 2 	 % 25
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 increase reported
+7 	 4 	 NP[nb]/N 	 1 	 increase a
+7 	 6 	 N/N 	 1 	 increase %
+7 	 8 	 (NP\NP)/NP 	 1 	 increase in
+9 	 8 	 (NP\NP)/NP 	 2 	 earnings in
+12 	 11 	 N/N 	 1 	 Co. Warner-Lambert
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Co. 's
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 profit 's
+14 	 15 	 S[dcl]\NP 	 1 	 profit rose
+15 	 17 	 (S\NP)\(S\NP) 	 2 	 rose %
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 22
+22 	 19 	 N/N 	 1 	 Co. Eli
+22 	 20 	 N/N 	 1 	 Co. Lilly
+22 	 21 	 N/N 	 1 	 Co. &
+22 	 23 	 (NP[nb]/N)\NP 	 2 	 Co. 's
+25 	 23 	 (NP[nb]/N)\NP 	 1 	 income 's
+25 	 24 	 N/N 	 1 	 income net
+25 	 26 	 S[dcl]\NP 	 1 	 income rose
+26 	 28 	 (S\NP)\(S\NP) 	 2 	 rose %
+28 	 27 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 24
+<\s>
+<s id="wsj_2007.3"> 9
+1 	 0 	 NP[nb]/N 	 1 	 results The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 results were
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 in were
+4 	 3 	 PP/NP 	 1 	 line in
+4 	 5 	 (NP\NP)/NP 	 1 	 line with
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 analysts '
+8 	 5 	 (NP\NP)/NP 	 2 	 expectations with
+8 	 7 	 (NP[nb]/N)\NP 	 1 	 expectations '
+<\s>
+<s id="wsj_2007.4"> 3
+2 	 0 	 N/N 	 1 	 Co Merck
+2 	 1 	 N/N 	 1 	 Co &
+<\s>
+<s id="wsj_2007.5"> 23
+0 	 2 	 NP\NP 	 1 	 Merck Rahway
+0 	 4 	 NP\NP 	 1 	 Merck N.J. <XU>
+0 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Merck continued
+0 	 8 	 (S[b]\NP)/NP 	 1 	 Merck lead <XB>
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continued
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lead to
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 lead with
+10 	 8 	 (S[b]\NP)/NP 	 2 	 industry lead
+10 	 9 	 NP[nb]/N 	 1 	 industry the
+15 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 performance with
+15 	 12 	 NP[nb]/N 	 1 	 performance a
+15 	 13 	 N/N 	 1 	 performance strong
+15 	 14 	 N/N 	 1 	 performance sales
+15 	 16 	 (NP\NP)/NP 	 1 	 performance in
+18 	 16 	 (NP\NP)/NP 	 2 	 human in
+18 	 17 	 NP[nb]/N 	 1 	 human the
+22 	 16 	 (NP\NP)/NP 	 2 	 segment in
+22 	 17 	 NP[nb]/N 	 1 	 segment the
+22 	 20 	 N/N 	 1 	 segment animal
+22 	 21 	 N/N 	 1 	 segment health-products
+<\s>
+<s id="wsj_2007.6"> 17
+3 	 0 	 NP[nb]/N 	 1 	 dollar A
+3 	 1 	 N/N 	 1 	 dollar stronger
+3 	 2 	 N/N 	 1 	 dollar U.S.
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 dollar reduced
+4 	 11 	 (S\NP)\(S\NP) 	 2 	 reduced %
+4 	 14 	 (S\NP)\(S\NP) 	 2 	 reduced % <XU>
+9 	 4 	 (S[dcl]\NP)/NP 	 2 	 growth reduced
+9 	 5 	 N/N 	 1 	 growth third-quarter
+9 	 7 	 N/N 	 1 	 growth first-nine-month
+9 	 8 	 N/N 	 1 	 growth sales
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 2
+11 	 16 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 % respectively
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 3
+14 	 16 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 % respectively
+<\s>
+<s id="wsj_2007.7"> 22
+1 	 0 	 N/N 	 1 	 sales International
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 sales accounted
+2 	 15 	 ((S\NP)\(S\NP))/PP 	 2 	 accounted compared
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 for accounted
+5 	 3 	 PP/NP 	 1 	 % for
+5 	 4 	 N/N 	 1 	 % 47
+5 	 6 	 (NP\NP)/NP 	 1 	 % of
+9 	 6 	 (NP\NP)/NP 	 2 	 sales of
+9 	 7 	 N/N 	 1 	 sales total
+9 	 8 	 N/N 	 1 	 sales company
+9 	 10 	 (NP\NP)/NP 	 1 	 sales for
+13 	 10 	 (NP\NP)/NP 	 2 	 months for
+13 	 11 	 NP[nb]/N 	 1 	 months the
+13 	 12 	 N/N 	 1 	 months nine
+16 	 15 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+16 	 21 	 (PP\PP)\NP 	 1 	 with earlier
+18 	 16 	 PP/NP 	 1 	 % with
+18 	 17 	 N/N 	 1 	 % 50
+20 	 19 	 NP[nb]/N 	 1 	 year a
+20 	 21 	 (PP\PP)\NP 	 2 	 year earlier
+<\s>
+<s id="wsj_2007.8"> 13
+0 	 1 	 (NP\NP)/NP 	 1 	 Sales for
+0 	 4 	 S[dcl]\NP 	 1 	 Sales rose
+3 	 1 	 (NP\NP)/NP 	 2 	 quarter for
+3 	 2 	 NP[nb]/N 	 1 	 quarter the
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+4 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+8 	 6 	 N/N[num] 	 1 	 billion $
+8 	 7 	 N/N 	 1 	 billion 1.63
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+12 	 10 	 N/N[num] 	 1 	 billion $
+12 	 11 	 N/N 	 1 	 billion 1.47
+<\s>
+<s id="wsj_2007.9"> 31
+0 	 8 	 (S[dcl]\NP)/NP 	 1 	 Mevacor had
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Merck 's
+6 	 3 	 (NP[nb]/N)\NP 	 1 	 drug 's
+6 	 4 	 N/N 	 1 	 drug new
+6 	 5 	 N/N 	 1 	 drug cholesterol-lowering
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 drug had
+8 	 30 	 (S[dcl]\S[dcl])\NP 	 1 	 had said
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 sales had
+10 	 9 	 N/N 	 1 	 sales higher
+10 	 11 	 (NP\NP)/S[dcl] 	 1 	 sales than
+15 	 12 	 NP[nb]/N 	 1 	 medicine any
+15 	 13 	 N/N 	 1 	 medicine other
+15 	 14 	 N/N 	 1 	 medicine prescription
+15 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 medicine has
+15 	 18 	 S[pt]\NP 	 1 	 medicine achieved <XB>
+16 	 11 	 (NP\NP)/S[dcl] 	 2 	 has than
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 has ever
+18 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 achieved has
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 achieved in
+18 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 achieved in
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. in
+21 	 20 	 NP[nb]/N 	 1 	 U.S. the
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 year in
+24 	 23 	 NP[nb]/N 	 1 	 year the
+24 	 25 	 (NP\NP)/NP 	 1 	 year following
+26 	 25 	 (NP\NP)/NP 	 2 	 introduction following
+29 	 28 	 NP[nb]/N 	 1 	 company the
+29 	 30 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>
+<s id="wsj_2007.10"> 9
+1 	 0 	 NP[nb]/N 	 1 	 drug The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 drug was
+1 	 3 	 S[pss]\NP 	 1 	 drug introduced <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 introduced was
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 introduced in
+3 	 7 	 ((S\NP)\(S\NP))/N 	 2 	 introduced this
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Germany in
+6 	 5 	 N/N 	 1 	 Germany West
+8 	 7 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+<\s>
+<s id="wsj_2007.11"> 26
+1 	 0 	 N/N 	 1 	 competition Intense
+1 	 5 	 S[dcl]\NP 	 1 	 competition led
+5 	 3 	 (S\NP)/(S\NP) 	 2 	 led however
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 led to
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 declines to
+9 	 7 	 N/N 	 1 	 declines unit
+9 	 8 	 N/N 	 1 	 declines sales
+9 	 10 	 (NP\NP)/NP 	 1 	 declines for
+12 	 10 	 (NP\NP)/NP 	 2 	 group for
+12 	 11 	 NP[nb]/N 	 1 	 group a
+12 	 13 	 (NP\NP)/NP 	 1 	 group of
+12 	 22 	 (NP\NP)/NP 	 1 	 group including
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 Merck 's
+20 	 13 	 (NP\NP)/NP 	 2 	 products of
+20 	 15 	 (NP[nb]/N)\NP 	 1 	 products 's
+20 	 16 	 N/N 	 1 	 products established
+20 	 17 	 N/N 	 1 	 products human
+20 	 19 	 N/N 	 1 	 products animal-health
+23 	 22 	 (NP\NP)/NP 	 2 	 Aldomet including
+25 	 22 	 (NP\NP)/NP 	 2 	 Indocin including
+<\s>
+<s id="wsj_2007.12"> 19
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+10 	 9 	 N/N 	 1 	 shares Merck
+10 	 11 	 (S[dcl]\NP)/PP 	 1 	 shares closed
+11 	 0 	 (S/S)/NP 	 1 	 closed In
+11 	 7 	 S/S 	 1 	 closed yesterday
+11 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+12 	 11 	 (S[dcl]\NP)/PP 	 2 	 at closed
+13 	 12 	 PP/NP 	 1 	 $ at
+14 	 13 	 N/N[num] 	 1 	 75.25 $
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 cents up
+18 	 17 	 N/N 	 1 	 cents 50
+<\s>
+<s id="wsj_2007.13"> 2
+1 	 0 	 N/N 	 1 	 Co Warner-Lambert
+<\s>
+<s id="wsj_2007.14"> 31
+0 	 7 	 (S[dcl]\NP)/NP 	 1 	 Warner-Lambert reported
+3 	 2 	 N/N 	 1 	 Plains Morris
+3 	 7 	 (S[dcl]\NP)/NP 	 1 	 Plains reported
+5 	 7 	 (S[dcl]\NP)/NP 	 1 	 N.J. reported
+8 	 7 	 (S[dcl]\NP)/NP 	 2 	 sales reported
+8 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 sales that
+8 	 10 	 (S[dcl]\NP)/NP 	 1 	 sales were <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 were that
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 record were
+12 	 11 	 NP[nb]/N 	 1 	 record a
+12 	 13 	 (NP\NP)/NP 	 1 	 record for
+15 	 13 	 (NP\NP)/NP 	 2 	 quarter for
+15 	 14 	 NP[nb]/N 	 1 	 quarter any
+19 	 10 	 (S[dcl]\NP)/NP 	 2 	 quarter were
+19 	 17 	 NP[nb]/N 	 1 	 quarter the
+19 	 18 	 N/N 	 1 	 quarter eighth
+19 	 20 	 (NP\NP)/NP 	 1 	 quarter in
+19 	 23 	 (NP\NP)/NP 	 1 	 quarter of
+22 	 20 	 (NP\NP)/NP 	 2 	 row in
+22 	 21 	 NP[nb]/N 	 1 	 row a
+30 	 23 	 (NP\NP)/NP 	 2 	 growth of
+30 	 24 	 NP/NP 	 1 	 growth 20
+30 	 25 	 NP[nb]/N 	 1 	 growth % <XU>
+30 	 27 	 NP[nb]/N 	 1 	 growth more
+30 	 28 	 N/N 	 1 	 growth per-share
+30 	 29 	 N/N 	 1 	 growth earnings
+<\s>
+<s id="wsj_2007.15"> 39
+0 	 1 	 ((S\NP)\(S\NP))/NP 	 2 	 Spurred by
+2 	 1 	 ((S\NP)\(S\NP))/NP 	 3 	 growth by
+2 	 3 	 (NP\NP)/NP 	 1 	 growth in
+5 	 3 	 (NP\NP)/NP 	 2 	 sales in
+5 	 4 	 N/N 	 1 	 sales world-wide
+5 	 6 	 (NP\NP)/NP 	 1 	 sales of
+8 	 7 	 NP[nb]/N 	 1 	 company the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 company 's
+11 	 6 	 (NP\NP)/NP 	 2 	 drugs of
+11 	 9 	 (NP[nb]/N)\NP 	 1 	 drugs 's
+11 	 10 	 N/N 	 1 	 drugs prescription
+13 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 Warner-Lambert said
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 1989 will
+15 	 17 	 (S[b]\NP)/NP 	 1 	 1989 be <XB>
+16 	 14 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+17 	 25 	 (((S\NP)\(S\NP))/(S[pt]\NP))/NP 	 2 	 be with
+20 	 17 	 (S[b]\NP)/NP 	 2 	 year be
+20 	 18 	 NP[nb]/N 	 1 	 year the
+20 	 19 	 N/N 	 1 	 year best
+20 	 21 	 (NP\NP)/NP 	 1 	 year in
+23 	 21 	 (NP\NP)/NP 	 2 	 history in
+23 	 22 	 NP[nb]/N 	 1 	 history its
+27 	 25 	 (((S\NP)\(S\NP))/(S[pt]\NP))/NP 	 4 	 earnings with
+27 	 26 	 N/N 	 1 	 earnings per-share
+27 	 28 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 earnings expected <XB>
+27 	 30 	 (S[b]\NP)/NP 	 1 	 earnings increase <XB>
+28 	 25 	 (((S\NP)\(S\NP))/(S[pt]\NP))/NP 	 3 	 expected with
+29 	 28 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to expected
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 increase to
+30 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 increase to
+31 	 32 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+33 	 32 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 20 than
+34 	 30 	 (S[b]\NP)/NP 	 2 	 % increase
+34 	 33 	 N/N 	 1 	 % 20
+37 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+37 	 36 	 N/N 	 1 	 $ about
+38 	 37 	 N/N[num] 	 1 	 6.10 $
+<\s>
+<s id="wsj_2007.16"> 13
+0 	 1 	 (NP\NP)/NP 	 1 	 Sales for
+0 	 4 	 S[dcl]\NP 	 1 	 Sales rose
+3 	 1 	 (NP\NP)/NP 	 2 	 quarter for
+3 	 2 	 NP[nb]/N 	 1 	 quarter the
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+4 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+8 	 6 	 N/N[num] 	 1 	 billion $
+8 	 7 	 N/N 	 1 	 billion 1.11
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+12 	 10 	 N/N[num] 	 1 	 billion $
+12 	 11 	 N/N 	 1 	 billion 1.03
+<\s>
+<s id="wsj_2007.17"> 19
+2 	 0 	 N/N 	 1 	 sales Prescription-drug
+2 	 1 	 N/N 	 1 	 sales world-wide
+2 	 3 	 S[dcl]\NP 	 1 	 sales rose
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 rose %
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 rose in
+3 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 9
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+8 	 7 	 NP[nb]/N 	 1 	 quarter the
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 340
+15 	 14 	 N/N 	 1 	 sales U.S.
+15 	 16 	 S[dcl]\NP 	 1 	 sales rose
+16 	 18 	 (S\NP)\(S\NP) 	 2 	 rose %
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 15
+<\s>
+<s id="wsj_2007.18"> 25
+1 	 0 	 NP[nb]/N 	 1 	 segment The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 segment 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 growth 's
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 growth was
+3 	 5 	 S[pss]\NP 	 1 	 growth led <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 led was
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 led by
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 sales by
+7 	 8 	 (NP\NP)/NP 	 1 	 sales of
+11 	 8 	 (NP\NP)/NP 	 2 	 drugs of
+11 	 9 	 NP[nb]/N 	 1 	 drugs the
+11 	 10 	 N/N 	 1 	 drugs cardiovascular
+11 	 12 	 NP\NP 	 1 	 drugs Lopid
+11 	 14 	 (NP\NP)/N 	 1 	 drugs a <XU>
+11 	 19 	 NP\NP 	 1 	 drugs Dilzem <XU>
+11 	 21 	 (NP\NP)/N 	 1 	 drugs a <XU>
+16 	 14 	 (NP\NP)/N 	 2 	 regulator a
+16 	 15 	 N/N 	 1 	 regulator lipid
+24 	 21 	 (NP\NP)/N 	 2 	 blocker a
+24 	 22 	 N/N 	 1 	 blocker calcium
+24 	 23 	 N/N 	 1 	 blocker channel
+<\s>
+<s id="wsj_2007.19"> 40
+1 	 0 	 N/N 	 1 	 sales World-wide
+1 	 2 	 (NP\NP)/NP 	 1 	 sales of
+1 	 23 	 S[dcl]\NP 	 1 	 sales increased
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Warner-Lambert 's
+7 	 2 	 (NP\NP)/NP 	 2 	 products of
+7 	 4 	 (NP[nb]/N)\NP 	 1 	 products 's
+7 	 5 	 N/N 	 1 	 products non-prescription
+7 	 6 	 N/N 	 1 	 products health-care
+7 	 10 	 (NP\NP)/NP 	 1 	 products as
+10 	 9 	 (NP\NP)/(NP\NP) 	 2 	 as such
+13 	 10 	 (NP\NP)/NP 	 2 	 tablets as
+13 	 11 	 N/N 	 1 	 tablets Halls
+13 	 12 	 N/N 	 1 	 tablets cough
+16 	 10 	 (NP\NP)/NP 	 2 	 antacid as
+16 	 15 	 N/N 	 1 	 antacid Rolaids
+21 	 10 	 (NP\NP)/NP 	 2 	 lotion as
+21 	 19 	 N/N 	 1 	 lotion Lubriderm
+21 	 20 	 N/N 	 1 	 lotion skin
+23 	 25 	 (S\NP)\(S\NP) 	 2 	 increased %
+23 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+23 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 increased in
+25 	 24 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 3
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+29 	 27 	 N/N[num] 	 1 	 million $
+29 	 28 	 N/N 	 1 	 million 362
+33 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+33 	 31 	 NP[nb]/N 	 1 	 quarter the
+33 	 32 	 N/N 	 1 	 quarter third
+36 	 35 	 N/N 	 1 	 sales U.S.
+36 	 37 	 S[dcl]\NP 	 1 	 sales rose
+37 	 39 	 (S\NP)\(S\NP) 	 2 	 rose %
+39 	 38 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 5
+<\s>
+<s id="wsj_2007.20"> 10
+2 	 0 	 N/N 	 1 	 sales Confectionery
+2 	 1 	 N/N 	 1 	 sales products
+2 	 4 	 (S[dcl]\NP)/NP 	 1 	 sales had
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 had also
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 had in
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 growth had
+6 	 5 	 N/N 	 1 	 growth strong
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+9 	 8 	 NP[nb]/N 	 1 	 quarter the
+<\s>
+<s id="wsj_2007.21"> 24
+1 	 0 	 N/N 	 1 	 sales World-wide
+1 	 2 	 (NP\NP)/NP 	 1 	 sales of
+1 	 17 	 S[b]\NP 	 1 	 sales increased
+4 	 2 	 (NP\NP)/NP 	 2 	 gum of
+4 	 3 	 N/N 	 1 	 gum Trident
+8 	 2 	 (NP\NP)/NP 	 2 	 mints of
+8 	 6 	 N/N 	 1 	 mints Certs
+8 	 7 	 N/N 	 1 	 mints breath
+15 	 2 	 (NP\NP)/NP 	 2 	 mints of
+15 	 11 	 N/N 	 1 	 mints Clorets
+15 	 12 	 N/N 	 1 	 mints gum
+15 	 14 	 N/N 	 1 	 mints breath
+17 	 19 	 (S\NP)\(S\NP) 	 2 	 increased %
+17 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+19 	 18 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 12
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 277
+<\s>
+<s id="wsj_2007.22"> 19
+1 	 0 	 N/N 	 1 	 shares Warner-Lambert
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 shares closed
+2 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+2 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 closed in
+2 	 18 	 (S\NP)\(S\NP) 	 2 	 closed yesterday
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 at closed
+4 	 3 	 PP/NP 	 1 	 $ at
+4 	 6 	 (NP\NP)/N 	 1 	 $ a
+5 	 4 	 N/N[num] 	 1 	 109.50 $
+7 	 6 	 (NP\NP)/N 	 2 	 share a
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ up
+11 	 10 	 N/N[num] 	 1 	 1.50 $
+17 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+17 	 14 	 N/N 	 1 	 trading Big
+17 	 15 	 N/N 	 1 	 trading Board
+17 	 16 	 N/N 	 1 	 trading composite
+<\s>
+<s id="wsj_2007.23"> 4
+3 	 0 	 N/N 	 1 	 Co Eli
+3 	 1 	 N/N 	 1 	 Co Lilly
+3 	 2 	 N/N 	 1 	 Co &
+<\s>
+<s id="wsj_2007.24"> 29
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Lilly attributed
+6 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 results attributed
+6 	 2 	 N/N 	 1 	 results record
+6 	 3 	 N/N 	 1 	 results third-quarter
+6 	 5 	 N/N 	 1 	 results nine-month
+7 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to attributed
+9 	 7 	 PP/NP 	 1 	 gains to
+9 	 8 	 N/N 	 1 	 gains world-wide
+9 	 10 	 (NP\NP)/NP 	 1 	 gains for
+9 	 18 	 (NP\NP)/NP 	 1 	 gains despite
+11 	 10 	 (NP\NP)/NP 	 2 	 pharmaceuticals for
+14 	 10 	 (NP\NP)/NP 	 2 	 instruments for
+14 	 13 	 N/N 	 1 	 instruments medical
+17 	 10 	 (NP\NP)/NP 	 2 	 products for
+17 	 16 	 N/N 	 1 	 products plant-science
+21 	 18 	 (NP\NP)/NP 	 2 	 rates despite
+21 	 19 	 N/N 	 1 	 rates poor
+21 	 20 	 N/N 	 1 	 rates exchange
+21 	 22 	 (NP\NP)/NP 	 1 	 rates for
+21 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 rates that
+21 	 26 	 (S[dcl]\NP)/NP 	 1 	 rates slowed <XB>
+24 	 22 	 (NP\NP)/NP 	 2 	 dollar for
+24 	 23 	 NP[nb]/N 	 1 	 dollar the
+26 	 25 	 (NP\NP)/(S[dcl]\NP) 	 2 	 slowed that
+27 	 26 	 (S[dcl]\NP)/NP 	 2 	 sales slowed
+27 	 28 	 NP\NP 	 1 	 sales abroad
+<\s>
+<s id="wsj_2007.25"> 52
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Earnings continued
+0 	 3 	 (S[b]\NP)/NP 	 1 	 Earnings pace <XB>
+1 	 5 	 ((S\NP)\(S\NP))/PP 	 2 	 continued because
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continued
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pace to
+4 	 3 	 (S[b]\NP)/NP 	 2 	 sales pace
+6 	 5 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+10 	 6 	 PP/NP 	 1 	 rate of
+10 	 7 	 NP[nb]/N 	 1 	 rate a
+10 	 8 	 N/N 	 1 	 rate lower
+10 	 9 	 N/N 	 1 	 rate tax
+12 	 6 	 PP/NP 	 1 	 profit of
+12 	 13 	 (NP\NP)/NP 	 1 	 profit from
+15 	 13 	 (NP\NP)/NP 	 2 	 renegotiation from
+15 	 14 	 NP[nb]/N 	 1 	 renegotiation the
+15 	 16 	 (NP\NP)/NP 	 1 	 renegotiation of
+19 	 16 	 (NP\NP)/NP 	 2 	 instrument of
+19 	 17 	 NP[nb]/N 	 1 	 instrument the
+19 	 18 	 N/N 	 1 	 instrument debt
+19 	 20 	 (S[pss]\NP)/PP 	 1 	 instrument received <XB>
+20 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 received in
+21 	 20 	 (S[pss]\NP)/PP 	 2 	 from received
+23 	 21 	 PP/NP 	 1 	 Inc. from
+23 	 22 	 N/N 	 1 	 Inc. Faberge
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 connection in
+25 	 26 	 (NP\NP)/NP 	 1 	 connection with
+27 	 28 	 (NP[nb]/N)\NP 	 2 	 Lilly 's
+29 	 26 	 (NP\NP)/NP 	 2 	 sale with
+29 	 28 	 (NP[nb]/N)\NP 	 1 	 sale 's
+29 	 30 	 (NP\NP)/NP 	 1 	 sale of
+29 	 34 	 (NP\NP)/NP 	 1 	 sale in
+33 	 30 	 (NP\NP)/NP 	 2 	 Inc. of
+33 	 31 	 N/N 	 1 	 Inc. Elizabeth
+33 	 32 	 N/N 	 1 	 Inc. Arden
+35 	 34 	 (NP\NP)/NP 	 2 	 1987 in
+39 	 6 	 PP/NP 	 1 	 proceeds of
+39 	 38 	 N/N 	 1 	 proceeds net
+39 	 40 	 (NP\NP)/NP 	 1 	 proceeds from
+42 	 40 	 (NP\NP)/NP 	 2 	 settlement from
+42 	 41 	 NP[nb]/N 	 1 	 settlement the
+42 	 43 	 (NP\NP)/NP 	 1 	 settlement of
+42 	 46 	 (NP\NP)/NP 	 1 	 settlement at
+45 	 43 	 (NP\NP)/NP 	 2 	 litigation of
+45 	 44 	 N/N 	 1 	 litigation patent
+47 	 48 	 (NP[nb]/N)\NP 	 2 	 Lilly 's
+51 	 46 	 (NP\NP)/NP 	 2 	 unit at
+51 	 48 	 (NP[nb]/N)\NP 	 1 	 unit 's
+51 	 49 	 N/N 	 1 	 unit Hybritech
+51 	 50 	 N/N 	 1 	 unit Inc.
+<\s>
+<s id="wsj_2007.26"> 20
+1 	 0 	 N/N 	 1 	 sales Third-quarter
+1 	 2 	 (NP\NP)/NP 	 1 	 sales of
+1 	 9 	 S[dcl]\NP 	 1 	 sales rose
+6 	 4 	 (N/N)/(N/N) 	 2 	 Ind. Indianapolis
+8 	 2 	 (NP\NP)/NP 	 2 	 company of
+8 	 3 	 NP[nb]/N 	 1 	 company the
+8 	 6 	 N/N 	 1 	 company Ind.
+9 	 11 	 (S\NP)\(S\NP) 	 2 	 rose %
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+9 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 11
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+15 	 13 	 N/N[num] 	 1 	 billion $
+15 	 14 	 N/N 	 1 	 billion 1.045
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 940.6
+<\s>
+<s id="wsj_2007.27"> 16
+1 	 0 	 N/N 	 1 	 sales Nine-month
+1 	 2 	 S[dcl]\NP 	 1 	 sales grew
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 grew %
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 grew to
+2 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 grew from
+4 	 3 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 12
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+8 	 6 	 N/N[num] 	 1 	 billion $
+8 	 7 	 N/N 	 1 	 billion 3.39
+9 	 15 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 3 	 from earlier
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+12 	 10 	 N/N[num] 	 1 	 billion $
+12 	 11 	 N/N 	 1 	 billion 3.03
+14 	 13 	 NP[nb]/N 	 1 	 year a
+14 	 15 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 4 	 year earlier
+<\s>
+<s id="wsj_2007.28"> 10
+0 	 1 	 (NP\NP)/NP 	 1 	 Sales of
+0 	 7 	 (S[dcl]\NP)/NP 	 1 	 Sales led
+2 	 1 	 (NP\NP)/NP 	 2 	 Prozac of
+5 	 1 	 (NP\NP)/NP 	 2 	 anti-depressant of
+5 	 4 	 NP[nb]/N 	 1 	 anti-depressant an
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 increases led
+9 	 8 	 N/N 	 1 	 increases drug-sales
+<\s>
+<s id="wsj_2007.29"> 32
+1 	 0 	 N/N 	 1 	 sales Higher
+1 	 2 	 (NP\NP)/NP 	 1 	 sales of
+1 	 8 	 S[adj]\NP 	 1 	 sales more <XB>
+1 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 sales offset
+3 	 2 	 (NP\NP)/NP 	 2 	 pesticides of
+7 	 2 	 (NP\NP)/NP 	 2 	 products of
+7 	 5 	 N/N 	 1 	 products other
+7 	 6 	 N/N 	 1 	 products plant-science
+8 	 9 	 ((S\NP)/(S\NP))\(S[adj]\NP) 	 3 	 more than
+10 	 9 	 ((S\NP)/(S\NP))\(S[adj]\NP) 	 2 	 offset than
+10 	 31 	 (S[dcl]\S[dcl])\NP 	 1 	 offset said
+13 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 decline offset
+13 	 11 	 NP[nb]/N 	 1 	 decline a
+13 	 12 	 N/N 	 1 	 decline slight
+13 	 14 	 (NP\NP)/NP 	 1 	 decline in
+13 	 21 	 (S[b]\NP)/NP 	 1 	 decline fuel <XB>
+16 	 14 	 (NP\NP)/NP 	 2 	 sales in
+16 	 15 	 NP[nb]/N 	 1 	 sales the
+16 	 17 	 (NP\NP)/NP 	 1 	 sales of
+19 	 17 	 (NP\NP)/NP 	 2 	 products of
+19 	 18 	 N/N 	 1 	 products animal-health
+20 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to offset
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 fuel to
+23 	 21 	 (S[b]\NP)/NP 	 2 	 increase fuel
+23 	 22 	 NP[nb]/N 	 1 	 increase the
+23 	 24 	 (NP\NP)/NP 	 1 	 increase in
+28 	 24 	 (NP\NP)/NP 	 2 	 sales in
+28 	 25 	 N/N 	 1 	 sales world-wide
+28 	 26 	 N/N 	 1 	 sales agricultural
+28 	 27 	 N/N 	 1 	 sales product
+30 	 31 	 (S[dcl]\S[dcl])\NP 	 2 	 Lilly said
+<\s>
+<s id="wsj_2007.30"> 16
+3 	 0 	 N/N 	 1 	 Inc. Advanced
+3 	 1 	 N/N 	 1 	 Inc. Cardiovascular
+3 	 2 	 N/N 	 1 	 Inc. Systems
+3 	 9 	 (S[dcl]\NP)/NP 	 1 	 Inc. led
+8 	 5 	 N/N 	 1 	 units Cardiac
+8 	 6 	 N/N 	 1 	 units Pacemakers
+8 	 7 	 N/N 	 1 	 units Inc.
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 units led
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 growth led
+10 	 11 	 (NP\NP)/NP 	 1 	 growth in
+15 	 11 	 (NP\NP)/NP 	 2 	 division in
+15 	 12 	 NP[nb]/N 	 1 	 division the
+15 	 13 	 N/N 	 1 	 division medical-instrument
+15 	 14 	 N/N 	 1 	 division systems
+<\s>
+<s id="wsj_2007.31"> 18
+1 	 0 	 N/N 	 1 	 shares Lilly
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 shares closed
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 closed yesterday
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 closed in
+2 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+6 	 5 	 N/N 	 1 	 trading composite
+6 	 7 	 (NP\NP)/NP 	 1 	 trading on
+10 	 7 	 (NP\NP)/NP 	 2 	 Board on
+10 	 8 	 NP[nb]/N 	 1 	 Board the
+10 	 9 	 N/N 	 1 	 Board Big
+11 	 2 	 (S[dcl]\NP)/PP 	 2 	 at closed
+12 	 11 	 PP/NP 	 1 	 $ at
+13 	 12 	 N/N[num] 	 1 	 62.25 $
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 cents down
+17 	 16 	 N/N 	 1 	 cents 12.5
+<\s>

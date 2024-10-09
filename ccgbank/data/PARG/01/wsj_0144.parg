@@ -1,0 +1,204 @@
+<s id="wsj_0144.1"> 22
+1 	 0 	 N/N 	 1 	 Corp. Travelers
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+5 	 2 	 (NP[nb]/N)\NP 	 1 	 income 's
+5 	 3 	 N/N 	 1 	 income third-quarter
+5 	 4 	 N/N 	 1 	 income net
+5 	 6 	 S[dcl]\NP 	 1 	 income rose
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 rose %
+6 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 rose though
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 11
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 though even
+12 	 13 	 (S[ng]\NP)/PP 	 1 	 claims stemming <XB>
+12 	 17 	 (S[dcl]\NP)/NP 	 1 	 claims reduced
+14 	 13 	 (S[ng]\NP)/PP 	 2 	 from stemming
+16 	 14 	 PP/NP 	 1 	 Hugo from
+16 	 15 	 N/N 	 1 	 Hugo Hurricane
+17 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 reduced though
+17 	 19 	 ((S\NP)\(S\NP))/N[num] 	 2 	 reduced $
+18 	 17 	 (S[dcl]\NP)/NP 	 2 	 results reduced
+21 	 19 	 ((S\NP)\(S\NP))/N[num] 	 3 	 million $
+21 	 20 	 N/N 	 1 	 million 40
+<\s>
+<s id="wsj_0144.2"> 42
+0 	 1 	 ((S[dcl]\NP)/PP)/PP 	 1 	 Net advanced
+1 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 advanced including
+2 	 1 	 ((S[dcl]\NP)/PP)/PP 	 3 	 to advanced
+3 	 2 	 PP/NP 	 1 	 $ to
+5 	 3 	 N/N[num] 	 1 	 million $
+5 	 4 	 N/N 	 1 	 million 94.2
+9 	 2 	 PP/NP 	 1 	 cents to
+9 	 8 	 N/N 	 1 	 cents 89
+9 	 10 	 (NP\NP)/N 	 1 	 cents a
+11 	 10 	 (NP\NP)/N 	 2 	 share a
+13 	 1 	 ((S[dcl]\NP)/PP)/PP 	 2 	 from advanced
+14 	 13 	 PP/NP 	 1 	 $ from
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 85
+20 	 13 	 PP/NP 	 1 	 cents from
+20 	 19 	 N/N 	 1 	 cents 83
+20 	 21 	 (NP\NP)/N 	 1 	 cents a
+22 	 21 	 (NP\NP)/N 	 2 	 share a
+28 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 gains including
+28 	 25 	 N/N 	 1 	 gains net
+28 	 26 	 N/N 	 1 	 gains realized
+28 	 27 	 N/N 	 1 	 gains investment
+28 	 29 	 (NP\NP)/NP 	 1 	 gains of
+30 	 29 	 (NP\NP)/NP 	 2 	 $ of
+30 	 34 	 (NP\NP)/PP 	 1 	 $ up
+32 	 30 	 N/N[num] 	 1 	 million $
+32 	 31 	 N/N 	 1 	 million 31
+35 	 34 	 (NP\NP)/PP 	 2 	 from up
+36 	 35 	 PP/NP 	 1 	 $ from
+36 	 41 	 (NP\NP)\NP 	 1 	 $ ago
+38 	 36 	 N/N[num] 	 1 	 million $
+38 	 37 	 N/N 	 1 	 million 10
+40 	 39 	 NP[nb]/N 	 1 	 year a
+40 	 41 	 (NP\NP)\NP 	 2 	 year ago
+<\s>
+<s id="wsj_0144.3"> 11
+1 	 2 	 S[dcl]\NP 	 1 	 revenue declined
+2 	 0 	 S/S 	 1 	 declined But
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 declined to
+2 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 declined from
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+6 	 4 	 N/N[num] 	 1 	 billion $
+6 	 5 	 N/N 	 1 	 billion 3
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+10 	 8 	 N/N[num] 	 1 	 billion $
+10 	 9 	 N/N 	 1 	 billion 3.2
+<\s>
+<s id="wsj_0144.4"> 21
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Travelers estimated
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that estimated
+5 	 3 	 NP[nb]/N 	 1 	 earthquake the
+5 	 4 	 N/N 	 1 	 earthquake California
+5 	 7 	 NP\NP 	 1 	 earthquake month
+5 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 earthquake will
+5 	 9 	 (S[b]\NP)/PP 	 1 	 earthquake result <XB>
+7 	 6 	 (NP\NP)/(NP\NP) 	 2 	 month last
+8 	 2 	 S[em]/S[dcl] 	 1 	 will that
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 result will
+10 	 9 	 (S[b]\NP)/PP 	 2 	 in result
+14 	 10 	 PP/NP 	 1 	 charge in
+14 	 11 	 NP[nb]/N 	 1 	 charge a
+14 	 12 	 N/N 	 1 	 charge fourth-quarter
+14 	 13 	 N/N 	 1 	 charge pre-tax
+14 	 15 	 (NP\NP)/NP 	 1 	 charge of
+16 	 17 	 (N/N)\(S[adj]\NP) 	 2 	 less than
+18 	 15 	 (NP\NP)/NP 	 2 	 $ of
+18 	 17 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+20 	 18 	 N/N[num] 	 1 	 million $
+20 	 19 	 N/N 	 1 	 million 10
+<\s>
+<s id="wsj_0144.5"> 38
+1 	 0 	 NP[nb]/N 	 1 	 insurer The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 insurer 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 earnings 's
+3 	 4 	 (NP\NP)/NP 	 1 	 earnings from
+3 	 8 	 S[dcl]\NP 	 1 	 earnings fell
+7 	 4 	 (NP\NP)/NP 	 2 	 lines from
+7 	 5 	 N/N 	 1 	 lines commercial
+7 	 6 	 N/N 	 1 	 lines property\/casualty
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 fell %
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 fell in
+8 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 fell while
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 59
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+14 	 12 	 NP[nb]/N 	 1 	 quarter the
+14 	 13 	 N/N 	 1 	 quarter latest
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 it lost
+18 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 lost while
+18 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 lost in
+18 	 28 	 ((S\NP)\(S\NP))/PP 	 2 	 lost compared
+19 	 18 	 (S[dcl]\NP)/NP 	 2 	 $ lost
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 7.2
+26 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 business in
+26 	 23 	 NP[nb]/N 	 1 	 business its
+26 	 24 	 N/N 	 1 	 business personal
+26 	 25 	 N/N 	 1 	 business property\/casualty
+29 	 28 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+30 	 29 	 PP/NP 	 1 	 earnings with
+30 	 31 	 (NP\NP)/NP 	 1 	 earnings of
+30 	 37 	 (NP\NP)\NP 	 1 	 earnings ago
+32 	 31 	 (NP\NP)/NP 	 2 	 $ of
+34 	 32 	 N/N[num] 	 1 	 million $
+34 	 33 	 N/N 	 1 	 million 6.1
+36 	 35 	 NP[nb]/N 	 1 	 year a
+36 	 37 	 (NP\NP)\NP 	 2 	 year ago
+<\s>
+<s id="wsj_0144.6"> 31
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Travelers 's
+4 	 1 	 (NP[nb]/N)\NP 	 1 	 group 's
+4 	 2 	 N/N 	 1 	 group employee
+4 	 3 	 N/N 	 1 	 group benefits
+4 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 group which
+4 	 7 	 (S[dcl]\NP)/NP 	 1 	 group includes <XB>
+4 	 14 	 (S[dcl]\NP)/NP 	 1 	 group posted
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 includes which
+12 	 7 	 (S[dcl]\NP)/NP 	 2 	 operations includes
+12 	 8 	 NP[nb]/N 	 1 	 operations its
+12 	 9 	 N/N 	 1 	 operations group
+12 	 10 	 N/N 	 1 	 operations health
+12 	 11 	 N/N 	 1 	 operations insurance
+14 	 21 	 ((S\NP)\(S\NP))/PP 	 2 	 posted compared
+15 	 14 	 (S[dcl]\NP)/NP 	 2 	 earnings posted
+15 	 16 	 (NP\NP)/NP 	 1 	 earnings of
+17 	 16 	 (NP\NP)/NP 	 2 	 $ of
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 24
+22 	 21 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+24 	 22 	 PP/NP 	 1 	 loss with
+24 	 23 	 NP[nb]/N 	 1 	 loss a
+24 	 25 	 (NP\NP)/NP 	 1 	 loss of
+24 	 30 	 NP\NP 	 1 	 loss year
+26 	 25 	 (NP\NP)/NP 	 2 	 $ of
+28 	 26 	 N/N[num] 	 1 	 million $
+28 	 27 	 N/N 	 1 	 million 3
+30 	 29 	 (NP\NP)/(NP\NP) 	 2 	 year last
+<\s>
+<s id="wsj_0144.7"> 24
+4 	 0 	 (S/S)/NP 	 2 	 months In
+4 	 1 	 NP[nb]/N 	 1 	 months the
+4 	 2 	 N/N 	 1 	 months first
+4 	 3 	 N/N 	 1 	 months nine
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 net was
+7 	 0 	 (S/S)/NP 	 1 	 was In
+7 	 12 	 ((S\NP)\(S\NP))/PP 	 2 	 was compared
+8 	 7 	 (S[dcl]\NP)/NP 	 2 	 $ was
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 306
+13 	 12 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+15 	 13 	 PP/NP 	 1 	 loss with
+15 	 14 	 NP[nb]/N 	 1 	 loss a
+15 	 16 	 (NP\NP)/NP 	 1 	 loss of
+15 	 20 	 (NP\NP)/NP 	 1 	 loss in
+17 	 16 	 (NP\NP)/NP 	 2 	 $ of
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 195
+23 	 20 	 (NP\NP)/NP 	 2 	 period in
+23 	 21 	 NP[nb]/N 	 1 	 period the
+23 	 22 	 N/N 	 1 	 period 1988
+<\s>
+<s id="wsj_0144.8"> 21
+2 	 0 	 NP[nb]/N 	 1 	 results The
+2 	 1 	 N/N 	 1 	 results year-ago
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 results included
+7 	 5 	 (N/N)/N[num] 	 2 	 million $
+7 	 6 	 N/N 	 1 	 million 415
+8 	 3 	 (S[dcl]\NP)/NP 	 2 	 charge included
+8 	 4 	 NP[nb]/N 	 1 	 charge a
+8 	 5 	 (N/N)/N[num] 	 1 	 charge $
+8 	 9 	 (NP\NP)/NP 	 1 	 charge in
+8 	 14 	 (NP\NP)/NP 	 1 	 charge for
+13 	 9 	 (NP\NP)/NP 	 2 	 quarter in
+13 	 10 	 NP[nb]/N 	 1 	 quarter the
+13 	 11 	 N/N 	 1 	 quarter 1988
+13 	 12 	 N/N 	 1 	 quarter second
+20 	 14 	 (NP\NP)/NP 	 2 	 loans for
+20 	 15 	 N/N 	 1 	 loans underperforming
+20 	 16 	 N/N 	 1 	 loans real
+20 	 17 	 N/N 	 1 	 loans estate
+20 	 19 	 N/N 	 1 	 loans mortgage
+<\s>

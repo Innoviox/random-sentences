@@ -1,0 +1,126 @@
+<s id="wsj_1344.1"> 43
+2 	 0 	 N/N 	 1 	 PLC Lucas
+2 	 1 	 N/N 	 1 	 PLC Industries
+2 	 13 	 (S[dcl]\NP)/NP 	 1 	 PLC reported
+6 	 4 	 NP[nb]/N 	 1 	 maker a
+6 	 5 	 N/N 	 1 	 maker British
+6 	 7 	 (NP\NP)/NP 	 1 	 maker of
+6 	 13 	 (S[dcl]\NP)/NP 	 1 	 maker reported
+9 	 7 	 (NP\NP)/NP 	 2 	 parts of
+9 	 8 	 N/N 	 1 	 parts industrial
+11 	 7 	 (NP\NP)/NP 	 2 	 systems of
+11 	 8 	 N/N 	 1 	 systems industrial
+16 	 15 	 (N/N)/(N/N) 	 2 	 % 28
+17 	 13 	 (S[dcl]\NP)/NP 	 2 	 rise reported
+17 	 14 	 NP[nb]/N 	 1 	 rise a
+17 	 16 	 N/N 	 1 	 rise %
+17 	 18 	 (NP\NP)/NP 	 1 	 rise in
+17 	 21 	 (NP\NP)/NP 	 1 	 rise for
+17 	 28 	 S[pss]\NP 	 1 	 rise helped <XB>
+17 	 30 	 S[adj]\NP 	 1 	 rise particular <XB>
+20 	 18 	 (NP\NP)/NP 	 2 	 profit in
+20 	 19 	 N/N 	 1 	 profit pretax
+23 	 21 	 (NP\NP)/NP 	 2 	 year for
+23 	 22 	 NP[nb]/N 	 1 	 year the
+23 	 24 	 (NP\NP)/NP 	 1 	 year to
+25 	 24 	 (NP\NP)/NP 	 2 	 July to
+26 	 25 	 N/N[num] 	 1 	 31 July
+28 	 29 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 helped in
+28 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 helped by
+30 	 29 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 particular in
+34 	 33 	 (N/N)/(N/N) 	 2 	 % 32
+35 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 jump by
+35 	 32 	 NP[nb]/N 	 1 	 jump a
+35 	 34 	 N/N 	 1 	 jump %
+35 	 36 	 (NP\NP)/NP 	 1 	 jump in
+35 	 39 	 (NP\NP)/NP 	 1 	 jump at
+38 	 36 	 (NP\NP)/NP 	 2 	 profit in
+38 	 37 	 N/N 	 1 	 profit operating
+42 	 39 	 (NP\NP)/NP 	 2 	 division at
+42 	 40 	 NP[nb]/N 	 1 	 division its
+42 	 41 	 N/N 	 1 	 division aerospace
+<\s>
+<s id="wsj_1344.2"> 25
+1 	 0 	 N/N 	 1 	 profit Pretax
+1 	 2 	 (NP\NP)/NP 	 1 	 profit in
+1 	 6 	 S[dcl]\NP 	 1 	 profit climbed
+5 	 2 	 (NP\NP)/NP 	 2 	 year in
+5 	 3 	 NP[nb]/N 	 1 	 year the
+5 	 4 	 N/N 	 1 	 year latest
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 climbed to
+6 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 climbed from
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 # to
+8 	 11 	 (NP\NP)/NP 	 1 	 # -LRB-
+10 	 8 	 N/N[num] 	 1 	 million #
+10 	 9 	 N/N 	 1 	 million 187.1
+12 	 11 	 (NP\NP)/NP 	 2 	 $ -LRB-
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 297.1
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 # from
+17 	 20 	 (NP\NP)/NP 	 1 	 # -LRB-
+19 	 17 	 N/N[num] 	 1 	 million #
+19 	 18 	 N/N 	 1 	 million 146.3
+21 	 20 	 (NP\NP)/NP 	 2 	 $ -LRB-
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 232.3
+<\s>
+<s id="wsj_1344.3"> 41
+0 	 1 	 (NP\NP)/NP 	 1 	 Profit after
+0 	 7 	 (NP\NP)/NP 	 1 	 Profit before <XU>
+0 	 10 	 S[dcl]\NP 	 1 	 Profit climbed
+2 	 1 	 (NP\NP)/NP 	 2 	 taxes after
+5 	 1 	 (NP\NP)/NP 	 2 	 interests after
+5 	 4 	 N/N 	 1 	 interests minority
+9 	 7 	 (NP\NP)/NP 	 2 	 items before
+9 	 8 	 N/N 	 1 	 items extraordinary
+10 	 12 	 (S\NP)\(S\NP) 	 2 	 climbed %
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 climbed to
+10 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 climbed from
+10 	 22 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 2 	 climbed with
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 27
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 # to
+16 	 14 	 N/N[num] 	 1 	 million #
+16 	 15 	 N/N 	 1 	 million 143.4
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 # from
+20 	 18 	 N/N[num] 	 1 	 million #
+20 	 19 	 N/N 	 1 	 million 112.5
+23 	 22 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 earnings with
+23 	 24 	 (NP\NP)/NP 	 1 	 earnings per
+23 	 26 	 S[ng]\NP 	 1 	 earnings rising <XB>
+25 	 24 	 (NP\NP)/NP 	 2 	 share per
+26 	 22 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 3 	 rising with
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 rising to
+26 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 rising from
+29 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 pence to
+29 	 28 	 N/N 	 1 	 pence 85.1
+29 	 30 	 (NP\NP)/NP 	 1 	 pence -LRB-
+31 	 30 	 (NP\NP)/NP 	 2 	 $ -LRB-
+32 	 31 	 N/N[num] 	 1 	 1.35 $
+36 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 pence from
+36 	 35 	 N/N 	 1 	 pence 79.4
+36 	 37 	 (NP\NP)/NP 	 1 	 pence -LRB-
+38 	 37 	 (NP\NP)/NP 	 2 	 $ -LRB-
+39 	 38 	 N/N[num] 	 1 	 1.26 $
+<\s>
+<s id="wsj_1344.4"> 21
+1 	 0 	 NP[nb]/N 	 1 	 results The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 results were
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 at were
+6 	 3 	 PP/NP 	 1 	 end at
+6 	 4 	 NP[nb]/N 	 1 	 end the
+6 	 5 	 N/N 	 1 	 end upper
+6 	 7 	 (NP\NP)/NP 	 1 	 end of
+9 	 7 	 (NP\NP)/NP 	 2 	 expectations of
+9 	 8 	 N/N 	 1 	 expectations market
+9 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 expectations which
+9 	 12 	 (S[dcl]\NP)/PP 	 1 	 expectations ranged <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 ranged which
+14 	 13 	 (PP/PP)/NP 	 2 	 # from
+16 	 14 	 N/N[num] 	 1 	 million #
+16 	 15 	 N/N 	 1 	 million 185
+17 	 12 	 (S[dcl]\NP)/PP 	 2 	 to ranged
+17 	 13 	 (PP/PP)/NP 	 1 	 to from
+18 	 17 	 PP/NP 	 1 	 # to
+20 	 18 	 N/N[num] 	 1 	 million #
+20 	 19 	 N/N 	 1 	 million 188
+<\s>

@@ -1,0 +1,294 @@
+<s id="wsj_0558.1"> 40
+4 	 0 	 N/N 	 1 	 Co. Aetna
+4 	 1 	 N/N 	 1 	 Co. Life
+4 	 2 	 N/N 	 1 	 Co. &
+4 	 3 	 N/N 	 1 	 Co. Casualty
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Co. 's
+8 	 5 	 (NP[nb]/N)\NP 	 1 	 income 's
+8 	 6 	 N/N 	 1 	 income third-quarter
+8 	 7 	 N/N 	 1 	 income net
+8 	 9 	 S[dcl]\NP 	 1 	 income fell
+8 	 23 	 (S[ng]\NP)/NP 	 1 	 income reflecting <XB>
+9 	 11 	 (S\NP)\(S\NP) 	 2 	 fell %
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 22
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 182.6
+18 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+18 	 20 	 (NP\NP)/N 	 1 	 $ a
+19 	 18 	 N/N[num] 	 1 	 1.63 $
+21 	 20 	 (NP\NP)/N 	 2 	 share a
+25 	 23 	 (S[ng]\NP)/NP 	 2 	 damages reflecting
+25 	 24 	 NP[nb]/N 	 1 	 damages the
+25 	 26 	 (NP\NP)/NP 	 1 	 damages from
+28 	 26 	 (NP\NP)/NP 	 2 	 Hugo from
+28 	 27 	 N/N 	 1 	 Hugo Hurricane
+31 	 23 	 (S[ng]\NP)/NP 	 2 	 results reflecting
+31 	 30 	 N/N 	 1 	 results lower
+31 	 32 	 (NP\NP)/NP 	 1 	 results for
+33 	 32 	 (NP\NP)/NP 	 2 	 some for
+33 	 34 	 (NP\NP)/NP 	 1 	 some of
+36 	 35 	 NP[nb]/N 	 1 	 company the
+36 	 37 	 (NP[nb]/N)\NP 	 2 	 company 's
+39 	 34 	 (NP\NP)/NP 	 2 	 divisions of
+39 	 37 	 (NP[nb]/N)\NP 	 1 	 divisions 's
+39 	 38 	 N/N 	 1 	 divisions major
+<\s>
+<s id="wsj_0558.2"> 18
+1 	 0 	 N/N 	 1 	 losses Catastrophe
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 losses reduced
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Aetna 's
+6 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 income reduced
+6 	 4 	 (NP[nb]/N)\NP 	 1 	 income 's
+6 	 5 	 N/N 	 1 	 income net
+7 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 by reduced
+8 	 7 	 PP/NP 	 1 	 $ by
+8 	 12 	 (NP\NP)/NP 	 1 	 $ including
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 50
+13 	 12 	 (NP\NP)/NP 	 2 	 $ including
+13 	 16 	 (NP\NP)/NP 	 1 	 $ from
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 36
+17 	 16 	 (NP\NP)/NP 	 2 	 Hugo from
+<\s>
+<s id="wsj_0558.3"> 21
+1 	 0 	 (S/S)/(S/S) 	 2 	 year Last
+3 	 2 	 N/N 	 1 	 losses catastrophe
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 losses totaled
+4 	 1 	 S/S 	 1 	 totaled year
+4 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 totaled when
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 $ totaled
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 5
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 net was
+11 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was when
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 $ was
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 235.5
+17 	 11 	 (S[dcl]\NP)/NP 	 2 	 $ was
+17 	 19 	 (NP\NP)/N 	 1 	 $ a
+18 	 17 	 N/N[num] 	 1 	 2.07 $
+20 	 19 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0558.4"> 11
+2 	 0 	 NP[nb]/N 	 1 	 results The
+2 	 1 	 N/N 	 1 	 results year-earlier
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 results have
+2 	 5 	 S[pss]\NP 	 1 	 results restated <XB>
+2 	 7 	 (S[b]\NP)/NP 	 1 	 results reflect <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+5 	 4 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 restated been
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reflect to
+10 	 7 	 (S[b]\NP)/NP 	 2 	 change reflect
+10 	 8 	 NP[nb]/N 	 1 	 change an
+10 	 9 	 N/N 	 1 	 change accounting
+<\s>
+<s id="wsj_0558.5"> 15
+1 	 0 	 NP[nb]/N 	 1 	 insurer The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 insurer has
+1 	 3 	 (S[pt]\NP)/(S[ng]\NP) 	 1 	 insurer started <XB>
+1 	 4 	 (S[ng]\NP)/NP 	 1 	 insurer processing <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 started has
+3 	 14 	 ((S\NP)\(S\NP))\NP 	 2 	 started ago
+4 	 3 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 processing started
+5 	 4 	 (S[ng]\NP)/NP 	 2 	 claims processing
+5 	 6 	 (NP\NP)/NP 	 1 	 claims from
+10 	 6 	 (NP\NP)/NP 	 2 	 earthquake from
+10 	 7 	 NP[nb]/N 	 1 	 earthquake the
+10 	 8 	 N/N 	 1 	 earthquake Northern
+10 	 9 	 N/N 	 1 	 earthquake California
+12 	 11 	 (N/N)/(N/N) 	 2 	 two nearly
+13 	 12 	 N/N 	 1 	 weeks two
+13 	 14 	 ((S\NP)\(S\NP))\NP 	 3 	 weeks ago
+<\s>
+<s id="wsj_0558.6"> 31
+3 	 2 	 NP[nb]/N 	 1 	 claims these
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 claims are
+3 	 6 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 claims difficult <XB>
+3 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 claims have <XU>
+3 	 12 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 claims coming <XU>
+3 	 13 	 S[adj]\NP 	 1 	 claims in <XU>
+4 	 1 	 (S/S)/S[dcl] 	 2 	 are because
+6 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 difficult are
+6 	 5 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 difficult more
+7 	 6 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to difficult
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 evaluate to
+10 	 1 	 (S/S)/S[dcl] 	 2 	 have because
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+12 	 11 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 coming been
+12 	 15 	 (S\NP)\(S\NP) 	 2 	 coming slowly
+13 	 12 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 in coming
+15 	 14 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 slowly more
+18 	 17 	 NP[nb]/N 	 1 	 company the
+18 	 19 	 (S[dcl]\NP)/NP 	 1 	 company has
+19 	 0 	 S/S 	 1 	 has But
+19 	 1 	 (S/S)/S[dcl] 	 1 	 has because
+21 	 19 	 (S[dcl]\NP)/NP 	 2 	 estimate has
+21 	 20 	 NP[nb]/N 	 1 	 estimate no
+21 	 22 	 (NP\NP)/NP 	 1 	 estimate of
+24 	 22 	 (NP\NP)/NP 	 2 	 impact of
+24 	 23 	 NP[nb]/N 	 1 	 impact the
+24 	 25 	 (NP\NP)/NP 	 1 	 impact of
+24 	 28 	 (NP\NP)/NP 	 1 	 impact on
+27 	 25 	 (NP\NP)/NP 	 2 	 earthquake of
+27 	 26 	 NP[nb]/N 	 1 	 earthquake the
+30 	 28 	 (NP\NP)/NP 	 2 	 results on
+30 	 29 	 N/N 	 1 	 results fourth-quarter
+<\s>
+<s id="wsj_0558.7"> 18
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+9 	 10 	 (S[dcl]\NP)/PP 	 1 	 Aetna closed
+10 	 0 	 (S/S)/NP 	 1 	 closed In
+10 	 7 	 S/S 	 1 	 closed Friday
+10 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+11 	 10 	 (S[dcl]\NP)/PP 	 2 	 at closed
+12 	 11 	 PP/NP 	 1 	 $ at
+13 	 12 	 N/N[num] 	 1 	 60 $
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 cents down
+17 	 16 	 N/N 	 1 	 cents 50
+<\s>
+<s id="wsj_0558.8"> 26
+3 	 0 	 (S/S)/NP 	 2 	 quarter In
+3 	 1 	 NP[nb]/N 	 1 	 quarter the
+3 	 2 	 N/N 	 1 	 quarter latest
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Aetna had
+6 	 0 	 (S/S)/NP 	 1 	 had In
+6 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 had on
+6 	 17 	 ((S\NP)\(S\NP))/PP 	 2 	 had compared
+10 	 8 	 (N/N)/N[num] 	 2 	 million $
+10 	 9 	 N/N 	 1 	 million 23
+11 	 6 	 (S[dcl]\NP)/NP 	 2 	 loss had
+11 	 7 	 NP[nb]/N 	 1 	 loss a
+11 	 8 	 (N/N)/N[num] 	 1 	 loss $
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 line on
+15 	 13 	 NP[nb]/N 	 1 	 line its
+15 	 14 	 N/N 	 1 	 line auto\/homeowners
+18 	 17 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+19 	 18 	 PP/NP 	 1 	 earnings with
+19 	 20 	 (NP\NP)/NP 	 1 	 earnings of
+19 	 25 	 NP\NP 	 1 	 earnings year
+21 	 20 	 (NP\NP)/NP 	 2 	 $ of
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 33
+25 	 24 	 (NP\NP)/(NP\NP) 	 2 	 year last
+<\s>
+<s id="wsj_0558.9"> 30
+0 	 1 	 (NP\NP)/NP 	 1 	 Profit for
+0 	 6 	 S[dcl]\NP 	 1 	 Profit fell
+0 	 14 	 (S[ng]\NP)/NP 	 1 	 Profit reflecting <XB>
+5 	 1 	 (NP\NP)/NP 	 2 	 division for
+5 	 2 	 NP[nb]/N 	 1 	 division its
+5 	 3 	 N/N 	 1 	 division commercial
+5 	 4 	 N/N 	 1 	 division insurance
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 fell %
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 30
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 59
+17 	 14 	 (S[ng]\NP)/NP 	 2 	 losses reflecting
+17 	 15 	 N/N 	 1 	 losses higher
+17 	 16 	 N/N 	 1 	 losses catastrophe
+21 	 14 	 (S[ng]\NP)/NP 	 2 	 war reflecting
+21 	 19 	 NP[nb]/N 	 1 	 war the
+21 	 20 	 N/N 	 1 	 war price
+21 	 22 	 (NP\NP)/NP 	 1 	 war in
+21 	 26 	 (NP\NP)/NP 	 1 	 war for
+25 	 22 	 (NP\NP)/NP 	 2 	 market in
+25 	 23 	 NP[nb]/N 	 1 	 market the
+25 	 24 	 N/N 	 1 	 market property\/casualty
+28 	 27 	 (N/N)/(N/N) 	 2 	 three nearly
+29 	 26 	 (NP\NP)/NP 	 2 	 years for
+29 	 28 	 N/N 	 1 	 years three
+<\s>
+<s id="wsj_0558.10"> 26
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Aetna 's
+6 	 3 	 (NP[nb]/N)\NP 	 1 	 division 's
+6 	 4 	 N/N 	 1 	 division employee
+6 	 5 	 N/N 	 1 	 division benefits
+6 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 division which
+6 	 9 	 (S[dcl]\NP)/NP 	 1 	 division includes <XB>
+6 	 16 	 (S[dcl]\NP)/NP 	 1 	 division posted
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 includes which
+14 	 9 	 (S[dcl]\NP)/NP 	 2 	 operations includes
+14 	 10 	 NP[nb]/N 	 1 	 operations its
+14 	 11 	 N/N 	 1 	 operations group
+14 	 12 	 N/N 	 1 	 operations health
+14 	 13 	 N/N 	 1 	 operations insurance
+16 	 0 	 S/S 	 1 	 posted However
+19 	 18 	 (N/N)/(N/N) 	 2 	 % 34
+21 	 16 	 (S[dcl]\NP)/NP 	 2 	 gain posted
+21 	 17 	 NP[nb]/N 	 1 	 gain a
+21 	 19 	 N/N 	 1 	 gain %
+21 	 20 	 N/N 	 1 	 gain profit
+21 	 22 	 (NP\NP)/NP 	 1 	 gain to
+23 	 22 	 (NP\NP)/NP 	 2 	 $ to
+25 	 23 	 N/N[num] 	 1 	 million $
+25 	 24 	 N/N 	 1 	 million 106
+<\s>
+<s id="wsj_0558.11"> 32
+1 	 0 	 N/N 	 1 	 results Third-quarter
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 results included
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 gains included
+6 	 3 	 N/N 	 1 	 gains net
+6 	 4 	 N/N 	 1 	 gains realized
+6 	 5 	 N/N 	 1 	 gains capital
+6 	 7 	 (NP\NP)/NP 	 1 	 gains of
+8 	 7 	 (NP\NP)/NP 	 2 	 $ of
+8 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 $ which
+8 	 13 	 (S[dcl]\NP)/NP 	 1 	 $ included <XB>
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 48
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 included which
+14 	 13 	 (S[dcl]\NP)/NP 	 2 	 $ included
+14 	 17 	 (NP\NP)/NP 	 1 	 $ from
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 27
+19 	 17 	 (NP\NP)/NP 	 2 	 sale from
+19 	 18 	 NP[nb]/N 	 1 	 sale the
+19 	 20 	 (NP\NP)/NP 	 1 	 sale of
+19 	 23 	 (NP\NP)/NP 	 1 	 sale in
+22 	 20 	 (NP\NP)/NP 	 2 	 Investors of
+22 	 21 	 N/N 	 1 	 Investors Federated
+24 	 23 	 (NP\NP)/NP 	 2 	 August in
+29 	 27 	 (N/N)/N[num] 	 2 	 million $
+29 	 28 	 N/N 	 1 	 million 15
+31 	 13 	 (S[dcl]\NP)/NP 	 2 	 credit included
+31 	 26 	 NP[nb]/N 	 1 	 credit a
+31 	 27 	 (N/N)/N[num] 	 1 	 credit $
+31 	 30 	 N/N 	 1 	 credit tax
+<\s>
+<s id="wsj_0558.12"> 32
+3 	 0 	 (S/S)/NP 	 2 	 months In
+3 	 1 	 NP[nb]/N 	 1 	 months the
+3 	 2 	 N/N 	 1 	 months nine
+5 	 6 	 S[dcl]\NP 	 1 	 net rose
+6 	 0 	 (S/S)/NP 	 1 	 rose In
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 rose %
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+6 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 4.3
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 525.8
+14 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+14 	 16 	 (NP\NP)/N 	 1 	 $ a
+15 	 14 	 N/N[num] 	 1 	 4.67 $
+17 	 16 	 (NP\NP)/N 	 2 	 share a
+19 	 31 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 from year
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+22 	 20 	 N/N[num] 	 1 	 million $
+22 	 21 	 N/N 	 1 	 million 504.2
+25 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+25 	 27 	 (NP\NP)/N 	 1 	 $ a
+26 	 25 	 N/N[num] 	 1 	 4.41 $
+28 	 27 	 (NP\NP)/N 	 2 	 share a
+31 	 30 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/(((S\NP)\(S\NP))\((S\NP)\(S\NP))) 	 4 	 year last
+<\s>

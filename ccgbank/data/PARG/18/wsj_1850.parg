@@ -1,0 +1,596 @@
+<s id="wsj_1850.1"> 29
+2 	 0 	 N/N 	 1 	 Lines Japan
+2 	 1 	 N/N 	 1 	 Lines Air
+2 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Lines plan
+2 	 13 	 (S[b]\NP)/NP 	 1 	 Lines form <XB>
+6 	 4 	 N/N 	 1 	 Airlines Lufthansa
+6 	 5 	 N/N 	 1 	 Airlines German
+6 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Airlines plan
+6 	 13 	 (S[b]\NP)/NP 	 1 	 Airlines form <XB>
+9 	 8 	 N/N 	 1 	 France Air
+9 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 France plan
+9 	 13 	 (S[b]\NP)/NP 	 1 	 France form <XB>
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 plan reportedly
+12 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plan
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 form to
+13 	 18 	 ((S\NP)\(S\NP))/N 	 2 	 form this
+17 	 13 	 (S[b]\NP)/NP 	 2 	 company form
+17 	 14 	 NP[nb]/N 	 1 	 company an
+17 	 15 	 N/N 	 1 	 company international
+17 	 16 	 N/N 	 1 	 company air-freight
+19 	 18 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+22 	 21 	 NP[nb]/N 	 1 	 move a
+22 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 move that
+22 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 move could <XB>
+22 	 26 	 (S[b]\NP)/NP 	 1 	 move consolidate <XB>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 could that
+26 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 consolidate could
+26 	 25 	 (S\NP)/(S\NP) 	 2 	 consolidate further
+28 	 26 	 (S[b]\NP)/NP 	 2 	 industry consolidate
+28 	 27 	 NP[nb]/N 	 1 	 industry the
+<\s>
+<s id="wsj_1850.2"> 21
+4 	 0 	 N/N 	 1 	 Shimbun Japanese
+4 	 1 	 N/N 	 1 	 Shimbun newspaper
+4 	 2 	 N/N 	 1 	 Shimbun Nihon
+4 	 3 	 N/N 	 1 	 Shimbun Keizai
+4 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 Shimbun reported
+6 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that reported
+9 	 7 	 NP[nb]/N 	 1 	 giants the
+9 	 8 	 N/N 	 1 	 giants three
+9 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 giants plan
+9 	 12 	 (S[b]\NP)/NP 	 1 	 giants integrate <XB>
+10 	 6 	 S[em]/S[dcl] 	 1 	 plan that
+11 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plan
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 integrate to
+15 	 12 	 (S[b]\NP)/NP 	 2 	 computers integrate
+15 	 13 	 NP[nb]/N 	 1 	 computers their
+15 	 14 	 N/N 	 1 	 computers cargo
+20 	 12 	 (S[b]\NP)/NP 	 2 	 systems integrate
+20 	 17 	 N/N 	 1 	 systems ground-cargo <XU>
+20 	 19 	 N/N 	 1 	 systems air-cargo
+<\s>
+<s id="wsj_1850.3"> 28
+0 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 They will
+0 	 3 	 ((S[b]\NP)/PP)/NP 	 1 	 They invest <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 will reportedly
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 invest will
+5 	 3 	 ((S[b]\NP)/PP)/NP 	 3 	 total invest
+5 	 4 	 NP[nb]/N 	 1 	 total a
+5 	 6 	 (NP\NP)/NP 	 1 	 total of
+8 	 7 	 (N/N)/(N/N) 	 2 	 billion 20
+9 	 6 	 (NP\NP)/NP 	 2 	 yen of
+9 	 8 	 N/N 	 1 	 yen billion
+9 	 10 	 (NP\NP)/NP 	 1 	 yen -LRB-
+11 	 10 	 (NP\NP)/NP 	 2 	 $ -LRB-
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 140
+15 	 3 	 ((S[b]\NP)/PP)/NP 	 2 	 in invest
+17 	 15 	 PP/NP 	 1 	 venture in
+17 	 16 	 NP[nb]/N 	 1 	 venture the
+17 	 19 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 venture whose
+20 	 19 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 headquarters whose
+20 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 headquarters would <XB>
+20 	 22 	 (S[b]\NP)/PP 	 1 	 headquarters be <XB>
+21 	 19 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 would whose
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+23 	 22 	 (S[b]\NP)/PP 	 2 	 in be
+24 	 23 	 PP/NP 	 1 	 France in
+27 	 23 	 PP/NP 	 1 	 Germany in
+27 	 26 	 N/N 	 1 	 Germany West
+<\s>
+<s id="wsj_1850.4"> 15
+1 	 0 	 NP[nb]/N 	 1 	 action The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 action follows
+5 	 3 	 N/N 	 1 	 Corp. Federal
+5 	 4 	 N/N 	 1 	 Corp. Express
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 acquisition follows
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 acquisition 's
+7 	 8 	 (NP\NP)/NP 	 1 	 acquisition of
+7 	 13 	 (NP\NP)/NP 	 1 	 acquisition in
+12 	 8 	 (NP\NP)/NP 	 2 	 Inc. of
+12 	 9 	 N/N 	 1 	 Inc. Flying
+12 	 10 	 N/N 	 1 	 Inc. Tiger
+12 	 11 	 N/N 	 1 	 Inc. Line
+14 	 13 	 (NP\NP)/NP 	 2 	 August in
+<\s>
+<s id="wsj_1850.5"> 35
+1 	 0 	 (S/S)/NP 	 2 	 that After
+3 	 4 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 1 	 it would
+4 	 0 	 (S/S)/NP 	 1 	 would After
+4 	 16 	 (S[dcl]\S[dcl])/NP 	 1 	 would said
+5 	 4 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 2 	 make would
+6 	 5 	 ((S[b]\NP)/S[for])/NP 	 3 	 sense make
+7 	 5 	 ((S[b]\NP)/S[for])/NP 	 2 	 for make
+8 	 7 	 (S[for]/(S[to]\NP))/NP 	 2 	 airlines for
+8 	 10 	 (S[b]\NP)/PP 	 1 	 airlines talk <XB>
+9 	 7 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 talk to
+11 	 10 	 (S[b]\NP)/PP 	 2 	 about talk
+12 	 11 	 PP/(S[ng]\NP) 	 1 	 doing about
+12 	 14 	 (S\NP)\(S\NP) 	 2 	 doing jointly
+13 	 12 	 (S[ng]\NP)/NP 	 2 	 things doing
+18 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 Daly said
+18 	 17 	 N/N 	 1 	 Daly Cotton
+20 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 director said
+20 	 21 	 (NP\NP)/NP 	 1 	 director of
+20 	 24 	 (NP\NP)/NP 	 1 	 director for
+23 	 21 	 (NP\NP)/NP 	 2 	 services of
+23 	 22 	 N/N 	 1 	 services cargo
+34 	 24 	 (NP\NP)/NP 	 2 	 Inc for
+34 	 25 	 N/N 	 1 	 Inc New
+34 	 26 	 N/N 	 1 	 Inc York
+34 	 27 	 N/N 	 1 	 Inc consulting
+34 	 28 	 N/N 	 1 	 Inc firm
+34 	 29 	 N/N 	 1 	 Inc Simat
+34 	 31 	 N/N 	 1 	 Inc Helliesen
+34 	 32 	 N/N 	 1 	 Inc &
+34 	 33 	 N/N 	 1 	 Inc Eichner
+<\s>
+<s id="wsj_1850.6"> 27
+1 	 0 	 N/N 	 1 	 Daly Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Daly said
+4 	 3 	 NP/NP 	 1 	 discussions such
+4 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 discussions are
+4 	 6 	 S[pss]\NP 	 1 	 discussions motivated <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 motivated are
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 motivated by
+10 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 threat by
+10 	 8 	 NP[nb]/N 	 1 	 threat the
+10 	 9 	 N/N 	 1 	 threat competitive
+10 	 11 	 S[pss]\NP 	 1 	 threat posed <XB>
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 posed by
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 Express by
+14 	 13 	 N/N 	 1 	 Express Federal
+18 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 Service by
+18 	 16 	 N/N 	 1 	 Service United
+18 	 17 	 N/N 	 1 	 Service Parcel
+18 	 19 	 (NP\NP)/NP 	 1 	 Service of
+21 	 19 	 (NP\NP)/NP 	 2 	 Inc. of
+21 	 20 	 N/N 	 1 	 Inc. America
+26 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 companies by
+26 	 23 	 N/N 	 1 	 companies other
+26 	 24 	 N/N 	 1 	 companies fast-growing
+26 	 25 	 N/N 	 1 	 companies air-freight
+<\s>
+<s id="wsj_1850.7"> 22
+1 	 0 	 N/N 	 1 	 airlines Many
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 airlines are
+1 	 3 	 (S[ng]\NP)/PP 	 1 	 airlines talking <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 talking are
+4 	 3 	 (S[ng]\NP)/PP 	 2 	 about talking
+6 	 4 	 PP/NP 	 1 	 ventures about
+6 	 5 	 N/N 	 1 	 ventures cargo
+9 	 10 	 (S[dcl]\NP[thr])/(S[pt]\NP) 	 1 	 there have
+11 	 10 	 (S[dcl]\NP[thr])/(S[pt]\NP) 	 2 	 been have
+12 	 11 	 (S[pt]\NP)/NP 	 2 	 rumors been
+12 	 13 	 (NP\NP)/NP 	 1 	 rumors about
+16 	 13 	 (NP\NP)/NP 	 2 	 tie about
+16 	 14 	 NP/NP 	 1 	 tie such
+16 	 15 	 NP[nb]/N 	 1 	 tie a
+16 	 17 	 (NP\NP)/NP 	 1 	 tie between
+18 	 17 	 (NP\NP)/NP 	 2 	 JAL between
+21 	 17 	 (NP\NP)/NP 	 2 	 airlines between
+21 	 20 	 N/N 	 1 	 airlines European
+<\s>
+<s id="wsj_1850.8"> 17
+1 	 0 	 (S/S)/NP 	 2 	 Tokyo In
+5 	 3 	 NP[nb]/N 	 1 	 spokesman a
+5 	 4 	 N/N 	 1 	 spokesman JAL
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+6 	 0 	 (S/S)/NP 	 1 	 said In
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he could
+7 	 10 	 (S[b]\NP)/NP 	 1 	 he confirm <XB>
+7 	 12 	 (S[b]\NP)/NP 	 1 	 he deny <XU>
+8 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 could said
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 could n't
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 confirm could
+12 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 deny could
+16 	 10 	 (S[b]\NP)/NP 	 2 	 report confirm <XU>
+16 	 12 	 (S[b]\NP)/NP 	 2 	 report deny
+16 	 13 	 NP[nb]/N 	 1 	 report the
+16 	 14 	 N/N 	 1 	 report latest
+16 	 15 	 N/N 	 1 	 report Japanese
+<\s>
+<s id="wsj_1850.9"> 17
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 he said
+2 	 0 	 S/S 	 1 	 said But
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 JAL is
+3 	 5 	 (S[ng]\NP)/PP 	 1 	 JAL talking <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 talking is
+5 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 talking about
+6 	 5 	 (S[ng]\NP)/PP 	 2 	 to talking
+7 	 6 	 PP/NP 	 1 	 Lufthansa to
+10 	 6 	 PP/NP 	 1 	 France to
+10 	 9 	 N/N 	 1 	 France Air
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 sort about
+13 	 12 	 NP[nb]/N 	 1 	 sort some
+13 	 14 	 (NP\NP)/NP 	 1 	 sort of
+16 	 14 	 (NP\NP)/NP 	 2 	 venture of
+16 	 15 	 N/N 	 1 	 venture cargo
+<\s>
+<s id="wsj_1850.10"> 37
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It is
+1 	 36 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 one is
+3 	 2 	 N/N 	 1 	 one just
+3 	 4 	 (NP\NP)/NP 	 1 	 one of
+6 	 4 	 (NP\NP)/NP 	 2 	 number of
+6 	 5 	 NP[nb]/N 	 1 	 number a
+6 	 7 	 (NP\NP)/NP 	 1 	 number of
+8 	 7 	 (NP\NP)/NP 	 2 	 strategies of
+8 	 12 	 PP/NP 	 1 	 strategies upon <XU>
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 JAL has
+9 	 11 	 (S[pt]\NP)/PP 	 1 	 JAL embarked <XB>
+9 	 14 	 ((S[b]\NP)/PP)/PP 	 1 	 JAL come <XB>
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 embarked has
+12 	 11 	 (S[pt]\NP)/PP 	 2 	 upon embarked
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 come to
+15 	 14 	 ((S[b]\NP)/PP)/PP 	 3 	 to come
+16 	 15 	 PP/NP 	 1 	 terms to
+17 	 14 	 ((S[b]\NP)/PP)/PP 	 2 	 with come
+19 	 17 	 PP/NP 	 1 	 situation with
+19 	 18 	 NP[nb]/N 	 1 	 situation the
+19 	 20 	 (NP\NP)/NP 	 1 	 situation in
+19 	 22 	 (NP\NP)/NP 	 1 	 situation after
+21 	 20 	 (NP\NP)/NP 	 2 	 Europe in
+23 	 22 	 (NP\NP)/NP 	 2 	 1992 after
+26 	 22 	 (NP\NP)/NP 	 2 	 deadline after
+26 	 25 	 NP[nb]/N 	 1 	 deadline the
+26 	 27 	 (NP\NP)/(S[ng]\NP) 	 1 	 deadline for
+28 	 27 	 (NP\NP)/(S[ng]\NP) 	 2 	 ending for
+30 	 28 	 (S[ng]\NP)/NP 	 2 	 barriers ending
+30 	 29 	 N/N 	 1 	 barriers trade
+30 	 31 	 (NP\NP)/NP 	 1 	 barriers in
+33 	 31 	 (NP\NP)/NP 	 2 	 EC in
+33 	 32 	 NP[nb]/N 	 1 	 EC the
+35 	 36 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_1850.11"> 16
+1 	 0 	 (S/S)/NP 	 2 	 Frankfurt In
+5 	 3 	 NP[nb]/N 	 1 	 spokesman a
+5 	 4 	 N/N 	 1 	 spokesman Lufthansa
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman confirmed
+5 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 spokesman declined <XU>
+5 	 15 	 S[b]\NP 	 1 	 spokesman comment <XU>
+6 	 0 	 (S/S)/NP 	 1 	 confirmed In
+7 	 8 	 (S[dcl]\NP)/PP 	 1 	 talks are
+8 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 are confirmed
+9 	 8 	 (S[dcl]\NP)/PP 	 2 	 under are
+10 	 9 	 PP/NP 	 1 	 way under
+13 	 0 	 (S/S)/NP 	 1 	 declined In
+14 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+<\s>
+<s id="wsj_1850.12"> 23
+2 	 0 	 NP[nb]/N 	 1 	 spokeswoman A
+2 	 1 	 N/N 	 1 	 spokeswoman Lufthansa
+2 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokeswoman said
+4 	 3 	 ((S\NP)/(S\NP))/NP 	 3 	 Tokyo in
+5 	 3 	 ((S\NP)/(S\NP))/NP 	 2 	 said in
+7 	 6 	 NP[nb]/N 	 1 	 head the
+7 	 8 	 (NP\NP)/NP 	 1 	 head of
+7 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 head had
+7 	 14 	 (S[pt]\NP)/PP 	 1 	 head been <XB>
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Lufthansa 's
+12 	 8 	 (NP\NP)/NP 	 2 	 operations of
+12 	 10 	 (NP[nb]/N)\NP 	 1 	 operations 's
+12 	 11 	 N/N 	 1 	 operations cargo
+13 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+14 	 18 	 (S\NP)\(S\NP) 	 2 	 been week
+14 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 been for
+15 	 14 	 (S[pt]\NP)/PP 	 2 	 in been
+16 	 15 	 PP/NP 	 1 	 Toyko in
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week last
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 talks for
+20 	 21 	 (NP\NP)/NP 	 1 	 talks with
+22 	 21 	 (NP\NP)/NP 	 2 	 JAL with
+<\s>
+<s id="wsj_1850.13"> 8
+1 	 0 	 (S/S)/NP 	 2 	 Paris In
+4 	 3 	 N/N 	 1 	 France Air
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 France declined
+4 	 7 	 S[b]\NP 	 1 	 France comment <XB>
+5 	 0 	 (S/S)/NP 	 1 	 declined In
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+<\s>
+<s id="wsj_1850.14"> 15
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Nothing is
+0 	 2 	 S[pss]\NP 	 1 	 Nothing defined <XB>
+0 	 4 	 S[pss]\NP 	 1 	 Nothing signed <XU>
+1 	 11 	 ((S[dcl]\S[dcl])\NP)/PP 	 1 	 is said
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 defined is
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 defined at
+4 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 signed is
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 signed at
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 point at
+7 	 6 	 NP[nb]/N 	 1 	 point this
+10 	 9 	 N/N 	 1 	 Daly Mr.
+10 	 11 	 ((S[dcl]\S[dcl])\NP)/PP 	 2 	 Daly said
+12 	 11 	 ((S[dcl]\S[dcl])\NP)/PP 	 3 	 of said
+14 	 12 	 PP/NP 	 1 	 talks of
+14 	 13 	 NP[nb]/N 	 1 	 talks the
+<\s>
+<s id="wsj_1850.15"> 19
+1 	 0 	 ((S/S)/(S[dcl]/NP))/N 	 3 	 accord Whatever
+1 	 5 	 (S[dcl]\NP)/NP 	 2 	 accord reach <XU>
+4 	 2 	 NP[nb]/N 	 1 	 carriers the
+4 	 3 	 N/N 	 1 	 carriers three
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 carriers reach
+5 	 0 	 ((S/S)/(S[dcl]/NP))/N 	 2 	 reach Whatever
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 he said
+10 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 he is
+10 	 12 	 (S[adj]\NP)/S[dcl] 	 1 	 he skeptical <XB>
+11 	 0 	 ((S/S)/(S[dcl]/NP))/N 	 1 	 is Whatever
+11 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said <XU>
+12 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 skeptical is
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+13 	 15 	 (S[b]\NP)/NP 	 1 	 it create <XB>
+14 	 12 	 (S[adj]\NP)/S[dcl] 	 2 	 would skeptical
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 create would
+18 	 15 	 (S[b]\NP)/NP 	 2 	 airline create
+18 	 16 	 NP[nb]/N 	 1 	 airline a
+18 	 17 	 N/N 	 1 	 airline separate
+<\s>
+<s id="wsj_1850.16"> 14
+3 	 1 	 NP[nb]/N 	 1 	 companies the
+3 	 2 	 N/N 	 1 	 companies three
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 companies pool
+4 	 0 	 (S/S)/S[dcl] 	 2 	 pool If
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 businesses pool
+7 	 5 	 NP[nb]/N 	 1 	 businesses their
+7 	 6 	 N/N 	 1 	 businesses air-freight
+10 	 9 	 NP[nb]/N 	 1 	 clout their
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 clout would
+10 	 13 	 S[adj]\NP 	 1 	 clout considerable <XB>
+11 	 0 	 (S/S)/S[dcl] 	 1 	 would If
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+13 	 12 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 considerable be
+<\s>
+<s id="wsj_1850.17"> 21
+1 	 0 	 (S/S)/PP 	 2 	 to According
+2 	 1 	 PP/NP 	 1 	 figures to
+2 	 3 	 (NP\NP)/NP 	 1 	 figures from
+8 	 3 	 (NP\NP)/NP 	 2 	 Association from
+8 	 4 	 NP[nb]/N 	 1 	 Association the
+8 	 5 	 N/N 	 1 	 Association International
+8 	 6 	 N/N 	 1 	 Association Air
+8 	 7 	 N/N 	 1 	 Association Transport
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 they carried
+11 	 0 	 (S/S)/PP 	 1 	 carried According
+11 	 20 	 (S\NP)\(S\NP) 	 2 	 carried year
+15 	 14 	 (N/N)/(N/N) 	 2 	 million 1.8
+16 	 11 	 (S[dcl]\NP)/NP 	 2 	 tons carried
+16 	 12 	 NP[nb]/N 	 1 	 tons a
+16 	 13 	 N/N 	 1 	 tons combined
+16 	 15 	 N/N 	 1 	 tons million
+16 	 17 	 (NP\NP)/NP 	 1 	 tons of
+18 	 17 	 (NP\NP)/NP 	 2 	 freight of
+20 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year last
+<\s>
+<s id="wsj_1850.18"> 16
+1 	 0 	 N/N 	 1 	 Express Federal
+1 	 10 	 (S[dcl]\NP)/NP 	 1 	 Express carried
+4 	 3 	 N/N 	 1 	 Tiger Flying
+4 	 10 	 (S[dcl]\NP)/NP 	 1 	 Tiger carried
+8 	 6 	 ((S\NP)/(S\NP))/NP 	 3 	 companies as
+8 	 7 	 N/N 	 1 	 companies separate
+10 	 6 	 ((S\NP)/(S\NP))/NP 	 2 	 carried as
+14 	 13 	 (N/N)/(N/N) 	 2 	 million 2.6
+15 	 10 	 (S[dcl]\NP)/NP 	 2 	 tons carried
+15 	 11 	 NP[nb]/N 	 1 	 tons a
+15 	 12 	 N/N 	 1 	 tons combined
+15 	 14 	 N/N 	 1 	 tons million
+<\s>
+<s id="wsj_1850.19"> 15
+1 	 0 	 N/N 	 1 	 France Air
+1 	 6 	 (S[dcl]\NP)/NP 	 1 	 France concluded
+3 	 6 	 (S[dcl]\NP)/NP 	 1 	 Lufthansa concluded
+5 	 4 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 month last
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 concluded month
+10 	 6 	 (S[dcl]\NP)/NP 	 2 	 accord concluded
+10 	 7 	 NP[nb]/N 	 1 	 accord a
+10 	 8 	 N/N 	 1 	 accord far-reaching
+10 	 9 	 N/N 	 1 	 accord cooperation
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 accord that
+10 	 12 	 (S[dcl]\NP)/NP 	 1 	 accord includes <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 includes that
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 activities includes
+14 	 13 	 N/N 	 1 	 activities air-freight
+<\s>
+<s id="wsj_1850.20"> 17
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 They plan
+0 	 3 	 (S[b]\NP)/NP 	 1 	 They increase <XB>
+0 	 9 	 (S[b]\NP)/NP 	 1 	 They create <XU>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plan
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 increase to
+4 	 3 	 (S[b]\NP)/NP 	 2 	 cooperation increase
+4 	 5 	 (NP\NP)/NP 	 1 	 cooperation in
+7 	 5 	 (NP\NP)/NP 	 2 	 ground-handling in
+7 	 6 	 N/N 	 1 	 ground-handling freight
+9 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 create to
+13 	 9 	 (S[b]\NP)/NP 	 2 	 system create
+13 	 10 	 NP[nb]/N 	 1 	 system a
+13 	 11 	 N/N 	 1 	 system world-wide
+13 	 12 	 N/N 	 1 	 system computer
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 process to
+16 	 15 	 (S[b]\NP)/NP 	 2 	 cargo process
+<\s>
+<s id="wsj_1850.21"> 20
+1 	 0 	 N/N 	 1 	 airlines Other
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 airlines would
+1 	 3 	 (S[b]\NP)/NP 	 1 	 airlines have <XB>
+2 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said <XU>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+4 	 3 	 (S[b]\NP)/NP 	 2 	 access have
+4 	 5 	 (NP\NP)/NP 	 1 	 access to
+7 	 5 	 (NP\NP)/NP 	 2 	 system to
+7 	 6 	 NP[nb]/N 	 1 	 system the
+9 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 they said
+13 	 14 	 (NP\NP)/NP 	 1 	 negotiations with
+13 	 16 	 (S[dcl]\NP)/PP 	 1 	 negotiations were
+15 	 14 	 (NP\NP)/NP 	 2 	 partners with
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 were already
+18 	 16 	 (S[dcl]\NP)/PP 	 2 	 under were
+19 	 18 	 PP/NP 	 1 	 way under
+<\s>
+<s id="wsj_1850.22"> 25
+2 	 0 	 NP[nb]/N 	 1 	 airlines Both
+2 	 1 	 N/N 	 1 	 airlines European
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 airlines operate
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 fleets operate
+5 	 4 	 N/N 	 1 	 fleets extensive
+5 	 6 	 (NP\NP)/NP 	 1 	 fleets of
+9 	 6 	 (NP\NP)/NP 	 2 	 freighters of
+9 	 7 	 N/N 	 1 	 freighters Boeing
+9 	 8 	 N/N 	 1 	 freighters 747
+12 	 6 	 (NP\NP)/NP 	 2 	 Combis of
+12 	 11 	 N/N 	 1 	 Combis 747
+14 	 6 	 (NP\NP)/NP 	 2 	 aircraft of
+14 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 aircraft that
+14 	 16 	 (S[dcl]\NP)/NP 	 1 	 aircraft carry <XB>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 carry that
+16 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 carry on
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 freight carry
+18 	 17 	 NP[nb]/N 	 1 	 freight both
+20 	 16 	 (S[dcl]\NP)/NP 	 2 	 passengers carry
+20 	 17 	 NP[nb]/N 	 1 	 passengers both
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 deck on
+24 	 22 	 NP[nb]/N 	 1 	 deck the
+24 	 23 	 N/N 	 1 	 deck main
+<\s>
+<s id="wsj_1850.23"> 8
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 They have
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 have currently
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 orders have
+4 	 3 	 N/N 	 1 	 orders large
+4 	 5 	 (NP\NP)/NP 	 1 	 orders for
+7 	 5 	 (NP\NP)/NP 	 2 	 planes for
+7 	 6 	 N/N 	 1 	 planes cargo
+<\s>
+<s id="wsj_1850.24"> 33
+1 	 0 	 N/N 	 1 	 airlines Several
+1 	 3 	 (NP\NP)/NP 	 1 	 airlines including
+1 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 airlines are
+1 	 13 	 (S[ng]\NP)/PP 	 1 	 airlines working <XB>
+1 	 21 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 airlines are <XU>
+1 	 22 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 airlines trying <XU>
+1 	 24 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 airlines attract <XU>
+4 	 3 	 (NP\NP)/NP 	 2 	 Lufthansa including
+6 	 3 	 (NP\NP)/NP 	 2 	 JAL including
+10 	 3 	 (NP\NP)/NP 	 2 	 Airways including
+10 	 8 	 N/N 	 1 	 Airways Cathay
+10 	 9 	 N/N 	 1 	 Airways Pacific
+12 	 32 	 (S[dcl]\S[dcl])\NP 	 1 	 are said
+13 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 working are
+14 	 13 	 (S[ng]\NP)/PP 	 2 	 on working
+19 	 14 	 PP/NP 	 1 	 system on
+19 	 15 	 NP[nb]/N 	 1 	 system a
+19 	 16 	 N/N 	 1 	 system so-called
+19 	 17 	 N/N 	 1 	 system global
+19 	 18 	 N/N 	 1 	 system cargo
+21 	 32 	 (S[dcl]\S[dcl])\NP 	 1 	 are said
+22 	 21 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trying are
+23 	 22 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 attract to
+26 	 24 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 carriers attract
+26 	 25 	 N/N 	 1 	 carriers other
+26 	 28 	 S[b]\NP 	 1 	 carriers join <XB>
+27 	 24 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to attract
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 join to
+31 	 30 	 N/N 	 1 	 Daly Mr.
+31 	 32 	 (S[dcl]\S[dcl])\NP 	 2 	 Daly said
+<\s>
+<s id="wsj_1850.25"> 16
+0 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 JAL has
+0 	 3 	 (S[pt]\NP)/S[dcl] 	 1 	 JAL signaled <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 has also
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 signaled has
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+4 	 6 	 (S[ng]\NP)/PP 	 1 	 it looking <XB>
+5 	 3 	 (S[pt]\NP)/S[dcl] 	 2 	 is signaled
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 looking is
+7 	 6 	 (S[ng]\NP)/PP 	 2 	 for looking
+8 	 7 	 PP/NP 	 1 	 toeholds for
+8 	 9 	 (NP\NP)/NP 	 1 	 toeholds in
+8 	 11 	 (NP\NP)/NP 	 1 	 toeholds before
+10 	 9 	 (NP\NP)/NP 	 2 	 Europe in
+13 	 11 	 (NP\NP)/NP 	 2 	 end before
+13 	 12 	 NP[nb]/N 	 1 	 end the
+13 	 14 	 (NP\NP)/NP 	 1 	 end of
+15 	 14 	 (NP\NP)/NP 	 2 	 1992 of
+<\s>
+<s id="wsj_1850.26"> 28
+1 	 0 	 (S/S)/(S/S) 	 2 	 month Last
+4 	 3 	 NP[nb]/N 	 1 	 carrier the
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 carrier said
+5 	 1 	 S/S 	 1 	 said month
+6 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it wanted
+6 	 9 	 ((S[b]\NP)/PP)/NP 	 1 	 it lease <XB>
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 wanted said
+7 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 wanted so
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wanted
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lease to
+10 	 9 	 ((S[b]\NP)/PP)/NP 	 3 	 crews lease
+12 	 9 	 ((S[b]\NP)/PP)/NP 	 3 	 planes lease
+13 	 9 	 ((S[b]\NP)/PP)/NP 	 2 	 from lease
+15 	 13 	 PP/NP 	 1 	 Airways from
+15 	 14 	 N/N 	 1 	 Airways British
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it could
+17 	 19 	 (S[b]\NP)/NP 	 1 	 it funnel <XB>
+18 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 could so
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 funnel could
+19 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 funnel from
+19 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 funnel to
+21 	 19 	 (S[b]\NP)/NP 	 2 	 passengers funnel
+21 	 20 	 NP[nb]/N 	 1 	 passengers its
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 London from
+27 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 destinations to
+27 	 25 	 N/N 	 1 	 destinations other
+27 	 26 	 N/N 	 1 	 destinations European
+<\s>
+<s id="wsj_1850.27"> 11
+1 	 0 	 N/N 	 1 	 Airways British
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Airways said
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+3 	 6 	 (S[pt]\NP)/NP 	 1 	 it received <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 has n't
+6 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 received has
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 received from
+8 	 6 	 (S[pt]\NP)/NP 	 2 	 proposal received
+8 	 7 	 NP[nb]/N 	 1 	 proposal a
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 JAL from
+<\s>
+<s id="wsj_1850.28"> 30
+2 	 1 	 (S/S)/(S/S) 	 2 	 week last
+3 	 4 	 (S[dcl]\NP[thr])/NP 	 1 	 there were
+4 	 0 	 S/S 	 1 	 were But
+4 	 2 	 S/S 	 1 	 were week
+6 	 4 	 (S[dcl]\NP[thr])/NP 	 2 	 negotiations were
+6 	 5 	 N/N 	 1 	 negotiations air-traffic
+6 	 7 	 (NP\NP)/NP 	 1 	 negotiations between
+9 	 7 	 (NP\NP)/NP 	 2 	 U.K. between
+9 	 8 	 NP[nb]/N 	 1 	 U.K. the
+11 	 7 	 (NP\NP)/NP 	 2 	 Japan between
+16 	 4 	 (S[dcl]\NP[thr])/NP 	 2 	 step were
+16 	 13 	 NP[nb]/N 	 1 	 step a
+16 	 14 	 N/N 	 1 	 step likely
+16 	 15 	 N/N 	 1 	 step first
+16 	 17 	 (NP\NP)/NP 	 1 	 step to
+20 	 17 	 (NP\NP)/NP 	 2 	 agreement to
+20 	 18 	 NP[nb]/N 	 1 	 agreement any
+20 	 19 	 N/N 	 1 	 agreement commercial
+20 	 21 	 (NP\NP)/NP 	 1 	 agreement between
+22 	 21 	 (NP\NP)/NP 	 2 	 JAL between
+25 	 21 	 (NP\NP)/NP 	 2 	 Airways between
+25 	 24 	 N/N 	 1 	 Airways British
+29 	 21 	 (NP\NP)/NP 	 2 	 carrier between
+29 	 27 	 NP[nb]/N 	 1 	 carrier another
+29 	 28 	 N/N 	 1 	 carrier U.K.
+<\s>

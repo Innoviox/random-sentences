@@ -1,0 +1,87 @@
+<s id="wsj_2307.1"> 30
+1 	 0 	 N/N 	 1 	 Corp. Newport
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it expects
+3 	 6 	 (S[b]\NP)/NP 	 1 	 it report <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 earnings report
+8 	 7 	 N/N 	 1 	 earnings fiscal-first-quarter
+8 	 9 	 (NP\NP)/NP 	 1 	 earnings of
+12 	 9 	 (NP\NP)/NP 	 2 	 cents of
+12 	 10 	 N/N 	 1 	 cents between
+12 	 11 	 N/N 	 1 	 cents 15
+12 	 16 	 (NP\NP)/N 	 1 	 cents a
+12 	 20 	 (NP\NP)/NP 	 1 	 cents below
+15 	 9 	 (NP\NP)/NP 	 2 	 cents of
+15 	 10 	 N/N 	 1 	 cents between
+15 	 14 	 N/N 	 1 	 cents 19
+15 	 16 	 (NP\NP)/N 	 1 	 cents a
+15 	 20 	 (NP\NP)/NP 	 1 	 cents below
+17 	 16 	 (NP\NP)/N 	 2 	 share a
+20 	 19 	 (NP\NP)/(NP\NP) 	 2 	 below somewhat
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 analysts '
+23 	 20 	 (NP\NP)/NP 	 2 	 estimates below
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 estimates '
+23 	 24 	 (NP\NP)/NP 	 1 	 estimates of
+26 	 24 	 (NP\NP)/NP 	 2 	 cents of
+26 	 25 	 N/N 	 1 	 cents 19
+26 	 27 	 (NP\NP)/NP 	 1 	 cents to
+29 	 27 	 (NP\NP)/NP 	 2 	 cents to
+29 	 28 	 N/N 	 1 	 cents 23
+<\s>
+<s id="wsj_2307.2"> 16
+1 	 0 	 NP[nb]/N 	 1 	 maker The
+1 	 2 	 (NP\NP)/NP 	 1 	 maker of
+1 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 maker said
+4 	 2 	 (NP\NP)/NP 	 2 	 instruments of
+4 	 3 	 N/N 	 1 	 instruments scientific
+7 	 2 	 (NP\NP)/NP 	 2 	 parts of
+7 	 6 	 N/N 	 1 	 parts laser
+9 	 10 	 S[dcl]\NP 	 1 	 orders fell
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 fell said
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 fell below
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 fell in
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 expectations below
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 months in
+15 	 14 	 N/N 	 1 	 months recent
+<\s>
+<s id="wsj_2307.3"> 40
+1 	 0 	 NP[nb]/N 	 1 	 spokesman A
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 spokesman added
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that added
+4 	 5 	 (NP\NP)/NP 	 1 	 sales in
+4 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 sales will
+4 	 11 	 (S[b]\NP)/NP 	 1 	 sales equal <XB>
+8 	 5 	 (NP\NP)/NP 	 2 	 quarter in
+8 	 6 	 NP[nb]/N 	 1 	 quarter the
+8 	 7 	 N/N 	 1 	 quarter current
+9 	 3 	 S[em]/S[dcl] 	 1 	 will that
+11 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 equal will
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 equal about
+14 	 12 	 NP[nb]/N 	 1 	 quarter the
+14 	 13 	 N/N 	 1 	 quarter yearearlier
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 quarter 's
+16 	 11 	 (S[b]\NP)/NP 	 2 	 figure equal
+16 	 15 	 (NP[nb]/N)\NP 	 1 	 figure 's
+16 	 18 	 (NP\NP)/S[dcl] 	 1 	 figure when
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 Newport reported
+20 	 18 	 (NP\NP)/S[dcl] 	 2 	 reported when
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 income reported
+22 	 21 	 N/N 	 1 	 income net
+22 	 23 	 (NP\NP)/NP 	 1 	 income of
+22 	 34 	 (NP\NP)/NP 	 1 	 income on
+24 	 23 	 (NP\NP)/NP 	 2 	 $ of
+26 	 24 	 N/N[num] 	 1 	 million $
+26 	 25 	 N/N 	 1 	 million 1.7
+30 	 23 	 (NP\NP)/NP 	 2 	 cents of
+30 	 29 	 N/N 	 1 	 cents 21
+30 	 31 	 (NP\NP)/N 	 1 	 cents a
+32 	 31 	 (NP\NP)/N 	 2 	 share a
+35 	 34 	 (NP\NP)/NP 	 2 	 $ on
+35 	 38 	 (NP\NP)/NP 	 1 	 $ in
+37 	 35 	 N/N[num] 	 1 	 million $
+37 	 36 	 N/N 	 1 	 million 14.1
+39 	 38 	 (NP\NP)/NP 	 2 	 sales in
+<\s>

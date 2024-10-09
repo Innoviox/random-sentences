@@ -1,0 +1,83 @@
+<s id="wsj_1231.1"> 23
+3 	 1 	 (N/N)/(N/N) 	 2 	 N.Y. Brooklyn
+6 	 0 	 NP[nb]/N 	 1 	 maker This
+6 	 3 	 N/N 	 1 	 maker N.Y.
+6 	 5 	 N/N 	 1 	 maker generic-drug
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 maker announced
+10 	 9 	 (N/N)/(N/N) 	 2 	 % 5
+12 	 7 	 (S[dcl]\NP)/NP 	 2 	 dividend announced
+12 	 8 	 NP[nb]/N 	 1 	 dividend a
+12 	 10 	 N/N 	 1 	 dividend %
+12 	 11 	 N/N 	 1 	 dividend stock
+12 	 13 	 (S[adj]\NP)/NP 	 1 	 dividend payable <XB>
+13 	 17 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 payable to
+14 	 13 	 (S[adj]\NP)/NP 	 2 	 Dec. payable
+15 	 14 	 N/N[num] 	 1 	 15 Dec.
+18 	 17 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 holders to
+18 	 19 	 (NP\NP)/NP 	 1 	 holders of
+18 	 21 	 (NP\NP)/N[num] 	 1 	 holders Nov.
+20 	 19 	 (NP\NP)/NP 	 2 	 record of
+22 	 21 	 (NP\NP)/N[num] 	 2 	 15 Nov.
+<\s>
+<s id="wsj_1231.2"> 12
+1 	 0 	 (S/S)/PP 	 2 	 of As
+2 	 1 	 PP/NP 	 1 	 Sept. of
+3 	 2 	 N/N[num] 	 1 	 30 Sept.
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Halsey had
+6 	 0 	 (S/S)/PP 	 1 	 had As
+8 	 7 	 (N/N)/(N/N) 	 2 	 million 5.3
+10 	 6 	 (S[dcl]\NP)/NP 	 2 	 shares had
+10 	 8 	 N/N 	 1 	 shares million
+10 	 9 	 N/N 	 1 	 shares common
+10 	 11 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>
+<s id="wsj_1231.3"> 35
+1 	 0 	 N/N 	 1 	 Marcus Jay
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Marcus said
+3 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 president said
+7 	 6 	 NP[nb]/N 	 1 	 move the
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 move reflects
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 reflects said
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 confidence reflects
+10 	 9 	 NP[nb]/N 	 1 	 confidence the
+10 	 11 	 (NP\NP)/NP 	 1 	 confidence of
+10 	 16 	 (NP\NP)/NP 	 1 	 confidence in
+13 	 11 	 (NP\NP)/NP 	 2 	 board of
+13 	 12 	 NP[nb]/N 	 1 	 board our
+15 	 11 	 (NP\NP)/NP 	 2 	 management of
+15 	 12 	 NP[nb]/N 	 1 	 management our
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 Halsey 's
+20 	 16 	 (NP\NP)/NP 	 2 	 prospects in
+20 	 18 	 (NP[nb]/N)\NP 	 1 	 prospects 's
+20 	 19 	 N/N 	 1 	 prospects long-term
+23 	 8 	 (S[dcl]\NP)/NP 	 2 	 desire reflects
+23 	 22 	 NP[nb]/N 	 1 	 desire our
+23 	 25 	 ((S[b]\NP)/PP)/NP 	 1 	 desire provide <XB>
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provide to
+27 	 25 	 ((S[b]\NP)/PP)/NP 	 3 	 shareholders provide
+27 	 26 	 NP[nb]/N 	 1 	 shareholders our
+28 	 25 	 ((S[b]\NP)/PP)/NP 	 2 	 with provide
+31 	 28 	 PP/NP 	 1 	 return with
+31 	 29 	 NP[nb]/N 	 1 	 return an
+31 	 30 	 N/N 	 1 	 return attractive
+31 	 32 	 (NP\NP)/NP 	 1 	 return on
+34 	 32 	 (NP\NP)/NP 	 2 	 investment on
+34 	 33 	 NP[nb]/N 	 1 	 investment their
+<\s>
+<s id="wsj_1231.4"> 18
+5 	 0 	 (S/S)/NP 	 2 	 trading In
+5 	 1 	 N/N 	 1 	 trading American
+5 	 2 	 N/N 	 1 	 trading Stock
+5 	 3 	 N/N 	 1 	 trading Exchange
+5 	 4 	 N/N 	 1 	 trading composite
+7 	 8 	 (S[dcl]\NP)/PP 	 1 	 Halsey closed
+8 	 0 	 (S/S)/NP 	 1 	 closed In
+8 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+9 	 8 	 (S[dcl]\NP)/PP 	 2 	 at closed
+10 	 9 	 PP/NP 	 1 	 $ at
+10 	 12 	 (NP\NP)/N 	 1 	 $ a
+11 	 10 	 N/N[num] 	 1 	 5.8125 $
+13 	 12 	 (NP\NP)/N 	 2 	 share a
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 cents up
+17 	 16 	 N/N 	 1 	 cents 6.25
+<\s>

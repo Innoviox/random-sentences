@@ -1,0 +1,59 @@
+<s id="wsj_1959.1"> 22
+1 	 0 	 N/N 	 1 	 Corp. AVX
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+4 	 3 	 N/N 	 1 	 Corp. Unitrode
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 they completed
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 completed said
+10 	 9 	 (N/N)/(N/N) 	 2 	 reported previously
+11 	 7 	 (S[dcl]\NP)/NP 	 2 	 sale completed
+11 	 8 	 NP[nb]/N 	 1 	 sale the
+11 	 10 	 N/N 	 1 	 sale reported
+11 	 12 	 (NP\NP)/NP 	 1 	 sale of
+11 	 20 	 (NP\NP)/NP 	 1 	 sale to
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 Unitrode 's
+16 	 15 	 (N/N)/(N/N) 	 2 	 Diego-based San
+19 	 12 	 (NP\NP)/NP 	 2 	 division of
+19 	 14 	 (NP[nb]/N)\NP 	 1 	 division 's
+19 	 16 	 N/N 	 1 	 division Diego-based
+19 	 17 	 N/N 	 1 	 division Passive
+19 	 18 	 N/N 	 1 	 division Components
+21 	 20 	 (NP\NP)/NP 	 2 	 AVX to
+<\s>
+<s id="wsj_1959.2"> 26
+0 	 11 	 ((S[dcl]\NP)/PP)/NP 	 1 	 AVX paid
+4 	 3 	 (N/N)/(N/N) 	 2 	 York-based New
+5 	 2 	 NP[nb]/N 	 1 	 maker a
+5 	 4 	 N/N 	 1 	 maker York-based
+5 	 6 	 (NP\NP)/NP 	 1 	 maker of
+5 	 11 	 ((S[dcl]\NP)/PP)/NP 	 1 	 maker paid
+9 	 6 	 (NP\NP)/NP 	 2 	 products of
+9 	 7 	 N/N 	 1 	 products passive
+9 	 8 	 N/N 	 1 	 products electronic
+12 	 11 	 ((S[dcl]\NP)/PP)/NP 	 3 	 $ paid
+12 	 15 	 (NP\NP)/NP 	 1 	 $ in
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 11
+16 	 15 	 (NP\NP)/NP 	 2 	 cash in
+17 	 11 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to paid
+18 	 17 	 PP/NP 	 1 	 Unitrode to
+22 	 17 	 PP/NP 	 1 	 maker to
+22 	 20 	 NP[nb]/N 	 1 	 maker a
+22 	 21 	 N/N 	 1 	 maker Lexington-based
+22 	 23 	 (NP\NP)/NP 	 1 	 maker of
+25 	 23 	 (NP\NP)/NP 	 2 	 products of
+25 	 24 	 N/N 	 1 	 products semiconductor
+<\s>
+<s id="wsj_1959.3"> 10
+1 	 0 	 N/N 	 1 	 Components Passive
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Components makes
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 capacitors makes
+3 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 capacitors used <XB>
+3 	 8 	 (S[b]\NP)/NP 	 1 	 capacitors protect <XB>
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 filters makes
+5 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 filters used <XB>
+5 	 8 	 (S[b]\NP)/NP 	 1 	 filters protect <XB>
+7 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 protect to
+9 	 8 	 (S[b]\NP)/NP 	 2 	 electronics protect
+<\s>

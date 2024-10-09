@@ -1,0 +1,118 @@
+<s id="wsj_0907.1"> 24
+2 	 0 	 N/N 	 1 	 Co. Chandler
+2 	 1 	 N/N 	 1 	 Co. Insurance
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it expects
+4 	 7 	 (S[b]\NP)/S[dcl] 	 1 	 it report <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+10 	 8 	 N/N 	 1 	 income third-quarter
+10 	 9 	 N/N 	 1 	 income net
+10 	 11 	 S[dcl]\NP 	 1 	 income jumped
+11 	 7 	 (S[b]\NP)/S[dcl] 	 2 	 jumped report
+11 	 13 	 (S\NP)\(S\NP) 	 2 	 jumped %
+11 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 jumped to
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 97
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 2.8
+21 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+21 	 20 	 N/N 	 1 	 cents 51
+21 	 22 	 (NP\NP)/N 	 1 	 cents a
+23 	 22 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0907.2"> 33
+3 	 0 	 (S/S)/NP 	 2 	 quarter In
+3 	 1 	 NP[nb]/N 	 1 	 quarter the
+3 	 2 	 N/N 	 1 	 quarter year-earlier
+6 	 5 	 NP[nb]/N 	 1 	 automobile the
+6 	 10 	 (S[dcl]\NP)/NP 	 1 	 automobile had
+9 	 5 	 NP[nb]/N 	 1 	 insurer the
+9 	 8 	 N/N 	 1 	 insurer trucking
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 insurer had
+10 	 0 	 (S/S)/NP 	 1 	 had In
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 earnings had
+11 	 12 	 (NP\NP)/NP 	 1 	 earnings of
+11 	 22 	 (NP\NP)/NP 	 1 	 earnings on
+11 	 27 	 (NP\NP)/NP 	 1 	 earnings on
+13 	 12 	 (NP\NP)/NP 	 2 	 $ of
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 1.4
+19 	 12 	 (NP\NP)/NP 	 2 	 cents of
+19 	 18 	 N/N 	 1 	 cents 48
+19 	 20 	 (NP\NP)/N 	 1 	 cents a
+21 	 20 	 (NP\NP)/N 	 2 	 share a
+25 	 22 	 (NP\NP)/NP 	 2 	 basis on
+25 	 23 	 NP[nb]/N 	 1 	 basis a
+25 	 24 	 N/N 	 1 	 basis restated
+28 	 27 	 (NP\NP)/NP 	 2 	 revenue on
+28 	 29 	 (NP\NP)/NP 	 1 	 revenue of
+30 	 29 	 (NP\NP)/NP 	 2 	 $ of
+32 	 30 	 N/N[num] 	 1 	 million $
+32 	 31 	 N/N 	 1 	 million 16.5
+<\s>
+<s id="wsj_0907.3"> 28
+2 	 0 	 (S/S)/NP 	 2 	 interview In
+2 	 1 	 NP[nb]/N 	 1 	 interview an
+6 	 4 	 N/N 	 1 	 LeGere W.
+6 	 5 	 N/N 	 1 	 LeGere Brent
+6 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 LeGere said
+8 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 chairman said
+12 	 10 	 N/N 	 1 	 officer chief
+12 	 11 	 N/N 	 1 	 officer executive
+12 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 officer said
+14 	 0 	 (S/S)/NP 	 1 	 said In
+15 	 16 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 he expects
+16 	 14 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+17 	 16 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 revenue expects
+17 	 18 	 (NP\NP)/NP 	 1 	 revenue in
+17 	 23 	 (S[b]\NP)/NP 	 1 	 revenue total <XB>
+21 	 18 	 (NP\NP)/NP 	 2 	 quarter in
+21 	 19 	 NP[nb]/N 	 1 	 quarter the
+21 	 20 	 N/N 	 1 	 quarter latest
+22 	 16 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 total to
+25 	 23 	 (S[b]\NP)/NP 	 2 	 $ total
+25 	 24 	 N/N 	 1 	 $ about
+27 	 25 	 N/N[num] 	 1 	 million $
+27 	 26 	 N/N 	 1 	 million 28
+<\s>
+<s id="wsj_0907.4"> 12
+2 	 0 	 NP[nb]/N 	 1 	 figures The
+2 	 1 	 N/N 	 1 	 figures earnings-per-share
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 figures reflect
+6 	 5 	 (N/N)/(N/N) 	 2 	 % 25
+8 	 3 	 (S[dcl]\NP)/NP 	 2 	 dividend reflect
+8 	 4 	 NP[nb]/N 	 1 	 dividend a
+8 	 6 	 N/N 	 1 	 dividend %
+8 	 7 	 N/N 	 1 	 dividend stock
+8 	 9 	 (NP\NP)/NP 	 1 	 dividend in
+10 	 9 	 (NP\NP)/NP 	 2 	 June in
+10 	 11 	 N\N 	 1 	 June 1989
+<\s>
+<s id="wsj_0907.5"> 24
+1 	 0 	 N/N 	 1 	 LeGere Mr.
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 LeGere attributed
+5 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 increase attributed
+5 	 3 	 NP[nb]/N 	 1 	 increase the
+5 	 4 	 N/N 	 1 	 increase earnings
+6 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to attributed
+7 	 6 	 PP/NP 	 1 	 growth to
+7 	 8 	 (NP\NP)/NP 	 1 	 growth in
+10 	 9 	 NP[nb]/N 	 1 	 company the
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 company 's
+15 	 8 	 (NP\NP)/NP 	 2 	 lines in
+15 	 11 	 (NP[nb]/N)\NP 	 1 	 lines 's
+15 	 12 	 N/N 	 1 	 lines longhaul
+15 	 13 	 N/N 	 1 	 lines trucking
+15 	 14 	 N/N 	 1 	 lines insurance
+18 	 6 	 PP/NP 	 1 	 ability to
+18 	 17 	 NP[nb]/N 	 1 	 ability the
+18 	 20 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 ability keep <XB>
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 keep to
+22 	 20 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 rates keep
+22 	 21 	 N/N 	 1 	 rates premium
+22 	 23 	 S[adj]\NP 	 1 	 rates firm <XB>
+23 	 20 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 firm keep
+<\s>

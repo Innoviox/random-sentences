@@ -1,0 +1,70 @@
+<s id="wsj_0995.1"> 24
+4 	 0 	 N/N 	 1 	 directors NORTH
+4 	 1 	 N/N 	 1 	 directors SIDE
+4 	 2 	 N/N 	 1 	 directors SAVINGS
+4 	 3 	 N/N 	 1 	 directors BANK
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 directors declared
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 dividend declared
+8 	 6 	 NP[nb]/N 	 1 	 dividend an
+8 	 7 	 N/N 	 1 	 dividend initial
+8 	 9 	 (NP\NP)/NP 	 1 	 dividend of
+8 	 15 	 (S[adj]\NP)/NP 	 1 	 dividend payable <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 cents of
+11 	 10 	 N/N 	 1 	 cents 10
+11 	 12 	 (NP\NP)/N 	 1 	 cents a
+13 	 12 	 (NP\NP)/N 	 2 	 share a
+15 	 18 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 payable to
+16 	 15 	 (S[adj]\NP)/NP 	 2 	 Dec. payable
+17 	 16 	 N/N[num] 	 1 	 5 Dec.
+19 	 18 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 stock to
+19 	 20 	 (NP\NP)/NP 	 1 	 stock of
+19 	 22 	 (NP\NP)/N[num] 	 1 	 stock Nov.
+21 	 20 	 (NP\NP)/NP 	 2 	 record of
+23 	 22 	 (NP\NP)/N[num] 	 2 	 21 Nov.
+<\s>
+<s id="wsj_0995.2"> 19
+4 	 1 	 (N/N)/(N/N) 	 2 	 N.Y. Floral
+4 	 2 	 (N/N)/(N/N) 	 2 	 N.Y. Park
+6 	 0 	 NP[nb]/N 	 1 	 thrift The
+6 	 4 	 N/N 	 1 	 thrift N.Y.
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 thrift has
+7 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 has said
+11 	 7 	 (S[dcl]\NP)/NP 	 2 	 ratio has
+11 	 8 	 NP[nb]/N 	 1 	 ratio a
+11 	 9 	 N/N 	 1 	 ratio strong
+11 	 10 	 N/N 	 1 	 ratio capital-to-assets
+18 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 Confer said
+18 	 14 	 N/N 	 1 	 Confer Vice
+18 	 15 	 N/N 	 1 	 Confer President
+18 	 16 	 N/N 	 1 	 Confer Michael
+18 	 17 	 N/N 	 1 	 Confer D.N.
+<\s>
+<s id="wsj_0995.3"> 30
+1 	 0 	 (S/S)/NP 	 2 	 Sept. At
+2 	 1 	 N/N[num] 	 1 	 30 Sept.
+5 	 4 	 NP[nb]/N 	 1 	 thrift the
+5 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 thrift which
+5 	 8 	 ((S[dcl]\NP)/PP)/PP 	 1 	 thrift converted <XB>
+5 	 23 	 (S[dcl]\NP)/NP 	 1 	 thrift had
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 converted which
+8 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 converted in
+9 	 8 	 ((S[dcl]\NP)/PP)/PP 	 3 	 to converted
+12 	 9 	 PP/NP 	 1 	 form to
+12 	 10 	 NP[nb]/N 	 1 	 form a
+12 	 11 	 N/N 	 1 	 form stock
+12 	 13 	 (NP\NP)/NP 	 1 	 form of
+14 	 13 	 (NP\NP)/NP 	 2 	 ownership of
+15 	 8 	 ((S[dcl]\NP)/PP)/PP 	 2 	 from converted
+18 	 15 	 PP/NP 	 1 	 form from
+18 	 16 	 NP[nb]/N 	 1 	 form a
+18 	 17 	 N/N 	 1 	 form mutual
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 April in
+20 	 21 	 N\N 	 1 	 April 1986
+23 	 0 	 (S/S)/NP 	 1 	 had At
+24 	 25 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+27 	 25 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 million than
+27 	 26 	 (N/N)/(N/N) 	 2 	 million four
+28 	 23 	 (S[dcl]\NP)/NP 	 2 	 shares had
+28 	 27 	 N/N 	 1 	 shares million
+28 	 29 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>

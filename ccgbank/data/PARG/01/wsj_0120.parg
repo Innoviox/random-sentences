@@ -1,0 +1,930 @@
+<s id="wsj_0120.1"> 9
+2 	 0 	 N/N 	 1 	 ISSUES FALL
+2 	 1 	 N/N 	 1 	 ISSUES BALLOT
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 ISSUES set
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 record set
+5 	 4 	 NP[nb]/N 	 1 	 record a
+5 	 6 	 (NP\NP)/NP 	 1 	 record for
+8 	 6 	 (NP\NP)/NP 	 2 	 elections for
+8 	 7 	 N/N 	 1 	 elections off-year
+<\s>
+<s id="wsj_0120.2"> 7
+1 	 0 	 N/N 	 1 	 elections Odd-year
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 elections attract
+4 	 3 	 (N/N)/(N/N) 	 2 	 few relatively
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 issues attract
+6 	 4 	 N/N 	 1 	 issues few
+6 	 5 	 N/N 	 1 	 issues ballot
+<\s>
+<s id="wsj_0120.3"> 37
+4 	 1 	 NP[nb]/N 	 1 	 total the
+4 	 2 	 N/N 	 1 	 total 1989
+4 	 3 	 N/N 	 1 	 total fall
+4 	 5 	 (NP\NP)/NP 	 1 	 total of
+4 	 14 	 (S[dcl]\NP)/NP 	 1 	 total shows
+6 	 5 	 (NP\NP)/NP 	 2 	 80 of
+10 	 8 	 ((S\NP)/(S\NP))/PP 	 3 	 below while
+10 	 9 	 PP/PP 	 1 	 below well
+12 	 10 	 PP/NP 	 1 	 activity below
+12 	 11 	 N/N 	 1 	 activity 1988
+14 	 0 	 S/S 	 1 	 shows But
+14 	 8 	 ((S\NP)/(S\NP))/PP 	 2 	 shows while
+14 	 25 	 (S[dcl]\S[dcl])/NP 	 1 	 shows says
+17 	 14 	 (S[dcl]\NP)/NP 	 2 	 ratcheting shows
+17 	 15 	 NP[nb]/N 	 1 	 ratcheting a
+17 	 16 	 N/N 	 1 	 ratcheting steady
+17 	 18 	 NP\NP 	 1 	 ratcheting up
+17 	 19 	 (NP\NP)/NP 	 1 	 ratcheting in
+21 	 19 	 (NP\NP)/NP 	 2 	 referenda in
+21 	 20 	 N/N 	 1 	 referenda citizen
+23 	 19 	 (NP\NP)/NP 	 2 	 initiatives in
+23 	 20 	 N/N 	 1 	 initiatives citizen
+27 	 25 	 (S[dcl]\S[dcl])/NP 	 2 	 McGuigan says
+27 	 26 	 N/N 	 1 	 McGuigan Patrick
+29 	 25 	 (S[dcl]\S[dcl])/NP 	 2 	 editor says
+29 	 30 	 (NP\NP)/NP 	 1 	 editor of
+33 	 30 	 (NP\NP)/NP 	 2 	 Law of
+33 	 31 	 N/N 	 1 	 Law Family
+36 	 30 	 (NP\NP)/NP 	 2 	 Report of
+36 	 31 	 N/N 	 1 	 Report Family
+36 	 35 	 N/N 	 1 	 Report Democracy
+<\s>
+<s id="wsj_0120.4"> 19
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He says
+5 	 2 	 NP[nb]/N 	 1 	 issues the
+5 	 3 	 N/N 	 1 	 issues 10
+5 	 4 	 N/N 	 1 	 issues citizen-sparked
+5 	 6 	 (NP\NP)/NP 	 1 	 issues on
+5 	 9 	 (NP\NP)/N 	 1 	 issues this
+5 	 11 	 (S[dcl]\NP)/NP 	 1 	 issues represent
+8 	 6 	 (NP\NP)/NP 	 2 	 ballots on
+8 	 7 	 N/N 	 1 	 ballots state
+10 	 9 	 (NP\NP)/N 	 2 	 fall this
+11 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 represent says
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 most represent
+13 	 12 	 NP[nb]/N 	 1 	 most the
+13 	 14 	 (NP\NP)/NP 	 1 	 most in
+16 	 14 	 (NP\NP)/NP 	 2 	 odd-year in
+16 	 15 	 NP[nb]/N 	 1 	 odd-year any
+16 	 17 	 (NP\NP)/N 	 1 	 odd-year this
+18 	 17 	 (NP\NP)/N 	 2 	 decade this
+<\s>
+<s id="wsj_0120.5"> 21
+1 	 0 	 N/N 	 1 	 questions Ballot
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 questions range
+6 	 3 	 (PP/PP)/NP 	 2 	 initiative from
+6 	 4 	 NP[nb]/N 	 1 	 initiative a
+6 	 5 	 N/N 	 1 	 initiative Maine
+6 	 7 	 (NP\NP)/(S[ng]\NP) 	 1 	 initiative on
+8 	 7 	 (NP\NP)/(S[ng]\NP) 	 2 	 banning on
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 missiles banning
+10 	 9 	 N/N 	 1 	 missiles Cruise
+11 	 2 	 (S[dcl]\NP)/PP 	 2 	 to range
+11 	 3 	 (PP/PP)/NP 	 1 	 to from
+13 	 11 	 PP/NP 	 1 	 referendum to
+13 	 12 	 NP[nb]/N 	 1 	 referendum a
+13 	 14 	 (NP\NP)/(S[ng]\NP) 	 1 	 referendum on
+15 	 14 	 (NP\NP)/(S[ng]\NP) 	 2 	 increasing on
+20 	 15 	 (S[ng]\NP)/NP 	 2 	 tax increasing
+20 	 16 	 NP[nb]/N 	 1 	 tax the
+20 	 17 	 N/N 	 1 	 tax North
+20 	 18 	 N/N 	 1 	 tax Dakota
+20 	 19 	 N/N 	 1 	 tax income
+<\s>
+<s id="wsj_0120.6"> 11
+1 	 0 	 N/N 	 1 	 watchers Ballot
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 watchers say
+3 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 attention is
+3 	 6 	 (S[pss]\NP)/PP 	 1 	 attention focused <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 is say
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 is already
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 focused is
+7 	 6 	 (S[pss]\NP)/PP 	 2 	 on focused
+10 	 7 	 PP/NP 	 1 	 elections on
+10 	 8 	 NP[nb]/N 	 1 	 elections the
+10 	 9 	 N/N 	 1 	 elections 1990
+<\s>
+<s id="wsj_0120.7"> 23
+1 	 0 	 (S/S)/NP 	 2 	 California In
+5 	 3 	 N/N 	 1 	 drives two
+5 	 4 	 N/N 	 1 	 drives petition
+5 	 6 	 (NP\NP)/NP 	 1 	 drives for
+5 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 drives are
+5 	 13 	 S[adj]\NP 	 1 	 drives finished <XB>
+8 	 7 	 N/N 	 1 	 year next
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 year 's
+10 	 6 	 (NP\NP)/NP 	 2 	 election for
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 election 's
+11 	 0 	 (S/S)/NP 	 1 	 are In
+11 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 are says
+13 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 finished are
+13 	 12 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 finished essentially
+17 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 Schmidt says
+17 	 16 	 N/N 	 1 	 Schmidt David
+19 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 author says
+19 	 20 	 (NP\NP)/NP 	 1 	 author of
+22 	 20 	 (NP\NP)/NP 	 2 	 Lawmakers of
+22 	 21 	 N/N 	 1 	 Lawmakers Citizen
+<\s>
+<s id="wsj_0120.8"> 8
+1 	 0 	 N/N 	 1 	 McGuigan Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 McGuigan cites
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 efforts cites
+5 	 3 	 N/N 	 1 	 efforts three
+5 	 4 	 N/N 	 1 	 efforts completed
+5 	 6 	 (NP\NP)/NP 	 1 	 efforts in
+7 	 6 	 (NP\NP)/NP 	 2 	 Oklahoma in
+<\s>
+<s id="wsj_0120.9"> 14
+2 	 0 	 N/N 	 1 	 topics Hot
+2 	 1 	 N/N 	 1 	 topics ballot
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 topics are
+2 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 topics expected <XB>
+2 	 6 	 (S[b]\NP)/NP 	 1 	 topics be <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+5 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+7 	 6 	 (S[b]\NP)/NP 	 2 	 abortion be
+10 	 6 	 (S[b]\NP)/NP 	 2 	 environment be
+10 	 9 	 NP[nb]/N 	 1 	 environment the
+13 	 6 	 (S[b]\NP)/NP 	 2 	 reform be
+13 	 12 	 N/N 	 1 	 reform insurance
+<\s>
+<s id="wsj_0120.10"> 23
+2 	 0 	 ((S[ng]\NP)/PP)/NP 	 3 	 cue Taking
+2 	 1 	 NP[nb]/N 	 1 	 cue a
+3 	 0 	 ((S[ng]\NP)/PP)/NP 	 2 	 from Taking
+4 	 3 	 PP/NP 	 1 	 California from
+7 	 6 	 N/N 	 1 	 politicians more
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 politicians will
+7 	 9 	 (S[b]\NP)/NP 	 1 	 politicians launch <XB>
+7 	 13 	 (S[ng]\NP)/NP 	 1 	 politicians backing <XB>
+8 	 16 	 (S[dcl]\S[dcl])/NP 	 1 	 will says
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 launch will
+9 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 launch by
+11 	 9 	 (S[b]\NP)/NP 	 2 	 campaigns launch
+11 	 10 	 NP[nb]/N 	 1 	 campaigns their
+13 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 backing by
+14 	 13 	 (S[ng]\NP)/NP 	 2 	 initiatives backing
+18 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 Magleby says
+18 	 17 	 N/N 	 1 	 Magleby David
+18 	 19 	 (NP\NP)/NP 	 1 	 Magleby of
+22 	 19 	 (NP\NP)/NP 	 2 	 University of
+22 	 20 	 N/N 	 1 	 University Brigham
+22 	 21 	 N/N 	 1 	 University Young
+<\s>
+<s id="wsj_0120.11"> 8
+1 	 0 	 N/N 	 1 	 COLLECTING PHOTOGRAPH
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 COLLECTING gains
+2 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 gains as
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 stature gains
+4 	 3 	 N/N 	 1 	 stature new
+6 	 7 	 S[dcl]\NP 	 1 	 prices rise
+7 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 rise as
+<\s>
+<s id="wsj_0120.12"> 9
+1 	 0 	 N/N 	 1 	 records Price
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 records are
+1 	 3 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 records being <XB>
+1 	 4 	 S[pss]\NP 	 1 	 records set <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being are
+4 	 3 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 set being
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 set at
+4 	 7 	 ((S\NP)\(S\NP))/N 	 2 	 set this
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 auctions at
+8 	 7 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+<\s>
+<s id="wsj_0120.13"> 23
+2 	 0 	 (S/S)/NP 	 2 	 's At
+2 	 1 	 N/N 	 1 	 's Christie
+5 	 4 	 NP[nb]/N 	 1 	 folio a
+5 	 6 	 (NP\NP)/NP 	 1 	 folio of
+5 	 15 	 (S[dcl]\NP)/PP 	 1 	 folio sold
+8 	 6 	 (NP\NP)/NP 	 2 	 prints of
+8 	 7 	 N/N 	 1 	 prints 21
+8 	 9 	 (NP\NP)/NP 	 1 	 prints from
+11 	 10 	 N/N 	 1 	 Stieglitz Alfred
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Stieglitz 's
+14 	 9 	 (NP\NP)/NP 	 2 	 series from
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 series 's
+14 	 13 	 N/N 	 1 	 series Equivalents
+15 	 0 	 (S/S)/NP 	 1 	 sold At
+16 	 15 	 (S[dcl]\NP)/PP 	 2 	 for sold
+17 	 16 	 PP/NP 	 1 	 $ for
+18 	 17 	 N/N[num] 	 1 	 396,000 $
+22 	 16 	 PP/NP 	 1 	 record for
+22 	 20 	 NP[nb]/N 	 1 	 record a
+22 	 21 	 N/N 	 1 	 record single-lot
+<\s>
+<s id="wsj_0120.14"> 8
+1 	 0 	 N/N 	 1 	 works Other
+1 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 works have
+1 	 5 	 (S[ng]\NP)/NP 	 1 	 works exceeding <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 have also
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+5 	 4 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 exceeding been
+7 	 5 	 (S[ng]\NP)/NP 	 2 	 estimates exceeding
+7 	 6 	 N/N 	 1 	 estimates price
+<\s>
+<s id="wsj_0120.15"> 19
+1 	 0 	 (S/S)/NP 	 2 	 part In
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 prices reflect
+4 	 0 	 (S/S)/NP 	 1 	 reflect In
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 development reflect
+5 	 6 	 (NP\NP)/NP 	 1 	 development of
+9 	 6 	 (NP\NP)/NP 	 2 	 structure of
+9 	 7 	 NP[nb]/N 	 1 	 structure a
+9 	 8 	 N/N 	 1 	 structure market
+9 	 10 	 (S[pss]\NP)/PP 	 1 	 structure based <XB>
+11 	 10 	 (S[pss]\NP)/PP 	 2 	 on based
+13 	 11 	 PP/NP 	 1 	 variables on
+13 	 12 	 NP/NP 	 1 	 variables such
+13 	 14 	 (NP\NP)/NP 	 1 	 variables as
+16 	 14 	 (NP\NP)/NP 	 2 	 number as
+16 	 15 	 NP[nb]/N 	 1 	 number the
+16 	 17 	 (NP\NP)/NP 	 1 	 number of
+18 	 17 	 (NP\NP)/NP 	 2 	 prints of
+<\s>
+<s id="wsj_0120.16"> 17
+1 	 0 	 NP[nb]/N 	 1 	 information This
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 information used
+1 	 6 	 S[adj]\NP 	 1 	 information documented <XB>
+1 	 9 	 S[adj]\NP 	 1 	 information anecdotal <XU>
+2 	 11 	 (S[dcl]\S[dcl])/NP 	 1 	 used says
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to used
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+6 	 4 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 documented be
+6 	 5 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 documented poorly
+9 	 4 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 anecdotal be
+9 	 8 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 anecdotal largely
+13 	 11 	 (S[dcl]\S[dcl])/NP 	 2 	 Gates-Warren says
+13 	 12 	 N/N 	 1 	 Gates-Warren Beth
+13 	 14 	 (NP\NP)/NP 	 1 	 Gates-Warren of
+16 	 14 	 (NP\NP)/NP 	 2 	 's of
+16 	 15 	 N/N 	 1 	 's Sotheby
+<\s>
+<s id="wsj_0120.17"> 13
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There is
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is finally
+1 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 is in
+1 	 12 	 (S[dcl]\S[dcl])\NP 	 1 	 is says
+4 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 sort is
+4 	 3 	 NP[nb]/N 	 1 	 sort some
+4 	 5 	 (NP\NP)/NP 	 1 	 sort of
+6 	 5 	 (NP\NP)/NP 	 2 	 sense of
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 market in
+9 	 8 	 NP[nb]/N 	 1 	 market the
+11 	 12 	 (S[dcl]\S[dcl])\NP 	 2 	 she says
+<\s>
+<s id="wsj_0120.18"> 21
+0 	 3 	 (S[dcl]\NP)/PP 	 1 	 Corporations are
+0 	 9 	 (S[ng]\NP)/NP 	 1 	 Corporations giving <XB>
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 museums are
+2 	 9 	 (S[ng]\NP)/NP 	 1 	 museums giving <XB>
+3 	 14 	 (S[dcl]\S[dcl])/NP 	 1 	 are says
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 among are
+7 	 4 	 PP/NP 	 1 	 buyers among
+7 	 5 	 NP[nb]/N 	 1 	 buyers the
+7 	 6 	 N/N 	 1 	 buyers serious
+12 	 9 	 (S[ng]\NP)/NP 	 2 	 stability giving
+12 	 10 	 N/N 	 1 	 stability greater
+12 	 11 	 N/N 	 1 	 stability market
+16 	 14 	 (S[dcl]\S[dcl])/NP 	 2 	 Persky says
+16 	 15 	 N/N 	 1 	 Persky Robert
+16 	 17 	 (NP\NP)/NP 	 1 	 Persky of
+20 	 17 	 (NP\NP)/NP 	 2 	 Collector of
+20 	 18 	 NP[nb]/N 	 1 	 Collector the
+20 	 19 	 N/N 	 1 	 Collector Photograph
+<\s>
+<s id="wsj_0120.19"> 23
+1 	 2 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 1 	 I see
+2 	 0 	 (S/S)/S[dcl] 	 2 	 see When
+3 	 2 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 3 	 prints see
+3 	 4 	 S[ng]\NP 	 1 	 prints going <XB>
+4 	 2 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 2 	 going see
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 going into
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 hands into
+7 	 6 	 NP[nb]/N 	 1 	 hands the
+7 	 8 	 (NP\NP)/NP 	 1 	 hands of
+9 	 8 	 (NP\NP)/NP 	 2 	 institutions of
+11 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 I know
+12 	 0 	 (S/S)/S[dcl] 	 1 	 know When
+13 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they are
+13 	 18 	 S[b]\NP 	 1 	 they come <XB>
+14 	 12 	 (S[dcl]\NP)/S[dcl] 	 2 	 are know
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 are n't
+16 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going are
+17 	 16 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 come to
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 come back
+18 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 come on
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 market on
+22 	 21 	 NP[nb]/N 	 1 	 market the
+<\s>
+<s id="wsj_0120.20"> 14
+1 	 0 	 PP/PP 	 1 	 in Most
+1 	 3 	 (PP\PP)/NP 	 1 	 in :
+2 	 1 	 PP/NP 	 1 	 demand in
+5 	 3 	 (PP\PP)/NP 	 2 	 photographs :
+5 	 4 	 N/N 	 1 	 photographs classic
+5 	 6 	 (NP\NP)/NP 	 1 	 photographs by
+7 	 6 	 (NP\NP)/NP 	 2 	 masters by
+7 	 9 	 (NP\NP)/NP 	 1 	 masters as
+9 	 8 	 (NP\NP)/(NP\NP) 	 2 	 as such
+10 	 9 	 (NP\NP)/NP 	 2 	 Stieglitz as
+13 	 9 	 (NP\NP)/NP 	 2 	 Ray as
+13 	 12 	 N/N 	 1 	 Ray Man
+<\s>
+<s id="wsj_0120.21"> 22
+3 	 1 	 N/N 	 1 	 work much
+3 	 2 	 N/N 	 1 	 work contemporary
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 work is
+3 	 6 	 (S[ng]\NP)/NP 	 1 	 work fetching <XB>
+4 	 0 	 S/S 	 1 	 is But
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 is also
+4 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+6 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 fetching is
+9 	 6 	 (S[ng]\NP)/NP 	 2 	 deal fetching
+9 	 7 	 NP[nb]/N 	 1 	 deal a
+9 	 8 	 N/N 	 1 	 deal great
+9 	 10 	 (NP\NP)/NP 	 1 	 deal of
+11 	 10 	 (NP\NP)/NP 	 2 	 money of
+15 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 Barth says
+15 	 14 	 N/N 	 1 	 Barth Miles
+15 	 16 	 (NP\NP)/NP 	 1 	 Barth of
+19 	 16 	 (NP\NP)/NP 	 2 	 Center of
+19 	 17 	 NP[nb]/N 	 1 	 Center the
+19 	 18 	 N/N 	 1 	 Center International
+19 	 20 	 (NP\NP)/NP 	 1 	 Center of
+21 	 20 	 (NP\NP)/NP 	 2 	 Photography of
+<\s>
+<s id="wsj_0120.22"> 9
+0 	 2 	 ((S[dcl]\NP)/NP)/NP 	 1 	 DIALING brings
+1 	 0 	 (S[ng]\NP)/NP 	 2 	 900 DIALING
+3 	 2 	 ((S[dcl]\NP)/NP)/NP 	 3 	 callers brings
+6 	 2 	 ((S[dcl]\NP)/NP)/NP 	 2 	 number brings
+6 	 4 	 NP[nb]/N 	 1 	 number a
+6 	 5 	 N/N 	 1 	 number growing
+6 	 7 	 (NP\NP)/NP 	 1 	 number of
+8 	 7 	 (NP\NP)/NP 	 2 	 services of
+<\s>
+<s id="wsj_0120.23"> 45
+3 	 2 	 ((N/N)/(N/N))/N[num] 	 3 	 300 $
+4 	 2 	 ((N/N)/(N/N))/N[num] 	 2 	 million-a-year $
+5 	 0 	 NP/NP 	 1 	 business Currently
+5 	 1 	 NP[nb]/N 	 1 	 business a
+5 	 4 	 N/N 	 1 	 business million-a-year
+9 	 7 	 N/N 	 1 	 service 900
+9 	 8 	 N/N 	 1 	 service telephone
+9 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 service is
+9 	 11 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 service expected <XB>
+9 	 13 	 (S[b]\NP)/NP 	 1 	 service hit <XB>
+9 	 20 	 (S[b]\NP)/NP 	 1 	 service near <XU>
+10 	 35 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+11 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 expected as
+12 	 11 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 hit to
+13 	 18 	 (S\NP)\(S\NP) 	 2 	 hit year
+14 	 13 	 (S[b]\NP)/NP 	 2 	 $ hit
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 500
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+20 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 near to
+20 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 near by
+21 	 20 	 (S[b]\NP)/NP 	 2 	 $ near
+23 	 21 	 N/N[num] 	 1 	 billion $
+23 	 22 	 N/N 	 1 	 billion 2
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 1992 by
+27 	 28 	 (NP\NP)/NP 	 1 	 uses for
+27 	 31 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 uses continue
+27 	 33 	 S[b]\NP 	 1 	 uses expand <XB>
+30 	 28 	 (NP\NP)/NP 	 2 	 service for
+30 	 29 	 NP[nb]/N 	 1 	 service the
+31 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 continue as
+32 	 31 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continue
+33 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 expand to
+37 	 35 	 (S[dcl]\S[dcl])/NP 	 2 	 Gross says
+37 	 36 	 N/N 	 1 	 Gross Joel
+37 	 38 	 (NP\NP)/NP 	 1 	 Gross of
+44 	 38 	 (NP\NP)/NP 	 2 	 Inc of
+44 	 39 	 N/N 	 1 	 Inc Donaldson
+44 	 41 	 N/N 	 1 	 Inc Lufkin
+44 	 42 	 N/N 	 1 	 Inc &
+44 	 43 	 N/N 	 1 	 Inc Jenrette
+<\s>
+<s id="wsj_0120.24"> 27
+1 	 0 	 NP[nb]/N 	 1 	 service The
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 service which
+1 	 4 	 ((S[dcl]\NP)/NP)/NP 	 1 	 service costs <XB>
+1 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 service is
+1 	 18 	 S[pss]\NP 	 1 	 service dominated <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 costs which
+6 	 4 	 ((S[dcl]\NP)/NP)/NP 	 3 	 caller costs
+6 	 5 	 NP[nb]/N 	 1 	 caller the
+9 	 4 	 ((S[dcl]\NP)/NP)/NP 	 2 	 cents costs
+9 	 7 	 N/N 	 1 	 cents from
+9 	 8 	 N/N 	 1 	 cents 30
+9 	 10 	 (N\N)/N 	 1 	 cents to
+9 	 13 	 (NP\NP)/N 	 1 	 cents a
+11 	 10 	 (N\N)/N 	 2 	 $ to
+12 	 11 	 N/N[num] 	 1 	 25 $
+14 	 13 	 (NP\NP)/N 	 2 	 minute a
+17 	 16 	 (S\NP)/(S\NP) 	 2 	 is currently
+18 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 dominated is
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 dominated by
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 chatter by
+21 	 20 	 N/N 	 1 	 chatter celebrity
+23 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 horoscopes by
+26 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 lines by
+26 	 25 	 N/N 	 1 	 lines romance
+<\s>
+<s id="wsj_0120.25"> 18
+3 	 1 	 N/N 	 1 	 applications more
+3 	 2 	 N/N 	 1 	 applications serious
+3 	 4 	 (S[dcl]\NP)/PP 	 1 	 applications are
+4 	 0 	 S/S 	 1 	 are But
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 in are
+7 	 5 	 PP/NP 	 1 	 wings in
+7 	 6 	 NP[nb]/N 	 1 	 wings the
+10 	 11 	 (S[dcl]\NP)/S[qem] 	 1 	 that is
+11 	 0 	 S/S 	 1 	 is But
+12 	 11 	 (S[dcl]\NP)/S[qem] 	 2 	 where is
+15 	 13 	 NP[nb]/N 	 1 	 growth the
+15 	 14 	 N/N 	 1 	 growth future
+15 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 growth is
+15 	 17 	 S[pss]\NP 	 1 	 growth expected <XB>
+16 	 12 	 S[qem]/S[dcl] 	 1 	 is where
+17 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+<\s>
+<s id="wsj_0120.26"> 37
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 I 'm
+0 	 2 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 I starting <XB>
+0 	 4 	 (S[b]\NP)/NP 	 1 	 I see <XB>
+1 	 9 	 (S[dcl]\S[dcl])/NP 	 1 	 'm says
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 starting 'm
+3 	 2 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to starting
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 see to
+7 	 4 	 (S[b]\NP)/NP 	 2 	 transactions see
+7 	 5 	 N/N 	 1 	 transactions more
+7 	 6 	 N/N 	 1 	 transactions business
+11 	 9 	 (S[dcl]\S[dcl])/NP 	 2 	 West says
+11 	 10 	 N/N 	 1 	 West Andrea
+11 	 12 	 (NP\NP)/NP 	 1 	 West of
+17 	 12 	 (NP\NP)/NP 	 2 	 Co. of
+17 	 13 	 N/N 	 1 	 Co. American
+17 	 14 	 N/N 	 1 	 Co. Telephone
+17 	 15 	 N/N 	 1 	 Co. &
+17 	 16 	 N/N 	 1 	 Co. Telegraph
+21 	 19 	 (S[ng]\NP)/NP 	 2 	 interest noting
+21 	 20 	 N/N 	 1 	 interest growing
+21 	 22 	 (NP\NP)/NP 	 1 	 interest in
+23 	 22 	 (NP\NP)/NP 	 2 	 use in
+23 	 24 	 (NP\NP)/NP 	 1 	 use of
+23 	 27 	 (NP\NP)/NP 	 1 	 use for
+26 	 24 	 (NP\NP)/NP 	 2 	 service of
+26 	 25 	 N/N 	 1 	 service 900
+29 	 27 	 (NP\NP)/NP 	 2 	 sales for
+29 	 28 	 N/N 	 1 	 sales stock
+32 	 27 	 (NP\NP)/NP 	 2 	 tutorials for
+32 	 31 	 N/N 	 1 	 tutorials software
+36 	 27 	 (NP\NP)/NP 	 2 	 contracts for
+36 	 34 	 N/N 	 1 	 contracts even
+36 	 35 	 N/N 	 1 	 contracts service
+<\s>
+<s id="wsj_0120.27"> 11
+0 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Colleges are
+0 	 6 	 (S[ng]\NP)/NP 	 1 	 Colleges eyeing <XB>
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 she says
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 eyeing are
+7 	 6 	 (S[ng]\NP)/NP 	 2 	 registration eyeing
+7 	 8 	 (NP\NP)/NP 	 1 	 registration through
+10 	 8 	 (NP\NP)/NP 	 2 	 service through
+10 	 9 	 N/N 	 1 	 service 900
+<\s>
+<s id="wsj_0120.28"> 14
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Charities test
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 waters test
+3 	 2 	 NP[nb]/N 	 1 	 waters the
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 they face
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 barriers face
+9 	 8 	 N/N 	 1 	 barriers legal
+9 	 10 	 (NP\NP)/NP 	 1 	 barriers to
+13 	 10 	 (NP\NP)/NP 	 2 	 raising to
+13 	 11 	 N/N 	 1 	 raising electronic
+13 	 12 	 N/N 	 1 	 raising fund
+<\s>
+<s id="wsj_0120.29"> 16
+1 	 0 	 NP[nb]/N 	 1 	 thing The
+1 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 thing that
+1 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 thing will <XB>
+1 	 5 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 thing break <XB>
+1 	 10 	 (S[dcl]\NP)/NP 	 1 	 thing is
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 will really
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 break will
+7 	 5 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 market break
+7 	 6 	 NP[nb]/N 	 1 	 market this
+7 	 9 	 S[adj]\NP 	 1 	 market open <XB>
+9 	 5 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 open break
+9 	 8 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 open right
+10 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 is says
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 merchandising is
+14 	 13 	 N/N 	 1 	 West Ms.
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 West says
+<\s>
+<s id="wsj_0120.30"> 22
+0 	 1 	 (NP\NP)/NP 	 1 	 Much of
+0 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Much will
+0 	 6 	 S[b]\NP 	 1 	 Much migrate <XB>
+4 	 1 	 (NP\NP)/NP 	 2 	 service of
+4 	 2 	 NP[nb]/N 	 1 	 service the
+4 	 3 	 N/N 	 1 	 service 800
+5 	 10 	 (S[dcl]\S[dcl])/NP 	 1 	 will predicts
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 migrate will
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 migrate to
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 900 to
+12 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 Lawless predicts
+12 	 11 	 N/N 	 1 	 Lawless Jack
+15 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 manager predicts
+15 	 14 	 N/N 	 1 	 manager general
+15 	 16 	 (NP\NP)/NP 	 1 	 manager of
+18 	 17 	 N/N 	 1 	 Sprint US
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 Sprint 's
+21 	 16 	 (NP\NP)/NP 	 2 	 product of
+21 	 19 	 (NP[nb]/N)\NP 	 1 	 product 's
+21 	 20 	 N/N 	 1 	 product 900
+<\s>
+<s id="wsj_0120.31"> 13
+1 	 0 	 N/N 	 1 	 PETS FAMILY
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 PETS are
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 PETS improving <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 improving are
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 improving at
+5 	 3 	 (S[ng]\NP)/NP 	 2 	 rates improving
+5 	 4 	 N/N 	 1 	 rates recovery
+5 	 6 	 (NP\NP)/NP 	 1 	 rates of
+7 	 6 	 (NP\NP)/NP 	 2 	 patients of
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Hospital at
+10 	 9 	 N/N 	 1 	 Hospital Columbia
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Milwaukee at
+<\s>
+<s id="wsj_0120.32"> 31
+0 	 1 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Patients who
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 Patients receive <XB>
+0 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Patients are
+0 	 8 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Patients found <XB>
+0 	 10 	 (S[b]\NP)/NP 	 1 	 Patients have <XB>
+0 	 20 	 (S[adj]\NP)/PP 	 1 	 Patients receptive <XU>
+2 	 1 	 (NP\NP)/(S[dcl]\NP) 	 2 	 receive who
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 visitors receive
+6 	 3 	 N/N 	 1 	 visitors canine
+6 	 5 	 N/N 	 1 	 visitors feline
+7 	 24 	 (S[dcl]\S[dcl])/NP 	 1 	 are says
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 found are
+9 	 8 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to found
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+13 	 10 	 (S[b]\NP)/NP 	 2 	 pressure have
+13 	 11 	 N/N 	 1 	 pressure lower
+13 	 12 	 N/N 	 1 	 pressure blood
+16 	 10 	 (S[b]\NP)/NP 	 2 	 appetite have
+16 	 15 	 N/N 	 1 	 appetite improved
+18 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+20 	 18 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 receptive be
+20 	 19 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 receptive more
+21 	 20 	 (S[adj]\NP)/PP 	 2 	 to receptive
+22 	 21 	 PP/NP 	 1 	 therapy to
+27 	 24 	 (S[dcl]\S[dcl])/NP 	 2 	 O'Loughlin says
+27 	 25 	 N/N 	 1 	 O'Loughlin Mary
+27 	 26 	 N/N 	 1 	 O'Loughlin Ann
+30 	 24 	 (S[dcl]\S[dcl])/NP 	 2 	 coordinator says
+30 	 29 	 N/N 	 1 	 coordinator program
+<\s>
+<s id="wsj_0120.33"> 3
+1 	 0 	 (S[adj]\NP)/PP 	 2 	 OF TIRED
+2 	 1 	 PP/(S[ng]\NP) 	 1 	 TRIMMING OF
+<\s>
+<s id="wsj_0120.34"> 16
+3 	 0 	 N/N 	 1 	 Co. Hammacher
+3 	 1 	 N/N 	 1 	 Co. Schlemmer
+3 	 2 	 N/N 	 1 	 Co. &
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Co. offers
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 tree offers
+8 	 5 	 NP[nb]/N 	 1 	 tree a
+8 	 6 	 N/N 	 1 	 tree fiber-optic
+8 	 7 	 N/N 	 1 	 tree Christmas
+8 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 tree that
+8 	 10 	 (S[dcl]\NP)/NP 	 1 	 tree eliminates <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 eliminates that
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 need eliminates
+12 	 11 	 NP[nb]/N 	 1 	 need the
+12 	 14 	 (S[b]\NP)/NP 	 1 	 need string <XB>
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 string to
+15 	 14 	 (S[b]\NP)/NP 	 2 	 lights string
+<\s>
+<s id="wsj_0120.35"> 17
+2 	 1 	 (N/N)/N[num] 	 2 	 6,500 $
+3 	 0 	 NP[nb]/N 	 1 	 tree The
+3 	 1 	 (N/N)/N[num] 	 1 	 tree $
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 tree is
+3 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 tree designed <XB>
+3 	 7 	 ((S[b]\NP)/PP)/NP 	 1 	 tree send <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 designed is
+6 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to designed
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 send to
+9 	 8 	 (N/N)/(N/N) 	 2 	 changing continuously
+11 	 7 	 ((S[b]\NP)/PP)/NP 	 3 	 light send
+11 	 9 	 N/N 	 1 	 light changing
+11 	 10 	 N/N 	 1 	 light colored
+12 	 7 	 ((S[b]\NP)/PP)/NP 	 2 	 to send
+13 	 12 	 PP/NP 	 1 	 dozens to
+13 	 14 	 (NP\NP)/NP 	 1 	 dozens of
+16 	 14 	 (NP\NP)/NP 	 2 	 bunches of
+16 	 15 	 N/N 	 1 	 bunches fiber-end
+<\s>
+<s id="wsj_0120.36"> 25
+1 	 0 	 N/N 	 1 	 TRANSPLANT MEDICINE
+1 	 2 	 (NP\NP)/S[dcl] 	 1 	 TRANSPLANT :
+3 	 4 	 (NP\NP)/NP 	 1 	 Growth of
+3 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Growth prompts
+6 	 4 	 (NP\NP)/NP 	 2 	 trade of
+6 	 5 	 N/N 	 1 	 trade Japanese
+8 	 4 	 (NP\NP)/NP 	 2 	 travel of
+8 	 5 	 N/N 	 1 	 travel Japanese
+9 	 2 	 (NP\NP)/S[dcl] 	 2 	 prompts :
+13 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Center prompts
+13 	 10 	 N/N 	 1 	 Center Beth
+13 	 11 	 N/N 	 1 	 Center Israel
+13 	 12 	 N/N 	 1 	 Center Medical
+13 	 16 	 NP\NP 	 1 	 Center York
+13 	 19 	 (S[b]\NP)/NP 	 1 	 Center set <XB>
+16 	 15 	 (NP\NP)/(NP\NP) 	 2 	 York New
+18 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to prompts
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 set to
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 set up
+24 	 19 	 (S[b]\NP)/NP 	 2 	 practice set
+24 	 21 	 NP[nb]/N 	 1 	 practice a
+24 	 22 	 N/N 	 1 	 practice bilingual
+24 	 23 	 N/N 	 1 	 practice medical
+<\s>
+<s id="wsj_0120.37"> 27
+0 	 1 	 ((S\NP)\(S\NP))/NP 	 2 	 Funded by
+5 	 3 	 (N/N)/N[num] 	 2 	 million $
+5 	 4 	 N/N 	 1 	 million 1
+6 	 1 	 ((S\NP)\(S\NP))/NP 	 3 	 gift by
+6 	 2 	 NP[nb]/N 	 1 	 gift a
+6 	 3 	 (N/N)/N[num] 	 1 	 gift $
+6 	 7 	 (NP\NP)/NP 	 1 	 gift from
+12 	 7 	 (NP\NP)/NP 	 2 	 Insurance from
+12 	 8 	 N/N 	 1 	 Insurance Tokio
+12 	 9 	 N/N 	 1 	 Insurance Marine
+12 	 10 	 N/N 	 1 	 Insurance &
+12 	 11 	 N/N 	 1 	 Insurance Fire
+15 	 14 	 NP[nb]/N 	 1 	 service the
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 service will
+15 	 17 	 (S[b]\NP)/NP 	 1 	 service follow <XB>
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 follow will
+20 	 17 	 (S[b]\NP)/NP 	 2 	 protocols follow
+20 	 18 	 N/N 	 1 	 protocols Japanese
+20 	 19 	 N/N 	 1 	 protocols medical
+20 	 22 	 (NP\NP)/NP 	 1 	 protocols including
+23 	 22 	 (NP\NP)/NP 	 2 	 emphasis including
+23 	 24 	 (NP\NP)/NP 	 1 	 emphasis on
+26 	 24 	 (NP\NP)/NP 	 2 	 medicine on
+26 	 25 	 N/N 	 1 	 medicine preventative
+<\s>
+<s id="wsj_0120.38"> 9
+1 	 0 	 N/N 	 1 	 SERVICES DIAPER
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 SERVICES make
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 make amid
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 comeback make
+4 	 3 	 NP[nb]/N 	 1 	 comeback a
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 concerns amid
+8 	 6 	 N/N 	 1 	 concerns growing
+8 	 7 	 N/N 	 1 	 concerns environmental
+<\s>
+<s id="wsj_0120.39"> 21
+1 	 0 	 (S[pss]\NP)/PP 	 2 	 about Concerned
+3 	 1 	 PP/NP 	 1 	 landfills about
+3 	 2 	 N/N 	 1 	 landfills shrinking
+6 	 1 	 PP/NP 	 1 	 safety about
+6 	 5 	 NP[nb]/N 	 1 	 safety the
+6 	 7 	 (NP\NP)/NP 	 1 	 safety of
+8 	 7 	 (NP\NP)/NP 	 2 	 chemicals of
+8 	 9 	 S[pss]\NP 	 1 	 chemicals used <XB>
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 used in
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 disposables in
+12 	 11 	 N/N 	 1 	 disposables super-absorbent
+14 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 parents are
+14 	 16 	 S[ng]\NP 	 1 	 parents returning <XB>
+16 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 returning are
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 returning to
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 diaper to
+20 	 18 	 NP[nb]/N 	 1 	 diaper the
+20 	 19 	 N/N 	 1 	 diaper cloth
+<\s>
+<s id="wsj_0120.40"> 18
+2 	 0 	 N/N 	 1 	 Inc. Tiny
+2 	 1 	 N/N 	 1 	 Inc. Tots
+2 	 4 	 NP\NP 	 1 	 Inc. Campbell
+2 	 6 	 NP\NP 	 1 	 Inc. Calif. <XU>
+2 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. says
+9 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 business is
+9 	 11 	 (S[adj]\NP)/NP 	 1 	 business up <XB>
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 is says
+10 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 is in
+11 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 up is
+13 	 11 	 (S[adj]\NP)/NP 	 2 	 % up
+13 	 12 	 N/N 	 1 	 % 35
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 year in
+17 	 15 	 NP[nb]/N 	 1 	 year the
+17 	 16 	 N/N 	 1 	 year past
+<\s>
+<s id="wsj_0120.41"> 21
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 We 're
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 We gaining <XB>
+1 	 9 	 (S[dcl]\S[dcl])/NP 	 1 	 're says
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 gaining 're
+2 	 6 	 ((S\NP)\(S\NP))/N 	 2 	 gaining each
+5 	 2 	 (S[ng]\NP)/NP 	 2 	 customers gaining
+5 	 3 	 N/N 	 1 	 customers 1,200
+5 	 4 	 N/N 	 1 	 customers new
+7 	 6 	 ((S\NP)\(S\NP))/N 	 3 	 week each
+11 	 9 	 (S[dcl]\S[dcl])/NP 	 2 	 Mogavero says
+11 	 10 	 N/N 	 1 	 Mogavero Jack
+11 	 12 	 (NP\NP)/NP 	 1 	 Mogavero of
+16 	 12 	 (NP\NP)/NP 	 2 	 Corp. of
+16 	 13 	 N/N 	 1 	 Corp. General
+16 	 14 	 N/N 	 1 	 Corp. Health
+16 	 15 	 N/N 	 1 	 Corp. Care
+16 	 18 	 NP\NP 	 1 	 Corp. Piscataway
+16 	 20 	 NP\NP 	 1 	 Corp. N.J <XU>
+<\s>
+<s id="wsj_0120.42"> 14
+1 	 0 	 (S/S)/NP 	 2 	 Syracuse In
+3 	 0 	 (S/S)/NP 	 2 	 N.Y. In
+6 	 5 	 N/N 	 1 	 Service DyDee
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Service 's
+10 	 7 	 (NP[nb]/N)\NP 	 1 	 push 's
+10 	 8 	 N/N 	 1 	 push new
+10 	 9 	 N/N 	 1 	 push marketing
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 push stresses
+11 	 0 	 (S/S)/NP 	 1 	 stresses In
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 awareness stresses
+13 	 12 	 N/N 	 1 	 awareness environmental
+<\s>
+<s id="wsj_0120.43"> 12
+0 	 4 	 (PP\PP)/NP 	 1 	 Among :
+3 	 0 	 PP/NP 	 1 	 customers Among
+3 	 1 	 NP[nb]/N 	 1 	 customers its
+3 	 2 	 N/N 	 1 	 customers new
+6 	 4 	 (PP\PP)/NP 	 2 	 centers :
+6 	 5 	 N/N 	 1 	 centers day-care
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 centers that
+6 	 9 	 (S[dcl]\NP)/NP 	 1 	 centers spurned <XB>
+9 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 spurned that
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 spurned previously
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 service spurned
+11 	 10 	 NP[nb]/N 	 1 	 service the
+<\s>
+<s id="wsj_0120.44"> 27
+2 	 0 	 NP[nb]/N 	 1 	 Association The
+2 	 1 	 N/N 	 1 	 Association National
+2 	 3 	 (NP\NP)/NP 	 1 	 Association of
+2 	 7 	 NP\NP 	 1 	 Association Philadelphia
+2 	 9 	 (S[dcl]\NP)/S[em] 	 1 	 Association says
+5 	 3 	 (NP\NP)/NP 	 2 	 Services of
+5 	 4 	 N/N 	 1 	 Services Diaper
+10 	 9 	 (S[dcl]\NP)/S[em] 	 2 	 that says
+12 	 11 	 (S/S)/NP 	 2 	 January since
+13 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+13 	 15 	 (S[pt]\NP)/NP 	 1 	 it gotten <XB>
+14 	 10 	 S[em]/S[dcl] 	 1 	 has that
+14 	 11 	 (S/S)/NP 	 1 	 has since
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 gotten has
+15 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 gotten from
+16 	 17 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+18 	 17 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 672 than
+19 	 15 	 (S[pt]\NP)/NP 	 2 	 inquiries gotten
+19 	 18 	 N/N 	 1 	 inquiries 672
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 people from
+21 	 22 	 S[adj]\NP 	 1 	 people interested <XB>
+22 	 23 	 ((S[adj]\NP)\(S[adj]\NP))/(S[ng]\NP) 	 2 	 interested in
+24 	 23 	 ((S[adj]\NP)\(S[adj]\NP))/(S[ng]\NP) 	 3 	 starting in
+26 	 24 	 (S[ng]\NP)/NP 	 2 	 services starting
+26 	 25 	 N/N 	 1 	 services diaper
+<\s>
+<s id="wsj_0120.45"> 22
+1 	 0 	 N/N 	 1 	 Hollis Elisa
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Hollis launched
+2 	 7 	 (S\NP)\(S\NP) 	 2 	 launched year
+2 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 launched because
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 service launched
+5 	 3 	 NP[nb]/N 	 1 	 service a
+5 	 4 	 N/N 	 1 	 service diaper
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year last
+10 	 9 	 N/N 	 1 	 College State
+10 	 14 	 (NP\NP)/S[dcl] 	 1 	 College where
+10 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 College did
+10 	 20 	 (S[b]\NP)/NP 	 1 	 College have <XB>
+12 	 14 	 (NP\NP)/S[dcl] 	 1 	 Pa. where
+12 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Pa. did
+12 	 20 	 (S[b]\NP)/NP 	 1 	 Pa. have <XB>
+15 	 16 	 S[dcl]\NP 	 1 	 she lives
+16 	 14 	 (NP\NP)/S[dcl] 	 2 	 lives where
+18 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 did because
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 did n't
+20 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have did
+21 	 20 	 (S[b]\NP)/NP 	 2 	 one have
+<\s>
+<s id="wsj_0120.46"> 21
+1 	 0 	 N/N 	 1 	 shortages Diaper
+1 	 2 	 (NP\NP)/N 	 1 	 shortages this
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 shortages limited
+3 	 2 	 (NP\NP)/N 	 2 	 summer this
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 growth limited
+5 	 6 	 (NP\NP)/NP 	 1 	 growth at
+9 	 6 	 (NP\NP)/NP 	 2 	 Services at
+9 	 7 	 N/N 	 1 	 Services Stork
+9 	 8 	 N/N 	 1 	 Services Diaper
+9 	 11 	 NP\NP 	 1 	 Services Springfield
+9 	 13 	 NP\NP 	 1 	 Services Mass. <XU>
+11 	 15 	 ((NP\NP)\(NP\NP))/S[dcl] 	 2 	 Springfield where
+13 	 15 	 ((NP\NP)\(NP\NP))/S[dcl] 	 2 	 Mass. where
+16 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 business is
+16 	 18 	 (S[adj]\NP)/NP 	 1 	 business up <XB>
+17 	 15 	 ((NP\NP)\(NP\NP))/S[dcl] 	 3 	 is where
+18 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 up is
+20 	 18 	 (S[adj]\NP)/NP 	 2 	 % up
+20 	 19 	 N/N 	 1 	 % 25
+<\s>
+<s id="wsj_0120.47"> 19
+1 	 0 	 (S\NP)/(S\NP) 	 2 	 spurring Also
+3 	 1 	 (S[ng]\NP)/NP 	 2 	 move spurring
+3 	 2 	 NP[nb]/N 	 1 	 move the
+3 	 4 	 (NP\NP)/NP 	 1 	 move to
+5 	 4 	 (NP\NP)/NP 	 2 	 cloth to
+8 	 1 	 (S[ng]\NP)/NP 	 1 	 covers spurring <XB>
+8 	 7 	 N/N 	 1 	 covers diaper
+8 	 9 	 (NP\NP)/NP 	 1 	 covers with
+8 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 covers that
+8 	 13 	 (S[dcl]\NP)/NP 	 1 	 covers eliminate <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 fasteners with
+11 	 10 	 N/N 	 1 	 fasteners Velcro
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 eliminate that
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 need eliminate
+15 	 14 	 NP[nb]/N 	 1 	 need the
+15 	 16 	 (NP\NP)/NP 	 1 	 need for
+18 	 16 	 (NP\NP)/NP 	 2 	 pins for
+18 	 17 	 N/N 	 1 	 pins safety
+<\s>
+<s id="wsj_0120.48"> 1
+<\s>
+<s id="wsj_0120.49"> 31
+1 	 0 	 (N/N)/(N/N) 	 2 	 57.6 Only
+2 	 1 	 N/N 	 1 	 % 57.6
+2 	 3 	 (NP\NP)/NP 	 1 	 % of
+2 	 6 	 (S[dcl]\NP)/NP 	 1 	 % watch
+5 	 3 	 (NP\NP)/NP 	 2 	 Yorkers of
+5 	 4 	 N/N 	 1 	 Yorkers New
+6 	 18 	 (S[dcl]\S[dcl])/NP 	 1 	 watch says
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 news watch
+9 	 7 	 NP[nb]/N 	 1 	 news the
+9 	 8 	 N/N 	 1 	 news local
+13 	 11 	 NP[nb]/N 	 1 	 viewership the
+13 	 12 	 N/N 	 1 	 viewership lowest
+13 	 14 	 (NP\NP)/NP 	 1 	 viewership in
+16 	 14 	 (NP\NP)/NP 	 2 	 country in
+16 	 15 	 NP[nb]/N 	 1 	 country the
+21 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 study says
+21 	 19 	 NP[nb]/N 	 1 	 study a
+21 	 20 	 N/N 	 1 	 study new
+21 	 22 	 (NP\NP)/NP 	 1 	 study by
+25 	 22 	 (NP\NP)/NP 	 2 	 Inc. by
+25 	 23 	 N/N 	 1 	 Inc. Impact
+25 	 24 	 N/N 	 1 	 Inc. Resources
+25 	 27 	 NP\NP 	 1 	 Inc. Columbus
+25 	 29 	 NP\NP 	 1 	 Inc. Ohio <XU>
+<\s>
+<s id="wsj_0120.50"> 21
+0 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 FreudToy is
+0 	 12 	 (S[pss]\NP)/PP 	 1 	 FreudToy marketed <XB>
+3 	 2 	 NP[nb]/N 	 1 	 pillow a
+3 	 4 	 (S[ng]\NP)/NP 	 1 	 pillow bearing <XB>
+3 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 pillow is
+3 	 12 	 (S[pss]\NP)/PP 	 1 	 pillow marketed <XB>
+6 	 4 	 (S[ng]\NP)/NP 	 2 	 likeness bearing
+6 	 5 	 NP[nb]/N 	 1 	 likeness the
+6 	 7 	 (NP\NP)/NP 	 1 	 likeness of
+9 	 7 	 (NP\NP)/NP 	 2 	 Freud of
+9 	 8 	 N/N 	 1 	 Freud Sigmund
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 marketed is
+13 	 12 	 (S[pss]\NP)/PP 	 2 	 as marketed
+16 	 15 	 (N/N)/N[num] 	 2 	 24.95 $
+17 	 13 	 PP/NP 	 1 	 tool as
+17 	 14 	 NP[nb]/N 	 1 	 tool a
+17 	 15 	 (N/N)/N[num] 	 1 	 tool $
+17 	 18 	 (NP\NP)/NP 	 1 	 tool for
+20 	 18 	 (NP\NP)/NP 	 2 	 analysis for
+20 	 19 	 N/N 	 1 	 analysis do-it-yourself
+<\s>

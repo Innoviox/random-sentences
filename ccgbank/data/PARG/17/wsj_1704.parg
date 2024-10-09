@@ -1,0 +1,115 @@
+<s id="wsj_1704.1"> 37
+3 	 0 	 N/N 	 1 	 Inc. Clinton
+3 	 1 	 N/N 	 1 	 Inc. Gas
+3 	 2 	 N/N 	 1 	 Inc. Systems
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+5 	 6 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it received
+5 	 18 	 (S[b]\NP)/NP 	 1 	 it manage <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 received said
+8 	 6 	 ((S[dcl]\NP)/PP)/NP 	 3 	 contract received
+8 	 7 	 NP[nb]/N 	 1 	 contract a
+9 	 6 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from received
+11 	 9 	 PP/NP 	 1 	 Co. from
+11 	 10 	 N/N 	 1 	 Co. Timken
+11 	 15 	 NP\NP 	 1 	 Co. Ohio
+15 	 13 	 (NP\NP)/(NP\NP) 	 2 	 Ohio Canton
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 manage to
+18 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 manage for
+27 	 18 	 (S[b]\NP)/NP 	 2 	 activities manage
+27 	 19 	 NP[nb]/N 	 1 	 activities the
+27 	 20 	 N/N 	 1 	 activities natural
+27 	 21 	 N/N 	 1 	 activities gas
+27 	 22 	 N/N 	 1 	 activities purchasing
+27 	 24 	 N/N 	 1 	 activities scheduling
+27 	 26 	 N/N 	 1 	 activities transportation
+29 	 30 	 (NP[nb]/N)\NP 	 2 	 Timken 's
+31 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 seven for
+31 	 30 	 (NP[nb]/N)\NP 	 1 	 seven 's
+31 	 32 	 N\N 	 1 	 seven Ohio
+31 	 36 	 N\N 	 1 	 seven plants
+34 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 two for
+34 	 30 	 (NP[nb]/N)\NP 	 1 	 two 's
+34 	 35 	 N\N 	 1 	 two Pennsylvania
+34 	 36 	 N\N 	 1 	 two plants
+<\s>
+<s id="wsj_1704.2"> 12
+0 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Clinton agreed
+0 	 6 	 (S[b]\NP)/NP 	 1 	 Clinton disclose <XB>
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Timken agreed
+2 	 6 	 (S[b]\NP)/NP 	 1 	 Timken disclose <XB>
+5 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 to not
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 disclose to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 value disclose
+8 	 7 	 NP[nb]/N 	 1 	 value the
+8 	 9 	 (NP\NP)/NP 	 1 	 value of
+11 	 9 	 (NP\NP)/NP 	 2 	 contract of
+11 	 10 	 NP[nb]/N 	 1 	 contract the
+<\s>
+<s id="wsj_1704.3"> 15
+0 	 11 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Timken buys
+3 	 2 	 NP[nb]/N 	 1 	 producer a
+3 	 4 	 (NP\NP)/NP 	 1 	 producer of
+3 	 11 	 ((S[dcl]\NP)/PP)/NP 	 1 	 producer buys
+5 	 4 	 (NP\NP)/NP 	 2 	 bearings of
+8 	 4 	 (NP\NP)/NP 	 2 	 steel of
+8 	 7 	 N/N 	 1 	 steel specialty
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 buys already
+12 	 11 	 ((S[dcl]\NP)/PP)/NP 	 3 	 gas buys
+13 	 11 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from buys
+14 	 13 	 PP/NP 	 1 	 Clinton from
+<\s>
+<s id="wsj_1704.4"> 24
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Clinton said
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 said in
+5 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 Ohio in
+5 	 3 	 N/N 	 1 	 Ohio Columbus
+7 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+12 	 8 	 NP[nb]/N 	 1 	 unit its
+12 	 9 	 N/N 	 1 	 unit Clinton
+12 	 10 	 N/N 	 1 	 unit Gas
+12 	 11 	 N/N 	 1 	 unit Marketing
+12 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 unit wants
+12 	 15 	 (S[b]\NP)/NP 	 1 	 unit line <XB>
+13 	 7 	 S[em]/S[dcl] 	 1 	 wants that
+14 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wants
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 line to
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 line up
+18 	 15 	 (S[b]\NP)/NP 	 2 	 number line
+18 	 17 	 NP[nb]/N 	 1 	 number a
+18 	 19 	 (NP\NP)/NP 	 1 	 number of
+23 	 19 	 (NP\NP)/NP 	 2 	 contracts of
+23 	 20 	 NP/NP 	 1 	 contracts such
+23 	 21 	 N/N 	 1 	 contracts gas
+23 	 22 	 N/N 	 1 	 contracts management
+<\s>
+<s id="wsj_1704.5"> 30
+0 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Manufacturers do
+0 	 4 	 (S[b]\NP)/NP 	 1 	 Manufacturers have <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 do frequently
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 do n't
+2 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 do said <XU>
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have do
+5 	 4 	 (S[b]\NP)/NP 	 2 	 anyone have
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 anyone who
+5 	 7 	 (S[dcl]\NP)/NP 	 1 	 anyone is <XB>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is who
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 specialist is
+9 	 8 	 NP[nb]/N 	 1 	 specialist a
+9 	 10 	 (NP\NP)/NP 	 1 	 specialist in
+12 	 10 	 (NP\NP)/NP 	 2 	 gas in
+12 	 11 	 N/N 	 1 	 gas natural
+14 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 Clinton said
+19 	 18 	 NP[nb]/N 	 1 	 specialist a
+19 	 21 	 (NP\NP)/NP 	 1 	 specialist as
+19 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 specialist can
+19 	 24 	 ((S[b]\NP)/NP)/NP 	 1 	 specialist save <XB>
+21 	 20 	 (NP\NP)/(NP\NP) 	 2 	 as such
+22 	 21 	 (NP\NP)/NP 	 2 	 Clinton as
+24 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 save can
+25 	 24 	 ((S[b]\NP)/NP)/NP 	 3 	 them save
+27 	 24 	 ((S[b]\NP)/NP)/NP 	 2 	 amounts save
+27 	 26 	 N/N 	 1 	 amounts substantial
+27 	 28 	 (NP\NP)/NP 	 1 	 amounts of
+29 	 28 	 (NP\NP)/NP 	 2 	 money of
+<\s>

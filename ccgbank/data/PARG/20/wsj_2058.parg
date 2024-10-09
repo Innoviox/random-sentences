@@ -1,0 +1,750 @@
+<s id="wsj_2058.1"> 34
+2 	 0 	 NP[nb]/N 	 1 	 Aeronautics The
+2 	 1 	 N/N 	 1 	 Aeronautics National
+2 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Aeronautics said
+5 	 0 	 NP[nb]/N 	 1 	 Administration The
+5 	 1 	 N/N 	 1 	 Administration National
+5 	 4 	 N/N 	 1 	 Administration Space
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Administration said
+9 	 7 	 NP[nb]/N 	 1 	 virus a
+9 	 8 	 N/N 	 1 	 virus computer
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 virus has
+9 	 11 	 (S[pt]\NP)/NP 	 1 	 virus infected <XB>
+9 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 virus is <XU>
+9 	 18 	 (S[ng]\NP)/NP 	 1 	 virus spreading <XU>
+10 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 infected has
+12 	 11 	 (S[pt]\NP)/NP 	 2 	 one infected
+12 	 13 	 (NP\NP)/NP 	 1 	 one of
+15 	 13 	 (NP\NP)/NP 	 2 	 networks of
+15 	 14 	 NP[nb]/N 	 1 	 networks its
+17 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+18 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 spreading is
+20 	 18 	 (S[ng]\NP)/NP 	 2 	 messages spreading
+20 	 19 	 N/N 	 1 	 messages anti-nuclear
+20 	 21 	 (S[pss]\NP)/PP 	 1 	 messages related <XB>
+22 	 21 	 (S[pss]\NP)/PP 	 2 	 to related
+26 	 22 	 PP/NP 	 1 	 probe to
+26 	 23 	 NP[nb]/N 	 1 	 probe its
+26 	 24 	 N/N 	 1 	 probe Galileo
+26 	 25 	 N/N 	 1 	 probe space
+26 	 28 	 (NP\NP)/(S[dcl]\NP) 	 1 	 probe which
+26 	 29 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 probe is <XB>
+26 	 32 	 S[pss]\NP 	 1 	 probe launched <XB>
+29 	 28 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+30 	 29 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+32 	 31 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 launched be
+32 	 33 	 (S\NP)\(S\NP) 	 2 	 launched today
+<\s>
+<s id="wsj_2058.2"> 34
+1 	 0 	 N/N 	 1 	 Redmond Charles
+1 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Redmond said
+5 	 3 	 NP[nb]/N 	 1 	 spokesman a
+5 	 4 	 N/N 	 1 	 spokesman NASA
+5 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+9 	 8 	 NP[nb]/N 	 1 	 agency the
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 agency discovered
+9 	 25 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 agency expected <XU>
+10 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 discovered said
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 discovered on
+10 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 discovered on
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 virus discovered
+12 	 11 	 NP[nb]/N 	 1 	 virus the
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Monday on
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 collection on
+17 	 16 	 NP[nb]/N 	 1 	 collection the
+17 	 18 	 (NP\NP)/NP 	 1 	 collection of
+20 	 18 	 (NP\NP)/NP 	 2 	 networks of
+20 	 19 	 N/N 	 1 	 networks computer
+20 	 22 	 (S[pss]\NP)/NP 	 1 	 networks called <XB>
+22 	 21 	 (S\NP)/(S\NP) 	 2 	 called collectively
+23 	 22 	 (S[pss]\NP)/NP 	 2 	 Internet called
+25 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 expected said
+28 	 25 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 centers expected
+28 	 26 	 N/N 	 1 	 centers 100
+28 	 27 	 N/N 	 1 	 centers university
+28 	 31 	 S[pss]\NP 	 1 	 centers infected <XB>
+29 	 25 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expected
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+31 	 30 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 infected be
+31 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 infected by
+33 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 today by
+<\s>
+<s id="wsj_2058.3"> 33
+2 	 1 	 NP[nb]/N 	 1 	 network the
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 network is
+2 	 5 	 (S[pss]\NP)/PP 	 1 	 network connected <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 is Although
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 is n't
+5 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 connected is
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 to connected
+9 	 6 	 PP/NP 	 1 	 systems to
+9 	 7 	 NP[nb]/N 	 1 	 systems the
+9 	 8 	 N/N 	 1 	 systems computer
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 systems that
+9 	 11 	 (S[dcl]\NP)/NP 	 1 	 systems operate <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 operate that
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 Galileo operate
+13 	 12 	 NP/NP 	 1 	 Galileo either
+16 	 11 	 (S[dcl]\NP)/NP 	 2 	 shuttle operate
+16 	 12 	 NP/NP 	 1 	 shuttle either
+16 	 15 	 N/N 	 1 	 shuttle the
+18 	 19 	 (NP\NP)/NP 	 1 	 part of
+18 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 part will
+18 	 23 	 (S[b]\NP)/NP 	 1 	 part carry <XB>
+21 	 19 	 (NP\NP)/NP 	 2 	 network of
+21 	 20 	 NP[nb]/N 	 1 	 network the
+22 	 0 	 (S/S)/S[dcl] 	 1 	 will Although
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 carry will
+23 	 28 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 carry once
+24 	 23 	 (S[b]\NP)/NP 	 2 	 analyses carry
+24 	 25 	 (NP\NP)/NP 	 1 	 analyses of
+27 	 25 	 (NP\NP)/NP 	 2 	 data of
+27 	 26 	 N/N 	 1 	 data Galileo
+30 	 29 	 NP[nb]/N 	 1 	 craft the
+30 	 31 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 craft gets
+30 	 32 	 S[adj]\NP 	 1 	 craft spaceborn <XB>
+31 	 28 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 gets once
+32 	 31 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 spaceborn gets
+<\s>
+<s id="wsj_2058.4"> 23
+1 	 0 	 N/N 	 1 	 Redmond Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Redmond said
+4 	 3 	 NP[nb]/N 	 1 	 intruder the
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 intruder had
+4 	 8 	 (S[pt]\NP)/NP 	 1 	 intruder done <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 had n't
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 had yet
+8 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 done had
+10 	 8 	 (S[pt]\NP)/NP 	 2 	 harm done
+10 	 9 	 NP[nb]/N 	 1 	 harm any
+13 	 12 	 NP[nb]/N 	 1 	 agency the
+13 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 agency feared
+14 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 feared said
+16 	 15 	 N/N 	 1 	 data garbage
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 data could
+16 	 19 	 (S[pss]\NP)/PP 	 1 	 data substituted <XB>
+17 	 14 	 (S[dcl]\NP)/S[dcl] 	 2 	 could feared
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+19 	 18 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 substituted be
+20 	 19 	 (S[pss]\NP)/PP 	 2 	 for substituted
+22 	 20 	 PP/NP 	 1 	 data for
+22 	 21 	 N/N 	 1 	 data real
+<\s>
+<s id="wsj_2058.5"> 20
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He estimated
+2 	 3 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 1 	 it could
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 could estimated
+4 	 3 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 2 	 take could
+6 	 4 	 ((S[b]\NP)/S[for])/NP 	 3 	 day take
+6 	 5 	 NP[nb]/N 	 1 	 day a
+7 	 4 	 ((S[b]\NP)/S[for])/NP 	 2 	 for take
+11 	 7 	 (S[for]/(S[to]\NP))/NP 	 2 	 manager for
+11 	 8 	 NP[nb]/N 	 1 	 manager a
+11 	 9 	 N/N 	 1 	 manager computer
+11 	 10 	 N/N 	 1 	 manager security
+11 	 13 	 ((S[b]\NP)/PP)/NP 	 1 	 manager expunge <XB>
+12 	 7 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 expunge to
+15 	 13 	 ((S[b]\NP)/PP)/NP 	 3 	 virus expunge
+15 	 14 	 NP[nb]/N 	 1 	 virus the
+16 	 13 	 ((S[b]\NP)/PP)/NP 	 2 	 from expunge
+19 	 16 	 PP/NP 	 1 	 system from
+19 	 17 	 NP[nb]/N 	 1 	 system a
+19 	 18 	 N/N 	 1 	 system computer
+<\s>
+<s id="wsj_2058.6"> 28
+1 	 0 	 NP[nb]/N 	 1 	 intruder The
+1 	 3 	 (NP\NP)/NP 	 1 	 intruder among
+1 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 intruder appeared
+1 	 15 	 (S[b]\NP)/NP 	 1 	 intruder affect <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 broadest among
+5 	 4 	 NP[nb]/N 	 1 	 broadest the
+5 	 6 	 N\N 	 1 	 broadest yet
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 hit to
+11 	 8 	 (S[b]\NP)/NP 	 2 	 network hit
+11 	 9 	 NP[nb]/N 	 1 	 network a
+11 	 10 	 N/N 	 1 	 network research
+14 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to appeared
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 affect to
+20 	 15 	 (S[b]\NP)/NP 	 2 	 hardware affect
+20 	 16 	 N/N 	 1 	 hardware only
+20 	 17 	 N/N 	 1 	 hardware Digital
+20 	 18 	 N/N 	 1 	 hardware Equipment
+20 	 19 	 N/N 	 1 	 hardware Corp.
+20 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 hardware that
+20 	 22 	 (S[dcl]\NP)/NP 	 1 	 hardware uses <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 uses that
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 Digital 's
+27 	 22 	 (S[dcl]\NP)/NP 	 2 	 system uses
+27 	 24 	 (NP[nb]/N)\NP 	 1 	 system 's
+27 	 25 	 N/N 	 1 	 system VAX\/VMS
+27 	 26 	 N/N 	 1 	 system operating
+<\s>
+<s id="wsj_2058.7"> 30
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 It is
+0 	 2 	 (S[adj]\NP)/PP 	 1 	 It unrelated <XB>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unrelated is
+3 	 2 	 (S[adj]\NP)/PP 	 2 	 to unrelated
+6 	 3 	 PP/NP 	 1 	 virus to
+6 	 4 	 NP[nb]/N 	 1 	 virus the
+6 	 5 	 N/N 	 1 	 virus much-publicized
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 virus that
+6 	 10 	 (S[dcl]\NP)/NP 	 1 	 virus infected <XB>
+9 	 8 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 year last
+10 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 infected that
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 infected year
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 Arpanet infected
+15 	 14 	 (N/N)/(N/N) 	 2 	 larger much
+16 	 10 	 (S[dcl]\NP)/NP 	 2 	 network infected
+16 	 13 	 NP[nb]/N 	 1 	 network a
+16 	 15 	 N/N 	 1 	 network larger
+16 	 17 	 S[pss]\NP 	 1 	 network used <XB>
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 used by
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 researchers by
+19 	 20 	 (NP\NP)/NP 	 1 	 researchers at
+21 	 20 	 (NP\NP)/NP 	 2 	 universities at
+21 	 27 	 (NP\NP)/NP 	 1 	 universities around
+23 	 20 	 (NP\NP)/NP 	 2 	 laboratories at
+23 	 27 	 (NP\NP)/NP 	 1 	 laboratories around
+26 	 20 	 (NP\NP)/NP 	 2 	 agencies at
+26 	 25 	 N/N 	 1 	 agencies government
+26 	 27 	 (NP\NP)/NP 	 1 	 agencies around
+29 	 27 	 (NP\NP)/NP 	 2 	 world around
+29 	 28 	 NP[nb]/N 	 1 	 world the
+<\s>
+<s id="wsj_2058.8"> 19
+2 	 0 	 (S/S)/NP 	 2 	 lingo In
+2 	 1 	 NP[nb]/N 	 1 	 lingo the
+2 	 3 	 (NP\NP)/NP 	 1 	 lingo of
+5 	 3 	 (NP\NP)/NP 	 2 	 security of
+5 	 4 	 N/N 	 1 	 security computer
+9 	 7 	 NP[nb]/N 	 1 	 intruder the
+9 	 8 	 N/N 	 1 	 intruder NASA
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 intruder is
+10 	 0 	 (S/S)/NP 	 1 	 is In
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 is technically
+10 	 18 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+14 	 10 	 (S[dcl]\NP)/NP 	 2 	 worm is
+14 	 12 	 NP[nb]/N 	 1 	 worm a
+14 	 13 	 N/N 	 1 	 worm computer
+17 	 16 	 N/N 	 1 	 Redmond Mr.
+17 	 18 	 (S[dcl]\S[dcl])\NP 	 2 	 Redmond said
+<\s>
+<s id="wsj_2058.9"> 20
+1 	 0 	 NP[nb]/N 	 1 	 worm A
+1 	 2 	 S[dcl]\NP 	 1 	 worm resides
+1 	 11 	 S[dcl]\NP 	 1 	 worm spreads <XU>
+1 	 13 	 S[ng]\NP 	 1 	 worm boring <XU>
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 resides in
+6 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 system in
+6 	 4 	 NP[nb]/N 	 1 	 system the
+6 	 5 	 N/N 	 1 	 system operating
+6 	 7 	 (NP\NP)/NP 	 1 	 system of
+9 	 7 	 (NP\NP)/NP 	 2 	 computer of
+9 	 8 	 NP[nb]/N 	 1 	 computer a
+11 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 spreads by
+13 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 boring by
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 boring into
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 computers into
+16 	 15 	 N/N 	 1 	 computers other
+16 	 17 	 S[pss]\NP 	 1 	 computers contacted <XB>
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 contacted through
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 networks through
+<\s>
+<s id="wsj_2058.10"> 24
+2 	 0 	 NP[nb]/N 	 1 	 worm The
+2 	 1 	 N/N 	 1 	 worm Galileo
+2 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 worm was
+2 	 5 	 S[pss]\NP 	 1 	 worm hatched <XB>
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 was apparently
+4 	 23 	 (S[dcl]\S[dcl])\NP 	 1 	 was said
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 hatched was
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 hatched on
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 computer on
+8 	 7 	 NP[nb]/N 	 1 	 computer a
+8 	 9 	 (NP\NP)/NP 	 1 	 computer in
+8 	 11 	 S[pss]\NP 	 1 	 computer hooked <XB>
+10 	 9 	 (NP\NP)/NP 	 2 	 France in
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 hooked up
+11 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 hooked to
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 NASA 's
+19 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Network to
+19 	 15 	 (NP[nb]/N)\NP 	 1 	 Network 's
+19 	 16 	 N/N 	 1 	 Network Space
+19 	 17 	 N/N 	 1 	 Network Physics
+19 	 18 	 N/N 	 1 	 Network Analysis
+22 	 21 	 N/N 	 1 	 Redmond Mr.
+22 	 23 	 (S[dcl]\S[dcl])\NP 	 2 	 Redmond said
+<\s>
+<s id="wsj_2058.11"> 26
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 NASA said
+4 	 2 	 NP[nb]/N 	 1 	 worm the
+4 	 3 	 N/N 	 1 	 worm Galileo
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 worm had
+4 	 7 	 (S[pt]\NP)/NP 	 1 	 worm affected <XB>
+5 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 had n't
+7 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 affected had
+7 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 affected because
+9 	 7 	 (S[pt]\NP)/NP 	 2 	 computers affected
+9 	 8 	 NP[nb]/N 	 1 	 computers its
+12 	 7 	 (S[pt]\NP)/NP 	 2 	 computers affected
+12 	 11 	 NP[nb]/N 	 1 	 computers the
+12 	 13 	 (NP\NP)/NP 	 1 	 computers of
+16 	 13 	 (NP\NP)/NP 	 2 	 agencies of
+16 	 14 	 N/N 	 1 	 agencies other
+16 	 15 	 N/N 	 1 	 agencies government
+18 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 they had
+18 	 20 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 1 	 they modified <XB>
+19 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 had because
+20 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 modified had
+22 	 20 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 3 	 systems modified
+22 	 21 	 NP[nb]/N 	 1 	 systems their
+22 	 24 	 (S[b]\NP)/NP 	 1 	 systems reject <XB>
+23 	 20 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 2 	 to modified
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reject to
+25 	 24 	 (S[b]\NP)/NP 	 2 	 worms reject
+<\s>
+<s id="wsj_2058.12"> 16
+2 	 1 	 N/N 	 1 	 Redmond Mr.
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Redmond said
+3 	 0 	 S/S 	 1 	 said But
+5 	 4 	 NP[nb]/N 	 1 	 worm the
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 worm hit
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 hit said
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 universities hit
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 universities that
+7 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 universities had <XB>
+7 	 11 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 universities elected <XB>
+7 	 13 	 (S[b]\NP)/NP 	 1 	 universities make <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had that
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 had n't
+11 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 elected had
+12 	 11 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to elected
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+15 	 13 	 (S[b]\NP)/NP 	 2 	 changes make
+15 	 14 	 NP[nb]/N 	 1 	 changes the
+<\s>
+<s id="wsj_2058.13"> 43
+1 	 0 	 N/N 	 1 	 Alexander Michael
+1 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 Alexander said
+5 	 3 	 NP[nb]/N 	 1 	 editor a
+5 	 4 	 N/N 	 1 	 editor senior
+5 	 6 	 (NP\NP)/NP 	 1 	 editor at
+5 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 editor said
+7 	 6 	 (NP\NP)/NP 	 2 	 Computerworld at
+11 	 6 	 (NP\NP)/NP 	 2 	 publication at
+11 	 9 	 NP[nb]/N 	 1 	 publication a
+11 	 10 	 N/N 	 1 	 publication trade
+14 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 he was
+14 	 16 	 (S[pss]\NP)/S[em] 	 1 	 he told <XB>
+15 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+16 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 told was
+17 	 16 	 (S[pss]\NP)/S[em] 	 2 	 that told
+19 	 18 	 NP[nb]/N 	 1 	 worm the
+19 	 20 	 (S[dcl]\NP)/PP 	 1 	 worm gets
+19 	 26 	 (S[ng]\NP)/PP 	 1 	 worm looking <XB>
+20 	 17 	 S[em]/S[dcl] 	 1 	 gets that
+20 	 25 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 gets by
+21 	 20 	 (S[dcl]\NP)/PP 	 2 	 into gets
+24 	 21 	 PP/NP 	 1 	 center into
+24 	 22 	 NP[nb]/N 	 1 	 center a
+24 	 23 	 N/N 	 1 	 center computer
+26 	 25 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 looking by
+27 	 26 	 (S[ng]\NP)/PP 	 2 	 for looking
+29 	 27 	 PP/NP 	 1 	 passwords for
+29 	 28 	 N/N 	 1 	 passwords obvious
+29 	 32 	 (NP\NP)/NP 	 1 	 passwords as
+32 	 31 	 (NP\NP)/(NP\NP) 	 2 	 as such
+33 	 32 	 (NP\NP)/NP 	 2 	 ones as
+33 	 34 	 (NP\NP)/(S[dcl]\NP) 	 1 	 ones that
+33 	 35 	 (S[dcl]\NP)/NP 	 1 	 ones are <XB>
+35 	 34 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+37 	 35 	 (S[dcl]\NP)/NP 	 2 	 same are
+37 	 36 	 NP[nb]/N 	 1 	 same the
+37 	 38 	 (N\N)/NP 	 1 	 same as
+40 	 39 	 NP[nb]/N 	 1 	 user the
+40 	 41 	 (NP[nb]/N)\NP 	 2 	 user 's
+42 	 38 	 (N\N)/NP 	 2 	 name as
+42 	 41 	 (NP[nb]/N)\NP 	 1 	 name 's
+<\s>
+<s id="wsj_2058.14"> 28
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 it finds
+1 	 5 	 (S[dcl]\NP)/PP 	 1 	 it gets <XU>
+2 	 0 	 (S/S)/S[dcl] 	 2 	 finds If
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 one finds
+5 	 0 	 (S/S)/S[dcl] 	 2 	 gets If
+6 	 5 	 (S[dcl]\NP)/PP 	 2 	 into gets
+8 	 6 	 PP/NP 	 1 	 system into
+8 	 7 	 NP[nb]/N 	 1 	 system the
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+10 	 12 	 (S[b]\NP)/NP 	 1 	 it display <XB>
+10 	 21 	 S[dcl]\NP 	 1 	 it says <XB>
+11 	 0 	 (S/S)/S[dcl] 	 1 	 will If
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 display will
+12 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 display when
+12 	 20 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 display that
+14 	 12 	 (S[b]\NP)/NP 	 2 	 screen display
+14 	 13 	 NP[nb]/N 	 1 	 screen a
+17 	 16 	 NP[nb]/N 	 1 	 user a
+17 	 18 	 S[dcl]\NP 	 1 	 user logs
+18 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 logs when
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 logs on
+21 	 20 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 says that
+23 	 24 	 (NP\NP)/NP 	 1 	 Worms Against
+26 	 24 	 (NP\NP)/NP 	 2 	 Killers Against
+26 	 25 	 N/N 	 1 	 Killers Nuclear
+<\s>
+<s id="wsj_2058.15"> 14
+0 	 1 	 S[dcl]\NP 	 1 	 You talk
+0 	 11 	 (S[dcl]\NP)/PP 	 1 	 You prepare <XU>
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 talk of
+3 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 times of
+3 	 4 	 (NP\NP)/NP 	 1 	 times of
+5 	 4 	 (NP\NP)/NP 	 2 	 peace of
+5 	 6 	 (NP\NP)/NP 	 1 	 peace for
+7 	 6 	 (NP\NP)/NP 	 2 	 all for
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 prepare then
+12 	 11 	 (S[dcl]\NP)/PP 	 2 	 for prepare
+13 	 12 	 PP/NP 	 1 	 war for
+<\s>
+<s id="wsj_2058.16"> 35
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+4 	 3 	 N/N 	 1 	 Alexander Mr.
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Alexander said
+8 	 7 	 NP[nb]/N 	 1 	 worm the
+8 	 9 	 ((S[dcl]\NP)/PP)/NP 	 1 	 worm sends
+8 	 24 	 ((S[dcl]\NP)\NP)/NP 	 1 	 worm was <XB>
+8 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 worm Do <XU>
+8 	 31 	 (S[b]\NP)/NP 	 1 	 worm feed <XU>
+9 	 0 	 (S/S)/NP 	 1 	 sends In
+9 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 sends said <XU>
+9 	 20 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 sends as
+11 	 9 	 ((S[dcl]\NP)/PP)/NP 	 3 	 messages sends
+11 	 10 	 N/N 	 1 	 messages strange
+12 	 9 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to sends
+14 	 12 	 PP/NP 	 1 	 machines to
+14 	 13 	 N/N 	 1 	 machines other
+14 	 15 	 (NP\NP)/NP 	 1 	 machines at
+17 	 15 	 (NP\NP)/NP 	 2 	 center at
+17 	 16 	 NP[nb]/N 	 1 	 center the
+20 	 18 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 as --
+20 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 as such
+23 	 22 	 N/N 	 1 	 Orwell George
+23 	 24 	 ((S[dcl]\NP)\NP)/NP 	 2 	 Orwell was
+24 	 20 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 was as
+26 	 24 	 ((S[dcl]\NP)\NP)/NP 	 3 	 optimist was
+26 	 25 	 NP[nb]/N 	 1 	 optimist an
+29 	 20 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 Do as
+29 	 30 	 (S\NP)\(S\NP) 	 2 	 Do n't
+31 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 feed Do
+31 	 34 	 (S\NP)\(S\NP) 	 2 	 feed tonight
+33 	 31 	 (S[b]\NP)/NP 	 2 	 bats feed
+33 	 32 	 NP[nb]/N 	 1 	 bats the
+<\s>
+<s id="wsj_2058.17"> 14
+1 	 0 	 NP[nb]/N 	 1 	 worm The
+1 	 3 	 (S[dcl]\NP)/PP 	 1 	 worm looks
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 looks also
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 for looks
+6 	 4 	 PP/NP 	 1 	 passwords for
+6 	 5 	 N/N 	 1 	 passwords elementary
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 passwords that
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 passwords confer <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 confer that
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 confer on
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 privileges confer
+10 	 9 	 N/N 	 1 	 privileges more
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 user on
+13 	 12 	 NP[nb]/N 	 1 	 user the
+<\s>
+<s id="wsj_2058.18"> 27
+1 	 0 	 NP[nb]/N 	 1 	 passwords The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 passwords are
+1 	 3 	 S[pss]\NP 	 1 	 passwords included <XB>
+1 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 passwords are <XU>
+1 	 14 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 passwords supposed <XU>
+1 	 17 	 S[pss]\NP 	 1 	 passwords replaced <XU>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 included are
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 included in
+3 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 included when
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 software in
+7 	 5 	 NP[nb]/N 	 1 	 software the
+7 	 6 	 N/N 	 1 	 software system
+9 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 it is
+9 	 11 	 S[pss]\NP 	 1 	 it installed <XB>
+10 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is when
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 installed is
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 supposed are
+15 	 14 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to supposed
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+17 	 16 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 replaced be
+17 	 19 	 (S\NP)\(S\NP) 	 2 	 replaced soon
+19 	 18 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 soon as
+19 	 20 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 3 	 soon as
+22 	 21 	 NP[nb]/N 	 1 	 system the
+22 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 system is
+22 	 24 	 S[adj]\NP 	 1 	 system up <XB>
+22 	 26 	 S[ng]\NP 	 1 	 system running <XU>
+23 	 20 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 4 	 is as
+24 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 up is
+26 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 running is
+<\s>
+<s id="wsj_2058.19"> 38
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 it finds
+2 	 0 	 (S/S)/S[dcl] 	 2 	 finds If
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 one finds
+3 	 4 	 (NP\NP)/NP 	 1 	 one of
+6 	 4 	 (NP\NP)/NP 	 2 	 passwords of
+6 	 5 	 NP[nb]/N 	 1 	 passwords those
+9 	 8 	 N/N 	 1 	 Alexander Mr.
+9 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 Alexander said
+13 	 12 	 NP[nb]/N 	 1 	 worm the
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 worm will
+13 	 15 	 (S[b]\NP)/NP 	 1 	 worm do <XB>
+14 	 0 	 (S/S)/S[dcl] 	 1 	 will If
+14 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said <XU>
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 do will
+17 	 15 	 (S[b]\NP)/NP 	 2 	 things do
+17 	 16 	 NP/NP 	 1 	 things such
+17 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 things as
+17 	 19 	 ((S[dcl]\NP)/PP)/NP 	 1 	 things change <XB>
+17 	 30 	 ((S[ng]\NP)/PP)/NP 	 1 	 things preventing <XB>
+19 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 change as
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 users '
+22 	 19 	 ((S[dcl]\NP)/PP)/NP 	 3 	 passwords change
+22 	 21 	 (NP[nb]/N)\NP 	 1 	 passwords '
+23 	 19 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to change
+25 	 23 	 PP/NP 	 1 	 series to
+25 	 24 	 NP[nb]/N 	 1 	 series a
+25 	 26 	 (NP\NP)/NP 	 1 	 series of
+28 	 26 	 (NP\NP)/NP 	 2 	 numbers of
+28 	 27 	 N/N 	 1 	 numbers random
+31 	 30 	 ((S[ng]\NP)/PP)/NP 	 3 	 them preventing
+32 	 30 	 ((S[ng]\NP)/PP)/NP 	 2 	 from preventing
+33 	 32 	 PP/(S[ng]\NP) 	 1 	 signing from
+33 	 34 	 (S\NP)\(S\NP) 	 2 	 signing on
+33 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 signing to
+37 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 network to
+37 	 36 	 NP[nb]/N 	 1 	 network the
+<\s>
+<s id="wsj_2058.20"> 13
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 NASA estimated
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that estimated
+5 	 4 	 (S/S)/NP 	 2 	 Monday on
+10 	 7 	 N/N 	 1 	 centers about
+10 	 8 	 N/N 	 1 	 centers four
+10 	 9 	 N/N 	 1 	 centers computer
+10 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 centers were
+10 	 12 	 S[pss]\NP 	 1 	 centers affected <XB>
+11 	 2 	 S[em]/S[dcl] 	 1 	 were that
+11 	 4 	 (S/S)/NP 	 1 	 were on
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 affected were
+<\s>
+<s id="wsj_2058.21"> 17
+3 	 2 	 NP[nb]/N 	 1 	 number the
+3 	 4 	 S[dcl]\NP 	 1 	 number grew
+4 	 0 	 S/S 	 1 	 grew Yesterday
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 grew to
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 40 to
+10 	 9 	 NP[nb]/N 	 1 	 number the
+10 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 number is
+10 	 12 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 number expected <XB>
+10 	 14 	 S[b]\NP 	 1 	 number grow <XB>
+11 	 8 	 S/S 	 1 	 is today
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+13 	 12 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 grow to
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 grow to
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 100 to
+<\s>
+<s id="wsj_2058.22"> 32
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 NASA said
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+2 	 4 	 (S[b]\NP)/NP 	 1 	 it take <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take will
+4 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 take before
+7 	 4 	 (S[b]\NP)/NP 	 2 	 week take
+7 	 5 	 NP/NP 	 1 	 week about
+7 	 6 	 NP[nb]/N 	 1 	 week a
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 it knows
+10 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 knows before
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 how knows
+12 	 11 	 NP/NP 	 1 	 how exactly
+12 	 16 	 ((NP\NP)\((NP\NP)/NP))/N 	 1 	 how the
+14 	 12 	 (NP/(S[dcl]\NP))/N 	 2 	 centers how
+14 	 13 	 N/N 	 1 	 centers many
+14 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 centers were <XB>
+14 	 22 	 S[pss]\NP 	 1 	 centers affected <XB>
+15 	 16 	 ((NP\NP)\((NP\NP)/NP))/N 	 2 	 of the
+17 	 16 	 ((NP\NP)\((NP\NP)/NP))/N 	 3 	 6,000 the
+19 	 18 	 (S[pss]\NP)/PP 	 2 	 to connected
+20 	 19 	 PP/NP 	 1 	 Internet to
+21 	 12 	 (NP/(S[dcl]\NP))/N 	 1 	 were how
+22 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 affected were
+25 	 10 	 (S[dcl]\NP)/NP 	 2 	 extent knows
+25 	 24 	 NP[nb]/N 	 1 	 extent the
+25 	 26 	 (NP\NP)/NP 	 1 	 extent of
+25 	 30 	 (NP\NP)/NP 	 1 	 extent if
+28 	 26 	 (NP\NP)/NP 	 2 	 damage of
+28 	 27 	 NP[nb]/N 	 1 	 damage the
+31 	 30 	 (NP\NP)/NP 	 2 	 any if
+<\s>
+<s id="wsj_2058.23"> 26
+1 	 0 	 N/N 	 1 	 activists Anti-nuclear
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 activists have
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 activists protested <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 protested have
+3 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 protested because
+5 	 3 	 (S[pt]\NP)/NP 	 2 	 launch protested
+5 	 4 	 NP[nb]/N 	 1 	 launch the
+5 	 6 	 (NP\NP)/NP 	 1 	 launch of
+5 	 11 	 (NP\NP)/NP 	 1 	 launch to
+10 	 6 	 (NP\NP)/NP 	 2 	 probe of
+10 	 7 	 NP[nb]/N 	 1 	 probe the
+10 	 8 	 N/N 	 1 	 probe Galileo
+10 	 9 	 N/N 	 1 	 probe space
+12 	 11 	 (NP\NP)/NP 	 2 	 Jupiter to
+14 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it uses
+15 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 uses because
+16 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 plutonium uses
+16 	 18 	 (S[b]\NP)/NP 	 1 	 plutonium generate <XB>
+17 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to uses
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 generate to
+20 	 18 	 (S[b]\NP)/NP 	 2 	 electricity generate
+20 	 19 	 NP[nb]/N 	 1 	 electricity the
+20 	 21 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 electricity needed <XB>
+20 	 23 	 (S[b]\NP)/NP 	 1 	 electricity run <XB>
+22 	 21 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to needed
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 run to
+25 	 23 	 (S[b]\NP)/NP 	 2 	 craft run
+25 	 24 	 NP[nb]/N 	 1 	 craft the
+<\s>
+<s id="wsj_2058.24"> 42
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Activists fear
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that fear
+5 	 4 	 NP[nb]/N 	 1 	 shuttle the
+5 	 6 	 (S[ng]\NP)/NP 	 1 	 shuttle carrying <XB>
+5 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 shuttle should
+5 	 11 	 S[b]\NP 	 1 	 shuttle explode <XB>
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 carrying into
+7 	 6 	 (S[ng]\NP)/NP 	 2 	 Galileo carrying
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 orbit into
+10 	 3 	 (S/S)/S[dcl] 	 2 	 should if
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 explode should
+15 	 16 	 N\N 	 1 	 Galileo itself
+15 	 17 	 S[dcl]\NP 	 1 	 Galileo crashes
+17 	 14 	 (S/S)/S[dcl] 	 2 	 crashes if
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 crashes into
+17 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 crashes during
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 Earth into
+20 	 19 	 NP[nb]/N 	 1 	 Earth the
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 times during
+24 	 22 	 NP[nb]/N 	 1 	 times the
+24 	 23 	 N/N 	 1 	 times two
+24 	 26 	 (NP\NP)\NP 	 1 	 times flies
+25 	 26 	 (NP\NP)\NP 	 2 	 it flies
+26 	 27 	 ((NP\NP)\(NP\NP))/PP 	 2 	 flies close
+28 	 27 	 ((NP\NP)\(NP\NP))/PP 	 3 	 to close
+30 	 28 	 PP/NP 	 1 	 planet to
+30 	 29 	 NP[nb]/N 	 1 	 planet the
+33 	 32 	 N/N 	 1 	 levels fatal
+33 	 34 	 (NP\NP)/NP 	 1 	 levels of
+33 	 36 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 levels would
+33 	 38 	 S[pss]\NP 	 1 	 levels released <XB>
+35 	 34 	 (NP\NP)/NP 	 2 	 plutonium of
+36 	 2 	 S[em]/S[dcl] 	 1 	 would that
+36 	 3 	 (S/S)/S[dcl] 	 1 	 would if <XU>
+36 	 14 	 (S/S)/S[dcl] 	 1 	 would if
+37 	 36 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+38 	 37 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 released be
+38 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 released into
+41 	 39 	 ((S\NP)\(S\NP))/NP 	 3 	 atmosphere into
+41 	 40 	 NP[nb]/N 	 1 	 atmosphere the
+<\s>
+<s id="wsj_2058.25"> 26
+1 	 0 	 (S/S)/(S/S) 	 2 	 far So
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Galileo has
+2 	 5 	 S[pss]\NP 	 1 	 Galileo delayed <XB>
+3 	 1 	 S/S 	 1 	 has far
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+5 	 4 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 delayed been
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 delayed twice
+5 	 8 	 (S\NP)\(S\NP) 	 2 	 delayed once
+5 	 9 	 ((S\NP)\(S\NP))/PP 	 2 	 delayed because
+5 	 21 	 (S\NP)\(S\NP) 	 2 	 delayed yesterday <XU>
+5 	 22 	 ((S\NP)\(S\NP))/PP 	 2 	 delayed because <XU>
+10 	 9 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+13 	 10 	 PP/NP 	 1 	 malfunction of
+13 	 11 	 NP[nb]/N 	 1 	 malfunction a
+13 	 12 	 N/N 	 1 	 malfunction computer
+13 	 14 	 (S[pss]\NP)/PP 	 1 	 malfunction connected <XB>
+15 	 14 	 (S[pss]\NP)/PP 	 2 	 with connected
+18 	 15 	 PP/NP 	 1 	 engine with
+18 	 16 	 NP[nb]/N 	 1 	 engine a
+18 	 17 	 N/N 	 1 	 engine space-shuttle
+23 	 22 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+25 	 23 	 PP/NP 	 1 	 weather of
+25 	 24 	 NP[nb]/N 	 1 	 weather the
+<\s>
+<s id="wsj_2058.26"> 12
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 NASA said
+4 	 2 	 NP[nb]/N 	 1 	 worm the
+4 	 3 	 N/N 	 1 	 worm Galileo
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 worm had
+5 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 nothing had
+6 	 8 	 ((S[b]\NP)/PP)/NP 	 3 	 nothing do <XU>
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+9 	 8 	 ((S[b]\NP)/PP)/NP 	 2 	 with do
+11 	 9 	 PP/NP 	 1 	 delay with
+11 	 10 	 NP[nb]/N 	 1 	 delay either
+<\s>
+<s id="wsj_2058.27"> 11
+1 	 0 	 N/N 	 1 	 Alexander Mr.
+1 	 2 	 (NP\NP)/NP 	 1 	 Alexander of
+1 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Alexander said
+3 	 2 	 (NP\NP)/NP 	 2 	 Computerworld of
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 hackers have
+5 	 7 	 S[pt]\NP 	 1 	 hackers gone <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 have said
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 gone have
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 gone after
+7 	 10 	 (S\NP)\(S\NP) 	 2 	 gone before
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 SPAN after
+<\s>
+<s id="wsj_2058.28"> 31
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+5 	 2 	 NP[nb]/N 	 1 	 Club the
+5 	 3 	 N/N 	 1 	 Club Chaos
+5 	 4 	 N/N 	 1 	 Club Computer
+5 	 7 	 (NP\NP)/NP 	 1 	 Club of
+5 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Club managed
+5 	 14 	 (S[b]\NP)/NP 	 1 	 Club invade <XB>
+5 	 17 	 (S[b]\NP)/NP 	 1 	 Club do <XU>
+9 	 7 	 (NP\NP)/NP 	 2 	 Germany of
+9 	 8 	 N/N 	 1 	 Germany West
+12 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 managed said
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 managed once
+13 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to managed
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 invade to
+15 	 14 	 (S[b]\NP)/NP 	 2 	 SPAN invade
+17 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+19 	 17 	 (S[b]\NP)/NP 	 2 	 things do
+19 	 18 	 NP/NP 	 1 	 things such
+19 	 20 	 (NP\NP)/(S[b]\NP) 	 1 	 things as
+19 	 21 	 (S[b]\NP)/NP 	 1 	 things change <XB>
+19 	 27 	 (S[ng]\NP)/NP 	 1 	 things messing <XB>
+21 	 20 	 (NP\NP)/(S[b]\NP) 	 2 	 change as
+23 	 21 	 (S[b]\NP)/NP 	 2 	 value change
+23 	 22 	 NP[nb]/N 	 1 	 value the
+23 	 24 	 (NP\NP)/NP 	 1 	 value of
+25 	 24 	 (NP\NP)/NP 	 2 	 pi of
+27 	 28 	 (S\NP)\(S\NP) 	 2 	 messing up
+30 	 27 	 (S[ng]\NP)/NP 	 2 	 calculations messing
+30 	 29 	 NP[nb]/N 	 1 	 calculations some
+<\s>

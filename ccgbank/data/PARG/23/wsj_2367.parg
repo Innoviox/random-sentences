@@ -1,0 +1,417 @@
+<s id="wsj_2367.1"> 7
+3 	 0 	 NP[nb]/N 	 1 	 suburb This
+3 	 1 	 N/N 	 1 	 suburb small
+3 	 2 	 N/N 	 1 	 suburb Dallas
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 suburb 's
+3 	 5 	 (S[pt]\NP)/NP 	 1 	 suburb got <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 got 's
+6 	 5 	 (S[pt]\NP)/NP 	 2 	 trouble got
+<\s>
+<s id="wsj_2367.2"> 15
+0 	 1 	 ((S/S)\(S/S))/NP 	 2 	 Trouble with
+4 	 1 	 ((S/S)\(S/S))/NP 	 3 	 T with
+4 	 2 	 NP[nb]/N 	 1 	 T a
+4 	 3 	 N/N 	 1 	 T capital
+6 	 7 	 (S[dcl]\NP)/PP 	 1 	 that rhymes
+7 	 0 	 S/S 	 1 	 rhymes Trouble
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 with rhymes
+9 	 8 	 PP/NP 	 1 	 P with
+11 	 12 	 (S[dcl]\NP)/PP 	 1 	 that stands
+12 	 0 	 S/S 	 1 	 stands Trouble
+13 	 12 	 (S[dcl]\NP)/PP 	 2 	 for stands
+14 	 13 	 PP/NP 	 1 	 pool for
+<\s>
+<s id="wsj_2367.3"> 33
+0 	 1 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 More than
+2 	 1 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 30 than
+3 	 2 	 N/N 	 1 	 years 30
+3 	 4 	 (S/S)\NP 	 2 	 years ago
+8 	 6 	 N/N 	 1 	 Hill Prof.
+8 	 7 	 N/N 	 1 	 Hill Harold
+8 	 21 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Hill warned
+12 	 10 	 NP[nb]/N 	 1 	 man the
+12 	 11 	 N/N 	 1 	 man con
+12 	 13 	 (NP\NP)/NP 	 1 	 man in
+12 	 21 	 ((S[dcl]\NP)/PP)/NP 	 1 	 man warned
+15 	 14 	 N/N 	 1 	 Willson Meredith
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Willson 's
+19 	 13 	 (NP\NP)/NP 	 2 	 Man in
+19 	 16 	 (NP[nb]/N)\NP 	 1 	 Man 's
+19 	 17 	 N/N 	 1 	 Man The
+19 	 18 	 N/N 	 1 	 Man Music
+21 	 4 	 (S/S)\NP 	 1 	 warned ago
+23 	 21 	 ((S[dcl]\NP)/PP)/NP 	 3 	 citizens warned
+23 	 22 	 NP[nb]/N 	 1 	 citizens the
+23 	 24 	 (NP\NP)/NP 	 1 	 citizens of
+26 	 24 	 (NP\NP)/NP 	 2 	 City of
+26 	 25 	 N/N 	 1 	 City River
+28 	 24 	 (NP\NP)/NP 	 2 	 Iowa of
+30 	 21 	 ((S[dcl]\NP)/PP)/NP 	 2 	 against warned
+32 	 30 	 PP/NP 	 1 	 game against
+32 	 31 	 NP[nb]/N 	 1 	 game the
+<\s>
+<s id="wsj_2367.4"> 30
+2 	 1 	 N/N 	 1 	 spirits kindred
+2 	 3 	 (NP\NP)/NP 	 1 	 spirits on
+2 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 spirits have
+2 	 9 	 ((S[pt]\NP)/PP)/NP 	 1 	 spirits barred <XB>
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Addison 's
+7 	 3 	 (NP\NP)/NP 	 2 	 council on
+7 	 5 	 (NP[nb]/N)\NP 	 1 	 council 's
+7 	 6 	 N/N 	 1 	 council town
+8 	 0 	 S/S 	 1 	 have Now
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 barred have
+11 	 10 	 NP[nb]/N 	 1 	 town the
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 town 's
+14 	 9 	 ((S[pt]\NP)/PP)/NP 	 3 	 hotel barred
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 hotel 's
+14 	 13 	 N/N 	 1 	 hotel fanciest
+18 	 9 	 ((S[pt]\NP)/PP)/NP 	 3 	 Kempinski barred
+18 	 16 	 NP[nb]/N 	 1 	 Kempinski the
+18 	 17 	 N/N 	 1 	 Kempinski Grand
+20 	 9 	 ((S[pt]\NP)/PP)/NP 	 2 	 from barred
+21 	 20 	 PP/(S[ng]\NP) 	 1 	 installing from
+21 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 installing in
+25 	 21 	 (S[ng]\NP)/NP 	 2 	 tables installing
+25 	 22 	 N/N 	 1 	 tables three
+25 	 23 	 N/N 	 1 	 tables free
+25 	 24 	 N/N 	 1 	 tables pool
+29 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 lounge in
+29 	 27 	 NP[nb]/N 	 1 	 lounge its
+29 	 28 	 N/N 	 1 	 lounge new
+<\s>
+<s id="wsj_2367.5"> 27
+2 	 0 	 N/N 	 1 	 Spruill Mayor
+2 	 1 	 N/N 	 1 	 Spruill Lynn
+2 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Spruill said
+5 	 4 	 N/N 	 1 	 members two
+5 	 6 	 (NP\NP)/NP 	 1 	 members of
+5 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 members said
+8 	 6 	 (NP\NP)/NP 	 2 	 council of
+8 	 7 	 NP[nb]/N 	 1 	 council the
+10 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they were
+10 	 12 	 (S[adj]\NP)/PP 	 1 	 they worried <XB>
+11 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+12 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 worried were
+13 	 12 	 (S[adj]\NP)/PP 	 2 	 about worried
+14 	 13 	 PP/(S[ng]\NP) 	 1 	 setting about
+16 	 14 	 (S[ng]\NP)/NP 	 2 	 precedent setting
+16 	 15 	 NP[nb]/N 	 1 	 precedent a
+16 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 precedent that
+16 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 precedent would <XB>
+16 	 19 	 (S[b]\NP)/NP 	 1 	 precedent permit <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 permit would
+19 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 permit along
+21 	 19 	 (S[b]\NP)/NP 	 2 	 halls permit
+21 	 20 	 N/N 	 1 	 halls pool
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 Addison 's
+26 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 street along
+26 	 24 	 (NP[nb]/N)\NP 	 1 	 street 's
+26 	 25 	 N/N 	 1 	 street main
+<\s>
+<s id="wsj_2367.6"> 28
+2 	 1 	 NP[nb]/N 	 1 	 mayor the
+2 	 17 	 (S[dcl]\NP)/S[em] 	 1 	 mayor warned
+6 	 4 	 ((S\NP)/(S\NP))/NP 	 3 	 admonition in
+6 	 5 	 NP[nb]/N 	 1 	 admonition an
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 admonition that
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 admonition bears <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 bears that
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 resemblance bears
+11 	 9 	 NP[nb]/N 	 1 	 resemblance a
+11 	 10 	 N/N 	 1 	 resemblance rhythmic
+11 	 12 	 (NP\NP)/NP 	 1 	 resemblance to
+15 	 12 	 (NP\NP)/NP 	 2 	 's to
+15 	 13 	 N/N 	 1 	 's Prof.
+15 	 14 	 N/N 	 1 	 's Hill
+17 	 0 	 S/S 	 1 	 warned And
+17 	 4 	 ((S\NP)/(S\NP))/NP 	 2 	 warned in
+18 	 17 	 (S[dcl]\NP)/S[em] 	 2 	 that warned
+19 	 20 	 S[dcl]\NP 	 1 	 alcohol leads
+20 	 18 	 S[em]/S[dcl] 	 1 	 leads that
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 leads to
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 betting to
+22 	 24 	 (NP\NP)/(S[dcl]\NP) 	 1 	 betting which
+22 	 25 	 S[dcl]\NP 	 1 	 betting leads <XB>
+25 	 24 	 (NP\NP)/(S[dcl]\NP) 	 2 	 leads which
+25 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 leads to
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 fights to
+<\s>
+<s id="wsj_2367.7"> 21
+1 	 0 	 NP[nb]/N 	 1 	 council The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 council 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 action 's
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 action is
+6 	 5 	 (N/N)/(N/N) 	 2 	 another yet
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 blow is
+7 	 6 	 N/N 	 1 	 blow another
+7 	 8 	 (NP\NP)/NP 	 1 	 blow to
+10 	 8 	 (NP\NP)/NP 	 2 	 sport to
+10 	 9 	 NP[nb]/N 	 1 	 sport a
+10 	 11 	 (NP\NP)/(S[dcl]/NP) 	 1 	 sport that
+10 	 14 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 2 	 sport claim <XU>
+10 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 sport has <XU>
+10 	 17 	 S[pss]\NP 	 1 	 sport maligned <XU>
+13 	 12 	 NP[nb]/N 	 1 	 fans its
+13 	 14 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 1 	 fans claim
+14 	 11 	 (NP\NP)/(S[dcl]/NP) 	 2 	 claim that
+15 	 14 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 3 	 has claim
+16 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+17 	 16 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 maligned been
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 maligned unjustly
+17 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 maligned for
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+<\s>
+<s id="wsj_2367.8"> 24
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 they 're
+2 	 0 	 S/S 	 1 	 're Obviously
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 're not
+2 	 12 	 (S[dcl]\S[dcl])/NP 	 1 	 're says
+4 	 2 	 (S[dcl]\NP)/PP 	 2 	 in 're
+5 	 4 	 PP/NP 	 1 	 touch in
+5 	 6 	 (NP\NP)/NP 	 1 	 touch with
+7 	 6 	 (NP\NP)/NP 	 2 	 what with
+7 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 what 's <XB>
+7 	 9 	 S[ng]\NP 	 1 	 what going <XB>
+8 	 7 	 NP/(S[dcl]\NP) 	 1 	 's what
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going 's
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 going on
+14 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 Manske says
+14 	 13 	 N/N 	 1 	 Manske Tom
+17 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+17 	 16 	 N/N 	 1 	 president vice
+17 	 18 	 (NP\NP)/NP 	 1 	 president of
+23 	 18 	 (NP\NP)/NP 	 2 	 Association of
+23 	 19 	 NP[nb]/N 	 1 	 Association the
+23 	 20 	 N/N 	 1 	 Association National
+23 	 21 	 N/N 	 1 	 Association Pocket
+23 	 22 	 N/N 	 1 	 Association Billiards
+<\s>
+<s id="wsj_2367.9"> 20
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Pool is
+0 	 2 	 S[adj]\NP 	 1 	 Pool hot <XB>
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 is in
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 hot is
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 York in
+5 	 4 	 N/N 	 1 	 York New
+5 	 12 	 (NP\NP)/S[dcl] 	 1 	 York where
+7 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Chicago in
+7 	 12 	 (NP\NP)/S[dcl] 	 1 	 Chicago where
+9 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 he insists
+16 	 13 	 N/N 	 1 	 places upscale
+16 	 15 	 N/N 	 1 	 places suit-and-tie
+16 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 places are
+16 	 18 	 (S[ng]\NP)/NP 	 1 	 places adding <XB>
+17 	 12 	 (NP\NP)/S[dcl] 	 2 	 are where
+18 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 adding are
+19 	 18 	 (S[ng]\NP)/NP 	 2 	 tables adding
+<\s>
+<s id="wsj_2367.10"> 21
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 today 's
+6 	 0 	 (S/S)/NP 	 2 	 laws With
+6 	 2 	 (NP[nb]/N)\NP 	 1 	 laws 's
+6 	 3 	 N/N 	 1 	 laws tougher
+6 	 4 	 N/N 	 1 	 laws drunk
+6 	 5 	 N/N 	 1 	 laws driving
+8 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 he adds
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 people do
+11 	 14 	 (S[b]\NP)/(S[to]\NP) 	 1 	 people want <XB>
+11 	 17 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 people sit <XB>
+11 	 18 	 S[adj]\NP 	 1 	 people around <XB>
+11 	 20 	 S[b]\NP 	 1 	 people drink <XU>
+12 	 0 	 (S/S)/NP 	 1 	 do With
+12 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 do adds <XU>
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 do n't
+14 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 want do
+15 	 14 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to want
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 to just
+17 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sit to
+18 	 17 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 around sit
+20 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 drink to
+<\s>
+<s id="wsj_2367.11"> 29
+3 	 2 	 N/N 	 1 	 behavior rowdy
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 behavior seems
+3 	 5 	 S[adj]\NP 	 1 	 behavior unlikely <XB>
+4 	 0 	 S/S 	 1 	 seems Besides
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 seems at
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unlikely seems
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Kempinski at
+9 	 7 	 NP[nb]/N 	 1 	 Kempinski the
+9 	 8 	 N/N 	 1 	 Kempinski Grand
+9 	 11 	 (NP\NP)/S[dcl] 	 1 	 Kempinski where
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 rooms average
+13 	 11 	 (NP\NP)/S[dcl] 	 2 	 average where
+14 	 13 	 (S[dcl]\NP)/NP 	 2 	 $ average
+14 	 16 	 (NP\NP)/N 	 1 	 $ a
+15 	 14 	 N/N[num] 	 1 	 200 $
+17 	 16 	 (NP\NP)/N 	 2 	 night a
+22 	 19 	 NP[nb]/N 	 1 	 drinks the
+22 	 20 	 N/N 	 1 	 drinks cheap
+22 	 21 	 N/N 	 1 	 drinks mixed
+22 	 23 	 (S[dcl]\NP)/PP 	 1 	 drinks go
+23 	 11 	 (NP\NP)/S[dcl] 	 2 	 go where
+24 	 23 	 (S[dcl]\NP)/PP 	 2 	 for go
+25 	 24 	 PP/NP 	 1 	 $ for
+25 	 27 	 (NP\NP)/N 	 1 	 $ a
+26 	 25 	 N/N[num] 	 1 	 3.50 $
+28 	 27 	 (NP\NP)/N 	 2 	 pop a
+<\s>
+<s id="wsj_2367.12"> 18
+2 	 0 	 (S/S)/NP 	 2 	 lounge At
+2 	 1 	 NP[nb]/N 	 1 	 lounge the
+6 	 4 	 N/N 	 1 	 Dyer manager
+6 	 5 	 N/N 	 1 	 Dyer Elizabeth
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Dyer wo
+6 	 9 	 (S[b]\NP)/NP 	 1 	 Dyer admit <XB>
+7 	 0 	 (S/S)/NP 	 1 	 wo At
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 wo n't
+9 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 admit wo
+10 	 9 	 (S[b]\NP)/NP 	 2 	 patrons admit
+10 	 11 	 (NP\NP)/NP 	 1 	 patrons in
+12 	 11 	 (NP\NP)/NP 	 2 	 jeans in
+14 	 11 	 (NP\NP)/NP 	 2 	 T-shirts in
+17 	 11 	 (NP\NP)/NP 	 2 	 shoes in
+17 	 16 	 N/N 	 1 	 shoes tennis
+<\s>
+<s id="wsj_2367.13"> 12
+2 	 1 	 NP[nb]/N 	 1 	 majority a
+2 	 3 	 (NP\NP)/NP 	 1 	 majority of
+2 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 majority did
+2 	 9 	 (S[b]\NP)/NP 	 1 	 majority buy <XB>
+6 	 3 	 (NP\NP)/NP 	 2 	 council of
+6 	 4 	 NP[nb]/N 	 1 	 council the
+6 	 5 	 N/N 	 1 	 council Addison
+7 	 0 	 S/S 	 1 	 did But
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 did n't
+9 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 buy did
+11 	 9 	 (S[b]\NP)/NP 	 2 	 arguments buy
+11 	 10 	 NP[nb]/N 	 1 	 arguments those
+<\s>
+<s id="wsj_2367.14"> 11
+0 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Introducing would
+0 	 10 	 S[adj]\NP 	 1 	 Introducing dangerous <XB>
+1 	 0 	 (S[ng]\NP)/NP 	 2 	 pool Introducing
+6 	 3 	 (S[dcl]\S[dcl])/NP 	 2 	 Reinker argued
+6 	 4 	 N/N 	 1 	 Reinker Councilwoman
+6 	 5 	 N/N 	 1 	 Reinker Riley
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+10 	 9 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 dangerous be
+<\s>
+<s id="wsj_2367.15"> 7
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 It would
+0 	 2 	 (S[b]\NP)/NP 	 1 	 It open <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 open would
+4 	 2 	 (S[b]\NP)/NP 	 2 	 can open
+4 	 3 	 NP[nb]/N 	 1 	 can a
+4 	 5 	 (NP\NP)/NP 	 1 	 can of
+6 	 5 	 (NP\NP)/NP 	 2 	 worms of
+<\s>
+<s id="wsj_2367.16"> 10
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Addison is
+1 	 9 	 (S\NP)\(S\NP) 	 2 	 is either
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 stranger is
+3 	 2 	 NP[nb]/N 	 1 	 stranger no
+3 	 4 	 (NP\NP)/NP 	 1 	 stranger to
+5 	 4 	 (NP\NP)/NP 	 2 	 cans to
+5 	 6 	 (NP\NP)/NP 	 1 	 cans of
+7 	 6 	 (NP\NP)/NP 	 2 	 worms of
+<\s>
+<s id="wsj_2367.17"> 39
+3 	 1 	 NP[nb]/N 	 1 	 mayor its
+3 	 2 	 N/N 	 1 	 mayor previous
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 mayor committed
+4 	 0 	 (S/S)/S[dcl] 	 2 	 committed After
+4 	 7 	 (S\NP)\(S\NP) 	 2 	 committed year
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 suicide committed
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year last
+10 	 9 	 NP[nb]/N 	 1 	 investigation an
+10 	 11 	 (S[dcl]\NP)/S[em] 	 1 	 investigation disclosed
+11 	 0 	 (S/S)/S[dcl] 	 1 	 disclosed After
+12 	 11 	 (S[dcl]\NP)/S[em] 	 2 	 that disclosed
+14 	 13 	 N/N 	 1 	 officials town
+14 	 16 	 (S[dcl]\NP)/PP 	 1 	 officials voted
+14 	 22 	 ((S[dcl]\NP)/PP)/NP 	 1 	 officials gave <XU>
+14 	 29 	 S[dcl]\NP 	 1 	 officials dipped <XU>
+16 	 12 	 S[em]/S[dcl] 	 1 	 voted that
+16 	 15 	 (S\NP)/(S\NP) 	 2 	 voted regularly
+17 	 16 	 (S[dcl]\NP)/PP 	 2 	 on voted
+20 	 17 	 PP/NP 	 1 	 projects on
+20 	 18 	 NP[nb]/N 	 1 	 projects their
+20 	 19 	 N/N 	 1 	 projects own
+22 	 12 	 S[em]/S[dcl] 	 1 	 gave that
+22 	 15 	 (S\NP)/(S\NP) 	 2 	 gave regularly
+24 	 22 	 ((S[dcl]\NP)/PP)/NP 	 3 	 favors gave
+24 	 23 	 N/N 	 1 	 favors special
+25 	 22 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to gave
+27 	 25 	 PP/NP 	 1 	 friends to
+27 	 26 	 N/N 	 1 	 friends developer
+29 	 12 	 S[em]/S[dcl] 	 1 	 dipped that
+29 	 15 	 (S\NP)/(S\NP) 	 2 	 dipped regularly
+29 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 dipped into
+29 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 dipped for
+32 	 31 	 NP[nb]/N 	 1 	 town the
+32 	 33 	 (NP[nb]/N)\NP 	 2 	 town 's
+34 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 coffers into
+34 	 33 	 (NP[nb]/N)\NP 	 1 	 coffers 's
+36 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 trips for
+38 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 retreats for
+<\s>
+<s id="wsj_2367.18"> 20
+1 	 0 	 NP[nb]/N 	 1 	 revelations The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 revelations embarrassed
+2 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 embarrassed although
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 officials embarrassed
+4 	 3 	 N/N 	 1 	 officials town
+7 	 8 	 (S[dcl]\NP)/S[em] 	 1 	 they argued
+8 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 argued although
+9 	 8 	 (S[dcl]\NP)/S[em] 	 2 	 that argued
+11 	 10 	 NP[nb]/N 	 1 	 problems the
+11 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 problems were
+11 	 15 	 S[adj]\NP 	 1 	 problems severe <XB>
+12 	 9 	 S[em]/S[dcl] 	 1 	 were that
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 were n't
+15 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 severe were
+15 	 14 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 severe as
+15 	 16 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 2 	 severe as
+18 	 17 	 NP[nb]/N 	 1 	 media the
+18 	 19 	 S[dcl]\NP 	 1 	 media suggested
+19 	 16 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 3 	 suggested as
+<\s>
+<s id="wsj_2367.19"> 5
+1 	 0 	 S/S 	 1 	 comes Now
+4 	 1 	 S[dcl]/NP 	 1 	 flap comes
+4 	 2 	 NP[nb]/N 	 1 	 flap the
+4 	 3 	 N/N 	 1 	 flap pool
+<\s>
+<s id="wsj_2367.20"> 16
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 I think
+1 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 think says
+2 	 3 	 (S[dcl]\NP[thr])/NP 	 1 	 there 's
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 's think
+5 	 3 	 (S[dcl]\NP[thr])/NP 	 2 	 people 's
+5 	 4 	 NP[nb]/N 	 1 	 people some
+5 	 6 	 (S[pss]\NP)/PP 	 1 	 people worried <XB>
+7 	 6 	 (S[pss]\NP)/PP 	 2 	 about worried
+8 	 7 	 PP/NP 	 1 	 something about
+8 	 10 	 S[adj]\NP 	 1 	 something ridiculous <XB>
+10 	 9 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 ridiculous pretty
+14 	 12 	 N/N 	 1 	 Nolan Councilman
+14 	 13 	 N/N 	 1 	 Nolan John
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 Nolan says
+<\s>
+<s id="wsj_2367.21"> 12
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 I thought
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 this was
+2 	 5 	 ((S[pss]\NP)/(PP/NP))/NP 	 1 	 this taken <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 was thought
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 was all
+5 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 taken was
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 taken in
+6 	 5 	 ((S[pss]\NP)/(PP/NP))/NP 	 3 	 care taken
+7 	 5 	 ((S[pss]\NP)/(PP/NP))/NP 	 2 	 of taken
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Man in
+11 	 9 	 NP[nb]/N 	 1 	 Man The
+11 	 10 	 N/N 	 1 	 Man Music
+<\s>

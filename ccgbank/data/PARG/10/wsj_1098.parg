@@ -1,0 +1,79 @@
+<s id="wsj_1098.1"> 18
+3 	 0 	 N/N 	 1 	 Inc. Environmental
+3 	 1 	 N/N 	 1 	 Inc. Control
+3 	 2 	 N/N 	 1 	 Inc. Group
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it expects
+5 	 8 	 (S[b]\NP)/NP 	 1 	 it report <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+10 	 8 	 (S[b]\NP)/NP 	 2 	 earnings report
+10 	 9 	 N/N 	 1 	 earnings minimal
+10 	 14 	 (NP\NP)/NP 	 1 	 earnings for
+13 	 8 	 (S[b]\NP)/NP 	 2 	 loss report
+13 	 12 	 NP[nb]/N 	 1 	 loss a
+13 	 14 	 (NP\NP)/NP 	 1 	 loss for
+17 	 14 	 (NP\NP)/NP 	 2 	 quarter for
+17 	 15 	 NP[nb]/N 	 1 	 quarter the
+17 	 16 	 N/N 	 1 	 quarter third
+<\s>
+<s id="wsj_1098.2"> 41
+3 	 0 	 NP[nb]/N 	 1 	 company The
+3 	 1 	 N/N 	 1 	 company environmental
+3 	 2 	 N/N 	 1 	 company services
+3 	 4 	 (S[dcl]\NP)/S[em] 	 1 	 company said
+5 	 4 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+7 	 6 	 NP[nb]/N 	 1 	 discontinuation the
+7 	 8 	 (NP\NP)/NP 	 1 	 discontinuation of
+7 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 discontinuation will
+7 	 20 	 (S[b]\NP)/PP 	 1 	 discontinuation result <XB>
+11 	 8 	 (NP\NP)/NP 	 2 	 lines of
+11 	 9 	 N/N 	 1 	 lines unsuccessful
+11 	 10 	 N/N 	 1 	 lines product
+14 	 13 	 NP[nb]/N 	 1 	 increase an
+14 	 15 	 (NP\NP)/NP 	 1 	 increase in
+14 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 increase will
+14 	 20 	 (S[b]\NP)/PP 	 1 	 increase result <XB>
+17 	 15 	 (NP\NP)/NP 	 2 	 reserves in
+17 	 16 	 N/N 	 1 	 reserves baddebt
+19 	 5 	 S[em]/S[dcl] 	 1 	 will that
+19 	 18 	 (S\NP)/(S\NP) 	 2 	 will probably
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 result will
+21 	 20 	 (S[b]\NP)/PP 	 2 	 in result
+22 	 21 	 PP/NP 	 1 	 charges in
+22 	 23 	 (NP\NP)/NP 	 1 	 charges of
+22 	 34 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 1 	 charges which
+24 	 23 	 (NP\NP)/NP 	 2 	 $ of
+24 	 27 	 (N\N)/N 	 1 	 $ to
+26 	 24 	 N/N[num] 	 1 	 million $
+26 	 25 	 N/N 	 1 	 million 2.5
+28 	 27 	 (N\N)/N 	 2 	 $ to
+30 	 28 	 N/N[num] 	 1 	 million $
+30 	 29 	 N/N 	 1 	 million 4
+32 	 33 	 (NP\NP)/NP 	 1 	 most of
+32 	 34 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 3 	 most which
+35 	 34 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 2 	 will which
+36 	 35 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+37 	 36 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 taken be
+38 	 37 	 (S[pss]\NP)/PP 	 2 	 against taken
+40 	 38 	 PP/NP 	 1 	 results against
+40 	 39 	 N/N 	 1 	 results third-quarter
+<\s>
+<s id="wsj_1098.3"> 19
+3 	 0 	 (S/S)/NP 	 2 	 quarter In
+3 	 1 	 NP[nb]/N 	 1 	 quarter the
+3 	 2 	 N/N 	 1 	 quarter year-ago
+6 	 5 	 NP[nb]/N 	 1 	 company the
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 company reported
+7 	 0 	 (S/S)/NP 	 1 	 reported In
+8 	 7 	 (S[dcl]\NP)/NP 	 2 	 earnings reported
+8 	 9 	 (NP\NP)/NP 	 1 	 earnings of
+10 	 9 	 (NP\NP)/NP 	 2 	 $ of
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 2.2
+16 	 9 	 (NP\NP)/NP 	 2 	 cents of
+16 	 15 	 N/N 	 1 	 cents 35
+16 	 17 	 (NP\NP)/N 	 1 	 cents a
+18 	 17 	 (NP\NP)/N 	 2 	 share a
+<\s>

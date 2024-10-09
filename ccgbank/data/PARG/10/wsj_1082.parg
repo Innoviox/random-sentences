@@ -1,0 +1,65 @@
+<s id="wsj_1082.1"> 18
+2 	 0 	 N/N 	 1 	 Inc. Bob
+2 	 1 	 N/N 	 1 	 Inc. Evans
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+5 	 4 	 NP[nb]/N 	 1 	 board its
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 board authorized
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 authorized said
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 purchase authorized
+8 	 7 	 NP[nb]/N 	 1 	 purchase the
+8 	 9 	 (NP\NP)/NP 	 1 	 purchase of
+10 	 9 	 (NP\NP)/NP 	 2 	 as of
+10 	 15 	 (NP\NP)/NP 	 1 	 as of
+11 	 10 	 (N/PP)/(S[adj]\NP) 	 2 	 many as
+12 	 10 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+14 	 12 	 PP/NP 	 1 	 shares as
+14 	 13 	 N/N 	 1 	 shares 500,000
+17 	 15 	 (NP\NP)/NP 	 2 	 common of
+17 	 16 	 NP[nb]/N 	 1 	 common its
+<\s>
+<s id="wsj_1082.2"> 30
+1 	 0 	 NP[nb]/N 	 1 	 stock The
+1 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 stock will
+1 	 18 	 (S[pss]\NP)/PP 	 1 	 stock held <XB>
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 purchased be
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 purchased on
+5 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 purchased through <XU>
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 market on
+9 	 7 	 NP[nb]/N 	 1 	 market the
+9 	 8 	 N/N 	 1 	 market open
+13 	 12 	 (N/N)/(N/N) 	 2 	 negotiated privately
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 transactions through
+14 	 13 	 N/N 	 1 	 transactions negotiated
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+18 	 17 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 held be
+19 	 18 	 (S[pss]\NP)/PP 	 2 	 as held
+21 	 19 	 PP/NP 	 1 	 shares as
+21 	 20 	 N/N 	 1 	 shares treasury
+21 	 22 	 (NP\NP)/NP 	 1 	 shares for
+24 	 22 	 (NP\NP)/NP 	 2 	 options for
+24 	 23 	 N/N 	 1 	 options stock
+29 	 22 	 (NP\NP)/NP 	 2 	 purposes for
+29 	 26 	 N/N 	 1 	 purposes other
+29 	 27 	 N/N 	 1 	 purposes general
+29 	 28 	 N/N 	 1 	 purposes corporate
+<\s>
+<s id="wsj_1082.3"> 5
+1 	 0 	 NP[nb]/N 	 1 	 program The
+1 	 2 	 S[dcl]\NP 	 1 	 program expires
+2 	 3 	 ((S\NP)\(S\NP))/N[num] 	 2 	 expires April
+4 	 3 	 ((S\NP)\(S\NP))/N[num] 	 3 	 27 April
+<\s>
+<s id="wsj_1082.4"> 12
+2 	 0 	 NP[nb]/N 	 1 	 operator The
+2 	 1 	 N/N 	 1 	 operator restaurant
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 operator had
+3 	 8 	 ((S\NP)\(S\NP))/PP 	 2 	 had as
+5 	 4 	 (N/N)/(N/N) 	 2 	 million 32.2
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 shares had
+6 	 5 	 N/N 	 1 	 shares million
+6 	 7 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+9 	 8 	 ((S\NP)\(S\NP))/PP 	 3 	 of as
+10 	 9 	 PP/NP 	 1 	 Sept. of
+11 	 10 	 N/N[num] 	 1 	 29 Sept.
+<\s>

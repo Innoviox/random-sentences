@@ -1,0 +1,711 @@
+<s id="wsj_2325.1"> 14
+2 	 0 	 NP[nb]/N 	 1 	 industry The
+2 	 1 	 N/N 	 1 	 industry oil
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 industry 's
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 profits 's
+5 	 4 	 N/N 	 1 	 profits middling
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 profits could
+5 	 7 	 S[b]\NP 	 1 	 profits persist <XB>
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 persist could
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 persist through
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 rest through
+10 	 9 	 NP[nb]/N 	 1 	 rest the
+10 	 11 	 (NP\NP)/NP 	 1 	 rest of
+13 	 11 	 (NP\NP)/NP 	 2 	 year of
+13 	 12 	 NP[nb]/N 	 1 	 year the
+<\s>
+<s id="wsj_2325.2"> 35
+2 	 0 	 N/N 	 1 	 companies Major
+2 	 1 	 N/N 	 1 	 companies oil
+2 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 companies are
+2 	 9 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 companies expected <XB>
+2 	 11 	 (S[b]\NP)/NP 	 1 	 companies report <XB>
+7 	 3 	 ((S\NP)/(S\NP))/NP 	 3 	 days in
+7 	 4 	 NP[nb]/N 	 1 	 days the
+7 	 5 	 N/N 	 1 	 days next
+7 	 6 	 N/N 	 1 	 days few
+8 	 3 	 ((S\NP)/(S\NP))/NP 	 2 	 are in
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+10 	 9 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+14 	 12 	 (N/N)/(N/N) 	 2 	 robust much
+14 	 13 	 (N/N)/(N/N) 	 2 	 robust less
+15 	 11 	 (S[b]\NP)/NP 	 2 	 earnings report
+15 	 14 	 N/N 	 1 	 earnings robust
+15 	 16 	 (NP\NP)/S[dcl] 	 1 	 earnings than
+15 	 28 	 (NP\NP)/NP 	 1 	 earnings reflecting
+17 	 18 	 S[dcl]\NP 	 1 	 they did
+18 	 16 	 (NP\NP)/S[dcl] 	 2 	 did than
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 did for
+22 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter for
+22 	 20 	 NP[nb]/N 	 1 	 quarter the
+22 	 21 	 N/N 	 1 	 quarter third
+22 	 25 	 (NP\NP)\NP 	 1 	 quarter ago
+24 	 23 	 NP[nb]/N 	 1 	 year a
+24 	 25 	 (NP\NP)\NP 	 2 	 year ago
+28 	 27 	 (NP\NP)/(NP\NP) 	 2 	 reflecting largely
+31 	 28 	 (NP\NP)/NP 	 2 	 prices reflecting
+31 	 29 	 N/N 	 1 	 prices deteriorating
+31 	 30 	 N/N 	 1 	 prices chemical
+34 	 28 	 (NP\NP)/NP 	 2 	 profitability reflecting
+34 	 29 	 N/N 	 1 	 profitability deteriorating
+34 	 33 	 N/N 	 1 	 profitability gasoline
+<\s>
+<s id="wsj_2325.3"> 31
+2 	 0 	 NP[nb]/N 	 1 	 picture The
+2 	 1 	 N/N 	 1 	 picture gasoline
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 picture may
+2 	 4 	 S[b]\NP 	 1 	 picture improve <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 improve may
+4 	 5 	 ((S\NP)\(S\NP))/N 	 2 	 improve this
+6 	 5 	 ((S\NP)\(S\NP))/N 	 3 	 quarter this
+9 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 chemicals are
+9 	 11 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 chemicals likely <XB>
+11 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely are
+12 	 11 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 remain to
+14 	 13 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 weak remain
+17 	 16 	 N/N 	 1 	 executives industry
+17 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 executives say
+19 	 16 	 N/N 	 1 	 analysts industry
+19 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 analysts say
+23 	 22 	 (S[ng]\NP)/NP 	 2 	 chances reducing
+24 	 23 	 N/S[em] 	 1 	 that chances
+25 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 profits could
+25 	 27 	 (S[b]\NP)/NP 	 1 	 profits equal <XB>
+26 	 24 	 S[em]/S[dcl] 	 1 	 could that
+27 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 equal could
+30 	 27 	 (S[b]\NP)/NP 	 2 	 performance equal
+30 	 28 	 NP[nb]/N 	 1 	 performance their
+30 	 29 	 N/N 	 1 	 performance year-earlier
+<\s>
+<s id="wsj_2325.4"> 29
+1 	 0 	 NP[nb]/N 	 1 	 industry The
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 industry is
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 industry seeing <XB>
+2 	 25 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 seeing is
+5 	 3 	 (S[ng]\NP)/NP 	 2 	 softening seeing
+5 	 4 	 NP[nb]/N 	 1 	 softening a
+5 	 6 	 NP\NP 	 1 	 softening somewhat
+5 	 7 	 (NP\NP)/NP 	 1 	 softening in
+5 	 11 	 (NP\NP)/NP 	 1 	 softening in <XU>
+5 	 13 	 (NP\NP)/NP 	 1 	 softening in
+8 	 7 	 (NP\NP)/NP 	 2 	 volume in
+11 	 10 	 (NP\NP)/(NP\NP) 	 2 	 in certainly
+12 	 11 	 (NP\NP)/NP 	 2 	 price in
+14 	 13 	 (NP\NP)/NP 	 2 	 petrochemicals in
+17 	 16 	 N/N 	 1 	 Cox Glenn
+17 	 25 	 (S[dcl]\S[dcl])\NP 	 2 	 Cox said
+19 	 20 	 (NP\NP)/NP 	 1 	 president of
+19 	 25 	 (S[dcl]\S[dcl])\NP 	 2 	 president said
+23 	 20 	 (NP\NP)/NP 	 2 	 Co. of
+23 	 21 	 N/N 	 1 	 Co. Phillips
+23 	 22 	 N/N 	 1 	 Co. Petroleum
+25 	 26 	 (S\S)/NP 	 1 	 said in
+28 	 26 	 (S\S)/NP 	 2 	 interview in
+28 	 27 	 NP[nb]/N 	 1 	 interview an
+<\s>
+<s id="wsj_2325.5"> 18
+1 	 0 	 NP[nb]/N 	 1 	 change That
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 change will
+1 	 4 	 (S[b]\NP)/NP 	 1 	 change impact <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 will obviously
+2 	 17 	 (S[dcl]\S[dcl])\NP 	 1 	 will added
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 impact will
+9 	 4 	 (S[b]\NP)/NP 	 2 	 earnings impact
+9 	 5 	 N/N 	 1 	 earnings third
+9 	 7 	 N/N 	 1 	 earnings fourth
+9 	 8 	 N/N 	 1 	 earnings quarter
+9 	 10 	 (NP\NP)/NP 	 1 	 earnings for
+12 	 10 	 (NP\NP)/NP 	 2 	 industry for
+12 	 11 	 NP[nb]/N 	 1 	 industry the
+12 	 13 	 (NP\NP)/(S[adj]\NP) 	 1 	 industry in
+14 	 13 	 (NP\NP)/(S[adj]\NP) 	 2 	 general in
+16 	 17 	 (S[dcl]\S[dcl])\NP 	 2 	 he added
+<\s>
+<s id="wsj_2325.6"> 7
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 He did
+0 	 3 	 (S[pt]\NP)/NP 	 1 	 He forecast <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 did n't
+3 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 forecast did
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Phillips 's
+6 	 3 	 (S[pt]\NP)/NP 	 2 	 results forecast
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 results 's
+<\s>
+<s id="wsj_2325.7"> 24
+2 	 1 	 N/N 	 1 	 analysts securities
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 analysts say
+3 	 0 	 S/S 	 1 	 say But
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Phillips will
+4 	 6 	 (S[b]\NP)/PP 	 1 	 Phillips be <XB>
+4 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Phillips will <XU>
+4 	 18 	 (S[b]\NP)/NP 	 1 	 Phillips post <XU>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 will say
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+7 	 6 	 (S[b]\NP)/PP 	 2 	 among be
+9 	 7 	 PP/NP 	 1 	 companies among
+9 	 8 	 NP[nb]/N 	 1 	 companies the
+9 	 10 	 S[adj]\NP 	 1 	 companies hard-hit <XB>
+10 	 11 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 hard-hit by
+14 	 11 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 prices by
+14 	 12 	 N/N 	 1 	 prices weak
+14 	 13 	 N/N 	 1 	 prices chemical
+16 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 will say
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 will probably
+18 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 post will
+20 	 18 	 (S[b]\NP)/NP 	 2 	 drop post
+20 	 19 	 NP[nb]/N 	 1 	 drop a
+20 	 21 	 (NP\NP)/NP 	 1 	 drop in
+23 	 21 	 (NP\NP)/NP 	 2 	 earnings in
+23 	 22 	 N/N 	 1 	 earnings third-quarter
+<\s>
+<s id="wsj_2325.8"> 17
+0 	 8 	 (S[dcl]\(S[adj]\NP))/NP 	 1 	 So will
+5 	 4 	 N/N 	 1 	 analysts many
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 analysts predict
+8 	 2 	 S/S 	 1 	 will too
+8 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 will predict <XU>
+10 	 8 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 Corp. will
+10 	 9 	 N/N 	 1 	 Corp. Exxon
+13 	 8 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 Corp. will
+13 	 12 	 N/N 	 1 	 Corp. Chevron
+16 	 8 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 Corp will
+16 	 15 	 N/N 	 1 	 Corp Amoco
+<\s>
+<s id="wsj_2325.9"> 22
+0 	 1 	 (S[dcl]\(S[adj]\NP))/NP 	 1 	 Typical is
+2 	 1 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 what is
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 what happened <XB>
+3 	 2 	 NP/(S[dcl]\NP) 	 1 	 happened what
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 to happened
+6 	 4 	 PP/NP 	 1 	 price to
+6 	 5 	 NP[nb]/N 	 1 	 price the
+6 	 7 	 (NP\NP)/NP 	 1 	 price of
+8 	 7 	 (NP\NP)/NP 	 2 	 ethylene of
+13 	 7 	 (NP\NP)/NP 	 2 	 chemical of
+13 	 10 	 NP[nb]/N 	 1 	 chemical a
+13 	 11 	 N/N 	 1 	 chemical major
+13 	 12 	 N/N 	 1 	 chemical commodity
+13 	 14 	 S[pss]\NP 	 1 	 chemical produced <XB>
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 produced in
+14 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 produced by
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 amounts in
+17 	 16 	 N/N 	 1 	 amounts vast
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 companies by
+21 	 19 	 N/N 	 1 	 companies many
+21 	 20 	 N/N 	 1 	 companies oil
+<\s>
+<s id="wsj_2325.10"> 13
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 It has
+0 	 2 	 S[pt]\NP 	 1 	 It plunged <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 plunged has
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 plunged %
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 plunged since
+2 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 plunged to
+4 	 3 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 13
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 July since
+9 	 8 	 (N/N)/(N/N) 	 2 	 26 around
+10 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+10 	 9 	 N/N 	 1 	 cents 26
+10 	 11 	 (NP\NP)/N 	 1 	 cents a
+12 	 11 	 (NP\NP)/N 	 2 	 pound a
+<\s>
+<s id="wsj_2325.11"> 16
+1 	 0 	 NP[nb]/N 	 1 	 year A
+1 	 2 	 (S/S)\NP 	 2 	 year ago
+3 	 4 	 (S[dcl]\NP)/PP 	 1 	 ethylene sold
+3 	 9 	 (S[ng]\NP)/PP 	 1 	 ethylene peaking <XB>
+4 	 2 	 (S/S)\NP 	 1 	 sold ago
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 for sold
+7 	 5 	 PP/NP 	 1 	 cents for
+7 	 6 	 N/N 	 1 	 cents 33
+9 	 15 	 (S\NP)\(S\NP) 	 2 	 peaking December
+10 	 9 	 (S[ng]\NP)/PP 	 2 	 at peaking
+12 	 11 	 (N/N)/(N/N) 	 2 	 34 about
+13 	 10 	 PP/NP 	 1 	 cents at
+13 	 12 	 N/N 	 1 	 cents 34
+15 	 14 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 December last
+<\s>
+<s id="wsj_2325.12"> 10
+2 	 0 	 NP[nb]/N 	 1 	 reason A
+2 	 1 	 N/N 	 1 	 reason big
+2 	 3 	 (NP\NP)/NP 	 1 	 reason for
+2 	 8 	 (S[dcl]\NP)/NP 	 1 	 reason is
+7 	 3 	 (NP\NP)/NP 	 2 	 retreat for
+7 	 4 	 NP[nb]/N 	 1 	 retreat the
+7 	 5 	 N/N 	 1 	 retreat chemical
+7 	 6 	 N/N 	 1 	 retreat price
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 overexpansion is
+<\s>
+<s id="wsj_2325.13"> 18
+1 	 0 	 (S/S)/PP 	 2 	 in Beginning
+2 	 1 	 PP/NP 	 1 	 mid-1987 in
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 prices began
+4 	 6 	 S[ng]\NP 	 1 	 prices accelerating <XB>
+5 	 0 	 (S/S)/PP 	 1 	 began Beginning
+5 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 began as
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 accelerating began
+11 	 8 	 NP[nb]/N 	 1 	 economy a
+11 	 9 	 N/N 	 1 	 economy growing
+11 	 10 	 N/N 	 1 	 economy U.S.
+11 	 16 	 (S[dcl]\NP)/NP 	 1 	 economy spurred
+15 	 13 	 NP[nb]/N 	 1 	 dollar the
+15 	 14 	 N/N 	 1 	 dollar weak
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 dollar spurred
+16 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 spurred as
+17 	 16 	 (S[dcl]\NP)/NP 	 2 	 demand spurred
+<\s>
+<s id="wsj_2325.14"> 4
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Companies added
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 added furiously
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 capacity added
+<\s>
+<s id="wsj_2325.15"> 22
+3 	 2 	 (N/N)/(N/N) 	 2 	 increased greatly
+4 	 3 	 N/N 	 1 	 supplies increased
+4 	 5 	 (S[dcl]\NP)/PP 	 1 	 supplies are
+5 	 0 	 S/S 	 1 	 are Now
+5 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 are while
+6 	 5 	 (S[dcl]\NP)/PP 	 2 	 on are
+8 	 6 	 PP/NP 	 1 	 market on
+8 	 7 	 NP[nb]/N 	 1 	 market the
+12 	 11 	 NP[nb]/N 	 1 	 dollar the
+12 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 dollar is
+12 	 14 	 S[adj]\NP 	 1 	 dollar stronger <XB>
+13 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is while
+14 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 stronger is
+19 	 17 	 N/N 	 1 	 growth domestic
+19 	 18 	 N/N 	 1 	 growth economic
+19 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 growth is
+19 	 21 	 S[adj]\NP 	 1 	 growth slower <XB>
+20 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is while
+21 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 slower is
+<\s>
+<s id="wsj_2325.16"> 6
+1 	 0 	 N/N 	 1 	 profits Third-quarter
+1 	 2 	 (NP\NP)/NP 	 1 	 profits from
+1 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 profits were
+1 	 5 	 S[adj]\NP 	 1 	 profits weaker <XB>
+3 	 2 	 (NP\NP)/NP 	 2 	 gasoline from
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 weaker were
+<\s>
+<s id="wsj_2325.17"> 31
+1 	 0 	 N/N 	 1 	 margins Refining
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 margins were
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 were in
+2 	 17 	 ((S\NP)\(S\NP))/N 	 2 	 were this
+2 	 20 	 (S[dcl]\S[dcl])/NP 	 1 	 were said
+4 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 good were
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 good so
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+8 	 6 	 NP[nb]/N 	 1 	 quarter the
+8 	 7 	 N/N 	 1 	 quarter third
+8 	 9 	 (NP\NP)/NP 	 1 	 quarter of
+11 	 9 	 (NP\NP)/NP 	 2 	 year of
+11 	 10 	 N/N 	 1 	 year last
+16 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 good were
+16 	 13 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 good generally
+16 	 14 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 good not
+16 	 15 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 good very
+18 	 17 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+22 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 Randol said
+22 	 21 	 N/N 	 1 	 Randol William
+26 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst said
+26 	 24 	 NP[nb]/N 	 1 	 analyst a
+26 	 25 	 N/N 	 1 	 analyst securities
+26 	 27 	 (NP\NP)/NP 	 1 	 analyst at
+30 	 27 	 (NP\NP)/NP 	 2 	 Corp at
+30 	 28 	 N/N 	 1 	 Corp First
+30 	 29 	 N/N 	 1 	 Corp Boston
+<\s>
+<s id="wsj_2325.18"> 22
+2 	 0 	 N/N 	 1 	 refineries Oil
+2 	 1 	 N/N 	 1 	 refineries company
+2 	 3 	 S[dcl]\NP 	 1 	 refineries ran
+2 	 7 	 (S[b]\NP)/PP 	 1 	 refineries prepare <XB>
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 ran out
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 out flat
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 prepare to
+8 	 7 	 (S[b]\NP)/PP 	 2 	 for prepare
+13 	 8 	 PP/NP 	 1 	 season for
+13 	 9 	 NP[nb]/N 	 1 	 season a
+13 	 10 	 N/N 	 1 	 season robust
+13 	 11 	 N/N 	 1 	 season holiday
+13 	 12 	 N/N 	 1 	 season driving
+13 	 14 	 (NP\NP)/NP 	 1 	 season in
+13 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 season that
+13 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 season did <XB>
+13 	 21 	 S[b]\NP 	 1 	 season materialize <XB>
+15 	 14 	 (NP\NP)/NP 	 2 	 July in
+17 	 14 	 (NP\NP)/NP 	 2 	 August in
+19 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 did that
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 did n't
+21 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 materialize did
+<\s>
+<s id="wsj_2325.19"> 10
+2 	 0 	 NP[nb]/N 	 1 	 supply The
+2 	 1 	 N/N 	 1 	 supply excess
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 supply pushed
+3 	 6 	 (S\NP)\(S\NP) 	 2 	 pushed down
+3 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 pushed in
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 prices pushed
+5 	 4 	 N/N 	 1 	 prices gasoline
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 period in
+9 	 8 	 NP[nb]/N 	 1 	 period that
+<\s>
+<s id="wsj_2325.20"> 17
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+5 	 3 	 N/N 	 1 	 prices crude
+5 	 4 	 N/N 	 1 	 prices oil
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 prices were
+5 	 7 	 ((S[adj]\NP)/PP)/NP 	 1 	 prices up <XB>
+5 	 15 	 (S[ng]\NP)/NP 	 1 	 prices pressuring <XB>
+6 	 0 	 (S/S)/NP 	 1 	 were In
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 up were
+8 	 7 	 ((S[adj]\NP)/PP)/NP 	 3 	 some up
+9 	 7 	 ((S[adj]\NP)/PP)/NP 	 2 	 from up
+11 	 10 	 NP[nb]/N 	 1 	 year a
+11 	 12 	 (S[adj]\NP)\NP 	 2 	 year earlier
+12 	 9 	 PP/(S[adj]\NP) 	 1 	 earlier from
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 pressuring further
+16 	 15 	 (S[ng]\NP)/NP 	 2 	 profitability pressuring
+<\s>
+<s id="wsj_2325.21"> 31
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Refiners say
+2 	 3 	 S[dcl]\NP 	 1 	 margins picked
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 picked say
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 picked up
+3 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 picked in
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+11 	 9 	 N/N 	 1 	 officials many
+11 	 10 	 N/N 	 1 	 officials industry
+11 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 officials believe
+14 	 13 	 N/N 	 1 	 profits gasoline
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 profits will
+14 	 16 	 S[b]\NP 	 1 	 profits rebound <XB>
+15 	 12 	 (S[dcl]\NP)/S[dcl] 	 2 	 will believe
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 rebound will
+16 	 17 	 ((S\NP)\(S\NP))/N 	 2 	 rebound this
+16 	 20 	 ((S\NP)\(S\NP))/S[frg] 	 2 	 rebound though
+18 	 17 	 ((S\NP)\(S\NP))/N 	 3 	 quarter this
+22 	 20 	 ((S\NP)\(S\NP))/S[frg] 	 3 	 not though
+22 	 21 	 S/S 	 1 	 not still
+23 	 22 	 S[frg]/PP 	 1 	 to not
+25 	 23 	 PP/NP 	 1 	 level to
+25 	 24 	 NP[nb]/N 	 1 	 level the
+25 	 26 	 (NP\NP)/NP 	 1 	 level of
+27 	 28 	 (NP[nb]/N)\NP 	 2 	 1988 's
+30 	 26 	 (NP\NP)/NP 	 2 	 quarter of
+30 	 28 	 (NP[nb]/N)\NP 	 1 	 quarter 's
+30 	 29 	 N/N 	 1 	 quarter fourth
+<\s>
+<s id="wsj_2325.22"> 14
+4 	 0 	 (S/S)/NP 	 2 	 half During
+4 	 1 	 NP[nb]/N 	 1 	 half the
+4 	 2 	 N/N 	 1 	 half 1988
+4 	 3 	 N/N 	 1 	 half second
+7 	 6 	 N/N 	 1 	 companies many
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 companies posted
+8 	 0 	 (S/S)/NP 	 1 	 posted During
+13 	 8 	 (S[dcl]\NP)/NP 	 2 	 profits posted
+13 	 9 	 N/N 	 1 	 profits record
+13 	 10 	 N/N 	 1 	 profits gasoline
+13 	 12 	 N/N 	 1 	 profits chemical
+<\s>
+<s id="wsj_2325.23"> 18
+2 	 0 	 N/N 	 1 	 production Crude
+2 	 1 	 N/N 	 1 	 production oil
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 production may
+2 	 4 	 (S[b]\NP)/(S[to]\NP) 	 1 	 production turn <XB>
+2 	 7 	 (S[b]\NP)/NP 	 1 	 production be <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 turn may
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 turn out
+6 	 4 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to turn
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+10 	 9 	 (N/N)/(N/N) 	 2 	 surprising most
+11 	 7 	 (S[b]\NP)/NP 	 2 	 element be
+11 	 8 	 NP[nb]/N 	 1 	 element the
+11 	 10 	 N/N 	 1 	 element surprising
+11 	 12 	 (NP\NP)/NP 	 1 	 element of
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 companies '
+15 	 12 	 (NP\NP)/NP 	 2 	 earnings of
+15 	 14 	 (NP[nb]/N)\NP 	 1 	 earnings '
+15 	 16 	 (NP\NP)/N 	 1 	 earnings this
+17 	 16 	 (NP\NP)/N 	 2 	 year this
+<\s>
+<s id="wsj_2325.24"> 26
+0 	 2 	 S[ng]\NP 	 1 	 Prices averaging <XB>
+0 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Prices have
+0 	 19 	 (S[pt]\NP)/PP 	 1 	 Prices stayed <XB>
+2 	 8 	 ((S\NP)\(S\NP))\NP 	 2 	 averaging higher
+4 	 3 	 N/N 	 1 	 $ roughly
+4 	 6 	 (NP\NP)/N 	 1 	 $ a
+4 	 8 	 ((S\NP)\(S\NP))\NP 	 3 	 $ higher
+5 	 4 	 N/N[num] 	 1 	 2 $
+7 	 6 	 (NP\NP)/N 	 2 	 barrel a
+8 	 9 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 higher in
+8 	 13 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 higher than
+12 	 9 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 quarter in
+12 	 10 	 NP[nb]/N 	 1 	 quarter the
+12 	 11 	 N/N 	 1 	 quarter third
+15 	 13 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 year than
+15 	 14 	 NP[nb]/N 	 1 	 year a
+15 	 16 	 N\N 	 1 	 year earlier
+19 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 stayed have
+21 	 19 	 (S[pt]\NP)/PP 	 2 	 above stayed
+21 	 20 	 PP/PP 	 1 	 above well
+23 	 22 	 N/N 	 1 	 companies most
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 companies '
+25 	 21 	 PP/NP 	 1 	 expectations above
+25 	 24 	 (NP[nb]/N)\NP 	 1 	 expectations '
+<\s>
+<s id="wsj_2325.25"> 16
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Demand has
+0 	 4 	 S[adj]\NP 	 1 	 Demand stronger <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+4 	 2 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 stronger been
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 stronger much
+4 	 5 	 ((S[adj]\NP)\(S[adj]\NP))/(S[pss]\NP) 	 2 	 stronger than
+6 	 5 	 ((S[adj]\NP)\(S[adj]\NP))/(S[pss]\NP) 	 3 	 anticipated than
+9 	 11 	 S[dcl]\NP 	 1 	 it accelerates
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 accelerates typically
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 accelerates in
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+15 	 13 	 NP[nb]/N 	 1 	 quarter the
+15 	 14 	 N/N 	 1 	 quarter fourth
+<\s>
+<s id="wsj_2325.26"> 18
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 We could
+0 	 2 	 (S[b]\NP)/NP 	 1 	 We see <XB>
+1 	 9 	 (S[dcl]\S[dcl])/NP 	 1 	 could said
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 see could
+2 	 6 	 ((S\NP)\(S\NP))/N 	 2 	 see this
+5 	 2 	 (S[b]\NP)/NP 	 2 	 prices see
+5 	 3 	 N/N 	 1 	 prices higher
+5 	 4 	 N/N 	 1 	 prices oil
+7 	 6 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+11 	 9 	 (S[dcl]\S[dcl])/NP 	 2 	 Jacoboski said
+11 	 10 	 N/N 	 1 	 Jacoboski Bryan
+14 	 9 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst said
+14 	 13 	 NP[nb]/N 	 1 	 analyst an
+14 	 15 	 (NP\NP)/NP 	 1 	 analyst at
+17 	 15 	 (NP\NP)/NP 	 2 	 Inc at
+17 	 16 	 N/N 	 1 	 Inc PaineWebber
+<\s>
+<s id="wsj_2325.27"> 29
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 That will
+0 	 2 	 (S[b]\NP)/PP 	 1 	 That translate <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 translate will
+3 	 2 	 (S[b]\NP)/PP 	 2 	 into translate
+5 	 4 	 (N/N)/(N/N) 	 2 	 higher sharply
+7 	 3 	 PP/NP 	 1 	 profits into
+7 	 5 	 N/N 	 1 	 profits higher
+7 	 6 	 N/N 	 1 	 profits production
+7 	 10 	 (NP\NP)/PP 	 1 	 profits compared
+10 	 9 	 (NP\NP)/(NP\NP) 	 2 	 compared particularly
+11 	 10 	 (NP\NP)/PP 	 2 	 with compared
+13 	 11 	 PP/NP 	 1 	 year with
+13 	 12 	 N/N 	 1 	 year last
+13 	 14 	 (NP\NP)/S[dcl] 	 1 	 year when
+16 	 15 	 N/N 	 1 	 prices oil
+16 	 18 	 S[dcl]\NP 	 1 	 prices fell
+18 	 14 	 (NP\NP)/S[dcl] 	 2 	 fell when
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 fell steadily
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+18 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 fell in
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+21 	 20 	 N/N 	 1 	 $ below
+21 	 23 	 (NP\NP)/N 	 1 	 $ a
+22 	 21 	 N/N[num] 	 1 	 13 $
+24 	 23 	 (NP\NP)/N 	 2 	 barrel a
+28 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+28 	 26 	 NP[nb]/N 	 1 	 quarter the
+28 	 27 	 N/N 	 1 	 quarter fourth
+<\s>
+<s id="wsj_2325.28"> 15
+2 	 1 	 N/N 	 1 	 prices oil
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 prices have
+2 	 5 	 S[adj]\NP 	 1 	 prices better <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 have While
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+5 	 4 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 better been
+5 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/(S[pss]\NP) 	 2 	 better than
+7 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/(S[pss]\NP) 	 3 	 expected than
+11 	 9 	 N/N 	 1 	 prices natural
+11 	 10 	 N/N 	 1 	 prices gas
+11 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 prices have
+11 	 14 	 S[adj]\NP 	 1 	 prices worse <XB>
+12 	 0 	 (S/S)/S[dcl] 	 1 	 have While
+13 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+14 	 13 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 worse been
+<\s>
+<s id="wsj_2325.29"> 16
+3 	 0 	 (S/S)/NP 	 2 	 quarter In
+3 	 1 	 NP[nb]/N 	 1 	 quarter the
+3 	 2 	 N/N 	 1 	 quarter third
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they averaged
+5 	 10 	 (S[adj]\NP)\NP 	 1 	 they less <XB>
+6 	 0 	 (S/S)/NP 	 1 	 averaged In
+8 	 7 	 (N/N)/(N/N) 	 2 	 5 about
+9 	 8 	 N/N 	 1 	 % 5
+9 	 10 	 (S[adj]\NP)\NP 	 2 	 % less
+10 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 less averaged
+10 	 11 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 2 	 less than
+12 	 13 	 S[dcl]\NP 	 1 	 they were
+13 	 11 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 3 	 were than
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 were in
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 1988 in
+<\s>
+<s id="wsj_2325.30"> 5
+2 	 0 	 NP[nb]/N 	 1 	 reason The
+2 	 1 	 N/N 	 1 	 reason main
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 reason remains
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 weather remains
+<\s>
+<s id="wsj_2325.31"> 27
+1 	 0 	 N/N 	 1 	 summer Last
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 summer was
+1 	 3 	 (S[adj]\NP)/PP 	 1 	 summer notable <XB>
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 notable was
+4 	 3 	 (S[adj]\NP)/PP 	 2 	 for notable
+7 	 4 	 PP/NP 	 1 	 wave for
+7 	 5 	 NP[nb]/N 	 1 	 wave a
+7 	 6 	 N/N 	 1 	 wave heat
+7 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 wave that
+7 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 wave caused <XB>
+9 	 4 	 PP/NP 	 1 	 drought for
+9 	 5 	 NP[nb]/N 	 1 	 drought a
+9 	 6 	 N/N 	 1 	 drought heat
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 drought that
+9 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 drought caused <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 caused that
+12 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 utilities caused
+12 	 14 	 (S[b]\NP)/NP 	 1 	 utilities burn <XB>
+12 	 19 	 (S[b]\NP)/NP 	 1 	 utilities feed <XB>
+13 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to caused
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 burn to
+17 	 14 	 (S[b]\NP)/NP 	 2 	 gas burn
+17 	 15 	 N/N 	 1 	 gas more
+17 	 16 	 N/N 	 1 	 gas natural
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 feed to
+22 	 19 	 (S[b]\NP)/NP 	 2 	 demand feed
+22 	 20 	 N/N 	 1 	 demand increased
+22 	 21 	 N/N 	 1 	 demand electrical
+22 	 23 	 (NP\NP)/NP 	 1 	 demand from
+26 	 23 	 (NP\NP)/NP 	 2 	 use from
+26 	 24 	 N/N 	 1 	 use air
+26 	 25 	 N/N 	 1 	 use conditioning
+<\s>
+<s id="wsj_2325.32"> 13
+1 	 0 	 NP[nb]/N 	 1 	 summer This
+1 	 8 	 (S[dcl]\NP)/NP 	 1 	 summer had
+6 	 3 	 ((S\NP)/(S\NP))/NP 	 3 	 hand on
+6 	 4 	 NP[nb]/N 	 1 	 hand the
+6 	 5 	 N/N 	 1 	 hand other
+8 	 3 	 ((S\NP)/(S\NP))/NP 	 2 	 had on
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 weather had
+10 	 9 	 N/N 	 1 	 weather milder
+10 	 11 	 (NP\NP)/(S[adj]\NP) 	 1 	 weather than
+12 	 11 	 (NP\NP)/(S[adj]\NP) 	 2 	 usual than
+<\s>
+<s id="wsj_2325.33"> 20
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 We 've
+0 	 4 	 (S[adj]\NP)/PP 	 1 	 We disappointed <XB>
+1 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 've said
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been 've
+4 	 2 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 disappointed been
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 disappointed very
+5 	 4 	 (S[adj]\NP)/PP 	 2 	 in disappointed
+7 	 5 	 PP/NP 	 1 	 performance in
+7 	 6 	 NP[nb]/N 	 1 	 performance the
+7 	 8 	 (NP\NP)/NP 	 1 	 performance of
+11 	 8 	 (NP\NP)/NP 	 2 	 prices of
+11 	 9 	 N/N 	 1 	 prices natural
+11 	 10 	 N/N 	 1 	 prices gas
+15 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 Cox said
+15 	 14 	 N/N 	 1 	 Cox Mr.
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 Phillips 's
+19 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 president said
+19 	 18 	 (NP[nb]/N)\NP 	 1 	 president 's
+<\s>
+<s id="wsj_2325.34"> 16
+3 	 0 	 NP[nb]/N 	 1 	 price The
+3 	 1 	 N/N 	 1 	 price lagging
+3 	 2 	 N/N 	 1 	 price gas
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 price is
+3 	 8 	 (S[b]\NP)/NP 	 1 	 price assist <XB>
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 is not
+6 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going is
+7 	 6 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 assist to
+8 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 assist as
+11 	 8 	 (S[b]\NP)/NP 	 2 	 performance assist
+11 	 9 	 N/N 	 1 	 performance fourth
+11 	 10 	 N/N 	 1 	 performance quarter
+13 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 many had
+13 	 15 	 S[pt]\NP 	 1 	 many expected <XB>
+14 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 had as
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 expected had
+<\s>
+<s id="wsj_2325.35"> 22
+0 	 1 	 ((S\NP)\(S\NP))/NP 	 2 	 Going into
+4 	 1 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter into
+4 	 2 	 NP[nb]/N 	 1 	 quarter the
+4 	 3 	 N/N 	 1 	 quarter fourth
+8 	 6 	 N/N 	 1 	 prices natural
+8 	 7 	 N/N 	 1 	 prices gas
+8 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 prices are
+8 	 17 	 (S[adj]\NP)\NP 	 1 	 prices lower <XB>
+13 	 10 	 N/N 	 1 	 % anywhere
+13 	 11 	 N/N 	 1 	 % from
+13 	 12 	 N/N 	 1 	 % 8
+13 	 14 	 (N\N)/N 	 1 	 % to
+13 	 17 	 (S[adj]\NP)\NP 	 2 	 % lower
+16 	 14 	 (N\N)/N 	 2 	 % to
+16 	 15 	 N/N 	 1 	 % 17
+17 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 lower are
+17 	 18 	 ((S[adj]\NP)\(S[adj]\NP))/(S[adj]\NP) 	 2 	 lower than
+20 	 19 	 NP[nb]/N 	 1 	 year a
+20 	 21 	 (S[adj]\NP)\NP 	 2 	 year earlier
+21 	 18 	 ((S[adj]\NP)\(S[adj]\NP))/(S[adj]\NP) 	 3 	 earlier than
+<\s>
+<s id="wsj_2325.36"> 39
+1 	 0 	 (S/S)/NP 	 2 	 instance For
+4 	 3 	 N/N 	 1 	 gas natural
+4 	 6 	 S[pss]\NP 	 1 	 gas produced <XB>
+4 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 gas is
+4 	 12 	 (S[ng]\NP)/PP 	 1 	 gas selling <XB>
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 produced currently
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 produced along
+10 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Coast along
+10 	 8 	 NP[nb]/N 	 1 	 Coast the
+10 	 9 	 N/N 	 1 	 Coast Gulf
+11 	 0 	 (S/S)/NP 	 1 	 is For
+12 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 selling is
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 selling on
+12 	 26 	 (((S\NP)\(S\NP))/PP)/NP 	 2 	 selling down
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 market on
+16 	 14 	 NP[nb]/N 	 1 	 market the
+16 	 15 	 N/N 	 1 	 market spot
+17 	 12 	 (S[ng]\NP)/PP 	 2 	 for selling
+19 	 17 	 PP/NP 	 1 	 $ for
+19 	 18 	 N/N 	 1 	 $ around
+19 	 24 	 NP\NP 	 1 	 $ feet
+20 	 19 	 N/N[num] 	 1 	 1.47 $
+22 	 21 	 ((NP\NP)/(NP\NP))/((NP\NP)/(NP\NP)) 	 3 	 thousand a
+24 	 22 	 (NP\NP)/(NP\NP) 	 2 	 feet thousand
+24 	 23 	 (NP\NP)/(NP\NP) 	 2 	 feet cubic
+28 	 26 	 (((S\NP)\(S\NP))/PP)/NP 	 4 	 % down
+28 	 27 	 N/N 	 1 	 % 13
+29 	 26 	 (((S\NP)\(S\NP))/PP)/NP 	 3 	 from down
+29 	 38 	 (PP\PP)\NP 	 1 	 from ago
+30 	 29 	 PP/NP 	 1 	 $ from
+30 	 35 	 NP\NP 	 1 	 $ feet
+31 	 30 	 N/N[num] 	 1 	 1.69 $
+33 	 32 	 ((NP\NP)/(NP\NP))/((NP\NP)/(NP\NP)) 	 3 	 thousand a
+35 	 33 	 (NP\NP)/(NP\NP) 	 2 	 feet thousand
+35 	 34 	 (NP\NP)/(NP\NP) 	 2 	 feet cubic
+37 	 36 	 NP[nb]/N 	 1 	 year a
+37 	 38 	 (PP\PP)\NP 	 2 	 year ago
+<\s>

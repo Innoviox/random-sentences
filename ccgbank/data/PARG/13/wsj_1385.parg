@@ -1,0 +1,79 @@
+<s id="wsj_1385.1"> 47
+1 	 0 	 NP[nb]/N 	 1 	 group A
+1 	 2 	 (NP\NP)/NP 	 1 	 group including
+1 	 24 	 (S[dcl]\NP)/NP 	 1 	 group lowered
+5 	 2 	 (NP\NP)/NP 	 2 	 Phillips including
+5 	 3 	 N/N 	 1 	 Phillips Gene
+5 	 4 	 N/N 	 1 	 Phillips E.
+8 	 2 	 (NP\NP)/NP 	 2 	 chairman including
+8 	 7 	 N/N 	 1 	 chairman former
+8 	 9 	 (NP\NP)/NP 	 1 	 chairman of
+11 	 9 	 (NP\NP)/NP 	 2 	 Corp. of
+11 	 10 	 N/N 	 1 	 Corp. Southmark
+16 	 2 	 (NP\NP)/NP 	 2 	 Friedman including
+16 	 14 	 N/N 	 1 	 Friedman William
+16 	 15 	 N/N 	 1 	 Friedman S.
+20 	 2 	 (NP\NP)/NP 	 2 	 chairman including
+20 	 18 	 N/N 	 1 	 chairman former
+20 	 19 	 N/N 	 1 	 chairman vice
+20 	 21 	 (NP\NP)/NP 	 1 	 chairman of
+22 	 21 	 (NP\NP)/NP 	 2 	 Southmark of
+24 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 lowered to
+24 	 37 	 ((S\NP)\(S\NP))/PP 	 2 	 lowered according
+26 	 24 	 (S[dcl]\NP)/NP 	 2 	 stake lowered
+26 	 25 	 NP[nb]/N 	 1 	 stake its
+26 	 27 	 (NP\NP)/NP 	 1 	 stake in
+32 	 27 	 (NP\NP)/NP 	 2 	 concern in
+32 	 28 	 NP[nb]/N 	 1 	 concern the
+32 	 29 	 N/N 	 1 	 concern Dallas
+32 	 30 	 N/N 	 1 	 concern real
+32 	 31 	 N/N 	 1 	 concern estate
+35 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+35 	 34 	 N/N 	 1 	 % 7.7
+38 	 37 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+40 	 38 	 PP/NP 	 1 	 filing to
+40 	 39 	 NP[nb]/N 	 1 	 filing a
+40 	 41 	 (NP\NP)/NP 	 1 	 filing with
+43 	 41 	 (NP\NP)/NP 	 2 	 Securities with
+43 	 42 	 NP[nb]/N 	 1 	 Securities the
+46 	 41 	 (NP\NP)/NP 	 2 	 Commission with
+46 	 42 	 NP[nb]/N 	 1 	 Commission the
+46 	 45 	 N/N 	 1 	 Commission Exchange
+<\s>
+<s id="wsj_1385.2"> 23
+1 	 0 	 NP[nb]/N 	 1 	 group The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 group said
+3 	 4 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it sold
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 sold said
+4 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 sold to
+8 	 4 	 ((S[dcl]\NP)/PP)/NP 	 3 	 shares sold
+8 	 5 	 N/N 	 1 	 shares 455,410
+8 	 6 	 N/N 	 1 	 shares Southmark
+8 	 7 	 N/N 	 1 	 shares common
+10 	 9 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 Sept. from
+11 	 10 	 N/N[num] 	 1 	 5 Sept.
+12 	 9 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 to from
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 Oct. to
+14 	 13 	 N/N[num] 	 1 	 5 Oct.
+15 	 4 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for sold
+17 	 15 	 PP/NP 	 1 	 cents for
+17 	 16 	 N/N 	 1 	 cents 18.75
+17 	 18 	 (NP\NP)/NP 	 1 	 cents to
+17 	 21 	 (NP\NP)/N 	 1 	 cents a
+20 	 18 	 (NP\NP)/NP 	 2 	 cents to
+20 	 19 	 N/N 	 1 	 cents 25
+22 	 21 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_1385.3"> 11
+1 	 0 	 NP[nb]/N 	 1 	 filing The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 filing said
+4 	 3 	 NP[nb]/N 	 1 	 group the
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 group continues
+4 	 7 	 (S[b]\NP)/NP 	 1 	 group hold <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 continues said
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continues
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 hold to
+10 	 7 	 (S[b]\NP)/NP 	 2 	 shares hold
+10 	 8 	 N/N 	 1 	 shares 3,481,887
+10 	 9 	 N/N 	 1 	 shares remaining
+<\s>

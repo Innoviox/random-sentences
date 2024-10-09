@@ -1,0 +1,62 @@
+<s id="wsj_1953.1"> 22
+4 	 0 	 NP[nb]/N 	 1 	 Exchange The
+4 	 1 	 N/N 	 1 	 Exchange New
+4 	 2 	 N/N 	 1 	 Exchange York
+4 	 3 	 N/N 	 1 	 Exchange Stock
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Exchange said
+7 	 6 	 NP[nb]/N 	 1 	 seat a
+7 	 8 	 (S[dcl]\NP)/PP 	 1 	 seat sold
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 sold said
+8 	 13 	 (((S\NP)\(S\NP))/PP)/NP 	 2 	 sold down
+9 	 8 	 (S[dcl]\NP)/PP 	 2 	 for sold
+10 	 9 	 PP/NP 	 1 	 $ for
+11 	 10 	 N/N[num] 	 1 	 436,000 $
+14 	 13 	 (((S\NP)\(S\NP))/PP)/NP 	 4 	 $ down
+15 	 14 	 N/N[num] 	 1 	 39,000 $
+16 	 13 	 (((S\NP)\(S\NP))/PP)/NP 	 3 	 from down
+19 	 16 	 PP/NP 	 1 	 sale from
+19 	 17 	 NP[nb]/N 	 1 	 sale the
+19 	 18 	 N/N 	 1 	 sale previous
+19 	 20 	 (NP\NP)/N[num] 	 1 	 sale Oct.
+21 	 20 	 (NP\NP)/N[num] 	 2 	 4 Oct.
+<\s>
+<s id="wsj_1953.2"> 12
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Seats are
+0 	 3 	 (S[pss]\NP)/PP 	 1 	 Seats quoted <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 are currently
+3 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 quoted are
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 at quoted
+5 	 4 	 PP/NP 	 1 	 $ at
+6 	 5 	 N/N[num] 	 1 	 425,000 $
+9 	 4 	 PP/NP 	 1 	 $ at
+9 	 11 	 S[pss]\NP 	 1 	 $ offered <XB>
+10 	 9 	 N/N[num] 	 1 	 475,000 $
+<\s>
+<s id="wsj_1953.3"> 15
+2 	 1 	 (N/N)/N[num] 	 2 	 475,000 $
+4 	 0 	 NP[nb]/N 	 1 	 price The
+4 	 1 	 (N/N)/N[num] 	 1 	 price $
+4 	 3 	 N/N 	 1 	 price sale
+4 	 6 	 (NP\NP)/N 	 1 	 price this
+4 	 8 	 (S[dcl]\NP)/NP 	 1 	 price was
+6 	 5 	 (NP\NP)/(NP\NP) 	 2 	 this earlier
+7 	 6 	 (NP\NP)/N 	 2 	 month this
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 lowest was
+10 	 9 	 NP[nb]/N 	 1 	 lowest the
+10 	 11 	 (NP\NP)/NP 	 1 	 lowest in
+13 	 12 	 (N/N)/(N/N) 	 2 	 three nearly
+14 	 11 	 (NP\NP)/NP 	 2 	 years in
+14 	 13 	 N/N 	 1 	 years three
+<\s>
+<s id="wsj_1953.4"> 11
+1 	 0 	 N/N 	 1 	 seats Exchange
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 seats hit
+2 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 hit in
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 peak hit
+4 	 3 	 NP[nb]/N 	 1 	 peak a
+4 	 5 	 (NP\NP)/NP 	 1 	 peak of
+6 	 5 	 (NP\NP)/NP 	 2 	 $ of
+7 	 6 	 N/N[num] 	 1 	 1,150,000 $
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+9 	 10 	 N\N 	 1 	 September 1987
+<\s>

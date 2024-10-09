@@ -1,0 +1,1418 @@
+<s id="wsj_1457.1"> 11
+0 	 1 	 S\S 	 1 	 Does n't
+2 	 0 	 (S[q]/(S[b]\NP))/NP 	 2 	 anybody Does
+2 	 3 	 NP\NP 	 1 	 anybody here
+2 	 4 	 (S[b]\NP)/(S[to]\NP) 	 1 	 anybody want <XB>
+2 	 6 	 (S[b]\NP)/NP 	 1 	 anybody win <XB>
+4 	 0 	 (S[q]/(S[b]\NP))/NP 	 1 	 want Does
+5 	 4 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to want
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 win to
+8 	 7 	 NP[nb]/N 	 1 	 mayor this
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 mayor 's
+10 	 6 	 (S[b]\NP)/NP 	 2 	 race win
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 race 's
+<\s>
+<s id="wsj_1457.2"> 24
+1 	 2 	 S[dcl]\NP 	 1 	 they stumble
+1 	 4 	 S[dcl]\NP 	 1 	 they bumble <XU>
+2 	 0 	 (S/S)/S[dcl] 	 2 	 stumble As
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 stumble toward
+4 	 0 	 (S/S)/S[dcl] 	 2 	 bumble As
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 bumble toward
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 day toward
+7 	 6 	 N/N 	 1 	 day election
+7 	 9 	 NP\NP 	 1 	 day weeks
+9 	 8 	 (NP\NP)/(NP\NP) 	 2 	 weeks two
+9 	 10 	 ((NP\NP)\(NP\NP))/NP 	 2 	 weeks from
+11 	 10 	 ((NP\NP)\(NP\NP))/NP 	 3 	 tomorrow from
+16 	 13 	 NP/NP 	 1 	 Dinkins both
+16 	 14 	 N/N 	 1 	 Dinkins Democrat
+16 	 15 	 N/N 	 1 	 Dinkins David
+16 	 21 	 (S[dcl]\NP)/PP 	 1 	 Dinkins are
+20 	 13 	 NP/NP 	 1 	 Giuliani both
+20 	 18 	 N/N 	 1 	 Giuliani Republican
+20 	 19 	 N/N 	 1 	 Giuliani Rudolph
+20 	 21 	 (S[dcl]\NP)/PP 	 1 	 Giuliani are
+21 	 0 	 (S/S)/S[dcl] 	 1 	 are As
+22 	 21 	 (S[dcl]\NP)/PP 	 2 	 in are
+23 	 22 	 PP/NP 	 1 	 trouble in
+<\s>
+<s id="wsj_1457.3"> 27
+1 	 0 	 N/N 	 1 	 Dinkins Mr.
+1 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Dinkins can
+1 	 9 	 (S[b]\NP)/NP 	 1 	 Dinkins afford <XB>
+6 	 3 	 NP[nb]/N 	 1 	 president the
+6 	 4 	 N/N 	 1 	 president Manhattan
+6 	 5 	 N/N 	 1 	 president borough
+6 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 president can
+6 	 9 	 (S[b]\NP)/NP 	 1 	 president afford <XB>
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 afford can
+9 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 afford because
+11 	 9 	 (S[b]\NP)/NP 	 2 	 bumbling afford
+11 	 10 	 N/N 	 1 	 bumbling more
+13 	 9 	 (S[b]\NP)/NP 	 2 	 stumbling afford
+13 	 10 	 N/N 	 1 	 stumbling more
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 he holds
+16 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 holds because
+16 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 holds in
+20 	 16 	 (S[dcl]\NP)/NP 	 2 	 lead holds
+20 	 17 	 NP[nb]/N 	 1 	 lead a
+20 	 18 	 N/N 	 1 	 lead comfortable
+20 	 19 	 N/N 	 1 	 lead 20-point
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 most in
+22 	 23 	 (NP\NP)/NP 	 1 	 most of
+26 	 23 	 (NP\NP)/NP 	 2 	 polls of
+26 	 24 	 NP[nb]/N 	 1 	 polls the
+26 	 25 	 N/N 	 1 	 polls public-opinion
+<\s>
+<s id="wsj_1457.4"> 42
+6 	 2 	 (S/S)/NP 	 2 	 days in
+6 	 3 	 NP[nb]/N 	 1 	 days the
+6 	 4 	 N/N 	 1 	 days past
+6 	 5 	 N/N 	 1 	 days 10
+8 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he has
+8 	 10 	 (S[pt]\NP)/NP 	 1 	 he taken <XB>
+9 	 0 	 S/S 	 1 	 has But
+9 	 2 	 (S/S)/NP 	 1 	 has in
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 taken has
+12 	 10 	 (S[pt]\NP)/NP 	 2 	 series taken
+12 	 11 	 NP[nb]/N 	 1 	 series a
+12 	 13 	 (NP\NP)/NP 	 1 	 series of
+12 	 22 	 (NP\NP)/(S[dcl]\NP) 	 1 	 series that
+12 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 series could <XB>
+12 	 25 	 (S[b]\NP)/NP 	 1 	 series affect <XB>
+15 	 13 	 (NP\NP)/NP 	 2 	 blows of
+15 	 14 	 N/N 	 1 	 blows body
+15 	 16 	 (NP\NP)/NP 	 1 	 blows to
+18 	 16 	 (NP\NP)/NP 	 2 	 pride to
+18 	 17 	 NP[nb]/N 	 1 	 pride his
+21 	 16 	 (NP\NP)/NP 	 2 	 reputation to
+21 	 20 	 NP[nb]/N 	 1 	 reputation his
+23 	 22 	 (NP\NP)/(S[dcl]\NP) 	 2 	 could that
+25 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 affect could
+25 	 24 	 (S\NP)/(S\NP) 	 2 	 affect adversely
+25 	 33 	 (((S\NP)\(S\NP))/(S[b]\NP))/NP 	 2 	 affect should
+27 	 25 	 (S[b]\NP)/NP 	 2 	 ability affect
+27 	 26 	 NP[nb]/N 	 1 	 ability his
+27 	 29 	 (S[b]\NP)/NP 	 1 	 ability govern <XB>
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 govern to
+32 	 29 	 (S[b]\NP)/NP 	 2 	 city govern
+32 	 30 	 NP[nb]/N 	 1 	 city this
+32 	 31 	 N/N 	 1 	 city tumultuous
+34 	 33 	 (((S\NP)\(S\NP))/(S[b]\NP))/NP 	 4 	 he should
+34 	 35 	 (S[b]\NP)/NP 	 1 	 he become <XB>
+35 	 33 	 (((S\NP)\(S\NP))/(S[b]\NP))/NP 	 3 	 become should
+37 	 36 	 N/N 	 1 	 York New
+37 	 38 	 (NP[nb]/N)\NP 	 2 	 York 's
+41 	 35 	 (S[b]\NP)/NP 	 2 	 mayor become
+41 	 38 	 (NP[nb]/N)\NP 	 1 	 mayor 's
+41 	 39 	 N/N 	 1 	 mayor first
+41 	 40 	 N/N 	 1 	 mayor black
+<\s>
+<s id="wsj_1457.5"> 17
+4 	 2 	 NP[nb]/N 	 1 	 opponent a
+4 	 3 	 N/N 	 1 	 opponent clever
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 opponent would
+4 	 6 	 (S[b]\NP)/NP 	 1 	 opponent find <XB>
+5 	 0 	 S/S 	 1 	 would Ordinarily
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 find would
+8 	 6 	 (S[b]\NP)/NP 	 2 	 way find
+8 	 7 	 NP[nb]/N 	 1 	 way a
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 capitalize to
+11 	 10 	 (S[b]\NP)/PP 	 2 	 on capitalize
+14 	 12 	 NP[nb]/N 	 1 	 side the
+14 	 13 	 N/N 	 1 	 side other
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 side 's
+16 	 11 	 PP/NP 	 1 	 misfortunes on
+16 	 15 	 (NP[nb]/N)\NP 	 1 	 misfortunes 's
+<\s>
+<s id="wsj_1457.6"> 35
+2 	 1 	 N/N 	 1 	 Giuliani Mr.
+2 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Giuliani has
+2 	 9 	 (S[pt]\NP)/NP 	 1 	 Giuliani had <XB>
+6 	 4 	 NP[nb]/N 	 1 	 prosecutor a
+6 	 5 	 N/N 	 1 	 prosecutor celebrated
+6 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 prosecutor has
+6 	 9 	 (S[pt]\NP)/NP 	 1 	 prosecutor had <XB>
+8 	 0 	 S/S 	 1 	 has But
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 had has
+10 	 9 	 (S[pt]\NP)/NP 	 2 	 difficulty had
+10 	 11 	 ((S[ng]\NP)/PP)/PP 	 1 	 difficulty switching <XB>
+12 	 11 	 ((S[ng]\NP)/PP)/PP 	 3 	 from switching
+17 	 12 	 PP/NP 	 1 	 mode from
+17 	 13 	 NP[nb]/N 	 1 	 mode his
+17 	 14 	 N/N 	 1 	 mode crime-busting
+17 	 16 	 N/N 	 1 	 mode finger-pointing
+18 	 11 	 ((S[ng]\NP)/PP)/PP 	 2 	 to switching
+21 	 18 	 PP/NP 	 1 	 stance to
+21 	 19 	 NP[nb]/N 	 1 	 stance a
+21 	 20 	 N/N 	 1 	 stance political
+21 	 22 	 (NP\NP)/(S[dcl]\NP) 	 1 	 stance that
+21 	 23 	 (S[dcl]\NP)/S[dcl] 	 1 	 stance suggests <XB>
+23 	 22 	 (NP\NP)/(S[dcl]\NP) 	 2 	 suggests that
+24 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he might
+24 	 26 	 (S[b]\NP)/NP 	 1 	 he know <XB>
+25 	 23 	 (S[dcl]\NP)/S[dcl] 	 2 	 might suggests
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 know might
+27 	 26 	 (S[b]\NP)/NP 	 2 	 something know
+27 	 28 	 (NP\NP)/(S[ng]\NP) 	 1 	 something about
+29 	 28 	 (NP\NP)/(S[ng]\NP) 	 2 	 running about
+34 	 29 	 (S[ng]\NP)/NP 	 2 	 city running
+34 	 30 	 NP[nb]/N 	 1 	 city this
+34 	 31 	 N/N 	 1 	 city big
+34 	 33 	 N/N 	 1 	 city troubled
+<\s>
+<s id="wsj_1457.7"> 14
+6 	 3 	 (S/S)/NP 	 2 	 moment at
+6 	 4 	 NP[nb]/N 	 1 	 moment the
+6 	 5 	 N/N 	 1 	 moment crucial
+8 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 he 's
+8 	 10 	 (S[ng]\NP)/PP 	 1 	 he running <XB>
+9 	 0 	 S/S 	 1 	 's And
+9 	 1 	 S/S 	 1 	 's now
+9 	 3 	 (S/S)/NP 	 1 	 's at
+10 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 running 's
+12 	 10 	 (S[ng]\NP)/PP 	 2 	 of running
+12 	 11 	 PP/PP 	 1 	 of out
+13 	 12 	 PP/NP 	 1 	 money of
+<\s>
+<s id="wsj_1457.8"> 20
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 This is
+3 	 2 	 NP[nb]/N 	 1 	 nation the
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 nation 's
+6 	 1 	 (S[dcl]\NP)/NP 	 2 	 city is
+6 	 4 	 (NP[nb]/N)\NP 	 1 	 city 's
+6 	 5 	 N/N 	 1 	 city biggest
+12 	 11 	 NP[nb]/N 	 1 	 mayor its
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 mayor is
+13 	 9 	 S/S 	 1 	 is traditionally
+15 	 14 	 NP[nb]/N 	 1 	 nation the
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 nation 's
+19 	 13 	 (S[dcl]\NP)/NP 	 2 	 politician is
+19 	 16 	 (NP[nb]/N)\NP 	 1 	 politician 's
+19 	 17 	 N/N 	 1 	 politician best-known
+19 	 18 	 N/N 	 1 	 politician urban
+<\s>
+<s id="wsj_1457.9"> 12
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Democrats hoped
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that hoped
+4 	 3 	 N/N 	 1 	 Dinkins Mr.
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Dinkins could
+4 	 6 	 (S[b]\NP)/NP 	 1 	 Dinkins become <XB>
+5 	 2 	 S[em]/S[dcl] 	 1 	 could that
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 become could
+11 	 6 	 (S[b]\NP)/NP 	 2 	 leader become
+11 	 7 	 NP[nb]/N 	 1 	 leader a
+11 	 8 	 N/N 	 1 	 leader highly
+11 	 9 	 N/N 	 1 	 leader visible
+11 	 10 	 N/N 	 1 	 leader national
+<\s>
+<s id="wsj_1457.10"> 37
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Republicans figured
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that figured
+5 	 3 	 (S/S)/NP 	 2 	 Giuliani in
+5 	 4 	 N/N 	 1 	 Giuliani Mr.
+8 	 7 	 NP[nb]/N 	 1 	 nation the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 nation 's
+11 	 3 	 (S/S)/NP 	 2 	 prosecutor in
+11 	 9 	 (NP[nb]/N)\NP 	 1 	 prosecutor 's
+11 	 10 	 N/N 	 1 	 prosecutor best-known
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 they had
+14 	 2 	 S[em]/S[dcl] 	 1 	 had that
+14 	 3 	 (S/S)/NP 	 1 	 had in
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 chance had
+16 	 15 	 NP[nb]/N 	 1 	 chance a
+16 	 17 	 (NP\NP)/NP 	 1 	 chance for
+20 	 17 	 (NP\NP)/NP 	 2 	 upset for
+20 	 18 	 NP[nb]/N 	 1 	 upset a
+20 	 19 	 N/N 	 1 	 upset huge
+20 	 21 	 (NP\NP)/NP 	 1 	 upset in
+23 	 21 	 (NP\NP)/NP 	 2 	 heart in
+23 	 22 	 NP[nb]/N 	 1 	 heart the
+23 	 24 	 (NP\NP)/NP 	 1 	 heart of
+26 	 24 	 (NP\NP)/NP 	 2 	 territory of
+26 	 25 	 N/N 	 1 	 territory Democratic
+28 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that figured
+29 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they would
+29 	 31 	 (S[b]\NP)/NP 	 1 	 they pick <XB>
+30 	 28 	 S[em]/S[dcl] 	 1 	 would that
+31 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 pick would
+31 	 32 	 (S\NP)\(S\NP) 	 2 	 pick up
+36 	 31 	 (S[b]\NP)/NP 	 2 	 star pick
+36 	 33 	 NP[nb]/N 	 1 	 star a
+36 	 34 	 N/N 	 1 	 star new
+36 	 35 	 N/N 	 1 	 star political
+<\s>
+<s id="wsj_1457.11"> 8
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+1 	 4 	 S[pt]\NP 	 1 	 it worked <XB>
+2 	 0 	 S/S 	 1 	 has But
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 has n't
+4 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 worked has
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 worked out
+4 	 6 	 ((S\NP)\(S\NP))/N 	 2 	 worked that
+7 	 6 	 ((S\NP)\(S\NP))/N 	 3 	 way that
+<\s>
+<s id="wsj_1457.12"> 35
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Dinkins is
+1 	 8 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+6 	 1 	 (S[dcl]\NP)/NP 	 2 	 guy is
+6 	 2 	 NP[nb]/N 	 1 	 guy a
+6 	 3 	 N/N 	 1 	 guy decent <XU>
+6 	 5 	 N/N 	 1 	 guy sloppy
+10 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 Garth says
+10 	 9 	 N/N 	 1 	 Garth David
+14 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 consultant says
+14 	 12 	 N/N 	 1 	 consultant veteran
+14 	 13 	 N/N 	 1 	 consultant campaign
+14 	 15 	 NP\NP 	 1 	 consultant here
+14 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 consultant who
+14 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 consultant has <XB>
+14 	 19 	 (S[pt]\NP)/PP 	 1 	 consultant worked <XB>
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has who
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 has always
+19 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 worked has
+20 	 19 	 (S[pt]\NP)/PP 	 2 	 for worked
+23 	 20 	 PP/NP 	 1 	 Koch for
+23 	 21 	 N/N 	 1 	 Koch Mayor
+23 	 22 	 N/N 	 1 	 Koch Edward
+23 	 25 	 S[pss]\NP 	 1 	 Koch defeated <XB>
+25 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 defeated by
+25 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 defeated in
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 Dinkins by
+28 	 27 	 N/N 	 1 	 Dinkins Mr.
+34 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 primary in
+34 	 30 	 NP[nb]/N 	 1 	 primary the
+34 	 31 	 N/N 	 1 	 primary Sept.
+34 	 32 	 N/N 	 1 	 primary 12
+34 	 33 	 N/N 	 1 	 primary Democratic
+<\s>
+<s id="wsj_1457.13"> 7
+1 	 0 	 NP[nb]/N 	 1 	 alternative The
+1 	 2 	 (NP\NP)/NP 	 1 	 alternative --
+1 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 alternative is
+1 	 6 	 S[adj]\NP 	 1 	 alternative ghastly <XB>
+3 	 2 	 (NP\NP)/NP 	 2 	 Giuliani --
+6 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 ghastly is
+<\s>
+<s id="wsj_1457.14"> 34
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 I guess
+1 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 guess says
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 we 'll
+2 	 5 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 we go <XB>
+2 	 6 	 S[adj]\NP 	 1 	 we ahead <XB>
+2 	 8 	 (S[b]\NP)/NP 	 1 	 we do <XU>
+2 	 11 	 (S[b]\NP)/PP 	 1 	 we vote <XU>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 'll guess
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 'll reluctantly
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go 'll
+6 	 5 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 ahead go
+8 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 do 'll
+9 	 8 	 (S[b]\NP)/NP 	 2 	 it do
+11 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 vote 'll
+12 	 11 	 (S[b]\NP)/PP 	 2 	 for vote
+13 	 12 	 PP/NP 	 1 	 Dinkins for
+17 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 Wade says
+17 	 16 	 N/N 	 1 	 Wade Richard
+22 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 professor says
+22 	 19 	 NP[nb]/N 	 1 	 professor a
+22 	 20 	 N/N 	 1 	 professor politically
+22 	 21 	 N/N 	 1 	 professor active
+22 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 professor who
+22 	 24 	 (S[dcl]\NP)/NP 	 1 	 professor supported <XB>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 supported who
+26 	 24 	 (S[dcl]\NP)/NP 	 2 	 Ravitch supported
+26 	 25 	 N/N 	 1 	 Ravitch Richard
+29 	 24 	 (S[dcl]\NP)/NP 	 2 	 also-ran supported
+29 	 28 	 NP[nb]/N 	 1 	 also-ran an
+29 	 30 	 (NP\NP)/NP 	 1 	 also-ran in
+33 	 30 	 (NP\NP)/NP 	 2 	 primary in
+33 	 31 	 NP[nb]/N 	 1 	 primary the
+33 	 32 	 N/N 	 1 	 primary Democratic
+<\s>
+<s id="wsj_1457.15"> 7
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There 's
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 's on
+2 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 nothing 's
+6 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 side on
+6 	 4 	 NP[nb]/N 	 1 	 side the
+6 	 5 	 N/N 	 1 	 side other
+<\s>
+<s id="wsj_1457.16"> 28
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 We 're
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 We picking <XB>
+1 	 6 	 (S[dcl]\S[dcl])/NP 	 1 	 're insists
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 picking 're
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 picking up
+4 	 2 	 (S[ng]\NP)/NP 	 2 	 steam picking
+8 	 6 	 (S[dcl]\S[dcl])/NP 	 2 	 Ailes insists
+8 	 7 	 N/N 	 1 	 Ailes Roger
+8 	 16 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 Ailes whose
+11 	 10 	 N/N 	 1 	 Giuliani Mr.
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Giuliani 's
+14 	 6 	 (S[dcl]\S[dcl])/NP 	 2 	 consultant insists
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 consultant 's
+14 	 13 	 N/N 	 1 	 consultant media
+14 	 16 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 consultant whose
+19 	 16 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 campaign whose
+19 	 17 	 N/N 	 1 	 campaign last
+19 	 18 	 N/N 	 1 	 campaign big
+19 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 campaign helped <XB>
+19 	 21 	 ((S[pss]\NP)/PP)/NP 	 1 	 campaign put <XB>
+20 	 16 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 helped whose
+21 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 put helped
+23 	 21 	 ((S[pss]\NP)/PP)/NP 	 3 	 Bush put
+23 	 22 	 N/N 	 1 	 Bush George
+24 	 21 	 ((S[pss]\NP)/PP)/NP 	 2 	 in put
+27 	 24 	 PP/NP 	 1 	 House in
+27 	 25 	 NP[nb]/N 	 1 	 House the
+27 	 26 	 N/N 	 1 	 House White
+<\s>
+<s id="wsj_1457.17"> 14
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He adds
+3 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 It has
+3 	 7 	 (S[pt]\NP)/PP 	 1 	 It gotten <XB>
+5 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 has adds
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 has just
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 has n't
+7 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 gotten has
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 gotten down
+7 	 13 	 (S\NP)\(S\NP) 	 2 	 gotten yet
+9 	 7 	 (S[pt]\NP)/PP 	 2 	 to gotten
+12 	 9 	 PP/NP 	 1 	 room to
+12 	 10 	 NP[nb]/N 	 1 	 room the
+12 	 11 	 N/N 	 1 	 room engine
+<\s>
+<s id="wsj_1457.18"> 9
+2 	 1 	 NP[nb]/N 	 1 	 steam the
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 steam may
+2 	 5 	 (S[b]\NP)/NP 	 1 	 steam reach <XB>
+3 	 0 	 S/S 	 1 	 may But
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 may never
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reach may
+8 	 5 	 (S[b]\NP)/NP 	 2 	 room reach
+8 	 6 	 NP[nb]/N 	 1 	 room the
+8 	 7 	 N/N 	 1 	 room engine
+<\s>
+<s id="wsj_1457.19"> 35
+3 	 2 	 (S/S)/(S/S) 	 2 	 as just
+5 	 4 	 N/N 	 1 	 Giuliani Mr.
+5 	 6 	 (S[dcl]\NP)/PP 	 1 	 Giuliani latches
+6 	 3 	 (S/S)/S[dcl] 	 2 	 latches as
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 latches on
+8 	 6 	 (S[dcl]\NP)/PP 	 2 	 to latches
+10 	 8 	 PP/NP 	 1 	 issue to
+10 	 9 	 NP[nb]/N 	 1 	 issue an
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 issue that
+10 	 12 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 1 	 issue has <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has that
+14 	 12 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 3 	 Dinkins has
+14 	 13 	 N/N 	 1 	 Dinkins Mr.
+14 	 15 	 S[ng]\NP 	 1 	 Dinkins reeling <XB>
+15 	 12 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 2 	 reeling has
+18 	 17 	 NP[nb]/N 	 1 	 campaign his
+18 	 20 	 (S[dcl]\NP)/NP 	 1 	 campaign needs
+18 	 23 	 (S[b]\NP)/NP 	 1 	 campaign keep <XB>
+20 	 0 	 S/S 	 1 	 needs For
+20 	 3 	 (S/S)/S[dcl] 	 1 	 needs as
+20 	 19 	 (S\NP)/(S\NP) 	 2 	 needs desperately
+21 	 20 	 (S[dcl]\NP)/NP 	 2 	 cash needs
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 keep to
+23 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 keep on
+23 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 keep beyond
+25 	 24 	 N/N 	 1 	 Ailes Mr.
+25 	 26 	 (NP[nb]/N)\NP 	 2 	 Ailes 's
+27 	 23 	 (S[b]\NP)/NP 	 2 	 commercials keep
+27 	 26 	 (NP[nb]/N)\NP 	 1 	 commercials 's
+30 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 air on
+30 	 29 	 NP[nb]/N 	 1 	 air the
+32 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 Wednesday beyond
+34 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 Thursday beyond
+<\s>
+<s id="wsj_1457.20"> 45
+1 	 0 	 (S[to]\NP)/(S[b]\NP) 	 2 	 help To
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 help out
+1 	 3 	 ((S\NP)\(S\NP))/N 	 2 	 help this
+4 	 3 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+8 	 6 	 NP[nb]/N 	 1 	 House the
+8 	 7 	 N/N 	 1 	 House White
+8 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 House is
+8 	 10 	 (S[ng]\NP)/NP 	 1 	 House dispatching <XB>
+10 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 dispatching is
+10 	 36 	 ((S\NP)\(S\NP))/PP 	 2 	 dispatching according
+11 	 12 	 ((N/N)\(N/N))/NP 	 2 	 chief of
+13 	 12 	 ((N/N)\(N/N))/NP 	 3 	 staff of
+15 	 10 	 (S[ng]\NP)/NP 	 2 	 Sununu dispatching
+15 	 11 	 N/N 	 1 	 Sununu chief
+15 	 14 	 N/N 	 1 	 Sununu John
+19 	 10 	 (S[ng]\NP)/NP 	 2 	 members dispatching
+19 	 17 	 N/N 	 1 	 members three
+19 	 18 	 N/N 	 1 	 members Cabinet
+19 	 20 	 (NP\NP)/NP 	 1 	 members --
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 HUD 's
+24 	 20 	 (NP\NP)/NP 	 2 	 Kemp --
+24 	 22 	 (NP[nb]/N)\NP 	 1 	 Kemp 's
+24 	 23 	 N/N 	 1 	 Kemp Jack
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 Transportation 's
+29 	 20 	 (NP\NP)/NP 	 2 	 Skinner --
+29 	 27 	 (NP[nb]/N)\NP 	 1 	 Skinner 's
+29 	 28 	 N/N 	 1 	 Skinner Samuel
+31 	 32 	 (NP[nb]/N)\NP 	 2 	 Treasury 's
+34 	 20 	 (NP\NP)/NP 	 2 	 Brady --
+34 	 32 	 (NP[nb]/N)\NP 	 1 	 Brady 's
+34 	 33 	 N/N 	 1 	 Brady Nicholas
+37 	 36 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+39 	 37 	 PP/NP 	 1 	 Powers to
+39 	 38 	 N/N 	 1 	 Powers Peter
+44 	 37 	 PP/NP 	 1 	 manager to
+44 	 41 	 NP[nb]/N 	 1 	 manager the
+44 	 42 	 N/N 	 1 	 manager Giuliani
+44 	 43 	 N/N 	 1 	 manager campaign
+<\s>
+<s id="wsj_1457.21"> 17
+1 	 0 	 (S/S)/NP 	 2 	 Republicans For
+1 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Republicans who
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 Republicans began <XB>
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 began who
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 began with
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 campaign began
+5 	 4 	 NP[nb]/N 	 1 	 campaign this
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 hopes with
+9 	 7 	 NP/NP 	 1 	 hopes such
+9 	 8 	 N/N 	 1 	 hopes high
+11 	 12 	 (NP\NP)/NP 	 1 	 all of
+11 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 all is
+11 	 16 	 S[adj]\NP 	 1 	 all frustrating <XB>
+13 	 12 	 (NP\NP)/NP 	 2 	 this of
+14 	 0 	 (S/S)/NP 	 1 	 is For
+16 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 frustrating is
+16 	 15 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 frustrating deeply
+<\s>
+<s id="wsj_1457.22"> 9
+3 	 2 	 N/N 	 1 	 York New
+3 	 4 	 (S[dcl]\NP)/PP 	 1 	 York is
+4 	 6 	 (S\NP)\(S\NP) 	 2 	 is always
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 always almost
+7 	 4 	 (S[dcl]\NP)/PP 	 2 	 in is
+8 	 7 	 PP/NP 	 1 	 trouble in
+<\s>
+<s id="wsj_1457.23"> 22
+2 	 1 	 NP[nb]/N 	 1 	 trouble the
+2 	 4 	 (S[dcl]\NP)/NP 	 2 	 trouble faces <XU>
+2 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 trouble seems
+2 	 10 	 S[adj]\NP 	 1 	 trouble bigger <XB>
+2 	 13 	 S[adj]\NP 	 1 	 trouble daunting <XU>
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 it faces
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 faces now
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 faces under
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 rule under
+8 	 7 	 N/N 	 1 	 rule Democratic
+9 	 0 	 S/S 	 1 	 seems But
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 bigger seems
+10 	 14 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 bigger than
+13 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 daunting seems
+13 	 12 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 daunting more
+13 	 14 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 daunting than
+15 	 14 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 anything than
+15 	 18 	 (S[pt]\NP)/NP 	 2 	 anything faced <XU>
+16 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+16 	 18 	 (S[pt]\NP)/NP 	 1 	 it faced <XB>
+18 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 faced has
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 faced in
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 past in
+21 	 20 	 NP[nb]/N 	 1 	 past the
+<\s>
+<s id="wsj_1457.24"> 16
+1 	 0 	 (S/S)/N 	 2 	 year This
+4 	 3 	 NP[nb]/N 	 1 	 city the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 city faces
+5 	 0 	 (S/S)/N 	 1 	 faces This
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 deficit faces
+8 	 6 	 NP[nb]/N 	 1 	 deficit a
+8 	 7 	 N/N 	 1 	 deficit budget
+8 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 deficit that
+8 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 deficit could <XB>
+8 	 11 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 deficit become <XB>
+8 	 13 	 S[adj]\NP 	 1 	 deficit bigger <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 could that
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 become could
+11 	 15 	 (S\NP)\(S\NP) 	 2 	 become year
+13 	 11 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 bigger become
+13 	 12 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 bigger even
+15 	 14 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+<\s>
+<s id="wsj_1457.25"> 26
+2 	 1 	 (S/S)/(S/S) 	 2 	 surprising hardly
+5 	 4 	 N/N 	 1 	 residents many
+5 	 6 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 residents trying <XB>
+5 	 8 	 (S[b]\NP)/PP 	 1 	 residents cope <XB>
+5 	 15 	 (S[dcl]\NP)/PP 	 1 	 residents are
+7 	 6 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cope to
+9 	 8 	 (S[b]\NP)/PP 	 2 	 with cope
+11 	 10 	 NP[nb]/N 	 1 	 city the
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 city 's
+14 	 9 	 PP/NP 	 1 	 problems with
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 problems 's
+14 	 13 	 N/N 	 1 	 problems other
+15 	 0 	 S/S 	 1 	 are And
+15 	 2 	 S/S 	 1 	 are surprising
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 are constantly
+17 	 15 	 (S[dcl]\NP)/PP 	 2 	 on are
+18 	 17 	 PP/NP 	 1 	 edge on
+22 	 20 	 N/N 	 1 	 group one
+22 	 21 	 N/N 	 1 	 group ethnic
+22 	 23 	 (S[ng]\NP)/PP 	 1 	 group scrapping
+24 	 23 	 (S[ng]\NP)/PP 	 2 	 with scrapping
+25 	 24 	 PP/NP 	 1 	 another with
+<\s>
+<s id="wsj_1457.26"> 39
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 People were
+0 	 4 	 S[adj]\NP 	 1 	 People happy <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 were n't
+1 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 were in
+1 	 9 	 (S[dcl]\S[dcl])/NP 	 1 	 were says
+4 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 happy were
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 happy so
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 1930s in
+7 	 6 	 NP[nb]/N 	 1 	 1930s the
+11 	 9 	 (S[dcl]\S[dcl])/NP 	 2 	 Lessner says
+11 	 10 	 N/N 	 1 	 Lessner Thomas
+15 	 9 	 (S[dcl]\S[dcl])/NP 	 2 	 professor says
+15 	 13 	 NP[nb]/N 	 1 	 professor another
+15 	 14 	 N/N 	 1 	 professor local
+18 	 9 	 (S[dcl]\S[dcl])/NP 	 2 	 biographer says
+18 	 17 	 NP[nb]/N 	 1 	 biographer the
+18 	 19 	 (NP\NP)/NP 	 1 	 biographer of
+23 	 19 	 (NP\NP)/NP 	 2 	 LaGuardia of
+23 	 20 	 NP[nb]/N 	 1 	 LaGuardia the
+23 	 21 	 N/N 	 1 	 LaGuardia legendary
+23 	 22 	 N/N 	 1 	 LaGuardia Fiorello
+26 	 25 	 NP[nb]/N 	 1 	 city the
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 city 's
+29 	 19 	 (NP\NP)/NP 	 2 	 mayor of
+29 	 27 	 (NP[nb]/N)\NP 	 1 	 mayor 's
+29 	 28 	 N/N 	 1 	 mayor fusion
+29 	 30 	 (NP\NP)/(S[dcl]\NP) 	 1 	 mayor who
+29 	 31 	 (S[dcl]\NP)/NP 	 1 	 mayor built <XB>
+31 	 30 	 (NP\NP)/(S[dcl]\NP) 	 2 	 built who
+33 	 31 	 (S[dcl]\NP)/NP 	 2 	 coalition built
+33 	 32 	 NP[nb]/N 	 1 	 coalition a
+33 	 38 	 (S[b]\NP)/NP 	 2 	 coalition emulate <XU>
+35 	 34 	 N/N 	 1 	 Giuliani Mr.
+35 	 36 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Giuliani hopes
+35 	 38 	 (S[b]\NP)/NP 	 1 	 Giuliani emulate <XB>
+37 	 36 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to hopes
+38 	 37 	 (S[to]\NP)/(S[b]\NP) 	 2 	 emulate to
+<\s>
+<s id="wsj_1457.27"> 17
+3 	 2 	 (S/S)/(S[adj]\NP) 	 2 	 least at
+6 	 5 	 (S/S)/(S/S) 	 2 	 then back
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they did
+7 	 11 	 (S[b]\NP)/NP 	 1 	 they direct <XB>
+8 	 0 	 S/S 	 1 	 did But
+8 	 2 	 (S/S)/(S[adj]\NP) 	 1 	 did at
+8 	 6 	 S/S 	 1 	 did then
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 did n't
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 did generally
+11 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 direct did
+11 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 direct at
+13 	 11 	 (S[b]\NP)/NP 	 2 	 anger direct
+13 	 12 	 NP[nb]/N 	 1 	 anger their
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 other at
+16 	 15 	 NP[nb]/N 	 1 	 other each
+<\s>
+<s id="wsj_1457.28"> 25
+3 	 0 	 NP[nb]/N 	 1 	 Dinkins The
+3 	 1 	 N/N 	 1 	 Dinkins 62-year-old
+3 	 2 	 N/N 	 1 	 Dinkins Mr.
+3 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Dinkins has
+3 	 9 	 (S[pt]\NP)/PP 	 1 	 Dinkins served <XB>
+6 	 5 	 NP[nb]/N 	 1 	 ex-Marine an
+6 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 ex-Marine has
+6 	 9 	 (S[pt]\NP)/PP 	 1 	 ex-Marine served <XB>
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 served has
+10 	 9 	 (S[pt]\NP)/PP 	 2 	 as served
+13 	 10 	 PP/NP 	 1 	 clerk as
+13 	 11 	 NP[nb]/N 	 1 	 clerk the
+13 	 12 	 N/N 	 1 	 clerk city
+15 	 9 	 (S[pt]\NP)/PP 	 2 	 as served
+18 	 15 	 PP/NP 	 1 	 president as
+18 	 16 	 N/N 	 1 	 president Manhattan
+18 	 17 	 N/N 	 1 	 president borough
+21 	 15 	 PP/NP 	 1 	 job as
+21 	 20 	 NP[nb]/N 	 1 	 job a
+21 	 22 	 (NP\NP)/NP 	 1 	 job with
+25 	 22 	 (NP\NP)/NP 	 2 	 responsibilities with
+25 	 23 	 N/N 	 1 	 responsibilities limited
+25 	 24 	 N/N 	 1 	 responsibilities executive
+<\s>
+<s id="wsj_1457.29"> 19
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 I defy
+2 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 defy says
+3 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 you defy
+3 	 5 	 S[b]\NP 	 1 	 you come <XB>
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to defy
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 come to
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 come up
+5 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 come with
+10 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 accomplishment with
+10 	 8 	 N/N 	 1 	 accomplishment one
+10 	 9 	 N/N 	 1 	 accomplishment major
+10 	 11 	 (NP\NP)/NP 	 1 	 accomplishment of
+13 	 11 	 (NP\NP)/NP 	 2 	 Dinkins of
+13 	 12 	 N/N 	 1 	 Dinkins David
+17 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 Giuliani says
+17 	 16 	 N/N 	 1 	 Giuliani Mr.
+<\s>
+<s id="wsj_1457.30"> 27
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 He defeated
+1 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 defeated in
+1 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 defeated because
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 Koch defeated
+5 	 2 	 NP[nb]/N 	 1 	 Koch the
+5 	 3 	 N/N 	 1 	 Koch contentious
+5 	 4 	 N/N 	 1 	 Koch Mr.
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 primary in
+9 	 7 	 NP[nb]/N 	 1 	 primary the
+9 	 8 	 N/N 	 1 	 primary Democratic
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 because partly
+12 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 he seemed
+12 	 15 	 (S[b]\NP)/NP 	 1 	 he offer <XB>
+13 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 seemed because
+14 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to seemed
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 offer to
+16 	 15 	 (S[b]\NP)/NP 	 2 	 hope offer
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he could
+17 	 19 	 (S[b]\NP)/NP 	 1 	 he heal <XB>
+18 	 16 	 N/S[dcl] 	 1 	 could hope
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 heal could
+21 	 20 	 NP[nb]/N 	 1 	 city the
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 city 's
+26 	 19 	 (S[b]\NP)/NP 	 2 	 wounds heal
+26 	 22 	 (NP[nb]/N)\NP 	 1 	 wounds 's
+26 	 23 	 N/N 	 1 	 wounds racial
+26 	 25 	 N/N 	 1 	 wounds ethnic
+<\s>
+<s id="wsj_1457.31"> 13
+2 	 0 	 NP[nb]/N 	 1 	 campaign His
+2 	 1 	 N/N 	 1 	 campaign general-election
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 campaign is
+2 	 5 	 S[adj]\NP 	 1 	 campaign Reagan-like <XB>
+5 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 Reagan-like is
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 Reagan-like almost
+5 	 7 	 ((S[adj]\NP)\(S[adj]\NP))/N 	 2 	 Reagan-like all
+5 	 12 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 Reagan-like words <XU>
+9 	 7 	 ((S[adj]\NP)\(S[adj]\NP))/N 	 3 	 pictures all
+9 	 8 	 N/N 	 1 	 pictures muted
+12 	 11 	 ((S[adj]\NP)\(S[adj]\NP))/((S[adj]\NP)\(S[adj]\NP)) 	 3 	 words comforting
+<\s>
+<s id="wsj_1457.32"> 14
+1 	 0 	 NP[nb]/N 	 1 	 theme His
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 theme is
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 humanity is
+7 	 3 	 N/N 	 1 	 humanity unity
+7 	 5 	 N/N 	 1 	 humanity decency
+7 	 9 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 1 	 humanity bringing <XB>
+9 	 13 	 (S\NP)\(S\NP) 	 2 	 bringing again
+11 	 9 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 3 	 York bringing
+11 	 10 	 N/N 	 1 	 York New
+11 	 12 	 S[adj]\NP 	 1 	 York together <XB>
+12 	 9 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 2 	 together bringing
+<\s>
+<s id="wsj_1457.33"> 21
+1 	 0 	 NP[nb]/N 	 1 	 candidates Both
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 candidates are
+1 	 3 	 (S[ng]\NP)/PP 	 1 	 candidates negotiating <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 negotiating are
+4 	 3 	 (S[ng]\NP)/PP 	 2 	 about negotiating
+5 	 4 	 PP/(S[ng]\NP) 	 1 	 holding about
+6 	 5 	 (S[ng]\NP)/NP 	 2 	 debates holding
+10 	 9 	 N/N 	 1 	 Dinkins Mr.
+10 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Dinkins is
+10 	 13 	 (S[pss]\NP)/PP 	 1 	 Dinkins seen <XB>
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 is widely
+13 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 seen is
+14 	 13 	 (S[pss]\NP)/PP 	 2 	 as seen
+17 	 14 	 PP/NP 	 1 	 obstacle as
+17 	 15 	 NP[nb]/N 	 1 	 obstacle the
+17 	 16 	 N/N 	 1 	 obstacle major
+17 	 18 	 (NP\NP)/(S[ng]\NP) 	 1 	 obstacle for
+19 	 18 	 (NP\NP)/(S[ng]\NP) 	 2 	 scheduling for
+20 	 19 	 (S[ng]\NP)/NP 	 2 	 them scheduling
+<\s>
+<s id="wsj_1457.34"> 17
+3 	 0 	 NP[nb]/N 	 1 	 Giuliani The
+3 	 1 	 N/N 	 1 	 Giuliani 45-year-old
+3 	 2 	 N/N 	 1 	 Giuliani Mr.
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Giuliani has
+3 	 5 	 (S[pt]\NP)/NP 	 1 	 Giuliani run <XB>
+3 	 10 	 (S[b]\NP)/NP 	 1 	 Giuliani pick <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 run has
+8 	 5 	 (S[pt]\NP)/NP 	 2 	 campaign run
+8 	 6 	 NP[nb]/N 	 1 	 campaign a
+8 	 7 	 N/N 	 1 	 campaign negative
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pick to
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 pick up
+12 	 10 	 (S[b]\NP)/NP 	 2 	 votes pick
+12 	 13 	 (S[ng]\NP)/PP 	 1 	 votes leaning <XB>
+14 	 13 	 (S[ng]\NP)/PP 	 2 	 to leaning
+16 	 14 	 PP/NP 	 1 	 Dinkins to
+16 	 15 	 N/N 	 1 	 Dinkins Mr.
+<\s>
+<s id="wsj_1457.35"> 23
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 He 's
+0 	 2 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 He got <XB>
+0 	 4 	 (S[b]\NP)/NP 	 1 	 He get <XB>
+1 	 10 	 (S[dcl]\S[dcl])/NP 	 1 	 's says
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 got 's
+3 	 2 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to got
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+4 	 8 	 (S\NP)\(S\NP) 	 2 	 get up
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Dinkins 's
+7 	 4 	 (S[b]\NP)/NP 	 2 	 negatives get
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 negatives 's
+12 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 Miringoff says
+12 	 11 	 N/N 	 1 	 Miringoff Lee
+14 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 director says
+14 	 15 	 (NP\NP)/NP 	 1 	 director of
+19 	 15 	 (NP\NP)/NP 	 2 	 Institute of
+19 	 16 	 NP[nb]/N 	 1 	 Institute the
+19 	 17 	 N/N 	 1 	 Institute Marist
+19 	 18 	 N/N 	 1 	 Institute College
+19 	 20 	 (NP\NP)/NP 	 1 	 Institute of
+22 	 20 	 (NP\NP)/NP 	 2 	 Opinion of
+22 	 21 	 N/N 	 1 	 Opinion Public
+<\s>
+<s id="wsj_1457.36"> 11
+2 	 1 	 NP[nb]/N 	 1 	 polls our
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 polls show
+3 	 0 	 S/S 	 1 	 show But
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 voters do
+4 	 7 	 (S[b]\NP)/NP 	 1 	 voters like <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 do show
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 do n't
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 like do
+10 	 7 	 (S[b]\NP)/NP 	 2 	 stuff like
+10 	 8 	 NP[nb]/N 	 1 	 stuff the
+10 	 9 	 N/N 	 1 	 stuff attack
+<\s>
+<s id="wsj_1457.37"> 13
+3 	 2 	 (N/N)/(N/N) 	 2 	 20 even
+4 	 3 	 N/N 	 1 	 % 20
+4 	 5 	 (NP\NP)/NP 	 1 	 % of
+4 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 % is
+4 	 10 	 S[ng]\NP 	 1 	 % going <XB>
+8 	 5 	 (NP\NP)/NP 	 2 	 vote of
+8 	 6 	 NP[nb]/N 	 1 	 vote the
+8 	 7 	 N/N 	 1 	 vote Republican
+9 	 0 	 S/S 	 1 	 is Why
+10 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going is
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 going to
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Dinkins to
+<\s>
+<s id="wsj_1457.38"> 26
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+1 	 5 	 (S[dcl]\S[dcl])/NP 	 1 	 's says
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 politics 's
+3 	 2 	 N/N 	 1 	 politics assault-weapons
+7 	 5 	 (S[dcl]\S[dcl])/NP 	 2 	 Siegal says
+7 	 6 	 N/N 	 1 	 Siegal John
+10 	 9 	 N/N 	 1 	 Dinkins Mr.
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Dinkins 's
+13 	 5 	 (S[dcl]\S[dcl])/NP 	 2 	 director says
+13 	 11 	 (NP[nb]/N)\NP 	 1 	 director 's
+13 	 12 	 N/N 	 1 	 director issues
+16 	 17 	 (S[dcl]\NP[thr])/NP 	 1 	 there is
+17 	 15 	 (S[ng]\NP)/S[dcl] 	 2 	 is insisting
+21 	 17 	 (S[dcl]\NP[thr])/NP 	 2 	 undertone is
+21 	 18 	 NP[nb]/N 	 1 	 undertone a
+21 	 19 	 N/N 	 1 	 undertone strong
+21 	 20 	 N/N 	 1 	 undertone racist
+21 	 22 	 (NP\NP)/NP 	 1 	 undertone to
+25 	 22 	 (NP\NP)/NP 	 2 	 effort to
+25 	 23 	 NP[nb]/N 	 1 	 effort the
+25 	 24 	 N/N 	 1 	 effort Giuliani
+<\s>
+<s id="wsj_1457.39"> 9
+3 	 0 	 (S/S)/NP 	 2 	 forces For
+3 	 1 	 NP[nb]/N 	 1 	 forces the
+3 	 2 	 N/N 	 1 	 forces Giuliani
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 it 's
+6 	 0 	 (S/S)/NP 	 1 	 's For
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 conundrum 's
+8 	 7 	 NP[nb]/N 	 1 	 conundrum a
+<\s>
+<s id="wsj_1457.40"> 15
+3 	 0 	 (S/S)/NP 	 2 	 hand On
+3 	 1 	 NP[nb]/N 	 1 	 hand the
+3 	 2 	 N/N 	 1 	 hand one
+6 	 5 	 N/N 	 1 	 Giuliani Mr.
+6 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Giuliani wants
+6 	 9 	 (S[b]\NP)/PP 	 1 	 Giuliani cut <XB>
+7 	 0 	 (S/S)/NP 	 1 	 wants On
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wants
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cut to
+10 	 9 	 (S[b]\NP)/PP 	 2 	 into cut
+12 	 11 	 N/N 	 1 	 Dinkins Mr.
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Dinkins 's
+14 	 10 	 PP/NP 	 1 	 credibility into
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 credibility 's
+<\s>
+<s id="wsj_1457.41"> 32
+2 	 0 	 (S/S)/NP 	 2 	 other On
+2 	 1 	 NP[nb]/N 	 1 	 other the
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 he seeks
+4 	 7 	 ((S[b]\NP)/S[dcl])/NP 	 1 	 he convince <XB>
+5 	 0 	 (S/S)/NP 	 1 	 seeks On
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to seeks
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 convince to
+8 	 7 	 ((S[b]\NP)/S[dcl])/NP 	 3 	 voters convince
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 he 's
+10 	 7 	 ((S[b]\NP)/S[dcl])/NP 	 2 	 's convince
+14 	 10 	 (S[dcl]\NP)/NP 	 2 	 LaGuardia 's
+14 	 11 	 NP[nb]/N 	 1 	 LaGuardia the
+14 	 12 	 N/N 	 1 	 LaGuardia new
+14 	 13 	 N/N 	 1 	 LaGuardia Fiorello
+14 	 16 	 S[adj]\NP 	 1 	 LaGuardia affable <XB>
+14 	 18 	 S[adj]\NP 	 1 	 LaGuardia good-natured <XU>
+14 	 20 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 LaGuardia ready <XU>
+21 	 20 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to ready
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lead to
+22 	 25 	 ((S\NP)\(S\NP))/PP 	 2 	 lead out
+24 	 22 	 (S[b]\NP)/NP 	 2 	 York lead
+24 	 23 	 N/N 	 1 	 York New
+26 	 25 	 ((S\NP)\(S\NP))/PP 	 3 	 of out
+28 	 26 	 PP/NP 	 1 	 mess of
+28 	 27 	 NP[nb]/N 	 1 	 mess the
+28 	 31 	 PP/NP 	 1 	 mess in <XU>
+29 	 30 	 (S[dcl]\NP)/PP 	 1 	 it 's
+31 	 30 	 (S[dcl]\NP)/PP 	 2 	 in 's
+<\s>
+<s id="wsj_1457.42"> 44
+0 	 1 	 (S[dcl]\NP[expl])/(S[pt]\NP) 	 1 	 It has
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 has n't
+3 	 1 	 (S[dcl]\NP[expl])/(S[pt]\NP) 	 2 	 helped has
+4 	 3 	 (S[pt]\NP)/S[em] 	 2 	 that helped
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he 's
+5 	 7 	 (S[pt]\NP)/PP 	 1 	 he waffled <XB>
+5 	 14 	 (S[pt]\NP)/NP 	 1 	 he sought <XU>
+6 	 4 	 S[em]/S[dcl] 	 1 	 's that
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 waffled 's
+8 	 7 	 (S[pt]\NP)/PP 	 2 	 on waffled
+9 	 8 	 PP/NP 	 1 	 abortion on
+12 	 8 	 PP/NP 	 1 	 rights on
+12 	 11 	 N/N 	 1 	 rights gay
+14 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 sought 's
+14 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 sought -LRB-
+16 	 14 	 (S[pt]\NP)/NP 	 2 	 support sought
+16 	 15 	 NP[nb]/N 	 1 	 support the
+16 	 17 	 (NP\NP)/NP 	 1 	 support of
+23 	 17 	 (NP\NP)/NP 	 2 	 parties of
+23 	 18 	 NP/NP 	 1 	 parties both
+23 	 19 	 NP[nb]/N 	 1 	 parties the
+23 	 20 	 N/N 	 1 	 parties Liberal
+23 	 22 	 N/N 	 1 	 parties Conservative
+25 	 26 	 (S[dcl]\NP)/NP 	 1 	 he won
+26 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 won -LRB-
+29 	 26 	 (S[dcl]\NP)/NP 	 2 	 endorsement won
+29 	 27 	 NP[nb]/N 	 1 	 endorsement the
+29 	 28 	 N/N 	 1 	 endorsement Liberal
+32 	 3 	 (S[pt]\NP)/S[em] 	 2 	 that helped
+33 	 34 	 (S[dcl]\NP)/PP 	 1 	 he turned
+34 	 32 	 S[em]/S[dcl] 	 1 	 turned that
+34 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 turned for
+35 	 34 	 (S[dcl]\NP)/PP 	 2 	 to turned
+38 	 35 	 PP/NP 	 1 	 Mason to
+38 	 36 	 N/N 	 1 	 Mason comedian
+38 	 37 	 N/N 	 1 	 Mason Jackie
+40 	 39 	 ((S\NP)\(S\NP))/NP 	 3 	 help for
+40 	 41 	 (NP\NP)/NP 	 1 	 help with
+43 	 41 	 (NP\NP)/NP 	 2 	 voters with
+43 	 42 	 N/N 	 1 	 voters Jewish
+<\s>
+<s id="wsj_1457.43"> 16
+1 	 0 	 N/N 	 1 	 Mason Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Mason left
+1 	 6 	 ((S[ng]\NP)/S[dcl])/NP 	 1 	 Mason telling <XB>
+2 	 5 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 left after
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 campaign left
+4 	 3 	 NP[nb]/N 	 1 	 campaign the
+6 	 5 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 telling after
+7 	 6 	 ((S[ng]\NP)/S[dcl])/NP 	 3 	 reporters telling
+9 	 8 	 N/N 	 1 	 Dinkins Mr.
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 Dinkins is
+10 	 6 	 ((S[ng]\NP)/S[dcl])/NP 	 2 	 is telling
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 fancy'shvartzer is
+12 	 11 	 NP[nb]/N 	 1 	 fancy'shvartzer a
+12 	 13 	 (NP\NP)/NP 	 1 	 fancy'shvartzer with
+15 	 13 	 (NP\NP)/NP 	 2 	 moustache with
+15 	 14 	 NP[nb]/N 	 1 	 moustache a
+<\s>
+<s id="wsj_1457.44"> 10
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Shvartzer is
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 word is
+5 	 2 	 NP[nb]/N 	 1 	 word a
+5 	 3 	 N/N 	 1 	 word derogatory
+5 	 4 	 N/N 	 1 	 word Yiddish
+5 	 6 	 (NP\NP)/NP 	 1 	 word for
+9 	 6 	 (NP\NP)/NP 	 2 	 person for
+9 	 7 	 NP[nb]/N 	 1 	 person a
+9 	 8 	 N/N 	 1 	 person black
+<\s>
+<s id="wsj_1457.45"> 11
+1 	 0 	 N/N 	 1 	 Dinkins Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Dinkins concedes
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 concedes in
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 nothing concedes
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 ability in
+6 	 5 	 NP[nb]/N 	 1 	 ability his
+6 	 8 	 S[b]\NP 	 1 	 ability stumble <XB>
+6 	 10 	 S[b]\NP 	 1 	 ability bumble <XU>
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stumble to
+10 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 bumble to
+<\s>
+<s id="wsj_1457.46"> 23
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 He can
+0 	 2 	 ((S[b]\NP)/PP)/NP 	 1 	 He match <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 match can
+4 	 2 	 ((S[b]\NP)/PP)/NP 	 3 	 Mason match
+4 	 3 	 N/N 	 1 	 Mason Jackie
+5 	 2 	 ((S[b]\NP)/PP)/NP 	 2 	 with match
+10 	 5 	 PP/NP 	 1 	 Carson with
+10 	 6 	 NP[nb]/N 	 1 	 Carson his
+10 	 7 	 N/N 	 1 	 Carson own
+10 	 8 	 N/N 	 1 	 Carson Robert
+10 	 9 	 N/N 	 1 	 Carson Sonny
+15 	 5 	 PP/NP 	 1 	 organizer with
+15 	 12 	 NP[nb]/N 	 1 	 organizer an
+15 	 13 	 N/N 	 1 	 organizer angry
+15 	 14 	 N/N 	 1 	 organizer street
+15 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 organizer who
+15 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 organizer was <XB>
+15 	 18 	 (S[pss]\NP)/PP 	 1 	 organizer convicted <XB>
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was who
+18 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 convicted was
+18 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 convicted in
+19 	 18 	 (S[pss]\NP)/PP 	 2 	 of convicted
+20 	 19 	 PP/NP 	 1 	 kidnapping of
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 1974 in
+<\s>
+<s id="wsj_1457.47"> 18
+2 	 0 	 NP[nb]/N 	 1 	 campaign The
+2 	 1 	 N/N 	 1 	 campaign Dinkins
+2 	 3 	 ((S[dcl]\NP)/NP)/NP 	 1 	 campaign paid
+2 	 11 	 (S[b]\NP)/NP 	 1 	 campaign get <XB>
+5 	 3 	 ((S[dcl]\NP)/NP)/NP 	 3 	 Carson paid
+5 	 4 	 N/N 	 1 	 Carson Mr.
+8 	 3 	 ((S[dcl]\NP)/NP)/NP 	 2 	 $ paid
+8 	 6 	 N/N 	 1 	 $ close
+8 	 7 	 N/N 	 1 	 $ to
+9 	 8 	 N/N[num] 	 1 	 10,000 $
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 get out
+11 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 get on
+14 	 11 	 (S[b]\NP)/NP 	 2 	 vote get
+14 	 13 	 NP[nb]/N 	 1 	 vote the
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 day on
+17 	 16 	 N/N 	 1 	 day primary-election
+<\s>
+<s id="wsj_1457.48"> 9
+1 	 0 	 N/N 	 1 	 work Paper
+1 	 2 	 (NP\NP)/S[qem] 	 1 	 work on
+1 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 work is
+1 	 8 	 S[adj]\NP 	 1 	 work incomplete <XB>
+3 	 2 	 (NP\NP)/S[qem] 	 2 	 how on
+4 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 it was
+4 	 6 	 S[pss]\NP 	 1 	 it spent <XB>
+5 	 3 	 S[qem]/S[dcl] 	 1 	 was how
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 spent was
+8 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 incomplete is
+<\s>
+<s id="wsj_1457.49"> 8
+1 	 0 	 N/N 	 1 	 Carson Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Carson has
+1 	 4 	 (S[pss]\NP)/PP 	 1 	 Carson charged <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+4 	 3 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 charged been
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 with charged
+6 	 5 	 PP/(S[ng]\NP) 	 1 	 being with
+7 	 6 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 anti-Semitic being
+<\s>
+<s id="wsj_1457.50"> 11
+0 	 3 	 ((S\NP)\(S\NP))/N 	 2 	 Asked the
+1 	 0 	 (S[pss]\NP)/PP 	 2 	 about Asked
+2 	 1 	 PP/NP 	 1 	 that about
+5 	 3 	 ((S\NP)\(S\NP))/N 	 3 	 day the
+5 	 4 	 N/N 	 1 	 day other
+7 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 he replied
+7 	 10 	 S[adj]\NP 	 1 	 he Anti-Semitic <XB>
+10 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 Anti-Semitic replied
+<\s>
+<s id="wsj_1457.51"> 3
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 I 'm
+0 	 2 	 S[adj]\NP 	 1 	 I anti-white <XB>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 anti-white 'm
+<\s>
+<s id="wsj_1457.52"> 11
+1 	 0 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 troubling More
+1 	 5 	 (S[dcl]\(S[adj]\NP))/NP 	 1 	 troubling is
+2 	 1 	 (S[adj]\NP)/PP 	 2 	 for troubling
+4 	 2 	 PP/NP 	 1 	 Dinkins for
+4 	 3 	 N/N 	 1 	 Dinkins Mr.
+7 	 5 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 record is
+7 	 6 	 NP[nb]/N 	 1 	 record his
+7 	 8 	 (NP\NP)/NP 	 1 	 record in
+10 	 8 	 (NP\NP)/NP 	 2 	 accounting in
+10 	 9 	 N/N 	 1 	 accounting personal
+<\s>
+<s id="wsj_1457.53"> 35
+0 	 1 	 S[dcl]\NP 	 1 	 It began
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 began in
+3 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 1973 in
+3 	 5 	 (NP\NP)/S[dcl] 	 1 	 1973 when
+6 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 he was
+6 	 8 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 he being <XB>
+6 	 9 	 (S[pss]\NP)/PP 	 1 	 he considered <XB>
+7 	 5 	 (NP\NP)/S[dcl] 	 2 	 was when
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being was
+9 	 8 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 considered being
+10 	 9 	 (S[pss]\NP)/PP 	 2 	 for considered
+12 	 10 	 PP/NP 	 1 	 mayor for
+12 	 11 	 N/N 	 1 	 mayor deputy
+17 	 15 	 NP[nb]/N 	 1 	 check a
+17 	 16 	 N/N 	 1 	 check routine
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 check unearthed
+18 	 5 	 (NP\NP)/S[dcl] 	 2 	 unearthed when
+21 	 18 	 (S[dcl]\NP)/NP 	 2 	 fact unearthed
+21 	 19 	 NP[nb]/N 	 1 	 fact the
+21 	 20 	 N/N 	 1 	 fact extraordinary
+22 	 21 	 N/S[em] 	 1 	 that fact
+23 	 24 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he had
+23 	 26 	 (S[pt]\NP)/NP 	 1 	 he paid <XB>
+24 	 22 	 S[em]/S[dcl] 	 1 	 had that
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 had n't
+26 	 24 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 paid had
+26 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 paid for
+29 	 26 	 (S[pt]\NP)/NP 	 2 	 tax paid
+29 	 27 	 NP[nb]/N 	 1 	 tax his
+29 	 28 	 N/N 	 1 	 tax income
+34 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+34 	 31 	 NP[nb]/N 	 1 	 years the
+34 	 32 	 N/N 	 1 	 years previous
+34 	 33 	 N/N 	 1 	 years four
+<\s>
+<s id="wsj_1457.54"> 14
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 I was
+0 	 5 	 (S[b]\NP)/NP 	 1 	 I do <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 was always
+1 	 10 	 (S[dcl]\S[dcl])\NP 	 1 	 was explained
+3 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going was
+4 	 3 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 do tomorrow
+6 	 5 	 (S[b]\NP)/NP 	 2 	 it do
+9 	 10 	 (S[dcl]\S[dcl])\NP 	 2 	 he explained
+10 	 11 	 (S\S)/NP 	 1 	 explained at
+13 	 11 	 (S\S)/NP 	 2 	 time at
+13 	 12 	 NP[nb]/N 	 1 	 time the
+<\s>
+<s id="wsj_1457.55"> 43
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 he 's
+2 	 5 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 he trying <XB>
+2 	 7 	 (S[b]\NP)/NP 	 1 	 he explain <XB>
+3 	 0 	 S/S 	 1 	 's And
+3 	 1 	 S/S 	 1 	 's now
+5 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trying 's
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 trying busily
+6 	 5 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 explain to
+9 	 7 	 (S[b]\NP)/NP 	 2 	 arrangement explain
+9 	 8 	 NP[nb]/N 	 1 	 arrangement an
+9 	 11 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 arrangement which
+10 	 11 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+12 	 13 	 ((S[dcl]\NP)/PP)/NP 	 1 	 he sold
+13 	 11 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 sold which
+13 	 40 	 ((S\NP)\(S\NP))/NP 	 2 	 sold for
+14 	 13 	 ((S[dcl]\NP)/PP)/NP 	 3 	 stock sold
+14 	 15 	 (NP\NP)/NP 	 1 	 stock in
+19 	 15 	 (NP\NP)/NP 	 2 	 Co. in
+19 	 16 	 N/N 	 1 	 Co. Inner
+19 	 17 	 N/N 	 1 	 Co. City
+19 	 18 	 N/N 	 1 	 Co. Broadcasting
+19 	 21 	 S[pss]\NP 	 1 	 Co. headed <XB>
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 headed by
+25 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 friend by
+25 	 23 	 NP[nb]/N 	 1 	 friend his
+25 	 24 	 N/N 	 1 	 friend old
+27 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 patron by
+27 	 23 	 NP[nb]/N 	 1 	 patron his
+27 	 24 	 N/N 	 1 	 patron old
+30 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 Sutton by
+30 	 29 	 N/N 	 1 	 Sutton Percy
+32 	 13 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to sold
+34 	 32 	 PP/NP 	 1 	 son to
+34 	 33 	 NP[nb]/N 	 1 	 son his
+38 	 32 	 PP/NP 	 1 	 Jr. to
+38 	 36 	 N/N 	 1 	 Jr. David
+38 	 37 	 N/N 	 1 	 Jr. Dinkins
+41 	 40 	 ((S\NP)\(S\NP))/NP 	 3 	 $ for
+42 	 41 	 N/N[num] 	 1 	 58,000 $
+<\s>
+<s id="wsj_1457.56"> 14
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 He had
+0 	 2 	 ((S[pt]\NP)/PP)/NP 	 1 	 He valued <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 valued had
+2 	 13 	 ((S\NP)\(S\NP))\NP 	 2 	 valued earlier
+4 	 2 	 ((S[pt]\NP)/PP)/NP 	 3 	 shares valued
+4 	 3 	 NP[nb]/N 	 1 	 shares the
+5 	 2 	 ((S[pt]\NP)/PP)/NP 	 2 	 at valued
+6 	 7 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+8 	 5 	 PP/NP 	 1 	 $ at
+8 	 7 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 1
+12 	 11 	 N/N 	 1 	 years two
+12 	 13 	 ((S\NP)\(S\NP))\NP 	 3 	 years earlier
+<\s>
+<s id="wsj_1457.57"> 24
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He says
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 he sold
+2 	 7 	 (S[b]\NP)/NP 	 1 	 he avoid <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 sold says
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 stock sold
+5 	 4 	 NP[nb]/N 	 1 	 stock the
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 avoid to
+9 	 7 	 (S[b]\NP)/NP 	 2 	 problems avoid
+9 	 8 	 N/N 	 1 	 problems conflict-of-interest
+9 	 10 	 (NP\NP)/NP 	 1 	 problems in
+12 	 10 	 (NP\NP)/NP 	 2 	 role in
+12 	 11 	 NP[nb]/N 	 1 	 role his
+12 	 13 	 (NP\NP)/NP 	 1 	 role as
+16 	 13 	 (NP\NP)/NP 	 2 	 member as
+16 	 14 	 NP[nb]/N 	 1 	 member a
+16 	 15 	 N/N 	 1 	 member voting
+16 	 17 	 (NP\NP)/NP 	 1 	 member of
+19 	 18 	 NP[nb]/N 	 1 	 city the
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 city 's
+21 	 17 	 (NP\NP)/NP 	 2 	 Board of
+21 	 20 	 (NP[nb]/N)\NP 	 1 	 Board 's
+21 	 22 	 (NP\NP)/NP 	 1 	 Board of
+23 	 22 	 (NP\NP)/NP 	 2 	 Estimate of
+<\s>
+<s id="wsj_1457.58"> 10
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He says
+3 	 2 	 NP[nb]/N 	 1 	 son his
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 son has
+3 	 6 	 (S[pt]\NP)/PP 	 1 	 son paid <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 has says
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 has n't
+6 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 paid has
+7 	 6 	 (S[pt]\NP)/PP 	 2 	 for paid
+9 	 7 	 PP/NP 	 1 	 shares for
+9 	 8 	 NP[nb]/N 	 1 	 shares the
+<\s>
+<s id="wsj_1457.59"> 15
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 It looks
+1 	 7 	 (S[dcl]\S[dcl])/NP 	 1 	 looks says
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 like looks
+5 	 2 	 PP/NP 	 1 	 evasion like
+5 	 3 	 N/N 	 1 	 evasion serious
+5 	 4 	 N/N 	 1 	 evasion tax
+9 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 Ailes says
+9 	 8 	 N/N 	 1 	 Ailes Mr.
+14 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 consultant says
+14 	 11 	 NP[nb]/N 	 1 	 consultant the
+14 	 12 	 N/N 	 1 	 consultant Giuliani
+14 	 13 	 N/N 	 1 	 consultant media
+<\s>
+<s id="wsj_1457.60"> 9
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It follows
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 pattern follows
+4 	 2 	 NP[nb]/N 	 1 	 pattern the
+4 	 3 	 N/N 	 1 	 pattern same
+4 	 5 	 (NP\NP)/NP 	 1 	 pattern as
+8 	 5 	 (NP\NP)/NP 	 2 	 returns as
+8 	 6 	 NP[nb]/N 	 1 	 returns his
+8 	 7 	 N/N 	 1 	 returns tax
+<\s>
+<s id="wsj_1457.61"> 11
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 He waits
+0 	 3 	 (S[b]\NP)/PP 	 1 	 He talk <XB>
+1 	 6 	 ((S\NP)\(S\NP))/S 	 2 	 waits until
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to waits
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 talk to
+4 	 3 	 (S[b]\NP)/PP 	 2 	 about talk
+5 	 4 	 PP/NP 	 1 	 it about
+7 	 6 	 ((S\NP)\(S\NP))/S 	 3 	 after until
+8 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he gets
+8 	 10 	 S[pt]\NP 	 1 	 he caught <XB>
+9 	 7 	 S/S[dcl] 	 1 	 gets after
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 caught gets
+<\s>
+<s id="wsj_1457.62"> 28
+0 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 He has
+0 	 4 	 (S[pt]\NP)/S[qem] 	 1 	 He explained <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 has simply
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 has n't
+2 	 20 	 (S[dcl]\S[dcl])/NP 	 1 	 has says
+4 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 explained has
+5 	 4 	 (S[pt]\NP)/S[qem] 	 2 	 why explained
+6 	 7 	 (S[adj]\NP)/NP 	 1 	 something worth <XB>
+6 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 something ended
+6 	 13 	 (S[adj]\NP)/NP 	 1 	 something worth <XB>
+10 	 7 	 (S[adj]\NP)/NP 	 2 	 dollars worth
+10 	 8 	 NP[nb]/N 	 1 	 dollars a
+10 	 9 	 N/N 	 1 	 dollars million
+11 	 5 	 S[qem]/S[dcl] 	 1 	 ended why
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 ended up
+11 	 18 	 ((S\NP)\(S\NP))\NP 	 2 	 ended later
+13 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 worth ended
+14 	 13 	 (S[adj]\NP)/NP 	 2 	 $ worth
+15 	 14 	 N/N[num] 	 1 	 58,000 $
+17 	 16 	 N/N 	 1 	 years two
+17 	 18 	 ((S\NP)\(S\NP))\NP 	 3 	 years later
+22 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 Powers says
+22 	 21 	 N/N 	 1 	 Powers Mr.
+27 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 manager says
+27 	 24 	 NP[nb]/N 	 1 	 manager the
+27 	 25 	 N/N 	 1 	 manager Giuliani
+27 	 26 	 N/N 	 1 	 manager campaign
+<\s>
+<s id="wsj_1457.63"> 21
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 It 's
+0 	 2 	 (S[adj]\NP)/S[for] 	 1 	 It ludicrous <XB>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 ludicrous 's
+3 	 2 	 (S[adj]\NP)/S[for] 	 2 	 for ludicrous
+4 	 3 	 (S[for]/(S[to]\NP))/NP 	 2 	 him for
+4 	 6 	 (S[b]\NP)/S[dcl] 	 1 	 him suggest <XB>
+5 	 3 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 suggest to
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 it 's
+8 	 6 	 (S[b]\NP)/S[dcl] 	 2 	 's suggest
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 difference 's
+10 	 9 	 NP[nb]/N 	 1 	 difference the
+10 	 11 	 (NP\NP)/NP 	 1 	 difference between
+13 	 11 	 (NP\NP)/NP 	 2 	 value between
+13 	 12 	 N/N 	 1 	 value the'breakup
+13 	 14 	 (NP\NP)/NP 	 1 	 value of
+16 	 14 	 (NP\NP)/NP 	 2 	 shares of
+16 	 15 	 NP[nb]/N 	 1 	 shares the
+20 	 11 	 (NP\NP)/NP 	 2 	 value between
+20 	 18 	 NP[nb]/N 	 1 	 value their
+20 	 19 	 N/N 	 1 	 value market
+<\s>
+<s id="wsj_1457.64"> 33
+1 	 0 	 (S/S)/(S/S) 	 2 	 far So
+5 	 4 	 NP[nb]/N 	 1 	 one no
+5 	 6 	 (NP\NP)/NP 	 1 	 one --
+5 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 one has
+5 	 16 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 one able <XB>
+12 	 6 	 (NP\NP)/NP 	 2 	 Giuliani --
+12 	 7 	 N/N 	 1 	 Giuliani not
+12 	 8 	 N/N 	 1 	 Giuliani even
+12 	 9 	 N/N 	 1 	 Giuliani former
+12 	 10 	 N/N 	 1 	 Giuliani U.S.
+12 	 11 	 N/N 	 1 	 Giuliani attorney
+14 	 1 	 S/S 	 1 	 has far
+14 	 2 	 S/S 	 1 	 has though
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+16 	 15 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 able been
+17 	 16 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pinpoint to
+20 	 18 	 (S[b]\NP)/S[qem] 	 2 	 what pinpoint
+20 	 19 	 S/S 	 1 	 what just
+21 	 20 	 (S[qem]/(S[dcl]/NP))/N 	 2 	 law what
+21 	 25 	 (S[pt]\NP)/NP 	 2 	 law broken <XU>
+23 	 22 	 N/N 	 1 	 Dinkins Mr.
+23 	 24 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Dinkins has
+23 	 25 	 (S[pt]\NP)/NP 	 1 	 Dinkins broken <XB>
+24 	 20 	 (S[qem]/(S[dcl]/NP))/N 	 1 	 has what
+25 	 24 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 broken has
+28 	 18 	 (S[b]\NP)/S[qem] 	 2 	 what pinpoint
+28 	 27 	 S/S 	 1 	 what just
+29 	 28 	 (S[qem]/(S[dcl]/NP))/N 	 2 	 tax what
+29 	 32 	 (S[pt]\NP)/NP 	 2 	 tax evaded <XU>
+30 	 31 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he has
+30 	 32 	 (S[pt]\NP)/NP 	 1 	 he evaded <XB>
+31 	 28 	 (S[qem]/(S[dcl]/NP))/N 	 1 	 has what
+32 	 31 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 evaded has
+<\s>
+<s id="wsj_1457.65"> 16
+1 	 0 	 NP[nb]/N 	 1 	 crime The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 crime goes
+2 	 6 	 (S[dcl]\S[dcl])/NP 	 1 	 goes says
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 to goes
+4 	 3 	 PP/NP 	 1 	 character to
+8 	 6 	 (S[dcl]\S[dcl])/NP 	 2 	 Maiorana says
+8 	 7 	 N/N 	 1 	 Maiorana Ron
+11 	 6 	 (S[dcl]\S[dcl])/NP 	 2 	 consultant says
+11 	 10 	 NP[nb]/N 	 1 	 consultant a
+11 	 12 	 (NP\NP)/NP 	 1 	 consultant to
+15 	 12 	 (NP\NP)/NP 	 2 	 campaign to
+15 	 13 	 NP[nb]/N 	 1 	 campaign the
+15 	 14 	 N/N 	 1 	 campaign Giuliani
+<\s>
+<s id="wsj_1457.66"> 4
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 stuff 's
+3 	 2 	 N/N 	 1 	 stuff serious
+<\s>
+<s id="wsj_1457.67"> 4
+0 	 1 	 S[dcl]\NP 	 1 	 He evades
+0 	 3 	 S[dcl]\NP 	 1 	 He ducks <XU>
+<\s>
+<s id="wsj_1457.68"> 13
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 He 's
+0 	 2 	 (S[pt]\NP)/NP 	 1 	 He had <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 had 's
+4 	 2 	 (S[pt]\NP)/NP 	 2 	 history had
+4 	 3 	 NP[nb]/N 	 1 	 history a
+4 	 5 	 (NP\NP)/NP 	 1 	 history of
+6 	 5 	 (NP\NP)/NP 	 2 	 deception of
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 this is
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 chapter is
+12 	 10 	 NP[nb]/N 	 1 	 chapter the
+12 	 11 	 N/N 	 1 	 chapter latest
+<\s>
+<s id="wsj_1457.69"> 25
+0 	 1 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 1 	 It makes
+1 	 16 	 (S[dcl]\S[dcl])/NP 	 1 	 makes says
+2 	 1 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 3 	 people makes
+2 	 3 	 (S[b]\NP)/S[dcl] 	 1 	 people think <XB>
+3 	 1 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 2 	 think makes
+7 	 6 	 NP[nb]/N 	 1 	 guy this
+7 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 guy is
+7 	 12 	 S[adj]\NP 	 1 	 guy clean <XB>
+8 	 3 	 (S[b]\NP)/S[dcl] 	 2 	 is think
+8 	 5 	 S/S 	 1 	 is maybe
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 is n't
+8 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 is after
+12 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 clean is
+12 	 10 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 clean so
+12 	 11 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 clean squeaky
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 all after
+18 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 Garth says
+18 	 17 	 N/N 	 1 	 Garth Mr.
+21 	 20 	 N/N 	 1 	 Koch Mayor
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 Koch 's
+24 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 consultant says
+24 	 22 	 (NP[nb]/N)\NP 	 1 	 consultant 's
+24 	 23 	 N/N 	 1 	 consultant media
+<\s>
+<s id="wsj_1457.70"> 13
+1 	 0 	 NP[nb]/N 	 1 	 result The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 result may
+1 	 3 	 (S[b]\NP)/(S[to]\NP) 	 1 	 result turn <XB>
+1 	 9 	 S[adj]\NP 	 1 	 result closer <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 turn may
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 turn out
+5 	 3 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to turn
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+9 	 6 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 closer be
+9 	 7 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 closer a
+9 	 8 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 closer lot
+9 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 2 	 closer than
+11 	 12 	 S[dcl]\NP 	 1 	 people think
+12 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 3 	 think than
+<\s>

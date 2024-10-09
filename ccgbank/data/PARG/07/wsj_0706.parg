@@ -1,0 +1,139 @@
+<s id="wsj_0706.1"> 16
+2 	 0 	 N/N 	 1 	 Corp. Security
+2 	 1 	 N/N 	 1 	 Corp. Pacific
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Corp. has
+2 	 4 	 ((S[pt]\NP)/PP)/NP 	 1 	 Corp. set <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 set has
+6 	 4 	 ((S[pt]\NP)/PP)/NP 	 3 	 sights set
+6 	 5 	 NP[nb]/N 	 1 	 sights its
+7 	 4 	 ((S[pt]\NP)/PP)/NP 	 2 	 on set
+8 	 7 	 PP/(S[ng]\NP) 	 1 	 buying on
+8 	 14 	 ((S\NP)\(S\NP))/N 	 2 	 buying this
+13 	 8 	 (S[ng]\NP)/NP 	 2 	 company buying
+13 	 9 	 NP[nb]/N 	 1 	 company its
+13 	 10 	 N/N 	 1 	 company second
+13 	 11 	 N/N 	 1 	 company bank
+13 	 12 	 N/N 	 1 	 company holding
+15 	 14 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+<\s>
+<s id="wsj_0706.2"> 29
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Security said
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 it signed
+2 	 14 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 it agreeing <XB>
+2 	 16 	 ((S[b]\NP)/PP)/NP 	 1 	 it pay <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 signed said
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 letter signed
+5 	 4 	 NP[nb]/N 	 1 	 letter a
+5 	 6 	 (NP\NP)/NP 	 1 	 letter of
+7 	 6 	 (NP\NP)/NP 	 2 	 intent of
+7 	 9 	 (S[b]\NP)/NP 	 1 	 intent purchase <XB>
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 purchase to
+12 	 9 	 (S[b]\NP)/NP 	 2 	 Bancorp purchase
+12 	 10 	 N/N 	 1 	 Bancorp La
+12 	 11 	 N/N 	 1 	 Bancorp Jolla
+15 	 14 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to agreeing
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+17 	 16 	 ((S[b]\NP)/PP)/NP 	 3 	 $ pay
+17 	 19 	 (NP\NP)/NP 	 1 	 $ of
+18 	 17 	 N/N[num] 	 1 	 15 $
+22 	 19 	 (NP\NP)/NP 	 2 	 stock of
+22 	 20 	 NP[nb]/N 	 1 	 stock its
+22 	 21 	 N/N 	 1 	 stock own
+23 	 16 	 ((S[b]\NP)/PP)/NP 	 2 	 for pay
+25 	 23 	 PP/NP 	 1 	 share for
+25 	 24 	 NP[nb]/N 	 1 	 share each
+25 	 26 	 (NP\NP)/NP 	 1 	 share of
+28 	 26 	 (NP\NP)/NP 	 2 	 Jolla of
+28 	 27 	 N/N 	 1 	 Jolla La
+<\s>
+<s id="wsj_0706.3"> 20
+1 	 0 	 (S/S)/PP 	 2 	 on Based
+4 	 1 	 PP/NP 	 1 	 number on
+4 	 2 	 NP[nb]/N 	 1 	 number the
+4 	 3 	 N/N 	 1 	 number current
+4 	 5 	 (NP\NP)/NP 	 1 	 number of
+8 	 5 	 (NP\NP)/NP 	 2 	 shares of
+8 	 6 	 N/N 	 1 	 shares La
+8 	 7 	 N/N 	 1 	 shares Jolla
+10 	 11 	 ((S[dcl]\NP)/NP)/NP 	 1 	 that gives
+11 	 0 	 (S/S)/PP 	 1 	 gives Based
+13 	 11 	 ((S[dcl]\NP)/NP)/NP 	 3 	 transaction gives
+13 	 12 	 NP[nb]/N 	 1 	 transaction the
+15 	 11 	 ((S[dcl]\NP)/NP)/NP 	 2 	 value gives
+15 	 14 	 NP[nb]/N 	 1 	 value a
+15 	 16 	 (NP\NP)/NP 	 1 	 value of
+17 	 16 	 (NP\NP)/NP 	 2 	 $ of
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 104
+<\s>
+<s id="wsj_0706.4"> 22
+1 	 0 	 N/N 	 1 	 Jolla La
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Jolla is
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 company is
+5 	 3 	 NP[nb]/N 	 1 	 company the
+5 	 4 	 N/N 	 1 	 company parent
+5 	 6 	 (NP\NP)/NP 	 1 	 company of
+12 	 6 	 (NP\NP)/NP 	 2 	 Co. of
+12 	 7 	 N/N 	 1 	 Co. La
+12 	 8 	 N/N 	 1 	 Co. Jolla
+12 	 9 	 N/N 	 1 	 Co. Bank
+12 	 10 	 N/N 	 1 	 Co. &
+12 	 11 	 N/N 	 1 	 Co. Trust
+12 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Co. which
+12 	 15 	 (S[dcl]\NP)/NP 	 1 	 Co. has <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 branches has
+17 	 16 	 N/N 	 1 	 branches 12
+17 	 18 	 (NP\NP)/NP 	 1 	 branches in
+21 	 18 	 (NP\NP)/NP 	 2 	 County in
+21 	 19 	 N/N 	 1 	 County San
+21 	 20 	 N/N 	 1 	 County Diego
+<\s>
+<s id="wsj_0706.5"> 23
+1 	 0 	 (S/S)/PP 	 2 	 of As
+2 	 1 	 PP/NP 	 1 	 Sept. of
+3 	 2 	 N/N[num] 	 1 	 30 Sept.
+6 	 5 	 NP[nb]/N 	 1 	 bank the
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 bank had
+7 	 0 	 (S/S)/PP 	 1 	 had As
+7 	 22 	 (S[dcl]\S[dcl])\NP 	 1 	 had said
+8 	 7 	 (S[dcl]\NP)/NP 	 2 	 assets had
+8 	 9 	 (NP\NP)/NP 	 1 	 assets of
+10 	 9 	 (NP\NP)/NP 	 2 	 $ of
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 511
+14 	 7 	 (S[dcl]\NP)/NP 	 2 	 deposits had
+14 	 15 	 (NP\NP)/NP 	 1 	 deposits of
+16 	 15 	 (NP\NP)/NP 	 2 	 $ of
+18 	 16 	 N/N[num] 	 1 	 million $
+18 	 17 	 N/N 	 1 	 million 469
+21 	 20 	 N/N 	 1 	 Pacific Security
+21 	 22 	 (S[dcl]\S[dcl])\NP 	 2 	 Pacific said
+<\s>
+<s id="wsj_0706.6"> 28
+2 	 0 	 (S/S)/NP 	 2 	 month Earlier
+2 	 1 	 NP[nb]/N 	 1 	 month this
+5 	 4 	 N/N 	 1 	 Pacific Security
+5 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Pacific which
+5 	 8 	 (S[dcl]\NP)/PP 	 1 	 Pacific is <XB>
+5 	 20 	 (S[dcl]\NP)/NP 	 1 	 Pacific completed
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+9 	 8 	 (S[dcl]\NP)/PP 	 2 	 among is
+15 	 9 	 PP/NP 	 1 	 companies among
+15 	 10 	 NP[nb]/N 	 1 	 companies the
+15 	 11 	 N/N 	 1 	 companies 10
+15 	 12 	 N/N 	 1 	 companies largest
+15 	 13 	 N/N 	 1 	 companies bank
+15 	 14 	 N/N 	 1 	 companies holding
+15 	 16 	 (NP\NP)/NP 	 1 	 companies in
+18 	 16 	 (NP\NP)/NP 	 2 	 U.S. in
+18 	 17 	 NP[nb]/N 	 1 	 U.S. the
+20 	 0 	 (S/S)/NP 	 1 	 completed Earlier
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 acquisition completed
+22 	 21 	 NP[nb]/N 	 1 	 acquisition the
+22 	 23 	 (NP\NP)/NP 	 1 	 acquisition of
+25 	 24 	 (N/N)/(N/N) 	 2 	 Diego-based San
+27 	 23 	 (NP\NP)/NP 	 2 	 Bancorp of
+27 	 25 	 N/N 	 1 	 Bancorp Diego-based
+27 	 26 	 N/N 	 1 	 Bancorp Southwest
+<\s>

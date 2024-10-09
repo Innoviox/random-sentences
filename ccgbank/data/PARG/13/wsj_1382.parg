@@ -1,0 +1,82 @@
+<s id="wsj_1382.1"> 15
+0 	 1 	 S[pss]\NP 	 1 	 Companies listed <XB>
+0 	 3 	 (S[dcl]\NP)/NP 	 1 	 Companies reported
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 listed below
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 profit reported
+5 	 4 	 N/N 	 1 	 profit quarterly
+5 	 7 	 S[adj]\NP 	 1 	 profit different <XB>
+7 	 6 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 different substantially
+7 	 8 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 different from
+10 	 8 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 average from
+10 	 9 	 NP[nb]/N 	 1 	 average the
+10 	 11 	 (NP\NP)/NP 	 1 	 average of
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 analysts '
+14 	 11 	 (NP\NP)/NP 	 2 	 estimates of
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 estimates '
+<\s>
+<s id="wsj_1382.2"> 21
+1 	 0 	 NP[nb]/N 	 1 	 companies The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 companies are
+1 	 3 	 S[pss]\NP 	 1 	 companies followed <XB>
+1 	 11 	 (S[dcl]\NP)/NP 	 1 	 companies had <XU>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 followed are
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 followed by
+6 	 5 	 ((N/N)/(N/N))/(S[asup]\NP) 	 3 	 least at
+7 	 5 	 ((N/N)/(N/N))/(S[asup]\NP) 	 2 	 three at
+8 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 analysts by
+8 	 7 	 N/N 	 1 	 analysts three
+15 	 11 	 (S[dcl]\NP)/NP 	 2 	 change had
+15 	 12 	 NP[nb]/N 	 1 	 change a
+15 	 13 	 N/N 	 1 	 change minimum
+15 	 14 	 N/N 	 1 	 change five-cent
+15 	 16 	 (NP\NP)/NP 	 1 	 change in
+18 	 16 	 (NP\NP)/NP 	 2 	 earnings in
+18 	 17 	 N/N 	 1 	 earnings actual
+18 	 19 	 (NP\NP)/NP 	 1 	 earnings per
+20 	 19 	 (NP\NP)/NP 	 2 	 share per
+<\s>
+<s id="wsj_1382.3"> 8
+3 	 0 	 N/N 	 1 	 results Estimated <XU>
+3 	 2 	 N/N 	 1 	 results actual
+3 	 4 	 (S[ng]\NP)/NP 	 1 	 results involving <XB>
+3 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 results are
+3 	 7 	 S[pss]\NP 	 1 	 results omitted <XB>
+5 	 4 	 (S[ng]\NP)/NP 	 2 	 losses involving
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 omitted are
+<\s>
+<s id="wsj_1382.4"> 23
+2 	 0 	 NP[nb]/N 	 1 	 difference The
+2 	 1 	 N/N 	 1 	 difference percent
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 difference compares
+5 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 profit compares
+5 	 4 	 N/N 	 1 	 profit actual
+6 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 with compares
+9 	 6 	 PP/NP 	 1 	 estimate with
+9 	 7 	 NP[nb]/N 	 1 	 estimate the
+9 	 8 	 N/N 	 1 	 estimate 30-day
+9 	 10 	 (NP\NP)/S[dcl] 	 1 	 estimate where
+12 	 11 	 ((N/N)/(N/N))/(S[asup]\NP) 	 3 	 least at
+13 	 11 	 ((N/N)/(N/N))/(S[asup]\NP) 	 2 	 three at
+14 	 13 	 N/N 	 1 	 analysts three
+14 	 15 	 (S[dcl]\NP)/(S[dcl]\NP) 	 1 	 analysts have
+14 	 16 	 (S[dcl]\NP)/NP 	 1 	 analysts issues <XB>
+15 	 10 	 (NP\NP)/S[dcl] 	 2 	 have where
+16 	 15 	 (S[dcl]\NP)/(S[dcl]\NP) 	 2 	 issues have
+16 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 issues in
+17 	 16 	 (S[dcl]\NP)/NP 	 2 	 forecasts issues
+22 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 days in
+22 	 19 	 NP[nb]/N 	 1 	 days the
+22 	 20 	 N/N 	 1 	 days past
+22 	 21 	 N/N 	 1 	 days 30
+<\s>
+<s id="wsj_1382.5"> 10
+3 	 2 	 N/N 	 1 	 profit actual
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 profit is
+3 	 5 	 (S[pss]\NP)/PP 	 1 	 profit compared <XB>
+4 	 0 	 S/S 	 1 	 is Otherwise
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 compared is
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 with compared
+9 	 6 	 PP/NP 	 1 	 estimate with
+9 	 7 	 NP[nb]/N 	 1 	 estimate the
+9 	 8 	 N/N 	 1 	 estimate 300-day
+<\s>

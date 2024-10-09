@@ -1,0 +1,212 @@
+<s id="wsj_0743.1"> 20
+3 	 0 	 NP[nb]/N 	 1 	 Commission The
+3 	 1 	 N/N 	 1 	 Commission European
+3 	 2 	 N/N 	 1 	 Commission Community
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Commission challenged
+4 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 challenged on
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 agreement challenged
+6 	 5 	 NP[nb]/N 	 1 	 agreement an
+6 	 7 	 (NP\NP)/NP 	 1 	 agreement on
+6 	 11 	 (NP\NP)/NP 	 1 	 agreement between
+8 	 7 	 (NP\NP)/NP 	 2 	 routes on
+10 	 7 	 (NP\NP)/NP 	 2 	 fares on
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 France 's
+16 	 11 	 (NP\NP)/NP 	 2 	 airlines between
+16 	 13 	 (NP[nb]/N)\NP 	 1 	 airlines 's
+16 	 14 	 N/N 	 1 	 airlines two
+16 	 15 	 N/N 	 1 	 airlines largest
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 grounds on
+19 	 18 	 N/N 	 1 	 grounds antitrust
+<\s>
+<s id="wsj_0743.2"> 32
+0 	 1 	 ((S\NP)\(S\NP))/NP 	 2 	 Meeting in
+0 	 3 	 (S\NP)\(S\NP) 	 2 	 Meeting Wednesday
+2 	 1 	 ((S\NP)\(S\NP))/NP 	 3 	 Strasbourg in
+6 	 5 	 NP[nb]/N 	 1 	 commission the
+6 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 commission voted
+6 	 10 	 S[pss]\NP 	 1 	 commission expected <XB>
+6 	 14 	 (S[b]\NP)/PP 	 1 	 commission object <XB>
+7 	 9 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 2 	 voted as
+10 	 9 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 3 	 expected as
+12 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to voted
+14 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 object to
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 object formally
+15 	 14 	 (S[b]\NP)/PP 	 2 	 to object
+17 	 15 	 PP/NP 	 1 	 accord to
+17 	 16 	 NP[nb]/N 	 1 	 accord the
+17 	 18 	 (NP\NP)/NP 	 1 	 accord between
+20 	 18 	 (NP\NP)/NP 	 2 	 France between
+20 	 19 	 N/N 	 1 	 France Air
+24 	 18 	 (NP\NP)/NP 	 2 	 airline between
+24 	 22 	 NP[nb]/N 	 1 	 airline the
+24 	 23 	 N/N 	 1 	 airline state-owned
+31 	 18 	 (NP\NP)/NP 	 2 	 Inter between
+31 	 27 	 N/N 	 1 	 Inter state-controlled
+31 	 28 	 N/N 	 1 	 Inter domestic
+31 	 29 	 N/N 	 1 	 Inter carrier
+31 	 30 	 N/N 	 1 	 Inter Air
+<\s>
+<s id="wsj_0743.3"> 23
+2 	 0 	 NP[nb]/N 	 1 	 spokesman An
+2 	 1 	 N/N 	 1 	 spokesman EC
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+6 	 4 	 NP[nb]/N 	 1 	 companies the
+6 	 5 	 N/N 	 1 	 companies two
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 companies will
+6 	 9 	 S[pss]\NP 	 1 	 companies notified <XB>
+7 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+9 	 8 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 notified be
+9 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 notified so
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they can
+11 	 13 	 (S[b]\NP)/NP 	 1 	 they begin <XB>
+12 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 can so
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 begin can
+14 	 13 	 (S[b]\NP)/NP 	 2 	 negotiations begin
+14 	 15 	 (NP\NP)/NP 	 1 	 negotiations with
+14 	 17 	 (NP\NP)/S[qem] 	 1 	 negotiations on
+16 	 15 	 (NP\NP)/NP 	 2 	 Brussels with
+18 	 17 	 (NP\NP)/S[qem] 	 2 	 how on
+19 	 18 	 S[qem]/(S[to]\NP) 	 1 	 to how
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 modify to
+22 	 20 	 (S[b]\NP)/NP 	 2 	 pact modify
+22 	 21 	 NP[nb]/N 	 1 	 pact the
+<\s>
+<s id="wsj_0743.4"> 45
+0 	 2 	 (S[dcl]\PP)/NP 	 1 	 At is
+1 	 0 	 PP/NP 	 1 	 issue At
+4 	 2 	 (S[dcl]\PP)/NP 	 2 	 accord is
+4 	 3 	 NP[nb]/N 	 1 	 accord an
+4 	 5 	 S[ng]\NP 	 1 	 accord dating <XB>
+4 	 10 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 accord which
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 dating back
+5 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 dating to
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 March to
+9 	 10 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+12 	 11 	 N/N 	 1 	 France Air
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 France gained
+13 	 10 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 gained which
+13 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 gained under
+14 	 13 	 (S[dcl]\NP)/NP 	 2 	 access gained
+14 	 15 	 (NP\NP)/NP 	 1 	 access to
+19 	 15 	 (NP\NP)/NP 	 2 	 routes to
+19 	 16 	 N/N 	 1 	 routes five
+19 	 17 	 N/N 	 1 	 routes domestic
+19 	 18 	 N/N 	 1 	 routes French
+22 	 21 	 N/N 	 1 	 Inter Air
+22 	 23 	 (NP[nb]/N)\NP 	 2 	 Inter 's
+25 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 numbers under
+25 	 23 	 (NP[nb]/N)\NP 	 1 	 numbers 's
+25 	 24 	 N/N 	 1 	 numbers flight
+29 	 27 	 NP[nb]/N 	 1 	 airline the
+29 	 28 	 N/N 	 1 	 airline domestic
+29 	 30 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 airline got
+29 	 32 	 S[b]\NP 	 1 	 airline fly <XB>
+30 	 10 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 got which
+31 	 30 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to got
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 fly to
+32 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 fly to
+32 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 fly under
+35 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 cities to
+35 	 34 	 N/N 	 1 	 cities five
+35 	 36 	 (NP\NP)/PP 	 1 	 cities outside
+37 	 36 	 (NP\NP)/PP 	 2 	 of outside
+38 	 37 	 PP/NP 	 1 	 France of
+41 	 39 	 ((S\NP)\(S\NP))/NP 	 3 	 flag under
+41 	 40 	 NP[nb]/N 	 1 	 flag the
+41 	 42 	 (NP\NP)/NP 	 1 	 flag of
+44 	 42 	 (NP\NP)/NP 	 2 	 France of
+44 	 43 	 N/N 	 1 	 France Air
+<\s>
+<s id="wsj_0743.5"> 15
+1 	 0 	 NP[nb]/N 	 1 	 two The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 two shared
+1 	 10 	 (S[dcl]\NP)/NP 	 1 	 two followed <XU>
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 results shared
+3 	 4 	 (NP\NP)/NP 	 1 	 results from
+7 	 4 	 (NP\NP)/NP 	 2 	 swap from
+7 	 5 	 NP[nb]/N 	 1 	 swap this
+7 	 6 	 N/N 	 1 	 swap route
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 rules followed
+11 	 12 	 (NP\NP)/NP 	 1 	 rules on
+14 	 12 	 (NP\NP)/NP 	 2 	 pricing on
+14 	 13 	 N/N 	 1 	 pricing ticket
+<\s>
+<s id="wsj_0743.6"> 20
+2 	 0 	 NP[nb]/N 	 1 	 Commission The
+2 	 1 	 N/N 	 1 	 Commission EC
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 Commission decided
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that decided
+7 	 5 	 NP/NP 	 1 	 accord such
+7 	 6 	 NP[nb]/N 	 1 	 accord an
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 accord does
+7 	 10 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 accord benefit <XB>
+8 	 4 	 S[em]/S[dcl] 	 1 	 does that
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 does n't
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 benefit does
+11 	 10 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 consumers benefit
+11 	 12 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 consumers enough <XB>
+12 	 10 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 enough benefit
+13 	 12 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to enough
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 merit to
+16 	 14 	 (S[b]\NP)/NP 	 2 	 exemption merit
+16 	 15 	 NP[nb]/N 	 1 	 exemption an
+16 	 17 	 (NP\NP)/NP 	 1 	 exemption from
+19 	 17 	 (NP\NP)/NP 	 2 	 law from
+19 	 18 	 N/N 	 1 	 law antitrust
+<\s>
+<s id="wsj_0743.7"> 13
+1 	 0 	 NP[nb]/N 	 1 	 airlines The
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 airlines presented
+3 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 it presented
+4 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as presented
+5 	 4 	 PP/(S[ng]\NP) 	 1 	 offering as
+6 	 5 	 ((S[ng]\NP)/NP)/NP 	 3 	 consumers offering
+8 	 5 	 ((S[ng]\NP)/NP)/NP 	 2 	 choice offering
+8 	 7 	 N/N 	 1 	 choice more
+12 	 5 	 ((S[ng]\NP)/NP)/NP 	 2 	 connections offering
+12 	 10 	 N/N 	 1 	 connections better
+12 	 11 	 N/N 	 1 	 connections flight
+<\s>
+<s id="wsj_0743.8"> 14
+3 	 0 	 NP[nb]/N 	 1 	 spokeswoman An
+3 	 1 	 N/N 	 1 	 spokeswoman Air
+3 	 2 	 N/N 	 1 	 spokeswoman France
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokeswoman said
+6 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 we 're
+6 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 we ready <XB>
+7 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 're said
+9 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 ready 're
+9 	 8 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 ready absolutely
+10 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to ready
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 study to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 solutions study
+13 	 12 	 NP[nb]/N 	 1 	 solutions all
+<\s>
+<s id="wsj_0743.9"> 28
+3 	 0 	 NP[nb]/N 	 1 	 spokesman An
+3 	 1 	 N/N 	 1 	 spokesman Air
+3 	 2 	 N/N 	 1 	 spokesman Inter
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+7 	 8 	 (NP\NP)/NP 	 1 	 they -LCB-
+7 	 12 	 (S[dcl]\NP)/NP 	 1 	 they have
+10 	 8 	 (NP\NP)/NP 	 2 	 EC -LCB-
+10 	 9 	 NP[nb]/N 	 1 	 EC the
+12 	 6 	 (S/S)/S[dcl] 	 2 	 have Because
+13 	 12 	 (S[dcl]\NP)/NP 	 2 	 doubts have
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 we will
+15 	 17 	 (S[b]\NP)/PP 	 1 	 we work <XB>
+16 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+16 	 6 	 (S/S)/S[dcl] 	 1 	 will Because
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 work will
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 work again
+19 	 17 	 (S[b]\NP)/PP 	 2 	 on work
+21 	 19 	 PP/NP 	 1 	 text on
+21 	 20 	 NP[nb]/N 	 1 	 text the
+21 	 25 	 (NP\NP)/NP 	 1 	 text of
+24 	 19 	 PP/NP 	 1 	 contents on
+24 	 23 	 NP[nb]/N 	 1 	 contents the
+24 	 25 	 (NP\NP)/NP 	 1 	 contents of
+27 	 25 	 (NP\NP)/NP 	 2 	 accord of
+27 	 26 	 NP[nb]/N 	 1 	 accord the
+<\s>

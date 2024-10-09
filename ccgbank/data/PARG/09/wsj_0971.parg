@@ -1,0 +1,440 @@
+<s id="wsj_0971.1"> 12
+4 	 0 	 N/N 	 1 	 Inc. Brooks
+4 	 1 	 N/N 	 1 	 Inc. Armored
+4 	 2 	 N/N 	 1 	 Inc. Car
+4 	 3 	 N/N 	 1 	 Inc. Service
+4 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Inc. wanted
+4 	 8 	 (S[b]\NP)/PP 	 1 	 Inc. get <XB>
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 wanted never
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wanted
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+9 	 8 	 (S[b]\NP)/PP 	 2 	 into get
+11 	 9 	 PP/NP 	 1 	 laundering into
+11 	 10 	 N/N 	 1 	 laundering money
+<\s>
+<s id="wsj_0971.2"> 28
+2 	 1 	 (S/S)/N[num] 	 2 	 5 July
+5 	 4 	 NP[nb]/N 	 1 	 thunderstorm a
+5 	 6 	 (NP\NP)/NP 	 1 	 thunderstorm in
+5 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 thunderstorm caused
+5 	 19 	 (S[ng]\NP)/NP 	 1 	 thunderstorm pouring <XB>
+7 	 6 	 (NP\NP)/NP 	 2 	 Wilmington in
+9 	 6 	 (NP\NP)/NP 	 2 	 Del. in
+11 	 0 	 S/S 	 1 	 caused But
+11 	 1 	 (S/S)/N[num] 	 1 	 caused July
+13 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Creek caused
+13 	 12 	 N/N 	 1 	 Creek Shellpot
+13 	 15 	 S[b]\NP 	 1 	 Creek rise <XB>
+14 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to caused
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rise to
+15 	 17 	 (S\NP)\(S\NP) 	 2 	 rise feet
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 feet 15
+19 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 pouring into
+21 	 20 	 (N/N)/(N/N) 	 2 	 million 1.3
+22 	 19 	 (S[ng]\NP)/NP 	 2 	 gallons pouring
+22 	 21 	 N/N 	 1 	 gallons million
+22 	 23 	 (NP\NP)/NP 	 1 	 gallons of
+24 	 23 	 (NP\NP)/NP 	 2 	 water of
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 vaults into
+27 	 26 	 N/N 	 1 	 vaults basement
+<\s>
+<s id="wsj_0971.3"> 25
+1 	 0 	 NP[nb]/N 	 1 	 water The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 water destroyed
+1 	 10 	 ((S[dcl]\NP)/PP)/NP 	 1 	 water caked <XU>
+1 	 19 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 1 	 water rendering <XU>
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 $ destroyed
+4 	 3 	 N/N 	 1 	 $ about
+4 	 7 	 (NP\NP)/NP 	 1 	 $ in
+6 	 4 	 N/N[num] 	 1 	 million $
+6 	 5 	 N/N 	 1 	 million 75
+8 	 7 	 (NP\NP)/NP 	 2 	 currency in
+11 	 10 	 ((S[dcl]\NP)/PP)/NP 	 3 	 $ caked
+11 	 14 	 (NP\NP)/NP 	 1 	 $ of
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 4
+15 	 14 	 (NP\NP)/NP 	 2 	 coins of
+16 	 10 	 ((S[dcl]\NP)/PP)/NP 	 2 	 with caked
+17 	 16 	 PP/NP 	 1 	 mud with
+20 	 19 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 3 	 them rendering
+20 	 21 	 (S[adj]\NP)/PP 	 1 	 them dangerous <XB>
+21 	 19 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 2 	 dangerous rendering
+22 	 21 	 (S[adj]\NP)/PP 	 2 	 to dangerous
+24 	 22 	 PP/NP 	 1 	 machines to
+24 	 23 	 N/N 	 1 	 machines counting
+<\s>
+<s id="wsj_0971.4"> 26
+1 	 0 	 NP[nb]/N 	 1 	 $ The
+1 	 4 	 (NP\NP)/NP 	 1 	 $ in
+1 	 9 	 S[adj]\NP 	 1 	 $ moldy <XB>
+1 	 11 	 S[adj]\NP 	 1 	 $ mildewy <XU>
+1 	 13 	 S[adj]\NP 	 1 	 $ smelly <XU>
+1 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 $ was
+1 	 16 	 S[pss]\NP 	 1 	 $ exchanged <XB>
+3 	 1 	 N/N[num] 	 1 	 million $
+3 	 2 	 N/N 	 1 	 million 75
+6 	 4 	 (NP\NP)/NP 	 2 	 money in
+6 	 5 	 N/N 	 1 	 money paper
+9 	 8 	 ((S\NP)/(S\NP))/(S[adj]\NP) 	 3 	 moldy although
+11 	 8 	 ((S\NP)/(S\NP))/(S[adj]\NP) 	 3 	 mildewy although
+13 	 8 	 ((S\NP)/(S\NP))/(S[adj]\NP) 	 3 	 smelly although
+15 	 8 	 ((S\NP)/(S\NP))/(S[adj]\NP) 	 2 	 was although
+16 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 exchanged was
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 exchanged through
+16 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 exchanged without
+21 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 Bank through
+21 	 18 	 NP[nb]/N 	 1 	 Bank the
+21 	 19 	 N/N 	 1 	 Bank Federal
+21 	 20 	 N/N 	 1 	 Bank Reserve
+21 	 22 	 (NP\NP)/NP 	 1 	 Bank of
+23 	 22 	 (NP\NP)/NP 	 2 	 Philadelphia of
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 incident without
+<\s>
+<s id="wsj_0971.5"> 12
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Brooks was
+1 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Brooks unable <XB>
+2 	 0 	 S/S 	 1 	 was But
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unable was
+4 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to unable
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reach to
+8 	 5 	 ((S[b]\NP)/PP)/NP 	 3 	 agreement reach
+8 	 6 	 NP[nb]/N 	 1 	 agreement a
+8 	 7 	 N/N 	 1 	 agreement coin-cleaning
+9 	 5 	 ((S[b]\NP)/PP)/NP 	 2 	 with reach
+11 	 9 	 PP/NP 	 1 	 government with
+11 	 10 	 NP[nb]/N 	 1 	 government the
+<\s>
+<s id="wsj_0971.6"> 14
+0 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 We got
+0 	 4 	 (S[pt]\NP)/PP 	 1 	 We caught <XB>
+2 	 1 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 of kind
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 got of
+3 	 8 	 (S[dcl]\S[dcl])/NP 	 1 	 got says
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 caught got
+5 	 4 	 (S[pt]\NP)/PP 	 2 	 between caught
+6 	 5 	 PP/NP 	 1 	 bureaucracies between
+13 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 Jr says
+13 	 9 	 N/N 	 1 	 Jr President
+13 	 10 	 N/N 	 1 	 Jr William
+13 	 11 	 N/N 	 1 	 Jr F.
+13 	 12 	 N/N 	 1 	 Jr Brooks
+<\s>
+<s id="wsj_0971.7"> 26
+2 	 0 	 NP[nb]/N 	 1 	 Mint The
+2 	 1 	 N/N 	 1 	 Mint U.S.
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Mint would
+2 	 5 	 (S[b]\NP)/NP 	 1 	 Mint take <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 would n't
+3 	 25 	 (S[dcl]\S[dcl])\NP 	 1 	 would says
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take would
+5 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 take because
+7 	 5 	 (S[b]\NP)/NP 	 2 	 coin take
+7 	 6 	 NP[nb]/N 	 1 	 coin the
+9 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 it was
+9 	 12 	 S[pss]\NP 	 1 	 it mutilated <XB>
+10 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was because
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 was n't
+12 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 mutilated was
+18 	 15 	 NP[nb]/N 	 1 	 Bank the
+18 	 16 	 N/N 	 1 	 Bank Federal
+18 	 17 	 N/N 	 1 	 Bank Reserve
+18 	 19 	 (S[dcl]\NP)/NP 	 1 	 Bank accepts
+19 	 25 	 (S[dcl]\S[dcl])\NP 	 1 	 accepts says
+22 	 19 	 (S[dcl]\NP)/NP 	 2 	 coins accepts
+22 	 20 	 N/N 	 1 	 coins only
+22 	 21 	 N/N 	 1 	 coins clean
+24 	 25 	 (S[dcl]\S[dcl])\NP 	 2 	 he says
+<\s>
+<s id="wsj_0971.8"> 18
+2 	 0 	 NP[nb]/N 	 1 	 Fed The
+2 	 1 	 N/N 	 1 	 Fed Philadelphia
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Fed says
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 it is
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 is says
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 is merely
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 agent is
+8 	 7 	 NP[nb]/N 	 1 	 agent an
+8 	 9 	 (NP\NP)/NP 	 1 	 agent for
+8 	 12 	 S[adj]\NP 	 1 	 agent responsible <XB>
+10 	 9 	 (NP\NP)/NP 	 2 	 coins for
+12 	 14 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 responsible for
+14 	 13 	 ((S[adj]\NP)\(S[adj]\NP))/((S[adj]\NP)\(S[adj]\NP)) 	 3 	 for only
+15 	 14 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 storage for
+17 	 14 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 distribution for
+<\s>
+<s id="wsj_0971.9"> 18
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 We issue
+1 	 10 	 (S[dcl]\S[dcl])/NP 	 1 	 issue says
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 money issue
+3 	 2 	 N/N 	 1 	 money paper
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 we destroy
+6 	 10 	 (S[dcl]\S[dcl])/NP 	 1 	 destroy says
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 money destroy
+8 	 7 	 N/N 	 1 	 money paper
+12 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 Hinkle says
+12 	 11 	 N/N 	 1 	 Hinkle Jane
+17 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 spokeswoman says
+17 	 14 	 NP[nb]/N 	 1 	 spokeswoman a
+17 	 15 	 N/N 	 1 	 spokeswoman Philadelphia
+17 	 16 	 N/N 	 1 	 spokeswoman Fed
+<\s>
+<s id="wsj_0971.10"> 5
+1 	 0 	 NP[nb]/N 	 1 	 coin The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 coin is
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 problem is
+4 	 3 	 NP[nb]/N 	 1 	 problem their
+<\s>
+<s id="wsj_0971.11"> 22
+2 	 0 	 NP[nb]/N 	 1 	 official A
+2 	 1 	 N/N 	 1 	 official Mint
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 official says
+5 	 4 	 NP[nb]/N 	 1 	 agency the
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 agency offered
+5 	 8 	 (S[b]\NP)/NP 	 1 	 agency clean <XB>
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 offered says
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to offered
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 clean to
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 clean for
+10 	 8 	 (S[b]\NP)/NP 	 2 	 coins clean
+10 	 9 	 NP[nb]/N 	 1 	 coins the
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 cost for
+14 	 12 	 NP[nb]/N 	 1 	 cost its
+14 	 13 	 N/N 	 1 	 cost bare-bones
+14 	 15 	 (NP\NP)/NP 	 1 	 cost of
+16 	 15 	 (NP\NP)/NP 	 2 	 $ of
+17 	 16 	 N/N[num] 	 1 	 17,000 $
+21 	 15 	 (NP\NP)/NP 	 2 	 expenses of
+21 	 19 	 N/N 	 1 	 expenses certain
+21 	 20 	 N/N 	 1 	 expenses other
+<\s>
+<s id="wsj_0971.12"> 19
+1 	 2 	 S[dcl]\NP 	 1 	 Brooks declined
+1 	 4 	 (S[ng]\NP)/S[em] 	 1 	 Brooks figuring <XB>
+2 	 0 	 S/S 	 1 	 declined But
+5 	 4 	 (S[ng]\NP)/S[em] 	 2 	 that figuring
+6 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 transporting to
+6 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 transporting would
+6 	 14 	 ((S[b]\NP)/NP)/NP 	 1 	 transporting cost <XB>
+8 	 9 	 (N/N)\(N/N) 	 2 	 mucked up
+10 	 6 	 (S[ng]\NP)/NP 	 2 	 money transporting
+10 	 7 	 NP[nb]/N 	 1 	 money the
+10 	 8 	 N/N 	 1 	 money mucked
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Washington to
+13 	 5 	 S[em]/S[dcl] 	 1 	 would that
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cost would
+16 	 14 	 ((S[b]\NP)/NP)/NP 	 3 	 company cost
+16 	 15 	 NP[nb]/N 	 1 	 company the
+17 	 14 	 ((S[b]\NP)/NP)/NP 	 2 	 thousands cost
+17 	 18 	 N\N 	 1 	 thousands more
+<\s>
+<s id="wsj_0971.13"> 18
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Brooks gave
+2 	 0 	 S/S 	 1 	 gave So
+5 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 work gave
+5 	 3 	 NP[nb]/N 	 1 	 work the
+5 	 4 	 N/N 	 1 	 work dirty
+6 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to gave
+9 	 6 	 PP/NP 	 1 	 Inc. to
+9 	 7 	 N/N 	 1 	 Inc. Coin
+9 	 8 	 N/N 	 1 	 Inc. Wrap
+9 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Inc. which
+9 	 12 	 (S[dcl]\NP)/PP 	 1 	 Inc. came <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 came which
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 came up
+14 	 12 	 (S[dcl]\NP)/PP 	 2 	 with came
+17 	 14 	 PP/NP 	 1 	 solution with
+17 	 15 	 NP[nb]/N 	 1 	 solution an
+17 	 16 	 N/N 	 1 	 solution unusual
+<\s>
+<s id="wsj_0971.14"> 37
+2 	 0 	 (S/S)/NP 	 2 	 hours For
+2 	 1 	 N/N 	 1 	 hours eight
+2 	 3 	 (NP\NP)/N 	 1 	 hours a
+4 	 3 	 (NP\NP)/N 	 2 	 day a
+9 	 5 	 (S/S)/NP 	 2 	 weeks for
+9 	 6 	 NP[nb]/N 	 1 	 weeks the
+9 	 7 	 N/N 	 1 	 weeks past
+9 	 8 	 N/N 	 1 	 weeks two
+12 	 11 	 (S/S)/NP 	 2 	 aggregates in
+12 	 13 	 (NP\NP)/NP 	 1 	 aggregates of
+14 	 13 	 (NP\NP)/NP 	 2 	 as of
+14 	 19 	 (NP\NP)/(S[ng]\NP) 	 1 	 as -LRB-
+15 	 14 	 (N/PP)/(S[adj]\NP) 	 2 	 much as
+16 	 14 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+18 	 16 	 PP/NP 	 1 	 pounds as
+18 	 17 	 N/N 	 1 	 pounds 27,000
+20 	 19 	 (NP\NP)/(S[ng]\NP) 	 2 	 equaling -LRB-
+21 	 20 	 (S[ng]\NP)/NP 	 2 	 $ equaling
+21 	 23 	 (NP\NP)/NP 	 1 	 $ in
+22 	 21 	 N/N[num] 	 1 	 20,000 $
+24 	 23 	 (NP\NP)/NP 	 2 	 pennies in
+28 	 27 	 N/N 	 1 	 Wrap Coin
+28 	 29 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Wrap has
+28 	 31 	 (S[ng]\NP)/NP 	 1 	 Wrap pouring <XB>
+29 	 0 	 (S/S)/NP 	 1 	 has For
+29 	 5 	 (S/S)/NP 	 1 	 has for
+29 	 11 	 (S/S)/NP 	 1 	 has in
+30 	 29 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+31 	 30 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 pouring been
+31 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 pouring into
+32 	 31 	 (S[ng]\NP)/NP 	 2 	 money pouring
+36 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 truck into
+36 	 34 	 NP[nb]/N 	 1 	 truck a
+36 	 35 	 N/N 	 1 	 truck cement-mixing
+<\s>
+<s id="wsj_0971.15"> 19
+2 	 0 	 NP[nb]/N 	 1 	 heater A
+2 	 1 	 N/N 	 1 	 heater giant
+2 	 4 	 S[ng]\NP 	 1 	 heater working <XB>
+2 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 heater causes
+2 	 15 	 (S[dcl]\NP)/NP 	 1 	 heater burns <XU>
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 working like
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 blowtorch like
+7 	 6 	 NP[nb]/N 	 1 	 blowtorch a
+11 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 mud causes
+11 	 10 	 NP[nb]/N 	 1 	 mud the
+11 	 13 	 S[b]\NP 	 1 	 mud crust <XB>
+12 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to causes
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 crust to
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 burns off
+18 	 15 	 (S[dcl]\NP)/NP 	 2 	 wrappers burns
+18 	 17 	 NP[nb]/N 	 1 	 wrappers any
+<\s>
+<s id="wsj_0971.16"> 33
+1 	 0 	 (S/S)/(S[ng]\NP) 	 2 	 clanging After
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 clanging for
+2 	 1 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 around clanging
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 hour for
+5 	 4 	 NP[nb]/N 	 1 	 hour an
+5 	 7 	 NP\NP 	 1 	 hour so
+7 	 6 	 (NP\NP)/(NP\NP) 	 2 	 so or
+13 	 9 	 NP[nb]/N 	 1 	 money the
+13 	 10 	 N/N 	 1 	 money shiny
+13 	 12 	 N/N 	 1 	 money hot
+13 	 14 	 S[dcl]\NP 	 1 	 money pours
+14 	 0 	 (S/S)/(S[ng]\NP) 	 1 	 pours After
+14 	 15 	 ((S\NP)\(S\NP))/PP 	 2 	 pours out
+16 	 15 	 ((S\NP)\(S\NP))/PP 	 3 	 of out
+19 	 16 	 PP/NP 	 1 	 chute of
+19 	 17 	 NP[nb]/N 	 1 	 chute the
+19 	 18 	 N/N 	 1 	 chute cement
+19 	 21 	 (NP\NP)/S[dcl] 	 1 	 chute where
+24 	 22 	 NP[nb]/N 	 1 	 vacuum a
+24 	 23 	 N/N 	 1 	 vacuum giant
+24 	 25 	 ((S[dcl]\NP)/NP)/(S[adj]\NP) 	 1 	 vacuum sucks
+25 	 21 	 (NP\NP)/S[dcl] 	 2 	 sucks where
+26 	 25 	 ((S[dcl]\NP)/NP)/(S[adj]\NP) 	 3 	 away sucks
+29 	 25 	 ((S[dcl]\NP)/NP)/(S[adj]\NP) 	 2 	 mud sucks
+29 	 26 	 S[adj]\NP 	 1 	 mud away <XB>
+29 	 27 	 NP[nb]/N 	 1 	 mud the
+29 	 28 	 N/N 	 1 	 mud dried
+32 	 25 	 ((S[dcl]\NP)/NP)/(S[adj]\NP) 	 2 	 wrappers sucks
+32 	 26 	 S[adj]\NP 	 1 	 wrappers away <XB>
+32 	 27 	 NP[nb]/N 	 1 	 wrappers the
+32 	 31 	 N/N 	 1 	 wrappers burnt
+<\s>
+<s id="wsj_0971.17"> 8
+1 	 0 	 (S/S)/(S[ng]\NP) 	 2 	 cooling After
+4 	 3 	 NP[nb]/N 	 1 	 coins the
+4 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 coins are
+4 	 7 	 S[pss]\NP 	 1 	 coins rewrapped <XB>
+5 	 0 	 (S/S)/(S[ng]\NP) 	 1 	 are After
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 are then
+7 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 rewrapped are
+<\s>
+<s id="wsj_0971.18"> 20
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Brooks expects
+0 	 3 	 ((S[b]\NP)/NP)/NP 	 1 	 Brooks pay <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+5 	 3 	 ((S[b]\NP)/NP)/NP 	 3 	 Wrap pay
+5 	 4 	 N/N 	 1 	 Wrap Coin
+7 	 3 	 ((S[b]\NP)/NP)/NP 	 2 	 total pay
+7 	 6 	 NP[nb]/N 	 1 	 total a
+7 	 8 	 (NP\NP)/NP 	 1 	 total of
+7 	 12 	 (NP\NP)/NP 	 1 	 total --
+10 	 8 	 (NP\NP)/NP 	 2 	 $ of
+10 	 9 	 N/N 	 1 	 $ about
+11 	 10 	 N/N[num] 	 1 	 20,000 $
+14 	 12 	 (NP\NP)/NP 	 2 	 cost --
+14 	 13 	 NP[nb]/N 	 1 	 cost a
+14 	 15 	 (NP\NP)/(S[dcl]/NP) 	 1 	 cost that
+14 	 19 	 (S[b]\NP)/NP 	 2 	 cost cover <XU>
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 insurance wo
+16 	 19 	 (S[b]\NP)/NP 	 1 	 insurance cover <XB>
+17 	 15 	 (NP\NP)/(S[dcl]/NP) 	 2 	 wo that
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 wo n't
+19 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cover wo
+<\s>
+<s id="wsj_0971.19"> 12
+3 	 2 	 NP[nb]/N 	 1 	 job the
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 job is
+3 	 6 	 S[pss]\NP 	 1 	 job done <XB>
+4 	 1 	 (S/S)/S[dcl] 	 2 	 is while
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 is half
+6 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 done is
+8 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Brooks is
+8 	 11 	 S[adj]\NP 	 1 	 Brooks bitter <XB>
+9 	 0 	 S/S 	 1 	 is And
+9 	 1 	 (S/S)/S[dcl] 	 1 	 is while
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 is still
+11 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 bitter is
+<\s>
+<s id="wsj_0971.20"> 29
+1 	 0 	 (S/S)/NP 	 2 	 fact In
+3 	 4 	 (S[dcl]\NP[thr])/NP 	 1 	 there 's
+4 	 0 	 (S/S)/NP 	 1 	 's In
+6 	 5 	 (N/N)/(N/N) 	 2 	 one only
+7 	 4 	 (S[dcl]\NP[thr])/NP 	 2 	 person 's
+7 	 6 	 N/N 	 1 	 person one
+7 	 8 	 S[pss]\NP 	 1 	 person involved <XB>
+7 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 person who
+7 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 person 's <XB>
+7 	 11 	 S[adj]\NP 	 1 	 person happy <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 's who
+11 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 happy 's
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 that 's
+15 	 0 	 (S/S)/NP 	 1 	 's In
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 String 's
+17 	 16 	 N/N 	 1 	 String Floyd
+19 	 15 	 (S[dcl]\NP)/NP 	 2 	 president 's
+19 	 20 	 (NP\NP)/NP 	 1 	 president of
+22 	 20 	 (NP\NP)/NP 	 2 	 Wrap of
+22 	 21 	 N/N 	 1 	 Wrap Coin
+24 	 15 	 (S[dcl]\NP)/NP 	 2 	 conceiver 's
+24 	 25 	 (NP\NP)/NP 	 1 	 conceiver of
+28 	 25 	 (NP\NP)/NP 	 2 	 solution of
+28 	 26 	 NP[nb]/N 	 1 	 solution the
+28 	 27 	 N/N 	 1 	 solution cement-truck
+<\s>
+<s id="wsj_0971.21"> 32
+1 	 0 	 (S/S)/(S/S) 	 2 	 only Not
+2 	 1 	 (S/S)/S[inv] 	 2 	 did only
+4 	 2 	 (S[inv]/(S[b]\NP))/NP 	 2 	 company did
+4 	 3 	 NP[nb]/N 	 1 	 company his
+5 	 2 	 (S[inv]/(S[b]\NP))/NP 	 1 	 find did
+6 	 5 	 (S[b]\NP)/NP 	 2 	 $ find
+6 	 8 	 S[adj]\NP 	 1 	 $ worth <XB>
+6 	 9 	 (NP\NP)/NP 	 1 	 $ of
+7 	 6 	 N/N[num] 	 1 	 20,000 $
+10 	 9 	 (NP\NP)/NP 	 2 	 work of
+15 	 14 	 NP[nb]/N 	 1 	 approach the
+15 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 approach was
+15 	 17 	 S[pss]\NP 	 1 	 approach suggested <XB>
+16 	 13 	 (S/S)/S[dcl] 	 2 	 was when
+17 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 suggested was
+20 	 19 	 N/N 	 1 	 String Mr.
+20 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 String says
+24 	 23 	 N/N 	 1 	 officials Brooks
+24 	 25 	 (S[dcl]\NP)/(S[dcl]\NP) 	 1 	 officials did
+24 	 27 	 (S[dcl]\NP)/PP 	 1 	 officials laugh <XB>
+25 	 1 	 (S/S)/S[inv] 	 1 	 did only
+25 	 12 	 S/S 	 1 	 did but
+25 	 13 	 (S/S)/S[dcl] 	 1 	 did when
+25 	 21 	 (S[dcl]\NP)/S[dcl] 	 2 	 did says <XU>
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 did n't
+27 	 25 	 (S[dcl]\NP)/(S[dcl]\NP) 	 2 	 laugh did
+28 	 27 	 (S[dcl]\NP)/PP 	 2 	 at laugh
+29 	 28 	 PP/NP 	 1 	 me at
+31 	 25 	 (S[dcl]\NP)/(S[dcl]\NP) 	 2 	 anything did
+<\s>

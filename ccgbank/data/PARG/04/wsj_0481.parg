@@ -1,0 +1,192 @@
+<s id="wsj_0481.1"> 31
+4 	 0 	 NP[nb]/N 	 1 	 Co. The
+4 	 1 	 N/N 	 1 	 Co. New
+4 	 2 	 N/N 	 1 	 Co. York
+4 	 3 	 N/N 	 1 	 Co. Times
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 it reached
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 reached said
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 settlement reached
+9 	 8 	 NP[nb]/N 	 1 	 settlement a
+9 	 10 	 (NP\NP)/NP 	 1 	 settlement with
+9 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 settlement that
+9 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 settlement will <XB>
+9 	 23 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 settlement free <XB>
+14 	 10 	 (NP\NP)/NP 	 2 	 dealers with
+14 	 11 	 N/N 	 1 	 dealers independent
+14 	 12 	 N/N 	 1 	 dealers home
+14 	 13 	 N/N 	 1 	 dealers delivery
+14 	 15 	 (NP\NP)/NP 	 1 	 dealers in
+20 	 15 	 (NP\NP)/NP 	 2 	 area in
+20 	 16 	 NP[nb]/N 	 1 	 area the
+20 	 17 	 N/N 	 1 	 area metropolitan
+20 	 18 	 N/N 	 1 	 area New
+20 	 19 	 N/N 	 1 	 area York
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 free will
+25 	 23 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 newspaper free
+25 	 24 	 NP[nb]/N 	 1 	 newspaper the
+25 	 27 	 (S[b]\NP)/NP 	 1 	 newspaper expand <XB>
+26 	 23 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to free
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 expand to
+30 	 27 	 (S[b]\NP)/NP 	 2 	 circulation expand
+30 	 28 	 N/N 	 1 	 circulation home
+30 	 29 	 N/N 	 1 	 circulation delivery
+<\s>
+<s id="wsj_0481.2"> 21
+1 	 0 	 NP[nb]/N 	 1 	 settlement The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 settlement stemmed
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 from stemmed
+5 	 3 	 PP/NP 	 1 	 lawsuit from
+5 	 4 	 NP[nb]/N 	 1 	 lawsuit a
+5 	 8 	 (S[dcl]\NP)/NP 	 2 	 lawsuit filed <XU>
+7 	 6 	 NP[nb]/N 	 1 	 dealers the
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 dealers filed
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 filed in
+8 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 filed when
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 1982 in
+13 	 12 	 NP[nb]/N 	 1 	 Times the
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 Times began
+14 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 began when
+20 	 14 	 (S[dcl]\NP)/NP 	 2 	 service began
+20 	 15 	 NP[nb]/N 	 1 	 service its
+20 	 16 	 N/N 	 1 	 service own
+20 	 17 	 N/N 	 1 	 service competing
+20 	 18 	 N/N 	 1 	 service direct
+20 	 19 	 N/N 	 1 	 service delivery
+<\s>
+<s id="wsj_0481.3"> 49
+1 	 0 	 NP[nb]/N 	 1 	 pact The
+1 	 2 	 (S[dcl]\NP)/S[for] 	 1 	 pact calls
+2 	 48 	 (S[dcl]\S[dcl])\NP 	 1 	 calls said
+3 	 2 	 (S[dcl]\NP)/S[for] 	 2 	 for calls
+5 	 3 	 (S[for]/(S[to]\NP))/NP 	 2 	 Times for
+5 	 4 	 NP[nb]/N 	 1 	 Times the
+5 	 7 	 ((S[b]\NP)/NP)/NP 	 1 	 Times pay <XB>
+6 	 3 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+8 	 7 	 ((S[b]\NP)/NP)/NP 	 3 	 dealers pay
+9 	 7 	 ((S[b]\NP)/NP)/NP 	 2 	 $ pay
+9 	 12 	 (NP\NP)/NP 	 1 	 $ over
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 3.6
+14 	 12 	 (NP\NP)/NP 	 2 	 years over
+14 	 13 	 N/N 	 1 	 years six
+18 	 16 	 conj/conj 	 1 	 as as
+18 	 17 	 conj/conj 	 1 	 as well
+20 	 7 	 ((S[b]\NP)/NP)/NP 	 2 	 payments pay
+20 	 19 	 N/N 	 1 	 payments other
+20 	 21 	 (NP\NP)/NP 	 1 	 payments in
+20 	 30 	 (S[pss]\NP)/PP 	 1 	 payments based <XB>
+23 	 21 	 (NP\NP)/NP 	 2 	 form in
+23 	 22 	 NP[nb]/N 	 1 	 form the
+23 	 24 	 (NP\NP)/NP 	 1 	 form of
+25 	 24 	 (NP\NP)/NP 	 2 	 subsidies of
+25 	 26 	 (NP\NP)/NP 	 1 	 subsidies over
+28 	 26 	 (NP\NP)/NP 	 2 	 years over
+28 	 27 	 N/N 	 1 	 years three
+31 	 30 	 (S[pss]\NP)/PP 	 2 	 on based
+33 	 31 	 PP/NP 	 1 	 number on
+33 	 32 	 NP[nb]/N 	 1 	 number the
+33 	 34 	 (NP\NP)/NP 	 1 	 number of
+36 	 34 	 (NP\NP)/NP 	 2 	 customers of
+36 	 35 	 N/N 	 1 	 customers new
+36 	 37 	 S[pss]\NP 	 1 	 customers started <XB>
+37 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 started by
+40 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 dealers by
+40 	 39 	 NP[nb]/N 	 1 	 dealers the
+42 	 30 	 (S[pss]\NP)/PP 	 2 	 on based
+44 	 42 	 PP/NP 	 1 	 structures on
+44 	 43 	 N/N 	 1 	 structures pricing
+47 	 46 	 NP[nb]/N 	 1 	 Times the
+47 	 48 	 (S[dcl]\S[dcl])\NP 	 2 	 Times said
+<\s>
+<s id="wsj_0481.4"> 17
+1 	 0 	 NP[nb]/N 	 1 	 amount The
+1 	 2 	 (NP\NP)/NP 	 1 	 amount of
+1 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 amount will
+1 	 7 	 (S[pss]\NP)/PP 	 1 	 amount taken <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 settlement of
+4 	 3 	 NP[nb]/N 	 1 	 settlement the
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+7 	 6 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 taken be
+7 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 taken in
+8 	 7 	 (S[pss]\NP)/PP 	 2 	 as taken
+10 	 8 	 PP/NP 	 1 	 charge as
+10 	 9 	 NP[nb]/N 	 1 	 charge a
+10 	 11 	 (NP\NP)/NP 	 1 	 charge against
+12 	 11 	 (NP\NP)/NP 	 2 	 earnings against
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+16 	 14 	 NP[nb]/N 	 1 	 quarter the
+16 	 15 	 N/N 	 1 	 quarter fourth
+<\s>
+<s id="wsj_0481.5"> 31
+1 	 0 	 NP[nb]/N 	 1 	 settlement The
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 settlement which
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 settlement involves <XB>
+1 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 settlement will
+1 	 19 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 settlement allow <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 involves which
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 most involves
+5 	 6 	 (NP\NP)/NP 	 1 	 most of
+11 	 6 	 (NP\NP)/NP 	 2 	 dealers of
+11 	 7 	 NP[nb]/N 	 1 	 dealers the
+11 	 8 	 N/N 	 1 	 dealers 300
+11 	 9 	 N/N 	 1 	 dealers independent
+11 	 10 	 N/N 	 1 	 dealers newspaper
+11 	 12 	 (NP\NP)/NP 	 1 	 dealers in
+16 	 12 	 (NP\NP)/NP 	 2 	 area in
+16 	 13 	 NP[nb]/N 	 1 	 area the
+16 	 14 	 N/N 	 1 	 area New
+16 	 15 	 N/N 	 1 	 area York
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 allow will
+21 	 19 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 Times allow
+21 	 20 	 NP[nb]/N 	 1 	 Times the
+21 	 24 	 (S[b]\NP)/NP 	 1 	 Times operate <XB>
+22 	 19 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+24 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 operate to
+24 	 23 	 (S\NP)/(S\NP) 	 2 	 operate freely
+30 	 24 	 (S[b]\NP)/NP 	 2 	 system operate
+30 	 25 	 NP[nb]/N 	 1 	 system its
+30 	 26 	 N/N 	 1 	 system own
+30 	 27 	 N/N 	 1 	 system direct
+30 	 28 	 N/N 	 1 	 system home
+30 	 29 	 N/N 	 1 	 system delivery
+<\s>
+<s id="wsj_0481.6"> 15
+1 	 0 	 N/N 	 1 	 delivery Home
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 delivery is
+5 	 4 	 (N/N)/(N/N) 	 2 	 growing fastest
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 segment is
+6 	 3 	 NP[nb]/N 	 1 	 segment the
+6 	 5 	 N/N 	 1 	 segment growing
+6 	 7 	 (NP\NP)/NP 	 1 	 segment of
+9 	 8 	 NP[nb]/N 	 1 	 Times the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Times 's
+12 	 11 	 (N/N)/(N/N) 	 2 	 million 1.1
+14 	 7 	 (NP\NP)/NP 	 2 	 circulation of
+14 	 10 	 (NP[nb]/N)\NP 	 1 	 circulation 's
+14 	 12 	 N/N 	 1 	 circulation million
+14 	 13 	 N/N 	 1 	 circulation daily
+<\s>
+<s id="wsj_0481.7"> 21
+3 	 2 	 (N/N)/(N/N) 	 2 	 60 about
+4 	 3 	 N/N 	 1 	 % 60
+4 	 5 	 (NP\NP)/NP 	 1 	 % of
+4 	 14 	 ((S[dcl]\NP)/PP)/NP 	 1 	 % receive
+8 	 5 	 (NP\NP)/NP 	 2 	 subscribers of
+8 	 6 	 N/N 	 1 	 subscribers home
+8 	 7 	 N/N 	 1 	 subscribers delivery
+8 	 9 	 (NP\NP)/NP 	 1 	 subscribers in
+13 	 9 	 (NP\NP)/NP 	 2 	 area in
+13 	 10 	 NP[nb]/N 	 1 	 area the
+13 	 11 	 N/N 	 1 	 area New
+13 	 12 	 N/N 	 1 	 area York
+14 	 0 	 S/S 	 1 	 receive Currently
+14 	 17 	 (S\NP)\(S\NP) 	 2 	 receive directly
+16 	 14 	 ((S[dcl]\NP)/PP)/NP 	 3 	 paper receive
+16 	 15 	 NP[nb]/N 	 1 	 paper the
+18 	 14 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from receive
+20 	 18 	 PP/NP 	 1 	 Times from
+20 	 19 	 NP[nb]/N 	 1 	 Times the
+<\s>

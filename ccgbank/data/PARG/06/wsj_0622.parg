@@ -1,0 +1,224 @@
+<s id="wsj_0622.1"> 19
+2 	 0 	 NP[nb]/N 	 1 	 Department The
+2 	 1 	 N/N 	 1 	 Department Treasury
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Department said
+7 	 4 	 NP[nb]/N 	 1 	 deficit the
+7 	 5 	 N/N 	 1 	 deficit U.S.
+7 	 6 	 N/N 	 1 	 deficit trade
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 deficit may
+7 	 9 	 S[b]\NP 	 1 	 deficit worsen <XB>
+8 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 may said
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 worsen may
+9 	 11 	 (S\NP)\(S\NP) 	 2 	 worsen year
+9 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 worsen after
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 years after
+15 	 14 	 N/N 	 1 	 years two
+15 	 16 	 (NP\NP)/NP 	 1 	 years of
+18 	 16 	 (NP\NP)/NP 	 2 	 improvement of
+18 	 17 	 N/N 	 1 	 improvement significant
+<\s>
+<s id="wsj_0622.2"> 53
+2 	 0 	 (S/S)/NP 	 2 	 report In
+2 	 1 	 NP[nb]/N 	 1 	 report its
+2 	 3 	 (NP\NP)/NP 	 1 	 report to
+2 	 5 	 (NP\NP)/NP 	 1 	 report on
+4 	 3 	 (NP\NP)/NP 	 2 	 Congress to
+8 	 5 	 (NP\NP)/NP 	 2 	 policies on
+8 	 6 	 N/N 	 1 	 policies international
+8 	 7 	 N/N 	 1 	 policies economic
+11 	 10 	 NP[nb]/N 	 1 	 Treasury the
+11 	 12 	 (S[dcl]\NP)/S[em] 	 1 	 Treasury said
+12 	 0 	 (S/S)/NP 	 1 	 said In
+13 	 12 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+15 	 14 	 NP[nb]/N 	 1 	 improvement any
+15 	 16 	 (NP\NP)/NP 	 1 	 improvement in
+15 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 improvement is
+15 	 30 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 improvement likely <XB>
+19 	 16 	 (NP\NP)/NP 	 2 	 measure in
+19 	 17 	 NP[nb]/N 	 1 	 measure the
+19 	 18 	 N/N 	 1 	 measure broadest
+19 	 20 	 (NP\NP)/NP 	 1 	 measure of
+19 	 23 	 (S[pss]\NP)/PP 	 1 	 measure known <XB>
+21 	 20 	 (NP\NP)/NP 	 2 	 trade of
+24 	 23 	 (S[pss]\NP)/PP 	 2 	 as known
+27 	 24 	 PP/NP 	 1 	 account as
+27 	 25 	 NP[nb]/N 	 1 	 account the
+27 	 26 	 N/N 	 1 	 account current
+29 	 13 	 S[em]/S[dcl] 	 1 	 is that
+30 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely is
+30 	 31 	 ((S[adj]\NP)\(S[adj]\NP))/(S[asup]\NP) 	 2 	 likely at
+32 	 31 	 ((S[adj]\NP)\(S[adj]\NP))/(S[asup]\NP) 	 3 	 best at
+33 	 30 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+34 	 33 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+36 	 34 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 modest be
+36 	 35 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 modest very
+40 	 39 	 NP[nb]/N 	 1 	 possibility the
+40 	 41 	 (NP\NP)/NP 	 1 	 possibility of
+40 	 49 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 possibility can
+40 	 52 	 S[pss]\NP 	 1 	 possibility excluded <XB>
+42 	 41 	 (NP\NP)/NP 	 2 	 deterioration of
+42 	 43 	 (NP\NP)/NP 	 1 	 deterioration in
+42 	 48 	 NP\NP 	 1 	 deterioration year
+46 	 43 	 (NP\NP)/NP 	 2 	 account in
+46 	 44 	 NP[nb]/N 	 1 	 account the
+46 	 45 	 N/N 	 1 	 account current
+48 	 47 	 (NP\NP)/(NP\NP) 	 2 	 year next
+49 	 13 	 S[em]/S[dcl] 	 1 	 can that
+49 	 50 	 (S\NP)\(S\NP) 	 2 	 can not
+51 	 49 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+52 	 51 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 excluded be
+<\s>
+<s id="wsj_0622.3"> 26
+1 	 0 	 NP[nb]/N 	 1 	 statement The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 statement was
+5 	 3 	 NP[nb]/N 	 1 	 government the
+5 	 4 	 N/N 	 1 	 government U.S.
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 government 's
+8 	 2 	 (S[dcl]\NP)/NP 	 2 	 acknowledgement was
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 acknowledgement 's
+8 	 7 	 N/N 	 1 	 acknowledgement first
+8 	 9 	 (NP\NP)/NP 	 1 	 acknowledgement of
+10 	 9 	 (NP\NP)/NP 	 2 	 what of
+10 	 23 	 (S[ng]\NP)/NP 	 2 	 what predicting <XU>
+12 	 11 	 N/N 	 1 	 groups other
+12 	 15 	 (NP\NP)/NP 	 1 	 groups as
+12 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 groups have
+12 	 23 	 (S[ng]\NP)/NP 	 1 	 groups predicting <XB>
+15 	 14 	 (NP\NP)/(NP\NP) 	 2 	 as such
+19 	 15 	 (NP\NP)/NP 	 2 	 Fund as
+19 	 16 	 NP[nb]/N 	 1 	 Fund the
+19 	 17 	 N/N 	 1 	 Fund International
+19 	 18 	 N/N 	 1 	 Fund Monetary
+21 	 10 	 NP/(S[dcl]/NP) 	 1 	 have what
+22 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+23 	 22 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 predicting been
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 predicting for
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 months for
+<\s>
+<s id="wsj_0622.4"> 15
+1 	 0 	 N/N 	 1 	 strength Continued
+1 	 2 	 (NP\NP)/NP 	 1 	 strength in
+1 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 strength was
+1 	 6 	 (S[pss]\NP)/PP 	 1 	 strength cited <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 dollar in
+4 	 3 	 NP[nb]/N 	 1 	 dollar the
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 cited was
+7 	 6 	 (S[pss]\NP)/PP 	 2 	 as cited
+9 	 7 	 PP/NP 	 1 	 reason as
+9 	 8 	 N/N 	 1 	 reason one
+12 	 10 	 NP[nb]/N 	 1 	 position the
+12 	 11 	 N/N 	 1 	 position trade
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 position may
+12 	 14 	 S[b]\NP 	 1 	 position deteriorate <XB>
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 deteriorate may
+<\s>
+<s id="wsj_0622.5"> 28
+1 	 0 	 NP[nb]/N 	 1 	 Treasury The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Treasury 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 report 's
+3 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 report which
+3 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 report is <XB>
+3 	 7 	 S[pss]\NP 	 1 	 report required <XB>
+3 	 19 	 ((S[dcl]\NP)/PP)/NP 	 1 	 report took
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 required is
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 required annually
+7 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 required by
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 provision by
+11 	 10 	 NP[nb]/N 	 1 	 provision a
+11 	 12 	 (NP\NP)/NP 	 1 	 provision of
+16 	 12 	 (NP\NP)/NP 	 2 	 act of
+16 	 13 	 NP[nb]/N 	 1 	 act the
+16 	 14 	 N/N 	 1 	 act 1988
+16 	 15 	 N/N 	 1 	 act trade
+19 	 18 	 (S\NP)/(S\NP) 	 2 	 took again
+19 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 took for
+21 	 19 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Korea took
+21 	 20 	 N/N 	 1 	 Korea South
+22 	 19 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to took
+23 	 22 	 PP/NP 	 1 	 task to
+27 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 policies for
+27 	 25 	 NP[nb]/N 	 1 	 policies its
+27 	 26 	 N/N 	 1 	 policies exchange-rate
+<\s>
+<s id="wsj_0622.6"> 45
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 We believe
+1 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 believe said
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that believe
+3 	 4 	 (S[dcl]\NP[thr])/(S[pt]\NP) 	 1 	 there have
+4 	 2 	 S[em]/S[dcl] 	 1 	 have that
+5 	 4 	 (S[dcl]\NP[thr])/(S[pt]\NP) 	 2 	 continued have
+5 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 continued during
+6 	 5 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to continued
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 7 	 (S[b]\NP)/NP 	 2 	 indications be
+8 	 9 	 (NP\NP)/NP 	 1 	 indications of
+11 	 9 	 (NP\NP)/NP 	 2 	 manipulation of
+11 	 10 	 N/N 	 1 	 manipulation exchange-rate
+16 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 months during
+16 	 13 	 NP[nb]/N 	 1 	 months the
+16 	 14 	 N/N 	 1 	 months past
+16 	 15 	 N/N 	 1 	 months six
+18 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 it said
+23 	 21 	 (S[ng]\NP)/NP 	 2 	 lack citing
+23 	 22 	 NP[nb]/N 	 1 	 lack the
+23 	 24 	 (NP\NP)/NP 	 1 	 lack of
+26 	 24 	 (NP\NP)/NP 	 2 	 forces of
+26 	 25 	 N/N 	 1 	 forces market
+26 	 27 	 (NP\NP)/NP 	 1 	 forces in
+29 	 28 	 N/N 	 1 	 Korea South
+29 	 30 	 (NP[nb]/N)\NP 	 2 	 Korea 's
+32 	 27 	 (NP\NP)/NP 	 2 	 system in
+32 	 30 	 (NP[nb]/N)\NP 	 1 	 system 's
+32 	 31 	 N/N 	 1 	 system exchange-rate
+35 	 21 	 (S[ng]\NP)/NP 	 2 	 use citing
+35 	 34 	 NP[nb]/N 	 1 	 use the
+35 	 36 	 (NP\NP)/NP 	 1 	 use of
+40 	 36 	 (NP\NP)/NP 	 2 	 controls of
+40 	 37 	 N/N 	 1 	 controls capital
+40 	 39 	 N/N 	 1 	 controls interest-rate
+42 	 41 	 (S[to]\NP)/(S[b]\NP) 	 2 	 manipulate to
+44 	 42 	 (S[b]\NP)/NP 	 2 	 rates manipulate
+44 	 43 	 N/N 	 1 	 rates exchange
+<\s>
+<s id="wsj_0622.7"> 24
+1 	 0 	 NP[nb]/N 	 1 	 Treasury The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Treasury expressed
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 pleasure expressed
+3 	 5 	 NP\NP 	 1 	 pleasure however
+3 	 7 	 (NP\NP)/NP 	 1 	 pleasure with
+9 	 7 	 (NP\NP)/NP 	 2 	 government with
+9 	 8 	 NP[nb]/N 	 1 	 government the
+9 	 10 	 (NP\NP)/NP 	 1 	 government of
+9 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 government which
+9 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 government was <XB>
+9 	 15 	 (S[pss]\NP)/PP 	 1 	 government cited <XB>
+11 	 10 	 (NP\NP)/NP 	 2 	 Taiwan of
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was which
+15 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 cited was
+15 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 cited in
+16 	 15 	 (S[pss]\NP)/PP 	 2 	 for cited
+18 	 16 	 PP/NP 	 1 	 manipulation for
+18 	 17 	 N/N 	 1 	 manipulation exchange-rate
+21 	 20 	 N/N 	 1 	 year last
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 year 's
+23 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 report in
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 report 's
+<\s>
+<s id="wsj_0622.8"> 14
+1 	 0 	 NP[nb]/N 	 1 	 Treasury The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Treasury said
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Taiwan has
+3 	 5 	 (S[pt]\NP)/NP 	 1 	 Taiwan liberalized <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 liberalized has
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 liberalized in
+9 	 5 	 (S[pt]\NP)/NP 	 2 	 system liberalized
+9 	 6 	 NP[nb]/N 	 1 	 system its
+9 	 7 	 N/N 	 1 	 system exchange
+9 	 8 	 N/N 	 1 	 system rate
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 year in
+13 	 11 	 NP[nb]/N 	 1 	 year the
+13 	 12 	 N/N 	 1 	 year past
+<\s>

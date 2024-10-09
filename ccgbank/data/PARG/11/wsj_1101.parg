@@ -1,0 +1,654 @@
+<s id="wsj_1101.1"> 30
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Israel has
+0 	 2 	 (S[pt]\NP)/NP 	 1 	 Israel launched <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 launched has
+5 	 2 	 (S[pt]\NP)/NP 	 2 	 effort launched
+5 	 3 	 NP[nb]/N 	 1 	 effort a
+5 	 4 	 N/N 	 1 	 effort new
+5 	 7 	 (S[b]\NP)/S[dcl] 	 1 	 effort prove <XB>
+5 	 20 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 effort persuade <XU>
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 prove to
+11 	 8 	 NP[nb]/N 	 1 	 Organization the
+11 	 9 	 N/N 	 1 	 Organization Palestine
+11 	 10 	 N/N 	 1 	 Organization Liberation
+11 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Organization continues
+11 	 14 	 (S[b]\NP)/NP 	 1 	 Organization practice <XB>
+12 	 7 	 (S[b]\NP)/S[dcl] 	 2 	 continues prove
+13 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continues
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 practice to
+15 	 14 	 (S[b]\NP)/NP 	 2 	 terrorism practice
+19 	 18 	 (S\NP)/(S\NP) 	 2 	 to thus
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 persuade to
+22 	 20 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 U.S. persuade
+22 	 21 	 NP[nb]/N 	 1 	 U.S. the
+22 	 24 	 (S[b]\NP)/NP 	 1 	 U.S. break <XB>
+23 	 20 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to persuade
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 break to
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 break off
+26 	 24 	 (S[b]\NP)/NP 	 2 	 talks break
+26 	 27 	 (NP\NP)/NP 	 1 	 talks with
+29 	 27 	 (NP\NP)/NP 	 2 	 group with
+29 	 28 	 NP[nb]/N 	 1 	 group the
+<\s>
+<s id="wsj_1101.2"> 13
+1 	 0 	 N/N 	 1 	 officials U.S.
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 officials said
+5 	 3 	 (S\NP)/(S\NP) 	 2 	 said however
+6 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they are
+6 	 9 	 (S[ng]\NP)/NP 	 1 	 they buying <XB>
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 are n't
+9 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 buying are
+12 	 9 	 (S[ng]\NP)/NP 	 2 	 argument buying
+12 	 10 	 NP[nb]/N 	 1 	 argument the
+12 	 11 	 N/N 	 1 	 argument Israeli
+<\s>
+<s id="wsj_1101.3"> 26
+2 	 0 	 N/N 	 1 	 officials Israeli
+2 	 1 	 N/N 	 1 	 officials counterterrorism
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 officials provided
+6 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Department provided
+6 	 4 	 NP[nb]/N 	 1 	 Department the
+6 	 5 	 N/N 	 1 	 Department State
+7 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 with provided
+10 	 7 	 PP/NP 	 1 	 list with
+10 	 8 	 NP[nb]/N 	 1 	 list a
+10 	 9 	 N/N 	 1 	 list 20-page
+10 	 11 	 (NP\NP)/NP 	 1 	 list of
+14 	 11 	 (NP\NP)/NP 	 2 	 incidents of
+14 	 12 	 N/N 	 1 	 incidents recent
+14 	 13 	 N/N 	 1 	 incidents terrorist
+14 	 16 	 ((S[dcl]\NP)/PP)/NP 	 3 	 incidents attribute <XU>
+15 	 16 	 ((S[dcl]\NP)/PP)/NP 	 1 	 they attribute
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 attribute directly
+18 	 16 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to attribute
+19 	 18 	 PP/NP 	 1 	 forces to
+19 	 20 	 S[pss]\NP 	 1 	 forces controlled <XB>
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 controlled by
+25 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 Arafat by
+25 	 22 	 N/N 	 1 	 Arafat PLO
+25 	 23 	 N/N 	 1 	 Arafat Chairman
+25 	 24 	 N/N 	 1 	 Arafat Yasser
+<\s>
+<s id="wsj_1101.4"> 19
+1 	 0 	 N/N 	 1 	 Arafat Mr.
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 Arafat renounced
+1 	 8 	 (S[ng]\NP)/NP 	 1 	 Arafat satisfying <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 renounced publicly
+3 	 5 	 ((S\NP)\(S\NP))/N[num] 	 2 	 renounced Dec.
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 terrorism renounced
+6 	 5 	 ((S\NP)\(S\NP))/N[num] 	 3 	 15 Dec.
+11 	 8 	 (S[ng]\NP)/NP 	 2 	 precondition satisfying
+11 	 9 	 NP[nb]/N 	 1 	 precondition the
+11 	 10 	 N/N 	 1 	 precondition U.S.
+11 	 12 	 (NP\NP)/NP 	 1 	 precondition for
+15 	 12 	 (NP\NP)/NP 	 2 	 dialogue for
+15 	 13 	 NP[nb]/N 	 1 	 dialogue a
+15 	 14 	 N/N 	 1 	 dialogue direct
+15 	 16 	 (NP\NP)/NP 	 1 	 dialogue with
+18 	 16 	 (NP\NP)/NP 	 2 	 PLO with
+18 	 17 	 NP[nb]/N 	 1 	 PLO the
+<\s>
+<s id="wsj_1101.5"> 11
+3 	 0 	 NP[nb]/N 	 1 	 official A
+3 	 1 	 N/N 	 1 	 official U.S.
+3 	 2 	 N/N 	 1 	 official counterterrorism
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 official said
+5 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 experts are
+5 	 7 	 (S[ng]\NP)/NP 	 1 	 experts studying <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 studying are
+10 	 7 	 (S[ng]\NP)/NP 	 2 	 list studying
+10 	 8 	 NP[nb]/N 	 1 	 list the
+10 	 9 	 N/N 	 1 	 list Israeli
+<\s>
+<s id="wsj_1101.6"> 31
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 We have
+1 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 have said
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 evidence have
+4 	 2 	 NP[nb]/N 	 1 	 evidence no
+4 	 3 	 N/N 	 1 	 evidence independent
+4 	 5 	 ((S[ng]\NP)/PP)/NP 	 1 	 evidence linking <XB>
+6 	 5 	 ((S[ng]\NP)/PP)/NP 	 3 	 Fatah linking
+7 	 5 	 ((S[ng]\NP)/PP)/NP 	 2 	 to linking
+9 	 7 	 PP/NP 	 1 	 acts to
+9 	 8 	 NP[nb]/N 	 1 	 acts any
+9 	 10 	 (NP\NP)/NP 	 1 	 acts of
+9 	 12 	 (NP\NP)/NP 	 1 	 acts since
+11 	 10 	 (NP\NP)/NP 	 2 	 terrorism of
+13 	 12 	 (NP\NP)/NP 	 2 	 Dec. since
+13 	 16 	 N\N 	 1 	 Dec. 1988
+14 	 13 	 N/N[num] 	 1 	 15 Dec.
+18 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+22 	 21 	 (S[ng]\NP)/PP 	 2 	 to referring
+26 	 22 	 PP/NP 	 1 	 group to
+26 	 23 	 NP[nb]/N 	 1 	 group the
+26 	 24 	 N/N 	 1 	 group specific
+26 	 25 	 N/N 	 1 	 group PLO
+26 	 27 	 (NP\NP)/(S[dcl]/NP) 	 1 	 group that
+26 	 30 	 (S[dcl]\NP)/NP 	 2 	 group heads <XU>
+29 	 28 	 N/N 	 1 	 Arafat Mr.
+29 	 30 	 (S[dcl]\NP)/NP 	 1 	 Arafat heads
+30 	 27 	 (NP\NP)/(S[dcl]/NP) 	 2 	 heads that
+<\s>
+<s id="wsj_1101.7"> 10
+1 	 0 	 (S/S)/(S/S) 	 2 	 far So
+4 	 3 	 NP[nb]/N 	 1 	 list this
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 list does
+4 	 7 	 (S[b]\NP)/NP 	 1 	 list change <XB>
+5 	 1 	 S/S 	 1 	 does far
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 does n't
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 change does
+9 	 7 	 (S[b]\NP)/NP 	 2 	 view change
+9 	 8 	 NP[nb]/N 	 1 	 view our
+<\s>
+<s id="wsj_1101.8"> 16
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Israel wants
+0 	 3 	 (S[b]\NP)/NP 	 1 	 Israel end <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wants
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 end to
+5 	 3 	 (S[b]\NP)/NP 	 2 	 dialogue end
+5 	 4 	 NP[nb]/N 	 1 	 dialogue the
+9 	 8 	 NP[nb]/N 	 1 	 analysts our
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 analysts take
+13 	 10 	 (S[dcl]\NP)/NP 	 2 	 view take
+13 	 11 	 NP[nb]/N 	 1 	 view a
+13 	 12 	 N/N 	 1 	 view different
+13 	 14 	 (NP\NP)/NP 	 1 	 view than
+15 	 14 	 (NP\NP)/NP 	 2 	 theirs than
+<\s>
+<s id="wsj_1101.9"> 29
+4 	 0 	 N/N 	 1 	 Shamir Israeli
+4 	 1 	 N/N 	 1 	 Shamir Prime
+4 	 2 	 N/N 	 1 	 Shamir Minister
+4 	 3 	 N/N 	 1 	 Shamir Yitzhak
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Shamir 's
+7 	 5 	 (NP[nb]/N)\NP 	 1 	 adviser 's
+7 	 6 	 N/N 	 1 	 adviser top
+7 	 8 	 (NP\NP)/NP 	 1 	 adviser on
+7 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 adviser was
+7 	 15 	 S[adj]\NP 	 1 	 adviser here <XB>
+7 	 18 	 ((S[b]\NP)/PP)/NP 	 1 	 adviser present <XB>
+9 	 8 	 (NP\NP)/NP 	 2 	 counterterrorism on
+12 	 11 	 N/N 	 1 	 Carmon Yigal
+12 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Carmon was
+12 	 15 	 S[adj]\NP 	 1 	 Carmon here <XB>
+12 	 18 	 ((S[b]\NP)/PP)/NP 	 1 	 Carmon present <XB>
+14 	 16 	 (S\NP)\(S\NP) 	 2 	 was Monday
+15 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 here was
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 present to
+20 	 18 	 ((S[b]\NP)/PP)/NP 	 3 	 report present
+20 	 19 	 NP[nb]/N 	 1 	 report the
+21 	 18 	 ((S[b]\NP)/PP)/NP 	 2 	 to present
+22 	 21 	 PP/NP 	 1 	 members to
+22 	 23 	 (NP\NP)/NP 	 1 	 members of
+24 	 23 	 (NP\NP)/NP 	 2 	 Congress of
+26 	 21 	 PP/NP 	 1 	 reporters to
+28 	 21 	 PP/NP 	 1 	 others to
+<\s>
+<s id="wsj_1101.10"> 18
+1 	 0 	 N/N 	 1 	 Carmon Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Carmon said
+3 	 5 	 ((S[dcl]\NP)/PP)/NP 	 1 	 he presented
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 presented said
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 presented also
+5 	 9 	 (S\NP)\(S\NP) 	 2 	 presented week
+7 	 5 	 ((S[dcl]\NP)/PP)/NP 	 3 	 list presented
+7 	 6 	 NP[nb]/N 	 1 	 list the
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week last
+10 	 5 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to presented
+12 	 10 	 PP/NP 	 1 	 Brown to
+12 	 11 	 N/N 	 1 	 Brown William
+15 	 10 	 PP/NP 	 1 	 Ambassador to
+15 	 14 	 N/N 	 1 	 Ambassador U.S.
+15 	 16 	 (NP\NP)/NP 	 1 	 Ambassador to
+17 	 16 	 (NP\NP)/NP 	 2 	 Israel to
+<\s>
+<s id="wsj_1101.11"> 35
+5 	 2 	 NP[nb]/N 	 1 	 Times the
+5 	 3 	 N/N 	 1 	 Times New
+5 	 4 	 N/N 	 1 	 Times York
+5 	 6 	 (S[dcl]\NP)/S[em] 	 1 	 Times reported
+6 	 0 	 S/S 	 1 	 reported Separately
+7 	 6 	 (S[dcl]\NP)/S[em] 	 2 	 that reported
+10 	 8 	 NP[nb]/N 	 1 	 government the
+10 	 9 	 N/N 	 1 	 government Israeli
+10 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 government had
+10 	 12 	 ((S[pt]\NP)/PP)/NP 	 1 	 government provided <XB>
+11 	 7 	 S[em]/S[dcl] 	 1 	 had that
+12 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 provided had
+14 	 12 	 ((S[pt]\NP)/PP)/NP 	 3 	 correspondent provided
+14 	 13 	 NP[nb]/N 	 1 	 correspondent its
+14 	 15 	 (NP\NP)/NP 	 1 	 correspondent in
+16 	 15 	 (NP\NP)/NP 	 2 	 Jerusalem in
+17 	 12 	 ((S[pt]\NP)/PP)/NP 	 2 	 with provided
+19 	 17 	 PP/NP 	 1 	 documents with
+19 	 18 	 N/N 	 1 	 documents different
+19 	 20 	 (NP\NP)/(S[dcl]/NP) 	 1 	 documents that
+19 	 22 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 2 	 documents said <XU>
+19 	 23 	 (S[dcl]\NP)/S[dcl] 	 1 	 documents prove <XU>
+21 	 22 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 1 	 Israel said
+22 	 20 	 (NP\NP)/(S[dcl]/NP) 	 2 	 said that
+23 	 22 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 3 	 prove said
+25 	 24 	 NP[nb]/N 	 1 	 PLO the
+25 	 26 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 PLO has
+25 	 28 	 (S[ng]\NP)/NP 	 1 	 PLO conducting <XB>
+26 	 23 	 (S[dcl]\NP)/S[dcl] 	 2 	 has prove
+27 	 26 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+28 	 27 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 conducting been
+28 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 conducting from
+29 	 28 	 (S[ng]\NP)/NP 	 2 	 terrorism conducting
+34 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 territories from
+34 	 31 	 NP[nb]/N 	 1 	 territories the
+34 	 32 	 N/N 	 1 	 territories occupied
+34 	 33 	 N/N 	 1 	 territories Arab
+<\s>
+<s id="wsj_1101.12"> 13
+2 	 0 	 NP[nb]/N 	 1 	 Department The
+2 	 1 	 N/N 	 1 	 Department State
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Department said
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+4 	 8 	 (S[pt]\NP)/NP 	 1 	 it seen <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 has n't
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 has yet
+8 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 seen has
+9 	 8 	 (S[pt]\NP)/NP 	 2 	 copies seen
+9 	 10 	 (NP\NP)/NP 	 1 	 copies of
+12 	 10 	 (NP\NP)/NP 	 2 	 papers of
+12 	 11 	 NP[nb]/N 	 1 	 papers those
+<\s>
+<s id="wsj_1101.13"> 35
+2 	 1 	 NP[nb]/N 	 1 	 dialogue the
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 dialogue was
+2 	 4 	 (S[pss]\NP)/PP 	 1 	 dialogue based <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 was If
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 based was
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 on based
+7 	 5 	 PP/NP 	 1 	 assumption on
+7 	 6 	 NP[nb]/N 	 1 	 assumption the
+7 	 8 	 (NP\NP)/S[dcl] 	 1 	 assumption that
+9 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Arafat would
+9 	 14 	 (S[b]\NP)/NP 	 1 	 Arafat stop <XB>
+12 	 11 	 NP[nb]/N 	 1 	 PLO the
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 PLO would
+12 	 14 	 (S[b]\NP)/NP 	 1 	 PLO stop <XB>
+13 	 8 	 (NP\NP)/S[dcl] 	 2 	 would that
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 stop would
+15 	 14 	 (S[b]\NP)/NP 	 2 	 terrorism stop
+18 	 19 	 (S[dcl]\NP)/NP 	 1 	 we have
+19 	 0 	 (S/S)/S[dcl] 	 2 	 have If
+20 	 19 	 (S[dcl]\NP)/NP 	 2 	 evidence have
+20 	 21 	 (NP\NP)/NP 	 1 	 evidence of
+23 	 21 	 (NP\NP)/NP 	 2 	 terrorism of
+23 	 22 	 N/N 	 1 	 terrorism continued
+25 	 0 	 (S/S)/S[dcl] 	 1 	 what If
+25 	 34 	 (S[dcl]\S[wq])\NP 	 1 	 what asked
+26 	 25 	 S[wq]/(S[dcl]\NP) 	 1 	 would what
+27 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+30 	 27 	 (S[b]\NP)/NP 	 2 	 conclusion be
+30 	 28 	 NP[nb]/N 	 1 	 conclusion the
+30 	 29 	 N/N 	 1 	 conclusion logical
+33 	 32 	 N/N 	 1 	 Carmon Mr.
+33 	 34 	 (S[dcl]\S[wq])\NP 	 2 	 Carmon asked
+<\s>
+<s id="wsj_1101.14"> 29
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Israel has
+0 	 3 	 (S[pt]\NP)/S[dcl] 	 1 	 Israel claimed <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 has long
+3 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 claimed has
+3 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 claimed because
+5 	 4 	 N/N 	 1 	 Arafat Mr.
+5 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Arafat meant
+5 	 9 	 (S[b]\NP)/NP 	 1 	 Arafat renounce <XB>
+7 	 3 	 (S[pt]\NP)/S[dcl] 	 2 	 meant claimed
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 meant never
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to meant
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 renounce to
+10 	 9 	 (S[b]\NP)/NP 	 2 	 terrorism renounce
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 because particularly
+14 	 18 	 (S[dcl]\NP)/NP 	 1 	 he reserved
+17 	 16 	 NP[nb]/N 	 1 	 lieutenants his
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 lieutenants reserved
+18 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 reserved because
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 right reserved
+20 	 19 	 NP[nb]/N 	 1 	 right the
+20 	 22 	 ((S[b]\NP)/PP)/NP 	 1 	 right press <XB>
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 press to
+24 	 22 	 ((S[b]\NP)/PP)/NP 	 3 	 struggle press
+24 	 23 	 N/N 	 1 	 struggle armed
+25 	 22 	 ((S[b]\NP)/PP)/NP 	 2 	 against press
+28 	 25 	 PP/NP 	 1 	 state against
+28 	 26 	 NP[nb]/N 	 1 	 state the
+28 	 27 	 N/N 	 1 	 state Jewish
+<\s>
+<s id="wsj_1101.15"> 23
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Jerusalem says
+3 	 0 	 S/S 	 1 	 says Now
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+4 	 6 	 ((S[ng]\NP)/PP)/NP 	 1 	 it backing <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 is says
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 backing is
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 backing up
+9 	 6 	 ((S[ng]\NP)/PP)/NP 	 3 	 contention backing
+9 	 8 	 NP[nb]/N 	 1 	 contention its
+10 	 6 	 ((S[ng]\NP)/PP)/NP 	 2 	 with backing
+12 	 10 	 PP/NP 	 1 	 accounts with
+12 	 11 	 N/N 	 1 	 accounts detailed
+12 	 13 	 (NP\NP)/NP 	 1 	 accounts of
+16 	 13 	 (NP\NP)/NP 	 2 	 acts of
+16 	 14 	 N/N 	 1 	 acts alleged
+16 	 15 	 N/N 	 1 	 acts terrorist
+16 	 19 	 (S[pss]\NP)/PP 	 1 	 acts linked <XB>
+18 	 13 	 (NP\NP)/NP 	 2 	 plans of
+18 	 14 	 N/N 	 1 	 plans alleged
+18 	 15 	 N/N 	 1 	 plans terrorist
+18 	 19 	 (S[pss]\NP)/PP 	 1 	 plans linked <XB>
+20 	 19 	 (S[pss]\NP)/PP 	 2 	 to linked
+22 	 20 	 PP/NP 	 1 	 Arafat to
+22 	 21 	 N/N 	 1 	 Arafat Mr.
+<\s>
+<s id="wsj_1101.16"> 7
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 It blames
+2 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 most blames
+2 	 3 	 (NP\NP)/NP 	 1 	 most of
+4 	 3 	 (NP\NP)/NP 	 2 	 these of
+5 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 on blames
+6 	 5 	 PP/NP 	 1 	 Fatah on
+<\s>
+<s id="wsj_1101.17"> 20
+2 	 0 	 NP[nb]/N 	 1 	 accusations The
+2 	 1 	 N/N 	 1 	 accusations new
+2 	 3 	 S[dcl]\NP 	 1 	 accusations come
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 come at
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 time at
+7 	 5 	 NP[nb]/N 	 1 	 time a
+7 	 6 	 N/N 	 1 	 time delicate
+7 	 8 	 (NP\NP)/NP 	 1 	 time in
+10 	 8 	 (NP\NP)/NP 	 2 	 efforts in
+10 	 9 	 N/N 	 1 	 efforts U.S.
+10 	 12 	 (S[b]\NP)/NP 	 1 	 efforts bring <XB>
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 bring to
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 bring about
+14 	 12 	 (S[b]\NP)/NP 	 2 	 talks bring
+14 	 15 	 (NP\NP)/NP 	 1 	 talks between
+16 	 15 	 (NP\NP)/NP 	 2 	 Israel between
+19 	 15 	 (NP\NP)/NP 	 2 	 representatives between
+19 	 18 	 N/N 	 1 	 representatives Palestinian
+<\s>
+<s id="wsj_1101.18"> 34
+2 	 0 	 NP[nb]/N 	 1 	 Department The
+2 	 1 	 N/N 	 1 	 Department State
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Department said
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it had
+4 	 6 	 ((S[pt]\NP)/PP)/NP 	 1 	 it received <XB>
+4 	 20 	 (S[ng]\NP)/NP 	 1 	 it restating <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 received had
+9 	 6 	 ((S[pt]\NP)/PP)/NP 	 3 	 letter received
+9 	 7 	 NP[nb]/N 	 1 	 letter a
+9 	 8 	 N/N 	 1 	 letter new
+9 	 10 	 (NP\NP)/NP 	 1 	 letter on
+12 	 10 	 (NP\NP)/NP 	 2 	 subject on
+12 	 11 	 NP[nb]/N 	 1 	 subject the
+13 	 6 	 ((S[pt]\NP)/PP)/NP 	 2 	 from received
+18 	 13 	 PP/NP 	 1 	 Arens from
+18 	 14 	 N/N 	 1 	 Arens Israeli
+18 	 15 	 N/N 	 1 	 Arens Foreign
+18 	 16 	 N/N 	 1 	 Arens Minister
+18 	 17 	 N/N 	 1 	 Arens Moshe
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 Israel 's
+24 	 20 	 (S[ng]\NP)/NP 	 2 	 objection restating
+24 	 22 	 (NP[nb]/N)\NP 	 1 	 objection 's
+24 	 23 	 N/N 	 1 	 objection previous
+24 	 25 	 (N\N)/(S[ng]\NP) 	 1 	 objection to
+26 	 25 	 (N\N)/(S[ng]\NP) 	 2 	 negotiating to
+27 	 26 	 (S[ng]\NP)/PP 	 2 	 with negotiating
+29 	 27 	 PP/NP 	 1 	 Palestinian with
+29 	 28 	 NP[nb]/N 	 1 	 Palestinian any
+29 	 30 	 (S[pss]\NP)/PP 	 1 	 Palestinian tied <XB>
+31 	 30 	 (S[pss]\NP)/PP 	 2 	 to tied
+33 	 31 	 PP/NP 	 1 	 PLO to
+33 	 32 	 NP[nb]/N 	 1 	 PLO the
+<\s>
+<s id="wsj_1101.19"> 9
+0 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Deciding can
+0 	 5 	 (S[b]\NP)/NP 	 1 	 Deciding be <XB>
+1 	 0 	 (S[ng]\NP)/NP 	 2 	 what Deciding
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 what constitutes <XB>
+2 	 1 	 NP/(S[dcl]\NP) 	 1 	 constitutes what
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 terrorism constitutes
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+8 	 5 	 (S[b]\NP)/NP 	 2 	 exercise be
+8 	 6 	 NP[nb]/N 	 1 	 exercise a
+8 	 7 	 N/N 	 1 	 exercise legalistic
+<\s>
+<s id="wsj_1101.20"> 21
+1 	 0 	 NP[nb]/N 	 1 	 U.S. The
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 U.S. defines
+3 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 it defines
+4 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as defines
+8 	 7 	 (N/N)/(N/N) 	 2 	 motivated politically
+9 	 4 	 PP/NP 	 1 	 violence as
+9 	 5 	 N/N 	 1 	 violence premediated
+9 	 8 	 N/N 	 1 	 violence motivated
+9 	 10 	 (S[pss]\NP)/PP 	 1 	 violence perpetrated <XB>
+10 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 perpetrated by
+11 	 10 	 (S[pss]\NP)/PP 	 2 	 against perpetrated
+13 	 11 	 PP/NP 	 1 	 targets against
+13 	 12 	 N/N 	 1 	 targets noncombatant
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 groups by
+16 	 15 	 N/N 	 1 	 groups subnational
+20 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 agents by
+20 	 18 	 N/N 	 1 	 agents clandestine
+20 	 19 	 N/N 	 1 	 agents state
+<\s>
+<s id="wsj_1101.21"> 21
+1 	 0 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet To
+4 	 1 	 (S[b]\NP)/NP 	 2 	 criteria meet
+4 	 2 	 NP[nb]/N 	 1 	 criteria the
+4 	 3 	 N/N 	 1 	 criteria U.S.
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Israel contended
+8 	 10 	 (S[dcl]\NP)/NP 	 1 	 it listed
+10 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 listed contended
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 listed only
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 incidents listed
+11 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 incidents that
+11 	 13 	 (S[dcl]\NP)/NP 	 1 	 incidents involved <XB>
+11 	 16 	 S[dcl]\NP 	 1 	 incidents occurred <XU>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 involved that
+14 	 13 	 (S[dcl]\NP)/NP 	 2 	 civilians involved
+16 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 occurred that
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 occurred inside
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 borders inside
+20 	 18 	 NP[nb]/N 	 1 	 borders its
+20 	 19 	 N/N 	 1 	 borders pre-1967
+<\s>
+<s id="wsj_1101.22"> 27
+0 	 7 	 (S[dcl]\PP)/NP 	 1 	 At is
+2 	 0 	 PP/NP 	 1 	 heart At
+2 	 1 	 NP[nb]/N 	 1 	 heart the
+2 	 3 	 (NP\NP)/NP 	 1 	 heart of
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Israel 's
+6 	 3 	 (NP\NP)/NP 	 2 	 report of
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 report 's
+9 	 7 	 (S[dcl]\PP)/NP 	 2 	 list is
+9 	 8 	 NP[nb]/N 	 1 	 list a
+9 	 10 	 (NP\NP)/NP 	 1 	 list of
+13 	 10 	 (NP\NP)/NP 	 2 	 incidents of
+13 	 11 	 NP[nb]/N 	 1 	 incidents a
+13 	 12 	 N/N 	 1 	 incidents dozen
+13 	 15 	 ((S[dcl]\NP)/PP)/NP 	 3 	 incidents attributes <XU>
+13 	 19 	 (NP\NP)/NP 	 1 	 incidents including
+14 	 15 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Jerusalem attributes
+16 	 15 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to attributes
+17 	 16 	 PP/NP 	 1 	 Fatah to
+21 	 19 	 (NP\NP)/NP 	 2 	 use including
+21 	 20 	 NP[nb]/N 	 1 	 use the
+21 	 22 	 (NP\NP)/NP 	 1 	 use of
+23 	 22 	 (NP\NP)/NP 	 2 	 bombs of
+26 	 22 	 (NP\NP)/NP 	 2 	 cocktails of
+26 	 25 	 N/N 	 1 	 cocktails Molotov
+<\s>
+<s id="wsj_1101.23"> 37
+2 	 1 	 N/N 	 1 	 officials U.S.
+2 	 3 	 (S[b]\NP)/S[dcl] 	 1 	 officials say
+3 	 0 	 S/S 	 1 	 say But
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they are
+4 	 7 	 (S[adj]\NP)/S[dcl] 	 1 	 they satisfied <XB>
+5 	 3 	 (S[b]\NP)/S[dcl] 	 2 	 are say
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 are n't
+5 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 are because
+7 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 satisfied are
+9 	 8 	 NP[nb]/N 	 1 	 incidents these
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 incidents constitute
+10 	 7 	 (S[adj]\NP)/S[dcl] 	 2 	 constitute satisfied
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 terrorism constitute
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they may
+13 	 15 	 (S[b]\NP)/NP 	 1 	 they be <XB>
+14 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 may because
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+16 	 15 	 (S[b]\NP)/NP 	 2 	 offshoots be
+16 	 17 	 (NP\NP)/NP 	 1 	 offshoots of
+19 	 17 	 (NP\NP)/NP 	 2 	 intifadah of
+19 	 18 	 NP[nb]/N 	 1 	 intifadah the
+19 	 29 	 (NP\NP)/(S[dcl]/NP) 	 1 	 intifadah which
+19 	 34 	 ((S[b]\NP)/PP)/NP 	 3 	 intifadah classify <XU>
+23 	 17 	 (NP\NP)/NP 	 2 	 rebellion of
+23 	 21 	 NP[nb]/N 	 1 	 rebellion the
+23 	 22 	 N/N 	 1 	 rebellion Palestinian
+23 	 24 	 (NP\NP)/NP 	 1 	 rebellion in
+23 	 29 	 (NP\NP)/(S[dcl]/NP) 	 1 	 rebellion which
+23 	 34 	 ((S[b]\NP)/PP)/NP 	 3 	 rebellion classify <XU>
+27 	 24 	 (NP\NP)/NP 	 2 	 territories in
+27 	 25 	 NP[nb]/N 	 1 	 territories the
+27 	 26 	 N/N 	 1 	 territories occupied
+31 	 30 	 NP[nb]/N 	 1 	 U.S. the
+31 	 32 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 U.S. does
+31 	 34 	 ((S[b]\NP)/PP)/NP 	 1 	 U.S. classify <XB>
+32 	 29 	 (NP\NP)/(S[dcl]/NP) 	 2 	 does which
+32 	 33 	 (S\NP)\(S\NP) 	 2 	 does n't
+34 	 32 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 classify does
+35 	 34 	 ((S[b]\NP)/PP)/NP 	 2 	 as classify
+36 	 35 	 PP/NP 	 1 	 terrorism as
+<\s>
+<s id="wsj_1101.24"> 25
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+4 	 3 	 NP[nb]/N 	 1 	 officials the
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 officials say
+5 	 0 	 (S/S)/NP 	 1 	 say In
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Israel has
+6 	 9 	 (S[pt]\NP)/NP 	 1 	 Israel presented <XB>
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 has say
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 has n't
+9 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 presented has
+11 	 9 	 (S[pt]\NP)/NP 	 2 	 evidence presented
+11 	 10 	 N/N 	 1 	 evidence convincing
+13 	 12 	 NP[nb]/N 	 1 	 acts these
+13 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 acts were
+13 	 15 	 S[pss]\NP 	 1 	 acts ordered <XB>
+14 	 11 	 N/S[dcl] 	 1 	 were evidence
+15 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 ordered were
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 ordered by
+15 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 ordered by <XU>
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 Fatah by
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 group by
+21 	 20 	 NP[nb]/N 	 1 	 group any
+21 	 24 	 (S[dcl]\NP)/NP 	 2 	 group controls <XU>
+23 	 22 	 N/N 	 1 	 Arafat Mr.
+23 	 24 	 (S[dcl]\NP)/NP 	 1 	 Arafat controls
+<\s>
+<s id="wsj_1101.25"> 22
+2 	 0 	 N/N 	 1 	 experts U.S.
+2 	 1 	 N/N 	 1 	 experts terrorism
+2 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 experts say
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 say also
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they are
+5 	 8 	 (S[adj]\NP)/PP 	 1 	 they uncertain <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 are say
+8 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 uncertain are
+8 	 7 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 uncertain highly
+9 	 8 	 (S[adj]\NP)/PP 	 2 	 about uncertain
+11 	 9 	 PP/NP 	 1 	 veracity about
+11 	 10 	 NP[nb]/N 	 1 	 veracity the
+11 	 12 	 (NP\NP)/NP 	 1 	 veracity of
+15 	 12 	 (NP\NP)/NP 	 2 	 documents of
+15 	 13 	 NP[nb]/N 	 1 	 documents the
+15 	 14 	 N/N 	 1 	 documents separate
+15 	 16 	 (S[pss]\NP)/PP 	 1 	 documents leaked <XB>
+17 	 16 	 (S[pss]\NP)/PP 	 2 	 to leaked
+21 	 17 	 PP/NP 	 1 	 Times to
+21 	 18 	 NP[nb]/N 	 1 	 Times the
+21 	 19 	 N/N 	 1 	 Times New
+21 	 20 	 N/N 	 1 	 Times York
+<\s>
+<s id="wsj_1101.26"> 30
+1 	 0 	 NP[nb]/N 	 1 	 papers The
+1 	 3 	 (NP\NP)/(S[dcl]/NP) 	 1 	 papers which
+1 	 5 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 2 	 papers says <XU>
+1 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 papers were <XU>
+1 	 7 	 S[pss]\NP 	 1 	 papers discovered <XU>
+1 	 12 	 (S[dcl]\NP)/PP 	 1 	 papers refer
+4 	 5 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 1 	 Israel says
+5 	 3 	 (NP\NP)/(S[dcl]/NP) 	 2 	 says which
+6 	 5 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 3 	 were says
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 discovered were
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 discovered in
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Gaza in
+10 	 9 	 N/N 	 1 	 Gaza Israeli-occupied
+13 	 12 	 (S[dcl]\NP)/PP 	 2 	 to refer
+15 	 13 	 PP/NP 	 1 	 acts to
+15 	 14 	 N/N 	 1 	 acts terrorist
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+18 	 17 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 carried be
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 carried out
+18 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 carried in
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 name in
+22 	 21 	 NP[nb]/N 	 1 	 name the
+22 	 23 	 (NP\NP)/NP 	 1 	 name of
+25 	 23 	 (NP\NP)/NP 	 2 	 group of
+25 	 24 	 NP[nb]/N 	 1 	 group a
+25 	 26 	 (S[pss]\NP)/NP 	 1 	 group called <XB>
+29 	 26 	 (S[pss]\NP)/NP 	 2 	 Eagles called
+29 	 27 	 NP[nb]/N 	 1 	 Eagles the
+29 	 28 	 N/N 	 1 	 Eagles Revolutionary
+<\s>
+<s id="wsj_1101.27"> 23
+1 	 0 	 NP[nb]/N 	 1 	 supporters Some
+1 	 2 	 (NP\NP)/NP 	 1 	 supporters of
+1 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 supporters say
+3 	 2 	 (NP\NP)/NP 	 2 	 Israel of
+6 	 5 	 N/N 	 1 	 policy U.S.
+6 	 7 	 (NP\NP)/NP 	 1 	 policy on
+6 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 policy is
+6 	 11 	 S[pss]\NP 	 1 	 policy colored <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 terrorism on
+9 	 8 	 N/N 	 1 	 terrorism Palestinian
+10 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 is say
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 colored is
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 colored by
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 desire by
+15 	 13 	 NP[nb]/N 	 1 	 desire an
+15 	 14 	 N/N 	 1 	 desire intense
+15 	 17 	 (S[b]\NP)/NP 	 1 	 desire maintain <XB>
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 maintain to
+19 	 17 	 (S[b]\NP)/NP 	 2 	 dialogue maintain
+19 	 18 	 NP[nb]/N 	 1 	 dialogue the
+19 	 20 	 (NP\NP)/NP 	 1 	 dialogue with
+22 	 20 	 (NP\NP)/NP 	 2 	 PLO with
+22 	 21 	 NP[nb]/N 	 1 	 PLO the
+<\s>
+<s id="wsj_1101.28"> 14
+3 	 1 	 N/N 	 1 	 officials State
+3 	 2 	 N/N 	 1 	 officials Department
+3 	 4 	 ((S[dcl]\NP)/PP)/NP 	 1 	 officials accuse
+4 	 0 	 S/S 	 1 	 accuse But
+5 	 4 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Israel accuse
+6 	 4 	 ((S[dcl]\NP)/PP)/NP 	 2 	 of accuse
+7 	 6 	 PP/(S[ng]\NP) 	 1 	 leaking of
+9 	 7 	 (S[ng]\NP)/NP 	 2 	 claims leaking
+9 	 8 	 N/N 	 1 	 claims questionable
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 embarrass to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 U.S. embarrass
+13 	 12 	 NP[nb]/N 	 1 	 U.S. the
+<\s>

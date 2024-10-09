@@ -1,0 +1,69 @@
+<s id="wsj_1513.1"> 36
+2 	 0 	 N/N 	 1 	 Co. HASTINGS
+2 	 1 	 N/N 	 1 	 Co. MANUFACTURING
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Co. declared
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 dividend declared
+7 	 4 	 NP[nb]/N 	 1 	 dividend a
+7 	 5 	 N/N 	 1 	 dividend regular
+7 	 6 	 N/N 	 1 	 dividend quarterly
+7 	 8 	 (NP\NP)/NP 	 1 	 dividend of
+7 	 22 	 (NP\NP)/NP 	 1 	 dividend on
+7 	 27 	 (S[adj]\NP)/NP 	 1 	 dividend payable <XB>
+10 	 8 	 (NP\NP)/NP 	 2 	 cents of
+10 	 9 	 N/N 	 1 	 cents 10
+10 	 11 	 (NP\NP)/N 	 1 	 cents a
+12 	 11 	 (NP\NP)/N 	 2 	 share a
+16 	 3 	 (S[dcl]\NP)/NP 	 2 	 dividend declared
+16 	 14 	 NP[nb]/N 	 1 	 dividend an
+16 	 15 	 N/N 	 1 	 dividend extra
+16 	 17 	 (NP\NP)/NP 	 1 	 dividend of
+16 	 22 	 (NP\NP)/NP 	 1 	 dividend on
+16 	 27 	 (S[adj]\NP)/NP 	 1 	 dividend payable <XB>
+19 	 17 	 (NP\NP)/NP 	 2 	 cents of
+19 	 18 	 N/N 	 1 	 cents five
+19 	 20 	 (NP\NP)/N 	 1 	 cents a
+21 	 20 	 (NP\NP)/N 	 2 	 share a
+25 	 22 	 (NP\NP)/NP 	 2 	 stock on
+25 	 23 	 NP[nb]/N 	 1 	 stock its
+25 	 24 	 N/N 	 1 	 stock common
+27 	 30 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 payable to
+28 	 27 	 (S[adj]\NP)/NP 	 2 	 Dec. payable
+29 	 28 	 N/N[num] 	 1 	 15 Dec.
+31 	 30 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 shares to
+31 	 32 	 (NP\NP)/NP 	 1 	 shares of
+31 	 34 	 (NP\NP)/N[num] 	 1 	 shares Nov.
+33 	 32 	 (NP\NP)/NP 	 2 	 record of
+35 	 34 	 (NP\NP)/N[num] 	 2 	 17 Nov.
+<\s>
+<s id="wsj_1513.2"> 19
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 This is
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 quarter is
+5 	 2 	 NP[nb]/N 	 1 	 quarter the
+5 	 3 	 N/N 	 1 	 quarter 11th
+5 	 4 	 N/N 	 1 	 quarter consecutive
+5 	 7 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 quarter which
+6 	 7 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+9 	 8 	 NP[nb]/N 	 1 	 company the
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company has
+9 	 11 	 ((S[pt]\NP)/NP)/NP 	 1 	 company paid <XB>
+10 	 7 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 has which
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 paid has
+12 	 11 	 ((S[pt]\NP)/NP)/NP 	 3 	 shareholders paid
+15 	 11 	 ((S[pt]\NP)/NP)/NP 	 2 	 dividend paid
+15 	 13 	 NP[nb]/N 	 1 	 dividend an
+15 	 14 	 N/N 	 1 	 dividend extra
+15 	 16 	 (NP\NP)/NP 	 1 	 dividend of
+18 	 16 	 (NP\NP)/NP 	 2 	 cents of
+18 	 17 	 N/N 	 1 	 cents five
+<\s>
+<s id="wsj_1513.3"> 14
+3 	 1 	 (N/N)/(N/N) 	 2 	 Mich. Hastings
+5 	 0 	 NP[nb]/N 	 1 	 concern The
+5 	 3 	 N/N 	 1 	 concern Mich.
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 concern makes
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 rings makes
+8 	 7 	 N/N 	 1 	 rings piston
+10 	 6 	 (S[dcl]\NP)/NP 	 2 	 filters makes
+13 	 6 	 (S[dcl]\NP)/NP 	 2 	 pumps makes
+13 	 12 	 N/N 	 1 	 pumps fuel
+<\s>

@@ -1,0 +1,74 @@
+<s id="wsj_0009.1"> 25
+2 	 0 	 N/N 	 1 	 Vitulli Clark
+2 	 1 	 N/N 	 1 	 Vitulli J.
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Vitulli was
+2 	 4 	 (S[pss]\NP)/NP 	 1 	 Vitulli named <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+7 	 4 	 (S[pss]\NP)/NP 	 2 	 president named
+7 	 5 	 N/N 	 1 	 president senior
+7 	 6 	 N/N 	 1 	 president vice
+7 	 11 	 (NP\NP)/NP 	 1 	 president of
+10 	 4 	 (S[pss]\NP)/NP 	 2 	 manager named
+10 	 9 	 N/N 	 1 	 manager general
+10 	 11 	 (NP\NP)/NP 	 1 	 manager of
+17 	 11 	 (NP\NP)/NP 	 2 	 arm of
+17 	 12 	 NP[nb]/N 	 1 	 arm this
+17 	 13 	 N/N 	 1 	 arm U.S.
+17 	 14 	 N/N 	 1 	 arm sales
+17 	 16 	 N/N 	 1 	 arm marketing
+17 	 18 	 (NP\NP)/NP 	 1 	 arm of
+24 	 18 	 (NP\NP)/NP 	 2 	 Corp of
+24 	 19 	 N/N 	 1 	 Corp Japanese
+24 	 20 	 N/N 	 1 	 Corp auto
+24 	 21 	 N/N 	 1 	 Corp maker
+24 	 22 	 N/N 	 1 	 Corp Mazda
+24 	 23 	 N/N 	 1 	 Corp Motor
+<\s>
+<s id="wsj_0009.2"> 18
+3 	 0 	 (S/S)/NP 	 2 	 position In
+3 	 1 	 NP[nb]/N 	 1 	 position the
+3 	 2 	 N/N 	 1 	 position new
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he will
+4 	 6 	 (S[b]\NP)/NP 	 1 	 he oversee <XB>
+5 	 0 	 (S/S)/NP 	 1 	 will In
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 oversee will
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 Mazda 's
+17 	 6 	 (S[b]\NP)/NP 	 2 	 operations oversee
+17 	 8 	 (NP[nb]/N)\NP 	 1 	 operations 's
+17 	 9 	 N/N 	 1 	 operations U.S.
+17 	 10 	 N/N 	 1 	 operations sales
+17 	 12 	 N/N 	 1 	 operations service
+17 	 14 	 N/N 	 1 	 operations parts
+17 	 16 	 N/N 	 1 	 operations marketing
+<\s>
+<s id="wsj_0009.3"> 19
+3 	 2 	 N/N 	 1 	 Vitulli Mr.
+3 	 7 	 (S[adj]\NP)\NP 	 1 	 Vitulli old <XB>
+3 	 9 	 (S[dcl]\NP)/NP 	 1 	 Vitulli was
+6 	 5 	 N/N 	 1 	 years 43
+6 	 7 	 (S[adj]\NP)\NP 	 2 	 years old
+9 	 0 	 S/S 	 1 	 was Previously
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 manager was
+12 	 10 	 N/N 	 1 	 manager general
+12 	 11 	 N/N 	 1 	 manager marketing
+12 	 13 	 (NP\NP)/NP 	 1 	 manager of
+15 	 14 	 N/N 	 1 	 Corp. Chrysler
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+18 	 13 	 (NP\NP)/NP 	 2 	 division of
+18 	 16 	 (NP[nb]/N)\NP 	 1 	 division 's
+18 	 17 	 N/N 	 1 	 division Chrysler
+<\s>
+<s id="wsj_0009.4"> 13
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 He had
+0 	 2 	 (S[pt]\NP)/NP 	 1 	 He been <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+2 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 been for
+7 	 2 	 (S[pt]\NP)/NP 	 2 	 executive been
+7 	 3 	 NP[nb]/N 	 1 	 executive a
+7 	 4 	 N/N 	 1 	 executive sales
+7 	 6 	 N/N 	 1 	 executive marketing
+7 	 8 	 (NP\NP)/NP 	 1 	 executive with
+9 	 8 	 (NP\NP)/NP 	 2 	 Chrysler with
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+12 	 11 	 N/N 	 1 	 years 20
+<\s>

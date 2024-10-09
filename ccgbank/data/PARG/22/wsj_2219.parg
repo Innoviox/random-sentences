@@ -1,0 +1,439 @@
+<s id="wsj_2219.1"> 42
+3 	 0 	 N/N 	 1 	 Co. Merrill
+3 	 1 	 N/N 	 1 	 Co. Lynch
+3 	 2 	 N/N 	 1 	 Co. &
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Co. 's
+6 	 4 	 (NP[nb]/N)\NP 	 1 	 income 's
+6 	 5 	 N/N 	 1 	 income net
+6 	 7 	 S[dcl]\NP 	 1 	 income dropped
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 dropped %
+7 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 dropped while
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 37
+14 	 12 	 N/N 	 1 	 Cos. Bear
+14 	 13 	 N/N 	 1 	 Cos. Stearns
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 Cos. posted
+15 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 posted while
+18 	 17 	 (N/N)/(N/N) 	 2 	 % 7.5
+19 	 15 	 (S[dcl]\NP)/NP 	 2 	 gain posted
+19 	 16 	 NP[nb]/N 	 1 	 gain a
+19 	 18 	 N/N 	 1 	 gain %
+19 	 20 	 (NP\NP)/NP 	 1 	 gain in
+21 	 20 	 (NP\NP)/NP 	 2 	 net in
+26 	 24 	 N/N 	 1 	 Inc. PaineWebber
+26 	 25 	 N/N 	 1 	 Inc. Group
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 Inc. 's
+28 	 27 	 (NP[nb]/N)\NP 	 1 	 profit 's
+28 	 29 	 S[dcl]\NP 	 1 	 profit fell
+28 	 32 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 profit would <XU>
+28 	 34 	 S[pt]\NP 	 1 	 profit risen <XU>
+29 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 fell while
+32 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 would while
+33 	 32 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+34 	 33 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 risen have
+34 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 risen without
+34 	 41 	 ((S\NP)\(S\NP))\NP 	 2 	 risen ago
+38 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 gain without
+38 	 36 	 NP[nb]/N 	 1 	 gain a
+38 	 37 	 N/N 	 1 	 gain special
+40 	 39 	 NP[nb]/N 	 1 	 year a
+40 	 41 	 ((S\NP)\(S\NP))\NP 	 3 	 year ago
+<\s>
+<s id="wsj_2219.2"> 32
+2 	 0 	 (S/S)/NP 	 2 	 Lynch At
+2 	 1 	 N/N 	 1 	 Lynch Merrill
+5 	 4 	 N/N 	 1 	 net third-period
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 net was
+6 	 0 	 (S/S)/NP 	 1 	 was At
+6 	 17 	 ((S\NP)\(S\NP))/PP 	 2 	 was down
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 $ was
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 41
+13 	 6 	 (S[dcl]\NP)/NP 	 2 	 cents was
+13 	 12 	 N/N 	 1 	 cents 34
+13 	 14 	 (NP\NP)/N 	 1 	 cents a
+15 	 14 	 (NP\NP)/N 	 2 	 share a
+18 	 17 	 ((S\NP)\(S\NP))/PP 	 3 	 from down
+18 	 31 	 (PP\PP)\NP 	 1 	 from ago
+19 	 18 	 PP/NP 	 1 	 $ from
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 65.6
+25 	 18 	 PP/NP 	 1 	 cents from
+25 	 24 	 N/N 	 1 	 cents 58
+25 	 26 	 (NP\NP)/N 	 1 	 cents a
+27 	 26 	 (NP\NP)/N 	 2 	 share a
+30 	 29 	 NP[nb]/N 	 1 	 year a
+30 	 31 	 (PP\PP)\NP 	 2 	 year ago
+<\s>
+<s id="wsj_2219.3"> 14
+1 	 0 	 N/N 	 1 	 revenue Total
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 revenue reached
+2 	 7 	 (((S\NP)\(S\NP))/PP)/NP 	 2 	 reached up
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 $ reached
+5 	 3 	 N/N[num] 	 1 	 billion $
+5 	 4 	 N/N 	 1 	 billion 2.83
+9 	 7 	 (((S\NP)\(S\NP))/PP)/NP 	 4 	 % up
+9 	 8 	 N/N 	 1 	 % 10
+10 	 7 	 (((S\NP)\(S\NP))/PP)/NP 	 3 	 from up
+11 	 10 	 PP/NP 	 1 	 $ from
+13 	 11 	 N/N[num] 	 1 	 billion $
+13 	 12 	 N/N 	 1 	 billion 2.57
+<\s>
+<s id="wsj_2219.4"> 32
+1 	 0 	 NP[nb]/N 	 1 	 firm The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 firm 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 drop 's
+3 	 4 	 (NP\NP)/NP 	 1 	 drop in
+3 	 6 	 (S[dcl]\NP)/NP 	 1 	 drop reflected
+5 	 4 	 (NP\NP)/NP 	 2 	 net in
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 revenue reflected
+8 	 7 	 N/N 	 1 	 revenue weaker
+8 	 9 	 (NP\NP)/NP 	 1 	 revenue in
+8 	 15 	 (NP\NP)/NP 	 1 	 revenue --
+10 	 9 	 (NP\NP)/NP 	 2 	 transactions in
+10 	 11 	 (NP\NP)/NP 	 1 	 transactions for
+14 	 11 	 (NP\NP)/NP 	 2 	 account for
+14 	 12 	 NP[nb]/N 	 1 	 account its
+14 	 13 	 N/N 	 1 	 account own
+17 	 15 	 (NP\NP)/NP 	 2 	 decline --
+17 	 16 	 NP[nb]/N 	 1 	 decline a
+17 	 18 	 (NP\NP)/NP 	 1 	 decline of
+17 	 21 	 (NP\NP)/NP 	 1 	 decline to
+17 	 25 	 (NP\NP)/NP 	 1 	 decline on
+20 	 18 	 (NP\NP)/NP 	 2 	 % of
+20 	 19 	 N/N 	 1 	 % 19
+22 	 21 	 (NP\NP)/NP 	 2 	 $ to
+24 	 22 	 N/N[num] 	 1 	 million $
+24 	 23 	 N/N 	 1 	 million 314.6
+27 	 25 	 (NP\NP)/NP 	 2 	 revenue on
+27 	 26 	 N/N 	 1 	 revenue reduced
+27 	 28 	 (NP\NP)/(S[ng]\NP) 	 1 	 revenue from
+29 	 28 	 (NP\NP)/(S[ng]\NP) 	 2 	 trading from
+31 	 29 	 (S[ng]\NP)/NP 	 2 	 securities trading
+31 	 30 	 N/N 	 1 	 securities fixed-income
+<\s>
+<s id="wsj_2219.5"> 16
+2 	 0 	 N/N 	 1 	 revenue Investment
+2 	 1 	 N/N 	 1 	 revenue banking
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 revenue fell
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 fell %
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 22
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 296.6
+10 	 3 	 (S[dcl]\NP)/PP 	 2 	 on fell
+15 	 10 	 PP/NP 	 1 	 underwritings on
+15 	 11 	 N/N 	 1 	 underwritings fewer
+15 	 12 	 N/N 	 1 	 underwritings equity <XU>
+15 	 14 	 N/N 	 1 	 underwritings municipal
+<\s>
+<s id="wsj_2219.6"> 29
+1 	 0 	 N/N 	 1 	 Lynch Merrill
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Lynch 's
+4 	 2 	 (NP[nb]/N)\NP 	 1 	 revenue 's
+4 	 3 	 N/N 	 1 	 revenue commission
+4 	 5 	 (S[dcl]\NP)/PP 	 1 	 revenue grew
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 grew %
+5 	 9 	 (S\NP)\(S\NP) 	 2 	 grew however
+5 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 grew to
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 21
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 462.8
+16 	 5 	 (S[dcl]\NP)/PP 	 2 	 on grew
+19 	 16 	 PP/NP 	 1 	 prices on
+19 	 17 	 N/N 	 1 	 prices higher
+19 	 18 	 N/N 	 1 	 prices share
+21 	 16 	 PP/NP 	 1 	 volume on
+21 	 17 	 N/N 	 1 	 volume higher
+21 	 18 	 N/N 	 1 	 volume share
+23 	 5 	 (S[dcl]\NP)/PP 	 2 	 on grew
+25 	 23 	 PP/NP 	 1 	 sales on
+25 	 24 	 N/N 	 1 	 sales strong
+25 	 26 	 (NP\NP)/NP 	 1 	 sales of
+28 	 26 	 (NP\NP)/NP 	 2 	 funds of
+28 	 27 	 N/N 	 1 	 funds mutual
+<\s>
+<s id="wsj_2219.7"> 13
+0 	 1 	 (S[pss]\NP)/PP 	 1 	 Revenue derived <XB>
+0 	 6 	 S[dcl]\NP 	 1 	 Revenue jumped
+2 	 1 	 (S[pss]\NP)/PP 	 2 	 from derived
+3 	 2 	 PP/NP 	 1 	 interest from
+5 	 2 	 PP/NP 	 1 	 dividends from
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 jumped %
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 jumped to
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 30
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+12 	 10 	 N/N[num] 	 1 	 billion $
+12 	 11 	 N/N 	 1 	 billion 1.4
+<\s>
+<s id="wsj_2219.8"> 10
+2 	 0 	 N/N 	 1 	 revenue Asset-management
+2 	 1 	 N/N 	 1 	 revenue fee
+2 	 3 	 S[dcl]\NP 	 1 	 revenue grew
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 grew %
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 grew to
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 12
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 151
+<\s>
+<s id="wsj_2219.9"> 25
+1 	 0 	 NP[nb]/N 	 1 	 brokerage The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 brokerage reported
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 reported also
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 loss reported
+5 	 4 	 NP[nb]/N 	 1 	 loss a
+5 	 6 	 (NP\NP)/NP 	 1 	 loss of
+5 	 10 	 (NP\NP)/NP 	 1 	 loss from
+7 	 6 	 (NP\NP)/NP 	 2 	 $ of
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 2.2
+13 	 10 	 (NP\NP)/NP 	 2 	 operations from
+13 	 11 	 NP[nb]/N 	 1 	 operations the
+13 	 12 	 N/N 	 1 	 operations discontinued
+13 	 16 	 (NP\NP)/NP 	 1 	 operations of
+15 	 10 	 (NP\NP)/NP 	 2 	 disposal from
+15 	 11 	 NP[nb]/N 	 1 	 disposal the
+15 	 12 	 N/N 	 1 	 disposal discontinued
+15 	 16 	 (NP\NP)/NP 	 1 	 disposal of
+24 	 16 	 (NP\NP)/NP 	 2 	 subsidiary of
+24 	 17 	 NP[nb]/N 	 1 	 subsidiary its
+24 	 18 	 N/N 	 1 	 subsidiary Fine
+24 	 19 	 N/N 	 1 	 subsidiary Homes
+24 	 20 	 N/N 	 1 	 subsidiary International
+24 	 21 	 N/N 	 1 	 subsidiary Limited
+24 	 22 	 N/N 	 1 	 subsidiary Partnership
+24 	 23 	 N/N 	 1 	 subsidiary real-estate
+<\s>
+<s id="wsj_2219.10"> 37
+1 	 0 	 N/N 	 1 	 Stearns Bear
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Stearns said
+3 	 4 	 (NP\NP)/NP 	 1 	 net in
+3 	 11 	 (S[dcl]\NP)/NP 	 1 	 net reached
+7 	 4 	 (NP\NP)/NP 	 2 	 quarter in
+7 	 5 	 NP[nb]/N 	 1 	 quarter the
+7 	 6 	 N/N 	 1 	 quarter first
+7 	 8 	 S[pss]\NP 	 1 	 quarter ended <XB>
+8 	 9 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended Sept.
+10 	 9 	 ((S\NP)\(S\NP))/N[num] 	 3 	 29 Sept.
+11 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 reached said
+11 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 reached from
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 $ reached
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 22.1
+18 	 11 	 (S[dcl]\NP)/NP 	 2 	 cents reached
+18 	 17 	 N/N 	 1 	 cents 23
+18 	 19 	 (NP\NP)/N 	 1 	 cents a
+20 	 19 	 (NP\NP)/N 	 2 	 share a
+22 	 33 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 from in
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+25 	 23 	 N/N[num] 	 1 	 million $
+25 	 24 	 N/N 	 1 	 million 20.5
+29 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+29 	 28 	 N/N 	 1 	 cents 20
+29 	 30 	 (NP\NP)/N 	 1 	 cents a
+31 	 30 	 (NP\NP)/N 	 2 	 share a
+36 	 33 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 quarter in
+36 	 34 	 NP[nb]/N 	 1 	 quarter the
+36 	 35 	 N/N 	 1 	 quarter year-earlier
+<\s>
+<s id="wsj_2219.11"> 13
+1 	 0 	 N/N 	 1 	 revenue Gross
+1 	 2 	 S[dcl]\NP 	 1 	 revenue rose
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 rose %
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+2 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+4 	 3 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 21
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+8 	 6 	 N/N[num] 	 1 	 million $
+8 	 7 	 N/N 	 1 	 million 580.4
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 478.9
+<\s>
+<s id="wsj_2219.12"> 13
+0 	 1 	 (NP\NP)/NP 	 1 	 Profit from
+0 	 7 	 S[dcl]\NP 	 1 	 Profit dropped
+2 	 1 	 (NP\NP)/NP 	 2 	 trading from
+2 	 3 	 (NP\NP)/NP 	 1 	 trading for
+6 	 3 	 (NP\NP)/NP 	 2 	 account for
+6 	 4 	 NP[nb]/N 	 1 	 account its
+6 	 5 	 N/N 	 1 	 account own
+7 	 12 	 (S[dcl]\S[dcl])\NP 	 1 	 dropped said
+11 	 9 	 NP[nb]/N 	 1 	 firm the
+11 	 10 	 N/N 	 1 	 firm securities
+11 	 12 	 (S[dcl]\S[dcl])\NP 	 2 	 firm said
+<\s>
+<s id="wsj_2219.13"> 18
+2 	 0 	 N/N 	 1 	 revenue Investment
+2 	 1 	 N/N 	 1 	 revenue banking
+2 	 3 	 S[dcl]\NP 	 1 	 revenue climbed
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 climbed %
+3 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 climbed while
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 25
+9 	 8 	 N/N 	 1 	 revenue commission
+9 	 10 	 S[dcl]\NP 	 1 	 revenue advanced
+10 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 advanced while
+10 	 12 	 (S\NP)\(S\NP) 	 2 	 advanced %
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 advanced on
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 31
+17 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 market on
+17 	 14 	 NP[nb]/N 	 1 	 market a
+17 	 15 	 N/N 	 1 	 market stronger
+17 	 16 	 N/N 	 1 	 market retail
+<\s>
+<s id="wsj_2219.14"> 19
+1 	 0 	 N/N 	 1 	 Stearns Bear
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Stearns is
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 company is
+5 	 3 	 NP[nb]/N 	 1 	 company the
+5 	 4 	 N/N 	 1 	 company holding
+5 	 6 	 (NP\NP)/NP 	 1 	 company for
+11 	 6 	 (NP\NP)/NP 	 2 	 Co. for
+11 	 7 	 N/N 	 1 	 Co. Bear
+11 	 9 	 N/N 	 1 	 Co. Stearns
+11 	 10 	 N/N 	 1 	 Co. &
+15 	 6 	 (NP\NP)/NP 	 2 	 banking for
+15 	 13 	 NP[nb]/N 	 1 	 banking the
+15 	 14 	 N/N 	 1 	 banking investment
+18 	 6 	 (NP\NP)/NP 	 2 	 firm for
+18 	 13 	 NP[nb]/N 	 1 	 firm the
+18 	 14 	 N/N 	 1 	 firm investment
+18 	 17 	 N/N 	 1 	 firm brokerage
+<\s>
+<s id="wsj_2219.15"> 20
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+11 	 9 	 N/N 	 1 	 shares Bear
+11 	 10 	 N/N 	 1 	 shares Stearns
+11 	 12 	 (S[dcl]\NP)/PP 	 1 	 shares closed
+12 	 0 	 (S/S)/NP 	 1 	 closed In
+12 	 7 	 S/S 	 1 	 closed yesterday
+12 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+13 	 12 	 (S[dcl]\NP)/PP 	 2 	 at closed
+14 	 13 	 PP/NP 	 1 	 $ at
+15 	 14 	 N/N[num] 	 1 	 13.625 $
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 cents down
+19 	 18 	 N/N 	 1 	 cents 25
+<\s>
+<s id="wsj_2219.16"> 31
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 PaineWebber posted
+2 	 21 	 (S[ng]\NP)/NP 	 1 	 PaineWebber reflecting <XB>
+3 	 0 	 S/S 	 1 	 posted Separately
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 income posted
+5 	 4 	 N/N 	 1 	 income net
+5 	 6 	 (NP\NP)/NP 	 1 	 income for
+5 	 10 	 (NP\NP)/NP 	 1 	 income of
+9 	 6 	 (NP\NP)/NP 	 2 	 quarter for
+9 	 7 	 NP[nb]/N 	 1 	 quarter the
+9 	 8 	 N/N 	 1 	 quarter third
+11 	 10 	 (NP\NP)/NP 	 2 	 $ of
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 16.8
+17 	 10 	 (NP\NP)/NP 	 2 	 cents of
+17 	 16 	 N/N 	 1 	 cents 41
+17 	 18 	 (NP\NP)/N 	 1 	 cents a
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+24 	 21 	 (S[ng]\NP)/NP 	 2 	 improvement reflecting
+24 	 22 	 NP[nb]/N 	 1 	 improvement a
+24 	 23 	 N/N 	 1 	 improvement broad-based
+24 	 25 	 (NP\NP)/NP 	 1 	 improvement in
+27 	 26 	 NP[nb]/N 	 1 	 company the
+27 	 28 	 (NP[nb]/N)\NP 	 2 	 company 's
+30 	 25 	 (NP\NP)/NP 	 2 	 businesses in
+30 	 28 	 (NP[nb]/N)\NP 	 1 	 businesses 's
+30 	 29 	 N/N 	 1 	 businesses core
+<\s>
+<s id="wsj_2219.17"> 17
+1 	 0 	 N/N 	 1 	 profit Retail
+1 	 2 	 S[dcl]\NP 	 1 	 profit surged
+6 	 5 	 NP[nb]/N 	 1 	 company the
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 it was
+9 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+13 	 9 	 (S[dcl]\NP)/NP 	 2 	 contributor was
+13 	 10 	 NP/NP 	 1 	 contributor only
+13 	 11 	 NP[nb]/N 	 1 	 contributor a
+13 	 12 	 N/N 	 1 	 contributor modest
+13 	 14 	 (NP\NP)/NP 	 1 	 contributor to
+16 	 14 	 (NP\NP)/NP 	 2 	 results to
+16 	 15 	 N/N 	 1 	 results third-quarter
+<\s>
+<s id="wsj_2219.18"> 46
+1 	 0 	 NP[nb]/N 	 1 	 year A
+1 	 2 	 (S/S)\NP 	 2 	 year ago
+4 	 5 	 (NP\NP)/NP 	 1 	 net at
+4 	 12 	 (S[dcl]\NP)/NP 	 1 	 net was
+11 	 5 	 (NP\NP)/NP 	 2 	 firm at
+11 	 6 	 NP[nb]/N 	 1 	 firm the
+11 	 7 	 N/N 	 1 	 firm New
+11 	 8 	 N/N 	 1 	 firm York
+11 	 9 	 N/N 	 1 	 firm investment
+11 	 10 	 N/N 	 1 	 firm banking
+12 	 2 	 (S/S)\NP 	 1 	 was ago
+12 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 was including
+13 	 12 	 (S[dcl]\NP)/NP 	 2 	 $ was
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 20.9
+19 	 12 	 (S[dcl]\NP)/NP 	 2 	 cents was
+19 	 18 	 N/N 	 1 	 cents 50
+19 	 20 	 (NP\NP)/N 	 1 	 cents a
+21 	 20 	 (NP\NP)/N 	 2 	 share a
+27 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 gain including
+27 	 24 	 NP[nb]/N 	 1 	 gain a
+27 	 25 	 N/N 	 1 	 gain special
+27 	 26 	 N/N 	 1 	 gain pretax
+27 	 28 	 (NP\NP)/NP 	 1 	 gain of
+27 	 32 	 (NP\NP)/NP 	 1 	 gain from
+29 	 28 	 (NP\NP)/NP 	 2 	 $ of
+31 	 29 	 N/N[num] 	 1 	 million $
+31 	 30 	 N/N 	 1 	 million 46.3
+34 	 32 	 (NP\NP)/NP 	 2 	 sale from
+34 	 33 	 NP[nb]/N 	 1 	 sale the
+34 	 35 	 (NP\NP)/NP 	 1 	 sale of
+37 	 36 	 NP[nb]/N 	 1 	 company the
+37 	 38 	 (NP[nb]/N)\NP 	 2 	 company 's
+39 	 35 	 (NP\NP)/NP 	 2 	 interest of
+39 	 38 	 (NP[nb]/N)\NP 	 1 	 interest 's
+39 	 40 	 (NP\NP)/NP 	 1 	 interest in
+45 	 40 	 (NP\NP)/NP 	 2 	 Inc in
+45 	 41 	 N/N 	 1 	 Inc National
+45 	 42 	 N/N 	 1 	 Inc Car
+45 	 43 	 N/N 	 1 	 Inc Rental
+45 	 44 	 N/N 	 1 	 Inc Systems
+<\s>
+<s id="wsj_2219.19"> 16
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Revenue was
+1 	 11 	 ((S\NP)\(S\NP))/PP 	 2 	 was slightly
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 $ was
+2 	 6 	 (NP\NP)/NP 	 1 	 $ including
+4 	 2 	 N/N[num] 	 1 	 million $
+4 	 3 	 N/N 	 1 	 million 444.9
+8 	 6 	 (NP\NP)/NP 	 2 	 interest including
+8 	 7 	 N/N 	 1 	 interest net
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 slightly down
+12 	 11 	 ((S\NP)\(S\NP))/PP 	 3 	 from slightly
+13 	 12 	 PP/NP 	 1 	 $ from
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 450.7
+<\s>
+<s id="wsj_2219.20"> 16
+4 	 0 	 (S/S)/NP 	 2 	 trading In
+4 	 1 	 N/N 	 1 	 trading Big
+4 	 2 	 N/N 	 1 	 trading Board
+4 	 3 	 N/N 	 1 	 trading composite
+7 	 8 	 (S[dcl]\NP)/PP 	 1 	 PaineWebber closed
+8 	 0 	 (S/S)/NP 	 1 	 closed In
+8 	 5 	 S/S 	 1 	 closed yesterday
+8 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+9 	 8 	 (S[dcl]\NP)/PP 	 2 	 at closed
+10 	 9 	 PP/NP 	 1 	 $ at
+11 	 10 	 N/N[num] 	 1 	 18.50 $
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 cents up
+15 	 14 	 N/N 	 1 	 cents 75
+<\s>

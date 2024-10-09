@@ -1,0 +1,290 @@
+<s id="wsj_0672.1"> 41
+1 	 0 	 NP[nb]/N 	 1 	 premium The
+1 	 4 	 ((S[dcl]\NP)/PP)/NP 	 3 	 premium pay <XU>
+1 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 premium will
+1 	 21 	 S[b]\NP 	 1 	 premium rise <XB>
+3 	 2 	 NP[nb]/N 	 1 	 elderly the
+3 	 4 	 ((S[dcl]\NP)/PP)/NP 	 1 	 elderly pay
+4 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 pay under
+5 	 4 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for pay
+6 	 5 	 PP/NP 	 1 	 coverage for
+6 	 7 	 (NP\NP)/NP 	 1 	 coverage of
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 doctor 's
+10 	 7 	 (NP\NP)/NP 	 2 	 bills of
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 bills 's
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 B under
+13 	 12 	 N/N 	 1 	 B Part
+13 	 14 	 (NP\NP)/NP 	 1 	 B of
+19 	 14 	 (NP\NP)/NP 	 2 	 plan of
+19 	 15 	 NP[nb]/N 	 1 	 plan the
+19 	 16 	 N/N 	 1 	 plan Medicare
+19 	 17 	 N/N 	 1 	 plan health
+19 	 18 	 N/N 	 1 	 plan insurance
+20 	 40 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 rise will
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 rise to
+21 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 rise in
+21 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 rise from
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+23 	 25 	 (NP\NP)/N 	 1 	 $ a
+24 	 23 	 N/N[num] 	 1 	 29 $
+26 	 25 	 (NP\NP)/N 	 2 	 month a
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 1990 in
+30 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+31 	 30 	 N/N[num] 	 1 	 27.90 $
+34 	 33 	 NP[nb]/N 	 1 	 Department the
+34 	 35 	 (NP\NP)/NP 	 1 	 Department of
+34 	 40 	 (S[dcl]\S[dcl])\NP 	 2 	 Department said
+36 	 35 	 (NP\NP)/NP 	 2 	 Health of
+39 	 35 	 (NP\NP)/NP 	 2 	 Services of
+39 	 38 	 N/N 	 1 	 Services Human
+<\s>
+<s id="wsj_0672.2"> 39
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+7 	 3 	 NP[nb]/N 	 1 	 premium a
+7 	 4 	 N/N 	 1 	 premium second
+7 	 5 	 N/N 	 1 	 premium Part
+7 	 6 	 N/N 	 1 	 premium B
+7 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 premium will
+7 	 22 	 S[b]\NP 	 1 	 premium rise <XB>
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cover to
+11 	 9 	 (S[b]\NP)/NP 	 2 	 cost cover
+11 	 10 	 NP[nb]/N 	 1 	 cost the
+11 	 12 	 (NP\NP)/NP 	 1 	 cost of
+15 	 12 	 (NP\NP)/NP 	 2 	 program of
+15 	 13 	 NP[nb]/N 	 1 	 program the
+15 	 14 	 N/N 	 1 	 program new
+15 	 16 	 (NP\NP)/NP 	 1 	 program of
+17 	 16 	 (NP\NP)/NP 	 2 	 insurance of
+17 	 18 	 (NP\NP)/NP 	 1 	 insurance against
+20 	 18 	 (NP\NP)/NP 	 2 	 illness against
+20 	 19 	 N/N 	 1 	 illness catastrophic
+21 	 0 	 (S/S)/NP 	 1 	 will In
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 rise will
+22 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 rise to
+22 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 rise from
+22 	 32 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 rise if
+24 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+24 	 26 	 (NP\NP)/N 	 1 	 $ a
+25 	 24 	 N/N[num] 	 1 	 4.90 $
+27 	 26 	 (NP\NP)/N 	 2 	 month a
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+30 	 29 	 N/N[num] 	 1 	 4 $
+33 	 34 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Congress does
+33 	 36 	 (S[b]\NP)/NP 	 1 	 Congress change <XB>
+34 	 32 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 does if
+34 	 35 	 (S\NP)\(S\NP) 	 2 	 does n't
+36 	 34 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 change does
+38 	 36 	 (S[b]\NP)/NP 	 2 	 program change
+38 	 37 	 NP[nb]/N 	 1 	 program the
+<\s>
+<s id="wsj_0672.3"> 42
+1 	 0 	 NP[nb]/N 	 1 	 House The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 House has
+1 	 3 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 House voted <XB>
+1 	 5 	 (S[b]\NP)/NP 	 1 	 House repeal <XB>
+1 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 House would <XB>
+1 	 19 	 (S[b]\NP)/NP 	 1 	 House end <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 voted has
+4 	 3 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to voted
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 repeal to
+5 	 15 	 (S\NP)\(S\NP) 	 2 	 repeal however
+5 	 17 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 repeal which
+6 	 5 	 (S[b]\NP)/NP 	 2 	 most repeal
+6 	 7 	 (NP\NP)/NP 	 1 	 most of
+11 	 7 	 (NP\NP)/NP 	 2 	 Act of
+11 	 8 	 NP[nb]/N 	 1 	 Act the
+11 	 9 	 N/N 	 1 	 Act Catastrophic
+11 	 10 	 N/N 	 1 	 Act Coverage
+11 	 12 	 (NP\NP)/NP 	 1 	 Act of
+13 	 12 	 (NP\NP)/NP 	 2 	 1988 of
+18 	 17 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 would which
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 end would
+23 	 19 	 (S[b]\NP)/NP 	 2 	 premium end
+23 	 20 	 NP[nb]/N 	 1 	 premium the
+23 	 21 	 N/N 	 1 	 premium monthly
+23 	 22 	 N/N 	 1 	 premium catastrophic-care
+27 	 25 	 conj/conj 	 1 	 as as
+27 	 26 	 conj/conj 	 1 	 as well
+31 	 19 	 (S[b]\NP)/NP 	 2 	 surtax end
+31 	 28 	 NP[nb]/N 	 1 	 surtax an
+31 	 29 	 N/N 	 1 	 surtax unpopular
+31 	 30 	 N/N 	 1 	 surtax income
+31 	 32 	 S[pss]\NP 	 1 	 surtax paid <XB>
+32 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 paid by
+35 	 34 	 (N/N)/(N/N) 	 2 	 40 about
+36 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 % by
+36 	 35 	 N/N 	 1 	 % 40
+36 	 37 	 (NP\NP)/NP 	 1 	 % of
+41 	 37 	 (NP\NP)/NP 	 2 	 beneficiaries of
+41 	 38 	 NP[nb]/N 	 1 	 beneficiaries the
+41 	 39 	 N/N 	 1 	 beneficiaries wealthier
+41 	 40 	 N/N 	 1 	 beneficiaries Medicare
+<\s>
+<s id="wsj_0672.4"> 26
+4 	 0 	 (S/S)/NP 	 2 	 plan Under
+4 	 1 	 NP[nb]/N 	 1 	 plan a
+4 	 2 	 N/N 	 1 	 plan less-sweeping
+4 	 3 	 N/N 	 1 	 plan Senate
+9 	 6 	 NP[nb]/N 	 1 	 premium the
+9 	 7 	 N/N 	 1 	 premium catastrophic-care
+9 	 8 	 N/N 	 1 	 premium monthly
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 premium would
+9 	 11 	 S[b]\NP 	 1 	 premium continue <XB>
+9 	 13 	 S[ng]\NP 	 1 	 premium rising <XB>
+10 	 0 	 (S/S)/NP 	 1 	 would Under
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue would
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 rising to
+14 	 18 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 to year
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+16 	 15 	 N/N[num] 	 1 	 4.90 $
+18 	 17 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/(((S\NP)\(S\NP))\((S\NP)\(S\NP))) 	 4 	 year next
+22 	 21 	 NP[nb]/N 	 1 	 surtax the
+22 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 surtax would
+22 	 25 	 S[pss]\NP 	 1 	 surtax abolished <XB>
+24 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+25 	 24 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 abolished be
+<\s>
+<s id="wsj_0672.5"> 21
+2 	 0 	 N/N 	 1 	 B Medicare
+2 	 1 	 N/N 	 1 	 B Part
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 B pays
+3 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 pays after
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 % pays
+5 	 4 	 N/N 	 1 	 % 80
+5 	 6 	 (NP\NP)/NP 	 1 	 % of
+8 	 7 	 NP[nb]/N 	 1 	 beneficiary a
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 beneficiary 's
+12 	 11 	 (N/N)/(N/N) 	 2 	 's doctor
+13 	 6 	 (NP\NP)/NP 	 2 	 bills of
+13 	 9 	 (NP[nb]/N)\NP 	 1 	 bills 's
+13 	 10 	 N/N 	 1 	 bills allowable
+13 	 12 	 N/N 	 1 	 bills 's
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 deductible after
+17 	 15 	 NP[nb]/N 	 1 	 deductible an
+17 	 16 	 N/N 	 1 	 deductible annual
+17 	 18 	 (NP\NP)/NP 	 1 	 deductible of
+19 	 18 	 (NP\NP)/NP 	 2 	 $ of
+20 	 19 	 N/N[num] 	 1 	 75 $
+<\s>
+<s id="wsj_0672.6"> 20
+3 	 0 	 NP[nb]/N 	 1 	 Act The
+3 	 1 	 N/N 	 1 	 Act Catastrophic
+3 	 2 	 N/N 	 1 	 Act Coverage
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Act would
+3 	 5 	 (S[b]\NP)/NP 	 1 	 Act add <XB>
+3 	 12 	 (S[b]\NP)/NP 	 1 	 Act limit <XB>
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 add would
+5 	 10 	 (S\NP)\(S\NP) 	 2 	 add year
+8 	 5 	 (S[b]\NP)/NP 	 2 	 provision add
+8 	 6 	 NP[nb]/N 	 1 	 provision a
+8 	 7 	 N/N 	 1 	 provision stop-loss
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 limit to
+14 	 12 	 (S[b]\NP)/NP 	 2 	 maximum limit
+14 	 13 	 NP[nb]/N 	 1 	 maximum the
+14 	 17 	 ((S[b]\NP)/PP)/NP 	 3 	 maximum pay <XU>
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 beneficiaries must
+15 	 17 	 ((S[b]\NP)/PP)/NP 	 1 	 beneficiaries pay <XB>
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 pay must
+18 	 17 	 ((S[b]\NP)/PP)/NP 	 2 	 for pay
+19 	 18 	 PP/NP 	 1 	 doctors for
+<\s>
+<s id="wsj_0672.7"> 24
+5 	 0 	 NP/NP 	 1 	 bills Both
+5 	 1 	 NP[nb]/N 	 1 	 bills the
+5 	 2 	 N/N 	 1 	 bills House
+5 	 4 	 N/N 	 1 	 bills Senate
+5 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bills would
+5 	 17 	 (S[b]\NP)/NP 	 1 	 bills eliminate <XB>
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reduce to
+9 	 7 	 (S[b]\NP)/NP 	 2 	 cost reduce
+9 	 8 	 NP[nb]/N 	 1 	 cost the
+9 	 12 	 (NP\NP)/NP 	 1 	 cost of
+11 	 7 	 (S[b]\NP)/NP 	 2 	 coverage reduce
+11 	 8 	 NP[nb]/N 	 1 	 coverage the
+11 	 12 	 (NP\NP)/NP 	 1 	 coverage of
+15 	 12 	 (NP\NP)/NP 	 2 	 plan of
+15 	 13 	 NP[nb]/N 	 1 	 plan the
+15 	 14 	 N/N 	 1 	 plan catastrophic-care
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 eliminate would
+19 	 17 	 (S[b]\NP)/NP 	 2 	 cap eliminate
+19 	 18 	 NP[nb]/N 	 1 	 cap the
+19 	 20 	 (NP\NP)/NP 	 1 	 cap on
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 doctor 's
+23 	 20 	 (NP\NP)/NP 	 2 	 bills on
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 bills 's
+<\s>
+<s id="wsj_0672.8"> 24
+2 	 1 	 NP[nb]/N 	 1 	 House the
+2 	 3 	 S[dcl]\NP 	 1 	 House prevails
+3 	 0 	 (S/S)/S[dcl] 	 2 	 prevails If
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 prevails in
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 efforts in
+6 	 5 	 NP[nb]/N 	 1 	 efforts its
+6 	 8 	 (S[b]\NP)/NP 	 1 	 efforts kill <XB>
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 kill to
+11 	 8 	 (S[b]\NP)/NP 	 2 	 plan kill
+11 	 9 	 NP[nb]/N 	 1 	 plan the
+11 	 10 	 N/N 	 1 	 plan catastrophic-care
+17 	 13 	 NP[nb]/N 	 1 	 premium the
+17 	 14 	 N/N 	 1 	 premium monthly
+17 	 15 	 N/N 	 1 	 premium Part
+17 	 16 	 N/N 	 1 	 premium B
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 premium will
+17 	 19 	 (S[b]\NP)/NP 	 1 	 premium be <XB>
+18 	 0 	 (S/S)/S[dcl] 	 1 	 will If
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+19 	 23 	 (S\NP)\(S\NP) 	 2 	 be year
+20 	 19 	 (S[b]\NP)/NP 	 2 	 $ be
+21 	 20 	 N/N[num] 	 1 	 29 $
+23 	 22 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+<\s>
+<s id="wsj_0672.9"> 30
+3 	 1 	 NP[nb]/N 	 1 	 plan the
+3 	 2 	 N/N 	 1 	 plan Senate
+3 	 4 	 S[dcl]\NP 	 1 	 plan prevails
+4 	 0 	 (S/S)/S[dcl] 	 2 	 prevails If
+7 	 6 	 NP[nb]/N 	 1 	 premium the
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 premium will
+7 	 9 	 (S[b]\NP)/NP 	 1 	 premium be <XB>
+8 	 0 	 (S/S)/S[dcl] 	 1 	 will If
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+9 	 13 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 2 	 be with
+10 	 9 	 (S[b]\NP)/NP 	 2 	 $ be
+11 	 10 	 N/N[num] 	 1 	 33.90 $
+16 	 13 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 $ with
+16 	 14 	 NP[nb]/N 	 1 	 $ the
+16 	 15 	 N/N 	 1 	 $ additional
+16 	 20 	 (S[b]\NP)/PP 	 1 	 $ pay <XB>
+17 	 16 	 N/N[num] 	 1 	 4.90 $
+18 	 13 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 3 	 going with
+19 	 18 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+20 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 pay under
+21 	 20 	 (S[b]\NP)/PP 	 2 	 for pay
+24 	 21 	 PP/NP 	 1 	 coverage for
+24 	 22 	 N/N 	 1 	 coverage expanded
+24 	 23 	 N/N 	 1 	 coverage hospital
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 A under
+27 	 26 	 N/N 	 1 	 A Part
+27 	 28 	 (NP\NP)/NP 	 1 	 A of
+29 	 28 	 (NP\NP)/NP 	 2 	 Medicare of
+<\s>
+<s id="wsj_0672.10"> 16
+0 	 1 	 (NP\NP)/NP 	 1 	 Most of
+0 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Most are
+0 	 7 	 S[pss]\NP 	 1 	 Most paid <XB>
+3 	 2 	 N/N 	 1 	 A Part
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 A 's
+5 	 1 	 (NP\NP)/NP 	 2 	 costs of
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 costs 's
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 paid are
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 paid by
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 tax by
+11 	 9 	 NP[nb]/N 	 1 	 tax a
+11 	 10 	 N/N 	 1 	 tax payroll
+11 	 12 	 (NP\NP)/NP 	 1 	 tax on
+13 	 12 	 (NP\NP)/NP 	 2 	 workers on
+15 	 12 	 (NP\NP)/NP 	 2 	 employers on
+<\s>

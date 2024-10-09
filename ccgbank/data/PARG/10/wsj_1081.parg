@@ -1,0 +1,84 @@
+<s id="wsj_1081.1"> 27
+3 	 0 	 N/N 	 1 	 Inc. Jacobs
+3 	 1 	 N/N 	 1 	 Inc. Engineering
+3 	 2 	 N/N 	 1 	 Inc. Group
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Inc. 's
+7 	 4 	 (NP[nb]/N)\NP 	 1 	 unit 's
+7 	 5 	 N/N 	 1 	 unit Jacobs
+7 	 6 	 N/N 	 1 	 unit International
+7 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 unit was
+7 	 9 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 unit selected <XB>
+7 	 11 	 (S[b]\NP)/NP 	 1 	 unit design <XB>
+7 	 13 	 (S[b]\NP)/NP 	 1 	 unit build <XU>
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 selected was
+10 	 9 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to selected
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 design to
+11 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 design for
+13 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+13 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 build for
+17 	 11 	 (S[b]\NP)/NP 	 2 	 plant design <XU>
+17 	 13 	 (S[b]\NP)/NP 	 2 	 plant build
+17 	 14 	 NP[nb]/N 	 1 	 plant a
+17 	 15 	 N/N 	 1 	 plant microcomputer-systems
+17 	 16 	 N/N 	 1 	 plant manufacturing
+17 	 18 	 (NP\NP)/NP 	 1 	 plant in
+20 	 18 	 (NP\NP)/NP 	 2 	 Kildare in
+20 	 19 	 N/N 	 1 	 Kildare County
+22 	 18 	 (NP\NP)/NP 	 2 	 Ireland in
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp for
+26 	 25 	 N/N 	 1 	 Corp Intel
+<\s>
+<s id="wsj_1081.2"> 8
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Jacobs is
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 engineering is
+4 	 2 	 NP[nb]/N 	 1 	 engineering an
+4 	 3 	 N/N 	 1 	 engineering international
+7 	 1 	 (S[dcl]\NP)/NP 	 2 	 concern is
+7 	 2 	 NP[nb]/N 	 1 	 concern an
+7 	 3 	 N/N 	 1 	 concern international
+7 	 6 	 N/N 	 1 	 concern construction
+<\s>
+<s id="wsj_1081.3"> 18
+2 	 0 	 N/N 	 1 	 investment Total
+2 	 1 	 N/N 	 1 	 investment capital
+2 	 3 	 (NP\NP)/NP 	 1 	 investment at
+2 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 investment could
+2 	 8 	 ((S[adj]\NP)/PP)/(S[adj]\NP) 	 1 	 investment as <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 site at
+5 	 4 	 NP[nb]/N 	 1 	 site the
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+7 	 15 	 ((S\NP)\(S\NP))/PP 	 2 	 be according
+8 	 7 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 as be
+9 	 8 	 ((S[adj]\NP)/PP)/(S[adj]\NP) 	 3 	 much as
+10 	 8 	 ((S[adj]\NP)/PP)/(S[adj]\NP) 	 2 	 as as
+11 	 10 	 PP/NP 	 1 	 $ as
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 400
+16 	 15 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+17 	 16 	 PP/NP 	 1 	 Intel to
+<\s>
+<s id="wsj_1081.4"> 12
+2 	 0 	 NP[nb]/N 	 1 	 plant The
+2 	 1 	 N/N 	 1 	 plant 150,000-square-foot
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plant will
+2 	 5 	 S[pss]\NP 	 1 	 plant constructed <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 constructed be
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 constructed on
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 site on
+9 	 7 	 NP[nb]/N 	 1 	 site a
+9 	 8 	 N/N 	 1 	 site 55-acre
+9 	 10 	 (NP\NP)/NP 	 1 	 site near
+11 	 10 	 (NP\NP)/NP 	 2 	 Dublin near
+<\s>
+<s id="wsj_1081.5"> 9
+2 	 0 	 N/N 	 1 	 officials Jacobs
+2 	 1 	 N/N 	 1 	 officials Engineering
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 officials could
+2 	 6 	 (S[pss]\NP)/PP 	 1 	 officials reached <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 could n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+6 	 5 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reached be
+7 	 6 	 (S[pss]\NP)/PP 	 2 	 for reached
+8 	 7 	 PP/NP 	 1 	 comment for
+<\s>

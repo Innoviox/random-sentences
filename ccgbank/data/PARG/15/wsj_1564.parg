@@ -1,0 +1,1076 @@
+<s id="wsj_1564.1"> 9
+1 	 0 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 TO READY
+2 	 1 	 (S[to]\NP)/(S[b]\NP) 	 2 	 REVIEW TO
+4 	 2 	 (S[b]\NP)/NP 	 2 	 riskiness REVIEW
+4 	 3 	 NP[nb]/N 	 1 	 riskiness the
+4 	 5 	 (NP\NP)/NP 	 1 	 riskiness of
+8 	 5 	 (NP\NP)/NP 	 2 	 portfolio of
+8 	 6 	 NP[nb]/N 	 1 	 portfolio your
+8 	 7 	 N/N 	 1 	 portfolio investment
+<\s>
+<s id="wsj_1564.2"> 5
+4 	 0 	 NP/NP 	 1 	 quiz First
+4 	 2 	 NP[nb]/N 	 1 	 quiz a
+4 	 3 	 N/N 	 1 	 quiz pop
+<\s>
+<s id="wsj_1564.3"> 19
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 you think
+2 	 0 	 (S/S)/S[dcl] 	 2 	 think When
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 of think
+6 	 3 	 PP/NP 	 1 	 risk of
+6 	 4 	 NP[nb]/N 	 1 	 risk the
+6 	 5 	 N/N 	 1 	 risk words
+8 	 3 	 PP/NP 	 1 	 investment of
+8 	 4 	 NP[nb]/N 	 1 	 investment the
+8 	 5 	 N/N 	 1 	 investment words
+10 	 0 	 (S/S)/S[dcl] 	 1 	 what When
+11 	 10 	 S[wq]/(S[dcl]\NP) 	 1 	 's what
+14 	 11 	 (S[dcl]\NP)/NP 	 2 	 peril 's
+14 	 12 	 NP[nb]/N 	 1 	 peril the
+14 	 13 	 N/N 	 1 	 peril specific
+14 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 peril that
+14 	 16 	 S[dcl]\NP 	 1 	 peril comes <XB>
+14 	 18 	 S[b]\NP 	 1 	 peril mind <XB>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 comes that
+16 	 17 	 ((S\NP)\(S\NP))/(S[b]\NP) 	 2 	 comes to
+18 	 17 	 ((S\NP)\(S\NP))/(S[b]\NP) 	 3 	 mind to
+<\s>
+<s id="wsj_1564.4"> 2
+0 	 1 	 NP\NP 	 1 	 Pencils down
+<\s>
+<s id="wsj_1564.5"> 33
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 you 're
+2 	 0 	 (S/S)/S[dcl] 	 2 	 're If
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 like 're
+5 	 3 	 PP/NP 	 1 	 people like
+5 	 4 	 N/N 	 1 	 people most
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 you said
+8 	 0 	 (S/S)/S[dcl] 	 1 	 said If
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 it 's
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 's said
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 holding 's
+12 	 11 	 NP[nb]/N 	 1 	 holding a
+12 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 holding that
+12 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 holding goes <XB>
+12 	 16 	 S[adj]\NP 	 1 	 holding sour <XB>
+12 	 17 	 (NP\NP)/NP 	 1 	 holding --
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 goes that
+16 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 sour goes
+16 	 15 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 sour completely
+20 	 17 	 (NP\NP)/NP 	 2 	 bond --
+20 	 18 	 NP/NP 	 1 	 bond maybe
+20 	 19 	 NP[nb]/N 	 1 	 bond a
+20 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bond that
+20 	 22 	 S[dcl]\NP 	 1 	 bond defaults <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 defaults that
+25 	 17 	 (NP\NP)/NP 	 2 	 stock --
+25 	 18 	 NP/NP 	 1 	 stock maybe
+25 	 24 	 NP[nb]/N 	 1 	 stock a
+25 	 26 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 stock whose
+27 	 26 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 value whose
+27 	 28 	 S[dcl]\NP 	 1 	 value disappears <XB>
+28 	 26 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 disappears whose
+28 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 disappears in
+32 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 proceeding in
+32 	 30 	 NP[nb]/N 	 1 	 proceeding a
+32 	 31 	 N/N 	 1 	 proceeding bankruptcy
+<\s>
+<s id="wsj_1564.6"> 28
+0 	 1 	 (S[b]\NP)/(S[to]\NP) 	 1 	 People tend
+0 	 3 	 (S[b]\NP)/NP 	 1 	 People see <XB>
+1 	 11 	 (S[dcl]\S[b])/NP 	 1 	 tend says
+2 	 1 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to tend
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 see to
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 see primarily
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 see on
+4 	 3 	 (S[b]\NP)/NP 	 2 	 risk see
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 dimension on
+9 	 7 	 NP[nb]/N 	 1 	 dimension that
+9 	 8 	 N/N 	 1 	 dimension one
+13 	 11 	 (S[dcl]\S[b])/NP 	 2 	 Kochis says
+13 	 12 	 N/N 	 1 	 Kochis Timothy
+16 	 11 	 (S[dcl]\S[b])/NP 	 2 	 director says
+16 	 15 	 N/N 	 1 	 director national
+16 	 17 	 (NP\NP)/NP 	 1 	 director of
+16 	 21 	 (NP\NP)/NP 	 1 	 director for
+20 	 17 	 (NP\NP)/NP 	 2 	 planning of
+20 	 18 	 N/N 	 1 	 planning personal
+20 	 19 	 N/N 	 1 	 planning financial
+27 	 21 	 (NP\NP)/NP 	 2 	 Sells for
+27 	 22 	 N/N 	 1 	 Sells accountants
+27 	 23 	 N/N 	 1 	 Sells Deloitte
+27 	 25 	 N/N 	 1 	 Sells Haskins
+27 	 26 	 N/N 	 1 	 Sells &
+<\s>
+<s id="wsj_1564.7"> 28
+2 	 0 	 S/S 	 1 	 lies But
+2 	 1 	 S/S 	 1 	 lies therein
+4 	 2 	 S[dcl]/NP 	 1 	 aspect lies
+4 	 3 	 NP[nb]/N 	 1 	 aspect another
+4 	 5 	 (NP\NP)/NP 	 1 	 aspect of
+4 	 8 	 (NP\NP)/NP 	 1 	 aspect :
+7 	 5 	 (NP\NP)/NP 	 2 	 risk of
+7 	 6 	 N/N 	 1 	 risk investment
+10 	 8 	 (NP\NP)/NP 	 2 	 hazard :
+10 	 9 	 NP[nb]/N 	 1 	 hazard the
+10 	 11 	 (NP\NP)/(S[ng]\NP) 	 1 	 hazard of
+12 	 11 	 (NP\NP)/(S[ng]\NP) 	 2 	 shaping of
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 portfolio shaping
+14 	 13 	 NP[nb]/N 	 1 	 portfolio your
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 avoid to
+20 	 16 	 (S[b]\NP)/NP 	 2 	 types avoid
+20 	 17 	 N/N 	 1 	 types one <XU>
+20 	 19 	 N/N 	 1 	 types more
+20 	 21 	 (NP\NP)/NP 	 1 	 types of
+22 	 21 	 (NP\NP)/NP 	 2 	 risk of
+24 	 11 	 (NP\NP)/(S[ng]\NP) 	 2 	 being of
+25 	 24 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 blind-sided being
+25 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 blind-sided by
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 others by
+<\s>
+<s id="wsj_1564.8"> 28
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 This is
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is clearly
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 is not
+1 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 is to
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 news is
+5 	 4 	 N/N 	 1 	 news good
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 people to
+9 	 7 	 NP[nb]/N 	 1 	 people all
+9 	 8 	 N/N 	 1 	 people you
+9 	 10 	 (NP\NP)/(S[b]\NP) 	 1 	 people who
+9 	 11 	 S[b]\NP 	 1 	 people sleep <XB>
+9 	 17 	 S[pss]\NP 	 1 	 people lulled <XB>
+11 	 10 	 (NP\NP)/(S[b]\NP) 	 2 	 sleep who
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 sleep like
+11 	 14 	 ((S\NP)\(S\NP))/N 	 2 	 sleep every
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 babies like
+15 	 14 	 ((S\NP)\(S\NP))/N 	 3 	 night every
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 lulled by
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 visions by
+19 	 20 	 (NP\NP)/NP 	 1 	 visions of
+22 	 20 	 (NP\NP)/NP 	 2 	 money of
+22 	 21 	 NP[nb]/N 	 1 	 money your
+22 	 23 	 S[ng]\NP 	 1 	 money sitting <XB>
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 sitting risk-free
+23 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 sitting in
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 CDs in
+27 	 26 	 N/N 	 1 	 CDs six-month
+<\s>
+<s id="wsj_1564.9"> 26
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Risk wears
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 disguises wears
+3 	 2 	 N/N 	 1 	 disguises many
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 investments that
+6 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 investments are <XB>
+6 	 9 	 (S[adj]\NP)/PP 	 1 	 investments low <XB>
+6 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 investments can
+6 	 19 	 (S[adj]\NP)/PP 	 1 	 investments high <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+9 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 low are
+10 	 9 	 (S[adj]\NP)/PP 	 2 	 in low
+12 	 10 	 PP/NP 	 1 	 type in
+12 	 11 	 N/N 	 1 	 type one
+12 	 13 	 (NP\NP)/NP 	 1 	 type of
+15 	 13 	 (NP\NP)/NP 	 2 	 risk of
+15 	 14 	 N/N 	 1 	 risk obvious
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+19 	 17 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 high be
+19 	 18 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 high distressingly
+20 	 19 	 (S[adj]\NP)/PP 	 2 	 in high
+24 	 23 	 (N/N)/(N/N) 	 2 	 obvious less
+25 	 20 	 PP/NP 	 1 	 kinds in
+25 	 21 	 N/N 	 1 	 kinds other
+25 	 24 	 N/N 	 1 	 kinds obvious
+<\s>
+<s id="wsj_1564.10"> 17
+2 	 0 	 N/N 	 1 	 bonds U.S.
+2 	 1 	 N/N 	 1 	 bonds Treasury
+2 	 7 	 (S[dcl]\NP)/NP 	 1 	 bonds are
+5 	 4 	 ((S\NP)/(S\NP))/NP 	 3 	 example for
+7 	 4 	 ((S\NP)/(S\NP))/NP 	 2 	 are for
+7 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 are when
+8 	 7 	 (S[dcl]\NP)/NP 	 2 	 supersafe are
+10 	 11 	 S[dcl]\NP 	 1 	 it comes
+10 	 13 	 (S[ng]\NP)/NP 	 1 	 it returning <XB>
+11 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 comes when
+11 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 comes to
+13 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 returning to
+13 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 returning at
+14 	 13 	 (S[ng]\NP)/NP 	 2 	 money returning
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 maturity at
+<\s>
+<s id="wsj_1564.11"> 22
+2 	 1 	 NP[nb]/N 	 1 	 value their
+2 	 3 	 (NP\NP)/NP 	 1 	 value as
+2 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 value can
+2 	 7 	 S[pss]\NP 	 1 	 value decimated <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 investments as
+5 	 0 	 S/S 	 1 	 can But
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+7 	 6 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 decimated be
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 decimated by
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 inflation by
+9 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 inflation which
+9 	 12 	 (S[dcl]\NP)/NP 	 1 	 inflation erodes <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 erodes which
+15 	 12 	 (S[dcl]\NP)/NP 	 2 	 power erodes
+15 	 13 	 NP[nb]/N 	 1 	 power the
+15 	 14 	 N/N 	 1 	 power purchasing
+15 	 16 	 (NP\NP)/NP 	 1 	 power of
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 bonds '
+21 	 16 	 (NP\NP)/NP 	 2 	 payments of
+21 	 18 	 (NP[nb]/N)\NP 	 1 	 payments '
+21 	 19 	 N/N 	 1 	 payments fixed-dollar
+21 	 20 	 N/N 	 1 	 payments interest
+<\s>
+<s id="wsj_1564.12"> 7
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Risk is
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is also
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 function is
+4 	 3 	 NP[nb]/N 	 1 	 function a
+4 	 5 	 (NP\NP)/NP 	 1 	 function of
+6 	 5 	 (NP\NP)/NP 	 2 	 time of
+<\s>
+<s id="wsj_1564.13"> 16
+2 	 1 	 N/N 	 1 	 professionals financial
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 professionals measure
+3 	 0 	 (S/S)/S[dcl] 	 2 	 measure When
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 measure mathematically
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 risk measure
+7 	 9 	 (S[b]\NP)/PP 	 1 	 they focus
+9 	 0 	 (S/S)/S[dcl] 	 1 	 focus When
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 focus usually
+10 	 9 	 (S[b]\NP)/PP 	 2 	 on focus
+12 	 10 	 PP/NP 	 1 	 volatility on
+12 	 11 	 NP[nb]/N 	 1 	 volatility the
+12 	 13 	 (NP\NP)/NP 	 1 	 volatility of
+15 	 13 	 (NP\NP)/NP 	 2 	 returns of
+15 	 14 	 N/N 	 1 	 returns short-term
+<\s>
+<s id="wsj_1564.14"> 26
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Stocks are
+0 	 3 	 S[adj]\NP 	 1 	 Stocks riskier <XB>
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 are for
+1 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 are because
+3 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 riskier are
+3 	 2 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 riskier much
+3 	 4 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 riskier than
+6 	 4 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 bills than
+6 	 5 	 N/N 	 1 	 bills Treasury
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 example for
+13 	 12 	 NP[nb]/N 	 1 	 range the
+13 	 14 	 (NP\NP)/NP 	 1 	 range in
+13 	 20 	 (NP\NP)/NP 	 1 	 range to
+13 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 range is
+13 	 25 	 S[adj]\NP 	 1 	 range wider <XB>
+15 	 14 	 (NP\NP)/NP 	 2 	 performance in
+19 	 16 	 ((NP\NP)/(NP\NP))/NP 	 3 	 years from
+19 	 17 	 NP[nb]/N 	 1 	 years the
+19 	 18 	 N/N 	 1 	 years best
+20 	 16 	 ((NP\NP)/(NP\NP))/NP 	 2 	 to from
+22 	 20 	 (NP\NP)/NP 	 2 	 worst to
+22 	 21 	 NP[nb]/N 	 1 	 worst the
+23 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is because
+25 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 wider is
+25 	 24 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 wider much
+<\s>
+<s id="wsj_1564.15"> 21
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 That is
+0 	 3 	 S[pss]\NP 	 1 	 That measured <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is usually
+3 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 measured is
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 measured by
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 deviation by
+7 	 5 	 NP[nb]/N 	 1 	 deviation the
+7 	 6 	 N/N 	 1 	 deviation standard
+7 	 12 	 (NP\NP)/NP 	 1 	 deviation of
+7 	 15 	 (NP\NP)/NP 	 1 	 deviation from
+10 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 divergence by
+10 	 12 	 (NP\NP)/NP 	 1 	 divergence of
+10 	 15 	 (NP\NP)/NP 	 1 	 divergence from
+14 	 12 	 (NP\NP)/NP 	 2 	 results of
+14 	 13 	 N/N 	 1 	 results annual
+18 	 15 	 (NP\NP)/NP 	 2 	 return from
+18 	 16 	 NP[nb]/N 	 1 	 return the
+18 	 17 	 N/N 	 1 	 return average
+18 	 19 	 (NP\NP)/NP 	 1 	 return over
+20 	 19 	 (NP\NP)/NP 	 2 	 time over
+<\s>
+<s id="wsj_1564.16"> 30
+1 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 investors who
+1 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 investors are <XB>
+1 	 4 	 (S[pss]\NP)/PP 	 1 	 investors preoccupied <XB>
+1 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 investors may
+1 	 10 	 ((S[ng]\NP)/PP)/NP 	 1 	 investors paying <XB>
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are who
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 preoccupied are
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 with preoccupied
+7 	 5 	 PP/NP 	 1 	 fluctuations with
+7 	 6 	 N/N 	 1 	 fluctuations short-term
+8 	 0 	 S/S 	 1 	 may But
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+10 	 9 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 paying be
+13 	 10 	 ((S[ng]\NP)/PP)/NP 	 3 	 attention paying
+13 	 11 	 N/N 	 1 	 attention too
+13 	 12 	 N/N 	 1 	 attention little
+14 	 10 	 ((S[ng]\NP)/PP)/NP 	 2 	 to paying
+17 	 14 	 PP/NP 	 1 	 risk to
+17 	 15 	 NP[nb]/N 	 1 	 risk another
+17 	 16 	 N/N 	 1 	 risk big
+17 	 18 	 (NP\NP)/(S[ng]\NP) 	 1 	 risk --
+20 	 18 	 (NP\NP)/(S[ng]\NP) 	 2 	 generating --
+20 	 19 	 (S\NP)/(S\NP) 	 2 	 generating not
+22 	 20 	 (S[ng]\NP)/NP 	 2 	 money generating
+22 	 21 	 N/N 	 1 	 money enough
+22 	 24 	 (S[b]\NP)/NP 	 1 	 money meet <XB>
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+29 	 24 	 (S[b]\NP)/NP 	 2 	 goals meet
+29 	 25 	 N/N 	 1 	 goals long-term
+29 	 26 	 N/N 	 1 	 goals financial
+29 	 28 	 N/N 	 1 	 goals life-style
+<\s>
+<s id="wsj_1564.17"> 23
+1 	 0 	 (S/S)/NP 	 2 	 instance For
+4 	 3 	 NP[nb]/N 	 1 	 investors some
+4 	 6 	 (S[pt]\NP)/NP 	 1 	 investors sworn <XB>
+5 	 0 	 (S/S)/NP 	 1 	 have For
+6 	 5 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 sworn have
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 sworn off
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 sworn since
+8 	 6 	 (S[pt]\NP)/NP 	 2 	 stocks sworn
+13 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 crash since
+13 	 10 	 NP[nb]/N 	 1 	 crash the
+13 	 11 	 N/N 	 1 	 crash 1987
+13 	 12 	 N/N 	 1 	 crash market
+16 	 15 	 N/N 	 1 	 Friday last
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 Friday 's
+18 	 17 	 (NP[nb]/N)\NP 	 1 	 debacle 's
+18 	 20 	 (S[b]\NP)/NP 	 1 	 debacle reinforced
+20 	 19 	 (S\NP)/(S\NP) 	 2 	 reinforced only
+22 	 20 	 (S[b]\NP)/NP 	 2 	 feelings reinforced
+22 	 21 	 NP[nb]/N 	 1 	 feelings those
+<\s>
+<s id="wsj_1564.18"> 18
+3 	 1 	 NP[nb]/N 	 1 	 market the
+3 	 2 	 N/N 	 1 	 market stock
+3 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 market has
+3 	 12 	 (S[pt]\NP)/NP 	 1 	 market outperformed <XB>
+8 	 5 	 ((S\NP)/(S\NP))/NP 	 3 	 declines despite
+8 	 6 	 NP[nb]/N 	 1 	 declines some
+8 	 7 	 N/N 	 1 	 declines stomach-churning
+10 	 0 	 S/S 	 1 	 has But
+10 	 5 	 ((S\NP)/(S\NP))/NP 	 2 	 has despite
+12 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 outperformed has
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 outperformed far
+12 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 outperformed over
+14 	 12 	 (S[pt]\NP)/NP 	 2 	 securities outperformed
+14 	 13 	 N/N 	 1 	 securities other
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 periods over
+17 	 16 	 N/N 	 1 	 periods extended
+<\s>
+<s id="wsj_1564.19"> 27
+1 	 0 	 (S/S)/(S[ng]\NP) 	 2 	 retreating By
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 retreating to
+5 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 security to
+5 	 3 	 NP[nb]/N 	 1 	 security the
+5 	 4 	 N/N 	 1 	 security apparent
+5 	 6 	 (NP\NP)/NP 	 1 	 security of
+6 	 8 	 (NP\NP)\(NP\NP) 	 2 	 of say
+11 	 6 	 (NP\NP)/NP 	 2 	 funds of
+11 	 10 	 N/N 	 1 	 funds money-market
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 investors may
+13 	 17 	 (S[ng]\NP)/NP 	 1 	 investors earning <XB>
+14 	 0 	 (S/S)/(S[ng]\NP) 	 1 	 may By
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 may not
+16 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+17 	 16 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 earning be
+20 	 17 	 (S[ng]\NP)/NP 	 2 	 return earning
+20 	 18 	 N/N 	 1 	 return enough
+20 	 19 	 N/N 	 1 	 return investment
+20 	 22 	 (S[b]\NP)/PP 	 1 	 return pay <XB>
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+23 	 22 	 (S[b]\NP)/PP 	 2 	 for pay
+26 	 23 	 PP/NP 	 1 	 retirement for
+26 	 24 	 NP[nb]/N 	 1 	 retirement a
+26 	 25 	 N/N 	 1 	 retirement comfortable
+<\s>
+<s id="wsj_1564.20"> 30
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That 's
+1 	 16 	 (S[dcl]\S[dcl])/NP 	 1 	 's says
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 risk 's
+4 	 2 	 NP[nb]/N 	 1 	 risk the
+4 	 3 	 N/N 	 1 	 risk biggest
+4 	 5 	 (NP\NP)/NP 	 1 	 risk of
+4 	 7 	 (NP\NP)/NP 	 1 	 risk --
+6 	 5 	 (NP\NP)/NP 	 2 	 all of
+9 	 7 	 (NP\NP)/NP 	 2 	 risk --
+9 	 8 	 NP[nb]/N 	 1 	 risk the
+9 	 10 	 (NP\NP)/(S[ng]\NP) 	 1 	 risk of
+12 	 10 	 (NP\NP)/(S[ng]\NP) 	 2 	 meeting of
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 meeting not
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 objectives meeting
+14 	 13 	 NP[nb]/N 	 1 	 objectives your
+19 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 Enright says
+19 	 17 	 N/N 	 1 	 Enright Steven
+19 	 18 	 N/N 	 1 	 Enright B.
+25 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 planner says
+25 	 21 	 NP[nb]/N 	 1 	 planner a
+25 	 22 	 N/N 	 1 	 planner New
+25 	 23 	 N/N 	 1 	 planner York
+25 	 24 	 N/N 	 1 	 planner financial
+25 	 26 	 (NP\NP)/NP 	 1 	 planner with
+29 	 26 	 (NP\NP)/NP 	 2 	 Services with
+29 	 27 	 N/N 	 1 	 Services Seidman
+29 	 28 	 N/N 	 1 	 Services Financial
+<\s>
+<s id="wsj_1564.21"> 19
+2 	 0 	 (S/S)/NP 	 2 	 result As
+2 	 1 	 NP[nb]/N 	 1 	 result a
+5 	 4 	 N/N 	 1 	 advisers financial
+5 	 6 	 (S[b]\NP)/S[dcl] 	 1 	 advisers say
+6 	 0 	 (S/S)/NP 	 1 	 say As
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 they take
+7 	 12 	 (S[ng]\NP)/NP 	 1 	 they evaluating <XB>
+8 	 6 	 (S[b]\NP)/S[dcl] 	 2 	 take say
+8 	 11 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 take when
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 steps take
+10 	 9 	 N/N 	 1 	 steps several
+12 	 11 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 evaluating when
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 riskiness evaluating
+14 	 13 	 NP[nb]/N 	 1 	 riskiness the
+14 	 15 	 (NP\NP)/NP 	 1 	 riskiness of
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 clients '
+18 	 15 	 (NP\NP)/NP 	 2 	 portfolios of
+18 	 17 	 (NP[nb]/N)\NP 	 1 	 portfolios '
+<\s>
+<s id="wsj_1564.22"> 32
+0 	 1 	 (S[b]\NP)/NP 	 1 	 They estimate
+3 	 1 	 (S[b]\NP)/NP 	 2 	 return estimate
+3 	 2 	 NP[nb]/N 	 1 	 return the
+3 	 12 	 (S[b]\NP)/NP 	 2 	 return generate <XU>
+5 	 4 	 NP[nb]/N 	 1 	 person a
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 person 's
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 portfolio 's
+8 	 7 	 N/N 	 1 	 portfolio current
+8 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 portfolio is
+8 	 10 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 portfolio likely <XB>
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely is
+11 	 10 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 generate to
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 generate over
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 time over
+17 	 16 	 conj/conj 	 1 	 with along
+20 	 1 	 (S[b]\NP)/NP 	 2 	 deviation estimate
+20 	 18 	 NP[nb]/N 	 1 	 deviation a
+20 	 19 	 N/N 	 1 	 deviation standard
+20 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 deviation that
+20 	 22 	 (S[dcl]\NP)/S[qem] 	 1 	 deviation suggests <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 suggests that
+23 	 22 	 (S[dcl]\NP)/S[qem] 	 2 	 how suggests
+24 	 23 	 (S[qem]/S[dcl])/N 	 2 	 much how
+26 	 25 	 NP[nb]/N 	 1 	 return the
+26 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 return will
+26 	 28 	 S[b]\NP 	 1 	 return vary <XB>
+27 	 23 	 (S[qem]/S[dcl])/N 	 1 	 will how
+28 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 vary will
+28 	 29 	 (S\NP)\(S\NP) 	 2 	 vary year
+29 	 30 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 year by
+31 	 30 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 year by
+<\s>
+<s id="wsj_1564.23"> 15
+0 	 1 	 (S[b]\NP)/(S[to]\NP) 	 1 	 They try
+0 	 3 	 (S[b]\NP)/NP 	 1 	 They figure <XB>
+2 	 1 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to try
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 figure to
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 figure out
+7 	 3 	 (S[b]\NP)/NP 	 2 	 results figure
+7 	 5 	 NP[nb]/N 	 1 	 results the
+7 	 6 	 N/N 	 1 	 results long-term
+7 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 results needs <XU>
+7 	 12 	 (S[b]\NP)/NP 	 1 	 results meet <XU>
+9 	 8 	 NP[nb]/N 	 1 	 person the
+9 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 person needs
+11 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to needs
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+14 	 12 	 (S[b]\NP)/NP 	 2 	 goals meet
+14 	 13 	 N/N 	 1 	 goals major
+<\s>
+<s id="wsj_1564.24"> 11
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 they eyeball
+2 	 0 	 S/S 	 1 	 eyeball And
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 types eyeball
+3 	 4 	 (NP\NP)/NP 	 1 	 types of
+3 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 types that
+3 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 types are <XB>
+3 	 10 	 S[pss]\NP 	 1 	 types quantified <XB>
+5 	 4 	 (NP\NP)/NP 	 2 	 risk of
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 are not
+10 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 quantified are
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 quantified easily
+<\s>
+<s id="wsj_1564.25"> 32
+1 	 0 	 NP[nb]/N 	 1 	 portfolios The
+1 	 2 	 (NP\NP)/NP 	 1 	 portfolios of
+1 	 22 	 (S[b]\NP)/NP 	 1 	 portfolios illustrate
+5 	 2 	 (NP\NP)/NP 	 2 	 families of
+5 	 3 	 N/N 	 1 	 families two
+5 	 4 	 N/N 	 1 	 families hypothetical
+7 	 2 	 (NP\NP)/NP 	 2 	 one of
+7 	 8 	 (NP\NP)/N 	 1 	 one a
+8 	 10 	 ((NP\NP)\(NP\NP))/NP 	 2 	 a at
+9 	 8 	 (NP\NP)/N 	 2 	 couple a
+12 	 10 	 ((NP\NP)\(NP\NP))/NP 	 3 	 age at
+12 	 11 	 N/N 	 1 	 age retirement
+14 	 2 	 (NP\NP)/NP 	 2 	 another of
+14 	 15 	 (NP\NP)/N 	 1 	 another a
+15 	 18 	 ((NP\NP)\(NP\NP))/NP 	 2 	 a at
+17 	 15 	 (NP\NP)/N 	 2 	 couple a
+17 	 16 	 N/N 	 1 	 couple two-income
+19 	 18 	 ((NP\NP)\(NP\NP))/NP 	 3 	 age at
+19 	 20 	 N\N 	 1 	 age 45
+24 	 22 	 (S[b]\NP)/NP 	 2 	 types illustrate
+24 	 23 	 N/N 	 1 	 types several
+24 	 25 	 (NP\NP)/NP 	 1 	 types of
+24 	 27 	 (NP\NP)/(S[b]/NP) 	 1 	 types that
+24 	 31 	 (S[b]\NP)/NP 	 2 	 types consider <XU>
+26 	 25 	 (NP\NP)/NP 	 2 	 risk of
+28 	 29 	 (S[b]\NP)/(S[to]\NP) 	 1 	 investors need
+28 	 31 	 (S[b]\NP)/NP 	 1 	 investors consider <XB>
+29 	 27 	 (NP\NP)/(S[b]/NP) 	 2 	 need that
+30 	 29 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to need
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 consider to
+<\s>
+<s id="wsj_1564.26"> 25
+1 	 0 	 (S/S)/NP 	 2 	 instance For
+6 	 3 	 NP[nb]/N 	 1 	 bonds the
+6 	 4 	 N/N 	 1 	 bonds insured
+6 	 5 	 N/N 	 1 	 bonds municipal
+6 	 7 	 (NP\NP)/(S[b]\NP) 	 1 	 bonds that
+6 	 8 	 (S[b]\NP)/NP 	 1 	 bonds dominate <XB>
+6 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 bonds were
+6 	 16 	 S[pss]\NP 	 1 	 bonds selected <XB>
+8 	 7 	 (NP\NP)/(S[b]\NP) 	 2 	 dominate that
+11 	 9 	 NP[nb]/N 	 1 	 couple the
+11 	 10 	 N/N 	 1 	 couple older
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 couple 's
+13 	 8 	 (S[b]\NP)/NP 	 2 	 portfolio dominate
+13 	 12 	 (NP[nb]/N)\NP 	 1 	 portfolio 's
+14 	 0 	 (S/S)/NP 	 1 	 were For
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 were probably
+16 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 selected were
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 selected in
+16 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 selected for
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 part in
+19 	 18 	 N/N 	 1 	 part large
+24 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 risk for
+24 	 21 	 NP[nb]/N 	 1 	 risk their
+24 	 22 	 N/N 	 1 	 risk low
+24 	 23 	 N/N 	 1 	 risk repayment
+<\s>
+<s id="wsj_1564.27"> 14
+1 	 2 	 ((S[b]\NP)/PP)/NP 	 1 	 they expose
+2 	 0 	 S/S 	 1 	 expose But
+4 	 2 	 ((S[b]\NP)/PP)/NP 	 3 	 holders expose
+4 	 3 	 NP[nb]/N 	 1 	 holders the
+5 	 2 	 ((S[b]\NP)/PP)/NP 	 2 	 to expose
+7 	 5 	 PP/NP 	 1 	 lot to
+7 	 6 	 NP[nb]/N 	 1 	 lot a
+7 	 8 	 (NP\NP)/NP 	 1 	 lot of
+10 	 8 	 (NP\NP)/NP 	 2 	 risk of
+10 	 9 	 N/N 	 1 	 risk inflation
+13 	 8 	 (NP\NP)/NP 	 2 	 risk of
+13 	 12 	 N/N 	 1 	 risk interest-rate
+<\s>
+<s id="wsj_1564.28"> 24
+2 	 0 	 NP[nb]/N 	 1 	 couple The
+2 	 1 	 N/N 	 1 	 couple younger
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 couple 's
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 stockholdings 's
+4 	 5 	 (S[b]\NP)/NP 	 1 	 stockholdings involve
+5 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 involve because
+7 	 5 	 (S[b]\NP)/NP 	 2 	 risk involve
+7 	 6 	 N/N 	 1 	 risk more
+7 	 8 	 (NP\NP)/NP 	 1 	 risk than
+12 	 8 	 (NP\NP)/NP 	 2 	 portfolio than
+12 	 9 	 NP[nb]/N 	 1 	 portfolio a
+12 	 10 	 N/N 	 1 	 portfolio diversified
+12 	 11 	 N/N 	 1 	 portfolio stock
+15 	 14 	 NP[nb]/N 	 1 	 bulk the
+15 	 16 	 (NP\NP)/NP 	 1 	 bulk of
+15 	 19 	 (S[dcl]\NP)/PP 	 1 	 bulk is
+18 	 16 	 (NP\NP)/NP 	 2 	 money of
+18 	 17 	 NP[nb]/N 	 1 	 money the
+19 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is because
+20 	 19 	 (S[dcl]\NP)/PP 	 2 	 in is
+23 	 20 	 PP/NP 	 1 	 issue in
+23 	 21 	 NP[nb]/N 	 1 	 issue a
+23 	 22 	 N/N 	 1 	 issue single
+<\s>
+<s id="wsj_1564.29"> 35
+1 	 0 	 (S[b]\NP)/S[em] 	 2 	 that Note
+4 	 2 	 NP[nb]/N 	 1 	 couple the
+4 	 3 	 N/N 	 1 	 couple younger
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 couple 's
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 portfolio 's
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 portfolio has
+7 	 1 	 S[em]/S[dcl] 	 1 	 has that
+12 	 7 	 (S[dcl]\NP)/NP 	 2 	 return has
+12 	 8 	 NP[nb]/N 	 1 	 return a
+12 	 9 	 N/N 	 1 	 return higher
+12 	 10 	 N/N 	 1 	 return expected
+12 	 11 	 N/N 	 1 	 return annual
+12 	 20 	 (NP\NP)/(S[pss]\NP) 	 1 	 return as
+12 	 21 	 S[pss]\NP 	 1 	 return calculated <XB>
+15 	 7 	 (S[dcl]\NP)/NP 	 2 	 % has
+15 	 14 	 N/N 	 1 	 % 10.1
+15 	 16 	 (NP\NP)/NP 	 1 	 % vs.
+15 	 20 	 (NP\NP)/(S[pss]\NP) 	 1 	 % as
+15 	 21 	 S[pss]\NP 	 1 	 % calculated <XB>
+18 	 16 	 (NP\NP)/NP 	 2 	 % vs.
+18 	 17 	 N/N 	 1 	 % 8.8
+21 	 20 	 (NP\NP)/(S[pss]\NP) 	 2 	 calculated as
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 calculated by
+25 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 Services by
+25 	 23 	 N/N 	 1 	 Services Seidman
+25 	 24 	 N/N 	 1 	 Services Financial
+25 	 27 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Services which
+25 	 28 	 (S[dcl]\NP)/NP 	 1 	 Services is <XB>
+28 	 27 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+31 	 28 	 (S[dcl]\NP)/NP 	 2 	 affiliate is
+31 	 29 	 NP[nb]/N 	 1 	 affiliate the
+31 	 30 	 N/N 	 1 	 affiliate financial-planning
+31 	 32 	 (NP\NP)/NP 	 1 	 affiliate of
+34 	 32 	 (NP\NP)/NP 	 2 	 Seidman of
+34 	 33 	 N/N 	 1 	 Seidman BDO
+<\s>
+<s id="wsj_1564.30"> 6
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 That reflects
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 reflects largely
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 stockholdings reflects
+5 	 3 	 NP[nb]/N 	 1 	 stockholdings the
+5 	 4 	 N/N 	 1 	 stockholdings heavy
+<\s>
+<s id="wsj_1564.31"> 30
+2 	 1 	 N/N 	 1 	 price one
+2 	 3 	 (S[pss]\NP)/PP 	 1 	 price paid <XB>
+2 	 9 	 (S[dcl]\NP)/NP 	 1 	 price is
+2 	 15 	 S[pss]\NP 	 1 	 price reflected <XB>
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 for paid
+8 	 4 	 PP/NP 	 1 	 return for
+8 	 5 	 NP[nb]/N 	 1 	 return the
+8 	 6 	 N/N 	 1 	 return higher
+8 	 7 	 N/N 	 1 	 return expected
+9 	 0 	 S/S 	 1 	 is But
+9 	 14 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 2 	 is as
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 volatility is
+12 	 10 	 N/N 	 1 	 volatility greater
+12 	 11 	 N/N 	 1 	 volatility short-term
+15 	 14 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 3 	 reflected as
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 reflected in
+20 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 deviation in
+20 	 17 	 NP[nb]/N 	 1 	 deviation the
+20 	 18 	 N/N 	 1 	 deviation higher
+20 	 19 	 N/N 	 1 	 deviation standard
+20 	 21 	 (NP\NP)/(S[dcl]/NP) 	 1 	 deviation that
+20 	 23 	 (S[dcl]\NP)/NP 	 2 	 deviation estimates <XU>
+22 	 23 	 (S[dcl]\NP)/NP 	 1 	 Seidman estimates
+23 	 21 	 (NP\NP)/(S[dcl]/NP) 	 2 	 estimates that
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 estimates for
+27 	 25 	 NP[nb]/N 	 1 	 couple the
+27 	 26 	 N/N 	 1 	 couple younger
+27 	 28 	 (NP[nb]/N)\NP 	 2 	 couple 's
+29 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 portfolio for
+29 	 28 	 (NP[nb]/N)\NP 	 1 	 portfolio 's
+<\s>
+<s id="wsj_1564.32"> 22
+1 	 2 	 (S[dcl]\(S[adj]\NP))/S[qem] 	 1 	 Here 's
+2 	 10 	 (S\S)/(S[b]\NP) 	 1 	 's :
+3 	 2 	 (S[dcl]\(S[adj]\NP))/S[qem] 	 2 	 how 's
+4 	 3 	 S[qem]/(S[to]\NP) 	 1 	 to how
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 interpret to
+9 	 5 	 (S[b]\NP)/NP 	 2 	 figure interpret
+9 	 6 	 NP[nb]/N 	 1 	 figure a
+9 	 7 	 N/N 	 1 	 figure standard
+9 	 8 	 N/N 	 1 	 figure deviation
+11 	 10 	 (S\S)/(S[b]\NP) 	 2 	 Take :
+14 	 11 	 (S[b]\NP)/NP 	 2 	 return Take
+14 	 12 	 NP[nb]/N 	 1 	 return the
+14 	 13 	 N/N 	 1 	 return expected
+16 	 10 	 (S\S)/(S[b]\NP) 	 2 	 add :
+19 	 16 	 ((S[b]\NP)/PP)/NP 	 3 	 deviation add
+19 	 17 	 N/N 	 1 	 deviation one
+19 	 18 	 N/N 	 1 	 deviation standard
+20 	 16 	 ((S[b]\NP)/PP)/NP 	 2 	 to add
+21 	 20 	 PP/NP 	 1 	 it to
+<\s>
+<s id="wsj_1564.33"> 10
+1 	 0 	 (S\NP)/(S\NP) 	 2 	 take Then
+4 	 1 	 (S[b]\NP)/NP 	 2 	 return take
+4 	 2 	 NP[nb]/N 	 1 	 return the
+4 	 3 	 N/N 	 1 	 return expected
+6 	 0 	 (S\NP)/(S\NP) 	 2 	 subtract Then
+9 	 6 	 (S[b]\NP)/NP 	 2 	 deviation subtract
+9 	 7 	 N/N 	 1 	 deviation one
+9 	 8 	 N/N 	 1 	 deviation standard
+<\s>
+<s id="wsj_1564.34"> 20
+1 	 0 	 (S/S)/NP 	 2 	 two In
+1 	 2 	 (N\N)/NP 	 1 	 two of
+4 	 2 	 (N\N)/NP 	 2 	 years of
+4 	 3 	 N/N 	 1 	 years three
+8 	 6 	 NP[nb]/N 	 1 	 result the
+8 	 7 	 N/N 	 1 	 result actual
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 result should
+8 	 10 	 S[b]\NP 	 1 	 result fall <XB>
+9 	 0 	 (S/S)/NP 	 1 	 should In
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 fall should
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 fall within
+10 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 fall if
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 range within
+13 	 12 	 NP[nb]/N 	 1 	 range that
+17 	 15 	 NP/NP 	 1 	 assumptions all
+17 	 16 	 NP[nb]/N 	 1 	 assumptions the
+17 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 assumptions were
+17 	 19 	 S[adj]\NP 	 1 	 assumptions accurate <XB>
+18 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 were if
+19 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 accurate were
+<\s>
+<s id="wsj_1564.35"> 12
+1 	 0 	 (S\NP)/(S\NP) 	 2 	 add Then
+3 	 0 	 (S\NP)/(S\NP) 	 2 	 subtract Then
+6 	 1 	 (S[b]\NP)/NP 	 2 	 deviations add <XU>
+6 	 3 	 (S[b]\NP)/NP 	 2 	 deviations subtract
+6 	 4 	 N/N 	 1 	 deviations two
+6 	 5 	 N/N 	 1 	 deviations standard
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+11 	 8 	 (S[b]\NP)/NP 	 2 	 range get
+11 	 9 	 NP[nb]/N 	 1 	 range a
+11 	 10 	 N/N 	 1 	 range wider
+<\s>
+<s id="wsj_1564.36"> 16
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There 's
+4 	 3 	 (N/N)/(N/N) 	 2 	 % 95
+5 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 probability 's
+5 	 2 	 NP[nb]/N 	 1 	 probability a
+5 	 4 	 N/N 	 1 	 probability %
+7 	 6 	 NP[nb]/N 	 1 	 year any
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 year 's
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 result 's
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 result will
+9 	 11 	 S[b]\NP 	 1 	 result fall <XB>
+10 	 5 	 N/S[dcl] 	 1 	 will probability
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 fall will
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 fall in
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 range in
+14 	 13 	 NP[nb]/N 	 1 	 range the
+<\s>
+<s id="wsj_1564.37"> 29
+1 	 0 	 (S/S)/NP 	 2 	 course Of
+5 	 3 	 NP[nb]/N 	 1 	 volatility the
+5 	 4 	 N/N 	 1 	 volatility greater
+5 	 6 	 (NP\NP)/NP 	 1 	 volatility of
+5 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 volatility does
+5 	 15 	 (S[b]\NP)/S[dcl] 	 1 	 volatility mean <XB>
+9 	 7 	 NP[nb]/N 	 1 	 couple the
+9 	 8 	 N/N 	 1 	 couple younger
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 couple 's
+11 	 6 	 (NP\NP)/NP 	 2 	 portfolio of
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 portfolio 's
+12 	 0 	 (S/S)/NP 	 1 	 does Of
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 does n't
+12 	 14 	 (S\NP)\(S\NP) 	 2 	 does necessarily
+15 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 mean does
+17 	 16 	 NP[nb]/N 	 1 	 investments those
+17 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 investments are
+17 	 19 	 S[adj]\NP 	 1 	 investments riskier <XB>
+18 	 15 	 (S[b]\NP)/S[dcl] 	 2 	 are mean
+18 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 are in
+19 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 riskier are
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 terms in
+21 	 22 	 (NP\NP)/(S[ng]\NP) 	 1 	 terms of
+23 	 22 	 (NP\NP)/(S[ng]\NP) 	 2 	 meeting of
+25 	 24 	 NP[nb]/N 	 1 	 holders the
+25 	 26 	 (NP[nb]/N)\NP 	 2 	 holders '
+28 	 23 	 (S[ng]\NP)/NP 	 2 	 goals meeting
+28 	 26 	 (NP[nb]/N)\NP 	 1 	 goals '
+28 	 27 	 N/N 	 1 	 goals long-term
+<\s>
+<s id="wsj_1564.38"> 28
+4 	 2 	 NP[nb]/N 	 1 	 couple the
+4 	 3 	 N/N 	 1 	 couple older
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 couple 's
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 portfolio 's
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 portfolio could
+6 	 10 	 S[adj]\NP 	 1 	 portfolio riskier <XB>
+7 	 0 	 S/S 	 1 	 could Indeed
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 could actually
+9 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 be in
+9 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 be if
+10 	 9 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 riskier be
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 sense in
+13 	 12 	 NP[nb]/N 	 1 	 sense that
+17 	 15 	 NP[nb]/N 	 1 	 return the
+17 	 16 	 N/N 	 1 	 return expected
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 return wo
+17 	 20 	 (S[b]\NP)/NP 	 1 	 return generate <XB>
+18 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 wo if
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 wo n't
+20 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 generate wo
+22 	 20 	 (S[b]\NP)/NP 	 2 	 dollars generate
+22 	 21 	 N/N 	 1 	 dollars enough
+22 	 24 	 (S[b]\NP)/NP 	 1 	 dollars meet <XB>
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+27 	 24 	 (S[b]\NP)/NP 	 2 	 plans meet
+27 	 25 	 NP[nb]/N 	 1 	 plans their
+27 	 26 	 N/N 	 1 	 plans spending
+<\s>
+<s id="wsj_1564.39"> 31
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 They may
+0 	 2 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 They feel <XB>
+0 	 4 	 S[adj]\NP 	 1 	 They secure <XB>
+1 	 16 	 (S[dcl]\S[dcl])/NP 	 1 	 may says
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 feel may
+2 	 5 	 (S\NP)\(S\NP) 	 2 	 feel now
+2 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 feel because
+4 	 2 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 secure feel
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 secure emotionally
+7 	 8 	 (S[dcl]\NP)/PP 	 1 	 they are
+8 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are because
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 are not
+11 	 8 	 (S[dcl]\NP)/PP 	 2 	 in are
+11 	 10 	 PP/PP 	 1 	 in heavily
+14 	 11 	 PP/NP 	 1 	 market in
+14 	 12 	 NP[nb]/N 	 1 	 market the
+14 	 13 	 N/N 	 1 	 market stock
+19 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 Cammack says
+19 	 17 	 N/N 	 1 	 Cammack John
+19 	 18 	 N/N 	 1 	 Cammack H.
+23 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 planner says
+23 	 21 	 NP[nb]/N 	 1 	 planner a
+23 	 22 	 N/N 	 1 	 planner financial
+23 	 24 	 (NP\NP)/NP 	 1 	 planner with
+28 	 24 	 (NP\NP)/NP 	 2 	 Inc. with
+28 	 25 	 N/N 	 1 	 Inc. Alexandra
+28 	 26 	 N/N 	 1 	 Inc. Armstrong
+28 	 27 	 N/N 	 1 	 Inc. Advisors
+28 	 29 	 (NP\NP)/NP 	 1 	 Inc. in
+30 	 29 	 (NP\NP)/NP 	 2 	 Washington in
+<\s>
+<s id="wsj_1564.40"> 13
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they may
+1 	 3 	 (S[b]\NP)/NP 	 1 	 they pay <XB>
+2 	 0 	 S/S 	 1 	 may But
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 pay may
+3 	 10 	 (((S\NP)\(S\NP))\NP)/NP 	 2 	 pay in
+5 	 3 	 (S[b]\NP)/NP 	 2 	 price pay
+5 	 4 	 NP[nb]/N 	 1 	 price a
+9 	 6 	 N/N 	 1 	 years 10 <XU>
+9 	 8 	 N/N 	 1 	 years 20
+9 	 10 	 (((S\NP)\(S\NP))\NP)/NP 	 3 	 years in
+12 	 10 	 (((S\NP)\(S\NP))\NP)/NP 	 4 	 future in
+12 	 11 	 NP[nb]/N 	 1 	 future the
+<\s>
+<s id="wsj_1564.41"> 15
+1 	 0 	 N/N 	 1 	 Slater Ms.
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 Slater reports
+2 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 reports from
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 on reports
+5 	 3 	 PP/NP 	 1 	 finance on
+5 	 4 	 N/N 	 1 	 finance personal
+10 	 7 	 NP[nb]/N 	 1 	 Journal The
+10 	 8 	 N/N 	 1 	 Journal Wall
+10 	 9 	 N/N 	 1 	 Journal Street
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Journal 's
+14 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 bureau from
+14 	 11 	 (NP[nb]/N)\NP 	 1 	 bureau 's
+14 	 12 	 N/N 	 1 	 bureau New
+14 	 13 	 N/N 	 1 	 bureau York
+<\s>
+<s id="wsj_1564.42"> 42
+1 	 2 	 S[dcl]\NP 	 1 	 it comes
+2 	 0 	 (S/S)/S[dcl] 	 2 	 comes When
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 comes to
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 investing to
+6 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 trying can
+6 	 13 	 (S[b]\NP)/PP 	 1 	 trying seem <XB>
+7 	 6 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 weigh to
+9 	 8 	 (S[b]\NP)/NP 	 2 	 risk weigh
+11 	 8 	 (S[b]\NP)/NP 	 2 	 reward weigh
+12 	 0 	 (S/S)/S[dcl] 	 1 	 can When
+12 	 18 	 (S\S)/S[dcl] 	 1 	 can :
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seem can
+14 	 13 	 (S[b]\NP)/PP 	 2 	 like seem
+15 	 14 	 PP/(S[ng]\NP) 	 1 	 throwing like
+15 	 17 	 (S\NP)\(S\NP) 	 2 	 throwing blindfolded
+16 	 15 	 (S[ng]\NP)/NP 	 2 	 darts throwing
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Investors do
+19 	 22 	 (S[b]\NP)/NP 	 1 	 Investors know <XB>
+20 	 18 	 (S\S)/S[dcl] 	 2 	 do :
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 do n't
+22 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 know do
+25 	 22 	 (S[b]\NP)/NP 	 2 	 returns know
+25 	 23 	 NP[nb]/N 	 1 	 returns the
+25 	 24 	 N/N 	 1 	 returns actual
+25 	 26 	 (NP\NP)/(S[dcl]/NP) 	 1 	 returns that
+25 	 29 	 (S[b]\NP)/NP 	 2 	 returns deliver <XU>
+27 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 securities will
+27 	 29 	 (S[b]\NP)/NP 	 1 	 securities deliver <XB>
+28 	 26 	 (NP\NP)/(S[dcl]/NP) 	 2 	 will that
+29 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 deliver will
+33 	 22 	 (S[b]\NP)/NP 	 2 	 ups know
+33 	 32 	 NP[nb]/N 	 1 	 ups the
+33 	 36 	 (NP\NP)/(S[dcl]\NP) 	 1 	 ups that
+33 	 37 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 ups will <XB>
+33 	 38 	 S[b]\NP 	 1 	 ups occur <XB>
+35 	 22 	 (S[b]\NP)/NP 	 2 	 downs know
+35 	 32 	 NP[nb]/N 	 1 	 downs the
+35 	 36 	 (NP\NP)/(S[dcl]\NP) 	 1 	 downs that
+35 	 37 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 downs will <XB>
+35 	 38 	 S[b]\NP 	 1 	 downs occur <XB>
+37 	 36 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+38 	 37 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 occur will
+38 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 occur along
+41 	 39 	 ((S\NP)\(S\NP))/NP 	 3 	 way along
+41 	 40 	 NP[nb]/N 	 1 	 way the
+<\s>
+<s id="wsj_1564.43"> 8
+0 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Looking can
+0 	 5 	 (S[b]\NP)/NP 	 1 	 Looking provide <XB>
+1 	 0 	 (S[ng]\NP)/PP 	 2 	 to Looking
+3 	 1 	 PP/NP 	 1 	 past to
+3 	 2 	 NP[nb]/N 	 1 	 past the
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 provide can
+7 	 5 	 (S[b]\NP)/NP 	 2 	 clues provide
+7 	 6 	 NP[nb]/N 	 1 	 clues some
+<\s>
+<s id="wsj_1564.44"> 32
+2 	 0 	 (S/S)/NP 	 2 	 decades Over
+2 	 1 	 N/N 	 1 	 decades several
+5 	 4 	 (S/S)/NP 	 2 	 instance for
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 investors who
+7 	 9 	 (S[dcl]\NP)/PP 	 1 	 investors put <XB>
+7 	 17 	 (S[dcl]\NP)/NP 	 1 	 investors earned
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 put who
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 put up
+11 	 9 	 (S[dcl]\NP)/PP 	 2 	 with put
+14 	 12 	 NP[nb]/N 	 1 	 market the
+14 	 13 	 N/N 	 1 	 market stock
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 market 's
+16 	 11 	 PP/NP 	 1 	 gyrations with
+16 	 15 	 (NP[nb]/N)\NP 	 1 	 gyrations 's
+17 	 0 	 (S/S)/NP 	 1 	 earned Over
+17 	 4 	 (S/S)/NP 	 1 	 earned for
+18 	 17 	 (S[dcl]\NP)/NP 	 2 	 returns earned
+18 	 20 	 (NP\NP)/NP 	 1 	 returns in
+20 	 19 	 (NP\NP)/(NP\NP) 	 2 	 in far
+21 	 20 	 (NP\NP)/NP 	 2 	 excess in
+21 	 22 	 (NP\NP)/NP 	 1 	 excess of
+23 	 22 	 (NP\NP)/NP 	 2 	 those of
+23 	 24 	 (NP\NP)/NP 	 1 	 those on
+25 	 24 	 (NP\NP)/NP 	 2 	 bonds on
+28 	 24 	 (NP\NP)/NP 	 2 	 investments on
+28 	 27 	 N/N 	 1 	 investments cash
+28 	 29 	 (NP\NP)/NP 	 1 	 investments like
+31 	 29 	 (NP\NP)/NP 	 2 	 bills like
+31 	 30 	 N/N 	 1 	 bills Treasury
+<\s>
+<s id="wsj_1564.45"> 20
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 history can
+2 	 4 	 (S[b]\NP)/NP 	 1 	 history suggest <XB>
+3 	 1 	 (S/S)/S[dcl] 	 2 	 can while
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 suggest can
+5 	 4 	 (S[b]\NP)/NP 	 2 	 what suggest
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 what is <XB>
+5 	 7 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 1 	 what reasonable <XB>
+5 	 9 	 (S[b]\NP)/NP 	 2 	 what expect <XU>
+6 	 5 	 NP/(S[dcl]\NP) 	 1 	 is what
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 reasonable is
+8 	 7 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 2 	 to reasonable
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 expect to
+10 	 11 	 (S[dcl]\NP[thr])/NP 	 1 	 there 's
+11 	 0 	 S/S 	 1 	 's But
+11 	 1 	 (S/S)/S[dcl] 	 1 	 's while
+13 	 11 	 (S[dcl]\NP[thr])/NP 	 2 	 guarantee 's
+13 	 12 	 NP[nb]/N 	 1 	 guarantee no
+14 	 13 	 N/S[em] 	 1 	 that guarantee
+16 	 15 	 NP[nb]/N 	 1 	 past the
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 past will
+16 	 18 	 (S[b]\NP)/NP 	 1 	 past repeat <XB>
+17 	 14 	 S[em]/S[dcl] 	 1 	 will that
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 repeat will
+19 	 18 	 (S[b]\NP)/NP 	 2 	 itself repeat
+<\s>
+<s id="wsj_1564.46"> 20
+1 	 0 	 (S/S)/NP 	 2 	 instance For
+4 	 3 	 NP[nb]/N 	 1 	 analysts some
+4 	 5 	 (S[b]\NP)/S[dcl] 	 1 	 analysts believe
+5 	 0 	 (S/S)/NP 	 1 	 believe For
+7 	 6 	 N/N 	 1 	 returns bond
+7 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 returns have
+7 	 11 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 returns moved <XB>
+7 	 13 	 (S[adj]\NP)/PP 	 1 	 returns closer <XB>
+9 	 6 	 N/N 	 1 	 volatility bond
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 volatility have
+9 	 11 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 volatility moved <XB>
+9 	 13 	 (S[adj]\NP)/PP 	 1 	 volatility closer <XB>
+10 	 5 	 (S[b]\NP)/S[dcl] 	 2 	 have believe
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 moved have
+13 	 11 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 closer moved
+13 	 12 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 closer permanently
+14 	 13 	 (S[adj]\NP)/PP 	 2 	 to closer
+15 	 14 	 PP/NP 	 1 	 those to
+15 	 16 	 (NP\NP)/NP 	 1 	 those of
+19 	 16 	 (NP\NP)/NP 	 2 	 market of
+19 	 17 	 NP[nb]/N 	 1 	 market the
+19 	 18 	 N/N 	 1 	 market stock
+<\s>
+<s id="wsj_1564.47"> 21
+1 	 2 	 (NP\NP)/NP 	 1 	 returns on
+1 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 returns may
+1 	 6 	 (S[b]\NP)/(S[to]\NP) 	 1 	 returns continue <XB>
+1 	 8 	 (S[b]\NP)/NP 	 1 	 returns exceed <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 investments on
+4 	 3 	 N/N 	 1 	 investments cash
+5 	 0 	 S/S 	 1 	 may And
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue may
+7 	 6 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to continue
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 exceed to
+8 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 exceed by
+9 	 8 	 (S[b]\NP)/NP 	 2 	 inflation exceed
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 margin by
+13 	 11 	 NP[nb]/N 	 1 	 margin a
+13 	 12 	 N/N 	 1 	 margin wider
+13 	 14 	 (NP\NP)/S[dcl] 	 1 	 margin than
+15 	 16 	 S[dcl]\NP 	 1 	 they did
+16 	 14 	 (NP\NP)/S[dcl] 	 2 	 did than
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 did over
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 past over
+20 	 18 	 NP[nb]/N 	 1 	 past the
+20 	 19 	 N/N 	 1 	 past long-term
+<\s>
+<s id="wsj_1564.48"> 12
+0 	 1 	 N\N 	 1 	 Portfolio A
+0 	 2 	 (NP\NP)/NP 	 1 	 Portfolio :
+4 	 2 	 (NP\NP)/NP 	 2 	 couple :
+4 	 3 	 N/N 	 1 	 couple Retired
+6 	 2 	 (NP\NP)/NP 	 2 	 age :
+6 	 7 	 N\N 	 1 	 age 65
+10 	 9 	 (N/N)/N[num] 	 2 	 400,000 $
+11 	 2 	 (NP\NP)/NP 	 2 	 portfolio :
+11 	 9 	 (N/N)/N[num] 	 1 	 portfolio $
+<\s>
+<s id="wsj_1564.49"> 12
+1 	 0 	 N/N 	 1 	 B Portfolio
+1 	 2 	 (NP\NP)/NP 	 1 	 B :
+4 	 2 	 (NP\NP)/NP 	 2 	 couple :
+4 	 3 	 N/N 	 1 	 couple Two-income
+6 	 2 	 (NP\NP)/NP 	 2 	 age :
+6 	 7 	 N\N 	 1 	 age 45
+10 	 9 	 (N/N)/N[num] 	 2 	 150,000 $
+11 	 2 	 (NP\NP)/NP 	 2 	 portfolio :
+11 	 9 	 (N/N)/N[num] 	 1 	 portfolio $
+<\s>

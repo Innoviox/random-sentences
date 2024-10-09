@@ -1,0 +1,98 @@
+<s id="wsj_0680.1"> 26
+0 	 1 	 (S[dcl]\(S[adj]\NP))/NP 	 1 	 Following is
+4 	 1 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 listing is
+4 	 2 	 NP[nb]/N 	 1 	 listing a
+4 	 3 	 N/N 	 1 	 listing weekly
+4 	 5 	 (NP\NP)/NP 	 1 	 listing of
+9 	 5 	 (NP\NP)/NP 	 2 	 values of
+9 	 6 	 N/N 	 1 	 values unadited
+9 	 7 	 N/N 	 1 	 values net
+9 	 8 	 N/N 	 1 	 values asset
+9 	 10 	 (NP\NP)/NP 	 1 	 values of
+12 	 11 	 (N/N)/(N/N) 	 2 	 traded publicly
+15 	 10 	 (NP\NP)/NP 	 2 	 shares of
+15 	 12 	 N/N 	 1 	 shares traded
+15 	 13 	 N/N 	 1 	 shares investment
+15 	 14 	 N/N 	 1 	 shares fund
+15 	 17 	 S[pss]\NP 	 1 	 shares reported <XB>
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 reported by
+17 	 21 	 ((S\NP)\(S\NP))/PP 	 2 	 reported as
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 companies by
+20 	 19 	 NP[nb]/N 	 1 	 companies the
+22 	 21 	 ((S\NP)\(S\NP))/PP 	 3 	 of as
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 Friday 's
+25 	 22 	 PP/NP 	 1 	 close of
+25 	 24 	 (NP[nb]/N)\NP 	 1 	 close 's
+<\s>
+<s id="wsj_0680.2"> 24
+1 	 0 	 (S\NP)/(S\NP) 	 2 	 shown Also
+1 	 2 	 (S[dcl]\(S[pss]\NP))/NP 	 1 	 shown is
+7 	 2 	 (S[dcl]\(S[pss]\NP))/NP 	 2 	 price is
+7 	 3 	 NP[nb]/N 	 1 	 price the
+7 	 4 	 N/N 	 1 	 price closing
+7 	 5 	 N/N 	 1 	 price listed
+7 	 6 	 N/N 	 1 	 price market
+7 	 13 	 (NP\NP)/NP 	 1 	 price of
+7 	 19 	 (NP\NP)/NP 	 1 	 price with
+12 	 2 	 (S[dcl]\(S[pss]\NP))/NP 	 2 	 price is
+12 	 9 	 NP[nb]/N 	 1 	 price a
+12 	 10 	 N/N 	 1 	 price dealer-to-dealer
+12 	 11 	 N/N 	 1 	 price asked
+12 	 13 	 (NP\NP)/NP 	 1 	 price of
+12 	 19 	 (NP\NP)/NP 	 1 	 price with
+15 	 14 	 NP[nb]/N 	 1 	 fund each
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 fund 's
+17 	 13 	 (NP\NP)/NP 	 2 	 shares of
+17 	 16 	 (NP[nb]/N)\NP 	 1 	 shares 's
+21 	 19 	 (NP\NP)/NP 	 2 	 percentage with
+21 	 20 	 NP[nb]/N 	 1 	 percentage the
+21 	 22 	 (NP\NP)/NP 	 1 	 percentage of
+23 	 22 	 (NP\NP)/NP 	 2 	 difference of
+<\s>
+<s id="wsj_0680.3"> 3
+3 	 0 	 N/N 	 1 	 Funds Closed
+3 	 1 	 N/N 	 1 	 Funds End
+3 	 2 	 N/N 	 1 	 Funds Bond
+<\s>
+<s id="wsj_0680.4"> 2
+2 	 0 	 N/N 	 1 	 Funds Flexible
+2 	 1 	 N/N 	 1 	 Funds Portfolio
+<\s>
+<s id="wsj_0680.5"> 4
+4 	 0 	 N/N 	 1 	 Funds Specialized
+4 	 1 	 N/N 	 1 	 Funds Equity
+4 	 3 	 N/N 	 1 	 Funds Convertible
+<\s>
+<s id="wsj_0680.6"> 3
+<\s>
+<s id="wsj_0680.7"> 7
+0 	 2 	 (NP\NP)/PP 	 1 	 b As
+3 	 2 	 (NP\NP)/PP 	 2 	 of As
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Thursday 's
+6 	 3 	 PP/NP 	 1 	 close of
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 close 's
+<\s>
+<s id="wsj_0680.8"> 8
+0 	 2 	 (S[pss]\NP)/PP 	 1 	 c Translated <XB>
+3 	 2 	 (S[pss]\NP)/PP 	 2 	 at Translated
+7 	 3 	 PP/NP 	 1 	 rate at
+7 	 4 	 N/N 	 1 	 rate Commercial
+7 	 5 	 N/N 	 1 	 rate Rand
+7 	 6 	 N/N 	 1 	 rate exchange
+<\s>
+<s id="wsj_0680.9"> 5
+0 	 2 	 (NP\NP)/NP 	 1 	 e In
+4 	 2 	 (NP\NP)/NP 	 2 	 dollars In
+4 	 3 	 N/N 	 1 	 dollars Canadian
+<\s>
+<s id="wsj_0680.10"> 7
+0 	 2 	 (NP\NP)/PP 	 1 	 f As
+3 	 2 	 (NP\NP)/PP 	 2 	 of As
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Wednesday 's
+6 	 3 	 PP/NP 	 1 	 close of
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 close 's
+<\s>
+<s id="wsj_0680.11"> 4
+0 	 3 	 S[adj]\NP 	 1 	 z available <XB>
+3 	 2 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 available Not
+<\s>

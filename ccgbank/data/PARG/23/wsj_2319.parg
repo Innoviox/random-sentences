@@ -1,0 +1,97 @@
+<s id="wsj_2319.1"> 34
+2 	 0 	 N/N 	 1 	 Inc. Quest
+2 	 1 	 N/N 	 1 	 Inc. Medical
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 it adopted
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 adopted said
+7 	 6 	 NP[nb]/N 	 1 	 shareholders a
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 shareholders '
+10 	 5 	 (S[dcl]\NP)/NP 	 2 	 plan adopted
+10 	 8 	 (NP[nb]/N)\NP 	 1 	 plan '
+10 	 9 	 N/N 	 1 	 plan rights
+10 	 12 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 plan which
+11 	 12 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+13 	 15 	 (S[b]\NP)/NP 	 1 	 rights purchase <XB>
+13 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rights will
+13 	 22 	 S[pss]\NP 	 1 	 rights distributed <XB>
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 purchase to
+16 	 15 	 (S[b]\NP)/NP 	 2 	 shares purchase
+16 	 17 	 (NP\NP)/NP 	 1 	 shares of
+19 	 17 	 (NP\NP)/NP 	 2 	 stock of
+19 	 18 	 N/N 	 1 	 stock common
+20 	 12 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 will which
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+22 	 21 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 distributed be
+22 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 distributed as
+22 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 distributed to
+25 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 dividend as
+25 	 24 	 NP[nb]/N 	 1 	 dividend a
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 shareholders to
+27 	 28 	 (NP\NP)/NP 	 1 	 shareholders of
+27 	 30 	 (NP\NP)/PP 	 1 	 shareholders as
+29 	 28 	 (NP\NP)/NP 	 2 	 record of
+31 	 30 	 (NP\NP)/PP 	 2 	 of as
+32 	 31 	 PP/NP 	 1 	 Oct. of
+33 	 32 	 N/N[num] 	 1 	 23 Oct.
+<\s>
+<s id="wsj_2319.2"> 24
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+4 	 3 	 NP[nb]/N 	 1 	 plan the
+4 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 plan was
+4 	 7 	 S[pss]\NP 	 1 	 plan adopted <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 was n't
+7 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 adopted was
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 adopted in
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 response in
+9 	 10 	 (NP\NP)/NP 	 1 	 response to
+13 	 10 	 (NP\NP)/NP 	 2 	 offers to
+13 	 11 	 NP[nb]/N 	 1 	 offers any
+13 	 12 	 N/N 	 1 	 offers known
+13 	 14 	 (NP\NP)/NP 	 1 	 offers for
+15 	 14 	 (NP\NP)/NP 	 2 	 Quest for
+18 	 14 	 (NP\NP)/NP 	 2 	 maker for
+18 	 17 	 NP[nb]/N 	 1 	 maker a
+18 	 21 	 (NP\NP)/NP 	 1 	 maker of
+20 	 14 	 (NP\NP)/NP 	 2 	 marketer for
+20 	 17 	 NP[nb]/N 	 1 	 marketer a
+20 	 21 	 (NP\NP)/NP 	 1 	 marketer of
+23 	 21 	 (NP\NP)/NP 	 2 	 products of
+23 	 22 	 N/N 	 1 	 products hospital
+<\s>
+<s id="wsj_2319.3"> 32
+1 	 0 	 NP[nb]/N 	 1 	 rights The
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 rights allow
+3 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 shareholders allow
+3 	 5 	 (S[b]\NP)/NP 	 1 	 shareholders purchase <XB>
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 purchase to
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 purchase at
+5 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 purchase if
+7 	 5 	 (S[b]\NP)/NP 	 2 	 stock purchase
+7 	 6 	 N/N 	 1 	 stock Quest
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 discount at
+10 	 9 	 NP[nb]/N 	 1 	 discount a
+13 	 12 	 NP[nb]/N 	 1 	 person any
+13 	 16 	 (S[dcl]\NP)/NP 	 1 	 person acquires
+13 	 28 	 (S[dcl]\NP)/NP 	 1 	 person announces <XU>
+15 	 12 	 NP[nb]/N 	 1 	 group any
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 group acquires
+15 	 28 	 (S[dcl]\NP)/NP 	 1 	 group announces <XU>
+16 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 acquires if
+17 	 18 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+19 	 18 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 15 than
+20 	 16 	 (S[dcl]\NP)/NP 	 2 	 % acquires
+20 	 19 	 N/N 	 1 	 % 15
+20 	 21 	 (NP\NP)/NP 	 1 	 % of
+23 	 22 	 NP[nb]/N 	 1 	 company the
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 company 's
+26 	 21 	 (NP\NP)/NP 	 2 	 stock of
+26 	 24 	 (NP[nb]/N)\NP 	 1 	 stock 's
+26 	 25 	 N/N 	 1 	 stock common
+28 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 announces if
+31 	 28 	 (S[dcl]\NP)/NP 	 2 	 offer announces
+31 	 29 	 NP[nb]/N 	 1 	 offer a
+31 	 30 	 N/N 	 1 	 offer tender
+<\s>

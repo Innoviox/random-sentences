@@ -1,0 +1,746 @@
+<s id="wsj_0938.1"> 32
+3 	 0 	 N/N 	 1 	 directors Cineplex
+3 	 1 	 N/N 	 1 	 directors Odeon
+3 	 2 	 N/N 	 1 	 directors Corp.
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 directors said
+6 	 5 	 NP[nb]/N 	 1 	 company the
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 company 's
+8 	 7 	 (NP[nb]/N)\NP 	 1 	 chairman 's
+8 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 chairman is
+8 	 17 	 (S[ng]\NP)/(S[ng]\NP) 	 1 	 chairman considering <XB>
+8 	 18 	 (S[ng]\NP)/NP 	 1 	 chairman bidding <XB>
+8 	 29 	 (S[b]\NP)/NP 	 1 	 chairman acquire <XB>
+11 	 7 	 (NP[nb]/N)\NP 	 1 	 executive 's
+11 	 10 	 N/N 	 1 	 executive chief
+11 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 executive is
+11 	 17 	 (S[ng]\NP)/(S[ng]\NP) 	 1 	 executive considering <XB>
+11 	 18 	 (S[ng]\NP)/NP 	 1 	 executive bidding <XB>
+11 	 29 	 (S[b]\NP)/NP 	 1 	 executive acquire <XB>
+14 	 13 	 N/N 	 1 	 Drabinsky Garth
+14 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Drabinsky is
+14 	 17 	 (S[ng]\NP)/(S[ng]\NP) 	 1 	 Drabinsky considering <XB>
+14 	 18 	 (S[ng]\NP)/NP 	 1 	 Drabinsky bidding <XB>
+14 	 29 	 (S[b]\NP)/NP 	 1 	 Drabinsky acquire <XB>
+16 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+17 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 considering is
+18 	 17 	 (S[ng]\NP)/(S[ng]\NP) 	 2 	 bidding considering
+20 	 19 	 (N/N)/(N/N) 	 2 	 million 780.6
+22 	 18 	 (S[ng]\NP)/NP 	 2 	 dollars bidding
+22 	 20 	 N/N 	 1 	 dollars million
+22 	 21 	 N/N 	 1 	 dollars Canadian
+22 	 23 	 (NP\NP)/NP 	 1 	 dollars -LRB-
+24 	 23 	 (NP\NP)/NP 	 2 	 US$ -LRB-
+26 	 24 	 N/N[num] 	 1 	 million US$
+26 	 25 	 N/N 	 1 	 million 666
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+31 	 29 	 (S[b]\NP)/NP 	 2 	 company acquire
+31 	 30 	 NP[nb]/N 	 1 	 company the
+<\s>
+<s id="wsj_0938.2"> 27
+1 	 0 	 NP[nb]/N 	 1 	 board The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 board said
+4 	 3 	 N/N 	 1 	 Drabinsky Mr.
+4 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Drabinsky are
+4 	 11 	 (S[ng]\NP)/NP 	 1 	 Drabinsky negotiating <XB>
+4 	 14 	 (S[ng]\NP)/NP 	 1 	 Drabinsky offering <XB>
+4 	 20 	 (S[b]\NP)/NP 	 1 	 Drabinsky acquire <XB>
+9 	 6 	 N/N 	 1 	 Gottlieb Vice
+9 	 7 	 N/N 	 1 	 Gottlieb Chairman
+9 	 8 	 N/N 	 1 	 Gottlieb Myron
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Gottlieb are
+9 	 11 	 (S[ng]\NP)/NP 	 1 	 Gottlieb negotiating <XB>
+9 	 14 	 (S[ng]\NP)/NP 	 1 	 Gottlieb offering <XB>
+9 	 20 	 (S[b]\NP)/NP 	 1 	 Gottlieb acquire <XB>
+10 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 negotiating are
+11 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 negotiating before
+12 	 11 	 (S[ng]\NP)/NP 	 2 	 financing negotiating
+14 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 offering before
+15 	 14 	 (S[ng]\NP)/NP 	 2 	 C$ offering
+15 	 17 	 (NP\NP)/N 	 1 	 C$ a
+16 	 15 	 N/N[num] 	 1 	 16.40 C$
+18 	 17 	 (NP\NP)/N 	 2 	 share a
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+21 	 20 	 (S[b]\NP)/NP 	 2 	 all acquire
+21 	 22 	 (NP\NP)/NP 	 1 	 all of
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 Cineplex 's
+25 	 22 	 (NP\NP)/NP 	 2 	 shares of
+25 	 24 	 (NP[nb]/N)\NP 	 1 	 shares 's
+25 	 26 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>
+<s id="wsj_0938.3"> 35
+1 	 0 	 NP[nb]/N 	 1 	 directors The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 directors added
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that added
+6 	 4 	 NP[nb]/N 	 1 	 executives the
+6 	 5 	 N/N 	 1 	 executives two
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 executives have
+6 	 9 	 (S[pt]\NP)/NP 	 1 	 executives reached <XB>
+7 	 3 	 S[em]/S[dcl] 	 1 	 have that
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 have n't
+9 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 reached have
+12 	 9 	 (S[pt]\NP)/NP 	 2 	 decision reached
+12 	 10 	 NP[nb]/N 	 1 	 decision a
+12 	 11 	 N/N 	 1 	 decision final
+12 	 14 	 (S[b]\NP)/PP 	 1 	 decision proceed <XB>
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 proceed to
+15 	 14 	 (S[b]\NP)/PP 	 2 	 with proceed
+17 	 15 	 PP/NP 	 1 	 bid with
+17 	 16 	 NP[nb]/N 	 1 	 bid a
+19 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that added
+22 	 21 	 NP[nb]/N 	 1 	 offer an
+22 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 offer is
+22 	 24 	 S[pss]\NP 	 1 	 offer made <XB>
+23 	 20 	 (S/S)/S[dcl] 	 2 	 is until
+24 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 made is
+26 	 25 	 NP[nb]/N 	 1 	 board the
+26 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 board will
+26 	 28 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 board continue <XB>
+26 	 29 	 ((S[ng]\NP)/PP)/NP 	 1 	 board seeking <XB>
+27 	 19 	 S[em]/S[dcl] 	 1 	 will that
+27 	 20 	 (S/S)/S[dcl] 	 1 	 will until
+28 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue will
+29 	 28 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 seeking continue
+31 	 29 	 ((S[ng]\NP)/PP)/NP 	 3 	 offers seeking
+31 	 30 	 N/N 	 1 	 offers higher
+32 	 29 	 ((S[ng]\NP)/PP)/NP 	 2 	 from seeking
+34 	 32 	 PP/NP 	 1 	 bidders from
+34 	 33 	 N/N 	 1 	 bidders other
+<\s>
+<s id="wsj_0938.4"> 33
+1 	 0 	 NP[nb]/N 	 1 	 directors The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 directors said
+5 	 4 	 N/N 	 1 	 Drabinsky Messrs.
+5 	 8 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Drabinsky mail
+7 	 4 	 N/N 	 1 	 Gottlieb Messrs.
+7 	 8 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Gottlieb mail
+8 	 3 	 (S/S)/S[dcl] 	 2 	 mail if
+8 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 mail by
+10 	 8 	 ((S[dcl]\NP)/PP)/NP 	 3 	 offer mail
+10 	 9 	 NP[nb]/N 	 1 	 offer an
+11 	 8 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to mail
+12 	 11 	 PP/NP 	 1 	 shareholders to
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Nov. by
+15 	 14 	 N/N[num] 	 1 	 22 Nov.
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+17 	 19 	 ((S[b]\NP)/NP)/NP 	 1 	 it reimburse <XB>
+18 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+18 	 3 	 (S/S)/S[dcl] 	 1 	 will if
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reimburse will
+19 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 reimburse for
+20 	 19 	 ((S[b]\NP)/NP)/NP 	 3 	 them reimburse
+22 	 19 	 ((S[b]\NP)/NP)/NP 	 2 	 maximum reimburse
+22 	 21 	 NP[nb]/N 	 1 	 maximum a
+22 	 23 	 (NP\NP)/NP 	 1 	 maximum of
+24 	 23 	 (NP\NP)/NP 	 2 	 C$ of
+26 	 24 	 N/N[num] 	 1 	 million C$
+26 	 25 	 N/N 	 1 	 million 8.5
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 expenses for
+28 	 29 	 (S[pss]\NP)/PP 	 1 	 expenses related <XB>
+30 	 29 	 (S[pss]\NP)/PP 	 2 	 to related
+32 	 30 	 PP/NP 	 1 	 bid to
+32 	 31 	 NP[nb]/N 	 1 	 bid a
+<\s>
+<s id="wsj_0938.5"> 49
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 We consider
+1 	 10 	 (S[dcl]\S[dcl])/NP 	 1 	 consider said
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that consider
+4 	 3 	 NP[nb]/N 	 1 	 bid his
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 bid is
+5 	 2 	 S[em]/S[dcl] 	 1 	 is that
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 bid is
+8 	 6 	 NP[nb]/N 	 1 	 bid an
+8 	 7 	 N/N 	 1 	 bid acceptable
+12 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 Kolber said
+12 	 11 	 N/N 	 1 	 Kolber Sandra
+14 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 spokeswoman said
+14 	 15 	 (NP\NP)/NP 	 1 	 spokeswoman for
+14 	 21 	 S[pss]\NP 	 1 	 spokeswoman appointed <XB>
+14 	 25 	 (S[b]\NP)/NP 	 1 	 spokeswoman solicit <XB>
+14 	 27 	 (S[b]\NP)/NP 	 1 	 spokeswoman review <XU>
+18 	 16 	 NP[nb]/N 	 1 	 directors the
+18 	 17 	 N/N 	 1 	 directors independent
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 directors '
+20 	 15 	 (NP\NP)/NP 	 2 	 committee for
+20 	 19 	 (NP[nb]/N)\NP 	 1 	 committee '
+21 	 23 	 (S\NP)\(S\NP) 	 2 	 appointed May
+23 	 22 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 May last
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 solicit to
+25 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 solicit for
+25 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 solicit in
+27 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 review to
+27 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 review for
+27 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 review in
+28 	 25 	 (S[b]\NP)/NP 	 2 	 bids solicit <XU>
+28 	 27 	 (S[b]\NP)/NP 	 2 	 bids review
+31 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 company for
+31 	 30 	 NP[nb]/N 	 1 	 company the
+34 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 wake in
+34 	 33 	 NP[nb]/N 	 1 	 wake the
+34 	 35 	 (NP\NP)/NP 	 1 	 wake of
+37 	 35 	 (NP\NP)/NP 	 2 	 dispute of
+37 	 36 	 NP[nb]/N 	 1 	 dispute a
+37 	 38 	 (NP\NP)/NP 	 1 	 dispute between
+40 	 38 	 (NP\NP)/NP 	 2 	 Drabinsky between
+40 	 39 	 N/N 	 1 	 Drabinsky Mr.
+42 	 43 	 (NP[nb]/N)\NP 	 2 	 Cineplex 's
+45 	 38 	 (NP\NP)/NP 	 2 	 shareholder between
+45 	 43 	 (NP[nb]/N)\NP 	 1 	 shareholder 's
+45 	 44 	 N/N 	 1 	 shareholder major
+48 	 38 	 (NP\NP)/NP 	 2 	 Inc between
+48 	 47 	 N/N 	 1 	 Inc MCA
+<\s>
+<s id="wsj_0938.6"> 37
+0 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 MCA have
+0 	 17 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 MCA agreed <XB>
+0 	 19 	 ((S[b]\NP)/PP)/NP 	 1 	 MCA tender <XB>
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Cineplex 's
+6 	 3 	 (NP[nb]/N)\NP 	 1 	 shareholder 's
+6 	 4 	 N/N 	 1 	 shareholder other
+6 	 5 	 N/N 	 1 	 shareholder major
+6 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 shareholder have
+6 	 17 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 shareholder agreed <XB>
+6 	 19 	 ((S[b]\NP)/PP)/NP 	 1 	 shareholder tender <XB>
+11 	 8 	 N/N 	 1 	 Bronfman Montreal-based
+11 	 9 	 N/N 	 1 	 Bronfman financier
+11 	 10 	 N/N 	 1 	 Bronfman Charles
+11 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Bronfman have
+11 	 17 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Bronfman agreed <XB>
+11 	 19 	 ((S[b]\NP)/PP)/NP 	 1 	 Bronfman tender <XB>
+14 	 13 	 NP[nb]/N 	 1 	 associates his
+14 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 associates have
+14 	 17 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 associates agreed <XB>
+14 	 19 	 ((S[b]\NP)/PP)/NP 	 1 	 associates tender <XB>
+17 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 agreed have
+18 	 17 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to agreed
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 tender to
+19 	 28 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 tender unless
+21 	 19 	 ((S[b]\NP)/PP)/NP 	 3 	 holdings tender
+21 	 20 	 NP[nb]/N 	 1 	 holdings their
+22 	 19 	 ((S[b]\NP)/PP)/NP 	 2 	 to tender
+24 	 22 	 PP/NP 	 1 	 offer to
+24 	 23 	 NP[nb]/N 	 1 	 offer an
+24 	 25 	 (NP\NP)/NP 	 1 	 offer by
+27 	 25 	 (NP\NP)/NP 	 2 	 Drabinsky by
+27 	 26 	 N/N 	 1 	 Drabinsky Mr.
+31 	 29 	 NP[nb]/N 	 1 	 offer a
+31 	 30 	 N/N 	 1 	 offer higher
+31 	 32 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 offer is
+31 	 33 	 S[pss]\NP 	 1 	 offer made <XB>
+32 	 28 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is unless
+33 	 32 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 made is
+33 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 made by
+36 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 bidder by
+36 	 35 	 NP[nb]/N 	 1 	 bidder another
+<\s>
+<s id="wsj_0938.7"> 31
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 MCA holds
+1 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 holds through
+1 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 holds while
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 half holds
+2 	 3 	 (NP\NP)/NP 	 1 	 half of
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Cineplex 's
+6 	 3 	 (NP\NP)/NP 	 2 	 equity of
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 equity 's
+9 	 1 	 (S[dcl]\NP)/NP 	 2 	 % holds
+9 	 8 	 N/N 	 1 	 % 33
+9 	 10 	 (NP\NP)/NP 	 1 	 % of
+13 	 10 	 (NP\NP)/NP 	 2 	 rights of
+13 	 11 	 NP[nb]/N 	 1 	 rights its
+13 	 12 	 N/N 	 1 	 rights voting
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 shares through
+17 	 15 	 N/N 	 1 	 shares restricted
+17 	 16 	 N/N 	 1 	 shares voting
+21 	 20 	 N/N 	 1 	 interests Bronfman
+21 	 22 	 (S[dcl]\NP)/NP 	 1 	 interests hold
+22 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 hold while
+24 	 23 	 (N/N)/(N/N) 	 2 	 24 about
+25 	 22 	 (S[dcl]\NP)/NP 	 2 	 % hold
+25 	 24 	 N/N 	 1 	 % 24
+25 	 26 	 (NP\NP)/NP 	 1 	 % of
+28 	 27 	 NP[nb]/N 	 1 	 company the
+28 	 29 	 (NP[nb]/N)\NP 	 2 	 company 's
+30 	 26 	 (NP\NP)/NP 	 2 	 equity of
+30 	 29 	 (NP[nb]/N)\NP 	 1 	 equity 's
+<\s>
+<s id="wsj_0938.8"> 9
+1 	 0 	 N/N 	 1 	 Kolber Ms.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Kolber said
+4 	 3 	 NP[nb]/N 	 1 	 committee the
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 committee had
+4 	 6 	 (S[pt]\NP)/NP 	 1 	 committee received <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 received had
+8 	 6 	 (S[pt]\NP)/NP 	 2 	 bids received
+8 	 7 	 N/N 	 1 	 bids other
+<\s>
+<s id="wsj_0938.9"> 24
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 She declined
+0 	 3 	 (S[b]\NP)/NP 	 1 	 She identify <XB>
+0 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 She said <XU>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 identify to
+5 	 3 	 (S[b]\NP)/NP 	 2 	 bidders identify
+5 	 4 	 N/N 	 1 	 bidders other
+9 	 8 	 N/N 	 1 	 Drabinsky Mr.
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Drabinsky 's
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 offer 's
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 offer is
+12 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 cash is
+14 	 13 	 NP[nb]/N 	 1 	 cash all
+17 	 18 	 (S[dcl]\NP)/PP 	 1 	 it 's
+18 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 's said
+19 	 18 	 (S[dcl]\NP)/PP 	 2 	 for 's
+20 	 19 	 PP/NP 	 1 	 all for
+20 	 21 	 (NP\NP)/NP 	 1 	 all of
+23 	 21 	 (NP\NP)/NP 	 2 	 company of
+23 	 22 	 NP[nb]/N 	 1 	 company the
+<\s>
+<s id="wsj_0938.10"> 23
+2 	 0 	 N/N 	 1 	 analysts Several
+2 	 1 	 N/N 	 1 	 analysts Cineplex
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 analysts have
+2 	 4 	 (S[pt]\NP)/S[em] 	 1 	 analysts speculated <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 speculated have
+5 	 4 	 (S[pt]\NP)/S[em] 	 2 	 that speculated
+7 	 6 	 N/N 	 1 	 bids outside
+7 	 8 	 S[pss]\NP 	 1 	 bids received <XB>
+7 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 bids were
+7 	 15 	 S[adj]\NP 	 1 	 bids low <XB>
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 received by
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 committee by
+11 	 10 	 NP[nb]/N 	 1 	 committee the
+12 	 5 	 S[em]/S[dcl] 	 1 	 were that
+15 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 low were
+15 	 13 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 low either
+15 	 14 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 low disappointingly
+17 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 for were
+17 	 13 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 for either
+19 	 17 	 PP/NP 	 1 	 part for
+19 	 18 	 N/N 	 1 	 part only
+19 	 20 	 (NP\NP)/NP 	 1 	 part of
+22 	 20 	 (NP\NP)/NP 	 2 	 company of
+22 	 21 	 NP[nb]/N 	 1 	 company the
+<\s>
+<s id="wsj_0938.11"> 37
+0 	 4 	 (S[pt]\NP)/NP 	 2 	 All established <XU>
+0 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 All is
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 this has
+1 	 4 	 (S[pt]\NP)/NP 	 1 	 this established <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 has really
+4 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 established has
+5 	 24 	 (S[dcl]\S[dcl])/NP 	 1 	 is said
+6 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+7 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 MCA have
+7 	 12 	 (S[pt]\NP)/PP 	 1 	 MCA agreed <XB>
+10 	 9 	 NP[nb]/N 	 1 	 Bronfmans the
+10 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Bronfmans have
+10 	 12 	 (S[pt]\NP)/PP 	 1 	 Bronfmans agreed <XB>
+11 	 6 	 S[em]/S[dcl] 	 1 	 have that
+12 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 agreed have
+13 	 12 	 (S[pt]\NP)/PP 	 2 	 on agreed
+15 	 13 	 PP/NP 	 1 	 price on
+15 	 14 	 NP[nb]/N 	 1 	 price a
+15 	 17 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 price which
+16 	 17 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 at which
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they can
+18 	 21 	 S[pss]\NP 	 1 	 they bought <XB>
+19 	 17 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 can which
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+21 	 20 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 bought be
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 bought out
+26 	 24 	 (S[dcl]\S[dcl])/NP 	 2 	 Logsdon said
+26 	 25 	 N/N 	 1 	 Logsdon Jeffery
+29 	 24 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst said
+29 	 28 	 NP[nb]/N 	 1 	 analyst an
+29 	 30 	 (NP\NP)/NP 	 1 	 analyst with
+33 	 30 	 (NP\NP)/NP 	 2 	 Weedon with
+33 	 31 	 N/N 	 1 	 Weedon Crowell
+33 	 34 	 (NP\NP)/NP 	 1 	 Weedon in
+36 	 34 	 (NP\NP)/NP 	 2 	 Angeles in
+36 	 35 	 N/N 	 1 	 Angeles Los
+<\s>
+<s id="wsj_0938.12"> 24
+2 	 1 	 NP[nb]/N 	 1 	 bid a
+2 	 3 	 S[dcl]\NP 	 1 	 bid materializes
+3 	 0 	 (S/S)/S[dcl] 	 2 	 materializes If
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 materializes at
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 price at
+6 	 5 	 NP[nb]/N 	 1 	 price that
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 shareholders will
+8 	 10 	 (S[b]\NP)/NP 	 1 	 shareholders have <XB>
+9 	 0 	 (S/S)/S[dcl] 	 1 	 will If
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+12 	 10 	 (S[b]\NP)/NP 	 2 	 reason have
+12 	 11 	 NP[nb]/N 	 1 	 reason every
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+15 	 14 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 glad be
+19 	 18 	 NP[nb]/N 	 1 	 question the
+19 	 20 	 (NP\NP)/NP 	 1 	 question of
+19 	 23 	 S[dcl]\NP 	 1 	 question remains
+21 	 20 	 (NP\NP)/NP 	 2 	 financing of
+23 	 22 	 (S\NP)/(S\NP) 	 2 	 remains still
+<\s>
+<s id="wsj_0938.13"> 28
+1 	 0 	 (S/S)/(S/S) 	 2 	 April Last
+4 	 3 	 N/N 	 1 	 Drabinsky Mr.
+4 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Drabinsky planned
+4 	 13 	 (((S[b]\NP)/PP)/PP)/NP 	 1 	 Drabinsky acquire <XB>
+7 	 6 	 NP[nb]/N 	 1 	 group a
+7 	 8 	 (NP\NP)/NP 	 1 	 group of
+7 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 group planned
+7 	 13 	 (((S[b]\NP)/PP)/PP)/NP 	 1 	 group acquire <XB>
+10 	 8 	 (NP\NP)/NP 	 2 	 backers of
+10 	 9 	 N/N 	 1 	 backers financial
+11 	 1 	 S/S 	 1 	 planned April
+12 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to planned
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+16 	 14 	 (N/N)/(N/N) 	 2 	 30.2 up
+16 	 15 	 (N/N)/(N/N) 	 2 	 30.2 to
+17 	 13 	 (((S[b]\NP)/PP)/PP)/NP 	 4 	 % acquire
+17 	 16 	 N/N 	 1 	 % 30.2
+17 	 18 	 (NP\NP)/NP 	 1 	 % of
+19 	 18 	 (NP\NP)/NP 	 2 	 Cineplex of
+20 	 13 	 (((S[b]\NP)/PP)/PP)/NP 	 3 	 for acquire
+21 	 20 	 PP/NP 	 1 	 C$ for
+21 	 23 	 (NP\NP)/N 	 1 	 C$ a
+22 	 21 	 N/N[num] 	 1 	 17.50 C$
+24 	 23 	 (NP\NP)/N 	 2 	 share a
+25 	 13 	 (((S[b]\NP)/PP)/PP)/NP 	 2 	 from acquire
+27 	 25 	 PP/NP 	 1 	 associates from
+27 	 26 	 N/N 	 1 	 associates Bronfman
+<\s>
+<s id="wsj_0938.14"> 35
+1 	 0 	 N/N 	 1 	 Drabinsky Mr.
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Drabinsky who
+1 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Drabinsky would <XB>
+1 	 6 	 (S[pt]\NP)/NP 	 1 	 Drabinsky had <XB>
+1 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 Drabinsky said
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would who
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+6 	 5 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 had have
+8 	 6 	 (S[pt]\NP)/NP 	 2 	 right had
+8 	 7 	 NP[nb]/N 	 1 	 right the
+8 	 10 	 (S[b]\NP)/NP 	 1 	 right vote <XB>
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 vote to
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 vote for
+12 	 10 	 (S[b]\NP)/NP 	 2 	 shares vote
+12 	 11 	 NP[nb]/N 	 1 	 shares those
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+15 	 14 	 N/N 	 1 	 years two
+19 	 18 	 NP[nb]/N 	 1 	 purchase the
+19 	 22 	 S[pss]\NP 	 1 	 purchase rejected <XB>
+19 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 purchase was
+19 	 27 	 (S[pss]\NP)/PP 	 1 	 purchase aimed <XB>
+22 	 21 	 (S\NP)/(S\NP) 	 2 	 rejected subsequently
+22 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 rejected by
+24 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 regulators by
+26 	 17 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+27 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 aimed was
+28 	 27 	 (S[pss]\NP)/PP 	 2 	 at aimed
+29 	 28 	 PP/(S[ng]\NP) 	 1 	 consolidating at
+31 	 29 	 (S[ng]\NP)/NP 	 2 	 control consolidating
+31 	 30 	 NP[nb]/N 	 1 	 control his
+31 	 32 	 (NP\NP)/NP 	 1 	 control of
+34 	 32 	 (NP\NP)/NP 	 2 	 company of
+34 	 33 	 NP[nb]/N 	 1 	 company the
+<\s>
+<s id="wsj_0938.15"> 8
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 MCA opposed
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 opposed strongly
+5 	 3 	 NP[nb]/N 	 1 	 group the
+5 	 4 	 N/N 	 1 	 group Drabinsky
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 group 's
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 move opposed
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 move 's
+<\s>
+<s id="wsj_0938.16"> 55
+1 	 0 	 NP[nb]/N 	 1 	 directors The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 directors did
+1 	 4 	 (S[b]\NP)/NP 	 1 	 directors indicate <XB>
+1 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 directors said <XU>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 did n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 indicate did
+6 	 4 	 (S[b]\NP)/NP 	 2 	 source indicate
+6 	 5 	 NP[nb]/N 	 1 	 source the
+6 	 7 	 (NP\NP)/NP 	 1 	 source of
+8 	 7 	 (NP\NP)/NP 	 2 	 financing of
+8 	 9 	 (NP\NP)/NP 	 1 	 financing for
+11 	 10 	 N/N 	 1 	 Drabinsky Mr.
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Drabinsky 's
+14 	 9 	 (NP\NP)/NP 	 2 	 proposal for
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 proposal 's
+14 	 13 	 N/N 	 1 	 proposal new
+18 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 MCA agreed
+18 	 27 	 ((S[b]\NP)/PP)/NP 	 1 	 MCA buy <XB>
+18 	 34 	 ((S[b]\NP)/NP)/PP 	 1 	 MCA lease <XU>
+22 	 20 	 NP[nb]/N 	 1 	 associates the
+22 	 21 	 N/N 	 1 	 associates Bronfman
+22 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 associates agreed
+22 	 27 	 ((S[b]\NP)/PP)/NP 	 1 	 associates buy <XB>
+22 	 34 	 ((S[b]\NP)/NP)/PP 	 1 	 associates lease <XU>
+23 	 17 	 (S[dcl]\NP)/S[dcl] 	 2 	 agreed said
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 agreed in
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 principle in
+26 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+27 	 48 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 buy if
+28 	 27 	 ((S[b]\NP)/PP)/NP 	 2 	 for buy
+29 	 28 	 PP/NP 	 1 	 $ for
+31 	 29 	 N/N[num] 	 1 	 million $
+31 	 30 	 N/N 	 1 	 million 57
+34 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lease to
+34 	 33 	 (S\NP)/(S\NP) 	 2 	 lease then
+34 	 35 	 (S\NP)\(S\NP) 	 2 	 lease back
+34 	 48 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 lease if
+36 	 34 	 ((S[b]\NP)/NP)/PP 	 3 	 to lease
+37 	 36 	 PP/NP 	 1 	 Cineplex to
+41 	 27 	 ((S[b]\NP)/PP)/NP 	 3 	 complex buy <XU>
+41 	 34 	 ((S[b]\NP)/NP)/PP 	 2 	 complex lease
+41 	 38 	 NP[nb]/N 	 1 	 complex its
+41 	 39 	 N/N 	 1 	 complex 18-screen
+41 	 40 	 N/N 	 1 	 complex theater
+41 	 42 	 (NP\NP)/NP 	 1 	 complex in
+44 	 42 	 (NP\NP)/NP 	 2 	 City in
+44 	 43 	 N/N 	 1 	 City Universal
+46 	 42 	 (NP\NP)/NP 	 2 	 Calif. in
+50 	 49 	 N/N 	 1 	 Drabinsky Mr.
+50 	 51 	 S[dcl]\NP 	 1 	 Drabinsky succeeds
+51 	 48 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 succeeds if
+51 	 52 	 ((S\NP)\(S\NP))/NP 	 2 	 succeeds in
+54 	 52 	 ((S\NP)\(S\NP))/NP 	 3 	 offer in
+54 	 53 	 NP[nb]/N 	 1 	 offer an
+<\s>
+<s id="wsj_0938.17"> 26
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 This is
+0 	 2 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 This being <XB>
+0 	 3 	 S[pss]\NP 	 1 	 This done <XB>
+0 	 14 	 (S[b]\NP)/NP 	 1 	 This accommodate <XB>
+0 	 18 	 (S[b]\NP)/NP 	 1 	 This facilitate <XB>
+1 	 25 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being is
+3 	 2 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 done being
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 done at
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 suggestion at
+6 	 5 	 NP[nb]/N 	 1 	 suggestion the
+6 	 7 	 (NP\NP)/NP 	 1 	 suggestion of
+10 	 7 	 (NP\NP)/NP 	 2 	 Drabinsky of
+10 	 9 	 N/N 	 1 	 Drabinsky Mr.
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 accommodate to
+15 	 14 	 (S[b]\NP)/NP 	 2 	 him accommodate
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 facilitate to
+21 	 18 	 (S[b]\NP)/NP 	 2 	 arrangements facilitate
+21 	 19 	 NP[nb]/N 	 1 	 arrangements his
+21 	 20 	 N/N 	 1 	 arrangements financing
+24 	 23 	 N/N 	 1 	 Kolber Ms.
+24 	 25 	 (S[dcl]\S[dcl])\NP 	 2 	 Kolber said
+<\s>
+<s id="wsj_0938.18"> 44
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+4 	 3 	 NP[nb]/N 	 1 	 directors the
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 directors said
+5 	 0 	 (S/S)/NP 	 1 	 said In
+8 	 7 	 NP[nb]/N 	 1 	 bid a
+8 	 9 	 (NP\NP)/NP 	 1 	 bid by
+8 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 bid is
+8 	 13 	 S[adj]\NP 	 1 	 bid successful <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 Drabinsky by
+11 	 10 	 N/N 	 1 	 Drabinsky Mr.
+12 	 6 	 (S/S)/S[dcl] 	 2 	 is if
+13 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 successful is
+15 	 16 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Cineplex expects
+16 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+16 	 6 	 (S/S)/S[dcl] 	 1 	 expects if
+19 	 16 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 PLC expects
+19 	 17 	 N/N 	 1 	 PLC Rank
+19 	 18 	 N/N 	 1 	 PLC Organisation
+19 	 21 	 (S[b]\NP)/NP 	 1 	 PLC acquire <XB>
+19 	 37 	 ((S[b]\NP)/PP)/NP 	 1 	 PLC provide <XU>
+20 	 16 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+24 	 21 	 (S[b]\NP)/NP 	 2 	 % acquire
+24 	 22 	 NP[nb]/N 	 1 	 % the
+24 	 23 	 N/N 	 1 	 % 51
+24 	 25 	 (NP\NP)/NP 	 1 	 % of
+24 	 34 	 (S[b]\NP)/NP 	 2 	 % own <XU>
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 Cineplex 's
+30 	 25 	 (NP\NP)/NP 	 2 	 unit of
+30 	 27 	 (NP[nb]/N)\NP 	 1 	 unit 's
+30 	 28 	 N/N 	 1 	 unit Film
+30 	 29 	 N/N 	 1 	 unit House
+31 	 32 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it does
+31 	 34 	 (S[b]\NP)/NP 	 1 	 it own <XB>
+32 	 33 	 (S\NP)\(S\NP) 	 2 	 does n't
+34 	 32 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 own does
+37 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provide to
+39 	 37 	 ((S[b]\NP)/PP)/NP 	 3 	 Drabinsky provide
+39 	 38 	 N/N 	 1 	 Drabinsky Mr.
+40 	 37 	 ((S[b]\NP)/PP)/NP 	 2 	 with provide
+43 	 40 	 PP/NP 	 1 	 financing with
+43 	 41 	 N/N 	 1 	 financing additional
+43 	 42 	 N/N 	 1 	 financing loan
+<\s>
+<s id="wsj_0938.19"> 38
+1 	 0 	 N/N 	 1 	 Gifford Michael
+1 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Gifford said
+1 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Gifford declined <XU>
+1 	 25 	 (S[b]\NP)/NP 	 1 	 Gifford give <XU>
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Rank 's
+6 	 4 	 (NP[nb]/N)\NP 	 1 	 executive 's
+6 	 5 	 N/N 	 1 	 executive chief
+6 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 executive said
+6 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 executive declined <XU>
+6 	 25 	 (S[b]\NP)/NP 	 1 	 executive give <XU>
+12 	 9 	 NP[nb]/N 	 1 	 chain the
+12 	 10 	 N/N 	 1 	 chain British
+12 	 11 	 N/N 	 1 	 chain theater
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 chain 's
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 involvement 's
+15 	 14 	 N/N 	 1 	 involvement total
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 involvement would
+15 	 18 	 (S[b]\NP)/NP 	 1 	 involvement exceed <XB>
+16 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 would n't
+18 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 exceed would
+19 	 18 	 (S[b]\NP)/NP 	 2 	 $ exceed
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 100
+24 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give to
+27 	 25 	 (S[b]\NP)/NP 	 2 	 breakdown give
+27 	 26 	 NP[nb]/N 	 1 	 breakdown a
+27 	 28 	 (NP\NP)/NP 	 1 	 breakdown between
+31 	 28 	 (NP\NP)/NP 	 2 	 financing between
+31 	 29 	 NP[nb]/N 	 1 	 financing the
+31 	 30 	 N/N 	 1 	 financing loan
+37 	 28 	 (NP\NP)/NP 	 2 	 purchase between
+37 	 33 	 NP[nb]/N 	 1 	 purchase the
+37 	 34 	 N/N 	 1 	 purchase proposed
+37 	 35 	 N/N 	 1 	 purchase Film
+37 	 36 	 N/N 	 1 	 purchase House
+<\s>
+<s id="wsj_0938.20"> 8
+1 	 0 	 N/N 	 1 	 shareholders Cineplex
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 shareholders responded
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 responded coolly
+4 	 2 	 (S[dcl]\NP)/PP 	 2 	 to responded
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 yesterday 's
+7 	 4 	 PP/NP 	 1 	 announcement to
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 announcement 's
+<\s>
+<s id="wsj_0938.21"> 27
+1 	 0 	 (S/S)/NP 	 2 	 trading In
+1 	 2 	 (NP\NP)/NP 	 1 	 trading on
+7 	 2 	 (NP\NP)/NP 	 2 	 Exchange on
+7 	 3 	 NP[nb]/N 	 1 	 Exchange the
+7 	 4 	 N/N 	 1 	 Exchange New
+7 	 5 	 N/N 	 1 	 Exchange York
+7 	 6 	 N/N 	 1 	 Exchange Stock
+9 	 10 	 (S[dcl]\NP)/PP 	 1 	 Cineplex closed
+10 	 0 	 (S/S)/NP 	 1 	 closed In
+10 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+10 	 19 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 2 	 closed with
+11 	 10 	 (S[dcl]\NP)/PP 	 2 	 at closed
+12 	 11 	 PP/NP 	 1 	 $ at
+13 	 12 	 N/N[num] 	 1 	 11 $
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 cents down
+17 	 16 	 N/N 	 1 	 cents 25
+20 	 21 	 (NP/NP)\(S[adj]\NP) 	 2 	 more than
+24 	 19 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 shares with
+24 	 21 	 (NP/NP)\(S[adj]\NP) 	 1 	 shares than
+24 	 22 	 NP/NP 	 1 	 shares a
+24 	 23 	 NP[nb]/N 	 1 	 shares million
+24 	 25 	 (S[ng]\NP)/NP 	 1 	 shares changing <XB>
+25 	 19 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 3 	 changing with
+26 	 25 	 (S[ng]\NP)/NP 	 2 	 hands changing
+<\s>
+<s id="wsj_0938.22"> 23
+4 	 0 	 (S/S)/NP 	 2 	 Exchange On
+4 	 1 	 NP[nb]/N 	 1 	 Exchange the
+4 	 2 	 N/N 	 1 	 Exchange Toronto
+4 	 3 	 N/N 	 1 	 Exchange Stock
+6 	 7 	 (S[dcl]\NP)/PP 	 1 	 Cineplex closed
+7 	 0 	 (S/S)/NP 	 1 	 closed On
+7 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 closed off
+7 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 closed below
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 at closed
+9 	 8 	 PP/NP 	 1 	 C$ at
+10 	 9 	 N/N[num] 	 1 	 12.875 C$
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 cents off
+15 	 13 	 N/N 	 1 	 cents 37.5
+15 	 14 	 N/N 	 1 	 cents Canadian
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 below well
+21 	 20 	 (N/N)/N[num] 	 2 	 16.40 C$
+22 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 level below
+22 	 19 	 NP[nb]/N 	 1 	 level the
+22 	 20 	 (N/N)/N[num] 	 1 	 level C$
+<\s>
+<s id="wsj_0938.23"> 21
+0 	 5 	 (S[dcl]\S[wq])/NP 	 1 	 Where asked
+1 	 0 	 S[wq]/S[q] 	 1 	 's Where
+3 	 1 	 S[q]/NP 	 1 	 bid 's
+3 	 2 	 NP[nb]/N 	 1 	 bid the
+7 	 5 	 (S[dcl]\S[wq])/NP 	 2 	 Panet-Raymond asked
+7 	 6 	 N/N 	 1 	 Panet-Raymond Pierre
+10 	 5 	 (S[dcl]\S[wq])/NP 	 2 	 analyst asked
+10 	 9 	 NP[nb]/N 	 1 	 analyst an
+10 	 13 	 (NP\NP)/NP 	 1 	 analyst with
+12 	 5 	 (S[dcl]\S[wq])/NP 	 2 	 broker asked
+12 	 9 	 NP[nb]/N 	 1 	 broker an
+12 	 13 	 (NP\NP)/NP 	 1 	 broker with
+20 	 13 	 (NP\NP)/NP 	 2 	 Ltd with
+20 	 14 	 N/N 	 1 	 Ltd Toronto
+20 	 15 	 N/N 	 1 	 Ltd securities
+20 	 16 	 N/N 	 1 	 Ltd dealer
+20 	 17 	 N/N 	 1 	 Ltd McDermid
+20 	 18 	 N/N 	 1 	 Ltd St.
+20 	 19 	 N/N 	 1 	 Ltd Lawrence
+<\s>
+<s id="wsj_0938.24"> 32
+1 	 0 	 N/N 	 1 	 Panet-Raymond Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Panet-Raymond said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he does
+3 	 6 	 (S[b]\NP)/S[dcl] 	 1 	 he think <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 does said
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 does n't
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 think does
+8 	 7 	 N/N 	 1 	 Drabinsky Messrs.
+8 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Drabinsky are
+8 	 13 	 (S[adj]\NP)/PP 	 1 	 Drabinsky close <XB>
+10 	 7 	 N/N 	 1 	 Gottlieb Messrs.
+10 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Gottlieb are
+10 	 13 	 (S[adj]\NP)/PP 	 1 	 Gottlieb close <XB>
+11 	 6 	 (S[b]\NP)/S[dcl] 	 2 	 are think
+13 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 close are
+13 	 12 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 close anywhere
+14 	 13 	 (S[adj]\NP)/PP 	 2 	 to close
+15 	 14 	 PP/(S[ng]\NP) 	 1 	 arranging to
+16 	 15 	 (S[ng]\NP)/NP 	 2 	 financing arranging
+18 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 that said
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 investors will
+19 	 21 	 (S[b]\NP)/NP 	 1 	 investors need <XB>
+20 	 18 	 S[em]/S[dcl] 	 1 	 will that
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 need will
+21 	 25 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 need before
+24 	 21 	 (S[b]\NP)/NP 	 2 	 offer need
+24 	 22 	 NP[nb]/N 	 1 	 offer a
+24 	 23 	 N/N 	 1 	 offer solid
+27 	 26 	 NP[nb]/N 	 1 	 stock the
+27 	 28 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 stock begins
+27 	 30 	 S[b]\NP 	 1 	 stock rise <XB>
+28 	 25 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 begins before
+29 	 28 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to begins
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rise to
+30 	 31 	 (S\NP)\(S\NP) 	 2 	 rise again
+<\s>
+<s id="wsj_0938.25"> 8
+1 	 0 	 N/N 	 1 	 Drabinsky Mr.
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Drabinsky could
+1 	 5 	 (S[pss]\NP)/PP 	 1 	 Drabinsky reached <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 could n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reached be
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 for reached
+7 	 6 	 PP/NP 	 1 	 comment for
+<\s>

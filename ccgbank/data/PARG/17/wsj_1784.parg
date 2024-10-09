@@ -1,0 +1,537 @@
+<s id="wsj_1784.1"> 22
+3 	 0 	 N/N 	 1 	 companies Two
+3 	 1 	 N/N 	 1 	 companies major
+3 	 2 	 N/N 	 1 	 companies drug
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 companies posted
+4 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 posted in
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 earnings posted
+7 	 5 	 N/N 	 1 	 earnings strong
+7 	 6 	 N/N 	 1 	 earnings third-quarter
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 line in
+10 	 11 	 (NP\NP)/NP 	 1 	 line with
+12 	 11 	 (NP\NP)/NP 	 2 	 profits with
+12 	 14 	 S[pss]\NP 	 1 	 profits reported <XB>
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 reported already
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 reported by
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 leaders by
+17 	 16 	 N/N 	 1 	 leaders industry
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 analysts '
+21 	 11 	 (NP\NP)/NP 	 2 	 expectations with
+21 	 20 	 (NP[nb]/N)\NP 	 1 	 expectations '
+<\s>
+<s id="wsj_1784.2"> 12
+2 	 1 	 N/N 	 1 	 Inc. Pfizer
+2 	 4 	 S[pss]\NP 	 1 	 Inc. based <XB>
+2 	 9 	 (S[dcl]\NP)/NP 	 1 	 Inc. reported
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 York in
+7 	 6 	 N/N 	 1 	 York New
+9 	 0 	 S/S 	 1 	 reported But
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 earnings reported
+11 	 10 	 N/N 	 1 	 earnings flat
+<\s>
+<s id="wsj_1784.3"> 31
+1 	 0 	 N/N 	 1 	 Corp. Schering-Plough
+1 	 3 	 S[pss]\NP 	 1 	 Corp. based <XB>
+1 	 9 	 (S[dcl]\NP)/NP 	 1 	 Corp. reported
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Madison in
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 N.J. in
+9 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 reported as
+12 	 11 	 (N/N)/(N/N) 	 2 	 % 21
+13 	 9 	 (S[dcl]\NP)/NP 	 2 	 rise reported
+13 	 10 	 NP[nb]/N 	 1 	 rise a
+13 	 12 	 N/N 	 1 	 rise %
+13 	 14 	 (NP\NP)/NP 	 1 	 rise in
+15 	 14 	 (NP\NP)/NP 	 2 	 earnings in
+20 	 17 	 N/N 	 1 	 Corp. American
+20 	 18 	 N/N 	 1 	 Corp. Home
+20 	 19 	 N/N 	 1 	 Corp. Products
+20 	 21 	 (NP\NP)/NP 	 1 	 Corp. of
+20 	 24 	 (S[dcl]\NP)/NP 	 1 	 Corp. posted
+23 	 21 	 (NP\NP)/NP 	 2 	 York of
+23 	 22 	 N/N 	 1 	 York New
+24 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 posted as
+27 	 26 	 (N/N)/(N/N) 	 2 	 % 11
+28 	 24 	 (S[dcl]\NP)/NP 	 2 	 increase posted
+28 	 25 	 NP[nb]/N 	 1 	 increase an
+28 	 27 	 N/N 	 1 	 increase %
+28 	 29 	 (NP\NP)/NP 	 1 	 increase in
+30 	 29 	 (NP\NP)/NP 	 2 	 net in
+<\s>
+<s id="wsj_1784.4"> 2
+2 	 0 	 N/N 	 1 	 Products American
+2 	 1 	 N/N 	 1 	 Products Home
+<\s>
+<s id="wsj_1784.5"> 18
+2 	 0 	 N/N 	 1 	 Products American
+2 	 1 	 N/N 	 1 	 Products Home
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Products said
+4 	 7 	 (NP\NP)/NP 	 1 	 sales for
+4 	 14 	 (S[dcl]\NP)/PP 	 1 	 sales were
+6 	 7 	 (NP\NP)/NP 	 1 	 earnings for
+6 	 14 	 (S[dcl]\NP)/PP 	 1 	 earnings were
+10 	 7 	 (NP\NP)/NP 	 2 	 quarter for
+10 	 8 	 NP[nb]/N 	 1 	 quarter the
+10 	 9 	 N/N 	 1 	 quarter third
+13 	 7 	 (NP\NP)/NP 	 2 	 months for
+13 	 12 	 N/N 	 1 	 months nine
+14 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+15 	 14 	 (S[dcl]\NP)/PP 	 2 	 at were
+17 	 15 	 PP/NP 	 1 	 levels at
+17 	 16 	 N/N 	 1 	 levels record
+<\s>
+<s id="wsj_1784.6"> 16
+0 	 1 	 (NP\NP)/NP 	 1 	 Sales for
+0 	 5 	 S[dcl]\NP 	 1 	 Sales increased
+4 	 1 	 (NP\NP)/NP 	 2 	 quarter for
+4 	 2 	 NP[nb]/N 	 1 	 quarter the
+4 	 3 	 N/N 	 1 	 quarter third
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 increased %
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+5 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 increased from
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 6.5
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 1.51
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+15 	 13 	 N/N[num] 	 1 	 billion $
+15 	 14 	 N/N 	 1 	 billion 1.42
+<\s>
+<s id="wsj_1784.7"> 37
+0 	 1 	 (NP\NP)/NP 	 1 	 Sales of
+0 	 4 	 S[dcl]\NP 	 1 	 Sales increased
+3 	 1 	 (NP\NP)/NP 	 2 	 products of
+3 	 2 	 N/N 	 1 	 products health-care
+4 	 6 	 (S\NP)\(S\NP) 	 2 	 increased %
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 increased in
+4 	 12 	 ((S\NP)\(S\NP))/PP 	 2 	 increased based
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 6
+10 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+10 	 8 	 NP[nb]/N 	 1 	 quarter the
+10 	 9 	 N/N 	 1 	 quarter third
+12 	 15 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 based on
+13 	 12 	 ((S\NP)\(S\NP))/PP 	 3 	 in based
+14 	 13 	 PP/NP 	 1 	 part in
+17 	 15 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 sales on
+17 	 16 	 N/N 	 1 	 sales strong
+17 	 18 	 (NP\NP)/NP 	 1 	 sales of
+20 	 18 	 (NP\NP)/NP 	 2 	 drugs of
+20 	 19 	 N/N 	 1 	 drugs prescription
+20 	 22 	 (NP\NP)/NP 	 1 	 drugs as
+22 	 21 	 (NP\NP)/(NP\NP) 	 2 	 as such
+23 	 22 	 (NP\NP)/NP 	 2 	 Premarin as
+27 	 22 	 (NP\NP)/NP 	 2 	 drug as
+27 	 25 	 NP[nb]/N 	 1 	 drug an
+27 	 26 	 N/N 	 1 	 drug estrogen-replacement
+30 	 15 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 sales on
+30 	 31 	 (NP\NP)/NP 	 1 	 sales of
+33 	 32 	 NP[nb]/N 	 1 	 company the
+33 	 34 	 (NP[nb]/N)\NP 	 2 	 company 's
+36 	 31 	 (NP\NP)/NP 	 2 	 formula of
+36 	 34 	 (NP[nb]/N)\NP 	 1 	 formula 's
+36 	 35 	 N/N 	 1 	 formula infant
+<\s>
+<s id="wsj_1784.8"> 28
+2 	 0 	 N/N 	 1 	 Products American
+2 	 1 	 N/N 	 1 	 Products Home
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Products said
+5 	 4 	 N/N 	 1 	 income net
+5 	 6 	 (S[dcl]\NP)/PP 	 1 	 income benefited
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 benefited said
+7 	 6 	 (S[dcl]\NP)/PP 	 2 	 from benefited
+12 	 7 	 PP/NP 	 1 	 rate from
+12 	 8 	 NP[nb]/N 	 1 	 rate a
+12 	 9 	 N/N 	 1 	 rate lower
+12 	 10 	 N/N 	 1 	 rate effective
+12 	 11 	 N/N 	 1 	 rate tax
+12 	 14 	 (S[ng]\NP)/NP 	 1 	 rate reflecting <XB>
+16 	 14 	 (S[ng]\NP)/NP 	 2 	 reduction reflecting
+16 	 15 	 NP[nb]/N 	 1 	 reduction a
+16 	 17 	 (NP\NP)/NP 	 1 	 reduction of
+20 	 17 	 (NP\NP)/NP 	 2 	 rates of
+20 	 18 	 N/N 	 1 	 rates foreign
+20 	 19 	 N/N 	 1 	 rates tax
+24 	 7 	 PP/NP 	 1 	 operations from
+24 	 23 	 N/N 	 1 	 operations additional
+24 	 25 	 (NP\NP)/NP 	 1 	 operations in
+27 	 25 	 (NP\NP)/NP 	 2 	 Rico in
+27 	 26 	 N/N 	 1 	 Rico Puerto
+<\s>
+<s id="wsj_1784.9"> 22
+0 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Net was
+0 	 3 	 S[pss]\NP 	 1 	 Net aided <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 was also
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 aided was
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 aided by
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 gain by
+6 	 5 	 NP[nb]/N 	 1 	 gain a
+6 	 7 	 (NP\NP)/NP 	 1 	 gain on
+6 	 19 	 (S[adj]\NP)/NP 	 1 	 gain effective <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 sale on
+9 	 8 	 NP[nb]/N 	 1 	 sale the
+9 	 10 	 (NP\NP)/NP 	 1 	 sale of
+12 	 11 	 NP[nb]/N 	 1 	 company the
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 company 's
+15 	 10 	 (NP\NP)/NP 	 2 	 interests of
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 interests 's
+15 	 14 	 N/N 	 1 	 interests equity
+15 	 16 	 (NP\NP)/NP 	 1 	 interests in
+18 	 16 	 (NP\NP)/NP 	 2 	 Africa in
+18 	 17 	 N/N 	 1 	 Africa South
+20 	 19 	 (S[adj]\NP)/NP 	 2 	 Sept. effective
+21 	 20 	 N/N[num] 	 1 	 1 Sept.
+<\s>
+<s id="wsj_1784.10"> 22
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+11 	 9 	 N/N 	 1 	 Products American
+11 	 10 	 N/N 	 1 	 Products Home
+11 	 12 	 (S[dcl]\NP)/PP 	 1 	 Products closed
+12 	 0 	 (S/S)/NP 	 1 	 closed In
+12 	 7 	 S/S 	 1 	 closed yesterday
+12 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+13 	 12 	 (S[dcl]\NP)/PP 	 2 	 at closed
+14 	 13 	 PP/NP 	 1 	 $ at
+14 	 16 	 (NP\NP)/N 	 1 	 $ a
+15 	 14 	 N/N[num] 	 1 	 102.25 $
+17 	 16 	 (NP\NP)/N 	 2 	 share a
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 cents down
+21 	 20 	 N/N 	 1 	 cents 75
+<\s>
+<s id="wsj_1784.11"> 0
+<\s>
+<s id="wsj_1784.12"> 15
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Pfizer said
+3 	 2 	 N/N 	 1 	 sales third-quarter
+3 	 4 	 S[dcl]\NP 	 1 	 sales increased
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 increased said
+4 	 6 	 (S\NP)\(S\NP) 	 2 	 increased %
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+4 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 increased from
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 4
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+10 	 8 	 N/N[num] 	 1 	 billion $
+10 	 9 	 N/N 	 1 	 billion 1.44
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+14 	 12 	 N/N[num] 	 1 	 billion $
+14 	 13 	 N/N 	 1 	 billion 1.38
+<\s>
+<s id="wsj_1784.13"> 22
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+4 	 3 	 N/N 	 1 	 income net
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 income was
+4 	 6 	 S[adj]\NP 	 1 	 income flat <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+5 	 7 	 ((S\NP)\(S\NP))/PP 	 2 	 was because
+6 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 flat was
+8 	 7 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+9 	 8 	 PP/NP 	 1 	 investment of
+9 	 10 	 (NP\NP)/NP 	 1 	 investment in
+11 	 10 	 (NP\NP)/NP 	 2 	 research in
+13 	 10 	 (NP\NP)/NP 	 2 	 development in
+15 	 8 	 PP/NP 	 1 	 costs of
+15 	 16 	 S[adj]\NP 	 1 	 costs related <XB>
+16 	 17 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 related to
+18 	 17 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 launches to
+18 	 19 	 (NP\NP)/NP 	 1 	 launches of
+21 	 19 	 (NP\NP)/NP 	 2 	 products of
+21 	 20 	 N/N 	 1 	 products several
+<\s>
+<s id="wsj_1784.14"> 16
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+4 	 3 	 NP[nb]/N 	 1 	 dollar the
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 dollar 's
+7 	 5 	 (NP[nb]/N)\NP 	 1 	 strengthening 's
+7 	 6 	 N/N 	 1 	 strengthening continued
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 strengthening reduced
+8 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 reduced said
+8 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 reduced by
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 growth reduced
+11 	 9 	 N/N 	 1 	 growth world-wide
+11 	 10 	 N/N 	 1 	 growth sales
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 points by
+15 	 13 	 N/N 	 1 	 points three
+15 	 14 	 N/N 	 1 	 points percentage
+<\s>
+<s id="wsj_1784.15"> 20
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Pfizer posted
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 gains posted
+4 	 2 	 NP[nb]/N 	 1 	 gains its
+4 	 3 	 N/N 	 1 	 gains largest
+4 	 5 	 (NP\NP)/NP 	 1 	 gains in
+7 	 5 	 (NP\NP)/NP 	 2 	 sales in
+7 	 6 	 N/N 	 1 	 sales healthcare
+7 	 9 	 (NP\NP)/NP 	 1 	 sales up
+11 	 9 	 (NP\NP)/NP 	 2 	 % up
+11 	 10 	 N/N 	 1 	 % 3
+15 	 5 	 (NP\NP)/NP 	 2 	 products in
+15 	 14 	 N/N 	 1 	 products consumer
+15 	 17 	 (NP\NP)/NP 	 1 	 products up
+19 	 17 	 (NP\NP)/NP 	 2 	 % up
+19 	 18 	 N/N 	 1 	 % 23
+<\s>
+<s id="wsj_1784.16"> 21
+0 	 1 	 (NP\NP)/NP 	 1 	 Sales by
+0 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Sales were
+0 	 10 	 S[adj]\NP 	 1 	 Sales flat <XB>
+4 	 1 	 (NP\NP)/NP 	 2 	 chemicals by
+4 	 2 	 NP[nb]/N 	 1 	 chemicals the
+4 	 3 	 N/N 	 1 	 chemicals specialty
+8 	 1 	 (NP\NP)/NP 	 2 	 segments by
+8 	 2 	 NP[nb]/N 	 1 	 segments the
+8 	 3 	 N/N 	 1 	 segments specialty
+8 	 6 	 N/N 	 1 	 segments materials
+8 	 7 	 N/N 	 1 	 segments science
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 flat were
+13 	 14 	 (NP\NP)/NP 	 1 	 sales by
+13 	 18 	 S[dcl]\NP 	 1 	 sales declined
+17 	 14 	 (NP\NP)/NP 	 2 	 segment by
+17 	 15 	 NP[nb]/N 	 1 	 segment the
+17 	 16 	 N/N 	 1 	 segment agriculture
+18 	 20 	 (S\NP)\(S\NP) 	 2 	 declined %
+20 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 5
+<\s>
+<s id="wsj_1784.17"> 18
+3 	 0 	 (S/S)/NP 	 2 	 segment In
+3 	 1 	 NP[nb]/N 	 1 	 segment the
+3 	 2 	 N/N 	 1 	 segment health-care
+6 	 5 	 N/N 	 1 	 sales pharmaceutical
+6 	 7 	 S[dcl]\NP 	 1 	 sales increased
+7 	 0 	 (S/S)/NP 	 1 	 increased In
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 increased %
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 4
+11 	 12 	 (NP\NP)/NP 	 1 	 sales of
+11 	 15 	 S[dcl]\NP 	 1 	 sales increased
+14 	 12 	 (NP\NP)/NP 	 2 	 products of
+14 	 13 	 N/N 	 1 	 products hospital
+15 	 0 	 (S/S)/NP 	 1 	 increased In
+15 	 17 	 (S\NP)\(S\NP) 	 2 	 increased %
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 1
+<\s>
+<s id="wsj_1784.18"> 33
+2 	 0 	 (S/S)/NP 	 2 	 quarter During
+2 	 1 	 NP[nb]/N 	 1 	 quarter the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Pfizer received
+5 	 0 	 (S/S)/NP 	 1 	 received During
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 approval received
+7 	 6 	 N/N 	 1 	 approval federal
+7 	 8 	 (NP\NP)/NP 	 1 	 approval of
+10 	 8 	 (NP\NP)/NP 	 2 	 XL of
+10 	 9 	 N/N 	 1 	 XL Procardia
+15 	 8 	 (NP\NP)/NP 	 2 	 blocker of
+15 	 12 	 NP[nb]/N 	 1 	 blocker a
+15 	 13 	 N/N 	 1 	 blocker calcium
+15 	 14 	 N/N 	 1 	 blocker channel
+15 	 16 	 (S[pss]\NP)/PP 	 1 	 blocker approved <XB>
+17 	 16 	 (S[pss]\NP)/PP 	 2 	 for approved
+19 	 17 	 PP/NP 	 1 	 angina for
+19 	 18 	 NP[nb]/N 	 1 	 angina both
+21 	 17 	 PP/NP 	 1 	 hypertension for
+21 	 18 	 NP[nb]/N 	 1 	 hypertension both
+25 	 8 	 (NP\NP)/NP 	 2 	 Piccolino of
+25 	 24 	 N/N 	 1 	 Piccolino Monorail
+25 	 27 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Piccolino used <XB>
+25 	 29 	 (S[b]\NP)/NP 	 1 	 Piccolino open <XB>
+28 	 27 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 open to
+32 	 29 	 (S[b]\NP)/NP 	 2 	 arteries open
+32 	 30 	 N/N 	 1 	 arteries obstructed
+32 	 31 	 N/N 	 1 	 arteries coronary
+<\s>
+<s id="wsj_1784.19"> 20
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+9 	 10 	 (S[dcl]\NP)/PP 	 1 	 Pfizer closed
+10 	 0 	 (S/S)/NP 	 1 	 closed In
+10 	 7 	 S/S 	 1 	 closed yesterday
+10 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+11 	 10 	 (S[dcl]\NP)/PP 	 2 	 at closed
+12 	 11 	 PP/NP 	 1 	 $ at
+12 	 14 	 (NP\NP)/N 	 1 	 $ a
+13 	 12 	 N/N[num] 	 1 	 67.75 $
+15 	 14 	 (NP\NP)/N 	 2 	 share a
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 cents up
+19 	 18 	 N/N 	 1 	 cents 75
+<\s>
+<s id="wsj_1784.20"> 0
+<\s>
+<s id="wsj_1784.21"> 14
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Schering-Plough said
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 sales gained
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 gained said
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 gained to
+3 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 gained from
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 % gained
+5 	 4 	 N/N 	 1 	 % 2.7
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 743.7
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 724.4
+<\s>
+<s id="wsj_1784.22"> 42
+2 	 0 	 (S/S)/NP 	 2 	 period In
+2 	 1 	 NP[nb]/N 	 1 	 period the
+5 	 4 	 NP[nb]/N 	 1 	 company the
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 company completed
+5 	 15 	 (S[dcl]\NP)/NP 	 1 	 company sold <XU>
+5 	 25 	 (S[dcl]\NP)/NP 	 1 	 company announced <XU>
+6 	 0 	 (S/S)/NP 	 1 	 completed In
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 sale completed
+8 	 7 	 NP[nb]/N 	 1 	 sale the
+8 	 9 	 (NP\NP)/NP 	 1 	 sale of
+13 	 9 	 (NP\NP)/NP 	 2 	 businesses of
+13 	 10 	 NP[nb]/N 	 1 	 businesses its
+13 	 11 	 N/N 	 1 	 businesses European
+13 	 12 	 N/N 	 1 	 businesses cosmetics
+15 	 0 	 (S/S)/NP 	 1 	 sold In
+18 	 15 	 (S[dcl]\NP)/NP 	 2 	 interest sold
+18 	 16 	 NP[nb]/N 	 1 	 interest a
+18 	 17 	 N/N 	 1 	 interest majority
+18 	 19 	 (NP\NP)/NP 	 1 	 interest in
+22 	 19 	 (NP\NP)/NP 	 2 	 affiliate in
+22 	 20 	 NP[nb]/N 	 1 	 affiliate its
+22 	 21 	 N/N 	 1 	 affiliate Brazilian
+25 	 0 	 (S/S)/NP 	 1 	 announced In
+27 	 25 	 (S[dcl]\NP)/NP 	 2 	 reorganization announced
+27 	 26 	 NP[nb]/N 	 1 	 reorganization the
+27 	 28 	 (NP\NP)/NP 	 1 	 reorganization of
+27 	 33 	 (NP\NP)/NP 	 1 	 reorganization into
+32 	 28 	 (NP\NP)/NP 	 2 	 businesses of
+32 	 29 	 NP[nb]/N 	 1 	 businesses its
+32 	 30 	 N/N 	 1 	 businesses over-the-counter
+32 	 31 	 N/N 	 1 	 businesses drug
+36 	 33 	 (NP\NP)/NP 	 2 	 unit into
+36 	 34 	 NP[nb]/N 	 1 	 unit a
+36 	 35 	 N/N 	 1 	 unit new
+41 	 33 	 (NP\NP)/NP 	 2 	 Products into
+41 	 38 	 N/N 	 1 	 Products Schering-Plough
+41 	 39 	 N/N 	 1 	 Products Health
+41 	 40 	 N/N 	 1 	 Products Care
+<\s>
+<s id="wsj_1784.23"> 29
+1 	 0 	 NP[nb]/N 	 1 	 actions These
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 actions did
+1 	 4 	 (S[b]\NP)/NP 	 1 	 actions affect <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 did n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 affect did
+4 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 affect because
+5 	 4 	 (S[b]\NP)/NP 	 2 	 results affect
+8 	 7 	 NP[nb]/N 	 1 	 gain the
+8 	 9 	 (NP\NP)/NP 	 1 	 gain on
+8 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 gain was
+8 	 18 	 S[pss]\NP 	 1 	 gain offset <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 sale on
+11 	 10 	 NP[nb]/N 	 1 	 sale the
+11 	 12 	 (NP\NP)/NP 	 1 	 sale of
+16 	 12 	 (NP\NP)/NP 	 2 	 businesses of
+16 	 13 	 NP[nb]/N 	 1 	 businesses the
+16 	 14 	 N/N 	 1 	 businesses European
+16 	 15 	 N/N 	 1 	 businesses cosmetics
+17 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was because
+18 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 offset was
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 offset by
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 provisions by
+20 	 21 	 (S[ng]\NP)/PP 	 1 	 provisions relating <XB>
+22 	 21 	 (S[ng]\NP)/PP 	 2 	 to relating
+25 	 22 	 PP/NP 	 1 	 divestiture to
+25 	 23 	 NP[nb]/N 	 1 	 divestiture the
+25 	 24 	 N/N 	 1 	 divestiture Brazil
+28 	 22 	 PP/NP 	 1 	 restructuring to
+28 	 23 	 NP[nb]/N 	 1 	 restructuring the
+28 	 27 	 N/N 	 1 	 restructuring drug
+<\s>
+<s id="wsj_1784.24"> 27
+2 	 0 	 N/N 	 1 	 sales U.S.
+2 	 1 	 N/N 	 1 	 sales pharmaceutical
+2 	 3 	 S[dcl]\NP 	 1 	 sales rose
+2 	 7 	 S[pss]\NP 	 1 	 sales led <XB>
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 rose %
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 15
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 led by
+14 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 products by
+14 	 9 	 N/N 	 1 	 products allergy
+14 	 11 	 N/N 	 1 	 products asthma
+14 	 13 	 N/N 	 1 	 products cold
+17 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 products by
+17 	 16 	 N/N 	 1 	 products dermatological
+19 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 anti-infectives by
+22 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 products by
+22 	 21 	 N/N 	 1 	 products anti-cancer
+26 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 products by
+26 	 25 	 N/N 	 1 	 products cardiovascular
+<\s>
+<s id="wsj_1784.25"> 15
+3 	 0 	 N/N 	 1 	 sales World-wide
+3 	 1 	 N/N 	 1 	 sales consumer
+3 	 2 	 N/N 	 1 	 sales product
+3 	 4 	 S[dcl]\NP 	 1 	 sales declined
+4 	 6 	 (S\NP)\(S\NP) 	 2 	 declined %
+4 	 9 	 ((S\NP)\(S\NP))/PP 	 2 	 declined because
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 12
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 because primarily
+10 	 9 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+14 	 10 	 PP/NP 	 1 	 sale of
+14 	 11 	 NP[nb]/N 	 1 	 sale the
+14 	 12 	 N/N 	 1 	 sale European
+14 	 13 	 N/N 	 1 	 sale cosmetics
+<\s>
+<s id="wsj_1784.26"> 15
+1 	 0 	 (N/N)/(N/N) 	 2 	 lower Significantly
+2 	 1 	 N/N 	 1 	 sales lower
+2 	 3 	 (NP\NP)/NP 	 1 	 sales of
+2 	 9 	 (S[dcl]\NP)/NP 	 1 	 sales were
+7 	 3 	 (NP\NP)/NP 	 2 	 aids of
+7 	 4 	 N/N 	 1 	 aids Stay
+7 	 5 	 N/N 	 1 	 aids Trim
+7 	 6 	 N/N 	 1 	 aids diet
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 were also
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 factor were
+11 	 10 	 NP[nb]/N 	 1 	 factor a
+11 	 12 	 (NP\NP)/NP 	 1 	 factor in
+14 	 12 	 (NP\NP)/NP 	 2 	 drop in
+14 	 13 	 NP[nb]/N 	 1 	 drop the
+<\s>
+<s id="wsj_1784.27"> 13
+4 	 0 	 NP[nb]/N 	 1 	 line The
+4 	 1 	 N/N 	 1 	 line Maybelline
+4 	 2 	 N/N 	 1 	 line beauty
+4 	 3 	 N/N 	 1 	 line product
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 line had
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 had following
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 sales had
+7 	 6 	 N/N 	 1 	 sales higher
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 half following
+12 	 9 	 NP[nb]/N 	 1 	 half a
+12 	 10 	 N/N 	 1 	 half sluggish
+12 	 11 	 N/N 	 1 	 half first
+<\s>
+<s id="wsj_1784.28"> 16
+4 	 0 	 (S/S)/NP 	 2 	 trading In
+4 	 1 	 N/N 	 1 	 trading Big
+4 	 2 	 N/N 	 1 	 trading Board
+4 	 3 	 N/N 	 1 	 trading composite
+7 	 6 	 N/N 	 1 	 shares Schering-Plough
+7 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 shares fell
+7 	 12 	 (S[b]\NP)/PP 	 1 	 shares close <XB>
+8 	 0 	 (S/S)/NP 	 1 	 fell In
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 fell cents
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 cents 75
+11 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to fell
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 close to
+13 	 12 	 (S[b]\NP)/PP 	 2 	 at close
+14 	 13 	 PP/NP 	 1 	 $ at
+15 	 14 	 N/N[num] 	 1 	 74.125 $
+<\s>

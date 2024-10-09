@@ -1,0 +1,38 @@
+<s id="wsj_0603.1"> 27
+4 	 0 	 NP[nb]/N 	 1 	 BOARD'S THE
+4 	 1 	 N/N 	 1 	 BOARD'S FINANCIAL
+4 	 2 	 N/N 	 1 	 BOARD'S ACCOUNTING
+4 	 3 	 N/N 	 1 	 BOARD'S STANDARDS
+4 	 5 	 NP\NP 	 1 	 BOARD'S coming
+4 	 6 	 NP\NP 	 1 	 BOARD'S rule
+4 	 7 	 (NP\NP)/NP 	 1 	 BOARD'S on
+4 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 BOARD'S will
+4 	 14 	 S[adj]\NP 	 1 	 BOARD'S effective <XB>
+8 	 7 	 (NP\NP)/NP 	 2 	 disclosure on
+8 	 9 	 (S[ng]\NP)/NP 	 1 	 disclosure involving <XB>
+11 	 9 	 (S[ng]\NP)/NP 	 2 	 instruments involving
+11 	 10 	 N/N 	 1 	 instruments financial
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+13 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 be for
+14 	 13 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 effective be
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 statements for
+17 	 16 	 N/N 	 1 	 statements financial
+17 	 18 	 (NP\NP)/NP 	 1 	 statements with
+20 	 18 	 (NP\NP)/NP 	 2 	 years with
+20 	 19 	 N/N 	 1 	 years fiscal
+20 	 21 	 S[ng]\NP 	 1 	 years ending <XB>
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 ending after
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 June after
+23 	 26 	 N\N 	 1 	 June 1990
+24 	 23 	 N/N[num] 	 1 	 15 June
+<\s>
+<s id="wsj_0603.2"> 8
+1 	 0 	 NP[nb]/N 	 1 	 date The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 date was
+1 	 3 	 S[pss]\NP 	 1 	 date misstated <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 misstated was
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 misstated in
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Friday 's
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 edition in
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 edition 's
+<\s>

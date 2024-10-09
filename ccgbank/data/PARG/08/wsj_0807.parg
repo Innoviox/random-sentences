@@ -1,0 +1,472 @@
+<s id="wsj_0807.1"> 27
+3 	 0 	 N/N 	 1 	 Corp. Black
+3 	 1 	 N/N 	 1 	 Corp. &
+3 	 2 	 N/N 	 1 	 Corp. Decker
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it agreed
+5 	 8 	 (((S[b]\NP)/PP)/PP)/NP 	 1 	 it sell <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 agreed said
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+13 	 8 	 (((S[b]\NP)/PP)/PP)/NP 	 4 	 unit sell
+13 	 9 	 NP[nb]/N 	 1 	 unit its
+13 	 10 	 N/N 	 1 	 unit Bostik
+13 	 11 	 N/N 	 1 	 unit chemical
+13 	 12 	 N/N 	 1 	 unit adhesives
+14 	 8 	 (((S[b]\NP)/PP)/PP)/NP 	 3 	 to sell
+16 	 14 	 PP/NP 	 1 	 S.A. to
+16 	 15 	 N/N 	 1 	 S.A. Orkem
+21 	 14 	 PP/NP 	 1 	 company to
+21 	 18 	 NP[nb]/N 	 1 	 company a
+21 	 19 	 N/N 	 1 	 company French
+21 	 20 	 N/N 	 1 	 company chemical
+23 	 8 	 (((S[b]\NP)/PP)/PP)/NP 	 2 	 for sell
+24 	 23 	 PP/NP 	 1 	 $ for
+26 	 24 	 N/N[num] 	 1 	 million $
+26 	 25 	 N/N 	 1 	 million 345
+<\s>
+<s id="wsj_0807.2"> 31
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Bostik is
+6 	 1 	 (S[dcl]\NP)/NP 	 2 	 unit is
+6 	 2 	 NP[nb]/N 	 1 	 unit the
+6 	 3 	 N/N 	 1 	 unit first
+6 	 4 	 N/N 	 1 	 unit Emhart
+6 	 5 	 N/N 	 1 	 unit Corp.
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+9 	 8 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 sold be
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 sold as
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 part as
+11 	 12 	 (NP\NP)/NP 	 1 	 part of
+15 	 13 	 NP[nb]/N 	 1 	 manufacturer the
+15 	 14 	 N/N 	 1 	 manufacturer power-tool
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 manufacturer 's
+17 	 12 	 (NP\NP)/NP 	 2 	 effort of
+17 	 16 	 (NP[nb]/N)\NP 	 1 	 effort 's
+17 	 19 	 (S[b]\NP)/NP 	 1 	 effort reduce <XB>
+17 	 22 	 (S[b]\NP)/NP 	 1 	 effort consolidate <XU>
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reduce to
+19 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 reduce after
+20 	 19 	 (S[b]\NP)/NP 	 2 	 debt reduce
+22 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 consolidate to
+22 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 consolidate after
+23 	 22 	 (S[b]\NP)/NP 	 2 	 operations consolidate
+25 	 26 	 (S[dcl]\NP)/NP 	 1 	 it acquired
+26 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 acquired after
+26 	 29 	 ((S\NP)\(S\NP))/N 	 2 	 acquired this
+27 	 26 	 (S[dcl]\NP)/NP 	 2 	 Emhart acquired
+29 	 28 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 this earlier
+30 	 29 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+<\s>
+<s id="wsj_0807.3"> 29
+2 	 0 	 N/N 	 1 	 Decker Black
+2 	 1 	 N/N 	 1 	 Decker &
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Decker said
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it plans
+4 	 7 	 ((S[b]\NP)/PP)/NP 	 1 	 it put <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 plans said
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 put to
+7 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 put in
+7 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 put with
+10 	 7 	 ((S[b]\NP)/PP)/NP 	 3 	 units put
+10 	 8 	 N/N 	 1 	 units other
+10 	 9 	 N/N 	 1 	 units Emhart
+11 	 7 	 ((S[b]\NP)/PP)/NP 	 2 	 on put
+13 	 11 	 PP/NP 	 1 	 block on
+13 	 12 	 NP[nb]/N 	 1 	 block the
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 future in
+16 	 15 	 NP[nb]/N 	 1 	 future the
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 goal with
+20 	 19 	 NP[nb]/N 	 1 	 goal the
+20 	 21 	 (NP\NP)/(S[ng]\NP) 	 1 	 goal of
+22 	 21 	 (NP\NP)/(S[ng]\NP) 	 2 	 raising of
+23 	 22 	 (S[ng]\NP)/NP 	 2 	 $ raising
+23 	 26 	 (NP\NP)/NP 	 1 	 $ in
+25 	 23 	 N/N[num] 	 1 	 billion $
+25 	 24 	 N/N 	 1 	 billion 1
+28 	 26 	 (NP\NP)/NP 	 2 	 proceeds in
+28 	 27 	 N/N 	 1 	 proceeds net
+<\s>
+<s id="wsj_0807.4"> 32
+2 	 0 	 N/N 	 1 	 Decker Black
+2 	 1 	 N/N 	 1 	 Decker &
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Decker rescued
+2 	 16 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Decker agreeing <XB>
+2 	 18 	 ((S[b]\NP)/PP)/NP 	 1 	 Decker acquire <XB>
+3 	 14 	 (S\NP)\(S\NP) 	 2 	 rescued March
+3 	 15 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 rescued by
+4 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Emhart rescued
+5 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from rescued
+8 	 5 	 PP/NP 	 1 	 bid from
+8 	 6 	 NP[nb]/N 	 1 	 bid the
+8 	 7 	 N/N 	 1 	 bid takeover
+8 	 9 	 (NP\NP)/NP 	 1 	 bid of
+12 	 9 	 (NP\NP)/NP 	 2 	 Partnership of
+12 	 10 	 N/N 	 1 	 Partnership Topper
+12 	 11 	 N/N 	 1 	 Partnership Limited
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 March last
+16 	 15 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 agreeing by
+17 	 16 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to agreeing
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+20 	 18 	 ((S[b]\NP)/PP)/NP 	 3 	 maker acquire
+20 	 19 	 NP[nb]/N 	 1 	 maker the
+20 	 21 	 (NP\NP)/NP 	 1 	 maker of
+23 	 21 	 (NP\NP)/NP 	 2 	 locks of
+23 	 22 	 N/N 	 1 	 locks door
+26 	 21 	 (NP\NP)/NP 	 2 	 tools of
+26 	 25 	 N/N 	 1 	 tools gardening
+27 	 18 	 ((S[b]\NP)/PP)/NP 	 2 	 for acquire
+29 	 27 	 PP/NP 	 1 	 $ for
+29 	 28 	 N/N 	 1 	 $ about
+31 	 29 	 N/N[num] 	 1 	 billion $
+31 	 30 	 N/N 	 1 	 billion 2.8
+<\s>
+<s id="wsj_0807.5"> 18
+1 	 0 	 NP[nb]/N 	 1 	 move The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 move expanded
+1 	 14 	 (S[dcl]\NP)/NP 	 1 	 move increased <XU>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 expanded significantly
+6 	 4 	 N/N 	 1 	 Decker Black
+6 	 5 	 N/N 	 1 	 Decker &
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Decker 's
+9 	 3 	 (S[dcl]\NP)/NP 	 2 	 line expanded
+9 	 7 	 (NP[nb]/N)\NP 	 1 	 line 's
+9 	 8 	 N/N 	 1 	 line product
+14 	 12 	 (S\NP)/(S\NP) 	 2 	 increased also
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 increased significantly
+17 	 14 	 (S[dcl]\NP)/NP 	 2 	 load increased
+17 	 15 	 NP[nb]/N 	 1 	 load its
+17 	 16 	 N/N 	 1 	 load debt
+<\s>
+<s id="wsj_0807.6"> 18
+1 	 0 	 NP[nb]/N 	 1 	 acquisition The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 acquisition boosted
+2 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 boosted to
+5 	 3 	 N/N 	 1 	 Decker Black
+5 	 4 	 N/N 	 1 	 Decker &
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Decker 's
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 ratio boosted
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 ratio 's
+7 	 8 	 (NP\NP)/NP 	 1 	 ratio of
+7 	 10 	 (NP\NP)/NP 	 1 	 ratio to
+9 	 8 	 (NP\NP)/NP 	 2 	 debt of
+12 	 10 	 (NP\NP)/NP 	 2 	 capital to
+12 	 11 	 N/N 	 1 	 capital total
+14 	 15 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+16 	 15 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 80 than
+17 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+17 	 16 	 N/N 	 1 	 % 80
+<\s>
+<s id="wsj_0807.7"> 21
+1 	 0 	 N/N 	 1 	 officials Company
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 officials have
+1 	 3 	 (S[pt]\NP)/S[dcl] 	 1 	 officials said <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said have
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 they plan
+4 	 7 	 (S[b]\NP)/NP 	 1 	 they reduce <XB>
+5 	 3 	 (S[pt]\NP)/S[dcl] 	 2 	 plan said
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plan
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reduce to
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 reduce to
+7 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 reduce over
+9 	 7 	 (S[b]\NP)/NP 	 2 	 ratio reduce
+9 	 8 	 NP[nb]/N 	 1 	 ratio that
+11 	 12 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 less than
+13 	 12 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 50 than
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+14 	 13 	 N/N 	 1 	 % 50
+19 	 18 	 (N/N)/(N/N) 	 2 	 1\/2 2
+20 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 years over
+20 	 16 	 NP[nb]/N 	 1 	 years the
+20 	 17 	 N/N 	 1 	 years next
+20 	 19 	 N/N 	 1 	 years 1\/2
+<\s>
+<s id="wsj_0807.8"> 30
+1 	 0 	 (S/S)/(S/S) 	 2 	 this Earlier
+2 	 1 	 (S/S)/N 	 2 	 year this
+6 	 4 	 N/N 	 1 	 Decker Black
+6 	 5 	 N/N 	 1 	 Decker &
+6 	 7 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Decker put
+7 	 1 	 (S/S)/N 	 1 	 put this
+7 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 put :
+10 	 7 	 ((S[dcl]\NP)/PP)/NP 	 3 	 businesses put
+10 	 8 	 N/N 	 1 	 businesses three
+10 	 9 	 N/N 	 1 	 businesses Emhart
+11 	 7 	 ((S[dcl]\NP)/PP)/NP 	 2 	 on put
+14 	 11 	 PP/NP 	 1 	 block on
+14 	 12 	 NP[nb]/N 	 1 	 block the
+14 	 13 	 N/N 	 1 	 block auction
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 information :
+17 	 16 	 NP[nb]/N 	 1 	 information the
+20 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 segment :
+20 	 16 	 NP[nb]/N 	 1 	 segment the
+20 	 19 	 N/N 	 1 	 segment electronics
+26 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 business :
+26 	 22 	 NP[nb]/N 	 1 	 business the
+26 	 23 	 N/N 	 1 	 business Dynapert
+26 	 24 	 N/N 	 1 	 business electrical
+26 	 25 	 N/N 	 1 	 business assembly
+29 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 Capacitors :
+29 	 28 	 N/N 	 1 	 Capacitors Mallory
+<\s>
+<s id="wsj_0807.9"> 12
+2 	 0 	 NP[nb]/N 	 1 	 units The
+2 	 1 	 N/N 	 1 	 units three
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 units had
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 sales had
+6 	 4 	 N/N 	 1 	 sales combined
+6 	 5 	 N/N 	 1 	 sales 1988
+6 	 7 	 (NP\NP)/NP 	 1 	 sales of
+9 	 7 	 (NP\NP)/NP 	 2 	 $ of
+9 	 8 	 N/N 	 1 	 $ about
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 904
+<\s>
+<s id="wsj_0807.10"> 12
+2 	 0 	 NP[nb]/N 	 1 	 units The
+2 	 1 	 N/N 	 1 	 units three
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 units contributed
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 third contributed
+6 	 4 	 NP/NP 	 1 	 third about
+6 	 5 	 NP[nb]/N 	 1 	 third a
+6 	 7 	 (NP\NP)/NP 	 1 	 third of
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 Emhart 's
+11 	 7 	 (NP\NP)/NP 	 2 	 sales of
+11 	 9 	 (NP[nb]/N)\NP 	 1 	 sales 's
+11 	 10 	 N/N 	 1 	 sales total
+<\s>
+<s id="wsj_0807.11"> 22
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+5 	 3 	 N/N 	 1 	 Decker Black
+5 	 4 	 N/N 	 1 	 Decker &
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Decker had
+5 	 7 	 (S[pt]\NP)/S[dcl] 	 1 	 Decker said <XB>
+6 	 0 	 (S/S)/NP 	 1 	 had In
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said had
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+8 	 10 	 (S[b]\NP)/NP 	 1 	 it sell <XB>
+9 	 7 	 (S[pt]\NP)/S[dcl] 	 2 	 would said
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 sell would
+10 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 sell if
+15 	 10 	 (S[b]\NP)/NP 	 2 	 operations sell
+15 	 11 	 N/N 	 1 	 operations two
+15 	 12 	 N/N 	 1 	 operations other
+15 	 13 	 N/N 	 1 	 operations undisclosed
+15 	 14 	 N/N 	 1 	 operations Emhart
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 it received
+18 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 received if
+21 	 18 	 (S[dcl]\NP)/NP 	 2 	 price received
+21 	 19 	 NP[nb]/N 	 1 	 price the
+21 	 20 	 N/N 	 1 	 price right
+<\s>
+<s id="wsj_0807.12"> 18
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Bostic is
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 one is
+2 	 3 	 (NP\NP)/NP 	 1 	 one of
+6 	 5 	 (N/N)/(N/N) 	 2 	 unnamed previously
+7 	 3 	 (NP\NP)/NP 	 2 	 units of
+7 	 4 	 NP[nb]/N 	 1 	 units the
+7 	 6 	 N/N 	 1 	 units unnamed
+11 	 1 	 (S[dcl]\NP)/NP 	 2 	 first is
+11 	 10 	 NP[nb]/N 	 1 	 first the
+11 	 12 	 (NP\NP)/NP 	 1 	 first of
+14 	 12 	 (NP\NP)/NP 	 2 	 five of
+14 	 13 	 NP[nb]/N 	 1 	 five the
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+17 	 16 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 sold be
+<\s>
+<s id="wsj_0807.13"> 23
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 company is
+1 	 4 	 (S[ng]\NP)/NP 	 1 	 company negotiating <XB>
+1 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 company expects <XU>
+1 	 15 	 (S[b]\NP)/NP 	 1 	 company announce <XU>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 is still
+4 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 negotiating is
+6 	 4 	 (S[ng]\NP)/NP 	 2 	 sales negotiating
+6 	 5 	 NP[nb]/N 	 1 	 sales the
+6 	 7 	 (NP\NP)/NP 	 1 	 sales of
+11 	 7 	 (NP\NP)/NP 	 2 	 units of
+11 	 8 	 NP[nb]/N 	 1 	 units the
+11 	 9 	 N/N 	 1 	 units other
+11 	 10 	 N/N 	 1 	 units four
+14 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 announce to
+15 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 announce by
+16 	 15 	 (S[b]\NP)/NP 	 2 	 agreements announce
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 end by
+19 	 18 	 NP[nb]/N 	 1 	 end the
+19 	 20 	 (NP\NP)/NP 	 1 	 end of
+22 	 20 	 (NP\NP)/NP 	 2 	 year of
+22 	 21 	 NP[nb]/N 	 1 	 year the
+<\s>
+<s id="wsj_0807.14"> 22
+2 	 0 	 NP[nb]/N 	 1 	 units The
+2 	 1 	 N/N 	 1 	 units five
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 units generated
+3 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 generated in
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 sales generated
+4 	 5 	 (NP\NP)/NP 	 1 	 sales of
+7 	 5 	 (NP\NP)/NP 	 2 	 $ of
+7 	 6 	 N/N 	 1 	 $ about
+9 	 7 	 N/N[num] 	 1 	 billion $
+9 	 8 	 N/N 	 1 	 billion 1.3
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 1988 in
+14 	 13 	 N/N 	 1 	 half almost
+14 	 15 	 (NP\NP)/NP 	 1 	 half of
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 Emhart 's
+20 	 18 	 (N/N)/N[num] 	 2 	 billion $
+20 	 19 	 N/N 	 1 	 billion 2.3
+21 	 15 	 (NP\NP)/NP 	 2 	 revenue of
+21 	 17 	 (NP[nb]/N)\NP 	 1 	 revenue 's
+21 	 18 	 (N/N)/N[num] 	 1 	 revenue $
+<\s>
+<s id="wsj_0807.15"> 8
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Bostic posted
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 sales posted
+3 	 2 	 N/N 	 1 	 sales 1988
+3 	 4 	 (NP\NP)/NP 	 1 	 sales of
+5 	 4 	 (NP\NP)/NP 	 2 	 $ of
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 255
+<\s>
+<s id="wsj_0807.16"> 45
+2 	 0 	 NP[nb]/N 	 1 	 program Our
+2 	 1 	 N/N 	 1 	 program divestiture
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 program is
+3 	 27 	 (S[dcl]\S[dcl])/NP 	 1 	 is said
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 on is
+5 	 4 	 PP/NP 	 1 	 schedule on
+8 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 we remain
+8 	 10 	 (S[adj]\NP)/S[em] 	 1 	 we confident <XB>
+9 	 27 	 (S[dcl]\S[dcl])/NP 	 1 	 remain said
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 confident remain
+11 	 10 	 (S[adj]\NP)/S[em] 	 2 	 that confident
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 we will
+12 	 14 	 (S[b]\NP)/NP 	 1 	 we achieve <XB>
+13 	 11 	 S[em]/S[dcl] 	 1 	 will that
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 achieve will
+17 	 14 	 (S[b]\NP)/NP 	 2 	 goal achieve
+17 	 15 	 NP[nb]/N 	 1 	 goal our
+17 	 16 	 N/N 	 1 	 goal stated
+17 	 18 	 (NP\NP)/NP 	 1 	 goal of
+20 	 18 	 (NP\NP)/NP 	 2 	 $ of
+20 	 19 	 N/N 	 1 	 $ over
+20 	 23 	 (NP\NP)/NP 	 1 	 $ in
+22 	 20 	 N/N[num] 	 1 	 billion $
+22 	 21 	 N/N 	 1 	 billion 1
+25 	 23 	 (NP\NP)/NP 	 2 	 proceeds in
+25 	 24 	 N/N 	 1 	 proceeds net
+27 	 42 	 (S\S)/NP 	 1 	 said in
+30 	 27 	 (S[dcl]\S[dcl])/NP 	 2 	 Archibald said
+30 	 28 	 N/N 	 1 	 Archibald Nolan
+30 	 29 	 N/N 	 1 	 Archibald D.
+34 	 32 	 N/N 	 1 	 Decker Black
+34 	 33 	 N/N 	 1 	 Decker &
+34 	 35 	 (NP[nb]/N)\NP 	 2 	 Decker 's
+36 	 27 	 (S[dcl]\S[dcl])/NP 	 2 	 president said
+36 	 35 	 (NP[nb]/N)\NP 	 1 	 president 's
+40 	 27 	 (S[dcl]\S[dcl])/NP 	 2 	 officer said
+40 	 35 	 (NP[nb]/N)\NP 	 1 	 officer 's
+40 	 38 	 N/N 	 1 	 officer chief
+40 	 39 	 N/N 	 1 	 officer executive
+44 	 42 	 (S\S)/NP 	 2 	 statement in
+44 	 43 	 NP[nb]/N 	 1 	 statement a
+<\s>
+<s id="wsj_0807.17"> 21
+1 	 0 	 NP[nb]/N 	 1 	 sales The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 sales are
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 attempt are
+4 	 3 	 NP[nb]/N 	 1 	 attempt an
+4 	 6 	 (S[b]\NP)/NP 	 1 	 attempt quell <XB>
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 quell to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 concern quell
+8 	 7 	 N/N 	 1 	 concern investor
+8 	 9 	 (NP\NP)/NP 	 1 	 concern about
+12 	 10 	 N/N 	 1 	 Decker Black
+12 	 11 	 N/N 	 1 	 Decker &
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Decker 's
+16 	 9 	 (NP\NP)/NP 	 2 	 burden about
+16 	 13 	 (NP[nb]/N)\NP 	 1 	 burden 's
+16 	 14 	 N/N 	 1 	 burden increased
+16 	 15 	 N/N 	 1 	 burden debt
+16 	 17 	 (NP\NP)/NP 	 1 	 burden from
+20 	 17 	 (NP\NP)/NP 	 2 	 purchase from
+20 	 18 	 NP[nb]/N 	 1 	 purchase the
+20 	 19 	 N/N 	 1 	 purchase Emhart
+<\s>
+<s id="wsj_0807.18"> 15
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 company 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 stock 's
+3 	 4 	 S[dcl]\NP 	 1 	 stock plunged
+4 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 plunged when
+6 	 8 	 (S[dcl]\NP)/S[em] 	 1 	 it announced
+8 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 announced when
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 announced first
+9 	 8 	 (S[dcl]\NP)/S[em] 	 2 	 that announced
+10 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it planned
+10 	 13 	 (S[b]\NP)/NP 	 1 	 it acquire <XB>
+11 	 9 	 S[em]/S[dcl] 	 1 	 planned that
+12 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to planned
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+14 	 13 	 (S[b]\NP)/NP 	 2 	 Emhart acquire
+<\s>
+<s id="wsj_0807.19"> 18
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 company maintains
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that maintains
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it does
+4 	 7 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 it expect <XB>
+5 	 3 	 S[em]/S[dcl] 	 1 	 does that
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 does n't
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 expect does
+8 	 7 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 Emhart expect
+8 	 10 	 (S[b]\NP)/PP 	 1 	 Emhart contribute <XB>
+9 	 7 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 contribute to
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 contribute for
+11 	 10 	 (S[b]\NP)/PP 	 2 	 to contribute
+12 	 11 	 PP/NP 	 1 	 earnings to
+17 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 months for
+17 	 14 	 NP/NP 	 1 	 months about
+17 	 15 	 NP[nb]/N 	 1 	 months another
+17 	 16 	 N/N 	 1 	 months 12
+<\s>
+<s id="wsj_0807.20"> 22
+2 	 0 	 (S/S)/NP 	 2 	 trading In
+2 	 1 	 N/N 	 1 	 trading composite
+2 	 3 	 (NP\NP)/NP 	 1 	 trading on
+8 	 3 	 (NP\NP)/NP 	 2 	 Exchange on
+8 	 4 	 NP[nb]/N 	 1 	 Exchange the
+8 	 5 	 N/N 	 1 	 Exchange New
+8 	 6 	 N/N 	 1 	 Exchange York
+8 	 7 	 N/N 	 1 	 Exchange Stock
+12 	 10 	 N/N 	 1 	 Decker Black
+12 	 11 	 N/N 	 1 	 Decker &
+12 	 13 	 (S[dcl]\NP)/PP 	 1 	 Decker closed
+13 	 0 	 (S/S)/NP 	 1 	 closed In
+13 	 17 	 (S\NP)\(S\NP) 	 2 	 closed yesterday
+13 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+14 	 13 	 (S[dcl]\NP)/PP 	 2 	 at closed
+15 	 14 	 PP/NP 	 1 	 $ at
+16 	 15 	 N/N[num] 	 1 	 19.75 $
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 cents down
+21 	 20 	 N/N 	 1 	 cents 25
+<\s>
+<s id="wsj_0807.21"> 14
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 company did
+1 	 4 	 (S[b]\NP)/NP 	 1 	 company announce <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 did n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 announce did
+4 	 7 	 ((S\NP)\(S\NP))/PP 	 2 	 announce until
+6 	 4 	 (S[b]\NP)/NP 	 2 	 sale announce
+6 	 5 	 NP[nb]/N 	 1 	 sale the
+8 	 7 	 ((S\NP)\(S\NP))/PP 	 3 	 after until
+10 	 8 	 PP/NP 	 1 	 close after
+10 	 9 	 NP[nb]/N 	 1 	 close the
+10 	 11 	 (NP\NP)/NP 	 1 	 close of
+13 	 11 	 (NP\NP)/NP 	 2 	 market of
+13 	 12 	 NP[nb]/N 	 1 	 market the
+<\s>

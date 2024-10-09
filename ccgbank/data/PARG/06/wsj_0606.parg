@@ -1,0 +1,561 @@
+<s id="wsj_0606.1"> 33
+1 	 0 	 (S/S)/NP 	 2 	 what In
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 what could <XB>
+1 	 3 	 (S[b]\NP)/NP 	 1 	 what prove <XB>
+2 	 1 	 NP/(S[dcl]\NP) 	 1 	 could what
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 prove could
+6 	 3 	 (S[b]\NP)/NP 	 2 	 addition prove
+6 	 4 	 NP[nb]/N 	 1 	 addition a
+6 	 5 	 N/N 	 1 	 addition major
+6 	 7 	 (NP\NP)/NP 	 1 	 addition to
+9 	 8 	 NP[nb]/N 	 1 	 Philippines the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Philippines '
+12 	 7 	 (NP\NP)/NP 	 2 	 portfolio to
+12 	 10 	 (NP[nb]/N)\NP 	 1 	 portfolio '
+12 	 11 	 N/N 	 1 	 portfolio foreign-investment
+16 	 14 	 NP[nb]/N 	 1 	 company a
+16 	 15 	 N/N 	 1 	 company Taiwanese
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 company signed
+17 	 0 	 (S/S)/NP 	 1 	 signed In
+21 	 19 	 (N/N)/N[num] 	 2 	 million $
+21 	 20 	 N/N 	 1 	 million 180
+23 	 17 	 (S[dcl]\NP)/NP 	 2 	 contract signed
+23 	 18 	 NP[nb]/N 	 1 	 contract a
+23 	 19 	 (N/N)/N[num] 	 1 	 contract $
+23 	 22 	 N/N 	 1 	 contract construction
+23 	 25 	 (S[b]\NP)/NP 	 1 	 contract build <XB>
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+27 	 25 	 (S[b]\NP)/NP 	 2 	 centerpiece build
+27 	 26 	 NP[nb]/N 	 1 	 centerpiece the
+27 	 28 	 (NP\NP)/NP 	 1 	 centerpiece of
+32 	 28 	 (NP\NP)/NP 	 2 	 complex of
+32 	 29 	 NP[nb]/N 	 1 	 complex a
+32 	 30 	 N/N 	 1 	 complex planned
+32 	 31 	 N/N 	 1 	 complex petrochemical
+<\s>
+<s id="wsj_0606.2"> 43
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Taiwan 's
+5 	 1 	 (NP[nb]/N)\NP 	 1 	 Corp. 's
+5 	 2 	 N/N 	 1 	 Corp. USI
+5 	 3 	 N/N 	 1 	 Corp. Far
+5 	 4 	 N/N 	 1 	 Corp. East
+5 	 11 	 (S[dcl]\NP)/NP 	 1 	 Corp. initialed
+9 	 7 	 NP[nb]/N 	 1 	 company a
+9 	 8 	 N/N 	 1 	 company petrochemical
+9 	 11 	 (S[dcl]\NP)/NP 	 1 	 company initialed
+11 	 25 	 ((S\NP)\(S\NP))/PP 	 2 	 initialed according
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 agreement initialed
+13 	 12 	 NP[nb]/N 	 1 	 agreement the
+13 	 14 	 (NP\NP)/NP 	 1 	 agreement with
+18 	 14 	 (NP\NP)/NP 	 2 	 contractor with
+18 	 15 	 NP[nb]/N 	 1 	 contractor an
+18 	 16 	 N/N 	 1 	 contractor unidentified
+18 	 17 	 N/N 	 1 	 contractor Japanese
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+23 	 20 	 (S[b]\NP)/NP 	 2 	 cracker build
+23 	 21 	 NP[nb]/N 	 1 	 cracker a
+23 	 22 	 N/N 	 1 	 cracker naphtha
+26 	 25 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+28 	 26 	 PP/NP 	 1 	 Lee to
+28 	 27 	 N/N 	 1 	 Lee Alson
+28 	 30 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Lee who
+28 	 31 	 (S[dcl]\NP)/NP 	 1 	 Lee heads <XB>
+31 	 30 	 (NP\NP)/(S[dcl]\NP) 	 2 	 heads who
+34 	 31 	 (S[dcl]\NP)/NP 	 2 	 company heads
+34 	 32 	 NP[nb]/N 	 1 	 company the
+34 	 33 	 N/N 	 1 	 company Philippine
+34 	 35 	 S[pss]\NP 	 1 	 company set <XB>
+34 	 38 	 (S[b]\NP)/NP 	 1 	 company build <XB>
+34 	 40 	 (S[b]\NP)/NP 	 1 	 company operate <XU>
+35 	 36 	 (S\NP)\(S\NP) 	 2 	 set up
+38 	 37 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+40 	 37 	 (S[to]\NP)/(S[b]\NP) 	 2 	 operate to
+42 	 38 	 (S[b]\NP)/NP 	 2 	 complex build <XU>
+42 	 40 	 (S[b]\NP)/NP 	 2 	 complex operate
+42 	 41 	 NP[nb]/N 	 1 	 complex the
+<\s>
+<s id="wsj_0606.3"> 22
+1 	 0 	 N/N 	 1 	 Lee Mr.
+1 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Lee said
+3 	 4 	 (NP\NP)/NP 	 1 	 president of
+3 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 president said
+7 	 4 	 (NP\NP)/NP 	 2 	 Corp. of
+7 	 5 	 N/N 	 1 	 Corp. Luzon
+7 	 6 	 N/N 	 1 	 Corp. Petrochemical
+11 	 10 	 NP[nb]/N 	 1 	 contract the
+11 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 contract was
+11 	 13 	 (S[pss]\NP)/PP 	 1 	 contract signed <XB>
+12 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 signed was
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 signed Wednesday
+13 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 signed in
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 Tokyo in
+17 	 13 	 (S[pss]\NP)/PP 	 2 	 with signed
+21 	 17 	 PP/NP 	 1 	 officials with
+21 	 18 	 N/N 	 1 	 officials USI
+21 	 19 	 N/N 	 1 	 officials Far
+21 	 20 	 N/N 	 1 	 officials East
+<\s>
+<s id="wsj_0606.4"> 10
+1 	 0 	 N/N 	 1 	 details Contract
+1 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 details have
+1 	 8 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 details made <XB>
+1 	 9 	 S[adj]\NP 	 1 	 details public <XB>
+5 	 3 	 (S\NP)/(S\NP) 	 2 	 have however
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 have n't
+7 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+8 	 7 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 made been
+9 	 8 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 public made
+<\s>
+<s id="wsj_0606.5"> 15
+1 	 0 	 NP[nb]/N 	 1 	 complex The
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 complex is
+1 	 5 	 S[pss]\NP 	 1 	 complex located <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 located be
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 located in
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Batangas in
+7 	 12 	 ((NP\NP)\NP)/PP 	 1 	 Batangas south
+10 	 9 	 (N/N)/(N/N) 	 2 	 70 about
+11 	 10 	 N/N 	 1 	 miles 70
+11 	 12 	 ((NP\NP)\NP)/PP 	 2 	 miles south
+13 	 12 	 ((NP\NP)\NP)/PP 	 3 	 of south
+14 	 13 	 PP/NP 	 1 	 Manila of
+<\s>
+<s id="wsj_0606.6"> 25
+2 	 0 	 N/N 	 1 	 East USI
+2 	 1 	 N/N 	 1 	 East Far
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 East will
+2 	 4 	 (S[b]\NP)/NP 	 1 	 East hold <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 hold will
+4 	 13 	 ((S\NP)\(S\NP))/PP 	 2 	 hold according
+7 	 6 	 (N/N)/(N/N) 	 2 	 % 60
+8 	 4 	 (S[b]\NP)/NP 	 2 	 stake hold
+8 	 5 	 NP[nb]/N 	 1 	 stake a
+8 	 7 	 N/N 	 1 	 stake %
+8 	 9 	 (NP\NP)/NP 	 1 	 stake in
+11 	 9 	 (NP\NP)/NP 	 2 	 Petrochemical in
+11 	 10 	 N/N 	 1 	 Petrochemical Luzon
+14 	 13 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+15 	 14 	 PP/NP 	 1 	 papers to
+15 	 16 	 (S[pss]\NP)/PP 	 1 	 papers signed <XB>
+17 	 16 	 (S[pss]\NP)/PP 	 2 	 with signed
+20 	 18 	 NP[nb]/N 	 1 	 government the
+20 	 19 	 N/N 	 1 	 government Philippine
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 government 's
+22 	 17 	 PP/NP 	 1 	 Board with
+22 	 21 	 (NP[nb]/N)\NP 	 1 	 Board 's
+22 	 23 	 (NP\NP)/NP 	 1 	 Board of
+24 	 23 	 (NP\NP)/NP 	 2 	 Investments of
+<\s>
+<s id="wsj_0606.7"> 22
+3 	 0 	 NP[nb]/N 	 1 	 plant The
+3 	 1 	 N/N 	 1 	 plant proposed
+3 	 2 	 N/N 	 1 	 plant petrochemical
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plant would
+3 	 5 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 plant use <XB>
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 use would
+6 	 5 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 naphtha use
+6 	 8 	 (S[b]\NP)/NP 	 1 	 naphtha manufacture <XB>
+7 	 5 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to use
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 manufacture to
+11 	 8 	 (S[b]\NP)/NP 	 2 	 propylene manufacture
+11 	 9 	 NP[nb]/N 	 1 	 propylene the
+11 	 10 	 N/N 	 1 	 propylene petrochemicals
+13 	 8 	 (S[b]\NP)/NP 	 2 	 ethylene manufacture
+13 	 9 	 NP[nb]/N 	 1 	 ethylene the
+13 	 10 	 N/N 	 1 	 ethylene petrochemicals
+17 	 8 	 (S[b]\NP)/NP 	 2 	 derivatives manufacture
+17 	 15 	 NP[nb]/N 	 1 	 derivatives their
+17 	 16 	 N/N 	 1 	 derivatives resin
+19 	 8 	 (S[b]\NP)/NP 	 2 	 polypropylene manufacture
+21 	 8 	 (S[b]\NP)/NP 	 2 	 polyethylene manufacture
+<\s>
+<s id="wsj_0606.8"> 9
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 These are
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 materials are
+4 	 2 	 NP[nb]/N 	 1 	 materials the
+4 	 3 	 N/N 	 1 	 materials raw
+4 	 5 	 (S[pss]\NP)/PP 	 1 	 materials used <XB>
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 in used
+7 	 6 	 PP/(S[ng]\NP) 	 1 	 making in
+8 	 7 	 (S[ng]\NP)/NP 	 2 	 plastics making
+<\s>
+<s id="wsj_0606.9"> 12
+2 	 0 	 NP[nb]/N 	 1 	 signing The
+2 	 1 	 N/N 	 1 	 signing contract
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 signing represented
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 step represented
+6 	 4 	 NP[nb]/N 	 1 	 step a
+6 	 5 	 N/N 	 1 	 step major
+6 	 7 	 (NP\NP)/NP 	 1 	 step in
+11 	 7 	 (NP\NP)/NP 	 2 	 project in
+11 	 8 	 NP[nb]/N 	 1 	 project the
+11 	 9 	 N/N 	 1 	 project long-planned
+11 	 10 	 N/N 	 1 	 project petrochemical
+<\s>
+<s id="wsj_0606.10"> 28
+3 	 0 	 (S/S)/NP 	 2 	 $ At
+3 	 1 	 NP[nb]/N 	 1 	 $ an
+3 	 2 	 N/N 	 1 	 $ estimated
+5 	 3 	 N/N[num] 	 1 	 million $
+5 	 4 	 N/N 	 1 	 million 360
+8 	 7 	 NP[nb]/N 	 1 	 project the
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 project would
+8 	 10 	 (S[b]\NP)/NP 	 1 	 project represent <XB>
+9 	 0 	 (S/S)/NP 	 1 	 would At
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 represent would
+15 	 10 	 (S[b]\NP)/NP 	 2 	 investment represent
+15 	 11 	 NP[nb]/N 	 1 	 investment the
+15 	 12 	 N/N 	 1 	 investment single
+15 	 13 	 N/N 	 1 	 investment largest
+15 	 14 	 N/N 	 1 	 investment foreign
+15 	 16 	 (NP\NP)/NP 	 1 	 investment in
+15 	 19 	 (NP\NP)/S[dcl] 	 1 	 investment since
+18 	 16 	 (NP\NP)/NP 	 2 	 Philippines in
+18 	 17 	 NP[nb]/N 	 1 	 Philippines the
+22 	 20 	 N/N 	 1 	 Aquino President
+22 	 21 	 N/N 	 1 	 Aquino Corazon
+22 	 23 	 (S[dcl]\NP)/NP 	 1 	 Aquino took
+23 	 19 	 (NP\NP)/S[dcl] 	 2 	 took since
+23 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 took in
+24 	 23 	 (S[dcl]\NP)/NP 	 2 	 office took
+26 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 February in
+26 	 27 	 N\N 	 1 	 February 1986
+<\s>
+<s id="wsj_0606.11"> 22
+0 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 It is
+0 	 3 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 It considered <XB>
+0 	 4 	 (S[adj]\NP)/PP 	 1 	 It critical <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 is also
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 considered is
+4 	 3 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 critical considered
+5 	 4 	 (S[adj]\NP)/PP 	 2 	 to critical
+7 	 6 	 NP[nb]/N 	 1 	 country the
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 country 's
+9 	 5 	 PP/NP 	 1 	 efforts to
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 efforts 's
+9 	 12 	 ((S[b]\NP)/PP)/NP 	 1 	 efforts attract <XB>
+9 	 18 	 (S[b]\NP)/NP 	 1 	 efforts raise <XU>
+12 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 attract to
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 attract both
+14 	 12 	 ((S[b]\NP)/PP)/NP 	 3 	 investment attract
+14 	 13 	 N/N 	 1 	 investment other
+15 	 12 	 ((S[b]\NP)/PP)/NP 	 2 	 from attract
+16 	 15 	 PP/NP 	 1 	 Taiwan from
+18 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 raise to
+18 	 11 	 (S\NP)/(S\NP) 	 2 	 raise both
+21 	 18 	 (S[b]\NP)/NP 	 2 	 capabilities raise
+21 	 19 	 N/N 	 1 	 capabilities heavy
+21 	 20 	 N/N 	 1 	 capabilities industry
+<\s>
+<s id="wsj_0606.12"> 15
+1 	 0 	 NP[nb]/N 	 1 	 project The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 project has
+1 	 3 	 (S[pt]\NP)/PP 	 1 	 project been <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+3 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 been for
+7 	 3 	 (S[pt]\NP)/PP 	 2 	 of been
+7 	 4 	 PP/PP 	 1 	 of in <XU>
+7 	 6 	 PP/PP 	 1 	 of out
+9 	 7 	 PP/NP 	 1 	 pipeline of
+9 	 8 	 NP[nb]/N 	 1 	 pipeline the
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 more for
+11 	 12 	 (NP\NP)/NP 	 1 	 more than
+14 	 12 	 (NP\NP)/NP 	 2 	 decade than
+14 	 13 	 NP[nb]/N 	 1 	 decade a
+<\s>
+<s id="wsj_0606.13"> 30
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 workers ca
+2 	 5 	 (S[b]\NP)/NP 	 1 	 workers break <XB>
+3 	 0 	 S/S 	 1 	 ca However
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 ca n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 break ca
+5 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 break until
+6 	 5 	 (S[b]\NP)/NP 	 2 	 ground break
+9 	 8 	 N/N 	 1 	 maneuvers legal
+9 	 11 	 (S[b]\NP)/NP 	 1 	 maneuvers block <XB>
+9 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 maneuvers are
+9 	 15 	 S[pss]\NP 	 1 	 maneuvers resolved <XB>
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 block to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 complex block
+13 	 12 	 NP[nb]/N 	 1 	 complex the
+14 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are until
+15 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 resolved are
+17 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 moves which
+17 	 19 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 moves caused <XB>
+19 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 caused which
+21 	 19 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 signing caused
+21 	 20 	 NP[nb]/N 	 1 	 signing the
+21 	 23 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 signing remain <XB>
+21 	 24 	 S[adj]\NP 	 1 	 signing questionable <XB>
+22 	 19 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to caused
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 remain to
+23 	 25 	 ((S\NP)\(S\NP))/PP 	 2 	 remain up
+24 	 23 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 questionable remain
+26 	 25 	 ((S\NP)\(S\NP))/PP 	 3 	 to up
+29 	 26 	 PP/NP 	 1 	 moment to
+29 	 27 	 NP[nb]/N 	 1 	 moment the
+29 	 28 	 N/N 	 1 	 moment last
+<\s>
+<s id="wsj_0606.14"> 19
+2 	 0 	 (S/S)/(S[pss]\NP) 	 2 	 reported As
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 reported previously
+5 	 4 	 NP[nb]/N 	 1 	 member a
+5 	 6 	 (NP\NP)/NP 	 1 	 member of
+5 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 member has
+5 	 14 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 member sued <XB>
+5 	 16 	 (S[b]\NP)/NP 	 1 	 member stop <XB>
+8 	 7 	 NP[nb]/N 	 1 	 Philippines the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 Philippines '
+10 	 6 	 (NP\NP)/NP 	 2 	 House of
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 House '
+10 	 11 	 (NP\NP)/NP 	 1 	 House of
+12 	 11 	 (NP\NP)/NP 	 2 	 Representatives of
+13 	 0 	 (S/S)/(S[pss]\NP) 	 1 	 has As
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 sued has
+15 	 14 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to sued
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stop to
+18 	 16 	 (S[b]\NP)/NP 	 2 	 plant stop
+18 	 17 	 NP[nb]/N 	 1 	 plant the
+<\s>
+<s id="wsj_0606.16"> 19
+1 	 0 	 NP[nb]/N 	 1 	 country The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 country 's
+4 	 2 	 (NP[nb]/N)\NP 	 1 	 Court 's
+4 	 3 	 N/N 	 1 	 Court Supreme
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Court dismissed
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 suit dismissed
+7 	 6 	 NP[nb]/N 	 1 	 suit the
+11 	 10 	 N/N 	 1 	 Garcia Mr.
+11 	 15 	 (S[dcl]\NP)/PP 	 1 	 Garcia filed
+14 	 12 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 month late
+14 	 13 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 month last
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 filed month
+16 	 15 	 (S[dcl]\NP)/PP 	 2 	 for filed
+18 	 16 	 PP/NP 	 1 	 reconsideration for
+18 	 17 	 NP[nb]/N 	 1 	 reconsideration a
+<\s>
+<s id="wsj_0606.17"> 32
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+4 	 3 	 N/N 	 1 	 Aquino President
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Aquino has
+4 	 8 	 ((S[b]\NP)/NP)/PP 	 1 	 Aquino sign <XB>
+5 	 0 	 (S/S)/NP 	 1 	 has In
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 has yet
+7 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to has
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sign to
+9 	 8 	 ((S[b]\NP)/NP)/PP 	 3 	 into sign
+10 	 9 	 PP/NP 	 1 	 law into
+12 	 8 	 ((S[b]\NP)/NP)/PP 	 2 	 bill sign
+12 	 11 	 NP[nb]/N 	 1 	 bill a
+12 	 13 	 (S[ng]\NP)/NP 	 1 	 bill removing <XB>
+17 	 16 	 (N/N)/(N/N) 	 2 	 % 48
+18 	 13 	 (S[ng]\NP)/NP 	 2 	 tax removing
+18 	 14 	 NP[nb]/N 	 1 	 tax a
+18 	 15 	 N/N 	 1 	 tax stiff
+18 	 17 	 N/N 	 1 	 tax %
+18 	 19 	 (NP\NP)/NP 	 1 	 tax on
+20 	 19 	 (NP\NP)/NP 	 2 	 naphtha on
+25 	 19 	 (NP\NP)/NP 	 2 	 material on
+25 	 22 	 NP[nb]/N 	 1 	 material the
+25 	 23 	 N/N 	 1 	 material principal
+25 	 24 	 N/N 	 1 	 material raw
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+28 	 27 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+28 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 used in
+31 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 cracker in
+31 	 30 	 NP[nb]/N 	 1 	 cracker the
+<\s>
+<s id="wsj_0606.18"> 41
+5 	 2 	 (S/S)/NP 	 2 	 conference at
+5 	 3 	 NP[nb]/N 	 1 	 conference a
+5 	 4 	 N/N 	 1 	 conference news
+9 	 8 	 N/N 	 1 	 Aquino Mrs.
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 Aquino backed
+9 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 Aquino said <XU>
+10 	 0 	 S/S 	 1 	 backed However
+10 	 2 	 (S/S)/NP 	 1 	 backed at
+10 	 6 	 S/S 	 1 	 backed Thursday
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 project backed
+12 	 11 	 NP[nb]/N 	 1 	 project the
+14 	 0 	 S/S 	 1 	 said However
+14 	 2 	 (S/S)/NP 	 1 	 said at
+14 	 6 	 S/S 	 1 	 said Thursday
+16 	 15 	 NP[nb]/N 	 1 	 government her
+16 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 government was
+16 	 18 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 government attempting <XB>
+16 	 20 	 (S[b]\NP)/NP 	 1 	 government soothe <XB>
+17 	 14 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+18 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 attempting was
+19 	 18 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to attempting
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 soothe to
+22 	 20 	 (S[b]\NP)/NP 	 2 	 feelings soothe
+22 	 21 	 NP[nb]/N 	 1 	 feelings the
+22 	 23 	 (NP\NP)/NP 	 1 	 feelings of
+24 	 23 	 (NP\NP)/NP 	 2 	 residents of
+24 	 25 	 (NP\NP)/NP 	 1 	 residents at
+28 	 25 	 (NP\NP)/NP 	 2 	 site at
+28 	 26 	 NP[nb]/N 	 1 	 site the
+28 	 27 	 N/N 	 1 	 site original
+28 	 30 	 S[adj]\NP 	 1 	 site adjacent <XB>
+30 	 31 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 adjacent to
+33 	 32 	 NP[nb]/N 	 1 	 government the
+33 	 34 	 (NP[nb]/N)\NP 	 2 	 government 's
+37 	 31 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 refinery to
+37 	 34 	 (NP[nb]/N)\NP 	 1 	 refinery 's
+37 	 35 	 N/N 	 1 	 refinery major
+37 	 36 	 N/N 	 1 	 refinery petroleum
+37 	 38 	 (NP\NP)/NP 	 1 	 refinery in
+40 	 38 	 (NP\NP)/NP 	 2 	 province in
+40 	 39 	 N/N 	 1 	 province Bataan
+<\s>
+<s id="wsj_0606.19"> 45
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 We have
+0 	 2 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 1 	 We tried <XB>
+1 	 41 	 ((S[dcl]\S[dcl])\NP)/NP 	 1 	 have told
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 tried have
+4 	 2 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 3 	 best tried
+4 	 3 	 NP[nb]/N 	 1 	 best our
+4 	 6 	 ((S[b]\NP)/S[em])/NP 	 1 	 best tell <XB>
+5 	 2 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 2 	 to tried
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 tell to
+8 	 6 	 ((S[b]\NP)/S[em])/NP 	 3 	 people tell
+8 	 7 	 NP[nb]/N 	 1 	 people the
+8 	 9 	 (NP\NP)/NP 	 1 	 people in
+10 	 9 	 (NP\NP)/NP 	 2 	 Bataan in
+11 	 6 	 ((S[b]\NP)/S[em])/NP 	 2 	 that tell
+14 	 13 	 (S/S)/N 	 2 	 time this
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+15 	 18 	 S[b]\NP 	 1 	 it go <XB>
+16 	 11 	 S[em]/S[dcl] 	 1 	 will that
+16 	 12 	 S/S 	 1 	 will maybe
+16 	 13 	 (S/S)/N 	 1 	 will this
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 will not
+18 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go will
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 go to
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 them to
+24 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 we will
+24 	 26 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 we do <XB>
+25 	 23 	 S/S 	 1 	 will certainly
+25 	 41 	 ((S[dcl]\S[dcl])\NP)/NP 	 1 	 will told
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 do will
+28 	 26 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 best do
+28 	 27 	 NP[nb]/N 	 1 	 best our
+28 	 30 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 best encourage <XB>
+29 	 26 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to do
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 encourage to
+32 	 30 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 investors encourage
+32 	 31 	 N/N 	 1 	 investors other
+32 	 34 	 S[b]\NP 	 1 	 investors go <XB>
+33 	 30 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to encourage
+34 	 33 	 (S[to]\NP)/(S[b]\NP) 	 2 	 go to
+34 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 go to
+37 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 province to
+37 	 36 	 NP[nb]/N 	 1 	 province their
+40 	 39 	 N/N 	 1 	 Aquino Mrs.
+40 	 41 	 ((S[dcl]\S[dcl])\NP)/NP 	 2 	 Aquino told
+44 	 41 	 ((S[dcl]\S[dcl])\NP)/NP 	 3 	 correspondents told
+44 	 42 	 N/N 	 1 	 correspondents Manila-based
+44 	 43 	 N/N 	 1 	 correspondents foreign
+<\s>
+<s id="wsj_0606.20"> 27
+1 	 0 	 NP[nb]/N 	 1 	 project The
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 project appeared
+1 	 4 	 (S[b]\NP)/PP 	 1 	 project be <XB>
+2 	 9 	 ((S\NP)\(S\NP))/N 	 2 	 appeared this
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to appeared
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+5 	 4 	 (S[b]\NP)/PP 	 2 	 on be
+7 	 5 	 PP/NP 	 1 	 rocks on
+7 	 6 	 NP[nb]/N 	 1 	 rocks the
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 this earlier
+9 	 11 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 3 	 this when
+10 	 9 	 ((S\NP)\(S\NP))/N 	 3 	 month this
+15 	 12 	 NP[nb]/N 	 1 	 partner the
+15 	 13 	 N/N 	 1 	 partner other
+15 	 14 	 N/N 	 1 	 partner major
+15 	 16 	 (NP\NP)/NP 	 1 	 partner in
+15 	 25 	 S[dcl]\NP 	 1 	 partner backed
+18 	 16 	 (NP\NP)/NP 	 2 	 project in
+18 	 17 	 NP[nb]/N 	 1 	 project the
+23 	 20 	 N/N 	 1 	 Corp. China
+23 	 21 	 N/N 	 1 	 Corp. General
+23 	 22 	 N/N 	 1 	 Corp. Plastics
+23 	 25 	 S[dcl]\NP 	 1 	 Corp. backed
+25 	 11 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 4 	 backed when
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 backed out
+<\s>
+<s id="wsj_0606.21"> 19
+2 	 0 	 N/N 	 1 	 Plastics China
+2 	 1 	 N/N 	 1 	 Plastics General
+2 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Plastics was
+2 	 11 	 (S[b]\NP)/NP 	 1 	 Plastics have <XB>
+7 	 4 	 NP[nb]/N 	 1 	 manufacturer another
+7 	 5 	 N/N 	 1 	 manufacturer Taiwanese
+7 	 6 	 N/N 	 1 	 manufacturer petrochemical
+7 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 manufacturer was
+7 	 11 	 (S[b]\NP)/NP 	 1 	 manufacturer have <XB>
+10 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to was
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+14 	 13 	 (N/N)/(N/N) 	 2 	 % 40
+15 	 11 	 (S[b]\NP)/NP 	 2 	 stake have
+15 	 12 	 NP[nb]/N 	 1 	 stake a
+15 	 14 	 N/N 	 1 	 stake %
+15 	 16 	 (NP\NP)/NP 	 1 	 stake in
+18 	 16 	 (NP\NP)/NP 	 2 	 Petrochemical in
+18 	 17 	 N/N 	 1 	 Petrochemical Luzon
+<\s>
+<s id="wsj_0606.22"> 18
+3 	 2 	 N/N 	 1 	 Lee Mr.
+3 	 4 	 (S[dcl]\NP)/S[em] 	 1 	 Lee said
+4 	 0 	 S/S 	 1 	 said However
+5 	 4 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+8 	 6 	 N/N 	 1 	 East USI
+8 	 7 	 N/N 	 1 	 East Far
+8 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 East is
+8 	 10 	 (S[adj]\NP)/S[dcl] 	 1 	 East confident <XB>
+9 	 5 	 S[em]/S[dcl] 	 1 	 is that
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 confident is
+12 	 11 	 N/N 	 1 	 investors other
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 investors will
+12 	 14 	 (S[b]\NP)/NP 	 1 	 investors take <XB>
+13 	 10 	 (S[adj]\NP)/S[dcl] 	 2 	 will confident
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take will
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 take up
+17 	 14 	 (S[b]\NP)/NP 	 2 	 slack take
+17 	 16 	 NP[nb]/N 	 1 	 slack the
+<\s>
+<s id="wsj_0606.23"> 28
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+4 	 2 	 N/N 	 1 	 East USI
+4 	 3 	 N/N 	 1 	 East Far
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 East has
+4 	 6 	 ((S[pt]\NP)/PP)/PP 	 1 	 East applied <XB>
+5 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 applied has
+7 	 6 	 ((S[pt]\NP)/PP)/PP 	 3 	 to applied
+12 	 7 	 PP/NP 	 1 	 Bank to
+12 	 8 	 NP/NP 	 1 	 Bank both
+12 	 9 	 NP[nb]/N 	 1 	 Bank the
+12 	 10 	 N/N 	 1 	 Bank Asian
+12 	 11 	 N/N 	 1 	 Bank Development
+16 	 14 	 NP[nb]/N 	 1 	 Bank the
+16 	 15 	 N/N 	 1 	 Bank World
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 Bank 's
+20 	 7 	 PP/NP 	 1 	 Corp. to
+20 	 8 	 NP/NP 	 1 	 Corp. both
+20 	 17 	 (NP[nb]/N)\NP 	 1 	 Corp. 's
+20 	 18 	 N/N 	 1 	 Corp. International
+20 	 19 	 N/N 	 1 	 Corp. Finance
+21 	 6 	 ((S[pt]\NP)/PP)/PP 	 2 	 for applied
+22 	 21 	 PP/NP 	 1 	 financing for
+22 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 financing that
+22 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 financing could <XB>
+22 	 25 	 (S[b]\NP)/NP 	 1 	 financing include <XB>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 could that
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 include could
+27 	 25 	 (S[b]\NP)/NP 	 2 	 stakes include
+27 	 26 	 N/N 	 1 	 stakes equity
+<\s>

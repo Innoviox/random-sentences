@@ -1,0 +1,70 @@
+<s id="wsj_0923.1"> 28
+2 	 0 	 N/N 	 1 	 Corp. Kyle
+2 	 1 	 N/N 	 1 	 Corp. Technology
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+6 	 4 	 NP[nb]/N 	 1 	 investor a
+6 	 5 	 N/N 	 1 	 investor Seattle
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 investor has
+6 	 8 	 (S[pt]\NP)/NP 	 1 	 investor signed <XB>
+7 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 signed has
+10 	 8 	 (S[pt]\NP)/NP 	 2 	 letter signed
+10 	 9 	 NP[nb]/N 	 1 	 letter a
+10 	 11 	 (NP\NP)/NP 	 1 	 letter of
+12 	 11 	 (NP\NP)/NP 	 2 	 intent of
+12 	 14 	 ((S[b]\NP)/PP)/NP 	 1 	 intent buy <XB>
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+16 	 14 	 ((S[b]\NP)/PP)/NP 	 3 	 company buy
+16 	 15 	 NP[nb]/N 	 1 	 company the
+17 	 14 	 ((S[b]\NP)/PP)/NP 	 2 	 for buy
+19 	 17 	 PP/NP 	 1 	 $ for
+19 	 18 	 N/N 	 1 	 $ about
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 3.1
+24 	 17 	 PP/NP 	 1 	 $ for
+24 	 26 	 (NP\NP)/N 	 1 	 $ a
+25 	 24 	 N/N[num] 	 1 	 1.20 $
+27 	 26 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0923.2"> 18
+1 	 0 	 NP[nb]/N 	 1 	 investor The
+1 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 investor plans
+1 	 9 	 (S[b]\NP)/NP 	 1 	 investor run <XB>
+5 	 3 	 N/N 	 1 	 Wright Donald
+5 	 4 	 N/N 	 1 	 Wright A.
+5 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Wright plans
+5 	 9 	 (S[b]\NP)/NP 	 1 	 Wright run <XB>
+7 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 plans said
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 run to
+11 	 9 	 (S[b]\NP)/NP 	 2 	 company run
+11 	 10 	 NP[nb]/N 	 1 	 company the
+15 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 spokesman said
+15 	 14 	 NP[nb]/N 	 1 	 spokesman a
+15 	 16 	 (NP\NP)/NP 	 1 	 spokesman for
+17 	 16 	 (NP\NP)/NP 	 2 	 Kyle for
+<\s>
+<s id="wsj_0923.3"> 19
+1 	 0 	 NP[nb]/N 	 1 	 transaction The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 transaction has
+1 	 4 	 S[pss]\NP 	 1 	 transaction approved <XB>
+1 	 11 	 (S[dcl]\NP)/NP 	 1 	 transaction requires <XU>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+4 	 3 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 approved been
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 approved by
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Kyle 's
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 board by
+8 	 7 	 (NP[nb]/N)\NP 	 1 	 board 's
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 approval requires
+13 	 12 	 NP[nb]/N 	 1 	 approval the
+13 	 14 	 (NP\NP)/NP 	 1 	 approval of
+16 	 15 	 NP[nb]/N 	 1 	 company the
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 company 's
+18 	 14 	 (NP\NP)/NP 	 2 	 shareholders of
+18 	 17 	 (NP[nb]/N)\NP 	 1 	 shareholders 's
+<\s>
+<s id="wsj_0923.4"> 4
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Kyle manufactures
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 components manufactures
+3 	 2 	 N/N 	 1 	 components electronic
+<\s>

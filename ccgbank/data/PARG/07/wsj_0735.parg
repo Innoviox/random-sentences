@@ -1,0 +1,306 @@
+<s id="wsj_0735.1"> 22
+4 	 0 	 NP[nb]/N 	 1 	 Board The
+4 	 1 	 N/N 	 1 	 Board Financial
+4 	 2 	 N/N 	 1 	 Board Accounting
+4 	 3 	 N/N 	 1 	 Board Standards
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Board said
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+6 	 9 	 (S[b]\NP)/NP 	 1 	 it issue <XB>
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 will soon
+9 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 issue will
+11 	 9 	 (S[b]\NP)/NP 	 2 	 rule issue
+11 	 10 	 NP[nb]/N 	 1 	 rule a
+11 	 12 	 (S[ng]\NP)/NP 	 1 	 rule requiring <XB>
+13 	 12 	 (S[ng]\NP)/NP 	 2 	 disclosure requiring
+13 	 14 	 (NP\NP)/NP 	 1 	 disclosure about
+17 	 14 	 (NP\NP)/NP 	 2 	 risk about
+17 	 15 	 NP[nb]/N 	 1 	 risk the
+17 	 16 	 N/N 	 1 	 risk financial
+17 	 18 	 (NP\NP)/NP 	 1 	 risk of
+21 	 18 	 (NP\NP)/NP 	 2 	 instruments of
+21 	 19 	 N/N 	 1 	 instruments certain
+21 	 20 	 N/N 	 1 	 instruments financial
+<\s>
+<s id="wsj_0735.2"> 34
+4 	 1 	 NP[nb]/N 	 1 	 body the
+4 	 2 	 N/N 	 1 	 body chief
+4 	 3 	 N/N 	 1 	 body rule-making
+4 	 5 	 (NP\NP)/NP 	 1 	 body for
+4 	 7 	 (S[dcl]\NP)/PP 	 1 	 body backed
+6 	 5 	 (NP\NP)/NP 	 2 	 accountants for
+7 	 0 	 S/S 	 1 	 backed But
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 off backed
+10 	 8 	 PP/NP 	 1 	 part off
+10 	 9 	 N/N 	 1 	 part one
+10 	 11 	 (NP\NP)/NP 	 1 	 part of
+10 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 part that
+10 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 part would <XB>
+10 	 22 	 (S[pt]\NP)/NP 	 1 	 part required <XB>
+14 	 11 	 (NP\NP)/NP 	 2 	 proposal of
+14 	 12 	 NP[nb]/N 	 1 	 proposal its
+14 	 13 	 N/N 	 1 	 proposal original
+14 	 15 	 S[pss]\NP 	 1 	 proposal made <XB>
+15 	 17 	 ((S\NP)\(S\NP))/N 	 2 	 made this
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 this earlier
+18 	 17 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+22 	 21 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 required have
+24 	 22 	 (S[pt]\NP)/NP 	 2 	 breakdown required
+24 	 23 	 NP[nb]/N 	 1 	 breakdown a
+24 	 25 	 (NP\NP)/NP 	 1 	 breakdown of
+28 	 25 	 (NP\NP)/NP 	 2 	 items of
+28 	 26 	 N/N 	 1 	 items certain
+28 	 27 	 N/N 	 1 	 items balance-sheet
+28 	 29 	 (S[pss]\NP)/PP 	 1 	 items related <XB>
+30 	 29 	 (S[pss]\NP)/PP 	 2 	 to related
+33 	 30 	 PP/NP 	 1 	 instruments to
+33 	 31 	 N/N 	 1 	 instruments off-balance
+33 	 32 	 N/N 	 1 	 instruments sheet
+<\s>
+<s id="wsj_0735.3"> 26
+2 	 0 	 NP[nb]/N 	 1 	 detail The
+2 	 1 	 N/N 	 1 	 detail balance-sheet
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 detail was
+2 	 4 	 S[pss]\NP 	 1 	 detail opposed <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 opposed was
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 opposed by
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 banks by
+7 	 6 	 N/N 	 1 	 banks many
+7 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 banks that
+7 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 banks felt <XB>
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 thrifts by
+9 	 6 	 N/N 	 1 	 thrifts many
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 thrifts that
+9 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 thrifts felt <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 felt that
+13 	 12 	 NP[nb]/N 	 1 	 cost the
+13 	 14 	 (NP\NP)/(S[ng]\NP) 	 1 	 cost of
+13 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 cost was
+13 	 20 	 (S[adj]\NP)/NP 	 1 	 cost worth <XB>
+15 	 14 	 (NP\NP)/(S[ng]\NP) 	 2 	 supplying of
+17 	 15 	 (S[ng]\NP)/NP 	 2 	 data supplying
+17 	 16 	 NP/NP 	 1 	 data such
+18 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 was felt
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 was n't
+20 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 worth was
+22 	 20 	 (S[adj]\NP)/NP 	 2 	 value worth
+22 	 21 	 NP[nb]/N 	 1 	 value the
+22 	 23 	 (NP\NP)/NP 	 1 	 value of
+25 	 23 	 (NP\NP)/NP 	 2 	 disclosures of
+25 	 24 	 NP[nb]/N 	 1 	 disclosures the
+<\s>
+<s id="wsj_0735.4"> 33
+3 	 0 	 (S/S)/NP 	 2 	 proposal Under
+3 	 1 	 NP[nb]/N 	 1 	 proposal the
+3 	 2 	 N/N 	 1 	 proposal initial
+6 	 5 	 (S/S)/NP 	 2 	 example for
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 banks would
+8 	 12 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 banks required <XB>
+8 	 14 	 (S[b]\NP)/NP 	 1 	 banks disclose <XB>
+9 	 0 	 (S/S)/NP 	 1 	 would Under
+9 	 5 	 (S/S)/NP 	 1 	 would for
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+11 	 10 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 been have
+12 	 11 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 required been
+13 	 12 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to required
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 disclose to
+16 	 14 	 (S[b]\NP)/NP 	 2 	 portion disclose
+16 	 15 	 NP[nb]/N 	 1 	 portion that
+16 	 17 	 (NP\NP)/NP 	 1 	 portion of
+16 	 22 	 (NP\NP)/(S[dcl]\NP) 	 1 	 portion that
+16 	 23 	 (S[dcl]\NP)/NP 	 1 	 portion reflects <XB>
+18 	 17 	 (NP\NP)/NP 	 2 	 allowances of
+18 	 19 	 (NP\NP)/NP 	 1 	 allowances for
+21 	 19 	 (NP\NP)/NP 	 2 	 losses for
+21 	 20 	 N/N 	 1 	 losses loan
+23 	 22 	 (NP\NP)/(S[dcl]\NP) 	 2 	 reflects that
+25 	 23 	 (S[dcl]\NP)/NP 	 2 	 letters reflects
+25 	 24 	 N/N 	 1 	 letters specific
+25 	 26 	 (NP\NP)/NP 	 1 	 letters of
+25 	 29 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 letters which
+27 	 26 	 (NP\NP)/NP 	 2 	 credit of
+28 	 29 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 for which
+30 	 31 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 customers had
+30 	 32 	 S[pt]\NP 	 1 	 customers defaulted <XB>
+31 	 29 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 had which
+32 	 31 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 defaulted had
+<\s>
+<s id="wsj_0735.5"> 22
+2 	 0 	 NP[nb]/N 	 1 	 rule The
+2 	 1 	 N/N 	 1 	 rule final
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rule wo
+2 	 5 	 (S[b]\NP)/NP 	 1 	 rule require <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 wo n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 require wo
+8 	 5 	 (S[b]\NP)/NP 	 2 	 breakdown require
+8 	 6 	 NP/NP 	 1 	 breakdown such
+8 	 7 	 NP[nb]/N 	 1 	 breakdown a
+8 	 9 	 (NP\NP)/NP 	 1 	 breakdown of
+8 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 breakdown which
+8 	 17 	 S[dcl]\NP 	 1 	 breakdown appears <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 allowances of
+11 	 10 	 NP[nb]/N 	 1 	 allowances the
+11 	 12 	 (NP\NP)/NP 	 1 	 allowances for
+14 	 12 	 (NP\NP)/NP 	 2 	 losses for
+14 	 13 	 N/N 	 1 	 losses loan
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 appears which
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 appears on
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 sheet on
+21 	 19 	 NP[nb]/N 	 1 	 sheet the
+21 	 20 	 N/N 	 1 	 sheet balance
+<\s>
+<s id="wsj_0735.6"> 32
+2 	 0 	 NP[nb]/N 	 1 	 rule The
+2 	 1 	 N/N 	 1 	 rule FASB
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rule will
+2 	 4 	 (S[b]\NP)/NP 	 1 	 rule cover <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cover will
+7 	 4 	 (S[b]\NP)/NP 	 2 	 instruments cover
+7 	 5 	 NP/NP 	 1 	 instruments such
+7 	 6 	 N/N 	 1 	 instruments financial
+7 	 8 	 (NP\NP)/NP 	 1 	 instruments as
+11 	 8 	 (NP\NP)/NP 	 2 	 swaps as
+11 	 9 	 N/N 	 1 	 swaps interest
+11 	 10 	 N/N 	 1 	 swaps rate
+14 	 8 	 (NP\NP)/NP 	 2 	 guarantees as
+14 	 13 	 N/N 	 1 	 guarantees financial
+19 	 8 	 (NP\NP)/NP 	 2 	 contracts as
+19 	 16 	 N/N 	 1 	 contracts foward
+19 	 17 	 N/N 	 1 	 contracts interest
+19 	 18 	 N/N 	 1 	 contracts rate
+22 	 8 	 (NP\NP)/NP 	 2 	 contracts as
+22 	 21 	 N/N 	 1 	 contracts loan
+25 	 8 	 (NP\NP)/NP 	 2 	 commitments as
+25 	 24 	 N/N 	 1 	 commitments loan
+27 	 8 	 (NP\NP)/NP 	 2 	 options as
+27 	 28 	 (S[pss]\NP)/PP 	 1 	 options written <XB>
+29 	 28 	 (S[pss]\NP)/PP 	 2 	 on written
+30 	 29 	 PP/NP 	 1 	 securites on
+30 	 31 	 S\NP 	 1 	 securites held <XB>
+<\s>
+<s id="wsj_0735.7"> 21
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 It will
+0 	 2 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 It require <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 require will
+3 	 2 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 companies require
+3 	 5 	 (S[b]\NP)/NP 	 1 	 companies spell <XB>
+4 	 2 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to require
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 spell to
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 spell out
+5 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 spell in
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 detail in
+9 	 8 	 N/N 	 1 	 detail more
+11 	 5 	 (S[b]\NP)/NP 	 2 	 polices spell
+11 	 10 	 N/N 	 1 	 polices collateral
+11 	 17 	 (NP\NP)/NP 	 1 	 polices for
+13 	 5 	 (S[b]\NP)/NP 	 2 	 concentrations spell
+13 	 14 	 (NP\NP)/NP 	 1 	 concentrations of
+13 	 17 	 (NP\NP)/NP 	 1 	 concentrations for
+16 	 14 	 (NP\NP)/NP 	 2 	 risk of
+16 	 15 	 N/N 	 1 	 risk credit
+20 	 17 	 (NP\NP)/NP 	 2 	 instruments for
+20 	 18 	 NP[nb]/N 	 1 	 instruments all
+20 	 19 	 N/N 	 1 	 instruments financial
+<\s>
+<s id="wsj_0735.8"> 57
+1 	 0 	 NP[nb]/N 	 1 	 rule The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rule will
+1 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 rule require <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 require will
+4 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 companies require
+4 	 5 	 (NP\NP)/NP 	 1 	 companies with
+4 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 companies that
+4 	 9 	 (S[dcl]\NP)/NP 	 1 	 companies have <XB>
+4 	 14 	 (S[b]\NP)/NP 	 1 	 companies disclose <XB>
+7 	 5 	 (NP\NP)/NP 	 2 	 instruments with
+7 	 6 	 N/N 	 1 	 instruments financial
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have that
+10 	 11 	 (N/N)\(N/N) 	 2 	 off-balance sheet
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 risks have
+12 	 10 	 N/N 	 1 	 risks off-balance
+13 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to require
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 disclose to
+15 	 14 	 (S[b]\NP)/NP 	 2 	 data disclose
+15 	 16 	 (NP\NP)/NP 	 1 	 data about
+18 	 16 	 (NP\NP)/NP 	 2 	 value about
+18 	 17 	 NP[nb]/N 	 1 	 value the
+18 	 21 	 (NP\NP)/NP 	 1 	 value of
+20 	 16 	 (NP\NP)/NP 	 2 	 terms about
+20 	 17 	 NP[nb]/N 	 1 	 terms the
+20 	 21 	 (NP\NP)/NP 	 1 	 terms of
+23 	 21 	 (NP\NP)/NP 	 2 	 instruments of
+23 	 22 	 NP[nb]/N 	 1 	 instruments the
+27 	 14 	 (S[b]\NP)/NP 	 2 	 loss disclose
+27 	 25 	 NP[nb]/N 	 1 	 loss any
+27 	 26 	 N/N 	 1 	 loss accounting
+27 	 28 	 (NP\NP)/(S[dcl]\NP) 	 1 	 loss that
+27 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 loss would <XB>
+27 	 30 	 S[b]\NP 	 1 	 loss occur <XB>
+29 	 28 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+30 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 occur would
+30 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 occur if
+34 	 32 	 NP[nb]/N 	 1 	 party the
+34 	 33 	 N/N 	 1 	 party outside
+34 	 35 	 S[pss]\NP 	 1 	 party involved <XB>
+34 	 39 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 party failed
+34 	 41 	 S[b]\NP 	 1 	 party perform <XB>
+35 	 36 	 ((S\NP)\(S\NP))/NP 	 2 	 involved in
+38 	 36 	 ((S\NP)\(S\NP))/NP 	 3 	 instrument in
+38 	 37 	 NP[nb]/N 	 1 	 instrument the
+39 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 failed if
+40 	 39 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to failed
+41 	 40 	 (S[to]\NP)/(S[b]\NP) 	 2 	 perform to
+45 	 44 	 NP[nb]/N 	 1 	 company the
+45 	 46 	 (NP[nb]/N)\NP 	 2 	 company 's
+47 	 14 	 (S[b]\NP)/NP 	 2 	 policy disclose
+47 	 46 	 (NP[nb]/N)\NP 	 1 	 policy 's
+47 	 48 	 (NP\NP)/(S[ng]\NP) 	 1 	 policy for
+49 	 48 	 (NP\NP)/(S[ng]\NP) 	 2 	 requiring for
+50 	 49 	 ((S[ng]\NP)/PP)/NP 	 3 	 collateral requiring
+53 	 49 	 ((S[ng]\NP)/PP)/NP 	 3 	 security requiring
+53 	 52 	 N/N 	 1 	 security other
+54 	 49 	 ((S[ng]\NP)/PP)/NP 	 2 	 for requiring
+56 	 54 	 PP/NP 	 1 	 instrument for
+56 	 55 	 NP[nb]/N 	 1 	 instrument the
+<\s>
+<s id="wsj_0735.9"> 19
+1 	 0 	 N/N 	 1 	 Miller Scott
+1 	 8 	 (S[dcl]\NP)/S[em] 	 1 	 Miller said
+6 	 3 	 NP[nb]/N 	 1 	 manager an
+6 	 4 	 N/N 	 1 	 manager FASB
+6 	 5 	 N/N 	 1 	 manager project
+6 	 8 	 (S[dcl]\NP)/S[em] 	 1 	 manager said
+9 	 8 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+12 	 10 	 NP[nb]/N 	 1 	 rule a
+12 	 11 	 N/N 	 1 	 rule final
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rule will
+12 	 15 	 S[pss]\NP 	 1 	 rule issued <XB>
+13 	 9 	 S[em]/S[dcl] 	 1 	 will that
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+15 	 14 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 issued be
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 issued before
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 end before
+18 	 17 	 N/N 	 1 	 end year
+<\s>
+<s id="wsj_0735.10"> 18
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 he noted
+2 	 0 	 S/S 	 1 	 noted But
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that noted
+7 	 4 	 NP[nb]/N 	 1 	 date the
+7 	 5 	 N/N 	 1 	 date initial
+7 	 6 	 N/N 	 1 	 date effective
+7 	 8 	 (NP\NP)/NP 	 1 	 date of
+7 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 date had
+7 	 14 	 S[pss]\NP 	 1 	 date delayed <XB>
+11 	 8 	 (NP\NP)/NP 	 2 	 proposal of
+11 	 9 	 NP[nb]/N 	 1 	 proposal the
+11 	 10 	 N/N 	 1 	 proposal earlier
+12 	 3 	 S[em]/S[dcl] 	 1 	 had that
+13 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+14 	 13 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 delayed been
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 delayed by
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 months by
+17 	 16 	 N/N 	 1 	 months six
+<\s>

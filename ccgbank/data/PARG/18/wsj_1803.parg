@@ -1,0 +1,1129 @@
+<s id="wsj_1803.1"> 20
+3 	 0 	 N/N 	 1 	 collapses Bridge
+3 	 2 	 N/N 	 1 	 collapses highway
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 collapses will
+3 	 5 	 (S[b]\NP)/NP 	 1 	 collapses disrupt <XB>
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 disrupt will
+5 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 disrupt for
+6 	 5 	 (S[b]\NP)/NP 	 2 	 truck disrupt
+6 	 10 	 (NP\NP)/NP 	 1 	 truck in
+9 	 5 	 (S[b]\NP)/NP 	 2 	 transportation disrupt
+9 	 8 	 N/N 	 1 	 transportation auto
+9 	 10 	 (NP\NP)/NP 	 1 	 transportation in
+15 	 10 	 (NP\NP)/NP 	 2 	 area in
+15 	 11 	 NP[nb]/N 	 1 	 area the
+15 	 12 	 N/N 	 1 	 area San
+15 	 13 	 N/N 	 1 	 area Francisco
+15 	 14 	 N/N 	 1 	 area Bay
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 months for
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 come to
+<\s>
+<s id="wsj_1803.2"> 35
+6 	 1 	 N/N 	 1 	 links rail
+6 	 3 	 N/N 	 1 	 links air
+6 	 5 	 N/N 	 1 	 links ocean-shipping
+6 	 7 	 (NP\NP)/NP 	 1 	 links to
+6 	 10 	 ((S[dcl]\NP)/PP)/NP 	 1 	 links escaped
+9 	 7 	 (NP\NP)/NP 	 2 	 area to
+9 	 8 	 NP[nb]/N 	 1 	 area the
+10 	 0 	 S/S 	 1 	 escaped But
+10 	 34 	 (S[dcl]\S[dcl])\NP 	 1 	 escaped said
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Tuesday 's
+13 	 10 	 ((S[dcl]\NP)/PP)/NP 	 3 	 earthquake escaped
+13 	 12 	 (NP[nb]/N)\NP 	 1 	 earthquake 's
+14 	 10 	 ((S[dcl]\NP)/PP)/NP 	 2 	 with escaped
+17 	 14 	 PP/NP 	 1 	 damage with
+17 	 15 	 N/N 	 1 	 damage only
+17 	 16 	 N/N 	 1 	 damage minor
+20 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 many are
+20 	 22 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 many expected <XB>
+20 	 25 	 S[ng]\NP 	 1 	 many operating <XB>
+21 	 34 	 (S[dcl]\S[dcl])\NP 	 1 	 are said
+22 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+23 	 22 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+25 	 24 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 operating be
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 operating normally
+25 	 27 	 (S\NP)\(S\NP) 	 2 	 operating today
+33 	 29 	 N/N 	 1 	 officials government
+33 	 31 	 N/N 	 1 	 officials corporate
+33 	 32 	 N/N 	 1 	 officials transport
+33 	 34 	 (S[dcl]\S[dcl])\NP 	 2 	 officials said
+<\s>
+<s id="wsj_1803.3"> 30
+1 	 0 	 N/N 	 1 	 traffic Air
+1 	 2 	 (NP\NP)/NP 	 1 	 traffic at
+1 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 traffic was
+1 	 8 	 (S[ng]\NP)/NP 	 1 	 traffic running <XB>
+6 	 2 	 (NP\NP)/NP 	 2 	 Airport at
+6 	 3 	 N/N 	 1 	 Airport San
+6 	 4 	 N/N 	 1 	 Airport Francisco
+6 	 5 	 N/N 	 1 	 Airport International
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 running was
+8 	 15 	 (S\NP)\(S\NP) 	 2 	 running afternoon
+10 	 9 	 (N/N)/(N/N) 	 2 	 50 about
+11 	 8 	 (S[ng]\NP)/NP 	 2 	 % running
+11 	 10 	 N/N 	 1 	 % 50
+11 	 12 	 (NP\NP)/NP 	 1 	 % of
+13 	 12 	 (NP\NP)/NP 	 2 	 normal of
+15 	 14 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 afternoon yesterday
+19 	 18 	 N/N 	 1 	 officals airport
+19 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 officals said
+21 	 22 	 (S[dcl]\NP)/NP 	 1 	 they expect
+22 	 20 	 (S[dcl]\NP)/S[dcl] 	 2 	 expect said
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 return expect
+24 	 23 	 NP[nb]/N 	 1 	 return a
+24 	 25 	 (NP\NP)/NP 	 1 	 return to
+24 	 28 	 (NP\NP)/NP 	 1 	 return by
+27 	 25 	 (NP\NP)/NP 	 2 	 operations to
+27 	 26 	 N/N 	 1 	 operations full
+29 	 28 	 (NP\NP)/NP 	 2 	 Saturday by
+<\s>
+<s id="wsj_1803.4"> 41
+2 	 0 	 NP[nb]/N 	 1 	 gateway The
+2 	 1 	 N/N 	 1 	 gateway major
+2 	 3 	 (NP\NP)/NP 	 1 	 gateway to
+2 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 gateway was
+2 	 15 	 (S[pss]\NP)/PP 	 1 	 gateway closed <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 Asia to
+6 	 7 	 (NP\NP)/NP 	 1 	 one of
+6 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 one was
+6 	 15 	 (S[pss]\NP)/PP 	 1 	 one closed <XB>
+9 	 8 	 NP[nb]/N 	 1 	 nation the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 nation 's
+13 	 7 	 (NP\NP)/NP 	 2 	 airports of
+13 	 10 	 (NP[nb]/N)\NP 	 1 	 airports 's
+13 	 11 	 N/N 	 1 	 airports 10
+13 	 12 	 N/N 	 1 	 airports busiest
+15 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 closed was
+15 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 closed from
+15 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 closed until <XU>
+16 	 15 	 (S[pss]\NP)/PP 	 2 	 to closed
+17 	 16 	 PP/NP 	 1 	 all to
+20 	 16 	 PP/NP 	 1 	 traffic to
+20 	 19 	 N/N 	 1 	 traffic emergency
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 time from
+23 	 22 	 NP[nb]/N 	 1 	 time the
+25 	 24 	 NP[nb]/N 	 1 	 quake the
+25 	 26 	 S[dcl]\NP 	 1 	 quake hit
+26 	 28 	 (S\NP)\(S\NP) 	 2 	 hit afternoon
+28 	 27 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 afternoon Tuesday
+34 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 yesterday until
+34 	 31 	 N/N 	 1 	 yesterday 6
+34 	 32 	 N/N 	 1 	 yesterday a.m.
+34 	 33 	 N/N 	 1 	 yesterday PDT
+34 	 35 	 (NP\NP)/S[dcl] 	 1 	 yesterday when
+36 	 37 	 S[dcl]\NP 	 1 	 controllers returned
+37 	 35 	 (NP\NP)/S[dcl] 	 2 	 returned when
+37 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 returned to
+40 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 tower to
+40 	 39 	 NP[nb]/N 	 1 	 tower the
+<\s>
+<s id="wsj_1803.5"> 15
+0 	 1 	 ((S\NP)\(S\NP))/NP 	 2 	 Getting to
+0 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 Getting from <XU>
+0 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 Getting in
+0 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Getting may
+0 	 10 	 (S[b]\NP)/NP 	 1 	 Getting be <XB>
+5 	 1 	 ((S\NP)\(S\NP))/NP 	 3 	 airport to <XU>
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 airport from
+5 	 4 	 NP[nb]/N 	 1 	 airport the
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 weeks in
+8 	 7 	 N/N 	 1 	 weeks coming
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+10 	 14 	 (S\NP)\(S\NP) 	 2 	 be however
+12 	 10 	 (S[b]\NP)/NP 	 2 	 problem be
+12 	 11 	 NP[nb]/N 	 1 	 problem the
+<\s>
+<s id="wsj_1803.6"> 21
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 People 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 ability 's
+2 	 4 	 S[b]\NP 	 1 	 ability drive <XB>
+2 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 ability is
+2 	 11 	 S[pss]\NP 	 1 	 ability restricted <XB>
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 drive to
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 drive throughout
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 area throughout
+8 	 6 	 NP[nb]/N 	 1 	 area the
+8 	 7 	 N/N 	 1 	 area bay
+9 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 is said
+11 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 restricted is
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 restricted greatly
+15 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 spokesman said
+15 	 14 	 NP[nb]/N 	 1 	 spokesman a
+15 	 16 	 (NP\NP)/NP 	 1 	 spokesman for
+20 	 16 	 (NP\NP)/NP 	 2 	 Association for
+20 	 17 	 NP[nb]/N 	 1 	 Association the
+20 	 18 	 N/N 	 1 	 Association American
+20 	 19 	 N/N 	 1 	 Association Automobile
+<\s>
+<s id="wsj_1803.7"> 37
+1 	 0 	 N/N 	 1 	 Schumacher Tom
+1 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 Schumacher said
+5 	 3 	 N/N 	 1 	 president executive
+5 	 4 	 N/N 	 1 	 president vice
+5 	 9 	 (NP\NP)/NP 	 1 	 president of
+5 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 president said
+8 	 7 	 N/N 	 1 	 manager general
+8 	 9 	 (NP\NP)/NP 	 1 	 manager of
+8 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 manager said
+13 	 9 	 (NP\NP)/NP 	 2 	 Association of
+13 	 10 	 NP[nb]/N 	 1 	 Association the
+13 	 11 	 N/N 	 1 	 Association California
+13 	 12 	 N/N 	 1 	 Association Trucking
+13 	 14 	 (NP\NP)/NP 	 1 	 Association in
+15 	 14 	 (NP\NP)/NP 	 2 	 Sacremento in
+19 	 18 	 NP[nb]/N 	 1 	 organization his
+19 	 20 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 organization urged
+20 	 17 	 (S[dcl]\NP)/S[dcl] 	 2 	 urged said
+22 	 20 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 firms urged
+22 	 21 	 N/N 	 1 	 firms trucking
+22 	 24 	 (S[b]\NP)/NP 	 1 	 firms halt <XB>
+23 	 20 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to urged
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 halt to
+24 	 31 	 (S\NP)\(S\NP) 	 2 	 halt yesterday
+24 	 33 	 ((S\NP)\(S\NP))/PP 	 2 	 halt except
+26 	 24 	 (S[b]\NP)/NP 	 2 	 deliveries halt
+26 	 25 	 NP[nb]/N 	 1 	 deliveries all
+26 	 27 	 (NP\NP)/NP 	 1 	 deliveries into
+30 	 27 	 (NP\NP)/NP 	 2 	 area into
+30 	 28 	 NP[nb]/N 	 1 	 area the
+30 	 29 	 N/N 	 1 	 area Bay
+34 	 33 	 ((S\NP)\(S\NP))/PP 	 3 	 for except
+36 	 34 	 PP/NP 	 1 	 supplies for
+36 	 35 	 N/N 	 1 	 supplies emergency-medical
+<\s>
+<s id="wsj_1803.8"> 10
+2 	 0 	 NP[nb]/N 	 1 	 shipments Some
+2 	 1 	 N/N 	 1 	 shipments foodstuff
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 shipments will
+2 	 5 	 S[b]\NP 	 1 	 shipments resume <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 will probably
+3 	 9 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 resume will
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 resume Thursday
+8 	 9 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_1803.9"> 23
+1 	 0 	 (S/S)/(S/S) 	 2 	 now Right
+2 	 3 	 (NP\NP)/NP 	 1 	 most of
+2 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 most are
+2 	 11 	 S[pss]\NP 	 1 	 most closed <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 roads of
+5 	 4 	 NP[nb]/N 	 1 	 roads the
+5 	 6 	 (NP\NP)/NP 	 1 	 roads into
+9 	 6 	 (NP\NP)/NP 	 2 	 area into
+9 	 7 	 NP[nb]/N 	 1 	 area the
+9 	 8 	 N/N 	 1 	 area Bay
+10 	 1 	 S/S 	 1 	 are now
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 closed are
+15 	 14 	 NP[nb]/N 	 1 	 list the
+15 	 16 	 (NP\NP)/NP 	 1 	 list of
+15 	 18 	 (S[dcl]\NP)/NP 	 1 	 list changes
+17 	 16 	 (NP\NP)/NP 	 2 	 closings of
+22 	 18 	 (S[dcl]\NP)/NP 	 2 	 minutes changes
+22 	 19 	 NP/NP 	 1 	 minutes about
+22 	 20 	 NP[nb]/N 	 1 	 minutes every
+22 	 21 	 N/N 	 1 	 minutes 20
+<\s>
+<s id="wsj_1803.10"> 24
+2 	 1 	 (N/N)/N 	 2 	 Wednesday -LCB-
+4 	 0 	 (S/S)/N 	 2 	 morning This
+4 	 1 	 (N/N)/N 	 1 	 morning -LCB-
+8 	 5 	 NP[nb]/N 	 1 	 bridge the
+8 	 6 	 N/N 	 1 	 bridge San
+8 	 7 	 N/N 	 1 	 bridge Mateo
+8 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 bridge was
+8 	 10 	 S[adj]\NP 	 1 	 bridge open <XB>
+9 	 0 	 (S/S)/N 	 1 	 was This
+9 	 23 	 (S[dcl]\S[dcl])\NP 	 1 	 was said
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 open was
+13 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 we are
+13 	 15 	 (S[pss]\NP)/S[em] 	 1 	 we informed <XB>
+14 	 12 	 S/S 	 1 	 are now
+14 	 23 	 (S[dcl]\S[dcl])\NP 	 1 	 are said
+15 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 informed are
+16 	 15 	 (S[pss]\NP)/S[em] 	 2 	 that informed
+17 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it is
+17 	 19 	 S[adj]\NP 	 1 	 it closed <XB>
+18 	 16 	 S[em]/S[dcl] 	 1 	 is that
+19 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed is
+22 	 21 	 N/N 	 1 	 Schumacher Mr.
+22 	 23 	 (S[dcl]\S[dcl])\NP 	 2 	 Schumacher said
+<\s>
+<s id="wsj_1803.11"> 24
+2 	 0 	 N/N 	 1 	 Service United
+2 	 1 	 N/N 	 1 	 Service Parcel
+2 	 4 	 NP\NP 	 1 	 Service Greenwich
+2 	 6 	 NP\NP 	 1 	 Service Conn. <XU>
+2 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Service said
+10 	 9 	 NP[nb]/N 	 1 	 operations its
+10 	 11 	 (NP\NP)/NP 	 1 	 operations in
+10 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 operations have
+10 	 18 	 S[pss]\NP 	 1 	 operations reduced <XB>
+15 	 11 	 (NP\NP)/NP 	 2 	 area in
+15 	 12 	 NP[nb]/N 	 1 	 area the
+15 	 13 	 N/N 	 1 	 area San
+15 	 14 	 N/N 	 1 	 area Francisco
+16 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 have said
+17 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+18 	 17 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 reduced been
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 reduced to
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+21 	 20 	 N/N 	 1 	 % 40
+21 	 22 	 (NP\NP)/NP 	 1 	 % of
+23 	 22 	 (NP\NP)/NP 	 2 	 normal of
+<\s>
+<s id="wsj_1803.12"> 35
+2 	 0 	 NP[nb]/N 	 1 	 spokesman A
+2 	 1 	 N/N 	 1 	 spokesman UPS
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 spokesman said
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+6 	 7 	 (NP\NP)/NP 	 1 	 none of
+6 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 none were
+6 	 17 	 S[pss]\NP 	 1 	 none damaged <XB>
+9 	 8 	 NP[nb]/N 	 1 	 company the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 company 's
+11 	 7 	 (NP\NP)/NP 	 2 	 terminals of
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 terminals 's
+13 	 7 	 (NP\NP)/NP 	 2 	 trucks of
+13 	 10 	 (NP[nb]/N)\NP 	 1 	 trucks 's
+15 	 7 	 (NP\NP)/NP 	 2 	 airplanes of
+15 	 10 	 (NP[nb]/N)\NP 	 1 	 airplanes 's
+16 	 5 	 (S/S)/S[dcl] 	 2 	 were although
+17 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 damaged were
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 damaged in
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 quake in
+20 	 19 	 NP[nb]/N 	 1 	 quake the
+23 	 22 	 N/N 	 1 	 shutdowns road
+23 	 27 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 shutdowns have
+23 	 28 	 (S[pt]\NP)/NP 	 1 	 shutdowns impeded <XB>
+26 	 25 	 N/N 	 1 	 failures power
+26 	 27 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 failures have
+26 	 28 	 (S[pt]\NP)/NP 	 1 	 failures impeded <XB>
+27 	 4 	 S[em]/S[dcl] 	 1 	 have that
+27 	 5 	 (S/S)/S[dcl] 	 1 	 have although
+28 	 27 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 impeded have
+30 	 28 	 (S[pt]\NP)/NP 	 2 	 pickup impeded
+30 	 29 	 NP[nb]/N 	 1 	 pickup its
+30 	 33 	 (NP\NP)/NP 	 1 	 pickup of
+32 	 28 	 (S[pt]\NP)/NP 	 2 	 delivery impeded
+32 	 29 	 NP[nb]/N 	 1 	 delivery its
+32 	 33 	 (NP\NP)/NP 	 1 	 delivery of
+34 	 33 	 (NP\NP)/NP 	 2 	 packages of
+<\s>
+<s id="wsj_1803.13"> 16
+1 	 0 	 NP[nb]/N 	 1 	 spokesman The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 spokesman noted
+2 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 noted for
+5 	 3 	 (N/N)/(N/N) 	 2 	 five-hour four-hour
+5 	 4 	 (N/N)/(N/N) 	 2 	 five-hour to
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 delays noted
+7 	 5 	 N/N 	 1 	 delays five-hour
+7 	 6 	 N/N 	 1 	 delays traffic
+7 	 8 	 (NP\NP)/NP 	 1 	 delays on
+12 	 8 	 (NP\NP)/NP 	 2 	 bridge on
+12 	 9 	 NP[nb]/N 	 1 	 bridge the
+12 	 10 	 N/N 	 1 	 bridge San
+12 	 11 	 N/N 	 1 	 bridge Mateo
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 example for
+<\s>
+<s id="wsj_1803.14"> 14
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+4 	 3 	 N/N 	 1 	 failures power
+4 	 5 	 ((S[dcl]\NP)/PP)/NP 	 1 	 failures prevented
+4 	 12 	 (S[ng]\NP)/NP 	 1 	 failures causing <XB>
+5 	 0 	 (S/S)/NP 	 1 	 prevented In
+8 	 5 	 ((S[dcl]\NP)/PP)/NP 	 3 	 facilities prevented
+8 	 6 	 NP[nb]/N 	 1 	 facilities its
+8 	 7 	 N/N 	 1 	 facilities package-sorting
+9 	 5 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from prevented
+10 	 9 	 PP/(S[ng]\NP) 	 1 	 operating from
+13 	 12 	 (S[ng]\NP)/NP 	 2 	 delays causing
+<\s>
+<s id="wsj_1803.15"> 27
+2 	 1 	 N/N 	 1 	 railroads freight
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 railroads reported
+3 	 0 	 S/S 	 1 	 reported But
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that reported
+5 	 6 	 (NP\NP)/NP 	 1 	 damage to
+5 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 damage was
+5 	 11 	 S[adj]\NP 	 1 	 damage minor <XB>
+8 	 6 	 (NP\NP)/NP 	 2 	 facilities to
+8 	 7 	 NP[nb]/N 	 1 	 facilities their
+9 	 4 	 S[em]/S[dcl] 	 1 	 was that
+9 	 13 	 (((S\NP)\(S\NP))/NP)/NP 	 2 	 was with
+11 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 minor was
+11 	 10 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 minor relatively
+17 	 14 	 N/N 	 1 	 Corp. Santa
+17 	 15 	 N/N 	 1 	 Corp. Fe
+17 	 16 	 N/N 	 1 	 Corp. Pacific
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+20 	 13 	 (((S\NP)\(S\NP))/NP)/NP 	 4 	 unit with
+20 	 18 	 (NP[nb]/N)\NP 	 1 	 unit 's
+20 	 19 	 N/N 	 1 	 unit rail
+23 	 13 	 (((S\NP)\(S\NP))/NP)/NP 	 3 	 affected with
+23 	 21 	 NP[nb]/N 	 1 	 affected the
+23 	 22 	 N/N 	 1 	 affected least
+23 	 24 	 (N\N)/NP 	 1 	 affected by
+26 	 24 	 (N\N)/NP 	 2 	 quake by
+26 	 25 	 NP[nb]/N 	 1 	 quake the
+<\s>
+<s id="wsj_1803.16"> 23
+1 	 0 	 N/N 	 1 	 Fe Santa
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Fe stopped
+1 	 13 	 (S[dcl]\NP)/NP 	 1 	 Fe resumed <XU>
+2 	 6 	 (S\NP)\(S\NP) 	 2 	 stopped night
+2 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 stopped while
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 trains stopped
+4 	 3 	 N/N 	 1 	 trains freight
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 night Tuesday
+9 	 8 	 NP[nb]/N 	 1 	 officials its
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 officials inspected
+10 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 inspected while
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 track inspected
+13 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 resumed at
+13 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 resumed when
+14 	 13 	 (S[dcl]\NP)/NP 	 2 	 service resumed
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 10:45 at
+16 	 17 	 N\N 	 1 	 10:45 p.m.
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 they found
+20 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 found when
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 damage found
+22 	 21 	 NP[nb]/N 	 1 	 damage no
+<\s>
+<s id="wsj_1803.17"> 27
+2 	 0 	 N/N 	 1 	 Corp. Union
+2 	 1 	 N/N 	 1 	 Corp. Pacific
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 unit 's
+5 	 4 	 N/N 	 1 	 unit rail
+5 	 6 	 (S[dcl]\NP)/S[em] 	 1 	 unit said
+7 	 6 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+9 	 8 	 (S/S)/PP 	 2 	 for except
+10 	 9 	 PP/NP 	 1 	 damage for
+10 	 11 	 (NP\NP)/NP 	 1 	 damage to
+13 	 11 	 (NP\NP)/NP 	 2 	 containers to
+13 	 12 	 N/N 	 1 	 containers shipping
+13 	 14 	 (NP\NP)/NP 	 1 	 containers in
+17 	 14 	 (NP\NP)/NP 	 2 	 yard in
+17 	 15 	 NP[nb]/N 	 1 	 yard its
+17 	 16 	 N/N 	 1 	 yard Oakland
+20 	 19 	 NP[nb]/N 	 1 	 track its
+20 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 track were
+20 	 26 	 S[adj]\NP 	 1 	 track unharmed <XB>
+22 	 19 	 NP[nb]/N 	 1 	 bridges its
+22 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 bridges were
+22 	 26 	 S[adj]\NP 	 1 	 bridges unharmed <XB>
+24 	 19 	 NP[nb]/N 	 1 	 structures its
+24 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 structures were
+24 	 26 	 S[adj]\NP 	 1 	 structures unharmed <XB>
+25 	 7 	 S[em]/S[dcl] 	 1 	 were that
+25 	 8 	 (S/S)/PP 	 1 	 were except
+26 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unharmed were
+<\s>
+<s id="wsj_1803.18"> 16
+1 	 0 	 NP[nb]/N 	 1 	 railroad That
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 railroad is
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 railroad operating <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 operating is
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 operating with
+4 	 3 	 (S[ng]\NP)/NP 	 2 	 trains operating
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 with but
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 delays with
+7 	 8 	 S[pss]\NP 	 1 	 delays caused <XB>
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 caused by
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 employees by
+10 	 11 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 employees unable <XB>
+12 	 11 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to unable
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 get to
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 work to
+<\s>
+<s id="wsj_1803.19"> 50
+3 	 0 	 N/N 	 1 	 Co. Southern
+3 	 1 	 N/N 	 1 	 Co. Pacific
+3 	 2 	 N/N 	 1 	 Co. Transportation
+3 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+6 	 5 	 NP[nb]/N 	 1 	 hardest the
+6 	 7 	 N\N 	 1 	 hardest hit
+6 	 8 	 (NP\NP)/NP 	 1 	 hardest of
+6 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 hardest said
+11 	 8 	 (NP\NP)/NP 	 2 	 railroads of
+11 	 9 	 NP[nb]/N 	 1 	 railroads the
+11 	 10 	 N/N 	 1 	 railroads three
+11 	 12 	 (NP\NP)/NP 	 1 	 railroads in
+15 	 12 	 (NP\NP)/NP 	 2 	 area in
+15 	 13 	 NP[nb]/N 	 1 	 area the
+15 	 14 	 N/N 	 1 	 area Bay
+18 	 19 	 (NP\NP)/NP 	 1 	 service on
+18 	 37 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 service was
+18 	 38 	 S[pss]\NP 	 1 	 service suspended <XB>
+22 	 19 	 (NP\NP)/NP 	 2 	 coastline on
+22 	 20 	 NP[nb]/N 	 1 	 coastline its
+22 	 21 	 N/N 	 1 	 coastline north-south
+22 	 24 	 (NP\NP)/(S[dcl]\NP) 	 1 	 coastline which
+22 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 coastline is <XB>
+22 	 26 	 S[pss]\NP 	 1 	 coastline used <XB>
+25 	 24 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+26 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 used is
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 used by
+26 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 used between
+30 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 train by
+30 	 28 	 NP[nb]/N 	 1 	 train an
+30 	 29 	 N/N 	 1 	 train Amtrak
+33 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 Angeles between
+33 	 32 	 N/N 	 1 	 Angeles Los
+35 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 Seattle between
+37 	 17 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+38 	 37 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 suspended was
+38 	 39 	 (S\NP)\(S\NP) 	 2 	 suspended temporarily
+38 	 40 	 ((S\NP)\(S\NP))/PP 	 2 	 suspended because
+41 	 40 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+43 	 41 	 PP/NP 	 1 	 rails of
+43 	 42 	 N/N 	 1 	 rails kinked
+43 	 44 	 (NP\NP)/NP 	 1 	 rails near
+46 	 44 	 (NP\NP)/NP 	 2 	 epicenter near
+46 	 45 	 NP[nb]/N 	 1 	 epicenter the
+46 	 47 	 (NP\NP)/NP 	 1 	 epicenter of
+49 	 47 	 (NP\NP)/NP 	 2 	 quake of
+49 	 48 	 NP[nb]/N 	 1 	 quake the
+<\s>
+<s id="wsj_1803.20"> 12
+1 	 2 	 (NP\NP)/NP 	 1 	 service on
+1 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 service is
+1 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 service expected <XB>
+1 	 8 	 S[b]\NP 	 1 	 service resume <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 line on
+4 	 3 	 NP[nb]/N 	 1 	 line the
+5 	 0 	 S/S 	 1 	 is But
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+7 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 resume to
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 resume by
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 noon by
+10 	 11 	 NP\NP 	 1 	 noon today
+<\s>
+<s id="wsj_1803.21"> 14
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 We had
+1 	 9 	 (S[dcl]\S[dcl])/NP 	 1 	 had said
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 damage had
+4 	 2 	 NP[nb]/N 	 1 	 damage no
+4 	 3 	 N/N 	 1 	 damage serious
+4 	 5 	 (NP\NP)/NP 	 1 	 damage on
+7 	 5 	 (NP\NP)/NP 	 2 	 railroad on
+7 	 6 	 NP[nb]/N 	 1 	 railroad the
+13 	 9 	 (S[dcl]\S[dcl])/NP 	 2 	 spokesman said
+13 	 10 	 NP[nb]/N 	 1 	 spokesman a
+13 	 11 	 N/N 	 1 	 spokesman Southern
+13 	 12 	 N/N 	 1 	 spokesman Pacific
+<\s>
+<s id="wsj_1803.22"> 18
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 We have
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 have at
+1 	 10 	 ((S\NP)\(S\NP))/PP 	 2 	 have expect
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 problem have
+3 	 2 	 NP[nb]/N 	 1 	 problem no
+3 	 4 	 (NP\NP)/NP 	 1 	 problem to
+7 	 4 	 (NP\NP)/NP 	 2 	 service to
+7 	 5 	 NP[nb]/N 	 1 	 service our
+7 	 6 	 N/N 	 1 	 service freight
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 all at
+11 	 10 	 ((S\NP)\(S\NP))/PP 	 3 	 for expect
+13 	 11 	 PP/NP 	 1 	 fact for
+13 	 12 	 NP[nb]/N 	 1 	 fact the
+14 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 businesses are
+14 	 16 	 S[pss]\NP 	 1 	 businesses shut <XB>
+15 	 13 	 N/S[dcl] 	 1 	 are fact
+16 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 shut are
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 shut down
+<\s>
+<s id="wsj_1803.23"> 19
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Amtrak said
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 it suspended
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 suspended said
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 service suspended
+5 	 4 	 N/N 	 1 	 service train
+5 	 6 	 (NP\NP)/NP 	 1 	 service into
+9 	 6 	 (NP\NP)/NP 	 2 	 station into
+9 	 7 	 NP[nb]/N 	 1 	 station its
+9 	 8 	 N/N 	 1 	 station Oakland
+9 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 station which
+9 	 12 	 (S[dcl]\NP)/NP 	 1 	 station sustained <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 sustained which
+12 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 sustained during
+15 	 12 	 (S[dcl]\NP)/NP 	 2 	 damage sustained
+15 	 13 	 N/N 	 1 	 damage heavy
+15 	 14 	 N/N 	 1 	 damage structural
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 quake during
+18 	 17 	 NP[nb]/N 	 1 	 quake the
+<\s>
+<s id="wsj_1803.24"> 21
+2 	 0 	 NP[nb]/N 	 1 	 railroad The
+2 	 1 	 N/N 	 1 	 railroad passenger
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 railroad said
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 it terminated
+4 	 11 	 ((S[ng]\NP)/(S[to]\NP))/PP 	 1 	 it relying <XB>
+4 	 15 	 (S[b]\NP)/NP 	 1 	 it ferry <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 terminated said
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 runs terminated
+7 	 6 	 NP[nb]/N 	 1 	 runs some
+7 	 8 	 (NP\NP)/NP 	 1 	 runs in
+9 	 8 	 (NP\NP)/NP 	 2 	 Sacramento in
+12 	 11 	 ((S[ng]\NP)/(S[to]\NP))/PP 	 3 	 on relying
+13 	 12 	 PP/NP 	 1 	 buses on
+14 	 11 	 ((S[ng]\NP)/(S[to]\NP))/PP 	 2 	 to relying
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 ferry to
+15 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 ferry to
+16 	 15 	 (S[b]\NP)/NP 	 2 	 passengers ferry
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 area to
+20 	 18 	 NP[nb]/N 	 1 	 area the
+20 	 19 	 N/N 	 1 	 area Bay
+<\s>
+<s id="wsj_1803.25"> 13
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Amtrak said
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it planned
+2 	 5 	 (S[b]\NP)/NP 	 1 	 it resume <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 planned said
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to planned
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 resume to
+5 	 12 	 (S\NP)\(S\NP) 	 2 	 resume yesterday
+8 	 5 	 (S[b]\NP)/NP 	 2 	 operations resume
+8 	 6 	 NP[nb]/N 	 1 	 operations some
+8 	 7 	 N/N 	 1 	 operations train
+8 	 9 	 (NP\NP)/NP 	 1 	 operations to
+10 	 9 	 (NP\NP)/NP 	 2 	 Oakland to
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 yesterday late
+<\s>
+<s id="wsj_1803.26"> 22
+1 	 0 	 N/N 	 1 	 operations Rail-transit
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 operations suffered
+2 	 6 	 ((S\NP)\(S\NP))/PP 	 2 	 suffered according
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 damage suffered
+4 	 3 	 N/N 	 1 	 damage little
+7 	 6 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+9 	 7 	 PP/NP 	 1 	 Engelken to
+9 	 8 	 N/N 	 1 	 Engelken Albert
+13 	 7 	 PP/NP 	 1 	 director to
+13 	 11 	 N/N 	 1 	 director deputy
+13 	 12 	 N/N 	 1 	 director executive
+13 	 14 	 (NP\NP)/NP 	 1 	 director of
+19 	 14 	 (NP\NP)/NP 	 2 	 Association of
+19 	 15 	 NP[nb]/N 	 1 	 Association the
+19 	 16 	 N/N 	 1 	 Association American
+19 	 17 	 N/N 	 1 	 Association Public
+19 	 18 	 N/N 	 1 	 Association Transit
+19 	 20 	 (NP\NP)/NP 	 1 	 Association in
+21 	 20 	 (NP\NP)/NP 	 2 	 Washington in
+<\s>
+<s id="wsj_1803.27"> 37
+4 	 0 	 NP[nb]/N 	 1 	 Transit The
+4 	 1 	 N/N 	 1 	 Transit Bay
+4 	 2 	 N/N 	 1 	 Transit Area
+4 	 3 	 N/N 	 1 	 Transit Rapid
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Transit withstood
+5 	 8 	 (S\NP)\(S\NP) 	 2 	 withstood perfectly
+5 	 10 	 (S[dcl]\S[dcl])/NP 	 1 	 withstood said
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 earthquake withstood
+7 	 6 	 NP[nb]/N 	 1 	 earthquake the
+12 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 Engelken said
+12 	 11 	 N/N 	 1 	 Engelken Mr.
+15 	 14 	 (S[ng]\NP)/S[em] 	 2 	 that adding
+18 	 16 	 NP[nb]/N 	 1 	 system the
+18 	 17 	 N/N 	 1 	 system rail
+18 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 system was
+18 	 20 	 (S[ng]\NP)/NP 	 1 	 system running <XB>
+18 	 31 	 ((S[b]\NP)/PP)/NP 	 1 	 system provide <XB>
+19 	 15 	 S[em]/S[dcl] 	 1 	 was that
+20 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 running was
+20 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 running during
+23 	 20 	 (S[ng]\NP)/NP 	 2 	 fleet running
+23 	 21 	 NP[nb]/N 	 1 	 fleet a
+23 	 22 	 N/N 	 1 	 fleet full
+23 	 24 	 (NP\NP)/NP 	 1 	 fleet of
+26 	 24 	 (NP\NP)/NP 	 2 	 trains of
+26 	 25 	 N/N 	 1 	 trains 45
+29 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 day during
+29 	 28 	 NP[nb]/N 	 1 	 day the
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provide to
+33 	 31 	 ((S[b]\NP)/PP)/NP 	 3 	 alternative provide
+33 	 32 	 NP[nb]/N 	 1 	 alternative an
+34 	 31 	 ((S[b]\NP)/PP)/NP 	 2 	 for provide
+36 	 34 	 PP/NP 	 1 	 travelers for
+36 	 35 	 N/N 	 1 	 travelers highway
+<\s>
+<s id="wsj_1803.28"> 13
+2 	 0 	 NP[nb]/N 	 1 	 system The
+2 	 1 	 N/N 	 1 	 system highway
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 system is
+2 	 4 	 S[pss]\NP 	 1 	 system screwed <XB>
+3 	 12 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 screwed is
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 screwed up
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 screwed by
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 earthquake by
+8 	 7 	 NP[nb]/N 	 1 	 earthquake the
+11 	 10 	 N/N 	 1 	 Engelken Mr.
+11 	 12 	 (S[dcl]\S[dcl])\NP 	 2 	 Engelken said
+<\s>
+<s id="wsj_1803.29"> 12
+2 	 0 	 NP[nb]/N 	 1 	 system The
+2 	 1 	 N/N 	 1 	 system transit
+2 	 3 	 (S[dcl]\NP)/S[qem] 	 1 	 system is
+4 	 3 	 (S[dcl]\NP)/S[qem] 	 2 	 how is
+5 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 people are
+5 	 10 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 people getting <XB>
+5 	 11 	 S[adj]\NP 	 1 	 people around <XB>
+6 	 4 	 S[qem]/S[dcl] 	 1 	 are how
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going are
+8 	 7 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+10 	 9 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 getting be
+11 	 10 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 around getting
+<\s>
+<s id="wsj_1803.30"> 18
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 He added
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that added
+4 	 3 	 N/N 	 1 	 Francisco San
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Francisco 's
+10 	 5 	 (NP[nb]/N)\NP 	 1 	 buses 's
+10 	 6 	 N/N 	 1 	 buses trolley
+10 	 7 	 N/N 	 1 	 buses cars
+10 	 9 	 N/N 	 1 	 buses trolley
+10 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 buses were
+10 	 13 	 S[ng]\NP 	 1 	 buses running <XB>
+11 	 2 	 S[em]/S[dcl] 	 1 	 were that
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 were also
+13 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 running were
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 running at
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 levels at
+17 	 15 	 N/N 	 1 	 levels full
+17 	 16 	 N/N 	 1 	 levels service
+<\s>
+<s id="wsj_1803.31"> 19
+2 	 1 	 N/N 	 1 	 delays air-traffic
+2 	 3 	 (NP\NP)/NP 	 1 	 delays in
+2 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 delays were
+2 	 7 	 S[adj]\NP 	 1 	 delays significant <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 Francisco in
+5 	 4 	 N/N 	 1 	 Francisco San
+6 	 0 	 (S/S)/S[dcl] 	 2 	 were Although
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 were yesterday
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 significant were
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they did
+10 	 13 	 (S[b]\NP)/(S[to]\NP) 	 1 	 they appear <XB>
+10 	 15 	 S[b]\NP 	 1 	 they spread <XB>
+11 	 0 	 (S/S)/S[dcl] 	 1 	 did Although
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 did n't
+13 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 appear did
+14 	 13 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to appear
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 spread to
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 spread to
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 airports to
+18 	 17 	 N/N 	 1 	 airports other
+<\s>
+<s id="wsj_1803.32"> 28
+1 	 0 	 NP[nb]/N 	 1 	 earthquake The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 earthquake shattered
+1 	 13 	 (S[dcl]\NP)/NP 	 1 	 earthquake rained <XU>
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 windows shattered
+3 	 4 	 (NP\NP)/NP 	 1 	 windows at
+7 	 5 	 N/N 	 1 	 International San
+7 	 6 	 N/N 	 1 	 International Francisco
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 International 's
+11 	 4 	 (NP\NP)/NP 	 2 	 tower at
+11 	 8 	 (NP[nb]/N)\NP 	 1 	 tower 's
+11 	 9 	 N/N 	 1 	 tower air-traffic
+11 	 10 	 N/N 	 1 	 tower control
+13 	 18 	 ((S\NP)\(S\NP))/PP 	 2 	 rained down
+14 	 13 	 (S[dcl]\NP)/NP 	 2 	 pieces rained
+14 	 15 	 (NP\NP)/NP 	 1 	 pieces of
+17 	 15 	 (NP\NP)/NP 	 2 	 ceiling of
+17 	 16 	 NP[nb]/N 	 1 	 ceiling the
+19 	 18 	 ((S\NP)\(S\NP))/PP 	 3 	 on down
+20 	 19 	 PP/NP 	 1 	 controllers on
+20 	 24 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 1 	 controllers whom
+22 	 23 	 (NP\NP)/NP 	 1 	 three of
+22 	 24 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 3 	 three whom
+25 	 24 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 2 	 suffered whom
+27 	 25 	 (S[dcl]\NP)/NP 	 2 	 injuries suffered
+27 	 26 	 N/N 	 1 	 injuries minor
+<\s>
+<s id="wsj_1803.33"> 15
+0 	 1 	 (NP\NP)/NP 	 1 	 Terminals at
+0 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Terminals were
+0 	 7 	 S[pss]\NP 	 1 	 Terminals damaged <XB>
+4 	 1 	 (NP\NP)/NP 	 2 	 International at
+4 	 2 	 N/N 	 1 	 International San
+4 	 3 	 N/N 	 1 	 International Francisco
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 were also
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 damaged were
+11 	 10 	 NP[nb]/N 	 1 	 tower the
+11 	 12 	 NP\NP 	 1 	 tower itself
+11 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 tower was
+11 	 14 	 S[adj]\NP 	 1 	 tower intact <XB>
+14 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 intact was
+<\s>
+<s id="wsj_1803.34"> 18
+1 	 0 	 (S/S)/(S/S) 	 2 	 night Tuesday
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 thousands were
+3 	 5 	 S[pss]\NP 	 1 	 thousands diverted <XB>
+3 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 thousands had <XU>
+3 	 12 	 (S[b]\NP)/(S[to]\NP) 	 1 	 thousands wait <XU>
+3 	 16 	 (S[b]\NP)/NP 	 1 	 thousands resume <XU>
+4 	 1 	 S/S 	 1 	 were night
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 diverted were
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 diverted to
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 airports to
+8 	 7 	 N/N 	 1 	 airports other
+10 	 1 	 S/S 	 1 	 had night
+11 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to had
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 wait to
+12 	 13 	 ((S\NP)\(S\NP))/N 	 2 	 wait a
+14 	 13 	 ((S\NP)\(S\NP))/N 	 3 	 day a
+15 	 12 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to wait
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 resume to
+17 	 16 	 (S[b]\NP)/NP 	 2 	 travel resume
+<\s>
+<s id="wsj_1803.35"> 51
+0 	 1 	 (NP\NP)/NP 	 1 	 Runways at
+0 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Runways were
+0 	 6 	 S[pss]\NP 	 1 	 Runways damaged <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 Francisco at
+3 	 2 	 N/N 	 1 	 Francisco San
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 were n't
+4 	 50 	 (S[dcl]\S[dcl])\NP 	 1 	 were said
+6 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 damaged were
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 traffic was
+9 	 11 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 traffic being <XB>
+9 	 12 	 (S[pss]\NP)/PP 	 1 	 traffic limited <XB>
+10 	 50 	 (S[dcl]\S[dcl])\NP 	 1 	 was said
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being was
+12 	 11 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 limited being
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 limited yesterday
+12 	 31 	 ((S\NP)\(S\NP))/S 	 2 	 limited --
+14 	 12 	 (S[pss]\NP)/PP 	 2 	 to limited
+16 	 14 	 PP/NP 	 1 	 arrivals to
+16 	 15 	 N/N 	 1 	 arrivals 27
+16 	 20 	 (NP\NP)/N 	 1 	 arrivals an
+16 	 23 	 (NP\NP)/PP 	 1 	 arrivals down
+19 	 14 	 PP/NP 	 1 	 departures to
+19 	 18 	 N/N 	 1 	 departures 27
+19 	 20 	 (NP\NP)/N 	 1 	 departures an
+19 	 23 	 (NP\NP)/PP 	 1 	 departures down
+21 	 20 	 (NP\NP)/N 	 2 	 hour an
+24 	 23 	 (NP\NP)/PP 	 2 	 from down
+25 	 24 	 PP/NP 	 1 	 33 from
+25 	 26 	 (N\N)/N 	 1 	 33 to
+25 	 28 	 (NP\NP)/N 	 1 	 33 an
+25 	 30 	 NP\NP 	 1 	 33 normally
+27 	 26 	 (N\N)/N 	 2 	 45 to
+29 	 28 	 (NP\NP)/N 	 2 	 hour an
+33 	 31 	 ((S\NP)\(S\NP))/S 	 3 	 because --
+33 	 32 	 S/S 	 1 	 because mainly
+36 	 34 	 NP[nb]/N 	 1 	 level the
+36 	 35 	 N/N 	 1 	 level noise
+36 	 37 	 (NP\NP)/NP 	 1 	 level in
+36 	 41 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 level was
+36 	 42 	 S[adj]\NP 	 1 	 level overwhelming <XB>
+40 	 37 	 (NP\NP)/NP 	 2 	 tower in
+40 	 38 	 NP[nb]/N 	 1 	 tower the
+40 	 39 	 N/N 	 1 	 tower control
+41 	 33 	 S/S[dcl] 	 1 	 was because
+41 	 43 	 ((S\NP)\(S\NP))/NP 	 2 	 was without
+42 	 41 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 overwhelming was
+45 	 43 	 ((S\NP)\(S\NP))/NP 	 3 	 windows without
+45 	 44 	 NP[nb]/N 	 1 	 windows the
+49 	 47 	 NP[nb]/N 	 1 	 spokeswoman an
+49 	 48 	 N/N 	 1 	 spokeswoman FAA
+49 	 50 	 (S[dcl]\S[dcl])\NP 	 2 	 spokeswoman said
+<\s>
+<s id="wsj_1803.36"> 28
+2 	 1 	 NP[nb]/N 	 1 	 airport the
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 airport was
+2 	 4 	 S[adj]\NP 	 1 	 airport closed <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 was While
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed was
+6 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 flights were
+6 	 8 	 S[pss]\NP 	 1 	 flights diverted <XB>
+7 	 0 	 (S/S)/S[dcl] 	 1 	 were While
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 diverted were
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 diverted to
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 airports to
+10 	 11 	 (NP\NP)/NP 	 1 	 airports in
+12 	 11 	 (NP\NP)/NP 	 2 	 Sacramento in
+14 	 11 	 (NP\NP)/NP 	 2 	 Stockton in
+16 	 11 	 (NP\NP)/NP 	 2 	 Calif. in
+18 	 11 	 (NP\NP)/NP 	 2 	 Reno in
+21 	 11 	 (NP\NP)/NP 	 2 	 Vegas in
+21 	 20 	 N/N 	 1 	 Vegas Las
+23 	 11 	 (NP\NP)/NP 	 2 	 Nev. in
+27 	 11 	 (NP\NP)/NP 	 2 	 Angeles in
+27 	 26 	 N/N 	 1 	 Angeles Los
+<\s>
+<s id="wsj_1803.37"> 45
+1 	 0 	 N/N 	 1 	 Airlines United
+1 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Airlines was
+1 	 11 	 (S[ng]\NP)/NP 	 1 	 Airlines operating <XB>
+1 	 35 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Airlines was <XB>
+1 	 36 	 (S[ng]\NP)/NP 	 1 	 Airlines causing <XB>
+5 	 3 	 NP[nb]/N 	 1 	 carrier the
+5 	 4 	 N/N 	 1 	 carrier largest
+5 	 6 	 (NP\NP)/NP 	 1 	 carrier at
+5 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 carrier was
+5 	 11 	 (S[ng]\NP)/NP 	 1 	 carrier operating <XB>
+5 	 35 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 carrier was <XB>
+5 	 36 	 (S[ng]\NP)/NP 	 1 	 carrier causing <XB>
+8 	 6 	 (NP\NP)/NP 	 2 	 Francisco at
+8 	 7 	 N/N 	 1 	 Francisco San
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 operating was
+11 	 25 	 ((S\NP)\(S\NP))/PP 	 2 	 operating because
+11 	 32 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 operating which
+13 	 12 	 (N/N)/(N/N) 	 2 	 50 only
+14 	 11 	 (S[ng]\NP)/NP 	 2 	 % operating
+14 	 13 	 N/N 	 1 	 % 50
+14 	 15 	 (NP\NP)/NP 	 1 	 % of
+18 	 15 	 (NP\NP)/NP 	 2 	 service of
+18 	 16 	 NP[nb]/N 	 1 	 service its
+18 	 17 	 N/N 	 1 	 service scheduled
+18 	 19 	 (NP\NP)/PP 	 1 	 service in
+18 	 21 	 (NP\NP)/PP 	 1 	 service out <XU>
+22 	 19 	 (NP\NP)/PP 	 2 	 of in <XU>
+22 	 21 	 (NP\NP)/PP 	 2 	 of out
+24 	 22 	 PP/NP 	 1 	 area of
+24 	 23 	 NP[nb]/N 	 1 	 area the
+26 	 25 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+27 	 26 	 PP/NP 	 1 	 damage of
+27 	 28 	 (NP\NP)/NP 	 1 	 damage to
+30 	 28 	 (NP\NP)/NP 	 2 	 terminal to
+30 	 29 	 NP[nb]/N 	 1 	 terminal its
+34 	 33 	 ((S\NP)/(S\NP))/NP 	 3 	 turn in
+35 	 32 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 was which
+35 	 33 	 ((S\NP)/(S\NP))/NP 	 2 	 was in
+36 	 35 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 causing was
+36 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 causing for
+37 	 36 	 (S[ng]\NP)/NP 	 2 	 delays causing
+39 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 travelers for
+39 	 40 	 S[pss]\NP 	 1 	 travelers headed <XB>
+40 	 41 	 ((S\NP)\(S\NP))/NP 	 2 	 headed to
+44 	 41 	 ((S\NP)\(S\NP))/NP 	 3 	 area to
+44 	 42 	 NP[nb]/N 	 1 	 area the
+44 	 43 	 N/N 	 1 	 area Bay
+<\s>
+<s id="wsj_1803.38"> 27
+2 	 0 	 NP[nb]/N 	 1 	 spokesman A
+2 	 1 	 N/N 	 1 	 spokesman United
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+4 	 5 	 (NP\NP)/NP 	 1 	 14 of
+4 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 14 were
+4 	 10 	 S[adj]\NP 	 1 	 14 unusable <XB>
+8 	 5 	 (NP\NP)/NP 	 2 	 gates of
+8 	 6 	 NP[nb]/N 	 1 	 gates its
+8 	 7 	 N/N 	 1 	 gates 21
+9 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+9 	 13 	 ((S\NP)\(S\NP))/PP 	 2 	 were because
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unusable were
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 because mainly
+14 	 13 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+16 	 14 	 PP/NP 	 1 	 damage of
+16 	 15 	 N/N 	 1 	 damage water
+16 	 17 	 S[pss]\NP 	 1 	 damage caused <XB>
+17 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 caused when
+21 	 19 	 NP[nb]/N 	 1 	 system a
+21 	 20 	 N/N 	 1 	 system sprinkler
+21 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 system was
+21 	 23 	 S[pss]\NP 	 1 	 system triggered <XB>
+22 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was when
+23 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 triggered was
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 triggered by
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 tremors by
+26 	 25 	 NP[nb]/N 	 1 	 tremors the
+<\s>
+<s id="wsj_1803.39"> 30
+2 	 0 	 NP[nb]/N 	 1 	 spokesman The
+2 	 1 	 N/N 	 1 	 spokesman United
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+4 	 5 	 (NP\NP)/NP 	 1 	 none of
+4 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 none were
+4 	 9 	 S[pss]\NP 	 1 	 none injured <XB>
+7 	 5 	 (NP\NP)/NP 	 2 	 people of
+7 	 6 	 NP[nb]/N 	 1 	 people its
+8 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 injured were
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 injured at
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 airport at
+12 	 11 	 NP[nb]/N 	 1 	 airport the
+15 	 14 	 (S/S)/NP 	 2 	 fact in
+19 	 18 	 NP[nb]/N 	 1 	 airport the
+19 	 20 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 airport was
+19 	 21 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 airport being <XB>
+19 	 22 	 S[pss]\NP 	 1 	 airport evacuated <XB>
+20 	 17 	 (S/S)/S[dcl] 	 2 	 was as
+21 	 20 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being was
+22 	 21 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 evacuated being
+22 	 24 	 (S\NP)\(S\NP) 	 2 	 evacuated night
+24 	 23 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 night Tuesday
+27 	 26 	 N/N 	 1 	 babies two
+27 	 28 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 babies were
+27 	 29 	 S[pss]\NP 	 1 	 babies born <XB>
+28 	 14 	 (S/S)/NP 	 1 	 were in
+28 	 17 	 (S/S)/S[dcl] 	 1 	 were as
+29 	 28 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 born were
+<\s>
+<s id="wsj_1803.40"> 42
+5 	 2 	 NP[nb]/N 	 1 	 counter the
+5 	 3 	 N/N 	 1 	 counter United
+5 	 4 	 N/N 	 1 	 counter ticket
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 counter was
+5 	 7 	 S[adj]\NP 	 1 	 counter active <XB>
+6 	 0 	 S/S 	 1 	 was Yesterday
+6 	 9 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 2 	 was with
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 active was
+10 	 9 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 people with
+10 	 11 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 people trying <XB>
+10 	 13 	 (S[b]\NP)/NP 	 1 	 people get <XB>
+11 	 9 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 3 	 trying with
+12 	 11 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+14 	 13 	 (S[b]\NP)/NP 	 2 	 flights get
+14 	 15 	 S[adj]\NP 	 1 	 flights out <XB>
+19 	 18 	 NP[nb]/N 	 1 	 airline the
+19 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 airline said
+21 	 22 	 (NP\NP)/NP 	 1 	 demand for
+21 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 demand was
+21 	 29 	 S[adj]\NP 	 1 	 demand active <XB>
+23 	 22 	 (NP\NP)/NP 	 2 	 seats for
+23 	 24 	 (NP\NP)/NP 	 1 	 seats into
+26 	 24 	 (NP\NP)/NP 	 2 	 city into
+26 	 25 	 NP[nb]/N 	 1 	 city the
+28 	 20 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+28 	 27 	 (S\NP)/(S\NP) 	 2 	 was also
+28 	 31 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 2 	 was with
+29 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 active was
+32 	 31 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 people with
+32 	 33 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 people trying <XB>
+32 	 35 	 S[b]\NP 	 1 	 people get <XB>
+32 	 38 	 (S[b]\NP)/NP 	 1 	 people help <XB>
+33 	 31 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 3 	 trying with
+34 	 33 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+35 	 34 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+35 	 36 	 (S\NP)\(S\NP) 	 2 	 get there
+38 	 37 	 (S[to]\NP)/(S[b]\NP) 	 2 	 help to
+39 	 38 	 (S[b]\NP)/NP 	 2 	 family help
+41 	 38 	 (S[b]\NP)/NP 	 2 	 friends help
+<\s>
+<s id="wsj_1803.41"> 20
+1 	 0 	 NP[nb]/N 	 1 	 airports The
+1 	 2 	 (NP\NP)/NP 	 1 	 airports in
+1 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 airports were
+1 	 10 	 S[adj]\NP 	 1 	 airports operational <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 Jose in
+4 	 3 	 N/N 	 1 	 Jose San
+6 	 2 	 (NP\NP)/NP 	 2 	 Oakland in
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 were both
+7 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 were by
+7 	 13 	 (S\NP)\(S\NP) 	 2 	 were yesterday
+7 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 were said
+10 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 operational were
+10 	 9 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operational fully
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 noon by
+18 	 15 	 NP[nb]/N 	 1 	 Administration the
+18 	 16 	 N/N 	 1 	 Administration Federal
+18 	 17 	 N/N 	 1 	 Administration Aviation
+18 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 Administration said
+<\s>
+<s id="wsj_1803.42"> 24
+1 	 0 	 (S/S)/NP 	 2 	 terms In
+1 	 2 	 (NP\NP)/NP 	 1 	 terms of
+3 	 2 	 (NP\NP)/NP 	 2 	 diversions of
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Denver 's
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 International 's
+8 	 7 	 N/N 	 1 	 International Stapleton
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 International may
+8 	 11 	 (S[pt]\NP)/NP 	 1 	 International experienced <XB>
+9 	 0 	 (S/S)/NP 	 1 	 may In
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have may
+11 	 10 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 experienced have
+14 	 11 	 (S[pt]\NP)/NP 	 2 	 far-flung experienced
+14 	 12 	 NP[nb]/N 	 1 	 far-flung the
+14 	 13 	 N/N 	 1 	 far-flung most
+14 	 15 	 (NP\NP)/S[dcl] 	 1 	 far-flung :
+18 	 16 	 NP[nb]/N 	 1 	 flight A
+18 	 17 	 N/N 	 1 	 flight United
+18 	 19 	 (NP\NP)/NP 	 1 	 flight from
+18 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 flight was
+18 	 22 	 S[pss]\NP 	 1 	 flight rerouted <XB>
+20 	 19 	 (NP\NP)/NP 	 2 	 Japan from
+21 	 15 	 (NP\NP)/S[dcl] 	 2 	 was :
+22 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 rerouted was
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 rerouted there
+<\s>
+<s id="wsj_1803.43"> 20
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 I think
+1 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 think said
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 that 's
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 's think
+9 	 3 	 (S[dcl]\NP)/NP 	 2 	 flight 's
+9 	 4 	 NP[nb]/N 	 1 	 flight the
+9 	 5 	 N/N 	 1 	 flight first
+9 	 6 	 N/N 	 1 	 flight nonstop
+9 	 7 	 N/N 	 1 	 flight commercial
+9 	 8 	 N/N 	 1 	 flight passenger
+9 	 10 	 (NP\NP)/NP 	 1 	 flight from
+11 	 10 	 (NP\NP)/NP 	 2 	 Japan from
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 land to
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 land here
+18 	 16 	 NP[nb]/N 	 1 	 spokesman an
+18 	 17 	 N/N 	 1 	 spokesman airport
+18 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 spokesman said
+<\s>
+<s id="wsj_1803.44"> 26
+4 	 0 	 NP[nb]/N 	 1 	 spokesman A
+4 	 1 	 N/N 	 1 	 spokesman Japan
+4 	 2 	 N/N 	 1 	 spokesman Air
+4 	 3 	 N/N 	 1 	 spokesman Lines
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+7 	 6 	 NP[nb]/N 	 1 	 flights its
+7 	 8 	 (NP\NP)/NP 	 1 	 flights into
+7 	 10 	 (NP\NP)/PP 	 1 	 flights out <XU>
+7 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 flights were
+7 	 16 	 S[pss]\NP 	 1 	 flights affected <XB>
+11 	 10 	 (NP\NP)/PP 	 2 	 of out
+13 	 8 	 (NP\NP)/NP 	 2 	 Francisco into <XU>
+13 	 11 	 PP/NP 	 1 	 Francisco of
+13 	 12 	 N/N 	 1 	 Francisco San
+14 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 were n't
+16 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 affected were
+19 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 getting was
+19 	 25 	 S[adj]\NP 	 1 	 getting difficult <XB>
+20 	 19 	 (S[ng]\NP)/NP 	 2 	 information getting
+20 	 21 	 (NP\NP)/NP 	 1 	 information about
+23 	 21 	 (NP\NP)/NP 	 2 	 operations about
+23 	 22 	 NP[nb]/N 	 1 	 operations its
+24 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+25 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 difficult was
+<\s>
+<s id="wsj_1803.45"> 15
+2 	 0 	 NP[nb]/N 	 1 	 headquarters Its
+2 	 1 	 N/N 	 1 	 headquarters telecommunications
+2 	 3 	 (NP\NP)/NP 	 1 	 headquarters in
+2 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 headquarters had
+2 	 10 	 S[pss]\NP 	 1 	 headquarters knocked <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 Burlingame in
+6 	 3 	 (NP\NP)/NP 	 2 	 Calif. in
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+10 	 9 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 knocked been
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 knocked out
+10 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 knocked since
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 quake since
+14 	 13 	 NP[nb]/N 	 1 	 quake the
+<\s>
+<s id="wsj_1803.46"> 8
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 We 're
+1 	 7 	 (S[dcl]\S[dcl])\NP 	 1 	 're said
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 in 're
+4 	 2 	 PP/NP 	 1 	 dark in
+4 	 3 	 NP[nb]/N 	 1 	 dark the
+6 	 7 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>

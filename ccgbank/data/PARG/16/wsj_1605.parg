@@ -1,0 +1,75 @@
+<s id="wsj_1605.1"> 11
+3 	 0 	 NP[nb]/N 	 1 	 editorial Your
+3 	 1 	 N/N 	 1 	 editorial Oct.
+3 	 2 	 N/N 	 1 	 editorial 5
+3 	 4 	 (NP\NP)/N 	 1 	 editorial A
+3 	 8 	 (S[dcl]\NP)/NP 	 1 	 editorial contained
+7 	 4 	 (NP\NP)/N 	 2 	 Cut A
+7 	 5 	 N/N 	 1 	 Cut Democratic
+7 	 6 	 N/N 	 1 	 Cut Tax
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 error contained
+10 	 9 	 NP[nb]/N 	 1 	 error an
+<\s>
+<s id="wsj_1605.2"> 20
+3 	 0 	 (S/S)/NP 	 2 	 paragraph In
+3 	 1 	 NP[nb]/N 	 1 	 paragraph the
+3 	 2 	 N/N 	 1 	 paragraph third
+4 	 5 	 (S[dcl]\NP)/PP 	 1 	 it referred
+5 	 0 	 (S/S)/NP 	 1 	 referred In
+6 	 5 	 (S[dcl]\NP)/PP 	 2 	 to referred
+8 	 6 	 PP/NP 	 1 	 senators to
+8 	 7 	 NP[nb]/N 	 1 	 senators the
+8 	 9 	 ((S[ng]\NP)/PP)/NP 	 1 	 senators seeking <XB>
+11 	 9 	 ((S[ng]\NP)/PP)/NP 	 3 	 suggestions seeking
+11 	 10 	 N/N 	 1 	 suggestions loophole
+12 	 9 	 ((S[ng]\NP)/PP)/NP 	 2 	 from seeking
+13 	 12 	 PP/NP 	 1 	 lobbyists from
+13 	 14 	 (NP\NP)/NP 	 1 	 lobbyists for
+16 	 14 	 (NP\NP)/NP 	 2 	 sectors for
+16 	 15 	 N/N 	 1 	 sectors various
+16 	 17 	 (NP\NP)/NP 	 1 	 sectors of
+19 	 17 	 (NP\NP)/NP 	 2 	 economy of
+19 	 18 	 NP[nb]/N 	 1 	 economy the
+<\s>
+<s id="wsj_1605.3"> 5
+1 	 0 	 (PP/NP)/NP 	 2 	 them Among
+4 	 0 	 (PP/NP)/NP 	 1 	 farmers Among
+4 	 3 	 N/N 	 1 	 farmers banana
+<\s>
+<s id="wsj_1605.4"> 12
+5 	 0 	 NP[nb]/N 	 1 	 farmers The
+5 	 1 	 N/N 	 1 	 farmers only
+5 	 2 	 N/N 	 1 	 farmers significant
+5 	 3 	 N/N 	 1 	 farmers commercial
+5 	 4 	 N/N 	 1 	 farmers banana
+5 	 6 	 (NP\NP)/NP 	 1 	 farmers in
+5 	 9 	 (S[dcl]\NP)/PP 	 1 	 farmers are
+8 	 6 	 (NP\NP)/NP 	 2 	 U.S. in
+8 	 7 	 NP[nb]/N 	 1 	 U.S. the
+10 	 9 	 (S[dcl]\NP)/PP 	 2 	 in are
+11 	 10 	 PP/NP 	 1 	 Hawaii in
+<\s>
+<s id="wsj_1605.5"> 17
+4 	 0 	 NP[nb]/N 	 1 	 Association The
+4 	 1 	 N/N 	 1 	 Association Hawaii
+4 	 2 	 N/N 	 1 	 Association Banana
+4 	 3 	 N/N 	 1 	 Association Industry
+4 	 7 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 Association which
+4 	 14 	 (S[dcl]\NP)/NP 	 1 	 Association has
+6 	 7 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 to which
+9 	 8 	 N/N 	 1 	 all nearly
+9 	 10 	 (NP\NP)/NP 	 1 	 all of
+9 	 12 	 S[dcl]\NP 	 1 	 all belong
+11 	 10 	 (NP\NP)/NP 	 2 	 them of
+12 	 7 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 belong which
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 lobbyist has
+16 	 15 	 NP[nb]/N 	 1 	 lobbyist no
+<\s>
+<s id="wsj_1605.6"> 8
+3 	 0 	 N/N 	 1 	 Sr Thomas
+3 	 1 	 N/N 	 1 	 Sr V.
+3 	 2 	 N/N 	 1 	 Sr Reese
+3 	 7 	 NP\NP 	 1 	 Sr Co
+7 	 5 	 (NP\NP)/(NP\NP) 	 2 	 Co Maui
+7 	 6 	 (NP\NP)/(NP\NP) 	 2 	 Co Banana
+<\s>

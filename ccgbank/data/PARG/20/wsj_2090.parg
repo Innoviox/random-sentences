@@ -1,0 +1,128 @@
+<s id="wsj_2090.1"> 25
+1 	 0 	 N/N 	 1 	 PLC Amstrad
+1 	 13 	 (S[dcl]\NP)/NP 	 1 	 PLC posted
+5 	 3 	 NP[nb]/N 	 1 	 maker a
+5 	 4 	 N/N 	 1 	 maker British
+5 	 6 	 (NP\NP)/NP 	 1 	 maker of
+5 	 13 	 (S[dcl]\NP)/NP 	 1 	 maker posted
+8 	 6 	 (NP\NP)/NP 	 2 	 hardware of
+8 	 7 	 N/N 	 1 	 hardware computer
+11 	 6 	 (NP\NP)/NP 	 2 	 equipment of
+11 	 10 	 N/N 	 1 	 equipment communications
+16 	 15 	 (N/N)/(N/N) 	 2 	 % 52
+17 	 13 	 (S[dcl]\NP)/NP 	 2 	 plunge posted
+17 	 14 	 NP[nb]/N 	 1 	 plunge a
+17 	 16 	 N/N 	 1 	 plunge %
+17 	 18 	 (NP\NP)/NP 	 1 	 plunge in
+17 	 21 	 (NP\NP)/NP 	 1 	 plunge for
+20 	 18 	 (NP\NP)/NP 	 2 	 profit in
+20 	 19 	 N/N 	 1 	 profit pretax
+24 	 21 	 (NP\NP)/NP 	 2 	 year for
+24 	 22 	 NP[nb]/N 	 1 	 year the
+24 	 23 	 N/N 	 1 	 year latest
+<\s>
+<s id="wsj_2090.2"> 45
+1 	 0 	 NP[nb]/N 	 1 	 # The
+1 	 4 	 (N\N)/NP 	 1 	 # -LRB-
+1 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 # was
+1 	 20 	 (S[adj]\NP)/PP 	 1 	 # down <XB>
+3 	 1 	 N/N[num] 	 1 	 million #
+3 	 2 	 N/N 	 1 	 million 76.6
+5 	 4 	 (N\N)/NP 	 2 	 $ -LRB-
+5 	 9 	 (NP\NP)/NP 	 1 	 $ in
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 120.6
+11 	 9 	 (NP\NP)/NP 	 2 	 profit in
+11 	 10 	 N/N 	 1 	 profit pretax
+11 	 12 	 (NP\NP)/NP 	 1 	 profit for
+15 	 12 	 (NP\NP)/NP 	 2 	 months for
+15 	 13 	 NP[nb]/N 	 1 	 months the
+15 	 14 	 N/N 	 1 	 months 12
+15 	 16 	 (NP\NP)/NP 	 1 	 months to
+17 	 16 	 (NP\NP)/NP 	 2 	 June to
+18 	 17 	 N/N[num] 	 1 	 30 June
+20 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 down was
+21 	 20 	 (S[adj]\NP)/PP 	 2 	 from down
+21 	 32 	 (PP\PP)\NP 	 1 	 from earlier
+22 	 21 	 PP/NP 	 1 	 # from
+22 	 25 	 (NP\NP)/NP 	 1 	 # -LRB-
+24 	 22 	 N/N[num] 	 1 	 million #
+24 	 23 	 N/N 	 1 	 million 160
+26 	 25 	 (NP\NP)/NP 	 2 	 $ -LRB-
+28 	 26 	 N/N[num] 	 1 	 million $
+28 	 27 	 N/N 	 1 	 million 252
+31 	 30 	 NP[nb]/N 	 1 	 year a
+31 	 32 	 (PP\PP)\NP 	 2 	 year earlier
+34 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 below was
+36 	 34 	 PP/NP 	 1 	 expectations below
+36 	 35 	 N/N 	 1 	 expectations market
+36 	 37 	 (NP\NP)/NP 	 1 	 expectations of
+38 	 37 	 (NP\NP)/NP 	 2 	 # of
+40 	 38 	 N/N[num] 	 1 	 million #
+40 	 39 	 N/N 	 1 	 million 80
+42 	 37 	 (NP\NP)/NP 	 2 	 # of
+44 	 42 	 N/N[num] 	 1 	 million #
+44 	 43 	 N/N 	 1 	 million 90
+<\s>
+<s id="wsj_2090.3"> 23
+1 	 0 	 NP[nb]/N 	 1 	 slump The
+1 	 2 	 (NP\NP)/NP 	 1 	 slump in
+1 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 slump which
+1 	 6 	 S[dcl]\NP 	 1 	 slump came <XB>
+1 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 slump was
+1 	 12 	 (S[pss]\NP)/PP 	 1 	 slump attributed <XB>
+3 	 2 	 (NP\NP)/NP 	 2 	 profit in
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 came which
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 came despite
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 sales despite
+9 	 8 	 N/N 	 1 	 sales steady
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 attributed was
+13 	 12 	 (S[pss]\NP)/PP 	 2 	 to attributed
+15 	 13 	 PP/NP 	 1 	 costs to
+15 	 14 	 N/N 	 1 	 costs increased
+15 	 16 	 (NP\NP)/NP 	 1 	 costs for
+17 	 16 	 (NP\NP)/NP 	 2 	 parts for
+19 	 13 	 PP/NP 	 1 	 problems to
+19 	 20 	 (NP\NP)/NP 	 1 	 problems with
+22 	 20 	 (NP\NP)/NP 	 2 	 introductions with
+22 	 21 	 N/N 	 1 	 introductions model
+<\s>
+<s id="wsj_2090.4"> 23
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Amstrad 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 profit 's
+2 	 3 	 (NP\NP)/NP 	 1 	 profit after
+2 	 5 	 S[dcl]\NP 	 1 	 profit fell
+4 	 3 	 (NP\NP)/NP 	 2 	 taxes after
+5 	 6 	 ((S\NP)\(S\NP))/N 	 2 	 fell a
+5 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+5 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+8 	 7 	 (N/N)/(N/N) 	 2 	 steep similarly
+10 	 6 	 ((S\NP)\(S\NP))/N 	 3 	 % a
+10 	 8 	 N/N 	 1 	 % steep
+10 	 9 	 N/N 	 1 	 % 51
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 # to
+15 	 13 	 N/N[num] 	 1 	 million #
+15 	 14 	 N/N 	 1 	 million 51.1
+16 	 22 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 3 	 from earlier
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 # from
+19 	 17 	 N/N[num] 	 1 	 million #
+19 	 18 	 N/N 	 1 	 million 105
+21 	 20 	 NP[nb]/N 	 1 	 year a
+21 	 22 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 4 	 year earlier
+<\s>
+<s id="wsj_2090.5"> 15
+0 	 1 	 S[dcl]\NP 	 1 	 Sales edged
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 edged up
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 edged fractionally
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 edged to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 edged from
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 # to
+7 	 5 	 N/N[num] 	 1 	 million #
+7 	 6 	 N/N 	 1 	 million 626.3
+8 	 14 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 3 	 from earlier
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 # from
+11 	 9 	 N/N[num] 	 1 	 million #
+11 	 10 	 N/N 	 1 	 million 625.4
+13 	 12 	 NP[nb]/N 	 1 	 year a
+13 	 14 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 4 	 year earlier
+<\s>

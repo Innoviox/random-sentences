@@ -1,0 +1,78 @@
+<s id="wsj_0914.1"> 12
+1 	 0 	 N/N 	 1 	 Inc. ALAMCO
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+4 	 3 	 NP[nb]/N 	 1 	 board its
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 board has
+4 	 6 	 (S[pt]\NP)/NP 	 1 	 board approved <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 approved has
+11 	 6 	 (S[pt]\NP)/NP 	 2 	 split approved
+11 	 7 	 NP[nb]/N 	 1 	 split a
+11 	 8 	 N/N 	 1 	 split 1-for-10
+11 	 9 	 N/N 	 1 	 split reverse
+11 	 10 	 N/N 	 1 	 split stock
+<\s>
+<s id="wsj_0914.2"> 30
+3 	 1 	 (N/N)/(N/N) 	 2 	 W.Va. Clarksburg
+5 	 0 	 NP[nb]/N 	 1 	 producer The
+5 	 3 	 N/N 	 1 	 producer W.Va.
+5 	 6 	 (NP\NP)/NP 	 1 	 producer of
+5 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 producer said
+7 	 6 	 (NP\NP)/NP 	 2 	 gas of
+9 	 6 	 (NP\NP)/NP 	 2 	 oil of
+12 	 13 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it wants
+13 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 wants said
+14 	 13 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 shareholders wants
+14 	 16 	 (S[b]\NP)/NP 	 1 	 shareholders approve <XB>
+15 	 13 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to wants
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 approve to
+16 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 approve because
+18 	 16 	 (S[b]\NP)/NP 	 2 	 split approve
+18 	 17 	 NP[nb]/N 	 1 	 split the
+20 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+20 	 22 	 (S[b]\NP)/NP 	 1 	 it enhance <XB>
+21 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 would because
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 enhance would
+24 	 22 	 (S[b]\NP)/NP 	 2 	 marketability enhance
+24 	 23 	 NP[nb]/N 	 1 	 marketability the
+24 	 27 	 (NP\NP)/NP 	 1 	 marketability of
+26 	 22 	 (S[b]\NP)/NP 	 2 	 trading enhance
+26 	 23 	 NP[nb]/N 	 1 	 trading the
+26 	 27 	 (NP\NP)/NP 	 1 	 trading of
+29 	 27 	 (NP\NP)/NP 	 2 	 stock of
+29 	 28 	 NP[nb]/N 	 1 	 stock the
+<\s>
+<s id="wsj_0914.3"> 34
+1 	 0 	 (S/S)/(S[pss]\NP) 	 2 	 approved If
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 approved at
+5 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 meeting at
+5 	 3 	 NP[nb]/N 	 1 	 meeting a
+5 	 4 	 N/N 	 1 	 meeting shareholder
+5 	 6 	 (NP\NP)/NP 	 1 	 meeting in
+7 	 6 	 (NP\NP)/NP 	 2 	 December in
+10 	 9 	 NP[nb]/N 	 1 	 number the
+10 	 11 	 (NP\NP)/NP 	 1 	 number of
+10 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 number would
+10 	 15 	 S[b]\NP 	 1 	 number decrease <XB>
+12 	 11 	 (NP\NP)/NP 	 2 	 shares of
+12 	 13 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+14 	 0 	 (S/S)/(S[pss]\NP) 	 1 	 would If
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 decrease would
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 decrease to
+15 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 decrease from
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 million to
+18 	 17 	 N/N 	 1 	 million five
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 million from
+21 	 20 	 N/N 	 1 	 million 50
+25 	 24 	 N/N 	 1 	 value par
+25 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 value would
+25 	 27 	 S[b]\NP 	 1 	 value rise <XB>
+26 	 0 	 (S/S)/(S[pss]\NP) 	 1 	 would If
+27 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 rise would
+27 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 rise to
+27 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 rise from
+30 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+30 	 29 	 N/N 	 1 	 cents 10
+33 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 penny from
+33 	 32 	 NP[nb]/N 	 1 	 penny a
+<\s>

@@ -1,0 +1,456 @@
+<s id="wsj_1575.1"> 40
+2 	 0 	 N/N 	 1 	 Inc. Rorer
+2 	 1 	 N/N 	 1 	 Inc. Group
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Inc. will
+2 	 4 	 (S[b]\NP)/S[em] 	 1 	 Inc. report <XB>
+3 	 39 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 report will
+5 	 4 	 (S[b]\NP)/S[em] 	 2 	 that report
+7 	 6 	 N/N 	 1 	 profit third-quarter
+7 	 8 	 S[dcl]\NP 	 1 	 profit rose
+7 	 16 	 (S[adj]\NP)\NP 	 1 	 profit earlier <XB>
+8 	 5 	 S[em]/S[dcl] 	 1 	 rose that
+8 	 12 	 (S\NP)\(S\NP) 	 2 	 rose %
+8 	 13 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 rose from
+8 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 rose though
+9 	 10 	 ((((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))))\(S[adj]\NP) 	 5 	 more than
+11 	 10 	 ((((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))))\(S[adj]\NP) 	 4 	 15 than
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 15
+15 	 14 	 NP[nb]/N 	 1 	 year a
+15 	 16 	 (S[adj]\NP)\NP 	 2 	 year earlier
+16 	 13 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 earlier from
+20 	 19 	 NP[nb]/N 	 1 	 gain the
+20 	 21 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 gain is
+20 	 23 	 (S[adj]\NP)/PP 	 1 	 gain due <XB>
+21 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is though
+23 	 21 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 due is
+23 	 22 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 due wholly
+24 	 23 	 (S[adj]\NP)/PP 	 2 	 to due
+26 	 24 	 PP/NP 	 1 	 sales to
+26 	 25 	 N/N 	 1 	 sales asset
+29 	 28 	 N/N 	 1 	 Cawthorn Robert
+29 	 39 	 (S[dcl]\S[dcl])\NP 	 2 	 Cawthorn said
+31 	 39 	 (S[dcl]\S[dcl])\NP 	 2 	 chairman said
+33 	 39 	 (S[dcl]\S[dcl])\NP 	 2 	 president said
+37 	 35 	 N/N 	 1 	 officer chief
+37 	 36 	 N/N 	 1 	 officer executive
+37 	 39 	 (S[dcl]\S[dcl])\NP 	 2 	 officer said
+<\s>
+<s id="wsj_1575.2"> 36
+1 	 0 	 NP[nb]/N 	 1 	 projection His
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 projection indicates
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 profit indicates
+3 	 4 	 (NP\NP)/NP 	 1 	 profit in
+3 	 8 	 (NP\NP)/NP 	 1 	 profit of
+7 	 4 	 (NP\NP)/NP 	 2 	 quarter in
+7 	 5 	 NP[nb]/N 	 1 	 quarter the
+7 	 6 	 N/N 	 1 	 quarter latest
+9 	 10 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+11 	 8 	 (NP\NP)/NP 	 2 	 $ of
+11 	 10 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+11 	 21 	 (NP\NP)/PP 	 1 	 $ compared
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 17.4
+17 	 8 	 (NP\NP)/NP 	 2 	 cents of
+17 	 16 	 N/N 	 1 	 cents 55
+17 	 18 	 (NP\NP)/N 	 1 	 cents a
+17 	 21 	 (NP\NP)/PP 	 1 	 cents compared
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+22 	 21 	 (NP\NP)/PP 	 2 	 with compared
+23 	 22 	 PP/NP 	 1 	 $ with
+23 	 35 	 (NP\NP)\NP 	 1 	 $ ago
+25 	 23 	 N/N[num] 	 1 	 million $
+25 	 24 	 N/N 	 1 	 million 15.2
+29 	 22 	 PP/NP 	 1 	 cents with
+29 	 28 	 N/N 	 1 	 cents 48
+29 	 30 	 (NP\NP)/N 	 1 	 cents a
+29 	 35 	 (NP\NP)\NP 	 1 	 cents ago
+31 	 30 	 (NP\NP)/N 	 2 	 share a
+34 	 33 	 NP[nb]/N 	 1 	 year a
+34 	 35 	 (NP\NP)\NP 	 2 	 year ago
+<\s>
+<s id="wsj_1575.3"> 22
+1 	 0 	 N/N 	 1 	 Cawthorn Mr.
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Cawthorn said
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 said in
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 interview in
+5 	 4 	 NP[nb]/N 	 1 	 interview an
+6 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 sales will
+7 	 9 	 (S[b]\NP)/NP 	 1 	 sales show <XB>
+8 	 6 	 S[em]/S[dcl] 	 1 	 will that
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 show will
+11 	 9 	 (S[b]\NP)/NP 	 2 	 increase show
+11 	 10 	 NP[nb]/N 	 1 	 increase an
+11 	 12 	 (NP\NP)/(S[adj]\NP) 	 1 	 increase from
+11 	 16 	 (NP\NP)/NP 	 1 	 increase of
+14 	 13 	 NP[nb]/N 	 1 	 year a
+14 	 15 	 (S[adj]\NP)\NP 	 2 	 year ago
+15 	 12 	 (NP\NP)/(S[adj]\NP) 	 2 	 ago from
+18 	 17 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 less somewhat
+18 	 19 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 less than
+20 	 19 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 10 than
+21 	 16 	 (NP\NP)/NP 	 2 	 % of
+21 	 20 	 N/N 	 1 	 % 10
+<\s>
+<s id="wsj_1575.4"> 18
+4 	 0 	 (S/S)/NP 	 2 	 months Through
+4 	 1 	 NP[nb]/N 	 1 	 months the
+4 	 2 	 N/N 	 1 	 months first
+4 	 3 	 N/N 	 1 	 months six
+4 	 5 	 (NP\NP)/NP 	 1 	 months of
+6 	 5 	 (NP\NP)/NP 	 2 	 1989 of
+8 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 sales had
+8 	 10 	 S[pt]\NP 	 1 	 sales grown <XB>
+9 	 0 	 (S/S)/NP 	 1 	 had Through
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 grown had
+10 	 13 	 (S\NP)\(S\NP) 	 2 	 grown %
+10 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 grown from
+12 	 11 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))) 	 4 	 12 about
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 12
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 period from
+17 	 15 	 NP[nb]/N 	 1 	 period the
+17 	 16 	 N/N 	 1 	 period year-earlier
+<\s>
+<s id="wsj_1575.5"> 23
+0 	 1 	 (NP\NP)/NP 	 1 	 Growth of
+0 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Growth would
+0 	 5 	 ((S[b]\NP)/NP)/NP 	 1 	 Growth make <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 % of
+3 	 2 	 N/N 	 1 	 % 10
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make would
+6 	 5 	 ((S[b]\NP)/NP)/NP 	 3 	 sales make
+6 	 7 	 (NP\NP)/NP 	 1 	 sales for
+10 	 7 	 (NP\NP)/NP 	 2 	 quarter for
+10 	 8 	 NP[nb]/N 	 1 	 quarter the
+10 	 9 	 N/N 	 1 	 quarter latest
+11 	 5 	 ((S[b]\NP)/NP)/NP 	 2 	 $ make
+11 	 15 	 (NP\NP)/PP 	 1 	 $ compared
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 269
+16 	 15 	 (NP\NP)/PP 	 2 	 with compared
+17 	 16 	 PP/NP 	 1 	 $ with
+17 	 22 	 (NP\NP)\NP 	 1 	 $ ago
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 244.6
+21 	 20 	 NP[nb]/N 	 1 	 year a
+21 	 22 	 (NP\NP)\NP 	 2 	 year ago
+<\s>
+<s id="wsj_1575.6"> 19
+1 	 0 	 N/N 	 1 	 Cawthorn Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Cawthorn said
+5 	 3 	 NP[nb]/N 	 1 	 growth the
+5 	 4 	 N/N 	 1 	 growth profit
+5 	 6 	 (NP\NP)/NP 	 1 	 growth in
+5 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 growth was
+5 	 11 	 (S[adj]\NP)/PP 	 1 	 growth due <XB>
+9 	 6 	 (NP\NP)/NP 	 2 	 quarter in
+9 	 7 	 NP[nb]/N 	 1 	 quarter the
+9 	 8 	 N/N 	 1 	 quarter latest
+10 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+11 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 due was
+12 	 11 	 (S[adj]\NP)/PP 	 2 	 to due
+14 	 12 	 PP/NP 	 1 	 sale to
+14 	 13 	 NP[nb]/N 	 1 	 sale the
+14 	 15 	 (NP\NP)/NP 	 1 	 sale of
+18 	 15 	 (NP\NP)/NP 	 2 	 drugs of
+18 	 16 	 N/N 	 1 	 drugs two
+18 	 17 	 N/N 	 1 	 drugs Rorer
+<\s>
+<s id="wsj_1575.7"> 12
+0 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Asilone was
+0 	 6 	 (S[pss]\NP)/PP 	 1 	 Asilone sold <XB>
+3 	 2 	 NP[nb]/N 	 1 	 antacid an
+3 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 antacid was
+3 	 6 	 (S[pss]\NP)/PP 	 1 	 antacid sold <XB>
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sold was
+7 	 6 	 (S[pss]\NP)/PP 	 2 	 to sold
+9 	 7 	 PP/NP 	 1 	 PLC to
+9 	 8 	 N/N 	 1 	 PLC Boots
+9 	 11 	 NP\NP 	 1 	 PLC London
+<\s>
+<s id="wsj_1575.8"> 19
+0 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Thrombinar was
+0 	 10 	 (S[pss]\NP)/PP 	 1 	 Thrombinar sold <XB>
+3 	 2 	 NP[nb]/N 	 1 	 drug a
+3 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 drug used <XB>
+3 	 6 	 (S[b]\NP)/NP 	 1 	 drug stanch <XB>
+3 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 drug was
+3 	 10 	 (S[pss]\NP)/PP 	 1 	 drug sold <XB>
+5 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stanch to
+7 	 6 	 (S[b]\NP)/NP 	 2 	 bleeding stanch
+10 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sold was
+11 	 10 	 (S[pss]\NP)/PP 	 2 	 to sold
+15 	 11 	 PP/NP 	 1 	 Inc. to
+15 	 12 	 N/N 	 1 	 Inc. Jones
+15 	 13 	 N/N 	 1 	 Inc. Medical
+15 	 14 	 N/N 	 1 	 Inc. Industries
+15 	 18 	 NP\NP 	 1 	 Inc. Louis
+18 	 17 	 (NP\NP)/(NP\NP) 	 2 	 Louis St.
+<\s>
+<s id="wsj_1575.9"> 24
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Rorer sold
+2 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Rorer will <XU>
+2 	 11 	 (S[b]\NP)/NP 	 1 	 Rorer record <XU>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 sold said
+5 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 drugs sold
+5 	 4 	 NP[nb]/N 	 1 	 drugs the
+6 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for sold
+8 	 6 	 PP/NP 	 1 	 prices for
+8 	 7 	 N/N 	 1 	 prices nice
+10 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 record will
+16 	 11 	 (S[b]\NP)/NP 	 2 	 gain record
+16 	 12 	 NP[nb]/N 	 1 	 gain a
+16 	 13 	 N/N 	 1 	 gain combined
+16 	 15 	 N/N 	 1 	 gain pretax
+16 	 17 	 (NP\NP)/NP 	 1 	 gain on
+16 	 20 	 (NP\NP)/NP 	 1 	 gain of
+19 	 17 	 (NP\NP)/NP 	 2 	 sales on
+19 	 18 	 NP[nb]/N 	 1 	 sales the
+21 	 20 	 (NP\NP)/NP 	 2 	 $ of
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 20
+<\s>
+<s id="wsj_1575.10"> 20
+2 	 1 	 NP[nb]/N 	 1 	 gain the
+2 	 3 	 (NP\NP)/NP 	 1 	 gain from
+2 	 6 	 S[dcl]\NP 	 1 	 gain indicates
+5 	 3 	 (NP\NP)/NP 	 2 	 sales from
+5 	 4 	 NP[nb]/N 	 1 	 sales the
+6 	 0 	 (S/S)/S[dcl] 	 2 	 indicates As
+9 	 8 	 N/N 	 1 	 profit operating
+9 	 10 	 (S[dcl]\NP)/PP 	 1 	 profit was
+10 	 0 	 (S/S)/S[dcl] 	 1 	 was As
+10 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 was said
+12 	 10 	 (S[dcl]\NP)/PP 	 2 	 below was
+12 	 11 	 PP/PP 	 1 	 below significantly
+15 	 12 	 PP/NP 	 1 	 level below
+15 	 13 	 NP[nb]/N 	 1 	 level the
+15 	 14 	 N/N 	 1 	 level year-earlier
+18 	 17 	 N/N 	 1 	 Cawthorn Mr.
+18 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 Cawthorn said
+<\s>
+<s id="wsj_1575.11"> 16
+0 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Rorer had
+0 	 4 	 (S[pt]\NP)/NP 	 1 	 Rorer projected <XB>
+2 	 1 	 ((S\NP)/(S\NP))/NP 	 3 	 July in
+3 	 1 	 ((S\NP)/(S\NP))/NP 	 2 	 had in
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 projected had
+8 	 4 	 (S[pt]\NP)/NP 	 2 	 profit projected
+8 	 5 	 N/N 	 1 	 profit lower
+8 	 6 	 N/N 	 1 	 profit third-quarter
+8 	 7 	 N/N 	 1 	 profit operating
+11 	 4 	 (S[pt]\NP)/NP 	 2 	 profit projected
+11 	 10 	 N/N 	 1 	 profit higher
+11 	 12 	 (NP\NP)/NP 	 1 	 profit for
+13 	 12 	 (NP\NP)/NP 	 2 	 all for
+13 	 14 	 (NP\NP)/NP 	 1 	 all of
+15 	 14 	 (NP\NP)/NP 	 2 	 1989 of
+<\s>
+<s id="wsj_1575.12"> 23
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+3 	 2 	 NP[nb]/N 	 1 	 company the
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 company is
+3 	 6 	 (S[ng]\NP)/PP 	 1 	 company looking <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 is still
+6 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 looking is
+7 	 6 	 (S[ng]\NP)/PP 	 2 	 for looking
+11 	 7 	 PP/NP 	 1 	 quarter for
+11 	 8 	 NP[nb]/N 	 1 	 quarter a
+11 	 9 	 N/N 	 1 	 quarter strong
+11 	 10 	 N/N 	 1 	 quarter fourth
+11 	 12 	 (NP\NP)/NP 	 1 	 quarter in
+14 	 12 	 (NP\NP)/NP 	 2 	 areas in
+14 	 13 	 NP[nb]/N 	 1 	 areas all
+14 	 15 	 (NP\NP)/NP 	 1 	 areas --
+16 	 15 	 (NP\NP)/NP 	 2 	 sales --
+19 	 15 	 (NP\NP)/NP 	 2 	 income --
+19 	 18 	 N/N 	 1 	 income operating
+22 	 15 	 (NP\NP)/NP 	 2 	 income --
+22 	 21 	 N/N 	 1 	 income net
+<\s>
+<s id="wsj_1575.13"> 74
+1 	 0 	 N/N 	 1 	 Cawthorn Mr.
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Cawthorn attributed
+4 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 decline attributed
+4 	 3 	 NP[nb]/N 	 1 	 decline the
+4 	 5 	 (NP\NP)/NP 	 1 	 decline in
+8 	 5 	 (NP\NP)/NP 	 2 	 profit in
+8 	 6 	 N/N 	 1 	 profit third-quarter
+8 	 7 	 N/N 	 1 	 profit operating
+9 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to attributed
+12 	 9 	 PP/NP 	 1 	 dollar to
+12 	 10 	 NP[nb]/N 	 1 	 dollar the
+12 	 11 	 N/N 	 1 	 dollar stronger
+12 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 dollar which
+12 	 15 	 (S[dcl]\NP)/NP 	 1 	 dollar reduces <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 reduces which
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 value reduces
+17 	 16 	 NP[nb]/N 	 1 	 value the
+17 	 18 	 (NP\NP)/NP 	 1 	 value of
+17 	 21 	 (NP\NP)/S[dcl] 	 1 	 value when
+20 	 18 	 (NP\NP)/NP 	 2 	 profit of
+20 	 19 	 N/N 	 1 	 profit overseas
+22 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 it is
+22 	 24 	 (S[pss]\NP)/PP 	 1 	 it translated <XB>
+23 	 21 	 (NP\NP)/S[dcl] 	 2 	 is when
+24 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 translated is
+25 	 24 	 (S[pss]\NP)/PP 	 2 	 into translated
+26 	 25 	 PP/NP 	 1 	 dollars into
+28 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to attributed
+30 	 28 	 PP/NP 	 1 	 buying to
+30 	 29 	 N/N 	 1 	 buying accelerated
+30 	 31 	 (NP\NP)/NP 	 1 	 buying of
+30 	 34 	 (NP\NP)/NP 	 1 	 buying in
+30 	 38 	 (NP\NP)/PP 	 1 	 buying because
+33 	 31 	 (NP\NP)/NP 	 2 	 products of
+33 	 32 	 N/N 	 1 	 products Rorer
+37 	 34 	 (NP\NP)/NP 	 2 	 quarter in
+37 	 35 	 NP[nb]/N 	 1 	 quarter the
+37 	 36 	 N/N 	 1 	 quarter second
+39 	 38 	 (NP\NP)/PP 	 2 	 of because
+42 	 43 	 (N/N)\(N/N) 	 2 	 July 1
+45 	 39 	 PP/NP 	 1 	 increase of
+45 	 40 	 NP[nb]/N 	 1 	 increase a
+45 	 41 	 N/N 	 1 	 increase then-pending
+45 	 42 	 N/N 	 1 	 increase July
+45 	 44 	 N/N 	 1 	 increase price
+48 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to attributed
+51 	 48 	 PP/NP 	 1 	 expenses to
+51 	 49 	 N/N 	 1 	 expenses higher
+51 	 50 	 N/N 	 1 	 expenses marketing
+51 	 52 	 (NP\NP)/NP 	 1 	 expenses for
+53 	 54 	 (NP[nb]/N)\NP 	 2 	 Rorer 's
+56 	 52 	 (NP\NP)/NP 	 2 	 antacid for
+56 	 54 	 (NP[nb]/N)\NP 	 1 	 antacid 's
+56 	 55 	 N/N 	 1 	 antacid Maalox
+56 	 58 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 antacid whose
+62 	 58 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 share whose
+62 	 59 	 N/N 	 1 	 share sales
+62 	 61 	 N/N 	 1 	 share market
+62 	 63 	 (N\N)/NP 	 1 	 share in
+62 	 66 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 share had <XB>
+62 	 67 	 S[pt]\NP 	 1 	 share slipped <XB>
+65 	 63 	 (N\N)/NP 	 2 	 U.S. in
+65 	 64 	 NP[nb]/N 	 1 	 U.S. the
+66 	 58 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 had whose
+67 	 66 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 slipped had
+67 	 68 	 ((S\NP)\(S\NP))/NP 	 2 	 slipped in
+71 	 68 	 ((S\NP)\(S\NP))/NP 	 3 	 half in
+71 	 69 	 NP[nb]/N 	 1 	 half the
+71 	 70 	 N/N 	 1 	 half first
+71 	 72 	 (NP\NP)/NP 	 1 	 half of
+73 	 72 	 (NP\NP)/NP 	 2 	 1989 of
+<\s>
+<s id="wsj_1575.14"> 37
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Rorer opted
+2 	 5 	 (S[b]\NP)/NP 	 1 	 Rorer sell <XB>
+2 	 10 	 (S[b]\NP)/NP 	 1 	 Rorer raise <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 opted said
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to opted
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+6 	 5 	 (S[b]\NP)/NP 	 2 	 Asilone sell
+8 	 5 	 (S[b]\NP)/NP 	 2 	 Thrombinar sell
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 raise to
+11 	 10 	 (S[b]\NP)/NP 	 2 	 revenue raise
+11 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 revenue that
+11 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 revenue would <XB>
+11 	 14 	 (S[b]\NP)/NP 	 1 	 revenue kick <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 kick would
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 kick start
+19 	 14 	 (S[b]\NP)/NP 	 2 	 efforts kick
+19 	 16 	 NP[nb]/N 	 1 	 efforts its
+19 	 17 	 N/N 	 1 	 efforts increased
+19 	 18 	 N/N 	 1 	 efforts marketing
+19 	 20 	 (NP\NP)/NP 	 1 	 efforts behind
+21 	 20 	 (NP\NP)/NP 	 2 	 Maalox behind
+26 	 20 	 (NP\NP)/NP 	 2 	 product behind
+26 	 23 	 NP/NP 	 1 	 product still
+26 	 24 	 NP[nb]/N 	 1 	 product its
+26 	 25 	 N/N 	 1 	 product top-selling
+26 	 27 	 (NP\NP)/NP 	 1 	 product with
+29 	 27 	 (NP\NP)/NP 	 2 	 $ with
+29 	 28 	 N/N 	 1 	 $ about
+29 	 32 	 (NP\NP)/NP 	 1 	 $ in
+29 	 35 	 (NP\NP)/NP 	 1 	 $ in
+31 	 29 	 N/N[num] 	 1 	 million $
+31 	 30 	 N/N 	 1 	 million 215
+34 	 32 	 (NP\NP)/NP 	 2 	 sales in
+34 	 33 	 N/N 	 1 	 sales world-wide
+36 	 35 	 (NP\NP)/NP 	 2 	 1988 in
+<\s>
+<s id="wsj_1575.15"> 24
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 We had
+0 	 2 	 (S[pt]\NP)/NP 	 1 	 We underfunded <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 underfunded had
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 underfunded for
+2 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 underfunded because
+3 	 2 	 (S[pt]\NP)/NP 	 2 	 Maalox underfunded
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 year for
+6 	 5 	 NP[nb]/N 	 1 	 year a
+8 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 he said
+13 	 12 	 NP[nb]/N 	 1 	 company the
+13 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 company was
+13 	 15 	 (S[ng]\NP)/PP 	 1 	 company concentrating <XB>
+14 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was because
+15 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 concentrating was
+16 	 15 	 (S[ng]\NP)/PP 	 2 	 on concentrating
+17 	 16 	 PP/NP 	 1 	 research on
+19 	 16 	 PP/NP 	 1 	 development on
+21 	 16 	 PP/NP 	 1 	 promoting on
+23 	 21 	 (S[ng]\NP)/NP 	 2 	 drugs promoting
+23 	 22 	 N/N 	 1 	 drugs other
+<\s>
+<s id="wsj_1575.16"> 29
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Rorer will
+2 	 4 	 ((S[b]\NP)/PP)/NP 	 1 	 Rorer spend <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 spend will
+4 	 24 	 ((S\NP)\(S\NP))/PP 	 2 	 spend than
+5 	 8 	 ((N/N)\(N/N))/N 	 2 	 $ to
+7 	 5 	 (N/N)/N[num] 	 2 	 million $
+7 	 6 	 N/N 	 1 	 million 15
+9 	 8 	 ((N/N)\(N/N))/N 	 3 	 $ to
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 20
+12 	 4 	 ((S[b]\NP)/PP)/NP 	 3 	 more spend
+12 	 5 	 (N/N)/N[num] 	 1 	 more $
+13 	 4 	 ((S[b]\NP)/PP)/NP 	 2 	 on spend
+15 	 13 	 PP/NP 	 1 	 advertising on
+15 	 14 	 N/N 	 1 	 advertising Maalox
+15 	 18 	 (NP\NP)/NP 	 1 	 advertising in
+17 	 13 	 PP/NP 	 1 	 promotion on
+17 	 14 	 N/N 	 1 	 promotion Maalox
+17 	 18 	 (NP\NP)/NP 	 1 	 promotion in
+21 	 18 	 (NP\NP)/NP 	 2 	 half in
+21 	 19 	 NP[nb]/N 	 1 	 half the
+21 	 20 	 N/N 	 1 	 half second
+21 	 22 	 (NP\NP)/NP 	 1 	 half of
+23 	 22 	 (NP\NP)/NP 	 2 	 1989 of
+25 	 24 	 ((S\NP)\(S\NP))/PP 	 3 	 in than
+28 	 25 	 PP/NP 	 1 	 period in
+28 	 26 	 NP[nb]/N 	 1 	 period the
+28 	 27 	 N/N 	 1 	 period year-earlier
+<\s>
+<s id="wsj_1575.17"> 15
+2 	 0 	 NP[nb]/N 	 1 	 chunk A
+2 	 1 	 N/N 	 1 	 chunk big
+2 	 3 	 (NP\NP)/NP 	 1 	 chunk of
+2 	 7 	 S[dcl]\NP 	 1 	 chunk came
+6 	 3 	 (NP\NP)/NP 	 2 	 spending of
+6 	 4 	 NP[nb]/N 	 1 	 spending that
+6 	 5 	 N/N 	 1 	 spending additional
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 came in
+7 	 14 	 (S[dcl]\S[dcl])\NP 	 1 	 came said
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+11 	 9 	 NP[nb]/N 	 1 	 quarter the
+11 	 10 	 N/N 	 1 	 quarter third
+13 	 14 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>

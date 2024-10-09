@@ -1,0 +1,220 @@
+<s id="wsj_1133.1"> 23
+1 	 0 	 N/N 	 1 	 Bush President
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Bush is
+1 	 3 	 (S[ng]\NP)/(S[ng]\NP) 	 1 	 Bush considering <XB>
+1 	 4 	 ((S[ng]\NP)/PP)/NP 	 1 	 Bush casting <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 considering is
+4 	 3 	 (S[ng]\NP)/(S[ng]\NP) 	 2 	 casting considering
+7 	 4 	 ((S[ng]\NP)/PP)/NP 	 3 	 veto casting
+7 	 5 	 NP[nb]/N 	 1 	 veto a
+7 	 6 	 N/N 	 1 	 veto line-item
+8 	 4 	 ((S[ng]\NP)/PP)/NP 	 2 	 as casting
+10 	 8 	 PP/NP 	 1 	 test as
+10 	 9 	 NP[nb]/N 	 1 	 test a
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 determine to
+13 	 12 	 (S[b]\NP)/S[qem] 	 2 	 whether determine
+15 	 14 	 NP[nb]/N 	 1 	 courts the
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 courts will
+15 	 17 	 (S[b]\NP)/S[em] 	 1 	 courts rule <XB>
+16 	 13 	 S[qem]/S[dcl] 	 1 	 will whether
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 rule will
+18 	 17 	 (S[b]\NP)/S[em] 	 2 	 that rule
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 he has
+20 	 18 	 S[em]/S[dcl] 	 1 	 has that
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 authority has
+22 	 21 	 NP/NP 	 1 	 authority such
+<\s>
+<s id="wsj_1133.2"> 43
+1 	 0 	 N/N 	 1 	 Bush Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Bush has
+1 	 4 	 (S[pt]\NP)/PP 	 1 	 Bush campaigned <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 has long
+4 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 campaigned has
+5 	 4 	 (S[pt]\NP)/PP 	 2 	 for campaigned
+6 	 5 	 PP/NP 	 1 	 passage for
+6 	 7 	 (NP\NP)/NP 	 1 	 passage of
+9 	 7 	 (NP\NP)/NP 	 2 	 bill of
+9 	 8 	 NP[nb]/N 	 1 	 bill a
+9 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bill that
+9 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bill would <XB>
+9 	 17 	 ((S[b]\NP)/NP)/NP 	 1 	 bill give <XB>
+13 	 7 	 (NP\NP)/NP 	 2 	 amendment of
+13 	 11 	 NP[nb]/N 	 1 	 amendment a
+13 	 12 	 N/N 	 1 	 amendment constitutional
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 amendment that
+13 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 amendment would <XB>
+13 	 17 	 ((S[b]\NP)/NP)/NP 	 1 	 amendment give <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+17 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give would
+17 	 16 	 (S\NP)/(S\NP) 	 2 	 give explicitly
+18 	 17 	 ((S[b]\NP)/NP)/NP 	 3 	 him give
+21 	 17 	 ((S[b]\NP)/NP)/NP 	 2 	 veto give
+21 	 19 	 NP[nb]/N 	 1 	 veto a
+21 	 20 	 N/N 	 1 	 veto line-item
+21 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 veto which
+21 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 veto would <XB>
+21 	 25 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 veto enable <XB>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would which
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 enable would
+26 	 25 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 him enable
+26 	 28 	 (S[b]\NP)/NP 	 1 	 him kill <XB>
+26 	 37 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 him having <XB>
+26 	 39 	 (S[b]\NP)/NP 	 1 	 him kill <XB>
+27 	 25 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to enable
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 kill to
+28 	 36 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 kill without
+30 	 28 	 (S[b]\NP)/NP 	 2 	 items kill
+30 	 29 	 N/N 	 1 	 items individual
+30 	 31 	 (NP\NP)/NP 	 1 	 items in
+35 	 31 	 (NP\NP)/NP 	 2 	 bill in
+35 	 32 	 NP[nb]/N 	 1 	 bill a
+35 	 33 	 N/N 	 1 	 bill big
+35 	 34 	 N/N 	 1 	 bill spending
+37 	 36 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 having without
+38 	 37 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to having
+39 	 38 	 (S[to]\NP)/(S[b]\NP) 	 2 	 kill to
+42 	 39 	 (S[b]\NP)/NP 	 2 	 bill kill
+42 	 40 	 NP[nb]/N 	 1 	 bill the
+42 	 41 	 N/N 	 1 	 bill entire
+<\s>
+<s id="wsj_1133.3"> 14
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 He has
+0 	 2 	 (S[pt]\NP)/S[em] 	 1 	 He argued <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 argued has
+3 	 2 	 (S[pt]\NP)/S[em] 	 2 	 that argued
+6 	 4 	 NP/NP 	 1 	 power such
+6 	 5 	 N/N 	 1 	 power presidential
+6 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 power is
+6 	 8 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 power necessary <XB>
+7 	 3 	 S[em]/S[dcl] 	 1 	 is that
+8 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 necessary is
+9 	 8 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to necessary
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rein to
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 rein in
+13 	 10 	 (S[b]\NP)/NP 	 2 	 spending rein
+13 	 12 	 N/N 	 1 	 spending congressional
+<\s>
+<s id="wsj_1133.4"> 37
+2 	 1 	 NP[nb]/N 	 1 	 analysts some
+2 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 analysts have
+2 	 10 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 1 	 analysts urged <XB>
+7 	 4 	 NP/NP 	 1 	 scholars particularly
+7 	 5 	 N/N 	 1 	 scholars conservative
+7 	 6 	 N/N 	 1 	 scholars legal
+7 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 scholars have
+7 	 10 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 1 	 scholars urged <XB>
+9 	 0 	 S/S 	 1 	 have But
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 urged have
+12 	 10 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 3 	 Bush urged
+12 	 11 	 N/N 	 1 	 Bush Mr.
+12 	 15 	 (S[b]\NP)/PP 	 1 	 Bush wait <XB>
+12 	 22 	 (S[b]\NP)/S[em] 	 1 	 Bush assert <XU>
+14 	 10 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 2 	 to urged
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 to not
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 wait to
+16 	 15 	 (S[b]\NP)/PP 	 2 	 for wait
+18 	 16 	 PP/NP 	 1 	 authorization for
+18 	 17 	 N/N 	 1 	 authorization explicit
+21 	 10 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 2 	 to urged
+21 	 20 	 (S\NP)/(S\NP) 	 2 	 to simply
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 assert to
+23 	 22 	 (S[b]\NP)/S[em] 	 2 	 that assert
+25 	 24 	 NP[nb]/N 	 1 	 Constitution the
+25 	 28 	 ((S[dcl]\NP)/NP)/NP 	 1 	 Constitution gives
+28 	 23 	 S[em]/S[dcl] 	 1 	 gives that
+28 	 26 	 (S\NP)/(S\NP) 	 2 	 gives already
+28 	 27 	 (S\NP)/(S\NP) 	 2 	 gives implicitly
+29 	 28 	 ((S[dcl]\NP)/NP)/NP 	 3 	 him gives
+31 	 28 	 ((S[dcl]\NP)/NP)/NP 	 2 	 power gives
+31 	 30 	 NP[nb]/N 	 1 	 power the
+31 	 33 	 (S[b]\NP)/NP 	 1 	 power exercise <XB>
+33 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 exercise to
+36 	 33 	 (S[b]\NP)/NP 	 2 	 veto exercise
+36 	 34 	 NP[nb]/N 	 1 	 veto a
+36 	 35 	 N/N 	 1 	 veto line-item
+<\s>
+<s id="wsj_1133.5"> 23
+2 	 0 	 NP/NP 	 1 	 assertion Such
+2 	 1 	 NP[nb]/N 	 1 	 assertion an
+2 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 assertion would
+2 	 6 	 (S[b]\NP)/NP 	 1 	 assertion bring <XB>
+4 	 3 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 likely most
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 would likely
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 bring would
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 bring about
+10 	 6 	 (S[b]\NP)/NP 	 2 	 challenge bring
+10 	 8 	 NP[nb]/N 	 1 	 challenge a
+10 	 9 	 N/N 	 1 	 challenge court
+10 	 11 	 (NP\NP)/NP 	 1 	 challenge from
+10 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 challenge that
+10 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 challenge would <XB>
+10 	 15 	 (S[b]\NP)/S[qem] 	 1 	 challenge clarify <XB>
+12 	 11 	 (NP\NP)/NP 	 2 	 Congress from
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 clarify would
+16 	 15 	 (S[b]\NP)/S[qem] 	 2 	 whether clarify
+18 	 17 	 NP[nb]/N 	 1 	 president a
+18 	 20 	 (S[dcl]\NP)/NP 	 1 	 president has
+20 	 16 	 S[qem]/S[dcl] 	 1 	 has whether
+20 	 19 	 (S\NP)/(S\NP) 	 2 	 has already
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 power has
+22 	 21 	 NP/NP 	 1 	 power such
+<\s>
+<s id="wsj_1133.6"> 28
+4 	 0 	 N/N 	 1 	 Fitzwater White
+4 	 1 	 N/N 	 1 	 Fitzwater House
+4 	 2 	 N/N 	 1 	 Fitzwater spokesman
+4 	 3 	 N/N 	 1 	 Fitzwater Marlin
+4 	 6 	 (S[ng]\NP)/NP 	 1 	 Fitzwater confirming <XB>
+4 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 Fitzwater said
+7 	 6 	 (S[ng]\NP)/NP 	 2 	 comments confirming
+7 	 8 	 S[pss]\NP 	 1 	 comments made <XB>
+8 	 9 	 ((S\NP)\(S\NP))/N 	 2 	 made this
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 made by
+10 	 9 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+15 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Quayle by
+15 	 12 	 N/N 	 1 	 Quayle Vice
+15 	 13 	 N/N 	 1 	 Quayle President
+15 	 14 	 N/N 	 1 	 Quayle Dan
+19 	 18 	 N/N 	 1 	 Bush Mr.
+19 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Bush is
+19 	 21 	 (S[adj]\NP)/PP 	 1 	 Bush interested <XB>
+20 	 17 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+21 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 interested is
+22 	 21 	 (S[adj]\NP)/PP 	 2 	 in interested
+23 	 22 	 PP/(S[ng]\NP) 	 1 	 finding in
+27 	 23 	 (S[ng]\NP)/NP 	 2 	 case finding
+27 	 24 	 NP[nb]/N 	 1 	 case a
+27 	 25 	 N/N 	 1 	 case suitable
+27 	 26 	 N/N 	 1 	 case test
+<\s>
+<s id="wsj_1133.7"> 29
+1 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 he said
+3 	 0 	 S/S 	 1 	 said But
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 said also
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+5 	 10 	 (S[dcl]\NP)/NP 	 1 	 exercising is
+9 	 5 	 (S[ng]\NP)/NP 	 2 	 veto exercising
+9 	 6 	 NP[nb]/N 	 1 	 veto a
+9 	 7 	 N/N 	 1 	 veto test
+9 	 8 	 N/N 	 1 	 veto line-item
+10 	 4 	 S[em]/S[dcl] 	 1 	 is that
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 is n't
+10 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 is on
+10 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 is because
+14 	 10 	 (S[dcl]\NP)/NP 	 2 	 initiative is
+14 	 12 	 NP[nb]/N 	 1 	 initiative a
+14 	 13 	 N/N 	 1 	 initiative top
+17 	 16 	 NP[nb]/N 	 1 	 president the
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 president 's
+19 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 agenda on
+19 	 18 	 (NP[nb]/N)\NP 	 1 	 agenda 's
+21 	 22 	 (S[dcl]\NP)/NP 	 1 	 he faces
+22 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 faces because
+22 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 faces at
+25 	 22 	 (S[dcl]\NP)/NP 	 2 	 issues faces
+25 	 23 	 N/N 	 1 	 issues more-pressing
+25 	 24 	 N/N 	 1 	 issues budget
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 moment at
+28 	 27 	 NP[nb]/N 	 1 	 moment the
+<\s>

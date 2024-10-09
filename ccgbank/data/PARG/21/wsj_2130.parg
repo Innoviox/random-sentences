@@ -1,0 +1,83 @@
+<s id="wsj_2130.1"> 25
+3 	 0 	 N/N 	 1 	 TRUST NATIONAL
+3 	 1 	 N/N 	 1 	 TRUST INCOME
+3 	 2 	 N/N 	 1 	 TRUST REALTY
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 TRUST said
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+5 	 7 	 (S[b]\NP)/NP 	 1 	 it resume <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 resume will
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 resume with
+9 	 7 	 (S[b]\NP)/NP 	 2 	 payments resume
+9 	 8 	 N/N 	 1 	 payments dividend
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 dividend with
+13 	 11 	 NP[nb]/N 	 1 	 dividend a
+13 	 12 	 N/N 	 1 	 dividend 12-cent-a-share
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+16 	 15 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 paid be
+16 	 17 	 ((S\NP)\(S\NP))/N[num] 	 2 	 paid Nov.
+18 	 17 	 ((S\NP)\(S\NP))/N[num] 	 3 	 6 Nov.
+19 	 16 	 (S[pss]\NP)/PP 	 2 	 to paid
+20 	 19 	 PP/NP 	 1 	 shares to
+20 	 21 	 (NP\NP)/NP 	 1 	 shares of
+20 	 23 	 (NP\NP)/N[num] 	 1 	 shares Oct.
+22 	 21 	 (NP\NP)/NP 	 2 	 record of
+24 	 23 	 (NP\NP)/N[num] 	 2 	 25 Oct.
+<\s>
+<s id="wsj_2130.2"> 25
+1 	 0 	 NP[nb]/N 	 1 	 mortgage The
+1 	 9 	 (S[dcl]\NP)/NP 	 1 	 mortgage paid
+7 	 0 	 NP[nb]/N 	 1 	 trust The
+7 	 3 	 N/N 	 1 	 trust equity
+7 	 4 	 N/N 	 1 	 trust real
+7 	 5 	 N/N 	 1 	 trust estate
+7 	 6 	 N/N 	 1 	 trust investment
+7 	 9 	 (S[dcl]\NP)/NP 	 1 	 trust paid
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 paid last
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 paid on
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 dividend paid
+11 	 10 	 NP[nb]/N 	 1 	 dividend a
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 Aug. on
+13 	 18 	 (NP\NP)/S[dcl] 	 1 	 Aug. when
+14 	 13 	 N/N[num] 	 1 	 1 Aug.
+16 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 1988 on
+16 	 18 	 (NP\NP)/S[dcl] 	 1 	 1988 when
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 holders received
+20 	 18 	 (NP\NP)/S[dcl] 	 2 	 received when
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 cents received
+22 	 21 	 N/N 	 1 	 cents 75
+22 	 23 	 (NP\NP)/N 	 1 	 cents a
+24 	 23 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_2130.3"> 32
+2 	 0 	 (S/S)/NP 	 2 	 troubles Despite
+2 	 1 	 N/N 	 1 	 troubles continuing
+2 	 3 	 (NP\NP)/NP 	 1 	 troubles with
+5 	 3 	 (NP\NP)/NP 	 2 	 properties with
+5 	 4 	 N/N 	 1 	 properties problem
+8 	 3 	 (NP\NP)/NP 	 2 	 loans with
+8 	 7 	 N/N 	 1 	 loans nonperforming
+12 	 10 	 NP[nb]/N 	 1 	 trust the
+12 	 11 	 N/N 	 1 	 trust Dallas
+12 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 trust said
+13 	 0 	 (S/S)/NP 	 1 	 said Despite
+14 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+14 	 16 	 (S[pt]\NP)/NP 	 1 	 it rebuilt <XB>
+14 	 19 	 (S[pt]\NP)/NP 	 1 	 it abandoned <XU>
+14 	 25 	 (S[pt]\NP)/NP 	 1 	 it experienced <XU>
+15 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+16 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 rebuilt has
+17 	 16 	 (S[pt]\NP)/NP 	 2 	 reserves rebuilt
+19 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 abandoned has
+20 	 19 	 (S[pt]\NP)/NP 	 2 	 properties abandoned
+20 	 21 	 (NP\NP)/NP 	 1 	 properties with
+23 	 21 	 (NP\NP)/NP 	 2 	 potential with
+23 	 22 	 N/N 	 1 	 potential little
+25 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 experienced has
+28 	 25 	 (S[pt]\NP)/NP 	 2 	 results experienced
+28 	 26 	 N/N 	 1 	 results improved
+28 	 27 	 N/N 	 1 	 results operating
+28 	 29 	 (NP\NP)/NP 	 1 	 results from
+31 	 29 	 (NP\NP)/NP 	 2 	 ventures from
+31 	 30 	 N/N 	 1 	 ventures joint
+<\s>

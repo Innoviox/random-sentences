@@ -1,0 +1,50 @@
+<s id="wsj_2028.1"> 19
+2 	 0 	 N/N 	 1 	 Wertheimer Stephen
+2 	 1 	 N/N 	 1 	 Wertheimer N.
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Wertheimer was
+2 	 4 	 (S[pss]\NP)/NP 	 1 	 Wertheimer named <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+6 	 4 	 (S[pss]\NP)/NP 	 2 	 director named
+6 	 5 	 N/N 	 1 	 director managing
+6 	 10 	 (NP\NP)/NP 	 1 	 director of
+9 	 4 	 (S[pss]\NP)/NP 	 2 	 head named
+9 	 8 	 N/N 	 1 	 head group
+9 	 10 	 (NP\NP)/NP 	 1 	 head of
+12 	 10 	 (NP\NP)/NP 	 2 	 banking of
+12 	 11 	 N/N 	 1 	 banking investment
+12 	 13 	 (NP\NP)/NP 	 1 	 banking in
+12 	 16 	 S[pss]\NP 	 1 	 banking based <XB>
+14 	 13 	 (NP\NP)/NP 	 2 	 Asia in
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 Tokyo in
+<\s>
+<s id="wsj_2028.2"> 20
+1 	 0 	 N/N 	 1 	 Wertheimer Mr.
+1 	 5 	 (S[adj]\NP)\NP 	 1 	 Wertheimer old <XB>
+1 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Wertheimer had
+1 	 8 	 (S[pt]\NP)/NP 	 1 	 Wertheimer been <XB>
+4 	 3 	 N/N 	 1 	 years 38
+4 	 5 	 (S[adj]\NP)\NP 	 2 	 years old
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+12 	 8 	 (S[pt]\NP)/NP 	 2 	 president been
+12 	 9 	 NP[nb]/N 	 1 	 president a
+12 	 10 	 N/N 	 1 	 president first
+12 	 11 	 N/N 	 1 	 president vice
+12 	 13 	 (NP\NP)/NP 	 1 	 president in
+16 	 13 	 (NP\NP)/NP 	 2 	 group in
+16 	 14 	 NP[nb]/N 	 1 	 group the
+16 	 15 	 N/N 	 1 	 group industrial
+16 	 17 	 (NP\NP)/NP 	 1 	 group in
+19 	 17 	 (NP\NP)/NP 	 2 	 banking in
+19 	 18 	 N/N 	 1 	 banking investment
+<\s>
+<s id="wsj_2028.3"> 9
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 He succeeds
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 Meyers succeeds
+3 	 2 	 N/N 	 1 	 Meyers Everett
+3 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Meyers who
+3 	 6 	 S[dcl]\NP 	 1 	 Meyers resigned <XB>
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 resigned who
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 resigned in
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 May in
+<\s>

@@ -1,0 +1,1867 @@
+<s id="wsj_0049.1"> 27
+3 	 0 	 NP[nb]/N 	 1 	 Service The
+3 	 1 	 N/N 	 1 	 Service Internal
+3 	 2 	 N/N 	 1 	 Service Revenue
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Service has
+3 	 5 	 (S[pt]\NP)/NP 	 1 	 Service threatened <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 threatened has
+7 	 5 	 (S[pt]\NP)/NP 	 2 	 sanctions threatened
+7 	 6 	 N/N 	 1 	 sanctions criminal
+7 	 8 	 (NP\NP)/NP 	 1 	 sanctions against
+9 	 8 	 (NP\NP)/NP 	 2 	 lawyers against
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 lawyers who
+9 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 lawyers fail <XB>
+9 	 13 	 (S[b]\NP)/NP 	 1 	 lawyers report <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 fail who
+12 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to fail
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+15 	 13 	 (S[b]\NP)/NP 	 2 	 information report
+15 	 14 	 N/N 	 1 	 information detailed
+15 	 16 	 (NP\NP)/NP 	 1 	 information about
+17 	 16 	 (NP\NP)/NP 	 2 	 clients about
+17 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 clients who
+17 	 19 	 ((S[dcl]\NP)/NP)/NP 	 1 	 clients pay <XB>
+19 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 pay who
+20 	 19 	 ((S[dcl]\NP)/NP)/NP 	 3 	 them pay
+21 	 22 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+23 	 19 	 ((S[dcl]\NP)/NP)/NP 	 2 	 $ pay
+23 	 22 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+23 	 25 	 (NP\NP)/NP 	 1 	 $ in
+24 	 23 	 N/N[num] 	 1 	 10,000 $
+26 	 25 	 (NP\NP)/NP 	 2 	 cash in
+<\s>
+<s id="wsj_0049.2"> 41
+1 	 0 	 NP[nb]/N 	 1 	 warnings The
+1 	 3 	 S[pss]\NP 	 1 	 warnings issued <XB>
+1 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 warnings have
+1 	 21 	 (S[pt]\NP)/PP 	 1 	 warnings led <XB>
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 issued to
+3 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 issued in
+3 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 issued in
+6 	 5 	 ((N/N)/(N/N))/(S[asup]\NP) 	 3 	 least at
+7 	 5 	 ((N/N)/(N/N))/(S[asup]\NP) 	 2 	 100 at
+10 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 attorneys to
+10 	 7 	 N/N 	 1 	 attorneys 100
+10 	 8 	 N/N 	 1 	 attorneys criminal
+10 	 9 	 N/N 	 1 	 attorneys defense
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 cities in
+14 	 12 	 N/N 	 1 	 cities several
+14 	 13 	 N/N 	 1 	 cities major
+18 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 week in
+18 	 16 	 NP[nb]/N 	 1 	 week the
+18 	 17 	 N/N 	 1 	 week last
+21 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 led have
+22 	 21 	 (S[pt]\NP)/PP 	 2 	 to led
+24 	 22 	 PP/NP 	 1 	 outcry to
+24 	 23 	 NP[nb]/N 	 1 	 outcry an
+24 	 25 	 (NP\NP)/NP 	 1 	 outcry by
+26 	 25 	 (NP\NP)/NP 	 2 	 members by
+26 	 27 	 (NP\NP)/NP 	 1 	 members of
+26 	 32 	 (NP\NP)/(S[dcl]\NP) 	 1 	 members who
+26 	 33 	 (S[dcl]\NP)/S[dcl] 	 1 	 members claim <XB>
+30 	 27 	 (NP\NP)/NP 	 2 	 bar of
+30 	 28 	 NP[nb]/N 	 1 	 bar the
+30 	 29 	 N/N 	 1 	 bar organized
+33 	 32 	 (NP\NP)/(S[dcl]\NP) 	 2 	 claim who
+35 	 34 	 NP[nb]/N 	 1 	 information the
+35 	 36 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 information is
+35 	 37 	 S[pss]\NP 	 1 	 information protected <XB>
+36 	 33 	 (S[dcl]\NP)/S[dcl] 	 2 	 is claim
+37 	 36 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 protected is
+37 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 protected by
+40 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 privilege by
+40 	 39 	 N/N 	 1 	 privilege attorney-client
+<\s>
+<s id="wsj_0049.3"> 48
+2 	 0 	 NP[nb]/N 	 1 	 warnings The
+2 	 1 	 N/N 	 1 	 warnings IRS
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 warnings stem
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 from stem
+7 	 4 	 PP/NP 	 1 	 law from
+7 	 5 	 NP[nb]/N 	 1 	 law a
+7 	 6 	 N/N 	 1 	 law 1984
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 law that
+7 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 law requires <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 requires that
+10 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 anyone requires
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 anyone who
+10 	 12 	 ((S[dcl]\NP)/PP)/NP 	 1 	 anyone receives <XB>
+10 	 38 	 (S[b]\NP)/NP 	 1 	 anyone report <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 receives who
+12 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 receives in
+12 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 receives in
+13 	 14 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+15 	 12 	 ((S[dcl]\NP)/PP)/NP 	 3 	 $ receives
+15 	 14 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+15 	 17 	 (NP\NP)/NP 	 1 	 $ in
+16 	 15 	 N/N[num] 	 1 	 10,000 $
+18 	 17 	 (NP\NP)/NP 	 2 	 cash in
+19 	 12 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from receives
+21 	 19 	 PP/NP 	 1 	 client from
+21 	 20 	 NP[nb]/N 	 1 	 client a
+23 	 19 	 PP/NP 	 1 	 customer from
+23 	 20 	 NP[nb]/N 	 1 	 customer a
+29 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 transactions in
+29 	 25 	 N/N 	 1 	 transactions one <XU>
+29 	 27 	 N/N 	 1 	 transactions more
+29 	 28 	 N/N 	 1 	 transactions related
+32 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 course in
+32 	 31 	 NP[nb]/N 	 1 	 course the
+32 	 33 	 (NP\NP)/NP 	 1 	 course of
+34 	 33 	 (NP\NP)/NP 	 2 	 trade of
+36 	 33 	 (NP\NP)/NP 	 2 	 business of
+37 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to requires
+38 	 37 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+38 	 41 	 ((S\NP)\(S\NP))/NP 	 2 	 report on
+40 	 38 	 (S[b]\NP)/NP 	 2 	 payment report
+40 	 39 	 NP[nb]/N 	 1 	 payment the
+43 	 41 	 ((S\NP)\(S\NP))/NP 	 3 	 document on
+43 	 42 	 NP[nb]/N 	 1 	 document a
+43 	 44 	 (S[pss]\NP)/PP 	 1 	 document known <XB>
+45 	 44 	 (S[pss]\NP)/PP 	 2 	 as known
+46 	 45 	 PP/NP 	 1 	 Form as
+46 	 47 	 N\N 	 1 	 Form 8300
+<\s>
+<s id="wsj_0049.4"> 27
+1 	 0 	 NP[nb]/N 	 1 	 form The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 form asks
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 for asks
+5 	 3 	 PP/NP 	 1 	 details for
+5 	 4 	 NP/NP 	 1 	 details such
+5 	 6 	 (NP\NP)/NP 	 1 	 details as
+8 	 7 	 NP[nb]/N 	 1 	 client the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 client 's
+10 	 6 	 (NP\NP)/NP 	 2 	 name as
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 name 's
+14 	 6 	 (NP\NP)/NP 	 2 	 number as
+14 	 9 	 (NP[nb]/N)\NP 	 1 	 number 's
+14 	 12 	 N/N 	 1 	 number Social
+14 	 13 	 N/N 	 1 	 number Security
+17 	 6 	 (NP\NP)/NP 	 2 	 number as
+17 	 9 	 (NP[nb]/N)\NP 	 1 	 number 's
+17 	 16 	 N/N 	 1 	 number passport
+19 	 6 	 (NP\NP)/NP 	 2 	 details as
+19 	 20 	 (NP\NP)/NP 	 1 	 details about
+22 	 20 	 (NP\NP)/NP 	 2 	 services about
+22 	 21 	 NP[nb]/N 	 1 	 services the
+22 	 23 	 S[pss]\NP 	 1 	 services provided <XB>
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 provided for
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 payment for
+26 	 25 	 NP[nb]/N 	 1 	 payment the
+<\s>
+<s id="wsj_0049.5"> 32
+0 	 2 	 (S[b]\NP)/NP 	 1 	 Failure complete <XB>
+0 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Failure had
+0 	 7 	 S[adj]\NP 	 1 	 Failure punishable <XB>
+2 	 1 	 (S[to]\NP)/(S[b]\NP) 	 2 	 complete to
+4 	 2 	 (S[b]\NP)/NP 	 2 	 form complete
+4 	 3 	 NP[nb]/N 	 1 	 form the
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 been as
+6 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 been until
+7 	 6 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 punishable been
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 misdemeanor as
+10 	 9 	 NP[nb]/N 	 1 	 misdemeanor a
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 November until
+13 	 12 	 N/N 	 1 	 November last
+13 	 15 	 (NP\NP)/S[dcl] 	 1 	 November when
+16 	 17 	 (S[dcl]\NP)/S[em] 	 1 	 Congress determined
+17 	 15 	 (NP\NP)/S[dcl] 	 2 	 determined when
+18 	 17 	 (S[dcl]\NP)/S[em] 	 2 	 that determined
+20 	 19 	 NP[nb]/N 	 1 	 crime the
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 crime was
+21 	 18 	 S[em]/S[dcl] 	 1 	 was that
+23 	 21 	 (S[dcl]\NP)/NP 	 2 	 felony was
+23 	 22 	 NP[nb]/N 	 1 	 felony a
+23 	 24 	 S[adj]\NP 	 1 	 felony punishable <XB>
+24 	 25 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 punishable by
+28 	 26 	 (N/N)/(N/N) 	 2 	 10 up
+28 	 27 	 (N/N)/(N/N) 	 2 	 10 to
+29 	 25 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 years by
+29 	 28 	 N/N 	 1 	 years 10
+29 	 30 	 (NP\NP)/NP 	 1 	 years in
+31 	 30 	 (NP\NP)/NP 	 2 	 prison in
+<\s>
+<s id="wsj_0049.6"> 29
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Attorneys have
+0 	 2 	 (S[pt]\NP)/S[em] 	 1 	 Attorneys argued <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 argued have
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 argued since
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 1985 since
+4 	 6 	 (NP\NP)/S[dcl] 	 1 	 1985 when
+8 	 7 	 NP[nb]/N 	 1 	 law the
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 law took
+9 	 6 	 (NP\NP)/S[dcl] 	 2 	 took when
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 effect took
+12 	 2 	 (S[pt]\NP)/S[em] 	 2 	 that argued
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they can
+13 	 16 	 (S[b]\NP)/NP 	 1 	 they provide <XB>
+14 	 12 	 S[em]/S[dcl] 	 1 	 can that
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 can not
+16 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 provide can
+17 	 16 	 (S[b]\NP)/NP 	 2 	 information provide
+17 	 18 	 (NP\NP)/NP 	 1 	 information about
+19 	 18 	 (NP\NP)/NP 	 2 	 clients about
+19 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 clients who
+19 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 clients do <XB>
+19 	 23 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 clients wish <XB>
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 do who
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 do n't
+23 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 wish do
+25 	 23 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 identities wish
+25 	 24 	 NP[nb]/N 	 1 	 identities their
+25 	 28 	 S[pss]\NP 	 1 	 identities known <XB>
+26 	 23 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to wish
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+28 	 27 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 known be
+<\s>
+<s id="wsj_0049.7"> 16
+1 	 0 	 N/N 	 1 	 attorneys Many
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 attorneys have
+1 	 3 	 ((S[pt]\NP)/PP)/NP 	 1 	 attorneys returned <XB>
+1 	 13 	 (S[ng]\NP)/NP 	 1 	 attorneys citing <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 returned have
+3 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 returned in
+5 	 3 	 ((S[pt]\NP)/PP)/NP 	 3 	 forms returned
+5 	 4 	 N/N 	 1 	 forms incomplete
+6 	 3 	 ((S[pt]\NP)/PP)/NP 	 2 	 to returned
+8 	 6 	 PP/NP 	 1 	 IRS to
+8 	 7 	 NP[nb]/N 	 1 	 IRS the
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 years in
+11 	 10 	 N/N 	 1 	 years recent
+15 	 13 	 (S[ng]\NP)/NP 	 2 	 privilege citing
+15 	 14 	 N/N 	 1 	 privilege attorney-client
+<\s>
+<s id="wsj_0049.8"> 12
+2 	 0 	 (S/S)/NP 	 2 	 week Until
+2 	 1 	 N/N 	 1 	 week last
+5 	 4 	 NP[nb]/N 	 1 	 IRS the
+5 	 7 	 (S[dcl]\NP)/PP 	 1 	 IRS acted
+7 	 0 	 (S/S)/NP 	 1 	 acted Until
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 acted rarely
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 on acted
+11 	 8 	 PP/NP 	 1 	 forms on
+11 	 9 	 NP[nb]/N 	 1 	 forms the
+11 	 10 	 N/N 	 1 	 forms incomplete
+<\s>
+<s id="wsj_0049.9"> 31
+1 	 0 	 NP[nb]/N 	 1 	 form This
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 form forces
+2 	 17 	 (S[dcl]\S[dcl])/NP 	 1 	 forces said
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 lawyer forces
+4 	 3 	 NP[nb]/N 	 1 	 lawyer a
+4 	 6 	 (S[b]\NP)/NP 	 1 	 lawyer become <XB>
+5 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to forces
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 become to
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 become in
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 effect in
+12 	 6 	 (S[b]\NP)/NP 	 2 	 witness become
+12 	 11 	 NP[nb]/N 	 1 	 witness a
+12 	 13 	 (NP\NP)/NP 	 1 	 witness against
+15 	 13 	 (NP\NP)/NP 	 2 	 client against
+15 	 14 	 NP[nb]/N 	 1 	 client his
+20 	 17 	 (S[dcl]\S[dcl])/NP 	 2 	 Sonnett said
+20 	 18 	 N/N 	 1 	 Sonnett Neal
+20 	 19 	 N/N 	 1 	 Sonnett R.
+22 	 17 	 (S[dcl]\S[dcl])/NP 	 2 	 president said
+22 	 23 	 (NP\NP)/NP 	 1 	 president of
+26 	 23 	 (NP\NP)/NP 	 2 	 Association of
+26 	 24 	 NP[nb]/N 	 1 	 Association the
+26 	 25 	 N/N 	 1 	 Association National
+26 	 27 	 (NP\NP)/NP 	 1 	 Association of
+30 	 27 	 (NP\NP)/NP 	 2 	 Lawyers of
+30 	 28 	 N/N 	 1 	 Lawyers Criminal
+30 	 29 	 N/N 	 1 	 Lawyers Defense
+<\s>
+<s id="wsj_0049.10"> 46
+1 	 0 	 NP[nb]/N 	 1 	 IRS The
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 IRS is
+1 	 3 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 1 	 IRS asking <XB>
+2 	 14 	 (S[dcl]\S[dcl])/NP 	 1 	 is added
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 asking is
+4 	 3 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 lawyers asking
+4 	 6 	 ((S[b]\NP)/PP)/NP 	 1 	 lawyers red-flag <XB>
+5 	 3 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to asking
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 red-flag to
+9 	 6 	 ((S[b]\NP)/PP)/NP 	 3 	 problem red-flag
+9 	 7 	 NP[nb]/N 	 1 	 problem a
+9 	 8 	 N/N 	 1 	 problem criminal
+10 	 6 	 ((S[b]\NP)/PP)/NP 	 2 	 to red-flag
+12 	 10 	 PP/NP 	 1 	 government to
+12 	 11 	 NP[nb]/N 	 1 	 government the
+16 	 14 	 (S[dcl]\S[dcl])/NP 	 2 	 Sonnett added
+16 	 15 	 N/N 	 1 	 Sonnett Mr.
+20 	 14 	 (S[dcl]\S[dcl])/NP 	 2 	 lawyer added
+20 	 18 	 NP[nb]/N 	 1 	 lawyer a
+20 	 19 	 N/N 	 1 	 lawyer Miami
+20 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 lawyer who
+20 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 lawyer has <XB>
+20 	 23 	 (S[pt]\NP)/PP 	 1 	 lawyer heard <XB>
+20 	 35 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 lawyer has <XU>
+20 	 37 	 (S[pt]\NP)/NP 	 1 	 lawyer received <XU>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has who
+23 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 heard has
+24 	 23 	 (S[pt]\NP)/PP 	 2 	 from heard
+25 	 24 	 PP/NP 	 1 	 dozens from
+25 	 26 	 (NP\NP)/NP 	 1 	 dozens of
+25 	 28 	 (NP\NP)/(S[dcl]\NP) 	 1 	 dozens who
+25 	 29 	 (S[dcl]\NP)/NP 	 1 	 dozens received <XB>
+27 	 26 	 (NP\NP)/NP 	 2 	 attorneys of
+29 	 28 	 (NP\NP)/(S[dcl]\NP) 	 2 	 received who
+29 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 received in
+30 	 29 	 (S[dcl]\NP)/NP 	 2 	 letters received
+33 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 days in
+33 	 32 	 N/N 	 1 	 days recent
+35 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has who
+35 	 36 	 (S\NP)\(S\NP) 	 2 	 has himself
+37 	 35 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 received has
+41 	 37 	 (S[pt]\NP)/NP 	 2 	 forms received
+41 	 38 	 NP[nb]/N 	 1 	 forms the
+41 	 39 	 N/N 	 1 	 forms computer-generated
+41 	 40 	 N/N 	 1 	 forms IRS
+41 	 42 	 S[pss]\NP 	 1 	 forms sent <XB>
+42 	 43 	 ((S\NP)\(S\NP))/NP 	 2 	 sent by
+45 	 43 	 ((S\NP)\(S\NP))/NP 	 3 	 mail by
+45 	 44 	 N/N 	 1 	 mail certified
+<\s>
+<s id="wsj_0049.11"> 20
+1 	 0 	 N/N 	 1 	 Sonnett Mr.
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Sonnett said
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+4 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 clients who
+4 	 6 	 (S[dcl]\NP)/NP 	 1 	 clients pay <XB>
+4 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 clients may
+4 	 9 	 (S[b]\NP)/NP 	 1 	 clients include <XB>
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 pay who
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 cash pay
+8 	 3 	 S[em]/S[dcl] 	 1 	 may that
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 include may
+12 	 9 	 (S[b]\NP)/NP 	 2 	 dealers include
+12 	 10 	 N/N 	 1 	 dealers alleged
+12 	 11 	 N/N 	 1 	 dealers drug
+12 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 dealers who
+12 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 dealers do <XB>
+12 	 16 	 (S[b]\NP)/NP 	 1 	 dealers have <XB>
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 do who
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 do n't
+16 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have do
+19 	 16 	 (S[b]\NP)/NP 	 2 	 accounts have
+19 	 17 	 N/N 	 1 	 accounts domestic
+19 	 18 	 N/N 	 1 	 accounts bank
+<\s>
+<s id="wsj_0049.12"> 12
+1 	 0 	 NP[nb]/N 	 1 	 individuals These
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 individuals may
+1 	 5 	 (S[b]\NP)/PP 	 1 	 individuals be <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 may not
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 may necessarily
+5 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+5 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 be when
+6 	 5 	 (S[b]\NP)/PP 	 2 	 under be
+7 	 6 	 PP/NP 	 1 	 investigation under
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 they hire
+10 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 hire when
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 lawyers hire
+<\s>
+<s id="wsj_0049.13"> 25
+1 	 0 	 N/N 	 1 	 Sonnett Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Sonnett said
+3 	 5 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 1 	 there may
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 may said
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 may also
+6 	 5 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 2 	 be may
+8 	 6 	 (S[b]\NP)/NP 	 2 	 circumstances be
+8 	 7 	 N/N 	 1 	 circumstances other
+8 	 10 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 circumstances which
+9 	 10 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 under which
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 individuals would
+11 	 14 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 individuals want <XB>
+12 	 10 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 would which
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 would n't
+14 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 want would
+16 	 14 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 government want
+16 	 15 	 NP[nb]/N 	 1 	 government the
+16 	 18 	 (S[b]\NP)/S[dcl] 	 1 	 government know <XB>
+17 	 14 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to want
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 know to
+19 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 they had
+19 	 21 	 (S[pt]\NP)/NP 	 1 	 they retained <XB>
+20 	 18 	 (S[b]\NP)/S[dcl] 	 2 	 had know
+21 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 retained had
+24 	 21 	 (S[pt]\NP)/NP 	 2 	 lawyers retained
+24 	 22 	 N/N 	 1 	 lawyers criminal
+24 	 23 	 N/N 	 1 	 lawyers defense
+<\s>
+<s id="wsj_0049.14"> 21
+0 	 1 	 (S\NP)\(S\NP) 	 2 	 Filling out
+0 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Filling would
+0 	 8 	 (S[b]\NP)/NP 	 1 	 Filling tip <XB>
+0 	 13 	 (S[b]\NP)/NP 	 1 	 Filling spark <XU>
+3 	 0 	 (S[ng]\NP)/NP 	 2 	 forms Filling
+3 	 2 	 N/N 	 1 	 forms detailed
+3 	 4 	 (NP\NP)/NP 	 1 	 forms about
+6 	 4 	 (NP\NP)/NP 	 2 	 individuals about
+6 	 5 	 NP[nb]/N 	 1 	 individuals these
+7 	 20 	 (S[dcl]\S[dcl])\NP 	 1 	 would said
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 tip would
+8 	 11 	 (S\NP)\(S\NP) 	 2 	 tip off
+10 	 8 	 (S[b]\NP)/NP 	 2 	 IRS tip
+10 	 9 	 NP[nb]/N 	 1 	 IRS the
+13 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 spark would
+14 	 13 	 (S[b]\NP)/NP 	 2 	 action spark
+14 	 15 	 (NP\NP)/NP 	 1 	 action against
+17 	 15 	 (NP\NP)/NP 	 2 	 clients against
+17 	 16 	 NP[nb]/N 	 1 	 clients the
+19 	 20 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_0049.15"> 25
+2 	 0 	 NP[nb]/N 	 1 	 lawyers The
+2 	 1 	 N/N 	 1 	 lawyers defense
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 lawyers '
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 group '
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 group formed
+4 	 12 	 S[pss]\NP 	 1 	 group chaired <XB>
+4 	 21 	 (S[b]\NP)/PP 	 1 	 group deal <XB>
+5 	 9 	 ((S\NP)\(S\NP))/N 	 2 	 formed this
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 force formed
+8 	 6 	 NP[nb]/N 	 1 	 force a
+8 	 7 	 N/N 	 1 	 force task
+10 	 9 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 chaired by
+18 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Lefcourt by
+18 	 14 	 N/N 	 1 	 Lefcourt New
+18 	 15 	 N/N 	 1 	 Lefcourt York
+18 	 16 	 N/N 	 1 	 Lefcourt attorney
+18 	 17 	 N/N 	 1 	 Lefcourt Gerald
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 deal to
+22 	 21 	 (S[b]\NP)/PP 	 2 	 with deal
+24 	 22 	 PP/NP 	 1 	 matter with
+24 	 23 	 NP[nb]/N 	 1 	 matter the
+<\s>
+<s id="wsj_0049.16"> 18
+3 	 0 	 NP[nb]/N 	 1 	 Association The
+3 	 1 	 N/N 	 1 	 Association American
+3 	 2 	 N/N 	 1 	 Association Bar
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Association 's
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 House 's
+5 	 6 	 (NP\NP)/NP 	 1 	 House of
+5 	 8 	 (S[dcl]\NP)/NP 	 1 	 House passed
+5 	 13 	 (S[ng]\NP)/NP 	 1 	 House condemning <XB>
+7 	 6 	 (NP\NP)/NP 	 2 	 Delegates of
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 passed in
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 resolution passed
+10 	 9 	 NP[nb]/N 	 1 	 resolution a
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 1985 in
+17 	 13 	 (S[ng]\NP)/NP 	 2 	 requirement condemning
+17 	 14 	 NP[nb]/N 	 1 	 requirement the
+17 	 15 	 N/N 	 1 	 requirement IRS
+17 	 16 	 N/N 	 1 	 requirement reporting
+<\s>
+<s id="wsj_0049.17"> 55
+1 	 0 	 N/N 	 1 	 Ross Michael
+1 	 16 	 (S[dcl]\NP)/S[em] 	 1 	 Ross said
+6 	 3 	 NP[nb]/N 	 1 	 lawyer a
+6 	 4 	 N/N 	 1 	 lawyer New
+6 	 5 	 N/N 	 1 	 lawyer York
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 lawyer who
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 lawyer heads <XB>
+6 	 16 	 (S[dcl]\NP)/S[em] 	 1 	 lawyer said
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 heads who
+10 	 9 	 NP[nb]/N 	 1 	 ABA the
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 ABA 's
+14 	 8 	 (S[dcl]\NP)/NP 	 2 	 committee heads
+14 	 11 	 (NP[nb]/N)\NP 	 1 	 committee 's
+14 	 12 	 N/N 	 1 	 committee grand
+14 	 13 	 N/N 	 1 	 committee jury
+17 	 16 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+18 	 19 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 lawyers are
+18 	 20 	 (S[pss]\NP)/PP 	 1 	 lawyers prohibited <XB>
+19 	 17 	 S[em]/S[dcl] 	 1 	 are that
+20 	 19 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 prohibited are
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 prohibited by
+20 	 34 	 ((S\NP)\(S\NP))/(S\NP) 	 2 	 prohibited except
+23 	 22 	 NP[nb]/N 	 1 	 ABA the
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 ABA 's
+25 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 code by
+25 	 24 	 (NP[nb]/N)\NP 	 1 	 code 's
+25 	 26 	 (NP\NP)/NP 	 1 	 code of
+27 	 26 	 (NP\NP)/NP 	 2 	 ethics of
+28 	 20 	 (S[pss]\NP)/PP 	 2 	 from prohibited
+29 	 28 	 PP/(S[ng]\NP) 	 1 	 disclosing from
+30 	 29 	 (S[ng]\NP)/NP 	 2 	 information disclosing
+30 	 31 	 (NP\NP)/NP 	 1 	 information about
+33 	 31 	 (NP\NP)/NP 	 2 	 client about
+33 	 32 	 NP[nb]/N 	 1 	 client a
+35 	 34 	 ((S\NP)\(S\NP))/(S\NP) 	 3 	 where except
+37 	 36 	 NP[nb]/N 	 1 	 court a
+37 	 38 	 (S[dcl]\NP)/NP 	 1 	 court orders
+38 	 35 	 (S\NP)/S[dcl] 	 2 	 orders where
+39 	 38 	 (S[dcl]\NP)/NP 	 2 	 it orders
+41 	 34 	 ((S\NP)\(S\NP))/(S\NP) 	 3 	 to except
+42 	 41 	 (S[to]\NP)/(S[b]\NP) 	 2 	 prevent to
+44 	 42 	 ((S[b]\NP)/PP)/NP 	 3 	 client prevent
+44 	 43 	 NP[nb]/N 	 1 	 client the
+45 	 42 	 ((S[b]\NP)/PP)/NP 	 2 	 from prevent
+46 	 45 	 PP/(S[ng]\NP) 	 1 	 committing from
+49 	 46 	 (S[ng]\NP)/NP 	 2 	 act committing
+49 	 47 	 NP[nb]/N 	 1 	 act a
+49 	 48 	 N/N 	 1 	 act criminal
+49 	 50 	 (NP\NP)/(S[dcl]\NP) 	 1 	 act that
+49 	 51 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 act could <XB>
+49 	 52 	 (S[b]\NP)/PP 	 1 	 act result <XB>
+51 	 50 	 (NP\NP)/(S[dcl]\NP) 	 2 	 could that
+52 	 51 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 result could
+53 	 52 	 (S[b]\NP)/PP 	 2 	 in result
+54 	 53 	 PP/NP 	 1 	 death in
+<\s>
+<s id="wsj_0049.18"> 30
+1 	 0 	 N/N 	 1 	 Ross Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Ross said
+3 	 4 	 (S[dcl]\NP)/PP 	 1 	 he met
+3 	 25 	 (S[b]\NP)/NP 	 1 	 he discuss <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 met said
+4 	 29 	 (S\NP)\(S\NP) 	 2 	 met May
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 with met
+6 	 5 	 PP/NP 	 1 	 officials with
+6 	 7 	 (NP\NP)/NP 	 1 	 officials of
+9 	 7 	 (NP\NP)/NP 	 2 	 IRS of
+9 	 8 	 NP[nb]/N 	 1 	 IRS the
+13 	 7 	 (NP\NP)/NP 	 2 	 Department of
+13 	 11 	 NP[nb]/N 	 1 	 Department the
+13 	 12 	 N/N 	 1 	 Department Justice
+13 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Department which
+13 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Department would <XB>
+13 	 17 	 (S[b]\NP)/NP 	 1 	 Department bring <XB>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would which
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 bring would
+20 	 17 	 (S[b]\NP)/NP 	 2 	 actions bring
+20 	 18 	 NP[nb]/N 	 1 	 actions any
+20 	 19 	 N/N 	 1 	 actions enforcement
+20 	 21 	 (NP\NP)/NP 	 1 	 actions against
+22 	 21 	 (NP\NP)/NP 	 2 	 taxpayers against
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 discuss to
+27 	 25 	 (S[b]\NP)/NP 	 2 	 issue discuss
+27 	 26 	 NP[nb]/N 	 1 	 issue the
+29 	 28 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 May last
+<\s>
+<s id="wsj_0049.19"> 27
+2 	 0 	 (S/S)/NP 	 2 	 meeting At
+2 	 1 	 NP[nb]/N 	 1 	 meeting that
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 he said
+9 	 7 	 NP[nb]/N 	 1 	 Department the
+9 	 8 	 N/N 	 1 	 Department Justice
+9 	 10 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 Department assured
+10 	 0 	 (S/S)/NP 	 1 	 assured At
+10 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 assured said <XU>
+11 	 10 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 him assured
+12 	 10 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that assured
+14 	 13 	 N/N 	 1 	 procedures enforcement
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 procedures would
+14 	 18 	 S[pss]\NP 	 1 	 procedures threatened <XB>
+15 	 12 	 S[em]/S[dcl] 	 1 	 would that
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 would n't
+17 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+18 	 17 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 threatened be
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 threatened against
+18 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 threatened without
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 attorneys against
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 review without
+23 	 22 	 N/N 	 1 	 review further
+26 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 notice without
+26 	 25 	 N/N 	 1 	 notice advance
+<\s>
+<s id="wsj_0049.20"> 15
+1 	 0 	 N/N 	 1 	 Ross Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Ross said
+4 	 3 	 N/N 	 1 	 officials IRS
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 officials opposed
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 opposed said
+8 	 6 	 NP[nb]/N 	 1 	 Department the
+8 	 7 	 N/N 	 1 	 Department Justice
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 Department 's
+11 	 5 	 (S[dcl]\NP)/NP 	 2 	 stance opposed
+11 	 9 	 (NP[nb]/N)\NP 	 1 	 stance 's
+11 	 10 	 N/N 	 1 	 stance moderate
+11 	 12 	 (NP\NP)/NP 	 1 	 stance on
+14 	 12 	 (NP\NP)/NP 	 2 	 matter on
+14 	 13 	 NP[nb]/N 	 1 	 matter the
+<\s>
+<s id="wsj_0049.21"> 38
+3 	 1 	 (S/S)/NP 	 2 	 letters in
+3 	 2 	 NP[nb]/N 	 1 	 letters the
+3 	 4 	 S[pss]\NP 	 1 	 letters sent <XB>
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 sent in
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 days in
+7 	 6 	 N/N 	 1 	 days recent
+11 	 9 	 N/N 	 1 	 Lezovich Christopher
+11 	 10 	 N/N 	 1 	 Lezovich J.
+11 	 12 	 (NP\NP)/NP 	 1 	 Lezovich of
+11 	 20 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 Lezovich told
+16 	 12 	 (NP\NP)/NP 	 2 	 center of
+16 	 13 	 NP[nb]/N 	 1 	 center the
+16 	 14 	 N/N 	 1 	 center IRS
+16 	 15 	 N/N 	 1 	 center computing
+16 	 17 	 (NP\NP)/NP 	 1 	 center in
+18 	 17 	 (NP\NP)/NP 	 2 	 Detroit in
+20 	 0 	 S/S 	 1 	 told But
+20 	 1 	 (S/S)/NP 	 1 	 told in
+21 	 20 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 attorneys told
+22 	 20 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that told
+23 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 failing could
+23 	 31 	 (S[b]\NP)/PP 	 1 	 failing result <XB>
+24 	 23 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to failing
+26 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 submit to
+26 	 25 	 (S\NP)/(S\NP) 	 2 	 submit voluntarily
+29 	 26 	 (S[b]\NP)/NP 	 2 	 information submit
+29 	 27 	 NP[nb]/N 	 1 	 information the
+29 	 28 	 N/N 	 1 	 information requested
+30 	 22 	 S[em]/S[dcl] 	 1 	 could that
+31 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 result could
+32 	 31 	 (S[b]\NP)/PP 	 2 	 in result
+35 	 32 	 (PP/(S[ng]\NP))/NP 	 2 	 action in
+35 	 33 	 N/N 	 1 	 action summons
+35 	 34 	 N/N 	 1 	 action enforcement
+35 	 36 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 action being <XB>
+35 	 37 	 S[pss]\NP 	 1 	 action initiated <XB>
+36 	 32 	 (PP/(S[ng]\NP))/NP 	 1 	 being in
+37 	 36 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 initiated being
+<\s>
+<s id="wsj_0049.22"> 17
+2 	 0 	 (S/S)/NP 	 2 	 cases In
+2 	 1 	 NP[nb]/N 	 1 	 cases some
+5 	 4 	 NP[nb]/N 	 1 	 IRS the
+5 	 6 	 (S[dcl]\NP)/PP 	 1 	 IRS asked
+6 	 0 	 (S/S)/NP 	 1 	 asked In
+7 	 6 	 (S[dcl]\NP)/PP 	 2 	 for asked
+8 	 7 	 PP/NP 	 1 	 information for
+8 	 9 	 S[ng]\NP 	 1 	 information dating <XB>
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 dating back
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 dating to
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 forms to
+12 	 14 	 (S[dcl]\NP)/NP 	 2 	 forms received <XU>
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 it received
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 received in
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 1985 in
+<\s>
+<s id="wsj_0049.23"> 29
+1 	 0 	 NP[nb]/N 	 1 	 spokesman A
+1 	 2 	 (NP\NP)/NP 	 1 	 spokesman for
+1 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 spokesman confirmed
+4 	 2 	 (NP\NP)/NP 	 2 	 IRS for
+4 	 3 	 NP[nb]/N 	 1 	 IRS the
+6 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that confirmed
+7 	 8 	 (S[dcl]\NP[thr])/(S[pt]\NP) 	 1 	 there has
+8 	 6 	 S[em]/S[dcl] 	 1 	 has that
+9 	 8 	 (S[dcl]\NP[thr])/(S[pt]\NP) 	 2 	 been has
+10 	 9 	 (S[pt]\NP)/NP 	 2 	 correspondence been
+10 	 11 	 S[pss]\NP 	 1 	 correspondence mailed <XB>
+10 	 12 	 (NP\NP)/NP 	 1 	 correspondence about
+14 	 12 	 (NP\NP)/NP 	 2 	 8300s about
+14 	 13 	 N/N 	 1 	 8300s incomplete
+17 	 18 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 he declined
+17 	 20 	 (S[b]\NP)/S[qem] 	 1 	 he say <XB>
+19 	 18 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 say to
+21 	 20 	 (S[b]\NP)/S[qem] 	 2 	 why say
+23 	 22 	 NP[nb]/N 	 1 	 letters the
+23 	 24 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 letters were
+23 	 25 	 S[pss]\NP 	 1 	 letters sent <XB>
+24 	 21 	 S[qem]/S[dcl] 	 1 	 were why
+25 	 24 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sent were
+25 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 sent to
+25 	 28 	 (S\NP)\(S\NP) 	 2 	 sent now
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 lawyers to
+<\s>
+<s id="wsj_0049.24"> 25
+0 	 1 	 S[adj]\NP 	 1 	 Individuals familiar <XB>
+0 	 8 	 (S[dcl]\NP)/S[em] 	 1 	 Individuals said
+1 	 2 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 familiar with
+5 	 3 	 NP[nb]/N 	 1 	 Department the
+5 	 4 	 N/N 	 1 	 Department Justice
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Department 's
+7 	 2 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 policy with
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 policy 's
+9 	 8 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+11 	 10 	 N/N 	 1 	 officials Justice
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 officials had
+12 	 9 	 S[em]/S[dcl] 	 1 	 had that
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 had n't
+15 	 12 	 (S[dcl]\NP)/NP 	 2 	 knowledge had
+15 	 14 	 NP[nb]/N 	 1 	 knowledge any
+15 	 16 	 (NP\NP)/NP 	 1 	 knowledge of
+18 	 17 	 NP[nb]/N 	 1 	 IRS the
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 IRS 's
+20 	 16 	 (NP\NP)/NP 	 2 	 actions of
+20 	 19 	 (NP[nb]/N)\NP 	 1 	 actions 's
+20 	 21 	 (NP\NP)/NP 	 1 	 actions in
+24 	 21 	 (NP\NP)/NP 	 2 	 week in
+24 	 22 	 NP[nb]/N 	 1 	 week the
+24 	 23 	 N/N 	 1 	 week last
+<\s>
+<s id="wsj_0049.25"> 21
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Lawyers worry
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that worry
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 they provide
+5 	 3 	 (S/S)/S[dcl] 	 2 	 provide if
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 information provide
+6 	 7 	 (NP\NP)/NP 	 1 	 information about
+8 	 7 	 (NP\NP)/NP 	 2 	 clients about
+11 	 10 	 NP[nb]/N 	 1 	 data that
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 data could
+11 	 14 	 S[b]\NP 	 1 	 data end <XB>
+12 	 2 	 S[em]/S[dcl] 	 1 	 could that
+12 	 3 	 (S/S)/S[dcl] 	 1 	 could if
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 could quickly
+14 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 end could
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 end up
+14 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 end in
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 hands in
+18 	 17 	 NP[nb]/N 	 1 	 hands the
+18 	 19 	 (NP\NP)/NP 	 1 	 hands of
+20 	 19 	 (NP\NP)/NP 	 2 	 prosecutors of
+<\s>
+<s id="wsj_0049.26"> 15
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Prosecutors need
+0 	 5 	 (S[b]\NP)/NP 	 1 	 Prosecutors obtain <XB>
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 permission need
+3 	 2 	 N/N 	 1 	 permission court
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 obtain to
+8 	 5 	 (S[b]\NP)/NP 	 2 	 returns obtain
+8 	 6 	 NP[nb]/N 	 1 	 returns the
+8 	 7 	 N/N 	 1 	 returns tax
+8 	 9 	 (NP\NP)/NP 	 1 	 returns of
+11 	 9 	 (NP\NP)/NP 	 2 	 individual of
+11 	 10 	 NP[nb]/N 	 1 	 individual an
+14 	 9 	 (NP\NP)/NP 	 2 	 business of
+14 	 13 	 NP[nb]/N 	 1 	 business a
+<\s>
+<s id="wsj_0049.27"> 18
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 they have
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 they obtained <XB>
+1 	 10 	 (S[pt]\NP)/NP 	 1 	 they used <XU>
+1 	 14 	 (S[b]\NP)/(S[b]\NP) 	 1 	 they help <XU>
+1 	 15 	 (S[b]\NP)/NP 	 1 	 they develop <XU>
+2 	 0 	 S/S 	 1 	 have But
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 obtained have
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 obtained without
+5 	 3 	 (S[pt]\NP)/NP 	 2 	 forms obtained
+5 	 4 	 N/N 	 1 	 forms 8300
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 permission without
+8 	 7 	 N/N 	 1 	 permission court
+10 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 used have
+12 	 10 	 (S[pt]\NP)/NP 	 2 	 information used
+12 	 11 	 NP[nb]/N 	 1 	 information the
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 help to
+15 	 14 	 (S[b]\NP)/(S[b]\NP) 	 2 	 develop help
+17 	 15 	 (S[b]\NP)/NP 	 2 	 cases develop
+17 	 16 	 N/N 	 1 	 cases criminal
+<\s>
+<s id="wsj_0049.28"> 15
+2 	 0 	 NP[nb]/N 	 1 	 lawyers Some
+2 	 1 	 N/N 	 1 	 lawyers criminal
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 lawyers speculated
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that speculated
+6 	 5 	 NP[nb]/N 	 1 	 IRS the
+6 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 IRS was
+6 	 8 	 (S[ng]\NP)/NP 	 1 	 IRS sending <XB>
+6 	 12 	 (S[b]\NP)/NP 	 1 	 IRS test <XB>
+7 	 4 	 S[em]/S[dcl] 	 1 	 was that
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 sending was
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 letters sending
+10 	 9 	 NP[nb]/N 	 1 	 letters the
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 test to
+14 	 12 	 (S[b]\NP)/NP 	 2 	 issue test
+14 	 13 	 NP[nb]/N 	 1 	 issue the
+<\s>
+<s id="wsj_0049.29"> 26
+2 	 0 	 (S/S)/NP 	 2 	 number In
+2 	 1 	 NP[nb]/N 	 1 	 number a
+2 	 3 	 (NP\NP)/NP 	 1 	 number of
+5 	 3 	 (NP\NP)/NP 	 2 	 cases of
+5 	 4 	 N/N 	 1 	 cases recent
+8 	 7 	 N/N 	 1 	 courts federal
+8 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 courts have
+8 	 10 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 courts refused <XB>
+8 	 12 	 (S[b]\NP)/NP 	 1 	 courts recognize <XB>
+9 	 0 	 (S/S)/NP 	 1 	 have In
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 refused have
+11 	 10 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to refused
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 recognize to
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 attorneys '
+15 	 12 	 (S[b]\NP)/NP 	 2 	 assertions recognize
+15 	 14 	 (NP[nb]/N)\NP 	 1 	 assertions '
+16 	 15 	 N/S[em] 	 1 	 that assertions
+17 	 18 	 (S[ng]\NP)/PP 	 1 	 information relating <XB>
+17 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 information should
+17 	 25 	 S[adj]\NP 	 1 	 information confidential <XB>
+19 	 18 	 (S[ng]\NP)/PP 	 2 	 to relating
+20 	 19 	 PP/NP 	 1 	 fees to
+20 	 21 	 (NP\NP)/NP 	 1 	 fees from
+22 	 21 	 (NP\NP)/NP 	 2 	 clients from
+23 	 16 	 S[em]/S[dcl] 	 1 	 should that
+24 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be should
+25 	 24 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 confidential be
+<\s>
+<s id="wsj_0049.30"> 9
+1 	 0 	 NP[nb]/N 	 1 	 WAR THE
+1 	 2 	 (NP\NP)/NP 	 1 	 WAR OVER
+1 	 6 	 (S[dcl]\NP)/NP 	 1 	 WAR takes
+5 	 2 	 (NP\NP)/NP 	 2 	 SALARIES OVER
+5 	 3 	 N/N 	 1 	 SALARIES FEDERAL
+5 	 4 	 N/N 	 1 	 SALARIES JUDICIAL
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 victim takes
+8 	 7 	 NP[nb]/N 	 1 	 victim a
+<\s>
+<s id="wsj_0049.31"> 24
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 judges ease
+3 	 0 	 S/S 	 1 	 ease Often
+3 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 ease with
+3 	 13 	 (S\S)/S[frg] 	 1 	 ease but
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 into ease
+6 	 5 	 (N/N)/(N/N) 	 2 	 lucrative more
+8 	 4 	 PP/NP 	 1 	 practice into
+8 	 6 	 N/N 	 1 	 practice lucrative
+8 	 7 	 N/N 	 1 	 practice private
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 fanfare with
+11 	 10 	 N/N 	 1 	 fanfare little
+14 	 13 	 (S\S)/S[frg] 	 2 	 not but
+19 	 14 	 S[frg]/NP 	 1 	 Ramirez not
+19 	 15 	 N/N 	 1 	 Ramirez federal
+19 	 16 	 N/N 	 1 	 Ramirez Judge
+19 	 17 	 N/N 	 1 	 Ramirez Raul
+19 	 18 	 N/N 	 1 	 Ramirez A.
+19 	 20 	 (NP\NP)/NP 	 1 	 Ramirez in
+21 	 20 	 (NP\NP)/NP 	 2 	 Sacramento in
+23 	 20 	 (NP\NP)/NP 	 2 	 Calif in
+<\s>
+<s id="wsj_0049.32"> 24
+1 	 0 	 (S/S)/NP 	 2 	 Tuesday On
+4 	 3 	 NP[nb]/N 	 1 	 judge the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 judge called
+4 	 10 	 (S[b]\NP)/S[dcl] 	 1 	 judge say <XB>
+5 	 0 	 (S/S)/NP 	 1 	 called On
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 conference called
+8 	 6 	 NP[nb]/N 	 1 	 conference a
+8 	 7 	 N/N 	 1 	 conference news
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 say to
+11 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 he was
+11 	 13 	 S[ng]\NP 	 1 	 he quitting <XB>
+11 	 14 	 (S[adj]\NP)/NP 	 1 	 he effective <XB>
+11 	 18 	 (S[b]\NP)/NP 	 1 	 he join <XB>
+12 	 10 	 (S[b]\NP)/S[dcl] 	 2 	 was say
+13 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 quitting was
+15 	 14 	 (S[adj]\NP)/NP 	 2 	 Dec. effective
+16 	 15 	 N/N[num] 	 1 	 31 Dec.
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 join to
+23 	 18 	 (S[b]\NP)/NP 	 2 	 firm join
+23 	 19 	 NP[nb]/N 	 1 	 firm a
+23 	 20 	 N/N 	 1 	 firm San
+23 	 21 	 N/N 	 1 	 firm Francisco
+23 	 22 	 N/N 	 1 	 firm law
+<\s>
+<s id="wsj_0049.33"> 13
+1 	 0 	 NP[nb]/N 	 1 	 reason The
+1 	 2 	 (NP\NP)/NP 	 1 	 reason :
+4 	 2 	 (NP\NP)/NP 	 2 	 refusal :
+4 	 3 	 NP[nb]/N 	 1 	 refusal the
+4 	 5 	 (NP\NP)/NP 	 1 	 refusal of
+6 	 5 	 (NP\NP)/NP 	 2 	 Congress of
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give to
+10 	 8 	 ((S[b]\NP)/NP)/NP 	 3 	 judges give
+10 	 9 	 N/N 	 1 	 judges federal
+12 	 8 	 ((S[b]\NP)/NP)/NP 	 2 	 raise give
+12 	 11 	 NP[nb]/N 	 1 	 raise a
+<\s>
+<s id="wsj_0049.34"> 39
+1 	 0 	 NP[nb]/N 	 1 	 couple A
+1 	 2 	 (NP\NP)/NP 	 1 	 couple of
+1 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 couple were
+1 	 9 	 (S[b]\NP)/NP 	 1 	 couple pass <XB>
+5 	 2 	 (NP\NP)/NP 	 2 	 clerks of
+5 	 3 	 NP[nb]/N 	 1 	 clerks my
+5 	 4 	 N/N 	 1 	 clerks law
+6 	 35 	 (S[dcl]\S[dcl])\NP 	 1 	 were quipped
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going were
+8 	 7 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pass to
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 pass in
+10 	 9 	 (S[b]\NP)/NP 	 2 	 me pass
+15 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 years in
+15 	 12 	 N/N 	 1 	 years three <XU>
+15 	 14 	 N/N 	 1 	 years four
+18 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 I was
+18 	 20 	 (S[adj]\NP)/S[dcl] 	 1 	 I afraid <XB>
+19 	 35 	 (S[dcl]\S[dcl])\NP 	 1 	 was quipped
+20 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 afraid was
+21 	 22 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 I was
+21 	 27 	 ((S[b]\NP)/PP)/NP 	 1 	 I ask <XB>
+22 	 20 	 (S[adj]\NP)/S[dcl] 	 2 	 was afraid
+23 	 22 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going was
+24 	 23 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+26 	 25 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 ask to
+28 	 27 	 ((S[b]\NP)/PP)/NP 	 3 	 them ask
+29 	 27 	 ((S[b]\NP)/PP)/NP 	 2 	 for ask
+31 	 29 	 PP/NP 	 1 	 loan for
+31 	 30 	 NP[nb]/N 	 1 	 loan a
+34 	 33 	 NP[nb]/N 	 1 	 judge the
+34 	 35 	 (S[dcl]\S[dcl])\NP 	 2 	 judge quipped
+35 	 36 	 (S\S)/NP 	 1 	 quipped in
+38 	 36 	 (S\S)/NP 	 2 	 interview in
+38 	 37 	 NP[nb]/N 	 1 	 interview an
+<\s>
+<s id="wsj_0049.35"> 23
+1 	 0 	 N/N 	 1 	 judges Federal
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 judges make
+2 	 5 	 (S\NP)\(S\NP) 	 2 	 make annually
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 $ make
+4 	 3 	 N/N[num] 	 1 	 89,500 $
+8 	 7 	 (S/S)/NP 	 2 	 February in
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 Congress rejected
+11 	 7 	 (S/S)/NP 	 1 	 rejected in
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 bill rejected
+13 	 12 	 NP[nb]/N 	 1 	 bill a
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bill that
+13 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bill would <XB>
+13 	 17 	 (S[pt]\NP)/NP 	 1 	 bill increased <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+17 	 16 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 increased have
+17 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 increased by
+19 	 17 	 (S[pt]\NP)/NP 	 2 	 pay increased
+19 	 18 	 NP[nb]/N 	 1 	 pay their
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 % by
+22 	 21 	 N/N 	 1 	 % 50
+<\s>
+<s id="wsj_0049.36"> 16
+1 	 0 	 N/N 	 1 	 Ramirez Judge
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Ramirez said
+3 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 44 said
+6 	 7 	 ((S[dcl]\NP[expl])/S[for])/(S[adj]\NP) 	 1 	 it is
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+8 	 7 	 ((S[dcl]\NP[expl])/S[for])/(S[adj]\NP) 	 3 	 unjust is
+9 	 7 	 ((S[dcl]\NP[expl])/S[for])/(S[adj]\NP) 	 2 	 for is
+10 	 9 	 (S[for]/(S[to]\NP))/NP 	 2 	 judges for
+10 	 12 	 (S[b]\NP)/NP 	 1 	 judges make <XB>
+11 	 9 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+13 	 12 	 (S[b]\NP)/NP 	 2 	 what make
+13 	 15 	 (S[dcl]\NP)/NP 	 2 	 what do <XU>
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 they do
+15 	 13 	 NP/(S[dcl]/NP) 	 1 	 do what
+<\s>
+<s id="wsj_0049.37"> 7
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Judges are
+0 	 3 	 (S[ng]\NP)/NP 	 1 	 Judges getting <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 are not
+3 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 getting are
+4 	 3 	 (S[ng]\NP)/NP 	 2 	 what getting
+4 	 6 	 (S[dcl]\NP)/NP 	 2 	 what deserve <XU>
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 they deserve
+6 	 4 	 NP/(S[dcl]/NP) 	 1 	 deserve what
+<\s>
+<s id="wsj_0049.38"> 14
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 You look
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 look around
+3 	 1 	 (S[dcl]\NP)/PP 	 2 	 at look
+5 	 3 	 PP/NP 	 1 	 ballplayers at
+5 	 4 	 N/N 	 1 	 ballplayers professional
+7 	 3 	 PP/NP 	 1 	 accountants at
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 nobody blinks
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 eye blinks
+13 	 12 	 NP[nb]/N 	 1 	 eye an
+<\s>
+<s id="wsj_0049.39"> 18
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 you become
+2 	 0 	 (S/S)/S[dcl] 	 2 	 become When
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 judge become
+5 	 3 	 NP[nb]/N 	 1 	 judge a
+5 	 4 	 N/N 	 1 	 judge federal
+10 	 7 	 (S/S)/(S/S) 	 2 	 sudden all
+10 	 8 	 (S/S)/(S/S) 	 2 	 sudden of
+10 	 9 	 (S/S)/(S/S) 	 2 	 sudden a
+11 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 you are
+11 	 13 	 (S[pss]\NP)/PP 	 1 	 you relegated <XB>
+12 	 0 	 (S/S)/S[dcl] 	 1 	 are When
+12 	 10 	 S/S 	 1 	 are sudden
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 relegated are
+14 	 13 	 (S[pss]\NP)/PP 	 2 	 to relegated
+17 	 14 	 PP/NP 	 1 	 sum to
+17 	 15 	 NP[nb]/N 	 1 	 sum a
+17 	 16 	 N/N 	 1 	 sum paltry
+<\s>
+<s id="wsj_0049.40"> 29
+3 	 0 	 (S/S)/NP 	 2 	 job At
+3 	 1 	 NP[nb]/N 	 1 	 job his
+3 	 2 	 N/N 	 1 	 job new
+6 	 5 	 (S/S)/NP 	 2 	 partner as
+6 	 7 	 (NP\NP)/NP 	 1 	 partner in
+8 	 7 	 (NP\NP)/NP 	 2 	 charge in
+8 	 9 	 (NP\NP)/NP 	 1 	 charge of
+11 	 9 	 (NP\NP)/NP 	 2 	 litigation of
+11 	 10 	 N/N 	 1 	 litigation federal
+15 	 12 	 (S/S)/NP 	 2 	 office in
+15 	 13 	 NP[nb]/N 	 1 	 office the
+15 	 14 	 N/N 	 1 	 office Sacramento
+15 	 16 	 (NP\NP)/NP 	 1 	 office of
+21 	 16 	 (NP\NP)/NP 	 2 	 Sutcliffe of
+21 	 17 	 N/N 	 1 	 Sutcliffe Orrick
+21 	 19 	 N/N 	 1 	 Sutcliffe Herrington
+21 	 20 	 N/N 	 1 	 Sutcliffe &
+23 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he will
+23 	 25 	 S[b]\NP 	 1 	 he make <XB>
+24 	 0 	 (S/S)/NP 	 1 	 will At
+24 	 5 	 (S/S)/NP 	 1 	 will as
+24 	 12 	 (S/S)/NP 	 1 	 will in
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make will
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 make out
+25 	 28 	 (S\NP)\(S\NP) 	 2 	 make better
+28 	 27 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 better much
+<\s>
+<s id="wsj_0049.41"> 21
+1 	 0 	 NP[nb]/N 	 1 	 judge The
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 judge declined
+1 	 4 	 (S[b]\NP)/NP 	 1 	 judge discuss <XB>
+1 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 judge said <XU>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 discuss to
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 discuss in
+6 	 4 	 (S[b]\NP)/NP 	 2 	 salary discuss
+6 	 5 	 NP[nb]/N 	 1 	 salary his
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 detail in
+13 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 I 'm
+13 	 17 	 (S[b]\NP)/NP 	 1 	 I be <XB>
+14 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 'm said
+15 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going 'm
+16 	 15 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+20 	 17 	 (S[b]\NP)/NP 	 2 	 lawyer be
+20 	 18 	 NP[nb]/N 	 1 	 lawyer a
+20 	 19 	 N/N 	 1 	 lawyer high-priced
+<\s>
+<s id="wsj_0049.42"> 8
+1 	 0 	 N/N 	 1 	 CREATOR'S DOONESBURY
+1 	 2 	 NP\NP 	 1 	 CREATOR'S UNION
+1 	 3 	 NP\NP 	 1 	 CREATOR'S TROUBLES
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 CREATOR'S are
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 matter are
+7 	 5 	 NP[nb]/N 	 1 	 matter no
+7 	 6 	 N/N 	 1 	 matter laughing
+<\s>
+<s id="wsj_0049.43"> 33
+2 	 0 	 N/N 	 1 	 Trudeau Cartoonist
+2 	 1 	 N/N 	 1 	 Trudeau Garry
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Trudeau is
+2 	 4 	 ((S[ng]\NP)/PP)/NP 	 1 	 Trudeau suing <XB>
+2 	 16 	 (S[ng]\NP)/S[dcl] 	 1 	 Trudeau alleging <XB>
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 suing is
+7 	 4 	 ((S[ng]\NP)/PP)/NP 	 3 	 Guild suing
+7 	 5 	 NP[nb]/N 	 1 	 Guild the
+7 	 6 	 N/N 	 1 	 Guild Writers
+7 	 8 	 (NP\NP)/NP 	 1 	 Guild of
+10 	 8 	 (NP\NP)/NP 	 2 	 East of
+10 	 9 	 N/N 	 1 	 East America
+11 	 4 	 ((S[ng]\NP)/PP)/NP 	 2 	 for suing
+12 	 11 	 PP/NP 	 1 	 $ for
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 11
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 it mounted
+18 	 16 	 (S[ng]\NP)/S[dcl] 	 2 	 mounted alleging
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 campaign mounted
+20 	 19 	 NP[nb]/N 	 1 	 campaign a
+20 	 22 	 (S[b]\NP)/NP 	 1 	 campaign harass <XB>
+20 	 24 	 (S[b]\NP)/NP 	 1 	 campaign punish <XU>
+20 	 27 	 (S[ng]\NP)/NP 	 1 	 campaign crossing <XB>
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 harass to
+22 	 26 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 harass for
+24 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 punish to
+24 	 26 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 punish for
+25 	 22 	 (S[b]\NP)/NP 	 2 	 him harass <XU>
+25 	 24 	 (S[b]\NP)/NP 	 2 	 him punish
+27 	 26 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 crossing for
+29 	 28 	 NP[nb]/N 	 1 	 screenwriters a
+29 	 30 	 (NP[nb]/N)\NP 	 2 	 screenwriters '
+32 	 27 	 (S[ng]\NP)/NP 	 2 	 line crossing
+32 	 30 	 (NP[nb]/N)\NP 	 1 	 line '
+32 	 31 	 N/N 	 1 	 line picket
+<\s>
+<s id="wsj_0049.44"> 18
+1 	 0 	 NP[nb]/N 	 1 	 dispute The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 dispute involves
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 Inc. involves
+5 	 3 	 N/N 	 1 	 Inc. Darkhorse
+5 	 4 	 N/N 	 1 	 Inc. Productions
+10 	 2 	 (S[dcl]\NP)/NP 	 2 	 company involves
+10 	 7 	 NP[nb]/N 	 1 	 company a
+10 	 8 	 N/N 	 1 	 company TV
+10 	 9 	 N/N 	 1 	 company production
+10 	 12 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 company which
+11 	 12 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+14 	 13 	 N/N 	 1 	 Trudeau Mr.
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 Trudeau is
+15 	 12 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 is which
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 co-owner is
+17 	 16 	 NP[nb]/N 	 1 	 co-owner a
+<\s>
+<s id="wsj_0049.45"> 25
+1 	 0 	 N/N 	 1 	 Trudeau Mr.
+1 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Trudeau was
+1 	 10 	 (S[pss]\NP)/PP 	 1 	 Trudeau employed <XB>
+6 	 3 	 NP[nb]/N 	 1 	 member a
+6 	 4 	 N/N 	 1 	 member Writers
+6 	 5 	 N/N 	 1 	 member Guild
+6 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 member was
+6 	 10 	 (S[pss]\NP)/PP 	 1 	 member employed <XB>
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 was also
+10 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 employed was
+11 	 10 	 (S[pss]\NP)/PP 	 2 	 as employed
+13 	 11 	 PP/NP 	 1 	 writer as
+13 	 12 	 NP[nb]/N 	 1 	 writer a
+13 	 14 	 (NP\NP)/NP 	 1 	 writer for
+15 	 14 	 (NP\NP)/NP 	 2 	 Darkhorse for
+15 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Darkhorse which
+15 	 18 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Darkhorse was <XB>
+15 	 19 	 S[pss]\NP 	 1 	 Darkhorse covered <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was which
+19 	 18 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 covered was
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 covered by
+24 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 agreement by
+24 	 21 	 NP[nb]/N 	 1 	 agreement a
+24 	 22 	 N/N 	 1 	 agreement guild
+24 	 23 	 N/N 	 1 	 agreement collective-bargaining
+<\s>
+<s id="wsj_0049.46"> 14
+1 	 0 	 NP[nb]/N 	 1 	 guild The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 guild began
+2 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 began in
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 strike began
+4 	 3 	 NP[nb]/N 	 1 	 strike a
+4 	 5 	 (NP\NP)/NP 	 1 	 strike against
+7 	 5 	 (NP\NP)/NP 	 2 	 TV against
+7 	 6 	 NP[nb]/N 	 1 	 TV the
+10 	 5 	 (NP\NP)/NP 	 2 	 industry against
+10 	 6 	 NP[nb]/N 	 1 	 industry the
+10 	 9 	 N/N 	 1 	 industry movie
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 March in
+12 	 13 	 N\N 	 1 	 March 1988
+<\s>
+<s id="wsj_0049.47"> 24
+2 	 0 	 (S/S)/NP 	 2 	 lawsuit In
+2 	 1 	 NP[nb]/N 	 1 	 lawsuit his
+5 	 4 	 N/N 	 1 	 Trudeau Mr.
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Trudeau says
+6 	 0 	 (S/S)/NP 	 1 	 says In
+8 	 7 	 NP[nb]/N 	 1 	 strike the
+8 	 10 	 (S[dcl]\NP)/NP 	 1 	 strike included
+10 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 included says
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 included illegally
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 Darkhorse included
+15 	 14 	 NP[nb]/N 	 1 	 cartoonist the
+15 	 16 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 cartoonist refused
+15 	 18 	 (S[b]\NP)/NP 	 1 	 cartoonist honor <XB>
+16 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 refused says
+17 	 16 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to refused
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 honor to
+20 	 18 	 (S[b]\NP)/NP 	 2 	 strike honor
+20 	 19 	 NP[nb]/N 	 1 	 strike the
+20 	 21 	 (NP\NP)/NP 	 1 	 strike against
+23 	 21 	 (NP\NP)/NP 	 2 	 company against
+23 	 22 	 NP[nb]/N 	 1 	 company the
+<\s>
+<s id="wsj_0049.48"> 14
+1 	 0 	 NP[nb]/N 	 1 	 spokesman A
+1 	 2 	 (NP\NP)/NP 	 1 	 spokesman for
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+4 	 2 	 (NP\NP)/NP 	 2 	 guild for
+4 	 3 	 NP[nb]/N 	 1 	 guild the
+7 	 6 	 NP[nb]/N 	 1 	 union the
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 union 's
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 lawyers 's
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 lawyers are
+9 	 11 	 (S[ng]\NP)/NP 	 1 	 lawyers reviewing <XB>
+10 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 reviewing are
+13 	 11 	 (S[ng]\NP)/NP 	 2 	 suit reviewing
+13 	 12 	 NP[nb]/N 	 1 	 suit the
+<\s>
+<s id="wsj_0049.49"> 19
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+0 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 He declined <XU>
+0 	 9 	 (S[b]\NP)/PP 	 1 	 He comment <XU>
+3 	 2 	 N/N 	 1 	 proceedings disciplinary
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 proceedings are
+3 	 5 	 S[adj]\NP 	 1 	 proceedings confidential <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 confidential are
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+10 	 9 	 (S[b]\NP)/PP 	 2 	 on comment
+11 	 10 	 PP/S[qem] 	 1 	 whether on
+12 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 any are
+12 	 14 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 any being <XB>
+12 	 15 	 (S[pss]\NP)/PP 	 1 	 any held <XB>
+13 	 11 	 S[qem]/S[dcl] 	 1 	 are whether
+14 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being are
+15 	 14 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 held being
+16 	 15 	 (S[pss]\NP)/PP 	 2 	 against held
+18 	 16 	 PP/NP 	 1 	 Trudeau against
+18 	 17 	 N/N 	 1 	 Trudeau Mr.
+<\s>
+<s id="wsj_0049.50"> 23
+1 	 0 	 N/N 	 1 	 Trudeau Mr.
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Trudeau 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 attorney 's
+3 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 attorney said
+7 	 5 	 N/N 	 1 	 Samnick Norman
+7 	 6 	 N/N 	 1 	 Samnick K.
+7 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Samnick said
+11 	 10 	 NP[nb]/N 	 1 	 harassment the
+11 	 12 	 (S[dcl]\NP)/PP 	 1 	 harassment consists
+12 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 consists said
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 consists mainly
+14 	 12 	 (S[dcl]\NP)/PP 	 2 	 of consists
+16 	 15 	 NP[nb]/N 	 1 	 guild the
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 guild 's
+19 	 14 	 PP/NP 	 1 	 threats of
+19 	 17 	 (NP[nb]/N)\NP 	 1 	 threats 's
+19 	 18 	 N/N 	 1 	 threats year-long
+19 	 20 	 (NP\NP)/NP 	 1 	 threats of
+22 	 20 	 (NP\NP)/NP 	 2 	 action of
+22 	 21 	 N/N 	 1 	 action disciplinary
+<\s>
+<s id="wsj_0049.51"> 14
+1 	 0 	 N/N 	 1 	 Samnick Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Samnick said
+6 	 3 	 NP[nb]/N 	 1 	 hearing a
+6 	 4 	 N/N 	 1 	 hearing guild
+6 	 5 	 N/N 	 1 	 hearing disciplinary
+6 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 hearing is
+6 	 8 	 S[pss]\NP 	 1 	 hearing scheduled <XB>
+7 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 scheduled is
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 scheduled next
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 scheduled in
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Monday next
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 York in
+13 	 12 	 N/N 	 1 	 York New
+<\s>
+<s id="wsj_0049.52"> 26
+1 	 0 	 N/N 	 1 	 Samnick Mr.
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Samnick who
+1 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Samnick will <XB>
+1 	 5 	 S[b]\NP 	 1 	 Samnick go <XB>
+1 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 Samnick said
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will who
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go will
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 go before
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 panel before
+9 	 7 	 NP[nb]/N 	 1 	 panel the
+9 	 8 	 N/N 	 1 	 panel disciplinary
+13 	 12 	 NP[nb]/N 	 1 	 proceedings the
+13 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 proceedings are
+13 	 15 	 S[adj]\NP 	 1 	 proceedings unfair <XB>
+14 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+15 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unfair are
+17 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 that said
+19 	 18 	 NP[nb]/N 	 1 	 punishment any
+19 	 20 	 (NP\NP)/NP 	 1 	 punishment from
+19 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 punishment would
+19 	 25 	 S[adj]\NP 	 1 	 punishment unjustified <XB>
+22 	 20 	 (NP\NP)/NP 	 2 	 guild from
+22 	 21 	 NP[nb]/N 	 1 	 guild the
+23 	 17 	 S[em]/S[dcl] 	 1 	 would that
+24 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+25 	 24 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 unjustified be
+<\s>
+<s id="wsj_0049.53"> 22
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+1 	 2 	 (NP\NP)/NP 	 1 	 addition to
+4 	 2 	 (NP\NP)/NP 	 2 	 damages to
+4 	 3 	 NP[nb]/N 	 1 	 damages the
+7 	 6 	 NP[nb]/N 	 1 	 suit the
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 suit seeks
+8 	 0 	 (S/S)/NP 	 1 	 seeks In
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 order seeks
+11 	 9 	 NP[nb]/N 	 1 	 order a
+11 	 10 	 N/N 	 1 	 order court
+11 	 12 	 ((S[ng]\NP)/PP)/NP 	 1 	 order preventing <XB>
+14 	 12 	 ((S[ng]\NP)/PP)/NP 	 3 	 guild preventing
+14 	 13 	 NP[nb]/N 	 1 	 guild the
+15 	 12 	 ((S[ng]\NP)/PP)/NP 	 2 	 from preventing
+16 	 15 	 PP/(S[ng]\NP) 	 1 	 punishing from
+18 	 15 	 PP/(S[ng]\NP) 	 1 	 retaliating from
+19 	 18 	 (S[ng]\NP)/PP 	 2 	 against retaliating
+21 	 16 	 (S[ng]\NP)/NP 	 2 	 Trudeau punishing <XU>
+21 	 19 	 PP/NP 	 1 	 Trudeau against
+21 	 20 	 N/N 	 1 	 Trudeau Mr.
+<\s>
+<s id="wsj_0049.54"> 3
+1 	 0 	 N/N 	 1 	 RULING ABORTION
+1 	 2 	 S[pss]\NP 	 1 	 RULING UPHELD
+<\s>
+<s id="wsj_0049.55"> 26
+3 	 0 	 NP[nb]/N 	 1 	 court A
+3 	 1 	 N/N 	 1 	 court federal
+3 	 2 	 N/N 	 1 	 court appeals
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 court upheld
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 ruling upheld
+8 	 5 	 NP[nb]/N 	 1 	 ruling a
+8 	 6 	 N/N 	 1 	 ruling lower
+8 	 7 	 N/N 	 1 	 ruling court
+9 	 8 	 N/S[em] 	 1 	 that ruling
+11 	 10 	 NP[nb]/N 	 1 	 U.S. the
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 U.S. can
+11 	 13 	 (S[b]\NP)/NP 	 1 	 U.S. bar <XB>
+12 	 9 	 S[em]/S[dcl] 	 1 	 can that
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 bar can
+15 	 13 	 (S[b]\NP)/NP 	 2 	 use bar
+15 	 14 	 NP[nb]/N 	 1 	 use the
+15 	 16 	 (NP\NP)/NP 	 1 	 use of
+15 	 19 	 (NP\NP)/NP 	 1 	 use for
+18 	 16 	 (NP\NP)/NP 	 2 	 funds of
+18 	 17 	 N/N 	 1 	 funds federal
+21 	 19 	 (NP\NP)/NP 	 2 	 programs for
+21 	 20 	 N/N 	 1 	 programs family-planning
+21 	 22 	 (NP\NP)/(S[dcl]\NP) 	 1 	 programs that
+21 	 23 	 (S[dcl]\NP)/NP 	 1 	 programs include <XB>
+23 	 22 	 (NP\NP)/(S[dcl]\NP) 	 2 	 include that
+25 	 23 	 (S[dcl]\NP)/NP 	 2 	 services include
+25 	 24 	 N/N 	 1 	 services abortion-related
+<\s>
+<s id="wsj_0049.56"> 36
+1 	 2 	 ((N/N)\(N/N))/NP 	 2 	 Department of
+3 	 2 	 ((N/N)\(N/N))/NP 	 3 	 Health of
+6 	 2 	 ((N/N)\(N/N))/NP 	 3 	 Services of
+6 	 5 	 N/N 	 1 	 Services Human
+7 	 0 	 NP[nb]/N 	 1 	 rule A
+7 	 1 	 N/N 	 1 	 rule Department
+7 	 8 	 S[pss]\NP 	 1 	 rule adopted <XB>
+7 	 11 	 (S[dcl]\NP)/NP 	 1 	 rule prohibits
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 adopted in
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 1988 in
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 use prohibits
+13 	 12 	 NP[nb]/N 	 1 	 use the
+13 	 14 	 (NP\NP)/NP 	 1 	 use of
+13 	 19 	 (NP\NP)/NP 	 1 	 use for
+18 	 14 	 (NP\NP)/NP 	 2 	 funds of
+18 	 15 	 N/N 	 1 	 funds so-called
+18 	 16 	 N/N 	 1 	 funds Title
+18 	 17 	 N/N 	 1 	 funds X
+20 	 19 	 (NP\NP)/NP 	 2 	 programs for
+20 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 programs that
+20 	 22 	 ((S[dcl]\NP)/PP)/NP 	 1 	 programs assist <XB>
+20 	 31 	 (NP\NP)/NP 	 1 	 programs as
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 assist that
+24 	 22 	 ((S[dcl]\NP)/PP)/NP 	 3 	 woman assist
+24 	 23 	 NP[nb]/N 	 1 	 woman a
+25 	 22 	 ((S[dcl]\NP)/PP)/NP 	 2 	 in assist
+26 	 25 	 PP/(S[ng]\NP) 	 1 	 obtaining in
+28 	 26 	 (S[ng]\NP)/NP 	 2 	 abortion obtaining
+28 	 27 	 NP[nb]/N 	 1 	 abortion an
+31 	 30 	 (NP\NP)/(NP\NP) 	 2 	 as such
+33 	 31 	 (NP\NP)/NP 	 2 	 counseling as
+33 	 32 	 N/N 	 1 	 counseling abortion
+35 	 31 	 (NP\NP)/NP 	 2 	 referrals as
+35 	 32 	 N/N 	 1 	 referrals abortion
+<\s>
+<s id="wsj_0049.57"> 14
+1 	 0 	 NP[nb]/N 	 1 	 rule The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 rule prohibits
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 prohibits also
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 funding prohibits
+4 	 5 	 (NP\NP)/NP 	 1 	 funding for
+6 	 5 	 (NP\NP)/NP 	 2 	 activities for
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 activities that
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 activities encourage <XB>
+6 	 10 	 (S[dcl]\NP)/NP 	 1 	 activities promote <XU>
+6 	 12 	 (S[dcl]\NP)/NP 	 1 	 activities advocate <XU>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 encourage that
+10 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 promote that
+12 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 advocate that
+13 	 8 	 (S[dcl]\NP)/NP 	 2 	 abortion encourage <XU>
+13 	 10 	 (S[dcl]\NP)/NP 	 2 	 abortion promote <XU>
+13 	 12 	 (S[dcl]\NP)/NP 	 2 	 abortion advocate
+<\s>
+<s id="wsj_0049.58"> 30
+2 	 0 	 N/N 	 1 	 funds Title
+2 	 1 	 N/N 	 1 	 funds X
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 funds are
+3 	 15 	 ((S\NP)\(S\NP))/PP 	 2 	 are according
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 source are
+7 	 4 	 NP[nb]/N 	 1 	 source the
+7 	 5 	 N/N 	 1 	 source single
+7 	 6 	 N/N 	 1 	 source largest
+7 	 8 	 (NP\NP)/NP 	 1 	 source of
+10 	 8 	 (NP\NP)/NP 	 2 	 funding of
+10 	 9 	 N/N 	 1 	 funding federal
+10 	 11 	 (NP\NP)/NP 	 1 	 funding for
+13 	 11 	 (NP\NP)/NP 	 2 	 services for
+13 	 12 	 N/N 	 1 	 services family-planning
+16 	 15 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+18 	 16 	 PP/NP 	 1 	 opinion to
+18 	 17 	 NP[nb]/N 	 1 	 opinion the
+18 	 19 	 (NP\NP)/NP 	 1 	 opinion by
+24 	 19 	 (NP\NP)/NP 	 2 	 Court by
+24 	 20 	 NP[nb]/N 	 1 	 Court the
+24 	 21 	 N/N 	 1 	 Court Second
+24 	 22 	 N/N 	 1 	 Court U.S.
+24 	 23 	 N/N 	 1 	 Court Circuit
+24 	 25 	 (NP\NP)/NP 	 1 	 Court of
+24 	 27 	 (NP\NP)/NP 	 1 	 Court in
+26 	 25 	 (NP\NP)/NP 	 2 	 Appeals of
+29 	 27 	 (NP\NP)/NP 	 2 	 York in
+29 	 28 	 N/N 	 1 	 York New
+<\s>
+<s id="wsj_0049.59"> 32
+1 	 0 	 NP[nb]/N 	 1 	 panel The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 panel ruled
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that ruled
+5 	 4 	 NP[nb]/N 	 1 	 restrictions the
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 restrictions do
+5 	 8 	 (S[b]\NP)/NP 	 1 	 restrictions violate <XB>
+6 	 3 	 S[em]/S[dcl] 	 1 	 do that
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 do n't
+8 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 violate do
+10 	 8 	 (S[b]\NP)/NP 	 2 	 freedom violate
+10 	 9 	 NP[nb]/N 	 1 	 freedom the
+10 	 11 	 (NP\NP)/NP 	 1 	 freedom of
+12 	 11 	 (NP\NP)/NP 	 2 	 speech of
+12 	 13 	 (NP\NP)/NP 	 1 	 speech of
+16 	 13 	 (NP\NP)/NP 	 2 	 providers of
+16 	 14 	 N/N 	 1 	 providers health
+16 	 15 	 N/N 	 1 	 providers care
+18 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that ruled
+20 	 19 	 NP[nb]/N 	 1 	 limits the
+20 	 21 	 (NP\NP)/NP 	 1 	 limits on
+20 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 limits do
+20 	 26 	 (S[b]\NP)/NP 	 1 	 limits violate <XB>
+23 	 21 	 (NP\NP)/NP 	 2 	 services on
+23 	 22 	 N/N 	 1 	 services counseling
+24 	 18 	 S[em]/S[dcl] 	 1 	 do that
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 do n't
+26 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 violate do
+28 	 26 	 (S[b]\NP)/NP 	 2 	 rights violate
+28 	 27 	 NP[nb]/N 	 1 	 rights the
+28 	 29 	 (NP\NP)/NP 	 1 	 rights of
+31 	 29 	 (NP\NP)/NP 	 2 	 women of
+31 	 30 	 N/N 	 1 	 women pregnant
+<\s>
+<s id="wsj_0049.60"> 12
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 INQUIRY CLEARS
+1 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 CLEARS in
+3 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 JUDGE CLEARS
+3 	 2 	 N/N 	 1 	 JUDGE TEXAS
+4 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 of CLEARS
+5 	 4 	 PP/NP 	 1 	 bias of
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 comments in
+7 	 8 	 (NP\NP)/NP 	 1 	 comments on
+11 	 8 	 (NP\NP)/NP 	 2 	 victims on
+11 	 9 	 N/N 	 1 	 victims homosexual
+11 	 10 	 N/N 	 1 	 victims murder
+<\s>
+<s id="wsj_0049.61"> 43
+4 	 0 	 N/N 	 1 	 Hampton Dallas
+4 	 1 	 N/N 	 1 	 Hampton District
+4 	 2 	 N/N 	 1 	 Hampton Judge
+4 	 3 	 N/N 	 1 	 Hampton Jack
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Hampton had
+4 	 6 	 (S[pt]\NP)/NP 	 1 	 Hampton sparked <XB>
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 sparked had
+6 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 sparked with
+6 	 19 	 (S\NP)\(S\NP) 	 2 	 sparked December
+6 	 23 	 (((S\NP)\(S\NP))\NP)/(S[ng]\NP) 	 2 	 sparked after
+7 	 6 	 (S[pt]\NP)/NP 	 2 	 calls sparked
+7 	 8 	 (NP\NP)/NP 	 1 	 calls for
+11 	 8 	 (NP\NP)/NP 	 2 	 inquiry for
+11 	 9 	 NP[nb]/N 	 1 	 inquiry a
+11 	 10 	 N/N 	 1 	 inquiry judicial
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 remarks with
+14 	 13 	 NP[nb]/N 	 1 	 remarks his
+14 	 15 	 (NP\NP)/NP 	 1 	 remarks to
+17 	 15 	 (NP\NP)/NP 	 2 	 press to
+17 	 16 	 NP[nb]/N 	 1 	 press the
+19 	 18 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 December last
+22 	 21 	 N/N 	 1 	 weeks two
+22 	 23 	 (((S\NP)\(S\NP))\NP)/(S[ng]\NP) 	 3 	 weeks after
+24 	 23 	 (((S\NP)\(S\NP))\NP)/(S[ng]\NP) 	 4 	 sentencing after
+27 	 24 	 (((S[ng]\NP)/PP)/PP)/NP 	 4 	 defendant sentencing
+27 	 25 	 NP[nb]/N 	 1 	 defendant an
+27 	 26 	 N/N 	 1 	 defendant 18-year-old
+28 	 24 	 (((S[ng]\NP)/PP)/PP)/NP 	 3 	 to sentencing
+30 	 28 	 PP/NP 	 1 	 years to
+30 	 29 	 N/N 	 1 	 years 30
+30 	 31 	 (NP\NP)/NP 	 1 	 years in
+33 	 31 	 (NP\NP)/NP 	 2 	 prison in
+33 	 32 	 N/N 	 1 	 prison state
+34 	 24 	 (((S[ng]\NP)/PP)/PP)/NP 	 2 	 for sentencing
+35 	 34 	 PP/(S[ng]\NP) 	 1 	 killing for
+35 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 killing in
+38 	 35 	 (S[ng]\NP)/NP 	 2 	 men killing
+38 	 36 	 N/N 	 1 	 men two
+38 	 37 	 N/N 	 1 	 men homosexual
+42 	 39 	 ((S\NP)\(S\NP))/NP 	 3 	 park in
+42 	 40 	 NP[nb]/N 	 1 	 park a
+42 	 41 	 N/N 	 1 	 park city
+<\s>
+<s id="wsj_0049.62"> 31
+1 	 0 	 NP[nb]/N 	 1 	 judge The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 judge was
+1 	 3 	 (S[pss]\NP)/S 	 1 	 judge quoted <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 quoted was
+4 	 3 	 (S[pss]\NP)/S 	 2 	 as quoted
+5 	 4 	 S/(S[ng]\NP) 	 1 	 referring as
+6 	 5 	 ((S[ng]\NP)/PP)/PP 	 3 	 to referring
+8 	 6 	 PP/NP 	 1 	 victims to
+8 	 7 	 NP[nb]/N 	 1 	 victims the
+9 	 5 	 ((S[ng]\NP)/PP)/PP 	 2 	 as referring
+10 	 9 	 PP/NP 	 1 	 queers as
+12 	 4 	 S/(S[ng]\NP) 	 1 	 saying as
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they would
+13 	 18 	 S[pss]\NP 	 1 	 they killed <XB>
+14 	 12 	 (S[ng]\NP)/S[dcl] 	 2 	 would saying
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 would n't
+16 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+17 	 16 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 been have
+18 	 17 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 killed been
+18 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 killed if
+20 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 they had
+20 	 24 	 (S[ng]\NP)/NP 	 1 	 they cruising <XB>
+20 	 27 	 (S[ng]\NP)/NP 	 1 	 they picking <XB>
+21 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 had if
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 had n't
+23 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+24 	 23 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 cruising been
+26 	 24 	 (S[ng]\NP)/NP 	 2 	 streets cruising
+26 	 25 	 NP[nb]/N 	 1 	 streets the
+27 	 28 	 (S\NP)\(S\NP) 	 2 	 picking up
+30 	 27 	 (S[ng]\NP)/NP 	 2 	 boys picking
+30 	 29 	 N/N 	 1 	 boys teenage
+<\s>
+<s id="wsj_0049.63"> 43
+3 	 1 	 N/N 	 1 	 Murray Robert
+3 	 2 	 N/N 	 1 	 Murray R.
+3 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 Murray said
+7 	 5 	 NP[nb]/N 	 1 	 master a
+7 	 6 	 N/N 	 1 	 master special
+7 	 8 	 S[pss]\NP 	 1 	 master appointed <XB>
+7 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 master said
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 appointed by
+13 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Court by
+13 	 10 	 NP[nb]/N 	 1 	 Court the
+13 	 11 	 N/N 	 1 	 Court Texas
+13 	 12 	 N/N 	 1 	 Court Supreme
+15 	 0 	 S/S 	 1 	 said But
+17 	 16 	 N/N 	 1 	 Hampton Judge
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Hampton did
+17 	 20 	 (S[b]\NP)/NP 	 1 	 Hampton breach <XB>
+18 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 did said
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 did n't
+20 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 breach did
+20 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 breach although
+23 	 20 	 (S[b]\NP)/NP 	 2 	 standards breach
+23 	 21 	 NP[nb]/N 	 1 	 standards any
+23 	 22 	 N/N 	 1 	 standards judicial
+23 	 24 	 (NP\NP)/NP 	 1 	 standards of
+25 	 24 	 (NP\NP)/NP 	 2 	 fairness of
+28 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he did
+28 	 30 	 (S[b]\NP)/NP 	 1 	 he violate <XB>
+28 	 37 	 (S[ng]\NP)/PP 	 1 	 he commenting <XB>
+29 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 did although
+30 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 violate did
+30 	 36 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 violate by
+32 	 31 	 NP[nb]/N 	 1 	 state the
+32 	 33 	 (NP[nb]/N)\NP 	 2 	 state 's
+35 	 30 	 (S[b]\NP)/NP 	 2 	 code violate
+35 	 33 	 (NP[nb]/N)\NP 	 1 	 code 's
+35 	 34 	 N/N 	 1 	 code judicial
+37 	 36 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 commenting by
+37 	 38 	 (S\NP)\(S\NP) 	 2 	 commenting publicly
+39 	 37 	 (S[ng]\NP)/PP 	 2 	 on commenting
+42 	 39 	 PP/NP 	 1 	 case on
+42 	 40 	 NP[nb]/N 	 1 	 case a
+42 	 41 	 N/N 	 1 	 case pending
+<\s>
+<s id="wsj_0049.64"> 31
+1 	 0 	 (S[ng]\NP)/S[em] 	 2 	 that Observing
+3 	 2 	 NP[nb]/N 	 1 	 judge the
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 judge has
+3 	 6 	 (S[pt]\NP)/NP 	 1 	 judge exhibited <XB>
+4 	 1 	 S[em]/S[dcl] 	 1 	 has that
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 has never
+6 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 exhibited has
+8 	 6 	 (S[pt]\NP)/NP 	 2 	 bias exhibited
+8 	 7 	 NP[nb]/N 	 1 	 bias any
+10 	 6 	 (S[pt]\NP)/NP 	 2 	 prejudice exhibited
+10 	 7 	 NP[nb]/N 	 1 	 prejudice any
+13 	 12 	 N/N 	 1 	 Murray Mr.
+13 	 14 	 (S[dcl]\NP)/S[em] 	 1 	 Murray concluded
+15 	 14 	 (S[dcl]\NP)/S[em] 	 2 	 that concluded
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he would
+16 	 19 	 S[adj]\NP 	 1 	 he impartial <XB>
+17 	 15 	 S[em]/S[dcl] 	 1 	 would that
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+18 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 be in
+19 	 18 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 impartial be
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 case in
+22 	 21 	 NP[nb]/N 	 1 	 case any
+22 	 23 	 ((S[ng]\NP)/PP)/NP 	 1 	 case involving <XB>
+25 	 23 	 ((S[ng]\NP)/PP)/NP 	 3 	 homosexual involving
+25 	 24 	 NP[nb]/N 	 1 	 homosexual a
+27 	 23 	 ((S[ng]\NP)/PP)/NP 	 3 	 prostitute involving
+27 	 24 	 NP[nb]/N 	 1 	 prostitute a
+28 	 23 	 ((S[ng]\NP)/PP)/NP 	 2 	 as involving
+30 	 28 	 PP/NP 	 1 	 victim as
+30 	 29 	 NP[nb]/N 	 1 	 victim a
+<\s>
+<s id="wsj_0049.65"> 18
+1 	 0 	 N/N 	 1 	 Murray Mr.
+1 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Murray said
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 said also
+5 	 4 	 N/N 	 1 	 Hampton Judge
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Hampton 's
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 comments 's
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 comments did
+7 	 10 	 (S[b]\NP)/NP 	 1 	 comments discredit <XB>
+8 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 did said
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 did n't
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 discredit did
+12 	 10 	 (S[b]\NP)/NP 	 2 	 judiciary discredit
+12 	 11 	 NP[nb]/N 	 1 	 judiciary the
+15 	 10 	 (S[b]\NP)/NP 	 2 	 administration discredit
+15 	 14 	 NP[nb]/N 	 1 	 administration the
+15 	 16 	 (NP\NP)/NP 	 1 	 administration of
+17 	 16 	 (NP\NP)/NP 	 2 	 justice of
+<\s>
+<s id="wsj_0049.66"> 20
+1 	 0 	 NP[nb]/N 	 1 	 report The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 report is
+1 	 3 	 (S[adj]\NP)/PP 	 1 	 report subject <XB>
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 subject is
+4 	 3 	 (S[adj]\NP)/PP 	 2 	 to subject
+5 	 4 	 PP/NP 	 1 	 review to
+5 	 6 	 (NP\NP)/NP 	 1 	 review by
+9 	 6 	 (NP\NP)/NP 	 2 	 Commission by
+9 	 7 	 NP[nb]/N 	 1 	 Commission the
+9 	 8 	 N/N 	 1 	 Commission State
+9 	 10 	 (NP\NP)/NP 	 1 	 Commission on
+9 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Commission which
+9 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Commission is <XB>
+9 	 16 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Commission empowered <XB>
+9 	 18 	 (S[b]\NP)/NP 	 1 	 Commission impose <XB>
+12 	 10 	 (NP\NP)/NP 	 2 	 Conduct on
+12 	 11 	 N/N 	 1 	 Conduct Judicial
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+16 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 empowered is
+17 	 16 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to empowered
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 impose to
+19 	 18 	 (S[b]\NP)/NP 	 2 	 sanctions impose
+<\s>
+<s id="wsj_0049.67"> 6
+1 	 0 	 N/N 	 1 	 TRIAL GAF
+1 	 2 	 S[dcl]\NP 	 1 	 TRIAL goes
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 goes to
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 round to
+4 	 5 	 N\N 	 1 	 round three
+<\s>
+<s id="wsj_0049.68"> 24
+0 	 1 	 (NP\NP)/NP 	 1 	 Attorneys in
+0 	 9 	 (S[dcl]\NP)/NP 	 1 	 Attorneys began
+5 	 1 	 (NP\NP)/NP 	 2 	 trial in
+5 	 2 	 NP[nb]/N 	 1 	 trial the
+5 	 3 	 N/N 	 1 	 trial third
+5 	 4 	 N/N 	 1 	 trial stock-manipulation
+5 	 6 	 (NP\NP)/NP 	 1 	 trial of
+8 	 6 	 (NP\NP)/NP 	 2 	 Corp. of
+8 	 7 	 N/N 	 1 	 Corp. GAF
+9 	 12 	 (S\NP)\(S\NP) 	 2 	 began yesterday
+9 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 began in
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 arguments began
+11 	 10 	 N/N 	 1 	 arguments opening
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 courtroom in
+16 	 14 	 NP[nb]/N 	 1 	 courtroom the
+16 	 15 	 N/N 	 1 	 courtroom Manhattan
+16 	 17 	 (NP\NP)/NP 	 1 	 courtroom of
+23 	 17 	 (NP\NP)/NP 	 2 	 Lowe of
+23 	 18 	 N/N 	 1 	 Lowe U.S.
+23 	 19 	 N/N 	 1 	 Lowe District
+23 	 20 	 N/N 	 1 	 Lowe Judge
+23 	 21 	 N/N 	 1 	 Lowe Mary
+23 	 22 	 N/N 	 1 	 Lowe Johnson
+<\s>
+<s id="wsj_0049.69"> 55
+3 	 0 	 (S/S)/NP 	 2 	 indictment In
+3 	 1 	 NP[nb]/N 	 1 	 indictment an
+3 	 2 	 N/N 	 1 	 indictment eight-count
+6 	 5 	 NP[nb]/N 	 1 	 government the
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 government has
+6 	 8 	 ((S[pt]\NP)/PP)/NP 	 1 	 government charged <XB>
+7 	 0 	 (S/S)/NP 	 1 	 has In
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 charged has
+9 	 8 	 ((S[pt]\NP)/PP)/NP 	 3 	 GAF charged
+14 	 12 	 (N/N)/(N/N) 	 2 	 N.J. Wayne
+18 	 8 	 ((S[pt]\NP)/PP)/NP 	 3 	 maker charged
+18 	 11 	 NP[nb]/N 	 1 	 maker a
+18 	 14 	 N/N 	 1 	 maker N.J.
+18 	 16 	 N/N 	 1 	 maker specialty
+18 	 17 	 N/N 	 1 	 maker chemical
+26 	 8 	 ((S[pt]\NP)/PP)/NP 	 3 	 Sherwin charged
+26 	 21 	 NP[nb]/N 	 1 	 Sherwin its
+26 	 22 	 N/N 	 1 	 Sherwin Vice
+26 	 23 	 N/N 	 1 	 Sherwin Chairman
+26 	 24 	 N/N 	 1 	 Sherwin James
+26 	 25 	 N/N 	 1 	 Sherwin T.
+27 	 8 	 ((S[pt]\NP)/PP)/NP 	 2 	 with charged
+28 	 27 	 PP/(S[ng]\NP) 	 1 	 attempting with
+29 	 28 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to attempting
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 manipulate to
+30 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 manipulate in
+33 	 30 	 (S[b]\NP)/NP 	 2 	 stock manipulate
+33 	 31 	 NP[nb]/N 	 1 	 stock the
+33 	 32 	 N/N 	 1 	 stock common
+33 	 34 	 (NP\NP)/NP 	 1 	 stock of
+37 	 34 	 (NP\NP)/NP 	 2 	 Corp. of
+37 	 35 	 N/N 	 1 	 Corp. Union
+37 	 36 	 N/N 	 1 	 Corp. Carbide
+39 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 advance in
+39 	 40 	 (NP\NP)/NP 	 1 	 advance of
+41 	 42 	 (NP[nb]/N)\NP 	 2 	 GAF 's
+44 	 40 	 (NP\NP)/NP 	 2 	 sale of
+44 	 42 	 (NP[nb]/N)\NP 	 1 	 sale 's
+44 	 43 	 N/N 	 1 	 sale planned
+44 	 45 	 (NP\NP)/NP 	 1 	 sale of
+44 	 52 	 (NP\NP)/NP 	 1 	 sale in
+48 	 45 	 (NP\NP)/NP 	 2 	 block of
+48 	 46 	 NP[nb]/N 	 1 	 block a
+48 	 47 	 N/N 	 1 	 block large
+48 	 49 	 (NP\NP)/NP 	 1 	 block of
+51 	 49 	 (NP\NP)/NP 	 2 	 stock of
+51 	 50 	 NP[nb]/N 	 1 	 stock the
+53 	 52 	 (NP\NP)/NP 	 2 	 November in
+53 	 54 	 N\N 	 1 	 November 1986
+<\s>
+<s id="wsj_0049.70"> 11
+4 	 0 	 NP[nb]/N 	 1 	 trials The
+4 	 1 	 N/N 	 1 	 trials first
+4 	 2 	 N/N 	 1 	 trials two
+4 	 3 	 N/N 	 1 	 trials GAF
+4 	 5 	 (S[dcl]\NP)/PP 	 1 	 trials ended
+5 	 9 	 ((S\NP)\(S\NP))/N 	 2 	 ended this
+6 	 5 	 (S[dcl]\NP)/PP 	 2 	 in ended
+7 	 6 	 PP/NP 	 1 	 mistrials in
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 this earlier
+10 	 9 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+<\s>
+<s id="wsj_0049.71"> 8
+1 	 0 	 NP[nb]/N 	 1 	 trial This
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 trial is
+1 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 trial expected <XB>
+1 	 5 	 S[b]\NP 	 1 	 trial last <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+4 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 last to
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 last weeks
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 weeks five
+<\s>
+<s id="wsj_0049.72"> 4
+1 	 0 	 (S[ng]\NP)/PP 	 2 	 TO SWITCHING
+3 	 1 	 PP/NP 	 1 	 DEFENSE TO
+3 	 2 	 NP[nb]/N 	 1 	 DEFENSE THE
+<\s>
+<s id="wsj_0049.73"> 21
+2 	 0 	 NP[nb]/N 	 1 	 member A
+2 	 1 	 N/N 	 1 	 member former
+2 	 3 	 (NP\NP)/NP 	 1 	 member of
+2 	 11 	 (S[dcl]\NP)/NP 	 1 	 member joined
+6 	 3 	 (NP\NP)/NP 	 2 	 team of
+6 	 4 	 NP[nb]/N 	 1 	 team the
+6 	 5 	 N/N 	 1 	 team prosecution
+6 	 7 	 (NP\NP)/NP 	 1 	 team in
+10 	 7 	 (NP\NP)/NP 	 2 	 affair in
+10 	 8 	 NP[nb]/N 	 1 	 affair the
+10 	 9 	 N/N 	 1 	 affair Iran\/Contra
+14 	 11 	 (S[dcl]\NP)/NP 	 2 	 firm joined
+14 	 12 	 NP[nb]/N 	 1 	 firm the
+14 	 13 	 N/N 	 1 	 firm Chicago
+14 	 15 	 (NP\NP)/NP 	 1 	 firm of
+20 	 15 	 (NP\NP)/NP 	 2 	 Platt of
+20 	 16 	 N/N 	 1 	 Platt Mayer
+20 	 18 	 N/N 	 1 	 Platt Brown
+20 	 19 	 N/N 	 1 	 Platt &
+<\s>
+<s id="wsj_0049.74"> 35
+2 	 0 	 N/N 	 1 	 Bromwich Michael
+2 	 1 	 N/N 	 1 	 Bromwich R.
+2 	 21 	 (S[dcl]\NP)/NP 	 1 	 Bromwich became
+5 	 4 	 NP[nb]/N 	 1 	 member a
+5 	 6 	 (NP\NP)/NP 	 1 	 member since
+5 	 9 	 (NP\NP)/NP 	 1 	 member of
+5 	 21 	 (S[dcl]\NP)/NP 	 1 	 member became
+7 	 6 	 (NP\NP)/NP 	 2 	 January since
+7 	 8 	 N\N 	 1 	 January 1987
+13 	 9 	 (NP\NP)/NP 	 2 	 team of
+13 	 10 	 NP[nb]/N 	 1 	 team the
+13 	 11 	 N/N 	 1 	 team three-lawyer
+13 	 12 	 N/N 	 1 	 team trial
+13 	 14 	 (NP\NP)/NP 	 1 	 team in
+16 	 14 	 (NP\NP)/NP 	 2 	 prosecution in
+16 	 15 	 NP[nb]/N 	 1 	 prosecution the
+16 	 17 	 (NP\NP)/NP 	 1 	 prosecution of
+19 	 17 	 (NP\NP)/NP 	 2 	 North of
+19 	 18 	 N/N 	 1 	 North Oliver
+23 	 21 	 (S[dcl]\NP)/NP 	 2 	 partner became
+23 	 22 	 NP[nb]/N 	 1 	 partner a
+23 	 24 	 (NP\NP)/NP 	 1 	 partner in
+28 	 25 	 (N/N)/N 	 2 	 D.C. the
+28 	 26 	 N/N 	 1 	 D.C. Washington
+30 	 24 	 (NP\NP)/NP 	 2 	 office in
+30 	 25 	 (N/N)/N 	 1 	 office the
+30 	 31 	 (NP\NP)/NP 	 1 	 office of
+34 	 31 	 (NP\NP)/NP 	 2 	 firm of
+34 	 32 	 NP[nb]/N 	 1 	 firm the
+34 	 33 	 N/N 	 1 	 firm 520-lawyer
+<\s>
+<s id="wsj_0049.75"> 8
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 He will
+0 	 2 	 (S[b]\NP)/PP 	 1 	 He specialize <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 specialize will
+3 	 2 	 (S[b]\NP)/PP 	 2 	 in specialize
+7 	 3 	 PP/NP 	 1 	 work in
+7 	 4 	 N/N 	 1 	 work white-collar
+7 	 5 	 N/N 	 1 	 work criminal
+7 	 6 	 N/N 	 1 	 work defense
+<\s>
+<s id="wsj_0049.76"> 34
+1 	 0 	 N/N 	 1 	 Bromwich Mr.
+1 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Bromwich has
+1 	 7 	 (S[pt]\NP)/PP 	 1 	 Bromwich served <XB>
+3 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 35 has
+3 	 7 	 (S[pt]\NP)/PP 	 1 	 35 served <XB>
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 has also
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 served has
+7 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 served for
+8 	 7 	 (S[pt]\NP)/PP 	 2 	 as served
+10 	 8 	 PP/NP 	 1 	 chief as
+10 	 9 	 N/N 	 1 	 chief deputy
+10 	 13 	 (NP\NP)/NP 	 1 	 chief of
+12 	 8 	 PP/NP 	 1 	 chief as
+12 	 13 	 (NP\NP)/NP 	 1 	 chief of
+16 	 13 	 (NP\NP)/NP 	 2 	 unit of
+16 	 14 	 NP[nb]/N 	 1 	 unit the
+16 	 15 	 N/N 	 1 	 unit narcotics
+20 	 18 	 NP[nb]/N 	 1 	 attorney the
+20 	 19 	 N/N 	 1 	 attorney U.S.
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 attorney 's
+22 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 office for
+22 	 21 	 (NP[nb]/N)\NP 	 1 	 office 's
+22 	 23 	 (NP\NP)/NP 	 1 	 office for
+22 	 31 	 S[pss]\NP 	 1 	 office based <XB>
+26 	 23 	 (NP\NP)/NP 	 2 	 District for
+26 	 24 	 NP[nb]/N 	 1 	 District the
+26 	 25 	 N/N 	 1 	 District Southern
+26 	 27 	 (NP\NP)/NP 	 1 	 District of
+29 	 27 	 (NP\NP)/NP 	 2 	 York of
+29 	 28 	 N/N 	 1 	 York New
+31 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+33 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 Manhattan in
+<\s>

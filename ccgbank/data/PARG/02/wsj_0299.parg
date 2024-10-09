@@ -1,0 +1,189 @@
+<s id="wsj_0299.1"> 18
+2 	 0 	 N/N 	 1 	 Co. J.C.
+2 	 1 	 N/N 	 1 	 Co. PENNEY
+2 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+4 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Dallas said
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 it issued
+8 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 issued said
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 $ issued
+9 	 12 	 (NP\NP)/NP 	 1 	 $ of
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 350
+13 	 12 	 (NP\NP)/NP 	 2 	 securities of
+13 	 14 	 S[pss]\NP 	 1 	 securities backed <XB>
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 backed by
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 receivables by
+17 	 16 	 N/N 	 1 	 receivables credit-card
+<\s>
+<s id="wsj_0299.2"> 17
+1 	 0 	 NP[nb]/N 	 1 	 offering The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 offering was
+1 	 3 	 ((S[pss]\NP)/(S[to]\NP))/PP 	 1 	 offering priced <XB>
+1 	 14 	 (S[b]\NP)/NP 	 1 	 offering yield <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 priced was
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 priced with
+7 	 6 	 (N/N)/(N/N) 	 2 	 % 8.95
+9 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 rate with
+9 	 5 	 NP[nb]/N 	 1 	 rate an
+9 	 7 	 N/N 	 1 	 rate %
+9 	 8 	 N/N 	 1 	 rate coupon
+10 	 3 	 ((S[pss]\NP)/(S[to]\NP))/PP 	 3 	 at priced
+12 	 10 	 PP/NP 	 1 	 % at
+12 	 11 	 N/N 	 1 	 % 99.1875
+13 	 3 	 ((S[pss]\NP)/(S[to]\NP))/PP 	 2 	 to priced
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 yield to
+16 	 14 	 (S[b]\NP)/NP 	 2 	 % yield
+16 	 15 	 N/N 	 1 	 % 9.19
+<\s>
+<s id="wsj_0299.3"> 25
+1 	 0 	 NP[nb]/N 	 1 	 retailer The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 retailer said
+4 	 3 	 NP[nb]/N 	 1 	 securities the
+4 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 securities are
+4 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 securities expected <XB>
+4 	 9 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 securities rated <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+7 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+9 	 8 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 rated be
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 rated by
+9 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 rated by
+10 	 9 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 triple-A rated
+14 	 12 	 N/N 	 1 	 Poor Standard
+14 	 13 	 N/N 	 1 	 Poor &
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 Poor 's
+16 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp. by
+16 	 15 	 (NP[nb]/N)\NP 	 1 	 Corp. 's
+18 	 9 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 Aaa rated
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 Moody 's
+24 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 Inc by
+24 	 21 	 (NP[nb]/N)\NP 	 1 	 Inc 's
+24 	 22 	 N/N 	 1 	 Inc Investors
+24 	 23 	 N/N 	 1 	 Inc Service
+<\s>
+<s id="wsj_0299.4"> 13
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 They pay
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 pay for
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 pay with
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 interest pay
+4 	 3 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 for only
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 months for
+6 	 5 	 N/N 	 1 	 months 115
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 payments with
+10 	 9 	 N/N 	 1 	 payments principal
+10 	 11 	 S[ng]\NP 	 1 	 payments beginning <XB>
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 beginning thereafter
+<\s>
+<s id="wsj_0299.5"> 20
+3 	 0 	 NP[nb]/N 	 1 	 life The
+3 	 1 	 N/N 	 1 	 life expected
+3 	 2 	 N/N 	 1 	 life average
+3 	 4 	 (NP\NP)/NP 	 1 	 life of
+3 	 7 	 (S[dcl]\NP)/NP 	 1 	 life is
+6 	 4 	 (NP\NP)/NP 	 2 	 certificates of
+6 	 5 	 NP[nb]/N 	 1 	 certificates the
+7 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 is with
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 years is
+9 	 8 	 N/N 	 1 	 years 10
+15 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 payment with
+15 	 12 	 NP[nb]/N 	 1 	 payment the
+15 	 13 	 N/N 	 1 	 payment final
+15 	 14 	 N/N 	 1 	 payment scheduled
+15 	 16 	 (NP\NP)/NP 	 1 	 payment in
+17 	 16 	 (NP\NP)/NP 	 2 	 October in
+19 	 16 	 (NP\NP)/NP 	 2 	 2001 in
+<\s>
+<s id="wsj_0299.6"> 6
+2 	 0 	 N/N 	 1 	 Corp. First
+2 	 1 	 N/N 	 1 	 Corp. Boston
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Corp. is
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 underwriter is
+5 	 4 	 N/N 	 1 	 underwriter sole
+<\s>
+<s id="wsj_0299.7"> 32
+1 	 0 	 (S/S)/NP 	 2 	 part As
+1 	 2 	 (NP\NP)/NP 	 1 	 part of
+4 	 2 	 (NP\NP)/NP 	 2 	 transaction of
+4 	 3 	 NP[nb]/N 	 1 	 transaction the
+7 	 6 	 N/N 	 1 	 Penney J.C.
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Penney will
+7 	 9 	 ((S[b]\NP)/PP)/NP 	 1 	 Penney sell <XB>
+8 	 0 	 (S/S)/NP 	 1 	 will As
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 sell will
+11 	 9 	 ((S[b]\NP)/PP)/NP 	 3 	 portion sell
+11 	 10 	 NP[nb]/N 	 1 	 portion a
+11 	 12 	 (NP\NP)/NP 	 1 	 portion of
+15 	 12 	 (NP\NP)/NP 	 2 	 receivables of
+15 	 13 	 NP[nb]/N 	 1 	 receivables its
+15 	 14 	 N/N 	 1 	 receivables credit-card
+16 	 9 	 ((S[b]\NP)/PP)/NP 	 2 	 to sell
+21 	 16 	 PP/NP 	 1 	 unit to
+21 	 17 	 NP[nb]/N 	 1 	 unit its
+21 	 18 	 N/N 	 1 	 unit JCP
+21 	 19 	 N/N 	 1 	 unit Receivables
+21 	 20 	 N/N 	 1 	 unit Inc.
+21 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 unit which
+21 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 unit will <XB>
+21 	 26 	 (S[b]\NP)/NP 	 1 	 unit transfer <XB>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will which
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 will then
+26 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 transfer will
+26 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 transfer to
+27 	 26 	 (S[b]\NP)/NP 	 2 	 them transfer
+31 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 trust to
+31 	 29 	 NP[nb]/N 	 1 	 trust a
+31 	 30 	 N/N 	 1 	 trust master
+<\s>
+<s id="wsj_0299.8"> 6
+1 	 0 	 NP[nb]/N 	 1 	 trust The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 trust will
+1 	 3 	 (S[b]\NP)/NP 	 1 	 trust issue <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 issue will
+5 	 3 	 (S[b]\NP)/NP 	 2 	 certificates issue
+5 	 4 	 NP[nb]/N 	 1 	 certificates the
+<\s>
+<s id="wsj_0299.9"> 33
+1 	 0 	 N/N 	 1 	 support Credit
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 support will
+1 	 4 	 S[pss]\NP 	 1 	 support provided <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 provided be
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 provided by
+4 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 provided for
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 letter by
+7 	 6 	 NP[nb]/N 	 1 	 letter a
+7 	 8 	 (NP\NP)/NP 	 1 	 letter of
+7 	 11 	 (NP\NP)/NP 	 1 	 letter from
+7 	 14 	 (NP\NP)/NP 	 1 	 letter in
+10 	 8 	 (NP\NP)/NP 	 2 	 facility of
+10 	 9 	 N/N 	 1 	 facility credit
+13 	 11 	 (NP\NP)/NP 	 2 	 Suisse from
+13 	 12 	 N/N 	 1 	 Suisse Credit
+15 	 14 	 (NP\NP)/NP 	 2 	 favor in
+15 	 16 	 (NP\NP)/NP 	 1 	 favor of
+18 	 16 	 (NP\NP)/NP 	 2 	 trustee of
+18 	 17 	 NP[nb]/N 	 1 	 trustee the
+24 	 16 	 (NP\NP)/NP 	 2 	 Co. of
+24 	 20 	 N/N 	 1 	 Co. Fuji
+24 	 21 	 N/N 	 1 	 Co. Bank
+24 	 22 	 N/N 	 1 	 Co. &
+24 	 23 	 N/N 	 1 	 Co. Trust
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 benefit for
+28 	 27 	 NP[nb]/N 	 1 	 benefit the
+28 	 29 	 (NP\NP)/NP 	 1 	 benefit of
+32 	 29 	 (NP\NP)/NP 	 2 	 holders of
+32 	 30 	 NP[nb]/N 	 1 	 holders the
+32 	 31 	 N/N 	 1 	 holders certificate
+<\s>
+<s id="wsj_0299.10"> 8
+1 	 0 	 N/N 	 1 	 Penney J.C.
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Penney will
+1 	 3 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Penney continue <XB>
+1 	 5 	 (S[b]\NP)/NP 	 1 	 Penney service <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue will
+4 	 3 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to continue
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 service to
+7 	 5 	 (S[b]\NP)/NP 	 2 	 receivables service
+7 	 6 	 NP[nb]/N 	 1 	 receivables the
+<\s>

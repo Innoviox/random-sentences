@@ -1,0 +1,80 @@
+<s id="wsj_1799.1"> 30
+1 	 0 	 NP[nb]/N 	 1 	 maker This
+1 	 4 	 (NP\NP)/NP 	 1 	 maker of
+1 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 maker said
+3 	 0 	 NP[nb]/N 	 1 	 marketer This
+3 	 4 	 (NP\NP)/NP 	 1 	 marketer of
+3 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 marketer said
+7 	 4 	 (NP\NP)/NP 	 2 	 systems of
+7 	 5 	 N/N 	 1 	 systems cartridge
+7 	 6 	 N/N 	 1 	 systems tape
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 it completed
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 completed said
+10 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 completed in
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 sale completed
+12 	 11 	 NP[nb]/N 	 1 	 sale the
+12 	 13 	 (NP\NP)/NP 	 1 	 sale of
+15 	 14 	 (N/N)/(N/N) 	 2 	 million 2.85
+16 	 13 	 (NP\NP)/NP 	 2 	 shares of
+16 	 15 	 N/N 	 1 	 shares million
+16 	 17 	 (NP\NP)/NP 	 1 	 shares of
+16 	 19 	 (S[pss]\NP)/PP 	 1 	 shares priced <XB>
+18 	 17 	 (NP\NP)/NP 	 2 	 common of
+20 	 19 	 (S[pss]\NP)/PP 	 2 	 at priced
+21 	 20 	 PP/NP 	 1 	 $ at
+21 	 23 	 (NP\NP)/N 	 1 	 $ a
+22 	 21 	 N/N[num] 	 1 	 10 $
+24 	 23 	 (NP\NP)/N 	 2 	 share a
+29 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 offering in
+29 	 26 	 NP[nb]/N 	 1 	 offering an
+29 	 27 	 N/N 	 1 	 offering initial
+29 	 28 	 N/N 	 1 	 offering public
+<\s>
+<s id="wsj_1799.2"> 20
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 company said
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+4 	 6 	 (S[ng]\NP)/NP 	 1 	 it selling <XB>
+5 	 3 	 S[em]/S[dcl] 	 1 	 is that
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 selling is
+8 	 7 	 (N/N)/(N/N) 	 2 	 million two
+9 	 6 	 (S[ng]\NP)/NP 	 2 	 shares selling
+9 	 8 	 N/N 	 1 	 shares million
+11 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+13 	 12 	 NP[nb]/N 	 1 	 rest the
+13 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 rest are
+13 	 15 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 rest being <XB>
+13 	 16 	 S[pss]\NP 	 1 	 rest sold <XB>
+14 	 11 	 S[em]/S[dcl] 	 1 	 are that
+15 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being are
+16 	 15 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 sold being
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 sold by
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 stockholders by
+19 	 18 	 N/N 	 1 	 stockholders certain
+<\s>
+<s id="wsj_1799.3"> 10
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Proceeds will
+0 	 3 	 (S[pss]\NP)/PP 	 1 	 Proceeds used <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+3 	 2 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 for used
+6 	 4 	 PP/NP 	 1 	 expenditures for
+6 	 5 	 N/N 	 1 	 expenditures capital
+9 	 4 	 PP/NP 	 1 	 capital for
+9 	 8 	 N/N 	 1 	 capital working
+<\s>
+<s id="wsj_1799.4"> 13
+4 	 0 	 N/N 	 1 	 Co. Goldman
+4 	 2 	 N/N 	 1 	 Co. Sachs
+4 	 3 	 N/N 	 1 	 Co. &
+4 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Co. are
+4 	 10 	 (S[ng]\NP)/NP 	 1 	 Co. co-managing <XB>
+8 	 6 	 N/N 	 1 	 Inc. Montgomery
+8 	 7 	 N/N 	 1 	 Inc. Securities
+8 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Inc. are
+8 	 10 	 (S[ng]\NP)/NP 	 1 	 Inc. co-managing <XB>
+10 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 co-managing are
+12 	 10 	 (S[ng]\NP)/NP 	 2 	 offering co-managing
+12 	 11 	 NP[nb]/N 	 1 	 offering the
+<\s>

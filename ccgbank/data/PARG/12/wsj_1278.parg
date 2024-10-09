@@ -1,0 +1,70 @@
+<s id="wsj_1278.1"> 24
+1 	 0 	 N/N 	 1 	 Corp. Manville
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+3 	 5 	 (S[b]\NP)/NP 	 1 	 it build <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 build will
+9 	 7 	 (N/N)/N[num] 	 2 	 million $
+9 	 8 	 N/N 	 1 	 million 24
+11 	 5 	 (S[b]\NP)/NP 	 2 	 plant build
+11 	 6 	 NP[nb]/N 	 1 	 plant a
+11 	 7 	 (N/N)/N[num] 	 1 	 plant $
+11 	 10 	 N/N 	 1 	 plant power
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provide to
+14 	 13 	 ((S[b]\NP)/PP)/NP 	 3 	 electricity provide
+15 	 13 	 ((S[b]\NP)/PP)/NP 	 2 	 to provide
+18 	 15 	 PP/NP 	 1 	 pulp to
+18 	 16 	 NP[nb]/N 	 1 	 pulp its
+18 	 17 	 N/N 	 1 	 pulp Igaras
+18 	 22 	 (NP\NP)/NP 	 1 	 pulp in
+21 	 15 	 PP/NP 	 1 	 mill to
+21 	 16 	 NP[nb]/N 	 1 	 mill its
+21 	 17 	 N/N 	 1 	 mill Igaras
+21 	 20 	 N/N 	 1 	 mill paper
+21 	 22 	 (NP\NP)/NP 	 1 	 mill in
+23 	 22 	 (NP\NP)/NP 	 2 	 Brazil in
+<\s>
+<s id="wsj_1278.2"> 23
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+4 	 3 	 NP[nb]/N 	 1 	 plant the
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plant will
+4 	 6 	 (S[b]\NP)/S[em] 	 1 	 plant ensure <XB>
+4 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plant will <XU>
+4 	 17 	 (S[b]\NP)/NP 	 1 	 plant reduce <XU>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 ensure will
+7 	 6 	 (S[b]\NP)/S[em] 	 2 	 that ensure
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 it has
+9 	 7 	 S[em]/S[dcl] 	 1 	 has that
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 energy has
+11 	 10 	 N/N 	 1 	 energy adequate
+11 	 12 	 (NP\NP)/NP 	 1 	 energy for
+14 	 12 	 (NP\NP)/NP 	 2 	 mill for
+14 	 13 	 NP[nb]/N 	 1 	 mill the
+16 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reduce will
+19 	 18 	 NP[nb]/N 	 1 	 mill the
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 mill 's
+22 	 17 	 (S[b]\NP)/NP 	 2 	 costs reduce
+22 	 20 	 (NP[nb]/N)\NP 	 1 	 costs 's
+22 	 21 	 N/N 	 1 	 costs energy
+<\s>
+<s id="wsj_1278.3"> 14
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Manville said
+2 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it expects
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+5 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 plant expects
+5 	 4 	 NP[nb]/N 	 1 	 plant the
+5 	 7 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 plant begin <XB>
+5 	 8 	 S[ng]\NP 	 1 	 plant operating <XB>
+6 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 begin to
+8 	 7 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 operating begin
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 operating at
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 end at
+11 	 10 	 NP[nb]/N 	 1 	 end the
+11 	 12 	 (NP\NP)/NP 	 1 	 end of
+13 	 12 	 (NP\NP)/NP 	 2 	 1991 of
+<\s>

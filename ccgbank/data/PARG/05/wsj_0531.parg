@@ -1,0 +1,114 @@
+<s id="wsj_0531.1"> 14
+1 	 0 	 N/N 	 1 	 Corp. Ferro
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+3 	 5 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 1 	 it buy <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 buy will
+6 	 5 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 3 	 back buy
+7 	 5 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 2 	 as buy
+7 	 6 	 S[adj]\NP 	 1 	 as back <XB>
+8 	 7 	 ((NP[nb]/N)/PP)/(S[adj]\NP) 	 3 	 many as
+9 	 7 	 ((NP[nb]/N)/PP)/(S[adj]\NP) 	 2 	 as as
+11 	 9 	 PP/NP 	 1 	 million as
+11 	 10 	 N/N 	 1 	 million one
+13 	 7 	 ((NP[nb]/N)/PP)/(S[adj]\NP) 	 1 	 shares as
+13 	 12 	 N/N 	 1 	 shares common
+<\s>
+<s id="wsj_0531.2"> 22
+1 	 0 	 NP[nb]/N 	 1 	 maker The
+1 	 2 	 (NP\NP)/NP 	 1 	 maker of
+1 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 maker did
+1 	 9 	 (S[b]\NP)/S[qem] 	 1 	 maker say <XB>
+6 	 2 	 (NP\NP)/NP 	 2 	 materials of
+6 	 3 	 N/N 	 1 	 materials chemical
+6 	 5 	 N/N 	 1 	 materials industrial
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 did n't
+9 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 say did
+10 	 9 	 (S[b]\NP)/S[qem] 	 2 	 how say
+11 	 10 	 (S[qem]/(S[dcl]/NP))/N 	 2 	 much how
+11 	 14 	 (S[b]\NP)/NP 	 2 	 much pay <XU>
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+12 	 14 	 (S[b]\NP)/NP 	 1 	 it pay <XB>
+13 	 10 	 (S[qem]/(S[dcl]/NP))/N 	 1 	 would how
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 pay would
+16 	 9 	 (S[b]\NP)/S[qem] 	 2 	 when say
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+17 	 19 	 (S[b]\NP)/NP 	 1 	 it make <XB>
+18 	 16 	 S[qem]/S[dcl] 	 1 	 would when
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make would
+21 	 19 	 (S[b]\NP)/NP 	 2 	 transactions make
+21 	 20 	 NP[nb]/N 	 1 	 transactions the
+<\s>
+<s id="wsj_0531.3"> 17
+0 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Ferro said
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 said also
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+3 	 5 	 (S[b]\NP)/NP 	 1 	 it cancel <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cancel would
+5 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 cancel for
+8 	 5 	 (S[b]\NP)/NP 	 2 	 portion cancel
+8 	 6 	 NP[nb]/N 	 1 	 portion the
+8 	 7 	 N/N 	 1 	 portion unused
+8 	 9 	 (NP\NP)/NP 	 1 	 portion of
+13 	 9 	 (NP\NP)/NP 	 2 	 plan of
+13 	 10 	 NP[nb]/N 	 1 	 plan a
+13 	 11 	 N/N 	 1 	 plan 1987
+13 	 12 	 N/N 	 1 	 plan buy-back
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 reasons for
+16 	 15 	 N/N 	 1 	 reasons administrative
+<\s>
+<s id="wsj_0531.4"> 20
+1 	 0 	 NP[nb]/N 	 1 	 plan The
+1 	 2 	 (S[dcl]\NP)/S[for] 	 1 	 plan calls
+1 	 13 	 (S[dcl]\NP)/NP 	 1 	 plan reflects <XB>
+2 	 12 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 calls which
+3 	 2 	 (S[dcl]\NP)/S[for] 	 2 	 for calls
+5 	 3 	 (S[for]/(S[to]\NP))/NP 	 2 	 company for
+5 	 4 	 NP[nb]/N 	 1 	 company the
+5 	 7 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 1 	 company buy <XB>
+6 	 3 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+8 	 7 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 3 	 back buy
+10 	 7 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 2 	 shares buy
+10 	 8 	 S[adj]\NP 	 1 	 shares back <XB>
+10 	 9 	 N/N 	 1 	 shares 2,250,000
+13 	 12 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 reflects which
+17 	 13 	 (S[dcl]\NP)/NP 	 2 	 split reflects
+17 	 14 	 NP[nb]/N 	 1 	 split a
+17 	 15 	 N/N 	 1 	 split 3-for-2
+17 	 16 	 N/N 	 1 	 split stock
+17 	 18 	 (NP\NP)/N 	 1 	 split this
+19 	 18 	 (NP\NP)/N 	 2 	 year this
+<\s>
+<s id="wsj_0531.5"> 10
+1 	 0 	 (S/S)/(S/S) 	 2 	 far So
+3 	 2 	 NP[nb]/N 	 1 	 company the
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company had
+3 	 5 	 ((S[pt]\NP)/NP)/(S[adj]\NP) 	 1 	 company bought <XB>
+4 	 1 	 S/S 	 1 	 had far
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 bought had
+6 	 5 	 ((S[pt]\NP)/NP)/(S[adj]\NP) 	 3 	 back bought
+8 	 7 	 (N/N)/(N/N) 	 2 	 million 1.6
+9 	 5 	 ((S[pt]\NP)/NP)/(S[adj]\NP) 	 2 	 shares bought
+9 	 6 	 S[adj]\NP 	 1 	 shares back <XB>
+9 	 8 	 N/N 	 1 	 shares million
+<\s>
+<s id="wsj_0531.6"> 18
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+9 	 10 	 S[dcl]\NP 	 1 	 Ferro closed
+10 	 0 	 (S/S)/NP 	 1 	 closed In
+10 	 7 	 S/S 	 1 	 closed Friday
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 closed at
+10 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ at
+13 	 12 	 N/N[num] 	 1 	 25.25 $
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 cents down
+17 	 16 	 N/N 	 1 	 cents 50
+<\s>

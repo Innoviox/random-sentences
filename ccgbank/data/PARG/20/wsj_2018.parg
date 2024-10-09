@@ -1,0 +1,96 @@
+<s id="wsj_2018.1"> 23
+0 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Directors elected
+4 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Womack elected
+4 	 2 	 N/N 	 1 	 Womack R.
+4 	 3 	 N/N 	 1 	 Womack Marvin
+4 	 14 	 (S[b]\NP)/NP 	 1 	 Womack head <XB>
+11 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 purchasing elected
+11 	 6 	 NP/NP 	 1 	 purchasing currently
+11 	 7 	 N/N 	 1 	 purchasing vice
+11 	 8 	 N/N 	 1 	 purchasing president\/product
+11 	 9 	 N/N 	 1 	 purchasing supply
+11 	 14 	 (S[b]\NP)/NP 	 1 	 purchasing head <XB>
+13 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to elected
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 head to
+16 	 15 	 NP[nb]/N 	 1 	 company the
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 company 's
+20 	 18 	 (N/N)/(N/N) 	 2 	 D.C. Washington
+22 	 14 	 (S[b]\NP)/NP 	 2 	 office head
+22 	 17 	 (NP[nb]/N)\NP 	 1 	 office 's
+22 	 20 	 N/N 	 1 	 office D.C.
+<\s>
+<s id="wsj_2018.2"> 41
+3 	 0 	 (S/S)/NP 	 2 	 relations As
+3 	 1 	 N/N 	 1 	 relations vice
+3 	 2 	 N/N 	 1 	 relations president\/national-government
+6 	 5 	 N/N 	 1 	 Womack Mr.
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Womack will
+6 	 8 	 ((S[b]\NP)/(S[to]\NP))/PP 	 1 	 Womack work <XB>
+6 	 22 	 (S[b]\NP)/NP 	 1 	 Womack represent <XB>
+7 	 0 	 (S/S)/NP 	 1 	 will As
+7 	 31 	 (S[dcl]\S[dcl])/NP 	 1 	 will said
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 work will
+9 	 8 	 ((S[b]\NP)/(S[to]\NP))/PP 	 3 	 with work
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 P&G 's
+13 	 9 	 PP/NP 	 1 	 management with
+13 	 11 	 (NP[nb]/N)\NP 	 1 	 management 's
+13 	 12 	 N/N 	 1 	 management top
+15 	 8 	 ((S[b]\NP)/(S[to]\NP))/PP 	 3 	 with work
+17 	 16 	 NP[nb]/N 	 1 	 company the
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 company 's
+20 	 15 	 PP/NP 	 1 	 staff with
+20 	 18 	 (NP[nb]/N)\NP 	 1 	 staff 's
+20 	 19 	 N/N 	 1 	 staff government-relations
+21 	 8 	 ((S[b]\NP)/(S[to]\NP))/PP 	 2 	 to work
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 represent to
+22 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 represent at
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 P&G 's
+25 	 22 	 (S[b]\NP)/NP 	 2 	 interests represent
+25 	 24 	 (NP[nb]/N)\NP 	 1 	 interests 's
+29 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 level at
+29 	 27 	 NP[nb]/N 	 1 	 level the
+29 	 28 	 N/N 	 1 	 level federal
+34 	 31 	 (S[dcl]\S[dcl])/NP 	 2 	 Smale said
+34 	 32 	 N/N 	 1 	 Smale John
+34 	 33 	 N/N 	 1 	 Smale G.
+36 	 31 	 (S[dcl]\S[dcl])/NP 	 2 	 chairman said
+40 	 31 	 (S[dcl]\S[dcl])/NP 	 2 	 officer said
+40 	 38 	 N/N 	 1 	 officer chief
+40 	 39 	 N/N 	 1 	 officer executive
+<\s>
+<s id="wsj_2018.3"> 14
+1 	 0 	 N/N 	 1 	 Smale Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Smale said
+4 	 3 	 NP[nb]/N 	 1 	 appointment the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 appointment recognizes
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 recognizes said
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 influence recognizes
+8 	 6 	 NP[nb]/N 	 1 	 influence the
+8 	 7 	 N/N 	 1 	 influence growing
+8 	 9 	 (NP\NP)/NP 	 1 	 influence of
+8 	 11 	 (NP\NP)/NP 	 1 	 influence on
+10 	 9 	 (NP\NP)/NP 	 2 	 government of
+13 	 11 	 (NP\NP)/NP 	 2 	 business on
+13 	 12 	 NP[nb]/N 	 1 	 business our
+<\s>
+<s id="wsj_2018.4"> 23
+1 	 0 	 N/N 	 1 	 Womack Mr.
+1 	 5 	 (S[adj]\NP)\NP 	 1 	 Womack old <XB>
+1 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Womack has
+1 	 8 	 (S[pt]\NP)/PP 	 1 	 Womack been <XB>
+4 	 3 	 N/N 	 1 	 years 53
+4 	 5 	 (S[adj]\NP)\NP 	 2 	 years old
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+8 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 been for
+9 	 8 	 (S[pt]\NP)/PP 	 2 	 with been
+12 	 9 	 PP/NP 	 1 	 producer with
+12 	 10 	 NP[nb]/N 	 1 	 producer the
+12 	 11 	 N/N 	 1 	 producer big
+12 	 13 	 (NP\NP)/NP 	 1 	 producer of
+15 	 13 	 (NP\NP)/NP 	 2 	 products of
+15 	 14 	 N/N 	 1 	 products household
+17 	 13 	 (NP\NP)/NP 	 2 	 food of
+19 	 13 	 (NP\NP)/NP 	 2 	 pharmaceuticals of
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+22 	 21 	 N/N 	 1 	 years 30
+<\s>

@@ -1,0 +1,79 @@
+<s id="wsj_1683.1"> 25
+2 	 0 	 N/N 	 1 	 Inc. MC
+2 	 1 	 N/N 	 1 	 Inc. SHIPPING
+2 	 5 	 NP\NP 	 1 	 Inc. York
+2 	 7 	 (S[dcl]\NP)/NP 	 1 	 Inc. declared
+5 	 4 	 (NP\NP)/(NP\NP) 	 2 	 York New
+10 	 7 	 (S[dcl]\NP)/NP 	 2 	 quarterly declared
+10 	 8 	 NP[nb]/N 	 1 	 quarterly an
+10 	 9 	 N/N 	 1 	 quarterly initial
+10 	 11 	 (NP\NP)/NP 	 1 	 quarterly of
+10 	 16 	 (S[adj]\NP)/NP 	 1 	 quarterly payable <XB>
+13 	 11 	 (NP\NP)/NP 	 2 	 cents of
+13 	 12 	 N/N 	 1 	 cents 60
+13 	 14 	 (NP\NP)/N 	 1 	 cents a
+15 	 14 	 (NP\NP)/N 	 2 	 share a
+16 	 19 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 payable to
+17 	 16 	 (S[adj]\NP)/NP 	 2 	 Nov. payable
+18 	 17 	 N/N[num] 	 1 	 15 Nov.
+20 	 19 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 shares to
+20 	 21 	 (NP\NP)/NP 	 1 	 shares of
+20 	 23 	 (NP\NP)/N[num] 	 1 	 shares Oct.
+22 	 21 	 (NP\NP)/NP 	 2 	 record of
+24 	 23 	 (NP\NP)/N[num] 	 2 	 30 Oct.
+<\s>
+<s id="wsj_1683.2"> 29
+1 	 0 	 NP[nb]/N 	 1 	 announcement The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 announcement boosted
+5 	 3 	 NP[nb]/N 	 1 	 company the
+5 	 4 	 N/N 	 1 	 company charter-shipping
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 company 's
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 shares boosted
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 shares 's
+7 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 shares which
+7 	 10 	 (S[dcl]\NP)/PP 	 1 	 shares closed <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 closed which
+10 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+10 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 closed in
+11 	 10 	 (S[dcl]\NP)/PP 	 2 	 at closed
+12 	 11 	 PP/NP 	 1 	 $ at
+13 	 12 	 N/N[num] 	 1 	 15.125 $
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 $ up
+16 	 18 	 (NP\NP)/N 	 1 	 $ a
+17 	 16 	 N/N[num] 	 1 	 1.25 $
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+23 	 22 	 N/N 	 1 	 trading composite
+23 	 24 	 (NP\NP)/NP 	 1 	 trading on
+28 	 24 	 (NP\NP)/NP 	 2 	 Exchange on
+28 	 25 	 NP[nb]/N 	 1 	 Exchange the
+28 	 26 	 N/N 	 1 	 Exchange American
+28 	 27 	 N/N 	 1 	 Exchange Stock
+<\s>
+<s id="wsj_1683.3"> 26
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 company which
+1 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 company went <XB>
+1 	 5 	 S[adj]\NP 	 1 	 company public <XB>
+1 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 company intends
+1 	 11 	 ((S[b]\NP)/PP)/NP 	 1 	 company pay <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 went which
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 went in
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 public went
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 May in
+10 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to intends
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+12 	 11 	 ((S[b]\NP)/PP)/NP 	 3 	 dividends pay
+13 	 11 	 ((S[b]\NP)/PP)/NP 	 2 	 from pay
+16 	 13 	 PP/NP 	 1 	 flow from
+16 	 14 	 N/N 	 1 	 flow available
+16 	 15 	 N/N 	 1 	 flow cash
+19 	 18 	 NP[nb]/N 	 1 	 amount the
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 amount may
+19 	 21 	 (S[b]\NP)/PP 	 1 	 amount vary <XB>
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 vary may
+23 	 22 	 (PP/PP)/NP 	 2 	 quarter from
+24 	 21 	 (S[b]\NP)/PP 	 2 	 to vary
+24 	 22 	 (PP/PP)/NP 	 1 	 to from
+25 	 24 	 PP/NP 	 1 	 quarter to
+<\s>

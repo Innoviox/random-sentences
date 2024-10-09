@@ -1,0 +1,77 @@
+<s id="wsj_2312.1"> 11
+3 	 0 	 N/N 	 1 	 Partners Diamond
+3 	 1 	 N/N 	 1 	 Partners Shamrock
+3 	 2 	 N/N 	 1 	 Partners Offshore
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Partners said
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it had
+5 	 7 	 (S[pt]\NP)/NP 	 1 	 it discovered <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 discovered had
+7 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 discovered offshore
+8 	 7 	 (S[pt]\NP)/NP 	 2 	 gas discovered
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Louisiana offshore
+<\s>
+<s id="wsj_2312.2"> 27
+1 	 0 	 NP[nb]/N 	 1 	 well The
+1 	 2 	 S[dcl]\NP 	 1 	 well flowed
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 flowed at
+2 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 flowed through
+2 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 flowed at
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 rate at
+5 	 4 	 NP[nb]/N 	 1 	 rate a
+5 	 6 	 (NP\NP)/NP 	 1 	 rate of
+8 	 7 	 (N/N)/(N/N) 	 2 	 million 2.016
+10 	 6 	 (NP\NP)/NP 	 2 	 feet of
+10 	 8 	 N/N 	 1 	 feet million
+10 	 9 	 N/N 	 1 	 feet cubic
+10 	 11 	 (NP\NP)/NP 	 1 	 feet of
+10 	 13 	 (NP\NP)/N 	 1 	 feet a
+12 	 11 	 (NP\NP)/NP 	 2 	 gas of
+14 	 13 	 (NP\NP)/N 	 2 	 day a
+19 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 opening through
+19 	 16 	 NP[nb]/N 	 1 	 opening a
+19 	 17 	 N/N 	 1 	 opening 16
+19 	 18 	 N/N 	 1 	 opening 64-inch
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 depths at
+21 	 22 	 (NP\NP)/NP 	 1 	 depths between
+26 	 22 	 (NP\NP)/NP 	 2 	 feet between
+26 	 23 	 N/N 	 1 	 feet 5,782 <XU>
+26 	 25 	 N/N 	 1 	 feet 5,824
+<\s>
+<s id="wsj_2312.3"> 14
+1 	 0 	 N/N 	 1 	 Shamrock Diamond
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Shamrock is
+2 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 is with
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 operator is
+4 	 3 	 NP[nb]/N 	 1 	 operator the
+9 	 8 	 (N/N)/(N/N) 	 2 	 % 100
+10 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 interest with
+10 	 7 	 NP[nb]/N 	 1 	 interest a
+10 	 9 	 N/N 	 1 	 interest %
+10 	 11 	 (NP\NP)/NP 	 1 	 interest in
+13 	 11 	 (NP\NP)/NP 	 2 	 well in
+13 	 12 	 NP[nb]/N 	 1 	 well the
+<\s>
+<s id="wsj_2312.4"> 21
+2 	 0 	 N/N 	 1 	 Offshore Diamond
+2 	 1 	 N/N 	 1 	 Offshore Shamrock
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Offshore 's
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 stock 's
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 stock rose
+4 	 10 	 (S[b]\NP)/PP 	 1 	 stock close <XB>
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 rose cents
+5 	 8 	 (S\NP)\(S\NP) 	 2 	 rose Friday
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 cents 12.5
+9 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to rose
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 close to
+10 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 close in
+11 	 10 	 (S[b]\NP)/PP 	 2 	 at close
+12 	 11 	 PP/NP 	 1 	 $ at
+13 	 12 	 N/N[num] 	 1 	 8.25 $
+20 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+20 	 15 	 N/N 	 1 	 trading New
+20 	 16 	 N/N 	 1 	 trading York
+20 	 17 	 N/N 	 1 	 trading Stock
+20 	 18 	 N/N 	 1 	 trading Exchange
+20 	 19 	 N/N 	 1 	 trading composite
+<\s>

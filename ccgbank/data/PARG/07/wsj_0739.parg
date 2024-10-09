@@ -1,0 +1,447 @@
+<s id="wsj_0739.1"> 24
+2 	 1 	 (N/N)/(N/N) 	 2 	 safer potentially
+3 	 4 	 (N/N)\(N/N) 	 2 	 whooping cough
+5 	 0 	 NP[nb]/N 	 1 	 vaccine A
+5 	 2 	 N/N 	 1 	 vaccine safer
+5 	 3 	 N/N 	 1 	 vaccine whooping
+5 	 6 	 S[pss]\NP 	 1 	 vaccine made <XB>
+5 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 vaccine was
+5 	 13 	 S[pss]\NP 	 1 	 vaccine described <XB>
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 made by
+11 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 techniques by
+11 	 8 	 N/N 	 1 	 techniques novel
+11 	 9 	 N/N 	 1 	 techniques genetic
+11 	 10 	 N/N 	 1 	 techniques engineering
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 described was
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 described by
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 team by
+16 	 15 	 NP[nb]/N 	 1 	 team a
+16 	 17 	 (NP\NP)/NP 	 1 	 team of
+23 	 17 	 (NP\NP)/NP 	 2 	 scientists of
+23 	 18 	 N/N 	 1 	 scientists Italian <XU>
+23 	 20 	 N/N 	 1 	 scientists U.S.
+23 	 22 	 N/N 	 1 	 scientists Japanese
+<\s>
+<s id="wsj_0739.2"> 24
+1 	 0 	 NP[nb]/N 	 1 	 team The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 team reported
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 they managed
+3 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 they induce <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 managed reported
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to managed
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 induce to
+7 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 bacteria induce
+7 	 9 	 (S[b]\NP)/NP 	 1 	 bacteria produce <XB>
+8 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to induce
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 produce to
+12 	 9 	 (S[b]\NP)/NP 	 2 	 version produce
+12 	 10 	 NP[nb]/N 	 1 	 version a
+12 	 11 	 N/N 	 1 	 version non-toxic
+12 	 13 	 (NP\NP)/NP 	 1 	 version of
+15 	 13 	 (NP\NP)/NP 	 2 	 poisons of
+15 	 14 	 NP[nb]/N 	 1 	 poisons the
+15 	 16 	 S[pss]\NP 	 1 	 poisons produced <XB>
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 produced by
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 bacterium by
+19 	 18 	 NP[nb]/N 	 1 	 bacterium the
+19 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bacterium that
+19 	 21 	 (S[dcl]\NP)/NP 	 1 	 bacterium causes <XB>
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 causes that
+23 	 21 	 (S[dcl]\NP)/NP 	 2 	 cough causes
+23 	 22 	 N/N 	 1 	 cough whooping
+<\s>
+<s id="wsj_0739.3"> 31
+1 	 0 	 N/N 	 1 	 tests Laboratory
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 tests showed
+2 	 21 	 (S[dcl]\S[dcl])\NP 	 1 	 showed reported
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that showed
+5 	 4 	 N/N 	 1 	 versions non-toxic
+5 	 6 	 (NP\NP)/NP 	 1 	 versions of
+5 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 versions are
+5 	 10 	 (S[adj]\NP)/PP 	 1 	 versions capable <XB>
+8 	 6 	 (NP\NP)/NP 	 2 	 poisons of
+8 	 7 	 NP[nb]/N 	 1 	 poisons the
+9 	 3 	 S[em]/S[dcl] 	 1 	 are that
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 capable are
+11 	 10 	 (S[adj]\NP)/PP 	 2 	 of capable
+12 	 11 	 PP/(S[ng]\NP) 	 1 	 inducing of
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 immunity inducing
+14 	 13 	 NP[nb]/N 	 1 	 immunity an
+14 	 15 	 (NP\NP)/NP 	 1 	 immunity to
+17 	 15 	 (NP\NP)/NP 	 2 	 cough to
+17 	 16 	 N/N 	 1 	 cough whooping
+20 	 19 	 NP[nb]/N 	 1 	 researchers the
+20 	 21 	 (S[dcl]\S[dcl])\NP 	 2 	 researchers reported
+21 	 22 	 (S\S)/NP 	 1 	 reported in
+24 	 23 	 NP[nb]/N 	 1 	 week this
+24 	 25 	 (NP[nb]/N)\NP 	 2 	 week 's
+26 	 22 	 (S\S)/NP 	 2 	 issue in
+26 	 25 	 (NP[nb]/N)\NP 	 1 	 issue 's
+26 	 27 	 (NP\NP)/NP 	 1 	 issue of
+30 	 27 	 (NP\NP)/NP 	 2 	 Science of
+30 	 28 	 NP[nb]/N 	 1 	 Science the
+30 	 29 	 N/N 	 1 	 Science journal
+<\s>
+<s id="wsj_0739.4"> 30
+2 	 0 	 NP[nb]/N 	 1 	 vaccine The
+2 	 1 	 N/N 	 1 	 vaccine current
+2 	 3 	 (NP\NP)/NP 	 1 	 vaccine for
+2 	 10 	 (S[dcl]\NP)/NP 	 1 	 vaccine is
+5 	 3 	 (NP\NP)/NP 	 2 	 cough for
+5 	 4 	 N/N 	 1 	 cough whooping
+8 	 3 	 (NP\NP)/NP 	 2 	 pertussis for
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 part is
+11 	 12 	 (NP\NP)/NP 	 1 	 part of
+21 	 16 	 (N/N)/NP 	 2 	 tetanus for
+21 	 17 	 N/N 	 1 	 tetanus diphtheria
+21 	 19 	 N/N 	 1 	 tetanus pertussis
+23 	 12 	 (NP\NP)/NP 	 2 	 shot of
+23 	 13 	 NP[nb]/N 	 1 	 shot the
+23 	 14 	 N/N 	 1 	 shot DPT
+23 	 16 	 (N/N)/NP 	 1 	 shot for
+23 	 24 	 (S[pss]\NP)/NP 	 1 	 shot given <XB>
+26 	 24 	 (S[pss]\NP)/NP 	 2 	 infants given
+26 	 25 	 N/N 	 1 	 infants most
+29 	 24 	 (S[pss]\NP)/NP 	 2 	 children given
+29 	 25 	 N/N 	 1 	 children most
+29 	 28 	 N/N 	 1 	 children young
+<\s>
+<s id="wsj_0739.5"> 25
+1 	 0 	 NP[nb]/N 	 1 	 vaccine The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 vaccine is
+1 	 3 	 (S[adj]\NP)/PP 	 1 	 vaccine effective <XB>
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 effective is
+4 	 3 	 (S[adj]\NP)/PP 	 2 	 in effective
+5 	 4 	 PP/(S[ng]\NP) 	 1 	 preventing in
+7 	 5 	 (S[ng]\NP)/NP 	 2 	 disease preventing
+7 	 6 	 NP[nb]/N 	 1 	 disease a
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 disease that
+7 	 10 	 (S[dcl]\NP)/NP 	 1 	 disease afflicts <XB>
+7 	 19 	 (S[ng]\NP)/NP 	 1 	 disease causing <XB>
+10 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 afflicts that
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 afflicts still
+13 	 11 	 (N/N)/(N/N) 	 2 	 million about
+13 	 12 	 (N/N)/(N/N) 	 2 	 million 60
+14 	 10 	 (S[dcl]\NP)/NP 	 2 	 children afflicts
+14 	 13 	 N/N 	 1 	 children million
+14 	 15 	 (NP\NP)/N 	 1 	 children a
+14 	 17 	 NP\NP 	 1 	 children world-wide
+16 	 15 	 (NP\NP)/N 	 2 	 year a
+24 	 19 	 (S[ng]\NP)/NP 	 2 	 deaths causing
+24 	 20 	 NP[nb]/N 	 1 	 deaths an
+24 	 21 	 N/N 	 1 	 deaths estimated
+24 	 22 	 N/N 	 1 	 deaths one
+24 	 23 	 N/N 	 1 	 deaths million
+<\s>
+<s id="wsj_0739.6"> 12
+1 	 0 	 NP[nb]/N 	 1 	 vaccine The
+1 	 5 	 (S[dcl]\NP)/NP 	 1 	 vaccine causes
+5 	 3 	 (S\NP)/(S\NP) 	 2 	 causes however
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 reactions causes
+7 	 6 	 N/N 	 1 	 reactions allergic
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 reactions that
+7 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 reactions can <XB>
+7 	 11 	 S[adj]\NP 	 1 	 reactions fatal <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 can that
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+11 	 10 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 fatal be
+<\s>
+<s id="wsj_0739.7"> 23
+1 	 0 	 NP[nb]/N 	 1 	 reactions The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 reactions stem
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 from stem
+5 	 3 	 PP/NP 	 1 	 fact from
+5 	 4 	 NP[nb]/N 	 1 	 fact the
+6 	 5 	 N/S[em] 	 1 	 that fact
+8 	 7 	 NP[nb]/N 	 1 	 vaccine the
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 vaccine contains
+9 	 6 	 S[em]/S[dcl] 	 1 	 contains that
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 copies contains
+11 	 10 	 N/N 	 1 	 copies multiple
+11 	 12 	 (NP\NP)/NP 	 1 	 copies of
+16 	 15 	 (N/N)/(N/N) 	 2 	 pertussis Bordetella
+17 	 12 	 (NP\NP)/NP 	 2 	 bacterium of
+17 	 13 	 NP[nb]/N 	 1 	 bacterium the
+17 	 14 	 N/N 	 1 	 bacterium whole
+17 	 16 	 N/N 	 1 	 bacterium pertussis
+17 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bacterium which
+17 	 20 	 (S[dcl]\NP)/NP 	 1 	 bacterium causes <XB>
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 causes which
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 cough causes
+22 	 21 	 N/N 	 1 	 cough whooping
+<\s>
+<s id="wsj_0739.8"> 19
+1 	 0 	 NP[nb]/N 	 1 	 bacterium This
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 bacterium produces
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 toxin produces
+4 	 3 	 NP[nb]/N 	 1 	 toxin a
+4 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 toxin that
+4 	 8 	 (S[pss]\NP)/PP 	 1 	 toxin used <XB>
+4 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 toxin can <XB>
+4 	 14 	 (S[b]\NP)/NP 	 1 	 toxin induce <XB>
+8 	 7 	 ((S\NP)/(S\NP))/(S[pss]\NP) 	 3 	 used if
+9 	 8 	 (S[pss]\NP)/PP 	 2 	 as used
+11 	 9 	 PP/NP 	 1 	 vaccine as
+11 	 10 	 NP[nb]/N 	 1 	 vaccine a
+13 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 can that
+13 	 7 	 ((S\NP)/(S\NP))/(S[pss]\NP) 	 2 	 can if
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 induce can
+15 	 14 	 (S[b]\NP)/NP 	 2 	 immunity induce
+15 	 16 	 (NP\NP)/NP 	 1 	 immunity to
+18 	 16 	 (NP\NP)/NP 	 2 	 cough to
+18 	 17 	 N/N 	 1 	 cough whooping
+<\s>
+<s id="wsj_0739.9"> 7
+3 	 2 	 NP[nb]/N 	 1 	 toxin the
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 toxin is
+3 	 6 	 S[adj]\NP 	 1 	 toxin poisonous <XB>
+4 	 0 	 S/S 	 1 	 is Unfortunately
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 is also
+6 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 poisonous is
+<\s>
+<s id="wsj_0739.10"> 29
+3 	 0 	 NP[nb]/N 	 1 	 team The
+3 	 1 	 N/N 	 1 	 team Italian-led
+3 	 2 	 N/N 	 1 	 team scientific
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 team said
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 they had
+5 	 7 	 (S[pt]\NP)/PP 	 1 	 they succeeded <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 succeeded had
+8 	 7 	 (S[pt]\NP)/PP 	 2 	 in succeeded
+9 	 8 	 PP/(S[ng]\NP) 	 1 	 getting in
+10 	 9 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 bacteria getting
+10 	 12 	 (S[b]\NP)/NP 	 1 	 bacteria produce <XB>
+11 	 9 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to getting
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 produce to
+15 	 12 	 (S[b]\NP)/NP 	 2 	 version produce
+15 	 13 	 NP[nb]/N 	 1 	 version a
+15 	 14 	 N/N 	 1 	 version non-toxic
+15 	 16 	 (NP\NP)/NP 	 1 	 version of
+19 	 16 	 (NP\NP)/NP 	 2 	 toxin of
+19 	 17 	 NP[nb]/N 	 1 	 toxin the
+19 	 18 	 N/N 	 1 	 toxin pertussis
+19 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 toxin which
+19 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 toxin could <XB>
+19 	 24 	 (S[pss]\NP)/PP 	 1 	 toxin used <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 could which
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+24 	 23 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+25 	 24 	 (S[pss]\NP)/PP 	 2 	 as used
+28 	 25 	 PP/NP 	 1 	 vaccine as
+28 	 26 	 NP[nb]/N 	 1 	 vaccine a
+28 	 27 	 N/N 	 1 	 vaccine safe
+<\s>
+<s id="wsj_0739.11"> 21
+1 	 0 	 NP[nb]/N 	 1 	 researchers The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 researchers reported
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 they have
+3 	 6 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 they able <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 have reported
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+6 	 5 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 able been
+7 	 6 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pluck to
+11 	 8 	 ((S[b]\NP)/PP)/NP 	 3 	 genes pluck
+11 	 9 	 NP[nb]/N 	 1 	 genes the
+11 	 10 	 N/N 	 1 	 genes five
+11 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 genes that
+11 	 13 	 (S[dcl]\NP)/NP 	 1 	 genes produced <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 produced that
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 toxin produced
+15 	 14 	 NP[nb]/N 	 1 	 toxin the
+17 	 8 	 ((S[b]\NP)/PP)/NP 	 2 	 of pluck
+17 	 16 	 PP/PP 	 1 	 of out
+20 	 17 	 PP/NP 	 1 	 bacterium of
+20 	 18 	 NP[nb]/N 	 1 	 bacterium the
+20 	 19 	 N/N 	 1 	 bacterium pertussis
+<\s>
+<s id="wsj_0739.12"> 24
+0 	 1 	 ((S[dcl]\NP)/S[em])/(S[adj]\NP) 	 1 	 It turned
+0 	 2 	 S[adj]\NP 	 1 	 It out <XB>
+2 	 1 	 ((S[dcl]\NP)/S[em])/(S[adj]\NP) 	 3 	 out turned
+3 	 1 	 ((S[dcl]\NP)/S[em])/(S[adj]\NP) 	 2 	 that turned
+5 	 6 	 ((S[dcl]\NP[expl])/(S[to]\NP))/NP 	 1 	 it took
+6 	 4 	 (S/S)/S[dcl] 	 2 	 took although
+8 	 7 	 (N/N)/(N/N) 	 2 	 five all
+9 	 6 	 ((S[dcl]\NP[expl])/(S[to]\NP))/NP 	 3 	 genes took
+9 	 8 	 N/N 	 1 	 genes five
+10 	 6 	 ((S[dcl]\NP[expl])/(S[to]\NP))/NP 	 2 	 to took
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 produce to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 toxin produce
+13 	 12 	 NP[nb]/N 	 1 	 toxin the
+16 	 15 	 N/N 	 1 	 one only
+16 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 one was
+16 	 18 	 (S[adj]\NP)/PP 	 1 	 one responsible <XB>
+17 	 3 	 S[em]/S[dcl] 	 1 	 was that
+17 	 4 	 (S/S)/S[dcl] 	 1 	 was although
+18 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 responsible was
+19 	 18 	 (S[adj]\NP)/PP 	 2 	 for responsible
+21 	 20 	 NP[nb]/N 	 1 	 toxin the
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 toxin 's
+23 	 19 	 PP/NP 	 1 	 virulence for
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 virulence 's
+<\s>
+<s id="wsj_0739.13"> 39
+3 	 1 	 (S/S)/NP 	 2 	 engineering in
+3 	 2 	 N/N 	 1 	 engineering genetic
+4 	 5 	 (NP\NP)/NP 	 1 	 each of
+4 	 9 	 (NP\NP)/NP 	 1 	 each minus
+4 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 each would
+4 	 20 	 S[pss]\NP 	 1 	 each transferred <XB>
+7 	 5 	 (NP\NP)/NP 	 2 	 genes of
+7 	 6 	 NP[nb]/N 	 1 	 genes these
+11 	 9 	 (NP\NP)/NP 	 2 	 one minus
+11 	 10 	 NP[nb]/N 	 1 	 one the
+11 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 one that
+11 	 13 	 (S[dcl]\NP)/NP 	 1 	 one caused <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 caused that
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 virulence caused
+15 	 14 	 NP[nb]/N 	 1 	 virulence the
+17 	 0 	 S/S 	 1 	 would Ordinarily
+17 	 1 	 (S/S)/NP 	 1 	 would in
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+19 	 18 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 been have
+20 	 19 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 transferred been
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 transferred to
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 bacterium to
+23 	 22 	 NP[nb]/N 	 1 	 bacterium another
+23 	 25 	 (S[pss]\NP)/NP 	 1 	 bacterium called <XB>
+23 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bacterium which
+23 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bacterium would <XB>
+23 	 32 	 (S[b]\NP)/NP 	 1 	 bacterium produce <XB>
+27 	 25 	 (S[pss]\NP)/NP 	 2 	 coli called
+27 	 26 	 N/N 	 1 	 coli E.
+30 	 29 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would which
+30 	 31 	 (S\NP)\(S\NP) 	 2 	 would then
+32 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 produce would
+35 	 32 	 (S[b]\NP)/NP 	 2 	 version produce
+35 	 33 	 NP[nb]/N 	 1 	 version a
+35 	 34 	 N/N 	 1 	 version nonvirulent
+35 	 36 	 (NP\NP)/NP 	 1 	 version of
+38 	 36 	 (NP\NP)/NP 	 2 	 toxin of
+38 	 37 	 NP[nb]/N 	 1 	 toxin the
+<\s>
+<s id="wsj_0739.14"> 17
+1 	 0 	 NP[nb]/N 	 1 	 researchers The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 researchers said
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 they did
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 did said
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 this did
+9 	 8 	 NP[nb]/N 	 1 	 toxin the
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 toxin did
+9 	 12 	 (S[b]\NP)/NP 	 1 	 toxin induce <XB>
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 did n't
+12 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 induce did
+13 	 12 	 (S[b]\NP)/NP 	 2 	 immunity induce
+13 	 14 	 (NP\NP)/NP 	 1 	 immunity to
+16 	 14 	 (NP\NP)/NP 	 2 	 cough to
+16 	 15 	 N/N 	 1 	 cough whooping
+<\s>
+<s id="wsj_0739.15"> 19
+1 	 0 	 NP[nb]/N 	 1 	 scientists The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 scientists took
+1 	 9 	 (S[dcl]\NP)/NP 	 1 	 scientists triggered <XU>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 took then
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 genes took
+7 	 4 	 NP[nb]/N 	 1 	 genes the
+7 	 5 	 N/N 	 1 	 genes five
+7 	 6 	 N/N 	 1 	 genes toxin
+9 	 2 	 (S\NP)/(S\NP) 	 2 	 triggered then
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 mutation triggered
+11 	 10 	 NP[nb]/N 	 1 	 mutation a
+11 	 12 	 (NP\NP)/NP 	 1 	 mutation in
+15 	 12 	 (NP\NP)/NP 	 2 	 gene in
+15 	 13 	 NP[nb]/N 	 1 	 gene the
+15 	 14 	 N/N 	 1 	 gene one
+15 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 gene that
+15 	 17 	 (S[dcl]\NP)/NP 	 1 	 gene caused <XB>
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 caused that
+18 	 17 	 (S[dcl]\NP)/NP 	 2 	 virulence caused
+<\s>
+<s id="wsj_0739.16"> 30
+5 	 2 	 (S[ng]\NP)/NP 	 2 	 technique using
+5 	 3 	 NP[nb]/N 	 1 	 technique a
+5 	 4 	 N/N 	 1 	 technique new
+5 	 6 	 (NP\NP)/(S[pss]\NP) 	 1 	 technique -LRB-
+5 	 7 	 (S[pss]\NP)/NP 	 1 	 technique called <XB>
+5 	 11 	 (NP\NP)/(S[ng]\NP) 	 1 	 technique for
+7 	 6 	 (NP\NP)/(S[pss]\NP) 	 2 	 called -LRB-
+9 	 7 	 (S[pss]\NP)/NP 	 2 	 recombination called
+9 	 8 	 N/N 	 1 	 recombination homologous
+12 	 11 	 (NP\NP)/(S[ng]\NP) 	 2 	 introducing for
+12 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 introducing into
+13 	 12 	 (S[ng]\NP)/NP 	 2 	 genes introducing
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 cells into
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 they transferred
+18 	 0 	 S/S 	 1 	 transferred Then
+18 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 transferred to
+20 	 19 	 (N/N)/(N/N) 	 2 	 five all
+21 	 18 	 (S[dcl]\NP)/NP 	 2 	 genes transferred
+21 	 20 	 N/N 	 1 	 genes five
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 bacteria to
+23 	 25 	 S[adj]\NP 	 1 	 bacteria related <XB>
+25 	 24 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 related closely
+25 	 26 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 related to
+29 	 26 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 organism to
+29 	 27 	 NP[nb]/N 	 1 	 organism the
+29 	 28 	 N/N 	 1 	 organism pertussis
+<\s>
+<s id="wsj_0739.17"> 9
+2 	 0 	 NP[nb]/N 	 1 	 cousins These
+2 	 1 	 N/N 	 1 	 cousins bacterial
+2 	 4 	 (S[dcl]\NP)/(S[dcl]\NP) 	 1 	 cousins do
+2 	 6 	 (S[dcl]\NP)/NP 	 1 	 cousins make <XB>
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 do ordinarily
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 do n't
+6 	 4 	 (S[dcl]\NP)/(S[dcl]\NP) 	 2 	 make do
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 toxin make
+8 	 7 	 NP[nb]/N 	 1 	 toxin the
+<\s>
+<s id="wsj_0739.18"> 20
+2 	 1 	 NP[nb]/N 	 1 	 genes the
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 genes were
+2 	 4 	 S[pss]\NP 	 1 	 genes accompanied <XB>
+3 	 0 	 S/S 	 1 	 were But
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 accompanied were
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 accompanied by
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 piece by
+7 	 6 	 NP[nb]/N 	 1 	 piece a
+7 	 8 	 (NP\NP)/NP 	 1 	 piece of
+7 	 11 	 (S[pss]\NP)/NP 	 1 	 piece called <XB>
+7 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 piece that
+7 	 16 	 (S[dcl]\NP)/NP 	 1 	 piece turns <XB>
+9 	 8 	 (NP\NP)/NP 	 2 	 DNA of
+13 	 11 	 (S[pss]\NP)/NP 	 2 	 promoter called
+13 	 12 	 NP[nb]/N 	 1 	 promoter a
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 turns that
+16 	 19 	 (S\NP)\(S\NP) 	 2 	 turns on
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 genes turns
+18 	 17 	 NP[nb]/N 	 1 	 genes the
+<\s>
+<s id="wsj_0739.19"> 24
+3 	 0 	 NP[nb]/N 	 1 	 recipients The
+3 	 1 	 N/N 	 1 	 recipients new
+3 	 2 	 N/N 	 1 	 recipients bacteria
+3 	 4 	 (NP\NP)/NP 	 1 	 recipients of
+3 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 recipients began
+3 	 8 	 (S[ng]\NP)/NP 	 1 	 recipients producing <XB>
+6 	 4 	 (NP\NP)/NP 	 2 	 genes of
+6 	 5 	 NP[nb]/N 	 1 	 genes the
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 producing began
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 toxin producing
+10 	 9 	 N/N 	 1 	 toxin pertussis
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 toxin which
+10 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 toxin was <XB>
+10 	 23 	 S[adj]\NP 	 1 	 toxin toxic <XB>
+14 	 13 	 ((S\NP)/(S\NP))/PP 	 3 	 of because
+18 	 14 	 PP/NP 	 1 	 gene of
+18 	 15 	 NP[nb]/N 	 1 	 gene the
+18 	 16 	 N/N 	 1 	 gene mutant
+18 	 17 	 N/N 	 1 	 gene virulence
+20 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was which
+20 	 13 	 ((S\NP)/(S\NP))/PP 	 2 	 was because
+22 	 21 	 ((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)) 	 3 	 longer no
+23 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 toxic was
+23 	 22 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 toxic longer
+<\s>

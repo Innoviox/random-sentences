@@ -1,0 +1,197 @@
+<s id="wsj_1668.1"> 24
+1 	 0 	 N/N 	 1 	 Corp. Financial
+1 	 2 	 (NP\NP)/NP 	 1 	 Corp. of
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+4 	 2 	 (NP\NP)/NP 	 2 	 Barbara of
+4 	 3 	 N/N 	 1 	 Barbara Santa
+6 	 7 	 ((S[dcl]\NP)/NP)/PP 	 1 	 it rescheduled
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 rescheduled said
+8 	 7 	 ((S[dcl]\NP)/NP)/PP 	 3 	 to rescheduled
+9 	 8 	 PP/NP 	 1 	 Nov. to
+10 	 9 	 N/N[num] 	 1 	 29 Nov.
+14 	 7 	 ((S[dcl]\NP)/NP)/PP 	 2 	 meeting rescheduled
+14 	 11 	 NP[nb]/N 	 1 	 meeting a
+14 	 12 	 N/N 	 1 	 meeting special
+14 	 13 	 N/N 	 1 	 meeting shareholder
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 vote to
+17 	 16 	 (S[b]\NP)/PP 	 2 	 on vote
+21 	 19 	 (N/N)/N[num] 	 2 	 million $
+21 	 20 	 N/N 	 1 	 million 75
+23 	 17 	 PP/NP 	 1 	 exchange on
+23 	 18 	 NP[nb]/N 	 1 	 exchange a
+23 	 19 	 (N/N)/N[num] 	 1 	 exchange $
+23 	 22 	 N/N 	 1 	 exchange stock-for-debt
+<\s>
+<s id="wsj_1668.2"> 27
+1 	 0 	 NP[nb]/N 	 1 	 meeting The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 meeting had
+1 	 4 	 (S[pss]\NP)/PP 	 1 	 meeting scheduled <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+4 	 3 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 scheduled been
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 for scheduled
+6 	 5 	 PP/NP 	 1 	 Nov. for
+7 	 6 	 N/N[num] 	 1 	 10 Nov.
+10 	 9 	 NP[nb]/N 	 1 	 company the
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 company delayed
+10 	 15 	 (S[b]\NP)/NP 	 1 	 company allow <XB>
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 meeting delayed
+13 	 12 	 NP[nb]/N 	 1 	 meeting the
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 allow to
+16 	 15 	 (S[b]\NP)/NP 	 2 	 time allow
+16 	 17 	 ((NP\NP)/(S[to]\NP))/NP 	 1 	 time for
+19 	 17 	 ((NP\NP)/(S[to]\NP))/NP 	 3 	 Securities for
+19 	 18 	 NP[nb]/N 	 1 	 Securities the
+19 	 24 	 (S[b]\NP)/NP 	 1 	 Securities review <XB>
+22 	 17 	 ((NP\NP)/(S[to]\NP))/NP 	 3 	 Commission for
+22 	 18 	 NP[nb]/N 	 1 	 Commission the
+22 	 21 	 N/N 	 1 	 Commission Exchange
+22 	 24 	 (S[b]\NP)/NP 	 1 	 Commission review <XB>
+23 	 17 	 ((NP\NP)/(S[to]\NP))/NP 	 2 	 to for
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 review to
+26 	 24 	 (S[b]\NP)/NP 	 2 	 proposal review
+26 	 25 	 NP[nb]/N 	 1 	 proposal the
+<\s>
+<s id="wsj_1668.3"> 30
+1 	 0 	 (S/S)/NP 	 2 	 part As
+1 	 2 	 (NP\NP)/NP 	 1 	 part of
+4 	 2 	 (NP\NP)/NP 	 2 	 restructuring of
+4 	 3 	 NP[nb]/N 	 1 	 restructuring a
+4 	 5 	 S[pss]\NP 	 1 	 restructuring announced <XB>
+5 	 7 	 ((S\NP)\(S\NP))/N 	 2 	 announced this
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 this earlier
+8 	 7 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+11 	 10 	 NP[nb]/N 	 1 	 company the
+11 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 company proposed
+11 	 16 	 ((S[b]\NP)/PP)/NP 	 1 	 company exchange <XB>
+12 	 0 	 (S/S)/NP 	 1 	 proposed As
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 proposed in
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 August in
+15 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to proposed
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 exchange to
+19 	 18 	 (N/N)/(N/N) 	 2 	 issued newly
+21 	 16 	 ((S[b]\NP)/PP)/NP 	 3 	 shares exchange
+21 	 17 	 N/N 	 1 	 shares 168
+21 	 19 	 N/N 	 1 	 shares issued
+21 	 20 	 N/N 	 1 	 shares common
+22 	 16 	 ((S[b]\NP)/PP)/NP 	 2 	 for exchange
+25 	 24 	 (N/N)/N[num] 	 2 	 1,000 $
+27 	 22 	 PP/NP 	 1 	 value for
+27 	 23 	 NP[nb]/N 	 1 	 value each
+27 	 24 	 (N/N)/N[num] 	 1 	 value $
+27 	 26 	 N/N 	 1 	 value face
+27 	 28 	 (NP\NP)/NP 	 1 	 value of
+29 	 28 	 (NP\NP)/NP 	 2 	 debt of
+<\s>
+<s id="wsj_1668.4"> 11
+3 	 2 	 NP[nb]/N 	 1 	 figure that
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 figure could
+3 	 6 	 S[pss]\NP 	 1 	 figure revised <XB>
+4 	 0 	 S/S 	 1 	 could However
+4 	 10 	 (S[dcl]\S[dcl])\NP 	 1 	 could said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+6 	 5 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 revised be
+9 	 8 	 N/N 	 1 	 Corp. Financial
+9 	 10 	 (S[dcl]\S[dcl])\NP 	 2 	 Corp. said
+<\s>
+<s id="wsj_1668.5"> 11
+3 	 2 	 NP[nb]/N 	 1 	 company the
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 company has
+4 	 0 	 S/S 	 1 	 has Currently
+7 	 5 	 (N/N)/(N/N) 	 2 	 million about
+7 	 6 	 (N/N)/(N/N) 	 2 	 million six
+9 	 4 	 (S[dcl]\NP)/NP 	 2 	 shares has
+9 	 7 	 N/N 	 1 	 shares million
+9 	 8 	 N/N 	 1 	 shares common
+9 	 10 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>
+<s id="wsj_1668.6"> 15
+3 	 1 	 NP/NP 	 1 	 debt all
+3 	 2 	 NP[nb]/N 	 1 	 debt the
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 debt was
+3 	 5 	 S[pss]\NP 	 1 	 debt converted <XB>
+4 	 0 	 (S/S)/S[dcl] 	 2 	 was If
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 converted was
+9 	 7 	 (N/N)/(N/N) 	 2 	 million about
+9 	 8 	 (N/N)/(N/N) 	 2 	 million 13
+11 	 9 	 N/N 	 1 	 shares million
+11 	 10 	 N/N 	 1 	 shares new
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 shares would
+11 	 14 	 S[pss]\NP 	 1 	 shares issued <XB>
+12 	 0 	 (S/S)/S[dcl] 	 1 	 would If
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+14 	 13 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 issued be
+<\s>
+<s id="wsj_1668.7"> 19
+2 	 0 	 (S/S)/NP 	 2 	 trading In
+2 	 1 	 N/N 	 1 	 trading composite
+9 	 4 	 (S/S)/NP 	 2 	 Exchange on
+9 	 5 	 NP[nb]/N 	 1 	 Exchange the
+9 	 6 	 N/N 	 1 	 Exchange New
+9 	 7 	 N/N 	 1 	 Exchange York
+9 	 8 	 N/N 	 1 	 Exchange Stock
+12 	 11 	 N/N 	 1 	 Corp. Financial
+12 	 13 	 ((S[dcl]\NP)/(S[adj]\NP))/PP 	 1 	 Corp. closed
+12 	 18 	 S[adj]\NP 	 1 	 Corp. unchanged <XB>
+13 	 0 	 (S/S)/NP 	 1 	 closed In
+13 	 3 	 S/S 	 1 	 closed Wednesday
+13 	 4 	 (S/S)/NP 	 1 	 closed on
+14 	 13 	 ((S[dcl]\NP)/(S[adj]\NP))/PP 	 3 	 at closed
+15 	 14 	 PP/NP 	 1 	 $ at
+16 	 15 	 N/N[num] 	 1 	 1.125 $
+18 	 13 	 ((S[dcl]\NP)/(S[adj]\NP))/PP 	 2 	 unchanged closed
+<\s>
+<s id="wsj_1668.8"> 28
+1 	 0 	 NP[nb]/N 	 1 	 debt The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 debt consists
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 of consists
+4 	 3 	 PP/NP 	 1 	 $ of
+4 	 7 	 (NP\NP)/NP 	 1 	 $ of
+6 	 4 	 N/N[num] 	 1 	 million $
+6 	 5 	 N/N 	 1 	 million 50
+9 	 8 	 ((N/N)/(N/N))/((N/N)/(N/N)) 	 3 	 3\/8 13
+10 	 9 	 (N/N)/(N/N) 	 2 	 % 3\/8
+12 	 7 	 (NP\NP)/NP 	 2 	 notes of
+12 	 10 	 N/N 	 1 	 notes %
+12 	 11 	 N/N 	 1 	 notes subordinated
+12 	 13 	 (S[adj]\NP)/NP 	 1 	 notes due <XB>
+14 	 13 	 (S[adj]\NP)/NP 	 2 	 1998 due
+17 	 3 	 PP/NP 	 1 	 $ of
+17 	 20 	 (NP\NP)/NP 	 1 	 $ of
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 25
+22 	 21 	 (N/N)/(N/N) 	 2 	 % 9
+25 	 20 	 (NP\NP)/NP 	 2 	 debentures of
+25 	 22 	 N/N 	 1 	 debentures %
+25 	 23 	 N/N 	 1 	 debentures convertible
+25 	 24 	 N/N 	 1 	 debentures subordinated
+25 	 26 	 (S[adj]\NP)/NP 	 1 	 debentures due <XB>
+27 	 26 	 (S[adj]\NP)/NP 	 2 	 2012 due
+<\s>
+<s id="wsj_1668.9"> 25
+1 	 0 	 N/N 	 1 	 Corp. Financial
+1 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Corp. is
+1 	 4 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Corp. proposing <XB>
+1 	 6 	 ((S[b]\NP)/PP)/NP 	 1 	 Corp. exchange <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 is also
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 proposing is
+5 	 4 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to proposing
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 exchange to
+7 	 6 	 ((S[b]\NP)/PP)/NP 	 3 	 each exchange
+7 	 8 	 (NP\NP)/NP 	 1 	 each of
+12 	 8 	 (NP\NP)/NP 	 2 	 shares of
+12 	 9 	 NP[nb]/N 	 1 	 shares its
+12 	 10 	 N/N 	 1 	 shares 130,000
+12 	 11 	 N/N 	 1 	 shares outstanding
+12 	 13 	 (NP\NP)/NP 	 1 	 shares of
+19 	 13 	 (NP\NP)/NP 	 2 	 stock of
+19 	 14 	 N/N 	 1 	 stock cumulative
+19 	 15 	 N/N 	 1 	 stock convertible
+19 	 16 	 N/N 	 1 	 stock preferred
+19 	 17 	 N/N 	 1 	 stock series
+19 	 18 	 N/N 	 1 	 stock A
+20 	 6 	 ((S[b]\NP)/PP)/NP 	 2 	 for exchange
+22 	 20 	 PP/NP 	 1 	 shares for
+22 	 21 	 N/N 	 1 	 shares two
+22 	 23 	 (NP\NP)/NP 	 1 	 shares of
+24 	 23 	 (NP\NP)/NP 	 2 	 common of
+<\s>

@@ -1,0 +1,75 @@
+<s id="wsj_0236.1"> 23
+2 	 0 	 N/N 	 1 	 Corp. Martin
+2 	 1 	 N/N 	 1 	 Corp. Marietta
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+4 	 5 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it won
+4 	 17 	 (S[b]\NP)/NP 	 1 	 it manufacture <XB>
+4 	 19 	 (S[b]\NP)/NP 	 1 	 it install <XU>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 won said
+9 	 7 	 (N/N)/N[num] 	 2 	 million $
+9 	 8 	 N/N 	 1 	 million 38.2
+10 	 5 	 ((S[dcl]\NP)/PP)/NP 	 3 	 contract won
+10 	 6 	 NP[nb]/N 	 1 	 contract a
+10 	 7 	 (N/N)/N[num] 	 1 	 contract $
+11 	 5 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from won
+15 	 11 	 PP/NP 	 1 	 Service from
+15 	 12 	 NP[nb]/N 	 1 	 Service the
+15 	 13 	 N/N 	 1 	 Service U.S.
+15 	 14 	 N/N 	 1 	 Service Postal
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 manufacture to
+19 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 install to
+22 	 17 	 (S[b]\NP)/NP 	 2 	 machines manufacture <XU>
+22 	 19 	 (S[b]\NP)/NP 	 2 	 machines install
+22 	 20 	 N/N 	 1 	 machines automated
+22 	 21 	 N/N 	 1 	 machines mail-sorting
+<\s>
+<s id="wsj_0236.2"> 24
+1 	 0 	 (S/S)/NP 	 2 	 terms Under
+1 	 2 	 (NP\NP)/NP 	 1 	 terms of
+5 	 2 	 (NP\NP)/NP 	 2 	 contract of
+5 	 3 	 NP[nb]/N 	 1 	 contract the
+5 	 4 	 N/N 	 1 	 contract three-year
+8 	 7 	 N/N 	 1 	 Marietta Martin
+8 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Marietta said
+9 	 0 	 (S/S)/NP 	 1 	 said Under
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+10 	 12 	 (S[b]\NP)/NP 	 1 	 it make <XB>
+10 	 14 	 (S[b]\NP)/NP 	 1 	 it install <XU>
+11 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make will
+14 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 install will
+15 	 12 	 (S[b]\NP)/NP 	 2 	 267 make <XU>
+15 	 14 	 (S[b]\NP)/NP 	 2 	 267 install
+15 	 16 	 (NP\NP)/NP 	 1 	 267 of
+19 	 16 	 (NP\NP)/NP 	 2 	 machines of
+19 	 17 	 NP[nb]/N 	 1 	 machines the
+19 	 18 	 N/N 	 1 	 machines new
+19 	 20 	 (NP\NP)/NP 	 1 	 machines at
+23 	 20 	 (NP\NP)/NP 	 2 	 offices at
+23 	 21 	 N/N 	 1 	 offices 156
+23 	 22 	 N/N 	 1 	 offices postal
+<\s>
+<s id="wsj_0236.3"> 25
+2 	 0 	 NP[nb]/N 	 1 	 machines The
+2 	 1 	 N/N 	 1 	 machines new
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 machines are
+2 	 4 	 (S[adj]\NP)/PP 	 1 	 machines capable <XB>
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 capable are
+5 	 4 	 (S[adj]\NP)/PP 	 2 	 of capable
+6 	 5 	 PP/(S[ng]\NP) 	 1 	 sorting of
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 sorting by
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 code by
+9 	 8 	 N/N 	 1 	 code zip
+12 	 10 	 (N/N)/(N/N) 	 2 	 10,000 up
+12 	 11 	 (N/N)/(N/N) 	 2 	 10,000 to
+16 	 6 	 (S[ng]\NP)/NP 	 2 	 pieces sorting
+16 	 12 	 N/N 	 1 	 pieces 10,000
+16 	 13 	 N/N 	 1 	 pieces large
+16 	 14 	 N/N 	 1 	 pieces flat
+16 	 15 	 N/N 	 1 	 pieces mail
+16 	 18 	 (NP\NP)/NP 	 1 	 pieces including
+16 	 23 	 (NP\NP)/N 	 1 	 pieces an
+19 	 18 	 (NP\NP)/NP 	 2 	 magazines including
+21 	 18 	 (NP\NP)/NP 	 2 	 parcels including
+24 	 23 	 (NP\NP)/N 	 2 	 hour an
+<\s>

@@ -1,0 +1,1314 @@
+<s id="wsj_1884.1"> 16
+1 	 0 	 N/N 	 1 	 prices Stock
+1 	 2 	 S[dcl]\NP 	 1 	 prices closed
+1 	 3 	 S[adj]\NP 	 1 	 prices slightly <XB>
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 closed in
+3 	 4 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 slightly higher
+10 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 day in
+10 	 6 	 NP[nb]/N 	 1 	 day the
+10 	 7 	 N/N 	 1 	 day first
+10 	 8 	 N/N 	 1 	 day routine
+10 	 9 	 N/N 	 1 	 day trading
+10 	 11 	 (NP\NP)/NP 	 1 	 day since
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Friday 's
+15 	 11 	 (NP\NP)/NP 	 2 	 plunge since
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 plunge 's
+15 	 14 	 N/N 	 1 	 plunge big
+<\s>
+<s id="wsj_1884.2"> 14
+1 	 0 	 NP[nb]/N 	 1 	 issues Some
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 issues were
+1 	 3 	 S[pss]\NP 	 1 	 issues affected <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 affected were
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 affected by
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Tuesday 's
+8 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 earthquake by
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 earthquake 's
+8 	 7 	 N/N 	 1 	 earthquake devastating
+8 	 9 	 (NP\NP)/NP 	 1 	 earthquake in
+13 	 9 	 (NP\NP)/NP 	 2 	 area in
+13 	 10 	 NP[nb]/N 	 1 	 area the
+13 	 11 	 N/N 	 1 	 area San
+13 	 12 	 N/N 	 1 	 area Francisco
+<\s>
+<s id="wsj_1884.3"> 34
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Activity continued
+0 	 3 	 (S[b]\NP)/PP 	 1 	 Activity slow <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continued
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 slow to
+3 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 slow as
+4 	 3 	 (S[b]\NP)/PP 	 2 	 from slow
+7 	 4 	 PP/NP 	 1 	 pace from
+7 	 5 	 NP[nb]/N 	 1 	 pace the
+7 	 6 	 N/N 	 1 	 pace hectic
+7 	 8 	 S[pss]\NP 	 1 	 pace set <XB>
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 set during
+11 	 10 	 NP[nb]/N 	 1 	 market the
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 market 's
+15 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Friday during
+15 	 12 	 (NP[nb]/N)\NP 	 1 	 Friday 's
+15 	 13 	 N/N 	 1 	 Friday plunge
+15 	 14 	 N/N 	 1 	 Friday late
+19 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Monday during
+19 	 17 	 NP[nb]/N 	 1 	 Monday its
+19 	 18 	 N/N 	 1 	 Monday rebound
+22 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 players began
+22 	 25 	 (S[b]\NP)/NP 	 1 	 players set <XB>
+23 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 began as
+24 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to began
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 set to
+25 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 set on
+27 	 25 	 (S[b]\NP)/NP 	 2 	 sights set
+27 	 26 	 NP[nb]/N 	 1 	 sights their
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 events on
+29 	 30 	 S[ng]\NP 	 1 	 events coming <XB>
+30 	 32 	 ((S\NP)\(S\NP))/N 	 2 	 coming this
+32 	 31 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 this later
+33 	 32 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+<\s>
+<s id="wsj_1884.4"> 26
+4 	 0 	 NP[nb]/N 	 1 	 Average The
+4 	 1 	 N/N 	 1 	 Average Dow
+4 	 2 	 N/N 	 1 	 Average Jones
+4 	 3 	 N/N 	 1 	 Average Industrial
+4 	 5 	 S[dcl]\NP 	 1 	 Average drifted
+4 	 18 	 S[ng]\NP 	 1 	 Average closing <XB>
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 drifted through
+5 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 drifted within
+5 	 17 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 drifted before
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 session through
+8 	 7 	 NP[nb]/N 	 1 	 session the
+12 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 range within
+12 	 10 	 NP[nb]/N 	 1 	 range a
+12 	 11 	 N/N 	 1 	 range trading
+12 	 13 	 (NP\NP)/NP 	 1 	 range of
+15 	 14 	 (N/N)/(N/N) 	 2 	 30 about
+16 	 13 	 (NP\NP)/NP 	 2 	 points of
+16 	 15 	 N/N 	 1 	 points 30
+18 	 17 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 closing before
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 closing with
+18 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 closing at
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 gain with
+21 	 20 	 NP[nb]/N 	 1 	 gain a
+21 	 22 	 (NP\NP)/NP 	 1 	 gain of
+23 	 22 	 (NP\NP)/NP 	 2 	 4.92 of
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 2643.65 at
+<\s>
+<s id="wsj_1884.5"> 6
+1 	 0 	 N/N 	 1 	 averages Broader
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 averages posted
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 posted also
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 gains posted
+5 	 4 	 N/N 	 1 	 gains modest
+<\s>
+<s id="wsj_1884.6"> 33
+2 	 0 	 N/N 	 1 	 Poor Standard
+2 	 1 	 N/N 	 1 	 Poor &
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Poor 's
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 Index 's
+5 	 4 	 N/N 	 1 	 Index 500-Stock
+5 	 6 	 S[dcl]\NP 	 1 	 Index rose
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 rose 0.60
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 341.76 to
+16 	 11 	 NP[nb]/N 	 1 	 Index the
+16 	 12 	 N/N 	 1 	 Index Dow
+16 	 13 	 N/N 	 1 	 Index Jones
+16 	 14 	 N/N 	 1 	 Index Equity
+16 	 15 	 N/N 	 1 	 Index Market
+16 	 17 	 S[dcl]\NP 	 1 	 Index rose
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 rose 0.71
+17 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 320.54 to
+28 	 22 	 NP[nb]/N 	 1 	 Index the
+28 	 23 	 N/N 	 1 	 Index New
+28 	 24 	 N/N 	 1 	 Index York
+28 	 25 	 N/N 	 1 	 Index Stock
+28 	 26 	 N/N 	 1 	 Index Exchange
+28 	 27 	 N/N 	 1 	 Index Composite
+28 	 29 	 (S[dcl]\NP)/NP 	 1 	 Index gained
+29 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 gained to
+30 	 29 	 (S[dcl]\NP)/NP 	 2 	 0.43 gained
+32 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 189.32 to
+<\s>
+<s id="wsj_1884.7"> 14
+1 	 0 	 (N/N)/(N/N) 	 2 	 822 Some
+6 	 1 	 N/N 	 1 	 issues 822
+6 	 2 	 N/N 	 1 	 issues New
+6 	 3 	 N/N 	 1 	 issues York
+6 	 4 	 N/N 	 1 	 issues Stock
+6 	 5 	 N/N 	 1 	 issues Exchange
+6 	 7 	 S[dcl]\NP 	 1 	 issues advanced
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 advanced in
+7 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 advanced while
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 price in
+12 	 13 	 S[dcl]\NP 	 1 	 668 declined
+13 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 declined while
+<\s>
+<s id="wsj_1884.8"> 21
+5 	 1 	 NP[nb]/N 	 1 	 Average the
+5 	 2 	 N/N 	 1 	 Average Dow
+5 	 3 	 N/N 	 1 	 Average Jones
+5 	 4 	 N/N 	 1 	 Average Transportation
+5 	 6 	 S[dcl]\NP 	 1 	 Average went
+6 	 0 	 S/S 	 1 	 went But
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 went down
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 went for
+6 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 went to
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 session for
+12 	 9 	 NP[nb]/N 	 1 	 session the
+12 	 10 	 N/N 	 1 	 session seventh
+12 	 11 	 N/N 	 1 	 session consecutive
+16 	 14 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 to due
+16 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 to largely
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 selling to
+18 	 17 	 N/N 	 1 	 selling further
+18 	 19 	 (NP\NP)/NP 	 1 	 selling in
+20 	 19 	 (NP\NP)/NP 	 2 	 UAL in
+<\s>
+<s id="wsj_1884.9"> 22
+1 	 0 	 NP[nb]/N 	 1 	 average The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 average dropped
+1 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 average has <XU>
+1 	 9 	 (S[pt]\NP)/NP 	 1 	 average lost <XU>
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped to
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 6.40 dropped
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 1247.87 to
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 has now
+9 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 lost has
+9 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 lost since
+11 	 9 	 (S[pt]\NP)/NP 	 2 	 % lost
+11 	 10 	 N/N 	 1 	 % 21.7
+11 	 12 	 (NP\NP)/NP 	 1 	 % of
+14 	 12 	 (NP\NP)/NP 	 2 	 value of
+14 	 13 	 NP[nb]/N 	 1 	 value its
+18 	 16 	 NP[nb]/N 	 1 	 streak the
+18 	 17 	 N/N 	 1 	 streak losing
+18 	 19 	 S[dcl]\NP 	 1 	 streak began
+19 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 began since
+19 	 20 	 ((S\NP)\(S\NP))/N[num] 	 2 	 began Oct.
+21 	 20 	 ((S\NP)\(S\NP))/N[num] 	 3 	 10 Oct.
+<\s>
+<s id="wsj_1884.10"> 25
+2 	 0 	 N/N 	 1 	 volume Big
+2 	 1 	 N/N 	 1 	 volume Board
+2 	 3 	 S[dcl]\NP 	 1 	 volume dropped
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped to
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped in
+3 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped from
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 shares to
+6 	 5 	 N/N 	 1 	 shares 166,900,000
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 line in
+9 	 10 	 (NP\NP)/NP 	 1 	 line with
+12 	 10 	 (NP\NP)/NP 	 2 	 level with
+12 	 11 	 NP[nb]/N 	 1 	 level the
+12 	 13 	 (NP\NP)/NP 	 1 	 level of
+12 	 15 	 (NP\NP)/NP 	 1 	 level over
+14 	 13 	 (NP\NP)/NP 	 2 	 trading of
+19 	 15 	 (NP\NP)/NP 	 2 	 weeks over
+19 	 16 	 NP[nb]/N 	 1 	 weeks the
+19 	 17 	 N/N 	 1 	 weeks past
+19 	 18 	 N/N 	 1 	 weeks few
+21 	 24 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 from Tuesday
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 million from
+23 	 22 	 N/N 	 1 	 million 224.1
+<\s>
+<s id="wsj_1884.11"> 30
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Traders cited
+2 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 anticipation cited
+2 	 3 	 (NP\NP)/NP 	 1 	 anticipation of
+7 	 3 	 (NP\NP)/NP 	 2 	 report of
+7 	 4 	 NP[nb]/N 	 1 	 report the
+7 	 5 	 N/N 	 1 	 report consumer
+7 	 6 	 N/N 	 1 	 report price
+7 	 8 	 (NP\NP)/NP 	 1 	 report for
+7 	 11 	 (S[adj]\NP)/NP 	 1 	 report due <XB>
+9 	 8 	 (NP\NP)/NP 	 2 	 September for
+12 	 11 	 (S[adj]\NP)/NP 	 2 	 today due
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 tomorrow 's
+17 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 expiration cited
+17 	 16 	 (NP[nb]/N)\NP 	 1 	 expiration 's
+17 	 18 	 (NP\NP)/NP 	 1 	 expiration of
+21 	 18 	 (NP\NP)/NP 	 2 	 futures of
+21 	 19 	 N/N 	 1 	 futures October
+21 	 20 	 N/N 	 1 	 futures stock-index
+23 	 18 	 (NP\NP)/NP 	 2 	 options of
+23 	 19 	 N/N 	 1 	 options October
+23 	 20 	 N/N 	 1 	 options stock-index
+24 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as cited
+26 	 24 	 PP/NP 	 1 	 factors as
+26 	 25 	 N/N 	 1 	 factors major
+26 	 27 	 (NP\NP)/NP 	 1 	 factors in
+29 	 27 	 (NP\NP)/NP 	 2 	 slowdown in
+29 	 28 	 NP[nb]/N 	 1 	 slowdown the
+<\s>
+<s id="wsj_1884.12"> 33
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+3 	 4 	 (NP\NP)/NP 	 1 	 activity at
+3 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 activity was
+3 	 13 	 S[pss]\NP 	 1 	 activity curtailed <XB>
+6 	 4 	 (NP\NP)/NP 	 2 	 number at
+6 	 5 	 NP[nb]/N 	 1 	 number a
+6 	 7 	 (NP\NP)/NP 	 1 	 number of
+9 	 8 	 (N/N)/(N/N) 	 2 	 Francisco-based San
+11 	 7 	 (NP\NP)/NP 	 2 	 houses of
+11 	 9 	 N/N 	 1 	 houses Francisco-based
+11 	 10 	 N/N 	 1 	 houses brokerage
+12 	 0 	 (S/S)/NP 	 1 	 was In
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 curtailed was
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 curtailed as
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 result as
+16 	 15 	 NP[nb]/N 	 1 	 result a
+16 	 17 	 (NP\NP)/NP 	 1 	 result of
+19 	 17 	 (NP\NP)/NP 	 2 	 earthquake of
+19 	 18 	 NP[nb]/N 	 1 	 earthquake the
+19 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 earthquake which
+19 	 22 	 (S[dcl]\NP)/NP 	 1 	 earthquake knocked <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 knocked which
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 knocked out
+22 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 knocked throughout
+25 	 22 	 (S[dcl]\NP)/NP 	 2 	 lines knocked
+25 	 24 	 N/N 	 1 	 lines power
+28 	 22 	 (S[dcl]\NP)/NP 	 2 	 service knocked
+28 	 27 	 N/N 	 1 	 service telephone
+32 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 area throughout
+32 	 30 	 NP[nb]/N 	 1 	 area the
+32 	 31 	 N/N 	 1 	 area Bay
+<\s>
+<s id="wsj_1884.13"> 33
+0 	 1 	 S[dcl]\NP 	 1 	 Stocks retreated
+0 	 21 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Stocks snapped <XU>
+0 	 22 	 S[adj]\NP 	 1 	 Stocks back <XU>
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 retreated to
+1 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 retreated after
+1 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 retreated amid
+4 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 lows to
+4 	 3 	 N/N 	 1 	 lows session
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 after just
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 opening after
+8 	 7 	 NP[nb]/N 	 1 	 opening the
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 worries amid
+10 	 11 	 (NP\NP)/NP 	 1 	 worries about
+14 	 11 	 (NP\NP)/NP 	 2 	 impact about
+14 	 12 	 NP[nb]/N 	 1 	 impact the
+14 	 13 	 N/N 	 1 	 impact market
+14 	 15 	 (NP\NP)/NP 	 1 	 impact of
+17 	 15 	 (NP\NP)/NP 	 2 	 quake of
+17 	 16 	 NP[nb]/N 	 1 	 quake the
+21 	 20 	 (S\NP)/(S\NP) 	 2 	 snapped quickly
+21 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 snapped to
+21 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 snapped with
+22 	 21 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 back snapped
+25 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 levels to
+25 	 24 	 N/N 	 1 	 levels higher
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 help with
+28 	 27 	 NP[nb]/N 	 1 	 help the
+28 	 29 	 (NP\NP)/NP 	 1 	 help of
+32 	 29 	 (NP\NP)/NP 	 2 	 buying of
+32 	 30 	 N/N 	 1 	 buying futures-related
+32 	 31 	 N/N 	 1 	 buying program
+<\s>
+<s id="wsj_1884.14"> 27
+2 	 0 	 NP[nb]/N 	 1 	 move The
+2 	 1 	 N/N 	 1 	 move early
+2 	 4 	 (S[dcl]\NP)/NP 	 1 	 move established
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 established essentially
+6 	 5 	 NP[nb]/N 	 1 	 day the
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 day 's
+9 	 4 	 (S[dcl]\NP)/NP 	 2 	 range established
+9 	 7 	 (NP[nb]/N)\NP 	 1 	 range 's
+9 	 8 	 N/N 	 1 	 range trading
+12 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 traders said
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 they saw
+15 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 saw said
+16 	 15 	 (S[dcl]\NP)/NP 	 2 	 little saw
+16 	 17 	 (NP\NP)/NP 	 1 	 little of
+20 	 17 	 (NP\NP)/NP 	 2 	 activity of
+20 	 18 	 NP[nb]/N 	 1 	 activity the
+20 	 19 	 N/N 	 1 	 activity program
+20 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 activity that
+20 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 activity has <XB>
+20 	 23 	 (S[pt]\NP)/NP 	 1 	 activity battered <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has that
+23 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 battered has
+23 	 26 	 (S\NP)\(S\NP) 	 2 	 battered recently
+25 	 23 	 (S[pt]\NP)/NP 	 2 	 market battered
+25 	 24 	 NP[nb]/N 	 1 	 market the
+<\s>
+<s id="wsj_1884.15"> 9
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 I did
+0 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 I expect <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 did n't
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 expect did
+4 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 it expect
+4 	 6 	 (S[b]\NP)/NP 	 1 	 it be <XB>
+5 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 quiet be
+8 	 7 	 NP[nb]/N 	 1 	 quiet this
+<\s>
+<s id="wsj_1884.16"> 35
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 I expected
+0 	 3 	 (S[b]\NP)/NP 	 1 	 I see <XB>
+1 	 20 	 (S[dcl]\S[dcl])/NP 	 1 	 expected said
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expected
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 see to
+3 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 see as
+5 	 3 	 (S[b]\NP)/NP 	 2 	 volatility see
+5 	 4 	 N/N 	 1 	 volatility more
+7 	 8 	 (NP\NP)/NP 	 1 	 some of
+7 	 16 	 (S[dcl]\NP)/NP 	 1 	 some did
+10 	 8 	 (NP\NP)/NP 	 2 	 institutions of
+10 	 9 	 NP[nb]/N 	 1 	 institutions the
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 institutions who
+10 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 institutions were <XB>
+10 	 13 	 S[pss]\NP 	 1 	 institutions spooked <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 were who
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 spooked were
+13 	 15 	 (S\NP)\(S\NP) 	 2 	 spooked Friday
+15 	 14 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 Friday last
+16 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 did as
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 selling did
+18 	 17 	 NP[nb]/N 	 1 	 selling some
+23 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 DeVoe said
+23 	 21 	 N/N 	 1 	 DeVoe Raymond
+23 	 22 	 N/N 	 1 	 DeVoe F.
+27 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 strategist said
+27 	 25 	 NP[nb]/N 	 1 	 strategist a
+27 	 26 	 N/N 	 1 	 strategist market
+27 	 28 	 (NP\NP)/NP 	 1 	 strategist at
+32 	 28 	 (NP\NP)/NP 	 2 	 Walker at
+32 	 29 	 N/N 	 1 	 Walker Legg
+32 	 30 	 N/N 	 1 	 Walker Mason
+32 	 31 	 N/N 	 1 	 Walker Wood
+32 	 34 	 NP\NP 	 1 	 Walker Baltimore
+<\s>
+<s id="wsj_1884.17"> 29
+1 	 0 	 N/N 	 1 	 DeVoe Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 DeVoe said
+3 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 he expects
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+5 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 prices expects
+5 	 7 	 (S[b]\NP)/NP 	 1 	 prices show <XB>
+6 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 show to
+7 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 show over
+7 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 show as
+10 	 7 	 (S[b]\NP)/NP 	 2 	 instability show
+10 	 8 	 NP[nb]/N 	 1 	 instability some
+10 	 9 	 N/N 	 1 	 instability renewed
+15 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 sessions over
+15 	 12 	 NP[nb]/N 	 1 	 sessions the
+15 	 13 	 N/N 	 1 	 sessions next
+15 	 14 	 N/N 	 1 	 sessions few
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 institutions re-evaluate
+18 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 re-evaluate as
+18 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 re-evaluate in
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 stance re-evaluate
+20 	 19 	 NP[nb]/N 	 1 	 stance their
+20 	 21 	 (NP\NP)/NP 	 1 	 stance toward
+23 	 21 	 (NP\NP)/NP 	 2 	 market toward
+23 	 22 	 NP[nb]/N 	 1 	 market the
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 light in
+25 	 26 	 (NP\NP)/NP 	 1 	 light of
+28 	 26 	 (NP\NP)/NP 	 2 	 decline of
+28 	 27 	 NP[nb]/N 	 1 	 decline its
+<\s>
+<s id="wsj_1884.18"> 26
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 I would
+0 	 2 	 (S[b]\NP)/S[em] 	 1 	 I suspect <XB>
+1 	 25 	 (S[dcl]\S[dcl])\NP 	 1 	 would said
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 suspect would
+3 	 2 	 (S[b]\NP)/S[em] 	 2 	 that suspect
+5 	 4 	 NP[nb]/N 	 1 	 lot a
+5 	 6 	 (NP\NP)/NP 	 1 	 lot of
+5 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 lot are
+5 	 10 	 (S[ng]\NP)/PP 	 1 	 lot looking <XB>
+8 	 6 	 (NP\NP)/NP 	 2 	 committees of
+8 	 7 	 N/N 	 1 	 committees investment
+9 	 3 	 S[em]/S[dcl] 	 1 	 are that
+10 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 looking are
+11 	 10 	 (S[ng]\NP)/PP 	 2 	 into looking
+12 	 11 	 PP/S[qem] 	 1 	 whether into
+14 	 16 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 they want
+14 	 18 	 (S[b]\NP)/PP 	 1 	 they be <XB>
+16 	 12 	 S[qem]/S[dcl] 	 1 	 want whether
+17 	 16 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to want
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+18 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 be at
+19 	 18 	 (S[b]\NP)/PP 	 2 	 in be
+20 	 19 	 PP/NP 	 1 	 stocks in
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 all at
+24 	 25 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_1884.19"> 25
+1 	 0 	 N/N 	 1 	 stocks Insurance
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 stocks were
+1 	 3 	 S[pss]\NP 	 1 	 stocks sold <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sold were
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 sold at
+3 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 sold amid
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 opening at
+6 	 5 	 NP[nb]/N 	 1 	 opening the
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 concerns amid
+8 	 9 	 (NP\NP)/NP 	 1 	 concerns about
+11 	 9 	 (NP\NP)/NP 	 2 	 level about
+11 	 10 	 NP[nb]/N 	 1 	 level the
+11 	 12 	 (NP\NP)/NP 	 1 	 level of
+14 	 12 	 (NP\NP)/NP 	 2 	 claims of
+14 	 13 	 N/N 	 1 	 claims damage
+14 	 18 	 (S[b]\NP)/NP 	 2 	 claims receive <XU>
+16 	 15 	 NP[nb]/N 	 1 	 companies the
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 companies would
+16 	 18 	 (S[b]\NP)/NP 	 1 	 companies receive <XB>
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 receive would
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 receive as
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 result as
+21 	 20 	 NP[nb]/N 	 1 	 result a
+21 	 22 	 (NP\NP)/NP 	 1 	 result of
+24 	 22 	 (NP\NP)/NP 	 2 	 earthquake of
+24 	 23 	 NP[nb]/N 	 1 	 earthquake the
+<\s>
+<s id="wsj_1884.20"> 29
+2 	 1 	 NP[nb]/N 	 1 	 issues those
+2 	 3 	 S[dcl]\NP 	 1 	 issues recovered
+2 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 issues turned <XU>
+2 	 7 	 S[adj]\NP 	 1 	 issues higher <XU>
+3 	 0 	 S/S 	 1 	 recovered But
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 recovered quickly
+3 	 8 	 ((S\NP)\(S\NP))/PP 	 2 	 recovered because
+6 	 0 	 S/S 	 1 	 turned But
+6 	 8 	 ((S\NP)\(S\NP))/PP 	 2 	 turned because
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 higher turned
+9 	 8 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+10 	 9 	 PP/NP 	 1 	 expectations of
+11 	 10 	 N/S[em] 	 1 	 that expectations
+13 	 12 	 NP[nb]/N 	 1 	 quake the
+13 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 quake would
+13 	 20 	 (S[b]\NP)/NP 	 1 	 quake set <XB>
+18 	 15 	 NP[nb]/N 	 1 	 Hugo the
+18 	 16 	 N/N 	 1 	 Hugo recent
+18 	 17 	 N/N 	 1 	 Hugo Hurricane
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Hugo would
+18 	 20 	 (S[b]\NP)/NP 	 1 	 Hugo set <XB>
+19 	 11 	 S[em]/S[dcl] 	 1 	 would that
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 set would
+20 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 set for
+22 	 20 	 (S[b]\NP)/NP 	 2 	 stage set
+22 	 21 	 NP[nb]/N 	 1 	 stage the
+25 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 increase for
+25 	 24 	 NP[nb]/N 	 1 	 increase an
+25 	 26 	 (NP\NP)/NP 	 1 	 increase in
+28 	 26 	 (NP\NP)/NP 	 2 	 rates in
+28 	 27 	 N/N 	 1 	 rates premium
+<\s>
+<s id="wsj_1884.21"> 7
+0 	 1 	 (NP\NP)/NP 	 1 	 Issues of
+0 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Issues were
+0 	 6 	 S[adj]\NP 	 1 	 Issues strong <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 brokers of
+3 	 2 	 N/N 	 1 	 brokers insurance
+6 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 strong were
+6 	 5 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 strong especially
+<\s>
+<s id="wsj_1884.22"> 28
+2 	 0 	 N/N 	 1 	 McLennan Marsh
+2 	 1 	 N/N 	 1 	 McLennan &
+2 	 3 	 S[dcl]\NP 	 1 	 McLennan advanced
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 advanced 1\/8
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 advanced to
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 1\/8 3
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 7\/8 to
+8 	 7 	 N/N 	 1 	 7\/8 75
+13 	 10 	 N/N 	 1 	 Services Alexander
+13 	 11 	 N/N 	 1 	 Services &
+13 	 12 	 N/N 	 1 	 Services Alexander
+13 	 14 	 S[dcl]\NP 	 1 	 Services climbed
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 climbed 2
+14 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 climbed to
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 32 to
+21 	 19 	 N/N 	 1 	 Black Corroon
+21 	 20 	 N/N 	 1 	 Black &
+21 	 22 	 S[dcl]\NP 	 1 	 Black firmed
+22 	 24 	 (S\NP)\(S\NP) 	 2 	 firmed 7\/8
+22 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 firmed to
+24 	 23 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 7\/8 1
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/2 to
+27 	 26 	 N/N 	 1 	 1\/2 37
+<\s>
+<s id="wsj_1884.23"> 41
+1 	 0 	 (S/S)/(S/S) 	 2 	 in Elsewhere
+3 	 1 	 (S/S)/NP 	 2 	 group in
+3 	 2 	 NP[nb]/N 	 1 	 group the
+6 	 5 	 N/N 	 1 	 Re General
+6 	 7 	 S[dcl]\NP 	 1 	 Re rose
+7 	 1 	 (S/S)/NP 	 1 	 rose in
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 rose 3\/4
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 3\/4 2
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/2 to
+12 	 11 	 N/N 	 1 	 1\/2 86
+16 	 14 	 N/N 	 1 	 Group American
+16 	 15 	 N/N 	 1 	 Group International
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 Group gained
+17 	 1 	 (S/S)/NP 	 1 	 gained in
+17 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 gained to
+19 	 17 	 (S[dcl]\NP)/NP 	 2 	 1\/4 gained
+19 	 18 	 N/N 	 1 	 1\/4 3
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 5\/8 to
+22 	 21 	 N/N 	 1 	 5\/8 102
+27 	 24 	 N/N 	 1 	 Casualty Aetna
+27 	 25 	 N/N 	 1 	 Casualty Life
+27 	 26 	 N/N 	 1 	 Casualty &
+27 	 28 	 (S[dcl]\NP)/NP 	 1 	 Casualty added
+28 	 1 	 (S/S)/NP 	 1 	 added in
+28 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 added to
+30 	 28 	 (S[dcl]\NP)/NP 	 2 	 3\/8 added
+30 	 29 	 N/N 	 1 	 3\/8 2
+33 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/2 to
+33 	 32 	 N/N 	 1 	 1\/2 59
+35 	 36 	 S[dcl]\NP 	 1 	 Cigna advanced
+36 	 1 	 (S/S)/NP 	 1 	 advanced in
+36 	 37 	 (S\NP)\(S\NP) 	 2 	 advanced 7\/8
+36 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 advanced to
+40 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/2 to
+40 	 39 	 N/N 	 1 	 1\/2 62
+<\s>
+<s id="wsj_1884.24"> 14
+0 	 8 	 S[dcl]\NP 	 1 	 Loews rose
+3 	 2 	 NP[nb]/N 	 1 	 parent the
+3 	 4 	 (NP\NP)/NP 	 1 	 parent of
+3 	 8 	 S[dcl]\NP 	 1 	 parent rose
+6 	 4 	 (NP\NP)/NP 	 2 	 Financial of
+6 	 5 	 N/N 	 1 	 Financial CNA
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 rose 3\/8
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 3\/8 1
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/8 to
+13 	 12 	 N/N 	 1 	 1\/8 123
+<\s>
+<s id="wsj_1884.25"> 16
+0 	 1 	 (NP\NP)/NP 	 1 	 Companies in
+0 	 9 	 (S[dcl]\NP)/PP 	 1 	 Companies were
+8 	 1 	 (NP\NP)/NP 	 2 	 sectors in
+8 	 2 	 NP[nb]/N 	 1 	 sectors the
+8 	 3 	 N/N 	 1 	 sectors construction <XU>
+8 	 5 	 N/N 	 1 	 sectors engineering <XU>
+8 	 7 	 N/N 	 1 	 sectors building-products
+10 	 9 	 (S[dcl]\NP)/PP 	 2 	 among were
+12 	 10 	 PP/NP 	 1 	 beneficiaries among
+12 	 11 	 N/N 	 1 	 beneficiaries other
+12 	 13 	 (NP\NP)/NP 	 1 	 beneficiaries of
+15 	 13 	 (NP\NP)/NP 	 2 	 buying of
+15 	 14 	 N/N 	 1 	 buying earthquake-related
+<\s>
+<s id="wsj_1884.26"> 46
+2 	 0 	 NP[nb]/N 	 1 	 sector The
+2 	 1 	 N/N 	 1 	 sector heavy-construction
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 sector was
+3 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 was among
+5 	 4 	 NP[nb]/N 	 1 	 session the
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 session 's
+8 	 3 	 (S[dcl]\NP)/NP 	 2 	 performer was
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 performer 's
+8 	 7 	 N/N 	 1 	 performer best
+13 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 groups among
+13 	 10 	 N/N 	 1 	 groups Dow
+13 	 11 	 N/N 	 1 	 groups Jones
+13 	 12 	 N/N 	 1 	 groups industry
+15 	 16 	 S[dcl]\NP 	 1 	 Fluor rose
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 rose 3\/4
+16 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 3\/8 to
+20 	 19 	 N/N 	 1 	 3\/8 33
+23 	 22 	 N/N 	 1 	 Knudsen Morrison
+23 	 24 	 (S[dcl]\NP)/NP 	 1 	 Knudsen gained
+24 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 gained to
+26 	 24 	 (S[dcl]\NP)/NP 	 2 	 1\/4 gained
+26 	 25 	 N/N 	 1 	 1\/4 2
+29 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/8 to
+29 	 28 	 N/N 	 1 	 1\/8 44
+32 	 31 	 N/N 	 1 	 Wheeler Foster
+32 	 33 	 (S[dcl]\NP)/NP 	 1 	 Wheeler added
+33 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 added to
+34 	 33 	 (S[dcl]\NP)/NP 	 2 	 3\/8 added
+37 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/4 to
+37 	 36 	 N/N 	 1 	 1\/4 18
+39 	 40 	 S[dcl]\NP 	 1 	 Ameron climbed
+40 	 42 	 (S\NP)\(S\NP) 	 2 	 climbed 3\/8
+40 	 43 	 ((S\NP)\(S\NP))/NP 	 2 	 climbed to
+42 	 41 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 3\/8 2
+45 	 43 	 ((S\NP)\(S\NP))/NP 	 3 	 3\/4 to
+45 	 44 	 N/N 	 1 	 3\/4 39
+<\s>
+<s id="wsj_1884.27"> 70
+2 	 0 	 (S/S)/NP 	 2 	 firms Among
+2 	 1 	 N/N 	 1 	 firms engineering
+5 	 4 	 N/N 	 1 	 Sirrine CRS
+5 	 6 	 S[dcl]\NP 	 1 	 Sirrine rose
+6 	 0 	 (S/S)/NP 	 1 	 rose Among
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 rose 5\/8
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+6 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 rose on
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/4 to
+10 	 9 	 N/N 	 1 	 1\/4 34
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Board on
+14 	 12 	 NP[nb]/N 	 1 	 Board the
+14 	 13 	 N/N 	 1 	 Board Big
+17 	 16 	 N/N 	 1 	 others four
+17 	 18 	 S[dcl]\NP 	 1 	 others rallied
+18 	 0 	 (S/S)/NP 	 1 	 rallied Among
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 rallied on
+18 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 rallied :
+23 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 Exchange on
+23 	 20 	 NP[nb]/N 	 1 	 Exchange the
+23 	 21 	 N/N 	 1 	 Exchange American
+23 	 22 	 N/N 	 1 	 Exchange Stock
+27 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Group :
+27 	 25 	 N/N 	 1 	 Group Jacobs
+27 	 26 	 N/N 	 1 	 Group Engineering
+27 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Group which
+27 	 30 	 (S[dcl]\NP)/NP 	 1 	 Group gained <XB>
+30 	 29 	 (NP\NP)/(S[dcl]\NP) 	 2 	 gained which
+30 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 gained to
+32 	 30 	 (S[dcl]\NP)/NP 	 2 	 1\/8 gained
+32 	 31 	 N/N 	 1 	 1\/8 1
+35 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 3\/8 to
+35 	 34 	 N/N 	 1 	 3\/8 25
+38 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Engineering :
+38 	 37 	 N/N 	 1 	 Engineering Greiner
+38 	 40 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Engineering which
+38 	 41 	 S[dcl]\NP 	 1 	 Engineering rose <XB>
+41 	 40 	 (NP\NP)/(S[dcl]\NP) 	 2 	 rose which
+41 	 43 	 (S\NP)\(S\NP) 	 2 	 rose 1\/2
+41 	 44 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+43 	 42 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 1\/2 3
+46 	 44 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/2 to
+46 	 45 	 N/N 	 1 	 1\/2 22
+49 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Baker :
+49 	 48 	 N/N 	 1 	 Baker Michael
+49 	 51 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Baker which
+49 	 52 	 (S[dcl]\NP)/NP 	 1 	 Baker added <XB>
+52 	 51 	 (NP\NP)/(S[dcl]\NP) 	 2 	 added which
+52 	 55 	 ((S\NP)\(S\NP))/NP 	 2 	 added to
+54 	 52 	 (S[dcl]\NP)/NP 	 2 	 1\/4 added
+54 	 53 	 N/N 	 1 	 1\/4 1
+57 	 55 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/4 to
+57 	 56 	 N/N 	 1 	 1\/4 15
+63 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Engineering :
+63 	 60 	 N/N 	 1 	 Engineering American
+63 	 61 	 N/N 	 1 	 Engineering Science
+63 	 62 	 N/N 	 1 	 Engineering &
+63 	 65 	 ((NP\NP)/PP)/NP 	 1 	 Engineering up
+66 	 65 	 ((NP\NP)/PP)/NP 	 3 	 1\/2 up
+67 	 65 	 ((NP\NP)/PP)/NP 	 2 	 to up
+69 	 67 	 PP/NP 	 1 	 1\/2 to
+69 	 68 	 N/N 	 1 	 1\/2 8
+<\s>
+<s id="wsj_1884.28"> 25
+3 	 0 	 (S/S)/NP 	 2 	 group Within
+3 	 1 	 NP[nb]/N 	 1 	 group the
+3 	 2 	 N/N 	 1 	 group building-materials
+5 	 6 	 S[dcl]\NP 	 1 	 Georgia-Pacific climbed
+6 	 0 	 (S/S)/NP 	 1 	 climbed Within
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 climbed 1\/4
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 climbed to
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 1\/4 1
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 58 to
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 Louisiana-Pacific added
+13 	 0 	 (S/S)/NP 	 1 	 added Within
+13 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 added to
+13 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 added after
+14 	 13 	 (S[dcl]\NP)/NP 	 2 	 1 added
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 3\/4 to
+17 	 16 	 N/N 	 1 	 3\/4 40
+20 	 19 	 N/N 	 1 	 Lynch Merrill
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 Lynch recommended
+21 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 recommended after
+24 	 21 	 (S[dcl]\NP)/NP 	 2 	 issues recommended
+24 	 22 	 NP[nb]/N 	 1 	 issues the
+24 	 23 	 N/N 	 1 	 issues forest-products
+<\s>
+<s id="wsj_1884.29"> 40
+0 	 1 	 S[dcl]\NP 	 1 	 CalMat advanced
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 advanced 3\/4
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 advanced to
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 3\/4 2
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 3\/4 to
+6 	 5 	 N/N 	 1 	 3\/4 28
+10 	 8 	 N/N 	 1 	 Industries Lone
+10 	 9 	 N/N 	 1 	 Industries Star
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 Industries gained
+11 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 gained to
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 3\/4 gained
+13 	 12 	 N/N 	 1 	 3\/4 1
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/4 to
+16 	 15 	 N/N 	 1 	 1\/4 29
+18 	 19 	 S[dcl]\NP 	 1 	 Lafarge rose
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 rose 1
+19 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/2 to
+23 	 22 	 N/N 	 1 	 1\/2 19
+25 	 26 	 (S[dcl]\NP)/NP 	 1 	 Southdown added
+26 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 added to
+27 	 26 	 (S[dcl]\NP)/NP 	 2 	 5\/8 added
+30 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 5\/8 to
+30 	 29 	 N/N 	 1 	 5\/8 24
+33 	 32 	 N/N 	 1 	 Industries Eljer
+33 	 34 	 S[dcl]\NP 	 1 	 Industries rose
+34 	 36 	 (S\NP)\(S\NP) 	 2 	 rose 1\/4
+34 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+36 	 35 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 1\/4 1
+39 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 7\/8 to
+39 	 38 	 N/N 	 1 	 7\/8 24
+<\s>
+<s id="wsj_1884.30"> 40
+3 	 0 	 N/N 	 1 	 Electric Pacific
+3 	 1 	 N/N 	 1 	 Electric Gas
+3 	 2 	 N/N 	 1 	 Electric &
+3 	 4 	 S[dcl]\NP 	 1 	 Electric fell
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 fell 3\/8
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+4 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 fell in
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 5\/8 to
+8 	 7 	 N/N 	 1 	 5\/8 19
+13 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+13 	 10 	 N/N 	 1 	 trading Big
+13 	 11 	 N/N 	 1 	 trading Board
+13 	 12 	 N/N 	 1 	 trading composite
+13 	 14 	 (NP\NP)/NP 	 1 	 trading of
+16 	 15 	 (N/N)/(N/N) 	 2 	 million 1.7
+17 	 14 	 (NP\NP)/NP 	 2 	 shares of
+17 	 16 	 N/N 	 1 	 shares million
+21 	 19 	 N/N 	 1 	 Group Pacific
+21 	 20 	 N/N 	 1 	 Group Telesis
+21 	 22 	 S[dcl]\NP 	 1 	 Group slipped
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 slipped 5\/8
+22 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 slipped to
+22 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 slipped as
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 5\/8 to
+26 	 25 	 N/N 	 1 	 5\/8 44
+29 	 28 	 NP[nb]/N 	 1 	 companies the
+29 	 30 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 companies worked
+29 	 32 	 ((S[b]\NP)/PP)/NP 	 1 	 companies restore <XB>
+30 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 worked as
+31 	 30 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to worked
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 restore to
+33 	 32 	 ((S[b]\NP)/PP)/NP 	 3 	 service restore
+34 	 32 	 ((S[b]\NP)/PP)/NP 	 2 	 to restore
+35 	 34 	 PP/NP 	 1 	 areas to
+35 	 36 	 S[pss]\NP 	 1 	 areas affected <XB>
+36 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 affected by
+39 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 quake by
+39 	 38 	 NP[nb]/N 	 1 	 quake the
+<\s>
+<s id="wsj_1884.31"> 5
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Chevron added
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 added to
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 1 added
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 65 to
+<\s>
+<s id="wsj_1884.32"> 38
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 3 	 S[pss]\NP 	 1 	 company based <XB>
+1 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+1 	 26 	 (S[dcl]\NP)/S[em] 	 1 	 company added <XU>
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Francisco in
+6 	 5 	 N/N 	 1 	 Francisco San
+9 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it had
+9 	 12 	 (S[b]\NP)/NP 	 1 	 it shut <XB>
+9 	 22 	 (S[b]\NP)/PP 	 1 	 it check <XB>
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+11 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to had
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 shut to
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 shut down
+16 	 12 	 (S[b]\NP)/NP 	 2 	 pipeline shut
+16 	 14 	 NP[nb]/N 	 1 	 pipeline a
+16 	 15 	 N/N 	 1 	 pipeline crude-oil
+16 	 17 	 (NP\NP)/NP 	 1 	 pipeline in
+20 	 17 	 (NP\NP)/NP 	 2 	 area in
+20 	 18 	 NP[nb]/N 	 1 	 area the
+20 	 19 	 N/N 	 1 	 area Bay
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 check to
+23 	 22 	 (S[b]\NP)/PP 	 2 	 for check
+24 	 23 	 PP/NP 	 1 	 leaks for
+27 	 26 	 (S[dcl]\NP)/S[em] 	 2 	 that added
+29 	 28 	 NP[nb]/N 	 1 	 refinery its
+29 	 30 	 (NP\NP)/NP 	 1 	 refinery in
+29 	 36 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 refinery was
+29 	 37 	 S[adj]\NP 	 1 	 refinery undamaged <XB>
+31 	 30 	 (NP\NP)/NP 	 2 	 nearby in
+31 	 34 	 N\N 	 1 	 nearby Calif.
+34 	 32 	 (N\N)/(N\N) 	 2 	 Calif. Richmond
+36 	 27 	 S[em]/S[dcl] 	 1 	 was that
+37 	 36 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 undamaged was
+<\s>
+<s id="wsj_1884.33"> 35
+1 	 0 	 N/N 	 1 	 companies Other
+1 	 2 	 S[pss]\NP 	 1 	 companies based <XB>
+1 	 6 	 (S[b]\NP)/NP 	 1 	 companies include
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 area in
+5 	 4 	 NP[nb]/N 	 1 	 area the
+7 	 6 	 (S[b]\NP)/NP 	 2 	 Hewlett-Packard include
+7 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Hewlett-Packard which
+7 	 10 	 S[dcl]\NP 	 1 	 Hewlett-Packard rose <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 rose which
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 rose 1\/4
+10 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 49 to
+16 	 6 	 (S[b]\NP)/NP 	 2 	 Semiconductor include
+16 	 15 	 N/N 	 1 	 Semiconductor National
+16 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Semiconductor which
+16 	 19 	 S[dcl]\NP 	 1 	 Semiconductor went <XB>
+19 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 went which
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 went up
+19 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 went to
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/4 up
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 5\/8 to
+24 	 23 	 N/N 	 1 	 5\/8 7
+27 	 6 	 (S[b]\NP)/NP 	 2 	 Genentech include
+27 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Genentech which
+27 	 30 	 S[dcl]\NP 	 1 	 Genentech eased <XB>
+30 	 29 	 (NP\NP)/(S[dcl]\NP) 	 2 	 eased which
+30 	 31 	 (S\NP)\(S\NP) 	 2 	 eased 1\/4
+30 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 eased to
+34 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 5\/8 to
+34 	 33 	 N/N 	 1 	 5\/8 19
+<\s>
+<s id="wsj_1884.34"> 16
+0 	 1 	 (NP\NP)/NP 	 1 	 None of
+0 	 4 	 (S[dcl]\NP)/NP 	 1 	 None reported
+3 	 1 	 (NP\NP)/NP 	 2 	 firms of
+3 	 2 	 NP[nb]/N 	 1 	 firms the
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 damage reported
+7 	 5 	 NP[nb]/N 	 1 	 damage any
+7 	 6 	 N/N 	 1 	 damage major
+7 	 8 	 (NP\NP)/NP 	 1 	 damage to
+7 	 10 	 (NP\NP)/NP 	 1 	 damage as
+9 	 8 	 (NP\NP)/NP 	 2 	 facilities to
+12 	 10 	 (NP\NP)/NP 	 2 	 result as
+12 	 11 	 NP[nb]/N 	 1 	 result a
+12 	 13 	 (NP\NP)/NP 	 1 	 result of
+15 	 13 	 (NP\NP)/NP 	 2 	 quake of
+15 	 14 	 NP[nb]/N 	 1 	 quake the
+<\s>
+<s id="wsj_1884.35"> 36
+0 	 1 	 S[dcl]\NP 	 1 	 BankAmerica eased
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 eased 1\/2
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 eased to
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 7\/8 to
+5 	 4 	 N/N 	 1 	 7\/8 31
+8 	 7 	 N/N 	 1 	 Fargo Wells
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 Fargo lost
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 lost to
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 1\/2 lost
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/2 to
+13 	 12 	 N/N 	 1 	 1\/2 81
+19 	 15 	 NP[nb]/N 	 1 	 companies the
+19 	 16 	 N/N 	 1 	 companies two
+19 	 17 	 N/N 	 1 	 companies bank
+19 	 18 	 N/N 	 1 	 companies holding
+19 	 21 	 S[pss]\NP 	 1 	 companies based <XB>
+19 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 companies were
+19 	 27 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 companies forced <XB>
+19 	 29 	 (S[b]\NP)/NP 	 1 	 companies curtail <XB>
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 Francisco in
+24 	 23 	 N/N 	 1 	 Francisco San
+27 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 forced were
+27 	 32 	 ((S\NP)\(S\NP))/PP 	 2 	 forced due
+28 	 27 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to forced
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 curtail to
+31 	 29 	 (S[b]\NP)/NP 	 2 	 operations curtail
+31 	 30 	 NP[nb]/N 	 1 	 operations some
+33 	 32 	 ((S\NP)\(S\NP))/PP 	 3 	 to due
+35 	 33 	 PP/NP 	 1 	 temblor to
+35 	 34 	 NP[nb]/N 	 1 	 temblor the
+<\s>
+<s id="wsj_1884.36"> 37
+3 	 0 	 (S/S)/NP 	 2 	 stocks Among
+3 	 1 	 N/N 	 1 	 stocks California
+3 	 2 	 N/N 	 1 	 stocks savings-and-loan
+6 	 5 	 N/N 	 1 	 Ahmanson H.F.
+6 	 7 	 S[dcl]\NP 	 1 	 Ahmanson eased
+7 	 0 	 (S/S)/NP 	 1 	 eased Among
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 eased 3\/8
+7 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 eased to
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/4 to
+11 	 10 	 N/N 	 1 	 1\/4 22
+13 	 14 	 S[dcl]\NP 	 1 	 CalFed slid
+14 	 0 	 (S/S)/NP 	 1 	 slid Among
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 slid 3\/4
+14 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 slid to
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/8 to
+18 	 17 	 N/N 	 1 	 1\/8 24
+22 	 20 	 N/N 	 1 	 Financial Great
+22 	 21 	 N/N 	 1 	 Financial Western
+22 	 23 	 (S[dcl]\NP)/NP 	 1 	 Financial dropped
+23 	 0 	 (S/S)/NP 	 1 	 dropped Among
+23 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped to
+24 	 23 	 (S[dcl]\NP)/NP 	 2 	 1\/2 dropped
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/4 to
+27 	 26 	 N/N 	 1 	 1\/4 21
+31 	 29 	 N/N 	 1 	 Financial Golden
+31 	 30 	 N/N 	 1 	 Financial West
+31 	 32 	 S[dcl]\NP 	 1 	 Financial fell
+32 	 0 	 (S/S)/NP 	 1 	 fell Among
+32 	 33 	 (S\NP)\(S\NP) 	 2 	 fell 5\/8
+32 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+36 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/4 to
+36 	 35 	 N/N 	 1 	 1\/4 29
+<\s>
+<s id="wsj_1884.37"> 34
+0 	 9 	 S[dcl]\NP 	 1 	 UAL swung
+0 	 21 	 (S[ng]\NP)/PP 	 1 	 UAL closing <XB>
+4 	 2 	 NP[nb]/N 	 1 	 company the
+4 	 3 	 N/N 	 1 	 company parent
+4 	 5 	 (NP\NP)/NP 	 1 	 company of
+4 	 9 	 S[dcl]\NP 	 1 	 company swung
+4 	 21 	 (S[ng]\NP)/PP 	 1 	 company closing <XB>
+7 	 5 	 (NP\NP)/NP 	 2 	 Airlines of
+7 	 6 	 N/N 	 1 	 Airlines United
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 swung within
+9 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 swung during
+9 	 20 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 swung before
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 range within
+13 	 11 	 NP[nb]/N 	 1 	 range a
+13 	 12 	 N/N 	 1 	 range 14-point
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 course during
+16 	 15 	 NP[nb]/N 	 1 	 course the
+16 	 17 	 (NP\NP)/NP 	 1 	 course of
+19 	 17 	 (NP\NP)/NP 	 2 	 session of
+19 	 18 	 NP[nb]/N 	 1 	 session the
+21 	 20 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 closing before
+21 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 closing down
+21 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 closing on
+22 	 21 	 (S[ng]\NP)/PP 	 2 	 at closing
+24 	 22 	 PP/NP 	 1 	 3\/4 at
+24 	 23 	 N/N 	 1 	 3\/4 191
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/4 down
+28 	 27 	 N/N 	 1 	 1\/4 6
+32 	 31 	 (N/N)/(N/N) 	 2 	 million 2.3
+33 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 shares on
+33 	 32 	 N/N 	 1 	 shares million
+<\s>
+<s id="wsj_1884.38"> 44
+1 	 0 	 N/N 	 1 	 Airways British
+1 	 22 	 (S[dcl]\NP)/S[dcl] 	 1 	 Airways said
+4 	 3 	 NP[nb]/N 	 1 	 member a
+4 	 5 	 (NP\NP)/NP 	 1 	 member of
+4 	 22 	 (S[dcl]\NP)/S[dcl] 	 1 	 member said
+7 	 5 	 (NP\NP)/NP 	 2 	 group of
+7 	 6 	 NP[nb]/N 	 1 	 group the
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 group that
+7 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 group had <XB>
+7 	 10 	 ((S[pt]\NP)/PP)/NP 	 1 	 group offered <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had that
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 offered had
+10 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 offered in
+11 	 10 	 ((S[pt]\NP)/PP)/NP 	 3 	 $ offered
+11 	 13 	 (NP\NP)/N 	 1 	 $ a
+12 	 11 	 N/N[num] 	 1 	 300 $
+14 	 13 	 (NP\NP)/N 	 2 	 share a
+15 	 10 	 ((S[pt]\NP)/PP)/NP 	 2 	 for offered
+16 	 15 	 PP/NP 	 1 	 UAL for
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 buy-out in
+20 	 18 	 NP[nb]/N 	 1 	 buy-out a
+20 	 19 	 N/N 	 1 	 buy-out leveraged
+23 	 24 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it had
+23 	 27 	 (S[b]\NP)/NP 	 1 	 it receive <XB>
+24 	 22 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 had yet
+26 	 24 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to had
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 receive to
+30 	 27 	 (S[b]\NP)/NP 	 2 	 proposal receive
+30 	 28 	 NP[nb]/N 	 1 	 proposal a
+30 	 29 	 N/N 	 1 	 proposal revised
+32 	 33 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 it was
+32 	 37 	 (S[pss]\NP)/PP 	 1 	 it committed <XB>
+33 	 22 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+33 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 was in
+36 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 way in
+36 	 35 	 NP[nb]/N 	 1 	 way no
+37 	 33 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 committed was
+38 	 37 	 (S[pss]\NP)/PP 	 2 	 to committed
+40 	 38 	 PP/NP 	 1 	 completion to
+40 	 39 	 NP[nb]/N 	 1 	 completion the
+40 	 41 	 (NP\NP)/NP 	 1 	 completion of
+43 	 41 	 (NP\NP)/NP 	 2 	 bid of
+43 	 42 	 NP[nb]/N 	 1 	 bid a
+<\s>
+<s id="wsj_1884.39"> 12
+4 	 2 	 N/N 	 1 	 Davis investor
+4 	 3 	 N/N 	 1 	 Davis Marvin
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Davis withdrew
+5 	 0 	 S/S 	 1 	 withdrew Separately
+9 	 8 	 (N/N)/N[num] 	 2 	 300-a-share $
+11 	 5 	 (S[dcl]\NP)/NP 	 2 	 offer withdrew
+11 	 6 	 NP[nb]/N 	 1 	 offer his
+11 	 7 	 N/N 	 1 	 offer backup
+11 	 8 	 (N/N)/N[num] 	 1 	 offer $
+11 	 10 	 N/N 	 1 	 offer takeover
+<\s>
+<s id="wsj_1884.40"> 23
+1 	 2 	 S[dcl]\NP 	 1 	 UAL faltered
+2 	 0 	 (S/S)/S[dcl] 	 2 	 faltered While
+4 	 12 	 S[dcl]\NP 	 1 	 AMR pulled
+4 	 19 	 S[ng]\NP 	 1 	 AMR rising <XB>
+7 	 6 	 NP[nb]/N 	 1 	 parent the
+7 	 8 	 (NP\NP)/NP 	 1 	 parent of
+7 	 12 	 S[dcl]\NP 	 1 	 parent pulled
+7 	 19 	 S[ng]\NP 	 1 	 parent rising <XB>
+10 	 8 	 (NP\NP)/NP 	 2 	 Airlines of
+10 	 9 	 N/N 	 1 	 Airlines American
+12 	 0 	 (S/S)/S[dcl] 	 1 	 pulled While
+12 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 pulled of
+12 	 18 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 pulled by
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 of out
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 nosedive of
+17 	 15 	 NP[nb]/N 	 1 	 nosedive its
+17 	 16 	 N/N 	 1 	 nosedive recent
+19 	 18 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 rising by
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 rising 3\/4
+19 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 rising to
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 74 to
+<\s>
+<s id="wsj_1884.41"> 34
+1 	 0 	 NP[nb]/N 	 1 	 stock The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 stock had
+1 	 3 	 (S[pt]\NP)/PP 	 1 	 stock been <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+3 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 been since
+4 	 3 	 (S[pt]\NP)/PP 	 2 	 on been
+6 	 4 	 PP/NP 	 1 	 decline on
+6 	 5 	 NP[nb]/N 	 1 	 decline the
+9 	 8 	 NP[nb]/N 	 1 	 financing the
+9 	 10 	 (NP\NP)/NP 	 1 	 financing for
+9 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 financing fell
+9 	 15 	 S[adj]\NP 	 1 	 financing through <XB>
+13 	 10 	 (NP\NP)/NP 	 2 	 buy-out for
+13 	 11 	 NP[nb]/N 	 1 	 buy-out the
+13 	 12 	 N/N 	 1 	 buy-out UAL
+14 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 fell since
+14 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 fell on
+15 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 through fell
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 Friday on
+21 	 19 	 N/N 	 1 	 Trump developer
+21 	 20 	 N/N 	 1 	 Trump Donald
+21 	 23 	 (S[dcl]\NP)/NP 	 1 	 Trump withdrew
+23 	 22 	 (S\NP)/(S\NP) 	 2 	 withdrew subsequently
+26 	 23 	 (S[dcl]\NP)/NP 	 2 	 offer withdrew
+26 	 24 	 NP[nb]/N 	 1 	 offer a
+26 	 25 	 N/N 	 1 	 offer takeover
+26 	 27 	 (NP\NP)/NP 	 1 	 offer of
+26 	 32 	 (NP\NP)/NP 	 1 	 offer for
+28 	 27 	 (NP\NP)/NP 	 2 	 $ of
+28 	 30 	 (NP\NP)/N 	 1 	 $ a
+29 	 28 	 N/N[num] 	 1 	 120 $
+31 	 30 	 (NP\NP)/N 	 2 	 share a
+33 	 32 	 (NP\NP)/NP 	 2 	 AMR for
+<\s>
+<s id="wsj_1884.42"> 16
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 AMR was
+3 	 0 	 S/S 	 1 	 was Also
+6 	 5 	 (N/N)/(N/N) 	 2 	 active most
+9 	 3 	 (S[dcl]\NP)/NP 	 2 	 issue was
+9 	 4 	 NP[nb]/N 	 1 	 issue the
+9 	 6 	 N/N 	 1 	 issue active
+9 	 7 	 N/N 	 1 	 issue Big
+9 	 8 	 N/N 	 1 	 issue Board
+12 	 11 	 (N/N)/(N/N) 	 2 	 million 2.8
+13 	 12 	 N/N 	 1 	 shares million
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 shares changed
+15 	 14 	 (S[dcl]\NP)/NP 	 2 	 hands changed
+<\s>
+<s id="wsj_1884.43"> 7
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 GTE added
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 added to
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 1\/4 added
+3 	 2 	 N/N 	 1 	 1\/4 1
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 3\/8 to
+6 	 5 	 N/N 	 1 	 3\/8 65
+<\s>
+<s id="wsj_1884.44"> 23
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 PaineWebber repeated
+0 	 9 	 (S[dcl]\NP)/NP 	 1 	 PaineWebber raised <XU>
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 recommendation repeated
+4 	 2 	 NP[nb]/N 	 1 	 recommendation a
+4 	 3 	 N/N 	 1 	 recommendation buy
+4 	 5 	 (NP\NP)/NP 	 1 	 recommendation on
+7 	 5 	 (NP\NP)/NP 	 2 	 stock on
+7 	 6 	 NP[nb]/N 	 1 	 stock the
+9 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 raised by
+9 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 raised to
+13 	 9 	 (S[dcl]\NP)/NP 	 2 	 estimate raised
+13 	 10 	 NP[nb]/N 	 1 	 estimate its
+13 	 11 	 N/N 	 1 	 estimate 1990
+13 	 12 	 N/N 	 1 	 estimate earnings
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 cents by
+16 	 15 	 N/N 	 1 	 cents 35
+16 	 17 	 (NP\NP)/N 	 1 	 cents a
+18 	 17 	 (NP\NP)/N 	 2 	 share a
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+22 	 21 	 N/N[num] 	 1 	 5.10 $
+<\s>
+<s id="wsj_1884.45"> 40
+0 	 1 	 S[dcl]\NP 	 1 	 Colgate-Palmolive advanced
+0 	 7 	 (S[ng]\NP)/S[dcl] 	 1 	 Colgate-Palmolive saying <XB>
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 advanced 5\/8
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 advanced to
+1 	 6 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 advanced after
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 5\/8 1
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 63 to
+7 	 6 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 saying after
+8 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it was
+8 	 10 	 (S[adj]\NP)/PP 	 1 	 it comfortable <XB>
+9 	 7 	 (S[ng]\NP)/S[dcl] 	 2 	 was saying
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 comfortable was
+11 	 10 	 (S[adj]\NP)/PP 	 2 	 with comfortable
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 analysts '
+14 	 11 	 PP/NP 	 1 	 projections with
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 projections '
+15 	 14 	 N/S[em] 	 1 	 that projections
+18 	 16 	 N/N 	 1 	 income third-quarter
+18 	 17 	 N/N 	 1 	 income net
+18 	 19 	 (NP\NP)/NP 	 1 	 income from
+18 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 income would
+18 	 23 	 (S[b]\NP)/PP 	 1 	 income be <XB>
+21 	 19 	 (NP\NP)/NP 	 2 	 operations from
+21 	 20 	 N/N 	 1 	 operations continuing
+22 	 15 	 S[em]/S[dcl] 	 1 	 would that
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+23 	 33 	 ((S\NP)\(S\NP))/PP 	 2 	 be up
+24 	 23 	 (S[b]\NP)/PP 	 2 	 between be
+26 	 24 	 PP/NP 	 1 	 cents between
+26 	 25 	 N/N 	 1 	 cents 95
+26 	 30 	 (NP\NP)/N 	 1 	 cents a
+28 	 24 	 PP/NP 	 1 	 $ between
+28 	 30 	 (NP\NP)/N 	 1 	 $ a
+29 	 28 	 N/N[num] 	 1 	 1.05 $
+31 	 30 	 (NP\NP)/N 	 2 	 share a
+34 	 33 	 ((S\NP)\(S\NP))/PP 	 3 	 from up
+34 	 39 	 (PP\PP)\NP 	 1 	 from ago
+36 	 34 	 PP/NP 	 1 	 cents from
+36 	 35 	 N/N 	 1 	 cents 69
+38 	 37 	 NP[nb]/N 	 1 	 year a
+38 	 39 	 (PP\PP)\NP 	 2 	 year ago
+<\s>
+<s id="wsj_1884.46"> 7
+1 	 0 	 N/N 	 1 	 Industries Springs
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Industries dropped
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped to
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 3\/8 dropped
+4 	 3 	 N/N 	 1 	 3\/8 1
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 36 to
+<\s>
+<s id="wsj_1884.47"> 21
+0 	 1 	 (NP\NP)/NP 	 1 	 Analysts at
+0 	 5 	 (S[dcl]\NP)/NP 	 1 	 Analysts lowered
+4 	 1 	 (NP\NP)/NP 	 2 	 firms at
+4 	 2 	 N/N 	 1 	 firms several
+4 	 3 	 N/N 	 1 	 firms brokerage
+5 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 lowered after
+11 	 5 	 (S[dcl]\NP)/NP 	 2 	 estimates lowered
+11 	 6 	 NP[nb]/N 	 1 	 estimates their
+11 	 7 	 N/N 	 1 	 estimates 1989
+11 	 9 	 N/N 	 1 	 estimates 1990
+11 	 10 	 N/N 	 1 	 estimates earnings
+11 	 12 	 (NP\NP)/NP 	 1 	 estimates on
+14 	 12 	 (NP\NP)/NP 	 2 	 company on
+14 	 13 	 NP[nb]/N 	 1 	 company the
+18 	 16 	 NP[nb]/N 	 1 	 results its
+18 	 17 	 N/N 	 1 	 results third-quarter
+18 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 results proved
+18 	 20 	 S[adj]\NP 	 1 	 results disappointing <XB>
+19 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 proved after
+20 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 disappointing proved
+<\s>
+<s id="wsj_1884.48"> 36
+2 	 0 	 N/N 	 1 	 loss Trinova
+2 	 1 	 N/N 	 1 	 loss third-quarter
+2 	 3 	 (NP\NP)/NP 	 1 	 loss after
+5 	 3 	 (NP\NP)/NP 	 2 	 charge after
+5 	 4 	 NP[nb]/N 	 1 	 charge a
+5 	 6 	 (NP\NP)/NP 	 1 	 charge for
+9 	 6 	 (NP\NP)/NP 	 2 	 restructuring for
+9 	 7 	 NP[nb]/N 	 1 	 restructuring a
+9 	 8 	 N/N 	 1 	 restructuring planned
+9 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 restructuring which
+9 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 restructuring will <XB>
+9 	 13 	 (S[b]\NP)/NP 	 1 	 restructuring include <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will which
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 include will
+15 	 13 	 (S[b]\NP)/NP 	 2 	 closing include
+15 	 14 	 NP[nb]/N 	 1 	 closing the
+15 	 18 	 (NP\NP)/NP 	 1 	 closing of
+17 	 13 	 (S[b]\NP)/NP 	 2 	 downsizing include
+17 	 14 	 NP[nb]/N 	 1 	 downsizing the
+17 	 18 	 (NP\NP)/NP 	 1 	 downsizing of
+20 	 19 	 (N/N)/(N/N) 	 2 	 25 about
+21 	 18 	 (NP\NP)/NP 	 2 	 % of
+21 	 20 	 N/N 	 1 	 % 25
+21 	 22 	 (NP\NP)/NP 	 1 	 % of
+24 	 22 	 (NP\NP)/NP 	 2 	 plants of
+24 	 23 	 NP[nb]/N 	 1 	 plants its
+29 	 13 	 (S[b]\NP)/NP 	 2 	 cut include
+29 	 26 	 NP[nb]/N 	 1 	 cut a
+29 	 27 	 N/N 	 1 	 cut work
+29 	 28 	 N/N 	 1 	 cut force
+29 	 30 	 (NP\NP)/NP 	 1 	 cut of
+29 	 33 	 (NP\NP)/NP 	 1 	 cut over
+32 	 30 	 (NP\NP)/NP 	 2 	 1,500 of
+32 	 31 	 N/N 	 1 	 1,500 about
+35 	 33 	 (NP\NP)/NP 	 2 	 years over
+35 	 34 	 N/N 	 1 	 years three
+<\s>
+<s id="wsj_1884.49"> 15
+4 	 0 	 NP[nb]/N 	 1 	 Index The
+4 	 1 	 N/N 	 1 	 Index Amex
+4 	 2 	 N/N 	 1 	 Index Market
+4 	 3 	 N/N 	 1 	 Index Value
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Index snapped
+4 	 11 	 S[ng]\NP 	 1 	 Index rising <XB>
+5 	 10 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 snapped by
+9 	 5 	 (S[dcl]\NP)/NP 	 2 	 streak snapped
+9 	 6 	 NP[nb]/N 	 1 	 streak a
+9 	 7 	 N/N 	 1 	 streak five-session
+9 	 8 	 N/N 	 1 	 streak losing
+11 	 10 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 rising by
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 rising 2.91
+11 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 rising to
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 378.07 to
+<\s>
+<s id="wsj_1884.50"> 4
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Volume totaled
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 shares totaled
+3 	 2 	 N/N 	 1 	 shares 12,500,000
+<\s>
+<s id="wsj_1884.51"> 11
+4 	 0 	 N/N 	 1 	 A Carnival
+4 	 1 	 N/N 	 1 	 A Cruise
+4 	 2 	 N/N 	 1 	 A Lines
+4 	 3 	 N/N 	 1 	 A Class
+4 	 5 	 S[dcl]\NP 	 1 	 A rose
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 rose 1\/4
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 1\/4 1
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 3\/8 to
+10 	 9 	 N/N 	 1 	 3\/8 22
+<\s>
+<s id="wsj_1884.52"> 14
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 company citing <XB>
+1 	 7 	 (S[dcl]\NP)/NP 	 1 	 company postponed
+5 	 3 	 (S[ng]\NP)/NP 	 2 	 conditions citing
+5 	 4 	 N/N 	 1 	 conditions market
+11 	 9 	 (N/N)/N[num] 	 2 	 million $
+11 	 10 	 N/N 	 1 	 million 200
+13 	 7 	 (S[dcl]\NP)/NP 	 2 	 offer postponed
+13 	 8 	 NP[nb]/N 	 1 	 offer a
+13 	 9 	 (N/N)/N[num] 	 1 	 offer $
+13 	 12 	 N/N 	 1 	 offer debt
+<\s>

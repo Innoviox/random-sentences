@@ -1,0 +1,560 @@
+<s id="wsj_0501.1"> 12
+1 	 0 	 N/N 	 1 	 companies Japanese
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 companies have
+1 	 5 	 (S[pss]\NP)/PP 	 1 	 companies accused <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 have long
+4 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+5 	 4 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 accused been
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 of accused
+7 	 6 	 PP/(S[ng]\NP) 	 1 	 sacrificing of
+8 	 7 	 (S[ng]\NP)/NP 	 2 	 profit sacrificing
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 boost to
+11 	 10 	 (S[b]\NP)/NP 	 2 	 sales boost
+<\s>
+<s id="wsj_0501.2"> 11
+2 	 1 	 N/N 	 1 	 Ltd. Fujitsu
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Ltd. has
+2 	 4 	 ((S[pt]\NP)/PP)/NP 	 1 	 Ltd. taken <XB>
+3 	 0 	 S/S 	 1 	 has But
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 taken has
+6 	 4 	 ((S[pt]\NP)/PP)/NP 	 3 	 practice taken
+6 	 5 	 NP[nb]/N 	 1 	 practice that
+7 	 4 	 ((S[pt]\NP)/PP)/NP 	 2 	 to taken
+10 	 7 	 PP/NP 	 1 	 extreme to
+10 	 8 	 NP[nb]/N 	 1 	 extreme a
+10 	 9 	 N/N 	 1 	 extreme new
+<\s>
+<s id="wsj_0501.3"> 26
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Japan 's
+4 	 1 	 (NP[nb]/N)\NP 	 1 	 maker 's
+4 	 2 	 N/N 	 1 	 maker biggest
+4 	 3 	 N/N 	 1 	 maker computer
+4 	 7 	 (S[dcl]\NP)/NP 	 1 	 maker undercut
+4 	 11 	 (S[b]\NP)/NP 	 1 	 maker win <XB>
+6 	 5 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 week last
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 undercut week
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 competitors undercut
+9 	 8 	 N/N 	 1 	 competitors seven
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 win to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 contract win
+13 	 12 	 NP[nb]/N 	 1 	 contract a
+13 	 15 	 (S[b]\NP)/NP 	 1 	 contract design <XB>
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 design to
+18 	 15 	 (S[b]\NP)/NP 	 2 	 system design
+18 	 16 	 NP[nb]/N 	 1 	 system a
+18 	 17 	 N/N 	 1 	 system mapping
+18 	 19 	 (NP\NP)/NP 	 1 	 system for
+21 	 20 	 NP[nb]/N 	 1 	 city the
+21 	 22 	 (NP\NP)/NP 	 1 	 city of
+21 	 24 	 (NP[nb]/N)\NP 	 2 	 city 's
+23 	 22 	 (NP\NP)/NP 	 2 	 Hiroshima of
+25 	 19 	 (NP\NP)/NP 	 2 	 waterworks for
+25 	 24 	 (NP[nb]/N)\NP 	 1 	 waterworks 's
+<\s>
+<s id="wsj_0501.4"> 12
+1 	 0 	 NP[nb]/N 	 1 	 bid Its
+1 	 2 	 (NP\NP)/NP 	 1 	 bid :
+4 	 2 	 (NP\NP)/NP 	 2 	 yen :
+4 	 3 	 N/N 	 1 	 yen one
+7 	 2 	 (NP\NP)/NP 	 2 	 less :
+7 	 8 	 (NP\NP)/NP 	 1 	 less than
+11 	 8 	 (NP\NP)/NP 	 2 	 penny than
+11 	 9 	 NP[nb]/N 	 1 	 penny a
+11 	 10 	 N/N 	 1 	 penny U.S.
+<\s>
+<s id="wsj_0501.5"> 18
+1 	 0 	 NP[nb]/N 	 1 	 bid The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 bid created
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 furor created
+5 	 3 	 NP/NP 	 1 	 furor such
+5 	 4 	 NP[nb]/N 	 1 	 furor a
+5 	 6 	 (NP\NP)/S[dcl] 	 1 	 furor that
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Fujitsu said
+8 	 6 	 (NP\NP)/S[dcl] 	 2 	 said that
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+9 	 12 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 it offering <XB>
+9 	 14 	 S[b]\NP 	 1 	 it withdraw <XB>
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 is now
+12 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 offering is
+13 	 12 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to offering
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 withdraw to
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 withdraw from
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 project from
+17 	 16 	 NP[nb]/N 	 1 	 project the
+<\s>
+<s id="wsj_0501.6"> 16
+3 	 0 	 (S/S)/NP 	 2 	 viewpoint From
+3 	 1 	 NP[nb]/N 	 1 	 viewpoint a
+3 	 2 	 N/N 	 1 	 viewpoint common-sense
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it was
+5 	 9 	 S[adj]\NP 	 1 	 it acceptable <XB>
+6 	 0 	 (S/S)/NP 	 1 	 was From
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 was not
+6 	 14 	 (S[dcl]\S[dcl])\NP 	 1 	 was said
+9 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 acceptable was
+9 	 8 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 acceptable socially
+13 	 11 	 NP[nb]/N 	 1 	 spokeswoman a
+13 	 12 	 N/N 	 1 	 spokeswoman Fujitsu
+13 	 14 	 (S[dcl]\S[dcl])\NP 	 2 	 spokeswoman said
+14 	 15 	 S\S 	 1 	 said yesterday
+<\s>
+<s id="wsj_0501.7"> 17
+2 	 0 	 N/N 	 1 	 officials Hiroshima
+2 	 1 	 N/N 	 1 	 officials city
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 officials could
+2 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 officials reached <XB>
+2 	 8 	 (S[b]\NP)/S[qem] 	 1 	 officials find <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 could n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+6 	 5 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reached be
+7 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to reached
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 find to
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 find out
+10 	 8 	 (S[b]\NP)/S[qem] 	 2 	 whether find
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they would
+11 	 13 	 (S[b]\NP)/NP 	 1 	 they drop <XB>
+12 	 10 	 S[qem]/S[dcl] 	 1 	 would whether
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 drop would
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 Fujitsu 's
+16 	 13 	 (S[b]\NP)/NP 	 2 	 bid drop
+16 	 15 	 (NP[nb]/N)\NP 	 1 	 bid 's
+<\s>
+<s id="wsj_0501.8"> 20
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Fujitsu said
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 it issued
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 issued said
+3 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 issued because
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 bid issued
+6 	 4 	 NP[nb]/N 	 1 	 bid the
+6 	 5 	 N/N 	 1 	 bid low
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 it wanted
+9 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 wanted because
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 foot wanted
+11 	 10 	 NP[nb]/N 	 1 	 foot a
+11 	 12 	 (NP\NP)/NP 	 1 	 foot in
+14 	 12 	 (NP\NP)/NP 	 2 	 door in
+14 	 13 	 NP[nb]/N 	 1 	 door the
+14 	 15 	 (NP\NP)/NP 	 1 	 door of
+18 	 17 	 (N/N)/(N/N) 	 2 	 lucrative potentially
+19 	 15 	 (NP\NP)/NP 	 2 	 market of
+19 	 16 	 NP[nb]/N 	 1 	 market a
+19 	 18 	 N/N 	 1 	 market lucrative
+<\s>
+<s id="wsj_0501.9"> 17
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 We wanted
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 wanted desperately
+2 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 wanted because
+2 	 16 	 (S[dcl]\S[dcl])\NP 	 1 	 wanted said
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 contract wanted
+4 	 3 	 NP[nb]/N 	 1 	 contract the
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 we want
+7 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 want because
+8 	 7 	 (S[dcl]\NP)/NP 	 2 	 experience want
+8 	 9 	 (NP\NP)/NP 	 1 	 experience in
+11 	 9 	 (NP\NP)/NP 	 2 	 field in
+11 	 10 	 NP[nb]/N 	 1 	 field the
+15 	 13 	 NP[nb]/N 	 1 	 spokeswoman the
+15 	 14 	 N/N 	 1 	 spokeswoman Fujitsu
+15 	 16 	 (S[dcl]\S[dcl])\NP 	 2 	 spokeswoman said
+<\s>
+<s id="wsj_0501.10"> 18
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 We expect
+1 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 expect in
+1 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 expect so
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 market expect
+4 	 2 	 NP[nb]/N 	 1 	 market a
+4 	 3 	 N/N 	 1 	 market big
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 future in
+7 	 6 	 NP[nb]/N 	 1 	 future the
+13 	 10 	 (S/S)/NP 	 2 	 term in
+13 	 11 	 NP[nb]/N 	 1 	 term the
+13 	 12 	 N/N 	 1 	 term long
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+14 	 17 	 S[adj]\NP 	 1 	 it profitable <XB>
+15 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 will so
+15 	 10 	 (S/S)/NP 	 1 	 will in
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+17 	 16 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 profitable be
+<\s>
+<s id="wsj_0501.11"> 7
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 kind 's
+3 	 2 	 NP[nb]/N 	 1 	 kind a
+3 	 4 	 (NP\NP)/NP 	 1 	 kind of
+6 	 4 	 (NP\NP)/NP 	 2 	 investment of
+6 	 5 	 NP[nb]/N 	 1 	 investment an
+<\s>
+<s id="wsj_0501.12"> 21
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Hiroshima 's
+3 	 1 	 (NP[nb]/N)\NP 	 1 	 bureau 's
+3 	 2 	 N/N 	 1 	 bureau waterworks
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 bureau said
+7 	 5 	 NP[nb]/N 	 1 	 government the
+7 	 6 	 N/N 	 1 	 government municipal
+7 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 government had
+7 	 9 	 ((S[pt]\NP)/PP)/NP 	 1 	 government budgeted <XB>
+8 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 budgeted had
+12 	 10 	 (N/N)/(N/N) 	 2 	 million about
+12 	 11 	 (N/N)/(N/N) 	 2 	 million 11
+13 	 9 	 ((S[pt]\NP)/PP)/NP 	 3 	 yen budgeted
+13 	 12 	 N/N 	 1 	 yen million
+13 	 14 	 (NP\NP)/NP 	 1 	 yen -LRB-
+15 	 14 	 (NP\NP)/NP 	 2 	 $ -LRB-
+16 	 15 	 N/N[num] 	 1 	 77,500 $
+18 	 9 	 ((S[pt]\NP)/PP)/NP 	 2 	 for budgeted
+20 	 18 	 PP/NP 	 1 	 project for
+20 	 19 	 NP[nb]/N 	 1 	 project the
+<\s>
+<s id="wsj_0501.13"> 20
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 I was
+0 	 2 	 S[pss]\NP 	 1 	 I flabbergasted <XB>
+1 	 12 	 ((S[dcl]\S[dcl])\NP)/(S[pss]\NP) 	 1 	 was was
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 flabbergasted was
+5 	 4 	 N/N 	 1 	 Yamane Tatsuhara
+5 	 12 	 ((S[dcl]\S[dcl])\NP)/(S[pss]\NP) 	 2 	 Yamane was
+7 	 8 	 (NP\NP)/NP 	 1 	 head of
+7 	 12 	 ((S[dcl]\S[dcl])\NP)/(S[pss]\NP) 	 2 	 head was
+10 	 8 	 (NP\NP)/NP 	 2 	 bureau of
+10 	 9 	 NP[nb]/N 	 1 	 bureau the
+13 	 12 	 ((S[dcl]\S[dcl])\NP)/(S[pss]\NP) 	 3 	 quoted was
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 quoted by
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 service by
+17 	 15 	 N/N 	 1 	 service Kyodo
+17 	 16 	 N/N 	 1 	 service news
+18 	 13 	 (S[pss]\NP)/PP 	 2 	 as quoted
+19 	 18 	 PP/(S[ng]\NP) 	 1 	 saying as
+<\s>
+<s id="wsj_0501.15"> 12
+3 	 2 	 N/N 	 1 	 officials Fujitsu
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 officials admitted
+4 	 0 	 S/S 	 1 	 admitted Indeed
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they may
+5 	 11 	 S[adj]\NP 	 1 	 they overzealous <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 may admitted
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have may
+8 	 7 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 been have
+10 	 9 	 ((S[adj]\NP)/(S[adj]\NP))/N 	 3 	 little a
+11 	 8 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 overzealous been
+11 	 9 	 ((S[adj]\NP)/(S[adj]\NP))/N 	 2 	 overzealous a
+<\s>
+<s id="wsj_0501.16"> 28
+2 	 0 	 NP[nb]/N 	 1 	 spokeswoman The
+2 	 1 	 N/N 	 1 	 spokeswoman Fujitsu
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokeswoman said
+5 	 4 	 N/N 	 1 	 officials headquarter
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 officials did
+5 	 8 	 (S[b]\NP)/NP 	 1 	 officials approve <XB>
+5 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 officials will <XU>
+5 	 15 	 (S[b]\NP)/NP 	 1 	 officials take <XU>
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 did said
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 did n't
+8 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 approve did
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 approve in
+10 	 8 	 (S[b]\NP)/NP 	 2 	 bid approve
+10 	 9 	 NP[nb]/N 	 1 	 bid the
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 advance in
+14 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take will
+15 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 take so
+16 	 15 	 (S[b]\NP)/NP 	 2 	 measures take
+19 	 18 	 NP[nb]/N 	 1 	 kind this
+19 	 20 	 (NP\NP)/NP 	 1 	 kind of
+19 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 kind does
+19 	 24 	 S[b]\NP 	 1 	 kind happen <XB>
+21 	 20 	 (NP\NP)/NP 	 2 	 thing of
+22 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 does so
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 does n't
+24 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 happen does
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 happen in
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 future in
+27 	 26 	 NP[nb]/N 	 1 	 future the
+<\s>
+<s id="wsj_0501.17"> 9
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 It 's
+0 	 2 	 (S[adj]\NP)/PP 	 1 	 It contrary <XB>
+1 	 8 	 (S[dcl]\S[dcl])\NP 	 1 	 's added
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 contrary 's
+3 	 2 	 (S[adj]\NP)/PP 	 2 	 to contrary
+5 	 3 	 PP/NP 	 1 	 sense to
+5 	 4 	 N/N 	 1 	 sense common
+7 	 8 	 (S[dcl]\S[dcl])\NP 	 2 	 she added
+<\s>
+<s id="wsj_0501.18"> 22
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Fujitsu won
+3 	 0 	 S/S 	 1 	 won Specifically
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 right won
+5 	 4 	 NP[nb]/N 	 1 	 right the
+5 	 7 	 (S[b]\NP)/NP 	 1 	 right design <XB>
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 design to
+9 	 7 	 (S[b]\NP)/NP 	 2 	 specifications design
+9 	 8 	 NP[nb]/N 	 1 	 specifications the
+9 	 10 	 (NP\NP)/NP 	 1 	 specifications for
+13 	 10 	 (NP\NP)/NP 	 2 	 system for
+13 	 11 	 NP[nb]/N 	 1 	 system a
+13 	 12 	 N/N 	 1 	 system computerized
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 system that
+13 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 system will <XB>
+13 	 16 	 (S[b]\NP)/NP 	 1 	 system show <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 show will
+18 	 16 	 (S[b]\NP)/NP 	 2 	 lines show
+18 	 17 	 N/N 	 1 	 lines water
+18 	 19 	 (NP\NP)/NP 	 1 	 lines throughout
+21 	 19 	 (NP\NP)/NP 	 2 	 city throughout
+21 	 20 	 NP[nb]/N 	 1 	 city the
+<\s>
+<s id="wsj_0501.19"> 17
+1 	 0 	 NP[nb]/N 	 1 	 system The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 system could
+1 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 system used <XB>
+1 	 11 	 (S[b]\NP)/NP 	 1 	 system locate <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 used in
+4 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 used among
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 fire in
+7 	 6 	 NP[nb]/N 	 1 	 fire a
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 earthquake in
+9 	 6 	 NP[nb]/N 	 1 	 earthquake a
+10 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 locate to
+12 	 11 	 (S[b]\NP)/NP 	 2 	 problems locate
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 things among
+16 	 15 	 N/N 	 1 	 things other
+<\s>
+<s id="wsj_0501.20"> 21
+2 	 0 	 NP[nb]/N 	 1 	 official A
+2 	 1 	 N/N 	 1 	 official waterworks
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 official said
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Fujitsu will
+4 	 8 	 (S[b]\NP)/NP 	 1 	 Fujitsu design <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+7 	 6 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 design to
+8 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 design so
+10 	 8 	 (S[b]\NP)/NP 	 2 	 system design
+10 	 9 	 NP[nb]/N 	 1 	 system the
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+12 	 15 	 (S[adj]\NP)/PP 	 1 	 it compatible <XB>
+13 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 would so
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+15 	 14 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 compatible be
+16 	 15 	 (S[adj]\NP)/PP 	 2 	 with compatible
+18 	 17 	 N/N 	 1 	 makers other
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 makers '
+20 	 16 	 PP/NP 	 1 	 equipment with
+20 	 19 	 (NP[nb]/N)\NP 	 1 	 equipment '
+<\s>
+<s id="wsj_0501.21"> 20
+2 	 1 	 N/N 	 1 	 officials industry
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 officials expressed
+3 	 0 	 S/S 	 1 	 expressed But
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 concern expressed
+5 	 4 	 N/S[em] 	 1 	 that concern
+8 	 6 	 NP[nb]/N 	 1 	 project the
+8 	 7 	 N/N 	 1 	 project initial
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 project might
+8 	 10 	 ((S[b]\NP)/NP)/NP 	 1 	 project give <XB>
+9 	 5 	 S[em]/S[dcl] 	 1 	 might that
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give might
+11 	 10 	 ((S[b]\NP)/NP)/NP 	 3 	 Fujitsu give
+13 	 10 	 ((S[b]\NP)/NP)/NP 	 2 	 edge give
+13 	 12 	 NP[nb]/N 	 1 	 edge an
+13 	 14 	 (NP\NP)/(S[ng]\NP) 	 1 	 edge in
+15 	 14 	 (NP\NP)/(S[ng]\NP) 	 2 	 winning in
+15 	 19 	 (S\NP)\(S\NP) 	 2 	 winning later
+17 	 16 	 (N/N)/(N/N) 	 2 	 lucrative more
+18 	 15 	 (S[ng]\NP)/NP 	 2 	 contracts winning
+18 	 17 	 N/N 	 1 	 contracts lucrative
+<\s>
+<s id="wsj_0501.22"> 15
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Fujitsu said
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 it hopes
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 hopes said
+6 	 4 	 NP[nb]/N 	 1 	 contract the
+6 	 5 	 N/N 	 1 	 contract Hiroshima
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 contract will
+6 	 8 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 contract help <XB>
+7 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 will hopes
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 help will
+9 	 8 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 it help
+9 	 10 	 (S[b]\NP)/NP 	 1 	 it secure <XB>
+10 	 8 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 secure help
+11 	 10 	 (S[b]\NP)/NP 	 2 	 pacts secure
+11 	 12 	 (NP\NP)/NP 	 1 	 pacts with
+14 	 12 	 (NP\NP)/NP 	 2 	 municipalities with
+14 	 13 	 N/N 	 1 	 municipalities other
+<\s>
+<s id="wsj_0501.23"> 27
+2 	 0 	 N/N 	 1 	 governments Japanese
+2 	 1 	 N/N 	 1 	 governments local
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 governments are
+2 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 governments expected <XB>
+2 	 6 	 (S[b]\NP)/PP 	 1 	 governments invest <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+5 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 invest to
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 invest heavily
+6 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 invest over
+8 	 6 	 (S[b]\NP)/PP 	 2 	 in invest
+10 	 8 	 PP/NP 	 1 	 systems in
+10 	 9 	 N/N 	 1 	 systems computer
+15 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 years over
+15 	 12 	 NP[nb]/N 	 1 	 years the
+15 	 13 	 N/N 	 1 	 years next
+15 	 14 	 N/N 	 1 	 years few
+19 	 18 	 N/N 	 1 	 companies many
+19 	 20 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 companies expect
+22 	 20 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 field expect
+22 	 21 	 NP[nb]/N 	 1 	 field that
+22 	 24 	 (S[b]\NP)/NP 	 1 	 field provide <XB>
+23 	 20 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provide to
+26 	 24 	 (S[b]\NP)/NP 	 2 	 revenue provide
+26 	 25 	 N/N 	 1 	 revenue substantial
+<\s>
+<s id="wsj_0501.24"> 27
+3 	 0 	 (S/S)/NP 	 2 	 future In
+3 	 1 	 NP[nb]/N 	 1 	 future the
+3 	 2 	 N/N 	 1 	 future near
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+5 	 7 	 (S[b]\NP)/NP 	 1 	 it be <XB>
+6 	 0 	 (S/S)/NP 	 1 	 will In
+6 	 26 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+7 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 be for
+7 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 be for <XU>
+10 	 7 	 (S[b]\NP)/NP 	 2 	 market be
+10 	 8 	 NP[nb]/N 	 1 	 market a
+10 	 9 	 N/N 	 1 	 market big
+14 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 for not
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 for just
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 waterworks for
+18 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 for not
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 systems for
+21 	 19 	 NP[nb]/N 	 1 	 systems all
+21 	 20 	 N/N 	 1 	 systems mapping
+25 	 23 	 NP[nb]/N 	 1 	 spokeswoman the
+25 	 24 	 N/N 	 1 	 spokeswoman Fujitsu
+25 	 26 	 (S[dcl]\S[dcl])\NP 	 2 	 spokeswoman said
+<\s>
+<s id="wsj_0501.25"> 6
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 We can
+0 	 2 	 (S[b]\NP)/NP 	 1 	 We expect <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 expect can
+5 	 2 	 (S[b]\NP)/NP 	 2 	 market expect
+5 	 3 	 NP[nb]/N 	 1 	 market a
+5 	 4 	 N/N 	 1 	 market hundreds-of-billions-of-yen
+<\s>
+<s id="wsj_0501.26"> 13
+2 	 0 	 NP[nb]/N 	 1 	 companies No
+2 	 1 	 N/N 	 1 	 companies foreign
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 companies bid
+3 	 9 	 ((S\NP)\(S\NP))/PP 	 2 	 bid according
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 on bid
+7 	 4 	 PP/NP 	 1 	 project on
+7 	 5 	 NP[nb]/N 	 1 	 project the
+7 	 6 	 N/N 	 1 	 project Hiroshima
+10 	 9 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+12 	 10 	 PP/NP 	 1 	 bureau to
+12 	 11 	 NP[nb]/N 	 1 	 bureau the
+<\s>
+<s id="wsj_0501.27"> 22
+3 	 1 	 NP[nb]/N 	 1 	 practice the
+3 	 2 	 N/N 	 1 	 practice Japanese
+3 	 4 	 (NP\NP)/NP 	 1 	 practice of
+3 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 practice is
+3 	 9 	 (S[pss]\NP)/PP 	 1 	 practice cited <XB>
+6 	 4 	 (NP\NP)/NP 	 2 	 discounting of
+6 	 5 	 N/N 	 1 	 discounting deep
+8 	 0 	 S/S 	 1 	 is But
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 is often
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 cited is
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 cited by
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 Americans by
+12 	 9 	 (S[pss]\NP)/PP 	 2 	 as cited
+15 	 12 	 PP/NP 	 1 	 barrier as
+15 	 13 	 NP[nb]/N 	 1 	 barrier a
+15 	 14 	 N/N 	 1 	 barrier classic
+15 	 16 	 (NP\NP)/NP 	 1 	 barrier to
+15 	 18 	 (NP\NP)/NP 	 1 	 barrier in
+17 	 16 	 (NP\NP)/NP 	 2 	 entry to
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 Japan 's
+21 	 18 	 (NP\NP)/NP 	 2 	 market in
+21 	 20 	 (NP[nb]/N)\NP 	 1 	 market 's
+<\s>
+<s id="wsj_0501.28"> 28
+1 	 0 	 (S/S)/(S/S) 	 2 	 this Earlier
+2 	 1 	 (S/S)/N 	 2 	 year this
+5 	 4 	 NP[nb]/N 	 1 	 U.S. the
+5 	 6 	 (S[dcl]\NP)/S[em] 	 1 	 U.S. complained
+6 	 1 	 (S/S)/N 	 1 	 complained this
+7 	 6 	 (S[dcl]\NP)/S[em] 	 2 	 that complained
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 Japan 's
+11 	 9 	 (NP[nb]/N)\NP 	 1 	 makers 's
+11 	 10 	 N/N 	 1 	 makers supercomputer
+11 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 makers were
+11 	 14 	 (S[ng]\NP)/NP 	 1 	 makers closing <XB>
+11 	 19 	 (S[ng]\NP)/NP 	 1 	 makers slashing <XB>
+12 	 7 	 S[em]/S[dcl] 	 1 	 were that
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 were effectively
+14 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 closing were
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 closing out
+14 	 18 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 closing by
+17 	 14 	 (S[ng]\NP)/NP 	 2 	 competitors closing
+17 	 16 	 N/N 	 1 	 competitors foreign
+19 	 18 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 slashing by
+19 	 21 	 (((S\NP)\(S\NP))/PP)/(S[adj]\NP) 	 2 	 slashing as
+19 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 slashing for
+20 	 19 	 (S[ng]\NP)/NP 	 2 	 prices slashing
+22 	 21 	 (((S\NP)\(S\NP))/PP)/(S[adj]\NP) 	 4 	 much as
+23 	 21 	 (((S\NP)\(S\NP))/PP)/(S[adj]\NP) 	 3 	 as as
+25 	 23 	 PP/NP 	 1 	 % as
+25 	 24 	 N/N 	 1 	 % 90
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 universities for
+<\s>
+<s id="wsj_0501.29"> 13
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Fujitsu was
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 was n't
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 company was
+5 	 3 	 NP[nb]/N 	 1 	 company the
+5 	 4 	 N/N 	 1 	 company only
+5 	 6 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 company willing <XB>
+7 	 6 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to willing
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sacrifice to
+8 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 sacrifice on
+9 	 8 	 (S[b]\NP)/NP 	 2 	 profit sacrifice
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 project on
+12 	 11 	 NP[nb]/N 	 1 	 project the
+<\s>
+<s id="wsj_0501.30"> 16
+1 	 0 	 N/N 	 1 	 competitors Three
+1 	 2 	 S[dcl]\NP 	 1 	 competitors bid
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 bid between
+2 	 10 	 ((S\NP)\(S\NP))/PP 	 2 	 bid according
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 yen between
+5 	 4 	 N/N 	 1 	 yen 300,000
+8 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 yen between
+8 	 7 	 N/N 	 1 	 yen 500,000
+11 	 10 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+15 	 11 	 PP/NP 	 1 	 office to
+15 	 12 	 NP[nb]/N 	 1 	 office the
+15 	 13 	 N/N 	 1 	 office Hiroshima
+15 	 14 	 N/N 	 1 	 office government
+<\s>
+<s id="wsj_0501.31"> 12
+1 	 0 	 N/N 	 1 	 bids Other
+1 	 2 	 S[dcl]\NP 	 1 	 bids ranged
+2 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 ranged to
+6 	 4 	 (N/N)/(N/N) 	 2 	 million about
+6 	 5 	 (N/N)/(N/N) 	 2 	 million 10
+7 	 3 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 yen from
+7 	 6 	 N/N 	 1 	 yen million
+8 	 3 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 to from
+10 	 9 	 (N/N)/(N/N) 	 2 	 million 29
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 yen to
+11 	 10 	 N/N 	 1 	 yen million
+<\s>

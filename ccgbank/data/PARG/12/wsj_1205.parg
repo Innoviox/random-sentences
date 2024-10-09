@@ -1,0 +1,187 @@
+<s id="wsj_1205.1"> 38
+3 	 0 	 N/N 	 1 	 Inc. Color
+3 	 1 	 N/N 	 1 	 Inc. Systems
+3 	 2 	 N/N 	 1 	 Inc. Technology
+3 	 6 	 NP\NP 	 1 	 Inc. Angeles
+3 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+6 	 5 	 (NP\NP)/(NP\NP) 	 2 	 Angeles Los
+11 	 9 	 NP[nb]/N 	 1 	 creditor its
+11 	 10 	 N/N 	 1 	 creditor major
+11 	 18 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 creditor agreed
+11 	 20 	 ((S[b]\NP)/PP)/NP 	 1 	 creditor convert <XB>
+16 	 13 	 N/N 	 1 	 Trust General
+16 	 14 	 N/N 	 1 	 Trust Electric
+16 	 15 	 N/N 	 1 	 Trust Pension
+16 	 18 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Trust agreed
+16 	 20 	 ((S[b]\NP)/PP)/NP 	 1 	 Trust convert <XB>
+18 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 agreed said
+19 	 18 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 convert to
+21 	 20 	 ((S[b]\NP)/PP)/NP 	 3 	 $ convert
+21 	 24 	 (NP\NP)/NP 	 1 	 $ of
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 11.8
+25 	 24 	 (NP\NP)/NP 	 2 	 debt of
+25 	 26 	 S[pss]\NP 	 1 	 debt owed <XB>
+27 	 20 	 ((S[b]\NP)/PP)/NP 	 2 	 into convert
+29 	 27 	 PP/NP 	 1 	 % into
+29 	 28 	 N/N 	 1 	 % 25
+29 	 30 	 (NP\NP)/NP 	 1 	 % of
+32 	 31 	 N/N 	 1 	 System Color
+32 	 33 	 (NP[nb]/N)\NP 	 2 	 System 's
+35 	 34 	 (N/N)/(N/N) 	 2 	 diluted fully
+37 	 30 	 (NP\NP)/NP 	 2 	 stock of
+37 	 33 	 (NP[nb]/N)\NP 	 1 	 stock 's
+37 	 35 	 N/N 	 1 	 stock diluted
+37 	 36 	 N/N 	 1 	 stock common
+<\s>
+<s id="wsj_1205.2"> 47
+1 	 0 	 NP[nb]/N 	 1 	 agreement The
+1 	 3 	 (S[dcl]\NP)/S[for] 	 1 	 agreement calls
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 calls also
+4 	 3 	 (S[dcl]\NP)/S[for] 	 2 	 for calls
+7 	 4 	 (S[for]/(S[to]\NP))/NP 	 2 	 Pension for
+7 	 5 	 N/N 	 1 	 Pension General
+7 	 6 	 N/N 	 1 	 Pension Electric
+7 	 17 	 (S[b]\NP)/NP 	 1 	 Pension receive <XB>
+10 	 4 	 (S[for]/(S[to]\NP))/NP 	 2 	 unit for
+10 	 9 	 NP[nb]/N 	 1 	 unit a
+10 	 11 	 (NP\NP)/NP 	 1 	 unit of
+10 	 17 	 (S[b]\NP)/NP 	 1 	 unit receive <XB>
+14 	 11 	 (NP\NP)/NP 	 2 	 Co. of
+14 	 12 	 N/N 	 1 	 Co. General
+14 	 13 	 N/N 	 1 	 Co. Electric
+16 	 4 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 receive to
+18 	 17 	 (S[b]\NP)/NP 	 2 	 as receive
+18 	 23 	 (NP\NP)/NP 	 1 	 as of
+18 	 32 	 (NP\NP)/PP 	 1 	 as depending
+19 	 18 	 (N/PP)/(S[adj]\NP) 	 2 	 much as
+20 	 18 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+22 	 20 	 PP/NP 	 1 	 % as
+22 	 21 	 N/N 	 1 	 % 10
+25 	 24 	 N/N 	 1 	 Systems Color
+25 	 26 	 (NP[nb]/N)\NP 	 2 	 Systems '
+28 	 27 	 (S\NP)/(S\NP) 	 2 	 diluted fully
+30 	 23 	 (NP\NP)/NP 	 2 	 stock of
+30 	 26 	 (NP[nb]/N)\NP 	 1 	 stock '
+30 	 28 	 S[pss]\NP 	 1 	 stock diluted <XB>
+30 	 29 	 N/N 	 1 	 stock common
+33 	 32 	 (NP\NP)/PP 	 2 	 on depending
+35 	 33 	 PP/NP 	 1 	 proceeds on
+35 	 34 	 NP[nb]/N 	 1 	 proceeds the
+35 	 36 	 (NP\NP)/NP 	 1 	 proceeds from
+38 	 36 	 (NP\NP)/NP 	 2 	 sale from
+38 	 37 	 NP[nb]/N 	 1 	 sale the
+38 	 39 	 (NP\NP)/NP 	 1 	 sale of
+43 	 39 	 (NP\NP)/NP 	 2 	 Library of
+43 	 40 	 NP[nb]/N 	 1 	 Library the
+43 	 41 	 N/N 	 1 	 Library AEI
+43 	 42 	 N/N 	 1 	 Library Film
+46 	 39 	 (NP\NP)/NP 	 2 	 receivables of
+46 	 45 	 NP[nb]/N 	 1 	 receivables its
+<\s>
+<s id="wsj_1205.3"> 18
+2 	 0 	 N/N 	 1 	 Pension General
+2 	 1 	 N/N 	 1 	 Pension Electric
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Pension took
+3 	 10 	 (S\NP)\(S\NP) 	 2 	 took month
+3 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 took after
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 control took
+4 	 5 	 (NP\NP)/NP 	 1 	 control of
+8 	 5 	 (NP\NP)/NP 	 2 	 library of
+8 	 6 	 NP[nb]/N 	 1 	 library the
+8 	 7 	 N/N 	 1 	 library 85-title
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month last
+13 	 12 	 N/N 	 1 	 Systems Color
+13 	 14 	 (S[dcl]\NP)/PP 	 1 	 Systems defaulted
+14 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 defaulted after
+15 	 14 	 (S[dcl]\NP)/PP 	 2 	 on defaulted
+17 	 15 	 PP/NP 	 1 	 loan on
+17 	 16 	 NP[nb]/N 	 1 	 loan the
+<\s>
+<s id="wsj_1205.4"> 15
+1 	 0 	 NP[nb]/N 	 1 	 agreement The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 agreement depends
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 on depends
+5 	 4 	 N/N 	 1 	 Systems Color
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Systems '
+7 	 3 	 PP/NP 	 1 	 ability on
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 ability '
+7 	 9 	 ((S[b]\NP)/PP)/NP 	 1 	 ability win <XB>
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 win to
+11 	 9 	 ((S[b]\NP)/PP)/NP 	 3 	 concessions win
+11 	 10 	 N/N 	 1 	 concessions similar
+12 	 9 	 ((S[b]\NP)/PP)/NP 	 2 	 from win
+14 	 12 	 PP/NP 	 1 	 creditors from
+14 	 13 	 N/N 	 1 	 creditors other
+<\s>
+<s id="wsj_1205.5"> 18
+1 	 0 	 N/N 	 1 	 Young Buddy
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Young said
+3 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 president said
+7 	 6 	 NP[nb]/N 	 1 	 company the
+7 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 company expects
+7 	 10 	 (S[b]\NP)/NP 	 1 	 company conclude <XB>
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+9 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 conclude to
+10 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 conclude within
+11 	 10 	 (S[b]\NP)/NP 	 2 	 negotiations conclude
+11 	 12 	 (NP\NP)/NP 	 1 	 negotiations with
+14 	 12 	 (NP\NP)/NP 	 2 	 creditors with
+14 	 13 	 N/N 	 1 	 creditors other
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 days within
+17 	 16 	 N/N 	 1 	 days 60
+<\s>
+<s id="wsj_1205.6"> 38
+1 	 0 	 N/N 	 1 	 Systems Color
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Systems which
+1 	 4 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Systems converts <XB>
+1 	 11 	 (S[dcl]\NP)/NP 	 1 	 Systems posted
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 converts which
+6 	 4 	 ((S[dcl]\NP)/PP)/NP 	 3 	 film converts
+6 	 5 	 N/N 	 1 	 film black-and-white
+7 	 4 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to converts
+9 	 7 	 PP/NP 	 1 	 videotape to
+9 	 8 	 N/N 	 1 	 videotape color
+11 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 posted for
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 loss posted
+13 	 12 	 NP[nb]/N 	 1 	 loss a
+13 	 14 	 (NP\NP)/NP 	 1 	 loss of
+13 	 25 	 (NP\NP)/NP 	 1 	 loss on
+15 	 14 	 (NP\NP)/NP 	 2 	 $ of
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 7.1
+20 	 14 	 (NP\NP)/NP 	 2 	 $ of
+20 	 22 	 (NP\NP)/N 	 1 	 $ a
+21 	 20 	 N/N[num] 	 1 	 1.32 $
+23 	 22 	 (NP\NP)/N 	 2 	 share a
+26 	 25 	 (NP\NP)/NP 	 2 	 revenue on
+26 	 27 	 (NP\NP)/NP 	 1 	 revenue of
+28 	 27 	 (NP\NP)/NP 	 2 	 $ of
+30 	 28 	 N/N[num] 	 1 	 million $
+30 	 29 	 N/N 	 1 	 million 10.6
+34 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 year for
+34 	 32 	 NP[nb]/N 	 1 	 year the
+34 	 33 	 N/N 	 1 	 year fiscal
+34 	 35 	 S[pss]\NP 	 1 	 year ended <XB>
+35 	 36 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended June
+37 	 36 	 ((S\NP)\(S\NP))/N[num] 	 3 	 30 June
+<\s>
+<s id="wsj_1205.7"> 17
+1 	 0 	 NP[nb]/N 	 1 	 stock Its
+1 	 2 	 S[dcl]\NP 	 1 	 stock fell
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 fell cents
+2 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+2 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 fell in
+2 	 16 	 (S\NP)\(S\NP) 	 2 	 fell yesterday
+4 	 3 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 cents 12.5
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+8 	 7 	 N/N[num] 	 1 	 2.125 $
+15 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+15 	 11 	 N/N 	 1 	 trading American
+15 	 12 	 N/N 	 1 	 trading Stock
+15 	 13 	 N/N 	 1 	 trading Exchange
+15 	 14 	 N/N 	 1 	 trading composite
+<\s>

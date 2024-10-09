@@ -1,0 +1,299 @@
+<s id="wsj_1769.1"> 29
+2 	 0 	 N/N 	 1 	 Inc. Golden
+2 	 1 	 N/N 	 1 	 Inc. Nugget
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Inc. reported
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 loss reported
+7 	 4 	 NP[nb]/N 	 1 	 loss a
+7 	 5 	 N/N 	 1 	 loss third-quarter
+7 	 6 	 N/N 	 1 	 loss net
+7 	 8 	 (NP\NP)/NP 	 1 	 loss of
+7 	 19 	 (NP\NP)/PP 	 1 	 loss based
+9 	 8 	 (NP\NP)/NP 	 2 	 $ of
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 13.1
+15 	 8 	 (NP\NP)/NP 	 2 	 cents of
+15 	 14 	 N/N 	 1 	 cents 76
+15 	 16 	 (NP\NP)/N 	 1 	 cents a
+17 	 16 	 (NP\NP)/N 	 2 	 share a
+20 	 19 	 (NP\NP)/PP 	 2 	 on based
+22 	 21 	 (N/N)/(N/N) 	 2 	 million 17.2
+24 	 20 	 PP/NP 	 1 	 shares on
+24 	 22 	 N/N 	 1 	 shares million
+24 	 23 	 N/N 	 1 	 shares common
+27 	 20 	 PP/NP 	 1 	 equivalents on
+27 	 22 	 N/N 	 1 	 equivalents million
+27 	 26 	 N/N 	 1 	 equivalents dilutive
+27 	 28 	 S[adj]\NP 	 1 	 equivalents outstanding <XB>
+<\s>
+<s id="wsj_1769.2"> 28
+1 	 0 	 NP[nb]/N 	 1 	 results The
+1 	 2 	 S[dcl]\NP 	 1 	 results compare
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 compare with
+7 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 loss with
+7 	 4 	 NP[nb]/N 	 1 	 loss a
+7 	 5 	 N/N 	 1 	 loss year-earlier
+7 	 6 	 N/N 	 1 	 loss net
+7 	 8 	 (NP\NP)/NP 	 1 	 loss of
+7 	 19 	 (NP\NP)/PP 	 1 	 loss based
+9 	 8 	 (NP\NP)/NP 	 2 	 $ of
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 1.5
+15 	 8 	 (NP\NP)/NP 	 2 	 cents of
+15 	 14 	 N/N 	 1 	 cents seven
+15 	 16 	 (NP\NP)/N 	 1 	 cents a
+17 	 16 	 (NP\NP)/N 	 2 	 share a
+20 	 19 	 (NP\NP)/PP 	 2 	 on based
+22 	 21 	 (N/N)/(N/N) 	 2 	 million 20.3
+23 	 20 	 PP/NP 	 1 	 common on
+23 	 22 	 N/N 	 1 	 common million
+26 	 20 	 PP/NP 	 1 	 equivalents on
+26 	 22 	 N/N 	 1 	 equivalents million
+26 	 25 	 N/N 	 1 	 equivalents dilutive
+26 	 27 	 S[adj]\NP 	 1 	 equivalents outstanding <XB>
+<\s>
+<s id="wsj_1769.3"> 16
+1 	 0 	 N/N 	 1 	 revenue Operating
+1 	 2 	 S[dcl]\NP 	 1 	 revenue rose
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 rose %
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+2 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+4 	 3 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 25
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+8 	 6 	 N/N[num] 	 1 	 million $
+8 	 7 	 N/N 	 1 	 million 52.1
+9 	 15 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 3 	 from ago
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 41.8
+14 	 13 	 NP[nb]/N 	 1 	 year a
+14 	 15 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 4 	 year ago
+<\s>
+<s id="wsj_1769.4"> 20
+0 	 1 	 (NP\NP)/NP 	 1 	 Results for
+0 	 5 	 (S[dcl]\NP)/NP 	 1 	 Results include
+4 	 1 	 (NP\NP)/NP 	 2 	 quarter for
+4 	 2 	 NP[nb]/N 	 1 	 quarter the
+4 	 3 	 N/N 	 1 	 quarter latest
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 items include
+7 	 6 	 N/N 	 1 	 items nonoperating
+7 	 8 	 (NP\NP)/NP 	 1 	 items of
+9 	 8 	 (NP\NP)/NP 	 2 	 $ of
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 23.9
+14 	 8 	 (NP\NP)/NP 	 2 	 $ of
+14 	 19 	 (NP\NP)\NP 	 1 	 $ earlier
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 8.4
+18 	 17 	 NP[nb]/N 	 1 	 year a
+18 	 19 	 (NP\NP)\NP 	 2 	 year earlier
+<\s>
+<s id="wsj_1769.5"> 34
+0 	 1 	 (NP\NP)/NP 	 1 	 Most of
+0 	 4 	 (S[dcl]\NP)/PP 	 1 	 Most stem
+3 	 1 	 (NP\NP)/NP 	 2 	 expenses of
+3 	 2 	 NP[nb]/N 	 1 	 expenses the
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 from stem
+7 	 6 	 NP[nb]/N 	 1 	 company the
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 company 's
+11 	 5 	 PP/NP 	 1 	 resort-casino from
+11 	 8 	 (NP[nb]/N)\NP 	 1 	 resort-casino 's
+11 	 9 	 N/N 	 1 	 resort-casino huge
+11 	 10 	 N/N 	 1 	 resort-casino Mirage
+11 	 12 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 resort-casino scheduled <XB>
+11 	 14 	 S[b]\NP 	 1 	 resort-casino open <XB>
+13 	 12 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to scheduled
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 open to
+14 	 16 	 (S\NP)\(S\NP) 	 2 	 open month
+14 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 open along
+16 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month next
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 Strip along
+19 	 18 	 NP[nb]/N 	 1 	 Strip the
+25 	 5 	 PP/NP 	 1 	 financing from
+25 	 22 	 NP[nb]/N 	 1 	 financing an
+25 	 23 	 N/N 	 1 	 financing April
+25 	 24 	 N/N 	 1 	 financing 1989
+25 	 26 	 (NP\NP)/NP 	 1 	 financing by
+27 	 26 	 (NP\NP)/NP 	 2 	 units by
+27 	 28 	 (S[ng]\NP)/NP 	 1 	 units operating <XB>
+33 	 28 	 (S[ng]\NP)/NP 	 2 	 property operating
+33 	 29 	 NP[nb]/N 	 1 	 property the
+33 	 30 	 N/N 	 1 	 property downtown
+33 	 31 	 N/N 	 1 	 property Golden
+33 	 32 	 N/N 	 1 	 property Nugget
+<\s>
+<s id="wsj_1769.6"> 31
+3 	 0 	 (S/S)/NP 	 2 	 months For
+3 	 1 	 NP[nb]/N 	 1 	 months the
+3 	 2 	 N/N 	 1 	 months nine
+6 	 5 	 N/N 	 1 	 Nugget Golden
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 Nugget reported
+7 	 0 	 (S/S)/NP 	 1 	 reported For
+10 	 7 	 (S[dcl]\NP)/NP 	 2 	 loss reported
+10 	 8 	 NP[nb]/N 	 1 	 loss a
+10 	 9 	 N/N 	 1 	 loss net
+10 	 11 	 (NP\NP)/NP 	 1 	 loss of
+10 	 22 	 (NP\NP)/PP 	 1 	 loss based
+12 	 11 	 (NP\NP)/NP 	 2 	 $ of
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 11.4
+18 	 11 	 (NP\NP)/NP 	 2 	 cents of
+18 	 17 	 N/N 	 1 	 cents 69
+18 	 19 	 (NP\NP)/N 	 1 	 cents a
+20 	 19 	 (NP\NP)/N 	 2 	 share a
+23 	 22 	 (NP\NP)/PP 	 2 	 on based
+25 	 24 	 (N/N)/(N/N) 	 2 	 million 16.6
+26 	 23 	 PP/NP 	 1 	 common on
+26 	 25 	 N/N 	 1 	 common million
+29 	 23 	 PP/NP 	 1 	 equivalents on
+29 	 25 	 N/N 	 1 	 equivalents million
+29 	 28 	 N/N 	 1 	 equivalents dilutive
+29 	 30 	 S[adj]\NP 	 1 	 equivalents outstanding <XB>
+<\s>
+<s id="wsj_1769.7"> 31
+1 	 0 	 NP[nb]/N 	 1 	 year The
+1 	 2 	 (S/S)\NP 	 2 	 year earlier
+5 	 4 	 NP[nb]/N 	 1 	 company the
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 company had
+6 	 2 	 (S/S)\NP 	 1 	 had earlier
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 loss had
+9 	 7 	 NP[nb]/N 	 1 	 loss a
+9 	 8 	 N/N 	 1 	 loss net
+9 	 10 	 (NP\NP)/NP 	 1 	 loss of
+9 	 21 	 (NP\NP)/PP 	 1 	 loss based
+11 	 10 	 (NP\NP)/NP 	 2 	 $ of
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 4.3
+17 	 10 	 (NP\NP)/NP 	 2 	 cents of
+17 	 16 	 N/N 	 1 	 cents 20
+17 	 18 	 (NP\NP)/N 	 1 	 cents a
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+22 	 21 	 (NP\NP)/PP 	 2 	 on based
+24 	 23 	 (N/N)/(N/N) 	 2 	 million 21
+26 	 22 	 PP/NP 	 1 	 shares on
+26 	 24 	 N/N 	 1 	 shares million
+26 	 25 	 N/N 	 1 	 shares common
+29 	 22 	 PP/NP 	 1 	 equivalents on
+29 	 24 	 N/N 	 1 	 equivalents million
+29 	 28 	 N/N 	 1 	 equivalents dilutive
+29 	 30 	 S[adj]\NP 	 1 	 equivalents outstanding <XB>
+<\s>
+<s id="wsj_1769.8"> 14
+2 	 0 	 NP[nb]/N 	 1 	 results The
+2 	 1 	 N/N 	 1 	 results 1988
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 results include
+7 	 5 	 (N/N)/N[num] 	 2 	 million $
+7 	 6 	 N/N 	 1 	 million 10.7
+8 	 3 	 (S[dcl]\NP)/NP 	 2 	 charge include
+8 	 4 	 NP[nb]/N 	 1 	 charge a
+8 	 5 	 (N/N)/N[num] 	 1 	 charge $
+8 	 9 	 (S[ng]\NP)/PP 	 1 	 charge stemming <XB>
+10 	 9 	 (S[ng]\NP)/PP 	 2 	 from stemming
+13 	 10 	 PP/NP 	 1 	 judgment from
+13 	 11 	 NP[nb]/N 	 1 	 judgment a
+13 	 12 	 N/N 	 1 	 judgment litigation
+<\s>
+<s id="wsj_1769.9"> 34
+4 	 2 	 NP[nb]/N 	 1 	 operator the
+4 	 3 	 N/N 	 1 	 operator casino
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 operator said
+5 	 0 	 S/S 	 1 	 said Separately
+7 	 6 	 NP[nb]/N 	 1 	 board its
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 board approved
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 approved said
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 plan approved
+10 	 9 	 NP[nb]/N 	 1 	 plan a
+10 	 12 	 (S[b]\NP)/NP 	 1 	 plan buy-back <XB>
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy-back to
+12 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 buy-back to
+12 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 buy-back in
+12 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 buy-back through <XU>
+13 	 12 	 (S[b]\NP)/NP 	 2 	 as buy-back
+14 	 13 	 ((NP[nb]/N)/PP)/(S[adj]\NP) 	 3 	 many as
+15 	 13 	 ((NP[nb]/N)/PP)/(S[adj]\NP) 	 2 	 as as
+17 	 15 	 PP/NP 	 1 	 million as
+17 	 16 	 N/N 	 1 	 million three
+19 	 13 	 ((NP[nb]/N)/PP)/(S[adj]\NP) 	 1 	 shares as
+19 	 18 	 N/N 	 1 	 shares common
+21 	 20 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 time from
+22 	 20 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 to from
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 time to
+26 	 25 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 in either
+29 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 market in
+29 	 27 	 NP[nb]/N 	 1 	 market the
+29 	 28 	 N/N 	 1 	 market open
+31 	 25 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 through either
+33 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 transactions through
+33 	 32 	 N/N 	 1 	 transactions private
+<\s>
+<s id="wsj_1769.10"> 14
+3 	 0 	 NP[nb]/N 	 1 	 shares An
+3 	 1 	 N/N 	 1 	 shares additional
+3 	 2 	 N/N 	 1 	 shares 299,000
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 shares are
+3 	 5 	 (S[pss]\NP)/PP 	 1 	 shares authorized <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 authorized are
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 authorized under
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 for authorized
+7 	 6 	 PP/NP 	 1 	 repurchase for
+13 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 program under
+13 	 9 	 NP[nb]/N 	 1 	 program an
+13 	 10 	 N/N 	 1 	 program earlier
+13 	 11 	 N/N 	 1 	 program stock
+13 	 12 	 N/N 	 1 	 program buy-back
+<\s>
+<s id="wsj_1769.11"> 38
+1 	 0 	 N/N 	 1 	 Uphoff John
+1 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 Uphoff said
+1 	 19 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Uphoff attributed <XU>
+4 	 3 	 NP[nb]/N 	 1 	 analyst an
+4 	 5 	 (NP\NP)/NP 	 1 	 analyst with
+4 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 analyst said
+4 	 19 	 ((S[dcl]\NP)/PP)/NP 	 1 	 analyst attributed <XU>
+9 	 5 	 (NP\NP)/NP 	 2 	 Associates with
+9 	 6 	 N/N 	 1 	 Associates Raymond
+9 	 7 	 N/N 	 1 	 Associates James
+9 	 8 	 N/N 	 1 	 Associates &
+13 	 12 	 NP[nb]/N 	 1 	 results the
+13 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 results were
+13 	 16 	 S[adj]\NP 	 1 	 results surprising <XB>
+14 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 were n't
+16 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 surprising were
+21 	 19 	 ((S[dcl]\NP)/PP)/NP 	 3 	 buy-back attributed
+21 	 20 	 NP[nb]/N 	 1 	 buy-back the
+22 	 19 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to attributed
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 management 's
+25 	 22 	 PP/NP 	 1 	 confidence to
+25 	 24 	 (NP[nb]/N)\NP 	 1 	 confidence 's
+25 	 26 	 (NP\NP)/NP 	 1 	 confidence in
+28 	 27 	 NP[nb]/N 	 1 	 Mirage the
+28 	 29 	 (NP[nb]/N)\NP 	 2 	 Mirage 's
+30 	 26 	 (NP\NP)/NP 	 2 	 ability in
+30 	 29 	 (NP[nb]/N)\NP 	 1 	 ability 's
+30 	 32 	 (S[b]\NP)/NP 	 1 	 ability generate <XB>
+30 	 36 	 (NP\NP)/NP 	 1 	 ability in
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 generate to
+35 	 32 	 (S[b]\NP)/NP 	 2 	 flow generate
+35 	 33 	 N/N 	 1 	 flow strong
+35 	 34 	 N/N 	 1 	 flow cash
+37 	 36 	 (NP\NP)/NP 	 2 	 1990 in
+<\s>
+<s id="wsj_1769.12"> 21
+8 	 2 	 (S/S)/NP 	 2 	 trading in
+8 	 3 	 N/N 	 1 	 trading New
+8 	 4 	 N/N 	 1 	 trading York
+8 	 5 	 N/N 	 1 	 trading Stock
+8 	 6 	 N/N 	 1 	 trading Exchange
+8 	 7 	 N/N 	 1 	 trading composite
+12 	 10 	 N/N 	 1 	 common Golden
+12 	 11 	 N/N 	 1 	 common Nugget
+12 	 13 	 (S[dcl]\NP)/PP 	 1 	 common closed
+13 	 0 	 S/S 	 1 	 closed Yesterday
+13 	 2 	 (S/S)/NP 	 1 	 closed in
+13 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+14 	 13 	 (S[dcl]\NP)/PP 	 2 	 at closed
+15 	 14 	 PP/NP 	 1 	 $ at
+16 	 15 	 N/N[num] 	 1 	 28.25 $
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 $ up
+20 	 19 	 N/N[num] 	 1 	 2 $
+<\s>

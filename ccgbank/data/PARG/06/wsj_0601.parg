@@ -1,0 +1,741 @@
+<s id="wsj_0601.1"> 18
+2 	 0 	 (S/S)/NP 	 2 	 age In
+2 	 1 	 NP[nb]/N 	 1 	 age an
+2 	 3 	 (NP\NP)/NP 	 1 	 age of
+4 	 3 	 (NP\NP)/NP 	 2 	 specialization of
+8 	 6 	 NP[nb]/N 	 1 	 judiciary the
+8 	 7 	 N/N 	 1 	 judiciary federal
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 judiciary is
+9 	 0 	 (S/S)/NP 	 1 	 is In
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 one is
+10 	 11 	 (NP\NP)/NP 	 1 	 one of
+14 	 11 	 (NP\NP)/NP 	 2 	 bastions of
+14 	 12 	 NP[nb]/N 	 1 	 bastions the
+14 	 13 	 N/N 	 1 	 bastions last
+14 	 15 	 (NP\NP)/NP 	 1 	 bastions of
+17 	 15 	 (NP\NP)/NP 	 2 	 generalist of
+17 	 16 	 NP[nb]/N 	 1 	 generalist the
+<\s>
+<s id="wsj_0601.3"> 27
+5 	 2 	 (S/S)/NP 	 2 	 bench on
+5 	 3 	 NP[nb]/N 	 1 	 bench the
+5 	 4 	 N/N 	 1 	 bench federal
+7 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 specialization is
+7 	 9 	 S[ng]\NP 	 1 	 specialization creeping <XB>
+8 	 0 	 S/S 	 1 	 is But
+8 	 1 	 S/S 	 1 	 is even
+8 	 2 	 (S/S)/NP 	 1 	 is on
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 creeping is
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 creeping in
+13 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+13 	 15 	 (S[pt]\NP)/NP 	 1 	 it become <XB>
+14 	 0 	 S/S 	 1 	 has But
+14 	 1 	 S/S 	 1 	 has even
+14 	 2 	 (S/S)/NP 	 1 	 has on
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 become has
+15 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 become on
+17 	 15 	 (S[pt]\NP)/NP 	 2 	 subject become
+17 	 16 	 NP[nb]/N 	 1 	 subject a
+17 	 18 	 (NP\NP)/NP 	 1 	 subject of
+20 	 18 	 (NP\NP)/NP 	 2 	 controversy of
+20 	 19 	 N/N 	 1 	 controversy sharp
+26 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 court on
+26 	 22 	 NP[nb]/N 	 1 	 court the
+26 	 23 	 N/N 	 1 	 court newest
+26 	 24 	 N/N 	 1 	 court federal
+26 	 25 	 N/N 	 1 	 court appeals
+<\s>
+<s id="wsj_0601.4"> 29
+1 	 0 	 NP[nb]/N 	 1 	 Court The
+1 	 2 	 (NP\NP)/NP 	 1 	 Court of
+1 	 4 	 (NP\NP)/NP 	 1 	 Court for
+1 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Court was
+1 	 9 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Court created <XB>
+1 	 13 	 (S[b]\NP)/PP 	 1 	 Court serve <XB>
+3 	 2 	 (NP\NP)/NP 	 2 	 Appeals of
+7 	 4 	 (NP\NP)/NP 	 2 	 Circuit for
+7 	 5 	 NP[nb]/N 	 1 	 Circuit the
+7 	 6 	 N/N 	 1 	 Circuit Federal
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 created was
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 created in
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 1982 in
+12 	 9 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to created
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 serve to
+13 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 serve among
+13 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 serve for
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 things among
+17 	 16 	 N/N 	 1 	 things other
+19 	 13 	 (S[b]\NP)/PP 	 2 	 as serve
+21 	 19 	 PP/NP 	 1 	 court as
+21 	 20 	 NP[nb]/N 	 1 	 court the
+21 	 22 	 (NP\NP)/NP 	 1 	 court of
+24 	 22 	 (NP\NP)/NP 	 2 	 resort of
+24 	 23 	 N/N 	 1 	 resort last
+28 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 disputes for
+28 	 26 	 N/N 	 1 	 disputes most
+28 	 27 	 N/N 	 1 	 disputes patent
+<\s>
+<s id="wsj_0601.5"> 17
+3 	 2 	 N/N 	 1 	 cases patent
+3 	 4 	 S[dcl]\NP 	 1 	 cases moved
+4 	 0 	 S/S 	 1 	 moved Previously
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 moved through
+4 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 moved to
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 system through
+8 	 6 	 NP[nb]/N 	 1 	 system the
+8 	 7 	 N/N 	 1 	 system court
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 one to
+10 	 11 	 (NP\NP)/NP 	 1 	 one of
+16 	 11 	 (NP\NP)/NP 	 2 	 courts of
+16 	 12 	 NP[nb]/N 	 1 	 courts the
+16 	 13 	 N/N 	 1 	 courts 12
+16 	 14 	 N/N 	 1 	 courts circuit
+16 	 15 	 N/N 	 1 	 courts appeals
+<\s>
+<s id="wsj_0601.6"> 26
+2 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 judges who
+2 	 4 	 (S[dcl]\NP)/NP 	 1 	 judges saw <XB>
+2 	 9 	 (S[dcl]\NP)/NP 	 1 	 judges had <XU>
+2 	 15 	 (S[dcl]\NP)/PP 	 1 	 judges grappled
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 saw who
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 cases saw
+7 	 5 	 N/N 	 1 	 cases few
+7 	 6 	 N/N 	 1 	 cases such
+9 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had who
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 experience had
+11 	 10 	 NP[nb]/N 	 1 	 experience no
+11 	 12 	 (NP\NP)/NP 	 1 	 experience in
+14 	 12 	 (NP\NP)/NP 	 2 	 field in
+14 	 13 	 NP[nb]/N 	 1 	 field the
+15 	 0 	 S/S 	 1 	 grappled There
+16 	 15 	 (S[dcl]\NP)/PP 	 2 	 with grappled
+17 	 16 	 PP/NP 	 1 	 some with
+17 	 18 	 (NP\NP)/NP 	 1 	 some of
+21 	 20 	 (N/N)/(N/N) 	 2 	 technical most
+23 	 20 	 (N/N)/(N/N) 	 2 	 complex most
+24 	 18 	 (NP\NP)/NP 	 2 	 disputes of
+24 	 19 	 NP[nb]/N 	 1 	 disputes the
+24 	 21 	 N/N 	 1 	 disputes technical <XU>
+24 	 23 	 N/N 	 1 	 disputes complex
+24 	 25 	 S[adj]\NP 	 1 	 disputes imaginable <XB>
+<\s>
+<s id="wsj_0601.7"> 23
+3 	 0 	 NP[nb]/N 	 1 	 court A
+3 	 1 	 N/N 	 1 	 court new
+3 	 2 	 N/N 	 1 	 court specialty
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 court was
+3 	 5 	 S[pss]\NP 	 1 	 court sought <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sought was
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 sought by
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 experts by
+8 	 7 	 N/N 	 1 	 experts patent
+8 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 experts who
+8 	 11 	 (S[dcl]\NP)/S[em] 	 1 	 experts believed <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 believed who
+12 	 11 	 (S[dcl]\NP)/S[em] 	 2 	 that believed
+14 	 13 	 NP[nb]/N 	 1 	 generalists the
+14 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 generalists had
+14 	 16 	 (S[pt]\NP)/NP 	 1 	 generalists botched <XB>
+15 	 12 	 S[em]/S[dcl] 	 1 	 had that
+16 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 botched had
+18 	 17 	 (N/N)/(N/N) 	 2 	 many too
+22 	 16 	 (S[pt]\NP)/NP 	 2 	 cases botched
+22 	 18 	 N/N 	 1 	 cases many
+22 	 19 	 N/N 	 1 	 cases important
+22 	 21 	 N/N 	 1 	 cases multimillion-dollar
+<\s>
+<s id="wsj_0601.8"> 18
+2 	 0 	 NP[nb]/N 	 1 	 lawyers Some
+2 	 1 	 N/N 	 1 	 lawyers patent
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 lawyers had
+2 	 4 	 (S[pt]\NP)/S[em] 	 1 	 lawyers hoped <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 hoped had
+5 	 4 	 (S[pt]\NP)/S[em] 	 2 	 that hoped
+9 	 6 	 NP/NP 	 1 	 court such
+9 	 7 	 NP[nb]/N 	 1 	 court a
+9 	 8 	 N/N 	 1 	 court specialty
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 court would
+9 	 12 	 (S[pss]\NP)/PP 	 1 	 court filled <XB>
+10 	 5 	 S[em]/S[dcl] 	 1 	 would that
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 filled be
+13 	 12 	 (S[pss]\NP)/PP 	 2 	 with filled
+14 	 13 	 PP/NP 	 1 	 experts with
+14 	 15 	 (NP\NP)/NP 	 1 	 experts in
+17 	 15 	 (NP\NP)/NP 	 2 	 field in
+17 	 16 	 NP[nb]/N 	 1 	 field the
+<\s>
+<s id="wsj_0601.9"> 13
+3 	 1 	 NP[nb]/N 	 1 	 administration the
+3 	 2 	 N/N 	 1 	 administration Reagan
+3 	 4 	 S[dcl]\NP 	 1 	 administration thought
+4 	 0 	 S/S 	 1 	 thought But
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 thought otherwise
+8 	 0 	 S/S 	 1 	 so But
+9 	 8 	 S[dcl]/S[inv] 	 1 	 may so
+12 	 9 	 S[inv]/NP 	 1 	 administration may
+12 	 10 	 NP[nb]/N 	 1 	 administration the
+12 	 11 	 N/N 	 1 	 administration Bush
+<\s>
+<s id="wsj_0601.10"> 17
+1 	 0 	 (S/S)/NP 	 2 	 1984 Since
+4 	 3 	 NP[nb]/N 	 1 	 president the
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 president has
+4 	 6 	 ((S[pt]\NP)/PP)/NP 	 1 	 president filled <XB>
+5 	 0 	 (S/S)/NP 	 1 	 has Since
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 filled has
+8 	 6 	 ((S[pt]\NP)/PP)/NP 	 3 	 vacancies filled
+8 	 7 	 N/N 	 1 	 vacancies four
+8 	 9 	 (NP\NP)/NP 	 1 	 vacancies in
+13 	 9 	 (NP\NP)/NP 	 2 	 court in
+13 	 10 	 NP[nb]/N 	 1 	 court the
+13 	 11 	 N/N 	 1 	 court Federal
+13 	 12 	 N/N 	 1 	 court Circuit
+14 	 6 	 ((S[pt]\NP)/PP)/NP 	 2 	 with filled
+16 	 14 	 PP/NP 	 1 	 lawyers with
+16 	 15 	 N/N 	 1 	 lawyers non-patent
+<\s>
+<s id="wsj_0601.11"> 28
+2 	 1 	 N/N 	 1 	 three only
+2 	 3 	 (N\N)/NP 	 1 	 three of
+2 	 7 	 (NP\NP)/NP 	 1 	 three --
+2 	 25 	 (S[dcl]\NP)/NP 	 1 	 three have
+6 	 3 	 (N\N)/NP 	 2 	 judges of
+6 	 4 	 NP[nb]/N 	 1 	 judges the
+6 	 5 	 N/N 	 1 	 judges 12
+9 	 7 	 (NP\NP)/NP 	 2 	 Newman --
+9 	 8 	 N/N 	 1 	 Newman Pauline
+15 	 7 	 (NP\NP)/NP 	 2 	 Markey --
+15 	 11 	 N/N 	 1 	 Markey Chief
+15 	 12 	 N/N 	 1 	 Markey Judge
+15 	 13 	 N/N 	 1 	 Markey Howard
+15 	 14 	 N/N 	 1 	 Markey T.
+17 	 7 	 (NP\NP)/NP 	 2 	 68 --
+21 	 7 	 (NP\NP)/NP 	 2 	 Rich --
+21 	 20 	 N/N 	 1 	 Rich Giles
+23 	 7 	 (NP\NP)/NP 	 2 	 85 --
+25 	 0 	 S/S 	 1 	 have Now
+27 	 25 	 (S[dcl]\NP)/NP 	 2 	 backgrounds have
+27 	 26 	 N/N 	 1 	 backgrounds patent-law
+<\s>
+<s id="wsj_0601.12"> 17
+2 	 0 	 NP[nb]/N 	 1 	 two The
+2 	 1 	 N/N 	 1 	 two latter
+2 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 two are
+2 	 12 	 (S[ng]\NP)/NP 	 1 	 two approaching <XB>
+7 	 4 	 N/N 	 1 	 Friedman Judge
+7 	 5 	 N/N 	 1 	 Friedman Daniel
+7 	 6 	 N/N 	 1 	 Friedman M.
+7 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Friedman are
+7 	 12 	 (S[ng]\NP)/NP 	 1 	 Friedman approaching <XB>
+9 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 73 are
+9 	 12 	 (S[ng]\NP)/NP 	 1 	 73 approaching <XB>
+12 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 approaching are
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 status approaching
+14 	 13 	 N/N 	 1 	 status senior
+16 	 12 	 (S[ng]\NP)/NP 	 2 	 retirement approaching
+<\s>
+<s id="wsj_0601.13"> 37
+1 	 0 	 N/N 	 1 	 seats Three
+1 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 seats are
+1 	 4 	 S[adj]\NP 	 1 	 seats vacant <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 are currently
+3 	 18 	 (S\S)/S[dcl] 	 1 	 are so
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 vacant are
+7 	 6 	 N/N 	 1 	 others three
+7 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 others are
+7 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 others likely <XB>
+8 	 18 	 (S\S)/S[dcl] 	 1 	 are so
+9 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely are
+10 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 filled be
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 filled within
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 years within
+16 	 14 	 NP[nb]/N 	 1 	 years a
+16 	 15 	 N/N 	 1 	 years few
+20 	 19 	 N/N 	 1 	 lawyers patent
+20 	 24 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 lawyers are
+20 	 25 	 (S[ng]\NP)/NP 	 1 	 lawyers making <XB>
+23 	 22 	 N/N 	 1 	 industries research-based
+23 	 24 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 industries are
+23 	 25 	 (S[ng]\NP)/NP 	 1 	 industries making <XB>
+24 	 18 	 (S\S)/S[dcl] 	 2 	 are so
+25 	 24 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 making are
+28 	 25 	 (S[ng]\NP)/NP 	 2 	 push making
+28 	 26 	 NP[nb]/N 	 1 	 push a
+28 	 27 	 N/N 	 1 	 push new
+28 	 29 	 (NP\NP)/NP 	 1 	 push for
+30 	 29 	 (NP\NP)/NP 	 2 	 specialists for
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+33 	 32 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 added be
+34 	 33 	 (S[pss]\NP)/PP 	 2 	 to added
+36 	 34 	 PP/NP 	 1 	 court to
+36 	 35 	 NP[nb]/N 	 1 	 court the
+<\s>
+<s id="wsj_0601.14"> 31
+1 	 0 	 N/N 	 1 	 organizations Several
+1 	 3 	 (NP\NP)/NP 	 1 	 organizations including
+1 	 15 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 1 	 organizations asked <XB>
+7 	 3 	 (NP\NP)/NP 	 2 	 Association including
+7 	 4 	 NP[nb]/N 	 1 	 Association the
+7 	 5 	 N/N 	 1 	 Association Industrial
+7 	 6 	 N/N 	 1 	 Association Biotechnical
+12 	 3 	 (NP\NP)/NP 	 2 	 Association including
+12 	 9 	 NP[nb]/N 	 1 	 Association the
+12 	 10 	 N/N 	 1 	 Association Pharmaceutical
+12 	 11 	 N/N 	 1 	 Association Manufacturers
+15 	 14 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 asked have
+18 	 15 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 3 	 House asked
+18 	 16 	 NP[nb]/N 	 1 	 House the
+18 	 17 	 N/N 	 1 	 House White
+18 	 23 	 (S[b]\NP)/NP 	 1 	 House name <XB>
+21 	 15 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 3 	 Department asked
+21 	 20 	 N/N 	 1 	 Department Justice
+21 	 23 	 (S[b]\NP)/NP 	 1 	 Department name <XB>
+22 	 15 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 2 	 to asked
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 name to
+24 	 23 	 (S[b]\NP)/NP 	 2 	 candidates name
+24 	 25 	 (NP\NP)/NP 	 1 	 candidates with
+27 	 26 	 N/N 	 1 	 patent both
+27 	 30 	 NP\N 	 1 	 patent backgrounds
+29 	 26 	 N/N 	 1 	 scientific both
+29 	 30 	 NP\N 	 1 	 scientific backgrounds
+30 	 25 	 (NP\NP)/NP 	 2 	 backgrounds with
+<\s>
+<s id="wsj_0601.15"> 16
+1 	 0 	 NP[nb]/N 	 1 	 associations The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 associations would
+1 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 associations like <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 like would
+5 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 court like
+5 	 4 	 NP[nb]/N 	 1 	 court the
+5 	 7 	 (S[b]\NP)/NP 	 1 	 court include <XB>
+6 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to like
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 include to
+9 	 8 	 (N/N)/(N/N) 	 2 	 three between
+11 	 8 	 (N/N)/(N/N) 	 2 	 six between
+12 	 7 	 (S[b]\NP)/NP 	 2 	 judges include
+12 	 9 	 N/N 	 1 	 judges three <XU>
+12 	 11 	 N/N 	 1 	 judges six
+12 	 13 	 (NP\NP)/NP 	 1 	 judges with
+15 	 13 	 (NP\NP)/NP 	 2 	 training with
+15 	 14 	 N/N 	 1 	 training specialized
+<\s>
+<s id="wsj_0601.16"> 35
+0 	 1 	 (NP\NP)/NP 	 1 	 Some of
+0 	 5 	 (S[pt]\NP)/NP 	 1 	 Some recommended <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 associations of
+3 	 2 	 NP[nb]/N 	 1 	 associations the
+5 	 4 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 recommended have
+9 	 5 	 (S[pt]\NP)/NP 	 2 	 Lourie recommended
+9 	 6 	 N/N 	 1 	 Lourie Dr.
+9 	 7 	 N/N 	 1 	 Lourie Alan
+9 	 8 	 N/N 	 1 	 Lourie D.
+11 	 5 	 (S[pt]\NP)/NP 	 2 	 54 recommended
+16 	 5 	 (S[pt]\NP)/NP 	 2 	 agent recommended
+16 	 13 	 NP[nb]/N 	 1 	 agent a
+16 	 14 	 N/N 	 1 	 agent former
+16 	 15 	 N/N 	 1 	 agent patent
+16 	 17 	 (NP\NP)/NP 	 1 	 agent with
+16 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 agent who
+16 	 25 	 (S[dcl]\NP)/NP 	 1 	 agent is <XB>
+19 	 17 	 (NP\NP)/NP 	 2 	 doctorate with
+19 	 18 	 NP[nb]/N 	 1 	 doctorate a
+19 	 20 	 (NP\NP)/NP 	 1 	 doctorate in
+22 	 20 	 (NP\NP)/NP 	 2 	 chemistry in
+22 	 21 	 N/N 	 1 	 chemistry organic
+25 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is who
+25 	 24 	 (S\NP)/(S\NP) 	 2 	 is now
+28 	 25 	 (S[dcl]\NP)/NP 	 2 	 counsel is
+28 	 26 	 N/N 	 1 	 counsel associate
+28 	 27 	 N/N 	 1 	 counsel general
+28 	 29 	 (NP\NP)/NP 	 1 	 counsel with
+32 	 29 	 (NP\NP)/NP 	 2 	 Corp. with
+32 	 30 	 N/N 	 1 	 Corp. SmithKline
+32 	 31 	 N/N 	 1 	 Corp. Beckman
+32 	 33 	 (NP\NP)/NP 	 1 	 Corp. in
+34 	 33 	 (NP\NP)/NP 	 2 	 Philadelphia in
+<\s>
+<s id="wsj_0601.17"> 10
+1 	 0 	 N/N 	 1 	 Lourie Dr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Lourie says
+5 	 3 	 NP[nb]/N 	 1 	 Department the
+5 	 4 	 N/N 	 1 	 Department Justice
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Department interviewed
+6 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 interviewed says
+6 	 9 	 (S\NP)\(S\NP) 	 2 	 interviewed July
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 him interviewed
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 July last
+<\s>
+<s id="wsj_0601.18"> 11
+1 	 0 	 NP[nb]/N 	 1 	 effort Their
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 effort has
+1 	 3 	 ((S[pt]\NP)/PP)/NP 	 1 	 effort received <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 received has
+6 	 3 	 ((S[pt]\NP)/PP)/NP 	 3 	 response received
+6 	 4 	 NP[nb]/N 	 1 	 response a
+6 	 5 	 N/N 	 1 	 response lukewarm
+7 	 3 	 ((S[pt]\NP)/PP)/NP 	 2 	 from received
+10 	 7 	 PP/NP 	 1 	 Department from
+10 	 8 	 NP[nb]/N 	 1 	 Department the
+10 	 9 	 N/N 	 1 	 Department Justice
+<\s>
+<s id="wsj_0601.19"> 31
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 We do
+0 	 3 	 (S[b]\NP)/S[em] 	 1 	 We feel <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 do not
+1 	 14 	 (S[dcl]\S[dcl])/NP 	 1 	 do says
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 feel do
+4 	 3 	 (S[b]\NP)/S[em] 	 2 	 that feel
+5 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 seats are
+5 	 7 	 S[pss]\NP 	 1 	 seats reserved <XB>
+6 	 4 	 S[em]/S[dcl] 	 1 	 are that
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 reserved are
+7 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 reserved for
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 lawyers for
+11 	 10 	 N/N 	 1 	 lawyers patent
+18 	 14 	 (S[dcl]\S[dcl])/NP 	 2 	 Runkel says
+18 	 15 	 N/N 	 1 	 Runkel Justice
+18 	 16 	 N/N 	 1 	 Runkel spokesman
+18 	 17 	 N/N 	 1 	 Runkel David
+18 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Runkel who
+18 	 21 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Runkel declines <XB>
+18 	 23 	 (S[b]\NP)/S[qem] 	 1 	 Runkel say <XB>
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 declines who
+22 	 21 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declines
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 say to
+24 	 23 	 (S[b]\NP)/S[qem] 	 2 	 how say
+25 	 24 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 2 	 soon how
+27 	 26 	 NP[nb]/N 	 1 	 candidate a
+27 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 candidate will
+27 	 30 	 S[pss]\NP 	 1 	 candidate named <XB>
+28 	 24 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 1 	 will how
+29 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+30 	 29 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 named be
+<\s>
+<s id="wsj_0601.20"> 7
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 we will
+1 	 3 	 ((S[b]\NP)/PP)/NP 	 1 	 we take <XB>
+2 	 0 	 S/S 	 1 	 will But
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take will
+4 	 3 	 ((S[b]\NP)/PP)/NP 	 3 	 it take
+5 	 3 	 ((S[b]\NP)/PP)/NP 	 2 	 into take
+6 	 5 	 PP/NP 	 1 	 consideration into
+<\s>
+<s id="wsj_0601.21"> 47
+2 	 0 	 NP[nb]/N 	 1 	 Department The
+2 	 1 	 N/N 	 1 	 Department Justice
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Department 's
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 view 's
+4 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 view is
+4 	 6 	 S[pss]\NP 	 1 	 view shared <XB>
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 shared is
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 shared by
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 lawyers by
+9 	 8 	 N/N 	 1 	 lawyers other
+12 	 11 	 ((N/N)/(N/N))/(S[asup]\NP) 	 3 	 least at
+13 	 11 	 ((N/N)/(N/N))/(S[asup]\NP) 	 2 	 one at
+14 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 member by
+14 	 13 	 N/N 	 1 	 member one
+14 	 15 	 (NP\NP)/NP 	 1 	 member of
+17 	 15 	 (NP\NP)/NP 	 2 	 court of
+17 	 16 	 NP[nb]/N 	 1 	 court the
+22 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Mayer by
+22 	 19 	 N/N 	 1 	 Mayer Judge
+22 	 20 	 N/N 	 1 	 Mayer H.
+22 	 21 	 N/N 	 1 	 Mayer Robert
+27 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 litigator by
+27 	 24 	 NP[nb]/N 	 1 	 litigator a
+27 	 25 	 N/N 	 1 	 litigator former
+27 	 26 	 N/N 	 1 	 litigator civil
+27 	 28 	 (NP\NP)/(S[dcl]\NP) 	 1 	 litigator who
+27 	 29 	 S[dcl]\NP 	 1 	 litigator served <XB>
+29 	 28 	 (NP\NP)/(S[dcl]\NP) 	 2 	 served who
+29 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 served at
+29 	 36 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 served before
+35 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 level at
+35 	 31 	 NP[nb]/N 	 1 	 level the
+35 	 32 	 N/N 	 1 	 level claims
+35 	 33 	 N/N 	 1 	 level court
+35 	 34 	 N/N 	 1 	 level trial
+37 	 38 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 he was
+37 	 39 	 (S[pss]\NP)/PP 	 1 	 he appointed <XB>
+38 	 36 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was before
+39 	 38 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 appointed was
+39 	 46 	 ((S\NP)\(S\NP))\NP 	 2 	 appointed ago
+40 	 39 	 (S[pss]\NP)/PP 	 2 	 to appointed
+43 	 40 	 PP/NP 	 1 	 Circuit to
+43 	 41 	 NP[nb]/N 	 1 	 Circuit the
+43 	 42 	 N/N 	 1 	 Circuit Federal
+45 	 44 	 N/N 	 1 	 years two
+45 	 46 	 ((S\NP)\(S\NP))\NP 	 3 	 years ago
+<\s>
+<s id="wsj_0601.22"> 47
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 I believe
+0 	 21 	 (S[ng]\NP)/S[em] 	 1 	 I adding <XB>
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that believe
+5 	 3 	 NP[nb]/N 	 1 	 lawyer any
+5 	 4 	 N/N 	 1 	 lawyer good
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 lawyer should
+5 	 8 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 lawyer able <XB>
+6 	 2 	 S[em]/S[dcl] 	 1 	 should that
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be should
+8 	 7 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 able be
+9 	 8 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 figure to
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 figure out
+13 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 understand to
+15 	 10 	 (S[b]\NP)/NP 	 2 	 law figure <XU>
+15 	 13 	 (S[b]\NP)/NP 	 2 	 law understand
+15 	 14 	 N/N 	 1 	 law patent
+18 	 17 	 N/N 	 1 	 Mayer Judge
+18 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 Mayer says
+22 	 21 	 (S[ng]\NP)/S[em] 	 2 	 that adding
+23 	 24 	 ((S[dcl]\NP[expl])/(S[to]\NP))/NP 	 1 	 it 's
+24 	 22 	 S[em]/S[dcl] 	 1 	 's that
+26 	 24 	 ((S[dcl]\NP[expl])/(S[to]\NP))/NP 	 3 	 responsibility 's
+26 	 25 	 NP[nb]/N 	 1 	 responsibility the
+26 	 27 	 (NP\NP)/NP 	 1 	 responsibility of
+29 	 28 	 (N/N)/(N/N) 	 2 	 paid highly
+30 	 27 	 (NP\NP)/NP 	 2 	 lawyers of
+30 	 29 	 N/N 	 1 	 lawyers paid
+30 	 32 	 (NP\NP)/(S[dcl]\NP) 	 1 	 lawyers who
+30 	 33 	 S[dcl]\NP 	 1 	 lawyers argue <XB>
+33 	 32 	 (NP\NP)/(S[dcl]\NP) 	 2 	 argue who
+33 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 argue before
+36 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 court before
+36 	 35 	 NP[nb]/N 	 1 	 court the
+38 	 24 	 ((S[dcl]\NP[expl])/(S[to]\NP))/NP 	 2 	 to 's
+39 	 38 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+40 	 39 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 us make
+40 	 41 	 (S[b]\NP)/NP 	 1 	 us understand <XB>
+41 	 39 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 understand make
+45 	 41 	 (S[b]\NP)/NP 	 2 	 litigation understand
+45 	 43 	 N/N 	 1 	 litigation complex
+45 	 44 	 N/N 	 1 	 litigation patent
+<\s>
+<s id="wsj_0601.23"> 41
+2 	 1 	 NP[nb]/N 	 1 	 lawyers some
+2 	 3 	 ((S[dcl]\NP)/PP)/PP 	 1 	 lawyers point
+3 	 0 	 S/S 	 1 	 point Yet
+4 	 3 	 ((S[dcl]\NP)/PP)/PP 	 3 	 to point
+8 	 4 	 PP/NP 	 1 	 Co. to
+8 	 5 	 N/N 	 1 	 Co. Eli
+8 	 6 	 N/N 	 1 	 Co. Lilly
+8 	 7 	 N/N 	 1 	 Co. &
+8 	 9 	 NP\NP 	 1 	 Co. vs.
+8 	 12 	 NP\NP 	 1 	 Co. Inc.
+12 	 10 	 (NP\NP)/(NP\NP) 	 2 	 Inc. Medtronic
+17 	 4 	 PP/NP 	 1 	 case to
+17 	 14 	 NP[nb]/N 	 1 	 case the
+17 	 15 	 N/N 	 1 	 case patent
+17 	 16 	 N/N 	 1 	 case infringement
+17 	 25 	 (S[b]\NP)/NP 	 2 	 case review <XU>
+20 	 18 	 NP[nb]/N 	 1 	 Court the
+20 	 19 	 N/N 	 1 	 Court Supreme
+20 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Court agreed
+20 	 25 	 (S[b]\NP)/NP 	 1 	 Court review <XB>
+22 	 21 	 ((S\NP)/(S\NP))/N 	 3 	 month this
+23 	 21 	 ((S\NP)/(S\NP))/N 	 2 	 agreed this
+24 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 review to
+27 	 3 	 ((S[dcl]\NP)/PP)/PP 	 2 	 as point
+29 	 27 	 PP/NP 	 1 	 example as
+29 	 28 	 NP[nb]/N 	 1 	 example an
+29 	 30 	 (NP\NP)/NP 	 1 	 example of
+33 	 30 	 (NP\NP)/NP 	 2 	 reasoning of
+33 	 31 	 N/N 	 1 	 reasoning poor
+33 	 32 	 N/N 	 1 	 reasoning legal
+33 	 34 	 (NP\NP)/NP 	 1 	 reasoning by
+35 	 34 	 (NP\NP)/NP 	 2 	 judges by
+35 	 36 	 (NP\NP)/(S[dcl]\NP) 	 1 	 judges who
+35 	 37 	 (S[dcl]\NP)/NP 	 1 	 judges lack <XB>
+37 	 36 	 (NP\NP)/(S[dcl]\NP) 	 2 	 lack who
+40 	 37 	 (S[dcl]\NP)/NP 	 2 	 experience lack
+40 	 38 	 N/N 	 1 	 experience patent
+40 	 39 	 N/N 	 1 	 experience litigation
+<\s>
+<s id="wsj_0601.24"> 10
+2 	 1 	 N/N 	 1 	 Mayer Judge
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 Mayer was
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 was not
+5 	 3 	 (S[dcl]\NP)/PP 	 2 	 on was
+8 	 5 	 PP/NP 	 1 	 panel on
+8 	 6 	 NP[nb]/N 	 1 	 panel the
+8 	 7 	 N/N 	 1 	 panel three-member
+<\s>
+<s id="wsj_0601.25"> 31
+3 	 0 	 (S/S)/NP 	 2 	 case In
+3 	 1 	 NP[nb]/N 	 1 	 case the
+3 	 2 	 N/N 	 1 	 case Lilly
+7 	 5 	 NP[nb]/N 	 1 	 court the
+7 	 6 	 N/N 	 1 	 court appeals
+7 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 court construed
+9 	 0 	 (S/S)/NP 	 1 	 construed In
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 construed broadly
+12 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 statute construed
+12 	 10 	 NP[nb]/N 	 1 	 statute a
+12 	 11 	 N/N 	 1 	 statute federal
+12 	 14 	 ((S[b]\NP)/NP)/NP 	 1 	 statute grant <XB>
+13 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to construed
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 grant to
+15 	 14 	 ((S[b]\NP)/NP)/NP 	 3 	 Medtronic grant
+20 	 14 	 ((S[b]\NP)/NP)/NP 	 3 	 manufacturer grant
+20 	 17 	 NP[nb]/N 	 1 	 manufacturer a
+20 	 18 	 N/N 	 1 	 manufacturer medical
+20 	 19 	 N/N 	 1 	 manufacturer device
+23 	 14 	 ((S[b]\NP)/NP)/NP 	 2 	 exemption grant
+23 	 22 	 NP[nb]/N 	 1 	 exemption an
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 infringe to
+25 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 infringe under
+27 	 25 	 (S[b]\NP)/NP 	 2 	 patent infringe
+27 	 26 	 NP[nb]/N 	 1 	 patent a
+30 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 circumstances under
+30 	 29 	 N/N 	 1 	 circumstances certain
+<\s>
+<s id="wsj_0601.26"> 39
+3 	 1 	 NP[nb]/N 	 1 	 Court the
+3 	 2 	 N/N 	 1 	 Court Supreme
+3 	 4 	 (S[dcl]\NP)/PP 	 1 	 Court holds
+4 	 0 	 (S/S)/S[dcl] 	 2 	 holds If
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 in holds
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Medtronic 's
+8 	 5 	 PP/NP 	 1 	 favor in
+8 	 7 	 (NP[nb]/N)\NP 	 1 	 favor 's
+11 	 10 	 NP[nb]/N 	 1 	 decision the
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 decision will
+11 	 13 	 (S[b]\NP)/NP 	 1 	 decision have <XB>
+12 	 0 	 (S/S)/S[dcl] 	 1 	 will If
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+13 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 have for
+15 	 13 	 (S[b]\NP)/NP 	 2 	 consequences have
+15 	 14 	 N/N 	 1 	 consequences billion-dollar
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 manufacturers for
+18 	 17 	 NP[nb]/N 	 1 	 manufacturers the
+18 	 19 	 (NP\NP)/NP 	 1 	 manufacturers of
+21 	 19 	 (NP\NP)/NP 	 2 	 devices of
+21 	 20 	 N/N 	 1 	 devices medical
+26 	 19 	 (NP\NP)/NP 	 2 	 additives of
+26 	 23 	 N/N 	 1 	 additives color
+26 	 25 	 N/N 	 1 	 additives food
+31 	 19 	 (NP\NP)/NP 	 2 	 products of
+31 	 28 	 NP[nb]/N 	 1 	 products all
+31 	 29 	 N/N 	 1 	 products other
+31 	 30 	 N/N 	 1 	 products non-drug
+31 	 32 	 (NP\NP)/(S[dcl]\NP) 	 1 	 products that
+31 	 33 	 (S[dcl]\NP)/NP 	 1 	 products required <XB>
+33 	 32 	 (NP\NP)/(S[dcl]\NP) 	 2 	 required that
+38 	 33 	 (S[dcl]\NP)/NP 	 2 	 approval required
+38 	 34 	 N/N 	 1 	 approval Food
+38 	 35 	 N/N 	 1 	 approval &
+38 	 36 	 N/N 	 1 	 approval Drug
+38 	 37 	 N/N 	 1 	 approval Administration
+<\s>
+<s id="wsj_0601.27"> 34
+1 	 0 	 N/N 	 1 	 Raines Lisa
+1 	 16 	 (S[dcl]\NP)/S[em] 	 1 	 Raines contends
+4 	 3 	 NP[nb]/N 	 1 	 lawyer a
+4 	 10 	 (NP\NP)/NP 	 1 	 lawyer for
+4 	 16 	 (S[dcl]\NP)/S[em] 	 1 	 lawyer contends
+6 	 7 	 (NP\NP)/NP 	 1 	 director of
+6 	 10 	 (NP\NP)/NP 	 1 	 director for
+6 	 16 	 (S[dcl]\NP)/S[em] 	 1 	 director contends
+9 	 7 	 (NP\NP)/NP 	 2 	 relations of
+9 	 8 	 N/N 	 1 	 relations government
+14 	 10 	 (NP\NP)/NP 	 2 	 Association for
+14 	 11 	 NP[nb]/N 	 1 	 Association the
+14 	 12 	 N/N 	 1 	 Association Industrial
+14 	 13 	 N/N 	 1 	 Association Biotechnical
+17 	 16 	 (S[dcl]\NP)/S[em] 	 2 	 that contends
+19 	 18 	 NP[nb]/N 	 1 	 judge a
+19 	 20 	 S[adj]\NP 	 1 	 judge well-versed <XB>
+19 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 judge would
+19 	 32 	 S[pt]\NP 	 1 	 judge ruled <XB>
+20 	 21 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 well-versed in
+23 	 21 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 law in
+23 	 22 	 N/N 	 1 	 law patent
+26 	 21 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 concerns in
+26 	 25 	 NP[nb]/N 	 1 	 concerns the
+26 	 27 	 (NP\NP)/NP 	 1 	 concerns of
+29 	 27 	 (NP\NP)/NP 	 2 	 industries of
+29 	 28 	 N/N 	 1 	 industries research-based
+30 	 17 	 S[em]/S[dcl] 	 1 	 would that
+31 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+32 	 31 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 ruled have
+32 	 33 	 (S\NP)\(S\NP) 	 2 	 ruled otherwise
+<\s>
+<s id="wsj_0601.28"> 55
+2 	 1 	 N/N 	 1 	 Newman Judge
+2 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Newman wrote
+7 	 4 	 NP[nb]/N 	 1 	 lawyer a
+7 	 5 	 N/N 	 1 	 lawyer former
+7 	 6 	 N/N 	 1 	 lawyer patent
+7 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 lawyer wrote
+9 	 0 	 S/S 	 1 	 wrote And
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 wrote in
+9 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 wrote when
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 dissent in
+12 	 11 	 NP[nb]/N 	 1 	 dissent her
+15 	 14 	 NP[nb]/N 	 1 	 court the
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 court denied
+16 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 denied when
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 motion denied
+18 	 17 	 NP[nb]/N 	 1 	 motion a
+18 	 19 	 (NP\NP)/NP 	 1 	 motion for
+21 	 19 	 (NP\NP)/NP 	 2 	 rehearing for
+21 	 20 	 NP[nb]/N 	 1 	 rehearing a
+21 	 22 	 (NP\NP)/NP 	 1 	 rehearing of
+21 	 25 	 (NP\NP)/NP 	 1 	 rehearing by
+24 	 22 	 (NP\NP)/NP 	 2 	 case of
+24 	 23 	 NP[nb]/N 	 1 	 case the
+28 	 25 	 (NP\NP)/NP 	 2 	 court by
+28 	 26 	 NP[nb]/N 	 1 	 court the
+28 	 27 	 N/N 	 1 	 court full
+31 	 30 	 NP[nb]/N 	 1 	 panel The
+31 	 32 	 (NP[nb]/N)\NP 	 2 	 panel 's
+34 	 32 	 (NP[nb]/N)\NP 	 1 	 legislation 's
+34 	 33 	 N/N 	 1 	 legislation judicial
+34 	 35 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 legislation has
+34 	 36 	 (S[pt]\NP)/NP 	 1 	 legislation affected <XB>
+35 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 has wrote
+36 	 35 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 affected has
+36 	 42 	 ((S\NP)\(S\NP))/NP 	 2 	 affected without
+40 	 36 	 (S[pt]\NP)/NP 	 2 	 industry affected
+40 	 37 	 NP[nb]/N 	 1 	 industry an
+40 	 38 	 N/N 	 1 	 industry important
+40 	 39 	 N/N 	 1 	 industry high-technological
+43 	 42 	 ((S\NP)\(S\NP))/NP 	 3 	 regard without
+43 	 44 	 (NP\NP)/NP 	 1 	 regard to
+46 	 44 	 (NP\NP)/NP 	 2 	 consequences to
+46 	 45 	 NP[nb]/N 	 1 	 consequences the
+46 	 47 	 (NP\NP)/NP 	 1 	 consequences for
+48 	 47 	 (NP\NP)/NP 	 2 	 research for
+50 	 47 	 (NP\NP)/NP 	 2 	 innovation for
+54 	 47 	 (NP\NP)/NP 	 2 	 interest for
+54 	 52 	 NP[nb]/N 	 1 	 interest the
+54 	 53 	 N/N 	 1 	 interest public
+<\s>
+<s id="wsj_0601.29"> 23
+2 	 0 	 (S[dcl]/S[dcl])/NP 	 2 	 Raines Says
+2 	 1 	 N/N 	 1 	 Raines Ms.
+6 	 5 	 NP[nb]/N 	 1 	 judgment The
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 judgment confirms
+8 	 0 	 (S[dcl]/S[dcl])/NP 	 1 	 confirms Says
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 concern confirms
+10 	 9 	 NP[nb]/N 	 1 	 concern our
+11 	 10 	 N/S[em] 	 1 	 that concern
+13 	 12 	 NP[nb]/N 	 1 	 absence the
+13 	 14 	 (NP\NP)/NP 	 1 	 absence of
+13 	 17 	 (NP\NP)/NP 	 1 	 absence on
+13 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 absence could
+13 	 21 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 absence prove <XB>
+13 	 22 	 S[adj]\NP 	 1 	 absence troublesome <XB>
+16 	 14 	 (NP\NP)/NP 	 2 	 lawyers of
+16 	 15 	 N/N 	 1 	 lawyers patent
+19 	 17 	 (NP\NP)/NP 	 2 	 court on
+19 	 18 	 NP[nb]/N 	 1 	 court the
+20 	 11 	 S[em]/S[dcl] 	 1 	 could that
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 prove could
+22 	 21 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 troublesome prove
+<\s>

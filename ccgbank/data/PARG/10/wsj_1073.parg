@@ -1,0 +1,62 @@
+<s id="wsj_1073.1"> 16
+3 	 0 	 N/N 	 1 	 Inc. Advanced
+3 	 1 	 N/N 	 1 	 Inc. Medical
+3 	 2 	 N/N 	 1 	 Inc. Technologies
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 it purchased
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 purchased said
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 % purchased
+8 	 7 	 N/N 	 1 	 % 93
+8 	 9 	 (NP\NP)/NP 	 1 	 % of
+11 	 9 	 (NP\NP)/NP 	 2 	 unit of
+11 	 10 	 NP[nb]/N 	 1 	 unit a
+11 	 12 	 (NP\NP)/NP 	 1 	 unit of
+15 	 12 	 (NP\NP)/NP 	 2 	 Inc of
+15 	 13 	 N/N 	 1 	 Inc Henley
+15 	 14 	 N/N 	 1 	 Inc Group
+<\s>
+<s id="wsj_1073.2"> 20
+1 	 0 	 N/N 	 1 	 Medical Advanced
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Medical paid
+3 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 $ paid
+3 	 6 	 (NP\NP)/NP 	 1 	 $ in
+5 	 3 	 N/N[num] 	 1 	 million $
+5 	 4 	 N/N 	 1 	 million 106
+7 	 6 	 (NP\NP)/NP 	 2 	 cash in
+8 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for paid
+10 	 8 	 PP/NP 	 1 	 share for
+10 	 9 	 NP[nb]/N 	 1 	 share its
+10 	 11 	 (NP\NP)/NP 	 1 	 share in
+13 	 11 	 (NP\NP)/NP 	 2 	 unit in
+13 	 12 	 NP[nb]/N 	 1 	 unit a
+13 	 14 	 (NP\NP)/NP 	 1 	 unit of
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Henley 's
+19 	 14 	 (NP\NP)/NP 	 2 	 subsidiary of
+19 	 16 	 (NP[nb]/N)\NP 	 1 	 subsidiary 's
+19 	 17 	 N/N 	 1 	 subsidiary Fisher
+19 	 18 	 N/N 	 1 	 subsidiary Scientific
+<\s>
+<s id="wsj_1073.3"> 24
+1 	 0 	 NP[nb]/N 	 1 	 unit The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 unit makes
+1 	 9 	 (S[dcl]\NP)/NP 	 1 	 unit had <XU>
+2 	 20 	 ((S\NP)\(S\NP))/PP 	 2 	 makes according
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 pumps makes
+4 	 3 	 N/N 	 1 	 pumps intravenous
+4 	 5 	 S[pss]\NP 	 1 	 pumps used <XB>
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 used by
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 hospitals by
+9 	 18 	 (S\NP)\(S\NP) 	 2 	 had year
+9 	 20 	 ((S\NP)\(S\NP))/PP 	 2 	 had according
+10 	 11 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 $ had
+12 	 11 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+12 	 15 	 (NP\NP)/NP 	 1 	 $ in
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 110
+16 	 15 	 (NP\NP)/NP 	 2 	 sales in
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year last
+21 	 20 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+23 	 21 	 PP/NP 	 1 	 Medical to
+23 	 22 	 N/N 	 1 	 Medical Advanced
+<\s>

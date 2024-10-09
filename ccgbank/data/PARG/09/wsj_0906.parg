@@ -1,0 +1,101 @@
+<s id="wsj_0906.1"> 28
+3 	 0 	 N/N 	 1 	 Inc. Diversified
+3 	 1 	 N/N 	 1 	 Inc. Investment
+3 	 2 	 N/N 	 1 	 Inc. Group
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it agreed
+5 	 9 	 (S[pss]\NP)/PP 	 1 	 it acquired <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 agreed said
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+9 	 8 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 acquired be
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 acquired by
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp. by
+13 	 11 	 N/N 	 1 	 Corp. Star
+13 	 12 	 N/N 	 1 	 Corp. States
+14 	 9 	 (S[pss]\NP)/PP 	 2 	 for acquired
+15 	 14 	 PP/NP 	 1 	 stock for
+15 	 16 	 (S[pss]\NP)/PP 	 1 	 stock valued <XB>
+17 	 16 	 (S[pss]\NP)/PP 	 2 	 at valued
+18 	 17 	 PP/NP 	 1 	 $ at
+18 	 20 	 (NP\NP)/N 	 1 	 $ a
+19 	 18 	 N/N[num] 	 1 	 13.75 $
+21 	 20 	 (NP\NP)/N 	 2 	 share a
+25 	 17 	 PP/NP 	 1 	 $ at
+25 	 24 	 N/N 	 1 	 $ about
+27 	 25 	 N/N[num] 	 1 	 million $
+27 	 26 	 N/N 	 1 	 million 24.4
+<\s>
+<s id="wsj_0906.2"> 34
+0 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 Diversified said
+4 	 2 	 NP[nb]/N 	 1 	 company the
+4 	 3 	 N/N 	 1 	 company holding
+4 	 5 	 (NP\NP)/NP 	 1 	 company for
+4 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+11 	 5 	 (NP\NP)/NP 	 2 	 Association for
+11 	 6 	 N/N 	 1 	 Association Fidelity
+11 	 7 	 N/N 	 1 	 Association Federal
+11 	 8 	 N/N 	 1 	 Association Savings
+11 	 9 	 N/N 	 1 	 Association &
+11 	 10 	 N/N 	 1 	 Association Loan
+15 	 14 	 NP[nb]/N 	 1 	 agreement the
+15 	 17 	 ((S[dcl]\NP)/NP)/NP 	 1 	 agreement gives
+17 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 gives said
+17 	 16 	 (S\NP)/(S\NP) 	 2 	 gives also
+19 	 17 	 ((S[dcl]\NP)/NP)/NP 	 3 	 States gives
+19 	 18 	 N/N 	 1 	 States Star
+21 	 17 	 ((S[dcl]\NP)/NP)/NP 	 2 	 option gives
+21 	 20 	 NP[nb]/N 	 1 	 option the
+21 	 23 	 (S[b]\NP)/NP 	 1 	 option acquire <XB>
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+23 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 acquire under
+24 	 23 	 (S[b]\NP)/NP 	 2 	 588,300 acquire
+24 	 25 	 (NP\NP)/NP 	 1 	 588,300 of
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 Diversified 's
+29 	 25 	 (NP\NP)/NP 	 2 	 shares of
+29 	 27 	 (NP[nb]/N)\NP 	 1 	 shares 's
+29 	 28 	 N/N 	 1 	 shares 1,774,326
+29 	 30 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+33 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 circumstances under
+33 	 32 	 N/N 	 1 	 circumstances certain
+<\s>
+<s id="wsj_0906.3"> 14
+1 	 0 	 NP[nb]/N 	 1 	 acquisition The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 acquisition would
+1 	 3 	 ((S[b]\NP)/NP)/NP 	 1 	 acquisition give <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give would
+6 	 4 	 (N/N)/(N/N) 	 2 	 Del.-based Wilmington
+8 	 3 	 ((S[b]\NP)/NP)/NP 	 3 	 States give
+8 	 6 	 N/N 	 1 	 States Del.-based
+8 	 7 	 N/N 	 1 	 States Star
+9 	 3 	 ((S[b]\NP)/NP)/NP 	 2 	 access give
+9 	 10 	 (NP\NP)/NP 	 1 	 access to
+13 	 10 	 (NP\NP)/NP 	 2 	 market to
+13 	 11 	 NP[nb]/N 	 1 	 market the
+13 	 12 	 N/N 	 1 	 market Pennsylvania
+<\s>
+<s id="wsj_0906.4"> 22
+1 	 0 	 NP[nb]/N 	 1 	 agreement The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 agreement is
+1 	 3 	 (S[adj]\NP)/PP 	 1 	 agreement subject <XB>
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 subject is
+4 	 3 	 (S[adj]\NP)/PP 	 2 	 to subject
+6 	 4 	 PP/NP 	 1 	 approval to
+6 	 5 	 N/N 	 1 	 approval regulatory
+6 	 9 	 (NP\NP)/NP 	 1 	 approval of
+8 	 4 	 PP/NP 	 1 	 resolution to
+8 	 5 	 N/N 	 1 	 resolution regulatory
+8 	 9 	 (NP\NP)/NP 	 1 	 resolution of
+10 	 9 	 (NP\NP)/NP 	 2 	 lawsuits of
+10 	 11 	 S[pss]\NP 	 1 	 lawsuits brought <XB>
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 brought by
+11 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 brought in
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 holders by
+15 	 13 	 N/N 	 1 	 holders certain
+15 	 14 	 N/N 	 1 	 holders Diversified
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 connection in
+17 	 18 	 (NP\NP)/NP 	 1 	 connection with
+21 	 18 	 (NP\NP)/NP 	 2 	 merger with
+21 	 19 	 NP[nb]/N 	 1 	 merger the
+21 	 20 	 N/N 	 1 	 merger proposed
+<\s>

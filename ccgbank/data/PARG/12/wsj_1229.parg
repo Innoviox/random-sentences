@@ -1,0 +1,52 @@
+<s id="wsj_1229.1"> 15
+2 	 0 	 N/N 	 1 	 Lodge David
+2 	 1 	 N/N 	 1 	 Lodge W.
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Lodge was
+2 	 4 	 (S[pss]\NP)/NP 	 1 	 Lodge elected <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 elected was
+6 	 4 	 (S[pss]\NP)/NP 	 2 	 president elected
+6 	 5 	 N/N 	 1 	 president vice
+6 	 12 	 (S[adj]\NP)/NP 	 1 	 president effective <XB>
+10 	 4 	 (S[pss]\NP)/NP 	 2 	 officer elected
+10 	 8 	 N/N 	 1 	 officer chief
+10 	 9 	 N/N 	 1 	 officer financial
+10 	 12 	 (S[adj]\NP)/NP 	 1 	 officer effective <XB>
+13 	 12 	 (S[adj]\NP)/NP 	 2 	 Nov. effective
+14 	 13 	 N/N[num] 	 1 	 1 Nov.
+<\s>
+<s id="wsj_1229.2"> 36
+1 	 0 	 N/N 	 1 	 Lodge Mr.
+1 	 5 	 (S[adj]\NP)\NP 	 1 	 Lodge old <XB>
+1 	 20 	 (S[dcl]\NP)/NP 	 1 	 Lodge succeeds
+4 	 3 	 N/N 	 1 	 years 48
+4 	 5 	 (S[adj]\NP)\NP 	 2 	 years old
+10 	 7 	 NP[nb]/N 	 1 	 executive a
+10 	 8 	 N/N 	 1 	 executive former
+10 	 9 	 N/N 	 1 	 executive finance
+10 	 11 	 (NP\NP)/NP 	 1 	 executive at
+10 	 20 	 (S[dcl]\NP)/NP 	 1 	 executive succeeds
+15 	 11 	 (NP\NP)/NP 	 2 	 Co. at
+15 	 12 	 N/N 	 1 	 Co. Singer
+15 	 13 	 N/N 	 1 	 Co. Sewing
+15 	 14 	 N/N 	 1 	 Co. Machine
+18 	 11 	 (NP\NP)/NP 	 2 	 Corp. at
+18 	 17 	 N/N 	 1 	 Corp. Celanese
+23 	 20 	 (S[dcl]\NP)/NP 	 2 	 Brophy succeeds
+23 	 21 	 N/N 	 1 	 Brophy Francis
+23 	 22 	 N/N 	 1 	 Brophy L.
+23 	 27 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Brophy who
+23 	 28 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Brophy plans <XB>
+23 	 30 	 (S[b]\NP)/PP 	 1 	 Brophy retire <XB>
+25 	 20 	 (S[dcl]\NP)/NP 	 2 	 64 succeeds
+25 	 27 	 (NP\NP)/(S[dcl]\NP) 	 1 	 64 who
+25 	 28 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 64 plans <XB>
+25 	 30 	 (S[b]\NP)/PP 	 1 	 64 retire <XB>
+28 	 27 	 (NP\NP)/(S[dcl]\NP) 	 2 	 plans who
+29 	 28 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 retire to
+30 	 35 	 (S\NP)\(S\NP) 	 2 	 retire year
+31 	 30 	 (S[b]\NP)/PP 	 2 	 from retire
+33 	 31 	 PP/NP 	 1 	 company from
+33 	 32 	 NP[nb]/N 	 1 	 company the
+35 	 34 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+<\s>

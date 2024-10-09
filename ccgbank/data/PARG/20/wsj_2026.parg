@@ -1,0 +1,224 @@
+<s id="wsj_2026.1"> 21
+3 	 0 	 N/N 	 1 	 Co. Rohm
+3 	 1 	 N/N 	 1 	 Co. &
+3 	 2 	 N/N 	 1 	 Co. Haas
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+7 	 5 	 N/N 	 1 	 income third-quarter
+7 	 6 	 N/N 	 1 	 income net
+7 	 8 	 S[dcl]\NP 	 1 	 income skidded
+8 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 skidded said
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 skidded %
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 skidded to
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 35
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 32.6
+18 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+18 	 17 	 N/N 	 1 	 cents 49
+18 	 19 	 (NP\NP)/N 	 1 	 cents a
+20 	 19 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_2026.2"> 20
+3 	 0 	 (S/S)/NP 	 2 	 quarter In
+3 	 1 	 NP[nb]/N 	 1 	 quarter the
+3 	 2 	 N/N 	 1 	 quarter year-earlier
+7 	 5 	 NP[nb]/N 	 1 	 company the
+7 	 6 	 N/N 	 1 	 company chemicals
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 company had
+8 	 0 	 (S/S)/NP 	 1 	 had In
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 net had
+9 	 10 	 (NP\NP)/NP 	 1 	 net of
+11 	 10 	 (NP\NP)/NP 	 2 	 $ of
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 49.8
+17 	 10 	 (NP\NP)/NP 	 2 	 cents of
+17 	 16 	 N/N 	 1 	 cents 75
+17 	 18 	 (NP\NP)/N 	 1 	 cents a
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_2026.3"> 16
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Sales were
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 $ were
+2 	 6 	 ((NP\NP)/PP)/NP 	 1 	 $ up
+4 	 2 	 N/N[num] 	 1 	 million $
+4 	 3 	 N/N 	 1 	 million 623
+8 	 6 	 ((NP\NP)/PP)/NP 	 3 	 % up
+8 	 7 	 N/N 	 1 	 % 0.5
+9 	 6 	 ((NP\NP)/PP)/NP 	 2 	 from up
+9 	 15 	 (PP\PP)\NP 	 1 	 from ago
+10 	 9 	 PP/NP 	 1 	 $ from
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 619.8
+14 	 13 	 NP[nb]/N 	 1 	 year a
+14 	 15 	 (PP\PP)\NP 	 2 	 year ago
+<\s>
+<s id="wsj_2026.4"> 25
+2 	 0 	 N/N 	 1 	 Haas Rohm
+2 	 1 	 N/N 	 1 	 Haas &
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Haas which
+2 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Haas plans <XB>
+2 	 7 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 Haas start <XB>
+2 	 8 	 (S[ng]\NP)/NP 	 1 	 Haas operating <XB>
+2 	 16 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Haas attributed
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 plans which
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 start to
+7 	 13 	 ((S\NP)\(S\NP))/N 	 2 	 start this
+8 	 7 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 operating start
+12 	 8 	 (S[ng]\NP)/NP 	 2 	 units operating
+12 	 9 	 N/N 	 1 	 units seven
+12 	 10 	 N/N 	 1 	 units new
+12 	 11 	 N/N 	 1 	 units production
+14 	 13 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+19 	 16 	 ((S[dcl]\NP)/PP)/NP 	 3 	 slide attributed
+19 	 17 	 NP[nb]/N 	 1 	 slide the
+19 	 18 	 N/N 	 1 	 slide profit
+21 	 16 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to attributed
+21 	 20 	 PP/PP 	 1 	 to partly
+24 	 21 	 PP/NP 	 1 	 expense to
+24 	 22 	 N/N 	 1 	 expense higher
+24 	 23 	 N/N 	 1 	 expense start-up
+<\s>
+<s id="wsj_2026.5"> 21
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 company cited
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 cited also
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 dollar cited
+6 	 4 	 NP[nb]/N 	 1 	 dollar the
+6 	 5 	 N/N 	 1 	 dollar stronger
+6 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 dollar which
+6 	 9 	 (S[dcl]\NP)/NP 	 1 	 dollar cuts <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 cuts which
+9 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 cuts when
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 value cuts
+11 	 10 	 NP[nb]/N 	 1 	 value the
+11 	 12 	 (NP\NP)/NP 	 1 	 value of
+14 	 12 	 (NP\NP)/NP 	 2 	 profit of
+14 	 13 	 N/N 	 1 	 profit overseas
+16 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 it is
+16 	 18 	 (S[pss]\NP)/PP 	 1 	 it translated <XB>
+17 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is when
+18 	 17 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 translated is
+19 	 18 	 (S[pss]\NP)/PP 	 2 	 into translated
+20 	 19 	 PP/NP 	 1 	 dollars into
+<\s>
+<s id="wsj_2026.6"> 28
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+4 	 3 	 NP[nb]/N 	 1 	 company the
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+7 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 it was
+7 	 9 	 S[pss]\NP 	 1 	 it hurt <XB>
+8 	 0 	 (S/S)/NP 	 1 	 was In
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said <XU>
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 hurt was
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 hurt by
+9 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 hurt though
+11 	 12 	 ((N/N)\(N/N))/(S[adj]\NP) 	 2 	 higher than
+13 	 12 	 ((N/N)\(N/N))/(S[adj]\NP) 	 3 	 previous-year than
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 costs by
+14 	 11 	 N/N 	 1 	 costs higher
+14 	 15 	 (NP\NP)/NP 	 1 	 costs for
+17 	 15 	 (NP\NP)/NP 	 2 	 materials for
+17 	 16 	 N/N 	 1 	 materials raw
+21 	 20 	 NP[nb]/N 	 1 	 costs those
+21 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 costs have
+21 	 23 	 S[pt]\NP 	 1 	 costs declined <XB>
+22 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 have though
+23 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 declined have
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 declined since
+27 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter since
+27 	 25 	 NP[nb]/N 	 1 	 quarter the
+27 	 26 	 N/N 	 1 	 quarter second
+<\s>
+<s id="wsj_2026.7"> 21
+1 	 0 	 (N/N)/(N/N) 	 2 	 higher Incrementally
+2 	 1 	 N/N 	 1 	 production higher
+2 	 3 	 (NP\NP)/NP 	 1 	 production of
+2 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 production has
+2 	 13 	 ((S[pt]\NP)/NP)/(S[adj]\NP) 	 1 	 production forced <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 chemicals of
+5 	 4 	 NP[nb]/N 	 1 	 chemicals those
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 chemicals which
+5 	 7 	 (S[dcl]\NP)/PP 	 1 	 chemicals remain <XB>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 remain which
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 in remain
+10 	 8 	 PP/NP 	 1 	 demand in
+10 	 9 	 N/N 	 1 	 demand heavy
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 has also
+13 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 forced has
+14 	 13 	 ((S[pt]\NP)/NP)/(S[adj]\NP) 	 3 	 up forced
+15 	 13 	 ((S[pt]\NP)/NP)/(S[adj]\NP) 	 2 	 costs forced
+15 	 14 	 S[adj]\NP 	 1 	 costs up <XB>
+15 	 18 	 (NP\NP)/NP 	 1 	 costs as
+18 	 17 	 (NP\NP)/(NP\NP) 	 2 	 as such
+20 	 18 	 (NP\NP)/NP 	 2 	 pay as
+20 	 19 	 N/N 	 1 	 pay overtime
+<\s>
+<s id="wsj_2026.8"> 37
+3 	 0 	 (S/S)/NP 	 2 	 months For
+3 	 1 	 NP[nb]/N 	 1 	 months the
+3 	 2 	 N/N 	 1 	 months nine
+8 	 5 	 N/N 	 1 	 net Rohm
+8 	 6 	 N/N 	 1 	 net &
+8 	 7 	 N/N 	 1 	 net Haas
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 net totaled
+9 	 0 	 (S/S)/NP 	 1 	 totaled For
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 $ totaled
+10 	 20 	 ((NP\NP)/PP)/NP 	 1 	 $ down
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 155
+15 	 9 	 (S[dcl]\NP)/NP 	 2 	 $ totaled
+15 	 17 	 (NP\NP)/N 	 1 	 $ a
+15 	 20 	 ((NP\NP)/PP)/NP 	 1 	 $ down
+16 	 15 	 N/N[num] 	 1 	 2.33 $
+18 	 17 	 (NP\NP)/N 	 2 	 share a
+22 	 20 	 ((NP\NP)/PP)/NP 	 3 	 % down
+22 	 21 	 N/N 	 1 	 % 17
+23 	 20 	 ((NP\NP)/PP)/NP 	 2 	 from down
+23 	 36 	 (PP\PP)\NP 	 1 	 from ago
+24 	 23 	 PP/NP 	 1 	 $ from
+26 	 24 	 N/N[num] 	 1 	 million $
+26 	 25 	 N/N 	 1 	 million 187.8
+29 	 23 	 PP/NP 	 1 	 $ from
+29 	 31 	 (NP\NP)/N 	 1 	 $ a
+30 	 29 	 N/N[num] 	 1 	 2.82 $
+32 	 31 	 (NP\NP)/N 	 2 	 share a
+35 	 34 	 NP[nb]/N 	 1 	 year a
+35 	 36 	 (PP\PP)\NP 	 2 	 year ago
+<\s>
+<s id="wsj_2026.9"> 15
+0 	 1 	 S[dcl]\NP 	 1 	 Sales rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 5.2
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 2.04
+8 	 12 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 3 	 from the
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 1.94
+14 	 12 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 4 	 year the
+14 	 13 	 N/N 	 1 	 year previous
+<\s>
+<s id="wsj_2026.10"> 21
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+10 	 8 	 N/N 	 1 	 Haas Rohm
+10 	 9 	 N/N 	 1 	 Haas &
+10 	 11 	 (S[dcl]\NP)/PP 	 1 	 Haas closed
+11 	 0 	 (S/S)/NP 	 1 	 closed In
+11 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+12 	 11 	 (S[dcl]\NP)/PP 	 2 	 at closed
+13 	 12 	 PP/NP 	 1 	 $ at
+13 	 15 	 (NP\NP)/N 	 1 	 $ a
+14 	 13 	 N/N[num] 	 1 	 33 $
+16 	 15 	 (NP\NP)/N 	 2 	 share a
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 $ down
+20 	 19 	 N/N[num] 	 1 	 1.75 $
+<\s>

@@ -1,0 +1,81 @@
+<s id="wsj_1005.1"> 25
+2 	 0 	 N/N 	 1 	 Co. Allied-Signal
+2 	 1 	 N/N 	 1 	 Co. Aerospace
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Co. received
+7 	 5 	 (N/N)/N[num] 	 2 	 million $
+7 	 6 	 N/N 	 1 	 million 65
+8 	 3 	 (S[dcl]\NP)/NP 	 2 	 contract received
+8 	 4 	 NP[nb]/N 	 1 	 contract a
+8 	 5 	 (N/N)/N[num] 	 1 	 contract $
+8 	 10 	 ((S[b]\NP)/PP)/NP 	 1 	 contract outfit <XB>
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 outfit to
+12 	 11 	 N/N 	 1 	 Airlines Continental
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Airlines '
+15 	 10 	 ((S[b]\NP)/PP)/NP 	 3 	 planes outfit
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 planes '
+15 	 14 	 N/N 	 1 	 planes 393
+16 	 10 	 ((S[b]\NP)/PP)/NP 	 2 	 with outfit
+20 	 16 	 PP/NP 	 1 	 Alert with
+20 	 17 	 NP[nb]/N 	 1 	 Alert the
+20 	 18 	 N/N 	 1 	 Alert Bendix\/King
+20 	 19 	 N/N 	 1 	 Alert Traffic
+24 	 16 	 PP/NP 	 1 	 System with
+24 	 17 	 NP[nb]/N 	 1 	 System the
+24 	 18 	 N/N 	 1 	 System Bendix\/King
+24 	 19 	 N/N 	 1 	 System Traffic
+24 	 22 	 N/N 	 1 	 System Collision
+24 	 23 	 N/N 	 1 	 System Avoidance
+<\s>
+<s id="wsj_1005.2"> 18
+2 	 0 	 NP[nb]/N 	 1 	 system The
+2 	 1 	 N/N 	 1 	 system airborne
+2 	 3 	 S[dcl]\NP 	 1 	 system operates
+2 	 4 	 (S[adj]\NP)/PP 	 1 	 system independent <XB>
+2 	 10 	 ((S[ng]\NP)/PP)/NP 	 1 	 system informing <XB>
+3 	 17 	 (S[dcl]\S[dcl])\NP 	 1 	 operates said
+5 	 4 	 (S[adj]\NP)/PP 	 2 	 of independent
+8 	 5 	 PP/NP 	 1 	 systems of
+8 	 6 	 N/N 	 1 	 systems ground-based
+8 	 7 	 N/N 	 1 	 systems radar
+11 	 10 	 ((S[ng]\NP)/PP)/NP 	 3 	 pilots informing
+12 	 10 	 ((S[ng]\NP)/PP)/NP 	 2 	 of informing
+14 	 12 	 PP/NP 	 1 	 aircraft of
+14 	 13 	 N/N 	 1 	 aircraft nearby
+16 	 17 	 (S[dcl]\S[dcl])\NP 	 2 	 Allied-Signal said
+<\s>
+<s id="wsj_1005.3"> 6
+1 	 0 	 NP[nb]/N 	 1 	 system The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 system provides
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 provides also
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 advisories provides
+5 	 4 	 N/N 	 1 	 advisories course-correction
+<\s>
+<s id="wsj_1005.4"> 20
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Allied-Signal is
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 unit is
+3 	 2 	 NP[nb]/N 	 1 	 unit a
+3 	 4 	 (NP\NP)/NP 	 1 	 unit of
+6 	 4 	 (NP\NP)/NP 	 2 	 Inc. of
+6 	 5 	 N/N 	 1 	 Inc. Allied-Signal
+9 	 4 	 (NP\NP)/NP 	 2 	 manufacturer of
+9 	 8 	 NP[nb]/N 	 1 	 manufacturer a
+9 	 10 	 (NP\NP)/NP 	 1 	 manufacturer with
+11 	 10 	 (NP\NP)/NP 	 2 	 interests with
+11 	 12 	 (NP\NP)/NP 	 1 	 interests in
+13 	 12 	 (NP\NP)/NP 	 2 	 aerospace in
+16 	 12 	 (NP\NP)/NP 	 2 	 products in
+16 	 15 	 N/N 	 1 	 products automotive
+19 	 12 	 (NP\NP)/NP 	 2 	 materials in
+19 	 18 	 N/N 	 1 	 materials engineered
+<\s>
+<s id="wsj_1005.5"> 11
+1 	 0 	 N/N 	 1 	 Airlines Continental
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Airlines is
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 unit is
+4 	 3 	 NP[nb]/N 	 1 	 unit a
+4 	 5 	 (NP\NP)/NP 	 1 	 unit of
+8 	 5 	 (NP\NP)/NP 	 2 	 Corp. of
+8 	 6 	 N/N 	 1 	 Corp. Texas
+8 	 7 	 N/N 	 1 	 Corp. Air
+8 	 10 	 NP\NP 	 1 	 Corp. Houston
+<\s>

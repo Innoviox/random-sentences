@@ -1,0 +1,1336 @@
+<s id="wsj_1320.1"> 28
+3 	 0 	 N/N 	 1 	 prices Crude
+3 	 1 	 N/N 	 1 	 prices oil
+3 	 2 	 N/N 	 1 	 prices futures
+3 	 4 	 S[dcl]\NP 	 1 	 prices fell
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 fell further
+4 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 fell as
+7 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 analysts said
+9 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 traders said
+10 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 said as
+13 	 11 	 N/N 	 1 	 producers OPEC
+13 	 12 	 N/N 	 1 	 producers oil
+13 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 producers are
+13 	 16 	 ((S[ng]\NP)/PP)/NP 	 1 	 producers putting <XB>
+14 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 are n't
+16 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 putting are
+16 	 21 	 ((S\NP)\(S\NP))/PP 	 2 	 putting ahead
+18 	 16 	 ((S[ng]\NP)/PP)/NP 	 3 	 brakes putting
+18 	 17 	 NP[nb]/N 	 1 	 brakes the
+19 	 16 	 ((S[ng]\NP)/PP)/NP 	 2 	 on putting
+20 	 19 	 PP/NP 	 1 	 output on
+22 	 21 	 ((S\NP)\(S\NP))/PP 	 3 	 of ahead
+27 	 22 	 PP/NP 	 1 	 quarter of
+27 	 23 	 NP[nb]/N 	 1 	 quarter the
+27 	 24 	 N/N 	 1 	 quarter traditionally
+27 	 25 	 N/N 	 1 	 quarter weak
+27 	 26 	 N/N 	 1 	 quarter first
+<\s>
+<s id="wsj_1320.2"> 27
+1 	 0 	 (S/S)/NP 	 2 	 trading In
+1 	 2 	 (NP\NP)/NP 	 1 	 trading on
+7 	 2 	 (NP\NP)/NP 	 2 	 Exchange on
+7 	 3 	 NP[nb]/N 	 1 	 Exchange the
+7 	 4 	 N/N 	 1 	 Exchange New
+7 	 5 	 N/N 	 1 	 Exchange York
+7 	 6 	 N/N 	 1 	 Exchange Mercantile
+15 	 9 	 NP[nb]/N 	 1 	 crude the
+15 	 10 	 N/N 	 1 	 crude U.S.
+15 	 11 	 N/N 	 1 	 crude benchmark
+15 	 12 	 N/N 	 1 	 crude West
+15 	 13 	 N/N 	 1 	 crude Texas
+15 	 14 	 N/N 	 1 	 crude Intermediate
+15 	 16 	 S[dcl]\NP 	 1 	 crude fell
+16 	 0 	 (S/S)/NP 	 1 	 fell In
+16 	 18 	 (S\NP)\(S\NP) 	 2 	 fell cents
+16 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+16 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 fell for
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 cents 39
+18 	 19 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 3 	 cents a
+20 	 19 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 4 	 barrel a
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+23 	 22 	 N/N[num] 	 1 	 19.76 $
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 delivery for
+26 	 25 	 N/N 	 1 	 delivery December
+<\s>
+<s id="wsj_1320.3"> 5
+2 	 0 	 N/N 	 1 	 prices Petroleum
+2 	 1 	 N/N 	 1 	 prices products
+2 	 4 	 S[dcl]\NP 	 1 	 prices declined
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 declined also
+<\s>
+<s id="wsj_1320.4"> 43
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 Analysts pointed
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 to pointed
+3 	 2 	 PP/NP 	 1 	 reports to
+4 	 3 	 N/S[em] 	 1 	 that reports
+6 	 5 	 NP[nb]/N 	 1 	 Organization the
+6 	 7 	 (NP\NP)/NP 	 1 	 Organization of
+6 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Organization is
+6 	 12 	 (S[ng]\NP)/NP 	 1 	 Organization producing <XB>
+10 	 7 	 (NP\NP)/NP 	 2 	 Countries of
+10 	 8 	 N/N 	 1 	 Countries Petroleum
+10 	 9 	 N/N 	 1 	 Countries Exporting
+11 	 4 	 S[em]/S[dcl] 	 1 	 is that
+12 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 producing is
+12 	 26 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 2 	 producing with
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 more producing
+14 	 13 	 N/N 	 1 	 more substantially
+14 	 15 	 (NP\NP)/NP 	 1 	 more than
+18 	 15 	 (NP\NP)/NP 	 2 	 limit than
+18 	 16 	 NP[nb]/N 	 1 	 limit its
+18 	 17 	 N/N 	 1 	 limit official
+18 	 19 	 (NP\NP)/NP 	 1 	 limit of
+21 	 20 	 (N/N)/(N/N) 	 2 	 million 20.5
+22 	 19 	 (NP\NP)/NP 	 2 	 barrels of
+22 	 21 	 N/N 	 1 	 barrels million
+22 	 23 	 (NP\NP)/N 	 1 	 barrels a
+24 	 23 	 (NP\NP)/N 	 2 	 day a
+28 	 26 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 accounts with
+28 	 27 	 NP[nb]/N 	 1 	 accounts some
+28 	 29 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 1 	 accounts putting <XB>
+29 	 26 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 3 	 putting with
+32 	 30 	 NP[nb]/N 	 1 	 group the
+32 	 31 	 N/N 	 1 	 group 13-nation
+32 	 33 	 (NP[nb]/N)\NP 	 2 	 group 's
+34 	 29 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 3 	 output putting
+34 	 33 	 (NP[nb]/N)\NP 	 1 	 output 's
+34 	 35 	 (S[adj]\NP)/PP 	 1 	 output as <XB>
+35 	 29 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 2 	 as putting
+35 	 36 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 as high
+37 	 35 	 (S[adj]\NP)/PP 	 2 	 as as
+39 	 38 	 (N/N)/(N/N) 	 2 	 million 23
+40 	 37 	 PP/NP 	 1 	 barrels as
+40 	 39 	 N/N 	 1 	 barrels million
+40 	 41 	 (NP\NP)/N 	 1 	 barrels a
+42 	 41 	 (NP\NP)/N 	 2 	 day a
+<\s>
+<s id="wsj_1320.5"> 22
+1 	 0 	 NP[nb]/N 	 1 	 level That
+1 	 2 	 (NP\NP)/NP 	 1 	 level of
+1 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 level did
+1 	 6 	 ((S[b]\NP)/PP)/NP 	 1 	 level take <XB>
+3 	 2 	 (NP\NP)/NP 	 2 	 production of
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 did n't
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take did
+8 	 6 	 ((S[b]\NP)/PP)/NP 	 3 	 toll take
+8 	 7 	 NP[nb]/N 	 1 	 toll its
+9 	 6 	 ((S[b]\NP)/PP)/NP 	 2 	 on take
+11 	 9 	 PP/NP 	 1 	 prices on
+11 	 10 	 N/N 	 1 	 prices futures
+11 	 12 	 (NP\NP)/NP 	 1 	 prices for
+15 	 12 	 (NP\NP)/NP 	 2 	 quarter for
+15 	 13 	 NP[nb]/N 	 1 	 quarter the
+15 	 14 	 N/N 	 1 	 quarter fourth
+15 	 17 	 (NP\NP)/S[dcl] 	 1 	 quarter when
+18 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 demand is
+18 	 21 	 S[adj]\NP 	 1 	 demand strong <XB>
+19 	 17 	 (NP\NP)/S[dcl] 	 2 	 is when
+21 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 strong is
+21 	 20 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 strong traditionally
+<\s>
+<s id="wsj_1320.6"> 29
+3 	 2 	 N/N 	 1 	 demand first-quarter
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 demand is
+4 	 1 	 (S/S)/S[dcl] 	 2 	 is because
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 is normally
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 weakest is
+7 	 6 	 NP[nb]/N 	 1 	 weakest the
+7 	 8 	 (NP\NP)/NP 	 1 	 weakest of
+10 	 8 	 (NP\NP)/NP 	 2 	 year of
+10 	 9 	 NP[nb]/N 	 1 	 year the
+14 	 12 	 N/N 	 1 	 participants several
+14 	 13 	 N/N 	 1 	 participants market
+14 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 participants say
+18 	 17 	 N/N 	 1 	 production OPEC
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 production will
+18 	 22 	 S[b]\NP 	 1 	 production decline <XB>
+18 	 24 	 ((S[b]\NP)/PP)/NP 	 1 	 production keep <XB>
+19 	 0 	 S/S 	 1 	 will But
+19 	 1 	 (S/S)/S[dcl] 	 1 	 will because
+19 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 will say <XU>
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+21 	 20 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 decline to
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 keep to
+25 	 24 	 ((S[b]\NP)/PP)/NP 	 3 	 prices keep
+26 	 24 	 ((S[b]\NP)/PP)/NP 	 2 	 from keep
+27 	 26 	 PP/(S[ng]\NP) 	 1 	 eroding from
+27 	 28 	 (S\NP)\(S\NP) 	 2 	 eroding further
+<\s>
+<s id="wsj_1320.7"> 15
+1 	 0 	 NP[nb]/N 	 1 	 group The
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 group plans
+1 	 4 	 S[b]\NP 	 1 	 group meet <XB>
+1 	 9 	 (S[b]\NP)/NP 	 1 	 group discuss <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 meet in
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 month in
+7 	 6 	 NP[nb]/N 	 1 	 month a
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 discuss to
+11 	 9 	 (S[b]\NP)/NP 	 2 	 strategy discuss
+11 	 10 	 N/N 	 1 	 strategy production
+11 	 12 	 (NP\NP)/NP 	 1 	 strategy for
+14 	 12 	 (NP\NP)/NP 	 2 	 1990 for
+14 	 13 	 N/N 	 1 	 1990 early
+<\s>
+<s id="wsj_1320.8"> 30
+1 	 3 	 S[dcl]\NP 	 1 	 prices headed
+3 	 0 	 (S/S)/S[dcl] 	 2 	 headed With
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 headed already
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 headed lower
+6 	 7 	 (NP\NP)/NP 	 1 	 news of
+6 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 news was
+6 	 27 	 S[adj]\NP 	 1 	 news bearish <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 series of
+9 	 8 	 NP[nb]/N 	 1 	 series a
+9 	 10 	 (NP\NP)/NP 	 1 	 series of
+9 	 12 	 (NP\NP)/NP 	 1 	 series at
+11 	 10 	 (NP\NP)/NP 	 2 	 explosions of
+19 	 12 	 (NP\NP)/NP 	 2 	 facility at
+19 	 13 	 NP[nb]/N 	 1 	 facility a
+19 	 14 	 N/N 	 1 	 facility major
+19 	 15 	 N/N 	 1 	 facility Phillips
+19 	 16 	 N/N 	 1 	 facility Petroleum
+19 	 17 	 N/N 	 1 	 facility Co.
+19 	 18 	 N/N 	 1 	 facility chemical
+19 	 20 	 (NP\NP)/NP 	 1 	 facility on
+24 	 20 	 (NP\NP)/NP 	 2 	 Channel on
+24 	 21 	 NP[nb]/N 	 1 	 Channel the
+24 	 22 	 N/N 	 1 	 Channel Houston
+24 	 23 	 N/N 	 1 	 Channel Ship
+26 	 0 	 (S/S)/S[dcl] 	 1 	 was With
+26 	 25 	 (S\NP)/(S\NP) 	 2 	 was also
+26 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 was for
+27 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 bearish was
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 prices for
+<\s>
+<s id="wsj_1320.9"> 30
+1 	 0 	 (S/S)/(S/S) 	 2 	 though Even
+3 	 2 	 NP/NP 	 1 	 facilities such
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 facilities use
+4 	 1 	 (S/S)/S[dcl] 	 2 	 use though
+7 	 6 	 (N/N)/(N/N) 	 2 	 small relatively
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 amount use
+8 	 5 	 NP[nb]/N 	 1 	 amount a
+8 	 7 	 N/N 	 1 	 amount small
+8 	 9 	 (NP\NP)/NP 	 1 	 amount of
+10 	 9 	 (NP\NP)/NP 	 2 	 crude of
+12 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 analysts say
+17 	 16 	 NP[nb]/N 	 1 	 facility the
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 facility wo
+17 	 20 	 (S[b]\NP)/NP 	 1 	 facility need <XB>
+18 	 1 	 (S/S)/S[dcl] 	 1 	 wo though
+18 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 wo say <XU>
+18 	 15 	 S/S 	 1 	 wo now
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 wo n't
+20 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 need wo
+20 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 need at
+21 	 20 	 (S[b]\NP)/NP 	 2 	 any need
+25 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 time at
+25 	 24 	 NP[nb]/N 	 1 	 time a
+25 	 26 	 (NP\NP)/NP 	 1 	 time of
+29 	 26 	 (NP\NP)/NP 	 2 	 availability of
+29 	 27 	 N/N 	 1 	 availability already
+29 	 28 	 N/N 	 1 	 availability high
+<\s>
+<s id="wsj_1320.10"> 11
+2 	 0 	 NP[nb]/N 	 1 	 plant The
+2 	 1 	 N/N 	 1 	 plant Phillips
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 plant makes
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 polyethylene makes
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 polypropylene makes
+10 	 3 	 (S[dcl]\NP)/NP 	 2 	 products makes
+10 	 8 	 N/N 	 1 	 products other
+10 	 9 	 N/N 	 1 	 products plastic
+<\s>
+<s id="wsj_1320.11"> 12
+2 	 0 	 NP[nb]/N 	 1 	 official A
+2 	 1 	 N/N 	 1 	 official company
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 official said
+5 	 4 	 NP[nb]/N 	 1 	 explosions the
+5 	 6 	 S[dcl]\NP 	 1 	 explosions began
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 began said
+6 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 began when
+9 	 8 	 NP[nb]/N 	 1 	 seal a
+9 	 10 	 S[dcl]\NP 	 1 	 seal blew
+10 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 blew when
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 blew out
+<\s>
+<s id="wsj_1320.12"> 8
+0 	 1 	 (NP\NP)/NP 	 1 	 Dozens of
+0 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Dozens were
+0 	 4 	 S[pss]\NP 	 1 	 Dozens injured <XB>
+2 	 1 	 (NP\NP)/NP 	 2 	 workers of
+3 	 7 	 (S[dcl]\S[dcl])\NP 	 1 	 were said
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 injured were
+6 	 7 	 (S[dcl]\S[dcl])\NP 	 2 	 authorities said
+<\s>
+<s id="wsj_1320.13"> 10
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There was
+1 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 was from
+4 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 estimate was
+4 	 2 	 NP[nb]/N 	 1 	 estimate no
+4 	 3 	 N/N 	 1 	 estimate immediate
+4 	 5 	 (NP\NP)/NP 	 1 	 estimate of
+6 	 5 	 (NP\NP)/NP 	 2 	 damage of
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 company from
+9 	 8 	 NP[nb]/N 	 1 	 company the
+<\s>
+<s id="wsj_1320.14"> 17
+3 	 0 	 NP[nb]/N 	 1 	 traders Some
+3 	 1 	 N/N 	 1 	 traders petroleum
+3 	 2 	 N/N 	 1 	 traders futures
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 traders say
+6 	 5 	 N/N 	 1 	 considerations technical
+6 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 considerations will
+6 	 9 	 (S[b]\NP)/(S[to]\NP) 	 1 	 considerations help <XB>
+6 	 11 	 ((S[b]\NP)/PP)/NP 	 1 	 considerations put <XB>
+8 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 will say
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 will now
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 help will
+10 	 9 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to help
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 put to
+13 	 11 	 ((S[b]\NP)/PP)/NP 	 3 	 pressure put
+13 	 12 	 N/N 	 1 	 pressure downward
+14 	 11 	 ((S[b]\NP)/PP)/NP 	 2 	 on put
+16 	 14 	 PP/NP 	 1 	 prices on
+16 	 15 	 N/N 	 1 	 prices futures
+<\s>
+<s id="wsj_1320.15"> 22
+1 	 0 	 (S/S)/NP 	 2 	 instance For
+4 	 3 	 N/N 	 1 	 trader one
+4 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 trader said
+5 	 0 	 (S/S)/NP 	 1 	 said For
+6 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+7 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 prices will
+7 	 10 	 S[b]\NP 	 1 	 prices go <XB>
+9 	 6 	 S[em]/S[dcl] 	 1 	 will that
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 will inevitably
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go will
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 go lower
+10 	 12 	 ((S\NP)\(S\NP))/S[em] 	 2 	 go now
+13 	 12 	 ((S\NP)\(S\NP))/S[em] 	 3 	 that now
+14 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 they 've
+14 	 16 	 S[pt]\NP 	 1 	 they fallen <XB>
+15 	 13 	 S[em]/S[dcl] 	 1 	 've that
+16 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 fallen 've
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 fallen below
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 $ below
+18 	 20 	 (NP\NP)/N 	 1 	 $ a
+19 	 18 	 N/N[num] 	 1 	 20 $
+21 	 20 	 (NP\NP)/N 	 2 	 barrel a
+<\s>
+<s id="wsj_1320.16"> 17
+1 	 0 	 NP[nb]/N 	 1 	 technician Our
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 technician is
+1 	 5 	 S[adj]\NP 	 1 	 technician bearish <XB>
+2 	 6 	 ((S\NP)\(S\NP))/S[em] 	 2 	 is now
+2 	 16 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+4 	 3 	 ((S[adj]\NP)/(S[adj]\NP))/N 	 3 	 little a
+5 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 bearish is
+5 	 3 	 ((S[adj]\NP)/(S[adj]\NP))/N 	 2 	 bearish a
+7 	 6 	 ((S\NP)\(S\NP))/S[em] 	 3 	 that now
+8 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 we 've
+8 	 10 	 (S[pt]\NP)/NP 	 1 	 we taken <XB>
+9 	 7 	 S[em]/S[dcl] 	 1 	 've that
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 taken 've
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 taken out
+12 	 10 	 (S[pt]\NP)/NP 	 2 	 $ taken
+13 	 12 	 N/N[num] 	 1 	 20 $
+15 	 16 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_1320.17"> 5
+0 	 4 	 PP\PP 	 1 	 In yesterday
+3 	 0 	 PP/NP 	 1 	 markets In
+3 	 1 	 N/N 	 1 	 markets other
+3 	 2 	 N/N 	 1 	 markets commodity
+<\s>
+<s id="wsj_1320.18"> 1
+<\s>
+<s id="wsj_1320.19"> 8
+1 	 0 	 NP[nb]/N 	 1 	 selling The
+1 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 selling that
+1 	 3 	 S[dcl]\NP 	 1 	 selling started <XB>
+1 	 6 	 S[dcl]\NP 	 1 	 selling continued
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 started that
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 started on
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Friday on
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 continued yesterday
+<\s>
+<s id="wsj_1320.20"> 11
+2 	 0 	 NP[nb]/N 	 1 	 contract The
+2 	 1 	 N/N 	 1 	 contract December
+2 	 3 	 S[dcl]\NP 	 1 	 contract fell
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 fell cents
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 cents 3.85
+5 	 6 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 3 	 cents a
+7 	 6 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 4 	 pound a
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+10 	 9 	 N/N[num] 	 1 	 1.1960 $
+<\s>
+<s id="wsj_1320.21"> 30
+4 	 0 	 N/N 	 1 	 stocks London
+4 	 1 	 N/N 	 1 	 stocks Metal
+4 	 2 	 N/N 	 1 	 stocks Exchange
+4 	 3 	 N/N 	 1 	 stocks warehouse
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 stocks were
+4 	 6 	 ((S[adj]\NP)/PP)/NP 	 1 	 stocks down <XB>
+6 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 down were
+6 	 11 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 down for
+8 	 7 	 (N/N)/(N/N) 	 2 	 4,800 only
+10 	 6 	 ((S[adj]\NP)/PP)/NP 	 3 	 tons down
+10 	 8 	 N/N 	 1 	 tons 4,800
+10 	 9 	 N/N 	 1 	 tons metric
+13 	 11 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 week for
+13 	 12 	 NP[nb]/N 	 1 	 week the
+14 	 6 	 ((S[adj]\NP)/PP)/NP 	 2 	 to down
+16 	 14 	 PP/NP 	 1 	 tons to
+16 	 15 	 N/N 	 1 	 tons 84,500
+18 	 22 	 (S[dcl]\NP)/NP 	 1 	 expectations were
+21 	 19 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 week late
+21 	 20 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 week last
+22 	 21 	 (S\NP)/(S\NP) 	 2 	 were week
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 drop were
+24 	 23 	 NP[nb]/N 	 1 	 drop a
+24 	 25 	 (NP\NP)/NP 	 1 	 drop of
+26 	 27 	 ((N/N)\(N/N))/(N/N) 	 2 	 10,000 to
+28 	 27 	 ((N/N)\(N/N))/(N/N) 	 3 	 15,000 to
+29 	 25 	 (NP\NP)/NP 	 2 	 tons of
+29 	 26 	 N/N 	 1 	 tons 10,000
+<\s>
+<s id="wsj_1320.22"> 45
+3 	 0 	 NP[nb]/N 	 1 	 market The
+3 	 1 	 N/N 	 1 	 market New
+3 	 2 	 N/N 	 1 	 market York
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 market made
+4 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 made on
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 high made
+6 	 5 	 NP[nb]/N 	 1 	 high its
+6 	 7 	 (NP\NP)/NP 	 1 	 high for
+9 	 7 	 (NP\NP)/NP 	 2 	 day for
+9 	 8 	 NP[nb]/N 	 1 	 day the
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 opening on
+12 	 11 	 NP[nb]/N 	 1 	 opening the
+15 	 16 	 S[dcl]\NP 	 1 	 it dropped
+16 	 14 	 (S/S)/S[dcl] 	 2 	 dropped when
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped below
+20 	 19 	 (N/N)/N[num] 	 2 	 1.23-a-pound $
+21 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 level below
+21 	 18 	 NP[nb]/N 	 1 	 level the
+21 	 19 	 (N/N)/N[num] 	 1 	 level $
+23 	 24 	 S[dcl]\NP 	 1 	 selling picked
+24 	 14 	 (S/S)/S[dcl] 	 1 	 picked when
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 picked up
+24 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 picked as
+28 	 27 	 N/N 	 1 	 buyers previous
+28 	 29 	 (S[dcl]\NP)/PP 	 1 	 buyers bailed
+29 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 bailed as
+29 	 30 	 (S\NP)\(S\NP) 	 2 	 bailed out
+31 	 29 	 (S[dcl]\NP)/PP 	 2 	 of bailed
+33 	 31 	 PP/NP 	 1 	 positions of
+33 	 32 	 NP[nb]/N 	 1 	 positions their
+37 	 35 	 N/N 	 1 	 sellers aggressive
+37 	 36 	 N/N 	 1 	 sellers short
+37 	 39 	 (S[ng]\NP)/NP 	 1 	 sellers anticipating <XB>
+37 	 43 	 S[dcl]\NP 	 1 	 sellers moved
+41 	 39 	 (S[ng]\NP)/NP 	 2 	 declines anticipating
+41 	 40 	 N/N 	 1 	 declines further
+43 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 moved as
+43 	 44 	 (S\NP)\(S\NP) 	 2 	 moved in
+<\s>
+<s id="wsj_1320.23"> 8
+1 	 0 	 N/N 	 1 	 selling Fund
+1 	 3 	 S[dcl]\NP 	 1 	 selling picked
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 picked also
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 picked up
+3 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 picked at
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 point at
+7 	 6 	 NP[nb]/N 	 1 	 point that
+<\s>
+<s id="wsj_1320.24"> 31
+1 	 0 	 (S/S)/PP 	 2 	 to According
+3 	 1 	 PP/NP 	 1 	 Savaiko to
+3 	 2 	 N/N 	 1 	 Savaiko Bernard
+7 	 1 	 PP/NP 	 1 	 analyst to
+7 	 5 	 N/N 	 1 	 analyst senior
+7 	 6 	 N/N 	 1 	 analyst commodity
+7 	 8 	 (NP\NP)/NP 	 1 	 analyst at
+9 	 8 	 (NP\NP)/NP 	 2 	 PaineWebber at
+13 	 11 	 NP[nb]/N 	 1 	 stability the
+13 	 12 	 N/N 	 1 	 stability only
+13 	 14 	 (NP\NP)/NP 	 1 	 stability to
+13 	 17 	 S[dcl]\NP 	 1 	 stability came
+16 	 14 	 (NP\NP)/NP 	 2 	 market to
+16 	 15 	 NP[nb]/N 	 1 	 market the
+17 	 0 	 (S/S)/PP 	 1 	 came According
+17 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 came when
+20 	 19 	 N/N 	 1 	 sellers short
+20 	 22 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 sellers moved
+20 	 25 	 (S[b]\NP)/NP 	 1 	 sellers cover <XB>
+20 	 29 	 (S[ng]\NP)/NP 	 1 	 sellers buying <XB>
+22 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 moved when
+22 	 21 	 (S\NP)/(S\NP) 	 2 	 moved periodically
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 moved in
+24 	 22 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to moved
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cover to
+25 	 28 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 cover by
+27 	 25 	 (S[b]\NP)/NP 	 2 	 positions cover
+27 	 26 	 NP[nb]/N 	 1 	 positions their
+29 	 28 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 buying by
+30 	 29 	 (S[ng]\NP)/NP 	 2 	 contracts buying
+<\s>
+<s id="wsj_1320.25"> 13
+1 	 0 	 NP[nb]/N 	 1 	 activity This
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 activity produced
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 rallies produced
+4 	 3 	 N/N 	 1 	 rallies small
+4 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 rallies which
+4 	 9 	 (S[dcl]\NP)/NP 	 1 	 rallies attracted <XB>
+8 	 7 	 ((S\NP)/(S\NP))/NP 	 3 	 turn in
+9 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 attracted which
+9 	 7 	 ((S\NP)/(S\NP))/NP 	 2 	 attracted in
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 selling attracted
+12 	 10 	 N/N 	 1 	 selling new
+12 	 11 	 N/N 	 1 	 selling short
+<\s>
+<s id="wsj_1320.26"> 24
+1 	 0 	 N/N 	 1 	 Savaiko Mr.
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Savaiko noted
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that noted
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 copper had
+5 	 3 	 S[em]/S[dcl] 	 1 	 had that
+5 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 had in
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 fall had
+8 	 6 	 NP[nb]/N 	 1 	 fall a
+8 	 7 	 N/N 	 1 	 fall steep
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 spite in
+10 	 11 	 (NP\NP)/NP 	 1 	 spite of
+14 	 11 	 (NP\NP)/NP 	 2 	 dollar of
+14 	 12 	 NP[nb]/N 	 1 	 dollar a
+14 	 13 	 N/N 	 1 	 dollar weak
+14 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 dollar which
+14 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 dollar would <XB>
+14 	 19 	 (S[b]\NP)/NP 	 1 	 dollar support <XB>
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would which
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 would normally
+19 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 support would
+23 	 19 	 (S[b]\NP)/NP 	 2 	 market support
+23 	 20 	 NP[nb]/N 	 1 	 market the
+23 	 21 	 N/N 	 1 	 market U.S.
+23 	 22 	 N/N 	 1 	 market copper
+<\s>
+<s id="wsj_1320.27"> 18
+1 	 0 	 NP/NP 	 1 	 support Such
+1 	 3 	 (S[dcl]\NP)/PP 	 1 	 support comes
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 comes usually
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 from comes
+5 	 4 	 PP/NP 	 1 	 arbitragers from
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 arbitragers who
+5 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 arbitragers use <XB>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 use who
+11 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 pound use
+11 	 8 	 NP[nb]/N 	 1 	 pound a
+11 	 9 	 N/N 	 1 	 pound strong
+11 	 10 	 N/N 	 1 	 pound British
+11 	 13 	 (S[b]\NP)/NP 	 1 	 pound buy <XB>
+12 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to use
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+13 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 buy in
+14 	 13 	 (S[b]\NP)/NP 	 2 	 copper buy
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 York in
+17 	 16 	 N/N 	 1 	 York New
+<\s>
+<s id="wsj_1320.28"> 16
+1 	 0 	 NP[nb]/N 	 1 	 sell-off The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 sell-off would
+1 	 6 	 S[adj]\NP 	 1 	 sell-off worse <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 would probably
+2 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 would said
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+5 	 4 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 been have
+5 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 been if
+6 	 5 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 worse been
+9 	 8 	 NP[nb]/N 	 1 	 dollar the
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 dollar had
+9 	 12 	 S[adj]\NP 	 1 	 dollar strong <XB>
+10 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 had if
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+12 	 11 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 strong been
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_1320.29"> 14
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Copper has
+0 	 3 	 S[pss]\NP 	 1 	 Copper stuck <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+3 	 2 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 stuck been
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 stuck in
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 range in
+7 	 5 	 NP[nb]/N 	 1 	 range a
+7 	 6 	 N/N 	 1 	 range trading
+7 	 8 	 (NP\NP)/NP 	 1 	 range of
+9 	 8 	 (NP\NP)/NP 	 2 	 $ of
+9 	 11 	 (N\N)/N 	 1 	 $ to
+10 	 9 	 N/N[num] 	 1 	 1.19 $
+12 	 11 	 (N\N)/N 	 2 	 $ to
+13 	 12 	 N/N[num] 	 1 	 1.34 $
+<\s>
+<s id="wsj_1320.30"> 23
+1 	 0 	 N/N 	 1 	 Savaiko Mr.
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Savaiko believes
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that believes
+5 	 6 	 S[dcl]\NP 	 1 	 copper falls
+6 	 4 	 (S/S)/S[dcl] 	 2 	 falls if
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 falls below
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 bottom below
+9 	 8 	 NP[nb]/N 	 1 	 bottom the
+9 	 10 	 (NP\NP)/NP 	 1 	 bottom of
+12 	 10 	 (NP\NP)/NP 	 2 	 range of
+12 	 11 	 NP[nb]/N 	 1 	 range this
+17 	 13 	 NP[nb]/N 	 1 	 level the
+17 	 14 	 N/N 	 1 	 level next
+17 	 15 	 N/N 	 1 	 level significant
+17 	 16 	 N/N 	 1 	 level support
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 level will
+17 	 19 	 (S[b]\NP)/NP 	 1 	 level be <XB>
+18 	 3 	 S[em]/S[dcl] 	 1 	 will that
+18 	 4 	 (S/S)/S[dcl] 	 1 	 will if
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+21 	 19 	 (S[b]\NP)/NP 	 2 	 $ be
+21 	 20 	 N/N 	 1 	 $ about
+22 	 21 	 N/N[num] 	 1 	 1.04 $
+<\s>
+<s id="wsj_1320.31"> 2
+1 	 0 	 N/N 	 1 	 METALS PRECIOUS
+<\s>
+<s id="wsj_1320.32"> 33
+0 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Platinum struggled
+0 	 5 	 (S[b]\NP)/NP 	 1 	 Platinum maintain <XB>
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 palladium struggled
+2 	 5 	 (S[b]\NP)/NP 	 1 	 palladium maintain <XB>
+3 	 8 	 ((S\NP)\(S\NP))/N 	 2 	 struggled all
+3 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 struggled despite
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to struggled
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 maintain to
+7 	 5 	 (S[b]\NP)/NP 	 2 	 prices maintain
+7 	 6 	 NP[nb]/N 	 1 	 prices their
+9 	 8 	 ((S\NP)\(S\NP))/N 	 3 	 day all
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 stories despite
+12 	 11 	 N/N 	 1 	 stories news
+12 	 13 	 (NP\NP)/NP 	 1 	 stories over
+12 	 16 	 (NP\NP)/S[dcl] 	 1 	 stories that
+15 	 13 	 (NP\NP)/NP 	 2 	 weekend over
+15 	 14 	 NP[nb]/N 	 1 	 weekend the
+20 	 17 	 N/N 	 1 	 experiments recent
+20 	 18 	 N/N 	 1 	 experiments cold
+20 	 19 	 N/N 	 1 	 experiments fusion
+20 	 22 	 (NP\NP)/(S[dcl]\NP) 	 1 	 experiments which
+20 	 23 	 (S[dcl]\NP)/NP 	 1 	 experiments use <XB>
+20 	 27 	 (S[dcl]\NP)/NP 	 1 	 experiments showed
+23 	 22 	 (NP\NP)/(S[dcl]\NP) 	 2 	 use which
+25 	 23 	 (S[dcl]\NP)/NP 	 2 	 metals use
+25 	 24 	 NP[nb]/N 	 1 	 metals both
+27 	 16 	 (NP\NP)/S[dcl] 	 2 	 showed that
+28 	 27 	 (S[dcl]\NP)/NP 	 2 	 signs showed
+28 	 29 	 (NP\NP)/(S[ng]\NP) 	 1 	 signs of
+30 	 29 	 (NP\NP)/(S[ng]\NP) 	 2 	 producing of
+32 	 30 	 (S[ng]\NP)/NP 	 2 	 heat producing
+32 	 31 	 N/N 	 1 	 heat extra
+<\s>
+<s id="wsj_1320.33"> 21
+1 	 0 	 N/N 	 1 	 platinum January
+1 	 2 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 1 	 platinum closed
+1 	 3 	 (S[adj]\NP)/NP 	 1 	 platinum down <XB>
+3 	 2 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 3 	 down closed
+4 	 3 	 (S[adj]\NP)/NP 	 2 	 $ down
+4 	 6 	 (NP\NP)/N 	 1 	 $ an
+5 	 4 	 N/N[num] 	 1 	 2.80 $
+7 	 6 	 (NP\NP)/N 	 2 	 ounce an
+8 	 2 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 2 	 at closed
+9 	 8 	 PP/NP 	 1 	 $ at
+9 	 15 	 ((NP\NP)\NP)/NP 	 1 	 $ above
+10 	 9 	 N/N[num] 	 1 	 486.30 $
+13 	 12 	 N/N 	 1 	 $ nearly
+13 	 15 	 ((NP\NP)\NP)/NP 	 2 	 $ above
+14 	 13 	 N/N[num] 	 1 	 4 $
+17 	 15 	 ((NP\NP)\NP)/NP 	 3 	 low above
+17 	 16 	 NP[nb]/N 	 1 	 low its
+17 	 18 	 (NP\NP)/NP 	 1 	 low for
+20 	 18 	 (NP\NP)/NP 	 2 	 day for
+20 	 19 	 NP[nb]/N 	 1 	 day the
+<\s>
+<s id="wsj_1320.34"> 11
+1 	 0 	 N/N 	 1 	 palladium December
+1 	 2 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 1 	 palladium was
+1 	 3 	 (S[adj]\NP)/NP 	 1 	 palladium off <XB>
+3 	 2 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 3 	 off was
+4 	 3 	 (S[adj]\NP)/NP 	 2 	 $ off
+4 	 6 	 (NP\NP)/N 	 1 	 $ an
+5 	 4 	 N/N[num] 	 1 	 1.55 $
+7 	 6 	 (NP\NP)/N 	 2 	 ounce an
+8 	 2 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 2 	 at was
+9 	 8 	 PP/NP 	 1 	 $ at
+10 	 9 	 N/N[num] 	 1 	 137.20 $
+<\s>
+<s id="wsj_1320.36"> 18
+1 	 0 	 NP[nb]/N 	 1 	 traders Some
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 traders were
+1 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 traders thought <XB>
+1 	 6 	 (S[ng]\NP)/PP 	 1 	 traders waiting <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 thought were
+4 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to thought
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+6 	 5 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 waiting be
+7 	 6 	 (S[ng]\NP)/PP 	 2 	 for waiting
+11 	 7 	 PP/NP 	 1 	 report for
+11 	 8 	 NP[nb]/N 	 1 	 report the
+11 	 9 	 N/N 	 1 	 report auto
+11 	 10 	 N/N 	 1 	 report sales
+11 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 report which
+11 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 report will <XB>
+11 	 16 	 S[pss]\NP 	 1 	 report released <XB>
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will which
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+16 	 15 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 released be
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 released today
+<\s>
+<s id="wsj_1320.37"> 19
+1 	 0 	 NP/NP 	 1 	 sales Such
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 sales are
+1 	 3 	 S[pss]\NP 	 1 	 sales watched <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 watched are
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 watched closely
+3 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 watched by
+3 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 watched because
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 traders by
+9 	 6 	 N/N 	 1 	 traders platinum
+9 	 8 	 N/N 	 1 	 traders palladium
+12 	 11 	 NP[nb]/N 	 1 	 metals both
+12 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 metals are
+12 	 14 	 S[pss]\NP 	 1 	 metals used <XB>
+13 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are because
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 used are
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 used in
+18 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 converters in
+18 	 16 	 N/N 	 1 	 converters automobile
+18 	 17 	 N/N 	 1 	 converters catalytic
+<\s>
+<s id="wsj_1320.38"> 26
+1 	 0 	 N/N 	 1 	 Savaiko Mr.
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Savaiko theorized
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that theorized
+5 	 4 	 NP[nb]/N 	 1 	 news the
+5 	 6 	 (NP\NP)/NP 	 1 	 news on
+5 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 news did
+5 	 11 	 (S[b]\NP)/NP 	 1 	 news affect <XB>
+8 	 6 	 (NP\NP)/NP 	 2 	 fusion on
+8 	 7 	 N/N 	 1 	 fusion cold
+9 	 3 	 S[em]/S[dcl] 	 1 	 did that
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 did n't
+11 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 affect did
+11 	 14 	 (S\NP)\(S\NP) 	 2 	 affect yesterday
+11 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 affect because
+13 	 11 	 (S[b]\NP)/NP 	 2 	 market affect
+13 	 12 	 NP[nb]/N 	 1 	 market the
+17 	 16 	 N/N 	 1 	 traders many
+17 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 traders have
+17 	 22 	 S[pss]\NP 	 1 	 traders burnt <XB>
+18 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 have because
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 have already
+20 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 been badly
+22 	 20 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 burnt been
+22 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 burnt by
+25 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 stories by
+25 	 24 	 NP/NP 	 1 	 stories such
+<\s>
+<s id="wsj_1320.39"> 17
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+3 	 2 	 NP[nb]/N 	 1 	 traders the
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 traders are
+3 	 5 	 (S[ng]\NP)/NP 	 1 	 traders demanding <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 demanding are
+5 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 demanding before
+8 	 5 	 (S[ng]\NP)/NP 	 2 	 level demanding
+8 	 6 	 NP[nb]/N 	 1 	 level a
+8 	 7 	 N/N 	 1 	 level higher
+8 	 9 	 (NP\NP)/NP 	 1 	 level of
+10 	 9 	 (NP\NP)/NP 	 2 	 proof of
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they will
+12 	 14 	 (S[b]\NP)/NP 	 1 	 they buy <XB>
+13 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 will before
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 buy will
+14 	 16 	 (S\NP)\(S\NP) 	 2 	 buy again
+15 	 14 	 (S[b]\NP)/NP 	 2 	 palladium buy
+<\s>
+<s id="wsj_1320.40"> 18
+1 	 0 	 (S\NP)/(S\NP) 	 2 	 weighing Also
+1 	 7 	 (S[dcl]\(S[ng]\NP))/NP 	 1 	 weighing is
+2 	 1 	 (S[ng]\NP)/PP 	 2 	 on weighing
+4 	 3 	 NP[nb]/N 	 1 	 metals both
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 metals '
+6 	 2 	 PP/NP 	 1 	 prices on
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 prices '
+9 	 7 	 (S[dcl]\(S[ng]\NP))/NP 	 2 	 role is
+9 	 8 	 NP[nb]/N 	 1 	 role the
+9 	 10 	 (NP\NP)/NP 	 1 	 role of
+13 	 10 	 (NP\NP)/NP 	 2 	 supplier of
+13 	 11 	 NP[nb]/N 	 1 	 supplier the
+13 	 12 	 N/N 	 1 	 supplier chief
+17 	 10 	 (NP\NP)/NP 	 2 	 Union of
+17 	 15 	 NP[nb]/N 	 1 	 Union the
+17 	 16 	 N/N 	 1 	 Union Soviet
+<\s>
+<s id="wsj_1320.41"> 32
+1 	 0 	 N/N 	 1 	 analysts Many
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 analysts believe
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that believe
+5 	 4 	 NP[nb]/N 	 1 	 Soviets the
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Soviets '
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 thirst '
+7 	 8 	 (NP\NP)/NP 	 1 	 thirst for
+7 	 10 	 (NP\NP)/N 	 1 	 thirst this
+7 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 thirst will
+7 	 22 	 ((S[b]\NP)/PP)/NP 	 1 	 thirst bring <XB>
+9 	 8 	 (NP\NP)/NP 	 2 	 dollars for
+11 	 10 	 (NP\NP)/N 	 2 	 year this
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+14 	 13 	 (S[b]\NP)/NP 	 2 	 grain buy
+18 	 13 	 (S[b]\NP)/NP 	 2 	 commodities buy
+18 	 16 	 N/N 	 1 	 commodities other
+18 	 17 	 N/N 	 1 	 commodities Western
+20 	 13 	 (S[b]\NP)/NP 	 2 	 goods buy
+20 	 16 	 N/N 	 1 	 goods other
+20 	 17 	 N/N 	 1 	 goods Western
+21 	 3 	 S[em]/S[dcl] 	 1 	 will that
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 bring will
+22 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 bring whenever
+23 	 22 	 ((S[b]\NP)/PP)/NP 	 3 	 them bring
+24 	 22 	 ((S[b]\NP)/PP)/NP 	 2 	 to bring
+26 	 24 	 PP/NP 	 1 	 market to
+26 	 25 	 NP[nb]/N 	 1 	 market the
+28 	 29 	 S[dcl]\NP 	 1 	 prices rally
+29 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 rally whenever
+29 	 31 	 (S\NP)\(S\NP) 	 2 	 rally much
+31 	 30 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 much very
+<\s>
+<s id="wsj_1320.42"> 3
+<\s>
+<s id="wsj_1320.43"> 13
+0 	 1 	 S[dcl]\NP 	 1 	 Prices closed
+0 	 2 	 S[adj]\NP 	 1 	 Prices mixed <XB>
+1 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 closed as
+4 	 5 	 (S[dcl]\NP)/PP 	 1 	 contracts reacted
+5 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 reacted as
+6 	 5 	 (S[dcl]\NP)/PP 	 2 	 to reacted
+8 	 7 	 (N/N)/(N/N) 	 2 	 offsetting largely
+12 	 6 	 PP/NP 	 1 	 news to
+12 	 8 	 N/N 	 1 	 news offsetting
+12 	 9 	 N/N 	 1 	 news bullish <XU>
+12 	 11 	 N/N 	 1 	 news bearish
+<\s>
+<s id="wsj_1320.44"> 38
+3 	 0 	 (S/S)/NP 	 2 	 Board On
+3 	 1 	 NP[nb]/N 	 1 	 Board the
+3 	 2 	 N/N 	 1 	 Board Chicago
+3 	 4 	 (NP\NP)/NP 	 1 	 Board of
+5 	 4 	 (NP\NP)/NP 	 2 	 Trade of
+7 	 8 	 (NP\NP)/NP 	 1 	 soybeans for
+7 	 11 	 S[dcl]\NP 	 1 	 soybeans closed
+10 	 8 	 (NP\NP)/NP 	 2 	 delivery for
+10 	 9 	 N/N 	 1 	 delivery November
+11 	 0 	 (S/S)/NP 	 1 	 closed On
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 closed at
+11 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+11 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 closed while
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 $ at
+13 	 15 	 (NP\NP)/N 	 1 	 $ a
+14 	 13 	 N/N[num] 	 1 	 5.63 $
+16 	 15 	 (NP\NP)/N 	 2 	 bushel a
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 cent down
+21 	 19 	 NP/NP 	 1 	 cent half
+21 	 20 	 NP[nb]/N 	 1 	 cent a
+27 	 24 	 NP[nb]/N 	 1 	 contract the
+27 	 25 	 N/N 	 1 	 contract December
+27 	 26 	 N/N 	 1 	 contract wheat
+27 	 28 	 S[dcl]\NP 	 1 	 contract rose
+28 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 rose while
+28 	 29 	 (S\NP)\(S\NP) 	 2 	 rose three-quarters
+28 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+29 	 30 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 three-quarters of
+32 	 30 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 cent of
+32 	 31 	 NP[nb]/N 	 1 	 cent a
+34 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+34 	 36 	 (NP\NP)/N 	 1 	 $ a
+35 	 34 	 N/N[num] 	 1 	 4.0775 $
+37 	 36 	 (NP\NP)/N 	 2 	 bushel a
+<\s>
+<s id="wsj_1320.45"> 15
+0 	 2 	 (S[dcl]\(S[ng]\NP))/NP 	 1 	 Supporting was
+1 	 0 	 (S[ng]\NP)/NP 	 2 	 prices Supporting
+4 	 2 	 (S[dcl]\(S[ng]\NP))/NP 	 2 	 announcement was
+4 	 3 	 NP[nb]/N 	 1 	 announcement the
+4 	 6 	 NP\NP 	 1 	 announcement Friday
+4 	 7 	 (NP\NP)/NP 	 1 	 announcement of
+6 	 5 	 (NP\NP)/(NP\NP) 	 2 	 Friday late
+10 	 7 	 (NP\NP)/NP 	 2 	 sales of
+10 	 8 	 N/N 	 1 	 sales additional
+10 	 9 	 N/N 	 1 	 sales grain
+10 	 11 	 (NP\NP)/NP 	 1 	 sales to
+14 	 11 	 (NP\NP)/NP 	 2 	 Union to
+14 	 12 	 NP[nb]/N 	 1 	 Union the
+14 	 13 	 N/N 	 1 	 Union Soviet
+<\s>
+<s id="wsj_1320.46"> 30
+1 	 7 	 (S[dcl]\(S[ng]\NP))/NP 	 1 	 acting was
+2 	 1 	 (S[ng]\NP)/PP 	 2 	 as acting
+4 	 2 	 PP/NP 	 1 	 drag as
+4 	 3 	 NP[nb]/N 	 1 	 drag a
+4 	 5 	 (NP\NP)/NP 	 1 	 drag on
+6 	 5 	 (NP\NP)/NP 	 2 	 prices on
+7 	 0 	 S/S 	 1 	 was But
+11 	 7 	 (S[dcl]\(S[ng]\NP))/NP 	 2 	 weather was
+11 	 8 	 NP[nb]/N 	 1 	 weather the
+11 	 9 	 N/N 	 1 	 weather improved
+11 	 10 	 N/N 	 1 	 weather harvest
+11 	 12 	 (NP\NP)/NP 	 1 	 weather over
+14 	 12 	 (NP\NP)/NP 	 2 	 weekend over
+14 	 13 	 NP[nb]/N 	 1 	 weekend the
+17 	 7 	 (S[dcl]\(S[ng]\NP))/NP 	 2 	 prospect was
+17 	 16 	 NP[nb]/N 	 1 	 prospect the
+17 	 18 	 (NP\NP)/NP 	 1 	 prospect for
+21 	 18 	 (NP\NP)/NP 	 2 	 weather for
+21 	 19 	 N/N 	 1 	 weather continued
+21 	 20 	 N/N 	 1 	 weather fair
+21 	 22 	 (NP\NP)/N 	 1 	 weather this
+21 	 24 	 (NP\NP)/NP 	 1 	 weather over
+23 	 22 	 (NP\NP)/N 	 2 	 week this
+25 	 24 	 (NP\NP)/NP 	 2 	 much over
+25 	 26 	 (NP\NP)/NP 	 1 	 much of
+29 	 26 	 (NP\NP)/NP 	 2 	 Belt of
+29 	 27 	 NP[nb]/N 	 1 	 Belt the
+29 	 28 	 N/N 	 1 	 Belt Farm
+<\s>
+<s id="wsj_1320.47"> 10
+2 	 0 	 N/N 	 1 	 selling Strong
+2 	 1 	 N/N 	 1 	 selling farmer
+2 	 7 	 (S[dcl]\NP)/PP 	 1 	 selling weighed
+5 	 3 	 ((S\NP)/(S\NP))/NP 	 3 	 weekend over
+5 	 4 	 NP[nb]/N 	 1 	 weekend the
+7 	 3 	 ((S\NP)/(S\NP))/NP 	 2 	 weighed over
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 weighed also
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 on weighed
+9 	 8 	 PP/NP 	 1 	 prices on
+<\s>
+<s id="wsj_1320.48"> 1
+<\s>
+<s id="wsj_1320.49"> 13
+1 	 0 	 N/N 	 1 	 prices World
+1 	 2 	 S[dcl]\NP 	 1 	 prices tumbled
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 tumbled from
+2 	 10 	 ((S\NP)\(S\NP))/PP 	 2 	 tumbled according
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 from mostly
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 weight from
+8 	 6 	 NP[nb]/N 	 1 	 weight their
+8 	 7 	 N/N 	 1 	 weight own
+11 	 10 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+12 	 11 	 PP/NP 	 1 	 analysts to
+<\s>
+<s id="wsj_1320.50"> 13
+2 	 0 	 NP[nb]/N 	 1 	 contract The
+2 	 1 	 N/N 	 1 	 contract March
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 contract ended
+3 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 ended down
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 at ended
+6 	 4 	 PP/NP 	 1 	 cents at
+6 	 5 	 N/N 	 1 	 cents 13.79
+6 	 7 	 (NP\NP)/N 	 1 	 cents a
+8 	 7 	 (NP\NP)/N 	 2 	 pound a
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 cent down
+12 	 11 	 N/N 	 1 	 cent 0.37
+<\s>
+<s id="wsj_1320.51"> 34
+3 	 0 	 (S/S)/NP 	 2 	 week For
+3 	 1 	 NP[nb]/N 	 1 	 week the
+3 	 2 	 N/N 	 1 	 week past
+3 	 5 	 NP\NP 	 1 	 week so
+5 	 4 	 (NP\NP)/(NP\NP) 	 2 	 so or
+7 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 traders have
+7 	 10 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 1 	 traders expecting <XB>
+8 	 0 	 (S/S)/NP 	 1 	 have For
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+10 	 9 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 expecting been
+11 	 10 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 India expecting
+11 	 13 	 (S[b]\NP)/NP 	 1 	 India buy <XB>
+12 	 10 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to expecting
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+15 	 14 	 (N/N)/(N/N) 	 2 	 150,000 between
+17 	 14 	 (N/N)/(N/N) 	 2 	 200,000 between
+18 	 13 	 (S[b]\NP)/NP 	 2 	 tons buy
+18 	 15 	 N/N 	 1 	 tons 150,000 <XU>
+18 	 17 	 N/N 	 1 	 tons 200,000
+18 	 19 	 (NP\NP)/NP 	 1 	 tons of
+21 	 19 	 (NP\NP)/NP 	 2 	 sugar of
+21 	 20 	 N/N 	 1 	 sugar refined
+24 	 25 	 (S[dcl]\NP[thr])/(S[pt]\NP) 	 1 	 there have
+26 	 25 	 (S[dcl]\NP[thr])/(S[pt]\NP) 	 2 	 been have
+27 	 26 	 (S[pt]\NP)/NP 	 2 	 expectations been
+27 	 28 	 (NP\NP)/NP 	 1 	 expectations of
+31 	 28 	 (NP\NP)/NP 	 2 	 purchase of
+31 	 29 	 NP[nb]/N 	 1 	 purchase a
+31 	 30 	 N/N 	 1 	 purchase major
+31 	 32 	 (NP\NP)/NP 	 1 	 purchase by
+33 	 32 	 (NP\NP)/NP 	 2 	 Japan by
+<\s>
+<s id="wsj_1320.52"> 19
+3 	 1 	 (S/S)/NP 	 2 	 reports with
+3 	 2 	 NP[nb]/N 	 1 	 reports no
+3 	 4 	 ((NP\NP)/(S[ng]\NP))/NP 	 1 	 reports of
+6 	 4 	 ((NP\NP)/(S[ng]\NP))/NP 	 3 	 country of
+6 	 5 	 NP[nb]/N 	 1 	 country either
+6 	 8 	 (S[ng]\NP)/NP 	 1 	 country entering <XB>
+8 	 4 	 ((NP\NP)/(S[ng]\NP))/NP 	 2 	 entering of
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 entering actually
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 market entering
+10 	 9 	 NP[nb]/N 	 1 	 market the
+12 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 analysts said
+16 	 15 	 N/N 	 1 	 prices futures
+16 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 prices became
+16 	 18 	 S[adj]\NP 	 1 	 prices vulnerable <XB>
+17 	 0 	 S/S 	 1 	 became But
+17 	 1 	 (S/S)/NP 	 1 	 became with
+17 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 became said <XU>
+18 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 vulnerable became
+<\s>
+<s id="wsj_1320.53"> 50
+1 	 0 	 N/N 	 1 	 countries Developing
+1 	 3 	 (NP\NP)/NP 	 1 	 countries as
+1 	 10 	 (S[b]\NP)/(S[to]\NP) 	 1 	 countries seem
+1 	 13 	 (((S[pt]\NP)/(S[to]\NP))/NP)/NP[expl] 	 1 	 countries made <XB>
+3 	 2 	 (NP\NP)/(NP\NP) 	 2 	 as such
+4 	 3 	 (NP\NP)/NP 	 2 	 India as
+7 	 6 	 NP[nb]/N 	 1 	 analysts some
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 analysts said
+11 	 10 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to seem
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+13 	 12 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 made have
+14 	 13 	 (((S[pt]\NP)/(S[to]\NP))/NP)/NP[expl] 	 4 	 it made
+16 	 13 	 (((S[pt]\NP)/(S[to]\NP))/NP)/NP[expl] 	 3 	 point made
+16 	 15 	 NP[nb]/N 	 1 	 point a
+16 	 18 	 S[b]\NP 	 1 	 point stay <XB>
+16 	 35 	 (S[b]\NP)/S[for] 	 1 	 point wait <XU>
+17 	 13 	 (((S[pt]\NP)/(S[to]\NP))/NP)/NP[expl] 	 2 	 to made
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stay to
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 stay away
+18 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 stay whenever
+21 	 22 	 (S[dcl]\NP)/NP 	 1 	 sugar reached
+22 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 reached whenever
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 top reached
+24 	 23 	 NP[nb]/N 	 1 	 top the
+24 	 25 	 (NP\NP)/NP 	 1 	 top of
+28 	 25 	 (NP\NP)/NP 	 2 	 range of
+28 	 26 	 NP[nb]/N 	 1 	 range its
+28 	 27 	 N/N 	 1 	 range trading
+31 	 30 	 (N/N)/(N/N) 	 2 	 14.75 around
+32 	 22 	 (S[dcl]\NP)/NP 	 2 	 cents reached
+32 	 31 	 N/N 	 1 	 cents 14.75
+35 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 wait to
+36 	 35 	 (S[b]\NP)/S[for] 	 2 	 for wait
+37 	 36 	 (S[for]/(S[to]\NP))/NP 	 2 	 prices for
+37 	 39 	 S[b]\NP 	 1 	 prices return <XB>
+38 	 36 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+39 	 38 	 (S[to]\NP)/(S[b]\NP) 	 2 	 return to
+39 	 40 	 ((S\NP)\(S\NP))/NP 	 2 	 return to
+42 	 40 	 ((S\NP)\(S\NP))/NP 	 3 	 bottom to
+42 	 41 	 NP[nb]/N 	 1 	 bottom the
+42 	 43 	 (NP\NP)/NP 	 1 	 bottom of
+45 	 43 	 (NP\NP)/NP 	 2 	 range of
+45 	 44 	 NP[nb]/N 	 1 	 range the
+48 	 47 	 (N/N)/(N/N) 	 2 	 13.50 around
+49 	 40 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+49 	 48 	 N/N 	 1 	 cents 13.50
+<\s>
+<s id="wsj_1320.54"> 46
+2 	 1 	 N/N 	 1 	 Dunlaevy Erik
+2 	 13 	 ((S[dcl]/S[dcl])\NP)/S[dcl] 	 2 	 Dunlaevy said
+6 	 4 	 NP[nb]/N 	 1 	 analyst a
+6 	 5 	 N/N 	 1 	 analyst sugar
+6 	 7 	 (NP\NP)/NP 	 1 	 analyst with
+6 	 13 	 ((S[dcl]/S[dcl])\NP)/S[dcl] 	 2 	 analyst said
+11 	 7 	 (NP\NP)/NP 	 2 	 Ltd. with
+11 	 8 	 N/N 	 1 	 Ltd. Balfour
+11 	 9 	 N/N 	 1 	 Ltd. Maclaine
+11 	 10 	 N/N 	 1 	 Ltd. International
+13 	 0 	 S/S 	 1 	 said But
+15 	 14 	 NP[nb]/N 	 1 	 explanation the
+15 	 16 	 (NP\NP)/NP 	 1 	 explanation for
+15 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 explanation is
+15 	 25 	 S[adj]\NP 	 1 	 explanation simpler <XB>
+19 	 16 	 (NP\NP)/NP 	 2 	 drop for
+19 	 17 	 NP[nb]/N 	 1 	 drop the
+19 	 18 	 N/N 	 1 	 drop latest
+19 	 20 	 (NP\NP)/NP 	 1 	 drop in
+22 	 20 	 (NP\NP)/NP 	 2 	 prices in
+22 	 21 	 N/N 	 1 	 prices sugar
+23 	 13 	 ((S[dcl]/S[dcl])\NP)/S[dcl] 	 3 	 is said
+25 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 simpler is
+25 	 24 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 simpler much
+27 	 32 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Speculators got
+27 	 34 	 S[adj]\NP 	 1 	 Speculators long <XB>
+27 	 38 	 (S[dcl]\NP)/PP 	 1 	 Speculators ran <XU>
+29 	 30 	 (S[dcl]\NP)/S[dcl] 	 1 	 he said
+32 	 13 	 ((S[dcl]/S[dcl])\NP)/S[dcl] 	 1 	 got said
+32 	 36 	 (S\NP)\(S\NP) 	 2 	 got soon
+34 	 32 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 long got
+34 	 33 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 long too
+36 	 35 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 soon too
+38 	 13 	 ((S[dcl]/S[dcl])\NP)/S[dcl] 	 1 	 ran said
+38 	 41 	 ((S\NP)\(S\NP))/NP 	 2 	 ran around
+39 	 38 	 (S[dcl]\NP)/PP 	 2 	 into ran
+40 	 39 	 PP/NP 	 1 	 resistance into
+45 	 41 	 ((S\NP)\(S\NP))/NP 	 3 	 highs around
+45 	 42 	 NP[nb]/N 	 1 	 highs the
+45 	 43 	 N/N 	 1 	 highs old
+45 	 44 	 N/N 	 1 	 highs contract
+<\s>
+<s id="wsj_1320.55"> 50
+2 	 0 	 NP[nb]/N 	 1 	 analyst A
+2 	 1 	 N/N 	 1 	 analyst PaineWebber
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 analyst said
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+6 	 5 	 (S/S)/NP 	 2 	 light in
+6 	 7 	 (NP\NP)/NP 	 1 	 light of
+10 	 7 	 (NP\NP)/NP 	 2 	 estimate of
+10 	 8 	 NP[nb]/N 	 1 	 estimate a
+10 	 9 	 N/N 	 1 	 estimate new
+10 	 11 	 (NP\NP)/NP 	 1 	 estimate of
+14 	 11 	 (NP\NP)/NP 	 2 	 increase of
+14 	 12 	 NP[nb]/N 	 1 	 increase a
+14 	 13 	 N/N 	 1 	 increase production
+14 	 15 	 (NP\NP)/NP 	 1 	 increase of
+17 	 16 	 (N/N)/(N/N) 	 2 	 million four
+19 	 15 	 (NP\NP)/NP 	 2 	 tons of
+19 	 17 	 N/N 	 1 	 tons million
+19 	 18 	 N/N 	 1 	 tons metric
+24 	 7 	 (NP\NP)/NP 	 2 	 increase of
+24 	 21 	 NP/NP 	 1 	 increase only
+24 	 22 	 NP[nb]/N 	 1 	 increase a
+24 	 23 	 N/N 	 1 	 increase modest
+24 	 25 	 (NP\NP)/NP 	 1 	 increase in
+26 	 25 	 (NP\NP)/NP 	 2 	 consumption in
+28 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 sugar is
+28 	 31 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 sugar likely <XB>
+29 	 4 	 S[em]/S[dcl] 	 1 	 is that
+29 	 5 	 (S/S)/NP 	 1 	 is in
+29 	 30 	 (S\NP)\(S\NP) 	 2 	 is n't
+31 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely is
+32 	 31 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+33 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rise to
+33 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 rise above
+33 	 41 	 ((S\NP)\(S\NP))/NP 	 2 	 rise without
+36 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 top above
+36 	 35 	 NP[nb]/N 	 1 	 top the
+36 	 37 	 (NP\NP)/NP 	 1 	 top of
+40 	 37 	 (NP\NP)/NP 	 2 	 range of
+40 	 38 	 NP[nb]/N 	 1 	 range its
+40 	 39 	 N/N 	 1 	 range trading
+44 	 41 	 ((S\NP)\(S\NP))/NP 	 3 	 problem without
+44 	 42 	 NP[nb]/N 	 1 	 problem a
+44 	 43 	 N/N 	 1 	 problem crop
+44 	 45 	 (NP\NP)/NP 	 1 	 problem in
+49 	 45 	 (NP\NP)/NP 	 2 	 country in
+49 	 46 	 NP[nb]/N 	 1 	 country a
+49 	 47 	 N/N 	 1 	 country major
+49 	 48 	 N/N 	 1 	 country producing
+<\s>
+<s id="wsj_1320.56"> 1
+<\s>
+<s id="wsj_1320.57"> 3
+0 	 1 	 S[dcl]\NP 	 1 	 Futures rallied
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 rallied modestly
+<\s>
+<s id="wsj_1320.58"> 19
+2 	 0 	 NP[nb]/N 	 1 	 contract The
+2 	 1 	 N/N 	 1 	 contract December
+2 	 3 	 S[dcl]\NP 	 1 	 contract rose
+3 	 4 	 ((S\NP)\(S\NP))/N[num] 	 2 	 rose $
+3 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+3 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 rose near
+4 	 6 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 3 	 $ a
+5 	 4 	 ((S\NP)\(S\NP))/N[num] 	 3 	 33 $
+8 	 6 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 4 	 ton a
+8 	 7 	 N/N 	 1 	 ton metric
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+11 	 10 	 N/N[num] 	 1 	 1,027 $
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 high near
+15 	 14 	 NP[nb]/N 	 1 	 high its
+15 	 16 	 (NP\NP)/NP 	 1 	 high for
+18 	 16 	 (NP\NP)/NP 	 2 	 day for
+18 	 17 	 NP[nb]/N 	 1 	 day the
+<\s>
+<s id="wsj_1320.59"> 30
+3 	 0 	 N/N 	 1 	 Ltd. Gill
+3 	 1 	 N/N 	 1 	 Ltd. &
+3 	 2 	 N/N 	 1 	 Ltd. Duffus
+3 	 10 	 (S[dcl]\NP)/S[em] 	 1 	 Ltd. estimated
+8 	 5 	 NP[nb]/N 	 1 	 house a
+8 	 6 	 N/N 	 1 	 house British
+8 	 7 	 N/N 	 1 	 house cocoa-trading
+8 	 10 	 (S[dcl]\NP)/S[em] 	 1 	 house estimated
+11 	 10 	 (S[dcl]\NP)/S[em] 	 2 	 that estimated
+16 	 12 	 NP[nb]/N 	 1 	 surplus the
+16 	 13 	 N/N 	 1 	 surplus 1989-90
+16 	 14 	 N/N 	 1 	 surplus world
+16 	 15 	 N/N 	 1 	 surplus cocoa
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 surplus would
+16 	 18 	 (S[b]\NP)/NP 	 1 	 surplus be <XB>
+17 	 11 	 S[em]/S[dcl] 	 1 	 would that
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+18 	 22 	 ((S\NP)\(S\NP))/PP 	 2 	 be down
+20 	 18 	 (S[b]\NP)/NP 	 2 	 tons be
+20 	 19 	 N/N 	 1 	 tons 231,000
+23 	 22 	 ((S\NP)\(S\NP))/PP 	 3 	 from down
+23 	 26 	 (PP\PP)/NP 	 1 	 from for
+25 	 23 	 PP/NP 	 1 	 tons from
+25 	 24 	 N/N 	 1 	 tons 314,000
+29 	 26 	 (PP\PP)/NP 	 2 	 year for
+29 	 27 	 NP[nb]/N 	 1 	 year the
+29 	 28 	 N/N 	 1 	 year previous
+<\s>
+<s id="wsj_1320.60"> 17
+1 	 0 	 N/N 	 1 	 technicians Market
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 technicians were
+1 	 3 	 S[pss]\NP 	 1 	 technicians encouraged <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 encouraged were
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 encouraged by
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 patterns by
+7 	 5 	 NP[nb]/N 	 1 	 patterns the
+7 	 6 	 N/N 	 1 	 patterns price
+7 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 patterns which
+7 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 patterns have <XB>
+7 	 14 	 (S[pt]\NP)/NP 	 1 	 patterns preceded <XB>
+12 	 10 	 ((S\NP)/(S\NP))/NP 	 3 	 past in
+12 	 11 	 NP[nb]/N 	 1 	 past the
+13 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have which
+13 	 10 	 ((S\NP)/(S\NP))/NP 	 2 	 have in
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 preceded have
+16 	 14 	 (S[pt]\NP)/NP 	 2 	 rallies preceded
+16 	 15 	 N/N 	 1 	 rallies sharp
+<\s>
+<s id="wsj_1320.61"> 13
+1 	 0 	 N/N 	 1 	 prices Recent
+1 	 2 	 (NP\NP)/NP 	 1 	 prices for
+1 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 prices have
+1 	 5 	 (S[pt]\NP)/PP 	 1 	 prices been <XB>
+3 	 2 	 (NP\NP)/NP 	 2 	 cocoa for
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+6 	 5 	 (S[pt]\NP)/PP 	 2 	 near been
+7 	 6 	 PP/NP 	 1 	 levels near
+7 	 9 	 S[pss]\NP 	 1 	 levels seen <XB>
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 seen last
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 seen in
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 mid-1970s in
+12 	 11 	 NP[nb]/N 	 1 	 mid-1970s the
+<\s>
+<s id="wsj_1320.62"> 26
+2 	 0 	 (S/S)/NP 	 2 	 prices At
+2 	 1 	 NP/NP 	 1 	 prices such
+5 	 4 	 (S/S)/PP 	 2 	 to according
+7 	 5 	 PP/NP 	 1 	 Savaiko to
+7 	 6 	 N/N 	 1 	 Savaiko Mr.
+10 	 9 	 N/N 	 1 	 hunting bargain
+10 	 21 	 (NP\NP)/NP 	 1 	 hunting by
+10 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 hunting is
+10 	 25 	 S[adj]\NP 	 1 	 hunting uncommon <XB>
+12 	 13 	 (NP\NP)/NP 	 1 	 short-covering --
+12 	 21 	 (NP\NP)/NP 	 1 	 short-covering by
+12 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 short-covering is
+12 	 25 	 S[adj]\NP 	 1 	 short-covering uncommon <XB>
+14 	 13 	 (NP\NP)/NP 	 2 	 buying --
+14 	 15 	 N\N 	 1 	 buying back
+14 	 16 	 (NP\NP)/NP 	 1 	 buying of
+17 	 16 	 (NP\NP)/NP 	 2 	 contracts of
+17 	 19 	 S[pss]\NP 	 1 	 contracts sold <XB>
+19 	 18 	 (S\NP)/(S\NP) 	 2 	 sold previously
+22 	 21 	 (NP\NP)/NP 	 2 	 speculators by
+23 	 0 	 (S/S)/NP 	 1 	 is At
+23 	 4 	 (S/S)/PP 	 1 	 is according
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 is n't
+25 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 uncommon is
+<\s>
+<s id="wsj_1320.63"> 16
+2 	 1 	 N/N 	 1 	 Savaiko Mr.
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Savaiko expects
+3 	 0 	 S/S 	 1 	 expects But
+6 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 selling expects
+6 	 4 	 N/N 	 1 	 selling stepped-up
+6 	 5 	 N/N 	 1 	 selling producer
+8 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 around expects
+8 	 7 	 PP/PP 	 1 	 around at
+10 	 12 	 ((N/N)\(N/N))/N 	 2 	 $ to
+11 	 10 	 (N/N)/N[num] 	 2 	 1,040 $
+13 	 12 	 ((N/N)\(N/N))/N 	 3 	 $ to
+14 	 13 	 N/N[num] 	 1 	 1,050 $
+15 	 8 	 PP/NP 	 1 	 level around
+15 	 9 	 NP[nb]/N 	 1 	 level the
+15 	 10 	 (N/N)/N[num] 	 1 	 level $
+<\s>
+<s id="wsj_1320.64"> 24
+0 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 He noted
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 noted also
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that noted
+7 	 4 	 NP[nb]/N 	 1 	 market a
+7 	 5 	 N/N 	 1 	 market strong
+7 	 6 	 N/N 	 1 	 market sterling
+7 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 market might
+7 	 11 	 (S[pt]\NP)/NP 	 1 	 market helped <XB>
+9 	 3 	 S[em]/S[dcl] 	 1 	 might that
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 might yesterday
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have might
+11 	 10 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 helped have
+11 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 helped in
+11 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 helped as
+12 	 11 	 (S[pt]\NP)/NP 	 2 	 cocoa helped
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 York in
+15 	 14 	 N/N 	 1 	 York New
+17 	 18 	 ((S[dcl]\NP)/PP)/NP 	 1 	 arbitragers took
+18 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 took as
+19 	 18 	 ((S[dcl]\NP)/PP)/NP 	 3 	 advantage took
+20 	 18 	 ((S[dcl]\NP)/PP)/NP 	 2 	 of took
+23 	 20 	 PP/NP 	 1 	 move of
+23 	 21 	 NP[nb]/N 	 1 	 move the
+23 	 22 	 N/N 	 1 	 move currency
+<\s>
+<s id="wsj_1320.65"> 31
+1 	 0 	 N/N 	 1 	 Kaul Sandra
+1 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 Kaul said
+4 	 3 	 N/N 	 1 	 analyst research
+4 	 5 	 (NP\NP)/NP 	 1 	 analyst at
+4 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 analyst said
+8 	 5 	 (NP\NP)/NP 	 2 	 Hutton at
+8 	 6 	 N/N 	 1 	 Hutton Shearson
+8 	 7 	 N/N 	 1 	 Hutton Lehman
+12 	 11 	 NP[nb]/N 	 1 	 market the
+12 	 13 	 S[dcl]\NP 	 1 	 market pushed
+13 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 pushed said
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 pushed higher
+13 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 pushed in
+16 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 in mainly
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 anticipation in
+17 	 18 	 (NP\NP)/NP 	 1 	 anticipation of
+21 	 18 	 (NP\NP)/NP 	 2 	 harvest of
+21 	 19 	 NP[nb]/N 	 1 	 harvest a
+21 	 20 	 N/N 	 1 	 harvest late
+21 	 22 	 (NP\NP)/NP 	 1 	 harvest in
+25 	 22 	 (NP\NP)/NP 	 2 	 Coast in
+25 	 23 	 NP[nb]/N 	 1 	 Coast the
+25 	 24 	 N/N 	 1 	 Coast Ivory
+30 	 22 	 (NP\NP)/NP 	 2 	 producer in
+30 	 27 	 NP[nb]/N 	 1 	 producer a
+30 	 28 	 N/N 	 1 	 producer major
+30 	 29 	 N/N 	 1 	 producer cocoa
+<\s>

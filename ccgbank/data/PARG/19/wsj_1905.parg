@@ -1,0 +1,177 @@
+<s id="wsj_1905.1"> 25
+2 	 0 	 N/N 	 1 	 Corp. Morrison
+2 	 1 	 N/N 	 1 	 Corp. Knudsen
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Corp. posted
+2 	 18 	 (S[ng]\NP)/NP 	 1 	 Corp. continuing <XB>
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 income posted
+6 	 4 	 N/N 	 1 	 income third-quarter
+6 	 5 	 N/N 	 1 	 income net
+6 	 7 	 (NP\NP)/NP 	 1 	 income of
+8 	 7 	 (NP\NP)/NP 	 2 	 $ of
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 7.9
+14 	 7 	 (NP\NP)/NP 	 2 	 cents of
+14 	 13 	 N/N 	 1 	 cents 69
+14 	 15 	 (NP\NP)/N 	 1 	 cents a
+16 	 15 	 (NP\NP)/N 	 2 	 share a
+20 	 18 	 (S[ng]\NP)/NP 	 2 	 rebound continuing
+20 	 19 	 NP[nb]/N 	 1 	 rebound a
+20 	 21 	 (NP\NP)/NP 	 1 	 rebound from
+24 	 21 	 (NP\NP)/NP 	 2 	 losses from
+24 	 22 	 N/N 	 1 	 losses steep
+24 	 23 	 N/N 	 1 	 losses year-ago
+<\s>
+<s id="wsj_1905.2"> 25
+3 	 0 	 (S/S)/NP 	 2 	 quarter In
+3 	 1 	 NP[nb]/N 	 1 	 quarter the
+3 	 2 	 N/N 	 1 	 quarter third
+5 	 4 	 (S/S)/N 	 2 	 year-earlier a
+8 	 7 	 NP[nb]/N 	 1 	 construction the
+8 	 12 	 (S[dcl]\NP)/NP 	 1 	 construction posted
+11 	 7 	 NP[nb]/N 	 1 	 concern the
+11 	 10 	 N/N 	 1 	 concern engineering
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 concern posted
+12 	 0 	 (S/S)/NP 	 1 	 posted In
+12 	 4 	 (S/S)/N 	 1 	 posted a
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 loss posted
+14 	 13 	 NP[nb]/N 	 1 	 loss a
+14 	 15 	 (NP\NP)/NP 	 1 	 loss of
+16 	 15 	 (NP\NP)/NP 	 2 	 $ of
+18 	 16 	 N/N[num] 	 1 	 million $
+18 	 17 	 N/N 	 1 	 million 51.2
+21 	 15 	 (NP\NP)/NP 	 2 	 $ of
+21 	 23 	 (NP\NP)/N 	 1 	 $ a
+22 	 21 	 N/N[num] 	 1 	 4.68 $
+24 	 23 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_1905.3"> 16
+0 	 1 	 (NP\NP)/NP 	 1 	 Revenue in
+0 	 5 	 S[dcl]\NP 	 1 	 Revenue rose
+4 	 1 	 (NP\NP)/NP 	 2 	 quarter in
+4 	 2 	 NP[nb]/N 	 1 	 quarter the
+4 	 3 	 N/N 	 1 	 quarter latest
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 rose %
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+5 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 14
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 589
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 515.1
+<\s>
+<s id="wsj_1905.4"> 17
+2 	 0 	 (S/S)/NP 	 2 	 trading In
+2 	 1 	 N/N 	 1 	 trading composite
+8 	 3 	 (S/S)/NP 	 2 	 Exchange on
+8 	 4 	 NP[nb]/N 	 1 	 Exchange the
+8 	 5 	 N/N 	 1 	 Exchange New
+8 	 6 	 N/N 	 1 	 Exchange York
+8 	 7 	 N/N 	 1 	 Exchange Stock
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 Morrison gained
+11 	 0 	 (S/S)/NP 	 1 	 gained In
+11 	 3 	 (S/S)/NP 	 1 	 gained on
+11 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 gained to
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 $ gained
+13 	 12 	 N/N[num] 	 1 	 2.25 $
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+16 	 15 	 N/N[num] 	 1 	 44.125 $
+<\s>
+<s id="wsj_1905.5"> 19
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Morrison said
+3 	 2 	 NP[nb]/N 	 1 	 engineering the
+3 	 7 	 S[dcl]\NP 	 1 	 engineering performed
+6 	 2 	 NP[nb]/N 	 1 	 segment the
+6 	 5 	 N/N 	 1 	 segment construction
+6 	 7 	 S[dcl]\NP 	 1 	 segment performed
+7 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 performed said
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 performed well
+7 	 10 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 2 	 performed with
+15 	 10 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 operations with
+15 	 11 	 NP[nb]/N 	 1 	 operations the
+15 	 12 	 N/N 	 1 	 operations mining
+15 	 14 	 N/N 	 1 	 operations MK-Ferguson
+15 	 16 	 (S[ng]\NP)/NP 	 1 	 operations making <XB>
+16 	 10 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 3 	 making with
+18 	 16 	 (S[ng]\NP)/NP 	 2 	 contributions making
+18 	 17 	 N/N 	 1 	 contributions important
+<\s>
+<s id="wsj_1905.6"> 35
+2 	 0 	 (N/N)/(N/N) 	 2 	 Idaho-based Boise
+3 	 2 	 N/N 	 1 	 Morrison Idaho-based
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Morrison had
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 losses had
+5 	 6 	 (S[ng]\NP)/NP 	 1 	 losses totaling <XB>
+6 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 totaling over
+7 	 6 	 (S[ng]\NP)/NP 	 2 	 $ totaling
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 186
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 years over
+13 	 11 	 NP[nb]/N 	 1 	 years the
+13 	 12 	 N/N 	 1 	 years two
+13 	 14 	 S[pss]\NP 	 1 	 years ended <XB>
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 ended in
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 December in
+19 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+19 	 21 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 it surged <XB>
+19 	 22 	 S[adj]\NP 	 1 	 it back <XB>
+21 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 surged has
+21 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 surged to
+21 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 surged as
+22 	 21 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 back surged
+24 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 profitability to
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 result as
+27 	 26 	 NP[nb]/N 	 1 	 result a
+27 	 28 	 (NP\NP)/NP 	 1 	 result of
+29 	 28 	 (NP\NP)/NP 	 2 	 cost-cutting of
+31 	 28 	 (NP\NP)/NP 	 2 	 shedding of
+32 	 31 	 (S[ng]\NP)/PP 	 2 	 of shedding
+34 	 32 	 PP/NP 	 1 	 operations of
+34 	 33 	 N/N 	 1 	 operations unprofitable
+<\s>
+<s id="wsj_1905.7"> 36
+3 	 0 	 (S/S)/NP 	 2 	 months In
+3 	 1 	 NP[nb]/N 	 1 	 months the
+3 	 2 	 N/N 	 1 	 months nine
+6 	 5 	 NP[nb]/N 	 1 	 company the
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 company 's
+9 	 7 	 (NP[nb]/N)\NP 	 1 	 income 's
+9 	 8 	 N/N 	 1 	 income net
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 income was
+10 	 0 	 (S/S)/NP 	 1 	 was In
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 $ was
+11 	 21 	 (NP\NP)/PP 	 1 	 $ compared
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 21.5
+16 	 10 	 (S[dcl]\NP)/NP 	 2 	 $ was
+16 	 18 	 (NP\NP)/N 	 1 	 $ a
+16 	 21 	 (NP\NP)/PP 	 1 	 $ compared
+17 	 16 	 N/N[num] 	 1 	 1.88 $
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+22 	 21 	 (NP\NP)/PP 	 2 	 with compared
+25 	 22 	 PP/NP 	 1 	 loss with
+25 	 23 	 NP[nb]/N 	 1 	 loss a
+25 	 24 	 N/N 	 1 	 loss year-earlier
+25 	 26 	 (NP\NP)/NP 	 1 	 loss of
+27 	 26 	 (NP\NP)/NP 	 2 	 $ of
+29 	 27 	 N/N[num] 	 1 	 million $
+29 	 28 	 N/N 	 1 	 million 97.8
+32 	 26 	 (NP\NP)/NP 	 2 	 $ of
+32 	 34 	 (NP\NP)/N 	 1 	 $ a
+33 	 32 	 N/N[num] 	 1 	 8.96 $
+35 	 34 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_1905.8"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Revenue rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 17
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 1.62
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 1.39
+<\s>

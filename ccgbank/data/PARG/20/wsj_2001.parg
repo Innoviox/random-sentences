@@ -1,0 +1,56 @@
+<s id="wsj_2001.1"> 24
+2 	 0 	 N/N 	 1 	 III Frank
+2 	 1 	 N/N 	 1 	 III Carlucci
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 III was
+2 	 4 	 (S[pss]\NP)/PP 	 1 	 III named <XB>
+2 	 12 	 (S[ng]\NP)/NP 	 1 	 III filling <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 to named
+8 	 6 	 NP[nb]/N 	 1 	 company this
+8 	 7 	 N/N 	 1 	 company telecommunications
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 company 's
+10 	 5 	 PP/NP 	 1 	 board to
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 board 's
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 vacancy filling
+14 	 13 	 NP[nb]/N 	 1 	 vacancy the
+14 	 15 	 S[pss]\NP 	 1 	 vacancy created <XB>
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 created by
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 death by
+18 	 17 	 NP[nb]/N 	 1 	 death the
+18 	 19 	 (NP\NP)/NP 	 1 	 death of
+18 	 23 	 NP\NP 	 1 	 death May
+21 	 19 	 (NP\NP)/NP 	 2 	 Sobey of
+21 	 20 	 N/N 	 1 	 Sobey William
+23 	 22 	 (NP\NP)/(NP\NP) 	 2 	 May last
+<\s>
+<s id="wsj_2001.2"> 15
+1 	 0 	 N/N 	 1 	 Carlucci Mr.
+1 	 5 	 (S[adj]\NP)\NP 	 1 	 Carlucci old <XB>
+1 	 7 	 (S[dcl]\NP)/PP 	 1 	 Carlucci served
+4 	 3 	 N/N 	 1 	 years 59
+4 	 5 	 (S[adj]\NP)\NP 	 2 	 years old
+7 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 served in
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 as served
+10 	 8 	 PP/NP 	 1 	 secretary as
+10 	 9 	 N/N 	 1 	 secretary defense
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 administration in
+14 	 12 	 NP[nb]/N 	 1 	 administration the
+14 	 13 	 N/N 	 1 	 administration Reagan
+<\s>
+<s id="wsj_2001.3"> 18
+1 	 0 	 (S/S)/NP 	 2 	 January In
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 he accepted
+4 	 0 	 (S/S)/NP 	 1 	 accepted In
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 position accepted
+6 	 5 	 NP[nb]/N 	 1 	 position the
+6 	 7 	 (NP\NP)/NP 	 1 	 position of
+9 	 7 	 (NP\NP)/NP 	 2 	 chairman of
+9 	 8 	 N/N 	 1 	 chairman vice
+9 	 10 	 (NP\NP)/NP 	 1 	 chairman of
+12 	 10 	 (NP\NP)/NP 	 2 	 Group of
+12 	 11 	 N/N 	 1 	 Group Carlyle
+17 	 10 	 (NP\NP)/NP 	 2 	 concern of
+17 	 14 	 NP[nb]/N 	 1 	 concern a
+17 	 15 	 N/N 	 1 	 concern merchant
+17 	 16 	 N/N 	 1 	 concern banking
+<\s>

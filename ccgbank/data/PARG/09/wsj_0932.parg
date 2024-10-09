@@ -1,0 +1,250 @@
+<s id="wsj_0932.1"> 23
+1 	 0 	 NP[nb]/N 	 1 	 amount The
+1 	 2 	 (NP\NP)/NP 	 1 	 amount of
+1 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 amount can
+1 	 14 	 S[pss]\NP 	 1 	 amount increased <XB>
+3 	 2 	 (NP\NP)/NP 	 2 	 blood of
+3 	 7 	 (S[b]\NP)/NP 	 2 	 blood donate <XU>
+3 	 9 	 (S[b]\NP)/NP 	 2 	 blood store <XU>
+5 	 4 	 N/N 	 1 	 patients surgical
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 patients can
+5 	 7 	 (S[b]\NP)/NP 	 1 	 patients donate <XB>
+5 	 9 	 (S[b]\NP)/NP 	 1 	 patients store <XU>
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 donate can
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 donate before
+9 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 store can
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 store before
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 surgery before
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+14 	 13 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 increased be
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 increased by
+19 	 18 	 (N/N)/(N/N) 	 2 	 engineered genetically
+20 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 drug by
+20 	 16 	 NP[nb]/N 	 1 	 drug the
+20 	 17 	 N/N 	 1 	 drug new
+20 	 19 	 N/N 	 1 	 drug engineered
+22 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 EPO by
+<\s>
+<s id="wsj_0932.2"> 20
+0 	 5 	 (S[dcl]\NP)/NP 	 1 	 EPO is
+3 	 5 	 (S[dcl]\NP)/NP 	 1 	 erythropoietin is
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 protein is
+7 	 6 	 NP[nb]/N 	 1 	 protein a
+7 	 11 	 (S[dcl]\NP)/NP 	 2 	 protein makes <XU>
+10 	 8 	 NP[nb]/N 	 1 	 body the
+10 	 9 	 N/N 	 1 	 body human
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 body makes
+10 	 13 	 (S[b]\NP)/NP 	 1 	 body stimulate <XB>
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stimulate to
+15 	 13 	 (S[b]\NP)/NP 	 2 	 growth stimulate
+15 	 14 	 NP[nb]/N 	 1 	 growth the
+15 	 16 	 (NP\NP)/NP 	 1 	 growth of
+19 	 16 	 (NP\NP)/NP 	 2 	 cells of
+19 	 17 	 N/N 	 1 	 cells red
+19 	 18 	 N/N 	 1 	 cells blood
+<\s>
+<s id="wsj_0932.3"> 31
+2 	 1 	 (N/N)/(N/N) 	 2 	 engineered genetically
+3 	 0 	 NP[nb]/N 	 1 	 version A
+3 	 2 	 N/N 	 1 	 version engineered
+3 	 4 	 (NP\NP)/NP 	 1 	 version of
+3 	 8 	 S[pss]\NP 	 1 	 version developed <XB>
+3 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 version has
+3 	 21 	 S[pss]\NP 	 1 	 version marketed <XB>
+7 	 4 	 (NP\NP)/NP 	 2 	 protein of
+7 	 5 	 NP[nb]/N 	 1 	 protein the
+7 	 6 	 N/N 	 1 	 protein human
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 developed by
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp. by
+11 	 10 	 N/N 	 1 	 Corp. Amgen
+11 	 12 	 (NP\NP)/NP 	 1 	 Corp. of
+14 	 12 	 (NP\NP)/NP 	 2 	 Oaks of
+14 	 13 	 N/N 	 1 	 Oaks Thousand
+16 	 12 	 (NP\NP)/NP 	 2 	 Calif. of
+19 	 18 	 (S\NP)/(S\NP) 	 2 	 has recently
+20 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+21 	 20 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 marketed been
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 marketed by
+26 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 division by
+26 	 23 	 NP[nb]/N 	 1 	 division the
+26 	 24 	 N/N 	 1 	 division Ortho
+26 	 25 	 N/N 	 1 	 division Pharmaceuticals
+26 	 27 	 (NP\NP)/NP 	 1 	 division of
+30 	 27 	 (NP\NP)/NP 	 2 	 Johnson of
+30 	 28 	 N/N 	 1 	 Johnson Johnson
+30 	 29 	 N/N 	 1 	 Johnson &
+<\s>
+<s id="wsj_0932.4"> 16
+2 	 0 	 NP[nb]/N 	 1 	 version A
+2 	 1 	 N/N 	 1 	 version competing
+2 	 3 	 (NP\NP)/NP 	 1 	 version of
+2 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 version is
+2 	 6 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 version being <XB>
+2 	 7 	 S[pss]\NP 	 1 	 version developed <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 EPO of
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being is
+7 	 6 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 developed being
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 developed by
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Inc. by
+11 	 9 	 N/N 	 1 	 Inc. Genetics
+11 	 10 	 N/N 	 1 	 Inc. Institute
+11 	 12 	 (NP\NP)/NP 	 1 	 Inc. in
+13 	 12 	 (NP\NP)/NP 	 2 	 Cambridge in
+15 	 12 	 (NP\NP)/NP 	 2 	 Mass in
+<\s>
+<s id="wsj_0932.5"> 9
+1 	 0 	 NP[nb]/N 	 1 	 drug The
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 drug is
+1 	 3 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 drug being <XB>
+1 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 drug used <XB>
+1 	 7 	 (S[b]\NP)/NP 	 1 	 drug treat <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being is
+4 	 3 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 used being
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 used primarily
+6 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 treat to
+8 	 7 	 (S[b]\NP)/NP 	 2 	 anemias treat
+<\s>
+<s id="wsj_0932.6"> 34
+2 	 0 	 NP[nb]/N 	 1 	 experiment A
+2 	 1 	 N/N 	 1 	 experiment new
+2 	 4 	 S[pss]\NP 	 1 	 experiment reported <XB>
+2 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 experiment involved
+2 	 16 	 ((S[ng]\NP)/PP)/NP 	 1 	 experiment giving <XB>
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 reported in
+7 	 6 	 NP[nb]/N 	 1 	 week this
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 week 's
+11 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Journal in
+11 	 8 	 (NP[nb]/N)\NP 	 1 	 Journal 's
+11 	 9 	 N/N 	 1 	 Journal New
+11 	 10 	 N/N 	 1 	 Journal England
+11 	 12 	 (NP\NP)/NP 	 1 	 Journal of
+13 	 12 	 (NP\NP)/NP 	 2 	 Medicine of
+16 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 giving involved
+17 	 16 	 ((S[ng]\NP)/PP)/NP 	 3 	 injections giving
+17 	 18 	 (NP\NP)/NP 	 1 	 injections of
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 Amgen 's
+21 	 18 	 (NP\NP)/NP 	 2 	 EPO of
+21 	 20 	 (NP[nb]/N)\NP 	 1 	 EPO 's
+22 	 16 	 ((S[ng]\NP)/PP)/NP 	 2 	 to giving
+24 	 22 	 PP/NP 	 1 	 patients to
+24 	 23 	 N/N 	 1 	 patients 23
+24 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 patients who
+24 	 26 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 patients wanted <XB>
+24 	 28 	 (S[b]\NP)/NP 	 1 	 patients store <XB>
+26 	 25 	 (NP\NP)/(S[dcl]\NP) 	 2 	 wanted who
+27 	 26 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wanted
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 store to
+29 	 28 	 (S[b]\NP)/NP 	 2 	 units store
+29 	 30 	 (NP\NP)/NP 	 1 	 units of
+33 	 30 	 (NP\NP)/NP 	 2 	 blood of
+33 	 31 	 NP[nb]/N 	 1 	 blood their
+33 	 32 	 N/N 	 1 	 blood own
+<\s>
+<s id="wsj_0932.7"> 13
+1 	 0 	 NP[nb]/N 	 1 	 patients The
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 patients began
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 patients receiving <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 receiving began
+3 	 9 	 (((S\NP)\(S\NP))\NP)/NP 	 2 	 receiving before
+5 	 3 	 (S[ng]\NP)/NP 	 2 	 injections receiving
+5 	 4 	 N/N 	 1 	 injections EPO
+8 	 6 	 NP/NP 	 1 	 month about
+8 	 7 	 NP[nb]/N 	 1 	 month a
+8 	 9 	 (((S\NP)\(S\NP))\NP)/NP 	 3 	 month before
+12 	 9 	 (((S\NP)\(S\NP))\NP)/NP 	 4 	 surgery before
+12 	 10 	 NP[nb]/N 	 1 	 surgery their
+12 	 11 	 N/N 	 1 	 surgery scheduled
+<\s>
+<s id="wsj_0932.8"> 15
+0 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 They began
+0 	 3 	 (S[ng]\NP)/NP 	 1 	 They donating <XB>
+0 	 9 	 (S[ng]\NP)/NP 	 1 	 They receiving <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 began then
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 donating began
+3 	 6 	 ((S\NP)\(S\NP))/N 	 2 	 donating a
+4 	 3 	 (S[ng]\NP)/NP 	 2 	 blood donating
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 a twice
+7 	 6 	 ((S\NP)\(S\NP))/N 	 3 	 week a
+9 	 13 	 ((S\NP)\(S\NP))/N 	 2 	 receiving each
+12 	 9 	 (S[ng]\NP)/NP 	 2 	 injection receiving
+12 	 10 	 NP[nb]/N 	 1 	 injection an
+12 	 11 	 N/N 	 1 	 injection EPO
+14 	 13 	 ((S\NP)\(S\NP))/N 	 3 	 time each
+<\s>
+<s id="wsj_0932.9"> 14
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 tests indicated
+2 	 0 	 (S/S)/S[dcl] 	 2 	 indicated If
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 number indicated
+5 	 3 	 NP[nb]/N 	 1 	 number a
+5 	 4 	 N/N 	 1 	 number low
+5 	 6 	 (NP\NP)/NP 	 1 	 number of
+8 	 6 	 (NP\NP)/NP 	 2 	 cells of
+8 	 7 	 N/N 	 1 	 cells red
+10 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 blood was
+10 	 13 	 S[pss]\NP 	 1 	 blood taken <XB>
+11 	 0 	 (S/S)/S[dcl] 	 1 	 was If
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 was n't
+13 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 taken was
+<\s>
+<s id="wsj_0932.10"> 30
+2 	 0 	 NP[nb]/N 	 1 	 patients The
+2 	 1 	 N/N 	 1 	 patients EPO-treated
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 patients donated
+3 	 12 	 ((S\NP)\(S\NP))/PP 	 2 	 donated compared
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 average donated
+5 	 4 	 NP[nb]/N 	 1 	 average an
+5 	 6 	 (NP\NP)/NP 	 1 	 average of
+5 	 11 	 NP\NP 	 1 	 average each
+8 	 6 	 (NP\NP)/NP 	 2 	 units of
+8 	 7 	 N/N 	 1 	 units 5.4
+8 	 9 	 (NP\NP)/NP 	 1 	 units of
+10 	 9 	 (NP\NP)/NP 	 2 	 blood of
+13 	 12 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+15 	 14 	 (N/N)/(N/N) 	 2 	 4.1 only
+16 	 13 	 PP/NP 	 1 	 units with
+16 	 15 	 N/N 	 1 	 units 4.1
+16 	 17 	 S[pss]\NP 	 1 	 units donated <XB>
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 donated by
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 group by
+21 	 19 	 NP[nb]/N 	 1 	 group a
+21 	 20 	 N/N 	 1 	 group similar
+21 	 22 	 (NP\NP)/NP 	 1 	 group of
+24 	 22 	 (NP\NP)/NP 	 2 	 patients of
+24 	 23 	 N/N 	 1 	 patients surgical
+24 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 patients who
+24 	 26 	 (S[dcl]\NP)/NP 	 1 	 patients received <XB>
+26 	 25 	 (NP\NP)/(S[dcl]\NP) 	 2 	 received who
+29 	 26 	 (S[dcl]\NP)/NP 	 2 	 injection received
+29 	 27 	 NP[nb]/N 	 1 	 injection a
+29 	 28 	 N/N 	 1 	 injection placebo
+<\s>
+<s id="wsj_0932.11"> 29
+1 	 0 	 NP[nb]/N 	 1 	 volume The
+1 	 2 	 (NP\NP)/NP 	 1 	 volume of
+1 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 volume was
+1 	 13 	 (S[adj]\NP)\NP 	 1 	 volume higher <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 cells of
+4 	 3 	 N/N 	 1 	 cells red
+4 	 5 	 S[pss]\NP 	 1 	 cells donated <XB>
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 donated by
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 patients by
+9 	 7 	 NP[nb]/N 	 1 	 patients the
+9 	 8 	 N/N 	 1 	 patients EPO-treated
+10 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 was per
+10 	 28 	 (S[dcl]\S[dcl])\NP 	 1 	 was reported
+12 	 11 	 N/N 	 1 	 % 41
+12 	 13 	 (S[adj]\NP)\NP 	 2 	 % higher
+13 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 higher was
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 donor per
+19 	 17 	 NP[nb]/N 	 1 	 team the
+19 	 18 	 N/N 	 1 	 team research
+19 	 20 	 (S[ng]\NP)/NP 	 1 	 team representing <XB>
+19 	 28 	 (S[dcl]\S[dcl])\NP 	 2 	 team reported
+22 	 20 	 (S[ng]\NP)/NP 	 2 	 number representing
+22 	 21 	 NP[nb]/N 	 1 	 number a
+22 	 23 	 (NP\NP)/NP 	 1 	 number of
+24 	 23 	 (NP\NP)/NP 	 2 	 hospitals of
+27 	 23 	 (NP\NP)/NP 	 2 	 banks of
+27 	 26 	 N/N 	 1 	 banks blood
+<\s>

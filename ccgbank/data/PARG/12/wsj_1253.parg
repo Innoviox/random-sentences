@@ -1,0 +1,600 @@
+<s id="wsj_1253.1"> 37
+2 	 3 	 (N/N)\(N/N) 	 2 	 Oct. 10
+5 	 0 	 (S/S)/NP 	 2 	 article In
+5 	 1 	 NP[nb]/N 	 1 	 article an
+5 	 2 	 N/N 	 1 	 article Oct.
+5 	 4 	 N/N 	 1 	 article editorial-page
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 It 's
+11 	 9 	 NP[nb]/N 	 1 	 Bank the
+11 	 10 	 N/N 	 1 	 Bank World
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Bank 's
+13 	 8 	 (S[dcl]\NP)/NP 	 2 	 Turn 's
+13 	 12 	 (NP[nb]/N)\NP 	 1 	 Turn 's
+13 	 15 	 S[b]\NP 	 1 	 Turn Adjust <XB>
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 Adjust to
+19 	 17 	 N/N 	 1 	 Roberts Paul
+19 	 18 	 N/N 	 1 	 Roberts Craig
+19 	 20 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Roberts lays
+20 	 0 	 (S/S)/NP 	 1 	 lays In
+21 	 20 	 ((S[dcl]\NP)/PP)/NP 	 3 	 most lays
+21 	 22 	 (NP\NP)/NP 	 1 	 most of
+24 	 22 	 (NP\NP)/NP 	 2 	 blame of
+24 	 23 	 NP[nb]/N 	 1 	 blame the
+24 	 25 	 (NP\NP)/NP 	 1 	 blame for
+26 	 25 	 (NP\NP)/NP 	 2 	 what for
+26 	 27 	 (S[dcl]\NP)/NP 	 1 	 what ails <XB>
+27 	 26 	 NP/(S[dcl]\NP) 	 1 	 ails what
+29 	 27 	 (S[dcl]\NP)/NP 	 2 	 countries ails
+29 	 28 	 N/N 	 1 	 countries developing
+30 	 20 	 ((S[dcl]\NP)/PP)/NP 	 2 	 at lays
+32 	 30 	 PP/NP 	 1 	 doorstep at
+32 	 31 	 NP[nb]/N 	 1 	 doorstep the
+32 	 33 	 (NP\NP)/NP 	 1 	 doorstep of
+36 	 33 	 (NP\NP)/NP 	 2 	 Bank of
+36 	 34 	 NP[nb]/N 	 1 	 Bank the
+36 	 35 	 N/N 	 1 	 Bank World
+<\s>
+<s id="wsj_1253.2"> 10
+1 	 0 	 NP[nb]/N 	 1 	 article The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 article is
+1 	 6 	 (S[adj]\NP)/PP 	 1 	 article replete <XB>
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 is unfortunately
+6 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 replete is
+7 	 6 	 (S[adj]\NP)/PP 	 2 	 with replete
+9 	 7 	 PP/NP 	 1 	 distortions with
+9 	 8 	 N/N 	 1 	 distortions outrageous
+<\s>
+<s id="wsj_1253.3"> 25
+0 	 1 	 (NP\NP)/NP 	 1 	 One of
+0 	 6 	 (S[dcl]\NP)/S[em] 	 1 	 One is
+3 	 2 	 N/N 	 1 	 Roberts Mr.
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Roberts 's
+5 	 1 	 (NP\NP)/NP 	 2 	 observations of
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 observations 's
+7 	 6 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+9 	 8 	 NP[nb]/N 	 1 	 Bank the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Bank 's
+13 	 10 	 (NP[nb]/N)\NP 	 1 	 portfolio 's
+13 	 11 	 N/N 	 1 	 portfolio own
+13 	 12 	 N/N 	 1 	 portfolio loan
+13 	 14 	 (S[dcl]\NP)/PP 	 1 	 portfolio is
+14 	 7 	 S[em]/S[dcl] 	 1 	 is that
+14 	 18 	 ((S\NP)\(S\NP))/PP 	 2 	 is because
+15 	 14 	 (S[dcl]\NP)/PP 	 2 	 in is
+17 	 15 	 PP/NP 	 1 	 trouble in
+17 	 16 	 N/N 	 1 	 trouble deep
+19 	 18 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+21 	 19 	 PP/NP 	 1 	 lending of
+21 	 20 	 NP[nb]/N 	 1 	 lending its
+21 	 22 	 (NP\NP)/NP 	 1 	 lending to
+24 	 22 	 (NP\NP)/NP 	 2 	 countries to
+24 	 23 	 N/N 	 1 	 countries developing
+<\s>
+<s id="wsj_1253.4"> 5
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 This is
+0 	 4 	 S[adj]\NP 	 1 	 This so <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is just
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 is not
+4 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 so is
+<\s>
+<s id="wsj_1253.5"> 9
+1 	 0 	 NP[nb]/N 	 1 	 reality The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 reality is
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+5 	 4 	 N/N 	 1 	 finances Bank
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 finances are
+5 	 8 	 S[adj]\NP 	 1 	 finances solid <XB>
+6 	 3 	 S[em]/S[dcl] 	 1 	 are that
+8 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 solid are
+8 	 7 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 solid rock
+<\s>
+<s id="wsj_1253.6"> 34
+1 	 0 	 (S/S)/PP 	 2 	 of As
+2 	 1 	 PP/NP 	 1 	 June of
+2 	 5 	 N\N 	 1 	 June 1989
+2 	 6 	 (NP\NP)/NP 	 1 	 June --
+3 	 2 	 N/N[num] 	 1 	 30 June
+8 	 6 	 (NP\NP)/NP 	 2 	 day --
+8 	 7 	 NP[nb]/N 	 1 	 day the
+12 	 9 	 NP[nb]/N 	 1 	 year our
+12 	 10 	 N/N 	 1 	 year past
+12 	 11 	 N/N 	 1 	 year fiscal
+12 	 13 	 S[dcl]\NP 	 1 	 year came
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 came to
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 close to
+16 	 15 	 NP[nb]/N 	 1 	 close a
+19 	 18 	 (N/N)/(N/N) 	 2 	 4.1 only
+20 	 19 	 N/N 	 1 	 % 4.1
+20 	 21 	 (NP\NP)/NP 	 1 	 % of
+20 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 % was
+20 	 27 	 S[pss]\NP 	 1 	 % affected <XB>
+23 	 22 	 NP[nb]/N 	 1 	 Bank the
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 Bank 's
+25 	 21 	 (NP\NP)/NP 	 2 	 portfolio of
+25 	 24 	 (NP[nb]/N)\NP 	 1 	 portfolio 's
+26 	 0 	 (S/S)/PP 	 1 	 was As
+27 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 affected was
+27 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 affected by
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 arrears by
+29 	 30 	 (NP\NP)/NP 	 1 	 arrears of
+33 	 30 	 (NP\NP)/NP 	 2 	 months of
+33 	 31 	 N/N 	 1 	 months over
+33 	 32 	 N/N 	 1 	 months six
+<\s>
+<s id="wsj_1253.7"> 6
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 This is
+4 	 3 	 (N/N)/(N/N) 	 2 	 low enviably
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 level is
+5 	 2 	 NP[nb]/N 	 1 	 level an
+5 	 4 	 N/N 	 1 	 level low
+<\s>
+<s id="wsj_1253.8"> 20
+3 	 2 	 NP[nb]/N 	 1 	 Bank the
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Bank follows
+3 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Bank has <XU>
+3 	 11 	 (S[pt]\NP)/NP 	 1 	 Bank set <XU>
+4 	 0 	 S/S 	 1 	 follows Moreover
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 policy follows
+8 	 5 	 NP[nb]/N 	 1 	 policy a
+8 	 6 	 N/N 	 1 	 policy prudent
+8 	 7 	 N/N 	 1 	 policy provisioning
+10 	 0 	 S/S 	 1 	 has Moreover
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 set has
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 set aside
+11 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 set against
+13 	 11 	 (S[pt]\NP)/NP 	 2 	 $ set
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 800
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 losses against
+19 	 17 	 N/N 	 1 	 losses possible
+19 	 18 	 N/N 	 1 	 losses loan
+<\s>
+<s id="wsj_1253.9"> 23
+4 	 0 	 (S/S)/NP 	 2 	 year For
+4 	 1 	 NP[nb]/N 	 1 	 year the
+4 	 2 	 N/N 	 1 	 year same
+4 	 3 	 N/N 	 1 	 year fiscal
+8 	 6 	 (S/S)/NP 	 2 	 way by
+8 	 7 	 NP[nb]/N 	 1 	 way the
+11 	 10 	 NP[nb]/N 	 1 	 Bank the
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Bank 's
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 income 's
+14 	 13 	 N/N 	 1 	 income net
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 income was
+15 	 0 	 (S/S)/NP 	 1 	 was For
+15 	 6 	 (S/S)/NP 	 1 	 was by
+18 	 15 	 (S[dcl]\NP)/NP 	 2 	 $ was
+18 	 16 	 NP[nb]/N 	 1 	 $ a
+18 	 17 	 N/N 	 1 	 $ robust
+18 	 21 	 (NP\NP)/NP 	 1 	 $ after
+20 	 18 	 N/N[num] 	 1 	 billion $
+20 	 19 	 N/N 	 1 	 billion 1.1
+22 	 21 	 (NP\NP)/NP 	 2 	 provisions after
+<\s>
+<s id="wsj_1253.10"> 19
+1 	 0 	 (S/S)/PP 	 2 	 of Because
+4 	 1 	 PP/NP 	 1 	 manner of
+4 	 2 	 NP[nb]/N 	 1 	 manner the
+4 	 3 	 N/N 	 1 	 manner business-like
+4 	 6 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 manner which
+5 	 6 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+8 	 7 	 NP[nb]/N 	 1 	 Bank the
+8 	 9 	 (S[dcl]\NP)/PP 	 1 	 Bank goes
+9 	 6 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 goes which
+10 	 9 	 (S[dcl]\NP)/PP 	 2 	 about goes
+11 	 10 	 PP/NP 	 1 	 development about
+14 	 13 	 N/N 	 1 	 markets financial
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 markets have
+15 	 0 	 (S/S)/PP 	 1 	 have Because
+16 	 15 	 (S[dcl]\NP)/NP 	 2 	 confidence have
+16 	 17 	 (NP\NP)/NP 	 1 	 confidence in
+18 	 17 	 (NP\NP)/NP 	 2 	 it in
+<\s>
+<s id="wsj_1253.11"> 26
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 This helps
+0 	 2 	 (S[b]\NP)/NP 	 1 	 This explain <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 explain helps
+5 	 2 	 (S[b]\NP)/NP 	 2 	 rating explain
+5 	 3 	 NP[nb]/N 	 1 	 rating the
+5 	 4 	 N/N 	 1 	 rating triple-A
+5 	 6 	 S[pss]\NP 	 1 	 rating enjoyed <XB>
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 enjoyed by
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 bonds by
+9 	 8 	 NP[nb]/N 	 1 	 bonds our
+12 	 2 	 (S[b]\NP)/NP 	 2 	 ability explain
+12 	 11 	 NP[nb]/N 	 1 	 ability our
+12 	 14 	 (S[b]\NP)/NP 	 1 	 ability borrow <XB>
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 borrow to
+14 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 borrow in
+14 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 borrow on
+15 	 14 	 (S[b]\NP)/NP 	 2 	 $ borrow
+17 	 15 	 N/N[num] 	 1 	 billion $
+17 	 16 	 N/N 	 1 	 billion 9.3
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 1989 in
+20 	 19 	 N/N 	 1 	 1989 fiscal
+24 	 23 	 (N/N)/(N/N) 	 2 	 advantageous most
+25 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 terms on
+25 	 22 	 NP[nb]/N 	 1 	 terms the
+25 	 24 	 N/N 	 1 	 terms advantageous
+<\s>
+<s id="wsj_1253.12"> 28
+0 	 1 	 (NP\NP)/NP 	 1 	 Another of
+0 	 6 	 (S[dcl]\NP)/S[em] 	 1 	 Another is
+3 	 2 	 N/N 	 1 	 Roberts Mr.
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Roberts 's
+5 	 1 	 (NP\NP)/NP 	 2 	 criticisms of
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 criticisms 's
+7 	 6 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+9 	 8 	 N/N 	 1 	 lending Bank
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 lending has
+9 	 11 	 (S[pt]\NP)/NP 	 1 	 lending done <XB>
+9 	 17 	 (S[ng]\NP)/NP 	 1 	 lending implanting <XB>
+9 	 22 	 (S[ng]\NP)/NP 	 1 	 lending deflecting <XU>
+10 	 7 	 S[em]/S[dcl] 	 1 	 has that
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 done has
+11 	 16 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 done by
+13 	 11 	 (S[pt]\NP)/NP 	 2 	 harm done
+13 	 12 	 N/N 	 1 	 harm more
+13 	 14 	 (NP\NP)/(S[adj]\NP) 	 1 	 harm than
+15 	 14 	 (NP\NP)/(S[adj]\NP) 	 2 	 good than
+17 	 16 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 implanting by
+20 	 17 	 (S[ng]\NP)/NP 	 2 	 incentives implanting
+20 	 18 	 NP[nb]/N 	 1 	 incentives the
+20 	 19 	 N/N 	 1 	 incentives wrong
+22 	 16 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 deflecting by
+22 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 deflecting from
+23 	 22 	 (S[ng]\NP)/NP 	 2 	 energy deflecting
+25 	 24 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 from away
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 development from
+27 	 26 	 N/N 	 1 	 development economic
+<\s>
+<s id="wsj_1253.13"> 11
+5 	 4 	 N/N 	 1 	 Roberts Mr.
+5 	 6 	 (S[dcl]\NP)/PP 	 1 	 Roberts is
+6 	 0 	 S/S 	 1 	 is Here
+6 	 2 	 S/S 	 1 	 is too
+8 	 6 	 (S[dcl]\NP)/PP 	 2 	 off is
+8 	 7 	 PP/PP 	 1 	 off way
+10 	 8 	 PP/NP 	 1 	 mark off
+10 	 9 	 NP[nb]/N 	 1 	 mark the
+<\s>
+<s id="wsj_1253.14"> 15
+1 	 0 	 NP[nb]/N 	 1 	 reality The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 reality is
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+5 	 4 	 N/N 	 1 	 loans Bank
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 loans have
+5 	 8 	 (S[pss]\NP)/PP 	 1 	 loans linked <XB>
+6 	 3 	 S[em]/S[dcl] 	 1 	 have that
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+8 	 7 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 linked been
+8 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 linked for
+9 	 8 	 (S[pss]\NP)/PP 	 2 	 to linked
+11 	 9 	 PP/NP 	 1 	 improvements to
+11 	 10 	 N/N 	 1 	 improvements policy
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+14 	 13 	 N/N 	 1 	 years 40
+<\s>
+<s id="wsj_1253.15"> 36
+3 	 0 	 NP[nb]/N 	 1 	 loans Our
+3 	 1 	 N/N 	 1 	 loans traditional
+3 	 2 	 N/N 	 1 	 loans project
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 loans have
+3 	 9 	 (S[pt]\NP)/NP 	 1 	 loans supported <XB>
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 have for
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 instance for
+9 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 supported have
+12 	 9 	 (S[pt]\NP)/NP 	 2 	 pricing supported
+12 	 10 	 N/N 	 1 	 pricing sensible
+12 	 11 	 N/N 	 1 	 pricing energy
+12 	 13 	 (NP\NP)/NP 	 1 	 pricing in
+16 	 13 	 (NP\NP)/NP 	 2 	 sector in
+16 	 14 	 NP[nb]/N 	 1 	 sector the
+16 	 15 	 N/N 	 1 	 sector power
+20 	 9 	 (S[pt]\NP)/NP 	 2 	 policies supported
+20 	 18 	 N/N 	 1 	 policies sound
+20 	 19 	 N/N 	 1 	 policies interest-rate
+20 	 21 	 (NP\NP)/NP 	 1 	 policies in
+24 	 21 	 (NP\NP)/NP 	 2 	 area in
+24 	 22 	 NP[nb]/N 	 1 	 area the
+24 	 23 	 N/N 	 1 	 area credit
+27 	 9 	 (S[pt]\NP)/NP 	 2 	 operation supported
+27 	 26 	 NP[nb]/N 	 1 	 operation the
+27 	 28 	 (NP\NP)/NP 	 1 	 operation of
+27 	 31 	 (NP\NP)/NP 	 1 	 operation as
+30 	 28 	 (NP\NP)/NP 	 2 	 utilities of
+30 	 29 	 N/N 	 1 	 utilities public
+34 	 32 	 (N/N)/(N/N) 	 2 	 autonomous efficient
+35 	 31 	 (NP\NP)/NP 	 2 	 agencies as
+35 	 34 	 N/N 	 1 	 agencies autonomous
+<\s>
+<s id="wsj_1253.16"> 9
+5 	 4 	 NP[nb]/N 	 1 	 efforts these
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 efforts have
+5 	 7 	 (S[pt]\NP)/NP 	 1 	 efforts borne <XB>
+6 	 0 	 S/S 	 1 	 have By <XU>
+6 	 2 	 S/S 	 1 	 have large
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 borne have
+8 	 7 	 (S[pt]\NP)/NP 	 2 	 fruit borne
+<\s>
+<s id="wsj_1253.17"> 29
+3 	 0 	 (S/S)/NP 	 2 	 region In
+3 	 1 	 NP[nb]/N 	 1 	 region my
+3 	 2 	 N/N 	 1 	 region home
+6 	 0 	 (S/S)/NP 	 2 	 America In
+6 	 5 	 N/N 	 1 	 America Latin
+8 	 9 	 (NP\NP)/NP 	 1 	 much of
+8 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 much has
+8 	 24 	 S[pss]\NP 	 1 	 much financed <XB>
+13 	 9 	 (NP\NP)/NP 	 2 	 base of
+13 	 10 	 NP[nb]/N 	 1 	 base the
+13 	 11 	 N/N 	 1 	 base existing
+13 	 12 	 N/N 	 1 	 base infrastructure
+13 	 14 	 (NP\NP)/NP 	 1 	 base --
+18 	 14 	 (NP\NP)/NP 	 2 	 block --
+18 	 15 	 NP[nb]/N 	 1 	 block an
+18 	 16 	 N/N 	 1 	 block important
+18 	 17 	 N/N 	 1 	 block building
+18 	 19 	 (NP\NP)/NP 	 1 	 block for
+20 	 19 	 (NP\NP)/NP 	 2 	 development for
+22 	 0 	 (S/S)/NP 	 1 	 has In
+23 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+24 	 23 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 financed been
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 financed by
+28 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 Bank by
+28 	 26 	 NP[nb]/N 	 1 	 Bank the
+28 	 27 	 N/N 	 1 	 Bank World
+<\s>
+<s id="wsj_1253.18"> 12
+1 	 0 	 N/N 	 1 	 Roberts Mr.
+1 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Roberts takes
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 takes also
+5 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 swipe takes
+5 	 4 	 NP[nb]/N 	 1 	 swipe a
+6 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 at takes
+8 	 7 	 NP[nb]/N 	 1 	 Bank the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 Bank 's
+11 	 6 	 PP/NP 	 1 	 lending at
+11 	 9 	 (NP[nb]/N)\NP 	 1 	 lending 's
+11 	 10 	 N/N 	 1 	 lending adjustment
+<\s>
+<s id="wsj_1253.19"> 9
+1 	 0 	 S[wq]/(S[dcl]\NP) 	 1 	 are What
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 facts are
+3 	 2 	 NP[nb]/N 	 1 	 facts the
+3 	 4 	 (NP\NP)/NP 	 1 	 facts on
+6 	 4 	 (NP\NP)/NP 	 2 	 type on
+6 	 5 	 NP[nb]/N 	 1 	 type this
+6 	 7 	 (NP\NP)/NP 	 1 	 type of
+8 	 7 	 (NP\NP)/NP 	 2 	 lending of
+<\s>
+<s id="wsj_1253.20"> 10
+1 	 0 	 NP[nb]/N 	 1 	 Bank The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Bank has
+1 	 4 	 (S[ng]\NP)/NP 	 1 	 Bank making <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+4 	 3 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 making been
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 making for
+6 	 4 	 (S[ng]\NP)/NP 	 2 	 loans making
+6 	 5 	 N/N 	 1 	 loans adjustment
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+9 	 8 	 N/N 	 1 	 years 10
+<\s>
+<s id="wsj_1253.21"> 30
+2 	 1 	 NP[nb]/N 	 1 	 name their
+2 	 3 	 S[dcl]\NP 	 1 	 name implies
+3 	 0 	 (S/S)/S[dcl] 	 2 	 implies As
+6 	 5 	 NP[nb]/N 	 1 	 operations these
+6 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 operations are
+6 	 8 	 (S[pss]\NP)/PP 	 1 	 operations linked <XB>
+7 	 0 	 (S/S)/S[dcl] 	 1 	 are As
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 linked are
+9 	 8 	 (S[pss]\NP)/PP 	 2 	 to linked
+12 	 9 	 PP/NP 	 1 	 reforms to
+12 	 10 	 N/N 	 1 	 reforms far-reaching
+12 	 11 	 N/N 	 1 	 reforms policy
+12 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 reforms that
+12 	 14 	 (S[dcl]\NP)/PP 	 1 	 reforms aim <XB>
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 aim that
+15 	 14 	 (S[dcl]\NP)/PP 	 2 	 at aim
+16 	 15 	 PP/(S[ng]\NP) 	 1 	 helping at
+18 	 16 	 ((S[ng]\NP)/(S[b]\NP))/NP 	 3 	 countries helping
+18 	 17 	 N/N 	 1 	 countries borrowing
+18 	 19 	 (S[b]\NP)/PP 	 1 	 countries get <XB>
+19 	 16 	 ((S[ng]\NP)/(S[b]\NP))/NP 	 2 	 get helping
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 get back
+21 	 19 	 (S[b]\NP)/PP 	 2 	 on get
+24 	 21 	 PP/NP 	 1 	 path on
+24 	 22 	 NP[nb]/N 	 1 	 path the
+24 	 23 	 N/N 	 1 	 path growth
+26 	 14 	 (S[dcl]\NP)/PP 	 2 	 at aim
+27 	 26 	 PP/(S[ng]\NP) 	 1 	 enhancing at
+29 	 27 	 (S[ng]\NP)/NP 	 2 	 credit-worthiness enhancing
+29 	 28 	 NP[nb]/N 	 1 	 credit-worthiness their
+<\s>
+<s id="wsj_1253.22"> 36
+3 	 2 	 NP[nb]/N 	 1 	 measures these
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 measures include
+4 	 0 	 S/S 	 1 	 include Typically
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 reforms include
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 downsize to
+9 	 7 	 (S[b]\NP)/NP 	 2 	 role downsize
+9 	 8 	 NP[nb]/N 	 1 	 role the
+9 	 10 	 (NP\NP)/NP 	 1 	 role of
+9 	 14 	 (NP\NP)/NP 	 1 	 role in
+11 	 10 	 (NP\NP)/NP 	 2 	 government of
+13 	 10 	 (NP\NP)/NP 	 2 	 parastatals of
+16 	 14 	 (NP\NP)/NP 	 2 	 economy in
+16 	 15 	 NP[nb]/N 	 1 	 economy the
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 open to
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 open up
+22 	 19 	 ((S[b]\NP)/PP)/NP 	 3 	 economies open
+22 	 21 	 N/N 	 1 	 economies inward-looking
+23 	 19 	 ((S[b]\NP)/PP)/NP 	 2 	 to open
+25 	 23 	 PP/NP 	 1 	 competition to
+25 	 24 	 N/N 	 1 	 competition international
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 promote to
+30 	 28 	 (S[b]\NP)/NP 	 2 	 development promote
+30 	 29 	 NP[nb]/N 	 1 	 development the
+30 	 31 	 (NP\NP)/NP 	 1 	 development of
+35 	 31 	 (NP\NP)/NP 	 2 	 sector of
+35 	 32 	 NP[nb]/N 	 1 	 sector a
+35 	 33 	 N/N 	 1 	 sector vigorous
+35 	 34 	 N/N 	 1 	 sector private
+<\s>
+<s id="wsj_1253.23"> 14
+0 	 1 	 (NP\NP)/NP 	 1 	 Support for
+0 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Support has
+0 	 6 	 (S[pt]\NP)/NP 	 1 	 Support been <XB>
+4 	 1 	 (NP\NP)/NP 	 2 	 sector for
+4 	 2 	 NP[nb]/N 	 1 	 sector the
+4 	 3 	 N/N 	 1 	 sector private
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+9 	 6 	 (S[pt]\NP)/NP 	 2 	 concern been
+9 	 7 	 NP[nb]/N 	 1 	 concern a
+9 	 8 	 N/N 	 1 	 concern longstanding
+9 	 10 	 (NP\NP)/NP 	 1 	 concern of
+13 	 10 	 (NP\NP)/NP 	 2 	 's of
+13 	 11 	 NP[nb]/N 	 1 	 's the
+13 	 12 	 N/N 	 1 	 's Bank
+<\s>
+<s id="wsj_1253.24"> 30
+2 	 0 	 (S/S)/NP 	 2 	 years Over
+2 	 1 	 NP[nb]/N 	 1 	 years the
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+4 	 6 	 (S[pt]\NP)/(S[b]\NP) 	 1 	 it helped <XB>
+4 	 7 	 (S[b]\NP)/NP 	 1 	 it encourage <XB>
+5 	 0 	 (S/S)/NP 	 1 	 has Over
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 helped has
+7 	 6 	 (S[pt]\NP)/(S[b]\NP) 	 2 	 encourage helped
+7 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 encourage through
+7 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 encourage through <XU>
+8 	 7 	 (S[b]\NP)/NP 	 2 	 investments encourage
+8 	 9 	 (NP\NP)/NP 	 1 	 investments by
+10 	 9 	 (NP\NP)/NP 	 2 	 entrepreneurs by
+10 	 11 	 (NP\NP)/NP 	 1 	 entrepreneurs in
+14 	 11 	 (NP\NP)/NP 	 2 	 World in
+14 	 12 	 NP[nb]/N 	 1 	 World the
+14 	 13 	 N/N 	 1 	 World Third
+19 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 operations through
+19 	 16 	 NP[nb]/N 	 1 	 operations its
+19 	 17 	 N/N 	 1 	 operations extensive
+19 	 18 	 N/N 	 1 	 operations credit
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 loans through
+22 	 25 	 (NP\NP)/NP 	 1 	 loans by
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 investments through
+24 	 25 	 (NP\NP)/NP 	 1 	 investments by
+29 	 25 	 (NP\NP)/NP 	 2 	 Corp by
+29 	 26 	 NP[nb]/N 	 1 	 Corp the
+29 	 27 	 N/N 	 1 	 Corp International
+29 	 28 	 N/N 	 1 	 Corp Finance
+<\s>
+<s id="wsj_1253.25"> 42
+1 	 0 	 (S/S)/(S/S) 	 2 	 recently Most
+5 	 3 	 NP[nb]/N 	 1 	 Group the
+5 	 4 	 N/N 	 1 	 Group Bank
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Group has
+5 	 8 	 S[pss]\NP 	 1 	 Group expanded <XB>
+5 	 10 	 (S[b]\NP)/NP 	 1 	 Group include <XB>
+5 	 17 	 (S[b]\NP)/NP 	 1 	 Group stimulate <XB>
+5 	 25 	 ((S[ng]\NP)/PP)/NP 	 1 	 Group offering <XB>
+6 	 1 	 S/S 	 1 	 has recently
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+8 	 7 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 expanded been
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 include to
+15 	 10 	 (S[b]\NP)/NP 	 2 	 Agency include
+15 	 11 	 NP[nb]/N 	 1 	 Agency the
+15 	 12 	 N/N 	 1 	 Agency Multilateral
+15 	 13 	 N/N 	 1 	 Agency Investment
+15 	 14 	 N/N 	 1 	 Agency Guarantee
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stimulate to
+17 	 24 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 stimulate by
+20 	 17 	 (S[b]\NP)/NP 	 2 	 investment stimulate
+20 	 18 	 N/N 	 1 	 investment direct
+20 	 19 	 N/N 	 1 	 investment foreign
+20 	 21 	 (NP\NP)/NP 	 1 	 investment in
+23 	 21 	 (NP\NP)/NP 	 2 	 countries in
+23 	 22 	 N/N 	 1 	 countries developing
+25 	 24 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 offering by
+25 	 35 	 ((S\NP)\(S\NP))/S[qem] 	 2 	 offering on
+26 	 25 	 ((S[ng]\NP)/PP)/NP 	 3 	 guarantees offering
+26 	 27 	 (NP\NP)/NP 	 1 	 guarantees against
+29 	 27 	 (NP\NP)/NP 	 2 	 risk against
+29 	 28 	 N/N 	 1 	 risk noncommercial
+31 	 25 	 ((S[ng]\NP)/PP)/NP 	 3 	 advice offering
+32 	 25 	 ((S[ng]\NP)/PP)/NP 	 2 	 to offering
+34 	 32 	 PP/NP 	 1 	 countries to
+34 	 33 	 N/N 	 1 	 countries member
+36 	 35 	 ((S\NP)\(S\NP))/S[qem] 	 3 	 how on
+37 	 36 	 S[qem]/(S[to]\NP) 	 1 	 to how
+38 	 37 	 (S[to]\NP)/(S[b]\NP) 	 2 	 improve to
+41 	 38 	 (S[b]\NP)/NP 	 2 	 climate improve
+41 	 39 	 NP[nb]/N 	 1 	 climate their
+41 	 40 	 N/N 	 1 	 climate business
+<\s>
+<s id="wsj_1253.26"> 30
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 These are
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 are not
+1 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 are as
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 actions are
+4 	 3 	 NP[nb]/N 	 1 	 actions the
+4 	 5 	 (NP\NP)/NP 	 1 	 actions of
+8 	 5 	 (NP\NP)/NP 	 2 	 agency of
+8 	 6 	 NP[nb]/N 	 1 	 agency a
+8 	 7 	 N/N 	 1 	 agency development
+8 	 9 	 (S[pss]\NP)/PP 	 1 	 agency wed <XB>
+10 	 9 	 (S[pss]\NP)/PP 	 2 	 to wed
+12 	 10 	 PP/NP 	 1 	 planning to
+12 	 11 	 N/N 	 1 	 planning central
+14 	 9 	 (S[pss]\NP)/PP 	 2 	 to wed
+16 	 14 	 PP/NP 	 1 	 concentration to
+16 	 15 	 NP[nb]/N 	 1 	 concentration the
+16 	 17 	 (NP\NP)/NP 	 1 	 concentration of
+19 	 17 	 (NP\NP)/NP 	 2 	 decisions of
+19 	 18 	 N/N 	 1 	 decisions investment
+19 	 20 	 (NP\NP)/NP 	 1 	 decisions in
+22 	 20 	 (NP\NP)/NP 	 2 	 hands in
+22 	 21 	 NP[nb]/N 	 1 	 hands the
+22 	 23 	 (NP\NP)/NP 	 1 	 hands of
+24 	 23 	 (NP\NP)/NP 	 2 	 government of
+28 	 27 	 N/N 	 1 	 Roberts Mr.
+28 	 29 	 S[dcl]\NP 	 1 	 Roberts alleges
+29 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 alleges as
+<\s>
+<s id="wsj_1253.27"> 28
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 they reflect
+3 	 0 	 S/S 	 1 	 reflect Rather
+5 	 4 	 NP[nb]/N 	 1 	 Bank the
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Bank 's
+9 	 7 	 (N/N)/(N/N) 	 2 	 pragmatic time-tested
+10 	 3 	 (S[dcl]\NP)/NP 	 2 	 approach reflect
+10 	 6 	 (NP[nb]/N)\NP 	 1 	 approach 's
+10 	 9 	 N/N 	 1 	 approach pragmatic
+10 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 approach which
+10 	 13 	 (S[dcl]\NP)/PP 	 1 	 approach aims <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 aims which
+14 	 13 	 (S[dcl]\NP)/PP 	 2 	 at aims
+15 	 14 	 PP/(S[ng]\NP) 	 1 	 ensuring at
+16 	 15 	 (S[ng]\NP)/S[em] 	 2 	 that ensuring
+18 	 17 	 N/N 	 1 	 countries developing
+18 	 19 	 ((S[dcl]\NP)/PP)/NP 	 1 	 countries put
+19 	 16 	 S[em]/S[dcl] 	 1 	 put that
+22 	 19 	 ((S[dcl]\NP)/PP)/NP 	 3 	 resources put
+22 	 20 	 NP[nb]/N 	 1 	 resources their
+22 	 21 	 N/N 	 1 	 resources scarce
+23 	 19 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to put
+26 	 25 	 (N/N)/(N/N) 	 2 	 possible best
+27 	 23 	 PP/NP 	 1 	 use to
+27 	 24 	 NP[nb]/N 	 1 	 use the
+27 	 26 	 N/N 	 1 	 use possible
+<\s>
+<s id="wsj_1253.28"> 8
+1 	 0 	 N/N 	 1 	 Aguirre-Sacasa Francisco
+1 	 2 	 NP\NP 	 1 	 Aguirre-Sacasa Director
+1 	 5 	 NP\NP 	 1 	 Aguirre-Sacasa Affairs <XU>
+2 	 6 	 ((NP\NP)\(NP\NP))/N 	 2 	 Director The
+5 	 4 	 (NP\NP)/(NP\NP) 	 2 	 Affairs External
+5 	 6 	 ((NP\NP)\(NP\NP))/N 	 2 	 Affairs The
+8 	 6 	 ((NP\NP)\(NP\NP))/N 	 3 	 Bank The
+8 	 7 	 N/N 	 1 	 Bank World
+<\s>

@@ -1,0 +1,142 @@
+<s id="wsj_1537.1"> 27
+2 	 0 	 N/N 	 1 	 Corp. Manhattan
+2 	 1 	 N/N 	 1 	 Corp. National
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+6 	 4 	 N/N 	 1 	 Conway Michael
+6 	 5 	 N/N 	 1 	 Conway A.
+6 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Conway was
+6 	 15 	 (S[pss]\NP)/NP 	 1 	 Conway elected <XB>
+8 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 president was
+8 	 15 	 (S[pss]\NP)/NP 	 1 	 president elected <XB>
+12 	 10 	 N/N 	 1 	 officer chief
+12 	 11 	 N/N 	 1 	 officer executive
+12 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 officer was
+12 	 15 	 (S[pss]\NP)/NP 	 1 	 officer elected <XB>
+14 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+15 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 elected was
+17 	 15 	 (S[pss]\NP)/NP 	 2 	 executive elected
+17 	 16 	 N/N 	 1 	 executive chief
+17 	 18 	 (NP\NP)/NP 	 1 	 executive of
+21 	 19 	 NP[nb]/N 	 1 	 company the
+21 	 20 	 N/N 	 1 	 company holding
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 company 's
+26 	 18 	 (NP\NP)/NP 	 2 	 subsidiaries of
+26 	 22 	 (NP[nb]/N)\NP 	 1 	 subsidiaries 's
+26 	 23 	 N/N 	 1 	 subsidiaries two
+26 	 24 	 N/N 	 1 	 subsidiaries principal
+26 	 25 	 N/N 	 1 	 subsidiaries insurance
+<\s>
+<s id="wsj_1537.2"> 18
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 He succeeds
+1 	 17 	 (S[dcl]\S[dcl])\NP 	 1 	 succeeds said
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 Jr. succeeds
+5 	 2 	 N/N 	 1 	 Jr. Paul
+5 	 3 	 N/N 	 1 	 Jr. P.
+5 	 4 	 N/N 	 1 	 Jr. Aniskovich
+5 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Jr. who
+5 	 8 	 S[dcl]\NP 	 1 	 Jr. resigned <XB>
+5 	 10 	 (S[b]\NP)/NP 	 1 	 Jr. pursue <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 resigned who
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pursue to
+13 	 10 	 (S[b]\NP)/NP 	 2 	 interests pursue
+13 	 11 	 N/N 	 1 	 interests other
+13 	 12 	 N/N 	 1 	 interests business
+16 	 15 	 NP[nb]/N 	 1 	 company the
+16 	 17 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>
+<s id="wsj_1537.3"> 31
+1 	 0 	 N/N 	 1 	 Conway Mr.
+1 	 5 	 (S[adj]\NP)\NP 	 1 	 Conway old <XB>
+1 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Conway was
+1 	 8 	 (S[pss]\NP)/NP 	 1 	 Conway elected <XB>
+4 	 3 	 N/N 	 1 	 years 42
+4 	 5 	 (S[adj]\NP)\NP 	 2 	 years old
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 elected was
+9 	 8 	 (S[pss]\NP)/NP 	 2 	 chairman elected
+9 	 15 	 (NP\NP)/NP 	 1 	 chairman of
+11 	 8 	 (S[pss]\NP)/NP 	 2 	 president elected
+11 	 15 	 (NP\NP)/NP 	 1 	 president of
+14 	 8 	 (S[pss]\NP)/NP 	 2 	 executive elected
+14 	 13 	 N/N 	 1 	 executive chief
+14 	 15 	 (NP\NP)/NP 	 1 	 executive of
+19 	 15 	 (NP\NP)/NP 	 2 	 Co. of
+19 	 16 	 N/N 	 1 	 Co. Manhattan
+19 	 17 	 N/N 	 1 	 Co. Life
+19 	 18 	 N/N 	 1 	 Co. Insurance
+21 	 8 	 (S[pss]\NP)/NP 	 2 	 president elected
+21 	 25 	 (NP\NP)/NP 	 1 	 president of
+24 	 8 	 (S[pss]\NP)/NP 	 2 	 executive elected
+24 	 23 	 N/N 	 1 	 executive chief
+24 	 25 	 (NP\NP)/NP 	 1 	 executive of
+30 	 25 	 (NP\NP)/NP 	 2 	 Co of
+30 	 26 	 N/N 	 1 	 Co Manhattan
+30 	 27 	 N/N 	 1 	 Co National
+30 	 28 	 N/N 	 1 	 Co Life
+30 	 29 	 N/N 	 1 	 Co Insurance
+<\s>
+<s id="wsj_1537.4"> 20
+1 	 0 	 N/N 	 1 	 Rossi Harry
+1 	 12 	 (S[dcl]\NP)/NP 	 1 	 Rossi remains
+3 	 12 	 (S[dcl]\NP)/NP 	 1 	 69 remains
+5 	 6 	 (NP\NP)/NP 	 1 	 chairman of
+5 	 12 	 (S[dcl]\NP)/NP 	 1 	 chairman remains
+9 	 6 	 (NP\NP)/NP 	 2 	 company of
+9 	 7 	 NP[nb]/N 	 1 	 company the
+9 	 8 	 N/N 	 1 	 company holding
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 remains also
+13 	 12 	 (S[dcl]\NP)/NP 	 2 	 chairman remains
+13 	 14 	 (NP\NP)/NP 	 1 	 chairman of
+19 	 14 	 (NP\NP)/NP 	 2 	 Co of
+19 	 15 	 N/N 	 1 	 Co Manhattan
+19 	 16 	 N/N 	 1 	 Co National
+19 	 17 	 N/N 	 1 	 Co Life
+19 	 18 	 N/N 	 1 	 Co Insurance
+<\s>
+<s id="wsj_1537.5"> 35
+1 	 0 	 N/N 	 1 	 Conway Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Conway was
+2 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 was in
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 president was
+5 	 3 	 N/N 	 1 	 president executive
+5 	 4 	 N/N 	 1 	 president vice
+5 	 10 	 (NP\NP)/NP 	 1 	 president of
+9 	 2 	 (S[dcl]\NP)/NP 	 2 	 officer was
+9 	 7 	 N/N 	 1 	 officer chief
+9 	 8 	 N/N 	 1 	 officer investment
+9 	 10 	 (NP\NP)/NP 	 1 	 officer of
+15 	 10 	 (NP\NP)/NP 	 2 	 Co. of
+15 	 11 	 N/N 	 1 	 Co. Union
+15 	 12 	 N/N 	 1 	 Co. Central
+15 	 13 	 N/N 	 1 	 Co. Life
+15 	 14 	 N/N 	 1 	 Co. Insurance
+15 	 17 	 (NP\NP)/NP 	 1 	 Co. of
+18 	 17 	 (NP\NP)/NP 	 2 	 Cincinnati of
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 1987 in
+21 	 23 	 (NP\NP)/S[dcl] 	 1 	 1987 when
+25 	 24 	 N/N 	 1 	 Central Union
+25 	 26 	 (S[dcl]\NP)/NP 	 1 	 Central bought
+26 	 23 	 (NP\NP)/S[dcl] 	 2 	 bought when
+29 	 28 	 (N/N)/(N/N) 	 2 	 % 54
+30 	 26 	 (S[dcl]\NP)/NP 	 2 	 interest bought
+30 	 27 	 NP[nb]/N 	 1 	 interest a
+30 	 29 	 N/N 	 1 	 interest %
+30 	 31 	 (NP\NP)/NP 	 1 	 interest in
+34 	 31 	 (NP\NP)/NP 	 2 	 Corp in
+34 	 32 	 N/N 	 1 	 Corp Manhattan
+34 	 33 	 N/N 	 1 	 Corp National
+<\s>
+<s id="wsj_1537.6"> 14
+0 	 1 	 S[dcl]\NP 	 1 	 He resigned
+0 	 9 	 (S[b]\NP)/NP 	 1 	 He accept <XB>
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 resigned as
+4 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 officer as
+4 	 3 	 NP[nb]/N 	 1 	 officer an
+4 	 5 	 (NP\NP)/NP 	 1 	 officer of
+7 	 5 	 (NP\NP)/NP 	 2 	 Life of
+7 	 6 	 N/N 	 1 	 Life Central
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 accept to
+13 	 9 	 (S[b]\NP)/NP 	 2 	 presidency accept
+13 	 10 	 NP[nb]/N 	 1 	 presidency the
+13 	 11 	 N/N 	 1 	 presidency Manhattan
+13 	 12 	 N/N 	 1 	 presidency National
+<\s>

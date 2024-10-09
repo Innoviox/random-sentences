@@ -1,0 +1,51 @@
+<s id="wsj_0223.1"> 21
+1 	 0 	 NP[nb]/N 	 1 	 seat A
+1 	 2 	 (NP\NP)/NP 	 1 	 seat on
+1 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 seat was
+1 	 8 	 S[pss]\NP 	 1 	 seat sold <XB>
+6 	 2 	 (NP\NP)/NP 	 2 	 Exchange on
+6 	 3 	 NP[nb]/N 	 1 	 Exchange the
+6 	 4 	 N/N 	 1 	 Exchange Chicago
+6 	 5 	 N/N 	 1 	 Exchange Mercantile
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sold was
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 sold for
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ for
+10 	 13 	 ((NP\NP)/PP)/NP 	 1 	 $ down
+11 	 10 	 N/N[num] 	 1 	 410,000 $
+14 	 13 	 ((NP\NP)/PP)/NP 	 3 	 $ down
+15 	 14 	 N/N[num] 	 1 	 6,000 $
+16 	 13 	 ((NP\NP)/PP)/NP 	 2 	 from down
+20 	 16 	 PP/NP 	 1 	 Oct from
+20 	 17 	 NP[nb]/N 	 1 	 Oct the
+20 	 18 	 N/N 	 1 	 Oct previous
+20 	 19 	 N/N 	 1 	 Oct sale
+<\s>
+<s id="wsj_0223.2"> 12
+0 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Seats are
+0 	 3 	 (S[pss]\NP)/PP 	 1 	 Seats quoted <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 are currently
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 quoted are
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 at quoted
+5 	 4 	 PP/NP 	 1 	 $ at
+6 	 5 	 N/N[num] 	 1 	 400,000 $
+9 	 4 	 PP/NP 	 1 	 $ at
+9 	 11 	 S[pss]\NP 	 1 	 $ asked <XB>
+10 	 9 	 N/N[num] 	 1 	 425,000 $
+<\s>
+<s id="wsj_0223.3"> 17
+2 	 0 	 NP[nb]/N 	 1 	 price The
+2 	 1 	 N/N 	 1 	 price record
+2 	 3 	 (NP\NP)/NP 	 1 	 price for
+2 	 10 	 (S[dcl]\NP)/NP 	 1 	 price is
+2 	 14 	 S[pss]\NP 	 1 	 price set <XB>
+6 	 3 	 (NP\NP)/NP 	 2 	 membership for
+6 	 4 	 NP[nb]/N 	 1 	 membership a
+6 	 5 	 N/N 	 1 	 membership full
+6 	 7 	 (NP\NP)/NP 	 1 	 membership on
+9 	 7 	 (NP\NP)/NP 	 2 	 exchange on
+9 	 8 	 NP[nb]/N 	 1 	 exchange the
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 $ is
+12 	 11 	 N/N[num] 	 1 	 550,000 $
+14 	 15 	 ((S\NP)\(S\NP))/N[num] 	 2 	 set March
+16 	 15 	 ((S\NP)\(S\NP))/N[num] 	 3 	 9 March
+<\s>

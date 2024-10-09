@@ -1,0 +1,78 @@
+<s id="wsj_2116.1"> 24
+2 	 0 	 N/N 	 1 	 Corp. Amcast
+2 	 1 	 N/N 	 1 	 Corp. Industrial
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it plans
+4 	 7 	 (S[b]\NP)/NP 	 1 	 it repurchase <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 plans said
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 repurchase to
+7 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 repurchase in
+9 	 7 	 (S[b]\NP)/NP 	 2 	 shares repurchase
+9 	 8 	 N/N 	 1 	 shares 500,000
+13 	 12 	 (N/N)/(N/N) 	 2 	 7 about
+14 	 7 	 (S[b]\NP)/NP 	 2 	 % repurchase
+14 	 13 	 N/N 	 1 	 % 7
+14 	 15 	 (NP\NP)/NP 	 1 	 % of
+17 	 15 	 (NP\NP)/NP 	 2 	 shares of
+17 	 16 	 NP[nb]/N 	 1 	 shares its
+17 	 18 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+23 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 transactions in
+23 	 21 	 N/N 	 1 	 transactions open
+23 	 22 	 N/N 	 1 	 transactions market
+<\s>
+<s id="wsj_2116.2"> 11
+3 	 0 	 NP[nb]/N 	 1 	 concern The
+3 	 1 	 N/N 	 1 	 concern metal
+3 	 2 	 N/N 	 1 	 concern products
+3 	 5 	 (S[dcl]\NP)/NP 	 1 	 concern has
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 has currently
+7 	 6 	 (N/N)/(N/N) 	 2 	 million 7.2
+9 	 5 	 (S[dcl]\NP)/NP 	 2 	 shares has
+9 	 7 	 N/N 	 1 	 shares million
+9 	 8 	 N/N 	 1 	 shares common
+9 	 10 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>
+<s id="wsj_2116.3"> 24
+0 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Amcast had
+0 	 3 	 (S[pt]\NP)/S[dcl] 	 1 	 Amcast said <XB>
+0 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Amcast did <XU>
+0 	 13 	 (S[b]\NP)/S[wq] 	 1 	 Amcast disclose <XU>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 had previously
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said had
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it planned
+4 	 7 	 (S[b]\NP)/NP 	 1 	 it repurchase <XB>
+5 	 3 	 (S[pt]\NP)/S[dcl] 	 2 	 planned said
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to planned
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 repurchase to
+8 	 7 	 (S[b]\NP)/NP 	 2 	 shares repurchase
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 did n't
+13 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 disclose did
+14 	 13 	 (S[b]\NP)/S[wq] 	 2 	 when disclose
+17 	 16 	 (S/S)/(S/S) 	 2 	 many how
+18 	 13 	 (S[b]\NP)/S[wq] 	 2 	 shares disclose
+18 	 17 	 S/S 	 1 	 shares many
+19 	 20 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it intended
+19 	 22 	 (S[b]\NP)/NP 	 1 	 it buy <XB>
+20 	 18 	 S[qem]/(S[dcl]/NP) 	 1 	 intended shares
+21 	 20 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to intended
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 buy back
+<\s>
+<s id="wsj_2116.4"> 16
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 company named
+6 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Co. named
+6 	 3 	 N/N 	 1 	 Co. Dillon
+6 	 4 	 N/N 	 1 	 Co. Read
+6 	 5 	 N/N 	 1 	 Co. &
+7 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as named
+10 	 7 	 PP/NP 	 1 	 agent as
+10 	 8 	 NP[nb]/N 	 1 	 agent its
+10 	 9 	 N/N 	 1 	 agent exclusive
+10 	 11 	 (NP\NP)/NP 	 1 	 agent for
+15 	 11 	 (NP\NP)/NP 	 2 	 program for
+15 	 12 	 NP[nb]/N 	 1 	 program the
+15 	 13 	 N/N 	 1 	 program stock
+15 	 14 	 N/N 	 1 	 program buy-back
+<\s>

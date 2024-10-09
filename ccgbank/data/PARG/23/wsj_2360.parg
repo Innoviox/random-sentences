@@ -1,0 +1,847 @@
+<s id="wsj_2360.1"> 32
+2 	 0 	 N/N 	 1 	 Bank CenTrust
+2 	 1 	 N/N 	 1 	 Bank Savings
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Bank said
+2 	 21 	 (S[ng]\NP)/S[em] 	 1 	 Bank indicating <XB>
+6 	 4 	 N/N 	 1 	 regulators federal
+6 	 5 	 N/N 	 1 	 regulators thrift
+6 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 regulators ordered
+7 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 ordered said
+8 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 it ordered
+8 	 10 	 (S[b]\NP)/NP 	 1 	 it suspend <XB>
+9 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to ordered
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 suspend to
+12 	 10 	 (S[b]\NP)/NP 	 2 	 payments suspend
+12 	 11 	 N/N 	 1 	 payments dividend
+12 	 13 	 (NP\NP)/NP 	 1 	 payments on
+16 	 13 	 (NP\NP)/NP 	 2 	 classes on
+16 	 14 	 NP[nb]/N 	 1 	 classes its
+16 	 15 	 N/N 	 1 	 classes two
+16 	 17 	 (NP\NP)/NP 	 1 	 classes of
+19 	 17 	 (NP\NP)/NP 	 2 	 stock of
+19 	 18 	 N/N 	 1 	 stock preferred
+22 	 21 	 (S[ng]\NP)/S[em] 	 2 	 that indicating
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 regulators '
+25 	 24 	 (NP[nb]/N)\NP 	 1 	 concerns '
+25 	 26 	 (NP\NP)/NP 	 1 	 concerns about
+25 	 30 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 concerns have
+25 	 31 	 S[pt]\NP 	 1 	 concerns heightened <XB>
+29 	 26 	 (NP\NP)/NP 	 2 	 institution about
+29 	 27 	 NP[nb]/N 	 1 	 institution the
+29 	 28 	 N/N 	 1 	 institution troubled
+30 	 22 	 S[em]/S[dcl] 	 1 	 have that
+31 	 30 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 heightened have
+<\s>
+<s id="wsj_2360.2"> 29
+2 	 0 	 (S/S)/NP 	 2 	 statement In
+2 	 1 	 NP[nb]/N 	 1 	 statement a
+5 	 4 	 N/N 	 1 	 CenTrust Miami-based
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 CenTrust said
+6 	 0 	 (S/S)/NP 	 1 	 said In
+8 	 7 	 NP[nb]/N 	 1 	 regulators the
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 regulators cited
+8 	 23 	 (S[ng]\NP)/NP 	 1 	 regulators ordering <XB>
+9 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 cited said
+9 	 22 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 cited in
+11 	 10 	 NP[nb]/N 	 1 	 thrift the
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 thrift 's
+14 	 9 	 (S[dcl]\NP)/NP 	 2 	 losses cited
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 losses 's
+14 	 13 	 N/N 	 1 	 losses operating
+17 	 9 	 (S[dcl]\NP)/NP 	 2 	 losses cited
+17 	 16 	 N/N 	 1 	 losses apparent
+17 	 18 	 (NP\NP)/NP 	 1 	 losses in
+21 	 18 	 (NP\NP)/NP 	 2 	 portfolio in
+21 	 19 	 NP[nb]/N 	 1 	 portfolio its
+21 	 20 	 N/N 	 1 	 portfolio junk-bond
+23 	 22 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 ordering in
+25 	 23 	 (S[ng]\NP)/NP 	 2 	 suspension ordering
+25 	 24 	 NP[nb]/N 	 1 	 suspension the
+25 	 26 	 (NP\NP)/NP 	 1 	 suspension of
+28 	 26 	 (NP\NP)/NP 	 2 	 dividends of
+28 	 27 	 NP[nb]/N 	 1 	 dividends the
+<\s>
+<s id="wsj_2360.3"> 11
+0 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Regulators ordered
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 ordered also
+3 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 CenTrust ordered
+3 	 5 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 CenTrust stop <XB>
+3 	 6 	 (S[ng]\NP)/NP 	 1 	 CenTrust buying <XB>
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to ordered
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stop to
+6 	 5 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 buying stop
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 buying back
+10 	 6 	 (S[ng]\NP)/NP 	 2 	 stock buying
+10 	 8 	 NP[nb]/N 	 1 	 stock the
+10 	 9 	 N/N 	 1 	 stock preferred
+<\s>
+<s id="wsj_2360.4"> 32
+2 	 0 	 N/N 	 1 	 Paul David
+2 	 1 	 N/N 	 1 	 Paul L.
+2 	 10 	 (S[dcl]\NP)/NP 	 1 	 Paul criticized
+2 	 23 	 (S[ng]\NP)/S[dcl] 	 1 	 Paul saying <XB>
+4 	 10 	 (S[dcl]\NP)/NP 	 1 	 chairman criticized
+4 	 23 	 (S[ng]\NP)/S[dcl] 	 1 	 chairman saying <XB>
+8 	 6 	 N/N 	 1 	 officer chief
+8 	 7 	 N/N 	 1 	 officer executive
+8 	 10 	 (S[dcl]\NP)/NP 	 1 	 officer criticized
+8 	 23 	 (S[ng]\NP)/S[dcl] 	 1 	 officer saying <XB>
+13 	 10 	 (S[dcl]\NP)/NP 	 2 	 Office criticized
+13 	 11 	 NP[nb]/N 	 1 	 Office the
+13 	 12 	 N/N 	 1 	 Office federal
+13 	 14 	 (NP\NP)/NP 	 1 	 Office of
+13 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Office which
+13 	 19 	 (S[dcl]\NP)/NP 	 1 	 Office issued <XB>
+16 	 14 	 (NP\NP)/NP 	 2 	 Supervision of
+16 	 15 	 N/N 	 1 	 Supervision Thrift
+19 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 issued which
+21 	 19 	 (S[dcl]\NP)/NP 	 2 	 directive issued
+21 	 20 	 NP[nb]/N 	 1 	 directive the
+24 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it was
+24 	 26 	 S[adj]\NP 	 1 	 it inappropriate <XB>
+25 	 23 	 (S[ng]\NP)/S[dcl] 	 2 	 was saying
+26 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 inappropriate was
+29 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 on was
+29 	 28 	 PP/PP 	 1 	 on based
+31 	 29 	 PP/NP 	 1 	 reasons on
+31 	 30 	 N/N 	 1 	 reasons insufficient
+<\s>
+<s id="wsj_2360.5"> 13
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+3 	 2 	 NP[nb]/N 	 1 	 thrift the
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 thrift will
+3 	 5 	 (S[b]\NP)/(S[to]\NP) 	 1 	 thrift try <XB>
+3 	 7 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 thrift get <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 try will
+6 	 5 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to try
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+8 	 7 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 regulators get
+8 	 10 	 (S[b]\NP)/NP 	 1 	 regulators reverse <XB>
+9 	 7 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to get
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reverse to
+12 	 10 	 (S[b]\NP)/NP 	 2 	 decision reverse
+12 	 11 	 NP[nb]/N 	 1 	 decision the
+<\s>
+<s id="wsj_2360.6"> 23
+1 	 0 	 NP[nb]/N 	 1 	 suspension The
+1 	 2 	 (NP\NP)/NP 	 1 	 suspension of
+1 	 7 	 (S[dcl]\NP)/NP 	 1 	 suspension is
+6 	 2 	 (NP\NP)/NP 	 2 	 dividend of
+6 	 3 	 NP[nb]/N 	 1 	 dividend a
+6 	 4 	 N/N 	 1 	 dividend preferred
+6 	 5 	 N/N 	 1 	 dividend stock
+10 	 7 	 (S[dcl]\NP)/NP 	 2 	 step is
+10 	 8 	 NP[nb]/N 	 1 	 step a
+10 	 9 	 N/N 	 1 	 step serious
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 step that
+10 	 12 	 (S[dcl]\NP)/S[em] 	 1 	 step signals <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 signals that
+13 	 12 	 (S[dcl]\NP)/S[em] 	 2 	 that signals
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 regulators have
+15 	 13 	 S[em]/S[dcl] 	 1 	 have that
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 concerns have
+17 	 16 	 N/N 	 1 	 concerns deep
+17 	 18 	 (NP\NP)/NP 	 1 	 concerns about
+20 	 19 	 NP[nb]/N 	 1 	 institution an
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 institution 's
+22 	 18 	 (NP\NP)/NP 	 2 	 health about
+22 	 21 	 (NP[nb]/N)\NP 	 1 	 health 's
+<\s>
+<s id="wsj_2360.7"> 21
+1 	 0 	 (S/S)/NP 	 2 	 March In
+3 	 4 	 ((S[dcl]\NP)/NP)/NP 	 1 	 regulators labeled
+4 	 0 	 (S/S)/NP 	 1 	 labeled In
+4 	 11 	 ((S\NP)\(S\NP))/PP 	 2 	 labeled because
+5 	 4 	 ((S[dcl]\NP)/NP)/NP 	 3 	 CenTrust labeled
+8 	 4 	 ((S[dcl]\NP)/NP)/NP 	 2 	 institution labeled
+8 	 6 	 NP[nb]/N 	 1 	 institution a
+8 	 7 	 N/N 	 1 	 institution troubled
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 because largely
+12 	 11 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+16 	 12 	 PP/NP 	 1 	 holdings of
+16 	 13 	 NP[nb]/N 	 1 	 holdings its
+16 	 14 	 N/N 	 1 	 holdings big
+16 	 15 	 N/N 	 1 	 holdings junk-bond
+20 	 12 	 PP/NP 	 1 	 losses of
+20 	 18 	 NP[nb]/N 	 1 	 losses its
+20 	 19 	 N/N 	 1 	 losses operating
+<\s>
+<s id="wsj_2360.8"> 25
+3 	 0 	 (S/S)/NP 	 2 	 month In
+3 	 1 	 NP[nb]/N 	 1 	 month the
+3 	 2 	 N/N 	 1 	 month same
+6 	 5 	 NP[nb]/N 	 1 	 Office the
+6 	 7 	 (NP\NP)/NP 	 1 	 Office of
+6 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Office ordered
+9 	 7 	 (NP\NP)/NP 	 2 	 Supervision of
+9 	 8 	 N/N 	 1 	 Supervision Thrift
+10 	 0 	 (S/S)/NP 	 1 	 ordered In
+12 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 institution ordered
+12 	 11 	 NP[nb]/N 	 1 	 institution the
+12 	 14 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 institution stop <XB>
+12 	 15 	 (S[ng]\NP)/NP 	 1 	 institution paying <XB>
+13 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to ordered
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stop to
+14 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 stop until
+15 	 14 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 paying stop
+18 	 15 	 (S[ng]\NP)/NP 	 2 	 dividends paying
+18 	 16 	 N/N 	 1 	 dividends common
+18 	 17 	 N/N 	 1 	 dividends stock
+21 	 20 	 NP[nb]/N 	 1 	 operations its
+21 	 22 	 (S[dcl]\NP)/PP 	 1 	 operations were
+22 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 were until
+23 	 22 	 (S[dcl]\NP)/PP 	 2 	 on were
+24 	 23 	 PP/NP 	 1 	 track on
+<\s>
+<s id="wsj_2360.9"> 27
+3 	 0 	 (S/S)/NP 	 2 	 months For
+3 	 1 	 NP[nb]/N 	 1 	 months the
+3 	 2 	 N/N 	 1 	 months nine
+3 	 4 	 S[pss]\NP 	 1 	 months ended <XB>
+4 	 5 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended June
+6 	 5 	 ((S\NP)\(S\NP))/N[num] 	 3 	 30 June
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 CenTrust had
+9 	 0 	 (S/S)/NP 	 1 	 had For
+9 	 18 	 ((S\NP)\(S\NP))/PP 	 2 	 had compared
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 loss had
+12 	 10 	 NP[nb]/N 	 1 	 loss a
+12 	 11 	 N/N 	 1 	 loss net
+12 	 13 	 (NP\NP)/NP 	 1 	 loss of
+14 	 13 	 (NP\NP)/NP 	 2 	 $ of
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 21.3
+19 	 18 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+22 	 19 	 PP/NP 	 1 	 income with
+22 	 20 	 N/N 	 1 	 income year-earlier
+22 	 21 	 N/N 	 1 	 income net
+22 	 23 	 (NP\NP)/NP 	 1 	 income of
+24 	 23 	 (NP\NP)/NP 	 2 	 $ of
+26 	 24 	 N/N[num] 	 1 	 million $
+26 	 25 	 N/N 	 1 	 million 52.8
+<\s>
+<s id="wsj_2360.10"> 22
+0 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 CenTrust which
+0 	 3 	 (S[dcl]\NP)/NP 	 1 	 CenTrust is <XB>
+0 	 9 	 (S[dcl]\NP)/NP 	 1 	 CenTrust holds
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Florida 's
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 thrift is
+7 	 5 	 (NP[nb]/N)\NP 	 1 	 thrift 's
+7 	 6 	 N/N 	 1 	 thrift largest
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 one holds
+10 	 11 	 (NP\NP)/NP 	 1 	 one of
+15 	 11 	 (NP\NP)/NP 	 2 	 portfolios of
+15 	 12 	 NP[nb]/N 	 1 	 portfolios the
+15 	 13 	 N/N 	 1 	 portfolios largest
+15 	 14 	 N/N 	 1 	 portfolios junk-bond
+15 	 16 	 (NP\NP)/NP 	 1 	 portfolios of
+18 	 16 	 (NP\NP)/NP 	 2 	 thrift of
+18 	 17 	 NP[nb]/N 	 1 	 thrift any
+18 	 19 	 (NP\NP)/NP 	 1 	 thrift in
+21 	 19 	 (NP\NP)/NP 	 2 	 nation in
+21 	 20 	 NP[nb]/N 	 1 	 nation the
+<\s>
+<s id="wsj_2360.11"> 19
+1 	 0 	 (S/S)/NP 	 2 	 April Since
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+3 	 5 	 (((S[pt]\NP)/PP)/PP)/NP 	 1 	 it pared <XB>
+4 	 0 	 (S/S)/NP 	 1 	 has Since
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 pared has
+9 	 5 	 (((S[pt]\NP)/PP)/PP)/NP 	 4 	 holdings pared
+9 	 6 	 NP[nb]/N 	 1 	 holdings its
+9 	 7 	 N/N 	 1 	 holdings high-yield
+9 	 8 	 N/N 	 1 	 holdings bond
+10 	 5 	 (((S[pt]\NP)/PP)/PP)/NP 	 3 	 to pared
+12 	 10 	 PP/NP 	 1 	 $ to
+12 	 11 	 N/N 	 1 	 $ about
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 890
+15 	 5 	 (((S[pt]\NP)/PP)/PP)/NP 	 2 	 from pared
+16 	 15 	 PP/NP 	 1 	 $ from
+18 	 16 	 N/N[num] 	 1 	 billion $
+18 	 17 	 N/N 	 1 	 billion 1.35
+<\s>
+<s id="wsj_2360.12"> 22
+1 	 0 	 N/N 	 1 	 Paul Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Paul said
+5 	 3 	 N/N 	 1 	 $ only
+5 	 4 	 N/N 	 1 	 $ about
+5 	 8 	 (NP\NP)/NP 	 1 	 $ of
+5 	 12 	 (S[dcl]\NP)/NP 	 1 	 $ are
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 150
+11 	 8 	 (NP\NP)/NP 	 2 	 holdings of
+11 	 9 	 NP[nb]/N 	 1 	 holdings the
+11 	 10 	 N/N 	 1 	 holdings current
+12 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 securities are
+14 	 13 	 N/N 	 1 	 securities tradeable
+14 	 15 	 (S[pss]\NP)/PP 	 1 	 securities registered <XB>
+16 	 15 	 (S[pss]\NP)/PP 	 2 	 with registered
+18 	 16 	 PP/NP 	 1 	 Securities with
+18 	 17 	 NP[nb]/N 	 1 	 Securities the
+21 	 16 	 PP/NP 	 1 	 Commission with
+21 	 17 	 NP[nb]/N 	 1 	 Commission the
+21 	 20 	 N/N 	 1 	 Commission Exchange
+<\s>
+<s id="wsj_2360.13"> 29
+1 	 0 	 NP[nb]/N 	 1 	 remainder The
+1 	 6 	 (S[dcl]\NP)/NP 	 1 	 remainder are
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 he said
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 participations are
+9 	 7 	 N/N 	 1 	 participations commercial
+9 	 8 	 N/N 	 1 	 participations loan
+9 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 participations that
+9 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 participations are <XB>
+9 	 18 	 (S[pss]\NP)/PP 	 1 	 participations filed <XB>
+9 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 participations do <XU>
+9 	 25 	 (S[b]\NP)/NP 	 1 	 participations have <XU>
+13 	 6 	 (S[dcl]\NP)/NP 	 2 	 placements are
+13 	 12 	 N/N 	 1 	 placements private
+13 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 placements that
+13 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 placements are <XB>
+13 	 18 	 (S[pss]\NP)/PP 	 1 	 placements filed <XB>
+13 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 placements do <XU>
+13 	 25 	 (S[b]\NP)/NP 	 1 	 placements have <XU>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 are n't
+18 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 filed are
+19 	 18 	 (S[pss]\NP)/PP 	 2 	 with filed
+21 	 19 	 PP/NP 	 1 	 SEC with
+21 	 20 	 NP[nb]/N 	 1 	 SEC the
+23 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 do that
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 do n't
+25 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have do
+28 	 25 	 (S[b]\NP)/NP 	 2 	 market have
+28 	 26 	 NP[nb]/N 	 1 	 market a
+28 	 27 	 N/N 	 1 	 market ready
+<\s>
+<s id="wsj_2360.14"> 15
+0 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 CenTrust have
+0 	 4 	 (S[pt]\NP)/PP 	 1 	 CenTrust been <XB>
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 regulators have
+2 	 4 	 (S[pt]\NP)/PP 	 1 	 regulators been <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+5 	 4 	 (S[pt]\NP)/PP 	 2 	 in been
+7 	 5 	 PP/NP 	 1 	 dispute in
+7 	 6 	 NP[nb]/N 	 1 	 dispute a
+7 	 8 	 (NP\NP)/NP 	 1 	 dispute over
+10 	 8 	 (NP\NP)/NP 	 2 	 valuations over
+10 	 9 	 N/N 	 1 	 valuations market
+10 	 11 	 (NP\NP)/NP 	 1 	 valuations for
+14 	 11 	 (NP\NP)/NP 	 2 	 bonds for
+14 	 12 	 NP[nb]/N 	 1 	 bonds the
+14 	 13 	 N/N 	 1 	 bonds junk
+<\s>
+<s id="wsj_2360.15"> 43
+1 	 0 	 NP[nb]/N 	 1 	 Office The
+1 	 2 	 (NP\NP)/NP 	 1 	 Office of
+1 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Office has
+1 	 7 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 1 	 Office hounding <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 Supervision of
+4 	 3 	 N/N 	 1 	 Supervision Thrift
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+7 	 6 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 hounding been
+8 	 7 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 CenTrust hounding
+8 	 10 	 (S[b]\NP)/NP 	 1 	 CenTrust provide <XB>
+9 	 7 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to hounding
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provide to
+10 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 provide for
+13 	 10 	 (S[b]\NP)/NP 	 2 	 values provide
+13 	 11 	 N/N 	 1 	 values current
+13 	 12 	 N/N 	 1 	 values market
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 holdings for
+16 	 15 	 NP[nb]/N 	 1 	 holdings its
+19 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 CenTrust has
+19 	 21 	 (S[pt]\NP)/S[dcl] 	 1 	 CenTrust said <XB>
+21 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said has
+22 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it ca
+22 	 26 	 (S[b]\NP)/NP 	 1 	 it obtain <XB>
+23 	 21 	 (S[pt]\NP)/S[dcl] 	 2 	 ca said
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 ca n't
+23 	 25 	 (S\NP)\(S\NP) 	 2 	 ca easily
+23 	 29 	 ((S\NP)\(S\NP))/PP 	 2 	 ca because
+26 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 obtain ca
+28 	 26 	 (S[b]\NP)/NP 	 2 	 values obtain
+28 	 27 	 NP/NP 	 1 	 values such
+30 	 29 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+33 	 30 	 PP/NP 	 1 	 illiquidity of
+33 	 31 	 NP[nb]/N 	 1 	 illiquidity the
+33 	 32 	 N/N 	 1 	 illiquidity relative
+33 	 34 	 (N\N)/NP 	 1 	 illiquidity of
+36 	 34 	 (N\N)/NP 	 2 	 bonds of
+36 	 35 	 NP[nb]/N 	 1 	 bonds the
+38 	 30 	 PP/NP 	 1 	 lack of
+38 	 31 	 NP[nb]/N 	 1 	 lack the
+38 	 39 	 (N\N)/NP 	 1 	 lack of
+42 	 39 	 (N\N)/NP 	 2 	 market of
+42 	 40 	 NP[nb]/N 	 1 	 market a
+42 	 41 	 N/N 	 1 	 market ready
+<\s>
+<s id="wsj_2360.16"> 32
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Regulators have
+0 	 2 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 Regulators become <XB>
+0 	 4 	 (S[adj]\NP)/PP 	 1 	 Regulators antsy <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 become have
+2 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 become in
+4 	 2 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 antsy become
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 antsy increasingly
+5 	 4 	 (S[adj]\NP)/PP 	 2 	 about antsy
+7 	 5 	 PP/NP 	 1 	 's about
+7 	 6 	 N/N 	 1 	 's CenTrust
+7 	 12 	 NP\NP 	 1 	 's junk-bond
+7 	 13 	 NP\NP 	 1 	 's holdings
+11 	 5 	 PP/NP 	 1 	 ' about
+11 	 9 	 N/N 	 1 	 ' other
+11 	 10 	 N/N 	 1 	 ' thrifts
+11 	 12 	 NP\NP 	 1 	 ' junk-bond
+11 	 13 	 NP\NP 	 1 	 ' holdings
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 light in
+15 	 16 	 (NP\NP)/NP 	 1 	 light of
+22 	 16 	 (NP\NP)/NP 	 2 	 legislation of
+22 	 17 	 NP[nb]/N 	 1 	 legislation the
+22 	 18 	 N/N 	 1 	 legislation recent
+22 	 19 	 N/N 	 1 	 legislation federal
+22 	 20 	 N/N 	 1 	 legislation thrift
+22 	 21 	 N/N 	 1 	 legislation bailout
+27 	 16 	 (NP\NP)/NP 	 2 	 decline of
+27 	 24 	 NP[nb]/N 	 1 	 decline the
+27 	 25 	 N/N 	 1 	 decline recent
+27 	 26 	 N/N 	 1 	 decline deep
+27 	 28 	 (NP\NP)/NP 	 1 	 decline in
+31 	 28 	 (NP\NP)/NP 	 2 	 market in
+31 	 29 	 NP[nb]/N 	 1 	 market the
+31 	 30 	 N/N 	 1 	 market junk-bond
+<\s>
+<s id="wsj_2360.17"> 17
+1 	 0 	 NP[nb]/N 	 1 	 legislation The
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 legislation requires
+3 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 thrifts requires
+3 	 5 	 ((S[b]\NP)/PP)/NP 	 1 	 thrifts divest <XB>
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to requires
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 divest to
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 divest in
+6 	 5 	 ((S[b]\NP)/PP)/NP 	 3 	 themselves divest
+7 	 5 	 ((S[b]\NP)/PP)/NP 	 2 	 of divest
+9 	 7 	 PP/NP 	 1 	 bonds of
+9 	 8 	 N/N 	 1 	 bonds junk
+16 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 climate in
+16 	 11 	 NP[nb]/N 	 1 	 climate the
+16 	 12 	 N/N 	 1 	 climate new
+16 	 14 	 N/N 	 1 	 climate somber
+16 	 15 	 N/N 	 1 	 climate regulatory
+<\s>
+<s id="wsj_2360.18"> 19
+5 	 0 	 (S/S)/NP 	 2 	 trading In
+5 	 1 	 N/N 	 1 	 trading American
+5 	 2 	 N/N 	 1 	 trading Stock
+5 	 3 	 N/N 	 1 	 trading Exchange
+5 	 4 	 N/N 	 1 	 trading composite
+10 	 8 	 N/N 	 1 	 shares CenTrust
+10 	 9 	 N/N 	 1 	 shares common
+10 	 11 	 (S[dcl]\NP)/PP 	 1 	 shares closed
+11 	 0 	 (S/S)/NP 	 1 	 closed In
+11 	 6 	 S/S 	 1 	 closed Friday
+11 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+12 	 11 	 (S[dcl]\NP)/PP 	 2 	 at closed
+13 	 12 	 PP/NP 	 1 	 $ at
+14 	 13 	 N/N[num] 	 1 	 3 $
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 cents down
+18 	 17 	 N/N 	 1 	 cents 12.5
+<\s>
+<s id="wsj_2360.19"> 35
+2 	 0 	 (S/S)/NP 	 2 	 statement In
+2 	 1 	 NP[nb]/N 	 1 	 statement a
+6 	 5 	 N/N 	 1 	 Paul Mr.
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 Paul challenged
+6 	 13 	 (S[ng]\NP)/S[dcl] 	 1 	 Paul saying <XB>
+7 	 0 	 (S/S)/NP 	 1 	 challenged In
+7 	 3 	 S/S 	 1 	 challenged Friday
+9 	 8 	 NP[nb]/N 	 1 	 regulators the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 regulators '
+11 	 7 	 (S[dcl]\NP)/NP 	 2 	 decision challenged
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 decision '
+15 	 14 	 NP[nb]/N 	 1 	 thrift the
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 thrift 's
+18 	 16 	 (NP[nb]/N)\NP 	 1 	 losses 's
+18 	 17 	 N/N 	 1 	 losses operating
+18 	 23 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 losses have
+18 	 26 	 S[pss]\NP 	 1 	 losses offset <XB>
+22 	 16 	 (NP[nb]/N)\NP 	 1 	 losses 's
+22 	 20 	 N/N 	 1 	 losses apparent
+22 	 21 	 N/N 	 1 	 losses junk-bond
+22 	 23 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 losses have
+22 	 26 	 S[pss]\NP 	 1 	 losses offset <XB>
+23 	 13 	 (S[ng]\NP)/S[dcl] 	 2 	 have saying
+24 	 23 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+26 	 24 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 offset been
+26 	 25 	 (S\NP)/(S\NP) 	 2 	 offset substantially
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 offset by
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 gains by
+28 	 29 	 (NP\NP)/NP 	 1 	 gains in
+31 	 29 	 (NP\NP)/NP 	 2 	 activities in
+31 	 30 	 N/N 	 1 	 activities other
+31 	 32 	 (NP\NP)/NP 	 1 	 activities of
+34 	 32 	 (NP\NP)/NP 	 2 	 bank of
+34 	 33 	 NP[nb]/N 	 1 	 bank the
+<\s>
+<s id="wsj_2360.20"> 16
+0 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 said also
+4 	 3 	 N/N 	 1 	 reserves substantial
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 reserves have
+4 	 7 	 S[pss]\NP 	 1 	 reserves set <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 have said
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+7 	 6 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 set been
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 set aside
+7 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 set for
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 losses for
+11 	 10 	 N/N 	 1 	 losses possible
+11 	 12 	 (NP\NP)/NP 	 1 	 losses from
+15 	 12 	 (NP\NP)/NP 	 2 	 bonds from
+15 	 13 	 NP[nb]/N 	 1 	 bonds the
+15 	 14 	 N/N 	 1 	 bonds junk
+<\s>
+<s id="wsj_2360.21"> 17
+3 	 0 	 (S/S)/NP 	 2 	 quarter In
+3 	 1 	 NP[nb]/N 	 1 	 quarter the
+3 	 2 	 N/N 	 1 	 quarter third
+6 	 5 	 (S/S)/NP 	 2 	 instance for
+8 	 9 	 ((S[dcl]\NP)/PP)/NP 	 1 	 CenTrust added
+9 	 0 	 (S/S)/NP 	 1 	 added In
+9 	 5 	 (S/S)/NP 	 1 	 added for
+10 	 9 	 ((S[dcl]\NP)/PP)/NP 	 3 	 $ added
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 22.5
+13 	 9 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to added
+16 	 13 	 PP/NP 	 1 	 reserves to
+16 	 14 	 NP[nb]/N 	 1 	 reserves its
+16 	 15 	 N/N 	 1 	 reserves general
+<\s>
+<s id="wsj_2360.22"> 39
+1 	 0 	 N/N 	 1 	 Paul Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Paul said
+4 	 3 	 NP[nb]/N 	 1 	 regulators the
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 regulators should
+4 	 7 	 (S[b]\NP)/PP 	 1 	 regulators move <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 should said
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 should instead
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 move should
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 move ahead
+9 	 7 	 (S[b]\NP)/PP 	 2 	 with move
+10 	 9 	 PP/(S[ng]\NP) 	 1 	 approving with
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 CenTrust 's
+13 	 10 	 (S[ng]\NP)/NP 	 2 	 request approving
+13 	 12 	 (NP[nb]/N)\NP 	 1 	 request 's
+13 	 15 	 ((S[b]\NP)/PP)/NP 	 1 	 request sell <XB>
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+16 	 15 	 ((S[b]\NP)/PP)/NP 	 3 	 63 sell
+16 	 17 	 (NP\NP)/NP 	 1 	 63 of
+20 	 17 	 (NP\NP)/NP 	 2 	 branches of
+20 	 18 	 NP[nb]/N 	 1 	 branches its
+20 	 19 	 N/N 	 1 	 branches 71
+21 	 15 	 ((S[b]\NP)/PP)/NP 	 2 	 to sell
+24 	 21 	 PP/NP 	 1 	 Bank to
+24 	 22 	 N/N 	 1 	 Bank Great
+24 	 23 	 N/N 	 1 	 Bank Western
+27 	 21 	 PP/NP 	 1 	 unit to
+27 	 26 	 NP[nb]/N 	 1 	 unit a
+27 	 28 	 (NP\NP)/NP 	 1 	 unit of
+27 	 33 	 S[pss]\NP 	 1 	 unit based <XB>
+32 	 28 	 (NP\NP)/NP 	 2 	 Corp. of
+32 	 29 	 N/N 	 1 	 Corp. Great
+32 	 30 	 N/N 	 1 	 Corp. Western
+32 	 31 	 N/N 	 1 	 Corp. Financial
+33 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+36 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 Hills in
+36 	 35 	 N/N 	 1 	 Hills Beverly
+38 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 Calif in
+<\s>
+<s id="wsj_2360.23"> 34
+2 	 0 	 NP[nb]/N 	 1 	 sale The
+2 	 1 	 N/N 	 1 	 sale branch
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 sale is
+3 	 30 	 ((S\NP)\(S\NP))/PP 	 2 	 is according
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 centerpiece is
+5 	 4 	 NP[nb]/N 	 1 	 centerpiece the
+5 	 6 	 (NP\NP)/NP 	 1 	 centerpiece of
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 CenTrust 's
+9 	 6 	 (NP\NP)/NP 	 2 	 strategy of
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 strategy 's
+9 	 11 	 (((S[b]\NP)/PP)/PP)/NP 	 1 	 strategy transform <XB>
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 transform to
+12 	 11 	 (((S[b]\NP)/PP)/PP)/NP 	 4 	 itself transform
+13 	 11 	 (((S[b]\NP)/PP)/PP)/NP 	 3 	 into transform
+16 	 13 	 PP/NP 	 1 	 S&L into
+16 	 14 	 NP[nb]/N 	 1 	 S&L a
+16 	 15 	 N/N 	 1 	 S&L traditional
+17 	 11 	 (((S[b]\NP)/PP)/PP)/NP 	 2 	 from transform
+20 	 17 	 PP/NP 	 1 	 institution from
+20 	 18 	 NP[nb]/N 	 1 	 institution a
+20 	 19 	 N/N 	 1 	 institution high-flying
+20 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 institution that
+20 	 22 	 (S[dcl]\NP)/PP 	 1 	 institution relied <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 relied that
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 relied heavily
+22 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 relied for
+24 	 22 	 (S[dcl]\NP)/PP 	 2 	 on relied
+26 	 24 	 PP/NP 	 1 	 trading on
+26 	 25 	 N/N 	 1 	 trading securities
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 profits for
+31 	 30 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+33 	 31 	 PP/NP 	 1 	 Paul to
+33 	 32 	 N/N 	 1 	 Paul Mr.
+<\s>
+<s id="wsj_2360.24"> 23
+1 	 0 	 N/N 	 1 	 analysts Most
+1 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 analysts had
+1 	 6 	 (S[pt]\NP)/NP 	 1 	 analysts expected <XB>
+4 	 0 	 N/N 	 1 	 executives Most
+4 	 3 	 N/N 	 1 	 executives thrift
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 executives had
+4 	 6 	 (S[pt]\NP)/NP 	 1 	 executives expected <XB>
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 expected had
+6 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 expected before
+8 	 6 	 (S[pt]\NP)/NP 	 2 	 decision expected
+8 	 7 	 NP[nb]/N 	 1 	 decision a
+8 	 9 	 (NP\NP)/NP 	 1 	 decision on
+12 	 9 	 (NP\NP)/NP 	 2 	 transaction on
+12 	 10 	 NP[nb]/N 	 1 	 transaction the
+12 	 11 	 N/N 	 1 	 transaction proposed
+12 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 transaction which
+12 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 transaction was <XB>
+12 	 16 	 S[pss]\NP 	 1 	 transaction announced <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was which
+16 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 announced was
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 announced in
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 July in
+21 	 20 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 before long
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 now before
+<\s>
+<s id="wsj_2360.25"> 14
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Many interpret
+3 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 delay interpret
+3 	 2 	 NP[nb]/N 	 1 	 delay the
+4 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as interpret
+6 	 4 	 PP/NP 	 1 	 indication as
+6 	 5 	 NP[nb]/N 	 1 	 indication an
+7 	 6 	 N/S[em] 	 1 	 that indication
+8 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 regulators are
+8 	 10 	 (S[adj]\NP)/PP 	 1 	 regulators skeptical <XB>
+9 	 7 	 S[em]/S[dcl] 	 1 	 are that
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 skeptical are
+11 	 10 	 (S[adj]\NP)/PP 	 2 	 about skeptical
+13 	 11 	 PP/NP 	 1 	 proposal about
+13 	 12 	 NP[nb]/N 	 1 	 proposal the
+<\s>
+<s id="wsj_2360.26"> 18
+0 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Branches can
+0 	 5 	 S[pss]\NP 	 1 	 Branches sold <XB>
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 deposits can
+2 	 5 	 S[pss]\NP 	 1 	 deposits sold <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 sold be
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 sold at
+5 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 sold in
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 premium at
+8 	 7 	 NP[nb]/N 	 1 	 premium a
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 event in
+11 	 10 	 NP[nb]/N 	 1 	 event the
+13 	 12 	 N/N 	 1 	 regulators federal
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 regulators take
+14 	 11 	 N/S[dcl] 	 1 	 take event
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 take over
+17 	 14 	 (S[dcl]\NP)/NP 	 2 	 institution take
+17 	 16 	 NP[nb]/N 	 1 	 institution an
+<\s>
+<s id="wsj_2360.27"> 31
+0 	 4 	 (S[dcl]\NP)/NP 	 1 	 CenTrust touts
+0 	 9 	 (S[ng]\NP)/S[dcl] 	 1 	 CenTrust saying <XB>
+4 	 2 	 (S\NP)/(S\NP) 	 2 	 touts however
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 sale touts
+7 	 5 	 NP[nb]/N 	 1 	 sale the
+7 	 6 	 N/N 	 1 	 sale branch
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+10 	 12 	 (S[b]\NP)/NP 	 1 	 it bring <XB>
+10 	 18 	 (((S[b]\NP)/PP)/PP)/NP 	 1 	 it reduce <XU>
+11 	 9 	 (S[ng]\NP)/S[dcl] 	 2 	 would saying
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 bring would
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 bring in
+14 	 12 	 (S[b]\NP)/NP 	 2 	 $ bring
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 150
+18 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reduce would
+20 	 19 	 NP[nb]/N 	 1 	 thrift the
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 thrift 's
+22 	 18 	 (((S[b]\NP)/PP)/PP)/NP 	 4 	 assets reduce
+22 	 21 	 (NP[nb]/N)\NP 	 1 	 assets 's
+23 	 18 	 (((S[b]\NP)/PP)/PP)/NP 	 3 	 to reduce
+24 	 23 	 PP/NP 	 1 	 $ to
+26 	 24 	 N/N[num] 	 1 	 billion $
+26 	 25 	 N/N 	 1 	 billion 6.7
+27 	 18 	 (((S[b]\NP)/PP)/PP)/NP 	 2 	 from reduce
+28 	 27 	 PP/NP 	 1 	 $ from
+30 	 28 	 N/N[num] 	 1 	 billion $
+30 	 29 	 N/N 	 1 	 billion 9
+<\s>
+<s id="wsj_2360.28"> 40
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 It said
+3 	 2 	 NP[nb]/N 	 1 	 sale the
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 sale would
+3 	 5 	 ((S[b]\NP)/NP)/NP 	 1 	 sale give <XB>
+3 	 34 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 1 	 sale bringing <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give would
+5 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 give from
+5 	 28 	 ((S\NP)\(S\NP))/PP 	 2 	 give as
+6 	 5 	 ((S[b]\NP)/NP)/NP 	 3 	 it give
+9 	 5 	 ((S[b]\NP)/NP)/NP 	 2 	 capital give
+9 	 7 	 N/N 	 1 	 capital positive
+9 	 8 	 N/N 	 1 	 capital tangible
+9 	 10 	 (NP\NP)/NP 	 1 	 capital of
+11 	 10 	 (NP\NP)/NP 	 2 	 $ of
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 82
+17 	 16 	 (N/N)/(N/N) 	 2 	 1.2 about
+18 	 10 	 (NP\NP)/NP 	 2 	 % of
+18 	 17 	 N/N 	 1 	 % 1.2
+18 	 19 	 (NP\NP)/NP 	 1 	 % of
+20 	 19 	 (NP\NP)/NP 	 2 	 assets of
+25 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+25 	 23 	 NP[nb]/N 	 1 	 $ a
+25 	 24 	 N/N 	 1 	 $ negative
+27 	 25 	 N/N[num] 	 1 	 million $
+27 	 26 	 N/N 	 1 	 million 33
+29 	 28 	 ((S\NP)\(S\NP))/PP 	 3 	 of as
+30 	 29 	 PP/NP 	 1 	 Sept. of
+31 	 30 	 N/N[num] 	 1 	 30 Sept.
+34 	 33 	 (S\NP)/(S\NP) 	 2 	 bringing thus
+35 	 34 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 3 	 CenTrust bringing
+35 	 36 	 (S[adj]\NP)/PP 	 1 	 CenTrust close <XB>
+36 	 34 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 2 	 close bringing
+37 	 36 	 (S[adj]\NP)/PP 	 2 	 to close
+39 	 37 	 PP/NP 	 1 	 standards to
+39 	 38 	 N/N 	 1 	 standards regulatory
+<\s>
+<s id="wsj_2360.29"> 21
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 CenTrust said
+4 	 2 	 NP[nb]/N 	 1 	 sale the
+4 	 3 	 N/N 	 1 	 sale branch
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 sale would
+4 	 7 	 (S[b]\NP)/NP 	 1 	 sale reduce <XB>
+5 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 would also
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reduce would
+7 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 reduce by
+9 	 8 	 NP[nb]/N 	 1 	 company the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 company 's
+12 	 7 	 (S[b]\NP)/NP 	 2 	 amount reduce
+12 	 10 	 (NP[nb]/N)\NP 	 1 	 amount 's
+12 	 11 	 N/N 	 1 	 amount large
+12 	 13 	 (NP\NP)/NP 	 1 	 amount of
+15 	 13 	 (NP\NP)/NP 	 2 	 will of
+15 	 14 	 N/N 	 1 	 will good
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ by
+18 	 17 	 N/N 	 1 	 $ about
+20 	 18 	 N/N[num] 	 1 	 million $
+20 	 19 	 N/N 	 1 	 million 180
+<\s>
+<s id="wsj_2360.30"> 21
+0 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Critics say
+4 	 2 	 (S\NP)/(S\NP) 	 2 	 say however
+7 	 5 	 NP[nb]/N 	 1 	 sale the
+7 	 6 	 N/N 	 1 	 sale branch
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 sale will
+7 	 9 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 sale make <XB>
+8 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 will say
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make will
+10 	 9 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 CenTrust make
+10 	 12 	 (S[adj]\NP)/PP 	 1 	 CenTrust dependent <XB>
+12 	 9 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 dependent make
+12 	 11 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 dependent more
+12 	 13 	 ((S[adj]\NP)\(S[adj]\NP))/(S[adj]\NP) 	 2 	 dependent than
+14 	 13 	 ((S[adj]\NP)\(S[adj]\NP))/(S[adj]\NP) 	 3 	 ever than
+15 	 12 	 (S[adj]\NP)/PP 	 2 	 on dependent
+17 	 15 	 PP/NP 	 1 	 deposits on
+17 	 16 	 N/N 	 1 	 deposits brokered
+20 	 15 	 PP/NP 	 1 	 bonds on
+20 	 19 	 N/N 	 1 	 bonds junk
+<\s>
+<s id="wsj_2360.31"> 30
+1 	 0 	 N/N 	 1 	 Paul Mr.
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Paul counters
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that counters
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 he intends
+4 	 8 	 (S[b]\NP)/NP 	 1 	 he pare <XB>
+4 	 15 	 (S[ng]\NP)/NP 	 1 	 he renewing <XB>
+5 	 3 	 S[em]/S[dcl] 	 1 	 intends that
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to intends
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 to further
+8 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pare to
+8 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 pare by
+10 	 8 	 (S[b]\NP)/NP 	 2 	 size pare
+10 	 9 	 NP[nb]/N 	 1 	 size the
+10 	 11 	 (NP\NP)/NP 	 1 	 size of
+12 	 11 	 (NP\NP)/NP 	 2 	 CenTrust of
+15 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 renewing by
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 renewing not
+15 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 renewing when
+16 	 17 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+18 	 15 	 (S[ng]\NP)/NP 	 2 	 $ renewing
+18 	 17 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+18 	 21 	 (NP\NP)/NP 	 1 	 $ of
+20 	 18 	 N/N[num] 	 1 	 billion $
+20 	 19 	 N/N 	 1 	 billion 1
+23 	 21 	 (NP\NP)/NP 	 2 	 certificates of
+23 	 22 	 N/N 	 1 	 certificates brokered
+23 	 24 	 (NP\NP)/NP 	 1 	 certificates of
+25 	 24 	 (NP\NP)/NP 	 2 	 deposit of
+27 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they come
+27 	 29 	 S[adj]\NP 	 1 	 they due <XB>
+28 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 come when
+29 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 due come
+<\s>
+<s id="wsj_2360.32"> 39
+1 	 0 	 NP[nb]/N 	 1 	 thrift The
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 thrift is
+1 	 4 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 thrift working <XB>
+1 	 6 	 (S[b]\NP)/NP 	 1 	 thrift unload <XB>
+1 	 11 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 thrift continuing <XB>
+1 	 13 	 (S[b]\NP)/NP 	 1 	 thrift sell <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 is also
+4 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 working is
+5 	 4 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to working
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 unload to
+6 	 10 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 unload by
+9 	 6 	 (S[b]\NP)/NP 	 2 	 portfolio unload
+9 	 7 	 NP[nb]/N 	 1 	 portfolio its
+9 	 8 	 N/N 	 1 	 portfolio junk-bond
+11 	 10 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 continuing by
+12 	 11 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to continuing
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 sell off
+16 	 13 	 (S[b]\NP)/NP 	 2 	 bonds sell
+16 	 15 	 NP[nb]/N 	 1 	 bonds the
+19 	 20 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it plans
+19 	 23 	 (S[b]\NP)/NP 	 1 	 it place <XB>
+19 	 33 	 S[pss]\NP 	 1 	 it required <XB>
+21 	 20 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 to eventually
+23 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 place to
+23 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 place in
+23 	 32 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 2 	 place as
+24 	 23 	 (S[b]\NP)/NP 	 2 	 some place
+24 	 25 	 (NP\NP)/NP 	 1 	 some of
+26 	 25 	 (NP\NP)/NP 	 2 	 them of
+30 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 affiliate in
+30 	 28 	 NP[nb]/N 	 1 	 affiliate a
+30 	 29 	 N/N 	 1 	 affiliate separate
+33 	 32 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 3 	 required as
+33 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 required under
+38 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 law under
+38 	 35 	 NP[nb]/N 	 1 	 law the
+38 	 36 	 N/N 	 1 	 law new
+38 	 37 	 N/N 	 1 	 law thrift
+<\s>

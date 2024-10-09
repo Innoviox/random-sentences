@@ -1,0 +1,70 @@
+<s id="wsj_1933.1"> 12
+2 	 0 	 NP[nb]/N 	 1 	 issues The
+2 	 1 	 N/N 	 1 	 issues following
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 issues were
+2 	 5 	 (S[pss]\NP)/PP 	 1 	 issues filed <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 were recently
+5 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 filed were
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 with filed
+8 	 6 	 PP/NP 	 1 	 Securities with
+8 	 7 	 NP[nb]/N 	 1 	 Securities the
+11 	 6 	 PP/NP 	 1 	 Commission with
+11 	 7 	 NP[nb]/N 	 1 	 Commission the
+11 	 10 	 N/N 	 1 	 Commission Exchange
+<\s>
+<s id="wsj_1933.2"> 31
+4 	 0 	 N/N 	 1 	 Inc. Health
+4 	 1 	 N/N 	 1 	 Inc. Care
+4 	 2 	 N/N 	 1 	 Inc. Property
+4 	 3 	 N/N 	 1 	 Inc. Investors
+6 	 7 	 (NP\NP)/NP 	 1 	 offering of
+6 	 14 	 (NP\NP)/NP 	 1 	 offering via
+9 	 7 	 (NP\NP)/NP 	 2 	 shares of
+9 	 8 	 N/N 	 1 	 shares 2,250,000
+9 	 10 	 (NP\NP)/NP 	 1 	 shares of
+12 	 10 	 (NP\NP)/NP 	 2 	 stock of
+12 	 11 	 N/N 	 1 	 stock common
+18 	 14 	 (NP\NP)/NP 	 2 	 Markets via
+18 	 15 	 N/N 	 1 	 Markets Merrill
+18 	 16 	 N/N 	 1 	 Markets Lynch
+18 	 17 	 N/N 	 1 	 Markets Capital
+25 	 14 	 (NP\NP)/NP 	 2 	 Inc. via
+25 	 20 	 N/N 	 1 	 Inc. Alex
+25 	 22 	 N/N 	 1 	 Inc. Brown
+25 	 23 	 N/N 	 1 	 Inc. &
+25 	 24 	 N/N 	 1 	 Inc. Sons
+30 	 14 	 (NP\NP)/NP 	 2 	 Inc via
+30 	 27 	 N/N 	 1 	 Inc Dean
+30 	 28 	 N/N 	 1 	 Inc Witter
+30 	 29 	 N/N 	 1 	 Inc Reynolds
+<\s>
+<s id="wsj_1933.3"> 16
+2 	 0 	 N/N 	 1 	 Corp. Union
+2 	 1 	 N/N 	 1 	 Corp. Pacific
+5 	 4 	 N/N 	 1 	 offering shelf
+5 	 6 	 (NP\NP)/NP 	 1 	 offering of
+9 	 6 	 (NP\NP)/NP 	 2 	 $ of
+9 	 7 	 N/N 	 1 	 $ up
+9 	 8 	 N/N 	 1 	 $ to
+9 	 13 	 NP\NP 	 1 	 $ securities
+9 	 15 	 NP\NP 	 1 	 $ warrants <XU>
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 500
+13 	 12 	 (NP\NP)/(NP\NP) 	 2 	 securities debt
+<\s>
+<s id="wsj_1933.4"> 17
+2 	 0 	 N/N 	 1 	 Corp. United
+2 	 1 	 N/N 	 1 	 Corp. Technologies
+5 	 4 	 N/N 	 1 	 offering shelf
+5 	 6 	 (NP\NP)/NP 	 1 	 offering of
+9 	 6 	 (NP\NP)/NP 	 2 	 $ of
+9 	 7 	 N/N 	 1 	 $ up
+9 	 8 	 N/N 	 1 	 $ to
+9 	 16 	 NP\NP 	 1 	 $ securities
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 500
+16 	 12 	 (NP\NP)/(NP\NP) 	 2 	 securities unsubordinated
+16 	 13 	 (NP\NP)/(NP\NP) 	 2 	 securities non-convertible
+16 	 14 	 (NP\NP)/(NP\NP) 	 2 	 securities unsecured
+16 	 15 	 (NP\NP)/(NP\NP) 	 2 	 securities debt
+<\s>

@@ -1,0 +1,111 @@
+<s id="wsj_1489.1"> 26
+2 	 0 	 N/N 	 1 	 Inc. Comair
+2 	 1 	 N/N 	 1 	 Inc. Holdings
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 Inc. said
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 said in
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Cincinnati in
+6 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 it bought
+8 	 6 	 S[em]/S[dcl] 	 1 	 bought that
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 Academy bought
+11 	 9 	 N/N 	 1 	 Academy Airline
+11 	 10 	 N/N 	 1 	 Academy Aviation
+16 	 8 	 (S[dcl]\NP)/NP 	 2 	 school bought
+16 	 13 	 NP[nb]/N 	 1 	 school a
+16 	 14 	 N/N 	 1 	 school pilot
+16 	 15 	 N/N 	 1 	 school training
+16 	 17 	 S[pss]\NP 	 1 	 school based <XB>
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 based at
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 Airport at
+21 	 19 	 N/N 	 1 	 Airport Sanford
+21 	 20 	 N/N 	 1 	 Airport Regional
+21 	 22 	 (NP\NP)/NP 	 1 	 Airport near
+23 	 22 	 (NP\NP)/NP 	 2 	 Orlando near
+25 	 22 	 (NP\NP)/NP 	 2 	 Fla near
+<\s>
+<s id="wsj_1489.2"> 11
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Comair said
+0 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Comair declined <XU>
+0 	 8 	 (S[b]\NP)/NP 	 1 	 Comair disclose <XU>
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 it paid
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 paid said
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 cash paid
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 disclose to
+10 	 8 	 (S[b]\NP)/NP 	 2 	 price disclose
+10 	 9 	 NP[nb]/N 	 1 	 price the
+<\s>
+<s id="wsj_1489.3"> 13
+1 	 0 	 N/N 	 1 	 Holdings Comair
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Holdings is
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 parent is
+4 	 3 	 NP[nb]/N 	 1 	 parent the
+4 	 5 	 (NP\NP)/NP 	 1 	 parent of
+7 	 5 	 (NP\NP)/NP 	 2 	 Inc. of
+7 	 6 	 N/N 	 1 	 Inc. Comair
+12 	 5 	 (NP\NP)/NP 	 2 	 carrier of
+12 	 9 	 NP[nb]/N 	 1 	 carrier a
+12 	 10 	 N/N 	 1 	 carrier regional
+12 	 11 	 N/N 	 1 	 carrier air
+<\s>
+<s id="wsj_1489.4"> 34
+1 	 0 	 N/N 	 1 	 Aviation Airline
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Aviation which
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 Aviation has <XB>
+1 	 16 	 (S[dcl]\NP)/NP 	 1 	 Aviation has
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 revenue has
+6 	 5 	 N/N 	 1 	 revenue annual
+6 	 7 	 (NP\NP)/NP 	 1 	 revenue of
+8 	 7 	 (NP\NP)/NP 	 2 	 $ of
+8 	 11 	 (N\N)/N 	 1 	 $ to
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 5
+12 	 11 	 (N\N)/N 	 2 	 $ to
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 6
+16 	 20 	 ((S\NP)\(S\NP))/PP 	 2 	 has because
+16 	 33 	 (S[dcl]\S[dcl])\NP 	 1 	 has said
+19 	 16 	 (S[dcl]\NP)/NP 	 2 	 potential has
+19 	 17 	 N/N 	 1 	 potential great
+19 	 18 	 N/N 	 1 	 potential growth
+21 	 20 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+24 	 21 	 PP/NP 	 1 	 number of
+24 	 22 	 NP[nb]/N 	 1 	 number the
+24 	 23 	 N/N 	 1 	 number large
+24 	 25 	 (NP\NP)/NP 	 1 	 number of
+24 	 28 	 (S[ng]\NP)/NP 	 1 	 number nearing <XB>
+27 	 25 	 (NP\NP)/NP 	 2 	 pilots of
+27 	 26 	 N/N 	 1 	 pilots U.S.
+30 	 28 	 (S[ng]\NP)/NP 	 2 	 age nearing
+30 	 29 	 N/N 	 1 	 age retirement
+32 	 33 	 (S[dcl]\S[dcl])\NP 	 2 	 Comair said
+<\s>
+<s id="wsj_1489.5"> 26
+1 	 0 	 NP[nb]/N 	 1 	 unit The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 unit will
+1 	 4 	 (S[pss]\NP)/NP 	 1 	 unit renamed <XB>
+1 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 unit will <XU>
+1 	 10 	 (S[b]\NP)/(S[to]\NP) 	 1 	 unit continue <XU>
+1 	 13 	 S[pss]\NP 	 1 	 unit headed <XU>
+2 	 25 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 renamed be
+7 	 4 	 (S[pss]\NP)/NP 	 2 	 Academy renamed
+7 	 5 	 N/N 	 1 	 Academy Comair
+7 	 6 	 N/N 	 1 	 Academy Aviation
+9 	 25 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue will
+11 	 10 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to continue
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+13 	 12 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 headed be
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 headed by
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 Williams by
+16 	 15 	 N/N 	 1 	 Williams Scott
+19 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 son by
+19 	 18 	 NP[nb]/N 	 1 	 son a
+19 	 20 	 (NP\NP)/NP 	 1 	 son of
+22 	 20 	 (NP\NP)/NP 	 2 	 founder of
+22 	 21 	 NP[nb]/N 	 1 	 founder its
+24 	 25 	 (S[dcl]\S[dcl])\NP 	 2 	 Comair said
+<\s>

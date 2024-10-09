@@ -1,0 +1,96 @@
+<s id="wsj_1832.1"> 23
+2 	 0 	 N/N 	 1 	 Corp. International
+2 	 1 	 N/N 	 1 	 Corp. Proteins
+2 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Corp. agreed
+2 	 6 	 (S[b]\NP)/NP 	 1 	 Corp. pay <XB>
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 agreed definitively
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+6 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 pay for
+7 	 6 	 (S[b]\NP)/NP 	 2 	 $ pay
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 49
+11 	 6 	 (S[b]\NP)/NP 	 2 	 2,850,000 pay
+11 	 12 	 (NP\NP)/NP 	 1 	 2,850,000 of
+14 	 12 	 (NP\NP)/NP 	 2 	 shares of
+14 	 13 	 NP[nb]/N 	 1 	 shares its
+17 	 16 	 N/N 	 1 	 PLC Hanson
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 PLC 's
+22 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 subsidiary for
+22 	 18 	 (NP[nb]/N)\NP 	 1 	 subsidiary 's
+22 	 19 	 N/N 	 1 	 subsidiary Ground
+22 	 20 	 N/N 	 1 	 subsidiary Round
+22 	 21 	 N/N 	 1 	 subsidiary restaurant
+<\s>
+<s id="wsj_1832.2"> 22
+0 	 1 	 (NP\NP)/NP 	 1 	 Shareholders of
+0 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Shareholders will
+0 	 12 	 (S[b]\NP)/PP 	 1 	 Shareholders vote <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 Proteins of
+3 	 2 	 N/N 	 1 	 Proteins International
+9 	 1 	 (NP\NP)/NP 	 2 	 company of
+9 	 5 	 NP[nb]/N 	 1 	 company a
+9 	 6 	 N/N 	 1 	 company food
+9 	 8 	 N/N 	 1 	 company agriproducts
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 vote will
+12 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 vote at
+12 	 21 	 (S\NP)\(S\NP) 	 2 	 vote month
+13 	 12 	 (S[b]\NP)/PP 	 2 	 on vote
+15 	 13 	 PP/NP 	 1 	 transaction on
+15 	 14 	 NP[nb]/N 	 1 	 transaction the
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 meeting at
+18 	 17 	 NP[nb]/N 	 1 	 meeting a
+21 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month late
+21 	 20 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month next
+<\s>
+<s id="wsj_1832.3"> 10
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Hanson is
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 producer is
+4 	 2 	 NP[nb]/N 	 1 	 producer a
+4 	 3 	 N/N 	 1 	 producer London
+4 	 5 	 (NP\NP)/NP 	 1 	 producer of
+9 	 5 	 (NP\NP)/NP 	 2 	 goods of
+9 	 6 	 N/N 	 1 	 goods consumer <XU>
+9 	 8 	 N/N 	 1 	 goods other
+<\s>
+<s id="wsj_1832.4"> 12
+2 	 0 	 N/N 	 1 	 shares International
+2 	 1 	 N/N 	 1 	 shares Proteins
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 shares did
+2 	 5 	 S[b]\NP 	 1 	 shares trade <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 did n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 trade did
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 trade yesterday
+5 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 trade on
+11 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Exchange on
+11 	 8 	 NP[nb]/N 	 1 	 Exchange the
+11 	 9 	 N/N 	 1 	 Exchange American
+11 	 10 	 N/N 	 1 	 Exchange Stock
+<\s>
+<s id="wsj_1832.5"> 28
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 They closed
+0 	 14 	 ((S[ng]\NP)/NP)/NP 	 1 	 They giving <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 closed Tuesday
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 closed in
+1 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+5 	 4 	 N/N 	 1 	 trading composite
+6 	 1 	 (S[dcl]\NP)/PP 	 2 	 at closed
+7 	 6 	 PP/NP 	 1 	 $ at
+8 	 7 	 N/N[num] 	 1 	 13.625 $
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 cents down
+12 	 11 	 N/N 	 1 	 cents 37.5
+17 	 14 	 ((S[ng]\NP)/NP)/NP 	 3 	 portion giving
+17 	 15 	 NP[nb]/N 	 1 	 portion the
+17 	 16 	 N/N 	 1 	 portion stock
+17 	 18 	 (NP\NP)/NP 	 1 	 portion of
+20 	 18 	 (NP\NP)/NP 	 2 	 transaction of
+20 	 19 	 NP[nb]/N 	 1 	 transaction the
+23 	 14 	 ((S[ng]\NP)/NP)/NP 	 2 	 value giving
+23 	 21 	 NP[nb]/N 	 1 	 value an
+23 	 22 	 N/N 	 1 	 value indicated
+23 	 24 	 (NP\NP)/NP 	 1 	 value of
+25 	 24 	 (NP\NP)/NP 	 2 	 $ of
+27 	 25 	 N/N[num] 	 1 	 million $
+27 	 26 	 N/N 	 1 	 million 38.8
+<\s>

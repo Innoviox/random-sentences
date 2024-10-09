@@ -1,0 +1,257 @@
+<s id="wsj_1255.1"> 25
+1 	 0 	 NP[nb]/N 	 1 	 Food The
+1 	 5 	 (S[dcl]\NP)/NP 	 1 	 Food banned
+4 	 0 	 NP[nb]/N 	 1 	 Administration The
+4 	 3 	 N/N 	 1 	 Administration Drug
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Administration banned
+5 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 banned in
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 imports banned
+7 	 6 	 NP[nb]/N 	 1 	 imports all
+7 	 8 	 (NP\NP)/NP 	 1 	 imports of
+7 	 10 	 (NP\NP)/NP 	 1 	 imports from
+9 	 8 	 (NP\NP)/NP 	 2 	 mushrooms of
+11 	 10 	 (NP\NP)/NP 	 2 	 China from
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 response in
+13 	 14 	 (NP\NP)/NP 	 1 	 response to
+16 	 14 	 (NP\NP)/NP 	 2 	 rash to
+16 	 15 	 NP[nb]/N 	 1 	 rash a
+16 	 17 	 (NP\NP)/NP 	 1 	 rash of
+19 	 17 	 (NP\NP)/NP 	 2 	 outbreaks of
+19 	 18 	 N/N 	 1 	 outbreaks food-poisoning
+19 	 20 	 (S[pss]\NP)/PP 	 1 	 outbreaks linked <XB>
+21 	 20 	 (S[pss]\NP)/PP 	 2 	 to linked
+24 	 21 	 PP/NP 	 1 	 mushrooms to
+24 	 22 	 N/N 	 1 	 mushrooms canned
+24 	 23 	 N/N 	 1 	 mushrooms Chinese
+<\s>
+<s id="wsj_1255.2"> 21
+1 	 0 	 NP[nb]/N 	 1 	 agency The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 agency has
+1 	 3 	 (S[pt]\NP)/S[em] 	 1 	 agency concluded <XB>
+2 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 has said
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 concluded has
+4 	 3 	 (S[pt]\NP)/S[em] 	 2 	 that concluded
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 contamination may
+5 	 8 	 S[adj]\NP 	 1 	 contamination widespread <XB>
+6 	 4 	 S[em]/S[dcl] 	 1 	 may that
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+7 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 be throughout
+8 	 7 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 widespread be
+12 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 industry throughout
+12 	 10 	 NP[nb]/N 	 1 	 industry the
+12 	 11 	 N/N 	 1 	 industry mushroom-processing
+12 	 13 	 (NP\NP)/NP 	 1 	 industry in
+14 	 13 	 (NP\NP)/NP 	 2 	 China in
+18 	 16 	 NP[nb]/N 	 1 	 spokesman an
+18 	 17 	 N/N 	 1 	 spokesman FDA
+18 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 spokesman said
+19 	 20 	 S\S 	 1 	 said yesterday
+<\s>
+<s id="wsj_1255.3"> 33
+1 	 0 	 NP[nb]/N 	 1 	 agency The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 agency wo
+1 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 agency allow <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 wo n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 allow wo
+5 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 mushrooms allow
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 mushrooms that
+5 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 mushrooms were <XB>
+5 	 8 	 S[pss]\NP 	 1 	 mushrooms canned <XB>
+5 	 10 	 S[pss]\NP 	 1 	 mushrooms packed <XU>
+5 	 18 	 (S[b]\NP)/NP 	 1 	 mushrooms enter <XB>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 were that
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 canned were
+8 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 canned at
+10 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 packed were
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 packed in
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 packed at
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 brine in
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 plant at
+16 	 14 	 NP[nb]/N 	 1 	 plant any
+16 	 15 	 N/N 	 1 	 plant Chinese
+17 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 enter to
+18 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 enter until
+20 	 18 	 (S[b]\NP)/NP 	 2 	 U.S. enter
+20 	 19 	 NP[nb]/N 	 1 	 U.S. the
+24 	 22 	 N/N 	 1 	 measures satisfactory
+24 	 23 	 N/N 	 1 	 measures sanitation-control
+24 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 measures are
+24 	 26 	 S[pss]\NP 	 1 	 measures implemented <XB>
+24 	 30 	 (S[b]\NP)/NP 	 1 	 measures prevent <XB>
+25 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are until
+26 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 implemented are
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 implemented in
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 China in
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 prevent to
+32 	 30 	 (S[b]\NP)/NP 	 2 	 contamination prevent
+32 	 31 	 N/N 	 1 	 contamination bacterial
+<\s>
+<s id="wsj_1255.4"> 31
+1 	 0 	 (S/S)/NP 	 2 	 May On
+2 	 1 	 N/N[num] 	 1 	 19 May
+5 	 4 	 NP[nb]/N 	 1 	 FDA the
+5 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 FDA began
+5 	 7 	 (S[ng]\NP)/NP 	 1 	 FDA detaining <XB>
+6 	 0 	 (S/S)/NP 	 1 	 began On
+6 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 began after
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 detaining began
+9 	 7 	 (S[ng]\NP)/NP 	 2 	 mushrooms detaining
+9 	 8 	 N/N 	 1 	 mushrooms Chinese
+9 	 10 	 (NP\NP)/NP 	 1 	 mushrooms in
+12 	 10 	 (NP\NP)/NP 	 2 	 cans in
+12 	 11 	 N/N 	 1 	 cans 68-ounce
+14 	 15 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+16 	 15 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 100 than
+17 	 16 	 N/N 	 1 	 people 100
+17 	 18 	 (NP\NP)/NP 	 1 	 people in
+17 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 people became
+17 	 26 	 S[adj]\NP 	 1 	 people ill <XB>
+17 	 28 	 (S[ng]\NP)/NP 	 1 	 people eating <XB>
+19 	 18 	 (NP\NP)/NP 	 2 	 Mississippi in
+22 	 18 	 (NP\NP)/NP 	 2 	 York in
+22 	 21 	 N/N 	 1 	 York New
+24 	 18 	 (NP\NP)/NP 	 2 	 Pennsylvania in
+25 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 became after
+25 	 27 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 became from
+26 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 ill became
+28 	 27 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 eating from
+30 	 28 	 (S[ng]\NP)/NP 	 2 	 mushrooms eating
+30 	 29 	 N/N 	 1 	 mushrooms tainted
+<\s>
+<s id="wsj_1255.5"> 17
+2 	 0 	 (S/S)/NP 	 2 	 tests In
+2 	 1 	 N/N 	 1 	 tests subsequent
+5 	 4 	 NP[nb]/N 	 1 	 agency the
+5 	 6 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 agency found
+6 	 0 	 (S/S)/NP 	 1 	 found In
+8 	 6 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 cans found
+8 	 7 	 N/N 	 1 	 cans smaller-size
+8 	 9 	 (NP\NP)/NP 	 1 	 cans from
+8 	 16 	 S[pss]\NP 	 1 	 cans contaminated <XB>
+12 	 9 	 (NP\NP)/NP 	 2 	 plants from
+12 	 10 	 N/N 	 1 	 plants several
+12 	 11 	 N/N 	 1 	 plants Chinese
+13 	 6 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to found
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+16 	 14 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 contaminated be
+16 	 15 	 (S\NP)/(S\NP) 	 2 	 contaminated similarly
+<\s>
+<s id="wsj_1255.6"> 26
+1 	 0 	 NP[nb]/N 	 1 	 outbreaks The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 outbreaks were
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 outbreaks traced <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 traced were
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 to traced
+6 	 4 	 PP/NP 	 1 	 aureus to
+6 	 5 	 N/N 	 1 	 aureus staphylococcus
+9 	 4 	 PP/NP 	 1 	 type to
+9 	 8 	 NP[nb]/N 	 1 	 type a
+9 	 10 	 (NP\NP)/NP 	 1 	 type of
+9 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 type that
+9 	 13 	 (S[dcl]\NP)/NP 	 1 	 type produces <XB>
+11 	 10 	 (NP\NP)/NP 	 2 	 bacteria of
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 produces that
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 toxin produces
+15 	 14 	 NP[nb]/N 	 1 	 toxin a
+15 	 16 	 S[adj]\NP 	 1 	 toxin capable <XB>
+16 	 17 	 ((S[adj]\NP)\(S[adj]\NP))/(S[ng]\NP) 	 2 	 capable of
+18 	 17 	 ((S[adj]\NP)\(S[adj]\NP))/(S[ng]\NP) 	 3 	 surviving of
+21 	 18 	 (S[ng]\NP)/NP 	 2 	 temperatures surviving
+21 	 19 	 NP[nb]/N 	 1 	 temperatures the
+21 	 20 	 N/N 	 1 	 temperatures high
+21 	 22 	 S[pss]\NP 	 1 	 temperatures used <XB>
+21 	 24 	 (S[ng]\NP)/NP 	 1 	 temperatures canning <XB>
+22 	 23 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 used in
+24 	 23 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 canning in
+25 	 24 	 (S[ng]\NP)/NP 	 2 	 vegetables canning
+<\s>
+<s id="wsj_1255.7"> 14
+1 	 0 	 NP[nb]/N 	 1 	 recall A
+1 	 2 	 (NP\NP)/NP 	 1 	 recall of
+1 	 10 	 S[dcl]\NP 	 1 	 recall began
+4 	 2 	 (NP\NP)/NP 	 2 	 mushrooms of
+4 	 3 	 NP[nb]/N 	 1 	 mushrooms the
+4 	 5 	 (S[pss]\NP)/PP 	 1 	 mushrooms blamed <XB>
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 for blamed
+9 	 6 	 PP/NP 	 1 	 poisoning for
+9 	 7 	 NP[nb]/N 	 1 	 poisoning the
+9 	 8 	 N/N 	 1 	 poisoning food
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 began in
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 March in
+13 	 12 	 N/N 	 1 	 March early
+<\s>
+<s id="wsj_1255.8"> 20
+1 	 0 	 (S/S)/NP 	 2 	 1987 In
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 China exported
+4 	 0 	 (S/S)/NP 	 1 	 exported In
+4 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 exported to
+6 	 5 	 (N/N)/(N/N) 	 2 	 million 65
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 pounds exported
+7 	 6 	 N/N 	 1 	 pounds million
+7 	 8 	 (NP\NP)/NP 	 1 	 pounds of
+7 	 11 	 (S[pss]\NP)/PP 	 1 	 pounds valued <XB>
+9 	 8 	 (NP\NP)/NP 	 2 	 mushrooms of
+12 	 11 	 (S[pss]\NP)/PP 	 2 	 at valued
+13 	 12 	 PP/NP 	 1 	 $ at
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 47
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. to
+19 	 18 	 NP[nb]/N 	 1 	 U.S. the
+<\s>
+<s id="wsj_1255.9"> 12
+1 	 0 	 NP[nb]/N 	 1 	 shipments The
+1 	 2 	 S[dcl]\NP 	 1 	 shipments went
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 went to
+4 	 3 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 to mostly
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 distributors to
+6 	 5 	 N/N 	 1 	 distributors food-service
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 distributors that
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 distributors supply <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 supply that
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 pizzerias supply
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 restaurants supply
+<\s>
+<s id="wsj_1255.10"> 29
+1 	 0 	 NP[nb]/N 	 1 	 spokesman A
+1 	 2 	 (NP\NP)/NP 	 1 	 spokesman for
+1 	 7 	 (S[dcl]\NP)/S[em] 	 1 	 spokesman said
+5 	 2 	 (NP\NP)/NP 	 2 	 Embassy for
+5 	 3 	 NP[nb]/N 	 1 	 Embassy the
+5 	 4 	 N/N 	 1 	 Embassy Chinese
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 said here
+8 	 7 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+11 	 9 	 NP[nb]/N 	 1 	 government the
+11 	 10 	 N/N 	 1 	 government Beijing
+11 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 government has
+11 	 13 	 (S[pt]\NP)/NP 	 1 	 government taken <XB>
+11 	 23 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 government is <XU>
+11 	 25 	 (S[ng]\NP)/NP 	 1 	 government investigating <XU>
+12 	 8 	 S[em]/S[dcl] 	 1 	 has that
+13 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 taken has
+16 	 13 	 (S[pt]\NP)/NP 	 2 	 measures taken
+16 	 14 	 N/N 	 1 	 measures many
+16 	 15 	 N/N 	 1 	 measures effective
+16 	 18 	 (S[b]\NP)/NP 	 1 	 measures stop <XB>
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stop to
+21 	 18 	 (S[b]\NP)/NP 	 2 	 contamination stop
+21 	 19 	 NP[nb]/N 	 1 	 contamination the
+21 	 20 	 N/N 	 1 	 contamination mushroom
+23 	 8 	 S[em]/S[dcl] 	 1 	 is that
+25 	 23 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 investigating is
+25 	 24 	 (S\NP)/(S\NP) 	 2 	 investigating further
+28 	 25 	 (S[ng]\NP)/NP 	 2 	 causes investigating
+28 	 26 	 NP[nb]/N 	 1 	 causes the
+28 	 27 	 N/N 	 1 	 causes underlying
+<\s>
+<s id="wsj_1255.11"> 9
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He predicted
+3 	 2 	 NP[nb]/N 	 1 	 problem the
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 problem will
+3 	 6 	 S[pss]\NP 	 1 	 problem solved <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 will predicted
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+6 	 5 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 solved be
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 solved soon
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 soon very
+<\s>

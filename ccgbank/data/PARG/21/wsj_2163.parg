@@ -1,0 +1,641 @@
+<s id="wsj_2163.1"> 34
+2 	 0 	 N/N 	 1 	 Corp. K
+2 	 1 	 N/N 	 1 	 Corp. mart
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Corp. agreed
+2 	 5 	 ((S[b]\NP)/PP)/NP 	 1 	 Corp. acquire <XB>
+3 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 agreed in
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+9 	 5 	 ((S[b]\NP)/PP)/NP 	 3 	 Inc. acquire
+9 	 6 	 N/N 	 1 	 Inc. Pace
+9 	 7 	 N/N 	 1 	 Inc. Membership
+9 	 8 	 N/N 	 1 	 Inc. Warehouse
+10 	 5 	 ((S[b]\NP)/PP)/NP 	 2 	 for acquire
+11 	 10 	 PP/NP 	 1 	 $ for
+11 	 13 	 (NP\NP)/N 	 1 	 $ a
+12 	 11 	 N/N[num] 	 1 	 23 $
+14 	 13 	 (NP\NP)/N 	 2 	 share a
+17 	 10 	 PP/NP 	 1 	 $ for
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 322
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 move in
+23 	 22 	 NP[nb]/N 	 1 	 move a
+23 	 25 	 (S[b]\NP)/NP 	 1 	 move expand <XB>
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 expand to
+27 	 25 	 (S[b]\NP)/NP 	 2 	 presence expand
+27 	 26 	 NP[nb]/N 	 1 	 presence its
+27 	 28 	 (NP\NP)/NP 	 1 	 presence in
+31 	 30 	 (N/N)/(N/N) 	 2 	 growing rapidly
+33 	 28 	 (NP\NP)/NP 	 2 	 business in
+33 	 29 	 NP[nb]/N 	 1 	 business the
+33 	 31 	 N/N 	 1 	 business growing
+33 	 32 	 N/N 	 1 	 business warehouse-club
+<\s>
+<s id="wsj_2163.2"> 30
+2 	 0 	 NP[nb]/N 	 1 	 merger The
+2 	 1 	 N/N 	 1 	 merger proposed
+2 	 3 	 S[dcl]\NP 	 1 	 merger comes
+3 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 comes as
+6 	 5 	 N/N 	 1 	 mart K
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 mart 's
+8 	 7 	 (NP[nb]/N)\NP 	 1 	 profit 's
+8 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 profit is
+8 	 10 	 S[ng]\NP 	 1 	 profit declining <XB>
+9 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is as
+10 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 declining is
+12 	 13 	 (NP\NP)/NP 	 1 	 sales at
+12 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 sales are
+12 	 19 	 S[ng]\NP 	 1 	 sales rising <XB>
+17 	 13 	 (NP\NP)/NP 	 2 	 stores at
+17 	 14 	 NP[nb]/N 	 1 	 stores its
+17 	 15 	 N/N 	 1 	 stores core
+17 	 16 	 N/N 	 1 	 stores discount
+18 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are as
+19 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 rising are
+19 	 21 	 (S\NP)\(S\NP) 	 2 	 rising slowly
+21 	 20 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 slowly more
+21 	 22 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/PP 	 3 	 slowly than
+23 	 22 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/PP 	 4 	 at than
+25 	 23 	 PP/NP 	 1 	 competitors at
+25 	 24 	 NP/NP 	 1 	 competitors such
+25 	 26 	 (NP\NP)/NP 	 1 	 competitors as
+29 	 26 	 (NP\NP)/NP 	 2 	 Inc as
+29 	 27 	 N/N 	 1 	 Inc Wal-Mart
+29 	 28 	 N/N 	 1 	 Inc Stores
+<\s>
+<s id="wsj_2163.3"> 35
+1 	 0 	 N/N 	 1 	 mart K
+1 	 3 	 S[pss]\NP 	 1 	 mart based <XB>
+1 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 mart said
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Troy in
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Mich. in
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 said recently
+12 	 11 	 N/N 	 1 	 income net
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 income would
+12 	 14 	 S[b]\NP 	 1 	 income fall <XB>
+13 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 fall would
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 fall for
+14 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 fall after
+19 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter for
+19 	 16 	 NP[nb]/N 	 1 	 quarter the
+19 	 17 	 N/N 	 1 	 quarter third
+19 	 18 	 N/N 	 1 	 quarter consecutive
+24 	 23 	 (N/N)/(N/N) 	 2 	 % 16
+25 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 drop after
+25 	 22 	 NP[nb]/N 	 1 	 drop a
+25 	 24 	 N/N 	 1 	 drop %
+25 	 26 	 (NP\NP)/NP 	 1 	 drop in
+29 	 26 	 (NP\NP)/NP 	 2 	 half in
+29 	 27 	 NP[nb]/N 	 1 	 half the
+29 	 28 	 N/N 	 1 	 half first
+29 	 30 	 (NP\NP)/NP 	 1 	 half of
+34 	 30 	 (NP\NP)/NP 	 2 	 year of
+34 	 31 	 NP[nb]/N 	 1 	 year its
+34 	 32 	 N/N 	 1 	 year current
+34 	 33 	 N/N 	 1 	 year fiscal
+<\s>
+<s id="wsj_2163.4"> 21
+3 	 0 	 NP[nb]/N 	 1 	 concept The
+3 	 1 	 N/N 	 1 	 concept membership
+3 	 2 	 N/N 	 1 	 concept warehouse-club
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 concept has
+3 	 6 	 S[adj]\NP 	 1 	 concept potential <XB>
+4 	 17 	 (S[dcl]\S[dcl])\NP 	 1 	 has said
+6 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 potential has
+6 	 5 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 potential great
+9 	 8 	 NP[nb]/N 	 1 	 company the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 company 's
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 chairman 's
+11 	 17 	 (S[dcl]\S[dcl])\NP 	 2 	 chairman said
+15 	 13 	 N/N 	 1 	 Antonini Joseph
+15 	 14 	 N/N 	 1 	 Antonini E.
+15 	 17 	 (S[dcl]\S[dcl])\NP 	 2 	 Antonini said
+17 	 18 	 (S\S)/NP 	 1 	 said in
+20 	 18 	 (S\S)/NP 	 2 	 statement in
+20 	 19 	 NP[nb]/N 	 1 	 statement a
+<\s>
+<s id="wsj_2163.5"> 21
+1 	 0 	 N/N 	 1 	 clubs Warehouse
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 clubs carry
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 carry typically
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 merchandise carry
+5 	 4 	 N/N 	 1 	 merchandise general
+5 	 10 	 (NP\NP)/S[dcl] 	 1 	 merchandise which
+8 	 3 	 (S[dcl]\NP)/NP 	 2 	 products carry
+8 	 7 	 N/N 	 1 	 products food
+8 	 10 	 (NP\NP)/S[dcl] 	 1 	 products which
+11 	 12 	 (S[dcl]\NP)/PP 	 1 	 they sell
+12 	 10 	 (NP\NP)/S[dcl] 	 2 	 sell which
+12 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 sell in
+13 	 12 	 (S[dcl]\NP)/PP 	 2 	 for sell
+17 	 13 	 PP/NP 	 1 	 prices for
+17 	 14 	 N/N 	 1 	 prices close
+17 	 15 	 N/N 	 1 	 prices to
+17 	 16 	 N/N 	 1 	 prices wholesale
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 stores in
+20 	 19 	 N/N 	 1 	 stores no-frills
+<\s>
+<s id="wsj_2163.6"> 22
+0 	 9 	 (S[dcl]\NP)/NP 	 1 	 Shoppers pay
+2 	 4 	 (NP\NP)\((NP\NP)/NP) 	 1 	 many whom
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 many operate
+3 	 4 	 (NP\NP)\((NP\NP)/NP) 	 2 	 of whom
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 businesses operate
+7 	 6 	 N/N 	 1 	 businesses small
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 fees pay
+12 	 10 	 N/N 	 1 	 fees annual
+12 	 11 	 N/N 	 1 	 fees membership
+12 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 fees which
+12 	 15 	 ((S[dcl]\NP)/PP)/NP 	 1 	 fees provide <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 provide which
+18 	 15 	 ((S[dcl]\NP)/PP)/NP 	 3 	 base provide
+18 	 16 	 NP[nb]/N 	 1 	 base an
+18 	 17 	 N/N 	 1 	 base income
+19 	 15 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for provide
+21 	 19 	 PP/NP 	 1 	 stores for
+21 	 20 	 NP[nb]/N 	 1 	 stores the
+<\s>
+<s id="wsj_2163.7"> 19
+1 	 0 	 N/N 	 1 	 mart K
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 mart tested
+2 	 7 	 (S\NP)\(S\NP) 	 2 	 tested year
+2 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 tested with
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 sector tested
+5 	 3 	 NP[nb]/N 	 1 	 sector the
+5 	 4 	 N/N 	 1 	 sector warehouse-club
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year last
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 acquisition with
+10 	 9 	 NP[nb]/N 	 1 	 acquisition its
+10 	 11 	 (NP\NP)/NP 	 1 	 acquisition of
+14 	 13 	 (N/N)/(N/N) 	 2 	 % 51
+15 	 11 	 (NP\NP)/NP 	 2 	 interest of
+15 	 12 	 NP[nb]/N 	 1 	 interest a
+15 	 14 	 N/N 	 1 	 interest %
+15 	 16 	 (NP\NP)/NP 	 1 	 interest in
+18 	 16 	 (NP\NP)/NP 	 2 	 Inc in
+18 	 17 	 N/N 	 1 	 Inc Makro
+<\s>
+<s id="wsj_2163.8"> 38
+3 	 1 	 NP[nb]/N 	 1 	 chain the
+3 	 2 	 N/N 	 1 	 chain Makro
+3 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 chain which
+3 	 6 	 (S[dcl]\NP)/PP 	 1 	 chain operates <XB>
+3 	 22 	 (S[dcl]\NP)/NP 	 1 	 chain has
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 operates which
+7 	 6 	 (S[dcl]\NP)/PP 	 2 	 as operates
+10 	 7 	 PP/NP 	 1 	 venture as
+10 	 8 	 NP[nb]/N 	 1 	 venture a
+10 	 9 	 N/N 	 1 	 venture joint
+10 	 11 	 (NP\NP)/NP 	 1 	 venture between
+13 	 11 	 (NP\NP)/NP 	 2 	 mart between
+13 	 12 	 N/N 	 1 	 mart K
+17 	 11 	 (NP\NP)/NP 	 2 	 N.V. between
+17 	 15 	 N/N 	 1 	 N.V. SHV
+17 	 16 	 N/N 	 1 	 N.V. Holdings
+17 	 18 	 (NP\NP)/NP 	 1 	 N.V. of
+20 	 18 	 (NP\NP)/NP 	 2 	 Netherlands of
+20 	 19 	 NP[nb]/N 	 1 	 Netherlands the
+22 	 0 	 S/S 	 1 	 has But
+24 	 23 	 (N/N)/(N/N) 	 2 	 six only
+25 	 22 	 (S[dcl]\NP)/NP 	 2 	 stores has
+25 	 24 	 N/N 	 1 	 stores six
+28 	 22 	 (S[dcl]\NP)/NP 	 2 	 sales has
+28 	 27 	 N/N 	 1 	 sales annual
+28 	 29 	 (NP\NP)/(S[dcl]/NP) 	 1 	 sales that
+28 	 32 	 ((S[dcl]\NP)/PP)/NP 	 3 	 sales estimated <XU>
+31 	 30 	 N/N 	 1 	 analyst one
+31 	 32 	 ((S[dcl]\NP)/PP)/NP 	 1 	 analyst estimated
+32 	 29 	 (NP\NP)/(S[dcl]/NP) 	 2 	 estimated that
+33 	 32 	 ((S[dcl]\NP)/PP)/NP 	 2 	 at estimated
+35 	 33 	 PP/NP 	 1 	 $ at
+35 	 34 	 N/N 	 1 	 $ about
+37 	 35 	 N/N[num] 	 1 	 million $
+37 	 36 	 N/N 	 1 	 million 300
+<\s>
+<s id="wsj_2163.9"> 13
+1 	 0 	 N/N 	 1 	 Pace Six-year-old
+1 	 3 	 S[pss]\NP 	 1 	 Pace based <XB>
+1 	 9 	 (S[dcl]\NP)/NP 	 1 	 Pace operates
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Aurora in
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Colo. in
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 stores operates
+12 	 10 	 N/N 	 1 	 stores 41
+12 	 11 	 N/N 	 1 	 stores warehouse-club
+<\s>
+<s id="wsj_2163.10"> 13
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 company had
+1 	 8 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 company turning <XB>
+1 	 9 	 S[adj]\NP 	 1 	 company profitable <XB>
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 had for
+2 	 7 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 had before
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 losses had
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+6 	 5 	 N/N 	 1 	 years several
+8 	 7 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 turning before
+8 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 turning in
+9 	 8 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 profitable turning
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 1988 in
+12 	 11 	 N/N 	 1 	 1988 fiscal
+<\s>
+<s id="wsj_2163.11"> 43
+2 	 0 	 (S/S)/NP 	 2 	 year In
+2 	 1 	 NP[nb]/N 	 1 	 year the
+2 	 3 	 S[pss]\NP 	 1 	 year ended <XB>
+3 	 4 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended Jan.
+5 	 4 	 ((S\NP)\(S\NP))/N[num] 	 3 	 31 Jan.
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 Pace rang
+8 	 0 	 (S/S)/NP 	 1 	 rang In
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 rang up
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 profit rang
+10 	 11 	 (NP\NP)/NP 	 1 	 profit of
+12 	 11 	 (NP\NP)/NP 	 2 	 $ of
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 9.4
+18 	 11 	 (NP\NP)/NP 	 2 	 cents of
+18 	 17 	 N/N 	 1 	 cents 72
+18 	 19 	 (NP\NP)/N 	 1 	 cents a
+18 	 22 	 (NP\NP)/NP 	 1 	 cents after
+18 	 27 	 (NP\NP)/NP 	 1 	 cents on
+20 	 19 	 (NP\NP)/N 	 2 	 share a
+25 	 22 	 (NP\NP)/NP 	 2 	 carry-forward after
+25 	 23 	 NP[nb]/N 	 1 	 carry-forward a
+25 	 24 	 N/N 	 1 	 carry-forward tax-loss
+28 	 27 	 (NP\NP)/NP 	 2 	 sales on
+28 	 29 	 (NP\NP)/NP 	 1 	 sales of
+30 	 29 	 (NP\NP)/NP 	 2 	 $ of
+32 	 30 	 N/N[num] 	 1 	 billion $
+32 	 31 	 N/N 	 1 	 billion 1.3
+35 	 36 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 analysts expect
+38 	 36 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 results expect
+38 	 37 	 NP[nb]/N 	 1 	 results its
+38 	 40 	 (S[b]\NP)/(S[to]\NP) 	 1 	 results continue <XB>
+38 	 42 	 S[b]\NP 	 1 	 results improve <XB>
+39 	 36 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+40 	 39 	 (S[to]\NP)/(S[b]\NP) 	 2 	 continue to
+41 	 40 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to continue
+42 	 41 	 (S[to]\NP)/(S[b]\NP) 	 2 	 improve to
+<\s>
+<s id="wsj_2163.12"> 41
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 company turned
+2 	 6 	 (S\NP)\(S\NP) 	 2 	 turned recently
+2 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 turned in
+2 	 10 	 (S[dcl]\S[dcl])/NP 	 1 	 turned said
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 corner turned
+4 	 3 	 NP[nb]/N 	 1 	 corner the
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 recently fairly
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 profitability in
+12 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 McGlade said
+12 	 11 	 N/N 	 1 	 McGlade Margo
+12 	 13 	 (NP\NP)/NP 	 1 	 McGlade of
+12 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 McGlade who
+12 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 McGlade had <XB>
+12 	 20 	 (S[ng]\NP)/NP 	 1 	 McGlade forecasting <XB>
+15 	 13 	 (NP\NP)/NP 	 2 	 Inc. of
+15 	 14 	 N/N 	 1 	 Inc. PaineWebber
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had who
+19 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+20 	 19 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 forecasting been
+23 	 22 	 (N/N)/(N/N) 	 2 	 % 46
+24 	 20 	 (S[ng]\NP)/NP 	 2 	 jump forecasting
+24 	 21 	 NP[nb]/N 	 1 	 jump a
+24 	 23 	 N/N 	 1 	 jump %
+24 	 25 	 (NP\NP)/NP 	 1 	 jump in
+24 	 30 	 (NP\NP)/NP 	 1 	 jump from
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 Pace 's
+29 	 25 	 (NP\NP)/NP 	 2 	 income in
+29 	 27 	 (NP[nb]/N)\NP 	 1 	 income 's
+29 	 28 	 N/N 	 1 	 income net
+31 	 30 	 (NP\NP)/NP 	 2 	 operations from
+31 	 32 	 (NP\NP)/N 	 1 	 operations this
+33 	 32 	 (NP\NP)/N 	 2 	 year this
+37 	 36 	 (N/N)/(N/N) 	 2 	 % 42
+38 	 20 	 (S[ng]\NP)/NP 	 2 	 increase forecasting
+38 	 35 	 NP[nb]/N 	 1 	 increase another
+38 	 37 	 N/N 	 1 	 increase %
+38 	 40 	 NP\NP 	 1 	 increase year
+40 	 39 	 (NP\NP)/(NP\NP) 	 2 	 year next
+<\s>
+<s id="wsj_2163.13"> 8
+1 	 0 	 N/N 	 1 	 productivity Warehouse
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 productivity is
+1 	 4 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 productivity beginning <XB>
+1 	 6 	 S[b]\NP 	 1 	 productivity take <XB>
+4 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 beginning is
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 beginning really
+5 	 4 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to beginning
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 take to
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 take off
+<\s>
+<s id="wsj_2163.14"> 14
+2 	 1 	 NP[nb]/N 	 1 	 analysts some
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 analysts contend
+3 	 0 	 S/S 	 1 	 contend But
+5 	 4 	 N/N 	 1 	 mart K
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 mart has
+5 	 7 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 mart agreed <XB>
+5 	 9 	 ((S[b]\NP)/PP)/NP 	 1 	 mart pay <XB>
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 has contend
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 agreed has
+8 	 7 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to agreed
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+11 	 9 	 ((S[b]\NP)/PP)/NP 	 3 	 much pay
+11 	 10 	 N/N 	 1 	 much too
+12 	 9 	 ((S[b]\NP)/PP)/NP 	 2 	 for pay
+13 	 12 	 PP/NP 	 1 	 Pace for
+<\s>
+<s id="wsj_2163.15"> 22
+1 	 0 	 (S/S)/(S/S) 	 2 	 if Even
+2 	 3 	 ((S[dcl]\NP)/PP)/PP 	 1 	 you look
+3 	 1 	 (S/S)/S[dcl] 	 2 	 look if
+4 	 3 	 ((S[dcl]\NP)/PP)/PP 	 3 	 at look
+5 	 4 	 PP/NP 	 1 	 it at
+6 	 3 	 ((S[dcl]\NP)/PP)/PP 	 2 	 as look
+9 	 6 	 PP/NP 	 1 	 situation as
+9 	 7 	 NP[nb]/N 	 1 	 situation a
+9 	 8 	 N/N 	 1 	 situation turnaround
+11 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it 's
+11 	 13 	 S[adj]\NP 	 1 	 it expensive <XB>
+12 	 1 	 (S/S)/S[dcl] 	 1 	 's if
+12 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 's said
+13 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 expensive 's
+17 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 Hood said
+17 	 16 	 N/N 	 1 	 Hood Wayne
+17 	 18 	 (NP\NP)/NP 	 1 	 Hood of
+21 	 18 	 (NP\NP)/NP 	 2 	 Inc of
+21 	 19 	 N/N 	 1 	 Inc Prudential-Bache
+21 	 20 	 N/N 	 1 	 Inc Securities
+<\s>
+<s id="wsj_2163.16"> 22
+2 	 0 	 (S/S)/NP 	 2 	 opinion In
+2 	 1 	 NP[nb]/N 	 1 	 opinion my
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you would
+4 	 7 	 (S[b]\NP)/NP 	 1 	 you pay <XB>
+5 	 0 	 (S/S)/NP 	 1 	 would In
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 would only
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 pay would
+7 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 pay if
+9 	 7 	 (S[b]\NP)/NP 	 2 	 kind pay
+9 	 8 	 NP[nb]/N 	 1 	 kind that
+9 	 10 	 (NP\NP)/NP 	 1 	 kind of
+11 	 10 	 (NP\NP)/NP 	 2 	 price of
+13 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 you were
+13 	 15 	 (S[ng]\NP)/NP 	 1 	 you getting <XB>
+14 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 were if
+15 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 getting were
+18 	 15 	 (S[ng]\NP)/NP 	 2 	 player getting
+18 	 16 	 NP[nb]/N 	 1 	 player a
+18 	 17 	 N/N 	 1 	 player premier
+18 	 19 	 (NP\NP)/NP 	 1 	 player in
+21 	 19 	 (NP\NP)/NP 	 2 	 industry in
+21 	 20 	 NP[nb]/N 	 1 	 industry the
+<\s>
+<s id="wsj_2163.17"> 12
+1 	 0 	 N/N 	 1 	 McGlade Ms.
+1 	 2 	 (NP\NP)/NP 	 1 	 McGlade of
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 McGlade raised
+3 	 2 	 (NP\NP)/NP 	 2 	 PaineWebber of
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 question raised
+8 	 5 	 NP[nb]/N 	 1 	 question a
+8 	 6 	 N/N 	 1 	 question more
+8 	 7 	 N/N 	 1 	 question fundamental
+8 	 9 	 (NP\NP)/NP 	 1 	 question about
+11 	 9 	 (NP\NP)/NP 	 2 	 deal about
+11 	 10 	 NP[nb]/N 	 1 	 deal the
+<\s>
+<s id="wsj_2163.18"> 22
+2 	 1 	 N/N 	 1 	 mart K
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 mart ca
+2 	 5 	 (S[b]\NP)/NP 	 1 	 mart get <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 ca If
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 ca n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 get ca
+5 	 8 	 (S\NP)\(S\NP) 	 2 	 get together
+5 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 get in
+7 	 5 	 (S[b]\NP)/NP 	 2 	 act get
+7 	 6 	 NP[nb]/N 	 1 	 act its
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 discounting in
+12 	 0 	 (S/S)/S[dcl] 	 1 	 why If
+13 	 12 	 S[wq]/S[q] 	 1 	 is why
+14 	 13 	 (S[q]/(S[ng]\NP))/NP 	 2 	 it is
+14 	 15 	 (S[ng]\NP)/NP 	 1 	 it spending <XB>
+15 	 13 	 (S[q]/(S[ng]\NP))/NP 	 1 	 spending is
+16 	 15 	 (S[ng]\NP)/NP 	 2 	 time spending
+16 	 17 	 (S[ng]\NP)/PP 	 1 	 time worrying <XB>
+18 	 17 	 (S[ng]\NP)/PP 	 2 	 about worrying
+21 	 18 	 PP/NP 	 1 	 markets about
+21 	 19 	 N/N 	 1 	 markets other
+21 	 20 	 N/N 	 1 	 markets growing
+<\s>
+<s id="wsj_2163.19"> 32
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 She said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 I would
+3 	 5 	 (S[b]\NP)/S[dcl] 	 1 	 I say <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 say would
+7 	 6 	 N/N 	 1 	 mart K
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 mart 's
+11 	 8 	 (NP[nb]/N)\NP 	 1 	 job 's
+11 	 9 	 N/N 	 1 	 job number
+11 	 10 	 N/N 	 1 	 job one
+11 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 job is
+11 	 14 	 (S[b]\NP)/NP 	 1 	 job address <XB>
+11 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 job will <XB>
+11 	 27 	 (S[b]\NP)/PP 	 1 	 job lead <XB>
+12 	 5 	 (S[b]\NP)/S[dcl] 	 2 	 is say
+13 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 address to
+14 	 24 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 address which
+17 	 14 	 (S[b]\NP)/NP 	 2 	 loss address
+17 	 15 	 NP[nb]/N 	 1 	 loss its
+17 	 16 	 N/N 	 1 	 loss market-share
+17 	 19 	 (NP\NP)/NP 	 1 	 loss in
+21 	 19 	 (NP\NP)/NP 	 2 	 stores in
+21 	 20 	 N/N 	 1 	 stores discount
+26 	 24 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 will which
+26 	 25 	 (S\NP)/(S\NP) 	 2 	 will longer-term
+27 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 lead will
+28 	 27 	 (S[b]\NP)/PP 	 2 	 to lead
+31 	 28 	 PP/NP 	 1 	 margins to
+31 	 29 	 N/N 	 1 	 margins improved
+31 	 30 	 N/N 	 1 	 margins profit
+<\s>
+<s id="wsj_2163.20"> 9
+2 	 0 	 (S/S)/NP 	 2 	 point At
+2 	 1 	 NP[nb]/N 	 1 	 point that
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 diversification would
+5 	 8 	 S[adj]\NP 	 1 	 diversification appropriate <XB>
+6 	 0 	 (S/S)/NP 	 1 	 would At
+6 	 4 	 S/S 	 1 	 would perhaps
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+8 	 7 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 appropriate be
+<\s>
+<s id="wsj_2163.21"> 16
+2 	 1 	 N/N 	 1 	 mart K
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 mart 's
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 Antonini 's
+5 	 4 	 N/N 	 1 	 Antonini Mr.
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Antonini is
+5 	 7 	 (S[adj]\NP)/PP 	 1 	 Antonini intent <XB>
+6 	 0 	 S/S 	 1 	 is But
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 intent is
+8 	 7 	 (S[adj]\NP)/PP 	 2 	 on intent
+9 	 8 	 PP/(S[ng]\NP) 	 1 	 pushing on
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 pushing into
+11 	 9 	 (S[ng]\NP)/NP 	 2 	 company pushing
+11 	 10 	 NP[nb]/N 	 1 	 company the
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 businesses into
+15 	 13 	 N/N 	 1 	 businesses new
+15 	 14 	 N/N 	 1 	 businesses retail
+<\s>
+<s id="wsj_2163.22"> 27
+1 	 0 	 (S/S)/NP 	 2 	 instance For
+4 	 3 	 N/N 	 1 	 mart K
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 mart is
+4 	 6 	 (S[ng]\NP)/NP 	 1 	 mart opening <XB>
+5 	 0 	 (S/S)/NP 	 1 	 is For
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 opening is
+12 	 6 	 (S[ng]\NP)/NP 	 2 	 stores opening
+12 	 7 	 N/N 	 1 	 stores big
+12 	 8 	 N/N 	 1 	 stores food
+12 	 10 	 N/N 	 1 	 stores general
+12 	 11 	 N/N 	 1 	 stores merchandise
+12 	 14 	 (S[pss]\NP)/NP 	 1 	 stores called <XB>
+15 	 14 	 (S[pss]\NP)/NP 	 2 	 hypermarkets called
+19 	 6 	 (S[ng]\NP)/NP 	 2 	 stores opening
+19 	 18 	 N/N 	 1 	 stores warehouse-type
+19 	 20 	 (S[ng]\NP)/PP 	 1 	 stores specializing <XB>
+21 	 20 	 (S[ng]\NP)/PP 	 2 	 in specializing
+23 	 21 	 PP/NP 	 1 	 products in
+23 	 22 	 N/N 	 1 	 products office
+26 	 21 	 PP/NP 	 1 	 goods in
+26 	 25 	 N/N 	 1 	 goods sporting
+<\s>
+<s id="wsj_2163.23"> 15
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 It operates
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 operates also
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 Waldenbooks operates
+8 	 2 	 (S[dcl]\NP)/NP 	 2 	 Stores operates
+8 	 5 	 N/N 	 1 	 Stores Pay
+8 	 6 	 N/N 	 1 	 Stores Less
+8 	 7 	 N/N 	 1 	 Stores Drug
+14 	 2 	 (S[dcl]\NP)/NP 	 2 	 stores operates
+14 	 10 	 N/N 	 1 	 stores Builders
+14 	 11 	 N/N 	 1 	 stores Square
+14 	 12 	 N/N 	 1 	 stores home
+14 	 13 	 N/N 	 1 	 stores improvement
+<\s>
+<s id="wsj_2163.24"> 23
+2 	 0 	 (S/S)/NP 	 2 	 trading In
+2 	 1 	 N/N 	 1 	 trading composite
+2 	 3 	 (NP\NP)/NP 	 1 	 trading on
+8 	 3 	 (NP\NP)/NP 	 2 	 Exchange on
+8 	 4 	 NP[nb]/N 	 1 	 Exchange the
+8 	 5 	 N/N 	 1 	 Exchange New
+8 	 6 	 N/N 	 1 	 Exchange York
+8 	 7 	 N/N 	 1 	 Exchange Stock
+11 	 10 	 N/N 	 1 	 mart K
+11 	 12 	 (S[dcl]\NP)/PP 	 1 	 mart closed
+12 	 0 	 (S/S)/NP 	 1 	 closed In
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 closed yesterday
+12 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+14 	 12 	 (S[dcl]\NP)/PP 	 2 	 at closed
+15 	 14 	 PP/NP 	 1 	 $ at
+15 	 17 	 (NP\NP)/N 	 1 	 $ a
+16 	 15 	 N/N[num] 	 1 	 36 $
+18 	 17 	 (NP\NP)/N 	 2 	 share a
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 cents up
+22 	 21 	 N/N 	 1 	 cents 12.5
+<\s>
+<s id="wsj_2163.25"> 15
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Pace rose
+0 	 5 	 (S[b]\NP)/PP 	 1 	 Pace close <XB>
+1 	 2 	 ((S\NP)\(S\NP))/N[num] 	 2 	 rose $
+3 	 2 	 ((S\NP)\(S\NP))/N[num] 	 3 	 2.625 $
+4 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to rose
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 close to
+5 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 close in
+6 	 5 	 (S[b]\NP)/PP 	 2 	 at close
+8 	 7 	 (NP/NP)/N[num] 	 2 	 22.125 $
+10 	 6 	 PP/NP 	 1 	 share at
+10 	 7 	 (NP/NP)/N[num] 	 1 	 share $
+10 	 9 	 NP[nb]/N 	 1 	 share a
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+14 	 12 	 N/N 	 1 	 trading national
+14 	 13 	 N/N 	 1 	 trading over-the-counter
+<\s>
+<s id="wsj_2163.26"> 13
+3 	 0 	 NP[nb]/N 	 1 	 spokesman A
+3 	 1 	 N/N 	 1 	 spokesman K
+3 	 2 	 N/N 	 1 	 spokesman mart
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+6 	 5 	 NP[nb]/N 	 1 	 acquisition the
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 acquisition would
+6 	 9 	 S[pss]\NP 	 1 	 acquisition financed <XB>
+7 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+9 	 8 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 financed be
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 financed with
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 borrowings with
+12 	 11 	 N/N 	 1 	 borrowings short-term
+<\s>
+<s id="wsj_2163.27"> 19
+1 	 0 	 (S/S)/NP 	 2 	 terms Under
+1 	 2 	 (NP\NP)/NP 	 1 	 terms of
+4 	 2 	 (NP\NP)/NP 	 2 	 agreement of
+4 	 3 	 NP[nb]/N 	 1 	 agreement the
+9 	 6 	 NP[nb]/N 	 1 	 subsidiary a
+9 	 7 	 N/N 	 1 	 subsidiary K
+9 	 8 	 N/N 	 1 	 subsidiary mart
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 subsidiary will
+9 	 12 	 (S[b]\NP)/NP 	 1 	 subsidiary make <XB>
+10 	 0 	 (S/S)/NP 	 1 	 will Under
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 will soon
+12 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make will
+15 	 12 	 (S[b]\NP)/NP 	 2 	 offer make
+15 	 13 	 NP[nb]/N 	 1 	 offer a
+15 	 14 	 N/N 	 1 	 offer tender
+15 	 16 	 (NP\NP)/NP 	 1 	 offer for
+18 	 16 	 (NP\NP)/NP 	 2 	 shares for
+18 	 17 	 N/N 	 1 	 shares Pace
+<\s>
+<s id="wsj_2163.28"> 19
+0 	 6 	 (S[dcl]\PP)/S[em] 	 1 	 Among is
+2 	 0 	 PP/NP 	 1 	 conditions Among
+2 	 1 	 NP[nb]/N 	 1 	 conditions the
+2 	 3 	 (NP\NP)/NP 	 1 	 conditions of
+5 	 3 	 (NP\NP)/NP 	 2 	 offer of
+5 	 4 	 NP[nb]/N 	 1 	 offer the
+7 	 6 	 (S[dcl]\PP)/S[em] 	 2 	 that is
+9 	 8 	 N/N 	 1 	 shareholders Pace
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 shareholders tender
+10 	 7 	 S[em]/S[dcl] 	 1 	 tender that
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 majority tender
+12 	 11 	 NP[nb]/N 	 1 	 majority a
+12 	 13 	 (NP\NP)/NP 	 1 	 majority of
+15 	 14 	 NP[nb]/N 	 1 	 company the
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 company 's
+17 	 13 	 (NP\NP)/NP 	 2 	 shares of
+17 	 16 	 (NP[nb]/N)\NP 	 1 	 shares 's
+17 	 18 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>
+<s id="wsj_2163.29"> 13
+1 	 0 	 NP[nb]/N 	 1 	 companies The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 companies said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Pace would
+3 	 6 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Pace continue <XB>
+3 	 8 	 S[b]\NP 	 1 	 Pace operate <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue would
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 continue ill
+7 	 6 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to continue
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 operate to
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 operate under
+12 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 management under
+12 	 10 	 NP[nb]/N 	 1 	 management its
+12 	 11 	 N/N 	 1 	 management present
+<\s>

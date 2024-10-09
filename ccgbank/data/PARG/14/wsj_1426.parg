@@ -1,0 +1,101 @@
+<s id="wsj_1426.1"> 30
+2 	 0 	 N/N 	 1 	 Inc. McCormick
+2 	 1 	 N/N 	 1 	 Inc. Capital
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+7 	 4 	 NP[nb]/N 	 1 	 factor the
+7 	 5 	 N/N 	 1 	 factor final
+7 	 6 	 N/N 	 1 	 factor proration
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 factor was
+8 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 0.628394 was
+9 	 10 	 (NP\NP)/NP 	 1 	 0.628394 on
+15 	 14 	 (N/N)/N[num] 	 2 	 3-a-share $
+17 	 10 	 (NP\NP)/NP 	 2 	 offer on
+17 	 11 	 NP[nb]/N 	 1 	 offer its
+17 	 12 	 N/N 	 1 	 offer oversubscribed
+17 	 14 	 (N/N)/N[num] 	 1 	 offer $
+17 	 16 	 N/N 	 1 	 offer tender
+17 	 19 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 1 	 offer buy <XB>
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+20 	 19 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 3 	 back buy
+21 	 19 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 2 	 as buy
+21 	 20 	 S[adj]\NP 	 1 	 as back <XB>
+21 	 26 	 (NP\NP)/NP 	 1 	 as of
+22 	 21 	 (N/PP)/(S[adj]\NP) 	 2 	 many as
+23 	 21 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+25 	 23 	 PP/NP 	 1 	 million as
+25 	 24 	 N/N 	 1 	 million 1.1
+29 	 26 	 (NP\NP)/NP 	 2 	 shares of
+29 	 27 	 NP[nb]/N 	 1 	 shares its
+29 	 28 	 N/N 	 1 	 shares common
+<\s>
+<s id="wsj_1426.2"> 12
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Payment will
+0 	 2 	 S[b]\NP 	 1 	 Payment begin <XB>
+1 	 11 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 begin will
+2 	 4 	 ((S\NP)\(S\NP))/PP 	 2 	 begin soon
+4 	 3 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 soon as
+5 	 4 	 ((S\NP)\(S\NP))/PP 	 3 	 as soon
+6 	 5 	 PP/NP 	 1 	 Oct. as
+7 	 6 	 N/N[num] 	 1 	 25 Oct.
+10 	 9 	 NP[nb]/N 	 1 	 company the
+10 	 11 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>
+<s id="wsj_1426.3"> 10
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 McCormick is
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 developer is
+3 	 2 	 NP[nb]/N 	 1 	 developer a
+3 	 6 	 (NP\NP)/NP 	 1 	 developer of
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 manager is
+5 	 2 	 NP[nb]/N 	 1 	 manager a
+5 	 6 	 (NP\NP)/NP 	 1 	 manager of
+9 	 6 	 (NP\NP)/NP 	 2 	 partnerships of
+9 	 7 	 N/N 	 1 	 partnerships futures-investment
+9 	 8 	 N/N 	 1 	 partnerships limited
+<\s>
+<s id="wsj_1426.4"> 51
+3 	 0 	 (S/S)/NP 	 2 	 agreement Through
+3 	 1 	 NP[nb]/N 	 1 	 agreement a
+3 	 2 	 N/N 	 1 	 agreement separate
+3 	 4 	 (NP\NP)/NP 	 1 	 agreement between
+6 	 4 	 (NP\NP)/NP 	 2 	 Dauchy between
+6 	 5 	 N/N 	 1 	 Dauchy Peter
+8 	 4 	 (NP\NP)/NP 	 2 	 president between
+12 	 4 	 (NP\NP)/NP 	 2 	 group between
+12 	 11 	 NP[nb]/N 	 1 	 group a
+12 	 13 	 (NP\NP)/NP 	 1 	 group of
+15 	 13 	 (NP\NP)/NP 	 2 	 shareholders of
+15 	 14 	 N/N 	 1 	 shareholders selling
+18 	 17 	 NP[nb]/N 	 1 	 company the
+18 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+22 	 21 	 N/N 	 1 	 Dauchy Mr.
+22 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Dauchy will
+22 	 27 	 ((S[b]\NP)/PP)/NP 	 1 	 Dauchy buy <XB>
+22 	 34 	 (S[ng]\NP)/NP 	 1 	 Dauchy boosting <XB>
+23 	 0 	 (S/S)/NP 	 1 	 will Through
+23 	 19 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said <XU>
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 will on
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Oct. on
+26 	 25 	 N/N[num] 	 1 	 30 Oct.
+27 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 buy will
+29 	 27 	 ((S[b]\NP)/PP)/NP 	 3 	 shares buy
+29 	 28 	 N/N 	 1 	 shares 231,405
+30 	 27 	 ((S[b]\NP)/PP)/NP 	 2 	 from buy
+32 	 30 	 PP/NP 	 1 	 group from
+32 	 31 	 NP[nb]/N 	 1 	 group the
+34 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 boosting to
+36 	 34 	 (S[ng]\NP)/NP 	 2 	 stake boosting
+36 	 35 	 NP[nb]/N 	 1 	 stake his
+39 	 38 	 (N/N)/(N/N) 	 2 	 717,000 about
+40 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 shares to
+40 	 39 	 N/N 	 1 	 shares 717,000
+44 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+44 	 43 	 N/N 	 1 	 % 50.7
+44 	 45 	 (NP\NP)/NP 	 1 	 % of
+47 	 45 	 (NP\NP)/NP 	 2 	 total of
+47 	 46 	 NP[nb]/N 	 1 	 total the
+47 	 48 	 (NP\NP)/NP 	 1 	 total after
+50 	 48 	 (NP\NP)/NP 	 2 	 buy-back after
+50 	 49 	 NP[nb]/N 	 1 	 buy-back the
+<\s>

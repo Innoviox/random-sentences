@@ -1,0 +1,104 @@
+<s id="wsj_1240.1"> 29
+1 	 0 	 N/N 	 1 	 production Raw-steel
+1 	 2 	 (NP\NP)/NP 	 1 	 production by
+1 	 7 	 S[dcl]\NP 	 1 	 production decreased
+4 	 3 	 NP[nb]/N 	 1 	 nation the
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 nation 's
+6 	 2 	 (NP\NP)/NP 	 2 	 mills by
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 mills 's
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 decreased %
+7 	 11 	 (S\NP)\(S\NP) 	 2 	 decreased week
+7 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 decreased to
+7 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 decreased from
+7 	 28 	 (S[dcl]\S[dcl])\NP 	 1 	 decreased said
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 0.7
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week last
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 tons to
+14 	 13 	 N/N 	 1 	 tons 1,816,000
+15 	 18 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 3 	 from the
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 tons from
+17 	 16 	 N/N 	 1 	 tons 1,828,000
+20 	 18 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 4 	 week the
+20 	 19 	 N/N 	 1 	 week previous
+24 	 22 	 NP[nb]/N 	 1 	 Iron the
+24 	 23 	 N/N 	 1 	 Iron American
+24 	 28 	 (S[dcl]\S[dcl])\NP 	 2 	 Iron said
+27 	 22 	 NP[nb]/N 	 1 	 Institute the
+27 	 23 	 N/N 	 1 	 Institute American
+27 	 26 	 N/N 	 1 	 Institute Steel
+27 	 28 	 (S[dcl]\S[dcl])\NP 	 2 	 Institute said
+<\s>
+<s id="wsj_1240.2"> 15
+1 	 0 	 N/N 	 1 	 week Last
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 week 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 output 's
+3 	 4 	 S[dcl]\NP 	 1 	 output fell
+4 	 6 	 (S\NP)\(S\NP) 	 2 	 fell %
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 1.7
+10 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 tons from
+10 	 8 	 NP[nb]/N 	 1 	 tons the
+10 	 9 	 N/N 	 1 	 tons 1,848,000
+10 	 11 	 S[pss]\NP 	 1 	 tons produced <XB>
+11 	 14 	 ((S\NP)\(S\NP))\NP 	 2 	 produced earlier
+13 	 12 	 NP[nb]/N 	 1 	 year a
+13 	 14 	 ((S\NP)\(S\NP))\NP 	 3 	 year earlier
+<\s>
+<s id="wsj_1240.3"> 24
+1 	 0 	 NP[nb]/N 	 1 	 industry The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 industry used
+2 	 9 	 (S\NP)\(S\NP) 	 2 	 used week
+2 	 11 	 ((S\NP)\(S\NP))/PP 	 2 	 used compared
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 % used
+4 	 3 	 N/N 	 1 	 % 81.6
+4 	 5 	 (NP\NP)/NP 	 1 	 % of
+7 	 5 	 (NP\NP)/NP 	 2 	 capability of
+7 	 6 	 NP[nb]/N 	 1 	 capability its
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week last
+12 	 11 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+14 	 12 	 PP/NP 	 1 	 % with
+14 	 13 	 N/N 	 1 	 % 82.2
+14 	 15 	 (NP\NP)/N 	 1 	 % the
+17 	 15 	 (NP\NP)/N 	 2 	 week the
+17 	 16 	 N/N 	 1 	 week previous
+20 	 12 	 PP/NP 	 1 	 % with
+20 	 19 	 N/N 	 1 	 % 86.2
+20 	 23 	 (NP\NP)\NP 	 1 	 % ago
+22 	 21 	 NP[nb]/N 	 1 	 year a
+22 	 23 	 (NP\NP)\NP 	 2 	 year ago
+<\s>
+<s id="wsj_1240.4"> 33
+2 	 0 	 NP[nb]/N 	 1 	 Iron The
+2 	 1 	 N/N 	 1 	 Iron American
+2 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Iron reported
+5 	 0 	 NP[nb]/N 	 1 	 Institute The
+5 	 1 	 N/N 	 1 	 Institute American
+5 	 4 	 N/N 	 1 	 Institute Steel
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Institute reported
+11 	 8 	 NP[nb]/N 	 1 	 rate The
+11 	 9 	 N/N 	 1 	 rate capability
+11 	 10 	 N/N 	 1 	 rate utilization
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 rate is
+12 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 is reported
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 calculation is
+14 	 13 	 NP[nb]/N 	 1 	 calculation a
+14 	 15 	 S[pss]\NP 	 1 	 calculation designed <XB>
+14 	 17 	 (S[b]\NP)/S[qem] 	 1 	 calculation indicate <XB>
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 indicate to
+18 	 19 	 ((S[qem]/S[dcl])\((NP\NP)/NP))/N 	 2 	 at what
+19 	 17 	 (S[b]\NP)/S[qem] 	 2 	 what indicate
+20 	 19 	 ((S[qem]/S[dcl])\((NP\NP)/NP))/N 	 3 	 percent what
+20 	 21 	 (N\N)/NP 	 1 	 percent of
+24 	 21 	 (N\N)/NP 	 2 	 capability of
+24 	 22 	 NP[nb]/N 	 1 	 capability its
+24 	 23 	 N/N 	 1 	 capability production
+26 	 25 	 NP[nb]/N 	 1 	 industry the
+26 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 industry is
+26 	 28 	 S[ng]\NP 	 1 	 industry operating <XB>
+27 	 19 	 ((S[qem]/S[dcl])\((NP\NP)/NP))/N 	 1 	 is what
+28 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 operating is
+28 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 operating in
+32 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 week in
+32 	 30 	 NP[nb]/N 	 1 	 week a
+32 	 31 	 N/N 	 1 	 week given
+<\s>

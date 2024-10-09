@@ -1,0 +1,1033 @@
+<s id="wsj_0730.1"> 5
+1 	 0 	 N/N 	 1 	 Thefts California
+1 	 2 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 Thefts Make
+4 	 2 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 Agents Make
+4 	 3 	 N/N 	 1 	 Agents Travel
+5 	 2 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 Jittery Make
+<\s>
+<s id="wsj_0730.2"> 9
+0 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 BEING used
+0 	 8 	 S[adj]\NP 	 1 	 BEING glamorous <XB>
+3 	 0 	 (S[ng]\NP)/NP 	 2 	 agent BEING
+3 	 1 	 NP[nb]/N 	 1 	 agent A
+3 	 2 	 N/N 	 1 	 agent TRAVEL
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to used
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 6 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 glamorous be
+8 	 7 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 glamorous pretty
+<\s>
+<s id="wsj_0730.3"> 6
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it 's
+1 	 3 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 it getting <XB>
+1 	 5 	 S[adj]\NP 	 1 	 it dangerous <XB>
+2 	 0 	 S/S 	 1 	 's Now
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 getting 's
+5 	 3 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 dangerous getting
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 dangerous downright
+<\s>
+<s id="wsj_0730.4"> 27
+2 	 0 	 (S/S)/NP 	 2 	 months In
+2 	 1 	 N/N 	 1 	 months recent
+4 	 5 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+6 	 5 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 25 than
+7 	 6 	 N/N 	 1 	 agencies 25
+7 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 agencies have
+7 	 10 	 S[pss]\NP 	 1 	 agencies robbed <XB>
+8 	 0 	 (S/S)/NP 	 1 	 have In
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+10 	 9 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 robbed been
+10 	 12 	 ((S\NP)\(S\NP))/PP 	 2 	 robbed compared
+10 	 21 	 ((S\NP)\(S\NP))/PP 	 2 	 robbed according
+13 	 12 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+16 	 13 	 PP/NP 	 1 	 handful with
+16 	 14 	 NP/NP 	 1 	 handful only
+16 	 15 	 NP[nb]/N 	 1 	 handful a
+16 	 17 	 (NP\NP)/N 	 1 	 handful all
+19 	 17 	 (NP\NP)/N 	 2 	 year all
+19 	 18 	 N/N 	 1 	 year last
+22 	 21 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+26 	 22 	 PP/NP 	 1 	 groups to
+26 	 23 	 N/N 	 1 	 groups police
+26 	 25 	 N/N 	 1 	 groups travel-agency
+<\s>
+<s id="wsj_0730.5"> 20
+0 	 1 	 (NP\NP)/NP 	 1 	 Most of
+0 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Most have
+0 	 5 	 (S[pt]\NP)/PP 	 1 	 Most been <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 cases of
+3 	 2 	 NP[nb]/N 	 1 	 cases the
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+6 	 5 	 (S[pt]\NP)/PP 	 2 	 in been
+7 	 6 	 PP/NP 	 1 	 California in
+7 	 9 	 (NP\NP)/S[dcl] 	 1 	 California where
+11 	 10 	 N/N 	 1 	 agent one
+11 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 agent was
+11 	 13 	 S[pss]\NP 	 1 	 agent stabbed <XB>
+12 	 9 	 (NP\NP)/S[dcl] 	 2 	 was where
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 stabbed was
+15 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 another was
+15 	 17 	 S[pss]\NP 	 1 	 another shot <XB>
+15 	 19 	 S[pss]\NP 	 1 	 another killed <XU>
+16 	 9 	 (NP\NP)/S[dcl] 	 2 	 was where
+17 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 shot was
+19 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 killed was
+<\s>
+<s id="wsj_0730.6"> 24
+2 	 0 	 N/N 	 1 	 police Los
+2 	 1 	 N/N 	 1 	 police Angeles
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 police say
+5 	 4 	 NP[nb]/N 	 1 	 thieves the
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 thieves seem
+5 	 8 	 (S[b]\NP)/NP 	 1 	 thieves be <XB>
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 seem say
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to seem
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+9 	 8 	 (S[b]\NP)/NP 	 2 	 part be
+9 	 10 	 (NP\NP)/NP 	 1 	 part of
+13 	 10 	 (NP\NP)/NP 	 2 	 network of
+13 	 11 	 NP[nb]/N 	 1 	 network a
+13 	 12 	 N/N 	 1 	 network crime
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 network that
+13 	 15 	 (S[dcl]\NP)/S[qem] 	 1 	 network knows <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 knows that
+16 	 15 	 (S[dcl]\NP)/S[qem] 	 2 	 how knows
+17 	 16 	 S[qem]/(S[to]\NP) 	 1 	 to how
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 convert to
+20 	 18 	 ((S[b]\NP)/PP)/NP 	 3 	 tickets convert
+20 	 19 	 N/N 	 1 	 tickets blank
+21 	 18 	 ((S[b]\NP)/PP)/NP 	 2 	 into convert
+23 	 21 	 PP/NP 	 1 	 ones into
+23 	 22 	 N/N 	 1 	 ones real
+<\s>
+<s id="wsj_0730.7"> 14
+4 	 2 	 NP[nb]/N 	 1 	 tickets the
+4 	 3 	 N/N 	 1 	 tickets stolen
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 tickets have
+4 	 7 	 S[pss]\NP 	 1 	 tickets used <XB>
+5 	 0 	 S/S 	 1 	 have Already
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+7 	 6 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 used been
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 used for
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 flights for
+9 	 11 	 (NP\NP)/NP 	 1 	 flights over
+11 	 10 	 (NP\NP)/(NP\NP) 	 2 	 over all
+13 	 11 	 (NP\NP)/NP 	 2 	 world over
+13 	 12 	 NP[nb]/N 	 1 	 world the
+<\s>
+<s id="wsj_0730.8"> 21
+1 	 0 	 (S/S)/(S/S) 	 2 	 far So
+4 	 3 	 NP[nb]/N 	 1 	 thieves the
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 thieves have
+4 	 6 	 (S[pt]\NP)/NP 	 1 	 thieves stolen <XB>
+5 	 1 	 S/S 	 1 	 have far
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 stolen have
+6 	 11 	 ((S\NP)\(S\NP))/PP 	 2 	 stolen according
+9 	 6 	 (S[pt]\NP)/NP 	 2 	 tickets stolen
+9 	 7 	 N/N 	 1 	 tickets 3,632
+9 	 8 	 N/N 	 1 	 tickets blank
+12 	 11 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+15 	 12 	 PP/NP 	 1 	 Corp. to
+15 	 13 	 N/N 	 1 	 Corp. Airline
+15 	 14 	 N/N 	 1 	 Corp. Reporting
+20 	 12 	 PP/NP 	 1 	 center to
+20 	 17 	 NP[nb]/N 	 1 	 center a
+20 	 18 	 N/N 	 1 	 center ticket
+20 	 19 	 N/N 	 1 	 center processing
+<\s>
+<s id="wsj_0730.9"> 30
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Police say
+3 	 2 	 NP[nb]/N 	 1 	 robberies the
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 robberies are
+3 	 6 	 S[pss]\NP 	 1 	 robberies pulled <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 are say
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 are usually
+6 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 pulled are
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 pulled off
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 pulled by
+9 	 10 	 ((N/N)\(N/N))/(N/N) 	 2 	 two to
+11 	 10 	 ((N/N)\(N/N))/(N/N) 	 3 	 five to
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 men by
+12 	 9 	 N/N 	 1 	 men two
+12 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 men who
+12 	 15 	 S[dcl]\NP 	 1 	 men walk <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 walk who
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 walk into
+15 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 walk near
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 agencies into
+18 	 17 	 NP[nb]/N 	 1 	 agencies the
+23 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 time near
+23 	 20 	 N/N 	 1 	 time closing <XU>
+23 	 22 	 N/N 	 1 	 time lunch
+23 	 25 	 (NP\NP)/S[dcl] 	 1 	 time when
+27 	 26 	 N/N 	 1 	 employees few
+27 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 employees are
+27 	 29 	 S[adj]\NP 	 1 	 employees there <XB>
+28 	 25 	 (NP\NP)/S[dcl] 	 2 	 are when
+29 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 there are
+<\s>
+<s id="wsj_0730.10"> 32
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 They looked
+0 	 6 	 S[adj]\NP 	 1 	 They first <XB>
+1 	 5 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 looked at
+1 	 8 	 (S[dcl]\S[dcl])/NP 	 1 	 looked says
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 like looked
+4 	 2 	 PP/NP 	 1 	 vacationers like
+4 	 3 	 N/N 	 1 	 vacationers ordinary
+6 	 5 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 first at
+10 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 LLerena says
+10 	 9 	 N/N 	 1 	 LLerena Willy
+12 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 owner says
+12 	 13 	 (NP\NP)/NP 	 1 	 owner of
+16 	 13 	 (NP\NP)/NP 	 2 	 Service of
+16 	 14 	 N/N 	 1 	 Service Travel
+16 	 15 	 N/N 	 1 	 Service Air
+16 	 17 	 (NP\NP)/NP 	 1 	 Service in
+19 	 17 	 (NP\NP)/NP 	 2 	 Bello in
+19 	 18 	 N/N 	 1 	 Bello Monte
+21 	 17 	 (NP\NP)/NP 	 2 	 Calif. in
+25 	 23 	 (S[ng]\NP)/NP 	 2 	 men describing
+25 	 24 	 N/N 	 1 	 men five
+25 	 26 	 (NP\NP)/(S[dcl]\NP) 	 1 	 men who
+25 	 27 	 (S[dcl]\NP)/NP 	 1 	 men entered <XB>
+27 	 26 	 (NP\NP)/(S[dcl]\NP) 	 2 	 entered who
+27 	 31 	 (S\NP)\(S\NP) 	 2 	 entered June
+29 	 27 	 (S[dcl]\NP)/NP 	 2 	 agency entered
+29 	 28 	 NP[nb]/N 	 1 	 agency his
+31 	 30 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 June last
+<\s>
+<s id="wsj_0730.11"> 20
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 he says
+6 	 7 	 ((S[dcl]\NP)/PP)/NP 	 1 	 they put
+6 	 15 	 (S[dcl]\NP)/S[b] 	 1 	 they demanded <XU>
+7 	 0 	 S/S 	 1 	 put But
+7 	 1 	 S/S 	 1 	 put then
+7 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 put says <XU>
+10 	 7 	 ((S[dcl]\NP)/PP)/NP 	 3 	 pistols put
+10 	 8 	 N/N 	 1 	 pistols two
+10 	 9 	 N/N 	 1 	 pistols loaded
+11 	 7 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to put
+13 	 11 	 PP/NP 	 1 	 temple to
+13 	 12 	 NP[nb]/N 	 1 	 temple his
+15 	 0 	 S/S 	 1 	 demanded But
+15 	 1 	 S/S 	 1 	 demanded then
+15 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 demanded says <XU>
+16 	 17 	 (S[b]\NP)/NP 	 1 	 he open
+17 	 15 	 (S[dcl]\NP)/S[b] 	 2 	 open demanded
+19 	 17 	 (S[b]\NP)/NP 	 2 	 safe open
+19 	 18 	 NP[nb]/N 	 1 	 safe the
+<\s>
+<s id="wsj_0730.12"> 24
+1 	 3 	 S[dcl]\NP 	 1 	 he refused
+3 	 0 	 (S/S)/S[dcl] 	 2 	 refused When
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 refused initially
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 he says
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 they stabbed
+8 	 15 	 (S[dcl]\NP)/PP 	 1 	 they made <XU>
+9 	 0 	 (S/S)/S[dcl] 	 1 	 stabbed When
+9 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 stabbed says <XU>
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 stabbed in
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 him stabbed
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 back in
+13 	 12 	 NP[nb]/N 	 1 	 back the
+15 	 0 	 (S/S)/S[dcl] 	 1 	 made When
+15 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 made says <XU>
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 made off
+17 	 15 	 (S[dcl]\NP)/PP 	 2 	 with made
+18 	 17 	 PP/NP 	 1 	 $ with
+19 	 18 	 N/N[num] 	 1 	 2,000 $
+23 	 17 	 PP/NP 	 1 	 tickets with
+23 	 21 	 N/N 	 1 	 tickets 280
+23 	 22 	 N/N 	 1 	 tickets blank
+<\s>
+<s id="wsj_0730.13"> 14
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 They said
+1 	 13 	 (S[dcl]\S[dcl])\NP 	 1 	 said says
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 they wanted
+2 	 5 	 ((S[b]\NP)/S[qem])/NP 	 1 	 they show <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 wanted said
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wanted
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 show to
+6 	 5 	 ((S[b]\NP)/S[qem])/NP 	 3 	 me show
+7 	 5 	 ((S[b]\NP)/S[qem])/NP 	 2 	 how show
+8 	 7 	 (S[qem]/(S[dcl]/(S[adj]\NP)))/(S[adj]\NP) 	 2 	 serious how
+9 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they were
+10 	 7 	 (S[qem]/(S[dcl]/(S[adj]\NP)))/(S[adj]\NP) 	 1 	 were how
+12 	 13 	 (S[dcl]\S[dcl])\NP 	 2 	 he says
+<\s>
+<s id="wsj_0730.14"> 17
+1 	 2 	 (NP\NP)/NP 	 1 	 word of
+1 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 word has
+1 	 7 	 S[pt]\NP 	 1 	 word spread <XB>
+5 	 2 	 (NP\NP)/NP 	 2 	 spree of
+5 	 3 	 NP[nb]/N 	 1 	 spree the
+5 	 4 	 N/N 	 1 	 spree crime
+6 	 0 	 (S/S)/S[dcl] 	 2 	 has As
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 spread has
+10 	 9 	 N/N 	 1 	 agents many
+10 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 agents have
+10 	 12 	 (S[pt]\NP)/(S[ng]\NP) 	 1 	 agents started <XB>
+10 	 13 	 (S[ng]\NP)/NP 	 1 	 agents changing <XB>
+11 	 0 	 (S/S)/S[dcl] 	 1 	 have As
+12 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 started have
+13 	 12 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 changing started
+16 	 13 	 (S[ng]\NP)/NP 	 2 	 policies changing
+16 	 14 	 NP[nb]/N 	 1 	 policies their
+16 	 15 	 N/N 	 1 	 policies open-door
+<\s>
+<s id="wsj_0730.15"> 23
+4 	 0 	 (S/S)/NP 	 2 	 Center At
+4 	 1 	 N/N 	 1 	 Center El
+4 	 2 	 N/N 	 1 	 Center Monte
+4 	 3 	 N/N 	 1 	 Center Travel
+4 	 5 	 (NP\NP)/NP 	 1 	 Center in
+7 	 5 	 (NP\NP)/NP 	 2 	 Monte in
+7 	 6 	 N/N 	 1 	 Monte El
+9 	 5 	 (NP\NP)/NP 	 2 	 Calif. in
+11 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 customers can
+11 	 14 	 S[b]\NP 	 1 	 customers get <XB>
+13 	 0 	 (S/S)/NP 	 1 	 can At
+13 	 12 	 (S\NP)/(S\NP) 	 2 	 can now
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 get can
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 get in
+14 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 get through
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 through only
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 buzzer through
+19 	 18 	 NP[nb]/N 	 1 	 buzzer a
+22 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 system through
+22 	 18 	 NP[nb]/N 	 1 	 system a
+22 	 21 	 N/N 	 1 	 system lock
+<\s>
+<s id="wsj_0730.16"> 36
+0 	 1 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 1 	 It 's
+1 	 14 	 (S[dcl]\S[dcl])/NP 	 1 	 's says
+2 	 1 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 3 	 hard 's
+3 	 1 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 2 	 to 's
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 deal to
+4 	 7 	 ((S\NP)\(S\NP))/N 	 2 	 deal this
+4 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 deal in
+5 	 4 	 (S[b]\NP)/PP 	 2 	 with deal
+6 	 5 	 PP/NP 	 1 	 clients with
+8 	 7 	 ((S\NP)\(S\NP))/N 	 3 	 way this
+12 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 business in
+12 	 10 	 NP[nb]/N 	 1 	 business a
+12 	 11 	 N/N 	 1 	 business service
+17 	 14 	 (S[dcl]\S[dcl])/NP 	 2 	 Conner says
+17 	 15 	 N/N 	 1 	 Conner Ralph
+17 	 16 	 N/N 	 1 	 Conner Bud
+19 	 14 	 (S[dcl]\S[dcl])/NP 	 2 	 owner says
+19 	 20 	 (NP\NP)/NP 	 1 	 owner of
+22 	 20 	 (NP\NP)/NP 	 2 	 agency of
+22 	 21 	 NP[nb]/N 	 1 	 agency the
+22 	 24 	 (NP\NP)/(S[dcl]\NP) 	 1 	 agency which
+22 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 agency was <XB>
+22 	 26 	 (S[pss]\NP)/PP 	 1 	 agency robbed <XB>
+25 	 24 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was which
+26 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 robbed was
+26 	 35 	 (S\NP)\(S\NP) 	 2 	 robbed month
+27 	 26 	 (S[pss]\NP)/PP 	 2 	 of robbed
+30 	 27 	 PP/NP 	 1 	 tickets of
+30 	 28 	 N/N 	 1 	 tickets 180
+30 	 29 	 N/N 	 1 	 tickets blank
+32 	 27 	 PP/NP 	 1 	 $ of
+33 	 32 	 N/N[num] 	 1 	 850 $
+35 	 34 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month last
+<\s>
+<s id="wsj_0730.17"> 6
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 we 're
+1 	 5 	 S[adj]\NP 	 1 	 we nervous <XB>
+2 	 0 	 S/S 	 1 	 're But
+5 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 nervous 're
+5 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 nervous just
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 nervous too
+<\s>
+<s id="wsj_0730.18"> 11
+1 	 0 	 NP[nb]/N 	 1 	 robberies The
+1 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 robberies have
+1 	 4 	 (S[pt]\NP)/NP 	 1 	 robberies set <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 have also
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 set have
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 set off
+7 	 4 	 (S[pt]\NP)/NP 	 2 	 controversy set
+7 	 6 	 NP[nb]/N 	 1 	 controversy a
+7 	 8 	 (S[ng]\NP)/NP 	 1 	 controversy involving <XB>
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 airlines involving
+10 	 9 	 NP[nb]/N 	 1 	 airlines the
+<\s>
+<s id="wsj_0730.19"> 29
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Agents say
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 airlines which
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 airlines track <XB>
+2 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 airlines should
+2 	 15 	 (S[ng]\NP)/NP 	 1 	 airlines doing <XB>
+2 	 18 	 (S[b]\NP)/NP 	 1 	 airlines catch <XB>
+2 	 22 	 (S[ng]\NP)/NP 	 1 	 airlines confiscating <XB>
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 track which
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 numbers track
+7 	 6 	 N/N 	 1 	 numbers ticket
+7 	 8 	 (NP\NP)/NP 	 1 	 numbers of
+11 	 8 	 (NP\NP)/NP 	 2 	 tickets of
+11 	 9 	 NP[nb]/N 	 1 	 tickets all
+11 	 10 	 N/N 	 1 	 tickets stolen
+13 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 should say
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be should
+15 	 14 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 doing be
+16 	 15 	 (S[ng]\NP)/NP 	 2 	 more doing
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 catch to
+18 	 21 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 catch by
+20 	 18 	 (S[b]\NP)/NP 	 2 	 thieves catch
+20 	 19 	 NP[nb]/N 	 1 	 thieves the
+22 	 21 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 confiscating by
+22 	 25 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 confiscating when
+24 	 22 	 (S[ng]\NP)/NP 	 2 	 tickets confiscating
+24 	 23 	 NP[nb]/N 	 1 	 tickets the
+26 	 27 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 they 're
+26 	 28 	 S[pss]\NP 	 1 	 they used <XB>
+27 	 25 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 're when
+28 	 27 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 used 're
+<\s>
+<s id="wsj_0730.20"> 13
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 They have
+1 	 10 	 (S[dcl]\S[dcl])/NP 	 1 	 have says
+4 	 3 	 (N/N)/(N/N) 	 2 	 sophisticated most
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 computers have
+5 	 2 	 NP[nb]/N 	 1 	 computers the
+5 	 4 	 N/N 	 1 	 computers sophisticated
+5 	 6 	 (NP\NP)/NP 	 1 	 computers in
+8 	 6 	 (NP\NP)/NP 	 2 	 world in
+8 	 7 	 NP[nb]/N 	 1 	 world the
+12 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 LLerena says
+12 	 11 	 N/N 	 1 	 LLerena Mr.
+<\s>
+<s id="wsj_0730.21"> 8
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 They ought
+0 	 4 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 They able <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to ought
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+4 	 3 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 able be
+5 	 4 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+7 	 6 	 (S[b]\NP)/NP 	 2 	 this do
+<\s>
+<s id="wsj_0730.22"> 25
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 airlines say
+2 	 0 	 S/S 	 1 	 say But
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+3 	 7 	 S[adj]\NP 	 1 	 it expensive <XB>
+3 	 9 	 (S[b]\NP)/NP 	 1 	 it cause <XU>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 would say
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+5 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 be if
+7 	 5 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 expensive be
+7 	 6 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 expensive too
+9 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cause would
+9 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 cause if
+11 	 10 	 (N/N)/(N/N) 	 2 	 many too
+12 	 9 	 (S[b]\NP)/NP 	 2 	 delays cause
+12 	 11 	 N/N 	 1 	 delays many
+14 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they started
+14 	 16 	 (S[ng]\NP)/NP 	 1 	 they using <XB>
+14 	 20 	 (S[b]\NP)/NP 	 1 	 they check <XB>
+15 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 started if
+16 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 using started
+18 	 16 	 (S[ng]\NP)/NP 	 2 	 scanners using
+18 	 17 	 N/N 	 1 	 scanners computerized
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 check to
+20 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 check at
+21 	 20 	 (S[b]\NP)/NP 	 2 	 tickets check
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 gate at
+24 	 23 	 NP[nb]/N 	 1 	 gate the
+<\s>
+<s id="wsj_0730.23"> 5
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Texans Get
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 Insurance Get
+5 	 2 	 N/N 	 1 	 Insurance Reasonable
+5 	 3 	 N/N 	 1 	 Insurance Car
+5 	 4 	 N/N 	 1 	 Insurance Rental
+<\s>
+<s id="wsj_0730.24"> 16
+1 	 0 	 N/N 	 1 	 advocates CONSUMER
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 advocates have
+1 	 4 	 (S[pt]\NP)/S[em] 	 1 	 advocates claimed <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 have long
+4 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 claimed have
+5 	 4 	 (S[pt]\NP)/S[em] 	 2 	 that claimed
+8 	 6 	 N/N 	 1 	 companies car
+8 	 7 	 N/N 	 1 	 companies rental
+8 	 9 	 ((S[dcl]\NP)/PP)/NP 	 1 	 companies charge
+9 	 5 	 S[em]/S[dcl] 	 1 	 charge that
+11 	 9 	 ((S[dcl]\NP)/PP)/NP 	 3 	 much charge
+11 	 10 	 N/N 	 1 	 much too
+12 	 9 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for charge
+15 	 12 	 PP/NP 	 1 	 insurance for
+15 	 13 	 N/N 	 1 	 insurance car
+15 	 14 	 N/N 	 1 	 insurance rental
+<\s>
+<s id="wsj_0730.25"> 13
+4 	 2 	 NP[nb]/N 	 1 	 law a
+4 	 3 	 N/N 	 1 	 law new
+4 	 5 	 (NP\NP)/NP 	 1 	 law in
+4 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 law seems
+4 	 10 	 (S[ng]\NP)/NP 	 1 	 law providing <XB>
+6 	 5 	 (NP\NP)/NP 	 2 	 Texas in
+7 	 0 	 S/S 	 1 	 seems Now
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to seems
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+10 	 9 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 providing be
+12 	 10 	 (S[ng]\NP)/NP 	 2 	 proof providing
+12 	 11 	 NP[nb]/N 	 1 	 proof the
+<\s>
+<s id="wsj_0730.26"> 24
+1 	 0 	 NP[nb]/N 	 1 	 law The
+1 	 2 	 (NP\NP)/NP 	 1 	 law --
+1 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 law requires
+4 	 2 	 (NP\NP)/NP 	 2 	 first --
+4 	 3 	 NP[nb]/N 	 1 	 first the
+4 	 5 	 (NP\NP)/NP 	 1 	 first of
+7 	 5 	 (NP\NP)/NP 	 2 	 kind of
+7 	 6 	 NP[nb]/N 	 1 	 kind its
+12 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 companies requires
+12 	 10 	 N/N 	 1 	 companies car
+12 	 11 	 N/N 	 1 	 companies rental
+12 	 13 	 (NP\NP)/NP 	 1 	 companies in
+12 	 16 	 ((S[b]\NP)/PP)/NP 	 1 	 companies charge <XB>
+14 	 13 	 (NP\NP)/NP 	 2 	 Texas in
+15 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to requires
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 charge to
+19 	 16 	 ((S[b]\NP)/PP)/NP 	 3 	 rates charge
+19 	 17 	 N/N 	 1 	 rates only
+19 	 18 	 N/N 	 1 	 rates reasonable
+20 	 16 	 ((S[b]\NP)/PP)/NP 	 2 	 for charge
+23 	 20 	 PP/NP 	 1 	 insurance for
+23 	 21 	 N/N 	 1 	 insurance collision-damage
+23 	 22 	 N/N 	 1 	 insurance waiver
+<\s>
+<s id="wsj_0730.27"> 22
+3 	 2 	 NP[nb]/N 	 1 	 law the
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 law says
+4 	 0 	 S/S 	 1 	 says Specifically
+6 	 5 	 NP[nb]/N 	 1 	 rates the
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rates must
+6 	 9 	 (S[b]\NP)/NP 	 1 	 rates reflect <XB>
+7 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 must says
+9 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reflect must
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 reflect closely
+10 	 9 	 (S[b]\NP)/NP 	 2 	 what reflect
+10 	 17 	 (S[pt]\NP)/NP 	 2 	 what been <XU>
+12 	 11 	 NP[nb]/N 	 1 	 company the
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 company 's
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 expenses 's
+15 	 14 	 N/N 	 1 	 expenses actual
+15 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 expenses have
+15 	 17 	 (S[pt]\NP)/NP 	 1 	 expenses been <XB>
+15 	 19 	 (S[b]\NP)/NP 	 1 	 expenses replace <XB>
+16 	 10 	 NP/(S[dcl]/NP) 	 1 	 have what
+17 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 replace to
+21 	 19 	 (S[b]\NP)/NP 	 2 	 cars replace
+21 	 20 	 N/N 	 1 	 cars damaged
+<\s>
+<s id="wsj_0730.28"> 26
+2 	 1 	 NP[nb]/N 	 1 	 law the
+2 	 3 	 S[dcl]\NP 	 1 	 law went
+3 	 0 	 (S/S)/S[dcl] 	 2 	 went Before
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 went into
+3 	 7 	 (S\NP)\(S\NP) 	 2 	 went month
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 effect into
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month last
+11 	 9 	 N/N 	 1 	 companies car
+11 	 10 	 N/N 	 1 	 companies rental
+11 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 companies were
+11 	 13 	 ((S[ng]\NP)/PP)/NP 	 1 	 companies charging <XB>
+12 	 0 	 (S/S)/S[dcl] 	 1 	 were Before
+13 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 charging were
+13 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 charging in
+14 	 13 	 ((S[ng]\NP)/PP)/NP 	 3 	 as charging
+14 	 19 	 (NP\NP)/N 	 1 	 as a
+15 	 14 	 (N/PP)/(S[adj]\NP) 	 2 	 much as
+16 	 14 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+17 	 16 	 PP/NP 	 1 	 $ as
+18 	 17 	 N/N[num] 	 1 	 12 $
+20 	 19 	 (NP\NP)/N 	 2 	 day a
+21 	 13 	 ((S[ng]\NP)/PP)/NP 	 2 	 for charging
+23 	 21 	 PP/NP 	 1 	 waiver for
+23 	 22 	 NP[nb]/N 	 1 	 waiver the
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Texas in
+<\s>
+<s id="wsj_0730.29"> 11
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they 're
+2 	 4 	 (S[ng]\NP)/NP 	 1 	 they charging <XB>
+3 	 0 	 S/S 	 1 	 're Now
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 charging 're
+5 	 4 	 (S[ng]\NP)/NP 	 2 	 as charging
+5 	 7 	 (N\N)/N[num] 	 1 	 as $
+5 	 9 	 (NP\NP)/N 	 1 	 as a
+6 	 5 	 N/(S[adj]\NP) 	 1 	 little as
+8 	 7 	 (N\N)/N[num] 	 2 	 3 $
+10 	 9 	 (NP\NP)/N 	 2 	 day a
+<\s>
+<s id="wsj_0730.30"> 32
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they 're
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 they telling <XB>
+2 	 0 	 (S/S)/S[dcl] 	 2 	 're If
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 telling 're
+3 	 6 	 (S\NP)\(S\NP) 	 2 	 telling now
+5 	 3 	 (S[ng]\NP)/NP 	 2 	 truth telling
+5 	 4 	 NP[nb]/N 	 1 	 truth the
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 they 've
+9 	 12 	 (S[ng]\NP)/NP 	 1 	 they charging <XB>
+10 	 0 	 (S/S)/S[dcl] 	 1 	 've If
+10 	 8 	 S/S 	 1 	 've then
+10 	 21 	 (S[dcl]\S[dcl])/NP 	 1 	 've says
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been 've
+12 	 11 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 charging been
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 % charging
+14 	 13 	 N/N 	 1 	 % 300
+14 	 15 	 NP\NP 	 1 	 % more
+14 	 16 	 (NP\NP)/NP 	 1 	 % than
+17 	 16 	 (NP\NP)/NP 	 2 	 what than
+17 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 what is <XB>
+17 	 19 	 S[adj]\NP 	 1 	 what reasonable <XB>
+18 	 17 	 NP/(S[dcl]\NP) 	 1 	 is what
+19 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 reasonable is
+23 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 Gardner says
+23 	 22 	 N/N 	 1 	 Gardner Steve
+29 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 general says
+29 	 25 	 NP[nb]/N 	 1 	 general an
+29 	 26 	 N/N 	 1 	 general assistant
+29 	 27 	 N/N 	 1 	 general state
+29 	 28 	 N/N 	 1 	 general attorney
+29 	 30 	 (NP\NP)/NP 	 1 	 general in
+31 	 30 	 (NP\NP)/NP 	 2 	 Texas in
+<\s>
+<s id="wsj_0730.31"> 23
+1 	 0 	 NP[nb]/N 	 1 	 spokesman A
+1 	 2 	 (NP\NP)/NP 	 1 	 spokesman for
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman acknowledges
+4 	 2 	 (NP\NP)/NP 	 2 	 Corp. for
+4 	 3 	 N/N 	 1 	 Corp. Hertz
+8 	 7 	 NP[nb]/N 	 1 	 waiver The
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 waiver is
+9 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 is acknowledges
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 is n't
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 source is
+12 	 11 	 NP[nb]/N 	 1 	 source a
+12 	 13 	 (NP\NP)/NP 	 1 	 source of
+14 	 13 	 (NP\NP)/NP 	 2 	 protection of
+14 	 15 	 (NP\NP)/NP 	 1 	 protection for
+16 	 15 	 (NP\NP)/NP 	 2 	 consumers for
+20 	 9 	 (S[dcl]\NP)/NP 	 2 	 source is
+20 	 19 	 NP[nb]/N 	 1 	 source a
+20 	 21 	 (NP\NP)/NP 	 1 	 source of
+22 	 21 	 (NP\NP)/NP 	 2 	 revenue of
+<\s>
+<s id="wsj_0730.32"> 26
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Hertz points
+2 	 0 	 S/S 	 1 	 points But
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 points out
+4 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that points
+6 	 5 	 (S/S)/NP 	 2 	 least at
+7 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it 's
+7 	 10 	 (S[ng]\NP)/NP 	 1 	 it charging <XB>
+8 	 4 	 S[em]/S[dcl] 	 1 	 's that
+8 	 5 	 (S/S)/NP 	 1 	 's at
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 's now
+10 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 charging 's
+10 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 charging in
+10 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 charging while
+12 	 10 	 (S[ng]\NP)/NP 	 2 	 $ charging
+12 	 11 	 N/N 	 1 	 $ only
+12 	 14 	 (NP\NP)/N 	 1 	 $ a
+13 	 12 	 N/N[num] 	 1 	 3.95 $
+15 	 14 	 (NP\NP)/N 	 2 	 day a
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 Texas in
+21 	 20 	 NP[nb]/N 	 1 	 competitors some
+21 	 22 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 competitors are
+21 	 23 	 (S[ng]\NP)/NP 	 1 	 competitors charging <XB>
+22 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are while
+23 	 22 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 charging are
+24 	 23 	 (S[ng]\NP)/NP 	 2 	 $ charging
+25 	 24 	 N/N[num] 	 1 	 6.99 $
+<\s>
+<s id="wsj_0730.33"> 15
+3 	 0 	 NP[nb]/N 	 1 	 general The
+3 	 1 	 N/N 	 1 	 general state
+3 	 2 	 N/N 	 1 	 general attorney
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 general 's
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 office 's
+5 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 office is
+5 	 7 	 (S[ng]\NP)/NP 	 1 	 office investigating <XB>
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 investigating is
+10 	 7 	 (S[ng]\NP)/NP 	 2 	 agencies investigating
+10 	 8 	 N/N 	 1 	 agencies rental
+10 	 9 	 N/N 	 1 	 agencies car
+10 	 11 	 (S[ng]\NP)/NP 	 1 	 agencies charging <XB>
+13 	 12 	 (N/N)/(N/N) 	 2 	 higher noticeably
+14 	 11 	 (S[ng]\NP)/NP 	 2 	 prices charging
+14 	 13 	 N/N 	 1 	 prices higher
+<\s>
+<s id="wsj_0730.34"> 6
+1 	 0 	 N/N 	 1 	 Attendants Flight
+1 	 2 	 S[dcl]\NP 	 1 	 Attendants Lag
+2 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 Lag Before
+6 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 Land Before
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 Land Even
+<\s>
+<s id="wsj_0730.35"> 22
+3 	 1 	 N/N 	 1 	 attendant YOUR
+3 	 2 	 N/N 	 1 	 attendant FLIGHT
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 attendant seems
+3 	 7 	 (S[adj]\NP)\NP 	 1 	 attendant weary <XB>
+4 	 0 	 (S/S)/S[dcl] 	 2 	 seems IF
+6 	 5 	 NP[nb]/N 	 1 	 little a
+6 	 7 	 (S[adj]\NP)\NP 	 2 	 little weary
+7 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 weary seems
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it may
+9 	 11 	 (S[b]\NP)/S 	 1 	 it be <XB>
+10 	 0 	 (S/S)/S[dcl] 	 1 	 may IF
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+12 	 11 	 (S[b]\NP)/S 	 2 	 because be
+13 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he has
+13 	 18 	 S[ng]\NP 	 1 	 he working <XB>
+15 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 she has
+15 	 18 	 S[ng]\NP 	 1 	 she working <XB>
+16 	 12 	 S/S[dcl] 	 1 	 has because
+17 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+18 	 17 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 working been
+18 	 21 	 (S\NP)\(S\NP) 	 2 	 working hours
+21 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 hours 20
+21 	 20 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 hours straight
+<\s>
+<s id="wsj_0730.36"> 35
+2 	 0 	 NP[nb]/N 	 1 	 study A
+2 	 1 	 N/N 	 1 	 study recent
+2 	 3 	 (NP\NP)/NP 	 1 	 study for
+2 	 8 	 (S[dcl]\NP)/S[em] 	 1 	 study found
+7 	 3 	 (NP\NP)/NP 	 2 	 Administration for
+7 	 4 	 NP[nb]/N 	 1 	 Administration the
+7 	 5 	 N/N 	 1 	 Administration Federal
+7 	 6 	 N/N 	 1 	 Administration Aviation
+9 	 8 	 (S[dcl]\NP)/S[em] 	 2 	 that found
+11 	 10 	 N/N 	 1 	 airlines major
+11 	 13 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 1 	 airlines make
+13 	 9 	 S[em]/S[dcl] 	 1 	 make that
+13 	 12 	 (S\NP)/(S\NP) 	 2 	 make sometimes
+15 	 13 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 3 	 attendants make
+15 	 14 	 N/N 	 1 	 attendants flight
+15 	 16 	 (S[b]\NP)/NP 	 1 	 attendants work <XB>
+16 	 13 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 2 	 work make
+16 	 21 	 (S\NP)\(S\NP) 	 2 	 work straight
+16 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 work despite
+18 	 16 	 (S[b]\NP)/NP 	 2 	 hours work
+18 	 17 	 N/N 	 1 	 hours 16
+20 	 16 	 (S[b]\NP)/NP 	 2 	 more work
+23 	 22 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 despite --
+25 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 contracts despite
+25 	 24 	 N/N 	 1 	 contracts union
+25 	 26 	 (NP\NP)/NP 	 1 	 contracts at
+25 	 29 	 ((S[ng]\NP)/PP)/NP 	 1 	 contracts limiting <XB>
+28 	 26 	 (NP\NP)/NP 	 2 	 airlines at
+28 	 27 	 NP[nb]/N 	 1 	 airlines some
+31 	 29 	 ((S[ng]\NP)/PP)/NP 	 3 	 time limiting
+31 	 30 	 N/N 	 1 	 time duty
+32 	 29 	 ((S[ng]\NP)/PP)/NP 	 2 	 to limiting
+34 	 32 	 PP/NP 	 1 	 hours to
+34 	 33 	 N/N 	 1 	 hours 14
+<\s>
+<s id="wsj_0730.37"> 16
+2 	 0 	 NP[nb]/N 	 1 	 attendants Some
+2 	 1 	 N/N 	 1 	 attendants flight
+2 	 3 	 (NP\NP)/NP 	 1 	 attendants on
+2 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 attendants are
+2 	 7 	 (S[ng]\NP)/NP 	 1 	 attendants putting <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 planes on
+5 	 4 	 N/N 	 1 	 planes charter
+6 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 are found
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 putting are
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 putting in
+11 	 7 	 (S[ng]\NP)/NP 	 2 	 days putting
+11 	 9 	 N/N 	 1 	 days 20-hour
+11 	 10 	 N/N 	 1 	 days work
+14 	 13 	 NP[nb]/N 	 1 	 study the
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 study found
+<\s>
+<s id="wsj_0730.38"> 40
+0 	 1 	 S[dcl]\NP 	 1 	 This happens
+1 	 2 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 happens because
+4 	 3 	 NP[nb]/N 	 1 	 FAA the
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 FAA does
+4 	 7 	 (S[b]\NP)/NP 	 1 	 FAA have <XB>
+5 	 2 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 does because
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 does n't
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have does
+9 	 7 	 (S[b]\NP)/NP 	 2 	 rules have
+9 	 8 	 NP[nb]/N 	 1 	 rules any
+9 	 10 	 (NP\NP)/NP 	 1 	 rules on
+12 	 10 	 (NP\NP)/NP 	 2 	 time on
+12 	 11 	 N/N 	 1 	 time duty
+12 	 13 	 (NP\NP)/NP 	 1 	 time for
+15 	 13 	 (NP\NP)/NP 	 2 	 attendants for
+15 	 14 	 N/N 	 1 	 attendants flight
+18 	 17 	 (S/S)/NP 	 2 	 contrast by
+20 	 22 	 (S[dcl]\NP)/NP 	 1 	 it restricts
+22 	 17 	 (S/S)/NP 	 1 	 restricts by
+22 	 21 	 (S\NP)/(S\NP) 	 2 	 restricts strictly
+22 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 restricts to
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 time restricts
+24 	 23 	 N/N 	 1 	 time duty
+24 	 25 	 (NP\NP)/NP 	 1 	 time for
+26 	 25 	 (NP\NP)/NP 	 2 	 pilots for
+30 	 25 	 (NP\NP)/NP 	 2 	 controllers for
+30 	 28 	 N/N 	 1 	 controllers air
+30 	 29 	 N/N 	 1 	 controllers traffic
+33 	 32 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 to usually
+35 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 maximum to
+35 	 34 	 NP[nb]/N 	 1 	 maximum a
+35 	 36 	 (NP\NP)/NP 	 1 	 maximum of
+39 	 36 	 (NP\NP)/NP 	 2 	 hours of
+39 	 37 	 N/N 	 1 	 hours 10
+39 	 38 	 N/N 	 1 	 hours consecutive
+<\s>
+<s id="wsj_0730.39"> 31
+1 	 0 	 (S/S)/(S/S) 	 2 	 far As
+1 	 2 	 ((S/S)\(S/S))/S[dcl] 	 2 	 far as
+4 	 3 	 NP[nb]/N 	 1 	 FAA the
+4 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 FAA is
+4 	 6 	 S[pss]\NP 	 1 	 FAA concerned <XB>
+5 	 2 	 ((S/S)\(S/S))/S[dcl] 	 3 	 is as
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 concerned is
+10 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 Finucane says
+10 	 9 	 N/N 	 1 	 Finucane Matt
+14 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 director says
+14 	 12 	 N/N 	 1 	 director air
+14 	 13 	 N/N 	 1 	 director safety
+14 	 15 	 (NP\NP)/NP 	 1 	 director at
+17 	 15 	 (NP\NP)/NP 	 2 	 Association at
+17 	 16 	 NP[nb]/N 	 1 	 Association the
+17 	 18 	 (NP\NP)/NP 	 1 	 Association of
+20 	 18 	 (NP\NP)/NP 	 2 	 Attendants of
+20 	 19 	 N/N 	 1 	 Attendants Flight
+23 	 22 	 N/N 	 1 	 attendants flight
+23 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 attendants can
+23 	 25 	 (S[b]\NP)/NP 	 1 	 attendants work <XB>
+24 	 1 	 S/S 	 1 	 can far
+24 	 8 	 (S[dcl]\S[dcl])/NP 	 1 	 can says <XB>
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 work can
+28 	 25 	 (S[b]\NP)/NP 	 2 	 number work
+28 	 26 	 NP[nb]/N 	 1 	 number an
+28 	 27 	 N/N 	 1 	 number unlimited
+28 	 29 	 (NP\NP)/NP 	 1 	 number of
+30 	 29 	 (NP\NP)/NP 	 2 	 hours of
+<\s>
+<s id="wsj_0730.40"> 11
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Experts say
+4 	 2 	 NP/NP 	 1 	 hours such
+4 	 3 	 N/N 	 1 	 hours long
+4 	 5 	 (NP\NP)/NP 	 1 	 hours for
+4 	 7 	 (S[dcl]\NP)/NP 	 1 	 hours pose
+6 	 5 	 (NP\NP)/NP 	 2 	 attendants for
+7 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 pose say
+10 	 7 	 (S[dcl]\NP)/NP 	 2 	 risk pose
+10 	 8 	 NP[nb]/N 	 1 	 risk a
+10 	 9 	 N/N 	 1 	 risk safety
+<\s>
+<s id="wsj_0730.41"> 15
+1 	 0 	 (S/S)/NP 	 2 	 instance For
+5 	 3 	 N/N 	 1 	 attendants tired
+5 	 4 	 N/N 	 1 	 attendants flight
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 attendants might
+5 	 8 	 S[b]\NP 	 1 	 attendants react <XB>
+6 	 0 	 (S/S)/NP 	 1 	 might For
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 might not
+8 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 react might
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 react enough
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 react during
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 enough quickly
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 evacuation during
+14 	 12 	 NP[nb]/N 	 1 	 evacuation an
+14 	 13 	 N/N 	 1 	 evacuation emergency
+<\s>
+<s id="wsj_0730.42"> 29
+2 	 0 	 (S/S)/NP 	 2 	 end At
+2 	 1 	 NP[nb]/N 	 1 	 end the
+2 	 3 	 (NP\NP)/NP 	 1 	 end of
+5 	 3 	 (NP\NP)/NP 	 2 	 day of
+5 	 4 	 NP[nb]/N 	 1 	 day their
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 they are
+8 	 0 	 (S/S)/NP 	 1 	 are At
+8 	 11 	 (S[dcl]\S[dcl])/NP 	 1 	 are says
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 zombies are
+13 	 11 	 (S[dcl]\S[dcl])/NP 	 2 	 Galipault says
+13 	 12 	 N/N 	 1 	 Galipault John
+15 	 11 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+15 	 16 	 (NP\NP)/NP 	 1 	 president of
+20 	 16 	 (NP\NP)/NP 	 2 	 Institute of
+20 	 17 	 NP[nb]/N 	 1 	 Institute the
+20 	 18 	 N/N 	 1 	 Institute Aviation
+20 	 19 	 N/N 	 1 	 Institute Safety
+24 	 16 	 (NP\NP)/NP 	 2 	 group of
+24 	 22 	 NP[nb]/N 	 1 	 group a
+24 	 23 	 N/N 	 1 	 group public-interest
+24 	 25 	 (NP\NP)/NP 	 1 	 group in
+26 	 25 	 (NP\NP)/NP 	 2 	 Worthington in
+28 	 25 	 (NP\NP)/NP 	 2 	 Ohio in
+<\s>
+<s id="wsj_0730.43"> 20
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 They have
+0 	 3 	 (S[b]\NP)/NP 	 1 	 They work <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to have
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 work to
+6 	 3 	 (S[b]\NP)/NP 	 2 	 hours work
+6 	 4 	 NP/NP 	 1 	 hours such
+6 	 5 	 N/N 	 1 	 hours long
+9 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 we expect
+10 	 8 	 S/S 	 1 	 expect then
+11 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 them expect
+11 	 13 	 (S[b]\NP)/NP 	 1 	 them be <XB>
+12 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+13 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 be if
+14 	 13 	 (S[b]\NP)/NP 	 2 	 heroes be
+16 	 17 	 (S[dcl]\NP[thr])/NP 	 1 	 there 's
+17 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 's if
+19 	 17 	 (S[dcl]\NP[thr])/NP 	 2 	 evacuation 's
+19 	 18 	 NP[nb]/N 	 1 	 evacuation an
+<\s>
+<s id="wsj_0730.44"> 24
+1 	 0 	 (S/S)/NP 	 2 	 response In
+1 	 2 	 (NP\NP)/NP 	 1 	 response to
+4 	 2 	 (NP\NP)/NP 	 2 	 study to
+4 	 3 	 NP[nb]/N 	 1 	 study the
+7 	 6 	 NP[nb]/N 	 1 	 FAA the
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 FAA says
+8 	 0 	 (S/S)/NP 	 1 	 says In
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+9 	 11 	 (S[ng]\NP)/(S[ng]\NP) 	 1 	 it considering <XB>
+9 	 12 	 (S[ng]\NP)/NP 	 1 	 it changing <XB>
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 is says
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 considering is
+12 	 11 	 (S[ng]\NP)/(S[ng]\NP) 	 2 	 changing considering
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 policy changing
+14 	 13 	 NP[nb]/N 	 1 	 policy its
+14 	 21 	 (NP\NP)/NP 	 1 	 policy on
+17 	 12 	 (S[ng]\NP)/NP 	 2 	 lack changing
+17 	 18 	 (NP\NP)/NP 	 1 	 lack of
+17 	 21 	 (NP\NP)/NP 	 1 	 lack on
+19 	 18 	 (NP\NP)/NP 	 2 	 it of
+23 	 21 	 (NP\NP)/NP 	 2 	 attendants on
+23 	 22 	 N/N 	 1 	 attendants flight
+<\s>
+<s id="wsj_0730.45"> 37
+1 	 0 	 NP[nb]/N 	 1 	 agency The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 agency may
+1 	 4 	 (S[b]\NP)/NP 	 1 	 agency have <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 may not
+2 	 7 	 (S\S)/S[dcl] 	 1 	 may :
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have may
+6 	 4 	 (S[b]\NP)/NP 	 2 	 choice have
+6 	 5 	 N/N 	 1 	 choice much
+10 	 8 	 NP[nb]/N 	 1 	 bill A
+10 	 9 	 N/N 	 1 	 bill congressional
+10 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 bill has
+10 	 13 	 S[pss]\NP 	 1 	 bill introduced <XB>
+10 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bill would <XB>
+10 	 16 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 bill force <XB>
+11 	 7 	 (S\S)/S[dcl] 	 2 	 has :
+12 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+13 	 12 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 introduced been
+13 	 14 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 introduced that
+15 	 14 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 would that
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 force would
+18 	 16 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 agency force
+18 	 17 	 NP[nb]/N 	 1 	 agency the
+18 	 20 	 ((S[b]\NP)/PP)/NP 	 1 	 agency limit <XB>
+19 	 16 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to force
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 limit to
+24 	 20 	 ((S[b]\NP)/PP)/NP 	 3 	 time limit
+24 	 21 	 N/N 	 1 	 time flight
+24 	 22 	 N/N 	 1 	 time attendant
+24 	 23 	 N/N 	 1 	 time duty
+25 	 20 	 ((S[b]\NP)/PP)/NP 	 2 	 to limit
+27 	 25 	 PP/NP 	 1 	 hours to
+27 	 26 	 N/N 	 1 	 hours 14
+27 	 28 	 (NP\NP)/NP 	 1 	 hours on
+30 	 28 	 (NP\NP)/NP 	 2 	 flights on
+30 	 29 	 N/N 	 1 	 flights U.S.
+33 	 25 	 PP/NP 	 1 	 hours to
+33 	 32 	 N/N 	 1 	 hours 16
+33 	 34 	 (NP\NP)/NP 	 1 	 hours on
+36 	 34 	 (NP\NP)/NP 	 2 	 trips on
+36 	 35 	 N/N 	 1 	 trips international
+<\s>
+<s id="wsj_0730.46"> 2
+<\s>
+<s id="wsj_0730.47"> 12
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 GOLF HAS
+0 	 2 	 (S[b]\NP)/NP 	 1 	 GOLF BECOME <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 BECOME HAS
+5 	 2 	 (S[b]\NP)/NP 	 2 	 diversion BECOME
+5 	 3 	 NP[nb]/N 	 1 	 diversion the
+5 	 4 	 N/N 	 1 	 diversion latest
+5 	 6 	 (NP\NP)/NP 	 1 	 diversion for
+7 	 6 	 (NP\NP)/NP 	 2 	 travelers for
+7 	 8 	 S[pss]\NP 	 1 	 travelers stuck <XB>
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 stuck at
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 airports at
+11 	 10 	 NP[nb]/N 	 1 	 airports some
+<\s>
+<s id="wsj_0730.48"> 23
+2 	 0 	 N/N 	 1 	 games Simulated
+2 	 1 	 N/N 	 1 	 games golf
+2 	 5 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 games which
+2 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 games have
+2 	 15 	 S[pss]\NP 	 1 	 games installed <XB>
+4 	 5 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 players hit
+7 	 5 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 hit which
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 hit into
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 balls hit
+9 	 8 	 N/N 	 1 	 balls golf
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 nets into
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+15 	 14 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 installed been
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 installed at
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 airports at
+17 	 18 	 (NP\NP)/NP 	 1 	 airports in
+19 	 18 	 (NP\NP)/NP 	 2 	 Denver in
+21 	 18 	 (NP\NP)/NP 	 2 	 Pittsburgh in
+<\s>
+<s id="wsj_0730.49"> 22
+2 	 0 	 NP[nb]/N 	 1 	 cost The
+2 	 1 	 N/N 	 1 	 cost average
+2 	 3 	 (NP\NP)/NP 	 1 	 cost for
+2 	 5 	 (NP\NP)/NP 	 1 	 cost at
+2 	 13 	 (S[dcl]\NP)/NP 	 1 	 cost is
+4 	 3 	 (NP\NP)/NP 	 2 	 breakfast for
+9 	 5 	 (NP\NP)/NP 	 2 	 restaurant at
+9 	 6 	 NP[nb]/N 	 1 	 restaurant a
+9 	 7 	 N/N 	 1 	 restaurant decent
+9 	 8 	 N/N 	 1 	 restaurant hotel
+9 	 10 	 (NP\NP)/NP 	 1 	 restaurant in
+12 	 10 	 (NP\NP)/NP 	 2 	 York in
+12 	 11 	 N/N 	 1 	 York New
+13 	 17 	 ((S\NP)\(S\NP))/PP 	 2 	 is according
+14 	 13 	 (S[dcl]\NP)/NP 	 2 	 $ is
+15 	 14 	 N/N[num] 	 1 	 17.12 $
+18 	 17 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+21 	 18 	 PP/NP 	 1 	 magazine to
+21 	 19 	 N/N 	 1 	 magazine Corporate
+21 	 20 	 N/N 	 1 	 magazine Travel
+<\s>
+<s id="wsj_0730.50"> 16
+1 	 0 	 NP[nb]/N 	 1 	 cheapest The
+1 	 3 	 (NP\NP)/NP 	 1 	 cheapest among
+1 	 8 	 (S[dcl]\NP)/NP 	 1 	 cheapest was
+5 	 3 	 (NP\NP)/NP 	 2 	 cities among
+5 	 4 	 N/N 	 1 	 cities 100
+5 	 6 	 S[pss]\NP 	 1 	 cities surveyed <XB>
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 was in
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 $ was
+10 	 9 	 N/N[num] 	 1 	 5.11 $
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Paso in
+13 	 12 	 N/N 	 1 	 Paso El
+15 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Texas in
+<\s>

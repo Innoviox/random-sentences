@@ -1,0 +1,186 @@
+<s id="wsj_0483.1"> 28
+3 	 0 	 N/N 	 1 	 Inc. Bancroft
+3 	 1 	 N/N 	 1 	 Inc. Convertible
+3 	 2 	 N/N 	 1 	 Inc. Fund
+3 	 6 	 NP\NP 	 1 	 Inc. York
+3 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Inc. will
+3 	 10 	 (S[b]\NP)/NP 	 1 	 Inc. reject <XB>
+6 	 5 	 (NP\NP)/(NP\NP) 	 2 	 York New
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 will likely
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reject will
+13 	 10 	 (S[b]\NP)/NP 	 2 	 offer reject
+13 	 11 	 NP[nb]/N 	 1 	 offer a
+13 	 12 	 N/N 	 1 	 offer renewed
+13 	 14 	 (NP\NP)/NP 	 1 	 offer from
+19 	 14 	 (NP\NP)/NP 	 2 	 Green from
+19 	 15 	 N/N 	 1 	 Green Florida
+19 	 16 	 N/N 	 1 	 Green investor
+19 	 17 	 N/N 	 1 	 Green Robert
+19 	 18 	 N/N 	 1 	 Green I.
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+22 	 21 	 ((S[b]\NP)/PP)/NP 	 3 	 Bancroft buy
+23 	 21 	 ((S[b]\NP)/PP)/NP 	 2 	 for buy
+24 	 23 	 PP/NP 	 1 	 $ for
+24 	 26 	 (NP\NP)/N 	 1 	 $ a
+25 	 24 	 N/N[num] 	 1 	 18.95 $
+27 	 26 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0483.2"> 29
+1 	 0 	 N/N 	 1 	 Levine Sigmund
+1 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Levine said
+4 	 3 	 N/N 	 1 	 secretary Bancroft
+4 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 secretary said
+6 	 3 	 N/N 	 1 	 treasurer Bancroft
+6 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 treasurer said
+11 	 9 	 NP[nb]/N 	 1 	 fund the
+11 	 10 	 N/N 	 1 	 fund closed-end
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 fund 's
+13 	 12 	 (NP[nb]/N)\NP 	 1 	 directors 's
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 directors will
+13 	 15 	 (S[b]\NP)/NP 	 1 	 directors consider <XB>
+14 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 consider will
+15 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 consider in
+15 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 consider at
+17 	 16 	 N/N 	 1 	 Green Mr.
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 Green 's
+19 	 15 	 (S[b]\NP)/NP 	 2 	 offer consider
+19 	 18 	 (NP[nb]/N)\NP 	 1 	 offer 's
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 couple in
+22 	 21 	 NP[nb]/N 	 1 	 couple a
+22 	 23 	 (NP\NP)/NP 	 1 	 couple of
+24 	 23 	 (NP\NP)/NP 	 2 	 weeks of
+28 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 meeting at
+28 	 26 	 NP[nb]/N 	 1 	 meeting a
+28 	 27 	 N/N 	 1 	 meeting regular
+<\s>
+<s id="wsj_0483.3"> 20
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 He has
+0 	 3 	 (S[pt]\NP)/NP 	 1 	 He added <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 has n't
+1 	 8 	 (S[dcl]\S[dcl])\NP 	 1 	 has said
+3 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 added has
+4 	 3 	 (S[pt]\NP)/NP 	 2 	 anything added
+7 	 6 	 N/N 	 1 	 Levine Mr.
+7 	 8 	 (S[dcl]\S[dcl])\NP 	 2 	 Levine said
+12 	 11 	 NP[nb]/N 	 1 	 board the
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 board will
+12 	 15 	 (S[b]\NP)/NP 	 1 	 board reject <XB>
+13 	 10 	 (S[ng]\NP)/S[dcl] 	 2 	 will predicting
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 will again
+15 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reject will
+17 	 16 	 N/N 	 1 	 Green Mr.
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 Green 's
+19 	 15 	 (S[b]\NP)/NP 	 2 	 proposal reject
+19 	 18 	 (NP[nb]/N)\NP 	 1 	 proposal 's
+<\s>
+<s id="wsj_0483.4"> 38
+6 	 0 	 (S/S)/NP 	 2 	 filing In
+6 	 1 	 NP[nb]/N 	 1 	 filing a
+6 	 2 	 N/N 	 1 	 filing Securities
+6 	 4 	 N/N 	 1 	 filing Exchange
+6 	 5 	 N/N 	 1 	 filing Commission
+9 	 8 	 N/N 	 1 	 Green Mr.
+9 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 Green said
+10 	 0 	 (S/S)/NP 	 1 	 said In
+11 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he had
+11 	 13 	 (S[pt]\NP)/NP 	 1 	 he boosted <XB>
+11 	 27 	 (S[pt]\NP)/NP 	 1 	 he renewed <XU>
+12 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+13 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 boosted had
+13 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 boosted to
+13 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 boosted from
+15 	 13 	 (S[pt]\NP)/NP 	 2 	 holdings boosted
+15 	 14 	 NP[nb]/N 	 1 	 holdings his
+15 	 16 	 (NP\NP)/NP 	 1 	 holdings in
+18 	 16 	 (NP\NP)/NP 	 2 	 common in
+18 	 17 	 N/N 	 1 	 common Bancroft
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+21 	 20 	 N/N 	 1 	 % 10.4
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 % from
+24 	 23 	 N/N 	 1 	 % 8.5
+27 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 renewed had
+29 	 27 	 (S[pt]\NP)/NP 	 2 	 offer renewed
+29 	 28 	 NP[nb]/N 	 1 	 offer an
+29 	 31 	 (S[dcl]\NP)/NP 	 2 	 offer made <XU>
+30 	 31 	 (S[dcl]\NP)/NP 	 1 	 he made
+31 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 made in
+33 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 March in
+35 	 34 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+37 	 35 	 (S[b]\NP)/NP 	 2 	 fund acquire
+37 	 36 	 NP[nb]/N 	 1 	 fund the
+<\s>
+<s id="wsj_0483.5"> 23
+1 	 0 	 N/N 	 1 	 Levine Mr.
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Levine noted
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that noted
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Bancroft 's
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 shares 's
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 shares have
+6 	 9 	 (S[ng]\NP)/PP 	 1 	 shares trading <XB>
+7 	 3 	 S[em]/S[dcl] 	 1 	 have that
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+9 	 8 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 trading been
+9 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 trading for
+10 	 9 	 (S[ng]\NP)/PP 	 2 	 at trading
+12 	 9 	 (S[ng]\NP)/PP 	 2 	 above trading
+14 	 13 	 N/N 	 1 	 Green Mr.
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 Green 's
+17 	 10 	 PP/NP 	 1 	 price at <XU>
+17 	 12 	 PP/NP 	 1 	 price above
+17 	 15 	 (NP[nb]/N)\NP 	 1 	 price 's
+17 	 16 	 N/N 	 1 	 price offering
+22 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 months for
+22 	 19 	 NP[nb]/N 	 1 	 months the
+22 	 20 	 N/N 	 1 	 months last
+22 	 21 	 N/N 	 1 	 months several
+<\s>
+<s id="wsj_0483.6"> 38
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+3 	 2 	 N/N 	 1 	 attorneys Bancroft
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 attorneys are
+3 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 attorneys scheduled <XB>
+3 	 7 	 S[b]\NP 	 1 	 attorneys meet <XB>
+3 	 24 	 (S[b]\NP)/PP 	 1 	 attorneys respond <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 scheduled are
+6 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to scheduled
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 meet with
+7 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 meet in
+7 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 meet at
+10 	 9 	 N/N 	 1 	 Green Mr.
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Green 's
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 attorneys with
+12 	 11 	 (NP[nb]/N)\NP 	 1 	 attorneys 's
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Court in
+16 	 14 	 N/N 	 1 	 Court Delaware
+16 	 15 	 N/N 	 1 	 Court Chancery
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 end at
+19 	 18 	 NP[nb]/N 	 1 	 end the
+19 	 20 	 (NP\NP)/NP 	 1 	 end of
+22 	 20 	 (NP\NP)/NP 	 2 	 week of
+22 	 21 	 NP[nb]/N 	 1 	 week this
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 respond to
+25 	 24 	 (S[b]\NP)/PP 	 2 	 to respond
+27 	 26 	 NP[nb]/N 	 1 	 investor the
+27 	 28 	 (NP[nb]/N)\NP 	 2 	 investor 's
+29 	 25 	 PP/NP 	 1 	 request to
+29 	 28 	 (NP[nb]/N)\NP 	 1 	 request 's
+29 	 30 	 (NP\NP)/NP 	 1 	 request for
+32 	 30 	 (NP\NP)/NP 	 2 	 records for
+32 	 31 	 N/N 	 1 	 records company
+32 	 33 	 (NP\NP)/NP 	 1 	 records for
+37 	 33 	 (NP\NP)/NP 	 2 	 years for
+37 	 34 	 NP[nb]/N 	 1 	 years the
+37 	 35 	 N/N 	 1 	 years past
+37 	 36 	 N/N 	 1 	 years five
+<\s>
+<s id="wsj_0483.7"> 6
+1 	 0 	 N/N 	 1 	 Green Mr.
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Green could
+1 	 5 	 S[pss]\NP 	 1 	 Green reached <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 could n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reached be
+<\s>

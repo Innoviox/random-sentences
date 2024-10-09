@@ -1,0 +1,302 @@
+<s id="wsj_1672.1"> 10
+6 	 0 	 N/N 	 1 	 income Union
+6 	 1 	 N/N 	 1 	 income Pacific
+6 	 2 	 N/N 	 1 	 income Corp
+6 	 4 	 N/N 	 1 	 income third-quarter
+6 	 5 	 N/N 	 1 	 income net
+6 	 7 	 S[dcl]\NP 	 1 	 income fell
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 fell %
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 17
+<\s>
+<s id="wsj_1672.2"> 14
+1 	 0 	 (S[ng]\NP)/NP 	 2 	 earnings Excluding
+1 	 2 	 (NP\NP)/NP 	 1 	 earnings from
+4 	 2 	 (NP\NP)/NP 	 2 	 operations from
+4 	 3 	 N/N 	 1 	 operations discontinued
+4 	 7 	 (NP\NP)\NP 	 1 	 operations earlier
+6 	 5 	 NP[nb]/N 	 1 	 year a
+6 	 7 	 (NP\NP)\NP 	 2 	 year earlier
+9 	 10 	 S[dcl]\NP 	 1 	 net fell
+10 	 13 	 (S\NP)\(S\NP) 	 2 	 fell %
+12 	 11 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))) 	 4 	 2 only
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 2
+<\s>
+<s id="wsj_1672.3"> 36
+7 	 0 	 NP[nb]/N 	 1 	 concern The
+7 	 1 	 N/N 	 1 	 concern energy
+7 	 3 	 N/N 	 1 	 concern natural
+7 	 4 	 N/N 	 1 	 concern resources
+7 	 6 	 N/N 	 1 	 concern railroad
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 concern had
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 net had
+9 	 10 	 (NP\NP)/NP 	 1 	 net of
+11 	 10 	 (NP\NP)/NP 	 2 	 $ of
+11 	 21 	 (NP\NP)/PP 	 1 	 $ down
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 137.4
+16 	 10 	 (NP\NP)/NP 	 2 	 $ of
+16 	 18 	 (NP\NP)/N 	 1 	 $ a
+16 	 21 	 (NP\NP)/PP 	 1 	 $ down
+17 	 16 	 N/N[num] 	 1 	 1.35 $
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+22 	 21 	 (NP\NP)/PP 	 2 	 from down
+22 	 35 	 (PP\PP)\NP 	 1 	 from earlier
+23 	 22 	 PP/NP 	 1 	 $ from
+25 	 23 	 N/N[num] 	 1 	 million $
+25 	 24 	 N/N 	 1 	 million 165
+28 	 22 	 PP/NP 	 1 	 $ from
+28 	 30 	 (NP\NP)/N 	 1 	 $ a
+29 	 28 	 N/N[num] 	 1 	 1.44 $
+31 	 30 	 (NP\NP)/N 	 2 	 share a
+34 	 33 	 NP[nb]/N 	 1 	 year a
+34 	 35 	 (PP\PP)\NP 	 2 	 year earlier
+<\s>
+<s id="wsj_1672.4"> 14
+4 	 0 	 (S/S)/NP 	 2 	 quarter In
+4 	 1 	 NP[nb]/N 	 1 	 quarter the
+4 	 2 	 N/N 	 1 	 quarter 1988
+4 	 3 	 N/N 	 1 	 quarter third
+6 	 7 	 (NP\NP)/NP 	 1 	 profit from
+6 	 10 	 (S[dcl]\NP)/NP 	 1 	 profit totaled
+9 	 7 	 (NP\NP)/NP 	 2 	 operations from
+9 	 8 	 N/N 	 1 	 operations continuing
+10 	 0 	 (S/S)/NP 	 1 	 totaled In
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 $ totaled
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 140.1
+<\s>
+<s id="wsj_1672.5"> 30
+1 	 0 	 NP[nb]/N 	 1 	 year A
+1 	 2 	 (S/S)\NP 	 2 	 year earlier
+5 	 4 	 NP[nb]/N 	 1 	 company the
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 company had
+6 	 2 	 (S/S)\NP 	 1 	 had earlier
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 profit had
+7 	 8 	 (NP\NP)/NP 	 1 	 profit from
+7 	 11 	 (NP\NP)/NP 	 1 	 profit of
+10 	 8 	 (NP\NP)/NP 	 2 	 operations from
+10 	 9 	 N/N 	 1 	 operations discontinued
+12 	 11 	 (NP\NP)/NP 	 2 	 $ of
+12 	 15 	 (NP\NP)/NP 	 1 	 $ from
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 24.9
+16 	 15 	 (NP\NP)/NP 	 2 	 sale from
+16 	 17 	 (NP\NP)/NP 	 1 	 sale of
+19 	 17 	 (NP\NP)/NP 	 2 	 pipeline of
+19 	 18 	 NP[nb]/N 	 1 	 pipeline a
+22 	 17 	 (NP\NP)/NP 	 2 	 refinery of
+22 	 21 	 NP[nb]/N 	 1 	 refinery a
+25 	 17 	 (NP\NP)/NP 	 2 	 interest of
+25 	 24 	 NP[nb]/N 	 1 	 interest an
+25 	 26 	 (NP\NP)/NP 	 1 	 interest in
+29 	 26 	 (NP\NP)/NP 	 2 	 refinery in
+29 	 27 	 NP[nb]/N 	 1 	 refinery a
+29 	 28 	 N/N 	 1 	 refinery second
+<\s>
+<s id="wsj_1672.6"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Revenue rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 2
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 1.58
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 1.54
+<\s>
+<s id="wsj_1672.7"> 20
+2 	 0 	 (S/S)/NP 	 2 	 trading In
+2 	 1 	 N/N 	 1 	 trading composite
+2 	 3 	 (NP\NP)/NP 	 1 	 trading on
+8 	 3 	 (NP\NP)/NP 	 2 	 Exchange on
+8 	 4 	 NP[nb]/N 	 1 	 Exchange the
+8 	 5 	 N/N 	 1 	 Exchange New
+8 	 6 	 N/N 	 1 	 Exchange York
+8 	 7 	 N/N 	 1 	 Exchange Stock
+11 	 10 	 N/N 	 1 	 Pacific Union
+11 	 12 	 S[dcl]\NP 	 1 	 Pacific jumped
+12 	 0 	 (S/S)/NP 	 1 	 jumped In
+12 	 13 	 ((S\NP)\(S\NP))/N[num] 	 2 	 jumped $
+12 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 jumped to
+14 	 13 	 ((S\NP)\(S\NP))/N[num] 	 3 	 1.375 $
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+16 	 18 	 (NP\NP)/N 	 1 	 $ a
+17 	 16 	 N/N[num] 	 1 	 75 $
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_1672.8"> 30
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+6 	 3 	 NP[nb]/N 	 1 	 Railroad its
+6 	 4 	 N/N 	 1 	 Railroad Union
+6 	 5 	 N/N 	 1 	 Railroad Pacific
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 Railroad had
+7 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+7 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 had despite
+10 	 9 	 (N/N)/(N/N) 	 2 	 % 3
+12 	 7 	 (S[dcl]\NP)/NP 	 2 	 increase had
+12 	 8 	 NP[nb]/N 	 1 	 increase a
+12 	 10 	 N/N 	 1 	 increase %
+12 	 11 	 N/N 	 1 	 increase profit
+17 	 16 	 (N/N)/(N/N) 	 2 	 % 14
+18 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 rise despite
+18 	 15 	 NP[nb]/N 	 1 	 rise a
+18 	 17 	 N/N 	 1 	 rise %
+18 	 19 	 (NP\NP)/NP 	 1 	 rise in
+21 	 19 	 (NP\NP)/NP 	 2 	 costs in
+21 	 20 	 N/N 	 1 	 costs fuel
+25 	 24 	 (N/N)/(N/N) 	 2 	 % 4
+26 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 drop despite
+26 	 23 	 NP[nb]/N 	 1 	 drop a
+26 	 25 	 N/N 	 1 	 drop %
+26 	 27 	 (NP\NP)/NP 	 1 	 drop in
+29 	 27 	 (NP\NP)/NP 	 2 	 loadings in
+29 	 28 	 N/N 	 1 	 loadings car
+<\s>
+<s id="wsj_1672.9"> 11
+0 	 1 	 (NP\NP)/NP 	 1 	 Most of
+0 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Most was
+0 	 6 	 S[adj]\NP 	 1 	 Most off <XB>
+4 	 1 	 (NP\NP)/NP 	 2 	 traffic of
+4 	 2 	 NP[nb]/N 	 1 	 traffic the
+4 	 3 	 N/N 	 1 	 traffic commodity
+5 	 10 	 (S[dcl]\S[dcl])\NP 	 1 	 was said
+6 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 off was
+9 	 8 	 NP[nb]/N 	 1 	 company the
+9 	 10 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>
+<s id="wsj_1672.10"> 16
+0 	 1 	 (NP\NP)/NP 	 1 	 Earnings from
+0 	 11 	 S[dcl]\NP 	 1 	 Earnings doubled
+3 	 1 	 (NP\NP)/NP 	 2 	 operations from
+3 	 2 	 N/N 	 1 	 operations continuing
+3 	 4 	 (NP\NP)/NP 	 1 	 operations of
+9 	 4 	 (NP\NP)/NP 	 2 	 unit of
+9 	 5 	 NP[nb]/N 	 1 	 unit the
+9 	 6 	 N/N 	 1 	 unit Union
+9 	 7 	 N/N 	 1 	 unit Pacific
+9 	 8 	 N/N 	 1 	 unit Resources
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 doubled almost
+11 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 doubled said
+14 	 13 	 NP[nb]/N 	 1 	 company the
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>
+<s id="wsj_1672.11"> 26
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 It added
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that added
+4 	 3 	 N/N 	 1 	 revenue higher
+4 	 15 	 (S[dcl]\NP)/NP 	 1 	 revenue offset
+9 	 6 	 N/N 	 1 	 prices strong
+9 	 7 	 N/N 	 1 	 prices crude
+9 	 8 	 N/N 	 1 	 prices oil
+9 	 15 	 (S[dcl]\NP)/NP 	 1 	 prices offset
+14 	 11 	 N/N 	 1 	 prices higher
+14 	 12 	 N/N 	 1 	 prices natural
+14 	 13 	 N/N 	 1 	 prices gas
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 prices offset
+15 	 2 	 S[em]/S[dcl] 	 1 	 offset that
+16 	 15 	 (S[dcl]\NP)/NP 	 2 	 declines offset
+16 	 17 	 (NP\NP)/NP 	 1 	 declines in
+18 	 17 	 (NP\NP)/NP 	 2 	 production in
+18 	 19 	 (NP\NP)/NP 	 1 	 production of
+25 	 19 	 (NP\NP)/NP 	 2 	 liquids of
+25 	 20 	 N/N 	 1 	 liquids oil
+25 	 22 	 N/N 	 1 	 liquids gas
+25 	 24 	 N/N 	 1 	 liquids plant
+<\s>
+<s id="wsj_1672.12"> 11
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+4 	 3 	 NP[nb]/N 	 1 	 company the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 company cited
+5 	 0 	 (S/S)/NP 	 1 	 cited In
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 moves cited
+7 	 6 	 N/N 	 1 	 moves cost-reduction
+10 	 5 	 (S[dcl]\NP)/NP 	 2 	 income cited
+10 	 9 	 N/N 	 1 	 income interest
+<\s>
+<s id="wsj_1672.13"> 12
+0 	 1 	 (NP\NP)/NP 	 1 	 Earnings from
+0 	 5 	 S[dcl]\NP 	 1 	 Earnings dropped
+4 	 1 	 (NP\NP)/NP 	 2 	 Realty from
+4 	 2 	 N/N 	 1 	 Realty Union
+4 	 3 	 N/N 	 1 	 Realty Pacific
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 dropped %
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped to
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 50
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 3
+<\s>
+<s id="wsj_1672.14"> 18
+2 	 0 	 (S/S)/NP 	 2 	 will Before
+2 	 1 	 N/N 	 1 	 will good
+6 	 4 	 N/N 	 1 	 earnings Overnite
+6 	 5 	 N/N 	 1 	 earnings Transportation
+6 	 7 	 S[dcl]\NP 	 1 	 earnings fell
+7 	 0 	 (S/S)/NP 	 1 	 fell Before
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 fell %
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+7 	 17 	 (S[dcl]\S[dcl])\NP 	 1 	 fell said
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 11
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 15
+16 	 15 	 N/N 	 1 	 Pacific Union
+16 	 17 	 (S[dcl]\S[dcl])\NP 	 2 	 Pacific said
+<\s>
+<s id="wsj_1672.15"> 34
+3 	 0 	 (S/S)/NP 	 2 	 months In
+3 	 1 	 NP[nb]/N 	 1 	 months the
+3 	 2 	 N/N 	 1 	 months nine
+5 	 6 	 S[dcl]\NP 	 1 	 net fell
+6 	 0 	 (S/S)/NP 	 1 	 fell In
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 fell %
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+6 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 6.3
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 427.7
+15 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+15 	 17 	 (NP\NP)/N 	 1 	 $ a
+16 	 15 	 N/N[num] 	 1 	 3.98 $
+18 	 17 	 (NP\NP)/N 	 2 	 share a
+20 	 33 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 3 	 from earlier
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 456.4
+26 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+26 	 28 	 (NP\NP)/N 	 1 	 $ a
+27 	 26 	 N/N[num] 	 1 	 4 $
+29 	 28 	 (NP\NP)/N 	 2 	 share a
+32 	 31 	 NP[nb]/N 	 1 	 year a
+32 	 33 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 4 	 year earlier
+<\s>
+<s id="wsj_1672.16"> 12
+0 	 1 	 (NP\NP)/NP 	 1 	 Profit from
+0 	 4 	 (NP\NP)/NP 	 1 	 Profit in
+0 	 8 	 (S[dcl]\NP)/NP 	 1 	 Profit was
+3 	 1 	 (NP\NP)/NP 	 2 	 operations from
+3 	 2 	 N/N 	 1 	 operations continuing
+7 	 4 	 (NP\NP)/NP 	 2 	 period in
+7 	 5 	 NP[nb]/N 	 1 	 period the
+7 	 6 	 N/N 	 1 	 period year-earlier
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 $ was
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 402.7
+<\s>
+<s id="wsj_1672.17"> 13
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Revenue was
+1 	 6 	 (((S\NP)\(S\NP))/PP)/NP 	 2 	 was up
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 $ was
+4 	 2 	 N/N[num] 	 1 	 billion $
+4 	 3 	 N/N 	 1 	 billion 4.75
+8 	 6 	 (((S\NP)\(S\NP))/PP)/NP 	 4 	 % up
+8 	 7 	 N/N 	 1 	 % 6
+9 	 6 	 (((S\NP)\(S\NP))/PP)/NP 	 3 	 from up
+10 	 9 	 PP/NP 	 1 	 $ from
+12 	 10 	 N/N[num] 	 1 	 billion $
+12 	 11 	 N/N 	 1 	 billion 4.49
+<\s>

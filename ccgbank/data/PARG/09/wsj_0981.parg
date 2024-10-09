@@ -1,0 +1,477 @@
+<s id="wsj_0981.1"> 40
+2 	 0 	 N/N 	 1 	 Inc. MGM
+2 	 1 	 N/N 	 1 	 Inc. Grand
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Inc. has
+2 	 4 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Inc. agreed <XB>
+2 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 Inc. pay <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 agreed has
+5 	 4 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to agreed
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+7 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 $ pay
+7 	 17 	 (S[b]\NP)/NP 	 1 	 $ buy <XB>
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 93
+13 	 11 	 (N/N)/(N/N) 	 2 	 million nearly
+13 	 12 	 (N/N)/(N/N) 	 2 	 million 1.8
+15 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 shares pay
+15 	 13 	 N/N 	 1 	 shares million
+15 	 14 	 N/N 	 1 	 shares common
+15 	 17 	 (S[b]\NP)/NP 	 1 	 shares buy <XB>
+16 	 6 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to pay
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+17 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 buy as
+19 	 17 	 (S[b]\NP)/NP 	 2 	 acres buy
+19 	 18 	 N/N 	 1 	 acres 117
+19 	 20 	 (NP\NP)/NP 	 1 	 acres of
+21 	 20 	 (NP\NP)/NP 	 2 	 land of
+21 	 22 	 (NP\NP)/NP 	 1 	 land along
+27 	 24 	 (N/N)/(N/N) 	 2 	 Nev. Las
+27 	 25 	 (N/N)/(N/N) 	 2 	 Nev. Vegas
+29 	 22 	 (NP\NP)/NP 	 2 	 Strip along
+29 	 23 	 NP[nb]/N 	 1 	 Strip the
+29 	 27 	 N/N 	 1 	 Strip Nev.
+32 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 site as
+32 	 31 	 NP[nb]/N 	 1 	 site a
+32 	 33 	 (NP\NP)/NP 	 1 	 site for
+39 	 33 	 (NP\NP)/NP 	 2 	 resort for
+39 	 34 	 NP[nb]/N 	 1 	 resort its
+39 	 35 	 N/N 	 1 	 resort planned
+39 	 36 	 N/N 	 1 	 resort movie-studio <XU>
+39 	 38 	 N/N 	 1 	 resort theme-park
+<\s>
+<s id="wsj_0981.2"> 42
+4 	 0 	 (S/S)/NP 	 2 	 price Of
+4 	 1 	 NP[nb]/N 	 1 	 price the
+4 	 2 	 N/N 	 1 	 price total
+4 	 3 	 N/N 	 1 	 price purchase
+8 	 6 	 (N/N)/N[num] 	 2 	 million $
+8 	 7 	 N/N 	 1 	 million 50
+9 	 6 	 (N/N)/N[num] 	 1 	 cash $
+9 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 cash would
+9 	 24 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 cash paid <XB>
+9 	 26 	 ((S[b]\NP)/PP)/NP 	 1 	 cash buy <XB>
+11 	 14 	 (NP\NP)/NP 	 1 	 $ in
+11 	 16 	 (NP\NP)/NP 	 1 	 $ -LRB-
+11 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 $ would
+11 	 24 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 $ paid <XB>
+11 	 26 	 ((S[b]\NP)/PP)/NP 	 1 	 $ buy <XB>
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 30
+15 	 14 	 (NP\NP)/NP 	 2 	 stock in
+19 	 17 	 (N/N)/(N/N) 	 2 	 million nearly
+19 	 18 	 (N/N)/(N/N) 	 2 	 million 1.8
+20 	 16 	 (NP\NP)/NP 	 2 	 shares -LRB-
+20 	 19 	 N/N 	 1 	 shares million
+22 	 0 	 (S/S)/NP 	 1 	 would Of
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+24 	 23 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 paid be
+25 	 24 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to paid
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+33 	 26 	 ((S[b]\NP)/PP)/NP 	 3 	 Casino buy
+33 	 27 	 NP[nb]/N 	 1 	 Casino the
+33 	 28 	 N/N 	 1 	 Casino existing
+33 	 29 	 N/N 	 1 	 Casino 700-room
+33 	 30 	 N/N 	 1 	 Casino Marina
+33 	 31 	 N/N 	 1 	 Casino Hotel
+33 	 32 	 N/N 	 1 	 Casino &
+34 	 26 	 ((S[b]\NP)/PP)/NP 	 2 	 from buy
+36 	 34 	 PP/NP 	 1 	 Securities from
+36 	 35 	 N/N 	 1 	 Securities Southwest
+41 	 34 	 PP/NP 	 1 	 partnership from
+41 	 38 	 NP[nb]/N 	 1 	 partnership a
+41 	 39 	 N/N 	 1 	 partnership Nevada
+41 	 40 	 N/N 	 1 	 partnership limited
+<\s>
+<s id="wsj_0981.3"> 45
+2 	 0 	 NP[nb]/N 	 1 	 properties The
+2 	 1 	 N/N 	 1 	 properties remaining
+2 	 6 	 (S[dcl]\NP)/NP 	 1 	 properties are
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 acquired be
+13 	 6 	 (S[dcl]\NP)/NP 	 2 	 Course are
+13 	 7 	 NP[nb]/N 	 1 	 Course the
+13 	 8 	 N/N 	 1 	 Course Tropicana
+13 	 9 	 N/N 	 1 	 Course Country
+13 	 10 	 N/N 	 1 	 Course Club
+13 	 11 	 N/N 	 1 	 Course &
+13 	 12 	 N/N 	 1 	 Course Golf
+16 	 6 	 (S[dcl]\NP)/NP 	 2 	 facility are
+16 	 15 	 NP[nb]/N 	 1 	 facility a
+16 	 18 	 S[pss]\NP 	 1 	 facility owned <XB>
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 owned jointly
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 owned by
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 Inc. by
+21 	 20 	 N/N 	 1 	 Inc. Ramada
+21 	 23 	 (NP\NP)/NP 	 1 	 Inc. of
+24 	 23 	 (NP\NP)/NP 	 2 	 Phoenix of
+26 	 23 	 (NP\NP)/NP 	 2 	 Ariz. of
+31 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 family by
+31 	 29 	 NP[nb]/N 	 1 	 family the
+31 	 30 	 N/N 	 1 	 family Jaffe
+36 	 6 	 (S[dcl]\NP)/NP 	 2 	 parcel are
+36 	 34 	 NP[nb]/N 	 1 	 parcel a
+36 	 35 	 N/N 	 1 	 parcel small
+36 	 37 	 S[pss]\NP 	 1 	 parcel owned <XB>
+37 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 owned by
+44 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 Aljian by
+44 	 39 	 N/N 	 1 	 Aljian MGM
+44 	 40 	 N/N 	 1 	 Aljian Grand
+44 	 41 	 N/N 	 1 	 Aljian director
+44 	 42 	 N/N 	 1 	 Aljian James
+44 	 43 	 N/N 	 1 	 Aljian D.
+<\s>
+<s id="wsj_0981.4"> 23
+2 	 0 	 NP[nb]/N 	 1 	 price The
+2 	 1 	 N/N 	 1 	 price purchase
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 price was
+2 	 4 	 S[pss]\NP 	 1 	 price disclosed <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 disclosed was
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 disclosed in
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 prospectus in
+8 	 6 	 NP[nb]/N 	 1 	 prospectus a
+8 	 7 	 N/N 	 1 	 prospectus preliminary
+8 	 9 	 S[pss]\NP 	 1 	 prospectus issued <XB>
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 issued in
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 connection in
+11 	 12 	 (NP\NP)/NP 	 1 	 connection with
+14 	 13 	 N/N 	 1 	 Grand MGM
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 Grand 's
+17 	 12 	 (NP\NP)/NP 	 2 	 offering with
+17 	 15 	 (NP[nb]/N)\NP 	 1 	 offering 's
+17 	 16 	 N/N 	 1 	 offering planned
+17 	 18 	 (NP\NP)/NP 	 1 	 offering of
+20 	 19 	 (N/N)/(N/N) 	 2 	 million six
+22 	 18 	 (NP\NP)/NP 	 2 	 shares of
+22 	 20 	 N/N 	 1 	 shares million
+22 	 21 	 N/N 	 1 	 shares common
+<\s>
+<s id="wsj_0981.5"> 35
+2 	 0 	 NP[nb]/N 	 1 	 airline The
+2 	 1 	 N/N 	 1 	 airline luxury
+2 	 7 	 S[adj]\NP 	 1 	 airline 98.6%-owned <XB>
+2 	 20 	 (S[dcl]\NP)/NP 	 1 	 airline announced
+2 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 airline did <XU>
+2 	 31 	 (S[b]\NP)/NP 	 1 	 airline disclose <XU>
+5 	 0 	 NP[nb]/N 	 1 	 company The
+5 	 1 	 N/N 	 1 	 company luxury
+5 	 4 	 N/N 	 1 	 company casino
+5 	 7 	 S[adj]\NP 	 1 	 company 98.6%-owned <XB>
+5 	 20 	 (S[dcl]\NP)/NP 	 1 	 company announced
+5 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 company did <XU>
+5 	 31 	 (S[b]\NP)/NP 	 1 	 company disclose <XU>
+7 	 8 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 98.6%-owned by
+11 	 8 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 Kerkorian by
+11 	 9 	 N/N 	 1 	 Kerkorian investor
+11 	 10 	 N/N 	 1 	 Kerkorian Kirk
+15 	 8 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 Corp. by
+15 	 13 	 NP[nb]/N 	 1 	 Corp. his
+15 	 14 	 N/N 	 1 	 Corp. Tracinda
+18 	 17 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 this earlier
+19 	 18 	 ((S\NP)/(S\NP))/N 	 3 	 month this
+20 	 18 	 ((S\NP)/(S\NP))/N 	 2 	 announced this
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 agreements announced
+22 	 21 	 NP[nb]/N 	 1 	 agreements its
+22 	 24 	 (S[b]\NP)/NP 	 1 	 agreements acquire <XB>
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+26 	 24 	 (S[b]\NP)/NP 	 2 	 properties acquire
+26 	 25 	 NP[nb]/N 	 1 	 properties the
+29 	 18 	 ((S\NP)/(S\NP))/N 	 2 	 did this
+29 	 30 	 (S\NP)\(S\NP) 	 2 	 did n't
+31 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 disclose did
+34 	 31 	 (S[b]\NP)/NP 	 2 	 price disclose
+34 	 32 	 NP[nb]/N 	 1 	 price the
+34 	 33 	 N/N 	 1 	 price purchase
+<\s>
+<s id="wsj_0981.6"> 47
+3 	 0 	 NP[nb]/N 	 1 	 offering The
+3 	 1 	 N/N 	 1 	 offering proposed
+3 	 2 	 N/N 	 1 	 offering stock
+3 	 12 	 (NP\NP)/NP 	 1 	 offering in
+3 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 offering will
+3 	 19 	 ((S[b]\NP)/PP)/NP 	 1 	 offering bring <XB>
+5 	 0 	 NP[nb]/N 	 1 	 issuance The
+5 	 1 	 N/N 	 1 	 issuance proposed
+5 	 6 	 (N\N)/NP 	 1 	 issuance of
+5 	 12 	 (NP\NP)/NP 	 1 	 issuance in
+5 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 issuance will
+5 	 19 	 ((S[b]\NP)/PP)/NP 	 1 	 issuance bring <XB>
+9 	 7 	 (N/N)/(N/N) 	 2 	 million nearly
+9 	 8 	 (N/N)/(N/N) 	 2 	 million 1.8
+11 	 6 	 (N\N)/NP 	 2 	 shares of
+11 	 9 	 N/N 	 1 	 shares million
+11 	 10 	 N/N 	 1 	 shares common
+13 	 12 	 (NP\NP)/NP 	 2 	 connection in
+13 	 14 	 (NP\NP)/NP 	 1 	 connection with
+17 	 14 	 (NP\NP)/NP 	 2 	 purchase with
+17 	 15 	 NP[nb]/N 	 1 	 purchase the
+17 	 16 	 N/N 	 1 	 purchase land
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 bring will
+19 	 43 	 ((S\NP)\(S\NP))/PP 	 2 	 bring according
+21 	 20 	 N/N 	 1 	 Grand MGM
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 Grand 's
+24 	 19 	 ((S[b]\NP)/PP)/NP 	 3 	 shares bring
+24 	 22 	 (NP[nb]/N)\NP 	 1 	 shares 's
+24 	 23 	 N/N 	 1 	 shares total
+24 	 25 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+26 	 19 	 ((S[b]\NP)/PP)/NP 	 2 	 to bring
+28 	 26 	 PP/NP 	 1 	 million to
+28 	 27 	 N/N 	 1 	 million 28.7
+28 	 31 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 million which
+30 	 31 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 of which
+33 	 32 	 N/N 	 1 	 % 72
+33 	 34 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 % will
+33 	 36 	 S[pss]\NP 	 1 	 % owned <XB>
+34 	 31 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 will which
+35 	 34 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+36 	 35 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 owned be
+36 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 owned by
+39 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 Kerkorian by
+39 	 38 	 N/N 	 1 	 Kerkorian Mr.
+41 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 Tracinda by
+44 	 43 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+46 	 44 	 PP/NP 	 1 	 prospectus to
+46 	 45 	 NP[nb]/N 	 1 	 prospectus the
+<\s>
+<s id="wsj_0981.7"> 13
+2 	 0 	 (S/S)/NP 	 2 	 trading In
+2 	 1 	 N/N 	 1 	 trading over-the-counter
+5 	 4 	 N/N 	 1 	 Grand MGM
+5 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Grand was
+5 	 7 	 (S[pss]\NP)/PP 	 1 	 Grand bid <XB>
+6 	 0 	 (S/S)/NP 	 1 	 was In
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 bid was
+8 	 7 	 (S[pss]\NP)/PP 	 2 	 at bid
+9 	 8 	 PP/NP 	 1 	 $ at
+9 	 11 	 (NP\NP)/N 	 1 	 $ a
+10 	 9 	 N/N[num] 	 1 	 17.50 $
+12 	 11 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0981.8"> 40
+0 	 1 	 (NP\NP)/NP 	 1 	 Proceeds from
+0 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Proceeds are
+0 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Proceeds expected <XB>
+0 	 8 	 (S[pss]\NP)/PP 	 1 	 Proceeds used <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 offering from
+3 	 2 	 NP[nb]/N 	 1 	 offering the
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+6 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+9 	 8 	 (S[pss]\NP)/PP 	 2 	 for used
+10 	 9 	 PP/(S[ng]\NP) 	 1 	 remodeling for
+12 	 11 	 NP[nb]/N 	 1 	 company the
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 company 's
+16 	 10 	 (S[ng]\NP)/NP 	 2 	 resort remodeling
+16 	 13 	 (NP[nb]/N)\NP 	 1 	 resort 's
+16 	 14 	 N/N 	 1 	 resort Desert
+16 	 15 	 N/N 	 1 	 resort Inn
+16 	 17 	 (NP\NP)/NP 	 1 	 resort in
+19 	 17 	 (NP\NP)/NP 	 2 	 Vegas in
+19 	 18 	 N/N 	 1 	 Vegas Las
+21 	 9 	 PP/(S[ng]\NP) 	 1 	 refurbishing for
+23 	 21 	 (S[ng]\NP)/NP 	 2 	 aircraft refurbishing
+23 	 22 	 N/N 	 1 	 aircraft certain
+23 	 24 	 (NP\NP)/NP 	 1 	 aircraft of
+29 	 24 	 (NP\NP)/NP 	 2 	 unit of
+29 	 25 	 NP[nb]/N 	 1 	 unit the
+29 	 26 	 N/N 	 1 	 unit MGM
+29 	 27 	 N/N 	 1 	 unit Grand
+29 	 28 	 N/N 	 1 	 unit Air
+32 	 8 	 (S[pss]\NP)/PP 	 2 	 to used
+33 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+35 	 33 	 (S[b]\NP)/NP 	 2 	 property acquire
+35 	 34 	 NP[nb]/N 	 1 	 property the
+35 	 36 	 (NP\NP)/NP 	 1 	 property for
+39 	 36 	 (NP\NP)/NP 	 2 	 resort for
+39 	 37 	 NP[nb]/N 	 1 	 resort the
+39 	 38 	 N/N 	 1 	 resort new
+<\s>
+<s id="wsj_0981.9"> 37
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 it estimates
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 estimates said
+8 	 5 	 NP[nb]/N 	 1 	 remodeling the
+8 	 6 	 N/N 	 1 	 remodeling Desert
+8 	 7 	 N/N 	 1 	 remodeling Inn
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 remodeling will
+8 	 10 	 (S[b]\NP)/NP 	 1 	 remodeling cost <XB>
+9 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 will estimates
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cost will
+12 	 10 	 (S[b]\NP)/NP 	 2 	 $ cost
+12 	 11 	 N/N 	 1 	 $ about
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 32
+18 	 17 	 NP[nb]/N 	 1 	 refurbishment the
+18 	 19 	 (NP\NP)/NP 	 1 	 refurbishment of
+18 	 31 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 refurbishment will
+18 	 32 	 (S[b]\NP)/NP 	 1 	 refurbishment cost <XB>
+23 	 19 	 (NP\NP)/NP 	 2 	 aircraft of
+23 	 20 	 NP[nb]/N 	 1 	 aircraft the
+23 	 21 	 N/N 	 1 	 aircraft three
+23 	 22 	 N/N 	 1 	 aircraft DC-8-62
+23 	 25 	 S[pss]\NP 	 1 	 aircraft made <XB>
+25 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 made by
+29 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp. by
+29 	 27 	 N/N 	 1 	 Corp. McDonnell
+29 	 28 	 N/N 	 1 	 Corp. Douglas
+31 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 will estimates
+32 	 31 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cost will
+34 	 32 	 (S[b]\NP)/NP 	 2 	 $ cost
+34 	 33 	 N/N 	 1 	 $ around
+36 	 34 	 N/N[num] 	 1 	 million $
+36 	 35 	 N/N 	 1 	 million 24.5
+<\s>
+<s id="wsj_0981.10"> 50
+1 	 0 	 N/N 	 1 	 Grand MGM
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Grand said
+1 	 27 	 (S[dcl]\NP)/S[dcl] 	 1 	 Grand added <XU>
+6 	 3 	 NP[nb]/N 	 1 	 offering the
+6 	 4 	 N/N 	 1 	 offering latest
+6 	 5 	 N/N 	 1 	 offering stock
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 offering wo
+6 	 9 	 (S[b]\NP)/NP 	 1 	 offering cover <XB>
+7 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 wo said
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 wo n't
+9 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cover wo
+13 	 11 	 (N/N)/N[num] 	 2 	 million $
+13 	 12 	 N/N 	 1 	 million 600
+16 	 9 	 (S[b]\NP)/NP 	 2 	 cost cover
+16 	 10 	 NP[nb]/N 	 1 	 cost the
+16 	 11 	 (N/N)/N[num] 	 1 	 cost $ <XU>
+16 	 15 	 N/N 	 1 	 cost more
+16 	 17 	 (NP\NP)/(S[ng]\NP) 	 1 	 cost of
+18 	 17 	 (NP\NP)/(S[ng]\NP) 	 2 	 building of
+21 	 18 	 (S[ng]\NP)/NP 	 2 	 resort building
+21 	 19 	 NP[nb]/N 	 1 	 resort the
+21 	 20 	 N/N 	 1 	 resort proposed
+24 	 18 	 (S[ng]\NP)/NP 	 2 	 park building
+24 	 19 	 NP[nb]/N 	 1 	 park the
+24 	 20 	 N/N 	 1 	 park proposed
+24 	 23 	 N/N 	 1 	 park theme
+28 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+28 	 30 	 (S[b]\NP)/(S[to]\NP) 	 1 	 it need <XB>
+28 	 32 	 (S[b]\NP)/NP 	 1 	 it seek <XB>
+29 	 27 	 (S[dcl]\NP)/S[dcl] 	 2 	 will added
+30 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 need will
+31 	 30 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to need
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 seek to
+32 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 seek through
+32 	 46 	 ((S\NP)\(S\NP))/NP 	 2 	 seek at
+34 	 32 	 (S[b]\NP)/NP 	 2 	 financing seek
+34 	 33 	 N/N 	 1 	 financing additional
+37 	 36 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 through either
+39 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 borrowings through
+39 	 38 	 N/N 	 1 	 borrowings bank
+44 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 offerings through
+44 	 41 	 N/N 	 1 	 offerings debt
+44 	 43 	 N/N 	 1 	 offerings equity
+49 	 46 	 ((S\NP)\(S\NP))/NP 	 3 	 date at
+49 	 47 	 NP[nb]/N 	 1 	 date a
+49 	 48 	 N/N 	 1 	 date later
+<\s>
+<s id="wsj_0981.11"> 8
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Construction is
+0 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Construction set <XB>
+0 	 4 	 S[b]\NP 	 1 	 Construction begin <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 set is
+3 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to set
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 begin to
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 begin in
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 1991 in
+7 	 6 	 N/N 	 1 	 1991 early
+<\s>
+<s id="wsj_0981.12"> 26
+1 	 0 	 NP[nb]/N 	 1 	 resort The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 resort will
+1 	 3 	 (S[b]\NP)/NP 	 1 	 resort include <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 include will
+7 	 3 	 (S[b]\NP)/NP 	 2 	 Hotel include
+7 	 4 	 NP[nb]/N 	 1 	 Hotel the
+7 	 5 	 N/N 	 1 	 Hotel MGM
+7 	 6 	 N/N 	 1 	 Hotel Grand
+13 	 3 	 (S[b]\NP)/NP 	 2 	 facility include
+13 	 9 	 NP[nb]/N 	 1 	 facility a
+13 	 10 	 N/N 	 1 	 facility multi-spired
+13 	 12 	 N/N 	 1 	 facility castle-like
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 facility that
+13 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 facility will <XB>
+13 	 16 	 (S[b]\NP)/NP 	 1 	 facility include <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 include will
+18 	 16 	 (S[b]\NP)/NP 	 2 	 rooms include
+18 	 17 	 N/N 	 1 	 rooms 5,000
+22 	 16 	 (S[b]\NP)/NP 	 2 	 feet include
+22 	 20 	 N/N 	 1 	 feet 85,000
+22 	 21 	 N/N 	 1 	 feet square
+22 	 23 	 (NP\NP)/NP 	 1 	 feet of
+25 	 23 	 (NP\NP)/NP 	 2 	 space of
+25 	 24 	 N/N 	 1 	 space casino
+<\s>
+<s id="wsj_0981.13"> 25
+1 	 0 	 NP[nb]/N 	 1 	 facility The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 facility will
+1 	 4 	 (S[pss]\NP)/PP 	 1 	 facility marketed <XB>
+2 	 24 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 marketed be
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 toward marketed
+6 	 5 	 PP/NP 	 1 	 families toward
+10 	 9 	 N/N 	 1 	 rates room
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rates will
+10 	 12 	 (S[b]\NP)/NP 	 1 	 rates be <XB>
+11 	 24 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+14 	 12 	 (S[b]\NP)/NP 	 2 	 $ be
+14 	 13 	 N/N 	 1 	 $ between
+14 	 19 	 (NP\NP)/N 	 1 	 $ a
+15 	 14 	 N/N[num] 	 1 	 35 $
+17 	 12 	 (S[b]\NP)/NP 	 2 	 $ be
+17 	 13 	 N/N 	 1 	 $ between
+17 	 19 	 (NP\NP)/N 	 1 	 $ a
+18 	 17 	 N/N[num] 	 1 	 55 $
+20 	 19 	 (NP\NP)/N 	 2 	 night a
+23 	 22 	 N/N 	 1 	 Grand MGM
+23 	 24 	 (S[dcl]\S[dcl])\NP 	 2 	 Grand said
+<\s>
+<s id="wsj_0981.14"> 41
+1 	 0 	 NP[nb]/N 	 1 	 prospectus The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 prospectus did
+1 	 4 	 (S[b]\NP)/NP 	 1 	 prospectus include <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 did n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 include did
+4 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 include although
+6 	 4 	 (S[b]\NP)/NP 	 2 	 details include
+6 	 5 	 N/N 	 1 	 details many
+6 	 7 	 (NP\NP)/NP 	 1 	 details about
+9 	 7 	 (NP\NP)/NP 	 2 	 studio about
+9 	 8 	 NP[nb]/N 	 1 	 studio the
+12 	 7 	 (NP\NP)/NP 	 2 	 park about
+12 	 8 	 NP[nb]/N 	 1 	 park the
+12 	 11 	 N/N 	 1 	 park theme
+16 	 15 	 N/N 	 1 	 drawings conceptual
+16 	 18 	 S[pss]\NP 	 1 	 drawings released <XB>
+16 	 22 	 (S[dcl]\NP)/S[em] 	 1 	 drawings show
+18 	 19 	 ((S\NP)\(S\NP))/N 	 2 	 released this
+20 	 19 	 ((S\NP)\(S\NP))/N 	 3 	 month this
+22 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 show although
+23 	 22 	 (S[dcl]\NP)/S[em] 	 2 	 that show
+24 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it may
+24 	 26 	 (S[b]\NP)/NP 	 1 	 it feature <XB>
+25 	 23 	 S[em]/S[dcl] 	 1 	 may that
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 feature may
+29 	 26 	 (S[b]\NP)/NP 	 2 	 areas feature
+29 	 27 	 N/N 	 1 	 areas several
+29 	 28 	 N/N 	 1 	 areas themed
+29 	 30 	 S[adj]\NP 	 1 	 areas similar <XB>
+30 	 31 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 similar to
+32 	 31 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 those to
+32 	 33 	 S[pss]\NP 	 1 	 those found <XB>
+33 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 found at
+35 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 parks at
+35 	 36 	 S[pss]\NP 	 1 	 parks built <XB>
+36 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 built by
+40 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 Co by
+40 	 38 	 N/N 	 1 	 Co Walt
+40 	 39 	 N/N 	 1 	 Co Disney
+<\s>

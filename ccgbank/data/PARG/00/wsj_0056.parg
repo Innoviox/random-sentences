@@ -1,0 +1,39 @@
+<s id="wsj_0056.1"> 0
+<\s>
+<s id="wsj_0056.2"> 4
+4 	 0 	 NP/NP 	 1 	 % Money
+4 	 1 	 NP/NP 	 1 	 % Market
+4 	 2 	 NP/NP 	 1 	 % Deposits-a
+4 	 3 	 NP/NP 	 1 	 % 6.21
+<\s>
+<s id="wsj_0056.3"> 24
+3 	 0 	 NP/NP 	 1 	 rate a
+3 	 2 	 N/N 	 1 	 rate Average
+3 	 4 	 S[pss]\NP 	 1 	 rate paid <XB>
+3 	 18 	 (NP\NP)/(S[pss]\NP) 	 1 	 rate as
+3 	 19 	 S[pss]\NP 	 1 	 rate compiled <XB>
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 paid yesterday
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 paid by
+4 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 paid in
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 banks by
+9 	 7 	 N/N 	 1 	 banks 100
+9 	 8 	 N/N 	 1 	 banks large
+11 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 thrifts by
+11 	 7 	 N/N 	 1 	 thrifts 100
+11 	 8 	 N/N 	 1 	 thrifts large
+17 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 areas in
+17 	 13 	 NP[nb]/N 	 1 	 areas the
+17 	 14 	 N/N 	 1 	 areas 10
+17 	 15 	 N/N 	 1 	 areas largest
+17 	 16 	 N/N 	 1 	 areas metropolitan
+19 	 18 	 (NP\NP)/(S[pss]\NP) 	 2 	 compiled as
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 compiled by
+23 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 Monitor by
+23 	 21 	 N/N 	 1 	 Monitor Bank
+23 	 22 	 N/N 	 1 	 Monitor Rate
+<\s>
+<s id="wsj_0056.4"> 5
+4 	 0 	 N/N 	 1 	 yield b
+4 	 2 	 N/N 	 1 	 yield Current
+4 	 3 	 N/N 	 1 	 yield annual
+<\s>

@@ -1,0 +1,961 @@
+<s id="wsj_0179.1"> 21
+1 	 0 	 N/N 	 1 	 markdowns Junk-bond
+9 	 3 	 NP[nb]/N 	 1 	 investigation an
+9 	 4 	 N/N 	 1 	 investigation ongoing
+9 	 5 	 N/N 	 1 	 investigation Securities
+9 	 7 	 N/N 	 1 	 investigation Exchange
+9 	 8 	 N/N 	 1 	 investigation Commission
+15 	 11 	 NP[nb]/N 	 1 	 connection a
+15 	 12 	 N/N 	 1 	 connection Drexel
+15 	 13 	 N/N 	 1 	 connection Burnham
+15 	 14 	 N/N 	 1 	 connection Lambert
+20 	 17 	 NP[nb]/N 	 1 	 rumor a
+20 	 18 	 N/N 	 1 	 rumor fizzled
+20 	 19 	 N/N 	 1 	 rumor buy-out
+<\s>
+<s id="wsj_0179.2"> 37
+1 	 0 	 NP/NP 	 1 	 this All
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 this has
+1 	 3 	 ((S[pt]\NP)/PP)/NP 	 1 	 this cast <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 cast has
+5 	 3 	 ((S[pt]\NP)/PP)/NP 	 3 	 pall cast
+5 	 4 	 NP[nb]/N 	 1 	 pall a
+6 	 3 	 ((S[pt]\NP)/PP)/NP 	 2 	 over cast
+11 	 6 	 PP/NP 	 1 	 Association over
+11 	 7 	 N/N 	 1 	 Association Columbia
+11 	 8 	 N/N 	 1 	 Association Savings
+11 	 9 	 N/N 	 1 	 Association &
+11 	 10 	 N/N 	 1 	 Association Loan
+16 	 6 	 PP/NP 	 1 	 chairman over
+16 	 13 	 NP[nb]/N 	 1 	 chairman its
+16 	 14 	 N/N 	 1 	 chairman high-rolling
+16 	 15 	 N/N 	 1 	 chairman 43-year-old
+16 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 chairman who
+16 	 22 	 (S[dcl]\NP)/NP 	 1 	 chairman built <XB>
+19 	 6 	 PP/NP 	 1 	 Spiegel over
+19 	 18 	 N/N 	 1 	 Spiegel Thomas
+19 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Spiegel who
+19 	 22 	 (S[dcl]\NP)/NP 	 1 	 Spiegel built <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 built who
+22 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 built with
+26 	 24 	 (N/N)/N[num] 	 2 	 billion $
+26 	 25 	 N/N 	 1 	 billion 12.7
+30 	 27 	 (N/N)/(N/N) 	 2 	 Calif. Beverly
+30 	 28 	 (N/N)/(N/N) 	 2 	 Calif. Hills
+32 	 22 	 (S[dcl]\NP)/NP 	 2 	 thrift built
+32 	 23 	 NP[nb]/N 	 1 	 thrift the
+32 	 24 	 (N/N)/N[num] 	 1 	 thrift $
+32 	 30 	 N/N 	 1 	 thrift Calif.
+36 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 bonds with
+36 	 34 	 N/N 	 1 	 bonds high-yield
+36 	 35 	 N/N 	 1 	 bonds junk
+<\s>
+<s id="wsj_0179.3"> 17
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Bears have
+0 	 2 	 (S[pt]\NP)/NP 	 1 	 Bears targeted <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 targeted have
+2 	 6 	 ((S\NP)\(S\NP))/PP 	 2 	 targeted because
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Columbia 's
+5 	 2 	 (S[pt]\NP)/NP 	 2 	 stock targeted
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 stock 's
+7 	 6 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+9 	 8 	 NP[nb]/N 	 1 	 thrift the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 thrift 's
+11 	 7 	 PP/NP 	 1 	 exposure of
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 exposure 's
+11 	 12 	 (NP\NP)/NP 	 1 	 exposure to
+16 	 12 	 (NP\NP)/NP 	 2 	 market to
+16 	 13 	 NP[nb]/N 	 1 	 market the
+16 	 14 	 N/N 	 1 	 market shaky
+16 	 15 	 N/N 	 1 	 market junk
+<\s>
+<s id="wsj_0179.4"> 25
+2 	 1 	 NP[nb]/N 	 1 	 investors some
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 investors fault
+3 	 0 	 S/S 	 1 	 fault And
+5 	 4 	 N/N 	 1 	 Spiegel Mr.
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Spiegel 's
+8 	 3 	 (S[dcl]\NP)/NP 	 2 	 style fault
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 style 's
+8 	 7 	 N/N 	 1 	 style life
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 he earns
+10 	 18 	 S[dcl]\NP 	 1 	 he flies <XU>
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 millions earns
+12 	 13 	 (NP\NP)/NP 	 1 	 millions of
+12 	 15 	 (NP\NP)/N 	 1 	 millions a
+14 	 13 	 (NP\NP)/NP 	 2 	 dollars of
+16 	 15 	 (NP\NP)/N 	 2 	 year a
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 flies around
+18 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 flies in
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 Columbia 's
+24 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 planes in
+24 	 22 	 (NP[nb]/N)\NP 	 1 	 planes 's
+24 	 23 	 N/N 	 1 	 planes jet
+<\s>
+<s id="wsj_0179.5"> 24
+1 	 0 	 N/N 	 1 	 stock Columbia
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 stock hit
+1 	 8 	 (S[ng]\NP)/NP 	 1 	 stock reaching <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 hit recently
+3 	 7 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 hit after
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 1\/8 hit
+5 	 4 	 N/N 	 1 	 1\/8 4
+8 	 7 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 reaching after
+8 	 12 	 ((S\NP)\(S\NP))/N 	 2 	 reaching this
+8 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 reaching on
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 3\/4 reaching
+10 	 9 	 N/N 	 1 	 3\/4 11
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 this earlier
+13 	 12 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 rumors on
+16 	 15 	 N/S[em] 	 1 	 that rumors
+18 	 17 	 N/N 	 1 	 Spiegel Mr.
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Spiegel would
+18 	 20 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 Spiegel take <XB>
+19 	 16 	 S[em]/S[dcl] 	 1 	 would that
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take would
+22 	 20 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 thrift take
+22 	 21 	 NP[nb]/N 	 1 	 thrift the
+22 	 23 	 S[adj]\NP 	 1 	 thrift private <XB>
+23 	 20 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 private take
+<\s>
+<s id="wsj_0179.6"> 28
+3 	 2 	 N/N 	 1 	 professionals junk
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 professionals think
+3 	 22 	 (S[ng]\NP)/S[dcl] 	 1 	 professionals meaning <XB>
+4 	 0 	 S/S 	 1 	 think Moreover
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Columbia 's
+9 	 6 	 (NP[nb]/N)\NP 	 1 	 markdown 's
+9 	 7 	 N/N 	 1 	 markdown huge
+9 	 8 	 N/N 	 1 	 markdown third-quarter
+9 	 10 	 (NP\NP)/NP 	 1 	 markdown of
+9 	 14 	 (NP\NP)/NP 	 1 	 markdown to
+9 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 markdown was
+9 	 20 	 S[adj]\NP 	 1 	 markdown enough <XB>
+13 	 10 	 (NP\NP)/NP 	 2 	 portfolio of
+13 	 11 	 NP[nb]/N 	 1 	 portfolio its
+13 	 12 	 N/N 	 1 	 portfolio junk
+15 	 14 	 (NP\NP)/NP 	 2 	 $ to
+17 	 15 	 N/N[num] 	 1 	 billion $
+17 	 16 	 N/N 	 1 	 billion 4.4
+18 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 was think
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 was n't
+20 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 enough was
+24 	 23 	 NP[nb]/N 	 1 	 markdown another
+24 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 markdown could
+24 	 27 	 S[ng]\NP 	 1 	 markdown coming <XB>
+25 	 22 	 (S[ng]\NP)/S[dcl] 	 2 	 could meaning
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+27 	 26 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 coming be
+<\s>
+<s id="wsj_0179.7"> 27
+3 	 1 	 (S/S)/NP 	 2 	 days in
+3 	 2 	 N/N 	 1 	 days recent
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Columbia has
+5 	 7 	 S[pt]\NP 	 1 	 Columbia edged <XB>
+5 	 10 	 S[ng]\NP 	 1 	 Columbia closing <XB>
+6 	 0 	 S/S 	 1 	 has But
+6 	 1 	 (S/S)/NP 	 1 	 has in
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 edged has
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 edged up
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 closing at
+10 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 closing up
+10 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 closing on
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 1\/4 at
+13 	 12 	 N/N 	 1 	 1\/4 5
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 3\/8 up
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 speculation on
+21 	 20 	 N/N 	 1 	 speculation revived
+22 	 21 	 N/S[em] 	 1 	 that speculation
+24 	 23 	 NP[nb]/N 	 1 	 thrift the
+24 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 thrift might
+24 	 26 	 S[b]\NP 	 1 	 thrift restructure <XB>
+25 	 22 	 S[em]/S[dcl] 	 1 	 might that
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 restructure might
+<\s>
+<s id="wsj_0179.8"> 27
+1 	 0 	 N/N 	 1 	 Spiegel Mr.
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Spiegel 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 fans 's
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 fans say
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Columbia 's
+9 	 6 	 (NP[nb]/N)\NP 	 1 	 branches 's
+9 	 7 	 N/N 	 1 	 branches Southern
+9 	 8 	 N/N 	 1 	 branches California
+9 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 branches are
+9 	 12 	 S[adj]\NP 	 1 	 branches salable <XB>
+10 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 are say
+12 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 salable are
+12 	 11 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 salable highly
+16 	 15 	 NP[nb]/N 	 1 	 thrift the
+16 	 17 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 1 	 thrift has
+18 	 17 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 3 	 $ has
+18 	 21 	 (NP\NP)/NP 	 1 	 $ of
+18 	 24 	 (S[ng]\NP)/NP 	 1 	 $ underlying <XB>
+20 	 18 	 N/N[num] 	 1 	 million $
+20 	 19 	 N/N 	 1 	 million 458
+23 	 21 	 (NP\NP)/NP 	 2 	 equity of
+23 	 22 	 N/N 	 1 	 equity shareholders
+24 	 17 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 2 	 underlying has
+26 	 24 	 (S[ng]\NP)/NP 	 2 	 assets underlying
+26 	 25 	 NP[nb]/N 	 1 	 assets its
+<\s>
+<s id="wsj_0179.9"> 25
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That 's
+1 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 's though
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 $ 's
+3 	 2 	 N/N 	 1 	 $ almost
+3 	 5 	 (NP\NP)/NP 	 1 	 $ of
+3 	 7 	 (NP\NP)/NP 	 1 	 $ for
+4 	 3 	 N/N[num] 	 1 	 10 $
+6 	 5 	 (NP\NP)/NP 	 2 	 equity of
+10 	 7 	 (NP\NP)/NP 	 2 	 share for
+10 	 8 	 NP[nb]/N 	 1 	 share each
+10 	 9 	 N/N 	 1 	 share Columbia
+10 	 12 	 (NP\NP)/NP 	 1 	 share including
+15 	 12 	 (NP\NP)/NP 	 2 	 shares including
+15 	 13 	 N/N 	 1 	 shares convertible
+15 	 14 	 N/N 	 1 	 shares preferred
+20 	 18 	 N/N 	 1 	 markdowns more
+20 	 19 	 N/N 	 1 	 markdowns junk
+20 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 markdowns would
+20 	 22 	 (S[b]\NP)/NP 	 1 	 markdowns reduce <XB>
+21 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 would though
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reduce would
+24 	 22 	 (S[b]\NP)/NP 	 2 	 cushion reduce
+24 	 23 	 NP[nb]/N 	 1 	 cushion the
+<\s>
+<s id="wsj_0179.10"> 11
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Columbia has
+5 	 3 	 (N/N)/(N/N) 	 2 	 million about
+5 	 4 	 (N/N)/(N/N) 	 2 	 million 10
+7 	 1 	 (S[dcl]\NP)/NP 	 2 	 shares has
+7 	 2 	 N/N 	 1 	 shares only
+7 	 5 	 N/N 	 1 	 shares million
+7 	 6 	 N/N 	 1 	 shares common
+7 	 8 	 (NP\NP)/NP 	 1 	 shares in
+10 	 8 	 (NP\NP)/NP 	 2 	 hands in
+10 	 9 	 N/N 	 1 	 hands public
+<\s>
+<s id="wsj_0179.11"> 15
+2 	 0 	 NP[nb]/N 	 1 	 family The
+2 	 1 	 N/N 	 1 	 family Spiegel
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 family has
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 % has
+5 	 4 	 N/N 	 1 	 % 25
+5 	 6 	 (NP\NP)/NP 	 1 	 % of
+8 	 6 	 (NP\NP)/NP 	 2 	 common of
+8 	 7 	 NP[nb]/N 	 1 	 common the
+11 	 3 	 (S[dcl]\NP)/NP 	 2 	 % has
+11 	 10 	 N/N 	 1 	 % 75
+11 	 12 	 (NP\NP)/NP 	 1 	 % of
+14 	 12 	 (NP\NP)/NP 	 2 	 votes of
+14 	 13 	 NP[nb]/N 	 1 	 votes the
+<\s>
+<s id="wsj_0179.12"> 27
+3 	 0 	 N/N 	 1 	 holders Other
+3 	 1 	 N/N 	 1 	 holders big
+3 	 2 	 N/N 	 1 	 holders common
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 holders are
+4 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 are though
+6 	 5 	 N/N 	 1 	 Lindner Carl
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Lindner 's
+9 	 4 	 (S[dcl]\NP)/NP 	 2 	 Financial are
+9 	 7 	 (NP[nb]/N)\NP 	 1 	 Financial 's
+9 	 8 	 N/N 	 1 	 Financial American
+13 	 4 	 (S[dcl]\NP)/NP 	 2 	 Jacobs are
+13 	 11 	 N/N 	 1 	 Jacobs investor
+13 	 12 	 N/N 	 1 	 Jacobs Irwin
+17 	 4 	 (S[dcl]\NP)/NP 	 2 	 Research are
+17 	 15 	 N/N 	 1 	 Research Pacific
+17 	 16 	 N/N 	 1 	 Research Financial
+21 	 20 	 NP[nb]/N 	 1 	 latter the
+21 	 22 	 (S[dcl]\NP)/NP 	 1 	 latter cut
+22 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 cut though
+22 	 25 	 ((S\NP)\(S\NP))/N 	 2 	 cut this
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 stake cut
+24 	 23 	 NP[nb]/N 	 1 	 stake its
+26 	 25 	 ((S\NP)\(S\NP))/N 	 3 	 summer this
+<\s>
+<s id="wsj_0179.13"> 25
+2 	 1 	 N/N 	 1 	 problems many
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 problems would
+2 	 4 	 (S[b]\NP)/NP 	 1 	 problems attend <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 would While
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 attend would
+6 	 4 	 (S[b]\NP)/NP 	 2 	 restructuring attend
+6 	 5 	 NP[nb]/N 	 1 	 restructuring a
+6 	 7 	 (NP\NP)/NP 	 1 	 restructuring of
+8 	 7 	 (NP\NP)/NP 	 2 	 Columbia of
+10 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 investors say
+11 	 0 	 (S/S)/S[dcl] 	 1 	 say While
+13 	 12 	 N/N 	 1 	 Spiegel Mr.
+13 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Spiegel is
+13 	 15 	 (S[ng]\NP)/NP 	 1 	 Spiegel mulling <XB>
+14 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 is say
+15 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 mulling is
+18 	 15 	 (S[ng]\NP)/NP 	 2 	 plan mulling
+18 	 16 	 NP/NP 	 1 	 plan such
+18 	 17 	 NP[nb]/N 	 1 	 plan a
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 mitigate to
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 Columbia 's
+24 	 20 	 (S[b]\NP)/NP 	 2 	 problems mitigate
+24 	 22 	 (NP[nb]/N)\NP 	 1 	 problems 's
+24 	 23 	 N/N 	 1 	 problems junk
+<\s>
+<s id="wsj_0179.14"> 26
+3 	 2 	 N/N 	 1 	 executives Columbia
+3 	 5 	 ((S[dcl]\NP)/S[dcl])/NP 	 1 	 executives told
+5 	 0 	 S/S 	 1 	 told Indeed
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 told recently
+6 	 5 	 ((S[dcl]\NP)/S[dcl])/NP 	 3 	 reporters told
+7 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they were
+7 	 9 	 (S[adj]\NP)/PP 	 1 	 they interested <XB>
+8 	 5 	 ((S[dcl]\NP)/S[dcl])/NP 	 2 	 were told
+9 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 interested were
+10 	 9 	 (S[adj]\NP)/PP 	 2 	 in interested
+11 	 10 	 PP/(S[ng]\NP) 	 1 	 creating in
+14 	 11 	 (S[ng]\NP)/NP 	 2 	 unit creating
+14 	 12 	 NP[nb]/N 	 1 	 unit a
+14 	 13 	 N/N 	 1 	 unit separate
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 hold to
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 Columbia 's
+20 	 16 	 (S[b]\NP)/NP 	 2 	 bonds hold
+20 	 18 	 (NP[nb]/N)\NP 	 1 	 bonds 's
+20 	 19 	 N/N 	 1 	 bonds junk
+23 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+23 	 22 	 (S\NP)/(S\NP) 	 2 	 do perhaps
+25 	 23 	 (S[b]\NP)/NP 	 2 	 banking do
+25 	 24 	 N/N 	 1 	 banking merchant
+<\s>
+<s id="wsj_0179.15"> 8
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Columbia wo
+0 	 3 	 (S[b]\NP)/PP 	 1 	 Columbia comment <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 wo n't
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 comment wo
+4 	 3 	 (S[b]\NP)/PP 	 2 	 on comment
+7 	 4 	 PP/NP 	 1 	 speculation on
+7 	 5 	 NP/NP 	 1 	 speculation all
+7 	 6 	 NP[nb]/N 	 1 	 speculation the
+<\s>
+<s id="wsj_0179.16"> 19
+3 	 1 	 (S/S)/NP 	 2 	 thrifts like
+3 	 2 	 N/N 	 1 	 thrifts other
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it 's
+5 	 7 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 it expected <XB>
+5 	 9 	 (S[b]\NP)/NP 	 1 	 it seek <XB>
+6 	 0 	 S/S 	 1 	 's But
+6 	 1 	 (S/S)/NP 	 1 	 's like
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 expected 's
+8 	 7 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to expected
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 seek to
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 regulators '
+12 	 9 	 (S[b]\NP)/NP 	 2 	 consent seek
+12 	 11 	 (NP[nb]/N)\NP 	 1 	 consent '
+12 	 14 	 (S[b]\NP)/NP 	 1 	 consent create <XB>
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 create to
+18 	 14 	 (S[b]\NP)/NP 	 2 	 entity create
+18 	 15 	 NP[nb]/N 	 1 	 entity a
+18 	 16 	 N/N 	 1 	 entity distinct
+18 	 17 	 N/N 	 1 	 entity junk-bond
+<\s>
+<s id="wsj_0179.17"> 14
+0 	 2 	 (S[b]\NP)/NP 	 1 	 Plans do <XB>
+0 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Plans are
+0 	 5 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Plans due <XB>
+2 	 1 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+3 	 2 	 (S[b]\NP)/NP 	 2 	 this do
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 due are
+6 	 5 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to due
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 filed be
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 filed in
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 week in
+11 	 10 	 NP[nb]/N 	 1 	 week a
+13 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 so in
+13 	 10 	 NP[nb]/N 	 1 	 so a
+<\s>
+<s id="wsj_0179.18"> 20
+1 	 0 	 N/N 	 1 	 rules New
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 rules force
+3 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 thrifts force
+3 	 5 	 ((S[b]\NP)/PP)/NP 	 1 	 thrifts write <XB>
+3 	 14 	 (S[b]\NP)/NP 	 1 	 thrifts sell <XU>
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to force
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 write to
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 write down
+8 	 5 	 ((S[b]\NP)/PP)/NP 	 3 	 junk write
+8 	 7 	 NP[nb]/N 	 1 	 junk their
+9 	 5 	 ((S[b]\NP)/PP)/NP 	 2 	 to write
+11 	 9 	 PP/NP 	 1 	 value to
+11 	 10 	 N/N 	 1 	 value market
+14 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 sell then
+14 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 sell over
+16 	 14 	 (S[b]\NP)/NP 	 2 	 bonds sell
+16 	 15 	 NP[nb]/N 	 1 	 bonds the
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 years over
+19 	 18 	 N/N 	 1 	 years five
+<\s>
+<s id="wsj_0179.19"> 22
+0 	 1 	 (S[dcl]\NP)/S[qem] 	 1 	 That 's
+2 	 1 	 (S[dcl]\NP)/S[qem] 	 2 	 why 's
+3 	 5 	 (S[dcl]\NP)/NP 	 1 	 Columbia wrote
+3 	 14 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Columbia reserved <XU>
+5 	 2 	 S[qem]/S[dcl] 	 1 	 wrote why
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 wrote just
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 wrote off
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 $ wrote
+7 	 10 	 (NP\NP)/NP 	 1 	 $ of
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 130
+12 	 10 	 (NP\NP)/NP 	 2 	 junk of
+12 	 11 	 NP[nb]/N 	 1 	 junk its
+14 	 2 	 S[qem]/S[dcl] 	 1 	 reserved why
+14 	 4 	 (S\NP)/(S\NP) 	 2 	 reserved just
+15 	 14 	 ((S[dcl]\NP)/PP)/NP 	 3 	 $ reserved
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 227
+18 	 14 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for reserved
+21 	 18 	 PP/NP 	 1 	 losses for
+21 	 19 	 N/N 	 1 	 losses future
+21 	 20 	 N/N 	 1 	 losses junk
+<\s>
+<s id="wsj_0179.20"> 35
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Columbia could
+2 	 4 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 Columbia keep <XB>
+3 	 1 	 (S/S)/S[dcl] 	 2 	 could if
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 keep could
+4 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 keep till
+7 	 4 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 bonds keep
+7 	 5 	 NP[nb]/N 	 1 	 bonds its
+7 	 6 	 N/N 	 1 	 bonds junk
+7 	 8 	 (S[adj]\NP)/PP 	 1 	 bonds separate <XB>
+8 	 4 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 separate keep
+9 	 8 	 (S[adj]\NP)/PP 	 2 	 from separate
+11 	 9 	 PP/NP 	 1 	 thrift from
+11 	 10 	 NP[nb]/N 	 1 	 thrift the
+13 	 14 	 S[dcl]\NP 	 1 	 they mature
+14 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 mature till
+14 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 mature unless
+18 	 16 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 value at
+18 	 17 	 N/N 	 1 	 value full
+20 	 16 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 unless at
+22 	 21 	 NP[nb]/N 	 1 	 issuer the
+22 	 23 	 (S[dcl]\NP)/NP 	 1 	 issuer goes
+22 	 26 	 S[dcl]\NP 	 1 	 issuer restructures <XU>
+23 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 goes unless
+24 	 23 	 (S[dcl]\NP)/NP 	 2 	 bust goes
+26 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 restructures unless
+30 	 28 	 NP[nb]/N 	 1 	 portfolio the
+30 	 29 	 N/N 	 1 	 portfolio junk
+30 	 31 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 portfolio might
+30 	 32 	 S[b]\NP 	 1 	 portfolio do <XB>
+31 	 0 	 S/S 	 1 	 might But
+31 	 1 	 (S/S)/S[dcl] 	 1 	 might if
+32 	 31 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 do might
+32 	 34 	 (S\NP)\(S\NP) 	 2 	 do right
+34 	 33 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 right all
+<\s>
+<s id="wsj_0179.21"> 15
+0 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Columbia wo
+0 	 9 	 (S[b]\NP)/NP 	 1 	 Columbia provide <XB>
+5 	 2 	 NP[nb]/N 	 1 	 client a
+5 	 3 	 N/N 	 1 	 client longtime
+5 	 4 	 N/N 	 1 	 client Drexel
+5 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 client wo
+5 	 9 	 (S[b]\NP)/NP 	 1 	 client provide <XB>
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 wo n't
+9 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 provide wo
+11 	 9 	 (S[b]\NP)/NP 	 2 	 data provide
+11 	 10 	 N/N 	 1 	 data current
+11 	 12 	 (NP\NP)/NP 	 1 	 data on
+14 	 12 	 (NP\NP)/NP 	 2 	 junk on
+14 	 13 	 NP[nb]/N 	 1 	 junk its
+<\s>
+<s id="wsj_0179.22"> 19
+5 	 1 	 NP[nb]/N 	 1 	 holdings its
+5 	 2 	 N/N 	 1 	 holdings 17
+5 	 3 	 N/N 	 1 	 holdings big
+5 	 4 	 N/N 	 1 	 holdings junk
+5 	 9 	 (S[dcl]\NP)/NP 	 1 	 holdings showed
+8 	 6 	 ((S\NP)/(S\NP))/NP 	 3 	 end at
+8 	 7 	 N/N 	 1 	 end year
+9 	 0 	 S/S 	 1 	 showed But
+9 	 6 	 ((S\NP)/(S\NP))/NP 	 2 	 showed at
+13 	 9 	 (S[dcl]\NP)/NP 	 2 	 bonds showed
+13 	 10 	 NP/NP 	 1 	 bonds only
+13 	 11 	 NP[nb]/N 	 1 	 bonds a
+13 	 12 	 N/N 	 1 	 bonds few
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bonds that
+13 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 bonds have <XB>
+13 	 18 	 S[pss]\NP 	 1 	 bonds battered <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have that
+16 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+18 	 16 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 battered been
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 battered really
+<\s>
+<s id="wsj_0179.23"> 30
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 These were
+1 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 were though
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 Stores were
+3 	 2 	 N/N 	 1 	 Stores Allied
+7 	 1 	 (S[dcl]\NP)/NP 	 2 	 Telegraph were
+7 	 5 	 N/N 	 1 	 Telegraph Western
+7 	 6 	 N/N 	 1 	 Telegraph Union
+10 	 1 	 (S[dcl]\NP)/NP 	 2 	 Holdings were
+10 	 9 	 N/N 	 1 	 Holdings Gillett
+13 	 1 	 (S[dcl]\NP)/NP 	 2 	 Television were
+13 	 12 	 N/N 	 1 	 Television SCI
+16 	 1 	 (S[dcl]\NP)/NP 	 2 	 Air were
+16 	 15 	 N/N 	 1 	 Air Texas
+21 	 19 	 N/N 	 1 	 bonds many
+21 	 20 	 N/N 	 1 	 bonds other
+21 	 22 	 (NP\NP)/NP 	 1 	 bonds in
+21 	 27 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 bonds have
+21 	 28 	 (S[pt]\NP)/NP 	 1 	 bonds lost <XB>
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 Columbia 's
+25 	 22 	 (NP\NP)/NP 	 2 	 portfolio in
+25 	 24 	 (NP[nb]/N)\NP 	 1 	 portfolio 's
+27 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 have though
+27 	 26 	 (S\NP)/(S\NP) 	 2 	 have also
+28 	 27 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 lost have
+29 	 28 	 (S[pt]\NP)/NP 	 2 	 value lost
+<\s>
+<s id="wsj_0179.24"> 22
+1 	 0 	 (S\NP)/(S\NP) 	 2 	 offsetting Possibly
+2 	 1 	 (S[ng]\NP)/NP 	 2 	 that offsetting
+4 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Columbia estimated
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 estimated recently
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 it has
+8 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 has estimated
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 gains has
+10 	 9 	 N/N 	 1 	 gains unrealized
+10 	 11 	 (NP\NP)/NP 	 1 	 gains on
+10 	 16 	 (NP\NP)/NP 	 1 	 gains of
+13 	 12 	 (N/N)/(N/N) 	 2 	 traded publicly
+15 	 11 	 (NP\NP)/NP 	 2 	 investments on
+15 	 13 	 N/N 	 1 	 investments traded
+15 	 14 	 N/N 	 1 	 investments equity
+17 	 18 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+19 	 16 	 (NP\NP)/NP 	 2 	 $ of
+19 	 18 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 70
+<\s>
+<s id="wsj_0179.25"> 20
+0 	 2 	 S[dcl]\NP 	 1 	 It hopes
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 hopes also
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 hopes for
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 gains for
+5 	 4 	 N/N 	 1 	 gains ultimate
+5 	 6 	 (NP\NP)/NP 	 1 	 gains of
+5 	 13 	 (NP\NP)/NP 	 1 	 gains on
+7 	 6 	 (NP\NP)/NP 	 2 	 as of
+8 	 7 	 (N/PP)/(S[adj]\NP) 	 2 	 much as
+9 	 7 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+10 	 9 	 PP/NP 	 1 	 $ as
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 300
+15 	 13 	 (NP\NP)/NP 	 2 	 investments on
+15 	 14 	 N/N 	 1 	 investments equity
+15 	 16 	 (NP\NP)/NP 	 1 	 investments in
+17 	 16 	 (NP\NP)/NP 	 2 	 buy-outs in
+19 	 16 	 (NP\NP)/NP 	 2 	 restructurings in
+<\s>
+<s id="wsj_0179.26"> 32
+2 	 0 	 N/N 	 1 	 balloon One
+2 	 1 	 N/N 	 1 	 balloon trial
+2 	 9 	 ((S[pt]\NP)/PP)/NP 	 3 	 balloon floated <XU>
+2 	 12 	 (NP\NP)/S[dcl] 	 1 	 balloon :
+4 	 3 	 N/N 	 1 	 Spiegel Mr.
+4 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Spiegel is
+4 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Spiegel said <XB>
+4 	 9 	 ((S[pt]\NP)/PP)/NP 	 1 	 Spiegel floated <XB>
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 said is
+7 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to said
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+9 	 8 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 floated have
+10 	 9 	 ((S[pt]\NP)/PP)/NP 	 2 	 to floated
+11 	 10 	 PP/NP 	 1 	 investors to
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Columbia might
+13 	 16 	 S[pss]\NP 	 1 	 Columbia broken <XB>
+14 	 12 	 (NP\NP)/S[dcl] 	 2 	 might :
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be might
+16 	 15 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 broken be
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 broken up
+16 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 broken as
+21 	 20 	 N/N 	 1 	 Bank Mellon
+21 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Bank was
+21 	 23 	 (S[pss]\NP)/PP 	 1 	 Bank split <XB>
+22 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was as
+23 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 split was
+24 	 23 	 (S[pss]\NP)/PP 	 2 	 into split
+27 	 24 	 PP/NP 	 1 	 bank into
+27 	 25 	 NP[nb]/N 	 1 	 bank a
+27 	 26 	 N/N 	 1 	 bank good
+31 	 24 	 PP/NP 	 1 	 bank into
+31 	 29 	 NP[nb]/N 	 1 	 bank a
+31 	 30 	 N/N 	 1 	 bank bad
+<\s>
+<s id="wsj_0179.27"> 35
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Columbia 's
+4 	 2 	 (NP[nb]/N)\NP 	 1 	 bank 's
+4 	 3 	 N/N 	 1 	 bank good
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bank would
+4 	 6 	 (S[b]\NP)/NP 	 1 	 bank be <XB>
+5 	 0 	 S/S 	 1 	 would But
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+6 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 be while
+9 	 6 	 (S[b]\NP)/NP 	 2 	 thrift be
+9 	 7 	 NP[nb]/N 	 1 	 thrift a
+9 	 8 	 N/N 	 1 	 thrift regulated
+14 	 12 	 NP[nb]/N 	 1 	 bank the
+14 	 13 	 N/N 	 1 	 bank bad
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bank would
+14 	 16 	 (S[b]\NP)/NP 	 1 	 bank be <XB>
+15 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 would while
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+20 	 16 	 (S[b]\NP)/NP 	 2 	 company be
+20 	 17 	 NP[nb]/N 	 1 	 company a
+20 	 18 	 N/N 	 1 	 company private
+20 	 19 	 N/N 	 1 	 company investment
+20 	 22 	 (S[ng]\NP)/NP 	 1 	 company holding <XB>
+23 	 22 	 (S[ng]\NP)/NP 	 2 	 some holding
+23 	 24 	 (NP\NP)/NP 	 1 	 some of
+25 	 26 	 (NP[nb]/N)\NP 	 2 	 Columbia 's
+28 	 24 	 (NP\NP)/NP 	 2 	 bonds of
+28 	 26 	 (NP[nb]/N)\NP 	 1 	 bonds 's
+28 	 27 	 N/N 	 1 	 bonds junk
+31 	 24 	 (NP\NP)/NP 	 2 	 estate of
+31 	 26 	 (NP[nb]/N)\NP 	 1 	 estate 's
+31 	 30 	 N/N 	 1 	 estate real
+34 	 24 	 (NP\NP)/NP 	 2 	 investments of
+34 	 26 	 (NP[nb]/N)\NP 	 1 	 investments 's
+34 	 33 	 N/N 	 1 	 investments equity
+<\s>
+<s id="wsj_0179.28"> 37
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Some think
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Columbia 's
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 thrift 's
+4 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 thrift which
+4 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 thrift is <XB>
+4 	 9 	 (S[ng]\NP)/NP 	 1 	 thrift seeking <XB>
+4 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 thrift might
+4 	 18 	 (S[pss]\NP)/PP 	 1 	 thrift capitalized <XB>
+4 	 27 	 (S[pss]\NP)/PP 	 1 	 thrift shopped <XU>
+8 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 is now
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 seeking is
+14 	 9 	 (S[ng]\NP)/NP 	 2 	 officer seeking
+14 	 10 	 NP[nb]/N 	 1 	 officer a
+14 	 11 	 N/N 	 1 	 officer new
+14 	 12 	 N/N 	 1 	 officer chief
+14 	 13 	 N/N 	 1 	 officer operating
+16 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 might think
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be might
+18 	 17 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 capitalized be
+19 	 18 	 (S[pss]\NP)/PP 	 2 	 at capitalized
+19 	 21 	 PP\PP 	 1 	 at say
+22 	 19 	 PP/NP 	 1 	 $ at
+24 	 22 	 N/N[num] 	 1 	 million $
+24 	 23 	 N/N 	 1 	 million 300
+27 	 17 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 shopped be
+28 	 27 	 (S[pss]\NP)/PP 	 2 	 to shopped
+31 	 28 	 PP/NP 	 1 	 bank to
+31 	 29 	 NP[nb]/N 	 1 	 bank a
+31 	 30 	 N/N 	 1 	 bank commercial
+31 	 32 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bank that
+31 	 33 	 (S[dcl]\NP)/NP 	 1 	 bank wants <XB>
+33 	 32 	 (NP\NP)/(S[dcl]\NP) 	 2 	 wants that
+36 	 33 	 (S[dcl]\NP)/NP 	 2 	 presence wants
+36 	 34 	 NP[nb]/N 	 1 	 presence a
+36 	 35 	 N/N 	 1 	 presence California
+<\s>
+<s id="wsj_0179.29"> 19
+1 	 0 	 NP[nb]/N 	 1 	 thrift The
+1 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 thrift could
+1 	 5 	 (S[pss]\NP)/PP 	 1 	 thrift sold <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 could surely
+3 	 18 	 (S[dcl]\S[dcl])\NP 	 1 	 could say
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 sold be
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 for sold
+7 	 6 	 PP/NP 	 1 	 more for
+7 	 8 	 (NP\NP)/NP 	 1 	 more than
+10 	 8 	 (NP\NP)/NP 	 2 	 value than
+10 	 9 	 NP[nb]/N 	 1 	 value the
+10 	 11 	 (NP\NP)/NP 	 1 	 value of
+13 	 11 	 (NP\NP)/NP 	 2 	 equity of
+13 	 12 	 NP[nb]/N 	 1 	 equity its
+17 	 15 	 N/N 	 1 	 executives financial
+17 	 16 	 N/N 	 1 	 executives industry
+17 	 18 	 (S[dcl]\S[dcl])\NP 	 2 	 executives say
+<\s>
+<s id="wsj_0179.30"> 36
+4 	 2 	 NP[nb]/N 	 1 	 bank the
+4 	 3 	 N/N 	 1 	 bank bad
+4 	 5 	 (NP\NP)/NP 	 1 	 bank with
+4 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bank might
+4 	 16 	 (S[pss]\NP)/PP 	 1 	 bank spun <XB>
+8 	 5 	 (NP\NP)/NP 	 2 	 bonds with
+8 	 6 	 NP[nb]/N 	 1 	 bonds the
+8 	 7 	 N/N 	 1 	 bonds junk
+12 	 5 	 (NP\NP)/NP 	 2 	 capital with
+12 	 11 	 NP[nb]/N 	 1 	 capital some
+14 	 0 	 S/S 	 1 	 might Meanwhile
+14 	 35 	 (S[dcl]\S[dcl])\NP 	 1 	 might say
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be might
+16 	 15 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 spun be
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 spun off
+18 	 16 	 (S[pss]\NP)/PP 	 2 	 to spun
+20 	 18 	 PP/NP 	 1 	 shareholders to
+20 	 19 	 N/N 	 1 	 shareholders Columbia
+20 	 22 	 (NP\NP)/NP 	 1 	 shareholders including
+20 	 26 	 (NP\NP)/(S[dcl]\NP) 	 1 	 shareholders who
+20 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 shareholders might <XB>
+20 	 29 	 (S[b]\NP)/NP 	 1 	 shareholders have <XB>
+24 	 22 	 (NP\NP)/NP 	 2 	 Spiegel including
+24 	 23 	 N/N 	 1 	 Spiegel Mr.
+27 	 26 	 (NP\NP)/(S[dcl]\NP) 	 2 	 might who
+27 	 28 	 (S\NP)\(S\NP) 	 2 	 might then
+29 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have might
+32 	 29 	 (S[b]\NP)/NP 	 2 	 career have
+32 	 30 	 NP[nb]/N 	 1 	 career a
+32 	 31 	 N/N 	 1 	 career new
+34 	 35 	 (S[dcl]\S[dcl])\NP 	 2 	 investors say
+<\s>
+<s id="wsj_0179.31"> 12
+0 	 1 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 1 	 It is
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is n't
+3 	 1 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 3 	 clear is
+4 	 1 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 2 	 how is
+5 	 4 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 2 	 much how
+7 	 6 	 NP[nb]/N 	 1 	 restructuring a
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 restructuring would
+7 	 9 	 (S[b]\NP)/NP 	 1 	 restructuring help <XB>
+8 	 4 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 1 	 would how
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 help would
+11 	 9 	 (S[b]\NP)/NP 	 2 	 stockholders help
+11 	 10 	 N/N 	 1 	 stockholders Columbia
+<\s>
+<s id="wsj_0179.32"> 5
+2 	 1 	 NP[nb]/N 	 1 	 concept the
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 concept is
+2 	 4 	 S[adj]\NP 	 1 	 concept workable <XB>
+3 	 0 	 S/S 	 1 	 is But
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 workable is
+<\s>
+<s id="wsj_0179.33"> 32
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 You sell
+0 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 You use <XU>
+1 	 21 	 (S[dcl]\S[dcl])/NP 	 1 	 sell says
+4 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 bank sell
+4 	 2 	 NP[nb]/N 	 1 	 bank the
+4 	 3 	 N/N 	 1 	 bank good
+5 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as sell
+8 	 5 	 PP/NP 	 1 	 operation as
+8 	 6 	 NP[nb]/N 	 1 	 operation an
+8 	 7 	 N/N 	 1 	 operation ongoing
+10 	 21 	 (S[dcl]\S[dcl])/NP 	 1 	 use says
+11 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 some use
+11 	 12 	 (NP\NP)/NP 	 1 	 some of
+11 	 16 	 (S[b]\NP)/NP 	 1 	 some capitalize <XB>
+14 	 12 	 (NP\NP)/NP 	 2 	 proceeds of
+14 	 13 	 NP[nb]/N 	 1 	 proceeds the
+15 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to use
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 capitalize to
+19 	 16 	 (S[b]\NP)/NP 	 2 	 bank capitalize
+19 	 17 	 NP[nb]/N 	 1 	 bank the
+19 	 18 	 N/N 	 1 	 bank bad
+25 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 Ranieri says
+25 	 22 	 N/N 	 1 	 Ranieri thrift
+25 	 23 	 N/N 	 1 	 Ranieri specialist
+25 	 24 	 N/N 	 1 	 Ranieri Lewis
+25 	 26 	 (NP\NP)/NP 	 1 	 Ranieri of
+28 	 26 	 (NP\NP)/NP 	 2 	 Associates of
+28 	 27 	 N/N 	 1 	 Associates Ranieri
+28 	 29 	 (NP\NP)/NP 	 1 	 Associates in
+31 	 29 	 (NP\NP)/NP 	 2 	 York in
+31 	 30 	 N/N 	 1 	 York New
+<\s>
+<s id="wsj_0179.34"> 14
+1 	 0 	 N/N 	 1 	 Spiegel Mr.
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Spiegel 's
+5 	 2 	 (NP[nb]/N)\NP 	 1 	 move 's
+5 	 3 	 N/N 	 1 	 move next
+5 	 4 	 N/N 	 1 	 move career
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 move is
+6 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 is on
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 subject is
+8 	 7 	 NP[nb]/N 	 1 	 subject a
+8 	 9 	 (NP\NP)/NP 	 1 	 subject of
+10 	 9 	 (NP\NP)/NP 	 2 	 speculation of
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Street on
+13 	 12 	 N/N 	 1 	 Street Wall
+<\s>
+<s id="wsj_0179.35"> 20
+1 	 0 	 N/N 	 1 	 people Few
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 people think
+4 	 3 	 N/N 	 1 	 Spiegel Mr.
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Spiegel wants
+4 	 7 	 (S[b]\NP)/NP 	 1 	 Spiegel run <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 wants think
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wants
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 run to
+10 	 7 	 (S[b]\NP)/NP 	 2 	 thrift run
+10 	 8 	 NP[nb]/N 	 1 	 thrift a
+10 	 9 	 N/N 	 1 	 thrift bread-and-butter
+10 	 12 	 (NP\NP)/(S[dcl]/NP) 	 1 	 thrift which
+10 	 19 	 (S[b]\NP)/NP 	 2 	 thrift become <XU>
+14 	 13 	 N/N 	 1 	 rules current
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rules would
+14 	 16 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 rules force <XB>
+15 	 12 	 (NP\NP)/(S[dcl]/NP) 	 2 	 would which
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 force would
+17 	 16 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 Columbia force
+17 	 19 	 (S[b]\NP)/NP 	 1 	 Columbia become <XB>
+18 	 16 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to force
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 become to
+<\s>
+<s id="wsj_0179.36"> 16
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 They are
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 are n't
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 are really
+1 	 7 	 (S[dcl]\S[dcl])/NP 	 1 	 are says
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 thrift are
+5 	 4 	 NP[nb]/N 	 1 	 thrift a
+9 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 Gray says
+9 	 8 	 N/N 	 1 	 Gray Jonathan
+15 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst says
+15 	 11 	 NP[nb]/N 	 1 	 analyst a
+15 	 12 	 N/N 	 1 	 analyst Sanford
+15 	 13 	 N/N 	 1 	 analyst C.
+15 	 14 	 N/N 	 1 	 analyst Bernstein
+<\s>
+<s id="wsj_0179.37"> 11
+1 	 0 	 (S/S)/NP 	 2 	 course Of
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 regulators would
+3 	 7 	 (S[b]\NP)/NP 	 1 	 regulators approve <XB>
+4 	 0 	 (S/S)/NP 	 1 	 would Of
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+6 	 5 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 approve to
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 Columbia 's
+10 	 7 	 (S[b]\NP)/NP 	 2 	 reorganization approve
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 reorganization 's
+<\s>
+<s id="wsj_0179.38"> 22
+3 	 1 	 NP[nb]/N 	 1 	 bankers some
+3 	 2 	 N/N 	 1 	 bankers investment
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 bankers say
+4 	 0 	 S/S 	 1 	 say And
+6 	 5 	 NP[nb]/N 	 1 	 restructuring a
+6 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 restructuring is
+6 	 9 	 S[adj]\NP 	 1 	 restructuring feasible <XB>
+7 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 is say
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 is n't
+7 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 is while
+9 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 feasible is
+12 	 11 	 NP[nb]/N 	 1 	 SEC the
+12 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 SEC is
+12 	 15 	 (S[ng]\NP)/NP 	 1 	 SEC scrutinizing <XB>
+14 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is while
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 is still
+15 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 scrutinizing is
+17 	 16 	 N/N 	 1 	 Spiegel Mr.
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 Spiegel 's
+21 	 15 	 (S[ng]\NP)/NP 	 2 	 trades scrutinizing
+21 	 18 	 (NP[nb]/N)\NP 	 1 	 trades 's
+21 	 19 	 N/N 	 1 	 trades past
+21 	 20 	 N/N 	 1 	 trades junk-bond
+<\s>
+<s id="wsj_0179.39"> 9
+1 	 0 	 N/N 	 1 	 Yoshihashi Pauline
+1 	 2 	 (NP\NP)/NP 	 1 	 Yoshihashi in
+1 	 5 	 (S[dcl]\NP)/PP 	 1 	 Yoshihashi contributed
+4 	 2 	 (NP\NP)/NP 	 2 	 Angeles in
+4 	 3 	 N/N 	 1 	 Angeles Los
+6 	 5 	 (S[dcl]\NP)/PP 	 2 	 to contributed
+8 	 6 	 PP/NP 	 1 	 article to
+8 	 7 	 NP[nb]/N 	 1 	 article this
+<\s>
+<s id="wsj_0179.40"> 10
+3 	 0 	 N/N 	 1 	 Loan Columbia
+3 	 1 	 N/N 	 1 	 Loan Savings
+3 	 2 	 N/N 	 1 	 Loan &
+3 	 4 	 (NP\NP)/NP 	 1 	 Loan -LRB-
+5 	 4 	 (NP\NP)/NP 	 2 	 NYSE -LRB-
+7 	 4 	 (NP\NP)/NP 	 2 	 Symbol -LRB-
+7 	 8 	 (NP\NP)/NP 	 1 	 Symbol :
+9 	 8 	 (NP\NP)/NP 	 2 	 CSV :
+<\s>
+<s id="wsj_0179.41"> 4
+0 	 1 	 (NP\NP)/NP 	 1 	 Business :
+2 	 1 	 (NP\NP)/NP 	 2 	 Savings :
+4 	 1 	 (NP\NP)/NP 	 2 	 loan :
+<\s>
+<s id="wsj_0179.42"> 18
+0 	 1 	 S[pss]\NP 	 1 	 Year ended <XB>
+0 	 6 	 (NP\NP)/NP 	 1 	 Year :
+1 	 2 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended Dec.
+2 	 5 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 Dec. 1988
+3 	 2 	 ((S\NP)\(S\NP))/N[num] 	 3 	 31 Dec.
+8 	 6 	 (NP\NP)/NP 	 2 	 income :
+8 	 7 	 N/N 	 1 	 income Net
+8 	 9 	 (NP\NP)/NP 	 1 	 income :
+10 	 9 	 (NP\NP)/NP 	 2 	 $ :
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 65
+15 	 9 	 (NP\NP)/NP 	 2 	 $ :
+15 	 17 	 (NP\NP)/N 	 1 	 $ a
+16 	 15 	 N/N[num] 	 1 	 1.49 $
+18 	 17 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0179.43"> 22
+1 	 0 	 N/N 	 1 	 quarter Third
+1 	 7 	 (NP\NP)/NP 	 1 	 quarter :
+3 	 6 	 N\N 	 1 	 Sept. 1989
+3 	 7 	 (NP\NP)/NP 	 1 	 Sept. :
+4 	 3 	 N/N[num] 	 1 	 30 Sept.
+9 	 7 	 (NP\NP)/NP 	 2 	 loss :
+9 	 8 	 N/N 	 1 	 loss Net
+9 	 10 	 (NP\NP)/NP 	 1 	 loss :
+9 	 15 	 (NP\NP)/NP 	 1 	 loss vs.
+11 	 10 	 (NP\NP)/NP 	 2 	 $ :
+11 	 13 	 (NP\NP)/N 	 1 	 $ a
+12 	 11 	 N/N[num] 	 1 	 11.57 $
+14 	 13 	 (NP\NP)/N 	 2 	 share a
+17 	 15 	 (NP\NP)/NP 	 2 	 income vs.
+17 	 16 	 N/N 	 1 	 income net
+17 	 18 	 (NP\NP)/NP 	 1 	 income :
+20 	 18 	 (NP\NP)/NP 	 2 	 cents :
+20 	 19 	 N/N 	 1 	 cents 37
+20 	 21 	 (NP\NP)/N 	 1 	 cents a
+22 	 21 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0179.44"> 6
+3 	 0 	 N/N 	 1 	 volume Average
+3 	 1 	 N/N 	 1 	 volume daily
+3 	 2 	 N/N 	 1 	 volume trading
+3 	 4 	 (NP\NP)/NP 	 1 	 volume :
+6 	 4 	 (NP\NP)/NP 	 2 	 shares :
+6 	 5 	 N/N 	 1 	 shares 83,206
+<\s>
+<s id="wsj_0179.45"> 5
+1 	 0 	 N/N 	 1 	 shares Common
+1 	 2 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+1 	 3 	 (NP\NP)/NP 	 1 	 shares :
+5 	 3 	 (NP\NP)/NP 	 2 	 million :
+5 	 4 	 N/N 	 1 	 million 19.6
+<\s>
+<s id="wsj_0179.46"> 8
+0 	 1 	 (NP\NP)/S[dcl] 	 1 	 Note :
+4 	 2 	 NP[nb]/N 	 1 	 figures All
+4 	 3 	 N/N 	 1 	 figures per-share
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 figures are
+4 	 7 	 S[adj]\NP 	 1 	 figures diluted <XB>
+5 	 1 	 (NP\NP)/S[dcl] 	 2 	 are :
+7 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 diluted are
+7 	 6 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 diluted fully
+<\s>

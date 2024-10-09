@@ -1,0 +1,828 @@
+<s id="wsj_1696.1"> 36
+2 	 0 	 NP[nb]/N 	 1 	 conference A
+2 	 1 	 N/N 	 1 	 conference House-Senate
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 conference approved
+6 	 5 	 (N/N)/(N/N) 	 2 	 $ nearly
+8 	 6 	 (N/N)/N[num] 	 2 	 billion $
+8 	 7 	 N/N 	 1 	 billion 17
+15 	 3 	 (S[dcl]\NP)/NP 	 2 	 bill approved
+15 	 4 	 NP[nb]/N 	 1 	 bill a
+15 	 6 	 (N/N)/N[num] 	 1 	 bill $
+15 	 9 	 N/N 	 1 	 bill State
+15 	 11 	 N/N 	 1 	 bill Justice
+15 	 13 	 N/N 	 1 	 bill Commerce
+15 	 14 	 N/N 	 1 	 bill Department
+15 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bill that
+15 	 17 	 ((S[dcl]\NP)/NP)/NP 	 1 	 bill makes <XB>
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 makes that
+17 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 makes after
+19 	 17 	 ((S[dcl]\NP)/NP)/NP 	 3 	 reparations makes
+19 	 18 	 N/N 	 1 	 reparations federal
+19 	 20 	 (NP\NP)/NP 	 1 	 reparations for
+21 	 20 	 (NP\NP)/NP 	 2 	 Japanese-Americans for
+21 	 22 	 S[pss]\NP 	 1 	 Japanese-Americans held <XB>
+22 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 held in
+28 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 camps in
+28 	 24 	 N/N 	 1 	 camps World
+28 	 25 	 N/N 	 1 	 camps War
+28 	 26 	 N/N 	 1 	 camps II
+28 	 27 	 N/N 	 1 	 camps internment
+31 	 17 	 ((S[dcl]\NP)/NP)/NP 	 2 	 entitlement makes
+31 	 29 	 NP[nb]/N 	 1 	 entitlement a
+31 	 30 	 N/N 	 1 	 entitlement legal
+34 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 Oct. after
+34 	 33 	 N/N 	 1 	 Oct. next
+35 	 34 	 N/N[num] 	 1 	 1 Oct.
+<\s>
+<s id="wsj_1696.2"> 45
+1 	 0 	 NP[nb]/N 	 1 	 measure The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 measure provides
+2 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 provides until
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 money provides
+4 	 3 	 NP[nb]/N 	 1 	 money no
+4 	 5 	 (NP\NP)/NP 	 1 	 money for
+8 	 5 	 (NP\NP)/NP 	 2 	 payments for
+8 	 6 	 NP[nb]/N 	 1 	 payments the
+8 	 7 	 N/N 	 1 	 payments promised
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 then until
+14 	 13 	 (S/S)/PP 	 2 	 in beginning
+16 	 14 	 PP/NP 	 1 	 1991 in
+16 	 15 	 N/N 	 1 	 1991 fiscal
+19 	 18 	 NP[nb]/N 	 1 	 government the
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 government would
+19 	 22 	 (S[adj]\NP)/PP 	 1 	 government committed <XB>
+20 	 13 	 (S/S)/PP 	 1 	 would beginning
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+22 	 21 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 committed be
+23 	 22 	 (S[adj]\NP)/PP 	 2 	 to committed
+24 	 23 	 PP/(S[ng]\NP) 	 1 	 meeting to
+24 	 34 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 meeting until
+26 	 24 	 (S[ng]\NP)/NP 	 2 	 payments meeting
+26 	 25 	 N/N 	 1 	 payments annual
+26 	 27 	 (NP\NP)/NP 	 1 	 payments of
+28 	 27 	 (NP\NP)/NP 	 2 	 as of
+29 	 28 	 (N/PP)/(S[adj]\NP) 	 2 	 much as
+30 	 28 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+31 	 30 	 PP/NP 	 1 	 $ as
+33 	 31 	 N/N[num] 	 1 	 million $
+33 	 32 	 N/N 	 1 	 million 500
+37 	 35 	 NP[nb]/N 	 1 	 liability the
+37 	 36 	 N/N 	 1 	 liability total
+37 	 38 	 (NP\NP)/NP 	 1 	 liability of
+37 	 43 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 liability is
+37 	 44 	 S[pss]\NP 	 1 	 liability paid <XB>
+40 	 38 	 (NP\NP)/NP 	 2 	 $ of
+40 	 39 	 N/N 	 1 	 $ approximately
+42 	 40 	 N/N[num] 	 1 	 billion $
+42 	 41 	 N/N 	 1 	 billion 1.25
+43 	 34 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is until
+44 	 43 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 paid is
+<\s>
+<s id="wsj_1696.3"> 30
+1 	 0 	 NP[nb]/N 	 1 	 action The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 action abandons
+1 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 action is <XU>
+1 	 17 	 (S[pss]\NP)/PP 	 1 	 action seen <XU>
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 efforts abandons
+4 	 3 	 N/N 	 1 	 efforts earlier
+4 	 6 	 (S[b]\NP)/NP 	 1 	 efforts find <XB>
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 find to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 cuts find
+8 	 7 	 N/N 	 1 	 cuts offsetting
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 fund to
+12 	 10 	 (S[b]\NP)/NP 	 2 	 payments fund
+12 	 11 	 NP[nb]/N 	 1 	 payments the
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 is widely
+17 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 seen is
+18 	 17 	 (S[pss]\NP)/PP 	 2 	 as seen
+21 	 20 	 (N/N)/(N/N) 	 2 	 realistic more
+22 	 18 	 PP/NP 	 1 	 means as
+22 	 19 	 NP[nb]/N 	 1 	 means a
+22 	 21 	 N/N 	 1 	 means realistic
+22 	 23 	 (NP\NP)/(S[ng]\NP) 	 1 	 means of
+24 	 23 	 (NP\NP)/(S[ng]\NP) 	 2 	 expediting of
+25 	 24 	 (S[ng]\NP)/NP 	 2 	 reparations expediting
+25 	 27 	 S[pss]\NP 	 1 	 reparations authorized <XB>
+27 	 26 	 (S\NP)/(S\NP) 	 2 	 authorized first
+27 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 authorized in
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 1988 in
+<\s>
+<s id="wsj_1696.4"> 31
+1 	 0 	 NP[nb]/N 	 1 	 action The
+1 	 2 	 S[dcl]\NP 	 1 	 action came
+2 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 came as
+4 	 5 	 ((S[dcl]\NP)/NP)/PP 	 1 	 Congress sent
+5 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 sent as
+6 	 5 	 ((S[dcl]\NP)/NP)/PP 	 3 	 to sent
+8 	 6 	 PP/NP 	 1 	 Bush to
+8 	 7 	 N/N 	 1 	 Bush President
+12 	 5 	 ((S[dcl]\NP)/NP)/PP 	 2 	 bill sent
+12 	 9 	 NP[nb]/N 	 1 	 bill a
+12 	 10 	 N/N 	 1 	 bill fiscal
+12 	 11 	 N/N 	 1 	 bill 1990
+12 	 13 	 ((S[ng]\NP)/PP)/NP 	 1 	 bill providing <XB>
+16 	 13 	 ((S[ng]\NP)/PP)/NP 	 3 	 $ providing
+16 	 14 	 NP[nb]/N 	 1 	 $ an
+16 	 15 	 N/N 	 1 	 $ estimated
+18 	 16 	 N/N[num] 	 1 	 billion $
+18 	 17 	 N/N 	 1 	 billion 156.7
+19 	 13 	 ((S[ng]\NP)/PP)/NP 	 2 	 for providing
+21 	 19 	 PP/NP 	 1 	 Departments for
+21 	 20 	 NP[nb]/N 	 1 	 Departments the
+21 	 22 	 (NP\NP)/NP 	 1 	 Departments of
+23 	 22 	 (NP\NP)/NP 	 2 	 Labor of
+25 	 22 	 (NP\NP)/NP 	 2 	 Education of
+27 	 22 	 (NP\NP)/NP 	 2 	 Health of
+30 	 22 	 (NP\NP)/NP 	 2 	 Services of
+30 	 29 	 N/N 	 1 	 Services Human
+<\s>
+<s id="wsj_1696.5"> 33
+1 	 0 	 N/N 	 1 	 approval Final
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 approval was
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 on was
+7 	 3 	 PP/NP 	 1 	 call on
+7 	 4 	 NP[nb]/N 	 1 	 call a
+7 	 5 	 N/N 	 1 	 call 67-31
+7 	 6 	 N/N 	 1 	 call roll
+7 	 8 	 (NP\NP)/NP 	 1 	 call in
+7 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 call which
+7 	 13 	 (S[dcl]\NP)/NP 	 1 	 call sets <XB>
+10 	 8 	 (NP\NP)/NP 	 2 	 Senate in
+10 	 9 	 NP[nb]/N 	 1 	 Senate the
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 sets which
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 stage sets
+15 	 14 	 NP[nb]/N 	 1 	 stage the
+15 	 16 	 (NP\NP)/NP 	 1 	 stage for
+19 	 16 	 (NP\NP)/NP 	 2 	 confrontation for
+19 	 17 	 NP[nb]/N 	 1 	 confrontation a
+19 	 18 	 N/N 	 1 	 confrontation veto
+19 	 20 	 (NP\NP)/NP 	 1 	 confrontation with
+19 	 23 	 (NP\NP)/NP 	 1 	 confrontation over
+22 	 20 	 (NP\NP)/NP 	 2 	 Bush with
+22 	 21 	 N/N 	 1 	 Bush Mr.
+25 	 23 	 (NP\NP)/NP 	 2 	 issue over
+25 	 24 	 NP[nb]/N 	 1 	 issue the
+25 	 26 	 (NP\NP)/NP 	 1 	 issue of
+29 	 26 	 (NP\NP)/NP 	 2 	 abortions of
+29 	 27 	 N/N 	 1 	 abortions publicly
+29 	 28 	 N/N 	 1 	 abortions financed
+29 	 30 	 (NP\NP)/NP 	 1 	 abortions for
+32 	 30 	 (NP\NP)/NP 	 2 	 women for
+32 	 31 	 N/N 	 1 	 women poor
+<\s>
+<s id="wsj_1696.6"> 41
+4 	 0 	 (S[ng]\NP)/NP 	 2 	 policy Reversing
+4 	 1 	 NP[nb]/N 	 1 	 policy an
+4 	 2 	 N/N 	 1 	 policy eight-year
+4 	 3 	 N/N 	 1 	 policy federal
+7 	 6 	 NP[nb]/N 	 1 	 measure the
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 measure supports
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 abortions supports
+10 	 9 	 N/N 	 1 	 abortions Medicaid
+10 	 11 	 (NP\NP)/NP 	 1 	 abortions in
+12 	 11 	 (NP\NP)/NP 	 2 	 cases in
+12 	 13 	 (NP\NP)/NP 	 1 	 cases of
+14 	 13 	 (NP\NP)/NP 	 2 	 rape of
+16 	 13 	 (NP\NP)/NP 	 2 	 incest of
+20 	 19 	 N/N 	 1 	 Bush Mr.
+20 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Bush has
+20 	 24 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Bush refused <XB>
+20 	 26 	 (S[b]\NP)/NP 	 1 	 Bush support <XB>
+21 	 23 	 (S\NP)\(S\NP) 	 2 	 has far
+23 	 22 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 far so
+24 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 refused has
+25 	 24 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to refused
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 support to
+29 	 26 	 (S[b]\NP)/NP 	 2 	 exemption support
+29 	 27 	 NP[nb]/N 	 1 	 exemption any
+29 	 28 	 N/N 	 1 	 exemption specific
+29 	 30 	 (NP\NP)/NP 	 1 	 exemption beyond
+31 	 30 	 (NP\NP)/NP 	 2 	 instances beyond
+31 	 33 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 instances which
+32 	 33 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+35 	 34 	 NP[nb]/N 	 1 	 mother the
+35 	 36 	 (NP[nb]/N)\NP 	 2 	 mother 's
+37 	 36 	 (NP[nb]/N)\NP 	 1 	 life 's
+37 	 38 	 (S[dcl]\NP)/PP 	 1 	 life is
+38 	 33 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 is which
+39 	 38 	 (S[dcl]\NP)/PP 	 2 	 in is
+40 	 39 	 PP/NP 	 1 	 danger in
+<\s>
+<s id="wsj_1696.7"> 43
+1 	 0 	 N/N 	 1 	 Bush Mr.
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Bush 's
+4 	 2 	 (NP[nb]/N)\NP 	 1 	 power 's
+4 	 3 	 N/N 	 1 	 power veto
+4 	 5 	 ((S[dcl]\NP)/NP)/NP 	 1 	 power puts
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 puts in
+6 	 5 	 ((S[dcl]\NP)/NP)/NP 	 3 	 him puts
+9 	 5 	 ((S[dcl]\NP)/NP)/NP 	 2 	 position puts
+9 	 7 	 NP[nb]/N 	 1 	 position a
+9 	 8 	 N/N 	 1 	 position commanding
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 House in
+14 	 11 	 NP[nb]/N 	 1 	 House the
+14 	 12 	 N/N 	 1 	 House narrowly
+14 	 13 	 N/N 	 1 	 House divided
+18 	 17 	 NP[nb]/N 	 1 	 vote a
+18 	 20 	 (S[b]\NP)/NP 	 1 	 vote override <XB>
+18 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 vote could
+18 	 25 	 (S[b]\NP)/NP 	 1 	 vote pick <XB>
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 override to
+22 	 20 	 (S[b]\NP)/NP 	 2 	 position override
+22 	 21 	 NP[nb]/N 	 1 	 position his
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 could well
+25 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 pick could
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 pick up
+25 	 29 	 ((S\NP)\(S\NP))/PP 	 2 	 pick because
+28 	 25 	 (S[b]\NP)/NP 	 2 	 support pick
+28 	 27 	 N/N 	 1 	 support new
+30 	 29 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+32 	 30 	 PP/NP 	 1 	 wealth of
+32 	 31 	 NP[nb]/N 	 1 	 wealth the
+32 	 33 	 (NP\NP)/NP 	 1 	 wealth of
+37 	 33 	 (NP\NP)/NP 	 2 	 programs of
+37 	 34 	 N/N 	 1 	 programs health
+37 	 36 	 N/N 	 1 	 programs education
+37 	 38 	 S[pss]\NP 	 1 	 programs financed <XB>
+38 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 financed in
+42 	 39 	 ((S\NP)\(S\NP))/NP 	 3 	 bill in
+42 	 40 	 NP[nb]/N 	 1 	 bill the
+42 	 41 	 N/N 	 1 	 bill underlying
+<\s>
+<s id="wsj_1696.8"> 18
+1 	 0 	 NP[nb]/N 	 1 	 measure The
+1 	 5 	 NP\NP 	 1 	 measure yesterday
+1 	 6 	 (S[dcl]\NP)/NP 	 1 	 measure funds
+4 	 2 	 ((NP\NP)/(NP\NP))/NP 	 3 	 conference before
+4 	 3 	 NP[nb]/N 	 1 	 conference the
+5 	 2 	 ((NP\NP)/(NP\NP))/NP 	 2 	 yesterday before
+6 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 funds through
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 Departments funds
+8 	 7 	 NP[nb]/N 	 1 	 Departments the
+8 	 9 	 (NP\NP)/NP 	 1 	 Departments of
+10 	 9 	 (NP\NP)/NP 	 2 	 State of
+12 	 9 	 (NP\NP)/NP 	 2 	 Justice of
+14 	 9 	 (NP\NP)/NP 	 2 	 Commerce of
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 1990 through
+17 	 16 	 N/N 	 1 	 1990 fiscal
+<\s>
+<s id="wsj_1696.9"> 27
+2 	 0 	 NP[nb]/N 	 1 	 $ An
+2 	 1 	 N/N 	 1 	 $ estimated
+2 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 $ is
+2 	 6 	 S[pss]\NP 	 1 	 $ provided <XB>
+4 	 2 	 N/N[num] 	 1 	 billion $
+4 	 3 	 N/N 	 1 	 billion 1.32
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 provided is
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 provided for
+9 	 8 	 N/N 	 1 	 year next
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 year 's
+11 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 census for
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 census 's
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 negotiators stripped
+18 	 15 	 (S[dcl]\NP)/NP 	 2 	 rider stripped
+18 	 16 	 NP[nb]/N 	 1 	 rider a
+18 	 17 	 N/N 	 1 	 rider Senate-passed
+18 	 19 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 rider seeking <XB>
+18 	 21 	 (S[b]\NP)/NP 	 1 	 rider block <XB>
+20 	 19 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to seeking
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 block to
+23 	 21 	 (S[b]\NP)/NP 	 2 	 counting block
+23 	 22 	 NP[nb]/N 	 1 	 counting the
+23 	 24 	 (NP\NP)/NP 	 1 	 counting of
+26 	 24 	 (NP\NP)/NP 	 2 	 aliens of
+26 	 25 	 N/N 	 1 	 aliens illegal
+<\s>
+<s id="wsj_1696.10"> 20
+1 	 0 	 (S/S)/PP 	 2 	 in Elsewhere
+4 	 1 	 PP/NP 	 1 	 Department in
+4 	 2 	 NP[nb]/N 	 1 	 Department the
+4 	 3 	 N/N 	 1 	 Department Commerce
+7 	 6 	 N/N 	 1 	 $ nearly
+7 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 $ is
+7 	 11 	 S[pss]\NP 	 1 	 $ preserved <XB>
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 191.2
+10 	 0 	 (S/S)/PP 	 1 	 is Elsewhere
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 preserved is
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 preserved for
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 programs for
+14 	 13 	 N/N 	 1 	 programs assistance
+14 	 15 	 (NP\NP)/NP 	 1 	 programs under
+19 	 15 	 (NP\NP)/NP 	 2 	 Administration under
+19 	 16 	 NP[nb]/N 	 1 	 Administration the
+19 	 17 	 N/N 	 1 	 Administration Economic
+19 	 18 	 N/N 	 1 	 Administration Development
+<\s>
+<s id="wsj_1696.11"> 46
+3 	 1 	 (S/S)/NP 	 2 	 footnote in
+3 	 2 	 NP[nb]/N 	 1 	 footnote a
+3 	 4 	 (NP\NP)/NP 	 1 	 footnote to
+6 	 4 	 (NP\NP)/NP 	 2 	 fall to
+6 	 5 	 NP[nb]/N 	 1 	 fall the
+6 	 7 	 (NP\NP)/NP 	 1 	 fall of
+6 	 12 	 (NP\NP)/N 	 1 	 fall this
+11 	 7 	 (NP\NP)/NP 	 2 	 Wright of
+11 	 8 	 N/N 	 1 	 Wright House
+11 	 9 	 N/N 	 1 	 Wright Speaker
+11 	 10 	 N/N 	 1 	 Wright James
+13 	 12 	 (NP\NP)/N 	 2 	 year this
+16 	 15 	 NP[nb]/N 	 1 	 conference the
+16 	 17 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 conference voted
+16 	 19 	 (S[b]\NP)/NP 	 1 	 conference rescind <XB>
+17 	 0 	 S/S 	 1 	 voted And
+17 	 1 	 (S/S)/NP 	 1 	 voted in
+18 	 17 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to voted
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rescind to
+20 	 19 	 (S[b]\NP)/NP 	 2 	 $ rescind
+20 	 23 	 (NP\NP)/NP 	 1 	 $ in
+20 	 27 	 (NP\NP)/NP 	 1 	 $ for
+22 	 20 	 N/N[num] 	 1 	 million $
+22 	 21 	 N/N 	 1 	 million 11.8
+26 	 23 	 (NP\NP)/NP 	 2 	 funds in
+26 	 24 	 N/N 	 1 	 funds unspent
+26 	 25 	 N/N 	 1 	 funds EDA
+32 	 29 	 (N/N)/(N/N) 	 2 	 Texas Fort
+32 	 30 	 (N/N)/(N/N) 	 2 	 Texas Worth
+35 	 27 	 (NP\NP)/NP 	 2 	 project for
+35 	 28 	 NP[nb]/N 	 1 	 project a
+35 	 32 	 N/N 	 1 	 project Texas
+35 	 34 	 N/N 	 1 	 project stockyards
+35 	 36 	 (NP\NP)/(S[dcl]\NP) 	 1 	 project that
+35 	 37 	 S[dcl]\NP 	 1 	 project figured <XB>
+37 	 36 	 (NP\NP)/(S[dcl]\NP) 	 2 	 figured that
+37 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 figured in
+40 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 charges in
+40 	 39 	 N/N 	 1 	 charges ethics
+40 	 41 	 (NP\NP)/NP 	 1 	 charges against
+45 	 41 	 (NP\NP)/NP 	 2 	 leader against
+45 	 42 	 NP[nb]/N 	 1 	 leader the
+45 	 43 	 N/N 	 1 	 leader former
+45 	 44 	 N/N 	 1 	 leader Democratic
+<\s>
+<s id="wsj_1696.12"> 40
+1 	 0 	 N/N 	 1 	 pressures Fiscal
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 pressures forced
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 forced also
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 adoption forced
+5 	 4 	 NP[nb]/N 	 1 	 adoption the
+5 	 6 	 (NP\NP)/NP 	 1 	 adoption of
+8 	 6 	 (NP\NP)/NP 	 2 	 fees of
+8 	 7 	 N/N 	 1 	 fees new
+8 	 9 	 S[pss]\NP 	 1 	 fees charged <XB>
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 charged by
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 agencies by
+12 	 11 	 N/N 	 1 	 agencies federal
+17 	 16 	 (N/N)/(N/N) 	 2 	 % 18
+18 	 15 	 NP[nb]/N 	 1 	 increase an
+18 	 17 	 N/N 	 1 	 increase %
+18 	 19 	 (NP\NP)/NP 	 1 	 increase in
+18 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 increase would
+18 	 29 	 S[pss]\NP 	 1 	 increase financed <XB>
+21 	 20 	 NP[nb]/N 	 1 	 Securities the
+21 	 25 	 (NP[nb]/N)\NP 	 2 	 Securities 's
+24 	 20 	 NP[nb]/N 	 1 	 Commission the
+24 	 23 	 N/N 	 1 	 Commission Exchange
+24 	 25 	 (NP[nb]/N)\NP 	 2 	 Commission 's
+26 	 19 	 (NP\NP)/NP 	 2 	 budget in
+26 	 25 	 (NP[nb]/N)\NP 	 1 	 budget 's
+28 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+29 	 28 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 financed be
+29 	 30 	 (S\NP)\(S\NP) 	 2 	 financed entirely
+29 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 financed by
+34 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 $ by
+34 	 32 	 NP[nb]/N 	 1 	 $ an
+34 	 33 	 N/N 	 1 	 $ added
+34 	 37 	 (NP\NP)/NP 	 1 	 $ in
+36 	 34 	 N/N[num] 	 1 	 million $
+36 	 35 	 N/N 	 1 	 million 26
+39 	 37 	 (NP\NP)/NP 	 2 	 fees in
+39 	 38 	 N/N 	 1 	 fees filing
+<\s>
+<s id="wsj_1696.13"> 45
+3 	 0 	 (S/S)/NP 	 2 	 step In
+3 	 1 	 NP[nb]/N 	 1 	 step an
+3 	 2 	 N/N 	 1 	 step unprecedented
+6 	 5 	 NP[nb]/N 	 1 	 measure the
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 measure anticipates
+6 	 15 	 ((S[ng]\NP)/(S[b]\NP))/NP 	 1 	 measure having <XB>
+7 	 0 	 (S/S)/NP 	 1 	 anticipates In
+7 	 14 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 anticipates by
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 $ anticipates
+9 	 8 	 NP[nb]/N 	 1 	 $ another
+9 	 12 	 (NP\NP)/NP 	 1 	 $ in
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 30
+13 	 12 	 (NP\NP)/NP 	 2 	 receipts in
+15 	 14 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 having by
+18 	 15 	 ((S[ng]\NP)/(S[b]\NP))/NP 	 3 	 Bureau having
+18 	 16 	 NP[nb]/N 	 1 	 Bureau the
+18 	 17 	 N/N 	 1 	 Bureau Federal
+18 	 19 	 (NP\NP)/NP 	 1 	 Bureau of
+18 	 21 	 (S[b]\NP)/PP 	 1 	 Bureau charge <XB>
+20 	 19 	 (NP\NP)/NP 	 2 	 Investigation of
+21 	 15 	 ((S[ng]\NP)/(S[b]\NP))/NP 	 2 	 charge having
+21 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 charge in
+21 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 charge --
+22 	 21 	 (S[b]\NP)/PP 	 2 	 for charge
+24 	 22 	 PP/NP 	 1 	 services for
+24 	 23 	 N/N 	 1 	 services fingerprint
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 cases in
+27 	 26 	 N/N 	 1 	 cases civil
+30 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 change --
+30 	 29 	 NP[nb]/N 	 1 	 change a
+30 	 31 	 (NP\NP)/(S[dcl]\NP) 	 1 	 change that
+30 	 32 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 change is <XB>
+30 	 34 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 change certain <XB>
+32 	 31 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is that
+34 	 32 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 certain is
+34 	 33 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 certain almost
+35 	 34 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to certain
+36 	 35 	 (S[to]\NP)/(S[b]\NP) 	 2 	 increase to
+38 	 36 	 (S[b]\NP)/NP 	 2 	 costs increase
+38 	 37 	 N/N 	 1 	 costs Pentagon
+38 	 39 	 (NP\NP)/(S[ng]\NP) 	 1 	 costs in
+40 	 39 	 (NP\NP)/(S[ng]\NP) 	 2 	 processing in
+44 	 40 	 (S[ng]\NP)/NP 	 2 	 clearances processing
+44 	 41 	 N/N 	 1 	 clearances personnel
+44 	 43 	 N/N 	 1 	 clearances security
+<\s>
+<s id="wsj_1696.14"> 28
+1 	 0 	 NP[nb]/N 	 1 	 bill The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bill does
+1 	 4 	 (S[b]\NP)/NP 	 1 	 bill include <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 does n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 include does
+7 	 4 	 (S[b]\NP)/NP 	 2 	 $ include
+7 	 5 	 NP[nb]/N 	 1 	 $ an
+7 	 6 	 N/N 	 1 	 $ estimated
+7 	 10 	 (NP\NP)/NP 	 1 	 $ in
+9 	 7 	 N/N[num] 	 1 	 billion $
+9 	 8 	 N/N 	 1 	 billion 1.9
+13 	 10 	 (NP\NP)/NP 	 2 	 funds in
+13 	 11 	 N/N 	 1 	 funds supplemental
+13 	 12 	 N/N 	 1 	 funds anti-drug
+13 	 14 	 (NP\NP)/NP 	 1 	 funds for
+13 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 funds that
+13 	 21 	 (S[dcl]\NP)/PP 	 1 	 funds are <XB>
+16 	 15 	 (N/N)/(N/N) 	 2 	 Department Justice
+18 	 15 	 (N/N)/(N/N) 	 2 	 law-enforcement Justice
+19 	 14 	 (NP\NP)/NP 	 2 	 accounts for
+19 	 16 	 N/N 	 1 	 accounts Department <XU>
+19 	 18 	 N/N 	 1 	 accounts law-enforcement
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 are still
+23 	 21 	 (S[dcl]\NP)/PP 	 2 	 in are
+24 	 23 	 PP/NP 	 1 	 conference in
+24 	 25 	 (NP\NP)/NP 	 1 	 conference with
+27 	 25 	 (NP\NP)/NP 	 2 	 House with
+27 	 26 	 NP[nb]/N 	 1 	 House the
+<\s>
+<s id="wsj_1696.15"> 35
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 yesterday 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 agreement 's
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 agreement would
+3 	 5 	 (((S[b]\NP)/S[for])/(S[adj]\NP))/NP[expl] 	 1 	 agreement make <XB>
+3 	 17 	 (S[ng]\NP)/NP 	 1 	 agreement deferring <XB>
+4 	 0 	 S/S 	 1 	 would But
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make would
+5 	 16 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 make by
+6 	 5 	 (((S[b]\NP)/S[for])/(S[adj]\NP))/NP[expl] 	 4 	 it make
+7 	 5 	 (((S[b]\NP)/S[for])/(S[adj]\NP))/NP[expl] 	 3 	 easier make
+8 	 5 	 (((S[b]\NP)/S[for])/(S[adj]\NP))/NP[expl] 	 2 	 for make
+10 	 8 	 (S[for]/(S[to]\NP))/NP 	 2 	 governments for
+10 	 9 	 N/N 	 1 	 governments state
+10 	 12 	 (S[b]\NP)/NP 	 1 	 governments handle <XB>
+11 	 8 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 handle to
+15 	 12 	 (S[b]\NP)/NP 	 2 	 aid handle
+15 	 13 	 NP[nb]/N 	 1 	 aid the
+15 	 14 	 N/N 	 1 	 aid promised
+17 	 16 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 deferring by
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 deferring for
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 year for
+20 	 19 	 N/N 	 1 	 year one
+24 	 23 	 (N/N)/(N/N) 	 2 	 % 50
+25 	 17 	 (S[ng]\NP)/NP 	 2 	 increase deferring
+25 	 21 	 NP[nb]/N 	 1 	 increase a
+25 	 22 	 N/N 	 1 	 increase scheduled
+25 	 24 	 N/N 	 1 	 increase %
+25 	 26 	 (NP\NP)/NP 	 1 	 increase in
+31 	 26 	 (NP\NP)/NP 	 2 	 funds in
+31 	 27 	 NP[nb]/N 	 1 	 funds the
+31 	 28 	 N/N 	 1 	 funds required
+31 	 29 	 N/N 	 1 	 funds state
+31 	 30 	 N/N 	 1 	 funds matching
+31 	 32 	 (NP\NP)/NP 	 1 	 funds for
+34 	 32 	 (NP\NP)/NP 	 2 	 grants for
+34 	 33 	 N/N 	 1 	 grants law-enforcement
+<\s>
+<s id="wsj_1696.16"> 37
+3 	 2 	 NP[nb]/N 	 1 	 measure the
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 measure adjusts
+3 	 10 	 ((S[b]\NP)/NP)/NP 	 1 	 measure promise <XB>
+4 	 0 	 S/S 	 1 	 adjusts Similarly
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 formula adjusts
+8 	 5 	 NP[nb]/N 	 1 	 formula the
+8 	 6 	 N/N 	 1 	 formula current
+8 	 7 	 N/N 	 1 	 formula funding
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 promise to
+12 	 10 	 ((S[b]\NP)/NP)/NP 	 3 	 states promise
+12 	 11 	 N/N 	 1 	 states smaller
+12 	 14 	 (NP\NP)/NP 	 1 	 states as
+14 	 13 	 (NP\NP)/(NP\NP) 	 2 	 as such
+16 	 14 	 (NP\NP)/NP 	 2 	 Hampshire as
+16 	 15 	 N/N 	 1 	 Hampshire New
+18 	 14 	 (NP\NP)/NP 	 2 	 Delaware as
+21 	 10 	 ((S[b]\NP)/NP)/NP 	 2 	 allocation promise
+21 	 19 	 NP[nb]/N 	 1 	 allocation a
+21 	 20 	 N/N 	 1 	 allocation minimum
+21 	 22 	 (NP\NP)/NP 	 1 	 allocation of
+23 	 22 	 (NP\NP)/NP 	 2 	 $ of
+23 	 26 	 NP\NP 	 1 	 $ each
+23 	 27 	 (NP\NP)/NP 	 1 	 $ in
+23 	 33 	 NP/NP 	 1 	 $ times
+25 	 23 	 N/N[num] 	 1 	 million $
+25 	 24 	 N/N 	 1 	 million 1.6
+29 	 27 	 (NP\NP)/NP 	 2 	 grants in
+29 	 28 	 N/N 	 1 	 grants drug
+33 	 32 	 (NP/NP)/(NP/NP) 	 2 	 times three
+36 	 22 	 (NP\NP)/NP 	 2 	 minimum of
+36 	 33 	 NP/NP 	 1 	 minimum times
+36 	 34 	 NP[nb]/N 	 1 	 minimum the
+36 	 35 	 N/N 	 1 	 minimum current
+<\s>
+<s id="wsj_1696.17"> 51
+2 	 0 	 NP[nb]/N 	 1 	 mix The
+2 	 1 	 N/N 	 1 	 mix odd
+2 	 3 	 (NP\NP)/NP 	 1 	 mix of
+2 	 5 	 (NP\NP)/NP 	 1 	 mix in
+2 	 8 	 ((S[dcl]\NP)/NP)/NP 	 1 	 mix makes
+4 	 3 	 (NP\NP)/NP 	 2 	 departments of
+7 	 5 	 (NP\NP)/NP 	 2 	 bill in
+7 	 6 	 NP[nb]/N 	 1 	 bill the
+9 	 8 	 ((S[dcl]\NP)/NP)/NP 	 3 	 it makes
+10 	 8 	 ((S[dcl]\NP)/NP)/NP 	 2 	 one makes
+10 	 11 	 (NP\NP)/NP 	 1 	 one of
+13 	 11 	 (NP\NP)/NP 	 2 	 more of
+13 	 12 	 NP[nb]/N 	 1 	 more the
+13 	 14 	 N\N 	 1 	 more eclectic
+13 	 15 	 (NP\NP)/NP 	 1 	 more of
+19 	 15 	 (NP\NP)/NP 	 2 	 measures of
+19 	 16 	 NP[nb]/N 	 1 	 measures the
+19 	 17 	 N/N 	 1 	 measures annual
+19 	 18 	 N/N 	 1 	 measures appropriations
+24 	 22 	 NP[nb]/N 	 1 	 provisions the
+24 	 23 	 N/N 	 1 	 provisions assorted
+24 	 25 	 S[pss]\NP 	 1 	 provisions attached <XB>
+24 	 28 	 (S[dcl]\NP)/PP 	 1 	 provisions run
+25 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 attached by
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 lawmakers by
+30 	 29 	 (PP/PP)/NP 	 2 	 $ from
+30 	 33 	 (NP\NP)/NP 	 1 	 $ for
+32 	 30 	 N/N[num] 	 1 	 million $
+32 	 31 	 N/N 	 1 	 million 1.5
+36 	 33 	 (NP\NP)/NP 	 2 	 farm for
+36 	 34 	 NP[nb]/N 	 1 	 farm a
+36 	 35 	 N/N 	 1 	 farm fish
+36 	 37 	 (NP\NP)/NP 	 1 	 farm in
+38 	 37 	 (NP\NP)/NP 	 2 	 Arkansas in
+39 	 28 	 (S[dcl]\NP)/PP 	 2 	 to run
+39 	 29 	 (PP/PP)/NP 	 1 	 to from
+42 	 39 	 PP/NP 	 1 	 festival to
+42 	 40 	 NP[nb]/N 	 1 	 festival a
+42 	 41 	 N/N 	 1 	 festival music
+42 	 43 	 (NP\NP)/NP 	 1 	 festival in
+42 	 45 	 (NP\NP)/NP 	 1 	 festival under
+44 	 43 	 (NP\NP)/NP 	 2 	 Moscow in
+50 	 45 	 (NP\NP)/NP 	 2 	 Agency under
+50 	 46 	 NP[nb]/N 	 1 	 Agency the
+50 	 47 	 N/N 	 1 	 Agency United
+50 	 48 	 N/N 	 1 	 Agency States
+50 	 49 	 N/N 	 1 	 Agency Information
+<\s>
+<s id="wsj_1696.18"> 36
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Lawmakers scrapped
+0 	 21 	 (S[dcl]\NP)/PP 	 1 	 Lawmakers agreed <XU>
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 all scrapped
+2 	 3 	 (NP\NP)/NP 	 1 	 all of
+7 	 5 	 (N/N)/N[num] 	 2 	 million $
+7 	 6 	 N/N 	 1 	 million 7.4
+10 	 3 	 (NP\NP)/NP 	 2 	 request of
+10 	 4 	 NP[nb]/N 	 1 	 request a
+10 	 5 	 (N/N)/N[num] 	 1 	 request $
+10 	 8 	 N/N 	 1 	 request State
+10 	 9 	 N/N 	 1 	 request Department
+10 	 11 	 (NP\NP)/NP 	 1 	 request for
+14 	 11 	 (NP\NP)/NP 	 2 	 Expo for
+14 	 12 	 NP[nb]/N 	 1 	 Expo the
+14 	 13 	 N/N 	 1 	 Expo 1992
+14 	 15 	 (NP\NP)/NP 	 1 	 Expo in
+16 	 15 	 (NP\NP)/NP 	 2 	 Seville in
+18 	 15 	 (NP\NP)/NP 	 2 	 Spain in
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 agreed elsewhere
+23 	 21 	 (S[dcl]\NP)/PP 	 2 	 to agreed
+24 	 23 	 PP/NP 	 1 	 $ to
+24 	 26 	 (NP\NP)/NP 	 1 	 $ for
+25 	 24 	 N/N[num] 	 1 	 15,000 $
+29 	 26 	 (NP\NP)/NP 	 2 	 portrait for
+29 	 27 	 NP[nb]/N 	 1 	 portrait an
+29 	 28 	 N/N 	 1 	 portrait oil
+29 	 30 	 (NP\NP)/NP 	 1 	 portrait of
+35 	 30 	 (NP\NP)/NP 	 2 	 Burger of
+35 	 31 	 N/N 	 1 	 Burger former
+35 	 32 	 N/N 	 1 	 Burger Chief
+35 	 33 	 N/N 	 1 	 Burger Justice
+35 	 34 	 N/N 	 1 	 Burger Warren
+<\s>
+<s id="wsj_1696.19"> 38
+5 	 0 	 N/N 	 1 	 Hollings Senate
+5 	 1 	 N/N 	 1 	 Hollings Commerce
+5 	 2 	 N/N 	 1 	 Hollings Committee
+5 	 3 	 N/N 	 1 	 Hollings Chairman
+5 	 4 	 N/N 	 1 	 Hollings Ernest
+5 	 6 	 (NP\NP)/NP 	 1 	 Hollings -LRB-
+5 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Hollings who
+5 	 14 	 (S[dcl]\NP)/NP 	 1 	 Hollings chairs <XB>
+5 	 23 	 (S[dcl]\NP)/NP 	 1 	 Hollings attached
+7 	 6 	 (NP\NP)/NP 	 2 	 D. -LRB-
+7 	 9 	 NP\NP 	 1 	 D. S.C.
+14 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 chairs who
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 chairs also
+14 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 chairs for
+18 	 14 	 (S[dcl]\NP)/NP 	 2 	 subcommittee chairs
+18 	 15 	 NP[nb]/N 	 1 	 subcommittee the
+18 	 16 	 N/N 	 1 	 subcommittee Senate
+18 	 17 	 N/N 	 1 	 subcommittee appropriations
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 department for
+21 	 20 	 NP[nb]/N 	 1 	 department the
+24 	 23 	 (S[dcl]\NP)/NP 	 2 	 $ attached
+24 	 27 	 (NP\NP)/NP 	 1 	 $ for
+26 	 24 	 N/N[num] 	 1 	 million $
+26 	 25 	 N/N 	 1 	 million 10
+31 	 27 	 (NP\NP)/NP 	 2 	 initiative for
+31 	 28 	 NP[nb]/N 	 1 	 initiative an
+31 	 29 	 N/N 	 1 	 initiative advanced
+31 	 30 	 N/N 	 1 	 initiative technology
+31 	 33 	 (NP\NP)/NP 	 1 	 initiative including
+34 	 33 	 (NP\NP)/NP 	 2 	 work including
+34 	 35 	 (NP\NP)/NP 	 1 	 work on
+37 	 35 	 (NP\NP)/NP 	 2 	 television on
+37 	 36 	 N/N 	 1 	 television high-definition
+<\s>
+<s id="wsj_1696.20"> 31
+2 	 0 	 NP[nb]/N 	 1 	 counterpart His
+2 	 1 	 N/N 	 1 	 counterpart Republican
+2 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 counterpart has
+2 	 14 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 1 	 counterpart used <XB>
+6 	 4 	 N/N 	 1 	 Rudman Sen.
+6 	 5 	 N/N 	 1 	 Rudman Warren
+6 	 7 	 (NP\NP)/NP 	 1 	 Rudman -LRB-
+6 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Rudman has
+6 	 14 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 1 	 Rudman used <XB>
+8 	 7 	 (NP\NP)/NP 	 2 	 R. -LRB-
+8 	 10 	 NP\NP 	 1 	 R. N.H.
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 used has
+16 	 14 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 3 	 position used
+16 	 15 	 NP[nb]/N 	 1 	 position his
+16 	 18 	 ((S[b]\NP)/PP)/NP 	 1 	 position wage <XB>
+17 	 14 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 2 	 to used
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 wage to
+21 	 18 	 ((S[b]\NP)/PP)/NP 	 3 	 war wage
+21 	 19 	 NP[nb]/N 	 1 	 war a
+21 	 20 	 N/N 	 1 	 war legislative
+22 	 18 	 ((S[b]\NP)/PP)/NP 	 2 	 with wage
+25 	 22 	 PP/NP 	 1 	 board with
+25 	 23 	 NP[nb]/N 	 1 	 board the
+25 	 24 	 N/N 	 1 	 board conservative
+25 	 26 	 (NP\NP)/NP 	 1 	 board of
+30 	 26 	 (NP\NP)/NP 	 2 	 Corp of
+30 	 27 	 NP[nb]/N 	 1 	 Corp the
+30 	 28 	 N/N 	 1 	 Corp Legal
+30 	 29 	 N/N 	 1 	 Corp Services
+<\s>
+<s id="wsj_1696.21"> 34
+2 	 0 	 NP[nb]/N 	 1 	 $ An
+2 	 1 	 N/N 	 1 	 $ estimated
+2 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 $ is
+2 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 $ provided <XB>
+2 	 8 	 (S[b]\NP)/NP 	 1 	 $ maintain <XB>
+4 	 2 	 N/N[num] 	 1 	 million $
+4 	 3 	 N/N 	 1 	 million 321
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 provided is
+7 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to provided
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 maintain to
+10 	 8 	 (S[b]\NP)/NP 	 2 	 program maintain
+10 	 9 	 NP[nb]/N 	 1 	 program the
+14 	 13 	 N/N 	 1 	 Rudman Mr.
+14 	 16 	 (S[dcl]\NP)/PP 	 1 	 Rudman succeeded
+16 	 15 	 (S\NP)/(S\NP) 	 2 	 succeeded also
+17 	 16 	 (S[dcl]\NP)/PP 	 2 	 in succeeded
+18 	 17 	 PP/(S[ng]\NP) 	 1 	 attaching in
+19 	 18 	 (S[ng]\NP)/NP 	 2 	 language attaching
+19 	 20 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 language seeking <XB>
+19 	 22 	 (S[b]\NP)/NP 	 1 	 language curb <XB>
+21 	 20 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to seeking
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 curb to
+22 	 29 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 curb until
+24 	 22 	 (S[b]\NP)/NP 	 2 	 authority curb
+24 	 23 	 NP[nb]/N 	 1 	 authority the
+24 	 25 	 (NP\NP)/NP 	 1 	 authority of
+28 	 25 	 (NP\NP)/NP 	 2 	 board of
+28 	 26 	 NP[nb]/N 	 1 	 board the
+28 	 27 	 N/N 	 1 	 board current
+31 	 30 	 N/N 	 1 	 members new
+31 	 32 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 members are
+31 	 33 	 S[pss]\NP 	 1 	 members confirmed <XB>
+32 	 29 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are until
+33 	 32 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 confirmed are
+<\s>
+<s id="wsj_1696.22"> 45
+2 	 0 	 NP[nb]/N 	 1 	 date The
+2 	 1 	 N/N 	 1 	 date effective
+2 	 3 	 (NP\NP)/NP 	 1 	 date of
+2 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 date would
+2 	 13 	 S[pss]\NP 	 1 	 date delayed <XB>
+6 	 3 	 (NP\NP)/NP 	 2 	 regulations of
+6 	 4 	 NP[nb]/N 	 1 	 regulations any
+6 	 5 	 N/N 	 1 	 regulations new
+6 	 7 	 (NP\NP)/NP 	 1 	 regulations by
+10 	 7 	 (NP\NP)/NP 	 2 	 board by
+10 	 8 	 NP[nb]/N 	 1 	 board the
+10 	 9 	 N/N 	 1 	 board current
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+13 	 12 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 delayed be
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 delayed until
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 Oct. until
+15 	 18 	 NP\NP 	 1 	 Oct. year
+16 	 15 	 N/N[num] 	 1 	 1 Oct.
+18 	 17 	 (NP\NP)/(NP\NP) 	 2 	 year next
+22 	 21 	 NP[nb]/N 	 1 	 bill the
+22 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 bill seeks
+22 	 25 	 (S[b]\NP)/NP 	 1 	 bill reverse <XB>
+24 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to seeks
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reverse to
+26 	 25 	 (S[b]\NP)/NP 	 2 	 efforts reverse
+26 	 27 	 (NP\NP)/NP 	 1 	 efforts by
+29 	 27 	 (NP\NP)/NP 	 2 	 corporation by
+29 	 28 	 NP[nb]/N 	 1 	 corporation the
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cut to
+31 	 32 	 (S\NP)\(S\NP) 	 2 	 cut off
+33 	 31 	 (S[b]\NP)/NP 	 2 	 funds cut
+33 	 34 	 (NP\NP)/NP 	 1 	 funds to
+36 	 34 	 (NP\NP)/NP 	 2 	 organizations to
+36 	 35 	 N/N 	 1 	 organizations service
+36 	 38 	 (NP\NP)/NP 	 1 	 organizations as
+38 	 37 	 (NP\NP)/(NP\NP) 	 2 	 as such
+41 	 38 	 (NP\NP)/NP 	 2 	 Research as
+41 	 39 	 NP[nb]/N 	 1 	 Research the
+41 	 40 	 N/N 	 1 	 Research Food
+44 	 38 	 (NP\NP)/NP 	 2 	 Center as
+44 	 39 	 NP[nb]/N 	 1 	 Center the
+44 	 40 	 N/N 	 1 	 Center Food
+44 	 43 	 N/N 	 1 	 Center Action
+<\s>
+<s id="wsj_1696.23"> 21
+1 	 0 	 NP[nb]/N 	 1 	 bill The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 bill provides
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 provides also
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 $ provides
+6 	 4 	 N/N[num] 	 1 	 million $
+6 	 5 	 N/N 	 1 	 million 620.5
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+10 	 8 	 (S[b]\NP)/NP 	 2 	 contributions meet
+10 	 9 	 N/N 	 1 	 contributions U.S.
+10 	 11 	 (NP\NP)/NP 	 1 	 contributions to
+13 	 11 	 (NP\NP)/NP 	 2 	 organizations to
+13 	 12 	 N/N 	 1 	 organizations international
+15 	 3 	 (S[dcl]\NP)/NP 	 2 	 $ provides
+15 	 18 	 (NP\NP)/NP 	 1 	 $ for
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 80
+20 	 18 	 (NP\NP)/NP 	 2 	 activities for
+20 	 19 	 N/N 	 1 	 activities peace-keeping
+<\s>
+<s id="wsj_1696.24"> 24
+1 	 0 	 NP[nb]/N 	 1 	 accounts Both
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 accounts reflect
+2 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 reflect although
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 increases reflect
+4 	 3 	 N/N 	 1 	 increases significant
+4 	 5 	 (NP\NP)/NP 	 1 	 increases from
+7 	 5 	 (NP\NP)/NP 	 2 	 1989 from
+7 	 6 	 N/N 	 1 	 1989 fiscal
+11 	 10 	 NP[nb]/N 	 1 	 amount the
+11 	 12 	 (NP\NP)/NP 	 1 	 amount for
+11 	 14 	 (S[dcl]\NP)/NP 	 1 	 amount shows
+13 	 12 	 (NP\NP)/NP 	 2 	 peace-keeping for
+14 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 shows although
+17 	 16 	 (N/N)/(N/N) 	 2 	 % 27
+18 	 14 	 (S[dcl]\NP)/NP 	 2 	 cut shows
+18 	 15 	 NP[nb]/N 	 1 	 cut a
+18 	 17 	 N/N 	 1 	 cut %
+18 	 19 	 (NP\NP)/NP 	 1 	 cut from
+21 	 20 	 NP[nb]/N 	 1 	 administration the
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 administration 's
+23 	 19 	 (NP\NP)/NP 	 2 	 request from
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 request 's
+<\s>

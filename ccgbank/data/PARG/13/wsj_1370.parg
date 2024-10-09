@@ -1,0 +1,70 @@
+<s id="wsj_1370.1"> 25
+2 	 0 	 N/N 	 1 	 Inc. Cray
+2 	 1 	 N/N 	 1 	 Inc. Research
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+4 	 5 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it sold
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 sold said
+6 	 5 	 ((S[dcl]\NP)/PP)/NP 	 3 	 one sold
+6 	 7 	 (NP\NP)/NP 	 1 	 one of
+13 	 7 	 (NP\NP)/NP 	 2 	 systems of
+13 	 8 	 NP[nb]/N 	 1 	 systems its
+13 	 9 	 N/N 	 1 	 systems newest <XU>
+13 	 11 	 N/N 	 1 	 systems largest
+13 	 12 	 N/N 	 1 	 systems computer
+17 	 7 	 (NP\NP)/NP 	 2 	 Y-MP\/832 of
+17 	 15 	 NP[nb]/N 	 1 	 Y-MP\/832 the
+17 	 16 	 N/N 	 1 	 Y-MP\/832 Cray
+19 	 5 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to sold
+24 	 19 	 PP/NP 	 1 	 Office to
+24 	 20 	 NP[nb]/N 	 1 	 Office the
+24 	 21 	 N/N 	 1 	 Office United
+24 	 22 	 N/N 	 1 	 Office Kingdom
+24 	 23 	 N/N 	 1 	 Office Meteorological
+<\s>
+<s id="wsj_1370.2"> 19
+1 	 0 	 NP[nb]/N 	 1 	 system The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 system is
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 first is
+4 	 3 	 NP[nb]/N 	 1 	 first the
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+7 	 6 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 sold be
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 sold through
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 agreement through
+12 	 9 	 NP[nb]/N 	 1 	 agreement the
+12 	 10 	 N/N 	 1 	 agreement joint
+12 	 11 	 N/N 	 1 	 agreement marketing
+12 	 13 	 (NP\NP)/NP 	 1 	 agreement between
+14 	 13 	 (NP\NP)/NP 	 2 	 Cray between
+18 	 13 	 (NP\NP)/NP 	 2 	 Corp between
+18 	 16 	 N/N 	 1 	 Corp Control
+18 	 17 	 N/N 	 1 	 Corp Data
+<\s>
+<s id="wsj_1370.3"> 29
+1 	 0 	 NP[nb]/N 	 1 	 supercomputer The
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 supercomputer which
+1 	 4 	 (S[dcl]\NP)/PP 	 1 	 supercomputer lists <XB>
+1 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 supercomputer will
+1 	 12 	 S[pss]\NP 	 1 	 supercomputer installed <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 lists which
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 for lists
+6 	 5 	 PP/NP 	 1 	 $ for
+8 	 6 	 N/N[num] 	 1 	 million $
+8 	 7 	 N/N 	 1 	 million 18.5
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 installed be
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 installed in
+12 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 installed in
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+16 	 14 	 NP[nb]/N 	 1 	 quarter the
+16 	 15 	 N/N 	 1 	 quarter first
+16 	 17 	 (NP\NP)/NP 	 1 	 quarter of
+18 	 17 	 (NP\NP)/NP 	 2 	 1990 of
+22 	 20 	 NP[nb]/N 	 1 	 office the
+22 	 21 	 N/N 	 1 	 office meteorological
+22 	 23 	 (NP[nb]/N)\NP 	 2 	 office 's
+24 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 headquarters in
+24 	 23 	 (NP[nb]/N)\NP 	 1 	 headquarters 's
+24 	 25 	 (NP\NP)/NP 	 1 	 headquarters in
+26 	 25 	 (NP\NP)/NP 	 2 	 Bracknell in
+28 	 25 	 (NP\NP)/NP 	 2 	 England in
+<\s>

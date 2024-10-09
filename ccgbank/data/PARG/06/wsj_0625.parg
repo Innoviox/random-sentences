@@ -1,0 +1,215 @@
+<s id="wsj_0625.1"> 20
+1 	 0 	 NP[nb]/N 	 1 	 Treasury The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Treasury said
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it plans
+3 	 6 	 (S[b]\NP)/NP 	 1 	 it sell <XB>
+3 	 16 	 (S[ng]\NP)/NP 	 1 	 it raising <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 plans said
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+6 	 14 	 (S\NP)\(S\NP) 	 2 	 sell today
+7 	 6 	 (S[b]\NP)/NP 	 2 	 $ sell
+7 	 10 	 (NP\NP)/NP 	 1 	 $ of
+9 	 7 	 N/N[num] 	 1 	 billion $
+9 	 8 	 N/N 	 1 	 billion 2
+13 	 10 	 (NP\NP)/NP 	 2 	 bills of
+13 	 11 	 N/N 	 1 	 bills 51-day
+13 	 12 	 N/N 	 1 	 bills cash-management
+19 	 16 	 (S[ng]\NP)/NP 	 2 	 cash raising
+19 	 17 	 N/N 	 1 	 cash all
+19 	 18 	 N/N 	 1 	 cash new
+<\s>
+<s id="wsj_0625.2"> 12
+1 	 0 	 NP[nb]/N 	 1 	 bills The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bills will
+1 	 4 	 (S[pss]\NP)/NP 	 1 	 bills dated <XB>
+1 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bills will <XU>
+1 	 9 	 S[b]\NP 	 1 	 bills mature <XU>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 dated be
+5 	 4 	 (S[pss]\NP)/NP 	 2 	 Oct. dated
+6 	 5 	 N/N[num] 	 1 	 31 Oct.
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 mature will
+9 	 10 	 ((S\NP)\(S\NP))/N[num] 	 2 	 mature Dec.
+11 	 10 	 ((S\NP)\(S\NP))/N[num] 	 3 	 21 Dec.
+<\s>
+<s id="wsj_0625.3"> 6
+2 	 0 	 NP[nb]/N 	 1 	 tenders No
+2 	 1 	 N/N 	 1 	 tenders non-competitive
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 tenders will
+2 	 5 	 S[pss]\NP 	 1 	 tenders accepted <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 accepted be
+<\s>
+<s id="wsj_0625.4"> 24
+0 	 2 	 S[adj]\NP 	 1 	 Tenders available <XB>
+0 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Tenders must
+0 	 13 	 S[pss]\NP 	 1 	 Tenders received <XB>
+2 	 3 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 available in
+5 	 3 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 denominations in
+5 	 4 	 N/N 	 1 	 denominations minimum
+5 	 6 	 (NP\NP)/NP 	 1 	 denominations of
+7 	 6 	 (NP\NP)/NP 	 2 	 $ of
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 1
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be must
+13 	 12 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 received be
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 received by
+13 	 17 	 (S\NP)\(S\NP) 	 2 	 received today
+13 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 received at
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 EST by
+16 	 15 	 N/N 	 1 	 EST noon
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 Banks at
+21 	 19 	 N/N 	 1 	 Banks Federal
+21 	 20 	 N/N 	 1 	 Banks Reserve
+23 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 branches at
+<\s>
+<s id="wsj_0625.5"> 29
+1 	 0 	 NP[nb]/N 	 1 	 Treasury The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 Treasury announced
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 announced also
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 details announced
+4 	 5 	 (NP\NP)/NP 	 1 	 details of
+7 	 6 	 NP[nb]/N 	 1 	 week this
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 week 's
+11 	 5 	 (NP\NP)/NP 	 2 	 auction of
+11 	 8 	 (NP[nb]/N)\NP 	 1 	 auction 's
+11 	 9 	 N/N 	 1 	 auction unusual
+11 	 10 	 N/N 	 1 	 auction bill
+11 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 auction which
+11 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 auction has <XB>
+11 	 16 	 S[pss]\NP 	 1 	 auction changed <XB>
+11 	 18 	 (S[b]\NP)/NP 	 1 	 auction accommodate <XB>
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+16 	 15 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 changed been
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 accommodate to
+20 	 18 	 (S[b]\NP)/NP 	 2 	 expiration accommodate
+20 	 19 	 NP[nb]/N 	 1 	 expiration the
+20 	 21 	 (NP\NP)/NP 	 1 	 expiration of
+20 	 26 	 (NP\NP)/NP 	 1 	 expiration at
+20 	 28 	 NP\NP 	 1 	 expiration tomorrow
+25 	 21 	 (NP\NP)/NP 	 2 	 ceiling of
+25 	 22 	 NP[nb]/N 	 1 	 ceiling the
+25 	 23 	 N/N 	 1 	 ceiling federal
+25 	 24 	 N/N 	 1 	 ceiling debt
+27 	 26 	 (NP\NP)/NP 	 2 	 midnight at
+<\s>
+<s id="wsj_0625.6"> 19
+4 	 0 	 NP[nb]/N 	 1 	 bills The
+4 	 1 	 N/N 	 1 	 bills 13-week
+4 	 3 	 N/N 	 1 	 bills 27-week
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bills will
+4 	 7 	 S[pss]\NP 	 1 	 bills issued <XB>
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+7 	 6 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 issued be
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 issued tomorrow
+8 	 10 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 tomorrow than
+10 	 9 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/(((S\NP)\(S\NP))\((S\NP)\(S\NP))) 	 4 	 than rather
+11 	 10 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 Thursday than
+11 	 16 	 (NP\NP)/(S[pss]\NP) 	 1 	 Thursday as
+11 	 18 	 S[pss]\NP 	 1 	 Thursday planned <XB>
+13 	 10 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 Nov. than
+13 	 16 	 (NP\NP)/(S[pss]\NP) 	 1 	 Nov. as
+13 	 18 	 S[pss]\NP 	 1 	 Nov. planned <XB>
+14 	 13 	 N/N[num] 	 1 	 2 Nov.
+18 	 16 	 (NP\NP)/(S[pss]\NP) 	 2 	 planned as
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 planned originally
+<\s>
+<s id="wsj_0625.8"> 26
+1 	 0 	 NP[nb]/N 	 1 	 Treasury The
+1 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Treasury said
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 said also
+5 	 4 	 N/N 	 1 	 tenders noncompetitive
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 tenders will
+5 	 8 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 tenders considered <XB>
+5 	 9 	 S[adj]\NP 	 1 	 tenders timely <XB>
+5 	 11 	 S[pss]\NP 	 1 	 tenders postmarked <XB>
+5 	 21 	 S[pss]\NP 	 1 	 tenders received <XU>
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+8 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 considered be
+8 	 10 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 2 	 considered if
+9 	 8 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 timely considered
+11 	 10 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 3 	 postmarked if
+11 	 13 	 (S\NP)\(S\NP) 	 2 	 postmarked later
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 later no
+13 	 14 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 later than
+15 	 14 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 Sunday than
+17 	 14 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 Oct. than
+18 	 17 	 N/N[num] 	 1 	 29 Oct.
+21 	 10 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 3 	 received if
+21 	 23 	 (S\NP)\(S\NP) 	 2 	 received later
+23 	 22 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 later no
+23 	 24 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 later than
+25 	 24 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 tomorrow than
+<\s>
+<s id="wsj_0625.9"> 26
+1 	 0 	 NP[nb]/N 	 1 	 Treasury The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Treasury said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it wo
+3 	 7 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 it able <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 wo said
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 wo n't
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be wo
+7 	 6 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 able be
+8 	 7 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 honor to
+11 	 9 	 (S[b]\NP)/NP 	 2 	 requests honor
+11 	 10 	 N/N 	 1 	 requests reinvestment
+11 	 12 	 (NP\NP)/NP 	 1 	 requests from
+13 	 12 	 (NP\NP)/NP 	 2 	 holders from
+13 	 14 	 (NP\NP)/NP 	 1 	 holders of
+15 	 14 	 (NP\NP)/NP 	 2 	 bills of
+15 	 16 	 S[ng]\NP 	 1 	 bills maturing <XB>
+15 	 19 	 S[pss]\NP 	 1 	 bills held <XB>
+16 	 17 	 ((S\NP)\(S\NP))/N[num] 	 2 	 maturing Nov.
+18 	 17 	 ((S\NP)\(S\NP))/N[num] 	 3 	 2 Nov.
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 held in
+22 	 21 	 NP[nb]/N 	 1 	 Treasury the
+22 	 23 	 (NP[nb]/N)\NP 	 2 	 Treasury 's
+25 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 system in
+25 	 23 	 (NP[nb]/N)\NP 	 1 	 system 's
+25 	 24 	 N/N 	 1 	 system book-entry
+<\s>
+<s id="wsj_0625.10"> 37
+1 	 0 	 NP[nb]/N 	 1 	 department The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 department will
+1 	 3 	 ((S[b]\NP)/PP)/NP 	 1 	 department make <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make will
+4 	 3 	 ((S[b]\NP)/PP)/NP 	 3 	 payment make
+4 	 5 	 (NP\NP)/NP 	 1 	 payment for
+6 	 5 	 (NP\NP)/NP 	 2 	 bills for
+6 	 7 	 S[ng]\NP 	 1 	 bills maturing <XB>
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 maturing on
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Nov. on
+10 	 9 	 N/N[num] 	 1 	 2 Nov.
+11 	 3 	 ((S[b]\NP)/PP)/NP 	 2 	 to make
+13 	 11 	 PP/NP 	 1 	 investors to
+13 	 12 	 NP[nb]/N 	 1 	 investors all
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 investors who
+13 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 investors have <XB>
+13 	 16 	 (S[pt]\NP)/NP 	 1 	 investors requested <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have who
+16 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 requested have
+17 	 16 	 (S[pt]\NP)/NP 	 2 	 reinvestment requested
+17 	 18 	 (NP\NP)/NP 	 1 	 reinvestment of
+17 	 21 	 (NP\NP)/NP 	 1 	 reinvestment on
+20 	 18 	 (NP\NP)/NP 	 2 	 bills of
+20 	 19 	 NP[nb]/N 	 1 	 bills their
+23 	 21 	 (NP\NP)/NP 	 2 	 date on
+23 	 22 	 NP[nb]/N 	 1 	 date that
+27 	 25 	 conj/conj 	 1 	 as as
+27 	 26 	 conj/conj 	 1 	 as well
+28 	 3 	 ((S[b]\NP)/PP)/NP 	 2 	 to make
+31 	 28 	 PP/NP 	 1 	 holders to
+31 	 29 	 NP[nb]/N 	 1 	 holders all
+31 	 30 	 N/N 	 1 	 holders account
+31 	 32 	 (NP\NP)/(S[dcl]\NP) 	 1 	 holders who
+31 	 33 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 holders have <XB>
+31 	 35 	 (S[pt]\NP)/NP 	 1 	 holders requested <XB>
+33 	 32 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have who
+33 	 34 	 (S\NP)\(S\NP) 	 2 	 have previously
+35 	 33 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 requested have
+36 	 35 	 (S[pt]\NP)/NP 	 2 	 payment requested
+<\s>

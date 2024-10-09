@@ -1,0 +1,264 @@
+<s id="wsj_0808.1"> 6
+1 	 0 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 Darman Dick
+3 	 1 	 (S\NP)/(S\NP) 	 2 	 call Darman
+5 	 3 	 (S[b]\NP)/NP 	 2 	 office call
+5 	 4 	 NP[nb]/N 	 1 	 office your
+<\s>
+<s id="wsj_0808.2"> 22
+0 	 11 	 (S[dcl]\(S[pss]\NP))/NP 	 1 	 Embedded is
+1 	 0 	 (S[pss]\NP)/PP 	 2 	 in Embedded
+3 	 1 	 PP/NP 	 1 	 budget in
+3 	 2 	 NP[nb]/N 	 1 	 budget the
+3 	 4 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 budget being <XB>
+3 	 5 	 S[pss]\NP 	 1 	 budget concocted <XB>
+5 	 4 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 concocted being
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 concocted by
+10 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 committee by
+10 	 7 	 NP[nb]/N 	 1 	 committee the
+10 	 8 	 N/N 	 1 	 committee House-Senate
+10 	 9 	 N/N 	 1 	 committee conference
+12 	 11 	 (S[dcl]\(S[pss]\NP))/NP 	 2 	 something is
+12 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 something that
+12 	 14 	 S[dcl]\NP 	 1 	 something looks <XB>
+12 	 16 	 S[dcl]\NP 	 1 	 something smells <XU>
+12 	 18 	 S[dcl]\NP 	 1 	 something waddles <XU>
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 looks that
+14 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 looks like
+16 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 smells that
+16 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 smells like
+18 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 waddles that
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 waddles like
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 duck like
+21 	 20 	 NP[nb]/N 	 1 	 duck a
+<\s>
+<s id="wsj_0808.3"> 7
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 tax 's
+4 	 2 	 NP[nb]/N 	 1 	 tax a
+4 	 3 	 N/N 	 1 	 tax nuisance
+4 	 5 	 (NP\NP)/NP 	 1 	 tax on
+6 	 5 	 (NP\NP)/NP 	 2 	 mergers on
+<\s>
+<s id="wsj_0808.4"> 25
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Congress has
+0 	 2 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Congress decided <XB>
+0 	 4 	 (S[b]\NP)/NP 	 1 	 Congress raise <XB>
+0 	 9 	 (((S[ng]\NP)/PP)/NP)/NP 	 1 	 Congress charging <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 decided has
+3 	 2 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to decided
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 raise to
+4 	 8 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 raise by
+5 	 4 	 (S[b]\NP)/NP 	 2 	 $ raise
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 40
+9 	 8 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 charging by
+10 	 9 	 (((S[ng]\NP)/PP)/NP)/NP 	 4 	 companies charging
+11 	 9 	 (((S[ng]\NP)/PP)/NP)/NP 	 3 	 $ charging
+12 	 11 	 N/N[num] 	 1 	 20,000 $
+13 	 9 	 (((S[ng]\NP)/PP)/NP)/NP 	 2 	 for charging
+15 	 13 	 PP/NP 	 1 	 honor for
+15 	 14 	 NP[nb]/N 	 1 	 honor the
+15 	 16 	 (NP\NP)/(S[ng]\NP) 	 1 	 honor of
+17 	 16 	 (NP\NP)/(S[ng]\NP) 	 2 	 filing of
+20 	 17 	 (S[ng]\NP)/NP 	 2 	 papers filing
+20 	 18 	 NP[nb]/N 	 1 	 papers the
+20 	 19 	 N/N 	 1 	 papers required
+20 	 21 	 (NP\NP)/NP 	 1 	 papers under
+24 	 21 	 (NP\NP)/NP 	 2 	 law under
+24 	 22 	 NP[nb]/N 	 1 	 law the
+24 	 23 	 N/N 	 1 	 law Hart-Scott-Rodino
+<\s>
+<s id="wsj_0808.5"> 32
+1 	 0 	 (S/S)/(S/S) 	 2 	 since Ever
+4 	 1 	 (S/S)/NP 	 2 	 days since
+4 	 2 	 NP[nb]/N 	 1 	 days the
+4 	 3 	 N/N 	 1 	 days bad
+4 	 5 	 (NP\NP)/NP 	 1 	 days of
+6 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Big is
+6 	 8 	 S[adj]\NP 	 1 	 Big Bad <XB>
+8 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 Bad is
+10 	 5 	 (NP\NP)/NP 	 2 	 enforcement of
+10 	 9 	 NP/NP 	 1 	 enforcement antitrust
+13 	 12 	 NP[nb]/N 	 1 	 law this
+13 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 law has
+13 	 15 	 (S[pt]\NP)/S[em] 	 1 	 law required <XB>
+14 	 1 	 (S/S)/NP 	 1 	 has since
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 required has
+16 	 15 	 (S[pt]\NP)/S[em] 	 2 	 that required
+17 	 18 	 (S[ng]\NP)/NP 	 1 	 anyone proposing <XB>
+17 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 anyone must
+17 	 22 	 (S[b]\NP)/NP 	 1 	 anyone make <XB>
+20 	 18 	 (S[ng]\NP)/NP 	 2 	 merger proposing
+20 	 19 	 NP[nb]/N 	 1 	 merger a
+21 	 16 	 S[em]/S[dcl] 	 1 	 must that
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make must
+24 	 22 	 (S[b]\NP)/NP 	 2 	 filing make
+24 	 23 	 NP[nb]/N 	 1 	 filing a
+24 	 25 	 (S[ng]\NP)/NP 	 1 	 filing describing <XB>
+27 	 25 	 (S[ng]\NP)/NP 	 2 	 effects describing
+27 	 26 	 NP[nb]/N 	 1 	 effects the
+27 	 28 	 (NP\NP)/NP 	 1 	 effects on
+31 	 28 	 (NP\NP)/NP 	 2 	 markets on
+31 	 29 	 NP[nb]/N 	 1 	 markets all
+31 	 30 	 N/N 	 1 	 markets relevant
+<\s>
+<s id="wsj_0808.7"> 28
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Hart-Scott is
+2 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Hart-Scott used <XB>
+2 	 7 	 ((S[b]\NP)/NP)/NP 	 1 	 Hart-Scott give <XB>
+3 	 0 	 S/S 	 1 	 is Typically
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 used is
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 used now
+6 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give to
+8 	 7 	 ((S[b]\NP)/NP)/NP 	 3 	 managers give
+8 	 9 	 (NP\NP)/NP 	 1 	 managers of
+11 	 9 	 (NP\NP)/NP 	 2 	 firms of
+11 	 10 	 N/N 	 1 	 firms target
+13 	 7 	 ((S[b]\NP)/NP)/NP 	 2 	 news give
+13 	 12 	 N/N 	 1 	 news early
+13 	 14 	 (NP\NP)/NP 	 1 	 news of
+16 	 14 	 (NP\NP)/NP 	 2 	 bid of
+16 	 15 	 NP[nb]/N 	 1 	 bid a
+19 	 7 	 ((S[b]\NP)/NP)/NP 	 2 	 chance give
+19 	 18 	 NP[nb]/N 	 1 	 chance a
+19 	 21 	 ((S[b]\NP)/PP)/NP 	 1 	 chance use <XB>
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 use to
+23 	 21 	 ((S[b]\NP)/PP)/NP 	 3 	 review use
+23 	 22 	 N/N 	 1 	 review regulatory
+24 	 21 	 ((S[b]\NP)/PP)/NP 	 2 	 as use
+27 	 24 	 PP/NP 	 1 	 tactic as
+27 	 25 	 NP[nb]/N 	 1 	 tactic a
+27 	 26 	 N/N 	 1 	 tactic delaying
+<\s>
+<s id="wsj_0808.8"> 25
+2 	 1 	 (N/N)/N[num] 	 2 	 20,000 $
+3 	 0 	 NP[nb]/N 	 1 	 tax The
+3 	 1 	 (N/N)/N[num] 	 1 	 tax $
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 tax would
+3 	 5 	 (S[b]\NP)/NP 	 1 	 tax be <XB>
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+8 	 5 	 (S[b]\NP)/NP 	 2 	 cost be
+8 	 6 	 NP[nb]/N 	 1 	 cost a
+8 	 7 	 N/N 	 1 	 cost small
+8 	 9 	 (NP\NP)/NP 	 1 	 cost in
+12 	 9 	 (NP\NP)/NP 	 2 	 deal in
+12 	 10 	 NP[nb]/N 	 1 	 deal a
+12 	 11 	 N/N 	 1 	 deal multibillion-dollar
+17 	 5 	 (S[b]\NP)/NP 	 2 	 drag be
+17 	 15 	 NP[nb]/N 	 1 	 drag a
+17 	 16 	 N/N 	 1 	 drag serious
+17 	 18 	 (NP\NP)/NP 	 1 	 drag on
+19 	 18 	 (NP\NP)/NP 	 2 	 thousands on
+19 	 20 	 (NP\NP)/NP 	 1 	 thousands of
+24 	 20 	 (NP\NP)/NP 	 2 	 deals of
+24 	 21 	 N/N 	 1 	 deals small
+24 	 23 	 N/N 	 1 	 deals friendly
+<\s>
+<s id="wsj_0808.9"> 31
+2 	 1 	 (N/N)/(N/N) 	 2 	 dangerous especially
+3 	 0 	 N/N 	 1 	 aspect One
+3 	 2 	 N/N 	 1 	 aspect dangerous
+3 	 4 	 (NP\NP)/NP 	 1 	 aspect to
+3 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 aspect would
+3 	 9 	 (S[b]\NP)/S[em] 	 1 	 aspect be <XB>
+7 	 4 	 (NP\NP)/NP 	 2 	 tax to
+7 	 5 	 NP[nb]/N 	 1 	 tax the
+7 	 6 	 N/N 	 1 	 tax new
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+10 	 9 	 (S[b]\NP)/S[em] 	 2 	 that be
+12 	 11 	 NP[nb]/N 	 1 	 proceeds the
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 proceeds will
+12 	 15 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 proceeds used <XB>
+12 	 17 	 (S[b]\NP)/NP 	 1 	 proceeds increase <XB>
+13 	 10 	 S[em]/S[dcl] 	 1 	 will that
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+15 	 14 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+16 	 15 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 increase to
+19 	 17 	 (S[b]\NP)/NP 	 2 	 budgets increase
+19 	 18 	 NP[nb]/N 	 1 	 budgets the
+19 	 20 	 (NP\NP)/NP 	 1 	 budgets of
+23 	 20 	 (NP\NP)/NP 	 2 	 division of
+23 	 21 	 NP[nb]/N 	 1 	 division the
+23 	 22 	 N/N 	 1 	 division antitrust
+23 	 24 	 (NP\NP)/NP 	 1 	 division at
+25 	 24 	 (NP\NP)/NP 	 2 	 Justice at
+30 	 20 	 (NP\NP)/NP 	 2 	 Commission of
+30 	 27 	 NP[nb]/N 	 1 	 Commission the
+30 	 28 	 N/N 	 1 	 Commission Federal
+30 	 29 	 N/N 	 1 	 Commission Trade
+<\s>
+<s id="wsj_0808.10"> 17
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 This amounts
+1 	 7 	 (S\S)/S[dcl] 	 1 	 amounts --
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 to amounts
+4 	 2 	 PP/NP 	 1 	 bounty to
+4 	 3 	 NP[nb]/N 	 1 	 bounty a
+4 	 5 	 (NP\NP)/NP 	 1 	 bounty for
+6 	 5 	 (NP\NP)/NP 	 2 	 regulators for
+8 	 9 	 (S/S)\(S/S) 	 2 	 the more
+8 	 10 	 (S/S)\(S/S) 	 2 	 the regulating
+12 	 11 	 (S/S)/(S[adj]\NP) 	 2 	 more the
+13 	 14 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 they get
+13 	 16 	 S[b]\NP 	 1 	 they keep <XB>
+14 	 7 	 (S\S)/S[dcl] 	 2 	 get --
+14 	 8 	 S/S 	 1 	 get the
+14 	 11 	 (S/S)/(S[adj]\NP) 	 1 	 get the
+15 	 14 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to get
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 keep to
+<\s>
+<s id="wsj_0808.11"> 35
+8 	 3 	 N/N 	 1 	 Rule former
+8 	 4 	 N/N 	 1 	 Rule Reagan
+8 	 5 	 N/N 	 1 	 Rule antitrust
+8 	 6 	 N/N 	 1 	 Rule chief
+8 	 7 	 N/N 	 1 	 Rule Charles
+8 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Rule has
+8 	 10 	 S[pt]\NP 	 1 	 Rule noted <XB>
+9 	 2 	 (S/S)/S[dcl] 	 2 	 has as
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 noted has
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 this would
+12 	 14 	 (S[b]\NP)/NP 	 1 	 this establish <XB>
+13 	 0 	 S/S 	 1 	 would Also
+13 	 2 	 (S/S)/S[dcl] 	 1 	 would as
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 establish would
+16 	 14 	 (S[b]\NP)/NP 	 2 	 precedent establish
+16 	 15 	 NP[nb]/N 	 1 	 precedent the
+17 	 16 	 N/S[em] 	 1 	 that precedent
+19 	 18 	 NP[nb]/N 	 1 	 government the
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 government may
+19 	 21 	 ((S[b]\NP)/PP)/NP 	 1 	 government charge <XB>
+20 	 17 	 S[em]/S[dcl] 	 1 	 may that
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 charge may
+21 	 29 	 ((S\NP)\(S\NP))/PP 	 2 	 charge regardless
+22 	 21 	 ((S[b]\NP)/PP)/NP 	 3 	 parties charge
+23 	 21 	 ((S[b]\NP)/PP)/NP 	 2 	 for charge
+25 	 23 	 PP/NP 	 1 	 privilege for
+25 	 24 	 NP[nb]/N 	 1 	 privilege the
+25 	 26 	 (NP\NP)/(S[ng]\NP) 	 1 	 privilege of
+27 	 26 	 (NP\NP)/(S[ng]\NP) 	 2 	 being of
+28 	 27 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 sued being
+30 	 29 	 ((S\NP)\(S\NP))/PP 	 3 	 of regardless
+31 	 30 	 PP/S[qem] 	 1 	 whether of
+33 	 32 	 NP[nb]/N 	 1 	 government the
+33 	 34 	 S[dcl]\NP 	 1 	 government prevails
+34 	 31 	 S[qem]/S[dcl] 	 1 	 prevails whether
+<\s>
+<s id="wsj_0808.12"> 12
+2 	 0 	 NP/NP 	 1 	 opportunity Yet
+2 	 1 	 NP[nb]/N 	 1 	 opportunity another
+3 	 2 	 N/S[for] 	 1 	 for opportunity
+5 	 3 	 (S[for]/(S[to]\NP))/NP 	 2 	 Bush for
+5 	 4 	 N/N 	 1 	 Bush President
+5 	 7 	 (S[b]\NP)/(S[b]\NP) 	 1 	 Bush respond <XB>
+5 	 9 	 (S[b]\NP)/NP 	 1 	 Bush Read <XB>
+6 	 3 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 respond to
+9 	 7 	 (S[b]\NP)/(S[b]\NP) 	 2 	 Read respond
+11 	 9 	 (S[b]\NP)/NP 	 2 	 lips Read
+11 	 10 	 NP[nb]/N 	 1 	 lips my
+<\s>
+<s id="wsj_0808.13"> 2
+1 	 0 	 N/N 	 1 	 veto Line-item
+<\s>

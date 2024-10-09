@@ -1,0 +1,53 @@
+<s id="wsj_0053.1"> 32
+2 	 0 	 N/N 	 1 	 Inc. Michaels
+2 	 1 	 N/N 	 1 	 Inc. Stores
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Inc. which
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 Inc. owns <XB>
+2 	 7 	 (S[dcl]\NP)/NP 	 1 	 Inc. operates <XU>
+2 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 owns which
+7 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 operates which
+9 	 5 	 (S[dcl]\NP)/NP 	 2 	 chain owns <XU>
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 chain operates
+9 	 8 	 NP[nb]/N 	 1 	 chain a
+9 	 10 	 (NP\NP)/NP 	 1 	 chain of
+13 	 10 	 (NP\NP)/NP 	 2 	 stores of
+13 	 11 	 N/N 	 1 	 stores specialty
+13 	 12 	 N/N 	 1 	 stores retail
+17 	 16 	 N/N 	 1 	 sales October
+17 	 18 	 S[dcl]\NP 	 1 	 sales rose
+18 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 rose said
+18 	 20 	 (S\NP)\(S\NP) 	 2 	 rose %
+18 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+18 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+20 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 14.6
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+24 	 22 	 N/N[num] 	 1 	 million $
+24 	 23 	 N/N 	 1 	 million 32.8
+25 	 29 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 3 	 from a
+26 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+28 	 26 	 N/N[num] 	 1 	 million $
+28 	 27 	 N/N 	 1 	 million 28.6
+29 	 31 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\(((S\NP)\(S\NP))\((S\NP)\(S\NP))) 	 4 	 a earlier
+30 	 29 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N 	 4 	 year a
+<\s>
+<s id="wsj_0053.2"> 19
+0 	 1 	 (NP\NP)/NP 	 1 	 Sales in
+0 	 8 	 S[dcl]\NP 	 1 	 Sales rose
+2 	 1 	 (NP\NP)/NP 	 2 	 stores in
+2 	 3 	 (S[adj]\NP)/NP 	 1 	 stores open <XB>
+4 	 5 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+6 	 5 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 one than
+7 	 3 	 (S[adj]\NP)/NP 	 2 	 year open
+7 	 6 	 N/N 	 1 	 year one
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 rose %
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+8 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 3
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 29.3
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+18 	 16 	 N/N[num] 	 1 	 million $
+18 	 17 	 N/N 	 1 	 million 28.4
+<\s>

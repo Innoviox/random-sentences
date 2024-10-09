@@ -1,0 +1,559 @@
+<s id="wsj_0117.1"> 24
+4 	 0 	 NP[nb]/N 	 1 	 Court The
+4 	 1 	 N/N 	 1 	 Court United
+4 	 2 	 N/N 	 1 	 Court Kingdom
+4 	 3 	 N/N 	 1 	 Court High
+4 	 5 	 ((S[dcl]\NP)/NP)/(S[adj]\NP) 	 1 	 Court declared
+6 	 5 	 ((S[dcl]\NP)/NP)/(S[adj]\NP) 	 3 	 illegal declared
+8 	 5 	 ((S[dcl]\NP)/NP)/(S[adj]\NP) 	 2 	 variety declared
+8 	 6 	 S[adj]\NP 	 1 	 variety illegal <XB>
+8 	 7 	 NP[nb]/N 	 1 	 variety a
+8 	 9 	 (NP\NP)/NP 	 1 	 variety of
+12 	 9 	 (NP\NP)/NP 	 2 	 transactions of
+12 	 10 	 N/N 	 1 	 transactions interest-rate
+12 	 11 	 N/N 	 1 	 transactions swap
+12 	 16 	 (NP\NP)/NP 	 1 	 transactions between
+15 	 9 	 (NP\NP)/NP 	 2 	 deals of
+15 	 10 	 N/N 	 1 	 deals interest-rate
+15 	 11 	 N/N 	 1 	 deals swap
+15 	 14 	 N/N 	 1 	 deals options
+15 	 16 	 (NP\NP)/NP 	 1 	 deals between
+20 	 16 	 (NP\NP)/NP 	 2 	 council between
+20 	 17 	 NP[nb]/N 	 1 	 council a
+20 	 18 	 N/N 	 1 	 council London
+20 	 19 	 N/N 	 1 	 council borough
+23 	 16 	 (NP\NP)/NP 	 2 	 banks between
+23 	 22 	 N/N 	 1 	 banks commercial
+<\s>
+<s id="wsj_0117.2"> 26
+1 	 0 	 NP[nb]/N 	 1 	 ruling The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 ruling could
+1 	 3 	 (S[b]\NP)/PP 	 1 	 ruling lead <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 lead could
+4 	 3 	 (S[b]\NP)/PP 	 2 	 to lead
+6 	 4 	 PP/NP 	 1 	 cancellation to
+6 	 5 	 NP[nb]/N 	 1 	 cancellation the
+6 	 7 	 (NP\NP)/NP 	 1 	 cancellation of
+10 	 7 	 (NP\NP)/NP 	 2 	 debts of
+10 	 8 	 N/N 	 1 	 debts huge
+10 	 9 	 N/N 	 1 	 debts bank
+10 	 18 	 (S[dcl]\NP)/NP 	 2 	 debts ran <XU>
+13 	 11 	 NP[nb]/N 	 1 	 Borough the
+13 	 12 	 N/N 	 1 	 Borough London
+13 	 14 	 (NP\NP)/NP 	 1 	 Borough of
+13 	 18 	 (S[dcl]\NP)/NP 	 1 	 Borough ran
+13 	 21 	 S[ng]\NP 	 1 	 Borough losing <XB>
+15 	 14 	 (NP\NP)/NP 	 2 	 Hammersmith of
+17 	 14 	 (NP\NP)/NP 	 2 	 Fulham of
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 ran up
+18 	 20 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 ran after
+21 	 20 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 losing after
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 losing heavily
+21 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 losing on
+25 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 transactions on
+25 	 24 	 N/N 	 1 	 transactions swap
+<\s>
+<s id="wsj_0117.3"> 27
+0 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 As stand
+0 	 10 	 (S[b]\NP)/NP 	 1 	 As lose <XB>
+1 	 0 	 (N/PP)/(S[adj]\NP) 	 2 	 many As
+2 	 0 	 (N/PP)/(S[adj]\NP) 	 1 	 as As
+7 	 2 	 PP/NP 	 1 	 banks as
+7 	 3 	 N/N 	 1 	 banks 70
+7 	 4 	 N/N 	 1 	 banks U.K.
+7 	 6 	 N/N 	 1 	 banks international
+9 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to stand
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lose to
+10 	 15 	 (((S\NP)\(S\NP))/(S[b]\NP))/NP 	 2 	 lose should
+13 	 11 	 (N/N)/(N/N) 	 2 	 million several
+13 	 12 	 (N/N)/(N/N) 	 2 	 million hundred
+14 	 10 	 (S[b]\NP)/NP 	 2 	 pounds lose
+14 	 13 	 N/N 	 1 	 pounds million
+17 	 15 	 (((S\NP)\(S\NP))/(S[b]\NP))/NP 	 4 	 decision should
+17 	 16 	 NP[nb]/N 	 1 	 decision the
+17 	 19 	 S[pss]\NP 	 1 	 decision upheld <XB>
+17 	 21 	 (S[b]\NP)/NP 	 1 	 decision set <XU>
+18 	 15 	 (((S\NP)\(S\NP))/(S[b]\NP))/NP 	 3 	 be should
+19 	 18 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 upheld be
+21 	 15 	 (((S\NP)\(S\NP))/(S[b]\NP))/NP 	 3 	 set should
+23 	 21 	 (S[b]\NP)/NP 	 2 	 precedent set
+23 	 22 	 NP[nb]/N 	 1 	 precedent a
+23 	 24 	 (NP\NP)/NP 	 1 	 precedent for
+26 	 24 	 (NP\NP)/NP 	 2 	 municipalities for
+26 	 25 	 N/N 	 1 	 municipalities other
+<\s>
+<s id="wsj_0117.4"> 4
+1 	 0 	 NP[nb]/N 	 1 	 appeal An
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 appeal is
+1 	 3 	 S[pss]\NP 	 1 	 appeal expected <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+<\s>
+<s id="wsj_0117.5"> 27
+1 	 0 	 (S/S)/NP 	 2 	 response In
+1 	 2 	 (NP\NP)/NP 	 1 	 response to
+4 	 2 	 (NP\NP)/NP 	 2 	 ruling to
+4 	 3 	 NP[nb]/N 	 1 	 ruling the
+7 	 6 	 N/N 	 1 	 futures gilt
+7 	 9 	 S[dcl]\NP 	 1 	 futures plunged
+7 	 16 	 (S[ng]\NP)/NP 	 1 	 futures recovering <XB>
+9 	 0 	 (S/S)/NP 	 1 	 plunged In
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 plunged swiftly
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 plunged more
+9 	 14 	 (S\NP)\(S\NP) 	 2 	 plunged yesterday
+9 	 15 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 plunged before
+10 	 11 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 more than
+13 	 11 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 point than
+13 	 12 	 NP[nb]/N 	 1 	 point a
+16 	 15 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 recovering before
+16 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 recovering by
+17 	 16 	 (S[ng]\NP)/NP 	 2 	 much recovering
+17 	 18 	 (NP\NP)/NP 	 1 	 much of
+20 	 18 	 (NP\NP)/NP 	 2 	 loss of
+20 	 19 	 NP[nb]/N 	 1 	 loss the
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 end by
+23 	 22 	 NP[nb]/N 	 1 	 end the
+23 	 24 	 (NP\NP)/NP 	 1 	 end of
+26 	 24 	 (NP\NP)/NP 	 2 	 session of
+26 	 25 	 NP[nb]/N 	 1 	 session the
+<\s>
+<s id="wsj_0117.6"> 24
+0 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Gilts which
+0 	 9 	 S[dcl]\NP 	 1 	 Gilts fell <XB>
+0 	 13 	 (S[dcl]\NP)/NP 	 1 	 Gilts retraced
+0 	 19 	 S[b]\NP 	 1 	 Gilts end <XB>
+5 	 3 	 N/N 	 1 	 bonds British
+5 	 4 	 N/N 	 1 	 bonds government
+5 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bonds which
+5 	 9 	 S[dcl]\NP 	 1 	 bonds fell <XB>
+5 	 13 	 (S[dcl]\NP)/NP 	 1 	 bonds retraced
+5 	 19 	 S[b]\NP 	 1 	 bonds end <XB>
+9 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 fell which
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 fell also
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 fell sharply
+9 	 11 	 (S\NP)\(S\NP) 	 2 	 fell initially
+14 	 13 	 (S[dcl]\NP)/NP 	 2 	 some retraced
+14 	 15 	 (NP\NP)/NP 	 1 	 some of
+17 	 15 	 (NP\NP)/NP 	 2 	 losses of
+17 	 16 	 NP[nb]/N 	 1 	 losses the
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 end to
+19 	 23 	 ((S\NP)\(S\NP))\NP 	 2 	 end lower
+21 	 20 	 (N/N)/(N/N) 	 2 	 3\/8 about
+22 	 21 	 N/N 	 1 	 point 3\/8
+22 	 23 	 ((S\NP)\(S\NP))\NP 	 3 	 point lower
+<\s>
+<s id="wsj_0117.7"> 33
+1 	 0 	 NP[nb]/N 	 1 	 council The
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 council which
+1 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 council is <XB>
+1 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 council alleged <XB>
+1 	 8 	 (S[pt]\NP)/PP 	 1 	 council engaged <XB>
+1 	 25 	 (S[dcl]\NP)/NP 	 1 	 council lost
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 alleged is
+6 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to alleged
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+8 	 7 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 engaged have
+9 	 8 	 (S[pt]\NP)/PP 	 2 	 in engaged
+12 	 9 	 PP/NP 	 1 	 deals in
+12 	 10 	 N/N 	 1 	 deals over
+12 	 11 	 N/N 	 1 	 deals 600
+12 	 13 	 (S[pss]\NP)/PP 	 1 	 deals valued <XB>
+14 	 13 	 (S[pss]\NP)/PP 	 2 	 at valued
+16 	 14 	 PP/NP 	 1 	 # at
+16 	 15 	 N/N 	 1 	 # over
+16 	 20 	 (NP\NP)/N[num] 	 1 	 # $
+18 	 16 	 N/N[num] 	 1 	 billion #
+18 	 17 	 N/N 	 1 	 billion 6
+22 	 20 	 (NP\NP)/N[num] 	 2 	 billion $
+22 	 21 	 N/N 	 1 	 billion 9.5
+25 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 lost from
+26 	 25 	 (S[dcl]\NP)/NP 	 2 	 millions lost
+26 	 27 	 (NP\NP)/NP 	 1 	 millions of
+28 	 27 	 (NP\NP)/NP 	 2 	 pounds of
+32 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 deals from
+32 	 30 	 N/N 	 1 	 deals soured
+32 	 31 	 N/N 	 1 	 deals swap
+<\s>
+<s id="wsj_0117.8"> 24
+2 	 0 	 (S/S)/NP 	 2 	 point At
+2 	 1 	 N/N 	 1 	 point one
+4 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Hammersmith is
+4 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Hammersmith reported <XB>
+4 	 9 	 (S[pt]\NP)/PP 	 1 	 Hammersmith accounted <XB>
+5 	 0 	 (S/S)/NP 	 1 	 is At
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 reported is
+7 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to reported
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+9 	 8 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 accounted have
+9 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 accounted in
+10 	 9 	 (S[pt]\NP)/PP 	 2 	 for accounted
+11 	 10 	 PP/NP 	 1 	 as for
+11 	 16 	 (NP\NP)/NP 	 1 	 as of
+12 	 11 	 (N/PP)/(S[adj]\NP) 	 2 	 much as
+13 	 11 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+15 	 13 	 PP/NP 	 1 	 % as
+15 	 14 	 N/N 	 1 	 % 10
+19 	 16 	 (NP\NP)/NP 	 2 	 market of
+19 	 17 	 NP[nb]/N 	 1 	 market the
+19 	 18 	 N/N 	 1 	 market sterling
+23 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 dealings in
+23 	 21 	 N/N 	 1 	 dealings interest-rate
+23 	 22 	 N/N 	 1 	 dealings swap
+<\s>
+<s id="wsj_0117.9"> 18
+2 	 1 	 N/N 	 1 	 parties two
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 parties engage
+3 	 0 	 (S/S)/S[dcl] 	 2 	 engage When
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 in engage
+7 	 4 	 PP/NP 	 1 	 swap in
+7 	 5 	 NP[nb]/N 	 1 	 swap an
+7 	 6 	 N/N 	 1 	 swap interest-rate
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they are
+9 	 11 	 ((S[ng]\NP)/PP)/PP 	 1 	 they betting <XB>
+10 	 0 	 (S/S)/S[dcl] 	 1 	 are When
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 betting are
+12 	 11 	 ((S[ng]\NP)/PP)/PP 	 3 	 against betting
+14 	 12 	 PP/NP 	 1 	 other against
+14 	 13 	 NP[nb]/N 	 1 	 other each
+15 	 11 	 ((S[ng]\NP)/PP)/PP 	 2 	 on betting
+17 	 15 	 PP/NP 	 1 	 rates on
+17 	 16 	 N/N 	 1 	 rates future
+<\s>
+<s id="wsj_0117.10"> 20
+3 	 2 	 NP[nb]/N 	 1 	 institution an
+3 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 institution obligated <XB>
+3 	 6 	 (S[b]\NP)/NP 	 1 	 institution make <XB>
+3 	 12 	 ((S[dcl]\NP)/PP)/NP 	 1 	 institution swaps
+5 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to obligated
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+9 	 6 	 (S[b]\NP)/NP 	 2 	 payments make
+9 	 7 	 N/N 	 1 	 payments fixed-rate
+9 	 8 	 N/N 	 1 	 payments interest
+9 	 10 	 (NP\NP)/NP 	 1 	 payments on
+11 	 10 	 (NP\NP)/NP 	 2 	 debt on
+12 	 0 	 S/S 	 1 	 swaps Thus
+14 	 12 	 ((S[dcl]\NP)/PP)/NP 	 3 	 payments swaps
+14 	 13 	 NP[nb]/N 	 1 	 payments the
+15 	 12 	 ((S[dcl]\NP)/PP)/NP 	 2 	 with swaps
+16 	 15 	 PP/NP 	 1 	 another with
+16 	 17 	 (S[ng]\NP)/NP 	 1 	 another making <XB>
+19 	 17 	 (S[ng]\NP)/NP 	 2 	 payments making
+19 	 18 	 N/N 	 1 	 payments floating-rate
+<\s>
+<s id="wsj_0117.11"> 22
+1 	 0 	 (S/S)/NP 	 2 	 most In
+1 	 2 	 (NP\NP)/NP 	 1 	 most of
+5 	 2 	 (NP\NP)/NP 	 2 	 transactions of
+5 	 3 	 NP[nb]/N 	 1 	 transactions the
+5 	 4 	 N/N 	 1 	 transactions British
+8 	 7 	 NP[nb]/N 	 1 	 municipalities the
+8 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 municipalities agreed
+8 	 11 	 ((S[b]\NP)/PP)/NP 	 1 	 municipalities make <XB>
+9 	 0 	 (S/S)/NP 	 1 	 agreed In
+10 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+13 	 11 	 ((S[b]\NP)/PP)/NP 	 3 	 payments make
+13 	 12 	 N/N 	 1 	 payments floating-rate
+14 	 11 	 ((S[b]\NP)/PP)/NP 	 2 	 to make
+15 	 14 	 PP/NP 	 1 	 banks to
+15 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 banks which
+15 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 banks would <XB>
+15 	 19 	 (S[b]\NP)/NP 	 1 	 banks make <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would which
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make would
+21 	 19 	 (S[b]\NP)/NP 	 2 	 payments make
+21 	 20 	 N/N 	 1 	 payments fixed-rate
+<\s>
+<s id="wsj_0117.12"> 16
+2 	 1 	 N/N 	 1 	 rates interest
+2 	 3 	 S[dcl]\NP 	 1 	 rates rose
+3 	 0 	 (S/S)/S[dcl] 	 2 	 rose As
+5 	 6 	 ((S[dcl]\NP)/NP)/NP 	 1 	 municipalities owed
+6 	 0 	 (S/S)/S[dcl] 	 1 	 owed As
+8 	 6 	 ((S[dcl]\NP)/NP)/NP 	 3 	 banks owed
+8 	 7 	 NP[nb]/N 	 1 	 banks the
+9 	 6 	 ((S[dcl]\NP)/NP)/NP 	 2 	 more owed
+9 	 10 	 (NP\NP)/S[dcl] 	 1 	 more than
+12 	 11 	 NP[nb]/N 	 1 	 banks the
+12 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 banks were
+12 	 14 	 (S[ng]\NP)/NP 	 1 	 banks paying <XB>
+13 	 10 	 (NP\NP)/S[dcl] 	 2 	 were than
+14 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 paying were
+15 	 14 	 (S[ng]\NP)/NP 	 2 	 them paying
+<\s>
+<s id="wsj_0117.13"> 36
+2 	 0 	 NP[nb]/N 	 1 	 hearing The
+2 	 1 	 N/N 	 1 	 hearing court
+2 	 3 	 S[dcl]\NP 	 1 	 hearing began
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 began in
+3 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 began at
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 October in
+6 	 5 	 N/N 	 1 	 October early
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 request at
+9 	 8 	 NP[nb]/N 	 1 	 request the
+9 	 10 	 (NP\NP)/NP 	 1 	 request of
+12 	 10 	 (NP\NP)/NP 	 2 	 Hazell of
+12 	 11 	 N/N 	 1 	 Hazell Anthony
+12 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Hazell who
+12 	 20 	 (S[dcl]\NP)/S[em] 	 1 	 Hazell argued <XB>
+15 	 10 	 (NP\NP)/NP 	 2 	 auditor of
+15 	 14 	 N/N 	 1 	 auditor district
+15 	 16 	 (NP\NP)/NP 	 1 	 auditor for
+15 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 auditor who
+15 	 20 	 (S[dcl]\NP)/S[em] 	 1 	 auditor argued <XB>
+17 	 16 	 (NP\NP)/NP 	 2 	 Hammersmith for
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 argued who
+21 	 20 	 (S[dcl]\NP)/S[em] 	 2 	 that argued
+23 	 22 	 N/N 	 1 	 councils local
+23 	 24 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 councils are
+23 	 26 	 (S[pss]\NP)/PP 	 1 	 councils vested <XB>
+24 	 21 	 S[em]/S[dcl] 	 1 	 are that
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 are n't
+26 	 24 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 vested are
+27 	 26 	 (S[pss]\NP)/PP 	 2 	 with vested
+29 	 27 	 PP/NP 	 1 	 authority with
+29 	 28 	 N/N 	 1 	 authority constitutional
+29 	 31 	 (S[b]\NP)/PP 	 1 	 authority engage <XB>
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 engage to
+32 	 31 	 (S[b]\NP)/PP 	 2 	 in engage
+35 	 32 	 PP/NP 	 1 	 activities in
+35 	 33 	 NP/NP 	 1 	 activities such
+35 	 34 	 N/N 	 1 	 activities capital-markets
+<\s>
+<s id="wsj_0117.14"> 14
+1 	 0 	 NP[nb]/N 	 1 	 council The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 council backed
+5 	 3 	 NP[nb]/N 	 1 	 commission the
+5 	 4 	 N/N 	 1 	 commission audit
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 commission 's
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 stand backed
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 stand 's
+8 	 7 	 N/S[em] 	 1 	 that stand
+11 	 9 	 NP[nb]/N 	 1 	 transactions the
+11 	 10 	 N/N 	 1 	 transactions swap
+11 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 transactions are
+11 	 13 	 S[adj]\NP 	 1 	 transactions illegal <XB>
+12 	 8 	 S[em]/S[dcl] 	 1 	 are that
+13 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 illegal are
+<\s>
+<s id="wsj_0117.15"> 35
+5 	 1 	 NP[nb]/N 	 1 	 council the
+5 	 2 	 N/N 	 1 	 council Hammersmith
+5 	 4 	 N/N 	 1 	 council Fulham
+5 	 6 	 ((S[dcl]\NP)/NP)/PP 	 1 	 council was
+6 	 0 	 (S/S)/S[dcl] 	 2 	 was Although
+7 	 6 	 ((S[dcl]\NP)/NP)/PP 	 3 	 by was
+8 	 7 	 PP/(S[adj]\NP) 	 1 	 far by
+11 	 10 	 (N/N)/(N/N) 	 2 	 active most
+13 	 6 	 ((S[dcl]\NP)/NP)/PP 	 2 	 authority was
+13 	 9 	 NP[nb]/N 	 1 	 authority the
+13 	 11 	 N/N 	 1 	 authority active
+13 	 12 	 N/N 	 1 	 authority local
+13 	 14 	 (S[ng]\NP)/PP 	 1 	 authority engaging <XB>
+15 	 14 	 (S[ng]\NP)/PP 	 2 	 in engaging
+18 	 15 	 PP/NP 	 1 	 transactions in
+18 	 16 	 NP/NP 	 1 	 transactions such
+18 	 17 	 N/N 	 1 	 transactions capital-markets
+22 	 20 	 NP[nb]/N 	 1 	 decision the
+22 	 21 	 N/N 	 1 	 decision court
+22 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 decision could
+22 	 24 	 (S[b]\NP)/NP 	 1 	 decision set <XB>
+23 	 0 	 (S/S)/S[dcl] 	 1 	 could Although
+24 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 set could
+26 	 24 	 (S[b]\NP)/NP 	 2 	 precedent set
+26 	 25 	 NP[nb]/N 	 1 	 precedent a
+26 	 27 	 (NP\NP)/NP 	 1 	 precedent for
+29 	 27 	 (NP\NP)/NP 	 2 	 transactions for
+29 	 28 	 N/N 	 1 	 transactions similar
+29 	 30 	 (NP\NP)/NP 	 1 	 transactions by
+34 	 30 	 (NP\NP)/NP 	 2 	 councils by
+34 	 31 	 N/N 	 1 	 councils 77
+34 	 32 	 N/N 	 1 	 councils other
+34 	 33 	 N/N 	 1 	 councils local
+<\s>
+<s id="wsj_0117.16"> 31
+3 	 1 	 NP[nb]/N 	 1 	 ruling this
+3 	 2 	 N/N 	 1 	 ruling court
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 ruling was
+3 	 5 	 S[adj]\NP 	 1 	 ruling only <XB>
+4 	 0 	 (S/S)/S[dcl] 	 2 	 was While
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 was on
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 only was
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Hammersmith on
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+9 	 14 	 S[adj]\NP 	 1 	 it persuasive <XB>
+10 	 0 	 (S/S)/S[dcl] 	 1 	 will While
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 will obviously
+10 	 30 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+12 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+12 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 be in
+14 	 12 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 persuasive be
+14 	 13 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 persuasive very
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 cases in
+17 	 16 	 N/N 	 1 	 cases other
+17 	 18 	 (NP\NP)/NP 	 1 	 cases of
+21 	 18 	 (NP\NP)/NP 	 2 	 nature of
+21 	 19 	 NP[nb]/N 	 1 	 nature a
+21 	 20 	 N/N 	 1 	 nature similar
+24 	 23 	 NP[nb]/N 	 1 	 solicitor a
+24 	 25 	 (S[ng]\NP)/NP 	 1 	 solicitor representing <XB>
+24 	 30 	 (S[dcl]\S[dcl])\NP 	 2 	 solicitor said
+26 	 25 	 (S[ng]\NP)/NP 	 2 	 one representing
+26 	 27 	 (NP\NP)/NP 	 1 	 one of
+29 	 27 	 (NP\NP)/NP 	 2 	 banks of
+29 	 28 	 NP[nb]/N 	 1 	 banks the
+<\s>
+<s id="wsj_0117.17"> 19
+4 	 2 	 N/N 	 1 	 councils 10
+4 	 3 	 N/N 	 1 	 councils local
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 councils have
+4 	 6 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 councils refused <XB>
+4 	 8 	 (S[b]\NP)/NP 	 1 	 councils honor <XB>
+5 	 0 	 S/S 	 1 	 have Already
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 refused have
+7 	 6 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to refused
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 honor to
+9 	 8 	 (S[b]\NP)/NP 	 2 	 fees honor
+9 	 12 	 (NP\NP)/NP 	 1 	 fees to
+9 	 14 	 S[pss]\NP 	 1 	 fees incurred <XB>
+11 	 8 	 (S[b]\NP)/NP 	 2 	 payments honor
+11 	 12 	 (NP\NP)/NP 	 1 	 payments to
+11 	 14 	 S[pss]\NP 	 1 	 payments incurred <XB>
+13 	 12 	 (NP\NP)/NP 	 2 	 banks to
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 incurred during
+18 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 dealings during
+18 	 16 	 N/N 	 1 	 dealings various
+18 	 17 	 N/N 	 1 	 dealings swaps
+<\s>
+<s id="wsj_0117.18"> 31
+2 	 0 	 N/N 	 1 	 institutions Other
+2 	 1 	 N/N 	 1 	 institutions financial
+2 	 3 	 S[pss]\NP 	 1 	 institutions involved <XB>
+2 	 4 	 (S[dcl]\NP)/NP 	 1 	 institutions include
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 PLC include
+7 	 5 	 N/N 	 1 	 PLC Barclays
+7 	 6 	 N/N 	 1 	 PLC Bank
+11 	 4 	 (S[dcl]\NP)/NP 	 2 	 PLC include
+11 	 9 	 N/N 	 1 	 PLC Midland
+11 	 10 	 N/N 	 1 	 PLC Bank
+15 	 4 	 (S[dcl]\NP)/NP 	 2 	 Corp. include
+15 	 13 	 N/N 	 1 	 Corp. Security
+15 	 14 	 N/N 	 1 	 Corp. Pacific
+19 	 17 	 N/N 	 1 	 Corp. Chemical
+19 	 18 	 N/N 	 1 	 Corp. Banking
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+22 	 4 	 (S[dcl]\NP)/NP 	 2 	 Bank include
+22 	 20 	 (NP[nb]/N)\NP 	 1 	 Bank 's
+22 	 21 	 N/N 	 1 	 Bank Chemical
+24 	 25 	 (NP[nb]/N)\NP 	 2 	 Citicorp 's
+26 	 4 	 (S[dcl]\NP)/NP 	 2 	 Citibank include
+26 	 25 	 (NP[nb]/N)\NP 	 1 	 Citibank 's
+30 	 4 	 (S[dcl]\NP)/NP 	 2 	 International include
+30 	 28 	 N/N 	 1 	 International Mitsubishi
+30 	 29 	 N/N 	 1 	 International Finance
+<\s>
+<s id="wsj_0117.19"> 29
+2 	 1 	 NP[nb]/N 	 1 	 banks the
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 banks exhaust
+3 	 0 	 (S/S)/S[dcl] 	 2 	 exhaust If
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 avenues exhaust
+5 	 4 	 NP[nb]/N 	 1 	 avenues all
+5 	 6 	 (NP\NP)/NP 	 1 	 avenues of
+7 	 6 	 (NP\NP)/NP 	 2 	 appeal of
+9 	 10 	 ((S[dcl]\NP[expl])/S[em])/(S[adj]\NP) 	 1 	 it is
+10 	 0 	 (S/S)/S[dcl] 	 1 	 is If
+10 	 28 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+11 	 10 	 ((S[dcl]\NP[expl])/S[em])/(S[adj]\NP) 	 3 	 possible is
+12 	 10 	 ((S[dcl]\NP[expl])/S[em])/(S[adj]\NP) 	 2 	 that is
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they would
+13 	 15 	 (S[b]\NP)/(S[to]\NP) 	 1 	 they seek <XB>
+13 	 17 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 they have <XB>
+14 	 12 	 S[em]/S[dcl] 	 1 	 would that
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seek would
+16 	 15 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to seek
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+20 	 17 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 ruling have
+20 	 18 	 NP[nb]/N 	 1 	 ruling the
+20 	 19 	 N/N 	 1 	 ruling illegality
+20 	 21 	 (S[b]\NP)/NP 	 1 	 ruling work <XB>
+21 	 17 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 work have
+23 	 21 	 (S[b]\NP)/NP 	 2 	 ways work
+23 	 22 	 NP[nb]/N 	 1 	 ways both
+27 	 25 	 NP[nb]/N 	 1 	 sources some
+27 	 26 	 N/N 	 1 	 sources market
+27 	 28 	 (S[dcl]\S[dcl])\NP 	 2 	 sources said
+<\s>
+<s id="wsj_0117.20"> 19
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Banks could
+0 	 2 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Banks seek <XB>
+0 	 4 	 (S[b]\NP)/NP 	 1 	 Banks recover <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seek could
+3 	 2 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to seek
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 recover to
+4 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 recover in
+5 	 4 	 (S[b]\NP)/NP 	 2 	 payments recover
+5 	 6 	 (NP\NP)/NP 	 1 	 payments to
+8 	 6 	 (NP\NP)/NP 	 2 	 authorities to
+8 	 7 	 N/N 	 1 	 authorities local
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 instances in
+10 	 11 	 (NP\NP)/S[dcl] 	 1 	 instances where
+13 	 12 	 NP[nb]/N 	 1 	 banks the
+13 	 14 	 ((S[dcl]\NP)/PP)/NP 	 1 	 banks made
+14 	 11 	 (NP\NP)/S[dcl] 	 2 	 made where
+16 	 14 	 ((S[dcl]\NP)/PP)/NP 	 3 	 payments made
+16 	 15 	 N/N 	 1 	 payments net
+17 	 14 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to made
+18 	 17 	 PP/NP 	 1 	 councils to
+<\s>
+<s id="wsj_0117.21"> 26
+0 	 1 	 (NP\NP)/NP 	 1 	 Officials from
+0 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Officials are
+0 	 7 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Officials expected <XB>
+0 	 9 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Officials meet <XB>
+0 	 16 	 (S[b]\NP)/NP 	 1 	 Officials consider <XB>
+4 	 1 	 (NP\NP)/NP 	 2 	 banks from
+4 	 2 	 NP[nb]/N 	 1 	 banks the
+4 	 3 	 N/N 	 1 	 banks various
+4 	 5 	 S[pss]\NP 	 1 	 banks involved <XB>
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+8 	 7 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 meet during
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 days during
+14 	 11 	 NP[nb]/N 	 1 	 days the
+14 	 12 	 N/N 	 1 	 days next
+14 	 13 	 N/N 	 1 	 days few
+15 	 9 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to meet
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 consider to
+18 	 16 	 (S[b]\NP)/NP 	 2 	 arrangements consider
+18 	 17 	 N/N 	 1 	 arrangements other
+18 	 19 	 (NP\NP)/NP 	 1 	 arrangements with
+18 	 22 	 (NP\NP)/(S[dcl]\NP) 	 1 	 arrangements that
+18 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 arrangements could <XB>
+18 	 25 	 S[adj]\NP 	 1 	 arrangements questionable <XB>
+21 	 19 	 (NP\NP)/NP 	 2 	 authorities with
+21 	 20 	 N/N 	 1 	 authorities local
+23 	 22 	 (NP\NP)/(S[dcl]\NP) 	 2 	 could that
+24 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+25 	 24 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 questionable be
+<\s>
+<s id="wsj_0117.22"> 19
+1 	 0 	 NP[nb]/N 	 1 	 banks The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 banks have
+1 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 banks are <XU>
+1 	 14 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 banks expected <XU>
+1 	 16 	 S[b]\NP 	 1 	 banks do <XU>
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 days have
+4 	 3 	 N/N 	 1 	 days 28
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 file to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 appeal file
+8 	 7 	 NP[nb]/N 	 1 	 appeal an
+8 	 9 	 (NP\NP)/NP 	 1 	 appeal against
+11 	 9 	 (NP\NP)/NP 	 2 	 ruling against
+11 	 10 	 NP[nb]/N 	 1 	 ruling the
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+15 	 14 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 do so
+16 	 18 	 (S\NP)\(S\NP) 	 2 	 do shortly
+<\s>

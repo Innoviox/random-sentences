@@ -1,0 +1,921 @@
+<s id="wsj_2223.1"> 11
+2 	 0 	 NP[nb]/N 	 1 	 EUROPE A
+2 	 1 	 N/N 	 1 	 EUROPE UNIFIED
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 EUROPE poses
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 problems poses
+5 	 4 	 N/N 	 1 	 problems labor
+5 	 8 	 (NP\NP)/NP 	 1 	 problems for
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 prospects poses
+7 	 4 	 N/N 	 1 	 prospects labor
+7 	 8 	 (NP\NP)/NP 	 1 	 prospects for
+10 	 8 	 (NP\NP)/NP 	 2 	 firms for
+10 	 9 	 N/N 	 1 	 firms U.S.
+<\s>
+<s id="wsj_2223.2"> 40
+2 	 0 	 NP[nb]/N 	 1 	 dimension The
+2 	 1 	 N/N 	 1 	 dimension social
+2 	 3 	 (NP\NP)/NP 	 1 	 dimension --
+2 	 7 	 (NP\NP)/NP 	 1 	 dimension of
+2 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 dimension could
+2 	 21 	 ((S[b]\NP)/PP)/NP 	 1 	 dimension set <XB>
+2 	 29 	 S[pss]\NP 	 1 	 dimension done <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 concerns --
+5 	 4 	 N/N 	 1 	 concerns worker
+10 	 8 	 NP[nb]/N 	 1 	 Community the
+10 	 9 	 N/N 	 1 	 Community European
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Community 's
+12 	 7 	 (NP\NP)/NP 	 2 	 plan of
+12 	 11 	 (NP[nb]/N)\NP 	 1 	 plan 's
+12 	 14 	 (S[b]\NP)/NP 	 1 	 plan open <XB>
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 open to
+14 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 open in
+17 	 14 	 (S[b]\NP)/NP 	 2 	 borders open
+17 	 15 	 NP[nb]/N 	 1 	 borders its
+17 	 16 	 N/N 	 1 	 borders internal
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 1992 in
+20 	 32 	 (S[dcl]\S[dcl])/NP 	 1 	 could says
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 set could
+21 	 27 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 2 	 set if
+23 	 21 	 ((S[b]\NP)/PP)/NP 	 3 	 effort set
+23 	 22 	 NP[nb]/N 	 1 	 effort the
+24 	 21 	 ((S[b]\NP)/PP)/NP 	 2 	 off set
+26 	 24 	 PP/NP 	 1 	 rails off
+26 	 25 	 NP[nb]/N 	 1 	 rails the
+29 	 27 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 3 	 done if
+29 	 28 	 (S\NP)/(S\NP) 	 2 	 done not
+29 	 30 	 (S\NP)\(S\NP) 	 2 	 done reasonably
+39 	 32 	 (S[dcl]\S[dcl])/NP 	 2 	 Doyle says
+39 	 33 	 N/N 	 1 	 Doyle General
+39 	 34 	 N/N 	 1 	 Doyle Electric
+39 	 35 	 N/N 	 1 	 Doyle senior
+39 	 36 	 N/N 	 1 	 Doyle vice
+39 	 37 	 N/N 	 1 	 Doyle president
+39 	 38 	 N/N 	 1 	 Doyle Frank
+<\s>
+<s id="wsj_2223.3"> 31
+1 	 0 	 N/N 	 1 	 companies U.S.
+1 	 2 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 companies wanting <XB>
+1 	 4 	 S[b]\NP 	 1 	 companies expand <XB>
+1 	 7 	 (S[dcl]\NP)/NP 	 1 	 companies face
+3 	 2 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to wanting
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 expand to
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 expand in
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Europe in
+7 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 face in
+7 	 30 	 (S[dcl]\S[dcl])\NP 	 1 	 face says
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 pressure face
+9 	 8 	 N/N 	 1 	 pressure tough
+9 	 10 	 (NP\NP)/NP 	 1 	 pressure from
+11 	 10 	 (NP\NP)/NP 	 2 	 unions from
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 nations in
+13 	 15 	 (NP\NP)/NP 	 1 	 nations as
+13 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 nations which
+13 	 20 	 (S[dcl]\NP)/NP 	 1 	 nations play <XB>
+15 	 14 	 (NP\NP)/(NP\NP) 	 2 	 as such
+17 	 15 	 (NP\NP)/NP 	 2 	 Germany as
+17 	 16 	 N/N 	 1 	 Germany West
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 play which
+20 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 play in
+24 	 20 	 (S[dcl]\NP)/NP 	 2 	 role play
+24 	 21 	 NP[nb]/N 	 1 	 role a
+24 	 22 	 N/N 	 1 	 role big
+24 	 23 	 N/N 	 1 	 role consulting
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 decisions in
+27 	 26 	 N/N 	 1 	 decisions management
+29 	 30 	 (S[dcl]\S[dcl])\NP 	 2 	 he says
+<\s>
+<s id="wsj_2223.4"> 20
+1 	 0 	 N/N 	 1 	 Corp. FMC
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. say
+4 	 3 	 N/N 	 1 	 International Baxter
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 International say
+6 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 unions wo
+6 	 10 	 (S[b]\NP)/NP 	 1 	 unions like <XB>
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 wo say
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 wo also
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 wo n't
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 like wo
+12 	 10 	 (S[b]\NP)/NP 	 2 	 relocations like
+12 	 11 	 N/N 	 1 	 relocations plant
+12 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 relocations which
+12 	 18 	 (S[dcl]\NP)/NP 	 1 	 relocations means <XB>
+15 	 10 	 (S[b]\NP)/NP 	 2 	 restructuring like
+15 	 14 	 N/N 	 1 	 restructuring needed
+15 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 restructuring which
+15 	 18 	 (S[dcl]\NP)/NP 	 1 	 restructuring means <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 means which
+19 	 18 	 (S[dcl]\NP)/NP 	 2 	 layoffs means
+<\s>
+<s id="wsj_2223.5"> 36
+1 	 0 	 N/N 	 1 	 employers Many
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 employers have
+1 	 4 	 (S[pt]\NP)/(S[ng]\NP) 	 1 	 employers begun <XB>
+1 	 5 	 S[ng]\NP 	 1 	 employers moving <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 have already
+2 	 35 	 (S[dcl]\S[dcl])\NP 	 1 	 have says
+4 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 begun have
+5 	 4 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 moving begun
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 moving to
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 countries to
+8 	 7 	 N/N 	 1 	 countries southern
+8 	 10 	 (NP\NP)/NP 	 1 	 countries as
+8 	 15 	 (NP\NP)/S[dcl] 	 1 	 countries where
+10 	 9 	 (NP\NP)/(NP\NP) 	 2 	 as such
+11 	 10 	 (NP\NP)/NP 	 2 	 Spain as
+13 	 10 	 (NP\NP)/NP 	 2 	 Italy as
+16 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 wages are
+16 	 18 	 S[adj]\NP 	 1 	 wages low <XB>
+17 	 15 	 (NP\NP)/S[dcl] 	 2 	 are where
+18 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 low are
+20 	 21 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 unions are
+20 	 22 	 S[adj]\NP 	 1 	 unions weaker <XB>
+21 	 15 	 (NP\NP)/S[dcl] 	 2 	 are where
+22 	 21 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 weaker are
+24 	 25 	 (NP\NP)/NP 	 1 	 demand for
+24 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 demand will
+24 	 31 	 S[b]\NP 	 1 	 demand rise <XB>
+27 	 25 	 (NP\NP)/NP 	 2 	 labor for
+27 	 26 	 N/N 	 1 	 labor trained
+29 	 25 	 (NP\NP)/NP 	 2 	 managers for
+29 	 26 	 N/N 	 1 	 managers trained
+30 	 35 	 (S[dcl]\S[dcl])\NP 	 1 	 will says
+31 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 rise will
+31 	 32 	 (S\NP)\(S\NP) 	 2 	 rise there
+34 	 35 	 (S[dcl]\S[dcl])\NP 	 2 	 FMC says
+<\s>
+<s id="wsj_2223.6"> 23
+0 	 5 	 (S[dcl]\NP)/NP 	 1 	 Pfizer see
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 Fluor see
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 GE see
+9 	 5 	 (S[dcl]\NP)/NP 	 2 	 pluses see
+9 	 6 	 N/N 	 1 	 pluses big
+9 	 7 	 N/N 	 1 	 pluses EC
+9 	 8 	 N/N 	 1 	 pluses 92
+9 	 10 	 (NP\NP)/NP 	 1 	 pluses :
+12 	 10 	 (NP\NP)/NP 	 2 	 push :
+12 	 11 	 NP[nb]/N 	 1 	 push a
+12 	 13 	 (NP\NP)/NP 	 1 	 push for
+15 	 13 	 (NP\NP)/NP 	 2 	 training for
+15 	 14 	 N/N 	 1 	 training job
+17 	 10 	 (NP\NP)/NP 	 2 	 ease :
+17 	 18 	 (NP\NP)/(S[ng]\NP) 	 1 	 ease in
+19 	 18 	 (NP\NP)/(S[ng]\NP) 	 2 	 moving in
+21 	 18 	 (NP\NP)/(S[ng]\NP) 	 2 	 finding in
+22 	 21 	 (S[ng]\NP)/NP 	 2 	 workers finding
+<\s>
+<s id="wsj_2223.7"> 10
+0 	 3 	 (S[dcl]\NP)/NP 	 1 	 CLUBBING was
+2 	 0 	 (S[ng]\NP)/NP 	 2 	 FAN CLUBBING
+2 	 1 	 NP[nb]/N 	 1 	 FAN A
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 was n't
+7 	 5 	 NP[nb]/N 	 1 	 Orioles the
+7 	 6 	 N/N 	 1 	 Orioles Baltimore
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 Orioles '
+9 	 3 	 (S[dcl]\NP)/NP 	 2 	 fault was
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 fault '
+<\s>
+<s id="wsj_2223.8"> 26
+1 	 0 	 S[dcl]/S[inv] 	 1 	 said So
+1 	 6 	 (S\S)/NP 	 1 	 said in
+4 	 1 	 S[inv]/NP 	 1 	 judge said
+4 	 2 	 NP[nb]/N 	 1 	 judge a
+4 	 3 	 N/N 	 1 	 judge federal
+8 	 6 	 (S\S)/NP 	 2 	 case in
+8 	 7 	 NP[nb]/N 	 1 	 case a
+8 	 9 	 (S[ng]\NP)/NP 	 1 	 case involving <XB>
+11 	 9 	 (S[ng]\NP)/NP 	 2 	 players involving
+11 	 10 	 N/N 	 1 	 players two
+11 	 12 	 (NP\NP)/NP 	 1 	 players for
+18 	 16 	 (N/N)/(N/N) 	 2 	 Va. Bluefield
+20 	 12 	 (NP\NP)/NP 	 2 	 Orioles for
+20 	 13 	 NP[nb]/N 	 1 	 Orioles the
+20 	 14 	 N/N 	 1 	 Orioles minor
+20 	 15 	 N/N 	 1 	 Orioles league
+20 	 18 	 N/N 	 1 	 Orioles Va.
+25 	 12 	 (NP\NP)/NP 	 2 	 team for
+25 	 22 	 NP[nb]/N 	 1 	 team a
+25 	 23 	 N/N 	 1 	 team Baltimore
+25 	 24 	 N/N 	 1 	 team farm
+<\s>
+<s id="wsj_2223.9"> 19
+1 	 0 	 NP[nb]/N 	 1 	 players The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 players were
+1 	 3 	 S[pss]\NP 	 1 	 players heckled <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 heckled were
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 heckled by
+3 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 heckled during
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 patron by
+6 	 5 	 NP[nb]/N 	 1 	 patron a
+9 	 10 	 (N/N)\(N/N) 	 2 	 July 4
+9 	 12 	 (N/N)\(N/N) 	 2 	 July 1988
+14 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 game during
+14 	 8 	 NP[nb]/N 	 1 	 game a
+14 	 9 	 N/N 	 1 	 game July
+14 	 15 	 (NP\NP)/NP 	 1 	 game with
+18 	 15 	 (NP\NP)/NP 	 2 	 Phillies with
+18 	 16 	 NP[nb]/N 	 1 	 Phillies the
+18 	 17 	 N/N 	 1 	 Phillies Martinsville
+<\s>
+<s id="wsj_2223.10"> 17
+2 	 0 	 (S/S)/NP 	 2 	 parent Like
+2 	 1 	 NP[nb]/N 	 1 	 parent its
+2 	 3 	 (NP\NP)/N 	 1 	 parent that
+4 	 3 	 (NP\NP)/N 	 2 	 year that
+6 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Bluefield was
+6 	 9 	 (S[ng]\NP)/NP 	 1 	 Bluefield having <XB>
+7 	 0 	 (S/S)/NP 	 1 	 was Like
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 was not
+7 	 16 	 (S[dcl]\S[dcl])\NP 	 1 	 was said
+9 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 having was
+12 	 9 	 (S[ng]\NP)/NP 	 2 	 year having
+12 	 10 	 NP[nb]/N 	 1 	 year a
+12 	 11 	 N/N 	 1 	 year good
+15 	 14 	 NP[nb]/N 	 1 	 judge the
+15 	 16 	 (S[dcl]\S[dcl])\NP 	 2 	 judge said
+<\s>
+<s id="wsj_2223.12"> 15
+1 	 0 	 N/N 	 1 	 taunting More
+1 	 2 	 (NP\NP)/NP 	 1 	 taunting in
+1 	 11 	 (S[dcl]\NP)/PP 	 1 	 taunting led
+5 	 2 	 (NP\NP)/NP 	 2 	 lot in
+5 	 3 	 NP[nb]/N 	 1 	 lot the
+5 	 4 	 N/N 	 1 	 lot parking
+8 	 7 	 NP[nb]/N 	 1 	 players the
+8 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 players said
+12 	 11 	 (S[dcl]\NP)/PP 	 2 	 to led
+14 	 12 	 PP/NP 	 1 	 fight to
+14 	 13 	 NP[nb]/N 	 1 	 fight a
+<\s>
+<s id="wsj_2223.13"> 22
+1 	 0 	 NP[nb]/N 	 1 	 fan The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 fan said
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 he was
+3 	 5 	 S[pss]\NP 	 1 	 he punched <XB>
+3 	 7 	 S[pss]\NP 	 1 	 he kicked <XU>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 punched was
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 punched by
+7 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 kicked was
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 kicked by
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 player by
+10 	 9 	 N/N 	 1 	 player one
+12 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 that said
+14 	 13 	 NP[nb]/N 	 1 	 other the
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 other broke
+15 	 12 	 S[em]/S[dcl] 	 1 	 broke that
+15 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 broke with
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 jaw broke
+17 	 16 	 NP[nb]/N 	 1 	 jaw his
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 bat with
+21 	 19 	 NP[nb]/N 	 1 	 bat a
+21 	 20 	 N/N 	 1 	 bat baseball
+<\s>
+<s id="wsj_2223.14"> 34
+1 	 0 	 NP[nb]/N 	 1 	 judge The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 judge dismissed
+1 	 13 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 1 	 judge ruling <XB>
+2 	 11 	 (S\NP)\(S\NP) 	 2 	 dismissed however
+4 	 3 	 NP[nb]/N 	 1 	 fan the
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 fan 's
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 suit dismissed
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 suit 's
+6 	 7 	 (NP\NP)/NP 	 1 	 suit against
+9 	 7 	 (NP\NP)/NP 	 2 	 team against
+9 	 8 	 NP[nb]/N 	 1 	 team the
+15 	 13 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 3 	 Orioles ruling
+15 	 14 	 NP[nb]/N 	 1 	 Orioles the
+15 	 16 	 (S[adj]\NP)/PP 	 1 	 Orioles innocent <XB>
+15 	 23 	 (S[adj]\NP)/PP 	 1 	 Orioles responsible <XU>
+16 	 13 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 2 	 innocent ruling
+17 	 16 	 (S[adj]\NP)/PP 	 2 	 of innocent
+19 	 17 	 PP/NP 	 1 	 hiring of
+19 	 18 	 N/N 	 1 	 hiring negligent
+23 	 13 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 2 	 responsible ruling
+23 	 22 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 responsible not
+24 	 23 	 (S[adj]\NP)/PP 	 2 	 for responsible
+26 	 24 	 PP/NP 	 1 	 fight for
+26 	 25 	 NP[nb]/N 	 1 	 fight a
+26 	 27 	 (NP\NP)/(S[dcl]\NP) 	 1 	 fight that
+26 	 28 	 (S[dcl]\NP)/PP 	 1 	 fight was <XB>
+28 	 27 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was that
+29 	 28 	 (S[dcl]\NP)/PP 	 2 	 outside was
+31 	 30 	 NP[nb]/N 	 1 	 players the
+31 	 32 	 (NP[nb]/N)\NP 	 2 	 players '
+33 	 29 	 PP/NP 	 1 	 employment outside
+33 	 32 	 (NP[nb]/N)\NP 	 1 	 employment '
+<\s>
+<s id="wsj_2223.15"> 9
+0 	 1 	 S[dcl]\NP 	 1 	 PROPOSALS ARISE
+0 	 3 	 (S[ng]\NP)/PP 	 1 	 PROPOSALS coping <XB>
+1 	 2 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 ARISE for
+3 	 2 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 coping for
+4 	 3 	 (S[ng]\NP)/PP 	 2 	 with coping
+6 	 4 	 PP/NP 	 1 	 shortage with
+6 	 5 	 NP[nb]/N 	 1 	 shortage the
+6 	 7 	 (NP\NP)/NP 	 1 	 shortage of
+8 	 7 	 (NP\NP)/NP 	 2 	 nurses of
+<\s>
+<s id="wsj_2223.16"> 18
+1 	 2 	 ((N/N)\(N/N))/NP 	 2 	 Association of
+5 	 2 	 ((N/N)\(N/N))/NP 	 3 	 Centers of
+5 	 3 	 N/N 	 1 	 Centers Academic
+5 	 4 	 N/N 	 1 	 Centers Health
+6 	 0 	 NP[nb]/N 	 1 	 report An
+6 	 1 	 N/N 	 1 	 report Association
+6 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 report urges
+6 	 8 	 ((S[ng]\NP)/PP)/NP 	 1 	 report freeing <XB>
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 freeing urges
+9 	 8 	 ((S[ng]\NP)/PP)/NP 	 3 	 nurses freeing
+10 	 8 	 ((S[ng]\NP)/PP)/NP 	 2 	 from freeing
+11 	 10 	 PP/NP 	 1 	 duties from
+11 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 duties that
+11 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 duties do <XB>
+11 	 15 	 (S[b]\NP)/NP 	 1 	 duties require <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 do that
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 do n't
+15 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 require do
+17 	 15 	 (S[b]\NP)/NP 	 2 	 skills require
+17 	 16 	 N/N 	 1 	 skills special
+<\s>
+<s id="wsj_2223.17"> 22
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 It recommends
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 recommends also
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 benefits recommends
+7 	 3 	 N/N 	 1 	 benefits better
+7 	 4 	 N/N 	 1 	 benefits retirement
+7 	 6 	 N/N 	 1 	 benefits day-care
+10 	 2 	 (S[dcl]\NP)/NP 	 2 	 basing recommends
+11 	 10 	 ((S[ng]\NP)/PP)/NP 	 3 	 pay basing
+12 	 10 	 ((S[ng]\NP)/PP)/NP 	 2 	 on basing
+13 	 12 	 PP/NP 	 1 	 education on
+15 	 12 	 PP/NP 	 1 	 experience on
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 nurses '
+21 	 12 	 PP/NP 	 1 	 schedules on
+21 	 18 	 (NP[nb]/N)\NP 	 1 	 schedules '
+21 	 19 	 N/N 	 1 	 schedules demanding
+21 	 20 	 N/N 	 1 	 schedules work
+<\s>
+<s id="wsj_2223.18"> 32
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 it opposes
+1 	 17 	 S[adj]\NP 	 1 	 it divisive <XB>
+2 	 0 	 S/S 	 1 	 opposes But
+2 	 15 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 opposes as
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 proposal opposes
+7 	 3 	 NP[nb]/N 	 1 	 proposal an
+7 	 4 	 N/N 	 1 	 proposal American
+7 	 5 	 N/N 	 1 	 proposal Medical
+7 	 6 	 N/N 	 1 	 proposal Association
+7 	 8 	 (NP\NP)/(S[ng]\NP) 	 1 	 proposal for
+9 	 8 	 (NP\NP)/(S[ng]\NP) 	 2 	 creating for
+13 	 9 	 (S[ng]\NP)/NP 	 2 	 technologist creating
+13 	 10 	 NP[nb]/N 	 1 	 technologist a
+13 	 11 	 N/N 	 1 	 technologist registered
+13 	 12 	 N/N 	 1 	 technologist care
+17 	 15 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 divisive as
+17 	 16 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 divisive potentially
+19 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 it says
+22 	 21 	 NP[nb]/N 	 1 	 job the
+22 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 job would
+22 	 24 	 (S[b]\NP)/NP 	 1 	 job entail <XB>
+23 	 20 	 (S[dcl]\NP)/S[dcl] 	 2 	 would says
+24 	 23 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 entail would
+28 	 25 	 NP[nb]/N 	 1 	 doctor an
+28 	 26 	 N/N 	 1 	 doctor unwanted
+28 	 27 	 N/N 	 1 	 doctor new
+28 	 29 	 (NP[nb]/N)\NP 	 2 	 doctor 's
+31 	 24 	 (S[b]\NP)/NP 	 2 	 extension entail
+31 	 29 	 (NP[nb]/N)\NP 	 1 	 extension 's
+31 	 30 	 N/N 	 1 	 extension bedside
+<\s>
+<s id="wsj_2223.19"> 22
+2 	 0 	 N/N 	 1 	 third Over
+2 	 1 	 N/N 	 1 	 third a
+2 	 3 	 (NP\NP)/NP 	 1 	 third of
+2 	 11 	 (S[dcl]\NP)/NP 	 1 	 third use
+5 	 3 	 (NP\NP)/NP 	 2 	 hospitals of
+5 	 4 	 N/N 	 1 	 hospitals 618
+5 	 6 	 S[pss]\NP 	 1 	 hospitals surveyed <XB>
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 surveyed by
+10 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Associates by
+10 	 8 	 N/N 	 1 	 Associates consultant
+10 	 9 	 N/N 	 1 	 Associates Hewitt
+14 	 11 	 (S[dcl]\NP)/NP 	 2 	 ladder use
+14 	 12 	 NP[nb]/N 	 1 	 ladder a
+14 	 13 	 N/N 	 1 	 ladder clinical
+14 	 16 	 ((S[ng]\NP)/PP)/NP 	 1 	 ladder basing <XB>
+17 	 16 	 ((S[ng]\NP)/PP)/NP 	 3 	 advancement basing
+18 	 16 	 ((S[ng]\NP)/PP)/NP 	 2 	 on basing
+19 	 18 	 PP/NP 	 1 	 performance on
+21 	 18 	 PP/NP 	 1 	 education on
+<\s>
+<s id="wsj_2223.20"> 14
+0 	 2 	 (S[b]\NP)/NP 	 1 	 Many use
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 use also
+4 	 2 	 (S[b]\NP)/NP 	 2 	 bonuses use
+4 	 3 	 N/N 	 1 	 bonuses recruiting
+7 	 2 	 (S[b]\NP)/NP 	 2 	 reimbursement use
+7 	 6 	 N/N 	 1 	 reimbursement tuition
+10 	 2 	 (S[b]\NP)/NP 	 2 	 repayment use
+10 	 9 	 N/N 	 1 	 repayment loan
+13 	 2 	 (S[b]\NP)/NP 	 2 	 help use
+13 	 12 	 N/N 	 1 	 help child-care
+<\s>
+<s id="wsj_2223.21"> 4
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Some give
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 incentives give
+3 	 2 	 N/N 	 1 	 incentives lump-sum
+<\s>
+<s id="wsj_2223.22"> 22
+2 	 0 	 N/N 	 1 	 Systems MRA
+2 	 1 	 N/N 	 1 	 Systems Staffing
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Systems signs
+2 	 10 	 (S[ng]\NP)/NP 	 1 	 Systems promising <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 signs up
+5 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 nurses signs
+6 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for signs
+8 	 6 	 PP/NP 	 1 	 travel for
+8 	 7 	 N/N 	 1 	 travel paid
+12 	 10 	 (S[ng]\NP)/NP 	 2 	 income promising
+12 	 11 	 N/N 	 1 	 income annual
+12 	 13 	 (NP\NP)/PP 	 1 	 income up
+14 	 13 	 (NP\NP)/PP 	 2 	 to up
+15 	 14 	 PP/NP 	 1 	 $ to
+16 	 15 	 N/N[num] 	 1 	 50,000 $
+21 	 10 	 (S[ng]\NP)/NP 	 2 	 housing promising
+21 	 18 	 N/N 	 1 	 housing free <XU>
+21 	 20 	 N/N 	 1 	 housing subsidized
+<\s>
+<s id="wsj_2223.23"> 19
+0 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 TREATING with
+0 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 TREATING is
+0 	 5 	 S[adj]\NP 	 1 	 TREATING crucial <XB>
+1 	 0 	 (S[ng]\NP)/NP 	 2 	 EMPLOYEES TREATING
+3 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 respect with
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 is for
+4 	 9 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 crucial is
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 managers for
+9 	 13 	 (S\S)/NP 	 1 	 says after
+12 	 9 	 (S[dcl]\S[dcl])/NP 	 2 	 Group says
+12 	 10 	 N/N 	 1 	 Group consultant
+12 	 11 	 N/N 	 1 	 Group Hay
+14 	 13 	 (S\S)/NP 	 2 	 surveys after
+14 	 15 	 (NP\NP)/NP 	 1 	 surveys of
+17 	 16 	 (N/N)/(N/N) 	 2 	 million a
+18 	 15 	 (NP\NP)/NP 	 2 	 workers of
+18 	 17 	 N/N 	 1 	 workers million
+<\s>
+<s id="wsj_2223.24"> 8
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 It 's
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 in 's
+7 	 2 	 PP/NP 	 1 	 values in
+7 	 3 	 NP[nb]/N 	 1 	 values their
+7 	 4 	 N/N 	 1 	 values top
+7 	 5 	 N/N 	 1 	 values five
+7 	 6 	 N/N 	 1 	 values work
+<\s>
+<s id="wsj_2223.25"> 33
+1 	 0 	 (N/N)/(N/N) 	 2 	 80 Fully
+2 	 1 	 N/N 	 1 	 % 80
+2 	 3 	 (NP\NP)/NP 	 1 	 % of
+2 	 25 	 (S[dcl]\NP)/S[dcl] 	 1 	 % say
+4 	 3 	 (NP\NP)/NP 	 2 	 employees of
+4 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 employees who
+4 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 employees say <XB>
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 say who
+8 	 7 	 NP[nb]/N 	 1 	 bosses their
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 bosses treat
+9 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 treat say
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 treat with
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 them treat
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 respect with
+17 	 15 	 NP/NP 	 1 	 third only
+17 	 16 	 NP[nb]/N 	 1 	 third a
+17 	 18 	 (NP\NP)/NP 	 1 	 third of
+17 	 25 	 (S[dcl]\NP)/S[dcl] 	 1 	 third say
+19 	 18 	 (NP\NP)/NP 	 2 	 those of
+19 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 those who
+19 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 those do <XB>
+19 	 23 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 those feel <XB>
+19 	 24 	 S[adj]\NP 	 1 	 those respected <XB>
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 do who
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 do n't
+23 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 feel do
+24 	 23 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 respected feel
+26 	 27 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 they 're
+26 	 28 	 (S[pt]\NP)/PP 	 1 	 they satisfied <XB>
+27 	 25 	 (S[dcl]\NP)/S[dcl] 	 2 	 're say
+28 	 27 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 satisfied 're
+29 	 28 	 (S[pt]\NP)/PP 	 2 	 with satisfied
+30 	 29 	 PP/S[qem] 	 1 	 where with
+31 	 32 	 S[dcl]\NP 	 1 	 they work
+32 	 30 	 S[qem]/S[dcl] 	 1 	 work where
+<\s>
+<s id="wsj_2223.26"> 45
+0 	 1 	 (S\NP)\(S\NP) 	 2 	 SPRUCING UP
+0 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 SPRUCING :
+3 	 0 	 (S[ng]\NP)/NP 	 2 	 DIGS SPRUCING
+3 	 2 	 NP[nb]/N 	 1 	 DIGS THE
+6 	 5 	 (N/N)/(N/N) 	 2 	 200 About
+7 	 6 	 N/N 	 1 	 employees 200
+7 	 8 	 (NP\NP)/NP 	 1 	 employees of
+7 	 20 	 (S[dcl]\NP)/NP 	 1 	 employees painted
+7 	 23 	 (S[dcl]\NP)/NP 	 1 	 employees polished <XU>
+7 	 25 	 (S[dcl]\NP)/NP 	 1 	 employees carpeted <XU>
+7 	 28 	 (S[dcl]\NP)/NP 	 1 	 employees bought <XU>
+7 	 31 	 (S[dcl]\NP)/NP 	 1 	 employees cleaned <XU>
+7 	 37 	 (S[dcl]\NP)/NP 	 1 	 employees hung <XU>
+11 	 8 	 (NP\NP)/NP 	 2 	 Department of
+11 	 9 	 NP[nb]/N 	 1 	 Department the
+11 	 10 	 N/N 	 1 	 Department Maryland
+11 	 12 	 (NP\NP)/NP 	 1 	 Department of
+16 	 12 	 (NP\NP)/NP 	 2 	 Development of
+16 	 13 	 N/N 	 1 	 Development Economic <XU>
+16 	 15 	 N/N 	 1 	 Development Employment
+19 	 17 	 ((S\NP)/(S\NP))/NP 	 3 	 months for
+19 	 18 	 N/N 	 1 	 months four
+20 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 painted :
+20 	 17 	 ((S\NP)/(S\NP))/NP 	 2 	 painted for
+20 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 painted at
+21 	 20 	 (S[dcl]\NP)/NP 	 2 	 walls painted
+23 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 polished :
+23 	 17 	 ((S\NP)/(S\NP))/NP 	 2 	 polished for
+23 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 polished at
+25 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 carpeted :
+25 	 17 	 ((S\NP)/(S\NP))/NP 	 2 	 carpeted for
+25 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 carpeted at
+26 	 23 	 (S[dcl]\NP)/NP 	 2 	 floors polished <XU>
+26 	 25 	 (S[dcl]\NP)/NP 	 2 	 floors carpeted
+28 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 bought :
+28 	 17 	 ((S\NP)/(S\NP))/NP 	 2 	 bought for
+28 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 bought at
+29 	 28 	 (S[dcl]\NP)/NP 	 2 	 plants bought
+31 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 cleaned :
+31 	 17 	 ((S\NP)/(S\NP))/NP 	 2 	 cleaned for
+31 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 cleaned at
+32 	 31 	 (S[dcl]\NP)/NP 	 2 	 windows cleaned
+34 	 31 	 (S[dcl]\NP)/NP 	 2 	 blinds cleaned
+37 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 hung :
+37 	 17 	 ((S\NP)/(S\NP))/NP 	 2 	 hung for
+37 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 hung at
+38 	 37 	 (S[dcl]\NP)/NP 	 2 	 pictures hung
+41 	 40 	 NP[nb]/N 	 1 	 agency the
+41 	 42 	 (NP[nb]/N)\NP 	 2 	 agency 's
+44 	 39 	 ((S\NP)\(S\NP))/NP 	 3 	 office at
+44 	 42 	 (NP[nb]/N)\NP 	 1 	 office 's
+44 	 43 	 N/N 	 1 	 office Baltimore
+<\s>
+<s id="wsj_2223.27"> 11
+2 	 0 	 NP[nb]/N 	 1 	 hours The
+2 	 1 	 N/N 	 1 	 hours 3,000
+2 	 3 	 (NP\NP)/NP 	 1 	 hours of
+2 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 hours will
+2 	 6 	 ((S[b]\NP)/NP)/NP 	 1 	 hours save <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 work of
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 save will
+8 	 6 	 ((S[b]\NP)/NP)/NP 	 3 	 state save
+8 	 7 	 NP[nb]/N 	 1 	 state the
+9 	 6 	 ((S[b]\NP)/NP)/NP 	 2 	 $ save
+10 	 9 	 N/N[num] 	 1 	 55,000 $
+<\s>
+<s id="wsj_2223.28"> 28
+0 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 CURBING will
+0 	 4 	 (S[b]\NP)/NP 	 1 	 CURBING get <XB>
+2 	 0 	 (S[ng]\NP)/NP 	 2 	 BOOSTS CURBING
+2 	 1 	 N/N 	 1 	 BOOSTS WAGE
+3 	 27 	 (S[dcl]\S[dcl])\NP 	 1 	 will indicates
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 get will
+4 	 7 	 (S\NP)\(S\NP) 	 2 	 get again
+4 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 get in
+6 	 4 	 (S[b]\NP)/NP 	 2 	 priority get
+6 	 5 	 N/N 	 1 	 priority high
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 bargaining in
+11 	 9 	 N/N 	 1 	 bargaining 1990
+11 	 10 	 N/N 	 1 	 bargaining collective
+14 	 15 	 ((N/N)\(N/N))/NP 	 2 	 Bureau of
+17 	 15 	 ((N/N)\(N/N))/NP 	 3 	 Affairs of
+17 	 16 	 N/N 	 1 	 Affairs National
+18 	 13 	 NP[nb]/N 	 1 	 survey a
+18 	 14 	 N/N 	 1 	 survey Bureau
+18 	 19 	 (NP\NP)/NP 	 1 	 survey of
+18 	 27 	 (S[dcl]\S[dcl])\NP 	 2 	 survey indicates
+21 	 19 	 (NP\NP)/NP 	 2 	 companies of
+21 	 20 	 N/N 	 1 	 companies 250
+21 	 22 	 (NP\NP)/NP 	 1 	 companies with
+23 	 22 	 (NP\NP)/NP 	 2 	 pacts with
+23 	 24 	 S[ng]\NP 	 1 	 pacts expiring <XB>
+24 	 26 	 (S\NP)\(S\NP) 	 2 	 expiring year
+26 	 25 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+<\s>
+<s id="wsj_2223.29"> 34
+2 	 0 	 (S/S)/NP 	 2 	 warnings Despite
+2 	 1 	 N/N 	 1 	 warnings labor-shortage
+5 	 4 	 N/N 	 1 	 % 80
+5 	 6 	 (S[dcl]\NP)/PP 	 1 	 % aim
+6 	 0 	 (S/S)/NP 	 1 	 aim Despite
+7 	 6 	 (S[dcl]\NP)/PP 	 2 	 for aim
+10 	 7 	 PP/NP 	 1 	 increases for
+10 	 8 	 N/N 	 1 	 increases first-year
+10 	 9 	 N/N 	 1 	 increases wage
+10 	 11 	 (NP\NP)/NP 	 1 	 increases of
+13 	 12 	 (N/N)/(N/N) 	 2 	 4 under
+14 	 11 	 (NP\NP)/NP 	 2 	 % of
+14 	 13 	 N/N 	 1 	 % 4
+18 	 17 	 N/N 	 1 	 % 77
+18 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 % say
+19 	 0 	 (S/S)/NP 	 1 	 say Despite
+20 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they 'd
+20 	 22 	 (S[b]\NP)/(S[to]\NP) 	 1 	 they try <XB>
+20 	 24 	 (S[b]\NP)/NP 	 1 	 they replace <XB>
+20 	 28 	 S[pss]\NP 	 1 	 they struck <XB>
+20 	 31 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they would <XU>
+20 	 32 	 (S[b]\NP)/NP 	 1 	 they consider <XU>
+21 	 19 	 (S[dcl]\NP)/S[dcl] 	 2 	 'd say
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 try 'd
+22 	 27 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 2 	 try if
+23 	 22 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to try
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 replace to
+25 	 24 	 (S[b]\NP)/NP 	 2 	 workers replace
+28 	 27 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 3 	 struck if
+31 	 19 	 (S[dcl]\NP)/S[dcl] 	 2 	 would say
+32 	 31 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 consider would
+33 	 32 	 (S[b]\NP)/NP 	 2 	 it consider
+<\s>
+<s id="wsj_2223.30"> 36
+1 	 0 	 N/N 	 1 	 WORKERS TEMPORARY
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 WORKERS have
+2 	 12 	 (S[dcl]\S[dcl])\NP 	 1 	 have says
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 educations have
+4 	 3 	 N/N 	 1 	 educations good
+8 	 6 	 NP[nb]/N 	 1 	 Association the
+8 	 7 	 N/N 	 1 	 Association National
+8 	 9 	 (NP\NP)/NP 	 1 	 Association of
+8 	 12 	 (S[dcl]\S[dcl])\NP 	 2 	 Association says
+11 	 9 	 (NP\NP)/NP 	 2 	 Services of
+11 	 10 	 N/N 	 1 	 Services Temporary
+15 	 14 	 NP[nb]/N 	 1 	 survey its
+15 	 16 	 (NP\NP)/NP 	 1 	 survey of
+15 	 20 	 (S[dcl]\NP)/NP 	 1 	 survey shows
+19 	 16 	 (NP\NP)/NP 	 2 	 employees of
+19 	 17 	 N/N 	 1 	 employees 2,508
+19 	 18 	 N/N 	 1 	 employees such
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 % shows
+22 	 21 	 N/N 	 1 	 % 82
+22 	 23 	 (NP\NP)/NP 	 1 	 % with
+24 	 23 	 (NP\NP)/NP 	 2 	 more with
+24 	 25 	 (NP\NP)/NP 	 1 	 more than
+28 	 25 	 (NP\NP)/NP 	 2 	 education than
+28 	 26 	 NP[nb]/N 	 1 	 education a
+28 	 27 	 N/N 	 1 	 education high-school
+32 	 20 	 (S[dcl]\NP)/NP 	 2 	 % shows
+32 	 31 	 N/N 	 1 	 % 31
+32 	 33 	 (NP\NP)/NP 	 1 	 % with
+35 	 33 	 (NP\NP)/NP 	 2 	 degrees with
+35 	 34 	 N/N 	 1 	 degrees college
+<\s>
+<s id="wsj_2223.31"> 20
+1 	 0 	 (N/N)/(N/N) 	 2 	 12 About
+2 	 1 	 N/N 	 1 	 % 12
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 % have
+2 	 4 	 (S[pt]\NP)/PP 	 1 	 % retired <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 retired have
+4 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 retired while
+5 	 4 	 (S[pt]\NP)/PP 	 2 	 from retired
+8 	 5 	 PP/NP 	 1 	 job from
+8 	 6 	 NP[nb]/N 	 1 	 job a
+8 	 7 	 N/N 	 1 	 job full-time
+12 	 11 	 N/N 	 1 	 % 54
+12 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 % were
+12 	 14 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 % asked <XB>
+12 	 16 	 (S[b]\NP)/NP 	 1 	 % stay <XB>
+13 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 were while
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 asked were
+15 	 14 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to asked
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stay to
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 stay on
+19 	 16 	 (S[b]\NP)/NP 	 2 	 time stay
+19 	 18 	 N/N 	 1 	 time full
+<\s>
+<s id="wsj_2223.32"> 11
+1 	 0 	 N/N 	 1 	 LOSSES HOME-SALE
+1 	 2 	 S[dcl]\NP 	 1 	 LOSSES rise
+5 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 they 're
+5 	 8 	 S[pss]\NP 	 1 	 they covered <XB>
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 're often
+8 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 covered 're
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 covered by
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 employers by
+<\s>
+<s id="wsj_2223.33"> 9
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 they search
+2 	 0 	 S/S 	 1 	 search But
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 for search
+4 	 3 	 PP/NP 	 1 	 ways for
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 limit to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 damage limit
+8 	 7 	 NP[nb]/N 	 1 	 damage the
+<\s>
+<s id="wsj_2223.34"> 20
+1 	 0 	 N/N 	 1 	 third A
+1 	 2 	 (NP\NP)/NP 	 1 	 third of
+1 	 11 	 (S[dcl]\NP)/NP 	 1 	 third report
+4 	 2 	 (NP\NP)/NP 	 2 	 companies of
+4 	 3 	 N/N 	 1 	 companies 439
+4 	 5 	 S[pss]\NP 	 1 	 companies surveyed <XB>
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 surveyed by
+10 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Council by
+10 	 7 	 NP[nb]/N 	 1 	 Council the
+10 	 8 	 N/N 	 1 	 Council Employee
+10 	 9 	 N/N 	 1 	 Council Relocation
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 rise report
+13 	 12 	 NP[nb]/N 	 1 	 rise a
+13 	 14 	 (NP\NP)/NP 	 1 	 rise in
+13 	 18 	 (NP\NP)/NP 	 1 	 rise over
+17 	 14 	 (NP\NP)/NP 	 2 	 losses in
+17 	 15 	 N/N 	 1 	 losses 1988
+17 	 16 	 N/N 	 1 	 losses sales
+19 	 18 	 (NP\NP)/NP 	 2 	 1987 over
+<\s>
+<s id="wsj_2223.35"> 9
+1 	 0 	 (N/N)/(N/N) 	 2 	 72 About
+2 	 1 	 N/N 	 1 	 % 72
+2 	 3 	 S[dcl]\NP 	 1 	 % reimburse
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 reimburse for
+8 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 losses for
+8 	 5 	 N/N 	 1 	 losses all <XU>
+8 	 7 	 N/N 	 1 	 losses some
+<\s>
+<s id="wsj_2223.36"> 18
+1 	 0 	 (S/S)/NP 	 2 	 1984 Since
+4 	 3 	 N/N 	 1 	 companies more
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 companies give
+5 	 0 	 (S/S)/NP 	 1 	 give Since
+5 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 give as
+5 	 17 	 (S[dcl]\S[dcl])\NP 	 1 	 give says
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 aid give
+7 	 6 	 N/N 	 1 	 aid sales-loss
+12 	 10 	 N/N 	 1 	 values many
+12 	 11 	 N/N 	 1 	 values real-estate
+12 	 13 	 S[dcl]\NP 	 1 	 values depreciated
+13 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 depreciated as
+16 	 15 	 NP[nb]/N 	 1 	 council the
+16 	 17 	 (S[dcl]\S[dcl])\NP 	 2 	 council says
+<\s>
+<s id="wsj_2223.37"> 12
+1 	 0 	 N/N 	 1 	 Nabisco RJR
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Nabisco pays
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 $ pays
+5 	 3 	 N/N 	 1 	 $ up
+5 	 4 	 N/N 	 1 	 $ to
+5 	 7 	 (NP\NP)/NP 	 1 	 $ of
+6 	 5 	 N/N[num] 	 1 	 30,000 $
+8 	 7 	 (NP\NP)/NP 	 2 	 losses of
+8 	 10 	 (NP\NP)/NP 	 1 	 losses including
+11 	 10 	 (NP\NP)/NP 	 2 	 improvements including
+<\s>
+<s id="wsj_2223.38"> 35
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Goodrich wo
+0 	 3 	 (S[b]\NP)/NP 	 1 	 Goodrich ensure <XB>
+0 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Goodrich will <XU>
+0 	 9 	 (S[b]\NP)/NP 	 1 	 Goodrich prevent <XU>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 wo n't
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 ensure wo
+5 	 3 	 (S[b]\NP)/NP 	 2 	 coverage ensure
+5 	 4 	 N/N 	 1 	 coverage loss
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 prevent will
+12 	 9 	 (S[b]\NP)/NP 	 2 	 loss prevent
+12 	 10 	 NP[nb]/N 	 1 	 loss a
+12 	 11 	 N/N 	 1 	 loss catastrophic
+14 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+14 	 16 	 ((S[pt]\NP)/NP)/NP 	 1 	 it given <XB>
+16 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 given has
+18 	 16 	 ((S[pt]\NP)/NP)/NP 	 3 	 employees given
+18 	 17 	 NP[nb]/N 	 1 	 employees some
+22 	 16 	 ((S[pt]\NP)/NP)/NP 	 2 	 price given
+22 	 19 	 NP[nb]/N 	 1 	 price the
+22 	 20 	 N/N 	 1 	 price full
+22 	 21 	 N/N 	 1 	 price purchase
+22 	 23 	 (NP\NP)/S[dcl] 	 1 	 price when
+24 	 25 	 S[dcl]\NP 	 1 	 values fell
+25 	 23 	 (NP\NP)/S[dcl] 	 2 	 fell when
+25 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 concern from
+27 	 28 	 (NP\NP)/NP 	 1 	 concern over
+29 	 28 	 (NP\NP)/NP 	 2 	 dangers over
+29 	 30 	 S[pss]\NP 	 1 	 dangers posed <XB>
+30 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 posed by
+34 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 site by
+34 	 32 	 NP[nb]/N 	 1 	 site a
+34 	 33 	 N/N 	 1 	 site disposal
+<\s>
+<s id="wsj_2223.39"> 32
+1 	 0 	 N/N 	 1 	 Express Federal
+1 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Express will
+1 	 12 	 (S[b]\NP)/NP 	 1 	 Express buy <XB>
+1 	 16 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 Express let <XU>
+1 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Express wo <XU>
+1 	 29 	 (S[b]\NP)/NP 	 1 	 Express cover <XU>
+4 	 3 	 N/N 	 1 	 Chemical Dow
+4 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Chemical will
+4 	 12 	 (S[b]\NP)/NP 	 1 	 Chemical buy <XB>
+4 	 16 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 Chemical let <XU>
+4 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Chemical wo <XU>
+4 	 29 	 (S[b]\NP)/NP 	 1 	 Chemical cover <XU>
+6 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Ford will
+6 	 12 	 (S[b]\NP)/NP 	 1 	 Ford buy <XB>
+6 	 16 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 Ford let <XU>
+6 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Ford wo <XU>
+6 	 29 	 (S[b]\NP)/NP 	 1 	 Ford cover <XU>
+10 	 8 	 N/N 	 1 	 Corp. National
+10 	 9 	 N/N 	 1 	 Corp. City
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Corp. will
+10 	 12 	 (S[b]\NP)/NP 	 1 	 Corp. buy <XB>
+10 	 16 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 Corp. let <XU>
+10 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Corp. wo <XU>
+10 	 29 	 (S[b]\NP)/NP 	 1 	 Corp. cover <XU>
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 buy will
+14 	 12 	 (S[b]\NP)/NP 	 2 	 home buy
+14 	 13 	 NP[nb]/N 	 1 	 home the
+16 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 let will
+18 	 16 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 worker let
+18 	 17 	 NP[nb]/N 	 1 	 worker the
+18 	 19 	 (S[b]\NP)/PP 	 1 	 worker sell <XB>
+19 	 16 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 sell let
+20 	 19 	 (S[b]\NP)/PP 	 2 	 to sell
+23 	 20 	 PP/NP 	 1 	 firm to
+23 	 21 	 NP[nb]/N 	 1 	 firm an
+23 	 22 	 N/N 	 1 	 firm outside
+27 	 26 	 (S\NP)/(S\NP) 	 2 	 wo usually
+27 	 28 	 (S\NP)\(S\NP) 	 2 	 wo n't
+29 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cover wo
+31 	 29 	 (S[b]\NP)/NP 	 2 	 loss cover
+31 	 30 	 NP[nb]/N 	 1 	 loss a
+<\s>
+<s id="wsj_2223.40"> 26
+1 	 0 	 (S/S)/NP 	 2 	 1984 Since
+3 	 4 	 (S[ng]\NP)/NP 	 1 	 firms offering <XB>
+3 	 10 	 (S[b]\NP)/NP 	 1 	 firms deter <XB>
+3 	 13 	 S[dcl]\NP 	 1 	 firms rose
+7 	 4 	 (S[ng]\NP)/NP 	 2 	 appraisals offering
+7 	 5 	 N/N 	 1 	 appraisals prepurchase
+7 	 6 	 N/N 	 1 	 appraisals house
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 deter to
+11 	 10 	 (S[b]\NP)/NP 	 2 	 overpaying deter
+13 	 0 	 (S/S)/NP 	 1 	 rose Since
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+13 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+16 	 15 	 N/N 	 1 	 % 40
+16 	 17 	 (NP\NP)/NP 	 1 	 % of
+18 	 17 	 (NP\NP)/NP 	 2 	 those of
+18 	 21 	 (S[dcl]\NP)/NP 	 2 	 those polled <XU>
+20 	 19 	 NP[nb]/N 	 1 	 council the
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 council polled
+25 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 % from
+25 	 24 	 N/N 	 1 	 % 28
+<\s>
+<s id="wsj_2223.41"> 21
+1 	 0 	 NP[nb]/N 	 1 	 CHECKOFF THE
+1 	 2 	 (NP\NP)/S[dcl] 	 1 	 CHECKOFF :
+5 	 3 	 NP[nb]/N 	 1 	 Academy The
+5 	 4 	 N/N 	 1 	 Academy National
+5 	 6 	 (NP\NP)/NP 	 1 	 Academy of
+5 	 8 	 ((S[dcl]\NP)/NP)/NP 	 1 	 Academy gives
+7 	 6 	 (NP\NP)/NP 	 2 	 Engineering of
+8 	 2 	 (NP\NP)/S[dcl] 	 2 	 gives :
+10 	 8 	 ((S[dcl]\NP)/NP)/NP 	 3 	 inventors gives
+10 	 9 	 N/N 	 1 	 inventors two
+10 	 11 	 (NP\NP)/NP 	 1 	 inventors of
+14 	 11 	 (NP\NP)/NP 	 2 	 microchip of
+14 	 12 	 NP[nb]/N 	 1 	 microchip the
+14 	 13 	 N/N 	 1 	 microchip semiconductor
+17 	 16 	 (N/N)/N[num] 	 2 	 350,000 $
+19 	 8 	 ((S[dcl]\NP)/NP)/NP 	 2 	 award gives
+19 	 15 	 NP[nb]/N 	 1 	 award a
+19 	 16 	 (N/N)/N[num] 	 1 	 award $
+19 	 18 	 N/N 	 1 	 award achievement
+<\s>
+<s id="wsj_2223.42"> 24
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 that 's
+2 	 4 	 S[adj]\NP 	 1 	 that reactionary <XB>
+3 	 0 	 S/S 	 1 	 's Now
+3 	 5 	 (S\S)/S[dcl] 	 1 	 's :
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 reactionary 's
+11 	 6 	 N/N 	 1 	 Sombrotto Letter
+11 	 7 	 N/N 	 1 	 Sombrotto Carriers
+11 	 8 	 N/N 	 1 	 Sombrotto union
+11 	 9 	 N/N 	 1 	 Sombrotto president
+11 	 10 	 N/N 	 1 	 Sombrotto Vincent
+11 	 12 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Sombrotto accuses
+12 	 5 	 (S\S)/S[dcl] 	 2 	 accuses :
+16 	 12 	 ((S[dcl]\NP)/PP)/NP 	 3 	 James accuses
+16 	 13 	 N/N 	 1 	 James Philadelphia
+16 	 14 	 N/N 	 1 	 James postmaster
+16 	 15 	 N/N 	 1 	 James Charles
+17 	 12 	 ((S[dcl]\NP)/PP)/NP 	 2 	 of accuses
+21 	 18 	 (N/N)/(N/N) 	 2 	 oppressive 12th
+21 	 19 	 (N/N)/(N/N) 	 2 	 oppressive century
+23 	 17 	 PP/NP 	 1 	 tactics of
+23 	 21 	 N/N 	 1 	 tactics oppressive
+23 	 22 	 N/N 	 1 	 tactics management
+<\s>

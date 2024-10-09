@@ -1,0 +1,98 @@
+<s id="wsj_2000.1"> 27
+2 	 0 	 N/N 	 1 	 Corp. Rockwell
+2 	 1 	 N/N 	 1 	 Corp. International
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 unit 's
+5 	 4 	 N/N 	 1 	 unit Tulsa
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 unit said
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 it signed
+8 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 signed said
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 agreement signed
+11 	 9 	 NP[nb]/N 	 1 	 agreement a
+11 	 10 	 N/N 	 1 	 agreement tentative
+11 	 12 	 (S[ng]\NP)/NP 	 1 	 agreement extending <XB>
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 contract extending
+14 	 13 	 NP[nb]/N 	 1 	 contract its
+14 	 15 	 (NP\NP)/NP 	 1 	 contract with
+17 	 15 	 (NP\NP)/NP 	 2 	 Co. with
+17 	 16 	 N/N 	 1 	 Co. Boeing
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provide to
+21 	 19 	 (S[b]\NP)/NP 	 2 	 parts provide
+21 	 20 	 N/N 	 1 	 parts structural
+21 	 22 	 (NP\NP)/NP 	 1 	 parts for
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 Boeing 's
+26 	 22 	 (NP\NP)/NP 	 2 	 jetliners for
+26 	 24 	 (NP[nb]/N)\NP 	 1 	 jetliners 's
+26 	 25 	 N/N 	 1 	 jetliners 747
+<\s>
+<s id="wsj_2000.2"> 16
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Rockwell said
+3 	 2 	 NP[nb]/N 	 1 	 agreement the
+3 	 4 	 (S[dcl]\NP)/S[for] 	 1 	 agreement calls
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 calls said
+5 	 4 	 (S[dcl]\NP)/S[for] 	 2 	 for calls
+6 	 5 	 (S[for]/(S[to]\NP))/NP 	 2 	 it for
+6 	 8 	 (S[b]\NP)/NP 	 1 	 it supply <XB>
+7 	 5 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 supply to
+8 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 supply for
+12 	 8 	 (S[b]\NP)/NP 	 2 	 shipsets supply
+12 	 9 	 N/N 	 1 	 shipsets 200
+12 	 10 	 N/N 	 1 	 shipsets additional
+12 	 11 	 N/N 	 1 	 shipsets so-called
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 planes for
+15 	 14 	 NP[nb]/N 	 1 	 planes the
+<\s>
+<s id="wsj_2000.3"> 32
+0 	 1 	 S[dcl]\NP 	 1 	 These include
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 include among
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 parts among
+5 	 4 	 N/N 	 1 	 parts other
+8 	 7 	 NP[nb]/N 	 1 	 jetliner each
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 jetliner 's
+12 	 9 	 (NP[nb]/N)\NP 	 1 	 bulkheads 's
+12 	 10 	 N/N 	 1 	 bulkheads two
+12 	 11 	 N/N 	 1 	 bulkheads major
+16 	 14 	 NP[nb]/N 	 1 	 floor a
+16 	 15 	 N/N 	 1 	 floor pressure
+19 	 18 	 N/N 	 1 	 box torque
+23 	 21 	 N/N 	 1 	 edges fixed
+23 	 22 	 N/N 	 1 	 edges leading
+23 	 24 	 (NP\NP)/NP 	 1 	 edges for
+26 	 24 	 (NP\NP)/NP 	 2 	 wings for
+26 	 25 	 NP[nb]/N 	 1 	 wings the
+31 	 28 	 NP[nb]/N 	 1 	 beam an
+31 	 29 	 N/N 	 1 	 beam aft
+31 	 30 	 N/N 	 1 	 beam keel
+<\s>
+<s id="wsj_2000.4"> 18
+3 	 0 	 (S/S)/NP 	 2 	 contract Under
+3 	 1 	 NP[nb]/N 	 1 	 contract the
+3 	 2 	 N/N 	 1 	 contract existing
+5 	 6 	 S[dcl]\NP 	 1 	 Rockwell said
+8 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+8 	 11 	 ((S[pt]\NP)/PP)/NP 	 1 	 it delivered <XB>
+9 	 0 	 (S/S)/NP 	 1 	 has Under
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 has already
+11 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 delivered has
+12 	 11 	 ((S[pt]\NP)/PP)/NP 	 3 	 793 delivered
+12 	 13 	 (NP\NP)/NP 	 1 	 793 of
+15 	 13 	 (NP\NP)/NP 	 2 	 shipsets of
+15 	 14 	 NP[nb]/N 	 1 	 shipsets the
+16 	 11 	 ((S[pt]\NP)/PP)/NP 	 2 	 to delivered
+17 	 16 	 PP/NP 	 1 	 Boeing to
+<\s>
+<s id="wsj_2000.5"> 19
+0 	 2 	 S[pss]\NP 	 1 	 Rockwell based <XB>
+0 	 9 	 (S[dcl]\NP)/NP 	 1 	 Rockwell is
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Segundo in
+5 	 4 	 N/N 	 1 	 Segundo El
+7 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Calif. in
+18 	 9 	 (S[dcl]\NP)/NP 	 2 	 concern is
+18 	 10 	 NP[nb]/N 	 1 	 concern an
+18 	 11 	 N/N 	 1 	 concern aerospace <XU>
+18 	 13 	 N/N 	 1 	 concern electronics <XU>
+18 	 15 	 N/N 	 1 	 concern automotive <XU>
+18 	 17 	 N/N 	 1 	 concern graphics
+<\s>

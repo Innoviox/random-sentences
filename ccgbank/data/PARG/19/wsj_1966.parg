@@ -1,0 +1,74 @@
+<s id="wsj_1966.1"> 36
+2 	 0 	 N/N 	 1 	 Inc. McCormick
+2 	 1 	 N/N 	 1 	 Inc. Capital
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+6 	 4 	 NP[nb]/N 	 1 	 offer its
+6 	 5 	 N/N 	 1 	 offer tender
+6 	 8 	 (S[b]\NP)/NP 	 1 	 offer buy <XB>
+6 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 offer which
+6 	 30 	 S[dcl]\NP 	 1 	 offer expired <XB>
+6 	 34 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 offer was
+6 	 35 	 S[pss]\NP 	 1 	 offer oversubscribed <XB>
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 buy back
+8 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 buy at
+10 	 8 	 (S[b]\NP)/NP 	 2 	 as buy
+10 	 20 	 (NP\NP)/NP 	 1 	 as of
+11 	 10 	 (N/PP)/(S[adj]\NP) 	 2 	 many as
+12 	 10 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+14 	 12 	 PP/NP 	 1 	 million as
+14 	 13 	 N/N 	 1 	 million 1.1
+18 	 8 	 (S[b]\NP)/NP 	 2 	 % buy
+18 	 17 	 N/N 	 1 	 % 44
+18 	 20 	 (NP\NP)/NP 	 1 	 % of
+23 	 20 	 (NP\NP)/NP 	 2 	 shares of
+23 	 21 	 NP[nb]/N 	 1 	 shares its
+23 	 22 	 N/N 	 1 	 shares common
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 $ at
+25 	 27 	 NP\NP 	 1 	 $ apiece
+26 	 25 	 N/N[num] 	 1 	 3 $
+30 	 29 	 (NP\NP)/(S[dcl]\NP) 	 2 	 expired which
+30 	 32 	 (S\NP)\(S\NP) 	 2 	 expired evening
+32 	 31 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 evening Friday
+34 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+35 	 34 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 oversubscribed was
+<\s>
+<s id="wsj_1966.2"> 27
+1 	 0 	 NP[nb]/N 	 1 	 developer The
+1 	 4 	 (NP\NP)/NP 	 1 	 developer of
+1 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 developer said
+3 	 0 	 NP[nb]/N 	 1 	 manager The
+3 	 4 	 (NP\NP)/NP 	 1 	 manager of
+3 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 manager said
+7 	 4 	 (NP\NP)/NP 	 2 	 partnerships of
+7 	 5 	 N/N 	 1 	 partnerships futures-investment
+7 	 6 	 N/N 	 1 	 partnerships limited
+10 	 9 	 N/N 	 1 	 results preliminary
+10 	 11 	 (S[dcl]\NP)/S[em] 	 1 	 results indicate
+11 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 indicate said
+12 	 11 	 (S[dcl]\NP)/S[em] 	 2 	 that indicate
+14 	 13 	 (N/N)/(N/N) 	 2 	 1,749,000 about
+15 	 14 	 N/N 	 1 	 shares 1,749,000
+15 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 shares had
+15 	 18 	 S[pss]\NP 	 1 	 shares tendered <XB>
+15 	 20 	 (S[ng]\NP)/NP 	 1 	 shares giving <XB>
+16 	 12 	 S[em]/S[dcl] 	 1 	 had that
+17 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+18 	 17 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 tendered been
+24 	 20 	 (S[ng]\NP)/NP 	 2 	 factor giving
+24 	 21 	 NP[nb]/N 	 1 	 factor a
+24 	 22 	 N/N 	 1 	 factor preliminary
+24 	 23 	 N/N 	 1 	 factor proration
+24 	 25 	 (NP\NP)/NP 	 1 	 factor of
+26 	 25 	 (NP\NP)/NP 	 2 	 0.6287 of
+<\s>
+<s id="wsj_1966.3"> 8
+3 	 0 	 NP[nb]/N 	 1 	 factor The
+3 	 1 	 N/N 	 1 	 factor final
+3 	 2 	 N/N 	 1 	 factor proration
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 factor will
+3 	 6 	 S[pss]\NP 	 1 	 factor announced <XB>
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+6 	 5 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 announced be
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 announced Monday
+<\s>

@@ -1,0 +1,433 @@
+<s id="wsj_0373.1"> 40
+1 	 0 	 NP[nb]/N 	 1 	 head The
+1 	 2 	 (NP\NP)/NP 	 1 	 head of
+1 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 head said
+6 	 2 	 (NP\NP)/NP 	 2 	 Ltd. of
+6 	 3 	 N/N 	 1 	 Ltd. British
+6 	 4 	 N/N 	 1 	 Ltd. Satellite
+6 	 5 	 N/N 	 1 	 Ltd. Broadcasting
+8 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 he hopes
+8 	 11 	 (S[b]\NP)/NP 	 1 	 he raise <XB>
+9 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 hopes said
+10 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to hopes
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 raise to
+11 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 raise before
+11 	 32 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 2 	 raise with
+13 	 11 	 (S[b]\NP)/NP 	 2 	 # raise
+13 	 12 	 N/N 	 1 	 # about
+13 	 16 	 (NP\NP)/NP 	 1 	 # -LRB-
+15 	 13 	 N/N[num] 	 1 	 million #
+15 	 14 	 N/N 	 1 	 million 450
+17 	 16 	 (NP\NP)/NP 	 2 	 $ -LRB-
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 711
+24 	 22 	 NP[nb]/N 	 1 	 venture the
+24 	 23 	 N/N 	 1 	 venture satellite-TV
+24 	 25 	 (S[dcl]\NP)/NP 	 1 	 venture makes
+25 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 makes before
+25 	 30 	 (S\NP)\(S\NP) 	 2 	 makes spring
+28 	 25 	 (S[dcl]\NP)/NP 	 2 	 debut makes
+28 	 26 	 NP[nb]/N 	 1 	 debut its
+28 	 27 	 N/N 	 1 	 debut delayed
+30 	 29 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 spring next
+32 	 31 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 with --
+35 	 32 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 chunk with
+35 	 33 	 NP[nb]/N 	 1 	 chunk a
+35 	 34 	 N/N 	 1 	 chunk major
+35 	 36 	 S[ng]\NP 	 1 	 chunk coming <XB>
+36 	 32 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 3 	 coming with
+36 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 coming from
+39 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 investors from
+39 	 38 	 N/N 	 1 	 investors new
+<\s>
+<s id="wsj_0373.2"> 7
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 We 'll
+0 	 2 	 (S[b]\NP)/NP 	 1 	 We raise <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 raise 'll
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 raise through
+3 	 2 	 (S[b]\NP)/NP 	 2 	 it raise
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 loans through
+6 	 5 	 N/N 	 1 	 loans bank
+<\s>
+<s id="wsj_0373.3"> 9
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 We 'll
+0 	 2 	 (S[b]\NP)/NP 	 1 	 We raise <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 raise 'll
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 raise through
+3 	 2 	 (S[b]\NP)/NP 	 2 	 it raise
+6 	 5 	 (N/N)/(S[adj]\NP) 	 2 	 new -LCB-
+8 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 equity through
+8 	 5 	 (N/N)/(S[adj]\NP) 	 1 	 equity -LCB-
+<\s>
+<s id="wsj_0373.4"> 25
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 we 'll
+1 	 3 	 (S[b]\NP)/NP 	 1 	 we raise <XB>
+2 	 0 	 S/S 	 1 	 'll And
+2 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 'll said
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 raise 'll
+3 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 raise through
+3 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 raise through <XU>
+4 	 3 	 (S[b]\NP)/NP 	 2 	 it raise
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 shareholders through
+7 	 6 	 N/N 	 1 	 shareholders existing
+10 	 8 	 conj/conj 	 1 	 as as
+10 	 9 	 conj/conj 	 1 	 as well
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 bonds through
+13 	 12 	 N/N 	 1 	 bonds junk
+17 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 Simonds-Gooding said
+17 	 16 	 N/N 	 1 	 Simonds-Gooding Anthony
+21 	 19 	 NP[nb]/N 	 1 	 consortium the
+21 	 20 	 N/N 	 1 	 consortium private
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 consortium 's
+24 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 executive said
+24 	 22 	 (NP[nb]/N)\NP 	 1 	 executive 's
+24 	 23 	 N/N 	 1 	 executive chief
+<\s>
+<s id="wsj_0373.5"> 21
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 he believes
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 believes said
+6 	 4 	 NP[nb]/N 	 1 	 loan the
+6 	 5 	 N/N 	 1 	 loan bank
+6 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 loan will
+6 	 15 	 (S[b]\NP)/NP 	 1 	 loan supply <XB>
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+10 	 9 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 arranged be
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 arranged by
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 February by
+14 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 will believes
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 supply will
+17 	 15 	 (S[b]\NP)/NP 	 2 	 half supply
+17 	 16 	 N/N 	 1 	 half about
+17 	 18 	 (NP\NP)/NP 	 1 	 half of
+20 	 18 	 (NP\NP)/NP 	 2 	 financing of
+20 	 19 	 NP[nb]/N 	 1 	 financing the
+<\s>
+<s id="wsj_0373.6"> 23
+1 	 0 	 N/N 	 1 	 Satellite British
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Satellite which
+1 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Satellite has <XB>
+1 	 6 	 (S[pt]\NP)/NP 	 1 	 Satellite raised <XB>
+1 	 15 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Satellite expected
+1 	 17 	 (S[b]\NP)/NP 	 1 	 Satellite seek <XB>
+5 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 has already
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 raised has
+6 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 raised from
+7 	 6 	 (S[pt]\NP)/NP 	 2 	 # raised
+9 	 7 	 N/N[num] 	 1 	 million #
+9 	 8 	 N/N 	 1 	 million 423.5
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 backers from
+12 	 11 	 N/N 	 1 	 backers 10
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 expected initially
+16 	 15 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expected
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 seek to
+20 	 17 	 (S[b]\NP)/NP 	 2 	 # seek
+20 	 18 	 NP[nb]/N 	 1 	 # an
+20 	 19 	 N/N 	 1 	 # additional
+22 	 20 	 N/N[num] 	 1 	 million #
+22 	 21 	 N/N 	 1 	 million 400
+<\s>
+<s id="wsj_0373.7"> 36
+1 	 0 	 N/N 	 1 	 Simonds-Gooding Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Simonds-Gooding said
+5 	 3 	 NP[nb]/N 	 1 	 financing the
+5 	 4 	 N/N 	 1 	 financing additional
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 financing may
+5 	 7 	 ((S[b]\NP)/(S[pss]\NP))/NP 	 1 	 financing leave <XB>
+6 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 may said
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 leave may
+9 	 7 	 ((S[b]\NP)/(S[pss]\NP))/NP 	 3 	 Satellite leave
+9 	 8 	 N/N 	 1 	 Satellite British
+9 	 10 	 S[pss]\NP 	 1 	 Satellite owned <XB>
+10 	 7 	 ((S[b]\NP)/(S[pss]\NP))/NP 	 2 	 owned leave
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 owned by
+13 	 12 	 (N/N)/(N/N) 	 2 	 20 about
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 investors by
+14 	 13 	 N/N 	 1 	 investors 20
+14 	 16 	 (NP\NP)/NP 	 1 	 investors including
+20 	 16 	 (NP\NP)/NP 	 2 	 Bond including
+20 	 17 	 N/N 	 1 	 Bond Australian
+20 	 18 	 N/N 	 1 	 Bond entrepreneur
+20 	 19 	 N/N 	 1 	 Bond Alan
+20 	 22 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 Bond whose
+24 	 23 	 ((N/N)/(N/N))/((N/N)/(N/N)) 	 3 	 36 nearly
+25 	 24 	 (N/N)/(N/N) 	 2 	 % 36
+26 	 22 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 stake whose
+26 	 25 	 N/N 	 1 	 stake %
+26 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 stake would <XB>
+26 	 29 	 (S[pss]\NP)/PP 	 1 	 stake reduced <XB>
+27 	 22 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 would whose
+28 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+29 	 28 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reduced be
+30 	 29 	 (S[pss]\NP)/PP 	 2 	 to reduced
+31 	 30 	 PP/NP 	 1 	 as to
+32 	 31 	 (N/PP)/(S[adj]\NP) 	 2 	 little as
+33 	 31 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+35 	 33 	 PP/NP 	 1 	 % as
+35 	 34 	 N/N 	 1 	 % 20
+<\s>
+<s id="wsj_0373.8"> 29
+1 	 0 	 N/N 	 1 	 Corp. Bond
+1 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Corp. would
+1 	 10 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Corp. like <XB>
+1 	 12 	 S[b]\NP 	 1 	 Corp. withdraw <XB>
+4 	 3 	 N/N 	 1 	 Satellite British
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Satellite 's
+7 	 5 	 (NP[nb]/N)\NP 	 1 	 investor 's
+7 	 6 	 N/N 	 1 	 investor biggest
+7 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 investor would
+7 	 10 	 (S[b]\NP)/(S[to]\NP) 	 1 	 investor like <XB>
+7 	 12 	 S[b]\NP 	 1 	 investor withdraw <XB>
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 like would
+11 	 10 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to like
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 withdraw to
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 withdraw from
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 consortium from
+16 	 14 	 NP[nb]/N 	 1 	 consortium the
+16 	 15 	 N/N 	 1 	 consortium satellite-TV
+19 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 analysts have
+19 	 21 	 (S[pt]\NP)/S[dcl] 	 1 	 analysts speculated <XB>
+21 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 speculated have
+23 	 22 	 N/N 	 1 	 studios Hollywood
+23 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 studios might
+23 	 25 	 (S[b]\NP)/NP 	 1 	 studios buy <XB>
+24 	 21 	 (S[pt]\NP)/S[dcl] 	 2 	 might speculated
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 buy might
+28 	 25 	 (S[b]\NP)/NP 	 2 	 stake buy
+28 	 26 	 NP[nb]/N 	 1 	 stake the
+28 	 27 	 N/N 	 1 	 stake Bond
+<\s>
+<s id="wsj_0373.9"> 13
+2 	 1 	 N/N 	 1 	 Simonds-Gooding Mr.
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Simonds-Gooding said
+3 	 0 	 S/S 	 1 	 said But
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 he is
+4 	 7 	 ((S[ng]\NP)/PP)/PP 	 1 	 he talking <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 is n't
+7 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 talking is
+8 	 7 	 ((S[ng]\NP)/PP)/PP 	 3 	 to talking
+10 	 8 	 PP/NP 	 1 	 studios to
+10 	 9 	 NP[nb]/N 	 1 	 studios any
+11 	 7 	 ((S[ng]\NP)/PP)/PP 	 2 	 about talking
+12 	 11 	 PP/NP 	 1 	 investing about
+<\s>
+<s id="wsj_0373.10"> 20
+2 	 0 	 (S/S)/NP 	 2 	 Corp. Besides
+2 	 1 	 N/N 	 1 	 Corp. Bond
+5 	 4 	 N/N 	 1 	 Satellite British
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Satellite 's
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 backers 's
+8 	 7 	 N/N 	 1 	 backers other
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 backers include
+9 	 0 	 (S/S)/NP 	 1 	 include Besides
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 PLC include
+11 	 10 	 N/N 	 1 	 PLC Pearson
+15 	 9 	 (S[dcl]\NP)/NP 	 2 	 PLC include
+15 	 13 	 N/N 	 1 	 PLC Reed
+15 	 14 	 N/N 	 1 	 PLC International
+19 	 9 	 (S[dcl]\NP)/NP 	 2 	 PLC include
+19 	 17 	 N/N 	 1 	 PLC Granada
+19 	 18 	 N/N 	 1 	 PLC Group
+<\s>
+<s id="wsj_0373.11"> 20
+1 	 0 	 NP[nb]/N 	 1 	 consortium The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 consortium faced
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 faced in
+2 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 faced when
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 setback faced
+4 	 3 	 NP[nb]/N 	 1 	 setback a
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 May in
+9 	 8 	 N/N 	 1 	 problems technical
+9 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 problems forced
+10 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 forced when
+11 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 it forced
+11 	 13 	 (S[b]\NP)/NP 	 1 	 it postpone <XB>
+12 	 10 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to forced
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 postpone to
+13 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 postpone until
+16 	 13 	 (S[b]\NP)/NP 	 2 	 launch postpone
+16 	 14 	 NP[nb]/N 	 1 	 launch the
+16 	 15 	 N/N 	 1 	 launch September
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 spring until
+19 	 18 	 N/N 	 1 	 spring next
+<\s>
+<s id="wsj_0373.12"> 22
+1 	 0 	 N/N 	 1 	 uncertainty Continued
+1 	 2 	 (NP\NP)/NP 	 1 	 uncertainty about
+1 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 uncertainty could
+1 	 11 	 (((S[b]\NP)/(S[to]\NP))/(S[adj]\NP))/NP[expl] 	 1 	 uncertainty make <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 timing about
+4 	 3 	 NP[nb]/N 	 1 	 timing the
+4 	 5 	 (NP\NP)/NP 	 1 	 timing of
+7 	 6 	 NP[nb]/N 	 1 	 consortium the
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 consortium 's
+9 	 5 	 (NP\NP)/NP 	 2 	 debut of
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 debut 's
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make could
+12 	 11 	 (((S[b]\NP)/(S[to]\NP))/(S[adj]\NP))/NP[expl] 	 4 	 it make
+13 	 11 	 (((S[b]\NP)/(S[to]\NP))/(S[adj]\NP))/NP[expl] 	 3 	 hard make
+14 	 11 	 (((S[b]\NP)/(S[to]\NP))/(S[adj]\NP))/NP[expl] 	 2 	 to make
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 find to
+19 	 17 	 (N/N)/N[num] 	 2 	 million #
+19 	 18 	 N/N 	 1 	 million 450
+21 	 15 	 (S[b]\NP)/NP 	 2 	 injection find
+21 	 16 	 NP[nb]/N 	 1 	 injection a
+21 	 17 	 (N/N)/N[num] 	 1 	 injection #
+21 	 20 	 N/N 	 1 	 injection cash
+<\s>
+<s id="wsj_0373.13"> 28
+1 	 0 	 N/N 	 1 	 Simonds-Gooding Mr.
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Simonds-Gooding conceded
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that conceded
+5 	 4 	 N/N 	 1 	 Satellite British
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Satellite 's
+9 	 6 	 (NP[nb]/N)\NP 	 1 	 lenders 's
+9 	 7 	 N/N 	 1 	 lenders potential
+9 	 8 	 N/N 	 1 	 lenders U.K.
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 lenders are
+9 	 11 	 (S[ng]\NP)/S[dcl] 	 1 	 lenders saying <XB>
+10 	 3 	 S[em]/S[dcl] 	 1 	 are that
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 saying are
+14 	 15 	 (S[dcl]\NP)/PP 	 1 	 you 're
+15 	 13 	 (S/S)/S[dcl] 	 2 	 're When
+16 	 15 	 (S[dcl]\NP)/PP 	 2 	 on 're
+18 	 16 	 PP/NP 	 1 	 air on
+18 	 17 	 NP[nb]/N 	 1 	 air the
+20 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you 'll
+20 	 23 	 S[adj]\NP 	 1 	 you actually <XB>
+20 	 25 	 (S[b]\NP)/NP 	 1 	 you get <XB>
+21 	 11 	 (S[ng]\NP)/S[dcl] 	 2 	 'll saying
+21 	 13 	 (S/S)/S[dcl] 	 1 	 'll When
+21 	 22 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 'll -LCB-
+23 	 22 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 actually -LCB-
+25 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 get 'll
+27 	 25 	 (S[b]\NP)/NP 	 2 	 money get
+27 	 26 	 NP[nb]/N 	 1 	 money the
+<\s>
+<s id="wsj_0373.14"> 19
+1 	 0 	 NP[nb]/N 	 1 	 bankers The
+1 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 bankers insist
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 insist also
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that insist
+6 	 5 	 NP[nb]/N 	 1 	 loans the
+6 	 7 	 (S[dcl]\NP)/PP 	 1 	 loans depend
+7 	 4 	 S[em]/S[dcl] 	 1 	 depend that
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 on depend
+10 	 8 	 (PP/(S[ng]\NP))/NP 	 2 	 consortium on
+10 	 9 	 NP[nb]/N 	 1 	 consortium the
+10 	 11 	 (S[ng]\NP)/NP 	 1 	 consortium raising <XB>
+11 	 8 	 (PP/(S[ng]\NP))/NP 	 1 	 raising on
+11 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 raising from
+13 	 11 	 (S[ng]\NP)/NP 	 2 	 money raising
+13 	 12 	 N/N 	 1 	 money more
+18 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 backers from
+18 	 15 	 N/N 	 1 	 backers new <XU>
+18 	 17 	 N/N 	 1 	 backers existing
+<\s>
+<s id="wsj_0373.15"> 29
+1 	 0 	 N/N 	 1 	 Satellite British
+1 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Satellite is
+1 	 4 	 (S[ng]\NP)/NP 	 1 	 Satellite unveiling <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 is today
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 unveiling is
+8 	 6 	 ((N/N)/(N/N))/N[num] 	 3 	 million #
+8 	 7 	 N/N 	 1 	 million 30
+9 	 6 	 ((N/N)/(N/N))/N[num] 	 2 	 advertising #
+11 	 6 	 ((N/N)/(N/N))/N[num] 	 2 	 promotional #
+12 	 4 	 (S[ng]\NP)/NP 	 2 	 drive unveiling
+12 	 5 	 NP[nb]/N 	 1 	 drive a
+12 	 9 	 N/N 	 1 	 drive advertising <XU>
+12 	 11 	 N/N 	 1 	 drive promotional
+12 	 13 	 (NP\NP)/NP 	 1 	 drive for
+15 	 14 	 NP[nb]/N 	 1 	 consortium the
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 consortium 's
+19 	 13 	 (NP\NP)/NP 	 2 	 channels for
+19 	 16 	 (NP[nb]/N)\NP 	 1 	 channels 's
+19 	 17 	 N/N 	 1 	 channels planned
+19 	 18 	 N/N 	 1 	 channels five
+19 	 20 	 (NP\NP)/NP 	 1 	 channels of
+21 	 20 	 (NP\NP)/NP 	 2 	 movies of
+23 	 20 	 (NP\NP)/NP 	 2 	 sports of
+25 	 20 	 (NP\NP)/NP 	 2 	 entertainment of
+28 	 20 	 (NP\NP)/NP 	 2 	 shows of
+28 	 27 	 N/N 	 1 	 shows news
+<\s>
+<s id="wsj_0373.16"> 41
+1 	 0 	 (S/S)/NP 	 2 	 part As
+1 	 2 	 (NP\NP)/NP 	 1 	 part of
+4 	 2 	 (NP\NP)/NP 	 2 	 drive of
+4 	 3 	 NP[nb]/N 	 1 	 drive the
+9 	 6 	 NP[nb]/N 	 1 	 viewers the
+9 	 7 	 N/N 	 1 	 viewers first
+9 	 8 	 N/N 	 1 	 viewers 50,000
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 viewers who
+9 	 11 	 (S[dcl]\NP)/NP 	 1 	 viewers put <XB>
+9 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 viewers will
+9 	 17 	 (S[b]\NP)/NP 	 1 	 viewers get <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 put who
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 put up
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 # put
+13 	 15 	 NP\NP 	 1 	 # each
+14 	 13 	 N/N[num] 	 1 	 10 #
+16 	 0 	 (S/S)/NP 	 1 	 will As
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 get will
+19 	 17 	 (S[b]\NP)/NP 	 2 	 package get
+19 	 18 	 NP[nb]/N 	 1 	 package a
+19 	 20 	 (S[pss]\NP)/PP 	 1 	 package valued <XB>
+19 	 25 	 (NP\NP)/NP 	 1 	 package including
+21 	 20 	 (S[pss]\NP)/PP 	 2 	 at valued
+22 	 21 	 PP/NP 	 1 	 # at
+23 	 22 	 N/N[num] 	 1 	 170 #
+29 	 25 	 (NP\NP)/NP 	 2 	 dish including
+29 	 26 	 NP[nb]/N 	 1 	 dish a
+29 	 27 	 N/N 	 1 	 dish satellite
+29 	 28 	 N/N 	 1 	 dish receiving
+32 	 25 	 (NP\NP)/NP 	 2 	 installation including
+32 	 31 	 N/N 	 1 	 installation equipment
+36 	 25 	 (NP\NP)/NP 	 2 	 subscription including
+36 	 34 	 NP[nb]/N 	 1 	 subscription a
+36 	 35 	 N/N 	 1 	 subscription three-month
+36 	 37 	 (NP\NP)/NP 	 1 	 subscription to
+40 	 37 	 (NP\NP)/NP 	 2 	 service to
+40 	 38 	 NP[nb]/N 	 1 	 service its
+40 	 39 	 N/N 	 1 	 service pay-movie
+<\s>
+<s id="wsj_0373.17"> 22
+1 	 0 	 N/N 	 1 	 Satellite British
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Satellite faces
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 competition faces
+3 	 4 	 (NP\NP)/NP 	 1 	 competition from
+6 	 4 	 (NP\NP)/NP 	 2 	 Television from
+6 	 5 	 N/N 	 1 	 Television Sky
+10 	 4 	 (NP\NP)/NP 	 2 	 venture from
+10 	 8 	 NP[nb]/N 	 1 	 venture a
+10 	 9 	 N/N 	 1 	 venture satellite-TV
+10 	 11 	 S[pss]\NP 	 1 	 venture begun <XB>
+10 	 15 	 S[pss]\NP 	 1 	 venture owned <XU>
+11 	 13 	 (S\NP)\(S\NP) 	 2 	 begun February
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 February last
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 owned by
+18 	 17 	 N/N 	 1 	 Murdoch Rupert
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 Murdoch 's
+21 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp by
+21 	 19 	 (NP[nb]/N)\NP 	 1 	 Corp 's
+21 	 20 	 N/N 	 1 	 Corp News
+<\s>
+<s id="wsj_0373.18"> 14
+1 	 0 	 NP[nb]/N 	 1 	 rivals The
+1 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 rivals are
+1 	 4 	 S[pss]\NP 	 1 	 rivals locked <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 are currently
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 locked are
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 locked in
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 contest in
+9 	 6 	 NP[nb]/N 	 1 	 contest a
+9 	 7 	 N/N 	 1 	 contest costly
+9 	 8 	 N/N 	 1 	 contest bidding
+9 	 10 	 (NP\NP)/NP 	 1 	 contest for
+13 	 10 	 (NP\NP)/NP 	 2 	 rights for
+13 	 11 	 N/N 	 1 	 rights Hollywood
+13 	 12 	 N/N 	 1 	 rights film
+<\s>

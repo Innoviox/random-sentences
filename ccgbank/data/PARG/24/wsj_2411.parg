@@ -1,0 +1,114 @@
+<s id="wsj_2411.1"> 22
+2 	 0 	 NP[nb]/N 	 1 	 government The
+2 	 1 	 N/N 	 1 	 government Canadian
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 government announced
+11 	 3 	 (S[dcl]\NP)/NP 	 2 	 issue announced
+11 	 4 	 NP[nb]/N 	 1 	 issue a
+11 	 5 	 N/N 	 1 	 issue new
+11 	 7 	 N/N 	 1 	 issue 12-year
+11 	 8 	 N/N 	 1 	 issue Canada
+11 	 9 	 N/N 	 1 	 issue Savings
+11 	 10 	 N/N 	 1 	 issue Bond
+11 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 issue that
+11 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 issue will <XB>
+11 	 14 	 (S[b]\NP)/NP 	 1 	 issue yield <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 yield will
+14 	 17 	 (S\NP)\(S\NP) 	 2 	 yield %
+14 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 yield in
+15 	 14 	 (S[b]\NP)/NP 	 2 	 investors yield
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 10.5
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 year in
+21 	 19 	 NP[nb]/N 	 1 	 year the
+21 	 20 	 N/N 	 1 	 year first
+<\s>
+<s id="wsj_2411.2"> 25
+3 	 0 	 NP[nb]/N 	 1 	 rate The
+3 	 1 	 N/N 	 1 	 rate annual
+3 	 2 	 N/N 	 1 	 rate interest
+3 	 4 	 (NP\NP)/NP 	 1 	 rate for
+3 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rate will
+3 	 13 	 S[pss]\NP 	 1 	 rate set <XB>
+5 	 4 	 (NP\NP)/NP 	 2 	 each for
+5 	 6 	 (NP\NP)/NP 	 1 	 each of
+10 	 6 	 (NP\NP)/NP 	 2 	 years of
+10 	 7 	 NP[nb]/N 	 1 	 years the
+10 	 8 	 N/N 	 1 	 years next
+10 	 9 	 N/N 	 1 	 years 11
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+13 	 12 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 set be
+13 	 14 	 ((S\NP)\(S\NP))/N 	 2 	 set each
+14 	 17 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 3 	 each when
+15 	 14 	 ((S\NP)\(S\NP))/N 	 3 	 fall each
+18 	 19 	 (NP\NP)/NP 	 1 	 details of
+18 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 details are
+18 	 24 	 S[pss]\NP 	 1 	 details released <XB>
+22 	 19 	 (NP\NP)/NP 	 2 	 series of
+22 	 20 	 NP[nb]/N 	 1 	 series a
+22 	 21 	 N/N 	 1 	 series new
+23 	 17 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 4 	 are when
+24 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 released are
+<\s>
+<s id="wsj_2411.3"> 12
+2 	 0 	 N/N 	 1 	 Bonds Canada
+2 	 1 	 N/N 	 1 	 Bonds Savings
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Bonds are
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 instruments are
+6 	 4 	 N/N 	 1 	 instruments major
+6 	 5 	 N/N 	 1 	 instruments government
+6 	 7 	 (NP\NP)/(S[ng]\NP) 	 1 	 instruments for
+8 	 7 	 (NP\NP)/(S[ng]\NP) 	 2 	 meeting for
+11 	 8 	 (S[ng]\NP)/NP 	 2 	 requirements meeting
+11 	 9 	 NP[nb]/N 	 1 	 requirements its
+11 	 10 	 N/N 	 1 	 requirements financial
+<\s>
+<s id="wsj_2411.4"> 18
+1 	 0 	 NP[nb]/N 	 1 	 government The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 government has
+5 	 3 	 (N/N)/(N/N) 	 2 	 billion about
+5 	 4 	 (N/N)/(N/N) 	 2 	 billion 41.4
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 dollars has
+7 	 5 	 N/N 	 1 	 dollars billion
+7 	 6 	 N/N 	 1 	 dollars Canadian
+7 	 8 	 (NP\NP)/NP 	 1 	 dollars -LRB-
+7 	 13 	 (NP\NP)/NP 	 1 	 dollars of
+7 	 17 	 S[adj]\NP 	 1 	 dollars outstanding <XB>
+9 	 8 	 (NP\NP)/NP 	 2 	 US$ -LRB-
+11 	 9 	 N/N[num] 	 1 	 billion US$
+11 	 10 	 N/N 	 1 	 billion 35.2
+15 	 13 	 (NP\NP)/NP 	 2 	 bonds of
+15 	 14 	 NP/NP 	 1 	 bonds such
+17 	 16 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 outstanding currently
+<\s>
+<s id="wsj_2411.5"> 20
+2 	 0 	 N/N 	 1 	 residents Only
+2 	 1 	 N/N 	 1 	 residents Canadian
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 residents are
+2 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 residents permitted <XB>
+2 	 6 	 (S[b]\NP)/NP 	 1 	 residents buy <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 permitted are
+5 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to permitted
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+9 	 6 	 (S[b]\NP)/NP 	 2 	 Bonds buy
+9 	 7 	 N/N 	 1 	 Bonds Canada
+9 	 8 	 N/N 	 1 	 Bonds Savings
+9 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Bonds which
+9 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Bonds may <XB>
+9 	 14 	 (S[pss]\NP)/PP 	 1 	 Bonds redeemed <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 may which
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+14 	 13 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 redeemed be
+14 	 15 	 ((S\NP)\(S\NP))/N 	 2 	 redeemed any
+16 	 15 	 ((S\NP)\(S\NP))/N 	 3 	 time any
+17 	 14 	 (S[pss]\NP)/PP 	 2 	 at redeemed
+19 	 17 	 PP/NP 	 1 	 value at
+19 	 18 	 N/N 	 1 	 value face
+<\s>
+<s id="wsj_2411.6"> 7
+1 	 0 	 NP[nb]/N 	 1 	 bonds The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 bonds go
+2 	 5 	 ((S\NP)\(S\NP))/N[num] 	 2 	 go Oct.
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 on go
+4 	 3 	 PP/NP 	 1 	 sale on
+6 	 5 	 ((S\NP)\(S\NP))/N[num] 	 3 	 19 Oct.
+<\s>

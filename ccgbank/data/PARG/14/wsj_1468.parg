@@ -1,0 +1,647 @@
+<s id="wsj_1468.1"> 43
+2 	 0 	 N/N 	 1 	 Inc. Ekco
+2 	 1 	 N/N 	 1 	 Inc. Group
+2 	 4 	 NP\NP 	 1 	 Inc. Nashua
+2 	 6 	 NP\NP 	 1 	 Inc. N.H. <XU>
+2 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Inc. expects
+2 	 10 	 (S[b]\NP)/S[em] 	 1 	 Inc. report <XB>
+9 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+11 	 10 	 (S[b]\NP)/S[em] 	 2 	 that report
+13 	 12 	 N/N 	 1 	 income net
+13 	 14 	 (NP\NP)/NP 	 1 	 income in
+13 	 23 	 S[dcl]\NP 	 1 	 income fell
+17 	 14 	 (NP\NP)/NP 	 2 	 quarter in
+17 	 15 	 NP[nb]/N 	 1 	 quarter the
+17 	 16 	 N/N 	 1 	 quarter third
+17 	 19 	 S[pss]\NP 	 1 	 quarter ended <XB>
+19 	 20 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended Oct.
+21 	 20 	 ((S\NP)\(S\NP))/N[num] 	 3 	 1 Oct.
+23 	 11 	 S[em]/S[dcl] 	 1 	 fell that
+23 	 25 	 (S\NP)\(S\NP) 	 2 	 fell %
+23 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+23 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+25 	 24 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 50
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+28 	 27 	 N/N 	 1 	 % 60
+30 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+30 	 42 	 (NP\NP)\NP 	 1 	 $ earlier
+32 	 30 	 N/N[num] 	 1 	 million $
+32 	 31 	 N/N 	 1 	 million 2.1
+36 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+36 	 35 	 N/N 	 1 	 cents 11
+36 	 37 	 (NP\NP)/N 	 1 	 cents a
+36 	 42 	 (NP\NP)\NP 	 1 	 cents earlier
+38 	 37 	 (NP\NP)/N 	 2 	 share a
+41 	 40 	 NP[nb]/N 	 1 	 year a
+41 	 42 	 (NP\NP)\NP 	 2 	 year earlier
+<\s>
+<s id="wsj_1468.2"> 33
+1 	 0 	 N/N 	 1 	 Stein Robert
+1 	 9 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Stein attributed
+7 	 3 	 N/N 	 1 	 officer president
+7 	 5 	 N/N 	 1 	 officer chief
+7 	 6 	 N/N 	 1 	 officer executive
+7 	 9 	 ((S[dcl]\NP)/PP)/NP 	 1 	 officer attributed
+12 	 9 	 ((S[dcl]\NP)/PP)/NP 	 3 	 decline attributed
+12 	 10 	 NP[nb]/N 	 1 	 decline the
+12 	 11 	 N/N 	 1 	 decline expected
+14 	 9 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to attributed
+14 	 13 	 PP/PP 	 1 	 to partly
+16 	 14 	 PP/NP 	 1 	 effects to
+16 	 15 	 NP[nb]/N 	 1 	 effects the
+16 	 17 	 (NP\NP)/NP 	 1 	 effects of
+20 	 17 	 (NP\NP)/NP 	 2 	 strike of
+20 	 18 	 NP[nb]/N 	 1 	 strike a
+20 	 19 	 N/N 	 1 	 strike two-week
+20 	 22 	 NP\NP 	 1 	 strike month
+20 	 23 	 (NP\NP)/NP 	 1 	 strike at
+22 	 21 	 (NP\NP)/(NP\NP) 	 2 	 month last
+25 	 24 	 NP[nb]/N 	 1 	 company the
+25 	 26 	 (NP[nb]/N)\NP 	 2 	 company 's
+29 	 27 	 (N/N)/(N/N) 	 2 	 Ohio Masillon
+32 	 23 	 (NP\NP)/NP 	 2 	 facility at
+32 	 26 	 (NP[nb]/N)\NP 	 1 	 facility 's
+32 	 29 	 N/N 	 1 	 facility Ohio
+32 	 31 	 N/N 	 1 	 facility bakeware
+<\s>
+<s id="wsj_1468.3"> 15
+1 	 0 	 N/N 	 1 	 orders Softer-than-expected
+1 	 2 	 (NP\NP)/NP 	 1 	 orders in
+1 	 6 	 (S[dcl]\NP)/NP 	 1 	 orders played
+4 	 2 	 (NP\NP)/NP 	 2 	 September in
+4 	 3 	 N/N 	 1 	 September early
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 played also
+6 	 11 	 (S[dcl]\S[dcl])\NP 	 1 	 played said
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 role played
+8 	 7 	 NP[nb]/N 	 1 	 role a
+10 	 11 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+11 	 12 	 (S\S)/NP 	 1 	 said in
+14 	 12 	 (S\S)/NP 	 2 	 interview in
+14 	 13 	 NP[nb]/N 	 1 	 interview an
+<\s>
+<s id="wsj_1468.4"> 29
+2 	 1 	 N/N 	 1 	 Stein Mr.
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Stein said
+3 	 0 	 S/S 	 1 	 said But
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 he is
+4 	 7 	 (S[adj]\NP)/S[em] 	 1 	 he confident <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+7 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 confident is
+7 	 6 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 confident reasonably
+8 	 7 	 (S[adj]\NP)/S[em] 	 2 	 that confident
+9 	 10 	 (NP\NP)/NP 	 1 	 earnings for
+9 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 earnings will
+9 	 15 	 (S[b]\NP)/NP 	 1 	 earnings exceed <XB>
+13 	 10 	 (NP\NP)/NP 	 2 	 year for
+13 	 11 	 NP[nb]/N 	 1 	 year the
+13 	 12 	 N/N 	 1 	 year full
+14 	 8 	 S[em]/S[dcl] 	 1 	 will that
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 exceed will
+15 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 exceed in
+17 	 15 	 (S[b]\NP)/NP 	 2 	 $ exceed
+17 	 16 	 NP[nb]/N 	 1 	 $ the
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 3.1
+23 	 15 	 (S[b]\NP)/NP 	 2 	 cents exceed
+23 	 22 	 N/N 	 1 	 cents 17
+23 	 24 	 (NP\NP)/N 	 1 	 cents a
+25 	 24 	 (NP\NP)/N 	 2 	 share a
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 1988 in
+<\s>
+<s id="wsj_1468.5"> 26
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 That would
+0 	 2 	 (S[b]\NP)/NP 	 1 	 That require <XB>
+0 	 17 	 (S[ng]\NP)/S[em] 	 1 	 That assuming <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 require would
+4 	 2 	 (S[b]\NP)/NP 	 2 	 net require
+4 	 3 	 N/N 	 1 	 net fourth-quarter
+4 	 5 	 (NP\NP)/NP 	 1 	 net of
+6 	 7 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+9 	 7 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 22 than
+9 	 8 	 (N/N)/(N/N) 	 2 	 22 about
+10 	 5 	 (NP\NP)/NP 	 2 	 cents of
+10 	 9 	 N/N 	 1 	 cents 22
+10 	 11 	 (NP\NP)/NP 	 1 	 cents to
+10 	 14 	 (NP\NP)/N 	 1 	 cents a
+13 	 11 	 (NP\NP)/NP 	 2 	 cents to
+13 	 12 	 N/N 	 1 	 cents 24
+15 	 14 	 (NP\NP)/N 	 2 	 share a
+18 	 17 	 (S[ng]\NP)/S[em] 	 2 	 that assuming
+20 	 19 	 N/N 	 1 	 Stein Mr.
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 Stein 's
+23 	 21 	 (NP[nb]/N)\NP 	 1 	 estimate 's
+23 	 22 	 N/N 	 1 	 estimate third-quarter
+23 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 estimate proves
+23 	 25 	 S[adj]\NP 	 1 	 estimate accurate <XB>
+24 	 18 	 S[em]/S[dcl] 	 1 	 proves that
+25 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 accurate proves
+<\s>
+<s id="wsj_1468.6"> 20
+4 	 0 	 (S/S)/NP 	 2 	 quarter In
+4 	 1 	 NP[nb]/N 	 1 	 quarter the
+4 	 2 	 N/N 	 1 	 quarter year-earlier
+4 	 3 	 N/N 	 1 	 quarter fourth
+7 	 6 	 NP[nb]/N 	 1 	 company the
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 company had
+8 	 0 	 (S/S)/NP 	 1 	 had In
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 profit had
+9 	 10 	 (NP\NP)/NP 	 1 	 profit of
+11 	 10 	 (NP\NP)/NP 	 2 	 $ of
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 2.7
+17 	 10 	 (NP\NP)/NP 	 2 	 cents of
+17 	 16 	 N/N 	 1 	 cents 15
+17 	 18 	 (NP\NP)/N 	 1 	 cents a
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_1468.7"> 29
+1 	 0 	 N/N 	 1 	 revenue Third-quarter
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 revenue is
+1 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 revenue expected <XB>
+1 	 5 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 revenue be <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+3 	 23 	 ((S\NP)\(S\NP))/PP 	 2 	 expected according
+4 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+6 	 5 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 $ be
+6 	 9 	 (N\N)/N 	 1 	 $ to
+6 	 14 	 (S[adj]\NP)/PP 	 1 	 $ up <XB>
+8 	 6 	 N/N[num] 	 1 	 million $
+8 	 7 	 N/N 	 1 	 million 40
+10 	 9 	 (N\N)/N 	 2 	 $ to
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 45
+14 	 5 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 up be
+15 	 14 	 (S[adj]\NP)/PP 	 2 	 from up
+15 	 21 	 (PP\PP)\NP 	 1 	 from earlier
+16 	 15 	 PP/NP 	 1 	 $ from
+18 	 16 	 N/N[num] 	 1 	 million $
+18 	 17 	 N/N 	 1 	 million 38.2
+20 	 19 	 NP[nb]/N 	 1 	 year a
+20 	 21 	 (PP\PP)\NP 	 2 	 year earlier
+24 	 23 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+26 	 24 	 PP/NP 	 1 	 Gordon to
+26 	 25 	 N/N 	 1 	 Gordon Neil
+28 	 24 	 PP/NP 	 1 	 treasurer to
+<\s>
+<s id="wsj_1468.8"> 32
+2 	 0 	 NP[nb]/N 	 1 	 periods The
+2 	 1 	 N/N 	 1 	 periods year-earlier
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 periods do
+2 	 5 	 (S[b]\NP)/NP 	 1 	 periods reflect <XB>
+2 	 20 	 (S[dcl]\NP)/NP 	 1 	 periods include <XU>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 do n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reflect do
+6 	 5 	 (S[b]\NP)/NP 	 2 	 results reflect
+6 	 7 	 (NP\NP)/NP 	 1 	 results of
+9 	 8 	 NP[nb]/N 	 1 	 company the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 company 's
+13 	 7 	 (NP\NP)/NP 	 2 	 unit of
+13 	 10 	 (NP[nb]/N)\NP 	 1 	 unit 's
+13 	 11 	 N/N 	 1 	 unit Woodstream
+13 	 12 	 N/N 	 1 	 unit Corp.
+13 	 15 	 S[pss]\NP 	 1 	 unit acquired <XB>
+15 	 17 	 (S\NP)\(S\NP) 	 2 	 acquired January
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 January last
+23 	 20 	 (S[dcl]\NP)/NP 	 2 	 operations include
+23 	 21 	 NP[nb]/N 	 1 	 operations some
+23 	 22 	 N/N 	 1 	 operations Canadian
+23 	 24 	 (NP\NP)/(S[dcl]\NP) 	 1 	 operations that
+23 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 operations were <XB>
+23 	 26 	 S[pss]\NP 	 1 	 operations sold <XB>
+25 	 24 	 (NP\NP)/(S[dcl]\NP) 	 2 	 were that
+26 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sold were
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 sold at
+29 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 end at
+29 	 28 	 NP[nb]/N 	 1 	 end the
+29 	 30 	 (NP\NP)/NP 	 1 	 end of
+31 	 30 	 (NP\NP)/NP 	 2 	 1988 of
+<\s>
+<s id="wsj_1468.9"> 23
+0 	 1 	 (NP\NP)/NP 	 1 	 August through
+0 	 4 	 (S[dcl]\NP)/NP 	 1 	 August is
+2 	 1 	 (NP\NP)/NP 	 2 	 October through
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 is traditionally
+4 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 is as
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 season is
+7 	 5 	 NP[nb]/N 	 1 	 season the
+7 	 6 	 N/N 	 1 	 season busiest
+7 	 8 	 (NP\NP)/NP 	 1 	 season for
+11 	 8 	 (NP\NP)/NP 	 2 	 business for
+11 	 9 	 NP[nb]/N 	 1 	 business the
+11 	 10 	 N/N 	 1 	 business bakeware
+15 	 14 	 N/N 	 1 	 retailers many
+15 	 16 	 ((S[dcl]\NP)/PP)/NP 	 1 	 retailers use
+16 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 use as
+18 	 16 	 ((S[dcl]\NP)/PP)/NP 	 3 	 goods use
+18 	 17 	 NP[nb]/N 	 1 	 goods the
+19 	 16 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as use
+22 	 19 	 PP/NP 	 1 	 items as
+22 	 20 	 N/N 	 1 	 items autumn
+22 	 21 	 N/N 	 1 	 items promotional
+<\s>
+<s id="wsj_1468.10"> 29
+1 	 0 	 N/N 	 1 	 Stein Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Stein said
+4 	 3 	 NP[nb]/N 	 1 	 retailers some
+4 	 5 	 (NP\NP)/(S[adj]\NP) 	 1 	 retailers --
+4 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 retailers appear
+4 	 15 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 retailers held <XB>
+4 	 16 	 S[adj]\NP 	 1 	 retailers back <XB>
+4 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 retailers have <XU>
+4 	 24 	 S[ng]\NP 	 1 	 retailers ordering <XU>
+7 	 5 	 (NP\NP)/(S[adj]\NP) 	 2 	 anxious --
+7 	 6 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 anxious perhaps
+8 	 7 	 (S[adj]\NP)/PP 	 2 	 about anxious
+9 	 8 	 PP/(S[ng]\NP) 	 1 	 minimizing about
+10 	 9 	 (S[ng]\NP)/NP 	 2 	 inventories minimizing
+12 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 appear said
+13 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to appear
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+15 	 14 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 held have
+15 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 held on
+15 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 held in
+16 	 15 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 back held
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 orders on
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+22 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 have said
+23 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+24 	 23 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 ordering been
+24 	 26 	 (S\NP)\(S\NP) 	 2 	 ordering heavily
+24 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 ordering in
+26 	 25 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 heavily more
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 October in
+<\s>
+<s id="wsj_1468.11"> 15
+1 	 0 	 N/N 	 1 	 Stein Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Stein said
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Woodstream is
+3 	 6 	 S[adj]\NP 	 1 	 Woodstream profitable <XB>
+3 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Woodstream has <XU>
+3 	 10 	 S[pt]\NP 	 1 	 Woodstream performed <XU>
+3 	 14 	 S[pss]\NP 	 1 	 Woodstream expected <XU>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+6 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 profitable is
+6 	 5 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 profitable marginally
+8 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 has n't
+10 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 performed has
+10 	 12 	 (S\NP)\(S\NP) 	 2 	 performed well
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 well as
+12 	 13 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/(S[pss]\NP) 	 3 	 well as
+14 	 13 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/(S[pss]\NP) 	 4 	 expected as
+<\s>
+<s id="wsj_1468.12"> 25
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Woodstream 's
+3 	 1 	 (NP[nb]/N)\NP 	 1 	 mousetraps 's
+3 	 2 	 N/N 	 1 	 mousetraps Victor-brand
+3 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 mousetraps are
+3 	 9 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 mousetraps doing <XB>
+3 	 11 	 S[adj]\NP 	 1 	 mousetraps well <XB>
+7 	 1 	 (NP[nb]/N)\NP 	 1 	 products 's
+7 	 5 	 N/N 	 1 	 products other
+7 	 6 	 N/N 	 1 	 products pest-control
+7 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 products are
+7 	 9 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 products doing <XB>
+7 	 11 	 S[adj]\NP 	 1 	 products well <XB>
+8 	 24 	 (S[dcl]\S[dcl])\NP 	 1 	 are said
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 doing are
+11 	 9 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 well doing
+11 	 10 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 well very
+17 	 14 	 NP[nb]/N 	 1 	 products its
+17 	 15 	 N/N 	 1 	 products plastic
+17 	 16 	 N/N 	 1 	 products storage-case
+17 	 18 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 products are
+17 	 19 	 (S[pss]\NP)/PP 	 1 	 products poised <XB>
+18 	 24 	 (S[dcl]\S[dcl])\NP 	 1 	 are said
+19 	 18 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 poised are
+20 	 19 	 (S[pss]\NP)/PP 	 2 	 for poised
+21 	 20 	 PP/NP 	 1 	 growth for
+23 	 24 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_1468.13"> 28
+2 	 1 	 NP[nb]/N 	 1 	 unit the
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 unit 's
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 segment 's
+5 	 4 	 N/N 	 1 	 segment third
+5 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 segment is
+5 	 11 	 S[ng]\NP 	 1 	 segment suffering <XB>
+8 	 7 	 N/N 	 1 	 traps wildlife
+8 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 traps is
+8 	 11 	 S[ng]\NP 	 1 	 traps suffering <XB>
+10 	 0 	 S/S 	 1 	 is But
+10 	 27 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 suffering is
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 suffering from
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 market from
+15 	 13 	 NP[nb]/N 	 1 	 market a
+15 	 14 	 N/N 	 1 	 market depressed
+18 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Ekco is
+18 	 20 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Ekco seeking <XB>
+18 	 22 	 (S[b]\NP)/NP 	 1 	 Ekco sell <XB>
+19 	 27 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+20 	 19 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 seeking is
+21 	 20 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to seeking
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+24 	 22 	 (S[b]\NP)/NP 	 2 	 segment sell
+24 	 23 	 NP[nb]/N 	 1 	 segment that
+26 	 27 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_1468.14"> 30
+1 	 0 	 N/N 	 1 	 Stein Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Stein said
+3 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 he expects
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+5 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 profit expects
+5 	 8 	 S[adj]\NP 	 1 	 profit higher <XB>
+5 	 15 	 (S[ng]\NP)/NP 	 1 	 profit reflecting <XB>
+6 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 7 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 higher be
+8 	 9 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 higher in
+8 	 11 	 ((S[adj]\NP)\(S[adj]\NP))/PP 	 2 	 higher than
+10 	 9 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 1990 in
+12 	 11 	 ((S[adj]\NP)\(S[adj]\NP))/PP 	 3 	 in than
+13 	 12 	 PP/NP 	 1 	 1989 in
+17 	 15 	 (S[ng]\NP)/NP 	 2 	 number reflecting
+17 	 16 	 NP[nb]/N 	 1 	 number a
+17 	 18 	 (NP\NP)/NP 	 1 	 number of
+19 	 18 	 (NP\NP)/NP 	 2 	 measures of
+19 	 20 	 S[pss]\NP 	 1 	 measures taken <XB>
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 taken since
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 acquisition since
+23 	 22 	 NP[nb]/N 	 1 	 acquisition the
+23 	 24 	 (NP\NP)/NP 	 1 	 acquisition of
+23 	 27 	 (NP\NP)/NP 	 1 	 acquisition in
+26 	 24 	 (NP\NP)/NP 	 2 	 Housewares of
+26 	 25 	 N/N 	 1 	 Housewares Ekco
+29 	 27 	 (NP\NP)/NP 	 2 	 1987 in
+29 	 28 	 N/N 	 1 	 1987 late
+<\s>
+<s id="wsj_1468.15"> 47
+2 	 1 	 (S/S)/(S/S) 	 2 	 to Prior
+3 	 2 	 (S/S)/(S[ng]\NP) 	 2 	 acquiring to
+6 	 3 	 (S[ng]\NP)/NP 	 2 	 business acquiring
+6 	 4 	 NP[nb]/N 	 1 	 business the
+6 	 5 	 N/N 	 1 	 business housewares
+9 	 8 	 NP[nb]/N 	 1 	 company the
+9 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 company was
+9 	 11 	 (S[pss]\NP)/PP 	 1 	 company known <XB>
+10 	 2 	 (S/S)/(S[ng]\NP) 	 1 	 was to
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 known was
+12 	 11 	 (S[pss]\NP)/PP 	 2 	 as known
+14 	 12 	 PP/NP 	 1 	 Corp. as
+14 	 13 	 N/N 	 1 	 Corp. Centronics
+16 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Centronics had
+16 	 18 	 (S[pt]\NP)/NP 	 1 	 Centronics been <XB>
+18 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+20 	 18 	 (S[pt]\NP)/NP 	 2 	 maker been
+20 	 19 	 NP[nb]/N 	 1 	 maker a
+20 	 21 	 (NP\NP)/NP 	 1 	 maker of
+23 	 21 	 (NP\NP)/NP 	 2 	 printers of
+23 	 22 	 N/N 	 1 	 printers computer
+27 	 26 	 N/N 	 1 	 Stein Mr.
+27 	 31 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Stein decided
+27 	 33 	 (S[b]\NP)/NP 	 1 	 Stein sell <XB>
+30 	 29 	 N/N 	 1 	 officers other
+30 	 31 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 officers decided
+30 	 33 	 (S[b]\NP)/NP 	 1 	 officers sell <XB>
+32 	 31 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to decided
+33 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+33 	 36 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 sell after
+35 	 33 	 (S[b]\NP)/NP 	 2 	 business sell
+35 	 34 	 NP[nb]/N 	 1 	 business that
+38 	 37 	 N/N 	 1 	 competitors Japanese
+38 	 39 	 (S[dcl]\NP)/NP 	 1 	 competitors grabbed
+39 	 36 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 grabbed after
+42 	 39 	 (S[dcl]\NP)/NP 	 2 	 share grabbed
+42 	 40 	 NP[nb]/N 	 1 	 share a
+42 	 41 	 N/N 	 1 	 share dominant
+42 	 43 	 (NP\NP)/NP 	 1 	 share of
+45 	 43 	 (NP\NP)/NP 	 2 	 market of
+45 	 44 	 NP[nb]/N 	 1 	 market the
+<\s>
+<s id="wsj_1468.16"> 46
+1 	 0 	 N/N 	 1 	 Stein Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Stein said
+5 	 3 	 N/N 	 1 	 controls tighter
+5 	 4 	 N/N 	 1 	 controls operating
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 controls have
+5 	 7 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 1 	 controls enabled <XB>
+6 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 have said
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 enabled have
+8 	 7 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 3 	 Ekco enabled
+8 	 10 	 (S[b]\NP)/NP 	 1 	 Ekco reduce <XB>
+8 	 19 	 (((S[b]\NP)/PP)/PP)/NP 	 1 	 Ekco improve <XU>
+8 	 35 	 (S[b]\NP)/NP 	 1 	 Ekco lower <XU>
+9 	 7 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 2 	 to enabled
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reduce to
+10 	 14 	 (S\NP)\(S\NP) 	 2 	 reduce %
+12 	 10 	 (S[b]\NP)/NP 	 2 	 levels reduce
+12 	 11 	 N/N 	 1 	 levels inventory
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 25
+14 	 15 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/((S\NP)\(S\NP)) 	 3 	 % to
+17 	 15 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/((S\NP)\(S\NP)) 	 4 	 % to
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 30
+19 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 improve to
+21 	 19 	 (((S[b]\NP)/PP)/PP)/NP 	 4 	 delivery improve
+21 	 20 	 N/N 	 1 	 delivery on-time
+21 	 22 	 (NP\NP)/NP 	 1 	 delivery of
+23 	 22 	 (NP\NP)/NP 	 2 	 orders of
+24 	 19 	 (((S[b]\NP)/PP)/PP)/NP 	 3 	 to improve
+26 	 25 	 (N/N)/(N/N) 	 2 	 95 about
+27 	 24 	 PP/NP 	 1 	 % to
+27 	 26 	 N/N 	 1 	 % 95
+28 	 19 	 (((S[b]\NP)/PP)/PP)/NP 	 2 	 from improve
+30 	 29 	 (N/N)/(N/N) 	 2 	 70 around
+31 	 28 	 PP/NP 	 1 	 % from
+31 	 30 	 N/N 	 1 	 % 70
+34 	 7 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 2 	 to enabled
+35 	 34 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lower to
+37 	 35 	 (S[b]\NP)/NP 	 2 	 number lower
+37 	 36 	 NP[nb]/N 	 1 	 number the
+37 	 38 	 (NP\NP)/NP 	 1 	 number of
+40 	 38 	 (NP\NP)/NP 	 2 	 hours of
+40 	 39 	 N/N 	 1 	 hours labor
+40 	 41 	 S[pss]\NP 	 1 	 hours required <XB>
+40 	 43 	 (S[b]\NP)/NP 	 1 	 hours produce <XB>
+43 	 42 	 (S[to]\NP)/(S[b]\NP) 	 2 	 produce to
+45 	 43 	 (S[b]\NP)/NP 	 2 	 unit produce
+45 	 44 	 NP[nb]/N 	 1 	 unit a
+<\s>
+<s id="wsj_1468.17"> 36
+0 	 9 	 ((S/S)\(S/S))/PP 	 2 	 By instead
+1 	 0 	 (S/S)/(S[ng]\NP) 	 2 	 moving By
+1 	 7 	 (S\NP)\(S\NP) 	 2 	 moving in-house
+3 	 1 	 (S[ng]\NP)/NP 	 2 	 design moving
+3 	 2 	 NP[nb]/N 	 1 	 design the
+3 	 4 	 (NP\NP)/NP 	 1 	 design of
+6 	 4 	 (NP\NP)/NP 	 2 	 products of
+6 	 5 	 N/N 	 1 	 products new
+10 	 9 	 ((S/S)\(S/S))/PP 	 3 	 of instead
+11 	 10 	 PP/(S[ng]\NP) 	 1 	 contracting of
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 contracting out
+14 	 11 	 (S[ng]\NP)/NP 	 2 	 work contracting
+14 	 13 	 NP[nb]/N 	 1 	 work the
+17 	 16 	 NP[nb]/N 	 1 	 company the
+17 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company has
+17 	 21 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 company able <XB>
+19 	 0 	 (S/S)/(S[ng]\NP) 	 1 	 has By
+19 	 18 	 (S\NP)/(S\NP) 	 2 	 has also
+19 	 35 	 (S[dcl]\S[dcl])\NP 	 1 	 has said
+20 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+21 	 20 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 able been
+22 	 21 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 come to
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 come up
+25 	 23 	 (S[b]\NP)/PP 	 2 	 with come
+26 	 25 	 PP/NP 	 1 	 designs with
+26 	 27 	 (NP\NP)/(S[dcl]\NP) 	 1 	 designs that
+26 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 designs can <XB>
+26 	 30 	 S[pss]\NP 	 1 	 designs manufactured <XB>
+28 	 27 	 (NP\NP)/(S[dcl]\NP) 	 2 	 can that
+29 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+30 	 29 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 manufactured be
+30 	 32 	 (S\NP)\(S\NP) 	 2 	 manufactured efficiently
+32 	 31 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 efficiently more
+34 	 35 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_1468.18"> 38
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+1 	 2 	 (NP\NP)/NP 	 1 	 addition to
+4 	 2 	 (NP\NP)/NP 	 2 	 measures to
+4 	 3 	 NP[nb]/N 	 1 	 measures those
+7 	 6 	 NP[nb]/N 	 1 	 company the
+7 	 8 	 S[dcl]\NP 	 1 	 company spent
+7 	 14 	 (S[b]\NP)/NP 	 1 	 company install <XB>
+8 	 0 	 (S/S)/NP 	 1 	 spent In
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 spent heavily
+8 	 11 	 ((S\NP)\(S\NP))/N 	 2 	 spent this
+8 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 spent --
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 this earlier
+12 	 11 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 install to
+14 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 install at
+15 	 14 	 (S[b]\NP)/NP 	 2 	 displays install
+18 	 17 	 NP[nb]/N 	 1 	 customers its
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 customers '
+21 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 outlets at
+21 	 19 	 (NP[nb]/N)\NP 	 1 	 outlets '
+21 	 20 	 N/N 	 1 	 outlets retail
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 strategy --
+24 	 23 	 NP[nb]/N 	 1 	 strategy a
+24 	 25 	 (NP\NP)/(S[dcl]/NP) 	 1 	 strategy that
+24 	 28 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 2 	 strategy said <XU>
+24 	 29 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 strategy has <XU>
+24 	 30 	 (S[pt]\NP)/(S[b]\NP) 	 1 	 strategy helped <XU>
+24 	 31 	 (S[b]\NP)/NP 	 1 	 strategy bolster <XU>
+27 	 26 	 N/N 	 1 	 Stein Mr.
+27 	 28 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 1 	 Stein said
+28 	 25 	 (NP\NP)/(S[dcl]/NP) 	 2 	 said that
+29 	 28 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 3 	 has said
+30 	 29 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 helped has
+31 	 30 	 (S[pt]\NP)/(S[b]\NP) 	 2 	 bolster helped
+32 	 31 	 (S[b]\NP)/NP 	 2 	 awareness bolster
+32 	 33 	 (NP\NP)/NP 	 1 	 awareness of
+35 	 34 	 NP[nb]/N 	 1 	 company the
+35 	 36 	 (NP[nb]/N)\NP 	 2 	 company 's
+37 	 33 	 (NP\NP)/NP 	 2 	 brands of
+37 	 36 	 (NP[nb]/N)\NP 	 1 	 brands 's
+<\s>
+<s id="wsj_1468.19"> 22
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Ekco 's
+3 	 1 	 (NP[nb]/N)\NP 	 1 	 operation 's
+3 	 2 	 N/N 	 1 	 operation housewares
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 operation makes
+4 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 makes at
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 tools makes
+6 	 5 	 N/N 	 1 	 tools kitchen
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 gadgets makes
+8 	 5 	 N/N 	 1 	 gadgets kitchen
+12 	 10 	 conj/conj 	 1 	 as as
+12 	 11 	 conj/conj 	 1 	 as well
+13 	 4 	 (S[dcl]\NP)/NP 	 2 	 bakeware makes
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 factories at
+16 	 17 	 (NP\NP)/NP 	 1 	 factories in
+19 	 17 	 (NP\NP)/NP 	 2 	 U.S. in
+19 	 18 	 NP[nb]/N 	 1 	 U.S. the
+21 	 17 	 (NP\NP)/NP 	 2 	 Canada in
+21 	 18 	 NP[nb]/N 	 1 	 Canada the
+<\s>
+<s id="wsj_1468.20"> 17
+2 	 0 	 NP[nb]/N 	 1 	 issue The
+2 	 1 	 N/N 	 1 	 issue main
+2 	 3 	 (NP\NP)/NP 	 1 	 issue in
+2 	 10 	 (S[dcl]\NP)/NP 	 1 	 issue was
+5 	 3 	 (NP\NP)/NP 	 2 	 strike in
+5 	 4 	 NP[nb]/N 	 1 	 strike the
+5 	 6 	 (NP\NP)/NP 	 1 	 strike at
+9 	 6 	 (NP\NP)/NP 	 2 	 facility at
+9 	 7 	 NP[nb]/N 	 1 	 facility the
+9 	 8 	 N/N 	 1 	 facility Ohio
+10 	 16 	 (S[dcl]\S[dcl])\NP 	 1 	 was said
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 benefits was
+12 	 11 	 N/N 	 1 	 benefits health-care
+15 	 14 	 N/N 	 1 	 Stein Mr.
+15 	 16 	 (S[dcl]\S[dcl])\NP 	 2 	 Stein said
+<\s>
+<s id="wsj_1468.21"> 4
+1 	 0 	 NP[nb]/N 	 1 	 strike The
+1 	 2 	 S[dcl]\NP 	 1 	 strike ended
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 ended Oct
+<\s>
+<s id="wsj_1468.22"> 14
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Ekco continues
+0 	 3 	 (S[b]\NP)/NP 	 1 	 Ekco seek <XB>
+1 	 13 	 (S[dcl]\S[dcl])\NP 	 1 	 continues said
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continues
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 seek to
+5 	 3 	 (S[b]\NP)/NP 	 2 	 acquisitions seek
+5 	 4 	 N/N 	 1 	 acquisitions further
+5 	 6 	 (NP\NP)/NP 	 1 	 acquisitions in
+9 	 6 	 (NP\NP)/NP 	 2 	 industry in
+9 	 7 	 NP[nb]/N 	 1 	 industry the
+9 	 8 	 N/N 	 1 	 industry consumer-products
+12 	 11 	 N/N 	 1 	 Stein Mr.
+12 	 13 	 (S[dcl]\S[dcl])\NP 	 2 	 Stein said
+<\s>
+<s id="wsj_1468.23"> 40
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 He indicated
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that indicated
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Ekco may
+3 	 6 	 (S[adj]\NP)/PP 	 1 	 Ekco interested <XB>
+4 	 2 	 S[em]/S[dcl] 	 1 	 may that
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+5 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 be because
+6 	 5 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 interested be
+7 	 6 	 (S[adj]\NP)/PP 	 2 	 in interested
+8 	 7 	 PP/(S[ng]\NP) 	 1 	 acquiring in
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 company acquiring
+10 	 9 	 NP[nb]/N 	 1 	 company another
+10 	 11 	 (NP\NP)/NP 	 1 	 company with
+12 	 11 	 (NP\NP)/NP 	 2 	 revenue with
+12 	 13 	 (NP\NP)/NP 	 1 	 revenue in
+15 	 13 	 (NP\NP)/NP 	 2 	 range in
+15 	 14 	 NP[nb]/N 	 1 	 range the
+15 	 16 	 (NP\NP)/NP 	 1 	 range of
+17 	 16 	 (NP\NP)/NP 	 2 	 $ of
+17 	 20 	 (N\N)/N 	 1 	 $ to
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 75
+21 	 20 	 (N\N)/N 	 2 	 $ to
+23 	 21 	 N/N[num] 	 1 	 million $
+23 	 22 	 N/N 	 1 	 million 100
+26 	 25 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 because partly
+28 	 27 	 N/N 	 1 	 merchandisers mass
+28 	 30 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 merchandisers want
+28 	 32 	 (S[b]\NP)/PP 	 1 	 merchandisers rely <XB>
+30 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 want because
+30 	 29 	 (S\NP)/(S\NP) 	 2 	 want increasingly
+31 	 30 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to want
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rely to
+33 	 32 	 (S[b]\NP)/PP 	 2 	 on rely
+39 	 33 	 PP/NP 	 1 	 suppliers on
+39 	 34 	 N/N 	 1 	 suppliers larger <XU>
+39 	 37 	 N/N 	 1 	 suppliers fewer
+<\s>

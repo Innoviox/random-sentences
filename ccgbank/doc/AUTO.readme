@@ -1,0 +1,134 @@
+
+
+	CCGbank -- the machine-readable derivation files (.auto)
+	--------------------------------------------------------
+     		Julia Hockenmaier and Mark Steedman 
+
+The machine-readable derivation files contain the syntactic derivations in a
+format that is designed to be read in automatically. They do not indicate the
+word-word dependencies in the predicate-argument structure.
+Each sentence appears on one line, preceded by one line which identifies the
+sentence: 
+
+
+ID=wsj0001.1 PARSER=GOLD NUMPARSE=1
+(<T S[dcl] 0 2> (<T S[dcl] 1 2> (<T NP 0 2> ...) )) 
+
+The sentence ID  consists of the original Penn Treebank file name, followed by
+the number of the sentence in this file.
+
+Each node is indicated by parentheses ``(`` and ``)'' and a
+description, which follows the left parenthesis.  The node description
+itself is delimited by angled brackets (``<X...>''), where X is L for
+leaf nodes and T for other nodes. 
+
+
+Leaf nodes
+----------
+
+In leaf nodes, the description
+contains six fields:
+
+<L CCGcat mod_POS-tag orig_POS-tag word PredArgCat>
+
+
+The original POS tag is the tag assigned to this word in the Penn
+Treebank. The modified POS tag might differ from this tag if it was
+changed during the translation to CCG. 
+PredArgCat is another representation of the lexical category (CCGcat) which encodes
+the underlying predicate-argument structure (described in more
+detailed below).  
+
+The node description of a leaf node is also enclosed
+in parentheses:
+(<L N NN NN chairman N>)
+
+
+PredArgCat, the last field of the node description of leaf nodes, is
+designed to encode the word-word dependencies in the underlying
+predicate-argument structure. This is a simplified version of the
+predicate-argument structure representation presented in the CCGbank
+manual.  Complex categories are recursive structures that consist of a
+result and an argument category. Each category has a head index, such
+that the identity of the lexical heads of two arguments can be
+indicated by giving them the same head index. This mechanism
+(explained in more detail in the manual) is used to indicate non-local
+dependencies that are mediated through lexical items such as relative
+pronouns or control verbs.
+
+The head of a lexical category is simply the word itself, and in
+complex categories, the head of the result is the same as the head of
+the entire category (with the exception of determiners NP[nb]/N, where
+the lexical head of the NP is the same as the head of the N.  Since we
+only annotate lexical categories with their head indices, the head
+index for the entire category is omitted. Similarly, the head index of
+any part of a complex category is omitted if it is identical to the
+head index of the entire category.
+
+
+  -- For atomic categories (N, etc.), the head index is
+     not indicated, since it is simply the word itself:
+	 
+     <L N NNP NNP Vinken N> 
+
+  -- In ordinary complex categories that do not mediate any non-local
+     dependencies (S[dcl]\NP)/NP etc.), each argument has a
+     distinct head index: 
+  
+     <LL (S[dcl]\NP)/NP VBD VBD took ((S[dcl]\NP_6)/NP_7))>
+
+     If an argument is complex, the head index of each of its parts is
+     given:
+
+     <L  PP/(S[ng]\NP)  IN  IN  as  PP/(S[ng]_183\NP_181)_183>
+
+  -- In adjuncts of the form X|X, the head indices of the result
+     X are identical to that of the argument X (the head index of the
+     entire category, which is different, is omitted):
+
+     <L N/N NNP NNP Pierre N_73/N_73>
+
+     This is also the case if X itself is a complex category, eg.:
+
+     <L (S\NP)\(S\NP) NN NN yesterday (S_9\NP_4)_9\(S_9\NP_4)_9>
+
+
+     Similarly, in adjuncts that take themselves arguments, eg. (NP\NP)/NP
+     or (S\NP)\(S\NP))/NP, the head indices are adjusted accordingly:
+
+     <L (NP\NP)/NP IN IN of (NP_5\NP_5)/NP_6>
+     <L ((S\NP)\(S\NP))/NP IN IN by ((S_6\NP_1)_6\(S_6\NP_1)_6)/NP_7>
+
+  -- The mediation of non-local dependencies is indicated by
+     co-indexation. As explained in the manual,
+     we distinguish between locally mediated (bounded) and long-range
+     (undounded) dependencies. 
+     Locally mediated dependencies are indicated by :B (bounded):  
+  
+     <L (S[dcl]\NP)/(S[pt]\NP) VBZ VBZ has (S[dcl]\NP_3)/(S[pt]_4\NP_3:B)_4> 
+  
+     True long-range depdencies are indicated by :U (unbounded):
+  
+    <L  (NP\NP)/(S[dcl]/NP)  IN  IN  that  (NP_8\NP_8)/(S[dcl]_9/NP_8:U)_9>
+
+
+Non-leaf nodes
+--------------
+
+For non-leaf nodes, the description contains the following three
+fields: the category of the node CCGcat, the index of its head
+daughter head (0 = left or only daughter, 1 = right daughter), and the
+number of its daughters, dtrs: 
+
+<T CCGcat head dtrs>
+
+With the exception of argument clusters, the head corresponds generally
+to the lexical head.  The following example describes a node with
+category S[dcl]\NP and two children (0 and 1), the left
+of which (child 0) is the head:
+
+<T S[dcl]\NP 0 2> 
+
+
+Sentences that are not translated are not indicated in this file format. 
+

@@ -1,0 +1,46 @@
+<s id="wsj_0738.1"> 25
+1 	 0 	 N/N 	 1 	 Inc. Kinder-Care
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Inc. was
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 Inc. dropped <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 dropped was
+3 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 dropped because
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 from dropped
+9 	 4 	 PP/NP 	 1 	 group from
+9 	 5 	 NP[nb]/N 	 1 	 group the
+9 	 6 	 N/N 	 1 	 group consumer
+9 	 7 	 N/N 	 1 	 group services
+9 	 8 	 N/N 	 1 	 group industry
+9 	 10 	 (NP\NP)/NP 	 1 	 group of
+16 	 10 	 (NP\NP)/NP 	 2 	 index of
+16 	 11 	 NP[nb]/N 	 1 	 index the
+16 	 12 	 N/N 	 1 	 index Dow
+16 	 13 	 N/N 	 1 	 index Jones
+16 	 14 	 N/N 	 1 	 index Equity
+16 	 15 	 N/N 	 1 	 index Market
+19 	 18 	 NP[nb]/N 	 1 	 company the
+19 	 20 	 S[dcl]\NP 	 1 	 company split
+20 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 split because
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 split itself
+20 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 split in
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 restructuring in
+24 	 23 	 NP[nb]/N 	 1 	 restructuring a
+<\s>
+<s id="wsj_0738.2"> 10
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 It was
+0 	 2 	 S[pss]\NP 	 1 	 It succeeded <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 succeeded was
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 succeeded in
+2 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 succeeded by
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 group in
+5 	 4 	 NP[nb]/N 	 1 	 group the
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Inc by
+9 	 7 	 N/N 	 1 	 Inc Fuqua
+9 	 8 	 N/N 	 1 	 Inc Industries
+<\s>
+<s id="wsj_0738.3"> 5
+1 	 0 	 NP[nb]/N 	 1 	 moves Both
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 moves are
+1 	 3 	 S[adj]\NP 	 1 	 moves effective <XB>
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 are today
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 effective are
+<\s>

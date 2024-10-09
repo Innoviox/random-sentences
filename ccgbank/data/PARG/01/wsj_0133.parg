@@ -1,0 +1,69 @@
+<s id="wsj_0133.1"> 26
+1 	 0 	 N/N 	 1 	 Inc. Allergan
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 it received
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 received said
+9 	 4 	 (S[dcl]\NP)/NP 	 2 	 approval received
+9 	 5 	 N/N 	 1 	 approval Food
+9 	 7 	 N/N 	 1 	 approval Drug
+9 	 8 	 N/N 	 1 	 approval Administration
+9 	 11 	 (S[b]\NP)/NP 	 1 	 approval sell <XB>
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+15 	 11 	 (S[b]\NP)/NP 	 2 	 lens sell
+15 	 12 	 NP[nb]/N 	 1 	 lens the
+15 	 13 	 N/N 	 1 	 lens PhacoFlex
+15 	 14 	 N/N 	 1 	 lens intraocular
+21 	 11 	 (S[b]\NP)/NP 	 2 	 lens sell
+21 	 17 	 NP[nb]/N 	 1 	 lens the
+21 	 18 	 N/N 	 1 	 lens first
+21 	 19 	 N/N 	 1 	 lens foldable
+21 	 20 	 N/N 	 1 	 lens silicone
+21 	 22 	 S[adj]\NP 	 1 	 lens available <XB>
+22 	 23 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 available for
+25 	 23 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 surgery for
+25 	 24 	 N/N 	 1 	 surgery cataract
+<\s>
+<s id="wsj_0133.2"> 28
+1 	 0 	 NP[nb]/N 	 1 	 len The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 len 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 foldability 's
+3 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 foldability enables
+4 	 27 	 (S[dcl]\S[dcl])\NP 	 1 	 enables said
+5 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 it enables
+5 	 8 	 S[pss]\NP 	 1 	 it inserted <XB>
+6 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to enables
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 inserted be
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 inserted in
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 incisions in
+11 	 10 	 N/N 	 1 	 incisions smaller
+11 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 incisions than
+11 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 incisions are <XB>
+11 	 15 	 (S[adj]\NP)/PP 	 1 	 incisions possible <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are than
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 are now
+15 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 possible are
+16 	 15 	 (S[adj]\NP)/PP 	 2 	 for possible
+18 	 16 	 PP/NP 	 1 	 surgery for
+18 	 17 	 N/N 	 1 	 surgery cataract
+22 	 20 	 NP[nb]/N 	 1 	 care the
+22 	 21 	 N/N 	 1 	 care eye
+22 	 27 	 (S[dcl]\S[dcl])\NP 	 2 	 care said
+26 	 20 	 NP[nb]/N 	 1 	 concern the
+26 	 21 	 N/N 	 1 	 concern eye
+26 	 24 	 N/N 	 1 	 concern skin
+26 	 25 	 N/N 	 1 	 concern care
+26 	 27 	 (S[dcl]\S[dcl])\NP 	 2 	 concern said
+<\s>
+<s id="wsj_0133.3"> 11
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 Cataracts refer
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 to refer
+4 	 2 	 PP/NP 	 1 	 clouding to
+4 	 3 	 NP[nb]/N 	 1 	 clouding a
+4 	 5 	 (NP\NP)/NP 	 1 	 clouding of
+7 	 6 	 NP[nb]/N 	 1 	 eye the
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 eye 's
+10 	 5 	 (NP\NP)/NP 	 2 	 lens of
+10 	 8 	 (NP[nb]/N)\NP 	 1 	 lens 's
+10 	 9 	 N/N 	 1 	 lens natural
+<\s>

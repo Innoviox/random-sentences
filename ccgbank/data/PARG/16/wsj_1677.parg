@@ -1,0 +1,1334 @@
+<s id="wsj_1677.1"> 13
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 they get
+2 	 0 	 S/S 	 1 	 get First
+3 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 us get
+3 	 5 	 (S[b]\NP)/NP 	 1 	 us buy <XB>
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to get
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+5 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 buy so
+6 	 5 	 (S[b]\NP)/NP 	 2 	 computers buy
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 we can
+8 	 10 	 (S[b]\NP)/NP 	 1 	 we get <XB>
+9 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 can so
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 get can
+12 	 10 	 (S[b]\NP)/NP 	 2 	 information get
+12 	 11 	 N/N 	 1 	 information more
+<\s>
+<s id="wsj_1677.2"> 12
+2 	 1 	 NP[nb]/N 	 1 	 computers the
+2 	 3 	 ((S[dcl]\NP)/NP)/NP 	 1 	 computers give
+3 	 0 	 S/S 	 1 	 give Then
+4 	 3 	 ((S[dcl]\NP)/NP)/NP 	 3 	 us give
+6 	 3 	 ((S[dcl]\NP)/NP)/NP 	 2 	 information give
+6 	 5 	 N/N 	 1 	 information more
+6 	 7 	 (NP\NP)/S[dcl] 	 1 	 information than
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 we can
+8 	 11 	 S[b]\NP 	 1 	 we read <XB>
+9 	 7 	 (NP\NP)/S[dcl] 	 2 	 can than
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 can ever
+11 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 read can
+<\s>
+<s id="wsj_1677.3"> 22
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 they plan
+1 	 4 	 ((S[b]\NP)/NP)/NP 	 1 	 they sell <XB>
+2 	 0 	 S/S 	 1 	 plan Now
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plan
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+5 	 4 	 ((S[b]\NP)/NP)/NP 	 3 	 us sell
+6 	 4 	 ((S[b]\NP)/NP)/NP 	 2 	 products sell
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 products that
+6 	 8 	 (S[dcl]\NP)/PP 	 1 	 products sift <XB>
+6 	 14 	 ((S[b]\NP)/NP)/NP 	 1 	 products give <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 sift that
+9 	 8 	 (S[dcl]\NP)/PP 	 2 	 through sift
+12 	 9 	 PP/NP 	 1 	 information through
+12 	 10 	 NP/NP 	 1 	 information all
+12 	 11 	 NP[nb]/N 	 1 	 information the
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give to
+15 	 14 	 ((S[b]\NP)/NP)/NP 	 3 	 us give
+16 	 14 	 ((S[b]\NP)/NP)/NP 	 2 	 what give
+16 	 21 	 (S[b]\NP)/NP 	 2 	 what know <XU>
+17 	 19 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 we want
+17 	 21 	 (S[b]\NP)/NP 	 1 	 we know <XB>
+19 	 16 	 NP/(S[dcl]/NP) 	 1 	 want what
+19 	 18 	 (S\NP)/(S\NP) 	 2 	 want really
+20 	 19 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to want
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 know to
+<\s>
+<s id="wsj_1677.4"> 25
+1 	 0 	 NP[nb]/N 	 1 	 products The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 products range
+7 	 3 	 (PP/PP)/NP 	 2 	 newsletters from
+7 	 4 	 N/N 	 1 	 newsletters computer-edited
+7 	 6 	 N/N 	 1 	 newsletters personal
+8 	 2 	 (S[dcl]\NP)/PP 	 2 	 to range
+8 	 3 	 (PP/PP)/NP 	 1 	 to from
+9 	 8 	 PP/NP 	 1 	 systems to
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 systems that
+9 	 11 	 S[dcl]\NP 	 1 	 systems sit <XB>
+9 	 17 	 ((S[dcl]\NP)/PP)/NP 	 1 	 systems pick <XU>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 sit that
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 sit inside
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 computer inside
+15 	 13 	 NP[nb]/N 	 1 	 computer a
+15 	 14 	 N/N 	 1 	 computer personal
+17 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 pick that
+18 	 17 	 ((S[dcl]\NP)/PP)/NP 	 3 	 stories pick
+18 	 19 	 (NP\NP)/NP 	 1 	 stories on
+21 	 19 	 (NP\NP)/NP 	 2 	 topics on
+21 	 20 	 N/N 	 1 	 topics selected
+22 	 17 	 ((S[dcl]\NP)/PP)/NP 	 2 	 off pick
+24 	 22 	 PP/NP 	 1 	 wires off
+24 	 23 	 N/N 	 1 	 wires news
+<\s>
+<s id="wsj_1677.5"> 23
+1 	 0 	 N/N 	 1 	 news Filtered
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 news is
+2 	 7 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 what is
+3 	 5 	 (S[dcl]\NP)/NP 	 2 	 what want <XU>
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 people want
+5 	 3 	 NP/(S[dcl]/NP) 	 1 	 want what
+9 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 Dyson says
+9 	 8 	 N/N 	 1 	 Dyson Esther
+11 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 editor says
+11 	 12 	 (NP\NP)/NP 	 1 	 editor of
+13 	 12 	 (NP\NP)/NP 	 2 	 Release of
+13 	 14 	 N\N 	 1 	 Release 1.0
+18 	 12 	 (NP\NP)/NP 	 2 	 newsletter of
+18 	 16 	 NP[nb]/N 	 1 	 newsletter an
+18 	 17 	 N/N 	 1 	 newsletter industry
+18 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 newsletter that
+18 	 20 	 (S[dcl]\NP)/NP 	 1 	 newsletter spots <XB>
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 spots that
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 developments spots
+22 	 21 	 N/N 	 1 	 developments new
+<\s>
+<s id="wsj_1677.6"> 17
+1 	 0 	 N/N 	 1 	 people Most
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 people read
+2 	 8 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 2 	 read in
+4 	 3 	 (N/N)/(N/N) 	 2 	 times 10
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 more read
+5 	 4 	 N/N 	 1 	 more times
+5 	 6 	 (NP\NP)/(S[adj]\NP) 	 1 	 more than
+7 	 6 	 (NP\NP)/(S[adj]\NP) 	 2 	 necessary than
+9 	 8 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 4 	 order in
+10 	 8 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 3 	 to in
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 find to
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 find out
+13 	 11 	 (S[b]\NP)/NP 	 2 	 what find
+13 	 16 	 (S[dcl]\NP)/NP 	 2 	 what need <XU>
+14 	 16 	 (S[dcl]\NP)/NP 	 1 	 they need
+16 	 13 	 NP/(S[dcl]/NP) 	 1 	 need what
+16 	 15 	 (S\NP)/(S\NP) 	 2 	 need really
+<\s>
+<s id="wsj_1677.7"> 47
+1 	 0 	 N/N 	 1 	 Goodfellow Geoffrey
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Goodfellow who
+1 	 4 	 (S[dcl]\NP)/PP 	 1 	 Goodfellow dropped <XB>
+1 	 14 	 (S[b]\NP)/NP 	 1 	 Goodfellow manage <XB>
+1 	 24 	 (S[dcl]\NP)/S[dcl] 	 1 	 Goodfellow says
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 dropped who
+4 	 9 	 ((S\NP)\(S\NP))/PP 	 2 	 dropped back
+6 	 4 	 (S[dcl]\NP)/PP 	 2 	 of dropped
+6 	 5 	 PP/PP 	 1 	 of out
+8 	 6 	 PP/NP 	 1 	 school of
+8 	 7 	 N/N 	 1 	 school high
+10 	 9 	 ((S\NP)\(S\NP))/PP 	 3 	 in back
+12 	 10 	 PP/NP 	 1 	 1970s in
+12 	 11 	 NP[nb]/N 	 1 	 1970s the
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 manage to
+17 	 14 	 (S[b]\NP)/NP 	 2 	 network manage
+17 	 15 	 NP[nb]/N 	 1 	 network a
+17 	 16 	 N/N 	 1 	 network computer
+17 	 18 	 (NP\NP)/NP 	 1 	 network at
+22 	 18 	 (NP\NP)/NP 	 2 	 firm at
+22 	 19 	 NP[nb]/N 	 1 	 firm a
+22 	 20 	 N/N 	 1 	 firm California
+22 	 21 	 N/N 	 1 	 firm research
+28 	 26 	 N/N 	 1 	 hands Old
+28 	 27 	 N/N 	 1 	 hands network
+28 	 29 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 hands have
+28 	 30 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 hands started <XB>
+28 	 32 	 (S[b]\NP)/NP 	 1 	 hands turn <XB>
+29 	 24 	 (S[dcl]\NP)/S[dcl] 	 2 	 have says
+30 	 29 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 started have
+30 	 36 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 started because
+31 	 30 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to started
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 turn to
+32 	 33 	 (S\NP)\(S\NP) 	 2 	 turn off
+35 	 32 	 (S[b]\NP)/NP 	 2 	 network turn
+35 	 34 	 NP[nb]/N 	 1 	 network the
+37 	 38 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they do
+37 	 40 	 (S[b]\NP)/NP 	 1 	 they have <XB>
+38 	 36 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 do because
+38 	 39 	 (S\NP)\(S\NP) 	 2 	 do n't
+40 	 38 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have do
+41 	 40 	 (S[b]\NP)/NP 	 2 	 time have
+43 	 42 	 (S[to]\NP)/(S[b]\NP) 	 2 	 wade to
+43 	 44 	 ((S\NP)\(S\NP))/NP 	 2 	 wade through
+46 	 44 	 ((S\NP)\(S\NP))/NP 	 3 	 muck through
+46 	 45 	 NP[nb]/N 	 1 	 muck the
+<\s>
+<s id="wsj_1677.8"> 22
+1 	 0 	 N/N 	 1 	 Goodfellow Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Goodfellow has
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 Goodfellow started <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 started has
+8 	 5 	 (N/N)/(N/N) 	 2 	 Calif. Menlo
+8 	 6 	 (N/N)/(N/N) 	 2 	 Calif. Park
+10 	 3 	 (S[pt]\NP)/NP 	 2 	 company started
+10 	 4 	 NP[nb]/N 	 1 	 company a
+10 	 8 	 N/N 	 1 	 company Calif.
+10 	 11 	 (S[pss]\NP)/NP 	 1 	 company called <XB>
+10 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 company that
+10 	 15 	 (S[dcl]\NP)/NP 	 1 	 company provides <XB>
+13 	 11 	 (S[pss]\NP)/NP 	 2 	 Technology called
+13 	 12 	 N/N 	 1 	 Technology Anterior
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 provides that
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 editors provides
+17 	 16 	 N/N 	 1 	 editors human
+17 	 18 	 (NP\NP)/NP 	 1 	 editors for
+21 	 18 	 (NP\NP)/NP 	 2 	 networks for
+21 	 19 	 N/N 	 1 	 networks public
+21 	 20 	 N/N 	 1 	 networks electronic
+<\s>
+<s id="wsj_1677.9"> 11
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 I see
+1 	 10 	 (S[dcl]\S[dcl])\NP 	 1 	 see says
+2 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 it see
+3 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as see
+7 	 3 	 PP/NP 	 1 	 plant as
+7 	 4 	 NP[nb]/N 	 1 	 plant a
+7 	 5 	 N/N 	 1 	 plant sewage
+7 	 6 	 N/N 	 1 	 plant treatment
+9 	 10 	 (S[dcl]\S[dcl])\NP 	 2 	 he says
+<\s>
+<s id="wsj_1677.10"> 32
+2 	 0 	 NP[nb]/N 	 1 	 product A
+2 	 1 	 N/N 	 1 	 product new
+2 	 6 	 (S[dcl]\NP)/NP 	 1 	 product carries
+2 	 18 	 S[dcl]\NP 	 1 	 product beeps <XU>
+2 	 20 	 S[dcl]\NP 	 1 	 product flashes <XU>
+4 	 6 	 (S[dcl]\NP)/NP 	 1 	 NewsEdge carries
+4 	 18 	 S[dcl]\NP 	 1 	 NewsEdge beeps <XU>
+4 	 20 	 S[dcl]\NP 	 1 	 NewsEdge flashes <XU>
+6 	 11 	 (S\NP)\(S\NP) 	 2 	 carries simultaneously
+6 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 carries into
+10 	 6 	 (S[dcl]\NP)/NP 	 2 	 wires carries
+10 	 7 	 N/N 	 1 	 wires five
+10 	 8 	 N/N 	 1 	 wires business
+10 	 9 	 N/N 	 1 	 wires news
+14 	 13 	 NP[nb]/N 	 1 	 user a
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 user 's
+16 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 computer into
+16 	 15 	 (NP[nb]/N)\NP 	 1 	 computer 's
+18 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 beeps whenever
+20 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 flashes whenever
+23 	 22 	 NP[nb]/N 	 1 	 article an
+23 	 24 	 S[dcl]\NP 	 1 	 article appears
+23 	 26 	 (S[dcl]\NP)/PP 	 1 	 article is <XB>
+24 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 appears whenever
+24 	 25 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 appears that
+26 	 25 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 is that
+27 	 26 	 (S[dcl]\NP)/PP 	 2 	 of is
+28 	 27 	 PP/NP 	 1 	 interest of
+28 	 29 	 (NP\NP)/NP 	 1 	 interest to
+31 	 29 	 (NP\NP)/NP 	 2 	 user to
+31 	 30 	 NP[nb]/N 	 1 	 user the
+<\s>
+<s id="wsj_1677.11"> 32
+1 	 0 	 NP[nb]/N 	 1 	 product The
+1 	 3 	 S[pss]\NP 	 1 	 product developed <XB>
+1 	 18 	 (S[dcl]\NP)/NP 	 1 	 product scans
+1 	 21 	 (S[ng]\NP)/PP 	 1 	 product looking <XB>
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 developed by
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp. by
+7 	 5 	 N/N 	 1 	 Corp. Desktop
+7 	 6 	 N/N 	 1 	 Corp. Data
+11 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 company by
+11 	 9 	 NP[nb]/N 	 1 	 company a
+11 	 10 	 N/N 	 1 	 company new
+11 	 12 	 S[pss]\NP 	 1 	 company based <XB>
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Waltham in
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Mass. in
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 wires scans
+20 	 19 	 NP[nb]/N 	 1 	 wires the
+22 	 21 	 (S[ng]\NP)/PP 	 2 	 for looking
+23 	 22 	 PP/NP 	 1 	 articles for
+23 	 24 	 (NP\NP)/(S[dcl]\NP) 	 1 	 articles that
+23 	 25 	 (S[dcl]\NP)/NP 	 1 	 articles contain <XB>
+25 	 24 	 (NP\NP)/(S[dcl]\NP) 	 2 	 contain that
+27 	 25 	 (S[dcl]\NP)/NP 	 2 	 words contain
+27 	 26 	 N/N 	 1 	 words key
+27 	 28 	 S[pss]\NP 	 1 	 words specified <XB>
+28 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 specified by
+31 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 user by
+31 	 30 	 NP[nb]/N 	 1 	 user the
+<\s>
+<s id="wsj_1677.12"> 25
+2 	 0 	 N/N 	 1 	 user One
+2 	 1 	 N/N 	 1 	 user early
+2 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 user says
+5 	 4 	 N/N 	 1 	 Semmel David
+5 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 Semmel says
+10 	 7 	 NP[nb]/N 	 1 	 capitalist a
+10 	 8 	 N/N 	 1 	 capitalist Chicago
+10 	 9 	 N/N 	 1 	 capitalist venture
+10 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 capitalist says
+12 	 13 	 (NP\NP)/NP 	 1 	 investor in
+12 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 investor says
+15 	 13 	 (NP\NP)/NP 	 2 	 Data in
+15 	 14 	 N/N 	 1 	 Data Desktop
+18 	 19 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 he uses
+19 	 17 	 (S[dcl]\NP)/S[dcl] 	 2 	 uses says
+20 	 19 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 it uses
+20 	 22 	 (S[b]\NP)/NP 	 1 	 it track <XB>
+21 	 19 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to uses
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 track to
+24 	 22 	 (S[b]\NP)/NP 	 2 	 developments track
+24 	 23 	 N/N 	 1 	 developments takeover
+<\s>
+<s id="wsj_1677.13"> 28
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He says
+2 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 he told
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 told says
+4 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 NewsEdge told
+4 	 6 	 (S[b]\NP)/PP 	 1 	 NewsEdge look <XB>
+5 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to told
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 look to
+7 	 6 	 (S[b]\NP)/PP 	 2 	 for look
+8 	 7 	 PP/NP 	 1 	 stories for
+8 	 9 	 (S[ng]\NP)/NP 	 1 	 stories containing <XB>
+11 	 9 	 (S[ng]\NP)/NP 	 2 	 words containing
+11 	 10 	 NP/NP 	 1 	 words such
+11 	 12 	 (NP\NP)/NP 	 1 	 words as
+13 	 12 	 (NP\NP)/NP 	 2 	 takeover as
+15 	 12 	 (NP\NP)/NP 	 2 	 acquisition as
+17 	 12 	 (NP\NP)/NP 	 2 	 acquire as
+19 	 12 	 (NP\NP)/NP 	 2 	 LBO as
+21 	 12 	 (NP\NP)/NP 	 2 	 tender as
+23 	 12 	 (NP\NP)/NP 	 2 	 merger as
+25 	 12 	 (NP\NP)/NP 	 2 	 junk as
+27 	 12 	 (NP\NP)/NP 	 2 	 halted as
+<\s>
+<s id="wsj_1677.14"> 11
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 I 'm
+0 	 3 	 (S[adj]\NP)/S[dcl] 	 1 	 I confident <XB>
+1 	 10 	 (S[dcl]\S[dcl])\NP 	 1 	 'm says
+3 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 confident 'm
+3 	 2 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 confident pretty
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 I 'm
+4 	 6 	 (S[ng]\NP)/NP 	 1 	 I catching <XB>
+5 	 3 	 (S[adj]\NP)/S[dcl] 	 2 	 'm confident
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 catching 'm
+7 	 6 	 (S[ng]\NP)/NP 	 2 	 everything catching
+9 	 10 	 (S[dcl]\S[dcl])\NP 	 2 	 he says
+<\s>
+<s id="wsj_1677.15"> 27
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 NewsEdge is
+0 	 2 	 S[adj]\NP 	 1 	 NewsEdge pricey <XB>
+1 	 4 	 (S\S)/N[num] 	 1 	 is $
+1 	 13 	 (S\S)/N[num] 	 1 	 is $ <XU>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 pricey is
+4 	 6 	 ((S\S)\(S\S))/N 	 2 	 $ a
+4 	 8 	 ((S\S)\(S\S))/NP 	 2 	 $ for
+5 	 4 	 (S\S)/N[num] 	 2 	 7,500 $
+7 	 6 	 ((S\S)\(S\S))/N 	 3 	 year a
+11 	 8 	 ((S\S)\(S\S))/NP 	 3 	 version for
+11 	 9 	 NP[nb]/N 	 1 	 version a
+11 	 10 	 N/N 	 1 	 version limited
+13 	 15 	 ((S\S)\(S\S))/N 	 2 	 $ a
+13 	 17 	 ((S\S)\(S\S))/S[dcl] 	 2 	 $ if
+14 	 13 	 (S\S)/N[num] 	 2 	 40,000 $
+16 	 15 	 ((S\S)\(S\S))/N 	 3 	 year a
+19 	 18 	 NP[nb]/N 	 1 	 cost the
+19 	 20 	 (NP\NP)/NP 	 1 	 cost of
+19 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 cost is
+19 	 26 	 S[pss]\NP 	 1 	 cost included <XB>
+24 	 20 	 (NP\NP)/NP 	 2 	 wires of
+24 	 21 	 NP/NP 	 1 	 wires all
+24 	 22 	 NP[nb]/N 	 1 	 wires the
+24 	 23 	 N/N 	 1 	 wires news
+25 	 17 	 ((S\S)\(S\S))/S[dcl] 	 3 	 is if
+26 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 included is
+<\s>
+<s id="wsj_1677.16"> 8
+1 	 2 	 S[dcl]\NP 	 1 	 it works
+2 	 0 	 S/S 	 1 	 works And
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 works best
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 works in
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 computers in
+7 	 5 	 N/N 	 1 	 computers high-powered
+7 	 6 	 N/N 	 1 	 computers personal
+<\s>
+<s id="wsj_1677.17"> 11
+2 	 1 	 NP[nb]/N 	 1 	 investors some
+2 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 investors who
+2 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 investors have <XB>
+2 	 7 	 (S[pt]\NP)/NP 	 1 	 investors tried <XB>
+2 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 investors are
+2 	 10 	 S[adj]\NP 	 1 	 investors enthusiastic <XB>
+4 	 1 	 NP[nb]/N 	 1 	 consultants some
+4 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 consultants who
+4 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 consultants have <XB>
+4 	 7 	 (S[pt]\NP)/NP 	 1 	 consultants tried <XB>
+4 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 consultants are
+4 	 10 	 S[adj]\NP 	 1 	 consultants enthusiastic <XB>
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have who
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 tried have
+8 	 7 	 (S[pt]\NP)/NP 	 2 	 it tried
+9 	 0 	 S/S 	 1 	 are But
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 enthusiastic are
+<\s>
+<s id="wsj_1677.18"> 32
+1 	 0 	 N/N 	 1 	 Tarter Jeffrey
+1 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 Tarter says
+3 	 4 	 (NP\NP)/NP 	 1 	 editor of
+3 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 editor says
+5 	 4 	 (NP\NP)/NP 	 2 	 SoftLetter of
+10 	 8 	 (N/N)/(N/N) 	 2 	 Mass. Watertown
+13 	 4 	 (NP\NP)/NP 	 2 	 newsletter of
+13 	 7 	 NP[nb]/N 	 1 	 newsletter a
+13 	 10 	 N/N 	 1 	 newsletter Mass.
+13 	 12 	 N/N 	 1 	 newsletter industry
+17 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 I 've
+17 	 19 	 ((S[pt]\NP)/(S[ng]\NP))/NP 	 1 	 I seen <XB>
+18 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 've says
+19 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 seen 've
+21 	 19 	 ((S[pt]\NP)/(S[ng]\NP))/NP 	 3 	 lot seen
+21 	 20 	 NP[nb]/N 	 1 	 lot a
+21 	 22 	 (NP\NP)/NP 	 1 	 lot of
+21 	 24 	 S[ng]\NP 	 1 	 lot fooling <XB>
+23 	 22 	 (NP\NP)/NP 	 2 	 people of
+24 	 19 	 ((S[pt]\NP)/(S[ng]\NP))/NP 	 2 	 fooling seen
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 fooling around
+24 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 fooling on
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 fringes on
+28 	 27 	 NP[nb]/N 	 1 	 fringes the
+28 	 29 	 (NP\NP)/NP 	 1 	 fringes of
+31 	 29 	 (NP\NP)/NP 	 2 	 information of
+31 	 30 	 N/N 	 1 	 information filtering
+<\s>
+<s id="wsj_1677.19"> 17
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 This is
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 time is
+4 	 2 	 NP[nb]/N 	 1 	 time the
+4 	 3 	 N/N 	 1 	 time first
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 I 've
+5 	 7 	 (S[pt]\NP)/NP 	 1 	 I seen <XB>
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 seen 've
+8 	 7 	 (S[pt]\NP)/NP 	 2 	 something seen
+8 	 16 	 (S[ng]\NP)/NP 	 2 	 something using <XU>
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 I could
+9 	 11 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 1 	 I imagine <XB>
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 imagine could
+13 	 11 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 3 	 lot imagine
+13 	 12 	 NP[nb]/N 	 1 	 lot a
+13 	 14 	 (NP\NP)/NP 	 1 	 lot of
+13 	 16 	 (S[ng]\NP)/NP 	 1 	 lot using <XB>
+15 	 14 	 (NP\NP)/NP 	 2 	 people of
+16 	 11 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 2 	 using imagine
+<\s>
+<s id="wsj_1677.20"> 32
+0 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 NewsEdge uses
+5 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 band uses
+5 	 2 	 NP[nb]/N 	 1 	 band an
+5 	 3 	 N/N 	 1 	 band FM
+5 	 4 	 N/N 	 1 	 band radio
+5 	 7 	 (S[b]\NP)/NP 	 1 	 band carry <XB>
+6 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to uses
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 carry to
+9 	 7 	 (S[b]\NP)/NP 	 2 	 wires carry
+9 	 8 	 N/N 	 1 	 wires news
+9 	 10 	 S[pss]\NP 	 1 	 wires provided <XB>
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 provided by
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Reuters by
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 McGraw-Hill by
+19 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Co. by
+19 	 16 	 N/N 	 1 	 Co. Dow
+19 	 17 	 N/N 	 1 	 Co. Jones
+19 	 18 	 N/N 	 1 	 Co. &
+23 	 21 	 conj/conj 	 1 	 as as
+23 	 22 	 conj/conj 	 1 	 as well
+25 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Newswire by
+25 	 24 	 N/N 	 1 	 Newswire PR
+25 	 27 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Newswire which
+25 	 28 	 (S[dcl]\NP)/NP 	 1 	 Newswire carries <XB>
+28 	 27 	 (NP\NP)/(S[dcl]\NP) 	 2 	 carries which
+31 	 28 	 (S[dcl]\NP)/NP 	 2 	 releases carries
+31 	 29 	 N/N 	 1 	 releases corporate
+31 	 30 	 N/N 	 1 	 releases press
+<\s>
+<s id="wsj_1677.21"> 13
+2 	 0 	 NP[nb]/N 	 1 	 receiver An
+2 	 1 	 N/N 	 1 	 receiver FM
+2 	 3 	 (S[pss]\NP)/PP 	 1 	 receiver attached <XB>
+2 	 10 	 (S[dcl]\NP)/NP 	 1 	 receiver receives
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 to attached
+6 	 5 	 NP[nb]/N 	 1 	 user a
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 user 's
+9 	 4 	 PP/NP 	 1 	 computer to
+9 	 7 	 (NP[nb]/N)\NP 	 1 	 computer 's
+9 	 8 	 N/N 	 1 	 computer personal
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 information receives
+12 	 11 	 NP[nb]/N 	 1 	 information the
+<\s>
+<s id="wsj_1677.22"> 17
+1 	 0 	 NP[nb]/N 	 1 	 organizations Some
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 organizations have
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 organizations devised <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 devised have
+6 	 3 	 (S[pt]\NP)/NP 	 2 	 systems devised
+6 	 4 	 NP[nb]/N 	 1 	 systems their
+6 	 5 	 N/N 	 1 	 systems own
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sort to
+8 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 sort as
+9 	 8 	 (S[b]\NP)/PP 	 2 	 through sort
+12 	 9 	 PP/NP 	 1 	 items through
+12 	 10 	 N/N 	 1 	 items news
+12 	 11 	 N/N 	 1 	 items wire
+14 	 15 	 S[dcl]\NP 	 1 	 they come
+15 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 come as
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 come in
+<\s>
+<s id="wsj_1677.23"> 26
+1 	 0 	 N/N 	 1 	 Goodwin George
+1 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Goodwin adapted
+5 	 3 	 NP[nb]/N 	 1 	 manager an
+5 	 4 	 N/N 	 1 	 manager account
+5 	 6 	 (NP\NP)/NP 	 1 	 manager at
+5 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 manager adapted
+8 	 6 	 (NP\NP)/NP 	 2 	 Bank at
+8 	 7 	 N/N 	 1 	 Bank Royal
+8 	 9 	 (NP\NP)/NP 	 1 	 Bank of
+10 	 9 	 (NP\NP)/NP 	 2 	 Canada of
+17 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 program adapted
+17 	 13 	 NP[nb]/N 	 1 	 program a
+17 	 14 	 N/N 	 1 	 program Lotus
+17 	 15 	 N/N 	 1 	 program Development
+17 	 16 	 N/N 	 1 	 program Corp.
+17 	 18 	 (S[pss]\NP)/NP 	 1 	 program called <XB>
+17 	 21 	 (S[b]\NP)/PP 	 1 	 program sort <XB>
+19 	 18 	 (S[pss]\NP)/NP 	 2 	 Agenda called
+20 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to adapted
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sort to
+22 	 21 	 (S[b]\NP)/PP 	 2 	 through sort
+25 	 22 	 PP/NP 	 1 	 wires through
+25 	 23 	 N/N 	 1 	 wires international
+25 	 24 	 N/N 	 1 	 wires news
+<\s>
+<s id="wsj_1677.24"> 19
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 It selects
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 selects automatically
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 stories selects
+3 	 4 	 (NP\NP)/NP 	 1 	 stories from
+3 	 7 	 (NP\NP)/NP 	 1 	 stories for
+6 	 4 	 (NP\NP)/NP 	 2 	 countries from
+6 	 5 	 N/N 	 1 	 countries particular
+8 	 7 	 (NP\NP)/NP 	 2 	 reading for
+8 	 9 	 (NP\NP)/NP 	 1 	 reading by
+12 	 9 	 (NP\NP)/NP 	 2 	 bankers by
+12 	 10 	 NP[nb]/N 	 1 	 bankers the
+12 	 11 	 N/N 	 1 	 bankers international
+12 	 13 	 S[adj]\NP 	 1 	 bankers responsible <XB>
+13 	 14 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 responsible for
+15 	 14 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 lending for
+15 	 16 	 (NP\NP)/NP 	 1 	 lending in
+18 	 16 	 (NP\NP)/NP 	 2 	 areas in
+18 	 17 	 NP[nb]/N 	 1 	 areas those
+<\s>
+<s id="wsj_1677.25"> 19
+1 	 0 	 (S/S)/NP 	 2 	 those For
+1 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 those who
+1 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 those do <XB>
+1 	 5 	 (S[b]\NP)/NP 	 1 	 those need <XB>
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 do who
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 do n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 need do
+5 	 9 	 (S\NP)\(S\NP) 	 2 	 need moment
+8 	 5 	 (S[b]\NP)/NP 	 2 	 information need
+8 	 6 	 NP[nb]/N 	 1 	 information their
+8 	 7 	 N/N 	 1 	 information personalized
+9 	 10 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 moment by
+11 	 10 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 moment by
+14 	 13 	 NP[nb]/N 	 1 	 services some
+14 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 services are
+14 	 16 	 (S[ng]\NP)/NP 	 1 	 services offering <XB>
+15 	 0 	 (S/S)/NP 	 1 	 are For
+16 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 offering are
+18 	 16 	 (S[ng]\NP)/NP 	 2 	 newsletters offering
+18 	 17 	 N/N 	 1 	 newsletters overnight
+<\s>
+<s id="wsj_1677.26"> 39
+1 	 0 	 N/N 	 1 	 Inc. Individual
+1 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Inc. uses
+5 	 3 	 NP[nb]/N 	 1 	 company a
+5 	 4 	 N/N 	 1 	 company new
+5 	 6 	 (NP\NP)/NP 	 1 	 company in
+5 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 company uses
+7 	 6 	 (NP\NP)/NP 	 2 	 Brookline in
+9 	 6 	 (NP\NP)/NP 	 2 	 Mass. in
+13 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 technology uses
+13 	 12 	 N/N 	 1 	 technology filtering
+13 	 14 	 S[pss]\NP 	 1 	 technology developed <XB>
+13 	 25 	 (S[b]\NP)/NP 	 1 	 technology produce <XB>
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 developed by
+21 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 Salton by
+21 	 16 	 N/N 	 1 	 Salton Cornell
+21 	 17 	 N/N 	 1 	 Salton University
+21 	 18 	 N/N 	 1 	 Salton computer
+21 	 19 	 N/N 	 1 	 Salton scientist
+21 	 20 	 N/N 	 1 	 Salton Gerard
+23 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to uses
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 to automatically
+25 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 produce to
+27 	 25 	 (S[b]\NP)/NP 	 2 	 newsletters produce
+27 	 26 	 N/N 	 1 	 newsletters customized
+27 	 29 	 ((S[dcl]\NP)/PP)/NP 	 3 	 newsletters sends <XU>
+28 	 29 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it sends
+29 	 30 	 (S\NP)\(S\NP) 	 2 	 sends electronically
+29 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 sends by
+31 	 29 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to sends
+32 	 31 	 PP/NP 	 1 	 subscribers to
+35 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 a.m. by
+35 	 34 	 N/N 	 1 	 a.m. 8
+35 	 36 	 (NP\NP)/N 	 1 	 a.m. the
+38 	 36 	 (NP\NP)/N 	 2 	 day the
+38 	 37 	 N/N 	 1 	 day next
+<\s>
+<s id="wsj_1677.27"> 28
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 We are
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 We operating <XB>
+1 	 21 	 (S[dcl]\S[dcl])/NP 	 1 	 are says
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 operating are
+5 	 2 	 (S[ng]\NP)/NP 	 2 	 refinery operating
+5 	 3 	 NP[nb]/N 	 1 	 refinery an
+5 	 4 	 N/N 	 1 	 refinery information
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 refinery that
+5 	 7 	 (S[dcl]\NP)/NP 	 1 	 refinery takes <XB>
+5 	 15 	 ((S[dcl]\NP)/PP)/NP 	 1 	 refinery turns <XU>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 takes that
+10 	 7 	 (S[dcl]\NP)/NP 	 2 	 stream takes
+10 	 8 	 NP[nb]/N 	 1 	 stream a
+10 	 9 	 N/N 	 1 	 stream broad
+10 	 11 	 (NP\NP)/NP 	 1 	 stream of
+13 	 11 	 (NP\NP)/NP 	 2 	 data of
+13 	 12 	 N/N 	 1 	 data raw
+15 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 turns that
+16 	 15 	 ((S[dcl]\NP)/PP)/NP 	 3 	 it turns
+17 	 15 	 ((S[dcl]\NP)/PP)/NP 	 2 	 into turns
+19 	 17 	 PP/NP 	 1 	 knowledge into
+19 	 18 	 N/N 	 1 	 knowledge actionable
+23 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 Amram says
+23 	 22 	 N/N 	 1 	 Amram Yosi
+25 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 founder says
+27 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+<\s>
+<s id="wsj_1677.28"> 52
+2 	 0 	 NP[nb]/N 	 1 	 newsletter The
+2 	 1 	 N/N 	 1 	 newsletter daily
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 newsletter which
+2 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 newsletter is <XB>
+2 	 8 	 S[adj]\NP 	 1 	 newsletter available <XB>
+2 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 newsletter will
+2 	 12 	 (S[b]\NP)/NP 	 1 	 newsletter have <XB>
+2 	 22 	 (S[b]\NP)/NP 	 1 	 newsletter provides <XU>
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 is n't
+5 	 9 	 (S\NP)\(S\NP) 	 2 	 is yet
+8 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 available is
+8 	 7 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 available widely
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+15 	 12 	 (S[b]\NP)/NP 	 2 	 cost have
+15 	 13 	 NP[nb]/N 	 1 	 cost a
+15 	 14 	 N/N 	 1 	 cost base
+15 	 16 	 (NP\NP)/NP 	 1 	 cost of
+17 	 16 	 (NP\NP)/NP 	 2 	 $ of
+17 	 19 	 (NP\NP)/N 	 1 	 $ a
+18 	 17 	 N/N[num] 	 1 	 2,000 $
+20 	 19 	 (NP\NP)/N 	 2 	 year a
+22 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 provides will
+22 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 provides under
+24 	 22 	 (S[b]\NP)/NP 	 2 	 text provides
+24 	 23 	 N/N 	 1 	 text full
+24 	 25 	 (NP\NP)/NP 	 1 	 text of
+27 	 25 	 (NP\NP)/NP 	 2 	 articles of
+27 	 26 	 N/N 	 1 	 articles relevant
+30 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 agreements under
+30 	 29 	 N/N 	 1 	 agreements license
+30 	 31 	 (NP\NP)/NP 	 1 	 agreements with
+32 	 31 	 (NP\NP)/NP 	 2 	 Reuters with
+35 	 31 	 (NP\NP)/NP 	 2 	 Hill with
+35 	 34 	 N/N 	 1 	 Hill McGraw
+39 	 31 	 (NP\NP)/NP 	 2 	 International with
+39 	 37 	 N/N 	 1 	 International United
+39 	 38 	 N/N 	 1 	 International Press
+45 	 31 	 (NP\NP)/NP 	 2 	 wires with
+45 	 41 	 N/N 	 1 	 wires two
+45 	 42 	 N/N 	 1 	 wires press
+45 	 43 	 N/N 	 1 	 wires release
+45 	 44 	 N/N 	 1 	 wires news
+47 	 48 	 (NP[nb]/N)\NP 	 2 	 Japan 's
+51 	 31 	 (NP\NP)/NP 	 2 	 service with
+51 	 48 	 (NP[nb]/N)\NP 	 1 	 service 's
+51 	 49 	 N/N 	 1 	 service Kyodo
+51 	 50 	 N/N 	 1 	 service news
+<\s>
+<s id="wsj_1677.29"> 11
+2 	 0 	 N/N 	 1 	 user One
+2 	 1 	 N/N 	 1 	 user early
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 user is
+5 	 4 	 N/N 	 1 	 Corp. NEC
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+10 	 3 	 (S[dcl]\NP)/NP 	 2 	 arm is
+10 	 6 	 (NP[nb]/N)\NP 	 1 	 arm 's
+10 	 7 	 N/N 	 1 	 arm U.S.
+10 	 8 	 N/N 	 1 	 arm printer
+10 	 9 	 N/N 	 1 	 arm marketing
+<\s>
+<s id="wsj_1677.30"> 16
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 They want
+1 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 want says
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 releases want
+5 	 2 	 NP[nb]/N 	 1 	 releases the
+5 	 3 	 N/N 	 1 	 releases full
+5 	 4 	 N/N 	 1 	 releases press
+5 	 6 	 (NP\NP)/NP 	 1 	 releases on
+8 	 6 	 (NP\NP)/NP 	 2 	 announcements on
+8 	 7 	 N/N 	 1 	 announcements printer
+8 	 9 	 (NP\NP)/NP 	 1 	 announcements by
+11 	 9 	 (NP\NP)/NP 	 2 	 competition by
+11 	 10 	 NP[nb]/N 	 1 	 competition their
+14 	 13 	 N/N 	 1 	 Amram Mr.
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 Amram says
+<\s>
+<s id="wsj_1677.31"> 13
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 It tracks
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 tracks also
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 announcements tracks
+6 	 3 	 N/N 	 1 	 announcements personnel <XU>
+6 	 5 	 N/N 	 1 	 announcements financial
+6 	 7 	 (NP\NP)/NP 	 1 	 announcements by
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 NEC 's
+10 	 7 	 (NP\NP)/NP 	 2 	 distributors by
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 distributors 's
+12 	 7 	 (NP\NP)/NP 	 2 	 customers by
+12 	 9 	 (NP[nb]/N)\NP 	 1 	 customers 's
+<\s>
+<s id="wsj_1677.32"> 13
+1 	 0 	 N/N 	 1 	 Inc. Individual
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Inc. 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 technology 's
+3 	 4 	 S[dcl]\NP 	 1 	 technology goes
+3 	 9 	 (S[ng]\NP)/NP 	 1 	 technology using <XB>
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 goes beyond
+4 	 8 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 goes by
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 searches beyond
+7 	 6 	 N/N 	 1 	 searches word
+9 	 8 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 using by
+12 	 9 	 (S[ng]\NP)/NP 	 2 	 thesaurus using
+12 	 10 	 NP[nb]/N 	 1 	 thesaurus a
+12 	 11 	 N/N 	 1 	 thesaurus computerized
+<\s>
+<s id="wsj_1677.33"> 30
+2 	 1 	 NP[nb]/N 	 1 	 customer a
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 customer asks
+3 	 0 	 (S/S)/S[dcl] 	 2 	 asks If
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 for asks
+5 	 4 	 PP/NP 	 1 	 stories for
+5 	 6 	 (NP\NP)/NP 	 1 	 stories about
+7 	 6 	 (NP\NP)/NP 	 2 	 IBM about
+10 	 9 	 NP[nb]/N 	 1 	 computer the
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 computer will
+10 	 13 	 (S[b]\NP)/NP 	 1 	 computer supply <XB>
+11 	 0 	 (S/S)/S[dcl] 	 1 	 will If
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 will also
+11 	 29 	 (S[dcl]\S[dcl])\NP 	 1 	 will says
+13 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 supply will
+14 	 13 	 (S[b]\NP)/NP 	 2 	 stories supply
+14 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 stories that
+14 	 16 	 (S[dcl]\NP)/NP 	 1 	 stories mention <XB>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 mention that
+17 	 16 	 (S[dcl]\NP)/NP 	 2 	 I.B.M. mention
+21 	 16 	 (S[dcl]\NP)/NP 	 2 	 Machines mention
+21 	 19 	 N/N 	 1 	 Machines International
+21 	 20 	 N/N 	 1 	 Machines Business
+25 	 16 	 (S[dcl]\NP)/NP 	 2 	 Blue mention
+25 	 24 	 N/N 	 1 	 Blue Big
+28 	 27 	 N/N 	 1 	 Amram Mr.
+28 	 29 	 (S[dcl]\S[dcl])\NP 	 2 	 Amram says
+<\s>
+<s id="wsj_1677.34"> 25
+3 	 2 	 N/N 	 1 	 Inc. Individual
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Inc. 's
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 computers 's
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 computers can
+5 	 7 	 (S[b]\NP)/NP 	 1 	 computers weigh <XB>
+5 	 13 	 (S[dcl]\NP)/PP 	 1 	 computers based <XB>
+6 	 0 	 S/S 	 1 	 can Moreover
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 weigh can
+9 	 7 	 (S[b]\NP)/NP 	 2 	 value weigh
+9 	 8 	 NP[nb]/N 	 1 	 value the
+9 	 10 	 (NP\NP)/NP 	 1 	 value of
+12 	 10 	 (NP\NP)/NP 	 2 	 article of
+12 	 11 	 NP[nb]/N 	 1 	 article an
+14 	 13 	 (S[dcl]\NP)/PP 	 2 	 on based
+15 	 14 	 PP/S[qem] 	 1 	 how on
+16 	 15 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 2 	 closely how
+18 	 17 	 NP[nb]/N 	 1 	 story the
+18 	 19 	 (S[dcl]\NP)/NP 	 1 	 story matches
+19 	 15 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 1 	 matches how
+21 	 20 	 NP[nb]/N 	 1 	 subscriber the
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 subscriber 's
+24 	 19 	 (S[dcl]\NP)/NP 	 2 	 area matches
+24 	 22 	 (NP[nb]/N)\NP 	 1 	 area 's
+24 	 23 	 N/N 	 1 	 area interest
+<\s>
+<s id="wsj_1677.35"> 22
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It compares
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 position compares
+3 	 2 	 NP[nb]/N 	 1 	 position the
+3 	 4 	 (NP\NP)/NP 	 1 	 position of
+3 	 7 	 (NP\NP)/NP 	 1 	 position in
+6 	 4 	 (NP\NP)/NP 	 2 	 words of
+6 	 5 	 N/N 	 1 	 words key
+9 	 7 	 (NP\NP)/NP 	 2 	 story in
+9 	 8 	 NP[nb]/N 	 1 	 story the
+11 	 12 	 (NP\NP)/NP 	 1 	 words in
+11 	 18 	 (S[dcl]\NP)/NP 	 1 	 words get
+14 	 12 	 (NP\NP)/NP 	 2 	 headline in
+14 	 13 	 NP[nb]/N 	 1 	 headline the
+17 	 12 	 (NP\NP)/NP 	 2 	 paragraph in
+17 	 13 	 NP[nb]/N 	 1 	 paragraph the
+17 	 16 	 N/N 	 1 	 paragraph first
+21 	 18 	 (S[dcl]\NP)/NP 	 2 	 value get
+21 	 19 	 NP[nb]/N 	 1 	 value a
+21 	 20 	 N/N 	 1 	 value higher
+<\s>
+<s id="wsj_1677.36"> 22
+1 	 2 	 (S[dcl]\NP)/S[qem] 	 1 	 it calculates
+2 	 0 	 S/S 	 1 	 calculates And
+2 	 11 	 ((S\NP)\(S\NP))/PP 	 2 	 calculates compared
+3 	 2 	 (S[dcl]\NP)/S[qem] 	 2 	 how calculates
+4 	 3 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 2 	 often how
+6 	 5 	 NP[nb]/N 	 1 	 words the
+6 	 7 	 S[dcl]\NP 	 1 	 words appear
+7 	 3 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 1 	 appear how
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 appear in
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 story in
+10 	 9 	 NP[nb]/N 	 1 	 story the
+12 	 11 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+13 	 12 	 PP/S[qem] 	 1 	 how with
+14 	 13 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 2 	 often how
+15 	 16 	 S[dcl]\NP 	 1 	 they appear
+16 	 13 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 1 	 appear how
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 appear in
+21 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 base in
+21 	 18 	 NP[nb]/N 	 1 	 base the
+21 	 19 	 N/N 	 1 	 base entire
+21 	 20 	 N/N 	 1 	 base data
+<\s>
+<s id="wsj_1677.37"> 18
+1 	 0 	 (S/S)/(S[adj]\NP) 	 2 	 higher The
+2 	 0 	 (S/S)/(S[adj]\NP) 	 1 	 the The
+2 	 4 	 (S\S)/NP 	 1 	 the of
+2 	 6 	 (S\S)/NP 	 1 	 the to
+3 	 2 	 S/N 	 1 	 ratio the
+5 	 4 	 (S\S)/NP 	 2 	 hits of
+8 	 6 	 (S\S)/NP 	 2 	 words to
+8 	 7 	 N/N 	 1 	 words total
+11 	 10 	 (S/S)/(S[adj]\NP) 	 2 	 higher the
+12 	 10 	 (S/S)/(S[adj]\NP) 	 1 	 the the
+12 	 15 	 (S\S)/NP 	 1 	 the to
+14 	 12 	 S/N 	 1 	 value the
+14 	 13 	 N/N 	 1 	 value presumed
+17 	 15 	 (S\S)/NP 	 2 	 reader to
+17 	 16 	 NP[nb]/N 	 1 	 reader the
+<\s>
+<s id="wsj_1677.38"> 45
+2 	 0 	 N/N 	 1 	 Corp. Pinpoint
+2 	 1 	 N/N 	 1 	 Corp. Information
+2 	 26 	 ((S[dcl]\NP)/(S[to]\NP))/PP 	 1 	 Corp. relies
+2 	 32 	 (S[b]\NP)/NP 	 1 	 Corp. code <XB>
+4 	 26 	 ((S[dcl]\NP)/(S[to]\NP))/PP 	 1 	 Chantilly relies
+4 	 32 	 (S[b]\NP)/NP 	 1 	 Chantilly code <XB>
+6 	 26 	 ((S[dcl]\NP)/(S[to]\NP))/PP 	 1 	 Va. relies
+6 	 32 	 (S[b]\NP)/NP 	 1 	 Va. code <XB>
+9 	 8 	 NP[nb]/N 	 1 	 producer a
+9 	 10 	 (NP\NP)/NP 	 1 	 producer of
+9 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 producer that
+9 	 20 	 (S[dcl]\NP)/NP 	 1 	 producer started <XB>
+9 	 26 	 ((S[dcl]\NP)/(S[to]\NP))/PP 	 1 	 producer relies
+9 	 32 	 (S[b]\NP)/NP 	 1 	 producer code <XB>
+12 	 11 	 (N/N)/N[num] 	 2 	 1,800-a-year $
+14 	 10 	 (NP\NP)/NP 	 2 	 newsletters of
+14 	 11 	 (N/N)/N[num] 	 1 	 newsletters $
+14 	 13 	 N/N 	 1 	 newsletters personalized
+14 	 15 	 (NP\NP)/NP 	 1 	 newsletters about
+18 	 15 	 (NP\NP)/NP 	 2 	 industry about
+18 	 16 	 NP[nb]/N 	 1 	 industry the
+18 	 17 	 N/N 	 1 	 industry computer
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 started that
+20 	 24 	 (S\NP)\(S\NP) 	 2 	 started month
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 operation started
+22 	 21 	 N/N 	 1 	 operation full
+24 	 23 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month last
+26 	 37 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 2 	 relies in
+27 	 26 	 ((S[dcl]\NP)/(S[to]\NP))/PP 	 3 	 on relies
+30 	 27 	 PP/NP 	 1 	 readers on
+30 	 28 	 N/N 	 1 	 readers 12
+30 	 29 	 N/N 	 1 	 readers human
+31 	 26 	 ((S[dcl]\NP)/(S[to]\NP))/PP 	 2 	 to relies
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 code to
+32 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 code by
+34 	 32 	 (S[b]\NP)/NP 	 2 	 releases code
+34 	 33 	 N/N 	 1 	 releases news
+36 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 topic by
+38 	 37 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 4 	 order in
+39 	 37 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 3 	 to in
+40 	 39 	 (S[to]\NP)/(S[b]\NP) 	 2 	 select to
+41 	 40 	 (S[b]\NP)/NP 	 2 	 items select
+41 	 42 	 (NP\NP)/NP 	 1 	 items for
+44 	 42 	 (NP\NP)/NP 	 2 	 subscriber for
+44 	 43 	 NP[nb]/N 	 1 	 subscriber each
+<\s>
+<s id="wsj_1677.39"> 16
+1 	 0 	 NP[nb]/N 	 1 	 computers The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 computers find
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 words find
+6 	 3 	 NP/NP 	 1 	 words all
+6 	 4 	 NP[nb]/N 	 1 	 words the
+6 	 5 	 N/N 	 1 	 words key
+6 	 8 	 (S[dcl]\NP)/NP 	 2 	 words can <XU>
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 they can
+12 	 11 	 NP[nb]/N 	 1 	 editors the
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 editors confirm
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 one confirm
+15 	 14 	 NP[nb]/N 	 1 	 one every
+<\s>
+<s id="wsj_1677.40"> 15
+1 	 0 	 N/N 	 1 	 picking Computer
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 picking is
+1 	 4 	 S[adj]\NP 	 1 	 picking perfect <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 is n't
+2 	 6 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+4 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 perfect is
+8 	 6 	 (S[dcl]\S[dcl])/NP 	 2 	 Golomb says
+8 	 7 	 N/N 	 1 	 Golomb Harvey
+10 	 6 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+10 	 13 	 (NP\NP)/NP 	 1 	 president of
+12 	 6 	 (S[dcl]\S[dcl])/NP 	 2 	 founder says
+12 	 13 	 (NP\NP)/NP 	 1 	 founder of
+14 	 13 	 (NP\NP)/NP 	 2 	 Pinpoint of
+<\s>
+<s id="wsj_1677.41"> 13
+1 	 0 	 NP[nb]/N 	 1 	 humans The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 humans write
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 write also
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 abstracts write
+4 	 5 	 (NP\NP)/NP 	 1 	 abstracts of
+6 	 5 	 (NP\NP)/NP 	 2 	 articles of
+6 	 7 	 (NP\NP)/NP 	 1 	 articles from
+12 	 7 	 (NP\NP)/NP 	 2 	 publications from
+12 	 8 	 NP[nb]/N 	 1 	 publications some
+12 	 9 	 N/N 	 1 	 publications 200
+12 	 10 	 N/N 	 1 	 publications computer
+12 	 11 	 N/N 	 1 	 publications industry
+<\s>
+<s id="wsj_1677.42"> 47
+3 	 1 	 NP/NP 	 1 	 articles all
+3 	 2 	 NP[nb]/N 	 1 	 articles the
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 articles are
+3 	 5 	 S[pss]\NP 	 1 	 articles coded <XB>
+3 	 7 	 (S[pss]\NP)/PP 	 1 	 articles put <XU>
+4 	 0 	 (S/S)/S[dcl] 	 2 	 are Once
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 coded are
+7 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 put are
+8 	 7 	 (S[pss]\NP)/PP 	 2 	 in put
+11 	 8 	 PP/NP 	 1 	 base in
+11 	 9 	 NP[nb]/N 	 1 	 base a
+11 	 10 	 N/N 	 1 	 base data
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 Pinpoint 's
+15 	 14 	 (NP[nb]/N)\NP 	 1 	 computers 's
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 computers pick
+15 	 24 	 (S[dcl]\NP)/NP 	 1 	 computers lay <XU>
+16 	 0 	 (S/S)/S[dcl] 	 1 	 pick Once
+19 	 16 	 (S[dcl]\NP)/NP 	 2 	 relevant pick
+19 	 17 	 NP[nb]/N 	 1 	 relevant the
+19 	 18 	 N/N 	 1 	 relevant most
+19 	 20 	 (NP\NP)/NP 	 1 	 relevant for
+22 	 20 	 (NP\NP)/NP 	 2 	 subscriber for
+22 	 21 	 NP[nb]/N 	 1 	 subscriber each
+24 	 0 	 (S/S)/S[dcl] 	 1 	 lay Once
+24 	 26 	 (S\NP)\(S\NP) 	 2 	 lay out
+24 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 lay in
+25 	 24 	 (S[dcl]\NP)/NP 	 2 	 them lay
+31 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 format in
+31 	 28 	 NP[nb]/N 	 1 	 format a
+31 	 29 	 N/N 	 1 	 format three-to-five-page
+31 	 30 	 N/N 	 1 	 format newsletter
+34 	 33 	 NP[nb]/N 	 1 	 newsletter each
+34 	 35 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 newsletter is
+34 	 36 	 S[pss]\NP 	 1 	 newsletter sent <XB>
+36 	 35 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 sent is
+36 	 37 	 (S\NP)\(S\NP) 	 2 	 sent directly
+36 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 sent from
+36 	 41 	 ((S\NP)\(S\NP))/NP 	 2 	 sent to
+40 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 computer from
+40 	 39 	 NP[nb]/N 	 1 	 computer the
+43 	 42 	 NP[nb]/N 	 1 	 subscriber the
+43 	 44 	 (NP[nb]/N)\NP 	 2 	 subscriber 's
+46 	 41 	 ((S\NP)\(S\NP))/NP 	 3 	 machine to
+46 	 44 	 (NP[nb]/N)\NP 	 1 	 machine 's
+46 	 45 	 N/N 	 1 	 machine fax
+<\s>
+<s id="wsj_1677.43"> 17
+1 	 0 	 N/N 	 1 	 Golomb Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Golomb says
+3 	 4 	 (NP\NP)/NP 	 1 	 each of
+3 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 each can
+3 	 8 	 (S[b]\NP)/NP 	 1 	 each produce <XB>
+3 	 10 	 (S[b]\NP)/NP 	 1 	 each send <XU>
+6 	 4 	 (NP\NP)/NP 	 2 	 computers of
+6 	 5 	 NP[nb]/N 	 1 	 computers his
+7 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 can says
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 produce can
+10 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 send can
+12 	 11 	 (N/N)/(N/N) 	 2 	 75 about
+14 	 8 	 (S[b]\NP)/NP 	 2 	 newsletters produce <XU>
+14 	 10 	 (S[b]\NP)/NP 	 2 	 newsletters send
+14 	 12 	 N/N 	 1 	 newsletters 75
+14 	 13 	 N/N 	 1 	 newsletters unique
+14 	 15 	 (NP\NP)/N 	 1 	 newsletters a
+16 	 15 	 (NP\NP)/N 	 2 	 night a
+<\s>
+<s id="wsj_1677.44"> 18
+3 	 0 	 N/N 	 1 	 users Many
+3 	 1 	 N/N 	 1 	 users computer
+3 	 2 	 N/N 	 1 	 users network
+3 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 users who
+3 	 6 	 (S[dcl]\NP)/NP 	 1 	 users see <XB>
+3 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 users would
+3 	 10 	 (S[b]\NP)/(S[to]\NP) 	 1 	 users like <XB>
+3 	 12 	 (S[b]\NP)/PP 	 1 	 users sort <XB>
+6 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 see who
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 see never
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 wires see
+8 	 7 	 N/N 	 1 	 wires news
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 like would
+11 	 10 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to like
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sort to
+12 	 17 	 (S\NP)\(S\NP) 	 2 	 sort automatically
+13 	 12 	 (S[b]\NP)/PP 	 2 	 through sort
+16 	 13 	 PP/NP 	 1 	 mail through
+16 	 14 	 NP[nb]/N 	 1 	 mail their
+16 	 15 	 N/N 	 1 	 mail electronic
+<\s>
+<s id="wsj_1677.45"> 24
+1 	 0 	 N/N 	 1 	 E-mail So-called
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 E-mail is
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 collection is
+4 	 3 	 NP[nb]/N 	 1 	 collection the
+4 	 5 	 (NP\NP)/NP 	 1 	 collection of
+4 	 17 	 S[pss]\NP 	 1 	 collection distributed <XB>
+7 	 5 	 (NP\NP)/NP 	 2 	 memos of
+7 	 6 	 N/N 	 1 	 memos inter-office
+9 	 5 	 (NP\NP)/NP 	 2 	 gossip of
+12 	 5 	 (NP\NP)/NP 	 2 	 data of
+12 	 11 	 N/N 	 1 	 data technical
+14 	 5 	 (NP\NP)/NP 	 2 	 schedules of
+16 	 5 	 (NP\NP)/NP 	 2 	 directives of
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 distributed over
+23 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 networks over
+23 	 19 	 N/N 	 1 	 networks local <XU>
+23 	 21 	 N/N 	 1 	 networks national
+23 	 22 	 N/N 	 1 	 networks computer
+<\s>
+<s id="wsj_1677.46"> 38
+3 	 0 	 NP/NP 	 1 	 computers All
+3 	 1 	 NP[nb]/N 	 1 	 computers these
+3 	 2 	 N/N 	 1 	 computers interconnected
+3 	 4 	 (((S[dcl]\NP)/(S[to]\NP))/(S[adj]\NP))/NP[expl] 	 1 	 computers make
+4 	 18 	 (S[dcl]\S[dcl])/NP 	 1 	 make says
+5 	 4 	 (((S[dcl]\NP)/(S[to]\NP))/(S[adj]\NP))/NP[expl] 	 4 	 it make
+6 	 4 	 (((S[dcl]\NP)/(S[to]\NP))/(S[adj]\NP))/NP[expl] 	 3 	 difficult make
+7 	 4 	 (((S[dcl]\NP)/(S[to]\NP))/(S[adj]\NP))/NP[expl] 	 2 	 to make
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sort to
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 sort out
+10 	 8 	 (S[b]\NP)/NP 	 2 	 what sort
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 what 's <XB>
+11 	 10 	 NP/(S[dcl]\NP) 	 1 	 's what
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 junk 's
+14 	 8 	 (S[b]\NP)/NP 	 2 	 what sort
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 what 's <XB>
+15 	 14 	 NP/(S[dcl]\NP) 	 1 	 's what
+16 	 15 	 (S[dcl]\NP)/NP 	 2 	 important 's
+20 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 Digate says
+20 	 19 	 N/N 	 1 	 Digate Chuck
+26 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 executive says
+26 	 22 	 NP[nb]/N 	 1 	 executive a
+26 	 23 	 N/N 	 1 	 executive former
+26 	 24 	 N/N 	 1 	 executive Lotus
+26 	 25 	 N/N 	 1 	 executive Development
+26 	 27 	 (NP\NP)/(S[dcl]\NP) 	 1 	 executive who
+26 	 28 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 executive has <XB>
+26 	 29 	 (S[pt]\NP)/NP 	 1 	 executive started <XB>
+28 	 27 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has who
+29 	 28 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 started has
+32 	 29 	 (S[pt]\NP)/NP 	 2 	 company started
+32 	 30 	 NP[nb]/N 	 1 	 company a
+32 	 31 	 N/N 	 1 	 company new
+34 	 33 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cope to
+35 	 34 	 (S[b]\NP)/PP 	 2 	 with cope
+37 	 35 	 PP/NP 	 1 	 problem with
+37 	 36 	 NP[nb]/N 	 1 	 problem the
+<\s>
+<s id="wsj_1677.47"> 29
+1 	 0 	 N/N 	 1 	 Digate Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Digate says
+4 	 3 	 NP[nb]/N 	 1 	 firm his
+4 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 firm has
+4 	 10 	 ((S[pt]\NP)/PP)/NP 	 1 	 firm licensed <XB>
+4 	 22 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 firm plans <XU>
+4 	 24 	 ((S[b]\NP)/PP)/NP 	 1 	 firm develop <XU>
+7 	 6 	 N/N 	 1 	 Inc. Beyond
+7 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Inc. has
+7 	 10 	 ((S[pt]\NP)/PP)/NP 	 1 	 Inc. licensed <XB>
+7 	 22 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Inc. plans <XU>
+7 	 24 	 ((S[b]\NP)/PP)/NP 	 1 	 Inc. develop <XU>
+9 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 has says
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 licensed has
+11 	 10 	 ((S[pt]\NP)/PP)/NP 	 3 	 technology licensed
+11 	 12 	 (S[pss]\NP)/PP 	 1 	 technology known <XB>
+13 	 12 	 (S[pss]\NP)/PP 	 2 	 as known
+15 	 13 	 PP/NP 	 1 	 Lens as
+15 	 14 	 N/N 	 1 	 Lens Information
+16 	 10 	 ((S[pt]\NP)/PP)/NP 	 2 	 from licensed
+18 	 16 	 PP/NP 	 1 	 Institute from
+18 	 17 	 N/N 	 1 	 Institute Massachusetts
+18 	 19 	 (NP\NP)/NP 	 1 	 Institute of
+20 	 19 	 (NP\NP)/NP 	 2 	 Technology of
+22 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 plans says
+23 	 22 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 develop to
+25 	 24 	 ((S[b]\NP)/PP)/NP 	 3 	 it develop
+26 	 24 	 ((S[b]\NP)/PP)/NP 	 2 	 for develop
+28 	 26 	 PP/NP 	 1 	 use for
+28 	 27 	 N/N 	 1 	 use commercial
+<\s>
+<s id="wsj_1677.48"> 30
+2 	 0 	 NP[nb]/N 	 1 	 project The
+2 	 1 	 N/N 	 1 	 project MIT
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 project devised
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 ways devised
+4 	 5 	 ((NP\NP)/(S[to]\NP))/NP 	 1 	 ways for
+6 	 5 	 ((NP\NP)/(S[to]\NP))/NP 	 3 	 E-mail for
+6 	 10 	 (S[pss]\NP)/PP 	 1 	 E-mail categorized <XB>
+7 	 5 	 ((NP\NP)/(S[to]\NP))/NP 	 2 	 to for
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 be automatically
+10 	 8 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 categorized be
+10 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 categorized if
+11 	 10 	 (S[pss]\NP)/PP 	 2 	 as categorized
+13 	 11 	 PP/NP 	 1 	 priority as
+13 	 12 	 N/N 	 1 	 priority top
+15 	 16 	 S[dcl]\NP 	 1 	 it comes
+15 	 22 	 (S[dcl]\NP)/NP 	 1 	 it requires <XU>
+16 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 comes if
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 comes from
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 senders from
+20 	 18 	 N/N 	 1 	 senders certain
+20 	 19 	 N/N 	 1 	 senders designated
+22 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 requires if
+22 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 requires in
+23 	 22 	 (S[dcl]\NP)/NP 	 2 	 action requires
+27 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 couple in
+27 	 25 	 NP[nb]/N 	 1 	 couple the
+27 	 26 	 N/N 	 1 	 couple next
+27 	 28 	 (NP\NP)/NP 	 1 	 couple of
+29 	 28 	 (NP\NP)/NP 	 2 	 days of
+<\s>
+<s id="wsj_1677.49"> 27
+1 	 0 	 N/N 	 1 	 Digate Mr.
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Digate says
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that says
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Beyond will
+4 	 6 	 (S[b]\NP)/NP 	 1 	 Beyond refine <XB>
+5 	 3 	 S[em]/S[dcl] 	 1 	 will that
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 refine will
+6 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 refine so
+8 	 6 	 (S[b]\NP)/NP 	 2 	 product refine
+8 	 7 	 NP[nb]/N 	 1 	 product the
+11 	 10 	 NP[nb]/N 	 1 	 message the
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 message will
+11 	 14 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 message smart <XB>
+12 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 will so
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+14 	 13 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 smart be
+14 	 15 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 smart enough
+16 	 14 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to smart
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 know to
+18 	 17 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to know
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 come to
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 come back
+22 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 bother to
+22 	 24 	 (S\NP)\(S\NP) 	 2 	 bother again
+22 	 26 	 (S\NP)\(S\NP) 	 2 	 bother week
+23 	 22 	 (S[b]\NP)/NP 	 2 	 you bother
+26 	 25 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week next
+<\s>
+<s id="wsj_1677.50"> 23
+3 	 2 	 NP[nb]/N 	 1 	 user a
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 user is
+3 	 5 	 S[adj]\NP 	 1 	 user busy <XB>
+4 	 1 	 (S/S)/S[dcl] 	 2 	 is if
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 busy is
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he can
+7 	 9 	 ((S[b]\NP)/PP)/NP 	 1 	 he set <XB>
+8 	 0 	 S/S 	 1 	 can And
+8 	 1 	 (S/S)/S[dcl] 	 1 	 can if
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 set can
+10 	 9 	 ((S[b]\NP)/PP)/NP 	 3 	 it set
+11 	 9 	 ((S[b]\NP)/PP)/NP 	 2 	 for set
+13 	 11 	 PP/NP 	 1 	 mode for
+13 	 12 	 N/N 	 1 	 mode crisis
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 mode :
+13 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 mode Do <XB>
+13 	 17 	 (S[b]\NP)/NP 	 1 	 mode bother <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 Do :
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 Do n't
+17 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 bother Do
+17 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 bother with
+17 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 bother until
+18 	 17 	 (S[b]\NP)/NP 	 2 	 me bother
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 reports with
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 Monday until
+<\s>
+<s id="wsj_1677.51"> 22
+1 	 0 	 NP[nb]/N 	 1 	 program A
+1 	 2 	 (S[pss]\NP)/NP 	 1 	 program called <XB>
+1 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 program which
+1 	 6 	 (S[dcl]\NP)/PP 	 1 	 program is <XB>
+1 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 program is
+1 	 14 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 program designed <XB>
+1 	 16 	 (S[b]\NP)/NP 	 1 	 program sort <XB>
+3 	 2 	 (S[pss]\NP)/NP 	 2 	 Notes called
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+7 	 6 	 (S[dcl]\NP)/PP 	 2 	 under is
+8 	 7 	 PP/NP 	 1 	 development under
+8 	 9 	 (NP\NP)/NP 	 1 	 development by
+10 	 9 	 (NP\NP)/NP 	 2 	 Lotus by
+13 	 12 	 (S\NP)/(S\NP) 	 2 	 is also
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 designed is
+15 	 14 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to designed
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sort to
+17 	 16 	 (S[b]\NP)/NP 	 2 	 E-mail sort
+17 	 18 	 S[pss]\NP 	 1 	 E-mail sent <XB>
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 sent within
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 groups within
+21 	 20 	 N/N 	 1 	 groups work
+<\s>
+<s id="wsj_1677.52"> 16
+1 	 0 	 N/N 	 1 	 thing One
+1 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 thing that
+1 	 3 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 thing makes <XB>
+1 	 9 	 (S[dcl]\NP)/S[em] 	 1 	 thing is
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 makes that
+4 	 3 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 E-mail makes
+4 	 5 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 1 	 E-mail difficult <XB>
+4 	 8 	 PP/NP 	 1 	 E-mail through <XU>
+5 	 3 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 difficult makes
+6 	 5 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 2 	 to difficult
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sift to
+8 	 7 	 (S[b]\NP)/PP 	 2 	 through sift
+10 	 9 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+12 	 11 	 NP[nb]/N 	 1 	 item each
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 item looks
+13 	 10 	 S[em]/S[dcl] 	 1 	 looks that
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 same looks
+15 	 14 	 NP[nb]/N 	 1 	 same the
+<\s>
+<s id="wsj_1677.53"> 22
+0 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Notes which
+0 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Notes is <XB>
+0 	 4 	 (S[pss]\NP)/PP 	 1 	 Notes designed <XB>
+0 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Notes allows
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 designed is
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 for designed
+7 	 5 	 PP/NP 	 1 	 computers for
+7 	 6 	 N/N 	 1 	 computers advanced
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 computers that
+7 	 9 	 (S[dcl]\NP)/NP 	 1 	 computers display <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 display that
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 graphics display
+14 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 senders allows
+14 	 13 	 N/N 	 1 	 senders mail
+14 	 16 	 ((S[b]\NP)/PP)/NP 	 1 	 senders put <XB>
+15 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to allows
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 put to
+18 	 16 	 ((S[b]\NP)/PP)/NP 	 3 	 logos put
+18 	 17 	 N/N 	 1 	 logos different
+19 	 16 	 ((S[b]\NP)/PP)/NP 	 2 	 on put
+21 	 19 	 PP/NP 	 1 	 mail on
+21 	 20 	 NP[nb]/N 	 1 	 mail their
+<\s>
+<s id="wsj_1677.54"> 28
+3 	 0 	 NP[nb]/N 	 1 	 briefing A
+3 	 1 	 N/N 	 1 	 briefing daily
+3 	 2 	 N/N 	 1 	 briefing news
+3 	 4 	 (NP\NP)/NP 	 1 	 briefing from
+3 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 briefing would
+3 	 13 	 (S[b]\NP)/NP 	 1 	 briefing have <XB>
+7 	 4 	 (NP\NP)/NP 	 2 	 librarian from
+7 	 5 	 NP[nb]/N 	 1 	 librarian the
+7 	 6 	 N/N 	 1 	 librarian company
+10 	 9 	 ((S\NP)/(S\NP))/NP 	 3 	 example for
+12 	 9 	 ((S\NP)/(S\NP))/NP 	 2 	 would for
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+13 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 have as
+16 	 13 	 (S[b]\NP)/NP 	 2 	 format have
+16 	 14 	 NP[nb]/N 	 1 	 format a
+16 	 15 	 N/N 	 1 	 format distinctive
+16 	 17 	 (NP\NP)/NP 	 1 	 format on
+19 	 17 	 (NP\NP)/NP 	 2 	 screen on
+19 	 18 	 NP[nb]/N 	 1 	 screen the
+22 	 21 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 as just
+25 	 23 	 NP[nb]/N 	 1 	 version a
+25 	 24 	 N/N 	 1 	 version paper
+25 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 version would
+25 	 27 	 S[b]\NP 	 1 	 version have <XB>
+26 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 would as
+27 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+<\s>
+<s id="wsj_1677.55"> 21
+1 	 0 	 (S/S)/NP 	 2 	 E-mail With
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you do
+3 	 6 	 (S[b]\NP)/NP 	 1 	 you have <XB>
+4 	 0 	 (S/S)/NP 	 1 	 do With
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 do n't
+4 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 do says
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have do
+9 	 6 	 (S[b]\NP)/NP 	 2 	 clues have
+9 	 7 	 NP[nb]/N 	 1 	 clues the
+9 	 8 	 N/N 	 1 	 clues visual
+9 	 10 	 (NP\NP)/NP 	 1 	 clues of
+11 	 10 	 (NP\NP)/NP 	 2 	 paper of
+15 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 Tarter says
+15 	 14 	 N/N 	 1 	 Tarter Mr.
+18 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 editor says
+18 	 17 	 NP[nb]/N 	 1 	 editor the
+18 	 19 	 (NP\NP)/NP 	 1 	 editor of
+20 	 19 	 (NP\NP)/NP 	 2 	 SoftLetter of
+<\s>
+<s id="wsj_1677.56"> 7
+1 	 0 	 (S/S)/NP 	 2 	 Notes With
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they 're
+3 	 6 	 S[adj]\NP 	 1 	 they distinct <XB>
+4 	 0 	 (S/S)/NP 	 1 	 're With
+6 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 distinct 're
+6 	 5 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 distinct visually
+<\s>

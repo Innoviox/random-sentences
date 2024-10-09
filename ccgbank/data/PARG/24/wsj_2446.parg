@@ -1,0 +1,978 @@
+<s id="wsj_2446.1"> 36
+1 	 0 	 N/N 	 1 	 Cause Common
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Cause asked
+7 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Committee asked
+7 	 3 	 NP/NP 	 1 	 Committee both
+7 	 4 	 N/N 	 1 	 Committee the
+7 	 5 	 N/N 	 1 	 Committee Senate
+7 	 6 	 N/N 	 1 	 Committee Ethics
+7 	 13 	 (S[b]\NP)/NP 	 1 	 Committee investigate <XB>
+11 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Department asked
+11 	 3 	 NP/NP 	 1 	 Department both
+11 	 9 	 N/N 	 1 	 Department the
+11 	 10 	 N/N 	 1 	 Department Justice
+11 	 13 	 (S[b]\NP)/NP 	 1 	 Department investigate <XB>
+12 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to asked
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 investigate to
+14 	 13 	 (S[b]\NP)/NP 	 2 	 $ investigate
+14 	 17 	 (NP\NP)/NP 	 1 	 $ in
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 1
+19 	 17 	 (NP\NP)/NP 	 2 	 gifts in
+19 	 18 	 N/N 	 1 	 gifts political
+19 	 20 	 (NP\NP)/NP 	 1 	 gifts by
+19 	 25 	 (NP\NP)/NP 	 1 	 gifts to
+24 	 20 	 (NP\NP)/NP 	 2 	 Keating by
+24 	 21 	 N/N 	 1 	 Keating Arizona
+24 	 22 	 N/N 	 1 	 Keating businessman
+24 	 23 	 N/N 	 1 	 Keating Charles
+28 	 25 	 (NP\NP)/NP 	 2 	 senators to
+28 	 26 	 N/N 	 1 	 senators five
+28 	 27 	 N/N 	 1 	 senators U.S.
+28 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 senators who
+28 	 30 	 ((S[dcl]\NP)/PP)/PP 	 1 	 senators interceded <XB>
+30 	 29 	 (NP\NP)/(S[dcl]\NP) 	 2 	 interceded who
+31 	 30 	 ((S[dcl]\NP)/PP)/PP 	 3 	 with interceded
+33 	 31 	 PP/NP 	 1 	 regulators with
+33 	 32 	 N/N 	 1 	 regulators thrift-industry
+34 	 30 	 ((S[dcl]\NP)/PP)/PP 	 2 	 for interceded
+35 	 34 	 PP/NP 	 1 	 him for
+<\s>
+<s id="wsj_2446.2"> 38
+1 	 0 	 N/N 	 1 	 Keating Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Keating is
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 is currently
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 subject is
+5 	 4 	 NP[nb]/N 	 1 	 subject the
+5 	 6 	 (NP\NP)/NP 	 1 	 subject of
+10 	 8 	 (N/N)/N[num] 	 2 	 billion $
+10 	 9 	 N/N 	 1 	 billion 1.1
+13 	 6 	 (NP\NP)/NP 	 2 	 lawsuit of
+13 	 7 	 NP[nb]/N 	 1 	 lawsuit a
+13 	 8 	 (N/N)/N[num] 	 1 	 lawsuit $
+13 	 11 	 N/N 	 1 	 lawsuit federal
+13 	 12 	 N/N 	 1 	 lawsuit anti-racketeering
+13 	 14 	 ((S[ng]\NP)/PP)/NP 	 1 	 lawsuit accusing <XB>
+15 	 14 	 ((S[ng]\NP)/PP)/NP 	 3 	 him accusing
+16 	 14 	 ((S[ng]\NP)/PP)/NP 	 2 	 of accusing
+17 	 16 	 PP/(S[ng]\NP) 	 1 	 bleeding of
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 bleeding off
+19 	 17 	 (S[ng]\NP)/NP 	 2 	 assets bleeding
+19 	 20 	 (NP\NP)/NP 	 1 	 assets of
+23 	 20 	 (NP\NP)/NP 	 2 	 thrift of
+23 	 21 	 NP[nb]/N 	 1 	 thrift a
+23 	 22 	 N/N 	 1 	 thrift California
+23 	 25 	 (S[dcl]\NP)/NP 	 2 	 thrift controlled <XU>
+24 	 25 	 (S[dcl]\NP)/NP 	 1 	 he controlled
+31 	 20 	 (NP\NP)/NP 	 2 	 Association of
+31 	 27 	 N/N 	 1 	 Association Lincoln
+31 	 28 	 N/N 	 1 	 Association Savings
+31 	 29 	 N/N 	 1 	 Association &
+31 	 30 	 N/N 	 1 	 Association Loan
+34 	 16 	 PP/(S[ng]\NP) 	 1 	 driving of
+34 	 36 	 ((S\NP)\(S\NP))/NP 	 2 	 driving into
+35 	 34 	 (S[ng]\NP)/NP 	 2 	 it driving
+37 	 36 	 ((S\NP)\(S\NP))/NP 	 3 	 insolvency into
+<\s>
+<s id="wsj_2446.4"> 45
+1 	 0 	 N/N 	 1 	 Wertheimer Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Wertheimer based
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 based on
+2 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 based :
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 this based
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 statement on
+6 	 5 	 NP[nb]/N 	 1 	 statement a
+6 	 7 	 (NP\NP)/NP 	 1 	 statement by
+6 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 statement that
+6 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 statement was <XB>
+6 	 12 	 S[pss]\NP 	 1 	 statement quoted <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 Keating by
+9 	 8 	 N/N 	 1 	 Keating Mr.
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was that
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 quoted was
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 quoted in
+12 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 quoted in
+18 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 story in
+18 	 14 	 NP[nb]/N 	 1 	 story a
+18 	 15 	 N/N 	 1 	 story Wall
+18 	 16 	 N/N 	 1 	 story Street
+18 	 17 	 N/N 	 1 	 story Journal
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 April in
+23 	 22 	 N/N 	 1 	 question One
+23 	 25 	 ((S[dcl]\NP)/PP)/(S[to]\NP) 	 1 	 question had
+23 	 27 	 S[b]\NP 	 1 	 question do <XB>
+25 	 21 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 had :
+26 	 25 	 ((S[dcl]\NP)/PP)/(S[to]\NP) 	 3 	 to had
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+28 	 25 	 ((S[dcl]\NP)/PP)/(S[to]\NP) 	 2 	 with had
+29 	 28 	 PP/S[qem] 	 1 	 whether with
+32 	 30 	 NP[nb]/N 	 1 	 support my
+32 	 31 	 N/N 	 1 	 support financial
+32 	 36 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 support influenced
+35 	 33 	 ((S\NP)/(S\NP))/NP 	 3 	 way in
+35 	 34 	 NP[nb]/N 	 1 	 way any
+36 	 29 	 S[qem]/S[dcl] 	 1 	 influenced whether
+36 	 33 	 ((S\NP)/(S\NP))/NP 	 2 	 influenced in
+39 	 36 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 figures influenced
+39 	 37 	 N/N 	 1 	 figures several
+39 	 38 	 N/N 	 1 	 figures political
+39 	 41 	 (S[b]\NP)/NP 	 1 	 figures take <XB>
+40 	 36 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to influenced
+41 	 40 	 (S[to]\NP)/(S[b]\NP) 	 2 	 take to
+41 	 42 	 (S\NP)\(S\NP) 	 2 	 take up
+44 	 41 	 (S[b]\NP)/NP 	 2 	 cause take
+44 	 43 	 NP[nb]/N 	 1 	 cause my
+<\s>
+<s id="wsj_2446.5"> 16
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 I want
+0 	 3 	 (S[b]\NP)/S[dcl] 	 1 	 I say <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to want
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 say to
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 say in
+7 	 6 	 (N/N)/(N/N) 	 2 	 forceful most
+8 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 way in
+8 	 5 	 NP[nb]/N 	 1 	 way the
+8 	 7 	 N/N 	 1 	 way forceful
+9 	 10 	 S[dcl]\NP 	 1 	 I can
+12 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 I hope
+12 	 15 	 S[adj]\NP 	 1 	 I so <XB>
+14 	 3 	 (S[b]\NP)/S[dcl] 	 2 	 hope say
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 hope certainly
+15 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 so hope
+<\s>
+<s id="wsj_2446.6"> 25
+3 	 2 	 (N/N)/(N/N) 	 2 	 unusual highly
+4 	 0 	 (S/S)/NP 	 2 	 meeting In
+4 	 1 	 NP[nb]/N 	 1 	 meeting a
+4 	 3 	 N/N 	 1 	 meeting unusual
+4 	 5 	 (NP\NP)/NP 	 1 	 meeting in
+4 	 10 	 (NP\NP)/NP 	 1 	 meeting in
+7 	 6 	 N/N 	 1 	 DeConcini Sen.
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 DeConcini 's
+9 	 5 	 (NP\NP)/NP 	 2 	 office in
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 office 's
+11 	 10 	 (NP\NP)/NP 	 2 	 April in
+11 	 12 	 N\N 	 1 	 April 1987
+16 	 14 	 NP[nb]/N 	 1 	 senators the
+16 	 15 	 N/N 	 1 	 senators five
+16 	 17 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 senators asked
+17 	 0 	 (S/S)/NP 	 1 	 asked In
+19 	 17 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 regulators asked
+19 	 18 	 N/N 	 1 	 regulators federal
+19 	 21 	 S[b]\NP 	 1 	 regulators ease <XB>
+20 	 17 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to asked
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 ease to
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 ease up
+21 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 ease on
+24 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 Lincoln on
+<\s>
+<s id="wsj_2446.7"> 32
+1 	 0 	 (S/S)/PP 	 2 	 to According
+2 	 1 	 PP/NP 	 1 	 notes to
+2 	 3 	 S[pss]\NP 	 1 	 notes taken <XB>
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 taken by
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 one by
+5 	 6 	 (NP\NP)/NP 	 1 	 one of
+8 	 6 	 (NP\NP)/NP 	 2 	 participants of
+8 	 7 	 NP[nb]/N 	 1 	 participants the
+8 	 9 	 (NP\NP)/NP 	 1 	 participants at
+11 	 9 	 (NP\NP)/NP 	 2 	 meeting at
+11 	 10 	 NP[nb]/N 	 1 	 meeting the
+14 	 13 	 NP[nb]/N 	 1 	 regulators the
+14 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 regulators said
+15 	 0 	 (S/S)/PP 	 1 	 said According
+16 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Lincoln was
+16 	 18 	 (S[ng]\NP)/PP 	 1 	 Lincoln gambling <XB>
+16 	 27 	 (S[dcl]\NP)/NP 	 1 	 Lincoln was <XU>
+17 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+18 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 gambling was
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 gambling dangerously
+20 	 18 	 (S[ng]\NP)/PP 	 2 	 with gambling
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 depositors '
+24 	 23 	 (N/N)/(N/N) 	 2 	 insured federally
+25 	 20 	 PP/NP 	 1 	 money with
+25 	 22 	 (NP[nb]/N)\NP 	 1 	 money '
+25 	 24 	 N/N 	 1 	 money insured
+27 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+31 	 27 	 (S[dcl]\NP)/NP 	 2 	 bomb was
+31 	 28 	 NP[nb]/N 	 1 	 bomb a
+31 	 29 	 N/N 	 1 	 bomb ticking
+31 	 30 	 N/N 	 1 	 bomb time
+<\s>
+<s id="wsj_2446.8"> 11
+1 	 0 	 N/N 	 1 	 Keating Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Keating had
+1 	 3 	 (S[pt]\NP)/S[em] 	 1 	 Keating complained <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 complained had
+4 	 3 	 (S[pt]\NP)/S[em] 	 2 	 that complained
+6 	 5 	 NP[nb]/N 	 1 	 regulators the
+6 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 regulators were
+6 	 8 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 regulators being <XB>
+6 	 10 	 S[adj]\NP 	 1 	 regulators zealous <XB>
+7 	 4 	 S[em]/S[dcl] 	 1 	 were that
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being were
+10 	 8 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 zealous being
+10 	 9 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 zealous too
+<\s>
+<s id="wsj_2446.9"> 32
+1 	 0 	 NP[nb]/N 	 1 	 notes The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 notes show
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that show
+5 	 4 	 N/N 	 1 	 DeConcini Sen.
+5 	 6 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 DeConcini called
+6 	 3 	 S[em]/S[dcl] 	 1 	 called that
+12 	 7 	 NP[nb]/N 	 1 	 Board the
+12 	 8 	 N/N 	 1 	 Board Federal
+12 	 9 	 N/N 	 1 	 Board Home
+12 	 10 	 N/N 	 1 	 Board Loan
+12 	 11 	 N/N 	 1 	 Board Bank
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Board 's
+14 	 6 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 regulations called
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 regulations 's
+14 	 16 	 S[adj]\NP 	 1 	 regulations unfair <XB>
+16 	 6 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 unfair called
+16 	 15 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 unfair grossly
+19 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that show
+21 	 20 	 N/N 	 1 	 Glenn Sen.
+21 	 22 	 (S[dcl]\NP)/S[em] 	 1 	 Glenn insisted
+22 	 19 	 S[em]/S[dcl] 	 1 	 insisted that
+23 	 22 	 (S[dcl]\NP)/S[em] 	 2 	 that insisted
+25 	 24 	 N/N 	 1 	 Keating Mr.
+25 	 26 	 (NP[nb]/N)\NP 	 2 	 Keating 's
+27 	 26 	 (NP[nb]/N)\NP 	 1 	 thrift 's
+27 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 thrift was
+27 	 29 	 S[adj]\NP 	 1 	 thrift viable <XB>
+27 	 31 	 S[adj]\NP 	 1 	 thrift profitable <XU>
+28 	 23 	 S[em]/S[dcl] 	 1 	 was that
+29 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 viable was
+31 	 28 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 profitable was
+<\s>
+<s id="wsj_2446.10"> 43
+4 	 0 	 (S/S)/NP 	 2 	 years For
+4 	 1 	 NP[nb]/N 	 1 	 years the
+4 	 2 	 N/N 	 1 	 years next
+4 	 3 	 N/N 	 1 	 years two
+8 	 6 	 NP[nb]/N 	 1 	 Board the
+8 	 7 	 N/N 	 1 	 Board Bank
+8 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Board which
+8 	 14 	 (S[dcl]\NP)/NP 	 1 	 Board was <XB>
+8 	 22 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Board failed
+8 	 24 	 S[b]\NP 	 1 	 Board act <XB>
+13 	 11 	 ((S\NP)/(S\NP))/NP 	 3 	 time at
+13 	 12 	 NP[nb]/N 	 1 	 time the
+14 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was which
+14 	 11 	 ((S\NP)/(S\NP))/NP 	 2 	 was at
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 agency was
+16 	 15 	 NP[nb]/N 	 1 	 agency the
+16 	 17 	 S[adj]\NP 	 1 	 agency responsible <XB>
+17 	 18 	 ((S[adj]\NP)\(S[adj]\NP))/(S[ng]\NP) 	 2 	 responsible for
+19 	 18 	 ((S[adj]\NP)\(S[adj]\NP))/(S[ng]\NP) 	 3 	 regulating for
+20 	 19 	 (S[ng]\NP)/NP 	 2 	 thrifts regulating
+22 	 0 	 (S/S)/NP 	 1 	 failed For
+22 	 25 	 ((S\NP)\(S\NP))/S 	 2 	 failed --
+23 	 22 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to failed
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 act to
+27 	 25 	 ((S\NP)\(S\NP))/S 	 3 	 after --
+27 	 26 	 S/S 	 1 	 after even
+29 	 28 	 N/N 	 1 	 auditors federal
+29 	 30 	 (S[dcl]\NP)/S[em] 	 1 	 auditors warned
+30 	 27 	 S/S[dcl] 	 1 	 warned after
+30 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 warned in
+32 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 May in
+32 	 33 	 N\N 	 1 	 May 1987
+34 	 30 	 (S[dcl]\NP)/S[em] 	 2 	 that warned
+36 	 35 	 N/N 	 1 	 Keating Mr.
+36 	 37 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Keating had
+36 	 38 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 1 	 Keating caused <XB>
+37 	 34 	 S[em]/S[dcl] 	 1 	 had that
+38 	 37 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 caused had
+39 	 38 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 3 	 Lincoln caused
+39 	 41 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 Lincoln become <XB>
+39 	 42 	 S[adj]\NP 	 1 	 Lincoln insolvent <XB>
+40 	 38 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 2 	 to caused
+41 	 40 	 (S[to]\NP)/(S[b]\NP) 	 2 	 become to
+42 	 41 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 insolvent become
+<\s>
+<s id="wsj_2446.11"> 24
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Lincoln 's
+3 	 1 	 (NP[nb]/N)\NP 	 1 	 company 's
+3 	 2 	 N/N 	 1 	 company parent
+3 	 9 	 (S[dcl]\NP)/NP 	 1 	 company entered
+7 	 5 	 N/N 	 1 	 Corp. American
+7 	 6 	 N/N 	 1 	 Corp. Continental
+7 	 9 	 (S[dcl]\NP)/NP 	 1 	 Corp. entered
+9 	 12 	 ((S\NP)\(S\NP))/N 	 2 	 entered this
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 proceedings entered
+11 	 10 	 N/N 	 1 	 proceedings bankruptcy-law
+13 	 12 	 ((S\NP)\(S\NP))/N 	 3 	 April this
+13 	 14 	 N\N 	 1 	 April 13
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 regulators seized
+18 	 21 	 ((S\NP)\(S\NP))/N 	 2 	 seized the
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 thrift seized
+20 	 19 	 NP[nb]/N 	 1 	 thrift the
+23 	 21 	 ((S\NP)\(S\NP))/N 	 3 	 day the
+23 	 22 	 N/N 	 1 	 day next
+<\s>
+<s id="wsj_2446.12"> 24
+2 	 1 	 (N/N)/(N/N) 	 2 	 formed newly
+5 	 0 	 NP[nb]/N 	 1 	 Corp. The
+5 	 2 	 N/N 	 1 	 Corp. formed
+5 	 3 	 N/N 	 1 	 Corp. Resolution
+5 	 4 	 N/N 	 1 	 Corp. Trust
+5 	 13 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Corp. filed
+7 	 8 	 (NP\NP)/NP 	 1 	 successor to
+7 	 13 	 ((S[dcl]\NP)/PP)/NP 	 1 	 successor filed
+11 	 8 	 (NP\NP)/NP 	 2 	 Board to
+11 	 9 	 NP[nb]/N 	 1 	 Board the
+11 	 10 	 N/N 	 1 	 Board Bank
+13 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 filed on
+14 	 13 	 ((S[dcl]\NP)/PP)/NP 	 3 	 suit filed
+15 	 13 	 ((S[dcl]\NP)/PP)/NP 	 2 	 against filed
+17 	 15 	 PP/NP 	 1 	 Keating against
+17 	 16 	 N/N 	 1 	 Keating Mr.
+20 	 15 	 PP/NP 	 1 	 others against
+20 	 19 	 N/N 	 1 	 others several
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 Sept. on
+23 	 22 	 N/N[num] 	 1 	 15 Sept.
+<\s>
+<s id="wsj_2446.13"> 15
+1 	 0 	 N/N 	 1 	 Keating Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Keating has
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 Keating filed <XB>
+1 	 8 	 (S[ng]\NP)/S[em] 	 1 	 Keating alleging <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 filed has
+6 	 3 	 (S[pt]\NP)/NP 	 2 	 suit filed
+6 	 4 	 NP[nb]/N 	 1 	 suit his
+6 	 5 	 N/N 	 1 	 suit own
+9 	 8 	 (S[ng]\NP)/S[em] 	 2 	 that alleging
+11 	 10 	 NP[nb]/N 	 1 	 property his
+11 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 property was
+11 	 13 	 S[pss]\NP 	 1 	 property taken <XB>
+12 	 9 	 S[em]/S[dcl] 	 1 	 was that
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 taken was
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 taken illegally
+<\s>
+<s id="wsj_2446.14"> 18
+1 	 0 	 NP[nb]/N 	 1 	 cost The
+1 	 2 	 (NP\NP)/NP 	 1 	 cost to
+1 	 4 	 (NP\NP)/NP 	 1 	 cost of
+1 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 cost has
+1 	 10 	 (S[pss]\NP)/PP 	 1 	 cost estimated <XB>
+3 	 2 	 (NP\NP)/NP 	 2 	 taxpayers to
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Lincoln 's
+7 	 4 	 (NP\NP)/NP 	 2 	 collapse of
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 collapse 's
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+10 	 9 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 estimated been
+11 	 10 	 (S[pss]\NP)/PP 	 2 	 at estimated
+13 	 11 	 PP/NP 	 1 	 much at
+13 	 12 	 N/N 	 1 	 much as
+13 	 14 	 (NP\NP)/NP 	 1 	 much as
+15 	 14 	 (NP\NP)/NP 	 2 	 $ as
+17 	 15 	 N/N[num] 	 1 	 billion $
+17 	 16 	 N/N 	 1 	 billion 2.5
+<\s>
+<s id="wsj_2446.15"> 23
+0 	 1 	 (NP\NP)/NP 	 1 	 Details of
+0 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Details have
+0 	 5 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 Details become <XB>
+0 	 6 	 S[adj]\NP 	 1 	 Details public <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 affair of
+3 	 2 	 NP[nb]/N 	 1 	 affair the
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 become have
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 become gradually
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 become over
+5 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 become as
+6 	 5 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 public become
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 years over
+12 	 9 	 NP[nb]/N 	 1 	 years the
+12 	 10 	 N/N 	 1 	 years past
+12 	 11 	 N/N 	 1 	 years two
+15 	 14 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 as mostly
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 result as
+17 	 16 	 NP[nb]/N 	 1 	 result a
+17 	 18 	 (NP\NP)/NP 	 1 	 result of
+19 	 18 	 (NP\NP)/NP 	 2 	 reporting of
+19 	 20 	 (NP\NP)/NP 	 1 	 reporting by
+22 	 20 	 (NP\NP)/NP 	 2 	 newspapers by
+22 	 21 	 N/N 	 1 	 newspapers several
+<\s>
+<s id="wsj_2446.16"> 46
+2 	 0 	 (S/S)/NP 	 2 	 midst In
+2 	 1 	 NP[nb]/N 	 1 	 midst the
+2 	 3 	 (NP\NP)/NP 	 1 	 midst of
+7 	 3 	 (NP\NP)/NP 	 2 	 campaign of
+7 	 4 	 NP[nb]/N 	 1 	 campaign his
+7 	 5 	 N/N 	 1 	 campaign 1988
+7 	 6 	 N/N 	 1 	 campaign re-election
+10 	 9 	 N/N 	 1 	 Riegle Sen.
+10 	 19 	 (S[dcl]\NP)/NP 	 1 	 Riegle returned
+12 	 13 	 (NP\NP)/NP 	 1 	 chairman of
+12 	 19 	 (S[dcl]\NP)/NP 	 1 	 chairman returned
+17 	 13 	 (NP\NP)/NP 	 2 	 Committee of
+17 	 14 	 NP[nb]/N 	 1 	 Committee the
+17 	 15 	 N/N 	 1 	 Committee Senate
+17 	 16 	 N/N 	 1 	 Committee Banking
+19 	 0 	 (S/S)/NP 	 1 	 returned In
+19 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 returned after
+20 	 19 	 (S[dcl]\NP)/NP 	 2 	 $ returned
+20 	 22 	 (NP\NP)/NP 	 1 	 $ in
+21 	 20 	 N/N[num] 	 1 	 76,000 $
+23 	 22 	 (NP\NP)/NP 	 2 	 contributions in
+27 	 25 	 NP[nb]/N 	 1 	 newspaper a
+27 	 26 	 N/N 	 1 	 newspaper Detroit
+27 	 28 	 (S[dcl]\NP)/S[em] 	 1 	 newspaper said
+28 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 said after
+29 	 28 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+31 	 30 	 N/N 	 1 	 Keating Mr.
+31 	 32 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Keating had
+31 	 33 	 (S[pt]\NP)/NP 	 1 	 Keating gathered <XB>
+32 	 29 	 S[em]/S[dcl] 	 1 	 had that
+33 	 32 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 gathered had
+33 	 36 	 ((S\NP)\(S\NP))/NP 	 2 	 gathered for
+33 	 41 	 (((S\NP)\(S\NP))\NP)/NP 	 2 	 gathered before
+35 	 33 	 (S[pt]\NP)/NP 	 2 	 money gathered
+35 	 34 	 NP[nb]/N 	 1 	 money the
+37 	 36 	 ((S\NP)\(S\NP))/NP 	 3 	 him for
+40 	 38 	 N/N 	 1 	 weeks about
+40 	 39 	 N/N 	 1 	 weeks two
+40 	 41 	 (((S\NP)\(S\NP))\NP)/NP 	 3 	 weeks before
+43 	 41 	 (((S\NP)\(S\NP))\NP)/NP 	 4 	 meeting before
+43 	 42 	 NP[nb]/N 	 1 	 meeting the
+43 	 44 	 (NP\NP)/NP 	 1 	 meeting with
+45 	 44 	 (NP\NP)/NP 	 2 	 regulators with
+<\s>
+<s id="wsj_2446.17"> 30
+1 	 0 	 N/N 	 1 	 DeConcini Sen.
+1 	 12 	 (S[dcl]\NP)/NP 	 1 	 DeConcini returned
+4 	 3 	 ((S\NP)/(S\NP))/NP 	 3 	 months after
+4 	 5 	 (NP\NP)/(S[ng]\NP) 	 1 	 months of
+6 	 5 	 (NP\NP)/(S[ng]\NP) 	 2 	 fending of
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 fending off
+10 	 6 	 (S[ng]\NP)/NP 	 2 	 criticism fending
+10 	 8 	 N/N 	 1 	 criticism intense
+10 	 9 	 N/N 	 1 	 criticism press
+12 	 3 	 ((S\NP)/(S\NP))/NP 	 2 	 returned after
+12 	 17 	 (S\NP)\(S\NP) 	 2 	 returned month
+12 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 returned after
+13 	 12 	 (S[dcl]\NP)/NP 	 2 	 $ returned
+14 	 13 	 N/N[num] 	 1 	 48,000 $
+17 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month only
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month last
+20 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 after shortly
+22 	 21 	 NP[nb]/N 	 1 	 government the
+22 	 24 	 ((S[dcl]\NP)/PP)/NP 	 1 	 government accused
+24 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 accused after
+24 	 23 	 (S\NP)/(S\NP) 	 2 	 accused formally
+26 	 24 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Keating accused
+26 	 25 	 N/N 	 1 	 Keating Mr.
+27 	 24 	 ((S[dcl]\NP)/PP)/NP 	 2 	 of accused
+28 	 27 	 PP/NP 	 1 	 defrauding of
+29 	 28 	 N/NP 	 1 	 Lincoln defrauding
+<\s>
+<s id="wsj_2446.18"> 48
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+4 	 3 	 N/N 	 1 	 McCain Sen.
+4 	 7 	 (S[dcl]\NP)/S[em] 	 1 	 McCain disclosed
+6 	 5 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 week last
+7 	 0 	 (S/S)/NP 	 1 	 disclosed In
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 disclosed week
+8 	 7 	 (S[dcl]\NP)/S[em] 	 2 	 that disclosed
+9 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he had
+9 	 12 	 (((S[pt]\NP)/PP)/PP)/NP 	 1 	 he paid <XB>
+11 	 8 	 S[em]/S[dcl] 	 1 	 had that
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 had belatedly
+12 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 paid had
+13 	 12 	 (((S[pt]\NP)/PP)/PP)/NP 	 4 	 $ paid
+14 	 13 	 N/N[num] 	 1 	 13,433 $
+15 	 12 	 (((S[pt]\NP)/PP)/PP)/NP 	 3 	 to paid
+17 	 15 	 PP/NP 	 1 	 Continental to
+17 	 16 	 N/N 	 1 	 Continental American
+18 	 12 	 (((S[pt]\NP)/PP)/PP)/NP 	 2 	 as paid
+19 	 18 	 PP/NP 	 1 	 reimbursement as
+19 	 20 	 (NP\NP)/NP 	 1 	 reimbursement for
+21 	 20 	 (NP\NP)/NP 	 2 	 trips for
+21 	 26 	 (S[dcl]\NP)/NP 	 2 	 trips took <XU>
+22 	 26 	 (S[dcl]\NP)/NP 	 1 	 he took
+25 	 24 	 NP[nb]/N 	 1 	 family his
+25 	 26 	 (S[dcl]\NP)/NP 	 1 	 family took
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 took aboard
+26 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 took to
+26 	 46 	 ((S\NP)\(S\NP))/NP 	 2 	 took through
+30 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 jet aboard
+30 	 28 	 NP[nb]/N 	 1 	 jet the
+30 	 29 	 N/N 	 1 	 jet corporate
+33 	 32 	 N/N 	 1 	 Keating Mr.
+33 	 34 	 (NP[nb]/N)\NP 	 2 	 Keating 's
+36 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 home to
+36 	 34 	 (NP[nb]/N)\NP 	 1 	 home 's
+36 	 35 	 N/N 	 1 	 home vacation
+36 	 37 	 (NP\NP)/NP 	 1 	 home at
+39 	 37 	 (NP\NP)/NP 	 2 	 Cay at
+39 	 38 	 N/N 	 1 	 Cay Cat
+42 	 37 	 (NP\NP)/NP 	 2 	 Bahamas at
+42 	 41 	 NP[nb]/N 	 1 	 Bahamas the
+45 	 44 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 1984 from
+46 	 44 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 through from
+47 	 46 	 ((S\NP)\(S\NP))/NP 	 3 	 1986 through
+<\s>
+<s id="wsj_2446.19"> 22
+1 	 0 	 N/N 	 1 	 McCain Sen.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 McCain said
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he had
+3 	 5 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 he meant <XB>
+3 	 7 	 (S[b]\NP)/PP 	 1 	 he pay <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 meant had
+6 	 5 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to meant
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+7 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 pay at
+8 	 7 	 (S[b]\NP)/PP 	 2 	 for pay
+10 	 8 	 PP/NP 	 1 	 trips for
+10 	 9 	 NP[nb]/N 	 1 	 trips the
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 time at
+13 	 12 	 NP[nb]/N 	 1 	 time the
+15 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 that said
+17 	 16 	 NP[nb]/N 	 1 	 matter the
+17 	 18 	 S[dcl]\NP 	 1 	 matter fell
+18 	 15 	 S[em]/S[dcl] 	 1 	 fell that
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 fell between
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 cracks between
+21 	 20 	 NP[nb]/N 	 1 	 cracks the
+<\s>
+<s id="wsj_2446.20"> 26
+1 	 0 	 N/N 	 1 	 Keating Mr.
+1 	 9 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Keating donated
+5 	 3 	 NP[nb]/N 	 1 	 members his
+5 	 4 	 N/N 	 1 	 members family
+5 	 9 	 ((S[dcl]\NP)/PP)/NP 	 1 	 members donated
+7 	 9 	 ((S[dcl]\NP)/PP)/NP 	 1 	 associates donated
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 donated also
+9 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 donated over
+9 	 22 	 ((S\NP)\(S\NP))/PP 	 2 	 donated according
+10 	 9 	 ((S[dcl]\NP)/PP)/NP 	 3 	 $ donated
+11 	 10 	 N/N[num] 	 1 	 112,000 $
+12 	 9 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to donated
+14 	 13 	 N/N 	 1 	 McCain Sen.
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 McCain 's
+17 	 12 	 PP/NP 	 1 	 campaigns to
+17 	 15 	 (NP[nb]/N)\NP 	 1 	 campaigns 's
+17 	 16 	 N/N 	 1 	 campaigns congressional
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 years over
+20 	 19 	 NP[nb]/N 	 1 	 years the
+23 	 22 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+25 	 23 	 PP/NP 	 1 	 accounts to
+25 	 24 	 N/N 	 1 	 accounts press
+<\s>
+<s id="wsj_2446.21"> 31
+2 	 1 	 N/N 	 1 	 McCain Sen.
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 McCain says
+3 	 0 	 S/S 	 1 	 says But
+5 	 4 	 N/N 	 1 	 Keating Mr.
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Keating broke
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 broke says
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 broke off
+6 	 10 	 (S\NP)\(S\NP) 	 2 	 broke abruptly
+6 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 broke in
+6 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 broke because
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 friendship broke
+9 	 8 	 NP[nb]/N 	 1 	 friendship their
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 1987 in
+16 	 15 	 NP[nb]/N 	 1 	 senator the
+16 	 17 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 senator refused
+16 	 19 	 (S[b]\NP)/NP 	 1 	 senator press <XB>
+17 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 refused because
+18 	 17 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to refused
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 press to
+19 	 26 	 (S\NP)\(S\NP) 	 2 	 press vigorously
+22 	 20 	 NP[nb]/N 	 1 	 executive the
+22 	 21 	 N/N 	 1 	 executive thrift
+22 	 23 	 (NP[nb]/N)\NP 	 2 	 executive 's
+24 	 19 	 (S[b]\NP)/NP 	 2 	 case press
+24 	 23 	 (NP[nb]/N)\NP 	 1 	 case 's
+26 	 25 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 vigorously as
+26 	 27 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 3 	 vigorously as
+29 	 28 	 N/N 	 1 	 Keating Mr.
+29 	 30 	 S[dcl]\NP 	 1 	 Keating wanted
+30 	 27 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 4 	 wanted as
+<\s>
+<s id="wsj_2446.22"> 25
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 He became
+0 	 3 	 (S[adj]\NP)/PP 	 1 	 He angry <XB>
+0 	 7 	 (S[dcl]\NP)/NP 	 1 	 He left <XU>
+0 	 11 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 He told <XU>
+1 	 24 	 (S[dcl]\S[dcl])\NP 	 1 	 became recalls
+3 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 angry became
+3 	 2 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 angry very
+4 	 3 	 (S[adj]\NP)/PP 	 2 	 at angry
+5 	 4 	 PP/NP 	 1 	 that at
+7 	 24 	 (S[dcl]\S[dcl])\NP 	 1 	 left recalls
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 office left
+9 	 8 	 NP[nb]/N 	 1 	 office my
+11 	 24 	 (S[dcl]\S[dcl])\NP 	 1 	 told recalls
+13 	 11 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 number told
+13 	 12 	 NP[nb]/N 	 1 	 number a
+13 	 14 	 (NP\NP)/NP 	 1 	 number of
+15 	 14 	 (NP\NP)/NP 	 2 	 people of
+16 	 11 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that told
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 I was
+18 	 16 	 S[em]/S[dcl] 	 1 	 was that
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 wimp was
+20 	 19 	 NP[nb]/N 	 1 	 wimp a
+23 	 22 	 N/N 	 1 	 McCain Sen.
+23 	 24 	 (S[dcl]\S[dcl])\NP 	 2 	 McCain recalls
+<\s>
+<s id="wsj_2446.23"> 46
+1 	 0 	 (S/S)/NP 	 2 	 July In
+4 	 3 	 N/N 	 1 	 newspapers California
+4 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 newspapers disclosed
+5 	 0 	 (S/S)/NP 	 1 	 disclosed In
+6 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that disclosed
+8 	 7 	 N/N 	 1 	 Keating Mr.
+8 	 9 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Keating gave
+9 	 6 	 S[em]/S[dcl] 	 1 	 gave that
+9 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 gave in
+9 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 gave at
+10 	 9 	 ((S[dcl]\NP)/PP)/NP 	 3 	 $ gave
+10 	 12 	 (NP\NP)/NP 	 1 	 $ in
+11 	 10 	 N/N[num] 	 1 	 850,000 $
+14 	 12 	 (NP\NP)/NP 	 2 	 funds in
+14 	 13 	 N/N 	 1 	 funds corporate
+15 	 9 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to gave
+20 	 15 	 PP/NP 	 1 	 organizations to
+20 	 16 	 N/N 	 1 	 organizations three
+20 	 17 	 N/N 	 1 	 organizations tax-exempt
+20 	 18 	 N/N 	 1 	 organizations voter
+20 	 19 	 N/N 	 1 	 organizations registration
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 1987 in
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 1988 in
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 behest at
+27 	 26 	 NP[nb]/N 	 1 	 behest the
+27 	 28 	 (NP\NP)/NP 	 1 	 behest of
+30 	 28 	 (NP\NP)/NP 	 2 	 Cranston of
+30 	 29 	 N/N 	 1 	 Cranston Sen.
+30 	 32 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Cranston who
+30 	 33 	 (S[dcl]\NP)/S[em] 	 1 	 Cranston conceded <XB>
+33 	 32 	 (NP\NP)/(S[dcl]\NP) 	 2 	 conceded who
+34 	 33 	 (S[dcl]\NP)/S[em] 	 2 	 that conceded
+35 	 38 	 (S[dcl]\NP)/NP 	 1 	 soliciting was
+37 	 35 	 (S[ng]\NP)/NP 	 2 	 money soliciting
+37 	 36 	 NP[nb]/N 	 1 	 money the
+38 	 34 	 S[em]/S[dcl] 	 1 	 was that
+38 	 45 	 (S\NP)\(S\NP) 	 2 	 was politically
+41 	 40 	 (N/N)/(N/N) 	 2 	 stupid pretty
+42 	 38 	 (S[dcl]\NP)/NP 	 2 	 thing was
+42 	 39 	 NP[nb]/N 	 1 	 thing a
+42 	 41 	 N/N 	 1 	 thing stupid
+42 	 44 	 (S[b]\NP)/NP 	 2 	 thing do <XU>
+44 	 43 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+<\s>
+<s id="wsj_2446.24"> 40
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+4 	 3 	 N/N 	 1 	 Cranston Sen.
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Cranston received
+5 	 0 	 (S/S)/NP 	 1 	 received In
+5 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 received through
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 $ received
+6 	 8 	 (NP\NP)/NP 	 1 	 $ in
+7 	 6 	 N/N[num] 	 1 	 47,000 $
+10 	 8 	 (NP\NP)/NP 	 2 	 donations in
+10 	 9 	 N/N 	 1 	 donations campaign
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Keating through
+13 	 12 	 N/N 	 1 	 Keating Mr.
+19 	 16 	 NP[nb]/N 	 1 	 party the
+19 	 17 	 N/N 	 1 	 party California
+19 	 18 	 N/N 	 1 	 party Democratic
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 party received
+20 	 0 	 (S/S)/NP 	 1 	 received In
+21 	 20 	 (S[dcl]\NP)/NP 	 2 	 $ received
+21 	 23 	 (NP\NP)/NP 	 1 	 $ in
+22 	 21 	 N/N[num] 	 1 	 85,000 $
+25 	 23 	 (NP\NP)/NP 	 2 	 donations in
+25 	 24 	 N/N 	 1 	 donations corporate
+25 	 26 	 (NP\NP)/NP 	 1 	 donations for
+25 	 31 	 (NP\NP)/(S[dcl]\NP) 	 1 	 donations that
+25 	 32 	 (S[dcl]\NP)/NP 	 1 	 donations benefited <XB>
+30 	 26 	 (NP\NP)/NP 	 2 	 drive for
+30 	 27 	 NP[nb]/N 	 1 	 drive a
+30 	 28 	 N/N 	 1 	 drive 1986
+30 	 29 	 N/N 	 1 	 drive get-out-the-vote
+32 	 31 	 (NP\NP)/(S[dcl]\NP) 	 2 	 benefited that
+32 	 38 	 ((S\NP)\(S\NP))/N 	 2 	 benefited that
+34 	 33 	 NP[nb]/N 	 1 	 senator the
+34 	 35 	 (NP[nb]/N)\NP 	 2 	 senator 's
+37 	 32 	 (S[dcl]\NP)/NP 	 2 	 campaign benefited
+37 	 35 	 (NP[nb]/N)\NP 	 1 	 campaign 's
+37 	 36 	 N/N 	 1 	 campaign re-election
+39 	 38 	 ((S\NP)\(S\NP))/N 	 3 	 year that
+<\s>
+<s id="wsj_2446.25"> 30
+2 	 1 	 (S/S)/NP 	 2 	 July in
+5 	 4 	 N/N 	 1 	 newspapers Ohio
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 newspapers disclosed
+6 	 0 	 S/S 	 1 	 disclosed Also
+6 	 1 	 (S/S)/NP 	 1 	 disclosed in
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 $ disclosed
+7 	 9 	 (NP\NP)/NP 	 1 	 $ in
+8 	 7 	 N/N[num] 	 1 	 200,000 $
+11 	 9 	 (NP\NP)/NP 	 2 	 donations in
+11 	 10 	 N/N 	 1 	 donations corporate
+11 	 12 	 (NP\NP)/NP 	 1 	 donations by
+11 	 15 	 (NP\NP)/NP 	 1 	 donations to
+14 	 12 	 (NP\NP)/NP 	 2 	 Keating by
+14 	 13 	 N/N 	 1 	 Keating Mr.
+18 	 15 	 (NP\NP)/NP 	 2 	 Council to
+18 	 16 	 NP[nb]/N 	 1 	 Council the
+18 	 17 	 N/N 	 1 	 Council National
+18 	 19 	 (NP\NP)/NP 	 1 	 Council on
+21 	 19 	 (NP\NP)/NP 	 2 	 Policy on
+21 	 20 	 N/N 	 1 	 Policy Public
+25 	 15 	 (NP\NP)/NP 	 2 	 committee to
+25 	 23 	 NP[nb]/N 	 1 	 committee a
+25 	 24 	 N/N 	 1 	 committee political
+25 	 26 	 S[pss]\NP 	 1 	 committee controlled <XB>
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 controlled by
+29 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 Glenn by
+29 	 28 	 N/N 	 1 	 Glenn Sen.
+<\s>
+<s id="wsj_2446.26"> 19
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 That was
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 in was
+3 	 2 	 PP/NP 	 1 	 addition in
+3 	 4 	 (NP\NP)/NP 	 1 	 addition to
+5 	 4 	 (NP\NP)/NP 	 2 	 $ to
+5 	 7 	 (NP\NP)/NP 	 1 	 $ in
+6 	 5 	 N/N[num] 	 1 	 34,000 $
+10 	 7 	 (NP\NP)/NP 	 2 	 donations in
+10 	 8 	 N/N 	 1 	 donations direct
+10 	 9 	 N/N 	 1 	 donations campaign
+10 	 11 	 S[pss]\NP 	 1 	 donations arranged <XB>
+10 	 15 	 (NP\NP)/NP 	 1 	 donations to
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 arranged by
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 Keating by
+14 	 13 	 N/N 	 1 	 Keating Mr.
+18 	 15 	 (NP\NP)/NP 	 2 	 senator to
+18 	 16 	 NP[nb]/N 	 1 	 senator the
+18 	 17 	 N/N 	 1 	 senator Ohio
+<\s>
+<s id="wsj_2446.27"> 30
+1 	 0 	 N/N 	 1 	 Wertheimer Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Wertheimer said
+6 	 3 	 NP[nb]/N 	 1 	 Committee the
+6 	 4 	 N/N 	 1 	 Committee Senate
+6 	 5 	 N/N 	 1 	 Committee Ethics
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Committee should
+6 	 8 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 Committee hire <XB>
+6 	 19 	 (S[pss]\NP)/(S[pss]\NP) 	 1 	 Committee was <XB>
+6 	 20 	 S[pss]\NP 	 1 	 Committee done <XB>
+7 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 should said
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 hire should
+8 	 18 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 2 	 hire as
+12 	 8 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 counsel hire
+12 	 9 	 NP[nb]/N 	 1 	 counsel a
+12 	 10 	 N/N 	 1 	 counsel special
+12 	 11 	 N/N 	 1 	 counsel outside
+12 	 14 	 (S[b]\NP)/NP 	 1 	 counsel conduct <XB>
+13 	 8 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to hire
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 conduct to
+16 	 14 	 (S[b]\NP)/NP 	 2 	 investigation conduct
+16 	 15 	 NP[nb]/N 	 1 	 investigation an
+19 	 18 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 3 	 was as
+20 	 19 	 (S[pss]\NP)/(S[pss]\NP) 	 2 	 done was
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 done in
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 case in
+23 	 22 	 NP[nb]/N 	 1 	 case the
+23 	 24 	 (NP\NP)/NP 	 1 	 case of
+29 	 24 	 (NP\NP)/NP 	 2 	 Wright of
+29 	 25 	 N/N 	 1 	 Wright former
+29 	 26 	 N/N 	 1 	 Wright House
+29 	 27 	 N/N 	 1 	 Wright Speaker
+29 	 28 	 N/N 	 1 	 Wright James
+<\s>
+<s id="wsj_2446.28"> 13
+1 	 0 	 N/N 	 1 	 Abney Wilson
+1 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Abney would
+1 	 12 	 S[b]\NP 	 1 	 Abney comment <XB>
+4 	 3 	 N/N 	 1 	 director staff
+4 	 5 	 (NP\NP)/NP 	 1 	 director of
+4 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 director would
+4 	 12 	 S[b]\NP 	 1 	 director comment <XB>
+8 	 5 	 (NP\NP)/NP 	 2 	 panel of
+8 	 6 	 NP[nb]/N 	 1 	 panel the
+8 	 7 	 N/N 	 1 	 panel ethics
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 would n't
+12 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 comment would
+<\s>
+<s id="wsj_2446.29"> 18
+1 	 0 	 N/N 	 1 	 Riegle Sen.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Riegle said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he would
+3 	 5 	 (S[b]\NP)/PP 	 1 	 he cooperate <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cooperate would
+6 	 5 	 (S[b]\NP)/PP 	 2 	 with cooperate
+8 	 6 	 PP/NP 	 1 	 inquiry with
+8 	 7 	 NP[nb]/N 	 1 	 inquiry any
+11 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 that said
+13 	 12 	 NP[nb]/N 	 1 	 conduct his
+13 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 conduct had
+13 	 17 	 S[adj]\NP 	 1 	 conduct proper <XB>
+14 	 11 	 S[em]/S[dcl] 	 1 	 had that
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+17 	 15 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 proper been
+17 	 16 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 proper entirely
+<\s>
+<s id="wsj_2446.30"> 37
+1 	 0 	 N/N 	 1 	 McCain Sen.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 McCain said
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he had
+3 	 7 	 S[adj]\NP 	 1 	 he concerned <XB>
+3 	 23 	 (S[pt]\NP)/S[dcl] 	 1 	 he decided <XU>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 been at
+5 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 been that
+7 	 5 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 concerned been
+7 	 6 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 concerned deeply
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 time at
+10 	 9 	 NP[nb]/N 	 1 	 time the
+10 	 11 	 (NP\NP)/NP 	 1 	 time of
+13 	 11 	 (NP\NP)/NP 	 2 	 meeting of
+13 	 12 	 NP[nb]/N 	 1 	 meeting the
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it might
+15 	 17 	 (S[b]\NP)/(S[to]\NP) 	 1 	 it seem <XB>
+15 	 20 	 S[adj]\NP 	 1 	 it improper <XB>
+16 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 might that
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seem might
+18 	 17 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to seem
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+20 	 19 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 improper be
+23 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 decided had
+24 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it was
+24 	 27 	 (S[adj]\NP)/S[for] 	 1 	 it appropriate <XB>
+25 	 23 	 (S[pt]\NP)/S[dcl] 	 2 	 was decided
+27 	 25 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 appropriate was
+27 	 26 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 appropriate entirely
+28 	 27 	 (S[adj]\NP)/S[for] 	 2 	 for appropriate
+29 	 28 	 (S[for]/(S[to]\NP))/NP 	 2 	 him for
+29 	 31 	 (S[b]\NP)/NP 	 1 	 him seek <XB>
+30 	 28 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 seek to
+33 	 31 	 (S[b]\NP)/NP 	 2 	 treatment seek
+33 	 32 	 N/N 	 1 	 treatment fair
+33 	 34 	 (NP\NP)/NP 	 1 	 treatment for
+36 	 34 	 (NP\NP)/NP 	 2 	 constituent for
+36 	 35 	 NP[nb]/N 	 1 	 constituent a
+<\s>
+<s id="wsj_2446.31"> 34
+1 	 0 	 N/N 	 1 	 Glenn Sen.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Glenn said
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he had
+3 	 6 	 (S[pt]\NP)/NP 	 1 	 he made <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 had already
+6 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 made had
+9 	 6 	 (S[pt]\NP)/NP 	 2 	 disclosure made
+9 	 7 	 NP[nb]/N 	 1 	 disclosure a
+9 	 8 	 N/N 	 1 	 disclosure complete
+9 	 10 	 (NP\NP)/NP 	 1 	 disclosure of
+12 	 10 	 (NP\NP)/NP 	 2 	 role of
+12 	 11 	 NP[nb]/N 	 1 	 role his
+12 	 13 	 (NP\NP)/NP 	 1 	 role in
+15 	 13 	 (NP\NP)/NP 	 2 	 affair in
+15 	 14 	 NP[nb]/N 	 1 	 affair the
+17 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 I am
+17 	 20 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 I satisfied <XB>
+18 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 am said
+20 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 satisfied am
+20 	 19 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 satisfied completely
+21 	 20 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to satisfied
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 let to
+24 	 23 	 NP[nb]/N 	 1 	 matter this
+24 	 25 	 S[dcl]\NP 	 1 	 matter rest
+25 	 22 	 (S[b]\NP)/S[dcl] 	 2 	 rest let
+25 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 rest in
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 hands in
+28 	 27 	 NP[nb]/N 	 1 	 hands the
+28 	 29 	 (NP\NP)/NP 	 1 	 hands of
+33 	 29 	 (NP\NP)/NP 	 2 	 Committee of
+33 	 30 	 NP[nb]/N 	 1 	 Committee the
+33 	 31 	 N/N 	 1 	 Committee Senate
+33 	 32 	 N/N 	 1 	 Committee Ethics
+<\s>
+<s id="wsj_2446.32"> 17
+1 	 0 	 N/N 	 1 	 DeConcini Sen.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 DeConcini said
+5 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 all is
+5 	 7 	 S[pss]\NP 	 1 	 all said <XB>
+5 	 9 	 S[pss]\NP 	 1 	 all done <XU>
+6 	 4 	 (S/S)/S[dcl] 	 2 	 is When
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 said is
+9 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 done is
+11 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 I expect
+11 	 16 	 S[pss]\NP 	 1 	 I exonerated <XB>
+12 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 expect said
+12 	 4 	 (S/S)/S[dcl] 	 1 	 expect When
+13 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expect
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 be fully
+16 	 14 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 exonerated be
+<\s>
+<s id="wsj_2446.33"> 32
+1 	 0 	 N/N 	 1 	 Cranston Sen.
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Cranston who
+1 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Cranston had <XB>
+1 	 6 	 ((S[pt]\NP)/PP)/NP 	 1 	 Cranston volunteered <XB>
+1 	 22 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Cranston portrayed
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had who
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 had already
+6 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 volunteered had
+6 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 volunteered in
+8 	 6 	 ((S[pt]\NP)/PP)/NP 	 3 	 help volunteered
+8 	 7 	 NP[nb]/N 	 1 	 help his
+9 	 6 	 ((S[pt]\NP)/PP)/NP 	 2 	 to volunteered
+12 	 9 	 PP/NP 	 1 	 Bureau to
+12 	 10 	 NP[nb]/N 	 1 	 Bureau the
+12 	 11 	 N/N 	 1 	 Bureau Federal
+12 	 13 	 (NP\NP)/NP 	 1 	 Bureau of
+14 	 13 	 (NP\NP)/NP 	 2 	 Investigation of
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 investigation in
+17 	 16 	 NP[nb]/N 	 1 	 investigation any
+17 	 18 	 (NP\NP)/NP 	 1 	 investigation of
+20 	 18 	 (NP\NP)/NP 	 2 	 Keating of
+20 	 19 	 N/N 	 1 	 Keating Mr.
+24 	 22 	 ((S[dcl]\NP)/PP)/NP 	 3 	 role portrayed
+24 	 23 	 NP[nb]/N 	 1 	 role his
+24 	 25 	 (NP\NP)/NP 	 1 	 role in
+26 	 25 	 (NP\NP)/NP 	 2 	 1987 in
+27 	 22 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as portrayed
+28 	 27 	 PP/NP 	 1 	 prodding as
+29 	 28 	 (N/(S[to]\NP))/NP 	 2 	 regulators prodding
+30 	 28 	 (N/(S[to]\NP))/NP 	 1 	 to prodding
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 act to
+<\s>
+<s id="wsj_2446.34"> 11
+0 	 10 	 (S[dcl]\S[wq])\NP 	 1 	 Why said
+1 	 0 	 S[wq]/S[q] 	 1 	 did Why
+1 	 2 	 S\S 	 1 	 did n't
+5 	 1 	 (S[q]/(S[b]\NP))/NP 	 2 	 Board did
+5 	 3 	 NP[nb]/N 	 1 	 Board the
+5 	 4 	 N/N 	 1 	 Board Bank
+5 	 6 	 S[b]\NP 	 1 	 Board act <XB>
+6 	 1 	 (S[q]/(S[b]\NP))/NP 	 1 	 act did
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 act sooner
+9 	 10 	 (S[dcl]\S[wq])\NP 	 2 	 he said
+<\s>
+<s id="wsj_2446.35"> 9
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That is
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 what is
+2 	 6 	 ((S[b]\NP)/NP)/(S[b]\NP) 	 2 	 what ask <XU>
+2 	 8 	 S[pss]\NP 	 1 	 what investigated <XU>
+4 	 3 	 N/N 	 1 	 Cause Common
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Cause should
+4 	 6 	 ((S[b]\NP)/NP)/(S[b]\NP) 	 1 	 Cause ask <XB>
+5 	 2 	 NP/(S[dcl]/NP) 	 1 	 should what
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 ask should
+7 	 6 	 ((S[b]\NP)/NP)/(S[b]\NP) 	 3 	 be ask
+8 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 investigated be
+<\s>

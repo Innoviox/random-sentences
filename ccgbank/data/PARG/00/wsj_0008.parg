@@ -1,0 +1,125 @@
+<s id="wsj_0008.1"> 19
+2 	 0 	 NP[nb]/N 	 1 	 government The
+2 	 1 	 N/N 	 1 	 government federal
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 government suspended
+3 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 suspended because
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 sales suspended
+4 	 5 	 (NP\NP)/NP 	 1 	 sales of
+8 	 5 	 (NP\NP)/NP 	 2 	 bonds of
+8 	 6 	 N/N 	 1 	 bonds U.S.
+8 	 7 	 N/N 	 1 	 bonds savings
+10 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Congress has
+10 	 13 	 (S[pt]\NP)/NP 	 1 	 Congress lifted <XB>
+11 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has because
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 has n't
+13 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 lifted has
+15 	 13 	 (S[pt]\NP)/NP 	 2 	 ceiling lifted
+15 	 14 	 NP[nb]/N 	 1 	 ceiling the
+15 	 16 	 (NP\NP)/NP 	 1 	 ceiling on
+18 	 16 	 (NP\NP)/NP 	 2 	 debt on
+18 	 17 	 N/N 	 1 	 debt government
+<\s>
+<s id="wsj_0008.2"> 22
+1 	 2 	 S[dcl]\NP 	 1 	 Congress acts
+2 	 0 	 (S/S)/S[dcl] 	 2 	 acts Until
+5 	 4 	 NP[nb]/N 	 1 	 government the
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 government has
+6 	 0 	 (S/S)/S[dcl] 	 1 	 has Until
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 has n't
+6 	 21 	 (S[dcl]\S[dcl])\NP 	 1 	 has said
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 authority has
+9 	 8 	 NP[nb]/N 	 1 	 authority any
+9 	 11 	 (S[b]\NP)/NP 	 1 	 authority issue <XB>
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 issue to
+14 	 11 	 (S[b]\NP)/NP 	 2 	 obligations issue
+14 	 12 	 N/N 	 1 	 obligations new
+14 	 13 	 N/N 	 1 	 obligations debt
+14 	 15 	 (NP\NP)/NP 	 1 	 obligations of
+17 	 15 	 (NP\NP)/NP 	 2 	 kind of
+17 	 16 	 NP[nb]/N 	 1 	 kind any
+20 	 19 	 NP[nb]/N 	 1 	 Treasury the
+20 	 21 	 (S[dcl]\S[dcl])\NP 	 2 	 Treasury said
+<\s>
+<s id="wsj_0008.3"> 17
+1 	 0 	 NP[nb]/N 	 1 	 government The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 government 's
+4 	 2 	 (NP[nb]/N)\NP 	 1 	 authority 's
+4 	 3 	 N/N 	 1 	 authority borrowing
+4 	 5 	 S[dcl]\NP 	 1 	 authority dropped
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped at
+5 	 8 	 (S\NP)\(S\NP) 	 2 	 dropped Tuesday
+5 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped to
+5 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped from
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 midnight at
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+12 	 10 	 N/N[num] 	 1 	 trillion $
+12 	 11 	 N/N 	 1 	 trillion 2.80
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+16 	 14 	 N/N[num] 	 1 	 trillion $
+16 	 15 	 N/N 	 1 	 trillion 2.87
+<\s>
+<s id="wsj_0008.4"> 15
+0 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Legislation is
+0 	 7 	 S[pss]\NP 	 1 	 Legislation ensnarled <XB>
+2 	 1 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lift to
+5 	 2 	 (S[b]\NP)/NP 	 2 	 ceiling lift
+5 	 3 	 NP[nb]/N 	 1 	 ceiling the
+5 	 4 	 N/N 	 1 	 ceiling debt
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 ensnarled is
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 ensnarled in
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 fight in
+10 	 9 	 NP[nb]/N 	 1 	 fight the
+10 	 11 	 (NP\NP)/(S[ng]\NP) 	 1 	 fight over
+12 	 11 	 (NP\NP)/(S[ng]\NP) 	 2 	 cutting over
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 taxes cutting
+14 	 13 	 N/N 	 1 	 taxes capital-gains
+<\s>
+<s id="wsj_0008.5"> 27
+1 	 0 	 NP[nb]/N 	 1 	 House The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 House has
+1 	 3 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 House voted <XB>
+1 	 5 	 (S[b]\NP)/NP 	 1 	 House raise <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 voted has
+4 	 3 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to voted
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 raise to
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 raise to
+7 	 5 	 (S[b]\NP)/NP 	 2 	 ceiling raise
+7 	 6 	 NP[nb]/N 	 1 	 ceiling the
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+11 	 9 	 N/N[num] 	 1 	 trillion $
+11 	 10 	 N/N 	 1 	 trillion 3.1
+15 	 14 	 NP[nb]/N 	 1 	 Senate the
+15 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Senate is
+15 	 18 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Senate expected <XB>
+15 	 20 	 S[b]\NP 	 1 	 Senate act <XB>
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 is n't
+18 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+19 	 18 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 act to
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 act until
+20 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 act at
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 week until
+23 	 22 	 N/N 	 1 	 week next
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 earliest at
+26 	 25 	 NP[nb]/N 	 1 	 earliest the
+<\s>
+<s id="wsj_0008.6"> 17
+1 	 0 	 NP[nb]/N 	 1 	 Treasury The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Treasury said
+4 	 3 	 NP[nb]/N 	 1 	 U.S. the
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 U.S. will
+4 	 6 	 S[b]\NP 	 1 	 U.S. default <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 default will
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 default on
+6 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 default if
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Nov. on
+9 	 8 	 N/N[num] 	 1 	 9 Nov.
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Congress does
+11 	 14 	 S[b]\NP 	 1 	 Congress act <XB>
+12 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 does if
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 does n't
+14 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 act does
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 act by
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 then by
+<\s>

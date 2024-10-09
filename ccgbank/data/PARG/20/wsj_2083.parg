@@ -1,0 +1,207 @@
+<s id="wsj_2083.1"> 24
+2 	 0 	 N/N 	 1 	 Co. B.F.
+2 	 1 	 N/N 	 1 	 Co. Goodrich
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+5 	 4 	 N/N 	 1 	 profits third-quarter
+5 	 6 	 S[dcl]\NP 	 1 	 profits dropped
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 dropped said
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 dropped %
+6 	 9 	 ((S\NP)\(S\NP))/PP 	 2 	 dropped because
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 34
+10 	 9 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+12 	 10 	 PP/NP 	 1 	 prices of
+12 	 11 	 N/N 	 1 	 prices lower
+12 	 13 	 (NP\NP)/NP 	 1 	 prices for
+16 	 13 	 (NP\NP)/NP 	 2 	 materials for
+16 	 14 	 N/N 	 1 	 materials polyvinyl
+16 	 15 	 N/N 	 1 	 materials chloride
+19 	 18 	 NP[nb]/N 	 1 	 company the
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 company 's
+23 	 13 	 (NP\NP)/NP 	 2 	 group for
+23 	 20 	 (NP[nb]/N)\NP 	 1 	 group 's
+23 	 21 	 N/N 	 1 	 group largest
+23 	 22 	 N/N 	 1 	 group product
+<\s>
+<s id="wsj_2083.2"> 27
+0 	 1 	 S[dcl]\NP 	 1 	 Net fell
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+1 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+3 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+5 	 3 	 N/N[num] 	 1 	 million $
+5 	 4 	 N/N 	 1 	 million 40.1
+8 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+8 	 10 	 (NP\NP)/N 	 1 	 $ a
+9 	 8 	 N/N[num] 	 1 	 1.50 $
+11 	 10 	 (NP\NP)/N 	 2 	 share a
+13 	 26 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 3 	 from earlier
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 60.7
+19 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+19 	 21 	 (NP\NP)/N 	 1 	 $ a
+20 	 19 	 N/N[num] 	 1 	 2.32 $
+22 	 21 	 (NP\NP)/N 	 2 	 share a
+25 	 24 	 NP[nb]/N 	 1 	 year a
+25 	 26 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 4 	 year earlier
+<\s>
+<s id="wsj_2083.3"> 15
+0 	 1 	 (NP\NP)/NP 	 1 	 Sales for
+0 	 4 	 S[dcl]\NP 	 1 	 Sales slipped
+3 	 1 	 (NP\NP)/NP 	 2 	 quarter for
+3 	 2 	 NP[nb]/N 	 1 	 quarter the
+4 	 6 	 (S\NP)\(S\NP) 	 2 	 slipped %
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 slipped to
+4 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 slipped from
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 2.7
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 601.3
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 618.1
+<\s>
+<s id="wsj_2083.4"> 26
+2 	 0 	 N/N 	 1 	 capacity Polyvinyl
+2 	 1 	 N/N 	 1 	 capacity chloride
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 capacity has
+2 	 4 	 (S[pt]\NP)/NP 	 1 	 capacity overtaken <XB>
+3 	 17 	 (S[dcl]\S[dcl])/NP 	 1 	 has said
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 overtaken has
+5 	 4 	 (S[pt]\NP)/NP 	 2 	 demand overtaken
+7 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 we are
+7 	 9 	 (S[ng]\NP)/NP 	 1 	 we experiencing <XB>
+8 	 17 	 (S[dcl]\S[dcl])/NP 	 1 	 are said
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 experiencing are
+9 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 experiencing as
+12 	 9 	 (S[ng]\NP)/NP 	 2 	 margins experiencing
+12 	 10 	 N/N 	 1 	 margins reduced
+12 	 11 	 N/N 	 1 	 margins profit
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 result as
+15 	 14 	 NP[nb]/N 	 1 	 result a
+20 	 17 	 (S[dcl]\S[dcl])/NP 	 2 	 Ong said
+20 	 18 	 N/N 	 1 	 Ong John
+20 	 19 	 N/N 	 1 	 Ong D.
+22 	 17 	 (S[dcl]\S[dcl])/NP 	 2 	 chairman said
+25 	 17 	 (S[dcl]\S[dcl])/NP 	 2 	 executive said
+25 	 24 	 N/N 	 1 	 executive chief
+<\s>
+<s id="wsj_2083.5"> 17
+0 	 1 	 (NP\NP)/NP 	 1 	 Prices for
+0 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Prices have
+0 	 6 	 (S[pt]\NP)/NP 	 1 	 Prices dropped <XB>
+4 	 1 	 (NP\NP)/NP 	 2 	 resin for
+4 	 2 	 N/N 	 1 	 resin general-purpose
+4 	 3 	 N/N 	 1 	 resin PVC
+5 	 16 	 (S[dcl]\S[dcl])\NP 	 1 	 have said
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 dropped have
+6 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped since
+7 	 8 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+9 	 8 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 15 than
+10 	 6 	 (S[pt]\NP)/NP 	 2 	 % dropped
+10 	 9 	 N/N 	 1 	 % 15
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 December since
+13 	 12 	 N/N 	 1 	 December last
+15 	 16 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_2083.6"> 20
+2 	 0 	 NP[nb]/N 	 1 	 resin The
+2 	 1 	 N/N 	 1 	 resin plastic
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 resin is
+2 	 4 	 S[pss]\NP 	 1 	 resin used <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 used is
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 used in
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 range in
+8 	 6 	 NP[nb]/N 	 1 	 range a
+8 	 7 	 N/N 	 1 	 range wide
+8 	 9 	 (NP\NP)/NP 	 1 	 range of
+8 	 12 	 (NP\NP)/NP 	 1 	 range including
+10 	 9 	 (NP\NP)/NP 	 2 	 products of
+13 	 12 	 (NP\NP)/NP 	 2 	 siding including
+15 	 12 	 (NP\NP)/NP 	 2 	 pipe including
+19 	 12 	 (NP\NP)/NP 	 2 	 insulation including
+19 	 17 	 N/N 	 1 	 insulation electrical
+19 	 18 	 N/N 	 1 	 insulation wire
+<\s>
+<s id="wsj_2083.7"> 26
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Goodrich 's
+3 	 1 	 (NP[nb]/N)\NP 	 1 	 segment 's
+3 	 2 	 N/N 	 1 	 segment vinyl-products
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 segment reported
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 profit reported
+6 	 5 	 N/N 	 1 	 profit operating
+6 	 7 	 (NP\NP)/NP 	 1 	 profit for
+6 	 10 	 (NP\NP)/NP 	 1 	 profit of
+9 	 7 	 (NP\NP)/NP 	 2 	 quarter for
+9 	 8 	 NP[nb]/N 	 1 	 quarter the
+11 	 10 	 (NP\NP)/NP 	 2 	 $ of
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 30.1
+15 	 16 	 (N/N)\(S[adj]\NP) 	 2 	 less than
+19 	 10 	 (NP\NP)/NP 	 2 	 $ of
+19 	 16 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+19 	 17 	 N/N 	 1 	 $ half
+19 	 18 	 N/N 	 1 	 $ the
+19 	 22 	 (NP\NP)/NP 	 1 	 $ of
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 64.1
+25 	 22 	 (NP\NP)/NP 	 2 	 quarter of
+25 	 23 	 NP[nb]/N 	 1 	 quarter the
+25 	 24 	 N/N 	 1 	 quarter year-earlier
+<\s>
+<s id="wsj_2083.8"> 17
+2 	 0 	 N/N 	 1 	 profit Third-quarter
+2 	 1 	 N/N 	 1 	 profit operating
+2 	 3 	 (NP\NP)/NP 	 1 	 profit of
+2 	 7 	 S[dcl]\NP 	 1 	 profit declined
+6 	 3 	 (NP\NP)/NP 	 2 	 group of
+6 	 4 	 NP[nb]/N 	 1 	 group the
+6 	 5 	 N/N 	 1 	 group specialty-chemicals
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 declined slightly
+7 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 declined to
+7 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 declined from
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 24.3
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 24.9
+<\s>
+<s id="wsj_2083.9"> 18
+2 	 1 	 N/N 	 1 	 profit operating
+2 	 3 	 (NP\NP)/NP 	 1 	 profit from
+2 	 6 	 S[dcl]\NP 	 1 	 profit rose
+5 	 3 	 (NP\NP)/NP 	 2 	 products from
+5 	 4 	 N/N 	 1 	 products aerospace
+6 	 0 	 S/S 	 1 	 rose But
+6 	 9 	 (S\NP)\(S\NP) 	 2 	 rose %
+6 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+6 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+8 	 7 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))) 	 4 	 50 nearly
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 50
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 15
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 10.1
+<\s>
+<s id="wsj_2083.10"> 21
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+8 	 9 	 (NP\NP)/NP 	 1 	 shares of
+8 	 15 	 S[dcl]\NP 	 1 	 shares fell
+13 	 11 	 (N/N)/(N/N) 	 2 	 Ohio-based Akron
+14 	 9 	 (NP\NP)/NP 	 2 	 company of
+14 	 10 	 NP[nb]/N 	 1 	 company the
+14 	 13 	 N/N 	 1 	 company Ohio-based
+15 	 0 	 (S/S)/NP 	 1 	 fell In
+15 	 16 	 ((S\NP)\(S\NP))/N[num] 	 2 	 fell $
+15 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+17 	 16 	 ((S\NP)\(S\NP))/N[num] 	 3 	 1.375 $
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+20 	 19 	 N/N[num] 	 1 	 49.125 $
+<\s>

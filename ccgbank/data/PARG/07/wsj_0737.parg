@@ -1,0 +1,60 @@
+<s id="wsj_0737.1"> 15
+3 	 0 	 N/N 	 1 	 Jr. Joe
+3 	 1 	 N/N 	 1 	 Jr. Frank
+3 	 2 	 N/N 	 1 	 Jr. Sanderson
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Jr. was
+3 	 5 	 (S[pss]\NP)/NP 	 1 	 Jr. elected <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 elected was
+6 	 5 	 (S[pss]\NP)/NP 	 2 	 president elected
+6 	 11 	 (NP\NP)/NP 	 1 	 president of
+10 	 5 	 (S[pss]\NP)/NP 	 2 	 officer elected
+10 	 8 	 N/N 	 1 	 officer chief
+10 	 9 	 N/N 	 1 	 officer executive
+10 	 11 	 (NP\NP)/NP 	 1 	 officer of
+14 	 11 	 (NP\NP)/NP 	 2 	 producer of
+14 	 12 	 NP[nb]/N 	 1 	 producer this
+14 	 13 	 N/N 	 1 	 producer poultry
+<\s>
+<s id="wsj_0737.2"> 17
+2 	 0 	 N/N 	 1 	 Sanderson Joe
+2 	 1 	 N/N 	 1 	 Sanderson Frank
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Sanderson who
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 Sanderson is <XB>
+2 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Sanderson will
+2 	 15 	 (S[b]\NP)/NP 	 1 	 Sanderson remain <XB>
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is who
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 is currently
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 chairman is
+10 	 5 	 (S[dcl]\NP)/NP 	 2 	 executive is
+10 	 9 	 N/N 	 1 	 executive chief
+12 	 5 	 (S[dcl]\NP)/NP 	 2 	 treasurer is
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 remain will
+16 	 15 	 (S[b]\NP)/NP 	 2 	 chairman remain
+<\s>
+<s id="wsj_0737.3"> 24
+2 	 0 	 NP[nb]/N 	 1 	 president The
+2 	 1 	 N/N 	 1 	 president current
+2 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 president was
+2 	 13 	 (S[pss]\NP)/PP 	 1 	 president elected <XB>
+6 	 0 	 NP[nb]/N 	 1 	 officer The
+6 	 1 	 N/N 	 1 	 officer current
+6 	 4 	 N/N 	 1 	 officer chief
+6 	 5 	 N/N 	 1 	 officer operating
+6 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 officer was
+6 	 13 	 (S[pss]\NP)/PP 	 1 	 officer elected <XB>
+10 	 8 	 N/N 	 1 	 Johnson J.
+10 	 9 	 N/N 	 1 	 Johnson Odell
+10 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Johnson was
+10 	 13 	 (S[pss]\NP)/PP 	 1 	 Johnson elected <XB>
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 elected was
+14 	 13 	 (S[pss]\NP)/PP 	 2 	 to elected
+17 	 14 	 PP/NP 	 1 	 position to
+17 	 15 	 NP[nb]/N 	 1 	 position the
+17 	 16 	 N/N 	 1 	 position new
+17 	 18 	 (NP\NP)/NP 	 1 	 position of
+20 	 18 	 (NP\NP)/NP 	 2 	 chairman of
+20 	 19 	 N/N 	 1 	 chairman vice
+20 	 21 	 (NP\NP)/NP 	 1 	 chairman of
+23 	 21 	 (NP\NP)/NP 	 2 	 board of
+23 	 22 	 NP[nb]/N 	 1 	 board the
+<\s>

@@ -1,0 +1,356 @@
+<s id="wsj_2123.1"> 36
+2 	 0 	 N/N 	 1 	 Co. Reynolds
+2 	 1 	 N/N 	 1 	 Co. Metals
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+6 	 4 	 N/N 	 1 	 income third-quarter
+6 	 5 	 N/N 	 1 	 income net
+6 	 7 	 S[dcl]\NP 	 1 	 income dropped
+7 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 dropped said
+7 	 10 	 (S\NP)\(S\NP) 	 2 	 dropped %
+7 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped to
+7 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped from
+9 	 8 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))) 	 4 	 10 nearly
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 10
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 123.7
+17 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+17 	 19 	 (NP\NP)/N 	 1 	 $ a
+18 	 17 	 N/N[num] 	 1 	 2.10 $
+20 	 19 	 (NP\NP)/N 	 2 	 share a
+22 	 35 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 3 	 from earlier
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+25 	 23 	 N/N[num] 	 1 	 million $
+25 	 24 	 N/N 	 1 	 million 137.2
+28 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+28 	 30 	 (NP\NP)/N 	 1 	 $ a
+29 	 28 	 N/N[num] 	 1 	 2.56 $
+31 	 30 	 (NP\NP)/N 	 2 	 share a
+34 	 33 	 NP[nb]/N 	 1 	 year a
+34 	 35 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 4 	 year earlier
+<\s>
+<s id="wsj_2123.2"> 14
+2 	 0 	 NP[nb]/N 	 1 	 earnings The
+2 	 1 	 N/N 	 1 	 earnings latest
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 earnings reflect
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 increase reflect
+5 	 4 	 NP[nb]/N 	 1 	 increase an
+5 	 6 	 (NP\NP)/NP 	 1 	 increase of
+5 	 10 	 (NP\NP)/NP 	 1 	 increase in
+9 	 6 	 (NP\NP)/NP 	 2 	 million of
+9 	 7 	 N/N 	 1 	 million about
+9 	 8 	 N/N 	 1 	 million 5.5
+12 	 10 	 (NP\NP)/NP 	 2 	 shares in
+12 	 11 	 N/N 	 1 	 shares common
+12 	 13 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>
+<s id="wsj_2123.3"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Revenue rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 3
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 1.52
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 1.48
+<\s>
+<s id="wsj_2123.4"> 13
+0 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Reynolds is
+6 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 company is
+6 	 2 	 NP[nb]/N 	 1 	 company the
+6 	 3 	 N/N 	 1 	 company third
+6 	 4 	 N/N 	 1 	 company big
+6 	 5 	 N/N 	 1 	 company aluminum
+6 	 10 	 (S[b]\NP)/NP 	 1 	 company report <XB>
+8 	 7 	 ((S\NP)/(S\NP))/NP 	 3 	 Friday since
+9 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to is
+9 	 7 	 ((S\NP)/(S\NP))/NP 	 2 	 to since
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+12 	 10 	 (S[b]\NP)/NP 	 2 	 earnings report
+12 	 11 	 N/N 	 1 	 earnings disappointing
+<\s>
+<s id="wsj_2123.5"> 29
+5 	 0 	 NP[nb]/N 	 1 	 producer The
+5 	 1 	 N/N 	 1 	 producer No.
+5 	 2 	 N/N 	 1 	 producer 1
+5 	 3 	 N/N 	 1 	 producer domestic
+5 	 4 	 N/N 	 1 	 producer aluminum
+5 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 producer said
+8 	 7 	 N/N 	 1 	 Co. Aluminum
+8 	 9 	 (NP\NP)/NP 	 1 	 Co. of
+8 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+10 	 9 	 (NP\NP)/NP 	 2 	 America of
+13 	 12 	 (S\NP)/(S\NP) 	 2 	 said Friday
+15 	 14 	 NP[nb]/N 	 1 	 earnings its
+15 	 16 	 S[dcl]\NP 	 1 	 earnings fell
+16 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 fell said
+16 	 18 	 (S\NP)\(S\NP) 	 2 	 fell %
+16 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 3.2
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+22 	 20 	 N/N[num] 	 1 	 million $
+22 	 21 	 N/N 	 1 	 million 219
+25 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+25 	 27 	 (NP\NP)/N 	 1 	 $ a
+26 	 25 	 N/N[num] 	 1 	 2.46 $
+28 	 27 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_2123.6"> 32
+3 	 1 	 N/N 	 1 	 Ltd. Alcan
+3 	 2 	 N/N 	 1 	 Ltd. Aluminium
+3 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Ltd. reported
+5 	 0 	 S/S 	 1 	 reported And
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 reported yesterday
+7 	 6 	 N/N 	 1 	 income net
+7 	 8 	 S[dcl]\NP 	 1 	 income slid
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 slid reported
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 slid %
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 slid to
+8 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 slid from
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 30
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 180
+18 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+18 	 17 	 N/N 	 1 	 cents 77
+18 	 19 	 (NP\NP)/N 	 1 	 cents a
+20 	 19 	 (NP\NP)/N 	 2 	 share a
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+25 	 23 	 N/N[num] 	 1 	 million $
+25 	 24 	 N/N 	 1 	 million 258
+28 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+28 	 30 	 (NP\NP)/N 	 1 	 $ a
+29 	 28 	 N/N[num] 	 1 	 1.07 $
+31 	 30 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_2123.7"> 16
+0 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Analysts had
+0 	 5 	 (S[ng]\NP)/NP 	 1 	 Analysts expecting <XB>
+2 	 1 	 ((S\NP)/(S\NP))/NP 	 3 	 average on
+3 	 1 	 ((S\NP)/(S\NP))/NP 	 2 	 had on
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+5 	 4 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 expecting been
+7 	 5 	 (S[ng]\NP)/NP 	 2 	 $ expecting
+7 	 6 	 N/N 	 1 	 $ about
+7 	 9 	 (NP\NP)/NP 	 1 	 $ for
+8 	 7 	 N/N[num] 	 1 	 2.70 $
+10 	 9 	 (NP\NP)/NP 	 2 	 Alcoa for
+12 	 5 	 (S[ng]\NP)/NP 	 2 	 $ expecting
+12 	 14 	 (NP\NP)/NP 	 1 	 $ for
+13 	 12 	 N/N[num] 	 1 	 1 $
+15 	 14 	 (NP\NP)/NP 	 2 	 Alcan for
+<\s>
+<s id="wsj_2123.8"> 40
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+1 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 's says
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 indication 's
+4 	 2 	 NP[nb]/N 	 1 	 indication a
+4 	 3 	 N/N 	 1 	 indication good
+5 	 4 	 N/S[em] 	 1 	 that indication
+6 	 7 	 (NP\NP)/NP 	 1 	 level of
+6 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 level has
+6 	 10 	 S[pt]\NP 	 1 	 level peaked <XB>
+8 	 7 	 (NP\NP)/NP 	 2 	 profitability of
+9 	 5 	 S[em]/S[dcl] 	 1 	 has that
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 peaked has
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 peaked for
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 industry for
+13 	 12 	 NP[nb]/N 	 1 	 industry the
+17 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 Fathi says
+17 	 16 	 N/N 	 1 	 Fathi Vahid
+17 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Fathi who
+17 	 30 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Fathi had <XB>
+17 	 31 	 (S[pt]\NP)/S[dcl] 	 1 	 Fathi estimated <XB>
+20 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst says
+20 	 19 	 N/N 	 1 	 analyst metals
+20 	 21 	 (NP\NP)/NP 	 1 	 analyst with
+20 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 analyst who
+20 	 30 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 analyst had <XB>
+20 	 31 	 (S[pt]\NP)/S[dcl] 	 1 	 analyst estimated <XB>
+27 	 21 	 (NP\NP)/NP 	 2 	 Inc. with
+27 	 22 	 N/N 	 1 	 Inc. Prescott
+27 	 24 	 N/N 	 1 	 Inc. Ball
+27 	 25 	 N/N 	 1 	 Inc. &
+27 	 26 	 N/N 	 1 	 Inc. Turben
+30 	 29 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had who
+31 	 30 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 estimated had
+32 	 33 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Reynolds would
+32 	 34 	 (S[b]\NP)/NP 	 1 	 Reynolds earn <XB>
+33 	 31 	 (S[pt]\NP)/S[dcl] 	 2 	 would estimated
+34 	 33 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 earn would
+36 	 34 	 (S[b]\NP)/NP 	 2 	 $ earn
+36 	 35 	 N/N 	 1 	 $ about
+36 	 38 	 (NP\NP)/N 	 1 	 $ a
+37 	 36 	 N/N[num] 	 1 	 2.35 $
+39 	 38 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_2123.9"> 28
+1 	 0 	 NP[nb]/N 	 1 	 nation The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 nation 's
+6 	 2 	 (NP[nb]/N)\NP 	 1 	 company 's
+6 	 3 	 N/N 	 1 	 company No.
+6 	 4 	 N/N 	 1 	 company 2
+6 	 5 	 N/N 	 1 	 company aluminum
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+8 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 earnings were
+8 	 10 	 S[pss]\NP 	 1 	 earnings hurt <XB>
+9 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+10 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 hurt were
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 hurt by
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 prices by
+13 	 12 	 N/N 	 1 	 prices lower
+13 	 14 	 (NP\NP)/NP 	 1 	 prices for
+18 	 14 	 (NP\NP)/NP 	 2 	 products for
+18 	 15 	 N/N 	 1 	 products certain
+18 	 16 	 N/N 	 1 	 products fabricated
+18 	 17 	 N/N 	 1 	 products aluminum
+18 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 products which
+18 	 22 	 (S[dcl]\NP)/NP 	 1 	 products follow <XB>
+22 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 follow which
+22 	 21 	 (S\NP)/(S\NP) 	 2 	 follow typically
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 fluctuations follow
+24 	 23 	 N/N 	 1 	 fluctuations price
+24 	 25 	 (NP\NP)/NP 	 1 	 fluctuations of
+27 	 25 	 (NP\NP)/NP 	 2 	 ingots of
+27 	 26 	 N/N 	 1 	 ingots primary
+<\s>
+<s id="wsj_2123.10"> 17
+3 	 0 	 NP[nb]/N 	 1 	 price The
+3 	 1 	 N/N 	 1 	 price base
+3 	 2 	 N/N 	 1 	 price metal
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 price has
+3 	 5 	 S[pt]\NP 	 1 	 price dropped <XB>
+3 	 11 	 (S[adj]\NP)\NP 	 1 	 price earlier <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 dropped has
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 dropped %
+5 	 8 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 dropped from
+5 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 dropped to
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 30.3
+10 	 9 	 NP[nb]/N 	 1 	 year a
+10 	 11 	 (S[adj]\NP)\NP 	 2 	 year earlier
+11 	 8 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 earlier from
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+14 	 13 	 N/N 	 1 	 cents 78
+14 	 15 	 (NP\NP)/N 	 1 	 cents a
+16 	 15 	 (NP\NP)/N 	 2 	 pound a
+<\s>
+<s id="wsj_2123.11"> 23
+0 	 1 	 (NP\NP)/NP 	 1 	 Much of
+0 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Much has
+0 	 7 	 (S[pss]\NP)/PP 	 1 	 Much blamed <XB>
+4 	 1 	 (NP\NP)/NP 	 2 	 decline of
+4 	 2 	 NP[nb]/N 	 1 	 decline the
+4 	 3 	 N/N 	 1 	 decline price
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+7 	 6 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 blamed been
+8 	 7 	 (S[pss]\NP)/PP 	 2 	 on blamed
+11 	 8 	 PP/NP 	 1 	 economy on
+11 	 9 	 NP[nb]/N 	 1 	 economy a
+11 	 10 	 N/N 	 1 	 economy slowing
+15 	 13 	 NP[nb]/N 	 1 	 quarter the
+15 	 14 	 N/N 	 1 	 quarter third
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 quarter is
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 is typically
+19 	 18 	 NP[nb]/N 	 1 	 industry the
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 industry 's
+22 	 16 	 (S[dcl]\NP)/NP 	 2 	 period is
+22 	 20 	 (NP[nb]/N)\NP 	 1 	 period 's
+22 	 21 	 N/N 	 1 	 period slowest
+<\s>
+<s id="wsj_2123.12"> 20
+3 	 1 	 N/N 	 1 	 Bourke William
+3 	 2 	 N/N 	 1 	 Bourke O.
+3 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 Bourke said
+5 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 chairman said
+9 	 7 	 N/N 	 1 	 officer chief
+9 	 8 	 N/N 	 1 	 officer executive
+9 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 officer said
+11 	 0 	 S/S 	 1 	 said But
+14 	 12 	 NP[nb]/N 	 1 	 price the
+14 	 13 	 N/N 	 1 	 price ingot
+14 	 15 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 price appears
+14 	 18 	 S[pt]\NP 	 1 	 price bottomed <XB>
+15 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 appears said
+16 	 15 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to appears
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+18 	 17 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 bottomed have
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 bottomed out
+<\s>
+<s id="wsj_2123.13"> 16
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 shipments are
+2 	 4 	 S[ng]\NP 	 1 	 shipments continuing <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 continuing are
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 continuing at
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 pace at
+8 	 6 	 NP[nb]/N 	 1 	 pace a
+8 	 7 	 N/N 	 1 	 pace healthy
+11 	 10 	 NP[nb]/N 	 1 	 company the
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 company has
+12 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+15 	 12 	 (S[dcl]\NP)/NP 	 2 	 inventory has
+15 	 13 	 NP[nb]/N 	 1 	 inventory no
+15 	 14 	 N/N 	 1 	 inventory excess
+<\s>
+<s id="wsj_2123.14"> 17
+1 	 0 	 N/N 	 1 	 shipments Aluminum
+1 	 2 	 (NP\NP)/NP 	 1 	 shipments of
+1 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 shipments were
+1 	 8 	 (S[adj]\NP)/PP 	 1 	 shipments equal <XB>
+5 	 2 	 (NP\NP)/NP 	 2 	 tons of
+5 	 3 	 N/N 	 1 	 tons 329,600
+5 	 4 	 N/N 	 1 	 tons metric
+6 	 16 	 (S[dcl]\S[dcl])\NP 	 1 	 were said
+8 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 equal were
+8 	 7 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 equal nearly
+9 	 8 	 (S[adj]\NP)/PP 	 2 	 to equal
+12 	 9 	 PP/NP 	 1 	 period to
+12 	 10 	 NP[nb]/N 	 1 	 period the
+12 	 11 	 N/N 	 1 	 period year-earlier
+15 	 14 	 NP[nb]/N 	 1 	 company the
+15 	 16 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>
+<s id="wsj_2123.15"> 24
+3 	 2 	 NP[nb]/N 	 1 	 company the
+3 	 4 	 (S[dcl]\NP)/S[em] 	 1 	 company said
+4 	 0 	 S/S 	 1 	 said Nevertheless
+5 	 4 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+9 	 6 	 (S/S)/NP 	 2 	 quarter in
+9 	 7 	 NP[nb]/N 	 1 	 quarter the
+9 	 8 	 N/N 	 1 	 quarter latest
+10 	 11 	 (S[dcl]\NP[thr])/NP 	 1 	 there were
+11 	 5 	 S[em]/S[dcl] 	 1 	 were that
+11 	 6 	 (S/S)/NP 	 1 	 were in
+16 	 11 	 (S[dcl]\NP[thr])/NP 	 2 	 costs were
+16 	 12 	 N/N 	 1 	 costs increased
+16 	 13 	 N/N 	 1 	 costs material
+16 	 15 	 N/N 	 1 	 costs labor
+16 	 18 	 (NP\NP)/NP 	 1 	 costs including
+23 	 18 	 (NP\NP)/NP 	 2 	 plan including
+23 	 19 	 NP[nb]/N 	 1 	 plan a
+23 	 20 	 N/N 	 1 	 plan new
+23 	 21 	 N/N 	 1 	 plan employee
+23 	 22 	 N/N 	 1 	 plan profit-sharing
+<\s>
+<s id="wsj_2123.16"> 19
+2 	 0 	 (S/S)/NP 	 2 	 trading In
+2 	 1 	 N/N 	 1 	 trading composite
+2 	 3 	 (NP\NP)/NP 	 1 	 trading on
+8 	 3 	 (NP\NP)/NP 	 2 	 Exchange on
+8 	 4 	 NP[nb]/N 	 1 	 Exchange the
+8 	 5 	 N/N 	 1 	 Exchange New
+8 	 6 	 N/N 	 1 	 Exchange York
+8 	 7 	 N/N 	 1 	 Exchange Stock
+10 	 11 	 (S[dcl]\NP)/PP 	 1 	 Reynolds closed
+11 	 0 	 (S/S)/NP 	 1 	 closed In
+11 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+12 	 11 	 (S[dcl]\NP)/PP 	 2 	 at closed
+13 	 12 	 PP/NP 	 1 	 $ at
+14 	 13 	 N/N[num] 	 1 	 55.375 $
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ up
+18 	 17 	 N/N[num] 	 1 	 1.25 $
+<\s>

@@ -1,0 +1,58 @@
+<s id="wsj_1835.1"> 21
+2 	 0 	 N/N 	 1 	 Smith Denis
+2 	 1 	 N/N 	 1 	 Smith C.
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Smith was
+2 	 4 	 (S[pss]\NP)/PP 	 1 	 Smith named <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 to named
+8 	 5 	 PP/NP 	 1 	 post to
+8 	 6 	 NP[nb]/N 	 1 	 post the
+8 	 7 	 N/N 	 1 	 post new
+8 	 9 	 (NP\NP)/NP 	 1 	 post of
+11 	 9 	 (NP\NP)/NP 	 2 	 president of
+11 	 10 	 N/N 	 1 	 president vice
+11 	 12 	 (NP\NP)/NP 	 1 	 president of
+11 	 17 	 (NP\NP)/NP 	 1 	 president for
+16 	 12 	 (NP\NP)/NP 	 2 	 operations of
+16 	 13 	 N/N 	 1 	 operations world-wide
+16 	 14 	 N/N 	 1 	 operations advanced
+16 	 15 	 N/N 	 1 	 operations materials
+20 	 17 	 (NP\NP)/NP 	 2 	 concern for
+20 	 18 	 NP[nb]/N 	 1 	 concern this
+20 	 19 	 N/N 	 1 	 concern chemicals
+<\s>
+<s id="wsj_1835.2"> 25
+1 	 0 	 N/N 	 1 	 Smith Mr.
+1 	 5 	 (S[adj]\NP)\NP 	 1 	 Smith old <XB>
+1 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Smith was
+1 	 9 	 (S[adj]\NP)/PP 	 1 	 Smith responsible <XB>
+4 	 3 	 N/N 	 1 	 years 50
+4 	 5 	 (S[adj]\NP)\NP 	 2 	 years old
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 was formerly
+7 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 was in
+9 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 responsible was
+10 	 9 	 (S[adj]\NP)/PP 	 2 	 for responsible
+12 	 10 	 PP/NP 	 1 	 materials for
+12 	 11 	 N/N 	 1 	 materials advanced
+12 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 materials which
+12 	 15 	 (S[dcl]\NP)/NP 	 1 	 materials include <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 include which
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 composites include
+17 	 16 	 N/N 	 1 	 composites plastic
+19 	 15 	 (S[dcl]\NP)/NP 	 2 	 alloys include
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 America in
+23 	 22 	 N/N 	 1 	 America North
+23 	 24 	 NP\NP 	 1 	 America only
+<\s>
+<s id="wsj_1835.3"> 12
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Himont is
+0 	 2 	 (S[adj]\NP)/PP 	 1 	 Himont 81%-owned <XB>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 81%-owned is
+3 	 2 	 (S[adj]\NP)/PP 	 2 	 by 81%-owned
+7 	 3 	 PP/NP 	 1 	 A. by
+7 	 4 	 N/N 	 1 	 A. Montedison
+7 	 5 	 N/N 	 1 	 A. S.p
+7 	 8 	 (NP\NP)/NP 	 1 	 A. of
+9 	 8 	 (NP\NP)/NP 	 2 	 Milan of
+11 	 8 	 (NP\NP)/NP 	 2 	 Italy of
+<\s>

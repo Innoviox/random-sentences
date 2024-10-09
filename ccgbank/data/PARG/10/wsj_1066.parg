@@ -1,0 +1,363 @@
+<s id="wsj_1066.1"> 36
+1 	 0 	 N/N 	 1 	 Inc. Delmed
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Inc. 's
+5 	 2 	 (NP[nb]/N)\NP 	 1 	 officers 's
+5 	 3 	 N/N 	 1 	 officers top
+5 	 4 	 N/N 	 1 	 officers two
+5 	 6 	 S[dcl]\NP 	 1 	 officers resigned
+5 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 officers were <XU>
+5 	 9 	 S[pss]\NP 	 1 	 officers succeeded <XU>
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 succeeded were
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 succeeded by
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 executives by
+11 	 12 	 (NP\NP)/NP 	 1 	 executives of
+15 	 12 	 (NP\NP)/NP 	 2 	 Inc. of
+15 	 13 	 N/N 	 1 	 Inc. Fresenius
+15 	 14 	 N/N 	 1 	 Inc. USA
+18 	 12 	 (NP\NP)/NP 	 2 	 parent of
+18 	 17 	 NP[nb]/N 	 1 	 parent its
+21 	 12 	 (NP\NP)/NP 	 2 	 AG of
+21 	 20 	 N/N 	 1 	 AG Fresenius
+26 	 12 	 (NP\NP)/NP 	 2 	 holder of
+26 	 23 	 NP[nb]/N 	 1 	 holder a
+26 	 24 	 N/N 	 1 	 holder major
+26 	 25 	 N/N 	 1 	 holder Delmed
+26 	 27 	 (NP\NP)/(S[dcl]\NP) 	 1 	 holder that
+26 	 28 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 holder has <XB>
+26 	 30 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 holder negotiating <XB>
+26 	 32 	 (S[b]\NP)/NP 	 1 	 holder acquire <XB>
+28 	 27 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has that
+29 	 28 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+30 	 29 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 negotiating been
+31 	 30 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to negotiating
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+35 	 32 	 (S[b]\NP)/NP 	 2 	 stake acquire
+35 	 33 	 NP[nb]/N 	 1 	 stake a
+35 	 34 	 N/N 	 1 	 stake controlling
+<\s>
+<s id="wsj_1066.2"> 35
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+3 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Delmed which
+3 	 6 	 (S[dcl]\NP)/NP 	 1 	 Delmed makes <XB>
+3 	 8 	 (S[dcl]\NP)/NP 	 1 	 Delmed sells <XU>
+3 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 Delmed said
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 makes which
+8 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 sells which
+11 	 6 	 (S[dcl]\NP)/NP 	 2 	 solution makes <XU>
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 solution sells
+11 	 9 	 NP[nb]/N 	 1 	 solution a
+11 	 10 	 N/N 	 1 	 solution dialysis
+11 	 12 	 S[pss]\NP 	 1 	 solution used <XB>
+11 	 14 	 (S[ng]\NP)/NP 	 1 	 solution treating <XB>
+12 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 used in
+14 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 treating in
+16 	 14 	 (S[ng]\NP)/NP 	 2 	 diseases treating
+16 	 15 	 N/N 	 1 	 diseases kidney
+18 	 0 	 (S/S)/NP 	 1 	 said In
+19 	 20 	 (NP\NP)/NP 	 1 	 negotiations about
+19 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 negotiations had
+19 	 23 	 S[pt]\NP 	 1 	 negotiations collapsed <XB>
+21 	 20 	 (NP\NP)/NP 	 2 	 pricing about
+22 	 18 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+23 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 collapsed had
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 collapsed between
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 it between
+29 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 distributor between
+29 	 27 	 NP[nb]/N 	 1 	 distributor a
+29 	 28 	 N/N 	 1 	 distributor major
+34 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Inc between
+34 	 31 	 N/N 	 1 	 Inc National
+34 	 32 	 N/N 	 1 	 Inc Medical
+34 	 33 	 N/N 	 1 	 Inc Care
+<\s>
+<s id="wsj_1066.3"> 13
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Delmed said
+4 	 2 	 N/N 	 1 	 Ehrlich Robert
+4 	 3 	 N/N 	 1 	 Ehrlich S.
+4 	 5 	 (S[dcl]\NP)/PP 	 1 	 Ehrlich resigned
+5 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 resigned said
+6 	 5 	 (S[dcl]\NP)/PP 	 2 	 as resigned
+7 	 6 	 PP/NP 	 1 	 chairman as
+9 	 6 	 PP/NP 	 1 	 president as
+12 	 6 	 PP/NP 	 1 	 executive as
+12 	 11 	 N/N 	 1 	 executive chief
+<\s>
+<s id="wsj_1066.4"> 10
+1 	 0 	 N/N 	 1 	 Ehrlich Mr.
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Ehrlich will
+1 	 3 	 (S[b]\NP)/PP 	 1 	 Ehrlich continue <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue will
+4 	 3 	 (S[b]\NP)/PP 	 2 	 as continue
+6 	 4 	 PP/NP 	 1 	 director as
+6 	 5 	 NP[nb]/N 	 1 	 director a
+9 	 4 	 PP/NP 	 1 	 consultant as
+9 	 8 	 NP[nb]/N 	 1 	 consultant a
+<\s>
+<s id="wsj_1066.5"> 18
+2 	 0 	 N/N 	 1 	 Shapiro Leslie
+2 	 1 	 N/N 	 1 	 Shapiro I.
+2 	 13 	 S[dcl]\NP 	 1 	 Shapiro resigned
+6 	 4 	 N/N 	 1 	 officer chief
+6 	 5 	 N/N 	 1 	 officer operating
+6 	 13 	 S[dcl]\NP 	 1 	 officer resigned
+10 	 8 	 N/N 	 1 	 officer chief
+10 	 9 	 N/N 	 1 	 officer financial
+10 	 13 	 S[dcl]\NP 	 1 	 officer resigned
+13 	 12 	 (S\NP)/(S\NP) 	 2 	 resigned also
+13 	 17 	 (S[dcl]\S[dcl])\NP 	 1 	 resigned said
+16 	 15 	 NP[nb]/N 	 1 	 company the
+16 	 17 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>
+<s id="wsj_1066.6"> 20
+1 	 0 	 N/N 	 1 	 Ehrlich Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Ehrlich was
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 Ehrlich succeeded <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 succeeded was
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 succeeded by
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 as succeeded
+5 	 4 	 PP/NP 	 1 	 chairman as
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Krick by
+8 	 7 	 N/N 	 1 	 Krick Gerd
+11 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 director by
+11 	 10 	 NP[nb]/N 	 1 	 director a
+11 	 12 	 (NP\NP)/NP 	 1 	 director of
+13 	 12 	 (NP\NP)/NP 	 2 	 Fresenius of
+17 	 16 	 (N/N)/(N/N) 	 2 	 German West
+19 	 12 	 (NP\NP)/NP 	 2 	 concern of
+19 	 15 	 NP[nb]/N 	 1 	 concern a
+19 	 17 	 N/N 	 1 	 concern German
+19 	 18 	 N/N 	 1 	 concern pharmaceutical
+<\s>
+<s id="wsj_1066.7"> 18
+1 	 0 	 N/N 	 1 	 Lipps Ben
+1 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Lipps was
+1 	 9 	 (S[pss]\NP)/NP 	 1 	 Lipps named <XB>
+3 	 4 	 (NP\NP)/NP 	 1 	 president of
+3 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 president was
+3 	 9 	 (S[pss]\NP)/NP 	 1 	 president named <XB>
+6 	 4 	 (NP\NP)/NP 	 2 	 USA of
+6 	 5 	 N/N 	 1 	 USA Fresenius
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+10 	 9 	 (S[pss]\NP)/NP 	 2 	 president named
+13 	 9 	 (S[pss]\NP)/NP 	 2 	 executive named
+13 	 12 	 N/N 	 1 	 executive chief
+17 	 9 	 (S[pss]\NP)/NP 	 2 	 officer named
+17 	 15 	 N/N 	 1 	 officer chief
+17 	 16 	 N/N 	 1 	 officer operating
+<\s>
+<s id="wsj_1066.8"> 8
+0 	 1 	 (NP\NP)/NP 	 1 	 None of
+0 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 None was
+0 	 5 	 (S[adj]\NP)/PP 	 1 	 None available <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 officials of
+3 	 2 	 NP[nb]/N 	 1 	 officials the
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 available was
+6 	 5 	 (S[adj]\NP)/PP 	 2 	 for available
+7 	 6 	 PP/NP 	 1 	 comment for
+<\s>
+<s id="wsj_1066.9"> 17
+1 	 0 	 (S/S)/NP 	 2 	 trading In
+1 	 2 	 (NP\NP)/NP 	 1 	 trading on
+6 	 2 	 (NP\NP)/NP 	 2 	 Exchange on
+6 	 3 	 NP[nb]/N 	 1 	 Exchange the
+6 	 4 	 N/N 	 1 	 Exchange American
+6 	 5 	 N/N 	 1 	 Exchange Stock
+8 	 9 	 ((S[dcl]\NP)/(S[adj]\NP))/PP 	 1 	 Delmed closed
+8 	 14 	 (S[adj]\NP)/NP 	 1 	 Delmed down <XB>
+9 	 0 	 (S/S)/NP 	 1 	 closed In
+10 	 9 	 ((S[dcl]\NP)/(S[adj]\NP))/PP 	 3 	 at closed
+12 	 10 	 PP/NP 	 1 	 cents at
+12 	 11 	 N/N 	 1 	 cents 50
+14 	 9 	 ((S[dcl]\NP)/(S[adj]\NP))/PP 	 2 	 down closed
+16 	 14 	 (S[adj]\NP)/NP 	 2 	 cents down
+16 	 15 	 N/N 	 1 	 cents 6.25
+<\s>
+<s id="wsj_1066.10"> 12
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Fresenius owns
+3 	 2 	 (N/N)/(N/N) 	 2 	 42 about
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 % owns
+4 	 3 	 N/N 	 1 	 % 42
+4 	 5 	 (NP\NP)/NP 	 1 	 % of
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Delmed 's
+9 	 8 	 (N/N)/(N/N) 	 2 	 diluted fully
+11 	 5 	 (NP\NP)/NP 	 2 	 stock of
+11 	 7 	 (NP[nb]/N)\NP 	 1 	 stock 's
+11 	 9 	 N/N 	 1 	 stock diluted
+11 	 10 	 N/N 	 1 	 stock common
+<\s>
+<s id="wsj_1066.11"> 36
+2 	 0 	 NP[nb]/N 	 1 	 companies The
+2 	 1 	 N/N 	 1 	 companies two
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 companies have
+2 	 5 	 (S[ng]\NP)/NP 	 1 	 companies discussing <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+5 	 4 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 discussing been
+7 	 5 	 (S[ng]\NP)/NP 	 2 	 transaction discussing
+7 	 6 	 NP[nb]/N 	 1 	 transaction a
+7 	 9 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 transaction which
+8 	 9 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 under which
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Fresenius would
+10 	 12 	 ((S[b]\NP)/PP)/NP 	 1 	 Fresenius buy <XB>
+10 	 18 	 ((S[b]\NP)/PP)/NP 	 1 	 Fresenius bring <XB>
+11 	 9 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 would which
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 buy would
+14 	 12 	 ((S[b]\NP)/PP)/NP 	 3 	 stock buy
+14 	 13 	 N/N 	 1 	 stock Delmed
+15 	 12 	 ((S[b]\NP)/PP)/NP 	 2 	 for buy
+16 	 15 	 PP/NP 	 1 	 cash for
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 bring to
+21 	 18 	 ((S[b]\NP)/PP)/NP 	 3 	 ownership bring
+21 	 19 	 NP[nb]/N 	 1 	 ownership its
+21 	 20 	 N/N 	 1 	 ownership beneficial
+22 	 18 	 ((S[b]\NP)/PP)/NP 	 2 	 to bring
+25 	 22 	 PP/NP 	 1 	 % to
+25 	 23 	 N/N 	 1 	 % between
+25 	 24 	 N/N 	 1 	 % 70
+25 	 29 	 (NP\NP)/NP 	 1 	 % of
+28 	 22 	 PP/NP 	 1 	 % to
+28 	 23 	 N/N 	 1 	 % between
+28 	 27 	 N/N 	 1 	 % 80
+28 	 29 	 (NP\NP)/NP 	 1 	 % of
+30 	 31 	 (NP[nb]/N)\NP 	 2 	 Delmed 's
+33 	 32 	 (N/N)/(N/N) 	 2 	 diluted fully
+35 	 29 	 (NP\NP)/NP 	 2 	 stock of
+35 	 31 	 (NP[nb]/N)\NP 	 1 	 stock 's
+35 	 33 	 N/N 	 1 	 stock diluted
+35 	 34 	 N/N 	 1 	 stock common
+<\s>
+<s id="wsj_1066.12"> 9
+1 	 0 	 NP[nb]/N 	 1 	 transaction The
+1 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 transaction would
+1 	 4 	 (S[b]\NP)/NP 	 1 	 transaction combine <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 would also
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 combine would
+6 	 4 	 (S[b]\NP)/NP 	 2 	 USA combine
+6 	 5 	 N/N 	 1 	 USA Fresenius
+8 	 4 	 (S[b]\NP)/NP 	 2 	 Delmed combine
+<\s>
+<s id="wsj_1066.13"> 37
+2 	 0 	 (S/S)/NP 	 2 	 proposal Under
+2 	 1 	 NP[nb]/N 	 1 	 proposal the
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Delmed would
+4 	 6 	 (((S[b]\NP)/PP)/PP)/NP 	 1 	 Delmed issue <XB>
+5 	 0 	 (S/S)/NP 	 1 	 would Under
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 issue would
+9 	 7 	 (N/N)/(N/N) 	 2 	 million about
+9 	 8 	 (N/N)/(N/N) 	 2 	 million 123.5
+13 	 6 	 (((S[b]\NP)/PP)/PP)/NP 	 4 	 shares issue
+13 	 9 	 N/N 	 1 	 shares million
+13 	 10 	 N/N 	 1 	 shares additional
+13 	 11 	 N/N 	 1 	 shares Delmed
+13 	 12 	 N/N 	 1 	 shares common
+14 	 6 	 (((S[b]\NP)/PP)/PP)/NP 	 3 	 to issue
+15 	 14 	 PP/NP 	 1 	 Fresenius to
+16 	 6 	 (((S[b]\NP)/PP)/PP)/NP 	 2 	 at issue
+19 	 16 	 PP/NP 	 1 	 price at
+19 	 17 	 NP[nb]/N 	 1 	 price an
+19 	 18 	 N/N 	 1 	 price average
+19 	 20 	 (NP\NP)/NP 	 1 	 price of
+22 	 21 	 (N/N)/(N/N) 	 2 	 65 about
+23 	 20 	 (NP\NP)/NP 	 2 	 cents of
+23 	 22 	 N/N 	 1 	 cents 65
+23 	 24 	 (NP\NP)/N 	 1 	 cents a
+23 	 27 	 (NP\NP)/NP 	 1 	 cents though
+25 	 24 	 (NP\NP)/N 	 2 	 share a
+30 	 28 	 (NP/NP)/NP 	 2 	 circumstances under
+30 	 29 	 NP[nb]/N 	 1 	 circumstances no
+31 	 32 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+33 	 32 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 75 than
+34 	 27 	 (NP\NP)/NP 	 2 	 cents though
+34 	 28 	 (NP/NP)/NP 	 1 	 cents under
+34 	 33 	 N/N 	 1 	 cents 75
+34 	 35 	 (NP\NP)/N 	 1 	 cents a
+36 	 35 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_1066.14"> 16
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Delmed said
+3 	 0 	 S/S 	 1 	 said Yesterday
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it continues
+4 	 7 	 (S[b]\NP)/NP 	 1 	 it explore <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 continues said
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continues
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 explore to
+9 	 7 	 (S[b]\NP)/NP 	 2 	 possibility explore
+9 	 8 	 NP[nb]/N 	 1 	 possibility the
+9 	 10 	 (NP\NP)/NP 	 1 	 possibility of
+12 	 10 	 (NP\NP)/NP 	 2 	 combination of
+12 	 11 	 NP[nb]/N 	 1 	 combination a
+12 	 13 	 (NP\NP)/NP 	 1 	 combination with
+15 	 13 	 (NP\NP)/NP 	 2 	 USA with
+15 	 14 	 N/N 	 1 	 USA Fresenius
+<\s>
+<s id="wsj_1066.15"> 21
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 It added
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that added
+3 	 4 	 ((S[dcl]\NP[expl])/S[em])/(S[adj]\NP) 	 1 	 it is
+4 	 2 	 S[em]/S[dcl] 	 1 	 is that
+5 	 4 	 ((S[dcl]\NP[expl])/S[em])/(S[adj]\NP) 	 3 	 apparent is
+6 	 4 	 ((S[dcl]\NP[expl])/S[em])/(S[adj]\NP) 	 2 	 that is
+8 	 7 	 NP[nb]/N 	 1 	 terms any
+8 	 9 	 (NP\NP)/NP 	 1 	 terms of
+8 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 terms would
+8 	 16 	 S[adj]\NP 	 1 	 terms favorable <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 combination of
+11 	 10 	 NP[nb]/N 	 1 	 combination a
+12 	 6 	 S[em]/S[dcl] 	 1 	 would that
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+16 	 13 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 favorable be
+16 	 14 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 favorable substantially
+16 	 15 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 favorable less
+16 	 17 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 favorable than
+18 	 17 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 those than
+18 	 20 	 S[pss]\NP 	 1 	 those announced <XB>
+20 	 19 	 (S\NP)/(S\NP) 	 2 	 announced previously
+<\s>
+<s id="wsj_1066.16"> 34
+2 	 1 	 NP[nb]/N 	 1 	 discussions the
+2 	 3 	 (NP\NP)/NP 	 1 	 discussions between
+2 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 discussions have
+2 	 11 	 S[pss]\NP 	 1 	 discussions discontinued <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 Delmed between
+8 	 3 	 (NP\NP)/NP 	 2 	 Care between
+8 	 6 	 N/N 	 1 	 Care National
+8 	 7 	 N/N 	 1 	 Care Medical
+9 	 0 	 (S/S)/S[dcl] 	 2 	 have While
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+11 	 10 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 discontinued been
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Delmed will
+13 	 15 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Delmed continue <XB>
+13 	 17 	 (S[b]\NP)/NP 	 1 	 Delmed supply <XB>
+14 	 0 	 (S/S)/S[dcl] 	 1 	 will While
+14 	 33 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue will
+15 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 continue after
+16 	 15 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to continue
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 supply to
+17 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 supply through
+19 	 17 	 (S[b]\NP)/NP 	 2 	 products supply
+19 	 18 	 N/N 	 1 	 products dialysis
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 Medical through
+22 	 21 	 N/N 	 1 	 Medical National
+26 	 24 	 NP[nb]/N 	 1 	 agreement their
+26 	 25 	 N/N 	 1 	 agreement exclusive
+26 	 27 	 S[dcl]\NP 	 1 	 agreement ends
+27 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 ends after
+27 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 ends in
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 March in
+29 	 30 	 N\N 	 1 	 March 1990
+32 	 33 	 (S[dcl]\S[dcl])\NP 	 2 	 Delmed said
+<\s>
+<s id="wsj_1066.17"> 14
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Delmed is
+3 	 5 	 (S[ng]\NP)/NP 	 1 	 Delmed exploring <XB>
+4 	 0 	 (S/S)/NP 	 1 	 is In
+4 	 13 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 exploring is
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 exploring with
+7 	 5 	 (S[ng]\NP)/NP 	 2 	 arrangements exploring
+7 	 6 	 N/N 	 1 	 arrangements distribution
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 USA with
+10 	 9 	 N/N 	 1 	 USA Fresenius
+12 	 13 	 (S[dcl]\S[dcl])\NP 	 2 	 Delmed said
+<\s>

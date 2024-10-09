@@ -1,0 +1,938 @@
+<s id="wsj_0088.1"> 18
+3 	 0 	 NP[nb]/N 	 1 	 Exchange The
+3 	 1 	 N/N 	 1 	 Exchange Chicago
+3 	 2 	 N/N 	 1 	 Exchange Mercantile
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Exchange said
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it plans
+5 	 8 	 (S[b]\NP)/NP 	 1 	 it institute <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 plans said
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 institute to
+12 	 8 	 (S[b]\NP)/NP 	 2 	 breaker institute
+12 	 9 	 NP[nb]/N 	 1 	 breaker an
+12 	 10 	 N/N 	 1 	 breaker additional
+12 	 11 	 N/N 	 1 	 breaker circuit
+12 	 13 	 (S[pss]\NP)/PP 	 1 	 breaker aimed <XB>
+14 	 13 	 (S[pss]\NP)/PP 	 2 	 at aimed
+15 	 14 	 PP/(S[ng]\NP) 	 1 	 stemming at
+17 	 15 	 (S[ng]\NP)/NP 	 2 	 slides stemming
+17 	 16 	 N/N 	 1 	 slides market
+<\s>
+<s id="wsj_0088.2"> 27
+3 	 2 	 N/N 	 1 	 Phelan John
+3 	 4 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 Phelan told
+4 	 0 	 S/S 	 1 	 told Separately
+9 	 4 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 meeting told
+9 	 5 	 NP[nb]/N 	 1 	 meeting a
+9 	 6 	 N/N 	 1 	 meeting closed
+9 	 7 	 N/N 	 1 	 meeting House
+9 	 8 	 N/N 	 1 	 meeting subcommittee
+9 	 10 	 (NP\NP)/NP 	 1 	 meeting in
+11 	 10 	 (NP\NP)/NP 	 2 	 Washington in
+12 	 4 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that told
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he would
+13 	 15 	 (S[b]\NP)/NP 	 1 	 he support <XB>
+14 	 12 	 S[em]/S[dcl] 	 1 	 would that
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 support would
+20 	 15 	 (S[b]\NP)/NP 	 2 	 halts support
+20 	 16 	 N/N 	 1 	 halts Securities
+20 	 18 	 N/N 	 1 	 halts Exchange
+20 	 19 	 N/N 	 1 	 halts Commission
+20 	 21 	 (NP\NP)/NP 	 1 	 halts of
+20 	 24 	 (NP\NP)/NP 	 1 	 halts during
+23 	 21 	 (NP\NP)/NP 	 2 	 trading of
+23 	 22 	 N/N 	 1 	 trading program
+26 	 24 	 (NP\NP)/NP 	 2 	 emergencies during
+26 	 25 	 N/N 	 1 	 emergencies market
+<\s>
+<s id="wsj_0088.3"> 28
+6 	 1 	 NP[nb]/N 	 1 	 chairman the
+6 	 2 	 N/N 	 1 	 chairman New
+6 	 3 	 N/N 	 1 	 chairman York
+6 	 4 	 N/N 	 1 	 chairman Stock
+6 	 5 	 N/N 	 1 	 chairman Exchange
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 chairman said
+6 	 19 	 (S[ng]\NP)/S[em] 	 1 	 chairman arguing <XB>
+7 	 0 	 S/S 	 1 	 said But
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he does
+8 	 11 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 he support <XB>
+8 	 12 	 ((S[ng]\NP)/PP)/NP 	 1 	 he reinstating <XB>
+9 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 does said
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 does n't
+11 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 support does
+12 	 11 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 reinstating support
+14 	 12 	 ((S[ng]\NP)/PP)/NP 	 3 	 collar reinstating
+14 	 13 	 NP[nb]/N 	 1 	 collar a
+15 	 12 	 ((S[ng]\NP)/PP)/NP 	 2 	 on reinstating
+17 	 15 	 PP/NP 	 1 	 trading on
+17 	 16 	 N/N 	 1 	 trading program
+20 	 19 	 (S[ng]\NP)/S[em] 	 2 	 that arguing
+21 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 firms could
+21 	 23 	 (S[b]\NP)/PP 	 1 	 firms get <XB>
+22 	 20 	 S[em]/S[dcl] 	 1 	 could that
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 get could
+24 	 23 	 (S[b]\NP)/PP 	 2 	 around get
+27 	 24 	 PP/NP 	 1 	 limit around
+27 	 25 	 NP/NP 	 1 	 limit such
+27 	 26 	 NP[nb]/N 	 1 	 limit a
+<\s>
+<s id="wsj_0088.4"> 44
+2 	 0 	 NP[nb]/N 	 1 	 Merc The
+2 	 1 	 N/N 	 1 	 Merc Chicago
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Merc said
+8 	 4 	 NP[nb]/N 	 1 	 limit a
+8 	 5 	 N/N 	 1 	 limit new
+8 	 6 	 N/N 	 1 	 limit one-hour
+8 	 7 	 N/N 	 1 	 limit price
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 limit would
+8 	 10 	 (S[b]\NP)/NP 	 1 	 limit take <XB>
+9 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take would
+10 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 take in
+10 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 take once
+11 	 10 	 (S[b]\NP)/NP 	 2 	 effect take
+17 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 's in
+17 	 13 	 NP/NP 	 1 	 's its
+17 	 14 	 N/N 	 1 	 's Standard
+17 	 15 	 N/N 	 1 	 's &
+17 	 16 	 N/N 	 1 	 's Poor
+17 	 18 	 NP\NP 	 1 	 's 500
+17 	 19 	 NP\NP 	 1 	 's stock-index
+17 	 20 	 NP\NP 	 1 	 's futures
+17 	 21 	 NP\NP 	 1 	 's pit
+25 	 23 	 N/N 	 1 	 futures S&P
+25 	 24 	 N/N 	 1 	 futures 500
+25 	 26 	 S[dcl]\NP 	 1 	 futures fell
+26 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 fell once
+26 	 29 	 (S\NP)\(S\NP) 	 2 	 fell points
+29 	 27 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 points 20
+29 	 28 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 points index
+29 	 30 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 points --
+32 	 30 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 equivalent --
+32 	 31 	 NP[nb]/N 	 1 	 equivalent the
+32 	 33 	 (NP\NP)/NP 	 1 	 equivalent of
+37 	 33 	 (NP\NP)/NP 	 2 	 drop of
+37 	 34 	 NP/NP 	 1 	 drop about
+37 	 35 	 NP[nb]/N 	 1 	 drop a
+37 	 36 	 N/N 	 1 	 drop 150-point
+37 	 38 	 (NP\NP)/NP 	 1 	 drop in
+43 	 38 	 (NP\NP)/NP 	 2 	 Average in
+43 	 39 	 NP[nb]/N 	 1 	 Average the
+43 	 40 	 N/N 	 1 	 Average Dow
+43 	 41 	 N/N 	 1 	 Average Jones
+43 	 42 	 N/N 	 1 	 Average Industrial
+<\s>
+<s id="wsj_0088.5"> 27
+3 	 1 	 NP[nb]/N 	 1 	 limit the
+3 	 2 	 N/N 	 1 	 limit 20-point
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 limit is
+3 	 5 	 S[pss]\NP 	 1 	 limit triggered <XB>
+4 	 0 	 (S/S)/S[dcl] 	 2 	 is If
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 triggered is
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 triggered after
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 1:30 after
+7 	 8 	 N\N 	 1 	 1:30 p.m
+7 	 11 	 NP\NP 	 1 	 1:30 time
+11 	 10 	 (NP\NP)/(NP\NP) 	 2 	 time Chicago
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+13 	 15 	 (S[b]\NP)/PP 	 1 	 it remain <XB>
+14 	 0 	 (S/S)/S[dcl] 	 1 	 would If
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 remain would
+15 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 remain until
+16 	 15 	 (S[b]\NP)/PP 	 2 	 in remain
+17 	 16 	 PP/NP 	 1 	 effect in
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 close until
+21 	 19 	 NP[nb]/N 	 1 	 close the
+21 	 20 	 N/N 	 1 	 close normal
+21 	 22 	 (NP\NP)/NP 	 1 	 close of
+21 	 24 	 (NP\NP)/NP 	 1 	 close at
+23 	 22 	 (NP\NP)/NP 	 2 	 trading of
+25 	 24 	 (NP\NP)/NP 	 2 	 3:15 at
+25 	 26 	 N\N 	 1 	 3:15 p.m
+<\s>
+<s id="wsj_0088.6"> 26
+2 	 0 	 ((S/S)/PP)/NP 	 3 	 limit With
+2 	 1 	 NP[nb]/N 	 1 	 limit the
+3 	 0 	 ((S/S)/PP)/NP 	 2 	 in With
+4 	 3 	 PP/NP 	 1 	 effect in
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 members would
+6 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 members able <XB>
+7 	 0 	 ((S/S)/PP)/NP 	 1 	 would With
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+9 	 8 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 able be
+10 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 execute to
+11 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 execute at
+11 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 execute at <XU>
+11 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 execute below <XU>
+12 	 11 	 (S[b]\NP)/NP 	 2 	 trades execute
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 price at
+16 	 14 	 NP[nb]/N 	 1 	 price the
+16 	 15 	 N/N 	 1 	 price limit
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 prices at
+20 	 19 	 N/N 	 1 	 prices higher
+24 	 23 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 below not
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 it below
+<\s>
+<s id="wsj_0088.7"> 43
+1 	 0 	 NP[nb]/N 	 1 	 exchange The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 exchange said
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 it decided
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 decided said
+8 	 5 	 NP[nb]/N 	 1 	 breaker a
+8 	 6 	 N/N 	 1 	 breaker new
+8 	 7 	 N/N 	 1 	 breaker circuit
+8 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 breaker was
+8 	 10 	 S[pss]\NP 	 1 	 breaker needed <XB>
+9 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 was decided
+10 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 needed was
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 needed following
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 review following
+13 	 12 	 NP[nb]/N 	 1 	 review a
+13 	 14 	 (NP\NP)/NP 	 1 	 review of
+17 	 14 	 (NP\NP)/NP 	 2 	 trading of
+17 	 15 	 NP[nb]/N 	 1 	 trading the
+17 	 16 	 N/N 	 1 	 trading tumultuous
+17 	 18 	 (NP\NP)/NP 	 1 	 trading in
+17 	 23 	 (NP\NP)/NP 	 1 	 trading on
+19 	 18 	 (NP\NP)/NP 	 2 	 stocks in
+22 	 18 	 (NP\NP)/NP 	 2 	 futures in
+22 	 21 	 N/N 	 1 	 futures stock-index
+24 	 23 	 (NP\NP)/NP 	 2 	 Friday on
+24 	 25 	 (NP\NP)/N[num] 	 1 	 Friday Oct.
+24 	 28 	 (NP\NP)/S[dcl] 	 1 	 Friday when
+26 	 25 	 (NP\NP)/N[num] 	 2 	 13 Oct.
+32 	 29 	 NP[nb]/N 	 1 	 industrials the
+32 	 30 	 N/N 	 1 	 industrials Dow
+32 	 31 	 N/N 	 1 	 industrials Jones
+32 	 33 	 S[dcl]\NP 	 1 	 industrials plunged
+33 	 28 	 (NP\NP)/S[dcl] 	 2 	 plunged when
+33 	 35 	 (S\NP)\(S\NP) 	 2 	 plunged points
+35 	 34 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 points 190
+39 	 37 	 N/N 	 1 	 prices stock-index
+39 	 38 	 N/N 	 1 	 prices futures
+39 	 40 	 S[dcl]\NP 	 1 	 prices skidded
+40 	 28 	 (NP\NP)/S[dcl] 	 2 	 skidded when
+40 	 42 	 (S\NP)\(S\NP) 	 2 	 skidded well
+42 	 41 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 well as
+<\s>
+<s id="wsj_0088.8"> 34
+2 	 1 	 (S/S)/N 	 2 	 afternoon that
+8 	 3 	 NP[nb]/N 	 1 	 contract the
+8 	 4 	 N/N 	 1 	 contract S&P
+8 	 5 	 N/N 	 1 	 contract 500
+8 	 6 	 N/N 	 1 	 contract stock-index
+8 	 7 	 N/N 	 1 	 contract futures
+8 	 9 	 S[dcl]\NP 	 1 	 contract fell
+8 	 17 	 (S[ng]\NP)/NP 	 1 	 contract hitting <XB>
+9 	 0 	 S/S 	 1 	 fell Late
+9 	 1 	 (S/S)/N 	 1 	 fell that
+9 	 10 	 ((S\NP)\(S\NP))/N 	 2 	 fell a
+10 	 12 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 a of
+11 	 10 	 ((S\NP)\(S\NP))/N 	 3 	 total a
+15 	 12 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 points of
+15 	 13 	 N/N 	 1 	 points 30
+15 	 14 	 N/N 	 1 	 points index
+22 	 17 	 (S[ng]\NP)/NP 	 2 	 limit hitting
+22 	 18 	 NP[nb]/N 	 1 	 limit a
+22 	 19 	 N/N 	 1 	 limit Merc
+22 	 20 	 N/N 	 1 	 limit circuit
+22 	 21 	 N/N 	 1 	 limit breaker
+22 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 limit that
+22 	 24 	 (S[dcl]\NP)/PP 	 1 	 limit remained <XB>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 remained that
+24 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 remained for
+25 	 24 	 (S[dcl]\NP)/PP 	 2 	 in remained
+26 	 25 	 PP/NP 	 1 	 effect in
+29 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 rest for
+29 	 28 	 NP[nb]/N 	 1 	 rest the
+29 	 30 	 (NP\NP)/NP 	 1 	 rest of
+33 	 30 	 (NP\NP)/NP 	 2 	 session of
+33 	 31 	 NP[nb]/N 	 1 	 session the
+33 	 32 	 N/N 	 1 	 session trading
+<\s>
+<s id="wsj_0088.9"> 39
+1 	 0 	 NP[nb]/N 	 1 	 Merc The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Merc said
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+9 	 4 	 NP[nb]/N 	 1 	 limit its
+9 	 5 	 N/N 	 1 	 limit existing
+9 	 6 	 N/N 	 1 	 limit 30-minute
+9 	 8 	 N/N 	 1 	 limit 12-point
+9 	 10 	 (NP\NP)/NP 	 1 	 limit on
+9 	 16 	 (NP\NP)/(S[adj]\NP) 	 1 	 limit -LRB-
+9 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 limit which
+9 	 30 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 limit was <XB>
+9 	 31 	 S[pss]\NP 	 1 	 limit triggered <XB>
+9 	 35 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 limit will
+9 	 36 	 (S[b]\NP)/PP 	 1 	 limit remain <XB>
+15 	 10 	 (NP\NP)/NP 	 2 	 trading on
+15 	 11 	 N/N 	 1 	 trading S&P
+15 	 12 	 N/N 	 1 	 trading 500
+15 	 13 	 N/N 	 1 	 trading stock-index
+15 	 14 	 N/N 	 1 	 trading futures
+17 	 16 	 (NP\NP)/(S[adj]\NP) 	 2 	 equal -LRB-
+18 	 17 	 (S[adj]\NP)/PP 	 2 	 to equal
+20 	 19 	 (N/N)/(N/N) 	 2 	 100 about
+21 	 18 	 PP/NP 	 1 	 points to
+21 	 20 	 N/N 	 1 	 points 100
+21 	 22 	 (NP\NP)/NP 	 1 	 points on
+26 	 22 	 (NP\NP)/NP 	 2 	 industrials on
+26 	 23 	 NP[nb]/N 	 1 	 industrials the
+26 	 24 	 N/N 	 1 	 industrials Dow
+26 	 25 	 N/N 	 1 	 industrials Jones
+30 	 29 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was which
+31 	 30 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 triggered was
+31 	 32 	 ((S\NP)\(S\NP))/N[num] 	 2 	 triggered Oct.
+33 	 32 	 ((S\NP)\(S\NP))/N[num] 	 3 	 13 Oct.
+35 	 3 	 S[em]/S[dcl] 	 1 	 will that
+36 	 35 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 remain will
+37 	 36 	 (S[b]\NP)/PP 	 2 	 in remain
+38 	 37 	 PP/NP 	 1 	 effect in
+<\s>
+<s id="wsj_0088.10"> 21
+1 	 0 	 N/N 	 1 	 Melamed Leo
+1 	 8 	 (S[dcl]\NP)/S[em] 	 1 	 Melamed said
+6 	 3 	 N/N 	 1 	 chairman Merc
+6 	 4 	 N/N 	 1 	 chairman executive
+6 	 5 	 N/N 	 1 	 chairman committee
+6 	 8 	 (S[dcl]\NP)/S[em] 	 1 	 chairman said
+9 	 8 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+12 	 10 	 NP[nb]/N 	 1 	 limit the
+12 	 11 	 N/N 	 1 	 limit 12-point
+12 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 limit appeared
+12 	 15 	 (S[b]\NP)/NP 	 1 	 limit lessen <XB>
+13 	 9 	 S[em]/S[dcl] 	 1 	 appeared that
+14 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to appeared
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lessen to
+15 	 19 	 ((S\NP)\(S\NP))/N[num] 	 2 	 lessen Oct.
+18 	 15 	 (S[b]\NP)/NP 	 2 	 panic lessen
+18 	 16 	 NP[nb]/N 	 1 	 panic the
+18 	 17 	 N/N 	 1 	 panic selling
+20 	 19 	 ((S\NP)\(S\NP))/N[num] 	 3 	 13 Oct.
+<\s>
+<s id="wsj_0088.11"> 41
+3 	 2 	 NP[nb]/N 	 1 	 contract the
+3 	 4 	 S[dcl]\NP 	 1 	 contract reopened
+4 	 1 	 (S/S)/S[dcl] 	 2 	 reopened when
+8 	 6 	 NP[nb]/N 	 1 	 flood the
+8 	 7 	 N/N 	 1 	 flood subsequent
+8 	 9 	 (NP\NP)/NP 	 1 	 flood of
+8 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 flood that
+8 	 14 	 (S[dcl]\NP)/NP 	 1 	 flood knocked <XB>
+8 	 22 	 (S[dcl]\NP)/S[em] 	 1 	 flood indicated
+11 	 9 	 (NP\NP)/NP 	 2 	 orders of
+11 	 10 	 N/N 	 1 	 orders sell
+14 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 knocked that
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 knocked quickly
+14 	 17 	 (S\NP)\(S\NP) 	 2 	 knocked down
+14 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 knocked to
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 contract knocked
+16 	 15 	 NP[nb]/N 	 1 	 contract the
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 limit to
+21 	 19 	 NP[nb]/N 	 1 	 limit the
+21 	 20 	 N/N 	 1 	 limit 30-point
+22 	 0 	 S/S 	 1 	 indicated But
+22 	 1 	 (S/S)/S[dcl] 	 1 	 indicated when
+23 	 22 	 (S[dcl]\NP)/S[em] 	 2 	 that indicated
+26 	 24 	 NP[nb]/N 	 1 	 limit the
+26 	 25 	 N/N 	 1 	 limit intermediate
+26 	 27 	 (NP\NP)/NP 	 1 	 limit of
+26 	 30 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 limit was
+26 	 31 	 S[pss]\NP 	 1 	 limit needed <XB>
+26 	 33 	 (S[b]\NP)/(S[b]\NP) 	 1 	 limit help <XB>
+26 	 34 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 limit keep <XB>
+29 	 27 	 (NP\NP)/NP 	 2 	 points of
+29 	 28 	 N/N 	 1 	 points 20
+30 	 23 	 S[em]/S[dcl] 	 1 	 was that
+31 	 30 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 needed was
+33 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 help to
+34 	 33 	 (S[b]\NP)/(S[b]\NP) 	 2 	 keep help
+35 	 34 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 stock keep
+35 	 40 	 S[adj]\NP 	 1 	 stock synchronized <XB>
+39 	 34 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 prices keep
+39 	 37 	 N/N 	 1 	 prices stock-index
+39 	 38 	 N/N 	 1 	 prices futures
+39 	 40 	 S[adj]\NP 	 1 	 prices synchronized <XB>
+40 	 34 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 synchronized keep
+<\s>
+<s id="wsj_0088.12"> 29
+1 	 0 	 N/N 	 1 	 traders Several
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 traders maintained
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that maintained
+5 	 4 	 NP[nb]/N 	 1 	 Merc the
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Merc 's
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 circuit-breaker 's
+8 	 7 	 N/N 	 1 	 circuit-breaker 12-point
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 circuit-breaker aggravated
+8 	 16 	 (S[ng]\NP)/NP 	 1 	 circuit-breaker directing <XB>
+9 	 3 	 S[em]/S[dcl] 	 1 	 aggravated that
+9 	 15 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 aggravated by
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 slide aggravated
+12 	 10 	 NP[nb]/N 	 1 	 slide the
+12 	 11 	 N/N 	 1 	 slide market
+12 	 13 	 (NP\NP)/N[num] 	 1 	 slide Oct.
+14 	 13 	 (NP\NP)/N[num] 	 2 	 13 Oct.
+16 	 15 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 directing by
+16 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 directing to
+19 	 16 	 (S[ng]\NP)/NP 	 2 	 pressure directing
+19 	 17 	 N/N 	 1 	 pressure additional
+19 	 18 	 N/N 	 1 	 pressure selling
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 floor to
+22 	 21 	 NP[nb]/N 	 1 	 floor the
+22 	 23 	 (NP\NP)/NP 	 1 	 floor of
+28 	 23 	 (NP\NP)/NP 	 2 	 Exchange of
+28 	 24 	 NP[nb]/N 	 1 	 Exchange the
+28 	 25 	 N/N 	 1 	 Exchange New
+28 	 26 	 N/N 	 1 	 Exchange York
+28 	 27 	 N/N 	 1 	 Exchange Stock
+<\s>
+<s id="wsj_0088.13"> 12
+0 	 1 	 (NP\NP)/NP 	 1 	 All of
+0 	 4 	 (S[dcl]\NP)/NP 	 1 	 All require
+3 	 1 	 (NP\NP)/NP 	 2 	 changes of
+3 	 2 	 NP[nb]/N 	 1 	 changes the
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 approval require
+6 	 5 	 N/N 	 1 	 approval regulatory
+6 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 approval which
+6 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 approval is <XB>
+6 	 10 	 S[pss]\NP 	 1 	 approval expected <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+10 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 expected shortly
+<\s>
+<s id="wsj_0088.14"> 43
+1 	 0 	 NP[nb]/N 	 1 	 exchange The
+1 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 exchange said
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 said also
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+8 	 5 	 NP[nb]/N 	 1 	 breaker the
+8 	 6 	 N/N 	 1 	 breaker 30-point
+8 	 7 	 N/N 	 1 	 breaker circuit
+8 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 breaker which
+8 	 12 	 (S[dcl]\NP)/NP 	 1 	 breaker provides <XB>
+8 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 breaker will
+8 	 22 	 (S[b]\NP)/NP 	 1 	 breaker become <XB>
+12 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 provides which
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 provides currently
+12 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 provides during
+16 	 12 	 (S[dcl]\NP)/NP 	 2 	 respite provides
+16 	 13 	 NP/NP 	 1 	 respite only
+16 	 14 	 NP[nb]/N 	 1 	 respite a
+16 	 15 	 N/N 	 1 	 respite one-hour
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 sell-offs during
+19 	 18 	 N/N 	 1 	 sell-offs market
+21 	 4 	 S[em]/S[dcl] 	 1 	 will that
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 become will
+26 	 22 	 (S[b]\NP)/NP 	 2 	 limit become
+26 	 23 	 NP[nb]/N 	 1 	 limit the
+26 	 24 	 N/N 	 1 	 limit maximum
+26 	 25 	 N/N 	 1 	 limit one-day
+26 	 27 	 (NP\NP)/NP 	 1 	 limit for
+33 	 27 	 (NP\NP)/NP 	 2 	 contract for
+33 	 28 	 NP[nb]/N 	 1 	 contract the
+33 	 29 	 N/N 	 1 	 contract S&P
+33 	 30 	 N/N 	 1 	 contract 500
+33 	 31 	 N/N 	 1 	 contract stock-index
+33 	 32 	 N/N 	 1 	 contract futures
+37 	 35 	 NP[nb]/N 	 1 	 limit the
+37 	 36 	 N/N 	 1 	 limit one-day
+37 	 39 	 (S[dcl]\NP)/NP 	 1 	 limit is
+39 	 38 	 (S\NP)/(S\NP) 	 2 	 is now
+42 	 39 	 (S[dcl]\NP)/NP 	 2 	 points is
+42 	 40 	 N/N 	 1 	 points 50
+42 	 41 	 N/N 	 1 	 points index
+<\s>
+<s id="wsj_0088.15"> 13
+2 	 0 	 NP[nb]/N 	 1 	 modification A
+2 	 1 	 N/N 	 1 	 modification final
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 modification was
+2 	 4 	 S[pss]\NP 	 1 	 modification made <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 made was
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 made to
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 limit to
+9 	 6 	 NP[nb]/N 	 1 	 limit the
+9 	 7 	 N/N 	 1 	 limit five-point
+9 	 8 	 N/N 	 1 	 limit opening
+9 	 10 	 (NP\NP)/NP 	 1 	 limit for
+12 	 10 	 (NP\NP)/NP 	 2 	 contract for
+12 	 11 	 NP[nb]/N 	 1 	 contract the
+<\s>
+<s id="wsj_0088.16"> 17
+1 	 0 	 NP[nb]/N 	 1 	 Merc The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Merc said
+5 	 3 	 NP[nb]/N 	 1 	 limit that
+5 	 4 	 N/N 	 1 	 limit five-point
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 limit will
+5 	 7 	 (S[b]\NP)/PP 	 1 	 limit remain <XB>
+6 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 remain will
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 remain for
+8 	 7 	 (S[b]\NP)/PP 	 2 	 in remain
+9 	 8 	 PP/NP 	 1 	 effect in
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 minutes for
+14 	 11 	 NP[nb]/N 	 1 	 minutes the
+14 	 12 	 N/N 	 1 	 minutes first
+14 	 13 	 N/N 	 1 	 minutes 10
+14 	 15 	 (NP\NP)/NP 	 1 	 minutes of
+16 	 15 	 (NP\NP)/NP 	 2 	 trading of
+<\s>
+<s id="wsj_0088.17"> 21
+1 	 0 	 NP[nb]/N 	 1 	 limit The
+1 	 2 	 S[dcl]\NP 	 1 	 limit lapses
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 lapses under
+2 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 lapses if
+6 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 rules under
+6 	 4 	 N/N 	 1 	 rules current
+6 	 5 	 N/N 	 1 	 rules exchange
+8 	 9 	 S[dcl]\NP 	 1 	 contracts trade
+9 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 trade if
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 trade above
+9 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 trade during
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 price above
+13 	 11 	 NP[nb]/N 	 1 	 price the
+13 	 12 	 N/N 	 1 	 price limit
+18 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 minutes during
+18 	 15 	 NP[nb]/N 	 1 	 minutes the
+18 	 16 	 N/N 	 1 	 minutes opening
+18 	 17 	 N/N 	 1 	 minutes 10
+18 	 19 	 (NP\NP)/NP 	 1 	 minutes of
+20 	 19 	 (NP\NP)/NP 	 2 	 trading of
+<\s>
+<s id="wsj_0088.18"> 38
+1 	 0 	 (S/S)/NP 	 2 	 Washington In
+4 	 3 	 N/N 	 1 	 aides House
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 aides said
+5 	 0 	 (S/S)/NP 	 1 	 said In
+7 	 6 	 N/N 	 1 	 Phelan Mr.
+7 	 8 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 Phelan told
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 told said
+9 	 8 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 congressmen told
+10 	 8 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that told
+12 	 11 	 NP[nb]/N 	 1 	 collar the
+12 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 collar which
+12 	 15 	 (S[dcl]\NP)/NP 	 1 	 collar banned <XB>
+12 	 34 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 collar did
+12 	 36 	 S[b]\NP 	 1 	 collar work <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 banned which
+15 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 banned when
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 trades banned
+17 	 16 	 N/N 	 1 	 trades program
+17 	 18 	 (NP\NP)/NP 	 1 	 trades through
+21 	 19 	 NP[nb]/N 	 1 	 Board the
+21 	 20 	 N/N 	 1 	 Board Big
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 Board 's
+23 	 18 	 (NP\NP)/NP 	 2 	 computer through
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 computer 's
+29 	 25 	 NP[nb]/N 	 1 	 Average the
+29 	 26 	 N/N 	 1 	 Average Dow
+29 	 27 	 N/N 	 1 	 Average Jones
+29 	 28 	 N/N 	 1 	 Average Industrial
+29 	 30 	 S[dcl]\NP 	 1 	 Average moved
+30 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 moved when
+30 	 32 	 (S\NP)\(S\NP) 	 2 	 moved points
+32 	 31 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 points 50
+34 	 10 	 S[em]/S[dcl] 	 1 	 did that
+34 	 35 	 (S\NP)\(S\NP) 	 2 	 did n't
+36 	 34 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 work did
+36 	 37 	 (S\NP)\(S\NP) 	 2 	 work well
+<\s>
+<s id="wsj_0088.19"> 13
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 He said
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 firms could
+3 	 5 	 (S[b]\NP)/PP 	 1 	 firms get <XB>
+3 	 10 	 (S[ng]\NP)/NP 	 1 	 firms executing <XB>
+4 	 2 	 S[em]/S[dcl] 	 1 	 could that
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 get could
+5 	 9 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 get by
+6 	 5 	 (S[b]\NP)/PP 	 2 	 around get
+8 	 6 	 PP/NP 	 1 	 collar around
+8 	 7 	 NP[nb]/N 	 1 	 collar the
+10 	 9 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 executing by
+10 	 12 	 (S\NP)\(S\NP) 	 2 	 executing manually
+11 	 10 	 (S[ng]\NP)/NP 	 2 	 trades executing
+<\s>
+<s id="wsj_0088.20"> 47
+4 	 0 	 (S/S)/NP 	 2 	 conference In
+4 	 1 	 NP[nb]/N 	 1 	 conference a
+4 	 2 	 N/N 	 1 	 conference post-hearing
+4 	 3 	 N/N 	 1 	 conference news
+7 	 6 	 N/N 	 1 	 Phelan Mr.
+7 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Phelan who
+7 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Phelan has <XB>
+7 	 12 	 (S[pt]\NP)/NP 	 1 	 Phelan expressed <XB>
+7 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 Phelan said
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has who
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 has publicly
+12 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 expressed has
+13 	 12 	 (S[pt]\NP)/NP 	 2 	 concern expressed
+13 	 14 	 (NP\NP)/NP 	 1 	 concern about
+16 	 14 	 (NP\NP)/NP 	 2 	 volatility about
+16 	 15 	 N/N 	 1 	 volatility market
+18 	 0 	 (S/S)/NP 	 1 	 said In
+19 	 20 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 he told
+20 	 18 	 (S[dcl]\NP)/S[dcl] 	 2 	 told said
+26 	 20 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 subcommittee told
+26 	 21 	 NP[nb]/N 	 1 	 subcommittee the
+26 	 22 	 N/N 	 1 	 subcommittee House
+26 	 23 	 N/N 	 1 	 subcommittee finance
+26 	 25 	 N/N 	 1 	 subcommittee telecommunications
+27 	 20 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that told
+28 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he would
+28 	 30 	 (S[b]\NP)/NP 	 1 	 he support <XB>
+28 	 35 	 (S[ng]\NP)/S[dcl] 	 1 	 he providing <XB>
+29 	 27 	 S[em]/S[dcl] 	 1 	 would that
+30 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 support would
+34 	 30 	 (S[b]\NP)/NP 	 2 	 proposal support
+34 	 31 	 NP[nb]/N 	 1 	 proposal the
+34 	 32 	 N/N 	 1 	 proposal program-trading
+34 	 33 	 N/N 	 1 	 proposal halt
+37 	 36 	 NP[nb]/N 	 1 	 SEC the
+37 	 38 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 SEC would
+37 	 40 	 (S[adj]\NP)/PP 	 1 	 SEC comfortable <XB>
+38 	 35 	 (S[ng]\NP)/S[dcl] 	 2 	 would providing
+39 	 38 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+40 	 39 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 comfortable be
+41 	 40 	 (S[adj]\NP)/PP 	 2 	 with comfortable
+43 	 41 	 PP/NP 	 1 	 language with
+43 	 42 	 NP[nb]/N 	 1 	 language the
+43 	 44 	 (NP\NP)/NP 	 1 	 language in
+46 	 44 	 (NP\NP)/NP 	 2 	 bill in
+46 	 45 	 NP[nb]/N 	 1 	 bill a
+<\s>
+<s id="wsj_0088.21"> 36
+2 	 0 	 NP[nb]/N 	 1 	 issue The
+2 	 1 	 N/N 	 1 	 issue program-trading
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 issue is
+2 	 4 	 S[ng]\NP 	 1 	 issue heating <XB>
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 heating is
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 heating up
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 heating on
+4 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 heating as
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Hill on
+8 	 7 	 N/N 	 1 	 Hill Capitol
+10 	 11 	 S[dcl]\NP 	 1 	 it is
+11 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is as
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 is on
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 Street on
+14 	 13 	 N/N 	 1 	 Street Wall
+18 	 17 	 N/N 	 1 	 legislators several
+18 	 19 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 legislators want
+18 	 21 	 ((S[b]\NP)/NP)/NP 	 1 	 legislators grant <XB>
+20 	 19 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to want
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 grant to
+23 	 21 	 ((S[b]\NP)/NP)/NP 	 3 	 SEC grant
+23 	 22 	 NP[nb]/N 	 1 	 SEC the
+25 	 21 	 ((S[b]\NP)/NP)/NP 	 2 	 power grant
+25 	 24 	 NP[nb]/N 	 1 	 power the
+25 	 27 	 (S[b]\NP)/NP 	 1 	 power shut <XB>
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 shut to
+27 	 28 	 (S\NP)\(S\NP) 	 2 	 shut off
+27 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 shut when
+30 	 27 	 (S[b]\NP)/NP 	 2 	 programs shut
+30 	 29 	 NP[nb]/N 	 1 	 programs the
+32 	 33 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 trading becomes
+32 	 35 	 S[adj]\NP 	 1 	 trading volatile <XB>
+33 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 becomes when
+35 	 33 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 volatile becomes
+35 	 34 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 volatile too
+<\s>
+<s id="wsj_0088.22"> 30
+3 	 0 	 N/N 	 1 	 Breeden SEC
+3 	 1 	 N/N 	 1 	 Breeden Chairman
+3 	 2 	 N/N 	 1 	 Breeden Richard
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Breeden has
+3 	 5 	 (S[pt]\NP)/S[dcl] 	 1 	 Breeden said <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said has
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he would
+6 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 he willing <XB>
+7 	 5 	 (S[pt]\NP)/S[dcl] 	 2 	 would said
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+9 	 8 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 willing be
+10 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to willing
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 consider to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 breakers consider
+13 	 12 	 N/N 	 1 	 breakers circuit
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 breakers that
+13 	 15 	 (S[dcl]\NP)/NP 	 1 	 breakers have <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have that
+18 	 15 	 (S[dcl]\NP)/NP 	 2 	 points have
+18 	 16 	 N/N 	 1 	 points preset
+18 	 17 	 N/N 	 1 	 points trigger
+21 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he does
+21 	 24 	 (S[b]\NP)/NP 	 1 	 he want <XB>
+22 	 5 	 (S[pt]\NP)/S[dcl] 	 2 	 does said
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 does n't
+24 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 want does
+26 	 24 	 (S[b]\NP)/NP 	 2 	 power want
+26 	 25 	 N/N 	 1 	 power discretionary
+26 	 28 	 (S[b]\NP)/NP 	 1 	 power stop <XB>
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stop to
+29 	 28 	 (S[b]\NP)/NP 	 2 	 programs stop
+<\s>
+<s id="wsj_0088.23"> 29
+2 	 0 	 NP[nb]/N 	 1 	 aide A
+2 	 1 	 N/N 	 1 	 aide House
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 aide suggested
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that suggested
+6 	 5 	 N/N 	 1 	 Phelan Mr.
+6 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Phelan was
+6 	 8 	 ((S[adj]\NP)/S[em])/(S[adj]\NP) 	 1 	 Phelan so <XB>
+7 	 4 	 S[em]/S[dcl] 	 1 	 was that
+8 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 so was
+9 	 8 	 ((S[adj]\NP)/S[em])/(S[adj]\NP) 	 3 	 vague so
+11 	 8 	 ((S[adj]\NP)/S[em])/(S[adj]\NP) 	 3 	 mushy so
+12 	 8 	 ((S[adj]\NP)/S[em])/(S[adj]\NP) 	 2 	 that so
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 it was
+14 	 12 	 S[em]/S[dcl] 	 1 	 was that
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 kind was
+16 	 15 	 NP[nb]/N 	 1 	 kind the
+16 	 17 	 (NP\NP)/NP 	 1 	 kind of
+16 	 19 	 (NP\NP)/S[dcl] 	 1 	 kind where
+18 	 17 	 (NP\NP)/NP 	 2 	 meeting of
+20 	 21 	 (NP\NP)/NP 	 1 	 people of
+20 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 people could
+20 	 25 	 S[b]\NP 	 1 	 people come <XB>
+20 	 27 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 people feeling <XB>
+20 	 28 	 S[adj]\NP 	 1 	 people good <XB>
+23 	 21 	 (NP\NP)/NP 	 2 	 viewpoints of
+23 	 22 	 NP[nb]/N 	 1 	 viewpoints all
+24 	 19 	 (NP\NP)/S[dcl] 	 2 	 could where
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 come could
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 come out
+28 	 27 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 good feeling
+<\s>
+<s id="wsj_0088.24"> 35
+2 	 0 	 (S/S)/NP 	 2 	 point At
+2 	 1 	 N/N 	 1 	 point one
+5 	 4 	 N/N 	 1 	 Phelan Mr.
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Phelan angered
+5 	 23 	 S[ng]\NP 	 1 	 Phelan going <XB>
+6 	 0 	 (S/S)/NP 	 1 	 angered At
+6 	 21 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 angered by
+8 	 7 	 NP[nb]/N 	 1 	 subcommittee the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 subcommittee 's
+10 	 6 	 (S[dcl]\NP)/NP 	 2 	 chairman angered
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 chairman 's
+14 	 6 	 (S[dcl]\NP)/NP 	 2 	 Markey angered
+14 	 12 	 N/N 	 1 	 Markey Rep.
+14 	 13 	 N/N 	 1 	 Markey Edward
+14 	 15 	 (NP\NP)/NP 	 1 	 Markey -LRB-
+16 	 15 	 (NP\NP)/NP 	 2 	 D. -LRB-
+16 	 18 	 NP\NP 	 1 	 D. Mass.
+23 	 21 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 going by
+23 	 22 	 (S\NP)/(S\NP) 	 2 	 going not
+23 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 going beyond
+25 	 24 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 beyond much
+26 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 what beyond
+26 	 28 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 what had <XB>
+26 	 30 	 S[pss]\NP 	 1 	 what reported <XB>
+28 	 26 	 NP/(S[dcl]\NP) 	 1 	 had what
+28 	 27 	 (S\NP)/(S\NP) 	 2 	 had already
+29 	 28 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+30 	 29 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 reported been
+30 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 reported in
+34 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 newspapers in
+34 	 32 	 NP[nb]/N 	 1 	 newspapers the
+34 	 33 	 N/N 	 1 	 newspapers morning
+<\s>
+<s id="wsj_0088.25"> 20
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Markey said
+1 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 said said
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 we could
+2 	 5 	 (S[pt]\NP)/NP 	 1 	 we done <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 could said
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have could
+5 	 4 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 done have
+5 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 done in
+5 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 done because
+6 	 5 	 (S[pt]\NP)/NP 	 2 	 this done
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 public in
+11 	 10 	 (N/N)/(N/N) 	 2 	 little so
+13 	 11 	 N/N 	 1 	 information little
+13 	 12 	 N/N 	 1 	 information sensitive
+13 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 information was
+13 	 15 	 S[pss]\NP 	 1 	 information disclosed <XB>
+14 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was because
+15 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 disclosed was
+18 	 17 	 NP[nb]/N 	 1 	 aide the
+18 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 aide said
+<\s>
+<s id="wsj_0088.26"> 21
+1 	 0 	 N/N 	 1 	 Phelan Mr.
+1 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 Phelan responded
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 responded then
+3 	 20 	 (S[dcl]\S[dcl])\NP 	 1 	 responded added
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that responded
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he would
+5 	 9 	 (S[adj]\NP)/(S[ng]\NP) 	 1 	 he happy <XB>
+6 	 4 	 S[em]/S[dcl] 	 1 	 would that
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+8 	 7 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 been have
+9 	 8 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 happy been
+11 	 9 	 (S[adj]\NP)/(S[ng]\NP) 	 2 	 writing happy
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 writing just
+13 	 11 	 (S[ng]\NP)/NP 	 2 	 report writing
+13 	 12 	 NP[nb]/N 	 1 	 report a
+13 	 14 	 (NP\NP)/NP 	 1 	 report to
+16 	 14 	 (NP\NP)/NP 	 2 	 panel to
+16 	 15 	 NP[nb]/N 	 1 	 panel the
+19 	 18 	 NP[nb]/N 	 1 	 aide the
+19 	 20 	 (S[dcl]\S[dcl])\NP 	 2 	 aide added
+<\s>
+<s id="wsj_0088.27"> 24
+2 	 0 	 (S/S)/NP 	 2 	 point At
+2 	 1 	 NP[nb]/N 	 1 	 point another
+5 	 3 	 (S/S)/NP 	 2 	 hearing during
+5 	 4 	 NP[nb]/N 	 1 	 hearing the
+8 	 7 	 N/N 	 1 	 Markey Rep.
+8 	 9 	 ((S[dcl]\NP)/NP)/NP 	 1 	 Markey asked
+9 	 0 	 (S/S)/NP 	 1 	 asked At
+9 	 3 	 (S/S)/NP 	 1 	 asked during
+11 	 9 	 ((S[dcl]\NP)/NP)/NP 	 3 	 Phelan asked
+11 	 10 	 N/N 	 1 	 Phelan Mr.
+12 	 9 	 ((S[dcl]\NP)/NP)/NP 	 2 	 what asked
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 what would <XB>
+12 	 15 	 S[pss]\NP 	 1 	 what discussed <XB>
+13 	 12 	 NP/(S[dcl]\NP) 	 1 	 would what
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+15 	 14 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 discussed be
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 discussed at
+15 	 23 	 (S\NP)\(S\NP) 	 2 	 discussed today
+22 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 meeting at
+22 	 17 	 NP[nb]/N 	 1 	 meeting a
+22 	 18 	 N/N 	 1 	 meeting New
+22 	 19 	 N/N 	 1 	 meeting York
+22 	 20 	 N/N 	 1 	 meeting exchange
+22 	 21 	 N/N 	 1 	 meeting board
+<\s>
+<s id="wsj_0088.28"> 13
+1 	 0 	 N/N 	 1 	 Phelan Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Phelan said
+5 	 3 	 NP[nb]/N 	 1 	 Board the
+5 	 4 	 N/N 	 1 	 Board Big
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Board is
+5 	 7 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Board likely <XB>
+6 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely is
+8 	 7 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 study to
+12 	 9 	 (S[b]\NP)/NP 	 2 	 issue study
+12 	 10 	 NP[nb]/N 	 1 	 issue the
+12 	 11 	 N/N 	 1 	 issue program-trading
+<\s>
+<s id="wsj_0088.29"> 34
+1 	 0 	 NP[nb]/N 	 1 	 response That
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 response annoyed
+2 	 8 	 (S[dcl]\S[dcl])\NP 	 1 	 annoyed said
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 Markey annoyed
+4 	 3 	 N/N 	 1 	 Markey Rep.
+7 	 6 	 N/N 	 1 	 aides House
+7 	 8 	 (S[dcl]\S[dcl])\NP 	 2 	 aides said
+12 	 11 	 NP[nb]/N 	 1 	 congressman the
+12 	 13 	 (S[dcl]\NP)/S[em] 	 1 	 congressman snapped
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 snapped back
+15 	 13 	 (S[dcl]\NP)/S[em] 	 2 	 that snapped
+16 	 17 	 (S[dcl]\NP[thr])/(S[pt]\NP) 	 1 	 there had
+17 	 15 	 S[em]/S[dcl] 	 1 	 had that
+18 	 17 	 (S[dcl]\NP[thr])/(S[pt]\NP) 	 2 	 been had
+20 	 18 	 (S[pt]\NP)/NP 	 2 	 studies been
+20 	 19 	 N/N 	 1 	 studies enough
+20 	 21 	 (NP\NP)/NP 	 1 	 studies of
+23 	 21 	 (NP\NP)/NP 	 2 	 issue of
+23 	 22 	 NP[nb]/N 	 1 	 issue the
+25 	 13 	 (S[dcl]\NP)/S[em] 	 2 	 that snapped
+26 	 27 	 (S[dcl]\NP)/NP 	 1 	 it was
+27 	 25 	 S[em]/S[dcl] 	 1 	 was that
+28 	 27 	 (S[dcl]\NP)/NP 	 2 	 time was
+28 	 29 	 (NP\NP)/NP 	 1 	 time for
+30 	 29 	 (NP\NP)/NP 	 2 	 action for
+30 	 31 	 (NP\NP)/NP 	 1 	 action on
+33 	 31 	 (NP\NP)/NP 	 2 	 matter on
+33 	 32 	 NP[nb]/N 	 1 	 matter the
+<\s>
+<s id="wsj_0088.30"> 44
+0 	 1 	 (NP\NP)/NP 	 1 	 Fifteen of
+0 	 6 	 (S[dcl]\NP)/NP 	 1 	 Fifteen attended
+5 	 1 	 (NP\NP)/NP 	 2 	 members of
+5 	 2 	 NP[nb]/N 	 1 	 members the
+5 	 3 	 N/N 	 1 	 members 26
+5 	 4 	 N/N 	 1 	 members subcommittee
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 hearing attended
+8 	 7 	 NP[nb]/N 	 1 	 hearing the
+11 	 10 	 (NP/NP)/(NP/NP) 	 2 	 notably most
+14 	 11 	 NP/NP 	 1 	 Dingell notably
+14 	 12 	 N/N 	 1 	 Dingell Rep.
+14 	 13 	 N/N 	 1 	 Dingell John
+14 	 15 	 (NP\NP)/NP 	 1 	 Dingell -LRB-
+16 	 15 	 (NP\NP)/NP 	 2 	 D. -LRB-
+16 	 18 	 NP\NP 	 1 	 D. Mich.
+28 	 21 	 NP[nb]/N 	 1 	 chairman the
+28 	 22 	 N/N 	 1 	 chairman full
+28 	 23 	 N/N 	 1 	 chairman House
+28 	 24 	 N/N 	 1 	 chairman Energy
+28 	 26 	 N/N 	 1 	 chairman Commerce
+28 	 27 	 N/N 	 1 	 chairman Committee
+28 	 30 	 (NP\NP)/(S[dcl]\NP) 	 1 	 chairman who
+28 	 31 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 chairman has <XB>
+28 	 33 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 chairman willing <XB>
+31 	 30 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has who
+32 	 31 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+33 	 32 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 willing been
+34 	 33 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to willing
+35 	 34 	 (S[to]\NP)/(S[b]\NP) 	 2 	 let to
+37 	 35 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 Markey let
+37 	 36 	 N/N 	 1 	 Markey Mr.
+37 	 38 	 (S[b]\NP)/NP 	 1 	 Markey carry <XB>
+38 	 35 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 carry let
+38 	 41 	 ((S\NP)\(S\NP))/NP 	 2 	 carry in
+40 	 38 	 (S[b]\NP)/NP 	 2 	 legislation carry
+40 	 39 	 NP[nb]/N 	 1 	 legislation the
+43 	 41 	 ((S\NP)\(S\NP))/NP 	 3 	 months in
+43 	 42 	 N/N 	 1 	 months recent
+<\s>
+<s id="wsj_0088.31"> 23
+1 	 0 	 N/N 	 1 	 Dingell Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Dingell expressed
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 concern expressed
+3 	 8 	 (NP\NP)/NP 	 1 	 concern about
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 sources said
+10 	 8 	 (NP\NP)/NP 	 2 	 problems about
+10 	 9 	 N/N 	 1 	 problems jurisdictional
+10 	 11 	 (NP\NP)/(S[ng]\NP) 	 1 	 problems in
+12 	 11 	 (NP\NP)/(S[ng]\NP) 	 2 	 regulating in
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 trading regulating
+14 	 13 	 N/N 	 1 	 trading program
+14 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 trading which
+14 	 17 	 (S[dcl]\NP)/NP 	 1 	 trading uses <XB>
+14 	 20 	 (S[b]\NP)/NP 	 1 	 trading offset <XB>
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 uses which
+18 	 17 	 (S[dcl]\NP)/NP 	 2 	 futures uses
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 offset to
+22 	 20 	 (S[b]\NP)/NP 	 2 	 trades offset
+22 	 21 	 N/N 	 1 	 trades stock
+<\s>
+<s id="wsj_0088.32"> 21
+2 	 0 	 NP[nb]/N 	 1 	 industry The
+2 	 1 	 N/N 	 1 	 industry futures
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 industry is
+2 	 4 	 S[pss]\NP 	 1 	 industry regulated <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 regulated is
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 regulated by
+10 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Commission by
+10 	 6 	 NP[nb]/N 	 1 	 Commission the
+10 	 7 	 N/N 	 1 	 Commission Commodity
+10 	 8 	 N/N 	 1 	 Commission Futures
+10 	 9 	 N/N 	 1 	 Commission Trading
+10 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Commission which
+10 	 13 	 (S[dcl]\NP)/PP 	 1 	 Commission reports <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 reports which
+14 	 13 	 (S[dcl]\NP)/PP 	 2 	 to reports
+17 	 14 	 PP/NP 	 1 	 committees to
+17 	 15 	 NP[nb]/N 	 1 	 committees the
+17 	 16 	 N/N 	 1 	 committees Agriculture
+17 	 18 	 (NP\NP)/NP 	 1 	 committees in
+20 	 18 	 (NP\NP)/NP 	 2 	 houses in
+20 	 19 	 NP[nb]/N 	 1 	 houses both
+<\s>

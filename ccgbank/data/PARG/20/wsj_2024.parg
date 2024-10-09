@@ -1,0 +1,60 @@
+<s id="wsj_2024.1"> 17
+2 	 0 	 N/N 	 1 	 Regal Robert
+2 	 1 	 N/N 	 1 	 Regal J.
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Regal was
+2 	 4 	 (S[pss]\NP)/NP 	 1 	 Regal named <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+5 	 4 	 (S[pss]\NP)/NP 	 2 	 president named
+5 	 10 	 (NP\NP)/NP 	 1 	 president of
+9 	 4 	 (S[pss]\NP)/NP 	 2 	 officer named
+9 	 7 	 N/N 	 1 	 officer chief
+9 	 8 	 N/N 	 1 	 officer executive
+9 	 10 	 (NP\NP)/NP 	 1 	 officer of
+12 	 11 	 NP[nb]/N 	 1 	 company this
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 company 's
+16 	 10 	 (NP\NP)/NP 	 2 	 unit of
+16 	 13 	 (NP[nb]/N)\NP 	 1 	 unit 's
+16 	 14 	 N/N 	 1 	 unit Universal-Rundle
+16 	 15 	 N/N 	 1 	 unit Corp.
+<\s>
+<s id="wsj_2024.2"> 12
+1 	 0 	 N/N 	 1 	 Regal Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Regal had
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 Regal been <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+4 	 3 	 (S[pt]\NP)/NP 	 2 	 president been
+4 	 8 	 (NP\NP)/NP 	 1 	 president of
+7 	 3 	 (S[pt]\NP)/NP 	 2 	 executive been
+7 	 6 	 N/N 	 1 	 executive chief
+7 	 8 	 (NP\NP)/NP 	 1 	 executive of
+11 	 8 	 (NP\NP)/NP 	 2 	 Inc of
+11 	 9 	 N/N 	 1 	 Inc RBS
+11 	 10 	 N/N 	 1 	 Inc Industries
+<\s>
+<s id="wsj_2024.3"> 25
+2 	 0 	 N/N 	 1 	 Carlson Robert
+2 	 1 	 N/N 	 1 	 Carlson H.
+2 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Carlson will
+2 	 13 	 (S[b]\NP)/NP 	 1 	 Carlson assume <XB>
+5 	 4 	 N/N 	 1 	 president previous
+5 	 9 	 (NP\NP)/NP 	 1 	 president of
+5 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 president will
+5 	 13 	 (S[b]\NP)/NP 	 1 	 president assume <XB>
+8 	 4 	 N/N 	 1 	 executive previous
+8 	 7 	 N/N 	 1 	 executive chief
+8 	 9 	 (NP\NP)/NP 	 1 	 executive of
+8 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 executive will
+8 	 13 	 (S[b]\NP)/NP 	 1 	 executive assume <XB>
+10 	 9 	 (NP\NP)/NP 	 2 	 Universal-Rundle of
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 assume will
+15 	 13 	 (S[b]\NP)/NP 	 2 	 title assume
+15 	 14 	 NP[nb]/N 	 1 	 title the
+15 	 16 	 (NP\NP)/NP 	 1 	 title of
+17 	 16 	 (NP\NP)/NP 	 2 	 chairman of
+17 	 18 	 (NP\NP)/NP 	 1 	 chairman of
+20 	 18 	 (NP\NP)/NP 	 2 	 unit of
+20 	 19 	 NP[nb]/N 	 1 	 unit the
+24 	 18 	 (NP\NP)/NP 	 2 	 maker of
+24 	 22 	 NP[nb]/N 	 1 	 maker a
+24 	 23 	 N/N 	 1 	 maker vitreous-china
+<\s>

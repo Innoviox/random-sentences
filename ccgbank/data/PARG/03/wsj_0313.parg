@@ -1,0 +1,199 @@
+<s id="wsj_0313.1"> 30
+4 	 0 	 N/N 	 1 	 Co. Ocean
+4 	 1 	 N/N 	 1 	 Co. Drilling
+4 	 2 	 N/N 	 1 	 Co. &
+4 	 3 	 N/N 	 1 	 Co. Exploration
+4 	 5 	 ((S[dcl]\NP)\NP)/(S[b]\NP) 	 2 	 Co. will
+4 	 6 	 (S[b]\NP)/NP 	 1 	 Co. sell <XB>
+6 	 5 	 ((S[dcl]\NP)\NP)/(S[b]\NP) 	 3 	 sell will
+9 	 6 	 (S[b]\NP)/NP 	 2 	 business sell
+9 	 7 	 NP[nb]/N 	 1 	 business its
+9 	 8 	 N/N 	 1 	 business contract-drilling
+12 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 took in
+12 	 25 	 ((S\NP)\(S\NP))/PP 	 2 	 took because
+16 	 14 	 (N/N)/N[num] 	 2 	 million $
+16 	 15 	 N/N 	 1 	 million 50.9
+17 	 12 	 (S[dcl]\NP)/NP 	 2 	 loss took
+17 	 13 	 NP[nb]/N 	 1 	 loss a
+17 	 14 	 (N/N)/N[num] 	 1 	 loss $
+17 	 18 	 (NP\NP)/NP 	 1 	 loss from
+20 	 18 	 (NP\NP)/NP 	 2 	 operations from
+20 	 19 	 N/N 	 1 	 operations discontinued
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+24 	 22 	 NP[nb]/N 	 1 	 quarter the
+24 	 23 	 N/N 	 1 	 quarter third
+26 	 25 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+29 	 26 	 PP/NP 	 1 	 sale of
+29 	 27 	 NP[nb]/N 	 1 	 sale the
+29 	 28 	 N/N 	 1 	 sale planned
+<\s>
+<s id="wsj_0313.2"> 25
+6 	 0 	 NP[nb]/N 	 1 	 exploration The
+6 	 1 	 N/N 	 1 	 exploration New
+6 	 2 	 N/N 	 1 	 exploration Orleans
+6 	 3 	 N/N 	 1 	 exploration oil
+6 	 5 	 N/N 	 1 	 exploration gas
+6 	 11 	 (S[dcl]\NP)/S[em] 	 1 	 exploration added
+10 	 0 	 NP[nb]/N 	 1 	 company The
+10 	 1 	 N/N 	 1 	 company New
+10 	 2 	 N/N 	 1 	 company Orleans
+10 	 3 	 N/N 	 1 	 company oil
+10 	 5 	 N/N 	 1 	 company gas
+10 	 8 	 N/N 	 1 	 company diving
+10 	 9 	 N/N 	 1 	 company operations
+10 	 11 	 (S[dcl]\NP)/S[em] 	 1 	 company added
+12 	 11 	 (S[dcl]\NP)/S[em] 	 2 	 that added
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it does
+13 	 16 	 ((S[b]\NP)/PP)/NP 	 1 	 it expect <XB>
+14 	 12 	 S[em]/S[dcl] 	 1 	 does that
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 does n't
+16 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 expect does
+21 	 16 	 ((S[b]\NP)/PP)/NP 	 3 	 impact expect
+21 	 17 	 NP[nb]/N 	 1 	 impact any
+21 	 18 	 N/N 	 1 	 impact further
+21 	 19 	 N/N 	 1 	 impact adverse
+21 	 20 	 N/N 	 1 	 impact financial
+22 	 16 	 ((S[b]\NP)/PP)/NP 	 2 	 from expect
+24 	 22 	 PP/NP 	 1 	 restructuring from
+24 	 23 	 NP[nb]/N 	 1 	 restructuring the
+<\s>
+<s id="wsj_0313.3"> 52
+3 	 0 	 (S/S)/NP 	 2 	 quarter In
+3 	 1 	 NP[nb]/N 	 1 	 quarter the
+3 	 2 	 N/N 	 1 	 quarter third
+6 	 5 	 NP[nb]/N 	 1 	 company the
+6 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 company which
+6 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 company is <XB>
+6 	 10 	 S[pss]\NP 	 1 	 company 61%-owned <XB>
+6 	 18 	 (S[dcl]\NP)/NP 	 1 	 company had
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+10 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 61%-owned is
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 61%-owned by
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp. by
+14 	 12 	 N/N 	 1 	 Corp. Murphy
+14 	 13 	 N/N 	 1 	 Corp. Oil
+14 	 15 	 (NP\NP)/NP 	 1 	 Corp. of
+16 	 15 	 (NP\NP)/NP 	 2 	 Arkansas of
+18 	 0 	 (S/S)/NP 	 1 	 had In
+21 	 18 	 (S[dcl]\NP)/NP 	 2 	 loss had
+21 	 19 	 NP[nb]/N 	 1 	 loss a
+21 	 20 	 N/N 	 1 	 loss net
+21 	 22 	 (NP\NP)/NP 	 1 	 loss of
+21 	 33 	 (NP\NP)/PP 	 1 	 loss compared
+23 	 22 	 (NP\NP)/NP 	 2 	 $ of
+25 	 23 	 N/N[num] 	 1 	 million $
+25 	 24 	 N/N 	 1 	 million 46.9
+29 	 22 	 (NP\NP)/NP 	 2 	 cents of
+29 	 28 	 N/N 	 1 	 cents 91
+29 	 30 	 (NP\NP)/N 	 1 	 cents a
+31 	 30 	 (NP\NP)/N 	 2 	 share a
+34 	 33 	 (NP\NP)/PP 	 2 	 with compared
+37 	 34 	 PP/NP 	 1 	 loss with
+37 	 35 	 NP[nb]/N 	 1 	 loss a
+37 	 36 	 N/N 	 1 	 loss restated
+37 	 38 	 (NP\NP)/NP 	 1 	 loss of
+37 	 51 	 (NP\NP)\NP 	 1 	 loss ago
+39 	 38 	 (NP\NP)/NP 	 2 	 $ of
+41 	 39 	 N/N[num] 	 1 	 million $
+41 	 40 	 N/N 	 1 	 million 9
+45 	 38 	 (NP\NP)/NP 	 2 	 cents of
+45 	 44 	 N/N 	 1 	 cents 18
+45 	 46 	 (NP\NP)/N 	 1 	 cents a
+47 	 46 	 (NP\NP)/N 	 2 	 share a
+50 	 49 	 NP[nb]/N 	 1 	 year a
+50 	 51 	 (NP\NP)\NP 	 2 	 year ago
+<\s>
+<s id="wsj_0313.4"> 12
+2 	 0 	 NP[nb]/N 	 1 	 period The
+2 	 1 	 N/N 	 1 	 period latest
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 period had
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 profit had
+4 	 5 	 (NP\NP)/NP 	 1 	 profit from
+4 	 8 	 (NP\NP)/NP 	 1 	 profit of
+7 	 5 	 (NP\NP)/NP 	 2 	 operations from
+7 	 6 	 N/N 	 1 	 operations continuing
+9 	 8 	 (NP\NP)/NP 	 2 	 $ of
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 4
+<\s>
+<s id="wsj_0313.5"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Revenue gained
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 gained %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 gained to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 gained from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 13
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 77.3
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 68.5
+<\s>
+<s id="wsj_0313.6"> 24
+1 	 0 	 N/N 	 1 	 Drilling Ocean
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Drilling said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+3 	 5 	 (S[b]\NP)/NP 	 1 	 it offer <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 offer will
+5 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 offer through
+5 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 offer in
+7 	 5 	 (S[b]\NP)/NP 	 2 	 % offer
+7 	 6 	 N/N 	 1 	 % 15
+7 	 8 	 (N\N)/N 	 1 	 % to
+7 	 11 	 (NP\NP)/NP 	 1 	 % of
+10 	 8 	 (N\N)/N 	 2 	 % to
+10 	 9 	 N/N 	 1 	 % 20
+14 	 11 	 (NP\NP)/NP 	 2 	 business of
+14 	 12 	 NP[nb]/N 	 1 	 business the
+14 	 13 	 N/N 	 1 	 business contract-drilling
+19 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 offering through
+19 	 16 	 NP[nb]/N 	 1 	 offering an
+19 	 17 	 N/N 	 1 	 offering initial
+19 	 18 	 N/N 	 1 	 offering public
+23 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 future in
+23 	 21 	 NP[nb]/N 	 1 	 future the
+23 	 22 	 N/N 	 1 	 future near
+<\s>
+<s id="wsj_0313.7"> 21
+0 	 1 	 (S[dcl]\NP[expl])/(S[pt]\NP) 	 1 	 It has
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 has long
+3 	 1 	 (S[dcl]\NP[expl])/(S[pt]\NP) 	 2 	 been has
+4 	 3 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 rumored been
+5 	 4 	 (S[pss]\NP)/S[em] 	 2 	 that rumored
+7 	 6 	 N/N 	 1 	 Drilling Ocean
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Drilling would
+7 	 9 	 (S[b]\NP)/NP 	 1 	 Drilling sell <XB>
+7 	 13 	 S[b]\NP 	 1 	 Drilling concentrate <XB>
+8 	 5 	 S[em]/S[dcl] 	 1 	 would that
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 sell would
+11 	 9 	 (S[b]\NP)/NP 	 2 	 unit sell
+11 	 10 	 NP[nb]/N 	 1 	 unit the
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 concentrate to
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 concentrate on
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 oil on
+17 	 15 	 NP[nb]/N 	 1 	 oil its
+17 	 16 	 N/N 	 1 	 oil core
+20 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 business on
+20 	 15 	 NP[nb]/N 	 1 	 business its
+20 	 16 	 N/N 	 1 	 business core
+20 	 19 	 N/N 	 1 	 business gas
+<\s>
+<s id="wsj_0313.8"> 16
+1 	 0 	 N/N 	 1 	 Drilling Ocean
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Drilling said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it wo
+3 	 6 	 (S[b]\NP)/NP 	 1 	 it hold <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 wo said
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 wo n't
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 hold wo
+6 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 hold after
+8 	 6 	 (S[b]\NP)/NP 	 2 	 shares hold
+8 	 7 	 NP[nb]/N 	 1 	 shares any
+8 	 9 	 (NP\NP)/NP 	 1 	 shares of
+12 	 9 	 (NP\NP)/NP 	 2 	 company of
+12 	 10 	 NP[nb]/N 	 1 	 company the
+12 	 11 	 N/N 	 1 	 company new
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 restructuring after
+15 	 14 	 NP[nb]/N 	 1 	 restructuring the
+<\s>

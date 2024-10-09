@@ -1,0 +1,169 @@
+<s id="wsj_1746.1"> 32
+2 	 0 	 N/N 	 1 	 Bancorp. First
+2 	 1 	 N/N 	 1 	 Bancorp. Fidelity
+2 	 4 	 NP\NP 	 1 	 Bancorp. Lawrenceville
+2 	 6 	 NP\NP 	 1 	 Bancorp. N.J. <XU>
+2 	 8 	 (S[dcl]\NP)/NP 	 1 	 Bancorp. reported
+8 	 17 	 ((S\NP)\(S\NP))/PP 	 2 	 reported because
+11 	 10 	 (N/N)/(N/N) 	 2 	 % 24
+12 	 8 	 (S[dcl]\NP)/NP 	 2 	 drop reported
+12 	 9 	 NP[nb]/N 	 1 	 drop a
+12 	 11 	 N/N 	 1 	 drop %
+12 	 13 	 (NP\NP)/NP 	 1 	 drop in
+15 	 13 	 (NP\NP)/NP 	 2 	 profit in
+15 	 14 	 N/N 	 1 	 profit third-quarter
+18 	 17 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+20 	 18 	 PP/NP 	 1 	 decline of
+20 	 19 	 NP[nb]/N 	 1 	 decline a
+20 	 21 	 (NP\NP)/NP 	 1 	 decline in
+23 	 21 	 (NP\NP)/NP 	 2 	 assets in
+23 	 22 	 N/N 	 1 	 assets earning
+27 	 18 	 PP/NP 	 1 	 volume of
+27 	 25 	 N/N 	 1 	 volume lower
+27 	 26 	 N/N 	 1 	 volume loan
+31 	 18 	 PP/NP 	 1 	 margins of
+31 	 29 	 N/N 	 1 	 margins tighter
+31 	 30 	 N/N 	 1 	 margins interest
+<\s>
+<s id="wsj_1746.2"> 33
+3 	 0 	 NP[nb]/N 	 1 	 company The
+3 	 1 	 N/N 	 1 	 company bank
+3 	 2 	 N/N 	 1 	 company holding
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 company posted
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 income posted
+6 	 5 	 N/N 	 1 	 income net
+6 	 7 	 (NP\NP)/NP 	 1 	 income of
+6 	 18 	 (NP\NP)/NP 	 1 	 income including
+8 	 7 	 (NP\NP)/NP 	 2 	 $ of
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 54.4
+14 	 7 	 (NP\NP)/NP 	 2 	 cents of
+14 	 13 	 N/N 	 1 	 cents 87
+14 	 15 	 (NP\NP)/N 	 1 	 cents a
+16 	 15 	 (NP\NP)/N 	 2 	 share a
+19 	 18 	 (NP\NP)/NP 	 2 	 $ including
+19 	 29 	 (NP\NP)/NP 	 1 	 $ in
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 1.7
+25 	 18 	 (NP\NP)/NP 	 2 	 cents including
+25 	 24 	 N/N 	 1 	 cents three
+25 	 26 	 (NP\NP)/N 	 1 	 cents a
+25 	 29 	 (NP\NP)/NP 	 1 	 cents in
+27 	 26 	 (NP\NP)/N 	 2 	 share a
+32 	 29 	 (NP\NP)/NP 	 2 	 benefits in
+32 	 30 	 N/N 	 1 	 benefits one-time
+32 	 31 	 N/N 	 1 	 benefits tax
+<\s>
+<s id="wsj_1746.3"> 15
+1 	 0 	 NP[nb]/N 	 1 	 year A
+1 	 2 	 (S/S)\NP 	 2 	 year earlier
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 net was
+5 	 2 	 (S/S)\NP 	 1 	 was earlier
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 $ was
+8 	 6 	 N/N[num] 	 1 	 million $
+8 	 7 	 N/N 	 1 	 million 71.6
+11 	 5 	 (S[dcl]\NP)/NP 	 2 	 $ was
+11 	 13 	 (NP\NP)/N 	 1 	 $ a
+12 	 11 	 N/N[num] 	 1 	 1.22 $
+14 	 13 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_1746.4"> 18
+1 	 0 	 N/N 	 1 	 Fidelity First
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Fidelity said
+4 	 3 	 N/N 	 1 	 assets non-performing
+4 	 5 	 S[dcl]\NP 	 1 	 assets increased
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 increased said
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+5 	 10 	 ((S\NP)\(S\NP))/N[num] 	 2 	 increased Sept.
+5 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 increased from
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 482.3
+11 	 10 	 ((S\NP)\(S\NP))/N[num] 	 3 	 30 Sept.
+12 	 16 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N[num] 	 3 	 from June
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 393.1
+17 	 16 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/N[num] 	 4 	 30 June
+<\s>
+<s id="wsj_1746.5"> 28
+1 	 0 	 NP[nb]/N 	 1 	 rise The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 rise resulted
+2 	 27 	 (S[dcl]\S[dcl])\NP 	 1 	 resulted said
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 from resulted
+5 	 3 	 PP/NP 	 1 	 transfer from
+5 	 4 	 NP[nb]/N 	 1 	 transfer the
+5 	 6 	 (NP\NP)/NP 	 1 	 transfer to
+5 	 9 	 (NP\NP)/NP 	 1 	 transfer of
+8 	 6 	 (NP\NP)/NP 	 2 	 status to
+8 	 7 	 N/N 	 1 	 status non-accrual
+10 	 9 	 (NP\NP)/NP 	 2 	 $ of
+10 	 13 	 S[pss]\NP 	 1 	 $ owed <XB>
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 96
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 owed by
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 borrowers by
+17 	 15 	 N/N 	 1 	 borrowers two
+17 	 16 	 N/N 	 1 	 borrowers national
+23 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 customer by
+23 	 19 	 N/N 	 1 	 customer one
+23 	 20 	 N/N 	 1 	 customer local
+23 	 21 	 N/N 	 1 	 customer commercial
+23 	 22 	 N/N 	 1 	 customer real-estate
+26 	 25 	 N/N 	 1 	 Fidelity First
+26 	 27 	 (S[dcl]\S[dcl])\NP 	 2 	 Fidelity said
+<\s>
+<s id="wsj_1746.6"> 23
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 It said
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it does
+2 	 5 	 (S[b]\NP)/NP 	 1 	 it anticipate <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 does said
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 does n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 anticipate does
+7 	 5 	 (S[b]\NP)/NP 	 2 	 loss anticipate
+7 	 6 	 NP[nb]/N 	 1 	 loss any
+7 	 8 	 (NP\NP)/NP 	 1 	 loss of
+7 	 10 	 (NP\NP)/NP 	 1 	 loss on
+9 	 8 	 (NP\NP)/NP 	 2 	 principal of
+11 	 10 	 (NP\NP)/NP 	 2 	 two on
+11 	 12 	 (NP\NP)/NP 	 1 	 two of
+11 	 16 	 (S[ng]\NP)/NP 	 1 	 two comprising <XB>
+14 	 12 	 (NP\NP)/NP 	 2 	 loans of
+14 	 13 	 NP[nb]/N 	 1 	 loans the
+17 	 16 	 (S[ng]\NP)/NP 	 2 	 $ comprising
+17 	 20 	 (NP\NP)/NP 	 1 	 $ of
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 85
+22 	 20 	 (NP\NP)/NP 	 2 	 credits of
+22 	 21 	 NP[nb]/N 	 1 	 credits these
+<\s>
+<s id="wsj_1746.7"> 30
+1 	 0 	 N/N 	 1 	 Fidelity First
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Fidelity said
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 it boosted
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 boosted said
+4 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 boosted to
+4 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 boosted from
+4 	 21 	 ((S\NP)\(S\NP))/PP 	 2 	 boosted because
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 provision boosted
+7 	 5 	 NP[nb]/N 	 1 	 provision its
+7 	 6 	 N/N 	 1 	 provision loan-loss
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 50.9
+12 	 18 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 3 	 from ago
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 20.4
+17 	 16 	 NP[nb]/N 	 1 	 year a
+17 	 18 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 4 	 year ago
+21 	 20 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 because primarily
+22 	 21 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+26 	 22 	 PP/NP 	 1 	 sector of
+26 	 23 	 NP[nb]/N 	 1 	 sector a
+26 	 24 	 N/N 	 1 	 sector weaker
+26 	 25 	 N/N 	 1 	 sector real-estate
+26 	 27 	 (NP\NP)/NP 	 1 	 sector in
+29 	 27 	 (NP\NP)/NP 	 2 	 region in
+29 	 28 	 NP[nb]/N 	 1 	 region the
+<\s>

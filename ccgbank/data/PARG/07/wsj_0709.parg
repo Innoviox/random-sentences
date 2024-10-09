@@ -1,0 +1,107 @@
+<s id="wsj_0709.1"> 19
+2 	 0 	 N/N 	 1 	 International Service
+2 	 1 	 N/N 	 1 	 International Corp.
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 International said
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it expects
+4 	 7 	 (S[b]\NP)/NP 	 1 	 it report <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+9 	 7 	 (S[b]\NP)/NP 	 2 	 income report
+9 	 8 	 N/N 	 1 	 income net
+9 	 10 	 (NP\NP)/NP 	 1 	 income of
+10 	 15 	 ((NP\NP)\(NP\NP))/NP 	 2 	 of for
+12 	 10 	 (NP\NP)/NP 	 2 	 cents of
+12 	 11 	 N/N 	 1 	 cents 15
+12 	 13 	 (NP\NP)/N 	 1 	 cents a
+14 	 13 	 (NP\NP)/N 	 2 	 share a
+18 	 15 	 ((NP\NP)\(NP\NP))/NP 	 3 	 quarter for
+18 	 16 	 NP[nb]/N 	 1 	 quarter the
+18 	 17 	 N/N 	 1 	 quarter third
+<\s>
+<s id="wsj_0709.2"> 11
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it expects
+3 	 6 	 (S[b]\NP)/NP 	 1 	 it release <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 release to
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 release in
+8 	 6 	 (S[b]\NP)/NP 	 2 	 results release
+8 	 7 	 N/N 	 1 	 results third-quarter
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 mid-November in
+<\s>
+<s id="wsj_0709.3"> 17
+2 	 0 	 NP[nb]/N 	 1 	 home The
+2 	 1 	 N/N 	 1 	 home funeral
+2 	 6 	 ((S[dcl]\NP)/PP)/PP 	 1 	 home changed
+5 	 0 	 NP[nb]/N 	 1 	 operator The
+5 	 1 	 N/N 	 1 	 operator funeral
+5 	 4 	 N/N 	 1 	 operator cemetery
+5 	 6 	 ((S[dcl]\NP)/PP)/PP 	 1 	 operator changed
+6 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 changed in
+7 	 6 	 ((S[dcl]\NP)/PP)/PP 	 3 	 from changed
+10 	 7 	 PP/NP 	 1 	 year from
+10 	 8 	 NP[nb]/N 	 1 	 year a
+10 	 9 	 N/N 	 1 	 year fiscal
+11 	 6 	 ((S[dcl]\NP)/PP)/PP 	 2 	 to changed
+14 	 11 	 PP/NP 	 1 	 year to
+14 	 12 	 NP[nb]/N 	 1 	 year a
+14 	 13 	 N/N 	 1 	 year calendar
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 December in
+<\s>
+<s id="wsj_0709.4"> 36
+4 	 0 	 (S/S)/NP 	 2 	 quarter In
+4 	 1 	 NP[nb]/N 	 1 	 quarter the
+4 	 2 	 N/N 	 1 	 quarter comparable
+4 	 3 	 N/N 	 1 	 quarter year-ago
+8 	 0 	 (S/S)/NP 	 2 	 quarter In
+8 	 6 	 NP[nb]/N 	 1 	 quarter the
+8 	 7 	 N/N 	 1 	 quarter second
+8 	 9 	 S[pss]\NP 	 1 	 quarter ended <XB>
+9 	 10 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended Oct.
+11 	 10 	 ((S\NP)\(S\NP))/N[num] 	 3 	 31 Oct.
+14 	 13 	 N/N 	 1 	 Corp. Service
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 Corp. had
+15 	 0 	 (S/S)/NP 	 1 	 had In
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 loss had
+17 	 16 	 NP[nb]/N 	 1 	 loss a
+17 	 18 	 (NP\NP)/NP 	 1 	 loss of
+17 	 30 	 (NP\NP)/NP 	 1 	 loss on
+20 	 18 	 (NP\NP)/NP 	 2 	 $ of
+20 	 19 	 N/N 	 1 	 $ about
+22 	 20 	 N/N[num] 	 1 	 million $
+22 	 21 	 N/N 	 1 	 million 12.5
+26 	 18 	 (NP\NP)/NP 	 2 	 cents of
+26 	 25 	 N/N 	 1 	 cents 26
+26 	 27 	 (NP\NP)/N 	 1 	 cents a
+28 	 27 	 (NP\NP)/N 	 2 	 share a
+31 	 30 	 (NP\NP)/NP 	 2 	 revenue on
+31 	 32 	 (NP\NP)/NP 	 1 	 revenue of
+33 	 32 	 (NP\NP)/NP 	 2 	 $ of
+35 	 33 	 N/N[num] 	 1 	 million $
+35 	 34 	 N/N 	 1 	 million 175.4
+<\s>
+<s id="wsj_0709.5"> 24
+0 	 1 	 (NP\NP)/NP 	 1 	 Results for
+0 	 4 	 (S[dcl]\NP)/NP 	 1 	 Results included
+3 	 1 	 (NP\NP)/NP 	 2 	 quarter for
+3 	 2 	 NP[nb]/N 	 1 	 quarter that
+8 	 6 	 (N/N)/N[num] 	 2 	 million $
+8 	 7 	 N/N 	 1 	 million 30
+12 	 11 	 (N/N)/(N/N) 	 2 	 cents 40
+12 	 13 	 ((N/N)\(N/N))/N 	 2 	 cents a
+14 	 13 	 ((N/N)\(N/N))/N 	 3 	 share a
+16 	 4 	 (S[dcl]\NP)/NP 	 2 	 write-down included
+16 	 5 	 NP[nb]/N 	 1 	 write-down a
+16 	 6 	 (N/N)/N[num] 	 1 	 write-down $ <XU>
+16 	 12 	 N/N 	 1 	 write-down cents
+16 	 17 	 (S[pss]\NP)/PP 	 1 	 write-down associated <XB>
+18 	 17 	 (S[pss]\NP)/PP 	 2 	 with associated
+20 	 18 	 PP/NP 	 1 	 consolidation with
+20 	 19 	 NP[nb]/N 	 1 	 consolidation the
+20 	 21 	 (NP\NP)/NP 	 1 	 consolidation of
+23 	 21 	 (NP\NP)/NP 	 2 	 facility of
+23 	 22 	 NP[nb]/N 	 1 	 facility a
+<\s>

@@ -1,0 +1,249 @@
+<s id="wsj_1873.1"> 26
+3 	 0 	 N/N 	 1 	 Co. G.D.
+3 	 1 	 N/N 	 1 	 Co. Searle
+3 	 2 	 N/N 	 1 	 Co. &
+3 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Co. is
+3 	 11 	 (S[ng]\NP)/NP 	 1 	 Co. launching <XB>
+8 	 5 	 NP[nb]/N 	 1 	 unit a
+8 	 6 	 N/N 	 1 	 unit Monsanto
+8 	 7 	 N/N 	 1 	 unit Co.
+8 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 unit is
+8 	 11 	 (S[ng]\NP)/NP 	 1 	 unit launching <XB>
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 launching is
+13 	 11 	 (S[ng]\NP)/NP 	 2 	 program launching
+13 	 12 	 NP[nb]/N 	 1 	 program a
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give to
+15 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 give when
+16 	 15 	 ((S[b]\NP)/NP)/NP 	 3 	 consumers give
+18 	 15 	 ((S[b]\NP)/NP)/NP 	 2 	 information give
+18 	 17 	 N/N 	 1 	 information more
+18 	 19 	 (NP\NP)/NP 	 1 	 information about
+21 	 19 	 (NP\NP)/NP 	 2 	 drugs about
+21 	 20 	 NP[nb]/N 	 1 	 drugs its
+23 	 24 	 (S[dcl]\NP)/NP 	 1 	 doctors prescribe
+24 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 prescribe when
+25 	 24 	 (S[dcl]\NP)/NP 	 2 	 them prescribe
+<\s>
+<s id="wsj_1873.2"> 17
+1 	 0 	 (S[pss]\NP)/NP 	 2 	 Patients Called
+1 	 2 	 (NP\NP)/NP 	 1 	 Patients in
+4 	 2 	 (NP\NP)/NP 	 2 	 Know in
+4 	 3 	 NP[nb]/N 	 1 	 Know the
+7 	 6 	 NP[nb]/N 	 1 	 program the
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 program features
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 sheets features
+10 	 9 	 N/N 	 1 	 sheets fact
+10 	 11 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 sheets designed <XB>
+10 	 14 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 1 	 sheets easy <XB>
+10 	 16 	 (S[b]\NP)/NP 	 2 	 sheets understand <XU>
+12 	 11 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to designed
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+14 	 13 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 easy be
+15 	 14 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 2 	 to easy
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 understand to
+<\s>
+<s id="wsj_1873.3"> 19
+1 	 0 	 NP[nb]/N 	 1 	 sheets The
+1 	 2 	 (S[dcl]\NP)/S[qem] 	 1 	 sheets tell
+1 	 8 	 (S[dcl]\NP)/S[qem] 	 1 	 sheets describe <XU>
+1 	 14 	 (S[dcl]\NP)/NP 	 1 	 sheets list <XU>
+3 	 2 	 (S[dcl]\NP)/S[qem] 	 2 	 how tell
+5 	 4 	 NP[nb]/N 	 1 	 medicine the
+5 	 6 	 S[dcl]\NP 	 1 	 medicine works
+6 	 3 	 S[qem]/S[dcl] 	 1 	 works how
+9 	 8 	 (S[dcl]\NP)/S[qem] 	 2 	 how describe
+10 	 9 	 S[qem]/(S[to]\NP) 	 1 	 to how
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 use to
+12 	 11 	 (S[b]\NP)/NP 	 2 	 it use
+18 	 14 	 (S[dcl]\NP)/NP 	 2 	 effects list
+18 	 15 	 NP[nb]/N 	 1 	 effects its
+18 	 16 	 N/N 	 1 	 effects possible
+18 	 17 	 N/N 	 1 	 effects side
+<\s>
+<s id="wsj_1873.4"> 26
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 They are
+0 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 They designed <XB>
+0 	 5 	 (S[pss]\NP)/PP 	 1 	 They given <XB>
+0 	 17 	 (S[dcl]\NP)/NP 	 1 	 They include <XU>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 designed are
+3 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to designed
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 given be
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 given by
+5 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 given when
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 to given
+7 	 6 	 PP/NP 	 1 	 patients to
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 doctors by
+10 	 9 	 NP[nb]/N 	 1 	 doctors their
+13 	 12 	 NP[nb]/N 	 1 	 medicines the
+13 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 medicines are
+13 	 15 	 S[pss]\NP 	 1 	 medicines prescribed <XB>
+14 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are when
+15 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 prescribed are
+18 	 17 	 (S[dcl]\NP)/NP 	 2 	 space include
+18 	 19 	 ((NP\NP)/(S[to]\NP))/NP 	 1 	 space for
+21 	 19 	 ((NP\NP)/(S[to]\NP))/NP 	 3 	 doctor for
+21 	 20 	 NP[nb]/N 	 1 	 doctor the
+21 	 23 	 (S[b]\NP)/NP 	 1 	 doctor write <XB>
+22 	 19 	 ((NP\NP)/(S[to]\NP))/NP 	 2 	 to for
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 write to
+25 	 23 	 (S[b]\NP)/NP 	 2 	 instructions write
+25 	 24 	 N/N 	 1 	 instructions special
+<\s>
+<s id="wsj_1873.5"> 19
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Searle will
+3 	 5 	 ((S[b]\NP)/NP)/NP 	 1 	 Searle give <XB>
+4 	 0 	 (S/S)/NP 	 1 	 will In
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give will
+6 	 5 	 ((S[b]\NP)/NP)/NP 	 3 	 pharmacists give
+7 	 5 	 ((S[b]\NP)/NP)/NP 	 2 	 brochures give
+7 	 8 	 (NP\NP)/NP 	 1 	 brochures on
+7 	 14 	 (NP\NP)/NP 	 1 	 brochures for
+10 	 8 	 (NP\NP)/NP 	 2 	 use on
+10 	 9 	 NP[nb]/N 	 1 	 use the
+10 	 11 	 (NP\NP)/NP 	 1 	 use of
+13 	 11 	 (NP\NP)/NP 	 2 	 drugs of
+13 	 12 	 N/N 	 1 	 drugs prescription
+15 	 14 	 (NP\NP)/NP 	 2 	 distribution for
+15 	 16 	 (NP\NP)/NP 	 1 	 distribution in
+18 	 16 	 (NP\NP)/NP 	 2 	 stores in
+18 	 17 	 NP[nb]/N 	 1 	 stores their
+<\s>
+<s id="wsj_1873.6"> 16
+1 	 0 	 N/N 	 1 	 groups Consumer
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 groups have
+1 	 4 	 (S[pt]\NP)/S[em] 	 1 	 groups advocated <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 have long
+4 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 advocated have
+5 	 4 	 (S[pt]\NP)/S[em] 	 2 	 that advocated
+7 	 6 	 N/N 	 1 	 companies drug
+7 	 10 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 companies make
+9 	 10 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 doctors make
+10 	 5 	 S[em]/S[dcl] 	 1 	 make that
+12 	 10 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 information make
+12 	 11 	 N/N 	 1 	 information more
+12 	 13 	 (S[adj]\NP)/PP 	 1 	 information available <XB>
+13 	 10 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 available make
+14 	 13 	 (S[adj]\NP)/PP 	 2 	 to available
+15 	 14 	 PP/NP 	 1 	 patients to
+<\s>
+<s id="wsj_1873.7"> 32
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 We believe
+1 	 17 	 (S[dcl]\S[dcl])/NP 	 1 	 believe said
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that believe
+4 	 3 	 NP[nb]/N 	 1 	 drug every
+4 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 drug that
+4 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 drug 's <XB>
+4 	 7 	 (S[pss]\NP)/PP 	 1 	 drug marketed <XB>
+4 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 drug should
+4 	 12 	 (S[b]\NP)/NP 	 1 	 drug have <XB>
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 's that
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 marketed 's
+8 	 7 	 (S[pss]\NP)/PP 	 2 	 to marketed
+10 	 8 	 PP/NP 	 1 	 consumer to
+10 	 9 	 NP[nb]/N 	 1 	 consumer a
+11 	 2 	 S[em]/S[dcl] 	 1 	 should that
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have should
+15 	 12 	 (S[b]\NP)/NP 	 2 	 label have
+15 	 13 	 NP[nb]/N 	 1 	 label a
+15 	 14 	 N/N 	 1 	 label consumer
+19 	 17 	 (S[dcl]\S[dcl])/NP 	 2 	 Teich said
+19 	 18 	 N/N 	 1 	 Teich Douglas
+19 	 20 	 (NP\NP)/NP 	 1 	 Teich of
+26 	 20 	 (NP\NP)/NP 	 2 	 Group of
+26 	 21 	 NP[nb]/N 	 1 	 Group the
+26 	 22 	 N/N 	 1 	 Group Public
+26 	 23 	 N/N 	 1 	 Group Citizen
+26 	 24 	 N/N 	 1 	 Group Health
+26 	 25 	 N/N 	 1 	 Group Research
+31 	 20 	 (NP\NP)/NP 	 2 	 affiliate of
+31 	 28 	 NP[nb]/N 	 1 	 affiliate a
+31 	 29 	 N/N 	 1 	 affiliate Ralph
+31 	 30 	 N/N 	 1 	 affiliate Nader
+<\s>
+<s id="wsj_1873.8"> 17
+1 	 0 	 N/N 	 1 	 Teich Dr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Teich said
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Searle is
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 company is
+7 	 5 	 NP[nb]/N 	 1 	 company the
+7 	 6 	 N/N 	 1 	 company only
+7 	 9 	 (S[dcl]\NP)/NP 	 2 	 company know <XU>
+7 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 company that
+7 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 company will <XB>
+7 	 13 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 company make <XB>
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 I know
+12 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 will voluntarily
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make will
+15 	 13 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 information make
+15 	 14 	 N/N 	 1 	 information consumer
+15 	 16 	 S[adj]\NP 	 1 	 information available <XB>
+16 	 13 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 available make
+<\s>
+<s id="wsj_1873.9"> 40
+1 	 0 	 (S/S)/PP 	 2 	 to According
+3 	 1 	 PP/NP 	 1 	 officials to
+3 	 2 	 N/N 	 1 	 officials federal
+6 	 1 	 PP/NP 	 1 	 studies to
+6 	 5 	 N/N 	 1 	 studies drug-industry
+9 	 8 	 N/N 	 1 	 half nearly
+9 	 10 	 (NP\NP)/NP 	 1 	 half of
+9 	 18 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 half are
+9 	 20 	 S[pss]\NP 	 1 	 half used <XB>
+9 	 23 	 (S[ng]\NP)/S[em] 	 1 	 half meaning <XB>
+13 	 12 	 (N/N)/(N/N) 	 2 	 billion 1.6
+14 	 10 	 (NP\NP)/NP 	 2 	 prescriptions of
+14 	 11 	 NP[nb]/N 	 1 	 prescriptions the
+14 	 13 	 N/N 	 1 	 prescriptions billion
+14 	 15 	 S[pss]\NP 	 1 	 prescriptions filled <XB>
+15 	 16 	 ((S\NP)\(S\NP))/N 	 2 	 filled each
+17 	 16 	 ((S\NP)\(S\NP))/N 	 3 	 year each
+18 	 0 	 (S/S)/PP 	 1 	 are According
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 are n't
+20 	 18 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 used are
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 used properly
+24 	 23 	 (S[ng]\NP)/S[em] 	 2 	 that meaning
+25 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 money is
+25 	 27 	 (S[pss]\NP)/PP 	 1 	 money wasted <XB>
+26 	 24 	 S[em]/S[dcl] 	 1 	 is that
+27 	 26 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 wasted is
+28 	 27 	 (S[pss]\NP)/PP 	 2 	 on wasted
+30 	 28 	 PP/NP 	 1 	 prescriptions on
+30 	 29 	 NP[nb]/N 	 1 	 prescriptions some
+32 	 33 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 patients are
+32 	 34 	 (S[pss]\NP)/PP 	 1 	 patients deprived <XB>
+33 	 24 	 S[em]/S[dcl] 	 1 	 are that
+34 	 33 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 deprived are
+35 	 34 	 (S[pss]\NP)/PP 	 2 	 of deprived
+37 	 35 	 PP/NP 	 1 	 benefits of
+37 	 36 	 NP[nb]/N 	 1 	 benefits the
+37 	 38 	 (NP\NP)/NP 	 1 	 benefits of
+39 	 38 	 (NP\NP)/NP 	 2 	 medication of
+<\s>
+<s id="wsj_1873.10"> 24
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 We think
+1 	 19 	 (S[dcl]\S[dcl])/NP 	 1 	 think said
+2 	 3 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 1 	 it 's
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 's think
+5 	 3 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 3 	 important 's
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 important very
+6 	 3 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 2 	 to 's
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provide to
+10 	 7 	 (S[b]\NP)/NP 	 2 	 information provide
+10 	 8 	 N/N 	 1 	 information as
+10 	 9 	 N/N 	 1 	 information much
+10 	 11 	 (NP\NP)/(S[adj]\NP) 	 1 	 information as
+10 	 13 	 (NP\NP)/NP 	 1 	 information on
+12 	 11 	 (NP\NP)/(S[adj]\NP) 	 2 	 possible as
+15 	 13 	 (NP\NP)/NP 	 2 	 drugs on
+15 	 14 	 NP[nb]/N 	 1 	 drugs the
+15 	 17 	 (S[dcl]\NP)/NP 	 2 	 drugs take <XU>
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 consumers take
+23 	 19 	 (S[dcl]\S[dcl])/NP 	 2 	 Gilgore said
+23 	 20 	 N/N 	 1 	 Gilgore Searle
+23 	 21 	 N/N 	 1 	 Gilgore Chairman
+23 	 22 	 N/N 	 1 	 Gilgore Sheldon
+<\s>

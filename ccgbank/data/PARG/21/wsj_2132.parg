@@ -1,0 +1,65 @@
+<s id="wsj_2132.1"> 30
+3 	 0 	 N/N 	 1 	 Co. Dow
+3 	 1 	 N/N 	 1 	 Co. Jones
+3 	 2 	 N/N 	 1 	 Co. &
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 it acquired
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 acquired said
+9 	 8 	 (N/N)/(N/N) 	 2 	 % 15
+10 	 6 	 (S[dcl]\NP)/NP 	 2 	 interest acquired
+10 	 7 	 NP[nb]/N 	 1 	 interest a
+10 	 9 	 N/N 	 1 	 interest %
+10 	 11 	 (NP\NP)/NP 	 1 	 interest in
+13 	 11 	 (NP\NP)/NP 	 2 	 Corp. in
+13 	 12 	 N/N 	 1 	 Corp. DataTimes
+16 	 11 	 (NP\NP)/NP 	 2 	 subsidiary in
+16 	 15 	 NP[nb]/N 	 1 	 subsidiary a
+16 	 17 	 (NP\NP)/NP 	 1 	 subsidiary of
+16 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 subsidiary that
+16 	 26 	 (S[dcl]\NP)/NP 	 1 	 subsidiary provides <XB>
+20 	 17 	 (NP\NP)/NP 	 2 	 Co. of
+20 	 18 	 N/N 	 1 	 Co. Oklahoma
+20 	 19 	 N/N 	 1 	 Co. Publishing
+20 	 23 	 NP\NP 	 1 	 Co. City
+23 	 22 	 (NP\NP)/(NP\NP) 	 2 	 City Oklahoma
+26 	 25 	 (NP\NP)/(S[dcl]\NP) 	 2 	 provides that
+29 	 26 	 (S[dcl]\NP)/NP 	 2 	 services provides
+29 	 27 	 N/N 	 1 	 services electronic
+29 	 28 	 N/N 	 1 	 services research
+<\s>
+<s id="wsj_2132.2"> 4
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Terms were
+0 	 3 	 S[pss]\NP 	 1 	 Terms disclosed <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 were n't
+3 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 disclosed were
+<\s>
+<s id="wsj_2132.3"> 17
+0 	 1 	 (NP\NP)/NP 	 1 	 Customers of
+0 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Customers are
+0 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Customers able <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 DataTimes of
+3 	 2 	 NP/NP 	 1 	 DataTimes either
+7 	 1 	 (NP\NP)/NP 	 2 	 News\/Retrieval of
+7 	 2 	 NP/NP 	 1 	 News\/Retrieval either
+7 	 5 	 N/N 	 1 	 News\/Retrieval Dow
+7 	 6 	 N/N 	 1 	 News\/Retrieval Jones
+9 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 able are
+10 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 access to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 information access
+13 	 12 	 NP[nb]/N 	 1 	 information the
+13 	 14 	 (NP\NP)/NP 	 1 	 information on
+16 	 14 	 (NP\NP)/NP 	 2 	 services on
+16 	 15 	 NP[nb]/N 	 1 	 services both
+<\s>
+<s id="wsj_2132.4"> 10
+1 	 0 	 N/N 	 1 	 Jones Dow
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Jones is
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 publisher is
+4 	 3 	 NP[nb]/N 	 1 	 publisher the
+4 	 5 	 (NP\NP)/NP 	 1 	 publisher of
+9 	 5 	 (NP\NP)/NP 	 2 	 Journal of
+9 	 6 	 NP[nb]/N 	 1 	 Journal The
+9 	 7 	 N/N 	 1 	 Journal Wall
+9 	 8 	 N/N 	 1 	 Journal Street
+<\s>

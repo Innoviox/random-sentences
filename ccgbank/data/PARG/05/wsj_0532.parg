@@ -1,0 +1,460 @@
+<s id="wsj_0532.1"> 26
+1 	 0 	 N/N 	 1 	 Price Arthur
+1 	 3 	 (S[dcl]\NP)/PP 	 1 	 Price quit
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 quit abruptly
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 as quit
+5 	 4 	 PP/NP 	 1 	 president as
+5 	 10 	 (NP\NP)/NP 	 1 	 president of
+9 	 4 	 PP/NP 	 1 	 officer as
+9 	 7 	 N/N 	 1 	 officer chief
+9 	 8 	 N/N 	 1 	 officer executive
+9 	 10 	 (NP\NP)/NP 	 1 	 officer of
+13 	 10 	 (NP\NP)/NP 	 2 	 Inc. of
+13 	 11 	 N/N 	 1 	 Inc. MTM
+13 	 12 	 N/N 	 1 	 Inc. Entertainment
+19 	 10 	 (NP\NP)/NP 	 2 	 company of
+19 	 15 	 NP[nb]/N 	 1 	 company a
+19 	 16 	 N/N 	 1 	 company Los
+19 	 17 	 N/N 	 1 	 company Angeles
+19 	 18 	 N/N 	 1 	 company production
+19 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 company that
+19 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company has <XB>
+19 	 22 	 (S[pt]\NP)/PP 	 1 	 company fallen <XB>
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has that
+22 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 fallen has
+23 	 22 	 (S[pt]\NP)/PP 	 2 	 on fallen
+25 	 23 	 PP/NP 	 1 	 times on
+25 	 24 	 N/N 	 1 	 times hard
+<\s>
+<s id="wsj_0532.2"> 43
+1 	 0 	 N/N 	 1 	 Price Mr.
+1 	 5 	 (S[adj]\NP)\NP 	 1 	 Price old <XB>
+1 	 8 	 S[dcl]\NP 	 1 	 Price stepped
+4 	 3 	 N/N 	 1 	 years 61
+4 	 5 	 (S[adj]\NP)\NP 	 2 	 years old
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 stepped also
+8 	 9 	 ((S\NP)\(S\NP))/PP 	 2 	 stepped down
+10 	 9 	 ((S\NP)\(S\NP))/PP 	 3 	 from down
+12 	 10 	 PP/NP 	 1 	 board from
+12 	 11 	 NP[nb]/N 	 1 	 board the
+12 	 13 	 (NP\NP)/NP 	 1 	 board of
+16 	 13 	 (NP\NP)/NP 	 2 	 PLC of
+16 	 14 	 N/N 	 1 	 PLC TVS
+16 	 15 	 N/N 	 1 	 PLC Entertainment
+21 	 13 	 (NP\NP)/NP 	 2 	 company of
+21 	 18 	 NP[nb]/N 	 1 	 company the
+21 	 19 	 N/N 	 1 	 company British
+21 	 20 	 N/N 	 1 	 company TV
+21 	 22 	 (NP\NP)/(S[dcl]\NP) 	 1 	 company that
+21 	 25 	 (S[dcl]\NP)/NP 	 1 	 company bought <XB>
+24 	 23 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 year last
+25 	 22 	 (NP\NP)/(S[dcl]\NP) 	 2 	 bought that
+25 	 24 	 (S\NP)/(S\NP) 	 2 	 bought year
+26 	 25 	 (S[dcl]\NP)/NP 	 2 	 MTM bought
+28 	 25 	 (S[dcl]\NP)/NP 	 2 	 producer bought
+28 	 29 	 (NP\NP)/NP 	 1 	 producer of
+32 	 29 	 (NP\NP)/NP 	 2 	 programs of
+32 	 30 	 NP/NP 	 1 	 programs such
+32 	 31 	 N/N 	 1 	 programs TV
+32 	 33 	 (NP\NP)/NP 	 1 	 programs as
+36 	 33 	 (NP\NP)/NP 	 2 	 Blues as
+36 	 34 	 N/N 	 1 	 Blues Hill
+36 	 35 	 N/N 	 1 	 Blues Street
+42 	 33 	 (NP\NP)/NP 	 2 	 Show as
+42 	 38 	 N/N 	 1 	 Show The
+42 	 39 	 N/N 	 1 	 Show Mary
+42 	 40 	 N/N 	 1 	 Show Tyler
+42 	 41 	 N/N 	 1 	 Show Moore
+<\s>
+<s id="wsj_0532.3"> 12
+2 	 0 	 NP[nb]/N 	 1 	 spokesman A
+2 	 1 	 N/N 	 1 	 spokesman TVS
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he did
+4 	 7 	 (S[b]\NP)/NP 	 1 	 he know <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 did said
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 did n't
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 know did
+9 	 8 	 N/N 	 1 	 Price Mr.
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Price 's
+11 	 7 	 (S[b]\NP)/NP 	 2 	 plans know
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 plans 's
+<\s>
+<s id="wsj_0532.4"> 27
+1 	 0 	 N/N 	 1 	 Gatward James
+1 	 8 	 (S[dcl]\NP)/S[em] 	 1 	 Gatward said
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 TVS 's
+6 	 4 	 (NP[nb]/N)\NP 	 1 	 executive 's
+6 	 5 	 N/N 	 1 	 executive chief
+6 	 8 	 (S[dcl]\NP)/S[em] 	 1 	 executive said
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 said in
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 statement in
+11 	 10 	 NP[nb]/N 	 1 	 statement a
+12 	 8 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he will
+13 	 15 	 (S[b]\NP)/NP 	 1 	 he assume <XB>
+14 	 12 	 S[em]/S[dcl] 	 1 	 will that
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 assume will
+15 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 assume until
+17 	 15 	 (S[b]\NP)/NP 	 2 	 responsibility assume
+17 	 16 	 N/N 	 1 	 responsibility overall
+17 	 18 	 (NP\NP)/NP 	 1 	 responsibility for
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 MTM 's
+21 	 18 	 (NP\NP)/NP 	 2 	 operations for
+21 	 20 	 (NP[nb]/N)\NP 	 1 	 operations 's
+24 	 23 	 NP[nb]/N 	 1 	 successor a
+24 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 successor is
+24 	 26 	 S[pss]\NP 	 1 	 successor named <XB>
+25 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is until
+26 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named is
+<\s>
+<s id="wsj_0532.5"> 17
+1 	 0 	 N/N 	 1 	 analysts Industry
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 analysts speculated
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that speculated
+5 	 4 	 N/N 	 1 	 Price Mr.
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Price 's
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 departure 's
+8 	 7 	 N/N 	 1 	 departure sudden
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 departure may
+8 	 11 	 (S[pt]\NP)/PP 	 1 	 departure stemmed <XB>
+9 	 3 	 S[em]/S[dcl] 	 1 	 may that
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have may
+11 	 10 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 stemmed have
+12 	 11 	 (S[pt]\NP)/PP 	 2 	 from stemmed
+13 	 12 	 PP/NP 	 1 	 conflicts from
+13 	 14 	 (NP\NP)/NP 	 1 	 conflicts with
+16 	 14 	 (NP\NP)/NP 	 2 	 Gatward with
+16 	 15 	 N/N 	 1 	 Gatward Mr.
+<\s>
+<s id="wsj_0532.6"> 36
+1 	 0 	 N/N 	 1 	 Price Mr.
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Price wanted
+1 	 4 	 (S[b]\NP)/NP 	 1 	 Price run <XB>
+1 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Price may <XU>
+1 	 11 	 (S[pt]\NP)/(S[ng]\NP) 	 1 	 Price regretted <XU>
+1 	 12 	 ((S[ng]\NP)/PP)/NP 	 1 	 Price selling <XU>
+2 	 18 	 (S[dcl]\S[dcl])/NP 	 1 	 wanted suggested
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wanted
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 run to
+7 	 4 	 (S[b]\NP)/NP 	 2 	 business run
+7 	 5 	 NP[nb]/N 	 1 	 business the
+7 	 6 	 N/N 	 1 	 business MTM
+9 	 18 	 (S[dcl]\S[dcl])/NP 	 1 	 may suggested
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have may
+11 	 10 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 regretted have
+12 	 11 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 selling regretted
+14 	 12 	 ((S[ng]\NP)/PP)/NP 	 3 	 company selling
+14 	 13 	 NP[nb]/N 	 1 	 company the
+15 	 12 	 ((S[ng]\NP)/PP)/NP 	 2 	 to selling
+16 	 15 	 PP/NP 	 1 	 TVS to
+20 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 Denton suggested
+20 	 19 	 N/N 	 1 	 Denton Charles
+23 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 director suggested
+23 	 22 	 N/N 	 1 	 director managing
+23 	 24 	 (NP\NP)/NP 	 1 	 director of
+26 	 24 	 (NP\NP)/NP 	 2 	 Productions of
+26 	 25 	 N/N 	 1 	 Productions Zenith
+29 	 24 	 (NP\NP)/NP 	 2 	 subsidiary of
+29 	 28 	 NP[nb]/N 	 1 	 subsidiary a
+29 	 30 	 (NP\NP)/NP 	 1 	 subsidiary of
+33 	 30 	 (NP\NP)/NP 	 2 	 PLC of
+33 	 31 	 N/N 	 1 	 PLC Carlton
+33 	 32 	 N/N 	 1 	 PLC Communications
+33 	 35 	 NP\NP 	 1 	 PLC London
+<\s>
+<s id="wsj_0532.7"> 15
+1 	 0 	 N/N 	 1 	 Gatward Mr.
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Gatward declined
+1 	 4 	 S[b]\NP 	 1 	 Gatward comment <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+8 	 7 	 N/N 	 1 	 Price Mr.
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Price could
+8 	 12 	 S[pss]\NP 	 1 	 Price reached <XB>
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 could n't
+11 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reached be
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 reached on
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Friday on
+<\s>
+<s id="wsj_0532.8"> 27
+3 	 0 	 (S/S)/NP 	 2 	 statement In
+3 	 1 	 NP[nb]/N 	 1 	 statement the
+3 	 2 	 N/N 	 1 	 statement TVS
+6 	 5 	 N/N 	 1 	 Price Mr.
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Price said
+6 	 17 	 (S[dcl]\NP)/S[em] 	 1 	 Price added <XU>
+7 	 0 	 (S/S)/NP 	 1 	 said In
+8 	 10 	 (S[dcl]\NP)/NP 	 1 	 leaving was
+9 	 8 	 (S[ng]\NP)/NP 	 2 	 MTM leaving
+10 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+13 	 12 	 (N/N)/(N/N) 	 2 	 difficult very
+14 	 10 	 (S[dcl]\NP)/NP 	 2 	 decision was
+14 	 11 	 NP[nb]/N 	 1 	 decision a
+14 	 13 	 N/N 	 1 	 decision difficult
+17 	 0 	 (S/S)/NP 	 1 	 added In
+18 	 17 	 (S[dcl]\NP)/S[em] 	 2 	 that added
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 it is
+20 	 18 	 S[em]/S[dcl] 	 1 	 is that
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 is now
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 time is
+22 	 23 	 (NP\NP)/NP 	 1 	 time for
+25 	 23 	 (NP\NP)/NP 	 2 	 change for
+25 	 24 	 NP[nb]/N 	 1 	 change a
+<\s>
+<s id="wsj_0532.9"> 25
+3 	 1 	 (N/N)/N[num] 	 2 	 million $
+3 	 2 	 N/N 	 1 	 million 320
+4 	 0 	 NP[nb]/N 	 1 	 purchase The
+4 	 1 	 (N/N)/N[num] 	 1 	 purchase $
+4 	 5 	 (NP\NP)/NP 	 1 	 purchase of
+4 	 7 	 (S[dcl]\NP)/NP 	 1 	 purchase represented
+6 	 5 	 (NP\NP)/NP 	 2 	 MTM of
+11 	 7 	 (S[dcl]\NP)/NP 	 2 	 move represented
+11 	 8 	 NP[nb]/N 	 1 	 move an
+11 	 9 	 N/N 	 1 	 move audacious
+11 	 10 	 N/N 	 1 	 move international
+11 	 12 	 (NP\NP)/NP 	 1 	 move for
+13 	 12 	 (NP\NP)/NP 	 2 	 TVS for
+13 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 TVS which
+13 	 17 	 (S[dcl]\NP)/NP 	 1 	 TVS was <XB>
+17 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was which
+17 	 16 	 (S\NP)/(S\NP) 	 2 	 was then
+19 	 18 	 (NP/NP)/(NP/NP) 	 2 	 half about
+23 	 17 	 (S[dcl]\NP)/NP 	 2 	 's was
+23 	 19 	 NP/NP 	 1 	 's half
+23 	 20 	 NP[nb]/N 	 1 	 's the
+23 	 21 	 N/N 	 1 	 's U.S.
+23 	 22 	 N/N 	 1 	 's concern
+23 	 24 	 NP\NP 	 1 	 's size
+<\s>
+<s id="wsj_0532.10"> 24
+2 	 0 	 (S/S)/NP 	 2 	 time At
+2 	 1 	 NP[nb]/N 	 1 	 time the
+5 	 4 	 N/N 	 1 	 Gatward Mr.
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Gatward said
+6 	 0 	 (S/S)/NP 	 1 	 said At
+8 	 7 	 NP[nb]/N 	 1 	 friendship his
+8 	 9 	 (NP\NP)/NP 	 1 	 friendship with
+8 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 friendship had
+8 	 13 	 (S[pt]\NP)/NP 	 1 	 friendship smoothed <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 Price with
+11 	 10 	 N/N 	 1 	 Price Mr.
+12 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+13 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 smoothed had
+15 	 13 	 (S[pt]\NP)/NP 	 2 	 way smoothed
+15 	 14 	 NP[nb]/N 	 1 	 way the
+15 	 16 	 (NP\NP)/NP 	 1 	 way for
+18 	 16 	 (NP\NP)/NP 	 2 	 link for
+18 	 17 	 NP[nb]/N 	 1 	 link its
+18 	 19 	 (NP\NP)/NP 	 1 	 link with
+23 	 19 	 (NP\NP)/NP 	 2 	 company with
+23 	 20 	 NP[nb]/N 	 1 	 company the
+23 	 21 	 N/N 	 1 	 company small
+23 	 22 	 N/N 	 1 	 company British
+<\s>
+<s id="wsj_0532.11"> 21
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 TVS stunned
+1 	 8 	 (S[ng]\NP)/S[em] 	 1 	 TVS disclosing <XB>
+2 	 0 	 S/S 	 1 	 stunned But
+2 	 6 	 (S\NP)\(S\NP) 	 2 	 stunned month
+2 	 7 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 stunned by
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 analysts stunned
+4 	 3 	 N/N 	 1 	 analysts industry
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month last
+8 	 7 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 disclosing by
+9 	 8 	 (S[ng]\NP)/S[em] 	 2 	 that disclosing
+10 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it expected
+11 	 9 	 S[em]/S[dcl] 	 1 	 expected that
+12 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 MTM expected
+12 	 14 	 (S[b]\NP)/NP 	 1 	 MTM post <XB>
+13 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expected
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 post to
+17 	 14 	 (S[b]\NP)/NP 	 2 	 loss post
+17 	 15 	 NP[nb]/N 	 1 	 loss an
+17 	 16 	 N/N 	 1 	 loss operating
+17 	 18 	 (NP\NP)/NP 	 1 	 loss for
+20 	 18 	 (NP\NP)/NP 	 2 	 year for
+20 	 19 	 NP[nb]/N 	 1 	 year this
+<\s>
+<s id="wsj_0532.12"> 19
+2 	 0 	 (S/S)/NP 	 2 	 announcement In
+2 	 1 	 NP[nb]/N 	 1 	 announcement that
+4 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 TVS said
+6 	 0 	 (S/S)/NP 	 1 	 said In
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 said also
+7 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it was
+7 	 9 	 (S[ng]\NP)/NP 	 1 	 it trimming <XB>
+7 	 13 	 (S[ng]\NP)/NP 	 1 	 it hiring <XU>
+8 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trimming was
+11 	 9 	 (S[ng]\NP)/NP 	 2 	 finance trimming
+11 	 10 	 N/N 	 1 	 finance production
+13 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 hiring was
+18 	 13 	 (S[ng]\NP)/NP 	 2 	 manager hiring
+18 	 14 	 NP[nb]/N 	 1 	 manager a
+18 	 15 	 N/N 	 1 	 manager new
+18 	 16 	 N/N 	 1 	 manager U.S.
+18 	 17 	 N/N 	 1 	 manager sales
+<\s>
+<s id="wsj_0532.13"> 30
+1 	 0 	 N/N 	 1 	 Gatward Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Gatward has
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 Gatward spent <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 spent has
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 spent since
+3 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 spent at
+5 	 3 	 (S[pt]\NP)/NP 	 2 	 lot spent
+5 	 4 	 NP[nb]/N 	 1 	 lot a
+5 	 6 	 (NP\NP)/NP 	 1 	 lot of
+7 	 6 	 (NP\NP)/NP 	 2 	 time of
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 September since
+10 	 9 	 N/N 	 1 	 September late
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 MTM 's
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 headquarters at
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 headquarters 's
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 he eliminated
+16 	 21 	 (S[dcl]\NP)/NP 	 1 	 he fired <XU>
+17 	 25 	 ((S\NP)\(S\NP))/PP 	 2 	 eliminated according
+19 	 17 	 (S[dcl]\NP)/NP 	 2 	 departments eliminated
+19 	 18 	 N/N 	 1 	 departments three
+21 	 25 	 ((S\NP)\(S\NP))/PP 	 2 	 fired according
+23 	 21 	 (S[dcl]\NP)/NP 	 2 	 executives fired
+23 	 22 	 N/N 	 1 	 executives six
+26 	 25 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+29 	 26 	 PP/NP 	 1 	 spokesman to
+29 	 27 	 NP[nb]/N 	 1 	 spokesman the
+29 	 28 	 N/N 	 1 	 spokesman TVS
+<\s>
+<s id="wsj_0532.14"> 9
+2 	 0 	 N/N 	 1 	 cuts Further
+2 	 1 	 N/N 	 1 	 cuts staff
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 cuts are
+2 	 4 	 S[adj]\NP 	 1 	 cuts likely <XB>
+3 	 8 	 (S[dcl]\S[dcl])\NP 	 1 	 are indicated
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely are
+7 	 6 	 NP[nb]/N 	 1 	 spokesman the
+7 	 8 	 (S[dcl]\S[dcl])\NP 	 2 	 spokesman indicated
+<\s>
+<s id="wsj_0532.15"> 11
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 we are
+2 	 4 	 (S[ng]\NP)/PP 	 1 	 we looking <XB>
+3 	 0 	 S/S 	 1 	 are Obviously
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 looking are
+5 	 4 	 (S[ng]\NP)/PP 	 2 	 at looking
+6 	 5 	 PP/(S[ng]\NP) 	 1 	 making at
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 making across
+7 	 6 	 (S[ng]\NP)/NP 	 2 	 economies making
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 board across
+10 	 9 	 NP[nb]/N 	 1 	 board the
+<\s>
+<s id="wsj_0532.16"> 17
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 TVS blames
+2 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 difficulties blames
+2 	 3 	 (NP\NP)/(S[ng]\NP) 	 1 	 difficulties in
+4 	 3 	 (NP\NP)/(S[ng]\NP) 	 2 	 peddling in
+5 	 4 	 ((S[ng]\NP)/PP)/NP 	 3 	 reruns peddling
+5 	 6 	 (NP\NP)/NP 	 1 	 reruns of
+8 	 6 	 (NP\NP)/NP 	 2 	 shows of
+8 	 7 	 N/N 	 1 	 shows MTM
+9 	 4 	 ((S[ng]\NP)/PP)/NP 	 2 	 to peddling
+11 	 9 	 PP/NP 	 1 	 broadcasters to
+11 	 10 	 N/N 	 1 	 broadcasters U.S.
+12 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for blames
+14 	 12 	 PP/NP 	 1 	 problems for
+14 	 13 	 NP[nb]/N 	 1 	 problems the
+14 	 15 	 (NP\NP)/NP 	 1 	 problems at
+16 	 15 	 (NP\NP)/NP 	 2 	 MTM at
+<\s>
+<s id="wsj_0532.17"> 19
+1 	 0 	 NP[nb]/N 	 1 	 market The
+1 	 2 	 (NP\NP)/NP 	 1 	 market for
+1 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 market has
+1 	 11 	 S[adj]\NP 	 1 	 market weak <XB>
+3 	 2 	 (NP\NP)/NP 	 2 	 reruns for
+3 	 4 	 (S[pss]\NP)/PP 	 1 	 reruns sold <XB>
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 to sold
+8 	 5 	 PP/NP 	 1 	 broadcasters to
+8 	 6 	 N/N 	 1 	 broadcasters local
+8 	 7 	 N/N 	 1 	 broadcasters U.S.
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+10 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 been for
+11 	 10 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 weak been
+18 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 seasons for
+18 	 13 	 NP[nb]/N 	 1 	 seasons the
+18 	 14 	 N/N 	 1 	 seasons past
+18 	 15 	 N/N 	 1 	 seasons three <XU>
+18 	 17 	 N/N 	 1 	 seasons four
+<\s>
+<s id="wsj_0532.18"> 18
+1 	 0 	 N/N 	 1 	 Price Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Price co-founded
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 co-founded in
+2 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 co-founded with
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 MTM co-founded
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 1969 in
+11 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Moore with
+11 	 7 	 N/N 	 1 	 Moore U.S.
+11 	 8 	 N/N 	 1 	 Moore actress
+11 	 9 	 N/N 	 1 	 Moore Mary
+11 	 10 	 N/N 	 1 	 Moore Tyler
+14 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Tinker with
+14 	 13 	 N/N 	 1 	 Tinker Grant
+17 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 then-husband with
+17 	 16 	 NP[nb]/N 	 1 	 then-husband her
+<\s>
+<s id="wsj_0532.19"> 11
+1 	 0 	 N/N 	 1 	 Tinker Mr.
+1 	 3 	 S[dcl]\NP 	 1 	 Tinker left
+1 	 5 	 (S[b]\NP)/NP 	 1 	 Tinker become <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 left later
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 become to
+6 	 5 	 (S[b]\NP)/NP 	 2 	 chairman become
+6 	 7 	 (NP\NP)/NP 	 1 	 chairman of
+10 	 7 	 (NP\NP)/NP 	 2 	 Co of
+10 	 8 	 N/N 	 1 	 Co National
+10 	 9 	 N/N 	 1 	 Co Broadcasting
+<\s>
+<s id="wsj_0532.20"> 22
+2 	 0 	 NP[nb]/N 	 1 	 spokesman The
+2 	 1 	 N/N 	 1 	 spokesman TVS
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+5 	 4 	 N/N 	 1 	 Price Mr.
+5 	 7 	 (S[dcl]\NP)/NP 	 1 	 Price holds
+7 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 holds said
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 holds still
+11 	 10 	 (N/N)/(N/N) 	 2 	 % 8
+13 	 7 	 (S[dcl]\NP)/NP 	 2 	 stake holds
+13 	 8 	 NP/NP 	 1 	 stake about
+13 	 9 	 NP[nb]/N 	 1 	 stake an
+13 	 11 	 N/N 	 1 	 stake %
+13 	 12 	 N/N 	 1 	 stake TVS
+13 	 15 	 (S[pss]\NP)/PP 	 1 	 stake acquired <XB>
+16 	 15 	 (S[pss]\NP)/PP 	 2 	 as acquired
+17 	 16 	 PP/NP 	 1 	 part as
+17 	 18 	 (NP\NP)/NP 	 1 	 part of
+21 	 18 	 (NP\NP)/NP 	 2 	 acquisition of
+21 	 19 	 NP[nb]/N 	 1 	 acquisition the
+21 	 20 	 N/N 	 1 	 acquisition MTM
+<\s>
+<s id="wsj_0532.21"> 20
+2 	 0 	 (S/S)/NP 	 2 	 trading In
+2 	 1 	 N/N 	 1 	 trading late
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 London 's
+7 	 3 	 (S/S)/NP 	 2 	 Exchange on
+7 	 5 	 (NP[nb]/N)\NP 	 1 	 Exchange 's
+7 	 6 	 N/N 	 1 	 Exchange Stock
+11 	 10 	 N/N 	 1 	 shares TVS
+11 	 12 	 S[dcl]\NP 	 1 	 shares rose
+12 	 0 	 (S/S)/NP 	 1 	 rose In
+12 	 3 	 (S/S)/NP 	 1 	 rose on
+12 	 8 	 S/S 	 1 	 rose Friday
+12 	 14 	 (S\NP)\(S\NP) 	 2 	 rose pence
+12 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 pence four
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 pence to
+17 	 16 	 N/N 	 1 	 pence 195
+17 	 18 	 (NP\NP)/N 	 1 	 pence a
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+<\s>

@@ -1,0 +1,959 @@
+<s id="wsj_1470.1"> 6
+2 	 0 	 N/N 	 1 	 Case Oil
+2 	 1 	 N/N 	 1 	 Case Spill
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Case Shows
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 Flaws Shows
+6 	 4 	 N/N 	 1 	 Flaws Liability
+6 	 5 	 N/N 	 1 	 Flaws Fund
+<\s>
+<s id="wsj_1470.2"> 25
+3 	 0 	 NP[nb]/N 	 1 	 dispute AN
+3 	 1 	 N/N 	 1 	 dispute UNRESOLVED
+3 	 2 	 N/N 	 1 	 dispute two-year-old
+3 	 4 	 (S[ng]\NP)/PP 	 1 	 dispute stemming <XB>
+3 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 dispute has
+3 	 11 	 (S[pt]\NP)/(S[b]\NP) 	 1 	 dispute helped <XB>
+3 	 12 	 (S[b]\NP)/NP 	 1 	 dispute spur <XB>
+5 	 4 	 (S[ng]\NP)/PP 	 2 	 from stemming
+9 	 5 	 PP/NP 	 1 	 spill from
+9 	 6 	 NP[nb]/N 	 1 	 spill an
+9 	 7 	 N/N 	 1 	 spill Alaskan
+9 	 8 	 N/N 	 1 	 spill oil
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 helped has
+12 	 11 	 (S[pt]\NP)/(S[b]\NP) 	 2 	 spur helped
+14 	 12 	 (S[b]\NP)/NP 	 2 	 drive spur
+14 	 13 	 NP[nb]/N 	 1 	 drive a
+14 	 15 	 (NP\NP)/NP 	 1 	 drive for
+18 	 15 	 (NP\NP)/NP 	 2 	 laws for
+18 	 16 	 N/N 	 1 	 laws tougher
+18 	 17 	 N/N 	 1 	 laws federal
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 protect to
+21 	 20 	 (S[b]\NP)/NP 	 2 	 victims protect
+21 	 22 	 (NP\NP)/NP 	 1 	 victims of
+24 	 22 	 (NP\NP)/NP 	 2 	 accidents of
+24 	 23 	 NP/NP 	 1 	 accidents such
+<\s>
+<s id="wsj_1470.3"> 29
+2 	 0 	 NP[nb]/N 	 1 	 suit The
+2 	 1 	 N/N 	 1 	 suit class-action
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 suit highlights
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 shortcomings highlights
+4 	 5 	 (NP\NP)/NP 	 1 	 shortcomings of
+10 	 5 	 (NP\NP)/NP 	 2 	 Fund of
+10 	 6 	 NP[nb]/N 	 1 	 Fund the
+10 	 7 	 N/N 	 1 	 Fund Trans-Alaska
+10 	 8 	 N/N 	 1 	 Fund Pipeline
+10 	 9 	 N/N 	 1 	 Fund Liability
+10 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Fund which
+10 	 13 	 (S[dcl]\NP)/NP 	 1 	 Fund gets <XB>
+10 	 23 	 (S[dcl]\NP)/NP 	 1 	 Fund compensates <XU>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 gets which
+13 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 gets from
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 money gets
+15 	 14 	 NP[nb]/N 	 1 	 money its
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 companies from
+18 	 17 	 N/N 	 1 	 companies oil
+18 	 19 	 (S[ng]\NP)/NP 	 1 	 companies using <XB>
+21 	 19 	 (S[ng]\NP)/NP 	 2 	 pipeline using
+21 	 20 	 NP[nb]/N 	 1 	 pipeline the
+23 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 compensates which
+24 	 23 	 (S[dcl]\NP)/NP 	 2 	 those compensates
+24 	 25 	 S[adj]\NP 	 1 	 those harmed <XB>
+25 	 26 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 harmed by
+28 	 26 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 spills by
+28 	 27 	 N/N 	 1 	 spills oil
+<\s>
+<s id="wsj_1470.4"> 25
+1 	 0 	 (S/S)/NP 	 2 	 July On
+1 	 4 	 N\N 	 1 	 July 1987
+2 	 1 	 N/N[num] 	 1 	 2 July
+10 	 6 	 NP[nb]/N 	 1 	 Bay the
+10 	 7 	 N/N 	 1 	 Bay tanker
+10 	 8 	 N/N 	 1 	 Bay S.S.
+10 	 9 	 N/N 	 1 	 Bay Glacier
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 Bay struck
+10 	 15 	 (S[dcl]\NP)/NP 	 1 	 Bay spilled <XU>
+11 	 0 	 (S/S)/NP 	 1 	 struck On
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 rock struck
+13 	 12 	 NP[nb]/N 	 1 	 rock a
+15 	 0 	 (S/S)/NP 	 1 	 spilled On
+15 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 spilled into
+17 	 16 	 (N/N)/(N/N) 	 2 	 150,000 almost
+18 	 15 	 (S[dcl]\NP)/NP 	 2 	 gallons spilled
+18 	 17 	 N/N 	 1 	 gallons 150,000
+18 	 19 	 (NP\NP)/NP 	 1 	 gallons of
+20 	 19 	 (NP\NP)/NP 	 2 	 oil of
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 Inlet into
+24 	 22 	 NP[nb]/N 	 1 	 Inlet the
+24 	 23 	 N/N 	 1 	 Inlet Cook
+<\s>
+<s id="wsj_1470.5"> 22
+4 	 0 	 N/N 	 1 	 processors Commercial
+4 	 1 	 N/N 	 1 	 processors fishermen
+4 	 3 	 N/N 	 1 	 processors fish
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 processors filed
+5 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 filed in
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 filed in
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 suit filed
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 court in
+9 	 8 	 N/N 	 1 	 court federal
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 claim in
+12 	 11 	 NP[nb]/N 	 1 	 claim a
+12 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 claim that
+12 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 claim has <XB>
+12 	 15 	 (S[pt]\NP)/PP 	 1 	 claim ballooned <XB>
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has that
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 ballooned has
+16 	 15 	 (S[pt]\NP)/PP 	 2 	 to ballooned
+17 	 18 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+19 	 16 	 PP/NP 	 1 	 $ to
+19 	 18 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 104.8
+<\s>
+<s id="wsj_1470.6"> 17
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Defendants include
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 America include
+4 	 2 	 N/N 	 1 	 America British
+4 	 3 	 N/N 	 1 	 America Petroleum
+7 	 1 	 (S[dcl]\NP)/NP 	 2 	 Corp. include
+7 	 6 	 N/N 	 1 	 Corp. Trinidad
+10 	 1 	 (S[dcl]\NP)/NP 	 2 	 shipper include
+10 	 9 	 NP[nb]/N 	 1 	 shipper the
+16 	 1 	 (S[dcl]\NP)/NP 	 2 	 fund include
+16 	 13 	 NP[nb]/N 	 1 	 fund the
+16 	 14 	 N/N 	 1 	 fund pipeline
+16 	 15 	 N/N 	 1 	 fund liability
+<\s>
+<s id="wsj_1470.7"> 34
+1 	 0 	 NP[nb]/N 	 1 	 fund The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 fund was
+1 	 3 	 S[pss]\NP 	 1 	 fund created <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 created was
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 created by
+8 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Act by
+8 	 5 	 NP[nb]/N 	 1 	 Act the
+8 	 6 	 N/N 	 1 	 Act Trans-Alaska
+8 	 7 	 N/N 	 1 	 Act Pipeline
+8 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Act which
+8 	 11 	 (S[dcl]\NP)/S[em] 	 1 	 Act provides <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 provides which
+12 	 11 	 (S[dcl]\NP)/S[em] 	 2 	 that provides
+14 	 13 	 NP[nb]/N 	 1 	 owner the
+14 	 17 	 (NP\NP)/NP 	 1 	 owner of
+14 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 owner must
+14 	 26 	 (S[b]\NP)/NP 	 1 	 owner pay <XB>
+16 	 13 	 NP[nb]/N 	 1 	 operator the
+16 	 17 	 (NP\NP)/NP 	 1 	 operator of
+16 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 operator must
+16 	 26 	 (S[b]\NP)/NP 	 1 	 operator pay <XB>
+19 	 17 	 (NP\NP)/NP 	 2 	 vessel of
+19 	 18 	 NP[nb]/N 	 1 	 vessel a
+19 	 20 	 (S[pss]\NP)/PP 	 1 	 vessel involved <XB>
+21 	 20 	 (S[pss]\NP)/PP 	 2 	 in involved
+24 	 21 	 PP/NP 	 1 	 spill in
+24 	 22 	 NP[nb]/N 	 1 	 spill an
+24 	 23 	 N/N 	 1 	 spill oil
+25 	 12 	 S[em]/S[dcl] 	 1 	 must that
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 pay must
+29 	 26 	 (S[b]\NP)/NP 	 2 	 $ pay
+29 	 27 	 NP[nb]/N 	 1 	 $ the
+29 	 28 	 N/N 	 1 	 $ first
+29 	 32 	 (NP\NP)/NP 	 1 	 $ in
+31 	 29 	 N/N[num] 	 1 	 million $
+31 	 30 	 N/N 	 1 	 million 14
+33 	 32 	 (NP\NP)/NP 	 2 	 damages in
+<\s>
+<s id="wsj_1470.8"> 14
+1 	 0 	 NP[nb]/N 	 1 	 fund The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 fund is
+1 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 fund required <XB>
+1 	 5 	 ((S[b]\NP)/NP)/NP 	 1 	 fund pay <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 required is
+4 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to required
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+6 	 5 	 ((S[b]\NP)/NP)/NP 	 3 	 claims pay
+8 	 5 	 ((S[b]\NP)/NP)/NP 	 2 	 to pay
+8 	 7 	 N/N 	 1 	 to up
+8 	 10 	 N\N 	 1 	 to additional
+8 	 11 	 (N\N)/N[num] 	 1 	 to $
+9 	 8 	 N/NP 	 1 	 an to
+13 	 11 	 (N\N)/N[num] 	 2 	 million $
+13 	 12 	 N/N 	 1 	 million 86
+<\s>
+<s id="wsj_1470.9"> 11
+1 	 0 	 NP[nb]/N 	 1 	 fund The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 fund 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 purpose 's
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 purpose is
+3 	 6 	 (S[b]\NP)/NP 	 1 	 purpose provide <XB>
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provide to
+10 	 6 	 (S[b]\NP)/NP 	 2 	 relief provide
+10 	 7 	 N/N 	 1 	 relief quick <XU>
+10 	 9 	 N/N 	 1 	 relief adequate
+<\s>
+<s id="wsj_1470.10"> 20
+4 	 1 	 NP[nb]/N 	 1 	 case the
+4 	 2 	 N/N 	 1 	 case Glacier
+4 	 3 	 N/N 	 1 	 case Bay
+4 	 12 	 (S[dcl]\NP)/S[qem] 	 1 	 case shows
+7 	 6 	 NP[nb]/N 	 1 	 fund the
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 fund 's
+10 	 8 	 (NP[nb]/N)\NP 	 1 	 test 's
+10 	 9 	 N/N 	 1 	 test first
+10 	 12 	 (S[dcl]\NP)/S[qem] 	 1 	 test shows
+12 	 0 	 S/S 	 1 	 shows But
+13 	 12 	 (S[dcl]\NP)/S[qem] 	 2 	 how shows
+14 	 13 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 2 	 easily how
+16 	 15 	 NP[nb]/N 	 1 	 fund the
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 fund can
+16 	 19 	 S[pss]\NP 	 1 	 fund undermined <XB>
+17 	 13 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 1 	 can how
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+19 	 18 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 undermined be
+<\s>
+<s id="wsj_1470.11"> 5
+1 	 0 	 N/N 	 1 	 Corp. Trinidad
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Corp. is
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 Corp. contesting <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 contesting is
+4 	 3 	 (S[ng]\NP)/NP 	 2 	 liability contesting
+<\s>
+<s id="wsj_1470.12"> 15
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 It claims
+4 	 2 	 NP[nb]/N 	 1 	 Guard the
+4 	 3 	 N/N 	 1 	 Guard Coast
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Guard failed
+4 	 7 	 (S[b]\NP)/NP 	 1 	 Guard chart <XB>
+4 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Guard refuses <XU>
+4 	 13 	 (S[b]\NP)/NP 	 1 	 Guard pay <XU>
+5 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 failed claims
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to failed
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 chart to
+9 	 7 	 (S[b]\NP)/NP 	 2 	 rock chart
+9 	 8 	 NP[nb]/N 	 1 	 rock the
+11 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 refuses claims
+12 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to refuses
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+14 	 13 	 (S[b]\NP)/NP 	 2 	 damages pay
+<\s>
+<s id="wsj_1470.13"> 15
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 That means
+3 	 2 	 NP[nb]/N 	 1 	 fund the
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 fund is
+3 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 fund obligated <XB>
+3 	 8 	 (S[b]\NP)/NP 	 1 	 fund pay <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 is means
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 is n't
+6 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 obligated is
+6 	 14 	 (S\NP)\(S\NP) 	 2 	 obligated far
+7 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to obligated
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+9 	 8 	 (S[b]\NP)/NP 	 2 	 anything pay
+12 	 11 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(S[asup]\NP) 	 4 	 least at
+14 	 11 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(S[asup]\NP) 	 3 	 far at
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 far so
+<\s>
+<s id="wsj_1470.14"> 68
+3 	 0 	 NP[nb]/N 	 1 	 Act The
+3 	 1 	 N/N 	 1 	 Act Oil
+3 	 2 	 N/N 	 1 	 Act Pollution
+3 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Act scheduled <XB>
+3 	 7 	 (S[b]\NP)/PP 	 1 	 Act come <XB>
+3 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Act would
+3 	 18 	 (S[b]\NP)/S[em] 	 1 	 Act provide <XB>
+6 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to scheduled
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 come to
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 come up
+7 	 14 	 ((S\NP)\(S\NP))/N 	 2 	 come this
+9 	 7 	 (S[b]\NP)/PP 	 2 	 for come
+11 	 9 	 PP/NP 	 1 	 vote for
+11 	 10 	 NP[nb]/N 	 1 	 vote a
+11 	 12 	 (NP\NP)/NP 	 1 	 vote in
+13 	 12 	 (NP\NP)/NP 	 2 	 Congress in
+15 	 14 	 ((S\NP)\(S\NP))/N 	 3 	 fall this
+17 	 50 	 (S[dcl]\S[dcl])/NP 	 1 	 would says
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 provide would
+19 	 18 	 (S[b]\NP)/S[em] 	 2 	 that provide
+21 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 claimants are
+21 	 24 	 S[pss]\NP 	 1 	 claimants paid <XB>
+22 	 20 	 (S/S)/S[dcl] 	 2 	 are if
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 are n't
+24 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 paid are
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 paid within
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 days within
+27 	 26 	 N/N 	 1 	 days 90
+27 	 28 	 (NP\NP)/NP 	 1 	 days of
+30 	 28 	 (NP\NP)/NP 	 2 	 spill of
+30 	 29 	 NP[nb]/N 	 1 	 spill a
+34 	 32 	 NP[nb]/N 	 1 	 fund the
+34 	 33 	 N/N 	 1 	 fund liability
+34 	 35 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 fund would
+34 	 36 	 (S[b]\NP)/NP 	 1 	 fund compensate <XB>
+34 	 39 	 (S[b]\NP)/NP 	 1 	 fund seek <XU>
+35 	 19 	 S[em]/S[dcl] 	 1 	 would that
+35 	 20 	 (S/S)/S[dcl] 	 1 	 would if
+36 	 35 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 compensate would
+37 	 36 	 (S[b]\NP)/NP 	 2 	 them compensate
+39 	 35 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seek would
+40 	 39 	 (S[b]\NP)/NP 	 2 	 reimbursement seek
+40 	 41 	 (NP\NP)/NP 	 1 	 reimbursement from
+43 	 41 	 (NP\NP)/NP 	 2 	 owner from
+43 	 42 	 NP[nb]/N 	 1 	 owner the
+43 	 46 	 (NP\NP)/NP 	 1 	 owner of
+45 	 41 	 (NP\NP)/NP 	 2 	 operator from
+45 	 42 	 NP[nb]/N 	 1 	 operator the
+45 	 46 	 (NP\NP)/NP 	 1 	 operator of
+48 	 46 	 (NP\NP)/NP 	 2 	 vessel of
+48 	 47 	 NP[nb]/N 	 1 	 vessel the
+52 	 50 	 (S[dcl]\S[dcl])/NP 	 2 	 spokesman says
+52 	 51 	 NP[nb]/N 	 1 	 spokesman a
+52 	 53 	 (NP\NP)/NP 	 1 	 spokesman for
+56 	 53 	 (NP\NP)/NP 	 2 	 Miller for
+56 	 54 	 N/N 	 1 	 Miller Rep.
+56 	 55 	 N/N 	 1 	 Miller George
+56 	 57 	 (NP\NP)/NP 	 1 	 Miller -LRB-
+58 	 57 	 (NP\NP)/NP 	 2 	 D. -LRB-
+58 	 60 	 NP\NP 	 1 	 D. Calif.
+64 	 53 	 (NP\NP)/NP 	 2 	 sponsor for
+64 	 63 	 NP[nb]/N 	 1 	 sponsor a
+64 	 65 	 (NP\NP)/NP 	 1 	 sponsor of
+67 	 65 	 (NP\NP)/NP 	 2 	 bill of
+67 	 66 	 NP[nb]/N 	 1 	 bill the
+<\s>
+<s id="wsj_1470.15"> 14
+1 	 0 	 NP[nb]/N 	 1 	 spokesman The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman says
+4 	 3 	 NP[nb]/N 	 1 	 glitch the
+4 	 5 	 (NP\NP)/NP 	 1 	 glitch in
+4 	 8 	 (S[dcl]\NP)/NP 	 1 	 glitch is
+7 	 5 	 (NP\NP)/NP 	 2 	 statute in
+7 	 6 	 NP[nb]/N 	 1 	 statute the
+8 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 is says
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 kind is
+11 	 9 	 NP[nb]/N 	 1 	 kind the
+11 	 10 	 N/N 	 1 	 kind worst
+11 	 12 	 (NP\NP)/NP 	 1 	 kind of
+13 	 12 	 (NP\NP)/NP 	 2 	 Catch-22 of
+<\s>
+<s id="wsj_1470.16"> 7
+3 	 0 	 N/N 	 1 	 Grads Many
+3 	 1 	 N/N 	 1 	 Grads Law
+3 	 2 	 N/N 	 1 	 Grads School
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Grads Find
+7 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 End Find
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 End Never
+<\s>
+<s id="wsj_1470.17"> 18
+3 	 0 	 N/N 	 1 	 graduates RECENT
+3 	 1 	 N/N 	 1 	 graduates LAW
+3 	 2 	 N/N 	 1 	 graduates school
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 graduates are
+3 	 5 	 (S[ng]\NP)/NP 	 1 	 graduates starting <XB>
+3 	 14 	 S[ng]\NP 	 1 	 graduates heading <XU>
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 starting are
+5 	 10 	 ((S\NP)\(S\NP))/N 	 2 	 starting this
+6 	 5 	 (S[ng]\NP)/NP 	 2 	 jobs starting
+6 	 7 	 (NP\NP)/NP 	 1 	 jobs with
+9 	 7 	 (NP\NP)/NP 	 2 	 firms with
+9 	 8 	 N/N 	 1 	 firms law
+11 	 10 	 ((S\NP)\(S\NP))/N 	 3 	 fall this
+14 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 heading are
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 heading back
+14 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 heading to
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 class to
+<\s>
+<s id="wsj_1470.18"> 25
+1 	 0 	 N/N 	 1 	 associations Bar
+1 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 associations are
+1 	 5 	 (S[ng]\NP)/NP 	 1 	 associations offering <XB>
+3 	 0 	 N/N 	 1 	 consultants Bar
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 consultants are
+3 	 5 	 (S[ng]\NP)/NP 	 1 	 consultants offering <XB>
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 offering are
+7 	 5 	 (S[ng]\NP)/NP 	 2 	 programs offering
+7 	 6 	 N/N 	 1 	 programs more
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 teach to
+10 	 9 	 ((S[b]\NP)/NP)/NP 	 3 	 associates teach
+11 	 9 	 ((S[b]\NP)/NP)/NP 	 2 	 all teach
+11 	 15 	 (S[b]\NP)/NP 	 2 	 all know <XU>
+11 	 21 	 (S[b]\NP)/NP 	 2 	 all learn <XU>
+12 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 they need
+12 	 15 	 (S[b]\NP)/NP 	 1 	 they know <XB>
+12 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they did <XU>
+12 	 21 	 (S[b]\NP)/NP 	 1 	 they learn <XU>
+14 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to need
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 know to
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 know about
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 law about
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 did n't
+21 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 learn did
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 learn in
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 school in
+24 	 23 	 N/N 	 1 	 school law
+<\s>
+<s id="wsj_1470.19"> 38
+1 	 0 	 N/N 	 1 	 school Law
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 school teaches
+2 	 19 	 (S[dcl]\S[dcl])/NP 	 1 	 teaches says
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 theory teaches
+4 	 3 	 N/N 	 1 	 theory wonderful
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it does
+7 	 10 	 (S[b]\NP)/NP 	 1 	 it teach <XB>
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 does n't
+8 	 19 	 (S[dcl]\S[dcl])/NP 	 1 	 does says
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 teach does
+12 	 10 	 (S[b]\NP)/NP 	 2 	 nuts teach
+12 	 11 	 NP[nb]/N 	 1 	 nuts the
+12 	 15 	 (NP\NP)/NP 	 1 	 nuts of
+14 	 10 	 (S[b]\NP)/NP 	 2 	 bolts teach
+14 	 11 	 NP[nb]/N 	 1 	 bolts the
+14 	 15 	 (NP\NP)/NP 	 1 	 bolts of
+17 	 15 	 (NP\NP)/NP 	 2 	 lawyering of
+17 	 16 	 N/N 	 1 	 lawyering practical
+21 	 19 	 (S[dcl]\S[dcl])/NP 	 2 	 Weitz says
+21 	 20 	 N/N 	 1 	 Weitz Aaron
+23 	 19 	 (S[dcl]\S[dcl])/NP 	 2 	 head says
+23 	 24 	 (NP\NP)/NP 	 1 	 head of
+29 	 25 	 NP[nb]/N 	 1 	 Lawyers a
+29 	 26 	 N/N 	 1 	 Lawyers New
+29 	 27 	 N/N 	 1 	 Lawyers York
+29 	 28 	 N/N 	 1 	 Lawyers County
+29 	 30 	 (NP[nb]/N)\NP 	 2 	 Lawyers '
+32 	 24 	 (NP\NP)/NP 	 2 	 committee of
+32 	 30 	 (NP[nb]/N)\NP 	 1 	 committee '
+32 	 31 	 N/N 	 1 	 committee Association
+32 	 33 	 (NP\NP)/(S[dcl]\NP) 	 1 	 committee that
+32 	 34 	 (S[dcl]\NP)/NP 	 1 	 committee sponsors <XB>
+34 	 33 	 (NP\NP)/(S[dcl]\NP) 	 2 	 sponsors that
+37 	 34 	 (S[dcl]\NP)/NP 	 2 	 course sponsors
+37 	 35 	 NP/NP 	 1 	 course such
+37 	 36 	 NP[nb]/N 	 1 	 course a
+<\s>
+<s id="wsj_1470.20"> 15
+2 	 0 	 (S/S)/NP 	 2 	 past In
+2 	 1 	 NP[nb]/N 	 1 	 past the
+4 	 5 	 ((S[dcl]\NP)/PP)/NP 	 1 	 associates learned
+5 	 0 	 (S/S)/NP 	 1 	 learned In
+7 	 5 	 ((S[dcl]\NP)/PP)/NP 	 3 	 basics learned
+7 	 6 	 NP[nb]/N 	 1 	 basics the
+8 	 5 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from learned
+10 	 8 	 PP/NP 	 1 	 lawyers from
+10 	 9 	 N/N 	 1 	 lawyers senior
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 lawyers who
+10 	 12 	 (S[dcl]\NP)/PP 	 1 	 lawyers acted <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 acted who
+13 	 12 	 (S[dcl]\NP)/PP 	 2 	 as acted
+14 	 13 	 PP/NP 	 1 	 mentors as
+<\s>
+<s id="wsj_1470.21"> 39
+2 	 1 	 (S/S)/N 	 2 	 days these
+5 	 4 	 N/N 	 1 	 firms large
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 firms hire
+6 	 0 	 S/S 	 1 	 hire But
+6 	 1 	 (S/S)/N 	 1 	 hire these
+6 	 25 	 (S[dcl]\S[dcl])/NP 	 1 	 hire says
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 as hire
+7 	 13 	 (NP\NP)/N 	 1 	 as a
+8 	 7 	 ((NP[nb]/N)/PP)/(S[adj]\NP) 	 3 	 many as
+9 	 7 	 ((NP[nb]/N)/PP)/(S[adj]\NP) 	 2 	 as as
+10 	 9 	 PP/NP 	 1 	 30 as
+12 	 7 	 ((NP[nb]/N)/PP)/(S[adj]\NP) 	 1 	 associates as
+12 	 11 	 N/N 	 1 	 associates new
+14 	 13 	 (NP\NP)/N 	 2 	 year a
+17 	 18 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 1 	 it 's
+18 	 0 	 S/S 	 1 	 's But
+18 	 1 	 (S/S)/N 	 1 	 's these
+18 	 25 	 (S[dcl]\S[dcl])/NP 	 1 	 's says
+19 	 18 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 3 	 impossible 's
+20 	 18 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 2 	 to 's
+22 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 train to
+22 	 21 	 (S\NP)/(S\NP) 	 2 	 train personally
+23 	 22 	 (S[b]\NP)/NP 	 2 	 everyone train
+27 	 25 	 (S[dcl]\S[dcl])/NP 	 2 	 Henning says
+27 	 26 	 N/N 	 1 	 Henning Joel
+27 	 28 	 (NP\NP)/NP 	 1 	 Henning of
+30 	 28 	 (NP\NP)/NP 	 2 	 Inc. of
+30 	 29 	 N/N 	 1 	 Inc. Hildebrandt
+34 	 28 	 (NP\NP)/NP 	 2 	 firm of
+34 	 32 	 NP[nb]/N 	 1 	 firm a
+34 	 33 	 N/N 	 1 	 firm consulting
+34 	 35 	 (NP\NP)/(S[dcl]\NP) 	 1 	 firm that
+34 	 36 	 (S[dcl]\NP)/NP 	 1 	 firm runs <XB>
+36 	 35 	 (NP\NP)/(S[dcl]\NP) 	 2 	 runs that
+38 	 36 	 (S[dcl]\NP)/NP 	 2 	 classes runs
+38 	 37 	 N/N 	 1 	 classes training
+<\s>
+<s id="wsj_1470.22"> 17
+2 	 0 	 NP[nb]/N 	 1 	 course The
+2 	 1 	 N/N 	 1 	 course Hildebrandt
+2 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 course enables
+3 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 enables by
+4 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 students enables
+4 	 6 	 (S[b]\NP)/PP 	 1 	 students brush <XB>
+5 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to enables
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 brush to
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 brush up
+8 	 6 	 (S[b]\NP)/PP 	 2 	 on brush
+10 	 8 	 PP/NP 	 1 	 skills on
+10 	 9 	 N/N 	 1 	 skills negotiation
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 playing by
+13 	 12 	 N/N 	 1 	 playing role
+13 	 14 	 (NP\NP)/NP 	 1 	 playing in
+16 	 14 	 (NP\NP)/NP 	 2 	 deals in
+16 	 15 	 N/N 	 1 	 deals simulated
+<\s>
+<s id="wsj_1470.23"> 19
+0 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Students are
+0 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Students taught <XB>
+0 	 5 	 (S[b]\NP)/NP 	 1 	 Students return <XB>
+0 	 13 	 ((S[b]\NP)/PP)/NP 	 1 	 Students treat <XU>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 are also
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 taught are
+4 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to taught
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 return to
+5 	 10 	 (S\NP)\(S\NP) 	 2 	 return immediately
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 clients '
+9 	 5 	 (S[b]\NP)/NP 	 2 	 calls return
+9 	 7 	 (NP[nb]/N)\NP 	 1 	 calls '
+9 	 8 	 N/N 	 1 	 calls phone
+12 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to taught
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 treat to
+16 	 13 	 ((S[b]\NP)/PP)/NP 	 3 	 staff treat
+16 	 14 	 NP[nb]/N 	 1 	 staff the
+16 	 15 	 N/N 	 1 	 staff support
+17 	 13 	 ((S[b]\NP)/PP)/NP 	 2 	 with treat
+18 	 17 	 PP/NP 	 1 	 respect with
+<\s>
+<s id="wsj_1470.24"> 7
+2 	 0 	 N/N 	 1 	 firms Many
+2 	 1 	 N/N 	 1 	 firms law
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 firms sponsor
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 programs sponsor
+6 	 4 	 NP[nb]/N 	 1 	 programs their
+6 	 5 	 N/N 	 1 	 programs own
+<\s>
+<s id="wsj_1470.25"> 22
+3 	 0 	 (S/S)/NP 	 2 	 firm At
+3 	 1 	 NP[nb]/N 	 1 	 firm the
+3 	 2 	 N/N 	 1 	 firm Baltimore
+3 	 4 	 (NP\NP)/NP 	 1 	 firm of
+7 	 4 	 (NP\NP)/NP 	 2 	 Green of
+7 	 5 	 N/N 	 1 	 Green Weinberg
+7 	 6 	 N/N 	 1 	 Green &
+13 	 9 	 N/N 	 1 	 associates new
+13 	 10 	 N/N 	 1 	 associates corporate
+13 	 12 	 N/N 	 1 	 associates banking
+13 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 associates are
+13 	 15 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 associates required <XB>
+13 	 17 	 (S[b]\NP)/PP 	 1 	 associates enroll <XB>
+14 	 0 	 (S/S)/NP 	 1 	 are At
+15 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 required are
+16 	 15 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to required
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 enroll to
+18 	 17 	 (S[b]\NP)/PP 	 2 	 in enroll
+21 	 18 	 PP/NP 	 1 	 course in
+21 	 19 	 NP[nb]/N 	 1 	 course a
+21 	 20 	 N/N 	 1 	 course 20-class
+<\s>
+<s id="wsj_1470.26"> 17
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 Partners lecture
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 on lecture
+3 	 2 	 PP/S[qem] 	 1 	 how on
+4 	 3 	 S[qem]/(S[to]\NP) 	 1 	 to how
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 form to
+6 	 5 	 (S[b]\NP)/NP 	 2 	 corporations form
+8 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 draft to
+9 	 8 	 (S[b]\NP)/NP 	 2 	 agreements draft
+11 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 defend to
+12 	 11 	 ((S[b]\NP)/PP)/NP 	 3 	 clients defend
+13 	 11 	 ((S[b]\NP)/PP)/NP 	 2 	 against defend
+16 	 13 	 PP/NP 	 1 	 offers against
+16 	 14 	 N/N 	 1 	 offers unwanted
+16 	 15 	 N/N 	 1 	 offers tender
+<\s>
+<s id="wsj_1470.27"> 28
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 clients know
+3 	 0 	 S/S 	 1 	 know Now
+3 	 18 	 (S[dcl]\S[dcl])/NP 	 1 	 know says
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that know
+6 	 5 	 N/N 	 1 	 associates new
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 associates have
+6 	 8 	 (S[pt]\NP)/NP 	 1 	 associates had <XB>
+6 	 13 	 (S[ng]\NP)/PP 	 1 	 associates working <XB>
+7 	 4 	 S[em]/S[dcl] 	 1 	 have that
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 had have
+8 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 had before
+11 	 8 	 (S[pt]\NP)/NP 	 2 	 training had
+11 	 9 	 NP[nb]/N 	 1 	 training some
+11 	 10 	 N/N 	 1 	 training practical
+13 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 working before
+14 	 13 	 (S[ng]\NP)/PP 	 2 	 on working
+16 	 14 	 PP/NP 	 1 	 cases on
+16 	 15 	 NP[nb]/N 	 1 	 cases their
+21 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 Hanks says
+21 	 19 	 N/N 	 1 	 Hanks James
+21 	 20 	 N/N 	 1 	 Hanks J.
+24 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 partner says
+24 	 23 	 NP[nb]/N 	 1 	 partner a
+24 	 25 	 (NP\NP)/NP 	 1 	 partner at
+27 	 25 	 (NP\NP)/NP 	 2 	 firm at
+27 	 26 	 NP[nb]/N 	 1 	 firm the
+<\s>
+<s id="wsj_1470.28"> 6
+1 	 0 	 N/N 	 1 	 Angeles Los
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Angeles Creates
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 Courthouse Creates
+4 	 3 	 NP[nb]/N 	 1 	 Courthouse A
+4 	 5 	 (NP\NP)/NP 	 1 	 Courthouse for
+6 	 5 	 (NP\NP)/NP 	 2 	 Kids for
+<\s>
+<s id="wsj_1470.29"> 14
+1 	 0 	 NP[nb]/N 	 1 	 CHILDREN THE
+1 	 2 	 (NP\NP)/NP 	 1 	 CHILDREN of
+1 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 CHILDREN will
+1 	 7 	 (S[b]\NP)/NP 	 1 	 CHILDREN have <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 Angeles of
+4 	 3 	 N/N 	 1 	 Angeles Los
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 will soon
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+12 	 10 	 (N/N)/N[num] 	 2 	 million $
+12 	 11 	 N/N 	 1 	 million 52
+13 	 7 	 (S[b]\NP)/NP 	 2 	 courthouse have
+13 	 8 	 NP[nb]/N 	 1 	 courthouse their
+13 	 9 	 N/N 	 1 	 courthouse own
+13 	 10 	 (N/N)/N[num] 	 1 	 courthouse $
+<\s>
+<s id="wsj_1470.30"> 44
+1 	 0 	 NP[nb]/N 	 1 	 building The
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 building which
+1 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 building will <XB>
+1 	 5 	 (S[b]\NP)/NP 	 1 	 building handle <XB>
+1 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 building will
+1 	 18 	 S[adj]\NP 	 1 	 building formal <XB>
+1 	 21 	 S[adj]\NP 	 1 	 building threatening <XU>
+1 	 26 	 S[adj]\NP 	 1 	 building grim <XU>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will which
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 handle will
+13 	 5 	 (S[b]\NP)/NP 	 2 	 cases handle
+13 	 6 	 N/N 	 1 	 cases child
+13 	 7 	 N/N 	 1 	 cases abuse
+13 	 9 	 N/N 	 1 	 cases custody
+13 	 11 	 N/N 	 1 	 cases foster
+13 	 12 	 N/N 	 1 	 cases care
+15 	 31 	 (S[dcl]\S[dcl])/NP 	 1 	 will says
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+18 	 16 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 formal be
+18 	 17 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 formal less
+18 	 27 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 formal than
+21 	 16 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 threatening be
+21 	 20 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 threatening less
+21 	 27 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 threatening than
+26 	 16 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 grim be
+26 	 23 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 grim just
+26 	 24 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 grim basically
+26 	 25 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 grim less
+26 	 27 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 grim than
+29 	 27 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 courthouses than
+29 	 28 	 N/N 	 1 	 courthouses most
+33 	 31 	 (S[dcl]\S[dcl])/NP 	 2 	 Edelman says
+33 	 32 	 N/N 	 1 	 Edelman Edmund
+35 	 31 	 (S[dcl]\S[dcl])/NP 	 2 	 chairman says
+35 	 36 	 (NP\NP)/NP 	 1 	 chairman of
+41 	 36 	 (NP\NP)/NP 	 2 	 Board of
+41 	 37 	 NP[nb]/N 	 1 	 Board the
+41 	 38 	 N/N 	 1 	 Board Los
+41 	 39 	 N/N 	 1 	 Board Angeles
+41 	 40 	 N/N 	 1 	 Board County
+41 	 42 	 (NP\NP)/NP 	 1 	 Board of
+43 	 42 	 (NP\NP)/NP 	 2 	 Supervisors of
+<\s>
+<s id="wsj_1470.31"> 12
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 Designs call
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 for call
+5 	 2 	 PP/NP 	 1 	 structure for
+5 	 3 	 NP[nb]/N 	 1 	 structure an
+5 	 4 	 N/N 	 1 	 structure L-shaped
+5 	 6 	 (NP\NP)/NP 	 1 	 structure with
+8 	 6 	 (NP\NP)/NP 	 2 	 playground with
+8 	 7 	 NP[nb]/N 	 1 	 playground a
+8 	 9 	 (NP\NP)/NP 	 1 	 playground in
+11 	 9 	 (NP\NP)/NP 	 2 	 center in
+11 	 10 	 NP[nb]/N 	 1 	 center the
+<\s>
+<s id="wsj_1470.32"> 7
+0 	 1 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 1 	 There will
+2 	 1 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 2 	 be will
+6 	 2 	 (S[b]\NP)/NP 	 2 	 rooms be
+6 	 3 	 N/N 	 1 	 rooms recreation
+6 	 5 	 N/N 	 1 	 rooms movie
+<\s>
+<s id="wsj_1470.33"> 10
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Teens will
+0 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Teens able <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+3 	 2 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 able be
+4 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 listen to
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 listen with
+6 	 5 	 (S[b]\NP)/PP 	 2 	 to listen
+7 	 6 	 PP/NP 	 1 	 music to
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 headsets with
+<\s>
+<s id="wsj_1470.34"> 11
+1 	 0 	 N/N 	 1 	 halls Study
+1 	 3 	 S[adj]\NP 	 1 	 halls complete <XB>
+1 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 halls will
+1 	 10 	 S[adj]\NP 	 1 	 halls available <XB>
+3 	 4 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 complete with
+6 	 4 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 materials with
+6 	 5 	 N/N 	 1 	 materials reference
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+10 	 9 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 available be
+<\s>
+<s id="wsj_1470.35"> 17
+1 	 2 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 1 	 there will
+2 	 0 	 S/S 	 1 	 will And
+3 	 2 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 2 	 be will
+5 	 4 	 NP[nb]/N 	 1 	 nurse a
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 nurse 's
+7 	 3 	 (S[b]\NP)/NP 	 2 	 station be
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 station 's
+9 	 3 	 (S[b]\NP)/NP 	 2 	 rooms be
+9 	 10 	 ((NP\NP)/(S[to]\NP))/NP 	 1 	 rooms for
+11 	 10 	 ((NP\NP)/(S[to]\NP))/NP 	 3 	 children for
+11 	 13 	 (S[b]\NP)/PP 	 1 	 children meet <XB>
+12 	 10 	 ((NP\NP)/(S[to]\NP))/NP 	 2 	 to for
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+14 	 13 	 (S[b]\NP)/PP 	 2 	 with meet
+16 	 14 	 PP/NP 	 1 	 workers with
+16 	 15 	 N/N 	 1 	 workers social
+<\s>
+<s id="wsj_1470.36"> 16
+1 	 0 	 NP[nb]/N 	 1 	 building The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 building 's
+4 	 2 	 (NP[nb]/N)\NP 	 1 	 courtrooms 's
+4 	 3 	 N/N 	 1 	 courtrooms 25
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 courtrooms will
+4 	 7 	 S[adj]\NP 	 1 	 courtrooms smaller <XB>
+5 	 9 	 (S[dcl]\S[dcl])/NP 	 1 	 will says
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+7 	 6 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 smaller be
+11 	 9 	 (S[dcl]\S[dcl])/NP 	 2 	 Saunders says
+11 	 10 	 N/N 	 1 	 Saunders Charlene
+15 	 9 	 (S[dcl]\S[dcl])/NP 	 2 	 administrator says
+15 	 13 	 NP[nb]/N 	 1 	 administrator a
+15 	 14 	 N/N 	 1 	 administrator court
+<\s>
+<s id="wsj_1470.37"> 24
+1 	 0 	 NP[nb]/N 	 1 	 bench The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bench will
+1 	 4 	 S[adj]\NP 	 1 	 bench lower <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+3 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 be so
+4 	 3 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 lower be
+7 	 6 	 NP[nb]/N 	 1 	 judge the
+7 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 judge seems
+7 	 10 	 S[adj]\NP 	 1 	 judge intimidating <XB>
+8 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 seems so
+10 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 intimidating seems
+10 	 9 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 intimidating less
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 walls will
+13 	 16 	 S[pss]\NP 	 1 	 walls painted <XB>
+13 	 21 	 (S[pss]\NP)/PP 	 1 	 walls covered <XU>
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+16 	 15 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 painted be
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 painted in
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 colors in
+19 	 18 	 N/N 	 1 	 colors bright
+21 	 15 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 covered be
+22 	 21 	 (S[pss]\NP)/PP 	 2 	 with covered
+23 	 22 	 PP/NP 	 1 	 murals with
+<\s>
+<s id="wsj_1470.38"> 16
+0 	 1 	 (NP\NP)/NP 	 1 	 Cases in
+0 	 5 	 (S[ng]\NP)/NP 	 1 	 Cases involving <XB>
+0 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Cases are
+0 	 10 	 S[pss]\NP 	 1 	 Cases heard <XB>
+4 	 1 	 (NP\NP)/NP 	 2 	 County in
+4 	 2 	 N/N 	 1 	 County Los
+4 	 3 	 N/N 	 1 	 County Angeles
+7 	 5 	 (S[ng]\NP)/NP 	 2 	 children involving
+7 	 6 	 N/N 	 1 	 children dependent
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 are usually
+10 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 heard are
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 heard in
+15 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Building in
+15 	 12 	 NP[nb]/N 	 1 	 Building the
+15 	 13 	 N/N 	 1 	 Building Criminal
+15 	 14 	 N/N 	 1 	 Building Courts
+<\s>
+<s id="wsj_1470.39"> 19
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 We need
+0 	 3 	 (((S[b]\NP)/PP)/PP)/NP 	 1 	 We get <XB>
+1 	 16 	 (S[dcl]\S[dcl])/NP 	 1 	 need says
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to need
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+5 	 3 	 (((S[b]\NP)/PP)/PP)/NP 	 4 	 kids get
+5 	 4 	 NP[nb]/N 	 1 	 kids the
+7 	 3 	 (((S[b]\NP)/PP)/PP)/NP 	 3 	 from get
+7 	 6 	 PP/PP 	 1 	 from away
+9 	 7 	 PP/NP 	 1 	 criminals from
+9 	 8 	 NP[nb]/N 	 1 	 criminals the
+10 	 3 	 (((S[b]\NP)/PP)/PP)/NP 	 2 	 into get
+14 	 10 	 PP/NP 	 1 	 environment into
+14 	 11 	 NP[nb]/N 	 1 	 environment a
+14 	 12 	 N/N 	 1 	 environment less
+14 	 13 	 N/N 	 1 	 environment traumatic
+18 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 Edelman says
+18 	 17 	 N/N 	 1 	 Edelman Mr.
+<\s>
+<s id="wsj_1470.40"> 27
+1 	 0 	 (N/N)/(N/N) 	 2 	 45,000 About
+2 	 1 	 N/N 	 1 	 children 45,000
+2 	 3 	 (NP\NP)/NP 	 1 	 children in
+2 	 7 	 (S[dcl]\NP)/PP 	 1 	 children are
+6 	 3 	 (NP\NP)/NP 	 2 	 County in
+6 	 4 	 N/N 	 1 	 County Los
+6 	 5 	 N/N 	 1 	 County Angeles
+7 	 14 	 (S[dcl]\NP)/S[dcl] 	 2 	 are says <XU>
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 under are
+10 	 8 	 PP/NP 	 1 	 supervision under
+10 	 9 	 N/N 	 1 	 supervision court
+13 	 12 	 N/N 	 1 	 Edelman Mr.
+13 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 Edelman says
+18 	 17 	 NP[nb]/N 	 1 	 average an
+18 	 19 	 (NP\NP)/NP 	 1 	 average of
+18 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 average are
+18 	 24 	 S[pss]\NP 	 1 	 average added <XB>
+22 	 19 	 (NP\NP)/NP 	 2 	 children of
+22 	 20 	 N/N 	 1 	 children 1,500
+22 	 21 	 N/N 	 1 	 children new
+24 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 added are
+24 	 25 	 ((S\NP)\(S\NP))/N 	 2 	 added each
+26 	 25 	 ((S\NP)\(S\NP))/N 	 3 	 month each
+<\s>
+<s id="wsj_1470.41"> 19
+1 	 0 	 NP[nb]/N 	 1 	 courthouse The
+1 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 courthouse is
+1 	 11 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 courthouse expected <XB>
+1 	 13 	 S[b]\NP 	 1 	 courthouse open <XB>
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+5 	 4 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 built be
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 built in
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Park in
+8 	 7 	 N/N 	 1 	 Park Monterey
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+12 	 11 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 open to
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 open in
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 spring in
+16 	 15 	 NP[nb]/N 	 1 	 spring the
+16 	 17 	 (NP\NP)/NP 	 1 	 spring of
+18 	 17 	 (NP\NP)/NP 	 2 	 1992 of
+<\s>
+<s id="wsj_1470.42"> 6
+2 	 0 	 N/N 	 1 	 Management Law
+2 	 1 	 N/N 	 1 	 Management Firm
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Management Can
+2 	 4 	 (S[b]\NP)/NP 	 1 	 Management Be <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 Be Can
+6 	 4 	 (S[b]\NP)/NP 	 2 	 Rewarding Be
+6 	 5 	 N/N 	 1 	 Rewarding Quite
+<\s>
+<s id="wsj_1470.43"> 13
+0 	 1 	 (S[dcl]\NP[expl])/(S[to]\NP) 	 1 	 IT PAYS
+2 	 1 	 (S[dcl]\NP[expl])/(S[to]\NP) 	 2 	 to PAYS
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 follow to
+3 	 8 	 ((S\NP)\(S\NP))/PP 	 2 	 follow --
+7 	 3 	 (S[b]\NP)/NP 	 2 	 path follow
+7 	 4 	 NP[nb]/N 	 1 	 path a
+7 	 5 	 N/N 	 1 	 path management
+7 	 6 	 N/N 	 1 	 path career
+10 	 8 	 ((S\NP)\(S\NP))/PP 	 3 	 at --
+10 	 9 	 PP/PP 	 1 	 at even
+12 	 10 	 PP/NP 	 1 	 firms at
+12 	 11 	 N/N 	 1 	 firms law
+<\s>
+<s id="wsj_1470.44"> 27
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That 's
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 conclusion 's
+3 	 2 	 NP[nb]/N 	 1 	 conclusion the
+3 	 4 	 (NP\NP)/NP 	 1 	 conclusion of
+7 	 4 	 (NP\NP)/NP 	 2 	 study of
+7 	 5 	 NP[nb]/N 	 1 	 study a
+7 	 6 	 N/N 	 1 	 study recent
+7 	 8 	 (NP\NP)/NP 	 1 	 study of
+7 	 12 	 S[pss]\NP 	 1 	 study conducted <XB>
+11 	 8 	 (NP\NP)/NP 	 2 	 firms of
+11 	 9 	 N/N 	 1 	 firms large
+11 	 10 	 N/N 	 1 	 firms law
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 conducted by
+17 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Inc. by
+17 	 14 	 N/N 	 1 	 Inc. Altman
+17 	 15 	 N/N 	 1 	 Inc. &
+17 	 16 	 N/N 	 1 	 Inc. Weil
+17 	 19 	 (NP\NP)/N 	 1 	 Inc. an
+22 	 20 	 (N/N)/(N/N) 	 2 	 Pa. Ardmore
+26 	 19 	 (NP\NP)/N 	 2 	 consultant an
+26 	 22 	 N/N 	 1 	 consultant Pa.
+26 	 24 	 N/N 	 1 	 consultant law
+26 	 25 	 N/N 	 1 	 consultant firm
+<\s>
+<s id="wsj_1470.45"> 35
+1 	 0 	 NP[nb]/N 	 1 	 survey Its
+1 	 2 	 (NP\NP)/NP 	 1 	 survey of
+1 	 13 	 (S[dcl]\NP)/S[em] 	 1 	 survey shows
+4 	 2 	 (NP\NP)/NP 	 2 	 firms of
+4 	 3 	 N/N 	 1 	 firms 96
+6 	 2 	 (NP\NP)/NP 	 2 	 each of
+6 	 7 	 (NP\NP)/NP 	 1 	 each with
+8 	 9 	 ((N/N)\(N/N))/(N/N) 	 2 	 100 to
+10 	 9 	 ((N/N)\(N/N))/(N/N) 	 3 	 1,000 to
+11 	 7 	 (NP\NP)/NP 	 2 	 lawyers with
+11 	 8 	 N/N 	 1 	 lawyers 100
+14 	 13 	 (S[dcl]\NP)/S[em] 	 2 	 that shows
+16 	 15 	 N/N 	 1 	 partners managing
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 partners earned
+17 	 14 	 S[em]/S[dcl] 	 1 	 earned that
+17 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 earned in
+19 	 17 	 (S[dcl]\NP)/NP 	 2 	 average earned
+19 	 18 	 NP[nb]/N 	 1 	 average an
+19 	 20 	 (NP\NP)/NP 	 1 	 average of
+21 	 20 	 (NP\NP)/NP 	 2 	 $ of
+21 	 23 	 (NP\NP)/NP 	 1 	 $ in
+22 	 21 	 N/N[num] 	 1 	 395,974 $
+27 	 23 	 (NP\NP)/NP 	 2 	 benefits in
+27 	 24 	 N/N 	 1 	 benefits compensation
+27 	 26 	 N/N 	 1 	 benefits cash
+30 	 29 	 NP[nb]/N 	 1 	 firms the
+30 	 31 	 (NP[nb]/N)\NP 	 2 	 firms '
+34 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 years in
+34 	 31 	 (NP[nb]/N)\NP 	 1 	 years '
+34 	 32 	 N/N 	 1 	 years 1988
+34 	 33 	 N/N 	 1 	 years fiscal
+<\s>
+<s id="wsj_1470.47"> 20
+0 	 1 	 (NP\NP)/NP 	 1 	 Partners in
+0 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Partners who
+0 	 5 	 (S[dcl]\NP)/NP 	 1 	 Partners devote <XB>
+0 	 11 	 (S[ng]\NP)/NP 	 1 	 Partners practicing <XB>
+0 	 13 	 (S[dcl]\NP)/NP 	 1 	 Partners earned
+3 	 1 	 (NP\NP)/NP 	 2 	 survey in
+3 	 2 	 NP[nb]/N 	 1 	 survey the
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 devote who
+5 	 10 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 devote to
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 most devote
+6 	 7 	 (NP\NP)/NP 	 1 	 most of
+9 	 7 	 (NP\NP)/NP 	 2 	 time of
+9 	 8 	 NP[nb]/N 	 1 	 time their
+11 	 10 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 practicing to
+12 	 11 	 (S[ng]\NP)/NP 	 2 	 law practicing
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 average earned
+15 	 14 	 NP[nb]/N 	 1 	 average an
+15 	 16 	 (NP\NP)/NP 	 1 	 average of
+18 	 16 	 (NP\NP)/NP 	 2 	 $ of
+18 	 17 	 N/N 	 1 	 $ about
+19 	 18 	 N/N[num] 	 1 	 217,000 $
+<\s>

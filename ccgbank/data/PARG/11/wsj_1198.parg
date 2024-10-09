@@ -1,0 +1,111 @@
+<s id="wsj_1198.1"> 31
+1 	 0 	 NP[nb]/N 	 1 	 Treasury The
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Treasury plans
+1 	 4 	 (S[b]\NP)/NP 	 1 	 Treasury raise <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 raise to
+4 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 raise with
+5 	 4 	 (S[b]\NP)/NP 	 2 	 $ raise
+5 	 8 	 (NP\NP)/NP 	 1 	 $ in
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 1.8
+10 	 8 	 (NP\NP)/NP 	 2 	 cash in
+10 	 9 	 N/N 	 1 	 cash new
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 sale with
+13 	 12 	 NP[nb]/N 	 1 	 sale the
+13 	 14 	 NP\NP 	 1 	 sale Monday
+14 	 15 	 ((NP\NP)\(NP\NP))/NP 	 2 	 Monday of
+17 	 15 	 ((NP\NP)\(NP\NP))/NP 	 3 	 $ of
+17 	 16 	 N/N 	 1 	 $ about
+17 	 20 	 (NP\NP)/NP 	 1 	 $ in
+19 	 17 	 N/N[num] 	 1 	 billion $
+19 	 18 	 N/N 	 1 	 billion 15.6
+22 	 20 	 (NP\NP)/NP 	 2 	 bills in
+22 	 21 	 N/N 	 1 	 bills short-term
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 redeem to
+25 	 24 	 (S[b]\NP)/NP 	 2 	 $ redeem
+25 	 28 	 (NP\NP)/NP 	 1 	 $ in
+27 	 25 	 N/N[num] 	 1 	 billion $
+27 	 26 	 N/N 	 1 	 billion 13.81
+30 	 28 	 (NP\NP)/NP 	 2 	 bills in
+30 	 29 	 N/N 	 1 	 bills maturing
+<\s>
+<s id="wsj_1198.2"> 24
+1 	 0 	 NP[nb]/N 	 1 	 offering The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 offering will
+1 	 4 	 (S[pss]\NP)/PP 	 1 	 offering divided <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 divided be
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 divided evenly
+6 	 4 	 (S[pss]\NP)/PP 	 2 	 between divided
+10 	 6 	 PP/NP 	 1 	 bills between
+10 	 7 	 N/N 	 1 	 bills 13-week <XU>
+10 	 9 	 N/N 	 1 	 bills 26-week
+10 	 11 	 S[ng]\NP 	 1 	 bills maturing <XB>
+11 	 12 	 ((S\NP)\(S\NP))/N[num] 	 2 	 maturing Feb.
+11 	 18 	 ((S\NP)\(S\NP))/N[num] 	 2 	 maturing May <XU>
+12 	 15 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 Feb. 1990
+12 	 23 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 Feb. respectively
+13 	 12 	 ((S\NP)\(S\NP))/N[num] 	 3 	 1 Feb.
+18 	 21 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 May 1990
+18 	 23 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 May respectively
+19 	 18 	 ((S\NP)\(S\NP))/N[num] 	 3 	 3 May
+<\s>
+<s id="wsj_1198.3"> 30
+0 	 1 	 (NP\NP)/NP 	 1 	 Tenders for
+0 	 5 	 S[adj]\NP 	 1 	 Tenders available <XB>
+0 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Tenders must
+0 	 14 	 S[pss]\NP 	 1 	 Tenders received <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 bills for
+3 	 2 	 NP[nb]/N 	 1 	 bills the
+5 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 available in
+9 	 8 	 (N/N)/N[num] 	 2 	 10,000 $
+10 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 denominations in
+10 	 7 	 N/N 	 1 	 denominations minimum
+10 	 8 	 (N/N)/N[num] 	 1 	 denominations $
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be must
+14 	 13 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 received be
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 received by
+14 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 received at
+14 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 received at <XU>
+19 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 Monday by
+19 	 16 	 N/N 	 1 	 Monday 1
+19 	 17 	 N/N 	 1 	 Monday p.m.
+19 	 18 	 N/N 	 1 	 Monday EST
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 Treasury at
+22 	 21 	 NP[nb]/N 	 1 	 Treasury the
+27 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 banks at
+27 	 25 	 N/N 	 1 	 banks Federal
+27 	 26 	 N/N 	 1 	 banks Reserve
+29 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 branches at
+29 	 25 	 N/N 	 1 	 branches Federal
+29 	 26 	 N/N 	 1 	 branches Reserve
+<\s>
+<s id="wsj_1198.4"> 27
+1 	 0 	 NP[nb]/N 	 1 	 Treasury The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Treasury said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+3 	 5 	 (S[b]\NP)/NP 	 1 	 it alter <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 alter will
+5 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 alter unless
+7 	 5 	 (S[b]\NP)/NP 	 2 	 auctions alter
+7 	 6 	 NP[nb]/N 	 1 	 auctions the
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 it has
+10 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has unless
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 assurance has
+11 	 12 	 (NP\NP)/NP 	 1 	 assurance of
+13 	 12 	 (NP\NP)/NP 	 2 	 enactment of
+13 	 14 	 (NP\NP)/NP 	 1 	 enactment of
+15 	 14 	 (NP\NP)/NP 	 2 	 legislation of
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 raise to
+17 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 raise before
+21 	 17 	 (S[b]\NP)/NP 	 2 	 limit raise
+21 	 18 	 NP[nb]/N 	 1 	 limit the
+21 	 19 	 N/N 	 1 	 limit statutory
+21 	 20 	 N/N 	 1 	 limit debt
+26 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 Monday before
+26 	 23 	 NP[nb]/N 	 1 	 Monday the
+26 	 24 	 N/N 	 1 	 Monday scheduled
+26 	 25 	 N/N 	 1 	 Monday auctions
+<\s>

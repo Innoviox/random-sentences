@@ -1,0 +1,780 @@
+<s id="wsj_0804.1"> 17
+2 	 0 	 NP[nb]/N 	 1 	 turtle An
+2 	 1 	 N/N 	 1 	 turtle enormous
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 turtle has
+2 	 4 	 S[pt]\NP 	 1 	 turtle succeeded <XB>
+3 	 10 	 (S\S)/S[dcl] 	 1 	 has :
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 succeeded has
+4 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 succeeded where
+7 	 6 	 NP[nb]/N 	 1 	 government the
+7 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 government has
+7 	 9 	 S[pt]\NP 	 1 	 government failed <XB>
+8 	 5 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has where
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 failed has
+11 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 He has
+11 	 13 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 1 	 He made <XB>
+12 	 10 	 (S\S)/S[dcl] 	 2 	 has :
+13 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 made has
+14 	 13 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 3 	 speaking made
+14 	 16 	 S[adj]\NP 	 1 	 speaking respectable <XB>
+15 	 14 	 (S[ng]\NP)/NP 	 2 	 Filipino speaking
+16 	 13 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 2 	 respectable made
+<\s>
+<s id="wsj_0804.2"> 20
+2 	 1 	 (N/N)/(N/N) 	 2 	 1\/2-foot-tall 6
+3 	 0 	 NP[nb]/N 	 1 	 turtle The
+3 	 2 	 N/N 	 1 	 turtle 1\/2-foot-tall
+3 	 8 	 (S[dcl]\NP)/NP 	 1 	 turtle is
+6 	 5 	 N/N 	 1 	 Pagong Pong
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 Pagong is
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 character is
+10 	 9 	 NP[nb]/N 	 1 	 character a
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 character who
+10 	 12 	 S[dcl]\NP 	 1 	 character stars <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 stars who
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 stars in
+15 	 14 	 NP[nb]/N 	 1 	 children the
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 children 's
+19 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Batibot in
+19 	 16 	 (NP[nb]/N)\NP 	 1 	 Batibot 's
+19 	 17 	 N/N 	 1 	 Batibot television
+19 	 18 	 N/N 	 1 	 Batibot show
+<\s>
+<s id="wsj_0804.3"> 5
+0 	 1 	 S[dcl]\NP 	 1 	 He speaks
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 speaks only
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 speaks in
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Filipino in
+<\s>
+<s id="wsj_0804.4"> 23
+0 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Batibot which
+0 	 3 	 S[dcl]\NP 	 1 	 Batibot started <XB>
+0 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Batibot has
+0 	 17 	 (S[pt]\NP)/PP 	 1 	 Batibot developed <XB>
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 started which
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 started in
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 started as
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 1983 in
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 hybrid as
+8 	 7 	 NP[nb]/N 	 1 	 hybrid a
+8 	 9 	 (NP\NP)/NP 	 1 	 hybrid of
+14 	 9 	 (NP\NP)/NP 	 2 	 Street of
+14 	 10 	 NP[nb]/N 	 1 	 Street the
+14 	 11 	 N/N 	 1 	 Street U.S.
+14 	 12 	 N/N 	 1 	 Street program
+14 	 13 	 N/N 	 1 	 Street Sesame
+17 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 developed has
+18 	 17 	 (S[pt]\NP)/PP 	 2 	 into developed
+21 	 20 	 (N/N)/(N/N) 	 2 	 Philippine distinctly
+22 	 18 	 PP/NP 	 1 	 effort into
+22 	 19 	 NP[nb]/N 	 1 	 effort a
+22 	 21 	 N/N 	 1 	 effort Philippine
+<\s>
+<s id="wsj_0804.5"> 10
+1 	 0 	 N/N 	 1 	 programs Radio
+1 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 programs have
+1 	 5 	 (S[pt]\NP)/NP 	 1 	 programs followed <XB>
+3 	 0 	 N/N 	 1 	 books Radio
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 books have
+3 	 5 	 (S[pt]\NP)/NP 	 1 	 books followed <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 followed have
+9 	 5 	 (S[pt]\NP)/NP 	 2 	 show followed
+9 	 6 	 NP[nb]/N 	 1 	 show the
+9 	 7 	 N/N 	 1 	 show daily
+9 	 8 	 N/N 	 1 	 show television
+<\s>
+<s id="wsj_0804.6"> 27
+2 	 0 	 (S/S)/NP 	 2 	 process In
+2 	 1 	 NP[nb]/N 	 1 	 process the
+4 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Batibot has
+4 	 16 	 (S[pt]\NP)/NP 	 1 	 Batibot become <XB>
+9 	 6 	 NP[nb]/N 	 1 	 word an
+9 	 7 	 N/N 	 1 	 word archaic
+9 	 8 	 N/N 	 1 	 word Filipino
+9 	 10 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 word meaning <XB>
+9 	 11 	 S[adj]\NP 	 1 	 word strong <XB>
+9 	 13 	 S[adj]\NP 	 1 	 word enduring <XU>
+9 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 word has
+9 	 16 	 (S[pt]\NP)/NP 	 1 	 word become <XB>
+11 	 10 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 strong meaning
+13 	 10 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 enduring meaning
+15 	 0 	 (S/S)/NP 	 1 	 has In
+16 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 become has
+19 	 16 	 (S[pt]\NP)/NP 	 2 	 advocate become
+19 	 17 	 NP[nb]/N 	 1 	 advocate a
+19 	 18 	 N/N 	 1 	 advocate powerful
+19 	 20 	 (NP\NP)/NP 	 1 	 advocate of
+22 	 20 	 (NP\NP)/NP 	 2 	 use of
+22 	 21 	 NP[nb]/N 	 1 	 use the
+22 	 23 	 (NP\NP)/NP 	 1 	 use of
+26 	 23 	 (NP\NP)/NP 	 2 	 language of
+26 	 24 	 NP[nb]/N 	 1 	 language the
+26 	 25 	 N/N 	 1 	 language Filipino
+<\s>
+<s id="wsj_0804.7"> 35
+0 	 1 	 ((S[dcl]\NP)/S[em])/PP 	 1 	 It impresses
+1 	 21 	 (S[dcl]\S[dcl])/NP 	 1 	 impresses says
+2 	 1 	 ((S[dcl]\NP)/S[em])/PP 	 3 	 on impresses
+6 	 2 	 PP/NP 	 1 	 Filipinos on
+6 	 3 	 N/N 	 1 	 Filipinos ordinary
+6 	 5 	 N/N 	 1 	 Filipinos young
+7 	 1 	 ((S[dcl]\NP)/S[em])/PP 	 2 	 that impresses
+8 	 9 	 (S[dcl]\NP[thr])/NP 	 1 	 there 's
+8 	 16 	 (S[ng]\NP)/NP 	 1 	 there using <XB>
+9 	 7 	 S[em]/S[dcl] 	 1 	 's that
+9 	 15 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 's in
+10 	 9 	 (S[dcl]\NP[thr])/NP 	 2 	 nothing 's
+10 	 14 	 PP/NP 	 1 	 nothing about <XU>
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 feel to
+13 	 12 	 ((S[b]\NP)/PP)/(S[adj]\NP) 	 3 	 inferior feel
+14 	 12 	 ((S[b]\NP)/PP)/(S[adj]\NP) 	 2 	 about feel
+16 	 15 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 using in
+19 	 16 	 (S[ng]\NP)/NP 	 2 	 language using
+19 	 17 	 NP[nb]/N 	 1 	 language their
+19 	 18 	 N/N 	 1 	 language own
+23 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 David says
+23 	 22 	 N/N 	 1 	 David Randy
+26 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 sociologist says
+26 	 25 	 NP[nb]/N 	 1 	 sociologist a
+28 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 host says
+28 	 25 	 NP[nb]/N 	 1 	 host a
+28 	 29 	 (N\N)/NP 	 1 	 host of
+34 	 29 	 (N\N)/NP 	 2 	 show of
+34 	 30 	 NP[nb]/N 	 1 	 show a
+34 	 31 	 N/N 	 1 	 show popular
+34 	 32 	 N/N 	 1 	 show television
+34 	 33 	 N/N 	 1 	 show talk
+<\s>
+<s id="wsj_0804.8"> 30
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 we started
+2 	 0 	 (S/S)/S[dcl] 	 2 	 started When
+2 	 7 	 ((S\NP)\(S\NP))\NP 	 2 	 started ago
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 program started
+4 	 3 	 NP[nb]/N 	 1 	 program the
+6 	 5 	 N/N 	 1 	 years six
+6 	 7 	 ((S\NP)\(S\NP))\NP 	 3 	 years ago
+10 	 9 	 NP[nb]/N 	 1 	 use the
+10 	 11 	 (NP\NP)/NP 	 1 	 use of
+10 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 use was
+10 	 14 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 use deemed <XB>
+10 	 15 	 S[adj]\NP 	 1 	 use unwise <XB>
+12 	 11 	 (NP\NP)/NP 	 2 	 Filipino of
+13 	 0 	 (S/S)/S[dcl] 	 1 	 was When
+13 	 22 	 (S[dcl]\S[dcl])/NP 	 1 	 was says
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 deemed was
+14 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 deemed by
+15 	 14 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 unwise deemed
+19 	 18 	 (N/N)/(N/N) 	 2 	 middle predominantly
+20 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 class by
+20 	 17 	 NP[nb]/N 	 1 	 class the
+20 	 19 	 N/N 	 1 	 class middle
+24 	 22 	 (S[dcl]\S[dcl])/NP 	 2 	 Brown says
+24 	 23 	 N/N 	 1 	 Brown Lydia
+27 	 26 	 NP[nb]/N 	 1 	 program the
+27 	 28 	 (NP[nb]/N)\NP 	 2 	 program 's
+29 	 22 	 (S[dcl]\S[dcl])/NP 	 2 	 creator says
+29 	 28 	 (NP[nb]/N)\NP 	 1 	 creator 's
+<\s>
+<s id="wsj_0804.9"> 11
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 she says
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 it 's
+6 	 0 	 S/S 	 1 	 's Now
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 's says <XU>
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 's longer
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 longer no
+10 	 6 	 (S[dcl]\NP)/NP 	 2 	 issue 's
+10 	 9 	 NP[nb]/N 	 1 	 issue an
+<\s>
+<s id="wsj_0804.10"> 21
+1 	 0 	 NP[nb]/N 	 1 	 success The
+1 	 2 	 (NP\NP)/NP 	 1 	 success of
+1 	 4 	 S[dcl]\NP 	 1 	 success stands
+3 	 2 	 (NP\NP)/NP 	 2 	 Batibot of
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 stands in
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 contrast in
+7 	 6 	 N/N 	 1 	 contrast marked
+7 	 8 	 (NP\NP)/NP 	 1 	 contrast to
+13 	 8 	 (NP\NP)/NP 	 2 	 attempts to
+13 	 9 	 N/N 	 1 	 attempts many
+13 	 10 	 N/N 	 1 	 attempts academic <XU>
+13 	 12 	 N/N 	 1 	 attempts government
+13 	 15 	 ((S[b]\NP)/PP)/NP 	 1 	 attempts promote <XB>
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 promote to
+16 	 15 	 ((S[b]\NP)/PP)/NP 	 3 	 Filipino promote
+17 	 15 	 ((S[b]\NP)/PP)/NP 	 2 	 as promote
+20 	 17 	 PP/NP 	 1 	 language as
+20 	 18 	 NP[nb]/N 	 1 	 language a
+20 	 19 	 N/N 	 1 	 language national
+<\s>
+<s id="wsj_0804.11"> 26
+0 	 1 	 (NP\NP)/(S[pss]\NP) 	 1 	 Filipino --
+0 	 3 	 (S[pss]\NP)/PP 	 1 	 Filipino known <XB>
+0 	 7 	 (S[dcl]\NP)/NP 	 1 	 Filipino is
+3 	 1 	 (NP\NP)/(S[pss]\NP) 	 2 	 known --
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 known once
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 as known
+5 	 4 	 PP/NP 	 1 	 Pilipino as
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 is predominantly
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 Tagalog is
+13 	 7 	 (S[dcl]\NP)/NP 	 2 	 language is
+13 	 11 	 NP[nb]/N 	 1 	 language the
+13 	 12 	 N/N 	 1 	 language Malay-based
+13 	 14 	 S[pss]\NP 	 1 	 language spoken <XB>
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 spoken in
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 part in
+17 	 16 	 NP[nb]/N 	 1 	 part a
+17 	 18 	 (NP\NP)/NP 	 1 	 part of
+20 	 19 	 NP[nb]/N 	 1 	 country the
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 country 's
+23 	 18 	 (NP\NP)/NP 	 2 	 island of
+23 	 21 	 (NP[nb]/N)\NP 	 1 	 island 's
+23 	 22 	 N/N 	 1 	 island principal
+23 	 24 	 (NP\NP)/NP 	 1 	 island of
+25 	 24 	 (NP\NP)/NP 	 2 	 Luzon of
+<\s>
+<s id="wsj_0804.12"> 19
+0 	 1 	 (NP\NP)/NP 	 1 	 Resistance to
+0 	 5 	 S[dcl]\NP 	 1 	 Resistance comes
+4 	 1 	 (NP\NP)/NP 	 2 	 language to
+4 	 2 	 NP[nb]/N 	 1 	 language a
+4 	 3 	 N/N 	 1 	 language national
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 comes primarily
+5 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 comes from
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 members from
+8 	 9 	 (NP\NP)/NP 	 1 	 members of
+8 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 members who
+8 	 17 	 (S[dcl]\NP)/NP 	 1 	 members prefer <XB>
+11 	 10 	 NP[nb]/N 	 1 	 country the
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 country 's
+13 	 9 	 (NP\NP)/NP 	 2 	 elite of
+13 	 12 	 (NP[nb]/N)\NP 	 1 	 elite 's
+17 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 prefer who
+17 	 16 	 (S\NP)/(S\NP) 	 2 	 prefer generally
+18 	 17 	 (S[dcl]\NP)/NP 	 2 	 English prefer
+<\s>
+<s id="wsj_0804.13"> 38
+3 	 2 	 N/N 	 1 	 Filipinos better-off
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Filipinos are
+3 	 5 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Filipinos quick <XB>
+4 	 1 	 (S/S)/S[dcl] 	 2 	 are while
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 quick are
+6 	 5 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to quick
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cite to
+9 	 7 	 (S[b]\NP)/NP 	 2 	 logic cite
+9 	 8 	 NP[nb]/N 	 1 	 logic the
+9 	 10 	 (NP\NP)/(S[ng]\NP) 	 1 	 logic in
+11 	 10 	 (NP\NP)/(S[ng]\NP) 	 2 	 using in
+13 	 11 	 (S[ng]\NP)/NP 	 2 	 language using
+13 	 12 	 NP[nb]/N 	 1 	 language a
+13 	 15 	 S[adj]\NP 	 1 	 language widespread <XB>
+15 	 14 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 widespread as
+15 	 16 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 widespread as
+17 	 16 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 English as
+19 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they are
+19 	 22 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 they slow <XB>
+20 	 0 	 S/S 	 1 	 are But
+20 	 1 	 (S/S)/S[dcl] 	 1 	 are while
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 are often
+20 	 32 	 (S[dcl]\S[dcl])/NP 	 1 	 are say
+22 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 slow are
+23 	 22 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to slow
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reveal to
+25 	 24 	 (S[b]\NP)/S[em] 	 2 	 that reveal
+26 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they are
+26 	 28 	 (S[adj]\NP)/PP 	 1 	 they prejudiced <XB>
+27 	 25 	 S[em]/S[dcl] 	 1 	 are that
+28 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 prejudiced are
+29 	 28 	 (S[adj]\NP)/PP 	 2 	 against prejudiced
+30 	 29 	 PP/NP 	 1 	 Filipino against
+33 	 32 	 (S[dcl]\S[dcl])/NP 	 2 	 advocates say
+33 	 34 	 (NP\NP)/NP 	 1 	 advocates of
+37 	 34 	 (NP\NP)/NP 	 2 	 language of
+37 	 35 	 NP[nb]/N 	 1 	 language the
+37 	 36 	 N/N 	 1 	 language native
+<\s>
+<s id="wsj_0804.14"> 27
+5 	 0 	 (S/S)/NP 	 2 	 class For
+5 	 1 	 NP[nb]/N 	 1 	 class the
+5 	 2 	 N/N 	 1 	 class middle
+5 	 4 	 N/N 	 1 	 class upper-middle
+7 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Filipino is
+7 	 10 	 S[adj]\NP 	 1 	 Filipino declasse <XB>
+9 	 0 	 (S/S)/NP 	 1 	 is For
+9 	 12 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 declasse is
+14 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 Lumbera says
+14 	 13 	 N/N 	 1 	 Lumbera Bien
+18 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 professor says
+18 	 16 	 NP[nb]/N 	 1 	 professor a
+18 	 17 	 N/N 	 1 	 professor Philippine-studies
+18 	 19 	 (NP\NP)/NP 	 1 	 professor at
+21 	 20 	 N/N 	 1 	 City Quezon
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 City 's
+23 	 19 	 (NP\NP)/NP 	 2 	 University at
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 University 's
+23 	 24 	 (NP\NP)/NP 	 1 	 University of
+26 	 24 	 (NP\NP)/NP 	 2 	 Philippines of
+26 	 25 	 NP[nb]/N 	 1 	 Philippines the
+<\s>
+<s id="wsj_0804.15"> 4
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There 's
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 's also
+3 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 resentment 's
+<\s>
+<s id="wsj_0804.16"> 8
+1 	 0 	 N/N 	 1 	 opponents Other
+1 	 2 	 (NP\NP)/NP 	 1 	 opponents of
+1 	 4 	 S[dcl]\NP 	 1 	 opponents come
+3 	 2 	 (NP\NP)/NP 	 2 	 Filipino of
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 come from
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 regions from
+7 	 6 	 N/N 	 1 	 regions non-Tagalog
+<\s>
+<s id="wsj_0804.17"> 30
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 They argue
+1 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 argue although
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that argue
+5 	 3 	 NP[nb]/N 	 1 	 languages their
+5 	 4 	 N/N 	 1 	 languages own
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 languages should
+5 	 7 	 (S[b]\NP)/NP 	 1 	 languages have <XB>
+6 	 2 	 S[em]/S[dcl] 	 1 	 should that
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have should
+9 	 7 	 (S[b]\NP)/NP 	 2 	 weight have
+9 	 8 	 N/N 	 1 	 weight equal
+13 	 12 	 N/N 	 1 	 surveys recent
+13 	 14 	 (S[dcl]\NP)/S[em] 	 1 	 surveys indicate
+14 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 indicate although
+15 	 14 	 (S[dcl]\NP)/S[em] 	 2 	 that indicate
+17 	 16 	 NP[nb]/N 	 1 	 majority the
+17 	 18 	 (NP\NP)/NP 	 1 	 majority of
+17 	 23 	 (S[dcl]\NP)/NP 	 1 	 majority understands
+20 	 19 	 NP[nb]/N 	 1 	 country the
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 country 's
+22 	 18 	 (NP\NP)/NP 	 2 	 population of
+22 	 21 	 (NP[nb]/N)\NP 	 1 	 population 's
+23 	 15 	 S[em]/S[dcl] 	 1 	 understands that
+23 	 25 	 (S\NP)\(S\NP) 	 2 	 understands more
+24 	 23 	 (S[dcl]\NP)/NP 	 2 	 Filipino understands
+25 	 26 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 more than
+29 	 26 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 language than
+29 	 27 	 NP[nb]/N 	 1 	 language any
+29 	 28 	 N/N 	 1 	 language other
+<\s>
+<s id="wsj_0804.18"> 15
+1 	 2 	 (S[dcl]\NP[thr])/NP 	 1 	 There are
+2 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 are in
+5 	 2 	 (S[dcl]\NP[thr])/NP 	 2 	 languages are
+5 	 3 	 N/N 	 1 	 languages seven
+5 	 4 	 N/N 	 1 	 languages major
+7 	 8 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+9 	 8 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 70 than
+10 	 2 	 (S[dcl]\NP[thr])/NP 	 2 	 dialects are
+10 	 9 	 N/N 	 1 	 dialects 70
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 country in
+13 	 12 	 NP[nb]/N 	 1 	 country the
+<\s>
+<s id="wsj_0804.19"> 12
+0 	 4 	 (S[dcl]\NP)/NP 	 1 	 What is
+1 	 0 	 (NP/((S[to]\NP)/NP))/N 	 2 	 tongue What
+2 	 0 	 (NP/((S[to]\NP)/NP))/N 	 1 	 to What
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 speak to
+4 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 is in
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 field is
+8 	 5 	 NP[nb]/N 	 1 	 field an
+8 	 6 	 N/N 	 1 	 field emotional
+8 	 7 	 N/N 	 1 	 field mine
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Philippines in
+11 	 10 	 NP[nb]/N 	 1 	 Philippines the
+<\s>
+<s id="wsj_0804.20"> 30
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 It is
+0 	 2 	 S[pss]\NP 	 1 	 It entrenched <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 entrenched is
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 entrenched in
+2 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 entrenched in <XU>
+2 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 entrenched in <XU>
+2 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 entrenched in <XU>
+5 	 4 	 NP[nb]/N 	 1 	 country the
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 country 's
+8 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 bonds in
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 bonds 's
+8 	 7 	 N/N 	 1 	 bonds colonial
+8 	 9 	 (NP\NP)/NP 	 1 	 bonds to
+11 	 9 	 (NP\NP)/NP 	 2 	 U.S. to
+11 	 10 	 NP[nb]/N 	 1 	 U.S. the
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 structure in
+16 	 14 	 N/N 	 1 	 structure Philippine
+16 	 15 	 N/N 	 1 	 structure class
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 loyalties in
+21 	 19 	 NP[nb]/N 	 1 	 loyalties the
+21 	 20 	 N/N 	 1 	 loyalties regional
+21 	 22 	 (NP\NP)/NP 	 1 	 loyalties of
+24 	 22 	 (NP\NP)/NP 	 2 	 people of
+24 	 23 	 NP[nb]/N 	 1 	 people its
+29 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 geography in
+29 	 27 	 NP[nb]/N 	 1 	 geography its
+29 	 28 	 N/N 	 1 	 geography island
+<\s>
+<s id="wsj_0804.21"> 33
+1 	 2 	 S[dcl]\NP 	 1 	 they did
+2 	 0 	 (S/S)/S[dcl] 	 2 	 did As
+2 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 did when
+5 	 4 	 NP[nb]/N 	 1 	 Philippines the
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Philippines was
+6 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was when
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 colony was
+8 	 7 	 NP[nb]/N 	 1 	 colony a
+8 	 9 	 (NP\NP)/NP 	 1 	 colony of
+11 	 9 	 (NP\NP)/NP 	 2 	 U.S. of
+11 	 10 	 NP[nb]/N 	 1 	 U.S. the
+13 	 18 	 S[dcl]\NP 	 1 	 teachers teach
+17 	 14 	 ((S\NP)/(S\NP))/NP 	 3 	 part for
+17 	 15 	 NP[nb]/N 	 1 	 part the
+17 	 16 	 N/N 	 1 	 part most
+18 	 0 	 (S/S)/S[dcl] 	 1 	 teach As
+18 	 14 	 ((S\NP)/(S\NP))/NP 	 2 	 teach for
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 teach in
+18 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 teach though
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 English in
+23 	 22 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 though even
+24 	 25 	 (S[dcl]\NP)/NP 	 1 	 it is
+25 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is though
+25 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 is for
+28 	 25 	 (S[dcl]\NP)/NP 	 2 	 language is
+28 	 26 	 NP[nb]/N 	 1 	 language a
+28 	 27 	 N/N 	 1 	 language foreign
+32 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 children for
+32 	 30 	 N/N 	 1 	 children most
+32 	 31 	 N/N 	 1 	 children Philippine
+<\s>
+<s id="wsj_0804.22"> 15
+2 	 0 	 (S/S)/NP 	 2 	 result As
+2 	 1 	 NP[nb]/N 	 1 	 result a
+4 	 6 	 (S[dcl]\NP)/NP 	 1 	 they speak
+6 	 0 	 (S/S)/NP 	 1 	 speak As
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 speak often
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 speak at
+6 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 speak at
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 language speak
+8 	 7 	 N/N 	 1 	 language one
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 home at
+12 	 6 	 (S[dcl]\NP)/NP 	 2 	 another speak
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 school at
+<\s>
+<s id="wsj_0804.23"> 12
+1 	 0 	 N/N 	 1 	 Brown Mrs.
+1 	 2 	 ((S[dcl]\NP)/NP)/NP 	 1 	 Brown calls
+6 	 2 	 ((S[dcl]\NP)/NP)/NP 	 3 	 ambivalence calls
+6 	 3 	 NP[nb]/N 	 1 	 ambivalence the
+6 	 4 	 N/N 	 1 	 ambivalence modern-day
+6 	 5 	 N/N 	 1 	 ambivalence cultural
+6 	 7 	 (NP\NP)/NP 	 1 	 ambivalence to
+8 	 7 	 (NP\NP)/NP 	 2 	 Filipino to
+11 	 2 	 ((S[dcl]\NP)/NP)/NP 	 2 	 schizophrenia calls
+11 	 9 	 NP[nb]/N 	 1 	 schizophrenia a
+11 	 10 	 N/N 	 1 	 schizophrenia language
+<\s>
+<s id="wsj_0804.24"> 7
+1 	 0 	 NP[nb]/N 	 1 	 issue The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 issue has
+1 	 4 	 S[ng]\NP 	 1 	 issue simmering <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+4 	 3 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 simmering been
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 simmering for
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+<\s>
+<s id="wsj_0804.25"> 10
+0 	 1 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 1 	 It does
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 does n't
+3 	 1 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 2 	 take does
+4 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 much take
+4 	 6 	 (S[b]\NP)/NP 	 1 	 much provoke <XB>
+5 	 3 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to take
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provoke to
+9 	 6 	 (S[b]\NP)/NP 	 2 	 debate provoke
+9 	 7 	 NP[nb]/N 	 1 	 debate an
+9 	 8 	 N/N 	 1 	 debate intense
+<\s>
+<s id="wsj_0804.26"> 41
+3 	 0 	 ((S/S)/(S[pt]\NP))/NP 	 3 	 Aquino When
+3 	 1 	 N/N 	 1 	 Aquino President
+3 	 2 	 N/N 	 1 	 Aquino Corazon
+3 	 5 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 Aquino whose
+3 	 12 	 (S[pt]\NP)/S[em] 	 1 	 Aquino announced <XB>
+6 	 5 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 command whose
+6 	 7 	 (N\N)/NP 	 1 	 command of
+6 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 command is <XB>
+6 	 10 	 S[adj]\NP 	 1 	 command spotty <XB>
+8 	 7 	 (N\N)/NP 	 2 	 Filipino of
+9 	 5 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 is whose
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 spotty is
+12 	 0 	 ((S/S)/(S[pt]\NP))/NP 	 2 	 announced When
+12 	 14 	 (S\NP)\(S\NP) 	 2 	 announced year
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year last
+15 	 12 	 (S[pt]\NP)/S[em] 	 2 	 that announced
+17 	 16 	 NP[nb]/N 	 1 	 language the
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 language would
+17 	 20 	 S[pss]\NP 	 1 	 language used <XB>
+18 	 15 	 S[em]/S[dcl] 	 1 	 would that
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+20 	 19 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 used in
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 communications in
+23 	 22 	 N/N 	 1 	 communications official
+25 	 26 	 (S[dcl]\NP[thr])/NP 	 1 	 there was
+26 	 0 	 ((S/S)/(S[pt]\NP))/NP 	 1 	 was When
+28 	 26 	 (S[dcl]\NP[thr])/NP 	 2 	 uproar was
+28 	 27 	 NP[nb]/N 	 1 	 uproar an
+28 	 29 	 (NP\NP)/NP 	 1 	 uproar from
+31 	 29 	 (NP\NP)/NP 	 2 	 legislators from
+31 	 30 	 N/N 	 1 	 legislators many
+31 	 33 	 (NP\NP)/(S[dcl]\NP) 	 1 	 legislators who
+31 	 34 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 legislators continue <XB>
+31 	 36 	 (S[b]\NP)/NP 	 1 	 legislators conduct <XB>
+34 	 33 	 (NP\NP)/(S[dcl]\NP) 	 2 	 continue who
+35 	 34 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continue
+36 	 35 	 (S[to]\NP)/(S[b]\NP) 	 2 	 conduct to
+36 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 conduct in
+37 	 36 	 (S[b]\NP)/NP 	 2 	 debates conduct
+39 	 38 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 in mostly
+40 	 39 	 ((S\NP)\(S\NP))/NP 	 3 	 English in
+<\s>
+<s id="wsj_0804.27"> 12
+2 	 1 	 N/N 	 1 	 proponents many
+2 	 3 	 (NP\NP)/NP 	 1 	 proponents of
+2 	 5 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 1 	 proponents see
+4 	 3 	 (NP\NP)/NP 	 2 	 Filipino of
+5 	 0 	 S/S 	 1 	 see But
+6 	 5 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 3 	 resistance see
+6 	 7 	 (NP\NP)/NP 	 1 	 resistance to
+6 	 11 	 S[ng]\NP 	 1 	 resistance crumbling <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 language to
+9 	 8 	 NP[nb]/N 	 1 	 language the
+11 	 5 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 2 	 crumbling see
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 crumbling finally
+<\s>
+<s id="wsj_0804.28"> 13
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 They believe
+3 	 2 	 NP[nb]/N 	 1 	 media the
+3 	 5 	 (NP\NP)/NP 	 1 	 media including
+3 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 media have
+3 	 9 	 (S[pt]\NP)/NP 	 1 	 media played <XB>
+6 	 5 	 (NP\NP)/NP 	 2 	 Batibot including
+8 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 have believe
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 played have
+12 	 9 	 (S[pt]\NP)/NP 	 2 	 role played
+12 	 10 	 NP[nb]/N 	 1 	 role a
+12 	 11 	 N/N 	 1 	 role crucial
+<\s>
+<s id="wsj_0804.29"> 18
+1 	 0 	 (S/S)/PP 	 2 	 to According
+5 	 1 	 PP/NP 	 1 	 Villanueva to
+5 	 2 	 N/N 	 1 	 Villanueva chief
+5 	 3 	 N/N 	 1 	 Villanueva scriptwriter
+5 	 4 	 N/N 	 1 	 Villanueva Rene
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Batibot does
+7 	 10 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Batibot set <XB>
+7 	 13 	 (S[b]\NP)/NP 	 1 	 Batibot advance <XB>
+8 	 0 	 (S/S)/PP 	 1 	 does According
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 does n't
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 set does
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 set out
+12 	 10 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to set
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 advance to
+15 	 13 	 (S[b]\NP)/NP 	 2 	 cause advance
+15 	 14 	 NP[nb]/N 	 1 	 cause the
+15 	 16 	 (NP\NP)/NP 	 1 	 cause of
+17 	 16 	 (NP\NP)/NP 	 2 	 Filipino of
+<\s>
+<s id="wsj_0804.30"> 20
+0 	 1 	 (S[dcl]\NP)/S[as] 	 1 	 It 's
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 's not
+1 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 's says <XU>
+3 	 1 	 (S[dcl]\NP)/S[as] 	 2 	 as 's
+4 	 3 	 S[as]/S[poss] 	 1 	 if as
+5 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 we 're
+5 	 7 	 (S[ng]\NP)/NP 	 1 	 we teaching <XB>
+6 	 4 	 S[poss]/S[dcl] 	 1 	 're if
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 teaching 're
+7 	 10 	 (S\NP)\(S\NP) 	 2 	 teaching se
+8 	 7 	 (S[ng]\NP)/NP 	 2 	 language teaching
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 se per
+12 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 he says
+15 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 We 're
+15 	 18 	 (S[ng]\NP)/NP 	 1 	 We using <XB>
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 're just
+18 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 using 're
+19 	 18 	 (S[ng]\NP)/NP 	 2 	 it using
+<\s>
+<s id="wsj_0804.31"> 20
+1 	 0 	 (S/S)/N 	 2 	 days These
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Batibot is
+3 	 5 	 S[pss]\NP 	 1 	 Batibot produced <XB>
+4 	 0 	 (S/S)/N 	 1 	 is These
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 produced is
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 produced in
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 produced on
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 lumberyard in
+9 	 7 	 NP[nb]/N 	 1 	 lumberyard a
+9 	 8 	 N/N 	 1 	 lumberyard converted
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 budget on
+13 	 11 	 NP[nb]/N 	 1 	 budget a
+13 	 12 	 N/N 	 1 	 budget shoestring
+13 	 14 	 (NP\NP)/NP 	 1 	 budget of
+15 	 14 	 (NP\NP)/NP 	 2 	 $ of
+15 	 17 	 (NP\NP)/N 	 1 	 $ a
+16 	 15 	 N/N[num] 	 1 	 3,000 $
+19 	 17 	 (NP\NP)/N 	 2 	 segment a
+19 	 18 	 N/N 	 1 	 segment one-hour
+<\s>
+<s id="wsj_0804.32"> 12
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 It is
+0 	 2 	 S[pss]\NP 	 1 	 It shown <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 shown is
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 shown weekdays
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 shown on
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 two on
+5 	 6 	 (NP\NP)/NP 	 1 	 two of
+8 	 7 	 NP[nb]/N 	 1 	 country the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 country 's
+11 	 6 	 (NP\NP)/NP 	 2 	 networks of
+11 	 9 	 (NP[nb]/N)\NP 	 1 	 networks 's
+11 	 10 	 N/N 	 1 	 networks five
+<\s>
+<s id="wsj_0804.33"> 19
+2 	 0 	 (S/S)/NP 	 2 	 audience With
+2 	 1 	 NP[nb]/N 	 1 	 audience an
+2 	 3 	 (S[ng]\NP)/NP 	 1 	 audience totaling <XB>
+4 	 5 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+6 	 3 	 (S[ng]\NP)/NP 	 2 	 400,000 totaling
+6 	 5 	 (N/N)\(S[adj]\NP) 	 1 	 400,000 than
+8 	 10 	 S[dcl]\NP 	 1 	 Batibot ranks
+10 	 0 	 (S/S)/NP 	 1 	 ranks With
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 ranks consistently
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 ranks in
+13 	 12 	 NP[nb]/N 	 1 	 country the
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 country 's
+18 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 programs in
+18 	 14 	 (NP[nb]/N)\NP 	 1 	 programs 's
+18 	 15 	 N/N 	 1 	 programs top-four
+18 	 16 	 N/N 	 1 	 programs most-watched
+18 	 17 	 N/N 	 1 	 programs daytime
+<\s>
+<s id="wsj_0804.34"> 5
+2 	 1 	 N/N 	 1 	 revenue advertising
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 revenue is
+2 	 4 	 S[adj]\NP 	 1 	 revenue inadequate <XB>
+3 	 0 	 S/S 	 1 	 is But
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 inadequate is
+<\s>
+<s id="wsj_0804.35"> 10
+2 	 3 	 (S[dcl]\NP[thr])/NP 	 1 	 there are
+3 	 0 	 S/S 	 1 	 are Periodically
+4 	 3 	 (S[dcl]\NP[thr])/NP 	 2 	 threats are
+5 	 4 	 N/S[em] 	 1 	 that threats
+7 	 6 	 NP[nb]/N 	 1 	 program the
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 program will
+7 	 9 	 S[b]\NP 	 1 	 program fold <XB>
+8 	 5 	 S[em]/S[dcl] 	 1 	 will that
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 fold will
+<\s>
+<s id="wsj_0804.36"> 7
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Batibot lacks
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 polish lacks
+3 	 2 	 NP[nb]/N 	 1 	 polish the
+3 	 4 	 (NP\NP)/NP 	 1 	 polish of
+6 	 4 	 (NP\NP)/NP 	 2 	 Street of
+6 	 5 	 N/N 	 1 	 Street Sesame
+<\s>
+<s id="wsj_0804.37"> 3
+1 	 0 	 N/N 	 1 	 stages Sound
+1 	 2 	 S[dcl]\NP 	 1 	 stages echo
+<\s>
+<s id="wsj_0804.38"> 4
+0 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Acting falls
+0 	 3 	 S[adj]\NP 	 1 	 Acting flat <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 falls sometimes
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 flat falls
+<\s>
+<s id="wsj_0804.39"> 18
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There are
+3 	 2 	 (N/N)/(N/N) 	 2 	 two only
+5 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 puppets are
+5 	 3 	 N/N 	 1 	 puppets two
+5 	 4 	 N/N 	 1 	 puppets large
+5 	 6 	 (NP\NP)/NP 	 1 	 puppets in
+5 	 9 	 (NP\NP)/NP 	 1 	 puppets :
+8 	 6 	 (NP\NP)/NP 	 2 	 program in
+8 	 7 	 NP[nb]/N 	 1 	 program the
+11 	 9 	 (NP\NP)/NP 	 2 	 Pagong :
+11 	 10 	 N/N 	 1 	 Pagong Pong
+14 	 9 	 (NP\NP)/NP 	 2 	 monkey :
+14 	 13 	 NP[nb]/N 	 1 	 monkey a
+14 	 15 	 (S[pss]\NP)/NP 	 1 	 monkey named <XB>
+17 	 15 	 (S[pss]\NP)/NP 	 2 	 Matsing named
+17 	 16 	 N/N 	 1 	 Matsing Kiko
+<\s>
+<s id="wsj_0804.40"> 10
+2 	 1 	 NP[nb]/N 	 1 	 production the
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 production is
+3 	 0 	 S/S 	 1 	 is But
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 equal is
+5 	 4 	 NP[nb]/N 	 1 	 equal the
+5 	 6 	 (NP\NP)/NP 	 1 	 equal of
+9 	 6 	 (NP\NP)/NP 	 2 	 program of
+9 	 7 	 NP[nb]/N 	 1 	 program any
+9 	 8 	 N/N 	 1 	 program local
+<\s>
+<s id="wsj_0804.41"> 11
+2 	 1 	 NP[nb]/N 	 1 	 show the
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 show 's
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 creativity 's
+4 	 5 	 (S[dcl]\NP)/PP 	 1 	 creativity makes
+5 	 0 	 S/S 	 1 	 makes And
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 makes up
+7 	 5 	 (S[dcl]\NP)/PP 	 2 	 for makes
+10 	 7 	 PP/NP 	 1 	 deficiencies for
+10 	 8 	 NP[nb]/N 	 1 	 deficiencies any
+10 	 9 	 N/N 	 1 	 deficiencies technological
+<\s>
+<s id="wsj_0804.42"> 16
+1 	 0 	 NP[nb]/N 	 1 	 program The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 program is
+1 	 4 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 program afraid <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 is n't
+4 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 afraid is
+5 	 4 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to afraid
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 tackle to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 topics tackle
+8 	 7 	 N/N 	 1 	 topics controversial
+8 	 10 	 (NP\NP)/NP 	 1 	 topics as
+10 	 9 	 (NP\NP)/(NP\NP) 	 2 	 as such
+12 	 10 	 (NP\NP)/NP 	 2 	 weapons as
+12 	 11 	 N/N 	 1 	 weapons nuclear
+15 	 10 	 (NP\NP)/NP 	 2 	 environment as
+15 	 14 	 NP[nb]/N 	 1 	 environment the
+<\s>
+<s id="wsj_0804.43"> 11
+0 	 9 	 (S\S)/NP 	 1 	 Not on
+1 	 0 	 S[frg]/S[em] 	 1 	 that Not
+4 	 2 	 NP[nb]/N 	 1 	 war the
+4 	 3 	 N/N 	 1 	 war language
+4 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 war is
+4 	 6 	 S[pss]\NP 	 1 	 war won <XB>
+5 	 1 	 S[em]/S[dcl] 	 1 	 is that
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 won is
+9 	 8 	 (S\S)/(S\S) 	 2 	 on even
+10 	 9 	 (S\S)/NP 	 2 	 Batibot on
+<\s>
+<s id="wsj_0804.44"> 11
+3 	 0 	 (S/S)/NP 	 2 	 episode During
+3 	 1 	 N/N 	 1 	 episode one
+3 	 2 	 N/N 	 1 	 episode recent
+7 	 5 	 NP/NP 	 1 	 advertisements all
+7 	 6 	 NP[nb]/N 	 1 	 advertisements the
+7 	 8 	 (S[dcl]\NP)/PP 	 1 	 advertisements were
+8 	 0 	 (S/S)/NP 	 1 	 were During
+9 	 8 	 (S[dcl]\NP)/PP 	 2 	 in were
+10 	 9 	 PP/NP 	 1 	 English in
+<\s>

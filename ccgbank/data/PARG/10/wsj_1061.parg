@@ -1,0 +1,36 @@
+<s id="wsj_1061.1"> 21
+1 	 0 	 NP[nb]/N 	 1 	 Navy The
+1 	 2 	 (((S[dcl]\NP)/PP)/NP)/NP 	 1 	 Navy awarded
+5 	 3 	 N/N 	 1 	 Inc. Litton
+5 	 4 	 N/N 	 1 	 Inc. Industries
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Inc. 's
+9 	 2 	 (((S[dcl]\NP)/PP)/NP)/NP 	 4 	 division awarded
+9 	 6 	 (NP[nb]/N)\NP 	 1 	 division 's
+9 	 7 	 N/N 	 1 	 division Ingalls
+9 	 8 	 N/N 	 1 	 division Shipbuilding
+10 	 2 	 (((S[dcl]\NP)/PP)/NP)/NP 	 3 	 $ awarded
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 15.5
+13 	 2 	 (((S[dcl]\NP)/PP)/NP)/NP 	 2 	 for awarded
+15 	 13 	 PP/NP 	 1 	 services for
+15 	 14 	 N/N 	 1 	 services shipyard
+15 	 16 	 (NP\NP)/NP 	 1 	 services on
+20 	 16 	 (NP\NP)/NP 	 2 	 program on
+20 	 17 	 NP[nb]/N 	 1 	 program the
+20 	 18 	 N/N 	 1 	 program Aegis
+20 	 19 	 N/N 	 1 	 program cruiser
+<\s>
+<s id="wsj_1061.2"> 13
+1 	 0 	 NP[nb]/N 	 1 	 award The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 award exercises
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 option exercises
+5 	 3 	 NP[nb]/N 	 1 	 option a
+5 	 4 	 N/N 	 1 	 option Navy
+5 	 7 	 (S[b]\NP)/NP 	 1 	 option extend <XB>
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 extend to
+9 	 7 	 (S[b]\NP)/NP 	 2 	 contract extend
+9 	 8 	 NP[nb]/N 	 1 	 contract a
+9 	 10 	 S[pss]\NP 	 1 	 contract given <XB>
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 given in
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 1984 in
+<\s>

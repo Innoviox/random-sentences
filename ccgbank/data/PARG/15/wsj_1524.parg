@@ -1,0 +1,128 @@
+<s id="wsj_1524.1"> 31
+2 	 0 	 N/N 	 1 	 Corp. Lotus
+2 	 1 	 N/N 	 1 	 Corp. Development
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 Corp. is
+2 	 7 	 ((S[b]\NP)/PP)/NP 	 1 	 Corp. sell <XB>
+3 	 30 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 in is
+5 	 4 	 PP/NP 	 1 	 talks in
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+11 	 7 	 ((S[b]\NP)/PP)/NP 	 3 	 service sell
+11 	 8 	 NP[nb]/N 	 1 	 service its
+11 	 9 	 N/N 	 1 	 service Signal
+11 	 10 	 N/N 	 1 	 service stock-quote
+12 	 7 	 ((S[b]\NP)/PP)/NP 	 2 	 to sell
+14 	 12 	 PP/NP 	 1 	 Inc. to
+14 	 13 	 N/N 	 1 	 Inc. Infotechnology
+19 	 12 	 PP/NP 	 1 	 parent to
+19 	 16 	 NP[nb]/N 	 1 	 parent the
+19 	 17 	 N/N 	 1 	 parent New
+19 	 18 	 N/N 	 1 	 parent York
+19 	 20 	 (NP\NP)/NP 	 1 	 parent of
+23 	 20 	 (NP\NP)/NP 	 2 	 Network of
+23 	 21 	 N/N 	 1 	 Network Financial
+23 	 22 	 N/N 	 1 	 Network News
+25 	 26 	 S[adj]\NP 	 1 	 people familiar <XB>
+25 	 30 	 (S[dcl]\S[dcl])\NP 	 2 	 people said
+26 	 27 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 familiar with
+29 	 27 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 negotiations with
+29 	 28 	 NP[nb]/N 	 1 	 negotiations the
+<\s>
+<s id="wsj_1524.2"> 10
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 They said
+3 	 2 	 NP[nb]/N 	 1 	 price the
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 price would
+3 	 5 	 (S[b]\NP)/NP 	 1 	 price be <XB>
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+7 	 5 	 (S[b]\NP)/NP 	 2 	 $ be
+7 	 6 	 N/N 	 1 	 $ around
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 10
+<\s>
+<s id="wsj_1524.3"> 29
+0 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Signal which
+0 	 3 	 (S[dcl]\NP)/NP 	 1 	 Signal has <XB>
+0 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Signal is <XU>
+0 	 10 	 S[adj]\NP 	 1 	 Signal profitable <XU>
+0 	 12 	 (S[dcl]\NP)/NP 	 1 	 Signal provides
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 subscribers has
+7 	 4 	 NP[nb]/N 	 1 	 subscribers an
+7 	 5 	 N/N 	 1 	 subscribers estimated
+7 	 6 	 N/N 	 1 	 subscribers 10,000
+9 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 profitable is
+12 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 provides over
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 quotes provides
+14 	 13 	 N/N 	 1 	 quotes stock
+19 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 band over
+19 	 16 	 NP[nb]/N 	 1 	 band an
+19 	 17 	 N/N 	 1 	 band FM
+19 	 18 	 N/N 	 1 	 band radio
+19 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 band that
+19 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 band can <XB>
+19 	 23 	 S[pss]\NP 	 1 	 band received <XB>
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 can that
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+23 	 22 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 received be
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 received by
+26 	 25 	 (N/N)/(N/N) 	 2 	 equipped specially
+28 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 computers by
+28 	 26 	 N/N 	 1 	 computers equipped
+28 	 27 	 N/N 	 1 	 computers personal
+<\s>
+<s id="wsj_1524.4"> 9
+1 	 0 	 NP[nb]/N 	 1 	 computers The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 computers will
+1 	 3 	 (S[b]\NP)/NP 	 1 	 computers display <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 display will
+5 	 3 	 (S[b]\NP)/NP 	 2 	 prices display
+5 	 4 	 N/N 	 1 	 prices stock
+5 	 6 	 S[pss]\NP 	 1 	 prices selected <XB>
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 selected by
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 users by
+<\s>
+<s id="wsj_1524.5"> 22
+0 	 2 	 NP\NP 	 1 	 Lotus Cambridge
+0 	 4 	 NP\NP 	 1 	 Lotus Mass. <XU>
+0 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Lotus has
+0 	 8 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Lotus rumored <XB>
+0 	 10 	 ((S[b]\NP)/PP)/NP 	 1 	 Lotus have <XB>
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+8 	 7 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 rumored been
+9 	 8 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to rumored
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+10 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 have for
+12 	 10 	 ((S[b]\NP)/PP)/NP 	 3 	 sale have
+12 	 11 	 NP[nb]/N 	 1 	 sale the
+12 	 13 	 (NP\NP)/NP 	 1 	 sale of
+16 	 13 	 (NP\NP)/NP 	 2 	 unit of
+16 	 14 	 NP[nb]/N 	 1 	 unit the
+16 	 15 	 N/N 	 1 	 unit four-year-old
+17 	 10 	 ((S[b]\NP)/PP)/NP 	 2 	 under have
+18 	 17 	 PP/NP 	 1 	 consideration under
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 year for
+21 	 20 	 NP[nb]/N 	 1 	 year a
+<\s>
+<s id="wsj_1524.6"> 20
+1 	 0 	 NP[nb]/N 	 1 	 business The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 business is
+1 	 4 	 (S[adj]\NP)/PP 	 1 	 business related <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 is n't
+4 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 related is
+5 	 4 	 (S[adj]\NP)/PP 	 2 	 to related
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Lotus 's
+9 	 5 	 PP/NP 	 1 	 businesses to
+9 	 7 	 (NP[nb]/N)\NP 	 1 	 businesses 's
+9 	 8 	 N/N 	 1 	 businesses main
+9 	 10 	 (NP\NP)/(S[ng]\NP) 	 1 	 businesses of
+11 	 10 	 (NP\NP)/(S[ng]\NP) 	 2 	 making of
+13 	 11 	 (S[ng]\NP)/NP 	 2 	 software making
+13 	 12 	 N/N 	 1 	 software computer
+15 	 10 	 (NP\NP)/(S[ng]\NP) 	 2 	 publishing of
+16 	 15 	 ((S[ng]\NP)/PP)/NP 	 3 	 information publishing
+17 	 15 	 ((S[ng]\NP)/PP)/NP 	 2 	 on publishing
+19 	 17 	 PP/NP 	 1 	 disks on
+19 	 18 	 N/N 	 1 	 disks compact
+<\s>

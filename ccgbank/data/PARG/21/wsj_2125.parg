@@ -1,0 +1,731 @@
+<s id="wsj_2125.1"> 26
+1 	 0 	 NP[nb]/N 	 1 	 turmoil The
+1 	 2 	 (NP\NP)/NP 	 1 	 turmoil on
+1 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 turmoil may
+1 	 6 	 (S[b]\NP)/NP 	 1 	 turmoil benefit <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 Street on
+4 	 3 	 N/N 	 1 	 Street Wall
+5 	 25 	 (S[dcl]\S[dcl])\NP 	 1 	 may said
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 benefit may
+8 	 6 	 (S[b]\NP)/NP 	 2 	 retailers benefit
+8 	 7 	 NP[nb]/N 	 1 	 retailers some
+8 	 9 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 retailers attempting <XB>
+8 	 11 	 (S[b]\NP)/NP 	 1 	 retailers lead <XB>
+10 	 9 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to attempting
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lead to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 buy-outs lead
+13 	 12 	 N/N 	 1 	 buy-outs leveraged
+13 	 14 	 (NP\NP)/NP 	 1 	 buy-outs of
+19 	 14 	 (NP\NP)/NP 	 2 	 chains of
+19 	 15 	 NP[nb]/N 	 1 	 chains their
+19 	 16 	 N/N 	 1 	 chains specialty
+19 	 18 	 N/N 	 1 	 chains department-store
+22 	 21 	 N/N 	 1 	 bankers investment
+22 	 25 	 (S[dcl]\S[dcl])\NP 	 2 	 bankers said
+24 	 21 	 N/N 	 1 	 retailers investment
+24 	 25 	 (S[dcl]\S[dcl])\NP 	 2 	 retailers said
+<\s>
+<s id="wsj_2125.2"> 17
+0 	 1 	 (NP\NP)/NP 	 1 	 Managers at
+0 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Managers have
+0 	 5 	 (S[pt]\NP)/S[em] 	 1 	 Managers said <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 chains at
+3 	 2 	 N/N 	 1 	 chains five
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said have
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 said in
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 weeks in
+8 	 7 	 N/N 	 1 	 weeks recent
+9 	 5 	 (S[pt]\NP)/S[em] 	 2 	 that said
+10 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 they intend
+10 	 13 	 (S[b]\NP)/PP 	 1 	 they bid <XB>
+11 	 9 	 S[em]/S[dcl] 	 1 	 intend that
+12 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to intend
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 bid to
+14 	 13 	 (S[b]\NP)/PP 	 2 	 for bid
+16 	 14 	 PP/NP 	 1 	 companies for
+16 	 15 	 NP[nb]/N 	 1 	 companies their
+<\s>
+<s id="wsj_2125.3"> 53
+1 	 0 	 NP[nb]/N 	 1 	 chains The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 chains include
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 's include
+4 	 3 	 N/N 	 1 	 's Bloomingdale
+4 	 6 	 S[pss]\NP 	 1 	 's owned <XB>
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 owned by
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp. by
+9 	 8 	 N/N 	 1 	 Corp. Campeau
+9 	 11 	 NP\NP 	 1 	 Corp. Toronto
+15 	 2 	 (S[dcl]\NP)/NP 	 2 	 Avenue include
+15 	 13 	 N/N 	 1 	 Avenue Saks
+15 	 14 	 N/N 	 1 	 Avenue Fifth
+15 	 21 	 S[pss]\NP 	 1 	 Avenue owned <XB>
+19 	 2 	 (S[dcl]\NP)/NP 	 2 	 's include
+19 	 17 	 N/N 	 1 	 's Marshall
+19 	 18 	 N/N 	 1 	 's Field
+19 	 21 	 S[pss]\NP 	 1 	 's owned <XB>
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 owned by
+25 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 PLC by
+25 	 23 	 N/N 	 1 	 PLC B.A.T
+25 	 24 	 N/N 	 1 	 PLC Industries
+25 	 27 	 NP\NP 	 1 	 PLC London
+33 	 2 	 (S[dcl]\NP)/NP 	 2 	 Co. include
+33 	 30 	 N/N 	 1 	 Co. B.
+33 	 31 	 N/N 	 1 	 Co. Altman
+33 	 32 	 N/N 	 1 	 Co. &
+33 	 38 	 S[pss]\NP 	 1 	 Co. owned <XB>
+36 	 2 	 (S[dcl]\NP)/NP 	 2 	 Inc. include
+36 	 35 	 N/N 	 1 	 Inc. Sakowitz
+36 	 38 	 S[pss]\NP 	 1 	 Inc. owned <XB>
+38 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 owned by
+41 	 39 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp. by
+41 	 40 	 N/N 	 1 	 Corp. Hooker
+41 	 43 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Corp. which
+41 	 44 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Corp. is <XB>
+41 	 46 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 Corp. being <XB>
+41 	 47 	 S[pss]\NP 	 1 	 Corp. managed <XB>
+44 	 43 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+44 	 45 	 (S\NP)\(S\NP) 	 2 	 is now
+46 	 44 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being is
+47 	 46 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 managed being
+47 	 48 	 ((S\NP)\(S\NP))/NP 	 2 	 managed by
+52 	 48 	 ((S\NP)\(S\NP))/NP 	 3 	 liquidator by
+52 	 49 	 NP[nb]/N 	 1 	 liquidator a
+52 	 50 	 N/N 	 1 	 liquidator court-appointed
+52 	 51 	 N/N 	 1 	 liquidator provisional
+<\s>
+<s id="wsj_2125.4"> 7
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Hooker is
+0 	 2 	 S[pss]\NP 	 1 	 Hooker based <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 based is
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Sydney in
+6 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Australia in
+<\s>
+<s id="wsj_2125.5"> 35
+1 	 0 	 NP[nb]/N 	 1 	 combination The
+1 	 2 	 (NP\NP)/NP 	 1 	 combination of
+1 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 combination will
+1 	 28 	 (S[b]\NP)/NP 	 1 	 combination drive <XB>
+5 	 2 	 (NP\NP)/NP 	 2 	 chains of
+5 	 3 	 N/N 	 1 	 chains so
+5 	 4 	 N/N 	 1 	 chains many
+5 	 6 	 S[adj]\NP 	 1 	 chains available <XB>
+6 	 7 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 available for
+8 	 7 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 sale for
+12 	 2 	 (NP\NP)/NP 	 2 	 failures of
+12 	 10 	 NP[nb]/N 	 1 	 failures the
+12 	 11 	 N/N 	 1 	 failures recent
+12 	 13 	 (NP\NP)/NP 	 1 	 failures of
+17 	 13 	 (NP\NP)/NP 	 2 	 's of
+17 	 14 	 NP/NP 	 1 	 's such
+17 	 15 	 N/N 	 1 	 's retailing
+17 	 16 	 N/N 	 1 	 's LBO
+17 	 18 	 (NP\NP)/NP 	 1 	 's as
+22 	 18 	 (NP\NP)/NP 	 2 	 Inc. as
+22 	 19 	 N/N 	 1 	 Inc. Miller
+22 	 20 	 N/N 	 1 	 Inc. &
+22 	 21 	 N/N 	 1 	 Inc. Rhoads
+26 	 2 	 (NP\NP)/NP 	 2 	 confidence of
+26 	 24 	 N/N 	 1 	 confidence declining
+26 	 25 	 N/N 	 1 	 confidence investor
+27 	 34 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+28 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 drive will
+28 	 29 	 (S\NP)\(S\NP) 	 2 	 drive down
+30 	 28 	 (S[b]\NP)/NP 	 2 	 prices drive
+33 	 32 	 N/N 	 1 	 observers retailing
+33 	 34 	 (S[dcl]\S[dcl])\NP 	 2 	 observers said
+<\s>
+<s id="wsj_2125.6"> 27
+1 	 0 	 NP[nb]/N 	 1 	 pricing The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 pricing will
+1 	 3 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 pricing become <XB>
+1 	 5 	 S[adj]\NP 	 1 	 pricing realistic <XB>
+1 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 pricing should <XB>
+1 	 9 	 (S[b]\NP)/NP 	 1 	 pricing help <XB>
+2 	 12 	 (S[dcl]\S[dcl])/NP 	 1 	 will said
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 become will
+3 	 7 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 become which
+5 	 3 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 realistic become
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 realistic more
+8 	 7 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 should which
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 help should
+10 	 9 	 (S[b]\NP)/NP 	 2 	 management help
+14 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 Rosenthal said
+14 	 13 	 N/N 	 1 	 Rosenthal Bruce
+20 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 banker said
+20 	 16 	 NP[nb]/N 	 1 	 banker a
+20 	 17 	 N/N 	 1 	 banker New
+20 	 18 	 N/N 	 1 	 banker York
+20 	 19 	 N/N 	 1 	 banker investment
+20 	 21 	 (NP\NP)/NP 	 1 	 banker with
+26 	 21 	 (NP\NP)/NP 	 2 	 Co with
+26 	 22 	 N/N 	 1 	 Co Nathan
+26 	 23 	 N/N 	 1 	 Co S.
+26 	 24 	 N/N 	 1 	 Co Jonas
+26 	 25 	 N/N 	 1 	 Co &
+<\s>
+<s id="wsj_2125.7"> 29
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Investors are
+0 	 6 	 ((S[ng]\NP)/PP)/NP 	 1 	 Investors throwing <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 are n't
+3 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going are
+4 	 3 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+6 	 5 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 throwing be
+7 	 6 	 ((S[ng]\NP)/PP)/NP 	 3 	 money throwing
+8 	 6 	 ((S[ng]\NP)/PP)/NP 	 2 	 at throwing
+9 	 8 	 PP/NP 	 1 	 any at
+9 	 10 	 (NP\NP)/NP 	 1 	 any of
+13 	 10 	 (NP\NP)/NP 	 2 	 LBOs of
+13 	 11 	 NP[nb]/N 	 1 	 LBOs the
+13 	 12 	 N/N 	 1 	 LBOs proposed
+16 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 doing on
+16 	 25 	 (S[dcl]\NP)/NP 	 1 	 doing made
+17 	 16 	 (S[ng]\NP)/NP 	 2 	 deals doing
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 basis on
+20 	 19 	 NP[nb]/N 	 1 	 basis the
+20 	 21 	 (NP\NP)/NP 	 1 	 basis of
+23 	 21 	 (NP\NP)/NP 	 2 	 assumptions of
+23 	 22 	 N/N 	 1 	 assumptions ridiculous
+25 	 24 	 (S\NP)/(S\NP) 	 2 	 made never
+25 	 28 	 (S\NP)\(S\NP) 	 2 	 made either
+26 	 25 	 (S[dcl]\NP)/NP 	 2 	 sense made
+<\s>
+<s id="wsj_2125.8"> 30
+1 	 0 	 (S/S)/(S/S) 	 2 	 this Earlier
+2 	 1 	 (S/S)/N 	 2 	 year this
+4 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 bankers were
+4 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 bankers willing <XB>
+7 	 6 	 N/N 	 1 	 investors other
+7 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 investors were
+7 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 investors willing <XB>
+8 	 1 	 (S/S)/N 	 1 	 were this
+8 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 were because
+8 	 29 	 (S[dcl]\S[dcl])\NP 	 1 	 were added
+9 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 willing were
+10 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to willing
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provide to
+12 	 11 	 (S[b]\NP)/NP 	 2 	 financing provide
+14 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 they assumed
+15 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 assumed because
+16 	 17 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 1 	 there would
+17 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 would assumed
+18 	 17 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 2 	 be would
+20 	 18 	 (S[b]\NP)/NP 	 2 	 gains be
+20 	 19 	 N/N 	 1 	 gains major
+20 	 21 	 (NP\NP)/NP 	 1 	 gains in
+23 	 21 	 (NP\NP)/NP 	 2 	 profitability in
+23 	 22 	 NP[nb]/N 	 1 	 profitability both
+25 	 21 	 (NP\NP)/NP 	 2 	 sales in
+25 	 22 	 NP[nb]/N 	 1 	 sales both
+28 	 27 	 N/N 	 1 	 Rosenthal Mr.
+28 	 29 	 (S[dcl]\S[dcl])\NP 	 2 	 Rosenthal added
+<\s>
+<s id="wsj_2125.9"> 8
+1 	 0 	 NP[nb]/N 	 1 	 days Those
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 days are
+1 	 3 	 S[adj]\NP 	 1 	 days over <XB>
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 are now
+2 	 7 	 (S[dcl]\S[dcl])\NP 	 1 	 are believes
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 over are
+6 	 7 	 (S[dcl]\S[dcl])\NP 	 2 	 he believes
+<\s>
+<s id="wsj_2125.10"> 22
+0 	 1 	 (NP\NP)/NP 	 1 	 Competition from
+0 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Competition has
+0 	 14 	 S[pt]\NP 	 1 	 Competition existed <XB>
+0 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Competition will <XU>
+0 	 17 	 S[b]\NP 	 1 	 Competition continue <XU>
+3 	 1 	 (NP\NP)/NP 	 2 	 parties from
+3 	 2 	 N/N 	 1 	 parties third
+3 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 parties who
+3 	 5 	 (S[dcl]\NP)/NP 	 1 	 parties have <XB>
+3 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 parties are <XU>
+3 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 parties prepared <XU>
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have who
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 cash have
+8 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are who
+9 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 prepared are
+10 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to prepared
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 has always
+12 	 19 	 (S[dcl]\S[dcl])/NP 	 1 	 has added
+14 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 existed has
+16 	 19 	 (S[dcl]\S[dcl])/NP 	 1 	 will added
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue will
+21 	 19 	 (S[dcl]\S[dcl])/NP 	 2 	 Rosenthal added
+21 	 20 	 N/N 	 1 	 Rosenthal Mr.
+<\s>
+<s id="wsj_2125.11"> 14
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 prices were
+2 	 4 	 S[adj]\NP 	 1 	 prices crazy <XB>
+3 	 1 	 (S/S)/S[dcl] 	 2 	 were when
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 crazy were
+6 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it was
+6 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 it harder <XB>
+7 	 0 	 S/S 	 1 	 was But
+7 	 1 	 (S/S)/S[dcl] 	 1 	 was when
+9 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 harder was
+9 	 8 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 harder even
+10 	 9 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to harder
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 LBO do
+13 	 12 	 NP[nb]/N 	 1 	 LBO an
+<\s>
+<s id="wsj_2125.12"> 16
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 Bankers believed
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 in believed
+5 	 2 	 PP/NP 	 1 	 theory in
+5 	 3 	 NP[nb]/N 	 1 	 theory the
+5 	 4 	 N/N 	 1 	 theory greater-fool
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 theory that
+5 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 theory says <XB>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 says that
+8 	 9 	 NP\NP 	 1 	 somebody else
+8 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 somebody is
+8 	 12 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 somebody willing <XB>
+10 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 is says
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 is always
+12 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 willing is
+13 	 12 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to willing
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+15 	 14 	 (S[b]\NP)/NP 	 2 	 more pay
+<\s>
+<s id="wsj_2125.13"> 6
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 This is
+0 	 4 	 S[adj]\NP 	 1 	 This true <XB>
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 is longer
+1 	 5 	 (S\NP)\(S\NP) 	 2 	 is today
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 longer no
+4 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 true is
+<\s>
+<s id="wsj_2125.14"> 27
+3 	 0 	 (S/S)/NP 	 2 	 Avenue At
+3 	 1 	 N/N 	 1 	 Avenue Saks
+3 	 2 	 N/N 	 1 	 Avenue Fifth
+6 	 5 	 N/N 	 1 	 Leblang Paul
+6 	 14 	 (S[dcl]\NP)/S[em] 	 1 	 Leblang agreed
+10 	 8 	 N/N 	 1 	 president senior
+10 	 9 	 N/N 	 1 	 president vice
+10 	 14 	 (S[dcl]\NP)/S[em] 	 1 	 president agreed
+12 	 14 	 (S[dcl]\NP)/S[em] 	 1 	 marketing agreed
+14 	 0 	 (S/S)/NP 	 1 	 agreed At
+15 	 14 	 (S[dcl]\NP)/S[em] 	 2 	 that agreed
+17 	 16 	 N/N 	 1 	 prices lower
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 prices will
+17 	 19 	 ((S[b]\NP)/PP)/NP 	 1 	 prices help <XB>
+18 	 15 	 S[em]/S[dcl] 	 1 	 will that
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 help will
+22 	 19 	 ((S[b]\NP)/PP)/NP 	 3 	 team help
+22 	 20 	 NP[nb]/N 	 1 	 team his
+22 	 21 	 N/N 	 1 	 team management
+23 	 19 	 ((S[b]\NP)/PP)/NP 	 2 	 in help
+26 	 23 	 PP/NP 	 1 	 LBO in
+26 	 24 	 NP[nb]/N 	 1 	 LBO their
+26 	 25 	 N/N 	 1 	 LBO proposed
+<\s>
+<s id="wsj_2125.15"> 15
+0 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Having would
+0 	 8 	 (S[b]\NP)/NP 	 1 	 Having be <XB>
+1 	 0 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to Having
+2 	 1 	 (S[to]\NP)/(S[b]\NP) 	 2 	 take to
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 take on
+5 	 2 	 (S[b]\NP)/NP 	 2 	 debt take
+5 	 4 	 N/N 	 1 	 debt less
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 would certainly
+6 	 12 	 (S[dcl]\S[dcl])/NP 	 1 	 would said
+8 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+10 	 8 	 (S[b]\NP)/NP 	 2 	 advantage be
+10 	 9 	 NP[nb]/N 	 1 	 advantage an
+14 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 Leblang said
+14 	 13 	 N/N 	 1 	 Leblang Mr.
+<\s>
+<s id="wsj_2125.16"> 11
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 It would
+0 	 3 	 ((S[b]\NP)/PP)/NP 	 1 	 It help <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 would also
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 help would
+4 	 3 	 ((S[b]\NP)/PP)/NP 	 3 	 us help
+5 	 3 	 ((S[b]\NP)/PP)/NP 	 2 	 in help
+7 	 5 	 PP/NP 	 1 	 search in
+7 	 6 	 NP[nb]/N 	 1 	 search our
+7 	 8 	 (NP\NP)/NP 	 1 	 search for
+10 	 8 	 (NP\NP)/NP 	 2 	 partners for
+10 	 9 	 N/N 	 1 	 partners equity
+<\s>
+<s id="wsj_2125.17"> 17
+1 	 0 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make To
+3 	 2 	 NP[nb]/N 	 1 	 LBO an
+3 	 4 	 S[dcl]\NP 	 1 	 LBO work
+4 	 1 	 (S[b]\NP)/S[dcl] 	 2 	 work make
+7 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 we are
+7 	 11 	 (S[b]\NP)/NP 	 1 	 we need <XB>
+8 	 6 	 S/S 	 1 	 are now
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going are
+10 	 9 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 need to
+12 	 11 	 (S[b]\NP)/NP 	 2 	 more need
+12 	 13 	 (NP\NP)/NP 	 1 	 more than
+16 	 13 	 (NP\NP)/NP 	 2 	 bonds than
+16 	 14 	 N/N 	 1 	 bonds just
+16 	 15 	 N/N 	 1 	 bonds junk
+<\s>
+<s id="wsj_2125.18"> 26
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 None believe
+1 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 believe at
+5 	 2 	 NP[nb]/N 	 1 	 LBOs the
+5 	 3 	 N/N 	 1 	 LBOs proposed
+5 	 4 	 N/N 	 1 	 LBOs management
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 LBOs will
+5 	 8 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 1 	 LBOs easy <XB>
+5 	 10 	 (S[b]\NP)/NP 	 2 	 LBOs complete <XU>
+6 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 will believe
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+8 	 7 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 easy be
+9 	 8 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 2 	 to easy
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 complete to
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 at especially
+17 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Co. at
+17 	 14 	 N/N 	 1 	 Co. B.
+17 	 15 	 N/N 	 1 	 Co. Altman
+17 	 16 	 N/N 	 1 	 Co. &
+17 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Co. which
+17 	 20 	 (S[dcl]\NP)/PP 	 1 	 Co. is <XB>
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+21 	 20 	 (S[dcl]\NP)/PP 	 2 	 under is
+25 	 21 	 PP/NP 	 1 	 protection under
+25 	 22 	 N/N 	 1 	 protection Chapter
+25 	 23 	 N/N 	 1 	 protection 11
+25 	 24 	 N/N 	 1 	 protection bankruptcy
+<\s>
+<s id="wsj_2125.19"> 34
+1 	 0 	 (S/S)/(S/S) 	 2 	 only Not
+2 	 1 	 (S/S)/S[inv] 	 2 	 could only
+6 	 2 	 (S[inv]/(S[b]\NP))/NP 	 2 	 gyrations could
+6 	 3 	 NP[nb]/N 	 1 	 gyrations the
+6 	 4 	 N/N 	 1 	 gyrations Wall
+6 	 5 	 N/N 	 1 	 gyrations Street
+7 	 2 	 (S[inv]/(S[b]\NP))/NP 	 1 	 damp could
+7 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 damp if
+9 	 7 	 (S[b]\NP)/NP 	 2 	 sales damp
+9 	 8 	 N/N 	 1 	 sales Christmas
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 consumers lose
+12 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 lose if
+13 	 12 	 (S[dcl]\NP)/NP 	 2 	 confidence lose
+13 	 14 	 (NP\NP)/NP 	 1 	 confidence in
+16 	 14 	 (NP\NP)/NP 	 2 	 economy in
+16 	 15 	 NP[nb]/N 	 1 	 economy the
+21 	 19 	 N/N 	 1 	 buyers potential
+21 	 20 	 N/N 	 1 	 buyers junk-bond
+21 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 buyers are
+21 	 23 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 buyers sure <XB>
+22 	 1 	 (S/S)/S[inv] 	 1 	 are only
+22 	 18 	 S/S 	 1 	 are but
+23 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 sure are
+24 	 23 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to sure
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 demand to
+27 	 26 	 (N/N)/(N/N) 	 2 	 stronger even
+28 	 25 	 (S[b]\NP)/NP 	 2 	 covenants demand
+28 	 27 	 N/N 	 1 	 covenants stronger
+33 	 25 	 (S[b]\NP)/NP 	 2 	 participation demand
+33 	 30 	 N/N 	 1 	 participation greater
+33 	 31 	 N/N 	 1 	 participation management
+33 	 32 	 N/N 	 1 	 participation equity
+<\s>
+<s id="wsj_2125.20"> 19
+3 	 2 	 N/N 	 1 	 institutions many
+3 	 5 	 (S[ng]\NP)/NP 	 1 	 institutions holding <XB>
+3 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 institutions will
+3 	 13 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 institutions reticent <XB>
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 holding today
+7 	 6 	 N/N 	 1 	 retailers troubled
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 retailers '
+10 	 5 	 (S[ng]\NP)/NP 	 2 	 securities holding
+10 	 8 	 (NP[nb]/N)\NP 	 1 	 securities '
+10 	 9 	 N/N 	 1 	 securities debt
+11 	 0 	 S/S 	 1 	 will Further
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+13 	 12 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 reticent be
+14 	 13 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to reticent
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 consider to
+18 	 15 	 (S[b]\NP)/NP 	 2 	 investments consider
+18 	 16 	 N/N 	 1 	 investments additional
+18 	 17 	 N/N 	 1 	 investments retailing
+<\s>
+<s id="wsj_2125.21"> 14
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 It 's
+0 	 2 	 ((S[pt]\NP)/(S[ng]\NP))/NP 	 1 	 It called <XB>
+1 	 10 	 (S[dcl]\S[dcl])/NP 	 1 	 's said
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 called 's
+4 	 2 	 ((S[pt]\NP)/(S[ng]\NP))/NP 	 3 	 money called
+4 	 3 	 N/N 	 1 	 money bad
+4 	 5 	 (S[ng]\NP)/NP 	 1 	 money driving <XB>
+5 	 2 	 ((S[pt]\NP)/(S[ng]\NP))/NP 	 2 	 driving called
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 driving out
+8 	 5 	 (S[ng]\NP)/NP 	 2 	 money driving
+8 	 7 	 N/N 	 1 	 money good
+13 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 observer said
+13 	 11 	 N/N 	 1 	 observer one
+13 	 12 	 N/N 	 1 	 observer retailing
+<\s>
+<s id="wsj_2125.22"> 11
+0 	 1 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Institutions that
+0 	 3 	 (S[dcl]\NP)/NP 	 1 	 Institutions buy <XB>
+0 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Institutions have
+0 	 10 	 S[adj]\NP 	 1 	 Institutions concerned <XB>
+3 	 1 	 (NP\NP)/(S[dcl]\NP) 	 2 	 buy that
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 buy usually
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 paper buy
+5 	 4 	 N/N 	 1 	 paper retail
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to have
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+10 	 8 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 concerned be
+10 	 9 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 concerned more
+<\s>
+<s id="wsj_2125.23"> 30
+4 	 2 	 NP[nb]/N 	 1 	 prices the
+4 	 3 	 N/N 	 1 	 prices lower
+4 	 12 	 (S[b]\NP)/NP 	 2 	 prices bring <XU>
+4 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 prices should
+4 	 14 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 prices make <XB>
+7 	 5 	 NP[nb]/N 	 1 	 chains these
+7 	 6 	 N/N 	 1 	 chains retail
+7 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 chains are
+7 	 10 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 chains expected <XB>
+7 	 12 	 (S[b]\NP)/NP 	 1 	 chains bring <XB>
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 are now
+10 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+11 	 10 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 bring to
+13 	 0 	 S/S 	 1 	 should However
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make should
+15 	 14 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 it make
+15 	 16 	 (S[adj]\NP)/S[for] 	 1 	 it easier <XB>
+16 	 14 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 easier make
+17 	 16 	 (S[adj]\NP)/S[for] 	 2 	 for easier
+18 	 17 	 (S[for]/(S[to]\NP))/NP 	 2 	 managers for
+18 	 20 	 (S[b]\NP)/NP 	 1 	 managers raise <XB>
+18 	 25 	 (S[b]\NP)/NP 	 1 	 managers pay <XU>
+19 	 17 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 raise to
+23 	 20 	 (S[b]\NP)/NP 	 2 	 capital raise
+23 	 21 	 NP[nb]/N 	 1 	 capital the
+23 	 22 	 N/N 	 1 	 capital necessary
+25 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 pay back
+29 	 25 	 (S[b]\NP)/NP 	 2 	 debt pay
+29 	 27 	 NP[nb]/N 	 1 	 debt the
+29 	 28 	 N/N 	 1 	 debt resulting
+<\s>
+<s id="wsj_2125.24"> 28
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+6 	 3 	 NP[nb]/N 	 1 	 season the
+6 	 4 	 N/N 	 1 	 season fall
+6 	 5 	 N/N 	 1 	 season selling
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 season has
+6 	 9 	 (S[pt]\NP)/NP 	 1 	 season been <XB>
+7 	 0 	 (S/S)/NP 	 1 	 has In
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 has generally
+9 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+9 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 been for
+12 	 9 	 (S[pt]\NP)/NP 	 2 	 one been
+12 	 10 	 NP[nb]/N 	 1 	 one a
+12 	 11 	 N/N 	 1 	 one good
+15 	 14 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 for especially
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 retailers for
+17 	 16 	 NP[nb]/N 	 1 	 retailers those
+17 	 18 	 S[adj]\NP 	 1 	 retailers dependent <XB>
+18 	 19 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 dependent on
+18 	 22 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 dependent for
+21 	 19 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 sales on
+21 	 20 	 N/N 	 1 	 sales apparel
+24 	 22 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 majority for
+24 	 23 	 NP[nb]/N 	 1 	 majority the
+24 	 25 	 (NP\NP)/NP 	 1 	 majority of
+27 	 25 	 (NP\NP)/NP 	 2 	 revenues of
+27 	 26 	 NP[nb]/N 	 1 	 revenues their
+<\s>
+<s id="wsj_2125.25"> 43
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 What 's <XB>
+0 	 2 	 (S[adj]\NP)/PP 	 1 	 What encouraging <XB>
+0 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 What is
+1 	 0 	 NP/(S[dcl]\NP) 	 1 	 's What
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 encouraging 's
+3 	 2 	 (S[adj]\NP)/PP 	 2 	 about encouraging
+4 	 3 	 PP/NP 	 1 	 this about
+5 	 25 	 (S[dcl]\S[dcl])/NP 	 1 	 is said
+6 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+8 	 7 	 N/N 	 1 	 chains retail
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 chains will
+8 	 11 	 S[pss]\NP 	 1 	 chains sold <XB>
+9 	 6 	 S[em]/S[dcl] 	 1 	 will that
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+11 	 10 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 sold be
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 sold on
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 basis on
+14 	 13 	 NP[nb]/N 	 1 	 basis the
+14 	 15 	 (NP\NP)/NP 	 1 	 basis of
+17 	 15 	 (NP\NP)/NP 	 2 	 sales of
+17 	 16 	 NP[nb]/N 	 1 	 sales their
+19 	 15 	 (NP\NP)/NP 	 2 	 earnings of
+19 	 16 	 NP[nb]/N 	 1 	 earnings their
+23 	 15 	 (NP\NP)/NP 	 2 	 values of
+23 	 21 	 NP/NP 	 1 	 values not
+23 	 22 	 N/N 	 1 	 values liquidation
+28 	 25 	 (S[dcl]\S[dcl])/NP 	 2 	 Brooks said
+28 	 26 	 N/N 	 1 	 Brooks Joseph
+28 	 27 	 N/N 	 1 	 Brooks E.
+30 	 25 	 (S[dcl]\S[dcl])/NP 	 2 	 chairman said
+30 	 35 	 (NP\NP)/NP 	 1 	 chairman of
+34 	 25 	 (S[dcl]\S[dcl])/NP 	 2 	 officer said
+34 	 32 	 N/N 	 1 	 officer chief
+34 	 33 	 N/N 	 1 	 officer executive
+34 	 35 	 (NP\NP)/NP 	 1 	 officer of
+38 	 35 	 (NP\NP)/NP 	 2 	 Inc. of
+38 	 36 	 N/N 	 1 	 Inc. Ann
+38 	 37 	 N/N 	 1 	 Inc. Taylor
+42 	 35 	 (NP\NP)/NP 	 2 	 chain of
+42 	 40 	 NP[nb]/N 	 1 	 chain a
+42 	 41 	 N/N 	 1 	 chain specialty
+<\s>
+<s id="wsj_2125.26"> 19
+0 	 1 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Retailers who
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 Retailers had <XB>
+0 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Retailers will
+0 	 10 	 (S[b]\NP)/NP 	 1 	 Retailers have <XB>
+2 	 1 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had who
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 records had
+5 	 3 	 N/N 	 1 	 records good
+5 	 4 	 N/N 	 1 	 records track
+5 	 6 	 (NP\NP)/(S[ng]\NP) 	 1 	 records of
+7 	 6 	 (NP\NP)/(S[ng]\NP) 	 2 	 producing of
+8 	 7 	 (S[ng]\NP)/NP 	 2 	 profits producing
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+13 	 10 	 (S[b]\NP)/NP 	 2 	 chance have
+13 	 11 	 NP[nb]/N 	 1 	 chance a
+13 	 12 	 N/N 	 1 	 chance better
+13 	 15 	 (S[b]\NP)/NP 	 1 	 chance buy <XB>
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 buy back
+18 	 15 	 (S[b]\NP)/NP 	 2 	 companies buy
+18 	 17 	 NP[nb]/N 	 1 	 companies their
+<\s>
+<s id="wsj_2125.27"> 45
+4 	 2 	 N/N 	 1 	 observers most
+4 	 3 	 N/N 	 1 	 observers retailing
+4 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 observers expect
+5 	 0 	 S/S 	 1 	 expect Still
+6 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that expect
+11 	 7 	 NP/NP 	 1 	 LBOs all
+11 	 8 	 NP[nb]/N 	 1 	 LBOs the
+11 	 9 	 N/N 	 1 	 LBOs proposed
+11 	 10 	 N/N 	 1 	 LBOs retailing
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 LBOs will
+11 	 13 	 (S[b]\NP)/PP 	 1 	 LBOs depend <XB>
+12 	 6 	 S[em]/S[dcl] 	 1 	 will that
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 depend will
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 depend partly
+15 	 13 	 (S[b]\NP)/PP 	 2 	 on depend
+17 	 15 	 PP/NP 	 1 	 sale on
+17 	 16 	 NP[nb]/N 	 1 	 sale the
+17 	 18 	 (NP\NP)/NP 	 1 	 sale of
+20 	 18 	 (NP\NP)/NP 	 2 	 bonds of
+20 	 19 	 N/N 	 1 	 bonds junk
+23 	 18 	 (NP\NP)/NP 	 2 	 market of
+23 	 22 	 NP[nb]/N 	 1 	 market a
+23 	 25 	 (NP\NP)/NP 	 1 	 market in
+23 	 30 	 (NP\NP)/PP 	 1 	 market because <XU>
+25 	 24 	 (NP\NP)/(NP\NP) 	 2 	 in already
+26 	 25 	 (NP\NP)/NP 	 2 	 tumult in
+29 	 28 	 ((NP\NP)/(NP\NP))/NP 	 3 	 part in
+30 	 28 	 ((NP\NP)/(NP\NP))/NP 	 2 	 because in
+31 	 30 	 (NP\NP)/PP 	 2 	 of because
+32 	 31 	 PP/NP 	 1 	 concerns of
+32 	 33 	 (S[pss]\NP)/PP 	 1 	 concerns associated <XB>
+34 	 33 	 (S[pss]\NP)/PP 	 2 	 with associated
+35 	 34 	 PP/NP 	 1 	 bonds with
+35 	 36 	 S[pss]\NP 	 1 	 bonds issued <XB>
+36 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 issued by
+42 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 units by
+42 	 38 	 NP[nb]/N 	 1 	 units the
+42 	 39 	 N/N 	 1 	 units Federated
+42 	 41 	 N/N 	 1 	 units Allied
+42 	 43 	 (NP\NP)/NP 	 1 	 units of
+44 	 43 	 (NP\NP)/NP 	 2 	 Campeau of
+<\s>
+<s id="wsj_2125.28"> 34
+0 	 1 	 (NP\NP)/NP 	 1 	 Prices for
+0 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Prices are
+0 	 5 	 (S[adj]\NP)/NP 	 1 	 Prices lower <XB>
+0 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Prices will <XB>
+0 	 15 	 (S[b]\NP)/NP 	 1 	 Prices help <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 chains for
+3 	 2 	 N/N 	 1 	 chains retail
+4 	 13 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 are which
+4 	 18 	 (S[dcl]\S[dcl])/NP 	 1 	 are said
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 lower are
+5 	 7 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 2 	 lower than
+6 	 5 	 (S[adj]\NP)/NP 	 2 	 today lower
+8 	 9 	 S[dcl]\NP 	 1 	 they were
+9 	 7 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 3 	 were than
+9 	 11 	 (S\NP)\(S\NP) 	 2 	 were week
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week last
+14 	 13 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 will which
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 help will
+16 	 15 	 (S[b]\NP)/NP 	 2 	 management help
+20 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 Harrison said
+20 	 19 	 N/N 	 1 	 Harrison Gilbert
+22 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 chairman said
+22 	 23 	 (NP\NP)/NP 	 1 	 chairman of
+25 	 23 	 (NP\NP)/NP 	 2 	 Inc. of
+25 	 24 	 N/N 	 1 	 Inc. Financo
+29 	 23 	 (NP\NP)/NP 	 2 	 firm of
+29 	 27 	 NP[nb]/N 	 1 	 firm an
+29 	 28 	 N/N 	 1 	 firm investment-banking
+29 	 30 	 (S[ng]\NP)/PP 	 1 	 firm specializing <XB>
+31 	 30 	 (S[ng]\NP)/PP 	 2 	 in specializing
+33 	 31 	 PP/NP 	 1 	 acquisitions in
+33 	 32 	 N/N 	 1 	 acquisitions retailing
+<\s>
+<s id="wsj_2125.29"> 10
+2 	 1 	 NP[nb]/N 	 1 	 hurdle the
+2 	 3 	 (NP\NP)/NP 	 1 	 hurdle of
+2 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 hurdle has
+2 	 9 	 S[pss]\NP 	 1 	 hurdle resolved <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 financing of
+6 	 0 	 S/S 	 1 	 has But
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 has still
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to has
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+9 	 8 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 resolved be
+<\s>
+<s id="wsj_2125.30"> 29
+1 	 0 	 N/N 	 1 	 bondholders Potential
+1 	 2 	 (S[dcl]\NP)/(S[dcl]\NP) 	 1 	 bondholders will
+1 	 4 	 (S[dcl]\NP)/PP 	 1 	 bondholders look <XB>
+1 	 15 	 (S[dcl]\NP)/S[b] 	 1 	 bondholders insist <XU>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 will either
+4 	 2 	 (S[dcl]\NP)/(S[dcl]\NP) 	 2 	 look will
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 for look
+8 	 5 	 PP/NP 	 1 	 participation for
+8 	 6 	 N/N 	 1 	 participation greater
+8 	 7 	 N/N 	 1 	 participation equity
+8 	 9 	 (NP\NP)/NP 	 1 	 participation on
+10 	 9 	 (NP\NP)/NP 	 2 	 behalf on
+10 	 11 	 (NP\NP)/NP 	 1 	 behalf of
+12 	 11 	 (NP\NP)/NP 	 2 	 management of
+15 	 2 	 (S[dcl]\NP)/(S[dcl]\NP) 	 2 	 insist will
+18 	 16 	 NP[nb]/N 	 1 	 component the
+18 	 17 	 N/N 	 1 	 component equity
+18 	 19 	 (NP\NP)/NP 	 1 	 component of
+18 	 24 	 S[adj]\NP 	 1 	 component greater <XB>
+21 	 19 	 (NP\NP)/NP 	 2 	 deals of
+21 	 20 	 NP[nb]/N 	 1 	 deals the
+22 	 15 	 (S[dcl]\NP)/S[b] 	 2 	 be insist
+24 	 22 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 greater be
+24 	 23 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 greater substantially
+24 	 25 	 ((S[adj]\NP)\(S[adj]\NP))/PP 	 2 	 greater than
+26 	 25 	 ((S[adj]\NP)\(S[adj]\NP))/PP 	 3 	 in than
+28 	 26 	 PP/NP 	 1 	 past in
+28 	 27 	 NP[nb]/N 	 1 	 past the
+<\s>

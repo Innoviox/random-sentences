@@ -1,0 +1,329 @@
+<s id="wsj_1610.1"> 28
+1 	 0 	 N/N 	 1 	 Inc. Textron
+1 	 3 	 S[pss]\NP 	 1 	 Inc. hampered <XB>
+1 	 12 	 (S[dcl]\NP)/NP 	 1 	 Inc. reported
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 hampered by
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 slowdown by
+6 	 5 	 NP[nb]/N 	 1 	 slowdown a
+6 	 7 	 (NP\NP)/NP 	 1 	 slowdown in
+10 	 7 	 (NP\NP)/NP 	 2 	 sales in
+10 	 8 	 NP[nb]/N 	 1 	 sales its
+10 	 9 	 N/N 	 1 	 sales defense
+12 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 reported for
+15 	 14 	 (N/N)/(N/N) 	 2 	 % 8
+16 	 12 	 (S[dcl]\NP)/NP 	 2 	 decline reported
+16 	 13 	 NP[nb]/N 	 1 	 decline an
+16 	 15 	 N/N 	 1 	 decline %
+16 	 17 	 (NP\NP)/NP 	 1 	 decline in
+16 	 20 	 (NP\NP)/NP 	 1 	 decline on
+19 	 17 	 (NP\NP)/NP 	 2 	 earnings in
+19 	 18 	 N/N 	 1 	 earnings per-share
+23 	 20 	 (NP\NP)/NP 	 2 	 revenue on
+23 	 21 	 N/N 	 1 	 revenue nearly
+23 	 22 	 N/N 	 1 	 revenue flat
+27 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter for
+27 	 25 	 NP[nb]/N 	 1 	 quarter its
+27 	 26 	 N/N 	 1 	 quarter third
+<\s>
+<s id="wsj_1610.2"> 20
+5 	 0 	 NP[nb]/N 	 1 	 concern The
+5 	 1 	 N/N 	 1 	 concern aerospace
+5 	 3 	 N/N 	 1 	 concern financial
+5 	 4 	 N/N 	 1 	 concern services
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 concern said
+8 	 7 	 N/N 	 1 	 income net
+8 	 9 	 S[dcl]\NP 	 1 	 income fell
+9 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 fell said
+9 	 11 	 (S\NP)\(S\NP) 	 2 	 fell %
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+9 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 5
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 59.5
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 62.8
+<\s>
+<s id="wsj_1610.3"> 15
+0 	 1 	 (NP\NP)/NP 	 1 	 Revenue of
+0 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Revenue was
+0 	 7 	 (S[adj]\NP)/PP 	 1 	 Revenue unchanged <XB>
+2 	 1 	 (NP\NP)/NP 	 2 	 $ of
+4 	 2 	 N/N[num] 	 1 	 billion $
+4 	 3 	 N/N 	 1 	 billion 1.73
+7 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unchanged was
+7 	 6 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 unchanged almost
+8 	 7 	 (S[adj]\NP)/PP 	 2 	 from unchanged
+10 	 9 	 N/N 	 1 	 year last
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 year 's
+12 	 8 	 PP/NP 	 1 	 $ from
+12 	 11 	 (NP[nb]/N)\NP 	 1 	 $ 's
+14 	 12 	 N/N[num] 	 1 	 billion $
+14 	 13 	 N/N 	 1 	 billion 1.72
+<\s>
+<s id="wsj_1610.4"> 22
+1 	 0 	 N/N 	 1 	 net Per-share
+1 	 2 	 (NP\NP)/NP 	 1 	 net of
+1 	 11 	 S[dcl]\NP 	 1 	 net fell
+4 	 2 	 (NP\NP)/NP 	 2 	 cents of
+4 	 3 	 N/N 	 1 	 cents 66
+7 	 6 	 ((S\NP)/(S\NP))/PP 	 3 	 from down
+9 	 7 	 PP/NP 	 1 	 cents from
+9 	 8 	 N/N 	 1 	 cents 72
+11 	 6 	 ((S\NP)/(S\NP))/PP 	 2 	 fell down
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 fell by
+11 	 17 	 ((S\NP)\(S\NP))/PP 	 2 	 fell because
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 more by
+13 	 14 	 (NP\NP)/NP 	 1 	 more than
+16 	 14 	 (NP\NP)/NP 	 2 	 net than
+16 	 15 	 N/N 	 1 	 net overall
+18 	 17 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+20 	 18 	 PP/NP 	 1 	 shares of
+20 	 19 	 N/N 	 1 	 shares more
+20 	 21 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>
+<s id="wsj_1610.5"> 32
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 company said
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+5 	 4 	 N/N 	 1 	 results improved
+5 	 6 	 (NP\NP)/NP 	 1 	 results in
+5 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 results were
+5 	 11 	 S[pss]\NP 	 1 	 results negated <XB>
+9 	 6 	 (NP\NP)/NP 	 2 	 sector in
+9 	 7 	 NP[nb]/N 	 1 	 sector its
+9 	 8 	 N/N 	 1 	 sector financial-services
+10 	 3 	 S[em]/S[dcl] 	 1 	 were that
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 negated were
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 negated by
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 costs by
+14 	 13 	 N/N 	 1 	 costs increased
+14 	 15 	 (NP\NP)/NP 	 1 	 costs in
+19 	 15 	 (NP\NP)/NP 	 2 	 business in
+19 	 16 	 NP[nb]/N 	 1 	 business its
+19 	 17 	 N/N 	 1 	 business government
+19 	 18 	 N/N 	 1 	 business contract
+23 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 earnings by
+23 	 21 	 N/N 	 1 	 earnings lower
+23 	 22 	 N/N 	 1 	 earnings operating
+23 	 24 	 (NP\NP)/NP 	 1 	 earnings in
+27 	 24 	 (NP\NP)/NP 	 2 	 sector in
+27 	 25 	 NP[nb]/N 	 1 	 sector its
+27 	 26 	 N/N 	 1 	 sector commercial-products
+31 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 markets by
+31 	 29 	 N/N 	 1 	 markets soft
+31 	 30 	 N/N 	 1 	 markets automotive
+<\s>
+<s id="wsj_1610.6"> 9
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Net was
+0 	 2 	 S[pss]\NP 	 1 	 Net aided <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 aided was
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 aided by
+8 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 rate by
+8 	 4 	 NP[nb]/N 	 1 	 rate a
+8 	 5 	 N/N 	 1 	 rate lower
+8 	 6 	 N/N 	 1 	 rate income
+8 	 7 	 N/N 	 1 	 rate tax
+<\s>
+<s id="wsj_1610.7"> 14
+0 	 1 	 (NP\NP)/NP 	 1 	 Profit before
+0 	 3 	 S[dcl]\NP 	 1 	 Profit fell
+2 	 1 	 (NP\NP)/NP 	 2 	 taxes before
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 fell %
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+3 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 17
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 84.4
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 101.4
+<\s>
+<s id="wsj_1610.8"> 25
+3 	 0 	 (S/S)/NP 	 2 	 months For
+3 	 1 	 NP[nb]/N 	 1 	 months the
+3 	 2 	 N/N 	 1 	 months nine
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Textron reported
+6 	 0 	 (S/S)/NP 	 1 	 reported For
+6 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 reported on
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 net reported
+7 	 8 	 (NP\NP)/NP 	 1 	 net of
+9 	 8 	 (NP\NP)/NP 	 2 	 $ of
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 182.1
+14 	 8 	 (NP\NP)/NP 	 2 	 $ of
+14 	 16 	 (NP\NP)/N 	 1 	 $ a
+15 	 14 	 N/N[num] 	 1 	 2.06 $
+17 	 16 	 (NP\NP)/N 	 2 	 share a
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 revenue on
+20 	 21 	 (NP\NP)/NP 	 1 	 revenue of
+22 	 21 	 (NP\NP)/NP 	 2 	 $ of
+24 	 22 	 N/N[num] 	 1 	 billion $
+24 	 23 	 N/N 	 1 	 billion 5.41
+<\s>
+<s id="wsj_1610.9"> 22
+1 	 0 	 NP[nb]/N 	 1 	 year A
+1 	 2 	 (S/S)\NP 	 2 	 year ago
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 net was
+5 	 2 	 (S/S)\NP 	 1 	 was ago
+5 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 was on
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 $ was
+8 	 6 	 N/N[num] 	 1 	 million $
+8 	 7 	 N/N 	 1 	 million 170.4
+11 	 5 	 (S[dcl]\NP)/NP 	 2 	 $ was
+11 	 13 	 (NP\NP)/N 	 1 	 $ a
+12 	 11 	 N/N[num] 	 1 	 1.93 $
+14 	 13 	 (NP\NP)/N 	 2 	 share a
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 revenue on
+17 	 18 	 (NP\NP)/NP 	 1 	 revenue of
+19 	 18 	 (NP\NP)/NP 	 2 	 $ of
+21 	 19 	 N/N[num] 	 1 	 billion $
+21 	 20 	 N/N 	 1 	 billion 5.3
+<\s>
+<s id="wsj_1610.10"> 43
+2 	 0 	 NP[nb]/N 	 1 	 results The
+2 	 1 	 N/N 	 1 	 results nine-month
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 results included
+7 	 5 	 (N/N)/N[num] 	 2 	 million $
+7 	 6 	 N/N 	 1 	 million 9.5
+9 	 3 	 (S[dcl]\NP)/NP 	 2 	 charge included
+9 	 4 	 NP[nb]/N 	 1 	 charge a
+9 	 5 	 (N/N)/N[num] 	 1 	 charge $
+9 	 8 	 N/N 	 1 	 charge special
+9 	 10 	 (NP\NP)/NP 	 1 	 charge in
+9 	 12 	 (NP\NP)/NP 	 1 	 charge for
+11 	 10 	 (NP\NP)/NP 	 2 	 1989 in
+15 	 12 	 (NP\NP)/NP 	 2 	 settlement for
+15 	 13 	 NP[nb]/N 	 1 	 settlement an
+15 	 14 	 N/N 	 1 	 settlement arbitration
+15 	 16 	 (S[pss]\NP)/PP 	 1 	 settlement related <XB>
+17 	 16 	 (S[pss]\NP)/PP 	 2 	 to related
+20 	 17 	 PP/NP 	 1 	 sales to
+20 	 18 	 N/N 	 1 	 sales past
+20 	 19 	 N/N 	 1 	 sales export
+23 	 3 	 (S[dcl]\NP)/NP 	 2 	 $ included
+23 	 26 	 (NP\NP)/NP 	 1 	 $ in
+23 	 29 	 (NP\NP)/NP 	 1 	 $ in
+23 	 31 	 (S[pss]\NP)/PP 	 1 	 $ related <XB>
+25 	 23 	 N/N[num] 	 1 	 million $
+25 	 24 	 N/N 	 1 	 million 29.7
+28 	 26 	 (NP\NP)/NP 	 2 	 charges in
+28 	 27 	 N/N 	 1 	 charges extraordinary
+30 	 29 	 (NP\NP)/NP 	 2 	 1988 in
+32 	 31 	 (S[pss]\NP)/PP 	 2 	 to related
+35 	 32 	 PP/NP 	 1 	 line to
+35 	 33 	 NP[nb]/N 	 1 	 line a
+35 	 34 	 N/N 	 1 	 line former
+35 	 36 	 (NP\NP)/NP 	 1 	 line of
+37 	 36 	 (NP\NP)/NP 	 2 	 business of
+40 	 32 	 PP/NP 	 1 	 redemption to
+40 	 39 	 N/N 	 1 	 redemption early
+40 	 41 	 (NP\NP)/NP 	 1 	 redemption of
+42 	 41 	 (NP\NP)/NP 	 2 	 debt of
+<\s>
+<s id="wsj_1610.11"> 39
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Textron said
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 nine-months '
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 results '
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 results do
+5 	 8 	 (S[b]\NP)/NP 	 1 	 results include <XB>
+5 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 results do <XU>
+5 	 23 	 (S[b]\NP)/NP 	 1 	 results include <XU>
+6 	 2 	 S[em]/S[dcl] 	 1 	 do that
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 do n't
+8 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 include do
+9 	 8 	 (S[b]\NP)/NP 	 2 	 earnings include
+9 	 10 	 (NP\NP)/NP 	 1 	 earnings of
+12 	 10 	 (NP\NP)/NP 	 2 	 PLC of
+12 	 11 	 N/N 	 1 	 PLC Avdel
+16 	 10 	 (NP\NP)/NP 	 2 	 maker of
+16 	 14 	 NP[nb]/N 	 1 	 maker a
+16 	 15 	 N/N 	 1 	 maker British
+16 	 17 	 (NP\NP)/NP 	 1 	 maker of
+19 	 17 	 (NP\NP)/NP 	 2 	 fasteners of
+19 	 18 	 N/N 	 1 	 fasteners industrial
+22 	 2 	 S[em]/S[dcl] 	 1 	 do that
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 include do
+25 	 23 	 (S[b]\NP)/NP 	 2 	 costs include
+25 	 24 	 N/N 	 1 	 costs interest
+25 	 26 	 (NP\NP)/NP 	 1 	 costs of
+25 	 30 	 (NP\NP)/NP 	 1 	 costs on
+27 	 26 	 (NP\NP)/NP 	 2 	 $ of
+29 	 27 	 N/N[num] 	 1 	 million $
+29 	 28 	 N/N 	 1 	 million 16.4
+31 	 30 	 (NP\NP)/NP 	 2 	 borrowings on
+31 	 32 	 (S[pss]\NP)/PP 	 1 	 borrowings related <XB>
+33 	 32 	 (S[pss]\NP)/PP 	 2 	 to related
+36 	 33 	 PP/NP 	 1 	 purchase to
+36 	 34 	 NP[nb]/N 	 1 	 purchase the
+36 	 35 	 N/N 	 1 	 purchase proposed
+36 	 37 	 (NP\NP)/NP 	 1 	 purchase of
+38 	 37 	 (NP\NP)/NP 	 2 	 Avdel of
+<\s>
+<s id="wsj_1610.12"> 31
+2 	 0 	 NP[nb]/N 	 1 	 judge A
+2 	 1 	 N/N 	 1 	 judge federal
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 judge has
+2 	 4 	 (S[pt]\NP)/NP 	 1 	 judge issued <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 issued has
+4 	 11 	 ((S\NP)\(S\NP))/PP 	 2 	 issued because
+7 	 4 	 (S[pt]\NP)/NP 	 2 	 injunction issued
+7 	 5 	 NP[nb]/N 	 1 	 injunction a
+7 	 6 	 N/N 	 1 	 injunction preliminary
+7 	 8 	 (NP\NP)/NP 	 1 	 injunction against
+10 	 8 	 (NP\NP)/NP 	 2 	 purchase against
+10 	 9 	 NP[nb]/N 	 1 	 purchase the
+12 	 11 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+16 	 12 	 PP/NP 	 1 	 concerns of
+16 	 13 	 N/N 	 1 	 concerns Federal
+16 	 14 	 N/N 	 1 	 concerns Trade
+16 	 15 	 N/N 	 1 	 concerns Commission
+17 	 16 	 N/S[em] 	 1 	 that concerns
+19 	 18 	 NP[nb]/N 	 1 	 transaction the
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 transaction would
+19 	 21 	 (S[b]\NP)/NP 	 1 	 transaction reduce <XB>
+20 	 17 	 S[em]/S[dcl] 	 1 	 would that
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reduce would
+22 	 21 	 (S[b]\NP)/NP 	 2 	 competition reduce
+22 	 23 	 (NP\NP)/NP 	 1 	 competition in
+25 	 23 	 (NP\NP)/NP 	 2 	 production in
+25 	 24 	 NP[nb]/N 	 1 	 production the
+25 	 26 	 (NP\NP)/NP 	 1 	 production of
+28 	 26 	 (NP\NP)/NP 	 2 	 kinds of
+28 	 27 	 N/N 	 1 	 kinds two
+28 	 29 	 (NP\NP)/NP 	 1 	 kinds of
+30 	 29 	 (NP\NP)/NP 	 2 	 rivets of
+<\s>
+<s id="wsj_1610.13"> 35
+2 	 0 	 (S/S)/NP 	 2 	 quarter For
+2 	 1 	 NP[nb]/N 	 1 	 quarter the
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Textron said
+5 	 0 	 (S/S)/NP 	 1 	 said For
+7 	 6 	 N/N 	 1 	 revenue aerospace
+7 	 9 	 (NP\NP)/NP 	 1 	 revenue including
+7 	 16 	 S[dcl]\NP 	 1 	 revenue declined
+11 	 9 	 (NP\NP)/NP 	 2 	 helicopter including
+11 	 10 	 N/N 	 1 	 helicopter Bell
+14 	 9 	 (NP\NP)/NP 	 2 	 manufacture including
+14 	 13 	 N/N 	 1 	 manufacture jet-engine
+16 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 declined said
+16 	 18 	 (S\NP)\(S\NP) 	 2 	 declined %
+16 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 declined to
+16 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 declined from
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 9.8
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+22 	 20 	 N/N[num] 	 1 	 million $
+22 	 21 	 N/N 	 1 	 million 755.9
+24 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+26 	 24 	 N/N[num] 	 1 	 million $
+26 	 25 	 N/N 	 1 	 million 838.3
+29 	 28 	 NP[nb]/N 	 1 	 indication an
+29 	 30 	 (NP\NP)/NP 	 1 	 indication of
+34 	 30 	 (NP\NP)/NP 	 2 	 work of
+34 	 31 	 N/N 	 1 	 work slowing
+34 	 32 	 N/N 	 1 	 work government
+34 	 33 	 N/N 	 1 	 work defense
+<\s>

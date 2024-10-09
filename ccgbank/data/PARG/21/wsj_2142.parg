@@ -1,0 +1,769 @@
+<s id="wsj_2142.1"> 21
+4 	 0 	 N/N 	 1 	 investors Many
+4 	 1 	 N/N 	 1 	 investors skittish
+4 	 2 	 N/N 	 1 	 investors mutual
+4 	 3 	 N/N 	 1 	 investors fund
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 investors picked
+4 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 investors decided <XU>
+4 	 15 	 (S[b]\NP)/NP 	 1 	 investors cash <XU>
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 picked up
+5 	 9 	 (S\NP)\(S\NP) 	 2 	 picked yesterday
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 phone picked
+8 	 7 	 NP[nb]/N 	 1 	 phone the
+14 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to decided
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 to not
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cash to
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 cash in
+15 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 cash after
+18 	 15 	 (S[b]\NP)/NP 	 2 	 chips cash
+18 	 17 	 NP[nb]/N 	 1 	 chips their
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 all after
+<\s>
+<s id="wsj_2142.2"> 37
+3 	 1 	 NP[nb]/N 	 1 	 market the
+3 	 2 	 N/N 	 1 	 market stock
+3 	 4 	 S[dcl]\NP 	 1 	 market bounced
+4 	 0 	 (S/S)/S[dcl] 	 2 	 bounced As
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 bounced back
+7 	 8 	 (NP\NP)/NP 	 1 	 withdrawals of
+7 	 10 	 (NP\NP)/NP 	 1 	 withdrawals from
+7 	 13 	 (S[dcl]\NP)/PP 	 1 	 withdrawals amounted
+9 	 8 	 (NP\NP)/NP 	 2 	 money of
+12 	 10 	 (NP\NP)/NP 	 2 	 funds from
+12 	 11 	 N/N 	 1 	 funds stock
+13 	 0 	 (S/S)/S[dcl] 	 1 	 amounted As
+13 	 18 	 ((S\NP)\(S\NP))/PP 	 2 	 amounted compared
+14 	 13 	 (S[dcl]\NP)/PP 	 2 	 to amounted
+17 	 14 	 PP/NP 	 1 	 trickle to
+17 	 15 	 NP[nb]/N 	 1 	 trickle a
+17 	 16 	 N/N 	 1 	 trickle mere
+19 	 18 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+21 	 19 	 PP/NP 	 1 	 Monday with
+21 	 20 	 N/N 	 1 	 Monday Black
+21 	 23 	 (NP\NP)/S[dcl] 	 1 	 Monday when
+24 	 25 	 (S[dcl]\NP)/NP 	 1 	 investors dumped
+25 	 23 	 (NP\NP)/S[dcl] 	 2 	 dumped when
+26 	 25 	 (S[dcl]\NP)/NP 	 2 	 $ dumped
+28 	 26 	 N/N[num] 	 1 	 billion $
+28 	 27 	 N/N 	 1 	 billion 2.3
+32 	 31 	 (N/N)/(N/N) 	 2 	 2 about
+33 	 25 	 (S[dcl]\NP)/NP 	 2 	 % dumped
+33 	 32 	 N/N 	 1 	 % 2
+33 	 34 	 (NP\NP)/NP 	 1 	 % of
+36 	 34 	 (NP\NP)/NP 	 2 	 assets of
+36 	 35 	 N/N 	 1 	 assets stock-fund
+<\s>
+<s id="wsj_2142.3"> 30
+1 	 0 	 N/N 	 1 	 Investments Fidelity
+1 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 Investments said
+4 	 3 	 NP[nb]/N 	 1 	 nation the
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 nation 's
+8 	 5 	 (NP[nb]/N)\NP 	 1 	 company 's
+8 	 6 	 N/N 	 1 	 company largest
+8 	 7 	 N/N 	 1 	 company fund
+8 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+12 	 11 	 N/N 	 1 	 volume phone
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 volume was
+13 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+14 	 15 	 ((NP/NP)/(NP/NP))\(S[adj]\NP) 	 3 	 more than
+16 	 15 	 ((NP/NP)/(NP/NP))\(S[adj]\NP) 	 2 	 double than
+19 	 13 	 (S[dcl]\NP)/NP 	 2 	 level was
+19 	 16 	 NP/NP 	 1 	 level double
+19 	 17 	 NP[nb]/N 	 1 	 level its
+19 	 18 	 N/N 	 1 	 level typical
+23 	 13 	 (S[dcl]\NP)/NP 	 2 	 half was
+23 	 16 	 NP/NP 	 1 	 half double
+23 	 22 	 NP/NP 	 1 	 half still
+23 	 24 	 N\N 	 1 	 half that
+23 	 25 	 (NP\NP)/NP 	 1 	 half of
+26 	 25 	 (NP\NP)/NP 	 2 	 Oct. of
+27 	 26 	 N/N[num] 	 1 	 19 Oct.
+29 	 25 	 (NP\NP)/NP 	 2 	 1987 of
+<\s>
+<s id="wsj_2142.4"> 32
+1 	 0 	 N/N 	 1 	 outflows Net
+1 	 2 	 (NP\NP)/NP 	 1 	 outflows from
+1 	 7 	 S[dcl]\NP 	 1 	 outflows stood
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Fidelity 's
+6 	 2 	 (NP\NP)/NP 	 2 	 funds from
+6 	 4 	 (NP[nb]/N)\NP 	 1 	 funds 's
+6 	 5 	 N/N 	 1 	 funds stock
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 stood at
+7 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 stood below <XU>
+9 	 10 	 (N/N)\(S[adj]\NP) 	 2 	 less than
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ at
+11 	 10 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 300
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 % below
+18 	 17 	 N/N 	 1 	 % 15
+18 	 19 	 (NP\NP)/NP 	 1 	 % of
+23 	 21 	 (N/N)/N[num] 	 2 	 billion $
+23 	 22 	 N/N 	 1 	 billion 2
+25 	 19 	 (NP\NP)/NP 	 2 	 position of
+25 	 20 	 NP[nb]/N 	 1 	 position the
+25 	 21 	 (N/N)/N[num] 	 1 	 position $
+25 	 24 	 N/N 	 1 	 position cash
+25 	 26 	 (NP\NP)/NP 	 1 	 position of
+28 	 27 	 NP[nb]/N 	 1 	 firm the
+28 	 29 	 (NP[nb]/N)\NP 	 2 	 firm 's
+31 	 26 	 (NP\NP)/NP 	 2 	 portfolios of
+31 	 29 	 (NP[nb]/N)\NP 	 1 	 portfolios 's
+31 	 30 	 N/N 	 1 	 portfolios stock
+<\s>
+<s id="wsj_2142.5"> 13
+0 	 1 	 (NP\NP)/NP 	 1 	 Much of
+0 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Much was
+0 	 5 	 (S[pss]\NP)/PP 	 1 	 Much switched <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 money of
+3 	 2 	 NP[nb]/N 	 1 	 money the
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 switched was
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 into switched
+8 	 7 	 NP[nb]/N 	 1 	 firm the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 firm 's
+12 	 6 	 PP/NP 	 1 	 funds into
+12 	 9 	 (NP[nb]/N)\NP 	 1 	 funds 's
+12 	 10 	 N/N 	 1 	 funds money
+12 	 11 	 N/N 	 1 	 funds market
+<\s>
+<s id="wsj_2142.6"> 19
+0 	 1 	 (NP\NP)/NP 	 1 	 Outflows since
+0 	 7 	 (S[dcl]\NP)/PP 	 1 	 Outflows remain
+3 	 1 	 (NP\NP)/NP 	 2 	 close since
+3 	 2 	 NP[nb]/N 	 1 	 close the
+3 	 4 	 (NP\NP)/NP 	 1 	 close of
+3 	 6 	 NP\NP 	 1 	 close Friday
+5 	 4 	 (NP\NP)/NP 	 2 	 trading of
+7 	 18 	 (S[dcl]\S[dcl])\NP 	 1 	 remain said
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 below remain
+11 	 8 	 PP/NP 	 1 	 level below
+11 	 9 	 NP/NP 	 1 	 level one-third
+11 	 10 	 NP[nb]/N 	 1 	 level their
+11 	 12 	 (NP\NP)/(S[adj]\NP) 	 1 	 level of
+14 	 13 	 N/N 	 1 	 years two
+14 	 15 	 (S[adj]\NP)\NP 	 2 	 years ago
+15 	 12 	 (NP\NP)/(S[adj]\NP) 	 2 	 ago of
+17 	 18 	 (S[dcl]\S[dcl])\NP 	 2 	 Fidelity said
+<\s>
+<s id="wsj_2142.7"> 9
+3 	 0 	 N/N 	 1 	 companies Other
+3 	 1 	 N/N 	 1 	 companies mutual
+3 	 2 	 N/N 	 1 	 companies fund
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 companies reported
+6 	 5 	 (N/N)/(N/N) 	 2 	 lighter even
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 requests reported
+8 	 6 	 N/N 	 1 	 requests lighter
+8 	 7 	 N/N 	 1 	 requests withdrawal
+<\s>
+<s id="wsj_2142.8"> 15
+2 	 1 	 NP[nb]/N 	 1 	 investors some
+2 	 3 	 (NP\NP)/NP 	 1 	 investors at
+2 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 investors began
+2 	 9 	 (S[ng]\NP)/NP 	 1 	 investors buying <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 Fidelity at
+6 	 3 	 (NP\NP)/NP 	 2 	 elsewhere at
+8 	 0 	 S/S 	 1 	 began And
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 began even
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 buying began
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 buying during
+11 	 9 	 (S[ng]\NP)/NP 	 2 	 funds buying
+11 	 10 	 N/N 	 1 	 funds stock
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 day during
+14 	 13 	 NP[nb]/N 	 1 	 day the
+<\s>
+<s id="wsj_2142.9"> 37
+1 	 0 	 N/N 	 1 	 years Two
+1 	 2 	 (S/S)\NP 	 2 	 years ago
+4 	 5 	 (S[dcl]\NP[thr])/NP 	 1 	 there was
+5 	 2 	 (S/S)\NP 	 1 	 was ago
+5 	 21 	 (S[dcl]\S[dcl])/NP 	 1 	 was said
+7 	 5 	 (S[dcl]\NP[thr])/NP 	 2 	 lot was
+7 	 6 	 NP[nb]/N 	 1 	 lot a
+7 	 8 	 (NP\NP)/NP 	 1 	 lot of
+10 	 8 	 (NP\NP)/NP 	 2 	 activity of
+10 	 9 	 N/N 	 1 	 activity redemption
+12 	 5 	 (S[dcl]\NP[thr])/NP 	 2 	 trouble was
+12 	 13 	 ((NP\NP)/(S[ng]\NP))/NP 	 1 	 trouble with
+14 	 13 	 ((NP\NP)/(S[ng]\NP))/NP 	 3 	 people with
+14 	 15 	 S[ng]\NP 	 1 	 people getting <XB>
+15 	 13 	 ((NP\NP)/(S[ng]\NP))/NP 	 2 	 getting with
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 getting through
+15 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 getting on
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 phone on
+19 	 18 	 NP[nb]/N 	 1 	 phone the
+23 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 McGrath said
+23 	 22 	 N/N 	 1 	 McGrath Kathryn
+25 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 head said
+25 	 26 	 (NP\NP)/NP 	 1 	 head of
+30 	 26 	 (NP\NP)/NP 	 2 	 division of
+30 	 27 	 NP[nb]/N 	 1 	 division the
+30 	 28 	 N/N 	 1 	 division investment
+30 	 29 	 N/N 	 1 	 division management
+30 	 31 	 (NP\NP)/NP 	 1 	 division of
+36 	 31 	 (NP\NP)/NP 	 2 	 Commission of
+36 	 32 	 NP[nb]/N 	 1 	 Commission the
+36 	 33 	 N/N 	 1 	 Commission Securities
+36 	 35 	 N/N 	 1 	 Commission Exchange
+<\s>
+<s id="wsj_2142.10"> 10
+1 	 0 	 (S/S)/N 	 2 	 time This
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 We do
+3 	 6 	 (S[b]\NP)/NP 	 1 	 We have <XB>
+4 	 0 	 (S/S)/N 	 1 	 do This
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 do n't
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have do
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 have at
+7 	 6 	 (S[b]\NP)/NP 	 2 	 that have
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 all at
+<\s>
+<s id="wsj_2142.11"> 14
+1 	 0 	 (S/S)/NP 	 2 	 course Of
+5 	 3 	 NP[nb]/N 	 1 	 calm the
+5 	 4 	 N/N 	 1 	 calm relative
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 calm could
+5 	 8 	 S[pss]\NP 	 1 	 calm jolted <XB>
+6 	 0 	 (S/S)/NP 	 1 	 could Of
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+8 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 jolted be
+8 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 jolted if
+11 	 10 	 NP[nb]/N 	 1 	 market the
+11 	 12 	 S[dcl]\NP 	 1 	 market plunges
+12 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 plunges if
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 plunges again
+<\s>
+<s id="wsj_2142.12"> 23
+3 	 1 	 NP[nb]/N 	 1 	 surge any
+3 	 2 	 N/N 	 1 	 surge strong
+3 	 4 	 (NP\NP)/NP 	 1 	 surge in
+3 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 surge could
+3 	 7 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 surge force <XB>
+5 	 4 	 (NP\NP)/NP 	 2 	 redemptions in
+6 	 0 	 S/S 	 1 	 could And
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 force could
+9 	 7 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 funds force
+9 	 8 	 NP[nb]/N 	 1 	 funds some
+9 	 11 	 (S[b]\NP)/NP 	 1 	 funds dump <XB>
+9 	 14 	 (S[b]\NP)/NP 	 1 	 funds raise <XB>
+10 	 7 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to force
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 dump to
+11 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 dump as
+12 	 11 	 (S[b]\NP)/NP 	 2 	 stocks dump
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 raise to
+15 	 14 	 (S[b]\NP)/NP 	 2 	 cash raise
+18 	 19 	 S[dcl]\NP 	 1 	 some did
+19 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 did as
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 did during
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 Monday during
+22 	 21 	 N/N 	 1 	 Monday Black
+<\s>
+<s id="wsj_2142.13"> 9
+1 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 funds are
+1 	 5 	 S[adj]\NP 	 1 	 funds prepared <XB>
+3 	 0 	 S/S 	 1 	 are But
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 are generally
+3 	 8 	 ((S\NP)\(S\NP))\NP 	 2 	 are around
+5 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 prepared are
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 prepared better
+7 	 6 	 NP[nb]/N 	 1 	 time this
+7 	 8 	 ((S\NP)\(S\NP))\NP 	 3 	 time around
+<\s>
+<s id="wsj_2142.14"> 28
+2 	 0 	 (S/S)/NP 	 2 	 group As
+2 	 1 	 NP[nb]/N 	 1 	 group a
+6 	 4 	 NP[nb]/N 	 1 	 position their
+6 	 5 	 N/N 	 1 	 position cash
+6 	 7 	 (NP\NP)/NP 	 1 	 position of
+6 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 position is
+6 	 23 	 S[adj]\NP 	 1 	 position higher <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 % of
+9 	 8 	 N/N 	 1 	 % 10.2
+9 	 10 	 (NP\NP)/NP 	 1 	 % of
+9 	 12 	 (NP\NP)/NP 	 1 	 % in
+9 	 14 	 (NP\NP)/NP 	 1 	 % --
+11 	 10 	 (NP\NP)/NP 	 2 	 assets of
+13 	 12 	 (NP\NP)/NP 	 2 	 August in
+17 	 14 	 (NP\NP)/NP 	 2 	 figure --
+17 	 15 	 NP[nb]/N 	 1 	 figure the
+17 	 16 	 N/N 	 1 	 figure latest
+17 	 18 	 S[adj]\NP 	 1 	 figure available <XB>
+20 	 0 	 (S/S)/NP 	 1 	 is As
+22 	 21 	 ((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)) 	 3 	 % 14
+23 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 higher is
+23 	 22 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 higher %
+23 	 24 	 ((S[adj]\NP)\(S[adj]\NP))/(S[adj]\NP) 	 2 	 higher than
+26 	 25 	 N/N 	 1 	 years two
+26 	 27 	 (S[adj]\NP)\NP 	 2 	 years earlier
+27 	 24 	 ((S[adj]\NP)\(S[adj]\NP))/(S[adj]\NP) 	 3 	 earlier than
+<\s>
+<s id="wsj_2142.15"> 11
+2 	 0 	 N/N 	 1 	 managers Many
+2 	 1 	 N/N 	 1 	 managers fund
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 managers have
+2 	 4 	 (S[pt]\NP)/NP 	 1 	 managers boosted <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 boosted have
+4 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 boosted in
+7 	 4 	 (S[pt]\NP)/NP 	 2 	 levels boosted
+7 	 5 	 NP[nb]/N 	 1 	 levels their
+7 	 6 	 N/N 	 1 	 levels cash
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 weeks in
+10 	 9 	 N/N 	 1 	 weeks recent
+<\s>
+<s id="wsj_2142.16"> 11
+2 	 0 	 NP[nb]/N 	 1 	 flurry The
+2 	 1 	 N/N 	 1 	 flurry biggest
+2 	 3 	 (NP\NP)/NP 	 1 	 flurry of
+2 	 6 	 S[dcl]\NP 	 1 	 flurry came
+5 	 3 	 (NP\NP)/NP 	 2 	 activity of
+5 	 4 	 N/N 	 1 	 activity investor
+6 	 7 	 ((S\NP)\(S\NP))/PP 	 2 	 came early
+8 	 7 	 ((S\NP)\(S\NP))/PP 	 3 	 in early
+10 	 8 	 PP/NP 	 1 	 day in
+10 	 9 	 NP[nb]/N 	 1 	 day the
+<\s>
+<s id="wsj_2142.17"> 21
+2 	 0 	 N/N 	 1 	 Inc. Vanguard
+2 	 1 	 N/N 	 1 	 Inc. Group
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Inc. saw
+3 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 saw after
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 exchanges saw
+5 	 4 	 N/N 	 1 	 exchanges heavy
+5 	 6 	 (NP\NP)/NP 	 1 	 exchanges from
+5 	 9 	 (NP\NP)/NP 	 1 	 exchanges into
+8 	 6 	 (NP\NP)/NP 	 2 	 funds from
+8 	 7 	 N/N 	 1 	 funds stock
+12 	 9 	 (NP\NP)/NP 	 2 	 funds into
+12 	 10 	 N/N 	 1 	 funds money
+12 	 11 	 N/N 	 1 	 funds market
+16 	 14 	 NP[nb]/N 	 1 	 lines the
+16 	 15 	 N/N 	 1 	 lines telephone
+16 	 17 	 S[dcl]\NP 	 1 	 lines opened
+17 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 opened after
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 opened at
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 8:30 at
+19 	 20 	 N\N 	 1 	 8:30 a.m
+<\s>
+<s id="wsj_2142.18"> 15
+3 	 0 	 (S/S)/NP 	 2 	 hour In
+3 	 1 	 NP[nb]/N 	 1 	 hour the
+3 	 2 	 N/N 	 1 	 hour first
+7 	 6 	 (N/N)/(N/N) 	 2 	 nervous real
+8 	 5 	 NP[nb]/N 	 1 	 folks the
+8 	 7 	 N/N 	 1 	 folks nervous
+8 	 9 	 S[dcl]\NP 	 1 	 folks came
+9 	 0 	 (S/S)/NP 	 1 	 came In
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 came along
+9 	 14 	 (S[dcl]\S[dcl])\NP 	 1 	 came said
+13 	 12 	 NP[nb]/N 	 1 	 spokesman a
+13 	 14 	 (S[dcl]\S[dcl])\NP 	 2 	 spokesman said
+<\s>
+<s id="wsj_2142.19"> 13
+3 	 1 	 NP[nb]/N 	 1 	 pace the
+3 	 2 	 N/N 	 1 	 pace horrendous
+3 	 4 	 (NP\NP)/NP 	 1 	 pace of
+3 	 7 	 (NP\NP)/NP 	 1 	 pace in
+3 	 11 	 S[dcl]\NP 	 1 	 pace slowed
+6 	 4 	 (NP\NP)/NP 	 2 	 volume of
+6 	 5 	 N/N 	 1 	 volume call
+10 	 7 	 (NP\NP)/NP 	 2 	 half-hour in
+10 	 8 	 NP[nb]/N 	 1 	 half-hour the
+10 	 9 	 N/N 	 1 	 half-hour first
+11 	 0 	 S/S 	 1 	 slowed But
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 slowed considerably
+<\s>
+<s id="wsj_2142.20"> 23
+6 	 0 	 (S/S)/NP 	 2 	 Inc. At
+6 	 1 	 N/N 	 1 	 Inc. Scudder
+6 	 3 	 N/N 	 1 	 Inc. Stevens
+6 	 4 	 N/N 	 1 	 Inc. &
+6 	 5 	 N/N 	 1 	 Inc. Clark
+9 	 8 	 N/N 	 1 	 calls phone
+9 	 10 	 S[dcl]\NP 	 1 	 calls came
+10 	 0 	 (S/S)/NP 	 1 	 came At
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 came in
+10 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 came at
+10 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 came through
+14 	 13 	 (NP/NP)/(NP/NP) 	 2 	 % 40
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 more at
+15 	 14 	 NP/NP 	 1 	 more %
+15 	 16 	 (NP\NP)/NP 	 1 	 more than
+19 	 16 	 (NP\NP)/NP 	 2 	 pace than
+19 	 17 	 NP[nb]/N 	 1 	 pace the
+19 	 18 	 N/N 	 1 	 pace normal
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 afternoon through
+22 	 21 	 N/N 	 1 	 afternoon early
+<\s>
+<s id="wsj_2142.21"> 17
+0 	 1 	 (NP\NP)/NP 	 1 	 Most of
+0 	 4 	 S[dcl]\NP 	 1 	 Most came
+3 	 1 	 (NP\NP)/NP 	 2 	 increase of
+3 	 2 	 NP[nb]/N 	 1 	 increase that
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 came in
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 hour in
+8 	 6 	 NP[nb]/N 	 1 	 hour the
+8 	 7 	 N/N 	 1 	 hour first
+8 	 9 	 (NP\NP)/S[dcl] 	 1 	 hour after
+12 	 10 	 NP[nb]/N 	 1 	 lines the
+12 	 11 	 N/N 	 1 	 lines phone
+12 	 13 	 S[dcl]\NP 	 1 	 lines opened
+13 	 9 	 (NP\NP)/S[dcl] 	 2 	 opened after
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 opened at
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 8 at
+15 	 16 	 N\N 	 1 	 8 a.m
+<\s>
+<s id="wsj_2142.22"> 16
+1 	 2 	 S[dcl]\NP 	 1 	 stocks rose
+2 	 0 	 (S/S)/S[dcl] 	 2 	 rose As
+5 	 4 	 (S/S)/NP 	 2 	 fact in
+8 	 7 	 NP[nb]/N 	 1 	 investors some
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 investors changed
+8 	 12 	 (S[dcl]\NP)/NP 	 1 	 investors reversed <XU>
+9 	 0 	 (S/S)/S[dcl] 	 1 	 changed As
+9 	 4 	 (S/S)/NP 	 1 	 changed in
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 course changed
+12 	 0 	 (S/S)/S[dcl] 	 1 	 reversed As
+12 	 4 	 (S/S)/NP 	 1 	 reversed in
+15 	 12 	 (S[dcl]\NP)/NP 	 2 	 orders reversed
+15 	 13 	 NP[nb]/N 	 1 	 orders their
+15 	 14 	 N/N 	 1 	 orders sell
+<\s>
+<s id="wsj_2142.23"> 12
+1 	 0 	 N/N 	 1 	 funds Many
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 funds allow
+3 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 investors allow
+3 	 5 	 (S[b]\NP)/NP 	 1 	 investors void <XB>
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 void to
+5 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 void before
+6 	 5 	 (S[b]\NP)/NP 	 2 	 orders void
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 close before
+9 	 8 	 NP[nb]/N 	 1 	 close the
+9 	 10 	 (NP\NP)/NP 	 1 	 close of
+11 	 10 	 (NP\NP)/NP 	 2 	 trading of
+<\s>
+<s id="wsj_2142.24"> 43
+1 	 0 	 (S/S)/NP 	 2 	 Scudder At
+8 	 3 	 (S/S)/NP 	 2 	 group at
+8 	 4 	 NP[nb]/N 	 1 	 group the
+8 	 5 	 N/N 	 1 	 group smaller
+8 	 6 	 N/N 	 1 	 group Ivy
+8 	 7 	 N/N 	 1 	 group funds
+8 	 9 	 (NP\NP)/NP 	 1 	 group in
+10 	 9 	 (NP\NP)/NP 	 2 	 Hingham in
+10 	 14 	 (NP\NP)/NP 	 1 	 Hingham for
+12 	 9 	 (NP\NP)/NP 	 2 	 Mass. in
+12 	 14 	 (NP\NP)/NP 	 1 	 Mass. for
+15 	 14 	 (NP\NP)/NP 	 2 	 instance for
+18 	 17 	 NP[nb]/N 	 1 	 shareholders some
+18 	 19 	 S[dcl]\NP 	 1 	 shareholders called
+18 	 25 	 (S[b]\NP)/NP 	 1 	 shareholders switch <XB>
+18 	 37 	 S[dcl]\NP 	 1 	 shareholders called <XU>
+18 	 40 	 (S[b]\NP)/NP 	 1 	 shareholders reverse <XU>
+19 	 0 	 (S/S)/NP 	 1 	 called At <XU>
+19 	 3 	 (S/S)/NP 	 1 	 called at
+19 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 called in
+21 	 20 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 in early
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 morning in
+23 	 22 	 NP[nb]/N 	 1 	 morning the
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 switch to
+25 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 switch from
+25 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 switch to
+26 	 25 	 (S[b]\NP)/NP 	 2 	 money switch
+29 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 funds from
+29 	 28 	 N/N 	 1 	 funds stock
+33 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 funds to
+33 	 31 	 N/N 	 1 	 funds money
+33 	 32 	 N/N 	 1 	 funds market
+37 	 0 	 (S/S)/NP 	 1 	 called At <XU>
+37 	 3 	 (S/S)/NP 	 1 	 called at
+37 	 36 	 (S\NP)/(S\NP) 	 2 	 called later
+37 	 38 	 (S\NP)\(S\NP) 	 2 	 called back
+40 	 39 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reverse to
+42 	 40 	 (S[b]\NP)/NP 	 2 	 switches reverse
+42 	 41 	 NP[nb]/N 	 1 	 switches the
+<\s>
+<s id="wsj_2142.25"> 26
+3 	 1 	 N/N 	 1 	 trades mutual
+3 	 2 	 N/N 	 1 	 trades fund
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 trades do
+3 	 6 	 (S[b]\NP)/NP 	 1 	 trades take <XB>
+4 	 0 	 (S/S)/S[dcl] 	 2 	 do Because
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 do n't
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take do
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 take until
+7 	 6 	 (S[b]\NP)/NP 	 2 	 effect take
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 market until
+10 	 9 	 NP[nb]/N 	 1 	 market the
+10 	 11 	 N\N 	 1 	 market close
+10 	 13 	 (NP\NP)/NP 	 1 	 market in
+10 	 17 	 (NP\NP)/NP 	 1 	 market at <XU>
+15 	 13 	 (NP\NP)/NP 	 2 	 case in
+15 	 14 	 NP[nb]/N 	 1 	 case this
+18 	 17 	 (NP\NP)/NP 	 2 	 4 at
+18 	 19 	 N\N 	 1 	 4 p.m.
+22 	 21 	 NP[nb]/N 	 1 	 shareholders these
+22 	 24 	 S[dcl]\NP 	 1 	 shareholders stayed
+24 	 0 	 (S/S)/S[dcl] 	 1 	 stayed Because
+24 	 23 	 (S\NP)/(S\NP) 	 2 	 stayed effectively
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 stayed put
+<\s>
+<s id="wsj_2142.26"> 36
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Fidelity 's
+3 	 0 	 (S/S)/NP 	 2 	 office At
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 office 's
+3 	 4 	 (NP\NP)/NP 	 1 	 office in
+6 	 4 	 (NP\NP)/NP 	 2 	 Boston in
+6 	 5 	 N/N 	 1 	 Boston downtown
+9 	 8 	 N/N 	 1 	 Sherman Gerald
+9 	 10 	 S[dcl]\NP 	 1 	 Sherman walked
+9 	 17 	 (S[dcl]\NP)/NP 	 1 	 Sherman placed <XU>
+10 	 0 	 (S/S)/NP 	 1 	 walked At
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 walked in
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 walked after
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 after shortly
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 7:30 after
+14 	 15 	 N\N 	 1 	 7:30 a.m.
+17 	 0 	 (S/S)/NP 	 1 	 placed At
+19 	 17 	 (S[dcl]\NP)/NP 	 2 	 order placed
+19 	 18 	 NP[nb]/N 	 1 	 order an
+19 	 21 	 (S[b]\NP)/NP 	 1 	 order switch <XB>
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 switch to
+21 	 25 	 ((S\NP)\(S\NP))/PP 	 2 	 switch out
+21 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 switch into <XU>
+24 	 21 	 (S[b]\NP)/NP 	 2 	 accounts switch
+24 	 22 	 NP[nb]/N 	 1 	 accounts his
+24 	 23 	 N/N 	 1 	 accounts retirement
+26 	 25 	 ((S\NP)\(S\NP))/PP 	 3 	 of out
+29 	 26 	 PP/NP 	 1 	 funds of
+29 	 27 	 N/N 	 1 	 funds three
+29 	 28 	 N/N 	 1 	 funds stock
+35 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 fund into
+35 	 32 	 NP[nb]/N 	 1 	 fund a
+35 	 33 	 N/N 	 1 	 fund money
+35 	 34 	 N/N 	 1 	 fund market
+<\s>
+<s id="wsj_2142.27"> 22
+2 	 1 	 (S/S)/NP 	 2 	 3:15 by
+2 	 3 	 N\N 	 1 	 3:15 p.m.
+7 	 5 	 (S/S)/NP 	 2 	 market with
+7 	 6 	 NP[nb]/N 	 1 	 market the
+7 	 9 	 S[adj]\NP 	 1 	 market ahead <XB>
+9 	 8 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 ahead comfortably
+9 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 ahead for
+12 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 day for
+12 	 11 	 NP[nb]/N 	 1 	 day the
+15 	 14 	 N/N 	 1 	 Sherman Mr.
+15 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Sherman was
+15 	 17 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Sherman preparing <XB>
+15 	 19 	 (S[b]\NP)/NP 	 1 	 Sherman undo <XB>
+16 	 0 	 S/S 	 1 	 was But
+16 	 1 	 (S/S)/NP 	 1 	 was by
+16 	 5 	 (S/S)/NP 	 1 	 was with
+17 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 preparing was
+18 	 17 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to preparing
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 undo to
+21 	 19 	 (S[b]\NP)/NP 	 2 	 switch undo
+21 	 20 	 NP[nb]/N 	 1 	 switch his
+<\s>
+<s id="wsj_2142.28"> 23
+0 	 1 	 ((S[dcl]\NP[expl])/(S[to]\NP))/NP 	 1 	 It 's
+1 	 11 	 (S[dcl]\S[dcl])/NP 	 1 	 's said
+4 	 1 	 ((S[dcl]\NP[expl])/(S[to]\NP))/NP 	 3 	 feeling 's
+4 	 2 	 NP[nb]/N 	 1 	 feeling a
+4 	 3 	 N/N 	 1 	 feeling nice
+5 	 1 	 ((S[dcl]\NP[expl])/(S[to]\NP))/NP 	 2 	 to 's
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 know to
+7 	 6 	 (S[b]\NP)/S[em] 	 2 	 that know
+8 	 9 	 S[dcl]\NP 	 1 	 things stabilized
+9 	 7 	 S[em]/S[dcl] 	 1 	 stabilized that
+13 	 11 	 (S[dcl]\S[dcl])/NP 	 2 	 Sherman said
+13 	 12 	 N/N 	 1 	 Sherman Mr.
+17 	 11 	 (S[dcl]\S[dcl])/NP 	 2 	 co-owner said
+17 	 15 	 NP[nb]/N 	 1 	 co-owner the
+17 	 16 	 N/N 	 1 	 co-owner 51-year-old
+17 	 18 	 (NP\NP)/NP 	 1 	 co-owner of
+22 	 18 	 (NP\NP)/NP 	 2 	 store of
+22 	 19 	 NP[nb]/N 	 1 	 store a
+22 	 20 	 N/N 	 1 	 store discount
+22 	 21 	 N/N 	 1 	 store department
+<\s>
+<s id="wsj_2142.29"> 24
+2 	 1 	 NP[nb]/N 	 1 	 investors some
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 investors continued
+2 	 5 	 S[b]\NP 	 1 	 investors switch <XB>
+3 	 0 	 S/S 	 1 	 continued But
+3 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 continued despite
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continued
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 switch to
+5 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 switch of
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 of out
+12 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 funds of
+12 	 8 	 N/N 	 1 	 funds high-risk
+12 	 10 	 N/N 	 1 	 funds high-yield
+12 	 11 	 N/N 	 1 	 funds junk
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 yesterday 's
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 rebound despite
+16 	 15 	 (NP[nb]/N)\NP 	 1 	 rebound 's
+16 	 17 	 (NP\NP)/NP 	 1 	 rebound from
+19 	 18 	 NP[nb]/N 	 1 	 market that
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 market 's
+23 	 17 	 (NP\NP)/NP 	 2 	 declines from
+23 	 20 	 (NP[nb]/N)\NP 	 1 	 declines 's
+23 	 21 	 N/N 	 1 	 declines recent
+23 	 22 	 N/N 	 1 	 declines price
+<\s>
+<s id="wsj_2142.30"> 34
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Shareholders have
+0 	 4 	 (S[ng]\NP)/PP 	 1 	 Shareholders bailing <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+4 	 2 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 bailing been
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 bailing steadily
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 bailing out
+4 	 11 	 ((S\NP)\(S\NP))/N 	 2 	 bailing the
+4 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 bailing as
+6 	 4 	 (S[ng]\NP)/PP 	 2 	 of bailing
+10 	 6 	 PP/NP 	 1 	 funds of
+10 	 7 	 N/N 	 1 	 funds several
+10 	 8 	 N/N 	 1 	 funds big
+10 	 9 	 N/N 	 1 	 funds junk
+14 	 11 	 ((S\NP)\(S\NP))/N 	 3 	 weeks the
+14 	 12 	 N/N 	 1 	 weeks past
+14 	 13 	 N/N 	 1 	 weeks several
+19 	 17 	 (N/N)/N[num] 	 2 	 billion $
+19 	 18 	 N/N 	 1 	 billion 200
+20 	 16 	 NP[nb]/N 	 1 	 market the
+20 	 17 	 (N/N)/N[num] 	 1 	 market $
+20 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 market was
+20 	 22 	 S[pss]\NP 	 1 	 market jolted <XB>
+21 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was as
+22 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 jolted was
+22 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 jolted by
+26 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 crunch by
+26 	 24 	 NP[nb]/N 	 1 	 crunch a
+26 	 25 	 N/N 	 1 	 crunch cash
+26 	 27 	 (NP\NP)/NP 	 1 	 crunch at
+29 	 27 	 (NP\NP)/NP 	 2 	 Corp. at
+29 	 28 	 N/N 	 1 	 Corp. Campeau
+33 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 prices by
+33 	 31 	 N/N 	 1 	 prices steadily
+33 	 32 	 N/N 	 1 	 prices declining
+<\s>
+<s id="wsj_2142.31"> 15
+0 	 1 	 (NP\NP)/NP 	 1 	 Much of
+0 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Much has
+0 	 6 	 S[pss]\NP 	 1 	 Much switched <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 money of
+3 	 2 	 NP[nb]/N 	 1 	 money the
+4 	 14 	 (S[dcl]\S[dcl])\NP 	 1 	 has say
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+6 	 5 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 switched been
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 switched into
+10 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 funds into
+10 	 8 	 N/N 	 1 	 funds money
+10 	 9 	 N/N 	 1 	 funds market
+13 	 12 	 N/N 	 1 	 executives fund
+13 	 14 	 (S[dcl]\S[dcl])\NP 	 2 	 executives say
+<\s>
+<s id="wsj_2142.32"> 20
+1 	 0 	 (S/S)/PP 	 2 	 of Instead
+2 	 1 	 PP/(S[ng]\NP) 	 1 	 selling of
+3 	 2 	 (S[ng]\NP)/NP 	 2 	 bonds selling
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+6 	 5 	 (S[b]\NP)/NP 	 2 	 redemptions meet
+11 	 10 	 NP[nb]/N 	 1 	 funds some
+11 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 funds have
+11 	 13 	 (S[pt]\NP)/PP 	 1 	 funds borrowed <XB>
+11 	 17 	 (S[b]\NP)/NP 	 1 	 funds meet <XB>
+12 	 0 	 (S/S)/PP 	 1 	 have Instead
+12 	 8 	 S/S 	 1 	 have however
+13 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 borrowed have
+14 	 13 	 (S[pt]\NP)/PP 	 2 	 from borrowed
+15 	 14 	 PP/NP 	 1 	 banks from
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+19 	 17 	 (S[b]\NP)/NP 	 2 	 requests meet
+19 	 18 	 N/N 	 1 	 requests withdrawal
+<\s>
+<s id="wsj_2142.33"> 6
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 This avoids
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 This knocking <XB>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 knocking avoids
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 knocking down
+2 	 5 	 (S\NP)\(S\NP) 	 2 	 knocking further
+4 	 2 	 (S[ng]\NP)/NP 	 2 	 prices knocking
+<\s>
+<s id="wsj_2142.34"> 33
+3 	 1 	 (N/N)/N[num] 	 2 	 billion $
+3 	 2 	 N/N 	 1 	 billion 1.1
+9 	 0 	 NP[nb]/N 	 1 	 Fund The
+9 	 1 	 (N/N)/N[num] 	 1 	 Fund $
+9 	 4 	 N/N 	 1 	 Fund T.
+9 	 5 	 N/N 	 1 	 Fund Rowe
+9 	 6 	 N/N 	 1 	 Fund Price
+9 	 7 	 N/N 	 1 	 Fund High
+9 	 8 	 N/N 	 1 	 Fund Yield
+9 	 10 	 (S[dcl]\NP)/PP 	 1 	 Fund was
+10 	 21 	 (S[dcl]\S[dcl])/NP 	 1 	 was says
+11 	 10 	 (S[dcl]\NP)/PP 	 2 	 among was
+13 	 11 	 PP/NP 	 1 	 funds among
+13 	 12 	 NP[nb]/N 	 1 	 funds the
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 funds that
+13 	 15 	 S[dcl]\NP 	 1 	 funds borrowed <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 borrowed that
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 borrowed during
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 crisis during
+19 	 17 	 NP[nb]/N 	 1 	 crisis the
+19 	 18 	 N/N 	 1 	 crisis Campeau
+24 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 Collins says
+24 	 22 	 N/N 	 1 	 Collins George
+24 	 23 	 N/N 	 1 	 Collins J.
+26 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+26 	 27 	 (NP\NP)/NP 	 1 	 president of
+32 	 27 	 (NP\NP)/NP 	 2 	 Inc of
+32 	 28 	 N/N 	 1 	 Inc T.
+32 	 29 	 N/N 	 1 	 Inc Rowe
+32 	 30 	 N/N 	 1 	 Inc Price
+32 	 31 	 N/N 	 1 	 Inc Associates
+<\s>
+<s id="wsj_2142.35"> 18
+1 	 0 	 NP[nb]/N 	 1 	 way That
+4 	 3 	 N/N 	 1 	 Collins Mr.
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Collins says
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 We did
+7 	 12 	 (S[b]\NP)/NP 	 1 	 We sell <XB>
+8 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 did says
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 did n't
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have did
+11 	 10 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+12 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 sell in
+13 	 12 	 (S[b]\NP)/NP 	 2 	 securities sell
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 market in
+17 	 15 	 NP[nb]/N 	 1 	 market a
+17 	 16 	 N/N 	 1 	 market sloppy
+<\s>
+<s id="wsj_2142.36"> 19
+2 	 0 	 ((S/S)/(S[pt]\NP))/NP 	 3 	 market When
+2 	 1 	 NP[nb]/N 	 1 	 market the
+2 	 3 	 S[pt]\NP 	 1 	 market stabilized <XB>
+3 	 0 	 ((S/S)/(S[pt]\NP))/NP 	 2 	 stabilized When
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 he added
+9 	 8 	 NP[nb]/N 	 1 	 firm the
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 firm sold
+9 	 15 	 (S[dcl]\NP)/NP 	 1 	 firm paid <XU>
+10 	 0 	 ((S/S)/(S[pt]\NP))/NP 	 1 	 sold When
+10 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 sold added <XU>
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 bonds sold
+12 	 11 	 NP[nb]/N 	 1 	 bonds the
+15 	 0 	 ((S/S)/(S[pt]\NP))/NP 	 1 	 paid When
+15 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 paid added <XU>
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 paid quickly
+15 	 18 	 (S\NP)\(S\NP) 	 2 	 paid back
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 loans paid
+17 	 16 	 NP[nb]/N 	 1 	 loans the
+<\s>
+<s id="wsj_2142.37"> 6
+1 	 0 	 N/N 	 1 	 Herman Tom
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 Herman contributed
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 to contributed
+5 	 3 	 PP/NP 	 1 	 article to
+5 	 4 	 NP[nb]/N 	 1 	 article this
+<\s>

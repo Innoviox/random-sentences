@@ -1,0 +1,93 @@
+<s id="wsj_0270.1"> 49
+3 	 0 	 N/N 	 1 	 Corp. FIRST
+3 	 1 	 N/N 	 1 	 Corp. AMERICAN
+3 	 2 	 N/N 	 1 	 Corp. FINANCIAL
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Corp. declared
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 dividend declared
+7 	 5 	 NP[nb]/N 	 1 	 dividend a
+7 	 6 	 N/N 	 1 	 dividend special
+7 	 8 	 (NP\NP)/NP 	 1 	 dividend of
+7 	 25 	 (S[adj]\NP)/PP 	 1 	 dividend payable <XB>
+10 	 8 	 (NP\NP)/NP 	 2 	 share of
+10 	 9 	 N/N 	 1 	 share one
+10 	 11 	 (NP\NP)/NP 	 1 	 share of
+10 	 16 	 (NP\NP)/NP 	 1 	 share for
+15 	 11 	 (NP\NP)/NP 	 2 	 stock of
+15 	 12 	 N/N 	 1 	 stock Class
+15 	 13 	 N/N 	 1 	 stock B
+15 	 14 	 N/N 	 1 	 stock common
+18 	 16 	 (NP\NP)/NP 	 2 	 share for
+18 	 17 	 NP[nb]/N 	 1 	 share each
+18 	 19 	 (NP\NP)/NP 	 1 	 share of
+23 	 19 	 (NP\NP)/NP 	 2 	 stock of
+23 	 20 	 N/N 	 1 	 stock Class
+23 	 21 	 N/N 	 1 	 stock A
+23 	 22 	 N/N 	 1 	 stock common
+25 	 33 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 2 	 payable if
+26 	 25 	 (S[adj]\NP)/PP 	 2 	 to payable
+27 	 26 	 PP/NP 	 1 	 holders to
+27 	 28 	 (NP\NP)/NP 	 1 	 holders of
+27 	 30 	 (NP\NP)/NP 	 1 	 holders on
+29 	 28 	 (NP\NP)/NP 	 2 	 record of
+31 	 30 	 (NP\NP)/NP 	 2 	 Nov. on
+32 	 31 	 N/N[num] 	 1 	 10 Nov.
+38 	 34 	 NP[nb]/N 	 1 	 Commission the
+38 	 35 	 N/N 	 1 	 Commission Securities
+38 	 37 	 N/N 	 1 	 Commission Exchange
+38 	 39 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Commission approves
+39 	 33 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 3 	 approves if
+40 	 39 	 ((S[dcl]\NP)/PP)/NP 	 3 	 this approves
+41 	 39 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as approves
+44 	 41 	 PP/NP 	 1 	 date as
+44 	 42 	 NP[nb]/N 	 1 	 date the
+44 	 43 	 N/N 	 1 	 date effective
+44 	 45 	 (NP\NP)/NP 	 1 	 date of
+48 	 45 	 (NP\NP)/NP 	 2 	 statement of
+48 	 46 	 NP[nb]/N 	 1 	 statement the
+48 	 47 	 N/N 	 1 	 statement registration
+<\s>
+<s id="wsj_0270.2"> 44
+0 	 1 	 (NP\NP)/NP 	 1 	 Shareholders of
+0 	 10 	 (S[dcl]\NP)/NP 	 1 	 Shareholders approved
+6 	 3 	 (N/N)/(N/N) 	 2 	 Calif. Santa
+6 	 4 	 (N/N)/(N/N) 	 2 	 Calif. Ana
+9 	 1 	 (NP\NP)/NP 	 2 	 company of
+9 	 2 	 NP[nb]/N 	 1 	 company the
+9 	 6 	 N/N 	 1 	 company Calif.
+9 	 8 	 N/N 	 1 	 company title-insurance
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 creation approved
+12 	 11 	 NP[nb]/N 	 1 	 creation the
+12 	 13 	 (NP\NP)/NP 	 1 	 creation of
+16 	 13 	 (NP\NP)/NP 	 2 	 class of
+16 	 14 	 NP[nb]/N 	 1 	 class this
+16 	 15 	 N/N 	 1 	 class second
+16 	 17 	 (NP\NP)/NP 	 1 	 class of
+16 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 class which
+16 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 class will <XB>
+16 	 23 	 S[pss]\NP 	 1 	 class traded <XB>
+16 	 30 	 (NP\NP)/(S[dcl]/NP) 	 1 	 class which <XU>
+16 	 33 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 2 	 class said <XU>
+16 	 34 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 class would <XU>
+16 	 36 	 (S[pss]\NP)/PP 	 1 	 class used <XU>
+18 	 17 	 (NP\NP)/NP 	 2 	 stock of
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will which
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+23 	 22 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 traded be
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 traded on
+28 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 market on
+28 	 25 	 NP[nb]/N 	 1 	 market the
+28 	 26 	 N/N 	 1 	 market national
+28 	 27 	 N/N 	 1 	 market over-the-counter
+32 	 31 	 NP[nb]/N 	 1 	 company the
+32 	 33 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 1 	 company said
+33 	 30 	 (NP\NP)/(S[dcl]/NP) 	 2 	 said which
+34 	 33 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 3 	 would said
+35 	 34 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+36 	 35 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+37 	 36 	 (S[pss]\NP)/PP 	 2 	 for used
+38 	 37 	 PP/NP 	 1 	 acquisitions for
+43 	 37 	 PP/NP 	 1 	 purposes for
+43 	 40 	 N/N 	 1 	 purposes other
+43 	 41 	 N/N 	 1 	 purposes general
+43 	 42 	 N/N 	 1 	 purposes corporate
+<\s>

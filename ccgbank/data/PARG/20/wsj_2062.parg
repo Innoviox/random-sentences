@@ -1,0 +1,120 @@
+<s id="wsj_2062.1"> 30
+3 	 0 	 N/N 	 1 	 Inc. ONE
+3 	 1 	 N/N 	 1 	 Inc. LIBERTY
+3 	 2 	 N/N 	 1 	 Inc. PROPERTIES
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Inc. declared
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 dividend declared
+6 	 5 	 NP[nb]/N 	 1 	 dividend a
+6 	 7 	 (NP\NP)/NP 	 1 	 dividend of
+6 	 12 	 (NP\NP)/NP 	 1 	 dividend on
+6 	 21 	 (S[adj]\NP)/NP 	 1 	 dividend payable <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 cents of
+9 	 8 	 N/N 	 1 	 cents 40
+9 	 10 	 (NP\NP)/N 	 1 	 cents a
+11 	 10 	 (NP\NP)/N 	 2 	 share a
+15 	 14 	 (N/N)/N[num] 	 2 	 16.50 $
+19 	 12 	 (NP\NP)/NP 	 2 	 stock on
+19 	 13 	 NP[nb]/N 	 1 	 stock its
+19 	 14 	 (N/N)/N[num] 	 1 	 stock $
+19 	 16 	 N/N 	 1 	 stock cumulative
+19 	 17 	 N/N 	 1 	 stock convertible
+19 	 18 	 N/N 	 1 	 stock preferred
+21 	 24 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 payable to
+22 	 21 	 (S[adj]\NP)/NP 	 2 	 Jan. payable
+23 	 22 	 N/N[num] 	 1 	 2 Jan.
+25 	 24 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 stock to
+25 	 26 	 (NP\NP)/NP 	 1 	 stock of
+25 	 28 	 (NP\NP)/N[num] 	 1 	 stock Dec.
+27 	 26 	 (NP\NP)/NP 	 2 	 record of
+29 	 28 	 (NP\NP)/N[num] 	 2 	 8 Dec.
+<\s>
+<s id="wsj_2062.2"> 21
+1 	 2 	 (NP\NP)/NP 	 1 	 directors of
+1 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 directors did
+1 	 15 	 (S[b]\NP)/PP 	 1 	 directors act <XB>
+7 	 4 	 (N/N)/(N/N) 	 2 	 N.Y. Great
+7 	 5 	 (N/N)/(N/N) 	 2 	 N.Y. Neck
+12 	 2 	 (NP\NP)/NP 	 2 	 trust of
+12 	 3 	 NP[nb]/N 	 1 	 trust the
+12 	 7 	 N/N 	 1 	 trust N.Y.
+12 	 9 	 N/N 	 1 	 trust real
+12 	 10 	 N/N 	 1 	 trust estate
+12 	 11 	 N/N 	 1 	 trust investment
+13 	 0 	 S/S 	 1 	 did But
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 did n't
+15 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 act did
+16 	 15 	 (S[b]\NP)/PP 	 2 	 on act
+20 	 16 	 PP/NP 	 1 	 dividend on
+20 	 17 	 NP[nb]/N 	 1 	 dividend the
+20 	 18 	 N/N 	 1 	 dividend common
+20 	 19 	 N/N 	 1 	 dividend stock
+<\s>
+<s id="wsj_2062.3"> 23
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they wo
+1 	 4 	 (S[b]\NP)/NP 	 1 	 they consider <XB>
+2 	 0 	 S/S 	 1 	 wo And
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 wo n't
+2 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 wo before
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 consider wo
+7 	 4 	 (S[b]\NP)/NP 	 2 	 dividend consider
+7 	 5 	 NP/NP 	 1 	 dividend such
+7 	 6 	 NP[nb]/N 	 1 	 dividend a
+10 	 9 	 NP[nb]/N 	 1 	 trust the
+10 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 trust added
+14 	 15 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 results are
+14 	 16 	 S[adj]\NP 	 1 	 results available <XB>
+15 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are before
+15 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 are for
+16 	 15 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 available are
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter for
+20 	 18 	 NP[nb]/N 	 1 	 quarter the
+20 	 19 	 N/N 	 1 	 quarter first
+20 	 21 	 (NP\NP)/NP 	 1 	 quarter of
+22 	 21 	 (NP\NP)/NP 	 2 	 1990 of
+<\s>
+<s id="wsj_2062.4"> 14
+1 	 0 	 (S/S)/NP 	 2 	 part In
+4 	 3 	 NP[nb]/N 	 1 	 trust the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 trust cited
+5 	 0 	 (S/S)/NP 	 1 	 cited In
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 need cited
+7 	 6 	 NP[nb]/N 	 1 	 need the
+7 	 9 	 (S[b]\NP)/NP 	 1 	 need retain <XB>
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 retain to
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 retain for
+10 	 9 	 (S[b]\NP)/NP 	 2 	 cash retain
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 acquisitions for
+13 	 12 	 N/N 	 1 	 acquisitions possible
+<\s>
+<s id="wsj_2062.5"> 31
+1 	 0 	 (S/S)/PP 	 2 	 to According
+3 	 1 	 PP/NP 	 1 	 spokesman to
+3 	 2 	 NP[nb]/N 	 1 	 spokesman a
+6 	 5 	 N/N 	 1 	 Liberty One
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Liberty will
+6 	 9 	 ((S[pt]\NP)/NP)/PP 	 1 	 Liberty paid <XB>
+6 	 21 	 (S[b]\NP)/NP 	 1 	 Liberty maintain <XB>
+7 	 0 	 (S/S)/PP 	 1 	 will According
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+9 	 8 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 paid have
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 paid out
+11 	 9 	 ((S[pt]\NP)/NP)/PP 	 3 	 as paid
+12 	 11 	 PP/NP 	 1 	 dividends as
+15 	 9 	 ((S[pt]\NP)/NP)/PP 	 2 	 amount paid
+15 	 13 	 NP[nb]/N 	 1 	 amount the
+15 	 14 	 N/N 	 1 	 amount required
+15 	 16 	 (NP\NP)/NP 	 1 	 amount of
+19 	 16 	 (NP\NP)/NP 	 2 	 income of
+19 	 17 	 NP[nb]/N 	 1 	 income its
+19 	 18 	 N/N 	 1 	 income taxable
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 maintain to
+24 	 21 	 (S[b]\NP)/NP 	 2 	 status maintain
+24 	 22 	 NP[nb]/N 	 1 	 status its
+24 	 23 	 N/N 	 1 	 status legal
+24 	 25 	 (NP\NP)/NP 	 1 	 status as
+30 	 25 	 (NP\NP)/NP 	 2 	 trust as
+30 	 26 	 NP[nb]/N 	 1 	 trust a
+30 	 27 	 N/N 	 1 	 trust real
+30 	 28 	 N/N 	 1 	 trust estate
+30 	 29 	 N/N 	 1 	 trust investment
+<\s>

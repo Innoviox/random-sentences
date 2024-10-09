@@ -1,0 +1,698 @@
+<s id="wsj_1190.1"> 38
+2 	 0 	 N/N 	 1 	 Inc. Time
+2 	 1 	 N/N 	 1 	 Inc. Warner
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Inc. is
+2 	 4 	 (S[ng]\NP)/NP 	 1 	 Inc. considering <XB>
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 considering is
+7 	 4 	 (S[ng]\NP)/NP 	 2 	 challenge considering
+7 	 5 	 NP[nb]/N 	 1 	 challenge a
+7 	 6 	 N/N 	 1 	 challenge legal
+7 	 8 	 (NP\NP)/NP 	 1 	 challenge to
+10 	 9 	 N/N 	 1 	 Inc. Tele-Communications
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Inc. 's
+12 	 8 	 (NP\NP)/NP 	 2 	 plan to
+12 	 11 	 (NP[nb]/N)\NP 	 1 	 plan 's
+12 	 14 	 (S[b]\NP)/NP 	 1 	 plan buy <XB>
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+15 	 14 	 (S[b]\NP)/NP 	 2 	 half buy
+15 	 16 	 (NP\NP)/NP 	 1 	 half of
+19 	 16 	 (NP\NP)/NP 	 2 	 Inc. of
+19 	 17 	 N/N 	 1 	 Inc. Showtime
+19 	 18 	 N/N 	 1 	 Inc. Networks
+22 	 8 	 (NP\NP)/NP 	 2 	 move to
+22 	 21 	 NP[nb]/N 	 1 	 move a
+22 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 move that
+22 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 move could <XB>
+22 	 25 	 S[b]\NP 	 1 	 move lead <XB>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 could that
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 lead could
+25 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 lead to
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 war to
+28 	 27 	 N/N 	 1 	 war all-out
+28 	 29 	 (NP\NP)/NP 	 1 	 war between
+32 	 30 	 NP[nb]/N 	 1 	 industry the
+32 	 31 	 N/N 	 1 	 industry cable
+32 	 33 	 (NP[nb]/N)\NP 	 2 	 industry 's
+36 	 35 	 (N/N)/(N/N) 	 2 	 powerful most
+37 	 29 	 (NP\NP)/NP 	 2 	 players between
+37 	 33 	 (NP[nb]/N)\NP 	 1 	 players 's
+37 	 34 	 N/N 	 1 	 players two
+37 	 36 	 N/N 	 1 	 players powerful
+<\s>
+<s id="wsj_1190.2"> 29
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Time is
+0 	 3 	 (S[ng]\NP)/NP 	 1 	 Time fighting <XB>
+0 	 11 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Time attempting <XB>
+0 	 13 	 ((S[b]\NP)/PP)/NP 	 1 	 Time discourage <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is also
+1 	 28 	 (S[dcl]\S[dcl])\NP 	 1 	 is say
+3 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 fighting is
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 fighting on
+3 	 10 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 fighting by
+5 	 3 	 (S[ng]\NP)/NP 	 2 	 transaction fighting
+5 	 4 	 NP[nb]/N 	 1 	 transaction the
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 fronts on
+8 	 7 	 N/N 	 1 	 fronts other
+11 	 10 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 attempting by
+12 	 11 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to attempting
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 discourage to
+16 	 13 	 ((S[b]\NP)/PP)/NP 	 3 	 operators discourage
+16 	 14 	 N/N 	 1 	 operators other
+16 	 15 	 N/N 	 1 	 operators cable
+17 	 13 	 ((S[b]\NP)/PP)/NP 	 2 	 from discourage
+18 	 17 	 PP/(S[ng]\NP) 	 1 	 joining from
+18 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 joining as
+19 	 18 	 (S[ng]\NP)/NP 	 2 	 Tele-Communications joining
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 investors as
+21 	 22 	 (NP\NP)/NP 	 1 	 investors in
+23 	 22 	 (NP\NP)/NP 	 2 	 Showtime in
+27 	 25 	 N/N 	 1 	 executives cable-TV
+27 	 26 	 N/N 	 1 	 executives industry
+27 	 28 	 (S[dcl]\S[dcl])\NP 	 2 	 executives say
+<\s>
+<s id="wsj_1190.3"> 5
+1 	 0 	 N/N 	 1 	 officials Time
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 officials declined
+1 	 4 	 S[b]\NP 	 1 	 officials comment <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+<\s>
+<s id="wsj_1190.4"> 42
+1 	 0 	 (S/S)/(S/S) 	 2 	 week Last
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Tele-Communications agreed
+3 	 6 	 (((S[b]\NP)/PP)/NP)/NP 	 1 	 Tele-Communications pay <XB>
+4 	 1 	 S/S 	 1 	 agreed week
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+8 	 6 	 (((S[b]\NP)/PP)/NP)/NP 	 4 	 Inc. pay
+8 	 7 	 N/N 	 1 	 Inc. Viacom
+9 	 6 	 (((S[b]\NP)/PP)/NP)/NP 	 3 	 $ pay
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 225
+12 	 6 	 (((S[b]\NP)/PP)/NP)/NP 	 2 	 for pay
+15 	 12 	 PP/NP 	 1 	 % for
+15 	 13 	 NP/NP 	 1 	 % a
+15 	 14 	 N/N 	 1 	 % 50
+15 	 16 	 NP\NP 	 1 	 % stake
+15 	 17 	 (NP\NP)/NP 	 1 	 % in
+20 	 17 	 (NP\NP)/NP 	 2 	 subsidiary in
+20 	 18 	 NP[nb]/N 	 1 	 subsidiary its
+20 	 19 	 N/N 	 1 	 subsidiary Showtime
+20 	 22 	 (NP\NP)/(S[dcl]\NP) 	 1 	 subsidiary which
+20 	 23 	 (S[dcl]\NP)/NP 	 1 	 subsidiary is <XB>
+23 	 22 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+26 	 23 	 (S[dcl]\NP)/NP 	 2 	 second is
+26 	 24 	 NP[nb]/N 	 1 	 second a
+26 	 25 	 N/N 	 1 	 second distant
+26 	 27 	 (NP\NP)/NP 	 1 	 second to
+26 	 33 	 (NP\NP)/NP 	 1 	 second in
+28 	 29 	 (NP[nb]/N)\NP 	 2 	 Time 's
+32 	 27 	 (NP\NP)/NP 	 2 	 Office to
+32 	 29 	 (NP[nb]/N)\NP 	 1 	 Office 's
+32 	 30 	 N/N 	 1 	 Office Home
+32 	 31 	 N/N 	 1 	 Office Box
+35 	 33 	 (NP\NP)/NP 	 2 	 delivery in
+35 	 34 	 NP[nb]/N 	 1 	 delivery the
+35 	 36 	 (NP\NP)/NP 	 1 	 delivery of
+35 	 39 	 (NP\NP)/NP 	 1 	 delivery to
+38 	 36 	 (NP\NP)/NP 	 2 	 networks of
+38 	 37 	 N/N 	 1 	 networks pay-TV
+41 	 39 	 (NP\NP)/NP 	 2 	 subscribers to
+41 	 40 	 N/N 	 1 	 subscribers cable
+<\s>
+<s id="wsj_1190.5"> 21
+0 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Tele-Communications said
+3 	 2 	 NP[nb]/N 	 1 	 U.S. the
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 U.S. 's
+7 	 4 	 (NP[nb]/N)\NP 	 1 	 company 's
+7 	 5 	 N/N 	 1 	 company largest
+7 	 6 	 N/N 	 1 	 company cable
+7 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it may
+10 	 12 	 (S[b]\NP)/NP 	 1 	 it seek <XB>
+11 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 may said
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seek may
+15 	 12 	 (S[b]\NP)/NP 	 2 	 partners seek
+15 	 13 	 N/N 	 1 	 partners other
+15 	 14 	 N/N 	 1 	 partners cable
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 join to
+18 	 17 	 (S[b]\NP)/PP 	 2 	 in join
+20 	 18 	 PP/NP 	 1 	 investment in
+20 	 19 	 NP[nb]/N 	 1 	 investment its
+<\s>
+<s id="wsj_1190.6"> 17
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Tele-Communications is
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 HBO 's
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 customer is
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 customer 's
+5 	 4 	 N/N 	 1 	 customer largest
+9 	 8 	 NP[nb]/N 	 1 	 two the
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 two have
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 number have
+12 	 11 	 NP[nb]/N 	 1 	 number a
+12 	 13 	 (NP\NP)/NP 	 1 	 number of
+16 	 13 	 (NP\NP)/NP 	 2 	 relationships of
+16 	 14 	 N/N 	 1 	 relationships other
+16 	 15 	 N/N 	 1 	 relationships business
+<\s>
+<s id="wsj_1190.7"> 21
+1 	 0 	 (S/S)/(S/S) 	 2 	 this Earlier
+2 	 1 	 (S/S)/N 	 2 	 year this
+4 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Time discussed
+4 	 7 	 (S[ng]\NP)/NP 	 1 	 Time bringing <XB>
+6 	 1 	 (S/S)/N 	 1 	 discussed this
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 discussed even
+6 	 20 	 (S[dcl]\S[dcl])\NP 	 1 	 discussed said
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 bringing discussed
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 bringing in
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 bringing as
+8 	 7 	 (S[ng]\NP)/NP 	 2 	 Tele-Communications bringing
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 investor as
+12 	 11 	 NP[nb]/N 	 1 	 investor an
+12 	 13 	 (NP\NP)/NP 	 1 	 investor in
+14 	 13 	 (NP\NP)/NP 	 2 	 HBO in
+16 	 17 	 (NP\NP)/NP 	 1 	 executives at
+16 	 20 	 (S[dcl]\S[dcl])\NP 	 2 	 executives said
+19 	 17 	 (NP\NP)/NP 	 2 	 companies at
+19 	 18 	 NP[nb]/N 	 1 	 companies both
+<\s>
+<s id="wsj_1190.8"> 19
+1 	 0 	 NP[nb]/N 	 1 	 purchase The
+1 	 2 	 (NP\NP)/NP 	 1 	 purchase of
+1 	 6 	 (S[dcl]\NP)/NP 	 1 	 purchase is
+5 	 2 	 (NP\NP)/NP 	 2 	 stake of
+5 	 3 	 NP[nb]/N 	 1 	 stake the
+5 	 4 	 N/N 	 1 	 stake Showtime
+6 	 14 	 (S[dcl]\S[dcl])/NP 	 1 	 is said
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 slap is
+9 	 7 	 NP[nb]/N 	 1 	 slap a
+9 	 8 	 N/N 	 1 	 slap direct
+9 	 10 	 (NP\NP)/NP 	 1 	 slap in
+12 	 10 	 (NP\NP)/NP 	 2 	 face in
+12 	 11 	 NP[nb]/N 	 1 	 face our
+18 	 14 	 (S[dcl]\S[dcl])/NP 	 2 	 executive said
+18 	 15 	 N/N 	 1 	 executive one
+18 	 16 	 N/N 	 1 	 executive senior
+18 	 17 	 N/N 	 1 	 executive Time
+<\s>
+<s id="wsj_1190.9"> 43
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Time is
+0 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Time expected <XB>
+0 	 4 	 (S[b]\NP)/NP 	 1 	 Time mount <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+3 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 mount to
+4 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 mount in
+7 	 4 	 (S[b]\NP)/NP 	 2 	 challenge mount
+7 	 5 	 NP[nb]/N 	 1 	 challenge a
+7 	 6 	 N/N 	 1 	 challenge legal
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Court in
+11 	 9 	 N/N 	 1 	 Court U.S.
+11 	 10 	 N/N 	 1 	 Court District
+11 	 12 	 (NP\NP)/NP 	 1 	 Court in
+14 	 12 	 (NP\NP)/NP 	 2 	 York in
+14 	 13 	 N/N 	 1 	 York New
+14 	 16 	 (NP\NP)/S[dcl] 	 1 	 York where
+17 	 20 	 (S[dcl]\NP)/NP 	 1 	 Viacom filed
+19 	 18 	 ((S\NP)/(S\NP))/NP 	 3 	 May in
+20 	 16 	 (NP\NP)/S[dcl] 	 2 	 filed where
+20 	 18 	 ((S\NP)/(S\NP))/NP 	 2 	 filed in
+24 	 22 	 (N/N)/N[num] 	 2 	 billion $
+24 	 23 	 N/N 	 1 	 billion 2.5
+26 	 20 	 (S[dcl]\NP)/NP 	 2 	 suit filed
+26 	 21 	 NP[nb]/N 	 1 	 suit a
+26 	 22 	 (N/N)/N[num] 	 1 	 suit $
+26 	 25 	 N/N 	 1 	 suit antitrust
+26 	 27 	 ((S[ng]\NP)/PP)/NP 	 1 	 suit charging <XB>
+28 	 27 	 ((S[ng]\NP)/PP)/NP 	 3 	 Time charging
+30 	 27 	 ((S[ng]\NP)/PP)/NP 	 3 	 HBO charging
+31 	 27 	 ((S[ng]\NP)/PP)/NP 	 2 	 with charging
+32 	 31 	 PP/(S[ng]\NP) 	 1 	 monopolizing with
+35 	 32 	 (S[ng]\NP)/NP 	 2 	 business monopolizing
+35 	 33 	 NP[nb]/N 	 1 	 business the
+35 	 34 	 N/N 	 1 	 business pay-TV
+37 	 31 	 PP/(S[ng]\NP) 	 1 	 trying with
+38 	 37 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+39 	 38 	 (S[to]\NP)/(S[b]\NP) 	 2 	 crush to
+40 	 39 	 (S[b]\NP)/NP 	 2 	 competition crush
+40 	 41 	 (NP\NP)/NP 	 1 	 competition from
+42 	 41 	 (NP\NP)/NP 	 2 	 Showtime from
+<\s>
+<s id="wsj_1190.10"> 21
+0 	 1 	 (S[pss]\NP)/PP 	 1 	 Executives involved <XB>
+0 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Executives say
+2 	 1 	 (S[pss]\NP)/PP 	 2 	 in involved
+3 	 2 	 PP/(S[ng]\NP) 	 1 	 plotting in
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Time 's
+6 	 3 	 (S[ng]\NP)/NP 	 2 	 defense plotting
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 defense 's
+8 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+8 	 11 	 (S[ng]\NP)/NP 	 1 	 it preparing <XB>
+9 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 is say
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 is now
+11 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 preparing is
+13 	 11 	 (S[ng]\NP)/NP 	 2 	 countersuit preparing
+13 	 12 	 NP[nb]/N 	 1 	 countersuit a
+13 	 14 	 ((S[ng]\NP)/PP)/NP 	 1 	 countersuit naming <XB>
+16 	 14 	 ((S[ng]\NP)/PP)/NP 	 3 	 Viacom naming
+18 	 14 	 ((S[ng]\NP)/PP)/NP 	 3 	 Tele-Communications naming
+19 	 14 	 ((S[ng]\NP)/PP)/NP 	 2 	 as naming
+20 	 19 	 PP/NP 	 1 	 defendants as
+<\s>
+<s id="wsj_1190.11"> 37
+1 	 0 	 NP[nb]/N 	 1 	 executives The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 executives say
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Time may
+3 	 5 	 (S[b]\NP)/(S[to]\NP) 	 1 	 Time seek <XB>
+3 	 7 	 (S[b]\NP)/NP 	 1 	 Time break <XB>
+3 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Time may <XU>
+3 	 18 	 (S[b]\NP)/NP 	 1 	 Time seek <XU>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 may say
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seek may
+6 	 5 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to seek
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 break to
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 break up
+7 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 break after
+10 	 7 	 (S[b]\NP)/NP 	 2 	 transaction break
+10 	 9 	 NP[nb]/N 	 1 	 transaction the
+12 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 it is
+12 	 14 	 S[pss]\NP 	 1 	 it consummated <XB>
+13 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is after
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 consummated is
+17 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 may say
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seek may
+19 	 18 	 (S[b]\NP)/NP 	 2 	 constraints seek
+19 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 constraints that
+19 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 constraints would <XB>
+19 	 22 	 ((S[b]\NP)/PP)/NP 	 1 	 constraints prevent <XB>
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 prevent would
+23 	 22 	 ((S[b]\NP)/PP)/NP 	 3 	 Tele-Communications prevent
+24 	 22 	 ((S[b]\NP)/PP)/NP 	 2 	 from prevent
+25 	 24 	 PP/(S[ng]\NP) 	 1 	 dropping from
+25 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 dropping in
+25 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 dropping in
+26 	 25 	 (S[ng]\NP)/NP 	 2 	 HBO dropping
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 any in
+28 	 29 	 (NP\NP)/NP 	 1 	 any of
+32 	 29 	 (NP\NP)/NP 	 2 	 systems of
+32 	 30 	 NP[nb]/N 	 1 	 systems its
+32 	 31 	 N/N 	 1 	 systems cable
+34 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 favor in
+34 	 35 	 (NP\NP)/NP 	 1 	 favor of
+36 	 35 	 (NP\NP)/NP 	 2 	 Showtime of
+<\s>
+<s id="wsj_1190.12"> 5
+1 	 0 	 N/N 	 1 	 officials Viacom
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 officials declined
+1 	 4 	 S[b]\NP 	 1 	 officials comment <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+<\s>
+<s id="wsj_1190.13"> 19
+1 	 0 	 N/N 	 1 	 Kern Jerome
+1 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Kern said
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Tele-Communications '
+7 	 4 	 (NP[nb]/N)\NP 	 1 	 counsel '
+7 	 5 	 N/N 	 1 	 counsel chief
+7 	 6 	 N/N 	 1 	 counsel outside
+7 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 counsel said
+10 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 he was
+10 	 13 	 (S[adj]\NP)/PP 	 1 	 he aware <XB>
+11 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 was n't
+13 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 aware was
+14 	 13 	 (S[adj]\NP)/PP 	 2 	 of aware
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Time 's
+18 	 14 	 PP/NP 	 1 	 plans of
+18 	 16 	 (NP[nb]/N)\NP 	 1 	 plans 's
+18 	 17 	 N/N 	 1 	 plans legal
+<\s>
+<s id="wsj_1190.14"> 25
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 he said
+2 	 0 	 S/S 	 1 	 said But
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+5 	 4 	 NP[nb]/N 	 1 	 effort any
+5 	 6 	 (NP\NP)/NP 	 1 	 effort by
+5 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 effort would
+5 	 18 	 (S[b]\NP)/NP 	 1 	 effort be <XB>
+7 	 6 	 (NP\NP)/NP 	 2 	 Time by
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 characterize to
+12 	 9 	 ((S[b]\NP)/PP)/NP 	 3 	 investment characterize
+12 	 10 	 NP[nb]/N 	 1 	 investment the
+12 	 11 	 N/N 	 1 	 investment Tele-Communications
+12 	 13 	 (NP\NP)/NP 	 1 	 investment in
+14 	 13 	 (NP\NP)/NP 	 2 	 Showtime in
+15 	 9 	 ((S[b]\NP)/PP)/NP 	 2 	 as characterize
+16 	 15 	 PP/(S[adj]\NP) 	 1 	 anti-competitive as
+17 	 3 	 S[em]/S[dcl] 	 1 	 would that
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+20 	 18 	 (S[b]\NP)/NP 	 2 	 pot be
+20 	 19 	 NP[nb]/N 	 1 	 pot the
+20 	 21 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 1 	 pot calling <XB>
+23 	 21 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 3 	 kettle calling
+23 	 22 	 NP[nb]/N 	 1 	 kettle the
+23 	 24 	 S[adj]\NP 	 1 	 kettle black <XB>
+24 	 21 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 2 	 black calling
+<\s>
+<s id="wsj_1190.15"> 44
+0 	 1 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 1 	 It 's
+1 	 25 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 's when
+1 	 43 	 (S[dcl]\S[dcl])\NP 	 1 	 's said
+2 	 1 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 3 	 hard 's
+3 	 1 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 2 	 to 's
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 see to
+5 	 4 	 (S[b]\NP)/S[qem] 	 2 	 how see
+7 	 6 	 NP[nb]/N 	 1 	 investment an
+7 	 8 	 (NP\NP)/NP 	 1 	 investment by
+7 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 investment is
+7 	 23 	 S[adj]\NP 	 1 	 investment anti-competitive <XB>
+10 	 8 	 (NP\NP)/NP 	 2 	 largest by
+10 	 9 	 NP[nb]/N 	 1 	 largest the
+10 	 11 	 (N\N)/N 	 1 	 largest -LCB-
+10 	 15 	 (NP\NP)/NP 	 1 	 largest in
+13 	 11 	 (N\N)/N 	 2 	 operator -LCB-
+13 	 12 	 N/N 	 1 	 operator cable
+17 	 15 	 (NP\NP)/NP 	 2 	 weaker in
+17 	 16 	 NP[nb]/N 	 1 	 weaker the
+17 	 18 	 (NP\NP)/NP 	 1 	 weaker of
+21 	 18 	 (NP\NP)/NP 	 2 	 networks of
+21 	 19 	 NP[nb]/N 	 1 	 networks the
+21 	 20 	 N/N 	 1 	 networks two
+22 	 5 	 S[qem]/S[dcl] 	 1 	 is how
+23 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 anti-competitive is
+27 	 26 	 NP[nb]/N 	 1 	 stronger the
+27 	 28 	 (NP\NP)/NP 	 1 	 stronger of
+27 	 32 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 stronger is
+27 	 33 	 S[pss]\NP 	 1 	 stronger owned <XB>
+31 	 28 	 (NP\NP)/NP 	 2 	 networks of
+31 	 29 	 NP[nb]/N 	 1 	 networks the
+31 	 30 	 N/N 	 1 	 networks two
+32 	 25 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is when
+33 	 32 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 owned is
+33 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 owned by
+37 	 36 	 (N/N)/(N/N) 	 2 	 largest second
+39 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 operator by
+39 	 35 	 NP[nb]/N 	 1 	 operator the
+39 	 37 	 N/N 	 1 	 operator largest
+39 	 38 	 N/N 	 1 	 operator cable
+42 	 41 	 N/N 	 1 	 Kern Mr.
+42 	 43 	 (S[dcl]\S[dcl])\NP 	 2 	 Kern said
+<\s>
+<s id="wsj_1190.16"> 23
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+1 	 2 	 (NP\NP)/(S[ng]\NP) 	 1 	 addition to
+3 	 2 	 (NP\NP)/(S[ng]\NP) 	 2 	 owning to
+4 	 3 	 (S[ng]\NP)/NP 	 2 	 HBO owning
+4 	 6 	 (NP\NP)/NP 	 1 	 HBO with
+8 	 7 	 (N/N)/(N/N) 	 2 	 million 22
+9 	 6 	 (NP\NP)/NP 	 2 	 subscribers with
+9 	 8 	 N/N 	 1 	 subscribers million
+12 	 11 	 N/N 	 1 	 Warner Time
+12 	 14 	 (S[dcl]\NP)/NP 	 1 	 Warner operates
+14 	 0 	 (S/S)/NP 	 1 	 operates In
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 operates separately
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 system operates
+16 	 15 	 N/N 	 1 	 system cable-TV
+16 	 17 	 (S[ng]\NP)/NP 	 1 	 system serving <XB>
+20 	 18 	 (N/N)/(N/N) 	 2 	 million about
+20 	 19 	 (N/N)/(N/N) 	 2 	 million 5.6
+22 	 17 	 (S[ng]\NP)/NP 	 2 	 subscribers serving
+22 	 20 	 N/N 	 1 	 subscribers million
+22 	 21 	 N/N 	 1 	 subscribers cable-TV
+<\s>
+<s id="wsj_1190.17"> 15
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Tele-Communications controls
+2 	 3 	 ((NP[nb]/N)\(NP[nb]/N))/(NP[nb]/N) 	 2 	 close to
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 to controls
+5 	 3 	 ((NP[nb]/N)\(NP[nb]/N))/(NP[nb]/N) 	 3 	 million to
+7 	 3 	 ((NP[nb]/N)\(NP[nb]/N))/(NP[nb]/N) 	 1 	 subscribers to
+7 	 6 	 N/N 	 1 	 subscribers cable
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 Viacom has
+14 	 11 	 (S[dcl]\NP)/NP 	 2 	 million has
+14 	 12 	 N/N 	 1 	 million about
+14 	 13 	 N/N 	 1 	 million one
+<\s>
+<s id="wsj_1190.18"> 24
+2 	 0 	 (S/S)/NP 	 2 	 suit In
+2 	 1 	 NP[nb]/N 	 1 	 suit its
+2 	 3 	 (NP\NP)/NP 	 1 	 suit against
+4 	 3 	 (NP\NP)/NP 	 2 	 Time against
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Viacom says
+7 	 0 	 (S/S)/NP 	 1 	 says In
+9 	 8 	 NP[nb]/N 	 1 	 ownership the
+9 	 10 	 (NP\NP)/NP 	 1 	 ownership of
+9 	 17 	 ((S[dcl]\NP)/NP)/NP 	 1 	 ownership gives
+13 	 10 	 (NP\NP)/NP 	 2 	 systems of
+13 	 11 	 NP/NP 	 1 	 systems both
+13 	 12 	 N/N 	 1 	 systems cable
+16 	 10 	 (NP\NP)/NP 	 2 	 networks of
+16 	 11 	 NP/NP 	 1 	 networks both
+16 	 15 	 N/N 	 1 	 networks cable-programming
+17 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 gives says
+19 	 17 	 ((S[dcl]\NP)/NP)/NP 	 3 	 company gives
+19 	 18 	 NP[nb]/N 	 1 	 company the
+21 	 20 	 (N/N)/(N/N) 	 2 	 much too
+23 	 17 	 ((S[dcl]\NP)/NP)/NP 	 2 	 power gives
+23 	 21 	 N/N 	 1 	 power much
+23 	 22 	 N/N 	 1 	 power market
+<\s>
+<s id="wsj_1190.19"> 29
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Time argues
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that argues
+4 	 3 	 (S/S)/(S[ng]\NP) 	 2 	 joining in
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 joining up
+6 	 4 	 (S[ng]\NP)/PP 	 2 	 with joining
+7 	 6 	 PP/NP 	 1 	 Tele-Communications with
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 Viacom has
+10 	 2 	 S[em]/S[dcl] 	 1 	 has that
+10 	 3 	 (S/S)/(S[ng]\NP) 	 1 	 has in
+10 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 has since
+12 	 11 	 (N/N)/(N/N) 	 2 	 more potentially
+13 	 10 	 (S[dcl]\NP)/NP 	 2 	 power has
+13 	 12 	 N/N 	 1 	 power more
+16 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 since particularly
+17 	 19 	 (S[dcl]\NP)/NP 	 1 	 Viacom owns
+19 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 owns since
+19 	 18 	 (S\NP)/(S\NP) 	 2 	 owns also
+24 	 19 	 (S[dcl]\NP)/NP 	 2 	 VH-1 owns
+24 	 20 	 N/N 	 1 	 VH-1 cable
+24 	 21 	 N/N 	 1 	 VH-1 networks
+24 	 22 	 N/N 	 1 	 VH-1 MTV
+26 	 19 	 (S[dcl]\NP)/NP 	 2 	 Nick owns
+26 	 20 	 N/N 	 1 	 Nick cable
+26 	 21 	 N/N 	 1 	 Nick networks
+26 	 22 	 N/N 	 1 	 Nick MTV
+26 	 27 	 (N\N)/NP 	 1 	 Nick at
+28 	 27 	 (N\N)/NP 	 2 	 Nite at
+<\s>
+<s id="wsj_1190.20"> 13
+2 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Tele-Communications have
+2 	 7 	 S[pt]\NP 	 1 	 Tele-Communications worked <XB>
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Time have
+4 	 7 	 S[pt]\NP 	 1 	 Time worked <XB>
+5 	 0 	 S/S 	 1 	 have Ironically
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 have often
+7 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 worked have
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 worked closely
+7 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 worked in
+12 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 business in
+12 	 10 	 NP[nb]/N 	 1 	 business the
+12 	 11 	 N/N 	 1 	 business cable
+<\s>
+<s id="wsj_1190.21"> 28
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 they control
+3 	 0 	 S/S 	 1 	 control Together
+5 	 4 	 (N/N)/(N/N) 	 2 	 40 nearly
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 % control
+6 	 5 	 N/N 	 1 	 % 40
+6 	 7 	 (NP\NP)/NP 	 1 	 % of
+11 	 7 	 (NP\NP)/NP 	 2 	 Inc. of
+11 	 8 	 N/N 	 1 	 Inc. Turner
+11 	 9 	 N/N 	 1 	 Inc. Broadcasting
+11 	 10 	 N/N 	 1 	 Inc. Systems
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 Tele-Communications has
+14 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 has while
+17 	 16 	 (N/N)/(N/N) 	 2 	 % 21.8
+18 	 14 	 (S[dcl]\NP)/NP 	 2 	 stake has
+18 	 15 	 NP[nb]/N 	 1 	 stake a
+18 	 17 	 N/N 	 1 	 stake %
+22 	 21 	 N/N 	 1 	 Warner Time
+22 	 23 	 (S[dcl]\NP)/NP 	 1 	 Warner has
+23 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has while
+26 	 25 	 (N/N)/(N/N) 	 2 	 % 17.8
+27 	 23 	 (S[dcl]\NP)/NP 	 2 	 stake has
+27 	 24 	 NP[nb]/N 	 1 	 stake a
+27 	 26 	 N/N 	 1 	 stake %
+<\s>
+<s id="wsj_1190.22"> 17
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Time 's
+4 	 1 	 (S/S)/NP 	 2 	 merger since
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 merger 's
+4 	 5 	 (NP\NP)/NP 	 1 	 merger with
+8 	 5 	 (NP\NP)/NP 	 2 	 Inc. with
+8 	 6 	 N/N 	 1 	 Inc. Warner
+8 	 7 	 N/N 	 1 	 Inc. Communications
+10 	 11 	 (NP\NP)/NP 	 1 	 relations between
+10 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 relations have
+10 	 15 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 relations become <XB>
+10 	 16 	 S[adj]\NP 	 1 	 relations strained <XB>
+13 	 11 	 (NP\NP)/NP 	 2 	 two between
+13 	 12 	 NP[nb]/N 	 1 	 two the
+14 	 0 	 S/S 	 1 	 have But
+14 	 1 	 (S/S)/NP 	 1 	 have since
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 become have
+16 	 15 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 strained become
+<\s>
+<s id="wsj_1190.23"> 14
+1 	 0 	 NP[nb]/N 	 1 	 company Each
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 company worries
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that worries
+5 	 4 	 NP[nb]/N 	 1 	 other the
+5 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 other is
+5 	 7 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 other becoming <XB>
+5 	 9 	 S[adj]\NP 	 1 	 other powerful <XB>
+5 	 13 	 S[adj]\NP 	 1 	 other integrated <XU>
+6 	 3 	 S[em]/S[dcl] 	 1 	 is that
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 becoming is
+9 	 7 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 powerful becoming
+9 	 8 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 powerful too
+13 	 7 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 integrated becoming
+13 	 11 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 integrated too
+13 	 12 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 integrated vertically
+<\s>
+<s id="wsj_1190.24"> 20
+4 	 2 	 NP[nb]/N 	 1 	 observers some
+4 	 3 	 N/N 	 1 	 observers legal
+4 	 5 	 (S[b]\NP)/S[dcl] 	 1 	 observers say
+5 	 0 	 S/S 	 1 	 say Meanwhile
+8 	 6 	 NP[nb]/N 	 1 	 investment the
+8 	 7 	 N/N 	 1 	 investment Tele-Communications
+8 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 investment are
+8 	 13 	 (S[ng]\NP)/NP 	 1 	 investment weakening <XB>
+11 	 10 	 N/N 	 1 	 developments other
+11 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 developments are
+11 	 13 	 (S[ng]\NP)/NP 	 1 	 developments weakening <XB>
+12 	 5 	 (S[b]\NP)/S[dcl] 	 2 	 are say
+13 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 weakening are
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 Viacom 's
+17 	 13 	 (S[ng]\NP)/NP 	 2 	 suit weakening
+17 	 15 	 (NP[nb]/N)\NP 	 1 	 suit 's
+17 	 16 	 N/N 	 1 	 suit antitrust
+17 	 18 	 (NP\NP)/NP 	 1 	 suit against
+19 	 18 	 (NP\NP)/NP 	 2 	 Time against
+<\s>
+<s id="wsj_1190.25"> 36
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Viacom accuses
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 accuses in
+2 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Time accuses
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 suit in
+5 	 4 	 NP[nb]/N 	 1 	 suit its
+6 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 of accuses
+7 	 6 	 PP/(S[ng]\NP) 	 1 	 refusing of
+8 	 7 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to refusing
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 carry to
+9 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 carry on
+10 	 9 	 (S[b]\NP)/NP 	 2 	 Showtime carry
+14 	 9 	 (S[b]\NP)/NP 	 2 	 service carry
+14 	 12 	 NP[nb]/N 	 1 	 service a
+14 	 13 	 N/N 	 1 	 service sister
+18 	 9 	 (S[b]\NP)/NP 	 2 	 Channel carry
+18 	 16 	 NP[nb]/N 	 1 	 Channel The
+18 	 17 	 N/N 	 1 	 Channel Movie
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 Time 's
+26 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 system on
+26 	 22 	 (NP[nb]/N)\NP 	 1 	 system 's
+26 	 23 	 N/N 	 1 	 system Manhattan
+26 	 24 	 N/N 	 1 	 system Cable
+26 	 25 	 N/N 	 1 	 system TV
+28 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 one on
+28 	 29 	 (NP\NP)/NP 	 1 	 one of
+31 	 30 	 NP[nb]/N 	 1 	 nation the
+31 	 32 	 (NP[nb]/N)\NP 	 2 	 nation 's
+35 	 29 	 (NP\NP)/NP 	 2 	 systems of
+35 	 32 	 (NP[nb]/N)\NP 	 1 	 systems 's
+35 	 33 	 N/N 	 1 	 systems largest
+35 	 34 	 N/N 	 1 	 systems urban
+<\s>
+<s id="wsj_1190.26"> 17
+4 	 3 	 N/N 	 1 	 Cable Manhattan
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Cable announced
+5 	 0 	 S/S 	 1 	 announced But
+5 	 1 	 S/S 	 1 	 announced yesterday
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+6 	 8 	 (S[b]\NP)/NP 	 1 	 it launch <XB>
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 will announced
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 launch will
+8 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 launch on
+8 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 launch to
+9 	 8 	 (S[b]\NP)/NP 	 2 	 Showtime launch
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 Nov. on
+12 	 11 	 N/N[num] 	 1 	 1 Nov.
+15 	 14 	 (N/N)/(N/N) 	 2 	 230,000 over
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 subscribers to
+16 	 15 	 N/N 	 1 	 subscribers 230,000
+<\s>
+<s id="wsj_1190.27"> 25
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Showtime has
+0 	 3 	 ((S[pt]\NP)/PP)/NP 	 1 	 Showtime accused <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 has also
+3 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 accused has
+4 	 3 	 ((S[pt]\NP)/PP)/NP 	 3 	 HBO accused
+5 	 3 	 ((S[pt]\NP)/PP)/NP 	 2 	 of accused
+6 	 5 	 PP/(S[ng]\NP) 	 1 	 locking of
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 locking up
+6 	 16 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 locking by
+9 	 8 	 NP[nb]/N 	 1 	 lion the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 lion 's
+11 	 6 	 (S[ng]\NP)/NP 	 2 	 share locking
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 share 's
+11 	 12 	 (NP\NP)/NP 	 1 	 share of
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 Hollywood 's
+15 	 12 	 (NP\NP)/NP 	 2 	 movies of
+15 	 14 	 (NP[nb]/N)\NP 	 1 	 movies 's
+17 	 16 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 signing by
+19 	 17 	 (S[ng]\NP)/NP 	 2 	 contracts signing
+19 	 18 	 N/N 	 1 	 contracts exclusive
+19 	 20 	 (NP\NP)/NP 	 1 	 contracts with
+24 	 20 	 (NP\NP)/NP 	 2 	 studios with
+24 	 21 	 NP/NP 	 1 	 studios all
+24 	 22 	 NP[nb]/N 	 1 	 studios the
+24 	 23 	 N/N 	 1 	 studios major
+<\s>
+<s id="wsj_1190.28"> 33
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Showtime has
+1 	 3 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Showtime continued <XB>
+1 	 5 	 (S[b]\NP)/NP 	 1 	 Showtime sign <XB>
+1 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 Showtime announced <XU>
+2 	 0 	 S/S 	 1 	 has But
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 continued has
+4 	 3 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to continued
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sign to
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 sign with
+7 	 5 	 (S[b]\NP)/NP 	 2 	 contracts sign
+7 	 6 	 N/N 	 1 	 contracts new
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 studios with
+10 	 9 	 N/N 	 1 	 studios Hollywood
+14 	 0 	 S/S 	 1 	 announced But
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 announced yesterday
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+15 	 17 	 ((S[b]\NP)/PP)/NP 	 1 	 it buy <XB>
+16 	 14 	 (S[dcl]\NP)/S[dcl] 	 2 	 will announced
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 buy will
+18 	 17 	 ((S[b]\NP)/PP)/NP 	 3 	 movies buy
+19 	 17 	 ((S[b]\NP)/PP)/NP 	 2 	 from buy
+23 	 19 	 PP/NP 	 1 	 Inc. from
+23 	 20 	 N/N 	 1 	 Inc. Columbia
+23 	 21 	 N/N 	 1 	 Inc. Pictures
+23 	 22 	 N/N 	 1 	 Inc. Entertainment
+23 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Inc. which
+23 	 27 	 (S[dcl]\NP)/NP 	 1 	 Inc. has <XB>
+27 	 25 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+27 	 26 	 (S\NP)/(S\NP) 	 2 	 has currently
+30 	 27 	 (S[dcl]\NP)/NP 	 2 	 arrangement has
+30 	 28 	 NP[nb]/N 	 1 	 arrangement a
+30 	 29 	 N/N 	 1 	 arrangement non-exclusive
+30 	 31 	 (NP\NP)/NP 	 1 	 arrangement with
+32 	 31 	 (NP\NP)/NP 	 2 	 HBO with
+<\s>

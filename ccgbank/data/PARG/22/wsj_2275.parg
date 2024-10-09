@@ -1,0 +1,134 @@
+<s id="wsj_2275.1"> 22
+2 	 0 	 NP[nb]/N 	 1 	 Workers The
+2 	 1 	 N/N 	 1 	 Workers Communications
+2 	 3 	 (NP\NP)/NP 	 1 	 Workers of
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 Workers ratified
+4 	 3 	 (NP\NP)/NP 	 2 	 America of
+9 	 5 	 (S[dcl]\NP)/NP 	 2 	 contract ratified
+9 	 6 	 NP[nb]/N 	 1 	 contract a
+9 	 7 	 N/N 	 1 	 contract new
+9 	 8 	 N/N 	 1 	 contract regional
+11 	 5 	 (S[dcl]\NP)/NP 	 2 	 all ratified
+11 	 14 	 (NP\NP)/NP 	 1 	 all of
+13 	 5 	 (S[dcl]\NP)/NP 	 2 	 one ratified
+13 	 14 	 (NP\NP)/NP 	 1 	 one of
+17 	 14 	 (NP\NP)/NP 	 2 	 agreements of
+17 	 15 	 NP[nb]/N 	 1 	 agreements the
+17 	 16 	 N/N 	 1 	 agreements local
+17 	 18 	 (NP\NP)/NP 	 1 	 agreements with
+21 	 18 	 (NP\NP)/NP 	 2 	 Corp with
+21 	 19 	 N/N 	 1 	 Corp Bell
+21 	 20 	 N/N 	 1 	 Corp Atlantic
+<\s>
+<s id="wsj_2275.2"> 21
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 CWA 's
+5 	 1 	 (NP[nb]/N)\NP 	 1 	 local 's
+5 	 2 	 N/N 	 1 	 local New
+5 	 3 	 N/N 	 1 	 local Jersey
+5 	 4 	 N/N 	 1 	 local Commercial
+5 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 local which
+5 	 8 	 (S[dcl]\NP)/NP 	 1 	 local represents <XB>
+5 	 17 	 (S[dcl]\NP)/NP 	 1 	 local rejected
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 represents which
+10 	 9 	 (N/N)/(N/N) 	 2 	 2,500 about
+12 	 8 	 (S[dcl]\NP)/NP 	 2 	 representatives represents
+12 	 10 	 N/N 	 1 	 representatives 2,500
+12 	 11 	 N/N 	 1 	 representatives service
+15 	 8 	 (S[dcl]\NP)/NP 	 2 	 employees represents
+15 	 10 	 N/N 	 1 	 employees 2,500
+15 	 14 	 N/N 	 1 	 employees marketing
+20 	 17 	 (S[dcl]\NP)/NP 	 2 	 agreement rejected
+20 	 18 	 NP[nb]/N 	 1 	 agreement the
+20 	 19 	 N/N 	 1 	 agreement tentative
+<\s>
+<s id="wsj_2275.3"> 16
+2 	 0 	 NP/NP 	 1 	 union Both
+2 	 1 	 NP[nb]/N 	 1 	 union the
+2 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 union said
+7 	 0 	 NP/NP 	 1 	 company Both
+7 	 4 	 NP[nb]/N 	 1 	 company the
+7 	 5 	 N/N 	 1 	 company regional
+7 	 6 	 N/N 	 1 	 company telephone
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they were
+9 	 11 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 they working <XB>
+9 	 12 	 S[adj]\NP 	 1 	 they together <XB>
+9 	 14 	 (S[b]\NP)/NP 	 1 	 they resolve <XB>
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 working were
+12 	 11 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 together working
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 resolve to
+15 	 14 	 (S[b]\NP)/NP 	 2 	 differences resolve
+<\s>
+<s id="wsj_2275.4"> 18
+3 	 0 	 NP[nb]/N 	 1 	 contracts The
+3 	 1 	 N/N 	 1 	 contracts new
+3 	 2 	 N/N 	 1 	 contracts three-year
+3 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 contracts which
+3 	 6 	 (S[dcl]\NP)/NP 	 1 	 contracts replace <XB>
+3 	 13 	 (S[dcl]\NP)/NP 	 1 	 contracts cover
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 replace which
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 ones replace
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 ones that
+7 	 9 	 S[dcl]\NP 	 1 	 ones expired <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 expired that
+9 	 10 	 ((S\NP)\(S\NP))/N[num] 	 2 	 expired Aug.
+11 	 10 	 ((S\NP)\(S\NP))/N[num] 	 3 	 5 Aug.
+17 	 13 	 (S[dcl]\NP)/NP 	 2 	 employees cover
+17 	 14 	 N/N 	 1 	 employees 41,000
+17 	 15 	 N/N 	 1 	 employees Bell
+17 	 16 	 N/N 	 1 	 employees Atlantic
+<\s>
+<s id="wsj_2275.5"> 10
+1 	 0 	 NP[nb]/N 	 1 	 ratification The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 ratification follows
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 strike follows
+5 	 3 	 NP[nb]/N 	 1 	 strike a
+5 	 4 	 N/N 	 1 	 strike 23-day
+5 	 6 	 (NP\NP)/NP 	 1 	 strike against
+9 	 6 	 (NP\NP)/NP 	 2 	 company against
+9 	 7 	 NP[nb]/N 	 1 	 company the
+9 	 8 	 N/N 	 1 	 company Philadelphia-based
+<\s>
+<s id="wsj_2275.6"> 23
+2 	 10 	 (S[dcl]\NP)/PP 	 1 	 CWA remain
+5 	 4 	 N/N 	 1 	 Brotherhood International
+5 	 6 	 (NP\NP)/NP 	 1 	 Brotherhood of
+5 	 10 	 (S[dcl]\NP)/PP 	 1 	 Brotherhood remain
+9 	 6 	 (NP\NP)/NP 	 2 	 members of
+9 	 7 	 N/N 	 1 	 members Electrical
+9 	 8 	 N/N 	 1 	 members Workers
+10 	 0 	 S/S 	 1 	 remain Meanwhile
+11 	 10 	 (S[dcl]\NP)/PP 	 2 	 on remain
+12 	 11 	 PP/NP 	 1 	 strike on
+12 	 13 	 (NP\NP)/NP 	 1 	 strike against
+15 	 13 	 (NP\NP)/NP 	 2 	 Corp. against
+15 	 14 	 N/N 	 1 	 Corp. Nynex
+19 	 18 	 (N/N)/(N/N) 	 2 	 York-based New
+22 	 13 	 (NP\NP)/NP 	 2 	 company against
+22 	 17 	 NP[nb]/N 	 1 	 company the
+22 	 19 	 N/N 	 1 	 company York-based
+22 	 20 	 N/N 	 1 	 company regional
+22 	 21 	 N/N 	 1 	 company phone
+<\s>
+<s id="wsj_2275.7"> 10
+1 	 0 	 NP[nb]/N 	 1 	 unions The
+1 	 7 	 (S[dcl]\NP)/PP 	 1 	 unions agreed
+4 	 3 	 NP[nb]/N 	 1 	 company the
+4 	 7 	 (S[dcl]\NP)/PP 	 1 	 company agreed
+6 	 5 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 week last
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 agreed week
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 to agreed
+9 	 8 	 PP/NP 	 1 	 mediation to
+<\s>
+<s id="wsj_2275.8"> 12
+1 	 0 	 NP[nb]/N 	 1 	 CWA The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 CWA represents
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 workers represents
+5 	 3 	 N/N 	 1 	 workers 40,000
+5 	 4 	 N/N 	 1 	 workers Nynex
+8 	 7 	 NP[nb]/N 	 1 	 IBEW the
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 IBEW represents
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 workers represents
+11 	 10 	 N/N 	 1 	 workers 20,000
+<\s>

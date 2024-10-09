@@ -1,0 +1,932 @@
+<s id="wsj_1373.1"> 8
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Chip 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 Memory 's
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Memory Is
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 Is Today
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 Here Is
+7 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 Here Is
+<\s>
+<s id="wsj_1373.2"> 20
+1 	 0 	 N/N 	 1 	 COMPANIES TWO
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 COMPANIES plan
+1 	 4 	 (S[b]\NP)/NP 	 1 	 COMPANIES market <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plan
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 market to
+7 	 4 	 (S[b]\NP)/NP 	 2 	 chip market
+7 	 5 	 NP[nb]/N 	 1 	 chip a
+7 	 6 	 N/N 	 1 	 chip new
+7 	 8 	 (NP\NP)/NP 	 1 	 chip with
+10 	 8 	 (NP\NP)/NP 	 2 	 circuits with
+10 	 9 	 N/N 	 1 	 circuits ceramic
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 circuits that
+10 	 12 	 (S[dcl]\NP)/NP 	 1 	 circuits store <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 store that
+12 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 store when
+13 	 12 	 (S[dcl]\NP)/NP 	 2 	 data store
+15 	 14 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 when even
+17 	 16 	 NP[nb]/N 	 1 	 power the
+17 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 power is
+17 	 19 	 S[adj]\NP 	 1 	 power off <XB>
+18 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is when
+19 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 off is
+<\s>
+<s id="wsj_1373.3"> 31
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Today 's
+3 	 2 	 ((N/N)/(N/N))/((N/N)/(N/N)) 	 3 	 widely most
+4 	 3 	 (N/N)/(N/N) 	 2 	 used widely
+6 	 1 	 (NP[nb]/N)\NP 	 1 	 chips 's
+6 	 4 	 N/N 	 1 	 chips used
+6 	 5 	 N/N 	 1 	 chips data-storing
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 chips have
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 memories have
+9 	 8 	 N/N 	 1 	 memories volatile
+9 	 10 	 (NP\NP)/S[dcl] 	 1 	 memories --
+12 	 11 	 NP[nb]/N 	 1 	 data their
+12 	 13 	 S[dcl]\NP 	 1 	 data disappear
+13 	 10 	 (NP\NP)/S[dcl] 	 2 	 disappear --
+13 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 disappear if
+13 	 25 	 (S\S)/S[dcl] 	 1 	 disappear so
+15 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 they are
+15 	 18 	 (S[pss]\NP)/NP 	 1 	 they fed <XB>
+16 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are if
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 are n't
+18 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 fed are
+21 	 18 	 (S[pss]\NP)/NP 	 2 	 diet fed
+21 	 19 	 NP[nb]/N 	 1 	 diet a
+21 	 20 	 N/N 	 1 	 diet steady
+21 	 22 	 (NP\NP)/NP 	 1 	 diet of
+23 	 22 	 (NP\NP)/NP 	 2 	 electricity of
+26 	 27 	 (S[dcl]\NP)/NP 	 1 	 they need
+27 	 25 	 (S\S)/S[dcl] 	 2 	 need so
+30 	 27 	 (S[dcl]\NP)/NP 	 2 	 supplies need
+30 	 28 	 N/N 	 1 	 supplies external
+30 	 29 	 N/N 	 1 	 supplies power
+<\s>
+<s id="wsj_1373.4"> 32
+2 	 0 	 N/N 	 1 	 Corp. National
+2 	 1 	 N/N 	 1 	 Corp. Semiconductor
+2 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Corp. plan
+2 	 11 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 Corp. start <XB>
+2 	 12 	 (S[ng]\NP)/NP 	 1 	 Corp. shipping <XB>
+5 	 4 	 NP[nb]/N 	 1 	 start-up a
+5 	 6 	 (S[pss]\NP)/NP 	 1 	 start-up named <XB>
+5 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 start-up plan
+5 	 11 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 start-up start <XB>
+5 	 12 	 (S[ng]\NP)/NP 	 1 	 start-up shipping <XB>
+8 	 6 	 (S[pss]\NP)/NP 	 2 	 Corp. named
+8 	 7 	 N/N 	 1 	 Corp. Ramtron
+10 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plan
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 start to
+12 	 11 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 shipping start
+15 	 12 	 (S[ng]\NP)/NP 	 2 	 memories shipping
+15 	 13 	 N/N 	 1 	 memories so-called
+15 	 14 	 N/N 	 1 	 memories ferroelectric
+15 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 memories which
+15 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 memories can <XB>
+15 	 19 	 (S[b]\NP)/NP 	 1 	 memories remember <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 can which
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 remember can
+19 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 remember for
+19 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 remember without
+20 	 19 	 (S[b]\NP)/NP 	 2 	 data remember
+23 	 22 	 ((N/N)/(N/N))/(S[asup]\NP) 	 3 	 least at
+24 	 22 	 ((N/N)/(N/N))/(S[asup]\NP) 	 2 	 10 at
+25 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+25 	 24 	 N/N 	 1 	 years 10
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 current without
+28 	 27 	 NP[nb]/N 	 1 	 current any
+28 	 29 	 (S[ng]\NP)/PP 	 1 	 current flowing <XB>
+30 	 29 	 (S[ng]\NP)/PP 	 2 	 to flowing
+31 	 30 	 PP/NP 	 1 	 them to
+<\s>
+<s id="wsj_1373.5"> 21
+1 	 0 	 NP[nb]/N 	 1 	 chips The
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 chips use
+3 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 materials use
+3 	 6 	 (NP\NP)/NP 	 1 	 materials as
+3 	 12 	 (S[b]\NP)/NP 	 1 	 materials form <XB>
+6 	 5 	 (NP\NP)/(NP\NP) 	 2 	 as such
+9 	 6 	 (NP\NP)/NP 	 2 	 titanate as
+9 	 7 	 N/N 	 1 	 titanate lead
+9 	 8 	 N/N 	 1 	 titanate zirconate
+11 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to use
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 form to
+14 	 12 	 (S[b]\NP)/NP 	 2 	 switches form
+14 	 13 	 N/N 	 1 	 switches microscopic
+14 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 switches that
+14 	 16 	 (S[dcl]\NP)/NP 	 1 	 switches retain <XB>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 retain that
+16 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 retain without
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 data retain
+18 	 17 	 NP[nb]/N 	 1 	 data their
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 electricity without
+<\s>
+<s id="wsj_1373.6"> 16
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Developers caution
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that caution
+4 	 3 	 N/N 	 1 	 applications broad
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 applications are
+4 	 8 	 (S[adj]\NP)\NP 	 1 	 applications away <XB>
+5 	 2 	 S[em]/S[dcl] 	 1 	 are that
+5 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 are because
+7 	 6 	 N/N 	 1 	 years several
+7 	 8 	 (S[adj]\NP)\NP 	 2 	 years away
+8 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 away are
+11 	 10 	 NP[nb]/N 	 1 	 technology the
+11 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 technology is
+11 	 15 	 S[pss]\NP 	 1 	 technology refined <XB>
+12 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is because
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 is n't
+12 	 14 	 (S\NP)\(S\NP) 	 2 	 is fully
+15 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 refined is
+<\s>
+<s id="wsj_1373.7"> 20
+1 	 2 	 (NP\NP)/NP 	 1 	 Ramtron of
+1 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Ramtron plans
+1 	 10 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 Ramtron start <XB>
+1 	 11 	 (S[ng]\NP)/NP 	 1 	 Ramtron shipping <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 Springs of
+4 	 3 	 N/N 	 1 	 Springs Colorado
+6 	 2 	 (NP\NP)/NP 	 2 	 Colo. of
+8 	 0 	 S/S 	 1 	 plans But
+9 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 start to
+10 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 start in
+11 	 10 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 shipping start
+13 	 11 	 (S[ng]\NP)/NP 	 2 	 quantities shipping
+13 	 12 	 N/N 	 1 	 quantities commercial
+13 	 14 	 (NP\NP)/NP 	 1 	 quantities of
+17 	 14 	 (NP\NP)/NP 	 2 	 chips of
+17 	 15 	 N/N 	 1 	 chips simple
+17 	 16 	 N/N 	 1 	 chips ferroelectric
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 December in
+<\s>
+<s id="wsj_1373.8"> 26
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 company expects
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 chips expects
+4 	 3 	 NP[nb]/N 	 1 	 chips the
+4 	 8 	 (S[pss]\NP)/PP 	 1 	 chips used <XB>
+6 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 to eventually
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+9 	 8 	 (S[pss]\NP)/PP 	 2 	 in used
+10 	 9 	 PP/NP 	 1 	 devices in
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 devices that
+10 	 12 	 (S[dcl]\NP)/NP 	 1 	 devices mimic <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 mimic that
+15 	 12 	 (S[dcl]\NP)/NP 	 2 	 range mimic
+15 	 13 	 NP[nb]/N 	 1 	 range a
+15 	 14 	 N/N 	 1 	 range whole
+15 	 16 	 (NP\NP)/NP 	 1 	 range of
+15 	 21 	 (NP\NP)/NP 	 1 	 range including
+19 	 16 	 (NP\NP)/NP 	 2 	 equipment of
+19 	 17 	 N/N 	 1 	 equipment computer
+19 	 18 	 N/N 	 1 	 equipment memory
+25 	 21 	 (NP\NP)/NP 	 2 	 drives including
+25 	 22 	 N/N 	 1 	 drives floppy-disk <XU>
+25 	 24 	 N/N 	 1 	 drives hard-disk
+<\s>
+<s id="wsj_1373.9"> 13
+1 	 0 	 N/N 	 1 	 Semiconductor National
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Semiconductor is
+1 	 3 	 ((S[ng]\NP)/PP)/NP 	 1 	 Semiconductor getting <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 getting is
+5 	 3 	 ((S[ng]\NP)/PP)/NP 	 3 	 technology getting
+5 	 4 	 N/N 	 1 	 technology ferroelectric
+6 	 3 	 ((S[ng]\NP)/PP)/NP 	 2 	 from getting
+8 	 6 	 PP/NP 	 1 	 Corp. from
+8 	 7 	 N/N 	 1 	 Corp. Krysalis
+8 	 9 	 (NP\NP)/NP 	 1 	 Corp. in
+10 	 9 	 (NP\NP)/NP 	 2 	 Albuquerque in
+12 	 9 	 (NP\NP)/NP 	 2 	 N.M in
+<\s>
+<s id="wsj_1373.10"> 27
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 National says
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it agreed
+2 	 5 	 (S[b]\NP)/NP 	 1 	 it acquire <XB>
+2 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will <XU>
+2 	 11 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 it start <XU>
+2 	 12 	 (S[ng]\NP)/NP 	 1 	 it shipping <XU>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 agreed says
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Krysalis 's
+8 	 5 	 (S[b]\NP)/NP 	 2 	 assets acquire
+8 	 7 	 (NP[nb]/N)\NP 	 1 	 assets 's
+10 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 will says
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 start will
+11 	 26 	 (S\NP)\(S\NP) 	 2 	 start year
+12 	 11 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 shipping start
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 quantities shipping
+14 	 13 	 N/N 	 1 	 quantities commercial
+14 	 15 	 (NP\NP)/NP 	 1 	 quantities of
+18 	 15 	 (NP\NP)/NP 	 2 	 chips of
+18 	 16 	 NP[nb]/N 	 1 	 chips its
+18 	 17 	 N/N 	 1 	 chips first
+18 	 20 	 (NP\NP)/NP 	 1 	 chips including
+23 	 20 	 (NP\NP)/NP 	 2 	 memory including
+23 	 21 	 NP[nb]/N 	 1 	 memory a
+23 	 22 	 N/N 	 1 	 memory 4-kilobit
+26 	 25 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+<\s>
+<s id="wsj_1373.11"> 17
+2 	 1 	 N/N 	 1 	 hurdles production
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 hurdles are
+2 	 4 	 S[pss]\NP 	 1 	 hurdles overcome <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 are Once
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 overcome are
+7 	 6 	 NP[nb]/N 	 1 	 chips the
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 chips could
+7 	 9 	 (S[b]\NP)/NP 	 1 	 chips take <XB>
+8 	 0 	 (S/S)/S[dcl] 	 1 	 could Once
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take could
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 take over
+13 	 9 	 (S[b]\NP)/NP 	 2 	 part take
+13 	 11 	 NP[nb]/N 	 1 	 part a
+13 	 12 	 N/N 	 1 	 part significant
+13 	 14 	 (NP\NP)/NP 	 1 	 part of
+16 	 14 	 (NP\NP)/NP 	 2 	 market of
+16 	 15 	 NP[nb]/N 	 1 	 market the
+<\s>
+<s id="wsj_1373.12"> 25
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+1 	 2 	 (NP\NP)/(S[ng]\NP) 	 1 	 addition to
+4 	 2 	 (NP\NP)/(S[ng]\NP) 	 2 	 needing to
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 needing not
+8 	 4 	 (S[ng]\NP)/NP 	 2 	 source needing
+8 	 5 	 NP[nb]/N 	 1 	 source an
+8 	 6 	 N/N 	 1 	 source outside
+8 	 7 	 N/N 	 1 	 source power
+10 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they are
+10 	 13 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 they cheaper <XB>
+11 	 0 	 (S/S)/NP 	 1 	 are In
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 are potentially
+11 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 are because
+13 	 11 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 cheaper are
+14 	 13 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to cheaper
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 they require
+18 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 require because
+21 	 18 	 (S[dcl]\NP)/NP 	 2 	 steps require
+21 	 19 	 N/N 	 1 	 steps fewer
+21 	 20 	 N/N 	 1 	 steps manufacturing
+21 	 22 	 (NP\NP)/NP 	 1 	 steps than
+24 	 22 	 (NP\NP)/NP 	 2 	 chips than
+24 	 23 	 N/N 	 1 	 chips conventional
+<\s>
+<s id="wsj_1373.13"> 15
+1 	 0 	 N/N 	 1 	 buyers Military
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 buyers have
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 buyers shown <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 shown have
+3 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 shown because
+4 	 3 	 (S[pt]\NP)/NP 	 2 	 interest shown
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 National says
+11 	 10 	 N/N 	 1 	 chips ferroelectric
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 chips resist
+12 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 resist because
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 radiation resist
+14 	 13 	 N/N 	 1 	 radiation atomic
+<\s>
+<s id="wsj_1373.14"> 40
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 today 's
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 chips 's
+5 	 4 	 N/N 	 1 	 chips non-volatile
+5 	 8 	 (NP\NP)/NP 	 1 	 chips as
+5 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 chips ca
+5 	 19 	 S[pss]\NP 	 1 	 chips used <XB>
+8 	 7 	 (NP\NP)/(NP\NP) 	 2 	 as such
+10 	 9 	 (N/N)/(N/N) 	 2 	 erasable electronically
+14 	 8 	 (NP\NP)/NP 	 2 	 chips as
+14 	 10 	 N/N 	 1 	 chips erasable
+14 	 11 	 N/N 	 1 	 chips programmable
+14 	 12 	 N/N 	 1 	 chips read-only
+14 	 13 	 N/N 	 1 	 chips memory
+16 	 1 	 (S/S)/S[dcl] 	 2 	 ca while
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 ca n't
+18 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be ca
+19 	 18 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 used in
+19 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 used because
+22 	 21 	 NP[nb]/N 	 1 	 computer a
+22 	 23 	 (NP[nb]/N)\NP 	 2 	 computer 's
+25 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 memory in
+25 	 23 	 (NP[nb]/N)\NP 	 1 	 memory 's
+25 	 24 	 N/N 	 1 	 memory central
+27 	 28 	 (S[dcl]\NP)/NP 	 1 	 they learn
+28 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 learn because
+28 	 30 	 (S\NP)\(S\NP) 	 2 	 learn slowly
+29 	 28 	 (S[dcl]\NP)/NP 	 2 	 data learn
+33 	 32 	 N/N 	 1 	 chips ferroelectric
+33 	 34 	 (S[dcl]\NP)/NP 	 1 	 chips accept
+34 	 0 	 S/S 	 1 	 accept And
+34 	 1 	 (S/S)/S[dcl] 	 1 	 accept while
+34 	 36 	 ((S\NP)\(S\NP))/NP 	 2 	 accept at
+35 	 34 	 (S[dcl]\NP)/NP 	 2 	 data accept
+39 	 36 	 ((S\NP)\(S\NP))/NP 	 3 	 speeds at
+39 	 37 	 N/N 	 1 	 speeds very
+39 	 38 	 N/N 	 1 	 speeds high
+<\s>
+<s id="wsj_1373.15"> 6
+0 	 1 	 (S\NP)\(S\NP) 	 2 	 Showing Up
+0 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 Showing in
+0 	 4 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 Showing Without
+3 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 Court in
+5 	 4 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 Being Without
+6 	 5 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 There Being
+<\s>
+<s id="wsj_1373.16"> 24
+3 	 1 	 (N/N)/(N/N) 	 2 	 Texas AUSTIN
+5 	 0 	 NP[nb]/N 	 1 	 company AN
+5 	 3 	 N/N 	 1 	 company Texas
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 company plans
+5 	 8 	 (((S[b]\NP)/S[for])/(S[adj]\NP))/NP[expl] 	 1 	 company make <XB>
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+9 	 8 	 (((S[b]\NP)/S[for])/(S[adj]\NP))/NP[expl] 	 4 	 it make
+10 	 8 	 (((S[b]\NP)/S[for])/(S[adj]\NP))/NP[expl] 	 3 	 easy make
+11 	 8 	 (((S[b]\NP)/S[for])/(S[adj]\NP))/NP[expl] 	 2 	 for make
+12 	 11 	 (S[for]/(S[b]\NP))/NP 	 2 	 you for
+12 	 13 	 S[b]\NP 	 1 	 you show <XB>
+12 	 22 	 (S[ng]\NP)/NP 	 1 	 you leaving <XB>
+13 	 11 	 (S[for]/(S[b]\NP))/NP 	 1 	 show for
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 show up
+13 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 show in
+13 	 20 	 ((S\NP)\(S\NP))\NP 	 2 	 show away
+13 	 21 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 show without
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 court in
+19 	 17 	 NP[nb]/N 	 1 	 miles a
+19 	 18 	 N/N 	 1 	 miles thousand
+19 	 20 	 ((S\NP)\(S\NP))\NP 	 3 	 miles away
+22 	 21 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 leaving without
+23 	 22 	 (S[ng]\NP)/NP 	 2 	 town leaving
+<\s>
+<s id="wsj_1373.17"> 15
+0 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Witnesses must
+0 	 3 	 (S[b]\NP)/NP 	 1 	 Witnesses travel <XB>
+0 	 7 	 (S[b]\NP)/NP 	 1 	 Witnesses give <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 must often
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 travel must
+5 	 3 	 (S[b]\NP)/NP 	 2 	 distances travel
+5 	 4 	 N/N 	 1 	 distances long
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give to
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 give before
+9 	 7 	 (S[b]\NP)/NP 	 2 	 depositions give
+9 	 8 	 N/N 	 1 	 depositions face-to-face
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 lawyers before
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 reporters before
+14 	 13 	 N/N 	 1 	 reporters court
+<\s>
+<s id="wsj_1373.18"> 5
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That means
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 bills means
+4 	 2 	 N/N 	 1 	 bills huge
+4 	 3 	 N/N 	 1 	 bills travel
+<\s>
+<s id="wsj_1373.19"> 11
+4 	 1 	 N/N 	 1 	 depositions telephone
+4 	 3 	 N/N 	 1 	 depositions videotape
+4 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 depositions do
+4 	 8 	 (S[b]\NP)/NP 	 1 	 depositions match <XB>
+6 	 0 	 S/S 	 1 	 do And
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 do just
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 do n't
+8 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 match do
+10 	 8 	 (S[b]\NP)/NP 	 2 	 encounters match
+10 	 9 	 N/N 	 1 	 encounters physical
+<\s>
+<s id="wsj_1373.20"> 12
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 That could
+0 	 2 	 S[b]\NP 	 1 	 That change <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 change could
+4 	 5 	 (NP\NP)/NP 	 1 	 thanks to
+8 	 5 	 (NP\NP)/NP 	 2 	 rates to
+8 	 6 	 N/N 	 1 	 rates lower
+8 	 7 	 N/N 	 1 	 rates long-distance
+11 	 5 	 (NP\NP)/NP 	 2 	 electronics to
+11 	 10 	 N/N 	 1 	 electronics cheaper
+<\s>
+<s id="wsj_1373.21"> 25
+2 	 0 	 N/N 	 1 	 Corp. Video
+2 	 1 	 N/N 	 1 	 Corp. Telecom
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Corp. which
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 Corp. markets <XB>
+2 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Corp. is
+2 	 10 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Corp. working <XB>
+2 	 15 	 (S[b]\NP)/NP 	 1 	 Corp. wire <XB>
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 markets which
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 systems markets
+7 	 6 	 N/N 	 1 	 systems videoconferencing
+10 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 working is
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 working with
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 reporters with
+13 	 12 	 N/N 	 1 	 reporters court
+14 	 10 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to working
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 wire to
+18 	 15 	 (S[b]\NP)/NP 	 2 	 network wire
+18 	 16 	 NP[nb]/N 	 1 	 network a
+18 	 17 	 N/N 	 1 	 network nationwide
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 allow to
+21 	 20 	 (S[b]\NP)/NP 	 2 	 depositions allow
+21 	 22 	 (NP\NP)/NP 	 1 	 depositions by
+24 	 22 	 (NP\NP)/NP 	 2 	 television by
+24 	 23 	 N/N 	 1 	 television live
+<\s>
+<s id="wsj_1373.22"> 15
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 company installed
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 system installed
+5 	 3 	 NP[nb]/N 	 1 	 system a
+5 	 4 	 N/N 	 1 	 system prototype
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 system that
+5 	 7 	 ((S[dcl]\NP)/PP)/NP 	 1 	 system connects <XB>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 connects that
+7 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 connects over
+8 	 7 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Dallas connects
+9 	 7 	 ((S[dcl]\NP)/PP)/NP 	 2 	 with connects
+10 	 9 	 PP/NP 	 1 	 Miami with
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 lines over
+14 	 12 	 N/N 	 1 	 lines digital
+14 	 13 	 N/N 	 1 	 lines phone
+<\s>
+<s id="wsj_1373.23"> 27
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+1 	 3 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 it preparing <XB>
+1 	 5 	 (S[b]\NP)/NP 	 1 	 it set <XB>
+2 	 0 	 S/S 	 1 	 is And
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 preparing is
+4 	 3 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to preparing
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 set to
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 set up
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 set in
+7 	 5 	 (S[b]\NP)/NP 	 2 	 shop set
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Chicago in
+9 	 17 	 (NP\NP)/S[dcl] 	 1 	 Chicago where
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 York in
+12 	 11 	 N/N 	 1 	 York New
+12 	 17 	 (NP\NP)/S[dcl] 	 1 	 York where
+16 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 cities in
+16 	 14 	 N/N 	 1 	 cities 10
+16 	 15 	 N/N 	 1 	 cities other
+16 	 17 	 (NP\NP)/S[dcl] 	 1 	 cities where
+19 	 18 	 N/N 	 1 	 agencies court-reporting
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 agencies can
+19 	 21 	 ((S[b]\NP)/PP)/NP 	 1 	 agencies tie <XB>
+20 	 17 	 (NP\NP)/S[dcl] 	 2 	 can where
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 tie can
+23 	 21 	 ((S[b]\NP)/PP)/NP 	 3 	 rooms tie
+23 	 22 	 N/N 	 1 	 rooms conference
+24 	 21 	 ((S[b]\NP)/PP)/NP 	 2 	 into tie
+26 	 24 	 PP/NP 	 1 	 network into
+26 	 25 	 NP[nb]/N 	 1 	 network the
+<\s>
+<s id="wsj_1373.24"> 19
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 lawyers arranged
+2 	 0 	 (S/S)/S[dcl] 	 2 	 arranged While
+2 	 5 	 (S\NP)\(S\NP) 	 2 	 arranged before
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 tie-ups arranged
+4 	 3 	 N/N 	 1 	 tie-ups individual
+9 	 7 	 NP[nb]/N 	 1 	 network the
+9 	 8 	 N/N 	 1 	 network formal
+9 	 10 	 (NP\NP)/NP 	 1 	 network of
+9 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 network should
+9 	 14 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 network make <XB>
+12 	 10 	 (NP\NP)/NP 	 2 	 reporters of
+12 	 11 	 N/N 	 1 	 reporters court
+13 	 0 	 (S/S)/S[dcl] 	 1 	 should While
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make should
+15 	 14 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 things make
+15 	 16 	 S[adj]\NP 	 1 	 things easier <XB>
+15 	 18 	 S[adj]\NP 	 1 	 things cheaper <XU>
+16 	 14 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 easier make
+18 	 14 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 cheaper make
+<\s>
+<s id="wsj_1373.25"> 40
+1 	 0 	 NP[nb]/N 	 1 	 attorney An
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 attorney will
+1 	 4 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 attorney able <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+4 	 3 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 able be
+5 	 4 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 use to
+8 	 6 	 (((S[b]\NP)/(S[to]\NP))/PP)/NP 	 4 	 network use
+8 	 7 	 NP[nb]/N 	 1 	 network the
+8 	 30 	 ((S[b]\NP)/PP)/NP 	 1 	 network take <XB>
+9 	 6 	 (((S[b]\NP)/(S[to]\NP))/PP)/NP 	 3 	 for use
+12 	 9 	 PP/NP 	 1 	 fee for
+12 	 10 	 NP[nb]/N 	 1 	 fee an
+12 	 11 	 N/N 	 1 	 fee hourly
+12 	 13 	 (NP\NP)/NP 	 1 	 fee of
+15 	 13 	 (NP\NP)/NP 	 2 	 $ of
+15 	 14 	 N/N 	 1 	 $ between
+15 	 22 	 ((NP\NP)\NP)/NP 	 1 	 $ on
+16 	 15 	 N/N[num] 	 1 	 200 $
+18 	 13 	 (NP\NP)/NP 	 2 	 $ of
+18 	 14 	 N/N 	 1 	 $ between
+18 	 22 	 ((NP\NP)\NP)/NP 	 1 	 $ on
+19 	 18 	 N/N[num] 	 1 	 400 $
+21 	 22 	 ((NP\NP)\NP)/NP 	 2 	 depending on
+24 	 22 	 ((NP\NP)\NP)/NP 	 3 	 quality on
+24 	 23 	 NP[nb]/N 	 1 	 quality the
+24 	 25 	 (NP\NP)/NP 	 1 	 quality of
+27 	 25 	 (NP\NP)/NP 	 2 	 picture of
+27 	 26 	 NP[nb]/N 	 1 	 picture the
+29 	 6 	 (((S[b]\NP)/(S[to]\NP))/PP)/NP 	 2 	 to use
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 take to
+31 	 30 	 ((S[b]\NP)/PP)/NP 	 3 	 depositions take
+32 	 30 	 ((S[b]\NP)/PP)/NP 	 2 	 from take
+33 	 32 	 PP/NP 	 1 	 witnesses from
+33 	 34 	 (NP\NP)/NP 	 1 	 witnesses in
+35 	 34 	 (NP\NP)/NP 	 2 	 any in
+35 	 36 	 (NP\NP)/NP 	 1 	 any of
+39 	 36 	 (NP\NP)/NP 	 2 	 cities of
+39 	 37 	 NP[nb]/N 	 1 	 cities the
+39 	 38 	 N/N 	 1 	 cities connected
+<\s>
+<s id="wsj_1373.26"> 5
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Japanese Reverse
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 Reverse On
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 Tack Reverse
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Protection On
+5 	 4 	 N/N 	 1 	 Protection Patent
+<\s>
+<s id="wsj_1373.27"> 15
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 JAPAN 'S
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 MISUSE 'S
+2 	 3 	 (NP\NP)/NP 	 1 	 MISUSE of
+2 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 MISUSE has
+2 	 7 	 (S[pt]\NP)/NP 	 1 	 MISUSE been <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 patents of
+5 	 4 	 N/N 	 1 	 patents U.S.
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+10 	 7 	 (S[pt]\NP)/NP 	 2 	 point been
+10 	 8 	 NP[nb]/N 	 1 	 point a
+10 	 9 	 N/N 	 1 	 point sore
+10 	 11 	 (NP\NP)/NP 	 1 	 point for
+14 	 11 	 (NP\NP)/NP 	 2 	 makers for
+14 	 12 	 N/N 	 1 	 makers American
+14 	 13 	 N/N 	 1 	 makers chip
+<\s>
+<s id="wsj_1373.28"> 11
+2 	 1 	 ((N/N)/(N/N))/(S[asup]\NP) 	 3 	 least at
+3 	 1 	 ((N/N)/(N/N))/(S[asup]\NP) 	 2 	 one at
+5 	 3 	 N/N 	 1 	 company one
+5 	 4 	 N/N 	 1 	 company Japanese
+5 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 company is
+5 	 7 	 (S[ng]\NP)/NP 	 1 	 company turning <XB>
+6 	 0 	 S/S 	 1 	 is Now
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 turning is
+10 	 7 	 (S[ng]\NP)/NP 	 2 	 tables turning
+10 	 8 	 NP[nb]/N 	 1 	 tables the
+10 	 9 	 N/N 	 1 	 tables courtroom
+<\s>
+<s id="wsj_1373.29"> 13
+1 	 0 	 (S/S)/NP 	 2 	 now Until
+5 	 3 	 N/N 	 1 	 charges most
+5 	 4 	 N/N 	 1 	 charges Japanese
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 charges have
+5 	 7 	 (S[pt]\NP)/NP 	 1 	 charges been <XB>
+6 	 0 	 (S/S)/NP 	 1 	 have Until
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+8 	 7 	 (S[pt]\NP)/NP 	 2 	 responses been
+8 	 9 	 (NP\NP)/NP 	 1 	 responses to
+10 	 9 	 (NP\NP)/NP 	 2 	 suits to
+10 	 11 	 (NP\NP)/NP 	 1 	 suits against
+12 	 11 	 (NP\NP)/NP 	 2 	 them against
+<\s>
+<s id="wsj_1373.30"> 28
+2 	 1 	 (S/S)/(S/S) 	 2 	 year last
+4 	 3 	 N/N 	 1 	 Ltd. Hitachi
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 Ltd. surprised
+5 	 0 	 S/S 	 1 	 surprised But
+5 	 2 	 S/S 	 1 	 surprised year
+5 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 surprised when
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Japan 's
+9 	 5 	 (S[dcl]\NP)/NP 	 2 	 industry surprised
+9 	 7 	 (NP[nb]/N)\NP 	 1 	 industry 's
+9 	 8 	 N/N 	 1 	 industry electronics
+11 	 12 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it accused
+12 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 accused when
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 Korea 's
+17 	 12 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Co. accused
+17 	 14 	 (NP[nb]/N)\NP 	 1 	 Co. 's
+17 	 15 	 N/N 	 1 	 Co. Samsung
+17 	 16 	 N/N 	 1 	 Co. Electronics
+18 	 12 	 ((S[dcl]\NP)/PP)/NP 	 2 	 of accused
+19 	 18 	 PP/(S[ng]\NP) 	 1 	 using of
+21 	 19 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 technology using
+21 	 20 	 N/N 	 1 	 technology Hitachi
+21 	 23 	 (S[b]\NP)/NP 	 1 	 technology make <XB>
+22 	 19 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to using
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+27 	 23 	 (S[b]\NP)/NP 	 2 	 chips make
+27 	 24 	 N/N 	 1 	 chips dynamic
+27 	 25 	 N/N 	 1 	 chips random-access
+27 	 26 	 N/N 	 1 	 chips memory
+<\s>
+<s id="wsj_1373.31"> 11
+2 	 1 	 NP[nb]/N 	 1 	 settlement A
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 settlement was
+2 	 4 	 S[pss]\NP 	 1 	 settlement reached <XB>
+2 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 settlement was <XU>
+2 	 8 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 settlement made <XU>
+2 	 9 	 S[adj]\NP 	 1 	 settlement public <XU>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 reached was
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 was n't
+8 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 made was
+9 	 8 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 public made
+<\s>
+<s id="wsj_1373.32"> 30
+1 	 2 	 ((S[dcl]\NP)/PP)/PP 	 1 	 Hitachi went
+2 	 0 	 S/S 	 1 	 went And
+2 	 13 	 ((S\NP)\(S\NP))/N 	 2 	 went this
+2 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 went with
+3 	 2 	 ((S[dcl]\NP)/PP)/PP 	 3 	 on went
+5 	 3 	 PP/NP 	 1 	 offensive on
+5 	 4 	 NP[nb]/N 	 1 	 offensive the
+6 	 2 	 ((S[dcl]\NP)/PP)/PP 	 2 	 against went
+8 	 7 	 NP[nb]/N 	 1 	 U.S. the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 U.S. 's
+11 	 6 	 PP/NP 	 1 	 Inc. against
+11 	 9 	 (NP[nb]/N)\NP 	 1 	 Inc. 's
+11 	 10 	 N/N 	 1 	 Inc. Motorola
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 this earlier
+14 	 13 	 ((S\NP)\(S\NP))/N 	 3 	 month this
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 suit with
+17 	 16 	 NP[nb]/N 	 1 	 suit a
+17 	 18 	 (S[ng]\NP)/S[em] 	 1 	 suit charging <XB>
+19 	 18 	 (S[ng]\NP)/S[em] 	 2 	 that charging
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 Motorola 's
+24 	 21 	 (NP[nb]/N)\NP 	 1 	 chip 's
+24 	 22 	 N/N 	 1 	 chip new
+24 	 23 	 N/N 	 1 	 chip MC88200
+24 	 25 	 (S[dcl]\NP)/PP 	 1 	 chip infringes
+25 	 19 	 S[em]/S[dcl] 	 1 	 infringes that
+26 	 25 	 (S[dcl]\NP)/PP 	 2 	 on infringes
+29 	 26 	 PP/NP 	 1 	 patent on
+29 	 27 	 NP[nb]/N 	 1 	 patent a
+29 	 28 	 N/N 	 1 	 patent Hitachi
+<\s>
+<s id="wsj_1373.33"> 22
+3 	 0 	 NP[nb]/N 	 1 	 suit Another
+3 	 1 	 N/N 	 1 	 suit recent
+3 	 2 	 N/N 	 1 	 suit Hitachi
+3 	 4 	 ((S[dcl]\NP)/PP)/NP 	 1 	 suit accuses
+4 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 accuses --
+5 	 4 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Motorola accuses
+6 	 4 	 ((S[dcl]\NP)/PP)/NP 	 2 	 of accuses
+8 	 6 	 PP/(S[ng]\NP) 	 1 	 engineering of
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 engineering reverse
+11 	 8 	 (S[ng]\NP)/NP 	 2 	 technology engineering
+11 	 9 	 NP[nb]/N 	 1 	 technology a
+11 	 10 	 N/N 	 1 	 technology Hitachi
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 turnabout --
+14 	 13 	 NP[nb]/N 	 1 	 turnabout a
+14 	 15 	 (NP\NP)/NP 	 1 	 turnabout from
+17 	 15 	 (NP\NP)/NP 	 2 	 nation from
+17 	 16 	 NP[nb]/N 	 1 	 nation a
+17 	 18 	 (NP\NP)/NP 	 1 	 nation of
+21 	 18 	 (NP\NP)/NP 	 2 	 engineers of
+21 	 19 	 N/N 	 1 	 engineers champion
+21 	 20 	 N/N 	 1 	 engineers reverse
+<\s>
+<s id="wsj_1373.34"> 19
+1 	 0 	 NP[nb]/N 	 1 	 moves The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 moves illustrate
+5 	 4 	 (N/N)/(N/N) 	 2 	 aggressive more
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 attitude illustrate
+6 	 3 	 NP[nb]/N 	 1 	 attitude the
+6 	 5 	 N/N 	 1 	 attitude aggressive
+6 	 7 	 (NP\NP)/NP 	 1 	 attitude toward
+6 	 10 	 (NP\NP)/(S[dcl]/NP) 	 1 	 attitude that
+6 	 18 	 (S[b]\NP)/NP 	 2 	 attitude take <XU>
+9 	 7 	 (NP\NP)/NP 	 2 	 protection toward
+9 	 8 	 N/N 	 1 	 protection patent
+12 	 11 	 N/N 	 1 	 experts patent
+12 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 experts say
+13 	 10 	 (NP\NP)/(S[dcl]/NP) 	 2 	 say that
+14 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Japan is
+14 	 16 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Japan starting <XB>
+14 	 18 	 (S[b]\NP)/NP 	 1 	 Japan take <XB>
+15 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 is say
+16 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 starting is
+17 	 16 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to starting
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 take to
+<\s>
+<s id="wsj_1373.35"> 26
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Hitachi made
+1 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 made in
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 charges made
+4 	 2 	 NP[nb]/N 	 1 	 charges the
+4 	 3 	 N/N 	 1 	 charges reverse-engineering
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 amendment in
+7 	 6 	 NP[nb]/N 	 1 	 amendment an
+7 	 8 	 (NP\NP)/NP 	 1 	 amendment to
+10 	 8 	 (NP\NP)/NP 	 2 	 counterclaim to
+10 	 9 	 NP[nb]/N 	 1 	 counterclaim a
+10 	 11 	 S[pss]\NP 	 1 	 counterclaim filed <XB>
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 filed in
+11 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 filed after
+16 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 court in
+16 	 13 	 NP[nb]/N 	 1 	 court a
+16 	 14 	 N/N 	 1 	 court federal
+16 	 15 	 N/N 	 1 	 court district
+16 	 17 	 (NP\NP)/NP 	 1 	 court in
+18 	 17 	 (NP\NP)/NP 	 2 	 Texas in
+20 	 21 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Motorola sued
+21 	 19 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 sued after
+22 	 21 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Hitachi sued
+23 	 21 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for sued
+25 	 23 	 PP/NP 	 1 	 violation for
+25 	 24 	 N/N 	 1 	 violation patent
+<\s>
+<s id="wsj_1373.36"> 24
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Hitachi charges
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Motorola has
+2 	 4 	 (S[pt]\NP)/PP 	 1 	 Motorola engaged <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 has charges
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 engaged has
+4 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 engaged in
+5 	 4 	 (S[pt]\NP)/PP 	 2 	 in engaged
+9 	 5 	 PP/NP 	 1 	 conduct in
+9 	 6 	 N/N 	 1 	 conduct fraudulent <XU>
+9 	 8 	 N/N 	 1 	 conduct inequitable
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 procurement in
+12 	 11 	 NP[nb]/N 	 1 	 procurement the
+12 	 13 	 (NP\NP)/NP 	 1 	 procurement of
+16 	 13 	 (NP\NP)/NP 	 2 	 patents of
+16 	 14 	 N/N 	 1 	 patents certain
+16 	 15 	 N/N 	 1 	 patents Motorola
+16 	 17 	 (S[pss]\NP)/PP 	 1 	 patents used <XB>
+18 	 17 	 (S[pss]\NP)/PP 	 2 	 in used
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 Motorola 's
+23 	 18 	 PP/NP 	 1 	 chip in
+23 	 20 	 (NP[nb]/N)\NP 	 1 	 chip 's
+23 	 21 	 N/N 	 1 	 chip MC68030
+23 	 22 	 N/N 	 1 	 chip microprocessor
+<\s>
+<s id="wsj_1373.37"> 30
+0 	 1 	 (NP\NP)/S[dcl] 	 1 	 Translation :
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Motorola appears
+2 	 6 	 (S[pt]\NP)/NP 	 1 	 Motorola taken <XB>
+2 	 21 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Motorola tried <XU>
+2 	 23 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 Motorola make <XU>
+3 	 1 	 (NP\NP)/S[dcl] 	 2 	 appears :
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to appears
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+6 	 5 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 taken have
+9 	 6 	 (S[pt]\NP)/NP 	 2 	 technology taken
+9 	 7 	 NP[nb]/N 	 1 	 technology a
+9 	 8 	 N/N 	 1 	 technology Hitachi
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 technology that
+9 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 technology is <XB>
+9 	 12 	 S[pss]\NP 	 1 	 technology patented <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is that
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 patented is
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 patented in
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. in
+15 	 14 	 NP[nb]/N 	 1 	 U.S. the
+17 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 Hitachi says
+21 	 5 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 tried have
+22 	 21 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to tried
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+24 	 23 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 it make
+24 	 25 	 (S[b]\NP)/PP 	 1 	 it look <XB>
+25 	 23 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 look make
+26 	 25 	 (S[b]\NP)/PP 	 2 	 like look
+29 	 26 	 PP/NP 	 1 	 technology like
+29 	 27 	 NP[nb]/N 	 1 	 technology a
+29 	 28 	 N/N 	 1 	 technology new
+<\s>
+<s id="wsj_1373.38"> 11
+0 	 2 	 (S[pt]\NP)/NP 	 1 	 Motorola denied
+0 	 4 	 (S[pt]\NP)/(S[b]\NP) 	 1 	 Motorola would <XU>
+0 	 6 	 (S[b]\NP)/PP 	 1 	 Motorola comment <XU>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 denied either
+4 	 1 	 (S\NP)/(S\NP) 	 2 	 would either
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 would n't
+6 	 4 	 (S[pt]\NP)/(S[b]\NP) 	 2 	 comment would
+7 	 6 	 (S[b]\NP)/PP 	 2 	 on comment
+10 	 2 	 (S[pt]\NP)/NP 	 2 	 charges denied <XU>
+10 	 7 	 PP/NP 	 1 	 charges on
+10 	 8 	 NP[nb]/N 	 1 	 charges the
+10 	 9 	 N/N 	 1 	 charges various
+<\s>
+<s id="wsj_1373.39"> 2
+<\s>
+<s id="wsj_1373.40"> 14
+1 	 0 	 N/N 	 1 	 chips COMPUTER
+1 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 chips that
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 chips simulate <XB>
+1 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 chips have
+1 	 8 	 S[pss]\NP 	 1 	 chips developed <XB>
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 simulate that
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 vision simulate
+5 	 4 	 N/N 	 1 	 vision human
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+8 	 7 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 developed been
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 developed by
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Japan 's
+13 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp by
+13 	 11 	 (NP[nb]/N)\NP 	 1 	 Corp 's
+13 	 12 	 N/N 	 1 	 Corp Sharp
+<\s>
+<s id="wsj_1373.41"> 26
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 They mimic
+0 	 5 	 (S[ng]\NP)/PP 	 1 	 They looking <XB>
+0 	 10 	 (S[ng]\NP)/NP 	 1 	 They extracting <XU>
+0 	 21 	 ((S[ng]\NP)/PP)/NP 	 1 	 They translating <XU>
+1 	 4 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 mimic by
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 brain mimic
+3 	 2 	 NP[nb]/N 	 1 	 brain the
+5 	 4 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 looking by
+6 	 5 	 (S[ng]\NP)/PP 	 2 	 at looking
+8 	 6 	 PP/NP 	 1 	 image at
+8 	 7 	 NP[nb]/N 	 1 	 image an
+10 	 4 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 extracting by
+12 	 10 	 (S[ng]\NP)/NP 	 2 	 fundamentals extracting
+12 	 11 	 NP[nb]/N 	 1 	 fundamentals the
+12 	 13 	 (NP\NP)/NP 	 1 	 fundamentals --
+14 	 13 	 (NP\NP)/NP 	 2 	 boundaries --
+16 	 13 	 (NP\NP)/NP 	 2 	 corners --
+18 	 13 	 (NP\NP)/NP 	 2 	 lines --
+21 	 4 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 translating by
+22 	 21 	 ((S[ng]\NP)/PP)/NP 	 3 	 them translating
+23 	 21 	 ((S[ng]\NP)/PP)/NP 	 2 	 into translating
+25 	 23 	 PP/NP 	 1 	 data into
+25 	 24 	 N/N 	 1 	 data computer
+<\s>
+<s id="wsj_1373.42"> 21
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Sharp says
+3 	 2 	 NP[nb]/N 	 1 	 set the
+3 	 4 	 (NP\NP)/NP 	 1 	 set of
+3 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 set could
+3 	 7 	 (S[b]\NP)/NP 	 1 	 set improve <XB>
+5 	 4 	 (NP\NP)/NP 	 2 	 chips of
+6 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 could says
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 improve could
+9 	 7 	 (S[b]\NP)/NP 	 2 	 machines improve
+9 	 8 	 N/N 	 1 	 machines fax
+12 	 7 	 (S[b]\NP)/NP 	 2 	 computers improve
+12 	 11 	 N/N 	 1 	 computers graphics
+15 	 7 	 (S[b]\NP)/NP 	 2 	 systems improve
+15 	 14 	 N/N 	 1 	 systems identification
+15 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 systems that
+15 	 17 	 (S[dcl]\NP)/NP 	 1 	 systems recognize <XB>
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 recognize that
+19 	 17 	 (S[dcl]\NP)/NP 	 2 	 features recognize
+19 	 18 	 N/N 	 1 	 features facial
+<\s>
+<s id="wsj_1373.43"> 20
+4 	 0 	 NP[nb]/N 	 1 	 unit An
+4 	 1 	 N/N 	 1 	 unit N.V
+4 	 3 	 N/N 	 1 	 unit Philips
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 unit has
+4 	 6 	 (S[pt]\NP)/NP 	 1 	 unit created <XB>
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 created has
+9 	 6 	 (S[pt]\NP)/NP 	 2 	 system created
+9 	 7 	 NP[nb]/N 	 1 	 system a
+9 	 8 	 N/N 	 1 	 system computer
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 system that
+9 	 11 	 (S[dcl]\NP)/NP 	 1 	 system processes <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 processes that
+11 	 16 	 ((S\NP)\(S\NP))\NP 	 2 	 processes faster
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 images processes
+13 	 12 	 N/N 	 1 	 images video
+15 	 14 	 N/N 	 1 	 times 3,000
+15 	 16 	 ((S\NP)\(S\NP))\NP 	 3 	 times faster
+16 	 17 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 faster than
+19 	 17 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 systems than
+19 	 18 	 N/N 	 1 	 systems conventional
+<\s>
+<s id="wsj_1373.44"> 34
+1 	 2 	 (N/N)\(N/N) 	 2 	 reduced instruction-set
+6 	 5 	 (N/N)/(N/N) 	 2 	 RISC or
+8 	 0 	 (S[ng]\NP)/NP 	 2 	 chips Using
+8 	 1 	 N/N 	 1 	 chips reduced
+8 	 3 	 N/N 	 1 	 chips computing
+8 	 6 	 N/N 	 1 	 chips RISC
+8 	 9 	 S[pss]\NP 	 1 	 chips made <XB>
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 made by
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 Intergraph by
+11 	 12 	 (NP\NP)/NP 	 1 	 Intergraph of
+13 	 12 	 (NP\NP)/NP 	 2 	 Huntsville of
+15 	 12 	 (NP\NP)/NP 	 2 	 Ala. of
+18 	 17 	 NP[nb]/N 	 1 	 system the
+18 	 19 	 ((S[dcl]\NP)/PP)/NP 	 1 	 system splits
+21 	 19 	 ((S[dcl]\NP)/PP)/NP 	 3 	 image splits
+21 	 20 	 NP[nb]/N 	 1 	 image the
+21 	 23 	 (S[dcl]\NP)/NP 	 2 	 image sees <XU>
+22 	 23 	 (S[dcl]\NP)/NP 	 1 	 it sees
+24 	 19 	 ((S[dcl]\NP)/PP)/NP 	 2 	 into splits
+27 	 24 	 PP/NP 	 1 	 representations into
+27 	 25 	 N/N 	 1 	 representations 20
+27 	 26 	 N/N 	 1 	 representations digital
+29 	 24 	 PP/NP 	 1 	 each into
+29 	 30 	 S[pss]\NP 	 1 	 each processed <XB>
+30 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 processed by
+33 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 chip by
+33 	 32 	 N/N 	 1 	 chip one
+<\s>

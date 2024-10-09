@@ -1,0 +1,916 @@
+<s id="wsj_1218.1"> 5
+1 	 0 	 N/N 	 1 	 Defect Genetic
+1 	 2 	 S[pss]\NP 	 1 	 Defect Spotted
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 Spotted In
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Embryo In
+5 	 4 	 N/N 	 1 	 Embryo 3-Day-Old
+<\s>
+<s id="wsj_1218.2"> 17
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 RESEARCHERS diagnosed
+1 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 diagnosed in
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 defect diagnosed
+4 	 2 	 NP[nb]/N 	 1 	 defect a
+4 	 3 	 N/N 	 1 	 defect genetic
+4 	 5 	 (NP\NP)/NP 	 1 	 defect in
+9 	 5 	 (NP\NP)/NP 	 2 	 embryo in
+9 	 6 	 NP[nb]/N 	 1 	 embryo a
+9 	 7 	 N/N 	 1 	 embryo three-day-old
+9 	 8 	 N/N 	 1 	 embryo mouse
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 experiment in
+12 	 11 	 NP[nb]/N 	 1 	 experiment an
+12 	 14 	 S[adj]\NP 	 1 	 experiment applicable <XB>
+14 	 13 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 applicable directly
+14 	 15 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 applicable to
+16 	 15 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 humans to
+<\s>
+<s id="wsj_1218.3"> 17
+1 	 0 	 N/N 	 1 	 diagnosis Prenatal
+1 	 2 	 (NP\NP)/NP 	 1 	 diagnosis of
+1 	 6 	 (NP\NP)/PP 	 1 	 diagnosis early
+1 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 diagnosis is
+1 	 15 	 S[adj]\NP 	 1 	 diagnosis common <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 defects of
+4 	 3 	 N/N 	 1 	 defects genetic
+6 	 5 	 (NP\NP)/(NP\NP) 	 2 	 early as
+7 	 6 	 (NP\NP)/PP 	 2 	 as early
+10 	 7 	 PP/NP 	 1 	 week as
+10 	 8 	 NP[nb]/N 	 1 	 week the
+10 	 9 	 N/N 	 1 	 week sixth
+10 	 11 	 (NP\NP)/NP 	 1 	 week of
+12 	 11 	 (NP\NP)/NP 	 2 	 pregnancy of
+13 	 16 	 (S\NP)\(S\NP) 	 2 	 is today
+15 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 common is
+15 	 14 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 common increasingly
+<\s>
+<s id="wsj_1218.4"> 28
+3 	 1 	 NP[nb]/N 	 1 	 experiment the
+3 	 2 	 N/N 	 1 	 experiment mouse
+3 	 4 	 (NP\NP)/NP 	 1 	 experiment at
+3 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 experiment shows
+9 	 4 	 (NP\NP)/NP 	 2 	 laboratory at
+9 	 5 	 NP[nb]/N 	 1 	 laboratory a
+9 	 6 	 N/N 	 1 	 laboratory Medical
+9 	 7 	 N/N 	 1 	 laboratory Research
+9 	 8 	 N/N 	 1 	 laboratory Council
+9 	 10 	 (NP\NP)/NP 	 1 	 laboratory in
+11 	 10 	 (NP\NP)/NP 	 2 	 London in
+12 	 0 	 S/S 	 1 	 shows But
+14 	 13 	 N/N 	 1 	 defects genetic
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 defects can
+14 	 17 	 S[pss]\NP 	 1 	 defects detected <XB>
+14 	 22 	 (S[ng]\NP)/NP 	 1 	 defects using <XB>
+15 	 12 	 (S[dcl]\NP)/S[dcl] 	 2 	 can shows
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+17 	 16 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 detected be
+17 	 20 	 (((S\NP)\(S\NP))\NP)/NP 	 2 	 detected after
+19 	 18 	 N/N 	 1 	 days three
+19 	 20 	 (((S\NP)\(S\NP))\NP)/NP 	 3 	 days after
+21 	 20 	 (((S\NP)\(S\NP))\NP)/NP 	 4 	 conception after
+27 	 22 	 (S[ng]\NP)/NP 	 2 	 technique using
+27 	 23 	 NP[nb]/N 	 1 	 technique a
+27 	 24 	 N/N 	 1 	 technique new
+27 	 25 	 N/N 	 1 	 technique American-developed
+27 	 26 	 N/N 	 1 	 technique gene-copying
+<\s>
+<s id="wsj_1218.5"> 22
+1 	 0 	 NP[nb]/N 	 1 	 experiment The
+1 	 3 	 S[adj]\NP 	 1 	 experiment applicable <XB>
+1 	 9 	 (S[dcl]\NP)/NP 	 1 	 experiment involved
+3 	 4 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 applicable to
+7 	 4 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 disorders to
+7 	 5 	 N/N 	 1 	 disorders many
+7 	 6 	 N/N 	 1 	 disorders genetic
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 beta-thalassemia involved
+15 	 9 	 (S[dcl]\NP)/NP 	 2 	 anemia involved
+15 	 12 	 NP[nb]/N 	 1 	 anemia a
+15 	 13 	 N/N 	 1 	 anemia severe
+15 	 14 	 N/N 	 1 	 anemia blood
+15 	 16 	 (S[ng]\NP)/PP 	 1 	 anemia resulting <XB>
+17 	 16 	 (S[ng]\NP)/PP 	 2 	 from resulting
+21 	 17 	 PP/NP 	 1 	 gene from
+21 	 18 	 NP[nb]/N 	 1 	 gene a
+21 	 19 	 N/N 	 1 	 gene missing
+21 	 20 	 N/N 	 1 	 gene hemoglobin
+<\s>
+<s id="wsj_1218.6"> 12
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 disorder 's
+5 	 2 	 NP[nb]/N 	 1 	 disorder an
+5 	 3 	 N/N 	 1 	 disorder inherited
+5 	 4 	 N/N 	 1 	 disorder human
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 disorder that
+5 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 disorder 's <XB>
+5 	 9 	 S[pss]\NP 	 1 	 disorder duplicated <XB>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 's that
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been 's
+9 	 8 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 duplicated been
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 duplicated in
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 mice in
+<\s>
+<s id="wsj_1218.7"> 11
+2 	 0 	 (S/S)/NP 	 2 	 experiment In
+2 	 1 	 NP[nb]/N 	 1 	 experiment the
+4 	 5 	 (NP\NP)/NP 	 1 	 mice with
+4 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 mice were
+4 	 10 	 S[pss]\NP 	 1 	 mice mated <XB>
+8 	 5 	 (NP\NP)/NP 	 2 	 gene with
+8 	 6 	 NP[nb]/N 	 1 	 gene the
+8 	 7 	 N/N 	 1 	 gene defective
+9 	 0 	 (S/S)/NP 	 1 	 were In
+10 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 mated were
+<\s>
+<s id="wsj_1218.8"> 23
+1 	 0 	 N/N 	 1 	 days Three
+1 	 2 	 (S/S)\NP 	 2 	 days later
+7 	 5 	 NP[nb]/N 	 1 	 embryo the
+7 	 6 	 N/N 	 1 	 embryo new
+7 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 embryo had
+7 	 9 	 (S[pt]\NP)/(S[pss]\NP) 	 1 	 embryo become <XB>
+7 	 10 	 S[pss]\NP 	 1 	 embryo implanted <XB>
+8 	 4 	 (S/S)/S[dcl] 	 2 	 had before
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 become had
+10 	 9 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 implanted become
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 implanted in
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 uterus in
+13 	 12 	 NP[nb]/N 	 1 	 uterus the
+15 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 it was
+15 	 17 	 (S[pss]\NP)/PP 	 1 	 it washed <XB>
+16 	 2 	 (S/S)\NP 	 1 	 was later
+16 	 4 	 (S/S)/S[dcl] 	 1 	 was before
+17 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 washed was
+19 	 17 	 (S[pss]\NP)/PP 	 2 	 of washed
+19 	 18 	 PP/PP 	 1 	 of out
+22 	 19 	 PP/NP 	 1 	 mouse of
+22 	 20 	 NP[nb]/N 	 1 	 mouse the
+22 	 21 	 N/N 	 1 	 mouse mother
+<\s>
+<s id="wsj_1218.9"> 12
+1 	 0 	 NP[nb]/N 	 1 	 embryo The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 embryo had
+1 	 3 	 (S[pt]\NP)/PP 	 1 	 embryo progressed <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 progressed had
+5 	 3 	 (S[pt]\NP)/PP 	 2 	 to progressed
+5 	 4 	 PP/PP 	 1 	 to only
+7 	 5 	 PP/NP 	 1 	 clump to
+7 	 6 	 NP[nb]/N 	 1 	 clump a
+7 	 8 	 (NP\NP)/NP 	 1 	 clump of
+11 	 8 	 (NP\NP)/NP 	 2 	 cells of
+11 	 9 	 N/N 	 1 	 cells eight
+11 	 10 	 N/N 	 1 	 cells identical
+<\s>
+<s id="wsj_1218.11"> 39
+3 	 0 	 (S[ng]\NP)/NP 	 2 	 technique Using
+3 	 1 	 NP[nb]/N 	 1 	 technique the
+3 	 2 	 N/N 	 1 	 technique new
+3 	 4 	 S[pss]\NP 	 1 	 technique developed <XB>
+3 	 9 	 (S[pss]\NP)/NP 	 1 	 technique called <XB>
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 developed by
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp. by
+7 	 6 	 N/N 	 1 	 Corp. Cetus
+13 	 9 	 (S[pss]\NP)/NP 	 2 	 reaction called
+13 	 10 	 NP[nb]/N 	 1 	 reaction the
+13 	 11 	 N/N 	 1 	 reaction polymerase
+13 	 12 	 N/N 	 1 	 reaction chain
+16 	 15 	 NP[nb]/N 	 1 	 scientists the
+16 	 18 	 (S[dcl]\NP)/NP 	 1 	 scientists made
+16 	 34 	 (S[ng]\NP)/NP 	 1 	 scientists providing <XB>
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 made rapidly
+19 	 18 	 (S[dcl]\NP)/NP 	 2 	 millions made
+19 	 20 	 (NP\NP)/NP 	 1 	 millions of
+21 	 20 	 (NP\NP)/NP 	 2 	 copies of
+21 	 22 	 (NP\NP)/NP 	 1 	 copies of
+24 	 22 	 (NP\NP)/NP 	 2 	 section of
+24 	 23 	 NP[nb]/N 	 1 	 section the
+24 	 25 	 (NP\NP)/NP 	 1 	 section of
+24 	 27 	 (NP\NP)/(S[dcl]\NP) 	 1 	 section that
+24 	 29 	 (S[dcl]\NP)/NP 	 1 	 section contains <XB>
+26 	 25 	 (NP\NP)/NP 	 2 	 DNA of
+29 	 27 	 (NP\NP)/(S[dcl]\NP) 	 2 	 contains that
+29 	 28 	 (S\NP)/(S\NP) 	 2 	 contains ordinarily
+32 	 29 	 (S[dcl]\NP)/NP 	 2 	 gene contains
+32 	 30 	 NP[nb]/N 	 1 	 gene the
+32 	 31 	 N/N 	 1 	 gene hemoglobin
+36 	 34 	 (S[ng]\NP)/NP 	 2 	 copies providing
+36 	 35 	 N/N 	 1 	 copies enough
+36 	 38 	 (S[b]\NP)/NP 	 2 	 copies test <XU>
+38 	 37 	 (S[to]\NP)/(S[b]\NP) 	 2 	 test to
+<\s>
+<s id="wsj_1218.12"> 18
+2 	 0 	 NP[nb]/N 	 1 	 probe A
+2 	 1 	 N/N 	 1 	 probe genetic
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 probe showed
+3 	 12 	 (S[dcl]\S[dcl])\NP 	 1 	 showed report
+6 	 4 	 NP[nb]/N 	 1 	 gene the
+6 	 5 	 N/N 	 1 	 gene hemoglobin
+6 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 gene was
+6 	 8 	 S[ng]\NP 	 1 	 gene missing <XB>
+7 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 was showed
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 missing was
+11 	 10 	 NP[nb]/N 	 1 	 researchers the
+11 	 12 	 (S[dcl]\S[dcl])\NP 	 2 	 researchers report
+12 	 13 	 ((S\S)/NP)/NP 	 1 	 report in
+16 	 13 	 ((S\S)/NP)/NP 	 3 	 journal in
+16 	 14 	 NP[nb]/N 	 1 	 journal the
+16 	 15 	 N/N 	 1 	 journal medical
+17 	 13 	 ((S\S)/NP)/NP 	 2 	 Lancet in
+<\s>
+<s id="wsj_1218.13"> 27
+2 	 0 	 (S/S)/NP 	 2 	 report In
+2 	 1 	 NP[nb]/N 	 1 	 report the
+6 	 4 	 N/N 	 1 	 biologists two
+6 	 5 	 N/N 	 1 	 biologists molecular
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 biologists suggest
+7 	 0 	 (S/S)/NP 	 1 	 suggest In
+10 	 8 	 NP/NP 	 1 	 diagnosis such
+10 	 9 	 N/N 	 1 	 diagnosis embryo
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 diagnosis can
+10 	 13 	 S[pss]\NP 	 1 	 diagnosis used <XB>
+11 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 can suggest
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+13 	 12 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 used by
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 couples by
+15 	 16 	 (NP\NP)/NP 	 1 	 couples at
+18 	 16 	 (NP\NP)/NP 	 2 	 risk at
+18 	 17 	 N/N 	 1 	 risk high
+18 	 19 	 (NP\NP)/(S[ng]\NP) 	 1 	 risk of
+20 	 19 	 (NP\NP)/(S[ng]\NP) 	 2 	 passing of
+23 	 20 	 ((S[ng]\NP)/PP)/NP 	 3 	 defect passing
+23 	 21 	 NP[nb]/N 	 1 	 defect a
+23 	 22 	 N/N 	 1 	 defect genetic
+24 	 20 	 ((S[ng]\NP)/PP)/NP 	 2 	 to passing
+26 	 24 	 PP/NP 	 1 	 child to
+26 	 25 	 NP[nb]/N 	 1 	 child a
+<\s>
+<s id="wsj_1218.14"> 24
+1 	 0 	 (S/S)/NP 	 2 	 example For
+4 	 3 	 N/N 	 1 	 couples infertile
+4 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 couples who
+4 	 6 	 ((S[dcl]\NP)/(S[pss]\NP))/NP 	 1 	 couples have <XB>
+4 	 17 	 ((S[dcl]\NP)/(S[pss]\NP))/NP 	 1 	 couples have
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have who
+8 	 7 	 NP[nb]/N 	 1 	 woman the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 woman 's
+10 	 6 	 ((S[dcl]\NP)/(S[pss]\NP))/NP 	 3 	 eggs have
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 eggs 's
+10 	 11 	 S[pss]\NP 	 1 	 eggs fertilized <XB>
+11 	 6 	 ((S[dcl]\NP)/(S[pss]\NP))/NP 	 2 	 fertilized have
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 fertilized in
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 tube in
+15 	 13 	 NP[nb]/N 	 1 	 tube the
+15 	 14 	 N/N 	 1 	 tube test
+17 	 0 	 (S/S)/NP 	 1 	 have For
+17 	 16 	 (S\NP)/(S\NP) 	 2 	 have usually
+19 	 17 	 ((S[dcl]\NP)/(S[pss]\NP))/NP 	 3 	 eggs have
+19 	 18 	 N/N 	 1 	 eggs several
+19 	 20 	 S[pss]\NP 	 1 	 eggs fertilized <XB>
+20 	 17 	 ((S[dcl]\NP)/(S[pss]\NP))/NP 	 2 	 fertilized have
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 fertilized at
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 time at
+23 	 22 	 NP[nb]/N 	 1 	 time a
+<\s>
+<s id="wsj_1218.15"> 21
+3 	 1 	 NP[nb]/N 	 1 	 cells the
+3 	 2 	 N/N 	 1 	 cells fertilized
+3 	 4 	 (S[dcl]\NP)/PP 	 1 	 cells divide
+4 	 0 	 (S/S)/S[dcl] 	 2 	 divide When
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 to divide
+7 	 5 	 PP/NP 	 1 	 cells to
+7 	 6 	 N/N 	 1 	 cells eight
+11 	 9 	 NP[nb]/N 	 1 	 cell a
+11 	 10 	 N/N 	 1 	 cell single
+11 	 12 	 (NP\NP)/NP 	 1 	 cell from
+11 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 cell can
+11 	 17 	 (S[pss]\NP)/PP 	 1 	 cell tested <XB>
+14 	 12 	 (NP\NP)/NP 	 2 	 embryo from
+14 	 13 	 NP[nb]/N 	 1 	 embryo each
+15 	 0 	 (S/S)/S[dcl] 	 1 	 can When
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+17 	 16 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 tested be
+18 	 17 	 (S[pss]\NP)/PP 	 2 	 for tested
+20 	 18 	 PP/NP 	 1 	 defects for
+20 	 19 	 N/N 	 1 	 defects genetic
+<\s>
+<s id="wsj_1218.17"> 27
+3 	 1 	 (S/S)/NP 	 2 	 couples in
+3 	 2 	 N/N 	 1 	 couples other
+6 	 5 	 NP[nb]/N 	 1 	 embryo the
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 embryo could
+6 	 10 	 S[pss]\NP 	 1 	 embryo taken <XB>
+6 	 13 	 S[pss]\NP 	 1 	 embryo tested <XU>
+6 	 19 	 S[pss]\NP 	 1 	 embryo returned <XU>
+6 	 21 	 S[adj]\NP 	 1 	 embryo healthy <XU>
+6 	 24 	 S[pss]\NP 	 1 	 embryo discarded <XU>
+7 	 0 	 S/S 	 1 	 could Or
+7 	 1 	 (S/S)/NP 	 1 	 could in
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+10 	 8 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 taken be
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 taken temporarily
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 taken out
+10 	 16 	 (((S\NP)\(S\NP))\NP)/NP 	 2 	 taken after
+13 	 8 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 tested be
+13 	 16 	 (((S\NP)\(S\NP))\NP)/NP 	 2 	 tested after
+15 	 14 	 N/N 	 1 	 days three
+15 	 16 	 (((S\NP)\(S\NP))\NP)/NP 	 3 	 days after
+17 	 16 	 (((S\NP)\(S\NP))\NP)/NP 	 4 	 conception after
+19 	 8 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 returned be
+19 	 20 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 returned if
+21 	 20 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 healthy if
+24 	 8 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 discarded be
+24 	 25 	 ((S\NP)\(S\NP))/S 	 2 	 discarded if
+26 	 25 	 ((S\NP)\(S\NP))/S 	 3 	 not if
+<\s>
+<s id="wsj_1218.18"> 5
+0 	 1 	 S[pss]\NP 	 1 	 Yeast Adapted
+0 	 3 	 (S[b]\NP)/NP 	 1 	 Yeast Make <XB>
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 Make to
+5 	 3 	 (S[b]\NP)/NP 	 2 	 Drugs Make
+5 	 4 	 N/N 	 1 	 Drugs Gene-Spliced
+<\s>
+<s id="wsj_1218.19"> 12
+2 	 0 	 NP[nb]/N 	 1 	 COMPANY AN
+2 	 1 	 N/N 	 1 	 COMPANY OIL
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 COMPANY finds
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 finds in
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 sideline finds
+5 	 4 	 NP[nb]/N 	 1 	 sideline a
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 world in
+9 	 7 	 NP[nb]/N 	 1 	 world the
+9 	 8 	 N/N 	 1 	 world microscopic
+9 	 10 	 (NP\NP)/NP 	 1 	 world of
+11 	 10 	 (NP\NP)/NP 	 2 	 yeast of
+<\s>
+<s id="wsj_1218.20"> 39
+3 	 0 	 (S/S)/NP 	 2 	 1970s In
+3 	 1 	 NP[nb]/N 	 1 	 1970s the
+3 	 2 	 N/N 	 1 	 1970s early
+9 	 6 	 NP[nb]/N 	 1 	 crisis the
+9 	 7 	 N/N 	 1 	 crisis world
+9 	 8 	 N/N 	 1 	 crisis food
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 crisis was
+10 	 5 	 (S/S)/S[dcl] 	 2 	 was when
+13 	 10 	 (S[dcl]\NP)/NP 	 2 	 worry was
+13 	 11 	 NP[nb]/N 	 1 	 worry a
+13 	 12 	 N/N 	 1 	 worry major
+17 	 15 	 N/N 	 1 	 Co. Phillips
+17 	 16 	 N/N 	 1 	 Co. Petroleum
+17 	 25 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Co. began
+17 	 26 	 (S[ng]\NP)/NP 	 1 	 Co. developing <XB>
+23 	 19 	 ((S\NP)/(S\NP))/NP 	 3 	 companies like
+23 	 20 	 N/N 	 1 	 companies several
+23 	 21 	 N/N 	 1 	 companies other
+23 	 22 	 N/N 	 1 	 companies big
+25 	 0 	 (S/S)/NP 	 1 	 began In
+25 	 5 	 (S/S)/S[dcl] 	 1 	 began when
+25 	 19 	 ((S\NP)/(S\NP))/NP 	 2 	 began like
+26 	 25 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 developing began
+28 	 26 	 (S[ng]\NP)/NP 	 2 	 protein developing
+28 	 27 	 N/N 	 1 	 protein single-cell
+31 	 26 	 (S[ng]\NP)/NP 	 2 	 protein developing
+31 	 30 	 N/N 	 1 	 protein edible
+31 	 32 	 S[pss]\NP 	 1 	 protein made <XB>
+32 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 made by
+34 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 microbes by
+34 	 35 	 (S[ng]\NP)/PP 	 1 	 microbes feeding <XB>
+36 	 35 	 (S[ng]\NP)/PP 	 2 	 on feeding
+38 	 36 	 PP/NP 	 1 	 materials on
+38 	 37 	 N/N 	 1 	 materials non-edible
+<\s>
+<s id="wsj_1218.21"> 17
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Phillips found
+0 	 3 	 (S[dcl]\NP)/NP 	 1 	 Phillips improved <XU>
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 yeast found <XU>
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 yeast improved
+5 	 4 	 NP[nb]/N 	 1 	 yeast a
+5 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 yeast which
+5 	 11 	 (S[dcl]\NP)/NP 	 1 	 yeast made <XB>
+8 	 1 	 (S[dcl]\NP)/NP 	 2 	 pastoris found <XU>
+8 	 3 	 (S[dcl]\NP)/NP 	 2 	 pastoris improved
+8 	 7 	 N/N 	 1 	 pastoris Pichia
+8 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 pastoris which
+8 	 11 	 (S[dcl]\NP)/NP 	 1 	 pastoris made <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 made which
+11 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 made from
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 protein made
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 alcohol from
+16 	 14 	 N/N 	 1 	 alcohol natural
+16 	 15 	 N/N 	 1 	 alcohol gas-derived
+<\s>
+<s id="wsj_1218.22"> 11
+0 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 It could
+0 	 3 	 ((S[b]\NP)/PP)/NP 	 1 	 It convert <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 could also
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 convert could
+4 	 3 	 ((S[b]\NP)/PP)/NP 	 3 	 glucose convert
+4 	 5 	 (NP\NP)/NP 	 1 	 glucose from
+7 	 5 	 (NP\NP)/NP 	 2 	 wastes from
+7 	 6 	 N/N 	 1 	 wastes farm
+8 	 3 	 ((S[b]\NP)/PP)/NP 	 2 	 into convert
+10 	 8 	 PP/NP 	 1 	 protein into
+10 	 9 	 N/N 	 1 	 protein edible
+<\s>
+<s id="wsj_1218.23"> 12
+1 	 0 	 N/N 	 1 	 protein Single-cell
+1 	 3 	 S[dcl]\NP 	 1 	 protein panned
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 panned never
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 panned out
+8 	 7 	 N/N 	 1 	 companies most
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 companies abandoned
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 research abandoned
+11 	 10 	 NP/NP 	 1 	 research such
+<\s>
+<s id="wsj_1218.24"> 11
+1 	 2 	 S[dcl]\NP 	 1 	 Phillips persisted
+1 	 4 	 (S[ng]\NP)/NP 	 1 	 Phillips calling <XB>
+2 	 0 	 S/S 	 1 	 persisted But
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 calling in
+6 	 4 	 (S[ng]\NP)/NP 	 2 	 scientists calling
+6 	 7 	 (NP\NP)/NP 	 1 	 scientists from
+10 	 7 	 (NP\NP)/NP 	 2 	 Institute from
+10 	 8 	 NP[nb]/N 	 1 	 Institute the
+10 	 9 	 N/N 	 1 	 Institute Salk
+<\s>
+<s id="wsj_1218.25"> 11
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 They 've
+0 	 3 	 ((S[pt]\NP)/PP)/NP 	 1 	 They adapted <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 've now
+3 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 adapted 've
+5 	 3 	 ((S[pt]\NP)/PP)/NP 	 3 	 yeast adapted
+5 	 4 	 NP[nb]/N 	 1 	 yeast the
+6 	 3 	 ((S[pt]\NP)/PP)/NP 	 2 	 to adapted
+7 	 6 	 PP/(S[ng]\NP) 	 1 	 making to
+9 	 8 	 (N/N)/(N/N) 	 2 	 engineered genetically
+10 	 7 	 (S[ng]\NP)/NP 	 2 	 drugs making
+10 	 9 	 N/N 	 1 	 drugs engineered
+<\s>
+<s id="wsj_1218.26"> 23
+2 	 0 	 (S/S)/NP 	 2 	 bacteria Like
+2 	 1 	 NP[nb]/N 	 1 	 bacteria the
+2 	 3 	 S[pss]\NP 	 1 	 bacteria used <XB>
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 used by
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 engineers by
+6 	 5 	 N/N 	 1 	 engineers genetic
+9 	 8 	 NP[nb]/N 	 1 	 yeast the
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 yeast can
+9 	 11 	 (S[b]\NP)/NP 	 1 	 yeast take <XB>
+9 	 16 	 (S[b]\NP)/NP 	 1 	 yeast churn <XU>
+10 	 0 	 (S/S)/NP 	 1 	 can Like
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take can
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 take in
+14 	 11 	 (S[b]\NP)/NP 	 2 	 genes take
+14 	 13 	 N/N 	 1 	 genes human
+16 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 churn can
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 churn out
+19 	 16 	 (S[b]\NP)/NP 	 2 	 proteins churn
+19 	 18 	 N/N 	 1 	 proteins human
+19 	 20 	 (NP\NP)/NP 	 1 	 proteins for
+22 	 20 	 (NP\NP)/NP 	 2 	 use for
+22 	 21 	 N/N 	 1 	 use medical
+<\s>
+<s id="wsj_1218.27"> 16
+4 	 1 	 NP[nb]/N 	 1 	 apparatus the
+4 	 2 	 N/N 	 1 	 apparatus yeast
+4 	 3 	 N/N 	 1 	 apparatus genetic
+4 	 5 	 (S[dcl]\NP)/PP 	 1 	 apparatus is
+5 	 0 	 S/S 	 1 	 is But
+7 	 6 	 (PP/PP)/(PP/PP) 	 2 	 like more
+8 	 7 	 (PP/PP)/NP 	 2 	 that like
+8 	 9 	 (NP\NP)/NP 	 1 	 that of
+10 	 9 	 (NP\NP)/NP 	 2 	 animals of
+11 	 5 	 (S[dcl]\NP)/PP 	 2 	 than is
+11 	 7 	 (PP/PP)/NP 	 1 	 than like
+15 	 11 	 PP/NP 	 1 	 apparatus than
+15 	 12 	 NP[nb]/N 	 1 	 apparatus the
+15 	 13 	 N/N 	 1 	 apparatus bacterial
+15 	 14 	 N/N 	 1 	 apparatus genetic
+<\s>
+<s id="wsj_1218.28"> 17
+3 	 2 	 NP[nb]/N 	 1 	 proteins the
+3 	 4 	 (NP\NP)/NP 	 1 	 proteins from
+3 	 7 	 (S[dcl]\NP)/PP 	 1 	 proteins are
+6 	 4 	 (NP\NP)/NP 	 2 	 yeast from
+6 	 5 	 NP[nb]/N 	 1 	 yeast the
+7 	 0 	 S/S 	 1 	 are Thus
+10 	 8 	 (PP/PP)/(PP/PP) 	 2 	 like molecularly
+10 	 9 	 (PP/PP)/(PP/PP) 	 2 	 like more
+12 	 10 	 (PP/PP)/NP 	 2 	 proteins like
+12 	 11 	 N/N 	 1 	 proteins human
+13 	 7 	 (S[dcl]\NP)/PP 	 2 	 than are
+13 	 10 	 (PP/PP)/NP 	 1 	 than like
+14 	 13 	 PP/NP 	 1 	 those than
+14 	 15 	 (NP\NP)/NP 	 1 	 those from
+16 	 15 	 (NP\NP)/NP 	 2 	 bacteria from
+<\s>
+<s id="wsj_1218.29"> 19
+2 	 0 	 NP[nb]/N 	 1 	 company The
+2 	 1 	 N/N 	 1 	 company oil
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 company claims
+6 	 4 	 NP[nb]/N 	 1 	 system its
+6 	 5 	 N/N 	 1 	 system yeast
+6 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 system is
+6 	 9 	 (S[adj]\NP)/PP 	 1 	 system better <XB>
+8 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 is claims
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 is also
+9 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 better is
+9 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 better than
+11 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 bacteria than
+12 	 9 	 (S[adj]\NP)/PP 	 2 	 at better
+14 	 12 	 PP/NP 	 1 	 production at
+14 	 13 	 N/N 	 1 	 production high-volume
+14 	 15 	 (NP\NP)/NP 	 1 	 production of
+17 	 16 	 (N/N)/(N/N) 	 2 	 engineered genetically
+18 	 15 	 (NP\NP)/NP 	 2 	 drugs of
+18 	 17 	 N/N 	 1 	 drugs engineered
+<\s>
+<s id="wsj_1218.30"> 27
+1 	 0 	 N/N 	 1 	 Corp. Chiron
+1 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Corp. is
+1 	 12 	 (S[ng]\NP)/S[qem] 	 1 	 Corp. seeing <XB>
+6 	 4 	 (N/N)/(N/N) 	 2 	 Calif. Emeryville
+9 	 3 	 NP[nb]/N 	 1 	 firm an
+9 	 6 	 N/N 	 1 	 firm Calif.
+9 	 8 	 N/N 	 1 	 firm biotechnology
+9 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 firm is
+9 	 12 	 (S[ng]\NP)/S[qem] 	 1 	 firm seeing <XB>
+12 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 seeing is
+13 	 12 	 (S[ng]\NP)/S[qem] 	 2 	 if seeing
+16 	 14 	 NP[nb]/N 	 1 	 yeast the
+16 	 15 	 N/N 	 1 	 yeast Phillips
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 yeast can
+16 	 19 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 yeast used <XB>
+16 	 21 	 (S[b]\NP)/NP 	 1 	 yeast make <XB>
+17 	 13 	 S[qem]/S[dcl] 	 1 	 can if
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+19 	 18 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+20 	 19 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+24 	 23 	 (N/N)/(N/N) 	 2 	 engineered genetically
+26 	 21 	 (S[b]\NP)/NP 	 2 	 proteins make
+26 	 22 	 NP[nb]/N 	 1 	 proteins its
+26 	 24 	 N/N 	 1 	 proteins engineered
+26 	 25 	 N/N 	 1 	 proteins human
+<\s>
+<s id="wsj_1218.31"> 6
+0 	 1 	 ((S\NP)\(S\NP))/NP 	 2 	 Peeking Inside
+0 	 3 	 ((S\NP)\(S\NP))/PP 	 2 	 Peeking From
+2 	 1 	 ((S\NP)\(S\NP))/NP 	 3 	 Arteries Inside
+4 	 3 	 ((S\NP)\(S\NP))/PP 	 3 	 Outside From
+6 	 4 	 PP/NP 	 1 	 Body Outside
+6 	 5 	 NP[nb]/N 	 1 	 Body the
+<\s>
+<s id="wsj_1218.32"> 18
+0 	 3 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 VISUALIZING without
+0 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 VISUALIZING may
+0 	 10 	 (S[b]\NP)/PP 	 1 	 VISUALIZING come <XB>
+2 	 0 	 (S[ng]\NP)/NP 	 2 	 vessels VISUALIZING
+2 	 1 	 N/N 	 1 	 vessels BLOOD
+4 	 3 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 poking without
+5 	 4 	 ((S[ng]\NP)/PP)/NP 	 3 	 catheters poking
+6 	 4 	 ((S[ng]\NP)/PP)/NP 	 2 	 into poking
+8 	 6 	 PP/NP 	 1 	 body into
+8 	 7 	 NP[nb]/N 	 1 	 body the
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 come may
+12 	 10 	 (S[b]\NP)/PP 	 2 	 of come
+12 	 11 	 PP/PP 	 1 	 of out
+13 	 12 	 PP/NP 	 1 	 research of
+13 	 14 	 (NP\NP)/NP 	 1 	 research at
+17 	 14 	 (NP\NP)/NP 	 2 	 Laboratories at
+17 	 15 	 N/N 	 1 	 Laboratories AT&T
+17 	 16 	 N/N 	 1 	 Laboratories Bell
+<\s>
+<s id="wsj_1218.33"> 23
+0 	 14 	 (S[dcl]\NP)/PP 	 1 	 Strokes stem
+3 	 2 	 N/N 	 1 	 attacks heart
+3 	 14 	 (S[dcl]\NP)/PP 	 1 	 attacks stem
+6 	 5 	 N/N 	 1 	 pains leg
+6 	 7 	 (NP\NP)/NP 	 1 	 pains -LRB-
+6 	 14 	 (S[dcl]\NP)/PP 	 1 	 pains stem
+9 	 7 	 (NP\NP)/NP 	 2 	 claudication -LRB-
+9 	 8 	 N/N 	 1 	 claudication intermittent
+13 	 12 	 N/N 	 1 	 problems other
+13 	 14 	 (S[dcl]\NP)/PP 	 1 	 problems stem
+15 	 14 	 (S[dcl]\NP)/PP 	 2 	 from stem
+16 	 15 	 PP/NP 	 1 	 clogging from
+16 	 17 	 (NP\NP)/NP 	 1 	 clogging of
+16 	 20 	 (NP\NP)/NP 	 1 	 clogging by
+19 	 17 	 (NP\NP)/NP 	 2 	 arteries of
+19 	 18 	 NP[nb]/N 	 1 	 arteries the
+22 	 20 	 (NP\NP)/NP 	 2 	 deposits by
+22 	 21 	 N/N 	 1 	 deposits cholesterol-rich
+<\s>
+<s id="wsj_1218.34"> 32
+1 	 0 	 (S/S)/NP 	 2 	 present At
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 doctors can
+3 	 5 	 (S[b]\NP)/S[qem] 	 1 	 doctors see <XB>
+3 	 14 	 ((S[ng]\NP)/PP)/NP 	 1 	 doctors inserting <XB>
+3 	 22 	 (S[ng]\NP)/NP 	 1 	 doctors injecting <XU>
+4 	 0 	 (S/S)/NP 	 1 	 can At
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 see can
+5 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 see by
+6 	 5 	 (S[b]\NP)/S[qem] 	 2 	 how see
+7 	 6 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 2 	 badly how
+9 	 8 	 NP[nb]/N 	 1 	 artery an
+9 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 artery is
+9 	 11 	 S[pss]\NP 	 1 	 artery clogged <XB>
+10 	 6 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 1 	 is how
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 clogged is
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 by only
+14 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 inserting by
+17 	 14 	 ((S[ng]\NP)/PP)/NP 	 3 	 catheter inserting
+17 	 15 	 NP[nb]/N 	 1 	 catheter a
+17 	 16 	 N/N 	 1 	 catheter thin
+18 	 14 	 ((S[ng]\NP)/PP)/NP 	 2 	 into inserting
+20 	 18 	 PP/NP 	 1 	 artery into
+20 	 19 	 NP[nb]/N 	 1 	 artery the
+22 	 13 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 injecting by
+24 	 22 	 (S[ng]\NP)/NP 	 2 	 fluid injecting
+24 	 23 	 NP[nb]/N 	 1 	 fluid a
+24 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 fluid that
+24 	 26 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 fluid makes <XB>
+26 	 25 	 (NP\NP)/(S[dcl]\NP) 	 2 	 makes that
+28 	 26 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 arteries makes
+28 	 27 	 NP[nb]/N 	 1 	 arteries the
+28 	 29 	 (S[adj]\NP)/PP 	 1 	 arteries visible <XB>
+29 	 26 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 visible makes
+30 	 29 	 (S[adj]\NP)/PP 	 2 	 on visible
+31 	 30 	 PP/NP 	 1 	 X-rays on
+<\s>
+<s id="wsj_1218.35"> 14
+2 	 0 	 NP[nb]/N 	 1 	 method A
+2 	 1 	 N/N 	 1 	 method non-invasive
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 method is
+2 	 4 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 method being <XB>
+2 	 5 	 S[pss]\NP 	 1 	 method researched <XB>
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being is
+5 	 4 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 researched being
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 researched by
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 researched at
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Jelinski by
+9 	 7 	 N/N 	 1 	 Jelinski biophysicist
+9 	 8 	 N/N 	 1 	 Jelinski Lynn
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 unit at
+13 	 11 	 NP[nb]/N 	 1 	 unit the
+13 	 12 	 N/N 	 1 	 unit AT&T
+<\s>
+<s id="wsj_1218.36"> 19
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 It relies
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 on relies
+4 	 2 	 PP/NP 	 1 	 fact on
+4 	 3 	 NP[nb]/N 	 1 	 fact the
+5 	 4 	 N/S[em] 	 1 	 that fact
+7 	 6 	 N/N 	 1 	 atoms certain
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 atoms give
+7 	 13 	 (S[pss]\NP)/PP 	 1 	 atoms subjected <XB>
+8 	 5 	 S[em]/S[dcl] 	 1 	 give that
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 give off
+8 	 12 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 2 	 give when
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 signals give
+11 	 10 	 N/N 	 1 	 signals detectable
+13 	 12 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 3 	 subjected when
+14 	 13 	 (S[pss]\NP)/PP 	 2 	 to subjected
+18 	 14 	 PP/NP 	 1 	 field to
+18 	 15 	 NP[nb]/N 	 1 	 field an
+18 	 16 	 N/N 	 1 	 field intense
+18 	 17 	 N/N 	 1 	 field magnetic
+<\s>
+<s id="wsj_1218.37"> 25
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 phenomenon 's
+4 	 2 	 NP[nb]/N 	 1 	 phenomenon the
+4 	 3 	 N/N 	 1 	 phenomenon same
+4 	 5 	 (S[pss]\NP)/PP 	 1 	 phenomenon used <XB>
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 in used
+13 	 10 	 (N/N)/N 	 2 	 imaging -LRB-
+13 	 11 	 N/N 	 1 	 imaging magnetic
+13 	 12 	 N/N 	 1 	 imaging resonance
+15 	 6 	 PP/NP 	 1 	 scanners in
+15 	 7 	 NP[nb]/N 	 1 	 scanners the
+15 	 8 	 N/N 	 1 	 scanners new
+15 	 9 	 N/N 	 1 	 scanners MRI
+15 	 10 	 (N/N)/N 	 1 	 scanners -LRB-
+15 	 16 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 scanners being <XB>
+15 	 17 	 S[pss]\NP 	 1 	 scanners used <XB>
+17 	 16 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 used being
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 used in
+17 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 used in
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 hospitals in
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 place in
+21 	 22 	 (NP\NP)/NP 	 1 	 place of
+24 	 22 	 (NP\NP)/NP 	 2 	 scans of
+24 	 23 	 N/N 	 1 	 scans X-ray
+<\s>
+<s id="wsj_1218.38"> 36
+4 	 0 	 (S/S)/NP 	 2 	 experiments In
+4 	 1 	 NP[nb]/N 	 1 	 experiments the
+4 	 2 	 N/N 	 1 	 experiments Bell
+4 	 3 	 N/N 	 1 	 experiments Labs
+7 	 6 	 NP[nb]/N 	 1 	 MRI-type an
+7 	 8 	 (NP\NP)/NP 	 1 	 MRI-type of
+7 	 11 	 (S[pss]\NP)/PP 	 1 	 MRI-type synchronized <XB>
+7 	 20 	 (S[dcl]\NP)/NP 	 1 	 MRI-type flashes
+9 	 8 	 (NP\NP)/NP 	 2 	 machine of
+11 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 synchronized via
+12 	 11 	 (S[pss]\NP)/PP 	 2 	 with synchronized
+14 	 12 	 PP/NP 	 1 	 heartbeat with
+14 	 13 	 NP[nb]/N 	 1 	 heartbeat the
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 electrocardiogram via
+17 	 16 	 NP[nb]/N 	 1 	 electrocardiogram an
+20 	 0 	 (S/S)/NP 	 1 	 flashes In
+20 	 19 	 (S\NP)/(S\NP) 	 2 	 flashes rapidly
+20 	 24 	 (S\NP)\(S\NP) 	 2 	 flashes on
+20 	 26 	 (S\NP)\(S\NP) 	 2 	 flashes off <XU>
+20 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 flashes as
+23 	 20 	 (S[dcl]\NP)/NP 	 2 	 field flashes
+23 	 21 	 NP[nb]/N 	 1 	 field a
+23 	 22 	 N/N 	 1 	 field magnetic
+28 	 29 	 (S[dcl]\NP)/NP 	 1 	 blood passes
+29 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 passes as
+32 	 29 	 (S[dcl]\NP)/NP 	 2 	 point passes
+32 	 30 	 NP[nb]/N 	 1 	 point a
+32 	 31 	 N/N 	 1 	 point certain
+32 	 33 	 (NP\NP)/NP 	 1 	 point in
+35 	 33 	 (NP\NP)/NP 	 2 	 vessel in
+35 	 34 	 NP[nb]/N 	 1 	 vessel a
+<\s>
+<s id="wsj_1218.39"> 36
+2 	 1 	 (N/N)/(N/N) 	 2 	 flashing rapidly
+4 	 0 	 NP[nb]/N 	 1 	 signals The
+4 	 2 	 N/N 	 1 	 signals flashing
+4 	 3 	 N/N 	 1 	 signals return
+4 	 5 	 (NP\NP)/NP 	 1 	 signals from
+4 	 12 	 (S[dcl]\NP)/NP 	 1 	 signals give
+8 	 5 	 (NP\NP)/NP 	 2 	 atoms from
+8 	 6 	 N/N 	 1 	 atoms excited
+8 	 7 	 N/N 	 1 	 atoms hydrogen
+8 	 9 	 (NP\NP)/NP 	 1 	 atoms in
+11 	 9 	 (NP\NP)/NP 	 2 	 blood in
+11 	 10 	 NP[nb]/N 	 1 	 blood the
+15 	 12 	 (S[dcl]\NP)/NP 	 2 	 movie give
+15 	 13 	 NP[nb]/N 	 1 	 movie a
+15 	 14 	 N/N 	 1 	 movie stop-motion
+15 	 16 	 (NP\NP)/NP 	 1 	 movie of
+15 	 22 	 (NP\NP)/NP 	 1 	 movie like
+19 	 16 	 (NP\NP)/NP 	 2 	 vessel of
+19 	 17 	 NP[nb]/N 	 1 	 vessel the
+19 	 18 	 N/N 	 1 	 vessel blood-filled
+24 	 22 	 (NP\NP)/NP 	 2 	 stop-motion like
+24 	 23 	 NP[nb]/N 	 1 	 stop-motion the
+24 	 25 	 S[pss]\NP 	 1 	 stop-motion seen <XB>
+25 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 seen in
+25 	 29 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 seen when
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 dancers in
+28 	 27 	 N/N 	 1 	 dancers disco
+32 	 30 	 NP[nb]/N 	 1 	 light a
+32 	 31 	 N/N 	 1 	 light strobe
+32 	 33 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 light is
+32 	 34 	 S[ng]\NP 	 1 	 light flashing <XB>
+33 	 29 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is when
+34 	 33 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 flashing is
+<\s>
+<s id="wsj_1218.40"> 11
+1 	 0 	 NP[nb]/N 	 1 	 scientists The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 scientists have
+1 	 3 	 (S[pt]\NP)/PP 	 1 	 scientists experimented <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 experimented have
+4 	 3 	 (S[pt]\NP)/PP 	 2 	 on experimented
+8 	 4 	 PP/NP 	 1 	 arteries on
+8 	 5 	 NP[nb]/N 	 1 	 arteries the
+8 	 6 	 N/N 	 1 	 arteries tiny
+8 	 7 	 N/N 	 1 	 arteries neck
+8 	 9 	 (NP\NP)/NP 	 1 	 arteries of
+10 	 9 	 (NP\NP)/NP 	 2 	 rats of
+<\s>
+<s id="wsj_1218.41"> 43
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 They 've
+0 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 They able <XB>
+1 	 36 	 (S[dcl]\S[dcl])\NP 	 1 	 've report
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been 've
+3 	 2 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 able been
+4 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 measure to
+5 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 measure as
+8 	 5 	 (S[b]\NP)/NP 	 2 	 movements measure
+8 	 6 	 NP[nb]/N 	 1 	 movements the
+8 	 7 	 N/N 	 1 	 movements minuscule
+8 	 9 	 (NP\NP)/NP 	 1 	 movements of
+12 	 9 	 (NP\NP)/NP 	 2 	 wall of
+12 	 10 	 NP[nb]/N 	 1 	 wall the
+12 	 11 	 N/N 	 1 	 wall artery
+16 	 14 	 NP[nb]/N 	 1 	 heart the
+16 	 15 	 N/N 	 1 	 heart beating
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 heart raises
+16 	 19 	 (S[dcl]\NP)/NP 	 1 	 heart lowers <XU>
+17 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 raises as
+19 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 lowers as
+21 	 17 	 (S[dcl]\NP)/NP 	 2 	 pressure raises <XU>
+21 	 19 	 (S[dcl]\NP)/NP 	 2 	 pressure lowers
+21 	 20 	 NP[nb]/N 	 1 	 pressure the
+21 	 22 	 (NP\NP)/NP 	 1 	 pressure of
+25 	 22 	 (NP\NP)/NP 	 2 	 blood of
+25 	 23 	 NP[nb]/N 	 1 	 blood the
+25 	 24 	 N/N 	 1 	 blood flowing
+28 	 27 	 NP[nb]/N 	 1 	 first a
+28 	 29 	 (NP\NP)/NP 	 1 	 first for
+31 	 30 	 (N/N)/(N/N) 	 2 	 tiny such
+33 	 29 	 (NP\NP)/NP 	 2 	 vessels for
+33 	 31 	 N/N 	 1 	 vessels tiny
+33 	 32 	 N/N 	 1 	 vessels blood
+35 	 36 	 (S[dcl]\S[dcl])\NP 	 2 	 they report
+36 	 37 	 (S\S)/NP 	 1 	 report in
+38 	 37 	 (S\S)/NP 	 2 	 Nature in
+42 	 37 	 (S\S)/NP 	 2 	 journal in
+42 	 40 	 NP[nb]/N 	 1 	 journal a
+42 	 41 	 N/N 	 1 	 journal scientific
+<\s>
+<s id="wsj_1218.42"> 8
+0 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 They are
+0 	 3 	 (S[ng]\NP)/PP 	 1 	 They experimenting <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 are now
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 experimenting are
+4 	 3 	 (S[ng]\NP)/PP 	 2 	 with experimenting
+5 	 4 	 PP/(S[ng]\NP) 	 1 	 measuring with
+7 	 5 	 (S[ng]\NP)/NP 	 2 	 flow measuring
+7 	 6 	 N/N 	 1 	 flow blood
+<\s>
+<s id="wsj_1218.43"> 11
+2 	 0 	 NP[nb]/N 	 1 	 hope The
+2 	 1 	 N/N 	 1 	 hope ultimate
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 hope is
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+6 	 5 	 NP[nb]/N 	 1 	 technique the
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 technique could
+6 	 8 	 (S[b]\NP)/NP 	 1 	 technique identify <XB>
+7 	 4 	 S[em]/S[dcl] 	 1 	 could that
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 identify could
+10 	 8 	 (S[b]\NP)/NP 	 2 	 vessels identify
+10 	 9 	 N/N 	 1 	 vessels diseased
+<\s>
+<s id="wsj_1218.44"> 2
+<\s>
+<s id="wsj_1218.45"> 41
+0 	 1 	 (NP\NP)/NP 	 1 	 TESTS ON
+0 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 TESTS indicate
+0 	 17 	 (S[ng]\NP)/NP 	 1 	 TESTS contradicting <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 mummies ON
+3 	 2 	 N/N 	 1 	 mummies 2,800-year-old
+3 	 4 	 (NP\NP)/NP 	 1 	 mummies from
+5 	 4 	 (NP\NP)/NP 	 2 	 Chile from
+6 	 33 	 (S[dcl]\S[dcl])\NP 	 1 	 indicate reports
+9 	 7 	 N/N 	 1 	 fires ancient
+9 	 8 	 N/N 	 1 	 fires wood
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 fires did
+9 	 12 	 (S[b]\NP)/NP 	 1 	 fires produce <XB>
+10 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 did indicate
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 did n't
+12 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 produce did
+13 	 12 	 (S[b]\NP)/NP 	 2 	 dioxins produce
+15 	 12 	 (S[b]\NP)/NP 	 2 	 dibenzofurans produce
+19 	 17 	 (S[ng]\NP)/NP 	 2 	 theory contradicting
+19 	 18 	 NP[nb]/N 	 1 	 theory a
+22 	 20 	 NP[nb]/N 	 1 	 pollutants the
+22 	 21 	 N/N 	 1 	 pollutants two
+22 	 24 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 pollutants are
+22 	 25 	 (S[ng]\NP)/PP 	 1 	 pollutants coming <XB>
+24 	 19 	 N/S[dcl] 	 1 	 are theory
+24 	 23 	 (S\NP)/(S\NP) 	 2 	 are today
+25 	 24 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 coming are
+26 	 25 	 (S[ng]\NP)/PP 	 2 	 from coming
+28 	 26 	 PP/NP 	 1 	 burning from
+28 	 27 	 N/N 	 1 	 burning wood
+32 	 30 	 N/N 	 1 	 Co. General
+32 	 31 	 N/N 	 1 	 Co. Electric
+32 	 33 	 (S[dcl]\S[dcl])\NP 	 2 	 Co. reports
+33 	 34 	 (S\S)/NP 	 1 	 reports in
+39 	 34 	 (S\S)/NP 	 2 	 magazine in
+39 	 35 	 N/N 	 1 	 magazine Environmental
+39 	 36 	 N/N 	 1 	 magazine Science
+39 	 37 	 N/N 	 1 	 magazine &
+39 	 38 	 N/N 	 1 	 magazine Technology
+<\s>
+<s id="wsj_1218.46"> 27
+1 	 0 	 (N/N)/(N/N) 	 2 	 40 Almost
+2 	 1 	 N/N 	 1 	 % 40
+2 	 3 	 (NP\NP)/NP 	 1 	 % of
+2 	 6 	 (S[dcl]\NP)/NP 	 1 	 % have
+5 	 3 	 (NP\NP)/NP 	 2 	 men of
+5 	 4 	 N/N 	 1 	 men schizophrenic
+6 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 have vs.
+6 	 21 	 (S[dcl]\S[dcl])/NP 	 1 	 have reports
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 sense have
+9 	 7 	 NP[nb]/N 	 1 	 sense an
+9 	 8 	 N/N 	 1 	 sense impaired
+9 	 10 	 (NP\NP)/NP 	 1 	 sense of
+11 	 10 	 (NP\NP)/NP 	 2 	 smell of
+13 	 14 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 fewer than
+15 	 14 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 10 than
+16 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 % vs.
+16 	 15 	 N/N 	 1 	 % 10
+16 	 17 	 (NP\NP)/NP 	 1 	 % of
+19 	 17 	 (NP\NP)/NP 	 2 	 women of
+19 	 18 	 N/N 	 1 	 women schizophrenic
+24 	 21 	 (S[dcl]\S[dcl])/NP 	 2 	 Journal reports
+24 	 22 	 NP[nb]/N 	 1 	 Journal the
+24 	 23 	 N/N 	 1 	 Journal American
+24 	 25 	 (NP\NP)/NP 	 1 	 Journal of
+26 	 25 	 (NP\NP)/NP 	 2 	 Psychiatry of
+<\s>

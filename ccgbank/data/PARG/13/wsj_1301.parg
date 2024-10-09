@@ -1,0 +1,102 @@
+<s id="wsj_1301.1"> 19
+1 	 0 	 N/N 	 1 	 's Moody
+1 	 2 	 NP\NP 	 1 	 's Investors
+1 	 3 	 NP\NP 	 1 	 's Service
+1 	 4 	 NP\NP 	 1 	 's Inc.
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 's said
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 it lowered
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 lowered said
+10 	 7 	 (S[dcl]\NP)/NP 	 2 	 ratings lowered
+10 	 8 	 NP[nb]/N 	 1 	 ratings the
+10 	 9 	 N/N 	 1 	 ratings debt
+10 	 11 	 (NP\NP)/NP 	 1 	 ratings of
+14 	 11 	 (NP\NP)/NP 	 2 	 debt of
+14 	 12 	 N/N 	 1 	 debt certain
+14 	 13 	 N/N 	 1 	 debt long-term
+14 	 15 	 S[pss]\NP 	 1 	 debt held <XB>
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 held by
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 company by
+18 	 17 	 NP[nb]/N 	 1 	 company this
+<\s>
+<s id="wsj_1301.2"> 30
+2 	 0 	 NP[nb]/N 	 1 	 concern The
+2 	 1 	 N/N 	 1 	 concern debt-rating
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 concern cited
+2 	 13 	 (S[ng]\NP)/S[dcl] 	 1 	 concern noting <XB>
+5 	 4 	 NP[nb]/N 	 1 	 bank the
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 bank 's
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 move cited
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 move 's
+7 	 8 	 (NP\NP)/NP 	 1 	 move into
+11 	 8 	 (NP\NP)/NP 	 2 	 market into
+11 	 9 	 NP[nb]/N 	 1 	 market the
+11 	 10 	 N/N 	 1 	 market Texas
+19 	 14 	 NP[nb]/N 	 1 	 measurements its
+19 	 15 	 N/N 	 1 	 measurements profitability
+19 	 17 	 N/N 	 1 	 measurements capital
+19 	 18 	 N/N 	 1 	 measurements adequacy
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 measurements will
+19 	 22 	 S[adj]\NP 	 1 	 measurements depressed <XB>
+20 	 13 	 (S[ng]\NP)/S[dcl] 	 2 	 will noting
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+21 	 23 	 ((S\NP)\(S\NP))/PP 	 2 	 be relative
+22 	 21 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 depressed be
+24 	 23 	 ((S\NP)\(S\NP))/PP 	 3 	 to relative
+26 	 25 	 NP[nb]/N 	 1 	 bank the
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 bank 's
+29 	 24 	 PP/NP 	 1 	 performance to
+29 	 27 	 (NP[nb]/N)\NP 	 1 	 performance 's
+29 	 28 	 N/N 	 1 	 performance past
+<\s>
+<s id="wsj_1301.3"> 37
+1 	 0 	 N/N 	 1 	 's Moody
+1 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 's said
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 said also
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 it raised
+4 	 24 	 (S[ng]\NP)/NP 	 1 	 it reflecting <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 raised said
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 rating raised
+7 	 6 	 NP[nb]/N 	 1 	 rating its
+7 	 8 	 (NP\NP)/NP 	 1 	 rating on
+13 	 8 	 (NP\NP)/NP 	 2 	 Bank on
+13 	 9 	 NP[nb]/N 	 1 	 Bank the
+13 	 10 	 N/N 	 1 	 Bank Deposit
+13 	 11 	 N/N 	 1 	 Bank Insurance
+13 	 12 	 N/N 	 1 	 Bank Bridge
+13 	 16 	 (S[pss]\NP)/PP 	 1 	 Bank known <XB>
+16 	 15 	 (S\NP)/(S\NP) 	 2 	 known now
+17 	 16 	 (S[pss]\NP)/PP 	 2 	 as known
+18 	 17 	 PP/NP 	 1 	 Bank as
+18 	 19 	 N\N 	 1 	 Bank One
+22 	 17 	 PP/NP 	 1 	 N.A. as
+22 	 21 	 N/N 	 1 	 N.A. Texas
+26 	 24 	 (S[ng]\NP)/NP 	 2 	 support reflecting
+26 	 25 	 NP[nb]/N 	 1 	 support the
+26 	 27 	 (NP\NP)/NP 	 1 	 support of
+30 	 27 	 (NP\NP)/NP 	 2 	 affiliates of
+30 	 28 	 N/N 	 1 	 affiliates other
+30 	 29 	 N/N 	 1 	 affiliates banking
+33 	 24 	 (S[ng]\NP)/NP 	 2 	 assistance reflecting
+33 	 32 	 N/N 	 1 	 assistance substantial
+33 	 34 	 (NP\NP)/NP 	 1 	 assistance for
+36 	 34 	 (NP\NP)/NP 	 2 	 FDIC for
+36 	 35 	 NP[nb]/N 	 1 	 FDIC the
+<\s>
+<s id="wsj_1301.4"> 16
+0 	 1 	 (NP\NP)/NP 	 1 	 Officials at
+0 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Officials were
+0 	 9 	 (S[adj]\NP)/PP 	 1 	 Officials available <XB>
+6 	 1 	 (NP\NP)/NP 	 2 	 company at
+6 	 2 	 NP[nb]/N 	 1 	 company the
+6 	 3 	 N/N 	 1 	 company New
+6 	 4 	 N/N 	 1 	 company York
+6 	 5 	 N/N 	 1 	 company bank-holding
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 were n't
+9 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 available were
+10 	 9 	 (S[adj]\NP)/PP 	 2 	 for available
+11 	 10 	 PP/NP 	 1 	 comment for
+11 	 12 	 (NP\NP)/NP 	 1 	 comment on
+15 	 12 	 (NP\NP)/NP 	 2 	 changes on
+15 	 13 	 NP[nb]/N 	 1 	 changes the
+15 	 14 	 N/N 	 1 	 changes debt-rating
+<\s>

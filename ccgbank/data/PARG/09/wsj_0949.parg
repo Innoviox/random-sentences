@@ -1,0 +1,228 @@
+<s id="wsj_0949.1"> 20
+2 	 0 	 NP[nb]/N 	 1 	 company An
+2 	 1 	 N/N 	 1 	 company investment
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it offered
+4 	 7 	 ((S[b]\NP)/PP)/NP 	 1 	 it acquire <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 offered said
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to offered
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 Arby 's
+10 	 7 	 ((S[b]\NP)/PP)/NP 	 3 	 Inc. acquire
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 Inc. 's
+14 	 7 	 ((S[b]\NP)/PP)/NP 	 3 	 operator acquire
+14 	 12 	 NP[nb]/N 	 1 	 operator the
+14 	 13 	 N/N 	 1 	 operator fast-food
+16 	 7 	 ((S[b]\NP)/PP)/NP 	 2 	 for acquire
+17 	 16 	 PP/NP 	 1 	 $ for
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 205
+<\s>
+<s id="wsj_0949.2"> 15
+1 	 0 	 NP[nb]/N 	 1 	 proposal The
+1 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 proposal was
+1 	 7 	 S[pss]\NP 	 1 	 proposal rebuffed <XB>
+5 	 3 	 (S\NP)/(S\NP) 	 2 	 was however
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 was immediately
+7 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 rebuffed was
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rebuffed by
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Arby 's
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 parent by
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 parent 's
+14 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp by
+14 	 13 	 N/N 	 1 	 Corp DWG
+<\s>
+<s id="wsj_0949.3"> 16
+1 	 0 	 N/N 	 1 	 's Arby
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 's is
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 is n't
+2 	 7 	 (S[dcl]\S[dcl])/NP 	 1 	 is said
+4 	 2 	 (S[dcl]\NP)/PP 	 2 	 for is
+5 	 4 	 PP/NP 	 1 	 sale for
+9 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 Mottram said
+9 	 8 	 N/N 	 1 	 Mottram Renee
+13 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 president said
+13 	 11 	 N/N 	 1 	 president senior
+13 	 12 	 N/N 	 1 	 president vice
+13 	 14 	 (NP\NP)/NP 	 1 	 president at
+15 	 14 	 (NP\NP)/NP 	 2 	 DWG at
+<\s>
+<s id="wsj_0949.4"> 38
+2 	 0 	 NP[nb]/N 	 1 	 suitor The
+2 	 1 	 N/N 	 1 	 suitor new
+2 	 14 	 ((S[dcl]\NP)/PP)/NP 	 1 	 suitor characterized
+7 	 4 	 N/N 	 1 	 Inc. Stevric
+7 	 5 	 N/N 	 1 	 Inc. Equity
+7 	 6 	 N/N 	 1 	 Inc. Ventures
+7 	 9 	 (NP\NP)/NP 	 1 	 Inc. of
+7 	 14 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Inc. characterized
+10 	 9 	 (NP\NP)/NP 	 2 	 Mineola of
+12 	 9 	 (NP\NP)/NP 	 2 	 N.Y. of
+16 	 14 	 ((S[dcl]\NP)/PP)/NP 	 3 	 proposal characterized
+16 	 15 	 NP[nb]/N 	 1 	 proposal its
+17 	 14 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as characterized
+21 	 20 	 (N/N)/(N/N) 	 2 	 independent truly
+22 	 17 	 PP/NP 	 1 	 offer as
+22 	 18 	 NP[nb]/N 	 1 	 offer the
+22 	 19 	 N/N 	 1 	 offer first
+22 	 21 	 N/N 	 1 	 offer independent
+22 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 offer which
+22 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 offer does <XB>
+22 	 26 	 ((S[b]\NP)/PP)/NP 	 1 	 offer pit <XB>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 does which
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 does not
+26 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 pit does
+29 	 26 	 ((S[b]\NP)/PP)/NP 	 3 	 group pit
+29 	 27 	 N/N 	 1 	 group one
+29 	 28 	 N/N 	 1 	 group interest
+30 	 26 	 ((S[b]\NP)/PP)/NP 	 2 	 against pit
+31 	 30 	 PP/NP 	 1 	 another against
+31 	 32 	 (NP\NP)/NP 	 1 	 another within
+34 	 33 	 NP[nb]/N 	 1 	 Arby the
+34 	 35 	 (NP[nb]/N)\NP 	 2 	 Arby 's
+37 	 32 	 (NP\NP)/NP 	 2 	 community within
+37 	 35 	 (NP[nb]/N)\NP 	 1 	 community 's
+37 	 36 	 N/N 	 1 	 community franchisee
+<\s>
+<s id="wsj_0949.5"> 37
+1 	 0 	 (S/S)/NP 	 2 	 September In
+3 	 19 	 (S[dcl]\NP)/NP 	 1 	 DWG rejected
+9 	 6 	 (N/N)/(N/N) 	 2 	 Fla. Miami
+9 	 7 	 (N/N)/(N/N) 	 2 	 Fla. Beach
+12 	 5 	 NP[nb]/N 	 1 	 company a
+12 	 9 	 N/N 	 1 	 company Fla.
+12 	 11 	 N/N 	 1 	 company holding
+12 	 13 	 S[pss]\NP 	 1 	 company controlled <XB>
+12 	 19 	 (S[dcl]\NP)/NP 	 1 	 company rejected
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 controlled by
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 Posner by
+17 	 15 	 N/N 	 1 	 Posner financeer
+17 	 16 	 N/N 	 1 	 Posner Victor
+19 	 0 	 (S/S)/NP 	 1 	 rejected In
+21 	 19 	 (S[dcl]\NP)/NP 	 2 	 offer rejected
+21 	 20 	 NP[nb]/N 	 1 	 offer an
+21 	 22 	 (NP\NP)/NP 	 1 	 offer from
+24 	 22 	 (NP\NP)/NP 	 2 	 group from
+24 	 23 	 NP[nb]/N 	 1 	 group a
+24 	 25 	 (NP\NP)/NP 	 1 	 group of
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 Arby 's
+28 	 25 	 (NP\NP)/NP 	 2 	 franchisees of
+28 	 27 	 (NP[nb]/N)\NP 	 1 	 franchisees 's
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+32 	 30 	 ((S[b]\NP)/PP)/NP 	 3 	 's acquire
+32 	 31 	 N/N 	 1 	 's Arby
+33 	 30 	 ((S[b]\NP)/PP)/NP 	 2 	 for acquire
+34 	 33 	 PP/NP 	 1 	 $ for
+36 	 34 	 N/N[num] 	 1 	 million $
+36 	 35 	 N/N 	 1 	 million 200
+<\s>
+<s id="wsj_0949.6"> 22
+1 	 0 	 (S/S)/(S[adj]\NP) 	 2 	 then Since
+5 	 3 	 NP[nb]/N 	 1 	 group a
+5 	 4 	 N/N 	 1 	 group second
+5 	 6 	 (NP\NP)/NP 	 1 	 group of
+5 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 group has
+5 	 9 	 ((S[pt]\NP)/(S[to]\NP))/(S[adj]\NP) 	 1 	 group banded <XB>
+5 	 10 	 S[adj]\NP 	 1 	 group together <XB>
+5 	 12 	 (S[b]\NP)/(S[to]\NP) 	 1 	 group try <XB>
+5 	 14 	 ((S[b]\NP)/PP)/NP 	 1 	 group wrestle <XB>
+7 	 6 	 (NP\NP)/NP 	 2 	 franchisees of
+8 	 0 	 (S/S)/(S[adj]\NP) 	 1 	 has Since
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 banded has
+10 	 9 	 ((S[pt]\NP)/(S[to]\NP))/(S[adj]\NP) 	 3 	 together banded
+11 	 9 	 ((S[pt]\NP)/(S[to]\NP))/(S[adj]\NP) 	 2 	 to banded
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 try to
+13 	 12 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to try
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 wrestle to
+15 	 14 	 ((S[b]\NP)/PP)/NP 	 3 	 control wrestle
+15 	 16 	 (NP\NP)/NP 	 1 	 control of
+18 	 16 	 (NP\NP)/NP 	 2 	 unit of
+18 	 17 	 NP[nb]/N 	 1 	 unit the
+19 	 14 	 ((S[b]\NP)/PP)/NP 	 2 	 from wrestle
+21 	 19 	 PP/NP 	 1 	 Posner from
+21 	 20 	 N/N 	 1 	 Posner Mr.
+<\s>
+<s id="wsj_0949.7"> 17
+1 	 0 	 N/N 	 1 	 's Arby
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 's is
+9 	 2 	 (S[dcl]\NP)/NP 	 2 	 company is
+9 	 3 	 NP[nb]/N 	 1 	 company the
+9 	 4 	 N/N 	 1 	 company marketing
+9 	 6 	 N/N 	 1 	 company franchising
+9 	 8 	 N/N 	 1 	 company service
+9 	 10 	 (NP\NP)/NP 	 1 	 company for
+13 	 10 	 (NP\NP)/NP 	 2 	 restaurants for
+13 	 11 	 NP[nb]/N 	 1 	 restaurants the
+13 	 12 	 N/N 	 1 	 restaurants 2,100
+13 	 14 	 (NP\NP)/NP 	 1 	 restaurants in
+16 	 14 	 (NP\NP)/NP 	 2 	 chain in
+16 	 15 	 NP[nb]/N 	 1 	 chain the
+<\s>
+<s id="wsj_0949.8"> 34
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Stevric 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 principals 's
+2 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 principals said
+4 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Richard said
+7 	 6 	 N/N 	 1 	 Buckley Steven
+7 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Buckley said
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 they led
+11 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 led said
+14 	 11 	 (S[dcl]\NP)/NP 	 2 	 group led
+14 	 12 	 NP[nb]/N 	 1 	 group the
+14 	 13 	 N/N 	 1 	 group acquisition
+14 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 group that
+14 	 16 	 (S[dcl]\NP)/NP 	 1 	 group acquired <XB>
+14 	 26 	 (S[dcl]\NP)/PP 	 1 	 group served <XU>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 acquired that
+19 	 18 	 (N/N)/(N/N) 	 2 	 's Nathan
+23 	 16 	 (S[dcl]\NP)/NP 	 2 	 chain acquired
+23 	 17 	 NP[nb]/N 	 1 	 chain the
+23 	 19 	 N/N 	 1 	 chain 's
+23 	 20 	 N/N 	 1 	 chain Famous
+23 	 21 	 N/N 	 1 	 chain Inc.
+23 	 22 	 N/N 	 1 	 chain restaurant
+26 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 served that
+26 	 25 	 (S\NP)/(S\NP) 	 2 	 served subsequently
+27 	 26 	 (S[dcl]\NP)/PP 	 2 	 as served
+30 	 27 	 PP/NP 	 1 	 officers as
+30 	 28 	 NP[nb]/N 	 1 	 officers the
+30 	 29 	 N/N 	 1 	 officers top
+30 	 31 	 (NP\NP)/NP 	 1 	 officers of
+33 	 31 	 (NP\NP)/NP 	 2 	 company of
+33 	 32 	 NP[nb]/N 	 1 	 company the
+<\s>
+<s id="wsj_0949.9"> 36
+1 	 0 	 N/N 	 1 	 Buckley Richard
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Buckley said
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Stevric 's
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 acquisition 's
+5 	 6 	 (NP\NP)/NP 	 1 	 acquisition of
+5 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 acquisition would
+5 	 10 	 (S[b]\NP)/S[to] 	 1 	 acquisition allow <XB>
+8 	 6 	 (NP\NP)/NP 	 2 	 's of
+8 	 7 	 N/N 	 1 	 's Arby
+9 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 allow would
+15 	 11 	 N/N 	 1 	 operators seasoned
+15 	 12 	 N/N 	 1 	 operators franchisers
+15 	 14 	 N/N 	 1 	 operators food-service
+15 	 24 	 (S[b]\NP)/NP 	 1 	 operators stabilize <XB>
+15 	 29 	 ((S[b]\NP)/PP)/NP 	 1 	 operators refocus <XU>
+19 	 17 	 ((S\NP)/(S\NP))/NP 	 3 	 conflicts with
+19 	 18 	 NP[nb]/N 	 1 	 conflicts no
+19 	 20 	 (NP\NP)/NP 	 1 	 conflicts of
+21 	 20 	 (NP\NP)/NP 	 2 	 interest of
+23 	 10 	 (S[b]\NP)/S[to] 	 2 	 to allow
+23 	 17 	 ((S\NP)/(S\NP))/NP 	 2 	 to with
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stabilize to
+26 	 24 	 (S[b]\NP)/NP 	 2 	 relations stabilize
+26 	 25 	 N/N 	 1 	 relations franchisee
+29 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 refocus to
+29 	 28 	 (S\NP)/(S\NP) 	 2 	 refocus properly
+31 	 30 	 NP[nb]/N 	 1 	 company the
+31 	 32 	 (NP[nb]/N)\NP 	 2 	 company 's
+33 	 29 	 ((S[b]\NP)/PP)/NP 	 3 	 energies refocus
+33 	 32 	 (NP[nb]/N)\NP 	 1 	 energies 's
+34 	 29 	 ((S[b]\NP)/PP)/NP 	 2 	 toward refocus
+35 	 34 	 PP/NP 	 1 	 growth toward
+<\s>

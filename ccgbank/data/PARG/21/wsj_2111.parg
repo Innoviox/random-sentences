@@ -1,0 +1,924 @@
+<s id="wsj_2111.1"> 5
+1 	 0 	 N/N 	 1 	 Firms Japanese
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Firms Push
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 Showrooms Push
+5 	 3 	 N/N 	 1 	 Showrooms Posh
+5 	 4 	 N/N 	 1 	 Showrooms Car
+<\s>
+<s id="wsj_2111.2"> 13
+2 	 0 	 N/N 	 1 	 makers JAPANESE
+2 	 1 	 N/N 	 1 	 makers luxury-car
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 makers are
+2 	 4 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 makers trying <XB>
+2 	 6 	 (S[b]\NP)/NP 	 1 	 makers set <XB>
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trying are
+5 	 4 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 set to
+9 	 6 	 (S[b]\NP)/NP 	 2 	 standards set
+9 	 7 	 N/N 	 1 	 standards strict
+9 	 8 	 N/N 	 1 	 standards design
+9 	 10 	 (NP\NP)/NP 	 1 	 standards for
+12 	 10 	 (NP\NP)/NP 	 2 	 dealerships for
+12 	 11 	 NP[nb]/N 	 1 	 dealerships their
+<\s>
+<s id="wsj_2111.3"> 15
+2 	 1 	 NP[nb]/N 	 1 	 dealers some
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 dealers are
+2 	 4 	 (S[ng]\NP)/NP 	 1 	 dealers negotiating <XB>
+3 	 0 	 S/S 	 1 	 are But
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 negotiating are
+4 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 negotiating while
+6 	 4 	 (S[ng]\NP)/NP 	 2 	 terms negotiating
+6 	 5 	 N/N 	 1 	 terms looser
+9 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 others decline
+9 	 12 	 S[b]\NP 	 1 	 others deal <XB>
+10 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 decline while
+11 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to decline
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 deal to
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 deal at
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 all at
+<\s>
+<s id="wsj_2111.4"> 21
+2 	 0 	 N/N 	 1 	 Co. Nissan
+2 	 1 	 N/N 	 1 	 Co. Motor
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Co. 's
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 division 's
+5 	 4 	 N/N 	 1 	 division Infiniti
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 division likes
+5 	 8 	 (S[b]\NP)/S[em] 	 1 	 division insist <XB>
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to likes
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 insist to
+9 	 8 	 (S[b]\NP)/S[em] 	 2 	 that insist
+11 	 10 	 NP[nb]/N 	 1 	 dealer every
+11 	 12 	 (S[b]\NP)/NP 	 1 	 dealer construct
+11 	 14 	 (S[b]\NP)/NP 	 1 	 dealer furnish <XU>
+12 	 9 	 S[em]/S[b] 	 1 	 construct that
+12 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 construct in
+14 	 9 	 S[em]/S[b] 	 1 	 furnish that
+14 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 furnish in
+16 	 12 	 (S[b]\NP)/NP 	 2 	 building construct <XU>
+16 	 14 	 (S[b]\NP)/NP 	 2 	 building furnish
+16 	 15 	 NP[nb]/N 	 1 	 building a
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 style in
+20 	 18 	 NP[nb]/N 	 1 	 style a
+20 	 19 	 N/N 	 1 	 style Japanese
+<\s>
+<s id="wsj_2111.5"> 26
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Specifications include
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 sculpture include
+5 	 2 	 NP[nb]/N 	 1 	 sculpture a
+5 	 3 	 N/N 	 1 	 sculpture polished
+5 	 4 	 N/N 	 1 	 sculpture bronze
+5 	 6 	 (NP\NP)/NP 	 1 	 sculpture at
+8 	 6 	 (NP\NP)/NP 	 2 	 center at
+8 	 7 	 NP[nb]/N 	 1 	 center the
+8 	 9 	 (NP\NP)/NP 	 1 	 center of
+11 	 9 	 (NP\NP)/NP 	 2 	 showroom of
+11 	 10 	 NP[nb]/N 	 1 	 showroom each
+15 	 1 	 (S[dcl]\NP)/NP 	 2 	 bridge include
+15 	 13 	 NP[nb]/N 	 1 	 bridge a
+15 	 14 	 N/N 	 1 	 bridge tile
+15 	 16 	 (S[ng]\NP)/NP 	 1 	 bridge spanning <XB>
+18 	 16 	 (S[ng]\NP)/NP 	 2 	 stream spanning
+18 	 17 	 NP[nb]/N 	 1 	 stream a
+18 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 stream that
+18 	 20 	 S[dcl]\NP 	 1 	 stream flows <XB>
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 flows that
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 flows into
+20 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 flows from
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 building into
+23 	 22 	 NP[nb]/N 	 1 	 building the
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 outside from
+<\s>
+<s id="wsj_2111.6"> 24
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Infiniti has
+1 	 3 	 ((S\NP)\(S\NP))/PP 	 2 	 has down
+1 	 8 	 (S[dcl]\S[dcl])/NP 	 1 	 has says
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 it has
+4 	 3 	 ((S\NP)\(S\NP))/PP 	 3 	 to down
+6 	 4 	 PP/NP 	 1 	 ashtrays to
+6 	 5 	 NP[nb]/N 	 1 	 ashtrays the
+10 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 Ferron says
+10 	 9 	 N/N 	 1 	 Ferron Jay
+13 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 partner says
+13 	 12 	 NP[nb]/N 	 1 	 partner a
+13 	 14 	 (NP\NP)/NP 	 1 	 partner at
+18 	 14 	 (NP\NP)/NP 	 2 	 Associates at
+18 	 15 	 N/N 	 1 	 Associates J.D.
+18 	 16 	 N/N 	 1 	 Associates Power
+18 	 17 	 N/N 	 1 	 Associates &
+23 	 14 	 (NP\NP)/NP 	 2 	 firm at
+23 	 20 	 NP[nb]/N 	 1 	 firm an
+23 	 21 	 N/N 	 1 	 firm auto
+23 	 22 	 N/N 	 1 	 firm research
+<\s>
+<s id="wsj_2111.7"> 9
+2 	 0 	 N/N 	 1 	 Corp. Toyota
+2 	 1 	 N/N 	 1 	 Corp. Motor
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 division 's
+5 	 4 	 N/N 	 1 	 division Lexus
+5 	 7 	 (S[dcl]\NP)/NP 	 1 	 division provides
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 provides also
+8 	 7 	 (S[dcl]\NP)/NP 	 2 	 specifications provides
+<\s>
+<s id="wsj_2111.8"> 15
+2 	 1 	 N/N 	 1 	 two-thirds only
+2 	 3 	 (NP\NP)/NP 	 1 	 two-thirds of
+2 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 two-thirds are
+2 	 7 	 (S[ng]\NP)/NP 	 1 	 two-thirds constructing <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 dealers of
+5 	 4 	 N/N 	 1 	 dealers Lexus
+6 	 0 	 S/S 	 1 	 are But
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 constructing are
+7 	 10 	 ((S\NP)\(S\NP))/PP 	 2 	 constructing according
+9 	 7 	 (S[ng]\NP)/NP 	 2 	 buildings constructing
+9 	 8 	 N/N 	 1 	 buildings new
+11 	 10 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+14 	 11 	 PP/NP 	 1 	 specs to
+14 	 12 	 NP[nb]/N 	 1 	 specs the
+14 	 13 	 N/N 	 1 	 specs Lexus
+<\s>
+<s id="wsj_2111.9"> 10
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Some are
+0 	 3 	 (S[ng]\NP)/PP 	 1 	 Some coming <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 are even
+3 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 coming are
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 coming up
+5 	 3 	 (S[ng]\NP)/PP 	 2 	 with coming
+9 	 5 	 PP/NP 	 1 	 designs with
+9 	 6 	 NP[nb]/N 	 1 	 designs their
+9 	 7 	 N/N 	 1 	 designs own
+9 	 8 	 N/N 	 1 	 designs novel
+<\s>
+<s id="wsj_2111.10"> 22
+1 	 0 	 (S/S)/NP 	 2 	 Louisville In
+3 	 0 	 (S/S)/NP 	 2 	 Ky. In
+6 	 5 	 (S/S)/NP 	 2 	 example for
+9 	 8 	 N/N 	 1 	 Peterson David
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Peterson has
+9 	 11 	 (S[pt]\NP)/NP 	 1 	 Peterson built <XB>
+10 	 0 	 (S/S)/NP 	 1 	 has In
+10 	 5 	 (S/S)/NP 	 1 	 has for
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 built has
+14 	 11 	 (S[pt]\NP)/NP 	 2 	 dealership built
+14 	 12 	 NP[nb]/N 	 1 	 dealership a
+14 	 13 	 N/N 	 1 	 dealership Lexus
+14 	 15 	 (NP\NP)/NP 	 1 	 dealership with
+17 	 15 	 (NP\NP)/NP 	 2 	 showroom with
+17 	 16 	 NP[nb]/N 	 1 	 showroom the
+17 	 18 	 (NP\NP)/NP 	 1 	 showroom on
+21 	 18 	 (NP\NP)/NP 	 2 	 floor on
+21 	 19 	 NP[nb]/N 	 1 	 floor the
+21 	 20 	 N/N 	 1 	 floor second
+<\s>
+<s id="wsj_2111.11"> 21
+2 	 1 	 NP[nb]/N 	 1 	 dealers some
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 dealers have
+2 	 4 	 (S[pt]\NP)/NP 	 1 	 dealers turned <XB>
+3 	 0 	 S/S 	 1 	 have Yet
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 turned have
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 turned down
+4 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 turned because
+9 	 4 	 (S[pt]\NP)/NP 	 2 	 franchises turned
+9 	 6 	 N/N 	 1 	 franchises Infiniti
+9 	 8 	 N/N 	 1 	 franchises Lexus
+11 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they were
+11 	 13 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 they unwilling <XB>
+11 	 15 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 they unable <XU>
+12 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 were because
+13 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unwilling were
+15 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unable were
+16 	 13 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to unwilling <XU>
+16 	 15 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to unable
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+20 	 17 	 (S[b]\NP)/NP 	 2 	 requirements meet
+20 	 18 	 NP[nb]/N 	 1 	 requirements the
+20 	 19 	 N/N 	 1 	 requirements design
+<\s>
+<s id="wsj_2111.12"> 24
+1 	 0 	 N/N 	 1 	 Seidman Lee
+1 	 2 	 (NP\NP)/NP 	 1 	 Seidman of
+1 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Seidman says
+3 	 2 	 (NP\NP)/NP 	 2 	 Cleveland of
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Infiniti was
+5 	 14 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 1 	 Infiniti let <XU>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 was says
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 was on
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 bear was
+8 	 7 	 NP[nb]/N 	 1 	 bear a
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 interiors on
+13 	 12 	 ((S\NP)/(S\NP))/(S[asup]\NP) 	 3 	 least at
+14 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 let says
+14 	 12 	 ((S\NP)/(S\NP))/(S[asup]\NP) 	 2 	 let at
+15 	 14 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 3 	 him let
+15 	 16 	 (S[b]\NP)/NP 	 1 	 him retrofit <XB>
+16 	 14 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 2 	 retrofit let
+16 	 20 	 ((S\NP)\(S\NP))/PP 	 2 	 retrofit --
+19 	 16 	 (S[b]\NP)/NP 	 2 	 building retrofit
+19 	 17 	 NP[nb]/N 	 1 	 building an
+19 	 18 	 N/N 	 1 	 building existing
+21 	 20 	 ((S\NP)\(S\NP))/PP 	 3 	 without --
+23 	 21 	 PP/NP 	 1 	 stream without
+23 	 22 	 NP[nb]/N 	 1 	 stream the
+<\s>
+<s id="wsj_2111.13"> 19
+1 	 0 	 N/N 	 1 	 Seidman Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Seidman says
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 he turned
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 turned says
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 turned down
+4 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 turned because
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 franchise turned
+8 	 6 	 NP[nb]/N 	 1 	 franchise a
+8 	 7 	 N/N 	 1 	 franchise Lexus
+10 	 9 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 part in
+11 	 9 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 because in
+13 	 12 	 NP[nb]/N 	 1 	 building the
+13 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 building was
+13 	 15 	 S[adj]\NP 	 1 	 building gorgeous <XB>
+13 	 18 	 S[adj]\NP 	 1 	 building expensive <XU>
+14 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was because
+15 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 gorgeous was
+18 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 expensive was
+18 	 17 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 expensive very
+<\s>
+<s id="wsj_2111.14"> 14
+1 	 0 	 (S[to]\NP)/(S[b]\NP) 	 2 	 head To
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 head off
+3 	 1 	 (S[b]\NP)/NP 	 2 	 arguments head
+5 	 6 	 ((S[dcl]\NP)/NP)/NP 	 1 	 Infiniti offers
+7 	 6 	 ((S[dcl]\NP)/NP)/NP 	 3 	 dealers offers
+9 	 6 	 ((S[dcl]\NP)/NP)/NP 	 2 	 bonuses offers
+9 	 8 	 N/N 	 1 	 bonuses cash
+13 	 6 	 ((S[dcl]\NP)/NP)/NP 	 2 	 loans offers
+13 	 11 	 N/N 	 1 	 loans low-interest
+13 	 12 	 N/N 	 1 	 loans construction
+<\s>
+<s id="wsj_2111.15"> 7
+1 	 0 	 N/N 	 1 	 Device Dictation
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Device 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 Saga 's
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Saga Plays
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 Plays Back
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 Lesson Plays
+7 	 6 	 NP[nb]/N 	 1 	 Lesson a
+<\s>
+<s id="wsj_2111.16"> 9
+0 	 1 	 (S[b]\NP)/(S[dcl]\NP) 	 1 	 PRODUCTS DON'T
+0 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 PRODUCTS have <XB>
+0 	 5 	 S[adj]\NP 	 1 	 PRODUCTS first <XB>
+0 	 7 	 (S[b]\NP)/NP 	 1 	 PRODUCTS be <XB>
+2 	 1 	 (S[b]\NP)/(S[dcl]\NP) 	 2 	 have DON'T
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to have
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+5 	 4 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 first be
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 7 	 (S[b]\NP)/NP 	 2 	 winners be
+<\s>
+<s id="wsj_2111.17"> 14
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That 's
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 lesson 's
+3 	 2 	 NP[nb]/N 	 1 	 lesson the
+3 	 4 	 S[pss]\NP 	 1 	 lesson offered <XB>
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 offered through
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 study through
+8 	 6 	 N/N 	 1 	 study one
+8 	 7 	 N/N 	 1 	 study case
+8 	 9 	 S[pss]\NP 	 1 	 study featured <XB>
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 featured in
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 exhibit in
+13 	 11 	 NP[nb]/N 	 1 	 exhibit a
+13 	 12 	 N/N 	 1 	 exhibit design
+<\s>
+<s id="wsj_2111.18"> 31
+1 	 0 	 N/N 	 1 	 Corp. Dictaphone
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Corp. was
+1 	 3 	 S[pss]\NP 	 1 	 Corp. caught <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 caught was
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 caught off
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 caught in
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 guard off
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 1974 in
+7 	 8 	 (NP\NP)/S[dcl] 	 1 	 1974 when
+11 	 9 	 NP[nb]/N 	 1 	 competitor its
+11 	 10 	 N/N 	 1 	 competitor main
+11 	 19 	 (S[dcl]\NP)/NP 	 1 	 competitor introduced
+15 	 13 	 N/N 	 1 	 Products Lanier
+15 	 14 	 N/N 	 1 	 Products Office
+15 	 16 	 (NP\NP)/NP 	 1 	 Products of
+15 	 19 	 (S[dcl]\NP)/NP 	 1 	 Products introduced
+17 	 16 	 (NP\NP)/NP 	 2 	 Japan of
+19 	 8 	 (NP\NP)/S[dcl] 	 2 	 introduced when
+23 	 19 	 (S[dcl]\NP)/NP 	 2 	 recorder introduced
+23 	 20 	 NP[nb]/N 	 1 	 recorder a
+23 	 21 	 N/N 	 1 	 recorder microcassette
+23 	 22 	 N/N 	 1 	 recorder dictation
+23 	 25 	 (NP\NP)/N 	 1 	 recorder the
+25 	 24 	 (NP\NP)/(NP\NP) 	 2 	 the half
+25 	 27 	 ((NP\NP)\(NP\NP))/NP 	 2 	 the of
+26 	 25 	 (NP\NP)/N 	 2 	 size the
+30 	 27 	 ((NP\NP)\(NP\NP))/NP 	 3 	 devices of
+30 	 28 	 N/N 	 1 	 devices standard
+30 	 29 	 N/N 	 1 	 devices cassette
+<\s>
+<s id="wsj_2111.19"> 30
+0 	 1 	 ((S\NP)\(S\NP))/NP 	 2 	 Blocked by
+3 	 1 	 ((S\NP)\(S\NP))/NP 	 3 	 protection by
+3 	 2 	 N/N 	 1 	 protection patent
+4 	 0 	 (S[pss]\NP)/PP 	 2 	 from Blocked
+5 	 4 	 PP/(S[ng]\NP) 	 1 	 following from
+6 	 5 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 suit following
+8 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Dictaphone decided
+8 	 11 	 (S[b]\NP)/NP 	 1 	 Dictaphone go <XB>
+8 	 16 	 ((S[b]\NP)/PP)/NP 	 1 	 Dictaphone cut <XU>
+10 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to decided
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 go to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 step go
+13 	 12 	 NP[nb]/N 	 1 	 step a
+13 	 14 	 NP\NP 	 1 	 step further
+16 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cut to
+16 	 21 	 (S\NP)\(S\NP) 	 2 	 cut again
+16 	 22 	 (S\NP)\(S\NP) 	 2 	 cut --
+18 	 16 	 ((S[b]\NP)/PP)/NP 	 3 	 cassette cut
+18 	 17 	 NP[nb]/N 	 1 	 cassette the
+19 	 16 	 ((S[b]\NP)/PP)/NP 	 2 	 in cut
+20 	 19 	 PP/NP 	 1 	 half in
+22 	 23 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/PP 	 3 	 -- down
+24 	 23 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/PP 	 4 	 to down
+26 	 24 	 PP/NP 	 1 	 length to
+26 	 25 	 NP[nb]/N 	 1 	 length the
+26 	 27 	 (NP\NP)/NP 	 1 	 length of
+29 	 27 	 (NP\NP)/NP 	 2 	 paperclip of
+29 	 28 	 NP[nb]/N 	 1 	 paperclip a
+<\s>
+<s id="wsj_2111.20"> 23
+1 	 0 	 (S/S)/NP 	 2 	 1979 By
+3 	 6 	 (NP\NP)/NP 	 1 	 designers at
+3 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 designers had
+3 	 15 	 (S[pt]\NP)/NP 	 1 	 designers produced <XB>
+5 	 6 	 (NP\NP)/NP 	 1 	 engineers at
+5 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 engineers had
+5 	 15 	 (S[pt]\NP)/NP 	 1 	 engineers produced <XB>
+7 	 6 	 (NP\NP)/NP 	 2 	 Dictaphone at
+12 	 6 	 (NP\NP)/NP 	 2 	 subsidiary at
+12 	 9 	 NP[nb]/N 	 1 	 subsidiary a
+12 	 10 	 N/N 	 1 	 subsidiary Pitney
+12 	 11 	 N/N 	 1 	 subsidiary Bowes
+14 	 0 	 (S/S)/NP 	 1 	 had By
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 produced had
+18 	 15 	 (S[pt]\NP)/NP 	 2 	 model produced
+18 	 16 	 NP[nb]/N 	 1 	 model a
+18 	 17 	 N/N 	 1 	 model working
+18 	 19 	 (NP\NP)/NP 	 1 	 model of
+22 	 19 	 (NP\NP)/NP 	 2 	 recorder of
+22 	 20 	 NP[nb]/N 	 1 	 recorder a
+22 	 21 	 N/N 	 1 	 recorder picocassette
+<\s>
+<s id="wsj_2111.21"> 28
+1 	 0 	 (S/S)/NP 	 2 	 1982 By
+7 	 5 	 NP[nb]/N 	 1 	 status the
+7 	 6 	 N/N 	 1 	 status patent
+7 	 8 	 (NP\NP)/NP 	 1 	 status of
+7 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 status had
+7 	 13 	 S[pt]\NP 	 1 	 status changed <XB>
+7 	 15 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 1 	 status permitting <XB>
+11 	 8 	 (NP\NP)/NP 	 2 	 microcassette of
+11 	 9 	 NP[nb]/N 	 1 	 microcassette the
+11 	 10 	 N/N 	 1 	 microcassette Lanier
+12 	 0 	 (S/S)/NP 	 1 	 had By
+12 	 3 	 S/S 	 1 	 had however
+13 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 changed had
+16 	 15 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 Dictaphone permitting
+16 	 18 	 (S[b]\NP)/NP 	 1 	 Dictaphone develop <XB>
+17 	 15 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to permitting
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 develop to
+18 	 25 	 ((S\NP)\(S\NP))/(S[dcl]/NP) 	 2 	 develop which
+23 	 18 	 (S[b]\NP)/NP 	 2 	 system develop
+23 	 19 	 NP[nb]/N 	 1 	 system its
+23 	 20 	 N/N 	 1 	 system own
+23 	 21 	 N/N 	 1 	 system competitive
+23 	 22 	 N/N 	 1 	 system micro
+26 	 27 	 (S[dcl]\NP)/NP 	 1 	 it did
+27 	 25 	 ((S\NP)\(S\NP))/(S[dcl]/NP) 	 3 	 did which
+<\s>
+<s id="wsj_2111.22"> 11
+3 	 0 	 N/N 	 1 	 departments Marketing
+3 	 2 	 N/N 	 1 	 departments sales
+3 	 5 	 (S[dcl]\NP)/NP 	 1 	 departments urged
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 urged then
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 abandonment urged
+6 	 7 	 (NP\NP)/NP 	 1 	 abandonment of
+10 	 7 	 (NP\NP)/NP 	 2 	 project of
+10 	 8 	 NP[nb]/N 	 1 	 project the
+10 	 9 	 N/N 	 1 	 project pico
+<\s>
+<s id="wsj_2111.23"> 6
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 others said
+2 	 0 	 S/S 	 1 	 said But
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 pico should
+3 	 5 	 S[b]\NP 	 1 	 pico proceed <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 should said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 proceed should
+<\s>
+<s id="wsj_2111.24"> 3
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Both were
+0 	 2 	 S[adj]\NP 	 1 	 Both right <XB>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 right were
+<\s>
+<s id="wsj_2111.25"> 16
+0 	 1 	 S[dcl]\NP 	 1 	 Dictaphone went
+0 	 4 	 (S[dcl]\NP)/NP 	 1 	 Dictaphone introduced <XU>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 went ahead
+1 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 went in
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 introduced in
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 pico introduced
+6 	 5 	 NP[nb]/N 	 1 	 pico the
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 1985 in
+11 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+11 	 14 	 S[pt]\NP 	 1 	 it sold <XB>
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 has n't
+14 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 sold has
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 sold well
+<\s>
+<s id="wsj_2111.26"> 21
+1 	 0 	 (S/S)/NP 	 2 	 date To
+5 	 3 	 (S[dcl]\S[dcl])/NP 	 2 	 Jachmann says
+5 	 4 	 N/N 	 1 	 Jachmann Emil
+10 	 3 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+10 	 7 	 NP[nb]/N 	 1 	 president a
+10 	 8 	 N/N 	 1 	 president Dictaphone
+10 	 9 	 N/N 	 1 	 president vice
+12 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+12 	 14 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 it broken <XB>
+12 	 15 	 S[adj]\NP 	 1 	 it even <XB>
+12 	 17 	 (S[pt]\NP)/NP 	 1 	 it shown <XU>
+13 	 0 	 (S/S)/NP 	 1 	 has To
+13 	 3 	 (S[dcl]\S[dcl])/NP 	 1 	 has says <XB>
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 broken has
+15 	 14 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 even broken
+17 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 shown has
+20 	 17 	 (S[pt]\NP)/NP 	 2 	 loss shown
+20 	 18 	 NP[nb]/N 	 1 	 loss a
+20 	 19 	 N/N 	 1 	 loss small
+<\s>
+<s id="wsj_2111.27"> 10
+3 	 2 	 NP[nb]/N 	 1 	 device the
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 device has
+3 	 6 	 S[adj]\NP 	 1 	 device successful <XB>
+4 	 0 	 S/S 	 1 	 has Nevertheless
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+5 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 been in
+6 	 5 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 successful been
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 ways in
+9 	 8 	 N/N 	 1 	 ways other
+<\s>
+<s id="wsj_2111.28"> 16
+0 	 1 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 1 	 It helped
+2 	 1 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 3 	 Dictaphone helped
+2 	 3 	 (S[b]\NP)/NP 	 1 	 Dictaphone attract <XB>
+3 	 1 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 2 	 attract helped
+5 	 3 	 (S[b]\NP)/NP 	 2 	 engineers attract
+5 	 4 	 N/N 	 1 	 engineers better
+8 	 9 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it provided
+11 	 9 	 ((S[dcl]\NP)/PP)/NP 	 3 	 technology provided
+11 	 10 	 N/N 	 1 	 technology new
+12 	 9 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for provided
+15 	 12 	 PP/NP 	 1 	 products for
+15 	 13 	 N/N 	 1 	 products other
+15 	 14 	 N/N 	 1 	 products company
+<\s>
+<s id="wsj_2111.29"> 15
+2 	 0 	 NP[nb]/N 	 1 	 recorder The
+2 	 1 	 N/N 	 1 	 recorder picocassette
+2 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 recorder helped
+2 	 5 	 (((S[b]\NP)/PP)/PP)/NP 	 1 	 recorder transform <XB>
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 helped also
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 transform helped
+7 	 6 	 NP[nb]/N 	 1 	 company the
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 company 's
+9 	 5 	 (((S[b]\NP)/PP)/PP)/NP 	 4 	 reputation transform
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 reputation 's
+10 	 5 	 (((S[b]\NP)/PP)/PP)/NP 	 3 	 from transform
+11 	 10 	 PP/NP 	 1 	 follower from
+12 	 5 	 (((S[b]\NP)/PP)/PP)/NP 	 2 	 to transform
+14 	 12 	 PP/NP 	 1 	 innovator to
+14 	 13 	 N/N 	 1 	 innovator leading-edge
+<\s>
+<s id="wsj_2111.30"> 29
+0 	 1 	 (((S[dcl]\NP[expl])/(S[to]\NP))/NP)/NP 	 1 	 It gave
+1 	 26 	 (S[dcl]\S[dcl])/NP 	 1 	 gave says
+2 	 1 	 (((S[dcl]\NP[expl])/(S[to]\NP))/NP)/NP 	 4 	 me gave
+4 	 1 	 (((S[dcl]\NP[expl])/(S[to]\NP))/NP)/NP 	 3 	 pride gave
+4 	 3 	 N/N 	 1 	 pride great
+5 	 1 	 (((S[dcl]\NP[expl])/(S[to]\NP))/NP)/NP 	 2 	 to gave
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 see to
+8 	 6 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 inventor see
+8 	 7 	 NP[nb]/N 	 1 	 inventor the
+8 	 9 	 (NP\NP)/NP 	 1 	 inventor of
+8 	 12 	 (NP\NP)/NP 	 1 	 inventor in
+8 	 14 	 (S[b]\NP)/PP 	 1 	 inventor look <XB>
+8 	 19 	 (S[b]\NP)/NP 	 1 	 inventor shake <XU>
+8 	 23 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 inventor say <XU>
+8 	 24 	 S[adj]\NP 	 1 	 inventor unbelievable <XU>
+11 	 9 	 (NP\NP)/NP 	 2 	 microcassette of
+11 	 10 	 NP[nb]/N 	 1 	 microcassette the
+13 	 12 	 (NP\NP)/NP 	 2 	 Japan in
+14 	 6 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 look see
+15 	 14 	 (S[b]\NP)/PP 	 2 	 at look
+17 	 15 	 PP/NP 	 1 	 pico at
+17 	 16 	 NP[nb]/N 	 1 	 pico the
+19 	 6 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 shake see
+21 	 19 	 (S[b]\NP)/NP 	 2 	 head shake
+21 	 20 	 NP[nb]/N 	 1 	 head his
+23 	 6 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 say see
+24 	 23 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 unbelievable say
+28 	 26 	 (S[dcl]\S[dcl])/NP 	 2 	 Jachmann says
+28 	 27 	 N/N 	 1 	 Jachmann Mr.
+<\s>
+<s id="wsj_2111.31"> 28
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Dictaphone 's
+3 	 1 	 (NP[nb]/N)\NP 	 1 	 recorder 's
+3 	 2 	 N/N 	 1 	 recorder picocassette
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 recorder is
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 one is
+5 	 6 	 (NP\NP)/NP 	 1 	 one of
+9 	 6 	 (NP\NP)/NP 	 2 	 studies of
+9 	 7 	 N/N 	 1 	 studies 13
+9 	 8 	 N/N 	 1 	 studies case
+9 	 10 	 (NP\NP)/NP 	 1 	 studies in
+14 	 10 	 (NP\NP)/NP 	 2 	 Project in
+14 	 11 	 NP[nb]/N 	 1 	 Project the
+14 	 12 	 N/N 	 1 	 Project TRIAD
+14 	 13 	 N/N 	 1 	 Project Design
+14 	 16 	 S[pss]\NP 	 1 	 Project sponsored <XB>
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 sponsored by
+21 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 Institute by
+21 	 18 	 NP[nb]/N 	 1 	 Institute the
+21 	 19 	 N/N 	 1 	 Institute Design
+21 	 20 	 N/N 	 1 	 Institute Management
+21 	 22 	 (NP\NP)/NP 	 1 	 Institute of
+23 	 22 	 (NP\NP)/NP 	 2 	 Boston of
+27 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 School by
+27 	 25 	 N/N 	 1 	 School Harvard
+27 	 26 	 N/N 	 1 	 School Business
+<\s>
+<s id="wsj_2111.32"> 25
+1 	 0 	 NP[nb]/N 	 1 	 studies The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 studies are
+1 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 studies will <XU>
+1 	 11 	 S[b]\NP 	 1 	 studies travel <XU>
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 are at
+2 	 7 	 ((S\NP)\(S\NP))/N 	 2 	 are this
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 on are
+4 	 3 	 PP/NP 	 1 	 exhibit on
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Harvard at
+8 	 7 	 ((S\NP)\(S\NP))/N 	 3 	 month this
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 travel will
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 travel to
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 Chicago 's
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 Institute to
+15 	 14 	 (NP[nb]/N)\NP 	 1 	 Institute 's
+15 	 16 	 (NP\NP)/NP 	 1 	 Institute of
+17 	 16 	 (NP\NP)/NP 	 2 	 Design of
+20 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 University to
+20 	 19 	 NP[nb]/N 	 1 	 University the
+20 	 21 	 (NP\NP)/NP 	 1 	 University of
+20 	 23 	 (NP\NP)/NP 	 1 	 University at
+22 	 21 	 (NP\NP)/NP 	 2 	 California of
+24 	 23 	 (NP\NP)/NP 	 2 	 Berkeley at
+<\s>
+<s id="wsj_2111.33"> 6
+1 	 0 	 NP[nb]/N 	 1 	 Rake A
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Rake 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 Progress 's
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Progress Means
+3 	 5 	 S[ng]\NP 	 1 	 Progress Branching <XB>
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 Branching Means
+<\s>
+<s id="wsj_2111.34"> 24
+1 	 0 	 (S/S)/(S/S) 	 2 	 DAY ONE
+3 	 2 	 N/N 	 1 	 Barrett Carl
+3 	 4 	 (NP\NP)/NP 	 1 	 Barrett of
+3 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Barrett was
+3 	 10 	 (S[ng]\NP)/NP 	 1 	 Barrett raking <XB>
+5 	 4 	 (NP\NP)/NP 	 2 	 Mobile of
+7 	 4 	 (NP\NP)/NP 	 2 	 Ala. of
+9 	 1 	 S/S 	 1 	 was DAY
+10 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 raking was
+13 	 10 	 (S[ng]\NP)/NP 	 2 	 leaves raking
+13 	 11 	 NP[nb]/N 	 1 	 leaves some
+13 	 12 	 N/N 	 1 	 leaves sycamore
+17 	 16 	 NP[nb]/N 	 1 	 rake the
+17 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 rake kept
+17 	 19 	 S[ng]\NP 	 1 	 rake riding <XB>
+19 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 riding kept
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 riding up
+19 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 riding over
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 piles over
+23 	 22 	 NP[nb]/N 	 1 	 piles the
+<\s>
+<s id="wsj_2111.35"> 23
+1 	 0 	 ((S/S)/S[dcl])/(S[adj]\NP) 	 3 	 harder The
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 he tried
+2 	 5 	 (S[b]\NP)/NP 	 1 	 he push <XB>
+3 	 0 	 ((S/S)/S[dcl])/(S[adj]\NP) 	 2 	 tried The
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to tried
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 push to
+5 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 push into
+6 	 5 	 (S[b]\NP)/NP 	 2 	 them push
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 piles into
+9 	 8 	 N/N 	 1 	 piles large
+12 	 11 	 (S/S)/(S[adj]\NP) 	 2 	 closer the
+13 	 14 	 (S[dcl]\NP)/PP 	 1 	 he came
+14 	 0 	 ((S/S)/S[dcl])/(S[adj]\NP) 	 1 	 came The
+14 	 11 	 (S/S)/(S[adj]\NP) 	 1 	 came the
+15 	 14 	 (S[dcl]\NP)/PP 	 2 	 to came
+16 	 15 	 PP/(S[ng]\NP) 	 1 	 breaking to
+18 	 16 	 (S[ng]\NP)/NP 	 2 	 rake breaking
+18 	 17 	 NP[nb]/N 	 1 	 rake the
+20 	 15 	 PP/(S[ng]\NP) 	 1 	 straining to
+22 	 20 	 (S[ng]\NP)/NP 	 2 	 back straining
+22 	 21 	 NP[nb]/N 	 1 	 back his
+<\s>
+<s id="wsj_2111.36"> 32
+2 	 1 	 N/N 	 1 	 Barrett Mr.
+2 	 13 	 (S[dcl]\NP)/NP 	 1 	 Barrett took
+2 	 19 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Barrett taped <XU>
+6 	 4 	 NP/NP 	 1 	 president then
+6 	 5 	 N/N 	 1 	 president vice
+6 	 7 	 (NP\NP)/NP 	 1 	 president of
+6 	 13 	 (S[dcl]\NP)/NP 	 1 	 president took
+6 	 19 	 ((S[dcl]\NP)/PP)/NP 	 1 	 president taped <XU>
+11 	 7 	 (NP\NP)/NP 	 2 	 Association of
+11 	 8 	 NP[nb]/N 	 1 	 Association the
+11 	 9 	 N/N 	 1 	 Association Alabama
+11 	 10 	 N/N 	 1 	 Association Steamship
+13 	 0 	 S/S 	 1 	 took So
+17 	 13 	 (S[dcl]\NP)/NP 	 2 	 rake took
+17 	 14 	 NP[nb]/N 	 1 	 rake a
+17 	 15 	 N/N 	 1 	 rake steel-toothed
+17 	 16 	 N/N 	 1 	 rake garden
+19 	 0 	 S/S 	 1 	 taped So
+20 	 19 	 ((S[dcl]\NP)/PP)/NP 	 3 	 it taped
+21 	 19 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to taped
+23 	 21 	 PP/NP 	 1 	 underside to
+23 	 22 	 NP[nb]/N 	 1 	 underside the
+23 	 24 	 (NP\NP)/NP 	 1 	 underside of
+23 	 31 	 (NP\NP)\NP 	 1 	 underside up
+27 	 24 	 (NP\NP)/NP 	 2 	 rake of
+27 	 25 	 NP[nb]/N 	 1 	 rake a
+27 	 26 	 N/N 	 1 	 rake leaf
+30 	 28 	 N/N 	 1 	 inches about
+30 	 29 	 N/N 	 1 	 inches nine
+30 	 31 	 (NP\NP)\NP 	 2 	 inches up
+<\s>
+<s id="wsj_2111.37"> 27
+2 	 0 	 NP[nb]/N 	 1 	 device His
+2 	 1 	 N/N 	 1 	 device crude
+2 	 3 	 S[dcl]\NP 	 1 	 device worked
+3 	 4 	 (S\S)/S[dcl] 	 1 	 worked :
+7 	 5 	 NP[nb]/N 	 1 	 teeth The
+7 	 6 	 N/N 	 1 	 teeth lower
+7 	 8 	 ((S[dcl]\NP)/PP)/NP 	 1 	 teeth gathered
+8 	 4 	 (S\S)/S[dcl] 	 2 	 gathered :
+8 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 gathered while
+10 	 8 	 ((S[dcl]\NP)/PP)/NP 	 3 	 leaves gathered
+10 	 9 	 NP[nb]/N 	 1 	 leaves the
+11 	 8 	 ((S[dcl]\NP)/PP)/NP 	 2 	 into gathered
+13 	 11 	 PP/NP 	 1 	 pile into
+13 	 12 	 NP[nb]/N 	 1 	 pile a
+19 	 17 	 (N/N)/(N/N) 	 2 	 harder higher
+20 	 16 	 NP[nb]/N 	 1 	 teeth the
+20 	 19 	 N/N 	 1 	 teeth harder
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 teeth moved
+21 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 moved while
+23 	 21 	 (S[dcl]\NP)/NP 	 2 	 top moved
+23 	 22 	 NP[nb]/N 	 1 	 top the
+23 	 24 	 (NP\NP)/NP 	 1 	 top of
+26 	 24 	 (NP\NP)/NP 	 2 	 pile of
+26 	 25 	 NP[nb]/N 	 1 	 pile the
+<\s>
+<s id="wsj_2111.38"> 23
+1 	 0 	 (S\NP)/(S\NP) 	 2 	 incorporated Now
+2 	 1 	 (S[pss]\NP)/PP 	 2 	 into incorporated
+5 	 2 	 PP/NP 	 1 	 rake into
+5 	 3 	 NP[nb]/N 	 1 	 rake a
+5 	 4 	 N/N 	 1 	 rake polypropylene
+9 	 7 	 NP[nb]/N 	 1 	 prongs the
+9 	 8 	 N/N 	 1 	 prongs four-inch
+9 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 prongs are
+9 	 16 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 prongs supposed <XB>
+9 	 18 	 (S[b]\NP)/PP 	 1 	 prongs aid <XB>
+12 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 wonderbars are
+12 	 16 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 wonderbars supposed <XB>
+12 	 18 	 (S[b]\NP)/PP 	 1 	 wonderbars aid <XB>
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 are also
+16 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 supposed are
+17 	 16 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to supposed
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 aid to
+19 	 18 	 (S[b]\NP)/PP 	 2 	 in aid
+20 	 19 	 PP/(S[ng]\NP) 	 1 	 picking in
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 picking up
+22 	 20 	 (S[ng]\NP)/NP 	 2 	 leaves picking
+<\s>
+<s id="wsj_2111.39"> 28
+1 	 0 	 N/N 	 1 	 customer One
+1 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 customer says
+4 	 3 	 N/N 	 1 	 Blaggs Donald
+4 	 5 	 (NP\NP)/NP 	 1 	 Blaggs of
+4 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Blaggs says
+6 	 5 	 (NP\NP)/NP 	 2 	 Mobile of
+11 	 9 	 NP[nb]/N 	 1 	 Rake the
+11 	 10 	 N/N 	 1 	 Rake Barrett
+11 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Rake allowed
+12 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 allowed says
+13 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 him allowed
+13 	 15 	 (S[b]\NP)/NP 	 1 	 him do <XB>
+14 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to allowed
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+15 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 do in
+17 	 15 	 (S[b]\NP)/NP 	 2 	 lawn do
+17 	 16 	 NP[nb]/N 	 1 	 lawn his
+20 	 19 	 (N/N)/(N/N) 	 2 	 1\/2 2
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 hours in
+21 	 20 	 N/N 	 1 	 hours 1\/2
+21 	 25 	 (S[adj]\NP)\NP 	 1 	 hours less <XB>
+24 	 23 	 N/N 	 1 	 hours two
+24 	 25 	 (S[adj]\NP)\NP 	 2 	 hours less
+25 	 26 	 ((S[adj]\NP)\(S[adj]\NP))/(S[adj]\NP) 	 2 	 less than
+27 	 26 	 ((S[adj]\NP)\(S[adj]\NP))/(S[adj]\NP) 	 3 	 usual than
+<\s>
+<s id="wsj_2111.40"> 7
+3 	 1 	 N/N 	 1 	 makers other
+3 	 2 	 N/N 	 1 	 makers rake
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 makers have
+4 	 0 	 S/S 	 1 	 have But
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 doubts have
+6 	 5 	 NP[nb]/N 	 1 	 doubts their
+<\s>
+<s id="wsj_2111.41"> 29
+1 	 0 	 N/N 	 1 	 Mason Richard
+1 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 Mason says
+3 	 4 	 (NP\NP)/NP 	 1 	 president of
+3 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 president says
+6 	 4 	 (NP\NP)/NP 	 2 	 Co. of
+6 	 5 	 N/N 	 1 	 Co. Ames
+6 	 7 	 (NP\NP)/NP 	 1 	 Co. in
+8 	 7 	 (NP\NP)/NP 	 2 	 Parkersburg in
+11 	 7 	 (NP\NP)/NP 	 2 	 Va. in
+11 	 10 	 N/N 	 1 	 Va. W.
+16 	 14 	 NP[nb]/N 	 1 	 rake the
+16 	 15 	 N/N 	 1 	 rake Barrett
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 rake makes
+17 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 makes says
+18 	 17 	 (S[dcl]\NP)/NP 	 2 	 sense makes
+21 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would
+21 	 24 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 1 	 it tough <XB>
+21 	 26 	 ((S[b]\NP)/PP)/NP 	 3 	 it explain <XU>
+22 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 would says
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+24 	 23 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 tough be
+25 	 24 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 2 	 to tough
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 explain to
+27 	 26 	 ((S[b]\NP)/PP)/NP 	 2 	 to explain
+28 	 27 	 PP/NP 	 1 	 consumers to
+<\s>
+<s id="wsj_2111.42"> 27
+1 	 0 	 N/N 	 1 	 Stoner John
+1 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 Stoner says
+4 	 3 	 N/N 	 1 	 director marketing
+4 	 5 	 (NP\NP)/NP 	 1 	 director for
+4 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 director says
+8 	 5 	 (NP\NP)/NP 	 2 	 Corp. for
+8 	 6 	 N/N 	 1 	 Corp. True
+8 	 7 	 N/N 	 1 	 Corp. Temper
+11 	 5 	 (NP\NP)/NP 	 2 	 subsidiary for
+11 	 10 	 NP[nb]/N 	 1 	 subsidiary a
+11 	 12 	 (NP\NP)/NP 	 1 	 subsidiary of
+15 	 12 	 (NP\NP)/NP 	 2 	 Decker of
+15 	 13 	 N/N 	 1 	 Decker Black
+15 	 14 	 N/N 	 1 	 Decker &
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 people do
+18 	 21 	 (S[b]\NP)/(S[to]\NP) 	 1 	 people want <XB>
+18 	 23 	 (S[b]\NP)/NP 	 1 	 people move <XB>
+19 	 17 	 (S[dcl]\NP)/S[dcl] 	 2 	 do says
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 do n't
+21 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 want do
+22 	 21 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to want
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 move to
+26 	 23 	 (S[b]\NP)/NP 	 2 	 pile move
+26 	 24 	 NP[nb]/N 	 1 	 pile a
+26 	 25 	 N/N 	 1 	 pile leaf
+<\s>
+<s id="wsj_2111.43"> 17
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 They pick
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 pick either
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 pick up
+2 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 pick says <XU>
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 it pick
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 he says
+10 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they start
+10 	 12 	 S[ng]\NP 	 1 	 they pulling <XB>
+11 	 9 	 S/S 	 1 	 start or
+12 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 pulling start
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 pulling from
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 direction from
+16 	 14 	 NP[nb]/N 	 1 	 direction a
+16 	 15 	 N/N 	 1 	 direction fresh
+<\s>
+<s id="wsj_2111.44"> 2
+<\s>
+<s id="wsj_2111.45"> 26
+3 	 0 	 NP[nb]/N 	 1 	 toes NO
+3 	 1 	 N/N 	 1 	 toes MORE
+3 	 2 	 N/N 	 1 	 toes STUBBED
+3 	 8 	 (S[dcl]/NP)/NP 	 2 	 toes promises
+6 	 0 	 NP[nb]/N 	 1 	 shins NO
+6 	 1 	 N/N 	 1 	 shins MORE
+6 	 5 	 N/N 	 1 	 shins bruised
+6 	 8 	 (S[dcl]/NP)/NP 	 2 	 shins promises
+10 	 8 	 (S[dcl]/NP)/NP 	 1 	 Corp. promises
+10 	 9 	 N/N 	 1 	 Corp. Geste
+10 	 11 	 (NP\NP)/NP 	 1 	 Corp. of
+10 	 16 	 (NP\NP)/N 	 1 	 Corp. the
+12 	 11 	 (NP\NP)/NP 	 2 	 Goshen of
+14 	 11 	 (NP\NP)/NP 	 2 	 Ind. of
+16 	 18 	 ((NP\NP)\(NP\NP))/NP 	 2 	 the of
+17 	 16 	 (NP\NP)/N 	 2 	 designer the
+21 	 18 	 ((NP\NP)\(NP\NP))/NP 	 3 	 support of
+21 	 19 	 NP[nb]/N 	 1 	 support a
+21 	 20 	 N/N 	 1 	 support bed
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 replace to
+25 	 23 	 (S[b]\NP)/NP 	 2 	 frames replace
+25 	 24 	 N/N 	 1 	 frames traditional
+<\s>
+<s id="wsj_2111.46"> 28
+3 	 0 	 N/N 	 1 	 Bedfellows Four
+3 	 1 	 N/N 	 1 	 Bedfellows tubular
+3 	 2 	 N/N 	 1 	 Bedfellows steel
+3 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Bedfellows are
+3 	 15 	 (S[pss]\NP)/PP 	 1 	 Bedfellows attached <XB>
+5 	 7 	 (NP\NP)/NP 	 1 	 each in
+5 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 each are
+5 	 15 	 (S[pss]\NP)/PP 	 1 	 each attached <XB>
+7 	 6 	 (NP\NP)/(NP\NP) 	 2 	 in roughly
+9 	 7 	 (NP\NP)/NP 	 2 	 shape in
+9 	 8 	 NP[nb]/N 	 1 	 shape the
+9 	 10 	 (NP\NP)/NP 	 1 	 shape of
+12 	 10 	 (NP\NP)/NP 	 2 	 W of
+12 	 11 	 NP[nb]/N 	 1 	 W a
+15 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 attached are
+15 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 attached in
+16 	 15 	 (S[pss]\NP)/PP 	 2 	 to attached
+18 	 16 	 PP/NP 	 1 	 bottom to
+18 	 17 	 NP[nb]/N 	 1 	 bottom the
+18 	 19 	 (NP\NP)/NP 	 1 	 bottom of
+22 	 19 	 (NP\NP)/NP 	 2 	 spring of
+22 	 20 	 NP[nb]/N 	 1 	 spring the
+22 	 21 	 N/N 	 1 	 spring box
+26 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 position in
+26 	 24 	 NP[nb]/N 	 1 	 position a
+26 	 25 	 N/N 	 1 	 position recessed
+<\s>
+<s id="wsj_2111.47"> 38
+1 	 0 	 N/N 	 1 	 half Nearly
+1 	 2 	 (NP\NP)/NP 	 1 	 half of
+1 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 half say
+4 	 2 	 (NP\NP)/NP 	 2 	 consumers of
+4 	 3 	 N/N 	 1 	 consumers U.S.
+5 	 24 	 ((S\NP)\(S\NP))/PP 	 2 	 say according
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they 'll
+6 	 8 	 ((S[b]\NP)/PP)/NP 	 1 	 they pay <XB>
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 'll say
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 pay 'll
+9 	 10 	 (((N/N)/(N/N))\((N/N)/(N/N)))/((N/N)/(N/N)) 	 3 	 up to
+11 	 10 	 (((N/N)/(N/N))\((N/N)/(N/N)))/((N/N)/(N/N)) 	 4 	 5 to
+12 	 9 	 (N/N)/(N/N) 	 2 	 % up
+13 	 8 	 ((S[b]\NP)/PP)/NP 	 3 	 more pay
+13 	 12 	 N/N 	 1 	 more %
+14 	 8 	 ((S[b]\NP)/PP)/NP 	 2 	 for pay
+15 	 14 	 PP/NP 	 1 	 packaging for
+15 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 packaging that
+15 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 packaging can <XB>
+15 	 19 	 S[pss]\NP 	 1 	 packaging recycled <XB>
+15 	 21 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 packaging is <XU>
+15 	 22 	 S[adj]\NP 	 1 	 packaging biodegradable <XU>
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 can that
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+19 	 18 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 recycled be
+21 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is that
+22 	 21 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 biodegradable is
+25 	 24 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+27 	 25 	 PP/NP 	 1 	 survey to
+27 	 26 	 NP[nb]/N 	 1 	 survey a
+27 	 28 	 S[pss]\NP 	 1 	 survey commissioned <XB>
+28 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 commissioned by
+33 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 Group by
+33 	 30 	 NP[nb]/N 	 1 	 Group the
+33 	 31 	 N/N 	 1 	 Group Michael
+33 	 32 	 N/N 	 1 	 Group Peters
+37 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 consultant by
+37 	 35 	 NP[nb]/N 	 1 	 consultant a
+37 	 36 	 N/N 	 1 	 consultant design
+<\s>

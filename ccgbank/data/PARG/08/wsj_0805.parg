@@ -1,0 +1,80 @@
+<s id="wsj_0805.1"> 25
+2 	 0 	 N/N 	 1 	 Corp. CMS
+2 	 1 	 N/N 	 1 	 Corp. ENERGY
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 management would
+4 	 6 	 ((S[b]\NP)/S[bem])/PP 	 1 	 management recommend <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 recommend would
+6 	 10 	 (S\NP)\(S\NP) 	 2 	 recommend today
+7 	 6 	 ((S[b]\NP)/S[bem])/PP 	 3 	 to recommend
+9 	 7 	 PP/NP 	 1 	 board to
+9 	 8 	 NP[nb]/N 	 1 	 board its
+11 	 6 	 ((S[b]\NP)/S[bem])/PP 	 2 	 that recommend
+15 	 12 	 NP[nb]/N 	 1 	 dividend its
+15 	 13 	 N/N 	 1 	 dividend common
+15 	 14 	 N/N 	 1 	 dividend stock
+15 	 17 	 (S[pss]\NP)/PP 	 1 	 dividend reinstated <XB>
+16 	 11 	 S[bem]/S[b] 	 1 	 be that
+17 	 16 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reinstated be
+17 	 23 	 ((S\NP)\(S\NP))/N 	 2 	 reinstated this
+18 	 17 	 (S[pss]\NP)/PP 	 2 	 at reinstated
+21 	 18 	 PP/NP 	 1 	 level at
+21 	 19 	 NP[nb]/N 	 1 	 level a
+21 	 20 	 N/N 	 1 	 level modest
+23 	 22 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 this later
+24 	 23 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+<\s>
+<s id="wsj_0805.2"> 25
+3 	 1 	 (N/N)/(N/N) 	 2 	 Mich. Dearborn
+6 	 0 	 NP[nb]/N 	 1 	 company The
+6 	 3 	 N/N 	 1 	 company Mich.
+6 	 5 	 N/N 	 1 	 company energy
+6 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 company stopped
+6 	 8 	 (S[ng]\NP)/NP 	 1 	 company paying <XB>
+7 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 stopped in
+7 	 17 	 ((S\NP)\(S\NP))/PP 	 2 	 stopped because
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 paying stopped
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 dividend paying
+10 	 9 	 NP[nb]/N 	 1 	 dividend a
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+14 	 12 	 NP[nb]/N 	 1 	 quarter the
+14 	 13 	 N/N 	 1 	 quarter third
+14 	 15 	 (NP\NP)/NP 	 1 	 quarter of
+16 	 15 	 (NP\NP)/NP 	 2 	 1984 of
+18 	 17 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+19 	 18 	 PP/NP 	 1 	 troubles of
+19 	 20 	 (NP\NP)/NP 	 1 	 troubles at
+24 	 20 	 (NP\NP)/NP 	 2 	 plant at
+24 	 21 	 NP[nb]/N 	 1 	 plant its
+24 	 22 	 N/N 	 1 	 plant Midland
+24 	 23 	 N/N 	 1 	 plant nuclear
+<\s>
+<s id="wsj_0805.3"> 33
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 CMS reported
+4 	 0 	 (S/S)/NP 	 1 	 reported In
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 net reported
+6 	 5 	 N/N 	 1 	 net third-quarter
+6 	 7 	 (NP\NP)/NP 	 1 	 net of
+8 	 7 	 (NP\NP)/NP 	 2 	 $ of
+8 	 18 	 (NP\NP)/PP 	 1 	 $ up
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 68.2
+14 	 7 	 (NP\NP)/NP 	 2 	 cents of
+14 	 13 	 N/N 	 1 	 cents 83
+14 	 15 	 (NP\NP)/N 	 1 	 cents a
+14 	 18 	 (NP\NP)/PP 	 1 	 cents up
+16 	 15 	 (NP\NP)/N 	 2 	 share a
+19 	 18 	 (NP\NP)/PP 	 2 	 from up
+19 	 32 	 (PP\PP)\NP 	 1 	 from ago
+20 	 19 	 PP/NP 	 1 	 $ from
+22 	 20 	 N/N[num] 	 1 	 million $
+22 	 21 	 N/N 	 1 	 million 66.8
+26 	 19 	 PP/NP 	 1 	 cents from
+26 	 25 	 N/N 	 1 	 cents 81
+26 	 27 	 (NP\NP)/N 	 1 	 cents a
+28 	 27 	 (NP\NP)/N 	 2 	 share a
+31 	 30 	 NP[nb]/N 	 1 	 year a
+31 	 32 	 (PP\PP)\NP 	 2 	 year ago
+<\s>

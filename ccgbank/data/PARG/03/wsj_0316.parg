@@ -1,0 +1,139 @@
+<s id="wsj_0316.1"> 19
+2 	 0 	 N/N 	 1 	 Corp. First
+2 	 1 	 N/N 	 1 	 Corp. Security
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+4 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it agreed
+4 	 8 	 ((S[b]\NP)/PP)/NP 	 1 	 it acquire <XB>
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 agreed said
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 agreed tentatively
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+10 	 8 	 ((S[b]\NP)/PP)/NP 	 3 	 Bancorp. acquire
+10 	 9 	 N/N 	 1 	 Bancorp. Deseret
+11 	 8 	 ((S[b]\NP)/PP)/NP 	 2 	 for acquire
+12 	 11 	 PP/NP 	 1 	 stock for
+12 	 13 	 (S[pss]\NP)/PP 	 1 	 stock valued <XB>
+14 	 13 	 (S[pss]\NP)/PP 	 2 	 at valued
+16 	 14 	 PP/NP 	 1 	 $ at
+16 	 15 	 N/N 	 1 	 $ about
+18 	 16 	 N/N[num] 	 1 	 million $
+18 	 17 	 N/N 	 1 	 million 18
+<\s>
+<s id="wsj_0316.2"> 28
+0 	 1 	 (S[dcl]\NP)/S[for] 	 1 	 Terms call
+2 	 1 	 (S[dcl]\NP)/S[for] 	 2 	 for call
+4 	 2 	 (S[for]/(S[to]\NP))/NP 	 2 	 Security for
+4 	 3 	 N/N 	 1 	 Security First
+4 	 6 	 (S[b]\NP)/NP 	 1 	 Security issue <XB>
+5 	 2 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 issue to
+8 	 7 	 (N/N)/(N/N) 	 2 	 0.55 about
+9 	 6 	 (S[b]\NP)/NP 	 2 	 share issue
+9 	 8 	 N/N 	 1 	 share 0.55
+9 	 10 	 (NP\NP)/NP 	 1 	 share of
+9 	 13 	 (NP\NP)/NP 	 1 	 share for
+12 	 10 	 (NP\NP)/NP 	 2 	 stock of
+12 	 11 	 NP[nb]/N 	 1 	 stock its
+16 	 13 	 (NP\NP)/NP 	 2 	 share for
+16 	 14 	 NP[nb]/N 	 1 	 share each
+16 	 15 	 N/N 	 1 	 share Deseret
+16 	 17 	 S[pss]\NP 	 1 	 share held <XB>
+21 	 6 	 (S[b]\NP)/NP 	 2 	 total issue
+21 	 20 	 NP[nb]/N 	 1 	 total a
+21 	 22 	 (NP\NP)/NP 	 1 	 total of
+24 	 23 	 (N/N)/(N/N) 	 2 	 550,000 about
+27 	 22 	 (NP\NP)/NP 	 2 	 shares of
+27 	 24 	 N/N 	 1 	 shares 550,000
+27 	 25 	 N/N 	 1 	 shares First
+27 	 26 	 N/N 	 1 	 shares Security
+<\s>
+<s id="wsj_0316.3"> 7
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It has
+4 	 2 	 (N/N)/(N/N) 	 2 	 million about
+4 	 3 	 (N/N)/(N/N) 	 2 	 million 12.3
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 shares has
+5 	 4 	 N/N 	 1 	 shares million
+5 	 6 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>
+<s id="wsj_0316.4"> 29
+0 	 2 	 (NP\NP)/NP 	 1 	 Deseret with
+0 	 10 	 (S[dcl]\NP)/NP 	 1 	 Deseret is
+4 	 2 	 (NP\NP)/NP 	 2 	 $ with
+4 	 3 	 N/N 	 1 	 $ about
+4 	 7 	 (NP\NP)/NP 	 1 	 $ in
+6 	 4 	 N/N[num] 	 1 	 million $
+6 	 5 	 N/N 	 1 	 million 100
+8 	 7 	 (NP\NP)/NP 	 2 	 assets in
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 parent is
+12 	 11 	 NP[nb]/N 	 1 	 parent the
+12 	 13 	 (NP\NP)/NP 	 1 	 parent of
+16 	 13 	 (NP\NP)/NP 	 2 	 Bank of
+16 	 14 	 NP[nb]/N 	 1 	 Bank the
+16 	 15 	 N/N 	 1 	 Bank Deseret
+16 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Bank which
+16 	 19 	 (S[dcl]\NP)/NP 	 1 	 Bank has <XB>
+19 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+19 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 has at
+21 	 19 	 (S[dcl]\NP)/NP 	 2 	 offices has
+21 	 20 	 N/N 	 1 	 offices six
+23 	 19 	 (S[dcl]\NP)/NP 	 2 	 headquarters has
+23 	 20 	 N/N 	 1 	 headquarters six
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Grove at
+26 	 25 	 N/N 	 1 	 Grove Pleasant
+28 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Utah at
+<\s>
+<s id="wsj_0316.5"> 22
+2 	 0 	 NP[nb]/N 	 1 	 price The
+2 	 1 	 N/N 	 1 	 price purchase
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 price is
+2 	 4 	 (S[adj]\NP)/PP 	 1 	 price equal <XB>
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 equal is
+5 	 4 	 (S[adj]\NP)/PP 	 2 	 to equal
+8 	 6 	 (NP/NP)/(NP/NP) 	 2 	 times about
+8 	 7 	 (NP/NP)/(NP/NP) 	 2 	 times 1.65
+10 	 5 	 PP/NP 	 1 	 's to
+10 	 8 	 NP/NP 	 1 	 's times
+10 	 9 	 N/N 	 1 	 's Deseret
+10 	 12 	 (S[adj]\NP)/N[num] 	 1 	 's $ <XB>
+10 	 16 	 NP\NP 	 1 	 's value
+10 	 19 	 NP\NP 	 1 	 's assets <XU>
+12 	 11 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 $ roughly
+14 	 12 	 (S[adj]\NP)/N[num] 	 2 	 million $
+14 	 13 	 N/N 	 1 	 million 10.7
+16 	 15 	 (NP\NP)/(NP\NP) 	 2 	 value book
+19 	 20 	 ((NP\NP)\(NP\NP))/NP 	 2 	 assets less
+21 	 20 	 ((NP\NP)\(NP\NP))/NP 	 3 	 liabilities less
+<\s>
+<s id="wsj_0316.6"> 35
+2 	 0 	 (N/N)/(N/N) 	 2 	 City-based Salt
+2 	 1 	 (N/N)/(N/N) 	 2 	 City-based Lake
+4 	 2 	 N/N 	 1 	 Security City-based
+4 	 3 	 N/N 	 1 	 Security First
+4 	 6 	 (NP\NP)/NP 	 1 	 Security with
+4 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 Security said
+7 	 6 	 (NP\NP)/NP 	 2 	 $ with
+7 	 10 	 (NP\NP)/NP 	 1 	 $ in
+9 	 7 	 N/N[num] 	 1 	 billion $
+9 	 8 	 N/N 	 1 	 billion 5.4
+11 	 10 	 (NP\NP)/NP 	 2 	 assets in
+15 	 14 	 NP[nb]/N 	 1 	 agreement the
+15 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 agreement is
+15 	 17 	 (S[adj]\NP)/PP 	 1 	 agreement subject <XB>
+16 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+17 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 subject is
+18 	 17 	 (S[adj]\NP)/PP 	 2 	 to subject
+22 	 18 	 PP/NP 	 1 	 approval to
+22 	 19 	 N/N 	 1 	 approval shareholder
+22 	 21 	 N/N 	 1 	 approval regulatory
+25 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 that said
+26 	 27 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it hopes
+26 	 29 	 (S[b]\NP)/NP 	 1 	 it complete <XB>
+27 	 25 	 S[em]/S[dcl] 	 1 	 hopes that
+28 	 27 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to hopes
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 complete to
+29 	 34 	 (S\NP)\(S\NP) 	 2 	 complete year
+31 	 29 	 (S[b]\NP)/NP 	 2 	 transaction complete
+31 	 30 	 NP[nb]/N 	 1 	 transaction the
+34 	 32 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year early
+34 	 33 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+<\s>

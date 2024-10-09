@@ -1,0 +1,765 @@
+<s id="wsj_0326.1"> 40
+2 	 0 	 N/N 	 1 	 Cos. Philip
+2 	 1 	 N/N 	 1 	 Cos. Morris
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Cos. is
+2 	 4 	 (S[ng]\NP)/NP 	 1 	 Cos. launching <XB>
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 launching is
+9 	 4 	 (S[ng]\NP)/NP 	 2 	 campaign launching
+9 	 5 	 NP[nb]/N 	 1 	 campaign a
+9 	 6 	 N/N 	 1 	 campaign massive
+9 	 7 	 N/N 	 1 	 campaign corporate
+9 	 8 	 N/N 	 1 	 campaign advertising
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 campaign that
+9 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 campaign will <XB>
+9 	 12 	 ((S[b]\NP)/PP)/NP 	 1 	 campaign put <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 put will
+12 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 put for
+15 	 13 	 NP[nb]/N 	 1 	 giant the
+15 	 14 	 N/N 	 1 	 giant tobacco
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 giant 's
+17 	 12 	 ((S[b]\NP)/PP)/NP 	 3 	 name put
+17 	 16 	 (NP[nb]/N)\NP 	 1 	 name 's
+18 	 12 	 ((S[b]\NP)/PP)/NP 	 2 	 in put
+20 	 18 	 PP/NP 	 1 	 commercials in
+20 	 19 	 N/N 	 1 	 commercials TV
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 time for
+24 	 22 	 NP[nb]/N 	 1 	 time the
+24 	 23 	 N/N 	 1 	 time first
+24 	 25 	 (NP\NP)/NP 	 1 	 time since
+28 	 25 	 (NP\NP)/NP 	 2 	 1950s since
+28 	 26 	 NP[nb]/N 	 1 	 1950s the
+28 	 27 	 N/N 	 1 	 1950s early
+28 	 30 	 (NP\NP)/S[dcl] 	 1 	 1950s when
+31 	 32 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it stopped
+31 	 33 	 (S[ng]\NP)/NP 	 1 	 it advertising <XB>
+32 	 30 	 (NP\NP)/S[dcl] 	 2 	 stopped when
+33 	 32 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 advertising stopped
+33 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 advertising on
+37 	 33 	 (S[ng]\NP)/NP 	 2 	 brand advertising
+37 	 34 	 NP[nb]/N 	 1 	 brand its
+37 	 35 	 N/N 	 1 	 brand namesake
+37 	 36 	 N/N 	 1 	 brand cigarette
+39 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 television on
+<\s>
+<s id="wsj_0326.2"> 32
+1 	 0 	 NP[nb]/N 	 1 	 campaign The
+1 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 campaign does
+1 	 18 	 (S[b]\NP)/NP 	 1 	 campaign mention <XB>
+5 	 3 	 NP[nb]/N 	 1 	 celebration a
+5 	 4 	 N/N 	 1 	 celebration patriotic
+5 	 6 	 (NP\NP)/NP 	 1 	 celebration of
+5 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 celebration does
+5 	 18 	 (S[b]\NP)/NP 	 1 	 celebration mention <XB>
+9 	 6 	 (NP\NP)/NP 	 2 	 anniversary of
+9 	 7 	 NP[nb]/N 	 1 	 anniversary the
+9 	 8 	 N/N 	 1 	 anniversary 200th
+9 	 10 	 (NP\NP)/NP 	 1 	 anniversary of
+12 	 10 	 (NP\NP)/NP 	 2 	 Bill of
+12 	 11 	 NP[nb]/N 	 1 	 Bill the
+12 	 13 	 (NP\NP)/NP 	 1 	 Bill of
+14 	 13 	 (NP\NP)/NP 	 2 	 Rights of
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 does n't
+18 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 mention does
+19 	 18 	 (S[b]\NP)/NP 	 2 	 cigarettes mention
+21 	 18 	 (S[b]\NP)/NP 	 2 	 smoking mention
+24 	 23 	 N/N 	 1 	 ads cigarette
+24 	 25 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 ads have
+24 	 27 	 S[pss]\NP 	 1 	 ads prohibited <XB>
+26 	 25 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+27 	 26 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 prohibited been
+27 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 prohibited on
+27 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 prohibited since
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 television on
+31 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 1971 since
+<\s>
+<s id="wsj_0326.3"> 39
+2 	 1 	 (S/S)/(S/S) 	 2 	 before even
+3 	 4 	 S[dcl]\NP 	 1 	 it begins
+4 	 2 	 (S/S)/S[dcl] 	 2 	 begins before
+7 	 6 	 NP[nb]/N 	 1 	 campaign the
+7 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 campaign is
+7 	 9 	 ((S[ng]\NP)/PP)/NP 	 1 	 campaign drawing <XB>
+8 	 0 	 S/S 	 1 	 is But
+8 	 2 	 (S/S)/S[dcl] 	 1 	 is before
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 drawing is
+10 	 9 	 ((S[ng]\NP)/PP)/NP 	 3 	 fire drawing
+11 	 9 	 ((S[ng]\NP)/PP)/NP 	 2 	 from drawing
+13 	 11 	 PP/NP 	 1 	 advocates from
+13 	 12 	 N/N 	 1 	 advocates anti-smoking
+13 	 15 	 (NP\NP)/(S[b]\NP) 	 1 	 advocates who
+13 	 16 	 (S[b]\NP)/NP 	 1 	 advocates criticize <XB>
+16 	 15 	 (NP\NP)/(S[b]\NP) 	 2 	 criticize who
+18 	 17 	 N/N 	 1 	 Morris Philip
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 Morris 's
+20 	 16 	 (S[b]\NP)/NP 	 2 	 attempt criticize
+20 	 19 	 (NP[nb]/N)\NP 	 1 	 attempt 's
+20 	 22 	 (S[b]\NP)/NP 	 1 	 attempt bolster <XB>
+20 	 27 	 (S[ng]\NP)/NP 	 1 	 attempt wrapping <XB>
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 bolster to
+22 	 26 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 bolster by
+25 	 22 	 (S[b]\NP)/NP 	 2 	 image bolster
+25 	 23 	 NP[nb]/N 	 1 	 image its
+25 	 24 	 N/N 	 1 	 image beleaguered
+27 	 26 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 wrapping by
+27 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 wrapping in
+28 	 27 	 (S[ng]\NP)/NP 	 2 	 itself wrapping
+31 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 document in
+31 	 30 	 NP[nb]/N 	 1 	 document the
+31 	 32 	 (NP\NP)/(S[dcl]\NP) 	 1 	 document that
+31 	 33 	 (S[dcl]\NP)/NP 	 1 	 document is <XB>
+33 	 32 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is that
+35 	 33 	 (S[dcl]\NP)/NP 	 2 	 cornerstone is
+35 	 34 	 NP[nb]/N 	 1 	 cornerstone a
+35 	 36 	 (NP\NP)/NP 	 1 	 cornerstone of
+38 	 36 	 (NP\NP)/NP 	 2 	 democracy of
+38 	 37 	 N/N 	 1 	 democracy American
+<\s>
+<s id="wsj_0326.4"> 33
+1 	 0 	 N/N 	 1 	 Morris Philip
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Morris which
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 Morris became <XB>
+1 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Morris seems
+1 	 24 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Morris determined <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 became which
+4 	 12 	 (S\NP)\(S\NP) 	 2 	 became year
+4 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 became with
+6 	 5 	 NP[nb]/N 	 1 	 U.S. the
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 U.S. 's
+10 	 4 	 (S[dcl]\NP)/NP 	 2 	 company became
+10 	 7 	 (NP[nb]/N)\NP 	 1 	 company 's
+10 	 8 	 N/N 	 1 	 company largest
+10 	 9 	 N/N 	 1 	 company food
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year last
+17 	 15 	 (N/N)/N[num] 	 2 	 billion $
+17 	 16 	 N/N 	 1 	 billion 12.9
+18 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 acquisition with
+18 	 14 	 NP[nb]/N 	 1 	 acquisition its
+18 	 15 	 (N/N)/N[num] 	 1 	 acquisition $
+18 	 19 	 (NP\NP)/NP 	 1 	 acquisition of
+21 	 19 	 (NP\NP)/NP 	 2 	 Inc. of
+21 	 20 	 N/N 	 1 	 Inc. Kraft
+24 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 determined seems
+25 	 24 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to determined
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 evolve to
+27 	 26 	 (S[b]\NP)/PP 	 2 	 beyond evolve
+29 	 27 	 PP/NP 	 1 	 roots beyond
+29 	 28 	 NP[nb]/N 	 1 	 roots its
+29 	 30 	 (NP\NP)/NP 	 1 	 roots in
+32 	 30 	 (NP\NP)/NP 	 2 	 country in
+32 	 31 	 N/N 	 1 	 country Marlboro
+<\s>
+<s id="wsj_0326.5"> 39
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 company 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 research 's
+3 	 4 	 (S[dcl]\NP)/S[em] 	 1 	 research suggests
+5 	 4 	 (S[dcl]\NP)/S[em] 	 2 	 that suggests
+8 	 6 	 NP[nb]/N 	 1 	 recognition its
+8 	 7 	 N/N 	 1 	 recognition name
+8 	 9 	 (NP\NP)/NP 	 1 	 recognition among
+8 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 recognition remains
+8 	 14 	 S[adj]\NP 	 1 	 recognition low <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 consumers among
+11 	 10 	 N/N 	 1 	 consumers most
+12 	 5 	 S[em]/S[dcl] 	 1 	 remains that
+12 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 remains although
+14 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 low remains
+14 	 13 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 low unusually
+18 	 17 	 NP[nb]/N 	 1 	 array its
+18 	 19 	 (NP\NP)/NP 	 1 	 array of
+18 	 36 	 (S[dcl]\NP)/NP 	 1 	 array blanket
+20 	 19 	 (NP\NP)/NP 	 2 	 brands of
+20 	 22 	 (NP\NP)/NP 	 1 	 brands including
+25 	 22 	 (NP\NP)/NP 	 2 	 coffee including
+25 	 23 	 N/N 	 1 	 coffee Maxwell
+25 	 24 	 N/N 	 1 	 coffee House
+27 	 22 	 (NP\NP)/NP 	 2 	 Jell-O including
+30 	 22 	 (NP\NP)/NP 	 2 	 Whiz including
+30 	 29 	 N/N 	 1 	 Whiz Cheez
+34 	 22 	 (NP\NP)/NP 	 2 	 beer including
+34 	 33 	 N/N 	 1 	 beer Miller
+36 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 blanket although
+38 	 36 	 (S[dcl]\NP)/NP 	 2 	 shelves blanket
+38 	 37 	 N/N 	 1 	 shelves supermarket
+<\s>
+<s id="wsj_0326.6"> 30
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 company is
+1 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 company expected <XB>
+1 	 5 	 (S[b]\NP)/NP 	 1 	 company spend <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+4 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 spend to
+5 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 spend on
+7 	 5 	 (S[b]\NP)/NP 	 2 	 $ spend
+7 	 6 	 N/N 	 1 	 $ about
+7 	 10 	 (NP\NP)/N 	 1 	 $ a
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 30
+11 	 10 	 (NP\NP)/N 	 2 	 year a
+15 	 14 	 (N/N)/(N/N) 	 2 	 corporate two-year
+16 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 campaign on
+16 	 13 	 NP[nb]/N 	 1 	 campaign its
+16 	 15 	 N/N 	 1 	 campaign corporate
+16 	 18 	 S[pss]\NP 	 1 	 campaign created <XB>
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 created by
+21 	 20 	 N/N 	 1 	 Group WPP
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 Group 's
+26 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 unit by
+26 	 22 	 (NP[nb]/N)\NP 	 1 	 unit 's
+26 	 23 	 N/N 	 1 	 unit Ogilvy
+26 	 24 	 N/N 	 1 	 unit &
+26 	 25 	 N/N 	 1 	 unit Mather
+26 	 27 	 (NP\NP)/NP 	 1 	 unit in
+29 	 27 	 (NP\NP)/NP 	 2 	 York in
+29 	 28 	 N/N 	 1 	 York New
+<\s>
+<s id="wsj_0326.7"> 11
+2 	 0 	 NP[nb]/N 	 1 	 spots The
+2 	 1 	 N/N 	 1 	 spots initial
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 spots will
+2 	 4 	 S[b]\NP 	 1 	 spots appear <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 appear will
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 appear during
+10 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 shows during
+10 	 6 	 N/N 	 1 	 shows morning
+10 	 8 	 N/N 	 1 	 shows prime-time
+10 	 9 	 N/N 	 1 	 shows news
+<\s>
+<s id="wsj_0326.8"> 27
+1 	 0 	 N/N 	 1 	 Morris Philip
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Morris hopes
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that hopes
+5 	 4 	 (S/S)/(S[ng]\NP) 	 2 	 taking by
+5 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 taking to
+7 	 5 	 (S[ng]\NP)/NP 	 2 	 Bill taking
+7 	 6 	 NP[nb]/N 	 1 	 Bill its
+7 	 8 	 (NP\NP)/NP 	 1 	 Bill of
+10 	 8 	 (NP\NP)/NP 	 2 	 theme of
+10 	 9 	 N/N 	 1 	 theme Rights
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 airwaves to
+13 	 12 	 NP[nb]/N 	 1 	 airwaves the
+15 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 in to
+18 	 15 	 (NP\NP)/NP 	 2 	 publications in
+20 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+20 	 22 	 (S[b]\NP)/NP 	 1 	 it reach <XB>
+21 	 3 	 S[em]/S[dcl] 	 1 	 will that
+21 	 4 	 (S/S)/(S[ng]\NP) 	 1 	 will by
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reach will
+25 	 24 	 (N/N)/(N/N) 	 2 	 possible broadest
+26 	 22 	 (S[b]\NP)/NP 	 2 	 audience reach
+26 	 23 	 NP[nb]/N 	 1 	 audience the
+26 	 25 	 N/N 	 1 	 audience possible
+<\s>
+<s id="wsj_0326.9"> 23
+1 	 0 	 (S/S)/(S[adj]\NP) 	 2 	 now Until
+5 	 3 	 NP[nb]/N 	 1 	 ads its
+5 	 4 	 N/N 	 1 	 ads corporate
+5 	 8 	 (S[ng]\NP)/NP 	 1 	 ads promoting <XB>
+5 	 16 	 S[pt]\NP 	 1 	 ads appeared <XB>
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 promoting mainly
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 sponsorship promoting
+10 	 9 	 NP[nb]/N 	 1 	 sponsorship its
+10 	 11 	 (NP\NP)/NP 	 1 	 sponsorship of
+13 	 11 	 (NP\NP)/NP 	 2 	 arts of
+13 	 12 	 NP[nb]/N 	 1 	 arts the
+15 	 0 	 (S/S)/(S[adj]\NP) 	 1 	 have Until
+16 	 15 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 appeared have
+16 	 18 	 (S\NP)\(S\NP) 	 2 	 appeared exclusively
+16 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 appeared in
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 exclusively almost
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 newspapers in
+22 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 magazines in
+<\s>
+<s id="wsj_0326.10"> 33
+1 	 0 	 N/N 	 1 	 people Most
+1 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 people have
+1 	 13 	 (S[pt]\NP)/NP 	 1 	 people got <XB>
+4 	 3 	 ((S\NP)/(S\NP))/PP 	 3 	 in whether
+5 	 4 	 PP/NP 	 1 	 Toledo in
+7 	 4 	 PP/NP 	 1 	 Tucson in
+9 	 4 	 PP/NP 	 1 	 Topeka in
+11 	 3 	 ((S\NP)/(S\NP))/PP 	 2 	 have whether
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 have n't
+11 	 20 	 (S[dcl]\S[dcl])/NP 	 1 	 have says
+13 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 got have
+15 	 13 	 (S[pt]\NP)/NP 	 2 	 clue got
+15 	 14 	 NP[nb]/N 	 1 	 clue a
+15 	 16 	 (NP\NP)/(S[dcl]/NP) 	 1 	 clue who
+15 	 18 	 (S[dcl]\NP)/NP 	 2 	 clue are <XU>
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 we are
+18 	 16 	 (NP\NP)/(S[dcl]/NP) 	 2 	 are who
+23 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 Smith says
+23 	 21 	 N/N 	 1 	 Smith Guy
+23 	 22 	 N/N 	 1 	 Smith L.
+26 	 25 	 N/N 	 1 	 Morris Philip
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 Morris 's
+29 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 president says
+29 	 27 	 (NP[nb]/N)\NP 	 1 	 president 's
+29 	 28 	 N/N 	 1 	 president vice
+29 	 30 	 (NP\NP)/NP 	 1 	 president of
+32 	 30 	 (NP\NP)/NP 	 2 	 affairs of
+32 	 31 	 N/N 	 1 	 affairs corporate
+<\s>
+<s id="wsj_0326.11"> 25
+1 	 2 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 1 	 they think
+1 	 3 	 S[adj]\NP 	 1 	 they well <XB>
+2 	 0 	 (S/S)/S[dcl] 	 2 	 think If
+2 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 think through
+3 	 2 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 3 	 well think
+4 	 2 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 2 	 of think
+6 	 4 	 PP/NP 	 1 	 company of
+6 	 5 	 NP[nb]/N 	 1 	 company the
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 support through
+9 	 8 	 NP[nb]/N 	 1 	 support our
+9 	 10 	 (NP\NP)/NP 	 1 	 support of
+12 	 10 	 (NP\NP)/NP 	 2 	 Bill of
+12 	 11 	 NP[nb]/N 	 1 	 Bill the
+12 	 13 	 (NP\NP)/NP 	 1 	 Bill of
+14 	 13 	 (NP\NP)/NP 	 2 	 Rights of
+16 	 17 	 (S[dcl]\NP[expl])/S[dcl] 	 1 	 it follows
+17 	 0 	 (S/S)/S[dcl] 	 1 	 follows If
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they 'll
+18 	 20 	 ((S[b]\NP)/PP)/(S[adj]\NP) 	 1 	 they think <XB>
+18 	 21 	 S[adj]\NP 	 1 	 they well <XB>
+19 	 17 	 (S[dcl]\NP[expl])/S[dcl] 	 2 	 'll follows
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 think 'll
+21 	 20 	 ((S[b]\NP)/PP)/(S[adj]\NP) 	 3 	 well think
+22 	 20 	 ((S[b]\NP)/PP)/(S[adj]\NP) 	 2 	 of think
+24 	 22 	 PP/NP 	 1 	 products of
+24 	 23 	 NP[nb]/N 	 1 	 products our
+<\s>
+<s id="wsj_0326.12"> 30
+1 	 0 	 N/N 	 1 	 Smith Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Smith says
+3 	 5 	 ((N/N)\(N/N))/NP 	 2 	 the of
+4 	 3 	 (N/N)/N 	 2 	 Bill the
+6 	 5 	 ((N/N)\(N/N))/NP 	 3 	 Rights of
+7 	 3 	 (N/N)/N 	 1 	 commercial the
+7 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 commercial which
+7 	 10 	 (S[dcl]\NP)/NP 	 1 	 commercial trumpets <XB>
+7 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 commercial is
+7 	 22 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 commercial designed <XB>
+7 	 24 	 ((S[b]\NP)/PP)/NP 	 1 	 commercial have <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 trumpets which
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 themes trumpets
+12 	 11 	 NP[nb]/N 	 1 	 themes the
+12 	 13 	 (NP\NP)/NP 	 1 	 themes of
+14 	 13 	 (NP\NP)/NP 	 2 	 liberty of
+16 	 13 	 (NP\NP)/NP 	 2 	 freedom of
+16 	 17 	 (NP\NP)/NP 	 1 	 freedom of
+18 	 17 	 (NP\NP)/NP 	 2 	 expression of
+20 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 is says
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 is n't
+22 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 designed is
+23 	 22 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to designed
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+27 	 24 	 ((S[b]\NP)/PP)/NP 	 3 	 appeal have
+27 	 25 	 NP[nb]/N 	 1 	 appeal any
+27 	 26 	 N/N 	 1 	 appeal special
+28 	 24 	 ((S[b]\NP)/PP)/NP 	 2 	 for have
+29 	 28 	 PP/NP 	 1 	 smokers for
+<\s>
+<s id="wsj_0326.13"> 31
+2 	 1 	 N/N 	 1 	 Morris Philip
+2 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Morris tries
+2 	 6 	 (S[b]\NP)/NP 	 1 	 Morris defend <XB>
+4 	 0 	 (S/S)/S[dcl] 	 2 	 tries Although
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 tries typically
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to tries
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 defend to
+6 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 defend with
+8 	 6 	 (S[b]\NP)/NP 	 2 	 rights defend
+8 	 7 	 NP[nb]/N 	 1 	 rights the
+8 	 9 	 (NP\NP)/NP 	 1 	 rights of
+10 	 9 	 (NP\NP)/NP 	 2 	 smokers of
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 arguments with
+13 	 12 	 N/N 	 1 	 arguments free-choice
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 this has
+16 	 0 	 (S/S)/S[dcl] 	 1 	 has Although
+16 	 23 	 (S\S)/S[q] 	 1 	 has nor
+16 	 30 	 (S[dcl]\S[dcl])\NP 	 1 	 has says
+17 	 16 	 (S[dcl]\NP)/NP 	 2 	 nothing has
+17 	 19 	 ((S[b]\NP)/PP)/NP 	 3 	 nothing do <XU>
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+20 	 19 	 ((S[b]\NP)/PP)/NP 	 2 	 with do
+21 	 20 	 PP/NP 	 1 	 cigarettes with
+24 	 23 	 (S\S)/S[q] 	 2 	 will nor
+24 	 26 	 S\S 	 1 	 will ever
+25 	 24 	 S[q]/NP 	 1 	 it will
+29 	 28 	 NP[nb]/N 	 1 	 spokesman the
+29 	 30 	 (S[dcl]\S[dcl])\NP 	 2 	 spokesman says
+<\s>
+<s id="wsj_0326.14"> 22
+3 	 1 	 NP[nb]/N 	 1 	 activists some
+3 	 2 	 N/N 	 1 	 activists anti-smoking
+3 	 4 	 S[dcl]\NP 	 1 	 activists disagree
+3 	 6 	 (S[ng]\NP)/NP 	 1 	 activists expressing <XB>
+4 	 0 	 S/S 	 1 	 disagree But
+7 	 6 	 (S[ng]\NP)/NP 	 2 	 anger expressing
+7 	 8 	 (NP\NP)/NP 	 1 	 anger at
+9 	 8 	 (NP\NP)/NP 	 2 	 what at
+9 	 11 	 ((S[dcl]\NP)/PP)/NP 	 3 	 what see <XU>
+10 	 11 	 ((S[dcl]\NP)/PP)/NP 	 1 	 they see
+11 	 9 	 NP/(S[dcl]/NP) 	 1 	 see what
+12 	 11 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as see
+14 	 13 	 NP[nb]/N 	 1 	 company the
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 company 's
+16 	 12 	 PP/NP 	 1 	 attempt as
+16 	 15 	 (NP[nb]/N)\NP 	 1 	 attempt 's
+16 	 18 	 (S[b]\NP)/NP 	 1 	 attempt purchase <XB>
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 purchase to
+18 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 purchase by
+19 	 18 	 (S[b]\NP)/NP 	 2 	 innocence purchase
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 association by
+<\s>
+<s id="wsj_0326.15"> 41
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 I 'm
+0 	 2 	 S[adj]\NP 	 1 	 I outraged <XB>
+1 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 'm because
+1 	 26 	 (S[dcl]\S[dcl])/NP 	 1 	 'm says
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 outraged 'm
+5 	 4 	 NP[nb]/N 	 1 	 company this
+5 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 company is
+5 	 7 	 (S[ng]\NP)/NP 	 1 	 company portraying <XB>
+6 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is because
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 portraying is
+7 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 portraying at
+8 	 7 	 (S[ng]\NP)/NP 	 2 	 itself portraying
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 heart at
+11 	 10 	 NP[nb]/N 	 1 	 heart the
+11 	 12 	 (NP\NP)/NP 	 1 	 heart of
+14 	 12 	 (NP\NP)/NP 	 2 	 culture of
+14 	 13 	 N/N 	 1 	 culture American
+17 	 12 	 (NP\NP)/NP 	 2 	 freedom of
+17 	 16 	 N/N 	 1 	 freedom political
+20 	 19 	 (S/S)/NP 	 2 	 fact in
+21 	 22 	 (S[dcl]\NP)/NP 	 1 	 it 's
+22 	 19 	 (S/S)/NP 	 1 	 's in
+22 	 26 	 (S[dcl]\S[dcl])/NP 	 1 	 's says
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 killer 's
+24 	 23 	 NP[nb]/N 	 1 	 killer a
+28 	 26 	 (S[dcl]\S[dcl])/NP 	 2 	 Pertschuk says
+28 	 27 	 N/N 	 1 	 Pertschuk Michael
+31 	 26 	 (S[dcl]\S[dcl])/NP 	 2 	 chairman says
+31 	 30 	 N/N 	 1 	 chairman former
+31 	 32 	 (NP\NP)/NP 	 1 	 chairman of
+36 	 32 	 (NP\NP)/NP 	 2 	 Commission of
+36 	 33 	 NP[nb]/N 	 1 	 Commission the
+36 	 34 	 N/N 	 1 	 Commission Federal
+36 	 35 	 N/N 	 1 	 Commission Trade
+40 	 26 	 (S[dcl]\S[dcl])/NP 	 2 	 critic says
+40 	 38 	 NP[nb]/N 	 1 	 critic a
+40 	 39 	 N/N 	 1 	 critic tobacco-industry
+<\s>
+<s id="wsj_0326.16"> 16
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 It should
+0 	 3 	 (S[pss]\NP)/PP 	 1 	 It treated <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be should
+3 	 2 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 treated be
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 like treated
+8 	 7 	 (N/N)/N 	 2 	 drug -LCB-
+10 	 4 	 PP/NP 	 1 	 mafia like
+10 	 5 	 NP[nb]/N 	 1 	 mafia the
+10 	 6 	 N/N 	 1 	 mafia Medellin
+10 	 7 	 (N/N)/N 	 1 	 mafia -LCB-
+15 	 4 	 PP/NP 	 1 	 Fathers like
+15 	 12 	 NP/NP 	 1 	 Fathers not
+15 	 13 	 NP[nb]/N 	 1 	 Fathers the
+15 	 14 	 N/N 	 1 	 Fathers Founding
+<\s>
+<s id="wsj_0326.17"> 18
+1 	 0 	 N/N 	 1 	 Pertschuk Mr.
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Pertschuk adds
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that adds
+6 	 4 	 NP[nb]/N 	 1 	 commercial the
+6 	 5 	 N/N 	 1 	 commercial new
+6 	 7 	 (S[dcl]\NP)/PP 	 1 	 commercial dovetails
+7 	 3 	 S[em]/S[dcl] 	 1 	 dovetails that
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 dovetails perfectly
+9 	 7 	 (S[dcl]\NP)/PP 	 2 	 with dovetails
+11 	 9 	 PP/NP 	 1 	 aspects with
+11 	 10 	 N/N 	 1 	 aspects major
+11 	 12 	 (NP\NP)/NP 	 1 	 aspects of
+14 	 13 	 N/N 	 1 	 Morris Philip
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 Morris 's
+17 	 12 	 (NP\NP)/NP 	 2 	 strategy of
+17 	 15 	 (NP[nb]/N)\NP 	 1 	 strategy 's
+17 	 16 	 N/N 	 1 	 strategy political
+<\s>
+<s id="wsj_0326.18"> 26
+0 	 1 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 These include
+0 	 2 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 These trying <XB>
+0 	 4 	 (S[b]\NP)/NP 	 1 	 These protect <XB>
+0 	 9 	 (S[ng]\NP)/NP 	 1 	 These invoking <XB>
+0 	 15 	 (S[ng]\NP)/NP 	 1 	 These wooing <XU>
+0 	 18 	 ((S[ng]\NP)/PP)/NP 	 1 	 These portraying <XU>
+2 	 1 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 trying include
+3 	 2 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 protect to
+4 	 8 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 protect by
+7 	 4 	 (S[b]\NP)/NP 	 2 	 advertising protect
+7 	 5 	 NP[nb]/N 	 1 	 advertising its
+7 	 6 	 N/N 	 1 	 advertising print
+9 	 8 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 invoking by
+12 	 9 	 (S[ng]\NP)/NP 	 2 	 Amendment invoking
+12 	 10 	 NP[nb]/N 	 1 	 Amendment the
+12 	 11 	 N/N 	 1 	 Amendment First
+15 	 1 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 wooing include
+15 	 17 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 wooing by
+16 	 15 	 (S[ng]\NP)/NP 	 2 	 blacks wooing
+18 	 17 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 portraying by
+19 	 18 	 ((S[ng]\NP)/PP)/NP 	 3 	 itself portraying
+20 	 18 	 ((S[ng]\NP)/PP)/NP 	 2 	 as portraying
+22 	 20 	 PP/NP 	 1 	 protector as
+22 	 21 	 NP[nb]/N 	 1 	 protector a
+22 	 23 	 (NP\NP)/NP 	 1 	 protector of
+25 	 23 	 (NP\NP)/NP 	 2 	 rights of
+25 	 24 	 N/N 	 1 	 rights civil
+<\s>
+<s id="wsj_0326.19"> 22
+2 	 1 	 NP[nb]/N 	 1 	 commercial The
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 commercial features
+3 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 features among
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 others among
+9 	 3 	 (S[dcl]\NP)/NP 	 2 	 voice features
+9 	 8 	 NP[nb]/N 	 1 	 voice the
+9 	 10 	 (NP\NP)/NP 	 1 	 voice of
+14 	 10 	 (NP\NP)/NP 	 2 	 Jr. of
+14 	 11 	 N/N 	 1 	 Jr. Martin
+14 	 12 	 N/N 	 1 	 Jr. Luther
+14 	 13 	 N/N 	 1 	 Jr. King
+20 	 10 	 (NP\NP)/NP 	 2 	 leader of
+20 	 16 	 NP[nb]/N 	 1 	 leader the
+20 	 17 	 N/N 	 1 	 leader slain
+20 	 18 	 N/N 	 1 	 leader civil
+20 	 19 	 N/N 	 1 	 leader rights
+<\s>
+<s id="wsj_0326.20"> 23
+1 	 0 	 N/N 	 1 	 marketers Many
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 marketers say
+4 	 3 	 N/N 	 1 	 Morris Philip
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Morris 's
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 approach 's
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 approach will
+6 	 9 	 S[adj]\NP 	 1 	 approach effective <XB>
+7 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will say
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+9 	 8 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 effective be
+12 	 13 	 (S[dcl]\NP)/S[em] 	 1 	 they agree
+14 	 13 	 (S[dcl]\NP)/S[em] 	 2 	 that agree
+16 	 15 	 NP[nb]/N 	 1 	 ads the
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 ads '
+20 	 17 	 (NP[nb]/N)\NP 	 1 	 message '
+20 	 18 	 N/N 	 1 	 message implied
+20 	 19 	 N/N 	 1 	 message smoking
+20 	 21 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 message is
+20 	 22 	 S[adj]\NP 	 1 	 message unmistakable <XB>
+21 	 14 	 S[em]/S[dcl] 	 1 	 is that
+22 	 21 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unmistakable is
+<\s>
+<s id="wsj_0326.21"> 35
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 This is
+1 	 16 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 advertising is
+5 	 2 	 N/N 	 1 	 advertising clever
+5 	 4 	 N/N 	 1 	 advertising subliminal
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 advertising that
+5 	 8 	 (S[dcl]\NP)/S[b] 	 1 	 advertising says <XB>
+8 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 says that
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 says really
+10 	 11 	 (S[b]\NP)/NP 	 1 	 Smokers have
+11 	 8 	 (S[dcl]\NP)/S[b] 	 2 	 have says
+11 	 14 	 (S\NP)\(S\NP) 	 2 	 have too
+12 	 11 	 (S[b]\NP)/NP 	 2 	 rights have
+18 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 Ries says
+18 	 17 	 N/N 	 1 	 Ries Al
+20 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 chairman says
+20 	 21 	 (NP\NP)/NP 	 1 	 chairman of
+25 	 21 	 (NP\NP)/NP 	 2 	 Inc. of
+25 	 22 	 N/N 	 1 	 Inc. Trout
+25 	 23 	 N/N 	 1 	 Inc. &
+25 	 24 	 N/N 	 1 	 Inc. Ries
+30 	 28 	 (N/N)/(N/N) 	 2 	 Conn. Greenwich
+34 	 21 	 (NP\NP)/NP 	 2 	 firm of
+34 	 27 	 NP[nb]/N 	 1 	 firm a
+34 	 30 	 N/N 	 1 	 firm Conn.
+34 	 32 	 N/N 	 1 	 firm marketing
+34 	 33 	 N/N 	 1 	 firm strategy
+<\s>
+<s id="wsj_0326.22"> 15
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 This is
+0 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 This designed <XB>
+0 	 4 	 ((S[b]\NP)/PP)/NP 	 1 	 This get <XB>
+0 	 11 	 (S[b]\NP)/NP 	 1 	 This defend <XU>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 designed is
+3 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to designed
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+6 	 4 	 ((S[b]\NP)/PP)/NP 	 3 	 wagons get
+6 	 5 	 NP[nb]/N 	 1 	 wagons the
+7 	 4 	 ((S[b]\NP)/PP)/NP 	 2 	 in get
+9 	 7 	 PP/NP 	 1 	 circle in
+9 	 8 	 NP[nb]/N 	 1 	 circle a
+11 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 defend to
+14 	 11 	 (S[b]\NP)/NP 	 2 	 franchise defend
+14 	 12 	 NP[nb]/N 	 1 	 franchise the
+14 	 13 	 N/N 	 1 	 franchise smoking
+<\s>
+<s id="wsj_0326.23"> 24
+1 	 0 	 N/N 	 1 	 Winger Richard
+1 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 Winger adds
+4 	 3 	 NP[nb]/N 	 1 	 partner a
+4 	 5 	 (NP\NP)/NP 	 1 	 partner at
+4 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 partner adds
+8 	 5 	 (NP\NP)/NP 	 2 	 Group at
+8 	 6 	 N/N 	 1 	 Group Boston
+8 	 7 	 N/N 	 1 	 Group Consulting
+12 	 13 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 1 	 It 's
+13 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 's adds
+13 	 22 	 ((S\NP)\(S\NP))/N 	 2 	 's these
+15 	 13 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 3 	 popular 's
+15 	 14 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 popular very
+16 	 13 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 2 	 to 's
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 drape to
+17 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 drape in
+18 	 17 	 (S[b]\NP)/NP 	 2 	 yourself drape
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 flag in
+21 	 20 	 NP[nb]/N 	 1 	 flag the
+23 	 22 	 ((S\NP)\(S\NP))/N 	 3 	 days these
+<\s>
+<s id="wsj_0326.24"> 21
+1 	 2 	 ((S[dcl]\NP)\NP)/(S[b]\NP) 	 2 	 you can
+1 	 3 	 (S[b]\NP)/NP 	 1 	 you do <XB>
+2 	 0 	 (S/S)/(S[dcl]\NP) 	 2 	 can If
+3 	 2 	 ((S[dcl]\NP)\NP)/(S[b]\NP) 	 3 	 do can
+4 	 3 	 (S[b]\NP)/NP 	 2 	 that do
+9 	 6 	 ((S\NP)/(S\NP))/NP 	 3 	 time at
+9 	 7 	 NP[nb]/N 	 1 	 time the
+9 	 8 	 N/N 	 1 	 time same
+10 	 0 	 (S/S)/(S[dcl]\NP) 	 2 	 send If
+10 	 6 	 ((S\NP)/(S\NP))/NP 	 2 	 send at
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 message send
+12 	 11 	 NP[nb]/N 	 1 	 message a
+12 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 message that
+12 	 14 	 (S[dcl]\NP)/NP 	 1 	 message supports <XB>
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 supports that
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 business supports
+16 	 15 	 NP[nb]/N 	 1 	 business your
+18 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 that 's
+18 	 20 	 S[adj]\NP 	 1 	 that brilliant <XB>
+19 	 0 	 (S/S)/(S[dcl]\NP) 	 1 	 's If
+20 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 brilliant 's
+<\s>
+<s id="wsj_0326.25"> 18
+2 	 0 	 N/N 	 1 	 Inc. RJR
+2 	 1 	 N/N 	 1 	 Inc. Nabisco
+2 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. say
+6 	 4 	 N/N 	 1 	 Inc. American
+6 	 5 	 N/N 	 1 	 Inc. Brands
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. say
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 they have
+9 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 have say
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 plans have
+11 	 10 	 NP[nb]/N 	 1 	 plans no
+11 	 13 	 (S[b]\NP)/NP 	 1 	 plans follow <XB>
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 follow to
+15 	 14 	 N/N 	 1 	 Morris Philip
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Morris 's
+17 	 13 	 (S[b]\NP)/NP 	 2 	 lead follow
+17 	 16 	 (NP[nb]/N)\NP 	 1 	 lead 's
+<\s>
+<s id="wsj_0326.26"> 27
+4 	 3 	 N/N 	 1 	 Nabisco RJR
+4 	 5 	 (S[dcl]\NP)/PP 	 1 	 Nabisco is
+4 	 10 	 (S[ng]\NP)/(S[pt]\NP) 	 1 	 Nabisco having <XB>
+4 	 11 	 (S[pt]\NP)/NP 	 1 	 Nabisco sent <XB>
+5 	 1 	 S/S 	 1 	 is Indeed
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 is currently
+5 	 9 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 is for
+7 	 5 	 (S[dcl]\NP)/PP 	 2 	 under is
+8 	 7 	 PP/NP 	 1 	 fire under
+10 	 9 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 having for
+11 	 10 	 (S[ng]\NP)/(S[pt]\NP) 	 2 	 sent having
+11 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 sent to
+13 	 11 	 (S[pt]\NP)/NP 	 2 	 videotapes sent
+13 	 12 	 N/N 	 1 	 videotapes 80-second
+13 	 14 	 (S[ng]\NP)/NP 	 1 	 videotapes touting <XB>
+17 	 14 	 (S[ng]\NP)/NP 	 2 	 brand touting
+17 	 15 	 NP[nb]/N 	 1 	 brand its
+17 	 16 	 N/N 	 1 	 brand Now
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 consumers to
+19 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 consumers who
+19 	 21 	 (S[dcl]\NP)/NP 	 1 	 consumers smoke <XB>
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 smoke who
+23 	 22 	 N/N 	 1 	 Brands American
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 Brands '
+25 	 21 	 (S[dcl]\NP)/NP 	 2 	 Carltons smoke
+25 	 24 	 (NP[nb]/N)\NP 	 1 	 Carltons '
+<\s>
+<s id="wsj_0326.27"> 18
+2 	 0 	 (S/S)/NP 	 2 	 criticism Despite
+2 	 1 	 NP[nb]/N 	 1 	 criticism the
+5 	 4 	 N/N 	 1 	 Morris Philip
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Morris 's
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 campaign 's
+8 	 7 	 N/N 	 1 	 campaign corporate
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 campaign runs
+9 	 0 	 (S/S)/NP 	 1 	 runs Despite
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 risk runs
+11 	 10 	 N/N 	 1 	 risk little
+11 	 12 	 (NP\NP)/(S[ng]\NP) 	 1 	 risk of
+13 	 12 	 (NP\NP)/(S[ng]\NP) 	 2 	 getting of
+14 	 13 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 yanked getting
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 yanked off
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 tube off
+17 	 16 	 NP[nb]/N 	 1 	 tube the
+<\s>
+<s id="wsj_0326.28"> 25
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 They are
+0 	 3 	 ((S[ng]\NP)/(S[ng]\NP))/NP 	 1 	 They showing <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 are n't
+1 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 are says
+3 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 showing are
+5 	 3 	 ((S[ng]\NP)/(S[ng]\NP))/NP 	 3 	 Madison showing
+5 	 4 	 N/N 	 1 	 Madison James
+5 	 6 	 (S[ng]\NP)/NP 	 1 	 Madison taking <XB>
+5 	 10 	 S[ng]\NP 	 1 	 Madison lighting <XU>
+6 	 3 	 ((S[ng]\NP)/(S[ng]\NP))/NP 	 2 	 taking showing
+8 	 6 	 (S[ng]\NP)/NP 	 2 	 puff taking
+8 	 7 	 NP[nb]/N 	 1 	 puff a
+10 	 3 	 ((S[ng]\NP)/(S[ng]\NP))/NP 	 2 	 lighting showing
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 lighting up
+15 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 Tribe says
+15 	 14 	 N/N 	 1 	 Tribe Laurence
+18 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 professor says
+18 	 17 	 NP[nb]/N 	 1 	 professor a
+18 	 19 	 (NP\NP)/NP 	 1 	 professor of
+18 	 22 	 (NP\NP)/NP 	 1 	 professor at
+21 	 19 	 (NP\NP)/NP 	 2 	 law of
+21 	 20 	 N/N 	 1 	 law constitutional
+24 	 22 	 (NP\NP)/NP 	 2 	 University at
+24 	 23 	 N/N 	 1 	 University Harvard
+<\s>
+<s id="wsj_0326.29"> 18
+0 	 5 	 (S[b]\NP)/NP 	 2 	 All do <XU>
+0 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 All is
+0 	 7 	 (S[b]\NP)/NP 	 1 	 All borrow <XB>
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they are
+1 	 3 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 they trying <XB>
+1 	 5 	 (S[b]\NP)/NP 	 1 	 they do <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trying are
+4 	 3 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 borrow is
+8 	 7 	 (S[b]\NP)/NP 	 2 	 some borrow
+8 	 9 	 (NP\NP)/NP 	 1 	 some of
+11 	 9 	 (NP\NP)/NP 	 2 	 legitimacy of
+11 	 10 	 NP[nb]/N 	 1 	 legitimacy the
+11 	 12 	 (NP\NP)/NP 	 1 	 legitimacy of
+14 	 12 	 (NP\NP)/NP 	 2 	 Bill of
+14 	 13 	 NP[nb]/N 	 1 	 Bill the
+14 	 15 	 (NP\NP)/NP 	 1 	 Bill of
+14 	 17 	 NP\NP 	 1 	 Bill itself
+16 	 15 	 (NP\NP)/NP 	 2 	 Rights of
+<\s>

@@ -1,0 +1,232 @@
+<s id="wsj_0618.1"> 27
+1 	 0 	 NP[nb]/N 	 1 	 head The
+1 	 2 	 (NP\NP)/NP 	 1 	 head of
+1 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 head is
+1 	 10 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 1 	 head telling <XB>
+4 	 3 	 NP[nb]/N 	 1 	 nation the
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 nation 's
+8 	 2 	 (NP\NP)/NP 	 2 	 group of
+8 	 5 	 (NP[nb]/N)\NP 	 1 	 group 's
+8 	 6 	 N/N 	 1 	 group largest
+8 	 7 	 N/N 	 1 	 group car-dealers
+10 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 telling is
+11 	 10 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 dealers telling
+11 	 14 	 S[b]\NP 	 1 	 dealers say <XB>
+12 	 10 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to telling
+14 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 say to
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 say just
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 say no
+14 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 say when
+18 	 17 	 N/N 	 1 	 makers auto
+18 	 19 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 makers pressure
+19 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 pressure when
+20 	 19 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 them pressure
+20 	 22 	 (S[b]\NP)/NP 	 1 	 them stockpile <XB>
+21 	 19 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to pressure
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stockpile to
+22 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 stockpile on
+23 	 22 	 (S[b]\NP)/NP 	 2 	 cars stockpile
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 lots on
+26 	 25 	 NP[nb]/N 	 1 	 lots their
+<\s>
+<s id="wsj_0618.2"> 42
+3 	 0 	 (S/S)/NP 	 2 	 letter In
+3 	 1 	 NP[nb]/N 	 1 	 letter an
+3 	 2 	 N/N 	 1 	 letter open
+3 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 letter that
+3 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 letter will <XB>
+3 	 6 	 S[b]\NP 	 1 	 letter run <XB>
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 run will
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 run today
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 run in
+13 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 News in
+13 	 9 	 NP[nb]/N 	 1 	 News the
+13 	 10 	 N/N 	 1 	 News trade
+13 	 11 	 N/N 	 1 	 News journal
+13 	 12 	 N/N 	 1 	 News Automotive
+16 	 15 	 N/N 	 1 	 Tonkin Ron
+16 	 26 	 (S[dcl]\NP)/S[dcl] 	 1 	 Tonkin says
+18 	 19 	 (NP\NP)/NP 	 1 	 president of
+18 	 26 	 (S[dcl]\NP)/S[dcl] 	 1 	 president says
+24 	 19 	 (NP\NP)/NP 	 2 	 Association of
+24 	 20 	 NP[nb]/N 	 1 	 Association the
+24 	 21 	 N/N 	 1 	 Association National
+24 	 22 	 N/N 	 1 	 Association Car
+24 	 23 	 N/N 	 1 	 Association Dealers
+26 	 0 	 (S/S)/NP 	 1 	 says In
+27 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 dealers should
+27 	 29 	 ((S[b]\NP)/PP)/NP 	 1 	 dealers cut <XB>
+28 	 26 	 (S[dcl]\NP)/S[dcl] 	 2 	 should says
+29 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cut should
+31 	 29 	 ((S[b]\NP)/PP)/NP 	 3 	 inventories cut
+31 	 30 	 NP[nb]/N 	 1 	 inventories their
+32 	 29 	 ((S[b]\NP)/PP)/NP 	 2 	 to cut
+34 	 33 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 more no
+34 	 35 	 ((NP/NP)/(NP/NP))\(S[adj]\NP) 	 3 	 more than
+36 	 35 	 ((NP/NP)/(NP/NP))\(S[adj]\NP) 	 2 	 half than
+38 	 32 	 PP/NP 	 1 	 level to
+38 	 36 	 NP/NP 	 1 	 level half
+38 	 37 	 NP[nb]/N 	 1 	 level the
+38 	 40 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 level considered <XB>
+38 	 41 	 S[adj]\NP 	 1 	 level desirable <XB>
+40 	 39 	 (S\NP)/(S\NP) 	 2 	 considered traditionally
+41 	 40 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 desirable considered
+<\s>
+<s id="wsj_0618.3"> 40
+1 	 0 	 N/N 	 1 	 Tonkin Mr.
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Tonkin who
+1 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Tonkin has <XB>
+1 	 6 	 (S[ng]\NP)/PP 	 1 	 Tonkin feuding <XB>
+1 	 19 	 (S[dcl]\NP)/S[em] 	 1 	 Tonkin said
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has who
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+6 	 5 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 feuding been
+6 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 feuding since
+7 	 6 	 (S[ng]\NP)/PP 	 2 	 with feuding
+10 	 7 	 PP/NP 	 1 	 Three with
+10 	 8 	 NP[nb]/N 	 1 	 Three the
+10 	 9 	 N/N 	 1 	 Three Big
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 he took
+13 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 took since
+13 	 16 	 ((S\NP)\(S\NP))/N 	 2 	 took this
+14 	 13 	 (S[dcl]\NP)/NP 	 2 	 office took
+16 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 this earlier
+17 	 16 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+20 	 19 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+22 	 21 	 ((S/S)/(S[ng]\NP))/NP 	 3 	 half with
+22 	 23 	 (NP\NP)/NP 	 1 	 half of
+22 	 28 	 (S[ng]\NP)/NP 	 1 	 half losing <XB>
+22 	 31 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 half breaking <XU>
+22 	 32 	 S[adj]\NP 	 1 	 half even <XU>
+25 	 24 	 NP[nb]/N 	 1 	 nation the
+25 	 26 	 (NP[nb]/N)\NP 	 2 	 nation 's
+27 	 23 	 (NP\NP)/NP 	 2 	 dealers of
+27 	 26 	 (NP[nb]/N)\NP 	 1 	 dealers 's
+28 	 21 	 ((S/S)/(S[ng]\NP))/NP 	 2 	 losing with
+29 	 28 	 (S[ng]\NP)/NP 	 2 	 money losing
+31 	 21 	 ((S/S)/(S[ng]\NP))/NP 	 2 	 breaking with
+32 	 31 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 even breaking
+34 	 35 	 (S[dcl]\NP)/NP 	 1 	 it was
+35 	 20 	 S[em]/S[dcl] 	 1 	 was that
+35 	 21 	 ((S/S)/(S[ng]\NP))/NP 	 1 	 was with
+36 	 35 	 (S[dcl]\NP)/NP 	 2 	 time was
+36 	 37 	 (NP\NP)/NP 	 1 	 time for
+39 	 37 	 (NP\NP)/NP 	 2 	 action for
+39 	 38 	 N/N 	 1 	 action emergency
+<\s>
+<s id="wsj_0618.4"> 28
+2 	 0 	 N/N 	 1 	 dealers U.S.
+2 	 1 	 N/N 	 1 	 dealers car
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 dealers had
+3 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 had in
+3 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 had at
+3 	 22 	 ((S\NP)\(S\NP))/PP 	 2 	 had according
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 average had
+5 	 4 	 NP[nb]/N 	 1 	 average an
+5 	 6 	 (NP\NP)/NP 	 1 	 average of
+8 	 7 	 N/N 	 1 	 days 59
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 days '
+10 	 6 	 (NP\NP)/NP 	 2 	 supply of
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 supply '
+10 	 11 	 (NP\NP)/NP 	 1 	 supply of
+12 	 11 	 (NP\NP)/NP 	 2 	 cars of
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 lots in
+15 	 14 	 NP[nb]/N 	 1 	 lots their
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 end at
+18 	 17 	 NP[nb]/N 	 1 	 end the
+18 	 19 	 (NP\NP)/NP 	 1 	 end of
+20 	 19 	 (NP\NP)/NP 	 2 	 September of
+23 	 22 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+24 	 25 	 (NP[nb]/N)\NP 	 2 	 Ward 's
+27 	 23 	 PP/NP 	 1 	 Reports to
+27 	 25 	 (NP[nb]/N)\NP 	 1 	 Reports 's
+27 	 26 	 N/N 	 1 	 Reports Automotive
+<\s>
+<s id="wsj_0618.5"> 21
+2 	 1 	 N/N 	 1 	 Tonkin Mr.
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Tonkin said
+3 	 0 	 S/S 	 1 	 said But
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 dealers should
+4 	 6 	 ((S[b]\NP)/PP)/NP 	 1 	 dealers slash <XB>
+4 	 15 	 (S[b]\NP)/NP 	 1 	 dealers reduce <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 should said
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 slash should
+7 	 6 	 ((S[b]\NP)/PP)/NP 	 3 	 stocks slash
+8 	 6 	 ((S[b]\NP)/PP)/NP 	 2 	 to slash
+10 	 9 	 (N/N)/(N/N) 	 2 	 15 between
+12 	 9 	 (N/N)/(N/N) 	 2 	 30 between
+13 	 8 	 PP/NP 	 1 	 days to
+13 	 10 	 N/N 	 1 	 days 15 <XU>
+13 	 12 	 N/N 	 1 	 days 30
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reduce to
+17 	 15 	 (S[b]\NP)/NP 	 2 	 costs reduce
+17 	 16 	 NP[nb]/N 	 1 	 costs the
+17 	 18 	 (NP\NP)/(S[ng]\NP) 	 1 	 costs of
+19 	 18 	 (NP\NP)/(S[ng]\NP) 	 2 	 financing of
+20 	 19 	 (S[ng]\NP)/NP 	 2 	 inventory financing
+<\s>
+<s id="wsj_0618.6"> 31
+1 	 0 	 NP[nb]/N 	 1 	 message His
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 message is
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 message getting <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 getting is
+3 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 getting in
+6 	 3 	 (S[ng]\NP)/NP 	 2 	 reception getting
+6 	 4 	 NP[nb]/N 	 1 	 reception a
+6 	 5 	 N/N 	 1 	 reception chilly
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Detroit in
+8 	 10 	 (NP\NP)/S[dcl] 	 1 	 Detroit where
+15 	 11 	 NP[nb]/N 	 1 	 makers the
+15 	 12 	 N/N 	 1 	 makers Big
+15 	 13 	 N/N 	 1 	 makers Three
+15 	 14 	 N/N 	 1 	 makers auto
+15 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 makers are
+15 	 18 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 makers being <XB>
+15 	 19 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 makers forced <XB>
+15 	 21 	 (S[b]\NP)/NP 	 1 	 makers close <XB>
+16 	 10 	 (NP\NP)/S[dcl] 	 2 	 are where
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 are already
+18 	 16 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being are
+19 	 18 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 forced being
+19 	 23 	 ((S\NP)\(S\NP))/PP 	 2 	 forced because
+20 	 19 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to forced
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 close to
+22 	 21 	 (S[b]\NP)/NP 	 2 	 plants close
+24 	 23 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+26 	 24 	 PP/NP 	 1 	 sales of
+26 	 25 	 N/N 	 1 	 sales soft
+30 	 24 	 PP/NP 	 1 	 orders of
+30 	 28 	 N/N 	 1 	 orders reduced
+30 	 29 	 N/N 	 1 	 orders dealer
+<\s>
+<s id="wsj_0618.7"> 15
+1 	 0 	 (S/S)/(S/S) 	 2 	 before Even
+3 	 2 	 N/N 	 1 	 Tonkin Mr.
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Tonkin 's
+5 	 1 	 (S/S)/NP 	 2 	 broadside before
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 broadside 's
+9 	 7 	 NP[nb]/N 	 1 	 dealers some
+9 	 8 	 N/N 	 1 	 dealers large
+9 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 dealers said
+10 	 1 	 (S/S)/NP 	 1 	 said before
+11 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they were
+11 	 13 	 (S[ng]\NP)/NP 	 1 	 they cutting <XB>
+12 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+13 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 cutting were
+14 	 13 	 (S[ng]\NP)/NP 	 2 	 inventories cutting
+<\s>
+<s id="wsj_0618.8"> 14
+2 	 0 	 N/N 	 1 	 Co. Ford
+2 	 1 	 N/N 	 1 	 Co. Motor
+2 	 7 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Co. criticized
+6 	 4 	 N/N 	 1 	 representatives Chrysler
+6 	 5 	 N/N 	 1 	 representatives Corp.
+6 	 7 	 ((S[dcl]\NP)/PP)/NP 	 1 	 representatives criticized
+9 	 8 	 N/N 	 1 	 Tonkin Mr.
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Tonkin 's
+11 	 7 	 ((S[dcl]\NP)/PP)/NP 	 3 	 plan criticized
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 plan 's
+12 	 7 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as criticized
+13 	 12 	 PP/(S[adj]\NP) 	 1 	 unworkable as
+<\s>

@@ -1,0 +1,101 @@
+<s id="wsj_1153.1"> 20
+1 	 0 	 N/N 	 1 	 Co. Boeing
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+5 	 3 	 N/N 	 1 	 Airways Trans
+5 	 4 	 N/N 	 1 	 Airways European
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Airways ordered
+6 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 ordered said
+10 	 6 	 (S[dcl]\NP)/NP 	 2 	 jetliners ordered
+10 	 7 	 NP/NP 	 1 	 jetliners a
+10 	 8 	 NP[nb]/N 	 1 	 jetliners dozen
+10 	 9 	 N/N 	 1 	 jetliners 737
+10 	 11 	 (S[pss]\NP)/PP 	 1 	 jetliners valued <XB>
+12 	 11 	 (S[pss]\NP)/PP 	 2 	 at valued
+14 	 12 	 PP/NP 	 1 	 total at
+14 	 13 	 NP[nb]/N 	 1 	 total a
+14 	 15 	 (NP\NP)/NP 	 1 	 total of
+17 	 15 	 (NP\NP)/NP 	 2 	 $ of
+17 	 16 	 N/N 	 1 	 $ about
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 450
+<\s>
+<s id="wsj_1153.2"> 21
+5 	 0 	 NP[nb]/N 	 1 	 aircraft The
+5 	 1 	 N/N 	 1 	 aircraft 300
+5 	 3 	 N/N 	 1 	 aircraft 400
+5 	 4 	 N/N 	 1 	 aircraft series
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 aircraft will
+5 	 8 	 S[pss]\NP 	 1 	 aircraft powered <XB>
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+8 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 powered be
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 powered by
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 engines by
+10 	 12 	 S[pss]\NP 	 1 	 engines produced <XB>
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 produced jointly
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 produced by
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Co. by
+16 	 14 	 N/N 	 1 	 Co. General
+16 	 15 	 N/N 	 1 	 Co. Electric
+18 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Snecma by
+18 	 19 	 (NP\NP)/NP 	 1 	 Snecma of
+20 	 19 	 (NP\NP)/NP 	 2 	 France of
+<\s>
+<s id="wsj_1153.3"> 30
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Boeing has
+3 	 0 	 S/S 	 1 	 has Currently
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 backlog has
+5 	 4 	 NP[nb]/N 	 1 	 backlog a
+5 	 6 	 (NP\NP)/NP 	 1 	 backlog of
+8 	 6 	 (NP\NP)/NP 	 2 	 $ of
+8 	 7 	 N/N 	 1 	 $ about
+10 	 8 	 N/N[num] 	 1 	 billion $
+10 	 9 	 N/N 	 1 	 billion 80
+13 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 production has
+13 	 16 	 S[pss]\NP 	 1 	 production slowed <XB>
+14 	 0 	 S/S 	 1 	 has Currently
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+16 	 15 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 slowed been
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 slowed by
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 strike by
+19 	 18 	 NP[nb]/N 	 1 	 strike a
+19 	 20 	 (NP\NP)/NP 	 1 	 strike of
+19 	 24 	 (NP\NP)/(S[dcl]\NP) 	 1 	 strike which
+19 	 25 	 (S[dcl]\NP)/NP 	 1 	 strike entered <XB>
+22 	 20 	 (NP\NP)/NP 	 2 	 machinists of
+22 	 21 	 N/N 	 1 	 machinists 55,000
+25 	 24 	 (NP\NP)/(S[dcl]\NP) 	 2 	 entered which
+25 	 29 	 (S\NP)\(S\NP) 	 2 	 entered today
+28 	 25 	 (S[dcl]\NP)/NP 	 2 	 day entered
+28 	 26 	 NP[nb]/N 	 1 	 day its
+28 	 27 	 N/N 	 1 	 day 22nd
+<\s>
+<s id="wsj_1153.4"> 29
+1 	 0 	 (S/S)/(S/S) 	 2 	 week Last
+4 	 3 	 NP[nb]/N 	 1 	 mediator a
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 mediator failed
+4 	 7 	 (S[b]\NP)/NP 	 1 	 mediator rekindle <XB>
+5 	 1 	 S/S 	 1 	 failed week
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to failed
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rekindle to
+8 	 7 	 (S[b]\NP)/NP 	 2 	 talks rekindle
+8 	 9 	 (NP\NP)/NP 	 1 	 talks between
+11 	 9 	 (NP\NP)/NP 	 2 	 company between
+11 	 10 	 NP[nb]/N 	 1 	 company the
+14 	 9 	 (NP\NP)/NP 	 2 	 strikers between
+14 	 13 	 NP[nb]/N 	 1 	 strikers the
+14 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 strikers who
+14 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 strikers have <XB>
+14 	 18 	 (S[pt]\NP)/NP 	 1 	 strikers rejected <XB>
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have who
+18 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 rejected have
+22 	 18 	 (S[pt]\NP)/NP 	 2 	 offer rejected
+22 	 19 	 NP[nb]/N 	 1 	 offer a
+22 	 20 	 N/N 	 1 	 offer pay
+22 	 21 	 N/N 	 1 	 offer raise
+22 	 23 	 (NP\NP)/NP 	 1 	 offer of
+25 	 23 	 (NP\NP)/NP 	 2 	 % of
+25 	 24 	 N/N 	 1 	 % 10
+25 	 26 	 (NP\NP)/NP 	 1 	 % over
+28 	 26 	 (NP\NP)/NP 	 2 	 years over
+28 	 27 	 N/N 	 1 	 years three
+<\s>

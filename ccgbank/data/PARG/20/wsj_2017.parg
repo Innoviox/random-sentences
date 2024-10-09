@@ -1,0 +1,741 @@
+<s id="wsj_2017.1"> 18
+2 	 0 	 N/N 	 1 	 rates Lung-cancer
+2 	 1 	 N/N 	 1 	 rates mortality
+2 	 3 	 (NP\NP)/NP 	 1 	 rates for
+2 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 rates have
+2 	 11 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 rates begun <XB>
+2 	 13 	 S[b]\NP 	 1 	 rates decline <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 people for
+4 	 5 	 (NP\NP)/NP 	 1 	 people under
+7 	 5 	 (NP\NP)/NP 	 2 	 years under
+7 	 6 	 N/N 	 1 	 years 45
+7 	 8 	 (NP\NP)/NP 	 1 	 years of
+9 	 8 	 (NP\NP)/NP 	 2 	 age of
+10 	 17 	 (S[dcl]\S[dcl])\NP 	 1 	 have report
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 begun have
+12 	 11 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to begun
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 decline to
+16 	 15 	 N/N 	 1 	 researchers federal
+16 	 17 	 (S[dcl]\S[dcl])\NP 	 2 	 researchers report
+<\s>
+<s id="wsj_2017.2"> 22
+1 	 0 	 NP[nb]/N 	 1 	 drop The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 drop is
+1 	 4 	 (S[adj]\NP)/PP 	 1 	 drop large <XB>
+2 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 is although
+4 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 large is
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 large particularly
+5 	 4 	 (S[adj]\NP)/PP 	 2 	 for large
+7 	 5 	 PP/NP 	 1 	 males for
+7 	 6 	 N/N 	 1 	 males white
+11 	 10 	 N/N 	 1 	 males black
+11 	 18 	 (S[dcl]\NP)/NP 	 1 	 males show
+16 	 13 	 N/N 	 1 	 women white
+16 	 15 	 N/N 	 1 	 women black
+16 	 18 	 (S[dcl]\NP)/NP 	 1 	 women show
+18 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 show although
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 show also
+21 	 18 	 (S[dcl]\NP)/NP 	 2 	 rates show
+21 	 19 	 N/N 	 1 	 rates lower
+21 	 20 	 N/N 	 1 	 rates mortality
+<\s>
+<s id="wsj_2017.3"> 46
+1 	 0 	 NP[nb]/N 	 1 	 report A
+1 	 2 	 (NP\NP)/NP 	 1 	 report in
+1 	 16 	 (S[dcl]\NP)/S[em] 	 1 	 report projects
+4 	 3 	 NP[nb]/N 	 1 	 week this
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 week 's
+6 	 2 	 (NP\NP)/NP 	 2 	 issue in
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 issue 's
+6 	 7 	 (NP\NP)/NP 	 1 	 issue of
+9 	 7 	 (NP\NP)/NP 	 2 	 Journal of
+9 	 8 	 NP[nb]/N 	 1 	 Journal the
+9 	 10 	 (NP\NP)/NP 	 1 	 Journal of
+14 	 10 	 (NP\NP)/NP 	 2 	 Institute of
+14 	 11 	 NP[nb]/N 	 1 	 Institute the
+14 	 12 	 N/N 	 1 	 Institute National
+14 	 13 	 N/N 	 1 	 Institute Cancer
+16 	 15 	 (S\NP)/(S\NP) 	 2 	 projects also
+17 	 16 	 (S[dcl]\NP)/S[em] 	 2 	 that projects
+21 	 18 	 N/N 	 1 	 rates overall
+21 	 19 	 N/N 	 1 	 rates U.S.
+21 	 20 	 N/N 	 1 	 rates mortality
+21 	 22 	 (NP\NP)/NP 	 1 	 rates from
+21 	 33 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rates should
+21 	 34 	 (S[b]\NP)/(S[to]\NP) 	 1 	 rates begin <XB>
+21 	 36 	 S[b]\NP 	 1 	 rates drop <XB>
+24 	 22 	 (NP\NP)/NP 	 2 	 cancer from
+24 	 23 	 N/N 	 1 	 cancer lung
+28 	 22 	 (NP\NP)/NP 	 2 	 cause from
+28 	 26 	 NP[nb]/N 	 1 	 cause the
+28 	 27 	 N/N 	 1 	 cause leading
+28 	 29 	 (NP\NP)/NP 	 1 	 cause of
+31 	 29 	 (NP\NP)/NP 	 2 	 death of
+31 	 30 	 N/N 	 1 	 death cancer
+33 	 17 	 S[em]/S[dcl] 	 1 	 should that
+34 	 33 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 begin should
+34 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 begin in
+34 	 40 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 begin if
+35 	 34 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to begin
+36 	 35 	 (S[to]\NP)/(S[b]\NP) 	 2 	 drop to
+39 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 years in
+39 	 38 	 N/N 	 1 	 years several
+42 	 41 	 N/N 	 1 	 smoking cigarette
+42 	 43 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 smoking continues
+42 	 45 	 S[b]\NP 	 1 	 smoking abate <XB>
+43 	 40 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 continues if
+44 	 43 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to continues
+45 	 44 	 (S[to]\NP)/(S[b]\NP) 	 2 	 abate to
+<\s>
+<s id="wsj_2017.4"> 42
+1 	 0 	 NP[nb]/N 	 1 	 report The
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 report which
+1 	 4 	 S[dcl]\NP 	 1 	 report comes <XB>
+1 	 22 	 (S[dcl]\NP)/NP 	 1 	 report is
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 comes which
+4 	 7 	 (((S\NP)\(S\NP))\NP)/S[dcl] 	 2 	 comes after
+6 	 5 	 N/N 	 1 	 years 25
+6 	 7 	 (((S\NP)\(S\NP))\NP)/S[dcl] 	 3 	 years after
+11 	 8 	 NP[nb]/N 	 1 	 General the
+11 	 9 	 N/N 	 1 	 General U.S.
+11 	 10 	 N/N 	 1 	 General Surgeon
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 General issued
+12 	 7 	 (((S\NP)\(S\NP))\NP)/S[dcl] 	 4 	 issued after
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 report issued
+14 	 13 	 NP[nb]/N 	 1 	 report a
+14 	 15 	 (S[ng]\NP)/PP 	 1 	 report warning <XB>
+16 	 15 	 (S[ng]\NP)/PP 	 2 	 against warning
+18 	 16 	 PP/NP 	 1 	 dangers against
+18 	 17 	 NP[nb]/N 	 1 	 dangers the
+18 	 19 	 (NP\NP)/NP 	 1 	 dangers of
+20 	 19 	 (NP\NP)/NP 	 2 	 smoking of
+25 	 22 	 (S[dcl]\NP)/NP 	 2 	 indication is
+25 	 23 	 NP[nb]/N 	 1 	 indication the
+25 	 24 	 N/N 	 1 	 indication strongest
+25 	 26 	 (NP\NP)/NP 	 1 	 indication to
+25 	 28 	 (NP\NP)/S[dcl] 	 1 	 indication that
+27 	 26 	 (NP\NP)/NP 	 2 	 date to
+30 	 29 	 NP[nb]/N 	 1 	 reduction the
+30 	 31 	 (NP\NP)/NP 	 1 	 reduction in
+30 	 33 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 reduction is
+30 	 34 	 S[ng]\NP 	 1 	 reduction leading <XB>
+32 	 31 	 (NP\NP)/NP 	 2 	 smoking in
+33 	 28 	 (NP\NP)/S[dcl] 	 2 	 is that
+34 	 33 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 leading is
+34 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 leading to
+38 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 rates to
+38 	 36 	 N/N 	 1 	 rates lower
+38 	 37 	 N/N 	 1 	 rates death
+38 	 39 	 (NP\NP)/NP 	 1 	 rates from
+41 	 39 	 (NP\NP)/NP 	 2 	 cancer from
+41 	 40 	 N/N 	 1 	 cancer lung
+<\s>
+<s id="wsj_2017.5"> 34
+0 	 4 	 (S[dcl]\NP)/S[em] 	 1 	 What is
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 this is
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 this saying <XB>
+2 	 0 	 N/(S[dcl]/NP) 	 1 	 is What
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 saying is
+4 	 16 	 (S[dcl]\S[dcl])/NP 	 1 	 is said
+5 	 4 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+8 	 6 	 NP[nb]/N 	 1 	 general the
+8 	 7 	 N/N 	 1 	 general surgeon
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 general 's
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 message 's
+10 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 message is
+10 	 12 	 (S[ng]\NP)/NP 	 1 	 message having <XB>
+11 	 5 	 S[em]/S[dcl] 	 1 	 is that
+12 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 having is
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 impact having
+14 	 13 	 NP[nb]/N 	 1 	 impact an
+18 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 Tockman said
+18 	 17 	 N/N 	 1 	 Tockman Melvyn
+21 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 epidemiologist said
+21 	 20 	 NP[nb]/N 	 1 	 epidemiologist an
+21 	 22 	 (NP\NP)/NP 	 1 	 epidemiologist at
+26 	 22 	 (NP\NP)/NP 	 2 	 School at
+26 	 23 	 NP[nb]/N 	 1 	 School the
+26 	 24 	 N/N 	 1 	 School Johns
+26 	 25 	 N/N 	 1 	 School Hopkins
+26 	 27 	 (NP\NP)/NP 	 1 	 School of
+26 	 32 	 (NP\NP)/NP 	 1 	 School in
+28 	 27 	 (NP\NP)/NP 	 2 	 Hygiene of
+31 	 27 	 (NP\NP)/NP 	 2 	 Health of
+31 	 30 	 N/N 	 1 	 Health Public
+33 	 32 	 (NP\NP)/NP 	 2 	 Baltimore in
+<\s>
+<s id="wsj_2017.6"> 23
+4 	 0 	 NP[nb]/N 	 1 	 report The
+4 	 1 	 N/N 	 1 	 report National
+4 	 2 	 N/N 	 1 	 report Cancer
+4 	 3 	 N/N 	 1 	 report Institute
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 report compares
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 rates compares
+7 	 6 	 N/N 	 1 	 rates mortality
+7 	 8 	 (NP\NP)/NP 	 1 	 rates of
+10 	 8 	 (NP\NP)/NP 	 2 	 groups of
+10 	 9 	 N/N 	 1 	 groups two
+10 	 11 	 (NP\NP)/NP 	 1 	 groups of
+10 	 22 	 (S[adj]\NP)\NP 	 1 	 groups apart <XB>
+12 	 11 	 (NP\NP)/NP 	 2 	 people of
+12 	 13 	 (NP\NP)/NP 	 1 	 people between
+15 	 13 	 (NP\NP)/NP 	 2 	 ages between
+15 	 14 	 NP[nb]/N 	 1 	 ages the
+15 	 16 	 (NP\NP)/NP 	 1 	 ages of
+17 	 16 	 (NP\NP)/NP 	 2 	 35 of
+19 	 16 	 (NP\NP)/NP 	 2 	 44 of
+21 	 20 	 NP[nb]/N 	 1 	 decade a
+21 	 22 	 (S[adj]\NP)\NP 	 2 	 decade apart
+<\s>
+<s id="wsj_2017.7"> 41
+2 	 0 	 NP[nb]/N 	 1 	 rate The
+2 	 1 	 N/N 	 1 	 rate death
+2 	 3 	 (NP\NP)/NP 	 1 	 rate from
+2 	 13 	 (NP\NP)/NP 	 1 	 rate in
+2 	 16 	 (S[dcl]\NP)/NP 	 1 	 rate was
+5 	 3 	 (NP\NP)/NP 	 2 	 cancer from
+5 	 4 	 N/N 	 1 	 cancer lung
+5 	 6 	 (NP\NP)/NP 	 1 	 cancer of
+8 	 6 	 (NP\NP)/NP 	 2 	 males of
+8 	 7 	 N/N 	 1 	 males white
+8 	 9 	 (S[pss]\NP)/NP 	 1 	 males aged <XB>
+10 	 9 	 (S[pss]\NP)/NP 	 2 	 35 aged
+10 	 11 	 (NP\NP)/NP 	 1 	 35 to
+12 	 11 	 (NP\NP)/NP 	 2 	 44 to
+15 	 13 	 (NP\NP)/NP 	 2 	 mid-1970s in
+15 	 14 	 NP[nb]/N 	 1 	 mid-1970s the
+17 	 16 	 (S[dcl]\NP)/NP 	 2 	 13.4 was
+17 	 18 	 (NP\NP)/NP 	 1 	 13.4 per
+19 	 18 	 (NP\NP)/NP 	 2 	 100,000 per
+24 	 22 	 NP[nb]/N 	 1 	 rate the
+24 	 23 	 N/N 	 1 	 rate mortality
+24 	 25 	 (NP\NP)/NP 	 1 	 rate of
+24 	 30 	 (NP\NP)/NP 	 1 	 rate in
+24 	 33 	 (S[dcl]\NP)/NP 	 1 	 rate was
+29 	 25 	 (NP\NP)/NP 	 2 	 group of
+29 	 26 	 NP[nb]/N 	 1 	 group the
+29 	 27 	 N/N 	 1 	 group same
+29 	 28 	 N/N 	 1 	 group age
+32 	 30 	 (NP\NP)/NP 	 2 	 mid-1980s in
+32 	 31 	 NP[nb]/N 	 1 	 mid-1980s the
+34 	 33 	 (S[dcl]\NP)/NP 	 2 	 9.6 was
+37 	 33 	 (S[dcl]\NP)/NP 	 2 	 decline was
+37 	 36 	 NP[nb]/N 	 1 	 decline a
+37 	 38 	 (NP\NP)/NP 	 1 	 decline of
+40 	 38 	 (NP\NP)/NP 	 2 	 % of
+40 	 39 	 N/N 	 1 	 % 28.7
+<\s>
+<s id="wsj_2017.8"> 13
+3 	 0 	 (S[pss]\NP)/NP 	 2 	 way Measured
+3 	 1 	 NP[nb]/N 	 1 	 way the
+3 	 2 	 N/N 	 1 	 way same
+6 	 5 	 NP[nb]/N 	 1 	 decline the
+6 	 7 	 (NP\NP)/NP 	 1 	 decline for
+6 	 10 	 (S[dcl]\NP)/NP 	 1 	 decline was
+9 	 7 	 (NP\NP)/NP 	 2 	 males for
+9 	 8 	 N/N 	 1 	 males black
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 % was
+12 	 11 	 N/N 	 1 	 % 14.2
+<\s>
+<s id="wsj_2017.9"> 20
+1 	 0 	 NP[nb]/N 	 1 	 drop The
+1 	 2 	 (NP\NP)/NP 	 1 	 drop in
+1 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 drop was
+1 	 9 	 S[adj]\NP 	 1 	 drop steep <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 rates in
+4 	 3 	 N/N 	 1 	 rates mortality
+4 	 5 	 (NP\NP)/NP 	 1 	 rates for
+6 	 5 	 (NP\NP)/NP 	 2 	 women for
+9 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 steep was
+9 	 8 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 steep less
+9 	 12 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 steep %
+9 	 17 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 steep % <XU>
+12 	 11 	 ((S[adj]\NP)\(S[adj]\NP))/((S[adj]\NP)\(S[adj]\NP)) 	 3 	 % 8.9
+12 	 13 	 (((S[adj]\NP)\(S[adj]\NP))\((S[adj]\NP)\(S[adj]\NP)))/NP 	 3 	 % for
+14 	 13 	 (((S[adj]\NP)\(S[adj]\NP))\((S[adj]\NP)\(S[adj]\NP)))/NP 	 4 	 blacks for
+17 	 16 	 ((S[adj]\NP)\(S[adj]\NP))/((S[adj]\NP)\(S[adj]\NP)) 	 3 	 % 5.3
+17 	 18 	 (((S[adj]\NP)\(S[adj]\NP))\((S[adj]\NP)\(S[adj]\NP)))/NP 	 3 	 % for
+19 	 18 	 (((S[adj]\NP)\(S[adj]\NP))\((S[adj]\NP)\(S[adj]\NP)))/NP 	 4 	 whites for
+<\s>
+<s id="wsj_2017.10"> 48
+1 	 0 	 NP[nb]/N 	 1 	 study The
+1 	 3 	 (NP\NP)/NP 	 1 	 study by
+1 	 12 	 (NP\NP)/NP 	 1 	 study of
+1 	 19 	 (S[dcl]\NP)/S[em] 	 1 	 study shows
+5 	 3 	 (NP\NP)/NP 	 2 	 Devesa by
+5 	 4 	 N/N 	 1 	 Devesa Susan
+8 	 3 	 (NP\NP)/NP 	 2 	 Blot by
+8 	 7 	 N/N 	 1 	 Blot William
+11 	 3 	 (NP\NP)/NP 	 2 	 Fraumeni by
+11 	 10 	 N/N 	 1 	 Fraumeni Joseph
+14 	 13 	 NP[nb]/N 	 1 	 institute the
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 institute 's
+16 	 12 	 (NP\NP)/NP 	 2 	 staff of
+16 	 15 	 (NP[nb]/N)\NP 	 1 	 staff 's
+19 	 18 	 (S\NP)/(S\NP) 	 2 	 shows also
+20 	 19 	 (S[dcl]\NP)/S[em] 	 2 	 that shows
+22 	 21 	 NP[nb]/N 	 1 	 incidence the
+22 	 23 	 (NP\NP)/NP 	 1 	 incidence of
+22 	 32 	 S[dcl]\NP 	 1 	 incidence declined
+25 	 23 	 (NP\NP)/NP 	 2 	 cancer of
+25 	 24 	 N/N 	 1 	 cancer lung
+28 	 26 	 conj/conj 	 1 	 as as
+28 	 27 	 conj/conj 	 1 	 as well
+31 	 29 	 NP[nb]/N 	 1 	 rate the
+31 	 30 	 N/N 	 1 	 rate death
+31 	 32 	 S[dcl]\NP 	 1 	 rate declined
+32 	 20 	 S[em]/S[dcl] 	 1 	 declined that
+32 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 declined over
+32 	 36 	 ((S\NP)\(S\NP))/NP 	 2 	 declined for
+35 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 decade over
+35 	 34 	 NP[nb]/N 	 1 	 decade the
+38 	 36 	 ((S\NP)\(S\NP))/NP 	 3 	 groups for
+38 	 37 	 NP[nb]/N 	 1 	 groups all
+38 	 39 	 (NP\NP)/NP 	 1 	 groups in
+38 	 45 	 (NP\NP)/NP 	 1 	 groups except
+43 	 39 	 (NP\NP)/NP 	 2 	 bracket in
+43 	 40 	 NP[nb]/N 	 1 	 bracket the
+43 	 41 	 N/N 	 1 	 bracket 35-44
+43 	 42 	 N/N 	 1 	 bracket age
+47 	 45 	 (NP\NP)/NP 	 2 	 men except
+47 	 46 	 N/N 	 1 	 men black
+<\s>
+<s id="wsj_2017.11"> 35
+3 	 1 	 N/N 	 1 	 rates lung-cancer
+3 	 2 	 N/N 	 1 	 rates mortality
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 rates are
+3 	 5 	 S[ng]\NP 	 1 	 rates increasing <XB>
+4 	 0 	 (S/S)/S[dcl] 	 2 	 are Although
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 increasing are
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 increasing for
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 nation for
+8 	 7 	 NP[nb]/N 	 1 	 nation the
+8 	 9 	 (NP\NP)/NP 	 1 	 nation as
+11 	 9 	 (NP\NP)/NP 	 2 	 whole as
+11 	 10 	 NP[nb]/N 	 1 	 whole a
+14 	 13 	 NP[nb]/N 	 1 	 report the
+14 	 15 	 (S[dcl]\NP)/S[em] 	 1 	 report projects
+15 	 0 	 (S/S)/S[dcl] 	 1 	 projects Although
+16 	 15 	 (S[dcl]\NP)/S[em] 	 2 	 that projects
+18 	 17 	 N/N 	 1 	 rates death
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rates will
+18 	 20 	 (S[b]\NP)/(S[to]\NP) 	 1 	 rates begin <XB>
+18 	 22 	 S[b]\NP 	 1 	 rates decline <XB>
+19 	 16 	 S[em]/S[dcl] 	 1 	 will that
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 begin will
+21 	 20 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to begin
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 decline to
+22 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 decline in
+22 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 decline for
+22 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 decline after <XU>
+22 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 decline for <XU>
+25 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 1990s in
+25 	 24 	 NP[nb]/N 	 1 	 1990s the
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 men for
+31 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 year after
+31 	 30 	 NP[nb]/N 	 1 	 year the
+31 	 32 	 N\N 	 1 	 year 2000
+34 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 women for
+<\s>
+<s id="wsj_2017.12"> 26
+2 	 0 	 N/N 	 1 	 rates Lung-cancer
+2 	 1 	 N/N 	 1 	 rates mortality
+2 	 3 	 S[dcl]\NP 	 1 	 rates increase
+2 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 rates are <XU>
+2 	 8 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 rates continuing <XU>
+2 	 10 	 S[b]\NP 	 1 	 rates rise <XU>
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 increase with
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 age with
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 continuing are
+9 	 8 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to continuing
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rise to
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 rise for
+10 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 rise with
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 groups for
+14 	 12 	 NP[nb]/N 	 1 	 groups all
+14 	 13 	 N/N 	 1 	 groups age
+14 	 15 	 (NP\NP)/NP 	 1 	 groups over
+16 	 15 	 (NP\NP)/NP 	 2 	 55 over
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 increases with
+20 	 19 	 N/N 	 1 	 increases sharp
+20 	 21 	 (NP\NP)/NP 	 1 	 increases for
+22 	 21 	 (NP\NP)/NP 	 2 	 everybody for
+25 	 21 	 (NP\NP)/NP 	 2 	 men for
+25 	 24 	 N/N 	 1 	 men white
+<\s>
+<s id="wsj_2017.13"> 34
+2 	 1 	 N/N 	 1 	 Fraumeni Dr.
+2 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 Fraumeni said
+4 	 5 	 (NP\NP)/NP 	 1 	 one of
+4 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 one said
+7 	 5 	 (NP\NP)/NP 	 2 	 authors of
+7 	 6 	 NP[nb]/N 	 1 	 authors the
+7 	 8 	 (NP\NP)/NP 	 1 	 authors of
+10 	 8 	 (NP\NP)/NP 	 2 	 report of
+10 	 9 	 NP[nb]/N 	 1 	 report the
+12 	 0 	 S/S 	 1 	 said But
+15 	 13 	 NP[nb]/N 	 1 	 rates the
+15 	 14 	 N/N 	 1 	 rates declining
+15 	 18 	 (S[ng]\NP)/NP 	 2 	 rates seeing <XU>
+15 	 23 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 2 	 rates believe
+15 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rates may <XU>
+15 	 25 	 (S[b]\NP)/NP 	 1 	 rates be <XU>
+16 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 we 're
+16 	 18 	 (S[ng]\NP)/NP 	 1 	 we seeing <XB>
+18 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 seeing 're
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 seeing for
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 people for
+21 	 20 	 N/N 	 1 	 people younger
+22 	 23 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 1 	 we believe
+23 	 12 	 (S[dcl]\NP)/S[dcl] 	 2 	 believe said
+24 	 23 	 ((S[dcl]\NP)/NP)/(S[dcl]\NP) 	 3 	 may believe
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+27 	 25 	 (S[b]\NP)/NP 	 2 	 harbinger be
+27 	 26 	 NP[nb]/N 	 1 	 harbinger a
+27 	 28 	 (NP\NP)/NP 	 1 	 harbinger of
+30 	 28 	 (NP\NP)/NP 	 2 	 mortality of
+30 	 29 	 N/N 	 1 	 mortality declining
+30 	 31 	 (NP\NP)/NP 	 1 	 mortality in
+33 	 31 	 (NP\NP)/NP 	 2 	 future in
+33 	 32 	 NP[nb]/N 	 1 	 future the
+<\s>
+<s id="wsj_2017.14"> 14
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 he stressed
+3 	 0 	 S/S 	 1 	 stressed However
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that stressed
+6 	 5 	 NP[nb]/N 	 1 	 improvement the
+6 	 7 	 S[dcl]\NP 	 1 	 improvement depends
+7 	 4 	 S[em]/S[dcl] 	 1 	 depends that
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 depends on
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 reduction on
+11 	 9 	 NP[nb]/N 	 1 	 reduction a
+11 	 10 	 N/N 	 1 	 reduction continued
+11 	 12 	 (NP\NP)/NP 	 1 	 reduction in
+13 	 12 	 (NP\NP)/NP 	 2 	 smoking in
+<\s>
+<s id="wsj_2017.15"> 26
+1 	 0 	 (S/S)/(S/S) 	 2 	 though Even
+4 	 2 	 NP[nb]/N 	 1 	 trends these
+4 	 3 	 N/N 	 1 	 trends favorable
+4 	 5 	 (NP\NP)/NP 	 1 	 trends in
+4 	 8 	 (S[dcl]\NP)/NP 	 1 	 trends affect
+7 	 5 	 (NP\NP)/NP 	 2 	 mortality in
+7 	 6 	 N/N 	 1 	 mortality lung-cancer
+8 	 1 	 (S/S)/S[dcl] 	 2 	 affect though
+13 	 8 	 (S[dcl]\NP)/NP 	 2 	 groups affect
+13 	 9 	 NP[nb]/N 	 1 	 groups all
+13 	 10 	 N/N 	 1 	 groups sex
+13 	 12 	 N/N 	 1 	 groups race
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they ca
+15 	 19 	 (S[pss]\NP)/PP 	 1 	 they taken <XB>
+16 	 1 	 (S/S)/S[dcl] 	 1 	 ca though
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 ca n't
+16 	 25 	 (S[dcl]\S[dcl])\NP 	 1 	 ca says
+18 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be ca
+19 	 18 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 taken be
+20 	 19 	 (S[pss]\NP)/PP 	 2 	 for taken
+21 	 20 	 PP/(S[adj]\NP) 	 1 	 granted for
+24 	 23 	 NP[nb]/N 	 1 	 report the
+24 	 25 	 (S[dcl]\S[dcl])\NP 	 2 	 report says
+<\s>
+<s id="wsj_2017.16"> 17
+2 	 0 	 N/N 	 1 	 programs Smoking
+2 	 1 	 N/N 	 1 	 programs prevention
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 programs should
+2 	 4 	 (S[b]\NP)/NP 	 1 	 programs reach <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reach should
+6 	 4 	 (S[b]\NP)/NP 	 2 	 segments reach
+6 	 5 	 N/N 	 1 	 segments larger
+6 	 7 	 (NP\NP)/NP 	 1 	 segments of
+9 	 7 	 (NP\NP)/NP 	 2 	 population of
+9 	 8 	 NP[nb]/N 	 1 	 population the
+14 	 4 	 (S[b]\NP)/NP 	 2 	 adolescents reach
+14 	 11 	 N/N 	 1 	 adolescents especially
+14 	 12 	 N/N 	 1 	 adolescents children
+16 	 4 	 (S[b]\NP)/NP 	 2 	 minorities reach
+16 	 11 	 N/N 	 1 	 minorities especially
+16 	 12 	 N/N 	 1 	 minorities children
+<\s>
+<s id="wsj_2017.17"> 55
+1 	 0 	 NP[nb]/N 	 1 	 editorial An
+1 	 2 	 (NP\NP)/NP 	 1 	 editorial in
+1 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 editorial says
+5 	 2 	 (NP\NP)/NP 	 2 	 Journal in
+5 	 3 	 NP[nb]/N 	 1 	 Journal the
+5 	 4 	 N/N 	 1 	 Journal NCI
+8 	 7 	 NP[nb]/N 	 1 	 report the
+8 	 9 	 (NP\NP)/NP 	 1 	 report of
+8 	 21 	 (S[dcl]\NP)/S[em] 	 1 	 report indicates
+12 	 9 	 (NP\NP)/NP 	 2 	 mortality of
+12 	 10 	 N/N 	 1 	 mortality declining
+12 	 11 	 N/N 	 1 	 mortality lung-cancer
+12 	 13 	 (NP\NP)/NP 	 1 	 mortality among
+15 	 13 	 (NP\NP)/NP 	 2 	 men among
+15 	 14 	 N/N 	 1 	 men young
+15 	 18 	 (NP\NP)/NP 	 1 	 men in
+17 	 13 	 (NP\NP)/NP 	 2 	 women among
+17 	 14 	 N/N 	 1 	 women young
+17 	 18 	 (NP\NP)/NP 	 1 	 women in
+20 	 18 	 (NP\NP)/NP 	 2 	 U.S. in
+20 	 19 	 NP[nb]/N 	 1 	 U.S. the
+21 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 indicates says
+22 	 21 	 (S[dcl]\NP)/S[em] 	 2 	 that indicates
+23 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 we may
+23 	 27 	 (S[ng]\NP)/NP 	 1 	 we winning <XB>
+25 	 22 	 S[em]/S[dcl] 	 1 	 may that
+25 	 24 	 (S\NP)/(S\NP) 	 2 	 may finally
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+27 	 26 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 winning be
+27 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 winning --
+29 	 27 	 (S[ng]\NP)/NP 	 2 	 battle winning
+29 	 28 	 NP[nb]/N 	 1 	 battle the
+31 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 this --
+31 	 33 	 (NP\NP)/NP 	 1 	 this in
+33 	 32 	 (NP\NP)/(NP\NP) 	 2 	 in even
+35 	 33 	 (NP\NP)/NP 	 2 	 country in
+35 	 34 	 NP[nb]/N 	 1 	 country a
+35 	 36 	 (NP\NP)/S[dcl] 	 1 	 country where
+39 	 37 	 NP[nb]/N 	 1 	 industry the
+39 	 38 	 N/N 	 1 	 industry tobacco
+39 	 40 	 (S[dcl]\NP)/NP 	 1 	 industry spends
+40 	 36 	 (NP\NP)/S[dcl] 	 2 	 spends where
+40 	 47 	 ((S\NP)\(S\NP))/NP 	 2 	 spends for
+42 	 40 	 (S[dcl]\NP)/NP 	 2 	 $ spends
+42 	 41 	 N/N 	 1 	 $ over
+42 	 45 	 (NP\NP)/N 	 1 	 $ a
+44 	 42 	 N/N[num] 	 1 	 billion $
+44 	 43 	 N/N 	 1 	 billion 2
+46 	 45 	 (NP\NP)/N 	 2 	 year a
+48 	 47 	 ((S\NP)\(S\NP))/NP 	 3 	 promotion for
+48 	 49 	 (NP\NP)/NP 	 1 	 promotion of
+52 	 49 	 (NP\NP)/NP 	 2 	 habit of
+52 	 50 	 NP[nb]/N 	 1 	 habit the
+52 	 51 	 N/N 	 1 	 habit addictive
+52 	 53 	 (NP\NP)/NP 	 1 	 habit of
+54 	 53 	 (NP\NP)/NP 	 2 	 smoking of
+<\s>
+<s id="wsj_2017.18"> 26
+2 	 1 	 NP[nb]/N 	 1 	 editorial the
+2 	 4 	 (NP\NP)/NP 	 1 	 editorial by
+2 	 13 	 (S[dcl]\NP)/S[em] 	 1 	 editorial notes
+6 	 4 	 (NP\NP)/NP 	 2 	 Stjernsward by
+6 	 5 	 N/N 	 1 	 Stjernsward Jan
+6 	 7 	 (NP\NP)/NP 	 1 	 Stjernsward of
+11 	 7 	 (NP\NP)/NP 	 2 	 Organization of
+11 	 8 	 NP[nb]/N 	 1 	 Organization the
+11 	 9 	 N/N 	 1 	 Organization World
+11 	 10 	 N/N 	 1 	 Organization Health
+13 	 0 	 S/S 	 1 	 notes But
+14 	 13 	 (S[dcl]\NP)/S[em] 	 2 	 that notes
+20 	 15 	 N/N 	 1 	 rates tobacco
+20 	 16 	 N/N 	 1 	 rates consumption
+20 	 18 	 N/N 	 1 	 rates lung-cancer
+20 	 19 	 N/N 	 1 	 rates mortality
+20 	 21 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 rates are
+20 	 22 	 S[ng]\NP 	 1 	 rates rising <XB>
+21 	 14 	 S[em]/S[dcl] 	 1 	 are that
+22 	 21 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 rising are
+22 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 rising in
+25 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 countries in
+25 	 24 	 N/N 	 1 	 countries developing
+<\s>
+<s id="wsj_2017.19"> 34
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Non-smoking should
+0 	 3 	 (S[pss]\NP)/PP 	 1 	 Non-smoking established <XB>
+1 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 should through
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be should
+3 	 2 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 established be
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 as established
+6 	 4 	 PP/NP 	 1 	 norm as
+6 	 5 	 NP[nb]/N 	 1 	 norm the
+6 	 7 	 (NP\NP)/NP 	 1 	 norm of
+6 	 10 	 (NP\NP)/NP 	 1 	 norm around
+9 	 7 	 (NP\NP)/NP 	 2 	 behavior of
+9 	 8 	 N/N 	 1 	 behavior social
+12 	 10 	 (NP\NP)/NP 	 2 	 world around
+12 	 11 	 NP[nb]/N 	 1 	 world the
+15 	 14 	 NP[nb]/N 	 1 	 editorial the
+15 	 16 	 (S[dcl]\NP)/S[dcl] 	 1 	 editorial says
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 enactment through
+20 	 19 	 NP[nb]/N 	 1 	 enactment the
+20 	 21 	 (NP\NP)/NP 	 1 	 enactment of
+22 	 21 	 (NP\NP)/NP 	 2 	 laws of
+22 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 laws that
+22 	 24 	 (S[dcl]\NP)/NP 	 1 	 laws limit <XB>
+22 	 27 	 (S[dcl]\NP)/NP 	 1 	 laws boost <XU>
+22 	 31 	 (S[dcl]\NP)/NP 	 1 	 laws promote <XU>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 limit that
+25 	 24 	 (S[dcl]\NP)/NP 	 2 	 advertising limit
+27 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 boost that
+29 	 27 	 (S[dcl]\NP)/NP 	 2 	 prices boost
+29 	 28 	 N/N 	 1 	 prices tobacco
+31 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 promote that
+33 	 31 	 (S[dcl]\NP)/NP 	 2 	 education promote
+33 	 32 	 N/N 	 1 	 education anti-smoking
+<\s>
+<s id="wsj_2017.20"> 34
+0 	 1 	 ((S\NP)\(S\NP))/NP 	 2 	 Asked for
+2 	 1 	 ((S\NP)\(S\NP))/NP 	 3 	 comment for
+5 	 4 	 N/N 	 1 	 Merryman Walker
+5 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 Merryman said
+9 	 7 	 NP[nb]/N 	 1 	 president a
+9 	 8 	 N/N 	 1 	 president vice
+9 	 10 	 (NP\NP)/NP 	 1 	 president of
+9 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 president said
+13 	 10 	 (NP\NP)/NP 	 2 	 Institute of
+13 	 11 	 NP[nb]/N 	 1 	 Institute the
+13 	 12 	 N/N 	 1 	 Institute Tobacco
+17 	 16 	 N/N 	 1 	 efforts new
+17 	 19 	 (S[b]\NP)/NP 	 1 	 efforts restrict <XB>
+17 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 efforts could
+17 	 26 	 (S[b]\NP)/NP 	 1 	 efforts violate <XB>
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 restrict to
+19 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 restrict in
+21 	 19 	 (S[b]\NP)/NP 	 2 	 advertising restrict
+21 	 20 	 N/N 	 1 	 advertising tobacco
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. in
+24 	 23 	 NP[nb]/N 	 1 	 U.S. the
+25 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 could said
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 violate could
+30 	 26 	 (S[b]\NP)/NP 	 2 	 protection violate
+30 	 27 	 NP[nb]/N 	 1 	 protection the
+30 	 28 	 N/N 	 1 	 protection First
+30 	 29 	 N/N 	 1 	 protection Amendment
+30 	 31 	 (NP\NP)/NP 	 1 	 protection of
+33 	 31 	 (NP\NP)/NP 	 2 	 speech of
+33 	 32 	 N/N 	 1 	 speech free
+<\s>
+<s id="wsj_2017.21"> 24
+1 	 0 	 (S/S)/PP 	 2 	 to According
+5 	 1 	 PP/NP 	 1 	 Society to
+5 	 2 	 NP[nb]/N 	 1 	 Society the
+5 	 3 	 N/N 	 1 	 Society American
+5 	 4 	 N/N 	 1 	 Society Cancer
+7 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 smoking is
+7 	 9 	 (S[adj]\NP)/PP 	 1 	 smoking responsible <XB>
+8 	 0 	 (S/S)/PP 	 1 	 is According
+9 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 responsible is
+10 	 9 	 (S[adj]\NP)/PP 	 2 	 for responsible
+12 	 10 	 PP/NP 	 1 	 % for
+12 	 11 	 N/N 	 1 	 % 85
+12 	 13 	 (NP\NP)/NP 	 1 	 % of
+16 	 13 	 (NP\NP)/NP 	 2 	 cases of
+16 	 14 	 NP[nb]/N 	 1 	 cases the
+16 	 15 	 N/N 	 1 	 cases lung-cancer
+16 	 17 	 (NP\NP)/NP 	 1 	 cases among
+18 	 17 	 (NP\NP)/NP 	 2 	 men among
+21 	 10 	 PP/NP 	 1 	 % for
+21 	 20 	 N/N 	 1 	 % 75
+21 	 22 	 (NP\NP)/NP 	 1 	 % among
+23 	 22 	 (NP\NP)/NP 	 2 	 women among
+<\s>
+<s id="wsj_2017.22"> 15
+2 	 0 	 NP[nb]/N 	 1 	 report The
+2 	 1 	 N/N 	 1 	 report NCI
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 report attributes
+5 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 differences attributes
+5 	 4 	 NP[nb]/N 	 1 	 differences the
+5 	 6 	 (NP\NP)/NP 	 1 	 differences in
+5 	 9 	 (NP\NP)/NP 	 1 	 differences by
+8 	 6 	 (NP\NP)/NP 	 2 	 rates in
+8 	 7 	 N/N 	 1 	 rates mortality
+10 	 9 	 (NP\NP)/NP 	 2 	 race by
+11 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to attributes
+14 	 11 	 PP/NP 	 1 	 patterns to
+14 	 12 	 N/N 	 1 	 patterns different
+14 	 13 	 N/N 	 1 	 patterns smoking
+<\s>
+<s id="wsj_2017.23"> 10
+2 	 0 	 NP[nb]/N 	 1 	 proportion A
+2 	 1 	 N/N 	 1 	 proportion higher
+2 	 3 	 (NP\NP)/NP 	 1 	 proportion of
+2 	 6 	 S[dcl]\NP 	 1 	 proportion smoke
+5 	 3 	 (NP\NP)/NP 	 2 	 men of
+5 	 4 	 N/N 	 1 	 men black
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 smoke than
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 men than
+9 	 8 	 N/N 	 1 	 men white
+<\s>
+<s id="wsj_2017.24"> 23
+2 	 1 	 (N/N)/(N/N) 	 2 	 equal nearly
+3 	 2 	 N/N 	 1 	 percentages equal
+3 	 4 	 (NP\NP)/NP 	 1 	 percentages of
+3 	 10 	 S[dcl]\NP 	 1 	 percentages smoke
+8 	 4 	 (NP\NP)/NP 	 2 	 women of
+8 	 5 	 N/N 	 1 	 women black
+8 	 7 	 N/N 	 1 	 women white
+10 	 0 	 (S/S)/S[dcl] 	 2 	 smoke While
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 smoke currently
+14 	 12 	 (S/S)/NP 	 2 	 sexes in
+14 	 13 	 NP[nb]/N 	 1 	 sexes both
+16 	 15 	 N/N 	 1 	 whites more
+16 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 whites have
+16 	 18 	 (S[pt]\NP)/NP 	 1 	 whites given <XB>
+17 	 0 	 (S/S)/S[dcl] 	 1 	 have While
+17 	 12 	 (S/S)/NP 	 1 	 have in
+18 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 given have
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 given up
+18 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 given than
+20 	 18 	 (S[pt]\NP)/NP 	 2 	 smoking given
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 blacks than
+<\s>
+<s id="wsj_2017.25"> 20
+1 	 0 	 (S/S)/(S[ng]\NP) 	 2 	 comparing In
+2 	 1 	 (S[ng]\NP)/NP 	 2 	 changes comparing
+2 	 3 	 (NP\NP)/NP 	 1 	 changes in
+2 	 6 	 (NP\NP)/NP 	 1 	 changes over
+5 	 3 	 (NP\NP)/NP 	 2 	 rates in
+5 	 4 	 N/N 	 1 	 rates mortality
+9 	 6 	 (NP\NP)/NP 	 2 	 decade over
+9 	 7 	 NP[nb]/N 	 1 	 decade the
+9 	 8 	 N/N 	 1 	 decade past
+13 	 11 	 NP[nb]/N 	 1 	 study the
+13 	 12 	 N/N 	 1 	 study NCI
+13 	 14 	 (S[dcl]\NP)/PP 	 1 	 study looked
+14 	 0 	 (S/S)/(S[ng]\NP) 	 1 	 looked In
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 looked only
+16 	 14 	 (S[dcl]\NP)/PP 	 2 	 at looked
+17 	 16 	 PP/NP 	 1 	 blacks at
+19 	 16 	 PP/NP 	 1 	 whites at
+<\s>
+<s id="wsj_2017.26"> 13
+0 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Asians were
+0 	 6 	 S[pss]\NP 	 1 	 Asians studied <XB>
+3 	 2 	 N/N 	 1 	 Americans native
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Americans were
+3 	 6 	 S[pss]\NP 	 1 	 Americans studied <XB>
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 were n't
+6 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 studied were
+8 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Hispanics were
+8 	 10 	 (S[pss]\NP)/PP 	 1 	 Hispanics included <XB>
+10 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 included were
+11 	 10 	 (S[pss]\NP)/PP 	 2 	 with included
+12 	 11 	 PP/NP 	 1 	 whites with
+<\s>
+<s id="wsj_2017.27"> 15
+1 	 0 	 N/N 	 1 	 changes Recent
+1 	 2 	 (NP\NP)/NP 	 1 	 changes in
+7 	 2 	 (NP\NP)/NP 	 2 	 rates in
+7 	 3 	 N/N 	 1 	 rates average
+7 	 4 	 N/N 	 1 	 rates annual
+7 	 5 	 N/N 	 1 	 rates age-specific
+7 	 6 	 N/N 	 1 	 rates lung-cancer
+7 	 8 	 (NP\NP)/NP 	 1 	 rates per
+7 	 11 	 (NP\NP)/NP 	 1 	 rates by
+10 	 8 	 (NP\NP)/NP 	 2 	 population per
+10 	 9 	 N/N 	 1 	 population 100,000
+12 	 11 	 (NP\NP)/NP 	 2 	 race by
+14 	 11 	 (NP\NP)/NP 	 2 	 sex by
+<\s>
+<s id="wsj_2017.28"> 1
+1 	 0 	 N/N 	 1 	 Males White
+<\s>
+<s id="wsj_2017.29"> 1
+1 	 0 	 N/N 	 1 	 Females White
+<\s>
+<s id="wsj_2017.30"> 1
+1 	 0 	 N/N 	 1 	 Males Black
+<\s>
+<s id="wsj_2017.31"> 1
+1 	 0 	 N/N 	 1 	 Females Black
+<\s>

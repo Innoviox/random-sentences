@@ -1,0 +1,3051 @@
+<s id="wsj_1875.1"> 5
+2 	 0 	 NP[nb]/N 	 1 	 Wall The
+2 	 1 	 N/N 	 1 	 Wall Berlin
+2 	 4 	 S[dcl]\NP 	 1 	 Wall stands
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 stands still
+<\s>
+<s id="wsj_1875.2"> 8
+2 	 1 	 NP[nb]/N 	 1 	 man the
+2 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 man who
+2 	 4 	 (S[dcl]\NP)/NP 	 1 	 man built <XB>
+2 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 man has
+2 	 7 	 S[pt]\NP 	 1 	 man fallen <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 built who
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 it built
+6 	 0 	 S/S 	 1 	 has But
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 fallen has
+<\s>
+<s id="wsj_1875.3"> 34
+1 	 0 	 N/N 	 1 	 Germany East
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 Germany removed
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 removed yesterday
+3 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 removed in
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 Honecker removed
+5 	 4 	 N/N 	 1 	 Honecker Erich
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 one removed
+7 	 8 	 (NP\NP)/NP 	 1 	 one of
+11 	 8 	 (NP\NP)/NP 	 2 	 holdouts of
+11 	 9 	 NP[nb]/N 	 1 	 holdouts the
+11 	 10 	 N/N 	 1 	 holdouts staunchest
+11 	 12 	 (NP\NP)/NP 	 1 	 holdouts against
+14 	 12 	 (NP\NP)/NP 	 2 	 reform against
+14 	 13 	 NP[nb]/N 	 1 	 reform the
+14 	 15 	 S[ng]\NP 	 1 	 reform rumbling <XB>
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 rumbling through
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 world through
+19 	 17 	 NP[nb]/N 	 1 	 world the
+19 	 18 	 N/N 	 1 	 world Communist
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 effort in
+23 	 22 	 NP[nb]/N 	 1 	 effort an
+23 	 25 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 1 	 effort win <XB>
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 win to
+26 	 25 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 3 	 back win
+28 	 25 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 2 	 confidence win
+28 	 26 	 S[adj]\NP 	 1 	 confidence back <XB>
+28 	 27 	 NP[nb]/N 	 1 	 confidence the
+28 	 29 	 (NP\NP)/NP 	 1 	 confidence of
+32 	 31 	 (N/N)/(N/N) 	 2 	 rebellious increasingly
+33 	 29 	 (NP\NP)/NP 	 2 	 citizens of
+33 	 30 	 NP[nb]/N 	 1 	 citizens its
+33 	 32 	 N/N 	 1 	 citizens rebellious
+<\s>
+<s id="wsj_1875.4"> 25
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 it was
+3 	 1 	 (S/S)/S[dcl] 	 2 	 was while
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 move was
+5 	 4 	 NP[nb]/N 	 1 	 move a
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 move that
+5 	 7 	 (S[dcl]\NP)/NP 	 1 	 move stunned <XB>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 stunned that
+10 	 7 	 (S[dcl]\NP)/NP 	 2 	 bloc stunned
+10 	 8 	 NP[nb]/N 	 1 	 bloc the
+10 	 9 	 N/N 	 1 	 bloc East
+12 	 14 	 ((S[dcl]\NP)/NP)/(S[adj]\NP) 	 1 	 it ushers
+12 	 24 	 S[adj]\NP 	 1 	 it soon <XB>
+14 	 0 	 S/S 	 1 	 ushers But
+14 	 1 	 (S/S)/S[dcl] 	 1 	 ushers while
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 ushers hardly
+14 	 20 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 2 	 ushers --
+15 	 14 	 ((S[dcl]\NP)/NP)/(S[adj]\NP) 	 3 	 in ushers
+17 	 14 	 ((S[dcl]\NP)/NP)/(S[adj]\NP) 	 2 	 era ushers
+17 	 15 	 S[adj]\NP 	 1 	 era in <XB>
+17 	 16 	 NP[nb]/N 	 1 	 era an
+17 	 18 	 (NP\NP)/NP 	 1 	 era of
+19 	 18 	 (NP\NP)/NP 	 2 	 reform of
+22 	 21 	 ((S[adj]\NP)/(S[adj]\NP))/(S[asup]\NP) 	 3 	 least at
+24 	 20 	 ((S\NP)\(S\NP))/(S[adj]\NP) 	 3 	 soon --
+24 	 21 	 ((S[adj]\NP)/(S[adj]\NP))/(S[asup]\NP) 	 2 	 soon at
+24 	 23 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 soon anytime
+<\s>
+<s id="wsj_1875.5"> 45
+2 	 1 	 NP[nb]/N 	 1 	 Politburo the
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Politburo replaced
+3 	 0 	 S/S 	 1 	 replaced For
+5 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Honecker replaced
+5 	 4 	 N/N 	 1 	 Honecker Mr.
+5 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Honecker who
+5 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Honecker had <XB>
+5 	 9 	 (S[pt]\NP)/NP 	 1 	 Honecker led <XB>
+5 	 18 	 (S[pt]\NP)/NP 	 1 	 Honecker headed <XU>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had who
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 led had
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 led for
+11 	 9 	 (S[pt]\NP)/NP 	 2 	 Germany led
+11 	 10 	 N/N 	 1 	 Germany East
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+14 	 13 	 N/N 	 1 	 years 18
+17 	 16 	 ((S\NP)/(S\NP))/NP 	 3 	 that before
+18 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 headed had
+18 	 16 	 ((S\NP)/(S\NP))/NP 	 2 	 headed before
+21 	 18 	 (S[pt]\NP)/NP 	 2 	 apparatus headed
+21 	 19 	 NP[nb]/N 	 1 	 apparatus its
+21 	 20 	 N/N 	 1 	 apparatus security
+23 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 with replaced
+25 	 23 	 PP/NP 	 1 	 man with
+25 	 24 	 NP[nb]/N 	 1 	 man a
+25 	 26 	 (S[pss]\NP)/PP 	 1 	 man cut <XB>
+25 	 31 	 (NP\NP)/NP 	 1 	 man :
+27 	 26 	 (S[pss]\NP)/PP 	 2 	 of cut
+30 	 27 	 PP/NP 	 1 	 cloth of
+30 	 28 	 NP[nb]/N 	 1 	 cloth the
+30 	 29 	 N/N 	 1 	 cloth same
+33 	 31 	 (NP\NP)/NP 	 2 	 Krenz :
+33 	 32 	 N/N 	 1 	 Krenz Egon
+37 	 36 	 (N/N)/(N/N) 	 2 	 recent most
+39 	 31 	 (NP\NP)/NP 	 2 	 chief :
+39 	 35 	 NP[nb]/N 	 1 	 chief the
+39 	 37 	 N/N 	 1 	 chief recent
+39 	 38 	 N/N 	 1 	 chief internal-security
+44 	 31 	 (NP\NP)/NP 	 2 	 protege :
+44 	 41 	 NP[nb]/N 	 1 	 protege a
+44 	 42 	 N/N 	 1 	 protege longtime
+44 	 43 	 N/N 	 1 	 protege Honecker
+<\s>
+<s id="wsj_1875.6"> 24
+1 	 0 	 N/N 	 1 	 Germany East
+1 	 7 	 (S[dcl]\NP)/NP 	 1 	 Germany is
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it is
+3 	 5 	 (S[adj]\NP)/S[dcl] 	 1 	 it clear <XB>
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 clear is
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 Poland is
+9 	 8 	 NP[nb]/N 	 1 	 Poland no
+9 	 11 	 (NP\NP)/S[dcl] 	 1 	 Poland where
+14 	 12 	 NP[nb]/N 	 1 	 Party the
+14 	 13 	 N/N 	 1 	 Party Communist
+14 	 16 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Party shares
+16 	 11 	 (NP\NP)/S[dcl] 	 2 	 shares where
+16 	 15 	 (S\NP)/(S\NP) 	 2 	 shares now
+17 	 16 	 ((S[dcl]\NP)/PP)/NP 	 3 	 power shares
+18 	 16 	 ((S[dcl]\NP)/PP)/NP 	 2 	 with shares
+21 	 20 	 (N/N)/(N/N) 	 2 	 elected democratically
+23 	 18 	 PP/NP 	 1 	 union with
+23 	 19 	 NP[nb]/N 	 1 	 union the
+23 	 21 	 N/N 	 1 	 union elected
+23 	 22 	 N/N 	 1 	 union Solidarity
+<\s>
+<s id="wsj_1875.7"> 24
+1 	 0 	 S/S 	 1 	 is Nor
+2 	 1 	 (S[dcl]/NP)/NP 	 2 	 it is
+4 	 1 	 (S[dcl]/NP)/NP 	 1 	 Hungary is
+4 	 3 	 NP[nb]/N 	 1 	 Hungary a
+4 	 6 	 (NP\NP)/S[dcl] 	 1 	 Hungary where
+9 	 8 	 NP[nb]/N 	 1 	 parliament the
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 parliament approved
+10 	 6 	 (NP\NP)/S[dcl] 	 2 	 approved where
+10 	 7 	 S/S 	 1 	 approved yesterday
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 changes approved
+12 	 11 	 N/N 	 1 	 changes constitutional
+12 	 13 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 changes meant <XB>
+12 	 15 	 (S[b]\NP)/(S[b]\NP) 	 1 	 changes help <XB>
+12 	 16 	 ((S[b]\NP)/PP)/NP 	 1 	 changes turn <XB>
+14 	 13 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to meant
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 help to
+16 	 15 	 (S[b]\NP)/(S[b]\NP) 	 2 	 turn help
+19 	 16 	 ((S[b]\NP)/PP)/NP 	 3 	 nation turn
+19 	 17 	 NP[nb]/N 	 1 	 nation the
+19 	 18 	 N/N 	 1 	 nation Communist
+20 	 16 	 ((S[b]\NP)/PP)/NP 	 2 	 into turn
+23 	 20 	 PP/NP 	 1 	 democracy into
+23 	 21 	 NP[nb]/N 	 1 	 democracy a
+23 	 22 	 N/N 	 1 	 democracy multiparty
+<\s>
+<s id="wsj_1875.8"> 16
+3 	 2 	 NP[nb]/N 	 1 	 change any
+3 	 4 	 (NP\NP)/NP 	 1 	 change in
+3 	 7 	 (S[dcl]\NP)/NP 	 1 	 change has
+6 	 4 	 (NP\NP)/NP 	 2 	 Germany in
+6 	 5 	 N/N 	 1 	 Germany East
+7 	 0 	 S/S 	 1 	 has Still
+7 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 has for
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 implications has
+9 	 8 	 N/N 	 1 	 implications enormous
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 East for
+13 	 12 	 NP[nb]/N 	 1 	 East both
+15 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 West for
+15 	 12 	 NP[nb]/N 	 1 	 West both
+<\s>
+<s id="wsj_1875.9"> 26
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It raises
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 hopes raises
+4 	 2 	 NP[nb]/N 	 1 	 hopes the
+4 	 3 	 N/N 	 1 	 hopes long-cherished
+4 	 5 	 (NP\NP)/NP 	 1 	 hopes of
+4 	 8 	 (NP\NP)/NP 	 1 	 hopes for
+7 	 5 	 (NP\NP)/NP 	 2 	 Germans of
+7 	 6 	 N/N 	 1 	 Germans many
+9 	 8 	 (NP\NP)/NP 	 2 	 reunification for
+9 	 10 	 (NP\NP)/NP 	 1 	 reunification --
+12 	 10 	 (NP\NP)/NP 	 2 	 prospect --
+12 	 11 	 NP[nb]/N 	 1 	 prospect a
+12 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 prospect that
+12 	 16 	 (S[dcl]\NP)/NP 	 1 	 prospect alarms <XB>
+15 	 14 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 equally almost
+16 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 alarms that
+16 	 15 	 (S\NP)/(S\NP) 	 2 	 alarms equally
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 leaders alarms
+18 	 17 	 N/N 	 1 	 leaders political
+18 	 19 	 (NP\NP)/NP 	 1 	 leaders in
+20 	 19 	 (NP\NP)/NP 	 2 	 Moscow in
+22 	 19 	 (NP\NP)/NP 	 2 	 Washington in
+25 	 19 	 (NP\NP)/NP 	 2 	 Europe in
+25 	 24 	 N/N 	 1 	 Europe Western
+<\s>
+<s id="wsj_1875.10"> 24
+1 	 0 	 N/N 	 1 	 Krenz Mr.
+1 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Krenz was
+1 	 6 	 (S[pss]\NP)/NP 	 1 	 Krenz named <XB>
+3 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 52 was
+3 	 6 	 (S[pss]\NP)/NP 	 1 	 52 named <XB>
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+6 	 13 	 (((S\NP)\(S\NP))\NP)/S[dcl] 	 2 	 named after
+10 	 6 	 (S[pss]\NP)/NP 	 2 	 chief named
+10 	 7 	 NP[nb]/N 	 1 	 chief the
+10 	 8 	 N/N 	 1 	 chief new
+10 	 9 	 N/N 	 1 	 chief party
+12 	 11 	 N/N 	 1 	 minutes just
+12 	 13 	 (((S\NP)\(S\NP))\NP)/S[dcl] 	 3 	 minutes after
+15 	 14 	 NP[nb]/N 	 1 	 Party the
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Party 's
+19 	 16 	 (NP[nb]/N)\NP 	 1 	 Committee 's
+19 	 17 	 N/N 	 1 	 Committee 163-member
+19 	 18 	 N/N 	 1 	 Committee Central
+19 	 20 	 S[dcl]\NP 	 1 	 Committee convened
+20 	 13 	 (((S\NP)\(S\NP))\NP)/S[dcl] 	 4 	 convened after
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 convened in
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 Berlin in
+23 	 22 	 N/N 	 1 	 Berlin East
+<\s>
+<s id="wsj_1875.11"> 41
+3 	 2 	 (N/N)/(N/N) 	 2 	 German East
+6 	 1 	 NP[nb]/N 	 1 	 ADN the
+6 	 3 	 N/N 	 1 	 ADN German
+6 	 4 	 N/N 	 1 	 ADN news
+6 	 5 	 N/N 	 1 	 ADN agency
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 ADN claimed
+7 	 0 	 (S/S)/S[dcl] 	 2 	 claimed Although
+9 	 8 	 N/N 	 1 	 Honecker Mr.
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Honecker had
+9 	 11 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Honecker asked <XB>
+9 	 14 	 (S[pss]\NP)/PP 	 1 	 Honecker relieved <XB>
+10 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 had claimed
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 asked had
+12 	 11 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to asked
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+14 	 13 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 relieved be
+14 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 relieved for
+15 	 14 	 (S[pss]\NP)/PP 	 2 	 of relieved
+17 	 15 	 PP/NP 	 1 	 duties of
+17 	 16 	 NP[nb]/N 	 1 	 duties his
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 reasons for
+20 	 19 	 N/N 	 1 	 reasons health
+23 	 22 	 (N/N)/(N/N) 	 2 	 German West
+25 	 23 	 N/N 	 1 	 sources German
+25 	 24 	 N/N 	 1 	 sources government
+25 	 26 	 (S[dcl]\NP)/S[dcl] 	 1 	 sources said
+26 	 0 	 (S/S)/S[dcl] 	 1 	 said Although
+29 	 27 	 NP[nb]/N 	 1 	 Politburo the
+29 	 28 	 N/N 	 1 	 Politburo 26-man
+29 	 30 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Politburo had
+29 	 31 	 (S[pt]\NP)/PP 	 1 	 Politburo asked <XB>
+30 	 26 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+31 	 30 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 asked had
+31 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 asked at
+32 	 31 	 (S[pt]\NP)/PP 	 2 	 for asked
+34 	 32 	 PP/NP 	 1 	 resignation for
+34 	 33 	 NP[nb]/N 	 1 	 resignation his
+40 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 Tuesday at
+40 	 36 	 NP[nb]/N 	 1 	 Tuesday a
+40 	 37 	 N/N 	 1 	 Tuesday separate
+40 	 38 	 N/N 	 1 	 Tuesday meeting
+40 	 39 	 N/N 	 1 	 Tuesday late
+<\s>
+<s id="wsj_1875.12"> 29
+2 	 1 	 N/N 	 1 	 Honecker Mr.
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Honecker was
+2 	 5 	 S[pss]\NP 	 1 	 Honecker hospitalized <XB>
+5 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 hospitalized was
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 hospitalized twice
+5 	 6 	 ((S\NP)\(S\NP))/N 	 2 	 hospitalized this
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 hospitalized for
+7 	 6 	 ((S\NP)\(S\NP))/N 	 3 	 summer this
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 ailment for
+12 	 9 	 NP[nb]/N 	 1 	 ailment a
+12 	 10 	 N/N 	 1 	 ailment gall
+12 	 11 	 N/N 	 1 	 ailment bladder
+16 	 14 	 NP[nb]/N 	 1 	 condition his
+16 	 15 	 N/N 	 1 	 condition physical
+16 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 condition has
+16 	 18 	 (S[pt]\NP)/NP 	 1 	 condition been <XB>
+18 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+20 	 18 	 (S[pt]\NP)/NP 	 2 	 subject been
+20 	 19 	 NP[nb]/N 	 1 	 subject the
+20 	 21 	 (NP\NP)/NP 	 1 	 subject of
+23 	 21 	 (NP\NP)/NP 	 2 	 speculation of
+23 	 22 	 N/N 	 1 	 speculation intense
+23 	 24 	 (NP\NP)/NP 	 1 	 speculation in
+27 	 24 	 (NP\NP)/NP 	 2 	 media in
+27 	 25 	 NP[nb]/N 	 1 	 media the
+27 	 26 	 N/N 	 1 	 media Western
+<\s>
+<s id="wsj_1875.13"> 37
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 ADN said
+3 	 2 	 N/N 	 1 	 Honecker Mr.
+3 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Honecker was
+3 	 21 	 (S[pss]\NP)/PP 	 1 	 Honecker relieved <XB>
+7 	 5 	 NP[nb]/N 	 1 	 Stalinist a
+7 	 6 	 N/N 	 1 	 Stalinist hard-line
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Stalinist who
+7 	 11 	 (S[dcl]\NP)/NP 	 1 	 Stalinist supervised <XB>
+7 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Stalinist was
+7 	 21 	 (S[pss]\NP)/PP 	 1 	 Stalinist relieved <XB>
+10 	 9 	 ((S\NP)/(S\NP))/NP 	 3 	 1961 in
+11 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 supervised who
+11 	 9 	 ((S\NP)/(S\NP))/NP 	 2 	 supervised in
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 construction supervised
+13 	 12 	 NP[nb]/N 	 1 	 construction the
+13 	 14 	 (NP\NP)/NP 	 1 	 construction of
+17 	 14 	 (NP\NP)/NP 	 2 	 Wall of
+17 	 15 	 NP[nb]/N 	 1 	 Wall the
+17 	 16 	 N/N 	 1 	 Wall Berlin
+20 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+20 	 19 	 (S\NP)/(S\NP) 	 2 	 was also
+21 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 relieved was
+22 	 21 	 (S[pss]\NP)/PP 	 2 	 of relieved
+24 	 22 	 PP/NP 	 1 	 title of
+24 	 23 	 NP[nb]/N 	 1 	 title his
+24 	 25 	 (NP\NP)/NP 	 1 	 title as
+26 	 25 	 (NP\NP)/NP 	 2 	 head as
+26 	 27 	 (NP\NP)/NP 	 1 	 head of
+28 	 27 	 (NP\NP)/NP 	 2 	 state of
+31 	 22 	 PP/NP 	 1 	 position of
+31 	 30 	 NP[nb]/N 	 1 	 position his
+31 	 32 	 (NP\NP)/NP 	 1 	 position as
+33 	 32 	 (NP\NP)/NP 	 2 	 chief as
+33 	 34 	 (NP\NP)/NP 	 1 	 chief of
+36 	 34 	 (NP\NP)/NP 	 2 	 military of
+36 	 35 	 NP[nb]/N 	 1 	 military the
+<\s>
+<s id="wsj_1875.14"> 21
+1 	 0 	 N/N 	 1 	 Krenz Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Krenz is
+1 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Krenz expected <XB>
+1 	 7 	 (S[pss]\NP)/PP 	 1 	 Krenz named <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+4 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+7 	 5 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 named be
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 named formally
+7 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 named once
+8 	 7 	 (S[pss]\NP)/PP 	 2 	 to named
+11 	 8 	 PP/NP 	 1 	 positions to
+11 	 9 	 NP[nb]/N 	 1 	 positions all
+11 	 10 	 N/N 	 1 	 positions three
+14 	 13 	 NP[nb]/N 	 1 	 nation the
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 nation 's
+16 	 15 	 (NP[nb]/N)\NP 	 1 	 parliament 's
+16 	 17 	 S[dcl]\NP 	 1 	 parliament convenes
+17 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 convenes once
+17 	 19 	 ((S\NP)\(S\NP))/N 	 2 	 convenes this
+19 	 18 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 this later
+20 	 19 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+<\s>
+<s id="wsj_1875.15"> 35
+1 	 0 	 N/N 	 1 	 Honecker Mr.
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Honecker 's
+4 	 2 	 (NP[nb]/N)\NP 	 1 	 fall 's
+4 	 3 	 N/N 	 1 	 fall ignoble
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 fall culminates
+7 	 6 	 (N/N)/(N/N) 	 2 	 two nearly
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 decades culminates
+8 	 7 	 N/N 	 1 	 decades two
+8 	 9 	 (NP\NP)/NP 	 1 	 decades of
+8 	 13 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 decades which
+11 	 9 	 (NP\NP)/NP 	 2 	 leadership of
+11 	 10 	 N/N 	 1 	 leadership iron-handed
+12 	 13 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 during which
+15 	 14 	 N/N 	 1 	 Honecker Mr.
+15 	 20 	 (S[adj]\NP)\NP 	 1 	 Honecker old <XB>
+15 	 22 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Honecker built
+19 	 18 	 N/N 	 1 	 years 77
+19 	 20 	 (S[adj]\NP)\NP 	 2 	 years old
+20 	 17 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 old now
+22 	 13 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 built which
+24 	 22 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Germany built
+24 	 23 	 N/N 	 1 	 Germany East
+25 	 22 	 ((S[dcl]\NP)/PP)/NP 	 2 	 into built
+29 	 27 	 (N/N)/(N/N) 	 2 	 advanced most
+29 	 28 	 (N/N)/(N/N) 	 2 	 advanced economically
+30 	 25 	 PP/NP 	 1 	 nation into
+30 	 26 	 NP[nb]/N 	 1 	 nation the
+30 	 29 	 N/N 	 1 	 nation advanced
+30 	 31 	 (NP\NP)/NP 	 1 	 nation in
+34 	 31 	 (NP\NP)/NP 	 2 	 bloc in
+34 	 32 	 NP[nb]/N 	 1 	 bloc the
+34 	 33 	 N/N 	 1 	 bloc Soviet
+<\s>
+<s id="wsj_1875.16"> 25
+1 	 0 	 NP[nb]/N 	 1 	 grip His
+1 	 2 	 (NP\NP)/NP 	 1 	 grip on
+1 	 4 	 S[dcl]\NP 	 1 	 grip unraveled
+3 	 2 	 (NP\NP)/NP 	 2 	 power on
+4 	 5 	 ((S\NP)\(S\NP))/N 	 2 	 unraveled this
+4 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 unraveled as
+6 	 5 	 ((S\NP)\(S\NP))/N 	 3 	 summer this
+8 	 9 	 (NP\NP)/NP 	 1 	 thousands of
+8 	 13 	 S[pss]\NP 	 1 	 thousands dissatisfied <XB>
+8 	 21 	 S[dcl]\NP 	 1 	 thousands fled
+11 	 9 	 (NP\NP)/NP 	 2 	 countrymen of
+11 	 10 	 NP[nb]/N 	 1 	 countrymen his
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 dissatisfied by
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 harshness by
+16 	 15 	 NP[nb]/N 	 1 	 harshness the
+16 	 17 	 (NP\NP)/NP 	 1 	 harshness of
+19 	 17 	 (NP\NP)/NP 	 2 	 rule of
+19 	 18 	 NP[nb]/N 	 1 	 rule his
+21 	 7 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 fled as
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 fled to
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 West to
+24 	 23 	 NP[nb]/N 	 1 	 West the
+<\s>
+<s id="wsj_1875.17"> 27
+1 	 0 	 N/N 	 1 	 more Thousands
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 more have
+1 	 3 	 S[pt]\NP 	 1 	 more taken <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 taken have
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 taken to
+3 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 taken in
+3 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 taken in
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 streets to
+6 	 5 	 NP[nb]/N 	 1 	 streets the
+10 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 month in
+10 	 8 	 NP[nb]/N 	 1 	 month the
+10 	 9 	 N/N 	 1 	 month last
+13 	 12 	 N/N 	 1 	 Germany East
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 Germany 's
+16 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 wave in
+16 	 14 	 (NP[nb]/N)\NP 	 1 	 wave 's
+16 	 15 	 N/N 	 1 	 wave largest
+16 	 17 	 (NP\NP)/NP 	 1 	 wave of
+16 	 20 	 (NP\NP)/NP 	 1 	 wave since
+19 	 17 	 (NP\NP)/NP 	 2 	 unrest of
+19 	 18 	 N/N 	 1 	 unrest domestic
+22 	 21 	 NP[nb]/N 	 1 	 workers a
+22 	 23 	 (NP[nb]/N)\NP 	 2 	 workers '
+24 	 20 	 (NP\NP)/NP 	 2 	 uprising since
+24 	 23 	 (NP[nb]/N)\NP 	 1 	 uprising '
+24 	 25 	 (NP\NP)/NP 	 1 	 uprising in
+26 	 25 	 (NP\NP)/NP 	 2 	 1953 in
+<\s>
+<s id="wsj_1875.18"> 17
+1 	 0 	 (S/S)/NP 	 2 	 Washington In
+5 	 3 	 NP[nb]/N 	 1 	 administration the
+5 	 4 	 N/N 	 1 	 administration Bush
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 administration took
+6 	 0 	 (S/S)/NP 	 1 	 took In
+9 	 8 	 (N/N)/(N/N) 	 2 	 cautious characteristically
+11 	 8 	 (N/N)/(N/N) 	 2 	 skeptical characteristically
+12 	 6 	 (S[dcl]\NP)/NP 	 2 	 view took
+12 	 7 	 NP[nb]/N 	 1 	 view a
+12 	 9 	 N/N 	 1 	 view cautious <XU>
+12 	 11 	 N/N 	 1 	 view skeptical
+12 	 13 	 (NP\NP)/NP 	 1 	 view of
+16 	 13 	 (NP\NP)/NP 	 2 	 change of
+16 	 14 	 NP[nb]/N 	 1 	 change the
+16 	 15 	 N/N 	 1 	 change leadership
+<\s>
+<s id="wsj_1875.19"> 19
+2 	 0 	 NP[nb]/N 	 1 	 line The
+2 	 1 	 N/N 	 1 	 line official
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 line was
+2 	 5 	 ((S[b]\NP)/PP)/NP 	 1 	 line offer <XB>
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to was
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 offer to
+5 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 offer provided
+7 	 5 	 ((S[b]\NP)/PP)/NP 	 3 	 ties offer
+7 	 6 	 N/N 	 1 	 ties warmer
+8 	 5 	 ((S[b]\NP)/PP)/NP 	 2 	 to offer
+10 	 8 	 PP/NP 	 1 	 Krenz to
+10 	 9 	 N/N 	 1 	 Krenz Mr.
+13 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 he is
+13 	 15 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 he willing <XB>
+14 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is provided
+15 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 willing is
+16 	 15 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to willing
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 institute to
+18 	 17 	 (S[b]\NP)/NP 	 2 	 reforms institute
+<\s>
+<s id="wsj_1875.20"> 11
+2 	 1 	 N/N 	 1 	 officials U.S.
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 officials have
+3 	 0 	 S/S 	 1 	 have But
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 doubts have
+5 	 4 	 N/N 	 1 	 doubts strong
+6 	 5 	 N/S[em] 	 1 	 that doubts
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 he is
+8 	 6 	 S[em]/S[dcl] 	 1 	 is that
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 reformer is
+10 	 9 	 NP[nb]/N 	 1 	 reformer a
+<\s>
+<s id="wsj_1875.21"> 24
+1 	 0 	 N/N 	 1 	 Bush President
+1 	 2 	 ((S[dcl]\NP)/S[dcl])/NP 	 1 	 Bush told
+3 	 2 	 ((S[dcl]\NP)/S[dcl])/NP 	 3 	 reporters told
+6 	 7 	 (NP\NP)/NP 	 1 	 that -LCB-
+6 	 12 	 (S[dcl]\NP)/NP 	 1 	 that reflects
+10 	 7 	 (NP\NP)/NP 	 2 	 change -LCB-
+10 	 8 	 NP[nb]/N 	 1 	 change the
+10 	 9 	 N/N 	 1 	 change leadership
+12 	 5 	 (S/S)/S[dcl] 	 2 	 reflects Whether
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 change reflects
+14 	 13 	 NP[nb]/N 	 1 	 change a
+14 	 15 	 (NP\NP)/NP 	 1 	 change in
+17 	 15 	 (NP\NP)/NP 	 2 	 relations in
+17 	 16 	 N/N 	 1 	 relations East-West
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 I do
+19 	 22 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 I think <XB>
+19 	 23 	 S[adj]\NP 	 1 	 I so <XB>
+20 	 2 	 ((S[dcl]\NP)/S[dcl])/NP 	 2 	 do told
+20 	 5 	 (S/S)/S[dcl] 	 1 	 do Whether
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 do n't
+22 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 think do
+23 	 22 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 so think
+<\s>
+<s id="wsj_1875.22"> 14
+2 	 1 	 N/N 	 1 	 Krenz Mr.
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Krenz has
+2 	 4 	 (S[pt]\NP)/PP 	 1 	 Krenz been <XB>
+3 	 0 	 S/S[dcl] 	 1 	 has Because
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+6 	 5 	 (PP/PP)/(PP/PP) 	 2 	 much very
+7 	 4 	 (S[pt]\NP)/PP 	 2 	 in been
+7 	 6 	 PP/PP 	 1 	 in much
+8 	 7 	 PP/NP 	 1 	 accord in
+8 	 9 	 (NP\NP)/NP 	 1 	 accord with
+11 	 9 	 (NP\NP)/NP 	 2 	 policies with
+11 	 10 	 NP[nb]/N 	 1 	 policies the
+11 	 12 	 (NP\NP)/NP 	 1 	 policies of
+13 	 12 	 (NP\NP)/NP 	 2 	 Honecker of
+<\s>
+<s id="wsj_1875.23"> 27
+3 	 0 	 N/N 	 1 	 expert One
+3 	 1 	 N/N 	 1 	 expert top
+3 	 2 	 N/N 	 1 	 expert U.S.
+3 	 4 	 (NP\NP)/NP 	 1 	 expert on
+3 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 expert added
+6 	 4 	 (NP\NP)/NP 	 2 	 Germany on
+6 	 5 	 N/N 	 1 	 Germany East
+9 	 10 	 (S[dcl]\NP[thr])/NP 	 1 	 There is
+10 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 is added
+13 	 10 	 (S[dcl]\NP[thr])/NP 	 2 	 champion is
+13 	 11 	 NP[nb]/N 	 1 	 champion no
+13 	 12 	 N/N 	 1 	 champion clear-cut
+13 	 14 	 (NP\NP)/NP 	 1 	 champion of
+13 	 17 	 (NP\NP)/(S[dcl]/NP) 	 1 	 champion that
+13 	 20 	 PP/NP 	 1 	 champion of <XU>
+13 	 22 	 (NP\NP)/NP 	 1 	 champion in
+15 	 14 	 (NP\NP)/NP 	 2 	 reform of
+18 	 19 	 (S[dcl]\NP)/PP 	 1 	 we know
+19 	 17 	 (NP\NP)/(S[dcl]/NP) 	 2 	 know that
+20 	 19 	 (S[dcl]\NP)/PP 	 2 	 of know
+25 	 24 	 (N/N)/(N/N) 	 2 	 German East
+26 	 22 	 (NP\NP)/NP 	 2 	 leadership in
+26 	 23 	 NP[nb]/N 	 1 	 leadership the
+26 	 25 	 N/N 	 1 	 leadership German
+<\s>
+<s id="wsj_1875.24"> 22
+3 	 2 	 N/N 	 1 	 Krenz Mr.
+3 	 4 	 (S[dcl]\NP)/S[em] 	 1 	 Krenz said
+4 	 0 	 S/S 	 1 	 said Indeed
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 said on
+4 	 10 	 (S\NP)\(S\NP) 	 2 	 said night
+7 	 6 	 (N/N)/(N/N) 	 2 	 German East
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 television on
+8 	 7 	 N/N 	 1 	 television German
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 night last
+11 	 4 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+12 	 13 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 1 	 there will
+13 	 11 	 S[em]/S[dcl] 	 1 	 will that
+14 	 13 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 2 	 be will
+16 	 14 	 (S[b]\NP)/NP 	 2 	 sharing be
+16 	 15 	 NP[nb]/N 	 1 	 sharing no
+16 	 17 	 (NP\NP)/NP 	 1 	 sharing of
+16 	 19 	 (NP\NP)/NP 	 1 	 sharing with
+18 	 17 	 (NP\NP)/NP 	 2 	 power of
+21 	 19 	 (NP\NP)/NP 	 2 	 groups with
+21 	 20 	 N/N 	 1 	 groups pro-democracy
+<\s>
+<s id="wsj_1875.25"> 19
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 dialogue is
+4 	 6 	 S[adj]\NP 	 1 	 dialogue important <XB>
+5 	 3 	 (S/S)/S[dcl] 	 2 	 is while
+6 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 important is
+9 	 8 	 N/N 	 1 	 forums enough
+9 	 11 	 S[dcl]\NP 	 1 	 forums exist
+11 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 exist said
+11 	 3 	 (S/S)/S[dcl] 	 1 	 exist while
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 exist already
+11 	 13 	 (((S\NP)\(S\NP))/S[dcl])\((NP\NP)/NP) 	 2 	 exist which
+12 	 13 	 (((S\NP)\(S\NP))/S[dcl])\((NP\NP)/NP) 	 4 	 in which
+15 	 14 	 N/N 	 1 	 interests different
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 interests can
+15 	 17 	 (S[b]\NP)/NP 	 1 	 interests express <XB>
+16 	 13 	 (((S\NP)\(S\NP))/S[dcl])\((NP\NP)/NP) 	 3 	 can which
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 express can
+18 	 17 	 (S[b]\NP)/NP 	 2 	 themselves express
+<\s>
+<s id="wsj_1875.26"> 20
+1 	 0 	 NP[nb]/N 	 1 	 removal The
+1 	 2 	 (NP\NP)/NP 	 1 	 removal of
+1 	 5 	 (S[dcl]\NP)/NP 	 1 	 removal was
+4 	 2 	 (NP\NP)/NP 	 2 	 Honecker of
+4 	 3 	 N/N 	 1 	 Honecker Mr.
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 was apparently
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 result was
+8 	 7 	 NP[nb]/N 	 1 	 result the
+8 	 9 	 (NP\NP)/NP 	 1 	 result of
+11 	 9 	 (NP\NP)/NP 	 2 	 infighting of
+11 	 10 	 N/N 	 1 	 infighting bitter
+11 	 12 	 (NP\NP)/NP 	 1 	 infighting within
+15 	 12 	 (NP\NP)/NP 	 2 	 ranks within
+15 	 13 	 NP[nb]/N 	 1 	 ranks the
+15 	 14 	 N/N 	 1 	 ranks top
+15 	 16 	 (NP\NP)/NP 	 1 	 ranks of
+19 	 16 	 (NP\NP)/NP 	 2 	 party of
+19 	 17 	 NP[nb]/N 	 1 	 party the
+19 	 18 	 N/N 	 1 	 party Communist
+<\s>
+<s id="wsj_1875.27"> 27
+1 	 0 	 (S/S)/PP 	 2 	 to According
+3 	 2 	 (N/N)/(N/N) 	 2 	 German West
+5 	 1 	 PP/NP 	 1 	 sources to
+5 	 3 	 N/N 	 1 	 sources German
+5 	 4 	 N/N 	 1 	 sources government
+8 	 7 	 N/N 	 1 	 Honecker Mr.
+8 	 14 	 S[dcl]\NP 	 1 	 Honecker fought
+8 	 20 	 (S[b]\NP)/NP 	 1 	 Honecker delay <XB>
+13 	 10 	 N/N 	 1 	 members several
+13 	 11 	 N/N 	 1 	 members senior
+13 	 12 	 N/N 	 1 	 members Politburo
+13 	 14 	 S[dcl]\NP 	 1 	 members fought
+13 	 20 	 (S[b]\NP)/NP 	 1 	 members delay <XB>
+14 	 0 	 (S/S)/PP 	 1 	 fought According
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 fought over
+18 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 week over
+18 	 16 	 NP[nb]/N 	 1 	 week the
+18 	 17 	 N/N 	 1 	 week last
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 delay to
+22 	 20 	 (S[b]\NP)/NP 	 2 	 decisions delay
+22 	 21 	 NP[nb]/N 	 1 	 decisions any
+22 	 23 	 (NP\NP)/NP 	 1 	 decisions about
+26 	 23 	 (NP\NP)/NP 	 2 	 change about
+26 	 24 	 NP[nb]/N 	 1 	 change a
+26 	 25 	 N/N 	 1 	 change leadership
+<\s>
+<s id="wsj_1875.28"> 28
+4 	 2 	 ((S/S)/(S[ng]\NP))/NP 	 3 	 demonstrations with
+4 	 3 	 N/N 	 1 	 demonstrations public
+4 	 5 	 (NP\NP)/NP 	 1 	 demonstrations in
+4 	 8 	 S[ng]\NP 	 1 	 demonstrations growing <XB>
+7 	 5 	 (NP\NP)/NP 	 2 	 country in
+7 	 6 	 NP[nb]/N 	 1 	 country the
+8 	 2 	 ((S/S)/(S[ng]\NP))/NP 	 2 	 growing with
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 growing in
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 size in
+12 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 intensity in
+15 	 14 	 N/N 	 1 	 Honecker Mr.
+15 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Honecker lost
+15 	 21 	 S[adj]\NP 	 1 	 Honecker out <XB>
+19 	 17 	 N/N 	 1 	 allies several
+19 	 18 	 N/N 	 1 	 allies key
+19 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 allies lost
+19 	 21 	 S[adj]\NP 	 1 	 allies out <XB>
+20 	 0 	 S/S 	 1 	 lost But
+20 	 2 	 ((S/S)/(S[ng]\NP))/NP 	 1 	 lost with
+20 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 lost in
+20 	 27 	 (S[dcl]\S[dcl])\NP 	 1 	 lost say
+21 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 out lost
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 battle in
+24 	 23 	 NP[nb]/N 	 1 	 battle this
+26 	 27 	 (S[dcl]\S[dcl])\NP 	 2 	 officials say
+<\s>
+<s id="wsj_1875.29"> 23
+1 	 0 	 NP[nb]/N 	 1 	 allies Those
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 allies included
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 Mittag included
+6 	 3 	 N/N 	 1 	 Mittag Politburo
+6 	 4 	 N/N 	 1 	 Mittag members
+6 	 5 	 N/N 	 1 	 Mittag Guenter
+6 	 8 	 (N\N)/(S[dcl]\NP) 	 1 	 Mittag who
+9 	 8 	 (N\N)/(S[dcl]\NP) 	 2 	 has who
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 has long
+11 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 headed has
+13 	 11 	 (S[pt]\NP)/NP 	 2 	 affairs headed
+13 	 12 	 N/N 	 1 	 affairs economic
+17 	 2 	 (S[dcl]\NP)/NP 	 2 	 Hermann included
+17 	 3 	 N/N 	 1 	 Hermann Politburo
+17 	 4 	 N/N 	 1 	 Hermann members
+17 	 16 	 N/N 	 1 	 Hermann Joachim
+17 	 19 	 N\N 	 1 	 Hermann chief
+19 	 20 	 ((N\N)\(N\N))/NP 	 2 	 chief of
+22 	 20 	 ((N\N)\(N\N))/NP 	 3 	 policy of
+22 	 21 	 N/N 	 1 	 policy information
+<\s>
+<s id="wsj_1875.30"> 9
+1 	 0 	 NP[nb]/N 	 1 	 men Both
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 men were
+1 	 4 	 (S[pss]\NP)/PP 	 1 	 men relieved <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 were also
+4 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 relieved were
+4 	 8 	 (S\NP)\(S\NP) 	 2 	 relieved yesterday
+5 	 4 	 (S[pss]\NP)/PP 	 2 	 of relieved
+7 	 5 	 PP/NP 	 1 	 duties of
+7 	 6 	 NP[nb]/N 	 1 	 duties their
+<\s>
+<s id="wsj_1875.31"> 28
+2 	 1 	 N/N 	 1 	 resignations other
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 resignations may
+2 	 4 	 S[b]\NP 	 1 	 resignations follow <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 may Although
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 follow may
+6 	 7 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 1 	 it 's
+7 	 0 	 (S/S)/S[dcl] 	 1 	 's Although
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 's still
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 's not
+10 	 7 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 3 	 clear 's
+11 	 12 	 ((S[qem]/S[dcl])\((NP\NP)/NP))/N 	 2 	 to what
+12 	 7 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 2 	 what 's
+13 	 12 	 ((S[qem]/S[dcl])\((NP\NP)/NP))/N 	 3 	 extent what
+15 	 14 	 NP[nb]/N 	 1 	 change the
+15 	 16 	 (NP\NP)/NP 	 1 	 change in
+15 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 change will
+15 	 20 	 (S[b]\NP)/NP 	 1 	 change alter <XB>
+18 	 16 	 (NP\NP)/NP 	 2 	 personnel in
+18 	 17 	 N/N 	 1 	 personnel party
+19 	 12 	 ((S[qem]/S[dcl])\((NP\NP)/NP))/N 	 1 	 will what
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 alter will
+22 	 21 	 NP[nb]/N 	 1 	 government the
+22 	 23 	 (NP[nb]/N)\NP 	 2 	 government 's
+24 	 20 	 (S[b]\NP)/NP 	 2 	 resistance alter
+24 	 23 	 (NP[nb]/N)\NP 	 1 	 resistance 's
+24 	 25 	 (NP\NP)/NP 	 1 	 resistance to
+27 	 25 	 (NP\NP)/NP 	 2 	 change to
+27 	 26 	 N/N 	 1 	 change fundamental
+<\s>
+<s id="wsj_1875.32"> 11
+4 	 2 	 NP[nb]/N 	 1 	 figure the
+4 	 3 	 N/N 	 1 	 figure central
+4 	 5 	 (NP\NP)/NP 	 1 	 figure in
+4 	 8 	 (S[dcl]\NP)/NP 	 1 	 figure is
+7 	 5 	 (NP\NP)/NP 	 2 	 process in
+7 	 6 	 NP[nb]/N 	 1 	 process this
+8 	 0 	 S/S 	 1 	 is Clearly
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 Krenz is
+10 	 9 	 N/N 	 1 	 Krenz Egon
+<\s>
+<s id="wsj_1875.33"> 23
+0 	 1 	 ((S\NP)\(S\NP))/NP 	 2 	 Born in
+0 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 Born in
+2 	 1 	 ((S\NP)\(S\NP))/NP 	 3 	 1937 in
+7 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 town in
+7 	 4 	 NP[nb]/N 	 1 	 town a
+7 	 5 	 N/N 	 1 	 town Baltic
+7 	 6 	 N/N 	 1 	 town Sea
+7 	 9 	 NP\NP 	 1 	 town part
+9 	 8 	 (NP\NP)/(NP\NP) 	 2 	 part now
+9 	 10 	 ((NP\NP)\(NP\NP))/NP 	 2 	 part of
+11 	 10 	 ((NP\NP)\(NP\NP))/NP 	 3 	 Poland of
+13 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 he was
+13 	 17 	 (S[adj]\NP)\NP 	 1 	 he old <XB>
+14 	 18 	 (((S\NP)\(S\NP))/(S[pt]\NP))/NP 	 2 	 was when
+16 	 15 	 N/N 	 1 	 years eight
+16 	 17 	 (S[adj]\NP)\NP 	 2 	 years old
+17 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 old was
+21 	 18 	 (((S\NP)\(S\NP))/(S[pt]\NP))/NP 	 4 	 II when
+21 	 19 	 N/N 	 1 	 II World
+21 	 20 	 N/N 	 1 	 II War
+21 	 22 	 S[pt]\NP 	 1 	 II ended <XB>
+22 	 18 	 (((S\NP)\(S\NP))/(S[pt]\NP))/NP 	 3 	 ended when
+<\s>
+<s id="wsj_1875.34"> 20
+2 	 1 	 (N/N)/(N/N) 	 2 	 German West
+5 	 0 	 (S/S)/NP 	 2 	 Kohl Like
+5 	 2 	 N/N 	 1 	 Kohl German
+5 	 3 	 N/N 	 1 	 Kohl Chancellor
+5 	 4 	 N/N 	 1 	 Kohl Helmut
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 he represents
+8 	 0 	 (S/S)/NP 	 1 	 represents Like
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 generation represents
+11 	 9 	 NP[nb]/N 	 1 	 generation the
+11 	 10 	 N/N 	 1 	 generation postwar
+11 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 generation that
+11 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 generation has <XB>
+11 	 14 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 generation grown <XB>
+11 	 15 	 S[adj]\NP 	 1 	 generation up <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has that
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 grown has
+14 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 grown during
+15 	 14 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 up grown
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 Germany 's
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 division during
+19 	 18 	 (NP[nb]/N)\NP 	 1 	 division 's
+<\s>
+<s id="wsj_1875.35"> 36
+1 	 0 	 (S/S)/(S[ng]\NP) 	 2 	 joining Since
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 joining in
+1 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 joining as
+3 	 1 	 (S[ng]\NP)/NP 	 2 	 Politburo joining
+3 	 2 	 NP[nb]/N 	 1 	 Politburo the
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 1983 in
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 member as
+9 	 7 	 NP[nb]/N 	 1 	 member its
+9 	 8 	 N/N 	 1 	 member youngest
+12 	 11 	 N/N 	 1 	 Krenz Mr.
+12 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Krenz had
+12 	 14 	 (S[pt]\NP)/NP 	 1 	 Krenz acquired <XB>
+13 	 0 	 (S/S)/(S[ng]\NP) 	 1 	 had Since
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 acquired had
+16 	 14 	 (S[pt]\NP)/NP 	 2 	 nickname acquired
+16 	 15 	 NP[nb]/N 	 1 	 nickname the
+16 	 18 	 NP\NP 	 1 	 nickname prince
+18 	 17 	 (NP\NP)/(NP\NP) 	 2 	 prince crown
+21 	 14 	 (S[pt]\NP)/NP 	 2 	 reference acquired
+21 	 20 	 NP[nb]/N 	 1 	 reference a
+21 	 22 	 (NP\NP)/NP 	 1 	 reference to
+25 	 24 	 (N/N)/(N/N) 	 2 	 held widely
+26 	 22 	 (NP\NP)/NP 	 2 	 view to
+26 	 23 	 NP[nb]/N 	 1 	 view the
+26 	 25 	 N/N 	 1 	 view held
+27 	 26 	 N/S[em] 	 1 	 that view
+28 	 29 	 (S[dcl]\NP)/NP 	 1 	 he was
+29 	 27 	 S[em]/S[dcl] 	 1 	 was that
+32 	 29 	 (S[dcl]\NP)/NP 	 2 	 successor was
+32 	 30 	 NP[nb]/N 	 1 	 successor the
+32 	 31 	 N/N 	 1 	 successor hand-picked
+32 	 33 	 (NP\NP)/NP 	 1 	 successor to
+35 	 33 	 (NP\NP)/NP 	 2 	 Honecker to
+35 	 34 	 N/N 	 1 	 Honecker Mr.
+<\s>
+<s id="wsj_1875.36"> 29
+1 	 0 	 (S/S)/NP 	 2 	 fact In
+5 	 3 	 NP[nb]/N 	 1 	 men the
+5 	 4 	 N/N 	 1 	 men two
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 men have
+5 	 7 	 (S[pt]\NP)/NP 	 1 	 men had <XB>
+6 	 0 	 (S/S)/NP 	 1 	 have In
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 had have
+9 	 8 	 (N/N)/(N/N) 	 2 	 similar strikingly
+11 	 7 	 (S[pt]\NP)/NP 	 2 	 paths had
+11 	 9 	 N/N 	 1 	 paths similar
+11 	 10 	 N/N 	 1 	 paths career
+13 	 14 	 (S[ng]\NP)/(S[pt]\NP) 	 1 	 both having
+13 	 15 	 (S[pt]\NP)/PP 	 1 	 both served <XB>
+15 	 14 	 (S[ng]\NP)/(S[pt]\NP) 	 2 	 served having
+15 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 served before
+16 	 15 	 (S[pt]\NP)/PP 	 2 	 as served
+17 	 16 	 PP/NP 	 1 	 chief as
+17 	 18 	 (NP\NP)/NP 	 1 	 chief of
+20 	 18 	 (NP\NP)/NP 	 2 	 security of
+20 	 19 	 N/N 	 1 	 security internal
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 rise before
+23 	 22 	 NP[nb]/N 	 1 	 rise their
+23 	 24 	 (NP\NP)/NP 	 1 	 rise to
+28 	 24 	 (NP\NP)/NP 	 2 	 position to
+28 	 25 	 NP[nb]/N 	 1 	 position the
+28 	 26 	 N/N 	 1 	 position top
+28 	 27 	 N/N 	 1 	 position party
+<\s>
+<s id="wsj_1875.37"> 11
+3 	 2 	 NP[nb]/N 	 1 	 men both
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 men have
+3 	 5 	 (S[pt]\NP)/PP 	 1 	 men hewn <XB>
+4 	 0 	 S/S 	 1 	 have Moreover
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 hewn have
+6 	 5 	 (S[pt]\NP)/PP 	 2 	 to hewn
+10 	 6 	 PP/NP 	 1 	 philosophy to
+10 	 7 	 NP[nb]/N 	 1 	 philosophy a
+10 	 8 	 N/N 	 1 	 philosophy similar
+10 	 9 	 N/N 	 1 	 philosophy hard-line
+<\s>
+<s id="wsj_1875.38"> 26
+2 	 3 	 (NP\NP)/NP 	 1 	 one of
+2 	 11 	 S[dcl]\NP 	 1 	 one came
+5 	 4 	 N/N 	 1 	 Krenz Mr.
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Krenz 's
+9 	 3 	 (NP\NP)/NP 	 2 	 visits of
+9 	 6 	 (NP[nb]/N)\NP 	 1 	 visits 's
+9 	 7 	 N/N 	 1 	 visits few
+9 	 8 	 N/N 	 1 	 visits official
+9 	 10 	 NP\NP 	 1 	 visits overseas
+11 	 0 	 S/S 	 1 	 came Notably
+11 	 15 	 ((S\NP)\(S\NP))\NP 	 2 	 came ago
+11 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 came when
+14 	 12 	 NP[nb]/N 	 1 	 months a
+14 	 13 	 N/N 	 1 	 months few
+14 	 15 	 ((S\NP)\(S\NP))\NP 	 3 	 months ago
+18 	 19 	 (S[dcl]\NP)/NP 	 1 	 he visited
+19 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 visited when
+19 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 visited after
+20 	 19 	 (S[dcl]\NP)/NP 	 2 	 China visited
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 massacre after
+23 	 22 	 NP[nb]/N 	 1 	 massacre the
+23 	 24 	 (NP\NP)/NP 	 1 	 massacre in
+25 	 24 	 (NP\NP)/NP 	 2 	 Beijing in
+<\s>
+<s id="wsj_1875.39"> 15
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 He defended
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 defended later
+2 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 defended during
+5 	 3 	 NP[nb]/N 	 1 	 government the
+5 	 4 	 N/N 	 1 	 government Chinese
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 government 's
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 response defended
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 response 's
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 visit during
+11 	 9 	 NP[nb]/N 	 1 	 visit a
+11 	 10 	 N/N 	 1 	 visit separate
+11 	 12 	 (NP\NP)/NP 	 1 	 visit to
+14 	 12 	 (NP\NP)/NP 	 2 	 Germany to
+14 	 13 	 N/N 	 1 	 Germany West
+<\s>
+<s id="wsj_1875.40"> 38
+1 	 0 	 (N/N)/(N/N) 	 2 	 German East
+2 	 1 	 N/N 	 1 	 Protestantism German
+2 	 3 	 (NP\NP)/(S[adj]\NP) 	 1 	 Protestantism in
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 Protestantism fears
+4 	 3 	 (NP\NP)/(S[adj]\NP) 	 2 	 particular in
+5 	 11 	 ((S\NP)\(S\NP))/PP 	 2 	 fears because
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 Krenz fears
+7 	 6 	 N/N 	 1 	 Krenz Mr.
+10 	 9 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 part in
+11 	 9 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 because in
+12 	 11 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+14 	 12 	 PP/NP 	 1 	 incident of
+14 	 13 	 NP[nb]/N 	 1 	 incident an
+14 	 15 	 (NP\NP)/NP 	 1 	 incident in
+16 	 15 	 (NP\NP)/NP 	 2 	 January in
+16 	 17 	 N\N 	 1 	 January 1988
+16 	 18 	 (NP\NP)/S[dcl] 	 1 	 January when
+19 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 he was
+19 	 21 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 he believed <XB>
+19 	 24 	 (S[pt]\NP)/NP 	 1 	 he ordered <XB>
+20 	 18 	 (NP\NP)/S[dcl] 	 2 	 was when
+21 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 believed was
+22 	 21 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to believed
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+24 	 23 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 ordered have
+26 	 24 	 (S[pt]\NP)/NP 	 2 	 arrest ordered
+26 	 25 	 NP[nb]/N 	 1 	 arrest the
+26 	 27 	 (NP\NP)/NP 	 1 	 arrest of
+28 	 27 	 (NP\NP)/NP 	 2 	 hundreds of
+28 	 29 	 (NP\NP)/NP 	 1 	 hundreds of
+28 	 31 	 (NP\NP)/(S[dcl]\NP) 	 1 	 hundreds who
+28 	 32 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 hundreds had <XB>
+28 	 33 	 (S[pt]\NP)/NP 	 1 	 hundreds sought <XB>
+30 	 29 	 (NP\NP)/NP 	 2 	 dissidents of
+32 	 31 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had who
+33 	 32 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 sought had
+33 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 sought in
+34 	 33 	 (S[pt]\NP)/NP 	 2 	 refuge sought
+37 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 Church in
+37 	 36 	 NP[nb]/N 	 1 	 Church the
+<\s>
+<s id="wsj_1875.41"> 12
+3 	 2 	 N/N 	 1 	 Krenz Mr.
+3 	 5 	 (S[dcl]\NP)/NP 	 1 	 Krenz has
+5 	 0 	 S/S 	 1 	 has However
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 has also
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 reputation has
+7 	 6 	 NP[nb]/N 	 1 	 reputation a
+7 	 8 	 (NP\NP)/(S[ng]\NP) 	 1 	 reputation for
+9 	 8 	 (NP\NP)/(S[ng]\NP) 	 2 	 being for
+11 	 9 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 savvy being
+11 	 10 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 savvy politically
+<\s>
+<s id="wsj_1875.42"> 26
+2 	 0 	 NP[nb]/N 	 1 	 ability His
+2 	 1 	 N/N 	 1 	 ability shrewd
+2 	 4 	 (S[b]\NP)/NP 	 1 	 ability read <XB>
+2 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 ability is
+2 	 14 	 S[pss]\NP 	 1 	 ability illustrated <XB>
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 read to
+8 	 4 	 (S[b]\NP)/NP 	 2 	 mood read
+8 	 5 	 NP[nb]/N 	 1 	 mood the
+8 	 6 	 N/N 	 1 	 mood shifting
+8 	 7 	 N/N 	 1 	 mood popular
+8 	 9 	 (NP\NP)/NP 	 1 	 mood in
+11 	 9 	 (NP\NP)/NP 	 2 	 Germany in
+11 	 10 	 N/N 	 1 	 Germany East
+14 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 illustrated is
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 illustrated best
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 illustrated by
+18 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 break by
+18 	 16 	 NP[nb]/N 	 1 	 break his
+18 	 17 	 N/N 	 1 	 break apparent
+18 	 19 	 (NP\NP)/NP 	 1 	 break with
+22 	 19 	 (NP\NP)/NP 	 2 	 mentor with
+22 	 20 	 NP[nb]/N 	 1 	 mentor his
+22 	 21 	 N/N 	 1 	 mentor old
+25 	 19 	 (NP\NP)/NP 	 2 	 Honecker with
+25 	 24 	 N/N 	 1 	 Honecker Mr.
+<\s>
+<s id="wsj_1875.43"> 23
+3 	 2 	 (S/S)/PP 	 2 	 to according
+5 	 4 	 (N/N)/(N/N) 	 2 	 German West
+7 	 3 	 PP/NP 	 1 	 sources to
+7 	 5 	 N/N 	 1 	 sources German
+7 	 6 	 N/N 	 1 	 sources government
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 he was
+10 	 0 	 S/S 	 1 	 was Indeed
+10 	 2 	 (S/S)/PP 	 1 	 was according
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 one was
+11 	 12 	 (NP\NP)/NP 	 1 	 one of
+14 	 12 	 (NP\NP)/NP 	 2 	 leaders of
+14 	 13 	 NP[nb]/N 	 1 	 leaders the
+14 	 15 	 (NP\NP)/NP 	 1 	 leaders in
+18 	 15 	 (NP\NP)/NP 	 2 	 struggle in
+18 	 16 	 NP[nb]/N 	 1 	 struggle the
+18 	 17 	 N/N 	 1 	 struggle power
+18 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 struggle that
+18 	 20 	 (S[dcl]\NP)/NP 	 1 	 struggle toppled <XB>
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 toppled that
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 Honecker toppled
+22 	 21 	 N/N 	 1 	 Honecker Mr.
+<\s>
+<s id="wsj_1875.44"> 13
+2 	 0 	 (S/S)/NP 	 2 	 days In
+2 	 1 	 N/N 	 1 	 days recent
+5 	 4 	 N/N 	 1 	 Krenz Mr.
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Krenz has
+5 	 7 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Krenz sought <XB>
+5 	 9 	 (S[b]\NP)/NP 	 1 	 Krenz project <XB>
+6 	 0 	 (S/S)/NP 	 1 	 has In
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 sought has
+8 	 7 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to sought
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 project to
+12 	 9 	 (S[b]\NP)/NP 	 2 	 image project
+12 	 10 	 NP[nb]/N 	 1 	 image a
+12 	 11 	 N/N 	 1 	 image kinder
+<\s>
+<s id="wsj_1875.45"> 26
+1 	 0 	 (S/S)/PP 	 2 	 to According
+3 	 1 	 PP/NP 	 1 	 report to
+3 	 2 	 NP[nb]/N 	 1 	 report a
+3 	 5 	 S[ng]\NP 	 1 	 report circulating <XB>
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 circulating widely
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 circulating in
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Berlin in
+8 	 7 	 N/N 	 1 	 Berlin East
+10 	 11 	 ((S[dcl]\NP[expl])/(NP\NP))/NP 	 1 	 it was
+11 	 0 	 (S/S)/PP 	 1 	 was According
+13 	 11 	 ((S[dcl]\NP[expl])/(NP\NP))/NP 	 3 	 Krenz was
+13 	 12 	 N/N 	 1 	 Krenz Mr.
+14 	 11 	 ((S[dcl]\NP[expl])/(NP\NP))/NP 	 2 	 who was
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 ordered who
+16 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 police ordered
+16 	 18 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 police stop <XB>
+16 	 19 	 ((S[ng]\NP)/PP)/NP 	 1 	 police using <XB>
+17 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to ordered
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 stop to
+19 	 18 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 using stop
+21 	 19 	 ((S[ng]\NP)/PP)/NP 	 3 	 force using
+21 	 20 	 N/N 	 1 	 force excessive
+22 	 19 	 ((S[ng]\NP)/PP)/NP 	 2 	 against using
+23 	 22 	 PP/NP 	 1 	 demonstrators against
+23 	 24 	 (NP\NP)/NP 	 1 	 demonstrators in
+25 	 24 	 (NP\NP)/NP 	 2 	 Leipzig in
+<\s>
+<s id="wsj_1875.46"> 31
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 He does
+0 	 3 	 (S[b]\NP)/(S[to]\NP) 	 1 	 He want <XB>
+0 	 5 	 (S[b]\NP)/NP 	 1 	 He have <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 does n't
+1 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 does says
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 want does
+4 	 3 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to want
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+7 	 5 	 (S[b]\NP)/NP 	 2 	 image have
+7 	 6 	 NP[nb]/N 	 1 	 image the
+7 	 8 	 (NP\NP)/NP 	 1 	 image of
+11 	 8 	 (NP\NP)/NP 	 2 	 man of
+11 	 9 	 NP[nb]/N 	 1 	 man the
+11 	 10 	 N/N 	 1 	 man gun
+15 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 Oldenburg says
+15 	 14 	 N/N 	 1 	 Oldenburg Fred
+18 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 expert says
+18 	 17 	 NP[nb]/N 	 1 	 expert an
+18 	 19 	 (NP\NP)/NP 	 1 	 expert at
+22 	 19 	 (NP\NP)/NP 	 2 	 Institute at
+22 	 20 	 NP[nb]/N 	 1 	 Institute the
+22 	 21 	 N/N 	 1 	 Institute Bonn-sponsored
+22 	 23 	 (NP\NP)/NP 	 1 	 Institute of
+22 	 29 	 (NP\NP)/NP 	 1 	 Institute in
+25 	 24 	 (N/N)/(N/N) 	 2 	 European East
+28 	 23 	 (NP\NP)/NP 	 2 	 Studies of
+28 	 25 	 N/N 	 1 	 Studies European <XU>
+28 	 27 	 N/N 	 1 	 Studies International
+30 	 29 	 (NP\NP)/NP 	 2 	 Cologne in
+<\s>
+<s id="wsj_1875.47"> 15
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 He 's
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 's not
+1 	 5 	 (S\S)/S[dcl] 	 1 	 's --
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 reformer 's
+4 	 3 	 NP[nb]/N 	 1 	 reformer a
+6 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 he wants
+6 	 9 	 (S[b]\NP)/NP 	 1 	 he have <XB>
+7 	 5 	 (S\S)/S[dcl] 	 2 	 wants --
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wants
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+11 	 9 	 (S[b]\NP)/NP 	 2 	 image have
+11 	 10 	 NP[nb]/N 	 1 	 image the
+11 	 12 	 (NP\NP)/NP 	 1 	 image of
+14 	 12 	 (NP\NP)/NP 	 2 	 reformer of
+14 	 13 	 NP[nb]/N 	 1 	 reformer a
+<\s>
+<s id="wsj_1875.48"> 29
+1 	 0 	 (S/S)/NP 	 2 	 part As
+1 	 2 	 (NP\NP)/NP 	 1 	 part of
+5 	 2 	 (NP\NP)/NP 	 2 	 polishing of
+5 	 3 	 NP[nb]/N 	 1 	 polishing his
+5 	 4 	 N/N 	 1 	 polishing image
+8 	 7 	 N/N 	 1 	 Krenz Mr.
+8 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Krenz is
+8 	 10 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Krenz expected <XB>
+8 	 12 	 (S[b]\NP)/NP 	 1 	 Krenz take <XB>
+8 	 18 	 (S[b]\NP)/NP 	 1 	 Krenz rebuild <XB>
+8 	 24 	 (S[b]\NP)/NP 	 1 	 Krenz reassert <XU>
+9 	 0 	 (S/S)/NP 	 1 	 is As
+10 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+11 	 10 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 take to
+14 	 12 	 (S[b]\NP)/NP 	 2 	 steps take
+14 	 13 	 N/N 	 1 	 steps modest
+14 	 15 	 (NP\NP)/NP 	 1 	 steps toward
+16 	 15 	 (NP\NP)/NP 	 2 	 reform toward
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rebuild to
+19 	 18 	 (S[b]\NP)/NP 	 2 	 confidence rebuild
+19 	 20 	 (NP\NP)/NP 	 1 	 confidence among
+22 	 20 	 (NP\NP)/NP 	 2 	 people among
+22 	 21 	 NP[nb]/N 	 1 	 people the
+24 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reassert to
+26 	 25 	 NP[nb]/N 	 1 	 party the
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 party 's
+28 	 24 	 (S[b]\NP)/NP 	 2 	 authority reassert
+28 	 27 	 (NP[nb]/N)\NP 	 1 	 authority 's
+<\s>
+<s id="wsj_1875.49"> 36
+1 	 0 	 (S/S)/(S[ng]\NP) 	 2 	 sacking Besides
+5 	 1 	 (S[ng]\NP)/NP 	 2 	 officials sacking
+5 	 2 	 N/N 	 1 	 officials other
+5 	 3 	 N/N 	 1 	 officials senior
+5 	 4 	 N/N 	 1 	 officials Politburo
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 officials who
+5 	 7 	 ((S[dcl]\NP)/PP)/NP 	 1 	 officials allied <XB>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 allied who
+8 	 7 	 ((S[dcl]\NP)/PP)/NP 	 3 	 themselves allied
+9 	 7 	 ((S[dcl]\NP)/PP)/NP 	 2 	 with allied
+11 	 9 	 PP/NP 	 1 	 Honecker with
+11 	 10 	 N/N 	 1 	 Honecker Mr.
+14 	 13 	 N/N 	 1 	 Krenz Mr.
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Krenz could
+14 	 16 	 (S[b]\NP)/NP 	 1 	 Krenz loosen <XB>
+14 	 23 	 (S[b]\NP)/NP 	 1 	 Krenz free <XU>
+14 	 29 	 (S[b]\NP)/NP 	 1 	 Krenz establish <XU>
+15 	 0 	 (S/S)/(S[ng]\NP) 	 1 	 could Besides
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 loosen could
+17 	 16 	 (S[b]\NP)/NP 	 2 	 controls loosen
+17 	 18 	 (NP\NP)/NP 	 1 	 controls on
+21 	 18 	 (NP\NP)/NP 	 2 	 media on
+21 	 19 	 NP[nb]/N 	 1 	 media the
+21 	 20 	 N/N 	 1 	 media news
+23 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 free could
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 free up
+26 	 23 	 (S[b]\NP)/NP 	 2 	 restrictions free
+26 	 25 	 N/N 	 1 	 restrictions travel
+29 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 establish could
+31 	 29 	 (S[b]\NP)/NP 	 2 	 dialogue establish
+31 	 30 	 NP[nb]/N 	 1 	 dialogue a
+31 	 32 	 (NP\NP)/NP 	 1 	 dialogue with
+35 	 32 	 (NP\NP)/NP 	 2 	 groups with
+35 	 33 	 N/N 	 1 	 groups various
+35 	 34 	 N/N 	 1 	 groups dissident
+<\s>
+<s id="wsj_1875.50"> 5
+1 	 0 	 S/S 	 1 	 will But
+2 	 1 	 (S[q]/(S[b]\NP))/NP 	 2 	 it will
+2 	 4 	 S[adj]\NP 	 1 	 it enough <XB>
+3 	 1 	 (S[q]/(S[b]\NP))/NP 	 1 	 be will
+4 	 3 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 enough be
+<\s>
+<s id="wsj_1875.51"> 9
+1 	 0 	 (N/N)/(N/N) 	 2 	 German West
+3 	 1 	 N/N 	 1 	 officials German
+3 	 2 	 N/N 	 1 	 officials government
+3 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 officials are
+3 	 8 	 S[adj]\NP 	 1 	 officials doubtful <XB>
+6 	 5 	 N/N 	 1 	 analysts Western
+6 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 analysts are
+6 	 8 	 S[adj]\NP 	 1 	 analysts doubtful <XB>
+8 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 doubtful are
+<\s>
+<s id="wsj_1875.52"> 18
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 He does
+0 	 3 	 (S[b]\NP)/NP 	 1 	 He signify <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 does n't
+1 	 17 	 (S[dcl]\S[dcl])\NP 	 1 	 does predicts
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 signify does
+4 	 3 	 (S[b]\NP)/NP 	 2 	 what signify
+4 	 6 	 (S[dcl]\NP)/NP 	 2 	 what want <XU>
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 people want
+6 	 4 	 NP/(S[dcl]/NP) 	 1 	 want what
+10 	 9 	 NP[nb]/N 	 1 	 unrest the
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 unrest will
+10 	 12 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 unrest go <XB>
+10 	 13 	 S[adj]\NP 	 1 	 unrest on <XB>
+11 	 17 	 (S[dcl]\S[dcl])\NP 	 1 	 will predicts
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go will
+13 	 12 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 on go
+16 	 15 	 N/N 	 1 	 Oldenburg Mr.
+16 	 17 	 (S[dcl]\S[dcl])\NP 	 2 	 Oldenburg predicts
+<\s>
+<s id="wsj_1875.53"> 19
+3 	 0 	 (S/S)/NP 	 2 	 time At
+3 	 1 	 NP[nb]/N 	 1 	 time the
+3 	 2 	 N/N 	 1 	 time same
+6 	 5 	 NP[nb]/N 	 1 	 expectations the
+6 	 7 	 (NP\NP)/NP 	 1 	 expectations of
+6 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 expectations are
+6 	 13 	 S[adj]\NP 	 1 	 expectations great <XB>
+6 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 expectations will <XU>
+6 	 16 	 (S[b]\NP)/(S[to]\NP) 	 1 	 expectations continue <XU>
+6 	 18 	 S[b]\NP 	 1 	 expectations grow <XU>
+10 	 9 	 (N/N)/(N/N) 	 2 	 German East
+11 	 7 	 (NP\NP)/NP 	 2 	 people of
+11 	 8 	 NP[nb]/N 	 1 	 people the
+11 	 10 	 N/N 	 1 	 people German
+12 	 0 	 (S/S)/NP 	 1 	 are At
+13 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 great are
+15 	 0 	 (S/S)/NP 	 1 	 will At
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue will
+17 	 16 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to continue
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 grow to
+<\s>
+<s id="wsj_1875.54"> 15
+3 	 2 	 (N/N)/(N/N) 	 2 	 German West
+4 	 0 	 (S[dcl]/S[dcl])/NP 	 2 	 official Says
+4 	 1 	 N/N 	 1 	 official one
+4 	 3 	 N/N 	 1 	 official German
+6 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 What 's <XB>
+6 	 8 	 S[adj]\NP 	 1 	 What necessary <XB>
+6 	 10 	 (S[dcl]\NP)/NP 	 1 	 What is
+7 	 6 	 NP/(S[dcl]\NP) 	 1 	 's What
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 's now
+8 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 necessary 's
+10 	 0 	 (S[dcl]/S[dcl])/NP 	 1 	 is Says
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 process is
+12 	 11 	 NP[nb]/N 	 1 	 process the
+12 	 13 	 (NP\NP)/NP 	 1 	 process of
+14 	 13 	 (NP\NP)/NP 	 2 	 democratization of
+<\s>
+<s id="wsj_1875.55"> 15
+1 	 0 	 (S/S)/(S/S) 	 2 	 just Not
+2 	 1 	 S/S 	 1 	 that just
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 people are
+3 	 5 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 people being <XB>
+3 	 6 	 S[pss]\NP 	 1 	 people heard <XB>
+4 	 2 	 S/S[dcl] 	 1 	 are that
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being are
+6 	 5 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 heard being
+8 	 1 	 S/S 	 1 	 that just
+10 	 9 	 NP[nb]/N 	 1 	 interests their
+10 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 interests are
+10 	 12 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 interests being <XB>
+10 	 13 	 S[pss]\NP 	 1 	 interests taken <XB>
+11 	 8 	 S/S[dcl] 	 1 	 are that
+12 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being are
+13 	 12 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 taken being
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 taken seriously
+<\s>
+<s id="wsj_1875.56"> 20
+1 	 0 	 N/N 	 1 	 Kohl Chancellor
+1 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Kohl has
+1 	 6 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 1 	 Kohl invited <XB>
+5 	 3 	 (S\NP)/(S\NP) 	 2 	 has meanwhile
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 invited has
+8 	 6 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 3 	 Krenz invited
+8 	 7 	 N/N 	 1 	 Krenz Mr.
+8 	 10 	 (S[b]\NP)/NP 	 1 	 Krenz open <XB>
+9 	 6 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 2 	 to invited
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 open to
+11 	 10 	 (S[b]\NP)/NP 	 2 	 discussions open
+11 	 12 	 (NP\NP)/NP 	 1 	 discussions with
+11 	 14 	 (NP\NP)/NP 	 1 	 discussions on
+13 	 12 	 (NP\NP)/NP 	 2 	 Bonn with
+17 	 14 	 (NP\NP)/NP 	 2 	 range on
+17 	 15 	 NP[nb]/N 	 1 	 range a
+17 	 16 	 N/N 	 1 	 range wide
+17 	 18 	 (NP\NP)/NP 	 1 	 range of
+19 	 18 	 (NP\NP)/NP 	 2 	 subjects of
+<\s>
+<s id="wsj_1875.57"> 30
+0 	 1 	 (NP\NP)/NP 	 1 	 Reports in
+0 	 7 	 (S[ng]\NP)/NP 	 1 	 Reports citing <XB>
+0 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 Reports suggest
+4 	 3 	 (N/N)/(N/N) 	 2 	 German West
+5 	 1 	 (NP\NP)/NP 	 2 	 press in
+5 	 2 	 NP[nb]/N 	 1 	 press the
+5 	 4 	 N/N 	 1 	 press German
+8 	 7 	 (S[ng]\NP)/NP 	 2 	 sources citing
+8 	 9 	 (NP\NP)/NP 	 1 	 sources in
+11 	 9 	 (NP\NP)/NP 	 2 	 Germany in
+11 	 10 	 N/N 	 1 	 Germany East
+15 	 14 	 N/N 	 1 	 Krenz Mr.
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Krenz may
+15 	 17 	 (S[b]\NP)/PP 	 1 	 Krenz serve <XB>
+16 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 may suggest
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 serve may
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 serve only
+19 	 17 	 (S[b]\NP)/PP 	 2 	 as serve
+21 	 19 	 PP/NP 	 1 	 bridge as
+21 	 20 	 NP[nb]/N 	 1 	 bridge a
+21 	 22 	 (NP\NP)/NP 	 1 	 bridge between
+24 	 22 	 (NP\NP)/NP 	 2 	 Honecker between
+24 	 23 	 N/N 	 1 	 Honecker Mr.
+29 	 22 	 (NP\NP)/NP 	 2 	 leader between
+29 	 26 	 NP[nb]/N 	 1 	 leader a
+29 	 27 	 N/N 	 1 	 leader genuine
+29 	 28 	 N/N 	 1 	 leader reform
+<\s>
+<s id="wsj_1875.58"> 22
+0 	 4 	 (S[dcl]\(S[ng]\NP))/NP 	 1 	 Adding is
+1 	 0 	 (S[ng]\NP)/PP 	 2 	 to Adding
+3 	 1 	 PP/NP 	 1 	 speculation to
+3 	 2 	 NP[nb]/N 	 1 	 speculation that
+6 	 5 	 N/N 	 1 	 Krenz Mr.
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Krenz 's
+8 	 4 	 (S[dcl]\(S[ng]\NP))/NP 	 2 	 reputation is
+8 	 7 	 (NP[nb]/N)\NP 	 1 	 reputation 's
+8 	 9 	 (NP\NP)/NP 	 1 	 reputation as
+12 	 9 	 (NP\NP)/NP 	 2 	 drinker as
+12 	 10 	 NP[nb]/N 	 1 	 drinker a
+12 	 11 	 N/N 	 1 	 drinker heavy
+12 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 drinker who
+12 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 drinker is <XB>
+12 	 16 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 drinker said <XB>
+12 	 19 	 (S[b]\NP)/PP 	 1 	 drinker suffer <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is who
+16 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 said is
+17 	 16 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to said
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 to also
+19 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 suffer to
+20 	 19 	 (S[b]\NP)/PP 	 2 	 from suffer
+21 	 20 	 PP/NP 	 1 	 diabetes from
+<\s>
+<s id="wsj_1875.59"> 17
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 This is
+1 	 16 	 (S[dcl]\S[dcl])\NP 	 1 	 is adds
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 process is
+4 	 2 	 NP[nb]/N 	 1 	 process a
+4 	 3 	 N/N 	 1 	 process dynamic
+6 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 we 're
+6 	 8 	 (S[ng]\NP)/NP 	 1 	 we experiencing <XB>
+7 	 16 	 (S[dcl]\S[dcl])\NP 	 1 	 're adds
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 experiencing 're
+11 	 8 	 (S[ng]\NP)/NP 	 2 	 step experiencing
+11 	 9 	 NP[nb]/N 	 1 	 step the
+11 	 10 	 N/N 	 1 	 step first
+15 	 13 	 NP[nb]/N 	 1 	 official the
+15 	 14 	 N/N 	 1 	 official Bonn
+15 	 16 	 (S[dcl]\S[dcl])\NP 	 2 	 official adds
+<\s>
+<s id="wsj_1875.60"> 9
+1 	 0 	 NP[nb]/N 	 1 	 selection The
+1 	 2 	 (NP\NP)/NP 	 1 	 selection of
+1 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 selection may
+1 	 7 	 (S[b]\NP)/NP 	 1 	 selection disappoint <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 Krenz of
+4 	 3 	 N/N 	 1 	 Krenz Mr.
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 may also
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 disappoint may
+8 	 7 	 (S[b]\NP)/NP 	 2 	 Moscow disappoint
+<\s>
+<s id="wsj_1875.61"> 16
+3 	 0 	 N/N 	 1 	 Gorbachev Soviet
+3 	 1 	 N/N 	 1 	 Gorbachev leader
+3 	 2 	 N/N 	 1 	 Gorbachev Mikhail
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Gorbachev has
+3 	 5 	 (S[pt]\NP)/PP 	 1 	 Gorbachev pressed <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 pressed has
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 pressed hard
+7 	 5 	 (S[pt]\NP)/PP 	 2 	 for pressed
+9 	 7 	 PP/NP 	 1 	 change for
+9 	 8 	 NP[nb]/N 	 1 	 change a
+9 	 10 	 (NP\NP)/NP 	 1 	 change in
+12 	 11 	 N/N 	 1 	 Germany East
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Germany 's
+15 	 10 	 (NP\NP)/NP 	 2 	 stance in
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 stance 's
+15 	 14 	 N/N 	 1 	 stance rigid
+<\s>
+<s id="wsj_1875.62"> 28
+3 	 0 	 N/N 	 1 	 leaders Two
+3 	 1 	 N/N 	 1 	 leaders reform-minded
+3 	 2 	 N/N 	 1 	 leaders party
+3 	 4 	 (S[pss]\NP)/PP 	 1 	 leaders favored <XB>
+3 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 leaders were
+3 	 26 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 leaders passed <XB>
+3 	 27 	 S[adj]\NP 	 1 	 leaders over <XB>
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 favored by
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Moscow by
+7 	 4 	 (S[pss]\NP)/PP 	 2 	 as favored
+9 	 7 	 PP/NP 	 1 	 successors as
+9 	 8 	 N/N 	 1 	 successors possible
+9 	 10 	 (NP\NP)/NP 	 1 	 successors to
+12 	 10 	 (NP\NP)/NP 	 2 	 Honecker to
+12 	 11 	 N/N 	 1 	 Honecker Mr.
+18 	 14 	 N/N 	 1 	 Modrow Dresden
+18 	 15 	 N/N 	 1 	 Modrow party
+18 	 16 	 N/N 	 1 	 Modrow secretary
+18 	 17 	 N/N 	 1 	 Modrow Hans
+18 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Modrow were
+18 	 26 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 Modrow passed <XB>
+18 	 27 	 S[adj]\NP 	 1 	 Modrow over <XB>
+23 	 20 	 N/N 	 1 	 Schabowski Politburo
+23 	 21 	 N/N 	 1 	 Schabowski member
+23 	 22 	 N/N 	 1 	 Schabowski Guenter
+23 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Schabowski were
+23 	 26 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 Schabowski passed <XB>
+23 	 27 	 S[adj]\NP 	 1 	 Schabowski over <XB>
+26 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 passed were
+27 	 26 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 over passed
+<\s>
+<s id="wsj_1875.63"> 15
+2 	 1 	 N/N 	 1 	 Krenz Mr.
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 Krenz sticks
+3 	 0 	 (S/S)/S[dcl] 	 2 	 sticks If
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 to sticks
+6 	 4 	 PP/NP 	 1 	 policies to
+6 	 5 	 N/N 	 1 	 policies rigid
+8 	 7 	 NP[nb]/N 	 1 	 pressure the
+8 	 9 	 (NP\NP)/NP 	 1 	 pressure from
+8 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 pressure could
+8 	 14 	 S[b]\NP 	 1 	 pressure intensify <XB>
+12 	 9 	 (NP\NP)/NP 	 2 	 Union from
+12 	 10 	 NP[nb]/N 	 1 	 Union the
+12 	 11 	 N/N 	 1 	 Union Soviet
+13 	 0 	 (S/S)/S[dcl] 	 1 	 could If
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 intensify could
+<\s>
+<s id="wsj_1875.64"> 24
+1 	 0 	 (S/S)/NP 	 2 	 Moscow In
+4 	 3 	 N/N 	 1 	 Gorbachev Mr.
+4 	 5 	 ((S[dcl]\NP)/NP)/NP 	 1 	 Gorbachev sent
+5 	 0 	 (S/S)/NP 	 1 	 sent In
+7 	 5 	 ((S[dcl]\NP)/NP)/NP 	 3 	 Krenz sent
+7 	 6 	 N/N 	 1 	 Krenz Mr.
+10 	 5 	 ((S[dcl]\NP)/NP)/NP 	 2 	 telegram sent
+10 	 8 	 NP[nb]/N 	 1 	 telegram a
+10 	 9 	 N/N 	 1 	 telegram congratulatory
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 telegram that
+10 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 telegram appeared <XB>
+10 	 14 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 telegram urge <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 appeared that
+13 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to appeared
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 urge to
+17 	 14 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 leadership urge
+17 	 15 	 NP[nb]/N 	 1 	 leadership the
+17 	 16 	 N/N 	 1 	 leadership new
+17 	 19 	 (S[b]\NP)/NP 	 1 	 leadership heed <XB>
+18 	 14 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to urge
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 heed to
+21 	 19 	 (S[b]\NP)/NP 	 2 	 calls heed
+21 	 20 	 N/N 	 1 	 calls growing
+21 	 22 	 (NP\NP)/NP 	 1 	 calls for
+23 	 22 	 (NP\NP)/NP 	 2 	 change for
+<\s>
+<s id="wsj_1875.65"> 50
+1 	 0 	 (S/S)/PP 	 2 	 to According
+6 	 1 	 PP/NP 	 1 	 Tass to
+6 	 2 	 NP[nb]/N 	 1 	 Tass the
+6 	 3 	 N/N 	 1 	 Tass Soviet
+6 	 4 	 N/N 	 1 	 Tass news
+6 	 5 	 N/N 	 1 	 Tass agency
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 Gorbachev expressed
+9 	 0 	 (S/S)/PP 	 1 	 expressed According
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 conviction expressed
+11 	 10 	 NP[nb]/N 	 1 	 conviction the
+12 	 11 	 N/S[em] 	 1 	 that conviction
+14 	 13 	 NP[nb]/N 	 1 	 leadership the
+14 	 15 	 (NP\NP)/NP 	 1 	 leadership of
+14 	 26 	 (S[ng]\NP)/(S[adj]\NP) 	 1 	 leadership being <XB>
+14 	 27 	 (S[adj]\NP)/PP 	 1 	 leadership sensitive <XB>
+14 	 36 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 leadership will <XU>
+14 	 37 	 (S[b]\NP)/NP 	 1 	 leadership find <XU>
+19 	 15 	 (NP\NP)/NP 	 2 	 Party of
+19 	 16 	 NP[nb]/N 	 1 	 Party the
+19 	 17 	 N/N 	 1 	 Party Socialist
+19 	 18 	 N/N 	 1 	 Party Unity
+19 	 20 	 (NP\NP)/NP 	 1 	 Party of
+24 	 20 	 (NP\NP)/NP 	 2 	 Germany of
+24 	 22 	 N/N 	 1 	 Germany East
+27 	 26 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 sensitive being
+28 	 27 	 (S[adj]\NP)/PP 	 2 	 to sensitive
+30 	 28 	 PP/NP 	 1 	 demands to
+30 	 29 	 NP[nb]/N 	 1 	 demands the
+30 	 31 	 (NP\NP)/NP 	 1 	 demands of
+33 	 31 	 (NP\NP)/NP 	 2 	 time of
+33 	 32 	 NP[nb]/N 	 1 	 time the
+36 	 12 	 S[em]/S[dcl] 	 1 	 will that
+37 	 36 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 find will
+38 	 37 	 (S[b]\NP)/NP 	 2 	 solutions find
+38 	 39 	 (NP\NP)/NP 	 1 	 solutions to
+41 	 39 	 (NP\NP)/NP 	 2 	 problems to
+41 	 40 	 N/N 	 1 	 problems complicated
+41 	 49 	 (S[dcl]\NP)/NP 	 2 	 problems encountered <XU>
+43 	 42 	 NP[nb]/N 	 1 	 GDR the
+43 	 44 	 (NP\NP)/NP 	 1 	 GDR -LCB-
+43 	 49 	 (S[dcl]\NP)/NP 	 1 	 GDR encountered
+47 	 44 	 (NP\NP)/NP 	 2 	 Republic -LCB-
+47 	 45 	 N/N 	 1 	 Republic German
+47 	 46 	 N/N 	 1 	 Republic Democratic
+<\s>
+<s id="wsj_1875.66"> 22
+1 	 0 	 NP[nb]/N 	 1 	 force A
+1 	 2 	 (NP\NP)/NP 	 1 	 force of
+1 	 6 	 (NP\NP)/NP 	 1 	 force in
+1 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 force has
+1 	 16 	 (S[ng]\NP)/PP 	 1 	 force pushing <XB>
+5 	 2 	 (NP\NP)/NP 	 2 	 members of
+5 	 3 	 N/N 	 1 	 members younger
+5 	 4 	 N/N 	 1 	 members pro-Gorbachev
+9 	 8 	 (N/N)/(N/N) 	 2 	 German East
+10 	 6 	 (NP\NP)/NP 	 2 	 bureaucracy in
+10 	 7 	 NP[nb]/N 	 1 	 bureaucracy the
+10 	 9 	 N/N 	 1 	 bureaucracy German
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 has for
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 time for
+14 	 13 	 NP[nb]/N 	 1 	 time some
+15 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+16 	 15 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 pushing been
+17 	 16 	 (S[ng]\NP)/PP 	 2 	 for pushing
+18 	 17 	 PP/NP 	 1 	 relaxation for
+18 	 19 	 (NP\NP)/NP 	 1 	 relaxation within
+21 	 19 	 (NP\NP)/NP 	 2 	 country within
+21 	 20 	 NP[nb]/N 	 1 	 country their
+<\s>
+<s id="wsj_1875.67"> 26
+2 	 0 	 NP[nb]/N 	 1 	 generation The
+2 	 1 	 N/N 	 1 	 generation older
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 generation has
+2 	 5 	 S[pss]\NP 	 1 	 generation torn <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+5 	 4 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 torn been
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 torn between
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 fear between
+8 	 7 	 NP[nb]/N 	 1 	 fear a
+8 	 9 	 (NP\NP)/(S[ng]\NP) 	 1 	 fear of
+10 	 9 	 (NP\NP)/(S[ng]\NP) 	 2 	 tampering of
+11 	 10 	 (S[ng]\NP)/PP 	 2 	 with tampering
+14 	 11 	 PP/NP 	 1 	 quo with
+14 	 12 	 NP[nb]/N 	 1 	 quo the
+14 	 13 	 N/N 	 1 	 quo status
+17 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 fear between
+17 	 16 	 NP[nb]/N 	 1 	 fear a
+17 	 18 	 (NP\NP)/NP 	 1 	 fear of
+19 	 18 	 (NP\NP)/NP 	 2 	 what of
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 what might <XB>
+19 	 21 	 S[b]\NP 	 1 	 what happen <XB>
+20 	 19 	 NP/(S[dcl]\NP) 	 1 	 might what
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 happen might
+21 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 happen if
+23 	 24 	 S[dcl]\NP 	 1 	 they did
+24 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 did if
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 did n't
+<\s>
+<s id="wsj_1875.68"> 26
+2 	 0 	 (S/S)/NP 	 2 	 perspective From
+2 	 1 	 NP[nb]/N 	 1 	 perspective the
+2 	 3 	 (NP\NP)/NP 	 1 	 perspective of
+5 	 4 	 N/N 	 1 	 Germany East
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Germany 's
+8 	 3 	 (NP\NP)/NP 	 2 	 guard of
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 guard 's
+8 	 7 	 N/N 	 1 	 guard old
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 reforms that
+10 	 12 	 (S[dcl]\NP)/PP 	 1 	 reforms smack <XB>
+10 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 reforms could
+10 	 19 	 (S[b]\NP)/NP 	 1 	 reforms eliminate <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 smack that
+13 	 12 	 (S[dcl]\NP)/PP 	 2 	 of smack
+14 	 13 	 PP/NP 	 1 	 capitalism of
+17 	 13 	 PP/NP 	 1 	 democracy of
+17 	 16 	 N/N 	 1 	 democracy Western-style
+18 	 0 	 (S/S)/NP 	 1 	 could From
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 eliminate could
+21 	 20 	 NP[nb]/N 	 1 	 country their
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 country 's
+23 	 19 	 (S[b]\NP)/NP 	 2 	 reason eliminate
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 reason 's
+23 	 24 	 (NP\NP)/NP 	 1 	 reason for
+25 	 24 	 (NP\NP)/NP 	 2 	 being for
+<\s>
+<s id="wsj_1875.69"> 17
+3 	 0 	 (S/S)/NP 	 2 	 nations Unlike
+3 	 1 	 NP[nb]/N 	 1 	 nations the
+3 	 2 	 N/N 	 1 	 nations other
+3 	 4 	 (NP\NP)/NP 	 1 	 nations of
+6 	 4 	 (NP\NP)/NP 	 2 	 bloc of
+6 	 5 	 NP[nb]/N 	 1 	 bloc the
+9 	 8 	 N/N 	 1 	 Germany East
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 Germany is
+10 	 0 	 (S/S)/NP 	 1 	 is Unlike
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 creature is
+12 	 11 	 NP[nb]/N 	 1 	 creature a
+12 	 13 	 (NP\NP)/NP 	 1 	 creature of
+16 	 13 	 (NP\NP)/NP 	 2 	 War of
+16 	 14 	 NP[nb]/N 	 1 	 War the
+16 	 15 	 N/N 	 1 	 War Cold
+<\s>
+<s id="wsj_1875.70"> 26
+0 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Erasing wo
+0 	 17 	 (S[b]\NP)/NP 	 1 	 Erasing endanger <XB>
+2 	 0 	 (S[ng]\NP)/NP 	 2 	 differences Erasing
+2 	 1 	 NP[nb]/N 	 1 	 differences the
+2 	 4 	 (S[ng]\NP)/NP 	 1 	 differences dividing <XB>
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 dividing still
+5 	 4 	 (S[ng]\NP)/NP 	 2 	 Europe dividing
+11 	 0 	 (S[ng]\NP)/NP 	 2 	 reordering Erasing
+11 	 8 	 NP[nb]/N 	 1 	 reordering the
+11 	 9 	 N/N 	 1 	 reordering vast
+11 	 10 	 N/N 	 1 	 reordering international
+11 	 13 	 (S[dcl]\NP)/NP 	 2 	 reordering implies <XU>
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 that implies
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 wo n't
+17 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 endanger wo
+19 	 17 	 (S[b]\NP)/NP 	 2 	 statehood endanger
+19 	 18 	 NP[nb]/N 	 1 	 statehood the
+19 	 20 	 (NP\NP)/NP 	 1 	 statehood of
+22 	 20 	 (NP\NP)/NP 	 2 	 Poland of
+22 	 21 	 NP[nb]/N 	 1 	 Poland a
+25 	 20 	 (NP\NP)/NP 	 2 	 Hungary of
+25 	 24 	 NP[nb]/N 	 1 	 Hungary a
+<\s>
+<s id="wsj_1875.71"> 17
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it could
+1 	 4 	 S[b]\NP 	 1 	 it lead <XB>
+2 	 0 	 S/S 	 1 	 could But
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 could ultimately
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 lead could
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 lead to
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 reunification to
+7 	 6 	 N/N 	 1 	 reunification German
+10 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 disappearance to
+10 	 9 	 NP[nb]/N 	 1 	 disappearance the
+10 	 11 	 (NP\NP)/NP 	 1 	 disappearance of
+10 	 14 	 (NP\NP)/NP 	 1 	 disappearance from
+13 	 11 	 (NP\NP)/NP 	 2 	 Germany of
+13 	 12 	 N/N 	 1 	 Germany East
+16 	 14 	 (NP\NP)/NP 	 2 	 map from
+16 	 15 	 NP[nb]/N 	 1 	 map the
+<\s>
+<s id="wsj_1875.72"> 7
+1 	 0 	 S/(S[dcl]\NP) 	 1 	 is Which
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 what is
+2 	 6 	 (S[dcl]\NP)/NP 	 2 	 what fears <XU>
+5 	 3 	 NP[nb]/N 	 1 	 Guard the
+5 	 4 	 N/N 	 1 	 Guard Old
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Guard fears
+6 	 2 	 NP/(S[dcl]/NP) 	 1 	 fears what
+<\s>
+<s id="wsj_1875.73"> 46
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 I 'm
+0 	 2 	 (S[adj]\NP)/S[dcl] 	 1 	 I sure <XB>
+1 	 24 	 (S[dcl]\S[dcl])/NP 	 1 	 'm says
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 sure 'm
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they 'll
+3 	 5 	 (S[b]\NP)/NP 	 1 	 they formulate <XB>
+4 	 2 	 (S[adj]\NP)/S[dcl] 	 2 	 'll sure
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 formulate 'll
+7 	 5 	 (S[b]\NP)/NP 	 2 	 reform formulate
+7 	 6 	 NP[nb]/N 	 1 	 reform a
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 reform that
+7 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 reform will <XB>
+7 	 10 	 (S[b]\NP)/NP 	 1 	 reform be <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+12 	 10 	 (S[b]\NP)/NP 	 2 	 recipe be
+12 	 11 	 NP[nb]/N 	 1 	 recipe a
+12 	 13 	 (NP\NP)/NP 	 1 	 recipe for
+15 	 14 	 NP[nb]/N 	 1 	 GDR the
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 GDR 's
+17 	 13 	 (NP\NP)/NP 	 2 	 future for
+17 	 16 	 (NP[nb]/N)\NP 	 1 	 future 's
+17 	 18 	 (NP\NP)/NP 	 1 	 future as
+21 	 20 	 (N/N)/(N/N) 	 2 	 identifiable separately
+22 	 18 	 (NP\NP)/NP 	 2 	 state as
+22 	 19 	 NP[nb]/N 	 1 	 state a
+22 	 21 	 N/N 	 1 	 state identifiable
+26 	 24 	 (S[dcl]\S[dcl])/NP 	 2 	 Simmons says
+26 	 25 	 N/N 	 1 	 Simmons Michael
+30 	 24 	 (S[dcl]\S[dcl])/NP 	 2 	 journalist says
+30 	 28 	 NP[nb]/N 	 1 	 journalist a
+30 	 29 	 N/N 	 1 	 journalist British
+30 	 31 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 journalist whose
+32 	 31 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 book whose
+32 	 33 	 (N\N)/NP 	 1 	 book on
+32 	 42 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 book was <XB>
+32 	 43 	 S[pss]\NP 	 1 	 book published <XB>
+35 	 33 	 (N\N)/NP 	 2 	 Germany on
+35 	 34 	 N/N 	 1 	 Germany East
+40 	 37 	 (S[pss]\NP)/NP 	 2 	 Country entitled
+40 	 38 	 NP[nb]/N 	 1 	 Country The
+40 	 39 	 N/N 	 1 	 Country Unloved
+42 	 31 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 was whose
+43 	 42 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 published was
+43 	 44 	 ((S\NP)\(S\NP))/N 	 2 	 published this
+45 	 44 	 ((S\NP)\(S\NP))/N 	 3 	 month this
+<\s>
+<s id="wsj_1875.74"> 45
+1 	 0 	 (S/S)/PP 	 2 	 to Up
+2 	 1 	 PP/NP 	 1 	 now to
+5 	 4 	 NP[nb]/N 	 1 	 recipe that
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 recipe has
+5 	 7 	 (S[pt]\NP)/PP 	 1 	 recipe consisted <XB>
+6 	 0 	 (S/S)/PP 	 1 	 has Up
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 consisted has
+8 	 7 	 (S[pt]\NP)/PP 	 2 	 of consisted
+11 	 8 	 PP/NP 	 1 	 effort of
+11 	 9 	 NP[nb]/N 	 1 	 effort a
+11 	 10 	 N/N 	 1 	 effort dogged
+11 	 12 	 (NP\NP)/NP 	 1 	 effort by
+11 	 25 	 S[pss]\NP 	 1 	 effort followed <XB>
+16 	 12 	 (NP\NP)/NP 	 2 	 Ulbricht by
+16 	 13 	 N/N 	 1 	 Ulbricht former
+16 	 14 	 N/N 	 1 	 Ulbricht leader
+16 	 15 	 N/N 	 1 	 Ulbricht Walter
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 establish to
+20 	 19 	 NP[nb]/N 	 1 	 country the
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 country 's
+23 	 18 	 (S[b]\NP)/NP 	 2 	 legitimacy establish
+23 	 21 	 (NP[nb]/N)\NP 	 1 	 legitimacy 's
+23 	 22 	 N/N 	 1 	 legitimacy international
+25 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 followed by
+28 	 27 	 N/N 	 1 	 Honecker Mr.
+28 	 29 	 (NP[nb]/N)\NP 	 2 	 Honecker 's
+30 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 campaign by
+30 	 29 	 (NP[nb]/N)\NP 	 1 	 campaign 's
+30 	 32 	 ((S[b]\NP)/PP)/NP 	 1 	 campaign build <XB>
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+35 	 33 	 NP[nb]/N 	 1 	 bloc the
+35 	 34 	 N/N 	 1 	 bloc East
+35 	 36 	 (NP[nb]/N)\NP 	 2 	 bloc 's
+40 	 32 	 ((S[b]\NP)/PP)/NP 	 3 	 economy build
+40 	 36 	 (NP[nb]/N)\NP 	 1 	 economy 's
+40 	 37 	 N/N 	 1 	 economy only
+40 	 38 	 N/N 	 1 	 economy successful
+40 	 39 	 N/N 	 1 	 economy Stalinist
+41 	 32 	 ((S[b]\NP)/PP)/NP 	 2 	 into build
+44 	 41 	 PP/NP 	 1 	 paradise into
+44 	 42 	 NP[nb]/N 	 1 	 paradise a
+44 	 43 	 N/N 	 1 	 paradise consumer
+<\s>
+<s id="wsj_1875.75"> 4
+1 	 0 	 NP[nb]/N 	 1 	 man Neither
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 man achieved
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 perfection achieved
+<\s>
+<s id="wsj_1875.76"> 29
+1 	 0 	 (S/S)/(S/S) 	 2 	 in Early
+2 	 1 	 (S/S)/NP 	 2 	 1987 in
+5 	 4 	 N/N 	 1 	 Honecker Mr.
+5 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Honecker stopped
+5 	 10 	 ((S[ng]\NP)/PP)/NP 	 1 	 Honecker paying <XB>
+5 	 17 	 (S[dcl]\NP)/PP 	 1 	 Honecker joined <XU>
+5 	 21 	 (S[ng]\NP)/NP 	 1 	 Honecker rejecting <XU>
+8 	 7 	 NP[nb]/N 	 1 	 team his
+8 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 team stopped
+8 	 10 	 ((S[ng]\NP)/PP)/NP 	 1 	 team paying <XB>
+8 	 17 	 (S[dcl]\NP)/PP 	 1 	 team joined <XU>
+8 	 21 	 (S[ng]\NP)/NP 	 1 	 team rejecting <XU>
+9 	 1 	 (S/S)/NP 	 1 	 stopped in
+10 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 paying stopped
+12 	 10 	 ((S[ng]\NP)/PP)/NP 	 3 	 compliments paying
+12 	 11 	 N/N 	 1 	 compliments thin
+13 	 10 	 ((S[ng]\NP)/PP)/NP 	 2 	 to paying
+15 	 13 	 PP/NP 	 1 	 Gorbachev to
+15 	 14 	 N/N 	 1 	 Gorbachev Mr.
+17 	 1 	 (S/S)/NP 	 1 	 joined in
+17 	 20 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 joined in
+18 	 17 	 (S[dcl]\NP)/PP 	 2 	 with joined
+19 	 18 	 PP/NP 	 1 	 Romania with
+21 	 20 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 rejecting in
+23 	 21 	 (S[ng]\NP)/NP 	 2 	 necessity rejecting
+23 	 22 	 NP[nb]/N 	 1 	 necessity any
+23 	 24 	 (NP\NP)/NP 	 1 	 necessity for
+25 	 24 	 (NP\NP)/NP 	 2 	 adjustments for
+25 	 26 	 (NP\NP)/NP 	 1 	 adjustments in
+28 	 26 	 (NP\NP)/NP 	 2 	 systems in
+28 	 27 	 NP[nb]/N 	 1 	 systems their
+<\s>
+<s id="wsj_1875.77"> 21
+2 	 0 	 NP[nb]/N 	 1 	 Czechoslovaks The
+2 	 1 	 N/N 	 1 	 Czechoslovaks less-self-confident
+2 	 9 	 (S[dcl]\NP)/NP 	 1 	 Czechoslovaks declared
+2 	 16 	 ((S[ng]\NP)/PP)/NP 	 1 	 Czechoslovaks doing <XB>
+4 	 0 	 NP[nb]/N 	 1 	 Bulgarians The
+4 	 1 	 N/N 	 1 	 Bulgarians less-self-confident
+4 	 9 	 (S[dcl]\NP)/NP 	 1 	 Bulgarians declared
+4 	 16 	 ((S[ng]\NP)/PP)/NP 	 1 	 Bulgarians doing <XB>
+7 	 6 	 ((S\NP)/(S\NP))/NP 	 3 	 contrast in
+9 	 6 	 ((S\NP)/(S\NP))/NP 	 2 	 declared in
+9 	 15 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 declared while
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 intentions declared
+11 	 10 	 NP[nb]/N 	 1 	 intentions their
+11 	 13 	 S[b]\NP 	 1 	 intentions reform <XB>
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reform to
+16 	 15 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 doing while
+17 	 16 	 ((S[ng]\NP)/PP)/NP 	 3 	 nothing doing
+17 	 18 	 S[adj]\NP 	 1 	 nothing concrete <XB>
+19 	 16 	 ((S[ng]\NP)/PP)/NP 	 2 	 about doing
+20 	 19 	 PP/NP 	 1 	 it about
+<\s>
+<s id="wsj_1875.78"> 22
+2 	 1 	 (N/N)/(N/N) 	 2 	 German East
+3 	 0 	 NP[nb]/N 	 1 	 media The
+3 	 2 	 N/N 	 1 	 media German
+3 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 media began
+3 	 6 	 ((S[ng]\NP)/PP)/NP 	 1 	 media presenting <XB>
+3 	 17 	 ((S[ng]\NP)/PP)/NP 	 1 	 media giving <XU>
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 began soon
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 presenting began
+8 	 7 	 N/N 	 1 	 Gorbachev Mr.
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 Gorbachev 's
+10 	 6 	 ((S[ng]\NP)/PP)/NP 	 3 	 speeches presenting
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 speeches 's
+12 	 6 	 ((S[ng]\NP)/PP)/NP 	 2 	 as presenting
+12 	 11 	 PP/PP 	 1 	 as only
+14 	 12 	 PP/NP 	 1 	 summaries as
+14 	 13 	 N/N 	 1 	 summaries sketchy
+17 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 giving began
+18 	 17 	 ((S[ng]\NP)/PP)/NP 	 3 	 space giving
+19 	 17 	 ((S[ng]\NP)/PP)/NP 	 2 	 to giving
+21 	 19 	 PP/NP 	 1 	 opponents to
+21 	 20 	 NP[nb]/N 	 1 	 opponents his
+<\s>
+<s id="wsj_1875.79"> 9
+2 	 0 	 (S/S)/NP 	 2 	 1988 By
+2 	 1 	 N/N 	 1 	 1988 late
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they were
+4 	 6 	 (S[ng]\NP)/NP 	 1 	 they banning <XB>
+5 	 0 	 (S/S)/NP 	 1 	 were By
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 banning were
+8 	 6 	 (S[ng]\NP)/NP 	 2 	 publications banning
+8 	 7 	 N/N 	 1 	 publications Soviet
+<\s>
+<s id="wsj_1875.80"> 26
+1 	 0 	 NP[nb]/N 	 1 	 country The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 country abandoned
+1 	 10 	 (S[dcl]\NP)/PP 	 1 	 country took <XU>
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 devotion abandoned
+5 	 3 	 NP[nb]/N 	 1 	 devotion its
+5 	 4 	 N/N 	 1 	 devotion former
+5 	 6 	 (NP\NP)/NP 	 1 	 devotion to
+8 	 6 	 (NP\NP)/NP 	 2 	 unity to
+8 	 7 	 N/N 	 1 	 unity socialist
+11 	 10 	 (S[dcl]\NP)/PP 	 2 	 to took
+12 	 11 	 PP/(S[ng]\NP) 	 1 	 insisting to
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 insisting instead
+14 	 12 	 (S[ng]\NP)/S[em] 	 2 	 that insisting
+16 	 15 	 NP[nb]/N 	 1 	 country each
+16 	 17 	 (NP\NP)/NP 	 1 	 country in
+16 	 20 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 country ought
+16 	 22 	 (S[b]\NP)/NP 	 1 	 country travel <XB>
+19 	 17 	 (NP\NP)/NP 	 2 	 bloc in
+19 	 18 	 NP[nb]/N 	 1 	 bloc the
+20 	 14 	 S[em]/S[dcl] 	 1 	 ought that
+21 	 20 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to ought
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 travel to
+25 	 22 	 (S[b]\NP)/NP 	 2 	 road travel
+25 	 23 	 NP[nb]/N 	 1 	 road its
+25 	 24 	 N/N 	 1 	 road own
+<\s>
+<s id="wsj_1875.81"> 16
+1 	 0 	 N/N 	 1 	 Honecker Mr.
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 Honecker spoke
+1 	 11 	 (S[dcl]\NP)/NP 	 1 	 Honecker left <XU>
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 of spoke
+5 	 4 	 (N/N)/(N/N) 	 2 	 valid generally
+7 	 3 	 PP/NP 	 1 	 laws of
+7 	 5 	 N/N 	 1 	 laws valid
+7 	 6 	 N/N 	 1 	 laws objective
+7 	 8 	 (NP\NP)/NP 	 1 	 laws of
+9 	 8 	 (NP\NP)/NP 	 2 	 socialism of
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 room left
+13 	 12 	 NP[nb]/N 	 1 	 room no
+13 	 14 	 (NP\NP)/NP 	 1 	 room for
+15 	 14 	 (NP\NP)/NP 	 2 	 debate for
+<\s>
+<s id="wsj_1875.82"> 30
+2 	 1 	 NP[nb]/N 	 1 	 year this
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 year 's
+4 	 0 	 (S/S)/NP 	 2 	 dislocations With
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 dislocations 's
+4 	 5 	 (NP\NP)/NP 	 1 	 dislocations in
+6 	 5 	 (NP\NP)/NP 	 2 	 China in
+10 	 5 	 (NP\NP)/NP 	 2 	 Union in
+10 	 8 	 NP[nb]/N 	 1 	 Union the
+10 	 9 	 N/N 	 1 	 Union Soviet
+14 	 0 	 (S/S)/NP 	 2 	 drive With
+14 	 13 	 NP[nb]/N 	 1 	 drive the
+14 	 15 	 (NP\NP)/NP 	 1 	 drive to
+14 	 17 	 (NP\NP)/NP 	 1 	 drive in
+16 	 15 	 (NP\NP)/NP 	 2 	 democracy to
+18 	 17 	 (NP\NP)/NP 	 2 	 Poland in
+20 	 17 	 (NP\NP)/NP 	 2 	 Hungary in
+24 	 23 	 (N/N)/(N/N) 	 2 	 German East
+25 	 22 	 NP[nb]/N 	 1 	 leadership the
+25 	 24 	 N/N 	 1 	 leadership German
+25 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 leadership grew
+25 	 27 	 S[adj]\NP 	 1 	 leadership still <XB>
+26 	 0 	 (S/S)/NP 	 1 	 grew With
+27 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 still grew
+27 	 28 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 still more
+27 	 29 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 still defensive
+<\s>
+<s id="wsj_1875.83"> 12
+3 	 0 	 N/N 	 1 	 Herrman Politburo
+3 	 1 	 N/N 	 1 	 Herrman member
+3 	 2 	 N/N 	 1 	 Herrman Joachim
+3 	 4 	 (S[dcl]\NP)/PP 	 1 	 Herrman confessed
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 to confessed
+8 	 5 	 PP/NP 	 1 	 concern to
+8 	 6 	 NP[nb]/N 	 1 	 concern a
+8 	 7 	 N/N 	 1 	 concern grave
+8 	 9 	 (NP\NP)/NP 	 1 	 concern over
+11 	 9 	 (NP\NP)/NP 	 2 	 democracy over
+11 	 10 	 N/N 	 1 	 democracy Hungarian
+<\s>
+<s id="wsj_1875.84"> 23
+2 	 0 	 (S/S)/NP 	 2 	 banner Under
+2 	 1 	 NP[nb]/N 	 1 	 banner the
+2 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 banner that
+2 	 4 	 (S[dcl]\NP)/NP 	 1 	 banner proclaims <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 proclaims that
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 renewal proclaims
+6 	 5 	 NP[nb]/N 	 1 	 renewal the
+6 	 7 	 (NP\NP)/NP 	 1 	 renewal of
+8 	 7 	 (NP\NP)/NP 	 2 	 socialism of
+10 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 he said
+13 	 14 	 (S[dcl]\NP)/PP 	 1 	 forces are
+13 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 forces are <XB>
+13 	 19 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 forces striving <XB>
+13 	 21 	 (S[b]\NP)/NP 	 1 	 forces eliminate <XB>
+14 	 0 	 (S/S)/NP 	 1 	 are Under
+14 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said <XU>
+14 	 17 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 are that
+15 	 14 	 (S[dcl]\NP)/PP 	 2 	 at are
+16 	 15 	 PP/NP 	 1 	 work at
+18 	 17 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 are that
+19 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 striving are
+20 	 19 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to striving
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 eliminate to
+22 	 21 	 (S[b]\NP)/NP 	 2 	 socialism eliminate
+<\s>
+<s id="wsj_1875.85"> 20
+2 	 0 	 NP[nb]/N 	 1 	 voices Some
+2 	 1 	 N/N 	 1 	 voices loyal
+2 	 4 	 (NP\NP)/NP 	 1 	 voices in
+2 	 6 	 (NP\NP)/PP 	 1 	 voices out <XU>
+2 	 14 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 1 	 voices saw
+7 	 6 	 (NP\NP)/PP 	 2 	 of out
+10 	 9 	 (N/N)/(N/N) 	 2 	 German East
+12 	 4 	 (NP\NP)/NP 	 2 	 party in <XU>
+12 	 7 	 PP/NP 	 1 	 party of
+12 	 8 	 NP[nb]/N 	 1 	 party the
+12 	 10 	 N/N 	 1 	 party German
+12 	 11 	 N/N 	 1 	 party Communist
+16 	 15 	 NP[nb]/N 	 1 	 nation the
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 nation 's
+18 	 14 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 3 	 unrest saw
+18 	 17 	 (NP[nb]/N)\NP 	 1 	 unrest 's
+18 	 19 	 S[ng]\NP 	 1 	 unrest coming <XB>
+19 	 14 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 2 	 coming saw
+<\s>
+<s id="wsj_1875.86"> 5
+2 	 0 	 NP[nb]/N 	 1 	 signs The
+2 	 1 	 N/N 	 1 	 signs first
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 signs were
+2 	 4 	 S[adj]\NP 	 1 	 signs economic <XB>
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 economic were
+<\s>
+<s id="wsj_1875.87"> 18
+2 	 1 	 (N/N)/(N/N) 	 2 	 subsidized heavily
+4 	 0 	 (S/S)/NP 	 2 	 industries Despite
+4 	 2 	 N/N 	 1 	 industries subsidized
+4 	 3 	 N/N 	 1 	 industries consumer
+7 	 6 	 N/N 	 1 	 Germans East
+7 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Germans have
+7 	 11 	 ((S[pt]\NP)/(S[b]\NP))/NP 	 1 	 Germans watched <XB>
+8 	 0 	 (S/S)/NP 	 1 	 have Despite
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 have for
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+11 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 watched have
+13 	 11 	 ((S[pt]\NP)/(S[b]\NP))/NP 	 3 	 West watched
+13 	 12 	 NP[nb]/N 	 1 	 West the
+13 	 14 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 West pull <XB>
+13 	 17 	 S[adj]\NP 	 1 	 West ahead <XB>
+14 	 11 	 ((S[pt]\NP)/(S[b]\NP))/NP 	 2 	 pull watched
+17 	 14 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 ahead pull
+17 	 15 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 ahead farther
+17 	 16 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 ahead out
+<\s>
+<s id="wsj_1875.88"> 15
+1 	 0 	 (S/S)/NP 	 2 	 1988 In
+6 	 3 	 (S/S)/NP 	 2 	 time for
+6 	 4 	 NP[nb]/N 	 1 	 time the
+6 	 5 	 N/N 	 1 	 time first
+9 	 8 	 N/N 	 1 	 growth economic
+9 	 10 	 S[dcl]\NP 	 1 	 growth came
+10 	 0 	 (S/S)/NP 	 1 	 came In
+10 	 3 	 (S/S)/NP 	 1 	 came for
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 came to
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 stop to
+14 	 12 	 NP[nb]/N 	 1 	 stop a
+14 	 13 	 N/N 	 1 	 stop dead
+<\s>
+<s id="wsj_1875.89"> 9
+3 	 2 	 NP[nb]/N 	 1 	 economists some
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 economists began
+3 	 6 	 (S[b]\NP)/NP 	 1 	 economists blame <XB>
+4 	 0 	 S/S 	 1 	 began Gingerly
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to began
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 blame to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 planning blame
+8 	 7 	 N/N 	 1 	 planning central
+<\s>
+<s id="wsj_1875.90"> 18
+1 	 0 	 NP[nb]/N 	 1 	 writers Some
+1 	 2 	 (NP\NP)/NP 	 1 	 writers in
+1 	 6 	 (S[dcl]\NP)/NP 	 1 	 writers raised
+4 	 2 	 (NP\NP)/NP 	 2 	 journals in
+4 	 3 	 N/N 	 1 	 journals theoretical
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 raised even
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 notion raised
+8 	 7 	 NP[nb]/N 	 1 	 notion the
+8 	 9 	 (NP\NP)/(S[ng]\NP) 	 1 	 notion of
+10 	 9 	 (NP\NP)/(S[ng]\NP) 	 2 	 introducing of
+10 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 introducing in
+11 	 10 	 (S[ng]\NP)/NP 	 2 	 democracy introducing
+14 	 13 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(S[asup]\NP) 	 4 	 least at
+15 	 13 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(S[asup]\NP) 	 3 	 in at
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 workplace in
+17 	 16 	 NP[nb]/N 	 1 	 workplace the
+<\s>
+<s id="wsj_1875.91"> 17
+1 	 0 	 (S/S)/NP 	 2 	 summer By
+6 	 3 	 NP[nb]/N 	 1 	 movement an
+6 	 4 	 N/N 	 1 	 movement independent
+6 	 5 	 N/N 	 1 	 movement reform
+6 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 movement was
+6 	 8 	 (S[ng]\NP)/NP 	 1 	 movement saying <XB>
+7 	 0 	 (S/S)/NP 	 1 	 was By
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 saying was
+8 	 10 	 (S\NP)\(S\NP) 	 2 	 saying loud
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 loud out
+11 	 8 	 (S[ng]\NP)/NP 	 2 	 what saying
+11 	 15 	 (S[pt]\NP)/NP 	 2 	 what whispered <XU>
+12 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it had
+12 	 15 	 (S[pt]\NP)/NP 	 1 	 it whispered <XB>
+13 	 11 	 NP/(S[dcl]/NP) 	 1 	 had what
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 had only
+15 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 whispered had
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 whispered before
+<\s>
+<s id="wsj_1875.92"> 5
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 they are
+2 	 0 	 S/S 	 1 	 are But
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 socialists are
+4 	 3 	 N/N 	 1 	 socialists stalwart
+<\s>
+<s id="wsj_1875.93"> 19
+2 	 0 	 NP[nb]/N 	 1 	 purpose Their
+2 	 1 	 N/N 	 1 	 purpose proclaimed
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 purpose is
+2 	 5 	 ((S[b]\NP)/PP)/NP 	 1 	 purpose cleanse <XB>
+2 	 15 	 (S[b]\NP)/PP 	 1 	 purpose merge <XU>
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cleanse to
+7 	 5 	 ((S[b]\NP)/PP)/NP 	 3 	 Germany cleanse
+7 	 6 	 N/N 	 1 	 Germany East
+8 	 5 	 ((S[b]\NP)/PP)/NP 	 2 	 of cleanse
+11 	 8 	 PP/NP 	 1 	 muck of
+11 	 9 	 NP[nb]/N 	 1 	 muck its
+11 	 10 	 N/N 	 1 	 muck Stalinist
+14 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 to not
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 merge to
+16 	 15 	 (S[b]\NP)/PP 	 2 	 with merge
+18 	 16 	 PP/NP 	 1 	 West with
+18 	 17 	 NP[nb]/N 	 1 	 West the
+<\s>
+<s id="wsj_1875.94"> 12
+0 	 1 	 (NP\NP)/NP 	 1 	 One of
+0 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 One has
+0 	 5 	 (S[pt]\NP)/NP 	 1 	 One envisioned <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 pastors of
+3 	 2 	 NP[nb]/N 	 1 	 pastors their
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 envisioned has
+8 	 5 	 (S[pt]\NP)/NP 	 2 	 utopia envisioned
+8 	 6 	 NP[nb]/N 	 1 	 utopia a
+8 	 7 	 N/N 	 1 	 utopia new
+8 	 9 	 (NP\NP)/NP 	 1 	 utopia of
+11 	 9 	 (NP\NP)/NP 	 2 	 socialism of
+11 	 10 	 N/N 	 1 	 socialism creative
+<\s>
+<s id="wsj_1875.95"> 16
+3 	 2 	 NP[nb]/N 	 1 	 man the
+3 	 6 	 (S[dcl]\NP)/NP 	 2 	 man replaces <XU>
+3 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 man has
+3 	 8 	 (S[pt]\NP)/NP 	 1 	 man left <XB>
+5 	 4 	 N/N 	 1 	 Krenz Mr.
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Krenz replaces
+7 	 0 	 S/S 	 1 	 has Meanwhile
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 left has
+8 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 left on
+11 	 8 	 (S[pt]\NP)/NP 	 2 	 mark left
+11 	 9 	 NP[nb]/N 	 1 	 mark an
+11 	 10 	 N/N 	 1 	 mark indelible
+14 	 13 	 (N/N)/(N/N) 	 2 	 German East
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 society on
+15 	 14 	 N/N 	 1 	 society German
+<\s>
+<s id="wsj_1875.96"> 32
+0 	 1 	 ((S\NP)\(S\NP))/NP 	 2 	 Imprisoned by
+0 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 Imprisoned during
+0 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 Imprisoned for
+3 	 1 	 ((S\NP)\(S\NP))/NP 	 3 	 Nazis by
+3 	 2 	 NP[nb]/N 	 1 	 Nazis the
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 II during
+7 	 5 	 N/N 	 1 	 II World
+7 	 6 	 N/N 	 1 	 II War
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 beliefs for
+11 	 9 	 NP[nb]/N 	 1 	 beliefs his
+11 	 10 	 N/N 	 1 	 beliefs political
+14 	 13 	 N/N 	 1 	 Honecker Mr.
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 Honecker typified
+18 	 15 	 (S[dcl]\NP)/NP 	 2 	 generation typified
+18 	 16 	 NP[nb]/N 	 1 	 generation the
+18 	 17 	 N/N 	 1 	 generation postwar
+18 	 19 	 (NP\NP)/NP 	 1 	 generation of
+22 	 19 	 (NP\NP)/NP 	 2 	 leaders of
+22 	 20 	 N/N 	 1 	 leaders committed
+22 	 21 	 N/N 	 1 	 leaders Communist
+22 	 23 	 (NP\NP)/NP 	 1 	 leaders in
+22 	 26 	 (NP\NP)/(S[dcl]\NP) 	 1 	 leaders who
+22 	 27 	 ((S[dcl]\NP)/PP)/NP 	 1 	 leaders took <XB>
+25 	 23 	 (NP\NP)/NP 	 2 	 Europe in
+25 	 24 	 N/N 	 1 	 Europe Eastern
+27 	 26 	 (NP\NP)/(S[dcl]\NP) 	 2 	 took who
+29 	 27 	 ((S[dcl]\NP)/PP)/NP 	 3 	 cues took
+29 	 28 	 NP[nb]/N 	 1 	 cues their
+30 	 27 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from took
+31 	 30 	 PP/NP 	 1 	 Moscow from
+<\s>
+<s id="wsj_1875.97"> 29
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 He was
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 warrior was
+4 	 2 	 NP[nb]/N 	 1 	 warrior a
+4 	 3 	 N/N 	 1 	 warrior socialist
+4 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 warrior who
+4 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 warrior felt <XB>
+4 	 7 	 S[pss]\NP 	 1 	 warrior rankled <XB>
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 felt who
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 rankled felt
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rankled by
+10 	 9 	 N/N 	 1 	 Germany West
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Germany 's
+14 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 prosperity by
+14 	 11 	 (NP[nb]/N)\NP 	 1 	 prosperity 's
+14 	 12 	 N/N 	 1 	 prosperity enormous
+14 	 13 	 N/N 	 1 	 prosperity postwar
+18 	 16 	 NP[nb]/N 	 1 	 government the
+18 	 17 	 N/N 	 1 	 government Bonn
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 government 's
+21 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 refusal by
+21 	 19 	 (NP[nb]/N)\NP 	 1 	 refusal 's
+21 	 20 	 N/N 	 1 	 refusal steadfast
+21 	 23 	 (S[b]\NP)/NP 	 1 	 refusal recognize <XB>
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 recognize to
+25 	 23 	 (S[b]\NP)/NP 	 2 	 legitimacy recognize
+25 	 24 	 NP[nb]/N 	 1 	 legitimacy the
+25 	 26 	 (NP\NP)/NP 	 1 	 legitimacy of
+28 	 26 	 (NP\NP)/NP 	 2 	 state of
+28 	 27 	 NP[nb]/N 	 1 	 state his
+<\s>
+<s id="wsj_1875.98"> 26
+8 	 2 	 (S/S)/NP 	 2 	 visit during
+8 	 3 	 NP[nb]/N 	 1 	 visit his
+8 	 4 	 N/N 	 1 	 visit first <XU>
+8 	 6 	 N/N 	 1 	 visit only
+8 	 7 	 N/N 	 1 	 visit state
+8 	 9 	 (NP\NP)/NP 	 1 	 visit to
+8 	 13 	 (NP\NP)\NP 	 1 	 visit ago
+10 	 9 	 (NP\NP)/NP 	 2 	 Bonn to
+12 	 11 	 N/N 	 1 	 years two
+12 	 13 	 (NP\NP)\NP 	 2 	 years ago
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 he won
+16 	 0 	 S/S 	 1 	 won Finally
+16 	 2 	 (S/S)/NP 	 1 	 won during
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 measure won
+18 	 17 	 NP[nb]/N 	 1 	 measure some
+18 	 19 	 (NP\NP)/NP 	 1 	 measure of
+21 	 19 	 (NP\NP)/NP 	 2 	 recognition of
+21 	 20 	 NP[nb]/N 	 1 	 recognition the
+21 	 25 	 (S[pt]\NP)/NP 	 2 	 recognition sought <XU>
+22 	 23 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he had
+22 	 25 	 (S[pt]\NP)/NP 	 1 	 he sought <XB>
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 had long
+25 	 23 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 sought had
+<\s>
+<s id="wsj_1875.99"> 15
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 he was
+2 	 4 	 S[pss]\NP 	 1 	 he undone <XB>
+3 	 0 	 S/S 	 1 	 was But
+3 	 1 	 S/S 	 1 	 was ultimately
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 undone was
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 undone by
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 forces by
+6 	 7 	 S[pss]\NP 	 1 	 forces unleashed <XB>
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 unleashed by
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 comrade by
+11 	 9 	 NP[nb]/N 	 1 	 comrade his
+11 	 10 	 N/N 	 1 	 comrade own
+14 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Gorbachev by
+14 	 13 	 N/N 	 1 	 Gorbachev Mr.
+<\s>
+<s id="wsj_1875.100"> 15
+1 	 0 	 N/N 	 1 	 Honecker Mr.
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Honecker 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 removal 's
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 removal was
+3 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 removal bound <XB>
+3 	 7 	 S[b]\NP 	 1 	 removal happen <XB>
+4 	 9 	 (S[dcl]\S[dcl])/NP 	 1 	 was says
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 bound was
+6 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to bound
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 happen to
+11 	 9 	 (S[dcl]\S[dcl])/NP 	 2 	 aide says
+11 	 10 	 N/N 	 1 	 aide one
+11 	 12 	 (NP\NP)/NP 	 1 	 aide to
+14 	 12 	 (NP\NP)/NP 	 2 	 Kohl to
+14 	 13 	 N/N 	 1 	 Kohl Chancellor
+<\s>
+<s id="wsj_1875.101"> 7
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It was
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 was only
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 matter was
+4 	 3 	 NP[nb]/N 	 1 	 matter a
+4 	 5 	 (NP\NP)/NP 	 1 	 matter of
+6 	 5 	 (NP\NP)/NP 	 2 	 time of
+<\s>
+<s id="wsj_1875.102"> 28
+3 	 0 	 NP[nb]/N 	 1 	 Commission The
+3 	 1 	 N/N 	 1 	 Commission European
+3 	 2 	 N/N 	 1 	 Commission Community
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Commission increased
+4 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 forecast increased
+6 	 5 	 NP[nb]/N 	 1 	 forecast its
+6 	 7 	 (NP\NP)/NP 	 1 	 forecast for
+9 	 7 	 (NP\NP)/NP 	 2 	 growth for
+9 	 8 	 N/N 	 1 	 growth economic
+9 	 10 	 (NP\NP)/NP 	 1 	 growth in
+9 	 13 	 (NP\NP)/NP 	 1 	 growth in
+12 	 10 	 (NP\NP)/NP 	 2 	 EC in
+12 	 11 	 NP[nb]/N 	 1 	 EC the
+14 	 13 	 (NP\NP)/NP 	 2 	 1989 in
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+17 	 16 	 N/N 	 1 	 % 3.5
+17 	 20 	 S[adj]\NP 	 1 	 % higher <XB>
+20 	 19 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 higher slightly
+20 	 21 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 higher than
+24 	 21 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 projection than
+24 	 22 	 NP[nb]/N 	 1 	 projection its
+24 	 23 	 N/N 	 1 	 projection June
+24 	 25 	 (NP\NP)/NP 	 1 	 projection of
+27 	 25 	 (NP\NP)/NP 	 2 	 % of
+27 	 26 	 N/N 	 1 	 % 3.25
+<\s>
+<s id="wsj_1875.103"> 25
+4 	 0 	 (S/S)/NP 	 2 	 report In
+4 	 1 	 NP[nb]/N 	 1 	 report its
+4 	 2 	 N/N 	 1 	 report annual
+4 	 3 	 N/N 	 1 	 report economic
+4 	 5 	 (NP\NP)/NP 	 1 	 report for
+6 	 5 	 (NP\NP)/NP 	 2 	 1989-1990 for
+9 	 8 	 NP[nb]/N 	 1 	 commission the
+9 	 11 	 ((S[dcl]\NP)/PP)/NP 	 1 	 commission projected
+11 	 0 	 (S/S)/NP 	 1 	 projected In
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 projected also
+16 	 11 	 ((S[dcl]\NP)/PP)/NP 	 3 	 growth projected
+16 	 12 	 N/N 	 1 	 growth 1990
+16 	 13 	 N/N 	 1 	 growth gross
+16 	 14 	 N/N 	 1 	 growth domestic
+16 	 15 	 N/N 	 1 	 growth product
+16 	 17 	 (NP\NP)/NP 	 1 	 growth for
+21 	 17 	 (NP\NP)/NP 	 2 	 members for
+21 	 18 	 NP[nb]/N 	 1 	 members the
+21 	 19 	 N/N 	 1 	 members 12
+21 	 20 	 N/N 	 1 	 members EC
+22 	 11 	 ((S[dcl]\NP)/PP)/NP 	 2 	 at projected
+24 	 22 	 PP/NP 	 1 	 % at
+24 	 23 	 N/N 	 1 	 % 3
+<\s>
+<s id="wsj_1875.104"> 18
+1 	 0 	 N/N 	 1 	 inflation EC
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 inflation was
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 inflation seen <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 seen was
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 at seen
+6 	 4 	 PP/NP 	 1 	 % at
+6 	 5 	 N/N 	 1 	 % 4.8
+6 	 7 	 (NP\NP)/NP 	 1 	 % in
+6 	 10 	 S[adj]\NP 	 1 	 % higher <XB>
+8 	 7 	 (NP\NP)/NP 	 2 	 1989 in
+10 	 11 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 higher than
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 1988 's
+15 	 14 	 (N/N)/(N/N) 	 2 	 % 3.6
+17 	 11 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 rise than
+17 	 13 	 (NP[nb]/N)\NP 	 1 	 rise 's
+17 	 15 	 N/N 	 1 	 rise %
+17 	 16 	 N/N 	 1 	 rise price
+<\s>
+<s id="wsj_1875.105"> 11
+2 	 3 	 (NP\NP)/NP 	 1 	 inflation for
+2 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 inflation was
+2 	 6 	 (S[pss]\NP)/(S[ng]\NP) 	 1 	 inflation seen <XB>
+2 	 7 	 S[ng]\NP 	 1 	 inflation slowing <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 1990 for
+5 	 0 	 S/S 	 1 	 was However
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 seen was
+7 	 6 	 (S[pss]\NP)/(S[ng]\NP) 	 2 	 slowing seen
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 slowing to
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+10 	 9 	 N/N 	 1 	 % 4.5
+<\s>
+<s id="wsj_1875.106"> 16
+0 	 6 	 (S[dcl]\(S[ng]\NP))/NP 	 1 	 Leading was
+3 	 0 	 (S[ng]\NP)/NP 	 2 	 forecasts Leading
+3 	 1 	 N/N 	 1 	 forecasts EC
+3 	 2 	 N/N 	 1 	 forecasts growth
+5 	 4 	 (S/S)/NP 	 2 	 1989 in
+6 	 4 	 (S/S)/NP 	 1 	 was in
+7 	 6 	 (S[dcl]\(S[ng]\NP))/NP 	 2 	 Ireland was
+7 	 9 	 (S[pss]\NP)/(S[ng]\NP) 	 1 	 Ireland seen <XB>
+7 	 10 	 S[ng]\NP 	 1 	 Ireland growing <XB>
+10 	 9 	 (S[pss]\NP)/(S[ng]\NP) 	 2 	 growing seen
+10 	 12 	 (S\NP)\(S\NP) 	 2 	 growing %
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 growing at
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 5
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 prices at
+15 	 14 	 N/N 	 1 	 prices constant
+<\s>
+<s id="wsj_1875.107"> 23
+0 	 1 	 (N/N)\(N/N) 	 2 	 Slower growth
+2 	 0 	 N/N 	 1 	 countries Slower
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 countries included
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 Greece included
+4 	 6 	 (NP\NP)/NP 	 1 	 Greece at
+8 	 6 	 (NP\NP)/NP 	 2 	 % at
+8 	 7 	 N/N 	 1 	 % 2.5
+11 	 3 	 (S[dcl]\NP)/NP 	 2 	 U.K. included
+11 	 10 	 NP[nb]/N 	 1 	 U.K. the
+11 	 13 	 (NP\NP)/NP 	 1 	 U.K. at
+15 	 13 	 (NP\NP)/NP 	 2 	 % at
+15 	 14 	 N/N 	 1 	 % 2.25
+18 	 3 	 (S[dcl]\NP)/NP 	 2 	 Denmark included
+18 	 20 	 (NP\NP)/NP 	 1 	 Denmark at
+22 	 20 	 (NP\NP)/NP 	 2 	 % at
+22 	 21 	 N/N 	 1 	 % 1.75
+<\s>
+<s id="wsj_1875.109"> 23
+3 	 0 	 (S/S)/NP 	 2 	 end At
+3 	 1 	 NP[nb]/N 	 1 	 end the
+3 	 2 	 N/N 	 1 	 end other
+3 	 4 	 (NP\NP)/NP 	 1 	 end of
+6 	 4 	 (NP\NP)/NP 	 2 	 spectrum of
+6 	 5 	 NP[nb]/N 	 1 	 spectrum the
+9 	 8 	 (N/N)/(N/N) 	 2 	 German West
+10 	 9 	 N/N 	 1 	 inflation German
+10 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 inflation was
+10 	 12 	 (S[pss]\NP)/PP 	 1 	 inflation forecast <XB>
+11 	 0 	 (S/S)/NP 	 1 	 was At
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 forecast was
+13 	 12 	 (S[pss]\NP)/PP 	 2 	 at forecast
+15 	 13 	 PP/NP 	 1 	 % at
+15 	 14 	 N/N 	 1 	 % 3
+15 	 16 	 (NP\NP)/NP 	 1 	 % in
+17 	 16 	 (NP\NP)/NP 	 2 	 1989 in
+20 	 13 	 PP/NP 	 1 	 % at
+20 	 19 	 N/N 	 1 	 % 2.75
+20 	 21 	 (NP\NP)/NP 	 1 	 % in
+22 	 21 	 (NP\NP)/NP 	 2 	 1990 in
+<\s>
+<s id="wsj_1875.110"> 14
+2 	 0 	 N/N 	 1 	 Ltd. Nestle
+2 	 1 	 N/N 	 1 	 Ltd. Korea
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Ltd. opened
+3 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 opened in
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 coffee opened
+5 	 4 	 NP[nb]/N 	 1 	 coffee a
+8 	 3 	 (S[dcl]\NP)/NP 	 2 	 plant opened
+8 	 4 	 NP[nb]/N 	 1 	 plant a
+8 	 7 	 N/N 	 1 	 plant non-dairy-creamer
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Chongju in
+13 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Korea in
+13 	 12 	 N/N 	 1 	 Korea South
+<\s>
+<s id="wsj_1875.111"> 40
+1 	 0 	 NP[nb]/N 	 1 	 official An
+1 	 2 	 (NP\NP)/NP 	 1 	 official at
+1 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 official said
+4 	 2 	 (NP\NP)/NP 	 2 	 Korea at
+4 	 3 	 N/N 	 1 	 Korea Nestle
+9 	 2 	 (NP\NP)/NP 	 2 	 venture at
+9 	 6 	 NP[nb]/N 	 1 	 venture a
+9 	 7 	 N/N 	 1 	 venture 50-50
+9 	 8 	 N/N 	 1 	 venture joint
+9 	 10 	 (NP\NP)/NP 	 1 	 venture between
+12 	 10 	 (NP\NP)/NP 	 2 	 S.A. between
+12 	 11 	 N/N 	 1 	 S.A. Nestle
+16 	 10 	 (NP\NP)/NP 	 2 	 Group between
+16 	 14 	 NP[nb]/N 	 1 	 Group the
+16 	 15 	 N/N 	 1 	 Group Doosan
+21 	 19 	 NP[nb]/N 	 1 	 facility the
+21 	 20 	 N/N 	 1 	 facility new
+21 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 facility will
+21 	 23 	 (S[b]\NP)/NP 	 1 	 facility manufacture <XB>
+22 	 18 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 manufacture will
+25 	 23 	 (S[b]\NP)/NP 	 2 	 types manufacture
+25 	 24 	 NP[nb]/N 	 1 	 types all
+25 	 26 	 (NP\NP)/NP 	 1 	 types of
+32 	 26 	 (NP\NP)/NP 	 2 	 coffee of
+32 	 27 	 N/N 	 1 	 coffee soluble <XU>
+32 	 29 	 N/N 	 1 	 coffee roasted <XU>
+32 	 31 	 N/N 	 1 	 coffee ground
+35 	 26 	 (NP\NP)/NP 	 2 	 mix of
+35 	 34 	 N/N 	 1 	 mix coffee
+39 	 26 	 (NP\NP)/NP 	 2 	 creamer of
+39 	 37 	 N/N 	 1 	 creamer nondairy
+39 	 38 	 N/N 	 1 	 creamer coffee
+<\s>
+<s id="wsj_1875.112"> 26
+4 	 0 	 NP[nb]/N 	 1 	 market The
+4 	 1 	 N/N 	 1 	 market South
+4 	 2 	 N/N 	 1 	 market Korean
+4 	 3 	 N/N 	 1 	 market coffee
+4 	 6 	 (S[ng]\NP)/PP 	 1 	 market consisting <XB>
+4 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 market was
+4 	 13 	 (S[pss]\NP)/PP 	 1 	 market estimated <XB>
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 consisting mostly
+8 	 6 	 (S[ng]\NP)/PP 	 2 	 of consisting
+10 	 8 	 PP/NP 	 1 	 coffee of
+10 	 9 	 N/N 	 1 	 coffee instant
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 estimated was
+13 	 25 	 (S\NP)\(S\NP) 	 2 	 estimated year
+14 	 13 	 (S[pss]\NP)/PP 	 2 	 at estimated
+17 	 15 	 (N/N)/(N/N) 	 2 	 billion about
+17 	 16 	 (N/N)/(N/N) 	 2 	 billion 100
+18 	 14 	 PP/NP 	 1 	 won at
+18 	 17 	 N/N 	 1 	 won billion
+18 	 19 	 (NP\NP)/NP 	 1 	 won -LRB-
+20 	 19 	 (NP\NP)/NP 	 2 	 $ -LRB-
+22 	 20 	 N/N[num] 	 1 	 million $
+22 	 21 	 N/N 	 1 	 million 150.7
+25 	 24 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year last
+<\s>
+<s id="wsj_1875.113"> 20
+0 	 1 	 S[pss]\NP 	 1 	 Brands made <XB>
+0 	 12 	 (S[dcl]\NP)/NP 	 1 	 Brands had
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 made by
+7 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 unit by
+7 	 3 	 NP[nb]/N 	 1 	 unit the
+7 	 4 	 N/N 	 1 	 unit Kraft
+7 	 5 	 N/N 	 1 	 unit General
+7 	 6 	 N/N 	 1 	 unit Foods
+7 	 8 	 (NP\NP)/NP 	 1 	 unit of
+11 	 8 	 (NP\NP)/NP 	 2 	 Cos. of
+11 	 9 	 N/N 	 1 	 Cos. Philip
+11 	 10 	 N/N 	 1 	 Cos. Morris
+14 	 13 	 (N/N)/(N/N) 	 2 	 95 about
+15 	 12 	 (S[dcl]\NP)/NP 	 2 	 % had
+15 	 14 	 N/N 	 1 	 % 95
+15 	 16 	 (NP\NP)/NP 	 1 	 % of
+19 	 16 	 (NP\NP)/NP 	 2 	 share of
+19 	 17 	 NP[nb]/N 	 1 	 share the
+19 	 18 	 N/N 	 1 	 share market
+<\s>
+<s id="wsj_1875.114"> 15
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 Nestle has
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 has currently
+2 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 has with
+7 	 6 	 (N/N)/(N/N) 	 2 	 % 2
+8 	 2 	 (S[dcl]\NP)/NP 	 2 	 share has
+8 	 3 	 NP/NP 	 1 	 share only
+8 	 4 	 NP/NP 	 1 	 share about
+8 	 5 	 NP[nb]/N 	 1 	 share a
+8 	 7 	 N/N 	 1 	 share %
+12 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 's with
+12 	 10 	 NP/NP 	 1 	 's its
+12 	 11 	 N/N 	 1 	 's Taster
+12 	 13 	 NP\NP 	 1 	 's Choice
+12 	 14 	 NP\NP 	 1 	 's coffee
+<\s>
+<s id="wsj_1875.115"> 20
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Poland plans
+0 	 3 	 (S[b]\NP)/NP 	 1 	 Poland start <XB>
+0 	 7 	 ((S[ng]\NP)/PP)/NP 	 1 	 Poland purchasing <XB>
+1 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 plans reported
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 start to
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 start soon
+3 	 6 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 start on
+4 	 3 	 (S[b]\NP)/NP 	 2 	 negotiations start
+7 	 6 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 purchasing on
+9 	 7 	 ((S[ng]\NP)/PP)/NP 	 3 	 gas purchasing
+9 	 8 	 N/N 	 1 	 gas natural
+10 	 7 	 ((S[ng]\NP)/PP)/NP 	 2 	 from purchasing
+11 	 10 	 PP/NP 	 1 	 Iran from
+18 	 13 	 NP[nb]/N 	 1 	 Agency the
+18 	 14 	 N/N 	 1 	 Agency official
+18 	 15 	 N/N 	 1 	 Agency Islamic
+18 	 16 	 N/N 	 1 	 Agency Republic
+18 	 17 	 N/N 	 1 	 Agency News
+18 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 Agency reported
+<\s>
+<s id="wsj_1875.116"> 31
+1 	 0 	 NP[nb]/N 	 1 	 agency The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 agency said
+7 	 3 	 N/N 	 1 	 Mazowiecki Polish
+7 	 4 	 N/N 	 1 	 Mazowiecki Prime
+7 	 5 	 N/N 	 1 	 Mazowiecki Minister
+7 	 6 	 N/N 	 1 	 Mazowiecki Tadeusz
+7 	 8 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Mazowiecki told
+8 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 told said
+8 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 told during
+14 	 8 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Vaezi told
+14 	 9 	 N/N 	 1 	 Vaezi Iranian
+14 	 10 	 N/N 	 1 	 Vaezi Deputy
+14 	 11 	 N/N 	 1 	 Vaezi Foreign
+14 	 12 	 N/N 	 1 	 Vaezi Minister
+14 	 13 	 N/N 	 1 	 Vaezi Mahmoud
+15 	 8 	 ((S[dcl]\NP)/PP)/NP 	 2 	 of told
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 Poland 's
+18 	 15 	 PP/NP 	 1 	 willingess of
+18 	 17 	 (NP[nb]/N)\NP 	 1 	 willingess 's
+18 	 20 	 (S[b]\NP)/NP 	 1 	 willingess purchase <XB>
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 purchase to
+22 	 20 	 (S[b]\NP)/NP 	 2 	 gas purchase
+22 	 21 	 NP[nb]/N 	 1 	 gas the
+25 	 24 	 N/N 	 1 	 Vaezi Mr.
+25 	 26 	 (NP[nb]/N)\NP 	 2 	 Vaezi 's
+28 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 visit during
+28 	 26 	 (NP[nb]/N)\NP 	 1 	 visit 's
+28 	 27 	 N/N 	 1 	 visit current
+28 	 29 	 (NP\NP)/NP 	 1 	 visit to
+30 	 29 	 (NP\NP)/NP 	 2 	 Warsaw to
+<\s>
+<s id="wsj_1875.117"> 17
+1 	 0 	 NP[nb]/N 	 1 	 agency The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 agency did
+1 	 4 	 (S[b]\NP)/NP 	 1 	 agency mention <XB>
+1 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 agency did <XU>
+1 	 10 	 (S[b]\NP)/S[qem] 	 1 	 agency say <XU>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 did n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 mention did
+6 	 4 	 (S[b]\NP)/NP 	 2 	 quantities mention
+6 	 5 	 N/N 	 1 	 quantities possible
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 did n't
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 say did
+11 	 10 	 (S[b]\NP)/S[qem] 	 2 	 how say
+13 	 12 	 NP[nb]/N 	 1 	 gas the
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 gas would
+13 	 16 	 S[pss]\NP 	 1 	 gas delivered <XB>
+14 	 11 	 S[qem]/S[dcl] 	 1 	 would how
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+16 	 15 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 delivered be
+<\s>
+<s id="wsj_1875.118"> 16
+2 	 0 	 NP[nb]/N 	 1 	 official A
+2 	 1 	 N/N 	 1 	 official Chinese
+2 	 4 	 (S[dcl]\NP)/NP 	 1 	 official criticized
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 criticized harshly
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 plans criticized
+5 	 7 	 (S[b]\NP)/NP 	 1 	 plans close <XB>
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 close to
+11 	 7 	 (S[b]\NP)/NP 	 2 	 base close
+11 	 8 	 NP[nb]/N 	 1 	 base a
+11 	 9 	 N/N 	 1 	 base British
+11 	 10 	 N/N 	 1 	 base naval
+11 	 12 	 (NP\NP)/NP 	 1 	 base in
+15 	 12 	 (NP\NP)/NP 	 2 	 Kong in
+15 	 13 	 N/N 	 1 	 Kong downtown
+15 	 14 	 N/N 	 1 	 Kong Hong
+<\s>
+<s id="wsj_1875.119"> 20
+2 	 0 	 N/N 	 1 	 officials Hong
+2 	 1 	 N/N 	 1 	 officials Kong
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 officials announced
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 announced week
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week last
+6 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that announced
+8 	 7 	 NP[nb]/N 	 1 	 base the
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 base will
+8 	 11 	 S[pss]\NP 	 1 	 base relocated <XB>
+8 	 17 	 (S[b]\NP)/NP 	 1 	 base allow <XB>
+9 	 6 	 S[em]/S[dcl] 	 1 	 will that
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+11 	 10 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 relocated be
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 relocated to
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 island to
+15 	 13 	 NP[nb]/N 	 1 	 island a
+15 	 14 	 N/N 	 1 	 island small
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 allow to
+19 	 17 	 (S[b]\NP)/NP 	 2 	 redevelopment allow
+19 	 18 	 N/N 	 1 	 redevelopment downtown
+<\s>
+<s id="wsj_1875.120"> 23
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Beijing wants
+1 	 4 	 ((S[b]\NP)/PP)/NP 	 1 	 Beijing use <XB>
+2 	 0 	 S/S 	 1 	 wants But
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wants
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 use to
+4 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 use after
+6 	 4 	 ((S[b]\NP)/PP)/NP 	 3 	 base use
+6 	 5 	 NP[nb]/N 	 1 	 base the
+7 	 4 	 ((S[b]\NP)/PP)/NP 	 2 	 for use
+9 	 8 	 NP[nb]/N 	 1 	 People the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 People 's
+12 	 7 	 PP/NP 	 1 	 Army for
+12 	 10 	 (NP[nb]/N)\NP 	 1 	 Army 's
+12 	 11 	 N/N 	 1 	 Army Liberation
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 1997 after
+14 	 16 	 (NP\NP)/S[dcl] 	 1 	 1997 when
+18 	 17 	 NP[nb]/N 	 1 	 territory the
+18 	 19 	 S[dcl]\NP 	 1 	 territory returns
+19 	 16 	 (NP\NP)/S[dcl] 	 2 	 returns when
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 returns to
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 sovereignty to
+22 	 21 	 N/N 	 1 	 sovereignty Chinese
+<\s>
+<s id="wsj_1875.121"> 36
+1 	 0 	 N/N 	 1 	 Zaishuo Ke
+1 	 17 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Zaishuo accused
+1 	 27 	 (S[dcl]\NP)/S[dcl] 	 1 	 Zaishuo said <XU>
+3 	 4 	 (NP\NP)/NP 	 1 	 head of
+3 	 17 	 ((S[dcl]\NP)/PP)/NP 	 1 	 head accused
+3 	 27 	 (S[dcl]\NP)/S[dcl] 	 1 	 head said <XU>
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 China 's
+7 	 4 	 (NP\NP)/NP 	 2 	 delegation of
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 delegation 's
+7 	 8 	 (NP\NP)/NP 	 1 	 delegation to
+12 	 8 	 (NP\NP)/NP 	 2 	 Committee to
+12 	 9 	 NP[nb]/N 	 1 	 Committee a
+12 	 10 	 N/N 	 1 	 Committee Chinese-British
+12 	 11 	 N/N 	 1 	 Committee Liaison
+12 	 13 	 (NP\NP)/NP 	 1 	 Committee on
+15 	 13 	 (NP\NP)/NP 	 2 	 Kong on
+15 	 14 	 N/N 	 1 	 Kong Hong
+18 	 17 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Britain accused
+19 	 17 	 ((S[dcl]\NP)/PP)/NP 	 2 	 of accused
+20 	 19 	 PP/(S[ng]\NP) 	 1 	 trying of
+21 	 20 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 impose to
+25 	 22 	 (S[b]\NP)/NP 	 2 	 accompli impose
+25 	 23 	 NP[nb]/N 	 1 	 accompli a
+25 	 24 	 N/N 	 1 	 accompli fait
+29 	 30 	 (S[dcl]\NP)/NP 	 1 	 This is
+30 	 27 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+31 	 30 	 (S[dcl]\NP)/NP 	 2 	 something is
+31 	 35 	 (S[b]\NP)/NP 	 2 	 something accept <XU>
+32 	 33 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 we can
+32 	 35 	 (S[b]\NP)/NP 	 1 	 we accept <XB>
+33 	 34 	 (S\NP)\(S\NP) 	 2 	 can not
+35 	 33 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 accept can
+<\s>
+<s id="wsj_1875.122"> 33
+5 	 0 	 NP[nb]/N 	 1 	 airlines The
+5 	 1 	 N/N 	 1 	 airlines Israeli <XU>
+5 	 3 	 N/N 	 1 	 airlines Soviet
+5 	 4 	 N/N 	 1 	 airlines national
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 airlines have
+5 	 7 	 (S[pt]\NP)/NP 	 1 	 airlines reached <XB>
+6 	 32 	 (S[dcl]\S[dcl])\NP 	 1 	 have said
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 reached have
+9 	 7 	 (S[pt]\NP)/NP 	 2 	 agreement reached
+9 	 8 	 N/N 	 1 	 agreement preliminary
+9 	 10 	 (NP\NP)/(S[ng]\NP) 	 1 	 agreement for
+11 	 10 	 (NP\NP)/(S[ng]\NP) 	 2 	 launching for
+15 	 11 	 (S[ng]\NP)/NP 	 2 	 flights launching
+15 	 12 	 NP[nb]/N 	 1 	 flights the
+15 	 13 	 N/N 	 1 	 flights first
+15 	 14 	 N/N 	 1 	 flights direct
+15 	 16 	 (NP\NP)/NP 	 1 	 flights between
+18 	 16 	 (NP\NP)/NP 	 2 	 Aviv between
+18 	 17 	 N/N 	 1 	 Aviv Tel
+20 	 16 	 (NP\NP)/NP 	 2 	 Moscow between
+23 	 22 	 NP[nb]/N 	 1 	 spokesman a
+23 	 24 	 (NP\NP)/NP 	 1 	 spokesman for
+23 	 32 	 (S[dcl]\S[dcl])\NP 	 2 	 spokesman said
+27 	 24 	 (NP\NP)/NP 	 2 	 airline for
+27 	 25 	 NP[nb]/N 	 1 	 airline the
+27 	 26 	 N/N 	 1 	 airline Israeli
+30 	 24 	 (NP\NP)/NP 	 2 	 Al for
+30 	 29 	 N/N 	 1 	 Al El
+<\s>
+<s id="wsj_1875.123"> 26
+4 	 0 	 N/N 	 1 	 Har-Lev El
+4 	 1 	 N/N 	 1 	 Har-Lev Al
+4 	 2 	 N/N 	 1 	 Har-Lev director
+4 	 3 	 N/N 	 1 	 Har-Lev Rafi
+4 	 14 	 (S[dcl]\NP)/NP 	 1 	 Har-Lev negotiated
+7 	 6 	 N/N 	 1 	 officials top
+7 	 8 	 (NP\NP)/NP 	 1 	 officials of
+7 	 14 	 (S[dcl]\NP)/NP 	 1 	 officials negotiated
+11 	 9 	 NP[nb]/N 	 1 	 Union the
+11 	 10 	 N/N 	 1 	 Union Soviet
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Union 's
+13 	 8 	 (NP\NP)/NP 	 2 	 Aeroflot of
+13 	 12 	 (NP[nb]/N)\NP 	 1 	 Aeroflot 's
+14 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 negotiated in
+14 	 20 	 ((S\NP)\(S\NP))/N 	 2 	 negotiated this
+14 	 25 	 (S[dcl]\S[dcl])\NP 	 1 	 negotiated said
+17 	 14 	 (S[dcl]\NP)/NP 	 2 	 pact negotiated
+17 	 15 	 NP[nb]/N 	 1 	 pact a
+17 	 16 	 N/N 	 1 	 pact preliminary
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 Moscow in
+21 	 20 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+24 	 23 	 NP[nb]/N 	 1 	 spokesman the
+24 	 25 	 (S[dcl]\S[dcl])\NP 	 2 	 spokesman said
+<\s>
+<s id="wsj_1875.124"> 22
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 He added
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that added
+3 	 6 	 (S[dcl]\NP)/NP 	 1 	 concluding requires
+5 	 3 	 (S[ng]\NP)/NP 	 2 	 deal concluding
+5 	 4 	 NP[nb]/N 	 1 	 deal the
+6 	 2 	 S[em]/S[dcl] 	 1 	 requires that
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 approval requires
+7 	 8 	 (NP\NP)/NP 	 1 	 approval by
+10 	 8 	 (NP\NP)/NP 	 2 	 governments by
+10 	 9 	 NP[nb]/N 	 1 	 governments the
+10 	 11 	 (NP\NP)/NP 	 1 	 governments of
+13 	 11 	 (NP\NP)/NP 	 2 	 countries of
+13 	 12 	 NP[nb]/N 	 1 	 countries both
+13 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 countries which
+13 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 countries have <XB>
+13 	 18 	 (S[pt]\NP)/NP 	 1 	 countries had <XB>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have which
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 have never
+18 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 had have
+21 	 18 	 (S[pt]\NP)/NP 	 2 	 links had
+21 	 19 	 N/N 	 1 	 links direct
+21 	 20 	 N/N 	 1 	 links air
+<\s>
+<s id="wsj_1875.125"> 42
+1 	 0 	 NP[nb]/N 	 1 	 chairman The
+1 	 5 	 (NP\NP)/NP 	 1 	 chairman of
+1 	 24 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 chairman were
+1 	 25 	 (S[pss]\NP)/PP 	 1 	 chairman charged <XB>
+4 	 3 	 NP[nb]/N 	 1 	 director a
+4 	 5 	 (NP\NP)/NP 	 1 	 director of
+4 	 24 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 director were
+4 	 25 	 (S[pss]\NP)/PP 	 1 	 director charged <XB>
+6 	 5 	 (NP\NP)/NP 	 2 	 one of
+6 	 7 	 (NP\NP)/NP 	 1 	 one of
+9 	 8 	 NP[nb]/N 	 1 	 Republic the
+9 	 10 	 (NP\NP)/NP 	 1 	 Republic of
+9 	 12 	 (NP[nb]/N)\NP 	 2 	 Republic 's
+11 	 10 	 (NP\NP)/NP 	 2 	 Singapore of
+15 	 7 	 (NP\NP)/NP 	 2 	 companies of
+15 	 12 	 (NP[nb]/N)\NP 	 1 	 companies 's
+15 	 13 	 N/N 	 1 	 companies leading
+15 	 14 	 N/N 	 1 	 companies property
+19 	 7 	 (NP\NP)/NP 	 2 	 Ltd. of
+19 	 17 	 N/N 	 1 	 Ltd. City
+19 	 18 	 N/N 	 1 	 Ltd. Development
+22 	 7 	 (NP\NP)/NP 	 2 	 CDL of
+25 	 24 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 charged were
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 charged yesterday
+27 	 25 	 (S[pss]\NP)/PP 	 2 	 with charged
+29 	 27 	 PP/NP 	 1 	 breach with
+29 	 28 	 N/N 	 1 	 breach criminal
+29 	 30 	 (NP\NP)/NP 	 1 	 breach of
+31 	 30 	 (NP\NP)/NP 	 2 	 trust of
+31 	 32 	 (NP\NP)/NP 	 1 	 trust of
+34 	 33 	 (N/N)/(N/N) 	 2 	 800,000 some
+36 	 32 	 (NP\NP)/NP 	 2 	 dollars of
+36 	 34 	 N/N 	 1 	 dollars 800,000
+36 	 35 	 N/N 	 1 	 dollars Singapore
+36 	 37 	 (NP\NP)/NP 	 1 	 dollars -LRB-
+39 	 37 	 (NP\NP)/NP 	 2 	 US$ -LRB-
+39 	 38 	 N/N 	 1 	 US$ about
+40 	 39 	 N/N[num] 	 1 	 409,000 US$
+<\s>
+<s id="wsj_1875.126"> 25
+2 	 0 	 N/N 	 1 	 Png Kwek
+2 	 1 	 N/N 	 1 	 Png Hong
+2 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Png were
+2 	 14 	 S[pss]\NP 	 1 	 Png arrested <XB>
+4 	 5 	 (NP\NP)/NP 	 1 	 chairman of
+4 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 chairman were
+4 	 14 	 S[pss]\NP 	 1 	 chairman arrested <XB>
+6 	 5 	 (NP\NP)/NP 	 2 	 CDL of
+12 	 9 	 N/N 	 1 	 Chye director
+12 	 10 	 N/N 	 1 	 Chye Quek
+12 	 11 	 N/N 	 1 	 Chye Leng
+12 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Chye were
+12 	 14 	 S[pss]\NP 	 1 	 Chye arrested <XB>
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 arrested were
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 arrested by
+14 	 24 	 (S\NP)\(S\NP) 	 2 	 arrested night
+17 	 16 	 NP[nb]/N 	 1 	 republic the
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 republic 's
+22 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 Bureau by
+22 	 18 	 (NP[nb]/N)\NP 	 1 	 Bureau 's
+22 	 19 	 N/N 	 1 	 Bureau Corrupt
+22 	 20 	 N/N 	 1 	 Bureau Practices
+22 	 21 	 N/N 	 1 	 Bureau Investigation
+24 	 23 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 night Tuesday
+<\s>
+<s id="wsj_1875.127"> 27
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+1 	 2 	 (NP\NP)/(S[ng]\NP) 	 1 	 addition to
+3 	 2 	 (NP\NP)/(S[ng]\NP) 	 2 	 abetting to
+4 	 3 	 (S[ng]\NP)/PP 	 2 	 in abetting
+8 	 4 	 PP/NP 	 1 	 breach in
+8 	 5 	 NP[nb]/N 	 1 	 breach the
+8 	 6 	 N/N 	 1 	 breach alleged
+8 	 7 	 N/N 	 1 	 breach criminal
+8 	 9 	 (NP\NP)/NP 	 1 	 breach of
+10 	 9 	 (NP\NP)/NP 	 2 	 trust of
+14 	 12 	 N/N 	 1 	 Png Kwek
+14 	 13 	 N/N 	 1 	 Png Hong
+14 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Png was
+14 	 17 	 (S[pss]\NP)/PP 	 1 	 Png charged <XB>
+15 	 0 	 (S/S)/NP 	 1 	 was In
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 was also
+17 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 charged was
+18 	 17 	 (S[pss]\NP)/PP 	 2 	 with charged
+20 	 18 	 PP/(S[ng]\NP) 	 1 	 receiving with
+20 	 19 	 (S\NP)/(S\NP) 	 2 	 receiving dishonestly
+21 	 20 	 (S[ng]\NP)/NP 	 2 	 S$ receiving
+21 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 S$ that
+21 	 24 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 S$ had <XB>
+21 	 26 	 S[pss]\NP 	 1 	 S$ stolen <XB>
+22 	 21 	 N/N[num] 	 1 	 500,000 S$
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had that
+25 	 24 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+26 	 25 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 stolen been
+<\s>
+<s id="wsj_1875.128"> 16
+1 	 0 	 NP[nb]/N 	 1 	 men Both
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 men were
+1 	 3 	 S[pss]\NP 	 1 	 men charged <XB>
+1 	 9 	 S[pss]\NP 	 1 	 men released <XU>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 charged were
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 charged in
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 court in
+7 	 5 	 NP[nb]/N 	 1 	 court a
+7 	 6 	 N/N 	 1 	 court subordinate
+9 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 released were
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 released on
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 bail on
+11 	 12 	 (NP\NP)/NP 	 1 	 bail of
+13 	 12 	 (NP\NP)/NP 	 2 	 S$ of
+15 	 13 	 N/N[num] 	 1 	 million S$
+15 	 14 	 N/N 	 1 	 million 1
+<\s>
+<s id="wsj_1875.130"> 23
+1 	 0 	 NP[nb]/N 	 1 	 Queks The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Queks control
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 Group control
+6 	 3 	 NP[nb]/N 	 1 	 Group the
+6 	 4 	 N/N 	 1 	 Group Hong
+6 	 5 	 N/N 	 1 	 Group Leong
+6 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Group which
+6 	 9 	 (S[dcl]\NP)/NP 	 1 	 Group has <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+9 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 has in
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 interests has
+11 	 10 	 N/N 	 1 	 interests widespread
+11 	 12 	 (NP\NP)/NP 	 1 	 interests in
+13 	 12 	 (NP\NP)/NP 	 2 	 manufacturing in
+15 	 12 	 (NP\NP)/NP 	 2 	 property in
+17 	 12 	 (NP\NP)/NP 	 2 	 finance in
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 Malaysia in
+20 	 19 	 NP[nb]/N 	 1 	 Malaysia both
+22 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 Singapore in
+22 	 19 	 NP[nb]/N 	 1 	 Singapore both
+<\s>
+<s id="wsj_1875.131"> 49
+0 	 1 	 (NP\NP)/NP 	 1 	 News of
+0 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 News helped
+0 	 12 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 News push <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 arrest of
+3 	 2 	 NP[nb]/N 	 1 	 arrest the
+3 	 6 	 (NP\NP)/NP 	 1 	 arrest of
+5 	 1 	 (NP\NP)/NP 	 2 	 charging of
+5 	 2 	 NP[nb]/N 	 1 	 charging the
+5 	 6 	 (NP\NP)/NP 	 1 	 charging of
+9 	 6 	 (NP\NP)/NP 	 2 	 men of
+9 	 7 	 NP[nb]/N 	 1 	 men the
+9 	 8 	 N/N 	 1 	 men two
+11 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to helped
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 push to
+12 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 push in
+12 	 24 	 (S\NP)\(S\NP) 	 2 	 push yesterday
+13 	 12 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 prices push
+13 	 14 	 (NP\NP)/NP 	 1 	 prices on
+13 	 19 	 S[adj]\NP 	 1 	 prices sharply <XB>
+18 	 14 	 (NP\NP)/NP 	 2 	 market on
+18 	 15 	 NP[nb]/N 	 1 	 market the
+18 	 16 	 N/N 	 1 	 market Singapore
+18 	 17 	 N/N 	 1 	 market Stock
+19 	 12 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 sharply push
+19 	 20 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 sharply lower
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+23 	 22 	 N/N 	 1 	 trading early
+27 	 28 	 (S[dcl]\NP)/S[em] 	 1 	 brokers said
+29 	 28 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+31 	 30 	 NP[nb]/N 	 1 	 market the
+31 	 35 	 S[dcl]\NP 	 1 	 market recovered
+34 	 33 	 N/N 	 1 	 shares CDL
+34 	 35 	 S[dcl]\NP 	 1 	 shares recovered
+35 	 29 	 S[em]/S[dcl] 	 1 	 recovered that
+35 	 36 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 recovered once
+37 	 38 	 ((S[dcl]\NP[expl])/S[dcl])/(S[adj]\NP) 	 1 	 it became
+38 	 36 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 became once
+39 	 38 	 ((S[dcl]\NP[expl])/S[dcl])/(S[adj]\NP) 	 3 	 apparent became
+41 	 40 	 NP[nb]/N 	 1 	 charges the
+41 	 42 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 charges were
+41 	 43 	 (S[pss]\NP)/PP 	 1 	 charges limited <XB>
+42 	 38 	 ((S[dcl]\NP[expl])/S[dcl])/(S[adj]\NP) 	 2 	 were became
+43 	 42 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 limited were
+44 	 43 	 (S[pss]\NP)/PP 	 2 	 to limited
+47 	 44 	 PP/NP 	 1 	 men to
+47 	 45 	 NP[nb]/N 	 1 	 men the
+47 	 46 	 N/N 	 1 	 men two
+47 	 48 	 NP\NP 	 1 	 men personally
+<\s>
+<s id="wsj_1875.132"> 15
+0 	 1 	 (NP\NP)/NP 	 1 	 One of
+0 	 11 	 (S[dcl]\NP)/NP 	 1 	 One stopped
+5 	 1 	 (NP\NP)/NP 	 2 	 companies of
+5 	 2 	 NP[nb]/N 	 1 	 companies the
+5 	 3 	 N/N 	 1 	 companies two
+5 	 4 	 N/N 	 1 	 companies British
+5 	 7 	 (S[ng]\NP)/NP 	 1 	 companies making <XB>
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 making still
+10 	 7 	 (S[ng]\NP)/NP 	 2 	 paper making
+10 	 8 	 N/N 	 1 	 paper hard
+10 	 9 	 N/N 	 1 	 paper toilet
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 production stopped
+12 	 13 	 (NP\NP)/NP 	 1 	 production of
+14 	 13 	 (NP\NP)/NP 	 2 	 it of
+<\s>
+<s id="wsj_1875.133"> 26
+1 	 0 	 N/N 	 1 	 Tissues British
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Tissues decided
+1 	 4 	 ((S[b]\NP)/PP)/(S[adj]\NP) 	 1 	 Tissues do <XB>
+1 	 5 	 S[adj]\NP 	 1 	 Tissues away <XB>
+2 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 decided after
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to decided
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+5 	 4 	 ((S[b]\NP)/PP)/(S[adj]\NP) 	 3 	 away do
+6 	 4 	 ((S[b]\NP)/PP)/(S[adj]\NP) 	 2 	 with do
+9 	 6 	 PP/NP 	 1 	 paper with
+9 	 7 	 NP[nb]/N 	 1 	 paper its
+9 	 8 	 N/N 	 1 	 paper hard
+13 	 11 	 NP[nb]/N 	 1 	 customer a
+13 	 12 	 N/N 	 1 	 customer major
+13 	 18 	 (S[dcl]\NP)/PP 	 1 	 customer switched
+16 	 15 	 N/N 	 1 	 Rail British
+16 	 18 	 (S[dcl]\NP)/PP 	 1 	 Rail switched
+18 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 switched after
+19 	 18 	 (S[dcl]\NP)/PP 	 2 	 to switched
+21 	 19 	 PP/NP 	 1 	 tissues to
+21 	 20 	 N/N 	 1 	 tissues softer
+21 	 22 	 (NP\NP)/NP 	 1 	 tissues for
+24 	 22 	 (NP\NP)/NP 	 2 	 bathrooms for
+24 	 23 	 N/N 	 1 	 bathrooms train
+<\s>
+<s id="wsj_1875.134"> 23
+0 	 1 	 (NP\NP)/NP 	 1 	 Peasants in
+0 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Peasants have
+0 	 6 	 (S[pt]\NP)/NP 	 1 	 Peasants dismantled <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 Mongolia in
+3 	 2 	 N/N 	 1 	 Mongolia Inner
+4 	 22 	 (S[dcl]\S[dcl])\NP 	 1 	 have said
+6 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 dismantled have
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 dismantled partly
+9 	 6 	 (S[pt]\NP)/NP 	 2 	 section dismantled
+9 	 7 	 NP[nb]/N 	 1 	 section a
+9 	 8 	 N/N 	 1 	 section 20-mile
+9 	 10 	 (NP\NP)/NP 	 1 	 section of
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 China 's
+15 	 10 	 (NP\NP)/NP 	 2 	 Wall of
+15 	 12 	 (NP[nb]/N)\NP 	 1 	 Wall 's
+15 	 13 	 N/N 	 1 	 Wall famed
+15 	 14 	 N/N 	 1 	 Wall Great
+20 	 19 	 (N/N)/(N/N) 	 2 	 's People
+21 	 17 	 NP[nb]/N 	 1 	 Daily the
+21 	 18 	 N/N 	 1 	 Daily official
+21 	 20 	 N/N 	 1 	 Daily 's
+21 	 22 	 (S[dcl]\S[dcl])\NP 	 2 	 Daily said
+<\s>
+<s id="wsj_1875.135"> 24
+1 	 0 	 NP[nb]/N 	 1 	 paper The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 paper said
+4 	 3 	 NP[nb]/N 	 1 	 bricks the
+4 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 bricks were
+4 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 bricks used <XB>
+4 	 8 	 (S[b]\NP)/NP 	 1 	 bricks build <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 used were
+7 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 build to
+9 	 8 	 (S[b]\NP)/NP 	 2 	 homes build
+11 	 8 	 (S[b]\NP)/NP 	 2 	 furnaces build
+16 	 14 	 (S/S)/NP 	 2 	 result as
+16 	 15 	 NP[nb]/N 	 1 	 result a
+19 	 18 	 NP[nb]/N 	 1 	 wall the
+19 	 20 	 (S[dcl]\NP)/PP 	 1 	 wall is
+20 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+20 	 14 	 (S/S)/NP 	 1 	 is as
+21 	 20 	 (S[dcl]\NP)/PP 	 2 	 in is
+23 	 21 	 PP/NP 	 1 	 shape in
+23 	 22 	 N/N 	 1 	 shape terrible
+<\s>

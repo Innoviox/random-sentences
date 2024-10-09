@@ -1,0 +1,1138 @@
+<s id="wsj_0781.1"> 32
+1 	 0 	 N/N 	 1 	 Corp. Intel
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+4 	 3 	 (N/N)/(N/N) 	 2 	 powerful most
+6 	 2 	 (NP[nb]/N)\NP 	 1 	 chip 's
+6 	 4 	 N/N 	 1 	 chip powerful
+6 	 5 	 N/N 	 1 	 chip computer
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 chip has
+8 	 7 	 (S[dcl]\NP)/NP 	 2 	 flaws has
+8 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 flaws that
+8 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 flaws could <XB>
+8 	 11 	 (S[b]\NP)/NP 	 1 	 flaws delay <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 could that
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 delay could
+14 	 12 	 N/N 	 1 	 makers several
+14 	 13 	 N/N 	 1 	 makers computer
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 makers '
+17 	 11 	 (S[b]\NP)/NP 	 2 	 efforts delay
+17 	 15 	 (NP[nb]/N)\NP 	 1 	 efforts '
+17 	 16 	 N/N 	 1 	 efforts marketing
+21 	 20 	 NP[nb]/N 	 1 	 bugs the
+21 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 bugs are
+21 	 24 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 bugs expected <XB>
+21 	 26 	 (S[b]\NP)/NP 	 1 	 bugs hurt <XB>
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 are n't
+24 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+25 	 24 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 hurt to
+27 	 26 	 (S[b]\NP)/NP 	 2 	 Intel hurt
+31 	 26 	 (S[b]\NP)/NP 	 2 	 makers hurt
+31 	 29 	 N/N 	 1 	 makers most
+31 	 30 	 N/N 	 1 	 makers computer
+<\s>
+<s id="wsj_0781.2"> 46
+1 	 0 	 N/N 	 1 	 experts Computer
+1 	 2 	 S[adj]\NP 	 1 	 experts familiar <XB>
+1 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 experts say
+2 	 3 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 familiar with
+5 	 3 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 flaws with
+5 	 4 	 NP[nb]/N 	 1 	 flaws the
+5 	 7 	 S[pss]\NP 	 1 	 flaws found <XB>
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 found in
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Intel 's
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 chip in
+12 	 10 	 (NP[nb]/N)\NP 	 1 	 chip 's
+12 	 11 	 N/N 	 1 	 chip 80486
+16 	 15 	 NP[nb]/N 	 1 	 defects the
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 defects do
+16 	 19 	 (S[b]\NP)/NP 	 1 	 defects affect <XB>
+16 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 defects are <XU>
+16 	 25 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 defects likely <XU>
+17 	 14 	 (S[dcl]\NP)/S[dcl] 	 2 	 do say
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 do n't
+19 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 affect do
+22 	 19 	 (S[b]\NP)/NP 	 2 	 user affect
+22 	 20 	 NP[nb]/N 	 1 	 user the
+22 	 21 	 N/N 	 1 	 user average
+24 	 14 	 (S[dcl]\NP)/S[dcl] 	 2 	 are say
+25 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely are
+26 	 25 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+28 	 27 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 cleared be
+28 	 29 	 (S\NP)\(S\NP) 	 2 	 cleared up
+28 	 30 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 cleared before
+32 	 31 	 N/N 	 1 	 computers most
+32 	 33 	 ((S[ng]\NP)/PP)/NP 	 1 	 computers using <XB>
+32 	 39 	 S[dcl]\NP 	 1 	 computers appear
+35 	 33 	 ((S[ng]\NP)/PP)/NP 	 3 	 chip using
+35 	 34 	 NP[nb]/N 	 1 	 chip the
+36 	 33 	 ((S[ng]\NP)/PP)/NP 	 2 	 as using
+38 	 36 	 PP/NP 	 1 	 brains as
+38 	 37 	 NP[nb]/N 	 1 	 brains their
+39 	 30 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 appear before
+39 	 40 	 ((S\NP)\(S\NP))/NP 	 2 	 appear on
+39 	 43 	 ((S\NP)\(S\NP))/NP 	 2 	 appear sometime
+42 	 40 	 ((S\NP)\(S\NP))/NP 	 3 	 market on
+42 	 41 	 NP[nb]/N 	 1 	 market the
+45 	 43 	 ((S\NP)\(S\NP))/NP 	 3 	 year sometime
+45 	 44 	 N/N 	 1 	 year next
+<\s>
+<s id="wsj_0781.3"> 27
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Intel said
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+4 	 3 	 (S/S)/(S/S) 	 2 	 week last
+6 	 5 	 NP[nb]/N 	 1 	 customer a
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 customer discovered
+7 	 2 	 S[em]/S[dcl] 	 1 	 discovered that
+7 	 4 	 S/S 	 1 	 discovered week
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 flaws discovered
+9 	 8 	 N/N 	 1 	 flaws two
+9 	 10 	 (NP\NP)/NP 	 1 	 flaws in
+14 	 11 	 NP[nb]/N 	 1 	 chip its
+14 	 12 	 N/N 	 1 	 chip 80486
+14 	 13 	 N/N 	 1 	 chip microprocessor
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 chip 's
+17 	 10 	 (NP\NP)/NP 	 2 	 unit in
+17 	 15 	 (NP[nb]/N)\NP 	 1 	 unit 's
+17 	 16 	 N/N 	 1 	 unit floating-point
+20 	 10 	 (NP\NP)/NP 	 2 	 set in
+20 	 19 	 NP[nb]/N 	 1 	 set a
+20 	 21 	 (NP\NP)/NP 	 1 	 set of
+22 	 21 	 (NP\NP)/NP 	 2 	 circuits of
+22 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 circuits that
+22 	 24 	 (S[dcl]\NP)/NP 	 1 	 circuits do <XB>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 do that
+26 	 24 	 (S[dcl]\NP)/NP 	 2 	 calculations do
+26 	 25 	 N/N 	 1 	 calculations certain
+<\s>
+<s id="wsj_0781.4"> 22
+1 	 0 	 (S/S)/NP 	 2 	 Friday On
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Intel began
+3 	 5 	 (S[ng]\NP)/NP 	 1 	 Intel notifying <XB>
+4 	 0 	 (S/S)/NP 	 1 	 began On
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 notifying began
+5 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 notifying about
+6 	 5 	 (S[ng]\NP)/NP 	 2 	 customers notifying
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 bugs about
+9 	 8 	 NP[nb]/N 	 1 	 bugs the
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bugs which
+9 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 bugs cause <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 cause which
+13 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 chip cause
+13 	 12 	 NP[nb]/N 	 1 	 chip the
+13 	 15 	 (S[b]\NP)/NP 	 1 	 chip give <XB>
+14 	 11 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to cause
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give to
+17 	 15 	 (S[b]\NP)/NP 	 2 	 answers give
+17 	 16 	 N/N 	 1 	 answers wrong
+17 	 18 	 (NP\NP)/NP 	 1 	 answers for
+21 	 18 	 (NP\NP)/NP 	 2 	 calculations for
+21 	 19 	 NP[nb]/N 	 1 	 calculations some
+21 	 20 	 N/N 	 1 	 calculations mathematical
+<\s>
+<s id="wsj_0781.5"> 28
+5 	 2 	 N/N 	 1 	 Corp. International
+5 	 3 	 N/N 	 1 	 Corp. Business
+5 	 4 	 N/N 	 1 	 Corp. Machines
+5 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. say
+9 	 7 	 N/N 	 1 	 Corp. Compaq
+9 	 8 	 N/N 	 1 	 Corp. Computer
+9 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. say
+10 	 1 	 (S/S)/S[dcl] 	 2 	 say while
+12 	 11 	 NP[nb]/N 	 1 	 bugs the
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bugs will
+12 	 14 	 (S[b]\NP)/NP 	 1 	 bugs delay <XB>
+13 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 will say
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 delay will
+15 	 14 	 (S[b]\NP)/NP 	 2 	 products delay
+20 	 17 	 N/N 	 1 	 makers most
+20 	 18 	 N/N 	 1 	 makers big
+20 	 19 	 N/N 	 1 	 makers computer
+20 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 makers said
+21 	 0 	 S/S 	 1 	 said But
+21 	 1 	 (S/S)/S[dcl] 	 1 	 said while
+23 	 22 	 NP[nb]/N 	 1 	 flaws the
+23 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 flaws do
+23 	 26 	 (S[b]\NP)/NP 	 1 	 flaws affect <XB>
+24 	 21 	 (S[dcl]\NP)/S[dcl] 	 2 	 do said
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 do n't
+26 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 affect do
+27 	 26 	 (S[b]\NP)/NP 	 2 	 them affect
+<\s>
+<s id="wsj_0781.6"> 24
+0 	 1 	 (NP\NP)/NP 	 1 	 Bugs like
+0 	 3 	 (S[dcl]\NP)/NP 	 1 	 Bugs are
+2 	 1 	 (NP\NP)/NP 	 2 	 this like
+3 	 12 	 (S[dcl]\S[dcl])/NP 	 1 	 are said
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 part are
+7 	 4 	 NP/NP 	 1 	 part just
+7 	 5 	 NP[nb]/N 	 1 	 part a
+7 	 6 	 N/N 	 1 	 part normal
+7 	 8 	 (NP\NP)/NP 	 1 	 part of
+10 	 8 	 (NP\NP)/NP 	 2 	 development of
+10 	 9 	 N/N 	 1 	 development product
+14 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 Archuleta said
+14 	 13 	 N/N 	 1 	 Archuleta Richard
+16 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 director said
+16 	 17 	 (NP\NP)/NP 	 1 	 director of
+19 	 18 	 N/N 	 1 	 Co. Hewlett-Packard
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 Co. 's
+23 	 17 	 (NP\NP)/NP 	 2 	 development of
+23 	 20 	 (NP[nb]/N)\NP 	 1 	 development 's
+23 	 21 	 N/N 	 1 	 development advanced
+23 	 22 	 N/N 	 1 	 development systems
+<\s>
+<s id="wsj_0781.7"> 19
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Hewlett announced
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 announced week
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week last
+4 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that announced
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it planned
+5 	 8 	 (S[b]\NP)/NP 	 1 	 it ship <XB>
+6 	 4 	 S[em]/S[dcl] 	 1 	 planned that
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to planned
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 ship to
+8 	 18 	 (S\NP)\(S\NP) 	 2 	 ship year
+10 	 8 	 (S[b]\NP)/NP 	 2 	 computer ship
+10 	 9 	 NP[nb]/N 	 1 	 computer a
+10 	 11 	 (S[pss]\NP)/PP 	 1 	 computer based <XB>
+12 	 11 	 (S[pss]\NP)/PP 	 2 	 on based
+15 	 12 	 PP/NP 	 1 	 chip on
+15 	 13 	 NP[nb]/N 	 1 	 chip the
+15 	 14 	 N/N 	 1 	 chip 486
+18 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year early
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+<\s>
+<s id="wsj_0781.8"> 12
+1 	 0 	 NP[nb]/N 	 1 	 bugs These
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bugs do
+1 	 4 	 (S[b]\NP)/NP 	 1 	 bugs affect <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 do n't
+2 	 11 	 (S[dcl]\S[dcl])\NP 	 1 	 do said
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 affect do
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 affect at
+6 	 4 	 (S[b]\NP)/NP 	 2 	 schedule affect
+6 	 5 	 NP[nb]/N 	 1 	 schedule our
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 all at
+10 	 11 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_0781.9"> 20
+4 	 2 	 N/N 	 1 	 Inc. AST
+4 	 3 	 N/N 	 1 	 Inc. Research
+4 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+8 	 6 	 N/N 	 1 	 Inc. Sun
+8 	 7 	 N/N 	 1 	 Inc. Microsystems
+8 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+9 	 0 	 S/S 	 1 	 said Likewise
+11 	 10 	 NP[nb]/N 	 1 	 bugs the
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bugs wo
+11 	 14 	 (S[b]\NP)/NP 	 1 	 bugs delay <XB>
+12 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 wo said
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 wo n't
+14 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 delay wo
+16 	 14 	 (S[b]\NP)/NP 	 2 	 development delay
+16 	 15 	 NP[nb]/N 	 1 	 development their
+16 	 17 	 (NP\NP)/NP 	 1 	 development of
+19 	 17 	 (NP\NP)/NP 	 2 	 machines of
+19 	 18 	 N/N 	 1 	 machines 486-based
+<\s>
+<s id="wsj_0781.10"> 14
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 We have
+0 	 3 	 (S[pt]\NP)/NP 	 1 	 We modified <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 have n't
+1 	 10 	 (S[dcl]\S[dcl])/NP 	 1 	 have said
+3 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 modified have
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 modified in
+5 	 3 	 (S[pt]\NP)/NP 	 2 	 schedules modified
+5 	 4 	 NP[nb]/N 	 1 	 schedules our
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 way in
+8 	 7 	 NP[nb]/N 	 1 	 way any
+13 	 10 	 (S[dcl]\S[dcl])/NP 	 2 	 spokesman said
+13 	 11 	 NP[nb]/N 	 1 	 spokesman a
+13 	 12 	 N/N 	 1 	 spokesman Sun
+<\s>
+<s id="wsj_0781.11"> 17
+0 	 8 	 (S[dcl]\(S[to]\NP))/(S[b]\NP) 	 1 	 To would
+1 	 0 	 (S[to]\NP)/(S[b]\NP) 	 2 	 switch To
+2 	 1 	 (S[b]\NP)/PP 	 2 	 to switch
+4 	 3 	 NP[nb]/N 	 1 	 vendor another
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 vendor 's
+6 	 2 	 PP/NP 	 1 	 chips to
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 chips 's
+8 	 9 	 S\S 	 1 	 would definitely
+8 	 10 	 S\S 	 1 	 would not
+8 	 16 	 (S[dcl]\S[dcl])\NP 	 1 	 would said
+11 	 8 	 (S[dcl]\(S[to]\NP))/(S[b]\NP) 	 2 	 be would
+13 	 11 	 (S[b]\NP)/NP 	 2 	 option be
+13 	 12 	 NP[nb]/N 	 1 	 option an
+15 	 16 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_0781.12"> 55
+2 	 3 	 (NP\NP)/NP 	 1 	 concern about
+2 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 concern may
+2 	 9 	 (S[adj]\NP)/PP 	 1 	 concern responsible <XB>
+2 	 38 	 (S[adj]\NP)/PP 	 1 	 concern responsible <XU>
+5 	 3 	 (NP\NP)/NP 	 2 	 chip about
+5 	 4 	 NP[nb]/N 	 1 	 chip the
+6 	 0 	 S/S 	 1 	 may Nonetheless
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have may
+8 	 7 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 been have
+9 	 8 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 responsible been
+10 	 9 	 (S[adj]\NP)/PP 	 2 	 for responsible
+12 	 10 	 PP/NP 	 1 	 decline for
+12 	 11 	 NP[nb]/N 	 1 	 decline a
+12 	 13 	 (NP\NP)/NP 	 1 	 decline of
+12 	 16 	 (NP\NP)/NP 	 1 	 decline in
+12 	 20 	 (NP\NP)/NP 	 1 	 decline to
+12 	 25 	 NP\NP 	 1 	 decline yesterday
+12 	 30 	 (NP\NP)/NP 	 1 	 decline on
+15 	 13 	 (NP\NP)/NP 	 2 	 cents of
+15 	 14 	 N/N 	 1 	 cents 87.5
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 Intel 's
+19 	 16 	 (NP\NP)/NP 	 2 	 stock in
+19 	 18 	 (NP[nb]/N)\NP 	 1 	 stock 's
+21 	 20 	 (NP\NP)/NP 	 2 	 $ to
+21 	 23 	 (NP\NP)/N 	 1 	 $ a
+22 	 21 	 N/N[num] 	 1 	 32 $
+24 	 23 	 (NP\NP)/N 	 2 	 share a
+25 	 26 	 ((NP\NP)\(NP\NP))/NP 	 2 	 yesterday in
+28 	 26 	 ((NP\NP)\(NP\NP))/NP 	 3 	 trading in
+28 	 27 	 N/N 	 1 	 trading over-the-counter
+31 	 30 	 (NP\NP)/NP 	 2 	 volume on
+31 	 32 	 (NP\NP)/NP 	 1 	 volume of
+34 	 32 	 (NP\NP)/NP 	 2 	 shares of
+34 	 33 	 N/N 	 1 	 shares 3,609,800
+38 	 8 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 responsible been
+38 	 37 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 responsible partly
+39 	 38 	 (S[adj]\NP)/PP 	 2 	 for responsible
+41 	 39 	 PP/NP 	 1 	 drop for
+41 	 40 	 NP[nb]/N 	 1 	 drop a
+41 	 42 	 (NP\NP)/NP 	 1 	 drop in
+41 	 46 	 (NP\NP)/NP 	 1 	 drop in
+41 	 53 	 (NP\NP)/NP 	 1 	 drop on
+43 	 44 	 (NP[nb]/N)\NP 	 2 	 Compaq 's
+45 	 42 	 (NP\NP)/NP 	 2 	 stock in
+45 	 44 	 (NP[nb]/N)\NP 	 1 	 stock 's
+52 	 46 	 (NP\NP)/NP 	 2 	 trading in
+52 	 47 	 N/N 	 1 	 trading New
+52 	 48 	 N/N 	 1 	 trading York
+52 	 49 	 N/N 	 1 	 trading Stock
+52 	 50 	 N/N 	 1 	 trading Exchange
+52 	 51 	 N/N 	 1 	 trading composite
+54 	 53 	 (NP\NP)/NP 	 2 	 Wednesday on
+<\s>
+<s id="wsj_0781.13"> 24
+2 	 3 	 S[dcl]\NP 	 1 	 Compaq plunged
+2 	 6 	 S[ng]\NP 	 1 	 Compaq closing <XB>
+3 	 0 	 S/S 	 1 	 plunged Yesterday
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 plunged further
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 closing at
+6 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 closing off
+6 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 closing on
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 $ at
+8 	 10 	 (NP\NP)/N 	 1 	 $ a
+9 	 8 	 N/N[num] 	 1 	 100 $
+11 	 10 	 (NP\NP)/N 	 2 	 share a
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 $ off
+14 	 16 	 (NP\NP)/N 	 1 	 $ a
+15 	 14 	 N/N[num] 	 1 	 8.625 $
+17 	 16 	 (NP\NP)/N 	 2 	 share a
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 volume on
+20 	 21 	 (NP\NP)/NP 	 1 	 volume of
+23 	 21 	 (NP\NP)/NP 	 2 	 shares of
+23 	 22 	 N/N 	 1 	 shares 2,633,700
+<\s>
+<s id="wsj_0781.14"> 24
+0 	 1 	 (NP\NP)/NP 	 1 	 Most of
+0 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Most is
+0 	 6 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 Most being <XB>
+0 	 7 	 (S[pss]\NP)/PP 	 1 	 Most attributed <XB>
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Compaq 's
+4 	 1 	 (NP\NP)/NP 	 2 	 decline of
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 decline 's
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being is
+7 	 6 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 attributed being
+8 	 7 	 (S[pss]\NP)/PP 	 2 	 to attributed
+12 	 8 	 PP/NP 	 1 	 report to
+12 	 9 	 NP[nb]/N 	 1 	 report a
+12 	 10 	 N/N 	 1 	 report third-quarter
+12 	 11 	 N/N 	 1 	 report earnings
+12 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 report that
+12 	 14 	 S[dcl]\NP 	 1 	 report came <XB>
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 came that
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 came in
+14 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 came at
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 end at
+19 	 17 	 NP[nb]/N 	 1 	 end the
+19 	 18 	 N/N 	 1 	 end low
+19 	 20 	 (NP\NP)/NP 	 1 	 end of
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 analysts '
+23 	 20 	 (NP\NP)/NP 	 2 	 expectations of
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 expectations '
+<\s>
+<s id="wsj_0781.15"> 15
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Intel said
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it had
+2 	 4 	 (S[pt]\NP)/NP 	 1 	 it corrected <XB>
+2 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it would <XU>
+2 	 9 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 it start <XU>
+2 	 10 	 (S[ng]\NP)/NP 	 1 	 it producing <XU>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 corrected had
+6 	 4 	 (S[pt]\NP)/NP 	 2 	 problems corrected
+6 	 5 	 NP[nb]/N 	 1 	 problems the
+8 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 start would
+10 	 9 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 producing start
+10 	 14 	 (S\NP)\(S\NP) 	 2 	 producing week
+12 	 10 	 (S[ng]\NP)/NP 	 2 	 chips producing
+12 	 11 	 N/N 	 1 	 chips bugless
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week next
+<\s>
+<s id="wsj_0781.16"> 19
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 We should
+0 	 4 	 (S[ng]\NP)/NP 	 1 	 We seeing <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 should not
+1 	 8 	 (S[dcl]\S[dcl])/NP 	 1 	 should said
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be should
+4 	 3 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 seeing be
+6 	 4 	 (S[ng]\NP)/NP 	 2 	 more seeing
+6 	 5 	 NP[nb]/N 	 1 	 more any
+10 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 Rash said
+10 	 9 	 N/N 	 1 	 Rash Bill
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Intel 's
+14 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 director said
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 director 's
+14 	 15 	 (NP\NP)/NP 	 1 	 director for
+18 	 15 	 (NP\NP)/NP 	 2 	 chip for
+18 	 16 	 NP[nb]/N 	 1 	 chip the
+18 	 17 	 N/N 	 1 	 chip 486
+<\s>
+<s id="wsj_0781.17"> 26
+1 	 0 	 (S/S)/(S[dcl]\NP) 	 2 	 's What
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 more 's
+5 	 4 	 NP[nb]/N 	 1 	 bugs the
+5 	 7 	 S[dcl]\NP 	 1 	 bugs emerge
+7 	 0 	 (S/S)/(S[dcl]\NP) 	 1 	 emerge What
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 emerge only
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 emerge on
+7 	 20 	 (S[dcl]\S[dcl])\NP 	 1 	 emerge said
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 applications on
+10 	 9 	 N/N 	 1 	 applications esoteric
+10 	 12 	 (NP\NP)/NP 	 1 	 applications as
+12 	 11 	 (NP\NP)/(NP\NP) 	 2 	 as such
+14 	 12 	 (NP\NP)/NP 	 2 	 design as
+14 	 13 	 N/N 	 1 	 design computer-aided
+17 	 12 	 (NP\NP)/NP 	 2 	 calculations as
+17 	 16 	 N/N 	 1 	 calculations scientific
+19 	 20 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+20 	 22 	 (S\S)/S[frg] 	 1 	 said and
+25 	 22 	 (S\S)/S[frg] 	 2 	 seldom and
+25 	 23 	 S/S 	 1 	 seldom then
+25 	 24 	 S/S 	 1 	 seldom very
+<\s>
+<s id="wsj_0781.18"> 10
+1 	 0 	 NP[nb]/N 	 1 	 errata These
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 errata do
+1 	 4 	 (S[b]\NP)/NP 	 1 	 errata affect <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 do not
+2 	 9 	 (S[dcl]\S[dcl])\NP 	 1 	 do said
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 affect do
+6 	 4 	 (S[b]\NP)/NP 	 2 	 programs affect
+6 	 5 	 N/N 	 1 	 programs business
+8 	 9 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_0781.19"> 36
+1 	 0 	 NP[nb]/N 	 1 	 bugs The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bugs will
+1 	 3 	 (S[b]\NP)/NP 	 1 	 bugs cause <XB>
+2 	 23 	 (S[dcl]\S[dcl])/NP 	 1 	 will said
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 cause will
+3 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 cause in
+4 	 3 	 (S[b]\NP)/NP 	 2 	 problems cause
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 circumstances in
+9 	 6 	 N/N 	 1 	 circumstances specific
+9 	 8 	 N/N 	 1 	 circumstances rare
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 circumstances that
+9 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 circumstances will <XB>
+9 	 13 	 S[b]\NP 	 1 	 circumstances occur <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 will not
+13 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 occur will
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 occur in
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 applications in
+16 	 15 	 N/N 	 1 	 applications typical
+16 	 18 	 (NP\NP)/NP 	 1 	 applications as
+18 	 17 	 (NP\NP)/(NP\NP) 	 2 	 as such
+19 	 18 	 (NP\NP)/NP 	 2 	 word-processing as
+21 	 18 	 (NP\NP)/NP 	 2 	 spreadsheets as
+25 	 23 	 (S[dcl]\S[dcl])/NP 	 2 	 Slater said
+25 	 24 	 N/N 	 1 	 Slater Michael
+27 	 23 	 (S[dcl]\S[dcl])/NP 	 2 	 editor said
+27 	 28 	 (NP\NP)/NP 	 1 	 editor of
+31 	 28 	 (NP\NP)/NP 	 2 	 Report of
+31 	 29 	 NP[nb]/N 	 1 	 Report the
+31 	 30 	 N/N 	 1 	 Report Microprocessor
+35 	 28 	 (NP\NP)/NP 	 2 	 newsletter of
+35 	 33 	 NP[nb]/N 	 1 	 newsletter an
+35 	 34 	 N/N 	 1 	 newsletter industry
+<\s>
+<s id="wsj_0781.20"> 15
+0 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Sun say
+2 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Hewlett-Packard say
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 others say
+6 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Intel is
+6 	 11 	 (S[b]\NP)/PP 	 1 	 Intel blame <XB>
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 is say
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 is n't
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 is wholly
+10 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 blame to
+12 	 11 	 (S[b]\NP)/PP 	 2 	 for blame
+14 	 12 	 PP/NP 	 1 	 snafu for
+14 	 13 	 NP[nb]/N 	 1 	 snafu the
+<\s>
+<s id="wsj_0781.21"> 22
+2 	 0 	 NP[nb]/N 	 1 	 culprits The
+2 	 1 	 N/N 	 1 	 culprits real
+2 	 7 	 (S[dcl]\NP)/NP 	 1 	 culprits are
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 they said
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 makers are
+9 	 8 	 N/N 	 1 	 makers computer
+9 	 11 	 (NP\NP)/NP 	 1 	 makers as
+9 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 makers that
+9 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 makers have <XB>
+9 	 15 	 (S[pt]\NP)/NP 	 1 	 makers jumped <XB>
+9 	 19 	 (S[b]\NP)/NP 	 1 	 makers unveil <XB>
+11 	 10 	 (NP\NP)/(NP\NP) 	 2 	 as such
+12 	 11 	 (NP\NP)/NP 	 2 	 IBM as
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have that
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 jumped have
+17 	 15 	 (S[pt]\NP)/NP 	 2 	 gun jumped
+17 	 16 	 NP[nb]/N 	 1 	 gun the
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 unveil to
+21 	 19 	 (S[b]\NP)/NP 	 2 	 products unveil
+21 	 20 	 N/N 	 1 	 products 486-based
+<\s>
+<s id="wsj_0781.22"> 23
+1 	 0 	 NP[nb]/N 	 1 	 reason The
+1 	 8 	 (S[dcl]\NP)/S[em] 	 1 	 reason is
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 this is
+2 	 4 	 (S[ng]\NP)/NP 	 1 	 this getting <XB>
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 getting is
+6 	 5 	 (N/N)/(N/N) 	 2 	 much so
+7 	 4 	 (S[ng]\NP)/NP 	 2 	 visibility getting
+7 	 6 	 N/N 	 1 	 visibility much
+8 	 18 	 (S[dcl]\S[dcl])/NP 	 1 	 is said
+9 	 8 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 some started
+10 	 14 	 (S[dcl]\NP)/NP 	 1 	 some announced <XU>
+11 	 9 	 S[em]/S[dcl] 	 1 	 started that
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 shipping started
+14 	 9 	 S[em]/S[dcl] 	 1 	 announced that
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 availability announced
+16 	 15 	 N/N 	 1 	 availability early
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 Hewlett-Packard 's
+22 	 18 	 (S[dcl]\S[dcl])/NP 	 2 	 Archuleta said
+22 	 20 	 (NP[nb]/N)\NP 	 1 	 Archuleta 's
+22 	 21 	 N/N 	 1 	 Archuleta Mr.
+<\s>
+<s id="wsj_0781.23"> 10
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 You can
+0 	 2 	 (S[b]\NP)/NP 	 1 	 You do <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 do can
+3 	 2 	 (S[b]\NP)/NP 	 2 	 that do
+5 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 you 're
+5 	 7 	 (S[ng]\NP)/NP 	 1 	 you taking <XB>
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 taking 're
+9 	 7 	 (S[ng]\NP)/NP 	 2 	 risk taking
+9 	 8 	 NP[nb]/N 	 1 	 risk a
+<\s>
+<s id="wsj_0781.24"> 10
+1 	 0 	 NP[nb]/N 	 1 	 companies Those
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 companies are
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 companies paying <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 paying are
+5 	 3 	 (S[ng]\NP)/NP 	 2 	 price paying
+5 	 4 	 NP[nb]/N 	 1 	 price the
+5 	 6 	 (NP\NP)/(S[ng]\NP) 	 1 	 price for
+7 	 6 	 (NP\NP)/(S[ng]\NP) 	 2 	 taking for
+9 	 7 	 (S[ng]\NP)/NP 	 2 	 risk taking
+9 	 8 	 NP[nb]/N 	 1 	 risk the
+<\s>
+<s id="wsj_0781.25"> 24
+2 	 0 	 (S/S)/NP 	 2 	 September In
+2 	 1 	 N/N 	 1 	 September late
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 IBM began
+4 	 6 	 (S[ng]\NP)/NP 	 1 	 IBM shipping <XB>
+5 	 0 	 (S/S)/NP 	 1 	 began In
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 shipping began
+9 	 6 	 (S[ng]\NP)/NP 	 2 	 card shipping
+9 	 7 	 NP[nb]/N 	 1 	 card a
+9 	 8 	 N/N 	 1 	 card plug-in
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 card that
+9 	 11 	 (((S[dcl]\NP)/PP)/PP)/NP 	 1 	 card converts <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 converts that
+14 	 11 	 (((S[dcl]\NP)/PP)/PP)/NP 	 4 	 model converts
+14 	 12 	 NP[nb]/N 	 1 	 model its
+14 	 13 	 N/N 	 1 	 model PS\/2
+14 	 15 	 N\N 	 1 	 model 70-A21
+16 	 11 	 (((S[dcl]\NP)/PP)/PP)/NP 	 3 	 from converts
+19 	 16 	 PP/NP 	 1 	 machine from
+19 	 17 	 NP[nb]/N 	 1 	 machine a
+19 	 18 	 N/N 	 1 	 machine 80386
+20 	 11 	 (((S[dcl]\NP)/PP)/PP)/NP 	 2 	 to converts
+23 	 20 	 PP/NP 	 1 	 machine to
+23 	 21 	 NP[nb]/N 	 1 	 machine an
+23 	 22 	 N/N 	 1 	 machine 80486
+<\s>
+<s id="wsj_0781.26"> 18
+2 	 0 	 NP[nb]/N 	 1 	 spokeswoman An
+2 	 1 	 N/N 	 1 	 spokeswoman IBM
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokeswoman said
+5 	 4 	 NP[nb]/N 	 1 	 company the
+5 	 6 	 ((S[dcl]\NP)/PP)/NP 	 1 	 company told
+5 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 company stopped <XU>
+5 	 15 	 (S[ng]\NP)/NP 	 1 	 company shipping <XU>
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 told said
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 told Monday
+7 	 6 	 ((S[dcl]\NP)/PP)/NP 	 3 	 customers told
+9 	 6 	 ((S[dcl]\NP)/PP)/NP 	 2 	 about told
+11 	 9 	 PP/NP 	 1 	 bugs about
+11 	 10 	 NP[nb]/N 	 1 	 bugs the
+14 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 stopped said
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 stopped temporarily
+15 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 shipping stopped
+17 	 15 	 (S[ng]\NP)/NP 	 2 	 product shipping
+17 	 16 	 NP[nb]/N 	 1 	 product the
+<\s>
+<s id="wsj_0781.27"> 24
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 IBM has
+0 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 IBM could <XU>
+0 	 17 	 (S[b]\NP)/NP 	 1 	 IBM circumvent <XU>
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 plans has
+3 	 2 	 NP[nb]/N 	 1 	 plans no
+3 	 5 	 (S[b]\NP)/NP 	 1 	 plans recall <XB>
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 recall to
+8 	 5 	 (S[b]\NP)/NP 	 2 	 cards recall
+8 	 6 	 NP[nb]/N 	 1 	 cards its
+8 	 7 	 N/N 	 1 	 cards add-on
+11 	 10 	 NP[nb]/N 	 1 	 spokeswoman the
+11 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokeswoman said
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 could probably
+17 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 circumvent could
+17 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 circumvent without
+19 	 17 	 (S[b]\NP)/NP 	 2 	 bugs circumvent
+19 	 18 	 NP[nb]/N 	 1 	 bugs the
+23 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 delays without
+23 	 21 	 N/N 	 1 	 delays long
+23 	 22 	 N/N 	 1 	 delays product
+<\s>
+<s id="wsj_0781.28"> 15
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 We do
+0 	 3 	 ((S[b]\NP)/PP)/PP 	 1 	 We look <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 do n't
+1 	 14 	 (S[dcl]\S[dcl])\NP 	 1 	 do said
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 look do
+4 	 3 	 ((S[b]\NP)/PP)/PP 	 3 	 at look
+5 	 4 	 PP/NP 	 1 	 this at
+6 	 3 	 ((S[b]\NP)/PP)/PP 	 2 	 as look
+9 	 6 	 PP/NP 	 1 	 problem as
+9 	 7 	 NP[nb]/N 	 1 	 problem a
+9 	 8 	 N/N 	 1 	 problem major
+9 	 10 	 (NP\NP)/NP 	 1 	 problem for
+11 	 10 	 (NP\NP)/NP 	 2 	 us for
+13 	 14 	 (S[dcl]\S[dcl])\NP 	 2 	 she said
+<\s>
+<s id="wsj_0781.29"> 19
+0 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Compaq which
+0 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Compaq said <XB>
+0 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Compaq plans
+0 	 12 	 (S[b]\NP)/NP 	 1 	 Compaq announce <XB>
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 said which
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 it discovered
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 discovered said
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 bugs discovered
+7 	 6 	 NP[nb]/N 	 1 	 bugs the
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 plans still
+11 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 announce to
+12 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 announce on
+15 	 12 	 (S[b]\NP)/NP 	 2 	 products announce
+15 	 13 	 N/N 	 1 	 products new
+15 	 14 	 N/N 	 1 	 products 486
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 Nov. on
+18 	 17 	 N/N[num] 	 1 	 6 Nov.
+<\s>
+<s id="wsj_0781.30"> 21
+1 	 0 	 (S/S)/PP 	 2 	 of Because
+3 	 1 	 PP/NP 	 1 	 glitch of
+3 	 2 	 NP[nb]/N 	 1 	 glitch the
+8 	 7 	 NP[nb]/N 	 1 	 company the
+8 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+9 	 0 	 (S/S)/PP 	 1 	 said Because
+9 	 5 	 S/S 	 1 	 said however
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it does
+10 	 13 	 (S[b]\NP)/S[qem] 	 1 	 it know <XB>
+11 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 does said
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 does n't
+13 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 know does
+14 	 13 	 (S[b]\NP)/S[qem] 	 2 	 when know
+16 	 15 	 NP[nb]/N 	 1 	 machine its
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 machine will
+16 	 20 	 S[adj]\NP 	 1 	 machine available <XB>
+17 	 14 	 S[qem]/S[dcl] 	 1 	 will when
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+20 	 18 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 available be
+20 	 19 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 available commercially
+<\s>
+<s id="wsj_0781.31"> 22
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That 's
+1 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 's because
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 break 's
+3 	 2 	 NP[nb]/N 	 1 	 break a
+3 	 4 	 (NP\NP)/NP 	 1 	 break from
+6 	 4 	 (NP\NP)/NP 	 2 	 tradition from
+6 	 5 	 N/N 	 1 	 tradition Compaq
+10 	 9 	 NP[nb]/N 	 1 	 company the
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 company does
+10 	 13 	 (S[b]\NP)/NP 	 1 	 company announce <XB>
+11 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 does because
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 does n't
+13 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 announce does
+13 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 announce until
+14 	 13 	 (S[b]\NP)/NP 	 2 	 products announce
+16 	 17 	 (S[dcl]\NP)/PP 	 1 	 they 're
+17 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 're until
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 're actually
+19 	 17 	 (S[dcl]\NP)/PP 	 2 	 at 're
+21 	 19 	 PP/NP 	 1 	 dealers at
+21 	 20 	 NP[nb]/N 	 1 	 dealers the
+<\s>
+<s id="wsj_0781.32"> 17
+1 	 0 	 NP[nb]/N 	 1 	 problem The
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 problem is
+1 	 3 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 problem being <XB>
+1 	 4 	 S[pss]\NP 	 1 	 problem ballyhooed <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being is
+4 	 3 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 ballyhooed being
+4 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 ballyhooed because
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 experts say
+11 	 10 	 NP[nb]/N 	 1 	 486 the
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 486 is
+12 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is because
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 Intel 's
+16 	 12 	 (S[dcl]\NP)/NP 	 2 	 flagship is
+16 	 14 	 (NP[nb]/N)\NP 	 1 	 flagship 's
+16 	 15 	 N/N 	 1 	 flagship future
+<\s>
+<s id="wsj_0781.33"> 37
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Intel 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 microprocessors 's
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 microprocessors are
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 are in
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 chips are
+5 	 4 	 NP[nb]/N 	 1 	 chips the
+5 	 6 	 (NP\NP)/NP 	 1 	 chips of
+7 	 6 	 (NP\NP)/NP 	 2 	 choice of
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 many in
+9 	 10 	 (NP\NP)/NP 	 1 	 many of
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 today 's
+14 	 10 	 (NP\NP)/NP 	 2 	 computers of
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 computers 's
+14 	 13 	 N/N 	 1 	 computers personal
+18 	 16 	 NP[nb]/N 	 1 	 microprocessor the
+18 	 17 	 N/N 	 1 	 microprocessor 80486
+18 	 19 	 (S[dcl]\NP)/NP 	 1 	 microprocessor is
+21 	 19 	 (S[dcl]\NP)/NP 	 2 	 spearhead is
+21 	 20 	 NP[nb]/N 	 1 	 spearhead the
+21 	 22 	 (NP\NP)/NP 	 1 	 spearhead of
+24 	 23 	 NP[nb]/N 	 1 	 company the
+24 	 25 	 (NP[nb]/N)\NP 	 2 	 company 's
+26 	 22 	 (NP\NP)/NP 	 2 	 bid of
+26 	 25 	 (NP[nb]/N)\NP 	 1 	 bid 's
+26 	 28 	 (S[b]\NP)/NP 	 1 	 bid guard <XB>
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 guard to
+28 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 guard in
+30 	 28 	 (S[b]\NP)/NP 	 2 	 spot guard
+30 	 29 	 NP[nb]/N 	 1 	 spot that
+34 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 generation in
+34 	 32 	 NP[nb]/N 	 1 	 generation the
+34 	 33 	 N/N 	 1 	 generation next
+34 	 35 	 (NP\NP)/NP 	 1 	 generation of
+36 	 35 	 (NP\NP)/NP 	 2 	 machines of
+<\s>
+<s id="wsj_0781.34"> 26
+2 	 1 	 NP[nb]/N 	 1 	 sorts these
+2 	 3 	 (NP\NP)/NP 	 1 	 sorts of
+2 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 sorts are
+2 	 9 	 S[adj]\NP 	 1 	 sorts uncommon <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 bugs of
+5 	 0 	 (S/S)/S[dcl] 	 2 	 are Although
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 are not
+8 	 7 	 ((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)) 	 3 	 all at
+9 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 uncommon are
+9 	 8 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 uncommon all
+12 	 11 	 NP[nb]/N 	 1 	 486 the
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 486 is
+13 	 0 	 (S/S)/S[dcl] 	 1 	 is Although
+13 	 19 	 (S[dcl]\S[dcl])/NP 	 1 	 is said
+16 	 15 	 (N/N)/(N/N) 	 2 	 high-profile extremely
+17 	 13 	 (S[dcl]\NP)/NP 	 2 	 product is
+17 	 14 	 NP[nb]/N 	 1 	 product an
+17 	 16 	 N/N 	 1 	 product high-profile
+21 	 19 	 (S[dcl]\S[dcl])/NP 	 2 	 Slater said
+21 	 20 	 N/N 	 1 	 Slater Mr.
+25 	 19 	 (S[dcl]\S[dcl])/NP 	 2 	 editor said
+25 	 23 	 NP[nb]/N 	 1 	 editor the
+25 	 24 	 N/N 	 1 	 editor newsletter
+<\s>
+<s id="wsj_0781.35"> 33
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Intel 's
+3 	 1 	 (NP[nb]/N)\NP 	 1 	 chip 's
+3 	 2 	 N/N 	 1 	 chip 80486
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 chip is
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 Corvette is
+6 	 5 	 NP[nb]/N 	 1 	 Corvette the
+6 	 7 	 (NP\NP)/NP 	 1 	 Corvette of
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 Intel 's
+10 	 7 	 (NP\NP)/NP 	 2 	 microprocessors of
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 microprocessors 's
+15 	 13 	 (N/N)/(N/N) 	 2 	 super-expensive super-fast
+16 	 4 	 (S[dcl]\NP)/NP 	 2 	 chip is
+16 	 12 	 NP[nb]/N 	 1 	 chip a
+16 	 15 	 N/N 	 1 	 chip super-expensive
+16 	 17 	 (NP\NP)/(S[dcl]/NP) 	 1 	 chip that
+16 	 27 	 (S[b]\NP)/NP 	 2 	 chip buy <XU>
+21 	 20 	 (N/N)/(N/N) 	 2 	 power-hungry most
+23 	 18 	 NP/NP 	 1 	 users only
+23 	 19 	 NP[nb]/N 	 1 	 users the
+23 	 21 	 N/N 	 1 	 users power-hungry
+23 	 22 	 N/N 	 1 	 users computer
+23 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 users are
+23 	 25 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 users likely <XB>
+24 	 17 	 (NP\NP)/(S[dcl]/NP) 	 2 	 are that
+25 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely are
+26 	 25 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+27 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 buy for
+30 	 29 	 (N/N)/(S[asup]\NP) 	 2 	 least at
+32 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+32 	 29 	 (N/N)/(S[asup]\NP) 	 1 	 years at
+32 	 31 	 N/N 	 1 	 years several
+<\s>
+<s id="wsj_0781.36"> 30
+0 	 2 	 (S\NP)\(S\NP) 	 2 	 Unveiled April
+2 	 1 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 April last
+5 	 4 	 NP[nb]/N 	 1 	 chip the
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 chip crams
+6 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 crams on
+8 	 7 	 (N/N)/(N/N) 	 2 	 million 1.2
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 transistors crams
+9 	 8 	 N/N 	 1 	 transistors million
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 sliver on
+12 	 11 	 NP[nb]/N 	 1 	 sliver a
+12 	 13 	 (NP\NP)/NP 	 1 	 sliver of
+14 	 13 	 (NP\NP)/NP 	 2 	 silicon of
+16 	 17 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+18 	 17 	 (N/N)\(S[adj]\NP) 	 1 	 four than
+18 	 19 	 N\N 	 1 	 four times
+18 	 21 	 S[adj]\NP 	 1 	 four many <XB>
+21 	 20 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 many as
+21 	 22 	 ((S[adj]\NP)\(S[adj]\NP))/PP 	 2 	 many as
+23 	 22 	 ((S[adj]\NP)\(S[adj]\NP))/PP 	 3 	 on as
+24 	 25 	 (NP[nb]/N)\NP 	 2 	 Intel 's
+27 	 23 	 PP/NP 	 1 	 model on
+27 	 25 	 (NP[nb]/N)\NP 	 1 	 model 's
+27 	 26 	 N/N 	 1 	 model earlier
+29 	 23 	 PP/NP 	 1 	 80386 on
+<\s>
+<s id="wsj_0781.37"> 15
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Intel clocks
+3 	 2 	 NP[nb]/N 	 1 	 chip the
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 chip 's
+5 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 speed clocks
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 speed 's
+6 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 at clocks
+8 	 7 	 (N/N)/(N/N) 	 2 	 million 15
+9 	 6 	 PP/NP 	 1 	 instructions at
+9 	 8 	 N/N 	 1 	 instructions million
+9 	 10 	 (NP\NP)/NP 	 1 	 instructions per
+11 	 10 	 (NP\NP)/NP 	 2 	 second per
+14 	 6 	 PP/NP 	 1 	 MIPs at
+<\s>
+<s id="wsj_0781.38"> 9
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That 's
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 four 's
+2 	 3 	 N\N 	 1 	 four times
+2 	 5 	 S[adj]\NP 	 1 	 four fast <XB>
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 fast as
+5 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 fast as
+8 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 386 as
+8 	 7 	 NP[nb]/N 	 1 	 386 the
+<\s>
+<s id="wsj_0781.39"> 31
+0 	 1 	 (S[ng]\NP)/NP 	 1 	 Machines using <XB>
+0 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Machines are
+0 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Machines expected <XB>
+0 	 7 	 (S[b]\NP)/NP 	 1 	 Machines challenge <XB>
+3 	 1 	 (S[ng]\NP)/NP 	 2 	 486 using
+3 	 2 	 NP[nb]/N 	 1 	 486 the
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+6 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 challenge to
+7 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 challenge in
+7 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 challenge in <XU>
+10 	 7 	 (S[b]\NP)/NP 	 2 	 stations challenge
+10 	 8 	 N/N 	 1 	 stations higher-priced
+10 	 9 	 N/N 	 1 	 stations work
+12 	 7 	 (S[b]\NP)/NP 	 2 	 minicomputers challenge
+12 	 8 	 N/N 	 1 	 minicomputers higher-priced
+12 	 9 	 N/N 	 1 	 minicomputers work
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 applications in
+14 	 16 	 (NP\NP)/NP 	 1 	 applications as
+16 	 15 	 (NP\NP)/(NP\NP) 	 2 	 as such
+18 	 16 	 (NP\NP)/NP 	 2 	 servers as
+18 	 17 	 N/N 	 1 	 servers so-called
+18 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 servers which
+18 	 21 	 (S[dcl]\NP)/NP 	 1 	 servers connect <XB>
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 connect which
+21 	 25 	 (S\NP)\(S\NP) 	 2 	 connect together
+22 	 21 	 (S[dcl]\NP)/NP 	 2 	 groups connect
+22 	 23 	 (NP\NP)/NP 	 1 	 groups of
+24 	 23 	 (NP\NP)/NP 	 2 	 computers of
+30 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 design in
+30 	 29 	 N/N 	 1 	 design computer-aided
+<\s>
+<s id="wsj_0781.40"> 21
+3 	 2 	 NP[nb]/N 	 1 	 chip the
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 chip 's
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 speed 's
+5 	 6 	 (NP\NP)/NP 	 1 	 speed in
+5 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 speed is
+5 	 10 	 S[adj]\NP 	 1 	 speed dazzling <XB>
+8 	 6 	 (NP\NP)/NP 	 2 	 power in
+8 	 7 	 N/N 	 1 	 power processing
+9 	 1 	 (S/S)/S[dcl] 	 2 	 is while
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 dazzling is
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 it 's
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 strength 's
+15 	 14 	 N/N 	 1 	 strength real
+15 	 16 	 S[dcl]\NP 	 1 	 strength lies
+16 	 0 	 S/S 	 1 	 lies But
+16 	 1 	 (S/S)/S[dcl] 	 1 	 lies while
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 lies in
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 inheritance in
+20 	 18 	 NP[nb]/N 	 1 	 inheritance its
+20 	 19 	 N/N 	 1 	 inheritance software
+<\s>
+<s id="wsj_0781.41"> 30
+1 	 0 	 NP[nb]/N 	 1 	 486 The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 486 is
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 descendant is
+4 	 3 	 NP[nb]/N 	 1 	 descendant the
+4 	 5 	 (NP\NP)/NP 	 1 	 descendant of
+8 	 5 	 (NP\NP)/NP 	 2 	 series of
+8 	 6 	 NP[nb]/N 	 1 	 series a
+8 	 7 	 N/N 	 1 	 series long
+8 	 9 	 (NP\NP)/NP 	 1 	 series of
+8 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 series that
+8 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 series began <XB>
+8 	 14 	 (S[ng]\NP)/NP 	 1 	 series dominating <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 chips of
+11 	 10 	 N/N 	 1 	 chips Intel
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 began that
+13 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 began since
+14 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 dominating began
+16 	 14 	 (S[ng]\NP)/NP 	 2 	 market dominating
+16 	 15 	 NP[nb]/N 	 1 	 market the
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 since ever
+19 	 20 	 ((S[dcl]\NP)/PP)/NP 	 1 	 IBM picked
+20 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 picked since
+24 	 20 	 ((S[dcl]\NP)/PP)/NP 	 3 	 chip picked
+24 	 21 	 NP[nb]/N 	 1 	 chip the
+24 	 22 	 N/N 	 1 	 chip 16-bit
+24 	 23 	 N/N 	 1 	 chip 8088
+25 	 20 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for picked
+29 	 25 	 PP/NP 	 1 	 computer for
+29 	 26 	 NP[nb]/N 	 1 	 computer its
+29 	 27 	 N/N 	 1 	 computer first
+29 	 28 	 N/N 	 1 	 computer personal
+<\s>
+<s id="wsj_0781.42"> 21
+3 	 1 	 NP[nb]/N 	 1 	 microprocessor A
+3 	 2 	 N/N 	 1 	 microprocessor 16-bit
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 microprocessor processes
+3 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 microprocessor is <XU>
+3 	 14 	 S[adj]\NP 	 1 	 microprocessor slower <XU>
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 pieces processes
+6 	 5 	 N/N 	 1 	 pieces 16
+6 	 7 	 (NP\NP)/NP 	 1 	 pieces of
+6 	 9 	 (NP\NP)/NP 	 1 	 pieces at
+8 	 7 	 (NP\NP)/NP 	 2 	 data of
+11 	 9 	 (NP\NP)/NP 	 2 	 time at
+11 	 10 	 NP[nb]/N 	 1 	 time a
+14 	 13 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 slower is
+14 	 15 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 slower than
+19 	 15 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 chips than
+19 	 16 	 N/N 	 1 	 chips newer
+19 	 18 	 N/N 	 1 	 chips 32-bit
+<\s>
+<s id="wsj_0781.43"> 31
+1 	 0 	 (S/S)/NP 	 2 	 then Since
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Intel has
+3 	 5 	 (S[pt]\NP)/NP 	 1 	 Intel cornered <XB>
+4 	 0 	 (S/S)/NP 	 1 	 has Since
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 cornered has
+5 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 cornered with
+8 	 5 	 (S[pt]\NP)/NP 	 2 	 part cornered
+8 	 6 	 NP[nb]/N 	 1 	 part a
+8 	 7 	 N/N 	 1 	 part large
+8 	 9 	 (NP\NP)/NP 	 1 	 part of
+11 	 9 	 (NP\NP)/NP 	 2 	 market of
+11 	 10 	 NP[nb]/N 	 1 	 market the
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 generations with
+14 	 13 	 N/N 	 1 	 generations successive
+14 	 15 	 (NP\NP)/NP 	 1 	 generations of
+19 	 15 	 (NP\NP)/NP 	 2 	 chips of
+19 	 16 	 N/N 	 1 	 chips 16-bit
+19 	 18 	 N/N 	 1 	 chips 32-bit
+19 	 23 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 1 	 chips which
+21 	 22 	 (NP\NP)/NP 	 1 	 all of
+21 	 23 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 3 	 all which
+24 	 23 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 2 	 can which
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 run can
+26 	 25 	 (S[b]\NP)/NP 	 2 	 software run
+26 	 27 	 S[pss]\NP 	 1 	 software written <XB>
+27 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 written for
+30 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 models for
+30 	 29 	 N/N 	 1 	 models previous
+<\s>
+<s id="wsj_0781.44"> 15
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 That 's
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 what 's
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 what will <XB>
+2 	 4 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 1 	 what keep <XB>
+3 	 2 	 NP/(S[dcl]\NP) 	 1 	 will what
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 keep will
+4 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 keep in
+6 	 4 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 3 	 makers keep
+6 	 5 	 N/N 	 1 	 makers computer
+6 	 7 	 S[ng]\NP 	 1 	 makers coming <XB>
+7 	 4 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 2 	 coming keep
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 spite in
+9 	 10 	 (NP\NP)/NP 	 1 	 spite of
+12 	 10 	 (NP\NP)/NP 	 2 	 irritation of
+12 	 11 	 NP[nb]/N 	 1 	 irritation the
+12 	 13 	 (NP\NP)/NP 	 1 	 irritation of
+14 	 13 	 (NP\NP)/NP 	 2 	 bugs of
+<\s>
+<s id="wsj_0781.45"> 25
+3 	 0 	 N/N 	 1 	 makers Big
+3 	 1 	 N/N 	 1 	 makers personal
+3 	 2 	 N/N 	 1 	 makers computer
+3 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 makers are
+3 	 11 	 (S[ng]\NP)/NP 	 1 	 makers developing <XB>
+6 	 5 	 N/N 	 1 	 makers many
+6 	 7 	 (NP\NP)/NP 	 1 	 makers of
+6 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 makers are
+6 	 11 	 (S[ng]\NP)/NP 	 1 	 makers developing <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 workstations of
+9 	 8 	 N/N 	 1 	 workstations engineering
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 developing are
+13 	 11 	 (S[ng]\NP)/NP 	 2 	 machines developing
+13 	 12 	 N/N 	 1 	 machines 486-based
+13 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 machines which
+13 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 machines are <XB>
+13 	 17 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 machines expected <XB>
+13 	 19 	 (S[b]\NP)/NP 	 1 	 machines reach <XB>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are which
+17 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+18 	 17 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reach to
+19 	 24 	 (S\NP)\(S\NP) 	 2 	 reach year
+21 	 19 	 (S[b]\NP)/NP 	 2 	 market reach
+21 	 20 	 NP[nb]/N 	 1 	 market the
+24 	 22 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year early
+24 	 23 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+<\s>
+<s id="wsj_0781.46"> 17
+4 	 0 	 (S/S)/NP 	 2 	 makers Of
+4 	 1 	 NP[nb]/N 	 1 	 makers the
+4 	 2 	 N/N 	 1 	 makers big
+4 	 3 	 N/N 	 1 	 makers computer
+9 	 6 	 N/N 	 1 	 Co. only
+9 	 7 	 N/N 	 1 	 Co. Apple
+9 	 8 	 N/N 	 1 	 Co. Computer
+9 	 10 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Co. bases
+10 	 0 	 (S/S)/NP 	 1 	 bases Of
+10 	 16 	 (S\NP)\(S\NP) 	 2 	 bases instead
+12 	 10 	 ((S[dcl]\NP)/PP)/NP 	 3 	 machines bases
+12 	 11 	 NP[nb]/N 	 1 	 machines its
+13 	 10 	 ((S[dcl]\NP)/PP)/NP 	 2 	 on bases
+15 	 13 	 PP/NP 	 1 	 chips on
+15 	 14 	 N/N 	 1 	 chips Motorola
+<\s>
+<s id="wsj_0781.47"> 18
+1 	 0 	 NP[nb]/N 	 1 	 486 The
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 486 is
+1 	 5 	 ((S[b]\NP)/PP)/NP 	 1 	 486 have <XB>
+2 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 is said
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going is
+4 	 3 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+8 	 5 	 ((S[b]\NP)/PP)/NP 	 3 	 impact have
+8 	 6 	 NP[nb]/N 	 1 	 impact a
+8 	 7 	 N/N 	 1 	 impact big
+9 	 5 	 ((S[b]\NP)/PP)/NP 	 2 	 on have
+11 	 9 	 PP/NP 	 1 	 industry on
+11 	 10 	 NP[nb]/N 	 1 	 industry the
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 Hewlett-Packard 's
+17 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 Archuleta said
+17 	 15 	 (NP[nb]/N)\NP 	 1 	 Archuleta 's
+17 	 16 	 N/N 	 1 	 Archuleta Mr.
+<\s>
+<s id="wsj_0781.48"> 17
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 It 's
+0 	 4 	 (S[b]\NP)/NP 	 1 	 It be <XB>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going 's
+3 	 2 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+4 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 be for
+8 	 4 	 (S[b]\NP)/NP 	 2 	 technology be
+8 	 5 	 NP[nb]/N 	 1 	 technology the
+8 	 6 	 N/N 	 1 	 technology leading
+8 	 7 	 N/N 	 1 	 technology edge
+8 	 9 	 (NP\NP)/NP 	 1 	 technology in
+11 	 9 	 (NP\NP)/NP 	 2 	 computers in
+11 	 10 	 N/N 	 1 	 computers personal
+16 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+16 	 13 	 NP[nb]/N 	 1 	 years the
+16 	 14 	 N/N 	 1 	 years next
+16 	 15 	 N/N 	 1 	 years few
+<\s>
+<s id="wsj_0781.49"> 13
+1 	 0 	 NP[nb]/N 	 1 	 bug This
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 bug is
+1 	 6 	 (S[b]\NP)/NP 	 1 	 bug have <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 is not
+4 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going is
+5 	 4 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+6 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 have at
+8 	 6 	 (S[b]\NP)/NP 	 2 	 affect have
+8 	 7 	 NP[nb]/N 	 1 	 affect any
+8 	 9 	 (NP\NP)/NP 	 1 	 affect on
+10 	 9 	 (NP\NP)/NP 	 2 	 that on
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 all at
+<\s>
+<s id="wsj_0781.50"> 8
+1 	 0 	 N/N 	 1 	 Zipser Andy
+1 	 2 	 (NP\NP)/NP 	 1 	 Zipser in
+1 	 4 	 (S[dcl]\NP)/PP 	 1 	 Zipser contributed
+3 	 2 	 (NP\NP)/NP 	 2 	 Dallas in
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 to contributed
+7 	 5 	 PP/NP 	 1 	 article to
+7 	 6 	 NP[nb]/N 	 1 	 article this
+<\s>

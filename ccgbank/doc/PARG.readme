@@ -1,0 +1,51 @@
+
+	CCGbank -- the machine-readable predicate-argument structure files (.parg)
+	-------------------------------------------------------------------------
+               Julia Hockenmaier and Mark Steedman 
+
+
+The predicate-argument structure files give for each sentence a list
+of the word-word dependencies in the predicate-argument structure,
+including locally mediated and long-range dependencies, which are
+indicated as such.  For each file in the original Treebank, there is
+one corresponding predicate-argument structure file. 
+Each sentence is enclosed by an <s>...</s> tag. The opening <s> tag
+contains an attribute that indicates the sentence ID and is followed
+by the index of the last token in the sentence.  
+Each dependency appears on one line.
+
+<s id="wsj_0001.2"> 12
+1      0       N/N             1       Vinken Mr.
+1      2       (S[dcl]\NP)/NP  1       Vinken is
+3      2       (S[dcl]\NP)/NP  2       chairman is
+3      4       (NP\NP)/NP      1       chairman of
+6      4       (NP\NP)/NP      2       N.V. of
+6      5       N/N             1       N.V. Elsevier
+11     4       (NP\NP)/NP      2       group of
+11     8       NP[nb]/N        1       group the
+11     9       N/N             1       group Dutch
+11     10      N/N             1       group publishing
+<\s>
+
+A dependency between the i-th and j-th word (word_i and word_j) where
+the j-th word has the lexical (functor) category cat_j and the i-th
+word is head of the constituent which fills the k-th argument slot of
+cat_j is described as follows:
+
+i   j   cat_j    arg_k   word_i  word_j 
+
+Words in each sentence are numbered from 0 to n. 
+
+In the sentence ``Mr. Vinken is chairman of Elsevier'', 'Vinken' is
+the second word in the sentence and head of the constituent which
+fills the first (and only) argument slot of the N/N 'Mr.'. At the same
+time, the N 'Vinken' is head of the constituent which fills the first
+argument slot of the (S[dcl]NP)/NP 'is', which is the third word in
+the sentence. Therefore:
+
+1      0       N/N             1       Vinken Mr.
+1      2       (S[dcl]\NP)/NP  1       Vinken is
+
+
+In version 1.1 of CCGbank, Penn Treebank sentences that do not receive
+a CCG derivation do not appear in the PARG files.

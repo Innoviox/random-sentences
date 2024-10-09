@@ -1,0 +1,107 @@
+<s id="wsj_0255.1"> 20
+2 	 0 	 N/N 	 1 	 Co. Boston
+2 	 1 	 N/N 	 1 	 Co. Edison
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+4 	 6 	 (S[b]\NP)/NP 	 1 	 it take <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take will
+6 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 take in
+9 	 8 	 (N/N)/(N/N) 	 2 	 reported previously
+12 	 10 	 (N/N)/N[num] 	 2 	 million $
+12 	 11 	 N/N 	 1 	 million 60
+13 	 6 	 (S[b]\NP)/NP 	 2 	 charge take
+13 	 7 	 NP[nb]/N 	 1 	 charge a
+13 	 9 	 N/N 	 1 	 charge reported
+13 	 10 	 (N/N)/N[num] 	 1 	 charge $
+13 	 14 	 (NP\NP)/NP 	 1 	 charge against
+15 	 14 	 (NP\NP)/NP 	 2 	 earnings against
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+19 	 17 	 NP[nb]/N 	 1 	 quarter the
+19 	 18 	 N/N 	 1 	 quarter fourth
+<\s>
+<s id="wsj_0255.2"> 15
+1 	 0 	 NP[nb]/N 	 1 	 charge The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 charge resulted
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 from resulted
+5 	 3 	 PP/NP 	 1 	 settlement from
+5 	 4 	 NP[nb]/N 	 1 	 settlement a
+5 	 6 	 S[pss]\NP 	 1 	 settlement approved <XB>
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 approved yesterday
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 approved by
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Department by
+11 	 9 	 NP[nb]/N 	 1 	 Department the
+11 	 10 	 N/N 	 1 	 Department Massachusetts
+11 	 12 	 (NP\NP)/NP 	 1 	 Department of
+14 	 12 	 (NP\NP)/NP 	 2 	 Utilities of
+14 	 13 	 N/N 	 1 	 Utilities Public
+<\s>
+<s id="wsj_0255.3"> 31
+1 	 0 	 (S/S)/(S[pss]\NP) 	 2 	 expected As
+4 	 3 	 NP[nb]/N 	 1 	 settlement the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 settlement limits
+4 	 12 	 ((S[dcl]\NP)/PP)/NP 	 1 	 settlement ties <XU>
+5 	 0 	 (S/S)/(S[pss]\NP) 	 1 	 limits As
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 limits for
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 increases limits
+7 	 6 	 N/N 	 1 	 increases rate
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+10 	 9 	 N/N 	 1 	 years three
+12 	 0 	 (S/S)/(S[pss]\NP) 	 1 	 ties As
+14 	 12 	 ((S[dcl]\NP)/PP)/NP 	 3 	 charges ties
+14 	 13 	 N/N 	 1 	 charges future
+14 	 15 	 (NP\NP)/NP 	 1 	 charges to
+14 	 17 	 (NP\NP)/NP 	 1 	 charges for
+16 	 15 	 (NP\NP)/NP 	 2 	 customers to
+18 	 17 	 (NP\NP)/NP 	 2 	 operation for
+18 	 19 	 (NP\NP)/NP 	 1 	 operation of
+25 	 19 	 (NP\NP)/NP 	 2 	 Station of
+25 	 20 	 NP[nb]/N 	 1 	 Station the
+25 	 21 	 N/N 	 1 	 Station troubled
+25 	 22 	 N/N 	 1 	 Station Pilgrim
+25 	 23 	 N/N 	 1 	 Station Nuclear
+25 	 24 	 N/N 	 1 	 Station Power
+26 	 12 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to ties
+28 	 27 	 NP[nb]/N 	 1 	 plant that
+28 	 29 	 (NP[nb]/N)\NP 	 2 	 plant 's
+30 	 26 	 PP/NP 	 1 	 performance to
+30 	 29 	 (NP[nb]/N)\NP 	 1 	 performance 's
+<\s>
+<s id="wsj_0255.4"> 27
+2 	 0 	 (S/S)/NP 	 2 	 order In
+2 	 1 	 NP[nb]/N 	 1 	 order its
+7 	 4 	 NP[nb]/N 	 1 	 agency the
+7 	 5 	 N/N 	 1 	 agency state
+7 	 6 	 N/N 	 1 	 agency regulatory
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 agency said
+8 	 0 	 (S/S)/NP 	 1 	 said In
+10 	 9 	 NP[nb]/N 	 1 	 company the
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 company must
+10 	 13 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 company held <XB>
+10 	 14 	 (S[adj]\NP)/PP 	 1 	 company accountable <XB>
+11 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 must said
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be must
+13 	 12 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 held be
+14 	 13 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 accountable held
+15 	 14 	 (S[adj]\NP)/PP 	 2 	 for accountable
+17 	 15 	 PP/NP 	 1 	 mistakes for
+17 	 16 	 NP[nb]/N 	 1 	 mistakes the
+17 	 18 	 S[pss]\NP 	 1 	 mistakes made <XB>
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 made in
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 management in
+21 	 20 	 NP[nb]/N 	 1 	 management the
+21 	 22 	 (NP\NP)/NP 	 1 	 management of
+24 	 23 	 NP[nb]/N 	 1 	 plant the
+24 	 25 	 (NP[nb]/N)\NP 	 2 	 plant 's
+26 	 22 	 (NP\NP)/NP 	 2 	 operation of
+26 	 25 	 (NP[nb]/N)\NP 	 1 	 operation 's
+<\s>
+<s id="wsj_0255.5"> 7
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Pilgrim had
+0 	 3 	 S[adj]\NP 	 1 	 Pilgrim closed <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 been for
+3 	 2 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 closed been
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 months for
+6 	 5 	 N/N 	 1 	 months 32
+<\s>

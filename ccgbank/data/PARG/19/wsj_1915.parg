@@ -1,0 +1,3059 @@
+<s id="wsj_1915.1"> 29
+3 	 0 	 N/N 	 1 	 reporters Wall
+3 	 1 	 N/N 	 1 	 reporters Street
+3 	 2 	 N/N 	 1 	 reporters Journal
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 reporters called
+4 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 called in
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 companies called
+5 	 6 	 (NP\NP)/NP 	 1 	 companies with
+7 	 6 	 (NP\NP)/NP 	 2 	 headquarters with
+7 	 10 	 (NP\NP)/NP 	 1 	 headquarters in
+9 	 6 	 (NP\NP)/NP 	 2 	 facilities with
+9 	 10 	 (NP\NP)/NP 	 1 	 facilities in
+13 	 10 	 (NP\NP)/NP 	 2 	 area in
+13 	 11 	 NP[nb]/N 	 1 	 area the
+13 	 12 	 N/N 	 1 	 area Bay
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 bid in
+16 	 15 	 NP[nb]/N 	 1 	 bid a
+16 	 18 	 (S[b]\NP)/NP 	 1 	 bid assess <XB>
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 assess to
+20 	 18 	 (S[b]\NP)/NP 	 2 	 damage assess
+20 	 19 	 NP[nb]/N 	 1 	 damage the
+20 	 21 	 (NP\NP)/NP 	 1 	 damage to
+20 	 24 	 S[pss]\NP 	 1 	 damage caused <XB>
+23 	 21 	 (NP\NP)/NP 	 2 	 operations to
+23 	 22 	 NP[nb]/N 	 1 	 operations their
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 caused by
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 Tuesday 's
+28 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 earthquake by
+28 	 27 	 (NP[nb]/N)\NP 	 1 	 earthquake 's
+<\s>
+<s id="wsj_1915.2"> 20
+1 	 0 	 NP[nb]/N 	 1 	 calls The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 calls reached
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 many reached
+3 	 10 	 (NP\NP)/NP 	 1 	 many of
+8 	 2 	 (S[dcl]\NP)/NP 	 2 	 all reached
+8 	 6 	 N/N 	 1 	 all certainly
+8 	 7 	 N/N 	 1 	 all not
+8 	 10 	 (NP\NP)/NP 	 1 	 all of
+13 	 12 	 (N/N)/(N/N) 	 2 	 held publicly
+14 	 10 	 (NP\NP)/NP 	 2 	 companies of
+14 	 11 	 NP[nb]/N 	 1 	 companies the
+14 	 13 	 N/N 	 1 	 companies held
+14 	 15 	 (NP\NP)/NP 	 1 	 companies with
+16 	 15 	 (NP\NP)/NP 	 2 	 operations with
+16 	 17 	 (NP\NP)/NP 	 1 	 operations in
+19 	 17 	 (NP\NP)/NP 	 2 	 area in
+19 	 18 	 NP[nb]/N 	 1 	 area the
+<\s>
+<s id="wsj_1915.3"> 11
+2 	 0 	 (S/S)/NP 	 2 	 cases In
+2 	 1 	 N/N 	 1 	 cases most
+3 	 4 	 (NP\NP)/NP 	 1 	 damage to
+3 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 damage was
+3 	 10 	 S[adj]\NP 	 1 	 damage minimal <XB>
+6 	 4 	 (NP\NP)/NP 	 2 	 facilities to
+6 	 5 	 N/N 	 1 	 facilities company
+8 	 4 	 (NP\NP)/NP 	 2 	 operations to
+8 	 5 	 N/N 	 1 	 operations company
+9 	 0 	 (S/S)/NP 	 1 	 was In
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 minimal was
+<\s>
+<s id="wsj_1915.4"> 36
+2 	 0 	 N/N 	 1 	 INC. ADIA
+2 	 1 	 N/N 	 1 	 INC. SERVICES
+2 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 INC. said
+5 	 4 	 N/N 	 1 	 Park Menlo
+5 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 Park said
+9 	 7 	 N/N 	 1 	 agency temporary
+9 	 8 	 N/N 	 1 	 agency personnel
+9 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 agency said
+12 	 11 	 N/N 	 1 	 sales annual
+12 	 13 	 (NP\NP)/NP 	 1 	 sales of
+12 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 sales said
+14 	 13 	 (NP\NP)/NP 	 2 	 $ of
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 504
+18 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 OTC said
+22 	 21 	 (N/N)/(N/N) 	 2 	 30 all
+23 	 22 	 N/N 	 1 	 offices 30
+23 	 24 	 (NP\NP)/NP 	 1 	 offices in
+23 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 offices were
+23 	 28 	 S[ng]\NP 	 1 	 offices working <XB>
+26 	 24 	 (NP\NP)/NP 	 2 	 area in
+26 	 25 	 N/N 	 1 	 area Bay
+27 	 20 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+28 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 working were
+31 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 in were
+33 	 31 	 PP/NP 	 1 	 states in
+33 	 32 	 N/N 	 1 	 states various
+33 	 34 	 (NP\NP)/NP 	 1 	 states of
+35 	 34 	 (NP\NP)/NP 	 2 	 disarray of
+<\s>
+<s id="wsj_1915.5"> 9
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Business was
+0 	 2 	 S[adj]\NP 	 1 	 Business slow <XB>
+1 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 was because
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 slow was
+5 	 4 	 N/N 	 1 	 companies many
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 companies were
+5 	 7 	 S[adj]\NP 	 1 	 companies closed <XB>
+6 	 3 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 were because
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 were yesterday
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed were
+<\s>
+<s id="wsj_1915.6"> 25
+3 	 0 	 N/N 	 1 	 INC. ADVANCED
+3 	 1 	 N/N 	 1 	 INC. MICRO
+3 	 2 	 N/N 	 1 	 INC. DEVICES
+3 	 20 	 (S[dcl]\NP)/NP 	 1 	 INC. had
+5 	 20 	 (S[dcl]\NP)/NP 	 1 	 Sunnyvale had
+9 	 7 	 N/N 	 1 	 maker integrated
+9 	 8 	 N/N 	 1 	 maker circuit
+9 	 20 	 (S[dcl]\NP)/NP 	 1 	 maker had
+12 	 11 	 N/N 	 1 	 sales annual
+12 	 13 	 (NP\NP)/NP 	 1 	 sales of
+12 	 20 	 (S[dcl]\NP)/NP 	 1 	 sales had
+14 	 13 	 (NP\NP)/NP 	 2 	 $ of
+16 	 14 	 N/N[num] 	 1 	 billion $
+16 	 15 	 N/N 	 1 	 billion 1.12
+18 	 20 	 (S[dcl]\NP)/NP 	 1 	 NYSE had
+22 	 21 	 (N/N)/(N/N) 	 2 	 minor only
+24 	 20 	 (S[dcl]\NP)/NP 	 2 	 damage had
+24 	 22 	 N/N 	 1 	 damage minor
+24 	 23 	 N/N 	 1 	 damage structural
+<\s>
+<s id="wsj_1915.7"> 22
+0 	 1 	 (NP\NP)/NP 	 1 	 Most of
+0 	 5 	 (S[dcl]\NP)/PP 	 1 	 Most were
+4 	 1 	 (NP\NP)/NP 	 2 	 workers of
+4 	 2 	 NP[nb]/N 	 1 	 workers its
+4 	 3 	 N/N 	 1 	 workers 4,500
+5 	 8 	 (S\NP)\(S\NP) 	 2 	 were yesterday
+6 	 5 	 (S[dcl]\NP)/PP 	 2 	 at were
+7 	 6 	 PP/NP 	 1 	 work at
+13 	 11 	 NP[nb]/N 	 1 	 slowdown no
+13 	 12 	 N/N 	 1 	 slowdown production
+13 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 slowdown was
+13 	 15 	 S[pss]\NP 	 1 	 slowdown anticipated <XB>
+15 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 anticipated was
+15 	 17 	 (S\NP)\(S\NP) 	 2 	 anticipated long
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 long as
+17 	 18 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 3 	 long as
+19 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 electricity remains
+19 	 21 	 S[adj]\NP 	 1 	 electricity available <XB>
+20 	 18 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 4 	 remains as
+21 	 20 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 available remains
+<\s>
+<s id="wsj_1915.8"> 26
+1 	 0 	 N/N 	 1 	 CORP. AMDAHL
+1 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 CORP. was
+1 	 18 	 S[adj]\NP 	 1 	 CORP. closed <XB>
+3 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Sunnyvale was
+3 	 18 	 S[adj]\NP 	 1 	 Sunnyvale closed <XB>
+6 	 5 	 N/N 	 1 	 maker computer
+6 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 maker was
+6 	 18 	 S[adj]\NP 	 1 	 maker closed <XB>
+9 	 8 	 N/N 	 1 	 sales annual
+9 	 10 	 (NP\NP)/NP 	 1 	 sales of
+9 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 sales was
+9 	 18 	 S[adj]\NP 	 1 	 sales closed <XB>
+11 	 10 	 (NP\NP)/NP 	 2 	 $ of
+13 	 11 	 N/N[num] 	 1 	 billion $
+13 	 12 	 N/N 	 1 	 billion 1.8
+15 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Amex was
+15 	 18 	 S[adj]\NP 	 1 	 Amex closed <XB>
+17 	 19 	 (S\NP)\(S\NP) 	 2 	 was yesterday
+18 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed was
+23 	 21 	 NP[nb]/N 	 1 	 estimates no
+23 	 22 	 N/N 	 1 	 estimates damage
+23 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 estimates were
+23 	 25 	 S[adj]\NP 	 1 	 estimates available <XB>
+25 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 available were
+<\s>
+<s id="wsj_1915.9"> 58
+4 	 0 	 N/N 	 1 	 Inc. AMERICAN
+4 	 1 	 N/N 	 1 	 Inc. BUILDING
+4 	 2 	 N/N 	 1 	 Inc. MAINTENANCE
+4 	 3 	 N/N 	 1 	 Inc. INDUSTRIES
+4 	 23 	 (S[dcl]\NP)/NP 	 1 	 Inc. had
+4 	 29 	 (S[dcl]\NP)/NP 	 1 	 Inc. lost <XU>
+7 	 6 	 N/N 	 1 	 Francisco San
+7 	 23 	 (S[dcl]\NP)/NP 	 1 	 Francisco had
+7 	 29 	 (S[dcl]\NP)/NP 	 1 	 Francisco lost <XU>
+9 	 10 	 (NP\NP)/NP 	 1 	 provider of
+9 	 23 	 (S[dcl]\NP)/NP 	 1 	 provider had
+9 	 29 	 (S[dcl]\NP)/NP 	 1 	 provider lost <XU>
+12 	 10 	 (NP\NP)/NP 	 2 	 services of
+12 	 11 	 N/N 	 1 	 services maintenance
+15 	 14 	 N/N 	 1 	 revenue annual
+15 	 16 	 (NP\NP)/NP 	 1 	 revenue of
+15 	 23 	 (S[dcl]\NP)/NP 	 1 	 revenue had
+15 	 29 	 (S[dcl]\NP)/NP 	 1 	 revenue lost <XU>
+17 	 16 	 (NP\NP)/NP 	 2 	 $ of
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 582
+21 	 23 	 (S[dcl]\NP)/NP 	 1 	 NYSE had
+21 	 29 	 (S[dcl]\NP)/NP 	 1 	 NYSE lost <XU>
+25 	 23 	 (S[dcl]\NP)/NP 	 2 	 damage had
+25 	 24 	 NP[nb]/N 	 1 	 damage some
+25 	 26 	 (NP\NP)/NP 	 1 	 damage to
+27 	 26 	 (NP\NP)/NP 	 2 	 headquarters to
+31 	 29 	 (S[dcl]\NP)/NP 	 2 	 service lost
+31 	 30 	 N/N 	 1 	 service phone
+34 	 35 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 operations were
+34 	 36 	 S[pss]\NP 	 1 	 operations moved <XB>
+34 	 42 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 operations are <XU>
+34 	 43 	 S[ng]\NP 	 1 	 operations running <XU>
+36 	 35 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 moved were
+36 	 37 	 ((S\NP)\(S\NP))/NP 	 2 	 moved to
+40 	 37 	 ((S\NP)\(S\NP))/NP 	 3 	 office to
+40 	 38 	 NP[nb]/N 	 1 	 office a
+40 	 39 	 N/N 	 1 	 office branch
+43 	 42 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 running are
+43 	 44 	 (S\NP)\(S\NP) 	 2 	 running smoothly
+43 	 45 	 (S\NP)\(S\NP) 	 2 	 running thanks
+45 	 46 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 thanks to
+50 	 46 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 system to
+50 	 47 	 NP[nb]/N 	 1 	 system a
+50 	 48 	 N/N 	 1 	 system decentralized
+50 	 49 	 N/N 	 1 	 system computer
+50 	 54 	 (S[pt]\NP)/NP 	 2 	 system developed <XU>
+52 	 51 	 NP[nb]/N 	 1 	 company the
+52 	 53 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company had
+52 	 54 	 (S[pt]\NP)/NP 	 1 	 company developed <XB>
+54 	 53 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 developed had
+54 	 55 	 ((S\NP)\(S\NP))/NP 	 2 	 developed before
+57 	 55 	 ((S\NP)\(S\NP))/NP 	 3 	 quake before
+57 	 56 	 NP[nb]/N 	 1 	 quake the
+<\s>
+<s id="wsj_1915.10"> 39
+2 	 0 	 N/N 	 1 	 COS. AMERICAN
+2 	 1 	 N/N 	 1 	 COS. PRESIDENT
+2 	 18 	 (S[dcl]\NP)/NP 	 1 	 COS. had
+4 	 18 	 (S[dcl]\NP)/NP 	 1 	 Oakland had
+7 	 6 	 N/N 	 1 	 concern shipping
+7 	 18 	 (S[dcl]\NP)/NP 	 1 	 concern had
+10 	 9 	 N/N 	 1 	 sales annual
+10 	 11 	 (NP\NP)/NP 	 1 	 sales of
+10 	 18 	 (S[dcl]\NP)/NP 	 1 	 sales had
+12 	 11 	 (NP\NP)/NP 	 2 	 $ of
+14 	 12 	 N/N[num] 	 1 	 billion $
+14 	 13 	 N/N 	 1 	 billion 2.2
+16 	 18 	 (S[dcl]\NP)/NP 	 1 	 NYSE had
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 damage had
+20 	 19 	 N/N 	 1 	 damage little
+20 	 21 	 (NP\NP)/NP 	 1 	 damage to
+23 	 21 	 (NP\NP)/NP 	 2 	 cranes to
+23 	 22 	 NP[nb]/N 	 1 	 cranes the
+23 	 29 	 (NP\NP)/NP 	 1 	 cranes at
+25 	 21 	 (NP\NP)/NP 	 2 	 dock to
+25 	 22 	 NP[nb]/N 	 1 	 dock the
+25 	 29 	 (NP\NP)/NP 	 1 	 dock at
+28 	 21 	 (NP\NP)/NP 	 2 	 track to
+28 	 22 	 NP[nb]/N 	 1 	 track the
+28 	 27 	 N/N 	 1 	 track rail
+28 	 29 	 (NP\NP)/NP 	 1 	 track at
+32 	 29 	 (NP\NP)/NP 	 2 	 facility at
+32 	 30 	 NP[nb]/N 	 1 	 facility its
+32 	 31 	 N/N 	 1 	 facility container-ship
+32 	 33 	 (NP\NP)/NP 	 1 	 facility near
+38 	 33 	 (NP\NP)/NP 	 2 	 overpass near
+38 	 34 	 NP[nb]/N 	 1 	 overpass the
+38 	 35 	 N/N 	 1 	 overpass collapsed
+38 	 36 	 N/N 	 1 	 overpass Route
+38 	 37 	 N/N 	 1 	 overpass 880
+<\s>
+<s id="wsj_1915.11"> 17
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 company expects
+1 	 4 	 (S[b]\NP)/NP 	 1 	 company work <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 work to
+4 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 work with
+4 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 work despite
+6 	 4 	 (S[b]\NP)/NP 	 2 	 ship work
+6 	 5 	 NP[nb]/N 	 1 	 ship a
+6 	 7 	 (S[adj]\NP)/NP 	 1 	 ship due <XB>
+7 	 8 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 due in
+9 	 7 	 (S[adj]\NP)/NP 	 2 	 today due
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 delays with
+12 	 11 	 N/N 	 1 	 delays minimal
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 power despite
+16 	 15 	 N/N 	 1 	 power sporadic
+<\s>
+<s id="wsj_1915.12"> 37
+1 	 0 	 N/N 	 1 	 INC. ANACOMP
+1 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 INC. said
+3 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Indianapolis said
+5 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 NYSE said
+11 	 8 	 NP[nb]/N 	 1 	 unit its
+11 	 9 	 N/N 	 1 	 unit Xidex
+11 	 10 	 N/N 	 1 	 unit Corp.
+11 	 29 	 (S[dcl]\NP)/NP 	 1 	 unit had
+11 	 34 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 unit is <XU>
+11 	 36 	 S[adj]\NP 	 1 	 unit operational <XU>
+15 	 13 	 NP[nb]/N 	 1 	 maker a
+15 	 14 	 N/N 	 1 	 maker Sunnyvale
+15 	 16 	 (NP\NP)/NP 	 1 	 maker of
+15 	 21 	 (NP\NP)/NP 	 1 	 maker with
+15 	 29 	 (S[dcl]\NP)/NP 	 1 	 maker had
+15 	 34 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 maker is <XU>
+15 	 36 	 S[adj]\NP 	 1 	 maker operational <XU>
+18 	 16 	 (NP\NP)/NP 	 2 	 disks of
+18 	 17 	 N/N 	 1 	 disks computer
+20 	 16 	 (NP\NP)/NP 	 2 	 microfilm of
+20 	 17 	 N/N 	 1 	 microfilm computer
+23 	 21 	 (NP\NP)/NP 	 2 	 sales with
+23 	 22 	 N/N 	 1 	 sales annual
+23 	 24 	 (NP\NP)/NP 	 1 	 sales of
+25 	 24 	 (NP\NP)/NP 	 2 	 $ of
+27 	 25 	 N/N[num] 	 1 	 million $
+27 	 26 	 N/N 	 1 	 million 637
+29 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+31 	 30 	 (N/N)/(N/N) 	 2 	 minor only
+32 	 29 	 (S[dcl]\NP)/NP 	 2 	 damage had
+32 	 31 	 N/N 	 1 	 damage minor
+34 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+36 	 34 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 operational is
+36 	 35 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operational fully
+<\s>
+<s id="wsj_1915.13"> 36
+2 	 0 	 N/N 	 1 	 INC. ANTHEM
+2 	 1 	 N/N 	 1 	 INC. ELECTRONICS
+2 	 22 	 (S[dcl]\NP)/NP 	 1 	 INC. sustained
+2 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 INC. anticipated <XU>
+2 	 28 	 (S[ng]\NP)/PP 	 1 	 INC. being <XU>
+5 	 4 	 N/N 	 1 	 Jose San
+5 	 22 	 (S[dcl]\NP)/NP 	 1 	 Jose sustained
+5 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Jose anticipated <XU>
+5 	 28 	 (S[ng]\NP)/PP 	 1 	 Jose being <XU>
+7 	 8 	 (NP\NP)/NP 	 1 	 distributor of
+7 	 22 	 (S[dcl]\NP)/NP 	 1 	 distributor sustained
+7 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 distributor anticipated <XU>
+7 	 28 	 (S[ng]\NP)/PP 	 1 	 distributor being <XU>
+10 	 8 	 (NP\NP)/NP 	 2 	 parts of
+10 	 9 	 N/N 	 1 	 parts electronic
+13 	 12 	 N/N 	 1 	 sales annual
+13 	 14 	 (NP\NP)/NP 	 1 	 sales of
+13 	 22 	 (S[dcl]\NP)/NP 	 1 	 sales sustained
+13 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 sales anticipated <XU>
+13 	 28 	 (S[ng]\NP)/PP 	 1 	 sales being <XU>
+16 	 14 	 (NP\NP)/NP 	 2 	 $ of
+16 	 15 	 N/N 	 1 	 $ about
+18 	 16 	 N/N[num] 	 1 	 million $
+18 	 17 	 N/N 	 1 	 million 300
+20 	 22 	 (S[dcl]\NP)/NP 	 1 	 NYSE sustained
+20 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 NYSE anticipated <XU>
+20 	 28 	 (S[ng]\NP)/PP 	 1 	 NYSE being <XU>
+24 	 23 	 (N/N)/(N/N) 	 2 	 little very
+25 	 22 	 (S[dcl]\NP)/NP 	 2 	 damage sustained
+25 	 24 	 N/N 	 1 	 damage little
+28 	 27 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being anticipated
+28 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 being by
+29 	 28 	 (S[ng]\NP)/PP 	 2 	 in being
+31 	 30 	 (N/N)/(N/N) 	 2 	 % 100
+33 	 29 	 PP/NP 	 1 	 condition in
+33 	 31 	 N/N 	 1 	 condition %
+33 	 32 	 N/N 	 1 	 condition operating
+35 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 midday by
+<\s>
+<s id="wsj_1915.14"> 22
+2 	 0 	 N/N 	 1 	 CO. APPLE
+2 	 1 	 N/N 	 1 	 CO. COMPUTER
+2 	 18 	 (S[dcl]\NP)/NP 	 1 	 CO. sustained
+4 	 18 	 (S[dcl]\NP)/NP 	 1 	 Cupertino sustained
+7 	 6 	 N/N 	 1 	 maker computer
+7 	 18 	 (S[dcl]\NP)/NP 	 1 	 maker sustained
+10 	 9 	 N/N 	 1 	 sales annual
+10 	 11 	 (NP\NP)/NP 	 1 	 sales of
+10 	 18 	 (S[dcl]\NP)/NP 	 1 	 sales sustained
+12 	 11 	 (NP\NP)/NP 	 2 	 $ of
+14 	 12 	 N/N[num] 	 1 	 billion $
+14 	 13 	 N/N 	 1 	 billion 4.07
+16 	 18 	 (S[dcl]\NP)/NP 	 1 	 OTC sustained
+21 	 18 	 (S[dcl]\NP)/NP 	 2 	 damage sustained
+21 	 19 	 NP[nb]/N 	 1 	 damage some
+21 	 20 	 N/N 	 1 	 damage structural
+<\s>
+<s id="wsj_1915.15"> 4
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Offices were
+0 	 2 	 S[adj]\NP 	 1 	 Offices closed <XB>
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 were yesterday
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed were
+<\s>
+<s id="wsj_1915.16"> 33
+2 	 0 	 N/N 	 1 	 INC. APPLIED
+2 	 1 	 N/N 	 1 	 INC. MATERIALS
+2 	 22 	 (S[dcl]\NP)/NP 	 1 	 INC. had
+5 	 4 	 N/N 	 1 	 Clara Santa
+5 	 22 	 (S[dcl]\NP)/NP 	 1 	 Clara had
+7 	 8 	 (NP\NP)/NP 	 1 	 maker of
+7 	 22 	 (S[dcl]\NP)/NP 	 1 	 maker had
+11 	 8 	 (NP\NP)/NP 	 2 	 systems of
+11 	 9 	 N/N 	 1 	 systems computer-chip
+11 	 10 	 N/N 	 1 	 systems machine
+14 	 13 	 N/N 	 1 	 sales annual
+14 	 15 	 (NP\NP)/NP 	 1 	 sales of
+14 	 22 	 (S[dcl]\NP)/NP 	 1 	 sales had
+16 	 15 	 (NP\NP)/NP 	 2 	 $ of
+18 	 16 	 N/N[num] 	 1 	 million $
+18 	 17 	 N/N 	 1 	 million 490
+20 	 22 	 (S[dcl]\NP)/NP 	 1 	 OTC had
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 damage had
+24 	 23 	 N/N 	 1 	 damage slight
+24 	 25 	 (NP\NP)/NP 	 1 	 damage to
+26 	 25 	 (NP\NP)/NP 	 2 	 headquarters to
+29 	 22 	 (S[dcl]\NP)/NP 	 2 	 damage had
+29 	 28 	 NP[nb]/N 	 1 	 damage no
+29 	 30 	 (NP\NP)/NP 	 1 	 damage to
+32 	 30 	 (NP\NP)/NP 	 2 	 plants to
+32 	 31 	 N/N 	 1 	 plants manufacturing
+<\s>
+<s id="wsj_1915.17"> 11
+0 	 2 	 (NP\NP)/NP 	 1 	 Company with
+0 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Company is
+0 	 10 	 S[adj]\NP 	 1 	 Company functional <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 workers with
+4 	 3 	 N/N 	 1 	 workers 1,750
+4 	 5 	 (NP\NP)/NP 	 1 	 workers in
+6 	 5 	 (NP\NP)/NP 	 2 	 area in
+10 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 functional is
+10 	 9 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 functional fully
+<\s>
+<s id="wsj_1915.18"> 32
+1 	 0 	 N/N 	 1 	 CORP. ATARI
+1 	 21 	 (S[dcl]\NP)/NP 	 1 	 CORP. had
+1 	 25 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 CORP. expects <XU>
+1 	 29 	 S[adj]\NP 	 1 	 CORP. operational <XU>
+3 	 21 	 (S[dcl]\NP)/NP 	 1 	 Sunnyvale had
+3 	 25 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Sunnyvale expects <XU>
+3 	 29 	 S[adj]\NP 	 1 	 Sunnyvale operational <XU>
+5 	 6 	 (NP\NP)/NP 	 1 	 maker of
+5 	 21 	 (S[dcl]\NP)/NP 	 1 	 maker had
+5 	 25 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 maker expects <XU>
+5 	 29 	 S[adj]\NP 	 1 	 maker operational <XU>
+8 	 6 	 (NP\NP)/NP 	 2 	 computers of
+8 	 7 	 N/N 	 1 	 computers personal
+10 	 6 	 (NP\NP)/NP 	 2 	 software of
+10 	 7 	 N/N 	 1 	 software personal
+13 	 12 	 N/N 	 1 	 sales annual
+13 	 14 	 (NP\NP)/NP 	 1 	 sales of
+13 	 21 	 (S[dcl]\NP)/NP 	 1 	 sales had
+13 	 25 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 sales expects <XU>
+13 	 29 	 S[adj]\NP 	 1 	 sales operational <XU>
+15 	 14 	 (NP\NP)/NP 	 2 	 $ of
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 700
+19 	 21 	 (S[dcl]\NP)/NP 	 1 	 Amex had
+19 	 25 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Amex expects <XU>
+19 	 29 	 S[adj]\NP 	 1 	 Amex operational <XU>
+23 	 21 	 (S[dcl]\NP)/NP 	 2 	 damage had
+23 	 22 	 N/N 	 1 	 damage minor
+26 	 25 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+27 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 be by
+29 	 27 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 operational be
+29 	 28 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operational fully
+31 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 tomorrow by
+<\s>
+<s id="wsj_1915.19"> 48
+1 	 0 	 N/N 	 1 	 Corp. BANKAMERICA
+1 	 20 	 (S[dcl]\NP)/NP 	 1 	 Corp. had
+4 	 3 	 N/N 	 1 	 Francisco San
+4 	 20 	 (S[dcl]\NP)/NP 	 1 	 Francisco had
+8 	 6 	 N/N 	 1 	 company bank
+8 	 7 	 N/N 	 1 	 company holding
+8 	 20 	 (S[dcl]\NP)/NP 	 1 	 company had
+11 	 10 	 N/N 	 1 	 revenue annual
+11 	 12 	 (NP\NP)/NP 	 1 	 revenue of
+11 	 20 	 (S[dcl]\NP)/NP 	 1 	 revenue had
+13 	 12 	 (NP\NP)/NP 	 2 	 $ of
+15 	 13 	 N/N[num] 	 1 	 billion $
+15 	 14 	 N/N 	 1 	 billion 10.2
+17 	 20 	 (S[dcl]\NP)/NP 	 1 	 NYSE had
+20 	 19 	 (S\NP)/(S\NP) 	 2 	 had yesterday
+20 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 had at
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 power had
+22 	 21 	 NP[nb]/N 	 1 	 power no
+25 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 headquarters at
+25 	 24 	 NP[nb]/N 	 1 	 headquarters its
+27 	 28 	 (NP\NP)/NP 	 1 	 80 of
+27 	 34 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 80 were
+27 	 35 	 S[adj]\NP 	 1 	 80 closed <XB>
+33 	 28 	 (NP\NP)/NP 	 2 	 branches of
+33 	 29 	 NP[nb]/N 	 1 	 branches its
+33 	 30 	 N/N 	 1 	 branches 433
+33 	 31 	 N/N 	 1 	 branches Northern
+33 	 32 	 N/N 	 1 	 branches California
+35 	 34 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed were
+37 	 38 	 ((N/N)\(N/N))/NP 	 2 	 250 of
+39 	 38 	 ((N/N)\(N/N))/NP 	 3 	 750 of
+42 	 37 	 N/N 	 1 	 machines 250
+42 	 40 	 N/N 	 1 	 machines automatic
+42 	 41 	 N/N 	 1 	 machines teller
+42 	 43 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 machines were
+42 	 44 	 S[adj]\NP 	 1 	 machines closed <XB>
+43 	 45 	 ((S\NP)\(S\NP))/NP 	 2 	 were in
+44 	 43 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed were
+47 	 45 	 ((S\NP)\(S\NP))/NP 	 3 	 area in
+47 	 46 	 NP[nb]/N 	 1 	 area the
+<\s>
+<s id="wsj_1915.20"> 10
+1 	 0 	 N/N 	 1 	 trading Securities
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 trading was
+1 	 3 	 S[pss]\NP 	 1 	 trading conducted <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 conducted was
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 conducted in
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 facility in
+7 	 5 	 NP[nb]/N 	 1 	 facility a
+7 	 6 	 N/N 	 1 	 facility backup
+7 	 8 	 (NP\NP)/NP 	 1 	 facility in
+9 	 8 	 (NP\NP)/NP 	 2 	 Concord in
+<\s>
+<s id="wsj_1915.21"> 37
+1 	 0 	 N/N 	 1 	 CORP. BECHTEL
+1 	 18 	 (S[dcl]\NP)/NP 	 1 	 CORP. had
+4 	 3 	 N/N 	 1 	 Francisco San
+4 	 18 	 (S[dcl]\NP)/NP 	 1 	 Francisco had
+6 	 18 	 (S[dcl]\NP)/NP 	 1 	 engineering had
+9 	 8 	 N/N 	 1 	 concern construction
+9 	 18 	 (S[dcl]\NP)/NP 	 1 	 concern had
+12 	 11 	 N/N 	 1 	 sales annual
+12 	 13 	 (NP\NP)/NP 	 1 	 sales of
+12 	 18 	 (S[dcl]\NP)/NP 	 1 	 sales had
+14 	 13 	 (NP\NP)/NP 	 2 	 $ of
+16 	 14 	 N/N[num] 	 1 	 billion $
+16 	 15 	 N/N 	 1 	 billion 4
+18 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 had at
+20 	 19 	 (N/N)/(N/N) 	 2 	 minor only
+22 	 18 	 (S[dcl]\NP)/NP 	 2 	 damage had
+22 	 20 	 N/N 	 1 	 damage minor
+22 	 21 	 N/N 	 1 	 damage structural
+26 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 buildings at
+26 	 24 	 NP[nb]/N 	 1 	 buildings its
+26 	 25 	 N/N 	 1 	 buildings three
+26 	 27 	 (NP\NP)/NP 	 1 	 buildings in
+29 	 27 	 (NP\NP)/NP 	 2 	 city in
+29 	 28 	 NP[nb]/N 	 1 	 city the
+33 	 32 	 NP[nb]/N 	 1 	 computers its
+33 	 34 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 computers were
+33 	 35 	 S[pss]\NP 	 1 	 computers knocked <XB>
+35 	 34 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 knocked were
+35 	 36 	 (S\NP)\(S\NP) 	 2 	 knocked out
+<\s>
+<s id="wsj_1915.22"> 25
+2 	 0 	 N/N 	 1 	 tapes Backup
+2 	 1 	 N/N 	 1 	 tapes computer
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 tapes were
+2 	 4 	 S[pss]\NP 	 1 	 tapes hand-carried <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 hand-carried were
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 hand-carried to
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 office to
+8 	 6 	 NP[nb]/N 	 1 	 office an
+8 	 7 	 N/N 	 1 	 office IBM
+8 	 9 	 (NP\NP)/NP 	 1 	 office in
+10 	 9 	 (NP\NP)/NP 	 2 	 Philadelphia in
+14 	 13 	 NP[nb]/N 	 1 	 company the
+14 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 company expects
+17 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 mainframe expects
+17 	 16 	 NP[nb]/N 	 1 	 mainframe its
+17 	 20 	 S[adj]\NP 	 1 	 mainframe up <XB>
+18 	 15 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+19 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 be in
+20 	 19 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 up be
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 days in
+24 	 22 	 NP/NP 	 1 	 days a
+24 	 23 	 NP[nb]/N 	 1 	 days few
+<\s>
+<s id="wsj_1915.23"> 15
+0 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Workers were
+0 	 8 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Workers asked <XB>
+0 	 11 	 (S[b]\NP)/PP 	 1 	 Workers report <XB>
+3 	 2 	 ((S\NP)/(S\NP))/PP 	 3 	 for except
+5 	 3 	 PP/NP 	 1 	 management for
+5 	 4 	 N/N 	 1 	 management senior
+7 	 2 	 ((S\NP)/(S\NP))/PP 	 2 	 were except
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 asked were
+10 	 8 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to asked
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 to not
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+11 	 14 	 (S\NP)\(S\NP) 	 2 	 report yesterday
+12 	 11 	 (S[b]\NP)/PP 	 2 	 for report
+13 	 12 	 PP/NP 	 1 	 work for
+<\s>
+<s id="wsj_1915.24"> 37
+2 	 0 	 N/N 	 1 	 INC. BIO-RAD
+2 	 1 	 N/N 	 1 	 INC. LABORATORIES
+2 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 INC. said
+4 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 Hercules said
+10 	 6 	 N/N 	 1 	 leader biological
+10 	 7 	 N/N 	 1 	 leader research
+10 	 9 	 N/N 	 1 	 leader clinical-products
+10 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 leader said
+12 	 15 	 (NP\NP)/NP 	 1 	 $ in
+12 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 $ said
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 200
+17 	 15 	 (NP\NP)/NP 	 2 	 sales in
+17 	 16 	 N/N 	 1 	 sales annual
+19 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 Amex said
+24 	 22 	 NP[nb]/N 	 1 	 warehouse its
+24 	 23 	 N/N 	 1 	 warehouse Richmond
+24 	 25 	 (NP\NP)/PP 	 1 	 warehouse north
+24 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 warehouse was
+24 	 30 	 S[adj]\NP 	 1 	 warehouse closed <XB>
+26 	 25 	 (NP\NP)/PP 	 2 	 of north
+28 	 26 	 PP/NP 	 1 	 Francisco of
+28 	 27 	 N/N 	 1 	 Francisco San
+29 	 21 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+29 	 31 	 ((S\NP)\(S\NP))/PP 	 2 	 was because
+30 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed was
+32 	 31 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+33 	 32 	 PP/NP 	 1 	 debris of
+36 	 32 	 PP/NP 	 1 	 shelves of
+36 	 35 	 N/N 	 1 	 shelves fallen
+<\s>
+<s id="wsj_1915.25"> 9
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 It expects
+0 	 5 	 S[adj]\NP 	 1 	 It operational <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 be by
+5 	 3 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 operational be
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operational fully
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 week by
+8 	 7 	 N/N 	 1 	 week next
+<\s>
+<s id="wsj_1915.26"> 33
+1 	 0 	 N/N 	 1 	 INTERNATIONAL BORLAND
+1 	 19 	 (S[dcl]\NP)/NP 	 1 	 INTERNATIONAL had
+1 	 26 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 INTERNATIONAL was <XU>
+1 	 27 	 (S[ng]\NP)/NP 	 1 	 INTERNATIONAL conducting <XU>
+4 	 3 	 N/N 	 1 	 Valley Scotts
+4 	 19 	 (S[dcl]\NP)/NP 	 1 	 Valley had
+4 	 26 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Valley was <XU>
+4 	 27 	 (S[ng]\NP)/NP 	 1 	 Valley conducting <XU>
+7 	 6 	 N/N 	 1 	 computer personal
+7 	 19 	 (S[dcl]\NP)/NP 	 1 	 computer had
+7 	 26 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 computer was <XU>
+7 	 27 	 (S[ng]\NP)/NP 	 1 	 computer conducting <XU>
+10 	 6 	 N/N 	 1 	 designer personal
+10 	 9 	 N/N 	 1 	 designer software
+10 	 19 	 (S[dcl]\NP)/NP 	 1 	 designer had
+10 	 26 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 designer was <XU>
+10 	 27 	 (S[ng]\NP)/NP 	 1 	 designer conducting <XU>
+13 	 12 	 N/N 	 1 	 sales annual
+13 	 14 	 (NP\NP)/NP 	 1 	 sales of
+13 	 19 	 (S[dcl]\NP)/NP 	 1 	 sales had
+13 	 26 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 sales was <XU>
+13 	 27 	 (S[ng]\NP)/NP 	 1 	 sales conducting <XU>
+15 	 14 	 (NP\NP)/NP 	 2 	 $ of
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 72
+21 	 19 	 (S[dcl]\NP)/NP 	 2 	 damage had
+21 	 20 	 N/N 	 1 	 damage heavy
+21 	 22 	 (NP\NP)/NP 	 1 	 damage to
+24 	 22 	 (NP\NP)/NP 	 2 	 headquarters to
+24 	 23 	 NP[nb]/N 	 1 	 headquarters its
+27 	 26 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 conducting was
+27 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 conducting from
+28 	 27 	 (S[ng]\NP)/NP 	 2 	 business conducting
+32 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 lot from
+32 	 30 	 NP[nb]/N 	 1 	 lot its
+32 	 31 	 N/N 	 1 	 lot parking
+<\s>
+<s id="wsj_1915.27"> 8
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 company does
+1 	 4 	 (S[b]\NP)/NP 	 1 	 company expect <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 does n't
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 expect does
+7 	 4 	 (S[b]\NP)/NP 	 2 	 delays expect
+7 	 5 	 NP[nb]/N 	 1 	 delays any
+7 	 6 	 N/N 	 1 	 delays shipping
+<\s>
+<s id="wsj_1915.28"> 44
+1 	 0 	 N/N 	 1 	 INC. BUSINESSLAND
+1 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 INC. said
+4 	 3 	 N/N 	 1 	 Jose San
+4 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 Jose said
+8 	 6 	 N/N 	 1 	 company computer
+8 	 7 	 N/N 	 1 	 company retail
+8 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+11 	 10 	 N/N 	 1 	 sales annual
+11 	 12 	 (NP\NP)/NP 	 1 	 sales of
+11 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 sales said
+13 	 12 	 (NP\NP)/NP 	 2 	 $ of
+15 	 13 	 N/N[num] 	 1 	 billion $
+15 	 14 	 N/N 	 1 	 billion 1.1
+17 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 NYSE said
+23 	 20 	 NP[nb]/N 	 1 	 office all
+23 	 21 	 N/N 	 1 	 office 16
+23 	 22 	 N/N 	 1 	 office corporate
+23 	 26 	 (NP\NP)/NP 	 1 	 office in
+23 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 office were
+23 	 30 	 S[adj]\NP 	 1 	 office open <XB>
+25 	 20 	 NP[nb]/N 	 1 	 stores all
+25 	 21 	 N/N 	 1 	 stores 16
+25 	 22 	 N/N 	 1 	 stores corporate
+25 	 26 	 (NP\NP)/NP 	 1 	 stores in
+25 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 stores were
+25 	 30 	 S[adj]\NP 	 1 	 stores open <XB>
+28 	 26 	 (NP\NP)/NP 	 2 	 area in
+28 	 27 	 NP[nb]/N 	 1 	 area the
+29 	 19 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+29 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 were with
+30 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 open were
+33 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 exception with
+33 	 32 	 NP[nb]/N 	 1 	 exception the
+33 	 34 	 (NP\NP)/NP 	 1 	 exception of
+37 	 34 	 (NP\NP)/NP 	 2 	 center of
+37 	 35 	 NP[nb]/N 	 1 	 center a
+37 	 36 	 N/N 	 1 	 center retail
+37 	 38 	 (NP\NP)/NP 	 1 	 center in
+40 	 39 	 N/N 	 1 	 Francisco San
+40 	 41 	 (NP[nb]/N)\NP 	 2 	 Francisco 's
+43 	 38 	 (NP\NP)/NP 	 2 	 district in
+43 	 41 	 (NP[nb]/N)\NP 	 1 	 district 's
+43 	 42 	 N/N 	 1 	 district business
+<\s>
+<s id="wsj_1915.29"> 5
+1 	 0 	 NP[nb]/N 	 1 	 facility That
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 facility should
+1 	 3 	 S[b]\NP 	 1 	 facility reopen <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reopen should
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 reopen today
+<\s>
+<s id="wsj_1915.30"> 42
+4 	 0 	 N/N 	 1 	 Inc. CARTER
+4 	 1 	 N/N 	 1 	 Inc. HAWLEY
+4 	 2 	 N/N 	 1 	 Inc. HALE
+4 	 3 	 N/N 	 1 	 Inc. STORES
+4 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+7 	 6 	 N/N 	 1 	 Angeles Los
+7 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 Angeles said
+9 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 retailer said
+12 	 11 	 N/N 	 1 	 sales annual
+12 	 13 	 (NP\NP)/NP 	 1 	 sales of
+12 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 sales said
+14 	 13 	 (NP\NP)/NP 	 2 	 $ of
+16 	 14 	 N/N[num] 	 1 	 billion $
+16 	 15 	 N/N 	 1 	 billion 2.79
+18 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 NYSE said
+21 	 22 	 (NP\NP)/NP 	 1 	 nine of
+21 	 30 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 nine were
+21 	 31 	 S[adj]\NP 	 1 	 nine closed <XB>
+26 	 22 	 (NP\NP)/NP 	 2 	 stores of
+26 	 23 	 NP[nb]/N 	 1 	 stores its
+26 	 24 	 N/N 	 1 	 stores 22
+26 	 25 	 N/N 	 1 	 stores Emporium
+26 	 27 	 (NP\NP)/NP 	 1 	 stores in
+29 	 27 	 (NP\NP)/NP 	 2 	 area in
+29 	 28 	 NP[nb]/N 	 1 	 area the
+30 	 20 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+30 	 32 	 ((S\NP)\(S\NP))/PP 	 2 	 were because
+31 	 30 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed were
+33 	 32 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+35 	 33 	 PP/NP 	 1 	 damage of
+35 	 34 	 N/N 	 1 	 damage water
+38 	 33 	 PP/NP 	 1 	 windows of
+38 	 37 	 N/N 	 1 	 windows broken
+41 	 33 	 PP/NP 	 1 	 displays of
+41 	 40 	 N/N 	 1 	 displays fallen
+<\s>
+<s id="wsj_1915.31"> 17
+1 	 0 	 NP[nb]/N 	 1 	 spokesman A
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 sales are
+3 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 sales expected <XB>
+3 	 8 	 S[pss]\NP 	 1 	 sales hurt <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+6 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 hurt be
+12 	 11 	 NP[nb]/N 	 1 	 losses the
+12 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 losses are
+12 	 14 	 S[pss]\NP 	 1 	 losses covered <XB>
+13 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 covered are
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 covered by
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 insurance by
+<\s>
+<s id="wsj_1915.32"> 39
+1 	 0 	 N/N 	 1 	 CORP. CHEVRON
+1 	 18 	 (S[dcl]\NP)/NP 	 1 	 CORP. had
+4 	 3 	 N/N 	 1 	 Francisco San
+4 	 18 	 (S[dcl]\NP)/NP 	 1 	 Francisco had
+7 	 6 	 N/N 	 1 	 company oil
+7 	 18 	 (S[dcl]\NP)/NP 	 1 	 company had
+10 	 9 	 N/N 	 1 	 sales annual
+10 	 11 	 (NP\NP)/NP 	 1 	 sales of
+10 	 18 	 (S[dcl]\NP)/NP 	 1 	 sales had
+12 	 11 	 (NP\NP)/NP 	 2 	 $ of
+14 	 12 	 N/N[num] 	 1 	 billion $
+14 	 13 	 N/N 	 1 	 billion 25.2
+16 	 18 	 (S[dcl]\NP)/NP 	 1 	 NYSE had
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 damage had
+20 	 19 	 N/N 	 1 	 damage minor
+20 	 21 	 (NP\NP)/NP 	 1 	 damage to
+23 	 21 	 (NP\NP)/NP 	 2 	 headquarters to
+23 	 22 	 N/N 	 1 	 headquarters downtown
+27 	 26 	 N/N 	 1 	 damage structural
+27 	 28 	 (S[dcl]\NP)/NP 	 1 	 damage closed
+29 	 28 	 (S[dcl]\NP)/NP 	 2 	 two closed
+29 	 30 	 (NP\NP)/NP 	 1 	 two of
+33 	 30 	 (NP\NP)/NP 	 2 	 buildings of
+33 	 31 	 NP[nb]/N 	 1 	 buildings its
+33 	 32 	 N/N 	 1 	 buildings seven
+33 	 34 	 (NP\NP)/NP 	 1 	 buildings in
+38 	 34 	 (NP\NP)/NP 	 2 	 park in
+38 	 35 	 N/N 	 1 	 park San
+38 	 36 	 N/N 	 1 	 park Ramone
+38 	 37 	 N/N 	 1 	 park industrial
+<\s>
+<s id="wsj_1915.33"> 9
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Company expects
+0 	 5 	 S[adj]\NP 	 1 	 Company operational <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 be by
+5 	 3 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 operational be
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operational fully
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 week by
+8 	 7 	 N/N 	 1 	 week next
+<\s>
+<s id="wsj_1915.34"> 27
+1 	 0 	 N/N 	 1 	 Co. CLOROX
+1 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Co. was
+1 	 18 	 S[adj]\NP 	 1 	 Co. closed <XB>
+1 	 21 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Co. plans <XU>
+1 	 23 	 S[b]\NP 	 1 	 Co. reopen <XU>
+3 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Oakland was
+3 	 18 	 S[adj]\NP 	 1 	 Oakland closed <XB>
+3 	 21 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Oakland plans <XU>
+3 	 23 	 S[b]\NP 	 1 	 Oakland reopen <XU>
+6 	 5 	 N/N 	 1 	 products consumer
+6 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 products was
+6 	 18 	 S[adj]\NP 	 1 	 products closed <XB>
+6 	 21 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 products plans <XU>
+6 	 23 	 S[b]\NP 	 1 	 products reopen <XU>
+9 	 8 	 N/N 	 1 	 sales annual
+9 	 10 	 (NP\NP)/NP 	 1 	 sales of
+9 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 sales was
+9 	 18 	 S[adj]\NP 	 1 	 sales closed <XB>
+9 	 21 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 sales plans <XU>
+9 	 23 	 S[b]\NP 	 1 	 sales reopen <XU>
+11 	 10 	 (NP\NP)/NP 	 2 	 $ of
+13 	 11 	 N/N[num] 	 1 	 billion $
+13 	 12 	 N/N 	 1 	 billion 1.36
+15 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 NYSE was
+15 	 18 	 S[adj]\NP 	 1 	 NYSE closed <XB>
+15 	 21 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 NYSE plans <XU>
+15 	 23 	 S[b]\NP 	 1 	 NYSE reopen <XU>
+17 	 19 	 (S\NP)\(S\NP) 	 2 	 was yesterday
+18 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed was
+22 	 21 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reopen to
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 reopen today
+23 	 26 	 (S\NP)\(S\NP) 	 2 	 reopen tomorrow <XU>
+<\s>
+<s id="wsj_1915.35"> 24
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 orders are
+2 	 4 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 orders being <XB>
+2 	 5 	 S[pss]\NP 	 1 	 orders routed <XB>
+3 	 0 	 S/S 	 1 	 are Meanwhile
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being are
+5 	 4 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 routed being
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 routed through
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 unit through
+9 	 7 	 N/N 	 1 	 unit Kingsford
+9 	 8 	 N/N 	 1 	 unit Products
+9 	 10 	 (NP\NP)/NP 	 1 	 unit in
+11 	 10 	 (NP\NP)/NP 	 2 	 Louisville in
+13 	 10 	 (NP\NP)/NP 	 2 	 Ky. in
+17 	 16 	 N/N 	 1 	 problems computer
+17 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 problems mean
+18 	 0 	 S/S 	 1 	 mean Meanwhile
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they must
+19 	 22 	 S[pss]\NP 	 1 	 they processed <XB>
+20 	 18 	 (S[dcl]\NP)/S[dcl] 	 2 	 must mean
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be must
+22 	 21 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 processed be
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 processed manually
+<\s>
+<s id="wsj_1915.36"> 8
+1 	 0 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to Expects
+2 	 1 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+2 	 7 	 (S\NP)\(S\NP) 	 2 	 be week
+4 	 2 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 operational be
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operational fully
+7 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week early
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week next
+<\s>
+<s id="wsj_1915.37"> 24
+1 	 0 	 N/N 	 1 	 INC. COHERENT
+1 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 INC. was
+1 	 17 	 S[adj]\NP 	 1 	 INC. closed <XB>
+1 	 20 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 INC. expects <XU>
+1 	 22 	 S[b]\NP 	 1 	 INC. reopen <XU>
+4 	 3 	 N/N 	 1 	 Alto Palo
+4 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Alto was
+4 	 17 	 S[adj]\NP 	 1 	 Alto closed <XB>
+4 	 20 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Alto expects <XU>
+4 	 22 	 S[b]\NP 	 1 	 Alto reopen <XU>
+7 	 6 	 N/N 	 1 	 maker laser
+7 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 maker was
+7 	 17 	 S[adj]\NP 	 1 	 maker closed <XB>
+7 	 20 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 maker expects <XU>
+7 	 22 	 S[b]\NP 	 1 	 maker reopen <XU>
+10 	 9 	 N/N 	 1 	 sales annual
+10 	 11 	 (NP\NP)/NP 	 1 	 sales of
+10 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 sales was
+10 	 17 	 S[adj]\NP 	 1 	 sales closed <XB>
+10 	 20 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 sales expects <XU>
+10 	 22 	 S[b]\NP 	 1 	 sales reopen <XU>
+12 	 11 	 (NP\NP)/NP 	 2 	 $ of
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 159
+16 	 18 	 (S\NP)\(S\NP) 	 2 	 was yesterday
+17 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed was
+21 	 20 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reopen to
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 reopen today
+<\s>
+<s id="wsj_1915.38"> 38
+2 	 0 	 N/N 	 1 	 INC. CONSOLIDATED
+2 	 1 	 N/N 	 1 	 INC. FREIGHTWAYS
+2 	 19 	 (S[dcl]\NP)/NP 	 1 	 INC. had
+5 	 4 	 N/N 	 1 	 Park Menlo
+5 	 19 	 (S[dcl]\NP)/NP 	 1 	 Park had
+8 	 7 	 N/N 	 1 	 company trucking
+8 	 19 	 (S[dcl]\NP)/NP 	 1 	 company had
+10 	 13 	 (NP\NP)/NP 	 1 	 $ in
+10 	 19 	 (S[dcl]\NP)/NP 	 1 	 $ had
+12 	 10 	 N/N[num] 	 1 	 billion $
+12 	 11 	 N/N 	 1 	 billion 2.69
+15 	 13 	 (NP\NP)/NP 	 2 	 sales in
+15 	 14 	 N/N 	 1 	 sales annual
+17 	 19 	 (S[dcl]\NP)/NP 	 1 	 NYSE had
+21 	 19 	 (S[dcl]\NP)/NP 	 2 	 damage had
+21 	 20 	 N/N 	 1 	 damage structural
+21 	 22 	 (NP\NP)/NP 	 1 	 damage to
+26 	 23 	 N/N 	 1 	 subsidiary CF
+26 	 24 	 N/N 	 1 	 subsidiary Motor
+26 	 25 	 N/N 	 1 	 subsidiary Freight
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 subsidiary 's
+28 	 22 	 (NP\NP)/NP 	 2 	 office to
+28 	 27 	 (NP[nb]/N)\NP 	 1 	 office 's
+28 	 29 	 (NP\NP)/NP 	 1 	 office in
+31 	 29 	 (NP\NP)/NP 	 2 	 Alto in
+31 	 30 	 N/N 	 1 	 Alto Palo
+34 	 19 	 (S[dcl]\NP)/NP 	 2 	 damage had
+34 	 33 	 NP[nb]/N 	 1 	 damage no
+34 	 35 	 (NP\NP)/NP 	 1 	 damage in
+37 	 35 	 (NP\NP)/NP 	 2 	 Park in
+37 	 36 	 N/N 	 1 	 Park Menlo
+<\s>
+<s id="wsj_1915.39"> 29
+2 	 0 	 N/N 	 1 	 INC. COOPER
+2 	 1 	 N/N 	 1 	 INC. COMPANIES
+2 	 20 	 (S[dcl]\NP)/NP 	 1 	 INC. had
+2 	 24 	 (S[dcl]\NP)/PP 	 1 	 INC. was <XU>
+5 	 4 	 N/N 	 1 	 Alto Palo
+5 	 20 	 (S[dcl]\NP)/NP 	 1 	 Alto had
+5 	 24 	 (S[dcl]\NP)/PP 	 1 	 Alto was <XU>
+9 	 7 	 N/N 	 1 	 maker medical
+9 	 8 	 N/N 	 1 	 maker products
+9 	 20 	 (S[dcl]\NP)/NP 	 1 	 maker had
+9 	 24 	 (S[dcl]\NP)/PP 	 1 	 maker was <XU>
+12 	 11 	 N/N 	 1 	 sales annual
+12 	 13 	 (NP\NP)/NP 	 1 	 sales of
+12 	 20 	 (S[dcl]\NP)/NP 	 1 	 sales had
+12 	 24 	 (S[dcl]\NP)/PP 	 1 	 sales was <XU>
+14 	 13 	 (NP\NP)/NP 	 2 	 $ of
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 628
+18 	 20 	 (S[dcl]\NP)/NP 	 1 	 NYSE had
+18 	 24 	 (S[dcl]\NP)/PP 	 1 	 NYSE was <XU>
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 damage had
+22 	 21 	 N/N 	 1 	 damage little
+24 	 28 	 (S\NP)\(S\NP) 	 2 	 was yesterday
+25 	 24 	 (S[dcl]\NP)/PP 	 2 	 in was
+27 	 25 	 PP/NP 	 1 	 operation in
+27 	 26 	 N/N 	 1 	 operation full
+<\s>
+<s id="wsj_1915.40"> 56
+2 	 0 	 N/N 	 1 	 CORP. DAYTON
+2 	 1 	 N/N 	 1 	 CORP. HUDSON
+2 	 17 	 (S[dcl]\NP)/NP 	 1 	 CORP. closed
+4 	 17 	 (S[dcl]\NP)/NP 	 1 	 Minneapolis closed
+6 	 17 	 (S[dcl]\NP)/NP 	 1 	 retailer closed
+9 	 8 	 N/N 	 1 	 sales annual
+9 	 10 	 (NP\NP)/NP 	 1 	 sales of
+9 	 17 	 (S[dcl]\NP)/NP 	 1 	 sales closed
+11 	 10 	 (NP\NP)/NP 	 2 	 $ of
+13 	 11 	 N/N[num] 	 1 	 billion $
+13 	 12 	 N/N 	 1 	 billion 12.2
+15 	 17 	 (S[dcl]\NP)/NP 	 1 	 NYSE closed
+17 	 35 	 ((S\NP)\(S\NP))/PP 	 2 	 closed because
+18 	 17 	 (S[dcl]\NP)/NP 	 2 	 seven closed
+18 	 19 	 (NP\NP)/NP 	 1 	 seven of
+25 	 19 	 (NP\NP)/NP 	 2 	 stores of
+25 	 20 	 NP[nb]/N 	 1 	 stores its
+25 	 21 	 N/N 	 1 	 stores 13
+25 	 22 	 N/N 	 1 	 stores Bay-area
+25 	 23 	 N/N 	 1 	 stores Target
+25 	 24 	 N/N 	 1 	 stores discount
+27 	 17 	 (S[dcl]\NP)/NP 	 2 	 nine closed
+27 	 28 	 (NP\NP)/NP 	 1 	 nine of
+32 	 31 	 (N/N)/(N/N) 	 2 	 's Mervyn
+34 	 28 	 (NP\NP)/NP 	 2 	 stores of
+34 	 29 	 NP[nb]/N 	 1 	 stores its
+34 	 30 	 N/N 	 1 	 stores 20
+34 	 32 	 N/N 	 1 	 stores 's
+34 	 33 	 N/N 	 1 	 stores department
+36 	 35 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+38 	 36 	 PP/NP 	 1 	 reviews of
+38 	 37 	 N/N 	 1 	 reviews pending
+38 	 39 	 (NP\NP)/NP 	 1 	 reviews by
+41 	 39 	 (NP\NP)/NP 	 2 	 engineers by
+41 	 40 	 N/N 	 1 	 engineers structural
+43 	 36 	 PP/NP 	 1 	 requests of
+43 	 44 	 (NP\NP)/NP 	 1 	 requests from
+45 	 44 	 (NP\NP)/NP 	 2 	 authorities from
+45 	 47 	 (NP\NP)/(S[dcl]\NP) 	 1 	 authorities who
+45 	 48 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 authorities were <XB>
+45 	 49 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 authorities trying <XB>
+45 	 51 	 ((S[b]\NP)/PP)/NP 	 1 	 authorities keep <XB>
+48 	 47 	 (NP\NP)/(S[dcl]\NP) 	 2 	 were who
+49 	 48 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trying were
+50 	 49 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+51 	 50 	 (S[to]\NP)/(S[b]\NP) 	 2 	 keep to
+52 	 51 	 ((S[b]\NP)/PP)/NP 	 3 	 shoppers keep
+53 	 51 	 ((S[b]\NP)/PP)/NP 	 2 	 off keep
+55 	 53 	 PP/NP 	 1 	 freeways off
+55 	 54 	 NP[nb]/N 	 1 	 freeways the
+<\s>
+<s id="wsj_1915.41"> 17
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 company expects
+1 	 4 	 (S[b]\NP)/NP 	 1 	 company reopen <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reopen to
+4 	 14 	 (S\NP)\(S\NP) 	 2 	 reopen today
+4 	 16 	 (S\NP)\(S\NP) 	 2 	 reopen tomorrow <XU>
+7 	 4 	 (S[b]\NP)/NP 	 2 	 stores reopen
+7 	 5 	 N/N 	 1 	 stores three
+7 	 6 	 N/N 	 1 	 stores Target
+11 	 9 	 (N/N)/(N/N) 	 2 	 two all
+11 	 10 	 (N/N)/(N/N) 	 2 	 two but
+13 	 4 	 (S[b]\NP)/NP 	 2 	 's reopen
+13 	 11 	 N/N 	 1 	 's two
+13 	 12 	 N/N 	 1 	 's Mervyn
+<\s>
+<s id="wsj_1915.42"> 31
+1 	 0 	 N/N 	 1 	 INC. DIASONICS
+1 	 23 	 (S[dcl]\NP)/NP 	 1 	 INC. had
+5 	 3 	 N/N 	 1 	 Francisco South
+5 	 4 	 N/N 	 1 	 Francisco San
+5 	 23 	 (S[dcl]\NP)/NP 	 1 	 Francisco had
+7 	 8 	 (NP\NP)/NP 	 1 	 maker of
+7 	 23 	 (S[dcl]\NP)/NP 	 1 	 maker had
+12 	 8 	 (NP\NP)/NP 	 2 	 equipment of
+12 	 9 	 N/N 	 1 	 equipment magnetic
+12 	 10 	 N/N 	 1 	 equipment resonance
+12 	 11 	 N/N 	 1 	 equipment imaging
+15 	 14 	 N/N 	 1 	 sales annual
+15 	 16 	 (NP\NP)/NP 	 1 	 sales of
+15 	 23 	 (S[dcl]\NP)/NP 	 1 	 sales had
+17 	 16 	 (NP\NP)/NP 	 2 	 $ of
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 281
+21 	 23 	 (S[dcl]\NP)/NP 	 1 	 Amex had
+23 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 had in
+25 	 23 	 (S[dcl]\NP)/NP 	 2 	 damage had
+25 	 24 	 N/N 	 1 	 damage minor
+28 	 27 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 in mostly
+30 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 stockroom in
+30 	 29 	 NP[nb]/N 	 1 	 stockroom a
+<\s>
+<s id="wsj_1915.43"> 8
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 company plans
+1 	 6 	 S[adj]\NP 	 1 	 company operational <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+4 	 7 	 (S\NP)\(S\NP) 	 2 	 be today
+6 	 4 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 operational be
+6 	 5 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operational fully
+<\s>
+<s id="wsj_1915.44"> 42
+2 	 0 	 N/N 	 1 	 CORP. DIGITAL
+2 	 1 	 N/N 	 1 	 CORP. EQUIPMENT
+2 	 20 	 (S[dcl]\NP)/NP 	 1 	 CORP. had
+4 	 20 	 (S[dcl]\NP)/NP 	 1 	 Maynard had
+6 	 20 	 (S[dcl]\NP)/NP 	 1 	 Mass. had
+9 	 8 	 N/N 	 1 	 maker computer
+9 	 20 	 (S[dcl]\NP)/NP 	 1 	 maker had
+12 	 11 	 N/N 	 1 	 sales annual
+12 	 13 	 (NP\NP)/NP 	 1 	 sales of
+12 	 20 	 (S[dcl]\NP)/NP 	 1 	 sales had
+14 	 13 	 (NP\NP)/NP 	 2 	 $ of
+16 	 14 	 N/N[num] 	 1 	 billion $
+16 	 15 	 N/N 	 1 	 billion 12.7
+18 	 20 	 (S[dcl]\NP)/NP 	 1 	 NYSE had
+22 	 20 	 (S[dcl]\NP)/NP 	 2 	 damage had
+22 	 21 	 N/N 	 1 	 damage structural
+22 	 23 	 (NP\NP)/NP 	 1 	 damage at
+28 	 23 	 (NP\NP)/NP 	 2 	 office at
+28 	 24 	 NP[nb]/N 	 1 	 office its
+28 	 25 	 N/N 	 1 	 office San
+28 	 26 	 N/N 	 1 	 office Francisco
+28 	 27 	 N/N 	 1 	 office sales
+32 	 20 	 (S[dcl]\NP)/NP 	 2 	 damage had
+32 	 30 	 NP[nb]/N 	 1 	 damage no
+32 	 31 	 N/N 	 1 	 damage appreciable
+32 	 34 	 (NP\NP)/NP 	 1 	 damage in
+34 	 33 	 (NP\NP)/(NP\NP) 	 2 	 in elsewhere
+36 	 34 	 (NP\NP)/NP 	 2 	 area in
+36 	 35 	 NP[nb]/N 	 1 	 area the
+36 	 38 	 (NP\NP)/NP 	 1 	 area including
+41 	 38 	 (NP\NP)/NP 	 2 	 plant including
+41 	 39 	 NP[nb]/N 	 1 	 plant its
+41 	 40 	 N/N 	 1 	 plant Cupertino
+<\s>
+<s id="wsj_1915.45"> 31
+4 	 0 	 N/N 	 1 	 INC. DREYER'S
+4 	 1 	 N/N 	 1 	 INC. GRAND
+4 	 2 	 N/N 	 1 	 INC. ICE
+4 	 3 	 N/N 	 1 	 INC. CREAM
+4 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 INC. said
+6 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 Oakland said
+10 	 8 	 N/N 	 1 	 maker ice
+10 	 9 	 N/N 	 1 	 maker cream
+10 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 maker said
+13 	 12 	 N/N 	 1 	 sales annual
+13 	 14 	 (NP\NP)/NP 	 1 	 sales of
+13 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 sales said
+15 	 14 	 (NP\NP)/NP 	 2 	 $ of
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 225
+19 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 OTC said
+22 	 23 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+22 	 24 	 (S[ng]\NP)/NP 	 1 	 it delivering <XB>
+23 	 21 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+24 	 23 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 delivering is
+24 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 delivering wherever
+26 	 24 	 (S[ng]\NP)/NP 	 2 	 cream delivering
+26 	 25 	 N/N 	 1 	 cream ice
+28 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 roads are
+28 	 30 	 S[adj]\NP 	 1 	 roads passable <XB>
+29 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are wherever
+30 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 passable are
+<\s>
+<s id="wsj_1915.46"> 31
+2 	 0 	 N/N 	 1 	 INC. EVEREX
+2 	 1 	 N/N 	 1 	 INC. SYSTEMS
+2 	 22 	 (S[dcl]\NP)/NP 	 1 	 INC. had
+2 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 INC. was <XU>
+2 	 29 	 S[adj]\NP 	 1 	 INC. operational <XU>
+4 	 22 	 (S[dcl]\NP)/NP 	 1 	 Fremont had
+4 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Fremont was <XU>
+4 	 29 	 S[adj]\NP 	 1 	 Fremont operational <XU>
+6 	 7 	 (NP\NP)/NP 	 1 	 maker of
+6 	 22 	 (S[dcl]\NP)/NP 	 1 	 maker had
+6 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 maker was <XU>
+6 	 29 	 S[adj]\NP 	 1 	 maker operational <XU>
+9 	 7 	 (NP\NP)/NP 	 2 	 computers of
+9 	 8 	 N/N 	 1 	 computers personal
+11 	 7 	 (NP\NP)/NP 	 2 	 peripherals of
+14 	 13 	 N/N 	 1 	 sales annual
+14 	 15 	 (NP\NP)/NP 	 1 	 sales of
+14 	 22 	 (S[dcl]\NP)/NP 	 1 	 sales had
+14 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 sales was <XU>
+14 	 29 	 S[adj]\NP 	 1 	 sales operational <XU>
+16 	 15 	 (NP\NP)/NP 	 2 	 $ of
+18 	 16 	 N/N[num] 	 1 	 million $
+18 	 17 	 N/N 	 1 	 million 377
+20 	 22 	 (S[dcl]\NP)/NP 	 1 	 OTC had
+20 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 OTC was <XU>
+20 	 29 	 S[adj]\NP 	 1 	 OTC operational <XU>
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 damage had
+24 	 23 	 N/N 	 1 	 damage minor
+26 	 30 	 (S\NP)\(S\NP) 	 2 	 was yesterday
+29 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 operational was
+29 	 27 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operational almost
+29 	 28 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operational fully
+<\s>
+<s id="wsj_1915.47"> 32
+1 	 0 	 N/N 	 1 	 Corp. EXXON
+1 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+4 	 3 	 N/N 	 1 	 York New
+4 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 York said
+7 	 6 	 N/N 	 1 	 company oil
+7 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+9 	 11 	 (S[dcl]\NP)/S[dcl] 	 1 	 NYSE said
+13 	 12 	 NP[nb]/N 	 1 	 refinery its
+13 	 14 	 (NP\NP)/PP 	 1 	 refinery northeast
+13 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 refinery was
+13 	 19 	 S[ng]\NP 	 1 	 refinery operating <XB>
+15 	 14 	 (NP\NP)/PP 	 2 	 of northeast
+17 	 15 	 PP/NP 	 1 	 Francisco of
+17 	 16 	 N/N 	 1 	 Francisco San
+18 	 11 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+19 	 18 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 operating was
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 operating at
+19 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 operating as
+19 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 operating in
+24 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 rate at
+24 	 21 	 NP[nb]/N 	 1 	 rate a
+24 	 22 	 N/N 	 1 	 rate slightly
+24 	 23 	 N/N 	 1 	 rate reduced
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 precaution as
+27 	 26 	 NP[nb]/N 	 1 	 precaution a
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 case in
+29 	 30 	 (NP\NP)/NP 	 1 	 case of
+31 	 30 	 (NP\NP)/NP 	 2 	 aftershocks of
+<\s>
+<s id="wsj_1915.48"> 44
+2 	 0 	 N/N 	 1 	 CO. FORD
+2 	 1 	 N/N 	 1 	 CO. MOTOR
+2 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 CO. said
+4 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 Dearborn said
+6 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 Mich. said
+9 	 8 	 N/N 	 1 	 maker auto
+9 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 maker said
+12 	 11 	 N/N 	 1 	 sales annual
+12 	 13 	 (NP\NP)/NP 	 1 	 sales of
+12 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 sales said
+14 	 13 	 (NP\NP)/NP 	 2 	 $ of
+16 	 14 	 N/N[num] 	 1 	 billion $
+16 	 15 	 N/N 	 1 	 billion 92.4
+18 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 NYSE said
+26 	 21 	 NP[nb]/N 	 1 	 facilities its
+26 	 22 	 N/N 	 1 	 facilities three
+26 	 23 	 N/N 	 1 	 facilities Ford
+26 	 24 	 N/N 	 1 	 facilities Aerospace
+26 	 25 	 N/N 	 1 	 facilities unit
+26 	 27 	 (NP\NP)/NP 	 1 	 facilities in
+26 	 32 	 (NP\NP)/NP 	 1 	 facilities including
+26 	 40 	 (S[dcl]\NP)/NP 	 1 	 facilities had
+30 	 27 	 (NP\NP)/NP 	 2 	 area in
+30 	 28 	 NP[nb]/N 	 1 	 area the
+30 	 29 	 N/N 	 1 	 area Bay
+35 	 32 	 (NP\NP)/NP 	 2 	 operation including
+35 	 33 	 NP[nb]/N 	 1 	 operation a
+35 	 34 	 N/N 	 1 	 operation satellite-assembly
+35 	 36 	 (NP\NP)/NP 	 1 	 operation in
+38 	 36 	 (NP\NP)/NP 	 2 	 Alto in
+38 	 37 	 N/N 	 1 	 Alto Palo
+40 	 20 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+43 	 40 	 (S[dcl]\NP)/NP 	 2 	 damage had
+43 	 41 	 NP[nb]/N 	 1 	 damage no
+43 	 42 	 N/N 	 1 	 damage major
+<\s>
+<s id="wsj_1915.49"> 42
+1 	 0 	 N/N 	 1 	 Inc. GAP
+1 	 18 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Inc. expects
+4 	 3 	 N/N 	 1 	 Bruno San
+4 	 18 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Bruno expects
+7 	 6 	 N/N 	 1 	 retailer clothing
+7 	 18 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 retailer expects
+10 	 9 	 N/N 	 1 	 sales annual
+10 	 11 	 (NP\NP)/NP 	 1 	 sales of
+10 	 18 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 sales expects
+12 	 11 	 (NP\NP)/NP 	 2 	 $ of
+14 	 12 	 N/N[num] 	 1 	 billion $
+14 	 13 	 N/N 	 1 	 billion 1.25
+16 	 18 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 NYSE expects
+19 	 18 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 most expects
+19 	 20 	 (NP\NP)/NP 	 1 	 most of
+19 	 30 	 NP/NP 	 1 	 most 2,500
+19 	 31 	 NP/NP 	 1 	 most of
+22 	 20 	 (NP\NP)/NP 	 2 	 stores of
+22 	 21 	 NP[nb]/N 	 1 	 stores its
+23 	 18 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 return to
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 return to
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 operation to
+27 	 26 	 N/N 	 1 	 operation full
+30 	 29 	 (NP/NP)/(NP/NP) 	 2 	 2,500 all
+34 	 18 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 workers expects
+34 	 30 	 NP/NP 	 1 	 workers 2,500
+34 	 31 	 NP/NP 	 1 	 workers of
+34 	 32 	 NP[nb]/N 	 1 	 workers its
+34 	 33 	 N/N 	 1 	 workers Bay-area
+35 	 18 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+36 	 35 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+36 	 40 	 ((S\NP)\(S\NP))/NP 	 2 	 be by
+37 	 36 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 back be
+38 	 37 	 (S[adj]\NP)/PP 	 2 	 at back
+39 	 38 	 PP/NP 	 1 	 work at
+41 	 40 	 ((S\NP)\(S\NP))/NP 	 3 	 today by
+<\s>
+<s id="wsj_1915.50"> 30
+1 	 0 	 N/N 	 1 	 INC. GENENTECH
+1 	 19 	 (S[dcl]\NP)/NP 	 1 	 INC. sustained
+1 	 24 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 INC. expects <XU>
+1 	 28 	 S[adj]\NP 	 1 	 INC. operational <XU>
+5 	 3 	 N/N 	 1 	 Francisco South
+5 	 4 	 N/N 	 1 	 Francisco San
+5 	 19 	 (S[dcl]\NP)/NP 	 1 	 Francisco sustained
+5 	 24 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Francisco expects <XU>
+5 	 28 	 S[adj]\NP 	 1 	 Francisco operational <XU>
+8 	 7 	 N/N 	 1 	 company biotechnology
+8 	 19 	 (S[dcl]\NP)/NP 	 1 	 company sustained
+8 	 24 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 company expects <XU>
+8 	 28 	 S[adj]\NP 	 1 	 company operational <XU>
+11 	 10 	 N/N 	 1 	 sales annual
+11 	 12 	 (NP\NP)/NP 	 1 	 sales of
+11 	 19 	 (S[dcl]\NP)/NP 	 1 	 sales sustained
+11 	 24 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 sales expects <XU>
+11 	 28 	 S[adj]\NP 	 1 	 sales operational <XU>
+13 	 12 	 (NP\NP)/NP 	 2 	 $ of
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 334.8
+17 	 19 	 (S[dcl]\NP)/NP 	 1 	 NYSE sustained
+17 	 24 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 NYSE expects <XU>
+17 	 28 	 S[adj]\NP 	 1 	 NYSE operational <XU>
+22 	 19 	 (S[dcl]\NP)/NP 	 2 	 damage sustained
+22 	 20 	 NP[nb]/N 	 1 	 damage no
+22 	 21 	 N/N 	 1 	 damage major
+25 	 24 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+26 	 29 	 (S\NP)\(S\NP) 	 2 	 be today
+28 	 26 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 operational be
+28 	 27 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operational fully
+<\s>
+<s id="wsj_1915.51"> 46
+2 	 0 	 N/N 	 1 	 CO. GENERAL
+2 	 1 	 N/N 	 1 	 CO. ELECTRIC
+2 	 25 	 (S[dcl]\NP)/S[dcl] 	 1 	 CO. said
+4 	 25 	 (S[dcl]\NP)/S[dcl] 	 1 	 Fairfield said
+6 	 25 	 (S[dcl]\NP)/S[dcl] 	 1 	 Conn. said
+14 	 8 	 N/N 	 1 	 concern consumer
+14 	 10 	 N/N 	 1 	 concern industrial
+14 	 11 	 N/N 	 1 	 concern products
+14 	 13 	 N/N 	 1 	 concern broadcasting
+14 	 25 	 (S[dcl]\NP)/S[dcl] 	 1 	 concern said
+17 	 16 	 N/N 	 1 	 sales annual
+17 	 18 	 (NP\NP)/NP 	 1 	 sales of
+17 	 25 	 (S[dcl]\NP)/S[dcl] 	 1 	 sales said
+19 	 18 	 (NP\NP)/NP 	 2 	 $ of
+21 	 19 	 N/N[num] 	 1 	 billion $
+21 	 20 	 N/N 	 1 	 billion 50
+23 	 25 	 (S[dcl]\NP)/S[dcl] 	 1 	 NYSE said
+30 	 26 	 NP[nb]/N 	 1 	 unit its
+30 	 27 	 N/N 	 1 	 unit GE
+30 	 28 	 N/N 	 1 	 unit Nuclear
+30 	 29 	 N/N 	 1 	 unit Energy
+30 	 37 	 (S[dcl]\NP)/NP 	 1 	 unit had
+35 	 32 	 ((S\NP)/(S\NP))/NP 	 3 	 employees with
+35 	 33 	 N/N 	 1 	 employees 1,600
+35 	 34 	 N/N 	 1 	 employees Bay-area
+37 	 25 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+37 	 32 	 ((S\NP)/(S\NP))/NP 	 2 	 had with
+37 	 41 	 ((S\NP)\(S\NP))/NP 	 2 	 had at
+39 	 38 	 (N/N)/(N/N) 	 2 	 minor only
+40 	 37 	 (S[dcl]\NP)/NP 	 2 	 damage had
+40 	 39 	 N/N 	 1 	 damage minor
+45 	 41 	 ((S\NP)\(S\NP))/NP 	 3 	 headquarters at
+45 	 42 	 NP[nb]/N 	 1 	 headquarters its
+45 	 43 	 N/N 	 1 	 headquarters San
+45 	 44 	 N/N 	 1 	 headquarters Jose
+<\s>
+<s id="wsj_1915.52"> 4
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Business was
+0 	 3 	 S[pss]\NP 	 1 	 Business disrupted <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 was n't
+3 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 disrupted was
+<\s>
+<s id="wsj_1915.53"> 47
+2 	 0 	 N/N 	 1 	 CORP. GENERAL
+2 	 1 	 N/N 	 1 	 CORP. MOTORS
+2 	 18 	 (S[dcl]\NP)/NP 	 1 	 CORP. sustained
+4 	 18 	 (S[dcl]\NP)/NP 	 1 	 Detroit sustained
+7 	 6 	 N/N 	 1 	 maker auto
+7 	 18 	 (S[dcl]\NP)/NP 	 1 	 maker sustained
+10 	 9 	 N/N 	 1 	 sales annual
+10 	 11 	 (NP\NP)/NP 	 1 	 sales of
+10 	 18 	 (S[dcl]\NP)/NP 	 1 	 sales sustained
+12 	 11 	 (NP\NP)/NP 	 2 	 $ of
+14 	 12 	 N/N[num] 	 1 	 billion $
+14 	 13 	 N/N 	 1 	 billion 123.6
+16 	 18 	 (S[dcl]\NP)/NP 	 1 	 NYSE sustained
+20 	 19 	 (N/N)/(N/N) 	 2 	 10 about
+21 	 18 	 (S[dcl]\NP)/NP 	 2 	 injuries sustained
+21 	 20 	 N/N 	 1 	 injuries 10
+21 	 22 	 (NP\NP)/NP 	 1 	 injuries to
+23 	 22 	 (NP\NP)/NP 	 2 	 workers to
+28 	 18 	 (S[dcl]\NP)/NP 	 2 	 mains sustained
+28 	 25 	 NP[nb]/N 	 1 	 mains some
+28 	 26 	 N/N 	 1 	 mains ruptured
+28 	 27 	 N/N 	 1 	 mains water
+28 	 29 	 (NP\NP)/NP 	 1 	 mains at
+36 	 29 	 (NP\NP)/NP 	 2 	 facility at
+36 	 30 	 NP[nb]/N 	 1 	 facility its
+36 	 31 	 N/N 	 1 	 facility New
+36 	 32 	 N/N 	 1 	 facility United
+36 	 33 	 N/N 	 1 	 facility Motor
+36 	 34 	 N/N 	 1 	 facility Manufacturing
+36 	 35 	 N/N 	 1 	 facility Inc.
+36 	 37 	 (NP\NP)/NP 	 1 	 facility in
+38 	 37 	 (NP\NP)/NP 	 2 	 Fremont in
+42 	 29 	 (NP\NP)/NP 	 2 	 venture at
+42 	 40 	 NP[nb]/N 	 1 	 venture a
+42 	 41 	 N/N 	 1 	 venture joint
+42 	 43 	 (NP\NP)/NP 	 1 	 venture with
+46 	 43 	 (NP\NP)/NP 	 2 	 Corp with
+46 	 44 	 N/N 	 1 	 Corp Toyota
+46 	 45 	 N/N 	 1 	 Corp Motor
+<\s>
+<s id="wsj_1915.54"> 21
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There was
+1 	 7 	 (S\NP)\(S\NP) 	 2 	 was yesterday
+3 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 production was
+3 	 2 	 N/N 	 1 	 production limited
+3 	 4 	 (NP\NP)/NP 	 1 	 production of
+6 	 4 	 (NP\NP)/NP 	 2 	 models of
+6 	 5 	 NP[nb]/N 	 1 	 models some
+10 	 11 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 1 	 it was
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 was n't
+13 	 11 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 3 	 clear was
+14 	 11 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 2 	 when was
+18 	 15 	 NP[nb]/N 	 1 	 pace the
+18 	 16 	 N/N 	 1 	 pace normal
+18 	 17 	 N/N 	 1 	 pace 750-car-a-day
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 pace will
+18 	 20 	 S[b]\NP 	 1 	 pace resume <XB>
+19 	 14 	 S[qem]/S[dcl] 	 1 	 will when
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 resume will
+<\s>
+<s id="wsj_1915.55"> 20
+1 	 0 	 N/N 	 1 	 officials Plant
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 officials are
+1 	 4 	 (S[ng]\NP)/NP 	 1 	 officials assessing <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 are still
+4 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 assessing are
+5 	 4 	 (S[ng]\NP)/NP 	 2 	 damage assessing
+5 	 6 	 (NP\NP)/NP 	 1 	 damage to
+8 	 6 	 (NP\NP)/NP 	 2 	 suppliers to
+8 	 7 	 N/N 	 1 	 suppliers parts
+10 	 11 	 ((N/N)\(N/N))/NP 	 2 	 Port of
+12 	 11 	 ((N/N)\(N/N))/NP 	 3 	 Oakland of
+13 	 6 	 (NP\NP)/NP 	 2 	 facilities to
+13 	 10 	 N/N 	 1 	 facilities Port
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 facilities that
+13 	 15 	 (S[dcl]\NP)/NP 	 1 	 facilities handle <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 handle that
+16 	 15 	 (S[dcl]\NP)/NP 	 2 	 shipments handle
+16 	 17 	 (NP\NP)/NP 	 1 	 shipments to
+19 	 17 	 (NP\NP)/NP 	 2 	 plant to
+19 	 18 	 NP[nb]/N 	 1 	 plant the
+<\s>
+<s id="wsj_1915.56"> 32
+3 	 0 	 N/N 	 1 	 CORP. GOLDEN
+3 	 1 	 N/N 	 1 	 CORP. WEST
+3 	 2 	 N/N 	 1 	 CORP. FINANCIAL
+3 	 20 	 (S[dcl]\NP)/NP 	 1 	 CORP. had
+5 	 20 	 (S[dcl]\NP)/NP 	 1 	 Oakland had
+7 	 20 	 (S[dcl]\NP)/NP 	 1 	 savings had
+9 	 20 	 (S[dcl]\NP)/NP 	 1 	 loan had
+12 	 11 	 N/N 	 1 	 revenue annual
+12 	 13 	 (NP\NP)/NP 	 1 	 revenue of
+12 	 20 	 (S[dcl]\NP)/NP 	 1 	 revenue had
+14 	 13 	 (NP\NP)/NP 	 2 	 $ of
+16 	 14 	 N/N[num] 	 1 	 billion $
+16 	 15 	 N/N 	 1 	 billion 1.4
+18 	 20 	 (S[dcl]\NP)/NP 	 1 	 NYSE had
+22 	 21 	 (N/N)/(N/N) 	 2 	 minor only
+23 	 20 	 (S[dcl]\NP)/NP 	 2 	 damage had
+23 	 22 	 N/N 	 1 	 damage minor
+23 	 24 	 (NP\NP)/NP 	 1 	 damage to
+27 	 24 	 (NP\NP)/NP 	 2 	 branches to
+27 	 25 	 NP[nb]/N 	 1 	 branches a
+27 	 26 	 N/N 	 1 	 branches few
+31 	 20 	 (S[dcl]\NP)/NP 	 2 	 employees had
+31 	 29 	 NP[nb]/N 	 1 	 employees no
+31 	 30 	 N/N 	 1 	 employees injured
+<\s>
+<s id="wsj_1915.57"> 35
+1 	 0 	 N/N 	 1 	 Co. HEWLETT-PACKARD
+1 	 22 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+4 	 3 	 N/N 	 1 	 Alto Palo
+4 	 22 	 (S[dcl]\NP)/S[dcl] 	 1 	 Alto said
+11 	 6 	 N/N 	 1 	 maker personal
+11 	 7 	 N/N 	 1 	 maker computer
+11 	 9 	 N/N 	 1 	 maker electronic
+11 	 10 	 N/N 	 1 	 maker equipment
+11 	 22 	 (S[dcl]\NP)/S[dcl] 	 1 	 maker said
+14 	 13 	 N/N 	 1 	 sales annual
+14 	 15 	 (NP\NP)/NP 	 1 	 sales of
+14 	 22 	 (S[dcl]\NP)/S[dcl] 	 1 	 sales said
+16 	 15 	 (NP\NP)/NP 	 2 	 $ of
+18 	 16 	 N/N[num] 	 1 	 billion $
+18 	 17 	 N/N 	 1 	 billion 9.8
+20 	 22 	 (S[dcl]\NP)/S[dcl] 	 1 	 NYSE said
+23 	 24 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 1 	 there will
+24 	 22 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+25 	 24 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 2 	 be will
+25 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 be for
+28 	 25 	 (S[b]\NP)/NP 	 2 	 suspension be
+28 	 26 	 NP[nb]/N 	 1 	 suspension a
+28 	 27 	 N/N 	 1 	 suspension minimal
+28 	 29 	 (NP\NP)/NP 	 1 	 suspension of
+30 	 29 	 (NP\NP)/NP 	 2 	 manufacturing of
+34 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 period for
+34 	 32 	 NP[nb]/N 	 1 	 period an
+34 	 33 	 N/N 	 1 	 period undefined
+<\s>
+<s id="wsj_1915.58"> 11
+2 	 0 	 NP[nb]/N 	 1 	 system The
+2 	 1 	 N/N 	 1 	 system computer
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 system was
+2 	 4 	 S[ng]\NP 	 1 	 system operating <XB>
+3 	 6 	 (S\S)/S[dcl] 	 1 	 was so
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 operating was
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 orders could
+7 	 10 	 S[pss]\NP 	 1 	 orders taken <XB>
+8 	 6 	 (S\S)/S[dcl] 	 2 	 could so
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+10 	 9 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 taken be
+<\s>
+<s id="wsj_1915.59"> 14
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 company has
+2 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 has in
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 employees has
+4 	 3 	 N/N 	 1 	 employees 18,000
+6 	 7 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+8 	 7 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 70 than
+9 	 2 	 (S[dcl]\NP)/NP 	 2 	 buildings has
+9 	 8 	 N/N 	 1 	 buildings 70
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 area in
+13 	 11 	 NP[nb]/N 	 1 	 area the
+13 	 12 	 N/N 	 1 	 area Bay
+<\s>
+<s id="wsj_1915.60"> 10
+1 	 0 	 N/N 	 1 	 building One
+1 	 2 	 (NP\NP)/NP 	 1 	 building in
+1 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 building may
+1 	 7 	 (S[adj]\NP)/PP 	 1 	 building damaged <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 Alto in
+4 	 3 	 N/N 	 1 	 Alto Palo
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+7 	 6 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 damaged be
+8 	 7 	 (S[adj]\NP)/PP 	 2 	 beyond damaged
+9 	 8 	 PP/NP 	 1 	 repair beyond
+<\s>
+<s id="wsj_1915.61"> 11
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Others had
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 damage had
+3 	 2 	 N/N 	 1 	 damage lesser
+5 	 6 	 (S[dcl]\NP[thr])/NP 	 1 	 there were
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 were among
+8 	 6 	 (S[dcl]\NP[thr])/NP 	 2 	 injuries were
+8 	 7 	 NP[nb]/N 	 1 	 injuries no
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 workers among
+<\s>
+<s id="wsj_1915.62"> 11
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Damage will
+0 	 2 	 (S[b]\NP)/PP 	 1 	 Damage be <XB>
+1 	 10 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 be easily
+4 	 2 	 (S[b]\NP)/PP 	 2 	 in be
+6 	 4 	 PP/NP 	 1 	 millions in
+6 	 5 	 NP[nb]/N 	 1 	 millions the
+9 	 8 	 NP[nb]/N 	 1 	 company the
+9 	 10 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>
+<s id="wsj_1915.63"> 26
+1 	 0 	 N/N 	 1 	 Corp. HEXCEL
+1 	 19 	 (S[dcl]\NP)/NP 	 1 	 Corp. had
+3 	 19 	 (S[dcl]\NP)/NP 	 1 	 Dublin had
+5 	 6 	 (NP\NP)/NP 	 1 	 manufacturer of
+5 	 19 	 (S[dcl]\NP)/NP 	 1 	 manufacturer had
+8 	 6 	 (NP\NP)/NP 	 2 	 parts of
+8 	 7 	 N/N 	 1 	 parts engineered
+11 	 10 	 N/N 	 1 	 sales annual
+11 	 12 	 (NP\NP)/NP 	 1 	 sales of
+11 	 19 	 (S[dcl]\NP)/NP 	 1 	 sales had
+13 	 12 	 (NP\NP)/NP 	 2 	 $ of
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 399
+17 	 19 	 (S[dcl]\NP)/NP 	 1 	 NYSE had
+21 	 19 	 (S[dcl]\NP)/NP 	 2 	 damage had
+21 	 20 	 N/N 	 1 	 damage little
+21 	 22 	 (NP\NP)/NP 	 1 	 damage beyond
+25 	 22 	 (NP\NP)/NP 	 2 	 trouble beyond
+25 	 23 	 NP[nb]/N 	 1 	 trouble some
+25 	 24 	 N/N 	 1 	 trouble phone
+<\s>
+<s id="wsj_1915.64"> 42
+2 	 0 	 N/N 	 1 	 CO. HOMESTAKE
+2 	 1 	 N/N 	 1 	 CO. MINING
+2 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 CO. said
+5 	 4 	 N/N 	 1 	 Francisco San
+5 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 Francisco said
+10 	 7 	 N/N 	 1 	 miner gold <XU>
+10 	 9 	 N/N 	 1 	 miner general
+10 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 miner said
+13 	 12 	 N/N 	 1 	 sales annual
+13 	 14 	 (NP\NP)/NP 	 1 	 sales of
+13 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 sales said
+15 	 14 	 (NP\NP)/NP 	 2 	 $ of
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 432.6
+19 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 NYSE said
+23 	 22 	 NP[nb]/N 	 1 	 headquarters its
+23 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 headquarters was
+23 	 25 	 S[adj]\NP 	 1 	 headquarters closed <XB>
+24 	 21 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+24 	 26 	 (S\NP)\(S\NP) 	 2 	 was yesterday
+24 	 27 	 ((S\NP)\(S\NP))/PP 	 2 	 was because
+25 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed was
+28 	 27 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+30 	 28 	 PP/NP 	 1 	 failures of
+30 	 29 	 N/N 	 1 	 failures power
+32 	 28 	 PP/NP 	 1 	 lack of
+32 	 33 	 (NP\NP)/NP 	 1 	 lack of
+34 	 33 	 (NP\NP)/NP 	 2 	 water of
+37 	 21 	 (S[dcl]\NP)/S[dcl] 	 2 	 that said
+38 	 39 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it may
+38 	 40 	 S[b]\NP 	 1 	 it reopen <XB>
+39 	 37 	 S[em]/S[dcl] 	 1 	 may that
+40 	 39 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reopen may
+40 	 41 	 (S\NP)\(S\NP) 	 2 	 reopen today
+<\s>
+<s id="wsj_1915.65"> 10
+0 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 It expects
+3 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 impact expects
+3 	 2 	 NP[nb]/N 	 1 	 impact any
+3 	 4 	 (NP\NP)/NP 	 1 	 impact on
+3 	 9 	 S[adj]\NP 	 1 	 impact slight <XB>
+6 	 4 	 (NP\NP)/NP 	 2 	 business on
+6 	 5 	 NP[nb]/N 	 1 	 business its
+7 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+9 	 8 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 slight be
+<\s>
+<s id="wsj_1915.66"> 29
+2 	 0 	 N/N 	 1 	 CORP. HOMESTEAD
+2 	 1 	 N/N 	 1 	 CORP. FINANCIAL
+2 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 CORP. said
+4 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 Millbrae said
+8 	 6 	 N/N 	 1 	 concern financial
+8 	 7 	 N/N 	 1 	 concern services
+8 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 concern said
+11 	 10 	 N/N 	 1 	 revenue annual
+11 	 12 	 (NP\NP)/NP 	 1 	 revenue of
+11 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 revenue said
+13 	 12 	 (NP\NP)/NP 	 2 	 $ of
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 562
+17 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 OTC said
+20 	 21 	 (NP\NP)/NP 	 1 	 three of
+20 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 three were
+20 	 27 	 S[adj]\NP 	 1 	 three closed <XB>
+25 	 21 	 (NP\NP)/NP 	 2 	 branches of
+25 	 22 	 NP[nb]/N 	 1 	 branches its
+25 	 23 	 N/N 	 1 	 branches 17
+25 	 24 	 N/N 	 1 	 branches Bay-area
+26 	 19 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+26 	 28 	 (S\NP)\(S\NP) 	 2 	 were yesterday
+27 	 26 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed were
+<\s>
+<s id="wsj_1915.67"> 8
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 company expects
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 branches expects
+4 	 3 	 NP[nb]/N 	 1 	 branches all
+4 	 6 	 S[b]\NP 	 1 	 branches reopen <XB>
+5 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reopen to
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 reopen today
+<\s>
+<s id="wsj_1915.68"> 34
+1 	 0 	 N/N 	 1 	 CORP. INMAC
+1 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 CORP. said
+4 	 3 	 N/N 	 1 	 Clara Santa
+4 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 Clara said
+6 	 7 	 (NP\NP)/NP 	 1 	 maker of
+6 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 maker said
+9 	 7 	 (NP\NP)/NP 	 2 	 accessories of
+9 	 8 	 N/N 	 1 	 accessories computer
+12 	 11 	 N/N 	 1 	 sales annual
+12 	 13 	 (NP\NP)/NP 	 1 	 sales of
+12 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 sales said
+14 	 13 	 (NP\NP)/NP 	 2 	 $ of
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 250
+18 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 OTC said
+21 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 telephones were
+21 	 23 	 S[adj]\NP 	 1 	 telephones out <XB>
+22 	 20 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+22 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 were at
+23 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 out were
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 headquarters at
+26 	 25 	 NP[nb]/N 	 1 	 headquarters its
+28 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 service should
+28 	 31 	 S[pss]\NP 	 1 	 service restored <XB>
+29 	 20 	 (S[dcl]\NP)/S[dcl] 	 2 	 should said
+30 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be should
+31 	 30 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 restored be
+31 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 restored by
+33 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 today by
+<\s>
+<s id="wsj_1915.69"> 19
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+3 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it was
+3 	 5 	 (S[ng]\NP)/NP 	 1 	 it doing <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 doing was
+8 	 5 	 (S[ng]\NP)/NP 	 2 	 business doing
+8 	 6 	 NP[nb]/N 	 1 	 business a
+8 	 7 	 N/N 	 1 	 business brisk
+8 	 9 	 (NP\NP)/NP 	 1 	 business in
+12 	 9 	 (NP\NP)/NP 	 2 	 protectors in
+12 	 10 	 N/N 	 1 	 protectors computer
+12 	 11 	 N/N 	 1 	 protectors power-surge
+14 	 9 	 (NP\NP)/NP 	 2 	 cables in
+18 	 9 	 (NP\NP)/NP 	 2 	 sources in
+18 	 16 	 N/N 	 1 	 sources uninterruptable
+18 	 17 	 N/N 	 1 	 sources power
+<\s>
+<s id="wsj_1915.70"> 28
+1 	 0 	 N/N 	 1 	 Corp. INTEL
+1 	 18 	 (S[dcl]\NP)/NP 	 1 	 Corp. had
+4 	 3 	 N/N 	 1 	 Clara Santa
+4 	 18 	 (S[dcl]\NP)/NP 	 1 	 Clara had
+7 	 6 	 N/N 	 1 	 maker semiconductor
+7 	 18 	 (S[dcl]\NP)/NP 	 1 	 maker had
+10 	 9 	 N/N 	 1 	 sales annual
+10 	 11 	 (NP\NP)/NP 	 1 	 sales of
+10 	 18 	 (S[dcl]\NP)/NP 	 1 	 sales had
+12 	 11 	 (NP\NP)/NP 	 2 	 $ of
+14 	 12 	 N/N[num] 	 1 	 billion $
+14 	 13 	 N/N 	 1 	 billion 2.87
+16 	 18 	 (S[dcl]\NP)/NP 	 1 	 OTC had
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 damage had
+20 	 19 	 NP[nb]/N 	 1 	 damage some
+23 	 22 	 N/N 	 1 	 people few
+23 	 24 	 (S[dcl]\NP)/PP 	 1 	 people were
+24 	 27 	 (S\NP)\(S\NP) 	 2 	 were yesterday
+25 	 24 	 (S[dcl]\NP)/PP 	 2 	 at were
+26 	 25 	 PP/NP 	 1 	 work at
+<\s>
+<s id="wsj_1915.71"> 34
+3 	 0 	 N/N 	 1 	 Corp INTERNATIONAL
+3 	 1 	 N/N 	 1 	 Corp BUSINESS
+3 	 2 	 N/N 	 1 	 Corp MACHINES
+3 	 16 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp said
+5 	 16 	 (S[dcl]\NP)/S[dcl] 	 1 	 Armonk said
+7 	 16 	 (S[dcl]\NP)/S[dcl] 	 1 	 N.Y. said
+9 	 10 	 (NP\NP)/NP 	 1 	 maker of
+9 	 16 	 (S[dcl]\NP)/S[dcl] 	 1 	 maker said
+12 	 10 	 (NP\NP)/NP 	 2 	 machines of
+12 	 11 	 N/N 	 1 	 machines business
+14 	 16 	 (S[dcl]\NP)/S[dcl] 	 1 	 NYSE said
+17 	 18 	 S[pss]\NP 	 1 	 flooding caused <XB>
+17 	 23 	 (S[dcl]\NP)/NP 	 1 	 flooding closed
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 caused by
+22 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 pipes by
+22 	 20 	 N/N 	 1 	 pipes broken
+22 	 21 	 N/N 	 1 	 pipes water
+23 	 16 	 (S[dcl]\NP)/S[dcl] 	 2 	 closed said
+27 	 23 	 (S[dcl]\NP)/NP 	 2 	 plant closed
+27 	 24 	 NP[nb]/N 	 1 	 plant its
+27 	 25 	 N/N 	 1 	 plant San
+27 	 26 	 N/N 	 1 	 plant Jose
+27 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 plant which
+27 	 30 	 (S[dcl]\NP)/NP 	 1 	 plant makes <XB>
+30 	 29 	 (NP\NP)/(S[dcl]\NP) 	 2 	 makes which
+33 	 30 	 (S[dcl]\NP)/NP 	 2 	 devices makes
+33 	 31 	 N/N 	 1 	 devices high-end
+33 	 32 	 N/N 	 1 	 devices data-storage
+<\s>
+<s id="wsj_1915.72"> 19
+1 	 0 	 NP[nb]/N 	 1 	 plant The
+1 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plant will
+1 	 8 	 (S[b]\NP)/NP 	 1 	 plant resume <XB>
+5 	 3 	 NP[nb]/N 	 1 	 employees its
+5 	 4 	 N/N 	 1 	 employees 8,500
+5 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 employees will
+5 	 8 	 (S[b]\NP)/NP 	 1 	 employees resume <XB>
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 will gradually
+7 	 18 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 resume will
+8 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 resume over
+9 	 8 	 (S[b]\NP)/NP 	 2 	 operations resume
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 days over
+14 	 11 	 NP[nb]/N 	 1 	 days the
+14 	 12 	 N/N 	 1 	 days next
+14 	 13 	 N/N 	 1 	 days several
+17 	 16 	 NP[nb]/N 	 1 	 company the
+17 	 18 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>
+<s id="wsj_1915.73"> 16
+1 	 3 	 (S[dcl]\(S[adj]\NP))/NP 	 1 	 closed were
+3 	 0 	 S/S 	 1 	 were Also
+3 	 2 	 S/S 	 1 	 were yesterday
+5 	 4 	 NP[nb]/N 	 1 	 company the
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 company 's
+10 	 3 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 lab were
+10 	 6 	 (NP[nb]/N)\NP 	 1 	 lab 's
+10 	 7 	 N/N 	 1 	 lab Santa
+10 	 8 	 N/N 	 1 	 lab Teresa
+10 	 9 	 N/N 	 1 	 lab software-development
+15 	 3 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 center were
+15 	 12 	 NP[nb]/N 	 1 	 center the
+15 	 13 	 N/N 	 1 	 center Almaden
+15 	 14 	 N/N 	 1 	 center research
+<\s>
+<s id="wsj_1915.74"> 21
+1 	 0 	 NP[nb]/N 	 1 	 concern The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 concern 's
+5 	 2 	 (NP[nb]/N)\NP 	 1 	 Division 's
+5 	 3 	 N/N 	 1 	 Division National
+5 	 4 	 N/N 	 1 	 Division Service
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Division opened
+6 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 opened as
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 center opened
+8 	 7 	 NP[nb]/N 	 1 	 center a
+8 	 9 	 (NP\NP)/NP 	 1 	 center for
+8 	 12 	 (NP\NP)/NP 	 1 	 center in
+11 	 9 	 (NP\NP)/NP 	 2 	 service for
+11 	 10 	 N/N 	 1 	 service emergency
+14 	 12 	 (NP\NP)/NP 	 2 	 Creek in
+14 	 13 	 N/N 	 1 	 Creek Walnut
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 part as
+16 	 17 	 (NP\NP)/NP 	 1 	 part of
+20 	 17 	 (NP\NP)/NP 	 2 	 plan of
+20 	 18 	 NP[nb]/N 	 1 	 plan its
+20 	 19 	 N/N 	 1 	 plan disaster-recovery
+<\s>
+<s id="wsj_1915.75"> 39
+3 	 0 	 N/N 	 1 	 CHEMICAL KAISER
+3 	 1 	 N/N 	 1 	 CHEMICAL ALUMINUM
+3 	 2 	 N/N 	 1 	 CHEMICAL &
+3 	 19 	 (S[dcl]\NP)/NP 	 1 	 CHEMICAL had
+5 	 19 	 (S[dcl]\NP)/NP 	 1 	 Oakland had
+7 	 19 	 (S[dcl]\NP)/NP 	 1 	 metal had
+10 	 9 	 N/N 	 1 	 maker chemical
+10 	 19 	 (S[dcl]\NP)/NP 	 1 	 maker had
+13 	 12 	 N/N 	 1 	 sales annual
+13 	 14 	 (NP\NP)/NP 	 1 	 sales of
+13 	 19 	 (S[dcl]\NP)/NP 	 1 	 sales had
+15 	 14 	 (NP\NP)/NP 	 2 	 $ of
+17 	 15 	 N/N[num] 	 1 	 billion $
+17 	 16 	 N/N 	 1 	 billion 2.22
+22 	 19 	 (S[dcl]\NP)/NP 	 2 	 damage had
+22 	 20 	 N/N 	 1 	 damage slight
+22 	 21 	 N/N 	 1 	 damage structural
+22 	 23 	 (NP\NP)/NP 	 1 	 damage to
+27 	 23 	 (NP\NP)/NP 	 2 	 building to
+27 	 24 	 NP[nb]/N 	 1 	 building its
+27 	 25 	 N/N 	 1 	 building 28-story
+27 	 26 	 N/N 	 1 	 building headquarters
+29 	 30 	 S[dcl]\NP 	 1 	 employees stayed
+29 	 34 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 employees allow <XB>
+30 	 31 	 (S\NP)\(S\NP) 	 2 	 stayed home
+30 	 32 	 (S\NP)\(S\NP) 	 2 	 stayed yesterday
+34 	 33 	 (S[to]\NP)/(S[b]\NP) 	 2 	 allow to
+35 	 34 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 crews allow
+35 	 37 	 S[b]\NP 	 1 	 crews clean <XB>
+36 	 34 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+37 	 36 	 (S[to]\NP)/(S[b]\NP) 	 2 	 clean to
+37 	 38 	 (S\NP)\(S\NP) 	 2 	 clean up
+<\s>
+<s id="wsj_1915.76"> 38
+1 	 0 	 N/N 	 1 	 CORP. LOCKHEED
+1 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 CORP. said
+3 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 Calabasas said
+5 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 aerospace said
+8 	 7 	 N/N 	 1 	 concern defense
+8 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 concern said
+11 	 10 	 N/N 	 1 	 sales annual
+11 	 12 	 (NP\NP)/NP 	 1 	 sales of
+11 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 sales said
+13 	 12 	 (NP\NP)/NP 	 2 	 $ of
+15 	 13 	 N/N[num] 	 1 	 billion $
+15 	 14 	 N/N 	 1 	 billion 10.59
+17 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 NYSE said
+25 	 20 	 NP[nb]/N 	 1 	 division its
+25 	 21 	 N/N 	 1 	 division Lockheed
+25 	 22 	 N/N 	 1 	 division Missiles
+25 	 23 	 N/N 	 1 	 division &
+25 	 24 	 N/N 	 1 	 division Space
+25 	 26 	 (S[dcl]\NP)/NP 	 1 	 division closed
+26 	 19 	 (S[dcl]\NP)/S[dcl] 	 2 	 closed said
+26 	 32 	 ((S\NP)\(S\NP))/PP 	 2 	 closed because
+31 	 26 	 (S[dcl]\NP)/NP 	 2 	 facility closed
+31 	 27 	 NP[nb]/N 	 1 	 facility its
+31 	 28 	 N/N 	 1 	 facility Santa
+31 	 29 	 N/N 	 1 	 facility Cruz
+31 	 30 	 N/N 	 1 	 facility test
+33 	 32 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+35 	 33 	 PP/NP 	 1 	 outages of
+35 	 34 	 N/N 	 1 	 outages power
+37 	 33 	 PP/NP 	 1 	 landslides of
+<\s>
+<s id="wsj_1915.77"> 15
+1 	 0 	 NP[nb]/N 	 1 	 closing The
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 closing affecting <XB>
+1 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 closing will
+1 	 8 	 S[b]\NP 	 1 	 closing continue <XB>
+5 	 3 	 (S[ng]\NP)/NP 	 2 	 employees affecting
+5 	 4 	 N/N 	 1 	 employees 266
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue will
+8 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 continue until
+10 	 9 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(S[asup]\NP) 	 4 	 least at
+11 	 9 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(S[asup]\NP) 	 3 	 until at
+12 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 roads are
+12 	 14 	 S[pss]\NP 	 1 	 roads cleared <XB>
+13 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are until
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 cleared are
+<\s>
+<s id="wsj_1915.78"> 15
+0 	 1 	 (S[dcl]\NP[expl])/(S[pss]\NP) 	 1 	 It was
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 was n't
+3 	 1 	 (S[dcl]\NP[expl])/(S[pss]\NP) 	 2 	 known was
+4 	 5 	 ((S[qem]/S[dcl])\((NP\NP)/NP))/N 	 2 	 to what
+5 	 3 	 (S[pss]\NP)/S[qem] 	 2 	 what known
+5 	 8 	 (S\S)/NP 	 1 	 what if
+6 	 5 	 ((S[qem]/S[dcl])\((NP\NP)/NP))/N 	 3 	 extent what
+9 	 8 	 (S\S)/NP 	 2 	 any if
+12 	 11 	 NP[nb]/N 	 1 	 facility the
+12 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 facility was
+12 	 14 	 S[pss]\NP 	 1 	 facility damaged <XB>
+13 	 5 	 ((S[qem]/S[dcl])\((NP\NP)/NP))/N 	 1 	 was what
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 damaged was
+<\s>
+<s id="wsj_1915.79"> 33
+0 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 It was
+0 	 4 	 (S[pss]\NP)/NP 	 1 	 It known <XB>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 was also
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 was n't
+4 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 known was
+5 	 4 	 (S[pss]\NP)/NP 	 2 	 what known
+5 	 9 	 (S[b]\NP)/NP 	 2 	 what be <XU>
+7 	 6 	 NP[nb]/N 	 1 	 impact the
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 impact will
+7 	 9 	 (S[b]\NP)/NP 	 1 	 impact be <XB>
+8 	 5 	 NP/(S[dcl]/NP) 	 1 	 will what
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 be on
+12 	 11 	 NP[nb]/N 	 1 	 division the
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 division 's
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 work on
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 work 's
+14 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 work which
+14 	 17 	 (S[dcl]\NP)/NP 	 1 	 work includes <XB>
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 includes which
+19 	 18 	 NP[nb]/N 	 1 	 Navy the
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 Navy 's
+22 	 21 	 (N/N)/(N/N) 	 2 	 submarine-based Trident
+24 	 17 	 (S[dcl]\NP)/NP 	 2 	 program includes
+24 	 20 	 (NP[nb]/N)\NP 	 1 	 program 's
+24 	 22 	 N/N 	 1 	 program submarine-based
+24 	 23 	 N/N 	 1 	 program missile
+28 	 26 	 NP[nb]/N 	 1 	 Force the
+28 	 27 	 N/N 	 1 	 Force Air
+28 	 29 	 (NP[nb]/N)\NP 	 2 	 Force 's
+32 	 17 	 (S[dcl]\NP)/NP 	 2 	 Initiative includes
+32 	 29 	 (NP[nb]/N)\NP 	 1 	 Initiative 's
+32 	 30 	 N/N 	 1 	 Initiative Strategic
+32 	 31 	 N/N 	 1 	 Initiative Defense
+<\s>
+<s id="wsj_1915.80"> 23
+1 	 0 	 NP[nb]/N 	 1 	 division The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 division had
+2 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 had at
+4 	 3 	 (N/N)/(N/N) 	 2 	 minor only
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 damage had
+5 	 4 	 N/N 	 1 	 damage minor
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 headquarters at
+9 	 7 	 NP[nb]/N 	 1 	 headquarters its
+9 	 8 	 N/N 	 1 	 headquarters Sunnyvale
+11 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 plant at
+11 	 7 	 NP[nb]/N 	 1 	 plant its
+11 	 12 	 (N\N)/NP 	 1 	 plant in
+14 	 12 	 (N\N)/NP 	 2 	 Altos in
+14 	 13 	 N/N 	 1 	 Altos Palo
+18 	 17 	 NP[nb]/N 	 1 	 delays no
+18 	 19 	 (NP\NP)/NP 	 1 	 delays in
+18 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 delays are
+18 	 22 	 S[pss]\NP 	 1 	 delays expected <XB>
+20 	 19 	 (NP\NP)/NP 	 2 	 deliveries in
+22 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+<\s>
+<s id="wsj_1915.81"> 42
+3 	 0 	 N/N 	 1 	 INC. LONGS
+3 	 1 	 N/N 	 1 	 INC. DRUG
+3 	 2 	 N/N 	 1 	 INC. STORES
+3 	 20 	 (S[dcl]\NP)/NP 	 1 	 INC. had
+6 	 5 	 N/N 	 1 	 Creek Walnut
+6 	 20 	 (S[dcl]\NP)/NP 	 1 	 Creek had
+9 	 8 	 N/N 	 1 	 chain drugstore
+9 	 20 	 (S[dcl]\NP)/NP 	 1 	 chain had
+12 	 11 	 N/N 	 1 	 sales annual
+12 	 13 	 (NP\NP)/NP 	 1 	 sales of
+12 	 20 	 (S[dcl]\NP)/NP 	 1 	 sales had
+14 	 13 	 (NP\NP)/NP 	 2 	 $ of
+16 	 14 	 N/N[num] 	 1 	 billion $
+16 	 15 	 N/N 	 1 	 billion 1.9
+18 	 20 	 (S[dcl]\NP)/NP 	 1 	 NYSE had
+22 	 21 	 (N/N)/(N/N) 	 2 	 minor only
+23 	 20 	 (S[dcl]\NP)/NP 	 2 	 damage had
+23 	 22 	 N/N 	 1 	 damage minor
+26 	 25 	 N/N 	 1 	 four only
+26 	 27 	 (NP\NP)/NP 	 1 	 four of
+26 	 40 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 four were
+26 	 41 	 S[adj]\NP 	 1 	 four closed <XB>
+31 	 27 	 (NP\NP)/NP 	 2 	 stores of
+31 	 28 	 NP[nb]/N 	 1 	 stores its
+31 	 29 	 N/N 	 1 	 stores 75
+31 	 30 	 N/N 	 1 	 stores Bay-area
+33 	 34 	 (NP\NP)/NP 	 1 	 all in
+33 	 40 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 all were
+33 	 41 	 S[adj]\NP 	 1 	 all closed <XB>
+38 	 34 	 (NP\NP)/NP 	 2 	 area in
+38 	 35 	 NP[nb]/N 	 1 	 area the
+38 	 36 	 N/N 	 1 	 area Santa
+38 	 37 	 N/N 	 1 	 area Cruz
+41 	 40 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed were
+<\s>
+<s id="wsj_1915.82"> 6
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 All are
+0 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 All expected <XB>
+0 	 4 	 S[b]\NP 	 1 	 All reopen <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+3 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reopen to
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 reopen soon
+<\s>
+<s id="wsj_1915.83"> 38
+2 	 0 	 N/N 	 1 	 CORP. LSI
+2 	 1 	 N/N 	 1 	 CORP. LOGIC
+2 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 CORP. has
+2 	 22 	 (S[pt]\NP)/NP 	 1 	 CORP. halted <XB>
+4 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Milpitas has
+4 	 22 	 (S[pt]\NP)/NP 	 1 	 Milpitas halted <XB>
+6 	 7 	 (NP\NP)/NP 	 1 	 maker of
+6 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 maker has
+6 	 22 	 (S[pt]\NP)/NP 	 1 	 maker halted <XB>
+10 	 7 	 (NP\NP)/NP 	 2 	 circuits of
+10 	 8 	 N/N 	 1 	 circuits customized
+10 	 9 	 N/N 	 1 	 circuits integrated
+13 	 12 	 N/N 	 1 	 sales annual
+13 	 14 	 (NP\NP)/NP 	 1 	 sales of
+13 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 sales has
+13 	 22 	 (S[pt]\NP)/NP 	 1 	 sales halted <XB>
+15 	 14 	 (NP\NP)/NP 	 2 	 $ of
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 550
+19 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 NYSE has
+19 	 22 	 (S[pt]\NP)/NP 	 1 	 NYSE halted <XB>
+22 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 halted has
+22 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 halted at
+22 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 halted while
+23 	 22 	 (S[pt]\NP)/NP 	 2 	 manufacturing halted
+27 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 plants at
+27 	 25 	 NP[nb]/N 	 1 	 plants its
+27 	 26 	 N/N 	 1 	 plants three
+27 	 28 	 (NP\NP)/NP 	 1 	 plants in
+30 	 28 	 (NP\NP)/NP 	 2 	 area in
+30 	 29 	 NP[nb]/N 	 1 	 area the
+32 	 33 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 they are
+32 	 34 	 (S[pss]\NP)/PP 	 1 	 they inspected <XB>
+33 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are while
+34 	 33 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 inspected are
+35 	 34 	 (S[pss]\NP)/PP 	 2 	 for inspected
+37 	 35 	 PP/NP 	 1 	 damage for
+37 	 36 	 N/N 	 1 	 damage structural
+<\s>
+<s id="wsj_1915.84"> 9
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 company expects
+1 	 4 	 (S[b]\NP)/NP 	 1 	 company resume <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 resume to
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 resume by
+6 	 4 	 (S[b]\NP)/NP 	 2 	 operations resume
+6 	 5 	 N/N 	 1 	 operations full
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 today by
+<\s>
+<s id="wsj_1915.85"> 36
+3 	 0 	 N/N 	 1 	 Co. R.H.
+3 	 1 	 N/N 	 1 	 Co. MACY
+3 	 2 	 N/N 	 1 	 Co. &
+3 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+6 	 5 	 N/N 	 1 	 York New
+6 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 York said
+8 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 retailer said
+11 	 10 	 N/N 	 1 	 sales annual
+11 	 12 	 (NP\NP)/NP 	 1 	 sales of
+11 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 sales said
+13 	 12 	 (NP\NP)/NP 	 2 	 $ of
+15 	 13 	 N/N[num] 	 1 	 billion $
+15 	 14 	 N/N 	 1 	 billion 7
+18 	 19 	 (S[dcl]\NP[thr])/NP 	 1 	 there was
+19 	 17 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+21 	 19 	 (S[dcl]\NP[thr])/NP 	 2 	 damage was
+21 	 20 	 N/N 	 1 	 damage minor
+21 	 22 	 (NP\NP)/NP 	 1 	 damage to
+26 	 22 	 (NP\NP)/NP 	 2 	 stores to
+26 	 23 	 NP[nb]/N 	 1 	 stores its
+26 	 24 	 N/N 	 1 	 stores 24
+26 	 25 	 N/N 	 1 	 stores Macy
+26 	 32 	 (NP\NP)/NP 	 1 	 stores in
+31 	 22 	 (NP\NP)/NP 	 2 	 stores to
+31 	 28 	 N/N 	 1 	 stores nine
+31 	 29 	 N/N 	 1 	 stores I.
+31 	 30 	 N/N 	 1 	 stores Magnin
+31 	 32 	 (NP\NP)/NP 	 1 	 stores in
+35 	 32 	 (NP\NP)/NP 	 2 	 area in
+35 	 33 	 NP[nb]/N 	 1 	 area the
+35 	 34 	 N/N 	 1 	 area Bay
+<\s>
+<s id="wsj_1915.86"> 33
+1 	 0 	 N/N 	 1 	 CORP. MEASUREX
+1 	 21 	 (S[dcl]\NP)/NP 	 1 	 CORP. had
+3 	 21 	 (S[dcl]\NP)/NP 	 1 	 Cupertino had
+5 	 6 	 (NP\NP)/NP 	 1 	 maker of
+5 	 21 	 (S[dcl]\NP)/NP 	 1 	 maker had
+10 	 6 	 (NP\NP)/NP 	 2 	 processes of
+10 	 7 	 N/N 	 1 	 processes computer
+10 	 8 	 N/N 	 1 	 processes integrated
+10 	 9 	 N/N 	 1 	 processes manufacturing
+13 	 12 	 N/N 	 1 	 sales annual
+13 	 14 	 (NP\NP)/NP 	 1 	 sales of
+13 	 21 	 (S[dcl]\NP)/NP 	 1 	 sales had
+15 	 14 	 (NP\NP)/NP 	 2 	 $ of
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 265
+19 	 21 	 (S[dcl]\NP)/NP 	 1 	 NYSE had
+23 	 22 	 (N/N)/(N/N) 	 2 	 minor only
+24 	 21 	 (S[dcl]\NP)/NP 	 2 	 damage had
+24 	 23 	 N/N 	 1 	 damage minor
+26 	 27 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 1 	 workers spent
+28 	 27 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 3 	 most spent
+28 	 29 	 (NP\NP)/NP 	 1 	 most of
+28 	 31 	 S[ng]\NP 	 1 	 most cleaning <XB>
+30 	 29 	 (NP\NP)/NP 	 2 	 yesterday of
+31 	 27 	 ((S[dcl]\NP)/(S[ng]\NP))/NP 	 2 	 cleaning spent
+31 	 32 	 (S\NP)\(S\NP) 	 2 	 cleaning up
+<\s>
+<s id="wsj_1915.87"> 37
+2 	 0 	 N/N 	 1 	 CORP. NATIONAL
+2 	 1 	 N/N 	 1 	 CORP. SEMICONDUCTOR
+2 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 CORP. said
+5 	 4 	 N/N 	 1 	 Clara Santa
+5 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 Clara said
+8 	 7 	 N/N 	 1 	 maker semiconductor
+8 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 maker said
+11 	 10 	 N/N 	 1 	 sales annual
+11 	 12 	 (NP\NP)/NP 	 1 	 sales of
+11 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 sales said
+13 	 12 	 (NP\NP)/NP 	 2 	 $ of
+15 	 13 	 N/N[num] 	 1 	 billion $
+15 	 14 	 N/N 	 1 	 billion 1.65
+17 	 19 	 (S[dcl]\NP)/S[dcl] 	 1 	 NYSE said
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 it had
+21 	 19 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+21 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 had at
+25 	 21 	 (S[dcl]\NP)/NP 	 2 	 damage had
+25 	 22 	 NP[nb]/N 	 1 	 damage no
+25 	 23 	 N/N 	 1 	 damage major
+25 	 24 	 N/N 	 1 	 damage structural
+30 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 buildings at
+30 	 27 	 NP[nb]/N 	 1 	 buildings its
+30 	 28 	 N/N 	 1 	 buildings 30
+30 	 29 	 N/N 	 1 	 buildings Bay-area
+34 	 33 	 N/N 	 1 	 workers two
+34 	 35 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 workers were
+34 	 36 	 S[pss]\NP 	 1 	 workers injured <XB>
+35 	 19 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+36 	 35 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 injured were
+<\s>
+<s id="wsj_1915.88"> 3
+0 	 1 	 S[dcl]\NP 	 1 	 Production resumed
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 resumed yesterday
+<\s>
+<s id="wsj_1915.89"> 8
+0 	 1 	 (NP\NP)/NP 	 1 	 Piping in
+0 	 5 	 (S[dcl]\NP)/NP 	 1 	 Piping needed
+4 	 1 	 (NP\NP)/NP 	 2 	 plant in
+4 	 2 	 NP[nb]/N 	 1 	 plant a
+4 	 3 	 N/N 	 1 	 plant waste-treatment
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 repairs needed
+7 	 6 	 N/N 	 1 	 repairs immediate
+<\s>
+<s id="wsj_1915.90"> 50
+1 	 0 	 N/N 	 1 	 INC. NORDSTROM
+1 	 36 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 INC. hopes
+1 	 38 	 (S[b]\NP)/NP 	 1 	 INC. reopen <XB>
+3 	 36 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Seattle hopes
+3 	 38 	 (S[b]\NP)/NP 	 1 	 Seattle reopen <XB>
+5 	 36 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 retailer hopes
+5 	 38 	 (S[b]\NP)/NP 	 1 	 retailer reopen <XB>
+8 	 7 	 N/N 	 1 	 sales annual
+8 	 9 	 (NP\NP)/N[num] 	 1 	 sales $
+8 	 36 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 sales hopes
+8 	 38 	 (S[b]\NP)/NP 	 1 	 sales reopen <XB>
+11 	 9 	 (NP\NP)/N[num] 	 2 	 billion $
+11 	 10 	 N/N 	 1 	 billion 2.33
+13 	 36 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 OTC hopes
+13 	 38 	 (S[b]\NP)/NP 	 1 	 OTC reopen <XB>
+15 	 16 	 (NP\NP)/NP 	 1 	 five of
+15 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 five were
+15 	 28 	 S[adj]\NP 	 1 	 five closed <XB>
+19 	 17 	 NP[nb]/N 	 1 	 chain this
+19 	 18 	 N/N 	 1 	 chain 59-store
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 chain 's
+22 	 16 	 (NP\NP)/NP 	 2 	 stores of
+22 	 20 	 (NP[nb]/N)\NP 	 1 	 stores 's
+22 	 21 	 N/N 	 1 	 stores nine
+22 	 23 	 (NP\NP)/NP 	 1 	 stores in
+26 	 23 	 (NP\NP)/NP 	 2 	 Area in
+26 	 24 	 NP[nb]/N 	 1 	 Area the
+26 	 25 	 N/N 	 1 	 Area Bay
+27 	 29 	 (S\NP)\(S\NP) 	 2 	 were yesterday
+27 	 32 	 ((((S\NP)/(S\NP))\((S\NP)/(S\NP)))\NP)/(S[adj]\NP) 	 3 	 were appears
+28 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed were
+31 	 32 	 ((((S\NP)/(S\NP))\((S\NP)/(S\NP)))\NP)/(S[adj]\NP) 	 4 	 damage appears
+34 	 32 	 ((((S\NP)/(S\NP))\((S\NP)/(S\NP)))\NP)/(S[adj]\NP) 	 5 	 cosmetic appears
+34 	 33 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 cosmetic primarily
+37 	 36 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to hopes
+38 	 37 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reopen to
+38 	 43 	 ((S\NP)\(S\NP))/NP 	 2 	 reopen by
+38 	 48 	 ((S\NP)\(S\NP))/NP 	 2 	 reopen by
+39 	 38 	 (S[b]\NP)/NP 	 2 	 four reopen
+39 	 40 	 (NP\NP)/NP 	 1 	 four of
+42 	 40 	 (NP\NP)/NP 	 2 	 stores of
+42 	 41 	 NP[nb]/N 	 1 	 stores the
+44 	 43 	 ((S\NP)\(S\NP))/NP 	 3 	 today by
+47 	 38 	 (S[b]\NP)/NP 	 2 	 fifth reopen
+47 	 46 	 NP[nb]/N 	 1 	 fifth the
+49 	 48 	 ((S\NP)\(S\NP))/NP 	 3 	 Saturday by
+<\s>
+<s id="wsj_1915.91"> 59
+2 	 0 	 N/N 	 1 	 CORP. ORACLE
+2 	 1 	 N/N 	 1 	 CORP. SYSTEMS
+2 	 46 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 CORP. expects
+2 	 49 	 (S[adj]\NP)/PP 	 1 	 CORP. back <XB>
+4 	 46 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Belmont expects
+4 	 49 	 (S[adj]\NP)/PP 	 1 	 Belmont back <XB>
+6 	 7 	 (NP\NP)/NP 	 1 	 provider of
+6 	 46 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 provider expects
+6 	 49 	 (S[adj]\NP)/PP 	 1 	 provider back <XB>
+12 	 7 	 (NP\NP)/NP 	 2 	 services of
+12 	 8 	 N/N 	 1 	 services computer
+12 	 9 	 N/N 	 1 	 services programming
+12 	 11 	 N/N 	 1 	 services software
+15 	 14 	 N/N 	 1 	 sales annual
+15 	 16 	 (NP\NP)/N[num] 	 1 	 sales $
+15 	 46 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 sales expects
+15 	 49 	 (S[adj]\NP)/PP 	 1 	 sales back <XB>
+18 	 16 	 (NP\NP)/N[num] 	 2 	 million $
+18 	 17 	 N/N 	 1 	 million 584
+20 	 21 	 (NP\NP)/NP 	 1 	 four of
+20 	 26 	 (NP\NP)/NP 	 1 	 four in
+20 	 33 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 four were
+20 	 34 	 S[adj]\NP 	 1 	 four closed <XB>
+23 	 21 	 (NP\NP)/NP 	 2 	 offices of
+23 	 22 	 N/N 	 1 	 offices 12
+25 	 21 	 (NP\NP)/NP 	 2 	 buildings of
+25 	 22 	 N/N 	 1 	 buildings 12
+32 	 26 	 (NP\NP)/NP 	 2 	 areas in
+32 	 27 	 NP[nb]/N 	 1 	 areas the
+32 	 28 	 N/N 	 1 	 areas Belmont
+32 	 30 	 N/N 	 1 	 areas San
+32 	 31 	 N/N 	 1 	 areas Mateo
+34 	 33 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed were
+37 	 36 	 N/N 	 1 	 % 95
+37 	 38 	 (NP\NP)/NP 	 1 	 % of
+37 	 43 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 % are
+37 	 44 	 S[ng]\NP 	 1 	 % operating <XB>
+42 	 38 	 (NP\NP)/NP 	 2 	 systems of
+42 	 39 	 N/N 	 1 	 systems computer
+42 	 41 	 N/N 	 1 	 systems telephone
+44 	 43 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 operating are
+47 	 46 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+48 	 47 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+48 	 53 	 ((S\NP)\(S\NP))/NP 	 2 	 be by
+49 	 48 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 back be
+50 	 49 	 (S[adj]\NP)/PP 	 2 	 to back
+52 	 50 	 PP/NP 	 1 	 operation to
+52 	 51 	 N/N 	 1 	 operation full
+55 	 53 	 ((S\NP)\(S\NP))/NP 	 3 	 end by
+55 	 54 	 NP[nb]/N 	 1 	 end the
+55 	 56 	 (NP\NP)/NP 	 1 	 end of
+58 	 56 	 (NP\NP)/NP 	 2 	 week of
+58 	 57 	 NP[nb]/N 	 1 	 week the
+<\s>
+<s id="wsj_1915.92"> 86
+4 	 0 	 N/N 	 1 	 CO. PACIFIC
+4 	 1 	 N/N 	 1 	 CO. GAS
+4 	 2 	 N/N 	 1 	 CO. &
+4 	 3 	 N/N 	 1 	 CO. ELECTRIC
+4 	 65 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 CO. can
+4 	 67 	 ((S[b]\NP)/NP)/NP 	 1 	 CO. reconnect <XB>
+7 	 6 	 N/N 	 1 	 Francisco San
+7 	 65 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Francisco can
+7 	 67 	 ((S[b]\NP)/NP)/NP 	 1 	 Francisco reconnect <XB>
+11 	 9 	 N/N 	 1 	 gas electric
+11 	 65 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 gas can
+11 	 67 	 ((S[b]\NP)/NP)/NP 	 1 	 gas reconnect <XB>
+14 	 9 	 N/N 	 1 	 supplier electric
+14 	 13 	 N/N 	 1 	 supplier water
+14 	 65 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 supplier can
+14 	 67 	 ((S[b]\NP)/NP)/NP 	 1 	 supplier reconnect <XB>
+17 	 16 	 N/N 	 1 	 sales annual
+17 	 18 	 (NP\NP)/N[num] 	 1 	 sales $
+17 	 65 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 sales can
+17 	 67 	 ((S[b]\NP)/NP)/NP 	 1 	 sales reconnect <XB>
+20 	 18 	 (NP\NP)/N[num] 	 2 	 billion $
+20 	 19 	 N/N 	 1 	 billion 7.6
+24 	 22 	 NP[nb]/N 	 1 	 damage some
+24 	 23 	 N/N 	 1 	 damage minor
+24 	 25 	 (NP\NP)/NP 	 1 	 damage to
+24 	 65 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 damage can
+24 	 67 	 ((S[b]\NP)/NP)/NP 	 1 	 damage reconnect <XB>
+26 	 25 	 (NP\NP)/NP 	 2 	 headquarters to
+29 	 28 	 N/N 	 1 	 damage undetermined
+29 	 30 	 (NP\NP)/NP 	 1 	 damage to
+29 	 65 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 damage can
+29 	 67 	 ((S[b]\NP)/NP)/NP 	 1 	 damage reconnect <XB>
+33 	 30 	 (NP\NP)/NP 	 2 	 substations to
+33 	 31 	 N/N 	 1 	 substations four
+33 	 32 	 N/N 	 1 	 substations nearby
+37 	 35 	 N/N 	 1 	 damage severe
+37 	 36 	 N/N 	 1 	 damage structural
+37 	 38 	 (NP\NP)/NP 	 1 	 damage to
+37 	 65 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 damage can
+37 	 67 	 ((S[b]\NP)/NP)/NP 	 1 	 damage reconnect <XB>
+42 	 38 	 (NP\NP)/NP 	 2 	 plant to
+42 	 39 	 NP[nb]/N 	 1 	 plant a
+42 	 40 	 N/N 	 1 	 plant major
+42 	 41 	 N/N 	 1 	 plant power
+42 	 43 	 (NP\NP)/NP 	 1 	 plant at
+45 	 43 	 (NP\NP)/NP 	 2 	 Landing at
+45 	 44 	 N/N 	 1 	 Landing Moss
+48 	 47 	 N/N 	 1 	 damage extensive
+48 	 49 	 (NP\NP)/NP 	 1 	 damage to
+48 	 65 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 damage can
+48 	 67 	 ((S[b]\NP)/NP)/NP 	 1 	 damage reconnect <XB>
+51 	 49 	 (NP\NP)/NP 	 2 	 lines to
+51 	 50 	 N/N 	 1 	 lines gas
+54 	 49 	 (NP\NP)/NP 	 2 	 lines to
+54 	 53 	 N/N 	 1 	 lines electric
+57 	 56 	 N/N 	 1 	 residences 400,000
+57 	 58 	 (NP\NP)/NP 	 1 	 residences without
+57 	 65 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 residences can
+57 	 67 	 ((S[b]\NP)/NP)/NP 	 1 	 residences reconnect <XB>
+59 	 58 	 (NP\NP)/NP 	 2 	 electricity without
+61 	 62 	 (NP\NP)/NP 	 1 	 69,000 without
+61 	 65 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 69,000 can
+61 	 67 	 ((S[b]\NP)/NP)/NP 	 1 	 69,000 reconnect <XB>
+63 	 62 	 (NP\NP)/NP 	 2 	 gas without
+65 	 66 	 (S\NP)\(S\NP) 	 2 	 can not
+67 	 65 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 reconnect can
+67 	 69 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 reconnect until
+68 	 67 	 ((S[b]\NP)/NP)/NP 	 3 	 electricity reconnect
+70 	 71 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it is
+70 	 72 	 (S[adj]\NP)/S[dcl] 	 1 	 it certain <XB>
+71 	 69 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is until
+72 	 71 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 certain is
+73 	 74 	 (S[dcl]\NP[thr])/NP 	 1 	 there are
+74 	 72 	 (S[adj]\NP)/S[dcl] 	 2 	 are certain
+77 	 74 	 (S[dcl]\NP[thr])/NP 	 2 	 leaks are
+77 	 75 	 NP[nb]/N 	 1 	 leaks no
+77 	 76 	 N/N 	 1 	 leaks gas
+80 	 67 	 ((S[b]\NP)/NP)/NP 	 2 	 predictions reconnect
+80 	 79 	 NP[nb]/N 	 1 	 predictions no
+80 	 81 	 (NP\NP)/S 	 1 	 predictions on
+82 	 81 	 (NP\NP)/S 	 2 	 when on
+83 	 84 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 this will
+83 	 85 	 S[b]\NP 	 1 	 this happen <XB>
+84 	 82 	 S/S[dcl] 	 1 	 will when
+85 	 84 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 happen will
+<\s>
+<s id="wsj_1915.93"> 89
+2 	 0 	 N/N 	 1 	 GROUP PACIFIC
+2 	 1 	 N/N 	 1 	 GROUP TELESIS
+2 	 65 	 NP\NP 	 1 	 GROUP damage
+5 	 4 	 N/N 	 1 	 Francisco San
+5 	 65 	 NP\NP 	 1 	 Francisco damage
+9 	 7 	 N/N 	 1 	 company telecommunications
+9 	 8 	 N/N 	 1 	 company holding
+9 	 65 	 NP\NP 	 1 	 company damage
+12 	 11 	 N/N 	 1 	 sales annual
+12 	 13 	 (NP\NP)/NP 	 1 	 sales of
+12 	 65 	 NP\NP 	 1 	 sales damage
+14 	 13 	 (NP\NP)/NP 	 2 	 $ of
+16 	 14 	 N/N[num] 	 1 	 billion $
+16 	 15 	 N/N 	 1 	 billion 9.5
+19 	 18 	 NP[nb]/N 	 1 	 damage no
+19 	 20 	 (NP\NP)/NP 	 1 	 damage to
+19 	 65 	 NP\NP 	 1 	 damage damage
+21 	 20 	 (NP\NP)/NP 	 2 	 headquarters to
+25 	 24 	 NP[nb]/N 	 1 	 power no
+25 	 65 	 NP\NP 	 1 	 power damage
+29 	 27 	 NP[nb]/N 	 1 	 failure the
+29 	 28 	 N/N 	 1 	 failure power
+29 	 30 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 failure has
+29 	 31 	 (S[pt]\NP)/NP 	 1 	 failure caused <XB>
+31 	 30 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 caused has
+33 	 31 	 (S[pt]\NP)/NP 	 2 	 delay caused
+33 	 32 	 NP[nb]/N 	 1 	 delay a
+33 	 34 	 (NP\NP)/NP 	 1 	 delay in
+36 	 34 	 (NP\NP)/NP 	 2 	 release in
+36 	 35 	 NP[nb]/N 	 1 	 release the
+36 	 37 	 (NP\NP)/NP 	 1 	 release of
+39 	 38 	 NP[nb]/N 	 1 	 company the
+39 	 40 	 (NP[nb]/N)\NP 	 2 	 company 's
+42 	 37 	 (NP\NP)/NP 	 2 	 report of
+42 	 40 	 (NP[nb]/N)\NP 	 1 	 report 's
+42 	 41 	 N/N 	 1 	 report earnings
+45 	 44 	 N/N 	 1 	 concern major
+45 	 46 	 (S[dcl]\NP)/NP 	 1 	 concern is
+47 	 46 	 (S[dcl]\NP)/NP 	 2 	 subsidiaries is
+47 	 58 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 1 	 subsidiaries which
+50 	 46 	 (S[dcl]\NP)/NP 	 2 	 Bell is
+50 	 49 	 N/N 	 1 	 Bell Pacific
+50 	 58 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 1 	 Bell which
+54 	 46 	 (S[dcl]\NP)/NP 	 2 	 Cellular is
+54 	 52 	 N/N 	 1 	 Cellular Pacific
+54 	 53 	 N/N 	 1 	 Cellular Telesis
+54 	 58 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 1 	 Cellular which
+56 	 57 	 (NP\NP)/NP 	 1 	 both of
+56 	 58 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 3 	 both which
+59 	 58 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 2 	 sustained which
+60 	 59 	 (S[dcl]\NP)/NP 	 2 	 damage sustained
+60 	 61 	 (NP\NP)/NP 	 1 	 damage to
+62 	 61 	 (NP\NP)/NP 	 2 	 buildings to
+65 	 64 	 (NP\NP)/(NP\NP) 	 2 	 damage structural
+65 	 66 	 ((NP\NP)\(NP\NP))/NP 	 2 	 damage to
+69 	 66 	 ((NP\NP)\(NP\NP))/NP 	 3 	 sites to
+69 	 67 	 N/N 	 1 	 sites several
+69 	 68 	 N/N 	 1 	 sites cellular
+69 	 70 	 (NP\NP)/NP 	 1 	 sites in
+72 	 70 	 (NP\NP)/NP 	 2 	 Cruz in
+72 	 71 	 N/N 	 1 	 Cruz Santa
+74 	 75 	 (NP\NP)/NP 	 1 	 volume of
+74 	 82 	 (S\NP)/N 	 1 	 volume the
+74 	 85 	 (S[ng]\NP)/NP 	 1 	 volume causing <XB>
+76 	 75 	 (NP\NP)/NP 	 2 	 calls of
+76 	 77 	 (NP\NP)/NP 	 1 	 calls on
+79 	 77 	 (NP\NP)/NP 	 2 	 phones on
+79 	 78 	 N/N 	 1 	 phones cellular
+81 	 80 	 (S/S)/(S/S) 	 2 	 times 10
+82 	 81 	 S/S 	 1 	 the times
+83 	 82 	 (S\NP)/N 	 2 	 usual the
+88 	 85 	 (S[ng]\NP)/NP 	 2 	 slowdown causing
+88 	 86 	 NP[nb]/N 	 1 	 slowdown a
+88 	 87 	 N/N 	 1 	 slowdown big
+<\s>
+<s id="wsj_1915.94"> 38
+3 	 0 	 N/N 	 1 	 CO. PROCTER
+3 	 1 	 N/N 	 1 	 CO. &
+3 	 2 	 N/N 	 1 	 CO. GAMBLE
+3 	 21 	 (NP\NP)/N 	 1 	 CO. no
+3 	 25 	 NP\NP 	 1 	 CO. damage <XU>
+6 	 5 	 N/N 	 1 	 company Cincinnati-based
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 company 's
+10 	 7 	 (NP[nb]/N)\NP 	 1 	 plant 's
+10 	 8 	 N/N 	 1 	 plant Folgers
+10 	 9 	 N/N 	 1 	 plant Coffee
+10 	 11 	 (NP\NP)/NP 	 1 	 plant in
+10 	 15 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 plant was
+10 	 16 	 S[adj]\NP 	 1 	 plant closed <XB>
+14 	 11 	 (NP\NP)/NP 	 2 	 Francisco in
+14 	 12 	 N/N 	 1 	 Francisco South
+14 	 13 	 N/N 	 1 	 Francisco San
+15 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 was following
+16 	 15 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed was
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 earthquake following
+19 	 18 	 NP[nb]/N 	 1 	 earthquake the
+22 	 21 	 (NP\NP)/N 	 2 	 injuries no
+25 	 24 	 (NP\NP)/(NP\NP) 	 2 	 damage major
+28 	 27 	 N/N 	 1 	 plants other
+28 	 29 	 (NP\NP)/NP 	 1 	 plants around
+28 	 31 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 plants can
+28 	 32 	 (S[b]\NP)/PP 	 1 	 plants make <XB>
+30 	 29 	 (NP\NP)/NP 	 2 	 country around
+32 	 31 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make can
+32 	 33 	 (S\NP)\(S\NP) 	 2 	 make up
+34 	 32 	 (S[b]\NP)/PP 	 2 	 for make
+37 	 34 	 PP/NP 	 1 	 production for
+37 	 35 	 NP[nb]/N 	 1 	 production any
+37 	 36 	 N/N 	 1 	 production lost
+<\s>
+<s id="wsj_1915.96"> 24
+1 	 0 	 N/N 	 1 	 CORP. RAYCHEM
+4 	 3 	 N/N 	 1 	 Park Menlo
+7 	 6 	 N/N 	 1 	 manufacturer plastics
+10 	 9 	 N/N 	 1 	 sales annual
+10 	 11 	 (NP\NP)/N[num] 	 1 	 sales $
+13 	 11 	 (NP\NP)/N[num] 	 2 	 billion $
+13 	 12 	 N/N 	 1 	 billion 1
+17 	 15 	 NP[nb]/N 	 1 	 damage no
+17 	 16 	 N/N 	 1 	 damage major
+21 	 19 	 NP[nb]/N 	 1 	 slowdown no
+21 	 20 	 N/N 	 1 	 slowdown production
+21 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 slowdown is
+21 	 23 	 S[pss]\NP 	 1 	 slowdown anticipated <XB>
+23 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 anticipated is
+<\s>
+<s id="wsj_1915.97"> 32
+2 	 0 	 N/N 	 1 	 INC. ROSS
+2 	 1 	 N/N 	 1 	 INC. STORES
+8 	 6 	 N/N 	 1 	 chain discount
+8 	 7 	 N/N 	 1 	 chain apparel
+11 	 10 	 N/N 	 1 	 sales annual
+11 	 12 	 (NP\NP)/N[num] 	 1 	 sales $
+14 	 12 	 (NP\NP)/N[num] 	 2 	 million $
+14 	 13 	 N/N 	 1 	 million 576
+16 	 17 	 (N\N)/NP 	 1 	 two of
+16 	 20 	 (NP\NP)/NP 	 1 	 two in
+16 	 23 	 S[adj]\NP 	 1 	 two closed <XB>
+19 	 17 	 (N\N)/NP 	 2 	 stores of
+19 	 18 	 N/N 	 1 	 stores 28
+22 	 20 	 (NP\NP)/NP 	 2 	 Area in
+22 	 21 	 N/N 	 1 	 Area Bay
+25 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 both could
+25 	 27 	 S[b]\NP 	 1 	 both open <XB>
+27 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 open could
+27 	 29 	 ((S\NP)\(S\NP))/PP 	 2 	 open early
+29 	 28 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 early as
+30 	 29 	 ((S\NP)\(S\NP))/PP 	 3 	 as early
+31 	 30 	 PP/NP 	 1 	 today as
+<\s>
+<s id="wsj_1915.98"> 44
+2 	 0 	 N/N 	 1 	 INC. SAFEWAY
+2 	 1 	 N/N 	 1 	 INC. STORES
+8 	 6 	 N/N 	 1 	 chain retail
+8 	 7 	 N/N 	 1 	 chain food
+11 	 10 	 N/N 	 1 	 sales annual
+11 	 12 	 (NP\NP)/NP 	 1 	 sales of
+13 	 12 	 (NP\NP)/NP 	 2 	 $ of
+15 	 13 	 N/N[num] 	 1 	 billion $
+15 	 14 	 N/N 	 1 	 billion 13.6
+19 	 17 	 NP[nb]/N 	 1 	 damage some
+19 	 18 	 N/N 	 1 	 damage structural
+19 	 20 	 (NP\NP)/NP 	 1 	 damage to
+21 	 20 	 (NP\NP)/NP 	 2 	 headquarters to
+24 	 23 	 NP[nb]/N 	 1 	 power no
+27 	 26 	 N/N 	 1 	 problems major
+27 	 28 	 (S[ng]\NP)/NP 	 1 	 problems transporting <XB>
+28 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 transporting to
+29 	 28 	 (S[ng]\NP)/NP 	 2 	 products transporting
+32 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 stores to
+32 	 31 	 NP[nb]/N 	 1 	 stores those
+32 	 33 	 (NP\NP)/(S[dcl]\NP) 	 1 	 stores that
+32 	 34 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 stores remained <XB>
+32 	 35 	 S[adj]\NP 	 1 	 stores open <XB>
+34 	 33 	 (NP\NP)/(S[dcl]\NP) 	 2 	 remained that
+35 	 34 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 open remained
+38 	 37 	 NP[nb]/N 	 1 	 numbers no
+38 	 39 	 (NP\NP)/S[qem] 	 1 	 numbers on
+40 	 39 	 (NP\NP)/S[qem] 	 2 	 how on
+41 	 40 	 ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP) 	 3 	 many how
+42 	 40 	 ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP) 	 2 	 stores how
+43 	 40 	 ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP) 	 1 	 closed how
+<\s>
+<s id="wsj_1915.99"> 36
+3 	 0 	 N/N 	 1 	 CO. CHARLES
+3 	 1 	 N/N 	 1 	 CO. SCHWAB
+3 	 2 	 N/N 	 1 	 CO. &
+3 	 19 	 (S[dcl]\NP)/NP 	 1 	 CO. had
+3 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 CO. was <XU>
+3 	 28 	 S[adj]\NP 	 1 	 CO. up <XU>
+3 	 30 	 S[adj]\NP 	 1 	 CO. running <XU>
+6 	 5 	 N/N 	 1 	 Francisco San
+6 	 19 	 (S[dcl]\NP)/NP 	 1 	 Francisco had
+6 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Francisco was <XU>
+6 	 28 	 S[adj]\NP 	 1 	 Francisco up <XU>
+6 	 30 	 S[adj]\NP 	 1 	 Francisco running <XU>
+10 	 8 	 N/N 	 1 	 firm discount
+10 	 9 	 N/N 	 1 	 firm brokerage
+10 	 19 	 (S[dcl]\NP)/NP 	 1 	 firm had
+10 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 firm was <XU>
+10 	 28 	 S[adj]\NP 	 1 	 firm up <XU>
+10 	 30 	 S[adj]\NP 	 1 	 firm running <XU>
+13 	 12 	 N/N 	 1 	 sales annual
+13 	 14 	 (NP\NP)/NP 	 1 	 sales of
+13 	 19 	 (S[dcl]\NP)/NP 	 1 	 sales had
+13 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 sales was <XU>
+13 	 28 	 S[adj]\NP 	 1 	 sales up <XU>
+13 	 30 	 S[adj]\NP 	 1 	 sales running <XU>
+15 	 14 	 (NP\NP)/NP 	 2 	 $ of
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 392
+21 	 20 	 (N/N)/(N/N) 	 2 	 minor only
+22 	 19 	 (S[dcl]\NP)/NP 	 2 	 damage had
+22 	 21 	 N/N 	 1 	 damage minor
+22 	 23 	 (NP\NP)/NP 	 1 	 damage to
+25 	 23 	 (NP\NP)/NP 	 2 	 building to
+25 	 24 	 N/N 	 1 	 building headquarters
+27 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 was for
+28 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 up was
+30 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 running was
+32 	 33 	 (NP[nb]/N)\NP 	 2 	 yesterday 's
+35 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 open for
+35 	 33 	 (NP[nb]/N)\NP 	 1 	 open 's
+35 	 34 	 N/N 	 1 	 open market
+<\s>
+<s id="wsj_1915.100"> 15
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Firm will
+0 	 6 	 (S[b]\NP)/NP 	 1 	 Firm resume <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 will not
+1 	 4 	 (S\NP)\(S\NP) 	 2 	 will however
+6 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 resume will
+6 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 resume until
+8 	 6 	 (S[b]\NP)/NP 	 2 	 service resume
+8 	 7 	 N/N 	 1 	 service 24-hour
+10 	 11 	 (NP\NP)/NP 	 1 	 power in
+10 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 power is
+10 	 14 	 S[pss]\NP 	 1 	 power restored <XB>
+12 	 11 	 (NP\NP)/NP 	 2 	 city in
+13 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is until
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 restored is
+<\s>
+<s id="wsj_1915.101"> 7
+0 	 1 	 S[dcl]\NP 	 1 	 Office closed
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 closed yesterday
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 closed at
+6 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 EDT at
+6 	 4 	 N/N 	 1 	 EDT 4:30
+6 	 5 	 N/N 	 1 	 EDT p.m.
+<\s>
+<s id="wsj_1915.102"> 38
+1 	 0 	 N/N 	 1 	 TECHNOLOGY SEAGATE
+1 	 23 	 S[dcl]\NP 	 1 	 TECHNOLOGY closed
+1 	 25 	 (S[b]\NP)/NP 	 1 	 TECHNOLOGY assess <XB>
+4 	 3 	 N/N 	 1 	 Valley Scotts
+4 	 23 	 S[dcl]\NP 	 1 	 Valley closed
+4 	 25 	 (S[b]\NP)/NP 	 1 	 Valley assess <XB>
+6 	 7 	 (NP\NP)/NP 	 1 	 maker of
+6 	 23 	 S[dcl]\NP 	 1 	 maker closed
+6 	 25 	 (S[b]\NP)/NP 	 1 	 maker assess <XB>
+10 	 7 	 (NP\NP)/NP 	 2 	 drives of
+10 	 8 	 N/N 	 1 	 drives hard
+10 	 9 	 N/N 	 1 	 drives disk
+10 	 11 	 (NP\NP)/NP 	 1 	 drives for
+12 	 11 	 (NP\NP)/NP 	 2 	 computers for
+15 	 14 	 N/N 	 1 	 sales annual
+15 	 16 	 (NP\NP)/NP 	 1 	 sales of
+15 	 23 	 S[dcl]\NP 	 1 	 sales closed
+15 	 25 	 (S[b]\NP)/NP 	 1 	 sales assess <XB>
+17 	 16 	 (NP\NP)/NP 	 2 	 $ of
+19 	 17 	 N/N[num] 	 1 	 billion $
+19 	 18 	 N/N 	 1 	 billion 1.37
+21 	 23 	 S[dcl]\NP 	 1 	 OTC closed
+21 	 25 	 (S[b]\NP)/NP 	 1 	 OTC assess <XB>
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 assess to
+26 	 25 	 (S[b]\NP)/NP 	 2 	 what assess
+26 	 27 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 what appeared <XB>
+26 	 29 	 (S[b]\NP)/NP 	 1 	 what be <XB>
+27 	 26 	 NP/(S[dcl]\NP) 	 1 	 appeared what
+28 	 27 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to appeared
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+31 	 29 	 (S[b]\NP)/NP 	 2 	 damage be
+31 	 30 	 N/N 	 1 	 damage minor
+31 	 32 	 (NP\NP)/NP 	 1 	 damage to
+33 	 32 	 (NP\NP)/NP 	 2 	 some to
+33 	 34 	 (NP\NP)/NP 	 1 	 some of
+37 	 34 	 (NP\NP)/NP 	 2 	 buildings of
+37 	 35 	 NP[nb]/N 	 1 	 buildings its
+37 	 36 	 N/N 	 1 	 buildings 20
+<\s>
+<s id="wsj_1915.103"> 33
+3 	 0 	 N/N 	 1 	 CO. SOUTHERN
+3 	 1 	 N/N 	 1 	 CO. PACIFIC
+3 	 2 	 N/N 	 1 	 CO. TRANSPORTATION
+3 	 17 	 (S[dcl]\NP)/NP 	 1 	 CO. had
+3 	 27 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 CO. expects <XU>
+3 	 31 	 S[adj]\NP 	 1 	 CO. operational <XU>
+6 	 5 	 N/N 	 1 	 Francisco San
+6 	 17 	 (S[dcl]\NP)/NP 	 1 	 Francisco had
+6 	 27 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Francisco expects <XU>
+6 	 31 	 S[adj]\NP 	 1 	 Francisco operational <XU>
+8 	 17 	 (S[dcl]\NP)/NP 	 1 	 railroad had
+8 	 27 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 railroad expects <XU>
+8 	 31 	 S[adj]\NP 	 1 	 railroad operational <XU>
+11 	 10 	 N/N 	 1 	 sales annual
+11 	 12 	 (NP\NP)/NP 	 1 	 sales of
+11 	 17 	 (S[dcl]\NP)/NP 	 1 	 sales had
+11 	 27 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 sales expects <XU>
+11 	 31 	 S[adj]\NP 	 1 	 sales operational <XU>
+13 	 12 	 (NP\NP)/NP 	 2 	 $ of
+15 	 13 	 N/N[num] 	 1 	 billion $
+15 	 14 	 N/N 	 1 	 billion 2.41
+19 	 18 	 (N/N)/(N/N) 	 2 	 minor only
+20 	 17 	 (S[dcl]\NP)/NP 	 2 	 damage had
+20 	 19 	 N/N 	 1 	 damage minor
+20 	 21 	 (NP\NP)/NP 	 1 	 damage to
+22 	 21 	 (NP\NP)/NP 	 2 	 headquarters to
+24 	 21 	 (NP\NP)/NP 	 2 	 tracks to
+28 	 27 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+29 	 32 	 (S\NP)\(S\NP) 	 2 	 be tomorrow
+31 	 29 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 operational be
+31 	 30 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operational fully
+<\s>
+<s id="wsj_1915.104"> 28
+5 	 0 	 N/N 	 1 	 unit St.
+5 	 1 	 N/N 	 1 	 unit Louis
+5 	 2 	 N/N 	 1 	 unit Southwestern
+5 	 3 	 N/N 	 1 	 unit Railway
+5 	 4 	 N/N 	 1 	 unit Co.
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 unit halted
+5 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 unit has <XU>
+5 	 14 	 (S[pt]\NP)/NP 	 1 	 unit restored <XU>
+6 	 10 	 (S\NP)\(S\NP) 	 2 	 halted night
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 service halted
+8 	 7 	 NP[nb]/N 	 1 	 service all
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 night Tuesday
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 has since
+14 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 restored has
+17 	 14 	 (S[pt]\NP)/NP 	 2 	 lines restored
+17 	 15 	 NP[nb]/N 	 1 	 lines some
+17 	 16 	 N/N 	 1 	 lines freight
+17 	 22 	 (NP\NP)/NP 	 1 	 lines between
+21 	 14 	 (S[pt]\NP)/NP 	 2 	 service restored
+21 	 19 	 N/N 	 1 	 service limited
+21 	 20 	 N/N 	 1 	 service commuter
+21 	 22 	 (NP\NP)/NP 	 1 	 service between
+24 	 22 	 (NP\NP)/NP 	 2 	 Francisco between
+24 	 23 	 N/N 	 1 	 Francisco San
+27 	 22 	 (NP\NP)/NP 	 2 	 Jose between
+27 	 26 	 N/N 	 1 	 Jose San
+<\s>
+<s id="wsj_1915.105"> 29
+2 	 0 	 N/N 	 1 	 INC. SUN
+2 	 1 	 N/N 	 1 	 INC. MICROSYSTEMS
+5 	 4 	 N/N 	 1 	 View Mountain
+7 	 8 	 (NP\NP)/NP 	 1 	 maker of
+10 	 8 	 (NP\NP)/NP 	 2 	 computers of
+10 	 9 	 N/N 	 1 	 computers desktop
+13 	 12 	 N/N 	 1 	 sales annual
+13 	 14 	 (NP\NP)/N[num] 	 1 	 sales $
+16 	 14 	 (NP\NP)/N[num] 	 2 	 billion $
+16 	 15 	 N/N 	 1 	 billion 1.77
+22 	 20 	 NP[nb]/N 	 1 	 employees no
+22 	 21 	 N/N 	 1 	 employees injured
+25 	 24 	 (N/N)/(N/N) 	 2 	 little very
+26 	 25 	 N/N 	 1 	 damage little
+26 	 27 	 (NP\NP)/NP 	 1 	 damage to
+28 	 27 	 (NP\NP)/NP 	 2 	 buildings to
+<\s>
+<s id="wsj_1915.106"> 6
+0 	 3 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 Closed to
+1 	 0 	 (S[adj]\NP)/NP 	 2 	 yesterday Closed
+3 	 2 	 ((S[adj]\NP)\(S[adj]\NP))/((S[adj]\NP)\(S[adj]\NP)) 	 3 	 to due
+5 	 3 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 difficulties to
+5 	 4 	 N/N 	 1 	 difficulties power
+<\s>
+<s id="wsj_1915.107"> 32
+2 	 0 	 N/N 	 1 	 INC. TANDEM
+2 	 1 	 N/N 	 1 	 INC. COMPUTERS
+2 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 INC. said
+4 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 Cupertino said
+7 	 6 	 N/N 	 1 	 maker computer
+7 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 maker said
+10 	 9 	 N/N 	 1 	 sales annual
+10 	 11 	 (NP\NP)/NP 	 1 	 sales of
+10 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 sales said
+12 	 11 	 (NP\NP)/NP 	 2 	 $ of
+14 	 12 	 N/N[num] 	 1 	 billion $
+14 	 13 	 N/N 	 1 	 billion 1.6
+16 	 18 	 (S[dcl]\NP)/S[dcl] 	 1 	 NYSE said
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 it had
+19 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it should <XU>
+19 	 28 	 S[adj]\NP 	 1 	 it operational <XU>
+20 	 18 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+23 	 20 	 (S[dcl]\NP)/NP 	 2 	 damage had
+23 	 21 	 NP[nb]/N 	 1 	 damage no
+23 	 22 	 N/N 	 1 	 damage significant
+25 	 18 	 (S[dcl]\NP)/S[dcl] 	 2 	 should said
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be should
+26 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 be within
+28 	 26 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 operational be
+28 	 27 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operational fully
+31 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 week within
+31 	 30 	 NP[nb]/N 	 1 	 week a
+<\s>
+<s id="wsj_1915.108"> 12
+1 	 0 	 N/N 	 1 	 employees Many
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 employees stayed
+1 	 3 	 S[adj]\NP 	 1 	 employees home <XB>
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 stayed yesterday
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 home stayed
+8 	 7 	 N/N 	 1 	 service customer
+8 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 service was
+8 	 10 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 service being <XB>
+8 	 11 	 S[pss]\NP 	 1 	 service maintained <XB>
+10 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being was
+11 	 10 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 maintained being
+<\s>
+<s id="wsj_1915.109"> 36
+1 	 0 	 N/N 	 1 	 CORP. TRANSAMERICA
+1 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 CORP. said
+4 	 3 	 N/N 	 1 	 Francisco San
+4 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 Francisco said
+10 	 6 	 N/N 	 1 	 company financial
+10 	 7 	 N/N 	 1 	 company services
+10 	 9 	 N/N 	 1 	 company insurance
+10 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+13 	 12 	 N/N 	 1 	 sales annual
+13 	 14 	 (NP\NP)/NP 	 1 	 sales of
+13 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 sales said
+15 	 14 	 (NP\NP)/NP 	 2 	 $ of
+17 	 15 	 N/N[num] 	 1 	 billion $
+17 	 16 	 N/N 	 1 	 billion 7.9
+19 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 NYSE said
+23 	 22 	 NP[nb]/N 	 1 	 headquarters its
+23 	 31 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 headquarters was
+23 	 32 	 S[adj]\NP 	 1 	 headquarters intact <XB>
+23 	 34 	 S[adj]\NP 	 1 	 headquarters closed <XU>
+29 	 25 	 NP[nb]/N 	 1 	 building the
+29 	 26 	 N/N 	 1 	 building well-known
+29 	 27 	 N/N 	 1 	 building downtown
+29 	 28 	 N/N 	 1 	 building pyramid-shaped
+29 	 31 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 building was
+29 	 32 	 S[adj]\NP 	 1 	 building intact <XB>
+29 	 34 	 S[adj]\NP 	 1 	 building closed <XU>
+31 	 21 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+31 	 35 	 (S\NP)\(S\NP) 	 2 	 was yesterday
+32 	 31 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 intact was
+34 	 31 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed was
+<\s>
+<s id="wsj_1915.110"> 29
+2 	 0 	 N/N 	 1 	 INC. VARIAN
+2 	 1 	 N/N 	 1 	 INC. ASSOCIATES
+2 	 20 	 (S[dcl]\NP)/NP 	 1 	 INC. had
+5 	 4 	 N/N 	 1 	 Alto Palo
+5 	 20 	 (S[dcl]\NP)/NP 	 1 	 Alto had
+7 	 20 	 (S[dcl]\NP)/NP 	 1 	 instrumentation had
+11 	 9 	 N/N 	 1 	 company semiconductor
+11 	 10 	 N/N 	 1 	 company equipment
+11 	 20 	 (S[dcl]\NP)/NP 	 1 	 company had
+14 	 13 	 N/N 	 1 	 sales annual
+14 	 15 	 (NP\NP)/NP 	 1 	 sales of
+14 	 20 	 (S[dcl]\NP)/NP 	 1 	 sales had
+16 	 15 	 (NP\NP)/NP 	 2 	 $ of
+18 	 16 	 N/N[num] 	 1 	 billion $
+18 	 17 	 N/N 	 1 	 billion 1.3
+22 	 21 	 (N/N)/(N/N) 	 2 	 minor only
+23 	 20 	 (S[dcl]\NP)/NP 	 2 	 damage had
+23 	 22 	 N/N 	 1 	 damage minor
+26 	 25 	 NP[nb]/N 	 1 	 slowdowns no
+26 	 27 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 slowdowns were
+26 	 28 	 S[pss]\NP 	 1 	 slowdowns anticipated <XB>
+28 	 27 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 anticipated were
+<\s>
+<s id="wsj_1915.111"> 36
+2 	 0 	 N/N 	 1 	 INC. VLSI
+2 	 1 	 N/N 	 1 	 INC. TECHNOLOGY
+2 	 28 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 INC. expected
+5 	 4 	 N/N 	 1 	 Jose San
+5 	 28 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Jose expected
+7 	 8 	 (NP\NP)/NP 	 1 	 maker of
+7 	 28 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 maker expected
+10 	 8 	 (NP\NP)/NP 	 2 	 products of
+10 	 9 	 N/N 	 1 	 products semiconductor
+13 	 12 	 N/N 	 1 	 sales annual
+13 	 14 	 (NP\NP)/N[num] 	 1 	 sales $
+13 	 28 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 sales expected
+16 	 14 	 (NP\NP)/N[num] 	 2 	 million $
+16 	 15 	 N/N 	 1 	 million 171.9
+18 	 28 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 OTC expected
+21 	 20 	 N/N 	 1 	 damage minimal
+21 	 22 	 (NP\NP)/NP 	 1 	 damage to
+21 	 28 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 damage expected
+23 	 22 	 (NP\NP)/NP 	 2 	 facilities to
+26 	 25 	 NP[nb]/N 	 1 	 injuries no
+26 	 28 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 injuries expected
+29 	 28 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 operations expected
+29 	 31 	 S[b]\NP 	 1 	 operations return <XB>
+30 	 28 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expected
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 return to
+31 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 return to
+31 	 34 	 (S\NP)\(S\NP) 	 2 	 return late
+33 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 normal to
+34 	 35 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 late yesterday
+<\s>
+<s id="wsj_1915.112"> 48
+1 	 0 	 N/N 	 1 	 CO. WATKINS-JOHNSON
+1 	 33 	 (S[ng]\NP)/NP 	 1 	 CO. assessing <XB>
+5 	 3 	 N/N 	 1 	 manufacturer defense-oriented
+5 	 4 	 N/N 	 1 	 manufacturer electronics
+5 	 33 	 (S[ng]\NP)/NP 	 1 	 manufacturer assessing <XB>
+8 	 7 	 N/N 	 1 	 sales annual
+8 	 9 	 (NP\NP)/N[num] 	 1 	 sales $
+8 	 33 	 (S[ng]\NP)/NP 	 1 	 sales assessing <XB>
+11 	 9 	 (NP\NP)/N[num] 	 2 	 million $
+11 	 10 	 N/N 	 1 	 million 292
+13 	 33 	 (S[ng]\NP)/NP 	 1 	 NYSE assessing <XB>
+16 	 15 	 N/N 	 1 	 damage minor
+16 	 17 	 (NP\NP)/NP 	 1 	 damage to
+16 	 33 	 (S[ng]\NP)/NP 	 1 	 damage assessing <XB>
+18 	 17 	 (NP\NP)/NP 	 2 	 headquarters to
+18 	 21 	 (NP\NP)/NP 	 1 	 headquarters in
+20 	 17 	 (NP\NP)/NP 	 2 	 plant to
+20 	 21 	 (NP\NP)/NP 	 1 	 plant in
+23 	 21 	 (NP\NP)/NP 	 2 	 Alto in
+23 	 22 	 N/N 	 1 	 Alto Palo
+26 	 25 	 NP[nb]/N 	 1 	 damage no
+26 	 27 	 (NP\NP)/NP 	 1 	 damage to
+26 	 33 	 (S[ng]\NP)/NP 	 1 	 damage assessing <XB>
+30 	 27 	 (NP\NP)/NP 	 2 	 plant to
+30 	 28 	 N/N 	 1 	 plant San
+30 	 29 	 N/N 	 1 	 plant Jose
+33 	 32 	 (S\NP)/(S\NP) 	 2 	 assessing still
+34 	 33 	 (S[ng]\NP)/NP 	 2 	 damage assessing
+34 	 35 	 (NP\NP)/NP 	 1 	 damage at
+38 	 35 	 (NP\NP)/NP 	 2 	 plant at
+38 	 36 	 N/N 	 1 	 plant Scotts
+38 	 37 	 N/N 	 1 	 plant Valley
+38 	 40 	 (NP\NP)/S[dcl] 	 1 	 plant where
+42 	 41 	 N/N 	 1 	 product main
+42 	 43 	 (S[dcl]\NP)/NP 	 1 	 product is
+43 	 40 	 (NP\NP)/S[dcl] 	 2 	 is where
+44 	 43 	 (S[dcl]\NP)/NP 	 2 	 furnaces is
+44 	 45 	 (NP\NP)/NP 	 1 	 furnaces for
+47 	 45 	 (NP\NP)/NP 	 2 	 production for
+47 	 46 	 N/N 	 1 	 production semiconductor
+<\s>
+<s id="wsj_1915.113"> 66
+3 	 0 	 N/N 	 1 	 CO. WELLS
+3 	 1 	 N/N 	 1 	 CO. FARGO
+3 	 2 	 N/N 	 1 	 CO. &
+3 	 6 	 NP\NP 	 1 	 CO. Francisco
+3 	 10 	 NP\NP 	 1 	 CO. company
+3 	 13 	 NP\NP 	 1 	 CO. revenue
+3 	 18 	 NP\NP 	 1 	 CO. NYSE
+3 	 21 	 NP\NP 	 1 	 CO. damage
+3 	 48 	 NP\NP 	 1 	 CO. locations
+3 	 64 	 (NP\NP)/N 	 1 	 CO. no
+6 	 5 	 (NP\NP)/(NP\NP) 	 2 	 Francisco San
+10 	 8 	 (NP\NP)/(NP\NP) 	 2 	 company bank
+10 	 9 	 (NP\NP)/(NP\NP) 	 2 	 company holding
+13 	 12 	 (NP\NP)/(NP\NP) 	 2 	 revenue annual
+13 	 14 	 ((NP\NP)\(NP\NP))/N[num] 	 2 	 revenue $
+16 	 14 	 ((NP\NP)\(NP\NP))/N[num] 	 3 	 billion $
+16 	 15 	 N/N 	 1 	 billion 4.9
+21 	 20 	 (NP\NP)/(NP\NP) 	 2 	 damage minor
+21 	 22 	 ((NP\NP)\(NP\NP))/NP 	 2 	 damage at
+23 	 22 	 ((NP\NP)\(NP\NP))/NP 	 3 	 headquarters at
+26 	 25 	 N/N 	 1 	 branches 12
+26 	 27 	 (NP\NP)/PP 	 1 	 branches out
+26 	 33 	 (S[dcl]\NP)/NP 	 1 	 branches sustained
+28 	 27 	 (NP\NP)/PP 	 2 	 of out
+29 	 28 	 PP/NP 	 1 	 170 of
+29 	 30 	 (NP\NP)/NP 	 1 	 170 in
+32 	 30 	 (NP\NP)/NP 	 2 	 California in
+32 	 31 	 N/N 	 1 	 California Northern
+35 	 33 	 (S[dcl]\NP)/NP 	 2 	 damage sustained
+35 	 34 	 N/N 	 1 	 damage structural
+35 	 36 	 (NP\NP)/(S[dcl]\NP) 	 1 	 damage that
+35 	 37 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 damage will <XB>
+35 	 38 	 ((S[b]\NP)/PP)/NP 	 1 	 damage preclude <XB>
+37 	 36 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+38 	 37 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 preclude will
+39 	 38 	 ((S[b]\NP)/PP)/NP 	 3 	 them preclude
+40 	 38 	 ((S[b]\NP)/PP)/NP 	 2 	 from preclude
+41 	 40 	 PP/(S[ng]\NP) 	 1 	 opening from
+41 	 42 	 ((S\NP)\(S\NP))/NP 	 2 	 opening in
+45 	 42 	 ((S\NP)\(S\NP))/NP 	 3 	 future in
+45 	 43 	 NP[nb]/N 	 1 	 future the
+45 	 44 	 N/N 	 1 	 future near
+48 	 47 	 (NP\NP)/(NP\NP) 	 2 	 locations 45
+48 	 49 	 ((NP\NP)\(NP\NP))/NP 	 2 	 locations with
+51 	 50 	 ((N/N)/(N/N))/(S[asup]\NP) 	 3 	 least at
+52 	 50 	 ((N/N)/(N/N))/(S[asup]\NP) 	 2 	 one at
+55 	 49 	 ((NP\NP)\(NP\NP))/NP 	 3 	 machine with
+55 	 52 	 N/N 	 1 	 machine one
+55 	 53 	 N/N 	 1 	 machine automatic
+55 	 54 	 N/N 	 1 	 machine teller
+55 	 56 	 S[adj]\NP 	 1 	 machine inoperable <XB>
+60 	 58 	 N/N 	 1 	 systems central
+60 	 59 	 N/N 	 1 	 systems computer
+60 	 61 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 systems are
+60 	 62 	 S[ng]\NP 	 1 	 systems operating <XB>
+62 	 61 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 operating are
+65 	 64 	 (NP\NP)/N 	 2 	 injuries no
+<\s>
+<s id="wsj_1915.114"> 43
+2 	 0 	 N/N 	 1 	 INC. WYSE
+2 	 1 	 N/N 	 1 	 INC. TECHNOLOGY
+2 	 35 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 INC. expects
+2 	 38 	 (S[adj]\NP)/PP 	 1 	 INC. back <XB>
+5 	 4 	 N/N 	 1 	 Jose San
+5 	 35 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Jose expects
+5 	 38 	 (S[adj]\NP)/PP 	 1 	 Jose back <XB>
+7 	 8 	 (NP\NP)/NP 	 1 	 maker of
+7 	 35 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 maker expects
+7 	 38 	 (S[adj]\NP)/PP 	 1 	 maker back <XB>
+11 	 8 	 (NP\NP)/NP 	 2 	 terminals of
+11 	 9 	 N/N 	 1 	 terminals video
+11 	 10 	 N/N 	 1 	 terminals display
+13 	 8 	 (NP\NP)/NP 	 2 	 workstations of
+13 	 9 	 N/N 	 1 	 workstations video
+13 	 10 	 N/N 	 1 	 workstations display
+17 	 8 	 (NP\NP)/NP 	 2 	 computers of
+17 	 15 	 N/N 	 1 	 computers IBM\/PC
+17 	 16 	 N/N 	 1 	 computers compatible
+20 	 19 	 N/N 	 1 	 sales annual
+20 	 21 	 (NP\NP)/NP 	 1 	 sales of
+20 	 35 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 sales expects
+20 	 38 	 (S[adj]\NP)/PP 	 1 	 sales back <XB>
+22 	 21 	 (NP\NP)/NP 	 2 	 $ of
+24 	 22 	 N/N[num] 	 1 	 million $
+24 	 23 	 N/N 	 1 	 million 452
+28 	 26 	 N/N 	 1 	 damage slight
+28 	 27 	 N/N 	 1 	 damage structural
+28 	 29 	 (NP\NP)/NP 	 1 	 damage at
+28 	 35 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 damage expects
+28 	 38 	 (S[adj]\NP)/PP 	 1 	 damage back <XB>
+30 	 29 	 (NP\NP)/NP 	 2 	 headquarters at
+33 	 32 	 NP[nb]/N 	 1 	 injuries no
+33 	 35 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 injuries expects
+33 	 38 	 (S[adj]\NP)/PP 	 1 	 injuries back <XB>
+36 	 35 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+37 	 36 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+37 	 42 	 (S\NP)\(S\NP) 	 2 	 be today
+38 	 37 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 back be
+39 	 38 	 (S[adj]\NP)/PP 	 2 	 to back
+41 	 39 	 PP/NP 	 1 	 operation to
+41 	 40 	 N/N 	 1 	 operation full
+<\s>
+<s id="wsj_1915.115"> 32
+1 	 0 	 N/N 	 1 	 CORP. 3COM
+4 	 3 	 N/N 	 1 	 Clara Santa
+6 	 7 	 (NP\NP)/NP 	 1 	 maker of
+10 	 7 	 (NP\NP)/NP 	 2 	 systems of
+10 	 8 	 N/N 	 1 	 systems computer
+10 	 9 	 N/N 	 1 	 systems communications
+13 	 12 	 N/N 	 1 	 sales annual
+13 	 14 	 (NP\NP)/NP 	 1 	 sales of
+15 	 14 	 (NP\NP)/NP 	 2 	 $ of
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 386
+23 	 21 	 N/N 	 1 	 damage slight
+23 	 22 	 N/N 	 1 	 damage structural
+23 	 24 	 (NP\NP)/NP 	 1 	 damage to
+25 	 24 	 (NP\NP)/NP 	 2 	 headquarters to
+28 	 27 	 N/N 	 1 	 systems communications
+28 	 31 	 S[adj]\NP 	 1 	 systems operational <XB>
+31 	 29 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operational already
+31 	 30 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operational fully
+<\s>

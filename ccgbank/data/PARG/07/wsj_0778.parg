@@ -1,0 +1,791 @@
+<s id="wsj_0778.1"> 21
+1 	 0 	 NP[nb]/N 	 1 	 government The
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 government is
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 government sharpening <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 sharpening is
+6 	 3 	 (S[ng]\NP)/NP 	 2 	 weapon sharpening
+6 	 4 	 NP[nb]/N 	 1 	 weapon its
+6 	 5 	 N/N 	 1 	 weapon newest
+6 	 7 	 (NP\NP)/NP 	 1 	 weapon against
+6 	 10 	 (NP\NP)/NP 	 1 	 weapon :
+9 	 7 	 (NP\NP)/NP 	 2 	 defendants against
+9 	 8 	 N/N 	 1 	 defendants white-collar
+12 	 10 	 (NP\NP)/NP 	 2 	 power :
+12 	 11 	 NP[nb]/N 	 1 	 power the
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 prevent to
+15 	 14 	 ((S[b]\NP)/PP)/NP 	 3 	 them prevent
+16 	 14 	 ((S[b]\NP)/PP)/NP 	 2 	 from prevent
+17 	 16 	 PP/(S[ng]\NP) 	 1 	 paying from
+20 	 17 	 (S[ng]\NP)/NP 	 2 	 bills paying
+20 	 18 	 NP[nb]/N 	 1 	 bills their
+20 	 19 	 N/N 	 1 	 bills legal
+<\s>
+<s id="wsj_0778.2"> 17
+2 	 1 	 N/N 	 1 	 lawyers defense
+2 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 lawyers are
+2 	 4 	 (S[ng]\NP)/S[em] 	 1 	 lawyers warning <XB>
+3 	 0 	 S/S 	 1 	 are And
+4 	 3 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 warning are
+5 	 4 	 (S[ng]\NP)/S[em] 	 2 	 that warning
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they wo
+6 	 9 	 S[b]\NP 	 1 	 they stick <XB>
+7 	 5 	 S[em]/S[dcl] 	 1 	 wo that
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 wo n't
+9 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 stick wo
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 stick around
+9 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 stick if
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they do
+12 	 15 	 (S[b]\NP)/(S[pss]\NP) 	 1 	 they get <XB>
+12 	 16 	 S[pss]\NP 	 1 	 they paid <XB>
+13 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 do if
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 do n't
+15 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 get do
+16 	 15 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 paid get
+<\s>
+<s id="wsj_0778.3"> 52
+1 	 0 	 NP[nb]/N 	 1 	 issue The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 issue has
+1 	 3 	 (S[pt]\NP)/PP 	 1 	 issue come <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 come has
+3 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 come in
+4 	 3 	 (S[pt]\NP)/PP 	 2 	 to come
+6 	 4 	 PP/NP 	 1 	 boil to
+6 	 5 	 NP[nb]/N 	 1 	 boil a
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Newark in
+8 	 12 	 (NP\NP)/S[dcl] 	 1 	 Newark where
+10 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 N.J. in
+10 	 12 	 (NP\NP)/S[dcl] 	 1 	 N.J. where
+14 	 13 	 N/N 	 1 	 prosecutors federal
+14 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 prosecutors have
+14 	 16 	 ((S[pt]\NP)/S[em])/NP 	 1 	 prosecutors warned <XB>
+15 	 12 	 (NP\NP)/S[dcl] 	 2 	 have where
+16 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 warned have
+17 	 16 	 ((S[pt]\NP)/S[em])/NP 	 3 	 lawyers warned
+17 	 18 	 (NP\NP)/NP 	 1 	 lawyers for
+20 	 18 	 (NP\NP)/NP 	 2 	 Antar for
+20 	 19 	 N/N 	 1 	 Antar Eddie
+21 	 16 	 ((S[pt]\NP)/S[em])/NP 	 2 	 that warned
+27 	 23 	 NP[nb]/N 	 1 	 chairman the
+27 	 24 	 N/N 	 1 	 chairman founder
+27 	 26 	 N/N 	 1 	 chairman former
+27 	 28 	 (NP\NP)/NP 	 1 	 chairman of
+27 	 32 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 chairman is
+27 	 33 	 S[pss]\NP 	 1 	 chairman indicted <XB>
+31 	 28 	 (NP\NP)/NP 	 2 	 Inc. of
+31 	 29 	 N/N 	 1 	 Inc. Crazy
+31 	 30 	 N/N 	 1 	 Inc. Eddie
+32 	 22 	 (S/S)/S[dcl] 	 2 	 is if
+33 	 32 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 indicted is
+36 	 35 	 NP[nb]/N 	 1 	 government the
+36 	 37 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 government may
+36 	 38 	 (S[b]\NP)/(S[to]\NP) 	 1 	 government move <XB>
+36 	 40 	 (S[b]\NP)/NP 	 1 	 government seize <XB>
+37 	 21 	 S[em]/S[dcl] 	 1 	 may that
+37 	 22 	 (S/S)/S[dcl] 	 1 	 may if
+38 	 37 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 move may
+39 	 38 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to move
+40 	 39 	 (S[to]\NP)/(S[b]\NP) 	 2 	 seize to
+42 	 40 	 (S[b]\NP)/NP 	 2 	 money seize
+42 	 41 	 NP[nb]/N 	 1 	 money the
+42 	 43 	 (NP\NP)/(S[dcl]/NP) 	 1 	 money that
+42 	 47 	 (S[ng]\NP)/NP 	 2 	 money using <XU>
+45 	 44 	 N/N 	 1 	 Antar Mr.
+45 	 46 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Antar is
+45 	 47 	 (S[ng]\NP)/NP 	 1 	 Antar using <XB>
+45 	 49 	 (S[b]\NP)/NP 	 1 	 Antar pay <XB>
+46 	 43 	 (NP\NP)/(S[dcl]/NP) 	 2 	 is that
+47 	 46 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 using is
+49 	 48 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+51 	 49 	 (S[b]\NP)/NP 	 2 	 fees pay
+51 	 50 	 N/N 	 1 	 fees legal
+<\s>
+<s id="wsj_0778.4"> 18
+1 	 0 	 NP[nb]/N 	 1 	 warning The
+1 	 2 	 (NP\NP)/NP 	 1 	 warning by
+1 	 8 	 (S[dcl]\NP)/NP 	 1 	 warning follows
+5 	 3 	 NP[nb]/N 	 1 	 attorney the
+5 	 4 	 N/N 	 1 	 attorney U.S.
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 attorney 's
+7 	 2 	 (NP\NP)/NP 	 2 	 office by
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 office 's
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 decisions follows
+10 	 9 	 N/N 	 1 	 decisions two
+10 	 11 	 (NP\NP)/NP 	 1 	 decisions by
+10 	 17 	 NP\NP 	 1 	 decisions June
+15 	 11 	 (NP\NP)/NP 	 2 	 Court by
+15 	 12 	 NP[nb]/N 	 1 	 Court the
+15 	 13 	 N/N 	 1 	 Court U.S.
+15 	 14 	 N/N 	 1 	 Court Supreme
+17 	 16 	 (NP\NP)/(NP\NP) 	 2 	 June last
+<\s>
+<s id="wsj_0778.5"> 35
+2 	 0 	 (S/S)/NP 	 2 	 cases In
+2 	 1 	 NP[nb]/N 	 1 	 cases those
+6 	 4 	 NP[nb]/N 	 1 	 court the
+6 	 5 	 N/N 	 1 	 court high
+6 	 7 	 (S[dcl]\NP)/S[em] 	 1 	 court ruled
+7 	 0 	 (S/S)/NP 	 1 	 ruled In
+8 	 7 	 (S[dcl]\NP)/S[em] 	 2 	 that ruled
+10 	 9 	 N/N 	 1 	 law federal
+10 	 11 	 ((S[dcl]\NP)/NP)/NP 	 1 	 law gives
+11 	 8 	 S[em]/S[dcl] 	 1 	 gives that
+12 	 11 	 ((S[dcl]\NP)/NP)/NP 	 3 	 prosecutors gives
+14 	 11 	 ((S[dcl]\NP)/NP)/NP 	 2 	 authority gives
+14 	 13 	 N/N 	 1 	 authority broad
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 seize to
+17 	 16 	 (S[b]\NP)/NP 	 2 	 assets seize
+17 	 18 	 (NP\NP)/NP 	 1 	 assets of
+17 	 27 	 (S[ng]\NP)/NP 	 1 	 assets including <XB>
+19 	 18 	 (NP\NP)/NP 	 2 	 people of
+19 	 20 	 (S[pss]\NP)/PP 	 1 	 people accused <XB>
+21 	 20 	 (S[pss]\NP)/PP 	 2 	 of accused
+22 	 21 	 PP/NP 	 1 	 racketeering of
+25 	 21 	 PP/NP 	 1 	 crimes of
+25 	 24 	 N/N 	 1 	 crimes drug-related
+28 	 27 	 (S[ng]\NP)/NP 	 2 	 fees including
+28 	 29 	 (S[pss]\NP)/PP 	 1 	 fees paid <XB>
+29 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 paid before
+30 	 29 	 (S[pss]\NP)/PP 	 2 	 to paid
+31 	 30 	 PP/NP 	 1 	 lawyers to
+34 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 indictment before
+34 	 33 	 NP[nb]/N 	 1 	 indictment an
+<\s>
+<s id="wsj_0778.6"> 35
+2 	 1 	 NP[nb]/N 	 1 	 government the
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 government succeeds
+3 	 0 	 (S/S)/S[dcl] 	 2 	 succeeds If
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 in succeeds
+5 	 4 	 PP/(S[ng]\NP) 	 1 	 seizing in
+7 	 6 	 N/N 	 1 	 Antar Mr.
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 Antar 's
+9 	 5 	 (S[ng]\NP)/NP 	 2 	 assets seizing
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 assets 's
+11 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he could
+11 	 14 	 S[pss]\NP 	 1 	 he left <XB>
+12 	 0 	 (S/S)/S[dcl] 	 1 	 could If
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+14 	 13 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 left be
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 left without
+14 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 left because
+14 	 28 	 ((S\NP)\(S\NP))/PP 	 2 	 left according
+18 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 representation without
+18 	 16 	 N/N 	 1 	 representation top-flight
+18 	 17 	 N/N 	 1 	 representation legal
+22 	 21 	 NP[nb]/N 	 1 	 attorneys his
+22 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 attorneys are
+22 	 24 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 attorneys likely <XB>
+23 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are because
+24 	 23 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely are
+25 	 24 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 quit to
+29 	 28 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+30 	 29 	 PP/NP 	 1 	 individuals to
+30 	 31 	 S[adj]\NP 	 1 	 individuals familiar <XB>
+31 	 32 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 familiar with
+34 	 32 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 case with
+34 	 33 	 NP[nb]/N 	 1 	 case the
+<\s>
+<s id="wsj_0778.7"> 30
+1 	 0 	 NP[nb]/N 	 1 	 seizure A
+1 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 seizure would
+1 	 4 	 ((S[b]\NP)/NP)/NP 	 1 	 seizure make <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 would also
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make would
+6 	 4 	 ((S[b]\NP)/NP)/NP 	 3 	 case make
+6 	 5 	 NP[nb]/N 	 1 	 case the
+8 	 4 	 ((S[b]\NP)/NP)/NP 	 2 	 largest make
+8 	 7 	 NP[nb]/N 	 1 	 largest the
+8 	 17 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 largest which
+11 	 4 	 ((S[b]\NP)/NP)/NP 	 2 	 one make
+11 	 12 	 (NP\NP)/NP 	 1 	 one of
+11 	 17 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 one which
+14 	 12 	 (NP\NP)/NP 	 2 	 first of
+14 	 13 	 NP[nb]/N 	 1 	 first the
+16 	 17 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 lawyers '
+20 	 19 	 (NP[nb]/N)\NP 	 1 	 fees '
+20 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 fees have
+20 	 23 	 S[pss]\NP 	 1 	 fees confiscated <XB>
+21 	 17 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 have which
+22 	 21 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+23 	 22 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 confiscated been
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 confiscated in
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 prosecution in
+26 	 25 	 NP[nb]/N 	 1 	 prosecution a
+26 	 27 	 S[adj]\NP 	 1 	 prosecution unrelated <XB>
+27 	 28 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 unrelated to
+29 	 28 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 drugs to
+<\s>
+<s id="wsj_0778.8"> 65
+1 	 0 	 NP[nb]/N 	 1 	 people The
+1 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 people who
+1 	 3 	 S[dcl]\NP 	 1 	 people suffer <XB>
+1 	 8 	 (S[dcl]\NP)/NP 	 1 	 people are
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 suffer who
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 suffer in
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 run in
+7 	 5 	 NP[nb]/N 	 1 	 run the
+7 	 6 	 N/N 	 1 	 run short
+8 	 26 	 (S\S)/S[dcl] 	 1 	 are because
+8 	 42 	 (S[dcl]\S[dcl])/NP 	 1 	 are says
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 defendants are
+13 	 12 	 NP[nb]/N 	 1 	 people the
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 people who
+13 	 15 	 S[dcl]\NP 	 1 	 people suffer <XB>
+13 	 20 	 (S[dcl]\NP)/NP 	 1 	 people are
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 suffer who
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 suffer in
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 run in
+19 	 17 	 NP[nb]/N 	 1 	 run the
+19 	 18 	 N/N 	 1 	 run long
+20 	 26 	 (S\S)/S[dcl] 	 1 	 are because
+20 	 42 	 (S[dcl]\S[dcl])/NP 	 1 	 are says
+21 	 20 	 (S[dcl]\NP)/NP 	 2 	 all are
+21 	 22 	 (NP\NP)/NP 	 1 	 all of
+24 	 22 	 (NP\NP)/NP 	 2 	 people of
+24 	 23 	 NP[nb]/N 	 1 	 people the
+27 	 28 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 1 	 there wo
+28 	 26 	 (S\S)/S[dcl] 	 2 	 wo because
+28 	 29 	 (S\NP)\(S\NP) 	 2 	 wo n't
+30 	 28 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 2 	 be wo
+34 	 30 	 (S[b]\NP)/NP 	 2 	 bar be
+34 	 31 	 NP[nb]/N 	 1 	 bar a
+34 	 32 	 N/N 	 1 	 bar vigorous
+34 	 33 	 N/N 	 1 	 bar private
+36 	 35 	 (S[to]\NP)/(S[b]\NP) 	 2 	 defend to
+38 	 36 	 (S[b]\NP)/NP 	 2 	 Bill defend
+38 	 37 	 NP[nb]/N 	 1 	 Bill the
+38 	 39 	 (NP\NP)/NP 	 1 	 Bill of
+40 	 39 	 (NP\NP)/NP 	 2 	 Rights of
+44 	 42 	 (S[dcl]\S[dcl])/NP 	 2 	 Lefcourt says
+44 	 43 	 N/N 	 1 	 Lefcourt Gerald
+49 	 42 	 (S[dcl]\S[dcl])/NP 	 2 	 attorney says
+49 	 46 	 NP[nb]/N 	 1 	 attorney a
+49 	 47 	 N/N 	 1 	 attorney criminal
+49 	 48 	 N/N 	 1 	 attorney defense
+49 	 50 	 (NP\NP)/(S[dcl]\NP) 	 1 	 attorney who
+49 	 51 	 (S[dcl]\NP)/S[dcl] 	 1 	 attorney says <XB>
+51 	 50 	 (NP\NP)/(S[dcl]\NP) 	 2 	 says who
+52 	 53 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he has
+52 	 54 	 (S[pt]\NP)/NP 	 1 	 he turned <XB>
+52 	 61 	 (S[b]\NP)/NP 	 1 	 he avoid <XB>
+53 	 51 	 (S[dcl]\NP)/S[dcl] 	 2 	 has says
+54 	 53 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 turned has
+54 	 55 	 (S\NP)\(S\NP) 	 2 	 turned down
+57 	 54 	 (S[pt]\NP)/NP 	 2 	 number turned
+57 	 56 	 NP[nb]/N 	 1 	 number a
+57 	 58 	 (NP\NP)/NP 	 1 	 number of
+59 	 58 	 (NP\NP)/NP 	 2 	 cases of
+61 	 60 	 (S[to]\NP)/(S[b]\NP) 	 2 	 avoid to
+64 	 61 	 (S[b]\NP)/NP 	 2 	 seizures avoid
+64 	 62 	 N/N 	 1 	 seizures possible
+64 	 63 	 N/N 	 1 	 seizures fee
+<\s>
+<s id="wsj_0778.9"> 31
+1 	 0 	 N/N 	 1 	 Antar Mr.
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Antar is
+1 	 3 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 Antar being <XB>
+1 	 4 	 S[pss]\NP 	 1 	 Antar investigated <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being is
+4 	 3 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 investigated being
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 investigated by
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 jury by
+9 	 6 	 NP[nb]/N 	 1 	 jury a
+9 	 7 	 N/N 	 1 	 jury federal
+9 	 8 	 N/N 	 1 	 jury grand
+9 	 10 	 (NP\NP)/NP 	 1 	 jury in
+11 	 10 	 (NP\NP)/NP 	 2 	 Newark in
+11 	 13 	 (NP\NP)/S[dcl] 	 1 	 Newark where
+14 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 prosecutors have
+14 	 16 	 ((S[pt]\NP)/S[em])/NP 	 1 	 prosecutors told <XB>
+15 	 13 	 (NP\NP)/S[dcl] 	 2 	 have where
+16 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 told have
+17 	 16 	 ((S[pt]\NP)/S[em])/NP 	 3 	 him told
+18 	 16 	 ((S[pt]\NP)/S[em])/NP 	 2 	 that told
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they may
+19 	 22 	 (S[b]\NP)/NP 	 1 	 they seek <XB>
+20 	 18 	 S[em]/S[dcl] 	 1 	 may that
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 may soon
+22 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seek may
+24 	 22 	 (S[b]\NP)/NP 	 2 	 indictment seek
+24 	 23 	 NP[nb]/N 	 1 	 indictment an
+24 	 25 	 (NP\NP)/NP 	 1 	 indictment on
+30 	 25 	 (NP\NP)/NP 	 2 	 charges on
+30 	 26 	 N/N 	 1 	 charges racketeering
+30 	 28 	 N/N 	 1 	 charges securities
+30 	 29 	 N/N 	 1 	 charges fraud
+<\s>
+<s id="wsj_0778.10"> 29
+7 	 0 	 (S/S)/NP 	 2 	 law Under
+7 	 1 	 NP[nb]/N 	 1 	 law the
+7 	 2 	 N/N 	 1 	 law Racketeer
+7 	 3 	 N/N 	 1 	 law Influenced
+7 	 5 	 N/N 	 1 	 law Corrupt
+7 	 6 	 N/N 	 1 	 law Organizations
+10 	 0 	 (S/S)/NP 	 2 	 RICO Under
+13 	 12 	 NP[nb]/N 	 1 	 government the
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 government has
+14 	 0 	 (S/S)/NP 	 1 	 has Under
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 authority has
+16 	 15 	 NP[nb]/N 	 1 	 authority the
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 seek to
+18 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 seek before
+19 	 18 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to seek
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 freeze to
+22 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 seize to
+24 	 23 	 NP[nb]/N 	 1 	 defendant a
+24 	 25 	 (NP[nb]/N)\NP 	 2 	 defendant 's
+26 	 20 	 (S[b]\NP)/NP 	 2 	 assets freeze <XU>
+26 	 22 	 (S[b]\NP)/NP 	 2 	 assets seize
+26 	 25 	 (NP[nb]/N)\NP 	 1 	 assets 's
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 trial before
+<\s>
+<s id="wsj_0778.11"> 32
+1 	 0 	 (S/S)/PP 	 2 	 to According
+2 	 1 	 PP/NP 	 1 	 individuals to
+2 	 3 	 S[adj]\NP 	 1 	 individuals familiar <XB>
+3 	 4 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 familiar with
+6 	 5 	 N/N 	 1 	 Antar Mr.
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Antar 's
+8 	 4 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 case with
+8 	 7 	 (NP[nb]/N)\NP 	 1 	 case 's
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 prosecutors issued
+11 	 0 	 (S/S)/PP 	 1 	 issued According
+11 	 14 	 ((S\NP)\(S\NP))/N 	 2 	 issued this
+11 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 issued after
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 warning issued
+13 	 12 	 NP[nb]/N 	 1 	 warning their
+15 	 14 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+17 	 18 	 (NP\NP)/NP 	 1 	 one of
+17 	 23 	 (S[dcl]\NP)/S[qem] 	 1 	 one asked
+20 	 19 	 N/N 	 1 	 Antar Mr.
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 Antar 's
+22 	 18 	 (NP\NP)/NP 	 2 	 attorneys of
+22 	 21 	 (NP[nb]/N)\NP 	 1 	 attorneys 's
+23 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 asked after
+24 	 23 	 (S[dcl]\NP)/S[qem] 	 2 	 whether asked
+26 	 25 	 N/N 	 1 	 fees legal
+26 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 fees might
+26 	 29 	 (S[adj]\NP)/PP 	 1 	 fees subject <XB>
+27 	 24 	 S[qem]/S[dcl] 	 1 	 might whether
+28 	 27 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be might
+29 	 28 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 subject be
+30 	 29 	 (S[adj]\NP)/PP 	 2 	 to subject
+31 	 30 	 PP/NP 	 1 	 seizure to
+<\s>
+<s id="wsj_0778.12"> 32
+2 	 0 	 (S/S)/NP 	 2 	 letter In
+2 	 1 	 NP[nb]/N 	 1 	 letter a
+4 	 5 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 prosecutors told
+5 	 0 	 (S/S)/NP 	 1 	 told In
+7 	 6 	 N/N 	 1 	 Antar Mr.
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 Antar 's
+9 	 5 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 lawyers told
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 lawyers 's
+10 	 5 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that told
+12 	 11 	 (S/S)/PP 	 2 	 of because
+17 	 12 	 PP/NP 	 1 	 rulings of
+17 	 13 	 NP[nb]/N 	 1 	 rulings the
+17 	 14 	 N/N 	 1 	 rulings recent
+17 	 15 	 N/N 	 1 	 rulings Supreme
+17 	 16 	 N/N 	 1 	 rulings Court
+19 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they could
+19 	 21 	 (S[b]\NP)/S[em] 	 1 	 they expect <XB>
+20 	 10 	 S[em]/S[dcl] 	 1 	 could that
+20 	 11 	 (S/S)/PP 	 1 	 could because
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 expect could
+22 	 21 	 (S[b]\NP)/S[em] 	 2 	 that expect
+24 	 23 	 NP[nb]/N 	 1 	 fees any
+24 	 25 	 (S[pss]\NP)/PP 	 1 	 fees collected <XB>
+24 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 fees may
+24 	 31 	 S[pss]\NP 	 1 	 fees seized <XB>
+26 	 25 	 (S[pss]\NP)/PP 	 2 	 from collected
+28 	 26 	 PP/NP 	 1 	 Antar from
+28 	 27 	 N/N 	 1 	 Antar Mr.
+29 	 22 	 S[em]/S[dcl] 	 1 	 may that
+30 	 29 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+31 	 30 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 seized be
+<\s>
+<s id="wsj_0778.13"> 32
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Prosecutors have
+0 	 2 	 ((S[pt]\NP)/S[em])/NP 	 1 	 Prosecutors told <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 told have
+4 	 3 	 N/N 	 1 	 Antar Mr.
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Antar 's
+6 	 2 	 ((S[pt]\NP)/S[em])/NP 	 3 	 attorneys told
+6 	 5 	 (NP[nb]/N)\NP 	 1 	 attorneys 's
+7 	 2 	 ((S[pt]\NP)/S[em])/NP 	 2 	 that told
+8 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 they believe
+9 	 7 	 S[em]/S[dcl] 	 1 	 believe that
+11 	 10 	 N/N 	 1 	 Antar Mr.
+11 	 12 	 NP\NP 	 1 	 Antar 's
+11 	 14 	 S[adj]\NP 	 1 	 Antar ill-gotten <XB>
+11 	 15 	 NP\NP 	 1 	 Antar gains
+11 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Antar are
+11 	 17 	 ((S[adj]\NP)/S[em])/(S[adj]\NP) 	 1 	 Antar so <XB>
+14 	 13 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 ill-gotten allegedly
+16 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 are believe
+17 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 so are
+18 	 17 	 ((S[adj]\NP)/S[em])/(S[adj]\NP) 	 3 	 great so
+19 	 17 	 ((S[adj]\NP)/S[em])/(S[adj]\NP) 	 2 	 that so
+21 	 20 	 NP[nb]/N 	 1 	 money any
+21 	 24 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 3 	 money used <XU>
+21 	 26 	 (S[b]\NP)/NP 	 1 	 money pay <XU>
+21 	 28 	 (S[dcl]\NP)/PP 	 1 	 money derives
+22 	 23 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he has
+22 	 24 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 1 	 he used <XB>
+24 	 23 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 used has
+25 	 24 	 ((S[pt]\NP)/(S[to]\NP))/NP 	 2 	 to used
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+27 	 26 	 (S[b]\NP)/NP 	 2 	 attorneys pay
+28 	 19 	 S[em]/S[dcl] 	 1 	 derives that
+29 	 28 	 (S[dcl]\NP)/PP 	 2 	 from derives
+31 	 29 	 PP/NP 	 1 	 activities from
+31 	 30 	 N/N 	 1 	 activities illegal
+<\s>
+<s id="wsj_0778.14"> 18
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 they said
+6 	 5 	 NP[nb]/N 	 1 	 money the
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 money can
+6 	 9 	 (S[pss]\NP)/PP 	 1 	 money taken <XB>
+7 	 0 	 S/S 	 1 	 can Therefore
+7 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 can said <XU>
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+9 	 8 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 taken be
+9 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 taken after
+10 	 9 	 (S[pss]\NP)/PP 	 2 	 from taken
+12 	 10 	 PP/NP 	 1 	 lawyers from
+12 	 11 	 NP[nb]/N 	 1 	 lawyers the
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 after even
+15 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 they are
+15 	 17 	 S[pss]\NP 	 1 	 they paid <XB>
+16 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are after
+17 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 paid are
+<\s>
+<s id="wsj_0778.15"> 18
+1 	 0 	 N/N 	 1 	 Feldman Justin
+1 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Feldman declined
+1 	 14 	 (S[b]\NP)/PP 	 1 	 Feldman comment <XB>
+4 	 3 	 N/N 	 1 	 Arseneault Jack
+4 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Arseneault declined
+4 	 14 	 (S[b]\NP)/PP 	 1 	 Arseneault comment <XB>
+6 	 7 	 (NP\NP)/NP 	 1 	 attorneys for
+6 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 attorneys declined
+6 	 14 	 (S[b]\NP)/PP 	 1 	 attorneys comment <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 Antar for
+9 	 8 	 N/N 	 1 	 Antar Mr.
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 declined both
+13 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comment to
+15 	 14 	 (S[b]\NP)/PP 	 2 	 on comment
+17 	 15 	 PP/NP 	 1 	 matter on
+17 	 16 	 NP[nb]/N 	 1 	 matter the
+<\s>
+<s id="wsj_0778.16"> 29
+1 	 0 	 (S/S)/NP 	 2 	 Newark In
+7 	 3 	 N/N 	 1 	 Alito U.S.
+7 	 4 	 N/N 	 1 	 Alito Attorney
+7 	 5 	 N/N 	 1 	 Alito Samuel
+7 	 6 	 N/N 	 1 	 Alito A.
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Alito said
+8 	 0 	 (S/S)/NP 	 1 	 said In
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 I do
+10 	 13 	 (S[b]\NP)/S[dcl] 	 1 	 I think <XB>
+11 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 do said
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 do n't
+13 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 think do
+14 	 15 	 (S[dcl]\NP[thr])/NP 	 1 	 there 's
+15 	 13 	 (S[b]\NP)/S[dcl] 	 2 	 's think
+18 	 15 	 (S[dcl]\NP[thr])/NP 	 2 	 reason 's
+18 	 16 	 NP[nb]/N 	 1 	 reason any
+18 	 17 	 N/N 	 1 	 reason legal
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 limit to
+21 	 20 	 (S[b]\NP)/NP 	 2 	 forfeiture limit
+21 	 22 	 (NP\NP)/NP 	 1 	 forfeiture of
+21 	 26 	 (NP\NP)/NP 	 1 	 forfeiture to
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 attorney 's
+25 	 22 	 (NP\NP)/NP 	 2 	 fees of
+25 	 24 	 (NP[nb]/N)\NP 	 1 	 fees 's
+28 	 26 	 (NP\NP)/NP 	 2 	 cases to
+28 	 27 	 N/N 	 1 	 cases drug
+<\s>
+<s id="wsj_0778.17"> 36
+1 	 0 	 N/N 	 1 	 Alito Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Alito said
+4 	 3 	 NP[nb]/N 	 1 	 office his
+4 	 6 	 (S[dcl]\NP)/PP 	 1 	 office responded
+6 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 responded said
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 responded just
+7 	 6 	 (S[dcl]\NP)/PP 	 2 	 to responded
+9 	 8 	 NP[nb]/N 	 1 	 attorney an
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 attorney 's
+11 	 7 	 PP/NP 	 1 	 question to
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 question 's
+11 	 12 	 (NP\NP)/S[qem] 	 1 	 question about
+13 	 12 	 (NP\NP)/S[qem] 	 2 	 whether about
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 we would
+14 	 16 	 S[b]\NP 	 1 	 we go <XB>
+15 	 13 	 S[qem]/S[dcl] 	 1 	 would whether
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go would
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 go after
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 attorney 's
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 fees after
+20 	 19 	 (NP[nb]/N)\NP 	 1 	 fees 's
+23 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 that is
+23 	 25 	 (S[adj]\NP)/PP 	 1 	 that different <XB>
+24 	 13 	 S[qem]/S[dcl] 	 1 	 is whether
+24 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 is although
+25 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 different is
+26 	 25 	 (S[adj]\NP)/PP 	 2 	 from different
+28 	 26 	 PP/(S[ng]\NP) 	 1 	 doing from
+28 	 27 	 (S\NP)/(S\NP) 	 2 	 doing actually
+29 	 28 	 (S[ng]\NP)/NP 	 2 	 it doing
+32 	 33 	 (S[dcl]\NP)/NP 	 1 	 we reserve
+33 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 reserve although
+35 	 33 	 (S[dcl]\NP)/NP 	 2 	 right reserve
+35 	 34 	 NP[nb]/N 	 1 	 right that
+<\s>
+<s id="wsj_0778.18"> 22
+1 	 0 	 N/N 	 1 	 Antar Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Antar was
+1 	 3 	 S[pss]\NP 	 1 	 Antar charged <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 charged was
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 charged month
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 charged in
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month last
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 suit in
+9 	 7 	 NP[nb]/N 	 1 	 suit a
+9 	 8 	 N/N 	 1 	 suit civil
+9 	 10 	 S[pss]\NP 	 1 	 suit filed <XB>
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 filed in
+10 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 filed by
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 court in
+13 	 12 	 N/N 	 1 	 court federal
+13 	 14 	 (NP\NP)/NP 	 1 	 court in
+15 	 14 	 (NP\NP)/NP 	 2 	 Newark in
+21 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 Commission by
+21 	 17 	 NP[nb]/N 	 1 	 Commission the
+21 	 18 	 N/N 	 1 	 Commission Securities
+21 	 20 	 N/N 	 1 	 Commission Exchange
+<\s>
+<s id="wsj_0778.19"> 32
+2 	 0 	 (S/S)/NP 	 2 	 suit In
+2 	 1 	 NP[nb]/N 	 1 	 suit that
+5 	 4 	 NP[nb]/N 	 1 	 SEC the
+5 	 6 	 ((S[dcl]\NP)/PP)/NP 	 1 	 SEC accused
+6 	 0 	 (S/S)/NP 	 1 	 accused In
+8 	 6 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Antar accused
+8 	 7 	 N/N 	 1 	 Antar Mr.
+9 	 6 	 ((S[dcl]\NP)/PP)/NP 	 2 	 of accused
+10 	 9 	 PP/(S[ng]\NP) 	 1 	 engaging of
+11 	 10 	 (S[ng]\NP)/PP 	 2 	 in engaging
+15 	 11 	 PP/NP 	 1 	 fraud in
+15 	 12 	 NP[nb]/N 	 1 	 fraud a
+15 	 13 	 N/N 	 1 	 fraud massive
+15 	 14 	 N/N 	 1 	 fraud financial
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 overstate to
+17 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 overstate over
+19 	 17 	 (S[b]\NP)/NP 	 2 	 earnings overstate
+19 	 18 	 NP[nb]/N 	 1 	 earnings the
+19 	 20 	 (NP\NP)/NP 	 1 	 earnings of
+22 	 20 	 (NP\NP)/NP 	 2 	 Eddie of
+22 	 21 	 N/N 	 1 	 Eddie Crazy
+22 	 24 	 NP\NP 	 1 	 Eddie Edison
+22 	 26 	 NP\NP 	 1 	 Eddie N.J. <XU>
+31 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 period over
+31 	 29 	 NP[nb]/N 	 1 	 period a
+31 	 30 	 N/N 	 1 	 period three-year
+<\s>
+<s id="wsj_0778.20"> 26
+2 	 0 	 (S/S)/NP 	 2 	 lawyers Through
+2 	 1 	 NP[nb]/N 	 1 	 lawyers his
+5 	 4 	 N/N 	 1 	 Antar Mr.
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Antar has
+5 	 7 	 (S[pt]\NP)/NP 	 1 	 Antar denied <XB>
+6 	 0 	 (S/S)/NP 	 1 	 has Through
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 denied has
+8 	 7 	 (S[pt]\NP)/NP 	 2 	 allegations denied
+8 	 9 	 (NP\NP)/NP 	 1 	 allegations in
+8 	 14 	 (NP\NP)/NP 	 1 	 allegations in <XU>
+12 	 9 	 (NP\NP)/NP 	 2 	 suit in
+12 	 10 	 NP[nb]/N 	 1 	 suit the
+12 	 11 	 N/N 	 1 	 suit SEC
+16 	 14 	 (NP\NP)/NP 	 2 	 suits in
+16 	 15 	 N/N 	 1 	 suits civil
+16 	 18 	 (S[pss]\NP)/PP 	 1 	 suits filed <XB>
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 filed previously
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 filed by
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 shareholders by
+21 	 18 	 (S[pss]\NP)/PP 	 2 	 against filed
+23 	 21 	 PP/NP 	 1 	 Antar against
+23 	 22 	 N/N 	 1 	 Antar Mr.
+25 	 21 	 PP/NP 	 1 	 others against
+<\s>
+<s id="wsj_0778.21"> 30
+1 	 0 	 NP[nb]/N 	 1 	 SEC The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 SEC has
+1 	 3 	 (S[pt]\NP)/S[em] 	 1 	 SEC alleged <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 alleged has
+4 	 3 	 (S[pt]\NP)/S[em] 	 2 	 that alleged
+6 	 5 	 N/N 	 1 	 Antar Mr.
+6 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Antar aimed
+6 	 9 	 (S[b]\NP)/NP 	 1 	 Antar pump <XB>
+7 	 4 	 S[em]/S[dcl] 	 1 	 aimed that
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to aimed
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pump to
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 pump up
+9 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 pump through
+9 	 20 	 (((S\NP)\(S\NP))/(S[to]\NP))/NP 	 2 	 pump in
+12 	 11 	 NP[nb]/N 	 1 	 company the
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 company 's
+15 	 9 	 (S[b]\NP)/NP 	 2 	 price pump
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 price 's
+15 	 14 	 N/N 	 1 	 price stock
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 statements through
+19 	 17 	 N/N 	 1 	 statements false
+19 	 18 	 N/N 	 1 	 statements financial
+21 	 20 	 (((S\NP)\(S\NP))/(S[to]\NP))/NP 	 4 	 order in
+21 	 23 	 (S[b]\NP)/NP 	 1 	 order sell <XB>
+21 	 27 	 (S[b]\NP)/NP 	 1 	 order reap <XU>
+22 	 20 	 (((S\NP)\(S\NP))/(S[to]\NP))/NP 	 3 	 to in
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+25 	 23 	 (S[b]\NP)/NP 	 2 	 stake sell
+25 	 24 	 NP[nb]/N 	 1 	 stake his
+27 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reap to
+29 	 27 	 (S[b]\NP)/NP 	 2 	 profits reap
+29 	 28 	 N/N 	 1 	 profits huge
+<\s>
+<s id="wsj_0778.22"> 23
+1 	 0 	 N/N 	 1 	 Antar Mr.
+1 	 7 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Antar made
+4 	 3 	 NP[nb]/N 	 1 	 SEC the
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 SEC said
+7 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 made between
+8 	 9 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+10 	 7 	 ((S[dcl]\NP)/PP)/NP 	 3 	 $ made
+10 	 9 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 60
+13 	 7 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from made
+15 	 13 	 PP/NP 	 1 	 sale from
+15 	 14 	 NP[nb]/N 	 1 	 sale the
+15 	 16 	 (NP\NP)/NP 	 1 	 sale of
+18 	 16 	 (NP\NP)/NP 	 2 	 shares of
+18 	 17 	 NP[nb]/N 	 1 	 shares his
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 1985 between
+22 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 1987 between
+<\s>
+<s id="wsj_0778.23"> 16
+2 	 0 	 NP[nb]/N 	 1 	 Department The
+2 	 1 	 N/N 	 1 	 Department Justice
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Department has
+2 	 4 	 (S[pt]\NP)/S[em] 	 1 	 Department emphasized <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 emphasized has
+5 	 4 	 (S[pt]\NP)/S[em] 	 2 	 that emphasized
+7 	 6 	 NP[nb]/N 	 1 	 government the
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 government 's
+10 	 8 	 (NP[nb]/N)\NP 	 1 	 power 's
+10 	 9 	 N/N 	 1 	 power fee-forfeiture
+10 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 power is
+10 	 14 	 S[pss]\NP 	 1 	 power used <XB>
+11 	 5 	 S[em]/S[dcl] 	 1 	 is that
+12 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+14 	 13 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 used sparingly
+<\s>
+<s id="wsj_0778.24"> 29
+1 	 0 	 (S/S)/PP 	 2 	 to According
+3 	 1 	 PP/NP 	 1 	 policy to
+3 	 2 	 N/N 	 1 	 policy department
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 prosecutors must
+5 	 7 	 (S[b]\NP)/NP 	 1 	 prosecutors make <XB>
+6 	 0 	 (S/S)/PP 	 1 	 must According
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make must
+7 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 make before
+10 	 7 	 (S[b]\NP)/NP 	 2 	 showing make
+10 	 8 	 NP[nb]/N 	 1 	 showing a
+10 	 9 	 N/N 	 1 	 showing strong
+11 	 10 	 N/S[em] 	 1 	 that showing
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 lawyers '
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 fees '
+14 	 15 	 (S[dcl]\NP)/PP 	 1 	 fees came
+15 	 11 	 S[em]/S[dcl] 	 1 	 came that
+16 	 15 	 (S[dcl]\NP)/PP 	 2 	 from came
+17 	 16 	 PP/NP 	 1 	 assets from
+17 	 18 	 S[pss]\NP 	 1 	 assets tainted <XB>
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 tainted by
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 profits by
+21 	 20 	 N/N 	 1 	 profits illegal
+24 	 23 	 NP[nb]/N 	 1 	 attempts any
+24 	 25 	 (NP\NP)/NP 	 1 	 attempts at
+24 	 27 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 attempts are
+24 	 28 	 S[pss]\NP 	 1 	 attempts made <XB>
+26 	 25 	 (NP\NP)/NP 	 2 	 seizure at
+27 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are before
+28 	 27 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 made are
+<\s>
+<s id="wsj_0778.25"> 30
+4 	 2 	 N/N 	 1 	 lawyers criminal
+4 	 3 	 N/N 	 1 	 lawyers defense
+4 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 lawyers worry
+5 	 0 	 S/S 	 1 	 worry Still
+6 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that worry
+7 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 defendants are
+7 	 9 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 defendants being <XB>
+7 	 10 	 (S[pss]\NP)/PP 	 1 	 defendants deprived <XB>
+8 	 6 	 S[em]/S[dcl] 	 1 	 are that
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being are
+10 	 9 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 deprived being
+10 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 deprived if
+11 	 10 	 (S[pss]\NP)/PP 	 2 	 of deprived
+15 	 11 	 PP/NP 	 1 	 right of
+15 	 12 	 NP[nb]/N 	 1 	 right their
+15 	 13 	 N/N 	 1 	 right Sixth
+15 	 14 	 N/N 	 1 	 right Amendment
+15 	 16 	 (NP\NP)/NP 	 1 	 right to
+17 	 16 	 (NP\NP)/NP 	 2 	 counsel to
+21 	 16 	 (NP\NP)/NP 	 2 	 trial to
+21 	 19 	 NP[nb]/N 	 1 	 trial a
+21 	 20 	 N/N 	 1 	 trial fair
+24 	 23 	 NP[nb]/N 	 1 	 government the
+24 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 government can
+24 	 26 	 (S[b]\NP)/NP 	 1 	 government seize <XB>
+25 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 can if
+26 	 25 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seize can
+27 	 28 	 (NP[nb]/N)\NP 	 2 	 lawyers '
+29 	 26 	 (S[b]\NP)/NP 	 2 	 fees seize
+29 	 28 	 (NP[nb]/N)\NP 	 1 	 fees '
+<\s>
+<s id="wsj_0778.26"> 30
+0 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 They worry
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 worry also
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that worry
+6 	 5 	 NP[nb]/N 	 1 	 government the
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 government applies
+7 	 4 	 (S/S)/S[dcl] 	 2 	 applies if
+7 	 10 	 (S\NP)\(S\NP) 	 2 	 applies broadly
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 laws applies
+9 	 8 	 N/N 	 1 	 laws asset-forfeiture
+15 	 12 	 NP[nb]/N 	 1 	 lawyers the
+15 	 13 	 N/N 	 1 	 lawyers best
+15 	 14 	 N/N 	 1 	 lawyers defense
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 lawyers will
+15 	 18 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 lawyers unwilling <XB>
+16 	 3 	 S[em]/S[dcl] 	 1 	 will that
+16 	 4 	 (S/S)/S[dcl] 	 1 	 will if
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+17 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 be unless
+18 	 17 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 unwilling be
+19 	 18 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to unwilling
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 take to
+22 	 20 	 (S[b]\NP)/NP 	 2 	 cases take
+22 	 21 	 N/N 	 1 	 cases criminal
+24 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 they are
+24 	 26 	 (S[pss]\NP)/PP 	 1 	 they assured <XB>
+25 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are unless
+26 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 assured are
+27 	 26 	 (S[pss]\NP)/PP 	 2 	 of assured
+28 	 27 	 PP/(S[ng]\NP) 	 1 	 being of
+29 	 28 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 paid being
+<\s>

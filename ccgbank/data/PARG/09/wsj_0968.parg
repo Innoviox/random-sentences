@@ -1,0 +1,499 @@
+<s id="wsj_0968.1"> 40
+3 	 0 	 N/N 	 1 	 Inc. National
+3 	 1 	 N/N 	 1 	 Inc. Convenience
+3 	 2 	 N/N 	 1 	 Inc. Stores
+3 	 5 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Inc. trying <XB>
+3 	 7 	 (S[b]\NP)/NP 	 1 	 Inc. shake <XB>
+3 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+6 	 5 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 shake to
+9 	 7 	 (S[b]\NP)/NP 	 2 	 doldrums shake
+9 	 8 	 NP[nb]/N 	 1 	 doldrums the
+9 	 10 	 (NP\NP)/NP 	 1 	 doldrums in
+13 	 10 	 (NP\NP)/NP 	 2 	 business in
+13 	 11 	 NP[nb]/N 	 1 	 business the
+13 	 12 	 N/N 	 1 	 business convenience-store
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+16 	 18 	 (S[b]\NP)/NP 	 1 	 it rearrange <XB>
+16 	 32 	 (S[b]\NP)/PP 	 1 	 it cater <XB>
+17 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 rearrange will
+18 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 rearrange in
+20 	 18 	 (S[b]\NP)/NP 	 2 	 merchandise rearrange
+20 	 19 	 NP[nb]/N 	 1 	 merchandise the
+20 	 21 	 (NP\NP)/NP 	 1 	 merchandise in
+22 	 21 	 (NP\NP)/NP 	 2 	 all in
+22 	 23 	 (NP\NP)/NP 	 1 	 all of
+25 	 23 	 (NP\NP)/NP 	 2 	 stores of
+25 	 24 	 NP[nb]/N 	 1 	 stores its
+30 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 months in
+30 	 27 	 NP[nb]/N 	 1 	 months the
+30 	 28 	 N/N 	 1 	 months next
+30 	 29 	 N/N 	 1 	 months 18
+32 	 31 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cater to
+32 	 33 	 (S\NP)\(S\NP) 	 2 	 cater better
+34 	 32 	 (S[b]\NP)/PP 	 2 	 to cater
+36 	 34 	 PP/NP 	 1 	 neighborhoods to
+36 	 35 	 NP[nb]/N 	 1 	 neighborhoods the
+36 	 37 	 (NP\NP)/NP 	 1 	 neighborhoods around
+39 	 37 	 (NP\NP)/NP 	 2 	 stores around
+39 	 38 	 NP[nb]/N 	 1 	 stores its
+<\s>
+<s id="wsj_0968.2"> 29
+1 	 0 	 (S/S)/NP 	 2 	 part As
+1 	 2 	 (NP\NP)/NP 	 1 	 part of
+4 	 2 	 (NP\NP)/NP 	 2 	 plan of
+4 	 3 	 NP[nb]/N 	 1 	 plan the
+8 	 6 	 NP[nb]/N 	 1 	 company the
+8 	 7 	 N/N 	 1 	 company Houston-based
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 company 's
+14 	 9 	 (NP[nb]/N)\NP 	 1 	 stores 's
+14 	 10 	 N/N 	 1 	 stores 1,100
+14 	 11 	 N/N 	 1 	 stores Stop
+14 	 12 	 N/N 	 1 	 stores 'N
+14 	 13 	 N/N 	 1 	 stores Go
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 stores will
+14 	 17 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 stores refocused <XB>
+14 	 19 	 (S[b]\NP)/NP 	 1 	 stores target <XB>
+15 	 0 	 (S/S)/NP 	 1 	 will As
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+17 	 16 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 refocused be
+18 	 17 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to refocused
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 target to
+28 	 19 	 (S[b]\NP)/NP 	 2 	 customers target
+28 	 20 	 N/N 	 1 	 customers black <XU>
+28 	 22 	 N/N 	 1 	 customers Hispanic
+<\s>
+<s id="wsj_0968.3"> 32
+0 	 1 	 (NP\NP)/NP 	 1 	 Stores in
+0 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Stores will
+0 	 9 	 (S[b]\NP)/NP 	 1 	 Stores carry <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 neighborhoods in
+3 	 2 	 N/N 	 1 	 neighborhoods upper-income
+6 	 5 	 ((S\NP)/(S\NP))/NP 	 3 	 instance for
+8 	 5 	 ((S\NP)/(S\NP))/NP 	 2 	 will for
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 carry will
+11 	 9 	 (S[b]\NP)/NP 	 2 	 wines carry
+11 	 10 	 N/N 	 1 	 wines high-priced
+13 	 9 	 (S[b]\NP)/NP 	 2 	 publications carry
+13 	 15 	 (NP\NP)/NP 	 1 	 publications as
+15 	 14 	 (NP\NP)/(NP\NP) 	 2 	 as such
+17 	 15 	 (NP\NP)/NP 	 2 	 Fair as
+17 	 16 	 N/N 	 1 	 Fair Vanity
+21 	 9 	 (S[b]\NP)/NP 	 2 	 sauces carry
+21 	 19 	 N/N 	 1 	 sauces gourmet
+21 	 20 	 N/N 	 1 	 sauces pasta
+25 	 9 	 (S[b]\NP)/NP 	 2 	 cereals carry
+25 	 23 	 N/N 	 1 	 cereals oat
+25 	 24 	 N/N 	 1 	 cereals bran
+31 	 9 	 (S[b]\NP)/NP 	 2 	 products carry
+31 	 27 	 N/N 	 1 	 products Weight
+31 	 28 	 N/N 	 1 	 products Watchers
+31 	 30 	 N/N 	 1 	 products Pritikin
+<\s>
+<s id="wsj_0968.4"> 17
+0 	 1 	 (NP\NP)/NP 	 1 	 Stores in
+0 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Stores will
+0 	 5 	 (S[b]\NP)/NP 	 1 	 Stores stock <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 areas in
+3 	 2 	 N/N 	 1 	 areas Hispanic
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 stock will
+7 	 5 	 (S[b]\NP)/NP 	 2 	 assortment stock
+7 	 6 	 NP[nb]/N 	 1 	 assortment an
+7 	 8 	 (NP\NP)/NP 	 1 	 assortment of
+10 	 8 	 (NP\NP)/NP 	 2 	 magazines of
+10 	 9 	 N/N 	 1 	 magazines Spanish-language
+14 	 8 	 (NP\NP)/NP 	 2 	 items of
+14 	 12 	 N/N 	 1 	 items Mexican
+14 	 13 	 N/N 	 1 	 items cooking
+16 	 8 	 (NP\NP)/NP 	 2 	 candies of
+16 	 12 	 N/N 	 1 	 candies Mexican
+16 	 13 	 N/N 	 1 	 candies cooking
+<\s>
+<s id="wsj_0968.5"> 22
+0 	 1 	 (NP\NP)/NP 	 1 	 Stores in
+0 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Stores will
+0 	 9 	 (S[b]\NP)/NP 	 1 	 Stores get <XB>
+3 	 2 	 NP[nb]/N 	 1 	 company the
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 company 's
+7 	 1 	 (NP\NP)/NP 	 2 	 market in
+7 	 4 	 (NP[nb]/N)\NP 	 1 	 market 's
+7 	 5 	 N/N 	 1 	 market core
+7 	 6 	 N/N 	 1 	 market middle-class
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 get will
+14 	 9 	 (S[b]\NP)/NP 	 2 	 foods get
+14 	 10 	 N/N 	 1 	 foods more
+14 	 11 	 N/N 	 1 	 foods frozen <XU>
+14 	 13 	 N/N 	 1 	 foods quick-to-prepare
+18 	 9 	 (S[b]\NP)/NP 	 2 	 selection get
+18 	 16 	 NP[nb]/N 	 1 	 selection a
+18 	 17 	 N/N 	 1 	 selection greater
+18 	 19 	 (NP\NP)/NP 	 1 	 selection of
+21 	 19 	 (NP\NP)/NP 	 2 	 water of
+21 	 20 	 N/N 	 1 	 water bottled
+<\s>
+<s id="wsj_0968.6"> 49
+2 	 0 	 N/N 	 1 	 Horn V.H.
+2 	 1 	 N/N 	 1 	 Horn Van
+2 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 Horn said
+6 	 4 	 N/N 	 1 	 president National
+6 	 5 	 N/N 	 1 	 president Convenience
+6 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 president said
+10 	 4 	 N/N 	 1 	 officer National
+10 	 5 	 N/N 	 1 	 officer Convenience
+10 	 8 	 N/N 	 1 	 officer chief
+10 	 9 	 N/N 	 1 	 officer executive
+10 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 officer said
+14 	 13 	 NP[nb]/N 	 1 	 move the
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 move reflects
+15 	 12 	 (S[dcl]\NP)/S[dcl] 	 2 	 reflects said
+17 	 16 	 NP[nb]/N 	 1 	 company the
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 company 's
+19 	 15 	 (S[dcl]\NP)/NP 	 2 	 realization reflects
+19 	 18 	 (NP[nb]/N)\NP 	 1 	 realization 's
+20 	 19 	 N/S[em] 	 1 	 that realization
+22 	 21 	 NP[nb]/N 	 1 	 industry the
+22 	 23 	 (NP[nb]/N)\NP 	 2 	 industry 's
+25 	 23 	 (NP[nb]/N)\NP 	 1 	 performance 's
+25 	 24 	 N/N 	 1 	 performance poor
+25 	 26 	 (S[dcl]\NP)/PP 	 1 	 performance stems
+26 	 20 	 S[em]/S[dcl] 	 1 	 stems that
+27 	 26 	 (S[dcl]\NP)/PP 	 2 	 from stems
+29 	 27 	 PP/NP 	 1 	 failure from
+29 	 28 	 NP[nb]/N 	 1 	 failure its
+29 	 31 	 ((S[b]\NP)/NP)/NP 	 1 	 failure give <XB>
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give to
+32 	 31 	 ((S[b]\NP)/NP)/NP 	 3 	 customers give
+33 	 31 	 ((S[b]\NP)/NP)/NP 	 2 	 what give
+33 	 35 	 (S[dcl]\NP)/NP 	 2 	 what want <XU>
+34 	 35 	 (S[dcl]\NP)/NP 	 1 	 they want
+35 	 33 	 NP/(S[dcl]/NP) 	 1 	 want what
+38 	 37 	 conj/conj 	 1 	 than rather
+39 	 26 	 (S[dcl]\NP)/PP 	 2 	 from stems
+41 	 39 	 PP/NP 	 1 	 competition from
+41 	 40 	 N/N 	 1 	 competition increasing
+41 	 42 	 (NP\NP)/NP 	 1 	 competition from
+44 	 42 	 (NP\NP)/NP 	 2 	 stations from
+44 	 43 	 N/N 	 1 	 stations gasoline
+48 	 42 	 (NP\NP)/NP 	 2 	 stores from
+48 	 46 	 N/N 	 1 	 stores 24-hour
+48 	 47 	 N/N 	 1 	 stores grocery
+<\s>
+<s id="wsj_0968.7"> 26
+2 	 0 	 N/N 	 1 	 merchandise Convenience
+2 	 1 	 N/N 	 1 	 merchandise store
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 merchandise has
+2 	 5 	 ((S[pt]\NP)/PP)/NP 	 1 	 merchandise kept <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 has not
+3 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 has said
+5 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 kept has
+6 	 5 	 ((S[pt]\NP)/PP)/NP 	 3 	 pace kept
+7 	 5 	 ((S[pt]\NP)/PP)/NP 	 2 	 with kept
+9 	 7 	 PP/NP 	 1 	 trends with
+9 	 8 	 N/N 	 1 	 trends current
+9 	 10 	 (NP\NP)/NP 	 1 	 trends in
+12 	 10 	 (NP\NP)/NP 	 2 	 preferences in
+12 	 11 	 N/N 	 1 	 preferences consumer
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+15 	 16 	 (S\S)/NP 	 1 	 said in
+18 	 16 	 (S\S)/NP 	 2 	 speech in
+18 	 17 	 NP[nb]/N 	 1 	 speech a
+18 	 19 	 (NP\NP)/NP 	 1 	 speech at
+21 	 20 	 NP[nb]/N 	 1 	 company the
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 company 's
+25 	 19 	 (NP\NP)/NP 	 2 	 meeting at
+25 	 22 	 (NP[nb]/N)\NP 	 1 	 meeting 's
+25 	 23 	 N/N 	 1 	 meeting annual
+25 	 24 	 N/N 	 1 	 meeting shareholders
+<\s>
+<s id="wsj_0968.8"> 38
+0 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Analysts said
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 competitors said
+5 	 4 	 NP[nb]/N 	 1 	 move the
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 move reflects
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 reflects said
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 need reflects
+9 	 7 	 NP[nb]/N 	 1 	 need a
+9 	 8 	 N/N 	 1 	 need growing
+9 	 10 	 (NP\NP)/NP 	 1 	 need by
+12 	 10 	 (NP\NP)/NP 	 2 	 stores by
+12 	 11 	 NP[nb]/N 	 1 	 stores the
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 expand to
+14 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 expand beyond
+17 	 14 	 (S[b]\NP)/NP 	 2 	 base expand
+17 	 15 	 NP[nb]/N 	 1 	 base their
+17 	 16 	 N/N 	 1 	 base customer
+22 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 worker beyond
+22 	 19 	 NP[nb]/N 	 1 	 worker the
+22 	 20 	 N/N 	 1 	 worker traditional
+22 	 21 	 N/N 	 1 	 worker blue-collar
+22 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 worker who
+22 	 24 	 (S[dcl]\NP)/PP 	 1 	 worker pops <XB>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 pops who
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 pops into
+28 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 store into
+28 	 26 	 NP[nb]/N 	 1 	 store a
+28 	 27 	 N/N 	 1 	 store convenience
+29 	 24 	 (S[dcl]\NP)/PP 	 2 	 for pops
+31 	 29 	 PP/NP 	 1 	 sandwich for
+31 	 30 	 NP[nb]/N 	 1 	 sandwich a
+33 	 29 	 PP/NP 	 1 	 cigarettes for
+35 	 29 	 PP/NP 	 1 	 soda for
+37 	 29 	 PP/NP 	 1 	 beer for
+<\s>
+<s id="wsj_0968.9"> 27
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There are
+1 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 are said
+4 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 number are
+4 	 2 	 NP[nb]/N 	 1 	 number an
+4 	 3 	 N/N 	 1 	 number increasing
+4 	 5 	 (NP\NP)/NP 	 1 	 number of
+4 	 7 	 NP\NP 	 1 	 number out
+4 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 number who
+4 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 number are <XB>
+4 	 11 	 S[adj]\NP 	 1 	 number time-poor <XB>
+6 	 5 	 (NP\NP)/NP 	 2 	 people of
+7 	 8 	 (NP\NP)\(NP\NP) 	 2 	 out there
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are who
+11 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 time-poor are
+15 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 Vroom said
+15 	 14 	 N/N 	 1 	 Vroom Chris
+18 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst said
+18 	 17 	 N/N 	 1 	 analyst retail
+18 	 19 	 (NP\NP)/NP 	 1 	 analyst with
+24 	 19 	 (NP\NP)/NP 	 2 	 Sons with
+24 	 20 	 N/N 	 1 	 Sons Alex
+24 	 22 	 N/N 	 1 	 Sons Brown
+24 	 23 	 N/N 	 1 	 Sons &
+24 	 25 	 (NP\NP)/NP 	 1 	 Sons of
+26 	 25 	 (NP\NP)/NP 	 2 	 Baltimore of
+<\s>
+<s id="wsj_0968.10"> 17
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Those are
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 are primarily
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 workers are
+4 	 3 	 N/N 	 1 	 workers white-collar
+8 	 1 	 (S[dcl]\NP)/NP 	 2 	 segment are
+8 	 6 	 NP[nb]/N 	 1 	 segment a
+8 	 7 	 N/N 	 1 	 segment customer
+8 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 segment that
+8 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 segment has <XB>
+8 	 12 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 segment proved <XB>
+8 	 13 	 S[adj]\NP 	 1 	 segment elusive <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has that
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 has historically
+12 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 proved has
+12 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 proved for
+13 	 12 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 elusive proved
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 stores for
+16 	 15 	 N/N 	 1 	 stores convenience
+<\s>
+<s id="wsj_0968.11"> 39
+1 	 0 	 N/N 	 1 	 Convenience National
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Convenience 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 move 's
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 move is
+3 	 5 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 move likely <XB>
+4 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 is though
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely is
+6 	 5 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+8 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 echoed be
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 echoed by
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 chains by
+11 	 10 	 N/N 	 1 	 chains other
+14 	 15 	 (S[dcl]\NP)/S[em] 	 1 	 analysts note
+15 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 note though
+16 	 15 	 (S[dcl]\NP)/S[em] 	 2 	 that note
+18 	 17 	 N/N 	 1 	 Corp. Southland
+18 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Corp. are
+18 	 30 	 ((S[adj]\NP)/(S[to]\NP))/(S[adj]\NP) 	 1 	 Corp. too <XB>
+20 	 21 	 (NP\NP)/NP 	 1 	 owner of
+20 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 owner are
+20 	 30 	 ((S[adj]\NP)/(S[to]\NP))/(S[adj]\NP) 	 1 	 owner too <XB>
+23 	 21 	 (NP\NP)/NP 	 2 	 stores of
+23 	 22 	 N/N 	 1 	 stores 7-Eleven
+28 	 26 	 N/N 	 1 	 Corp. Circle
+28 	 27 	 N/N 	 1 	 Corp. K
+28 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Corp. are
+28 	 30 	 ((S[adj]\NP)/(S[to]\NP))/(S[adj]\NP) 	 1 	 Corp. too <XB>
+29 	 16 	 S[em]/S[dcl] 	 1 	 are that
+30 	 29 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 too are
+31 	 30 	 ((S[adj]\NP)/(S[to]\NP))/(S[adj]\NP) 	 3 	 debt-heavy too
+32 	 30 	 ((S[adj]\NP)/(S[to]\NP))/(S[adj]\NP) 	 2 	 to too
+33 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 roll to
+33 	 34 	 (S\NP)\(S\NP) 	 2 	 roll out
+38 	 33 	 (S[b]\NP)/NP 	 2 	 effort roll
+38 	 35 	 NP/NP 	 1 	 effort such
+38 	 36 	 NP[nb]/N 	 1 	 effort an
+38 	 37 	 N/N 	 1 	 effort extensive
+<\s>
+<s id="wsj_0968.12"> 27
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 Southland said
+3 	 0 	 S/S 	 1 	 said Still
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+6 	 5 	 NP[nb]/N 	 1 	 franchisees its
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 franchisees have
+6 	 9 	 ((S[ng]\NP)/PP)/NP 	 1 	 franchisees targeting <XB>
+7 	 4 	 S[em]/S[dcl] 	 1 	 have that
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+9 	 8 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 targeting been
+9 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 targeting for
+11 	 9 	 ((S[ng]\NP)/PP)/NP 	 3 	 merchandise targeting
+11 	 10 	 NP[nb]/N 	 1 	 merchandise their
+12 	 9 	 ((S[ng]\NP)/PP)/NP 	 2 	 to targeting
+14 	 12 	 PP/NP 	 1 	 customers to
+14 	 13 	 NP[nb]/N 	 1 	 customers their
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+19 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+21 	 20 	 NP[nb]/N 	 1 	 company the
+21 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company has
+21 	 23 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 company begun <XB>
+21 	 25 	 (S[b]\NP)/NP 	 1 	 company follow <XB>
+22 	 19 	 S[em]/S[dcl] 	 1 	 has that
+23 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 begun has
+24 	 23 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to begun
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 follow to
+26 	 25 	 (S[b]\NP)/NP 	 2 	 suit follow
+<\s>
+<s id="wsj_0968.13"> 20
+1 	 0 	 (S/S)/NP 	 2 	 instance For
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Southland has
+3 	 5 	 (S[pt]\NP)/NP 	 1 	 Southland expanded <XB>
+3 	 14 	 (S[pt]\NP)/NP 	 1 	 Southland added <XU>
+4 	 0 	 (S/S)/NP 	 1 	 has For
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 expanded has
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 expanded in
+9 	 5 	 (S[pt]\NP)/NP 	 2 	 selection expanded
+9 	 6 	 NP[nb]/N 	 1 	 selection its
+9 	 7 	 N/N 	 1 	 selection bottled
+9 	 8 	 N/N 	 1 	 selection water
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 stores in
+12 	 11 	 NP[nb]/N 	 1 	 stores some
+14 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 added has
+14 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 added in
+16 	 14 	 (S[pt]\NP)/NP 	 2 	 sandwiches added
+16 	 15 	 N/N 	 1 	 sandwiches fresh
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 outlets in
+19 	 18 	 NP[nb]/N 	 1 	 outlets some
+<\s>
+<s id="wsj_0968.14"> 20
+1 	 0 	 N/N 	 1 	 months Several
+1 	 2 	 (S/S)\NP 	 2 	 months ago
+4 	 6 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it added
+6 	 2 	 (S/S)\NP 	 1 	 added ago
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 added also
+6 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 added said
+12 	 6 	 ((S[dcl]\NP)/PP)/NP 	 3 	 displays added
+12 	 7 	 N/N 	 1 	 displays black
+12 	 8 	 N/N 	 1 	 displays health
+12 	 10 	 N/N 	 1 	 displays beauty
+12 	 11 	 N/N 	 1 	 displays aids
+13 	 6 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to added
+15 	 13 	 PP/NP 	 1 	 stores to
+15 	 14 	 N/N 	 1 	 stores many
+18 	 17 	 NP[nb]/N 	 1 	 spokeswoman a
+18 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 spokeswoman said
+<\s>
+<s id="wsj_0968.15"> 11
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 We see
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 see certainly
+2 	 10 	 (S[dcl]\S[dcl])\NP 	 1 	 see added
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 trend see
+5 	 3 	 NP[nb]/N 	 1 	 trend an
+5 	 4 	 N/N 	 1 	 trend increasing
+5 	 6 	 (NP\NP)/NP 	 1 	 trend toward
+7 	 6 	 (NP\NP)/NP 	 2 	 that toward
+9 	 10 	 (S[dcl]\S[dcl])\NP 	 2 	 she added
+<\s>
+<s id="wsj_0968.16"> 17
+1 	 0 	 N/N 	 1 	 Convenience National
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Convenience said
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+3 	 5 	 (S[pt]\NP)/NP 	 1 	 it tested <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 tested has
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 tested in
+5 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 tested with
+9 	 5 	 (S[pt]\NP)/NP 	 2 	 mix tested
+9 	 6 	 NP[nb]/N 	 1 	 mix its
+9 	 7 	 N/N 	 1 	 mix new
+9 	 8 	 N/N 	 1 	 mix merchandise
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 stores in
+12 	 11 	 N/N 	 1 	 stores 100
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 results with
+16 	 15 	 N/N 	 1 	 results favorable
+<\s>
+<s id="wsj_0968.17"> 37
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Analysts said
+3 	 2 	 NP[nb]/N 	 1 	 company the
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 company 's
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 effort 's
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 effort will
+5 	 8 	 S[pss]\NP 	 1 	 effort helped <XB>
+6 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+8 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 helped be
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 helped by
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 decision by
+11 	 10 	 NP[nb]/N 	 1 	 decision its
+11 	 13 	 NP\NP 	 1 	 decision year
+13 	 12 	 (NP\NP)/(NP\NP) 	 2 	 year last
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 put to
+17 	 15 	 ((S[b]\NP)/PP)/NP 	 3 	 scanners put
+17 	 16 	 N/N 	 1 	 scanners point-of-sale
+18 	 15 	 ((S[b]\NP)/PP)/NP 	 2 	 in put
+20 	 18 	 PP/NP 	 1 	 stores in
+20 	 19 	 N/N 	 1 	 stores 200
+24 	 22 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 Convenience allowing
+24 	 23 	 N/N 	 1 	 Convenience National
+24 	 27 	 (S[b]\NP)/NP 	 1 	 Convenience track <XB>
+25 	 22 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to allowing
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 to quickly
+27 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 track to
+28 	 27 	 (S[b]\NP)/NP 	 2 	 items track
+28 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 items that
+28 	 30 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 items are <XB>
+28 	 31 	 S[ng]\NP 	 1 	 items selling <XB>
+30 	 29 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+31 	 30 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 selling are
+33 	 27 	 (S[b]\NP)/NP 	 2 	 those track
+33 	 34 	 (NP\NP)/(S[dcl]\NP) 	 1 	 those that
+33 	 35 	 S[dcl]\NP 	 1 	 those are <XB>
+35 	 34 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+35 	 36 	 (S\NP)\(S\NP) 	 2 	 are n't
+<\s>
+<s id="wsj_0968.18"> 35
+1 	 0 	 (S[to]\NP)/(S[b]\NP) 	 2 	 promote To
+4 	 1 	 (S[b]\NP)/NP 	 2 	 strategy promote
+4 	 2 	 NP[nb]/N 	 1 	 strategy its
+4 	 3 	 N/N 	 1 	 strategy new
+7 	 6 	 N/N 	 1 	 Convenience National
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Convenience said
+9 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it plans
+9 	 12 	 ((S[b]\NP)/PP)/NP 	 1 	 it spend <XB>
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 plans said
+11 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 spend to
+12 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 spend for
+12 	 26 	 ((S\NP)\(S\NP))/PP 	 2 	 spend up
+14 	 12 	 ((S[b]\NP)/PP)/NP 	 3 	 $ spend
+14 	 13 	 N/N 	 1 	 $ about
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 12
+17 	 12 	 ((S[b]\NP)/PP)/NP 	 2 	 on spend
+18 	 17 	 PP/NP 	 1 	 advertising on
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 year for
+21 	 20 	 NP[nb]/N 	 1 	 year the
+21 	 22 	 S[ng]\NP 	 1 	 year ending <XB>
+22 	 23 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ending June
+24 	 23 	 ((S\NP)\(S\NP))/N[num] 	 3 	 30 June
+27 	 26 	 ((S\NP)\(S\NP))/PP 	 3 	 from up
+27 	 32 	 (PP\PP)/NP 	 1 	 from in
+29 	 27 	 PP/NP 	 1 	 $ from
+29 	 28 	 N/N 	 1 	 $ about
+31 	 29 	 N/N[num] 	 1 	 million $
+31 	 30 	 N/N 	 1 	 million 10
+34 	 32 	 (PP\PP)/NP 	 2 	 1989 in
+34 	 33 	 N/N 	 1 	 1989 fiscal
+<\s>

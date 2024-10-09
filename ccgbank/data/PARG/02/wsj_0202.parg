@@ -1,0 +1,47 @@
+<s id="wsj_0202.1"> 14
+2 	 0 	 N/N 	 1 	 Inc. BELL
+2 	 1 	 N/N 	 1 	 Inc. INDUSTRIES
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Inc. increased
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+3 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 increased from
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 quarterly increased
+5 	 4 	 NP[nb]/N 	 1 	 quarterly its
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+8 	 7 	 N/N 	 1 	 cents 10
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+11 	 10 	 N/N 	 1 	 cents seven
+11 	 12 	 (NP\NP)/N 	 1 	 cents a
+13 	 12 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0202.2"> 8
+2 	 0 	 NP[nb]/N 	 1 	 rate The
+2 	 1 	 N/N 	 1 	 rate new
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rate will
+2 	 5 	 (S[adj]\NP)/NP 	 1 	 rate payable <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+5 	 4 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 payable be
+6 	 5 	 (S[adj]\NP)/NP 	 2 	 Feb. payable
+7 	 6 	 N/N[num] 	 1 	 15 Feb.
+<\s>
+<s id="wsj_0202.3"> 7
+2 	 0 	 NP[nb]/N 	 1 	 date A
+2 	 1 	 N/N 	 1 	 date record
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 date has
+2 	 6 	 S[pss]\NP 	 1 	 date set <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 has n't
+5 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+6 	 5 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 set been
+<\s>
+<s id="wsj_0202.4"> 16
+0 	 2 	 S[pss]\NP 	 1 	 Bell based <XB>
+0 	 7 	 (S[dcl]\NP)/NP 	 1 	 Bell makes
+0 	 9 	 (S[dcl]\NP)/NP 	 1 	 Bell distributes <XU>
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Angeles in
+5 	 4 	 N/N 	 1 	 Angeles Los
+15 	 7 	 (S[dcl]\NP)/NP 	 2 	 products makes <XU>
+15 	 9 	 (S[dcl]\NP)/NP 	 2 	 products distributes
+15 	 10 	 N/N 	 1 	 products electronic <XU>
+15 	 12 	 N/N 	 1 	 products computer <XU>
+15 	 14 	 N/N 	 1 	 products building
+<\s>

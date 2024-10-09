@@ -1,0 +1,498 @@
+<s id="wsj_0964.1"> 28
+2 	 0 	 NP[nb]/N 	 1 	 House The
+2 	 1 	 N/N 	 1 	 House White
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 House has
+2 	 4 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 House decided <XB>
+2 	 6 	 (S[b]\NP)/PP 	 1 	 House push <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 decided has
+5 	 4 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to decided
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 push to
+7 	 6 	 (S[b]\NP)/PP 	 2 	 for push
+8 	 7 	 PP/NP 	 1 	 changes for
+8 	 9 	 (NP\NP)/NP 	 1 	 changes in
+8 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 changes that
+8 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 changes are <XB>
+8 	 14 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 changes designed <XB>
+8 	 16 	 (S[b]\NP)/NP 	 1 	 changes speed <XB>
+11 	 9 	 (NP\NP)/NP 	 2 	 law in
+11 	 10 	 N/N 	 1 	 law pesticide
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 designed are
+15 	 14 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to designed
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 speed to
+18 	 16 	 (S[b]\NP)/NP 	 2 	 removal speed
+18 	 17 	 NP[nb]/N 	 1 	 removal the
+18 	 19 	 (NP\NP)/NP 	 1 	 removal of
+18 	 22 	 (NP\NP)/NP 	 1 	 removal from
+21 	 19 	 (NP\NP)/NP 	 2 	 chemicals of
+21 	 20 	 N/N 	 1 	 chemicals harmful
+24 	 23 	 NP[nb]/N 	 1 	 nation the
+24 	 25 	 (NP[nb]/N)\NP 	 2 	 nation 's
+27 	 22 	 (NP\NP)/NP 	 2 	 supply from
+27 	 25 	 (NP[nb]/N)\NP 	 1 	 supply 's
+27 	 26 	 N/N 	 1 	 supply food
+<\s>
+<s id="wsj_0964.2"> 30
+2 	 0 	 NP[nb]/N 	 1 	 changes The
+2 	 1 	 N/N 	 1 	 changes proposed
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 changes which
+2 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 changes are <XB>
+2 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 changes scheduled <XB>
+2 	 9 	 S[pss]\NP 	 1 	 changes announced <XB>
+2 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 changes would
+2 	 13 	 (S[b]\NP)/PP 	 1 	 changes apply <XB>
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are which
+6 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 scheduled are
+7 	 6 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to scheduled
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+9 	 8 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 announced be
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 announced today
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 apply would
+13 	 26 	 ((S\NP)\(S\NP))/PP 	 2 	 apply according
+14 	 13 	 (S[b]\NP)/PP 	 2 	 to apply
+15 	 14 	 PP/NP 	 1 	 pesticides to
+15 	 19 	 S[pss]\NP 	 1 	 pesticides found <XB>
+18 	 14 	 PP/NP 	 1 	 substances to
+18 	 17 	 N/N 	 1 	 substances other
+18 	 19 	 S[pss]\NP 	 1 	 substances found <XB>
+19 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 found on
+24 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 foods on
+24 	 21 	 N/N 	 1 	 foods fresh <XU>
+24 	 23 	 N/N 	 1 	 foods processed
+27 	 26 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+29 	 27 	 PP/NP 	 1 	 officials to
+29 	 28 	 N/N 	 1 	 officials federal
+<\s>
+<s id="wsj_0964.3"> 18
+1 	 0 	 N/N 	 1 	 groups Environmental
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 groups have
+1 	 4 	 (S[ng]\NP)/PP 	 1 	 groups calling <XB>
+1 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 groups may <XU>
+1 	 13 	 (S[b]\NP)/NP 	 1 	 groups welcome <XU>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+4 	 3 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 calling been
+5 	 4 	 (S[ng]\NP)/PP 	 2 	 for calling
+7 	 5 	 PP/NP 	 1 	 action for
+7 	 6 	 N/N 	 1 	 action faster
+7 	 8 	 (NP\NP)/NP 	 1 	 action on
+10 	 8 	 (NP\NP)/NP 	 2 	 pesticides on
+10 	 9 	 N/N 	 1 	 pesticides dangerous
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 welcome may
+14 	 13 	 (S[b]\NP)/NP 	 2 	 part welcome
+14 	 15 	 (NP\NP)/NP 	 1 	 part of
+17 	 15 	 (NP\NP)/NP 	 2 	 proposal of
+17 	 16 	 NP[nb]/N 	 1 	 proposal the
+<\s>
+<s id="wsj_0964.4"> 23
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 they are
+1 	 4 	 (S[ng]\NP)/PP 	 1 	 they objecting <XB>
+2 	 0 	 S/S 	 1 	 are But
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 are already
+4 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 objecting are
+5 	 4 	 (S[ng]\NP)/PP 	 2 	 to objecting
+5 	 7 	 (PP\PP)/NP 	 1 	 to among
+9 	 7 	 (PP\PP)/NP 	 2 	 things among
+9 	 8 	 N/N 	 1 	 things other
+12 	 5 	 PP/NP 	 1 	 plan to
+12 	 11 	 NP[nb]/N 	 1 	 plan a
+12 	 14 	 ((S[b]\NP)/PP)/NP 	 1 	 plan give <XB>
+12 	 21 	 (S[ng]\NP)/NP 	 1 	 plan evaluating <XB>
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 give to
+14 	 20 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 give in
+16 	 14 	 ((S[b]\NP)/PP)/NP 	 3 	 weight give
+16 	 15 	 N/N 	 1 	 weight more
+17 	 14 	 ((S[b]\NP)/PP)/NP 	 2 	 to give
+19 	 17 	 PP/NP 	 1 	 considerations to
+19 	 18 	 N/N 	 1 	 considerations cost-benefit
+21 	 20 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 evaluating in
+22 	 21 	 (S[ng]\NP)/NP 	 2 	 pesticides evaluating
+<\s>
+<s id="wsj_0964.5"> 18
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+1 	 6 	 (S[dcl]\S[dcl])/NP 	 1 	 's said
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 disappointment 's
+4 	 2 	 NP[nb]/N 	 1 	 disappointment a
+4 	 3 	 N/N 	 1 	 disappointment tremendous
+8 	 6 	 (S[dcl]\S[dcl])/NP 	 2 	 Hathaway said
+8 	 7 	 N/N 	 1 	 Hathaway Janet
+11 	 6 	 (S[dcl]\S[dcl])/NP 	 2 	 attorney said
+11 	 10 	 NP[nb]/N 	 1 	 attorney an
+11 	 12 	 (NP\NP)/NP 	 1 	 attorney with
+17 	 12 	 (NP\NP)/NP 	 2 	 Council with
+17 	 13 	 NP[nb]/N 	 1 	 Council the
+17 	 14 	 N/N 	 1 	 Council Natural
+17 	 15 	 N/N 	 1 	 Council Resources
+17 	 16 	 N/N 	 1 	 Council Defense
+<\s>
+<s id="wsj_0964.6"> 23
+0 	 16 	 (S[dcl]\NP)/NP 	 1 	 Allowing is
+2 	 0 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 EPA Allowing
+2 	 1 	 NP[nb]/N 	 1 	 EPA the
+2 	 4 	 (S[b]\NP)/NP 	 1 	 EPA condone <XB>
+3 	 0 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to Allowing
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 condone to
+4 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 condone whenever
+6 	 4 	 (S[b]\NP)/NP 	 2 	 use condone
+6 	 5 	 N/N 	 1 	 use continued
+6 	 7 	 (NP\NP)/NP 	 1 	 use of
+9 	 7 	 (NP\NP)/NP 	 2 	 chemical of
+9 	 8 	 NP[nb]/N 	 1 	 chemical a
+12 	 11 	 NP[nb]/N 	 1 	 benefits the
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 benefits outweigh
+13 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 outweigh whenever
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 risks outweigh
+15 	 14 	 NP[nb]/N 	 1 	 risks the
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 is absolutely
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 anathema is
+18 	 19 	 (NP\NP)/NP 	 1 	 anathema to
+22 	 19 	 (NP\NP)/NP 	 2 	 community to
+22 	 20 	 NP[nb]/N 	 1 	 community the
+22 	 21 	 N/N 	 1 	 community environmental
+<\s>
+<s id="wsj_0964.7"> 24
+2 	 0 	 NP[nb]/N 	 1 	 administration The
+2 	 1 	 N/N 	 1 	 administration Bush
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 administration plans
+2 	 5 	 (S[b]\NP)/NP 	 1 	 administration announce <XB>
+2 	 12 	 (S[b]\NP)/PP 	 1 	 administration work <XU>
+2 	 17 	 (S[ng]\NP)/NP 	 1 	 administration writing <XU>
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 announce to
+7 	 5 	 (S[b]\NP)/NP 	 2 	 series announce
+7 	 6 	 NP[nb]/N 	 1 	 series a
+7 	 8 	 (NP\NP)/NP 	 1 	 series of
+9 	 8 	 (NP\NP)/NP 	 2 	 principles of
+11 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 work to
+12 	 16 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 work in
+13 	 12 	 (S[b]\NP)/PP 	 2 	 with work
+15 	 13 	 PP/NP 	 1 	 leaders with
+15 	 14 	 N/N 	 1 	 leaders congressional
+17 	 16 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 writing in
+20 	 17 	 (S[ng]\NP)/NP 	 2 	 proposals writing
+20 	 18 	 N/N 	 1 	 proposals specific
+20 	 19 	 N/N 	 1 	 proposals legislative
+20 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 proposals that
+20 	 22 	 (S[dcl]\NP)/NP 	 1 	 proposals embody <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 embody that
+23 	 22 	 (S[dcl]\NP)/NP 	 2 	 them embody
+<\s>
+<s id="wsj_0964.8"> 27
+1 	 0 	 NP[nb]/N 	 1 	 principles The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 principles would
+1 	 3 	 ((S[b]\NP)/NP)/NP 	 1 	 principles give <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 give would
+3 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 give with
+7 	 3 	 ((S[b]\NP)/NP)/NP 	 3 	 Agency give
+7 	 4 	 NP[nb]/N 	 1 	 Agency the
+7 	 5 	 N/N 	 1 	 Agency Environmental
+7 	 6 	 N/N 	 1 	 Agency Protection
+9 	 3 	 ((S[b]\NP)/NP)/NP 	 2 	 authority give
+9 	 8 	 N/N 	 1 	 authority increased
+9 	 12 	 (NP\NP)/(S[ng]\NP) 	 1 	 authority in
+11 	 3 	 ((S[b]\NP)/NP)/NP 	 2 	 flexibility give
+11 	 8 	 N/N 	 1 	 flexibility increased
+11 	 12 	 (NP\NP)/(S[ng]\NP) 	 1 	 flexibility in
+13 	 12 	 (NP\NP)/(S[ng]\NP) 	 2 	 regulating in
+14 	 13 	 (S[ng]\NP)/NP 	 2 	 pesticides regulating
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 aim with
+18 	 17 	 NP[nb]/N 	 1 	 aim the
+18 	 19 	 (NP\NP)/(S[ng]\NP) 	 1 	 aim of
+20 	 19 	 (NP\NP)/(S[ng]\NP) 	 2 	 enabling of
+22 	 20 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 agency enabling
+22 	 21 	 NP[nb]/N 	 1 	 agency the
+22 	 24 	 S[b]\NP 	 1 	 agency move <XB>
+23 	 20 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to enabling
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 move to
+24 	 26 	 (S\NP)\(S\NP) 	 2 	 move quickly
+26 	 25 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 quickly more
+<\s>
+<s id="wsj_0964.9"> 11
+0 	 2 	 (S[dcl]\NP[thr])/NP 	 1 	 There are
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 are already
+3 	 2 	 (S[dcl]\NP[thr])/NP 	 2 	 proposals are
+3 	 4 	 S[ng]\NP 	 1 	 proposals pending <XB>
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 pending in
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Congress in
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 overhaul to
+10 	 8 	 (S[b]\NP)/NP 	 2 	 law overhaul
+10 	 9 	 N/N 	 1 	 law pesticide
+<\s>
+<s id="wsj_0964.10"> 42
+0 	 2 	 (S[b]\NP)/NP 	 1 	 Moves accelerate <XB>
+0 	 8 	 (S[dcl]\NP)/NP 	 1 	 Moves gained
+2 	 1 	 (S[to]\NP)/(S[b]\NP) 	 2 	 accelerate to
+4 	 2 	 (S[b]\NP)/NP 	 2 	 removal accelerate
+4 	 3 	 NP[nb]/N 	 1 	 removal the
+4 	 5 	 (NP\NP)/NP 	 1 	 removal of
+7 	 5 	 (NP\NP)/NP 	 2 	 pesticides of
+7 	 6 	 N/N 	 1 	 pesticides dangerous
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 gained during
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 impetus gained
+10 	 9 	 N/N 	 1 	 impetus new
+13 	 12 	 NP[nb]/N 	 1 	 year this
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 year 's
+16 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 scare during
+16 	 14 	 (NP[nb]/N)\NP 	 1 	 scare 's
+16 	 15 	 N/N 	 1 	 scare Alar
+16 	 18 	 (NP\NP)/S[dcl] 	 1 	 scare when
+20 	 19 	 NP[nb]/N 	 1 	 EPA the
+20 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 EPA was
+20 	 23 	 (S[pss]\NP)/PP 	 1 	 EPA criticized <XB>
+21 	 18 	 (NP\NP)/S[dcl] 	 2 	 was when
+23 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 criticized was
+23 	 22 	 (S\NP)/(S\NP) 	 2 	 criticized harshly
+24 	 23 	 (S[pss]\NP)/PP 	 2 	 for criticized
+25 	 24 	 PP/(S[ng]\NP) 	 1 	 failing for
+26 	 25 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to failing
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 yank to
+30 	 27 	 (S[b]\NP)/NP 	 2 	 carcinogen yank
+30 	 28 	 NP[nb]/N 	 1 	 carcinogen the
+30 	 29 	 N/N 	 1 	 carcinogen possible
+34 	 27 	 (S[b]\NP)/NP 	 2 	 regulator yank
+34 	 32 	 NP[nb]/N 	 1 	 regulator a
+34 	 33 	 N/N 	 1 	 regulator growth
+34 	 35 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 regulator used <XB>
+34 	 37 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 regulator make <XB>
+36 	 35 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to used
+37 	 36 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+38 	 37 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 apples make
+38 	 39 	 S[adj]\NP 	 1 	 apples redder <XB>
+38 	 41 	 S[adj]\NP 	 1 	 apples crunchier <XU>
+39 	 37 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 redder make
+41 	 37 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 crunchier make
+<\s>
+<s id="wsj_0964.11"> 34
+1 	 0 	 NP[nb]/N 	 1 	 agency The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 agency has
+1 	 4 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 agency acted <XB>
+1 	 6 	 ((S[b]\NP)/PP)/NP 	 1 	 agency remove <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 has since
+4 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 acted has
+5 	 4 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to acted
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 remove to
+6 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 remove by
+7 	 6 	 ((S[b]\NP)/PP)/NP 	 3 	 Alar remove
+8 	 6 	 ((S[b]\NP)/PP)/NP 	 2 	 from remove
+10 	 9 	 NP[nb]/N 	 1 	 nation the
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 nation 's
+13 	 8 	 PP/NP 	 1 	 shelves from
+13 	 11 	 (NP[nb]/N)\NP 	 1 	 shelves 's
+13 	 12 	 N/N 	 1 	 shelves grocery
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 May by
+15 	 18 	 N\N 	 1 	 May 1991
+16 	 15 	 N/N[num] 	 1 	 31 May
+23 	 21 	 NP[nb]/N 	 1 	 industry the
+23 	 22 	 N/N 	 1 	 industry apple
+23 	 24 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 industry has
+23 	 25 	 (S[pt]\NP)/S[em] 	 1 	 industry said <XB>
+25 	 24 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said has
+26 	 25 	 (S[pt]\NP)/S[em] 	 2 	 that said
+27 	 29 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 growers have
+27 	 30 	 (S[pt]\NP)/(S[ng]\NP) 	 1 	 growers stopped <XB>
+27 	 31 	 (S[ng]\NP)/NP 	 1 	 growers using <XB>
+29 	 26 	 S[em]/S[dcl] 	 1 	 have that
+29 	 28 	 (S\NP)/(S\NP) 	 2 	 have already
+30 	 29 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 stopped have
+31 	 30 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 using stopped
+33 	 31 	 (S[ng]\NP)/NP 	 2 	 chemical using
+33 	 32 	 NP[nb]/N 	 1 	 chemical the
+<\s>
+<s id="wsj_0964.12"> 12
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+4 	 3 	 NP[nb]/N 	 1 	 principles the
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 principles attempt
+4 	 7 	 (S[b]\NP)/NP 	 1 	 principles eliminate <XB>
+5 	 0 	 (S/S)/NP 	 1 	 attempt In
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to attempt
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 eliminate to
+11 	 7 	 (S[b]\NP)/NP 	 2 	 Paradox eliminate
+11 	 8 	 NP[nb]/N 	 1 	 Paradox the
+11 	 9 	 N/N 	 1 	 Paradox so-called
+11 	 10 	 N/N 	 1 	 Paradox Delaney
+<\s>
+<s id="wsj_0964.13"> 22
+3 	 0 	 (S/S)/NP 	 2 	 clause Under
+3 	 1 	 NP[nb]/N 	 1 	 clause the
+3 	 2 	 N/N 	 1 	 clause Delaney
+3 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 clause which
+3 	 6 	 (S[dcl]\NP)/PP 	 1 	 clause applies <XB>
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 applies which
+7 	 6 	 (S[dcl]\NP)/PP 	 2 	 to applies
+9 	 7 	 PP/NP 	 1 	 food to
+9 	 8 	 N/N 	 1 	 food processed
+12 	 11 	 NP[nb]/N 	 1 	 chemical a
+12 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 chemical is
+12 	 14 	 S[pss]\NP 	 1 	 chemical banned <XB>
+13 	 0 	 (S/S)/NP 	 1 	 is Under
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 banned is
+14 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 banned if
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 it causes
+17 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 causes if
+17 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 causes in
+18 	 17 	 (S[dcl]\NP)/NP 	 2 	 cancer causes
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 animals in
+21 	 20 	 N/N 	 1 	 animals laboratory
+<\s>
+<s id="wsj_0964.14"> 31
+2 	 0 	 (S/S)/NP 	 2 	 laws Under
+2 	 1 	 N/N 	 1 	 laws other
+2 	 3 	 (S[ng]\NP)/PP 	 1 	 laws applying <XB>
+4 	 3 	 (S[ng]\NP)/PP 	 2 	 to applying
+6 	 4 	 PP/NP 	 1 	 use to
+6 	 5 	 N/N 	 1 	 use pesticide
+12 	 10 	 NP[nb]/N 	 1 	 chemical that
+12 	 11 	 N/N 	 1 	 chemical same
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 chemical could
+12 	 15 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 chemical allowed <XB>
+12 	 18 	 (S[pss]\NP)/PP 	 1 	 chemical used <XB>
+13 	 0 	 (S/S)/NP 	 1 	 could Under
+13 	 8 	 S/S 	 1 	 could however
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+15 	 14 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 allowed be
+15 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 allowed if
+16 	 15 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to allowed
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+18 	 17 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 used be
+19 	 18 	 (S[pss]\NP)/PP 	 2 	 on used
+21 	 19 	 PP/NP 	 1 	 food on
+21 	 20 	 N/N 	 1 	 food fresh
+23 	 24 	 S[dcl]\NP 	 1 	 it fell
+24 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 fell if
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 fell within
+27 	 26 	 NP[nb]/N 	 1 	 EPA the
+27 	 28 	 (NP[nb]/N)\NP 	 2 	 EPA 's
+30 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 level within
+30 	 28 	 (NP[nb]/N)\NP 	 1 	 level 's
+30 	 29 	 N/N 	 1 	 level tolerance
+<\s>
+<s id="wsj_0964.15"> 9
+2 	 0 	 (S/S)/NP 	 2 	 changes Among
+2 	 1 	 N/N 	 1 	 changes other
+6 	 4 	 NP[nb]/N 	 1 	 House the
+6 	 5 	 N/N 	 1 	 House White
+6 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 House wants
+6 	 8 	 S[to]\NP 	 1 	 House to <XB>
+7 	 0 	 (S/S)/NP 	 1 	 wants Among
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wants
+<\s>
+<s id="wsj_0964.16"> 19
+3 	 1 	 ((S[b]\NP)/NP)/NP 	 3 	 EPA Give
+3 	 2 	 NP[nb]/N 	 1 	 EPA the
+5 	 1 	 ((S[b]\NP)/NP)/NP 	 2 	 flexibility Give
+5 	 4 	 N/N 	 1 	 flexibility more
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 declare to
+9 	 7 	 ((S[b]\NP)/NP)/NP 	 3 	 pesticide declare
+9 	 8 	 NP[nb]/N 	 1 	 pesticide a
+12 	 7 	 ((S[b]\NP)/NP)/NP 	 2 	 hazard declare
+12 	 10 	 NP[nb]/N 	 1 	 hazard an
+12 	 11 	 N/N 	 1 	 hazard imminent
+14 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pull to
+15 	 14 	 ((S[b]\NP)/PP)/NP 	 3 	 it pull
+16 	 14 	 ((S[b]\NP)/PP)/NP 	 2 	 from pull
+18 	 16 	 PP/NP 	 1 	 marketplace from
+18 	 17 	 NP[nb]/N 	 1 	 marketplace the
+<\s>
+<s id="wsj_0964.17"> 15
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 Speed up
+4 	 1 	 (S[b]\NP)/NP 	 2 	 process Speed
+4 	 3 	 NP[nb]/N 	 1 	 process the
+4 	 5 	 (NP\NP)/(S[ng]\NP) 	 1 	 process for
+6 	 5 	 (NP\NP)/(S[ng]\NP) 	 2 	 removing for
+8 	 6 	 (S[ng]\NP)/NP 	 2 	 pesticide removing
+8 	 7 	 NP[nb]/N 	 1 	 pesticide a
+8 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 pesticide that
+8 	 10 	 (S[dcl]\NP)/NP 	 1 	 pesticide is <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is that
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 is n't
+14 	 10 	 (S[dcl]\NP)/NP 	 2 	 hazard is
+14 	 12 	 NP[nb]/N 	 1 	 hazard an
+14 	 13 	 N/N 	 1 	 hazard imminent
+<\s>
+<s id="wsj_0964.18"> 20
+2 	 1 	 ((S[b]\NP)/PP)/NP 	 3 	 states Bar
+3 	 1 	 ((S[b]\NP)/PP)/NP 	 2 	 from Bar
+4 	 3 	 PP/(S[ng]\NP) 	 1 	 setting from
+4 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 setting once
+6 	 5 	 (N/N)/(N/N) 	 2 	 stringent more
+8 	 4 	 (S[ng]\NP)/NP 	 2 	 levels setting
+8 	 6 	 N/N 	 1 	 levels stringent
+8 	 7 	 N/N 	 1 	 levels tolerance
+8 	 9 	 (NP\NP)/NP 	 1 	 levels for
+11 	 9 	 (NP\NP)/NP 	 2 	 pesticide for
+11 	 10 	 NP[nb]/N 	 1 	 pesticide a
+15 	 13 	 NP[nb]/N 	 1 	 government the
+15 	 14 	 N/N 	 1 	 government federal
+15 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 government has
+15 	 17 	 (S[pt]\NP)/NP 	 1 	 government set <XB>
+16 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has once
+17 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 set has
+19 	 17 	 (S[pt]\NP)/NP 	 2 	 standard set
+19 	 18 	 NP[nb]/N 	 1 	 standard a
+<\s>
+<s id="wsj_0964.19"> 17
+3 	 1 	 ((S[b]\NP)/NP)/NP 	 3 	 EPA Give
+3 	 2 	 NP[nb]/N 	 1 	 EPA the
+5 	 1 	 ((S[b]\NP)/NP)/NP 	 2 	 discretion Give
+5 	 4 	 N/N 	 1 	 discretion added
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 set to
+7 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 set for
+10 	 7 	 (S[b]\NP)/NP 	 2 	 levels set
+10 	 8 	 N/N 	 1 	 levels negligible
+10 	 9 	 N/N 	 1 	 levels risk
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 residues for
+13 	 12 	 N/N 	 1 	 residues pesticide
+13 	 14 	 (NP\NP)/NP 	 1 	 residues in
+16 	 14 	 (NP\NP)/NP 	 2 	 food in
+16 	 15 	 N/N 	 1 	 food processed
+<\s>
+<s id="wsj_0964.20"> 20
+0 	 1 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Chemicals that
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 Chemicals exceed <XB>
+0 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Chemicals would
+0 	 8 	 S[pss]\NP 	 1 	 Chemicals barred <XB>
+2 	 1 	 (NP\NP)/(S[dcl]\NP) 	 2 	 exceed that
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 levels exceed
+5 	 3 	 NP[nb]/N 	 1 	 levels these
+5 	 4 	 N/N 	 1 	 levels risk
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+8 	 7 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 barred be
+11 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 those that
+11 	 13 	 S[dcl]\NP 	 1 	 those fall <XB>
+11 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 those would
+11 	 19 	 S[pss]\NP 	 1 	 those allowed <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 fall that
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 fall below
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 levels below
+16 	 15 	 NP[nb]/N 	 1 	 levels these
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+19 	 18 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 allowed be
+<\s>
+<s id="wsj_0964.21"> 26
+3 	 1 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 EPA Allow
+3 	 2 	 NP[nb]/N 	 1 	 EPA the
+3 	 5 	 (S[b]\NP)/NP 	 1 	 EPA permit <XB>
+4 	 1 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to Allow
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 permit to
+5 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 permit if
+8 	 5 	 (S[b]\NP)/NP 	 2 	 use permit
+8 	 6 	 NP[nb]/N 	 1 	 use the
+8 	 7 	 N/N 	 1 	 use continued
+8 	 9 	 (NP\NP)/NP 	 1 	 use of
+10 	 9 	 (NP\NP)/NP 	 2 	 pesticides of
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 pesticides that
+10 	 12 	 (S[dcl]\NP)/NP 	 1 	 pesticides exceed <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 exceed that
+16 	 12 	 (S[dcl]\NP)/NP 	 2 	 standard exceed
+16 	 13 	 NP[nb]/N 	 1 	 standard its
+16 	 14 	 N/N 	 1 	 standard negligible
+16 	 15 	 N/N 	 1 	 standard risk
+19 	 18 	 NP[nb]/N 	 1 	 benefits the
+19 	 20 	 (NP\NP)/(S[ng]\NP) 	 1 	 benefits of
+19 	 23 	 (S[dcl]\NP)/NP 	 1 	 benefits outweigh
+21 	 20 	 (NP\NP)/(S[ng]\NP) 	 2 	 doing of
+22 	 21 	 (S[ng]\NP)/(S[adj]\NP) 	 2 	 so doing
+23 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 outweigh if
+25 	 23 	 (S[dcl]\NP)/NP 	 2 	 cost outweigh
+25 	 24 	 NP[nb]/N 	 1 	 cost the
+<\s>

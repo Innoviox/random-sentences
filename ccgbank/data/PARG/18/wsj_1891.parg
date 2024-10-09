@@ -1,0 +1,145 @@
+<s id="wsj_1891.1"> 34
+1 	 0 	 N/N 	 1 	 Corp. Enron
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+4 	 3 	 NP[nb]/N 	 1 	 subsidiary a
+4 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 subsidiary are
+4 	 11 	 (S[ng]\NP)/NP 	 1 	 subsidiary studying <XB>
+9 	 6 	 N/N 	 1 	 firms two
+9 	 7 	 N/N 	 1 	 firms United
+9 	 8 	 N/N 	 1 	 firms Kingdom
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 firms are
+9 	 11 	 (S[ng]\NP)/NP 	 1 	 firms studying <XB>
+10 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 are said
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 studying are
+13 	 11 	 (S[ng]\NP)/NP 	 2 	 feasibility studying
+13 	 12 	 NP[nb]/N 	 1 	 feasibility the
+13 	 14 	 (NP\NP)/(S[ng]\NP) 	 1 	 feasibility of
+15 	 14 	 (NP\NP)/(S[ng]\NP) 	 2 	 constructing of
+15 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 constructing in
+15 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 constructing as
+21 	 15 	 (S[ng]\NP)/NP 	 2 	 plant constructing
+21 	 16 	 NP[nb]/N 	 1 	 plant a
+21 	 17 	 N/N 	 1 	 plant 1,500
+21 	 18 	 N/N 	 1 	 plant megawatt
+21 	 19 	 N/N 	 1 	 plant gas-fired
+21 	 20 	 N/N 	 1 	 plant power
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 England in
+24 	 23 	 N/N 	 1 	 England northern
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 outgrowth as
+27 	 26 	 NP[nb]/N 	 1 	 outgrowth an
+27 	 28 	 (NP\NP)/NP 	 1 	 outgrowth of
+30 	 29 	 NP[nb]/N 	 1 	 government the
+30 	 31 	 (NP[nb]/N)\NP 	 2 	 government 's
+33 	 28 	 (NP\NP)/NP 	 2 	 program of
+33 	 31 	 (NP[nb]/N)\NP 	 1 	 program 's
+33 	 32 	 N/N 	 1 	 program privatization
+<\s>
+<s id="wsj_1891.2"> 22
+2 	 0 	 N/N 	 1 	 Corp. Enron
+2 	 1 	 N/N 	 1 	 Corp. Power
+2 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Corp. would
+2 	 15 	 (S[b]\NP)/NP 	 1 	 Corp. design <XB>
+2 	 17 	 (S[b]\NP)/NP 	 1 	 Corp. construct <XU>
+2 	 19 	 (S[b]\NP)/NP 	 1 	 Corp. run <XU>
+5 	 4 	 NP[nb]/N 	 1 	 unit a
+5 	 6 	 (NP\NP)/NP 	 1 	 unit of
+5 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 unit would
+5 	 15 	 (S[b]\NP)/NP 	 1 	 unit design <XB>
+5 	 17 	 (S[b]\NP)/NP 	 1 	 unit construct <XU>
+5 	 19 	 (S[b]\NP)/NP 	 1 	 unit run <XU>
+12 	 6 	 (NP\NP)/NP 	 2 	 company of
+12 	 7 	 NP[nb]/N 	 1 	 company the
+12 	 8 	 N/N 	 1 	 company Houston
+12 	 9 	 N/N 	 1 	 company natural
+12 	 10 	 N/N 	 1 	 company gas
+12 	 11 	 N/N 	 1 	 company pipeline
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 design would
+17 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 construct would
+19 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 run would
+21 	 15 	 (S[b]\NP)/NP 	 2 	 plant design <XU>
+21 	 17 	 (S[b]\NP)/NP 	 2 	 plant construct <XU>
+21 	 19 	 (S[b]\NP)/NP 	 2 	 plant run
+21 	 20 	 NP[nb]/N 	 1 	 plant the
+<\s>
+<s id="wsj_1891.3"> 11
+0 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Gas would
+0 	 6 	 S[pss]\NP 	 1 	 Gas piped <XB>
+2 	 1 	 (S[to]\NP)/(S[b]\NP) 	 2 	 fuel to
+3 	 2 	 (S[b]\NP)/NP 	 2 	 it fuel
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+6 	 5 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 piped be
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 piped from
+10 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Sea from
+10 	 8 	 NP[nb]/N 	 1 	 Sea the
+10 	 9 	 N/N 	 1 	 Sea North
+<\s>
+<s id="wsj_1891.4"> 17
+1 	 0 	 NP[nb]/N 	 1 	 subsidiary A
+1 	 2 	 (NP\NP)/NP 	 1 	 subsidiary of
+1 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 subsidiary would
+1 	 9 	 ((S[b]\NP)/PP)/NP 	 1 	 subsidiary buy <XB>
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Britain 's
+7 	 2 	 (NP\NP)/NP 	 2 	 Industries of
+7 	 4 	 (NP[nb]/N)\NP 	 1 	 Industries 's
+7 	 5 	 N/N 	 1 	 Industries Imperial
+7 	 6 	 N/N 	 1 	 Industries Chemical
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 buy would
+10 	 9 	 ((S[b]\NP)/PP)/NP 	 3 	 electricity buy
+12 	 9 	 ((S[b]\NP)/PP)/NP 	 3 	 steam buy
+13 	 9 	 ((S[b]\NP)/PP)/NP 	 2 	 from buy
+16 	 13 	 PP/NP 	 1 	 station from
+16 	 14 	 NP[nb]/N 	 1 	 station the
+16 	 15 	 N/N 	 1 	 station proposed
+<\s>
+<s id="wsj_1891.5"> 12
+1 	 0 	 N/N 	 1 	 power Surplus
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 power would
+1 	 4 	 S[pss]\NP 	 1 	 power sold <XB>
+2 	 11 	 (S[dcl]\S[dcl])\NP 	 1 	 would said
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 sold be
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 sold on
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 market on
+8 	 6 	 NP[nb]/N 	 1 	 market the
+8 	 7 	 N/N 	 1 	 market open
+10 	 11 	 (S[dcl]\S[dcl])\NP 	 2 	 Enron said
+<\s>
+<s id="wsj_1891.6"> 21
+1 	 0 	 (S\NP)/(S\NP) 	 2 	 participating Also
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 participating in
+1 	 9 	 (S[dcl]\(S[ng]\NP))/NP 	 1 	 participating is
+4 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 study in
+4 	 3 	 NP[nb]/N 	 1 	 study the
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Enron said
+9 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said <XU>
+13 	 9 	 (S[dcl]\(S[ng]\NP))/NP 	 2 	 division is
+13 	 10 	 NP[nb]/N 	 1 	 division the
+13 	 11 	 N/N 	 1 	 division National
+13 	 12 	 N/N 	 1 	 division Power
+13 	 14 	 (NP\NP)/NP 	 1 	 division of
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Britain 's
+20 	 14 	 (NP\NP)/NP 	 2 	 Board of
+20 	 16 	 (NP[nb]/N)\NP 	 1 	 Board 's
+20 	 17 	 N/N 	 1 	 Board Central
+20 	 18 	 N/N 	 1 	 Board Electricity
+20 	 19 	 N/N 	 1 	 Board Generating
+<\s>
+<s id="wsj_1891.7"> 18
+1 	 0 	 (S/S)/NP 	 2 	 privatization Upon
+4 	 3 	 N/N 	 1 	 Power National
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Power will
+4 	 7 	 (S[adj]\NP)/PP 	 1 	 Power responsible <XB>
+5 	 0 	 (S/S)/NP 	 1 	 will Upon
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+7 	 6 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 responsible be
+8 	 7 	 (S[adj]\NP)/PP 	 2 	 for responsible
+10 	 8 	 PP/NP 	 1 	 % for
+10 	 9 	 N/N 	 1 	 % 70
+10 	 11 	 (NP\NP)/NP 	 1 	 % of
+13 	 12 	 NP[nb]/N 	 1 	 country the
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 country 's
+17 	 11 	 (NP\NP)/NP 	 2 	 business of
+17 	 14 	 (NP[nb]/N)\NP 	 1 	 business 's
+17 	 15 	 N/N 	 1 	 business power
+17 	 16 	 N/N 	 1 	 business generating
+<\s>

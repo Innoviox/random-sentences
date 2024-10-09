@@ -1,0 +1,384 @@
+<s id="wsj_1630.1"> 28
+2 	 0 	 N/N 	 1 	 Corp. Chase
+2 	 1 	 N/N 	 1 	 Corp. Manhattan
+2 	 5 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Corp. trying <XB>
+2 	 8 	 (S[b]\NP)/NP 	 1 	 Corp. sell <XB>
+2 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Corp. has
+2 	 19 	 (S[pt]\NP)/NP 	 1 	 Corp. exercised <XB>
+5 	 4 	 ((S\NP)/(S\NP))/(S[ng]\NP) 	 3 	 trying after
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 trying unsuccessfully
+7 	 5 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+10 	 8 	 (S[b]\NP)/NP 	 2 	 interest sell
+10 	 9 	 NP[nb]/N 	 1 	 interest its
+10 	 11 	 (NP\NP)/NP 	 1 	 interest in
+16 	 11 	 (NP\NP)/NP 	 2 	 building in
+16 	 12 	 NP[nb]/N 	 1 	 building its
+16 	 13 	 N/N 	 1 	 building lower
+16 	 14 	 N/N 	 1 	 building Manhattan
+16 	 15 	 N/N 	 1 	 building operations
+18 	 4 	 ((S\NP)/(S\NP))/(S[ng]\NP) 	 2 	 has after
+19 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 exercised has
+21 	 19 	 (S[pt]\NP)/NP 	 2 	 option exercised
+21 	 20 	 NP[nb]/N 	 1 	 option its
+21 	 23 	 (S[b]\NP)/NP 	 1 	 option purchase <XB>
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 purchase to
+27 	 23 	 (S[b]\NP)/NP 	 2 	 tower purchase
+27 	 24 	 NP[nb]/N 	 1 	 tower the
+27 	 25 	 N/N 	 1 	 tower 50-story
+27 	 26 	 N/N 	 1 	 tower office
+<\s>
+<s id="wsj_1630.2"> 31
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Chase had
+0 	 2 	 ((S[pt]\NP)/PP)/NP 	 1 	 Chase purchased <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 purchased had
+2 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 purchased as
+2 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 purchased in
+4 	 2 	 ((S[pt]\NP)/PP)/NP 	 3 	 option purchased
+4 	 3 	 NP[nb]/N 	 1 	 option an
+4 	 6 	 ((S[b]\NP)/PP)/NP 	 1 	 option buy <XB>
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+8 	 6 	 ((S[b]\NP)/PP)/NP 	 3 	 building buy
+8 	 7 	 NP[nb]/N 	 1 	 building the
+8 	 9 	 (NP\NP)/NP 	 1 	 building at
+13 	 9 	 (NP\NP)/NP 	 2 	 Plaza at
+13 	 10 	 N/N 	 1 	 Plaza One
+13 	 11 	 N/N 	 1 	 Plaza New
+13 	 12 	 N/N 	 1 	 Plaza York
+14 	 6 	 ((S[b]\NP)/PP)/NP 	 2 	 for buy
+17 	 14 	 PP/NP 	 1 	 sum for
+17 	 15 	 NP[nb]/N 	 1 	 sum an
+17 	 16 	 N/N 	 1 	 sum undisclosed
+18 	 2 	 ((S[pt]\NP)/PP)/NP 	 2 	 from purchased
+22 	 18 	 PP/NP 	 1 	 Atlas from
+22 	 19 	 NP[nb]/N 	 1 	 Atlas the
+22 	 20 	 N/N 	 1 	 Atlas late
+22 	 21 	 N/N 	 1 	 Atlas Sol
+24 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 part as
+24 	 25 	 (NP\NP)/NP 	 1 	 part of
+28 	 25 	 (NP\NP)/NP 	 2 	 lease of
+28 	 26 	 NP[nb]/N 	 1 	 lease its
+28 	 27 	 N/N 	 1 	 lease original
+30 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 1970 in
+<\s>
+<s id="wsj_1630.3"> 10
+2 	 0 	 NP[nb]/N 	 1 	 transaction The
+2 	 1 	 N/N 	 1 	 transaction current
+2 	 3 	 ((S[dcl]\NP)/NP)/NP 	 1 	 transaction cost
+5 	 3 	 ((S[dcl]\NP)/NP)/NP 	 3 	 bank cost
+5 	 4 	 NP[nb]/N 	 1 	 bank the
+7 	 3 	 ((S[dcl]\NP)/NP)/NP 	 2 	 $ cost
+7 	 6 	 N/N 	 1 	 $ approximately
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 140
+<\s>
+<s id="wsj_1630.4"> 23
+2 	 0 	 (S/S)/NP 	 2 	 amount Of
+2 	 1 	 NP[nb]/N 	 1 	 amount that
+4 	 7 	 (S[dcl]\NP)/NP 	 1 	 $ was
+6 	 4 	 N/N[num] 	 1 	 million $
+6 	 5 	 N/N 	 1 	 million 20
+7 	 0 	 (S/S)/NP 	 1 	 was Of
+8 	 7 	 (S[dcl]\NP)/NP 	 2 	 payment was
+8 	 9 	 (NP\NP)/NP 	 1 	 payment for
+11 	 9 	 (NP\NP)/NP 	 2 	 land for
+11 	 10 	 NP[nb]/N 	 1 	 land the
+11 	 12 	 (NP\NP)/NP 	 1 	 land underneath
+14 	 12 	 (NP\NP)/NP 	 2 	 building underneath
+14 	 13 	 NP[nb]/N 	 1 	 building the
+17 	 16 	 NP[nb]/N 	 1 	 rest the
+17 	 18 	 (S[dcl]\NP)/PP 	 1 	 rest was
+18 	 0 	 (S/S)/NP 	 1 	 was Of
+19 	 18 	 (S[dcl]\NP)/PP 	 2 	 for was
+21 	 19 	 PP/NP 	 1 	 building for
+21 	 20 	 NP[nb]/N 	 1 	 building the
+21 	 22 	 NP\NP 	 1 	 building itself
+<\s>
+<s id="wsj_1630.5"> 29
+1 	 0 	 NP[nb]/N 	 1 	 building The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 building houses
+4 	 3 	 (N/N)/(N/N) 	 2 	 4,500 about
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 workers houses
+6 	 4 	 N/N 	 1 	 workers 4,500
+6 	 5 	 N/N 	 1 	 workers Chase
+6 	 10 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 1 	 workers whom
+8 	 9 	 (NP\NP)/NP 	 1 	 most of
+8 	 10 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 3 	 most whom
+11 	 10 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 2 	 will whom
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+13 	 12 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 moved be
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 moved to
+13 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 moved after
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 Brooklyn to
+16 	 15 	 N/N 	 1 	 Brooklyn downtown
+19 	 18 	 NP[nb]/N 	 1 	 bank the
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 bank 's
+24 	 20 	 (NP[nb]/N)\NP 	 1 	 center 's
+24 	 21 	 N/N 	 1 	 center new
+24 	 22 	 N/N 	 1 	 center back
+24 	 23 	 N/N 	 1 	 center office
+24 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 center is
+24 	 26 	 S[pss]\NP 	 1 	 center completed <XB>
+25 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is after
+26 	 25 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 completed is
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 completed in
+28 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 1993 in
+<\s>
+<s id="wsj_1630.6"> 16
+1 	 0 	 NP[nb]/N 	 1 	 move The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 move is
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 part is
+3 	 4 	 (NP\NP)/NP 	 1 	 part of
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Chase 's
+7 	 4 	 (NP\NP)/NP 	 2 	 strategy of
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 strategy 's
+7 	 9 	 (S[b]\NP)/NP 	 1 	 strategy consolidate <XB>
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 consolidate to
+9 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 consolidate under
+12 	 9 	 (S[b]\NP)/NP 	 2 	 offices consolidate
+12 	 10 	 NP[nb]/N 	 1 	 offices its
+12 	 11 	 N/N 	 1 	 offices back
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 roof under
+15 	 14 	 N/N 	 1 	 roof one
+<\s>
+<s id="wsj_1630.7"> 13
+1 	 0 	 NP[nb]/N 	 1 	 headquarters The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 headquarters is
+1 	 3 	 S[pss]\NP 	 1 	 headquarters located <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 located is
+3 	 7 	 ((S\NP)\(S\NP))\NP 	 2 	 located away
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 located at
+6 	 4 	 NP[nb]/N 	 1 	 blocks a
+6 	 5 	 N/N 	 1 	 blocks few
+6 	 7 	 ((S\NP)\(S\NP))\NP 	 3 	 blocks away
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Plaza at
+12 	 9 	 N/N 	 1 	 Plaza 1
+12 	 10 	 N/N 	 1 	 Plaza Chase
+12 	 11 	 N/N 	 1 	 Plaza Manhattan
+<\s>
+<s id="wsj_1630.8"> 33
+1 	 0 	 (S/S)/NP 	 2 	 part As
+1 	 2 	 (NP\NP)/NP 	 1 	 part of
+4 	 2 	 (NP\NP)/NP 	 2 	 decision of
+4 	 3 	 NP[nb]/N 	 1 	 decision its
+4 	 6 	 (S[b]\NP)/NP 	 1 	 decision leave <XB>
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 leave to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 building leave
+8 	 7 	 NP[nb]/N 	 1 	 building the
+10 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Chase tried
+10 	 13 	 (S[b]\NP)/NP 	 1 	 Chase sell <XB>
+11 	 0 	 (S/S)/NP 	 1 	 tried As
+11 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 tried after
+12 	 11 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to tried
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+15 	 13 	 (S[b]\NP)/NP 	 2 	 interest sell
+15 	 14 	 NP[nb]/N 	 1 	 interest its
+15 	 17 	 (NP\NP)/PP 	 1 	 interest along
+18 	 17 	 (NP\NP)/PP 	 2 	 with along
+21 	 19 	 NP[nb]/N 	 1 	 estate the
+21 	 20 	 N/N 	 1 	 estate Atlas
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 estate 's
+23 	 18 	 PP/NP 	 1 	 interest with
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 interest 's
+26 	 25 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 after shortly
+32 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 crash after
+32 	 27 	 NP[nb]/N 	 1 	 crash the
+32 	 28 	 N/N 	 1 	 crash October
+32 	 29 	 N/N 	 1 	 crash 1987
+32 	 30 	 N/N 	 1 	 crash stock
+32 	 31 	 N/N 	 1 	 crash market
+<\s>
+<s id="wsj_1630.9"> 20
+5 	 0 	 N/N 	 1 	 Scandalios Chase
+5 	 1 	 N/N 	 1 	 Scandalios Senior
+5 	 2 	 N/N 	 1 	 Scandalios Vice
+5 	 3 	 N/N 	 1 	 Scandalios President
+5 	 4 	 N/N 	 1 	 Scandalios George
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Scandalios said
+8 	 7 	 NP[nb]/N 	 1 	 bank the
+8 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 bank decided
+8 	 11 	 (S[b]\NP)/NP 	 1 	 bank exercise <XB>
+9 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 decided said
+9 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 decided after
+10 	 9 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to decided
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 exercise to
+13 	 11 	 (S[b]\NP)/NP 	 2 	 option exercise
+13 	 12 	 NP[nb]/N 	 1 	 option its
+15 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 bids fell
+15 	 17 	 (S[adj]\NP)/PP 	 1 	 bids short <XB>
+16 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 fell after
+17 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 short fell
+18 	 17 	 (S[adj]\NP)/PP 	 2 	 of short
+19 	 18 	 PP/NP 	 1 	 expectations of
+<\s>
+<s id="wsj_1630.10"> 35
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He said
+2 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Chase were
+2 	 8 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Chase looking <XB>
+2 	 10 	 ((S[b]\NP)/PP)/NP 	 1 	 Chase sell <XB>
+2 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Chase did <XU>
+2 	 26 	 (S[b]\NP)/NP 	 1 	 Chase get <XU>
+6 	 4 	 NP[nb]/N 	 1 	 estate the
+6 	 5 	 N/N 	 1 	 estate Atlas
+6 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 estate were
+6 	 8 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 estate looking <XB>
+6 	 10 	 ((S[b]\NP)/PP)/NP 	 1 	 estate sell <XB>
+6 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 estate did <XU>
+6 	 26 	 (S[b]\NP)/NP 	 1 	 estate get <XU>
+7 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 looking were
+9 	 8 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to looking
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+13 	 10 	 ((S[b]\NP)/PP)/NP 	 3 	 building sell
+13 	 11 	 NP[nb]/N 	 1 	 building the
+13 	 12 	 N/N 	 1 	 building entire
+14 	 10 	 ((S[b]\NP)/PP)/NP 	 2 	 for sell
+15 	 14 	 PP/NP 	 1 	 $ for
+15 	 18 	 (N\N)/N 	 1 	 $ to
+17 	 15 	 N/N[num] 	 1 	 million $
+17 	 16 	 N/N 	 1 	 million 400
+19 	 18 	 (N\N)/N 	 2 	 $ to
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 475
+24 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 did said
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 did n't
+26 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 get did
+28 	 26 	 (S[b]\NP)/NP 	 2 	 offer get
+28 	 27 	 NP[nb]/N 	 1 	 offer an
+28 	 29 	 (NP\NP)/NP 	 1 	 offer for
+30 	 31 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+32 	 29 	 (NP\NP)/NP 	 2 	 $ for
+32 	 31 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+34 	 32 	 N/N[num] 	 1 	 million $
+34 	 33 	 N/N 	 1 	 million 375
+<\s>
+<s id="wsj_1630.11"> 16
+2 	 1 	 NP[nb]/N 	 1 	 building the
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 building 's
+5 	 0 	 (S/S)/NP 	 2 	 owner As
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 owner 's
+5 	 4 	 N/N 	 1 	 owner new
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Chase will
+7 	 9 	 (S[b]\NP)/S[dcl] 	 1 	 Chase have <XB>
+8 	 0 	 (S/S)/NP 	 1 	 will As
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+11 	 10 	 NP[nb]/N 	 1 	 work its
+11 	 12 	 (S[dcl]\NP)/PP 	 1 	 work cut
+12 	 9 	 (S[b]\NP)/S[dcl] 	 2 	 cut have
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 cut out
+14 	 12 	 (S[dcl]\NP)/PP 	 2 	 for cut
+15 	 14 	 PP/NP 	 1 	 it for
+<\s>
+<s id="wsj_1630.12"> 27
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Chase is
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 Chase vacating <XB>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 vacating is
+4 	 3 	 (N/N)/(N/N) 	 2 	 million 1.1
+6 	 2 	 (S[ng]\NP)/NP 	 2 	 feet vacating
+6 	 4 	 N/N 	 1 	 feet million
+6 	 5 	 N/N 	 1 	 feet square
+6 	 7 	 (NP\NP)/NP 	 1 	 feet of
+8 	 7 	 (NP\NP)/NP 	 2 	 space of
+13 	 11 	 N/N 	 1 	 Inc. Salomon
+13 	 12 	 N/N 	 1 	 Inc. Brothers
+13 	 15 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 Inc. whose
+13 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Inc. plans
+13 	 25 	 S[b]\NP 	 1 	 Inc. move <XB>
+16 	 15 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 headquarters whose
+16 	 17 	 (S[dcl]\NP)/PP 	 1 	 headquarters is <XB>
+17 	 15 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 is whose
+18 	 17 	 (S[dcl]\NP)/PP 	 2 	 in is
+20 	 18 	 PP/NP 	 1 	 building in
+20 	 19 	 NP[nb]/N 	 1 	 building the
+23 	 22 	 (S\NP)/(S\NP) 	 2 	 plans also
+24 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 move to
+25 	 26 	 (S\NP)\(S\NP) 	 2 	 move shortly
+<\s>
+<s id="wsj_1630.13"> 26
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+6 	 3 	 NP[nb]/N 	 1 	 tenant another
+6 	 4 	 N/N 	 1 	 tenant major
+6 	 5 	 N/N 	 1 	 tenant building
+6 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 tenant will
+6 	 18 	 (S[b]\NP)/NP 	 1 	 tenant vacate <XB>
+10 	 8 	 N/N 	 1 	 Inc. Thomson
+10 	 9 	 N/N 	 1 	 Inc. McKinnon
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Inc. 's
+14 	 11 	 (NP[nb]/N)\NP 	 1 	 Securities 's
+14 	 12 	 N/N 	 1 	 Securities Thomson
+14 	 13 	 N/N 	 1 	 Securities McKinnon
+14 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Securities will
+14 	 18 	 (S[b]\NP)/NP 	 1 	 Securities vacate <XB>
+17 	 0 	 (S/S)/NP 	 1 	 will In
+17 	 16 	 (S\NP)/(S\NP) 	 2 	 will likely
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 vacate will
+18 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 vacate as
+20 	 18 	 (S[b]\NP)/NP 	 2 	 premises vacate
+20 	 19 	 NP[nb]/N 	 1 	 premises the
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 part as
+22 	 23 	 (NP\NP)/NP 	 1 	 part of
+25 	 23 	 (NP\NP)/NP 	 2 	 liquidation of
+25 	 24 	 NP[nb]/N 	 1 	 liquidation its
+<\s>
+<s id="wsj_1630.14"> 18
+8 	 0 	 N/N 	 1 	 Co. New
+8 	 1 	 N/N 	 1 	 Co. York
+8 	 2 	 N/N 	 1 	 Co. real
+8 	 3 	 N/N 	 1 	 Co. estate
+8 	 4 	 N/N 	 1 	 Co. brokerage
+8 	 5 	 N/N 	 1 	 Co. Edward
+8 	 6 	 N/N 	 1 	 Co. S.
+8 	 7 	 N/N 	 1 	 Co. Gordon
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Co. will
+8 	 10 	 (S[b]\NP)/NP 	 1 	 Co. have <XB>
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+13 	 10 	 (S[b]\NP)/NP 	 2 	 task have
+13 	 11 	 NP[nb]/N 	 1 	 task the
+13 	 12 	 N/N 	 1 	 task difficult
+13 	 14 	 (NP\NP)/(S[ng]\NP) 	 1 	 task of
+15 	 14 	 (NP\NP)/(S[ng]\NP) 	 2 	 finding of
+17 	 15 	 (S[ng]\NP)/NP 	 2 	 tenants finding
+17 	 16 	 N/N 	 1 	 tenants new
+<\s>
+<s id="wsj_1630.15"> 20
+4 	 1 	 (S/S)/NP 	 2 	 views with
+4 	 2 	 NP[nb]/N 	 1 	 views its
+4 	 3 	 N/N 	 1 	 views striking
+4 	 5 	 (NP\NP)/NP 	 1 	 views of
+9 	 5 	 (NP\NP)/NP 	 2 	 harbor of
+9 	 6 	 NP[nb]/N 	 1 	 harbor the
+9 	 7 	 N/N 	 1 	 harbor New
+9 	 8 	 N/N 	 1 	 harbor York
+12 	 11 	 NP[nb]/N 	 1 	 building the
+12 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 building is
+12 	 14 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 building considered <XB>
+12 	 15 	 (S[adj]\NP)/PP 	 1 	 building antiquated <XB>
+13 	 0 	 S/S 	 1 	 is Even
+13 	 1 	 (S/S)/NP 	 1 	 is with
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 considered is
+15 	 14 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 antiquated considered
+16 	 15 	 (S[adj]\NP)/PP 	 2 	 by antiquated
+19 	 16 	 PP/NP 	 1 	 standards by
+19 	 17 	 N/N 	 1 	 standards modern
+19 	 18 	 N/N 	 1 	 standards office
+<\s>
+<s id="wsj_1630.16"> 16
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Chase will
+1 	 5 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 Chase spend <XB>
+2 	 0 	 S/S 	 1 	 will And
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+4 	 3 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 spend to
+7 	 5 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 $ spend
+7 	 6 	 N/N 	 1 	 $ approximately
+7 	 11 	 (S[b]\NP)/NP 	 1 	 $ remove <XB>
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 50
+10 	 5 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to spend
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 remove to
+11 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 remove from
+12 	 11 	 (S[b]\NP)/NP 	 2 	 asbestos remove
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 premises from
+15 	 14 	 NP[nb]/N 	 1 	 premises the
+<\s>

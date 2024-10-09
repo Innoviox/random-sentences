@@ -1,0 +1,155 @@
+<s id="wsj_2092.1"> 25
+2 	 0 	 N/N 	 1 	 Corp. Control
+2 	 1 	 N/N 	 1 	 Corp. Data
+2 	 6 	 (S[dcl]\NP)/NP 	 1 	 Corp. signed
+4 	 6 	 (S[dcl]\NP)/NP 	 1 	 Minneapolis signed
+10 	 6 	 (S[dcl]\NP)/NP 	 2 	 agreement signed
+10 	 7 	 NP[nb]/N 	 1 	 agreement a
+10 	 8 	 N/N 	 1 	 agreement joint
+10 	 9 	 N/N 	 1 	 agreement development
+10 	 11 	 (NP\NP)/NP 	 1 	 agreement with
+15 	 11 	 (NP\NP)/NP 	 2 	 Inc. with
+15 	 12 	 N/N 	 1 	 Inc. MIPS
+15 	 13 	 N/N 	 1 	 Inc. Computer
+15 	 14 	 N/N 	 1 	 Inc. Systems
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 incorporate to
+21 	 17 	 ((S[b]\NP)/PP)/NP 	 3 	 architecture incorporate
+21 	 18 	 NP[nb]/N 	 1 	 architecture an
+21 	 19 	 N/N 	 1 	 architecture emerging
+21 	 20 	 N/N 	 1 	 architecture computing
+22 	 17 	 ((S[b]\NP)/PP)/NP 	 2 	 in incorporate
+24 	 22 	 PP/NP 	 1 	 machines in
+24 	 23 	 N/N 	 1 	 machines future
+<\s>
+<s id="wsj_2092.2"> 23
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 MIPS is
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 leader is
+3 	 2 	 NP[nb]/N 	 1 	 leader a
+3 	 4 	 (NP\NP)/NP 	 1 	 leader in
+5 	 4 	 (NP\NP)/NP 	 2 	 what in
+5 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 what is <XB>
+5 	 7 	 (S[pss]\NP)/PP 	 1 	 what known <XB>
+6 	 5 	 NP/(S[dcl]\NP) 	 1 	 is what
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 known is
+8 	 7 	 (S[pss]\NP)/PP 	 2 	 as known
+11 	 8 	 PP/NP 	 1 	 computing as
+11 	 9 	 N/N 	 1 	 computing reduced-instruction
+11 	 10 	 N/N 	 1 	 computing set
+14 	 8 	 PP/NP 	 1 	 RISC as
+17 	 8 	 PP/NP 	 1 	 technology as
+17 	 16 	 NP[nb]/N 	 1 	 technology a
+17 	 18 	 (S[ng]\NP)/NP 	 1 	 technology combining <XB>
+19 	 18 	 (S[ng]\NP)/NP 	 2 	 microprocessors combining
+22 	 18 	 (S[ng]\NP)/NP 	 2 	 software combining
+22 	 21 	 N/N 	 1 	 software sophisticated
+<\s>
+<s id="wsj_2092.3"> 17
+1 	 0 	 (S/S)/(S[ng]\NP) 	 2 	 joining In
+2 	 1 	 (S[ng]\NP)/NP 	 2 	 MIPS joining
+5 	 4 	 N/N 	 1 	 Data Control
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Data follows
+5 	 10 	 ((S[ng]\NP)/PP)/NP 	 1 	 Data embracing <XB>
+6 	 0 	 (S/S)/(S[ng]\NP) 	 1 	 follows In
+6 	 9 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 follows in
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 competitors follows
+8 	 7 	 N/N 	 1 	 competitors several
+10 	 9 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 embracing in
+11 	 10 	 ((S[ng]\NP)/PP)/NP 	 3 	 RISC embracing
+12 	 10 	 ((S[ng]\NP)/PP)/NP 	 2 	 as embracing
+16 	 12 	 PP/NP 	 1 	 approach as
+16 	 13 	 NP[nb]/N 	 1 	 approach a
+16 	 14 	 N/N 	 1 	 approach new
+16 	 15 	 N/N 	 1 	 approach design
+<\s>
+<s id="wsj_2092.4"> 28
+2 	 0 	 N/N 	 1 	 Corp. Digital
+2 	 1 	 N/N 	 1 	 Corp. Equipment
+2 	 14 	 (NP\NP)/NP 	 1 	 Corp. among
+2 	 17 	 (S[dcl]\NP)/NP 	 1 	 Corp. have
+6 	 4 	 N/N 	 1 	 Inc. Tandem
+6 	 5 	 N/N 	 1 	 Inc. Computers
+6 	 14 	 (NP\NP)/NP 	 1 	 Inc. among
+6 	 17 	 (S[dcl]\NP)/NP 	 1 	 Inc. have
+9 	 8 	 N/N 	 1 	 Corp. NEC
+9 	 14 	 (NP\NP)/NP 	 1 	 Corp. among
+9 	 17 	 (S[dcl]\NP)/NP 	 1 	 Corp. have
+12 	 11 	 N/N 	 1 	 Bull Group
+12 	 14 	 (NP\NP)/NP 	 1 	 Bull among
+12 	 17 	 (S[dcl]\NP)/NP 	 1 	 Bull have
+15 	 14 	 (NP\NP)/NP 	 2 	 others among
+17 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 have with
+19 	 17 	 (S[dcl]\NP)/NP 	 2 	 arrangements have
+19 	 18 	 N/N 	 1 	 arrangements similar
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 MIPs with
+21 	 23 	 S[pss]\NP 	 1 	 MIPs based <XB>
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Sunnyvale in
+27 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Calif in
+<\s>
+<s id="wsj_2092.5"> 15
+1 	 0 	 N/N 	 1 	 Data Control
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Data said
+3 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it expects
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+9 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 machine expects
+9 	 5 	 NP[nb]/N 	 1 	 machine its
+9 	 6 	 N/N 	 1 	 machine first
+9 	 7 	 N/N 	 1 	 machine RISC-based
+9 	 8 	 N/N 	 1 	 machine mainframe
+9 	 12 	 S[pss]\NP 	 1 	 machine introduced <XB>
+10 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 introduced be
+12 	 14 	 (S\NP)\(S\NP) 	 2 	 introduced year
+14 	 13 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+<\s>
+<s id="wsj_2092.6"> 19
+1 	 0 	 NP[nb]/N 	 1 	 accord The
+1 	 2 	 (NP\NP)/NP 	 1 	 accord with
+1 	 4 	 (S[dcl]\NP)/S[for] 	 1 	 accord calls
+3 	 2 	 (NP\NP)/NP 	 2 	 MIPS with
+4 	 18 	 (S[dcl]\S[dcl])\NP 	 1 	 calls said
+5 	 4 	 (S[dcl]\NP)/S[for] 	 2 	 for calls
+7 	 5 	 (S[for]/(S[to]\NP))/NP 	 2 	 Data for
+7 	 6 	 N/N 	 1 	 Data Control
+7 	 9 	 (S[b]\NP)/NP 	 1 	 Data share <XB>
+8 	 5 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 share to
+11 	 9 	 (S[b]\NP)/NP 	 2 	 expertise share
+11 	 10 	 NP[nb]/N 	 1 	 expertise its
+11 	 12 	 (NP\NP)/NP 	 1 	 expertise in
+14 	 12 	 (NP\NP)/NP 	 2 	 storage in
+14 	 13 	 N/N 	 1 	 storage data
+17 	 16 	 NP[nb]/N 	 1 	 companies the
+17 	 18 	 (S[dcl]\S[dcl])\NP 	 2 	 companies said
+<\s>
+<s id="wsj_2092.7"> 30
+1 	 0 	 N/N 	 1 	 Data Control
+1 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Data said
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 said also
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+4 	 6 	 (S[ng]\NP)/NP 	 1 	 it developing <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 developing is
+7 	 6 	 (S[ng]\NP)/NP 	 2 	 what developing
+7 	 9 	 ((S[dcl]\NP)/NP)/NP 	 3 	 what called <XU>
+8 	 9 	 ((S[dcl]\NP)/NP)/NP 	 1 	 it called
+9 	 7 	 NP/(S[dcl]/NP) 	 1 	 called what
+12 	 9 	 ((S[dcl]\NP)/NP)/NP 	 2 	 computer called
+12 	 10 	 NP[nb]/N 	 1 	 computer a
+12 	 11 	 N/N 	 1 	 computer supermainframe
+12 	 18 	 (S[pss]\NP)/PP 	 1 	 computer intended <XB>
+15 	 9 	 ((S[dcl]\NP)/NP)/NP 	 2 	 Cyber called
+15 	 14 	 NP[nb]/N 	 1 	 Cyber the
+15 	 16 	 N\N 	 1 	 Cyber 2000
+15 	 18 	 (S[pss]\NP)/PP 	 1 	 Cyber intended <XB>
+19 	 18 	 (S[pss]\NP)/PP 	 2 	 for intended
+20 	 19 	 PP/NP 	 1 	 scientists for
+22 	 19 	 PP/NP 	 1 	 engineers for
+25 	 19 	 PP/NP 	 1 	 users for
+25 	 24 	 N/N 	 1 	 users other
+25 	 26 	 (NP\NP)/NP 	 1 	 users of
+29 	 26 	 (NP\NP)/NP 	 2 	 computers of
+29 	 27 	 N/N 	 1 	 computers generalpurpose
+29 	 28 	 N/N 	 1 	 computers high-performance
+<\s>

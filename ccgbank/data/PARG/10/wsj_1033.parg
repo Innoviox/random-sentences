@@ -1,0 +1,208 @@
+<s id="wsj_1033.1"> 31
+1 	 0 	 N/N 	 1 	 AB Esselte
+1 	 10 	 S[dcl]\NP 	 1 	 AB expected <XB>
+1 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 AB proposed
+1 	 14 	 (S[b]\NP)/NP 	 1 	 AB acquire <XB>
+7 	 3 	 NP[nb]/N 	 1 	 company the
+7 	 4 	 N/N 	 1 	 company Stockholm
+7 	 5 	 N/N 	 1 	 company office
+7 	 6 	 N/N 	 1 	 company supplies
+7 	 10 	 S[dcl]\NP 	 1 	 company expected <XB>
+7 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 company proposed
+7 	 14 	 (S[b]\NP)/NP 	 1 	 company acquire <XB>
+10 	 9 	 ((S\NP)/(S\NP))/(S[dcl]\NP) 	 3 	 expected as
+12 	 9 	 ((S\NP)/(S\NP))/(S[dcl]\NP) 	 2 	 proposed as
+13 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to proposed
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+17 	 14 	 (S[b]\NP)/NP 	 2 	 % acquire
+17 	 15 	 NP[nb]/N 	 1 	 % the
+17 	 16 	 N/N 	 1 	 % 22
+17 	 21 	 (S[b]\NP)/NP 	 2 	 % own <XU>
+17 	 22 	 (NP\NP)/NP 	 1 	 % of
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it does
+18 	 21 	 (S[b]\NP)/NP 	 1 	 it own <XB>
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 does n't
+21 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 own does
+25 	 22 	 (NP\NP)/NP 	 2 	 unit of
+25 	 23 	 NP[nb]/N 	 1 	 unit its
+25 	 24 	 N/N 	 1 	 unit U.S.
+30 	 22 	 (NP\NP)/NP 	 2 	 Inc of
+30 	 27 	 N/N 	 1 	 Inc Esselte
+30 	 28 	 N/N 	 1 	 Inc Business
+30 	 29 	 N/N 	 1 	 Inc Systems
+<\s>
+<s id="wsj_1033.2"> 25
+1 	 0 	 NP[nb]/N 	 1 	 price The
+1 	 2 	 (NP\NP)/NP 	 1 	 price in
+1 	 5 	 (S[dcl]\NP)/NP 	 1 	 price is
+4 	 2 	 (NP\NP)/NP 	 2 	 proposal in
+4 	 3 	 NP[nb]/N 	 1 	 proposal the
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 $ is
+6 	 8 	 (NP\NP)/NP 	 1 	 $ for
+7 	 6 	 N/N[num] 	 1 	 43.50 $
+9 	 8 	 (NP\NP)/NP 	 2 	 each for
+9 	 10 	 (NP\NP)/NP 	 1 	 each of
+13 	 12 	 (N/N)/(N/N) 	 2 	 million 4.9
+14 	 10 	 (NP\NP)/NP 	 2 	 shares of
+14 	 11 	 NP[nb]/N 	 1 	 shares the
+14 	 13 	 N/N 	 1 	 shares million
+14 	 19 	 (S[b]\NP)/NP 	 2 	 shares own <XU>
+16 	 15 	 NP[nb]/N 	 1 	 parent the
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 parent does
+16 	 19 	 (S[b]\NP)/NP 	 1 	 parent own <XB>
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 does n't
+19 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 own does
+22 	 5 	 (S[dcl]\NP)/NP 	 2 	 $ is
+24 	 22 	 N/N[num] 	 1 	 million $
+24 	 23 	 N/N 	 1 	 million 213.2
+<\s>
+<s id="wsj_1033.3"> 20
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+8 	 9 	 (S[dcl]\NP)/PP 	 1 	 Esselte closed
+9 	 0 	 (S/S)/NP 	 1 	 closed In
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 closed yesterday
+9 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+11 	 9 	 (S[dcl]\NP)/PP 	 2 	 at closed
+12 	 11 	 PP/NP 	 1 	 $ at
+12 	 14 	 (NP\NP)/N 	 1 	 $ a
+13 	 12 	 N/N[num] 	 1 	 43.50 $
+15 	 14 	 (NP\NP)/N 	 2 	 share a
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 $ up
+19 	 18 	 N/N[num] 	 1 	 1 $
+<\s>
+<s id="wsj_1033.4"> 27
+1 	 0 	 NP[nb]/N 	 1 	 committee A
+1 	 2 	 (NP\NP)/NP 	 1 	 committee of
+1 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 committee is
+1 	 14 	 (S[ng]\NP)/NP 	 1 	 committee evaluating <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 directors of
+4 	 3 	 N/N 	 1 	 directors outside
+4 	 5 	 (NP\NP)/NP 	 1 	 directors for
+10 	 7 	 (N/N)/(N/N) 	 2 	 N.Y. Garden
+10 	 8 	 (N/N)/(N/N) 	 2 	 N.Y. City
+12 	 5 	 (NP\NP)/NP 	 2 	 unit for
+12 	 6 	 NP[nb]/N 	 1 	 unit the
+12 	 10 	 N/N 	 1 	 unit N.Y.
+14 	 13 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 evaluating is
+16 	 14 	 (S[ng]\NP)/NP 	 2 	 proposal evaluating
+16 	 15 	 NP[nb]/N 	 1 	 proposal the
+19 	 18 	 NP[nb]/N 	 1 	 parent the
+19 	 20 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 parent asked
+21 	 20 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 it asked
+21 	 23 	 S[b]\NP 	 1 	 it respond <XB>
+22 	 20 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to asked
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 respond to
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 respond by
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Oct. by
+26 	 25 	 N/N[num] 	 1 	 31 Oct.
+<\s>
+<s id="wsj_1033.5"> 12
+1 	 0 	 NP[nb]/N 	 1 	 unit The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 unit said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it can
+3 	 5 	 (S[b]\NP)/NP 	 1 	 it provide <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 can said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 provide can
+7 	 5 	 (S[b]\NP)/NP 	 2 	 assurance provide
+7 	 6 	 NP[nb]/N 	 1 	 assurance no
+9 	 8 	 NP[nb]/N 	 1 	 transaction a
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 transaction will
+9 	 11 	 S[b]\NP 	 1 	 transaction occur <XB>
+10 	 7 	 N/S[dcl] 	 1 	 will assurance
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 occur will
+<\s>
+<s id="wsj_1033.6"> 17
+1 	 0 	 N/N 	 1 	 AB Esselte
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 AB sold
+2 	 8 	 ((S\NP)\(S\NP))\NP 	 2 	 sold ago
+2 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 sold in
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 stake sold
+5 	 3 	 NP[nb]/N 	 1 	 stake the
+5 	 4 	 N/N 	 1 	 stake minority
+7 	 6 	 N/N 	 1 	 years five
+7 	 8 	 ((S\NP)\(S\NP))\NP 	 3 	 years ago
+13 	 11 	 (N/N)/N[num] 	 2 	 million $
+13 	 12 	 N/N 	 1 	 million 40
+16 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 offering in
+16 	 10 	 NP[nb]/N 	 1 	 offering a
+16 	 11 	 (N/N)/N[num] 	 1 	 offering $
+16 	 14 	 N/N 	 1 	 offering international
+16 	 15 	 N/N 	 1 	 offering share
+<\s>
+<s id="wsj_1033.7"> 28
+1 	 0 	 NP[nb]/N 	 1 	 unit The
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 unit which
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 unit is <XB>
+1 	 14 	 (S[dcl]\NP)/PP 	 1 	 unit accounted
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 company is
+7 	 5 	 NP[nb]/N 	 1 	 company the
+7 	 6 	 N/N 	 1 	 company holding
+7 	 8 	 (NP\NP)/NP 	 1 	 company for
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Esselte 's
+12 	 8 	 (NP\NP)/NP 	 2 	 units for
+12 	 10 	 (NP[nb]/N)\NP 	 1 	 units 's
+12 	 11 	 N/N 	 1 	 units non-Swedish
+14 	 27 	 (S\NP)\(S\NP) 	 2 	 accounted year
+15 	 14 	 (S[dcl]\NP)/PP 	 2 	 for accounted
+17 	 15 	 PP/NP 	 1 	 % for
+17 	 16 	 N/N 	 1 	 % 58
+17 	 18 	 (NP\NP)/NP 	 1 	 % of
+19 	 18 	 (NP\NP)/NP 	 2 	 sales of
+22 	 15 	 PP/NP 	 1 	 % for
+22 	 21 	 N/N 	 1 	 % 71
+22 	 23 	 (NP\NP)/NP 	 1 	 % of
+25 	 23 	 (NP\NP)/NP 	 2 	 profit of
+25 	 24 	 N/N 	 1 	 profit operating
+27 	 26 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year last
+<\s>
+<s id="wsj_1033.8"> 38
+4 	 2 	 N/N 	 1 	 Systems Esselte
+4 	 3 	 N/N 	 1 	 Systems Business
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Systems reported
+5 	 0 	 S/S 	 1 	 reported Separately
+8 	 6 	 N/N 	 1 	 income third-quarter
+8 	 7 	 N/N 	 1 	 income net
+8 	 9 	 S[dcl]\NP 	 1 	 income fell
+9 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 fell reported
+9 	 11 	 (S\NP)\(S\NP) 	 2 	 fell %
+9 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+9 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+9 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 fell in
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 5.9
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 9.5
+19 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+19 	 18 	 N/N 	 1 	 cents 46
+19 	 20 	 (NP\NP)/N 	 1 	 cents a
+21 	 20 	 (NP\NP)/N 	 2 	 share a
+24 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+26 	 24 	 N/N[num] 	 1 	 million $
+26 	 25 	 N/N 	 1 	 million 10.1
+30 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+30 	 29 	 N/N 	 1 	 cents 49
+30 	 31 	 (NP\NP)/N 	 1 	 cents a
+32 	 31 	 (NP\NP)/N 	 2 	 share a
+37 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 period in
+37 	 35 	 NP[nb]/N 	 1 	 period the
+37 	 36 	 N/N 	 1 	 period year-ago
+<\s>
+<s id="wsj_1033.9"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Sales rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 2.9
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 329.2
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 320
+<\s>

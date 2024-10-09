@@ -1,0 +1,893 @@
+<s id="wsj_1158.1"> 34
+1 	 0 	 N/N 	 1 	 philosophers Medieval
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 philosophers used
+1 	 4 	 (S[b]\NP)/NP 	 1 	 philosophers hold <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to used
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 hold to
+7 	 4 	 (S[b]\NP)/NP 	 2 	 belief hold
+7 	 5 	 NP[nb]/N 	 1 	 belief the
+7 	 6 	 N/N 	 1 	 belief sensible
+8 	 7 	 N/S[em] 	 1 	 that belief
+9 	 10 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 1 	 it was
+9 	 18 	 S[b]\NP 	 1 	 it exist <XB>
+10 	 8 	 S[em]/S[dcl] 	 1 	 was that
+10 	 15 	 ((S\NP)\(S\NP))/(S[to]\NP) 	 2 	 was than
+12 	 10 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 3 	 perfect was
+12 	 11 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 perfect more
+13 	 10 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 2 	 to was
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 exist to
+17 	 15 	 ((S\NP)\(S\NP))/(S[to]\NP) 	 3 	 to than
+17 	 16 	 (S\NP)/(S\NP) 	 2 	 to not
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 exist to
+21 	 7 	 N/S[em] 	 1 	 that belief
+22 	 29 	 (S[dcl]\(S[to]\NP))/NP 	 1 	 to was
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 exist to
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 exist as
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 matter as
+26 	 25 	 NP[nb]/N 	 1 	 matter a
+26 	 27 	 (NP\NP)/NP 	 1 	 matter of
+28 	 27 	 (NP\NP)/NP 	 2 	 necessity of
+29 	 21 	 S[em]/S[dcl] 	 1 	 was that
+31 	 29 	 (S[dcl]\(S[to]\NP))/NP 	 2 	 perfect was
+31 	 30 	 N/N 	 1 	 perfect most
+31 	 32 	 (NP\NP)/NP 	 1 	 perfect of
+33 	 32 	 (NP\NP)/NP 	 2 	 all of
+<\s>
+<s id="wsj_1158.2"> 18
+3 	 2 	 N/N 	 1 	 God only
+3 	 4 	 S[dcl]\NP 	 1 	 God exists
+4 	 0 	 S/S 	 1 	 exists Now
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 exists as
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 matter as
+7 	 6 	 NP[nb]/N 	 1 	 matter a
+7 	 8 	 (NP\NP)/NP 	 1 	 matter of
+10 	 8 	 (NP\NP)/NP 	 2 	 necessity of
+10 	 9 	 N/N 	 1 	 necessity absolute
+12 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 it is
+12 	 14 	 (S[pss]\NP)/PP 	 1 	 it built <XB>
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 built is
+15 	 14 	 (S[pss]\NP)/PP 	 2 	 into built
+17 	 15 	 PP/NP 	 1 	 nature into
+17 	 16 	 NP[nb]/N 	 1 	 nature His
+<\s>
+<s id="wsj_1158.3"> 24
+3 	 1 	 (S/S)/NP 	 2 	 time since
+3 	 2 	 NP[nb]/N 	 1 	 time the
+3 	 4 	 (NP\NP)/NP 	 1 	 time of
+5 	 4 	 (NP\NP)/NP 	 2 	 Darwin of
+8 	 7 	 N/N 	 1 	 humans we
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 humans could
+8 	 12 	 (S[b]\NP)/NP 	 1 	 humans claim <XB>
+9 	 0 	 S/S 	 1 	 could But
+9 	 1 	 (S/S)/NP 	 1 	 could since
+11 	 10 	 ((S\NP)/(S\NP))/(S[asup]\NP) 	 3 	 least at
+12 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 claim could
+12 	 10 	 ((S\NP)/(S\NP))/(S[asup]\NP) 	 2 	 claim at
+14 	 12 	 (S[b]\NP)/NP 	 2 	 sort claim
+14 	 13 	 NP[nb]/N 	 1 	 sort a
+14 	 15 	 (NP\NP)/NP 	 1 	 sort of
+17 	 15 	 (NP\NP)/NP 	 2 	 necessity of
+17 	 16 	 N/N 	 1 	 necessity natural
+17 	 18 	 (NP\NP)/NP 	 1 	 necessity for
+20 	 18 	 (NP\NP)/NP 	 2 	 existence for
+20 	 19 	 NP[nb]/N 	 1 	 existence the
+20 	 21 	 (NP\NP)/NP 	 1 	 existence of
+23 	 21 	 (NP\NP)/NP 	 2 	 species of
+23 	 22 	 NP[nb]/N 	 1 	 species our
+<\s>
+<s id="wsj_1158.4"> 16
+0 	 1 	 S\S 	 1 	 Are n't
+0 	 4 	 (S\S)/NP 	 1 	 Are after
+2 	 0 	 (S[q]/NP)/NP 	 2 	 we Are
+5 	 4 	 (S\S)/NP 	 2 	 all after
+9 	 0 	 (S[q]/NP)/NP 	 1 	 culmination Are
+9 	 7 	 NP[nb]/N 	 1 	 culmination the
+9 	 8 	 N/N 	 1 	 culmination inevitable
+9 	 10 	 (NP\NP)/NP 	 1 	 culmination of
+13 	 10 	 (NP\NP)/NP 	 2 	 pageant of
+13 	 11 	 NP[nb]/N 	 1 	 pageant that
+13 	 12 	 N/N 	 1 	 pageant stately
+13 	 14 	 (S[pss]\NP)/NP 	 1 	 pageant called <XB>
+15 	 14 	 (S[pss]\NP)/NP 	 2 	 evolution called
+<\s>
+<s id="wsj_1158.5"> 41
+1 	 8 	 ((S[dcl]\NP)/PP)/NP 	 1 	 mutation give
+4 	 3 	 N/N 	 1 	 selection natural
+4 	 8 	 ((S[dcl]\NP)/PP)/NP 	 1 	 selection give
+8 	 0 	 (S/S)/S[dcl] 	 2 	 give If
+8 	 5 	 (S\NP)/(S\NP) 	 2 	 give slowly <XU>
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 give surely
+9 	 8 	 ((S[dcl]\NP)/PP)/NP 	 3 	 rise give
+10 	 8 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to give
+14 	 11 	 (N/N)/(N/N) 	 2 	 advanced more <XU>
+14 	 13 	 (N/N)/(N/N) 	 2 	 advanced more
+15 	 10 	 PP/NP 	 1 	 forms to
+15 	 14 	 N/N 	 1 	 forms advanced
+15 	 16 	 (NP\NP)/NP 	 1 	 forms of
+17 	 16 	 (NP\NP)/NP 	 2 	 life of
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 it was
+21 	 0 	 (S/S)/S[dcl] 	 1 	 was If
+21 	 19 	 S/S 	 1 	 was then
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 was only
+21 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 was before
+24 	 21 	 (S[dcl]\NP)/NP 	 2 	 matter was
+24 	 23 	 NP[nb]/N 	 1 	 matter a
+24 	 25 	 (NP\NP)/NP 	 1 	 matter of
+26 	 25 	 (NP\NP)/NP 	 2 	 eons of
+29 	 28 	 N/N 	 1 	 beings splendid
+29 	 30 	 (S[pss]\NP)/PP 	 1 	 beings endowed <XB>
+29 	 37 	 S[dcl]\NP 	 1 	 beings shimmered
+31 	 30 	 (S[pss]\NP)/PP 	 2 	 with endowed
+32 	 31 	 PP/NP 	 1 	 reason with
+34 	 31 	 PP/NP 	 1 	 self-awareness with
+36 	 31 	 PP/NP 	 1 	 taste with
+37 	 27 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 shimmered before
+37 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 shimmered onto
+40 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 scene onto
+40 	 39 	 NP[nb]/N 	 1 	 scene the
+<\s>
+<s id="wsj_1158.6"> 11
+1 	 2 	 (S[dcl]\(S[adj]\NP))/NP 	 1 	 along comes
+2 	 0 	 S/S 	 1 	 comes Now
+5 	 2 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 Gould comes
+5 	 3 	 N/N 	 1 	 Gould Stephen
+5 	 4 	 N/N 	 1 	 Gould Jay
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 dash to
+10 	 7 	 (S[b]\NP)/NP 	 2 	 illusion dash
+10 	 8 	 NP[nb]/N 	 1 	 illusion this
+10 	 9 	 N/N 	 1 	 illusion flattering
+<\s>
+<s id="wsj_1158.7"> 7
+1 	 0 	 NP[nb]/N 	 1 	 credentials His
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 credentials are
+1 	 3 	 S[adj]\NP 	 1 	 credentials excellent <XB>
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 are for
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 excellent are
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 task for
+6 	 5 	 NP[nb]/N 	 1 	 task the
+<\s>
+<s id="wsj_1158.8"> 31
+1 	 0 	 N/N 	 1 	 lecturer Star
+1 	 2 	 (NP\NP)/NP 	 1 	 lecturer at
+3 	 2 	 (NP\NP)/NP 	 2 	 Harvard at
+5 	 6 	 (NP\NP)/NP 	 1 	 author of
+9 	 6 	 (NP\NP)/NP 	 2 	 books of
+9 	 7 	 N/N 	 1 	 books numerous
+9 	 8 	 N/N 	 1 	 books popular
+9 	 10 	 (NP\NP)/NP 	 1 	 books on
+11 	 10 	 (NP\NP)/NP 	 2 	 science on
+14 	 15 	 (NP\NP)/NP 	 1 	 scourge of
+18 	 15 	 (NP\NP)/NP 	 2 	 lobby of
+18 	 16 	 NP[nb]/N 	 1 	 lobby the
+18 	 17 	 N/N 	 1 	 lobby creationist
+21 	 20 	 N/N 	 1 	 Gould Mr.
+21 	 22 	 (S[dcl]\NP)/NP 	 1 	 Gould is
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 is perhaps
+25 	 24 	 NP[nb]/N 	 1 	 world the
+25 	 26 	 (NP[nb]/N)\NP 	 2 	 world 's
+28 	 27 	 (N/N)/(N/N) 	 2 	 eminent most
+30 	 22 	 (S[dcl]\NP)/NP 	 2 	 theorist is
+30 	 26 	 (NP[nb]/N)\NP 	 1 	 theorist 's
+30 	 28 	 N/N 	 1 	 theorist eminent
+30 	 29 	 N/N 	 1 	 theorist evolutionary
+<\s>
+<s id="wsj_1158.9"> 14
+1 	 2 	 ((S[dcl]\NP)/PP)/NP 	 1 	 he puts
+2 	 0 	 S/S 	 1 	 puts Yet
+5 	 2 	 ((S[dcl]\NP)/PP)/NP 	 3 	 twist puts
+5 	 3 	 NP/NP 	 1 	 twist quite
+5 	 4 	 NP[nb]/N 	 1 	 twist a
+6 	 2 	 ((S[dcl]\NP)/PP)/NP 	 2 	 on puts
+9 	 6 	 PP/NP 	 1 	 story on
+9 	 7 	 NP[nb]/N 	 1 	 story the
+9 	 8 	 N/N 	 1 	 story old
+9 	 10 	 S[pss]\NP 	 1 	 story handed <XB>
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 handed down
+10 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 handed from
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 Darwin from
+<\s>
+<s id="wsj_1158.10"> 39
+1 	 0 	 (S/S)/NP 	 2 	 him For
+4 	 3 	 N/N 	 1 	 history natural
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 history is
+5 	 0 	 (S/S)/NP 	 1 	 is For
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 anything is
+6 	 7 	 (NP\NP)/NP 	 1 	 anything but
+12 	 7 	 (NP\NP)/NP 	 2 	 march but
+12 	 8 	 NP[nb]/N 	 1 	 march a
+12 	 9 	 N/N 	 1 	 march gradual
+12 	 11 	 N/N 	 1 	 march predictable
+12 	 13 	 (NP\NP)/NP 	 1 	 march from
+12 	 16 	 (NP\NP)/NP 	 1 	 march to
+15 	 13 	 (NP\NP)/NP 	 2 	 slime from
+15 	 14 	 N/N 	 1 	 slime primordial
+18 	 16 	 (NP\NP)/NP 	 2 	 consciousness to
+18 	 17 	 N/N 	 1 	 consciousness human
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 it is
+26 	 21 	 (S[dcl]\NP)/NP 	 2 	 affair is
+26 	 22 	 NP[nb]/N 	 1 	 affair a
+26 	 23 	 N/N 	 1 	 affair careening
+26 	 25 	 N/N 	 1 	 affair chaotic
+26 	 28 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 affair which
+27 	 28 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+30 	 29 	 NP[nb]/N 	 1 	 emergence the
+30 	 31 	 (NP\NP)/NP 	 1 	 emergence of
+30 	 35 	 (S[dcl]\NP)/NP 	 1 	 emergence was
+34 	 31 	 (NP\NP)/NP 	 2 	 biped of
+34 	 32 	 NP[nb]/N 	 1 	 biped a
+34 	 33 	 N/N 	 1 	 biped featherless
+35 	 28 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 was which
+38 	 35 	 (S[dcl]\NP)/NP 	 2 	 shot was
+38 	 36 	 NP[nb]/N 	 1 	 shot a
+38 	 37 	 N/N 	 1 	 shot one-in-a-million
+<\s>
+<s id="wsj_1158.11"> 34
+2 	 0 	 (S/S)/NP 	 2 	 Life In
+2 	 1 	 N/N 	 1 	 Life Wonderful
+2 	 3 	 (NP\NP)/NP 	 1 	 Life :
+2 	 12 	 (NP\NP)/NP 	 1 	 Life -LRB-
+6 	 3 	 (NP\NP)/NP 	 2 	 Shale :
+6 	 4 	 NP[nb]/N 	 1 	 Shale The
+6 	 5 	 N/N 	 1 	 Shale Burgess
+9 	 3 	 (NP\NP)/NP 	 2 	 Nature :
+9 	 8 	 NP[nb]/N 	 1 	 Nature the
+9 	 10 	 (NP\NP)/NP 	 1 	 Nature of
+11 	 10 	 (NP\NP)/NP 	 2 	 History of
+13 	 12 	 (NP\NP)/NP 	 2 	 Norton -LRB-
+16 	 12 	 (NP\NP)/NP 	 2 	 pages -LRB-
+16 	 15 	 N/N 	 1 	 pages 326
+18 	 12 	 (NP\NP)/NP 	 2 	 $ -LRB-
+19 	 18 	 N/N[num] 	 1 	 19.95 $
+23 	 22 	 N/N 	 1 	 Gould Mr.
+23 	 24 	 (S[dcl]\NP)/NP 	 1 	 Gould makes
+24 	 0 	 (S/S)/NP 	 1 	 makes In
+26 	 24 	 (S[dcl]\NP)/NP 	 2 	 case makes
+26 	 25 	 NP[nb]/N 	 1 	 case his
+26 	 27 	 (NP\NP)/NP 	 1 	 case for
+30 	 27 	 (NP\NP)/NP 	 2 	 improbability for
+30 	 28 	 NP[nb]/N 	 1 	 improbability the
+30 	 29 	 N/N 	 1 	 improbability awesome
+30 	 31 	 (NP\NP)/NP 	 1 	 improbability of
+33 	 31 	 (NP\NP)/NP 	 2 	 evolution of
+33 	 32 	 N/N 	 1 	 evolution human
+<\s>
+<s id="wsj_1158.12"> 22
+1 	 0 	 NP[nb]/N 	 1 	 argument The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 argument turns
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 on turns
+5 	 3 	 PP/NP 	 1 	 discovery on
+5 	 4 	 NP[nb]/N 	 1 	 discovery the
+5 	 6 	 (NP\NP)/NP 	 1 	 discovery in
+5 	 8 	 (NP\NP)/NP 	 1 	 discovery of
+7 	 6 	 (NP\NP)/NP 	 2 	 1909 in
+12 	 8 	 (NP\NP)/NP 	 2 	 quarry of
+12 	 9 	 NP[nb]/N 	 1 	 quarry an
+12 	 10 	 N/N 	 1 	 quarry amazing
+12 	 11 	 N/N 	 1 	 quarry fossil
+12 	 14 	 (NP\NP)/NP 	 1 	 quarry in
+12 	 18 	 (S[pss]\NP)/NP 	 1 	 quarry called <XB>
+14 	 13 	 (NP\NP)/(NP\NP) 	 2 	 in high
+17 	 14 	 (NP\NP)/NP 	 2 	 Rockies in
+17 	 15 	 NP[nb]/N 	 1 	 Rockies the
+17 	 16 	 N/N 	 1 	 Rockies Canadian
+21 	 18 	 (S[pss]\NP)/NP 	 2 	 Shale called
+21 	 19 	 NP[nb]/N 	 1 	 Shale the
+21 	 20 	 N/N 	 1 	 Shale Burgess
+<\s>
+<s id="wsj_1158.13"> 45
+4 	 2 	 (S/S)/NP 	 2 	 area in
+4 	 3 	 NP[nb]/N 	 1 	 area an
+4 	 5 	 S[adj]\NP 	 1 	 area smaller <XB>
+5 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 smaller than
+9 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 block than
+9 	 7 	 NP[nb]/N 	 1 	 block a
+9 	 8 	 N/N 	 1 	 block city
+11 	 0 	 S/S 	 1 	 lay Here
+11 	 2 	 (S/S)/NP 	 1 	 lay in
+12 	 11 	 (S[dcl]/NP)/(S[pss]\NP) 	 2 	 buried lay
+13 	 11 	 (S[dcl]/NP)/(S[pss]\NP) 	 1 	 traces lay
+13 	 14 	 (NP\NP)/NP 	 1 	 traces of
+17 	 14 	 (NP\NP)/NP 	 2 	 creatures of
+17 	 15 	 N/N 	 1 	 creatures countless
+17 	 16 	 N/N 	 1 	 creatures weird
+17 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 creatures that
+17 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 creatures had <XB>
+17 	 20 	 S[pt]\NP 	 1 	 creatures frolicked <XB>
+17 	 27 	 (NP\NP)/NP 	 1 	 creatures --
+19 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had that
+20 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 frolicked had
+20 	 26 	 ((S\NP)\(S\NP))\NP 	 2 	 frolicked ago
+21 	 22 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 more than
+24 	 22 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 million than
+24 	 23 	 (N/N)/(N/N) 	 2 	 million 500
+25 	 24 	 N/N 	 1 	 years million
+25 	 26 	 ((S\NP)\(S\NP))\NP 	 3 	 years ago
+28 	 27 	 (NP\NP)/NP 	 2 	 creatures --
+28 	 29 	 ((NP\NP)/(S[dcl]\NP))/N 	 1 	 creatures whose
+31 	 29 	 ((NP\NP)/(S[dcl]\NP))/N 	 3 	 variety whose
+31 	 30 	 N/N 	 1 	 variety anatomical
+31 	 33 	 (S[dcl]\NP)/NP 	 1 	 variety exceeded <XB>
+33 	 29 	 ((NP\NP)/(S[dcl]\NP))/N 	 2 	 exceeded whose
+33 	 32 	 (S\NP)/(S\NP) 	 2 	 exceeded far
+34 	 33 	 (S[dcl]\NP)/NP 	 2 	 what exceeded
+34 	 35 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 what can <XB>
+34 	 37 	 S[pss]\NP 	 1 	 what found <XB>
+35 	 34 	 NP/(S[dcl]\NP) 	 1 	 can what
+36 	 35 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+37 	 36 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 found be
+37 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 found in
+37 	 44 	 (S\NP)\(S\NP) 	 2 	 found today
+41 	 40 	 NP[nb]/N 	 1 	 world the
+41 	 42 	 (NP[nb]/N)\NP 	 2 	 world 's
+43 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 oceans in
+43 	 39 	 NP/NP 	 1 	 oceans all
+43 	 42 	 (NP[nb]/N)\NP 	 1 	 oceans 's
+<\s>
+<s id="wsj_1158.14"> 20
+2 	 0 	 NP/NP 	 1 	 embarrassment Such
+2 	 1 	 NP[nb]/N 	 1 	 embarrassment an
+2 	 3 	 (NP\NP)/NP 	 1 	 embarrassment of
+2 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 embarrassment was
+2 	 6 	 S[adj]\NP 	 1 	 embarrassment inconceivable <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 riches of
+5 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 was to
+6 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 inconceivable was
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 man to
+9 	 8 	 NP[nb]/N 	 1 	 man the
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 man who
+9 	 11 	 (S[dcl]\NP)/NP 	 1 	 man discovered <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 discovered who
+14 	 11 	 (S[dcl]\NP)/NP 	 2 	 Shale discovered
+14 	 12 	 NP[nb]/N 	 1 	 Shale the
+14 	 13 	 N/N 	 1 	 Shale Burgess
+19 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Walcott to
+19 	 16 	 N/N 	 1 	 Walcott one
+19 	 17 	 N/N 	 1 	 Walcott Charles
+19 	 18 	 N/N 	 1 	 Walcott Doolittle
+<\s>
+<s id="wsj_1158.15"> 28
+3 	 0 	 NP[nb]/N 	 1 	 wisdom The
+3 	 1 	 N/N 	 1 	 wisdom received
+3 	 2 	 N/N 	 1 	 wisdom Darwinian
+3 	 4 	 (NP\NP)/NP 	 1 	 wisdom of
+3 	 7 	 (S[dcl]\NP)/S[em] 	 1 	 wisdom said
+6 	 4 	 (NP\NP)/NP 	 2 	 day of
+6 	 5 	 NP[nb]/N 	 1 	 day the
+8 	 7 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+9 	 10 	 S[ng]\NP 	 1 	 animals living <XB>
+9 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 animals must
+9 	 16 	 (S[adj]\NP)/PP 	 1 	 animals simple <XB>
+9 	 20 	 (S[adj]\NP)/PP 	 1 	 animals limited <XU>
+9 	 24 	 (S[adj]\NP)/PP 	 1 	 animals ancestral <XU>
+10 	 13 	 (S\NP)\(S\NP) 	 2 	 living ago
+13 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 ago so
+13 	 12 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 ago long
+14 	 8 	 S[em]/S[dcl] 	 1 	 must that
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be must
+16 	 15 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 simple be
+17 	 16 	 (S[adj]\NP)/PP 	 2 	 in simple
+18 	 17 	 PP/NP 	 1 	 design in
+20 	 15 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 limited be
+21 	 20 	 (S[adj]\NP)/PP 	 2 	 in limited
+22 	 21 	 PP/NP 	 1 	 scope in
+24 	 15 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 ancestral be
+25 	 24 	 (S[adj]\NP)/PP 	 2 	 to ancestral
+27 	 25 	 PP/NP 	 1 	 species to
+27 	 26 	 N/N 	 1 	 species contemporary
+<\s>
+<s id="wsj_1158.16"> 24
+4 	 2 	 NP[nb]/N 	 1 	 traditionalist the
+4 	 3 	 N/N 	 1 	 traditionalist hidebound
+4 	 5 	 ((S[dcl]\NP)/PP)/NP 	 1 	 traditionalist reconstructed
+5 	 0 	 S/S 	 1 	 reconstructed Accordingly
+5 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 reconstructed in
+7 	 5 	 ((S[dcl]\NP)/PP)/NP 	 3 	 organisms reconstructed
+7 	 6 	 N/N 	 1 	 organisms hypothetical
+8 	 5 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from reconstructed
+11 	 8 	 PP/NP 	 1 	 fossils from
+11 	 9 	 NP[nb]/N 	 1 	 fossils the
+11 	 10 	 N/N 	 1 	 fossils Burgess
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 way in
+15 	 13 	 NP/NP 	 1 	 way such
+15 	 14 	 NP[nb]/N 	 1 	 way a
+15 	 16 	 (NP\NP)/S[dcl] 	 1 	 way that
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they could
+17 	 20 	 S[pss]\NP 	 1 	 they shoehorned <XB>
+18 	 16 	 (NP\NP)/S[dcl] 	 2 	 could that
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+20 	 19 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 shoehorned be
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 shoehorned into
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 categories into
+23 	 22 	 N/N 	 1 	 categories familiar
+<\s>
+<s id="wsj_1158.17"> 26
+0 	 1 	 ((S[dcl]\NP[expl])/S[em])/PP 	 1 	 It was
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 was not
+3 	 1 	 ((S[dcl]\NP[expl])/S[em])/PP 	 3 	 until was
+6 	 3 	 PP/NP 	 1 	 1970s until
+6 	 4 	 NP[nb]/N 	 1 	 1970s the
+6 	 5 	 N/N 	 1 	 1970s early
+7 	 1 	 ((S[dcl]\NP[expl])/S[em])/PP 	 2 	 that was
+11 	 8 	 N/N 	 1 	 Whittington Cambridge
+11 	 9 	 N/N 	 1 	 Whittington Prof.
+11 	 10 	 N/N 	 1 	 Whittington Harry
+11 	 17 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Whittington began
+11 	 19 	 (S[b]\NP)/NP 	 1 	 Whittington publish <XB>
+16 	 13 	 N/N 	 1 	 students two
+16 	 14 	 N/N 	 1 	 students sharp
+16 	 15 	 N/N 	 1 	 students graduate
+16 	 17 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 students began
+16 	 19 	 (S[b]\NP)/NP 	 1 	 students publish <XB>
+17 	 7 	 S[em]/S[dcl] 	 1 	 began that
+18 	 17 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to began
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 publish to
+21 	 19 	 (S[b]\NP)/NP 	 2 	 reinterpretation publish
+21 	 20 	 NP[nb]/N 	 1 	 reinterpretation a
+21 	 22 	 (NP\NP)/NP 	 1 	 reinterpretation of
+25 	 22 	 (NP\NP)/NP 	 2 	 Shale of
+25 	 23 	 NP[nb]/N 	 1 	 Shale the
+25 	 24 	 N/N 	 1 	 Shale Burgess
+<\s>
+<s id="wsj_1158.18"> 36
+1 	 0 	 (S/S)/(S[ng]\NP) 	 2 	 making By
+3 	 1 	 (S[ng]\NP)/NP 	 2 	 inferences making
+3 	 2 	 N/N 	 1 	 inferences clever
+3 	 4 	 (NP\NP)/S[qem] 	 1 	 inferences about
+5 	 4 	 (NP\NP)/S[qem] 	 2 	 how about
+11 	 6 	 NP[nb]/N 	 1 	 remains the
+11 	 7 	 N/N 	 1 	 remains squashed <XU>
+11 	 9 	 N/N 	 1 	 remains distorted
+11 	 10 	 N/N 	 1 	 remains fossil
+11 	 12 	 (S[dcl]\NP)/PP 	 1 	 remains corresponded
+12 	 5 	 S[qem]/S[dcl] 	 1 	 corresponded how
+13 	 12 	 (S[dcl]\NP)/PP 	 2 	 to corresponded
+15 	 13 	 PP/NP 	 1 	 structures to
+15 	 14 	 N/N 	 1 	 structures three-dimensional
+18 	 17 	 NP[nb]/N 	 1 	 trio this
+18 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 trio was
+18 	 20 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 trio able <XB>
+19 	 0 	 (S/S)/(S[ng]\NP) 	 1 	 was By
+20 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 able was
+21 	 20 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 piece to
+23 	 22 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 3 	 together piece
+25 	 22 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 2 	 series piece
+25 	 23 	 S[adj]\NP 	 1 	 series together <XB>
+25 	 24 	 NP[nb]/N 	 1 	 series a
+25 	 26 	 (NP\NP)/NP 	 1 	 series of
+25 	 29 	 (S[adj]\NP)/NP 	 1 	 series quite <XB>
+28 	 26 	 (NP\NP)/NP 	 2 	 beasties of
+28 	 27 	 N/N 	 1 	 beasties wondrous
+29 	 30 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 quite unlike
+31 	 29 	 (S[adj]\NP)/NP 	 2 	 anything quite
+31 	 33 	 (NP\NP)/NP 	 1 	 anything on
+33 	 32 	 (NP\NP)/(NP\NP) 	 2 	 on currently
+35 	 33 	 (NP\NP)/NP 	 2 	 planet on
+35 	 34 	 NP[nb]/N 	 1 	 planet the
+<\s>
+<s id="wsj_1158.19"> 11
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 One was
+0 	 2 	 ((S[adj]\NP)/S[dcl])/(S[adj]\NP) 	 1 	 One so <XB>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 so was
+3 	 2 	 ((S[adj]\NP)/S[dcl])/(S[adj]\NP) 	 3 	 fantastic so
+4 	 3 	 (S[adj]\NP)/PP 	 2 	 in fantastic
+5 	 4 	 PP/NP 	 1 	 appearance in
+7 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 it was
+7 	 9 	 (S[pss]\NP)/NP 	 1 	 it dubbed <XB>
+8 	 2 	 ((S[adj]\NP)/S[dcl])/(S[adj]\NP) 	 2 	 was so
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 dubbed was
+10 	 9 	 (S[pss]\NP)/NP 	 2 	 Hallucigenia dubbed
+<\s>
+<s id="wsj_1158.20"> 14
+1 	 0 	 (S[dcl]\NP)/S[em] 	 2 	 that Would
+3 	 2 	 N/N 	 1 	 Gould Mr.
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 Gould 's
+6 	 4 	 (NP[nb]/N)\NP 	 1 	 descriptions 's
+6 	 5 	 N/N 	 1 	 descriptions minute
+6 	 7 	 (NP\NP)/NP 	 1 	 descriptions of
+6 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 descriptions was
+6 	 13 	 S[adj]\NP 	 1 	 descriptions colorful <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 creatures of
+9 	 8 	 NP[nb]/N 	 1 	 creatures these
+10 	 1 	 S[em]/S[dcl] 	 1 	 was that
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 was always
+13 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 colorful was
+13 	 12 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 colorful so
+<\s>
+<s id="wsj_1158.21"> 25
+2 	 0 	 NP[nb]/N 	 1 	 deal A
+2 	 1 	 N/N 	 1 	 deal good
+2 	 3 	 (NP\NP)/NP 	 1 	 deal of
+2 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 deal is
+2 	 7 	 S[adj]\NP 	 1 	 deal boring <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 book of
+5 	 4 	 NP[nb]/N 	 1 	 book the
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 boring is
+12 	 9 	 NP/NP 	 1 	 allusions particularly
+12 	 10 	 NP[nb]/N 	 1 	 allusions the
+12 	 11 	 N/N 	 1 	 allusions endless
+12 	 13 	 (NP\NP)/NP 	 1 	 allusions to
+17 	 13 	 (NP\NP)/NP 	 2 	 culture to
+17 	 14 	 N/N 	 1 	 culture high <XU>
+17 	 16 	 N/N 	 1 	 culture pop
+21 	 19 	 NP[nb]/N 	 1 	 jokes the
+21 	 20 	 N/N 	 1 	 jokes frequent
+21 	 22 	 (S[ng]\NP)/NP 	 1 	 jokes festooning <XB>
+24 	 22 	 (S[ng]\NP)/NP 	 2 	 text festooning
+24 	 23 	 NP[nb]/N 	 1 	 text the
+<\s>
+<s id="wsj_1158.22"> 21
+1 	 0 	 NP[nb]/N 	 1 	 turns These
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 turns do
+1 	 4 	 (S[b]\NP)/NP 	 1 	 turns provide <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 do not
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 provide do
+6 	 4 	 (S[b]\NP)/NP 	 2 	 relief provide
+6 	 5 	 N/N 	 1 	 relief sufficient
+6 	 7 	 (NP\NP)/NP 	 1 	 relief from
+8 	 7 	 (NP\NP)/NP 	 2 	 sentences from
+8 	 9 	 (NP\NP)/S[dcl] 	 1 	 sentences like
+13 	 11 	 N/N 	 1 	 chelicerates Most
+13 	 12 	 N/N 	 1 	 chelicerates modern
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 chelicerates have
+14 	 9 	 (NP\NP)/S[dcl] 	 2 	 have like
+14 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 have on
+17 	 14 	 (S[dcl]\NP)/NP 	 2 	 appendages have
+17 	 15 	 N/N 	 1 	 appendages six
+17 	 16 	 N/N 	 1 	 appendages uniramous
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 prosoma on
+20 	 19 	 NP[nb]/N 	 1 	 prosoma the
+<\s>
+<s id="wsj_1158.23"> 24
+0 	 1 	 S[dcl]\NP 	 1 	 Interest picks
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 picks up
+1 	 4 	 (S\NP)\(S\NP) 	 2 	 picks though
+1 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 picks when
+8 	 7 	 N/N 	 1 	 Gould Mr.
+8 	 9 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 1 	 Gould gets
+8 	 10 	 S[adj]\NP 	 1 	 Gould around <XB>
+9 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 gets when
+10 	 9 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 3 	 around gets
+11 	 9 	 ((S[dcl]\NP)/PP)/(S[adj]\NP) 	 2 	 to gets
+12 	 11 	 PP/(S[ng]\NP) 	 1 	 discussing to
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 meaning discussing
+14 	 13 	 NP[nb]/N 	 1 	 meaning the
+14 	 15 	 (NP\NP)/NP 	 1 	 meaning of
+14 	 19 	 (NP\NP)/NP 	 1 	 meaning for
+18 	 15 	 (NP\NP)/NP 	 2 	 oddities of
+18 	 16 	 NP[nb]/N 	 1 	 oddities the
+18 	 17 	 N/N 	 1 	 oddities Burgess
+21 	 19 	 (NP\NP)/NP 	 2 	 theory for
+21 	 20 	 NP[nb]/N 	 1 	 theory the
+21 	 22 	 (NP\NP)/NP 	 1 	 theory of
+23 	 22 	 (NP\NP)/NP 	 2 	 evolution of
+<\s>
+<s id="wsj_1158.24"> 25
+1 	 0 	 N/N 	 1 	 long Not
+1 	 2 	 ((S/S)\NP)/NP 	 2 	 long after
+4 	 2 	 ((S/S)\NP)/NP 	 3 	 appearance after
+4 	 3 	 NP[nb]/N 	 1 	 appearance the
+4 	 5 	 (NP\NP)/NP 	 1 	 appearance of
+6 	 5 	 (NP\NP)/NP 	 2 	 life of
+10 	 11 	 (S[dcl]\NP[thr])/NP 	 1 	 there was
+11 	 2 	 ((S/S)\NP)/NP 	 1 	 was after
+11 	 8 	 S/S 	 1 	 was evidently
+14 	 11 	 (S[dcl]\NP[thr])/NP 	 2 	 proliferation was
+14 	 12 	 NP[nb]/N 	 1 	 proliferation an
+14 	 13 	 N/N 	 1 	 proliferation explosive
+14 	 15 	 (NP\NP)/NP 	 1 	 proliferation in
+17 	 15 	 (NP\NP)/NP 	 2 	 number in
+17 	 16 	 NP[nb]/N 	 1 	 number the
+17 	 18 	 (NP\NP)/NP 	 1 	 number of
+17 	 21 	 S[pss]\NP 	 1 	 number seen <XB>
+20 	 18 	 (NP\NP)/NP 	 2 	 designs of
+20 	 19 	 N/N 	 1 	 designs animal
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 seen on
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 earth on
+24 	 23 	 NP[nb]/N 	 1 	 earth the
+<\s>
+<s id="wsj_1158.25"> 32
+2 	 0 	 NP[nb]/N 	 1 	 majority The
+2 	 1 	 N/N 	 1 	 majority vast
+2 	 3 	 (NP\NP)/NP 	 1 	 majority of
+2 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 majority were
+2 	 9 	 S[pss]\NP 	 1 	 majority wiped <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 them of
+8 	 6 	 (S\NP)/(S\NP) 	 2 	 were however
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 wiped were
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 wiped out
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 wiped by
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 succession by
+13 	 12 	 NP[nb]/N 	 1 	 succession a
+13 	 14 	 (NP\NP)/NP 	 1 	 succession of
+16 	 14 	 (NP\NP)/NP 	 2 	 upheavals of
+16 	 15 	 N/N 	 1 	 upheavals environmental
+16 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 upheavals that
+16 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 upheavals were <XB>
+16 	 19 	 ((S[adj]\NP)/S[for])/(S[adj]\NP) 	 1 	 upheavals too <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 were that
+19 	 18 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 too were
+20 	 19 	 ((S[adj]\NP)/S[for])/(S[adj]\NP) 	 3 	 sudden too
+22 	 19 	 ((S[adj]\NP)/S[for])/(S[adj]\NP) 	 3 	 catastrophic too
+23 	 19 	 ((S[adj]\NP)/S[for])/(S[adj]\NP) 	 2 	 for too
+26 	 23 	 (S[for]/(S[to]\NP))/NP 	 2 	 rules for
+26 	 24 	 NP[nb]/N 	 1 	 rules the
+26 	 25 	 N/N 	 1 	 rules normal
+26 	 27 	 (NP\NP)/NP 	 1 	 rules of
+26 	 31 	 S[b]\NP 	 1 	 rules operate <XB>
+29 	 27 	 (NP\NP)/NP 	 2 	 selection of
+29 	 28 	 N/N 	 1 	 selection natural
+30 	 23 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 operate to
+<\s>
+<s id="wsj_1158.26"> 23
+4 	 2 	 NP[nb]/N 	 1 	 process the
+4 	 3 	 N/N 	 1 	 process winnowing
+4 	 5 	 (S[dcl]\NP)/PP 	 1 	 process was
+5 	 0 	 S/S 	 1 	 was Consequently
+6 	 5 	 (S[dcl]\NP)/PP 	 2 	 like was
+8 	 6 	 PP/NP 	 1 	 lottery like
+8 	 7 	 NP[nb]/N 	 1 	 lottery a
+8 	 10 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 lottery which
+9 	 10 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+12 	 11 	 NP[nb]/N 	 1 	 group each
+12 	 14 	 (S[dcl]\NP)/NP 	 1 	 group held
+14 	 10 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 held which
+17 	 14 	 (S[dcl]\NP)/NP 	 2 	 ticket held
+17 	 16 	 NP[nb]/N 	 1 	 ticket a
+17 	 18 	 S[adj]\NP 	 1 	 ticket unrelated <XB>
+18 	 19 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 unrelated to
+22 	 19 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 virtues to
+22 	 20 	 NP[nb]/N 	 1 	 virtues its
+22 	 21 	 N/N 	 1 	 virtues anatomical
+<\s>
+<s id="wsj_1158.27"> 7
+1 	 0 	 N/N 	 1 	 much So
+1 	 2 	 (NP\NP)/NP 	 1 	 much for
+3 	 2 	 (NP\NP)/NP 	 2 	 survival for
+3 	 4 	 (NP\NP)/NP 	 1 	 survival of
+6 	 4 	 (NP\NP)/NP 	 2 	 fittest of
+6 	 5 	 NP[nb]/N 	 1 	 fittest the
+<\s>
+<s id="wsj_1158.28"> 20
+1 	 0 	 N/N 	 1 	 much So
+1 	 3 	 NP\NP 	 1 	 much too
+1 	 5 	 (NP\NP)/NP 	 1 	 much for
+7 	 5 	 (NP\NP)/NP 	 2 	 notion for
+7 	 6 	 NP[nb]/N 	 1 	 notion the
+8 	 7 	 N/S[em] 	 1 	 that notion
+10 	 9 	 N/N 	 1 	 humans we
+10 	 11 	 S[dcl]\NP 	 1 	 humans triumphed
+10 	 17 	 (S[ng]\NP)/NP 	 1 	 humans evolving <XB>
+11 	 8 	 S[em]/S[dcl] 	 1 	 triumphed that
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 triumphed in
+11 	 16 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 triumphed by
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 struggle in
+15 	 13 	 NP[nb]/N 	 1 	 struggle the
+15 	 14 	 N/N 	 1 	 struggle Darwinian
+17 	 16 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 evolving by
+19 	 17 	 (S[ng]\NP)/NP 	 2 	 brains evolving
+19 	 18 	 N/N 	 1 	 brains big
+<\s>
+<s id="wsj_1158.29"> 21
+2 	 0 	 NP[nb]/N 	 1 	 forerunners Our
+2 	 1 	 N/N 	 1 	 forerunners mammalian
+2 	 3 	 S[dcl]\NP 	 1 	 forerunners lucked
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 lucked out
+3 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 lucked through
+3 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 lucked because
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 impact through
+8 	 6 	 NP[nb]/N 	 1 	 impact the
+8 	 7 	 N/N 	 1 	 impact extraterrestrial
+8 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 impact that
+8 	 10 	 (S[dcl]\NP)/NP 	 1 	 impact did <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 did that
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 did in
+13 	 10 	 (S[dcl]\NP)/NP 	 2 	 dinosaurs did
+13 	 12 	 NP[nb]/N 	 1 	 dinosaurs the
+15 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they were
+15 	 20 	 S[adj]\NP 	 1 	 they smart <XB>
+16 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 were because
+20 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 smart were
+20 	 17 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 smart small
+20 	 19 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 smart not
+<\s>
+<s id="wsj_1158.30"> 20
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 anyone has
+2 	 0 	 (S/S)/S[dcl] 	 2 	 has If
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 difficulty has
+3 	 4 	 (S[ng]\NP)/NP 	 1 	 difficulty imagining <XB>
+6 	 4 	 (S[ng]\NP)/NP 	 2 	 world imagining
+6 	 5 	 NP[nb]/N 	 1 	 world a
+6 	 8 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 world which
+7 	 8 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+9 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 history went
+9 	 12 	 S[adj]\NP 	 1 	 history on <XB>
+10 	 8 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 went which
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 went merrily
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 went without
+12 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 on went
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 us without
+17 	 16 	 N/N 	 1 	 Gould Mr.
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 Gould sketches
+18 	 0 	 (S/S)/S[dcl] 	 1 	 sketches If
+19 	 18 	 (S[dcl]\NP)/NP 	 2 	 several sketches
+<\s>
+<s id="wsj_1158.31"> 17
+1 	 0 	 (S/S)/NP 	 2 	 one In
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 birds are
+4 	 0 	 (S/S)/NP 	 1 	 are In
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 carnivores are
+7 	 5 	 NP[nb]/N 	 1 	 carnivores the
+7 	 6 	 N/N 	 1 	 carnivores dominant
+10 	 9 	 (S/S)/NP 	 2 	 another in
+12 	 11 	 NP[nb]/N 	 1 	 seas the
+12 	 13 	 (S[dcl]\NP)/PP 	 1 	 seas abound
+13 	 9 	 (S/S)/NP 	 1 	 abound in
+14 	 13 	 (S[dcl]\NP)/PP 	 2 	 with abound
+16 	 14 	 PP/NP 	 1 	 penises with
+16 	 15 	 N/N 	 1 	 penises little
+<\s>
+<s id="wsj_1158.32"> 27
+0 	 1 	 ((S/S)\(S/S))/S[dcl] 	 2 	 Back when
+4 	 2 	 NP[nb]/N 	 1 	 fauna the
+4 	 3 	 N/N 	 1 	 fauna Burgess
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 fauna were
+4 	 6 	 S[ng]\NP 	 1 	 fauna flourishing <XB>
+5 	 1 	 ((S/S)\(S/S))/S[dcl] 	 3 	 were when
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 flourishing were
+8 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 it seems
+13 	 11 	 N/N 	 1 	 hopes human
+13 	 12 	 N/N 	 1 	 hopes evolutionary
+13 	 14 	 (S[dcl]\NP)/PP 	 1 	 hopes hung
+14 	 0 	 S/S 	 1 	 hung Back
+14 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 hung seems <XU>
+15 	 14 	 (S[dcl]\NP)/PP 	 2 	 on hung
+17 	 15 	 PP/NP 	 1 	 survival on
+17 	 16 	 NP[nb]/N 	 1 	 survival the
+17 	 18 	 (NP\NP)/NP 	 1 	 survival of
+21 	 18 	 (NP\NP)/NP 	 2 	 worm of
+21 	 19 	 NP[nb]/N 	 1 	 worm a
+21 	 20 	 N/N 	 1 	 worm little
+21 	 22 	 (NP\NP)/NP 	 1 	 worm with
+21 	 25 	 (S[pss]\NP)/NP 	 1 	 worm called <XB>
+24 	 22 	 (NP\NP)/NP 	 2 	 backbone with
+24 	 23 	 NP[nb]/N 	 1 	 backbone a
+26 	 25 	 (S[pss]\NP)/NP 	 2 	 Pikaia called
+<\s>
+<s id="wsj_1158.33"> 27
+1 	 0 	 N/N 	 1 	 Gould Mr.
+1 	 2 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 Gould finds
+3 	 2 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 this finds
+3 	 5 	 S[adj]\NP 	 1 	 this exhilarating <XB>
+5 	 2 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 exhilarating finds
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 exhilarating oddly
+9 	 7 	 (S/S)/NP 	 2 	 existentialist like
+9 	 8 	 NP[nb]/N 	 1 	 existentialist an
+9 	 10 	 (NP\NP)/NP 	 1 	 existentialist of
+11 	 10 	 (NP\NP)/NP 	 2 	 old of
+13 	 14 	 ((S[dcl]\NP)/PP)/NP 	 1 	 he views
+14 	 7 	 (S/S)/NP 	 1 	 views like
+16 	 14 	 ((S[dcl]\NP)/PP)/NP 	 3 	 contingency views
+16 	 15 	 NP[nb]/N 	 1 	 contingency our
+17 	 14 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as views
+19 	 17 	 PP/NP 	 1 	 source as
+19 	 18 	 NP[nb]/N 	 1 	 source a
+19 	 20 	 (NP\NP)/NP 	 1 	 source of
+22 	 20 	 (NP\NP)/NP 	 2 	 freedom of
+22 	 21 	 NP/NP 	 1 	 freedom both
+26 	 20 	 (NP\NP)/NP 	 2 	 responsibility of
+26 	 21 	 NP/NP 	 1 	 responsibility both
+26 	 24 	 N/N 	 1 	 responsibility consequent
+26 	 25 	 N/N 	 1 	 responsibility moral
+<\s>
+<s id="wsj_1158.34"> 38
+0 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 I can
+0 	 7 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 I help <XB>
+0 	 8 	 (S[ng]\NP)/S[em] 	 1 	 I feeling <XB>
+3 	 2 	 ((S\NP)/(S\NP))/NP 	 3 	 contrast by
+5 	 2 	 ((S\NP)/(S\NP))/NP 	 2 	 can by
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 can not
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 help can
+8 	 7 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 feeling help
+9 	 8 	 (S[ng]\NP)/S[em] 	 2 	 that feeling
+13 	 11 	 NP[nb]/N 	 1 	 curiosity some
+13 	 12 	 N/N 	 1 	 curiosity other
+13 	 14 	 (NP\NP)/NP 	 1 	 curiosity from
+13 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 curiosity had
+13 	 19 	 S[pt]\NP 	 1 	 curiosity survived <XB>
+17 	 14 	 (NP\NP)/NP 	 2 	 Shale from
+17 	 15 	 NP[nb]/N 	 1 	 Shale the
+17 	 16 	 N/N 	 1 	 Shale Burgess
+18 	 10 	 (S/S)/S[dcl] 	 2 	 had if
+19 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 survived had
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 survived instead
+22 	 25 	 S[adj]\NP 	 1 	 beings wiser <XB>
+22 	 28 	 S[adj]\NP 	 1 	 beings boorish <XU>
+22 	 32 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 beings might
+22 	 35 	 (S[pt]\NP)/NP 	 1 	 beings gained <XB>
+24 	 23 	 ((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)) 	 3 	 once at
+25 	 24 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 wiser once
+28 	 27 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 boorish less
+28 	 29 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 boorish than
+31 	 29 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 sapiens than
+31 	 30 	 N/N 	 1 	 sapiens Homo
+32 	 9 	 S[em]/S[dcl] 	 1 	 might that
+32 	 10 	 (S/S)/S[dcl] 	 1 	 might if
+33 	 32 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have might
+33 	 34 	 (S\NP)\(S\NP) 	 2 	 have eventually
+35 	 33 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 gained have
+37 	 35 	 (S[pt]\NP)/NP 	 2 	 dominion gained
+37 	 36 	 N/N 	 1 	 dominion earthly
+<\s>
+<s id="wsj_1158.35"> 32
+2 	 1 	 (S/S)/(S/S) 	 2 	 if even
+5 	 3 	 NP[nb]/N 	 1 	 life no
+5 	 4 	 N/N 	 1 	 life conscious
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 life had
+5 	 7 	 S[pt]\NP 	 1 	 life evolved <XB>
+6 	 2 	 (S/S)/S[dcl] 	 2 	 had if
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 evolved had
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 evolved here
+7 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 evolved at
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 all at
+13 	 12 	 NP[nb]/N 	 1 	 universe the
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 universe is
+14 	 0 	 S/S 	 1 	 is But
+14 	 2 	 (S/S)/S[dcl] 	 1 	 is if
+17 	 14 	 (S[dcl]\NP)/NP 	 2 	 place is
+17 	 15 	 NP[nb]/N 	 1 	 place a
+17 	 16 	 N/N 	 1 	 place big
+17 	 25 	 (S[adj]\NP)/PP 	 1 	 place sympathetic <XB>
+20 	 14 	 (S[dcl]\NP)/NP 	 2 	 given is
+20 	 25 	 (S[adj]\NP)/PP 	 1 	 given sympathetic <XB>
+23 	 20 	 PP/NP 	 1 	 conditions given
+23 	 21 	 NP[nb]/N 	 1 	 conditions the
+23 	 22 	 N/N 	 1 	 conditions right
+26 	 25 	 (S[adj]\NP)/PP 	 2 	 to sympathetic
+27 	 26 	 PP/(S[ng]\NP) 	 1 	 creating to
+29 	 27 	 (S[ng]\NP)/NP 	 2 	 form creating
+29 	 28 	 NP[nb]/N 	 1 	 form some
+29 	 30 	 (NP\NP)/NP 	 1 	 form of
+31 	 30 	 (NP\NP)/NP 	 2 	 life of
+<\s>
+<s id="wsj_1158.36"> 31
+5 	 1 	 (S/S)/NP 	 2 	 address at
+5 	 2 	 NP[nb]/N 	 1 	 address some
+5 	 3 	 N/N 	 1 	 address other
+5 	 4 	 N/N 	 1 	 address cosmic
+8 	 6 	 NP[nb]/N 	 1 	 creature a
+8 	 7 	 N/N 	 1 	 creature Gouldoid
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 creature would
+8 	 11 	 S[pt]\NP 	 1 	 creature risen <XB>
+8 	 17 	 (S[b]\NP)/S[qem] 	 1 	 creature explain <XB>
+9 	 0 	 S/S 	 1 	 would Surely
+9 	 1 	 (S/S)/NP 	 1 	 would at
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+11 	 10 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 risen have
+11 	 12 	 ((S\NP)\(S\NP))/PP 	 2 	 risen out
+13 	 12 	 ((S\NP)\(S\NP))/PP 	 3 	 of out
+15 	 13 	 PP/NP 	 1 	 ooze of
+15 	 14 	 NP[nb]/N 	 1 	 ooze the
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 explain to
+18 	 17 	 (S[b]\NP)/S[qem] 	 2 	 why explain
+21 	 20 	 (S\NP)/(S\NP) 	 2 	 speaking paleontologically
+23 	 24 	 (S[dcl]\NP)/NP 	 1 	 it is
+24 	 18 	 S[qem]/S[dcl] 	 1 	 is why
+24 	 26 	 (S\NP)\(S\NP) 	 2 	 is indeed
+30 	 24 	 (S[dcl]\NP)/NP 	 2 	 life is
+30 	 28 	 NP[nb]/N 	 1 	 life a
+30 	 29 	 N/N 	 1 	 life wonderful
+<\s>
+<s id="wsj_1158.37"> 11
+1 	 0 	 N/N 	 1 	 Holt Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Holt is
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 columnist is
+4 	 3 	 NP[nb]/N 	 1 	 columnist a
+4 	 5 	 (NP\NP)/NP 	 1 	 columnist for
+8 	 5 	 (NP\NP)/NP 	 2 	 Review for
+8 	 6 	 NP[nb]/N 	 1 	 Review the
+8 	 7 	 N/N 	 1 	 Review Literary
+8 	 9 	 (NP\NP)/NP 	 1 	 Review in
+10 	 9 	 (NP\NP)/NP 	 2 	 London in
+<\s>

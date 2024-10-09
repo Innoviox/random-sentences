@@ -1,0 +1,85 @@
+<s id="wsj_1232.1"> 17
+2 	 0 	 N/N 	 1 	 Brady Walter
+2 	 1 	 N/N 	 1 	 Brady M.
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Brady was
+2 	 4 	 (S[pss]\NP)/NP 	 1 	 Brady named <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+8 	 4 	 (S[pss]\NP)/NP 	 2 	 president named
+8 	 5 	 NP[nb]/N 	 1 	 president a
+8 	 6 	 N/N 	 1 	 president senior
+8 	 7 	 N/N 	 1 	 president vice
+8 	 9 	 (NP\NP)/NP 	 1 	 president of
+8 	 12 	 (NP\NP)/NP 	 1 	 president in
+11 	 9 	 (NP\NP)/NP 	 2 	 insurer of
+11 	 10 	 NP[nb]/N 	 1 	 insurer this
+16 	 12 	 (NP\NP)/NP 	 2 	 office in
+16 	 13 	 NP[nb]/N 	 1 	 office the
+16 	 14 	 N/N 	 1 	 office Canadian
+16 	 15 	 N/N 	 1 	 office head
+<\s>
+<s id="wsj_1232.2"> 8
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 He had
+0 	 2 	 (S[pt]\NP)/NP 	 1 	 He been <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+3 	 2 	 (S[pt]\NP)/NP 	 2 	 vice been
+3 	 4 	 NP\NP 	 1 	 vice president
+3 	 5 	 (NP\NP)/NP 	 1 	 vice in
+7 	 5 	 (NP\NP)/NP 	 2 	 office in
+7 	 6 	 NP[nb]/N 	 1 	 office that
+<\s>
+<s id="wsj_1232.3"> 17
+2 	 0 	 N/N 	 1 	 Foy John
+2 	 1 	 N/N 	 1 	 Foy B.
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Foy was
+2 	 4 	 (S[pss]\NP)/NP 	 1 	 Foy named <XB>
+2 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Foy remains <XU>
+2 	 10 	 (S[adj]\NP)/PP 	 1 	 Foy responsible <XU>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+7 	 4 	 (S[pss]\NP)/NP 	 2 	 president named
+7 	 5 	 N/N 	 1 	 president senior
+7 	 6 	 N/N 	 1 	 president vice
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 responsible remains
+11 	 10 	 (S[adj]\NP)/PP 	 2 	 for responsible
+16 	 11 	 PP/NP 	 1 	 department for
+16 	 12 	 NP[nb]/N 	 1 	 department the
+16 	 13 	 N/N 	 1 	 department individual
+16 	 14 	 N/N 	 1 	 department policy
+16 	 15 	 N/N 	 1 	 department services
+<\s>
+<s id="wsj_1232.4"> 15
+2 	 0 	 N/N 	 1 	 Ollari Frank
+2 	 1 	 N/N 	 1 	 Ollari J.
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Ollari was
+2 	 4 	 (S[pss]\NP)/NP 	 1 	 Ollari named <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+7 	 4 	 (S[pss]\NP)/NP 	 2 	 president named
+7 	 5 	 N/N 	 1 	 president senior
+7 	 6 	 N/N 	 1 	 president vice
+7 	 8 	 (NP\NP)/NP 	 1 	 president in
+9 	 8 	 (NP\NP)/NP 	 2 	 charge in
+9 	 10 	 (NP\NP)/NP 	 1 	 charge of
+14 	 10 	 (NP\NP)/NP 	 2 	 department of
+14 	 11 	 NP[nb]/N 	 1 	 department the
+14 	 12 	 N/N 	 1 	 department mortgage
+14 	 13 	 N/N 	 1 	 department finance
+<\s>
+<s id="wsj_1232.5"> 17
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 He had
+0 	 2 	 (S[pt]\NP)/NP 	 1 	 He been <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+4 	 2 	 (S[pt]\NP)/NP 	 2 	 president been
+4 	 3 	 N/N 	 1 	 president vice
+4 	 5 	 (NP\NP)/NP 	 1 	 president of
+7 	 5 	 (NP\NP)/NP 	 2 	 department of
+7 	 6 	 NP[nb]/N 	 1 	 department the
+7 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 department which
+7 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 department was <XB>
+7 	 12 	 (S[pss]\NP)/NP 	 1 	 department called <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was which
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 was formerly
+12 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 called was
+16 	 12 	 (S[pss]\NP)/NP 	 2 	 department called
+16 	 13 	 NP[nb]/N 	 1 	 department the
+16 	 14 	 N/N 	 1 	 department real
+16 	 15 	 N/N 	 1 	 department estate
+<\s>

@@ -1,0 +1,132 @@
+<s id="wsj_1039.1"> 33
+1 	 0 	 N/N 	 1 	 Corp. Amdahl
+1 	 9 	 (S[dcl]\NP)/NP 	 1 	 Corp. reported
+1 	 21 	 (S[ng]\NP)/NP 	 1 	 Corp. citing <XB>
+4 	 3 	 NP[nb]/N 	 1 	 maker a
+4 	 5 	 (NP\NP)/NP 	 1 	 maker of
+4 	 9 	 (S[dcl]\NP)/NP 	 1 	 maker reported
+4 	 21 	 (S[ng]\NP)/NP 	 1 	 maker citing <XB>
+7 	 5 	 (NP\NP)/NP 	 2 	 computers of
+7 	 6 	 N/N 	 1 	 computers mainframe
+12 	 9 	 (S[dcl]\NP)/NP 	 2 	 decline reported
+12 	 10 	 NP[nb]/N 	 1 	 decline a
+12 	 11 	 N/N 	 1 	 decline sharp
+12 	 13 	 (NP\NP)/NP 	 1 	 decline in
+12 	 16 	 (NP\NP)/NP 	 1 	 decline for
+15 	 13 	 (NP\NP)/NP 	 2 	 income in
+15 	 14 	 N/N 	 1 	 income net
+19 	 16 	 (NP\NP)/NP 	 2 	 quarter for
+19 	 17 	 NP[nb]/N 	 1 	 quarter its
+19 	 18 	 N/N 	 1 	 quarter third
+22 	 21 	 (S[ng]\NP)/NP 	 2 	 pricecutting citing
+22 	 23 	 (NP\NP)/NP 	 1 	 pricecutting by
+24 	 23 	 (NP\NP)/NP 	 2 	 competitors by
+27 	 21 	 (S[ng]\NP)/NP 	 2 	 effects citing
+27 	 26 	 N/N 	 1 	 effects adverse
+27 	 28 	 (NP\NP)/NP 	 1 	 effects from
+32 	 28 	 (NP\NP)/NP 	 2 	 dollar from
+32 	 29 	 NP[nb]/N 	 1 	 dollar a
+32 	 30 	 N/N 	 1 	 dollar strong
+32 	 31 	 N/N 	 1 	 dollar U.S.
+<\s>
+<s id="wsj_1039.2"> 31
+1 	 0 	 N/N 	 1 	 income Net
+1 	 2 	 S[dcl]\NP 	 1 	 income fell
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 fell %
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+2 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+2 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 fell in
+4 	 3 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 37
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+8 	 6 	 N/N[num] 	 1 	 million $
+8 	 7 	 N/N 	 1 	 million 32.9
+12 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 cents to
+12 	 11 	 N/N 	 1 	 cents 30
+12 	 13 	 (NP\NP)/N 	 1 	 cents a
+14 	 13 	 (NP\NP)/N 	 2 	 share a
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 52.2
+23 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+23 	 22 	 N/N 	 1 	 cents 48
+23 	 24 	 (NP\NP)/N 	 1 	 cents a
+25 	 24 	 (NP\NP)/N 	 2 	 share a
+30 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 period in
+30 	 28 	 NP[nb]/N 	 1 	 period the
+30 	 29 	 N/N 	 1 	 period year-ago
+<\s>
+<s id="wsj_1039.3"> 12
+0 	 1 	 S[dcl]\NP 	 1 	 Revenue rose
+1 	 3 	 (S\NP)\(S\NP) 	 2 	 rose %
+1 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 2 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 15
+5 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 534.3
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 464.7
+<\s>
+<s id="wsj_1039.4"> 8
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Amdahl 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 results 's
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 results were
+2 	 5 	 S[adj]\NP 	 1 	 results worse <XB>
+5 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 worse were
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 worse somewhat
+5 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/(S[dcl]\NP) 	 2 	 worse than
+7 	 6 	 ((S[adj]\NP)\(S[adj]\NP))/(S[dcl]\NP) 	 3 	 expected than
+<\s>
+<s id="wsj_1039.5"> 55
+1 	 0 	 N/N 	 1 	 Stevens Jay
+1 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 Stevens said
+1 	 29 	 (S[dcl]\NP)/S[dcl] 	 1 	 Stevens said <XU>
+4 	 3 	 NP[nb]/N 	 1 	 analyst an
+4 	 5 	 (NP\NP)/NP 	 1 	 analyst with
+4 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 analyst said
+4 	 29 	 (S[dcl]\NP)/S[dcl] 	 1 	 analyst said <XU>
+8 	 5 	 (NP\NP)/NP 	 2 	 Reynolds with
+8 	 6 	 N/N 	 1 	 Reynolds Dean
+8 	 7 	 N/N 	 1 	 Reynolds Witter
+11 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 he expected
+12 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 expected said
+16 	 14 	 (N/N)/(N/N) 	 2 	 Calif. Sunnyvale
+18 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 company expected
+18 	 13 	 NP[nb]/N 	 1 	 company the
+18 	 16 	 N/N 	 1 	 company Calif.
+18 	 20 	 (S[b]\NP)/NP 	 1 	 company earn <XB>
+19 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expected
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 earn to
+20 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 earn for
+22 	 20 	 (S[b]\NP)/NP 	 2 	 cents earn
+22 	 21 	 N/N 	 1 	 cents 35
+22 	 23 	 (NP\NP)/N 	 1 	 cents a
+24 	 23 	 (NP\NP)/N 	 2 	 share a
+27 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter for
+27 	 26 	 NP[nb]/N 	 1 	 quarter the
+31 	 30 	 NP[nb]/N 	 1 	 firm the
+31 	 32 	 (NP[nb]/N)\NP 	 2 	 firm 's
+34 	 32 	 (NP[nb]/N)\NP 	 1 	 profit 's
+34 	 33 	 N/N 	 1 	 profit weaker
+34 	 35 	 (S[dcl]\NP)/NP 	 1 	 profit was
+35 	 29 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+35 	 36 	 (S\NP)\(S\NP) 	 2 	 was partly
+38 	 35 	 (S[dcl]\NP)/NP 	 2 	 result was
+38 	 37 	 NP[nb]/N 	 1 	 result the
+38 	 39 	 (NP\NP)/NP 	 1 	 result of
+41 	 39 	 (NP\NP)/NP 	 2 	 competition of
+41 	 40 	 N/N 	 1 	 competition increased
+41 	 42 	 (NP\NP)/NP 	 1 	 competition from
+46 	 42 	 (NP\NP)/NP 	 2 	 Corp. from
+46 	 43 	 N/N 	 1 	 Corp. International
+46 	 44 	 N/N 	 1 	 Corp. Business
+46 	 45 	 N/N 	 1 	 Corp. Machines
+48 	 49 	 (NP[nb]/N)\NP 	 2 	 Amdahl 's
+51 	 42 	 (NP\NP)/NP 	 2 	 competitor from
+51 	 49 	 (NP[nb]/N)\NP 	 1 	 competitor 's
+51 	 50 	 N/N 	 1 	 competitor principal
+51 	 52 	 (NP\NP)/NP 	 1 	 competitor for
+54 	 52 	 (NP\NP)/NP 	 2 	 sales for
+54 	 53 	 N/N 	 1 	 sales mainframe
+<\s>

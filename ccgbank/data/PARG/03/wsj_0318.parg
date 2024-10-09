@@ -1,0 +1,97 @@
+<s id="wsj_0318.1"> 47
+1 	 0 	 N/N 	 1 	 Inc. Lyphomed
+1 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+3 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 Rosemont said
+5 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 Ill. said
+10 	 8 	 N/N 	 1 	 Inc. Medco
+10 	 9 	 N/N 	 1 	 Inc. Research
+10 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+13 	 12 	 N/N 	 1 	 Angeles Los
+13 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 Angeles said
+17 	 16 	 NP[nb]/N 	 1 	 Food the
+17 	 21 	 (S[dcl]\NP)/NP 	 1 	 Food granted
+20 	 16 	 NP[nb]/N 	 1 	 Administration the
+20 	 19 	 N/N 	 1 	 Administration Drug
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 Administration granted
+21 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 granted said
+24 	 21 	 (S[dcl]\NP)/NP 	 2 	 approval granted
+24 	 22 	 N/N 	 1 	 approval full
+24 	 23 	 N/N 	 1 	 approval marketing
+24 	 25 	 (NP\NP)/NP 	 1 	 approval for
+28 	 25 	 (NP\NP)/NP 	 2 	 drug for
+28 	 26 	 NP[nb]/N 	 1 	 drug a
+28 	 27 	 N/N 	 1 	 drug new
+28 	 29 	 (NP\NP)/NP 	 1 	 drug for
+31 	 29 	 (NP\NP)/NP 	 2 	 treatment for
+31 	 30 	 NP[nb]/N 	 1 	 treatment the
+31 	 32 	 (NP\NP)/NP 	 1 	 treatment of
+34 	 32 	 (NP\NP)/NP 	 2 	 condition of
+34 	 33 	 NP[nb]/N 	 1 	 condition a
+34 	 36 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 condition which
+35 	 36 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+38 	 37 	 NP[nb]/N 	 1 	 heart the
+38 	 39 	 (S[dcl]\NP)/NP 	 1 	 heart beats
+39 	 36 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 beats which
+41 	 40 	 (N/N)/(N/N) 	 2 	 150 between
+43 	 40 	 (N/N)/(N/N) 	 2 	 200 between
+44 	 39 	 (S[dcl]\NP)/NP 	 2 	 beats beats
+44 	 41 	 N/N 	 1 	 beats 150 <XU>
+44 	 43 	 N/N 	 1 	 beats 200
+44 	 45 	 (NP\NP)/N 	 1 	 beats a
+46 	 45 	 (NP\NP)/N 	 2 	 minute a
+<\s>
+<s id="wsj_0318.2"> 14
+1 	 0 	 NP[nb]/N 	 1 	 condition The
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 condition known <XB>
+1 	 9 	 (S[dcl]\NP)/PP 	 1 	 condition leads
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 as known
+7 	 4 	 PP/NP 	 1 	 tachycardia as
+7 	 5 	 N/N 	 1 	 tachycardia paroxysmal
+7 	 6 	 N/N 	 1 	 tachycardia supraventricular
+10 	 9 	 (S[dcl]\NP)/PP 	 2 	 to leads
+11 	 10 	 PP/NP 	 1 	 dizziness to
+13 	 10 	 PP/NP 	 1 	 fainting to
+<\s>
+<s id="wsj_0318.3"> 9
+3 	 0 	 NP[nb]/N 	 1 	 heart The
+3 	 1 	 N/N 	 1 	 heart typical
+3 	 2 	 N/N 	 1 	 heart healthy
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 heart beats
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 times beats
+6 	 5 	 N/N 	 1 	 times 70
+6 	 7 	 (NP\NP)/N 	 1 	 times a
+8 	 7 	 (NP\NP)/N 	 2 	 minute a
+<\s>
+<s id="wsj_0318.4"> 19
+1 	 0 	 NP[nb]/N 	 1 	 drug The
+1 	 3 	 (S[pss]\NP)/NP 	 1 	 drug called <XB>
+1 	 6 	 ((S[dcl]\NP)/PP)/NP 	 1 	 drug returns
+4 	 3 	 (S[pss]\NP)/NP 	 2 	 adenocard called
+6 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 returns within
+6 	 16 	 ((S\NP)\(S\NP))/PP 	 2 	 returns according
+8 	 6 	 ((S[dcl]\NP)/PP)/NP 	 3 	 heart returns
+8 	 7 	 NP[nb]/N 	 1 	 heart the
+9 	 6 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to returns
+12 	 9 	 PP/NP 	 1 	 rhythm to
+12 	 10 	 NP[nb]/N 	 1 	 rhythm a
+12 	 11 	 N/N 	 1 	 rhythm normal
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 seconds within
+17 	 16 	 ((S\NP)\(S\NP))/PP 	 3 	 to according
+18 	 17 	 PP/NP 	 1 	 Lyphomed to
+<\s>
+<s id="wsj_0318.5"> 17
+1 	 0 	 N/N 	 1 	 Research Medco
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Research developed
+1 	 6 	 (((S[dcl]\NP)/PP)/PP)/NP 	 1 	 Research licensed <XU>
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 drug developed
+4 	 3 	 NP[nb]/N 	 1 	 drug the
+7 	 6 	 (((S[dcl]\NP)/PP)/PP)/NP 	 4 	 it licensed
+8 	 6 	 (((S[dcl]\NP)/PP)/PP)/NP 	 3 	 to licensed
+9 	 8 	 PP/NP 	 1 	 Lyphomed to
+10 	 6 	 (((S[dcl]\NP)/PP)/PP)/NP 	 2 	 for licensed
+11 	 10 	 PP/NP 	 1 	 sale for
+11 	 12 	 (NP\NP)/NP 	 1 	 sale in
+14 	 12 	 (NP\NP)/NP 	 2 	 U.S. in
+14 	 13 	 NP[nb]/N 	 1 	 U.S. the
+16 	 12 	 (NP\NP)/NP 	 2 	 Canada in
+<\s>

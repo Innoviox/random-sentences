@@ -1,0 +1,84 @@
+<s id="wsj_0086.1"> 27
+1 	 0 	 N/N 	 1 	 Inc. SHAREDATA
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+3 	 5 	 (S[b]\NP)/NP 	 1 	 it amend <XB>
+3 	 17 	 (S[b]\NP)/NP 	 1 	 it delete <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 amend will
+8 	 5 	 (S[b]\NP)/NP 	 2 	 statement amend
+8 	 6 	 NP[nb]/N 	 1 	 statement a
+8 	 7 	 N/N 	 1 	 statement registration
+8 	 9 	 (S[pss]\NP)/PP 	 1 	 statement filed <XB>
+10 	 9 	 (S[pss]\NP)/PP 	 2 	 with filed
+12 	 10 	 PP/NP 	 1 	 Securities with
+12 	 11 	 NP[nb]/N 	 1 	 Securities the
+15 	 10 	 PP/NP 	 1 	 Commission with
+15 	 11 	 NP[nb]/N 	 1 	 Commission the
+15 	 14 	 N/N 	 1 	 Commission Exchange
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 delete to
+19 	 17 	 (S[b]\NP)/NP 	 2 	 plan delete
+19 	 18 	 NP[nb]/N 	 1 	 plan a
+19 	 21 	 (S[b]\NP)/NP 	 1 	 plan sell <XB>
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+24 	 23 	 (N/N)/(N/N) 	 2 	 issued newly
+26 	 21 	 (S[b]\NP)/NP 	 2 	 shares sell
+26 	 22 	 N/N 	 1 	 shares 500,000
+26 	 24 	 N/N 	 1 	 shares issued
+26 	 25 	 N/N 	 1 	 shares common
+<\s>
+<s id="wsj_0086.2"> 29
+3 	 1 	 (N/N)/(N/N) 	 2 	 Ariz. Chandler
+5 	 0 	 NP[nb]/N 	 1 	 company The
+5 	 3 	 N/N 	 1 	 company Ariz.
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+7 	 9 	 (S[b]\NP)/NP 	 1 	 it resubmit <XB>
+8 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 resubmit will
+11 	 9 	 (S[b]\NP)/NP 	 2 	 registration resubmit
+11 	 10 	 NP[nb]/N 	 1 	 registration the
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cover to
+17 	 16 	 (N/N)/(N/N) 	 2 	 million 2.3
+18 	 13 	 (S[b]\NP)/NP 	 2 	 warrants cover
+18 	 14 	 NP/NP 	 1 	 warrants only
+18 	 15 	 NP[nb]/N 	 1 	 warrants the
+18 	 17 	 N/N 	 1 	 warrants million
+20 	 13 	 (S[b]\NP)/NP 	 2 	 each cover
+20 	 21 	 S[adj]\NP 	 1 	 each exercisable <XB>
+21 	 22 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 exercisable for
+24 	 22 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 purchase for
+24 	 23 	 NP[nb]/N 	 1 	 purchase the
+24 	 25 	 (NP\NP)/NP 	 1 	 purchase of
+28 	 25 	 (NP\NP)/NP 	 2 	 share of
+28 	 26 	 N/N 	 1 	 share one
+28 	 27 	 N/N 	 1 	 share common
+<\s>
+<s id="wsj_0086.3"> 10
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 ShareData has
+3 	 0 	 S/S 	 1 	 has Currently
+6 	 4 	 (N/N)/(N/N) 	 2 	 million about
+6 	 5 	 (N/N)/(N/N) 	 2 	 million 4.1
+8 	 3 	 (S[dcl]\NP)/NP 	 2 	 shares has
+8 	 6 	 N/N 	 1 	 shares million
+8 	 7 	 N/N 	 1 	 shares common
+8 	 9 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>
+<s id="wsj_0086.4"> 13
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 ShareData develops
+0 	 3 	 (S[dcl]\NP)/NP 	 1 	 ShareData markets <XU>
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 software develops <XU>
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 software markets
+5 	 4 	 N/N 	 1 	 software low-cost
+5 	 11 	 (NP\NP)/NP 	 1 	 software for
+8 	 1 	 (S[dcl]\NP)/NP 	 2 	 equipment develops <XU>
+8 	 3 	 (S[dcl]\NP)/NP 	 2 	 equipment markets
+8 	 4 	 N/N 	 1 	 equipment low-cost
+8 	 7 	 N/N 	 1 	 equipment peripheral
+8 	 11 	 (NP\NP)/NP 	 1 	 equipment for
+10 	 1 	 (S[dcl]\NP)/NP 	 2 	 accessories develops <XU>
+10 	 3 	 (S[dcl]\NP)/NP 	 2 	 accessories markets
+10 	 4 	 N/N 	 1 	 accessories low-cost
+10 	 11 	 (NP\NP)/NP 	 1 	 accessories for
+12 	 11 	 (NP\NP)/NP 	 2 	 computers for
+<\s>

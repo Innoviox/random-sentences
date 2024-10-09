@@ -1,0 +1,135 @@
+<s id="wsj_1539.1"> 20
+3 	 0 	 N/N 	 1 	 Inc. SciMed
+3 	 1 	 N/N 	 1 	 Inc. Life
+3 	 2 	 N/N 	 1 	 Inc. Systems
+3 	 5 	 NP\NP 	 1 	 Inc. Minneapolis
+3 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+11 	 8 	 NP[nb]/N 	 1 	 court a
+11 	 9 	 N/N 	 1 	 court federal
+11 	 10 	 N/N 	 1 	 court appeals
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 court vacated
+12 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 vacated said
+16 	 12 	 (S[dcl]\NP)/NP 	 2 	 judgment vacated
+16 	 13 	 NP[nb]/N 	 1 	 judgment an
+16 	 14 	 N/N 	 1 	 judgment earlier
+16 	 15 	 N/N 	 1 	 judgment summary
+16 	 17 	 (NP\NP)/NP 	 1 	 judgment in
+19 	 17 	 (NP\NP)/NP 	 2 	 favor in
+19 	 18 	 NP[nb]/N 	 1 	 favor its
+<\s>
+<s id="wsj_1539.2"> 36
+2 	 0 	 NP[nb]/N 	 1 	 court A
+2 	 1 	 N/N 	 1 	 court lower
+2 	 3 	 (NP\NP)/NP 	 1 	 court in
+2 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 court had
+2 	 7 	 (S[pt]\NP)/S[em] 	 1 	 court ruled <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 Paul in
+5 	 4 	 N/N 	 1 	 Paul St.
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 ruled had
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 ruled in
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+9 	 10 	 N\N 	 1 	 September 1988
+11 	 7 	 (S[pt]\NP)/S[em] 	 2 	 that ruled
+14 	 12 	 NP[nb]/N 	 1 	 catheter a
+14 	 13 	 N/N 	 1 	 catheter heart
+14 	 16 	 (S[dcl]\NP)/NP 	 2 	 catheter manufactures <XU>
+14 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 catheter does
+14 	 19 	 (S[b]\NP)/PP 	 1 	 catheter infringe <XB>
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 SciMed manufactures
+17 	 11 	 S[em]/S[dcl] 	 1 	 does that
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 does n't
+19 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 infringe does
+20 	 19 	 (S[b]\NP)/PP 	 2 	 on infringe
+22 	 20 	 PP/NP 	 1 	 patent on
+22 	 21 	 NP[nb]/N 	 1 	 patent a
+22 	 23 	 S[pss]\NP 	 1 	 patent owned <XB>
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 owned by
+27 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Systems by
+27 	 25 	 N/N 	 1 	 Systems Advanced
+27 	 26 	 N/N 	 1 	 Systems Cardiovascular
+30 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 unit by
+30 	 29 	 NP[nb]/N 	 1 	 unit a
+30 	 31 	 (NP\NP)/NP 	 1 	 unit of
+35 	 31 	 (NP\NP)/NP 	 2 	 Co of
+35 	 32 	 N/N 	 1 	 Co Eli
+35 	 33 	 N/N 	 1 	 Co Lilly
+35 	 34 	 N/N 	 1 	 Co &
+<\s>
+<s id="wsj_1539.3"> 16
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 SciMed said
+4 	 2 	 NP[nb]/N 	 1 	 court the
+4 	 3 	 N/N 	 1 	 court appeals
+4 	 5 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 court remanded
+5 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 remanded said
+5 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 remanded for
+7 	 5 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 case remanded
+7 	 6 	 NP[nb]/N 	 1 	 case the
+7 	 8 	 (S[adj]\NP)/PP 	 1 	 case back <XB>
+8 	 5 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 back remanded
+9 	 8 	 (S[adj]\NP)/PP 	 2 	 to back
+12 	 9 	 PP/NP 	 1 	 court to
+12 	 10 	 NP[nb]/N 	 1 	 court the
+12 	 11 	 N/N 	 1 	 court district
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 proceedings for
+15 	 14 	 N/N 	 1 	 proceedings further
+<\s>
+<s id="wsj_1539.4"> 14
+3 	 0 	 (S/S)/NP 	 2 	 trading In
+3 	 1 	 N/N 	 1 	 trading national
+3 	 2 	 N/N 	 1 	 trading over-the-counter
+7 	 6 	 N/N 	 1 	 shares SciMed
+7 	 8 	 S[dcl]\NP 	 1 	 shares tumbled
+8 	 0 	 (S/S)/NP 	 1 	 tumbled In
+8 	 4 	 S/S 	 1 	 tumbled Friday
+8 	 9 	 ((S\NP)\(S\NP))/N[num] 	 2 	 tumbled $
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 tumbled to
+10 	 9 	 ((S\NP)\(S\NP))/N[num] 	 3 	 2.75 $
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+13 	 12 	 N/N[num] 	 1 	 43 $
+<\s>
+<s id="wsj_1539.5"> 45
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 SciMed said
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it remains
+2 	 4 	 (S[adj]\NP)/PP 	 1 	 it committed <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 remains said
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 committed remains
+6 	 4 	 (S[adj]\NP)/PP 	 2 	 to committed
+6 	 5 	 PP/PP 	 1 	 to both
+9 	 6 	 PP/NP 	 1 	 defense to
+9 	 7 	 NP[nb]/N 	 1 	 defense the
+9 	 8 	 N/N 	 1 	 defense vigorous
+9 	 10 	 (NP\NP)/NP 	 1 	 defense of
+12 	 10 	 (NP\NP)/NP 	 2 	 position of
+12 	 11 	 NP[nb]/N 	 1 	 position its
+13 	 12 	 N/S[em] 	 1 	 that position
+15 	 14 	 NP[nb]/N 	 1 	 catheter the
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 catheter does
+15 	 18 	 (S[b]\NP)/NP 	 1 	 catheter infringe <XB>
+16 	 13 	 S[em]/S[dcl] 	 1 	 does that
+16 	 17 	 (S\NP)\(S\NP) 	 2 	 does n't
+18 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 infringe does
+21 	 19 	 NP[nb]/N 	 1 	 unit the
+21 	 20 	 N/N 	 1 	 unit Lilly
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 unit 's
+23 	 18 	 (S[b]\NP)/NP 	 2 	 patent infringe
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 patent 's
+26 	 4 	 (S[adj]\NP)/PP 	 2 	 to committed
+26 	 5 	 PP/PP 	 1 	 to both
+28 	 26 	 PP/NP 	 1 	 pursuit to
+28 	 27 	 NP[nb]/N 	 1 	 pursuit the
+28 	 29 	 (NP\NP)/NP 	 1 	 pursuit of
+32 	 29 	 (NP\NP)/NP 	 2 	 counterclaims of
+32 	 30 	 NP[nb]/N 	 1 	 counterclaims its
+32 	 31 	 N/N 	 1 	 counterclaims own
+32 	 34 	 (NP\NP)/(S[dcl]\NP) 	 1 	 counterclaims which
+32 	 35 	 (S[dcl]\NP)/S[dcl] 	 1 	 counterclaims allege <XB>
+35 	 34 	 (NP\NP)/(S[dcl]\NP) 	 2 	 allege which
+36 	 37 	 (S[dcl]\NP)/PP 	 1 	 Lilly engaged
+37 	 35 	 (S[dcl]\NP)/S[dcl] 	 2 	 engaged allege
+38 	 37 	 (S[dcl]\NP)/PP 	 2 	 in engaged
+40 	 38 	 PP/NP 	 1 	 violations in
+40 	 39 	 N/N 	 1 	 violations antitrust
+44 	 38 	 PP/NP 	 1 	 acts in
+44 	 42 	 N/N 	 1 	 acts other
+44 	 43 	 N/N 	 1 	 acts wrongful
+<\s>

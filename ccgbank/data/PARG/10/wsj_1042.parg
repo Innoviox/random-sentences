@@ -1,0 +1,132 @@
+<s id="wsj_1042.1"> 20
+4 	 0 	 N/N 	 1 	 Corp. AVON
+4 	 1 	 N/N 	 1 	 Corp. RENT-A-CAR
+4 	 2 	 N/N 	 1 	 Corp. &
+4 	 3 	 N/N 	 1 	 Corp. TRUCK
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 it declared
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 declared said
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 dividend declared
+9 	 8 	 NP[nb]/N 	 1 	 dividend a
+9 	 10 	 (NP\NP)/NP 	 1 	 dividend of
+12 	 10 	 (NP\NP)/NP 	 2 	 warrant of
+12 	 11 	 N/N 	 1 	 warrant one
+12 	 13 	 (NP\NP)/NP 	 1 	 warrant for
+16 	 13 	 (NP\NP)/NP 	 2 	 shares for
+16 	 14 	 NP[nb]/N 	 1 	 shares each
+16 	 15 	 N/N 	 1 	 shares three
+16 	 17 	 (NP\NP)/NP 	 1 	 shares of
+19 	 17 	 (NP\NP)/NP 	 2 	 stock of
+19 	 18 	 N/N 	 1 	 stock common
+<\s>
+<s id="wsj_1042.2"> 17
+2 	 4 	 S[pss]\NP 	 1 	 Avon based <XB>
+2 	 11 	 (S[dcl]\NP)/NP 	 1 	 Avon has
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Monica in
+7 	 6 	 N/N 	 1 	 Monica Santa
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Calif. in
+11 	 0 	 S/S 	 1 	 has Currently
+13 	 12 	 (N/N)/(N/N) 	 2 	 million 3.3
+15 	 11 	 (S[dcl]\NP)/NP 	 2 	 shares has
+15 	 13 	 N/N 	 1 	 shares million
+15 	 14 	 N/N 	 1 	 shares common
+15 	 16 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+<\s>
+<s id="wsj_1042.3"> 12
+2 	 0 	 (N/N)/(N/N) 	 2 	 million About
+2 	 1 	 (N/N)/(N/N) 	 2 	 million 1.1
+5 	 2 	 N/N 	 1 	 warrants million
+5 	 3 	 N/N 	 1 	 warrants Class
+5 	 4 	 N/N 	 1 	 warrants C
+5 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 warrants were
+5 	 7 	 S[pss]\NP 	 1 	 warrants issued <XB>
+6 	 11 	 (S[dcl]\S[dcl])\NP 	 1 	 were said
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 issued were
+10 	 9 	 NP[nb]/N 	 1 	 company the
+10 	 11 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>
+<s id="wsj_1042.4"> 20
+0 	 1 	 (NP\NP)/NP 	 1 	 Each of
+0 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Each will
+0 	 7 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 Each enable <XB>
+5 	 1 	 (NP\NP)/NP 	 2 	 warrants of
+5 	 2 	 NP[nb]/N 	 1 	 warrants the
+5 	 3 	 N/N 	 1 	 warrants Class
+5 	 4 	 N/N 	 1 	 warrants C
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 enable will
+9 	 7 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 holders enable
+9 	 8 	 NP[nb]/N 	 1 	 holders the
+9 	 11 	 ((S[b]\NP)/PP)/NP 	 1 	 holders purchase <XB>
+10 	 7 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to enable
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 purchase to
+13 	 11 	 ((S[b]\NP)/PP)/NP 	 3 	 share purchase
+13 	 12 	 N/N 	 1 	 share one
+13 	 14 	 (NP\NP)/NP 	 1 	 share of
+16 	 14 	 (NP\NP)/NP 	 2 	 stock of
+16 	 15 	 N/N 	 1 	 stock common
+17 	 11 	 ((S[b]\NP)/PP)/NP 	 2 	 at purchase
+18 	 17 	 PP/NP 	 1 	 $ at
+19 	 18 	 N/N[num] 	 1 	 5.50 $
+<\s>
+<s id="wsj_1042.5"> 12
+1 	 0 	 NP[nb]/N 	 1 	 warrants The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 warrants may
+1 	 4 	 S[pss]\NP 	 1 	 warrants exercised <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 exercised be
+4 	 5 	 ((S\NP)\(S\NP))/PP 	 2 	 exercised until
+7 	 6 	 N/N 	 1 	 days 90
+7 	 8 	 (PP\NP)/NP 	 1 	 days after
+8 	 5 	 ((S\NP)\(S\NP))/PP 	 3 	 after until
+11 	 8 	 (PP\NP)/NP 	 2 	 date after
+11 	 9 	 NP[nb]/N 	 1 	 date their
+11 	 10 	 N/N 	 1 	 date issue
+<\s>
+<s id="wsj_1042.6"> 26
+0 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Avon said
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 said also
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+3 	 5 	 ((S[b]\NP)/PP)/NP 	 1 	 it issue <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 issue will
+8 	 5 	 ((S[b]\NP)/PP)/NP 	 3 	 243,677 issue
+8 	 6 	 NP[nb]/N 	 1 	 243,677 an
+8 	 7 	 N/N 	 1 	 243,677 additional
+8 	 9 	 (NP\NP)/NP 	 1 	 243,677 of
+13 	 9 	 (NP\NP)/NP 	 2 	 warrants of
+13 	 10 	 NP[nb]/N 	 1 	 warrants the
+13 	 11 	 N/N 	 1 	 warrants Class
+13 	 12 	 N/N 	 1 	 warrants C
+14 	 5 	 ((S[b]\NP)/PP)/NP 	 2 	 to issue
+15 	 14 	 PP/NP 	 1 	 holders to
+15 	 16 	 (NP\NP)/NP 	 1 	 holders of
+22 	 18 	 (N/N)/(N/N) 	 2 	 B Class
+22 	 19 	 (N/N)/(N/N) 	 2 	 B A
+22 	 21 	 (N/N)/(N/N) 	 2 	 B Class
+24 	 18 	 (N/N)/(N/N) 	 2 	 unclassified Class
+24 	 19 	 (N/N)/(N/N) 	 2 	 unclassified A
+24 	 21 	 (N/N)/(N/N) 	 2 	 unclassified Class
+25 	 16 	 (NP\NP)/NP 	 2 	 warrants of
+25 	 17 	 NP[nb]/N 	 1 	 warrants its
+25 	 22 	 N/N 	 1 	 warrants B <XU>
+25 	 24 	 N/N 	 1 	 warrants unclassified
+<\s>
+<s id="wsj_1042.7"> 16
+0 	 1 	 (NP\NP)/NP 	 1 	 Issuance of
+0 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Issuance will
+0 	 5 	 (S[b]\NP)/PP 	 1 	 Issuance be <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 warrants of
+3 	 2 	 NP[nb]/N 	 1 	 warrants those
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+6 	 5 	 (S[b]\NP)/PP 	 2 	 at be
+8 	 6 	 PP/NP 	 1 	 rate at
+8 	 7 	 NP[nb]/N 	 1 	 rate the
+8 	 9 	 (NP\NP)/NP 	 1 	 rate of
+11 	 9 	 (NP\NP)/NP 	 2 	 warrant of
+11 	 10 	 N/N 	 1 	 warrant one-third
+11 	 12 	 (NP\NP)/NP 	 1 	 warrant for
+14 	 12 	 (NP\NP)/NP 	 2 	 warrant for
+14 	 13 	 NP[nb]/N 	 1 	 warrant each
+14 	 15 	 S[pss]\NP 	 1 	 warrant exercised <XB>
+<\s>

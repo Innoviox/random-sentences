@@ -1,0 +1,180 @@
+<s id="wsj_0325.1"> 16
+3 	 0 	 N/N 	 1 	 Inc. Coast
+3 	 1 	 N/N 	 1 	 Inc. Savings
+3 	 2 	 N/N 	 1 	 Inc. Financial
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Inc. reported
+3 	 9 	 (S[ng]\NP)/NP 	 1 	 Inc. citing <XB>
+7 	 4 	 (S[dcl]\NP)/NP 	 2 	 loss reported
+7 	 5 	 NP[nb]/N 	 1 	 loss a
+7 	 6 	 N/N 	 1 	 loss third-quarter
+12 	 11 	 (N/N)/(N/N) 	 2 	 announced previously
+15 	 9 	 (S[ng]\NP)/NP 	 2 	 program citing
+15 	 10 	 NP[nb]/N 	 1 	 program a
+15 	 12 	 N/N 	 1 	 program announced
+15 	 13 	 N/N 	 1 	 program capital
+15 	 14 	 N/N 	 1 	 program restructuring
+<\s>
+<s id="wsj_0325.2"> 28
+5 	 0 	 NP[nb]/N 	 1 	 company The
+5 	 1 	 N/N 	 1 	 company Los
+5 	 2 	 N/N 	 1 	 company Angeles
+5 	 3 	 N/N 	 1 	 company thrift
+5 	 4 	 N/N 	 1 	 company holding
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 it had
+8 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+8 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 had for
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 loss had
+10 	 9 	 NP[nb]/N 	 1 	 loss a
+10 	 11 	 (NP\NP)/NP 	 1 	 loss of
+12 	 11 	 (NP\NP)/NP 	 2 	 $ of
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 92.2
+17 	 11 	 (NP\NP)/NP 	 2 	 $ of
+17 	 19 	 (NP\NP)/N 	 1 	 $ a
+18 	 17 	 N/N[num] 	 1 	 6.98 $
+20 	 19 	 (NP\NP)/N 	 2 	 share a
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter for
+24 	 23 	 NP[nb]/N 	 1 	 quarter the
+24 	 25 	 S[pss]\NP 	 1 	 quarter ended <XB>
+25 	 26 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ended Sept.
+27 	 26 	 ((S\NP)\(S\NP))/N[num] 	 3 	 30 Sept.
+<\s>
+<s id="wsj_0325.3"> 16
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Coast earned
+1 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 earned in
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+4 	 2 	 N/N[num] 	 1 	 million $
+4 	 3 	 N/N 	 1 	 million 10.2
+8 	 1 	 (S[dcl]\NP)/NP 	 2 	 cents earned
+8 	 7 	 N/N 	 1 	 cents 67
+8 	 9 	 (NP\NP)/N 	 1 	 cents a
+10 	 9 	 (NP\NP)/N 	 2 	 share a
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+15 	 13 	 NP[nb]/N 	 1 	 quarter the
+15 	 14 	 N/N 	 1 	 quarter year-ago
+<\s>
+<s id="wsj_0325.4"> 11
+2 	 0 	 NP[nb]/N 	 1 	 results The
+2 	 1 	 N/N 	 1 	 results year-ago
+2 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 results restated <XB>
+2 	 7 	 (S[b]\NP)/PP 	 1 	 results comply <XB>
+4 	 3 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 been have
+5 	 4 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 restated been
+6 	 5 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to restated
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comply to
+8 	 7 	 (S[b]\NP)/PP 	 2 	 with comply
+10 	 8 	 PP/NP 	 1 	 regulations with
+10 	 9 	 N/N 	 1 	 regulations government
+<\s>
+<s id="wsj_0325.5"> 13
+2 	 0 	 NP[nb]/N 	 1 	 program The
+2 	 1 	 N/N 	 1 	 program restructuring
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 program is
+2 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 program designed <XB>
+2 	 6 	 (S[b]\NP)/NP 	 1 	 program increase <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 designed is
+5 	 4 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to designed
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 increase to
+8 	 7 	 NP[nb]/N 	 1 	 company the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 company 's
+12 	 6 	 (S[b]\NP)/NP 	 2 	 ratio increase
+12 	 9 	 (NP[nb]/N)\NP 	 1 	 ratio 's
+12 	 10 	 N/N 	 1 	 ratio tangible
+12 	 11 	 N/N 	 1 	 ratio capital
+<\s>
+<s id="wsj_0325.6"> 32
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 It includes
+0 	 2 	 ((S[ng]\NP)/PP)/NP 	 1 	 It removing <XB>
+0 	 13 	 (S[ng]\NP)/NP 	 1 	 It issuing <XU>
+0 	 21 	 (S[ng]\NP)/NP 	 1 	 It commencing <XU>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 removing includes
+3 	 2 	 ((S[ng]\NP)/PP)/NP 	 3 	 $ removing
+3 	 6 	 (NP\NP)/NP 	 1 	 $ in
+5 	 3 	 N/N[num] 	 1 	 million $
+5 	 4 	 N/N 	 1 	 million 242
+8 	 6 	 (NP\NP)/NP 	 2 	 will in
+8 	 7 	 N/N 	 1 	 will good
+9 	 2 	 ((S[ng]\NP)/PP)/NP 	 2 	 from removing
+11 	 9 	 PP/NP 	 1 	 books from
+11 	 10 	 NP[nb]/N 	 1 	 books the
+13 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 issuing includes
+14 	 13 	 (S[ng]\NP)/NP 	 2 	 $ issuing
+14 	 17 	 (NP\NP)/NP 	 1 	 $ in
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 150
+19 	 17 	 (NP\NP)/NP 	 2 	 stock in
+19 	 18 	 N/N 	 1 	 stock preferred
+21 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 commencing includes
+24 	 21 	 (S[ng]\NP)/NP 	 2 	 offer commencing
+24 	 22 	 NP[nb]/N 	 1 	 offer an
+24 	 23 	 N/N 	 1 	 offer exchange
+24 	 25 	 (NP\NP)/NP 	 1 	 offer for
+26 	 25 	 (NP\NP)/NP 	 2 	 $ for
+26 	 29 	 (NP\NP)/NP 	 1 	 $ in
+28 	 26 	 N/N[num] 	 1 	 million $
+28 	 27 	 N/N 	 1 	 million 52
+31 	 29 	 (NP\NP)/NP 	 2 	 bonds in
+31 	 30 	 N/N 	 1 	 bonds convertible
+<\s>
+<s id="wsj_0325.7"> 40
+3 	 0 	 (S/S)/NP 	 2 	 quarter During
+3 	 1 	 NP[nb]/N 	 1 	 quarter the
+3 	 2 	 N/N 	 1 	 quarter third
+6 	 5 	 NP[nb]/N 	 1 	 company the
+6 	 7 	 (((S[pt]\NP)/PP)/PP)/NP 	 1 	 company charged
+6 	 18 	 ((S[pt]\NP)/PP)/NP 	 1 	 company added <XU>
+6 	 29 	 ((S[pt]\NP)/PP)/NP 	 1 	 company established <XU>
+7 	 0 	 (S/S)/NP 	 1 	 charged During
+9 	 7 	 (((S[pt]\NP)/PP)/PP)/NP 	 4 	 $ charged
+9 	 8 	 N/N 	 1 	 $ about
+11 	 9 	 N/N[num] 	 1 	 million $
+11 	 10 	 N/N 	 1 	 million 46
+12 	 7 	 (((S[pt]\NP)/PP)/PP)/NP 	 3 	 against charged
+13 	 12 	 PP/NP 	 1 	 earnings against
+14 	 7 	 (((S[pt]\NP)/PP)/PP)/NP 	 2 	 in charged
+15 	 14 	 PP/(S[ng]\NP) 	 1 	 reducing in
+16 	 15 	 (S[ng]\NP)/NP 	 2 	 goodwill reducing
+18 	 0 	 (S/S)/NP 	 1 	 added During
+19 	 18 	 ((S[pt]\NP)/PP)/NP 	 3 	 $ added
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 20
+22 	 18 	 ((S[pt]\NP)/PP)/NP 	 2 	 to added
+27 	 22 	 PP/NP 	 1 	 reserves to
+27 	 23 	 NP[nb]/N 	 1 	 reserves its
+27 	 24 	 N/N 	 1 	 reserves general
+27 	 25 	 N/N 	 1 	 reserves loan
+27 	 26 	 N/N 	 1 	 reserves loss
+29 	 0 	 (S/S)/NP 	 1 	 established During
+33 	 31 	 (N/N)/N[num] 	 2 	 million $
+33 	 32 	 N/N 	 1 	 million 30
+34 	 29 	 ((S[pt]\NP)/PP)/NP 	 3 	 reserve established
+34 	 30 	 NP[nb]/N 	 1 	 reserve a
+34 	 31 	 (N/N)/N[num] 	 1 	 reserve $
+35 	 29 	 ((S[pt]\NP)/PP)/NP 	 2 	 for established
+39 	 35 	 PP/NP 	 1 	 portfolio for
+39 	 36 	 NP[nb]/N 	 1 	 portfolio its
+39 	 37 	 N/N 	 1 	 portfolio high-yield
+39 	 38 	 N/N 	 1 	 portfolio bond
+<\s>
+<s id="wsj_0325.8"> 19
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+5 	 3 	 NP[nb]/N 	 1 	 portfolio its
+5 	 4 	 N/N 	 1 	 portfolio junk-bond
+5 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 portfolio had
+5 	 11 	 (S[pss]\NP)/PP 	 1 	 portfolio reduced <XB>
+8 	 6 	 ((S\NP)/(S\NP))/NP 	 3 	 moves after
+8 	 7 	 NP[nb]/N 	 1 	 moves these
+9 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+9 	 6 	 ((S\NP)/(S\NP))/NP 	 2 	 had after
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+11 	 10 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 reduced been
+12 	 11 	 (S[pss]\NP)/PP 	 2 	 to reduced
+13 	 14 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 less than
+15 	 14 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 1 than
+16 	 12 	 PP/NP 	 1 	 % to
+16 	 15 	 N/N 	 1 	 % 1
+16 	 17 	 (NP\NP)/NP 	 1 	 % of
+18 	 17 	 (NP\NP)/NP 	 2 	 assets of
+<\s>

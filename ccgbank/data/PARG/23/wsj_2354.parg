@@ -1,0 +1,475 @@
+<s id="wsj_2354.1"> 10
+1 	 0 	 ((S[b]\NP)/NP)/NP 	 3 	 it Call
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 we 're
+3 	 5 	 ((S[adj]\NP)/(S[to]\NP))/(S[adj]\NP) 	 1 	 we too <XB>
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 too 're
+6 	 5 	 ((S[adj]\NP)/(S[to]\NP))/(S[adj]\NP) 	 3 	 broke too
+7 	 5 	 ((S[adj]\NP)/(S[to]\NP))/(S[adj]\NP) 	 2 	 to too
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 fight to
+9 	 0 	 ((S[b]\NP)/NP)/NP 	 2 	 defense Call
+9 	 2 	 NP[nb]/N 	 1 	 defense the
+<\s>
+<s id="wsj_2354.2"> 27
+0 	 1 	 (NP\NP)/NP 	 1 	 Lawyers for
+0 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Lawyers are
+0 	 10 	 (S[ng]\NP)/NP 	 1 	 Lawyers trying <XB>
+2 	 1 	 (NP\NP)/NP 	 2 	 dozens for
+2 	 3 	 (NP\NP)/NP 	 1 	 dozens of
+8 	 3 	 (NP\NP)/NP 	 2 	 associations of
+8 	 4 	 N/N 	 1 	 associations insolvent
+8 	 5 	 N/N 	 1 	 associations savings
+8 	 7 	 N/N 	 1 	 associations loan
+10 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trying are
+10 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 trying in
+13 	 10 	 (S[ng]\NP)/NP 	 2 	 tack trying
+13 	 11 	 NP[nb]/N 	 1 	 tack a
+13 	 12 	 N/N 	 1 	 tack new
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 efforts in
+16 	 15 	 NP[nb]/N 	 1 	 efforts their
+16 	 18 	 (S[b]\NP)/NP 	 1 	 efforts defuse <XB>
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 defuse to
+19 	 18 	 (S[b]\NP)/NP 	 2 	 suits defuse
+19 	 20 	 S[pss]\NP 	 1 	 suits filed <XB>
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 filed by
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 borrowers by
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 developers by
+26 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 creditors by
+<\s>
+<s id="wsj_2354.3"> 41
+1 	 0 	 NP[nb]/N 	 1 	 thrifts The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 thrifts '
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 lawyers '
+3 	 4 	 (S[dcl]\NP)/S[em] 	 1 	 lawyers claim
+5 	 4 	 (S[dcl]\NP)/S[em] 	 2 	 that claim
+7 	 6 	 NP[nb]/N 	 1 	 suits the
+7 	 9 	 (S[ng]\NP)/NP 	 1 	 suits numbering <XB>
+7 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 suits should
+7 	 19 	 (S[pss]\NP)/PP 	 1 	 suits dismissed <XB>
+9 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 numbering in
+12 	 9 	 (S[ng]\NP)/NP 	 2 	 1,000 numbering
+12 	 10 	 N/N 	 1 	 1,000 700
+12 	 11 	 N/N 	 1 	 1,000 to
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 Texas in
+14 	 15 	 NP\NP 	 1 	 Texas alone
+17 	 5 	 S[em]/S[dcl] 	 1 	 should that
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be should
+19 	 18 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 dismissed be
+19 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 dismissed because
+20 	 19 	 (S[pss]\NP)/PP 	 2 	 as dismissed
+21 	 20 	 PP/(S[adj]\NP) 	 1 	 moot as
+25 	 23 	 NP/NP 	 1 	 S&Ls neither
+25 	 24 	 NP[nb]/N 	 1 	 S&Ls the
+25 	 35 	 (S[dcl]\NP)/NP 	 1 	 S&Ls has
+30 	 23 	 NP/NP 	 1 	 Savings neither
+30 	 27 	 NP[nb]/N 	 1 	 Savings the
+30 	 28 	 N/N 	 1 	 Savings extinct
+30 	 29 	 N/N 	 1 	 Savings Federal
+30 	 35 	 (S[dcl]\NP)/NP 	 1 	 Savings has
+34 	 23 	 NP/NP 	 1 	 Corp. neither
+34 	 27 	 NP[nb]/N 	 1 	 Corp. the
+34 	 28 	 N/N 	 1 	 Corp. extinct
+34 	 29 	 N/N 	 1 	 Corp. Federal
+34 	 32 	 N/N 	 1 	 Corp. Loan
+34 	 33 	 N/N 	 1 	 Corp. Insurance
+34 	 35 	 (S[dcl]\NP)/NP 	 1 	 Corp. has
+35 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has because
+37 	 35 	 (S[dcl]\NP)/NP 	 2 	 money has
+37 	 36 	 NP[nb]/N 	 1 	 money the
+39 	 38 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+40 	 39 	 (S[b]\NP)/NP 	 2 	 judgments pay
+<\s>
+<s id="wsj_2354.4"> 24
+2 	 1 	 NP[nb]/N 	 1 	 argument the
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 argument may
+2 	 4 	 ((S[b]\NP)/PP)/NP 	 1 	 argument have <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 may Though
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have may
+7 	 4 	 ((S[b]\NP)/PP)/NP 	 3 	 ring have
+7 	 5 	 NP[nb]/N 	 1 	 ring a
+7 	 6 	 N/N 	 1 	 ring common-sense
+8 	 4 	 ((S[b]\NP)/PP)/NP 	 2 	 to have
+9 	 8 	 PP/NP 	 1 	 it to
+14 	 11 	 NP/NP 	 1 	 lawyers even
+14 	 12 	 NP[nb]/N 	 1 	 lawyers the
+14 	 13 	 N/N 	 1 	 lawyers S&L
+14 	 15 	 (S[b]\NP)/S[dcl] 	 1 	 lawyers concede
+15 	 0 	 (S/S)/S[dcl] 	 1 	 concede Though
+16 	 17 	 (S[dcl]\NP[thr])/NP 	 1 	 there 's
+17 	 15 	 (S[b]\NP)/S[dcl] 	 2 	 's concede
+19 	 17 	 (S[dcl]\NP[thr])/NP 	 2 	 precedent 's
+19 	 18 	 N/N 	 1 	 precedent little
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 back to
+23 	 21 	 (S[b]\NP)/NP 	 2 	 position back
+23 	 22 	 NP[nb]/N 	 1 	 position their
+<\s>
+<s id="wsj_2354.5"> 37
+5 	 2 	 N/N 	 1 	 court one
+5 	 3 	 N/N 	 1 	 court federal
+5 	 4 	 N/N 	 1 	 court appeals
+5 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 court has
+5 	 7 	 (S[pt]\NP)/S[dcl] 	 1 	 court signaled <XB>
+6 	 0 	 S/S 	 1 	 has Still
+7 	 6 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 signaled has
+8 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it 's
+8 	 10 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 it willing <XB>
+9 	 7 	 (S[pt]\NP)/S[dcl] 	 2 	 's signaled
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 willing 's
+11 	 10 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to willing
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 entertain to
+14 	 12 	 (S[b]\NP)/NP 	 2 	 notion entertain
+14 	 13 	 NP[nb]/N 	 1 	 notion the
+18 	 17 	 NP[nb]/N 	 1 	 lawyers the
+18 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 lawyers have
+18 	 20 	 (S[pt]\NP)/NP 	 1 	 lawyers renewed <XB>
+19 	 0 	 S/S 	 1 	 have Still
+20 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 renewed have
+20 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 renewed in
+22 	 20 	 (S[pt]\NP)/NP 	 2 	 arguments renewed
+22 	 21 	 NP[nb]/N 	 1 	 arguments their
+24 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 Texas in
+24 	 29 	 (NP\NP)/S[dcl] 	 1 	 Texas where
+28 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 states in
+28 	 26 	 N/N 	 1 	 states eight
+28 	 27 	 N/N 	 1 	 states other
+28 	 29 	 (NP\NP)/S[dcl] 	 1 	 states where
+31 	 30 	 NP[nb]/N 	 1 	 defense the
+31 	 32 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 defense is
+31 	 33 	 S[pss]\NP 	 1 	 defense permitted <XB>
+32 	 29 	 (NP\NP)/S[dcl] 	 2 	 is where
+33 	 32 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 permitted is
+33 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 permitted under
+36 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 law under
+36 	 35 	 N/N 	 1 	 law state
+<\s>
+<s id="wsj_2354.6"> 33
+1 	 0 	 NP[nb]/N 	 1 	 dismissal The
+1 	 2 	 (NP\NP)/NP 	 1 	 dismissal of
+1 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 dismissal could
+1 	 7 	 (S[b]\NP)/NP 	 1 	 dismissal go <XB>
+1 	 12 	 (S[ng]\NP)/NP 	 1 	 dismissal clearing <XB>
+1 	 18 	 (S[ng]\NP)/NP 	 1 	 dismissal reducing <XU>
+5 	 2 	 (NP\NP)/NP 	 2 	 suits of
+5 	 3 	 NP[nb]/N 	 1 	 suits the
+5 	 4 	 N/N 	 1 	 suits pending
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go could
+7 	 11 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 go toward
+10 	 7 	 (S[b]\NP)/NP 	 2 	 way go
+10 	 8 	 NP[nb]/N 	 1 	 way a
+10 	 9 	 N/N 	 1 	 way long
+12 	 11 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 clearing toward
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 dockets clearing
+14 	 13 	 N/N 	 1 	 dockets court
+14 	 15 	 (NP\NP)/NP 	 1 	 dockets in
+16 	 15 	 (NP\NP)/NP 	 2 	 Texas in
+18 	 11 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 reducing toward
+20 	 19 	 NP[nb]/N 	 1 	 FSLIC the
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 FSLIC 's
+24 	 18 	 (S[ng]\NP)/NP 	 2 	 bills reducing
+24 	 21 	 (NP[nb]/N)\NP 	 1 	 bills 's
+24 	 22 	 N/N 	 1 	 bills massive
+24 	 23 	 N/N 	 1 	 bills legal
+24 	 26 	 (NP\NP)/(S[dcl]\NP) 	 1 	 bills which
+24 	 27 	 (S[dcl]\NP)/NP 	 1 	 bills topped <XB>
+27 	 26 	 (NP\NP)/(S[dcl]\NP) 	 2 	 topped which
+27 	 32 	 (S\NP)\(S\NP) 	 2 	 topped year
+28 	 27 	 (S[dcl]\NP)/NP 	 2 	 $ topped
+30 	 28 	 N/N[num] 	 1 	 million $
+30 	 29 	 N/N 	 1 	 million 73
+32 	 31 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year last
+<\s>
+<s id="wsj_2354.7"> 44
+2 	 0 	 NP[nb]/N 	 1 	 lawyers The
+2 	 1 	 N/N 	 1 	 lawyers S&L
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 lawyers were
+2 	 4 	 S[pss]\NP 	 1 	 lawyers encouraged <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 encouraged were
+4 	 6 	 (S\NP)\(S\NP) 	 2 	 encouraged month
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 encouraged by
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month last
+10 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 ruling by
+10 	 8 	 NP[nb]/N 	 1 	 ruling an
+10 	 9 	 N/N 	 1 	 ruling appellate-court
+10 	 11 	 (NP\NP)/NP 	 1 	 ruling in
+13 	 11 	 (NP\NP)/NP 	 2 	 cases in
+13 	 12 	 N/N 	 1 	 cases two
+13 	 14 	 (S[pss]\NP)/PP 	 1 	 cases brought <XB>
+14 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 brought by
+15 	 14 	 (S[pss]\NP)/PP 	 2 	 against brought
+21 	 15 	 PP/NP 	 1 	 Association against
+21 	 16 	 N/N 	 1 	 Association defunct
+21 	 17 	 N/N 	 1 	 Association Sunbelt
+21 	 18 	 N/N 	 1 	 Association Savings
+21 	 19 	 N/N 	 1 	 Association &
+21 	 20 	 N/N 	 1 	 Association Loan
+21 	 22 	 (NP\NP)/NP 	 1 	 Association of
+23 	 22 	 (NP\NP)/NP 	 2 	 Dallas of
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 developers by
+26 	 25 	 NP[nb]/N 	 1 	 developers the
+26 	 27 	 (NP\NP)/NP 	 1 	 developers of
+30 	 27 	 (NP\NP)/NP 	 2 	 Ranch of
+30 	 28 	 NP[nb]/N 	 1 	 Ranch the
+30 	 29 	 N/N 	 1 	 Ranch Valley
+30 	 33 	 (S[pss]\NP)/PP 	 1 	 Ranch known <XB>
+33 	 32 	 (S\NP)/(S\NP) 	 2 	 known best
+34 	 33 	 (S[pss]\NP)/PP 	 2 	 as known
+37 	 34 	 PP/NP 	 1 	 center as
+37 	 35 	 NP[nb]/N 	 1 	 center the
+37 	 36 	 N/N 	 1 	 center training
+37 	 38 	 (NP\NP)/NP 	 1 	 center for
+43 	 38 	 (NP\NP)/NP 	 2 	 team for
+43 	 39 	 NP[nb]/N 	 1 	 team the
+43 	 40 	 N/N 	 1 	 team Dallas
+43 	 41 	 N/N 	 1 	 team Cowboys
+43 	 42 	 N/N 	 1 	 team football
+<\s>
+<s id="wsj_2354.8"> 5
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 Sunbelt foreclosed
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 on foreclosed
+4 	 2 	 PP/NP 	 1 	 ranch on
+4 	 3 	 NP[nb]/N 	 1 	 ranch the
+<\s>
+<s id="wsj_2354.9"> 41
+0 	 4 	 ((S[dcl]\NP)/S[em])/PP 	 1 	 Sunbelt argued
+3 	 2 	 NP[nb]/N 	 1 	 FSLIC the
+3 	 4 	 ((S[dcl]\NP)/S[em])/PP 	 1 	 FSLIC argued
+5 	 4 	 ((S[dcl]\NP)/S[em])/PP 	 3 	 to argued
+10 	 5 	 PP/NP 	 1 	 Court to
+10 	 6 	 NP[nb]/N 	 1 	 Court the
+10 	 7 	 N/N 	 1 	 Court Fifth
+10 	 8 	 N/N 	 1 	 Court U.S.
+10 	 9 	 N/N 	 1 	 Court Circuit
+10 	 11 	 (NP\NP)/NP 	 1 	 Court of
+12 	 11 	 (NP\NP)/NP 	 2 	 Appeals of
+13 	 4 	 ((S[dcl]\NP)/S[em])/PP 	 2 	 that argued
+14 	 15 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 1 	 there will
+15 	 13 	 S[em]/S[dcl] 	 1 	 will that
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 will never
+17 	 15 	 (S[dcl]\NP[thr])/(S[b]\NP) 	 2 	 be will
+19 	 17 	 (S[b]\NP)/NP 	 2 	 assets be <XU>
+19 	 18 	 NP[nb]/N 	 1 	 assets any
+19 	 20 	 (NP\NP)/NP 	 2 	 assets with <XU>
+19 	 21 	 ((NP\NP)/(S[to]\NP))\((NP\NP)/NP) 	 1 	 assets which
+20 	 21 	 ((NP\NP)/(S[to]\NP))\((NP\NP)/NP) 	 3 	 with which
+22 	 21 	 ((NP\NP)/(S[to]\NP))\((NP\NP)/NP) 	 2 	 to which
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 satisfy to
+25 	 23 	 (S[b]\NP)/NP 	 2 	 judgment satisfy
+25 	 24 	 NP[nb]/N 	 1 	 judgment a
+25 	 26 	 (NP\NP)/NP 	 1 	 judgment against
+28 	 26 	 (NP\NP)/NP 	 2 	 Savings against
+28 	 27 	 N/N 	 1 	 Savings Sunbelt
+31 	 17 	 (S[b]\NP)/NP 	 2 	 means be <XU>
+31 	 30 	 NP[nb]/N 	 1 	 means any
+33 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 collect to
+34 	 33 	 (S[b]\NP)/PP 	 2 	 from collect
+37 	 34 	 PP/NP 	 1 	 party from
+37 	 35 	 NP[nb]/N 	 1 	 party any
+37 	 36 	 N/N 	 1 	 party other
+37 	 39 	 (NP\NP)/NP 	 1 	 party including
+40 	 39 	 (NP\NP)/NP 	 2 	 FSLIC including
+<\s>
+<s id="wsj_2354.10"> 18
+1 	 0 	 (S/S)/(S[adj]\NP) 	 2 	 true If
+4 	 3 	 NP[nb]/N 	 1 	 court the
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 court wrote
+8 	 7 	 NP[nb]/N 	 1 	 contention this
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 contention would
+8 	 10 	 (S[b]\NP)/NP 	 1 	 contention justify <XB>
+9 	 0 	 (S/S)/(S[adj]\NP) 	 1 	 would If
+9 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 would wrote <XU>
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 justify would
+10 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 justify on
+11 	 10 	 (S[b]\NP)/NP 	 2 	 dismissal justify
+11 	 12 	 (NP\NP)/NP 	 1 	 dismissal of
+14 	 12 	 (NP\NP)/NP 	 2 	 actions of
+14 	 13 	 NP[nb]/N 	 1 	 actions these
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 grounds on
+17 	 16 	 N/N 	 1 	 grounds prudential
+<\s>
+<s id="wsj_2354.11"> 25
+2 	 1 	 NP[nb]/N 	 1 	 court the
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 court said
+2 	 15 	 (S[dcl]\NP)/NP 	 1 	 court sent <XU>
+3 	 0 	 S/S 	 1 	 said But
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 it lacked
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 lacked said
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 information lacked
+8 	 6 	 N/N 	 1 	 information enough
+8 	 7 	 N/N 	 1 	 information financial
+8 	 9 	 (NP\NP)/NP 	 1 	 information about
+10 	 9 	 (NP\NP)/NP 	 2 	 Sunbelt about
+13 	 9 	 (NP\NP)/NP 	 2 	 FSLIC about
+13 	 12 	 NP[nb]/N 	 1 	 FSLIC the
+15 	 0 	 S/S 	 1 	 sent But
+15 	 18 	 ((S\NP)\(S\NP))/PP 	 2 	 sent back
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 cases sent
+17 	 16 	 NP[nb]/N 	 1 	 cases the
+19 	 18 	 ((S\NP)\(S\NP))/PP 	 3 	 to back
+22 	 19 	 PP/NP 	 1 	 court to
+22 	 20 	 N/N 	 1 	 court federal
+22 	 21 	 N/N 	 1 	 court district
+22 	 23 	 (NP\NP)/NP 	 1 	 court in
+24 	 23 	 (NP\NP)/NP 	 2 	 Dallas in
+<\s>
+<s id="wsj_2354.12"> 46
+1 	 0 	 N/N 	 1 	 Haworth Charles
+1 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Haworth says
+4 	 3 	 NP[nb]/N 	 1 	 lawyer a
+4 	 5 	 (NP\NP)/NP 	 1 	 lawyer for
+4 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 lawyer says
+6 	 5 	 (NP\NP)/NP 	 2 	 Sunbelt for
+9 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 he plans
+9 	 12 	 (S[b]\NP)/NP 	 1 	 he file <XB>
+9 	 17 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 1 	 he urging <XB>
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 plans says
+10 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 plans because
+11 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 file to
+12 	 15 	 ((S\NP)\(S\NP))/N 	 2 	 file this
+14 	 12 	 (S[b]\NP)/NP 	 2 	 brief file
+14 	 13 	 NP[nb]/N 	 1 	 brief a
+16 	 15 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+20 	 17 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 judge urging
+20 	 18 	 NP[nb]/N 	 1 	 judge the
+20 	 19 	 N/N 	 1 	 judge district
+20 	 22 	 (S[b]\NP)/NP 	 1 	 judge dismiss <XB>
+21 	 17 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to urging
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 dismiss to
+24 	 22 	 (S[b]\NP)/NP 	 2 	 suits dismiss
+24 	 23 	 NP[nb]/N 	 1 	 suits the
+27 	 28 	 (NP[nb]/N)\NP 	 2 	 Sunbelt 's
+29 	 28 	 (NP[nb]/N)\NP 	 1 	 liabilities 's
+29 	 30 	 (S[dcl]\NP)/NP 	 1 	 liabilities exceeded
+30 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 exceeded because
+30 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 exceeded by
+30 	 38 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 exceeded when
+32 	 30 	 (S[dcl]\NP)/NP 	 2 	 assets exceeded
+32 	 31 	 NP[nb]/N 	 1 	 assets its
+35 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 $ by
+35 	 34 	 N/N 	 1 	 $ about
+37 	 35 	 N/N[num] 	 1 	 billion $
+37 	 36 	 N/N 	 1 	 billion 2
+40 	 39 	 N/N 	 1 	 regulators federal
+40 	 41 	 (S[dcl]\NP)/NP 	 1 	 regulators closed
+41 	 38 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 closed when
+41 	 43 	 ((S\NP)\(S\NP))/NP 	 2 	 closed in
+42 	 41 	 (S[dcl]\NP)/NP 	 2 	 it closed
+44 	 43 	 ((S\NP)\(S\NP))/NP 	 3 	 August in
+44 	 45 	 N\N 	 1 	 August 1988
+<\s>
+<s id="wsj_2354.13"> 26
+1 	 0 	 NP[nb]/N 	 1 	 institution This
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 institution is
+1 	 5 	 S[adj]\NP 	 1 	 institution dead <XB>
+2 	 7 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+5 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 dead is
+5 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 dead just
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 dead brain
+9 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 Haworth says
+9 	 8 	 N/N 	 1 	 Haworth Mr.
+12 	 7 	 (S[dcl]\S[dcl])/NP 	 2 	 partner says
+12 	 11 	 NP[nb]/N 	 1 	 partner a
+12 	 13 	 (NP\NP)/NP 	 1 	 partner in
+16 	 13 	 (NP\NP)/NP 	 2 	 office in
+16 	 14 	 NP[nb]/N 	 1 	 office the
+16 	 15 	 N/N 	 1 	 office Dallas
+16 	 17 	 (NP\NP)/NP 	 1 	 office of
+20 	 17 	 (NP\NP)/NP 	 2 	 Kurth of
+20 	 18 	 N/N 	 1 	 Kurth Andrews
+20 	 19 	 N/N 	 1 	 Kurth &
+25 	 17 	 (NP\NP)/NP 	 2 	 firm of
+25 	 22 	 NP[nb]/N 	 1 	 firm a
+25 	 23 	 N/N 	 1 	 firm Houston
+25 	 24 	 N/N 	 1 	 firm law
+<\s>
+<s id="wsj_2354.14"> 22
+2 	 1 	 NP[nb]/N 	 1 	 lawyer a
+2 	 3 	 (NP\NP)/NP 	 1 	 lawyer for
+2 	 14 	 ((S[dcl]\NP)/PP)/NP 	 1 	 lawyer dismisses
+6 	 3 	 (NP\NP)/NP 	 2 	 Group for
+6 	 4 	 N/N 	 1 	 Group Triland
+6 	 5 	 N/N 	 1 	 Group Investment
+9 	 3 	 (NP\NP)/NP 	 2 	 developer for
+9 	 8 	 NP[nb]/N 	 1 	 developer the
+9 	 10 	 (NP\NP)/NP 	 1 	 developer of
+12 	 10 	 (NP\NP)/NP 	 2 	 Ranch of
+12 	 11 	 N/N 	 1 	 Ranch Valley
+14 	 0 	 S/S 	 1 	 dismisses But
+16 	 14 	 ((S[dcl]\NP)/PP)/NP 	 3 	 arguments dismisses
+16 	 15 	 NP/NP 	 1 	 arguments such
+17 	 14 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as dismisses
+19 	 17 	 PP/NP 	 1 	 defense as
+19 	 18 	 NP[nb]/N 	 1 	 defense a
+19 	 20 	 N\N 	 1 	 defense du
+19 	 21 	 N\N 	 1 	 defense jour
+<\s>
+<s id="wsj_2354.15"> 31
+2 	 0 	 N/N 	 1 	 Jackson Attorney
+2 	 1 	 N/N 	 1 	 Jackson Richard
+2 	 3 	 (NP\NP)/NP 	 1 	 Jackson of
+2 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Jackson says
+4 	 3 	 (NP\NP)/NP 	 2 	 Dallas of
+7 	 6 	 NP[nb]/N 	 1 	 judgment a
+7 	 8 	 (NP\NP)/NP 	 1 	 judgment for
+7 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 judgment could
+7 	 12 	 S[pss]\NP 	 1 	 judgment satisfied <XB>
+9 	 8 	 (NP\NP)/NP 	 2 	 Triland for
+10 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 could says
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 satisfied be
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 satisfied in
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 ways in
+14 	 15 	 S[adj]\NP 	 1 	 ways other <XB>
+14 	 21 	 (NP\NP)/NP 	 1 	 ways including
+15 	 16 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 other than
+19 	 16 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 award than
+19 	 17 	 NP[nb]/N 	 1 	 award a
+19 	 18 	 N/N 	 1 	 award monetary
+23 	 21 	 (NP\NP)/NP 	 2 	 reversal including
+23 	 22 	 NP[nb]/N 	 1 	 reversal the
+23 	 24 	 (NP\NP)/NP 	 1 	 reversal of
+25 	 26 	 (NP[nb]/N)\NP 	 2 	 Sunbelt 's
+27 	 24 	 (NP\NP)/NP 	 2 	 foreclosure of
+27 	 26 	 (NP[nb]/N)\NP 	 1 	 foreclosure 's
+27 	 28 	 (NP\NP)/NP 	 1 	 foreclosure on
+30 	 28 	 (NP\NP)/NP 	 2 	 Ranch on
+30 	 29 	 N/N 	 1 	 Ranch Valley
+<\s>
+<s id="wsj_2354.16"> 23
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 We 're
+0 	 2 	 ((S[ng]\NP)/PP)/NP 	 1 	 We asking <XB>
+1 	 22 	 (S[dcl]\S[dcl])\NP 	 1 	 're says
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 asking 're
+4 	 2 	 ((S[ng]\NP)/PP)/NP 	 3 	 court asking
+4 	 3 	 NP[nb]/N 	 1 	 court the
+5 	 2 	 ((S[ng]\NP)/PP)/NP 	 2 	 for asking
+7 	 5 	 PP/NP 	 1 	 number for
+7 	 6 	 NP[nb]/N 	 1 	 number a
+7 	 8 	 (NP\NP)/NP 	 1 	 number of
+7 	 13 	 (NP\NP)/NP 	 1 	 number in
+9 	 8 	 (NP\NP)/NP 	 2 	 things of
+9 	 12 	 (S[b]\NP)/NP 	 2 	 things grant <XU>
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he can
+10 	 12 	 (S[b]\NP)/NP 	 1 	 he grant <XB>
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 grant can
+14 	 13 	 (NP\NP)/NP 	 2 	 addition in
+14 	 15 	 (NP\NP)/NP 	 1 	 addition to
+17 	 15 	 (NP\NP)/NP 	 2 	 thrill to
+17 	 16 	 NP[nb]/N 	 1 	 thrill the
+17 	 18 	 (NP\NP)/NP 	 1 	 thrill of
+19 	 18 	 (NP\NP)/NP 	 2 	 victory of
+21 	 22 	 (S[dcl]\S[dcl])\NP 	 2 	 he says
+<\s>
+<s id="wsj_2354.17"> 13
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 We 'd
+0 	 2 	 (S[b]\NP)/NP 	 1 	 We take <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take 'd
+2 	 6 	 (S\NP)\(S\NP) 	 2 	 take free
+2 	 8 	 (S\NP)\(S\NP) 	 2 	 take clear <XU>
+2 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 take as
+5 	 2 	 (S[b]\NP)/NP 	 2 	 Ranch take
+5 	 3 	 NP[nb]/N 	 1 	 Ranch the
+5 	 4 	 N/N 	 1 	 Ranch Valley
+12 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 prize as
+12 	 10 	 NP[nb]/N 	 1 	 prize a
+12 	 11 	 N/N 	 1 	 prize booby
+<\s>

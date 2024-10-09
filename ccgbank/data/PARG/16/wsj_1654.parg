@@ -1,0 +1,854 @@
+<s id="wsj_1654.1"> 16
+1 	 0 	 (S/S)/NP 	 2 	 retailers For
+3 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Christmas promises
+3 	 10 	 (S[b]\NP)/NP 	 1 	 Christmas be <XB>
+6 	 5 	 NP/NP 	 1 	 Halloween not
+6 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Halloween promises
+6 	 10 	 (S[b]\NP)/NP 	 1 	 Halloween be <XB>
+8 	 0 	 (S/S)/NP 	 1 	 promises For
+9 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to promises
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+12 	 11 	 NP[nb]/N 	 1 	 year this
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 year 's
+15 	 10 	 (S[b]\NP)/NP 	 2 	 season be
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 season 's
+15 	 14 	 N/N 	 1 	 season spookiest
+<\s>
+<s id="wsj_1654.2"> 20
+1 	 0 	 N/N 	 1 	 retailers Many
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 retailers fear
+5 	 3 	 NP[nb]/N 	 1 	 war a
+5 	 4 	 N/N 	 1 	 war price
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 war will
+5 	 7 	 S[b]\NP 	 1 	 war erupt <XB>
+6 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will fear
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 erupt will
+7 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 erupt if
+10 	 9 	 N/N 	 1 	 companies cash-strapped
+10 	 12 	 (NP\NP)/NP 	 1 	 companies as
+10 	 15 	 (S[dcl]\NP)/NP 	 1 	 companies slash
+10 	 18 	 (S[b]\NP)/NP 	 1 	 companies spur <XB>
+12 	 11 	 (NP\NP)/(NP\NP) 	 2 	 as such
+14 	 12 	 (NP\NP)/NP 	 2 	 Corp. as
+14 	 13 	 N/N 	 1 	 Corp. Campeau
+15 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 slash if
+16 	 15 	 (S[dcl]\NP)/NP 	 2 	 tags slash
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 spur to
+19 	 18 	 (S[b]\NP)/NP 	 2 	 sales spur
+<\s>
+<s id="wsj_1654.3"> 22
+0 	 1 	 (NP\NP)/NP 	 1 	 Concerns about
+0 	 19 	 (S[dcl]\NP)/NP 	 1 	 Concerns haunt
+4 	 1 	 (NP\NP)/NP 	 2 	 market about
+4 	 2 	 NP[nb]/N 	 1 	 market the
+4 	 3 	 N/N 	 1 	 market stock
+6 	 7 	 (NP\NP)/NP 	 1 	 doubts about
+6 	 10 	 (NP\NP)/(S[adj]\NP) 	 1 	 doubts in
+6 	 19 	 (S[dcl]\NP)/NP 	 1 	 doubts haunt
+9 	 7 	 (NP\NP)/NP 	 2 	 economy about
+9 	 8 	 NP[nb]/N 	 1 	 economy the
+11 	 10 	 (NP\NP)/(S[adj]\NP) 	 2 	 general in
+14 	 13 	 N/N 	 1 	 competition rising
+14 	 15 	 (NP\NP)/NP 	 1 	 competition from
+14 	 19 	 (S[dcl]\NP)/NP 	 1 	 competition haunt
+17 	 15 	 (NP\NP)/NP 	 2 	 companies from
+17 	 16 	 N/N 	 1 	 companies catalog
+19 	 18 	 (S\NP)/(S\NP) 	 2 	 haunt also
+21 	 19 	 (S[dcl]\NP)/NP 	 2 	 operators haunt
+21 	 20 	 N/N 	 1 	 operators store
+<\s>
+<s id="wsj_1654.4"> 27
+0 	 1 	 (NP\NP)/NP 	 1 	 Profits at
+0 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Profits could
+0 	 4 	 (S[b]\NP)/PP 	 1 	 Profits be <XB>
+2 	 1 	 (NP\NP)/NP 	 2 	 Christmas at
+3 	 11 	 (S[dcl]\S[dcl])/NP 	 1 	 could asserts
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+4 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 be for
+5 	 4 	 (S[b]\NP)/PP 	 2 	 under be
+6 	 5 	 PP/NP 	 1 	 attack under
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 retailer for
+9 	 8 	 NP[nb]/N 	 1 	 retailer every
+13 	 11 	 (S[dcl]\S[dcl])/NP 	 2 	 Abramson asserts
+13 	 12 	 N/N 	 1 	 Abramson Norman
+15 	 11 	 (S[dcl]\S[dcl])/NP 	 2 	 president asserts
+15 	 20 	 (NP\NP)/NP 	 1 	 president of
+19 	 11 	 (S[dcl]\S[dcl])/NP 	 2 	 officer asserts
+19 	 17 	 N/N 	 1 	 officer chief
+19 	 18 	 N/N 	 1 	 officer operating
+19 	 20 	 (NP\NP)/NP 	 1 	 officer of
+22 	 20 	 (NP\NP)/NP 	 2 	 Inc. of
+22 	 21 	 N/N 	 1 	 Inc. Clothestime
+26 	 20 	 (NP\NP)/NP 	 2 	 chain of
+26 	 24 	 NP[nb]/N 	 1 	 chain an
+26 	 25 	 N/N 	 1 	 chain off-price
+<\s>
+<s id="wsj_1654.5"> 17
+1 	 0 	 (S/S)/(S/S) 	 2 	 if Even
+2 	 3 	 (S[dcl]\NP[thr])/NP 	 1 	 there is
+3 	 1 	 (S/S)/S[dcl] 	 2 	 is if
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 is n't
+7 	 3 	 (S[dcl]\NP[thr])/NP 	 2 	 discounting is
+7 	 5 	 NP[nb]/N 	 1 	 discounting any
+7 	 6 	 N/N 	 1 	 discounting widespread
+10 	 9 	 NP[nb]/N 	 1 	 outlook the
+10 	 11 	 (NP\NP)/NP 	 1 	 outlook for
+10 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 outlook is
+10 	 16 	 S[adj]\NP 	 1 	 outlook good <XB>
+13 	 11 	 (NP\NP)/NP 	 2 	 profits for
+13 	 12 	 N/N 	 1 	 profits industry
+14 	 1 	 (S/S)/S[dcl] 	 1 	 is if
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 is n't
+16 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 good is
+<\s>
+<s id="wsj_1654.6"> 25
+1 	 0 	 N/N 	 1 	 Horizons Management
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Horizons forecasts
+2 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 forecasts after
+5 	 4 	 (N/N)/(N/N) 	 2 	 % 1.4
+7 	 2 	 (S[dcl]\NP)/NP 	 2 	 decline forecasts
+7 	 3 	 NP[nb]/N 	 1 	 decline a
+7 	 5 	 N/N 	 1 	 decline %
+7 	 6 	 N/N 	 1 	 decline profit
+7 	 8 	 (NP\NP)/NP 	 1 	 decline for
+7 	 11 	 (NP\NP)/N 	 1 	 decline this
+10 	 8 	 (NP\NP)/NP 	 2 	 retailers for
+10 	 9 	 N/N 	 1 	 retailers non-auto
+12 	 11 	 (NP\NP)/N 	 2 	 year this
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 drops after
+16 	 15 	 N/N 	 1 	 drops annual
+16 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 drops that
+16 	 18 	 (S[dcl]\NP)/NP 	 1 	 drops averaged <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 averaged that
+18 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 averaged in
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 % averaged
+20 	 19 	 N/N 	 1 	 % 4.5
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 1988 in
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 1987 in
+<\s>
+<s id="wsj_1654.8"> 61
+1 	 0 	 (S/S)/N 	 2 	 year This
+4 	 3 	 N/N 	 1 	 stores many
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 stores are
+4 	 6 	 (S[ng]\NP)/NP 	 1 	 stores entering <XB>
+5 	 0 	 (S/S)/N 	 1 	 are This
+5 	 12 	 (S\S)/S[dcl] 	 1 	 are :
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 entering are
+6 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 entering in
+9 	 6 	 (S[ng]\NP)/NP 	 2 	 season entering
+9 	 7 	 NP[nb]/N 	 1 	 season the
+9 	 8 	 N/N 	 1 	 season Christmas
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 turmoil in
+14 	 13 	 N/N 	 1 	 Teller Bonwit
+14 	 22 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Teller is
+14 	 23 	 S[ng]\NP 	 1 	 Teller operating <XB>
+21 	 13 	 N/N 	 1 	 Corp. Bonwit
+21 	 16 	 N/N 	 1 	 Corp. B.
+21 	 17 	 N/N 	 1 	 Corp. Altman
+21 	 18 	 N/N 	 1 	 Corp. parent
+21 	 19 	 N/N 	 1 	 Corp. L.J.
+21 	 20 	 N/N 	 1 	 Corp. Hooker
+21 	 22 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Corp. is
+21 	 23 	 S[ng]\NP 	 1 	 Corp. operating <XB>
+22 	 12 	 (S\S)/S[dcl] 	 2 	 is :
+23 	 22 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 operating is
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 operating under
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Chapter under
+25 	 26 	 N\N 	 1 	 Chapter 11
+25 	 27 	 (NP\NP)/NP 	 1 	 Chapter of
+31 	 27 	 (NP\NP)/NP 	 2 	 Code of
+31 	 28 	 NP[nb]/N 	 1 	 Code the
+31 	 29 	 N/N 	 1 	 Code federal
+31 	 30 	 N/N 	 1 	 Code Bankruptcy
+35 	 33 	 N/N 	 1 	 PLC B.A.T
+35 	 34 	 N/N 	 1 	 PLC Industries
+35 	 36 	 (NP[nb]/N)\NP 	 2 	 PLC 's
+44 	 42 	 (N/N)/(N/N) 	 2 	 's Marshall
+44 	 43 	 (N/N)/(N/N) 	 2 	 's Field
+45 	 36 	 (NP[nb]/N)\NP 	 1 	 chains 's
+45 	 37 	 N/N 	 1 	 chains healthy
+45 	 38 	 N/N 	 1 	 chains Saks
+45 	 39 	 N/N 	 1 	 chains Fifth
+45 	 40 	 N/N 	 1 	 chains Avenue
+45 	 44 	 N/N 	 1 	 chains 's
+45 	 46 	 (S[dcl]\NP)/PP 	 1 	 chains are
+46 	 12 	 (S\S)/S[dcl] 	 2 	 are :
+47 	 46 	 (S[dcl]\NP)/PP 	 2 	 on are
+50 	 47 	 PP/NP 	 1 	 block on
+50 	 48 	 NP[nb]/N 	 1 	 block the
+50 	 49 	 N/N 	 1 	 block auction
+52 	 53 	 (NP[nb]/N)\NP 	 2 	 Campeau 's
+55 	 53 	 (NP[nb]/N)\NP 	 1 	 's 's
+55 	 54 	 N/N 	 1 	 's Bloomingdale
+55 	 56 	 (S[dcl]\NP)/PP 	 1 	 's is
+56 	 12 	 (S\S)/S[dcl] 	 2 	 is :
+56 	 57 	 (S\NP)\(S\NP) 	 2 	 is also
+58 	 56 	 (S[dcl]\NP)/PP 	 2 	 on is
+60 	 58 	 PP/NP 	 1 	 block on
+60 	 59 	 NP[nb]/N 	 1 	 block the
+<\s>
+<s id="wsj_1654.9"> 8
+1 	 0 	 N/N 	 1 	 observers Industry
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 observers expect
+5 	 2 	 (S[dcl]\NP)/NP 	 2 	 divergence expect
+5 	 3 	 NP[nb]/N 	 1 	 divergence a
+5 	 4 	 N/N 	 1 	 divergence wide
+5 	 6 	 (NP\NP)/NP 	 1 	 divergence in
+7 	 6 	 (NP\NP)/NP 	 2 	 performance in
+<\s>
+<s id="wsj_1654.10"> 38
+0 	 1 	 (NP\NP)/NP 	 1 	 Stores in
+0 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Stores are
+0 	 7 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 Stores likely <XB>
+3 	 1 	 (NP\NP)/NP 	 2 	 state in
+3 	 2 	 NP[nb]/N 	 1 	 state a
+3 	 4 	 (NP\NP)/NP 	 1 	 state of
+5 	 4 	 (NP\NP)/NP 	 2 	 confusion of
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely are
+8 	 7 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 fare to
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 fare poorly
+13 	 7 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 lose to
+15 	 14 	 ((S[b]\NP)/PP)/NP 	 3 	 customers lose
+16 	 14 	 ((S[b]\NP)/PP)/NP 	 2 	 to lose
+18 	 16 	 PP/NP 	 1 	 chains to
+18 	 17 	 N/N 	 1 	 chains stable
+18 	 20 	 (NP\NP)/NP 	 1 	 chains as
+18 	 34 	 (NP\NP)/(S[dcl]\NP) 	 1 	 chains which
+18 	 35 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 chains should <XB>
+18 	 36 	 S[b]\NP 	 1 	 chains do <XB>
+20 	 19 	 (NP\NP)/(NP\NP) 	 2 	 as such
+22 	 20 	 (NP\NP)/NP 	 2 	 Inc. as
+22 	 21 	 N/N 	 1 	 Inc. Limited
+27 	 20 	 (NP\NP)/NP 	 2 	 Co. as
+27 	 24 	 N/N 	 1 	 Co. May
+27 	 25 	 N/N 	 1 	 Co. Department
+27 	 26 	 N/N 	 1 	 Co. Stores
+32 	 20 	 (NP\NP)/NP 	 2 	 Inc. as
+32 	 29 	 N/N 	 1 	 Inc. Dillard
+32 	 30 	 N/N 	 1 	 Inc. Department
+32 	 31 	 N/N 	 1 	 Inc. Stores
+35 	 34 	 (NP\NP)/(S[dcl]\NP) 	 2 	 should which
+36 	 35 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 do should
+36 	 37 	 (S\NP)\(S\NP) 	 2 	 do well
+<\s>
+<s id="wsj_1654.11"> 24
+0 	 1 	 (S[dcl]\NP[thr])/(S[ng]\NP) 	 1 	 There are
+1 	 13 	 (S[dcl]\S[dcl])/NP 	 1 	 are says
+2 	 1 	 (S[dcl]\NP[thr])/(S[ng]\NP) 	 2 	 going are
+3 	 2 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+6 	 5 	 (N/N)/(N/N) 	 2 	 clear very
+7 	 4 	 (S[b]\NP)/NP 	 2 	 winners be
+7 	 6 	 N/N 	 1 	 winners clear
+10 	 9 	 (N/N)/(N/N) 	 2 	 clear very
+11 	 4 	 (S[b]\NP)/NP 	 2 	 losers be
+11 	 10 	 N/N 	 1 	 losers clear
+15 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 Turk says
+15 	 14 	 N/N 	 1 	 Turk Cynthia
+23 	 13 	 (S[dcl]\S[dcl])/NP 	 2 	 consultant says
+23 	 17 	 NP[nb]/N 	 1 	 consultant a
+23 	 18 	 N/N 	 1 	 consultant Touche
+23 	 19 	 N/N 	 1 	 consultant Ross
+23 	 20 	 N/N 	 1 	 consultant &
+23 	 21 	 N/N 	 1 	 consultant Co.
+23 	 22 	 N/N 	 1 	 consultant retail
+<\s>
+<s id="wsj_1654.12"> 11
+2 	 0 	 (S[dcl]/S[dcl])/NP 	 2 	 Steidtmann Says
+2 	 1 	 N/N 	 1 	 Steidtmann Mr.
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 I 'm
+4 	 6 	 (S[ng]\NP)/PP 	 1 	 I looking <XB>
+5 	 0 	 (S[dcl]/S[dcl])/NP 	 1 	 'm Says
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 looking 'm
+7 	 6 	 (S[ng]\NP)/PP 	 2 	 for looking
+10 	 7 	 PP/NP 	 1 	 Christmas for
+10 	 8 	 NP[nb]/N 	 1 	 Christmas a
+10 	 9 	 N/N 	 1 	 Christmas bi-polar
+<\s>
+<s id="wsj_1654.13"> 19
+0 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Economists expect
+4 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 sales expect
+4 	 2 	 N/N 	 1 	 sales general
+4 	 3 	 N/N 	 1 	 sales merchandise
+4 	 5 	 (NP\NP)/NP 	 1 	 sales in
+4 	 10 	 S[b]\NP 	 1 	 sales rise <XB>
+8 	 5 	 (NP\NP)/NP 	 2 	 quarter in
+8 	 6 	 NP[nb]/N 	 1 	 quarter the
+8 	 7 	 N/N 	 1 	 quarter fourth
+9 	 1 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rise to
+10 	 12 	 (S\NP)\(S\NP) 	 2 	 rise %
+10 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 rise to
+10 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 rise from
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 4.5
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+15 	 14 	 N/N 	 1 	 % 6
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 figures from
+18 	 17 	 N/N 	 1 	 figures year-ago
+<\s>
+<s id="wsj_1654.14"> 23
+2 	 1 	 N/N 	 1 	 Steidtmann Mr.
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 Steidtmann predicts
+3 	 0 	 S/S 	 1 	 predicts But
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that predicts
+6 	 5 	 N/N 	 1 	 stores healthy
+6 	 7 	 (S[ng]\NP)/NP 	 1 	 stores hawking <XB>
+6 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 stores could
+6 	 11 	 (S[b]\NP)/NP 	 1 	 stores ring <XB>
+9 	 7 	 (S[ng]\NP)/NP 	 2 	 apparel hawking
+9 	 8 	 N/N 	 1 	 apparel mostly
+10 	 4 	 S[em]/S[dcl] 	 1 	 could that
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 ring could
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 ring up
+13 	 11 	 (S[b]\NP)/NP 	 2 	 gains ring
+13 	 14 	 (NP\NP)/NP 	 1 	 gains of
+15 	 14 	 (NP\NP)/NP 	 2 	 as of
+16 	 15 	 (N/PP)/(S[adj]\NP) 	 2 	 much as
+17 	 15 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+19 	 17 	 PP/NP 	 1 	 % as
+19 	 18 	 N/N 	 1 	 % 25
+19 	 20 	 (N\N)/N 	 1 	 % to
+22 	 20 	 (N\N)/N 	 2 	 % to
+22 	 21 	 N/N 	 1 	 % 30
+<\s>
+<s id="wsj_1654.15"> 30
+1 	 0 	 N/N 	 1 	 chains Troubled
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 chains could
+1 	 3 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 chains see <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 see could
+3 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 see as
+5 	 3 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 sales see
+5 	 4 	 NP[nb]/N 	 1 	 sales their
+5 	 6 	 S[b]\NP 	 1 	 sales drop <XB>
+6 	 3 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 drop see
+6 	 7 	 (((S\NP)\(S\NP))/PP)/(S[adj]\NP) 	 2 	 drop as
+8 	 7 	 (((S\NP)\(S\NP))/PP)/(S[adj]\NP) 	 4 	 much as
+9 	 7 	 (((S\NP)\(S\NP))/PP)/(S[adj]\NP) 	 3 	 as as
+11 	 9 	 PP/NP 	 1 	 % as
+11 	 10 	 N/N 	 1 	 % 8
+13 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 he believes
+17 	 18 	 S[pss]\NP 	 1 	 managers distracted <XB>
+17 	 24 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 managers allow
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 distracted by
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 fears by
+20 	 21 	 (NP\NP)/NP 	 1 	 fears about
+23 	 21 	 (NP\NP)/NP 	 2 	 future about
+23 	 22 	 NP[nb]/N 	 1 	 future the
+24 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 allow as
+26 	 24 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 stores allow
+26 	 25 	 NP[nb]/N 	 1 	 stores their
+26 	 28 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 stores get <XB>
+26 	 29 	 S[adj]\NP 	 1 	 stores sloppy <XB>
+27 	 24 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+29 	 28 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 sloppy get
+<\s>
+<s id="wsj_1654.16"> 14
+2 	 0 	 N/N 	 1 	 selections Thin
+2 	 1 	 N/N 	 1 	 selections merchandise
+2 	 3 	 (NP\NP)/NP 	 1 	 selections at
+2 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 selections are
+2 	 10 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 selections expected <XB>
+2 	 12 	 (S[b]\NP)/NP 	 1 	 selections hurt <XB>
+6 	 5 	 (N/N)/(N/N) 	 2 	 troubled most
+7 	 3 	 (NP\NP)/NP 	 2 	 chains at
+7 	 4 	 NP[nb]/N 	 1 	 chains the
+7 	 6 	 N/N 	 1 	 chains troubled
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 are also
+10 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+11 	 10 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 hurt to
+13 	 12 	 (S[b]\NP)/NP 	 2 	 sales hurt
+<\s>
+<s id="wsj_1654.17"> 18
+1 	 0 	 N/N 	 1 	 companies Catalog
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 companies are
+1 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 companies likely <XB>
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely are
+4 	 3 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pose to
+5 	 12 	 ((S\NP)\(S\NP))/N 	 2 	 pose this
+5 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 pose in
+8 	 5 	 (S[b]\NP)/NP 	 2 	 threat pose
+8 	 6 	 NP[nb]/N 	 1 	 threat a
+8 	 7 	 N/N 	 1 	 threat bigger
+8 	 9 	 (NP\NP)/NP 	 1 	 threat to
+11 	 9 	 (NP\NP)/NP 	 2 	 stores to
+11 	 10 	 NP[nb]/N 	 1 	 stores all
+13 	 12 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+16 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 in particularly
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 December in
+<\s>
+<s id="wsj_1654.18"> 23
+0 	 1 	 ((N/N)/(N/N))\(S[adj]\NP) 	 3 	 More than
+2 	 1 	 ((N/N)/(N/N))\(S[adj]\NP) 	 2 	 200 than
+4 	 2 	 N/N 	 1 	 outfits 200
+4 	 3 	 N/N 	 1 	 outfits catalog
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 outfits are
+4 	 6 	 (S[ng]\NP)/NP 	 1 	 outfits promoting <XB>
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 promoting are
+11 	 6 	 (S[ng]\NP)/NP 	 2 	 service promoting
+11 	 7 	 NP[nb]/N 	 1 	 service a
+11 	 8 	 N/N 	 1 	 service low-cost
+11 	 9 	 N/N 	 1 	 service Federal
+11 	 10 	 N/N 	 1 	 service Express
+11 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 service that
+11 	 13 	 (S[dcl]\NP)/NP 	 1 	 service guarantees <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 guarantees that
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 delivery guarantees
+15 	 14 	 N/N 	 1 	 delivery pre-Christmas
+15 	 16 	 (NP\NP)/NP 	 1 	 delivery of
+17 	 16 	 (NP\NP)/NP 	 2 	 orders of
+17 	 18 	 S[pss]\NP 	 1 	 orders made <XB>
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 made by
+22 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 date by
+22 	 20 	 NP[nb]/N 	 1 	 date a
+22 	 21 	 N/N 	 1 	 date certain
+<\s>
+<s id="wsj_1654.19"> 44
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 consumers were
+2 	 4 	 S[pss]\NP 	 1 	 consumers concerned <XB>
+2 	 6 	 S[ng]\NP 	 1 	 consumers ordering <XB>
+3 	 0 	 S/S 	 1 	 were Traditionally
+3 	 24 	 (S[dcl]\S[dcl])/NP 	 1 	 were says
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 concerned were
+4 	 5 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 concerned about
+4 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 concerned because
+6 	 5 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 ordering about
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 ordering after
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 first after
+9 	 8 	 NP[nb]/N 	 1 	 first the
+9 	 10 	 (NP\NP)/NP 	 1 	 first of
+11 	 10 	 (NP\NP)/NP 	 2 	 December of
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they did
+13 	 16 	 (S[b]\NP)/S[dcl] 	 1 	 they believe <XB>
+14 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 did because
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 did n't
+16 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 believe did
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they would
+17 	 19 	 (S[b]\NP)/NP 	 1 	 they get <XB>
+18 	 16 	 (S[b]\NP)/S[dcl] 	 2 	 would believe
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 get would
+19 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 get by
+20 	 19 	 (S[b]\NP)/NP 	 2 	 it get
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 Christmas by
+26 	 24 	 (S[dcl]\S[dcl])/NP 	 2 	 Strum says
+26 	 25 	 N/N 	 1 	 Strum Adam
+28 	 24 	 (S[dcl]\S[dcl])/NP 	 2 	 chairman says
+28 	 29 	 (NP\NP)/NP 	 1 	 chairman of
+33 	 29 	 (NP\NP)/NP 	 2 	 Inc. of
+33 	 30 	 NP[nb]/N 	 1 	 Inc. the
+33 	 31 	 N/N 	 1 	 Inc. Wine
+33 	 32 	 N/N 	 1 	 Inc. Enthusiast
+33 	 35 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Inc. which
+33 	 36 	 (S[dcl]\NP)/NP 	 1 	 Inc. sells <XB>
+36 	 35 	 (NP\NP)/(S[dcl]\NP) 	 2 	 sells which
+36 	 41 	 ((S\NP)\(S\NP))/NP 	 2 	 sells through
+38 	 36 	 (S[dcl]\NP)/NP 	 2 	 cellars sells
+38 	 37 	 N/N 	 1 	 cellars wine
+40 	 36 	 (S[dcl]\NP)/NP 	 2 	 accessories sells
+40 	 37 	 N/N 	 1 	 accessories wine
+43 	 41 	 ((S\NP)\(S\NP))/NP 	 3 	 mail through
+43 	 42 	 NP[nb]/N 	 1 	 mail the
+<\s>
+<s id="wsj_1654.20"> 16
+0 	 5 	 (S\NP)\(S\NP) 	 2 	 Using year
+3 	 0 	 (S[ng]\NP)/NP 	 2 	 delivery Using
+3 	 1 	 N/N 	 1 	 delivery Federal
+3 	 2 	 N/N 	 1 	 delivery Express
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year last
+8 	 7 	 N/N 	 1 	 Strum Mr.
+8 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Strum says
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 December was
+12 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 was says <XU>
+15 	 12 	 (S[dcl]\NP)/NP 	 2 	 month was
+15 	 13 	 NP[nb]/N 	 1 	 month our
+15 	 14 	 N/N 	 1 	 month biggest
+<\s>
+<s id="wsj_1654.21"> 32
+5 	 0 	 N/N 	 1 	 Co. Even
+5 	 1 	 N/N 	 1 	 Co. Sears
+5 	 3 	 N/N 	 1 	 Co. Roebuck
+5 	 4 	 N/N 	 1 	 Co. &
+5 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Co. is
+5 	 7 	 S[ng]\NP 	 1 	 Co. getting <XB>
+5 	 12 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 Co. offering <XB>
+5 	 18 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 Co. have <XB>
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 getting is
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 getting into
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 act into
+10 	 9 	 NP[nb]/N 	 1 	 act the
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 offering for
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 time for
+16 	 14 	 NP[nb]/N 	 1 	 time the
+16 	 15 	 N/N 	 1 	 time first
+17 	 12 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to offering
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+20 	 18 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 Express have
+20 	 19 	 N/N 	 1 	 Express Federal
+20 	 21 	 (S[b]\NP)/NP 	 1 	 Express deliver <XB>
+21 	 18 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 deliver have
+22 	 21 	 (S[b]\NP)/NP 	 2 	 toys deliver
+22 	 23 	 S[pss]\NP 	 1 	 toys ordered <XB>
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 ordered by
+23 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 ordered from
+25 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Dec. by
+26 	 25 	 N/N[num] 	 1 	 20 Dec.
+31 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 catalog from
+31 	 28 	 NP[nb]/N 	 1 	 catalog its
+31 	 29 	 N/N 	 1 	 catalog Wish
+31 	 30 	 N/N 	 1 	 catalog Book
+<\s>
+<s id="wsj_1654.22"> 18
+6 	 0 	 N/N 	 1 	 Antonini K
+6 	 1 	 N/N 	 1 	 Antonini mart
+6 	 2 	 N/N 	 1 	 Antonini Corp.
+6 	 3 	 N/N 	 1 	 Antonini Chairman
+6 	 4 	 N/N 	 1 	 Antonini Joseph
+6 	 5 	 N/N 	 1 	 Antonini E.
+6 	 7 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Antonini summed
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 summed up
+10 	 7 	 ((S[dcl]\NP)/PP)/NP 	 3 	 outlook summed
+10 	 9 	 NP[nb]/N 	 1 	 outlook his
+10 	 11 	 (NP\NP)/NP 	 1 	 outlook for
+14 	 11 	 (NP\NP)/NP 	 2 	 season for
+14 	 12 	 NP[nb]/N 	 1 	 season the
+14 	 13 	 N/N 	 1 	 season Christmas
+15 	 7 	 ((S[dcl]\NP)/PP)/NP 	 2 	 as summed
+17 	 15 	 PP/(S[adj]\NP) 	 1 	 troublesome as
+17 	 16 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 troublesome not
+<\s>
+<s id="wsj_1654.24"> 9
+1 	 0 	 N/N 	 1 	 retailers Other
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 retailers are
+1 	 4 	 (S[ng]\NP)/PP 	 1 	 retailers preparing <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 are also
+4 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 preparing are
+5 	 4 	 (S[ng]\NP)/PP 	 2 	 for preparing
+8 	 5 	 PP/NP 	 1 	 holiday for
+8 	 6 	 NP[nb]/N 	 1 	 holiday a
+8 	 7 	 N/N 	 1 	 holiday ho-hum
+<\s>
+<s id="wsj_1654.25"> 46
+2 	 0 	 N/N 	 1 	 Hawley Philip
+2 	 1 	 N/N 	 1 	 Hawley M.
+2 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Hawley expects
+4 	 5 	 (NP\NP)/NP 	 1 	 chairman of
+4 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 chairman expects
+10 	 5 	 (NP\NP)/NP 	 2 	 Inc. of
+10 	 6 	 N/N 	 1 	 Inc. Carter
+10 	 7 	 N/N 	 1 	 Inc. Hawley
+10 	 8 	 N/N 	 1 	 Inc. Hale
+10 	 9 	 N/N 	 1 	 Inc. Stores
+13 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 sales expects
+13 	 14 	 (NP\NP)/NP 	 1 	 sales at
+13 	 23 	 (S[b]\NP)/NP 	 1 	 sales rise <XB>
+16 	 14 	 (NP\NP)/NP 	 2 	 stores at
+16 	 15 	 N/N 	 1 	 stores department
+16 	 17 	 (S[adj]\NP)/NP 	 1 	 stores open <XB>
+19 	 18 	 (NP/NP)/(S[asup]\NP) 	 2 	 least at
+21 	 17 	 (S[adj]\NP)/NP 	 2 	 year open
+21 	 18 	 (NP/NP)/(S[asup]\NP) 	 1 	 year at
+21 	 20 	 NP[nb]/N 	 1 	 year a
+22 	 12 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rise to
+23 	 38 	 ((S\NP)\(S\NP))/NP 	 2 	 rise for
+27 	 23 	 (S[b]\NP)/NP 	 2 	 % rise
+27 	 24 	 NP[nb]/N 	 1 	 % a
+27 	 25 	 N/N 	 1 	 % modest
+27 	 26 	 N/N 	 1 	 % 3
+27 	 28 	 (N\N)/N 	 1 	 % to
+27 	 31 	 (NP\NP)/NP 	 1 	 % over
+30 	 28 	 (N\N)/N 	 2 	 % to
+30 	 29 	 N/N 	 1 	 % 5
+33 	 32 	 N/N 	 1 	 year last
+33 	 34 	 (NP[nb]/N)\NP 	 2 	 year 's
+35 	 31 	 (NP\NP)/NP 	 2 	 totals over
+35 	 34 	 (NP[nb]/N)\NP 	 1 	 totals 's
+38 	 37 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 for both
+40 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 company for
+40 	 39 	 NP[nb]/N 	 1 	 company his
+43 	 38 	 ((S\NP)\(S\NP))/NP 	 3 	 industry for
+43 	 42 	 NP[nb]/N 	 1 	 industry the
+43 	 44 	 (NP\NP)/NP 	 1 	 industry in
+45 	 44 	 (NP\NP)/NP 	 2 	 general in
+<\s>
+<s id="wsj_1654.26"> 13
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 I 'm
+0 	 3 	 (S[ng]\NP)/PP 	 1 	 I looking <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 'm not
+1 	 12 	 (S[dcl]\S[dcl])\NP 	 1 	 'm says
+3 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 looking 'm
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 looking at
+4 	 3 	 (S[ng]\NP)/PP 	 2 	 for looking
+7 	 4 	 PP/NP 	 1 	 Christmas for
+7 	 5 	 NP[nb]/N 	 1 	 Christmas a
+7 	 6 	 N/N 	 1 	 Christmas runaway
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 all at
+11 	 12 	 (S[dcl]\S[dcl])\NP 	 2 	 he says
+<\s>
+<s id="wsj_1654.27"> 30
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It is
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is n't
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 is in
+1 	 12 	 (S[dcl]\S[dcl])/NP 	 1 	 is says <XB>
+7 	 1 	 (S[dcl]\NP)/NP 	 2 	 season is
+7 	 3 	 NP[nb]/N 	 1 	 season a
+7 	 4 	 N/N 	 1 	 season real
+7 	 5 	 N/N 	 1 	 season boom
+7 	 6 	 N/N 	 1 	 season holiday
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 eyes in
+10 	 9 	 NP[nb]/N 	 1 	 eyes our
+18 	 12 	 (S[dcl]\S[dcl])/NP 	 2 	 Sells says
+18 	 13 	 N/N 	 1 	 Sells Woolworth
+18 	 14 	 N/N 	 1 	 Sells Corp.
+18 	 15 	 N/N 	 1 	 Sells Chairman
+18 	 16 	 N/N 	 1 	 Sells Harold
+18 	 17 	 N/N 	 1 	 Sells E.
+21 	 22 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+21 	 26 	 (S[b]\NP)/NP 	 1 	 it be <XB>
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 is n't
+24 	 22 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going is
+24 	 29 	 (S\NP)\(S\NP) 	 2 	 going either
+25 	 24 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+28 	 26 	 (S[b]\NP)/NP 	 2 	 bust be
+28 	 27 	 NP[nb]/N 	 1 	 bust a
+<\s>
+<s id="wsj_1654.28"> 42
+1 	 0 	 N/N 	 1 	 Sells Mr.
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Sells expects
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 sales expects
+4 	 3 	 N/N 	 1 	 sales fourth-quarter
+4 	 5 	 (NP\NP)/NP 	 1 	 sales at
+4 	 26 	 S[b]\NP 	 1 	 sales rise <XB>
+7 	 5 	 (NP\NP)/NP 	 2 	 company at
+7 	 6 	 NP[nb]/N 	 1 	 company his
+7 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 company which
+7 	 13 	 (S[dcl]\NP)/NP 	 1 	 company includes <XB>
+12 	 10 	 ((S\NP)/(S\NP))/NP 	 3 	 stores besides
+12 	 11 	 N/N 	 1 	 stores Woolworth
+13 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 includes which
+13 	 10 	 ((S\NP)/(S\NP))/NP 	 2 	 includes besides
+19 	 13 	 (S[dcl]\NP)/NP 	 2 	 stores includes
+19 	 14 	 N/N 	 1 	 stores Kinney
+19 	 16 	 N/N 	 1 	 stores Foot
+19 	 17 	 N/N 	 1 	 stores Locker
+19 	 18 	 N/N 	 1 	 stores shoe
+23 	 13 	 (S[dcl]\NP)/NP 	 2 	 chains includes
+23 	 21 	 N/N 	 1 	 chains other
+23 	 22 	 N/N 	 1 	 chains specialty
+25 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rise to
+26 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 rise in
+28 	 27 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))) 	 4 	 much pretty
+29 	 28 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 in much
+30 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 line in
+30 	 31 	 (NP\NP)/NP 	 1 	 line with
+34 	 31 	 (NP\NP)/NP 	 2 	 increases with
+34 	 32 	 NP[nb]/N 	 1 	 increases its
+34 	 33 	 N/N 	 1 	 increases year-to-date
+34 	 35 	 (NP\NP)/NP 	 1 	 increases of
+38 	 35 	 (NP\NP)/NP 	 2 	 % of
+38 	 36 	 N/N 	 1 	 % between
+38 	 37 	 N/N 	 1 	 % 8
+41 	 35 	 (NP\NP)/NP 	 2 	 % of
+41 	 36 	 N/N 	 1 	 % between
+41 	 40 	 N/N 	 1 	 % 9
+<\s>
+<s id="wsj_1654.29"> 8
+1 	 0 	 NP[nb]/N 	 1 	 estimate The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 estimate includes
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 results includes
+4 	 3 	 NP[nb]/N 	 1 	 results the
+4 	 5 	 (NP\NP)/NP 	 1 	 results of
+7 	 5 	 (NP\NP)/NP 	 2 	 stores of
+7 	 6 	 N/N 	 1 	 stores new
+<\s>
+<s id="wsj_1654.30"> 26
+2 	 0 	 NP[nb]/N 	 1 	 poll A
+2 	 1 	 N/N 	 1 	 poll consumer
+2 	 3 	 S[pss]\NP 	 1 	 poll conducted <XB>
+2 	 22 	 (S[dcl]\NP)/NP 	 1 	 poll suggests
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 conducted in
+3 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 conducted by
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 September in
+6 	 5 	 N/N 	 1 	 September early
+12 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Associates by
+12 	 8 	 N/N 	 1 	 Associates Leo
+12 	 9 	 N/N 	 1 	 Associates J.
+12 	 10 	 N/N 	 1 	 Associates Shapiro
+12 	 11 	 N/N 	 1 	 Associates &
+16 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 researcher by
+16 	 14 	 NP[nb]/N 	 1 	 researcher a
+16 	 15 	 N/N 	 1 	 researcher market
+16 	 17 	 S[pss]\NP 	 1 	 researcher based <XB>
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 Chicago in
+22 	 21 	 (S\NP)/(S\NP) 	 2 	 suggests also
+25 	 22 	 (S[dcl]\NP)/NP 	 2 	 holiday suggests
+25 	 23 	 NP[nb]/N 	 1 	 holiday a
+25 	 24 	 N/N 	 1 	 holiday modest
+<\s>
+<s id="wsj_1654.31"> 43
+4 	 0 	 (S/S)/NP 	 2 	 respondents Of
+4 	 1 	 NP[nb]/N 	 1 	 respondents the
+4 	 2 	 N/N 	 1 	 respondents 450
+4 	 3 	 N/N 	 1 	 respondents survey
+7 	 6 	 N/N 	 1 	 % 35
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 % said
+8 	 0 	 (S/S)/NP 	 1 	 said Of
+9 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 they expect
+9 	 12 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 1 	 they spend <XB>
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 expect said
+11 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expect
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 spend to
+12 	 17 	 ((S\NP)\(S\NP))/N 	 2 	 spend this
+12 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 spend than
+13 	 12 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 3 	 less spend
+13 	 14 	 (S[ng]\NP)/NP 	 1 	 less buying <XB>
+14 	 12 	 ((S[b]\NP)/(S[ng]\NP))/NP 	 2 	 buying spend
+16 	 14 	 (S[ng]\NP)/NP 	 2 	 gifts buying
+16 	 15 	 N/N 	 1 	 gifts Christmas
+18 	 17 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 year than
+21 	 20 	 N/N 	 1 	 year last
+23 	 0 	 (S/S)/NP 	 1 	 while Of
+25 	 24 	 N/N 	 1 	 % 28
+25 	 26 	 (S[dcl]\NP)/S[dcl] 	 1 	 % said
+26 	 23 	 S[dcl]/S[dcl] 	 1 	 said while
+27 	 28 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 they expect
+27 	 30 	 (S[b]\NP)/NP 	 1 	 they spend <XB>
+28 	 26 	 (S[dcl]\NP)/S[dcl] 	 2 	 expect said
+29 	 28 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expect
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 spend to
+31 	 30 	 (S[b]\NP)/NP 	 2 	 more spend
+34 	 33 	 N/N 	 1 	 % 37
+34 	 35 	 (S[dcl]\NP)/S[dcl] 	 1 	 % said
+35 	 0 	 (S/S)/NP 	 1 	 said Of
+38 	 36 	 NP[nb]/N 	 1 	 budget their
+38 	 37 	 N/N 	 1 	 budget gift
+38 	 39 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 budget would
+38 	 40 	 (S[b]\NP)/NP 	 1 	 budget stay <XB>
+39 	 35 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+40 	 39 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 stay would
+42 	 40 	 (S[b]\NP)/NP 	 2 	 same stay
+42 	 41 	 NP[nb]/N 	 1 	 same the
+<\s>
+<s id="wsj_1654.32"> 11
+1 	 0 	 NP[nb]/N 	 1 	 results The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 results are
+1 	 4 	 (S[adj]\NP)/PP 	 1 	 results identical <XB>
+4 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 identical are
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 identical almost
+5 	 4 	 (S[adj]\NP)/PP 	 2 	 to identical
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Shapiro 's
+10 	 5 	 PP/NP 	 1 	 numbers to
+10 	 7 	 (NP[nb]/N)\NP 	 1 	 numbers 's
+10 	 8 	 N/N 	 1 	 numbers September
+10 	 9 	 N/N 	 1 	 numbers 1988
+<\s>
+<s id="wsj_1654.33"> 10
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Retailers could
+0 	 2 	 ((S[b]\NP)/PP)/NP 	 1 	 Retailers get <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 get could
+2 	 5 	 ((S\NP)\(S\NP))/N 	 2 	 get this
+4 	 2 	 ((S[b]\NP)/PP)/NP 	 3 	 boost get
+4 	 3 	 NP[nb]/N 	 1 	 boost a
+6 	 5 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+7 	 2 	 ((S[b]\NP)/PP)/NP 	 2 	 from get
+9 	 7 	 PP/NP 	 1 	 calendar from
+9 	 8 	 NP[nb]/N 	 1 	 calendar the
+<\s>
+<s id="wsj_1654.34"> 14
+0 	 1 	 S[dcl]\NP 	 1 	 Christmas falls
+0 	 6 	 (S[ng]\NP)/NP 	 1 	 Christmas creating <XB>
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 falls on
+4 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 Monday on
+4 	 3 	 NP[nb]/N 	 1 	 Monday a
+11 	 6 	 (S[ng]\NP)/NP 	 2 	 opportunity creating
+11 	 7 	 NP[nb]/N 	 1 	 opportunity a
+11 	 8 	 N/N 	 1 	 opportunity big
+11 	 9 	 N/N 	 1 	 opportunity last-minute
+11 	 10 	 N/N 	 1 	 opportunity weekend
+11 	 12 	 (NP\NP)/NP 	 1 	 opportunity for
+13 	 12 	 (NP\NP)/NP 	 2 	 stores for
+<\s>
+<s id="wsj_1654.35"> 13
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Most will
+0 	 2 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 Most stay <XB>
+0 	 3 	 S[adj]\NP 	 1 	 Most open <XB>
+0 	 8 	 (S[b]\NP)/NP 	 1 	 Most open <XU>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 stay will
+2 	 4 	 (S\NP)\(S\NP) 	 2 	 stay late
+2 	 6 	 (S\NP)\(S\NP) 	 2 	 stay night
+3 	 2 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 open stay
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 night Saturday
+8 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 open will
+8 	 11 	 (S\NP)\(S\NP) 	 2 	 open again
+8 	 12 	 (S\NP)\(S\NP) 	 2 	 open Sunday
+10 	 8 	 (S[b]\NP)/NP 	 2 	 doors open
+10 	 9 	 NP[nb]/N 	 1 	 doors their
+<\s>
+<s id="wsj_1654.36"> 18
+2 	 1 	 N/N 	 1 	 consumers many
+2 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 consumers will
+2 	 5 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 consumers use <XB>
+4 	 0 	 S/S 	 1 	 will But
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 will probably
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 use will
+8 	 5 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 time use
+8 	 6 	 NP[nb]/N 	 1 	 time the
+8 	 7 	 N/N 	 1 	 time extra
+8 	 10 	 (S[b]\NP)/NP 	 1 	 time put <XB>
+9 	 5 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to use
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 put to
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 put off
+10 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 put until
+13 	 10 	 (S[b]\NP)/NP 	 2 	 purchasing put
+13 	 12 	 NP[nb]/N 	 1 	 purchasing some
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 minute until
+17 	 15 	 NP[nb]/N 	 1 	 minute the
+17 	 16 	 N/N 	 1 	 minute last
+<\s>
+<s id="wsj_1654.37"> 20
+0 	 3 	 (S[b]\NP)/NP 	 2 	 What hear <XU>
+0 	 9 	 (S[dcl]\NP)/S[em] 	 1 	 What is
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you 'll
+1 	 3 	 (S[b]\NP)/NP 	 1 	 you hear <XB>
+2 	 0 	 NP/(S[dcl]/NP) 	 1 	 'll What
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 hear 'll
+3 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 hear as
+5 	 6 	 (S[dcl]\NP)/PP 	 1 	 we get
+6 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 get as
+7 	 6 	 (S[dcl]\NP)/PP 	 2 	 into get
+8 	 7 	 PP/NP 	 1 	 December into
+9 	 15 	 (S[dcl]\S[dcl])/NP 	 1 	 is predicts
+10 	 9 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+11 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 sales are
+11 	 13 	 S[adj]\NP 	 1 	 sales sluggish <XB>
+12 	 10 	 S[em]/S[dcl] 	 1 	 are that
+13 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 sluggish are
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 Woolworth 's
+19 	 15 	 (S[dcl]\S[dcl])/NP 	 2 	 Sells predicts
+19 	 17 	 (NP[nb]/N)\NP 	 1 	 Sells 's
+19 	 18 	 N/N 	 1 	 Sells Mr.
+<\s>
+<s id="wsj_1654.38"> 14
+1 	 0 	 NP[nb]/N 	 1 	 week The
+1 	 2 	 S[ng]\NP 	 1 	 week ending <XB>
+1 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 week is
+1 	 8 	 (S[b]\NP)/NP 	 1 	 week save <XB>
+2 	 3 	 ((S\NP)\(S\NP))/N 	 2 	 ending the
+4 	 3 	 ((S\NP)\(S\NP))/N 	 3 	 24th the
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going is
+7 	 6 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to going
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 save to
+8 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 save for
+11 	 8 	 (S[b]\NP)/NP 	 2 	 month save
+11 	 9 	 NP[nb]/N 	 1 	 month the
+11 	 10 	 N/N 	 1 	 month entire
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 everyone for
+<\s>

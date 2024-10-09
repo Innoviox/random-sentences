@@ -1,0 +1,89 @@
+<s id="wsj_1925.1"> 36
+2 	 0 	 N/N 	 1 	 Mitchell Charles
+2 	 1 	 N/N 	 1 	 Mitchell S.
+2 	 24 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Mitchell was
+2 	 25 	 (S[pss]\NP)/NP 	 1 	 Mitchell named <XB>
+6 	 4 	 NP[nb]/N 	 1 	 president a
+6 	 5 	 N/N 	 1 	 president vice
+6 	 7 	 (NP\NP)/NP 	 1 	 president with
+6 	 24 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 president was
+6 	 25 	 (S[pss]\NP)/NP 	 1 	 president named <XB>
+10 	 7 	 (NP\NP)/NP 	 2 	 Co. with
+10 	 8 	 N/N 	 1 	 Co. Homart
+10 	 9 	 N/N 	 1 	 Co. Development
+16 	 7 	 (NP\NP)/NP 	 2 	 subsidiary with
+16 	 12 	 NP[nb]/N 	 1 	 subsidiary the
+16 	 13 	 N/N 	 1 	 subsidiary real
+16 	 14 	 N/N 	 1 	 subsidiary estate
+16 	 15 	 N/N 	 1 	 subsidiary development
+16 	 17 	 (NP\NP)/NP 	 1 	 subsidiary of
+22 	 17 	 (NP\NP)/NP 	 2 	 Co. of
+22 	 18 	 N/N 	 1 	 Co. Sears
+22 	 20 	 N/N 	 1 	 Co. Roebuck
+22 	 21 	 N/N 	 1 	 Co. &
+25 	 24 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+26 	 25 	 (S[pss]\NP)/NP 	 2 	 president named
+26 	 27 	 (NP\NP)/NP 	 1 	 president of
+29 	 27 	 (NP\NP)/NP 	 2 	 Properties of
+29 	 28 	 N/N 	 1 	 Properties Figgie
+35 	 27 	 (NP\NP)/NP 	 2 	 unit of
+35 	 31 	 NP[nb]/N 	 1 	 unit a
+35 	 32 	 N/N 	 1 	 unit real
+35 	 33 	 N/N 	 1 	 unit estate
+35 	 34 	 N/N 	 1 	 unit development
+<\s>
+<s id="wsj_1925.2"> 10
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 He succeeds
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 Kohut succeeds
+3 	 2 	 N/N 	 1 	 Kohut William
+3 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Kohut who
+3 	 6 	 S[dcl]\NP 	 1 	 Kohut resigned <XB>
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 resigned who
+6 	 8 	 ((S\NP)\(S\NP))/N 	 2 	 resigned this
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 this earlier
+9 	 8 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+<\s>
+<s id="wsj_1925.3"> 34
+4 	 2 	 N/N 	 1 	 Barkley Richard
+4 	 3 	 N/N 	 1 	 Barkley A.
+4 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Barkley was
+4 	 15 	 (S[pss]\NP)/NP 	 1 	 Barkley appointed <XB>
+9 	 6 	 NP[nb]/N 	 1 	 executive a
+9 	 7 	 N/N 	 1 	 executive former
+9 	 8 	 N/N 	 1 	 executive marketing
+9 	 10 	 (NP\NP)/NP 	 1 	 executive with
+9 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 executive was
+9 	 15 	 (S[pss]\NP)/NP 	 1 	 executive appointed <XB>
+12 	 10 	 (NP\NP)/NP 	 2 	 Corp. with
+12 	 11 	 N/N 	 1 	 Corp. FMC
+14 	 0 	 S/S 	 1 	 was Also
+15 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 appointed was
+16 	 15 	 (S[pss]\NP)/NP 	 2 	 president appointed
+16 	 17 	 (NP\NP)/NP 	 1 	 president of
+20 	 17 	 (NP\NP)/NP 	 2 	 Systems of
+20 	 18 	 N/N 	 1 	 Systems Continental
+20 	 19 	 N/N 	 1 	 Systems Container
+23 	 17 	 (NP\NP)/NP 	 2 	 producer of
+23 	 22 	 NP[nb]/N 	 1 	 producer a
+23 	 24 	 (NP\NP)/NP 	 1 	 producer of
+23 	 28 	 (NP\NP)/(S[dcl]/NP) 	 1 	 producer that
+23 	 30 	 (S[dcl]\NP)/NP 	 2 	 producer acquired <XU>
+27 	 24 	 (NP\NP)/NP 	 2 	 machinery of
+27 	 25 	 N/N 	 1 	 machinery can
+27 	 26 	 N/N 	 1 	 machinery closing
+29 	 30 	 (S[dcl]\NP)/NP 	 1 	 Figgie acquired
+30 	 28 	 (NP\NP)/(S[dcl]/NP) 	 2 	 acquired that
+30 	 33 	 (S\NP)\(S\NP) 	 2 	 acquired year
+33 	 31 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year late
+33 	 32 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year last
+<\s>
+<s id="wsj_1925.4"> 11
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Figgie is
+10 	 1 	 (S[dcl]\NP)/NP 	 2 	 concern is
+10 	 2 	 NP[nb]/N 	 1 	 concern a
+10 	 3 	 N/N 	 1 	 concern fire
+10 	 4 	 N/N 	 1 	 concern protection
+10 	 6 	 N/N 	 1 	 concern electronics
+10 	 8 	 N/N 	 1 	 concern industrial
+10 	 9 	 N/N 	 1 	 concern products
+<\s>

@@ -1,0 +1,94 @@
+
+	CCGbank and TGrep2 
+	------------------
+
+
+CCGbank is searchable with TGrep2, an expression matcher for trees developed by Douglas Rohde. 
+
+
+Obtaining TGrep2 
+---------------- 
+TGrep2 is available free of charge from
+	http://tedlab.mit.edu/~dr/TGrep2/ 
+It is governed by the GNU General Public License, version 2.
+ 
+Searching CCGbank with TGrep2 
+-----------------------------
+
+The file ccgbank00-24.t2c contains all sections of CCGbank in TGrep2 format. 
+Assuming this file is in directory $CCG_TGREP2 on your system, 
+set the environment variable TGREP2_CORPUS to $CCG_TGREP2/ccgbank00-24.t2c 
+or invoke  TGrep2 with the option "-c $CCG_TGREP2/ccgbank00-24.t2c", 
+
+If TGrep2 version 1.15 or higher is used on ccgbank00-24.t2, it will run in CCG mode, 
+which differs from its standard mode in the following ways: 
+
+ - In TGrep2's CCG mode, brackets ("[" and "]"), parentheses ("(" and ")") and slashes ("\" and "/") 
+   can be part of a node label, but have to be preceded by a backslash in regular 
+   expression searches
+
+ - In TGrep2's CCG mode, curly brackets ("{" and "}") are used instead of parentheses ("(" and ")") 
+   to specify dominance relations and to bracket the output trees. 
+ 
+ - In TGrep2's CCG mode, the plus and minus signs ("+" and "-") are used instead of brackets ("[" and "]")
+   to group disjunctive terms (eg. "NP [ > PP  | > S ]" in standard TGrep2 becomes "NP + > PP | > S-"
+   in CCG mode. 	 
+
+
+
+A few examples: 
+------------------
+
+% tgrep2  "/.*/</^[Bb]uy/"
+finds all occurrences of words starting with 'buy' or 'Buy'
+and their lexical categories. 
+
+
+% tgrep2  "/.*/</^[Bb]uy/"
+finds all occurrences of words starting with 'buy' or 'Buy' and their lexical categories. 
+
+% tgrep2 -C  "((S[dcl]\NP)/NP)/(S[dcl]\NP)"
+finds all occurrences of the special subject-extracting category ((S[dcl]\NP)/NP)/(S[dcl]\NP), 
+and prints out their file name and sentence number. 
+
+
+% tgrep2 -C  "/^\(S\[.*\]\\NP\)\/NP/</^tak/"
+finds all occurrences of transitive verbs (with any morphosyntactic feature) that have the prefix "tak". 
+In regular expressions over category labels, all slashes, parentheses and brackets have to be escaped 
+(eg. '\[', '\\'). 
+
+
+
+% tgrep2 -wl "(NP\NP)/NP|((S\NP)\(S\NP))/NP|PP/NP<with"
+finds all occurences of 'with' as head of an NP-modifying ("(NP\NP)/NP"), 
+VP-modifying ( "((S\NP)\(S\NP))/NP") or argument ("PP/NP") PP, 
+and pretty-prints ('-l') the entire sentence ('-w')
+
+
+% tgrep2 "{S[dcl] < {NP !<< NP[nb]/N } }"
+finds all occurrences of declarative sentences that have a (subject) NP which does not contain a determiner  with category "NP[nb]/N". 
+
+% tgrep2 -l "S[dcl]<NP"
+finds any sentence that contains an NP and pretty-print the results
+
+% tgrep2 "/^S\[.*\]\\NP/< {/.*/< {/\(S\[.*\]\\NP\)\/NP\[conj\]/ } }"
+finds any VP that contains transitive right node raising (coordination of "S[.*]\NP)/NP"):
+
+
+
+% tgrep2 "NP > /^S\[.*\]/"
+finds any NP that is a subject. 
+
+
+% tgrep2 "NP>/^S\[.*\]\\NP/"
+finds any NP that is a direct object:
+
+% tgrep2 "NP + > PP | > S[dcl]-"
+finds any NP that is dominated either by a PP or a tensed sentence. 
+(In CCG mode, + and - are used instead of [ and ] for node disjunction)
+
+
+
+Acknowledgements
+----------------
+We are very grateful to Doug Rohde for adapting TGrep2 to CCGbank. 

@@ -1,0 +1,236 @@
+<s id="wsj_0129.1"> 28
+2 	 0 	 N/N 	 1 	 Veraldi Lewis
+2 	 1 	 N/N 	 1 	 Veraldi C.
+2 	 21 	 S[dcl]\NP 	 1 	 Veraldi retired
+2 	 24 	 (S[ng]\NP)/NP 	 1 	 Veraldi experiencing <XB>
+5 	 4 	 NP[nb]/N 	 1 	 father the
+5 	 6 	 (NP\NP)/NP 	 1 	 father of
+5 	 21 	 S[dcl]\NP 	 1 	 father retired
+5 	 24 	 (S[ng]\NP)/NP 	 1 	 father experiencing <XB>
+8 	 6 	 (NP\NP)/NP 	 2 	 team of
+8 	 7 	 NP[nb]/N 	 1 	 team the
+8 	 9 	 (NP\NP)/(S[dcl]\NP) 	 1 	 team that
+8 	 10 	 (S[dcl]\NP)/NP 	 1 	 team created <XB>
+10 	 9 	 (NP\NP)/(S[dcl]\NP) 	 2 	 created that
+13 	 12 	 (N/N)/(N/N) 	 2 	 successful highly
+19 	 10 	 (S[dcl]\NP)/NP 	 2 	 cars created
+19 	 11 	 NP[nb]/N 	 1 	 cars the
+19 	 13 	 N/N 	 1 	 cars successful
+19 	 14 	 N/N 	 1 	 cars Ford
+19 	 15 	 N/N 	 1 	 cars Taurus
+19 	 17 	 N/N 	 1 	 cars Mercury
+19 	 18 	 N/N 	 1 	 cars Sable
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 retired early
+21 	 23 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 retired after
+24 	 23 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 experiencing after
+27 	 24 	 (S[ng]\NP)/NP 	 2 	 problems experiencing
+27 	 25 	 N/N 	 1 	 problems recent
+27 	 26 	 N/N 	 1 	 problems heart
+<\s>
+<s id="wsj_0129.2"> 23
+1 	 0 	 (S/S)/(S/S) 	 2 	 recently Most
+4 	 3 	 N/N 	 1 	 Veraldi Mr.
+4 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Veraldi has
+4 	 11 	 (S[pt]\NP)/NP 	 1 	 Veraldi been <XB>
+8 	 6 	 N/N 	 1 	 old 59
+8 	 7 	 N/N 	 1 	 old years
+8 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 old has
+8 	 11 	 (S[pt]\NP)/NP 	 1 	 old been <XB>
+10 	 1 	 S/S 	 1 	 has recently
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+13 	 11 	 (S[pt]\NP)/NP 	 2 	 president been
+13 	 12 	 N/N 	 1 	 president vice
+13 	 14 	 (NP\NP)/NP 	 1 	 president of
+13 	 19 	 (NP\NP)/NP 	 1 	 president at
+18 	 14 	 (NP\NP)/NP 	 2 	 engineering of
+18 	 15 	 N/N 	 1 	 engineering product
+18 	 17 	 N/N 	 1 	 engineering manufacturing
+22 	 19 	 (NP\NP)/NP 	 2 	 Co at
+22 	 20 	 N/N 	 1 	 Co Ford
+22 	 21 	 N/N 	 1 	 Co Motor
+<\s>
+<s id="wsj_0129.3"> 61
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 he is
+1 	 4 	 (S[pss]\NP)/PP 	 1 	 he known <XB>
+2 	 0 	 S/S 	 1 	 is But
+4 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 known is
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 known best
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 known in
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 industry in
+8 	 6 	 NP[nb]/N 	 1 	 industry the
+8 	 7 	 N/N 	 1 	 industry auto
+9 	 4 	 (S[pss]\NP)/PP 	 2 	 as known
+11 	 9 	 PP/NP 	 1 	 creator as
+11 	 10 	 NP[nb]/N 	 1 	 creator the
+11 	 12 	 (NP\NP)/NP 	 1 	 creator of
+16 	 12 	 (NP\NP)/NP 	 2 	 approach of
+16 	 13 	 NP[nb]/N 	 1 	 approach a
+16 	 14 	 N/N 	 1 	 approach team
+16 	 15 	 N/N 	 1 	 approach car-development
+16 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 approach that
+16 	 18 	 (S[dcl]\NP)/NP 	 1 	 approach produced <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 produced that
+22 	 18 	 (S[dcl]\NP)/NP 	 2 	 cars produced
+22 	 19 	 NP[nb]/N 	 1 	 cars the
+22 	 20 	 N/N 	 1 	 cars two
+22 	 21 	 N/N 	 1 	 cars midsized
+22 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 cars that
+22 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 cars were <XB>
+22 	 25 	 (S[adj]\NP)/PP 	 1 	 cars instrumental <XB>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 were that
+25 	 24 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 instrumental were
+26 	 25 	 (S[adj]\NP)/PP 	 2 	 in instrumental
+27 	 26 	 PP/(S[ng]\NP) 	 1 	 helping in
+32 	 27 	 ((S[ng]\NP)/(S[b]\NP))/NP 	 3 	 maker helping
+32 	 28 	 NP[nb]/N 	 1 	 maker the
+32 	 29 	 N/N 	 1 	 maker No.
+32 	 30 	 N/N 	 1 	 maker 2
+32 	 31 	 N/N 	 1 	 maker auto
+32 	 33 	 (S[b]\NP)/NP 	 1 	 maker record <XB>
+33 	 27 	 ((S[ng]\NP)/(S[b]\NP))/NP 	 2 	 record helping
+33 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 record in
+34 	 33 	 (S[b]\NP)/NP 	 2 	 profits record
+37 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 years in
+37 	 36 	 N/N 	 1 	 years recent
+39 	 25 	 (S[adj]\NP)/PP 	 2 	 in instrumental
+40 	 39 	 PP/(S[ng]\NP) 	 1 	 enabling in
+42 	 41 	 NP[nb]/N 	 1 	 company the
+42 	 43 	 (NP[nb]/N)\NP 	 2 	 company 's
+45 	 40 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 division enabling
+45 	 43 	 (NP[nb]/N)\NP 	 1 	 division 's
+45 	 44 	 N/N 	 1 	 division Ford
+45 	 47 	 ((S[b]\NP)/PP)/NP 	 1 	 division eclipse <XB>
+46 	 40 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to enabling
+47 	 46 	 (S[to]\NP)/(S[b]\NP) 	 2 	 eclipse to
+50 	 48 	 N/N 	 1 	 Corp. General
+50 	 49 	 N/N 	 1 	 Corp. Motors
+50 	 51 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+53 	 47 	 ((S[b]\NP)/PP)/NP 	 3 	 division eclipse
+53 	 51 	 (NP[nb]/N)\NP 	 1 	 division 's
+53 	 52 	 N/N 	 1 	 division Chevrolet
+54 	 47 	 ((S[b]\NP)/PP)/NP 	 2 	 as eclipse
+57 	 54 	 PP/NP 	 1 	 nameplate as
+57 	 55 	 NP[nb]/N 	 1 	 nameplate the
+57 	 56 	 N/N 	 1 	 nameplate top-selling
+57 	 58 	 (NP\NP)/NP 	 1 	 nameplate in
+60 	 58 	 (NP\NP)/NP 	 2 	 U.S. in
+60 	 59 	 NP[nb]/N 	 1 	 U.S. the
+<\s>
+<s id="wsj_0129.4"> 38
+5 	 0 	 (S/S)/NP 	 2 	 approach Under
+5 	 1 	 NP[nb]/N 	 1 	 approach the
+5 	 2 	 N/N 	 1 	 approach so-called
+5 	 3 	 N/N 	 1 	 approach Team
+5 	 4 	 N/N 	 1 	 approach Taurus
+8 	 7 	 N/N 	 1 	 Veraldi Mr.
+8 	 14 	 (S[dcl]\NP)/NP 	 1 	 Veraldi sought
+13 	 10 	 N/N 	 1 	 planners other
+13 	 11 	 N/N 	 1 	 planners Ford
+13 	 12 	 N/N 	 1 	 planners product
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 planners sought
+14 	 0 	 (S/S)/NP 	 1 	 sought Under
+14 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 sought from
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 involvement sought
+16 	 15 	 NP[nb]/N 	 1 	 involvement the
+16 	 17 	 (NP\NP)/NP 	 1 	 involvement of
+19 	 17 	 (NP\NP)/NP 	 2 	 suppliers of
+19 	 18 	 N/N 	 1 	 suppliers parts
+22 	 17 	 (NP\NP)/NP 	 2 	 workers of
+22 	 21 	 N/N 	 1 	 workers assembly-line
+25 	 17 	 (NP\NP)/NP 	 2 	 designers of
+25 	 24 	 N/N 	 1 	 designers auto
+29 	 17 	 (NP\NP)/NP 	 2 	 members of
+29 	 27 	 N/N 	 1 	 members financial
+29 	 28 	 N/N 	 1 	 members staff
+33 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 stages from
+33 	 31 	 NP[nb]/N 	 1 	 stages the
+33 	 32 	 N/N 	 1 	 stages initial
+33 	 34 	 (NP\NP)/NP 	 1 	 stages of
+37 	 34 	 (NP\NP)/NP 	 2 	 cycle of
+37 	 35 	 NP[nb]/N 	 1 	 cycle the
+37 	 36 	 N/N 	 1 	 cycle development
+<\s>
+<s id="wsj_0129.5"> 19
+1 	 0 	 NP[nb]/N 	 1 	 concept The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 concept 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 goal 's
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 goal was
+3 	 6 	 (S[b]\NP)/NP 	 1 	 goal eliminate <XB>
+3 	 9 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 goal make <XU>
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to was
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 eliminate to
+7 	 6 	 (S[b]\NP)/NP 	 2 	 bureaucracy eliminate
+9 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Ford 's
+13 	 9 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 development make
+13 	 11 	 (NP[nb]/N)\NP 	 1 	 development 's
+13 	 12 	 N/N 	 1 	 development product
+13 	 15 	 (S[adj]\NP)/PP 	 1 	 development responsive <XB>
+15 	 9 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 responsive make
+15 	 14 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 responsive more
+16 	 15 	 (S[adj]\NP)/PP 	 2 	 to responsive
+18 	 16 	 PP/NP 	 1 	 demands to
+18 	 17 	 N/N 	 1 	 demands consumer
+<\s>
+<s id="wsj_0129.6"> 19
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 It was
+0 	 3 	 (S[pss]\NP)/PP 	 1 	 It applied <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 was later
+3 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 applied was
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 to applied
+7 	 4 	 PP/NP 	 1 	 programs to
+7 	 5 	 N/N 	 1 	 programs other
+7 	 6 	 N/N 	 1 	 programs new-car
+7 	 9 	 (NP\NP)/NP 	 1 	 programs including
+10 	 9 	 (NP\NP)/NP 	 2 	 those including
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 those that
+10 	 12 	 (S[dcl]\NP)/NP 	 1 	 those produced <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 produced that
+15 	 12 	 (S[dcl]\NP)/NP 	 2 	 Thunderbird produced
+15 	 13 	 NP[nb]/N 	 1 	 Thunderbird the
+15 	 14 	 N/N 	 1 	 Thunderbird Ford
+18 	 12 	 (S[dcl]\NP)/NP 	 2 	 Cougar produced
+18 	 13 	 NP[nb]/N 	 1 	 Cougar the
+18 	 14 	 N/N 	 1 	 Cougar Ford
+18 	 17 	 N/N 	 1 	 Cougar Mercury
+<\s>
+<s id="wsj_0129.7"> 21
+4 	 0 	 N/N 	 1 	 Petersen Ford
+4 	 1 	 N/N 	 1 	 Petersen Chairman
+4 	 2 	 N/N 	 1 	 Petersen Donald
+4 	 3 	 N/N 	 1 	 Petersen E.
+4 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 Petersen said
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 said yesterday
+7 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+9 	 8 	 N/N 	 1 	 Veraldi Mr.
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Veraldi has
+9 	 11 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 Veraldi helped <XB>
+9 	 13 	 (S[b]\NP)/NP 	 1 	 Veraldi change <XB>
+10 	 7 	 S[em]/S[dcl] 	 1 	 has that
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 helped has
+12 	 11 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to helped
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 change to
+15 	 14 	 NP[nb]/N 	 1 	 world the
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 world 's
+17 	 13 	 (S[b]\NP)/NP 	 2 	 perception change
+17 	 16 	 (NP[nb]/N)\NP 	 1 	 perception 's
+17 	 18 	 (NP\NP)/NP 	 1 	 perception of
+20 	 18 	 (NP\NP)/NP 	 2 	 cars of
+20 	 19 	 N/N 	 1 	 cars American-made
+<\s>
+<s id="wsj_0129.8"> 17
+1 	 0 	 N/N 	 1 	 Veraldi Mr.
+1 	 2 	 S[dcl]\NP 	 1 	 Veraldi worked
+1 	 9 	 (S[ng]\NP)/NP 	 1 	 Veraldi holding <XB>
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 worked at
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 worked for
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Ford at
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+7 	 6 	 N/N 	 1 	 years 40
+11 	 9 	 (S[ng]\NP)/NP 	 2 	 variety holding
+11 	 10 	 NP[nb]/N 	 1 	 variety a
+11 	 12 	 (NP\NP)/NP 	 1 	 variety of
+16 	 12 	 (NP\NP)/NP 	 2 	 positions of
+16 	 13 	 N/N 	 1 	 positions car
+16 	 15 	 N/N 	 1 	 positions parts-engineering
+<\s>

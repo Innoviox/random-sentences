@@ -1,0 +1,394 @@
+<s id="wsj_0702.1"> 40
+1 	 0 	 N/N 	 1 	 Corp. Unocal
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 decision 's
+3 	 5 	 ((S[b]\NP)/PP)/NP 	 1 	 decision put <XB>
+3 	 18 	 (S[dcl]\NP)/NP 	 1 	 decision is
+3 	 32 	 (S[dcl]\NP)/S[em] 	 1 	 decision shows <XU>
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 put to
+5 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 put earlier
+11 	 5 	 ((S[b]\NP)/PP)/NP 	 3 	 interests put
+11 	 6 	 NP[nb]/N 	 1 	 interests its
+11 	 7 	 N/N 	 1 	 interests Norwegian
+11 	 8 	 N/N 	 1 	 interests oil
+11 	 10 	 N/N 	 1 	 interests gas
+13 	 5 	 ((S[b]\NP)/PP)/NP 	 2 	 for put
+13 	 12 	 PP/PP 	 1 	 for up
+14 	 13 	 PP/NP 	 1 	 sale for
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 week earlier
+17 	 16 	 NP[nb]/N 	 1 	 week this
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 step is
+20 	 19 	 NP[nb]/N 	 1 	 step another
+20 	 21 	 (NP\NP)/NP 	 1 	 step in
+23 	 22 	 NP[nb]/N 	 1 	 company the
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 company 's
+26 	 21 	 (NP\NP)/NP 	 2 	 review in
+26 	 24 	 (NP[nb]/N)\NP 	 1 	 review 's
+26 	 25 	 N/N 	 1 	 review strategic
+26 	 27 	 (NP\NP)/NP 	 1 	 review of
+29 	 27 	 (NP\NP)/NP 	 2 	 properties of
+29 	 28 	 NP[nb]/N 	 1 	 properties its
+33 	 32 	 (S[dcl]\NP)/S[em] 	 2 	 that shows
+34 	 35 	 (NP\NP)/NP 	 1 	 few of
+34 	 37 	 (S[dcl]\NP)/NP 	 1 	 few are
+36 	 35 	 (NP\NP)/NP 	 2 	 them of
+37 	 33 	 S[em]/S[dcl] 	 1 	 are that
+39 	 37 	 (S[dcl]\NP)/NP 	 2 	 cows are
+39 	 38 	 N/N 	 1 	 cows sacred
+<\s>
+<s id="wsj_0702.2"> 11
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 company declined
+1 	 4 	 (S[b]\NP)/NP 	 1 	 company estimate <XB>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 estimate to
+6 	 4 	 (S[b]\NP)/NP 	 2 	 value estimate
+6 	 5 	 NP[nb]/N 	 1 	 value the
+6 	 7 	 (NP\NP)/NP 	 1 	 value of
+10 	 7 	 (NP\NP)/NP 	 2 	 holding of
+10 	 8 	 NP[nb]/N 	 1 	 holding the
+10 	 9 	 N/N 	 1 	 holding Norwegian
+<\s>
+<s id="wsj_0702.3"> 26
+3 	 1 	 N/N 	 1 	 Nowak Eugene
+3 	 2 	 N/N 	 1 	 Nowak L.
+3 	 13 	 (S[dcl]\NP)/S[em] 	 1 	 Nowak forecast
+6 	 5 	 NP[nb]/N 	 1 	 analyst an
+6 	 7 	 (NP\NP)/NP 	 1 	 analyst at
+6 	 13 	 (S[dcl]\NP)/S[em] 	 1 	 analyst forecast
+11 	 7 	 (NP\NP)/NP 	 2 	 Inc. at
+11 	 8 	 N/N 	 1 	 Inc. Dean
+11 	 9 	 N/N 	 1 	 Inc. Witter
+11 	 10 	 N/N 	 1 	 Inc. Reynolds
+13 	 0 	 S/S 	 1 	 forecast But
+14 	 13 	 (S[dcl]\NP)/S[em] 	 2 	 that forecast
+16 	 15 	 NP[nb]/N 	 1 	 sale the
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 sale will
+16 	 18 	 (S[b]\NP)/NP 	 1 	 sale bring <XB>
+17 	 14 	 S[em]/S[dcl] 	 1 	 will that
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 bring will
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 bring in
+20 	 18 	 (S[b]\NP)/NP 	 2 	 $ bring
+22 	 20 	 N/N[num] 	 1 	 million $
+22 	 21 	 N/N 	 1 	 million 200
+25 	 18 	 (S[b]\NP)/NP 	 2 	 more bring
+25 	 24 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 more substantially
+<\s>
+<s id="wsj_0702.4"> 48
+2 	 0 	 NP[nb]/N 	 1 	 transaction The
+2 	 1 	 N/N 	 1 	 transaction proposed
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 transaction is
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 latest is
+5 	 4 	 NP[nb]/N 	 1 	 latest the
+5 	 6 	 (NP\NP)/NP 	 1 	 latest in
+8 	 6 	 (NP\NP)/NP 	 2 	 redeployment in
+8 	 7 	 NP[nb]/N 	 1 	 redeployment a
+8 	 9 	 (NP\NP)/NP 	 1 	 redeployment of
+8 	 11 	 (NP\NP)/NP 	 1 	 redeployment by
+10 	 9 	 (NP\NP)/NP 	 2 	 assets of
+16 	 11 	 (NP\NP)/NP 	 2 	 company by
+16 	 12 	 NP[nb]/N 	 1 	 company the
+16 	 13 	 N/N 	 1 	 company Los
+16 	 14 	 N/N 	 1 	 company Angeles-based
+16 	 15 	 N/N 	 1 	 company oil
+16 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 company that
+16 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company has <XB>
+16 	 19 	 (S[pt]\NP)/NP 	 1 	 company included <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has that
+19 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 included has
+23 	 21 	 (N/N)/N[num] 	 2 	 million $
+23 	 22 	 N/N 	 1 	 million 200
+24 	 19 	 (S[pt]\NP)/NP 	 2 	 sale included
+24 	 20 	 NP[nb]/N 	 1 	 sale the
+24 	 21 	 (N/N)/N[num] 	 1 	 sale $
+24 	 25 	 (NP\NP)/NP 	 1 	 sale of
+28 	 25 	 (NP\NP)/NP 	 2 	 property of
+28 	 26 	 NP[nb]/N 	 1 	 property its
+28 	 27 	 N/N 	 1 	 property headquarters
+30 	 19 	 (S[pt]\NP)/NP 	 2 	 the included
+30 	 33 	 (NP\NP)/NP 	 1 	 the of
+32 	 30 	 (NP/PP)/N 	 2 	 sale the
+32 	 31 	 N/N 	 1 	 sale pending
+34 	 33 	 (NP\NP)/NP 	 2 	 half of
+34 	 35 	 (NP\NP)/NP 	 1 	 half of
+42 	 35 	 (NP\NP)/NP 	 2 	 operations of
+42 	 36 	 NP[nb]/N 	 1 	 operations its
+42 	 37 	 N/N 	 1 	 operations Chicago
+42 	 38 	 N/N 	 1 	 operations refinery
+42 	 40 	 N/N 	 1 	 operations related
+42 	 41 	 N/N 	 1 	 operations marketing
+43 	 30 	 (NP/PP)/N 	 1 	 to the
+47 	 43 	 PP/NP 	 1 	 S.A to
+47 	 44 	 N/N 	 1 	 S.A Petroleos
+47 	 45 	 N/N 	 1 	 S.A de
+47 	 46 	 N/N 	 1 	 S.A Venezuela
+<\s>
+<s id="wsj_0702.5"> 34
+1 	 0 	 N/N 	 1 	 Nowak Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Nowak said
+3 	 4 	 ((S[dcl]\NP)/PP)/NP 	 1 	 he attaches
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 attaches said
+4 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 attaches because
+6 	 4 	 ((S[dcl]\NP)/PP)/NP 	 3 	 importance attaches
+6 	 5 	 N/N 	 1 	 importance particular
+7 	 4 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to attaches
+10 	 7 	 PP/NP 	 1 	 sale to
+10 	 8 	 NP[nb]/N 	 1 	 sale the
+10 	 9 	 N/N 	 1 	 sale proposed
+12 	 13 	 (S[dcl]\NP)/S[em] 	 1 	 it suggests
+13 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 suggests because
+14 	 13 	 (S[dcl]\NP)/S[em] 	 2 	 that suggests
+16 	 15 	 NP[nb]/N 	 1 	 company the
+16 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 company is
+16 	 18 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 company willing <XB>
+17 	 14 	 S[em]/S[dcl] 	 1 	 is that
+18 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 willing is
+19 	 18 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to willing
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+24 	 20 	 (S[b]\NP)/NP 	 2 	 assets sell
+24 	 21 	 N/N 	 1 	 assets oil
+24 	 23 	 N/N 	 1 	 assets gas
+24 	 25 	 (NP\NP)/(S[dcl]\NP) 	 1 	 assets that
+24 	 26 	 (S[dcl]\NP)/NP 	 1 	 assets are <XB>
+26 	 25 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+26 	 27 	 (S\NP)\(S\NP) 	 2 	 are n't
+28 	 26 	 (S[dcl]\NP)/NP 	 2 	 part are
+28 	 29 	 (NP\NP)/NP 	 1 	 part of
+33 	 29 	 (NP\NP)/NP 	 2 	 strengths of
+33 	 30 	 NP[nb]/N 	 1 	 strengths its
+33 	 31 	 N/N 	 1 	 strengths major
+33 	 32 	 N/N 	 1 	 strengths strategic
+<\s>
+<s id="wsj_0702.6"> 19
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Unocal said
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it expects
+2 	 5 	 (S[b]\NP)/NP 	 1 	 it complete <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 complete to
+5 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 complete by
+7 	 5 	 (S[b]\NP)/NP 	 2 	 sale complete
+7 	 6 	 NP[nb]/N 	 1 	 sale the
+7 	 8 	 (NP\NP)/NP 	 1 	 sale of
+13 	 8 	 (NP\NP)/NP 	 2 	 unit of
+13 	 9 	 NP[nb]/N 	 1 	 unit its
+13 	 10 	 N/N 	 1 	 unit Unocal
+13 	 11 	 N/N 	 1 	 unit Norge
+13 	 12 	 N/N 	 1 	 unit A\/S
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 March by
+16 	 15 	 N/N 	 1 	 March next
+18 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 April by
+18 	 15 	 N/N 	 1 	 April next
+<\s>
+<s id="wsj_0702.7"> 34
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+1 	 2 	 (NP\NP)/NP 	 1 	 addition to
+5 	 4 	 (N/N)/(N/N) 	 2 	 % 18
+6 	 2 	 (NP\NP)/NP 	 2 	 stake to
+6 	 3 	 NP[nb]/N 	 1 	 stake an
+6 	 5 	 N/N 	 1 	 stake %
+6 	 7 	 (NP\NP)/NP 	 1 	 stake in
+11 	 7 	 (NP\NP)/NP 	 2 	 field in
+11 	 8 	 NP[nb]/N 	 1 	 field the
+11 	 9 	 N/N 	 1 	 field Veslefrikk
+11 	 10 	 N/N 	 1 	 field offshore
+15 	 13 	 NP[nb]/N 	 1 	 unit the
+15 	 14 	 N/N 	 1 	 unit Norwegian
+15 	 16 	 (S[dcl]\NP)/NP 	 1 	 unit has
+16 	 0 	 (S/S)/NP 	 1 	 has In
+17 	 16 	 (S[dcl]\NP)/NP 	 2 	 interests has
+17 	 18 	 S[ng]\NP 	 1 	 interests ranging <XB>
+17 	 25 	 (NP\NP)/NP 	 1 	 interests in
+18 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 ranging to
+21 	 19 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 % from
+21 	 20 	 N/N 	 1 	 % 10
+22 	 19 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 to from
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+24 	 23 	 N/N 	 1 	 % 25
+33 	 25 	 (NP\NP)/NP 	 2 	 licenses in
+33 	 26 	 N/N 	 1 	 licenses three
+33 	 27 	 N/N 	 1 	 licenses other
+33 	 28 	 N/N 	 1 	 licenses Norwegian
+33 	 29 	 N/N 	 1 	 licenses oil
+33 	 31 	 N/N 	 1 	 licenses gas
+33 	 32 	 N/N 	 1 	 licenses production
+<\s>
+<s id="wsj_0702.8"> 30
+1 	 0 	 (S/S)/NP 	 2 	 1986 In
+3 	 4 	 (((S[dcl]\NP)/PP)/PP)/NP 	 1 	 Unocal sold
+4 	 0 	 (S/S)/NP 	 1 	 sold In
+7 	 6 	 (N/N)/(N/N) 	 2 	 % 7.5
+8 	 4 	 (((S[dcl]\NP)/PP)/PP)/NP 	 4 	 stake sold
+8 	 5 	 NP[nb]/N 	 1 	 stake a
+8 	 7 	 N/N 	 1 	 stake %
+8 	 9 	 (NP\NP)/NP 	 1 	 stake in
+12 	 9 	 (NP\NP)/NP 	 2 	 field in
+12 	 10 	 NP[nb]/N 	 1 	 field the
+12 	 11 	 N/N 	 1 	 field Veslefrikk
+13 	 4 	 (((S[dcl]\NP)/PP)/PP)/NP 	 3 	 to sold
+18 	 13 	 PP/NP 	 1 	 H. to
+18 	 14 	 N/N 	 1 	 H. Deutsche
+18 	 15 	 N/N 	 1 	 H. Erdolversorgungs
+18 	 16 	 N/N 	 1 	 H. G.m.b
+24 	 13 	 PP/NP 	 1 	 company to
+24 	 20 	 NP[nb]/N 	 1 	 company a
+24 	 21 	 N/N 	 1 	 company West
+24 	 22 	 N/N 	 1 	 company German
+24 	 23 	 N/N 	 1 	 company oil
+26 	 4 	 (((S[dcl]\NP)/PP)/PP)/NP 	 2 	 for sold
+29 	 26 	 PP/NP 	 1 	 amount for
+29 	 27 	 NP[nb]/N 	 1 	 amount an
+29 	 28 	 N/N 	 1 	 amount undisclosed
+<\s>
+<s id="wsj_0702.9"> 28
+1 	 0 	 (S/S)/NP 	 2 	 1987 In
+3 	 4 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it sold
+3 	 20 	 (S[ng]\NP)/PP 	 1 	 it resulting <XB>
+4 	 0 	 (S/S)/NP 	 1 	 sold In
+7 	 6 	 (N/N)/(N/N) 	 2 	 % 2.5
+8 	 4 	 ((S[dcl]\NP)/PP)/NP 	 3 	 stake sold
+8 	 5 	 NP[nb]/N 	 1 	 stake a
+8 	 7 	 N/N 	 1 	 stake %
+8 	 9 	 (NP\NP)/NP 	 1 	 stake in
+12 	 9 	 (NP\NP)/NP 	 2 	 field in
+12 	 10 	 NP[nb]/N 	 1 	 field the
+12 	 11 	 N/N 	 1 	 field Veslefrikk
+13 	 4 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to sold
+18 	 13 	 PP/NP 	 1 	 company to
+18 	 14 	 NP[nb]/N 	 1 	 company the
+18 	 15 	 N/N 	 1 	 company Swedish
+18 	 16 	 N/N 	 1 	 company national
+18 	 17 	 N/N 	 1 	 company oil
+21 	 20 	 (S[ng]\NP)/PP 	 2 	 in resulting
+25 	 23 	 (N/N)/N[num] 	 2 	 million $
+25 	 24 	 N/N 	 1 	 million 7
+27 	 21 	 PP/NP 	 1 	 gain in
+27 	 22 	 NP[nb]/N 	 1 	 gain a
+27 	 23 	 (N/N)/N[num] 	 1 	 gain $
+27 	 26 	 N/N 	 1 	 gain after-tax
+<\s>
+<s id="wsj_0702.10"> 17
+3 	 2 	 NP[nb]/N 	 1 	 sales those
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 sales were
+3 	 5 	 (S[adj]\NP)/PP 	 1 	 sales early <XB>
+4 	 0 	 S/S 	 1 	 were However
+4 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 were before
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 early were
+6 	 5 	 (S[adj]\NP)/PP 	 2 	 in early
+8 	 7 	 NP[nb]/N 	 1 	 field the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 field 's
+10 	 6 	 PP/NP 	 1 	 history in
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 history 's
+14 	 13 	 N/N 	 1 	 equipment production
+14 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 equipment was
+14 	 16 	 S[pss]\NP 	 1 	 equipment installed <XB>
+15 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was before
+16 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 installed was
+<\s>
+<s id="wsj_0702.11"> 18
+1 	 0 	 NP[nb]/N 	 1 	 field The
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 field is
+1 	 4 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 field being <XB>
+1 	 5 	 S[pss]\NP 	 1 	 field developed <XB>
+1 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 field is <XU>
+1 	 8 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 field slated <XU>
+1 	 10 	 (S[b]\NP)/NP 	 1 	 field start <XU>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 is currently
+4 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being is
+5 	 4 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 developed being
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 slated is
+9 	 8 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to slated
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 start to
+10 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 start by
+11 	 10 	 (S[b]\NP)/NP 	 2 	 production start
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 end by
+14 	 13 	 NP[nb]/N 	 1 	 end the
+14 	 15 	 (NP\NP)/NP 	 1 	 end of
+17 	 15 	 (NP\NP)/NP 	 2 	 year of
+17 	 16 	 NP[nb]/N 	 1 	 year the
+<\s>
+<s id="wsj_0702.12"> 10
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 It 's
+0 	 2 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 It expected <XB>
+0 	 4 	 (S[b]\NP)/NP 	 1 	 It produce <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 expected 's
+3 	 2 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to expected
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 produce to
+6 	 5 	 (N/N)/(N/N) 	 2 	 62,000 about
+7 	 4 	 (S[b]\NP)/NP 	 2 	 barrels produce
+7 	 6 	 N/N 	 1 	 barrels 62,000
+7 	 8 	 (NP\NP)/NP 	 1 	 barrels per
+9 	 8 	 (NP\NP)/NP 	 2 	 day per
+<\s>
+<s id="wsj_0702.13"> 18
+2 	 0 	 NP[nb]/N 	 1 	 spokesman A
+2 	 1 	 N/N 	 1 	 spokesman company
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+6 	 4 	 NP[nb]/N 	 1 	 field the
+6 	 5 	 N/N 	 1 	 field Veslefrikk
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 field 's
+9 	 7 	 (NP[nb]/N)\NP 	 1 	 reserves 's
+9 	 8 	 N/N 	 1 	 reserves gross
+9 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 reserves were
+9 	 11 	 (S[pss]\NP)/PP 	 1 	 reserves estimated <XB>
+10 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 estimated were
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 estimated in
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 1987 in
+14 	 11 	 (S[pss]\NP)/PP 	 2 	 at estimated
+16 	 15 	 (N/N)/(N/N) 	 2 	 million 229
+17 	 14 	 PP/NP 	 1 	 barrels at
+17 	 16 	 N/N 	 1 	 barrels million
+<\s>
+<s id="wsj_0702.14"> 18
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 he added
+3 	 0 	 S/S 	 1 	 added However
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that added
+6 	 5 	 NP[nb]/N 	 1 	 estimate that
+6 	 8 	 S[pss]\NP 	 1 	 estimate made <XB>
+6 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 estimate is
+6 	 16 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 estimate being <XB>
+6 	 17 	 S[pss]\NP 	 1 	 estimate reappraised <XB>
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 made before
+12 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 drilling before
+12 	 10 	 N/N 	 1 	 drilling extensive
+12 	 11 	 N/N 	 1 	 drilling development
+15 	 4 	 S[em]/S[dcl] 	 1 	 is that
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 is currently
+16 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being is
+17 	 16 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 reappraised being
+<\s>
+<s id="wsj_0702.15"> 11
+1 	 0 	 NP[nb]/N 	 1 	 spokesman The
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+3 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Unocal has
+3 	 5 	 (S[pt]\NP)/NP 	 1 	 Unocal had <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 had has
+7 	 5 	 (S[pt]\NP)/NP 	 2 	 interest had
+7 	 6 	 N/N 	 1 	 interest considerable
+7 	 8 	 (NP\NP)/NP 	 1 	 interest from
+10 	 8 	 (NP\NP)/NP 	 2 	 buyers from
+10 	 9 	 N/N 	 1 	 buyers prospective
+<\s>
+<s id="wsj_0702.16"> 18
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company has
+1 	 3 	 ((S[pt]\NP)/PP)/NP 	 1 	 company retained <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 retained has
+9 	 3 	 ((S[pt]\NP)/PP)/NP 	 3 	 Co. retained
+9 	 4 	 N/N 	 1 	 Co. J.
+9 	 5 	 N/N 	 1 	 Co. Henry
+9 	 6 	 N/N 	 1 	 Co. Schroder
+9 	 7 	 N/N 	 1 	 Co. Wagg
+9 	 8 	 N/N 	 1 	 Co. &
+10 	 3 	 ((S[pt]\NP)/PP)/NP 	 2 	 as retained
+12 	 10 	 PP/NP 	 1 	 adviser as
+12 	 11 	 N/N 	 1 	 adviser financial
+12 	 15 	 (NP\NP)/NP 	 1 	 adviser for
+14 	 10 	 PP/NP 	 1 	 agent as
+14 	 11 	 N/N 	 1 	 agent financial
+14 	 15 	 (NP\NP)/NP 	 1 	 agent for
+17 	 15 	 (NP\NP)/NP 	 2 	 sale for
+17 	 16 	 NP[nb]/N 	 1 	 sale the
+<\s>

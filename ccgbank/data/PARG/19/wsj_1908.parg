@@ -1,0 +1,122 @@
+<s id="wsj_1908.1"> 25
+3 	 0 	 N/N 	 1 	 PLC Hawker
+3 	 1 	 N/N 	 1 	 PLC Siddeley
+3 	 2 	 N/N 	 1 	 PLC Group
+3 	 10 	 (S[dcl]\NP)/NP 	 1 	 PLC reported
+8 	 5 	 NP[nb]/N 	 1 	 company a
+8 	 6 	 N/N 	 1 	 company U.K.
+8 	 7 	 N/N 	 1 	 company engineering
+8 	 10 	 (S[dcl]\NP)/NP 	 1 	 company reported
+13 	 12 	 (N/N)/(N/N) 	 2 	 % 16
+14 	 10 	 (S[dcl]\NP)/NP 	 2 	 jump reported
+14 	 11 	 NP[nb]/N 	 1 	 jump a
+14 	 13 	 N/N 	 1 	 jump %
+14 	 15 	 (NP\NP)/NP 	 1 	 jump in
+14 	 18 	 (NP\NP)/NP 	 1 	 jump for
+17 	 15 	 (NP\NP)/NP 	 2 	 profit in
+17 	 16 	 N/N 	 1 	 profit pretax
+21 	 18 	 (NP\NP)/NP 	 2 	 period for
+21 	 19 	 NP[nb]/N 	 1 	 period the
+21 	 20 	 N/N 	 1 	 period six-month
+21 	 22 	 S[ng]\NP 	 1 	 period ending <XB>
+22 	 23 	 ((S\NP)\(S\NP))/N[num] 	 2 	 ending June
+24 	 23 	 ((S\NP)\(S\NP))/N[num] 	 3 	 30 June
+<\s>
+<s id="wsj_1908.2"> 37
+1 	 0 	 N/N 	 1 	 profit Pretax
+1 	 2 	 S[dcl]\NP 	 1 	 profit rose
+1 	 22 	 (S[ng]\NP)/NP 	 1 	 profit matching <XB>
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+2 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 # to
+4 	 7 	 (NP\NP)/NP 	 1 	 # -LRB-
+6 	 4 	 N/N[num] 	 1 	 million #
+6 	 5 	 N/N 	 1 	 million 93.2
+8 	 7 	 (NP\NP)/NP 	 2 	 $ -LRB-
+10 	 8 	 N/N[num] 	 1 	 million $
+10 	 9 	 N/N 	 1 	 million 146.8
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 # from
+13 	 16 	 (NP\NP)/NP 	 1 	 # -LRB-
+15 	 13 	 N/N[num] 	 1 	 million #
+15 	 14 	 N/N 	 1 	 million 80.6
+17 	 16 	 (NP\NP)/NP 	 2 	 $ -LRB-
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 127
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 analysts '
+25 	 22 	 (S[ng]\NP)/NP 	 2 	 expectations matching
+25 	 24 	 (NP[nb]/N)\NP 	 1 	 expectations '
+25 	 27 	 (NP\NP)/(S[dcl]\NP) 	 1 	 expectations which
+25 	 28 	 S[dcl]\NP 	 1 	 expectations ranged <XB>
+28 	 27 	 (NP\NP)/(S[dcl]\NP) 	 2 	 ranged which
+28 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 ranged to
+30 	 29 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 # from
+32 	 30 	 N/N[num] 	 1 	 million #
+32 	 31 	 N/N 	 1 	 million 90
+33 	 29 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 to from
+34 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 # to
+36 	 34 	 N/N[num] 	 1 	 million #
+36 	 35 	 N/N 	 1 	 million 95
+<\s>
+<s id="wsj_1908.3"> 43
+0 	 1 	 (NP\NP)/NP 	 1 	 Profit after
+0 	 6 	 S[dcl]\NP 	 1 	 Profit increased
+2 	 1 	 (NP\NP)/NP 	 2 	 taxes after
+5 	 1 	 (NP\NP)/NP 	 2 	 interests after
+5 	 4 	 N/N 	 1 	 interests minority
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 increased %
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 increased to
+6 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 increased from
+6 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 increased in
+6 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 increased while
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 16
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 # to
+12 	 10 	 N/N[num] 	 1 	 million #
+12 	 11 	 N/N 	 1 	 million 55.2
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 # from
+16 	 14 	 N/N[num] 	 1 	 million #
+16 	 15 	 N/N 	 1 	 million 47.6
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 period in
+20 	 18 	 NP[nb]/N 	 1 	 period the
+20 	 19 	 N/N 	 1 	 period year-earlier
+23 	 24 	 (NP\NP)/NP 	 1 	 earnings per
+23 	 26 	 S[dcl]\NP 	 1 	 earnings rose
+25 	 24 	 (NP\NP)/NP 	 2 	 share per
+26 	 22 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 rose while
+26 	 28 	 (S\NP)\(S\NP) 	 2 	 rose %
+26 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+26 	 36 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+28 	 27 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 16
+31 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 pence to
+31 	 30 	 N/N 	 1 	 pence 27.9
+31 	 32 	 (NP\NP)/NP 	 1 	 pence -LRB-
+34 	 32 	 (NP\NP)/NP 	 2 	 cents -LRB-
+34 	 33 	 N/N 	 1 	 cents 44
+38 	 36 	 ((S\NP)\(S\NP))/NP 	 3 	 pence from
+38 	 37 	 N/N 	 1 	 pence 24.1
+38 	 39 	 (NP\NP)/NP 	 1 	 pence -LRB-
+41 	 39 	 (NP\NP)/NP 	 2 	 cents -LRB-
+41 	 40 	 N/N 	 1 	 cents 38
+<\s>
+<s id="wsj_1908.4"> 23
+1 	 0 	 N/N 	 1 	 Siddeley Hawker
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Siddeley said
+7 	 3 	 NP[nb]/N 	 1 	 division its
+7 	 4 	 N/N 	 1 	 division core
+7 	 5 	 N/N 	 1 	 division electrical
+7 	 6 	 N/N 	 1 	 division products
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 division enjoyed
+8 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 enjoyed said
+8 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 enjoyed with
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 growth enjoyed
+10 	 9 	 N/N 	 1 	 growth strong
+15 	 14 	 (N/N)/(N/N) 	 2 	 % 20
+16 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 rise with
+16 	 13 	 NP[nb]/N 	 1 	 rise a
+16 	 15 	 N/N 	 1 	 rise %
+16 	 17 	 (NP\NP)/NP 	 1 	 rise in
+16 	 20 	 (NP\NP)/NP 	 1 	 rise during
+19 	 17 	 (NP\NP)/NP 	 2 	 profit in
+19 	 18 	 N/N 	 1 	 profit operating
+22 	 20 	 (NP\NP)/NP 	 2 	 period during
+22 	 21 	 NP[nb]/N 	 1 	 period the
+<\s>

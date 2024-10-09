@@ -1,0 +1,115 @@
+<s id="wsj_0084.1"> 15
+2 	 0 	 N/N 	 1 	 Corp. Hudson
+2 	 1 	 N/N 	 1 	 Corp. General
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Corp. 's
+8 	 3 	 (NP[nb]/N)\NP 	 1 	 officer 's
+8 	 4 	 N/N 	 1 	 officer president
+8 	 6 	 N/N 	 1 	 officer chief
+8 	 7 	 N/N 	 1 	 officer executive
+8 	 14 	 S[dcl]\NP 	 1 	 officer resigned
+12 	 10 	 N/N 	 1 	 Stearn Alan
+12 	 11 	 N/N 	 1 	 Stearn J.
+12 	 14 	 S[dcl]\NP 	 1 	 Stearn resigned
+<\s>
+<s id="wsj_0084.2"> 13
+1 	 0 	 N/N 	 1 	 Stearn Mr.
+1 	 5 	 (S[adj]\NP)\NP 	 1 	 Stearn old <XB>
+1 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Stearn could
+1 	 10 	 S[pss]\NP 	 1 	 Stearn reached <XB>
+4 	 3 	 N/N 	 1 	 years 46
+4 	 5 	 (S[adj]\NP)\NP 	 2 	 years old
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 could n't
+9 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+10 	 9 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reached be
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 reached for
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 comment for
+<\s>
+<s id="wsj_0084.3"> 9
+2 	 0 	 NP[nb]/N 	 1 	 spokesman A
+2 	 1 	 N/N 	 1 	 spokesman company
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 spokesman declined
+2 	 5 	 (S[b]\NP)/PP 	 1 	 spokesman elaborate <XB>
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 elaborate to
+6 	 5 	 (S[b]\NP)/PP 	 2 	 on elaborate
+8 	 6 	 PP/NP 	 1 	 departure on
+8 	 7 	 NP[nb]/N 	 1 	 departure the
+<\s>
+<s id="wsj_0084.4"> 36
+1 	 0 	 N/N 	 1 	 General Hudson
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 General which
+1 	 4 	 ((S[dcl]\NP)/PP)/NP 	 1 	 General provides <XB>
+1 	 16 	 (S[dcl]\NP)/NP 	 1 	 General reported
+1 	 28 	 (S[dcl]\NP)/NP 	 1 	 General omitted <XU>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 provides which
+5 	 4 	 ((S[dcl]\NP)/PP)/NP 	 3 	 maintenance provides
+7 	 4 	 ((S[dcl]\NP)/PP)/NP 	 3 	 fueling provides
+10 	 4 	 ((S[dcl]\NP)/PP)/NP 	 3 	 services provides
+10 	 9 	 N/N 	 1 	 services other
+11 	 4 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to provides
+12 	 11 	 PP/NP 	 1 	 airlines to
+14 	 11 	 PP/NP 	 1 	 airports to
+18 	 16 	 (S[dcl]\NP)/NP 	 2 	 loss reported
+18 	 17 	 NP[nb]/N 	 1 	 loss a
+18 	 19 	 (NP\NP)/NP 	 1 	 loss for
+22 	 21 	 (N/N)/(N/N) 	 2 	 recent most
+24 	 19 	 (NP\NP)/NP 	 2 	 year for
+24 	 20 	 NP[nb]/N 	 1 	 year its
+24 	 22 	 N/N 	 1 	 year recent
+24 	 23 	 N/N 	 1 	 year fiscal
+27 	 26 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 month last
+28 	 27 	 (S\NP)/(S\NP) 	 2 	 omitted month
+31 	 28 	 (S[dcl]\NP)/NP 	 2 	 dividend omitted
+31 	 29 	 NP[nb]/N 	 1 	 dividend the
+31 	 30 	 N/N 	 1 	 dividend semiannual
+31 	 32 	 (NP\NP)/NP 	 1 	 dividend on
+35 	 32 	 (NP\NP)/NP 	 2 	 shares on
+35 	 33 	 NP[nb]/N 	 1 	 shares its
+35 	 34 	 N/N 	 1 	 shares common
+<\s>
+<s id="wsj_0084.5"> 28
+1 	 0 	 N/N 	 1 	 Stearn Mr.
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Stearn who
+1 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Stearn had <XB>
+1 	 5 	 (S[pt]\NP)/PP 	 1 	 Stearn been <XB>
+1 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Stearn had <XU>
+1 	 15 	 (S[pt]\NP)/NP 	 1 	 Stearn been <XU>
+1 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Stearn will
+1 	 21 	 (S[b]\NP)/PP 	 1 	 Stearn act <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had who
+5 	 4 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+5 	 12 	 (S\NP)\(S\NP) 	 2 	 been years
+6 	 5 	 (S[pt]\NP)/PP 	 2 	 with been
+8 	 6 	 PP/NP 	 1 	 company with
+8 	 7 	 NP[nb]/N 	 1 	 company the
+9 	 10 	 ((((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))))\(S[adj]\NP) 	 5 	 more than
+11 	 10 	 ((((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))))\(S[adj]\NP) 	 4 	 20 than
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 years 20
+14 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had who
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+15 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 been since
+16 	 15 	 (S[pt]\NP)/NP 	 2 	 president been
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 1984 since
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 act will
+22 	 21 	 (S[b]\NP)/PP 	 2 	 as act
+24 	 22 	 PP/NP 	 1 	 consultant as
+24 	 23 	 NP[nb]/N 	 1 	 consultant a
+24 	 25 	 (NP\NP)/NP 	 1 	 consultant to
+27 	 25 	 (NP\NP)/NP 	 2 	 General to
+27 	 26 	 N/N 	 1 	 General Hudson
+<\s>
+<s id="wsj_0084.6"> 13
+1 	 0 	 NP[nb]/N 	 1 	 duties His
+1 	 2 	 (NP\NP)/NP 	 1 	 duties as
+1 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 duties will
+1 	 7 	 S[pss]\NP 	 1 	 duties assumed <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 executive as
+4 	 3 	 N/N 	 1 	 executive chief
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+7 	 6 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 assumed be
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 assumed by
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Langner by
+12 	 9 	 N/N 	 1 	 Langner Chairman
+12 	 10 	 N/N 	 1 	 Langner Jay
+12 	 11 	 N/N 	 1 	 Langner B.
+<\s>

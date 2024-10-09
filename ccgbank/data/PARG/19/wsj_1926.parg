@@ -1,0 +1,367 @@
+<s id="wsj_1926.1"> 15
+2 	 0 	 N/N 	 1 	 Co. Dow
+2 	 1 	 N/N 	 1 	 Co. Chemical
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+6 	 4 	 N/N 	 1 	 income third-quarter
+6 	 5 	 N/N 	 1 	 income net
+6 	 7 	 S[dcl]\NP 	 1 	 income slipped
+7 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 slipped said
+7 	 9 	 (S\NP)\(S\NP) 	 2 	 slipped %
+7 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 slipped from
+9 	 8 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 6.8
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter from
+14 	 11 	 NP[nb]/N 	 1 	 quarter a
+14 	 12 	 N/N 	 1 	 quarter record
+14 	 13 	 N/N 	 1 	 quarter year-ago
+<\s>
+<s id="wsj_1926.2"> 14
+1 	 0 	 NP[nb]/N 	 1 	 decline The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 decline broke
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 streak broke
+4 	 3 	 NP[nb]/N 	 1 	 streak a
+4 	 5 	 (NP\NP)/NP 	 1 	 streak of
+7 	 5 	 (NP\NP)/NP 	 2 	 quarters of
+7 	 6 	 N/N 	 1 	 quarters 10
+7 	 9 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 quarters which
+8 	 9 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 Dow posted
+11 	 9 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 posted which
+13 	 11 	 (S[dcl]\NP)/NP 	 2 	 increases posted
+13 	 12 	 N/N 	 1 	 increases earnings
+<\s>
+<s id="wsj_1926.3"> 30
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Dow 's
+3 	 1 	 (NP[nb]/N)\NP 	 1 	 net 's
+3 	 2 	 N/N 	 1 	 net third-quarter
+3 	 4 	 S[dcl]\NP 	 1 	 net fell
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+4 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+8 	 6 	 N/N[num] 	 1 	 million $
+8 	 7 	 N/N 	 1 	 million 589
+11 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+11 	 13 	 (NP\NP)/N 	 1 	 $ a
+12 	 11 	 N/N[num] 	 1 	 3.29 $
+14 	 13 	 (NP\NP)/N 	 2 	 share a
+16 	 29 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 3 	 from ago
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 632
+22 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+22 	 24 	 (NP\NP)/N 	 1 	 $ a
+23 	 22 	 N/N[num] 	 1 	 3.36 $
+25 	 24 	 (NP\NP)/N 	 2 	 share a
+28 	 27 	 NP[nb]/N 	 1 	 year a
+28 	 29 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 4 	 year ago
+<\s>
+<s id="wsj_1926.4"> 19
+0 	 1 	 (NP\NP)/NP 	 1 	 Sales in
+0 	 5 	 S[dcl]\NP 	 1 	 Sales rose
+4 	 1 	 (NP\NP)/NP 	 2 	 quarter in
+4 	 2 	 NP[nb]/N 	 1 	 quarter the
+4 	 3 	 N/N 	 1 	 quarter latest
+5 	 7 	 (S\NP)\(S\NP) 	 2 	 rose %
+5 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+5 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 2
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 4.25
+12 	 18 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 3 	 from earlier
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+15 	 13 	 N/N[num] 	 1 	 billion $
+15 	 14 	 N/N 	 1 	 billion 4.15
+17 	 16 	 NP[nb]/N 	 1 	 year a
+17 	 18 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))\NP 	 4 	 year earlier
+<\s>
+<s id="wsj_1926.5"> 19
+0 	 1 	 (S[dcl]\NP)/PP 	 1 	 Dow closed
+1 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 closed up
+1 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 closed in
+2 	 1 	 (S[dcl]\NP)/PP 	 2 	 at closed
+3 	 2 	 PP/NP 	 1 	 $ at
+3 	 5 	 (NP\NP)/N 	 1 	 $ a
+4 	 3 	 N/N[num] 	 1 	 94.625 $
+6 	 5 	 (NP\NP)/N 	 2 	 share a
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 cents up
+10 	 9 	 N/N 	 1 	 cents 75
+18 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+18 	 13 	 N/N 	 1 	 trading New
+18 	 14 	 N/N 	 1 	 trading York
+18 	 15 	 N/N 	 1 	 trading Stock
+18 	 16 	 N/N 	 1 	 trading Exchange
+18 	 17 	 N/N 	 1 	 trading composite
+<\s>
+<s id="wsj_1926.6"> 38
+1 	 0 	 NP[nb]/N 	 1 	 spokeswoman A
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokeswoman said
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Dow is
+3 	 5 	 (S[adj]\NP)/PP 	 1 	 Dow comfortable <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 comfortable is
+6 	 5 	 (S[adj]\NP)/PP 	 2 	 with comfortable
+9 	 6 	 PP/NP 	 1 	 expectations with
+9 	 7 	 N/N 	 1 	 expectations Wall
+9 	 8 	 N/N 	 1 	 expectations Street
+10 	 9 	 N/S[em] 	 1 	 that expectations
+12 	 11 	 N/N 	 1 	 earnings full-year
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 earnings will
+12 	 14 	 (S[b]\NP)/NP 	 1 	 earnings total <XB>
+13 	 10 	 S[em]/S[dcl] 	 1 	 will that
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 total will
+16 	 14 	 (S[b]\NP)/NP 	 2 	 $ total
+16 	 15 	 N/N 	 1 	 $ about
+16 	 18 	 (NP\NP)/N 	 1 	 $ a
+16 	 21 	 (NP\NP)/PP 	 1 	 $ compared
+17 	 16 	 N/N[num] 	 1 	 14.60 $
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+22 	 21 	 (NP\NP)/PP 	 2 	 with compared
+24 	 23 	 N/N 	 1 	 year last
+24 	 25 	 (NP[nb]/N)\NP 	 2 	 year 's
+27 	 22 	 PP/NP 	 1 	 net with
+27 	 25 	 (NP[nb]/N)\NP 	 1 	 net 's
+27 	 26 	 N/N 	 1 	 net record
+27 	 28 	 (NP\NP)/NP 	 1 	 net of
+29 	 28 	 (NP\NP)/NP 	 2 	 $ of
+31 	 29 	 N/N[num] 	 1 	 billion $
+31 	 30 	 N/N 	 1 	 billion 2.4
+34 	 28 	 (NP\NP)/NP 	 2 	 $ of
+34 	 36 	 (NP\NP)/N 	 1 	 $ a
+35 	 34 	 N/N[num] 	 1 	 12.76 $
+37 	 36 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_1926.7"> 28
+2 	 1 	 NP[nb]/N 	 1 	 signal that
+2 	 3 	 (NP\NP)/NP 	 1 	 signal on
+2 	 6 	 (S[dcl]\NP)/NP 	 1 	 signal casts
+5 	 3 	 (NP\NP)/NP 	 2 	 profit on
+5 	 4 	 N/N 	 1 	 profit full-year
+6 	 0 	 S/S 	 1 	 casts But
+6 	 8 	 ((S\NP)\(S\NP))/S[qem] 	 2 	 casts on
+7 	 6 	 (S[dcl]\NP)/NP 	 2 	 doubt casts
+9 	 8 	 ((S\NP)\(S\NP))/S[qem] 	 3 	 whether on
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Dow will
+10 	 12 	 (S[b]\NP)/PP 	 1 	 Dow improve <XB>
+11 	 9 	 S[qem]/S[dcl] 	 1 	 will whether
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 improve will
+13 	 12 	 (S[b]\NP)/PP 	 2 	 on improve
+17 	 13 	 PP/NP 	 1 	 net on
+17 	 14 	 NP[nb]/N 	 1 	 net its
+17 	 15 	 N/N 	 1 	 net year-ago
+17 	 16 	 N/N 	 1 	 net fourth-quarter
+17 	 18 	 (NP\NP)/NP 	 1 	 net of
+19 	 18 	 (NP\NP)/NP 	 2 	 $ of
+19 	 21 	 (NP\NP)/N 	 1 	 $ a
+20 	 19 	 N/N[num] 	 1 	 3.44 $
+22 	 21 	 (NP\NP)/N 	 2 	 share a
+25 	 18 	 (NP\NP)/NP 	 2 	 $ of
+27 	 25 	 N/N[num] 	 1 	 million $
+27 	 26 	 N/N 	 1 	 million 635
+<\s>
+<s id="wsj_1926.8"> 17
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Dow would
+0 	 2 	 (S[b]\NP)/NP 	 1 	 Dow earn <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 earn would
+2 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 earn for
+2 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 earn if
+3 	 2 	 (S[b]\NP)/NP 	 2 	 $ earn
+3 	 5 	 (NP\NP)/N 	 1 	 $ a
+4 	 3 	 N/N[num] 	 1 	 14.85 $
+6 	 5 	 (NP\NP)/N 	 2 	 share a
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 year for
+9 	 8 	 NP[nb]/N 	 1 	 year the
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 it equaled
+12 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 equaled if
+16 	 12 	 (S[dcl]\NP)/NP 	 2 	 performance equaled
+16 	 13 	 NP[nb]/N 	 1 	 performance that
+16 	 14 	 N/N 	 1 	 performance year-ago
+16 	 15 	 N/N 	 1 	 performance fourth-quarter
+<\s>
+<s id="wsj_1926.9"> 33
+1 	 0 	 N/N 	 1 	 officials Dow
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 officials were
+1 	 3 	 (S[ng]\NP)/S[em] 	 1 	 officials signaling <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 signaling were
+3 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 signaling before
+4 	 3 	 (S[ng]\NP)/S[em] 	 2 	 that signaling
+6 	 5 	 NP[nb]/N 	 1 	 company the
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 company would
+6 	 8 	 (S[b]\NP)/NP 	 1 	 company earn <XB>
+7 	 4 	 S[em]/S[dcl] 	 1 	 would that
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 earn would
+8 	 15 	 ((S\NP)\(S\NP))/N 	 2 	 earn this
+9 	 10 	 (N/N)\(S[adj]\NP) 	 2 	 less than
+11 	 8 	 (S[b]\NP)/NP 	 2 	 $ earn
+11 	 10 	 (N/N)\(S[adj]\NP) 	 1 	 $ than
+11 	 13 	 (NP\NP)/N 	 1 	 $ a
+12 	 11 	 N/N[num] 	 1 	 15 $
+14 	 13 	 (NP\NP)/N 	 2 	 share a
+16 	 15 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 before even
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 they announced
+20 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 announced before
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 announced in
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 July in
+24 	 20 	 (S[dcl]\NP)/NP 	 2 	 plan announced
+24 	 23 	 NP[nb]/N 	 1 	 plan a
+24 	 26 	 (S[b]\NP)/NP 	 1 	 plan acquire <XB>
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+28 	 26 	 (S[b]\NP)/NP 	 2 	 % acquire
+28 	 27 	 N/N 	 1 	 % 67
+28 	 29 	 (NP\NP)/NP 	 1 	 % of
+32 	 29 	 (NP\NP)/NP 	 2 	 Inc of
+32 	 30 	 N/N 	 1 	 Inc Marion
+32 	 31 	 N/N 	 1 	 Inc Laboratories
+<\s>
+<s id="wsj_1926.10"> 15
+1 	 0 	 NP[nb]/N 	 1 	 acquisition That
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 acquisition could
+1 	 4 	 (S[b]\NP)/NP 	 1 	 acquisition dilute <XB>
+2 	 14 	 (S[dcl]\S[dcl])\NP 	 1 	 could said
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 dilute could
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 dilute further
+4 	 8 	 ((S\NP)\(S\NP))/N 	 2 	 dilute this
+5 	 4 	 (S[b]\NP)/NP 	 2 	 earnings dilute
+5 	 6 	 (NP\NP)/NP 	 1 	 earnings per
+7 	 6 	 (NP\NP)/NP 	 2 	 share per
+9 	 8 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+13 	 11 	 NP[nb]/N 	 1 	 spokeswoman the
+13 	 12 	 N/N 	 1 	 spokeswoman company
+13 	 14 	 (S[dcl]\S[dcl])\NP 	 2 	 spokeswoman said
+<\s>
+<s id="wsj_1926.11"> 15
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Dow has
+0 	 3 	 (S[pt]\NP)/S[qem] 	 1 	 Dow said <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 has n't
+3 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said has
+5 	 3 	 (S[pt]\NP)/S[qem] 	 2 	 what said
+5 	 4 	 S/S 	 1 	 what exactly
+6 	 5 	 (S[qem]/(S[dcl]/NP))/N 	 2 	 impact what
+6 	 11 	 ((S[b]\NP)/PP)/NP 	 3 	 impact have <XU>
+9 	 7 	 NP[nb]/N 	 1 	 acquisition the
+9 	 8 	 N/N 	 1 	 acquisition Marion
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 acquisition will
+9 	 11 	 ((S[b]\NP)/PP)/NP 	 1 	 acquisition have <XB>
+10 	 5 	 (S[qem]/(S[dcl]/NP))/N 	 1 	 will what
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+12 	 11 	 ((S[b]\NP)/PP)/NP 	 2 	 on have
+14 	 12 	 PP/NP 	 1 	 earnings on
+14 	 13 	 N/N 	 1 	 earnings 1989
+<\s>
+<s id="wsj_1926.12"> 42
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Dow blamed
+5 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 drop blamed
+5 	 2 	 NP[nb]/N 	 1 	 drop the
+5 	 3 	 N/N 	 1 	 drop third-quarter
+5 	 4 	 N/N 	 1 	 drop earnings
+6 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 on blamed
+8 	 6 	 PP/NP 	 1 	 factors on
+8 	 7 	 N/N 	 1 	 factors several
+8 	 10 	 (NP\NP)/NP 	 1 	 factors including
+12 	 10 	 (NP\NP)/NP 	 2 	 prices including
+12 	 11 	 N/N 	 1 	 prices softer
+12 	 13 	 (NP\NP)/NP 	 1 	 prices for
+14 	 13 	 (NP\NP)/NP 	 2 	 polyethylene for
+18 	 13 	 (NP\NP)/NP 	 2 	 chemicals for
+18 	 16 	 N/N 	 1 	 chemicals other
+18 	 17 	 N/N 	 1 	 chemicals basic
+23 	 10 	 (NP\NP)/NP 	 2 	 economy including
+23 	 20 	 NP[nb]/N 	 1 	 economy a
+23 	 21 	 N/N 	 1 	 economy slower
+23 	 22 	 N/N 	 1 	 economy U.S.
+27 	 10 	 (NP\NP)/NP 	 2 	 dollar including
+27 	 25 	 NP[nb]/N 	 1 	 dollar a
+27 	 26 	 N/N 	 1 	 dollar stronger
+27 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 dollar which
+27 	 30 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 dollar made <XB>
+30 	 29 	 (NP\NP)/(S[dcl]\NP) 	 2 	 made which
+31 	 32 	 (NP[nb]/N)\NP 	 2 	 Dow 's
+33 	 30 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 exports made
+33 	 32 	 (NP[nb]/N)\NP 	 1 	 exports 's
+33 	 34 	 (NP\NP)/NP 	 1 	 exports from
+33 	 38 	 (S[adj]\NP)/PP 	 1 	 exports expensive <XB>
+36 	 34 	 (NP\NP)/NP 	 2 	 U.S. from
+36 	 35 	 NP[nb]/N 	 1 	 U.S. the
+38 	 30 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 expensive made
+38 	 37 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 expensive more
+39 	 38 	 (S[adj]\NP)/PP 	 2 	 to expensive
+41 	 39 	 PP/NP 	 1 	 customers to
+41 	 40 	 N/N 	 1 	 customers overseas
+<\s>
+<s id="wsj_1926.13"> 21
+1 	 0 	 NP[nb]/N 	 1 	 problem Another
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 problem was
+5 	 4 	 (N/N)/(N/N) 	 2 	 % 7
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 increase was
+6 	 3 	 NP[nb]/N 	 1 	 increase a
+6 	 5 	 N/N 	 1 	 increase %
+6 	 7 	 (NP\NP)/NP 	 1 	 increase in
+6 	 10 	 (NP\NP)/NP 	 1 	 increase at
+9 	 7 	 (NP\NP)/NP 	 2 	 costs in
+9 	 8 	 N/N 	 1 	 costs operating
+12 	 10 	 (NP\NP)/NP 	 2 	 time at
+12 	 11 	 NP[nb]/N 	 1 	 time a
+12 	 13 	 (NP\NP)/S[dcl] 	 1 	 time when
+14 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 revenue was
+14 	 16 	 S[ng]\NP 	 1 	 revenue rising <XB>
+15 	 13 	 (NP\NP)/S[dcl] 	 2 	 was when
+16 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 rising was
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 rising by
+19 	 18 	 (N/N)/(N/N) 	 2 	 2 only
+20 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 % by
+20 	 19 	 N/N 	 1 	 % 2
+<\s>
+<s id="wsj_1926.14"> 38
+4 	 0 	 (S/S)/NP 	 2 	 months For
+4 	 1 	 NP[nb]/N 	 1 	 months the
+4 	 2 	 N/N 	 1 	 months first
+4 	 3 	 N/N 	 1 	 months nine
+4 	 5 	 (NP\NP)/NP 	 1 	 months of
+7 	 5 	 (NP\NP)/NP 	 2 	 year of
+7 	 6 	 NP[nb]/N 	 1 	 year the
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 Dow earned
+10 	 0 	 (S/S)/NP 	 1 	 earned For
+10 	 21 	 (((S\NP)\(S\NP))/PP)/NP 	 2 	 earned up
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+13 	 11 	 N/N[num] 	 1 	 billion $
+13 	 12 	 N/N 	 1 	 billion 2.06
+16 	 10 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+16 	 18 	 (NP\NP)/N 	 1 	 $ a
+17 	 16 	 N/N[num] 	 1 	 11.41 $
+19 	 18 	 (NP\NP)/N 	 2 	 share a
+23 	 21 	 (((S\NP)\(S\NP))/PP)/NP 	 4 	 % up
+23 	 22 	 N/N 	 1 	 % 17
+24 	 21 	 (((S\NP)\(S\NP))/PP)/NP 	 3 	 from up
+24 	 37 	 (PP\PP)\NP 	 1 	 from ago
+25 	 24 	 PP/NP 	 1 	 $ from
+27 	 25 	 N/N[num] 	 1 	 billion $
+27 	 26 	 N/N 	 1 	 billion 1.76
+30 	 24 	 PP/NP 	 1 	 $ from
+30 	 32 	 (NP\NP)/N 	 1 	 $ a
+31 	 30 	 N/N[num] 	 1 	 9.32 $
+33 	 32 	 (NP\NP)/N 	 2 	 share a
+36 	 35 	 NP[nb]/N 	 1 	 year a
+36 	 37 	 (PP\PP)\NP 	 2 	 year ago
+<\s>
+<s id="wsj_1926.15"> 21
+0 	 1 	 (NP\NP)/NP 	 1 	 Sales for
+0 	 6 	 S[dcl]\NP 	 1 	 Sales rose
+5 	 1 	 (NP\NP)/NP 	 2 	 months for
+5 	 2 	 NP[nb]/N 	 1 	 months the
+5 	 3 	 N/N 	 1 	 months latest
+5 	 4 	 N/N 	 1 	 months nine
+6 	 8 	 (S\NP)\(S\NP) 	 2 	 rose %
+6 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 rose to
+6 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 7.7
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+12 	 10 	 N/N[num] 	 1 	 billion $
+12 	 11 	 N/N 	 1 	 billion 13.34
+13 	 17 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 from in
+14 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+16 	 14 	 N/N[num] 	 1 	 billion $
+16 	 15 	 N/N 	 1 	 billion 12.38
+20 	 17 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 period in
+20 	 18 	 NP[nb]/N 	 1 	 period the
+20 	 19 	 N/N 	 1 	 period year-ago
+<\s>

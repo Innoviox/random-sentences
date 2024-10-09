@@ -1,0 +1,61 @@
+<s id="wsj_1638.1"> 25
+4 	 0 	 N/N 	 1 	 Inc. Health
+4 	 1 	 N/N 	 1 	 Inc. Care
+4 	 2 	 N/N 	 1 	 Inc. Property
+4 	 3 	 N/N 	 1 	 Inc. Investors
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 it acquired
+7 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 acquired said
+7 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 acquired in
+11 	 7 	 (S[dcl]\NP)/NP 	 2 	 facilities acquired
+11 	 8 	 N/N 	 1 	 facilities three
+11 	 9 	 N/N 	 1 	 facilities long-term
+11 	 10 	 N/N 	 1 	 facilities care
+15 	 7 	 (S[dcl]\NP)/NP 	 2 	 facility acquired
+15 	 13 	 N/N 	 1 	 facility one
+15 	 14 	 N/N 	 1 	 facility assisted-living
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 transaction in
+19 	 17 	 NP[nb]/N 	 1 	 transaction a
+19 	 18 	 N/N 	 1 	 transaction purchase-and-lease
+19 	 20 	 (S[pss]\NP)/PP 	 1 	 transaction valued <XB>
+21 	 20 	 (S[pss]\NP)/PP 	 2 	 at valued
+22 	 21 	 PP/NP 	 1 	 $ at
+24 	 22 	 N/N[num] 	 1 	 million $
+24 	 23 	 N/N 	 1 	 million 15
+<\s>
+<s id="wsj_1638.2"> 23
+4 	 0 	 NP[nb]/N 	 1 	 trust The
+4 	 1 	 N/N 	 1 	 trust real
+4 	 2 	 N/N 	 1 	 trust estate
+4 	 3 	 N/N 	 1 	 trust investment
+4 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 trust said
+6 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+7 	 8 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it leased
+8 	 6 	 S[em]/S[dcl] 	 1 	 leased that
+12 	 8 	 ((S[dcl]\NP)/PP)/NP 	 3 	 facilities leased
+12 	 9 	 NP[nb]/N 	 1 	 facilities the
+12 	 10 	 N/N 	 1 	 facilities three
+12 	 11 	 N/N 	 1 	 facilities Florida
+13 	 8 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to leased
+18 	 13 	 PP/NP 	 1 	 Inc. to
+18 	 14 	 N/N 	 1 	 Inc. National
+18 	 15 	 N/N 	 1 	 Inc. Health
+18 	 16 	 N/N 	 1 	 Inc. Care
+18 	 17 	 N/N 	 1 	 Inc. Affiliates
+18 	 19 	 (NP\NP)/NP 	 1 	 Inc. of
+20 	 19 	 (NP\NP)/NP 	 2 	 Buffalo of
+22 	 19 	 (NP\NP)/NP 	 2 	 N.Y of
+<\s>
+<s id="wsj_1638.3"> 12
+2 	 0 	 N/N 	 1 	 Property Health
+2 	 1 	 N/N 	 1 	 Property Care
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Property holds
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 interest holds
+5 	 4 	 NP[nb]/N 	 1 	 interest an
+5 	 6 	 (NP\NP)/NP 	 1 	 interest in
+8 	 6 	 (NP\NP)/NP 	 2 	 facilities in
+8 	 7 	 N/N 	 1 	 facilities 139
+8 	 9 	 (NP\NP)/NP 	 1 	 facilities in
+11 	 9 	 (NP\NP)/NP 	 2 	 states in
+11 	 10 	 N/N 	 1 	 states 30
+<\s>

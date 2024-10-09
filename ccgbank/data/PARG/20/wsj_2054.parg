@@ -1,0 +1,635 @@
+<s id="wsj_2054.1"> 24
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 We 're
+0 	 2 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 We sorry <XB>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 sorry 're
+3 	 2 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to sorry
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+5 	 4 	 (S[b]\NP)/S[em] 	 2 	 that report
+7 	 6 	 (S/S)/NP 	 2 	 Monday on
+9 	 8 	 N/N 	 1 	 Bush President
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 Bush accepted
+10 	 5 	 S[em]/S[dcl] 	 1 	 accepted that
+10 	 6 	 (S/S)/NP 	 1 	 accepted on
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 resignation accepted
+12 	 11 	 NP[nb]/N 	 1 	 resignation the
+12 	 13 	 (NP\NP)/NP 	 1 	 resignation of
+12 	 16 	 (NP\NP)/NP 	 1 	 resignation as
+15 	 13 	 (NP\NP)/NP 	 2 	 Allen of
+15 	 14 	 N/N 	 1 	 Allen William
+17 	 16 	 (NP\NP)/NP 	 2 	 chairman as
+17 	 18 	 (NP\NP)/NP 	 1 	 chairman of
+23 	 18 	 (NP\NP)/NP 	 2 	 Commission of
+23 	 19 	 NP[nb]/N 	 1 	 Commission the
+23 	 20 	 N/N 	 1 	 Commission U.S.
+23 	 21 	 N/N 	 1 	 Commission Civil
+23 	 22 	 N/N 	 1 	 Commission Rights
+<\s>
+<s id="wsj_2054.2"> 20
+1 	 0 	 N/N 	 1 	 Allen Mr.
+1 	 3 	 S[pss]\NP 	 1 	 Allen appointed <XB>
+1 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Allen grew
+1 	 10 	 (S[adj]\NP)/PP 	 1 	 Allen tired <XB>
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 appointed by
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Reagan by
+6 	 5 	 N/N 	 1 	 Reagan President
+10 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 tired grew
+10 	 9 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 tired understandably
+11 	 10 	 (S[adj]\NP)/PP 	 2 	 of tired
+12 	 11 	 PP/(S[ng]\NP) 	 1 	 dealing of
+13 	 12 	 (S[ng]\NP)/PP 	 2 	 with dealing
+16 	 13 	 PP/NP 	 1 	 tactics with
+16 	 14 	 NP[nb]/N 	 1 	 tactics the
+16 	 15 	 N/N 	 1 	 tactics guerrilla
+16 	 17 	 (NP\NP)/NP 	 1 	 tactics of
+19 	 17 	 (NP\NP)/NP 	 2 	 enemies of
+19 	 18 	 NP[nb]/N 	 1 	 enemies his
+<\s>
+<s id="wsj_2054.3"> 25
+2 	 0 	 NP[nb]/N 	 1 	 speech His
+2 	 1 	 N/N 	 1 	 speech recent
+2 	 5 	 (S[pss]\NP)/NP 	 1 	 speech titled <XB>
+2 	 17 	 (S[dcl]\NP)/NP 	 1 	 speech caused
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 titled provocatively
+6 	 5 	 (S[pss]\NP)/NP 	 2 	 Blacks titled
+6 	 8 	 NP\NP 	 1 	 Blacks Animals
+6 	 10 	 NP\NP 	 1 	 Blacks Homosexuals
+6 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Blacks What
+6 	 13 	 (S[dcl]\NP)/NP 	 1 	 Blacks is <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is What
+15 	 13 	 (S[dcl]\NP)/NP 	 2 	 Minority is
+15 	 14 	 NP[nb]/N 	 1 	 Minority a
+17 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 caused when
+19 	 17 	 (S[dcl]\NP)/NP 	 2 	 uproar caused
+19 	 18 	 NP[nb]/N 	 1 	 uproar an
+22 	 21 	 NP[nb]/N 	 1 	 title its
+22 	 23 	 S[dcl]\NP 	 1 	 title leaked
+23 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 leaked when
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 leaked out
+<\s>
+<s id="wsj_2054.4"> 16
+1 	 0 	 N/N 	 1 	 Allen Mr.
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Allen 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 commissioners 's
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 commissioners voted
+3 	 6 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 commissioners call <XB>
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to voted
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 call to
+9 	 6 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 speech call
+9 	 7 	 NP[nb]/N 	 1 	 speech his
+9 	 8 	 N/N 	 1 	 speech unread
+9 	 10 	 S[adj]\NP 	 1 	 speech thoughtless <XB>
+9 	 12 	 S[adj]\NP 	 1 	 speech disgusting <XU>
+9 	 15 	 S[adj]\NP 	 1 	 speech inflammatory <XU>
+10 	 6 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 thoughtless call
+12 	 6 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 disgusting call
+15 	 6 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 inflammatory call
+15 	 14 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 inflammatory unnecessarily
+<\s>
+<s id="wsj_2054.5"> 20
+3 	 0 	 N/N 	 1 	 Berry Commissioner
+3 	 1 	 N/N 	 1 	 Berry Mary
+3 	 2 	 N/N 	 1 	 Berry Francis
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Berry said
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 it was
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 episode was
+9 	 7 	 NP[nb]/N 	 1 	 episode another
+9 	 8 	 N/N 	 1 	 episode sad
+9 	 10 	 (NP\NP)/NP 	 1 	 episode in
+12 	 10 	 (NP\NP)/NP 	 2 	 saga in
+12 	 11 	 NP[nb]/N 	 1 	 saga the
+12 	 13 	 (NP\NP)/NP 	 1 	 saga of
+16 	 13 	 (NP\NP)/NP 	 2 	 missile of
+16 	 14 	 NP[nb]/N 	 1 	 missile the
+16 	 15 	 N/N 	 1 	 missile unguided
+16 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 missile who
+16 	 18 	 (S[dcl]\NP)/NP 	 1 	 missile is <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is who
+19 	 18 	 (S[dcl]\NP)/NP 	 2 	 chairman is
+<\s>
+<s id="wsj_2054.6"> 24
+2 	 0 	 N/N 	 1 	 Edwards Rep.
+2 	 1 	 N/N 	 1 	 Edwards Don
+2 	 8 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 Edwards warned
+6 	 4 	 NP[nb]/N 	 1 	 Democrat the
+6 	 5 	 N/N 	 1 	 Democrat California
+6 	 8 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 Democrat warned
+10 	 8 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 Allen warned
+10 	 9 	 N/N 	 1 	 Allen Mr.
+11 	 8 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that warned
+13 	 12 	 NP[nb]/N 	 1 	 speech the
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 speech would
+13 	 15 	 (S[b]\NP)/PP 	 1 	 speech be <XB>
+14 	 11 	 S[em]/S[dcl] 	 1 	 would that
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+16 	 15 	 (S[b]\NP)/PP 	 2 	 outside be
+18 	 16 	 PP/NP 	 1 	 scope outside
+18 	 17 	 NP[nb]/N 	 1 	 scope the
+18 	 19 	 (NP\NP)/NP 	 1 	 scope of
+21 	 20 	 NP[nb]/N 	 1 	 commission the
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 commission 's
+23 	 19 	 (NP\NP)/NP 	 2 	 jurisdiction of
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 jurisdiction 's
+<\s>
+<s id="wsj_2054.7"> 19
+1 	 0 	 N/N 	 1 	 Stoddard Thomas
+1 	 11 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 Stoddard called
+3 	 4 	 (NP\NP)/NP 	 1 	 head of
+3 	 11 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 head called
+9 	 4 	 (NP\NP)/NP 	 2 	 Fund of
+9 	 5 	 NP[nb]/N 	 1 	 Fund the
+9 	 6 	 N/N 	 1 	 Fund Lambda
+9 	 7 	 N/N 	 1 	 Fund Legal
+9 	 8 	 N/N 	 1 	 Fund Defense
+13 	 11 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 prospect called
+13 	 12 	 NP[nb]/N 	 1 	 prospect the
+13 	 14 	 (NP\NP)/NP 	 1 	 prospect of
+13 	 18 	 S[adj]\NP 	 1 	 prospect shocking <XB>
+16 	 14 	 (NP\NP)/NP 	 2 	 speech of
+16 	 15 	 NP[nb]/N 	 1 	 speech the
+18 	 11 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 shocking called
+18 	 17 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 shocking frankly
+<\s>
+<s id="wsj_2054.8"> 6
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 We 've
+0 	 3 	 (S[pt]\NP)/NP 	 1 	 We read <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 've actually
+3 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 read 've
+5 	 3 	 (S[pt]\NP)/NP 	 2 	 speech read
+5 	 4 	 NP[nb]/N 	 1 	 speech the
+<\s>
+<s id="wsj_2054.9"> 20
+1 	 0 	 N/N 	 1 	 Allen Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Allen began
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 began with
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 it began
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 warning with
+6 	 5 	 NP[nb]/N 	 1 	 warning a
+6 	 7 	 (NP\NP)/NP 	 1 	 warning to
+9 	 7 	 (NP\NP)/NP 	 2 	 hosts to
+9 	 8 	 NP[nb]/N 	 1 	 hosts his
+14 	 7 	 (NP\NP)/NP 	 2 	 group to
+14 	 11 	 NP[nb]/N 	 1 	 group a
+14 	 12 	 N/N 	 1 	 group California
+14 	 13 	 N/N 	 1 	 group church
+14 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 group that
+14 	 16 	 (S[dcl]\NP)/NP 	 1 	 group opposes <XB>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 opposes that
+17 	 16 	 (S[dcl]\NP)/NP 	 2 	 rights opposes
+17 	 18 	 (NP\NP)/NP 	 1 	 rights for
+19 	 18 	 (NP\NP)/NP 	 2 	 homosexuals for
+<\s>
+<s id="wsj_2054.10"> 36
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 He said
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+4 	 3 	 N/N 	 1 	 participants other
+4 	 5 	 (NP\NP)/NP 	 1 	 participants in
+4 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 participants do
+4 	 10 	 (S[b]\NP)/S[em] 	 1 	 participants believe <XB>
+7 	 5 	 (NP\NP)/NP 	 2 	 conference in
+7 	 6 	 NP[nb]/N 	 1 	 conference the
+8 	 2 	 S[em]/S[dcl] 	 1 	 do that
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 do not
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 believe do
+11 	 10 	 (S[b]\NP)/S[em] 	 2 	 that believe
+13 	 12 	 NP[nb]/N 	 1 	 rights the
+13 	 14 	 (NP\NP)/NP 	 1 	 rights of
+13 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 rights should
+13 	 18 	 (S[pss]\NP)/PP 	 1 	 rights guaranteed <XB>
+15 	 14 	 (NP\NP)/NP 	 2 	 Americans of
+16 	 11 	 S[em]/S[dcl] 	 1 	 should that
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be should
+18 	 17 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 guaranteed be
+19 	 18 	 (S[pss]\NP)/PP 	 2 	 to guaranteed
+20 	 19 	 PP/NP 	 1 	 citizens to
+20 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 citizens who
+20 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 citizens are <XB>
+20 	 23 	 S[adj]\NP 	 1 	 citizens homosexual <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are who
+23 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 homosexual are
+26 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+27 	 28 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 I mean
+27 	 30 	 (S[b]\NP)/NP 	 1 	 I persuade <XB>
+28 	 26 	 S[em]/S[dcl] 	 1 	 mean that
+29 	 28 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to mean
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 persuade to
+30 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 persuade to
+31 	 30 	 (S[b]\NP)/NP 	 2 	 you persuade
+35 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 view to
+35 	 33 	 NP[nb]/N 	 1 	 view the
+35 	 34 	 N/N 	 1 	 view opposite
+<\s>
+<s id="wsj_2054.11"> 34
+0 	 1 	 ((S[dcl]\NP)/NP)/PP 	 1 	 He recalled
+0 	 13 	 (S[ng]\NP)/S[dcl] 	 1 	 He arguing <XB>
+2 	 1 	 ((S[dcl]\NP)/NP)/PP 	 3 	 to recalled
+4 	 2 	 PP/NP 	 1 	 audience to
+4 	 3 	 NP[nb]/N 	 1 	 audience the
+9 	 1 	 ((S[dcl]\NP)/NP)/PP 	 2 	 analogy recalled
+9 	 5 	 NP[nb]/N 	 1 	 analogy a
+9 	 6 	 N/N 	 1 	 analogy strange
+9 	 8 	 N/N 	 1 	 analogy infelicitous
+9 	 12 	 (S[dcl]\NP)/NP 	 2 	 analogy heard <XU>
+10 	 12 	 (S[dcl]\NP)/NP 	 1 	 he heard
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 heard once
+15 	 14 	 (S/S)/(S/S) 	 2 	 that now
+16 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 we have
+16 	 19 	 (S[pt]\NP)/S[em] 	 1 	 we recognized <XB>
+17 	 15 	 (S/S)/S[dcl] 	 2 	 have that
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 have finally
+19 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 recognized have
+20 	 19 	 (S[pt]\NP)/S[em] 	 2 	 that recognized
+22 	 21 	 N/N 	 1 	 blacks American
+22 	 23 	 (S[dcl]\NP)/NP 	 1 	 blacks have
+23 	 20 	 S[em]/S[dcl] 	 1 	 have that
+24 	 23 	 (S[dcl]\NP)/NP 	 2 	 rights have
+26 	 27 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 we need
+26 	 29 	 ((S[b]\NP)/PP)/NP 	 1 	 we do <XB>
+27 	 13 	 (S[ng]\NP)/S[dcl] 	 2 	 need arguing
+27 	 15 	 (S/S)/S[dcl] 	 1 	 need that
+28 	 27 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to need
+29 	 28 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+31 	 29 	 ((S[b]\NP)/PP)/NP 	 3 	 same do
+31 	 30 	 NP[nb]/N 	 1 	 same the
+32 	 29 	 ((S[b]\NP)/PP)/NP 	 2 	 for do
+33 	 32 	 PP/NP 	 1 	 animals for
+<\s>
+<s id="wsj_2054.12"> 29
+1 	 0 	 N/N 	 1 	 Allen Mr.
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 Allen objected
+2 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 objected because
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 to objected
+5 	 3 	 PP/NP 	 1 	 analogy to
+5 	 4 	 NP[nb]/N 	 1 	 analogy this
+7 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it seems
+7 	 10 	 (S[b]\NP)/NP 	 1 	 it assimilate <XB>
+8 	 6 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 seems because
+9 	 8 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to seems
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 assimilate to
+10 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 assimilate to
+10 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 assimilate as
+12 	 10 	 (S[b]\NP)/NP 	 2 	 status assimilate
+12 	 11 	 NP[nb]/N 	 1 	 status the
+12 	 13 	 (NP\NP)/NP 	 1 	 status of
+14 	 13 	 (NP\NP)/NP 	 2 	 blacks of
+16 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 that to
+16 	 17 	 (NP\NP)/NP 	 1 	 that of
+18 	 17 	 (NP\NP)/NP 	 2 	 animals of
+20 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 as --
+23 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 project as
+23 	 21 	 NP[nb]/N 	 1 	 project a
+23 	 22 	 N/N 	 1 	 project mere
+23 	 24 	 (NP\NP)/NP 	 1 	 project of
+23 	 27 	 (NP\NP)/NP 	 1 	 project of <XU>
+25 	 24 	 (NP\NP)/NP 	 2 	 charity of
+28 	 27 	 (NP\NP)/NP 	 2 	 humaneness of
+<\s>
+<s id="wsj_2054.13"> 24
+0 	 1 	 (NP\NP)/NP 	 1 	 Rights on
+0 	 6 	 (NP\NP)/PP 	 1 	 Rights whether
+0 	 12 	 (S[dcl]\NP)/NP 	 1 	 Rights are
+4 	 1 	 (NP\NP)/NP 	 2 	 basis on
+4 	 2 	 NP/NP 	 1 	 basis such
+4 	 3 	 NP[nb]/N 	 1 	 basis a
+7 	 6 	 (NP\NP)/PP 	 2 	 for whether
+8 	 7 	 PP/NP 	 1 	 blacks for
+10 	 7 	 PP/NP 	 1 	 homosexuals for
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 indulgences are
+14 	 13 	 N/N 	 1 	 indulgences mere
+14 	 19 	 S[adj]\NP 	 1 	 indulgences subject <XB>
+16 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 he said
+19 	 20 	 ((S[adj]\NP)\(S[adj]\NP))/(S[ng]\NP) 	 2 	 subject to
+21 	 20 	 ((S[adj]\NP)\(S[adj]\NP))/(S[ng]\NP) 	 3 	 being to
+22 	 21 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 taken being
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 taken back
+<\s>
+<s id="wsj_2054.14"> 26
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 He says
+3 	 2 	 NP[nb]/N 	 1 	 title the
+3 	 4 	 (NP\NP)/NP 	 1 	 title of
+3 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 title was
+3 	 9 	 (S[b]\NP)/NP 	 1 	 title make <XB>
+6 	 4 	 (NP\NP)/NP 	 2 	 speech of
+6 	 5 	 NP[nb]/N 	 1 	 speech his
+7 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 was says
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to was
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+11 	 9 	 (S[b]\NP)/NP 	 2 	 point make
+11 	 10 	 NP[nb]/N 	 1 	 point his
+12 	 11 	 N/S[em] 	 1 	 that point
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 Americans have
+14 	 12 	 S[em]/S[dcl] 	 1 	 have that
+14 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 have as
+15 	 14 	 (S[dcl]\NP)/NP 	 2 	 rights have
+17 	 16 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 4 	 individuals as
+20 	 16 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/NP 	 3 	 as as
+20 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 as not
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 members as
+21 	 22 	 (NP\NP)/NP 	 1 	 members of
+25 	 22 	 (NP\NP)/NP 	 2 	 groups of
+25 	 23 	 N/N 	 1 	 groups certain
+25 	 24 	 N/N 	 1 	 groups select
+<\s>
+<s id="wsj_2054.15"> 30
+1 	 0 	 NP[nb]/N 	 1 	 speech His
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 speech criticized
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 idiocy criticized
+4 	 3 	 NP[nb]/N 	 1 	 idiocy the
+4 	 5 	 (NP\NP)/NP 	 1 	 idiocy of
+6 	 5 	 (NP\NP)/NP 	 2 	 notions of
+6 	 7 	 (NP\NP)/NP 	 1 	 notions of
+9 	 7 	 (NP\NP)/NP 	 2 	 groups of
+9 	 8 	 N/N 	 1 	 groups protected
+9 	 10 	 (NP\NP)/NP 	 1 	 groups in
+9 	 12 	 (NP\NP)/(S[pss]\NP) 	 1 	 groups as
+9 	 13 	 S[pss]\NP 	 1 	 groups opposed <XB>
+11 	 10 	 (NP\NP)/NP 	 2 	 society in
+13 	 12 	 (NP\NP)/(S[pss]\NP) 	 2 	 opposed as
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 opposed to
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 equality to
+16 	 15 	 N/N 	 1 	 equality individual
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 he put
+21 	 19 	 (PP/PP)/S[dcl] 	 2 	 put as
+22 	 21 	 (S[dcl]\NP)/NP 	 2 	 it put
+24 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 in to
+24 	 19 	 (PP/PP)/S[dcl] 	 1 	 in as
+27 	 24 	 PP/NP 	 1 	 destiny in
+27 	 25 	 NP[nb]/N 	 1 	 destiny a
+27 	 26 	 N/N 	 1 	 destiny common
+27 	 28 	 (NP\NP)/NP 	 1 	 destiny as
+29 	 28 	 (NP\NP)/NP 	 2 	 Americans as
+<\s>
+<s id="wsj_2054.16"> 37
+1 	 0 	 (S/S)/PP 	 2 	 of Instead
+2 	 1 	 PP/(S[ng]\NP) 	 1 	 lobbying of
+3 	 2 	 (S[ng]\NP)/PP 	 2 	 for lobbying
+5 	 3 	 PP/NP 	 1 	 treatment for
+5 	 4 	 N/N 	 1 	 treatment special
+8 	 7 	 N/N 	 1 	 Allen Mr.
+8 	 9 	 (S[dcl]\NP)/S[em] 	 1 	 Allen said
+9 	 0 	 (S/S)/PP 	 1 	 said Instead
+10 	 9 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+11 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 homosexuals should
+11 	 15 	 (S[b]\NP)/(S[to]\NP) 	 1 	 homosexuals try <XB>
+11 	 17 	 (S[b]\NP)/NP 	 1 	 homosexuals ensure <XB>
+11 	 25 	 (S[b]\NP)/PP 	 1 	 homosexuals aim <XU>
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 others should
+13 	 15 	 (S[b]\NP)/(S[to]\NP) 	 1 	 others try <XB>
+13 	 17 	 (S[b]\NP)/NP 	 1 	 others ensure <XB>
+13 	 25 	 (S[b]\NP)/PP 	 1 	 others aim <XU>
+14 	 10 	 S[em]/S[dcl] 	 1 	 should that
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 try should
+16 	 15 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to try
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 ensure to
+19 	 17 	 (S[b]\NP)/NP 	 2 	 treatment ensure
+19 	 18 	 N/N 	 1 	 treatment equal
+19 	 20 	 (NP\NP)/NP 	 1 	 treatment under
+22 	 20 	 (NP\NP)/NP 	 2 	 law under
+22 	 21 	 NP[nb]/N 	 1 	 law the
+25 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 aim should
+25 	 24 	 (S\NP)/(S\NP) 	 2 	 aim not
+26 	 25 	 (S[b]\NP)/PP 	 2 	 for aim
+28 	 26 	 PP/NP 	 1 	 privileges for
+28 	 27 	 N/N 	 1 	 privileges special
+28 	 29 	 (NP\NP)/(S[dcl]\NP) 	 1 	 privileges that
+28 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 privileges would <XB>
+28 	 31 	 (S[b]\NP)/NP 	 1 	 privileges risk <XB>
+30 	 29 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would that
+31 	 30 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 risk would
+33 	 31 	 (S[b]\NP)/NP 	 2 	 retrenchment risk
+33 	 32 	 N/N 	 1 	 retrenchment invidious
+33 	 34 	 (NP\NP)/NP 	 1 	 retrenchment with
+36 	 34 	 (NP\NP)/NP 	 2 	 complicity with
+36 	 35 	 N/N 	 1 	 complicity government
+<\s>
+<s id="wsj_2054.17"> 7
+0 	 2 	 (S[dcl]\NP)/PP 	 1 	 This sounds
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 sounds hardly
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 like sounds
+6 	 3 	 PP/NP 	 1 	 screed like
+6 	 4 	 NP[nb]/N 	 1 	 screed an
+6 	 5 	 N/N 	 1 	 screed anti-homosexual
+<\s>
+<s id="wsj_2054.18"> 6
+1 	 0 	 S[wq]/(S[dcl]\NP) 	 1 	 's What
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 's really
+3 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 going 's
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 going on
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 going here
+<\s>
+<s id="wsj_2054.19"> 26
+3 	 2 	 (N/N)/(N/N) 	 2 	 important most
+4 	 0 	 NP[nb]/N 	 1 	 things The
+4 	 1 	 N/N 	 1 	 things three
+4 	 3 	 N/N 	 1 	 things important
+4 	 6 	 (S[b]\NP)/NP 	 2 	 things understand <XU>
+4 	 10 	 (S[dcl]\NP)/S[em] 	 1 	 things is
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 understand to
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 understand about
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 Allen about
+9 	 8 	 N/N 	 1 	 Allen Mr.
+11 	 10 	 (S[dcl]\NP)/S[em] 	 2 	 that is
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 he is
+13 	 11 	 S[em]/S[dcl] 	 1 	 is that
+17 	 13 	 (S[dcl]\NP)/NP 	 2 	 intellectual is
+17 	 14 	 NP[nb]/N 	 1 	 intellectual a
+17 	 15 	 N/N 	 1 	 intellectual black
+17 	 16 	 N/N 	 1 	 intellectual conservative
+17 	 18 	 (NP\NP)/NP 	 1 	 intellectual --
+21 	 18 	 (NP\NP)/NP 	 2 	 threat --
+21 	 19 	 NP[nb]/N 	 1 	 threat a
+21 	 20 	 N/N 	 1 	 threat triple
+21 	 22 	 (NP\NP)/NP 	 1 	 threat to
+25 	 22 	 (NP\NP)/NP 	 2 	 establishment to
+25 	 23 	 NP[nb]/N 	 1 	 establishment the
+25 	 24 	 N/N 	 1 	 establishment liberal
+<\s>
+<s id="wsj_2054.20"> 33
+1 	 0 	 N/N 	 1 	 Allen Mr.
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Allen who
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 Allen teaches <XB>
+1 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Allen will <XU>
+1 	 15 	 (S[b]\NP)/NP 	 1 	 Allen remain <XU>
+1 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Allen has
+1 	 23 	 (S[pt]\NP)/NP 	 1 	 Allen spent <XB>
+1 	 25 	 (S[ng]\NP)/S[em] 	 1 	 Allen arguing <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 teaches who
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 teaches at
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 government teaches
+10 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 College at
+10 	 7 	 N/N 	 1 	 College prestigious
+10 	 8 	 N/N 	 1 	 College Harvey
+10 	 9 	 N/N 	 1 	 College Mudd
+10 	 11 	 (NP\NP)/NP 	 1 	 College in
+12 	 11 	 (NP\NP)/NP 	 2 	 California in
+14 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will who
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 remain will
+17 	 15 	 (S[b]\NP)/NP 	 2 	 member remain
+17 	 16 	 NP[nb]/N 	 1 	 member a
+17 	 18 	 (NP\NP)/NP 	 1 	 member of
+20 	 18 	 (NP\NP)/NP 	 2 	 commission of
+20 	 19 	 NP[nb]/N 	 1 	 commission the
+23 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 spent has
+24 	 23 	 (S[pt]\NP)/NP 	 2 	 years spent
+26 	 25 	 (S[ng]\NP)/S[em] 	 2 	 that arguing
+28 	 27 	 N/N 	 1 	 rights civil
+28 	 29 	 (S[dcl]\NP)/NP 	 1 	 rights are
+29 	 26 	 S[em]/S[dcl] 	 1 	 are that
+30 	 31 	 (NP[nb]/N)\NP 	 2 	 individuals '
+32 	 29 	 (S[dcl]\NP)/NP 	 2 	 rights are
+32 	 31 	 (NP[nb]/N)\NP 	 1 	 rights '
+<\s>
+<s id="wsj_2054.21"> 22
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 He made
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 made last
+2 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 made when
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 waves made
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 he dared
+5 	 8 	 (S[b]\NP)/NP 	 1 	 he defend <XB>
+6 	 4 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 dared when
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to dared
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 defend to
+11 	 8 	 (S[b]\NP)/NP 	 2 	 girl defend
+11 	 9 	 NP[nb]/N 	 1 	 girl an
+11 	 10 	 N/N 	 1 	 girl Indian
+11 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 girl who
+11 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 girl had <XB>
+11 	 15 	 S[pss]\NP 	 1 	 girl adopted <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had who
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+15 	 14 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 adopted been
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 adopted by
+15 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 adopted off
+18 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 parents by
+18 	 17 	 N/N 	 1 	 parents non-Indian
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 reservation off
+21 	 20 	 NP[nb]/N 	 1 	 reservation her
+<\s>
+<s id="wsj_2054.22"> 26
+1 	 0 	 N/N 	 1 	 Allen Mr.
+1 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Allen ran
+1 	 4 	 (S[adj]\NP)/PP 	 1 	 Allen up <XB>
+1 	 13 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Allen elevated <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 ran quickly
+3 	 9 	 (S\NP)\(S\NP) 	 2 	 ran again
+3 	 11 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 ran which
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 up ran
+5 	 4 	 (S[adj]\NP)/PP 	 2 	 against up
+8 	 5 	 PP/NP 	 1 	 establishment against
+8 	 6 	 NP[nb]/N 	 1 	 establishment the
+8 	 7 	 N/N 	 1 	 establishment liberal
+13 	 11 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 elevated which
+13 	 12 	 (S\NP)/(S\NP) 	 2 	 elevated somehow
+16 	 13 	 ((S[dcl]\NP)/PP)/NP 	 3 	 concept elevated
+16 	 14 	 NP[nb]/N 	 1 	 concept the
+16 	 15 	 N/N 	 1 	 concept vague
+16 	 17 	 (NP\NP)/NP 	 1 	 concept of
+19 	 17 	 (NP\NP)/NP 	 2 	 rights of
+19 	 18 	 N/N 	 1 	 rights Indian
+20 	 13 	 ((S[dcl]\NP)/PP)/NP 	 2 	 above elevated
+22 	 20 	 PP/NP 	 1 	 rights above
+22 	 21 	 NP[nb]/N 	 1 	 rights the
+22 	 23 	 (NP\NP)/NP 	 1 	 rights of
+25 	 23 	 (NP\NP)/NP 	 2 	 Indians of
+25 	 24 	 N/N 	 1 	 Indians individual
+<\s>
+<s id="wsj_2054.23"> 21
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There is
+4 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 divide is
+4 	 2 	 NP[nb]/N 	 1 	 divide a
+4 	 3 	 N/N 	 1 	 divide huge
+4 	 5 	 (NP\NP)/NP 	 1 	 divide between
+7 	 6 	 N/N 	 1 	 Allen Mr.
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 Allen 's
+10 	 5 	 (NP\NP)/NP 	 2 	 view between
+10 	 8 	 (NP[nb]/N)\NP 	 1 	 view 's
+10 	 9 	 N/N 	 1 	 view we're-all-in-this-together
+15 	 5 	 (NP\NP)/NP 	 2 	 approach between
+15 	 12 	 NP[nb]/N 	 1 	 approach the
+15 	 13 	 N/N 	 1 	 approach divisive
+15 	 14 	 N/N 	 1 	 approach litigation
+15 	 16 	 (NP\NP)/NP 	 1 	 approach of
+20 	 16 	 (NP\NP)/NP 	 2 	 groups of
+20 	 17 	 NP[nb]/N 	 1 	 groups the
+20 	 18 	 N/N 	 1 	 groups civil
+20 	 19 	 N/N 	 1 	 groups rights
+<\s>
+<s id="wsj_2054.24"> 17
+3 	 2 	 NP[nb]/N 	 1 	 gap the
+3 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 gap is
+3 	 5 	 ((S[adj]\NP)/S[em])/(S[adj]\NP) 	 1 	 gap so <XB>
+4 	 0 	 S/S 	 1 	 is Indeed
+5 	 4 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 so is
+6 	 5 	 ((S[adj]\NP)/S[em])/(S[adj]\NP) 	 3 	 large so
+7 	 5 	 ((S[adj]\NP)/S[em])/(S[adj]\NP) 	 2 	 that so
+9 	 8 	 N/N 	 1 	 Allen Mr.
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Allen 's
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 critics 's
+11 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 critics refuse
+11 	 14 	 (S[b]\NP)/NP 	 1 	 critics engage <XB>
+12 	 7 	 S[em]/S[dcl] 	 1 	 refuse that
+13 	 12 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to refuse
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 engage to
+16 	 14 	 (S[b]\NP)/NP 	 2 	 debate engage
+16 	 15 	 NP[nb]/N 	 1 	 debate the
+<\s>
+<s id="wsj_2054.25"> 9
+1 	 0 	 NP[nb]/N 	 1 	 ridicule Their
+1 	 2 	 (NP\NP)/NP 	 1 	 ridicule of
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 ridicule is
+3 	 2 	 (NP\NP)/NP 	 2 	 him of
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 substitute is
+6 	 5 	 NP[nb]/N 	 1 	 substitute no
+6 	 7 	 (NP\NP)/NP 	 1 	 substitute for
+8 	 7 	 (NP\NP)/NP 	 2 	 argument for
+<\s>
+<s id="wsj_2054.26"> 19
+1 	 0 	 NP[nb]/N 	 1 	 effort Their
+1 	 3 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 effort run <XB>
+1 	 8 	 (S[dcl]\NP)/NP 	 1 	 effort is
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 run to
+4 	 3 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 him run
+4 	 5 	 (S[adj]\NP)/PP 	 1 	 him out <XB>
+5 	 3 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 out run
+6 	 5 	 (S[adj]\NP)/PP 	 2 	 of out
+7 	 6 	 PP/NP 	 1 	 Washington of
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 embarrassment is
+10 	 9 	 NP[nb]/N 	 1 	 embarrassment an
+10 	 11 	 (NP\NP)/NP 	 1 	 embarrassment to
+14 	 11 	 (NP\NP)/NP 	 2 	 purpose to
+14 	 12 	 NP[nb]/N 	 1 	 purpose the
+14 	 13 	 N/N 	 1 	 purpose original
+14 	 15 	 (NP\NP)/NP 	 1 	 purpose of
+18 	 15 	 (NP\NP)/NP 	 2 	 movement of
+18 	 16 	 NP[nb]/N 	 1 	 movement their
+18 	 17 	 N/N 	 1 	 movement own
+<\s>
+<s id="wsj_2054.27"> 26
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 We hope
+4 	 2 	 NP[nb]/N 	 1 	 head the
+4 	 3 	 N/N 	 1 	 head next
+4 	 5 	 (NP\NP)/NP 	 1 	 head of
+4 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 head will
+4 	 13 	 (S[adj]\NP)/PP 	 1 	 head brave <XB>
+4 	 18 	 (S[ng]\NP)/NP 	 1 	 head making <XB>
+9 	 5 	 (NP\NP)/NP 	 2 	 Commission of
+9 	 6 	 NP[nb]/N 	 1 	 Commission the
+9 	 7 	 N/N 	 1 	 Commission Civil
+9 	 8 	 N/N 	 1 	 Commission Rights
+10 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 will hope
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+11 	 17 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 be in
+13 	 11 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 brave be
+13 	 12 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 brave as
+14 	 13 	 (S[adj]\NP)/PP 	 2 	 as brave
+16 	 14 	 PP/NP 	 1 	 Allen as
+16 	 15 	 N/N 	 1 	 Allen Mr.
+18 	 17 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 making in
+20 	 18 	 (S[ng]\NP)/NP 	 2 	 case making
+20 	 19 	 NP[nb]/N 	 1 	 case the
+20 	 21 	 (NP\NP)/NP 	 1 	 case for
+22 	 21 	 (NP\NP)/NP 	 2 	 equality for
+22 	 23 	 (NP\NP)/NP 	 1 	 equality of
+25 	 23 	 (NP\NP)/NP 	 2 	 rights of
+25 	 24 	 N/N 	 1 	 rights civil
+<\s>

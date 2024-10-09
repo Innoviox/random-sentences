@@ -1,0 +1,61 @@
+<s id="wsj_1230.1"> 23
+2 	 0 	 N/N 	 1 	 Salvagni Carlos
+2 	 1 	 N/N 	 1 	 Salvagni A.
+2 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Salvagni will
+2 	 11 	 (S[b]\NP)/NP 	 1 	 Salvagni assume <XB>
+5 	 4 	 N/N 	 1 	 president vice
+5 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 president will
+5 	 11 	 (S[b]\NP)/NP 	 1 	 president assume <XB>
+8 	 7 	 N/N 	 1 	 manufacturing pharmaceutical
+8 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 manufacturing will
+8 	 11 	 (S[b]\NP)/NP 	 1 	 manufacturing assume <XB>
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 assume will
+12 	 11 	 (S[b]\NP)/NP 	 2 	 responsibility assume
+12 	 13 	 (NP\NP)/NP 	 1 	 responsibility for
+12 	 20 	 (S[adj]\NP)/NP 	 1 	 responsibility effective <XB>
+14 	 13 	 (NP\NP)/NP 	 2 	 manufacturing for
+14 	 15 	 (NP\NP)/NP 	 1 	 manufacturing in
+16 	 15 	 (NP\NP)/NP 	 2 	 Kalamazoo in
+18 	 15 	 (NP\NP)/NP 	 2 	 Mich. in
+21 	 20 	 (S[adj]\NP)/NP 	 2 	 Nov. effective
+22 	 21 	 N/N[num] 	 1 	 1 Nov.
+<\s>
+<s id="wsj_1230.2"> 24
+1 	 0 	 N/N 	 1 	 Salvagni Mr.
+1 	 5 	 (S[adj]\NP)\NP 	 1 	 Salvagni old <XB>
+1 	 7 	 (S[dcl]\NP)/NP 	 1 	 Salvagni succeeds
+4 	 3 	 N/N 	 1 	 years 53
+4 	 5 	 (S[adj]\NP)\NP 	 2 	 years old
+10 	 7 	 (S[dcl]\NP)/NP 	 2 	 Griffin succeeds
+10 	 8 	 N/N 	 1 	 Griffin John
+10 	 9 	 N/N 	 1 	 Griffin C.
+10 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Griffin who
+10 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Griffin is <XB>
+10 	 16 	 (S[ng]\NP)/PP 	 1 	 Griffin retiring <XB>
+12 	 7 	 (S[dcl]\NP)/NP 	 2 	 57 succeeds
+12 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 57 who
+12 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 57 is <XB>
+12 	 16 	 (S[ng]\NP)/PP 	 1 	 57 retiring <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is who
+16 	 15 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 retiring is
+17 	 16 	 (S[ng]\NP)/PP 	 2 	 as retiring
+20 	 17 	 PP/NP 	 1 	 president as
+20 	 18 	 N/N 	 1 	 president corporate
+20 	 19 	 N/N 	 1 	 president vice
+20 	 21 	 (NP\NP)/NP 	 1 	 president of
+23 	 21 	 (NP\NP)/NP 	 2 	 manufacturing of
+23 	 22 	 N/N 	 1 	 manufacturing pharmaceutical
+<\s>
+<s id="wsj_1230.3"> 15
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Upjohn is
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 provider is
+4 	 2 	 NP[nb]/N 	 1 	 provider a
+4 	 3 	 N/N 	 1 	 provider world-wide
+4 	 5 	 (NP\NP)/NP 	 1 	 provider of
+7 	 5 	 (NP\NP)/NP 	 2 	 products of
+7 	 6 	 N/N 	 1 	 products health-care
+9 	 5 	 (NP\NP)/NP 	 2 	 services of
+11 	 5 	 (NP\NP)/NP 	 2 	 seeds of
+14 	 5 	 (NP\NP)/NP 	 2 	 chemicals of
+14 	 13 	 N/N 	 1 	 chemicals speciality
+<\s>

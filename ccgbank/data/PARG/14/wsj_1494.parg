@@ -1,0 +1,137 @@
+<s id="wsj_1494.1"> 34
+2 	 0 	 N/N 	 1 	 PLC Grand
+2 	 1 	 N/N 	 1 	 PLC Metropolitan
+2 	 19 	 (S[dcl]\NP)/NP 	 1 	 PLC announced
+7 	 4 	 NP[nb]/N 	 1 	 food the
+7 	 5 	 N/N 	 1 	 food United
+7 	 6 	 N/N 	 1 	 food Kingdom
+7 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 food that
+7 	 12 	 (S[dcl]\NP)/NP 	 1 	 food owns <XB>
+7 	 19 	 (S[dcl]\NP)/NP 	 1 	 food announced
+10 	 4 	 NP[nb]/N 	 1 	 group the
+10 	 5 	 N/N 	 1 	 group United
+10 	 6 	 N/N 	 1 	 group Kingdom
+10 	 9 	 N/N 	 1 	 group beverage
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 group that
+10 	 12 	 (S[dcl]\NP)/NP 	 1 	 group owns <XB>
+10 	 19 	 (S[dcl]\NP)/NP 	 1 	 group announced
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 owns that
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 Inc. owns
+14 	 13 	 N/N 	 1 	 Inc. Pillsbury
+14 	 15 	 (NP\NP)/NP 	 1 	 Inc. of
+17 	 15 	 (NP\NP)/NP 	 2 	 U.S. of
+17 	 16 	 NP[nb]/N 	 1 	 U.S. the
+21 	 19 	 (S[dcl]\NP)/NP 	 2 	 reshuffling announced
+21 	 20 	 NP[nb]/N 	 1 	 reshuffling a
+21 	 22 	 (NP\NP)/NP 	 1 	 reshuffling of
+21 	 26 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 reshuffling intended <XB>
+21 	 28 	 (S[b]\NP)/NP 	 1 	 reshuffling fit <XB>
+25 	 22 	 (NP\NP)/NP 	 2 	 duties of
+25 	 23 	 N/N 	 1 	 duties board-level
+25 	 24 	 N/N 	 1 	 duties executive
+27 	 26 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to intended
+28 	 27 	 (S[to]\NP)/(S[b]\NP) 	 2 	 fit to
+30 	 29 	 NP[nb]/N 	 1 	 company the
+30 	 31 	 (NP[nb]/N)\NP 	 2 	 company 's
+33 	 28 	 (S[b]\NP)/NP 	 2 	 expansion fit
+33 	 31 	 (NP[nb]/N)\NP 	 1 	 expansion 's
+33 	 32 	 N/N 	 1 	 expansion recent
+<\s>
+<s id="wsj_1494.2"> 23
+1 	 0 	 N/N 	 1 	 Nash David
+1 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Nash will
+1 	 13 	 (S[b]\NP)/NP 	 1 	 Nash become <XB>
+6 	 3 	 N/N 	 1 	 director formerly
+6 	 4 	 N/N 	 1 	 director group
+6 	 5 	 N/N 	 1 	 director finance
+6 	 7 	 (NP\NP)/NP 	 1 	 director at
+6 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 director will
+6 	 13 	 (S[b]\NP)/NP 	 1 	 director become <XB>
+10 	 7 	 (NP\NP)/NP 	 2 	 PLC at
+10 	 8 	 N/N 	 1 	 PLC Cadbury
+10 	 9 	 N/N 	 1 	 PLC Schweppes
+13 	 12 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 become will
+13 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 become in
+15 	 14 	 N/N 	 1 	 Met Grand
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 Met 's
+20 	 13 	 (S[b]\NP)/NP 	 2 	 director become
+20 	 16 	 (NP[nb]/N)\NP 	 1 	 director 's
+20 	 17 	 N/N 	 1 	 director first
+20 	 18 	 N/N 	 1 	 director group
+20 	 19 	 N/N 	 1 	 director finance
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 January in
+<\s>
+<s id="wsj_1494.3"> 22
+2 	 0 	 (S/S)/NP 	 2 	 statement In
+2 	 1 	 NP[nb]/N 	 1 	 statement a
+5 	 4 	 N/N 	 1 	 Met Grand
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 Met said
+6 	 0 	 (S/S)/NP 	 1 	 said In
+9 	 7 	 NP[nb]/N 	 1 	 growth its
+9 	 8 	 N/N 	 1 	 growth recent
+9 	 14 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 growth made
+13 	 7 	 NP[nb]/N 	 1 	 spread its
+13 	 8 	 N/N 	 1 	 spread recent
+13 	 11 	 N/N 	 1 	 spread wider
+13 	 12 	 N/N 	 1 	 spread geographic
+13 	 14 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 spread made
+14 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 made said
+15 	 14 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 it made
+15 	 16 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 it necessary <XB>
+16 	 14 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 necessary made
+17 	 16 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to necessary
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 create to
+21 	 18 	 (S[b]\NP)/NP 	 2 	 position create
+21 	 19 	 NP[nb]/N 	 1 	 position the
+21 	 20 	 N/N 	 1 	 position new
+<\s>
+<s id="wsj_1494.4"> 7
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 company reassigned
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 reassigned also
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 responsibilities reassigned
+6 	 4 	 N/N 	 1 	 responsibilities several
+6 	 5 	 N/N 	 1 	 responsibilities executive
+<\s>
+<s id="wsj_1494.5"> 18
+1 	 0 	 N/N 	 1 	 Tagg David
+1 	 4 	 (NP\NP)/NP 	 1 	 Tagg in
+1 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Tagg was
+1 	 11 	 (S[pss]\NP)/NP 	 1 	 Tagg appointed <XB>
+4 	 3 	 (NP\NP)/(NP\NP) 	 2 	 in formerly
+5 	 4 	 (NP\NP)/NP 	 2 	 charge in
+5 	 6 	 (NP\NP)/NP 	 1 	 charge of
+8 	 6 	 (NP\NP)/NP 	 2 	 operations of
+8 	 7 	 N/N 	 1 	 operations gambling
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 appointed was
+13 	 11 	 (S[pss]\NP)/NP 	 2 	 executive appointed
+13 	 12 	 N/N 	 1 	 executive chief
+13 	 14 	 (NP\NP)/NP 	 1 	 executive for
+15 	 14 	 (NP\NP)/NP 	 2 	 retailing for
+17 	 14 	 (NP\NP)/NP 	 2 	 property for
+<\s>
+<s id="wsj_1494.6"> 25
+1 	 0 	 N/N 	 1 	 Cawdron Peter
+1 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Cawdron will
+1 	 17 	 (S[b]\NP)/NP 	 1 	 Cawdron become <XB>
+6 	 3 	 N/N 	 1 	 director group
+6 	 4 	 N/N 	 1 	 director strategy
+6 	 5 	 N/N 	 1 	 director development
+6 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 director will
+6 	 17 	 (S[b]\NP)/NP 	 1 	 director become <XB>
+10 	 9 	 N/N 	 1 	 Shardlow Bill
+10 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Shardlow will
+10 	 17 	 (S[b]\NP)/NP 	 1 	 Shardlow become <XB>
+14 	 12 	 N/N 	 1 	 director group
+14 	 13 	 N/N 	 1 	 director personnel
+14 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 director will
+14 	 17 	 (S[b]\NP)/NP 	 1 	 director become <XB>
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 become will
+18 	 17 	 (S[b]\NP)/NP 	 2 	 part become
+18 	 19 	 (NP\NP)/NP 	 1 	 part of
+21 	 20 	 NP[nb]/N 	 1 	 board the
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 board 's
+24 	 19 	 (NP\NP)/NP 	 2 	 committee of
+24 	 22 	 (NP[nb]/N)\NP 	 1 	 committee 's
+24 	 23 	 N/N 	 1 	 committee management
+<\s>

@@ -1,0 +1,147 @@
+<s id="wsj_2435.1"> 30
+3 	 0 	 N/N 	 1 	 Co. Matsushita
+3 	 1 	 N/N 	 1 	 Co. Electric
+3 	 2 	 N/N 	 1 	 Co. Industrial
+3 	 4 	 (NP\NP)/NP 	 1 	 Co. of
+3 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. announced
+5 	 4 	 (NP\NP)/NP 	 2 	 Japan of
+8 	 7 	 N/N 	 1 	 AG Siemens
+8 	 9 	 (NP\NP)/NP 	 1 	 AG of
+8 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 AG announced
+11 	 9 	 (NP\NP)/NP 	 2 	 Germany of
+11 	 10 	 N/N 	 1 	 Germany West
+13 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 they have
+13 	 15 	 (S[pt]\NP)/NP 	 1 	 they completed <XB>
+14 	 12 	 (S[dcl]\NP)/S[dcl] 	 2 	 have announced
+15 	 14 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 completed have
+18 	 17 	 (N/N)/(N/N) 	 2 	 million-mark 100
+20 	 19 	 (N/N)/(S[adj]\NP) 	 2 	 $ -LRB-
+22 	 20 	 (S[adj]\NP)/N[num] 	 2 	 million $
+22 	 21 	 N/N 	 1 	 million 52.2
+25 	 15 	 (S[pt]\NP)/NP 	 2 	 venture completed
+25 	 16 	 NP[nb]/N 	 1 	 venture a
+25 	 18 	 N/N 	 1 	 venture million-mark
+25 	 19 	 (N/N)/(S[adj]\NP) 	 1 	 venture -LRB-
+25 	 24 	 N/N 	 1 	 venture joint
+25 	 27 	 (S[b]\NP)/NP 	 1 	 venture produce <XB>
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 produce to
+29 	 27 	 (S[b]\NP)/NP 	 2 	 parts produce
+29 	 28 	 N/N 	 1 	 parts electronics
+<\s>
+<s id="wsj_2435.3"> 11
+2 	 0 	 NP[nb]/N 	 1 	 agreement A
+2 	 1 	 N/N 	 1 	 agreement basic
+2 	 3 	 (NP\NP)/NP 	 1 	 agreement between
+2 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 agreement was
+2 	 8 	 S[pss]\NP 	 1 	 agreement announced <XB>
+6 	 3 	 (NP\NP)/NP 	 2 	 companies between
+6 	 4 	 NP[nb]/N 	 1 	 companies the
+6 	 5 	 N/N 	 1 	 companies two
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 announced was
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 announced in
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 June in
+<\s>
+<s id="wsj_2435.4"> 13
+2 	 0 	 NP[nb]/N 	 1 	 company The
+2 	 1 	 N/N 	 1 	 company new
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 company is
+2 	 6 	 (S[pss]\NP)/NP 	 1 	 company called <XB>
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+6 	 5 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 called be
+12 	 6 	 (S[pss]\NP)/NP 	 2 	 H called
+12 	 7 	 N/N 	 1 	 H Siemens
+12 	 8 	 N/N 	 1 	 H Matsushita
+12 	 9 	 N/N 	 1 	 H Components
+12 	 10 	 N/N 	 1 	 H G.m.b
+<\s>
+<s id="wsj_2435.5"> 7
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 It will
+0 	 2 	 (S[b]\NP)/NP 	 1 	 It have <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 have in
+4 	 2 	 (S[b]\NP)/NP 	 2 	 headquarters have
+4 	 3 	 NP[nb]/N 	 1 	 headquarters its
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 Munich in
+<\s>
+<s id="wsj_2435.6"> 24
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Matsushita 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 share 's
+2 	 3 	 (NP\NP)/NP 	 1 	 share in
+2 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 share will
+2 	 7 	 S[b]\NP 	 1 	 share rise <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 venture in
+5 	 4 	 NP[nb]/N 	 1 	 venture the
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 rise will
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rise to
+7 	 11 	 ((S\NP)\(S\NP))/N[num] 	 2 	 rise Oct.
+7 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 rise to <XU>
+7 	 20 	 ((S\NP)\(S\NP))/N 	 2 	 rise the <XU>
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+10 	 9 	 N/N 	 1 	 % 35
+11 	 14 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 Oct. 1990
+12 	 11 	 ((S\NP)\(S\NP))/N[num] 	 3 	 1 Oct.
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+19 	 18 	 N/N 	 1 	 % 50
+22 	 20 	 ((S\NP)\(S\NP))/N 	 3 	 Oct. the
+22 	 21 	 N/N 	 1 	 Oct. following
+22 	 23 	 N\N 	 1 	 Oct. 1
+<\s>
+<s id="wsj_2435.7"> 6
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Siemens will
+0 	 2 	 (S[b]\NP)/NP 	 1 	 Siemens retain <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 retain will
+5 	 2 	 (S[b]\NP)/NP 	 2 	 rights retain
+5 	 3 	 N/N 	 1 	 rights majority
+5 	 4 	 N/N 	 1 	 rights voting
+<\s>
+<s id="wsj_2435.8"> 21
+2 	 0 	 NP[nb]/N 	 1 	 companies The
+2 	 1 	 N/N 	 1 	 companies parent
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 companies forecast
+3 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 forecast for
+3 	 20 	 (S[dcl]\S[dcl])\NP 	 1 	 forecast said
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 sales forecast
+4 	 5 	 (NP\NP)/NP 	 1 	 sales for
+4 	 8 	 (NP\NP)/NP 	 1 	 sales of
+7 	 5 	 (NP\NP)/NP 	 2 	 venture for
+7 	 6 	 NP[nb]/N 	 1 	 venture the
+11 	 9 	 (N/N)/(N/N) 	 2 	 million around
+11 	 10 	 (N/N)/(N/N) 	 2 	 million 750
+12 	 8 	 (NP\NP)/NP 	 2 	 marks of
+12 	 11 	 N/N 	 1 	 marks million
+17 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 year for
+17 	 14 	 NP[nb]/N 	 1 	 year its
+17 	 15 	 N/N 	 1 	 year first
+17 	 16 	 N/N 	 1 	 year fiscal
+19 	 20 	 (S[dcl]\S[dcl])\NP 	 2 	 Matsushita said
+<\s>
+<s id="wsj_2435.9"> 12
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Sales are
+0 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 Sales expected <XB>
+0 	 4 	 S[b]\NP 	 1 	 Sales rise <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected are
+3 	 2 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rise to
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 rise to
+4 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 rise after
+7 	 6 	 (N/N)/(N/N) 	 2 	 billion one
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 marks to
+8 	 7 	 N/N 	 1 	 marks billion
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 years after
+11 	 10 	 N/N 	 1 	 years four
+<\s>
+<s id="wsj_2435.10"> 15
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 company will
+1 	 3 	 (S[b]\NP)/NP 	 1 	 company have <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 have in
+5 	 3 	 (S[b]\NP)/NP 	 2 	 facilities have
+5 	 4 	 N/N 	 1 	 facilities production
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Germany in
+8 	 7 	 N/N 	 1 	 Germany West
+10 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Austria in
+12 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 France in
+14 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Spain in
+<\s>

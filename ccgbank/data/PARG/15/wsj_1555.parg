@@ -1,0 +1,400 @@
+<s id="wsj_1555.1"> 26
+1 	 0 	 N/N 	 1 	 Co. Hewlett-Packard
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Co. will
+1 	 3 	 (S[b]\NP)/NP 	 1 	 Co. announce <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 announce will
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 announce today
+7 	 3 	 (S[b]\NP)/NP 	 2 	 program announce
+7 	 5 	 NP[nb]/N 	 1 	 program a
+7 	 6 	 N/N 	 1 	 program software
+7 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 program that
+7 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 program allows <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 allows that
+10 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 computers allows
+10 	 11 	 (NP\NP)/NP 	 1 	 computers in
+10 	 15 	 (S[b]\NP)/NP 	 1 	 computers speed <XB>
+10 	 20 	 (S[ng]\NP)/NP 	 1 	 computers sending <XB>
+13 	 11 	 (NP\NP)/NP 	 2 	 network in
+13 	 12 	 NP[nb]/N 	 1 	 network a
+14 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to allows
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 speed to
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 speed up
+15 	 19 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 speed by
+18 	 15 	 (S[b]\NP)/NP 	 2 	 tasks speed
+18 	 17 	 N/N 	 1 	 tasks computing
+20 	 19 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 sending by
+20 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 sending to
+22 	 20 	 (S[ng]\NP)/NP 	 2 	 tasks sending
+22 	 21 	 NP[nb]/N 	 1 	 tasks the
+25 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 other to
+25 	 24 	 NP[nb]/N 	 1 	 other each
+<\s>
+<s id="wsj_1555.2"> 18
+2 	 0 	 (S[pss]\NP)/NP 	 2 	 Broker Called
+2 	 1 	 N/N 	 1 	 Broker Task
+5 	 4 	 NP[nb]/N 	 1 	 program the
+5 	 6 	 S[dcl]\NP 	 1 	 program acts
+6 	 8 	 (((S\NP)\(S\NP))\NP)/NP 	 2 	 acts like
+7 	 8 	 (((S\NP)\(S\NP))\NP)/NP 	 3 	 something like
+10 	 8 	 (((S\NP)\(S\NP))\NP)/NP 	 4 	 auctioneer like
+10 	 9 	 NP[nb]/N 	 1 	 auctioneer an
+10 	 11 	 (NP\NP)/NP 	 1 	 auctioneer among
+13 	 11 	 (NP\NP)/NP 	 2 	 group among
+13 	 12 	 NP[nb]/N 	 1 	 group a
+13 	 14 	 (NP\NP)/NP 	 1 	 group of
+13 	 16 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 group wired <XB>
+13 	 17 	 S[adj]\NP 	 1 	 group together <XB>
+15 	 14 	 (NP\NP)/NP 	 2 	 computers of
+17 	 16 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 together wired
+<\s>
+<s id="wsj_1555.3"> 22
+2 	 1 	 NP[nb]/N 	 1 	 machine a
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 machine has
+3 	 0 	 (S/S)/S[dcl] 	 2 	 has If
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 task has
+7 	 4 	 NP[nb]/N 	 1 	 task a
+7 	 5 	 N/N 	 1 	 task big
+7 	 6 	 N/N 	 1 	 task computing
+10 	 9 	 N/N 	 1 	 Broker Task
+10 	 11 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Broker asks
+11 	 0 	 (S/S)/S[dcl] 	 1 	 asks If
+13 	 11 	 ((S[dcl]\NP)/PP)/NP 	 3 	 computers asks
+13 	 12 	 N/N 	 1 	 computers other
+13 	 14 	 (NP\NP)/NP 	 1 	 computers in
+16 	 14 	 (NP\NP)/NP 	 2 	 network in
+16 	 15 	 NP[nb]/N 	 1 	 network the
+17 	 11 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for asks
+18 	 17 	 PP/NP 	 1 	 bids for
+18 	 19 	 (NP\NP)/NP 	 1 	 bids on
+21 	 19 	 (NP\NP)/NP 	 2 	 job on
+21 	 20 	 NP[nb]/N 	 1 	 job the
+<\s>
+<s id="wsj_1555.4"> 20
+0 	 2 	 (S[dcl]\NP)/S[qem] 	 1 	 It determines
+0 	 14 	 (S[dcl]\NP)/NP 	 1 	 It sends <XU>
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 determines then
+3 	 2 	 (S[dcl]\NP)/S[qem] 	 2 	 which determines
+4 	 3 	 (S[qem]/(S[dcl]\NP))/N 	 2 	 machine which
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 machine is <XB>
+4 	 6 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 machine free <XB>
+5 	 3 	 (S[qem]/(S[dcl]\NP))/N 	 1 	 is which
+6 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 free is
+7 	 6 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to free
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+8 	 12 	 (S\NP)\(S\NP) 	 2 	 do quickly
+10 	 8 	 (S[b]\NP)/NP 	 2 	 task do
+10 	 9 	 NP[nb]/N 	 1 	 task the
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 quickly most
+14 	 1 	 (S\NP)/(S\NP) 	 2 	 sends then
+14 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 sends to
+16 	 14 	 (S[dcl]\NP)/NP 	 2 	 task sends
+16 	 15 	 NP[nb]/N 	 1 	 task the
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 machine to
+19 	 18 	 NP[nb]/N 	 1 	 machine that
+<\s>
+<s id="wsj_1555.5"> 26
+0 	 1 	 (S[dcl]\NP)/S[em] 	 1 	 Hewlett-Packard claims
+2 	 1 	 (S[dcl]\NP)/S[em] 	 2 	 that claims
+4 	 3 	 NP[nb]/N 	 1 	 software the
+4 	 5 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 software allows
+4 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 software will <XU>
+4 	 20 	 (S[b]\NP)/NP 	 1 	 software run <XU>
+5 	 2 	 S[em]/S[dcl] 	 1 	 allows that
+7 	 5 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 network allows
+7 	 6 	 NP[nb]/N 	 1 	 network a
+7 	 9 	 (S[b]\NP)/NP 	 1 	 network run <XB>
+8 	 5 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to allows
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 run to
+11 	 10 	 ((N/N)/(N/N))/((N/N)/(N/N)) 	 3 	 times three
+13 	 11 	 (N/N)/(N/N) 	 2 	 many times
+13 	 12 	 (N/N)/(N/N) 	 2 	 many as
+14 	 9 	 (S[b]\NP)/NP 	 2 	 tasks run
+14 	 13 	 N/N 	 1 	 tasks many
+14 	 15 	 (NP\NP)/NP 	 1 	 tasks as
+17 	 15 	 (NP\NP)/NP 	 2 	 networks as
+17 	 16 	 N/N 	 1 	 networks conventional
+19 	 2 	 S[em]/S[dcl] 	 1 	 will that
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 run will
+20 	 25 	 (S\NP)\(S\NP) 	 2 	 run fast
+22 	 20 	 (S[b]\NP)/NP 	 2 	 task run
+22 	 21 	 NP[nb]/N 	 1 	 task each
+25 	 23 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 fast twice
+25 	 24 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 fast as
+<\s>
+<s id="wsj_1555.6"> 34
+3 	 0 	 NP[nb]/N 	 1 	 program The
+3 	 1 	 N/N 	 1 	 program new
+3 	 2 	 N/N 	 1 	 program Hewlett-Packard
+3 	 19 	 (S[dcl]\NP)/NP 	 1 	 program is
+8 	 5 	 (S[dcl]\S[dcl])/NP 	 2 	 McCarthy said
+8 	 6 	 N/N 	 1 	 McCarthy analyst
+8 	 7 	 N/N 	 1 	 McCarthy John
+8 	 9 	 (NP\NP)/NP 	 1 	 McCarthy at
+12 	 9 	 (NP\NP)/NP 	 2 	 Inc. at
+12 	 10 	 N/N 	 1 	 Inc. Forrester
+12 	 11 	 N/N 	 1 	 Inc. Research
+17 	 9 	 (NP\NP)/NP 	 2 	 company at
+17 	 14 	 NP[nb]/N 	 1 	 company a
+17 	 15 	 N/N 	 1 	 company computer-market
+17 	 16 	 N/N 	 1 	 company research
+19 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 is as
+23 	 19 	 (S[dcl]\NP)/NP 	 2 	 block is
+23 	 20 	 NP[nb]/N 	 1 	 block a
+23 	 21 	 N/N 	 1 	 block key
+23 	 22 	 N/N 	 1 	 block building
+25 	 26 	 S[dcl]\NP 	 1 	 people move
+26 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 move as
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 move to
+30 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 model to
+30 	 28 	 NP[nb]/N 	 1 	 model this
+30 	 29 	 N/N 	 1 	 model new
+30 	 31 	 (NP\NP)/NP 	 1 	 model of
+33 	 31 	 (NP\NP)/NP 	 2 	 processing of
+33 	 32 	 N/N 	 1 	 processing distributed
+<\s>
+<s id="wsj_1555.7"> 15
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 today 's
+4 	 0 	 (S/S)/NP 	 2 	 networks In
+4 	 2 	 (NP[nb]/N)\NP 	 1 	 networks 's
+4 	 3 	 N/N 	 1 	 networks computer
+7 	 6 	 NP[nb]/N 	 1 	 machines some
+7 	 9 	 S[dcl]\NP 	 1 	 machines sit
+7 	 10 	 S[adj]\NP 	 1 	 machines idle <XB>
+9 	 0 	 (S/S)/NP 	 1 	 sit In
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 sit often
+9 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 sit while
+12 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 others are
+12 	 14 	 S[pss]\NP 	 1 	 others overtaxed <XB>
+13 	 11 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are while
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 overtaxed are
+<\s>
+<s id="wsj_1555.8"> 20
+3 	 0 	 (S/S)/NP 	 2 	 program With
+3 	 1 	 NP[nb]/N 	 1 	 program the
+3 	 2 	 N/N 	 1 	 program Hewlett-Packard
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 he said
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 You get
+9 	 0 	 (S/S)/NP 	 1 	 get With
+9 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 get said <XU>
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 bang get
+11 	 10 	 N/N 	 1 	 bang more
+11 	 12 	 (NP\NP)/NP 	 1 	 bang for
+14 	 12 	 (NP\NP)/NP 	 2 	 buck for
+14 	 13 	 NP[nb]/N 	 1 	 buck the
+14 	 17 	 ((S[pt]\NP)/PP)/NP 	 3 	 buck spent <XU>
+15 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 you 've
+15 	 17 	 ((S[pt]\NP)/PP)/NP 	 1 	 you spent <XB>
+17 	 16 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 spent 've
+18 	 17 	 ((S[pt]\NP)/PP)/NP 	 2 	 on spent
+19 	 18 	 PP/NP 	 1 	 computers on
+<\s>
+<s id="wsj_1555.9"> 17
+1 	 0 	 NP[nb]/N 	 1 	 program The
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 program which
+1 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 program will <XB>
+1 	 6 	 S[pss]\NP 	 1 	 program shipped <XB>
+1 	 11 	 S[dcl]\NP 	 1 	 program runs
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will which
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+6 	 5 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 shipped be
+6 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 shipped in
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 January in
+8 	 9 	 N\N 	 1 	 January 1990
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 runs on
+16 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 system on
+16 	 13 	 NP[nb]/N 	 1 	 system the
+16 	 14 	 N/N 	 1 	 system Unix
+16 	 15 	 N/N 	 1 	 system operating
+<\s>
+<s id="wsj_1555.10"> 11
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Hewlett-Packard will
+0 	 2 	 ((S[b]\NP)/PP)/NP 	 1 	 Hewlett-Packard charge <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 charge will
+3 	 2 	 ((S[b]\NP)/PP)/NP 	 3 	 $ charge
+4 	 3 	 N/N[num] 	 1 	 5,000 $
+5 	 2 	 ((S[b]\NP)/PP)/NP 	 2 	 for charge
+7 	 5 	 PP/NP 	 1 	 license for
+7 	 6 	 NP[nb]/N 	 1 	 license a
+7 	 8 	 (S[ng]\NP)/NP 	 1 	 license covering <XB>
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 users covering
+10 	 9 	 N/N 	 1 	 users 10
+<\s>
+<s id="wsj_1555.11"> 22
+1 	 0 	 NP[nb]/N 	 1 	 program The
+1 	 3 	 S[dcl]\NP 	 1 	 program works
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 works now
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 works on
+3 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 works on <XU>
+9 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 workstations on
+9 	 5 	 NP[nb]/N 	 1 	 workstations all
+9 	 6 	 N/N 	 1 	 workstations Hewlett-Packard
+9 	 8 	 N/N 	 1 	 workstations Apollo
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 computers on
+12 	 13 	 S[pss]\NP 	 1 	 computers made <XB>
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 made by
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 Inc. by
+17 	 15 	 N/N 	 1 	 Inc. Multiflow
+17 	 16 	 N/N 	 1 	 Inc. Computer
+17 	 18 	 (NP\NP)/NP 	 1 	 Inc. of
+19 	 18 	 (NP\NP)/NP 	 2 	 Branford of
+21 	 18 	 (NP\NP)/NP 	 2 	 Conn of
+<\s>
+<s id="wsj_1555.12"> 20
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Hewlett-Packard said
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it will
+2 	 4 	 (S[b]\NP)/NP 	 1 	 it sell <XB>
+2 	 10 	 S[dcl]\NP 	 1 	 it run <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 sell will
+4 	 8 	 (S\NP)\(S\NP) 	 2 	 sell year
+4 	 9 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 2 	 sell that
+5 	 4 	 (S[b]\NP)/NP 	 2 	 versions sell
+8 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year later
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 year next
+10 	 9 	 ((S\NP)\(S\NP))/(S[dcl]\NP) 	 3 	 run that
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 run on
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Inc. on
+14 	 12 	 N/N 	 1 	 Inc. Sun
+14 	 13 	 N/N 	 1 	 Inc. Microsystems
+19 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 machines on
+19 	 16 	 N/N 	 1 	 machines Digital
+19 	 17 	 N/N 	 1 	 machines Equipment
+19 	 18 	 N/N 	 1 	 machines Corp.
+<\s>
+<s id="wsj_1555.13"> 14
+2 	 0 	 NP[nb]/N 	 1 	 Broker The
+2 	 1 	 N/N 	 1 	 Broker Task
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 Broker differs
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 from differs
+6 	 4 	 PP/NP 	 1 	 programs from
+6 	 5 	 N/N 	 1 	 programs other
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 programs that
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 programs spread <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 spread that
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 spread around
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 tasks spread
+10 	 9 	 N/N 	 1 	 tasks computing
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 network around
+13 	 12 	 NP[nb]/N 	 1 	 network a
+<\s>
+<s id="wsj_1555.14"> 42
+2 	 1 	 (N/N)/(N/N) 	 2 	 available previously
+3 	 0 	 NP[nb]/N 	 1 	 program A
+3 	 2 	 N/N 	 1 	 program available
+3 	 4 	 (S[pss]\NP)/NP 	 1 	 program called <XB>
+3 	 9 	 S[pss]\NP 	 1 	 program developed <XB>
+3 	 19 	 (S[dcl]\NP)/NP 	 1 	 program takes
+3 	 23 	 ((S[dcl]\NP)/PP)/NP 	 1 	 program splits <XU>
+3 	 29 	 (S[ng]\NP)/NP 	 1 	 program divvying <XB>
+7 	 4 	 (S[pss]\NP)/NP 	 2 	 System called
+7 	 5 	 N/N 	 1 	 System Network
+7 	 6 	 N/N 	 1 	 System Computing
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 developed by
+11 	 12 	 (NP[nb]/N)\NP 	 2 	 Hewlett-Packard 's
+14 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 division by
+14 	 12 	 (NP[nb]/N)\NP 	 1 	 division 's
+14 	 13 	 N/N 	 1 	 division Apollo
+17 	 16 	 ((S\NP)/(S\NP))/NP 	 3 	 instance for
+19 	 16 	 ((S\NP)/(S\NP))/NP 	 2 	 takes for
+21 	 19 	 (S[dcl]\NP)/NP 	 2 	 task takes
+21 	 20 	 NP[nb]/N 	 1 	 task a
+23 	 16 	 ((S\NP)/(S\NP))/NP 	 2 	 splits for
+23 	 25 	 (S\NP)\(S\NP) 	 2 	 splits up
+24 	 23 	 ((S[dcl]\NP)/PP)/NP 	 3 	 it splits
+26 	 23 	 ((S[dcl]\NP)/PP)/NP 	 2 	 into splits
+27 	 26 	 PP/NP 	 1 	 parts into
+29 	 30 	 (S\NP)\(S\NP) 	 2 	 divvying up
+29 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 divvying to
+29 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 divvying for
+32 	 29 	 (S[ng]\NP)/NP 	 2 	 parts divvying
+32 	 31 	 NP[nb]/N 	 1 	 parts those
+35 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 computers to
+35 	 34 	 N/N 	 1 	 computers several
+35 	 36 	 (NP\NP)/NP 	 1 	 computers in
+38 	 36 	 (NP\NP)/NP 	 2 	 network in
+38 	 37 	 NP[nb]/N 	 1 	 network a
+41 	 39 	 ((S\NP)\(S\NP))/NP 	 3 	 processing for
+41 	 40 	 N/N 	 1 	 processing simultaneous
+<\s>
+<s id="wsj_1555.15"> 15
+1 	 2 	 (NP\NP)/NP 	 1 	 programs in
+1 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 programs must
+1 	 7 	 S[pss]\NP 	 1 	 programs revised <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 computers in
+4 	 3 	 N/N 	 1 	 computers individual
+5 	 0 	 S/S 	 1 	 must But
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be must
+7 	 6 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 revised be
+7 	 8 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 2 	 revised in
+9 	 8 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 4 	 order in
+10 	 8 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 3 	 to in
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 work to
+12 	 11 	 (S[b]\NP)/PP 	 2 	 with work
+14 	 12 	 PP/NP 	 1 	 system with
+14 	 13 	 NP[nb]/N 	 1 	 system that
+<\s>
+<s id="wsj_1555.16"> 35
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Applications wo
+0 	 6 	 S[pss]\NP 	 1 	 Applications rewritten <XB>
+0 	 8 	 (S[b]\NP)/PP 	 1 	 Applications work <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 wo n't
+1 	 14 	 (S[dcl]\NP)/S[dcl] 	 2 	 wo said <XU>
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have wo
+4 	 3 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+6 	 5 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 rewritten be
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 work to
+9 	 8 	 (S[b]\NP)/PP 	 2 	 with work
+11 	 9 	 PP/NP 	 1 	 Broker with
+11 	 10 	 N/N 	 1 	 Broker Task
+13 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 Hewlett-Packard said
+18 	 17 	 NP[nb]/N 	 1 	 user the
+18 	 19 	 (NP\NP)/NP 	 1 	 user of
+18 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 user wo
+18 	 25 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 user able <XB>
+21 	 19 	 (NP\NP)/NP 	 2 	 computer of
+21 	 20 	 NP[nb]/N 	 1 	 computer a
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 wo n't
+24 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be wo
+25 	 24 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 able be
+26 	 25 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to able
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 tell to
+28 	 27 	 (S[b]\NP)/S[em] 	 2 	 that tell
+30 	 29 	 NP[nb]/N 	 1 	 machine another
+30 	 31 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 machine is
+30 	 32 	 (S[ng]\NP)/NP 	 1 	 machine doing <XB>
+31 	 28 	 S[em]/S[dcl] 	 1 	 is that
+32 	 31 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 doing is
+34 	 32 	 (S[ng]\NP)/NP 	 2 	 work doing
+34 	 33 	 NP[nb]/N 	 1 	 work the
+<\s>
+<s id="wsj_1555.17"> 31
+2 	 0 	 NP[nb]/N 	 1 	 Broker The
+2 	 1 	 N/N 	 1 	 Broker Task
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Broker turns
+3 	 20 	 (S[dcl]\S[dcl])/NP 	 1 	 turns said
+5 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 network turns
+5 	 4 	 NP[nb]/N 	 1 	 network that
+6 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 into turns
+6 	 7 	 (PP\PP)/(S[adj]\NP) 	 1 	 into --
+9 	 7 	 (PP\PP)/(S[adj]\NP) 	 2 	 far --
+9 	 8 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 far as
+9 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 2 	 far as
+12 	 11 	 NP[nb]/N 	 1 	 user the
+12 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 user is
+12 	 14 	 S[pss]\NP 	 1 	 user concerned <XB>
+13 	 10 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 3 	 is as
+14 	 13 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 concerned is
+18 	 6 	 PP/NP 	 1 	 computer into
+18 	 16 	 N/N 	 1 	 computer one
+18 	 17 	 N/N 	 1 	 computer giant
+22 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 Kay said
+22 	 21 	 N/N 	 1 	 Kay Bill
+25 	 20 	 (S[dcl]\S[dcl])/NP 	 2 	 manager said
+25 	 24 	 N/N 	 1 	 manager general
+25 	 26 	 (NP\NP)/NP 	 1 	 manager of
+27 	 28 	 (NP[nb]/N)\NP 	 2 	 Hewlett-Packard 's
+30 	 26 	 (NP\NP)/NP 	 2 	 group of
+30 	 28 	 (NP[nb]/N)\NP 	 1 	 group 's
+30 	 29 	 N/N 	 1 	 group workstation
+<\s>

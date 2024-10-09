@@ -1,0 +1,71 @@
+<s id="wsj_1083.1"> 24
+2 	 0 	 N/N 	 1 	 Inc. Coda
+2 	 1 	 N/N 	 1 	 Inc. Energy
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 it completed
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 completed said
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 sale completed
+7 	 6 	 NP[nb]/N 	 1 	 sale the
+7 	 8 	 (NP\NP)/NP 	 1 	 sale of
+7 	 11 	 (NP\NP)/NP 	 1 	 sale to
+7 	 16 	 (NP\NP)/NP 	 1 	 sale for
+10 	 8 	 (NP\NP)/NP 	 2 	 Co. of
+10 	 9 	 N/N 	 1 	 Co. Phenix-Transmission
+14 	 11 	 (NP\NP)/NP 	 2 	 Co. to
+14 	 12 	 N/N 	 1 	 Co. Bishop
+14 	 13 	 N/N 	 1 	 Co. Pipeline
+17 	 16 	 (NP\NP)/NP 	 2 	 $ for
+17 	 20 	 (NP\NP)/NP 	 1 	 $ in
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 17
+21 	 20 	 (NP\NP)/NP 	 2 	 cash in
+23 	 20 	 (NP\NP)/NP 	 2 	 notes in
+<\s>
+<s id="wsj_1083.2"> 31
+0 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Coda said
+3 	 2 	 NP[nb]/N 	 1 	 oil an
+3 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 oil said
+6 	 2 	 NP[nb]/N 	 1 	 concern an
+6 	 5 	 N/N 	 1 	 concern gas
+6 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 concern said
+9 	 13 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it received
+12 	 11 	 NP[nb]/N 	 1 	 partners its
+12 	 13 	 ((S[dcl]\NP)/PP)/NP 	 1 	 partners received
+13 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 received said
+14 	 13 	 ((S[dcl]\NP)/PP)/NP 	 3 	 $ received
+14 	 17 	 (NP\NP)/NP 	 1 	 $ in
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 7
+18 	 17 	 (NP\NP)/NP 	 2 	 cash in
+20 	 13 	 ((S[dcl]\NP)/PP)/NP 	 3 	 $ received
+20 	 23 	 (NP\NP)/NP 	 1 	 $ in
+22 	 20 	 N/N[num] 	 1 	 million $
+22 	 21 	 N/N 	 1 	 million 10
+25 	 23 	 (NP\NP)/NP 	 2 	 notes in
+25 	 24 	 N/N 	 1 	 notes five-year
+26 	 13 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for received
+30 	 26 	 PP/NP 	 1 	 pipeline for
+30 	 27 	 NP[nb]/N 	 1 	 pipeline the
+30 	 28 	 N/N 	 1 	 pipeline Kansas
+30 	 29 	 N/N 	 1 	 pipeline intrastate
+<\s>
+<s id="wsj_1083.3"> 13
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Coda owned
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 % owned
+3 	 2 	 N/N 	 1 	 % 60
+3 	 4 	 (NP\NP)/NP 	 1 	 % of
+6 	 4 	 (NP\NP)/NP 	 2 	 pipeline of
+6 	 5 	 NP[nb]/N 	 1 	 pipeline the
+9 	 8 	 N/N 	 1 	 entities private
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 entities owned
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 rest owned
+12 	 11 	 NP[nb]/N 	 1 	 rest the
+<\s>
+<s id="wsj_1083.4"> 7
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Bishop is
+0 	 2 	 S[pss]\NP 	 1 	 Bishop based <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 based is
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+6 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Kansas in
+6 	 4 	 N/N 	 1 	 Kansas Hutchinson
+<\s>

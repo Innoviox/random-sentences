@@ -1,0 +1,233 @@
+<s id="wsj_0620.1"> 32
+1 	 0 	 N/N 	 1 	 Corp. Exxon
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Corp. is
+1 	 3 	 (S[ng]\NP)/PP 	 1 	 Corp. resigning <XB>
+1 	 14 	 (S[ng]\NP)/S[dcl] 	 1 	 Corp. saying <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 resigning is
+4 	 3 	 (S[ng]\NP)/PP 	 2 	 from resigning
+8 	 5 	 NP[nb]/N 	 1 	 Federation the
+8 	 6 	 N/N 	 1 	 Federation National
+8 	 7 	 N/N 	 1 	 Federation Wildlife
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 Federation 's
+12 	 4 	 PP/NP 	 1 	 panel from
+12 	 9 	 (NP[nb]/N)\NP 	 1 	 panel 's
+12 	 10 	 N/N 	 1 	 panel corporate
+12 	 11 	 N/N 	 1 	 panel advisory
+17 	 15 	 NP[nb]/N 	 1 	 group the
+17 	 16 	 N/N 	 1 	 group conservation
+17 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 group has
+17 	 21 	 (S[adj]\NP)/PP 	 1 	 group critical <XB>
+18 	 14 	 (S[ng]\NP)/S[dcl] 	 2 	 has saying
+19 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+21 	 19 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 critical been
+21 	 20 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 critical unfairly
+22 	 21 	 (S[adj]\NP)/PP 	 2 	 of critical
+27 	 22 	 PP/NP 	 1 	 spill of
+27 	 23 	 NP[nb]/N 	 1 	 spill the
+27 	 24 	 N/N 	 1 	 spill Exxon
+27 	 25 	 N/N 	 1 	 spill Valdez
+27 	 26 	 N/N 	 1 	 spill oil
+27 	 28 	 (NP\NP)/NP 	 1 	 spill along
+31 	 28 	 (NP\NP)/NP 	 2 	 coast along
+31 	 29 	 NP[nb]/N 	 1 	 coast the
+31 	 30 	 N/N 	 1 	 coast Alaskan
+<\s>
+<s id="wsj_0620.2"> 29
+1 	 0 	 NP[nb]/N 	 1 	 federation The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 federation said
+1 	 11 	 (S[dcl]\NP)/NP 	 1 	 federation issued <XU>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 said Friday
+4 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 it regrets
+6 	 4 	 S[em]/S[dcl] 	 1 	 regrets that
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 resignation regrets
+8 	 7 	 NP[nb]/N 	 1 	 resignation the
+14 	 11 	 (S[dcl]\NP)/NP 	 2 	 response issued
+14 	 12 	 NP[nb]/N 	 1 	 response a
+14 	 13 	 N/N 	 1 	 response stinging
+14 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 response that
+14 	 16 	 ((S[dcl]\NP)/NP)/NP 	 1 	 response called <XB>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 called that
+17 	 16 	 ((S[dcl]\NP)/NP)/NP 	 3 	 Exxon called
+20 	 16 	 ((S[dcl]\NP)/NP)/NP 	 2 	 pariah called
+20 	 18 	 NP[nb]/N 	 1 	 pariah a
+20 	 19 	 N/N 	 1 	 pariah corporate
+20 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 pariah that
+20 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 pariah should <XB>
+20 	 23 	 ((S[b]\NP)/PP)/NP 	 1 	 pariah keep <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 should that
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 keep should
+26 	 23 	 ((S[b]\NP)/PP)/NP 	 3 	 dialogue keep
+26 	 24 	 NP[nb]/N 	 1 	 dialogue an
+26 	 25 	 N/N 	 1 	 dialogue open
+27 	 23 	 ((S[b]\NP)/PP)/NP 	 2 	 with keep
+28 	 27 	 PP/NP 	 1 	 environmentalists with
+<\s>
+<s id="wsj_0620.3"> 41
+1 	 0 	 NP[nb]/N 	 1 	 federation The
+1 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 federation has
+1 	 10 	 (S[pt]\NP)/NP 	 1 	 federation been <XB>
+1 	 28 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 federation has <XU>
+1 	 29 	 ((S[pt]\NP)/PP)/NP 	 1 	 federation accused <XU>
+5 	 4 	 (N/N)/(N/N) 	 2 	 million 5.8
+6 	 3 	 ((S\NP)/(S\NP))/NP 	 3 	 members with
+6 	 5 	 N/N 	 1 	 members million
+6 	 7 	 NP\NP 	 1 	 members nationwide
+9 	 3 	 ((S\NP)/(S\NP))/NP 	 2 	 has with
+10 	 9 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+11 	 10 	 (S[pt]\NP)/NP 	 2 	 one been
+11 	 12 	 (NP\NP)/NP 	 1 	 one of
+15 	 12 	 (NP\NP)/NP 	 2 	 critics of
+15 	 13 	 NP[nb]/N 	 1 	 critics the
+15 	 14 	 N/N 	 1 	 critics sharpest
+15 	 16 	 (NP\NP)/NP 	 1 	 critics of
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 Exxon 's
+19 	 16 	 (NP\NP)/NP 	 2 	 handling of
+19 	 18 	 (NP[nb]/N)\NP 	 1 	 handling 's
+19 	 20 	 (NP\NP)/NP 	 1 	 handling of
+23 	 22 	 ((N/N)/(N/N))/((N/N)/(N/N)) 	 3 	 million 11
+24 	 23 	 (N/N)/(N/N) 	 2 	 gallon million
+26 	 20 	 (NP\NP)/NP 	 2 	 spill of
+26 	 21 	 NP[nb]/N 	 1 	 spill the
+26 	 24 	 N/N 	 1 	 spill gallon
+26 	 25 	 N/N 	 1 	 spill tanker
+28 	 3 	 ((S\NP)/(S\NP))/NP 	 2 	 has with
+29 	 28 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 accused has
+31 	 29 	 ((S[pt]\NP)/PP)/NP 	 3 	 company accused
+31 	 30 	 NP[nb]/N 	 1 	 company the
+32 	 29 	 ((S[pt]\NP)/PP)/NP 	 2 	 of accused
+34 	 32 	 PP/(S[ng]\NP) 	 1 	 ignoring of
+34 	 33 	 (S\NP)/(S\NP) 	 2 	 ignoring repeatedly
+35 	 34 	 (S[ng]\NP)/NP 	 2 	 requests ignoring
+35 	 37 	 (S[b]\NP)/NP 	 1 	 requests meet <XB>
+35 	 39 	 (S[b]\NP)/NP 	 1 	 requests discuss <XU>
+37 	 36 	 (S[to]\NP)/(S[b]\NP) 	 2 	 meet to
+39 	 36 	 (S[to]\NP)/(S[b]\NP) 	 2 	 discuss to
+40 	 37 	 (S[b]\NP)/NP 	 2 	 it meet <XU>
+40 	 39 	 (S[b]\NP)/NP 	 2 	 it discuss
+<\s>
+<s id="wsj_0620.4"> 25
+4 	 0 	 NP[nb]/N 	 1 	 spill The
+4 	 1 	 N/N 	 1 	 spill March
+4 	 2 	 N/N 	 1 	 spill 24
+4 	 3 	 N/N 	 1 	 spill oil
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 spill soiled
+4 	 17 	 ((S[dcl]\NP)/PP)/NP 	 1 	 spill wreaked <XU>
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 hundreds soiled
+6 	 7 	 (NP\NP)/NP 	 1 	 hundreds of
+8 	 7 	 (NP\NP)/NP 	 2 	 miles of
+8 	 9 	 (NP\NP)/NP 	 1 	 miles of
+10 	 9 	 (NP\NP)/NP 	 2 	 shoreline of
+10 	 11 	 (NP\NP)/NP 	 1 	 shoreline along
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 Alaska 's
+15 	 11 	 (NP\NP)/NP 	 2 	 coast along
+15 	 13 	 (NP[nb]/N)\NP 	 1 	 coast 's
+15 	 14 	 N/N 	 1 	 coast southern
+18 	 17 	 ((S[dcl]\NP)/PP)/NP 	 3 	 havoc wreaked
+19 	 17 	 ((S[dcl]\NP)/PP)/NP 	 2 	 with wreaked
+20 	 19 	 PP/NP 	 1 	 wildlife with
+24 	 19 	 PP/NP 	 1 	 industry with
+24 	 22 	 NP[nb]/N 	 1 	 industry the
+24 	 23 	 N/N 	 1 	 industry fishing
+<\s>
+<s id="wsj_0620.5"> 42
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Exxon 's
+4 	 1 	 (NP[nb]/N)\NP 	 1 	 unit 's
+4 	 2 	 N/N 	 1 	 unit Exxon
+4 	 3 	 N/N 	 1 	 unit USA
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 unit was
+6 	 5 	 (S[dcl]\NP)/NP 	 2 	 one was
+6 	 7 	 (NP\NP)/NP 	 1 	 one of
+10 	 7 	 (NP\NP)/NP 	 2 	 members of
+10 	 8 	 NP[nb]/N 	 1 	 members the
+10 	 9 	 N/N 	 1 	 members charter
+10 	 11 	 (NP\NP)/NP 	 1 	 members of
+15 	 11 	 (NP\NP)/NP 	 2 	 Council of
+15 	 12 	 NP[nb]/N 	 1 	 Council the
+15 	 13 	 N/N 	 1 	 Council Corporate
+15 	 14 	 N/N 	 1 	 Council Conservation
+18 	 11 	 (NP\NP)/NP 	 2 	 panel of
+18 	 17 	 NP[nb]/N 	 1 	 panel a
+18 	 19 	 (NP\NP)/NP 	 1 	 panel of
+18 	 21 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 panel formed <XB>
+18 	 30 	 (S[b]\NP)/NP 	 1 	 panel foster <XB>
+20 	 19 	 (NP\NP)/NP 	 2 	 executives of
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 formed in
+21 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 formed by
+23 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 1982 in
+28 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Federation by
+28 	 25 	 NP[nb]/N 	 1 	 Federation the
+28 	 26 	 N/N 	 1 	 Federation National
+28 	 27 	 N/N 	 1 	 Federation Wildlife
+29 	 21 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to formed
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 foster to
+34 	 30 	 (S[b]\NP)/NP 	 2 	 discussions foster
+34 	 31 	 N/N 	 1 	 discussions frank
+34 	 33 	 N/N 	 1 	 discussions open
+34 	 35 	 (NP\NP)/NP 	 1 	 discussions between
+36 	 35 	 (NP\NP)/NP 	 2 	 industry between
+39 	 38 	 NP[nb]/N 	 1 	 federation the
+39 	 40 	 (NP[nb]/N)\NP 	 2 	 federation 's
+41 	 35 	 (NP\NP)/NP 	 2 	 leaders between
+41 	 40 	 (NP[nb]/N)\NP 	 1 	 leaders 's
+<\s>
+<s id="wsj_0620.6"> 37
+2 	 0 	 (S/S)/NP 	 2 	 letter In
+2 	 1 	 NP[nb]/N 	 1 	 letter a
+2 	 3 	 (NP\NP)/NP 	 1 	 letter to
+5 	 3 	 (NP\NP)/NP 	 2 	 federation to
+5 	 4 	 NP[nb]/N 	 1 	 federation the
+8 	 7 	 N/N 	 1 	 Campion Raymond
+8 	 15 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 1 	 Campion said
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 Exxon 's
+13 	 11 	 (NP[nb]/N)\NP 	 1 	 coordinator 's
+13 	 12 	 N/N 	 1 	 coordinator environmental
+13 	 15 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 1 	 coordinator said
+15 	 0 	 (S/S)/NP 	 1 	 said In
+19 	 15 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 3 	 actions said
+19 	 17 	 N/N 	 1 	 actions Recent
+19 	 18 	 N/N 	 1 	 actions public
+19 	 20 	 (NP\NP)/NP 	 1 	 actions by
+19 	 22 	 (S[ng]\NP)/NP 	 1 	 actions regarding <XB>
+19 	 28 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 actions failed <XB>
+19 	 30 	 (S[b]\NP)/NP 	 1 	 actions demonstrate <XB>
+21 	 20 	 (NP\NP)/NP 	 2 	 you by
+26 	 22 	 (S[ng]\NP)/NP 	 2 	 spill regarding
+26 	 23 	 NP[nb]/N 	 1 	 spill the
+26 	 24 	 N/N 	 1 	 spill Valdez
+26 	 25 	 N/N 	 1 	 spill oil
+27 	 15 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 2 	 have said
+28 	 27 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 failed have
+29 	 28 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to failed
+30 	 29 	 (S[to]\NP)/(S[b]\NP) 	 2 	 demonstrate to
+32 	 30 	 (S[b]\NP)/NP 	 2 	 sense demonstrate
+32 	 31 	 NP[nb]/N 	 1 	 sense any
+32 	 33 	 (NP\NP)/NP 	 1 	 sense of
+34 	 33 	 (NP\NP)/NP 	 2 	 objectivity of
+36 	 33 	 (NP\NP)/NP 	 2 	 fairness of
+<\s>
+<s id="wsj_0620.7"> 24
+1 	 0 	 NP[nb]/N 	 1 	 federation The
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 federation was
+2 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 was in
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 among was
+5 	 3 	 PP/NP 	 1 	 plaintiffs among
+5 	 4 	 NP[nb]/N 	 1 	 plaintiffs the
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 lawsuit in
+8 	 7 	 NP[nb]/N 	 1 	 lawsuit a
+8 	 9 	 (S[pss]\NP)/PP 	 1 	 lawsuit filed <XB>
+8 	 14 	 (S[ng]\NP)/NP 	 1 	 lawsuit seeking <XB>
+9 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 filed in
+11 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 August in
+12 	 9 	 (S[pss]\NP)/PP 	 2 	 against filed
+13 	 12 	 PP/NP 	 1 	 Exxon against
+16 	 14 	 (S[ng]\NP)/NP 	 2 	 payment seeking
+16 	 15 	 N/N 	 1 	 payment full
+16 	 17 	 (NP\NP)/NP 	 1 	 payment of
+20 	 17 	 (NP\NP)/NP 	 2 	 costs of
+20 	 18 	 N/N 	 1 	 costs environmental
+20 	 19 	 N/N 	 1 	 costs recovery
+20 	 21 	 (NP\NP)/NP 	 1 	 costs from
+23 	 21 	 (NP\NP)/NP 	 2 	 spill from
+23 	 22 	 NP[nb]/N 	 1 	 spill the
+<\s>

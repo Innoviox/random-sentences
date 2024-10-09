@@ -1,0 +1,86 @@
+<s id="wsj_1816.1"> 21
+3 	 0 	 N/N 	 1 	 Jr. John
+3 	 1 	 N/N 	 1 	 Jr. E.
+3 	 2 	 N/N 	 1 	 Jr. Hayes
+3 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Jr. was
+3 	 5 	 (S[pss]\NP)/NP 	 1 	 Jr. elected <XB>
+3 	 14 	 (S[ng]\NP)/NP 	 1 	 Jr. succeeding <XB>
+5 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 elected was
+6 	 5 	 (S[pss]\NP)/NP 	 2 	 chairman elected
+8 	 5 	 (S[pss]\NP)/NP 	 2 	 president elected
+12 	 5 	 (S[pss]\NP)/NP 	 2 	 officer elected
+12 	 10 	 N/N 	 1 	 officer chief
+12 	 11 	 N/N 	 1 	 officer executive
+17 	 14 	 (S[ng]\NP)/NP 	 2 	 Black succeeding
+17 	 15 	 N/N 	 1 	 Black David
+17 	 16 	 N/N 	 1 	 Black S.
+17 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Black who
+17 	 20 	 S[dcl]\NP 	 1 	 Black retired <XB>
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 retired who
+<\s>
+<s id="wsj_1816.2"> 49
+1 	 0 	 N/N 	 1 	 Hayes Mr.
+1 	 5 	 (S[adj]\NP)\NP 	 1 	 Hayes old <XB>
+1 	 7 	 (S[dcl]\NP)/NP 	 1 	 Hayes left
+1 	 27 	 (S[b]\NP)/NP 	 1 	 Hayes join <XB>
+4 	 3 	 N/N 	 1 	 years 52
+4 	 5 	 (S[adj]\NP)\NP 	 2 	 years old
+7 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 left in
+7 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 left where
+11 	 7 	 (S[dcl]\NP)/NP 	 2 	 Co. left
+11 	 8 	 N/N 	 1 	 Co. Southwestern
+11 	 9 	 N/N 	 1 	 Co. Bell
+11 	 10 	 N/N 	 1 	 Co. Telephone
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 January in
+16 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he had
+16 	 18 	 (S[pt]\NP)/NP 	 1 	 he been <XB>
+17 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 had where
+18 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+19 	 18 	 (S[pt]\NP)/NP 	 2 	 chairman been
+21 	 18 	 (S[pt]\NP)/NP 	 2 	 president been
+24 	 18 	 (S[pt]\NP)/NP 	 2 	 executive been
+24 	 23 	 N/N 	 1 	 executive chief
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 join to
+30 	 27 	 (S[b]\NP)/NP 	 2 	 Partners join
+30 	 28 	 N/N 	 1 	 Partners Triad
+30 	 29 	 N/N 	 1 	 Partners Capital
+35 	 27 	 (S[b]\NP)/NP 	 2 	 company join
+35 	 32 	 NP[nb]/N 	 1 	 company a
+35 	 33 	 N/N 	 1 	 company St.
+35 	 34 	 N/N 	 1 	 company Louis
+35 	 36 	 (NP\NP)/NP 	 1 	 company with
+37 	 36 	 (NP\NP)/NP 	 2 	 interests with
+37 	 38 	 (NP\NP)/NP 	 1 	 interests in
+40 	 38 	 (NP\NP)/NP 	 2 	 waste in
+40 	 39 	 N/N 	 1 	 waste solid
+42 	 38 	 (NP\NP)/NP 	 2 	 recycling in
+44 	 38 	 (NP\NP)/NP 	 2 	 telecommunications in
+48 	 38 	 (NP\NP)/NP 	 2 	 capital in
+48 	 46 	 N/N 	 1 	 capital international
+48 	 47 	 N/N 	 1 	 capital venture
+<\s>
+<s id="wsj_1816.3"> 13
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 He has
+0 	 2 	 (S[pt]\NP)/NP 	 1 	 He resigned <XB>
+0 	 8 	 (S[b]\NP)/NP 	 1 	 He take <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 resigned has
+4 	 2 	 (S[pt]\NP)/NP 	 2 	 posts resigned
+4 	 3 	 NP[nb]/N 	 1 	 posts his
+4 	 5 	 (NP\NP)/NP 	 1 	 posts at
+6 	 5 	 (NP\NP)/NP 	 2 	 Triad at
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 take to
+12 	 8 	 (S[b]\NP)/NP 	 2 	 positions take
+12 	 9 	 NP[nb]/N 	 1 	 positions the
+12 	 10 	 N/N 	 1 	 positions Kansas
+12 	 11 	 N/N 	 1 	 positions Power
+<\s>
+<s id="wsj_1816.4"> 11
+1 	 0 	 N/N 	 1 	 Power Kansas
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Power said
+4 	 3 	 N/N 	 1 	 Black Mr.
+4 	 8 	 (S[dcl]\NP)/NP 	 1 	 Black chose
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 61 chose
+8 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 chose said
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 retirement chose
+10 	 9 	 N/N 	 1 	 retirement early
+<\s>

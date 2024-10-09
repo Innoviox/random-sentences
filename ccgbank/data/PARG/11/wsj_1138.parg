@@ -1,0 +1,508 @@
+<s id="wsj_1138.1"> 14
+2 	 0 	 NP[nb]/N 	 1 	 Department The
+2 	 1 	 N/N 	 1 	 Department Justice
+2 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Department has
+2 	 4 	 (S[pt]\NP)/NP 	 1 	 Department distributed <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 distributed has
+7 	 4 	 (S[pt]\NP)/NP 	 2 	 guidelines distributed
+7 	 5 	 NP[nb]/N 	 1 	 guidelines these
+7 	 6 	 N/N 	 1 	 guidelines new
+7 	 8 	 (NP\NP)/NP 	 1 	 guidelines for
+10 	 8 	 (NP\NP)/NP 	 2 	 Attorneys for
+10 	 9 	 N/N 	 1 	 Attorneys U.S.
+10 	 11 	 (S[ng]\NP)/NP 	 1 	 Attorneys prosecuting <XB>
+13 	 11 	 (S[ng]\NP)/NP 	 2 	 cases prosecuting
+13 	 12 	 N/N 	 1 	 cases RICO
+<\s>
+<s id="wsj_1138.2"> 5
+2 	 0 	 NP[nb]/N 	 1 	 editorial A
+2 	 1 	 N/N 	 1 	 editorial related
+2 	 3 	 S[dcl]\NP 	 1 	 editorial appears
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 appears today
+<\s>
+<s id="wsj_1138.3"> 39
+2 	 0 	 (S/S)/NP 	 2 	 RICO Under
+6 	 5 	 NP[nb]/N 	 1 	 government the
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 government may
+6 	 8 	 (S[b]\NP)/NP 	 1 	 government seek <XB>
+7 	 0 	 (S/S)/NP 	 1 	 may Under
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seek may
+8 	 24 	 (((S\NP)\(S\NP))/(S[to]\NP))/NP 	 2 	 seek in
+12 	 8 	 (S[b]\NP)/NP 	 2 	 order seek
+12 	 9 	 NP[nb]/N 	 1 	 order a
+12 	 10 	 N/N 	 1 	 order temporary
+12 	 11 	 N/N 	 1 	 order restraining
+12 	 13 	 (NP\NP)/NP 	 1 	 order -LRB-
+12 	 16 	 (NP\NP)/NP 	 1 	 order upon
+14 	 13 	 (NP\NP)/NP 	 2 	 TRO -LRB-
+18 	 16 	 (NP\NP)/NP 	 2 	 filing upon
+18 	 17 	 NP[nb]/N 	 1 	 filing the
+18 	 19 	 (NP\NP)/NP 	 1 	 filing of
+22 	 19 	 (NP\NP)/NP 	 2 	 indictment of
+22 	 20 	 NP[nb]/N 	 1 	 indictment a
+22 	 21 	 N/N 	 1 	 indictment RICO
+25 	 24 	 (((S\NP)\(S\NP))/(S[to]\NP))/NP 	 4 	 order in
+25 	 27 	 (S[b]\NP)/NP 	 1 	 order preserve <XB>
+26 	 24 	 (((S\NP)\(S\NP))/(S[to]\NP))/NP 	 3 	 to in
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 preserve to
+27 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 preserve until
+30 	 27 	 (S[b]\NP)/NP 	 2 	 assets preserve
+30 	 28 	 NP[nb]/N 	 1 	 assets all
+30 	 29 	 N/N 	 1 	 assets forfeitable
+33 	 32 	 NP[nb]/N 	 1 	 trial the
+33 	 34 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 trial is
+33 	 35 	 S[pss]\NP 	 1 	 trial completed <XB>
+34 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is until
+35 	 34 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 completed is
+37 	 38 	 S[dcl]\NP 	 1 	 judgment entered
+38 	 31 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 entered until
+<\s>
+<s id="wsj_1138.4"> 32
+1 	 0 	 NP/NP 	 1 	 orders Such
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 orders can
+1 	 3 	 (S[b]\NP)/NP 	 1 	 orders have <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have can
+6 	 3 	 (S[b]\NP)/NP 	 2 	 impact have
+6 	 4 	 NP[nb]/N 	 1 	 impact a
+6 	 5 	 N/N 	 1 	 impact wide-ranging
+6 	 7 	 (NP\NP)/NP 	 1 	 impact on
+9 	 7 	 (NP\NP)/NP 	 2 	 parties on
+9 	 8 	 N/N 	 1 	 parties third
+9 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 parties who
+9 	 11 	 ((S[dcl]\NP)/PP)/NP 	 1 	 parties do <XB>
+9 	 17 	 (NP\NP)/NP 	 1 	 parties including
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 do who
+12 	 11 	 ((S[dcl]\NP)/PP)/NP 	 3 	 business do
+13 	 11 	 ((S[dcl]\NP)/PP)/NP 	 2 	 with do
+15 	 13 	 PP/NP 	 1 	 defendants with
+15 	 14 	 NP[nb]/N 	 1 	 defendants the
+18 	 17 	 (NP\NP)/NP 	 2 	 clients including
+20 	 17 	 (NP\NP)/NP 	 2 	 vendors including
+22 	 17 	 (NP\NP)/NP 	 2 	 banks including
+24 	 17 	 (NP\NP)/NP 	 2 	 investors including
+26 	 17 	 (NP\NP)/NP 	 2 	 creditors including
+28 	 17 	 (NP\NP)/NP 	 2 	 dependents including
+31 	 17 	 (NP\NP)/NP 	 2 	 others including
+<\s>
+<s id="wsj_1138.5"> 37
+2 	 1 	 (N/N)/(N/N) 	 2 	 publicized highly
+3 	 0 	 NP[nb]/N 	 1 	 cases Some
+3 	 2 	 N/N 	 1 	 cases publicized
+3 	 4 	 (S[ng]\NP)/NP 	 1 	 cases involving <XB>
+3 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 cases have
+3 	 8 	 (S[pt]\NP)/NP 	 1 	 cases been <XB>
+6 	 4 	 (S[ng]\NP)/NP 	 2 	 TROs involving
+6 	 5 	 N/N 	 1 	 TROs RICO
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+8 	 18 	 ((S\NP)\(S\NP))/PP 	 2 	 been because
+10 	 8 	 (S[pt]\NP)/NP 	 2 	 subject been
+10 	 9 	 NP[nb]/N 	 1 	 subject the
+10 	 11 	 (NP\NP)/NP 	 1 	 subject of
+13 	 11 	 (NP\NP)/NP 	 2 	 criticism of
+13 	 12 	 N/N 	 1 	 criticism considerable
+13 	 14 	 (NP\NP)/NP 	 1 	 criticism in
+16 	 14 	 (NP\NP)/NP 	 2 	 press in
+16 	 15 	 NP[nb]/N 	 1 	 press the
+19 	 18 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+21 	 19 	 PP/NP 	 1 	 perception of
+21 	 20 	 NP[nb]/N 	 1 	 perception a
+22 	 21 	 N/S[em] 	 1 	 that perception
+24 	 23 	 N/N 	 1 	 freezing pre-trial
+24 	 25 	 (NP\NP)/NP 	 1 	 freezing of
+24 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 freezing is
+24 	 28 	 (S[adj]\NP)/PP 	 1 	 freezing tantamount <XB>
+26 	 25 	 (NP\NP)/NP 	 2 	 assets of
+27 	 22 	 S[em]/S[dcl] 	 1 	 is that
+28 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 tantamount is
+29 	 28 	 (S[adj]\NP)/PP 	 2 	 to tantamount
+31 	 29 	 PP/NP 	 1 	 seizure to
+31 	 30 	 NP[nb]/N 	 1 	 seizure a
+31 	 32 	 (NP\NP)/NP 	 1 	 seizure of
+31 	 34 	 (NP\NP)/NP 	 1 	 seizure without
+33 	 32 	 (NP\NP)/NP 	 2 	 property of
+36 	 34 	 (NP\NP)/NP 	 2 	 process without
+36 	 35 	 N/N 	 1 	 process due
+<\s>
+<s id="wsj_1138.6"> 31
+1 	 0 	 ((S/S)/(S[to]\NP))/NP 	 3 	 order In
+1 	 3 	 (S[b]\NP)/S[em] 	 1 	 order ensure <XB>
+2 	 0 	 ((S/S)/(S[to]\NP))/NP 	 2 	 to In
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 ensure to
+4 	 3 	 (S[b]\NP)/S[em] 	 2 	 that ensure
+6 	 5 	 NP[nb]/N 	 1 	 rights the
+6 	 7 	 (NP\NP)/NP 	 1 	 rights of
+6 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 rights are
+6 	 12 	 S[pss]\NP 	 1 	 rights protected <XB>
+10 	 7 	 (NP\NP)/NP 	 2 	 parties of
+10 	 8 	 NP[nb]/N 	 1 	 parties all
+10 	 9 	 N/N 	 1 	 parties interested
+11 	 4 	 S[em]/S[dcl] 	 1 	 are that
+12 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 protected are
+16 	 14 	 NP[nb]/N 	 1 	 Division the
+16 	 15 	 N/N 	 1 	 Division Criminal
+16 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Division has
+16 	 18 	 (S[pt]\NP)/NP 	 1 	 Division instituted <XB>
+16 	 23 	 (S[b]\NP)/NP 	 1 	 Division control <XB>
+17 	 0 	 ((S/S)/(S[to]\NP))/NP 	 1 	 has In
+18 	 17 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 instituted has
+21 	 18 	 (S[pt]\NP)/NP 	 2 	 requirements instituted
+21 	 19 	 NP[nb]/N 	 1 	 requirements the
+21 	 20 	 N/N 	 1 	 requirements following
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 control to
+25 	 23 	 (S[b]\NP)/NP 	 2 	 use control
+25 	 24 	 NP[nb]/N 	 1 	 use the
+25 	 26 	 (NP\NP)/NP 	 1 	 use of
+25 	 28 	 (NP\NP)/NP 	 1 	 use in
+27 	 26 	 (NP\NP)/NP 	 2 	 TROs of
+30 	 28 	 (NP\NP)/NP 	 2 	 prosecutions in
+30 	 29 	 N/N 	 1 	 prosecutions RICO
+<\s>
+<s id="wsj_1138.7"> 27
+1 	 2 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 1 	 It should
+3 	 2 	 (S[dcl]\NP[expl])/(S[b]\NP) 	 2 	 be should
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 noted be
+5 	 4 	 (S[pss]\NP)/S[em] 	 2 	 that noted
+7 	 6 	 NP[nb]/N 	 1 	 requirements these
+7 	 8 	 (S[dcl]\NP)/PP 	 1 	 requirements are
+8 	 5 	 S[em]/S[dcl] 	 1 	 are that
+9 	 8 	 (S[dcl]\NP)/PP 	 2 	 in are
+10 	 9 	 PP/NP 	 1 	 addition in
+10 	 11 	 (NP\NP)/NP 	 1 	 addition to
+15 	 11 	 (NP\NP)/NP 	 2 	 requirements to
+15 	 12 	 NP[nb]/N 	 1 	 requirements any
+15 	 13 	 N/N 	 1 	 requirements other
+15 	 14 	 N/N 	 1 	 requirements existing
+15 	 18 	 (NP\NP)/NP 	 1 	 requirements as
+18 	 17 	 (NP\NP)/(NP\NP) 	 2 	 as such
+19 	 18 	 (NP\NP)/NP 	 2 	 review as
+19 	 20 	 (NP\NP)/NP 	 1 	 review by
+24 	 20 	 (NP\NP)/NP 	 2 	 Office by
+24 	 21 	 NP[nb]/N 	 1 	 Office the
+24 	 22 	 N/N 	 1 	 Office Asset
+24 	 23 	 N/N 	 1 	 Office Forfeiture
+<\s>
+<s id="wsj_1138.8"> 29
+3 	 2 	 (S/S)/NP 	 2 	 part As
+3 	 4 	 (NP\NP)/NP 	 1 	 part of
+7 	 4 	 (NP\NP)/NP 	 2 	 process of
+7 	 5 	 NP[nb]/N 	 1 	 process the
+7 	 6 	 N/N 	 1 	 process approval
+7 	 8 	 (NP\NP)/NP 	 1 	 process for
+10 	 8 	 (NP\NP)/NP 	 2 	 prosecutions for
+10 	 9 	 N/N 	 1 	 prosecutions RICO
+13 	 12 	 NP[nb]/N 	 1 	 prosecutor the
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 prosecutor must
+13 	 15 	 (S[b]\NP)/NP 	 1 	 prosecutor submit <XB>
+14 	 0 	 S/S 	 1 	 must 1
+14 	 2 	 (S/S)/NP 	 1 	 must As
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 submit must
+15 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 submit for
+19 	 15 	 (S[b]\NP)/NP 	 2 	 TRO submit
+19 	 16 	 NP[nb]/N 	 1 	 TRO any
+19 	 17 	 N/N 	 1 	 TRO proposed
+19 	 18 	 N/N 	 1 	 TRO forfeiture
+21 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 review for
+21 	 22 	 (NP\NP)/NP 	 1 	 review by
+25 	 22 	 (NP\NP)/NP 	 2 	 Crime by
+25 	 23 	 NP[nb]/N 	 1 	 Crime the
+25 	 24 	 N/N 	 1 	 Crime Organized
+28 	 22 	 (NP\NP)/NP 	 2 	 Section by
+28 	 23 	 NP[nb]/N 	 1 	 Section the
+28 	 24 	 N/N 	 1 	 Section Organized
+28 	 27 	 N/N 	 1 	 Section Racketeering
+<\s>
+<s id="wsj_1138.9"> 27
+1 	 0 	 NP[nb]/N 	 1 	 prosecutor The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 prosecutor must
+1 	 3 	 (S[b]\NP)/S[em] 	 1 	 prosecutor show <XB>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 show must
+4 	 3 	 (S[b]\NP)/S[em] 	 2 	 that show
+6 	 5 	 N/N 	 1 	 remedies less-intrusive
+6 	 9 	 (NP\NP)/NP 	 1 	 remedies as
+6 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 remedies are
+6 	 14 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 remedies likely <XB>
+9 	 8 	 (NP\NP)/(NP\NP) 	 2 	 as such
+10 	 9 	 (NP\NP)/NP 	 2 	 bonds as
+12 	 4 	 S[em]/S[dcl] 	 1 	 are that
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 are not
+14 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 likely are
+15 	 14 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to likely
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 preserve to
+16 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 preserve for
+16 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 preserve in
+18 	 16 	 (S[b]\NP)/NP 	 2 	 assets preserve
+18 	 17 	 NP[nb]/N 	 1 	 assets the
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 forfeiture for
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 event in
+23 	 22 	 NP[nb]/N 	 1 	 event the
+23 	 24 	 (NP\NP)/NP 	 1 	 event of
+26 	 24 	 (NP\NP)/NP 	 2 	 conviction of
+26 	 25 	 NP[nb]/N 	 1 	 conviction a
+<\s>
+<s id="wsj_1138.10"> 38
+3 	 2 	 (S/S)/(S[ng]\NP) 	 2 	 seeking In
+4 	 3 	 (S[ng]\NP)/NP 	 2 	 approval seeking
+4 	 5 	 (NP\NP)/NP 	 1 	 approval of
+7 	 5 	 (NP\NP)/NP 	 2 	 TRO of
+7 	 6 	 NP[nb]/N 	 1 	 TRO a
+10 	 9 	 NP[nb]/N 	 1 	 prosecutor the
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 prosecutor must
+10 	 12 	 (S[b]\NP)/NP 	 1 	 prosecutor articulate <XB>
+11 	 0 	 S/S 	 1 	 must 2
+11 	 2 	 (S/S)/(S[ng]\NP) 	 1 	 must In
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 articulate must
+15 	 12 	 (S[b]\NP)/NP 	 2 	 impact articulate
+15 	 13 	 NP[nb]/N 	 1 	 impact any
+15 	 14 	 N/N 	 1 	 impact anticipated
+15 	 16 	 (NP\NP)/(S[dcl]/NP) 	 1 	 impact that
+15 	 22 	 ((S[b]\NP)/PP)/NP 	 3 	 impact have <XU>
+15 	 28 	 (S[pss]\NP)/PP 	 1 	 impact balanced <XB>
+17 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 forfeiture would
+17 	 22 	 ((S[b]\NP)/PP)/NP 	 1 	 forfeiture have <XB>
+20 	 19 	 NP[nb]/N 	 1 	 TRO the
+20 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 TRO would
+20 	 22 	 ((S[b]\NP)/PP)/NP 	 1 	 TRO have <XB>
+21 	 16 	 (NP\NP)/(S[dcl]/NP) 	 2 	 would that
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+23 	 22 	 ((S[b]\NP)/PP)/NP 	 2 	 on have
+26 	 23 	 PP/NP 	 1 	 parties on
+26 	 24 	 N/N 	 1 	 parties innocent
+26 	 25 	 N/N 	 1 	 parties third
+29 	 28 	 (S[pss]\NP)/PP 	 2 	 against balanced
+31 	 30 	 NP[nb]/N 	 1 	 government the
+31 	 32 	 (NP[nb]/N)\NP 	 2 	 government 's
+33 	 29 	 PP/NP 	 1 	 need against
+33 	 32 	 (NP[nb]/N)\NP 	 1 	 need 's
+33 	 35 	 (S[b]\NP)/NP 	 1 	 need preserve <XB>
+35 	 34 	 (S[to]\NP)/(S[b]\NP) 	 2 	 preserve to
+37 	 35 	 (S[b]\NP)/NP 	 2 	 assets preserve
+37 	 36 	 NP[nb]/N 	 1 	 assets the
+<\s>
+<s id="wsj_1138.11"> 55
+3 	 2 	 (S/S)/(S[ng]\NP) 	 2 	 deciding In
+4 	 3 	 (S[ng]\NP)/S[qem] 	 2 	 whether deciding
+5 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 forfeiture is
+5 	 15 	 S[adj]\NP 	 1 	 forfeiture appropriate <XB>
+12 	 9 	 NP/NP 	 1 	 TRO hence
+12 	 11 	 NP[nb]/N 	 1 	 TRO a
+12 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 TRO is
+12 	 15 	 S[adj]\NP 	 1 	 TRO appropriate <XB>
+14 	 4 	 S[qem]/S[dcl] 	 1 	 is whether
+15 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 appropriate is
+18 	 17 	 NP[nb]/N 	 1 	 Section the
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Section will
+18 	 20 	 (S[b]\NP)/NP 	 1 	 Section consider <XB>
+19 	 0 	 S/S 	 1 	 will 3
+19 	 2 	 (S/S)/(S[ng]\NP) 	 1 	 will In
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 consider will
+22 	 20 	 (S[b]\NP)/NP 	 2 	 nature consider
+22 	 21 	 NP[nb]/N 	 1 	 nature the
+22 	 25 	 (NP\NP)/NP 	 1 	 nature of
+24 	 20 	 (S[b]\NP)/NP 	 2 	 severity consider
+24 	 21 	 NP[nb]/N 	 1 	 severity the
+24 	 25 	 (NP\NP)/NP 	 1 	 severity of
+27 	 25 	 (NP\NP)/NP 	 2 	 offense of
+27 	 26 	 NP[nb]/N 	 1 	 offense the
+30 	 29 	 NP[nb]/N 	 1 	 government the
+30 	 31 	 (NP[nb]/N)\NP 	 2 	 government 's
+32 	 31 	 (NP[nb]/N)\NP 	 1 	 policy 's
+32 	 33 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 policy is
+32 	 36 	 (S[b]\NP)/NP 	 1 	 policy seek <XB>
+33 	 34 	 (S\NP)\(S\NP) 	 2 	 is not
+35 	 33 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to is
+36 	 35 	 (S[to]\NP)/(S[b]\NP) 	 2 	 seek to
+36 	 44 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 seek where
+39 	 36 	 (S[b]\NP)/NP 	 2 	 forfeiture seek
+39 	 37 	 NP[nb]/N 	 1 	 forfeiture the
+39 	 38 	 N/N 	 1 	 forfeiture fullest
+39 	 40 	 S[adj]\NP 	 1 	 forfeiture permissible <XB>
+40 	 41 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 permissible under
+43 	 41 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 law under
+43 	 42 	 NP[nb]/N 	 1 	 law the
+46 	 45 	 NP[nb]/N 	 1 	 forfeiture that
+46 	 47 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 forfeiture would
+46 	 49 	 (S[adj]\NP)/PP 	 1 	 forfeiture disproportionate <XB>
+47 	 44 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 would where
+48 	 47 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+49 	 48 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 disproportionate be
+50 	 49 	 (S[adj]\NP)/PP 	 2 	 to disproportionate
+52 	 51 	 NP[nb]/N 	 1 	 defendant the
+52 	 53 	 (NP[nb]/N)\NP 	 2 	 defendant 's
+54 	 50 	 PP/NP 	 1 	 crime to
+54 	 53 	 (NP[nb]/N)\NP 	 1 	 crime 's
+<\s>
+<s id="wsj_1138.12"> 140
+5 	 3 	 NP[nb]/N 	 1 	 TRO a
+5 	 4 	 N/N 	 1 	 TRO RICO
+5 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 TRO is
+5 	 7 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 TRO being <XB>
+5 	 8 	 S[pss]\NP 	 1 	 TRO sought <XB>
+6 	 2 	 (S/S)/S[dcl] 	 2 	 is When
+7 	 6 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being is
+8 	 7 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 sought being
+11 	 10 	 NP[nb]/N 	 1 	 prosecutor the
+11 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 prosecutor is
+11 	 13 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 prosecutor required <XB>
+11 	 22 	 (S[b]\NP)/S[em] 	 1 	 prosecutor state <XB>
+12 	 0 	 S/S 	 1 	 is 4
+12 	 2 	 (S/S)/S[dcl] 	 1 	 is When
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 required is
+13 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 required at
+19 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 time at
+19 	 16 	 NP[nb]/N 	 1 	 time the
+19 	 17 	 N/N 	 1 	 time earliest
+19 	 18 	 N/N 	 1 	 time appropriate
+21 	 13 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to required
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 state to
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 state publicly
+24 	 22 	 (S[b]\NP)/S[em] 	 2 	 that state
+26 	 25 	 NP[nb]/N 	 1 	 government the
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 government 's
+28 	 27 	 (NP[nb]/N)\NP 	 1 	 request 's
+28 	 29 	 (NP\NP)/NP 	 1 	 request for
+28 	 37 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 request is
+28 	 38 	 S[pss]\NP 	 1 	 request made <XB>
+31 	 29 	 (NP\NP)/NP 	 2 	 TRO for
+31 	 30 	 NP[nb]/N 	 1 	 TRO a
+35 	 29 	 (NP\NP)/NP 	 2 	 forfeiture for
+35 	 34 	 N/N 	 1 	 forfeiture eventual
+37 	 24 	 S[em]/S[dcl] 	 1 	 is that
+37 	 48 	 (S\S)/S[dcl] 	 1 	 is --
+38 	 37 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 made is
+38 	 39 	 ((S\NP)\(S\NP))/NP 	 2 	 made in
+41 	 39 	 ((S\NP)\(S\NP))/NP 	 3 	 recognition in
+41 	 40 	 N/N 	 1 	 recognition full
+41 	 42 	 (NP\NP)/NP 	 1 	 recognition of
+44 	 42 	 (NP\NP)/NP 	 2 	 rights of
+44 	 43 	 NP[nb]/N 	 1 	 rights the
+44 	 45 	 (NP\NP)/NP 	 1 	 rights of
+47 	 45 	 (NP\NP)/NP 	 2 	 parties of
+47 	 46 	 N/N 	 1 	 parties third
+49 	 50 	 S[dcl]\NP 	 1 	 that is
+53 	 52 	 (S/S)/(S[ng]\NP) 	 2 	 requesting in
+55 	 53 	 (S[ng]\NP)/NP 	 2 	 TRO requesting
+55 	 54 	 NP[nb]/N 	 1 	 TRO the
+58 	 57 	 NP[nb]/N 	 1 	 government the
+58 	 59 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 government will
+58 	 61 	 (S[b]\NP)/(S[to]\NP) 	 1 	 government seek <XB>
+58 	 63 	 (S[b]\NP)/NP 	 1 	 government disrupt <XB>
+58 	 74 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 government will <XU>
+58 	 76 	 (S[b]\NP)/(S[to]\NP) 	 1 	 government seek <XU>
+58 	 84 	 ((S[b]\NP)/NP)/PP 	 1 	 government take <XU>
+58 	 94 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 government will <XU>
+58 	 96 	 (S[b]\NP)/(S[to]\NP) 	 1 	 government seek <XU>
+58 	 98 	 (S[b]\NP)/NP 	 1 	 government vitiate <XU>
+58 	 111 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 government will <XU>
+58 	 118 	 (S[b]\NP)/NP 	 1 	 government assist <XU>
+58 	 122 	 (S[ng]\NP)/S[em] 	 1 	 government ensuring <XU>
+59 	 48 	 (S\S)/S[dcl] 	 2 	 will --
+59 	 52 	 (S/S)/(S[ng]\NP) 	 1 	 will in
+59 	 60 	 (S\NP)\(S\NP) 	 2 	 will not
+61 	 59 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seek will
+62 	 61 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to seek
+63 	 62 	 (S[to]\NP)/(S[b]\NP) 	 2 	 disrupt to
+69 	 63 	 (S[b]\NP)/NP 	 2 	 activities disrupt
+69 	 64 	 NP[nb]/N 	 1 	 activities the
+69 	 65 	 N/N 	 1 	 activities normal
+69 	 67 	 N/N 	 1 	 activities legitimate
+69 	 68 	 N/N 	 1 	 activities business
+69 	 70 	 (NP\NP)/NP 	 1 	 activities of
+72 	 70 	 (NP\NP)/NP 	 2 	 defendant of
+72 	 71 	 NP[nb]/N 	 1 	 defendant the
+74 	 48 	 (S\S)/S[dcl] 	 2 	 will --
+74 	 52 	 (S/S)/(S[ng]\NP) 	 1 	 will in
+74 	 75 	 (S\NP)\(S\NP) 	 2 	 will not
+76 	 74 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seek will
+76 	 77 	 ((S\NP)\(S\NP))/NP 	 2 	 seek through
+78 	 77 	 ((S\NP)\(S\NP))/NP 	 3 	 use through
+78 	 79 	 (NP\NP)/NP 	 1 	 use of
+82 	 79 	 (NP\NP)/NP 	 2 	 doctrine of
+82 	 80 	 NP[nb]/N 	 1 	 doctrine the
+82 	 81 	 N/N 	 1 	 doctrine relation-back
+83 	 76 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to seek
+84 	 83 	 (S[to]\NP)/(S[b]\NP) 	 2 	 take to
+85 	 84 	 ((S[b]\NP)/NP)/PP 	 3 	 from take
+87 	 85 	 PP/NP 	 1 	 parties from
+87 	 86 	 N/N 	 1 	 parties third
+88 	 84 	 ((S[b]\NP)/NP)/PP 	 2 	 assets take
+88 	 90 	 (S[pss]\NP)/PP 	 1 	 assets transferred <XB>
+90 	 89 	 (S\NP)/(S\NP) 	 2 	 transferred legitimately
+91 	 90 	 (S[pss]\NP)/PP 	 2 	 to transferred
+92 	 91 	 PP/NP 	 1 	 them to
+94 	 48 	 (S\S)/S[dcl] 	 2 	 will --
+94 	 52 	 (S/S)/(S[ng]\NP) 	 1 	 will in
+94 	 95 	 (S\NP)\(S\NP) 	 2 	 will not
+96 	 94 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 seek will
+97 	 96 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to seek
+98 	 97 	 (S[to]\NP)/(S[b]\NP) 	 2 	 vitiate to
+101 	 98 	 (S[b]\NP)/NP 	 2 	 transactions vitiate
+101 	 99 	 N/N 	 1 	 transactions legitimate
+101 	 100 	 N/N 	 1 	 transactions business
+101 	 102 	 S[ng]\NP 	 1 	 transactions occurring <XB>
+102 	 103 	 ((S\NP)\(S\NP))/NP 	 2 	 occurring between
+105 	 103 	 ((S\NP)\(S\NP))/NP 	 3 	 defendant between
+105 	 104 	 NP[nb]/N 	 1 	 defendant the
+108 	 103 	 ((S\NP)\(S\NP))/NP 	 3 	 parties between
+108 	 107 	 N/N 	 1 	 parties third
+111 	 48 	 (S\S)/S[dcl] 	 2 	 will --
+111 	 52 	 (S/S)/(S[ng]\NP) 	 1 	 will in
+111 	 113 	 ((S\NP)\(S\NP))/NP 	 2 	 will in
+116 	 113 	 ((S\NP)\(S\NP))/NP 	 3 	 respects in
+116 	 114 	 NP[nb]/N 	 1 	 respects all
+116 	 115 	 N/N 	 1 	 respects other
+118 	 111 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 assist will
+118 	 121 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 assist in
+120 	 118 	 (S[b]\NP)/NP 	 2 	 court assist
+120 	 119 	 NP[nb]/N 	 1 	 court the
+122 	 121 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 ensuring in
+123 	 122 	 (S[ng]\NP)/S[em] 	 2 	 that ensuring
+125 	 124 	 NP[nb]/N 	 1 	 rights the
+125 	 126 	 (NP\NP)/NP 	 1 	 rights of
+125 	 129 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 rights are
+125 	 130 	 S[pss]\NP 	 1 	 rights protected <XB>
+125 	 133 	 S[ng]\NP 	 1 	 rights proceeding <XB>
+125 	 139 	 S[adj]\NP 	 1 	 rights otherwise <XU>
+128 	 126 	 (NP\NP)/NP 	 2 	 parties of
+128 	 127 	 N/N 	 1 	 parties third
+129 	 123 	 S[em]/S[dcl] 	 1 	 are that
+130 	 129 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 protected are
+130 	 132 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 protected through
+133 	 132 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 proceeding through
+133 	 134 	 ((S\NP)\(S\NP))/NP 	 2 	 proceeding under
+136 	 134 	 ((S\NP)\(S\NP))/NP 	 3 	 RICO under
+139 	 132 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 otherwise through
+<\s>
+<s id="wsj_1138.13"> 34
+1 	 0 	 NP[nb]/N 	 1 	 Division The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 Division expects
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that expects
+5 	 4 	 NP[nb]/N 	 1 	 prosecutor the
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 prosecutor will
+5 	 7 	 (S[b]\NP)/NP 	 1 	 prosecutor announce <XB>
+6 	 3 	 S[em]/S[dcl] 	 1 	 will that
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 announce will
+7 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 announce at
+7 	 20 	 (((S\NP)\(S\NP))/PP)/NP 	 2 	 announce at <XU>
+9 	 7 	 (S[b]\NP)/NP 	 2 	 principles announce
+9 	 8 	 NP[nb]/N 	 1 	 principles these
+11 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 at either
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 time at
+13 	 12 	 NP[nb]/N 	 1 	 time the
+15 	 14 	 NP[nb]/N 	 1 	 indictment the
+15 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 indictment is
+15 	 17 	 S[pss]\NP 	 1 	 indictment returned <XB>
+17 	 16 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 returned is
+20 	 10 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 at either
+22 	 20 	 (((S\NP)\(S\NP))/PP)/NP 	 4 	 latest at
+22 	 21 	 NP[nb]/N 	 1 	 latest the
+24 	 20 	 (((S\NP)\(S\NP))/PP)/NP 	 3 	 at at
+27 	 24 	 PP/NP 	 1 	 proceeding at
+27 	 25 	 NP[nb]/N 	 1 	 proceeding the
+27 	 26 	 N/N 	 1 	 proceeding first
+27 	 28 	 (NP\NP)/NP 	 1 	 proceeding before
+27 	 31 	 (S[ng]\NP)/NP 	 1 	 proceeding concerning <XB>
+30 	 28 	 (NP\NP)/NP 	 2 	 court before
+30 	 29 	 NP[nb]/N 	 1 	 court the
+33 	 31 	 (S[ng]\NP)/NP 	 2 	 TRO concerning
+33 	 32 	 NP[nb]/N 	 1 	 TRO the
+<\s>

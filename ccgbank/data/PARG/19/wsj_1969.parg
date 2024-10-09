@@ -1,0 +1,67 @@
+<s id="wsj_1969.1"> 9
+2 	 0 	 N/N 	 1 	 Inc. Cincinnati
+2 	 1 	 N/N 	 1 	 Inc. Microwave
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 it introduced
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 introduced said
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 detectors introduced
+8 	 6 	 N/N 	 1 	 detectors two
+8 	 7 	 N/N 	 1 	 detectors radar
+<\s>
+<s id="wsj_1969.2"> 27
+1 	 0 	 N/N 	 1 	 unit One
+1 	 3 	 (S[pss]\NP)/NP 	 1 	 unit called <XB>
+1 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 unit uses
+5 	 3 	 (S[pss]\NP)/NP 	 2 	 Escort called
+5 	 4 	 NP[nb]/N 	 1 	 Escort the
+7 	 26 	 (S[dcl]\S[dcl])\NP 	 1 	 uses said
+12 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 technology uses
+12 	 8 	 NP[nb]/N 	 1 	 technology a
+12 	 9 	 N/N 	 1 	 technology new
+12 	 10 	 N/N 	 1 	 technology digital
+12 	 11 	 N/N 	 1 	 technology signal-processing
+12 	 14 	 (S[b]\NP)/NP 	 1 	 technology detect <XB>
+12 	 20 	 (S[pss]\NP)/(S[adj]\NP) 	 1 	 technology was <XB>
+12 	 22 	 S[adj]\NP 	 1 	 technology possible <XB>
+13 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to uses
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 detect to
+14 	 18 	 (S\NP)\(S\NP) 	 2 	 detect sooner
+16 	 14 	 (S[b]\NP)/NP 	 2 	 signals detect
+16 	 15 	 N/N 	 1 	 signals radar
+18 	 17 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 sooner much
+18 	 19 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/(S[pss]\NP) 	 3 	 sooner than
+20 	 19 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/(S[pss]\NP) 	 4 	 was than
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 was previously
+22 	 20 	 (S[pss]\NP)/(S[adj]\NP) 	 2 	 possible was
+25 	 24 	 NP[nb]/N 	 1 	 company the
+25 	 26 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>
+<s id="wsj_1969.3"> 28
+1 	 0 	 NP[nb]/N 	 1 	 other The
+1 	 3 	 (S[pss]\NP)/NP 	 1 	 other called <XB>
+1 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 other is
+1 	 9 	 S[adj]\NP 	 1 	 other operated <XB>
+1 	 11 	 (S[dcl]\NP)/NP 	 1 	 other is <XU>
+5 	 3 	 (S[pss]\NP)/NP 	 2 	 Solo called
+5 	 4 	 NP[nb]/N 	 1 	 Solo the
+7 	 27 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+9 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 operated is
+9 	 8 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 operated battery
+11 	 27 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+16 	 11 	 (S[dcl]\NP)/NP 	 2 	 detector is
+16 	 12 	 NP[nb]/N 	 1 	 detector the
+16 	 13 	 N/N 	 1 	 detector first
+16 	 14 	 N/N 	 1 	 detector high-performance
+16 	 15 	 N/N 	 1 	 detector radar
+16 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 detector that
+16 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 detector does <XB>
+16 	 20 	 (S[b]\NP)/NP 	 1 	 detector need <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 does that
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 does n't
+20 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 need does
+23 	 20 	 (S[b]\NP)/NP 	 2 	 cord need
+23 	 21 	 NP[nb]/N 	 1 	 cord a
+23 	 22 	 N/N 	 1 	 cord power
+26 	 25 	 NP[nb]/N 	 1 	 company the
+26 	 27 	 (S[dcl]\S[dcl])\NP 	 2 	 company said
+<\s>

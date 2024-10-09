@@ -1,0 +1,156 @@
+<s id="wsj_1910.1"> 40
+7 	 0 	 N/N 	 1 	 Association Benj
+7 	 2 	 N/N 	 1 	 Association Franklin
+7 	 3 	 N/N 	 1 	 Association Federal
+7 	 4 	 N/N 	 1 	 Association Savings
+7 	 5 	 N/N 	 1 	 Association &
+7 	 6 	 N/N 	 1 	 Association Loan
+7 	 8 	 (S[dcl]\NP)/S[dcl] 	 1 	 Association said
+9 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it expects
+9 	 12 	 (S[b]\NP)/NP 	 1 	 it post <XB>
+10 	 8 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+11 	 10 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 post to
+12 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 post as
+16 	 12 	 (S[b]\NP)/NP 	 2 	 loss post
+16 	 13 	 NP[nb]/N 	 1 	 loss a
+16 	 14 	 N/N 	 1 	 loss third-quarter
+16 	 15 	 N/N 	 1 	 loss net
+16 	 17 	 (NP\NP)/NP 	 1 	 loss of
+19 	 17 	 (NP\NP)/NP 	 2 	 $ of
+19 	 18 	 N/N 	 1 	 $ about
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 8
+24 	 17 	 (NP\NP)/NP 	 2 	 $ of
+24 	 26 	 (NP\NP)/N 	 1 	 $ a
+25 	 24 	 N/N[num] 	 1 	 1.04 $
+27 	 26 	 (NP\NP)/N 	 2 	 share a
+31 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 result as
+31 	 30 	 NP[nb]/N 	 1 	 result a
+31 	 32 	 (NP\NP)/(S[ng]\NP) 	 1 	 result of
+33 	 32 	 (NP\NP)/(S[ng]\NP) 	 2 	 adding of
+34 	 33 	 (S[ng]\NP)/NP 	 2 	 $ adding
+34 	 37 	 (NP\NP)/NP 	 1 	 $ in
+36 	 34 	 N/N[num] 	 1 	 million $
+36 	 35 	 N/N 	 1 	 million 11
+39 	 37 	 (NP\NP)/NP 	 2 	 reserves in
+39 	 38 	 N/N 	 1 	 reserves loan-loss
+<\s>
+<s id="wsj_1910.2"> 34
+3 	 1 	 (N/N)/(N/N) 	 2 	 Ore. Portland
+5 	 0 	 NP[nb]/N 	 1 	 thrift The
+5 	 3 	 N/N 	 1 	 thrift Ore.
+5 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 thrift which
+5 	 8 	 (S[dcl]\NP)/NP 	 1 	 thrift has <XB>
+5 	 15 	 (S[dcl]\NP)/NP 	 1 	 thrift had
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 $ has
+9 	 12 	 (NP\NP)/NP 	 1 	 $ of
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 5.2
+13 	 12 	 (NP\NP)/NP 	 2 	 assets of
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 income had
+17 	 16 	 N/N 	 1 	 income net
+17 	 18 	 (NP\NP)/NP 	 1 	 income in
+17 	 24 	 (NP\NP)/NP 	 1 	 income of
+20 	 19 	 N/N 	 1 	 year last
+20 	 21 	 (NP[nb]/N)\NP 	 2 	 year 's
+23 	 18 	 (NP\NP)/NP 	 2 	 quarter in
+23 	 21 	 (NP[nb]/N)\NP 	 1 	 quarter 's
+23 	 22 	 N/N 	 1 	 quarter third
+25 	 24 	 (NP\NP)/NP 	 2 	 $ of
+27 	 25 	 N/N[num] 	 1 	 million $
+27 	 26 	 N/N 	 1 	 million 1.8
+31 	 24 	 (NP\NP)/NP 	 2 	 cents of
+31 	 30 	 N/N 	 1 	 cents 23
+31 	 32 	 (NP\NP)/N 	 1 	 cents a
+33 	 32 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_1910.3"> 13
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Franklin said
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it expects
+2 	 5 	 (S[b]\NP)/NP 	 1 	 it report <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 report to
+5 	 12 	 (S\NP)\(S\NP) 	 2 	 report week
+6 	 5 	 (S[b]\NP)/NP 	 2 	 earnings report
+6 	 7 	 (NP\NP)/NP 	 1 	 earnings for
+10 	 7 	 (NP\NP)/NP 	 2 	 quarter for
+10 	 8 	 NP[nb]/N 	 1 	 quarter the
+10 	 9 	 N/N 	 1 	 quarter latest
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week next
+<\s>
+<s id="wsj_1910.4"> 30
+2 	 0 	 NP[nb]/N 	 1 	 reserves The
+2 	 1 	 N/N 	 1 	 reserves additional
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 reserves relate
+3 	 29 	 (S[dcl]\S[dcl])\NP 	 1 	 relate said
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 to relate
+6 	 4 	 PP/NP 	 1 	 write-downs to
+6 	 5 	 N/N 	 1 	 write-downs possible
+6 	 7 	 (NP\NP)/NP 	 1 	 write-downs of
+9 	 7 	 (NP\NP)/NP 	 2 	 assets of
+9 	 8 	 N/N 	 1 	 assets certain
+9 	 10 	 S[pss]\NP 	 1 	 assets held <XB>
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 held by
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 Franklin by
+15 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 subsidiaries by
+15 	 14 	 NP[nb]/N 	 1 	 subsidiaries its
+18 	 4 	 PP/NP 	 1 	 default to
+18 	 17 	 NP[nb]/N 	 1 	 default the
+18 	 19 	 (NP\NP)/NP 	 1 	 default of
+21 	 19 	 (NP\NP)/NP 	 2 	 bond of
+21 	 20 	 NP[nb]/N 	 1 	 bond a
+21 	 22 	 (NP\NP)/NP 	 1 	 bond in
+25 	 22 	 (NP\NP)/NP 	 2 	 portfolio in
+25 	 23 	 NP[nb]/N 	 1 	 portfolio its
+25 	 24 	 N/N 	 1 	 portfolio investment
+28 	 27 	 NP[nb]/N 	 1 	 thrift the
+28 	 29 	 (S[dcl]\S[dcl])\NP 	 2 	 thrift said
+<\s>
+<s id="wsj_1910.5"> 28
+1 	 0 	 (S/S)/PP 	 2 	 to According
+3 	 1 	 PP/NP 	 1 	 spokeswoman to
+3 	 2 	 NP[nb]/N 	 1 	 spokeswoman a
+5 	 7 	 (S[dcl]\NP)/PP 	 1 	 they relate
+7 	 0 	 (S/S)/PP 	 1 	 relate According
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 relate also
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 to relate
+9 	 8 	 PP/NP 	 1 	 changes to
+9 	 14 	 (S[b]\NP)/NP 	 2 	 changes make <XU>
+9 	 15 	 (NP\NP)/NP 	 1 	 changes in
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Franklin will
+10 	 14 	 (S[b]\NP)/NP 	 1 	 Franklin make <XB>
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+13 	 12 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+18 	 15 	 (NP\NP)/NP 	 2 	 procedures in
+18 	 16 	 NP[nb]/N 	 1 	 procedures its
+18 	 17 	 N/N 	 1 	 procedures accounting
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 comply to
+21 	 20 	 (S[b]\NP)/PP 	 2 	 with comply
+25 	 21 	 PP/NP 	 1 	 requirements with
+25 	 22 	 N/N 	 1 	 requirements new
+25 	 23 	 N/N 	 1 	 requirements federal
+25 	 24 	 N/N 	 1 	 requirements capitalization
+25 	 26 	 (NP\NP)/NP 	 1 	 requirements for
+27 	 26 	 (NP\NP)/NP 	 2 	 thrifts for
+<\s>
+<s id="wsj_1910.6"> 18
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 company 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 shares 's
+3 	 4 	 (S[dcl]\NP)/PP 	 1 	 shares closed
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 closed yesterday
+4 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 closed off
+4 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 closed in
+6 	 4 	 (S[dcl]\NP)/PP 	 2 	 at closed
+7 	 6 	 PP/NP 	 1 	 $ at
+8 	 7 	 N/N[num] 	 1 	 4.25 $
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 cents off
+12 	 11 	 N/N 	 1 	 cents 25
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+17 	 15 	 N/N 	 1 	 trading national
+17 	 16 	 N/N 	 1 	 trading over-the-counter
+<\s>

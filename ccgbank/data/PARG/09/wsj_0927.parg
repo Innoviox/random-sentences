@@ -1,0 +1,601 @@
+<s id="wsj_0927.1"> 27
+2 	 0 	 N/N 	 1 	 Schwarz H.
+2 	 1 	 N/N 	 1 	 Schwarz Marshall
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Schwarz was
+2 	 4 	 (S[pss]\NP)/NP 	 1 	 Schwarz named <XB>
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+5 	 4 	 (S[pss]\NP)/NP 	 2 	 chairman named
+5 	 10 	 (NP\NP)/NP 	 1 	 chairman of
+9 	 4 	 (S[pss]\NP)/NP 	 2 	 officer named
+9 	 7 	 N/N 	 1 	 officer chief
+9 	 8 	 N/N 	 1 	 officer executive
+9 	 10 	 (NP\NP)/NP 	 1 	 officer of
+13 	 10 	 (NP\NP)/NP 	 2 	 Corp. of
+13 	 11 	 N/N 	 1 	 Corp. U.S.
+13 	 12 	 N/N 	 1 	 Corp. Trust
+17 	 10 	 (NP\NP)/NP 	 2 	 firm of
+17 	 15 	 NP[nb]/N 	 1 	 firm a
+17 	 16 	 N/N 	 1 	 firm private-banking
+17 	 18 	 (NP\NP)/NP 	 1 	 firm with
+19 	 18 	 (NP\NP)/NP 	 2 	 assets with
+19 	 20 	 (NP\NP)/NP 	 1 	 assets under
+19 	 22 	 (NP\NP)/NP 	 1 	 assets of
+21 	 20 	 (NP\NP)/NP 	 2 	 management under
+24 	 22 	 (NP\NP)/NP 	 2 	 $ of
+24 	 23 	 N/N 	 1 	 $ about
+26 	 24 	 N/N[num] 	 1 	 billion $
+26 	 25 	 N/N 	 1 	 billion 17
+<\s>
+<s id="wsj_0927.2"> 28
+1 	 0 	 N/N 	 1 	 Schwarz Mr.
+1 	 5 	 (S[adj]\NP)\NP 	 1 	 Schwarz old <XB>
+1 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Schwarz will
+1 	 8 	 (S[b]\NP)/NP 	 1 	 Schwarz succeed <XB>
+4 	 3 	 N/N 	 1 	 years 52
+4 	 5 	 (S[adj]\NP)\NP 	 2 	 years old
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 succeed will
+8 	 12 	 ((S\NP)\(S\NP))/N[num] 	 2 	 succeed Feb.
+8 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 succeed after
+11 	 8 	 (S[b]\NP)/NP 	 2 	 Davison succeed
+11 	 9 	 N/N 	 1 	 Davison Daniel
+11 	 10 	 N/N 	 1 	 Davison P.
+13 	 12 	 ((S\NP)\(S\NP))/N[num] 	 3 	 1 Feb.
+16 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 after soon
+18 	 17 	 N/N 	 1 	 Davison Mr.
+18 	 19 	 (S[dcl]\NP)/NP 	 1 	 Davison reaches
+19 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 reaches after
+21 	 20 	 NP[nb]/N 	 1 	 company the
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 company 's
+25 	 19 	 (S[dcl]\NP)/NP 	 2 	 age reaches
+25 	 22 	 (NP[nb]/N)\NP 	 1 	 age 's
+25 	 23 	 N/N 	 1 	 age mandatory
+25 	 24 	 N/N 	 1 	 age retirement
+25 	 26 	 (NP\NP)/NP 	 1 	 age of
+27 	 26 	 (NP\NP)/NP 	 2 	 65 of
+<\s>
+<s id="wsj_0927.3"> 36
+1 	 0 	 N/N 	 1 	 Schwarz Mr.
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Schwarz who
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 Schwarz is <XB>
+1 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Schwarz will
+1 	 12 	 S[pss]\NP 	 1 	 Schwarz succeeded <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is who
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 president is
+5 	 6 	 (NP\NP)/NP 	 1 	 president of
+8 	 6 	 (NP\NP)/NP 	 2 	 Trust of
+8 	 7 	 N/N 	 1 	 Trust U.S.
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 succeeded be
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 succeeded in
+12 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 succeeded by
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 post in
+15 	 14 	 NP[nb]/N 	 1 	 post that
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 Maurer by
+19 	 17 	 N/N 	 1 	 Maurer Jeffrey
+19 	 18 	 N/N 	 1 	 Maurer S.
+19 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Maurer who
+19 	 24 	 (S[dcl]\NP)/NP 	 1 	 Maurer is <XB>
+21 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 42 by
+21 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 42 who
+21 	 24 	 (S[dcl]\NP)/NP 	 1 	 42 is <XB>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is who
+27 	 24 	 (S[dcl]\NP)/NP 	 2 	 president is
+27 	 25 	 N/N 	 1 	 president executive
+27 	 26 	 N/N 	 1 	 president vice
+27 	 28 	 (NP\NP)/NP 	 1 	 president in
+29 	 28 	 (NP\NP)/NP 	 2 	 charge in
+29 	 30 	 (NP\NP)/NP 	 1 	 charge of
+32 	 31 	 NP[nb]/N 	 1 	 company the
+32 	 33 	 (NP[nb]/N)\NP 	 2 	 company 's
+35 	 30 	 (NP\NP)/NP 	 2 	 group of
+35 	 33 	 (NP[nb]/N)\NP 	 1 	 group 's
+35 	 34 	 N/N 	 1 	 group asset-management
+<\s>
+<s id="wsj_0927.4"> 39
+1 	 0 	 N/N 	 1 	 Trust U.S.
+1 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Trust has
+1 	 20 	 (S[pt]\NP)/NP 	 1 	 Trust faced <XB>
+5 	 3 	 NP[nb]/N 	 1 	 institution a
+5 	 4 	 N/N 	 1 	 institution 136-year-old
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 institution that
+5 	 7 	 (S[dcl]\NP)/NP 	 1 	 institution is <XB>
+5 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 institution has
+5 	 20 	 (S[pt]\NP)/NP 	 1 	 institution faced <XB>
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is that
+8 	 7 	 (S[dcl]\NP)/NP 	 2 	 one is
+8 	 9 	 (NP\NP)/NP 	 1 	 one of
+14 	 9 	 (NP\NP)/NP 	 2 	 banks of
+14 	 10 	 NP[nb]/N 	 1 	 banks the
+14 	 11 	 N/N 	 1 	 banks earliest
+14 	 12 	 N/N 	 1 	 banks high-net
+14 	 13 	 N/N 	 1 	 banks worth
+14 	 15 	 (NP\NP)/NP 	 1 	 banks in
+17 	 15 	 (NP\NP)/NP 	 2 	 U.S. in
+17 	 16 	 NP[nb]/N 	 1 	 U.S. the
+20 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 faced has
+22 	 20 	 (S[pt]\NP)/NP 	 2 	 competition faced
+22 	 21 	 N/N 	 1 	 competition intensifying
+22 	 23 	 (NP\NP)/NP 	 1 	 competition from
+25 	 23 	 (NP\NP)/NP 	 2 	 firms from
+25 	 24 	 N/N 	 1 	 firms other
+25 	 26 	 (NP\NP)/(S[dcl]\NP) 	 1 	 firms that
+25 	 27 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 firms have <XB>
+25 	 28 	 (S[pt]\NP)/NP 	 1 	 firms established <XB>
+25 	 32 	 (S[pt]\NP)/NP 	 1 	 firms promoted <XU>
+27 	 26 	 (NP\NP)/(S[dcl]\NP) 	 2 	 have that
+28 	 27 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 established have
+32 	 27 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 promoted have
+32 	 31 	 (S\NP)/(S\NP) 	 2 	 promoted heavily
+35 	 28 	 (S[pt]\NP)/NP 	 2 	 businesses established <XU>
+35 	 32 	 (S[pt]\NP)/NP 	 2 	 businesses promoted
+35 	 34 	 N/N 	 1 	 businesses private-banking
+35 	 36 	 (NP\NP)/NP 	 1 	 businesses of
+38 	 36 	 (NP\NP)/NP 	 2 	 own of
+38 	 37 	 NP[nb]/N 	 1 	 own their
+<\s>
+<s id="wsj_0927.5"> 11
+2 	 0 	 (S/S)/NP 	 2 	 result As
+2 	 1 	 NP[nb]/N 	 1 	 result a
+5 	 4 	 N/N 	 1 	 Trust U.S.
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Trust 's
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 earnings 's
+7 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 earnings have
+7 	 10 	 S[pss]\NP 	 1 	 earnings hurt <XB>
+8 	 0 	 (S/S)/NP 	 1 	 have As
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been have
+10 	 9 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 hurt been
+<\s>
+<s id="wsj_0927.6"> 16
+2 	 1 	 N/N 	 1 	 Schwarz Mr.
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Schwarz welcomes
+2 	 13 	 ((S[ng]\NP)/NP)/NP 	 1 	 Schwarz calling <XB>
+3 	 0 	 S/S 	 1 	 welcomes But
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 competition welcomes
+5 	 4 	 NP[nb]/N 	 1 	 competition the
+5 	 6 	 (NP\NP)/NP 	 1 	 competition in
+8 	 7 	 N/N 	 1 	 Trust U.S.
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 Trust 's
+11 	 6 	 (NP\NP)/NP 	 2 	 businesses in
+11 	 9 	 (NP[nb]/N)\NP 	 1 	 businesses 's
+11 	 10 	 N/N 	 1 	 businesses flagship
+14 	 13 	 ((S[ng]\NP)/NP)/NP 	 3 	 it calling
+15 	 13 	 ((S[ng]\NP)/NP)/NP 	 2 	 flattery calling
+<\s>
+<s id="wsj_0927.7"> 12
+1 	 0 	 N/N 	 1 	 Schwarz Mr.
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Schwarz says
+4 	 3 	 NP[nb]/N 	 1 	 competition the
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 competition broadens
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 broadens says
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 base broadens
+7 	 6 	 NP[nb]/N 	 1 	 base the
+7 	 8 	 (NP\NP)/NP 	 1 	 base of
+7 	 10 	 (NP\NP)/NP 	 1 	 base for
+9 	 8 	 (NP\NP)/NP 	 2 	 opportunity of
+11 	 10 	 (NP\NP)/NP 	 2 	 us for
+<\s>
+<s id="wsj_0927.8"> 7
+1 	 0 	 N/N 	 1 	 firms Other
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 firms are
+1 	 3 	 (S[ng]\NP)/PP 	 1 	 firms dealing <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 dealing are
+4 	 3 	 (S[ng]\NP)/PP 	 2 	 with dealing
+6 	 4 	 PP/NP 	 1 	 masses with
+6 	 5 	 NP[nb]/N 	 1 	 masses the
+<\s>
+<s id="wsj_0927.9"> 16
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 I do
+0 	 3 	 (S[b]\NP)/S[dcl] 	 1 	 I believe <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 do n't
+1 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 do adds
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 believe do
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 they have
+5 	 3 	 (S[b]\NP)/S[dcl] 	 2 	 have believe
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 culture have
+7 	 6 	 NP[nb]/N 	 1 	 culture the
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 to adequately
+10 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 service to
+12 	 10 	 (S[b]\NP)/NP 	 2 	 individuals service
+12 	 11 	 N/N 	 1 	 individuals high-net-worth
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 he adds
+<\s>
+<s id="wsj_0927.10"> 20
+1 	 0 	 N/N 	 1 	 Trust U.S.
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 Trust introduced
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 introduced recently
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 products introduced
+6 	 4 	 N/N 	 1 	 products certain
+6 	 5 	 N/N 	 1 	 products mutual-fund
+6 	 8 	 (NP\NP)/(S[dcl]\NP) 	 1 	 products which
+6 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 products allow <XB>
+9 	 8 	 (NP\NP)/(S[dcl]\NP) 	 2 	 allow which
+10 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 it allow
+10 	 12 	 (S[b]\NP)/NP 	 1 	 it serve <XB>
+11 	 9 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 serve to
+13 	 12 	 (S[b]\NP)/NP 	 2 	 customers serve
+13 	 14 	 (NP\NP)/NP 	 1 	 customers with
+16 	 14 	 (NP\NP)/NP 	 2 	 deposits with
+16 	 15 	 N/N 	 1 	 deposits minimum
+16 	 17 	 (NP\NP)/NP 	 1 	 deposits of
+18 	 17 	 (NP\NP)/NP 	 2 	 $ of
+19 	 18 	 N/N[num] 	 1 	 250,000 $
+<\s>
+<s id="wsj_0927.11"> 11
+3 	 2 	 NP[nb]/N 	 1 	 company the
+3 	 4 	 (S[dcl]\NP)/PP 	 1 	 company advertised
+4 	 0 	 S/S 	 1 	 advertised Previously
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 at advertised
+9 	 7 	 (N/N)/N[num] 	 2 	 million $
+9 	 8 	 N/N 	 1 	 million 2
+10 	 5 	 PP/NP 	 1 	 level at
+10 	 6 	 NP[nb]/N 	 1 	 level the
+10 	 7 	 (N/N)/N[num] 	 1 	 level $
+<\s>
+<s id="wsj_0927.12"> 22
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 We have
+0 	 3 	 (S[pt]\NP)/NP 	 1 	 We taken <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 have always
+1 	 21 	 (S[dcl]\S[dcl])\NP 	 1 	 have says
+3 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 taken have
+5 	 3 	 (S[pt]\NP)/NP 	 2 	 accounts taken
+5 	 4 	 N/N 	 1 	 accounts smaller
+9 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 we are
+9 	 11 	 (S[ng]\NP)/PP 	 1 	 we looking <XB>
+10 	 8 	 S/S 	 1 	 are now
+10 	 21 	 (S[dcl]\S[dcl])\NP 	 1 	 are says
+11 	 10 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 looking are
+12 	 11 	 (S[ng]\NP)/PP 	 2 	 for looking
+14 	 12 	 PP/NP 	 1 	 accounts for
+14 	 13 	 N/N 	 1 	 accounts smaller
+14 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 accounts that
+14 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 accounts will <XB>
+14 	 17 	 S[b]\NP 	 1 	 accounts grow <XB>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will that
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 grow will
+20 	 19 	 N/N 	 1 	 Schwarz Mr.
+20 	 21 	 (S[dcl]\S[dcl])\NP 	 2 	 Schwarz says
+<\s>
+<s id="wsj_0927.13"> 18
+1 	 0 	 NP[nb]/N 	 1 	 bread Our
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 bread is
+3 	 0 	 NP[nb]/N 	 1 	 butter Our
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 butter is
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 is still
+4 	 17 	 (S[dcl]\S[dcl])\NP 	 1 	 is says
+7 	 10 	 ((N/N)\(N/N))/N 	 2 	 $ to
+9 	 7 	 (N/N)/N[num] 	 2 	 million $
+9 	 8 	 N/N 	 1 	 million 2
+11 	 10 	 ((N/N)\(N/N))/N 	 3 	 $ to
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 20
+14 	 4 	 (S[dcl]\NP)/NP 	 2 	 account is
+14 	 6 	 NP[nb]/N 	 1 	 account the
+14 	 7 	 (N/N)/N[num] 	 1 	 account $
+16 	 17 	 (S[dcl]\S[dcl])\NP 	 2 	 he says
+<\s>
+<s id="wsj_0927.14"> 16
+2 	 0 	 NP[nb]/N 	 1 	 services The
+2 	 1 	 N/N 	 1 	 services new
+2 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 services allow
+3 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 allow says
+5 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Trust allow
+5 	 4 	 N/N 	 1 	 Trust U.S.
+5 	 7 	 (S[b]\NP)/PP 	 1 	 Trust cater <XB>
+6 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cater to
+8 	 7 	 (S[b]\NP)/PP 	 2 	 to cater
+11 	 8 	 PP/NP 	 1 	 wealth to
+11 	 9 	 NP[nb]/N 	 1 	 wealth the
+11 	 10 	 N/N 	 1 	 wealth new
+14 	 13 	 N/N 	 1 	 Schwarz Mr.
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 Schwarz says
+<\s>
+<s id="wsj_0927.15"> 22
+2 	 0 	 N/N 	 1 	 income Quarterly
+2 	 1 	 N/N 	 1 	 income net
+2 	 3 	 (NP\NP)/N 	 1 	 income this
+2 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 income has
+2 	 6 	 (S[pt]\NP)/PP 	 1 	 income risen <XB>
+4 	 3 	 (NP\NP)/N 	 2 	 year this
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 risen has
+8 	 6 	 (S[pt]\NP)/PP 	 2 	 over risen
+8 	 7 	 PP/PP 	 1 	 over just
+10 	 8 	 PP/NP 	 1 	 periods over
+10 	 9 	 N/N 	 1 	 periods comparable
+10 	 11 	 (NP\NP)/NP 	 1 	 periods in
+12 	 11 	 (NP\NP)/NP 	 2 	 1988 in
+12 	 14 	 (NP\NP)/S[dcl] 	 1 	 1988 when
+16 	 15 	 N/N 	 1 	 net year-end
+16 	 17 	 (S[dcl]\NP)/PP 	 1 	 net was
+17 	 14 	 (NP\NP)/S[dcl] 	 2 	 was when
+18 	 17 	 (S[dcl]\NP)/PP 	 2 	 below was
+21 	 18 	 PP/NP 	 1 	 level below
+21 	 19 	 NP[nb]/N 	 1 	 level the
+21 	 20 	 N/N 	 1 	 level 1987
+<\s>
+<s id="wsj_0927.16"> 37
+2 	 1 	 NP[nb]/N 	 1 	 year this
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 year 's
+5 	 0 	 (S/S)/NP 	 2 	 quarter In
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 quarter 's
+5 	 4 	 N/N 	 1 	 quarter third
+8 	 7 	 (S/S)/NP 	 2 	 example for
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 net was
+11 	 0 	 (S/S)/NP 	 1 	 was In
+11 	 7 	 (S/S)/NP 	 1 	 was for
+11 	 22 	 ((S\NP)\(S\NP))/PP 	 2 	 was compared
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 $ was
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 10.5
+17 	 11 	 (S[dcl]\NP)/NP 	 2 	 $ was
+17 	 19 	 (NP\NP)/N 	 1 	 $ a
+18 	 17 	 N/N[num] 	 1 	 1.05 $
+20 	 19 	 (NP\NP)/N 	 2 	 share a
+23 	 22 	 ((S\NP)\(S\NP))/PP 	 3 	 with compared
+24 	 23 	 PP/NP 	 1 	 $ with
+24 	 36 	 (NP\NP)\NP 	 1 	 $ earlier
+26 	 24 	 N/N[num] 	 1 	 million $
+26 	 25 	 N/N 	 1 	 million 10.3
+29 	 23 	 PP/NP 	 1 	 $ with
+29 	 31 	 (NP\NP)/N 	 1 	 $ a
+29 	 36 	 (NP\NP)\NP 	 1 	 $ earlier
+30 	 29 	 N/N[num] 	 1 	 1.02 $
+32 	 31 	 (NP\NP)/N 	 2 	 share a
+35 	 34 	 NP[nb]/N 	 1 	 year a
+35 	 36 	 (NP\NP)\NP 	 2 	 year earlier
+<\s>
+<s id="wsj_0927.17"> 15
+0 	 1 	 (NP\NP)/PP 	 1 	 Assets as
+0 	 5 	 S[dcl]\NP 	 1 	 Assets fell
+2 	 1 	 (NP\NP)/PP 	 2 	 of as
+3 	 2 	 PP/NP 	 1 	 Sept. of
+4 	 3 	 N/N[num] 	 1 	 30 Sept.
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 fell to
+5 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 fell from
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+9 	 7 	 N/N[num] 	 1 	 billion $
+9 	 8 	 N/N 	 1 	 billion 2.46
+12 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+12 	 11 	 N/N 	 1 	 $ about
+14 	 12 	 N/N[num] 	 1 	 billion $
+14 	 13 	 N/N 	 1 	 billion 2.77
+<\s>
+<s id="wsj_0927.18"> 13
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 We will
+0 	 2 	 ((S[b]\NP)/NP)/NP 	 1 	 We have <XB>
+1 	 12 	 (S[dcl]\S[dcl])\NP 	 1 	 will says
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+5 	 4 	 (N/N)/(N/N) 	 2 	 flat reasonably
+6 	 2 	 ((S[b]\NP)/NP)/NP 	 3 	 year have
+6 	 3 	 NP[nb]/N 	 1 	 year a
+6 	 5 	 N/N 	 1 	 year flat
+8 	 2 	 ((S[b]\NP)/NP)/NP 	 2 	 year have
+8 	 7 	 NP[nb]/N 	 1 	 year this
+11 	 10 	 N/N 	 1 	 Schwarz Mr.
+11 	 12 	 (S[dcl]\S[dcl])\NP 	 2 	 Schwarz says
+<\s>
+<s id="wsj_0927.19"> 28
+1 	 0 	 N/N 	 1 	 Schwarz Mr.
+1 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Schwarz said
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 said also
+4 	 5 	 (S[pss]\NP)/PP 	 1 	 costs associated <XB>
+4 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 costs will
+4 	 19 	 (S[b]\NP)/(S[to]\NP) 	 1 	 costs continue <XB>
+4 	 21 	 (S[b]\NP)/NP 	 1 	 costs be <XB>
+6 	 5 	 (S[pss]\NP)/PP 	 2 	 with associated
+8 	 7 	 N/N 	 1 	 Trust U.S.
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 Trust 's
+11 	 6 	 PP/NP 	 1 	 move with
+11 	 9 	 (NP[nb]/N)\NP 	 1 	 move 's
+11 	 10 	 N/N 	 1 	 move planned
+11 	 12 	 (NP\NP)/NP 	 1 	 move to
+11 	 15 	 (NP\NP)/NP 	 1 	 move from
+14 	 12 	 (NP\NP)/NP 	 2 	 Manhattan to
+14 	 13 	 N/N 	 1 	 Manhattan midtown
+17 	 15 	 (NP\NP)/NP 	 2 	 Street from
+17 	 16 	 N/N 	 1 	 Street Wall
+18 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue will
+19 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 continue through
+20 	 19 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to continue
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+23 	 21 	 (S[b]\NP)/NP 	 2 	 drag be
+23 	 22 	 NP[nb]/N 	 1 	 drag a
+23 	 24 	 (NP\NP)/NP 	 1 	 drag on
+25 	 24 	 (NP\NP)/NP 	 2 	 earnings on
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 1990 through
+<\s>
+<s id="wsj_0927.20"> 23
+1 	 0 	 N/N 	 1 	 Schwarz Mr.
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Schwarz 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 great-grandfather 's
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 great-grandfather founded
+11 	 4 	 (S[dcl]\NP)/NP 	 2 	 Schwarz founded
+11 	 5 	 NP[nb]/N 	 1 	 Schwarz the
+11 	 6 	 N/N 	 1 	 Schwarz New
+11 	 7 	 N/N 	 1 	 Schwarz York
+11 	 8 	 N/N 	 1 	 Schwarz toy
+11 	 9 	 N/N 	 1 	 Schwarz store
+11 	 10 	 N/N 	 1 	 Schwarz F.A.O.
+15 	 14 	 NP[nb]/N 	 1 	 family his
+15 	 18 	 (S[dcl]\NP)/NP 	 1 	 family has
+17 	 16 	 ((S\NP)/(S\NP))/((S\NP)/(S\NP)) 	 3 	 longer no
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 has longer
+19 	 18 	 (S[dcl]\NP)/NP 	 2 	 ties has
+19 	 20 	 (NP\NP)/NP 	 1 	 ties to
+22 	 20 	 (NP\NP)/NP 	 2 	 company to
+22 	 21 	 NP[nb]/N 	 1 	 company the
+<\s>
+<s id="wsj_0927.21"> 11
+1 	 0 	 N/N 	 1 	 Schwarz Mr.
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Schwarz 's
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 father 's
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 father was
+4 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 was until
+8 	 4 	 (S[dcl]\NP)/NP 	 2 	 trustee was
+8 	 5 	 NP[nb]/N 	 1 	 trustee a
+8 	 6 	 N/N 	 1 	 trustee U.S.
+8 	 7 	 N/N 	 1 	 trustee Trust
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 1974 until
+<\s>
+<s id="wsj_0927.22"> 14
+1 	 0 	 N/N 	 1 	 Trust U.S.
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 Trust created
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 created also
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 office created
+6 	 4 	 NP[nb]/N 	 1 	 office a
+6 	 5 	 N/N 	 1 	 office four-member
+6 	 7 	 (NP\NP)/NP 	 1 	 office of
+6 	 11 	 (S[adj]\NP)/NP 	 1 	 office effective <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 chairman of
+9 	 8 	 NP[nb]/N 	 1 	 chairman the
+12 	 11 	 (S[adj]\NP)/NP 	 2 	 Feb. effective
+13 	 12 	 N/N[num] 	 1 	 1 Feb.
+<\s>
+<s id="wsj_0927.23"> 7
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 It will
+0 	 2 	 (S[b]\NP)/NP 	 1 	 It include <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 include will
+4 	 2 	 (S[b]\NP)/NP 	 2 	 Schwarz include
+4 	 3 	 N/N 	 1 	 Schwarz Messrs.
+6 	 2 	 (S[b]\NP)/NP 	 2 	 Maurer include
+6 	 3 	 N/N 	 1 	 Maurer Messrs.
+<\s>
+<s id="wsj_0927.24"> 36
+2 	 0 	 N/N 	 1 	 Roberts Donald
+2 	 1 	 N/N 	 1 	 Roberts M.
+2 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Roberts were
+2 	 24 	 (S[pss]\NP)/NP 	 1 	 Roberts named <XB>
+2 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Roberts will <XU>
+2 	 29 	 S[b]\NP 	 1 	 Roberts serve <XU>
+4 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 54 were
+4 	 24 	 (S[pss]\NP)/NP 	 1 	 54 named <XB>
+4 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 54 will <XU>
+4 	 29 	 S[b]\NP 	 1 	 54 serve <XU>
+6 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 treasurer were
+6 	 24 	 (S[pss]\NP)/NP 	 1 	 treasurer named <XB>
+6 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 treasurer will <XU>
+6 	 29 	 S[b]\NP 	 1 	 treasurer serve <XU>
+11 	 9 	 N/N 	 1 	 Wonham Frederick
+11 	 10 	 N/N 	 1 	 Wonham S.
+11 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Wonham who
+11 	 16 	 (S[dcl]\NP)/NP 	 1 	 Wonham takes <XB>
+11 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Wonham were
+11 	 24 	 (S[pss]\NP)/NP 	 1 	 Wonham named <XB>
+11 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Wonham will <XU>
+11 	 29 	 S[b]\NP 	 1 	 Wonham serve <XU>
+13 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 58 who
+13 	 16 	 (S[dcl]\NP)/NP 	 1 	 58 takes <XB>
+13 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 58 were
+13 	 24 	 (S[pss]\NP)/NP 	 1 	 58 named <XB>
+13 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 58 will <XU>
+13 	 29 	 S[b]\NP 	 1 	 58 serve <XU>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 takes who
+17 	 16 	 (S[dcl]\NP)/NP 	 2 	 responsibility takes
+17 	 18 	 (NP\NP)/NP 	 1 	 responsibility for
+21 	 18 	 (NP\NP)/NP 	 2 	 group for
+21 	 19 	 NP[nb]/N 	 1 	 group the
+21 	 20 	 N/N 	 1 	 group funds-service
+24 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named were
+26 	 24 	 (S[pss]\NP)/NP 	 2 	 chairmen named
+26 	 25 	 N/N 	 1 	 chairmen vice
+29 	 28 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 serve will
+29 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 serve in
+32 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 office in
+32 	 31 	 NP[nb]/N 	 1 	 office the
+32 	 33 	 (NP\NP)/NP 	 1 	 office of
+35 	 33 	 (NP\NP)/NP 	 2 	 chairman of
+35 	 34 	 NP[nb]/N 	 1 	 chairman the
+<\s>
+<s id="wsj_0927.25"> 23
+1 	 0 	 N/N 	 1 	 Roberts Mr.
+1 	 2 	 S[dcl]\NP 	 1 	 Roberts continues
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 continues as
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 treasurer as
+8 	 7 	 N/N 	 1 	 Wonham Mr.
+8 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Wonham remains
+8 	 10 	 (S[adj]\NP)/PP 	 1 	 Wonham responsible <XB>
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 responsible remains
+11 	 10 	 (S[adj]\NP)/PP 	 2 	 for responsible
+13 	 11 	 PP/NP 	 1 	 offices for
+13 	 12 	 NP[nb]/N 	 1 	 offices the
+13 	 14 	 (NP\NP)/NP 	 1 	 offices of
+15 	 14 	 (NP\NP)/NP 	 2 	 comptroller of
+17 	 14 	 (NP\NP)/NP 	 2 	 planning of
+19 	 14 	 (NP\NP)/NP 	 2 	 marketing of
+22 	 14 	 (NP\NP)/NP 	 2 	 services of
+22 	 21 	 N/N 	 1 	 services general
+<\s>
+<s id="wsj_0927.26"> 20
+2 	 0 	 N/N 	 1 	 Taylor Frederick
+2 	 1 	 N/N 	 1 	 Taylor B.
+2 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Taylor was
+2 	 8 	 (S[pss]\NP)/NP 	 1 	 Taylor named <XB>
+4 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 48 was
+4 	 8 	 (S[pss]\NP)/NP 	 1 	 48 named <XB>
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 was also
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+11 	 8 	 (S[pss]\NP)/NP 	 2 	 chairman named
+11 	 9 	 NP[nb]/N 	 1 	 chairman a
+11 	 10 	 N/N 	 1 	 chairman vice
+15 	 8 	 (S[pss]\NP)/NP 	 2 	 officer named
+15 	 9 	 NP[nb]/N 	 1 	 officer a
+15 	 13 	 N/N 	 1 	 officer chief
+15 	 14 	 N/N 	 1 	 officer investment
+19 	 8 	 (S[pss]\NP)/NP 	 2 	 post named
+19 	 17 	 NP[nb]/N 	 1 	 post a
+19 	 18 	 N/N 	 1 	 post new
+<\s>
+<s id="wsj_0927.27"> 5
+0 	 2 	 (S[dcl]\NP)/NP 	 1 	 He held
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 held previously
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 responsibilities held
+4 	 3 	 N/N 	 1 	 responsibilities similar
+<\s>
+<s id="wsj_0927.28"> 25
+1 	 0 	 N/N 	 1 	 Taylor Mr.
+1 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Taylor was
+1 	 4 	 (S[pss]\NP)/NP 	 1 	 Taylor named <XB>
+1 	 8 	 ((S[ng]\NP)/PP)/NP 	 1 	 Taylor increasing <XB>
+1 	 15 	 (S[dcl]\NP)/NP 	 1 	 Taylor is <XU>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 was also
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+6 	 4 	 (S[pss]\NP)/NP 	 2 	 director named
+6 	 5 	 NP[nb]/N 	 1 	 director a
+10 	 8 	 ((S[ng]\NP)/PP)/NP 	 3 	 board increasing
+10 	 9 	 NP[nb]/N 	 1 	 board the
+11 	 8 	 ((S[ng]\NP)/PP)/NP 	 2 	 to increasing
+12 	 11 	 PP/NP 	 1 	 22 to
+15 	 2 	 (S\NP)/(S\NP) 	 2 	 is also
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 is not
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 part is
+17 	 18 	 (NP\NP)/NP 	 1 	 part of
+21 	 18 	 (NP\NP)/NP 	 2 	 office of
+21 	 19 	 NP[nb]/N 	 1 	 office the
+21 	 20 	 N/N 	 1 	 office new
+21 	 22 	 (NP\NP)/NP 	 1 	 office of
+24 	 22 	 (NP\NP)/NP 	 2 	 chairman of
+24 	 23 	 NP[nb]/N 	 1 	 chairman the
+<\s>
+<s id="wsj_0927.29"> 19
+2 	 0 	 N/N 	 1 	 Bacon James
+2 	 1 	 N/N 	 1 	 Bacon E.
+2 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Bacon will
+2 	 18 	 S[b]\NP 	 1 	 Bacon retire <XB>
+4 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 58 will
+4 	 18 	 S[b]\NP 	 1 	 58 retire <XB>
+8 	 6 	 N/N 	 1 	 president executive
+8 	 7 	 N/N 	 1 	 president vice
+8 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 president who
+8 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 president has <XB>
+8 	 12 	 (S[pt]\NP)/NP 	 1 	 president directed <XB>
+8 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 president will
+8 	 18 	 S[b]\NP 	 1 	 president retire <XB>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has who
+12 	 11 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 directed has
+15 	 12 	 (S[pt]\NP)/NP 	 2 	 group directed
+15 	 13 	 NP[nb]/N 	 1 	 group the
+15 	 14 	 N/N 	 1 	 group funds-service
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 retire will
+<\s>

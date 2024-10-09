@@ -1,0 +1,412 @@
+<s id="wsj_2010.1"> 26
+2 	 0 	 NP[nb]/N 	 1 	 Globe The
+2 	 1 	 N/N 	 1 	 Globe Boston
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Globe says
+6 	 5 	 (N/N)/(N/N) 	 2 	 redesigned newly
+7 	 4 	 NP[nb]/N 	 1 	 pages its
+7 	 6 	 N/N 	 1 	 pages redesigned
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 pages have
+8 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 have says
+8 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 have with
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 look have
+11 	 9 	 NP[nb]/N 	 1 	 look a
+11 	 10 	 N/N 	 1 	 look crisper
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 fixtures with
+14 	 13 	 N/N 	 1 	 fixtures revamped
+14 	 15 	 (S[pss]\NP)/PP 	 1 	 fixtures aimed <XB>
+16 	 15 	 (S[pss]\NP)/PP 	 2 	 at aimed
+17 	 16 	 PP/(S[ng]\NP) 	 1 	 making at
+19 	 17 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 3 	 paper making
+19 	 18 	 NP[nb]/N 	 1 	 paper the
+19 	 21 	 S[adj]\NP 	 1 	 paper consistent <XB>
+19 	 23 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 1 	 paper easier <XU>
+19 	 25 	 (S[b]\NP)/NP 	 2 	 paper read <XU>
+21 	 17 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 2 	 consistent making
+21 	 20 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 consistent more
+23 	 17 	 ((S[ng]\NP)/(S[adj]\NP))/NP 	 2 	 easier making
+24 	 23 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 2 	 to easier
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 read to
+<\s>
+<s id="wsj_2010.2"> 12
+1 	 0 	 S/S 	 1 	 so Maybe
+1 	 3 	 (S\S)/S[dcl] 	 1 	 so if
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you can
+4 	 6 	 (S[b]\NP)/S[qem] 	 1 	 you find <XB>
+5 	 3 	 (S\S)/S[dcl] 	 2 	 can if
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 find can
+7 	 6 	 (S[b]\NP)/S[qem] 	 2 	 where find
+10 	 8 	 NP[nb]/N 	 1 	 writer your
+10 	 9 	 N/N 	 1 	 writer favorite
+10 	 11 	 S[dcl]\NP 	 1 	 writer went
+11 	 7 	 S[qem]/S[dcl] 	 1 	 went where
+<\s>
+<s id="wsj_2010.3"> 48
+1 	 0 	 N/N 	 1 	 scribes Beantown
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 scribes who
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 scribes spare <XB>
+1 	 8 	 (S[ng]\NP)/NP 	 1 	 scribes taking <XB>
+1 	 30 	 (S[dcl]\NP)/NP 	 1 	 scribes poured
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 spare who
+4 	 7 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 spare when
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 invective spare
+6 	 5 	 NP[nb]/N 	 1 	 invective no
+8 	 7 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 taking when
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 taking on
+11 	 8 	 (S[ng]\NP)/NP 	 2 	 luminaries taking
+11 	 10 	 N/N 	 1 	 luminaries local
+11 	 13 	 (NP\NP)/NP 	 1 	 luminaries as
+13 	 12 	 (NP\NP)/(NP\NP) 	 2 	 as such
+17 	 13 	 (NP\NP)/NP 	 2 	 Dukakis as
+17 	 14 	 N/N 	 1 	 Dukakis Michael
+17 	 15 	 N/N 	 1 	 Dukakis Pee
+17 	 16 	 N/N 	 1 	 Dukakis Wee
+27 	 13 	 (NP\NP)/NP 	 2 	 Berry as
+27 	 20 	 N/N 	 1 	 Berry New
+27 	 21 	 N/N 	 1 	 Berry England
+27 	 22 	 N/N 	 1 	 Berry Patriots
+27 	 23 	 N/N 	 1 	 Berry Coach
+27 	 24 	 N/N 	 1 	 Berry Raymond
+27 	 25 	 N/N 	 1 	 Berry Rev.
+27 	 26 	 N/N 	 1 	 Berry Ray
+30 	 29 	 (S\NP)/(S\NP) 	 2 	 poured yesterday
+30 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 poured on
+31 	 30 	 (S[dcl]\NP)/NP 	 2 	 ridicule poured
+34 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 drawings on
+34 	 33 	 N/N 	 1 	 drawings new
+34 	 35 	 (NP\NP)/NP 	 1 	 drawings of
+34 	 38 	 (NP\NP)/(S[dcl]\NP) 	 1 	 drawings that
+34 	 39 	 (S[dcl]\NP)/NP 	 1 	 drawings replaced <XB>
+37 	 35 	 (NP\NP)/NP 	 2 	 columnists of
+37 	 36 	 N/N 	 1 	 columnists Globe
+39 	 38 	 (NP\NP)/(S[dcl]\NP) 	 2 	 replaced that
+39 	 46 	 ((S\NP)\(S\NP))/N 	 2 	 replaced this
+41 	 39 	 (S[dcl]\NP)/NP 	 2 	 photos replaced
+41 	 40 	 N/N 	 1 	 photos old
+41 	 42 	 (NP\NP)/NP 	 1 	 photos in
+45 	 42 	 (NP\NP)/NP 	 2 	 pages in
+45 	 43 	 NP[nb]/N 	 1 	 pages the
+45 	 44 	 N/N 	 1 	 pages revamped
+47 	 46 	 ((S\NP)\(S\NP))/N 	 3 	 week this
+<\s>
+<s id="wsj_2010.4"> 23
+3 	 0 	 (S/S)/NP 	 2 	 night By
+3 	 1 	 N/N 	 1 	 night late
+3 	 2 	 N/N 	 1 	 night last
+9 	 5 	 NP/NP 	 1 	 Mulvoy Globe
+9 	 6 	 NP/NP 	 1 	 Mulvoy Managing
+9 	 7 	 NP/NP 	 1 	 Mulvoy Editor
+9 	 8 	 N/N 	 1 	 Mulvoy Thomas
+9 	 11 	 S[ng]\NP 	 1 	 Mulvoy bending <XB>
+9 	 19 	 (S[dcl]\NP)/NP 	 1 	 Mulvoy scrapped
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 bending to
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 will to
+14 	 13 	 NP[nb]/N 	 1 	 will the
+14 	 15 	 (NP\NP)/NP 	 1 	 will of
+17 	 15 	 (NP\NP)/NP 	 2 	 troops of
+17 	 16 	 NP[nb]/N 	 1 	 troops his
+19 	 0 	 (S/S)/NP 	 1 	 scrapped By
+22 	 19 	 (S[dcl]\NP)/NP 	 2 	 drawings scrapped
+22 	 20 	 NP[nb]/N 	 1 	 drawings the
+22 	 21 	 N/N 	 1 	 drawings new
+<\s>
+<s id="wsj_2010.5"> 21
+3 	 0 	 (S/S)/NP 	 2 	 days For
+3 	 1 	 NP[nb]/N 	 1 	 days a
+3 	 2 	 N/N 	 1 	 days few
+3 	 4 	 (NP\NP)/(S[adj]\NP) 	 1 	 days at
+5 	 4 	 (NP\NP)/(S[adj]\NP) 	 2 	 least at
+7 	 8 	 S[dcl]\NP 	 1 	 he says
+11 	 10 	 NP[nb]/N 	 1 	 pictures no
+11 	 14 	 (NP\NP)/NP 	 1 	 pictures of
+11 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 pictures will
+11 	 18 	 (S[b]\NP)/NP 	 1 	 pictures adorn <XB>
+13 	 10 	 NP[nb]/N 	 1 	 drawings no
+13 	 14 	 (NP\NP)/NP 	 1 	 drawings of
+13 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 drawings will
+13 	 18 	 (S[b]\NP)/NP 	 1 	 drawings adorn <XB>
+16 	 14 	 (NP\NP)/NP 	 2 	 kind of
+16 	 15 	 NP[nb]/N 	 1 	 kind any
+17 	 0 	 (S/S)/NP 	 1 	 will For
+18 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 adorn will
+20 	 18 	 (S[b]\NP)/NP 	 2 	 columns adorn
+20 	 19 	 NP[nb]/N 	 1 	 columns the
+<\s>
+<s id="wsj_2010.6"> 8
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Trouble was
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 nobody thought
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 thought was
+5 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 they looked
+5 	 7 	 S[adj]\NP 	 1 	 they right <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 looked thought
+7 	 6 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 right looked
+<\s>
+<s id="wsj_2010.7"> 50
+3 	 0 	 N/N 	 1 	 Barnicle Globe
+3 	 1 	 N/N 	 1 	 Barnicle columnist
+3 	 2 	 N/N 	 1 	 Barnicle Mike
+3 	 17 	 (S[dcl]\NP)/S[em] 	 1 	 Barnicle averred
+8 	 5 	 ((S\NP)/(S\NP))/NP 	 3 	 attack in
+8 	 6 	 NP[nb]/N 	 1 	 attack the
+8 	 7 	 N/N 	 1 	 attack second
+8 	 9 	 (NP\NP)/NP 	 1 	 attack on
+8 	 12 	 (NP\NP)/NP 	 1 	 attack in
+11 	 9 	 (NP\NP)/NP 	 2 	 employer on
+11 	 10 	 NP[nb]/N 	 1 	 employer his
+15 	 12 	 (NP\NP)/NP 	 2 	 weeks in
+15 	 13 	 N/N 	 1 	 weeks as
+15 	 14 	 N/N 	 1 	 weeks many
+17 	 5 	 ((S\NP)/(S\NP))/NP 	 2 	 averred in
+18 	 17 	 (S[dcl]\NP)/S[em] 	 2 	 that averred
+21 	 19 	 NP[nb]/N 	 1 	 countenance his
+21 	 20 	 N/N 	 1 	 countenance shadowy
+21 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 countenance was
+21 	 23 	 ((S[adj]\NP)/S[dcl])/(S[adj]\NP) 	 1 	 countenance so <XB>
+22 	 18 	 S[em]/S[dcl] 	 1 	 was that
+23 	 22 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 so was
+24 	 23 	 ((S[adj]\NP)/S[dcl])/(S[adj]\NP) 	 3 	 bad so
+26 	 27 	 S[dcl]\NP 	 1 	 it looked
+27 	 23 	 ((S[adj]\NP)/S[dcl])/(S[adj]\NP) 	 2 	 looked so
+27 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 looked like
+30 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 face like
+30 	 29 	 NP[nb]/N 	 1 	 face a
+30 	 33 	 (S[b]\NP)/NP 	 2 	 face find <XU>
+31 	 32 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you 'd
+31 	 33 	 (S[b]\NP)/NP 	 1 	 you find <XB>
+33 	 32 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 find 'd
+33 	 34 	 ((S\NP)\(S\NP))/NP 	 2 	 find on
+36 	 34 	 ((S\NP)\(S\NP))/NP 	 3 	 bottle on
+36 	 35 	 NP[nb]/N 	 1 	 bottle a
+36 	 37 	 (NP\NP)/NP 	 1 	 bottle of
+39 	 37 	 (NP\NP)/NP 	 2 	 elixir of
+39 	 38 	 N/N 	 1 	 elixir miracle
+39 	 40 	 (NP\NP)/(S[dcl]\NP) 	 1 	 elixir that
+39 	 41 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 elixir promises <XB>
+39 	 43 	 ((S[b]\NP)/PP)/(S[adj]\NP) 	 1 	 elixir do <XB>
+39 	 44 	 S[adj]\NP 	 1 	 elixir away <XB>
+41 	 40 	 (NP\NP)/(S[dcl]\NP) 	 2 	 promises that
+42 	 41 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to promises
+43 	 42 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+43 	 47 	 ((S\NP)\(S\NP))/NP 	 2 	 do in
+44 	 43 	 ((S[b]\NP)/PP)/(S[adj]\NP) 	 3 	 away do
+45 	 43 	 ((S[b]\NP)/PP)/(S[adj]\NP) 	 2 	 with do
+46 	 45 	 PP/NP 	 1 	 diarrhea with
+49 	 47 	 ((S\NP)\(S\NP))/NP 	 3 	 lifetime in
+49 	 48 	 NP[nb]/N 	 1 	 lifetime our
+<\s>
+<s id="wsj_2010.8"> 29
+1 	 0 	 N/N 	 1 	 Barnicle Mr.
+1 	 2 	 ((S[dcl]\NP)/S[em])/NP 	 1 	 Barnicle reminded
+3 	 2 	 ((S[dcl]\NP)/S[em])/NP 	 3 	 readers reminded
+4 	 2 	 ((S[dcl]\NP)/S[em])/NP 	 2 	 that reminded
+5 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he has
+5 	 9 	 ((S[pt]\NP)/PP)/NP 	 1 	 he forgiven <XB>
+7 	 4 	 S[em]/S[dcl] 	 1 	 has that
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 has still
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 has n't
+9 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 forgiven has
+11 	 9 	 ((S[pt]\NP)/PP)/NP 	 3 	 management forgiven
+11 	 10 	 N/N 	 1 	 management Globe
+12 	 9 	 ((S[pt]\NP)/PP)/NP 	 2 	 for forgiven
+13 	 12 	 PP/(S[ng]\NP) 	 1 	 questioning for
+16 	 15 	 (N/N)/N[num] 	 2 	 20 $
+18 	 13 	 (S[ng]\NP)/NP 	 2 	 chit questioning
+18 	 14 	 NP[nb]/N 	 1 	 chit a
+18 	 15 	 (N/N)/N[num] 	 1 	 chit $
+18 	 17 	 N/N 	 1 	 chit expense
+18 	 20 	 (S[dcl]\NP)/NP 	 2 	 chit submitted <XU>
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 he submitted
+19 	 22 	 (S[ng]\NP)/NP 	 1 	 he parking <XB>
+19 	 26 	 (S[ng]\NP)/NP 	 1 	 he chasing <XB>
+20 	 21 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 submitted for
+22 	 21 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 parking for
+22 	 25 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 parking while
+24 	 22 	 (S[ng]\NP)/NP 	 2 	 car parking
+24 	 23 	 NP[nb]/N 	 1 	 car his
+26 	 25 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 chasing while
+28 	 26 	 (S[ng]\NP)/NP 	 2 	 story chasing
+28 	 27 	 NP[nb]/N 	 1 	 story a
+<\s>
+<s id="wsj_2010.9"> 39
+0 	 1 	 ((S[dcl]\NP)/NP)/NP 	 1 	 I thought
+1 	 38 	 (S[dcl]\S[dcl])\NP 	 1 	 thought said
+4 	 1 	 ((S[dcl]\NP)/NP)/NP 	 3 	 drawing thought
+4 	 3 	 NP[nb]/N 	 1 	 drawing the
+7 	 1 	 ((S[dcl]\NP)/NP)/NP 	 2 	 cross thought
+7 	 6 	 NP[nb]/N 	 1 	 cross a
+7 	 8 	 (NP\NP)/NP 	 1 	 cross between
+9 	 8 	 (NP\NP)/NP 	 2 	 someone between
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you 'd
+10 	 12 	 (S[b]\NP)/(S[dcl]\NP) 	 1 	 you spot <XB>
+10 	 14 	 (S[dcl]\NP)/NP 	 1 	 you open <XB>
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 spot 'd
+14 	 12 	 (S[b]\NP)/(S[dcl]\NP) 	 2 	 open spot
+14 	 13 	 (S\NP)/(S\NP) 	 2 	 open whipping
+17 	 14 	 (S[dcl]\NP)/NP 	 2 	 coat open
+17 	 15 	 NP[nb]/N 	 1 	 coat his
+17 	 16 	 N/N 	 1 	 coat trench
+21 	 8 	 (NP\NP)/NP 	 2 	 guy between
+21 	 20 	 NP[nb]/N 	 1 	 guy a
+21 	 22 	 (NP\NP)/(S[dcl]\NP) 	 1 	 guy who
+21 	 23 	 (S[dcl]\NP)/S[dcl] 	 1 	 guy boasted <XB>
+23 	 22 	 (NP\NP)/(S[dcl]\NP) 	 2 	 boasted who
+24 	 25 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he 'd
+24 	 26 	 (S[pt]\NP)/NP 	 1 	 he been <XB>
+25 	 23 	 (S[dcl]\NP)/S[dcl] 	 2 	 'd boasted
+26 	 25 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been 'd
+26 	 31 	 ((S\NP)\(S\NP))/NP 	 2 	 been for
+28 	 27 	 N/N 	 1 	 Manson Charles
+28 	 29 	 (NP[nb]/N)\NP 	 2 	 Manson 's
+30 	 26 	 (S[pt]\NP)/NP 	 2 	 roommate been
+30 	 29 	 (NP[nb]/N)\NP 	 1 	 roommate 's
+35 	 31 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+35 	 32 	 NP[nb]/N 	 1 	 years the
+35 	 33 	 N/N 	 1 	 years last
+35 	 34 	 N/N 	 1 	 years 19
+37 	 38 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_2010.10"> 48
+1 	 0 	 N/N 	 1 	 Barnicle Mr.
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Barnicle was
+1 	 4 	 S[adj]\NP 	 1 	 Barnicle kinder <XB>
+2 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 was to
+4 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 kinder was
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 kinder hardly
+7 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 renderings to
+7 	 6 	 NP[nb]/N 	 1 	 renderings the
+7 	 8 	 (NP\NP)/NP 	 1 	 renderings of
+9 	 8 	 (NP\NP)/NP 	 2 	 colleagues of
+9 	 11 	 NP\NP 	 1 	 colleagues Madden
+9 	 21 	 NP\NP 	 1 	 colleagues McDonough <XU>
+9 	 34 	 NP\NP 	 1 	 colleagues English <XU>
+11 	 10 	 (NP\NP)/(NP\NP) 	 2 	 Madden Michael
+11 	 12 	 ((NP\NP)\(NP\NP))/(S[dcl]\NP) 	 2 	 Madden -LRB-
+13 	 12 	 ((NP\NP)\(NP\NP))/(S[dcl]\NP) 	 3 	 appears -LRB-
+14 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to appears
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+17 	 15 	 (S[b]\NP)/NP 	 2 	 pervert be
+17 	 16 	 NP[nb]/N 	 1 	 pervert a
+21 	 20 	 (NP\NP)/(NP\NP) 	 2 	 McDonough Will
+21 	 22 	 ((NP\NP)\(NP\NP))/(S[dcl]\NP) 	 2 	 McDonough -LRB-
+23 	 22 	 ((NP\NP)\(NP\NP))/(S[dcl]\NP) 	 3 	 looks -LRB-
+23 	 24 	 ((S\NP)\(S\NP))/S[poss] 	 2 	 looks as
+25 	 24 	 ((S\NP)\(S\NP))/S[poss] 	 3 	 if as
+26 	 27 	 S[dcl]\NP 	 1 	 he drove
+27 	 25 	 S[poss]/S[dcl] 	 1 	 drove if
+27 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 drove for
+30 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 Lincoln for
+30 	 29 	 N/N 	 1 	 Lincoln Abe
+34 	 33 	 (NP\NP)/(NP\NP) 	 2 	 English Bella
+34 	 36 	 (((NP\NP)\(NP\NP))/(S[dcl]\NP))/N 	 2 	 English whose
+38 	 36 	 (((NP\NP)\(NP\NP))/(S[dcl]\NP))/N 	 4 	 girl whose
+38 	 37 	 N/N 	 1 	 girl little
+38 	 40 	 S[dcl]\NP 	 1 	 girl screams <XB>
+40 	 36 	 (((NP\NP)\(NP\NP))/(S[dcl]\NP))/N 	 3 	 screams whose
+40 	 39 	 (S\NP)/(S\NP) 	 2 	 screams now
+40 	 41 	 (S\NP)\(S\NP) 	 2 	 screams hysterically
+40 	 42 	 ((S\NP)\(S\NP))/N 	 2 	 screams every
+43 	 42 	 ((S\NP)\(S\NP))/N 	 3 	 time every
+44 	 45 	 (S[dcl]\NP)/NP 	 1 	 she sees
+47 	 45 	 (S[dcl]\NP)/NP 	 2 	 newspaper sees
+47 	 46 	 NP[nb]/N 	 1 	 newspaper a
+<\s>
+<s id="wsj_2010.11"> 25
+1 	 0 	 N/N 	 1 	 Staley Lynn
+1 	 12 	 (S[dcl]\NP)/S[em] 	 1 	 Staley acknowledges
+4 	 3 	 NP[nb]/N 	 1 	 Globe the
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 Globe 's
+8 	 5 	 (NP[nb]/N)\NP 	 1 	 editor 's
+8 	 6 	 N/N 	 1 	 editor assistant
+8 	 7 	 N/N 	 1 	 editor managing
+8 	 9 	 (NP\NP)/NP 	 1 	 editor for
+8 	 12 	 (S[dcl]\NP)/S[em] 	 1 	 editor acknowledges
+10 	 9 	 (NP\NP)/NP 	 2 	 design for
+13 	 12 	 (S[dcl]\NP)/S[em] 	 2 	 that acknowledges
+15 	 14 	 NP[nb]/N 	 1 	 visages the
+15 	 16 	 (S[dcl]\NP)/PP 	 1 	 visages were
+16 	 13 	 S[em]/S[dcl] 	 1 	 were that
+17 	 16 	 (S[dcl]\NP)/PP 	 2 	 on were
+20 	 17 	 PP/NP 	 1 	 end on
+20 	 18 	 NP[nb]/N 	 1 	 end the
+20 	 19 	 N/N 	 1 	 end low
+20 	 21 	 (NP\NP)/NP 	 1 	 end of
+24 	 21 	 (NP\NP)/NP 	 2 	 spectrum of
+24 	 22 	 NP[nb]/N 	 1 	 spectrum the
+24 	 23 	 N/N 	 1 	 spectrum likeness
+<\s>
+<s id="wsj_2010.12"> 44
+5 	 0 	 N/N 	 1 	 Carr Rival
+5 	 1 	 N/N 	 1 	 Carr Boston
+5 	 2 	 N/N 	 1 	 Carr Herald
+5 	 3 	 N/N 	 1 	 Carr columnist
+5 	 4 	 N/N 	 1 	 Carr Howie
+5 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Carr who
+5 	 9 	 (S[dcl]\NP)/PP 	 1 	 Carr rails <XB>
+5 	 16 	 (S[dcl]\NP)/S[em] 	 1 	 Carr argued
+9 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 rails who
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 rails usually
+10 	 9 	 (S[dcl]\NP)/PP 	 2 	 at rails
+12 	 10 	 PP/NP 	 1 	 hacks at
+12 	 11 	 N/N 	 1 	 hacks Statehouse
+14 	 10 	 PP/NP 	 1 	 nepotism at
+14 	 11 	 N/N 	 1 	 nepotism Statehouse
+17 	 16 	 (S[dcl]\NP)/S[em] 	 2 	 that argued
+20 	 18 	 NP[nb]/N 	 1 	 drawings the
+20 	 19 	 N/N 	 1 	 drawings new
+20 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 drawings were
+20 	 22 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 drawings designed <XB>
+20 	 24 	 (S[b]\NP)/NP 	 1 	 drawings hide <XB>
+21 	 17 	 S[em]/S[dcl] 	 1 	 were that
+22 	 21 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 designed were
+23 	 22 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to designed
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 hide to
+26 	 25 	 N/N 	 1 	 Madden Mr.
+26 	 27 	 (NP[nb]/N)\NP 	 2 	 Madden 's
+29 	 28 	 (N/N)/(N/N) 	 2 	 growing rapidly
+30 	 24 	 (S[b]\NP)/NP 	 2 	 forehead hide
+30 	 27 	 (NP[nb]/N)\NP 	 1 	 forehead 's
+30 	 29 	 N/N 	 1 	 forehead growing
+34 	 24 	 (S[b]\NP)/NP 	 2 	 defects hide
+34 	 32 	 NP[nb]/N 	 1 	 defects the
+34 	 33 	 N/N 	 1 	 defects facial
+34 	 35 	 (NP\NP)/NP 	 1 	 defects of
+38 	 35 	 (NP\NP)/NP 	 2 	 Shaughnessy of
+38 	 36 	 N/N 	 1 	 Shaughnessy chinless
+38 	 37 	 N/N 	 1 	 Shaughnessy Dan
+43 	 35 	 (NP\NP)/NP 	 2 	 columnist of
+43 	 40 	 NP[nb]/N 	 1 	 columnist a
+43 	 41 	 N/N 	 1 	 columnist Globe
+43 	 42 	 N/N 	 1 	 columnist sports
+<\s>
+<s id="wsj_2010.13"> 18
+1 	 0 	 (S\NP)/(S\NP) 	 2 	 think But
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 think of
+1 	 15 	 (S[dcl]\(S[b]\NP))/NP 	 1 	 think said
+4 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 money of
+4 	 3 	 NP[nb]/N 	 1 	 money the
+4 	 11 	 ((S[b]\NP)/PP)/NP 	 3 	 money save <XU>
+5 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 you will
+5 	 11 	 ((S[b]\NP)/PP)/NP 	 1 	 you save <XB>
+8 	 7 	 NP[nb]/N 	 1 	 reader the
+8 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 reader will
+8 	 11 	 ((S[b]\NP)/PP)/NP 	 1 	 reader save <XB>
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 save will
+12 	 11 	 ((S[b]\NP)/PP)/NP 	 2 	 on save
+13 	 12 	 PP/NP 	 1 	 Halloween on
+17 	 15 	 (S[dcl]\(S[b]\NP))/NP 	 2 	 Barnicle said
+17 	 16 	 N/N 	 1 	 Barnicle Mr.
+<\s>
+<s id="wsj_2010.14"> 16
+1 	 0 	 ((S\NP)/(S\NP))/PP 	 3 	 of Instead
+2 	 1 	 PP/(S[ng]\NP) 	 1 	 buying of
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 buying for
+3 	 2 	 (S[ng]\NP)/NP 	 2 	 masks buying
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 kids for
+6 	 5 	 NP[nb]/N 	 1 	 kids your
+9 	 0 	 ((S\NP)/(S\NP))/PP 	 2 	 cut Instead
+9 	 8 	 (S\NP)/(S\NP) 	 2 	 cut just
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 cut out
+12 	 11 	 NP[nb]/N 	 1 	 columnists the
+12 	 13 	 (NP[nb]/N)\NP 	 2 	 columnists '
+14 	 9 	 (S[b]\NP)/NP 	 2 	 pictures cut
+14 	 13 	 (NP[nb]/N)\NP 	 1 	 pictures '
+<\s>

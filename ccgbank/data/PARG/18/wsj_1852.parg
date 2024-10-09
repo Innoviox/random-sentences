@@ -1,0 +1,1095 @@
+<s id="wsj_1852.1"> 49
+2 	 0 	 (S/S)/NP 	 2 	 move In
+2 	 1 	 NP[nb]/N 	 1 	 move a
+2 	 4 	 (S[b]\NP)/NP 	 1 	 move prevent <XB>
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 prevent to
+6 	 4 	 (S[b]\NP)/NP 	 2 	 dislocation prevent
+6 	 5 	 NP[nb]/N 	 1 	 dislocation any
+6 	 7 	 (NP\NP)/NP 	 1 	 dislocation in
+6 	 11 	 (NP\NP)/NP 	 1 	 dislocation from
+10 	 7 	 (NP\NP)/NP 	 2 	 markets in
+10 	 8 	 NP[nb]/N 	 1 	 markets the
+10 	 9 	 N/N 	 1 	 markets financial
+14 	 11 	 (NP\NP)/NP 	 2 	 earthquake from
+14 	 12 	 NP[nb]/N 	 1 	 earthquake the
+14 	 13 	 N/N 	 1 	 earthquake California
+20 	 16 	 NP[nb]/N 	 1 	 Commission the
+20 	 17 	 N/N 	 1 	 Commission Securities
+20 	 19 	 N/N 	 1 	 Commission Exchange
+20 	 21 	 (S[dcl]\NP)/S[dcl] 	 1 	 Commission said
+21 	 0 	 (S/S)/NP 	 1 	 said In
+22 	 24 	 ((S[dcl]\NP)/PP)/NP 	 1 	 it reassigned
+24 	 21 	 (S[dcl]\NP)/S[dcl] 	 2 	 reassigned said
+24 	 23 	 (S\NP)/(S\NP) 	 2 	 reassigned temporarily
+25 	 24 	 ((S[dcl]\NP)/PP)/NP 	 3 	 options reassigned
+25 	 26 	 S[pss]\NP 	 1 	 options listed <XB>
+26 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 listed on
+31 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 Exchange on
+31 	 28 	 NP[nb]/N 	 1 	 Exchange the
+31 	 29 	 N/N 	 1 	 Exchange Pacific
+31 	 30 	 N/N 	 1 	 Exchange Stock
+32 	 24 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to reassigned
+37 	 36 	 (N/N)/(N/N) 	 2 	 York New
+39 	 36 	 (N/N)/(N/N) 	 2 	 Philadelphia New
+41 	 32 	 PP/NP 	 1 	 exchanges to
+41 	 33 	 NP[nb]/N 	 1 	 exchanges the
+41 	 34 	 N/N 	 1 	 exchanges American <XU>
+41 	 37 	 N/N 	 1 	 exchanges York <XU>
+41 	 39 	 N/N 	 1 	 exchanges Philadelphia
+41 	 40 	 N/N 	 1 	 exchanges stock
+43 	 24 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to reassigned
+48 	 43 	 PP/NP 	 1 	 Exchange to
+48 	 44 	 NP[nb]/N 	 1 	 Exchange the
+48 	 45 	 N/N 	 1 	 Exchange Chicago
+48 	 46 	 N/N 	 1 	 Exchange Board
+48 	 47 	 N/N 	 1 	 Exchange Options
+<\s>
+<s id="wsj_1852.2"> 33
+1 	 0 	 NP[nb]/N 	 1 	 decision The
+1 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 decision which
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 decision affects <XB>
+1 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 decision was
+1 	 13 	 S[pss]\NP 	 1 	 decision made <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 affects which
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 millions affects
+5 	 6 	 (NP\NP)/NP 	 1 	 millions of
+7 	 6 	 (NP\NP)/NP 	 2 	 dollars of
+7 	 8 	 (NP\NP)/NP 	 1 	 dollars of
+10 	 8 	 (NP\NP)/NP 	 2 	 positions of
+10 	 9 	 N/N 	 1 	 positions trading
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 made was
+13 	 15 	 (S\NP)\(S\NP) 	 2 	 made yesterday
+13 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 made because
+15 	 14 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 yesterday late
+19 	 17 	 NP[nb]/N 	 1 	 exchange the
+19 	 18 	 N/N 	 1 	 exchange Pacific
+19 	 20 	 (NP[nb]/N)\NP 	 2 	 exchange 's
+22 	 20 	 (NP[nb]/N)\NP 	 1 	 floor 's
+22 	 21 	 N/N 	 1 	 floor options
+22 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 floor was
+22 	 24 	 S[pss]\NP 	 1 	 floor shut <XB>
+23 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was because
+24 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 shut was
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 shut down
+24 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 shut as
+28 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 result as
+28 	 27 	 NP[nb]/N 	 1 	 result a
+28 	 29 	 (NP\NP)/NP 	 1 	 result of
+30 	 31 	 (NP[nb]/N)\NP 	 2 	 Tuesday 's
+32 	 29 	 (NP\NP)/NP 	 2 	 earthquake of
+32 	 31 	 (NP[nb]/N)\NP 	 1 	 earthquake 's
+<\s>
+<s id="wsj_1852.3"> 30
+1 	 0 	 NP[nb]/N 	 1 	 SEC The
+1 	 3 	 (S[pss]\NP)/PP 	 1 	 SEC faced <XB>
+1 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 SEC said
+4 	 3 	 (S[pss]\NP)/PP 	 2 	 with faced
+7 	 4 	 PP/NP 	 1 	 squeeze with
+7 	 5 	 NP[nb]/N 	 1 	 squeeze a
+7 	 6 	 N/N 	 1 	 squeeze major
+7 	 8 	 (NP\NP)/NP 	 1 	 squeeze on
+10 	 8 	 (NP\NP)/NP 	 2 	 positions on
+10 	 9 	 N/N 	 1 	 positions options
+13 	 14 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 1 	 it was
+14 	 12 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+15 	 14 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 3 	 necessary was
+16 	 14 	 ((S[dcl]\NP[expl])/(S[to]\NP))/(S[adj]\NP) 	 2 	 to was
+17 	 16 	 (S[to]\NP)/(S[b]\NP) 	 2 	 ensure to
+18 	 17 	 (S[b]\NP)/S[em] 	 2 	 that ensure
+19 	 20 	 S[pss]\NP 	 1 	 options listed <XB>
+19 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 options could
+19 	 26 	 S[pss]\NP 	 1 	 options traded <XB>
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 listed on
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 exchange on
+23 	 22 	 NP[nb]/N 	 1 	 exchange the
+24 	 18 	 S[em]/S[dcl] 	 1 	 could that
+25 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be could
+26 	 25 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 traded be
+26 	 27 	 (S\NP)\(S\NP) 	 2 	 traded today
+26 	 29 	 (S\NP)\(S\NP) 	 2 	 traded tomorrow <XU>
+<\s>
+<s id="wsj_1852.4"> 31
+3 	 0 	 N/N 	 1 	 Breeden SEC
+3 	 1 	 N/N 	 1 	 Breeden Chairman
+3 	 2 	 N/N 	 1 	 Breeden Richard
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Breeden said
+6 	 5 	 NP[nb]/N 	 1 	 cooperation the
+6 	 7 	 (NP\NP)/NP 	 1 	 cooperation by
+6 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 cooperation would
+6 	 11 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 cooperation enable <XB>
+6 	 25 	 (S[ng]\NP)/NP 	 1 	 cooperation guaranteeing <XB>
+9 	 7 	 (NP\NP)/NP 	 2 	 exchanges by
+9 	 8 	 NP[nb]/N 	 1 	 exchanges the
+10 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 enable would
+12 	 11 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 investors enable
+12 	 14 	 (S[b]\NP)/NP 	 1 	 investors buy <XB>
+12 	 16 	 (S[b]\NP)/NP 	 1 	 investors sell <XU>
+13 	 11 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to enable
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+16 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+17 	 14 	 (S[b]\NP)/NP 	 2 	 options buy <XU>
+17 	 16 	 (S[b]\NP)/NP 	 2 	 options sell
+17 	 18 	 S[pss]\NP 	 1 	 options listed <XB>
+18 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 listed on
+20 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 on solely
+23 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 exchange on
+23 	 21 	 NP[nb]/N 	 1 	 exchange the
+23 	 22 	 N/N 	 1 	 exchange Pacific
+27 	 25 	 (S[ng]\NP)/NP 	 2 	 liquidity guaranteeing
+27 	 26 	 NP[nb]/N 	 1 	 liquidity the
+27 	 28 	 (NP\NP)/NP 	 1 	 liquidity of
+30 	 28 	 (NP\NP)/NP 	 2 	 market of
+30 	 29 	 NP[nb]/N 	 1 	 market the
+<\s>
+<s id="wsj_1852.5"> 46
+0 	 1 	 (NP\NP)/NP 	 1 	 Officials at
+0 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 Officials said
+4 	 1 	 (NP\NP)/NP 	 2 	 exchanges at
+4 	 2 	 NP[nb]/N 	 1 	 exchanges the
+4 	 3 	 N/N 	 1 	 exchanges four
+7 	 6 	 ((N/N)/(N/N))/((N/N)/(N/N)) 	 3 	 over well
+8 	 7 	 (N/N)/(N/N) 	 2 	 50 over
+9 	 8 	 N/N 	 1 	 traders 50
+9 	 10 	 (NP\NP)/NP 	 1 	 traders from
+9 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 traders were
+9 	 15 	 (S[ng]\NP)/NP 	 1 	 traders taking <XB>
+13 	 10 	 (NP\NP)/NP 	 2 	 exchange from
+13 	 11 	 NP[nb]/N 	 1 	 exchange the
+13 	 12 	 N/N 	 1 	 exchange Pacific
+14 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+15 	 14 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 taking were
+15 	 21 	 (S\NP)\(S\NP) 	 2 	 taking yesterday
+15 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 taking to
+15 	 32 	 ((S\NP)\(S\NP))/NP 	 2 	 taking to <XU>
+16 	 15 	 (S[ng]\NP)/NP 	 2 	 flights taking
+16 	 17 	 (NP\NP)/NP 	 1 	 flights from
+19 	 17 	 (NP\NP)/NP 	 2 	 Francisco from
+19 	 18 	 N/N 	 1 	 Francisco San
+21 	 20 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 yesterday late
+27 	 26 	 (N/N)/(N/N) 	 2 	 York New
+29 	 26 	 (N/N)/(N/N) 	 2 	 Philadelphia New
+30 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 exchanges to
+30 	 23 	 NP[nb]/N 	 1 	 exchanges the
+30 	 24 	 N/N 	 1 	 exchanges American <XU>
+30 	 27 	 N/N 	 1 	 exchanges York <XU>
+30 	 29 	 N/N 	 1 	 exchanges Philadelphia
+34 	 32 	 ((S\NP)\(S\NP))/NP 	 3 	 CBOE to
+34 	 33 	 NP[nb]/N 	 1 	 CBOE the
+34 	 36 	 (NP\NP)/S[dcl] 	 1 	 CBOE where
+37 	 38 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they would
+37 	 39 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 they continue <XB>
+37 	 40 	 (S[ng]\NP)/NP 	 1 	 they making <XB>
+38 	 36 	 (NP\NP)/S[dcl] 	 2 	 would where
+39 	 38 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 continue would
+40 	 39 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 making continue
+41 	 40 	 (S[ng]\NP)/NP 	 2 	 markets making
+41 	 42 	 (NP\NP)/NP 	 1 	 markets in
+45 	 42 	 (NP\NP)/NP 	 2 	 options in
+45 	 43 	 NP[nb]/N 	 1 	 options the
+45 	 44 	 N/N 	 1 	 options Pacific-listed
+<\s>
+<s id="wsj_1852.6"> 19
+2 	 0 	 NP[nb]/N 	 1 	 Board The
+2 	 1 	 N/N 	 1 	 Board Big
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Board said
+4 	 6 	 (S[dcl]\NP)/NP 	 1 	 carpenters erected
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 erected said
+6 	 5 	 (S\NP)/(S\NP) 	 2 	 erected quickly
+10 	 6 	 (S[dcl]\NP)/NP 	 2 	 floor erected
+10 	 7 	 NP[nb]/N 	 1 	 floor a
+10 	 8 	 N/N 	 1 	 floor new
+10 	 9 	 N/N 	 1 	 floor options
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 accomodate to
+14 	 12 	 (S[b]\NP)/NP 	 2 	 traders accomodate
+14 	 13 	 N/N 	 1 	 traders 40
+14 	 15 	 (NP\NP)/NP 	 1 	 traders from
+18 	 15 	 (NP\NP)/NP 	 2 	 exchange from
+18 	 16 	 NP[nb]/N 	 1 	 exchange the
+18 	 17 	 N/N 	 1 	 exchange Pacific
+<\s>
+<s id="wsj_1852.7"> 22
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+3 	 4 	 (NP\NP)/NP 	 1 	 specialists on
+3 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 specialists agreed
+3 	 9 	 (S[b]\NP)/NP 	 1 	 specialists provide <XB>
+6 	 4 	 (NP\NP)/NP 	 2 	 exchanges on
+6 	 5 	 NP[nb]/N 	 1 	 exchanges the
+7 	 0 	 (S/S)/NP 	 1 	 agreed In
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 provide to
+11 	 9 	 (S[b]\NP)/NP 	 2 	 capital provide
+11 	 10 	 N/N 	 1 	 capital backup
+11 	 12 	 (NP\NP)/NP 	 1 	 capital for
+13 	 12 	 (NP\NP)/NP 	 2 	 market-making for
+13 	 14 	 (NP\NP)/NP 	 1 	 market-making in
+17 	 14 	 (NP\NP)/NP 	 2 	 options in
+17 	 15 	 N/N 	 1 	 options Pacific
+17 	 16 	 N/N 	 1 	 options exchange
+17 	 18 	 S[pss]\NP 	 1 	 options traded <XB>
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 traded on
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 exchanges on
+21 	 20 	 NP[nb]/N 	 1 	 exchanges the
+<\s>
+<s id="wsj_1852.8"> 35
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Trading was
+0 	 2 	 S[adj]\NP 	 1 	 Trading light <XB>
+1 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 was on
+1 	 8 	 (S\NP)\(S\NP) 	 2 	 was yesterday
+1 	 10 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 2 	 was with
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 light was
+7 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Exchange on
+7 	 4 	 NP[nb]/N 	 1 	 Exchange the
+7 	 5 	 N/N 	 1 	 Exchange Pacific
+7 	 6 	 N/N 	 1 	 Exchange Stock
+11 	 10 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 4 	 workers with
+11 	 12 	 (NP\NP)/NP 	 1 	 workers at
+11 	 21 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 workers struggling <XB>
+11 	 23 	 (S[b]\NP)/NP 	 1 	 workers execute <XB>
+14 	 13 	 NP[nb]/N 	 1 	 exchange the
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 exchange 's
+17 	 12 	 (NP\NP)/NP 	 2 	 floor at
+17 	 15 	 (NP[nb]/N)\NP 	 1 	 floor 's
+17 	 16 	 N/N 	 1 	 floor main
+17 	 18 	 (NP\NP)/NP 	 1 	 floor in
+20 	 18 	 (NP\NP)/NP 	 2 	 Francisco in
+20 	 19 	 N/N 	 1 	 Francisco San
+21 	 10 	 (((S\NP)\(S\NP))/(S[ng]\NP))/NP 	 3 	 struggling with
+22 	 21 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to struggling
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 execute to
+23 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 execute by
+23 	 27 	 ((S\NP)\(S\NP))/NP 	 2 	 execute as
+24 	 23 	 (S[b]\NP)/NP 	 2 	 orders execute
+26 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 flashlight by
+29 	 27 	 ((S\NP)\(S\NP))/NP 	 3 	 result as
+29 	 28 	 NP[nb]/N 	 1 	 result a
+29 	 30 	 (NP\NP)/NP 	 1 	 result of
+34 	 30 	 (NP\NP)/NP 	 2 	 outage of
+34 	 31 	 NP[nb]/N 	 1 	 outage a
+34 	 32 	 N/N 	 1 	 outage continuing
+34 	 33 	 N/N 	 1 	 outage power
+<\s>
+<s id="wsj_1852.9"> 10
+2 	 1 	 (N/N)/(N/N) 	 2 	 pressing most
+3 	 0 	 NP[nb]/N 	 1 	 problem The
+3 	 2 	 N/N 	 1 	 problem pressing
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 problem was
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 suspension was
+6 	 5 	 NP[nb]/N 	 1 	 suspension the
+6 	 7 	 (NP\NP)/NP 	 1 	 suspension of
+9 	 7 	 (NP\NP)/NP 	 2 	 trading of
+9 	 8 	 N/N 	 1 	 trading options
+<\s>
+<s id="wsj_1852.10"> 25
+2 	 0 	 NP[nb]/N 	 1 	 exchange The
+2 	 1 	 N/N 	 1 	 exchange Pacific
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 exchange has
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 options has
+4 	 5 	 (NP\NP)/NP 	 1 	 options for
+9 	 5 	 (NP\NP)/NP 	 2 	 issues for
+9 	 6 	 N/N 	 1 	 issues 129
+9 	 7 	 N/N 	 1 	 issues underlying
+9 	 8 	 N/N 	 1 	 issues stock
+9 	 11 	 (NP\NP)/NP 	 1 	 issues including
+13 	 12 	 (N/N)/(N/N) 	 2 	 active highly
+16 	 11 	 (NP\NP)/NP 	 2 	 Corp. including
+16 	 13 	 N/N 	 1 	 Corp. active
+16 	 14 	 N/N 	 1 	 Corp. Hilton
+16 	 15 	 N/N 	 1 	 Corp. Hotels
+16 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Corp. which
+16 	 19 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Corp. is <XB>
+16 	 20 	 S[pss]\NP 	 1 	 Corp. listed <XB>
+19 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+20 	 19 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 listed is
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 listed on
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 Board on
+24 	 22 	 NP[nb]/N 	 1 	 Board the
+24 	 23 	 N/N 	 1 	 Board Big
+<\s>
+<s id="wsj_1852.11"> 14
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Investors were
+0 	 2 	 (S[adj]\NP)/S[em] 	 1 	 Investors concerned <XB>
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 concerned were
+3 	 2 	 (S[adj]\NP)/S[em] 	 2 	 that concerned
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they might
+4 	 7 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 they unable <XB>
+5 	 3 	 S[em]/S[dcl] 	 1 	 might that
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be might
+7 	 6 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 unable be
+8 	 7 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to unable
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 exercise to
+10 	 9 	 (S[b]\NP)/NP 	 2 	 options exercise
+10 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 options that
+10 	 12 	 S[dcl]\NP 	 1 	 options expire <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 expire that
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 expire tomorrow
+<\s>
+<s id="wsj_1852.12"> 25
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 professionals said
+2 	 0 	 S/S 	 1 	 said But
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 said throughout
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 day throughout
+5 	 4 	 NP[nb]/N 	 1 	 day the
+6 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that said
+8 	 7 	 NP[nb]/N 	 1 	 shutdown the
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 shutdown would
+8 	 11 	 (S[b]\NP)/NP 	 1 	 shutdown be <XB>
+9 	 6 	 S[em]/S[dcl] 	 1 	 would that
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 would n't
+11 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+11 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 be if
+13 	 11 	 (S[b]\NP)/NP 	 2 	 cause be
+13 	 12 	 NP[nb]/N 	 1 	 cause a
+13 	 14 	 (NP\NP)/NP 	 1 	 cause for
+15 	 14 	 (NP\NP)/NP 	 2 	 alarm for
+17 	 16 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 if even
+18 	 19 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it were
+18 	 21 	 S[b]\NP 	 1 	 it persist <XB>
+19 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 were if
+20 	 19 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to were
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 persist to
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 persist for
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 days for
+24 	 23 	 N/N 	 1 	 days several
+<\s>
+<s id="wsj_1852.13"> 41
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 I 've
+0 	 2 	 ((S[pt]\NP)/S[em])/NP 	 1 	 I told <XB>
+1 	 28 	 (S[dcl]\S[dcl])/NP 	 1 	 've said
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 told 've
+4 	 2 	 ((S[pt]\NP)/S[em])/NP 	 3 	 staff told
+4 	 3 	 NP[nb]/N 	 1 	 staff my
+6 	 2 	 ((S[pt]\NP)/S[em])/NP 	 3 	 clients told
+6 	 3 	 NP[nb]/N 	 1 	 clients my
+7 	 2 	 ((S[pt]\NP)/S[em])/NP 	 2 	 that told
+8 	 10 	 (S[dcl]\NP)/NP 	 1 	 they have
+10 	 7 	 S[em]/S[dcl] 	 1 	 have that
+10 	 9 	 (S\NP)/(S\NP) 	 2 	 have still
+10 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 have because
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 ability have
+12 	 11 	 NP[nb]/N 	 1 	 ability the
+12 	 14 	 (S[b]\NP)/NP 	 1 	 ability exercise <XB>
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 exercise to
+16 	 14 	 (S[b]\NP)/NP 	 2 	 options exercise
+16 	 15 	 NP[nb]/N 	 1 	 options their
+19 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 they are
+19 	 21 	 S[pss]\NP 	 1 	 they guaranteed <XB>
+20 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are because
+21 	 20 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 guaranteed are
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 guaranteed by
+26 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 Corp. by
+26 	 23 	 NP[nb]/N 	 1 	 Corp. the
+26 	 24 	 N/N 	 1 	 Corp. Options
+26 	 25 	 N/N 	 1 	 Corp. Clearing
+30 	 28 	 (S[dcl]\S[dcl])/NP 	 2 	 Schwartz said
+30 	 29 	 N/N 	 1 	 Schwartz Michael
+36 	 28 	 (S[dcl]\S[dcl])/NP 	 2 	 strategist said
+36 	 32 	 NP[nb]/N 	 1 	 strategist a
+36 	 33 	 N/N 	 1 	 strategist senior
+36 	 34 	 N/N 	 1 	 strategist registered
+36 	 35 	 N/N 	 1 	 strategist options
+36 	 37 	 (NP\NP)/NP 	 1 	 strategist at
+40 	 37 	 (NP\NP)/NP 	 2 	 Co at
+40 	 38 	 N/N 	 1 	 Co Oppenheimer
+40 	 39 	 N/N 	 1 	 Co &
+<\s>
+<s id="wsj_1852.14"> 21
+1 	 0 	 NP[nb]/N 	 1 	 SEC The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 SEC reassigned
+1 	 11 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 SEC allow <XB>
+2 	 8 	 (S\NP)\(S\NP) 	 2 	 reassigned however
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 trading reassigned
+3 	 4 	 (NP\NP)/NP 	 1 	 trading in
+6 	 4 	 (NP\NP)/NP 	 2 	 options in
+6 	 5 	 NP[nb]/N 	 1 	 options the
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 allow to
+12 	 11 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 investors allow
+12 	 14 	 (S[b]\NP)/NP 	 1 	 investors do <XB>
+13 	 11 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+15 	 14 	 (S[b]\NP)/NP 	 2 	 more do
+15 	 16 	 (NP\NP)/(S[b]\NP) 	 1 	 more than
+15 	 18 	 (S[b]\NP)/NP 	 1 	 more exercise <XB>
+18 	 16 	 (NP\NP)/(S[b]\NP) 	 2 	 exercise than
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 exercise simply
+20 	 18 	 (S[b]\NP)/NP 	 2 	 options exercise
+20 	 19 	 NP[nb]/N 	 1 	 options the
+<\s>
+<s id="wsj_1852.15"> 25
+2 	 1 	 NP[nb]/N 	 1 	 exchange the
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 exchange 's
+5 	 3 	 (NP[nb]/N)\NP 	 1 	 floor 's
+5 	 4 	 N/N 	 1 	 floor equities
+5 	 6 	 (NP\NP)/NP 	 1 	 floor in
+5 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 floor remained
+5 	 10 	 S[adj]\NP 	 1 	 floor open <XB>
+8 	 6 	 (NP\NP)/NP 	 2 	 Francisco in
+8 	 7 	 N/N 	 1 	 Francisco San
+9 	 0 	 (S/S)/S[dcl] 	 2 	 remained While
+9 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 remained on
+10 	 9 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 open remained
+14 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 basis on
+14 	 12 	 NP[nb]/N 	 1 	 basis a
+14 	 13 	 N/N 	 1 	 basis limited
+16 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 orders were
+16 	 18 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 orders being <XB>
+16 	 19 	 S[pss]\NP 	 1 	 orders routed <XB>
+16 	 21 	 S[pss]\NP 	 1 	 orders executed <XU>
+17 	 0 	 (S/S)/S[dcl] 	 1 	 were While
+18 	 17 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being were
+19 	 18 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 routed being
+19 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 routed in
+21 	 18 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 executed being
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 executed in
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 Angeles in
+24 	 23 	 N/N 	 1 	 Angeles Los
+<\s>
+<s id="wsj_1852.16"> 12
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Workers could
+0 	 2 	 S[b]\NP 	 1 	 Workers dial <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 dial could
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 dial out
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they could
+6 	 9 	 (S[b]\NP)/NP 	 1 	 they receive <XB>
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 could n't
+9 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 receive could
+11 	 9 	 (S[b]\NP)/NP 	 2 	 calls receive
+11 	 10 	 N/N 	 1 	 calls telephone
+<\s>
+<s id="wsj_1852.17"> 32
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 It 's
+1 	 7 	 (S\NP)\(S\NP) 	 2 	 's now
+1 	 9 	 (S[dcl]\S[dcl])/NP 	 1 	 's said
+4 	 3 	 (N/N)/(N/N) 	 2 	 uncertain very
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 situation 's
+5 	 2 	 NP[nb]/N 	 1 	 situation a
+5 	 4 	 N/N 	 1 	 situation uncertain
+7 	 6 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 now right
+11 	 9 	 (S[dcl]\S[dcl])/NP 	 2 	 Vyas said
+11 	 10 	 N/N 	 1 	 Vyas Navin
+14 	 9 	 (S[dcl]\S[dcl])/NP 	 2 	 assistant said
+14 	 13 	 N/N 	 1 	 assistant administrative
+14 	 15 	 (NP\NP)/NP 	 1 	 assistant of
+18 	 15 	 (NP\NP)/NP 	 2 	 operations of
+18 	 16 	 N/N 	 1 	 operations trading
+18 	 17 	 N/N 	 1 	 operations floor
+18 	 19 	 (NP\NP)/NP 	 1 	 operations of
+21 	 19 	 (NP\NP)/NP 	 2 	 exchange of
+21 	 20 	 NP[nb]/N 	 1 	 exchange the
+21 	 23 	 (NP\NP)/(S[dcl]\NP) 	 1 	 exchange which
+21 	 24 	 (S[dcl]\NP)/NP 	 1 	 exchange has <XB>
+24 	 23 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+26 	 24 	 (S[dcl]\NP)/NP 	 2 	 volume has
+26 	 25 	 N/N 	 1 	 volume daily
+26 	 27 	 (NP\NP)/NP 	 1 	 volume of
+30 	 28 	 (N/N)/(N/N) 	 2 	 million about
+30 	 29 	 (N/N)/(N/N) 	 2 	 million 10
+31 	 27 	 (NP\NP)/NP 	 2 	 shares of
+31 	 30 	 N/N 	 1 	 shares million
+<\s>
+<s id="wsj_1852.18"> 25
+2 	 1 	 NP[nb]/N 	 1 	 exchange the
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 exchange 's
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 computer 's
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 computer was
+4 	 6 	 (S[ng]\NP)/NP 	 1 	 computer rerouting <XB>
+5 	 0 	 (S/S)/S[dcl] 	 2 	 was Because
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 rerouting was
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rerouting to
+7 	 6 	 (S[ng]\NP)/NP 	 2 	 orders rerouting
+10 	 9 	 NP[nb]/N 	 1 	 exchange the
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 exchange 's
+13 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 operations to
+13 	 11 	 (NP[nb]/N)\NP 	 1 	 operations 's
+13 	 12 	 N/N 	 1 	 operations trading
+13 	 14 	 (NP\NP)/NP 	 1 	 operations in
+16 	 14 	 (NP\NP)/NP 	 2 	 Angeles in
+16 	 15 	 N/N 	 1 	 Angeles Los
+18 	 19 	 (S[dcl]\NP)/PP 	 1 	 business is
+19 	 0 	 (S/S)/S[dcl] 	 1 	 is Because
+19 	 24 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+20 	 19 	 (S[dcl]\NP)/PP 	 2 	 as is
+21 	 20 	 PP/(S[adj]\NP) 	 1 	 usual as
+23 	 22 	 N/N 	 1 	 Vyas Mr.
+23 	 24 	 (S[dcl]\S[dcl])\NP 	 2 	 Vyas said
+<\s>
+<s id="wsj_1852.19"> 11
+2 	 1 	 N/N 	 1 	 city one
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 city is
+2 	 4 	 S[adj]\NP 	 1 	 city down <XB>
+3 	 0 	 (S/S)/S[dcl] 	 2 	 is If
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 down is
+7 	 6 	 NP[nb]/N 	 1 	 other the
+7 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 other can
+7 	 9 	 S[b]\NP 	 1 	 other take <XB>
+8 	 0 	 (S/S)/S[dcl] 	 1 	 can If
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take can
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 take over
+<\s>
+<s id="wsj_1852.20"> 12
+4 	 2 	 NP[nb]/N 	 1 	 firms the
+4 	 3 	 N/N 	 1 	 firms brokerage
+4 	 5 	 (NP\NP)/NP 	 1 	 firms in
+4 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 firms were
+4 	 9 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 firms trying <XB>
+4 	 11 	 S[b]\NP 	 1 	 firms cope <XB>
+7 	 5 	 (NP\NP)/NP 	 2 	 Francisco in
+7 	 6 	 N/N 	 1 	 Francisco San
+8 	 0 	 S/S 	 1 	 were Meanwhile
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 trying were
+10 	 9 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to trying
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cope to
+<\s>
+<s id="wsj_1852.21"> 64
+1 	 0 	 N/N 	 1 	 Daggs Charles
+1 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 Daggs said
+3 	 8 	 (NP\NP)/NP 	 1 	 chairman of
+3 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 chairman said
+7 	 5 	 N/N 	 1 	 officer chief
+7 	 6 	 N/N 	 1 	 officer executive
+7 	 8 	 (NP\NP)/NP 	 1 	 officer of
+7 	 13 	 (S[dcl]\NP)/S[dcl] 	 1 	 officer said
+11 	 8 	 (NP\NP)/NP 	 2 	 Co. of
+11 	 9 	 N/N 	 1 	 Co. Sutro
+11 	 10 	 N/N 	 1 	 Co. &
+14 	 15 	 S[dcl]\NP 	 1 	 traders came
+14 	 35 	 (S[dcl]\NP)/S[em] 	 1 	 traders learned <XU>
+15 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 came said
+15 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 came to
+15 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 came at
+15 	 22 	 ((S\NP)\(S\NP))/S 	 2 	 came --
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 work to
+21 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 PDT at
+21 	 19 	 N/N 	 1 	 PDT 5
+21 	 20 	 N/N 	 1 	 PDT a.m.
+23 	 24 	 (S\NP)/NP 	 1 	 many on
+24 	 22 	 ((S\NP)\(S\NP))/S 	 3 	 on --
+24 	 26 	 ((S\NP)\(S\NP))/PP 	 2 	 on because
+25 	 24 	 (S\NP)/NP 	 2 	 foot on
+27 	 26 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+32 	 27 	 PP/NP 	 1 	 conditions of
+32 	 28 	 N/N 	 1 	 conditions uncertain
+32 	 29 	 N/N 	 1 	 conditions road
+32 	 31 	 N/N 	 1 	 conditions traffic
+35 	 13 	 (S[dcl]\NP)/S[dcl] 	 2 	 learned said
+36 	 35 	 (S[dcl]\NP)/S[em] 	 2 	 that learned
+37 	 38 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they would
+37 	 41 	 (S[b]\NP)/NP 	 1 	 they await <XB>
+38 	 36 	 S[em]/S[dcl] 	 1 	 would that
+39 	 38 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+39 	 48 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 2 	 have in
+40 	 39 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+41 	 40 	 (S[to]\NP)/(S[b]\NP) 	 2 	 await to
+44 	 41 	 (S[b]\NP)/NP 	 2 	 inspection await
+44 	 42 	 NP[nb]/N 	 1 	 inspection a
+44 	 43 	 N/N 	 1 	 inspection required
+44 	 45 	 (NP\NP)/NP 	 1 	 inspection by
+47 	 45 	 (NP\NP)/NP 	 2 	 city by
+47 	 46 	 NP[nb]/N 	 1 	 city the
+49 	 48 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 4 	 order in
+50 	 48 	 (((S\NP)\(S\NP))/(S[to]\NP))/N 	 3 	 to in
+51 	 50 	 (S[to]\NP)/(S[b]\NP) 	 2 	 turn to
+51 	 55 	 (S\NP)\(S\NP) 	 2 	 turn on
+51 	 56 	 ((S\NP)\(S\NP))/NP 	 2 	 turn at
+53 	 51 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 power turn
+53 	 52 	 NP[nb]/N 	 1 	 power the
+53 	 54 	 S[adj]\NP 	 1 	 power back <XB>
+54 	 51 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 back turn
+58 	 57 	 NP[nb]/N 	 1 	 company the
+58 	 59 	 (NP[nb]/N)\NP 	 2 	 company 's
+62 	 56 	 ((S\NP)\(S\NP))/NP 	 3 	 facilities at
+62 	 59 	 (NP[nb]/N)\NP 	 1 	 facilities 's
+62 	 60 	 N/N 	 1 	 facilities two
+62 	 61 	 N/N 	 1 	 facilities main
+62 	 63 	 N\N 	 1 	 facilities there
+<\s>
+<s id="wsj_1852.22"> 8
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 That should
+0 	 2 	 S[b]\NP 	 1 	 That happen <XB>
+1 	 7 	 (S[dcl]\S[dcl])\NP 	 1 	 should said
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 happen should
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 happen by
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 today by
+6 	 7 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_1852.23"> 24
+0 	 1 	 S[dcl]\NP 	 1 	 Traders worked
+1 	 2 	 ((S\NP)\(S\NP))/NP 	 2 	 worked with
+1 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 worked despite
+4 	 2 	 ((S\NP)\(S\NP))/NP 	 3 	 help with
+4 	 3 	 NP[nb]/N 	 1 	 help the
+4 	 5 	 (NP\NP)/NP 	 1 	 help of
+6 	 5 	 (NP\NP)/NP 	 2 	 sunlight of
+6 	 7 	 S[ng]\NP 	 1 	 sunlight streaming <XB>
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 streaming through
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 windows through
+13 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 cracks despite
+13 	 12 	 N/N 	 1 	 cracks large
+13 	 14 	 (NP\NP)/NP 	 1 	 cracks in
+16 	 14 	 (NP\NP)/NP 	 2 	 walls in
+16 	 15 	 NP[nb]/N 	 1 	 walls the
+19 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 lack despite
+19 	 18 	 NP[nb]/N 	 1 	 lack a
+19 	 20 	 (NP\NP)/NP 	 1 	 lack of
+23 	 20 	 (NP\NP)/NP 	 2 	 calls of
+23 	 21 	 N/N 	 1 	 calls incoming
+23 	 22 	 N/N 	 1 	 calls phone
+<\s>
+<s id="wsj_1852.24"> 9
+2 	 3 	 (NP\NP)/NP 	 1 	 most of
+2 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 most was
+2 	 8 	 S[adj]\NP 	 1 	 most out <XB>
+6 	 3 	 (NP\NP)/NP 	 2 	 equipment of
+6 	 4 	 NP[nb]/N 	 1 	 equipment the
+6 	 5 	 N/N 	 1 	 equipment telecommunications
+7 	 0 	 S/S 	 1 	 was Also
+8 	 7 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 out was
+<\s>
+<s id="wsj_1852.25"> 36
+1 	 0 	 NP[nb]/N 	 1 	 traders The
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 traders were
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 traders executing <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 executing were
+3 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 executing through
+11 	 3 	 (S[ng]\NP)/NP 	 2 	 orders executing
+11 	 4 	 N/N 	 1 	 orders municipal <XU>
+11 	 5 	 N/N 	 1 	 orders bond <XU>
+11 	 7 	 N/N 	 1 	 orders mutual <XU>
+11 	 8 	 N/N 	 1 	 orders fund <XU>
+11 	 10 	 N/N 	 1 	 orders other
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 firm through
+15 	 13 	 NP[nb]/N 	 1 	 firm a
+15 	 14 	 N/N 	 1 	 firm sister
+15 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 firm which
+15 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 firm is <XB>
+15 	 24 	 S[pss]\NP 	 1 	 firm owned <XB>
+15 	 31 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 firm is <XU>
+15 	 32 	 S[pss]\NP 	 1 	 firm based <XU>
+19 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 Inc. through
+19 	 17 	 N/N 	 1 	 Inc. Tucker
+19 	 18 	 N/N 	 1 	 Inc. Anthony
+19 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Inc. which
+19 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Inc. is <XB>
+19 	 24 	 S[pss]\NP 	 1 	 Inc. owned <XB>
+19 	 31 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Inc. is <XU>
+19 	 32 	 S[pss]\NP 	 1 	 Inc. based <XU>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 is also
+24 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 owned is
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 owned by
+29 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 Securities by
+29 	 26 	 N/N 	 1 	 Securities John
+29 	 27 	 N/N 	 1 	 Securities Hancock
+29 	 28 	 N/N 	 1 	 Securities Freedom
+31 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+32 	 31 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 based is
+32 	 33 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+35 	 33 	 ((S\NP)\(S\NP))/NP 	 3 	 York in
+35 	 34 	 N/N 	 1 	 York New
+<\s>
+<s id="wsj_1852.26"> 6
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 We are
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 We having <XB>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 having are
+5 	 2 	 (S[ng]\NP)/NP 	 2 	 day having
+5 	 3 	 NP[nb]/N 	 1 	 day a
+5 	 4 	 N/N 	 1 	 day regular
+<\s>
+<s id="wsj_1852.27"> 20
+0 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 Volume is
+0 	 2 	 S[adj]\NP 	 1 	 Volume down <XB>
+1 	 3 	 ((S\NP)\(S\NP))/PP 	 2 	 is out
+1 	 10 	 ((S\NP)\(S\NP))/PP 	 2 	 is out <XU>
+1 	 19 	 (S[dcl]\S[dcl])\NP 	 1 	 is added
+2 	 1 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 down is
+4 	 3 	 ((S\NP)\(S\NP))/PP 	 3 	 of out
+6 	 4 	 PP/NP 	 1 	 Francisco of
+6 	 5 	 N/N 	 1 	 Francisco San
+10 	 9 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 out not
+11 	 10 	 ((S\NP)\(S\NP))/PP 	 3 	 of out
+15 	 11 	 PP/NP 	 1 	 offices of
+15 	 12 	 NP[nb]/N 	 1 	 offices the
+15 	 13 	 N/N 	 1 	 offices 11
+15 	 14 	 N/N 	 1 	 offices outlying
+18 	 17 	 N/N 	 1 	 Daggs Mr.
+18 	 19 	 (S[dcl]\S[dcl])\NP 	 2 	 Daggs added
+<\s>
+<s id="wsj_1852.28"> 18
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Sutro 's
+3 	 1 	 (NP[nb]/N)\NP 	 1 	 office 's
+3 	 2 	 N/N 	 1 	 office Oakland
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 office executed
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 executed through
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 orders executed
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 office through
+9 	 7 	 NP[nb]/N 	 1 	 office the
+9 	 8 	 N/N 	 1 	 office Sacramento
+9 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 office which
+9 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 office was <XB>
+9 	 14 	 S[pss]\NP 	 1 	 office affected <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was which
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 was n't
+14 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 affected was
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 affected by
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 quake by
+17 	 16 	 NP[nb]/N 	 1 	 quake the
+<\s>
+<s id="wsj_1852.29"> 33
+0 	 2 	 (NP\NP)/NP 	 1 	 Others like
+0 	 17 	 (S[dcl]\NP)/NP 	 1 	 Others set
+5 	 2 	 (NP\NP)/NP 	 2 	 Inc. like
+5 	 3 	 N/N 	 1 	 Inc. Prudential-Bache
+5 	 4 	 N/N 	 1 	 Inc. Securities
+5 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Inc. which
+5 	 8 	 (S[dcl]\NP)/NP 	 1 	 Inc. has <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+8 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 has in
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 offices has
+10 	 9 	 N/N 	 1 	 offices eight
+15 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 area in
+15 	 12 	 NP[nb]/N 	 1 	 area the
+15 	 13 	 N/N 	 1 	 area San
+15 	 14 	 N/N 	 1 	 area Francisco
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 set up
+17 	 23 	 (S\NP)\(S\NP) 	 2 	 set morning
+17 	 24 	 (((S\NP)\(S\NP))/(S[to]\NP))/NP 	 2 	 set for
+21 	 17 	 (S[dcl]\NP)/NP 	 2 	 number set
+21 	 19 	 NP[nb]/N 	 1 	 number an
+21 	 20 	 N/N 	 1 	 number 800
+23 	 22 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 morning yesterday
+25 	 24 	 (((S\NP)\(S\NP))/(S[to]\NP))/NP 	 4 	 customers for
+25 	 27 	 (S[b]\NP)/NP 	 1 	 customers obtain <XB>
+26 	 24 	 (((S\NP)\(S\NP))/(S[to]\NP))/NP 	 3 	 to for
+27 	 26 	 (S[to]\NP)/(S[b]\NP) 	 2 	 obtain to
+29 	 27 	 (S[b]\NP)/NP 	 2 	 commentary obtain
+29 	 28 	 N/N 	 1 	 commentary market
+32 	 27 	 (S[b]\NP)/NP 	 2 	 help obtain
+32 	 31 	 N/N 	 1 	 help other
+<\s>
+<s id="wsj_1852.30"> 28
+5 	 1 	 N/N 	 1 	 Co. Kidder
+5 	 3 	 N/N 	 1 	 Co. Peabody
+5 	 4 	 N/N 	 1 	 Co. &
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 Co. 's
+8 	 0 	 (S/S)/NP 	 2 	 branch At
+8 	 6 	 (NP[nb]/N)\NP 	 1 	 branch 's
+8 	 7 	 N/N 	 1 	 branch Sacramento
+12 	 10 	 N/N 	 1 	 White Manager
+12 	 11 	 N/N 	 1 	 White Janet
+12 	 13 	 ((S[dcl]\NP)/PP)/NP 	 1 	 White received
+13 	 0 	 (S/S)/NP 	 1 	 received At
+13 	 16 	 (S\NP)\(S\NP) 	 2 	 received morning
+14 	 13 	 ((S[dcl]\NP)/PP)/NP 	 3 	 calls received
+16 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 morning yesterday
+17 	 13 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from received
+18 	 17 	 PP/NP 	 1 	 workers from
+18 	 19 	 (NP\NP)/NP 	 1 	 workers in
+18 	 22 	 (NP\NP)/(S[dcl]\NP) 	 1 	 workers who
+18 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 workers offered <XB>
+18 	 25 	 S[b]\NP 	 1 	 workers work <XB>
+21 	 19 	 (NP\NP)/NP 	 2 	 Francisco in
+21 	 20 	 N/N 	 1 	 Francisco San
+23 	 22 	 (NP\NP)/(S[dcl]\NP) 	 2 	 offered who
+24 	 23 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to offered
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 work to
+25 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 work in
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 Sacramento in
+<\s>
+<s id="wsj_1852.31"> 27
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 she discovered
+2 	 0 	 S/S 	 1 	 discovered Then
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that discovered
+6 	 4 	 N/N 	 1 	 Inc. Quotron
+6 	 5 	 N/N 	 1 	 Inc. Systems
+6 	 7 	 (NP[nb]/N)\NP 	 2 	 Inc. 's
+9 	 7 	 (NP[nb]/N)\NP 	 1 	 lines 's
+9 	 8 	 N/N 	 1 	 lines Sacramento
+9 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 lines were
+9 	 11 	 S[adj]\NP 	 1 	 lines down <XB>
+10 	 3 	 S[em]/S[dcl] 	 1 	 were that
+10 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 were because
+11 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 down were
+14 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 they are
+14 	 17 	 S[pss]\NP 	 1 	 they tied <XB>
+15 	 13 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are because
+15 	 16 	 (S\NP)\(S\NP) 	 2 	 are normally
+17 	 15 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 tied are
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 tied in
+17 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 tied through
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 system through
+21 	 20 	 NP[nb]/N 	 1 	 system a
+21 	 22 	 (NP\NP)/(S[dcl]\NP) 	 1 	 system that
+21 	 23 	 S[dcl]\NP 	 1 	 system goes <XB>
+23 	 22 	 (NP\NP)/(S[dcl]\NP) 	 2 	 goes that
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 goes through
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 Francisco through
+26 	 25 	 N/N 	 1 	 Francisco San
+<\s>
+<s id="wsj_1852.32"> 15
+3 	 1 	 NP[nb]/N 	 1 	 brokers the
+3 	 2 	 N/N 	 1 	 brokers Kidder
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 brokers had
+3 	 6 	 (S[b]\NP)/NP 	 1 	 brokers call <XB>
+3 	 11 	 (S[b]\NP)/NP 	 1 	 brokers get <XB>
+4 	 0 	 S/S 	 1 	 had So
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to had
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 call to
+9 	 6 	 (S[b]\NP)/NP 	 2 	 offices call
+9 	 7 	 N/N 	 1 	 offices other
+9 	 8 	 N/N 	 1 	 offices company
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+12 	 11 	 (S[b]\NP)/NP 	 2 	 quotes get
+12 	 13 	 (NP\NP)/NP 	 1 	 quotes on
+14 	 13 	 (NP\NP)/NP 	 2 	 stocks on
+<\s>
+<s id="wsj_1852.33"> 43
+1 	 0 	 (S/S)/NP 	 2 	 Quotron At
+4 	 3 	 NP[nb]/N 	 1 	 company the
+4 	 5 	 (NP[nb]/N)\NP 	 2 	 company 's
+8 	 5 	 (NP[nb]/N)\NP 	 1 	 Center 's
+8 	 6 	 N/N 	 1 	 Center National
+8 	 7 	 N/N 	 1 	 Center Call-In
+8 	 10 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Center which
+8 	 11 	 (S[dcl]\NP)/PP 	 1 	 Center swung <XB>
+8 	 24 	 (S[dcl]\NP)/NP 	 1 	 Center assembled
+8 	 33 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 Center begin <XB>
+8 	 34 	 (S[ng]\NP)/NP 	 1 	 Center rerouting <XB>
+8 	 37 	 ((S[b]\NP)/PP)/NP 	 1 	 Center restore <XU>
+11 	 10 	 (NP\NP)/(S[dcl]\NP) 	 2 	 swung which
+11 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 swung for
+11 	 19 	 (S\NP)\(S\NP) 	 2 	 swung month
+11 	 20 	 ((S\NP)\(S\NP))/NP 	 2 	 swung for
+12 	 11 	 (S[dcl]\NP)/PP 	 2 	 into swung
+13 	 12 	 PP/NP 	 1 	 action into
+17 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 time for
+17 	 15 	 NP[nb]/N 	 1 	 time the
+17 	 16 	 N/N 	 1 	 time first
+19 	 18 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 month last
+22 	 20 	 ((S\NP)\(S\NP))/NP 	 3 	 Hugo for
+22 	 21 	 N/N 	 1 	 Hugo Hurricane
+24 	 0 	 (S/S)/NP 	 1 	 assembled At
+24 	 28 	 ((S\NP)\(S\NP))/NP 	 2 	 assembled at
+24 	 31 	 (S\NP)\(S\NP) 	 2 	 assembled yesterday
+27 	 24 	 (S[dcl]\NP)/NP 	 2 	 team assembled
+27 	 25 	 NP[nb]/N 	 1 	 team a
+27 	 26 	 N/N 	 1 	 team tactical
+29 	 28 	 ((S\NP)\(S\NP))/NP 	 3 	 5 at
+29 	 30 	 N\N 	 1 	 5 a.m.
+33 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 begin to
+34 	 33 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 rerouting begin
+35 	 34 	 (S[ng]\NP)/NP 	 2 	 lines rerouting
+37 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 restore to
+38 	 37 	 ((S[b]\NP)/PP)/NP 	 3 	 service restore
+39 	 37 	 ((S[b]\NP)/PP)/NP 	 2 	 to restore
+40 	 39 	 PP/NP 	 1 	 brokers to
+42 	 39 	 PP/NP 	 1 	 traders to
+<\s>
+<s id="wsj_1852.34"> 27
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 company dispatched
+1 	 14 	 (S[b]\NP)/NP 	 1 	 company do <XB>
+2 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 dispatched in
+2 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 dispatched though
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 as dispatched
+4 	 3 	 (N/PP)/(S[adj]\NP) 	 2 	 many as
+5 	 3 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+7 	 5 	 PP/NP 	 1 	 people as
+7 	 6 	 N/N 	 1 	 people 200
+12 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 area in
+12 	 9 	 NP[nb]/N 	 1 	 area the
+12 	 10 	 N/N 	 1 	 area San
+12 	 11 	 N/N 	 1 	 area Francisco
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 do to
+16 	 14 	 (S[b]\NP)/NP 	 2 	 work do
+16 	 15 	 NP[nb]/N 	 1 	 work the
+19 	 20 	 (NP\NP)/NP 	 1 	 most of
+19 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 most was
+19 	 24 	 S[pss]\NP 	 1 	 most done <XB>
+22 	 20 	 (NP\NP)/NP 	 2 	 rerouting of
+22 	 21 	 NP[nb]/N 	 1 	 rerouting the
+23 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 was though
+24 	 23 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 done was
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 done by
+26 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 computer by
+<\s>
+<s id="wsj_1852.35"> 25
+0 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Service appeared
+0 	 4 	 S[adj]\NP 	 1 	 Service down <XB>
+2 	 1 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to appeared
+3 	 2 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+3 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 be throughout
+3 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 be while
+4 	 3 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 down be
+8 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 district throughout
+8 	 6 	 NP[nb]/N 	 1 	 district the
+8 	 7 	 N/N 	 1 	 district financial
+8 	 9 	 (NP\NP)/NP 	 1 	 district in
+12 	 9 	 (NP\NP)/NP 	 2 	 Francisco in
+12 	 10 	 N/N 	 1 	 Francisco downtown
+12 	 11 	 N/N 	 1 	 Francisco San
+16 	 15 	 N/N 	 1 	 parts just
+16 	 17 	 (NP\NP)/NP 	 1 	 parts of
+16 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 parts were
+16 	 23 	 S[pss]\NP 	 1 	 parts knocked <XB>
+18 	 17 	 (NP\NP)/NP 	 2 	 Oakland of
+21 	 17 	 (NP\NP)/NP 	 2 	 Jose of
+21 	 20 	 N/N 	 1 	 Jose San
+22 	 14 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 were while
+23 	 22 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 knocked were
+23 	 24 	 (S\NP)\(S\NP) 	 2 	 knocked out
+<\s>
+<s id="wsj_1852.36"> 20
+2 	 1 	 N/N 	 1 	 Irvine Dale
+2 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 Irvine said
+4 	 5 	 (NP\NP)/NP 	 1 	 director of
+4 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 director said
+8 	 5 	 (NP\NP)/NP 	 2 	 center of
+8 	 6 	 NP[nb]/N 	 1 	 center the
+8 	 7 	 N/N 	 1 	 center emergency
+10 	 0 	 S/S 	 1 	 said But
+11 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 service was
+11 	 13 	 (S[ng]\NP)/(S[pss]\NP) 	 1 	 service being <XB>
+11 	 14 	 (S[pss]\NP)/PP 	 1 	 service restored <XB>
+12 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+13 	 12 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 being was
+14 	 13 	 (S[ng]\NP)/(S[pss]\NP) 	 2 	 restored being
+15 	 14 	 (S[pss]\NP)/PP 	 2 	 to restored
+19 	 15 	 PP/NP 	 1 	 areas to
+19 	 16 	 N/N 	 1 	 areas outlying
+19 	 17 	 N/N 	 1 	 areas San
+19 	 18 	 N/N 	 1 	 areas Francisco
+<\s>
+<s id="wsj_1852.37"> 14
+1 	 0 	 (S/S)/NP 	 2 	 Chicago In
+5 	 4 	 N/N 	 1 	 Clearing Options
+5 	 6 	 (S[dcl]\NP)/S[em] 	 1 	 Clearing confirmed
+6 	 0 	 (S/S)/NP 	 1 	 confirmed In
+6 	 2 	 S/S 	 1 	 confirmed yesterday
+7 	 6 	 (S[dcl]\NP)/S[em] 	 2 	 that confirmed
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 it guarantees
+9 	 7 	 S[em]/S[dcl] 	 1 	 guarantees that
+13 	 9 	 (S[dcl]\NP)/NP 	 2 	 options guarantees
+13 	 10 	 NP[nb]/N 	 1 	 options the
+13 	 11 	 N/N 	 1 	 options Pacific
+13 	 12 	 N/N 	 1 	 options exchange
+<\s>
+<s id="wsj_1852.38"> 38
+1 	 0 	 NP[nb]/N 	 1 	 firm The
+1 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 firm will
+1 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 firm permit <XB>
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 will also
+3 	 30 	 (S[dcl]\S[dcl])/NP 	 1 	 will said
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 permit will
+4 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 permit if
+6 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 members permit
+6 	 5 	 NP[nb]/N 	 1 	 members its
+6 	 11 	 (S[b]\NP)/NP 	 1 	 members exercise <XB>
+9 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 public permit
+9 	 8 	 NP[nb]/N 	 1 	 public the
+9 	 11 	 (S[b]\NP)/NP 	 1 	 public exercise <XB>
+10 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to permit
+11 	 10 	 (S[to]\NP)/(S[b]\NP) 	 2 	 exercise to
+17 	 11 	 (S[b]\NP)/NP 	 2 	 contracts exercise
+17 	 12 	 NP[nb]/N 	 1 	 contracts their
+17 	 13 	 N/N 	 1 	 contracts put
+17 	 15 	 N/N 	 1 	 contracts call
+17 	 16 	 N/N 	 1 	 contracts options
+17 	 18 	 S[pss]\NP 	 1 	 contracts traded <XB>
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 traded on
+22 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 exchange on
+22 	 20 	 NP[nb]/N 	 1 	 exchange the
+22 	 21 	 N/N 	 1 	 exchange Pacific
+24 	 23 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 if even
+26 	 25 	 NP[nb]/N 	 1 	 exchange the
+26 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 exchange is
+26 	 28 	 S[adj]\NP 	 1 	 exchange closed <XB>
+27 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is if
+28 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 closed is
+32 	 30 	 (S[dcl]\S[dcl])/NP 	 2 	 Luthringshausen said
+32 	 31 	 N/N 	 1 	 Luthringshausen Wayne
+34 	 30 	 (S[dcl]\S[dcl])/NP 	 2 	 chairman said
+34 	 35 	 (NP\NP)/NP 	 1 	 chairman of
+37 	 35 	 (NP\NP)/NP 	 2 	 Clearing of
+37 	 36 	 N/N 	 1 	 Clearing Options
+<\s>
+<s id="wsj_1852.39"> 46
+2 	 1 	 N/N 	 1 	 options Put
+2 	 3 	 ((S[dcl]\NP)/NP)/NP 	 1 	 options give
+3 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 give while
+4 	 3 	 ((S[dcl]\NP)/NP)/NP 	 3 	 holders give
+6 	 3 	 ((S[dcl]\NP)/NP)/NP 	 2 	 right give
+6 	 5 	 NP[nb]/N 	 1 	 right the
+6 	 14 	 ((S[b]\NP)/PP)/NP 	 1 	 right sell <XB>
+11 	 3 	 ((S[dcl]\NP)/NP)/NP 	 2 	 obligation give
+11 	 9 	 NP/NP 	 1 	 obligation not
+11 	 10 	 NP[nb]/N 	 1 	 obligation the
+11 	 14 	 ((S[b]\NP)/PP)/NP 	 1 	 obligation sell <XB>
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+17 	 14 	 ((S[b]\NP)/PP)/NP 	 3 	 instrument sell
+17 	 15 	 NP[nb]/N 	 1 	 instrument a
+17 	 16 	 N/N 	 1 	 instrument financial
+18 	 14 	 ((S[b]\NP)/PP)/NP 	 2 	 at sell
+21 	 18 	 PP/NP 	 1 	 price at
+21 	 19 	 NP[nb]/N 	 1 	 price a
+21 	 20 	 N/N 	 1 	 price specified
+25 	 24 	 N/N 	 1 	 options call
+25 	 26 	 ((S[dcl]\NP)/NP)/NP 	 1 	 options give
+26 	 23 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 give while
+27 	 26 	 ((S[dcl]\NP)/NP)/NP 	 3 	 holders give
+29 	 26 	 ((S[dcl]\NP)/NP)/NP 	 2 	 right give
+29 	 28 	 NP[nb]/N 	 1 	 right the
+29 	 37 	 ((S[b]\NP)/PP)/NP 	 1 	 right buy <XB>
+34 	 26 	 ((S[dcl]\NP)/NP)/NP 	 2 	 obligation give
+34 	 32 	 NP/NP 	 1 	 obligation not
+34 	 33 	 NP[nb]/N 	 1 	 obligation the
+34 	 37 	 ((S[b]\NP)/PP)/NP 	 1 	 obligation buy <XB>
+37 	 36 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+40 	 37 	 ((S[b]\NP)/PP)/NP 	 3 	 instrument buy
+40 	 38 	 NP[nb]/N 	 1 	 instrument a
+40 	 39 	 N/N 	 1 	 instrument financial
+41 	 37 	 ((S[b]\NP)/PP)/NP 	 2 	 at buy
+44 	 41 	 PP/NP 	 1 	 price at
+44 	 42 	 NP[nb]/N 	 1 	 price a
+44 	 43 	 N/N 	 1 	 price specified
+<\s>
+<s id="wsj_1852.40"> 29
+0 	 3 	 (NP\NP)/NP 	 1 	 Investors in
+0 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Investors are
+0 	 8 	 S[pss]\NP 	 1 	 Investors protected <XB>
+2 	 3 	 (NP\NP)/NP 	 1 	 traders in
+2 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 traders are
+2 	 8 	 S[pss]\NP 	 1 	 traders protected <XB>
+6 	 3 	 (NP\NP)/NP 	 2 	 options in
+6 	 4 	 N/N 	 1 	 options Pacific
+6 	 5 	 N/N 	 1 	 options exchange
+7 	 28 	 (S[dcl]\S[dcl])\NP 	 1 	 are said
+8 	 7 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 protected are
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 protected to
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 extent to
+11 	 10 	 NP[nb]/N 	 1 	 extent the
+12 	 11 	 N/S[em] 	 1 	 that extent
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they can
+13 	 15 	 ((S[b]\NP)/PP)/NP 	 1 	 they convert <XB>
+14 	 12 	 S[em]/S[dcl] 	 1 	 can that
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 convert can
+20 	 15 	 ((S[b]\NP)/PP)/NP 	 3 	 options convert
+20 	 16 	 NP[nb]/N 	 1 	 options their
+20 	 17 	 N/N 	 1 	 options put
+20 	 19 	 N/N 	 1 	 options call
+21 	 15 	 ((S[b]\NP)/PP)/NP 	 2 	 into convert
+24 	 21 	 PP/NP 	 1 	 instrument into
+24 	 22 	 NP[nb]/N 	 1 	 instrument the
+24 	 23 	 N/N 	 1 	 instrument underlying
+27 	 26 	 N/N 	 1 	 Luthringshausen Mr.
+27 	 28 	 (S[dcl]\S[dcl])\NP 	 2 	 Luthringshausen said
+<\s>
+<s id="wsj_1852.41"> 9
+0 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 We are
+0 	 2 	 (S[ng]\NP)/NP 	 1 	 We seeing <XB>
+2 	 1 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 seeing are
+2 	 5 	 (S\NP)\(S\NP) 	 2 	 seeing today
+2 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 seeing in
+4 	 2 	 (S[ng]\NP)/NP 	 2 	 exercises seeing
+4 	 3 	 NP/NP 	 1 	 exercises such
+8 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 fact in
+<\s>

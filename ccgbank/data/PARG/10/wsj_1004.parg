@@ -1,0 +1,605 @@
+<s id="wsj_1004.1"> 28
+3 	 0 	 N/N 	 1 	 Corp. International
+3 	 1 	 N/N 	 1 	 Corp. Business
+3 	 2 	 N/N 	 1 	 Corp. Machines
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+5 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it agreed
+5 	 8 	 ((S[b]\NP)/(S[b]\NP))/NP 	 1 	 it let <XB>
+6 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 agreed said
+6 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 agreed as
+7 	 6 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 let to
+10 	 8 	 ((S[b]\NP)/(S[b]\NP))/NP 	 3 	 Inc. let
+10 	 9 	 N/N 	 1 	 Inc. Motorola
+10 	 11 	 (S[b]\NP)/PP 	 1 	 Inc. participate <XB>
+11 	 8 	 ((S[b]\NP)/(S[b]\NP))/NP 	 2 	 participate let
+12 	 11 	 (S[b]\NP)/PP 	 2 	 in participate
+16 	 12 	 PP/NP 	 1 	 project in
+16 	 13 	 NP[nb]/N 	 1 	 project a
+16 	 14 	 N/N 	 1 	 project semiconductor
+16 	 15 	 N/N 	 1 	 project research
+18 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 part as
+18 	 19 	 (NP\NP)/NP 	 1 	 part of
+21 	 19 	 (NP\NP)/NP 	 2 	 effort of
+21 	 20 	 NP[nb]/N 	 1 	 effort its
+21 	 23 	 (S[b]\NP)/NP 	 1 	 effort bolster <XB>
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 bolster to
+27 	 23 	 (S[b]\NP)/NP 	 2 	 industry bolster
+27 	 24 	 NP[nb]/N 	 1 	 industry the
+27 	 25 	 N/N 	 1 	 industry U.S.
+27 	 26 	 N/N 	 1 	 industry semiconductor
+<\s>
+<s id="wsj_1004.2"> 30
+0 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 IBM which
+0 	 3 	 (S[dcl]\NP)/NP 	 1 	 IBM made <XB>
+0 	 15 	 (S[dcl]\NP)/S[dcl] 	 1 	 IBM said
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 made which
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 made at
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 announcement made
+5 	 4 	 NP[nb]/N 	 1 	 announcement the
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 dedication at
+8 	 7 	 NP[nb]/N 	 1 	 dedication the
+8 	 9 	 (NP\NP)/NP 	 1 	 dedication of
+12 	 9 	 (NP\NP)/NP 	 2 	 center of
+12 	 10 	 NP[nb]/N 	 1 	 center a
+12 	 11 	 N/N 	 1 	 center research
+12 	 13 	 NP\NP 	 1 	 center here
+16 	 17 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it invited
+17 	 15 	 (S[dcl]\NP)/S[dcl] 	 2 	 invited said
+17 	 24 	 (S\NP)\(S\NP) 	 2 	 invited well
+17 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 invited including
+20 	 17 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 companies invited
+20 	 18 	 N/N 	 1 	 companies many
+20 	 19 	 N/N 	 1 	 companies other
+20 	 22 	 S[b]\NP 	 1 	 companies participate <XB>
+21 	 17 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to invited
+22 	 21 	 (S[to]\NP)/(S[b]\NP) 	 2 	 participate to
+24 	 23 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 well as
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 some including
+27 	 28 	 (NP\NP)/NP 	 1 	 some from
+29 	 28 	 (NP\NP)/NP 	 2 	 Europe from
+<\s>
+<s id="wsj_1004.3"> 26
+1 	 0 	 N/N 	 1 	 Kuehler Jack
+1 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Kuehler said
+1 	 21 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Kuehler declined <XU>
+1 	 25 	 S[adj]\NP 	 1 	 Kuehler specific <XU>
+3 	 4 	 (NP[nb]/N)\NP 	 2 	 IBM 's
+5 	 4 	 (NP[nb]/N)\NP 	 1 	 president 's
+5 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 president said
+5 	 21 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 president declined <XU>
+5 	 25 	 S[adj]\NP 	 1 	 president specific <XU>
+8 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 IBM is
+8 	 11 	 (S[ng]\NP)/(S[ng]\NP) 	 1 	 IBM considering <XB>
+8 	 12 	 ((S[ng]\NP)/(S[b]\NP))/NP 	 1 	 IBM letting <XB>
+9 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 is also
+11 	 9 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 considering is
+12 	 11 	 (S[ng]\NP)/(S[ng]\NP) 	 2 	 letting considering
+14 	 12 	 ((S[ng]\NP)/(S[b]\NP))/NP 	 3 	 companies letting
+14 	 13 	 N/N 	 1 	 companies other
+14 	 15 	 (S[b]\NP)/PP 	 1 	 companies participate <XB>
+15 	 12 	 ((S[ng]\NP)/(S[b]\NP))/NP 	 2 	 participate letting
+16 	 15 	 (S[b]\NP)/PP 	 2 	 in participate
+19 	 16 	 PP/NP 	 1 	 work in
+19 	 17 	 N/N 	 1 	 work additional
+19 	 18 	 N/N 	 1 	 work semiconductor
+22 	 21 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to declined
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+25 	 23 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 specific be
+25 	 24 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 specific more
+<\s>
+<s id="wsj_1004.4"> 51
+0 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 IBM which
+0 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 IBM said <XB>
+0 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 IBM has
+0 	 19 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 IBM become <XB>
+0 	 22 	 (S[adj]\NP)/PP 	 1 	 IBM open <XB>
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 said which
+3 	 6 	 ((S\NP)\(S\NP))\NP 	 2 	 said ago
+5 	 4 	 NP[nb]/N 	 1 	 year a
+5 	 6 	 ((S\NP)\(S\NP))\NP 	 3 	 year ago
+7 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it was
+7 	 9 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 1 	 it inviting <XB>
+8 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+9 	 8 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 inviting was
+10 	 9 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 3 	 companies inviting
+10 	 12 	 (S[b]\NP)/PP 	 1 	 companies participate <XB>
+11 	 9 	 ((S[ng]\NP)/(S[to]\NP))/NP 	 2 	 to inviting
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 participate to
+13 	 12 	 (S[b]\NP)/PP 	 2 	 in participate
+16 	 13 	 PP/NP 	 1 	 work in
+16 	 14 	 NP[nb]/N 	 1 	 work some
+16 	 15 	 N/N 	 1 	 work semiconductor
+19 	 18 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 become has
+19 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 become as
+21 	 20 	 ((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)) 	 3 	 more far
+22 	 19 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 open become
+22 	 21 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 open more
+23 	 22 	 (S[adj]\NP)/PP 	 2 	 about open
+25 	 23 	 PP/NP 	 1 	 technology about
+25 	 24 	 NP[nb]/N 	 1 	 technology its
+27 	 28 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 it has
+27 	 29 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 it tried <XB>
+27 	 31 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 it rally <XB>
+28 	 26 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has as
+29 	 28 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 tried has
+30 	 29 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to tried
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 rally to
+33 	 31 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 industry rally
+33 	 32 	 N/N 	 1 	 industry U.S.
+33 	 35 	 (S[b]\NP)/NP 	 1 	 industry head <XB>
+34 	 31 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to rally
+35 	 34 	 (S[to]\NP)/(S[b]\NP) 	 2 	 head to
+35 	 36 	 (S\NP)\(S\NP) 	 2 	 head off
+38 	 35 	 (S[b]\NP)/NP 	 2 	 Japanese head
+38 	 37 	 NP[nb]/N 	 1 	 Japanese the
+38 	 40 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Japanese who
+38 	 42 	 (S[dcl]\NP)/NP 	 1 	 Japanese dominate <XB>
+42 	 40 	 (NP\NP)/(S[dcl]\NP) 	 2 	 dominate who
+42 	 41 	 (S\NP)/(S\NP) 	 2 	 dominate now
+44 	 42 	 (S[dcl]\NP)/NP 	 2 	 market dominate
+44 	 43 	 NP[nb]/N 	 1 	 market the
+44 	 45 	 (NP\NP)/NP 	 1 	 market for
+50 	 45 	 (NP\NP)/NP 	 2 	 chips for
+50 	 46 	 N/N 	 1 	 chips dynamic
+50 	 47 	 N/N 	 1 	 chips random
+50 	 48 	 N/N 	 1 	 chips access
+50 	 49 	 N/N 	 1 	 chips memory
+<\s>
+<s id="wsj_1004.5"> 27
+1 	 3 	 NP\NP 	 1 	 IBM Armonk
+1 	 5 	 NP\NP 	 1 	 IBM N.Y. <XU>
+1 	 7 	 (S[dcl]\NP)/NP 	 1 	 IBM makes
+7 	 0 	 (S/S)/S[dcl] 	 2 	 makes While
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 bulk makes
+9 	 8 	 NP[nb]/N 	 1 	 bulk the
+9 	 10 	 (NP\NP)/NP 	 1 	 bulk of
+12 	 10 	 (NP\NP)/NP 	 2 	 DRAMs of
+12 	 11 	 NP[nb]/N 	 1 	 DRAMs the
+12 	 14 	 (S[dcl]\NP)/NP 	 2 	 DRAMs uses <XU>
+13 	 14 	 (S[dcl]\NP)/NP 	 1 	 it uses
+16 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it does
+16 	 19 	 (S[b]\NP)/NP 	 1 	 it make <XB>
+17 	 0 	 (S/S)/S[dcl] 	 1 	 does While
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 does n't
+19 	 17 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make does
+21 	 19 	 (S[b]\NP)/NP 	 2 	 equipment make
+21 	 20 	 NP[nb]/N 	 1 	 equipment the
+21 	 22 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 equipment needed <XB>
+21 	 24 	 (S[b]\NP)/NP 	 1 	 equipment produce <XB>
+23 	 22 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to needed
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 produce to
+26 	 24 	 (S[b]\NP)/NP 	 2 	 chips produce
+26 	 25 	 NP[nb]/N 	 1 	 chips those
+<\s>
+<s id="wsj_1004.6"> 30
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 IBM worries
+2 	 0 	 S/S 	 1 	 worries And
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that worries
+5 	 4 	 NP[nb]/N 	 1 	 Japanese the
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Japanese will
+5 	 7 	 (S[b]\NP)/NP 	 1 	 Japanese take <XB>
+6 	 3 	 S[em]/S[dcl] 	 1 	 will that
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take will
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 take over
+7 	 13 	 (S\NP)\(S\NP) 	 2 	 take too
+7 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 take unless
+11 	 7 	 (S[b]\NP)/NP 	 2 	 market take
+11 	 9 	 NP[nb]/N 	 1 	 market that
+11 	 10 	 N/N 	 1 	 market equipment
+18 	 16 	 N/N 	 1 	 companies U.S.
+18 	 17 	 N/N 	 1 	 companies semiconductor
+18 	 19 	 (S[dcl]\NP)/NP 	 1 	 companies produce
+18 	 25 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 companies keep <XB>
+19 	 15 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 produce unless
+19 	 23 	 (S\NP)\(S\NP) 	 2 	 produce here
+22 	 19 	 (S[dcl]\NP)/NP 	 2 	 chips produce
+22 	 20 	 N/N 	 1 	 chips enough
+22 	 21 	 N/N 	 1 	 chips memory
+25 	 24 	 (S[to]\NP)/(S[b]\NP) 	 2 	 keep to
+28 	 25 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 makers keep
+28 	 26 	 N/N 	 1 	 makers U.S.
+28 	 27 	 N/N 	 1 	 makers equipment
+28 	 29 	 S[adj]\NP 	 1 	 makers healthy <XB>
+29 	 25 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 healthy keep
+<\s>
+<s id="wsj_1004.7"> 29
+0 	 1 	 (NP\NP)/NP 	 1 	 Failure of
+0 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Failure would
+0 	 10 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 Failure leave <XB>
+4 	 1 	 (NP\NP)/NP 	 2 	 makers of
+4 	 2 	 N/N 	 1 	 makers U.S.
+4 	 3 	 N/N 	 1 	 makers equipment
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 IBM fears
+10 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 leave would
+11 	 10 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 it leave
+11 	 12 	 (S[adj]\NP)/PP 	 1 	 it dependent <XB>
+12 	 10 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 dependent leave
+13 	 12 	 (S[adj]\NP)/PP 	 2 	 on dependent
+14 	 13 	 PP/NP 	 1 	 many on
+14 	 15 	 (NP\NP)/NP 	 1 	 many of
+18 	 15 	 (NP\NP)/NP 	 2 	 companies of
+18 	 16 	 NP[nb]/N 	 1 	 companies the
+18 	 17 	 N/N 	 1 	 companies Japanese
+18 	 19 	 (NP\NP)/(S[dcl]\NP) 	 1 	 companies that
+18 	 20 	 (S[dcl]\NP)/PP 	 1 	 companies compete <XB>
+20 	 19 	 (NP\NP)/(S[dcl]\NP) 	 2 	 compete that
+20 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 compete in
+21 	 20 	 (S[dcl]\NP)/PP 	 2 	 with compete
+22 	 21 	 PP/NP 	 1 	 it with
+25 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 parts in
+25 	 24 	 N/N 	 1 	 parts other
+25 	 26 	 (NP\NP)/NP 	 1 	 parts of
+28 	 26 	 (NP\NP)/NP 	 2 	 market of
+28 	 27 	 NP[nb]/N 	 1 	 market the
+<\s>
+<s id="wsj_1004.8"> 27
+0 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 IBM said
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 said also
+3 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it expects
+3 	 6 	 (S[b]\NP)/PP 	 1 	 it benefit <XB>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+5 	 4 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to expects
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 benefit to
+7 	 6 	 (S[b]\NP)/PP 	 2 	 from benefit
+9 	 7 	 PP/NP 	 1 	 expertise from <XB>
+9 	 8 	 NP[nb]/N 	 1 	 expertise the
+9 	 10 	 (NP\NP)/(S[dcl]/NP) 	 1 	 expertise that <XU>
+9 	 16 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 expertise bring <XU>
+9 	 18 	 (S[b]\NP)/PP 	 1 	 expertise bear <XU>
+11 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Motorola can
+11 	 16 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 Motorola bring <XB>
+14 	 13 	 N/N 	 1 	 companies other
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 companies can
+14 	 16 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 companies bring <XB>
+15 	 10 	 (NP\NP)/(S[dcl]/NP) 	 2 	 can that
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 bring can
+17 	 16 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to bring
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 bear to
+19 	 18 	 (S[b]\NP)/PP 	 2 	 on bear
+22 	 19 	 PP/NP 	 1 	 problems on
+22 	 20 	 NP[nb]/N 	 1 	 problems the
+22 	 21 	 N/N 	 1 	 problems difficult
+22 	 23 	 S[pss]\NP 	 1 	 problems involved <XB>
+23 	 24 	 ((S\NP)\(S\NP))/NP 	 2 	 involved in
+26 	 24 	 ((S\NP)\(S\NP))/NP 	 3 	 manufacturing in
+26 	 25 	 N/N 	 1 	 manufacturing semiconductor
+<\s>
+<s id="wsj_1004.9"> 11
+0 	 2 	 (S[dcl]\NP)/PP 	 1 	 IBM participates
+2 	 1 	 (S\NP)/(S\NP) 	 2 	 participates already
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 in participates
+6 	 3 	 PP/NP 	 1 	 effort in
+6 	 4 	 N/N 	 1 	 effort one
+6 	 5 	 N/N 	 1 	 effort industrywide
+6 	 8 	 (S[b]\NP)/NP 	 1 	 effort improve <XB>
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 improve to
+10 	 8 	 (S[b]\NP)/NP 	 2 	 techniques improve
+10 	 9 	 N/N 	 1 	 techniques semiconductor-manufacturing
+<\s>
+<s id="wsj_1004.10"> 16
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 IBM said
+2 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it expects
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+3 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 expects because
+5 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 efforts expects
+5 	 4 	 N/N 	 1 	 efforts industrywide
+5 	 7 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 efforts become <XB>
+5 	 8 	 S[adj]\NP 	 1 	 efforts prevalent <XB>
+6 	 3 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 become to
+8 	 7 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 prevalent become
+11 	 10 	 N/N 	 1 	 manufacturing semiconductor
+11 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 manufacturing has
+11 	 13 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 manufacturing become <XB>
+11 	 15 	 S[adj]\NP 	 1 	 manufacturing expensive <XB>
+12 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has because
+13 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 become has
+15 	 13 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 expensive become
+15 	 14 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 expensive so
+<\s>
+<s id="wsj_1004.11"> 22
+2 	 0 	 NP[nb]/N 	 1 	 plant A
+2 	 1 	 N/N 	 1 	 plant state-of-the-art
+2 	 3 	 (S[pt]\NP)/NP 	 1 	 plant cost
+2 	 11 	 (S[pt]\NP)/NP 	 1 	 plant costs <XU>
+3 	 7 	 ((S\NP)\(S\NP))/NP 	 2 	 cost in
+4 	 3 	 (S[pt]\NP)/NP 	 2 	 $ cost
+6 	 4 	 N/N[num] 	 1 	 million $
+6 	 5 	 N/N 	 1 	 million 40
+9 	 7 	 ((S\NP)\(S\NP))/NP 	 3 	 mid-1970s in
+9 	 8 	 NP[nb]/N 	 1 	 mid-1970s the
+11 	 15 	 (S\NP)\(S\NP) 	 2 	 costs today
+11 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 costs because
+12 	 11 	 (S[pt]\NP)/NP 	 2 	 $ costs
+14 	 12 	 N/N[num] 	 1 	 million $
+14 	 13 	 N/N 	 1 	 million 500
+18 	 17 	 NP[nb]/N 	 1 	 technology the
+18 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 technology is
+18 	 21 	 S[adj]\NP 	 1 	 technology complex <XB>
+19 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 is because
+21 	 19 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 complex is
+21 	 20 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 complex so
+<\s>
+<s id="wsj_1004.12"> 10
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 IBM said
+2 	 0 	 S/S 	 1 	 said And
+3 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it expects
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 expects said
+6 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 costs expects
+6 	 5 	 NP[nb]/N 	 1 	 costs the
+6 	 8 	 (S[b]\NP)/(S[ng]\NP) 	 1 	 costs continue <XB>
+6 	 9 	 S[ng]\NP 	 1 	 costs climbing <XB>
+7 	 4 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 continue to
+9 	 8 	 (S[b]\NP)/(S[ng]\NP) 	 2 	 climbing continue
+<\s>
+<s id="wsj_1004.13"> 28
+0 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 IBM which
+0 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 IBM said <XB>
+0 	 17 	 (S[dcl]\NP)/S[dcl] 	 1 	 IBM acknowledged
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 said which
+4 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Motorola is
+4 	 6 	 (S[ng]\NP)/NP 	 1 	 Motorola paying <XB>
+4 	 12 	 (S[b]\NP)/NP 	 1 	 Motorola cover <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+6 	 5 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 paying is
+10 	 6 	 (S[ng]\NP)/NP 	 2 	 fee paying
+10 	 7 	 NP/NP 	 1 	 fee just
+10 	 8 	 NP[nb]/N 	 1 	 fee a
+10 	 9 	 N/N 	 1 	 fee nominal
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 cover to
+15 	 12 	 (S[b]\NP)/NP 	 2 	 agreement cover
+15 	 13 	 NP[nb]/N 	 1 	 agreement the
+15 	 14 	 N/N 	 1 	 agreement 21-month
+19 	 18 	 NP[nb]/N 	 1 	 companies some
+19 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 companies had
+19 	 21 	 (S[pt]\NP)/NP 	 1 	 companies turned <XB>
+20 	 17 	 (S[dcl]\NP)/S[dcl] 	 2 	 had acknowledged
+21 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 turned had
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 turned down
+24 	 21 	 (S[pt]\NP)/NP 	 2 	 invitation turned
+24 	 23 	 NP[nb]/N 	 1 	 invitation its
+24 	 26 	 S[b]\NP 	 1 	 invitation join <XB>
+26 	 25 	 (S[to]\NP)/(S[b]\NP) 	 2 	 join to
+26 	 27 	 (S\NP)\(S\NP) 	 2 	 join in
+<\s>
+<s id="wsj_1004.14"> 16
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 it said
+2 	 0 	 S/S 	 1 	 said But
+3 	 4 	 (S[dcl]\NP)/S 	 1 	 that was
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+6 	 4 	 (S[dcl]\NP)/S 	 2 	 because was
+6 	 5 	 S/S 	 1 	 because mainly
+8 	 7 	 NP[nb]/N 	 1 	 project the
+8 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 project may
+8 	 11 	 (S[b]\NP)/NP 	 1 	 project bear <XB>
+9 	 6 	 S/S[dcl] 	 1 	 may because
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 may not
+11 	 9 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 bear may
+11 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 bear until
+12 	 11 	 (S[b]\NP)/NP 	 2 	 fruit bear
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 mid-1990s until
+15 	 14 	 NP[nb]/N 	 1 	 mid-1990s the
+<\s>
+<s id="wsj_1004.15"> 13
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 IBM said
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 it thought
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 thought said
+5 	 4 	 N/N 	 1 	 companies more
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 companies would
+5 	 7 	 (S[b]\NP)/(S[adj]\NP) 	 1 	 companies become <XB>
+5 	 8 	 S[adj]\NP 	 1 	 companies interested <XB>
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 would thought
+7 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 become would
+7 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 become as
+8 	 7 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 interested become
+11 	 10 	 NP[nb]/N 	 1 	 project the
+11 	 12 	 S[dcl]\NP 	 1 	 project progresses
+12 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 progresses as
+<\s>
+<s id="wsj_1004.16"> 23
+1 	 0 	 NP[nb]/N 	 1 	 project The
+1 	 2 	 (S[ng]\NP)/NP 	 1 	 project involving <XB>
+1 	 4 	 (S[dcl]\NP)/NP 	 1 	 project concerns
+3 	 2 	 (S[ng]\NP)/NP 	 2 	 Motorola involving
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 technique concerns
+6 	 5 	 NP[nb]/N 	 1 	 technique a
+6 	 8 	 (S[pss]\NP)/NP 	 1 	 technique called <XB>
+6 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 technique that
+6 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 technique figures <XB>
+6 	 16 	 (S[adj]\NP)/PP 	 1 	 technique crucial <XB>
+10 	 8 	 (S[pss]\NP)/NP 	 2 	 lithography called
+10 	 9 	 N/N 	 1 	 lithography X-ray
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 figures that
+14 	 13 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to figures
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+16 	 15 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 crucial be
+17 	 16 	 (S[adj]\NP)/PP 	 2 	 to crucial
+19 	 17 	 PP/NP 	 1 	 generations to
+19 	 18 	 N/N 	 1 	 generations future
+19 	 20 	 (NP\NP)/NP 	 1 	 generations of
+22 	 20 	 (NP\NP)/NP 	 2 	 chips of
+22 	 21 	 N/N 	 1 	 chips memory
+<\s>
+<s id="wsj_1004.17"> 28
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 chips are
+2 	 4 	 S[pss]\NP 	 1 	 chips produced <XB>
+2 	 6 	 (S[ng]\NP)/NP 	 1 	 chips shining <XB>
+2 	 12 	 (S[b]\NP)/NP 	 1 	 chips produce <XB>
+3 	 0 	 S/S 	 1 	 are Currently
+4 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 produced are
+4 	 5 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 produced by
+6 	 5 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 shining by
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 shining through
+7 	 6 	 (S[ng]\NP)/NP 	 2 	 light shining
+10 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 mask through
+10 	 9 	 NP[nb]/N 	 1 	 mask a
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 produce to
+12 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 produce on
+12 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 produce as
+14 	 12 	 (S[b]\NP)/NP 	 2 	 image produce
+14 	 13 	 NP[nb]/N 	 1 	 image an
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 chip on
+17 	 16 	 NP[nb]/N 	 1 	 chip the
+20 	 19 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 as much
+22 	 21 	 NP[nb]/N 	 1 	 camera a
+22 	 23 	 (S[dcl]\NP)/NP 	 1 	 camera produces
+23 	 20 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 produces as
+23 	 26 	 ((S\NP)\(S\NP))/NP 	 2 	 produces on
+25 	 23 	 (S[dcl]\NP)/NP 	 2 	 image produces
+25 	 24 	 NP[nb]/N 	 1 	 image an
+27 	 26 	 ((S\NP)\(S\NP))/NP 	 3 	 film on
+<\s>
+<s id="wsj_1004.18"> 51
+1 	 2 	 (NP\NP)/NP 	 1 	 details on
+1 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 details must
+1 	 8 	 S[adj]\NP 	 1 	 details fine <XB>
+3 	 2 	 (NP\NP)/NP 	 2 	 chips on
+4 	 0 	 S/S 	 1 	 must But
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 must now
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be must
+8 	 6 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 fine be
+8 	 7 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 fine extraordinarily
+12 	 11 	 NP[nb]/N 	 1 	 wavelengths the
+12 	 13 	 (NP\NP)/NP 	 1 	 wavelengths of
+12 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 wavelengths are
+12 	 18 	 S[adj]\NP 	 1 	 wavelengths long <XB>
+16 	 13 	 (NP\NP)/NP 	 2 	 light of
+16 	 14 	 N/N 	 1 	 light even
+16 	 15 	 N/N 	 1 	 light ultraviolet
+17 	 0 	 S/S 	 1 	 are But
+17 	 30 	 ((S\NP)\(S\NP))/S 	 2 	 are --
+18 	 17 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 long are
+18 	 19 	 (S[adj]\NP)\(S[adj]\NP) 	 2 	 long enough
+18 	 20 	 ((S[adj]\NP)\(S[adj]\NP))/S[em] 	 2 	 long so
+21 	 20 	 ((S[adj]\NP)\(S[adj]\NP))/S[em] 	 3 	 that so
+23 	 22 	 NP[nb]/N 	 1 	 images the
+23 	 25 	 (S[dcl]\NP)/NP 	 2 	 images draw <XU>
+23 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 images may
+23 	 29 	 S[adj]\NP 	 1 	 images blurry <XB>
+24 	 25 	 (S[dcl]\NP)/NP 	 1 	 they draw
+26 	 21 	 S[em]/S[dcl] 	 1 	 may that
+27 	 26 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+29 	 27 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 blurry be
+29 	 28 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 blurry too
+32 	 30 	 ((S\NP)\(S\NP))/S 	 3 	 as --
+32 	 31 	 S/S 	 1 	 as much
+33 	 34 	 (S[ng]\NP)/NP 	 1 	 someone using <XB>
+33 	 38 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 someone could
+33 	 39 	 (S[b]\NP)/NP 	 1 	 someone produce <XB>
+33 	 44 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 someone would <XU>
+33 	 45 	 (S[b]\NP)/NP 	 1 	 someone have <XU>
+37 	 34 	 (S[ng]\NP)/NP 	 2 	 paintbrush using
+37 	 35 	 NP[nb]/N 	 1 	 paintbrush a
+37 	 36 	 N/N 	 1 	 paintbrush wide
+38 	 32 	 S/S[dcl] 	 1 	 could as
+39 	 38 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 produce could
+42 	 39 	 (S[b]\NP)/NP 	 2 	 line produce
+42 	 40 	 NP[nb]/N 	 1 	 line a
+42 	 41 	 N/N 	 1 	 line broad
+44 	 32 	 S/S[dcl] 	 1 	 would as
+45 	 44 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+46 	 45 	 (S[b]\NP)/NP 	 2 	 trouble have
+46 	 47 	 (S[ng]\NP)/NP 	 1 	 trouble painting <XB>
+50 	 47 	 (S[ng]\NP)/NP 	 2 	 one painting
+50 	 48 	 NP[nb]/N 	 1 	 one a
+50 	 49 	 N/N 	 1 	 one thin
+<\s>
+<s id="wsj_1004.19"> 15
+0 	 5 	 S[dcl]\NP 	 1 	 X-rays travel
+0 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 X-rays can <XU>
+0 	 10 	 S[pss]\NP 	 1 	 X-rays focused <XU>
+3 	 2 	 ((S\NP)/(S\NP))/NP 	 3 	 contrast by
+5 	 2 	 ((S\NP)/(S\NP))/NP 	 2 	 travel by
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 travel straighter
+8 	 2 	 ((S\NP)/(S\NP))/NP 	 2 	 can by
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+10 	 9 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 focused be
+10 	 12 	 (S\NP)\(S\NP) 	 2 	 focused tightly
+12 	 11 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 tightly more
+12 	 13 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 tightly than
+14 	 13 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 light than
+<\s>
+<s id="wsj_1004.20"> 5
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 X-rays have
+1 	 4 	 (S\NP)\(S\NP) 	 2 	 have too
+2 	 1 	 (S[dcl]\NP)/NP 	 2 	 problems have
+<\s>
+<s id="wsj_1004.21"> 16
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 They can
+0 	 2 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 1 	 They make <XB>
+0 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 They can <XU>
+0 	 8 	 S[b]\NP 	 1 	 They pass <XU>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make can
+4 	 2 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 3 	 masks make
+4 	 3 	 NP[nb]/N 	 1 	 masks the
+4 	 5 	 S[adj]\NP 	 1 	 masks brittle <XB>
+5 	 2 	 ((S[b]\NP)/(S[adj]\NP))/NP 	 2 	 brittle make
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 pass can
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 pass through
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 material through
+11 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 they 're
+11 	 14 	 (S[pt]\NP)/(S[to]\NP) 	 1 	 they supposed <XB>
+11 	 15 	 S[to]\NP 	 1 	 they to <XB>
+12 	 13 	 (S\NP)\(S\NP) 	 2 	 're not
+14 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 supposed 're
+15 	 14 	 (S[pt]\NP)/(S[to]\NP) 	 2 	 to supposed
+<\s>
+<s id="wsj_1004.22"> 51
+4 	 3 	 NP[nb]/N 	 1 	 problems those
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 problems can
+4 	 7 	 S[pss]\NP 	 1 	 problems overcome <XB>
+5 	 2 	 (S[ng]\NP)/S[dcl] 	 2 	 can assuming
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be can
+7 	 6 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 overcome be
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they should
+9 	 11 	 (S[b]\NP)/PP 	 1 	 they allow <XB>
+10 	 0 	 S/S 	 1 	 should But
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 allow should
+12 	 11 	 (S[b]\NP)/PP 	 2 	 for allow
+14 	 12 	 PP/NP 	 1 	 chips for
+14 	 13 	 N/N 	 1 	 chips memory
+14 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 chips that
+14 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 chips could <XB>
+14 	 17 	 (S[b]\NP)/NP 	 1 	 chips approach <XB>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 could that
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 approach could
+20 	 17 	 (S[b]\NP)/NP 	 2 	 bits approach
+20 	 18 	 N/N 	 1 	 bits one
+20 	 19 	 N/N 	 1 	 bits billion
+20 	 21 	 (NP\NP)/NP 	 1 	 bits of
+20 	 23 	 (NP\NP)/NP 	 1 	 bits --
+22 	 21 	 (NP\NP)/NP 	 2 	 information of
+25 	 23 	 (NP\NP)/NP 	 2 	 times --
+25 	 24 	 N/N 	 1 	 times 250
+25 	 26 	 N\N 	 1 	 times as
+25 	 27 	 N\N 	 1 	 times much
+25 	 28 	 (NP\NP)/S[dcl] 	 1 	 times as
+29 	 28 	 (NP\NP)/S[dcl] 	 2 	 is as
+30 	 29 	 S[dcl]/(S[pss]\NP) 	 1 	 contained is
+31 	 30 	 (S[pss]\NP)/PP 	 2 	 in contained
+34 	 31 	 PP/NP 	 1 	 chips in
+34 	 32 	 NP[nb]/N 	 1 	 chips the
+34 	 33 	 N/N 	 1 	 chips four-megabit
+34 	 35 	 (NP\NP)/(S[dcl]\NP) 	 1 	 chips that
+34 	 36 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 chips are <XB>
+34 	 38 	 (S[ng]\NP)/NP 	 1 	 chips reaching <XB>
+36 	 35 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+36 	 37 	 (S\NP)\(S\NP) 	 2 	 are just
+38 	 36 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 reaching are
+40 	 38 	 (S[ng]\NP)/NP 	 2 	 market reaching
+40 	 39 	 NP[nb]/N 	 1 	 market the
+44 	 23 	 (NP\NP)/NP 	 2 	 times --
+44 	 42 	 N/N 	 1 	 times a
+44 	 43 	 N/N 	 1 	 times million
+44 	 45 	 (NP\NP)/(S[dcl]\NP) 	 1 	 times what
+44 	 46 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 times was <XB>
+44 	 47 	 S[adj]\NP 	 1 	 times possible <XB>
+46 	 45 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was what
+46 	 48 	 ((S\NP)\(S\NP))/NP 	 2 	 was in
+47 	 46 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 possible was
+50 	 48 	 ((S\NP)\(S\NP))/NP 	 3 	 mid-1970s in
+50 	 49 	 NP[nb]/N 	 1 	 mid-1970s the
+<\s>

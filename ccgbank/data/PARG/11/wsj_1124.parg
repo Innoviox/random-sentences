@@ -1,0 +1,260 @@
+<s id="wsj_1124.1"> 27
+5 	 0 	 N/N 	 1 	 Inc. Wall
+5 	 1 	 N/N 	 1 	 Inc. Street
+5 	 2 	 N/N 	 1 	 Inc. securities
+5 	 3 	 N/N 	 1 	 Inc. giant
+5 	 4 	 N/N 	 1 	 Inc. Salomon
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Inc. posted
+5 	 18 	 S[pss]\NP 	 1 	 Inc. buoyed <XB>
+6 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 posted in
+12 	 6 	 (S[dcl]\NP)/NP 	 2 	 gain posted
+12 	 7 	 NP[nb]/N 	 1 	 gain a
+12 	 8 	 N/N 	 1 	 gain big
+12 	 10 	 N/N 	 1 	 gain unexpected
+12 	 11 	 N/N 	 1 	 gain earnings
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+16 	 14 	 NP[nb]/N 	 1 	 quarter the
+16 	 15 	 N/N 	 1 	 quarter third
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 buoyed by
+26 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 activities by
+26 	 20 	 NP[nb]/N 	 1 	 activities its
+26 	 21 	 N/N 	 1 	 activities securities
+26 	 22 	 N/N 	 1 	 activities trading
+26 	 24 	 N/N 	 1 	 activities investment
+26 	 25 	 N/N 	 1 	 activities banking
+<\s>
+<s id="wsj_1124.2"> 30
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Salomon said
+3 	 2 	 N/N 	 1 	 income net
+3 	 4 	 S[dcl]\NP 	 1 	 income soared
+4 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 soared said
+4 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 soared to
+4 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 soared from
+6 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+8 	 6 	 N/N[num] 	 1 	 million $
+8 	 7 	 N/N 	 1 	 million 177
+11 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 $ to
+11 	 13 	 (NP\NP)/N 	 1 	 $ a
+12 	 11 	 N/N[num] 	 1 	 1.28 $
+14 	 13 	 (NP\NP)/N 	 2 	 share a
+17 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 $ from
+19 	 17 	 N/N[num] 	 1 	 million $
+19 	 18 	 N/N 	 1 	 million 65
+23 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 cents from
+23 	 22 	 N/N 	 1 	 cents 38
+23 	 24 	 (NP\NP)/N 	 1 	 cents a
+23 	 29 	 (NP\NP)\NP 	 1 	 cents earlier
+25 	 24 	 (NP\NP)/N 	 2 	 share a
+28 	 27 	 NP[nb]/N 	 1 	 year a
+28 	 29 	 (NP\NP)\NP 	 2 	 year earlier
+<\s>
+<s id="wsj_1124.3"> 12
+0 	 1 	 S[adj]\NP 	 1 	 Revenue more <XB>
+0 	 3 	 ((S[dcl]\NP)/PP)/PP 	 1 	 Revenue doubled
+1 	 2 	 ((S\NP)/(S\NP))\(S[adj]\NP) 	 3 	 more than
+3 	 2 	 ((S\NP)/(S\NP))\(S[adj]\NP) 	 2 	 doubled than
+4 	 3 	 ((S[dcl]\NP)/PP)/PP 	 3 	 to doubled
+5 	 4 	 PP/NP 	 1 	 $ to
+7 	 5 	 N/N[num] 	 1 	 billion $
+7 	 6 	 N/N 	 1 	 billion 2.62
+8 	 3 	 ((S[dcl]\NP)/PP)/PP 	 2 	 from doubled
+9 	 8 	 PP/NP 	 1 	 $ from
+11 	 9 	 N/N[num] 	 1 	 billion $
+11 	 10 	 N/N 	 1 	 billion 1.29
+<\s>
+<s id="wsj_1124.4"> 28
+2 	 0 	 NP[nb]/N 	 1 	 spokesman A
+2 	 1 	 N/N 	 1 	 spokesman Salomon
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+11 	 4 	 NP[nb]/N 	 1 	 trading its
+11 	 5 	 N/N 	 1 	 trading stock
+11 	 7 	 N/N 	 1 	 trading bond
+11 	 9 	 N/N 	 1 	 trading foreign
+11 	 10 	 N/N 	 1 	 trading exchange
+11 	 21 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 trading were
+11 	 23 	 (S[adj]\NP)/PP 	 1 	 trading responsible <XB>
+15 	 13 	 conj/conj 	 1 	 as as
+15 	 14 	 conj/conj 	 1 	 as well
+19 	 16 	 NP[nb]/N 	 1 	 operations its
+19 	 17 	 N/N 	 1 	 operations investment
+19 	 18 	 N/N 	 1 	 operations banking
+19 	 21 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 operations were
+19 	 23 	 (S[adj]\NP)/PP 	 1 	 operations responsible <XB>
+21 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+23 	 21 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 responsible were
+23 	 22 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 responsible mostly
+24 	 23 	 (S[adj]\NP)/PP 	 2 	 for responsible
+27 	 24 	 PP/NP 	 1 	 jump for
+27 	 25 	 NP[nb]/N 	 1 	 jump the
+27 	 26 	 N/N 	 1 	 jump earnings
+<\s>
+<s id="wsj_1124.5"> 19
+1 	 0 	 NP[nb]/N 	 1 	 earnings The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 earnings were
+1 	 3 	 S[adj]\NP 	 1 	 earnings fine <XB>
+2 	 8 	 (S[dcl]\S[dcl])/NP 	 1 	 were said
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 fine were
+5 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 above were
+6 	 5 	 PP/NP 	 1 	 expectations above
+11 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 Blumstein said
+11 	 9 	 N/N 	 1 	 Blumstein Michael
+11 	 10 	 N/N 	 1 	 Blumstein W.
+14 	 8 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst said
+14 	 13 	 NP[nb]/N 	 1 	 analyst an
+14 	 15 	 (NP\NP)/NP 	 1 	 analyst at
+18 	 15 	 (NP\NP)/NP 	 2 	 Corp at
+18 	 16 	 N/N 	 1 	 Corp First
+18 	 17 	 N/N 	 1 	 Corp Boston
+<\s>
+<s id="wsj_1124.6"> 23
+2 	 3 	 (NP[nb]/N)\NP 	 2 	 Salomon 's
+4 	 3 	 (NP[nb]/N)\NP 	 1 	 stock 's
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 stock fell
+4 	 10 	 (S[b]\NP)/PP 	 1 	 stock close <XB>
+5 	 0 	 S/S 	 1 	 fell Nevertheless
+5 	 6 	 ((S\NP)\(S\NP))/N[num] 	 2 	 fell $
+5 	 8 	 (S\NP)\(S\NP) 	 2 	 fell yesterday
+7 	 6 	 ((S\NP)\(S\NP))/N[num] 	 3 	 1.125 $
+9 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to fell
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 close to
+10 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 close in
+11 	 10 	 (S[b]\NP)/PP 	 2 	 at close
+12 	 11 	 PP/NP 	 1 	 $ at
+12 	 14 	 (NP\NP)/N 	 1 	 $ a
+13 	 12 	 N/N[num] 	 1 	 23.25 $
+15 	 14 	 (NP\NP)/N 	 2 	 share a
+22 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 trading in
+22 	 17 	 N/N 	 1 	 trading New
+22 	 18 	 N/N 	 1 	 trading York
+22 	 19 	 N/N 	 1 	 trading Stock
+22 	 20 	 N/N 	 1 	 trading Exchange
+22 	 21 	 N/N 	 1 	 trading composite
+<\s>
+<s id="wsj_1124.7"> 29
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 I suspect
+1 	 28 	 (S[dcl]\S[dcl])\NP 	 1 	 suspect said
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 October was
+2 	 6 	 (S[adj]\NP)/PP 	 1 	 October good <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 was suspect
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 was n't
+6 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 good was
+6 	 5 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 good as
+7 	 6 	 (S[adj]\NP)/PP 	 2 	 as good
+10 	 7 	 PP/NP 	 1 	 quarter as
+10 	 8 	 NP[nb]/N 	 1 	 quarter the
+10 	 9 	 N/N 	 1 	 quarter third
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 they 'll
+13 	 15 	 (S[b]\NP)/NP 	 1 	 they have <XB>
+14 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 'll suspect
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have 'll
+16 	 15 	 (S[b]\NP)/NP 	 2 	 difficulty have
+16 	 17 	 (S[ng]\NP)/NP 	 1 	 difficulty matching <XB>
+17 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 matching in
+20 	 17 	 (S[ng]\NP)/NP 	 2 	 quarter matching
+20 	 18 	 NP[nb]/N 	 1 	 quarter the
+20 	 19 	 N/N 	 1 	 quarter third
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 quarter in
+24 	 22 	 NP[nb]/N 	 1 	 quarter the
+24 	 23 	 N/N 	 1 	 quarter fourth
+27 	 26 	 N/N 	 1 	 Blumstein Mr.
+27 	 28 	 (S[dcl]\S[dcl])\NP 	 2 	 Blumstein said
+<\s>
+<s id="wsj_1124.8"> 9
+2 	 1 	 NP[nb]/N 	 1 	 analysts some
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 analysts say
+3 	 0 	 S/S 	 1 	 say But
+4 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Salomon has
+4 	 6 	 (S[pt]\NP)/NP 	 1 	 Salomon turned <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 has say
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 turned has
+8 	 6 	 (S[pt]\NP)/NP 	 2 	 corner turned
+8 	 7 	 NP[nb]/N 	 1 	 corner the
+<\s>
+<s id="wsj_1124.9"> 25
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 I upgraded
+1 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 upgraded because
+1 	 16 	 (S[dcl]\S[dcl])/NP 	 1 	 upgraded says
+3 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 firm upgraded
+3 	 2 	 NP[nb]/N 	 1 	 firm the
+4 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 to upgraded
+7 	 4 	 PP/NP 	 1 	 list to
+7 	 5 	 NP[nb]/N 	 1 	 list my
+7 	 6 	 N/N 	 1 	 list buy
+9 	 11 	 (S[dcl]\NP)/NP 	 1 	 I see
+11 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 see because
+11 	 10 	 (S\NP)/(S\NP) 	 2 	 see certainly
+12 	 11 	 (S[dcl]\NP)/NP 	 2 	 signs see
+12 	 13 	 (NP\NP)/NP 	 1 	 signs of
+14 	 13 	 (NP\NP)/NP 	 2 	 improvement of
+18 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 Eckenfelder says
+18 	 17 	 N/N 	 1 	 Eckenfelder Lawrence
+21 	 16 	 (S[dcl]\S[dcl])/NP 	 2 	 analyst says
+21 	 20 	 NP[nb]/N 	 1 	 analyst an
+21 	 22 	 (NP\NP)/NP 	 1 	 analyst at
+24 	 22 	 (NP\NP)/NP 	 2 	 Securities at
+24 	 23 	 N/N 	 1 	 Securities Prudential-Bache
+<\s>
+<s id="wsj_1124.10"> 8
+1 	 0 	 NP[nb]/N 	 1 	 market The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 market has
+1 	 5 	 (S[adj]\NP)/PP 	 1 	 market harsh <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+5 	 3 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 harsh been
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 harsh overly
+6 	 5 	 (S[adj]\NP)/PP 	 2 	 to harsh
+7 	 6 	 PP/NP 	 1 	 them to
+<\s>
+<s id="wsj_1124.11"> 12
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Analysts say
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 investors remain
+2 	 4 	 (S[adj]\NP)/PP 	 1 	 investors skittish <XB>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 remain say
+3 	 7 	 ((S\NP)\(S\NP))/PP 	 2 	 remain because
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 skittish remain
+5 	 4 	 (S[adj]\NP)/PP 	 2 	 toward skittish
+6 	 5 	 PP/NP 	 1 	 Salomon toward
+8 	 7 	 ((S\NP)\(S\NP))/PP 	 3 	 of because
+11 	 8 	 PP/NP 	 1 	 earnings of
+11 	 9 	 NP[nb]/N 	 1 	 earnings its
+11 	 10 	 N/N 	 1 	 earnings volatile
+<\s>
+<s id="wsj_1124.12"> 20
+3 	 0 	 (S/S)/NP 	 2 	 quarter In
+3 	 1 	 NP[nb]/N 	 1 	 quarter the
+3 	 2 	 N/N 	 1 	 quarter first
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Salomon had
+6 	 0 	 (S/S)/NP 	 1 	 had In
+6 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 had on
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 loss had
+9 	 7 	 NP[nb]/N 	 1 	 loss a
+9 	 8 	 N/N 	 1 	 loss record
+9 	 10 	 (NP\NP)/NP 	 1 	 loss of
+11 	 10 	 (NP\NP)/NP 	 2 	 $ of
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 28
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 revenue on
+15 	 16 	 (NP\NP)/NP 	 1 	 revenue of
+17 	 16 	 (NP\NP)/NP 	 2 	 $ of
+19 	 17 	 N/N[num] 	 1 	 billion $
+19 	 18 	 N/N 	 1 	 billion 1.54
+<\s>
+<s id="wsj_1124.13"> 20
+4 	 1 	 (S/S)/NP 	 2 	 quarter in
+4 	 2 	 NP[nb]/N 	 1 	 quarter the
+4 	 3 	 N/N 	 1 	 quarter second
+6 	 7 	 (S[dcl]\NP)/NP 	 1 	 Salomon posted
+7 	 0 	 S/S 	 1 	 posted But
+7 	 1 	 (S/S)/NP 	 1 	 posted in
+7 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 posted on
+12 	 10 	 (N/N)/N[num] 	 2 	 million $
+12 	 11 	 N/N 	 1 	 million 253
+13 	 7 	 (S[dcl]\NP)/NP 	 2 	 net posted
+13 	 8 	 NP[nb]/N 	 1 	 net a
+13 	 9 	 N/N 	 1 	 net record
+13 	 10 	 (N/N)/N[num] 	 1 	 net $
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 revenue on
+15 	 16 	 (NP\NP)/NP 	 1 	 revenue of
+17 	 16 	 (NP\NP)/NP 	 2 	 $ of
+19 	 17 	 N/N[num] 	 1 	 billion $
+19 	 18 	 N/N 	 1 	 billion 2.33
+<\s>

@@ -1,0 +1,344 @@
+<s id="wsj_0676.1"> 26
+4 	 1 	 (S/S)/NP 	 2 	 year During
+4 	 2 	 NP[nb]/N 	 1 	 year its
+4 	 3 	 N/N 	 1 	 year centennial
+9 	 6 	 NP[nb]/N 	 1 	 Journal The
+9 	 7 	 N/N 	 1 	 Journal Wall
+9 	 8 	 N/N 	 1 	 Journal Street
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Journal will
+9 	 11 	 (S[b]\NP)/NP 	 1 	 Journal report <XB>
+10 	 1 	 (S/S)/NP 	 1 	 will During
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 report will
+12 	 11 	 (S[b]\NP)/NP 	 2 	 events report
+12 	 13 	 (NP\NP)/NP 	 1 	 events of
+12 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 events that
+12 	 18 	 (S[dcl]\NP)/PP 	 1 	 events stand <XB>
+16 	 13 	 (NP\NP)/NP 	 2 	 century of
+16 	 14 	 NP[nb]/N 	 1 	 century the
+16 	 15 	 N/N 	 1 	 century past
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 stand that
+19 	 18 	 (S[dcl]\NP)/PP 	 2 	 as stand
+20 	 19 	 PP/NP 	 1 	 milestones as
+20 	 21 	 (NP\NP)/NP 	 1 	 milestones of
+24 	 21 	 (NP\NP)/NP 	 2 	 history of
+24 	 22 	 N/N 	 1 	 history American
+24 	 23 	 N/N 	 1 	 history business
+<\s>
+<s id="wsj_0676.2"> 25
+1 	 0 	 N/N 	 1 	 Jefferson Thomas
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Jefferson sold
+1 	 15 	 ((S[ng]\NP)/NP)/NP 	 1 	 Jefferson saving <XB>
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 sold on
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 Congress sold
+6 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 idea on
+6 	 5 	 NP[nb]/N 	 1 	 idea the
+6 	 7 	 (NP\NP)/NP 	 1 	 idea of
+10 	 7 	 (NP\NP)/NP 	 2 	 system of
+10 	 8 	 NP[nb]/N 	 1 	 system the
+10 	 9 	 N/N 	 1 	 system decimal
+10 	 11 	 (NP\NP)/NP 	 1 	 system for
+12 	 11 	 (NP\NP)/NP 	 2 	 currency for
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 saving thus
+16 	 15 	 ((S[ng]\NP)/NP)/NP 	 3 	 Americans saving
+18 	 15 	 ((S[ng]\NP)/NP)/NP 	 2 	 headaches saving
+18 	 17 	 NP[nb]/N 	 1 	 headaches the
+18 	 19 	 (NP\NP)/NP 	 1 	 headaches of
+20 	 19 	 (NP\NP)/NP 	 2 	 pounds of
+22 	 19 	 (NP\NP)/NP 	 2 	 shillings of
+24 	 19 	 (NP\NP)/NP 	 2 	 pence of
+<\s>
+<s id="wsj_0676.3"> 17
+1 	 2 	 S[dcl]\NP 	 1 	 he struck
+2 	 0 	 S/S 	 1 	 struck But
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 struck out
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 struck with
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 system with
+7 	 5 	 NP[nb]/N 	 1 	 system the
+7 	 6 	 N/N 	 1 	 system decimal
+7 	 8 	 (NP\NP)/NP 	 1 	 system of
+7 	 16 	 (S[pt]\NP)/NP 	 2 	 system invented <XU>
+10 	 8 	 (NP\NP)/NP 	 2 	 weights of
+10 	 9 	 N/N 	 1 	 weights metric
+12 	 8 	 (NP\NP)/NP 	 2 	 measures of
+12 	 9 	 N/N 	 1 	 measures metric
+14 	 13 	 NP[nb]/N 	 1 	 French the
+14 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 French had
+14 	 16 	 (S[pt]\NP)/NP 	 1 	 French invented <XB>
+16 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 invented had
+<\s>
+<s id="wsj_0676.4"> 17
+2 	 3 	 (S[dcl]\NP)/PP 	 1 	 Congress opted
+3 	 0 	 S/S 	 1 	 opted Instead
+4 	 3 	 (S[dcl]\NP)/PP 	 2 	 for opted
+6 	 4 	 PP/NP 	 1 	 inches for
+6 	 5 	 NP[nb]/N 	 1 	 inches the
+6 	 14 	 ((S[pt]\NP)/PP)/NP 	 3 	 inches brought <XU>
+8 	 4 	 PP/NP 	 1 	 feet for
+8 	 5 	 NP[nb]/N 	 1 	 feet the
+8 	 14 	 ((S[pt]\NP)/PP)/NP 	 3 	 feet brought <XU>
+10 	 4 	 PP/NP 	 1 	 yards for
+10 	 5 	 NP[nb]/N 	 1 	 yards the
+10 	 14 	 ((S[pt]\NP)/PP)/NP 	 3 	 yards brought <XU>
+12 	 11 	 NP[nb]/N 	 1 	 colonists the
+12 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 colonists had
+12 	 14 	 ((S[pt]\NP)/PP)/NP 	 1 	 colonists brought <XB>
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 brought had
+15 	 14 	 ((S[pt]\NP)/PP)/NP 	 2 	 with brought
+16 	 15 	 PP/NP 	 1 	 them with
+<\s>
+<s id="wsj_0676.5"> 10
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Americans did
+0 	 3 	 (S[b]\NP)/NP 	 1 	 Americans dislike <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 did n't
+3 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 dislike did
+4 	 3 	 (S[b]\NP)/NP 	 2 	 metrics dislike
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 they ignored
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 ignored simply
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 them ignored
+<\s>
+<s id="wsj_0676.6"> 3
+0 	 1 	 S[dcl]\NP 	 1 	 Scientists felt
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 felt differently
+<\s>
+<s id="wsj_0676.7"> 28
+1 	 0 	 (S/S)/NP 	 2 	 1807 In
+5 	 3 	 NP[nb]/N 	 1 	 mathematician the
+5 	 4 	 N/N 	 1 	 mathematician Swiss
+5 	 6 	 (NP\NP)/(S[dcl]\NP) 	 1 	 mathematician who
+5 	 7 	 (S[dcl]\NP)/NP 	 1 	 mathematician headed <XB>
+5 	 14 	 ((S[dcl]\NP)/NP)/NP 	 1 	 mathematician made
+7 	 6 	 (NP\NP)/(S[dcl]\NP) 	 2 	 headed who
+10 	 9 	 (N/N)/(N/N) 	 2 	 Coast U.S.
+12 	 9 	 (N/N)/(N/N) 	 2 	 Geodetic U.S.
+13 	 7 	 (S[dcl]\NP)/NP 	 2 	 Survey headed
+13 	 8 	 NP[nb]/N 	 1 	 Survey the
+13 	 10 	 N/N 	 1 	 Survey Coast <XU>
+13 	 12 	 N/N 	 1 	 Survey Geodetic
+14 	 0 	 (S/S)/NP 	 1 	 made In
+17 	 14 	 ((S[dcl]\NP)/NP)/NP 	 3 	 meter made
+17 	 15 	 NP[nb]/N 	 1 	 meter an
+17 	 16 	 N/N 	 1 	 meter iron
+17 	 18 	 (NP\NP)/(S[dcl]/NP) 	 1 	 meter that
+17 	 21 	 ((S[pt]\NP)/PP)/NP 	 3 	 meter brought <XU>
+19 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 he had
+19 	 21 	 ((S[pt]\NP)/PP)/NP 	 1 	 he brought <XB>
+20 	 18 	 (NP\NP)/(S[dcl]/NP) 	 2 	 had that
+21 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 brought had
+22 	 21 	 ((S[pt]\NP)/PP)/NP 	 2 	 from brought
+23 	 22 	 PP/NP 	 1 	 Europe from
+25 	 14 	 ((S[dcl]\NP)/NP)/NP 	 2 	 standard made
+25 	 24 	 NP[nb]/N 	 1 	 standard the
+25 	 26 	 (NP\NP)/NP 	 1 	 standard of
+27 	 26 	 (NP\NP)/NP 	 2 	 measure of
+<\s>
+<s id="wsj_0676.8"> 11
+2 	 0 	 (S/S)/NP 	 2 	 end By
+2 	 1 	 NP[nb]/N 	 1 	 end the
+2 	 3 	 (NP\NP)/NP 	 1 	 end of
+5 	 3 	 (NP\NP)/NP 	 2 	 century of
+5 	 4 	 NP[nb]/N 	 1 	 century the
+6 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 scientists had
+6 	 8 	 (S[pt]\NP)/NP 	 1 	 scientists embraced <XB>
+7 	 0 	 (S/S)/NP 	 1 	 had By
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 embraced had
+10 	 8 	 (S[pt]\NP)/NP 	 2 	 system embraced
+10 	 9 	 NP[nb]/N 	 1 	 system the
+<\s>
+<s id="wsj_0676.9"> 7
+0 	 1 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Businessmen took
+3 	 1 	 ((S[dcl]\NP)/PP)/NP 	 3 	 cue took
+3 	 2 	 NP[nb]/N 	 1 	 cue their
+4 	 1 	 ((S[dcl]\NP)/PP)/NP 	 2 	 from took
+6 	 4 	 PP/NP 	 1 	 engineers from
+6 	 5 	 NP[nb]/N 	 1 	 engineers the
+<\s>
+<s id="wsj_0676.10"> 15
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 Congress passed
+3 	 0 	 (S/S)/S[dcl] 	 2 	 passed When
+3 	 2 	 (S\NP)/(S\NP) 	 2 	 passed finally
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 passed in
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 Act passed
+7 	 4 	 NP[nb]/N 	 1 	 Act the
+7 	 5 	 N/N 	 1 	 Act Metric
+7 	 6 	 N/N 	 1 	 Act Conversion
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 1975 in
+11 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 industry was
+11 	 14 	 S[adj]\NP 	 1 	 industry ahead <XB>
+12 	 0 	 (S/S)/S[dcl] 	 1 	 was When
+14 	 12 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 ahead was
+14 	 13 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 ahead far
+<\s>
+<s id="wsj_0676.11"> 13
+2 	 1 	 NP[nb]/N 	 1 	 law the
+2 	 3 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 1 	 law made
+3 	 0 	 (S/S)/S[dcl] 	 2 	 made Because
+4 	 3 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 3 	 compliance made
+4 	 5 	 S[adj]\NP 	 1 	 compliance voluntary <XB>
+5 	 3 	 ((S[dcl]\NP)/(S[adj]\NP))/NP 	 2 	 voluntary made
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 it inspired
+8 	 0 	 (S/S)/S[dcl] 	 1 	 inspired Because
+10 	 8 	 (S[dcl]\NP)/NP 	 2 	 more inspired
+10 	 9 	 N/N 	 1 	 more little
+10 	 11 	 (NP\NP)/NP 	 1 	 more than
+12 	 11 	 (NP\NP)/NP 	 2 	 jokes than
+<\s>
+<s id="wsj_0676.12"> 20
+2 	 1 	 NP[nb]/N 	 1 	 press The
+2 	 3 	 ((S[dcl]\NP)/PP)/NP 	 1 	 press had
+6 	 3 	 ((S[dcl]\NP)/PP)/NP 	 3 	 day had
+6 	 4 	 NP[nb]/N 	 1 	 day a
+6 	 5 	 N/N 	 1 	 day field
+7 	 3 	 ((S[dcl]\NP)/PP)/NP 	 2 	 with had
+8 	 7 	 PP/NP 	 1 	 questions with
+8 	 9 	 (NP\NP)/NP 	 1 	 questions about
+10 	 9 	 (NP\NP)/NP 	 2 	 what about
+10 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 what would <XB>
+10 	 12 	 (S[b]\NP)/PP 	 1 	 what happen <XB>
+11 	 10 	 NP/(S[dcl]\NP) 	 1 	 would what
+12 	 11 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 happen would
+13 	 12 	 (S[b]\NP)/PP 	 2 	 to happen
+14 	 13 	 PP/NP 	 1 	 six-footer to
+16 	 13 	 PP/NP 	 1 	 yardstick to
+18 	 13 	 PP/NP 	 1 	 inchworm to
+<\s>
+<s id="wsj_0676.13"> 25
+4 	 3 	 NP[nb]/N 	 1 	 public the
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 public is
+4 	 7 	 S[adj]\NP 	 1 	 public aware <XB>
+5 	 2 	 (S/S)/S[dcl] 	 2 	 is though
+7 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 aware is
+7 	 6 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 aware barely
+9 	 10 	 (NP\NP)/NP 	 1 	 much of
+9 	 22 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 1 	 much made <XB>
+12 	 10 	 (NP\NP)/NP 	 2 	 industry of
+12 	 11 	 N/N 	 1 	 industry U.S.
+15 	 14 	 NP/NP 	 1 	 companies particularly
+15 	 16 	 S[ng]\NP 	 1 	 companies manufacturing <XB>
+15 	 18 	 S[ng]\NP 	 1 	 companies selling <XU>
+15 	 22 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 1 	 companies made <XB>
+16 	 19 	 (S\NP)\(S\NP) 	 2 	 manufacturing overseas
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 selling overseas
+21 	 0 	 S/S 	 1 	 have Today
+21 	 2 	 (S/S)/S[dcl] 	 1 	 have though
+22 	 21 	 (S[b]\NP)/(S[pt]\NP) 	 2 	 made have
+23 	 22 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 3 	 metrics made
+23 	 24 	 S[adj]\NP 	 1 	 metrics routine <XB>
+24 	 22 	 ((S[pt]\NP)/(S[adj]\NP))/NP 	 2 	 routine made
+<\s>
+<s id="wsj_0676.14"> 16
+1 	 0 	 N/N 	 1 	 Motors General
+1 	 6 	 ((S[dcl]\NP)/PP)/NP 	 1 	 Motors uses
+4 	 3 	 ((S\NP)/(S\NP))/NP 	 3 	 example for
+6 	 3 	 ((S\NP)/(S\NP))/NP 	 2 	 uses for
+8 	 6 	 ((S[dcl]\NP)/PP)/NP 	 3 	 terms uses
+8 	 7 	 N/N 	 1 	 terms metric
+9 	 6 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for uses
+12 	 9 	 PP/NP 	 1 	 bodies for
+12 	 10 	 NP[nb]/N 	 1 	 bodies its
+12 	 11 	 N/N 	 1 	 bodies automobile
+15 	 9 	 PP/NP 	 1 	 trains for
+15 	 10 	 NP[nb]/N 	 1 	 trains its
+15 	 14 	 N/N 	 1 	 trains power
+<\s>
+<s id="wsj_0676.15"> 17
+3 	 1 	 (S/S)/NP 	 2 	 advertising In
+3 	 2 	 N/N 	 1 	 advertising auto
+7 	 9 	 (NP\NP)/NP 	 1 	 items as
+7 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 items are
+7 	 13 	 S[pss]\NP 	 1 	 items described <XB>
+9 	 8 	 (NP\NP)/(NP\NP) 	 2 	 as such
+10 	 9 	 (NP\NP)/NP 	 2 	 wheelbases as
+11 	 1 	 (S/S)/NP 	 1 	 are In
+11 	 5 	 S/S 	 1 	 are however
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 are still
+13 	 11 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 described are
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 described in
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 inches in
+<\s>
+<s id="wsj_0676.16"> 12
+1 	 0 	 N/N 	 1 	 makers Farm-machine
+1 	 3 	 (NP\NP)/NP 	 1 	 makers as
+1 	 7 	 S[dcl]\NP 	 1 	 makers work
+3 	 2 	 (NP\NP)/(NP\NP) 	 2 	 as such
+4 	 3 	 (NP\NP)/NP 	 2 	 Caterpillar as
+6 	 3 	 (NP\NP)/NP 	 2 	 Deere as
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 work in
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 system in
+11 	 9 	 NP[nb]/N 	 1 	 system the
+11 	 10 	 N/N 	 1 	 system metric
+<\s>
+<s id="wsj_0676.17"> 8
+2 	 0 	 NP[nb]/N 	 1 	 industry The
+2 	 1 	 N/N 	 1 	 industry liquor
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 industry went
+2 	 4 	 S[adj]\NP 	 1 	 industry metric <XB>
+3 	 7 	 ((S\NP)\(S\NP))\NP 	 2 	 went ago
+4 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 metric went
+6 	 5 	 N/N 	 1 	 years 10
+6 	 7 	 ((S\NP)\(S\NP))\NP 	 3 	 years ago
+<\s>
+<s id="wsj_0676.18"> 13
+1 	 0 	 NP[nb]/N 	 1 	 Pentagon The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Pentagon has
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 Pentagon led <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 led has
+3 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 led as
+5 	 3 	 (S[pt]\NP)/NP 	 2 	 charge led
+5 	 4 	 NP[nb]/N 	 1 	 charge the
+8 	 7 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 as particularly
+10 	 9 	 N/N 	 1 	 alliances military
+10 	 11 	 S[dcl]\NP 	 1 	 alliances spread
+11 	 8 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 spread as
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 spread world-wide
+<\s>
+<s id="wsj_0676.19"> 21
+2 	 0 	 N/N 	 1 	 systems New
+2 	 1 	 N/N 	 1 	 systems weapons
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 systems will
+2 	 5 	 S[adj]\NP 	 1 	 systems around <XB>
+3 	 11 	 (S[dcl]\S[dcl])/NP 	 1 	 will notes
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+4 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 be until
+5 	 4 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 around be
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 century until
+9 	 7 	 NP[nb]/N 	 1 	 century the
+9 	 8 	 N/N 	 1 	 century next
+13 	 11 	 (S[dcl]\S[dcl])/NP 	 2 	 Tascher notes
+13 	 12 	 N/N 	 1 	 Tascher John
+17 	 15 	 NP[nb]/N 	 1 	 Department the
+17 	 16 	 N/N 	 1 	 Department Defense
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 Department 's
+20 	 11 	 (S[dcl]\S[dcl])/NP 	 2 	 coordinator notes
+20 	 18 	 (NP[nb]/N)\NP 	 1 	 coordinator 's
+20 	 19 	 N/N 	 1 	 coordinator metric
+<\s>
+<s id="wsj_0676.20"> 20
+5 	 2 	 (S/S)/NP 	 2 	 makers like
+5 	 3 	 NP[nb]/N 	 1 	 makers the
+5 	 4 	 N/N 	 1 	 makers auto
+8 	 7 	 (S/S)/(S[ng]\NP) 	 2 	 dealing when
+9 	 8 	 (S[ng]\NP)/PP 	 2 	 with dealing
+11 	 9 	 PP/NP 	 1 	 Everyman with
+11 	 10 	 N/N 	 1 	 Everyman Mr.
+13 	 12 	 NP[nb]/N 	 1 	 Pentagon the
+13 	 14 	 (S[dcl]\NP)/PP 	 1 	 Pentagon sticks
+14 	 0 	 S/S 	 1 	 sticks Still
+14 	 2 	 (S/S)/NP 	 1 	 sticks like
+14 	 7 	 (S/S)/(S[ng]\NP) 	 1 	 sticks when
+15 	 14 	 (S[dcl]\NP)/PP 	 2 	 to sticks
+17 	 15 	 PP/NP 	 1 	 tried to
+17 	 16 	 NP[nb]/N 	 1 	 tried the
+19 	 15 	 PP/NP 	 1 	 true to
+19 	 16 	 NP[nb]/N 	 1 	 true the
+<\s>
+<s id="wsj_0676.21"> 10
+0 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Soldiers are
+0 	 5 	 S[pss]\NP 	 1 	 Soldiers measured <XB>
+2 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 sailors are
+2 	 5 	 S[pss]\NP 	 1 	 sailors measured <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 are still
+5 	 3 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 measured are
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 measured in
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 inches in
+9 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 pounds in
+<\s>

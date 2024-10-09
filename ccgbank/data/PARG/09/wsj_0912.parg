@@ -1,0 +1,52 @@
+<s id="wsj_0912.1"> 15
+2 	 0 	 N/N 	 1 	 Corp. Rochester
+2 	 1 	 N/N 	 1 	 Corp. Telephone
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Corp. said
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it agreed
+4 	 7 	 (S[b]\NP)/NP 	 1 	 it buy <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 agreed said
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 buy to
+10 	 7 	 (S[b]\NP)/NP 	 2 	 Co. buy
+10 	 8 	 N/N 	 1 	 Co. Viroqua
+10 	 9 	 N/N 	 1 	 Co. Telephone
+10 	 11 	 (NP\NP)/NP 	 1 	 Co. of
+12 	 11 	 (NP\NP)/NP 	 2 	 Viroqua of
+14 	 11 	 (NP\NP)/NP 	 2 	 Wis of
+<\s>
+<s id="wsj_0912.2"> 4
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Terms were
+0 	 3 	 S[pss]\NP 	 1 	 Terms disclosed <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 were n't
+3 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 disclosed were
+<\s>
+<s id="wsj_0912.3"> 19
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Rochester will
+0 	 2 	 ((S[b]\NP)/PP)/NP 	 1 	 Rochester exchange <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 exchange will
+3 	 2 	 ((S[b]\NP)/PP)/NP 	 3 	 shares exchange
+3 	 4 	 (NP\NP)/NP 	 1 	 shares of
+7 	 4 	 (NP\NP)/NP 	 2 	 stock of
+7 	 5 	 NP[nb]/N 	 1 	 stock its
+7 	 6 	 N/N 	 1 	 stock common
+8 	 2 	 ((S[b]\NP)/PP)/NP 	 2 	 for exchange
+10 	 8 	 PP/NP 	 1 	 shares for
+10 	 9 	 NP[nb]/N 	 1 	 shares all
+10 	 11 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+10 	 12 	 (NP\NP)/NP 	 1 	 shares of
+14 	 12 	 (NP\NP)/NP 	 2 	 Telephone of
+14 	 13 	 N/N 	 1 	 Telephone Viroqua
+18 	 12 	 (NP\NP)/NP 	 2 	 company of
+18 	 16 	 NP[nb]/N 	 1 	 company a
+18 	 17 	 N/N 	 1 	 company family-owned
+<\s>
+<s id="wsj_0912.4"> 9
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Viroqua serves
+3 	 2 	 (N/N)/(N/N) 	 2 	 3,000 about
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 lines serves
+5 	 3 	 N/N 	 1 	 lines 3,000
+5 	 4 	 N/N 	 1 	 lines access
+5 	 6 	 (NP\NP)/NP 	 1 	 lines in
+8 	 6 	 (NP\NP)/NP 	 2 	 Wisconsin in
+8 	 7 	 N/N 	 1 	 Wisconsin western
+<\s>

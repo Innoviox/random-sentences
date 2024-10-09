@@ -1,0 +1,79 @@
+<s id="wsj_2143.1"> 16
+2 	 0 	 N/N 	 1 	 Inc. Amcore
+2 	 1 	 N/N 	 1 	 Inc. Financial
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 it agreed
+4 	 7 	 (S[b]\NP)/NP 	 1 	 it acquire <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 agreed said
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+7 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 acquire in
+8 	 9 	 ((N/N)\(N/N))/NP 	 2 	 Central of
+10 	 9 	 ((N/N)\(N/N))/NP 	 3 	 Illinois of
+11 	 7 	 (S[b]\NP)/NP 	 2 	 Inc. acquire
+11 	 8 	 N/N 	 1 	 Inc. Central
+15 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 swap in
+15 	 13 	 NP[nb]/N 	 1 	 swap a
+15 	 14 	 N/N 	 1 	 swap stock
+<\s>
+<s id="wsj_2143.2"> 29
+0 	 1 	 (NP\NP)/NP 	 1 	 Shareholders of
+0 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Shareholders will
+0 	 15 	 (S[b]\NP)/NP 	 1 	 Shareholders receive <XB>
+2 	 1 	 (NP\NP)/NP 	 2 	 Central of
+7 	 1 	 (NP\NP)/NP 	 2 	 company of
+7 	 4 	 NP[nb]/N 	 1 	 company a
+7 	 5 	 N/N 	 1 	 company bank
+7 	 6 	 N/N 	 1 	 company holding
+7 	 8 	 S[pss]\NP 	 1 	 company based <XB>
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Sterling in
+12 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Ill. in
+14 	 28 	 (S[dcl]\S[dcl])\NP 	 1 	 will said
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 receive will
+17 	 15 	 (S[b]\NP)/NP 	 2 	 stock receive
+17 	 16 	 N/N 	 1 	 stock Amcore
+17 	 18 	 S[adj]\NP 	 1 	 stock equal <XB>
+18 	 19 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 equal to
+21 	 20 	 (NP/NP)/(NP/NP) 	 2 	 times 10
+23 	 19 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 's to
+23 	 21 	 NP/NP 	 1 	 's times
+23 	 22 	 N/N 	 1 	 's Central
+23 	 24 	 NP\NP 	 1 	 's 1989
+23 	 25 	 NP\NP 	 1 	 's earnings
+27 	 28 	 (S[dcl]\S[dcl])\NP 	 2 	 Amcore said
+<\s>
+<s id="wsj_2143.3"> 13
+4 	 0 	 (S/S)/NP 	 2 	 months For
+4 	 1 	 NP[nb]/N 	 1 	 months the
+4 	 2 	 N/N 	 1 	 months first
+4 	 3 	 N/N 	 1 	 months nine
+4 	 5 	 (NP\NP)/NP 	 1 	 months of
+6 	 5 	 (NP\NP)/NP 	 2 	 1989 of
+8 	 9 	 (S[dcl]\NP)/NP 	 1 	 Central earned
+9 	 0 	 (S/S)/NP 	 1 	 earned For
+10 	 9 	 (S[dcl]\NP)/NP 	 2 	 $ earned
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 2
+<\s>
+<s id="wsj_2143.4"> 14
+0 	 8 	 (S[dcl]\NP)/NP 	 1 	 Amcore has
+6 	 2 	 NP/NP 	 1 	 company also
+6 	 3 	 NP[nb]/N 	 1 	 company a
+6 	 4 	 N/N 	 1 	 company bank
+6 	 5 	 N/N 	 1 	 company holding
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 company has
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 assets has
+9 	 10 	 (NP\NP)/NP 	 1 	 assets of
+11 	 10 	 (NP\NP)/NP 	 2 	 $ of
+13 	 11 	 N/N[num] 	 1 	 billion $
+13 	 12 	 N/N 	 1 	 billion 1.06
+<\s>
+<s id="wsj_2143.5"> 7
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Central 's
+2 	 1 	 (NP[nb]/N)\NP 	 1 	 assets 's
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 assets are
+4 	 3 	 (S[dcl]\NP)/NP 	 2 	 $ are
+6 	 4 	 N/N[num] 	 1 	 million $
+6 	 5 	 N/N 	 1 	 million 240
+<\s>

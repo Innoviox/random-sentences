@@ -1,0 +1,134 @@
+<s id="wsj_2020.1"> 18
+2 	 0 	 N/N 	 1 	 Jelenic Robert
+2 	 1 	 N/N 	 1 	 Jelenic M.
+2 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Jelenic was
+2 	 7 	 (S[pss]\NP)/NP 	 1 	 Jelenic named <XB>
+4 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 39 was
+4 	 7 	 (S[pss]\NP)/NP 	 1 	 39 named <XB>
+7 	 6 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+8 	 7 	 (S[pss]\NP)/NP 	 2 	 president named
+8 	 13 	 (NP\NP)/NP 	 1 	 president of
+12 	 7 	 (S[pss]\NP)/NP 	 2 	 officer named
+12 	 10 	 N/N 	 1 	 officer chief
+12 	 11 	 N/N 	 1 	 officer operating
+12 	 13 	 (NP\NP)/NP 	 1 	 officer of
+16 	 15 	 (N/N)/(N/N) 	 2 	 held closely
+17 	 13 	 (NP\NP)/NP 	 2 	 publisher of
+17 	 14 	 NP[nb]/N 	 1 	 publisher this
+17 	 16 	 N/N 	 1 	 publisher held
+<\s>
+<s id="wsj_2020.2"> 10
+1 	 0 	 NP[nb]/N 	 1 	 post The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 post had
+1 	 4 	 S[adj]\NP 	 1 	 post vacant <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+3 	 5 	 ((S\NP)\(S\NP))/NP 	 2 	 been for
+4 	 3 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 vacant been
+6 	 7 	 (NP/NP)\(S[adj]\NP) 	 2 	 more than
+9 	 5 	 ((S\NP)\(S\NP))/NP 	 3 	 year for
+9 	 7 	 (NP/NP)\(S[adj]\NP) 	 1 	 year than
+9 	 8 	 NP[nb]/N 	 1 	 year a
+<\s>
+<s id="wsj_2020.3"> 9
+1 	 0 	 N/N 	 1 	 Jelenic Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Jelenic had
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 Jelenic been <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+6 	 3 	 (S[pt]\NP)/NP 	 2 	 president been
+6 	 4 	 N/N 	 1 	 president executive
+6 	 5 	 N/N 	 1 	 president vice
+6 	 7 	 (NP\NP)/NP 	 1 	 president for
+8 	 7 	 (NP\NP)/NP 	 2 	 operations for
+<\s>
+<s id="wsj_2020.4"> 28
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+5 	 3 	 N/N 	 1 	 II Ralph
+5 	 4 	 N/N 	 1 	 II Ingersoll
+5 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 II said
+7 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 43 said
+9 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 chairman said
+12 	 11 	 N/N 	 1 	 executive chief
+12 	 14 	 (S[dcl]\NP)/S[dcl] 	 1 	 executive said
+14 	 0 	 (S/S)/NP 	 1 	 said In
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he would
+15 	 17 	 (S[b]\NP)/NP 	 1 	 he take <XB>
+16 	 14 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 take would
+17 	 18 	 (S\NP)\(S\NP) 	 2 	 take on
+17 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 take as
+20 	 17 	 (S[b]\NP)/NP 	 2 	 responsibilities take
+20 	 19 	 N/N 	 1 	 responsibilities additional
+22 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 editor as
+22 	 23 	 (NP\NP)/NP 	 1 	 editor in
+22 	 25 	 (NP\NP)/NP 	 1 	 editor of
+24 	 23 	 (NP\NP)/NP 	 2 	 chief in
+27 	 25 	 (NP\NP)/NP 	 2 	 company of
+27 	 26 	 NP[nb]/N 	 1 	 company the
+<\s>
+<s id="wsj_2020.5"> 7
+1 	 0 	 N/N 	 1 	 Wilpers John
+1 	 2 	 (S[dcl]\NP)/PP 	 1 	 Wilpers resigned
+3 	 2 	 (S[dcl]\NP)/PP 	 2 	 as resigned
+4 	 3 	 PP/NP 	 1 	 editor as
+4 	 5 	 (NP\NP)/NP 	 1 	 editor in
+6 	 5 	 (NP\NP)/NP 	 2 	 chief in
+<\s>
+<s id="wsj_2020.6"> 18
+1 	 0 	 N/N 	 1 	 Ingersoll Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Ingersoll remains
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 editor remains
+3 	 4 	 (NP\NP)/NP 	 1 	 editor in
+3 	 6 	 (NP\NP)/NP 	 1 	 editor of
+5 	 4 	 (NP\NP)/NP 	 2 	 chief in
+8 	 7 	 NP[nb]/N 	 1 	 company the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 company 's
+11 	 6 	 (NP\NP)/NP 	 2 	 launched of
+11 	 9 	 (NP[nb]/N)\NP 	 1 	 launched 's
+11 	 10 	 N/N 	 1 	 launched recently
+11 	 12 	 N\N 	 1 	 launched daily
+17 	 6 	 (NP\NP)/NP 	 2 	 Sun of
+17 	 14 	 NP[nb]/N 	 1 	 Sun the
+17 	 15 	 N/N 	 1 	 Sun St.
+17 	 16 	 N/N 	 1 	 Sun Louis
+<\s>
+<s id="wsj_2020.7"> 19
+4 	 2 	 N/N 	 1 	 Clifton Jean
+4 	 3 	 N/N 	 1 	 Clifton B.
+4 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Clifton was
+4 	 9 	 (S[pss]\NP)/NP 	 1 	 Clifton named <XB>
+6 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 28 was
+6 	 9 	 (S[pss]\NP)/NP 	 1 	 28 named <XB>
+8 	 0 	 S/S 	 1 	 was Also
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+12 	 9 	 (S[pss]\NP)/NP 	 2 	 president named
+12 	 10 	 N/N 	 1 	 president executive
+12 	 11 	 N/N 	 1 	 president vice
+14 	 9 	 (S[pss]\NP)/NP 	 2 	 treasurer named
+18 	 9 	 (S[pss]\NP)/NP 	 2 	 officer named
+18 	 16 	 N/N 	 1 	 officer chief
+18 	 17 	 N/N 	 1 	 officer financial
+<\s>
+<s id="wsj_2020.8"> 11
+1 	 0 	 N/N 	 1 	 Applebaum Michael
+1 	 2 	 S[dcl]\NP 	 1 	 Applebaum resigned
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 resigned after
+4 	 5 	 (NP/NP)\(S[adj]\NP) 	 2 	 less than
+7 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 year after
+7 	 5 	 (NP/NP)\(S[adj]\NP) 	 1 	 year than
+7 	 6 	 NP[nb]/N 	 1 	 year a
+7 	 8 	 (NP\NP)/NP 	 1 	 year in
+10 	 8 	 (NP\NP)/NP 	 2 	 posts in
+10 	 9 	 NP[nb]/N 	 1 	 posts the
+<\s>
+<s id="wsj_2020.9"> 10
+1 	 0 	 N/N 	 1 	 Clifton Ms.
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Clifton had
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 Clifton been <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+6 	 3 	 (S[pt]\NP)/NP 	 2 	 assistant been
+6 	 4 	 N/N 	 1 	 assistant executive
+6 	 5 	 N/N 	 1 	 assistant financial
+6 	 7 	 (NP\NP)/NP 	 1 	 assistant to
+9 	 7 	 (NP\NP)/NP 	 2 	 chairman to
+9 	 8 	 NP[nb]/N 	 1 	 chairman the
+<\s>

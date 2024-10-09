@@ -1,0 +1,85 @@
+<s id="wsj_0023.1"> 22
+3 	 0 	 N/N 	 1 	 Co. F.H.
+3 	 1 	 N/N 	 1 	 Co. Faulding
+3 	 2 	 N/N 	 1 	 Co. &
+3 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 Co. said
+8 	 5 	 NP[nb]/N 	 1 	 company an
+8 	 6 	 N/N 	 1 	 company Australian
+8 	 7 	 N/N 	 1 	 company pharmaceuticals
+8 	 10 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+14 	 11 	 NP[nb]/N 	 1 	 affiliate its
+14 	 12 	 N/N 	 1 	 affiliate Moleculon
+14 	 13 	 N/N 	 1 	 affiliate Inc.
+14 	 15 	 ((S[dcl]\NP)/PP)/NP 	 1 	 affiliate acquired
+15 	 10 	 (S[dcl]\NP)/S[dcl] 	 2 	 acquired said
+17 	 15 	 ((S[dcl]\NP)/PP)/NP 	 3 	 Inc. acquired
+17 	 16 	 N/N 	 1 	 Inc. Kalipharma
+18 	 15 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for acquired
+19 	 18 	 PP/NP 	 1 	 $ for
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 23
+<\s>
+<s id="wsj_0023.2"> 14
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Kalipharma is
+4 	 3 	 (N/N)/(N/N) 	 2 	 Jersey-based New
+6 	 1 	 (S[dcl]\NP)/NP 	 2 	 concern is
+6 	 2 	 NP[nb]/N 	 1 	 concern a
+6 	 4 	 N/N 	 1 	 concern Jersey-based
+6 	 5 	 N/N 	 1 	 concern pharmaceuticals
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 concern that
+6 	 8 	 (S[dcl]\NP)/NP 	 1 	 concern sells <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 sells that
+8 	 10 	 ((S\NP)\(S\NP))/NP 	 2 	 sells under
+9 	 8 	 (S[dcl]\NP)/NP 	 2 	 products sells
+13 	 10 	 ((S\NP)\(S\NP))/NP 	 3 	 label under
+13 	 11 	 NP[nb]/N 	 1 	 label the
+13 	 12 	 N/N 	 1 	 label Purepac
+<\s>
+<s id="wsj_0023.3"> 21
+0 	 1 	 (S[dcl]\NP)/S[dcl] 	 1 	 Faulding said
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 it owns
+2 	 12 	 (S[dcl]\NP)/NP 	 1 	 it has <XU>
+3 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 owns said
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 % owns
+5 	 4 	 N/N 	 1 	 % 33
+5 	 6 	 (NP\NP)/NP 	 1 	 % of
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 Moleculon 's
+10 	 6 	 (NP\NP)/NP 	 2 	 stock of
+10 	 8 	 (NP[nb]/N)\NP 	 1 	 stock 's
+10 	 9 	 N/N 	 1 	 stock voting
+12 	 1 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 agreement has
+14 	 13 	 NP[nb]/N 	 1 	 agreement an
+14 	 16 	 (S[b]\NP)/NP 	 1 	 agreement acquire <XB>
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+20 	 16 	 (S[b]\NP)/NP 	 2 	 % acquire
+20 	 17 	 NP[nb]/N 	 1 	 % an
+20 	 18 	 N/N 	 1 	 % additional
+20 	 19 	 N/N 	 1 	 % 19
+<\s>
+<s id="wsj_0023.4"> 27
+1 	 0 	 NP[nb]/N 	 1 	 stake That
+1 	 4 	 (NP\NP)/NP 	 1 	 stake with
+1 	 11 	 ((S[dcl]\NP)/NP)/NP 	 1 	 stake gives
+4 	 3 	 (NP\NP)/(NP\NP) 	 2 	 with together
+9 	 4 	 (NP\NP)/NP 	 2 	 holdings with
+9 	 5 	 NP[nb]/N 	 1 	 holdings its
+9 	 6 	 N/N 	 1 	 holdings convertible
+9 	 7 	 N/N 	 1 	 holdings preferred
+9 	 8 	 N/N 	 1 	 holdings stock
+12 	 11 	 ((S[dcl]\NP)/NP)/NP 	 3 	 Faulding gives
+14 	 11 	 ((S[dcl]\NP)/NP)/NP 	 2 	 right gives
+14 	 13 	 NP[nb]/N 	 1 	 right the
+14 	 16 	 (S[b]\NP)/NP 	 1 	 right increase <XB>
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 increase to
+16 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 increase to
+18 	 16 	 (S[b]\NP)/NP 	 2 	 interest increase
+18 	 17 	 NP[nb]/N 	 1 	 interest its
+21 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 % to
+21 	 20 	 N/N 	 1 	 % 70
+21 	 22 	 (NP\NP)/NP 	 1 	 % of
+23 	 24 	 (NP[nb]/N)\NP 	 2 	 Moleculon 's
+26 	 22 	 (NP\NP)/NP 	 2 	 stock of
+26 	 24 	 (NP[nb]/N)\NP 	 1 	 stock 's
+26 	 25 	 N/N 	 1 	 stock voting
+<\s>

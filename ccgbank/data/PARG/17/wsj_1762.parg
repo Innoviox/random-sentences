@@ -1,0 +1,96 @@
+<s id="wsj_1762.1"> 24
+1 	 0 	 N/N 	 1 	 Corp. USX
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Corp. declined
+6 	 2 	 (S[dcl]\NP)/NP 	 2 	 request declined
+6 	 3 	 NP[nb]/N 	 1 	 request a
+6 	 4 	 N/N 	 1 	 request United
+6 	 5 	 N/N 	 1 	 request Steelworkers
+6 	 7 	 (NP\NP)/NP 	 1 	 request for
+9 	 7 	 (NP\NP)/NP 	 2 	 reopening for
+9 	 8 	 NP[nb]/N 	 1 	 reopening a
+9 	 10 	 (NP\NP)/NP 	 1 	 reopening of
+14 	 10 	 (NP\NP)/NP 	 2 	 contract of
+14 	 11 	 NP[nb]/N 	 1 	 contract its
+14 	 12 	 N/N 	 1 	 contract four-year
+14 	 13 	 N/N 	 1 	 contract labor
+14 	 15 	 (NP\NP)/(S[dcl]\NP) 	 1 	 contract that
+14 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 contract is <XB>
+14 	 17 	 (S[adj]\NP)/(S[to]\NP) 	 1 	 contract due <XB>
+16 	 15 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is that
+17 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 due is
+18 	 17 	 (S[adj]\NP)/(S[to]\NP) 	 2 	 to due
+19 	 18 	 (S[to]\NP)/(S[b]\NP) 	 2 	 expire to
+19 	 20 	 ((S\NP)\(S\NP))/N[num] 	 2 	 expire Jan.
+20 	 23 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 Jan. 1991
+21 	 20 	 ((S\NP)\(S\NP))/N[num] 	 3 	 31 Jan.
+<\s>
+<s id="wsj_1762.2"> 30
+1 	 0 	 NP[nb]/N 	 1 	 union The
+1 	 5 	 (S[dcl]\NP)/S[bem] 	 1 	 union requested
+3 	 2 	 ((S\NP)/(S\NP))/NP 	 3 	 Oct. on
+4 	 3 	 N/N[num] 	 1 	 5 Oct.
+5 	 2 	 ((S\NP)/(S\NP))/NP 	 2 	 requested on
+6 	 5 	 (S[dcl]\NP)/S[bem] 	 2 	 that requested
+8 	 7 	 NP[nb]/N 	 1 	 contract the
+8 	 10 	 S[pss]\NP 	 1 	 contract reopened <XB>
+8 	 12 	 (S[b]\NP)/NP 	 1 	 contract restore <XB>
+9 	 6 	 S[bem]/S[b] 	 1 	 be that
+10 	 9 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reopened be
+12 	 11 	 (S[to]\NP)/(S[b]\NP) 	 2 	 restore to
+14 	 12 	 (S[b]\NP)/NP 	 2 	 pay restore
+14 	 13 	 NP[nb]/N 	 1 	 pay all
+14 	 17 	 (NP\NP)/(S[dcl]/NP) 	 1 	 pay that
+14 	 20 	 (S[dcl]\NP)/NP 	 2 	 pay gave <XU>
+16 	 12 	 (S[b]\NP)/NP 	 2 	 benefits restore
+16 	 13 	 NP[nb]/N 	 1 	 benefits all
+16 	 17 	 (NP\NP)/(S[dcl]/NP) 	 1 	 benefits that
+16 	 20 	 (S[dcl]\NP)/NP 	 2 	 benefits gave <XU>
+19 	 18 	 NP[nb]/N 	 1 	 union the
+19 	 20 	 (S[dcl]\NP)/NP 	 1 	 union gave
+20 	 17 	 (NP\NP)/(S[dcl]/NP) 	 2 	 gave that
+20 	 21 	 (S\NP)\(S\NP) 	 2 	 gave up
+20 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 gave in
+27 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 rounds in
+27 	 23 	 NP[nb]/N 	 1 	 rounds the
+27 	 24 	 N/N 	 1 	 rounds 1982-83
+27 	 26 	 N/N 	 1 	 rounds 1986-87
+27 	 28 	 (NP\NP)/NP 	 1 	 rounds of
+29 	 28 	 (NP\NP)/NP 	 2 	 bargaining of
+<\s>
+<s id="wsj_1762.3"> 17
+3 	 0 	 NP[nb]/N 	 1 	 spokeman A
+3 	 1 	 N/N 	 1 	 spokeman United
+3 	 2 	 N/N 	 1 	 spokeman Steelworkers
+3 	 4 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokeman said
+6 	 5 	 N/N 	 1 	 Williams Lynn
+6 	 13 	 (S[dcl]\NP)/PP 	 1 	 Williams was
+9 	 8 	 NP[nb]/N 	 1 	 union the
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 union 's
+11 	 10 	 (NP[nb]/N)\NP 	 1 	 president 's
+11 	 13 	 (S[dcl]\NP)/PP 	 1 	 president was
+13 	 4 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+15 	 13 	 (S[dcl]\NP)/PP 	 2 	 of was
+15 	 14 	 PP/PP 	 1 	 of out
+16 	 15 	 PP/NP 	 1 	 town of
+<\s>
+<s id="wsj_1762.4"> 19
+1 	 0 	 NP[nb]/N 	 1 	 union The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 union wo
+1 	 4 	 (S[b]\NP)/PP 	 1 	 union respond <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 wo n't
+2 	 18 	 (S[dcl]\S[dcl])\NP 	 1 	 wo said
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 respond wo
+4 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 respond until
+5 	 4 	 (S[b]\NP)/PP 	 2 	 to respond
+8 	 5 	 PP/NP 	 1 	 statement to
+8 	 6 	 NP[nb]/N 	 1 	 statement the
+8 	 7 	 N/N 	 1 	 statement USX
+11 	 10 	 N/N 	 1 	 Williams Mr.
+11 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Williams has
+11 	 13 	 (S[pt]\NP)/NP 	 1 	 Williams studied <XB>
+12 	 9 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 has until
+13 	 12 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 studied has
+14 	 13 	 (S[pt]\NP)/NP 	 2 	 it studied
+17 	 16 	 NP[nb]/N 	 1 	 spokesman the
+17 	 18 	 (S[dcl]\S[dcl])\NP 	 2 	 spokesman said
+<\s>

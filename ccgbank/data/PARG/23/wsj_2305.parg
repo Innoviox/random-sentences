@@ -1,0 +1,80 @@
+<s id="wsj_2305.1"> 29
+1 	 0 	 NP[nb]/N 	 1 	 Treasury The
+1 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Treasury plans
+1 	 4 	 (S[b]\NP)/NP 	 1 	 Treasury raise <XB>
+1 	 13 	 (S[ng]\NP)/NP 	 1 	 Treasury selling <XB>
+1 	 22 	 (S[ng]\NP)/NP 	 1 	 Treasury redeeming <XU>
+3 	 2 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to plans
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 raise to
+4 	 11 	 (S\NP)\(S\NP) 	 2 	 raise Thursday
+4 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 raise by
+5 	 4 	 (S[b]\NP)/NP 	 2 	 $ raise
+5 	 8 	 (NP\NP)/NP 	 1 	 $ in
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 175
+10 	 8 	 (NP\NP)/NP 	 2 	 cash in
+10 	 9 	 N/N 	 1 	 cash new
+13 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 selling by
+15 	 13 	 (S[ng]\NP)/NP 	 2 	 $ selling
+15 	 14 	 N/N 	 1 	 $ about
+15 	 18 	 (NP\NP)/NP 	 1 	 $ of
+17 	 15 	 N/N[num] 	 1 	 billion $
+17 	 16 	 N/N 	 1 	 billion 9.75
+20 	 18 	 (NP\NP)/NP 	 2 	 bills of
+20 	 19 	 N/N 	 1 	 bills 52-week
+22 	 12 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 redeeming by
+23 	 22 	 (S[ng]\NP)/NP 	 2 	 $ redeeming
+23 	 26 	 (NP\NP)/NP 	 1 	 $ of
+25 	 23 	 N/N[num] 	 1 	 billion $
+25 	 24 	 N/N 	 1 	 billion 9.58
+28 	 26 	 (NP\NP)/NP 	 2 	 bills of
+28 	 27 	 N/N 	 1 	 bills maturing
+<\s>
+<s id="wsj_2305.2"> 14
+1 	 0 	 NP[nb]/N 	 1 	 bills The
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bills will
+1 	 4 	 (S[pss]\NP)/NP 	 1 	 bills dated <XB>
+1 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 bills will <XU>
+1 	 9 	 S[b]\NP 	 1 	 bills mature <XU>
+3 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+4 	 3 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 dated be
+5 	 4 	 (S[pss]\NP)/NP 	 2 	 Oct. dated
+6 	 5 	 N/N[num] 	 1 	 26 Oct.
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 mature will
+9 	 10 	 ((S\NP)\(S\NP))/N[num] 	 2 	 mature Oct.
+10 	 13 	 ((S\NP)\(S\NP))\((S\NP)\(S\NP)) 	 3 	 Oct. 1990
+11 	 10 	 ((S\NP)\(S\NP))/N[num] 	 3 	 25 Oct.
+<\s>
+<s id="wsj_2305.3"> 10
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 They will
+0 	 3 	 (S[adj]\NP)/PP 	 1 	 They available <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be will
+3 	 2 	 (S[b]\NP)/(S[adj]\NP) 	 2 	 available be
+4 	 3 	 (S[adj]\NP)/PP 	 2 	 in available
+6 	 4 	 PP/NP 	 1 	 denominations in
+6 	 5 	 N/N 	 1 	 denominations minimum
+6 	 7 	 (NP\NP)/NP 	 1 	 denominations of
+8 	 7 	 (NP\NP)/NP 	 2 	 $ of
+9 	 8 	 N/N[num] 	 1 	 10,000 $
+<\s>
+<s id="wsj_2305.4"> 19
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Bids must
+0 	 3 	 S[pss]\NP 	 1 	 Bids received <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be must
+3 	 2 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 received be
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 received by
+3 	 8 	 (S\NP)\(S\NP) 	 2 	 received Thursday
+3 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 received at
+3 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 received at <XU>
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 EDT by
+7 	 5 	 N/N 	 1 	 EDT 1
+7 	 6 	 N/N 	 1 	 EDT p.m.
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 Treasury at
+11 	 10 	 NP[nb]/N 	 1 	 Treasury the
+16 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 banks at
+16 	 14 	 N/N 	 1 	 banks Federal
+16 	 15 	 N/N 	 1 	 banks Reserve
+18 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 branches at
+18 	 14 	 N/N 	 1 	 branches Federal
+18 	 15 	 N/N 	 1 	 branches Reserve
+<\s>

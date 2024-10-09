@@ -1,0 +1,68 @@
+<s id="wsj_1833.1"> 22
+2 	 0 	 N/N 	 1 	 Corp. Control
+2 	 1 	 N/N 	 1 	 Corp. Data
+2 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Corp. agreed
+2 	 5 	 (((S[b]\NP)/PP)/PP)/NP 	 1 	 Corp. sell <XB>
+4 	 3 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+10 	 5 	 (((S[b]\NP)/PP)/PP)/NP 	 4 	 plant sell
+10 	 6 	 NP[nb]/N 	 1 	 plant its
+10 	 7 	 N/N 	 1 	 plant idle
+10 	 8 	 N/N 	 1 	 plant supercomputer
+10 	 9 	 N/N 	 1 	 plant manufacturing
+10 	 11 	 NP\NP 	 1 	 plant here
+12 	 5 	 (((S[b]\NP)/PP)/PP)/NP 	 3 	 to sell
+17 	 12 	 PP/NP 	 1 	 Co. to
+17 	 13 	 N/N 	 1 	 Co. Minnesota
+17 	 14 	 N/N 	 1 	 Co. Mining
+17 	 15 	 N/N 	 1 	 Co. &
+17 	 16 	 N/N 	 1 	 Co. Manufacturing
+18 	 5 	 (((S[b]\NP)/PP)/PP)/NP 	 2 	 for sell
+19 	 18 	 PP/NP 	 1 	 $ for
+21 	 19 	 N/N[num] 	 1 	 million $
+21 	 20 	 N/N 	 1 	 million 5.8
+<\s>
+<s id="wsj_1833.2"> 19
+2 	 0 	 NP[nb]/N 	 1 	 agreement The
+2 	 1 	 N/N 	 1 	 agreement tentative
+2 	 3 	 (S[dcl]\NP)/S[for] 	 1 	 agreement calls
+4 	 3 	 (S[dcl]\NP)/S[for] 	 2 	 for calls
+5 	 4 	 (S[for]/(S[to]\NP))/NP 	 2 	 3M for
+5 	 7 	 ((S[b]\NP)/PP)/NP 	 1 	 3M use <XB>
+6 	 4 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 use to
+10 	 7 	 ((S[b]\NP)/PP)/NP 	 3 	 plant use
+10 	 8 	 NP[nb]/N 	 1 	 plant the
+10 	 9 	 N/N 	 1 	 plant 115,000-square-foot
+13 	 7 	 ((S[b]\NP)/PP)/NP 	 3 	 acres use
+13 	 12 	 N/N 	 1 	 acres 19
+13 	 14 	 (NP\NP)/NP 	 1 	 acres of
+15 	 14 	 (NP\NP)/NP 	 2 	 land of
+16 	 7 	 ((S[b]\NP)/PP)/NP 	 2 	 for use
+18 	 16 	 PP/NP 	 1 	 laboratories for
+18 	 17 	 N/N 	 1 	 laboratories research
+<\s>
+<s id="wsj_1833.3"> 22
+1 	 0 	 N/N 	 1 	 Data Control
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Data has
+1 	 4 	 (S[ng]\NP)/NP 	 1 	 Data seeking <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been has
+4 	 3 	 (S[pt]\NP)/(S[ng]\NP) 	 2 	 seeking been
+4 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 seeking since
+6 	 4 	 (S[ng]\NP)/NP 	 2 	 buyer seeking
+6 	 5 	 NP[nb]/N 	 1 	 buyer a
+6 	 7 	 (NP\NP)/NP 	 1 	 buyer for
+9 	 7 	 (NP\NP)/NP 	 2 	 facility for
+9 	 8 	 NP[nb]/N 	 1 	 facility the
+11 	 12 	 (S[dcl]\NP)/NP 	 1 	 it folded
+12 	 10 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 folded since
+12 	 19 	 ((S\NP)\(S\NP))/N 	 2 	 folded this
+18 	 12 	 (S[dcl]\NP)/NP 	 2 	 unit folded
+18 	 13 	 NP[nb]/N 	 1 	 unit its
+18 	 14 	 N/N 	 1 	 unit ETA
+18 	 15 	 N/N 	 1 	 unit Systems
+18 	 16 	 N/N 	 1 	 unit Inc.
+18 	 17 	 N/N 	 1 	 unit supercomputer
+21 	 19 	 ((S\NP)\(S\NP))/N 	 3 	 April this
+21 	 20 	 N/N 	 1 	 April past
+<\s>

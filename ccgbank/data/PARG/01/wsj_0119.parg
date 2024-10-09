@@ -1,0 +1,581 @@
+<s id="wsj_0119.1"> 33
+1 	 0 	 NP[nb]/N 	 1 	 Democrats Some
+1 	 2 	 (NP\NP)/NP 	 1 	 Democrats in
+1 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 Democrats are
+1 	 5 	 (S[ng]\NP)/S[em] 	 1 	 Democrats warning <XB>
+3 	 2 	 (NP\NP)/NP 	 2 	 Congress in
+5 	 4 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 warning are
+6 	 5 	 (S[ng]\NP)/S[em] 	 2 	 that warning
+11 	 7 	 NP[nb]/N 	 1 	 device a
+11 	 8 	 N/N 	 1 	 device complicated
+11 	 9 	 N/N 	 1 	 device new
+11 	 10 	 N/N 	 1 	 device funding
+11 	 12 	 (NP\NP)/NP 	 1 	 device for
+11 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 device could
+11 	 19 	 (S[b]\NP)/PP 	 1 	 device result <XB>
+17 	 12 	 (NP\NP)/NP 	 2 	 agencies for
+17 	 13 	 NP[nb]/N 	 1 	 agencies the
+17 	 14 	 N/N 	 1 	 agencies two
+17 	 15 	 N/N 	 1 	 agencies federal
+17 	 16 	 N/N 	 1 	 agencies antitrust
+18 	 6 	 S[em]/S[dcl] 	 1 	 could that
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 result could
+20 	 19 	 (S[b]\NP)/PP 	 2 	 in result
+22 	 20 	 PP/NP 	 1 	 cutbacks in
+22 	 21 	 N/N 	 1 	 cutbacks further
+22 	 23 	 (NP\NP)/NP 	 1 	 cutbacks in
+26 	 23 	 (NP\NP)/NP 	 2 	 area in
+26 	 24 	 NP[nb]/N 	 1 	 area a
+26 	 25 	 N/N 	 1 	 area regulatory
+26 	 28 	 S[pss]\NP 	 1 	 area reduced <XB>
+28 	 27 	 (S\NP)/(S\NP) 	 2 	 reduced already
+28 	 29 	 (S\NP)\(S\NP) 	 2 	 reduced sharply
+28 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 reduced in
+32 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 years in
+32 	 31 	 N/N 	 1 	 years recent
+<\s>
+<s id="wsj_0119.2"> 33
+2 	 0 	 NP[nb]/N 	 1 	 mechanism The
+2 	 1 	 N/N 	 1 	 mechanism funding
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 mechanism which
+2 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 mechanism has <XB>
+2 	 6 	 (S[pt]\NP)/NP 	 1 	 mechanism received <XB>
+2 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 mechanism is <XU>
+2 	 11 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 mechanism expected <XU>
+2 	 14 	 S[pss]\NP 	 1 	 mechanism signed <XU>
+2 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 mechanism would
+2 	 20 	 (S[b]\NP)/NP 	 1 	 mechanism affect <XB>
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 received has
+8 	 6 	 (S[pt]\NP)/NP 	 2 	 approval received
+8 	 7 	 N/N 	 1 	 approval congressional
+10 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is which
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+12 	 11 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to expected
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+14 	 13 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 signed be
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 signed by
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 Bush by
+17 	 16 	 N/N 	 1 	 Bush President
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 affect would
+23 	 20 	 (S[b]\NP)/NP 	 2 	 operations affect
+23 	 21 	 NP[nb]/N 	 1 	 operations the
+23 	 22 	 N/N 	 1 	 operations antitrust
+23 	 24 	 (NP\NP)/NP 	 1 	 operations of
+27 	 24 	 (NP\NP)/NP 	 2 	 Department of
+27 	 25 	 NP[nb]/N 	 1 	 Department the
+27 	 26 	 N/N 	 1 	 Department Justice
+32 	 24 	 (NP\NP)/NP 	 2 	 Commission of
+32 	 29 	 NP[nb]/N 	 1 	 Commission the
+32 	 30 	 N/N 	 1 	 Commission Federal
+32 	 31 	 N/N 	 1 	 Commission Trade
+<\s>
+<s id="wsj_0119.3"> 32
+2 	 0 	 (S/S)/NP 	 2 	 part As
+2 	 1 	 NP[nb]/N 	 1 	 part a
+2 	 3 	 (NP\NP)/NP 	 1 	 part of
+5 	 3 	 (NP\NP)/NP 	 2 	 efforts of
+5 	 4 	 N/N 	 1 	 efforts overall
+5 	 7 	 (S[b]\NP)/NP 	 1 	 efforts reduce <XB>
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 reduce to
+8 	 7 	 (S[b]\NP)/NP 	 2 	 spending reduce
+10 	 11 	 (S[dcl]\NP)/NP 	 1 	 Congress cut
+11 	 0 	 (S/S)/NP 	 1 	 cut As
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 cut by
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 $ by
+15 	 13 	 N/N[num] 	 1 	 million $
+15 	 14 	 N/N 	 1 	 million 30
+18 	 16 	 NP[nb]/N 	 1 	 administration the
+18 	 17 	 N/N 	 1 	 administration Bush
+18 	 19 	 (NP[nb]/N)\NP 	 2 	 administration 's
+20 	 11 	 (S[dcl]\NP)/NP 	 2 	 request cut
+20 	 19 	 (NP[nb]/N)\NP 	 1 	 request 's
+20 	 21 	 (NP\NP)/NP 	 1 	 request for
+23 	 21 	 (NP\NP)/NP 	 2 	 enforcement for
+23 	 22 	 N/N 	 1 	 enforcement antitrust
+23 	 24 	 (NP\NP)/NP 	 1 	 enforcement for
+26 	 24 	 (NP\NP)/NP 	 2 	 1990 for
+26 	 25 	 N/N 	 1 	 1990 fiscal
+26 	 28 	 (NP\NP)/(S[dcl]\NP) 	 1 	 1990 which
+26 	 29 	 S[dcl]\NP 	 1 	 1990 began <XB>
+29 	 28 	 (NP\NP)/(S[dcl]\NP) 	 2 	 began which
+29 	 30 	 ((S\NP)\(S\NP))/N[num] 	 2 	 began Oct.
+31 	 30 	 ((S\NP)\(S\NP))/N[num] 	 3 	 1 Oct.
+<\s>
+<s id="wsj_0119.4"> 36
+1 	 0 	 (S[to]\NP)/(S[b]\NP) 	 2 	 offset To
+3 	 1 	 (S[b]\NP)/NP 	 2 	 reduction offset
+3 	 2 	 NP[nb]/N 	 1 	 reduction the
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 Congress approved
+9 	 8 	 (N/N)/N[num] 	 2 	 20,000 $
+10 	 6 	 (S[dcl]\NP)/NP 	 2 	 fee approved
+10 	 7 	 NP[nb]/N 	 1 	 fee a
+10 	 8 	 (N/N)/N[num] 	 1 	 fee $
+10 	 11 	 (NP\NP)/(S[dcl]/NP) 	 1 	 fee that
+10 	 18 	 (S[b]\NP)/NP 	 2 	 fee pay <XU>
+12 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 investors will
+12 	 18 	 (S[b]\NP)/NP 	 1 	 investors pay <XB>
+14 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 companies will
+14 	 18 	 (S[b]\NP)/NP 	 1 	 companies pay <XB>
+15 	 11 	 (NP\NP)/(S[dcl]/NP) 	 2 	 will that
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+17 	 16 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+18 	 19 	 ((S\NP)\(S\NP))/N 	 2 	 pay each
+20 	 19 	 ((S\NP)\(S\NP))/N 	 3 	 time each
+21 	 22 	 (S[dcl]\NP)/NP 	 1 	 they make
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 filings make
+24 	 23 	 N/N 	 1 	 filings required
+24 	 25 	 (NP\NP)/NP 	 1 	 filings to
+24 	 28 	 (NP\NP)/NP 	 1 	 filings about
+27 	 25 	 (NP\NP)/NP 	 2 	 regulators to
+27 	 26 	 N/N 	 1 	 regulators antitrust
+29 	 28 	 (NP\NP)/NP 	 2 	 mergers about
+31 	 28 	 (NP\NP)/NP 	 2 	 acquisitions about
+35 	 28 	 (NP\NP)/NP 	 2 	 transactions about
+35 	 33 	 N/N 	 1 	 transactions certain
+35 	 34 	 N/N 	 1 	 transactions other
+<\s>
+<s id="wsj_0119.5"> 33
+1 	 0 	 N/N 	 1 	 Democrats Some
+1 	 3 	 S[pss]\NP 	 1 	 Democrats led <XB>
+1 	 15 	 (S[dcl]\NP)/NP 	 1 	 Democrats opposed
+3 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 led by
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 Brooks by
+7 	 5 	 N/N 	 1 	 Brooks Rep.
+7 	 6 	 N/N 	 1 	 Brooks Jack
+7 	 8 	 (NP\NP)/NP 	 1 	 Brooks -LRB-
+9 	 8 	 (NP\NP)/NP 	 2 	 D. -LRB-
+9 	 11 	 NP\NP 	 1 	 D. Texas
+15 	 14 	 (S\NP)/(S\NP) 	 2 	 opposed unsuccessfully
+15 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 opposed because
+17 	 15 	 (S[dcl]\NP)/NP 	 2 	 measure opposed
+17 	 16 	 NP[nb]/N 	 1 	 measure the
+19 	 20 	 (S[dcl]\NP)/S[em] 	 1 	 they fear
+20 	 18 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 fear because
+21 	 20 	 (S[dcl]\NP)/S[em] 	 2 	 that fear
+23 	 22 	 NP[nb]/N 	 1 	 fees the
+23 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 fees may
+23 	 27 	 (S[b]\NP)/PP 	 1 	 fees make <XB>
+24 	 21 	 S[em]/S[dcl] 	 1 	 may that
+24 	 25 	 (S\NP)\(S\NP) 	 2 	 may not
+24 	 26 	 (S\NP)\(S\NP) 	 2 	 may fully
+27 	 24 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 make may
+27 	 28 	 (S\NP)\(S\NP) 	 2 	 make up
+29 	 27 	 (S[b]\NP)/PP 	 2 	 for make
+32 	 29 	 PP/NP 	 1 	 cuts for
+32 	 30 	 NP[nb]/N 	 1 	 cuts the
+32 	 31 	 N/N 	 1 	 cuts budget
+<\s>
+<s id="wsj_0119.6"> 23
+5 	 1 	 N/N 	 1 	 officials Justice
+5 	 2 	 N/N 	 1 	 officials Department
+5 	 4 	 N/N 	 1 	 officials FTC
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 officials said
+6 	 0 	 S/S 	 1 	 said But
+7 	 8 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 they expect
+8 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 expect said
+11 	 8 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 fees expect
+11 	 9 	 NP[nb]/N 	 1 	 fees the
+11 	 10 	 N/N 	 1 	 fees filing
+11 	 13 	 (S[b]\NP)/PP 	 1 	 fees make <XB>
+11 	 21 	 (S[b]\NP)/NP 	 1 	 fees exceed <XU>
+12 	 8 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expect
+13 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+13 	 14 	 (S\NP)\(S\NP) 	 2 	 make up
+15 	 13 	 (S[b]\NP)/PP 	 2 	 for make
+18 	 15 	 PP/NP 	 1 	 reductions for
+18 	 16 	 NP[nb]/N 	 1 	 reductions the
+18 	 17 	 N/N 	 1 	 reductions budget
+21 	 12 	 (S[to]\NP)/(S[b]\NP) 	 2 	 exceed to
+21 	 20 	 (S\NP)/(S\NP) 	 2 	 exceed possibly
+22 	 21 	 (S[b]\NP)/NP 	 2 	 them exceed
+<\s>
+<s id="wsj_0119.7"> 22
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 It could
+0 	 2 	 (S[b]\NP)/(S[to]\NP) 	 1 	 It operate <XB>
+0 	 4 	 (S[b]\NP)/NP 	 1 	 It augment <XB>
+1 	 18 	 (S[dcl]\S[dcl])\NP 	 1 	 could said
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 operate could
+3 	 2 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to operate
+4 	 3 	 (S[to]\NP)/(S[b]\NP) 	 2 	 augment to
+6 	 4 	 (S[b]\NP)/NP 	 2 	 budget augment
+6 	 5 	 NP[nb]/N 	 1 	 budget our
+9 	 8 	 N/N 	 1 	 Rill James
+9 	 18 	 (S[dcl]\S[dcl])\NP 	 2 	 Rill said
+13 	 11 	 NP[nb]/N 	 1 	 Department the
+13 	 12 	 N/N 	 1 	 Department Justice
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 Department 's
+16 	 14 	 (NP[nb]/N)\NP 	 1 	 chief 's
+16 	 15 	 N/N 	 1 	 chief antitrust
+16 	 18 	 (S[dcl]\S[dcl])\NP 	 2 	 chief said
+18 	 19 	 (S\S)/NP 	 1 	 said in
+21 	 19 	 (S\S)/NP 	 2 	 interview in
+21 	 20 	 NP[nb]/N 	 1 	 interview an
+<\s>
+<s id="wsj_0119.8"> 27
+1 	 0 	 (S/S)/NP 	 2 	 measures Under
+1 	 2 	 S[pss]\NP 	 1 	 measures approved <XB>
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 approved by
+5 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 houses by
+5 	 4 	 NP[nb]/N 	 1 	 houses both
+5 	 6 	 (NP\NP)/NP 	 1 	 houses of
+7 	 6 	 (NP\NP)/NP 	 2 	 Congress of
+10 	 9 	 NP[nb]/N 	 1 	 administration the
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 administration 's
+12 	 11 	 (NP[nb]/N)\NP 	 1 	 request 's
+12 	 13 	 (NP\NP)/NP 	 1 	 request for
+12 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 request would
+12 	 23 	 S[pss]\NP 	 1 	 request cut <XB>
+14 	 13 	 (NP\NP)/NP 	 2 	 $ for
+14 	 17 	 (NP\NP)/NP 	 1 	 $ for
+16 	 14 	 N/N[num] 	 1 	 million $
+16 	 15 	 N/N 	 1 	 million 47
+20 	 17 	 (NP\NP)/NP 	 2 	 Division for
+20 	 18 	 NP[nb]/N 	 1 	 Division the
+20 	 19 	 N/N 	 1 	 Division Antitrust
+21 	 0 	 (S/S)/NP 	 1 	 would Under
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+23 	 22 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 cut be
+23 	 24 	 ((S\NP)\(S\NP))/N[num] 	 2 	 cut $
+26 	 24 	 ((S\NP)\(S\NP))/N[num] 	 3 	 million $
+26 	 25 	 N/N 	 1 	 million 15
+<\s>
+<s id="wsj_0119.9"> 29
+3 	 0 	 NP[nb]/N 	 1 	 request The
+3 	 1 	 N/N 	 1 	 request FTC
+3 	 2 	 N/N 	 1 	 request budget
+3 	 4 	 (NP\NP)/NP 	 1 	 request of
+3 	 14 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 1 	 request which
+3 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 request would
+3 	 24 	 S[pss]\NP 	 1 	 request cut <XB>
+5 	 4 	 (NP\NP)/NP 	 2 	 $ of
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 70
+10 	 9 	 N/N 	 1 	 $ about
+10 	 13 	 (NP\NP)/NP 	 1 	 $ of
+10 	 14 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 3 	 $ which
+12 	 10 	 N/N[num] 	 1 	 million $
+12 	 11 	 N/N 	 1 	 million 34
+15 	 14 	 ((NP\NP)/(S[dcl]\NP))\(NP/NP) 	 2 	 would which
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go would
+17 	 16 	 (S[b]\NP)/PP 	 2 	 for go
+19 	 17 	 PP/NP 	 1 	 enforcement for
+19 	 18 	 N/N 	 1 	 enforcement antitrust
+21 	 22 	 (S\NP)\(S\NP) 	 2 	 would also
+23 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be would
+24 	 23 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 cut be
+24 	 25 	 ((S\NP)\(S\NP))/NP 	 2 	 cut by
+26 	 25 	 ((S\NP)\(S\NP))/NP 	 3 	 $ by
+28 	 26 	 N/N[num] 	 1 	 million $
+28 	 27 	 N/N 	 1 	 million 15
+<\s>
+<s id="wsj_0119.10"> 20
+1 	 0 	 NP[nb]/N 	 1 	 administration The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 administration had
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 administration requested <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 requested had
+7 	 3 	 (S[pt]\NP)/NP 	 2 	 amount requested
+7 	 4 	 NP/NP 	 1 	 amount roughly
+7 	 5 	 NP[nb]/N 	 1 	 amount the
+7 	 6 	 N/N 	 1 	 amount same
+7 	 8 	 (NP\NP)/NP 	 1 	 amount for
+7 	 11 	 (NP\NP)/NP 	 1 	 amount for
+7 	 14 	 (NP\NP)/(S[pss]\NP) 	 1 	 amount as
+7 	 15 	 (S[pss]\NP)/(S[pss]\NP) 	 1 	 amount was <XB>
+7 	 16 	 S[pss]\NP 	 1 	 amount appropriated <XB>
+10 	 8 	 (NP\NP)/NP 	 2 	 enforcement for
+10 	 9 	 N/N 	 1 	 enforcement antitrust
+13 	 11 	 (NP\NP)/NP 	 2 	 1990 for
+13 	 12 	 N/N 	 1 	 1990 fiscal
+15 	 14 	 (NP\NP)/(S[pss]\NP) 	 2 	 was as
+16 	 15 	 (S[pss]\NP)/(S[pss]\NP) 	 2 	 appropriated was
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 appropriated in
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 1989 in
+19 	 18 	 N/N 	 1 	 1989 fiscal
+<\s>
+<s id="wsj_0119.11"> 12
+2 	 0 	 NP[nb]/N 	 1 	 fees The
+2 	 1 	 N/N 	 1 	 fees offsetting
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 fees would
+2 	 4 	 (S[b]\NP)/PP 	 1 	 fees apply <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 apply would
+5 	 4 	 (S[b]\NP)/PP 	 2 	 to apply
+6 	 5 	 PP/NP 	 1 	 filings to
+6 	 7 	 S[pss]\NP 	 1 	 filings made <XB>
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 made under
+11 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 Act under
+11 	 9 	 NP[nb]/N 	 1 	 Act the
+11 	 10 	 N/N 	 1 	 Act Hart-Scott-Rodino
+<\s>
+<s id="wsj_0119.12"> 28
+2 	 0 	 (S/S)/NP 	 2 	 law Under
+2 	 1 	 NP[nb]/N 	 1 	 law that
+4 	 5 	 (S[ng]\NP)/NP 	 1 	 parties proposing <XB>
+4 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 parties must
+4 	 17 	 (S[b]\NP)/NP 	 1 	 parties notify <XB>
+4 	 25 	 (S[ng]\NP)/NP 	 1 	 parties completing <XB>
+6 	 5 	 (S[ng]\NP)/NP 	 2 	 mergers proposing
+6 	 9 	 (S[pss]\NP)/PP 	 1 	 mergers valued <XB>
+8 	 5 	 (S[ng]\NP)/NP 	 2 	 acquisitions proposing
+8 	 9 	 (S[pss]\NP)/PP 	 1 	 acquisitions valued <XB>
+10 	 9 	 (S[pss]\NP)/PP 	 2 	 at valued
+11 	 10 	 PP/NP 	 1 	 $ at
+11 	 15 	 NP\NP 	 1 	 $ more
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 15
+15 	 14 	 (NP\NP)/(NP\NP) 	 2 	 more or
+16 	 0 	 (S/S)/NP 	 1 	 must Under
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 notify must
+17 	 24 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 notify before
+23 	 17 	 (S[b]\NP)/NP 	 2 	 regulators notify
+23 	 18 	 N/N 	 1 	 regulators FTC
+23 	 20 	 N/N 	 1 	 regulators Justice
+23 	 21 	 N/N 	 1 	 regulators Department
+23 	 22 	 N/N 	 1 	 regulators antitrust
+25 	 24 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 completing before
+27 	 25 	 (S[ng]\NP)/NP 	 2 	 transactions completing
+27 	 26 	 NP[nb]/N 	 1 	 transactions the
+<\s>
+<s id="wsj_0119.13"> 9
+3 	 2 	 NP[nb]/N 	 1 	 government the
+3 	 4 	 ((S[dcl]\NP)/PP)/NP 	 1 	 government charges
+4 	 0 	 S/S 	 1 	 charges Currently
+5 	 4 	 ((S[dcl]\NP)/PP)/NP 	 3 	 nothing charges
+6 	 4 	 ((S[dcl]\NP)/PP)/NP 	 2 	 for charges
+8 	 6 	 PP/NP 	 1 	 filings for
+8 	 7 	 NP/NP 	 1 	 filings such
+<\s>
+<s id="wsj_0119.14"> 42
+0 	 1 	 (NP\NP)/NP 	 1 	 Proponents of
+0 	 5 	 (S[dcl]\NP)/S[em] 	 1 	 Proponents predict
+4 	 1 	 (NP\NP)/NP 	 2 	 arrangement of
+4 	 2 	 NP[nb]/N 	 1 	 arrangement the
+4 	 3 	 N/N 	 1 	 arrangement funding
+6 	 5 	 (S[dcl]\NP)/S[em] 	 2 	 that predict
+9 	 8 	 (S/S)/(S/S) 	 2 	 on based
+12 	 9 	 (S/S)/NP 	 2 	 levels on
+12 	 10 	 N/N 	 1 	 levels recent
+12 	 11 	 N/N 	 1 	 levels filing
+12 	 13 	 (NP\NP)/NP 	 1 	 levels of
+14 	 15 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+16 	 13 	 (NP\NP)/NP 	 2 	 2,000 of
+16 	 15 	 (N/N)\(S[adj]\NP) 	 1 	 2,000 than
+16 	 17 	 (NP\NP)/N 	 1 	 2,000 a
+18 	 17 	 (NP\NP)/N 	 2 	 year a
+21 	 20 	 NP[nb]/N 	 1 	 fees the
+21 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 fees will
+21 	 23 	 (S[b]\NP)/NP 	 1 	 fees yield <XB>
+22 	 6 	 S[em]/S[dcl] 	 1 	 will that
+22 	 9 	 (S/S)/NP 	 1 	 will on
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 yield will
+23 	 29 	 ((S\NP)\(S\NP))/N 	 2 	 yield this
+23 	 37 	 (S\NP)\(S\NP) 	 2 	 yield more
+25 	 24 	 (N/N)/(S[asup]\NP) 	 2 	 least at
+26 	 23 	 (S[b]\NP)/NP 	 2 	 $ yield
+26 	 24 	 (N/N)/(S[asup]\NP) 	 1 	 $ at
+28 	 26 	 N/N[num] 	 1 	 million $
+28 	 27 	 N/N 	 1 	 million 40
+31 	 29 	 ((S\NP)\(S\NP))/N 	 3 	 year this
+31 	 30 	 N/N 	 1 	 year fiscal
+36 	 34 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/N[num] 	 4 	 million $
+36 	 35 	 N/N 	 1 	 million 10
+37 	 34 	 (((S\NP)\(S\NP))/((S\NP)\(S\NP)))/N[num] 	 3 	 more $
+37 	 38 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 3 	 more than
+41 	 38 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/NP 	 4 	 cuts than
+41 	 39 	 NP[nb]/N 	 1 	 cuts the
+41 	 40 	 N/N 	 1 	 cuts budget
+<\s>
+<s id="wsj_0119.15"> 44
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 you do
+2 	 0 	 (S/S)/S[dcl] 	 2 	 do When
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 that do
+5 	 6 	 (S[dcl]\NP[thr])/NP 	 1 	 there is
+6 	 0 	 (S/S)/S[dcl] 	 1 	 is When
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 is not
+6 	 40 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+9 	 6 	 (S[dcl]\NP[thr])/NP 	 2 	 cut is
+9 	 8 	 NP[nb]/N 	 1 	 cut a
+12 	 13 	 (S[dcl]\NP[thr])/NP 	 1 	 there is
+13 	 0 	 (S/S)/S[dcl] 	 1 	 is When
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 is in
+13 	 40 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 fact in
+18 	 13 	 (S[dcl]\NP[thr])/NP 	 2 	 increase is
+18 	 16 	 NP[nb]/N 	 1 	 increase a
+18 	 17 	 N/N 	 1 	 increase program
+18 	 19 	 (NP\NP)/NP 	 1 	 increase of
+18 	 24 	 (NP\NP)/NP 	 1 	 increase for
+20 	 19 	 (NP\NP)/NP 	 2 	 $ of
+20 	 23 	 NP\NP 	 1 	 $ each
+22 	 20 	 N/N[num] 	 1 	 million $
+22 	 21 	 N/N 	 1 	 million 5
+26 	 24 	 (NP\NP)/NP 	 2 	 FTC for
+26 	 25 	 NP[nb]/N 	 1 	 FTC the
+30 	 24 	 (NP\NP)/NP 	 2 	 Department for
+30 	 28 	 NP[nb]/N 	 1 	 Department the
+30 	 29 	 N/N 	 1 	 Department Justice
+34 	 32 	 N/N 	 1 	 Smith Rep.
+34 	 33 	 N/N 	 1 	 Smith Neal
+34 	 35 	 (NP\NP)/NP 	 1 	 Smith -LRB-
+34 	 40 	 (S[dcl]\S[dcl])\NP 	 2 	 Smith said
+36 	 35 	 (NP\NP)/NP 	 2 	 D. -LRB-
+36 	 38 	 NP\NP 	 1 	 D. Iowa
+40 	 41 	 (S\S)/NP 	 1 	 said during
+43 	 41 	 (S\S)/NP 	 2 	 debate during
+43 	 42 	 N/N 	 1 	 debate House
+<\s>
+<s id="wsj_0119.16"> 25
+3 	 1 	 N/N 	 1 	 Edwards Rep.
+3 	 2 	 N/N 	 1 	 Edwards Don
+3 	 4 	 (NP\NP)/NP 	 1 	 Edwards -LRB-
+3 	 10 	 (S[dcl]\NP)/S[em] 	 1 	 Edwards responded
+5 	 4 	 (NP\NP)/NP 	 2 	 D. -LRB-
+5 	 7 	 NP\NP 	 1 	 D. Calif
+10 	 0 	 S/S 	 1 	 responded But
+11 	 10 	 (S[dcl]\NP)/S[em] 	 2 	 that responded
+13 	 12 	 NP[nb]/N 	 1 	 recession a
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 recession could
+13 	 15 	 (S[b]\NP)/NP 	 1 	 recession stifle <XB>
+13 	 19 	 (S[ng]\NP)/NP 	 1 	 recession reducing <XB>
+14 	 11 	 S[em]/S[dcl] 	 1 	 could that
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 stifle could
+17 	 15 	 (S[b]\NP)/NP 	 2 	 activity stifle
+17 	 16 	 N/N 	 1 	 activity merger
+21 	 19 	 (S[ng]\NP)/NP 	 2 	 amount reducing
+21 	 20 	 NP[nb]/N 	 1 	 amount the
+21 	 22 	 (NP\NP)/NP 	 1 	 amount of
+21 	 24 	 S[pss]\NP 	 1 	 amount collected <XB>
+23 	 22 	 (NP\NP)/NP 	 2 	 fees of
+<\s>
+<s id="wsj_0119.17"> 33
+2 	 0 	 NP[nb]/N 	 1 	 staffs The
+2 	 1 	 N/N 	 1 	 staffs antitrust
+2 	 3 	 (NP\NP)/NP 	 1 	 staffs of
+2 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 staffs were
+2 	 11 	 S[pss]\NP 	 1 	 staffs cut <XB>
+6 	 3 	 (NP\NP)/NP 	 2 	 FTC of
+6 	 4 	 NP/NP 	 1 	 FTC both
+6 	 5 	 NP[nb]/N 	 1 	 FTC the
+9 	 3 	 (NP\NP)/NP 	 2 	 Department of
+9 	 4 	 NP/NP 	 1 	 Department both
+9 	 5 	 NP[nb]/N 	 1 	 Department the
+9 	 8 	 N/N 	 1 	 Department Justice
+11 	 10 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 cut were
+11 	 15 	 (S\NP)\(S\NP) 	 2 	 cut %
+11 	 16 	 ((S\NP)\(S\NP))/NP 	 2 	 cut in
+12 	 13 	 ((((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))))\(S[adj]\NP) 	 5 	 more than
+14 	 13 	 ((((S\NP)\(S\NP))/((S\NP)\(S\NP)))/(((S\NP)\(S\NP))/((S\NP)\(S\NP))))\(S[adj]\NP) 	 4 	 40 than
+15 	 14 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 40
+19 	 16 	 ((S\NP)\(S\NP))/NP 	 3 	 administration in
+19 	 17 	 NP[nb]/N 	 1 	 administration the
+19 	 18 	 N/N 	 1 	 administration Reagan
+22 	 23 	 (NP\NP)/NP 	 1 	 enforcement of
+22 	 27 	 S[dcl]\NP 	 1 	 enforcement fell
+26 	 23 	 (NP\NP)/NP 	 2 	 cases of
+26 	 24 	 N/N 	 1 	 cases major
+26 	 25 	 N/N 	 1 	 cases merger
+27 	 28 	 (S\NP)\(S\NP) 	 2 	 fell off
+27 	 29 	 (S\NP)\(S\NP) 	 2 	 fell drastically
+27 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 fell during
+32 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 period during
+32 	 31 	 NP[nb]/N 	 1 	 period that
+<\s>
+<s id="wsj_0119.18"> 26
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Today is
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is not
+1 	 25 	 (S[dcl]\S[dcl])\NP 	 1 	 is argued
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 time is
+4 	 3 	 NP[nb]/N 	 1 	 time the
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 signal to
+7 	 6 	 (S[b]\NP)/S[em] 	 2 	 that signal
+8 	 12 	 (S[dcl]\NP)/NP 	 1 	 Congress sanctions
+11 	 9 	 ((S\NP)/(S\NP))/NP 	 3 	 way in
+11 	 10 	 NP[nb]/N 	 1 	 way any
+12 	 7 	 S[em]/S[dcl] 	 1 	 sanctions that
+12 	 9 	 ((S\NP)/(S\NP))/NP 	 2 	 sanctions in
+15 	 12 	 (S[dcl]\NP)/NP 	 2 	 state sanctions
+15 	 13 	 NP[nb]/N 	 1 	 state the
+15 	 14 	 N/N 	 1 	 state dismal
+15 	 17 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 state which
+16 	 17 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 into which
+19 	 18 	 N/N 	 1 	 enforcement antitrust
+19 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 enforcement has
+19 	 21 	 S[pt]\NP 	 1 	 enforcement fallen <XB>
+20 	 17 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 has which
+21 	 20 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 fallen has
+24 	 23 	 N/N 	 1 	 Edwards Mr.
+24 	 25 	 (S[dcl]\S[dcl])\NP 	 2 	 Edwards argued
+<\s>
+<s id="wsj_0119.19"> 22
+1 	 0 	 NP[nb]/N 	 1 	 money Any
+1 	 2 	 (NP\NP)/NP 	 1 	 money in
+1 	 8 	 S[pss]\NP 	 1 	 money collected <XB>
+1 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 money would
+1 	 16 	 S[b]\NP 	 1 	 money go <XB>
+3 	 2 	 (NP\NP)/NP 	 2 	 excess in
+3 	 4 	 (NP\NP)/NP 	 1 	 excess of
+5 	 4 	 (NP\NP)/NP 	 2 	 $ of
+7 	 5 	 N/N[num] 	 1 	 million $
+7 	 6 	 N/N 	 1 	 million 40
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 collected from
+8 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 collected in
+11 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 fees from
+11 	 10 	 NP[nb]/N 	 1 	 fees the
+14 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 1990 in
+14 	 13 	 N/N 	 1 	 1990 fiscal
+16 	 15 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go would
+16 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 go to
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 Treasury to
+19 	 18 	 NP[nb]/N 	 1 	 Treasury the
+19 	 20 	 (NP\NP)/NP 	 1 	 Treasury at
+21 	 20 	 (NP\NP)/NP 	 2 	 large at
+<\s>
+<s id="wsj_0119.20"> 14
+1 	 0 	 N/N 	 1 	 lawyers Corporate
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 lawyers said
+5 	 3 	 NP[nb]/N 	 1 	 fees the
+5 	 4 	 N/N 	 1 	 fees new
+5 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 fees would
+5 	 8 	 (S[b]\NP)/NP 	 1 	 fees inhibit <XB>
+6 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 would said
+6 	 7 	 (S\NP)\(S\NP) 	 2 	 would n't
+8 	 6 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 inhibit would
+10 	 8 	 (S[b]\NP)/NP 	 2 	 mergers inhibit
+10 	 9 	 N/N 	 1 	 mergers many
+13 	 8 	 (S[b]\NP)/NP 	 2 	 transactions inhibit
+13 	 9 	 N/N 	 1 	 transactions many
+13 	 12 	 N/N 	 1 	 transactions other
+<\s>
+<s id="wsj_0119.21"> 29
+2 	 1 	 NP[nb]/N 	 1 	 lawyers some
+2 	 3 	 (S[dcl]\NP)/S[em] 	 1 	 lawyers reported
+3 	 0 	 (S/S)/S[dcl] 	 2 	 reported Though
+4 	 3 	 (S[dcl]\NP)/S[em] 	 2 	 that reported
+6 	 5 	 N/N 	 1 	 acquirers prospective
+6 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 acquirers were
+6 	 8 	 (S[ng]\NP)/(S[to]\NP) 	 1 	 acquirers scrambling <XB>
+6 	 10 	 (S[b]\NP)/NP 	 1 	 acquirers make <XB>
+7 	 4 	 S[em]/S[dcl] 	 1 	 were that
+8 	 7 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 scrambling were
+9 	 8 	 (S[ng]\NP)/(S[to]\NP) 	 2 	 to scrambling
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 make to
+10 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 make before
+11 	 10 	 (S[b]\NP)/NP 	 2 	 filings make
+14 	 13 	 NP[nb]/N 	 1 	 fees the
+14 	 15 	 (S[dcl]\NP)/NP 	 1 	 fees take
+15 	 12 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 take before
+16 	 15 	 (S[dcl]\NP)/NP 	 2 	 effect take
+19 	 18 	 N/N 	 1 	 officials government
+19 	 20 	 (S[dcl]\NP)/S[dcl] 	 1 	 officials said
+20 	 0 	 (S/S)/S[dcl] 	 1 	 said Though
+21 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 they had
+21 	 24 	 (S[pt]\NP)/NP 	 1 	 they noticed <XB>
+22 	 20 	 (S[dcl]\NP)/S[dcl] 	 2 	 had said
+22 	 23 	 (S\NP)\(S\NP) 	 2 	 had n't
+24 	 22 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 noticed had
+26 	 24 	 (S[pt]\NP)/NP 	 2 	 surge noticed
+26 	 25 	 NP[nb]/N 	 1 	 surge any
+26 	 27 	 (NP\NP)/NP 	 1 	 surge in
+28 	 27 	 (NP\NP)/NP 	 2 	 filings in
+<\s>

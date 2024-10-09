@@ -1,0 +1,61 @@
+<s id="wsj_1584.1"> 23
+4 	 0 	 NP[nb]/N 	 1 	 PLC The
+4 	 1 	 N/N 	 1 	 PLC British
+4 	 2 	 N/N 	 1 	 PLC Petroleum
+4 	 3 	 N/N 	 1 	 PLC Co.
+4 	 5 	 (S[dcl]\NP)/S[dcl] 	 1 	 PLC said
+9 	 6 	 NP[nb]/N 	 1 	 unit its
+9 	 7 	 N/N 	 1 	 unit BP
+9 	 8 	 N/N 	 1 	 unit Exploration
+9 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 unit has
+9 	 11 	 (S[pt]\NP)/NP 	 1 	 unit produced <XB>
+10 	 5 	 (S[dcl]\NP)/S[dcl] 	 2 	 has said
+11 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 produced has
+14 	 11 	 (S[pt]\NP)/NP 	 2 	 oil produced
+14 	 12 	 NP[nb]/N 	 1 	 oil the
+14 	 13 	 N/N 	 1 	 oil first
+14 	 15 	 (NP\NP)/NP 	 1 	 oil from
+18 	 15 	 (NP\NP)/NP 	 2 	 oilfield from
+18 	 16 	 NP[nb]/N 	 1 	 oilfield its
+18 	 17 	 N/N 	 1 	 oilfield Don
+18 	 19 	 (NP\NP)/NP 	 1 	 oilfield in
+22 	 19 	 (NP\NP)/NP 	 2 	 Sea in
+22 	 20 	 NP[nb]/N 	 1 	 Sea the
+22 	 21 	 N/N 	 1 	 Sea North
+<\s>
+<s id="wsj_1584.2"> 37
+3 	 0 	 (S/S)/NP 	 2 	 release In
+3 	 1 	 NP[nb]/N 	 1 	 release an
+3 	 2 	 N/N 	 1 	 release official
+5 	 6 	 (S[dcl]\NP)/S[dcl] 	 1 	 BP said
+6 	 0 	 (S/S)/NP 	 1 	 said In
+8 	 7 	 N/N 	 1 	 production initial
+8 	 9 	 (NP\NP)/NP 	 1 	 production from
+8 	 12 	 (S[dcl]\NP)/NP 	 1 	 production was
+11 	 9 	 (NP\NP)/NP 	 2 	 field from
+11 	 10 	 NP[nb]/N 	 1 	 field the
+12 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 barrels was
+14 	 13 	 N/N 	 1 	 barrels 11,000
+14 	 15 	 (NP\NP)/N 	 1 	 barrels a
+16 	 15 	 (NP\NP)/N 	 2 	 day a
+19 	 6 	 (S[dcl]\NP)/S[dcl] 	 2 	 that said
+20 	 21 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 it expects
+21 	 19 	 S[em]/S[dcl] 	 1 	 expects that
+23 	 21 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 output expects
+23 	 22 	 N/N 	 1 	 output peak
+23 	 24 	 (NP\NP)/NP 	 1 	 output from
+23 	 27 	 (NP\NP)/NP 	 1 	 output of
+23 	 34 	 S[pss]\NP 	 1 	 output reached <XB>
+26 	 24 	 (NP\NP)/NP 	 2 	 field from
+26 	 25 	 NP[nb]/N 	 1 	 field the
+29 	 27 	 (NP\NP)/NP 	 2 	 barrels of
+29 	 28 	 N/N 	 1 	 barrels 15,000
+29 	 30 	 (NP\NP)/N 	 1 	 barrels a
+31 	 30 	 (NP\NP)/N 	 2 	 day a
+32 	 21 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to expects
+33 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 be to
+34 	 33 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 reached be
+34 	 35 	 ((S\NP)\(S\NP))/NP 	 2 	 reached in
+36 	 35 	 ((S\NP)\(S\NP))/NP 	 3 	 1990 in
+<\s>

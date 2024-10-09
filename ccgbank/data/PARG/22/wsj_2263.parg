@@ -1,0 +1,148 @@
+<s id="wsj_2263.1"> 28
+5 	 0 	 N/N 	 1 	 PLC United
+5 	 1 	 N/N 	 1 	 PLC Biscuits
+5 	 3 	 N/N 	 1 	 PLC Holdings
+5 	 12 	 (S[dcl]\NP)/NP 	 1 	 PLC announced
+10 	 7 	 NP[nb]/N 	 1 	 producer a
+10 	 8 	 N/N 	 1 	 producer British
+10 	 9 	 N/N 	 1 	 producer food
+10 	 12 	 (S[dcl]\NP)/NP 	 1 	 producer announced
+14 	 12 	 (S[dcl]\NP)/NP 	 2 	 creation announced
+14 	 13 	 NP[nb]/N 	 1 	 creation the
+14 	 15 	 (NP\NP)/NP 	 1 	 creation of
+18 	 15 	 (NP\NP)/NP 	 2 	 group of
+18 	 16 	 NP[nb]/N 	 1 	 group a
+18 	 17 	 N/N 	 1 	 group European
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 bring to
+21 	 20 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 3 	 together bring
+24 	 20 	 ((S[b]\NP)/NP)/(S[adj]\NP) 	 2 	 interests bring
+24 	 21 	 S[adj]\NP 	 1 	 interests together <XB>
+24 	 22 	 NP[nb]/N 	 1 	 interests its
+24 	 23 	 N/N 	 1 	 interests trading
+24 	 25 	 (NP\NP)/NP 	 1 	 interests in
+27 	 25 	 (NP\NP)/NP 	 2 	 region in
+27 	 26 	 NP[nb]/N 	 1 	 region the
+<\s>
+<s id="wsj_2263.2"> 25
+2 	 0 	 NP[nb]/N 	 1 	 group The
+2 	 1 	 N/N 	 1 	 group new
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 group will
+2 	 4 	 (S[b]\NP)/NP 	 1 	 group comprise <XB>
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 comprise will
+5 	 4 	 (S[b]\NP)/NP 	 2 	 all comprise
+5 	 6 	 (NP\NP)/NP 	 1 	 all of
+8 	 7 	 N/N 	 1 	 Biscuit United
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 Biscuit 's
+13 	 6 	 (NP\NP)/NP 	 2 	 operations of
+13 	 9 	 (NP[nb]/N)\NP 	 1 	 operations 's
+13 	 10 	 N/N 	 1 	 operations manufacturing
+13 	 12 	 N/N 	 1 	 operations marketing
+13 	 14 	 (NP\NP)/NP 	 1 	 operations in
+13 	 18 	 (NP\NP)/PP 	 1 	 operations apart
+17 	 14 	 (NP\NP)/NP 	 2 	 sector in
+17 	 15 	 NP[nb]/N 	 1 	 sector the
+17 	 16 	 N/N 	 1 	 sector food
+19 	 18 	 (NP\NP)/PP 	 2 	 from apart
+20 	 19 	 PP/NP 	 1 	 those from
+20 	 21 	 S[pss]\NP 	 1 	 those based <XB>
+21 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 based in
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 U.S. in
+24 	 23 	 NP[nb]/N 	 1 	 U.S. the
+<\s>
+<s id="wsj_2263.3"> 49
+1 	 0 	 N/N 	 1 	 Biscuits United
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 Biscuits said
+5 	 3 	 NP[nb]/N 	 1 	 group the
+5 	 4 	 N/N 	 1 	 group combined
+5 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 group which
+5 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 group will <XB>
+5 	 9 	 (S[b]\NP)/NP 	 1 	 group include <XB>
+5 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 group will
+5 	 21 	 (S[b]\NP)/NP 	 1 	 group have <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 will which
+9 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 include will
+10 	 9 	 (S[b]\NP)/NP 	 2 	 businesses include
+10 	 12 	 (NP\NP)/NP 	 1 	 businesses as
+12 	 11 	 (NP\NP)/(NP\NP) 	 2 	 as such
+14 	 12 	 (NP\NP)/NP 	 2 	 biscuits as
+14 	 13 	 N/N 	 1 	 biscuits McVities
+16 	 17 	 (NP[nb]/N)\NP 	 2 	 Terry 's
+18 	 12 	 (NP\NP)/NP 	 2 	 confectionery as
+18 	 17 	 (NP[nb]/N)\NP 	 1 	 confectionery 's
+20 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 will said
+21 	 20 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+23 	 21 	 (S[b]\NP)/NP 	 2 	 sales have
+23 	 22 	 N/N 	 1 	 sales annual
+23 	 24 	 (NP\NP)/NP 	 1 	 sales of
+25 	 26 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+27 	 24 	 (NP\NP)/NP 	 2 	 # of
+27 	 26 	 (N/N)\(S[adj]\NP) 	 1 	 # than
+27 	 30 	 (NP\NP)/NP 	 1 	 # -LRB-
+29 	 27 	 N/N[num] 	 1 	 billion #
+29 	 28 	 N/N 	 1 	 billion 1.5
+31 	 30 	 (NP\NP)/NP 	 2 	 $ -LRB-
+33 	 31 	 N/N[num] 	 1 	 billion $
+33 	 32 	 N/N 	 1 	 billion 2.35
+37 	 21 	 (S[b]\NP)/NP 	 2 	 profit have
+37 	 36 	 N/N 	 1 	 profit trading
+37 	 38 	 (NP\NP)/NP 	 1 	 profit of
+39 	 40 	 (N/N)\(S[adj]\NP) 	 2 	 more than
+41 	 38 	 (NP\NP)/NP 	 2 	 # of
+41 	 40 	 (N/N)\(S[adj]\NP) 	 1 	 # than
+41 	 44 	 (NP\NP)/NP 	 1 	 # -LRB-
+43 	 41 	 N/N[num] 	 1 	 million #
+43 	 42 	 N/N 	 1 	 million 160
+45 	 44 	 (NP\NP)/NP 	 2 	 $ -LRB-
+47 	 45 	 N/N[num] 	 1 	 million $
+47 	 46 	 N/N 	 1 	 million 251
+<\s>
+<s id="wsj_2263.4"> 29
+2 	 0 	 NP[nb]/N 	 1 	 structure The
+2 	 1 	 N/N 	 1 	 structure new
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 structure will
+2 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 structure enable <XB>
+3 	 19 	 (S[dcl]\S[dcl])/NP 	 1 	 will said
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 enable will
+6 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 Biscuits enable
+6 	 5 	 N/N 	 1 	 Biscuits United
+6 	 8 	 (S[b]\NP)/PP 	 1 	 Biscuits focus <XB>
+7 	 4 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to enable
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 focus to
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 focus clearly
+10 	 8 	 (S[b]\NP)/PP 	 2 	 upon focus
+11 	 10 	 PP/NP 	 1 	 opportunities upon
+11 	 12 	 (NP\NP)/NP 	 1 	 opportunities for
+14 	 12 	 (NP\NP)/NP 	 2 	 growth for
+14 	 13 	 N/N 	 1 	 growth planned
+14 	 15 	 (NP\NP)/NP 	 1 	 growth during
+17 	 15 	 (NP\NP)/NP 	 2 	 1990s during
+17 	 16 	 NP[nb]/N 	 1 	 1990s the
+21 	 19 	 (S[dcl]\S[dcl])/NP 	 2 	 Clarke said
+21 	 20 	 N/N 	 1 	 Clarke Bob
+24 	 19 	 (S[dcl]\S[dcl])/NP 	 2 	 chairman said
+24 	 23 	 N/N 	 1 	 chairman deputy
+28 	 19 	 (S[dcl]\S[dcl])/NP 	 2 	 executive said
+28 	 26 	 N/N 	 1 	 executive group
+28 	 27 	 N/N 	 1 	 executive chief
+<\s>
+<s id="wsj_2263.5"> 20
+1 	 0 	 (S/S)/(S/S) 	 2 	 month Last
+4 	 3 	 N/N 	 1 	 Biscuits United
+4 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Biscuits agreed
+4 	 7 	 (((S[b]\NP)/PP)/PP)/NP 	 1 	 Biscuits sell <XB>
+5 	 1 	 S/S 	 1 	 agreed month
+6 	 5 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to agreed
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 sell to
+11 	 7 	 (((S[b]\NP)/PP)/PP)/NP 	 4 	 operations sell
+11 	 8 	 NP[nb]/N 	 1 	 operations its
+11 	 9 	 N/N 	 1 	 operations entire
+11 	 10 	 N/N 	 1 	 operations restaurant
+12 	 7 	 (((S[b]\NP)/PP)/PP)/NP 	 3 	 to sell
+15 	 12 	 PP/NP 	 1 	 PLC to
+15 	 13 	 N/N 	 1 	 PLC Grand
+15 	 14 	 N/N 	 1 	 PLC Metropolitan
+16 	 7 	 (((S[b]\NP)/PP)/PP)/NP 	 2 	 for sell
+17 	 16 	 PP/NP 	 1 	 # for
+19 	 17 	 N/N[num] 	 1 	 million #
+19 	 18 	 N/N 	 1 	 million 180
+<\s>

@@ -1,0 +1,329 @@
+<s id="wsj_0022.1"> 26
+4 	 1 	 (S/S)/NP 	 2 	 year During
+4 	 2 	 NP[nb]/N 	 1 	 year its
+4 	 3 	 N/N 	 1 	 year centennial
+9 	 6 	 N/N 	 1 	 Journal The
+9 	 7 	 N/N 	 1 	 Journal Wall
+9 	 8 	 N/N 	 1 	 Journal Street
+9 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Journal will
+9 	 11 	 (S[b]\NP)/NP 	 1 	 Journal report <XB>
+10 	 1 	 (S/S)/NP 	 1 	 will During
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 report will
+12 	 11 	 (S[b]\NP)/NP 	 2 	 events report
+12 	 13 	 (NP\NP)/NP 	 1 	 events of
+12 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 events that
+12 	 18 	 (S[dcl]\NP)/PP 	 1 	 events stand <XB>
+16 	 13 	 (NP\NP)/NP 	 2 	 century of
+16 	 14 	 NP[nb]/N 	 1 	 century the
+16 	 15 	 N/N 	 1 	 century past
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 stand that
+19 	 18 	 (S[dcl]\NP)/PP 	 2 	 as stand
+20 	 19 	 PP/NP 	 1 	 milestones as
+20 	 21 	 (NP\NP)/NP 	 1 	 milestones of
+24 	 21 	 (NP\NP)/NP 	 2 	 history of
+24 	 22 	 N/N 	 1 	 history American
+24 	 23 	 N/N 	 1 	 history business
+<\s>
+<s id="wsj_0022.2"> 13
+1 	 0 	 N/N 	 1 	 COMPUTERS THREE
+1 	 2 	 (NP\NP)/(S[dcl]\NP) 	 1 	 COMPUTERS THAT
+1 	 3 	 (S[dcl]\NP)/NP 	 1 	 COMPUTERS CHANGED <XB>
+1 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 COMPUTERS were
+1 	 10 	 S[pss]\NP 	 1 	 COMPUTERS launched <XB>
+3 	 2 	 (NP\NP)/(S[dcl]\NP) 	 2 	 CHANGED THAT
+5 	 3 	 (S[dcl]\NP)/NP 	 2 	 face CHANGED
+5 	 4 	 NP[nb]/N 	 1 	 face the
+5 	 6 	 (NP\NP)/NP 	 1 	 face of
+8 	 6 	 (NP\NP)/NP 	 2 	 computing of
+8 	 7 	 N/N 	 1 	 computing personal
+10 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 launched were
+10 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 launched in
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 1977 in
+<\s>
+<s id="wsj_0022.3"> 14
+1 	 0 	 (S/S)/N 	 2 	 year That
+4 	 2 	 NP[nb]/N 	 1 	 II the
+4 	 3 	 N/N 	 1 	 II Apple
+4 	 11 	 S[dcl]\NP 	 1 	 II came
+7 	 6 	 N/N 	 1 	 Pet Commodore
+7 	 11 	 S[dcl]\NP 	 1 	 Pet came
+10 	 9 	 N/N 	 1 	 TRS-80 Tandy
+10 	 11 	 S[dcl]\NP 	 1 	 TRS-80 came
+11 	 0 	 (S/S)/N 	 1 	 came That
+11 	 12 	 ((S\NP)\(S\NP))/NP 	 2 	 came to
+13 	 12 	 ((S\NP)\(S\NP))/NP 	 3 	 market to
+<\s>
+<s id="wsj_0022.4"> 8
+1 	 0 	 NP[nb]/N 	 1 	 computers The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 computers were
+1 	 3 	 S[adj]\NP 	 1 	 computers crude <XB>
+2 	 4 	 ((S\NP)\(S\NP))/NP 	 2 	 were by
+3 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 crude were
+5 	 6 	 (NP[nb]/N)\NP 	 2 	 today 's
+7 	 4 	 ((S\NP)\(S\NP))/NP 	 3 	 standards by
+7 	 6 	 (NP[nb]/N)\NP 	 1 	 standards 's
+<\s>
+<s id="wsj_0022.5"> 20
+2 	 0 	 N/N 	 1 	 owners Apple
+2 	 1 	 N/N 	 1 	 owners II
+2 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 owners had
+2 	 9 	 ((S[b]\NP)/PP)/NP 	 1 	 owners use <XB>
+2 	 16 	 (S[dcl]\NP)/NP 	 1 	 owners stored <XU>
+5 	 4 	 ((S\NP)/(S\NP))/NP 	 3 	 example for
+7 	 4 	 ((S\NP)/(S\NP))/NP 	 2 	 had for
+8 	 7 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to had
+9 	 8 	 (S[to]\NP)/(S[b]\NP) 	 2 	 use to
+12 	 9 	 ((S[b]\NP)/PP)/NP 	 3 	 sets use
+12 	 10 	 NP[nb]/N 	 1 	 sets their
+12 	 11 	 N/N 	 1 	 sets television
+13 	 9 	 ((S[b]\NP)/PP)/NP 	 2 	 as use
+14 	 13 	 PP/NP 	 1 	 screens as
+16 	 4 	 ((S\NP)/(S\NP))/NP 	 2 	 stored for
+16 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 stored on
+17 	 16 	 (S[dcl]\NP)/NP 	 2 	 data stored
+19 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 audiocassettes on
+<\s>
+<s id="wsj_0022.6"> 31
+2 	 1 	 N/N 	 1 	 II Apple
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 II was
+3 	 0 	 S/S 	 1 	 was But
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 advance was
+6 	 4 	 NP[nb]/N 	 1 	 advance a
+6 	 5 	 N/N 	 1 	 advance major
+6 	 7 	 (NP\NP)/NP 	 1 	 advance from
+9 	 7 	 (NP\NP)/NP 	 2 	 I from
+9 	 8 	 N/N 	 1 	 I Apple
+9 	 11 	 (NP\NP)/(S[dcl]\NP) 	 1 	 I which
+9 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 I was <XB>
+9 	 13 	 S[pss]\NP 	 1 	 I built <XB>
+12 	 11 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was which
+13 	 12 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 built was
+13 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 built in
+13 	 17 	 ((S\NP)\(S\NP))/NP 	 2 	 built by
+13 	 23 	 ((S\NP)\(S\NP))/NP 	 2 	 built for
+16 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 garage in
+16 	 15 	 NP[nb]/N 	 1 	 garage a
+19 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 Wozniak by
+19 	 18 	 N/N 	 1 	 Wozniak Stephen
+22 	 17 	 ((S\NP)\(S\NP))/NP 	 3 	 Jobs by
+22 	 21 	 N/N 	 1 	 Jobs Steven
+24 	 23 	 ((S\NP)\(S\NP))/NP 	 3 	 hobbyists for
+24 	 26 	 (NP\NP)/NP 	 1 	 hobbyists as
+26 	 25 	 (NP\NP)/(NP\NP) 	 2 	 as such
+30 	 26 	 (NP\NP)/NP 	 2 	 Club as
+30 	 27 	 NP[nb]/N 	 1 	 Club the
+30 	 28 	 N/N 	 1 	 Club Homebrew
+30 	 29 	 N/N 	 1 	 Club Computer
+<\s>
+<s id="wsj_0022.7"> 11
+1 	 0 	 (S/S)/NP 	 2 	 addition In
+5 	 3 	 NP[nb]/N 	 1 	 II the
+5 	 4 	 N/N 	 1 	 II Apple
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 II was
+6 	 0 	 (S/S)/NP 	 1 	 was In
+9 	 6 	 (S[dcl]\NP)/NP 	 2 	 $ was
+9 	 7 	 NP[nb]/N 	 1 	 $ an
+9 	 8 	 N/N 	 1 	 $ affordable
+10 	 9 	 N/N[num] 	 1 	 1,298 $
+<\s>
+<s id="wsj_0022.8"> 20
+0 	 1 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 2 	 Crude as
+2 	 3 	 S[dcl]\NP 	 1 	 they were
+3 	 1 	 ((S[adj]\NP)\(S[adj]\NP))/S[dcl] 	 3 	 were as
+7 	 5 	 NP[nb]/N 	 1 	 PCs these
+7 	 6 	 N/N 	 1 	 PCs early
+7 	 8 	 (S[dcl]\NP)/NP 	 1 	 PCs triggered
+11 	 8 	 (S[dcl]\NP)/NP 	 2 	 development triggered
+11 	 9 	 N/N 	 1 	 development explosive
+11 	 10 	 N/N 	 1 	 development product
+11 	 12 	 (NP\NP)/NP 	 1 	 development in
+14 	 12 	 (NP\NP)/NP 	 2 	 models in
+14 	 13 	 N/N 	 1 	 models desktop
+14 	 15 	 (NP\NP)/NP 	 1 	 models for
+17 	 15 	 (NP\NP)/NP 	 2 	 home for
+17 	 16 	 NP[nb]/N 	 1 	 home the
+19 	 15 	 (NP\NP)/NP 	 2 	 office for
+19 	 16 	 NP[nb]/N 	 1 	 office the
+<\s>
+<s id="wsj_0022.9"> 10
+2 	 0 	 N/N 	 1 	 computers Big
+2 	 1 	 N/N 	 1 	 computers mainframe
+2 	 3 	 (NP\NP)/NP 	 1 	 computers for
+2 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 computers had
+2 	 7 	 S[adj]\NP 	 1 	 computers around <XB>
+4 	 3 	 (NP\NP)/NP 	 2 	 business for
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+6 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 been for
+7 	 6 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 around been
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 years for
+<\s>
+<s id="wsj_0022.10"> 32
+4 	 1 	 NP[nb]/N 	 1 	 PCs the
+4 	 2 	 N/N 	 1 	 PCs new
+4 	 3 	 N/N 	 1 	 PCs 1977
+4 	 19 	 (S[dcl]\NP)/NP 	 1 	 PCs had
+4 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 PCs could <XU>
+4 	 23 	 (S[b]\NP)/NP 	 1 	 PCs store <XU>
+9 	 6 	 ((S\NP)/(S\NP))/NP 	 3 	 types unlike
+9 	 7 	 N/N 	 1 	 types earlier
+9 	 8 	 N/N 	 1 	 types built-from-kit
+9 	 11 	 (NP\NP)/NP 	 1 	 types as
+11 	 10 	 (NP\NP)/(NP\NP) 	 2 	 as such
+13 	 11 	 (NP\NP)/NP 	 2 	 Altair as
+13 	 12 	 NP[nb]/N 	 1 	 Altair the
+15 	 11 	 (NP\NP)/NP 	 2 	 Sol as
+15 	 12 	 NP[nb]/N 	 1 	 Sol the
+17 	 11 	 (NP\NP)/NP 	 2 	 IMSAI as
+17 	 12 	 NP[nb]/N 	 1 	 IMSAI the
+19 	 0 	 S/S 	 1 	 had But
+19 	 6 	 ((S\NP)/(S\NP))/NP 	 2 	 had unlike
+20 	 19 	 (S[dcl]\NP)/NP 	 2 	 keyboards had
+22 	 0 	 S/S 	 1 	 could But
+22 	 6 	 ((S\NP)/(S\NP))/NP 	 2 	 could unlike
+23 	 22 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 store could
+23 	 29 	 ((S\NP)\(S\NP))/NP 	 2 	 store in
+25 	 24 	 (N/N)/(N/N) 	 2 	 two about
+26 	 23 	 (S[b]\NP)/NP 	 2 	 pages store
+26 	 25 	 N/N 	 1 	 pages two
+26 	 27 	 (NP\NP)/NP 	 1 	 pages of
+28 	 27 	 (NP\NP)/NP 	 2 	 data of
+31 	 29 	 ((S\NP)\(S\NP))/NP 	 3 	 memories in
+31 	 30 	 NP[nb]/N 	 1 	 memories their
+<\s>
+<s id="wsj_0022.11"> 19
+1 	 0 	 N/N 	 1 	 PCs Current
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 PCs are
+1 	 7 	 S[adj]\NP 	 1 	 PCs faster <XB>
+1 	 9 	 (S[dcl]\NP)/NP 	 1 	 PCs have <XU>
+3 	 4 	 (((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)))\(S[adj]\NP) 	 4 	 more than
+6 	 4 	 (((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)))\(S[adj]\NP) 	 3 	 times than
+6 	 5 	 ((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)) 	 3 	 times 50
+7 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 faster are
+7 	 6 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 faster times
+11 	 9 	 (S[dcl]\NP)/NP 	 2 	 capacity have
+11 	 10 	 N/N 	 1 	 capacity memory
+11 	 14 	 S[adj]\NP 	 1 	 capacity greater <XB>
+13 	 12 	 ((S[adj]\NP)/(S[adj]\NP))/((S[adj]\NP)/(S[adj]\NP)) 	 3 	 times 500
+14 	 13 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 greater times
+14 	 15 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 greater than
+18 	 15 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 counterparts than
+18 	 16 	 NP[nb]/N 	 1 	 counterparts their
+18 	 17 	 N/N 	 1 	 counterparts 1977
+<\s>
+<s id="wsj_0022.12"> 6
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There were
+5 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 contributors were
+5 	 2 	 N/N 	 1 	 contributors many
+5 	 3 	 N/N 	 1 	 contributors pioneer
+5 	 4 	 N/N 	 1 	 contributors PC
+<\s>
+<s id="wsj_0022.13"> 32
+1 	 0 	 N/N 	 1 	 Gates William
+1 	 7 	 (S[dcl]\NP)/NP 	 1 	 Gates developed
+4 	 3 	 N/N 	 1 	 Allen Paul
+4 	 7 	 (S[dcl]\NP)/NP 	 1 	 Allen developed
+6 	 5 	 ((S\NP)/(S\NP))/NP 	 3 	 1975 in
+7 	 5 	 ((S\NP)/(S\NP))/NP 	 2 	 developed in
+11 	 7 	 (S[dcl]\NP)/NP 	 2 	 system developed
+11 	 8 	 NP[nb]/N 	 1 	 system an
+11 	 9 	 N/N 	 1 	 system early
+11 	 10 	 N/N 	 1 	 system language-housekeeper
+11 	 12 	 (NP\NP)/NP 	 1 	 system for
+13 	 12 	 (NP\NP)/NP 	 2 	 PCs for
+16 	 17 	 (S[dcl]\NP)/NP 	 1 	 Gates became
+17 	 23 	 (((S\NP)\(S\NP))\NP)/S[dcl] 	 2 	 became after
+20 	 17 	 (S[dcl]\NP)/NP 	 2 	 billionaire became
+20 	 18 	 NP[nb]/N 	 1 	 billionaire an
+20 	 19 	 N/N 	 1 	 billionaire industry
+22 	 21 	 N/N 	 1 	 years six
+22 	 23 	 (((S\NP)\(S\NP))\NP)/S[dcl] 	 3 	 years after
+24 	 25 	 (S[dcl]\NP)/NP 	 1 	 IBM adapted
+25 	 23 	 (((S\NP)\(S\NP))\NP)/S[dcl] 	 4 	 adapted after
+25 	 30 	 ((S\NP)\(S\NP))/NP 	 2 	 adapted in
+26 	 25 	 (S[dcl]\NP)/NP 	 2 	 one adapted
+26 	 27 	 (NP\NP)/NP 	 1 	 one of
+29 	 27 	 (NP\NP)/NP 	 2 	 versions of
+29 	 28 	 NP[nb]/N 	 1 	 versions these
+31 	 30 	 ((S\NP)\(S\NP))/NP 	 3 	 1981 in
+<\s>
+<s id="wsj_0022.14"> 20
+2 	 0 	 N/N 	 1 	 Shugart Alan
+2 	 1 	 N/N 	 1 	 Shugart F.
+2 	 10 	 (S[dcl]\NP)/NP 	 1 	 Shugart led
+5 	 4 	 NP/NP 	 1 	 chairman currently
+5 	 6 	 (NP\NP)/NP 	 1 	 chairman of
+5 	 10 	 (S[dcl]\NP)/NP 	 1 	 chairman led
+8 	 6 	 (NP\NP)/NP 	 2 	 Technology of
+8 	 7 	 N/N 	 1 	 Technology Seagate
+12 	 10 	 (S[dcl]\NP)/NP 	 2 	 team led
+12 	 11 	 NP[nb]/N 	 1 	 team the
+12 	 13 	 (NP\NP)/(S[dcl]\NP) 	 1 	 team that
+12 	 14 	 (S[dcl]\NP)/NP 	 1 	 team developed <XB>
+14 	 13 	 (NP\NP)/(S[dcl]\NP) 	 2 	 developed that
+17 	 14 	 (S[dcl]\NP)/NP 	 2 	 drives developed
+17 	 15 	 NP[nb]/N 	 1 	 drives the
+17 	 16 	 N/N 	 1 	 drives disk
+17 	 18 	 (NP\NP)/NP 	 1 	 drives for
+19 	 18 	 (NP\NP)/NP 	 2 	 PCs for
+<\s>
+<s id="wsj_0022.15"> 25
+1 	 0 	 N/N 	 1 	 Hayes Dennis
+1 	 10 	 (S[dcl]\NP)/NP 	 1 	 Hayes were
+4 	 3 	 N/N 	 1 	 Heatherington Dale
+4 	 10 	 (S[dcl]\NP)/NP 	 1 	 Heatherington were
+8 	 6 	 N/N 	 1 	 engineers two
+8 	 7 	 N/N 	 1 	 engineers Atlanta
+8 	 10 	 (S[dcl]\NP)/NP 	 1 	 engineers were
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 co-developers were
+11 	 12 	 (NP\NP)/NP 	 1 	 co-developers of
+15 	 12 	 (NP\NP)/NP 	 2 	 modems of
+15 	 13 	 NP[nb]/N 	 1 	 modems the
+15 	 14 	 N/N 	 1 	 modems internal
+15 	 16 	 (NP\NP)/(S[dcl]\NP) 	 1 	 modems that
+15 	 17 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 modems allow <XB>
+17 	 16 	 (NP\NP)/(S[dcl]\NP) 	 2 	 allow that
+18 	 17 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 PCs allow
+18 	 20 	 (S[b]\NP)/NP 	 1 	 PCs share <XB>
+19 	 17 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to allow
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 share to
+20 	 22 	 ((S\NP)\(S\NP))/NP 	 2 	 share via
+21 	 20 	 (S[b]\NP)/NP 	 2 	 data share
+24 	 22 	 ((S\NP)\(S\NP))/NP 	 3 	 telephone via
+24 	 23 	 NP[nb]/N 	 1 	 telephone the
+<\s>
+<s id="wsj_0022.16"> 24
+0 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 IBM did
+0 	 10 	 (S[b]\NP)/NP 	 1 	 IBM offer <XB>
+4 	 2 	 NP[nb]/N 	 1 	 leader the
+4 	 3 	 N/N 	 1 	 leader world
+4 	 5 	 (NP\NP)/NP 	 1 	 leader in
+4 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 leader did
+4 	 10 	 (S[b]\NP)/NP 	 1 	 leader offer <XB>
+6 	 5 	 (NP\NP)/NP 	 2 	 computers in
+8 	 9 	 (S\NP)\(S\NP) 	 2 	 did n't
+10 	 8 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 offer did
+10 	 14 	 ((S\NP)\(S\NP))/NP 	 2 	 offer until
+10 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 offer as
+13 	 10 	 (S[b]\NP)/NP 	 2 	 PC offer
+13 	 11 	 NP[nb]/N 	 1 	 PC its
+13 	 12 	 N/N 	 1 	 PC first
+15 	 14 	 ((S\NP)\(S\NP))/NP 	 3 	 August until
+15 	 16 	 N\N 	 1 	 August 1981
+20 	 18 	 N/N 	 1 	 companies many
+20 	 19 	 N/N 	 1 	 companies other
+20 	 21 	 (S[dcl]\NP)/NP 	 1 	 companies entered
+21 	 17 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 entered as
+23 	 21 	 (S[dcl]\NP)/NP 	 2 	 market entered
+23 	 22 	 NP[nb]/N 	 1 	 market the
+<\s>
+<s id="wsj_0022.17"> 11
+3 	 2 	 N/N 	 1 	 shipments PC
+3 	 5 	 (S[dcl]\NP)/NP 	 1 	 shipments total
+5 	 0 	 S/S 	 1 	 total Today
+5 	 4 	 (S\NP)/(S\NP) 	 2 	 total annually
+5 	 10 	 (S\NP)\(S\NP) 	 2 	 total world-wide
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 $ total
+7 	 6 	 N/N 	 1 	 $ some
+9 	 7 	 N/N[num] 	 1 	 billion $
+9 	 8 	 N/N 	 1 	 billion 38.3
+<\s>

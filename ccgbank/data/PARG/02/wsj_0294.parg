@@ -1,0 +1,606 @@
+<s id="wsj_0294.1"> 28
+1 	 0 	 NP[nb]/N 	 1 	 arbitrator An
+1 	 2 	 ((S[dcl]\NP)/NP)/NP 	 1 	 arbitrator awarded
+5 	 2 	 ((S[dcl]\NP)/NP)/NP 	 3 	 pilots awarded
+5 	 3 	 N/N 	 1 	 pilots Eastern
+5 	 4 	 N/N 	 1 	 pilots Airlines
+7 	 2 	 ((S[dcl]\NP)/NP)/NP 	 2 	 $ awarded
+7 	 6 	 N/N 	 1 	 $ between
+7 	 14 	 (NP\NP)/NP 	 1 	 $ in
+9 	 7 	 N/N[num] 	 1 	 million $
+9 	 8 	 N/N 	 1 	 million 60
+11 	 2 	 ((S[dcl]\NP)/NP)/NP 	 2 	 $ awarded
+11 	 6 	 N/N 	 1 	 $ between
+11 	 14 	 (NP\NP)/NP 	 1 	 $ in
+13 	 11 	 N/N[num] 	 1 	 million $
+13 	 12 	 N/N 	 1 	 million 100
+16 	 14 	 (NP\NP)/NP 	 2 	 pay in
+16 	 15 	 N/N 	 1 	 pay back
+19 	 18 	 NP[nb]/N 	 1 	 decision a
+19 	 20 	 (NP\NP)/(S[dcl]\NP) 	 1 	 decision that
+19 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 decision could <XB>
+19 	 22 	 (S[b]\NP)/NP 	 1 	 decision complicate <XB>
+21 	 20 	 (NP\NP)/(S[dcl]\NP) 	 2 	 could that
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 complicate could
+24 	 23 	 NP[nb]/N 	 1 	 carrier the
+24 	 25 	 (NP[nb]/N)\NP 	 2 	 carrier 's
+27 	 22 	 (S[b]\NP)/NP 	 2 	 reorganization complicate
+27 	 25 	 (NP[nb]/N)\NP 	 1 	 reorganization 's
+27 	 26 	 N/N 	 1 	 reorganization bankruptcy-law
+<\s>
+<s id="wsj_0294.2"> 21
+0 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 Eastern said
+3 	 2 	 NP[nb]/N 	 1 	 unit a
+3 	 4 	 (NP\NP)/NP 	 1 	 unit of
+3 	 9 	 (S[dcl]\NP)/S[dcl] 	 1 	 unit said
+7 	 4 	 (NP\NP)/NP 	 2 	 Corp. of
+7 	 5 	 N/N 	 1 	 Corp. Texas
+7 	 6 	 N/N 	 1 	 Corp. Air
+10 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 it is
+10 	 12 	 (S[ng]\NP)/NP 	 1 	 it examining <XB>
+10 	 16 	 (S[b]\NP)/S[qem] 	 1 	 it determine <XB>
+11 	 9 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+12 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 examining is
+14 	 12 	 (S[ng]\NP)/NP 	 2 	 ruling examining
+14 	 13 	 NP[nb]/N 	 1 	 ruling the
+16 	 15 	 (S[to]\NP)/(S[b]\NP) 	 2 	 determine to
+17 	 16 	 (S[b]\NP)/S[qem] 	 2 	 if determine
+18 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it can
+18 	 20 	 S[b]\NP 	 1 	 it appeal <XB>
+19 	 17 	 S[qem]/S[dcl] 	 1 	 can if
+20 	 19 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 appeal can
+<\s>
+<s id="wsj_0294.3"> 37
+0 	 1 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 1 	 It 's
+2 	 1 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 3 	 unclear 's
+3 	 1 	 ((S[dcl]\NP[expl])/S[qem])/(S[adj]\NP) 	 2 	 whether 's
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 Eastern will
+4 	 6 	 S[b]\NP 	 1 	 Eastern succeed <XB>
+4 	 8 	 (S[ng]\NP)/NP 	 1 	 Eastern overturning <XB>
+5 	 3 	 S[qem]/S[dcl] 	 1 	 will whether
+6 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 succeed will
+6 	 7 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 2 	 succeed in
+8 	 7 	 ((S\NP)\(S\NP))/(S[ng]\NP) 	 3 	 overturning in
+10 	 9 	 NP[nb]/N 	 1 	 arbitrator the
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 arbitrator 's
+12 	 8 	 (S[ng]\NP)/NP 	 2 	 decision overturning
+12 	 11 	 (NP[nb]/N)\NP 	 1 	 decision 's
+12 	 14 	 S[pss]\NP 	 1 	 decision made <XB>
+14 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 made in
+20 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 dispute in
+20 	 16 	 NP[nb]/N 	 1 	 dispute a
+20 	 17 	 N/N 	 1 	 dispute long-simmering
+20 	 18 	 N/N 	 1 	 dispute pay
+20 	 19 	 N/N 	 1 	 dispute parity
+20 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 dispute that
+20 	 22 	 (S[dcl]\NP)/NP 	 1 	 dispute predates <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 predates that
+25 	 24 	 NP[nb]/N 	 1 	 carrier the
+25 	 26 	 (NP[nb]/N)\NP 	 2 	 carrier 's
+29 	 22 	 (S[dcl]\NP)/NP 	 2 	 petition predates
+29 	 23 	 NP/NP 	 1 	 petition both
+29 	 26 	 (NP[nb]/N)\NP 	 1 	 petition 's
+29 	 27 	 N/N 	 1 	 petition Chapter
+29 	 28 	 N/N 	 1 	 petition 11
+33 	 22 	 (S[dcl]\NP)/NP 	 2 	 acquisition predates
+33 	 23 	 NP/NP 	 1 	 acquisition both
+33 	 31 	 NP[nb]/N 	 1 	 acquisition its
+33 	 32 	 N/N 	 1 	 acquisition 1986
+33 	 34 	 (NP\NP)/NP 	 1 	 acquisition by
+36 	 34 	 (NP\NP)/NP 	 2 	 Air by
+36 	 35 	 N/N 	 1 	 Air Texas
+<\s>
+<s id="wsj_0294.4"> 15
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Eastern 's
+5 	 0 	 NP/NP 	 1 	 efforts All
+5 	 2 	 (NP[nb]/N)\NP 	 1 	 efforts 's
+5 	 3 	 N/N 	 1 	 efforts previous
+5 	 4 	 N/N 	 1 	 efforts court
+5 	 7 	 (S[b]\NP)/NP 	 1 	 efforts head <XB>
+5 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 efforts have
+5 	 14 	 S[pt]\NP 	 1 	 efforts failed <XB>
+7 	 6 	 (S[to]\NP)/(S[b]\NP) 	 2 	 head to
+7 	 8 	 (S\NP)\(S\NP) 	 2 	 head off
+10 	 9 	 NP[nb]/N 	 1 	 pilots the
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 pilots '
+12 	 7 	 (S[b]\NP)/NP 	 2 	 demands head
+12 	 11 	 (NP[nb]/N)\NP 	 1 	 demands '
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 failed have
+<\s>
+<s id="wsj_0294.5"> 25
+2 	 0 	 NP[nb]/N 	 1 	 spokesman An
+2 	 1 	 N/N 	 1 	 spokesman Eastern
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 spokesman said
+4 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 he does
+4 	 7 	 (S[b]\NP)/S[em] 	 1 	 he expect <XB>
+5 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 does said
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 does n't
+7 	 5 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 expect does
+8 	 7 	 (S[b]\NP)/S[em] 	 2 	 that expect
+10 	 9 	 NP[nb]/N 	 1 	 arbitrator the
+10 	 11 	 (NP[nb]/N)\NP 	 2 	 arbitrator 's
+12 	 11 	 (NP[nb]/N)\NP 	 1 	 ruling 's
+12 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 ruling will
+12 	 14 	 (S[b]\NP)/NP 	 1 	 ruling have <XB>
+13 	 8 	 S[em]/S[dcl] 	 1 	 will that
+14 	 13 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+18 	 14 	 (S[b]\NP)/NP 	 2 	 effect have
+18 	 15 	 NP[nb]/N 	 1 	 effect any
+18 	 16 	 N/N 	 1 	 effect overall
+18 	 17 	 N/N 	 1 	 effect material
+18 	 19 	 (NP\NP)/NP 	 1 	 effect on
+21 	 20 	 NP[nb]/N 	 1 	 company the
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 company 's
+24 	 19 	 (NP\NP)/NP 	 2 	 plan on
+24 	 22 	 (NP[nb]/N)\NP 	 1 	 plan 's
+24 	 23 	 N/N 	 1 	 plan strategic
+<\s>
+<s id="wsj_0294.6"> 20
+1 	 0 	 N/N 	 1 	 experts Bankruptcy
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 experts said
+4 	 3 	 NP[nb]/N 	 1 	 law the
+4 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 law is
+4 	 7 	 (S[adj]\NP)/PP 	 1 	 law clear <XB>
+5 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 is said
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 is n't
+7 	 5 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 clear is
+8 	 7 	 (S[adj]\NP)/PP 	 2 	 on clear
+9 	 8 	 PP/S[qem] 	 1 	 how on
+13 	 10 	 NP/NP 	 1 	 ruling such
+13 	 11 	 NP[nb]/N 	 1 	 ruling an
+13 	 12 	 N/N 	 1 	 ruling arbitration
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 ruling can
+13 	 15 	 (S[b]\NP)/NP 	 1 	 ruling affect <XB>
+14 	 9 	 S[qem]/S[dcl] 	 1 	 can how
+15 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 affect can
+17 	 16 	 NP[nb]/N 	 1 	 company a
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 company 's
+19 	 15 	 (S[b]\NP)/NP 	 2 	 case affect
+19 	 18 	 (NP[nb]/N)\NP 	 1 	 case 's
+<\s>
+<s id="wsj_0294.7"> 19
+3 	 0 	 (S/S)/NP 	 2 	 creditor Like
+3 	 1 	 NP[nb]/N 	 1 	 creditor any
+3 	 2 	 N/N 	 1 	 creditor other
+6 	 5 	 NP[nb]/N 	 1 	 pilots the
+6 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 pilots will
+6 	 10 	 ((S[b]\NP)/PP)/PP 	 1 	 pilots apply <XB>
+7 	 0 	 (S/S)/NP 	 1 	 will Like
+8 	 7 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have will
+9 	 8 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+10 	 9 	 (S[to]\NP)/(S[b]\NP) 	 2 	 apply to
+11 	 10 	 ((S[b]\NP)/PP)/PP 	 3 	 to apply
+13 	 11 	 PP/NP 	 1 	 court to
+13 	 12 	 NP[nb]/N 	 1 	 court the
+14 	 10 	 ((S[b]\NP)/PP)/PP 	 2 	 for apply
+15 	 14 	 PP/NP 	 1 	 payment for
+15 	 16 	 (NP\NP)/NP 	 1 	 payment of
+18 	 16 	 (NP\NP)/NP 	 2 	 claim of
+18 	 17 	 NP[nb]/N 	 1 	 claim their
+<\s>
+<s id="wsj_0294.8"> 25
+0 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 That may
+0 	 2 	 (S[b]\NP)/NP 	 1 	 That leave <XB>
+2 	 1 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 leave may
+4 	 2 	 (S[b]\NP)/NP 	 2 	 lot leave
+4 	 3 	 NP[nb]/N 	 1 	 lot a
+4 	 5 	 (NP\NP)/NP 	 1 	 lot of
+6 	 5 	 (NP\NP)/NP 	 2 	 leeway of
+6 	 7 	 ((NP\NP)/(S[to]\NP))/NP 	 1 	 leeway for
+13 	 7 	 ((NP\NP)/(S[to]\NP))/NP 	 3 	 Lifland for
+13 	 8 	 N/N 	 1 	 Lifland U.S.
+13 	 9 	 N/N 	 1 	 Lifland Bankruptcy
+13 	 10 	 N/N 	 1 	 Lifland Judge
+13 	 11 	 N/N 	 1 	 Lifland Burton
+13 	 12 	 N/N 	 1 	 Lifland R.
+13 	 15 	 (S[b]\NP)/S[qem] 	 1 	 Lifland decide <XB>
+14 	 7 	 ((NP\NP)/(S[to]\NP))/NP 	 2 	 to for
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 decide to
+16 	 15 	 (S[b]\NP)/S[qem] 	 2 	 what decide
+19 	 18 	 (S/S)/NP 	 2 	 anything if
+22 	 21 	 NP[nb]/N 	 1 	 pilots the
+22 	 24 	 (S[dcl]\NP)/NP 	 1 	 pilots collect
+24 	 16 	 S[qem]/(S[dcl]/NP) 	 1 	 collect what
+24 	 18 	 (S/S)/NP 	 1 	 collect if
+24 	 23 	 (S\NP)/(S\NP) 	 2 	 collect actually
+<\s>
+<s id="wsj_0294.9"> 18
+1 	 0 	 (S/S)/NP 	 2 	 August In
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 he issued
+4 	 0 	 (S/S)/NP 	 1 	 issued In
+6 	 4 	 (S[dcl]\NP)/NP 	 2 	 ruling issued
+6 	 5 	 NP[nb]/N 	 1 	 ruling the
+6 	 7 	 (NP\NP)/(S[dcl]\NP) 	 1 	 ruling that
+6 	 8 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 1 	 ruling let <XB>
+8 	 7 	 (NP\NP)/(S[dcl]\NP) 	 2 	 let that
+10 	 8 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 3 	 pilots let
+10 	 9 	 NP[nb]/N 	 1 	 pilots the
+10 	 11 	 (S[b]\NP)/NP 	 1 	 pilots pursue <XB>
+11 	 8 	 ((S[dcl]\NP)/(S[b]\NP))/NP 	 2 	 pursue let
+11 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 pursue before
+14 	 11 	 (S[b]\NP)/NP 	 2 	 grievance pursue
+14 	 12 	 NP[nb]/N 	 1 	 grievance their
+14 	 13 	 N/N 	 1 	 grievance back-pay
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 arbitrator before
+17 	 16 	 NP[nb]/N 	 1 	 arbitrator the
+<\s>
+<s id="wsj_0294.10"> 17
+1 	 0 	 NP[nb]/N 	 1 	 pilots The
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 pilots '
+3 	 2 	 (NP[nb]/N)\NP 	 1 	 contract '
+3 	 4 	 (NP\NP)/NP 	 1 	 contract with
+3 	 6 	 (S[dcl]\NP)/S[for] 	 1 	 contract calls
+5 	 4 	 (NP\NP)/NP 	 2 	 Eastern with
+7 	 6 	 (S[dcl]\NP)/S[for] 	 2 	 for calls
+10 	 9 	 (N/N)/(N/N) 	 2 	 acceptable mutually
+12 	 7 	 (S[for]/(S[to]\NP))/NP 	 2 	 arbitrator for
+12 	 8 	 NP[nb]/N 	 1 	 arbitrator a
+12 	 10 	 N/N 	 1 	 arbitrator acceptable
+12 	 11 	 N/N 	 1 	 arbitrator private
+12 	 14 	 (S[b]\NP)/NP 	 1 	 arbitrator resolve <XB>
+13 	 7 	 (S[for]/(S[to]\NP))/NP 	 1 	 to for
+14 	 13 	 (S[to]\NP)/(S[b]\NP) 	 2 	 resolve to
+16 	 14 	 (S[b]\NP)/NP 	 2 	 grievances resolve
+16 	 15 	 NP/NP 	 1 	 grievances such
+<\s>
+<s id="wsj_0294.11"> 15
+2 	 0 	 (S/S)/NP 	 2 	 statement In
+2 	 1 	 NP[nb]/N 	 1 	 statement a
+2 	 3 	 (NP\NP)/NP 	 1 	 statement to
+4 	 3 	 (NP\NP)/NP 	 2 	 employees to
+6 	 7 	 (S[dcl]\NP)/S[dcl] 	 1 	 Eastern said
+7 	 0 	 (S/S)/NP 	 1 	 said In
+9 	 8 	 NP[nb]/N 	 1 	 company the
+9 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 company was
+9 	 11 	 (S[adj]\NP)/PP 	 1 	 company disappointed <XB>
+10 	 7 	 (S[dcl]\NP)/S[dcl] 	 2 	 was said
+11 	 10 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 disappointed was
+12 	 11 	 (S[adj]\NP)/PP 	 2 	 by disappointed
+14 	 12 	 PP/NP 	 1 	 ruling by
+14 	 13 	 NP[nb]/N 	 1 	 ruling the
+<\s>
+<s id="wsj_0294.12"> 9
+1 	 0 	 NP[nb]/N 	 1 	 obligation The
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 obligation is
+1 	 4 	 S[adj]\NP 	 1 	 obligation unwarranted <XB>
+2 	 8 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+4 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 unwarranted is
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 unwarranted totally
+7 	 6 	 NP[nb]/N 	 1 	 statement the
+7 	 8 	 (S[dcl]\S[dcl])\NP 	 2 	 statement said
+<\s>
+<s id="wsj_0294.13"> 18
+1 	 0 	 N/N 	 1 	 Linsey James
+1 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 Linsey said
+4 	 3 	 NP[nb]/N 	 1 	 lawyer a
+4 	 5 	 (NP\NP)/NP 	 1 	 lawyer for
+4 	 12 	 (S[dcl]\NP)/S[dcl] 	 1 	 lawyer said
+10 	 5 	 (NP\NP)/NP 	 2 	 Association for
+10 	 6 	 NP[nb]/N 	 1 	 Association the
+10 	 7 	 N/N 	 1 	 Association Air
+10 	 8 	 N/N 	 1 	 Association Line
+10 	 9 	 N/N 	 1 	 Association Pilots
+14 	 13 	 NP[nb]/N 	 1 	 pilots the
+14 	 15 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 pilots were
+14 	 17 	 S[adj]\NP 	 1 	 pilots pleased <XB>
+15 	 12 	 (S[dcl]\NP)/S[dcl] 	 2 	 were said
+17 	 15 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 pleased were
+17 	 16 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 pleased extremely
+<\s>
+<s id="wsj_0294.14"> 16
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 This is
+1 	 15 	 (S[dcl]\S[dcl])\NP 	 1 	 is said
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 blow is
+3 	 2 	 NP[nb]/N 	 1 	 blow a
+3 	 6 	 (NP\NP)/NP 	 1 	 blow to
+3 	 9 	 (NP\NP)/NP 	 1 	 blow to <XU>
+5 	 4 	 ((NP\NP)/(NP\NP))/((NP\NP)/(NP\NP)) 	 3 	 only not
+6 	 5 	 (NP\NP)/(NP\NP) 	 2 	 to only
+7 	 6 	 (NP\NP)/NP 	 2 	 Eastern to
+9 	 5 	 (NP\NP)/(NP\NP) 	 2 	 to only
+12 	 9 	 (NP\NP)/NP 	 2 	 committee to
+12 	 10 	 NP[nb]/N 	 1 	 committee the
+12 	 11 	 N/N 	 1 	 committee creditors
+14 	 15 	 (S[dcl]\S[dcl])\NP 	 2 	 he said
+<\s>
+<s id="wsj_0294.15"> 38
+0 	 1 	 (NP[nb]/N)\NP 	 2 	 Eastern 's
+3 	 1 	 (NP[nb]/N)\NP 	 1 	 committee 's
+3 	 2 	 N/N 	 1 	 committee creditors
+3 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 committee has
+3 	 12 	 (S[pt]\NP)/NP 	 1 	 committee opposed <XB>
+6 	 5 	 ((S\NP)/(S\NP))/PP 	 3 	 with along
+8 	 6 	 PP/NP 	 1 	 company with
+8 	 7 	 NP[nb]/N 	 1 	 company the
+10 	 5 	 ((S\NP)/(S\NP))/PP 	 2 	 has along
+12 	 10 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 opposed has
+12 	 11 	 (S\NP)/(S\NP) 	 2 	 opposed consistently
+14 	 13 	 NP[nb]/N 	 1 	 pilots the
+14 	 15 	 (NP[nb]/N)\NP 	 2 	 pilots '
+16 	 12 	 (S[pt]\NP)/NP 	 2 	 claim opposed
+16 	 15 	 (NP[nb]/N)\NP 	 1 	 claim '
+16 	 18 	 (NP\NP)/(S[dcl]\NP) 	 1 	 claim which
+16 	 20 	 S[pss]\NP 	 1 	 claim paid <XB>
+16 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 claim would <XB>
+16 	 24 	 (S[b]\NP)/PP 	 1 	 claim come <XB>
+20 	 19 	 ((S\NP)/(S\NP))/(S[pss]\NP) 	 3 	 paid if
+21 	 18 	 (NP\NP)/(S[dcl]\NP) 	 2 	 would which
+21 	 19 	 ((S\NP)/(S\NP))/(S[pss]\NP) 	 2 	 would if
+22 	 21 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 have would
+23 	 22 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to have
+24 	 23 	 (S[to]\NP)/(S[b]\NP) 	 2 	 come to
+26 	 24 	 (S[b]\NP)/PP 	 2 	 of come
+26 	 25 	 PP/PP 	 1 	 of out
+27 	 26 	 PP/NP 	 1 	 money of
+27 	 31 	 ((S[b]\NP)/(S[to]\NP))/NP 	 3 	 money use <XU>
+27 	 33 	 (S[b]\NP)/NP 	 1 	 money pay <XU>
+28 	 29 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 both hope
+28 	 31 	 ((S[b]\NP)/(S[to]\NP))/NP 	 1 	 both use <XB>
+30 	 29 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to hope
+31 	 30 	 (S[to]\NP)/(S[b]\NP) 	 2 	 use to
+32 	 31 	 ((S[b]\NP)/(S[to]\NP))/NP 	 2 	 to use
+33 	 32 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+33 	 34 	 (S\NP)\(S\NP) 	 2 	 pay off
+37 	 33 	 (S[b]\NP)/NP 	 2 	 claims pay
+37 	 35 	 N/N 	 1 	 claims other
+37 	 36 	 N/N 	 1 	 claims bankruptcy
+<\s>
+<s id="wsj_0294.16"> 24
+0 	 4 	 (S[dcl]\NP)/PP 	 1 	 Eastern are
+3 	 2 	 NP[nb]/N 	 1 	 creditors its
+3 	 4 	 (S[dcl]\NP)/PP 	 1 	 creditors are
+5 	 4 	 (S[dcl]\NP)/PP 	 2 	 in are
+10 	 5 	 PP/NP 	 1 	 stages in
+10 	 6 	 NP[nb]/N 	 1 	 stages the
+10 	 7 	 N/N 	 1 	 stages final
+10 	 9 	 N/N 	 1 	 stages delicate
+10 	 11 	 (NP\NP)/(S[ng]\NP) 	 1 	 stages of
+12 	 11 	 (NP\NP)/(S[ng]\NP) 	 2 	 negotiating of
+16 	 12 	 (S[ng]\NP)/NP 	 2 	 plan negotiating
+16 	 13 	 NP[nb]/N 	 1 	 plan a
+16 	 14 	 N/N 	 1 	 plan second
+16 	 15 	 N/N 	 1 	 plan reorganization
+16 	 18 	 (S[b]\NP)/NP 	 1 	 plan pay <XB>
+18 	 17 	 (S[to]\NP)/(S[b]\NP) 	 2 	 pay to
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 pay off
+21 	 20 	 NP[nb]/N 	 1 	 airline the
+21 	 22 	 (NP[nb]/N)\NP 	 2 	 airline 's
+23 	 18 	 (S[b]\NP)/NP 	 2 	 debts pay
+23 	 22 	 (NP[nb]/N)\NP 	 1 	 debts 's
+<\s>
+<s id="wsj_0294.17"> 22
+2 	 0 	 NP[nb]/N 	 1 	 plan An
+2 	 1 	 N/N 	 1 	 plan earlier
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 plan which
+2 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 plan had <XB>
+2 	 6 	 (S[pt]\NP)/NP 	 1 	 plan received <XB>
+2 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 plan fell
+2 	 15 	 S[adj]\NP 	 1 	 plan apart <XB>
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had which
+6 	 5 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 received had
+6 	 11 	 ((S\NP)\(S\NP))/NP 	 2 	 received in
+8 	 7 	 NP[nb]/N 	 1 	 creditors the
+8 	 9 	 (NP[nb]/N)\NP 	 2 	 creditors '
+10 	 6 	 (S[pt]\NP)/NP 	 2 	 approval received
+10 	 9 	 (NP[nb]/N)\NP 	 1 	 approval '
+12 	 11 	 ((S\NP)\(S\NP))/NP 	 3 	 July in
+14 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 fell when
+15 	 14 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 apart fell
+17 	 18 	 (S[dcl]\NP)/NP 	 1 	 Eastern changed
+18 	 16 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 changed when
+21 	 18 	 (S[dcl]\NP)/NP 	 2 	 plan changed
+21 	 19 	 NP[nb]/N 	 1 	 plan its
+21 	 20 	 N/N 	 1 	 plan business
+<\s>
+<s id="wsj_0294.18"> 13
+0 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 It is
+0 	 3 	 (S[pss]\NP)/S[qem] 	 1 	 It known <XB>
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is n't
+3 	 1 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 known is
+4 	 3 	 (S[pss]\NP)/S[qem] 	 2 	 whether known
+7 	 5 	 NP[nb]/N 	 1 	 claim the
+7 	 6 	 N/N 	 1 	 claim pilot
+7 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 claim was
+7 	 9 	 (S[pss]\NP)/PP 	 1 	 claim figured <XB>
+8 	 4 	 S[qem]/S[dcl] 	 1 	 was whether
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 figured was
+10 	 9 	 (S[pss]\NP)/PP 	 2 	 into figured
+12 	 10 	 PP/NP 	 1 	 plan into
+12 	 11 	 NP[nb]/N 	 1 	 plan either
+<\s>
+<s id="wsj_0294.19"> 18
+1 	 0 	 NP[nb]/N 	 1 	 dispute The
+1 	 2 	 (NP\NP)/NP 	 1 	 dispute between
+1 	 7 	 (S[dcl]\NP)/PP 	 1 	 dispute is
+3 	 2 	 (NP\NP)/NP 	 2 	 Eastern between
+6 	 2 	 (NP\NP)/NP 	 2 	 pilots between
+6 	 5 	 NP[nb]/N 	 1 	 pilots its
+8 	 7 	 (S[dcl]\NP)/PP 	 2 	 over is
+12 	 8 	 PP/NP 	 1 	 clause over
+12 	 9 	 NP[nb]/N 	 1 	 clause a
+12 	 10 	 N/N 	 1 	 clause pay
+12 	 11 	 N/N 	 1 	 clause parity
+12 	 13 	 (NP\NP)/NP 	 1 	 clause in
+15 	 14 	 NP[nb]/N 	 1 	 pilots the
+15 	 16 	 (NP[nb]/N)\NP 	 2 	 pilots '
+17 	 13 	 (NP\NP)/NP 	 2 	 contract in
+17 	 16 	 (NP[nb]/N)\NP 	 1 	 contract '
+<\s>
+<s id="wsj_0294.20"> 25
+1 	 0 	 NP[nb]/N 	 1 	 clause The
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 clause was
+3 	 2 	 (S[dcl]\NP)/NP 	 2 	 part was
+3 	 4 	 (NP\NP)/NP 	 1 	 part of
+6 	 4 	 (NP\NP)/NP 	 2 	 agreement of
+6 	 5 	 NP[nb]/N 	 1 	 agreement an
+6 	 8 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 1 	 agreement which
+7 	 8 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 3 	 in which
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 pilots accepted
+10 	 8 	 ((NP\NP)/S[dcl])\((NP\NP)/NP) 	 2 	 accepted which
+10 	 16 	 (S\NP)\(S\NP) 	 2 	 accepted long
+14 	 10 	 (S[dcl]\NP)/NP 	 2 	 cut accepted
+14 	 11 	 NP[nb]/N 	 1 	 cut a
+14 	 12 	 N/N 	 1 	 cut substantial
+14 	 13 	 N/N 	 1 	 cut pay
+16 	 15 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 long as
+16 	 17 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 3 	 long as
+21 	 18 	 NP[nb]/N 	 1 	 group no
+21 	 19 	 N/N 	 1 	 group other
+21 	 20 	 N/N 	 1 	 group labor
+21 	 22 	 (S[dcl]\NP)/NP 	 1 	 group got
+22 	 17 	 (((S\NP)\(S\NP))\((S\NP)\(S\NP)))/S[dcl] 	 4 	 got as
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 raise got
+24 	 23 	 NP[nb]/N 	 1 	 raise a
+<\s>
+<s id="wsj_0294.21"> 19
+1 	 0 	 (S/S)/(S/S) 	 2 	 after Shortly
+3 	 2 	 N/N 	 1 	 Air Texas
+3 	 4 	 (S[dcl]\NP)/NP 	 1 	 Air took
+4 	 1 	 (S/S)/S[dcl] 	 2 	 took after
+5 	 4 	 (S[dcl]\NP)/NP 	 2 	 control took
+5 	 6 	 (NP\NP)/NP 	 1 	 control of
+7 	 6 	 (NP\NP)/NP 	 2 	 Eastern of
+12 	 9 	 NP[nb]/N 	 1 	 supervisors some
+12 	 10 	 N/N 	 1 	 supervisors Machinists
+12 	 11 	 N/N 	 1 	 supervisors union
+12 	 13 	 (S[dcl]\NP)/NP 	 1 	 supervisors received
+13 	 1 	 (S/S)/S[dcl] 	 1 	 received after
+16 	 15 	 (N/N)/(N/N) 	 2 	 % 20
+18 	 13 	 (S[dcl]\NP)/NP 	 2 	 raise received
+18 	 14 	 NP[nb]/N 	 1 	 raise a
+18 	 16 	 N/N 	 1 	 raise %
+18 	 17 	 N/N 	 1 	 raise pay
+<\s>
+<s id="wsj_0294.22"> 11
+1 	 0 	 NP[nb]/N 	 1 	 pilots The
+1 	 2 	 (S[dcl]\NP)/S[em] 	 1 	 pilots argued
+3 	 2 	 (S[dcl]\NP)/S[em] 	 2 	 that argued
+4 	 5 	 (S[dcl]\NP)/NP 	 1 	 this triggered
+5 	 3 	 S[em]/S[dcl] 	 1 	 triggered that
+8 	 5 	 (S[dcl]\NP)/NP 	 2 	 raise triggered
+8 	 6 	 NP[nb]/N 	 1 	 raise a
+8 	 7 	 N/N 	 1 	 raise pay
+8 	 9 	 (NP\NP)/NP 	 1 	 raise for
+10 	 9 	 (NP\NP)/NP 	 2 	 them for
+<\s>
+<s id="wsj_0294.23"> 25
+0 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Eastern has
+0 	 2 	 (S[pt]\NP)/NP 	 1 	 Eastern disputed <XB>
+2 	 1 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 disputed has
+4 	 2 	 (S[pt]\NP)/NP 	 2 	 claim disputed
+4 	 3 	 NP[nb]/N 	 1 	 claim the
+10 	 7 	 NP[nb]/N 	 1 	 court a
+10 	 8 	 N/N 	 1 	 court federal
+10 	 9 	 N/N 	 1 	 court district
+10 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 court have
+10 	 21 	 (S[pt]\NP)/PP 	 1 	 court sided <XB>
+14 	 12 	 NP[nb]/N 	 1 	 court an
+14 	 13 	 N/N 	 1 	 court appeals
+14 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 court have
+14 	 21 	 (S[pt]\NP)/PP 	 1 	 court sided <XB>
+18 	 16 	 NP/NP 	 1 	 arbitrator now
+18 	 17 	 NP[nb]/N 	 1 	 arbitrator the
+18 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 arbitrator have
+18 	 21 	 (S[pt]\NP)/PP 	 1 	 arbitrator sided <XB>
+19 	 20 	 (S\NP)\(S\NP) 	 2 	 have all
+21 	 19 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 sided have
+22 	 21 	 (S[pt]\NP)/PP 	 2 	 with sided
+24 	 22 	 PP/NP 	 1 	 pilots with
+24 	 23 	 NP[nb]/N 	 1 	 pilots the
+<\s>
+<s id="wsj_0294.24"> 14
+2 	 0 	 NP[nb]/N 	 1 	 sides The
+2 	 1 	 N/N 	 1 	 sides two
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 sides do
+2 	 6 	 (S[b]\NP)/PP 	 1 	 sides agree <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 do n't
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 do even
+6 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 agree do
+7 	 6 	 (S[b]\NP)/PP 	 2 	 about agree
+8 	 7 	 PP/S[qem] 	 1 	 how about
+9 	 8 	 ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP) 	 3 	 much how
+10 	 8 	 ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP) 	 2 	 money how
+11 	 8 	 ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP) 	 1 	 is how
+12 	 11 	 (S[dcl]\NP)/PP 	 2 	 at is
+13 	 12 	 PP/NP 	 1 	 issue at
+<\s>
+<s id="wsj_0294.26"> 29
+1 	 0 	 NP[nb]/N 	 1 	 arbitrator Another
+1 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 arbitrator is
+1 	 3 	 (S[ng]\NP)/NP 	 1 	 arbitrator hearing <XB>
+3 	 2 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 hearing is
+7 	 3 	 (S[ng]\NP)/NP 	 2 	 case hearing
+7 	 4 	 NP[nb]/N 	 1 	 case another
+7 	 5 	 N/N 	 1 	 case pay
+7 	 6 	 N/N 	 1 	 case parity
+7 	 8 	 (NP\NP)/NP 	 1 	 case between
+7 	 14 	 (S[ng]\NP)/PP 	 1 	 case resulting <XB>
+9 	 8 	 (NP\NP)/NP 	 2 	 Eastern between
+12 	 8 	 (NP\NP)/NP 	 2 	 pilots between
+12 	 11 	 NP[nb]/N 	 1 	 pilots its
+15 	 14 	 (S[ng]\NP)/PP 	 2 	 from resulting
+18 	 15 	 PP/NP 	 1 	 set from
+18 	 16 	 NP[nb]/N 	 1 	 set a
+18 	 17 	 N/N 	 1 	 set similar
+18 	 19 	 (NP\NP)/NP 	 1 	 set of
+18 	 21 	 (S[ng]\NP)/NP 	 1 	 set involving <XB>
+20 	 19 	 (NP\NP)/NP 	 2 	 circumstances of
+25 	 21 	 (S[ng]\NP)/NP 	 2 	 raise involving
+25 	 22 	 NP[nb]/N 	 1 	 raise a
+25 	 23 	 N/N 	 1 	 raise separate
+25 	 24 	 N/N 	 1 	 raise pay
+25 	 26 	 (S[pss]\NP)/NP 	 1 	 raise granted <XB>
+28 	 26 	 (S[pss]\NP)/NP 	 2 	 union granted
+28 	 27 	 NP[nb]/N 	 1 	 union another
+<\s>
+<s id="wsj_0294.27"> 10
+1 	 0 	 NP[nb]/N 	 1 	 decision A
+1 	 2 	 (NP\NP)/NP 	 1 	 decision on
+1 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 decision is
+1 	 7 	 S[pss]\NP 	 1 	 decision expected <XB>
+4 	 2 	 (NP\NP)/NP 	 2 	 case on
+4 	 3 	 NP[nb]/N 	 1 	 case that
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 is n't
+7 	 5 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 expected is
+7 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 expected before
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 mid-November before
+<\s>
+<s id="wsj_0294.28"> 24
+2 	 3 	 (NP\NP)/NP 	 1 	 many of
+2 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 many have
+2 	 8 	 (S[pt]\NP)/NP 	 1 	 many left <XB>
+2 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 1 	 many are <XU>
+2 	 13 	 (S[ng]\NP)/NP 	 1 	 many striking <XU>
+5 	 3 	 (NP\NP)/NP 	 2 	 pilots of
+5 	 4 	 NP[nb]/N 	 1 	 pilots the
+5 	 6 	 S[pss]\NP 	 1 	 pilots involved <XB>
+7 	 0 	 S/S 	 1 	 have Ironically
+8 	 7 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 left have
+9 	 8 	 (S[pt]\NP)/NP 	 2 	 Eastern left
+11 	 0 	 S/S 	 1 	 are Ironically
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 are still
+13 	 11 	 (S[dcl]\NP)/(S[ng]\NP) 	 2 	 striking are
+15 	 13 	 (S[ng]\NP)/NP 	 2 	 carrier striking
+15 	 14 	 NP[nb]/N 	 1 	 carrier the
+15 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 carrier which
+15 	 18 	 (S[dcl]\NP)/PP 	 1 	 carrier filed <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 filed which
+18 	 22 	 ((S\NP)\(S\NP))/N[num] 	 2 	 filed March
+19 	 18 	 (S[dcl]\NP)/PP 	 2 	 for filed
+21 	 19 	 PP/NP 	 1 	 protection for
+21 	 20 	 N/N 	 1 	 protection bankruptcy
+23 	 22 	 ((S\NP)\(S\NP))/N[num] 	 3 	 9 March
+<\s>
+<s id="wsj_0294.29"> 11
+1 	 0 	 N/N 	 1 	 800 About
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 800 have
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 800 crossed <XB>
+1 	 8 	 S[pt]\NP 	 1 	 800 returned <XU>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 crossed have
+6 	 3 	 (S[pt]\NP)/NP 	 2 	 lines crossed
+6 	 4 	 NP[nb]/N 	 1 	 lines the
+6 	 5 	 N/N 	 1 	 lines picket
+8 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 returned have
+8 	 9 	 ((S\NP)\(S\NP))/NP 	 2 	 returned to
+10 	 9 	 ((S\NP)\(S\NP))/NP 	 3 	 work to
+<\s>

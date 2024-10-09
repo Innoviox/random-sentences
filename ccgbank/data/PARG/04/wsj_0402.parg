@@ -1,0 +1,135 @@
+<s id="wsj_0402.1"> 28
+2 	 0 	 N/N 	 1 	 Inc. Rymer
+2 	 1 	 N/N 	 1 	 Inc. Foods
+2 	 3 	 (S[dcl]\NP)/S[dcl] 	 1 	 Inc. said
+5 	 4 	 NP[nb]/N 	 1 	 board its
+5 	 6 	 (S[dcl]\NP)/NP 	 1 	 board authorized
+6 	 3 	 (S[dcl]\NP)/S[dcl] 	 2 	 authorized said
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 purchase authorized
+8 	 7 	 NP[nb]/N 	 1 	 purchase the
+8 	 9 	 (NP\NP)/NP 	 1 	 purchase of
+8 	 20 	 (NP\NP)/NP 	 1 	 purchase at
+10 	 9 	 (NP\NP)/NP 	 2 	 as of
+10 	 14 	 (NP\NP)/NP 	 1 	 as of
+11 	 10 	 (N/PP)/(S[adj]\NP) 	 2 	 many as
+12 	 10 	 (N/PP)/(S[adj]\NP) 	 1 	 as as
+13 	 12 	 PP/NP 	 1 	 500,000 as
+19 	 14 	 (NP\NP)/NP 	 2 	 warrants of
+19 	 15 	 NP[nb]/N 	 1 	 warrants its
+19 	 16 	 N/N 	 1 	 warrants common
+19 	 17 	 N/N 	 1 	 warrants stock
+19 	 18 	 N/N 	 1 	 warrants purchase
+22 	 20 	 (NP\NP)/NP 	 2 	 price at
+22 	 21 	 NP[nb]/N 	 1 	 price a
+22 	 23 	 (NP\NP)/NP 	 1 	 price of
+24 	 23 	 (NP\NP)/NP 	 2 	 $ of
+24 	 26 	 (NP\NP)/N 	 1 	 $ a
+25 	 24 	 N/N[num] 	 1 	 4 $
+27 	 26 	 (NP\NP)/N 	 2 	 warrant a
+<\s>
+<s id="wsj_0402.2"> 32
+2 	 0 	 NP[nb]/N 	 1 	 company The
+2 	 1 	 N/N 	 1 	 company food
+2 	 4 	 (NP\NP)/(S[dcl]\NP) 	 1 	 company which
+2 	 5 	 (S[dcl]\NP)/NP 	 1 	 company has <XB>
+2 	 16 	 (S[dcl]\NP)/S[dcl] 	 1 	 company said
+5 	 4 	 (NP\NP)/(S[dcl]\NP) 	 2 	 has which
+7 	 5 	 (S[dcl]\NP)/NP 	 2 	 warrants has
+7 	 6 	 N/N 	 1 	 warrants 720,000
+7 	 14 	 S[adj]\NP 	 1 	 warrants outstanding <XB>
+11 	 9 	 (N/N)/(N/N) 	 2 	 million about
+11 	 10 	 (N/N)/(N/N) 	 2 	 million 2.9
+13 	 5 	 (S[dcl]\NP)/NP 	 2 	 shares has
+13 	 11 	 N/N 	 1 	 shares million
+13 	 12 	 N/N 	 1 	 shares common
+13 	 14 	 S[adj]\NP 	 1 	 shares outstanding <XB>
+17 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 it may
+17 	 19 	 (S[b]\NP)/NP 	 1 	 it increase <XB>
+17 	 23 	 (S[b]\NP)/NP 	 1 	 it purchase <XB>
+18 	 16 	 (S[dcl]\NP)/S[dcl] 	 2 	 may said
+19 	 18 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 increase may
+21 	 19 	 (S[b]\NP)/NP 	 2 	 offer increase
+21 	 20 	 NP[nb]/N 	 1 	 offer the
+23 	 22 	 (S[to]\NP)/(S[b]\NP) 	 2 	 purchase to
+27 	 23 	 (S[b]\NP)/NP 	 2 	 warrants purchase
+27 	 24 	 NP[nb]/N 	 1 	 warrants any <XU>
+27 	 26 	 NP[nb]/N 	 1 	 warrants all
+27 	 28 	 (NP\NP)/(S[dcl]\NP) 	 1 	 warrants that
+27 	 29 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 warrants are <XB>
+27 	 31 	 S[pss]\NP 	 1 	 warrants tendered <XB>
+29 	 28 	 (NP\NP)/(S[dcl]\NP) 	 2 	 are that
+31 	 29 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 tendered are
+31 	 30 	 (S\NP)/(S\NP) 	 2 	 tendered properly
+<\s>
+<s id="wsj_0402.3"> 17
+1 	 0 	 NP[nb]/N 	 1 	 warrant A
+1 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 warrant permits
+4 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 holder permits
+4 	 3 	 NP[nb]/N 	 1 	 holder a
+4 	 6 	 ((S[b]\NP)/PP)/NP 	 1 	 holder acquire <XB>
+5 	 2 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to permits
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 acquire to
+8 	 6 	 ((S[b]\NP)/PP)/NP 	 3 	 share acquire
+8 	 7 	 N/N 	 1 	 share one
+8 	 9 	 (NP\NP)/NP 	 1 	 share of
+11 	 9 	 (NP\NP)/NP 	 2 	 stock of
+11 	 10 	 N/N 	 1 	 stock common
+12 	 6 	 ((S[b]\NP)/PP)/NP 	 2 	 for acquire
+13 	 12 	 PP/NP 	 1 	 $ for
+13 	 15 	 (NP\NP)/N 	 1 	 $ a
+14 	 13 	 N/N[num] 	 1 	 17.50 $
+16 	 15 	 (NP\NP)/N 	 2 	 share a
+<\s>
+<s id="wsj_0402.4"> 22
+1 	 0 	 NP[nb]/N 	 1 	 warrants The
+1 	 2 	 S[dcl]\NP 	 1 	 warrants expire
+1 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 warrants may <XU>
+1 	 12 	 (S[pss]\NP)/PP 	 1 	 warrants called <XU>
+2 	 3 	 ((S\NP)\(S\NP))/NP 	 2 	 expire on
+4 	 3 	 ((S\NP)\(S\NP))/NP 	 3 	 Oct. on
+4 	 7 	 N\N 	 1 	 Oct. 1992
+5 	 4 	 N/N[num] 	 1 	 15 Oct.
+11 	 10 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 be may
+12 	 11 	 (S[b]\NP)/(S[pss]\NP) 	 2 	 called be
+12 	 13 	 ((S\NP)\(S\NP))/NP 	 2 	 called by
+15 	 13 	 ((S\NP)\(S\NP))/NP 	 3 	 company by
+15 	 14 	 NP[nb]/N 	 1 	 company the
+16 	 12 	 (S[pss]\NP)/PP 	 2 	 at called
+18 	 16 	 PP/NP 	 1 	 price at
+18 	 17 	 NP[nb]/N 	 1 	 price a
+18 	 19 	 (NP\NP)/NP 	 1 	 price of
+20 	 19 	 (NP\NP)/NP 	 2 	 $ of
+21 	 20 	 N/N[num] 	 1 	 5.25 $
+<\s>
+<s id="wsj_0402.5"> 12
+1 	 0 	 NP[nb]/N 	 1 	 offer The
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 offer is
+1 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 1 	 offer scheduled <XB>
+1 	 5 	 S[b]\NP 	 1 	 offer expire <XB>
+1 	 11 	 S[pss]\NP 	 1 	 offer extended <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 scheduled is
+3 	 10 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 2 	 scheduled unless
+4 	 3 	 (S[pss]\NP)/(S[to]\NP) 	 2 	 to scheduled
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 expire to
+5 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 expire on
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 Nov. on
+8 	 7 	 N/N[num] 	 1 	 28 Nov.
+11 	 10 	 ((S\NP)\(S\NP))/(S[pss]\NP) 	 3 	 extended unless
+<\s>
+<s id="wsj_0402.6"> 18
+6 	 0 	 (S/S)/NP 	 2 	 trading In
+6 	 1 	 N/N 	 1 	 trading New
+6 	 2 	 N/N 	 1 	 trading York
+6 	 3 	 N/N 	 1 	 trading Stock
+6 	 4 	 N/N 	 1 	 trading Exchange
+6 	 5 	 N/N 	 1 	 trading composite
+8 	 9 	 (S[dcl]\NP)/PP 	 1 	 Rymer closed
+9 	 0 	 (S/S)/NP 	 1 	 closed In
+9 	 10 	 (S\NP)\(S\NP) 	 2 	 closed yesterday
+9 	 15 	 ((S\NP)\(S\NP))/NP 	 2 	 closed down
+11 	 9 	 (S[dcl]\NP)/PP 	 2 	 at closed
+12 	 11 	 PP/NP 	 1 	 $ at
+13 	 12 	 N/N[num] 	 1 	 10.875 $
+17 	 15 	 ((S\NP)\(S\NP))/NP 	 3 	 cents down
+17 	 16 	 N/N 	 1 	 cents 12.5
+<\s>

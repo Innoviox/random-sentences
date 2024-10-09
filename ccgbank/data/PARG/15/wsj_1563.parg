@@ -1,0 +1,383 @@
+<s id="wsj_1563.1"> 18
+1 	 0 	 (S/S)/(S[dcl]\NP) 	 2 	 SIZING IN
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 SIZING UP
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 risks SIZING
+4 	 3 	 NP[nb]/N 	 1 	 risks the
+4 	 5 	 (NP\NP)/NP 	 1 	 risks of
+7 	 5 	 (NP\NP)/NP 	 2 	 investments of
+7 	 6 	 N/N 	 1 	 investments stock-market
+9 	 10 	 (S[dcl]\NP[thr])/NP 	 1 	 there 's
+10 	 0 	 (S/S)/(S[dcl]\NP) 	 1 	 's IN
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 's probably
+14 	 10 	 (S[dcl]\NP[thr])/NP 	 2 	 place 's
+14 	 12 	 NP[nb]/N 	 1 	 place no
+14 	 13 	 N/N 	 1 	 place starting
+14 	 15 	 S[adj]\NP 	 1 	 place better <XB>
+15 	 16 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 2 	 better than
+17 	 16 	 ((S[adj]\NP)\(S[adj]\NP))/NP 	 3 	 beta than
+<\s>
+<s id="wsj_1563.2"> 9
+1 	 4 	 (S[b]\NP)/NP 	 1 	 investors ignore
+4 	 0 	 S/S 	 1 	 ignore But
+4 	 2 	 (S\NP)/(S\NP) 	 2 	 ignore better
+4 	 3 	 (S\NP)/(S\NP) 	 2 	 ignore not
+4 	 8 	 (S\NP)\(S\NP) 	 2 	 ignore either
+6 	 4 	 (S[b]\NP)/NP 	 2 	 limitations ignore
+6 	 5 	 NP[nb]/N 	 1 	 limitations its
+<\s>
+<s id="wsj_1563.3"> 16
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Beta is
+4 	 1 	 (S[dcl]\NP)/NP 	 2 	 gauge is
+4 	 2 	 NP[nb]/N 	 1 	 gauge a
+4 	 3 	 N/N 	 1 	 gauge handy
+4 	 5 	 (NP\NP)/(S[dcl]\NP) 	 1 	 gauge that
+4 	 6 	 (S[dcl]\NP)/NP 	 1 	 gauge measures <XB>
+6 	 5 	 (NP\NP)/(S[dcl]\NP) 	 2 	 measures that
+8 	 6 	 (S[dcl]\NP)/NP 	 2 	 volatility measures
+8 	 7 	 NP[nb]/N 	 1 	 volatility the
+8 	 9 	 (NP\NP)/NP 	 1 	 volatility of
+11 	 9 	 (NP\NP)/NP 	 2 	 stock of
+11 	 10 	 NP[nb]/N 	 1 	 stock a
+15 	 9 	 (NP\NP)/NP 	 2 	 fund of
+15 	 10 	 NP[nb]/N 	 1 	 fund a
+15 	 13 	 N/N 	 1 	 fund stock
+15 	 14 	 N/N 	 1 	 fund mutual
+<\s>
+<s id="wsj_1563.4"> 20
+3 	 0 	 (S/S)/NP 	 2 	 move For
+3 	 1 	 NP[nb]/N 	 1 	 move any
+3 	 2 	 N/N 	 1 	 move given
+3 	 4 	 (NP\NP)/NP 	 1 	 move in
+7 	 4 	 (NP\NP)/NP 	 2 	 market in
+7 	 5 	 NP[nb]/N 	 1 	 market the
+7 	 6 	 N/N 	 1 	 market overall
+9 	 10 	 (S[dcl]\NP)/S[qem] 	 1 	 it suggests
+10 	 0 	 (S/S)/NP 	 1 	 suggests For
+11 	 10 	 (S[dcl]\NP)/S[qem] 	 2 	 how suggests
+12 	 11 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 2 	 steeply how
+15 	 13 	 NP[nb]/N 	 1 	 issue that
+15 	 14 	 N/N 	 1 	 issue particular
+15 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 issue might
+15 	 17 	 S[b]\NP 	 1 	 issue rise <XB>
+15 	 19 	 S[b]\NP 	 1 	 issue fall <XU>
+16 	 11 	 (S[qem]/S[dcl])/(S[adj]\NP) 	 1 	 might how
+17 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 rise might
+19 	 16 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 fall might
+<\s>
+<s id="wsj_1563.5"> 9
+1 	 0 	 N/N 	 1 	 figures Beta
+1 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 figures are
+1 	 4 	 S[adj]\NP 	 1 	 figures available <XB>
+1 	 6 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 1 	 figures easy <XU>
+1 	 8 	 (S[b]\NP)/NP 	 2 	 figures interpret <XU>
+4 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 available are
+4 	 3 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 available widely
+6 	 2 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 easy are
+7 	 6 	 (S[adj]\NP)/((S[to]\NP)/NP) 	 2 	 to easy
+8 	 7 	 (S[to]\NP)/(S[b]\NP) 	 2 	 interpret to
+<\s>
+<s id="wsj_1563.6"> 21
+1 	 0 	 NP[nb]/N 	 1 	 beta The
+1 	 2 	 (NP\NP)/NP 	 1 	 beta of
+1 	 8 	 (S[pss]\NP)/PP 	 1 	 beta defined <XB>
+1 	 18 	 (S[dcl]\NP)/NP 	 1 	 beta is
+5 	 2 	 (NP\NP)/NP 	 2 	 market of
+5 	 3 	 NP[nb]/N 	 1 	 market the
+5 	 4 	 N/N 	 1 	 market broad
+8 	 7 	 (S\NP)/(S\NP) 	 2 	 defined typically
+9 	 8 	 (S[pss]\NP)/PP 	 2 	 as defined
+13 	 10 	 NP[nb]/N 	 1 	 Poor the
+13 	 11 	 N/N 	 1 	 Poor Standard
+13 	 12 	 N/N 	 1 	 Poor &
+13 	 14 	 (NP[nb]/N)\NP 	 2 	 Poor 's
+16 	 9 	 PP/NP 	 1 	 index as
+16 	 14 	 (NP[nb]/N)\NP 	 1 	 index 's
+16 	 15 	 N/N 	 1 	 index 500-stock
+18 	 19 	 (S\NP)\(S\NP) 	 2 	 is always
+20 	 18 	 (S[dcl]\NP)/NP 	 2 	 1.0 is
+<\s>
+<s id="wsj_1563.7"> 25
+2 	 1 	 NP[nb]/N 	 1 	 stock a
+2 	 3 	 (NP\NP)/NP 	 1 	 stock with
+2 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 stock is
+2 	 11 	 S[adj]\NP 	 1 	 stock volatile <XB>
+5 	 3 	 (NP\NP)/NP 	 2 	 beta with
+5 	 4 	 NP[nb]/N 	 1 	 beta a
+5 	 6 	 (NP\NP)/NP 	 1 	 beta of
+7 	 6 	 (NP\NP)/NP 	 2 	 0.5 of
+8 	 0 	 (S/S)/S[dcl] 	 2 	 is So
+11 	 8 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 volatile is
+11 	 9 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 volatile half
+11 	 10 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 volatile as
+13 	 14 	 (NP\NP)/NP 	 1 	 one at
+13 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 one is
+13 	 20 	 (S[adj]\NP)\NP 	 1 	 one volatile <XB>
+15 	 14 	 (NP\NP)/NP 	 2 	 1.5 at
+16 	 0 	 (S/S)/S[dcl] 	 1 	 is So
+16 	 23 	 S\S 	 1 	 is so
+18 	 17 	 N/N 	 1 	 % 50
+18 	 20 	 (S[adj]\NP)\NP 	 2 	 % volatile
+20 	 16 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 volatile is
+20 	 19 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 volatile more
+22 	 0 	 (S/S)/S[dcl] 	 1 	 and So
+22 	 23 	 S\S 	 1 	 and so
+23 	 24 	 (S\S)\(S\S) 	 2 	 so on
+<\s>
+<s id="wsj_1563.8"> 11
+1 	 0 	 N/N 	 1 	 investors Cautious
+1 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 investors should
+1 	 4 	 (S[b]\NP)/PP 	 1 	 investors go <XB>
+2 	 3 	 (S\NP)\(S\NP) 	 2 	 should generally
+4 	 2 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 go should
+5 	 4 	 (S[b]\NP)/PP 	 2 	 with go
+6 	 5 	 PP/NP 	 1 	 stocks with
+6 	 7 	 (NP\NP)/(S[b]\NP) 	 1 	 stocks that
+6 	 8 	 (S[b]\NP)/NP 	 1 	 stocks have <XB>
+8 	 7 	 (NP\NP)/(S[b]\NP) 	 2 	 have that
+10 	 8 	 (S[b]\NP)/NP 	 2 	 betas have
+10 	 9 	 N/N 	 1 	 betas low
+<\s>
+<s id="wsj_1563.9"> 16
+0 	 1 	 ((S\NP)\(S\NP))/NP 	 2 	 Go with
+3 	 1 	 ((S\NP)\(S\NP))/NP 	 3 	 stocks with
+3 	 2 	 N/N 	 1 	 stocks high-beta
+5 	 4 	 (S[to]\NP)/(S[b]\NP) 	 2 	 get to
+8 	 5 	 ((S[b]\NP)/PP)/NP 	 3 	 payoff get
+8 	 6 	 NP[nb]/N 	 1 	 payoff the
+8 	 7 	 N/N 	 1 	 payoff biggest
+9 	 5 	 ((S[b]\NP)/PP)/NP 	 2 	 from get
+11 	 9 	 PP/NP 	 1 	 bet from
+11 	 10 	 NP[nb]/N 	 1 	 bet a
+11 	 12 	 (NP\NP)/NP 	 1 	 bet on
+15 	 12 	 (NP\NP)/NP 	 2 	 market on
+15 	 13 	 NP[nb]/N 	 1 	 market a
+15 	 14 	 N/N 	 1 	 market bull
+<\s>
+<s id="wsj_1563.10"> 10
+0 	 2 	 (S\NP)\(S\NP) 	 2 	 Remember though
+4 	 0 	 (S[b]\NP)/S[em] 	 2 	 that Remember
+5 	 7 	 (S[dcl]\NP)/NP 	 1 	 beta has
+7 	 4 	 S[em]/S[dcl] 	 1 	 has that
+7 	 6 	 (S\NP)/(S\NP) 	 2 	 has also
+9 	 7 	 (S[dcl]\NP)/NP 	 2 	 limitations has
+9 	 8 	 N/N 	 1 	 limitations important
+<\s>
+<s id="wsj_1563.11"> 25
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Beta is
+1 	 11 	 (S[dcl]\S[dcl])/NP 	 1 	 is says
+3 	 1 	 (S[dcl]\NP)/NP 	 2 	 part is
+3 	 2 	 N/N 	 1 	 part only
+3 	 4 	 (NP\NP)/NP 	 1 	 part of
+6 	 4 	 (NP\NP)/NP 	 2 	 risk of
+6 	 5 	 NP[nb]/N 	 1 	 risk the
+6 	 7 	 (NP\NP)/NP 	 1 	 risk in
+9 	 7 	 (NP\NP)/NP 	 2 	 stock in
+9 	 8 	 NP[nb]/N 	 1 	 stock a
+14 	 11 	 (S[dcl]\S[dcl])/NP 	 2 	 Sharpe says
+14 	 12 	 N/N 	 1 	 Sharpe William
+14 	 13 	 N/N 	 1 	 Sharpe F.
+20 	 11 	 (S[dcl]\S[dcl])/NP 	 2 	 professor says
+20 	 16 	 NP[nb]/N 	 1 	 professor the
+20 	 17 	 N/N 	 1 	 professor Stanford
+20 	 18 	 N/N 	 1 	 professor University
+20 	 19 	 N/N 	 1 	 professor emeritus
+20 	 21 	 (NP\NP)/(S[dcl]\NP) 	 1 	 professor who
+20 	 22 	 (S[dcl]\NP)/NP 	 1 	 professor developed <XB>
+22 	 21 	 (NP\NP)/(S[dcl]\NP) 	 2 	 developed who
+24 	 22 	 (S[dcl]\NP)/NP 	 2 	 measure developed
+24 	 23 	 NP[nb]/N 	 1 	 measure the
+<\s>
+<s id="wsj_1563.12"> 22
+0 	 1 	 (S[dcl]\NP[thr])/NP 	 1 	 There is
+2 	 1 	 (S[dcl]\NP[thr])/NP 	 2 	 risk is
+2 	 3 	 (NP\NP)/(S[dcl]\NP) 	 1 	 risk that
+2 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 risk is <XB>
+2 	 6 	 (S[pss]\NP)/PP 	 1 	 risk associated <XB>
+4 	 3 	 (NP\NP)/(S[dcl]\NP) 	 2 	 is that
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 is not
+6 	 4 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 associated is
+7 	 6 	 (S[pss]\NP)/PP 	 2 	 with associated
+9 	 7 	 PP/NP 	 1 	 moves with
+9 	 8 	 N/N 	 1 	 moves market
+13 	 12 	 NP[nb]/N 	 1 	 beta the
+13 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 beta does
+13 	 16 	 ((S[b]\NP)/NP)/NP 	 1 	 beta tell <XB>
+14 	 15 	 (S\NP)\(S\NP) 	 2 	 does n't
+16 	 14 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 tell does
+17 	 16 	 ((S[b]\NP)/NP)/NP 	 3 	 you tell
+19 	 16 	 ((S[b]\NP)/NP)/NP 	 2 	 magnitude tell
+19 	 18 	 NP[nb]/N 	 1 	 magnitude the
+19 	 20 	 (NP\NP)/NP 	 1 	 magnitude of
+21 	 20 	 (NP\NP)/NP 	 2 	 that of
+<\s>
+<s id="wsj_1563.13"> 18
+1 	 0 	 (S/S)/NP 	 2 	 particular In
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 beta does
+3 	 6 	 (S[b]\NP)/NP 	 1 	 beta measure <XB>
+4 	 0 	 (S/S)/NP 	 1 	 does In
+4 	 5 	 (S\NP)\(S\NP) 	 2 	 does n't
+6 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 measure does
+8 	 6 	 (S[b]\NP)/NP 	 2 	 company measure
+8 	 7 	 NP[nb]/N 	 1 	 company the
+12 	 6 	 (S[b]\NP)/NP 	 2 	 risk measure
+12 	 11 	 N/N 	 1 	 risk industry-specific
+12 	 13 	 (S[pss]\NP)/PP 	 1 	 risk associated <XB>
+14 	 13 	 (S[pss]\NP)/PP 	 2 	 with associated
+17 	 14 	 PP/NP 	 1 	 stock with
+17 	 15 	 NP[nb]/N 	 1 	 stock an
+17 	 16 	 N/N 	 1 	 stock individual
+<\s>
+<s id="wsj_1563.14"> 25
+2 	 0 	 N/N 	 1 	 risk That
+2 	 1 	 N/N 	 1 	 risk business
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 risk is
+2 	 5 	 S[adj]\NP 	 1 	 risk significant <XB>
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 is for
+5 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 significant is
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 significant very
+8 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 investor for
+8 	 7 	 NP[nb]/N 	 1 	 investor an
+8 	 9 	 (NP\NP)/NP 	 1 	 investor with
+13 	 9 	 (NP\NP)/NP 	 2 	 stocks with
+13 	 10 	 NP/NP 	 1 	 stocks only
+13 	 11 	 NP/NP 	 1 	 stocks a
+13 	 12 	 NP[nb]/N 	 1 	 stocks few
+16 	 18 	 S[dcl]\NP 	 1 	 it disappears
+18 	 17 	 (S\NP)/(S\NP) 	 2 	 disappears virtually
+18 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 disappears in
+24 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 portfolio in
+24 	 20 	 NP[nb]/N 	 1 	 portfolio a
+24 	 21 	 N/N 	 1 	 portfolio large <XU>
+24 	 23 	 N/N 	 1 	 portfolio well-diversified
+<\s>
+<s id="wsj_1563.15"> 18
+0 	 1 	 (S[dcl]\NP)/NP 	 1 	 Beta is
+1 	 2 	 (S\NP)\(S\NP) 	 2 	 is also
+5 	 1 	 (S[dcl]\NP)/NP 	 2 	 indicator is
+5 	 3 	 NP[nb]/N 	 1 	 indicator a
+5 	 4 	 N/N 	 1 	 indicator poor
+5 	 6 	 (NP\NP)/NP 	 1 	 indicator of
+8 	 6 	 (NP\NP)/NP 	 2 	 risk of
+8 	 7 	 NP[nb]/N 	 1 	 risk the
+8 	 9 	 (NP\NP)/NP 	 1 	 risk in
+11 	 9 	 (NP\NP)/NP 	 2 	 groups in
+11 	 10 	 N/N 	 1 	 groups stock
+11 	 12 	 (NP\NP)/(S[b]\NP) 	 1 	 groups that
+11 	 13 	 (S[b]\NP)/PP 	 1 	 groups march <XB>
+13 	 12 	 (NP\NP)/(S[b]\NP) 	 2 	 march that
+14 	 13 	 (S[b]\NP)/PP 	 2 	 to march
+17 	 14 	 PP/NP 	 1 	 drummer to
+17 	 15 	 NP[nb]/N 	 1 	 drummer their
+17 	 16 	 N/N 	 1 	 drummer own
+<\s>
+<s id="wsj_1563.16"> 30
+1 	 0 	 (S/S)/NP 	 2 	 particular In
+4 	 3 	 NP[nb]/N 	 1 	 prices the
+4 	 5 	 (NP\NP)/NP 	 1 	 prices of
+4 	 11 	 S[b]\NP 	 1 	 prices shoot
+6 	 5 	 (NP\NP)/NP 	 2 	 gold of
+10 	 5 	 (NP\NP)/NP 	 2 	 stocks of
+10 	 8 	 N/N 	 1 	 stocks other
+10 	 9 	 N/N 	 1 	 stocks precious-metals
+11 	 0 	 (S/S)/NP 	 1 	 shoot In
+11 	 12 	 (S\NP)\(S\NP) 	 2 	 shoot up
+11 	 14 	 (S\NP)\(S\NP) 	 2 	 shoot down <XU>
+18 	 17 	 NP[nb]/N 	 1 	 stocks the
+18 	 19 	 (S[b]\NP)/(S[to]\NP) 	 1 	 stocks tend
+18 	 21 	 (S[b]\NP)/NP 	 1 	 stocks have <XB>
+19 	 0 	 (S/S)/NP 	 1 	 tend In
+19 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 2 	 tend because
+20 	 19 	 (S[b]\NP)/(S[to]\NP) 	 2 	 to tend
+21 	 20 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+23 	 21 	 (S[b]\NP)/NP 	 2 	 betas have
+23 	 22 	 N/N 	 1 	 betas low
+26 	 25 	 NP[nb]/N 	 1 	 moves their
+26 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 moves are
+26 	 29 	 S[adj]\NP 	 1 	 moves market-inspired <XB>
+27 	 24 	 ((S\NP)\(S\NP))/S[dcl] 	 3 	 are because
+27 	 28 	 (S\NP)\(S\NP) 	 2 	 are not
+29 	 27 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 market-inspired are
+<\s>
+<s id="wsj_1563.17"> 29
+0 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 1 	 Concern led
+1 	 0 	 N/S[em] 	 1 	 that Concern
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 investors could
+2 	 4 	 (S[b]\NP)/NP 	 1 	 investors misinterpret <XB>
+3 	 1 	 S[em]/S[dcl] 	 1 	 could that
+4 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 misinterpret could
+6 	 4 	 (S[b]\NP)/NP 	 2 	 readings misinterpret
+6 	 5 	 NP/NP 	 1 	 readings such
+10 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 3 	 Association led
+10 	 8 	 NP[nb]/N 	 1 	 Association the
+10 	 9 	 N/N 	 1 	 Association American
+10 	 11 	 (NP\NP)/NP 	 1 	 Association of
+10 	 15 	 (S[b]\NP)/NP 	 1 	 Association eliminate <XB>
+13 	 11 	 (NP\NP)/NP 	 2 	 Investors of
+13 	 12 	 N/N 	 1 	 Investors Individual
+14 	 7 	 ((S[dcl]\NP)/(S[to]\NP))/NP 	 2 	 to led
+15 	 14 	 (S[to]\NP)/(S[b]\NP) 	 2 	 eliminate to
+15 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 eliminate in
+17 	 15 	 (S[b]\NP)/NP 	 2 	 figures eliminate
+17 	 16 	 N/N 	 1 	 figures beta
+17 	 18 	 (NP\NP)/NP 	 1 	 figures for
+20 	 18 	 (NP\NP)/NP 	 2 	 funds for
+20 	 19 	 N/N 	 1 	 funds precious-metals
+24 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 edition in
+24 	 22 	 NP[nb]/N 	 1 	 edition the
+24 	 23 	 N/N 	 1 	 edition 1989
+24 	 25 	 (NP\NP)/NP 	 1 	 edition of
+28 	 25 	 (NP\NP)/NP 	 2 	 guide of
+28 	 26 	 NP[nb]/N 	 1 	 guide its
+28 	 27 	 N/N 	 1 	 guide mutual-fund
+<\s>
+<s id="wsj_1563.18"> 38
+1 	 0 	 NP[nb]/N 	 1 	 fear Our
+1 	 2 	 (S[dcl]\NP)/S[dcl] 	 1 	 fear was
+2 	 27 	 (S[dcl]\S[dcl])/NP 	 1 	 was says
+3 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 people would
+3 	 5 	 (S[b]\NP)/PP 	 1 	 people look <XB>
+3 	 17 	 (S[b]\NP)/S[dcl] 	 1 	 people say <XU>
+4 	 2 	 (S[dcl]\NP)/S[dcl] 	 2 	 would was
+5 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 look would
+5 	 6 	 (S\NP)\(S\NP) 	 2 	 look just
+7 	 5 	 (S[b]\NP)/PP 	 2 	 at look
+9 	 7 	 PP/NP 	 1 	 beta at
+9 	 8 	 NP[nb]/N 	 1 	 beta the
+9 	 11 	 (NP\NP)/NP 	 1 	 beta of
+14 	 11 	 (NP\NP)/NP 	 2 	 fund of
+14 	 12 	 NP[nb]/N 	 1 	 fund a
+14 	 13 	 N/N 	 1 	 fund gold
+17 	 4 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 say would
+18 	 19 	 (S[dcl]\(S[adj]\NP))/NP 	 1 	 here is
+19 	 17 	 (S[b]\NP)/S[dcl] 	 2 	 is say
+21 	 19 	 (S[dcl]\(S[adj]\NP))/NP 	 2 	 investment is
+21 	 20 	 NP[nb]/N 	 1 	 investment an
+21 	 22 	 (NP\NP)/NP 	 1 	 investment with
+24 	 23 	 (N/N)/(N/N) 	 2 	 low very
+25 	 22 	 (NP\NP)/NP 	 2 	 risk with
+25 	 24 	 N/N 	 1 	 risk low
+29 	 27 	 (S[dcl]\S[dcl])/NP 	 2 	 Markese says
+29 	 28 	 N/N 	 1 	 Markese John
+31 	 27 	 (S[dcl]\S[dcl])/NP 	 2 	 director says
+31 	 32 	 (NP\NP)/NP 	 1 	 director of
+31 	 34 	 (NP\NP)/NP 	 1 	 director for
+33 	 32 	 (NP\NP)/NP 	 2 	 research of
+37 	 34 	 (NP\NP)/NP 	 2 	 group for
+37 	 35 	 NP[nb]/N 	 1 	 group the
+37 	 36 	 N/N 	 1 	 group Chicago-based
+<\s>
+<s id="wsj_1563.19"> 16
+1 	 0 	 (S/S)/NP 	 2 	 reality In
+2 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 1 	 it 's
+2 	 5 	 S[adj]\NP 	 1 	 it volatile <XB>
+3 	 0 	 (S/S)/NP 	 1 	 's In
+5 	 3 	 (S[dcl]\NP)/(S[adj]\NP) 	 2 	 volatile 's
+5 	 4 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 volatile very
+9 	 8 	 NP[nb]/N 	 1 	 movements the
+9 	 10 	 (S[dcl]\NP)/PP 	 1 	 movements are
+10 	 11 	 (S\NP)\(S\NP) 	 2 	 are not
+13 	 10 	 (S[dcl]\NP)/PP 	 2 	 of are
+13 	 12 	 PP/PP 	 1 	 of because
+15 	 13 	 PP/NP 	 1 	 movements of
+15 	 14 	 N/N 	 1 	 movements market
+<\s>

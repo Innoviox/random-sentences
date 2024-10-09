@@ -1,0 +1,52 @@
+<s id="wsj_1239.1"> 19
+2 	 0 	 N/N 	 1 	 sales Canadian
+2 	 1 	 N/N 	 1 	 sales retail
+2 	 3 	 S[dcl]\NP 	 1 	 sales rose
+3 	 5 	 (S\NP)\(S\NP) 	 2 	 rose %
+3 	 6 	 ((S\NP)\(S\NP))/NP 	 2 	 rose in
+3 	 8 	 ((S\NP)\(S\NP))/NP 	 2 	 rose from
+3 	 18 	 (S[dcl]\S[dcl])\NP 	 1 	 rose said
+5 	 4 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 % 0.2
+7 	 6 	 ((S\NP)\(S\NP))/NP 	 3 	 August in
+9 	 8 	 ((S\NP)\(S\NP))/NP 	 3 	 July from
+12 	 11 	 N/N 	 1 	 Canada Statistics
+12 	 18 	 (S[dcl]\S[dcl])\NP 	 2 	 Canada said
+16 	 14 	 NP[nb]/N 	 1 	 agency a
+16 	 15 	 N/N 	 1 	 agency federal
+16 	 18 	 (S[dcl]\S[dcl])\NP 	 2 	 agency said
+<\s>
+<s id="wsj_1239.2"> 10
+2 	 0 	 NP[nb]/N 	 1 	 increase The
+2 	 1 	 N/N 	 1 	 increase August
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 increase followed
+6 	 5 	 (N/N)/(N/N) 	 2 	 % 0.3
+7 	 3 	 (S[dcl]\NP)/NP 	 2 	 decline followed
+7 	 4 	 NP[nb]/N 	 1 	 decline a
+7 	 6 	 N/N 	 1 	 decline %
+7 	 8 	 (NP\NP)/NP 	 1 	 decline in
+9 	 8 	 (NP\NP)/NP 	 2 	 July in
+<\s>
+<s id="wsj_1239.3"> 24
+4 	 0 	 (S/S)/NP 	 2 	 months During
+4 	 1 	 NP[nb]/N 	 1 	 months the
+4 	 2 	 N/N 	 1 	 months past
+4 	 3 	 N/N 	 1 	 months four
+7 	 6 	 N/N 	 1 	 sales retail
+7 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 sales have
+7 	 9 	 (S[pt]\NP)/(S[adj]\NP) 	 1 	 sales remained <XB>
+7 	 11 	 S[adj]\NP 	 1 	 sales weak <XB>
+7 	 13 	 (S[ng]\NP)/NP 	 1 	 sales advancing <XB>
+8 	 0 	 (S/S)/NP 	 1 	 have During
+8 	 23 	 (S[dcl]\S[dcl])\NP 	 1 	 have said
+9 	 8 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 remained have
+11 	 9 	 (S[pt]\NP)/(S[adj]\NP) 	 2 	 weak remained
+11 	 10 	 (S[adj]\NP)/(S[adj]\NP) 	 2 	 weak generally
+15 	 13 	 (S[ng]\NP)/NP 	 2 	 average advancing
+15 	 14 	 NP[nb]/N 	 1 	 average an
+15 	 17 	 NP\NP 	 1 	 average %
+15 	 18 	 (NP\NP)/N 	 1 	 average a
+17 	 16 	 (NP\NP)/(NP\NP) 	 2 	 % 0.2
+19 	 18 	 (NP\NP)/N 	 2 	 month a
+22 	 21 	 NP[nb]/N 	 1 	 agency the
+22 	 23 	 (S[dcl]\S[dcl])\NP 	 2 	 agency said
+<\s>

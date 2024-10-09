@@ -1,0 +1,227 @@
+<s id="wsj_0262.1"> 24
+2 	 0 	 N/N 	 1 	 Inc. Newport
+2 	 1 	 N/N 	 1 	 Inc. Electronics
+2 	 3 	 (S[dcl]\NP)/NP 	 1 	 Inc. named
+6 	 3 	 (S[dcl]\NP)/NP 	 2 	 slate named
+6 	 4 	 NP[nb]/N 	 1 	 slate a
+6 	 5 	 N/N 	 1 	 slate new
+6 	 7 	 (NP\NP)/NP 	 1 	 slate of
+8 	 7 	 (NP\NP)/NP 	 2 	 officers of
+11 	 10 	 NP[nb]/N 	 1 	 move a
+11 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 move that
+11 	 13 	 (S[dcl]\NP)/NP 	 1 	 move follows <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 follows that
+14 	 13 	 (S[dcl]\NP)/NP 	 2 	 replacement follows
+14 	 15 	 (NP\NP)/NP 	 1 	 replacement of
+14 	 23 	 NP\NP 	 1 	 replacement week
+17 	 16 	 NP[nb]/N 	 1 	 company the
+17 	 18 	 (NP[nb]/N)\NP 	 2 	 company 's
+21 	 15 	 (NP\NP)/NP 	 2 	 directors of
+21 	 18 	 (NP[nb]/N)\NP 	 1 	 directors 's
+21 	 19 	 N/N 	 1 	 directors five
+21 	 20 	 N/N 	 1 	 directors incumbent
+23 	 22 	 (NP\NP)/(NP\NP) 	 2 	 week last
+<\s>
+<s id="wsj_0262.2"> 18
+2 	 0 	 N/N 	 1 	 Hollander Milton
+2 	 1 	 N/N 	 1 	 Hollander B.
+2 	 6 	 (S[adj]\NP)\NP 	 1 	 Hollander old <XB>
+2 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Hollander was
+2 	 9 	 (S[pss]\NP)/NP 	 1 	 Hollander named <XB>
+2 	 14 	 (S[ng]\NP)/NP 	 1 	 Hollander succeeding <XB>
+5 	 4 	 N/N 	 1 	 years 60
+5 	 6 	 (S[adj]\NP)\NP 	 2 	 years old
+9 	 8 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+12 	 9 	 (S[pss]\NP)/NP 	 2 	 officer named
+12 	 10 	 N/N 	 1 	 officer chief
+12 	 11 	 N/N 	 1 	 officer executive
+17 	 14 	 (S[ng]\NP)/NP 	 2 	 Weekes succeeding
+17 	 15 	 N/N 	 1 	 Weekes Barrett
+17 	 16 	 N/N 	 1 	 Weekes B.
+<\s>
+<s id="wsj_0262.3"> 21
+1 	 0 	 N/N 	 1 	 Hollander Mr.
+1 	 2 	 (NP[nb]/N)\NP 	 2 	 Hollander 's
+5 	 3 	 (N/N)/(N/N) 	 2 	 Conn.-based Stamford
+9 	 2 	 (NP[nb]/N)\NP 	 1 	 Co. 's
+9 	 5 	 N/N 	 1 	 Co. Conn.-based
+9 	 6 	 N/N 	 1 	 Co. High
+9 	 7 	 N/N 	 1 	 Co. Technology
+9 	 8 	 N/N 	 1 	 Co. Holding
+9 	 10 	 (S[dcl]\NP)/NP 	 1 	 Co. acquired
+10 	 19 	 ((S\NP)\(S\NP))/NP 	 2 	 acquired in
+11 	 10 	 (S[dcl]\NP)/NP 	 2 	 most acquired
+11 	 12 	 (NP\NP)/NP 	 1 	 most of
+15 	 14 	 (N/N)/(N/N) 	 2 	 % 49.4
+16 	 12 	 (NP\NP)/NP 	 2 	 stake of
+16 	 13 	 NP[nb]/N 	 1 	 stake its
+16 	 15 	 N/N 	 1 	 stake %
+16 	 17 	 (NP\NP)/NP 	 1 	 stake in
+18 	 17 	 (NP\NP)/NP 	 2 	 Newport in
+20 	 19 	 ((S\NP)\(S\NP))/NP 	 3 	 August in
+<\s>
+<s id="wsj_0262.4"> 18
+1 	 0 	 N/N 	 1 	 Hollander Mr.
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Hollander was
+1 	 3 	 (S[pss]\NP)/NP 	 1 	 Hollander named <XB>
+1 	 8 	 (S[ng]\NP)/NP 	 1 	 Hollander succeeding <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+3 	 6 	 (S\NP)\(S\NP) 	 2 	 named week
+4 	 3 	 (S[pss]\NP)/NP 	 2 	 chairman named
+6 	 5 	 ((S\NP)\(S\NP))/((S\NP)\(S\NP)) 	 3 	 week last
+10 	 8 	 (S[ng]\NP)/NP 	 2 	 Weekes succeeding
+10 	 9 	 N/N 	 1 	 Weekes Mr.
+10 	 12 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Weekes who
+10 	 13 	 (S[dcl]\NP)/PP 	 1 	 Weekes was <XB>
+13 	 12 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was who
+14 	 13 	 (S[dcl]\NP)/PP 	 2 	 among was
+17 	 14 	 PP/NP 	 1 	 directors among
+17 	 15 	 NP[nb]/N 	 1 	 directors the
+17 	 16 	 N/N 	 1 	 directors ousted
+<\s>
+<s id="wsj_0262.5"> 24
+1 	 0 	 NP[nb]/N 	 1 	 company The
+1 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 company has
+1 	 3 	 (S[pt]\NP)/NP 	 1 	 company declined <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 declined has
+4 	 3 	 (S[pt]\NP)/NP 	 2 	 requests declined
+4 	 6 	 (S[b]\NP)/NP 	 1 	 requests discuss <XB>
+6 	 5 	 (S[to]\NP)/(S[b]\NP) 	 2 	 discuss to
+8 	 6 	 (S[b]\NP)/NP 	 2 	 changes discuss
+8 	 7 	 NP[nb]/N 	 1 	 changes the
+12 	 11 	 N/N 	 1 	 Weekes Mr.
+12 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 Weekes has
+12 	 14 	 (S[pt]\NP)/S[em] 	 1 	 Weekes said <XB>
+14 	 13 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 said has
+15 	 14 	 (S[pt]\NP)/S[em] 	 2 	 that said
+17 	 16 	 N/N 	 1 	 Hollander Mr.
+17 	 18 	 (S[dcl]\NP)/(S[to]\NP) 	 1 	 Hollander wanted
+17 	 20 	 (S[b]\NP)/NP 	 1 	 Hollander have <XB>
+18 	 15 	 S[em]/S[dcl] 	 1 	 wanted that
+19 	 18 	 (S[dcl]\NP)/(S[to]\NP) 	 2 	 to wanted
+20 	 19 	 (S[to]\NP)/(S[b]\NP) 	 2 	 have to
+23 	 20 	 (S[b]\NP)/NP 	 2 	 team have
+23 	 21 	 NP[nb]/N 	 1 	 team his
+23 	 22 	 N/N 	 1 	 team own
+<\s>
+<s id="wsj_0262.6"> 21
+1 	 0 	 N/N 	 1 	 Wakeman Scott
+1 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Wakeman was
+1 	 3 	 (S[pss]\NP)/NP 	 1 	 Wakeman named <XB>
+3 	 2 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+4 	 3 	 (S[pss]\NP)/NP 	 2 	 president named
+4 	 9 	 (NP\NP)/NP 	 1 	 president of
+8 	 3 	 (S[pss]\NP)/NP 	 2 	 officer named
+8 	 6 	 N/N 	 1 	 officer chief
+8 	 7 	 N/N 	 1 	 officer operating
+8 	 9 	 (NP\NP)/NP 	 1 	 officer of
+11 	 9 	 (NP\NP)/NP 	 2 	 operations of
+11 	 10 	 N/N 	 1 	 operations U.S.
+13 	 3 	 (S[pss]\NP)/NP 	 2 	 titles named
+13 	 14 	 (NP\NP)/(S[dcl]\NP) 	 1 	 titles that
+13 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 1 	 titles had <XB>
+13 	 17 	 S[pss]\NP 	 1 	 titles held <XB>
+15 	 14 	 (NP\NP)/(S[dcl]\NP) 	 2 	 had that
+16 	 15 	 (S[dcl]\NP)/(S[pt]\NP) 	 2 	 been had
+17 	 16 	 (S[pt]\NP)/(S[pss]\NP) 	 2 	 held been
+17 	 18 	 ((S\NP)\(S\NP))/NP 	 2 	 held by
+20 	 18 	 ((S\NP)\(S\NP))/NP 	 3 	 Weekes by
+20 	 19 	 N/N 	 1 	 Weekes Mr.
+<\s>
+<s id="wsj_0262.7"> 24
+1 	 0 	 N/N 	 1 	 Wakeman Mr.
+1 	 2 	 (S[dcl]\NP)/NP 	 1 	 Wakeman was
+4 	 2 	 (S[dcl]\NP)/NP 	 2 	 president was
+4 	 3 	 N/N 	 1 	 president vice
+4 	 5 	 (NP\NP)/NP 	 1 	 president of
+10 	 5 	 (NP\NP)/NP 	 2 	 division of
+10 	 6 	 NP[nb]/N 	 1 	 division the
+10 	 7 	 N/N 	 1 	 division instrument
+10 	 9 	 N/N 	 1 	 division controls
+10 	 11 	 (NP\NP)/NP 	 1 	 division of
+13 	 12 	 (N/N)/(N/N) 	 2 	 held closely
+16 	 11 	 (NP\NP)/NP 	 2 	 Inc. of
+16 	 13 	 N/N 	 1 	 Inc. held
+16 	 14 	 N/N 	 1 	 Inc. Omega
+16 	 15 	 N/N 	 1 	 Inc. Engineering
+19 	 11 	 (NP\NP)/NP 	 2 	 company of
+19 	 18 	 NP[nb]/N 	 1 	 company another
+19 	 20 	 S[pss]\NP 	 1 	 company controlled <XB>
+20 	 21 	 ((S\NP)\(S\NP))/NP 	 2 	 controlled by
+23 	 21 	 ((S\NP)\(S\NP))/NP 	 3 	 Hollander by
+23 	 22 	 N/N 	 1 	 Hollander Mr.
+<\s>
+<s id="wsj_0262.8"> 10
+2 	 0 	 NP[nb]/N 	 1 	 spokesman A
+2 	 1 	 N/N 	 1 	 spokesman company
+2 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 1 	 spokesman did
+2 	 5 	 (S[b]\NP)/NP 	 1 	 spokesman know <XB>
+3 	 4 	 (S\NP)\(S\NP) 	 2 	 did n't
+5 	 3 	 (S[dcl]\NP)/(S[b]\NP) 	 2 	 know did
+7 	 6 	 N/N 	 1 	 Wakeman Mr.
+7 	 8 	 (NP[nb]/N)\NP 	 2 	 Wakeman 's
+9 	 5 	 (S[b]\NP)/NP 	 2 	 age know
+9 	 8 	 (NP[nb]/N)\NP 	 1 	 age 's
+<\s>
+<s id="wsj_0262.9"> 34
+2 	 0 	 N/N 	 1 	 Lees James
+2 	 1 	 N/N 	 1 	 Lees R.
+2 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Lees was
+2 	 15 	 (S[pss]\NP)/NP 	 1 	 Lees named <XB>
+2 	 27 	 (S[ng]\NP)/NP 	 1 	 Lees assuming <XB>
+4 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 51 was
+4 	 15 	 (S[pss]\NP)/NP 	 1 	 51 named <XB>
+4 	 27 	 (S[ng]\NP)/NP 	 1 	 51 assuming <XB>
+7 	 6 	 N/N 	 1 	 president vice
+7 	 8 	 (NP\NP)/NP 	 1 	 president of
+7 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 president was
+7 	 15 	 (S[pss]\NP)/NP 	 1 	 president named <XB>
+7 	 27 	 (S[ng]\NP)/NP 	 1 	 president assuming <XB>
+9 	 10 	 (NP[nb]/N)\NP 	 2 	 Newport 's
+12 	 8 	 (NP\NP)/NP 	 2 	 operations of
+12 	 10 	 (NP[nb]/N)\NP 	 1 	 operations 's
+12 	 11 	 N/N 	 1 	 operations European
+15 	 14 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+18 	 15 	 (S[pss]\NP)/NP 	 2 	 president named
+18 	 16 	 N/N 	 1 	 president executive
+18 	 17 	 N/N 	 1 	 president vice
+18 	 23 	 (NP\NP)/NP 	 1 	 president of
+22 	 15 	 (S[pss]\NP)/NP 	 2 	 officer named
+22 	 20 	 N/N 	 1 	 officer chief
+22 	 21 	 N/N 	 1 	 officer operating
+22 	 23 	 (NP\NP)/NP 	 1 	 officer of
+25 	 23 	 (NP\NP)/NP 	 2 	 operations of
+25 	 24 	 N/N 	 1 	 operations European
+30 	 27 	 (S[ng]\NP)/NP 	 2 	 duties assuming
+30 	 28 	 NP[nb]/N 	 1 	 duties some
+30 	 29 	 N/N 	 1 	 duties former
+30 	 31 	 (NP\NP)/NP 	 1 	 duties of
+33 	 31 	 (NP\NP)/NP 	 2 	 Weekes of
+33 	 32 	 N/N 	 1 	 Weekes Mr.
+<\s>
+<s id="wsj_0262.10"> 24
+2 	 0 	 N/N 	 1 	 Crozier Arthur
+2 	 1 	 N/N 	 1 	 Crozier B.
+2 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 Crozier was
+2 	 10 	 (S[pss]\NP)/NP 	 1 	 Crozier named <XB>
+2 	 13 	 (S[ng]\NP)/NP 	 1 	 Crozier succeeding <XB>
+4 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 34 was
+4 	 10 	 (S[pss]\NP)/NP 	 1 	 34 named <XB>
+4 	 13 	 (S[ng]\NP)/NP 	 1 	 34 succeeding <XB>
+7 	 6 	 NP[nb]/N 	 1 	 attorney an
+7 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 1 	 attorney was
+7 	 10 	 (S[pss]\NP)/NP 	 1 	 attorney named <XB>
+7 	 13 	 (S[ng]\NP)/NP 	 1 	 attorney succeeding <XB>
+10 	 9 	 (S[dcl]\NP)/(S[pss]\NP) 	 2 	 named was
+11 	 10 	 (S[pss]\NP)/NP 	 2 	 secretary named
+15 	 13 	 (S[ng]\NP)/NP 	 2 	 Virtue succeeding
+15 	 14 	 N/N 	 1 	 Virtue John
+15 	 17 	 (NP\NP)/(S[dcl]\NP) 	 1 	 Virtue who
+15 	 18 	 (S[dcl]\NP)/NP 	 1 	 Virtue was <XB>
+18 	 17 	 (NP\NP)/(S[dcl]\NP) 	 2 	 was who
+19 	 18 	 (S[dcl]\NP)/NP 	 2 	 another was
+19 	 20 	 (NP\NP)/NP 	 1 	 another of
+23 	 20 	 (NP\NP)/NP 	 2 	 directors of
+23 	 21 	 NP[nb]/N 	 1 	 directors the
+23 	 22 	 N/N 	 1 	 directors ousted
+<\s>
